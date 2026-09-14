@@ -1,7 +1,7 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "14/09/2026 à 21h02",
-  "seuil": 6,
+  "collecte": "14/09/2026 à 22h20",
+  "seuil": 14,
   "sujets": [
     {
       "id": "the-steam-frame-launches-during-one-of-the-slowest-periods-f",
@@ -14,8 +14,8 @@ const VEILLE = {
         "PC Gamer",
         "Rock Paper Shotgun"
       ],
-      "reprises": 8,
-      "heures": 2.0,
+      "reprises": 5,
+      "heures": 3.3,
       "chaleur": 20,
       "liens": [
         {
@@ -42,11 +42,6 @@ const VEILLE = {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/steam-frame-vr-price-where-how-to-buy",
           "titre": "Valve's long-awaited standalone VR headset Steam Frame starts at £889 and sign-ups open today - but you'll need to be quick"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/steam-frame-review",
-          "titre": "Steam Frame review"
         }
       ]
     },
@@ -61,7 +56,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 8.8,
+      "heures": 10.1,
       "chaleur": 18,
       "liens": [
         {
@@ -98,7 +93,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 5,
-      "heures": 10.3,
+      "heures": 11.6,
       "chaleur": 16,
       "liens": [
         {
@@ -129,24 +124,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "more-than-40-of-people-cancelling-xbox-game-pass-playstation",
-      "titre": "More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online subscriptions blame rising costs",
-      "url": "https://www.gamesindustry.biz/more-than-40-of-people-cancelling-xbox-game-pass-playstation-plus-and-nintendo-switch-online-subscriptions-blame-rising-costs",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 14,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/more-than-40-of-people-cancelling-xbox-game-pass-playstation-plus-and-nintendo-switch-online-subscriptions-blame-rising-costs",
-          "titre": "More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online subscriptions blame rising costs"
-        }
-      ]
-    },
-    {
       "id": "moss-developer-polyarc-has-shut-down",
       "titre": "Moss developer Polyarc has shut down",
       "url": "https://www.gamedeveloper.com/business/moss-developer-polyarc-has-shut-down",
@@ -156,7 +133,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 7.8,
+      "heures": 9.1,
       "chaleur": 13,
       "liens": [
         {
@@ -186,7 +163,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 0.9,
+      "heures": 2.2,
       "chaleur": 12,
       "liens": [
         {
@@ -215,7 +192,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 2.0,
+      "heures": 3.3,
       "chaleur": 12,
       "liens": [
         {
@@ -231,6 +208,54 @@ const VEILLE = {
       ]
     },
     {
+      "id": "marathon-s-future-questioned-as-bungie-delays-big-update-and",
+      "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule",
+      "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
+      "sources": [
+        "PC Gamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 2.8,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
+          "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/bungie-delays-next-marathon-update-and-ends-strict-seasonal-schedule-as-it-goes-all-in-on-destiny-like-features/",
+          "titre": "Bungie delays next Marathon update and ends 'strict seasonal schedule' as it goes all-in on Destiny-like features"
+        }
+      ]
+    },
+    {
+      "id": "rayman-legends-retold-now-out-in-december-ps5-remake-delayed",
+      "titre": "Rayman Legends Retold Now Out in December, PS5 Remake Delayed Two Months",
+      "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-now-out-in-december-ps5-remake-delayed-two-months",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 3.8,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-now-out-in-december-ps5-remake-delayed-two-months",
+          "titre": "Rayman Legends Retold Now Out in December, PS5 Remake Delayed Two Months"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/rayman-legends-retold-has-been-delayed",
+          "titre": "Rayman Legends Retold Has Been Delayed"
+        }
+      ]
+    },
+    {
       "id": "lies-of-p-publisher-files-trademark-for-likely-sequel-wonder",
       "titre": "Lies of P publisher files trademark for likely sequel 'Wonders of O'",
       "url": "https://www.pcgamer.com/games/action/lies-of-p-publisher-files-trademark-for-likely-sequel-wonders-of-o/",
@@ -240,8 +265,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 3.2,
-      "chaleur": 12,
+      "heures": 4.5,
+      "chaleur": 10,
       "liens": [
         {
           "source": "PC Gamer",
@@ -269,8 +294,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 3.4,
-      "chaleur": 12,
+      "heures": 4.7,
+      "chaleur": 10,
       "liens": [
         {
           "source": "PC Gamer",
@@ -285,50 +310,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "marathon-s-future-questioned-as-bungie-delays-big-update-and",
-      "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule",
-      "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
+      "id": "after-nearly-a-year-of-silence-following-its-last-minute-del",
+      "titre": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest",
+      "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
       "sources": [
-        "PC Gamer",
-        "Push Square"
+        "PC Gamer"
       ],
-      "reprises": 2,
+      "reprises": 1,
       "heures": 1.5,
-      "chaleur": 11,
+      "chaleur": 8,
       "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
-          "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule"
-        },
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/bungie-delays-next-marathon-update-and-ends-strict-seasonal-schedule-as-it-goes-all-in-on-destiny-like-features/",
-          "titre": "Bungie delays next Marathon update and ends 'strict seasonal schedule' as it goes all-in on Destiny-like features"
-        }
-      ]
-    },
-    {
-      "id": "rayman-legends-retold-now-out-in-december-ps5-remake-delayed",
-      "titre": "Rayman Legends Retold Now Out in December, PS5 Remake Delayed Two Months",
-      "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-now-out-in-december-ps5-remake-delayed-two-months",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 2.5,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-now-out-in-december-ps5-remake-delayed-two-months",
-          "titre": "Rayman Legends Retold Now Out in December, PS5 Remake Delayed Two Months"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/rayman-legends-retold-has-been-delayed",
-          "titre": "Rayman Legends Retold Has Been Delayed"
+          "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
+          "titre": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest"
         }
       ]
     },
@@ -341,8 +336,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 3.0,
-      "chaleur": 9,
+      "heures": 4.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -357,146 +352,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "after-nearly-a-year-of-silence-following-its-last-minute-del",
-      "titre": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest",
-      "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
+      "id": "more-than-40-of-people-cancelling-xbox-game-pass-playstation",
+      "titre": "More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online subscriptions blame rising costs",
+      "url": "https://www.gamesindustry.biz/more-than-40-of-people-cancelling-xbox-game-pass-playstation-plus-and-nintendo-switch-online-subscriptions-blame-rising-costs",
       "sources": [
-        "PC Gamer"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.2,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
-          "titre": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest"
-        }
-      ]
-    },
-    {
-      "id": "valve-decided-that-cutting-the-steam-frame-s-specs-to-avoid",
-      "titre": "Valve decided that cutting the Steam Frame’s specs to avoid price rises wasn't \"the right product choice\" for the VR headset",
-      "url": "https://www.rockpapershotgun.com/valve-decided-that-cutting-the-steam-frames-specs-to-avoid-price-rises-wasnt-the-right-product-choice-for-the-vr-headset",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valve-decided-that-cutting-the-steam-frames-specs-to-avoid-price-rises-wasnt-the-right-product-choice-for-the-vr-headset",
-          "titre": "Valve decided that cutting the Steam Frame’s specs to avoid price rises wasn't \"the right product choice\" for the VR headset"
-        }
-      ]
-    },
-    {
-      "id": "marathon-s-permanent-pve-mode-and-next-major-update-delayed",
-      "titre": "Marathon's permanent PvE mode and next major update delayed to December days before launch, and Bungie's \"moving away from a strict season schedule\"",
-      "url": "https://www.eurogamer.net/marathon-pve-mode-delay-bungie-major-update",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marathon-pve-mode-delay-bungie-major-update",
-          "titre": "Marathon's permanent PvE mode and next major update delayed to December days before launch, and Bungie's \"moving away from a strict season schedule\""
-        }
-      ]
-    },
-    {
-      "id": "you-can-now-sign-up-to-order-valve-s-steam-frame-vr-headset",
-      "titre": "You can now sign up to order Valve’s Steam Frame VR headset, it costs over $1,000 but includes Half-Life: Alyx",
-      "url": "https://www.videogameschronicle.com/news/you-can-now-sign-up-to-order-valves-steam-frame-vr-headset-it-costs-over-1000-but-includes-half-life-alyx/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/you-can-now-sign-up-to-order-valves-steam-frame-vr-headset-it-costs-over-1000-but-includes-half-life-alyx/",
-          "titre": "You can now sign up to order Valve’s Steam Frame VR headset, it costs over $1,000 but includes Half-Life: Alyx"
-        }
-      ]
-    },
-    {
-      "id": "valve-targeted-a-lower-price-for-the-steam-frame-then-the-me",
-      "titre": "Valve targeted a lower price for the Steam Frame, then the memory crisis happened: 'I wish we could have shipped it at the price that we were at last year'",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-targeted-a-lower-price-for-the-steam-frame-then-the-memory-crisis-happened-i-wish-we-could-have-shipped-it-at-the-price-that-we-were-at-last-year/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-targeted-a-lower-price-for-the-steam-frame-then-the-memory-crisis-happened-i-wish-we-could-have-shipped-it-at-the-price-that-we-were-at-last-year/",
-          "titre": "Valve targeted a lower price for the Steam Frame, then the memory crisis happened: 'I wish we could have shipped it at the price that we were at last year'"
-        }
-      ]
-    },
-    {
-      "id": "valve-working-on-steam-frame-strap-that-adds-index-like-spea",
-      "titre": "Valve working on Steam Frame strap that adds Index-like speakers and hot-swappable batteries, 'coming soon'",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-working-on-steam-frame-strap-that-adds-index-like-speakers-and-hot-swappable-batteries-coming-soon/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-working-on-steam-frame-strap-that-adds-index-like-speakers-and-hot-swappable-batteries-coming-soon/",
-          "titre": "Valve working on Steam Frame strap that adds Index-like speakers and hot-swappable batteries, 'coming soon'"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-updates-zelda-timeline-seemingly-confirming-a-fan-t",
-      "titre": "Nintendo Updates Zelda Timeline, Seemingly Confirming A Fan Theory",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-updates-zelda-timeline-seemingly-confirming-a-fan-theory",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendo-updates-zelda-timeline-seemingly-confirming-a-fan-theory",
-          "titre": "Nintendo Updates Zelda Timeline, Seemingly Confirming A Fan Theory"
-        }
-      ]
-    },
-    {
-      "id": "worker-run-studio-ko-op-confirms-layoffs",
-      "titre": "Worker-run studio KO_OP confirms layoffs",
-      "url": "https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 10.8,
+      "heures": 4.8,
       "chaleur": 7,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs",
-          "titre": "Worker-run studio KO_OP confirms layoffs"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/more-than-40-of-people-cancelling-xbox-game-pass-playstation-plus-and-nintendo-switch-online-subscriptions-blame-rising-costs",
+          "titre": "More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online subscriptions blame rising costs"
+        }
+      ]
+    },
+    {
+      "id": "arc-raiders-expeditions-may-not-come-back-maybe-we-ll-scrap",
+      "titre": "Arc Raiders Expeditions may not come back: 'Maybe we'll scrap the whole system'",
+      "url": "https://www.pcgamer.com/games/fps/arc-raiders-expeditions-may-not-come-back-maybe-well-scrap-the-whole-system/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/arc-raiders-expeditions-may-not-come-back-maybe-well-scrap-the-whole-system/",
+          "titre": "Arc Raiders Expeditions may not come back: 'Maybe we'll scrap the whole system'"
         }
       ]
     },
@@ -508,7 +395,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
@@ -526,7 +413,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -544,7 +431,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -562,7 +449,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -573,38 +460,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "valve-had-next-gen-vr-headsets-ready-three-four-years-ago-an",
-      "titre": "Valve had next-gen VR 'headsets ready three, four years ago and they were big, bulky devices' but went back to the drawing board after actually putting them on",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-had-next-gen-vr-headsets-ready-three-four-years-ago-and-they-were-big-bulky-devices-but-went-back-to-the-drawing-board-after-actually-putting-them-on/",
+      "id": "valve-decided-that-cutting-the-steam-frame-s-specs-to-avoid",
+      "titre": "Valve decided that cutting the Steam Frame’s specs to avoid price rises wasn't \"the right product choice\" for the VR headset",
+      "url": "https://www.rockpapershotgun.com/valve-decided-that-cutting-the-steam-frames-specs-to-avoid-price-rises-wasnt-the-right-product-choice-for-the-vr-headset",
       "sources": [
-        "PC Gamer"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 3.0,
+      "heures": 4.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-had-next-gen-vr-headsets-ready-three-four-years-ago-and-they-were-big-bulky-devices-but-went-back-to-the-drawing-board-after-actually-putting-them-on/",
-          "titre": "Valve had next-gen VR 'headsets ready three, four years ago and they were big, bulky devices' but went back to the drawing board after actually putting them on"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/valve-decided-that-cutting-the-steam-frames-specs-to-avoid-price-rises-wasnt-the-right-product-choice-for-the-vr-headset",
+          "titre": "Valve decided that cutting the Steam Frame’s specs to avoid price rises wasn't \"the right product choice\" for the VR headset"
         }
       ]
     },
     {
-      "id": "ps5-blackout-protest-made-no-significant-change-at-all-to-pl",
-      "titre": "PS5 Blackout Protest Made 'No Significant Change at All' to Player Counts, Says US Data",
-      "url": "https://www.pushsquare.com/news/2026/09/ps5-blackout-protest-made-no-significant-change-at-all-to-player-counts-says-us-data",
+      "id": "marathon-s-permanent-pve-mode-and-next-major-update-delayed",
+      "titre": "Marathon's permanent PvE mode and next major update delayed to December days before launch, and Bungie's \"moving away from a strict season schedule\"",
+      "url": "https://www.eurogamer.net/marathon-pve-mode-delay-bungie-major-update",
       "sources": [
-        "Push Square"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.3,
+      "heures": 4.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/ps5-blackout-protest-made-no-significant-change-at-all-to-player-counts-says-us-data",
-          "titre": "PS5 Blackout Protest Made 'No Significant Change at All' to Player Counts, Says US Data"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/marathon-pve-mode-delay-bungie-major-update",
+          "titre": "Marathon's permanent PvE mode and next major update delayed to December days before launch, and Bungie's \"moving away from a strict season schedule\""
+        }
+      ]
+    },
+    {
+      "id": "you-can-now-sign-up-to-order-valve-s-steam-frame-vr-headset",
+      "titre": "You can now sign up to order Valve’s Steam Frame VR headset, it costs over $1,000 but includes Half-Life: Alyx",
+      "url": "https://www.videogameschronicle.com/news/you-can-now-sign-up-to-order-valves-steam-frame-vr-headset-it-costs-over-1000-but-includes-half-life-alyx/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/you-can-now-sign-up-to-order-valves-steam-frame-vr-headset-it-costs-over-1000-but-includes-half-life-alyx/",
+          "titre": "You can now sign up to order Valve’s Steam Frame VR headset, it costs over $1,000 but includes Half-Life: Alyx"
+        }
+      ]
+    },
+    {
+      "id": "valve-targeted-a-lower-price-for-the-steam-frame-then-the-me",
+      "titre": "Valve targeted a lower price for the Steam Frame, then the memory crisis happened: 'I wish we could have shipped it at the price that we were at last year'",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-targeted-a-lower-price-for-the-steam-frame-then-the-memory-crisis-happened-i-wish-we-could-have-shipped-it-at-the-price-that-we-were-at-last-year/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-targeted-a-lower-price-for-the-steam-frame-then-the-memory-crisis-happened-i-wish-we-could-have-shipped-it-at-the-price-that-we-were-at-last-year/",
+          "titre": "Valve targeted a lower price for the Steam Frame, then the memory crisis happened: 'I wish we could have shipped it at the price that we were at last year'"
+        }
+      ]
+    },
+    {
+      "id": "valve-working-on-steam-frame-strap-that-adds-index-like-spea",
+      "titre": "Valve working on Steam Frame strap that adds Index-like speakers and hot-swappable batteries, 'coming soon'",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-working-on-steam-frame-strap-that-adds-index-like-speakers-and-hot-swappable-batteries-coming-soon/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-working-on-steam-frame-strap-that-adds-index-like-speakers-and-hot-swappable-batteries-coming-soon/",
+          "titre": "Valve working on Steam Frame strap that adds Index-like speakers and hot-swappable batteries, 'coming soon'"
         }
       ]
     },
@@ -616,7 +557,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 5.3,
       "chaleur": 6,
       "liens": [
         {
@@ -634,7 +575,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 5.3,
       "chaleur": 6,
       "liens": [
         {
@@ -652,7 +593,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 6.3,
       "chaleur": 6,
       "liens": [
         {
@@ -670,7 +611,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 6.8,
       "chaleur": 6,
       "liens": [
         {
@@ -688,7 +629,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.1,
       "chaleur": 6,
       "liens": [
         {
@@ -706,7 +647,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 7.7,
       "chaleur": 6,
       "liens": [
         {
@@ -724,7 +665,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 8.6,
       "chaleur": 6,
       "liens": [
         {
@@ -742,7 +683,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.7,
+      "heures": 10.0,
       "chaleur": 6,
       "liens": [
         {
@@ -760,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 10.3,
       "chaleur": 6,
       "liens": [
         {
@@ -778,13 +719,49 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 10.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/roblox-plan-to-grow-their-absurd-gaming-empire-even-further-by-letting-devs-release-games-as-standalone-apps-potentially-via-steam-epic-and-gog",
           "titre": "Roblox plan to grow their absurd gaming empire even further by letting devs release games as \"standalone apps\", potentially via Steam, Epic, and GOG"
+        }
+      ]
+    },
+    {
+      "id": "worker-run-studio-ko-op-confirms-layoffs",
+      "titre": "Worker-run studio KO_OP confirms layoffs",
+      "url": "https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 12.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs",
+          "titre": "Worker-run studio KO_OP confirms layoffs"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-updates-zelda-timeline-seemingly-confirming-a-fan-t",
+      "titre": "Nintendo Updates Zelda Timeline, Seemingly Confirming A Fan Theory",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-updates-zelda-timeline-seemingly-confirming-a-fan-theory",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nintendo-updates-zelda-timeline-seemingly-confirming-a-fan-theory",
+          "titre": "Nintendo Updates Zelda Timeline, Seemingly Confirming A Fan Theory"
         }
       ]
     },
@@ -796,7 +773,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.0,
+      "heures": 30.3,
       "chaleur": 5,
       "liens": [
         {
@@ -814,7 +791,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.0,
+      "heures": 31.3,
       "chaleur": 5,
       "liens": [
         {
@@ -832,13 +809,49 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 32.6,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/diablo-4-season-of-hells-legacy-switch-2-amazon-class",
           "titre": "Diablo 4's new season brings back Deckard Cain and all three Prime Evils as the game arrives on Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "valve-had-next-gen-vr-headsets-ready-three-four-years-ago-an",
+      "titre": "Valve had next-gen VR 'headsets ready three, four years ago and they were big, bulky devices' but went back to the drawing board after actually putting them on",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-had-next-gen-vr-headsets-ready-three-four-years-ago-and-they-were-big-bulky-devices-but-went-back-to-the-drawing-board-after-actually-putting-them-on/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-had-next-gen-vr-headsets-ready-three-four-years-ago-and-they-were-big-bulky-devices-but-went-back-to-the-drawing-board-after-actually-putting-them-on/",
+          "titre": "Valve had next-gen VR 'headsets ready three, four years ago and they were big, bulky devices' but went back to the drawing board after actually putting them on"
+        }
+      ]
+    },
+    {
+      "id": "ps5-blackout-protest-made-no-significant-change-at-all-to-pl",
+      "titre": "PS5 Blackout Protest Made 'No Significant Change at All' to Player Counts, Says US Data",
+      "url": "https://www.pushsquare.com/news/2026/09/ps5-blackout-protest-made-no-significant-change-at-all-to-player-counts-says-us-data",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/ps5-blackout-protest-made-no-significant-change-at-all-to-player-counts-says-us-data",
+          "titre": "PS5 Blackout Protest Made 'No Significant Change at All' to Player Counts, Says US Data"
         }
       ]
     },
@@ -850,7 +863,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 5.3,
       "chaleur": 4,
       "liens": [
         {
@@ -868,7 +881,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 5.3,
       "chaleur": 4,
       "liens": [
         {
@@ -886,7 +899,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 5.6,
       "chaleur": 4,
       "liens": [
         {
@@ -904,7 +917,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.0,
       "chaleur": 4,
       "liens": [
         {
@@ -922,7 +935,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -940,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -958,31 +971,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/previews/the-expanse-osiris-reborn-is-what-fans-of-the-books-and-show-have-been-waiting-for",
           "titre": "Preview: The Expanse: Osiris Reborn Is What Fans of the Books and Show Have Been Waiting For"
-        }
-      ]
-    },
-    {
-      "id": "the-rampocalypse-support-group",
-      "titre": "The RAMpocalypse support group",
-      "url": "https://www.pcgamer.com/hardware/the-rampocalypse-support-group/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/the-rampocalypse-support-group/",
-          "titre": "The RAMpocalypse support group"
         }
       ]
     },
@@ -994,7 +989,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1012,7 +1007,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1030,7 +1025,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1048,7 +1043,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1066,7 +1061,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1084,7 +1079,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1102,7 +1097,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1120,7 +1115,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.3,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1138,8 +1133,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
+      "heures": 12.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1155,19 +1150,14 @@ const VEILLE = {
       "sources": [
         "Eurogamer"
       ],
-      "reprises": 2,
-      "heures": 11.5,
-      "chaleur": 4,
+      "reprises": 1,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/why-blizzard-dating-games-far-away-starcraft-diablo-5",
           "titre": "Blizzard explains why it's revealing StarCraft and Diablo 5 release dates so far away: \"We want to convey confidence in some of our biggest bets\""
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/diablo-4-expansions-over",
-          "titre": "Blizzard confirms no more Diablo 4 expansions from now until Diablo 5's release"
         }
       ]
     },
@@ -1179,7 +1169,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 13.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1197,7 +1187,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 13.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1215,7 +1205,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1226,7 +1216,5 @@ const VEILLE = {
       ]
     }
   ],
-  "alertes": [
-    "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest"
-  ]
+  "alertes": []
 };
