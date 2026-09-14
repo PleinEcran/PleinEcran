@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "14/09/2026 à 20h45",
+  "collecte": "14/09/2026 à 21h02",
   "seuil": 6,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 8,
-      "heures": 1.8,
+      "heures": 2.0,
       "chaleur": 20,
       "liens": [
         {
@@ -61,7 +61,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 8.5,
+      "heures": 8.8,
       "chaleur": 18,
       "liens": [
         {
@@ -98,7 +98,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 5,
-      "heures": 10.0,
+      "heures": 10.3,
       "chaleur": 16,
       "liens": [
         {
@@ -136,7 +136,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 3.2,
+      "heures": 3.5,
       "chaleur": 14,
       "liens": [
         {
@@ -156,7 +156,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 7.5,
+      "heures": 7.8,
       "chaleur": 13,
       "liens": [
         {
@@ -186,7 +186,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 0.6,
+      "heures": 0.9,
       "chaleur": 12,
       "liens": [
         {
@@ -215,7 +215,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.7,
+      "heures": 2.0,
       "chaleur": 12,
       "liens": [
         {
@@ -240,7 +240,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 2.9,
+      "heures": 3.2,
       "chaleur": 12,
       "liens": [
         {
@@ -269,7 +269,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 3.1,
+      "heures": 3.4,
       "chaleur": 12,
       "liens": [
         {
@@ -293,7 +293,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.3,
+      "heures": 1.5,
       "chaleur": 11,
       "liens": [
         {
@@ -317,7 +317,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 2.3,
+      "heures": 2.5,
       "chaleur": 11,
       "liens": [
         {
@@ -341,7 +341,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 2.8,
+      "heures": 3.0,
       "chaleur": 9,
       "liens": [
         {
@@ -357,6 +357,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "after-nearly-a-year-of-silence-following-its-last-minute-del",
+      "titre": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest",
+      "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
+          "titre": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest"
+        }
+      ]
+    },
+    {
       "id": "valve-decided-that-cutting-the-steam-frame-s-specs-to-avoid",
       "titre": "Valve decided that cutting the Steam Frame’s specs to avoid price rises wasn't \"the right product choice\" for the VR headset",
       "url": "https://www.rockpapershotgun.com/valve-decided-that-cutting-the-steam-frames-specs-to-avoid-price-rises-wasnt-the-right-product-choice-for-the-vr-headset",
@@ -364,7 +382,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 2.8,
+      "heures": 3.0,
       "chaleur": 8,
       "liens": [
         {
@@ -382,7 +400,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.9,
+      "heures": 3.1,
       "chaleur": 8,
       "liens": [
         {
@@ -400,7 +418,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 3.2,
+      "heures": 3.5,
       "chaleur": 8,
       "liens": [
         {
@@ -418,7 +436,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.3,
+      "heures": 3.5,
       "chaleur": 8,
       "liens": [
         {
@@ -436,49 +454,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.6,
+      "heures": 3.9,
       "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-working-on-steam-frame-strap-that-adds-index-like-speakers-and-hot-swappable-batteries-coming-soon/",
           "titre": "Valve working on Steam Frame strap that adds Index-like speakers and hot-swappable batteries, 'coming soon'"
-        }
-      ]
-    },
-    {
-      "id": "steam-frame-review-another-best-in-class-vr-headset-by-valve",
-      "titre": "Steam Frame review: Another best-in-class VR headset by Valve, though virtual realities clash with economic ones",
-      "url": "https://www.rockpapershotgun.com/steam-frame-review",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/steam-frame-review",
-          "titre": "Steam Frame review: Another best-in-class VR headset by Valve, though virtual realities clash with economic ones"
-        }
-      ]
-    },
-    {
-      "id": "it-s-absolutely-our-goal-to-expand-the-market-valve-s-new-s",
-      "titre": "\"It's absolutely our goal to expand the market\" - Valve's new Steam Frame VR headset has a nifty idea for broader appeal",
-      "url": "https://www.eurogamer.net/valve-steam-frame-vr-demand-expand-market",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/valve-steam-frame-vr-demand-expand-market",
-          "titre": "\"It's absolutely our goal to expand the market\" - Valve's new Steam Frame VR headset has a nifty idea for broader appeal"
         }
       ]
     },
@@ -490,7 +472,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.3,
+      "heures": 11.5,
       "chaleur": 8,
       "liens": [
         {
@@ -508,7 +490,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 10.6,
+      "heures": 10.8,
       "chaleur": 7,
       "liens": [
         {
@@ -526,7 +508,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 0.8,
       "chaleur": 6,
       "liens": [
         {
@@ -544,7 +526,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 1.0,
       "chaleur": 6,
       "liens": [
         {
@@ -562,7 +544,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 2.0,
       "chaleur": 6,
       "liens": [
         {
@@ -580,7 +562,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 2.0,
       "chaleur": 6,
       "liens": [
         {
@@ -598,7 +580,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.8,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -616,7 +598,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 3.0,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -627,38 +609,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "feature-luigi-s-mansion-is-one-of-my-favourite-gamecube-game",
-      "titre": "Feature: Luigi's Mansion Is One Of My Favourite GameCube Games, But I've Never Actually Owned It",
-      "url": "https://www.nintendolife.com/features/luigis-mansion-is-one-of-my-favourite-gamecube-games-but-ive-never-actually-owned-it",
+      "id": "steam-frame-review-another-best-in-class-vr-headset-by-valve",
+      "titre": "Steam Frame review: Another best-in-class VR headset by Valve, though virtual realities clash with economic ones",
+      "url": "https://www.rockpapershotgun.com/steam-frame-review",
       "sources": [
-        "Nintendo Life"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 3.8,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/luigis-mansion-is-one-of-my-favourite-gamecube-games-but-ive-never-actually-owned-it",
-          "titre": "Feature: Luigi's Mansion Is One Of My Favourite GameCube Games, But I've Never Actually Owned It"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/steam-frame-review",
+          "titre": "Steam Frame review: Another best-in-class VR headset by Valve, though virtual realities clash with economic ones"
         }
       ]
     },
     {
-      "id": "ace-combat-8-s-new-trailer-is-awesome-but-maybe-avoid-it-if",
-      "titre": "Ace Combat 8's New Trailer Is Awesome, But Maybe Avoid It if You're Already In",
-      "url": "https://www.pushsquare.com/news/2026/09/ace-combat-8s-new-trailer-is-awesome-but-maybe-avoid-it-if-youre-already-in",
+      "id": "it-s-absolutely-our-goal-to-expand-the-market-valve-s-new-s",
+      "titre": "\"It's absolutely our goal to expand the market\" - Valve's new Steam Frame VR headset has a nifty idea for broader appeal",
+      "url": "https://www.eurogamer.net/valve-steam-frame-vr-demand-expand-market",
       "sources": [
-        "Push Square"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.8,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/ace-combat-8s-new-trailer-is-awesome-but-maybe-avoid-it-if-youre-already-in",
-          "titre": "Ace Combat 8's New Trailer Is Awesome, But Maybe Avoid It if You're Already In"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/valve-steam-frame-vr-demand-expand-market",
+          "titre": "\"It's absolutely our goal to expand the market\" - Valve's new Steam Frame VR headset has a nifty idea for broader appeal"
         }
       ]
     },
@@ -670,7 +652,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 5.0,
       "chaleur": 6,
       "liens": [
         {
@@ -688,7 +670,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 5.5,
       "chaleur": 6,
       "liens": [
         {
@@ -706,7 +688,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 5.8,
       "chaleur": 6,
       "liens": [
         {
@@ -724,7 +706,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 6.4,
       "chaleur": 6,
       "liens": [
         {
@@ -742,7 +724,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 7.3,
       "chaleur": 6,
       "liens": [
         {
@@ -760,7 +742,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 8.7,
       "chaleur": 6,
       "liens": [
         {
@@ -778,7 +760,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 9.0,
       "chaleur": 6,
       "liens": [
         {
@@ -796,7 +778,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 9.4,
       "chaleur": 6,
       "liens": [
         {
@@ -814,7 +796,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.8,
+      "heures": 29.0,
       "chaleur": 5,
       "liens": [
         {
@@ -832,7 +814,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.8,
+      "heures": 30.0,
       "chaleur": 5,
       "liens": [
         {
@@ -850,13 +832,49 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.0,
+      "heures": 31.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/diablo-4-season-of-hells-legacy-switch-2-amazon-class",
           "titre": "Diablo 4's new season brings back Deckard Cain and all three Prime Evils as the game arrives on Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "feature-luigi-s-mansion-is-one-of-my-favourite-gamecube-game",
+      "titre": "Feature: Luigi's Mansion Is One Of My Favourite GameCube Games, But I've Never Actually Owned It",
+      "url": "https://www.nintendolife.com/features/luigis-mansion-is-one-of-my-favourite-gamecube-games-but-ive-never-actually-owned-it",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/luigis-mansion-is-one-of-my-favourite-gamecube-games-but-ive-never-actually-owned-it",
+          "titre": "Feature: Luigi's Mansion Is One Of My Favourite GameCube Games, But I've Never Actually Owned It"
+        }
+      ]
+    },
+    {
+      "id": "ace-combat-8-s-new-trailer-is-awesome-but-maybe-avoid-it-if",
+      "titre": "Ace Combat 8's New Trailer Is Awesome, But Maybe Avoid It if You're Already In",
+      "url": "https://www.pushsquare.com/news/2026/09/ace-combat-8s-new-trailer-is-awesome-but-maybe-avoid-it-if-youre-already-in",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/ace-combat-8s-new-trailer-is-awesome-but-maybe-avoid-it-if-youre-already-in",
+          "titre": "Ace Combat 8's New Trailer Is Awesome, But Maybe Avoid It if You're Already In"
         }
       ]
     },
@@ -868,7 +886,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 4.3,
       "chaleur": 4,
       "liens": [
         {
@@ -886,7 +904,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 4.7,
       "chaleur": 4,
       "liens": [
         {
@@ -904,7 +922,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 4.9,
       "chaleur": 4,
       "liens": [
         {
@@ -922,7 +940,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 5.0,
       "chaleur": 4,
       "liens": [
         {
@@ -940,7 +958,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 5.0,
       "chaleur": 4,
       "liens": [
         {
@@ -958,31 +976,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 5.2,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/the-rampocalypse-support-group/",
           "titre": "The RAMpocalypse support group"
-        }
-      ]
-    },
-    {
-      "id": "redfall-co-director-harvey-smith-thinks-arkane-never-should",
-      "titre": "Redfall co-director Harvey Smith thinks Arkane 'never should have been working on a games-as-a-service game'",
-      "url": "https://www.pcgamer.com/games/fps/redfall-co-director-harvey-smith-thinks-arkane-never-should-have-been-working-on-a-games-as-a-service-game/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/redfall-co-director-harvey-smith-thinks-arkane-never-should-have-been-working-on-a-games-as-a-service-game/",
-          "titre": "Redfall co-director Harvey Smith thinks Arkane 'never should have been working on a games-as-a-service game'"
         }
       ]
     },
@@ -994,7 +994,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 5.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1012,7 +1012,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 7.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1030,7 +1030,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1048,7 +1048,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1066,7 +1066,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1084,7 +1084,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1102,7 +1102,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1120,7 +1120,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.0,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1138,7 +1138,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.4,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1156,7 +1156,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 2,
-      "heures": 11.2,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1179,8 +1179,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 12.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1197,7 +1197,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 12.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1215,7 +1215,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 12.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1227,42 +1227,6 @@ const VEILLE = {
     }
   ],
   "alertes": [
-    "The Steam Frame launches during one of the slowest periods for VR on Steam, but Valve hopes to 'rekindle the excitement' for PCVR",
-    "Sony letter spells the end for unreleased The Last of Us Part 2 multiplayer mod, its creator says",
-    "A StarCraft open-world shooter that's \"Deadwood in space\", Diablo 5, and a new classic-ish World of Warcraft branch out this year make up Blizzard of reveals",
-    "More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online subscriptions blame rising costs",
-    "Moss developer Polyarc has shut down",
-    "Level-5 CEO admits using generative AI in recent showcase",
-    "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\"",
-    "Lies of P publisher files trademark for likely sequel 'Wonders of O'",
-    "Forget GTA 6, I have brought GTA 5 closer to being the true greatest game of all time: Hulk – Ultimate Destruction",
-    "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule",
-    "Rayman Legends Retold Now Out in December, PS5 Remake Delayed Two Months",
-    "SEGA's Going Nuts with Crazy Taxi Movie, Another Sonic TV Series, and More",
-    "Valve decided that cutting the Steam Frame’s specs to avoid price rises wasn't \"the right product choice\" for the VR headset",
-    "Marathon's permanent PvE mode and next major update delayed to December days before launch, and Bungie's \"moving away from a strict season schedule\"",
-    "You can now sign up to order Valve’s Steam Frame VR headset, it costs over $1,000 but includes Half-Life: Alyx",
-    "Valve targeted a lower price for the Steam Frame, then the memory crisis happened: 'I wish we could have shipped it at the price that we were at last year'",
-    "Valve working on Steam Frame strap that adds Index-like speakers and hot-swappable batteries, 'coming soon'",
-    "Steam Frame review: Another best-in-class VR headset by Valve, though virtual realities clash with economic ones",
-    "\"It's absolutely our goal to expand the market\" - Valve's new Steam Frame VR headset has a nifty idea for broader appeal",
-    "Nintendo Updates Zelda Timeline, Seemingly Confirming A Fan Theory",
-    "Worker-run studio KO_OP confirms layoffs",
-    "Wardogs players are actively avoiding one team in particular: 'They are literally the dumbest people on the planet'",
-    "The King Is Watching devs are making The Crab is Walking, this journalist is writing",
-    "\"We track every server you enter\": the Wardogs devs are \"coming down hard\" on XP farms and cash exploits, even as they encourage people to grind",
-    "Poll: 10 Years Later, Is Persona 5 a True JRPG Masterpiece?",
-    "Valve had next-gen VR 'headsets ready three, four years ago and they were big, bulky devices' but went back to the drawing board after actually putting them on",
-    "PS5 Blackout Protest Made 'No Significant Change at All' to Player Counts, Says US Data",
-    "Feature: Luigi's Mansion Is One Of My Favourite GameCube Games, But I've Never Actually Owned It",
-    "Ace Combat 8's New Trailer Is Awesome, But Maybe Avoid It if You're Already In",
-    "Blizzard say Battle.net isn't looking to fight Steam and Epic for supermassive storefront supremacy, despite recently nabbing The Witcher 3 and Cyberpunk 2077",
-    "As a Gundam Nut, I'm Happy to Report Rogue Orbit Looks Fantastic in New PS5 Gameplay Footage",
-    "Hori Has Announced A Modular Arcade Stick For Switch 2, And It Looks Awesome",
-    "\"Valve is under the impression that this game is way sexier\": Nighthawks devs claim vampire RPG has erroneously been slapped with Steam adult content label",
-    "PlayStation allegedly had \"concerns over budget, potential profitability, and exclusivity\" over Kojima Productions' Physint",
-    "The other Xbox 360 exclusive JRPG from the creator of Final Fantasy now has a PC port",
-    "Guide: Nintendo's 'Customer Appreciation Sale' Discounts Games, amiibo & More, Here's Everything Included (US)",
-    "Roblox plan to grow their absurd gaming empire even further by letting devs release games as \"standalone apps\", potentially via Steam, Epic, and GOG"
+    "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest"
   ]
 };
