@@ -1,0 +1,42 @@
+# Veille permanente : collecte toutes les deux heures et alerte si l'actu chauffe.
+name: veille
+on:
+  schedule:
+    - cron: "5 */2 * * *"
+  workflow_dispatch:
+jobs:
+  collecter:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collecter et mesurer la température
+        id: collecte
+        run: |
+          set +e
+          python3 veille.py
+          echo "chaud=$?" >> $GITHUB_OUTPUT
+          exit 0
+
+      - name: Publier la collecte
+        run: |
+          git config user.name "veille-bot"
+          git config user.email "veille-bot@users.noreply.github.com"
+          git add console/veille.js
+          git diff --staged --quiet || git commit -m "Veille du $(date +'%F %H:%M')"
+          git pull --rebase --autostash || true
+          git push
+
+      - name: Alerter si un sujet chaud est apparu
+        if: steps.collecte.outputs.chaud == '10'
+        env:
+          MAIL_EXPEDITEUR: ${{ secrets.MAIL_EXPEDITEUR }}
+          MAIL_MOTDEPASSE: ${{ secrets.MAIL_MOTDEPASSE }}
+          MAIL_DESTINATAIRE: ${{ secrets.MAIL_DESTINATAIRE }}
+          LIEN_CONSOLE: ${{ secrets.LIEN_CONSOLE }}
+        run: python3 notifier.py --alerte
