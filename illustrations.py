@@ -39,13 +39,22 @@ API = "https://commons.wikimedia.org/w/api.php"
 AGENT = "PleinEcran/1.0 (site de presse jeu video ; contact redaction@plein-ecran.fr)"
 LARGEUR = 1200
 
-# Licences acceptées. Tout le reste est rejeté, y compris les mentions
-# non commerciales (NC) et sans modification (ND).
+# Licences acceptées, repérées par motif dans le nom court donné par Commons.
 LICENCES_OK = (
-    "cc0", "cc-zero", "public domain", "pd-", "pd ", "cc by 2", "cc by 3", "cc by 4",
-    "cc by-sa 2", "cc by-sa 3", "cc by-sa 4",
+    "cc0", "cc-zero", "public domain", "pd-", "pd ", "domaine public",
+    "cc by 1", "cc by 2", "cc by 3", "cc by 4",
+    "cc by-sa 1", "cc by-sa 2", "cc by-sa 3", "cc by-sa 4",
+    "attribution", "gfdl",
 )
-LICENCES_INTERDITES = ("nc", "nd", "fair use", "non-free")
+# Mentions qui interdisent l'usage. Recherchées comme mots entiers : « nc » ne
+# doit pas déclencher sur « franchise », ni « nd » sur « second ».
+LICENCES_INTERDITES = (
+    "noncommercial", "non-commercial", "by-nc", "cc nc", "noderiv", "by-nd",
+    "fair use", "non-free", "nonfree", "usage éducatif",
+)
+
+LARGEUR_MINIMALE = 640      # au-dessous, l'image est inexploitable en vignette
+RATIO_MINIMAL = 1.0         # le recadrage 16/9 est fait par la feuille de style
 
 # ---------------------------------------------------------------------------
 # PRIORITÉ 1 — fichier choisi à la main.
@@ -106,46 +115,64 @@ def appel_api(parametres):
 
 
 def licence_acceptee(nom):
-    n = (nom or "").strip().lower()
+    n = (nom or "").strip().lower().replace("_", " ")
     if not n:
         return False
     if any(mot in n for mot in LICENCES_INTERDITES):
         return False
-    return any(n.startswith(ok) or ok in n for ok in LICENCES_OK)
+    if re.search(r"\bnc\b|\bnd\b", n):
+        return False
+    return any(ok in n for ok in LICENCES_OK)
 
 
-def chercher(requete):
-    """Renvoie la meilleure image libre et exploitable en paysage."""
+def chercher(requete, bavard=True):
+    """Meilleure image libre pour cette recherche, avec le détail des rejets."""
     donnees = appel_api({
         "action": "query", "format": "json", "generator": "search",
-        "gsrsearch": f"filetype:bitmap {requete}", "gsrnamespace": "6", "gsrlimit": "30",
+        "gsrsearch": f"filetype:bitmap {requete}", "gsrnamespace": "6", "gsrlimit": "40",
         "prop": "imageinfo", "iiprop": "url|extmetadata|size", "iiurlwidth": str(LARGEUR),
     })
     pages = (donnees.get("query") or {}).get("pages") or {}
-    candidats = []
+    retenus, portraits = [], []
+    refus_licence, refus_taille, licences_vues = 0, 0, {}
 
     for page in pages.values():
         infos = (page.get("imageinfo") or [{}])[0]
         meta = infos.get("extmetadata") or {}
         licence = nettoyer_html((meta.get("LicenseShortName") or {}).get("value"))
+        largeur, hauteur = infos.get("width", 0), infos.get("height", 0)
+
         if not licence_acceptee(licence):
+            refus_licence += 1
+            licences_vues[licence or "inconnue"] = licences_vues.get(licence or "inconnue", 0) + 1
+            continue
+        if largeur < LARGEUR_MINIMALE or not hauteur:
+            refus_taille += 1
             continue
 
-        largeur, hauteur = infos.get("width", 0), infos.get("height", 0)
-        if largeur < 1000 or hauteur == 0 or largeur / hauteur < 1.15:
-            continue  # il faut du paysage, le site recadre en 16/9
-
-        candidats.append({
+        fiche = {
             "titre": page.get("title", "")[5:],
             "url": infos.get("thumburl") or infos.get("url"),
             "page": infos.get("descriptionurl", ""),
             "auteur": (nettoyer_html((meta.get("Artist") or {}).get("value")) or "Auteur non précisé")[:90],
             "licence": licence,
             "largeur": largeur,
-        })
+        }
+        (retenus if largeur / hauteur >= RATIO_MINIMAL else portraits).append(fiche)
 
-    candidats.sort(key=lambda c: -c["largeur"])
-    return candidats[0] if candidats else None
+    if bavard:
+        total = len(pages)
+        print(f"      « {requete} » : {total} résultats, "
+              f"{len(retenus)} paysage, {len(portraits)} portrait, "
+              f"{refus_licence} licence refusée, {refus_taille} trop petit")
+        if refus_licence and not retenus and not portraits:
+            apercu = ", ".join(f"{k} ({v})" for k, v in sorted(licences_vues.items(), key=lambda x: -x[1])[:4])
+            print(f"        licences rencontrées : {apercu}")
+
+    # le paysage d'abord ; à défaut un portrait, que la feuille de style recadrera
+    liste = retenus or portraits
+    liste.sort(key=lambda c: -c["largeur"])
+    return liste[0] if liste else None
 
 
 def fiche_fichier(titre):
