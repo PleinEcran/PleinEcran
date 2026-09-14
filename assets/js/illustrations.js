@@ -33,10 +33,10 @@ const ILLUSTRATIONS = {
   },
   "calendrier-sept": {
     "fichier": "assets/img/photos/calendrier-sept.jpg",
-    "credit": "Photo : Skeksis98, CC BY-SA 4.0, via Wikimedia Commons",
-    "lien": "https://commons.wikimedia.org/wiki/File:Far_Out_Flicks.jpg",
-    "licence": "CC BY-SA 4.0",
-    "recherche": "video game retail shop"
+    "credit": "Photo : MatthewHoobin, CC0, via Wikimedia Commons",
+    "lien": "https://commons.wikimedia.org/wiki/File:Employee_picks_for_movies_at_Pre_Played_Media_in_Buckhannon,_West_Virginia,_US,_on_4_August_2023.jpg",
+    "licence": "CC0",
+    "recherche": "video game store shelf"
   },
   "jeton-live-service": {
     "fichier": "assets/img/photos/jeton-live-service.jpg",
