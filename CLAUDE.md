@@ -96,6 +96,18 @@ chaque exécution. Le bon schéma, déjà en place dans `veille.yml`, est de met
 le fichier produit de côté, de se recaler sur `origin/main`, de le remettre,
 puis de pousser.
 
+## Piège connu du service worker de la console
+
+`console/sw.js` sert `index.html` et `console.js` cache d'abord (ce sont des
+fichiers de coquille, pas des données). Le navigateur ne va chercher une
+nouvelle version de `sw.js` que si **ses octets changent** : modifier
+`index.html` ou `console.js` sans toucher `sw.js` ne suffit pas, la console
+d'un visiteur déjà installée continue de servir l'ancienne version
+indéfiniment. Toute session qui touche à la coquille (`index.html`,
+`console.css`, `console.js`, ou qui ajoute un nouveau fichier de données comme
+`brouillons.js`) doit monter le numéro de version dans `CACHE` — c'est ce qui
+force le renouvellement.
+
 ## Travaux en attente
 
 - [ ] Ajouter mentions légales et politique de données, obligatoires pour un

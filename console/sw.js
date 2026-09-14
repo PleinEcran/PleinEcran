@@ -1,9 +1,9 @@
 /* Service worker : rend la console installable et utilisable hors ligne.
    Les fichiers de données sont toujours cherchés sur le réseau en premier,
    pour que la console affiche la dernière collecte sans rechargement forcé. */
-const CACHE = "console-plein-ecran-v2";
+const CACHE = "console-plein-ecran-v3";
 const COQUILLE = ["./index.html", "./console.css", "./console.js", "./icone.svg", "./manifest.webmanifest"];
-const DONNEES = /(veille|attente|illustrations|data)\.js$|\.json$/;
+const DONNEES = /(veille|attente|illustrations|brouillons|data)\.js$|\.json$/;
 
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(COQUILLE)).then(() => self.skipWaiting()));
