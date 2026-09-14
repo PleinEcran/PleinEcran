@@ -27,10 +27,13 @@ jobs:
         run: |
           git config user.name "veille-bot"
           git config user.email "veille-bot@users.noreply.github.com"
+          cp console/veille.js /tmp/veille.js
+          git fetch origin main
+          git checkout -B main origin/main
+          cp /tmp/veille.js console/veille.js
           git add console/veille.js
           git diff --staged --quiet || git commit -m "Veille du $(date +'%F %H:%M')"
-          git pull --rebase --autostash || true
-          git push
+          git push origin main
 
       - name: Alerter si un sujet chaud est apparu
         if: steps.collecte.outputs.chaud == '10'
