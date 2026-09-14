@@ -1,0 +1,15 @@
+{
+  "name": "Console — Plein Écran",
+  "short_name": "Console",
+  "description": "Veille, commandes d'articles et validation pour Plein Écran",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0C0E13",
+  "theme_color": "#0C0E13",
+  "icons": [
+    { "src": "icone.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" },
+    { "src": "icone.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

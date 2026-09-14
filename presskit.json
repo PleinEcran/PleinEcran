@@ -1,0 +1,11 @@
+{
+  "images": [
+    {
+      "slug": "nom-du-jeu",
+      "url": "https://presse.exemple.com/jeu/keyart.png",
+      "credit": "Image : nom de l'éditeur",
+      "source": "https://presse.exemple.com/jeu/",
+      "licence": "Kit presse, usage éditorial autorisé"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Plein Écran — Critique et enquête sur le jeu vidéo</title>
+<meta name="description" content="Tests longs, enquêtes et rétro. Un site de jeu vidéo qui dit combien de temps il a joué, sur quelle version, et avec quelle copie.">
+<link rel="icon" href="assets/img/favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body data-page="accueil">
+<a class="saut-contenu" href="#contenu">Aller au contenu</a>
+
+<header class="entete">
+  <div class="enveloppe entete-corps">
+    <a class="marque" href="index.html">
+      <span class="marque-mot">Plein</span><span class="marque-bloc">Écran</span>
+    </a>
+    <button class="bouton-menu" aria-expanded="false" aria-controls="nav-principale">Menu</button>
+    <nav class="nav" id="nav-principale" aria-label="Navigation principale">
+      <a href="tests.html?rubrique=actu">Actu</a>
+      <a href="tests.html?rubrique=enquete">Enquêtes</a>
+      <a href="tests.html?rubrique=retro">Encore jouable ?</a>
+      <a href="tests.html?rubrique=jeton">Le Jeton</a>
+      <a href="revue.html">Revue de presse</a>
+      <a href="redaction.html">La rédaction</a>
+      <a href="charte.html">La charte</a>
+    </nav>
+  </div>
+</header>
+
+<main id="contenu">
+
+  <section class="ouverture">
+    <div class="enveloppe ouverture-grille">
+      <article class="vedette" id="vedette"></article>
+      <div class="rail-une" id="rail-une"></div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="enveloppe">
+      <div class="section-tete">
+        <div>
+          <h2 class="section-titre">Le fil</h2>
+          <p class="section-note">Tout ce qui est publié, dans l'ordre. Chaque entrée porte ses sources en bas d'article.</p>
+        </div>
+        <a class="lien-section" href="tests.html">Tous les articles</a>
+      </div>
+      <div class="fil-jour" id="fil-jour"></div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="enveloppe deux-colonnes">
+      <div>
+        <div class="section-tete">
+          <div>
+            <h2 class="section-titre">Enquêtes</h2>
+            <p class="section-note">Une par mois, avec ses documents et sa méthode publiée.</p>
+          </div>
+          <a class="lien-section" href="tests.html?rubrique=enquete">Toutes les enquêtes</a>
+        </div>
+        <div class="dossiers" id="enquetes"></div>
+      </div>
+      <div>
+        <div class="section-tete">
+          <h2 class="section-titre">Le Jeton</h2>
+        </div>
+        <div id="jeton"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="enveloppe">
+      <div class="section-tete">
+        <div>
+          <h2 class="section-titre">Encore jouable ?</h2>
+          <p class="section-note">Un jeu ancien, ce qui a vieilli, ce qui tient, et où y jouer légalement aujourd'hui.</p>
+        </div>
+        <a class="lien-section" href="tests.html?rubrique=retro">Toute la rubrique</a>
+      </div>
+      <div class="grille-cartes" id="retro"></div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="enveloppe">
+      <div class="section-tete">
+        <div>
+          <h2 class="section-titre">Comment ce site est fait</h2>
+          <p class="section-note">Trois rubriques, trois promesses de rythme. Elles engagent le site autant que la charte.</p>
+        </div>
+        <a class="lien-section" href="charte.html">La charte</a>
+      </div>
+      <div class="concepts" id="concepts"></div>
+    </div>
+  </section>
+
+  <section class="section" style="border-bottom:none">
+    <div class="enveloppe">
+      <div class="infolettre">
+        <div>
+          <h2>La lettre du vendredi</h2>
+          <p>Un résumé de la semaine, un jeu oublié à redécouvrir, et les corrections que nous avons apportées à nos articles. Rien d'autre.</p>
+        </div>
+        <div>
+          <form class="form-lettre" id="form-lettre" novalidate>
+            <label class="saut-contenu" for="courriel">Adresse électronique</label>
+            <input type="email" id="courriel" name="courriel" placeholder="prenom@exemple.fr" autocomplete="email">
+            <button class="bouton" type="submit">S'inscrire</button>
+            <p class="message-form" id="message-lettre" role="status"></p>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="pied">
+  <div class="enveloppe">
+    <div class="pied-grille">
+      <div>
+        <a class="marque" href="index.html"><span class="marque-mot">Plein</span><span class="marque-bloc">Écran</span></a>
+        <p class="section-note" style="margin-top:14px">Actualité, enquête et patrimoine du jeu vidéo. Site indépendant lancé en 2026.</p>
+      </div>
+      <div>
+        <h3>Rubriques</h3>
+        <ul>
+          <li><a href="tests.html?rubrique=actu">Actu</a></li>
+          <li><a href="tests.html?rubrique=enquete">Enquêtes</a></li>
+          <li><a href="tests.html?rubrique=retro">Encore jouable ?</a></li>
+          <li><a href="tests.html?rubrique=jeton">Le Jeton</a></li>
+          <li><a href="tests.html?rubrique=test">Tests</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Le site</h3>
+        <ul>
+          <li><a href="revue.html">Revue de presse</a>
+      <a href="redaction.html">La rédaction</a></li>
+          <li><a href="charte.html">La charte éditoriale</a></li>
+          <li><a href="charte.html#rubriques">Nos rubriques</a></li>
+          <li><a href="charte.html#corrections">Signaler une erreur</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Nous écrire</h3>
+        <ul>
+          <li><a href="mailto:redaction@plein-ecran.fr">redaction@plein-ecran.fr</a></li>
+          
+        </ul>
+      </div>
+    </div>
+    <p class="pied-mentions">Plein Écran — publication indépendante. Aucun contenu de ce site n'est commandité. Les illustrations sont des créations originales de la rédaction. © <span id="annee">2026</span>.</p>
+  </div>
+</footer>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/illustrations.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>

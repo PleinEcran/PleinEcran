@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Console — Plein Écran</title>
+<meta name="theme-color" content="#0C0E13">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icone.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="console.css">
+</head>
+<body>
+
+<header class="barre">
+  <div class="barre-corps">
+    <a class="marque" href="../index.html" title="Voir le site">
+      <span class="marque-mot">Plein</span><span class="marque-bloc">Écran</span>
+    </a>
+    <span class="barre-titre">Console</span>
+    <span class="etat" id="etat">Chargement</span>
+    <button class="bouton-fin" id="ouvrir-reglages" type="button" aria-label="Réglages">Réglages</button>
+  </div>
+  <nav class="onglets" id="onglets" aria-label="Sections">
+    <button class="onglet actif" data-vue="veille" type="button">Veille<span class="pastille" id="pastille-veille"></span></button>
+    <button class="onglet" data-vue="commandes" type="button">Commandes<span class="pastille" id="pastille-commandes"></span></button>
+    <button class="onglet" data-vue="validation" type="button">À valider<span class="pastille" id="pastille-validation"></span></button>
+    <button class="onglet" data-vue="images" type="button">Images<span class="pastille" id="pastille-images"></span></button>
+    <button class="onglet" data-vue="idees" type="button">Idées</button>
+  </nav>
+</header>
+
+<main id="contenu">
+
+  <!-- ============ VEILLE ============ -->
+  <section class="vue active" id="vue-veille">
+    <div class="entete-vue">
+      <div>
+        <h1>Ce qui tombe</h1>
+        <p class="sous" id="maj-veille">Collecte toutes les deux heures.</p>
+      </div>
+      <div class="filtres-rapides">
+        <button class="puce active" data-filtre="tout" type="button">Tout</button>
+        <button class="puce" data-filtre="chaud" type="button">Chaud</button>
+        <button class="puce" data-filtre="nouveau" type="button">Non vu</button>
+      </div>
+    </div>
+    <div id="liste-veille"></div>
+  </section>
+
+  <!-- ============ COMMANDES ============ -->
+  <section class="vue" id="vue-commandes">
+    <div class="entete-vue">
+      <div>
+        <h1>Ce que j'écris</h1>
+        <p class="sous">Les sujets que vous avez commandés, avec votre angle. Je les reprends à la prochaine session.</p>
+      </div>
+    </div>
+    <div id="liste-commandes"></div>
+  </section>
+
+  <!-- ============ VALIDATION ============ -->
+  <section class="vue" id="vue-validation">
+    <div class="entete-vue">
+      <div>
+        <h1>À valider</h1>
+        <p class="sous">Articles écrits, en attente de votre accord. Rien n'est en ligne avant.</p>
+      </div>
+    </div>
+    <div id="liste-validation"></div>
+  </section>
+
+  <!-- ============ IMAGES ============ -->
+  <section class="vue" id="vue-images">
+    <div class="entete-vue">
+      <div>
+        <h1>Images</h1>
+        <p class="sous">Licence vérifiée automatiquement. Vous jugez la pertinence.</p>
+      </div>
+    </div>
+    <div id="liste-images"></div>
+  </section>
+
+  <!-- ============ IDÉES ============ -->
+  <section class="vue" id="vue-idees">
+    <div class="entete-vue">
+      <div>
+        <h1>Boîte à idées</h1>
+        <p class="sous">En vrac, sans mise en forme. Je pioche dedans quand il faut produire.</p>
+      </div>
+    </div>
+
+    <form class="carte-saisie" id="form-idee">
+      <div class="rang">
+        <label class="champ">
+          <span>Type</span>
+          <select id="idee-type">
+            <option value="article">Article</option>
+            <option value="edito">Édito du jour</option>
+            <option value="retro">Encore jouable ?</option>
+          </select>
+        </label>
+        <label class="champ large">
+          <span>Sujet, jeu, ou angle</span>
+          <input type="text" id="idee-titre" placeholder="Ex. Les remakes qui suppriment les temps de chargement" required>
+        </label>
+      </div>
+      <label class="champ">
+        <span>Votre point de vue, en vrac</span>
+        <textarea id="idee-note" rows="4" placeholder="Ce que vous en pensez, ce qu'il faut dire, ce qu'il ne faut surtout pas dire, un souvenir, une comparaison."></textarea>
+      </label>
+      <div class="rang fin">
+        <button class="bouton" type="submit">Ajouter à la boîte</button>
+      </div>
+    </form>
+
+    <div class="groupes-idees">
+      <div>
+        <h2 class="titre-groupe">Édito <span class="compte" id="compte-edito"></span></h2>
+        <p class="sous">Un par jour. Si la boîte est vide, j'écris sur l'actu la plus chaude du moment.</p>
+        <div id="liste-edito"></div>
+      </div>
+      <div>
+        <h2 class="titre-groupe">Encore jouable ? <span class="compte" id="compte-retro"></span></h2>
+        <p class="sous">Jeux, genres, angles d'approche que vous voulez voir traités.</p>
+        <div id="liste-retro"></div>
+      </div>
+      <div>
+        <h2 class="titre-groupe">Articles <span class="compte" id="compte-article"></span></h2>
+        <p class="sous">Sujets hors actualité chaude.</p>
+        <div id="liste-idees-article"></div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<!-- ============ RÉGLAGES ============ -->
+<dialog id="reglages">
+  <form method="dialog" class="panneau-reglages">
+    <h2>Réglages</h2>
+
+    <section>
+      <h3>Synchronisation entre appareils</h3>
+      <p class="sous">Vos notes sont enregistrées sur cet appareil. Pour les retrouver sur le téléphone comme sur le PC, la console écrit dans votre dépôt GitHub.</p>
+      <label class="champ">
+        <span>Dépôt (format pseudo/nom-du-depot)</span>
+        <input type="text" id="reg-depot" placeholder="vieuxjoueur/plein-ecran">
+      </label>
+      <label class="champ">
+        <span>Jeton d'accès personnel</span>
+        <input type="password" id="reg-jeton" placeholder="github_pat_…" autocomplete="off">
+      </label>
+      <p class="avertissement">Créez un jeton <strong>à portée restreinte</strong> : un seul dépôt, permission Contents en lecture et écriture, rien d'autre. Il reste sur cet appareil et n'est envoyé qu'à GitHub. À saisir vous-même, sur chaque appareil.</p>
+      <div class="rang">
+        <button class="bouton-creux" id="tester-sync" type="button">Tester la connexion</button>
+        <button class="bouton-creux" id="tirer-sync" type="button">Récupérer</button>
+        <button class="bouton-creux" id="pousser-sync" type="button">Envoyer</button>
+      </div>
+      <p class="retour" id="retour-sync"></p>
+    </section>
+
+    <section>
+      <h3>Notifications</h3>
+      <p class="sous">Alerte sur cet appareil quand un sujet chaud apparaît, tant que la console est ouverte ou installée. Pour être prévenu console fermée, c'est le courriel envoyé par la veille qui prend le relais.</p>
+      <div class="rang">
+        <button class="bouton-creux" id="activer-notifs" type="button">Autoriser les notifications</button>
+      </div>
+      <p class="retour" id="retour-notifs"></p>
+    </section>
+
+    <section>
+      <h3>Données</h3>
+      <div class="rang">
+        <button class="bouton-creux" id="exporter" type="button">Exporter en JSON</button>
+        <button class="bouton-creux danger" id="vider" type="button">Tout effacer</button>
+      </div>
+    </section>
+
+    <div class="rang fin">
+      <button class="bouton" value="fermer">Fermer</button>
+    </div>
+  </form>
+</dialog>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script src="veille.js"></script>
+<script src="attente.js"></script>
+<script src="console.js"></script>
+</body>
+</html>

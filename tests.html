@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tous les articles — Plein Écran</title>
+<meta name="description" content="Tests notés, enquêtes, rétro et fiches pratiques, filtrables par rubrique, plateforme et rédacteur.">
+<link rel="icon" href="assets/img/favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body data-page="liste">
+<a class="saut-contenu" href="#contenu">Aller au contenu</a>
+
+<header class="entete">
+  <div class="enveloppe entete-corps">
+    <a class="marque" href="index.html">
+      <span class="marque-mot">Plein</span><span class="marque-bloc">Écran</span>
+    </a>
+    <button class="bouton-menu" aria-expanded="false" aria-controls="nav-principale">Menu</button>
+    <nav class="nav" id="nav-principale" aria-label="Navigation principale">
+      <a href="tests.html?rubrique=actu" aria-current="page">Actu</a>
+      <a href="tests.html?rubrique=enquete">Enquêtes</a>
+      <a href="tests.html?rubrique=retro">Encore jouable ?</a>
+      <a href="tests.html?rubrique=jeton">Le Jeton</a>
+      <a href="revue.html">Revue de presse</a>
+      <a href="redaction.html">La rédaction</a>
+      <a href="charte.html">La charte</a>
+    </nav>
+  </div>
+</header>
+
+<main id="contenu">
+
+  <section class="page-tete">
+    <div class="enveloppe">
+      <h1>Tous les articles</h1>
+      <p>Tests notés, enquêtes, rétro et fiches pratiques. Filtrez par rubrique, plateforme ou rédacteur.</p>
+    </div>
+  </section>
+
+  <section class="section" style="border-bottom:none">
+    <div class="enveloppe">
+      <form class="filtres" role="search" onsubmit="return false">
+        <div class="champ">
+          <label for="f-texte">Rechercher</label>
+          <input type="search" id="f-texte" placeholder="Titre ou sujet">
+        </div>
+        <div class="champ">
+          <label for="f-rubrique">Rubrique</label>
+          <select id="f-rubrique">
+            <option value="">Toutes</option>
+            <option value="test">Test</option>
+            <option value="dossier">Dossier</option>
+            <option value="retro">Rétro</option>
+            <option value="actu">Actu</option>
+            <option value="pratique">Pratique</option>
+          </select>
+        </div>
+        <div class="champ">
+          <label for="f-plateforme">Plateforme</label>
+          <select id="f-plateforme"><option value="">Toutes</option></select>
+        </div>
+        <div class="champ">
+          <label for="f-auteur">Rédacteur</label>
+          <select id="f-auteur"><option value="">Toute la rédaction</option></select>
+        </div>
+        <div class="champ">
+          <label for="f-tri">Trier par</label>
+          <select id="f-tri">
+            <option value="date">Date de publication</option>
+            <option value="note">Note</option>
+          </select>
+        </div>
+        <button type="button" class="bouton bouton-creux" id="reinit">Réinitialiser</button>
+      </form>
+
+      <p class="compte-resultats" id="compte" role="status"></p>
+      <div class="liste-tests" id="resultats"></div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="pied">
+  <div class="enveloppe">
+    <div class="pied-grille">
+      <div>
+        <a class="marque" href="index.html"><span class="marque-mot">Plein</span><span class="marque-bloc">Écran</span></a>
+        <p class="section-note" style="margin-top:14px">Actualité, enquête et patrimoine du jeu vidéo. Site indépendant lancé en 2026.</p>
+      </div>
+      <div>
+        <h3>Rubriques</h3>
+        <ul>
+          <li><a href="tests.html?rubrique=actu">Actu</a></li>
+          <li><a href="tests.html?rubrique=enquete">Enquêtes</a></li>
+          <li><a href="tests.html?rubrique=retro">Encore jouable ?</a></li>
+          <li><a href="tests.html?rubrique=jeton">Le Jeton</a></li>
+          <li><a href="tests.html?rubrique=test">Tests</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Le site</h3>
+        <ul>
+          <li><a href="revue.html">Revue de presse</a>
+      <a href="redaction.html">La rédaction</a></li>
+          <li><a href="charte.html">La charte éditoriale</a></li>
+          <li><a href="charte.html#rubriques">Nos rubriques</a></li>
+          <li><a href="charte.html#corrections">Signaler une erreur</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Nous écrire</h3>
+        <ul>
+          <li><a href="mailto:redaction@plein-ecran.fr">redaction@plein-ecran.fr</a></li>
+          
+        </ul>
+      </div>
+    </div>
+    <p class="pied-mentions">Plein Écran — publication indépendante. Aucun contenu de ce site n'est commandité. Les illustrations sont des créations originales de la rédaction. © <span id="annee">2026</span>.</p>
+  </div>
+</footer>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/illustrations.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>
