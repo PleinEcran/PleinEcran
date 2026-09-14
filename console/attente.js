@@ -1,5 +1,5 @@
 const ATTENTE = (function () {
-  const articles = [];
+  const articles = (typeof BROUILLONS !== "undefined" && BROUILLONS.articles) ? BROUILLONS.articles : [];
 
   const images = [];
   if (typeof ILLUSTRATIONS !== "undefined") {

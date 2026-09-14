@@ -199,8 +199,10 @@ function afficherValidation() {
       ${avis ? `<span class="decision ${avis.decision === "oui" ? "oui" : "non"}">${avis.decision === "oui" ? "Validé" : "Refusé"}</span>` : ""}
       <h3>${echapper(a.titre)}</h3>
       <p class="chapo">${echapper(a.chapo || "")}</p>
-      <p class="meta">${echapper(a.rubrique || "")}${a.date ? ", " + a.date : ""}${a.lecture ? ", " + a.lecture + " min" : ""}</p>
-      ${a.lien ? `<p class="meta"><a href="${a.lien}" target="_blank" rel="noopener">Lire l'article complet</a></p>` : ""}
+      <p class="meta">${echapper((typeof RUBRIQUES !== "undefined" && RUBRIQUES[a.rubrique]) ? RUBRIQUES[a.rubrique].nom : (a.rubrique || ""))}${a.date ? ", " + a.date : ""}${a.lecture ? ", " + a.lecture + " min" : ""}</p>
+      <div class="liens-sources">
+        ${(a.sources || []).map(s => `<a class="lien-source" href="${s.url}" target="_blank" rel="noopener nofollow">${echapper(s.nom || s.source || s.url)}</a>`).join("")}
+      </div>
       <div class="actions">
         <button class="bouton-creux vert" data-action="valider-article" data-slug="${a.slug}">Valider</button>
         <button class="bouton-creux danger" data-action="refuser-article" data-slug="${a.slug}">Refuser</button>
