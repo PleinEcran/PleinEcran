@@ -20,6 +20,9 @@ jobs:
       - name: Chercher les illustrations libres
         run: python3 illustrations.py ${{ inputs.article }}
 
+      - name: Chercher les visuels officiels Steam
+        run: python3 steam.py ${{ inputs.article }}
+
       - name: Publier ce qui a été trouvé
         run: |
           git config user.name "illustrations-bot"

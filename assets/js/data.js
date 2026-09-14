@@ -90,6 +90,7 @@ const ARTICLES = [
   {
     slug: "zelda-40-ocarina",
     rubrique: "actu",
+    jeu: "The Legend of Zelda: Ocarina of Time",
     titre: "Ocarina of Time revient le 5 novembre, et Nintendo assume la fidélité",
     sousTitre: "Le Direct des 40 ans de Zelda a livré une date, quinze minutes de jeu et un parti pris de conservation",
     chapo: "Nintendo a daté son remake d'Ocarina of Time au 5 novembre sur Switch 2. Le plus frappant n'est pas ce qui a été refait, mais ce que le studio a choisi de ne pas toucher.",
@@ -119,6 +120,7 @@ const ARTICLES = [
   {
     slug: "horizon-hunters",
     rubrique: "actu",
+    jeu: "Horizon Hunters Gathering",
     titre: "Sony retire le live-service de son Horizon coopératif",
     sousTitre: "Selon Bloomberg, Guerrilla reconstruit Hunters Gathering depuis juin et devra convaincre en décembre",
     chapo: "Passes de saison et monétisation récurrente sautent, le mode histoire revient, l'ambition rétrécit. C'est le énième demi-tour de PlayStation sur le jeu service.",
@@ -204,6 +206,7 @@ const ARTICLES = [
   {
     slug: "oot-encore-jouable",
     rubrique: "retro",
+    jeu: "The Legend of Zelda: Ocarina of Time",
     format: "L'examen",
     titre: "Ocarina of Time (1998) : ce qui tient, ce qui a lâché",
     sousTitre: "Avant le remake du 5 novembre, l'original repassé au même examen que n'importe quel jeu de la rubrique",
@@ -246,6 +249,7 @@ const ARTICLES = [
   {
     slug: "jeton-live-service",
     rubrique: "jeton",
+    jeu: "Horizon Hunters Gathering",
     titre: "Sony découvre que les gens n'aiment pas payer un abonnement pour chasser des robots",
     sousTitre: "Le Jeton de la semaine",
     chapo: "Il aura fallu quatre ans, un rachat à plusieurs milliards et un cimetière de projets annulés pour arriver à cette conclusion d'une audace folle : peut-être que le public voulait juste un bon jeu.",

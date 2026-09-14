@@ -48,10 +48,17 @@ FLUX = [
     ("GamesIndustry.biz",  "https://www.gamesindustry.biz/feed"),
 ]
 
-# Mots qui montent la température. Ajoutez les vôtres.
-POIDS = {
+# Noms de marques et plateformes : mentionnés très souvent, leur poids cumulé
+# est plafonné plus bas pour qu'une simple annonce ne passe pas chaude à elle seule.
+MARQUES = {
     "gta": 3, "nintendo": 2, "switch": 2, "playstation": 2, "xbox": 2, "steam": 2,
-    "zelda": 2, "licenciement": 3, "layoff": 3, "fermeture": 3, "closure": 3,
+    "zelda": 2,
+}
+PLAFOND_MARQUES = 3
+
+# Mots d'événement : le vrai signal, additionnés sans plafond. Ajoutez les vôtres.
+EVENEMENTS = {
+    "licenciement": 3, "layoff": 3, "fermeture": 3, "closure": 3,
     "rachat": 3, "acquisition": 3, "grève": 3, "strike": 3, "report": 2, "delay": 2,
     "annulé": 3, "cancelled": 3, "procès": 2, "lawsuit": 2, "record": 2,
 }
@@ -62,7 +69,7 @@ les des une the de la le du au aux et en sur pour par avec dans est sont ce ces
 plus tout tous son sa ses qui que quoi dont vous nous ils elles game games jeu
 jeux video after before now more just says said report""".split())
 
-SEUIL_CHAUD = 6
+SEUIL_CHAUD = 14
 
 
 def nettoyer(texte):
@@ -142,6 +149,17 @@ def regrouper(entrees):
     return groupes
 
 
+def dedupliquer_sources(entrees):
+    """Une seule entrée par source dans un groupe : la plus fraîche si une même
+    source y apparaît plusieurs fois."""
+    retenues = {}
+    for entree in entrees:
+        actuelle = retenues.get(entree["source"])
+        if actuelle is None or entree["age"] < actuelle["age"]:
+            retenues[entree["source"]] = entree
+    return sorted(retenues.values(), key=lambda e: e["age"])
+
+
 def temperature(groupe):
     sources = {e["source"] for e in groupe["entrees"]}
     plus_recent = min(e["age"] for e in groupe["entrees"])
@@ -151,7 +169,8 @@ def temperature(groupe):
     elif plus_recent <= 12:
         score += 1
     texte = " ".join(e["titre"].lower() for e in groupe["entrees"])
-    score += sum(poids for mot, poids in POIDS.items() if mot in texte)
+    score += min(sum(poids for mot, poids in MARQUES.items() if mot in texte), PLAFOND_MARQUES)
+    score += sum(poids for mot, poids in EVENEMENTS.items() if mot in texte)
     return score
 
 
@@ -171,18 +190,19 @@ def main():
 
     sujets = []
     for groupe in regrouper(entrees):
-        principal = min(groupe["entrees"], key=lambda e: e["age"])
-        sources = sorted({e["source"] for e in groupe["entrees"]})
+        entrees_groupe = dedupliquer_sources(groupe["entrees"])
+        principal = entrees_groupe[0]
+        sources = sorted({e["source"] for e in entrees_groupe})
         sujets.append({
             "id": re.sub(r"[^a-z0-9]+", "-", principal["titre"].lower())[:60].strip("-"),
             "titre": principal["titre"],
             "url": principal["url"],
             "sources": sources,
-            "reprises": len(groupe["entrees"]),
+            "reprises": len(entrees_groupe),
             "heures": round(principal["age"], 1),
-            "chaleur": temperature(groupe),
+            "chaleur": temperature({"entrees": entrees_groupe}),
             "liens": [{"source": e["source"], "url": e["url"], "titre": e["titre"]}
-                      for e in groupe["entrees"][:6]],
+                      for e in entrees_groupe[:6]],
         })
 
     sujets.sort(key=lambda s: (-s["chaleur"], s["heures"]))
@@ -200,8 +220,9 @@ def main():
     chauds = [s for s in sujets if s["chaleur"] >= SEUIL_CHAUD]
     nouveaux = [s for s in chauds if s["id"] not in anciens_chauds]
 
+    maintenant = datetime.now(timezone.utc).astimezone()
     charge = {
-        "collecte": datetime.now(timezone.utc).astimezone().strftime("%d/%m/%Y à %Hh%M"),
+        "collecte": maintenant.strftime("%d/%m/%Y") + " à " + maintenant.strftime("%Hh%M"),
         "seuil": SEUIL_CHAUD,
         "sujets": sujets[:60],
         "alertes": [s["titre"] for s in nouveaux],
