@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "maj": "2026-09-15T17:17:19.010Z",
+  "maj": "2026-09-15T22:37:45.413Z",
   "commandes": [
     {
       "id": "mu2xpp9ejd1q3",
@@ -152,7 +152,11 @@
     }
   ],
   "idees": [],
-  "avis": {},
+  "avis": {
+    "steam-frame-ram": {
+      "decision": "oui"
+    }
+  },
   "images": {
     "zelda-40-ocarina-1": {
       "decision": "non"
