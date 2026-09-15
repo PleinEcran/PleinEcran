@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "15/09/2026 à 08h23",
+  "collecte": "15/09/2026 à 10h21",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 17,
       "liens": [
         {
@@ -46,48 +46,24 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sony-letter-spells-the-end-for-unreleased-the-last-of-us-par",
-      "titre": "Sony letter spells the end for unreleased The Last of Us Part 2 multiplayer mod, its creator says",
-      "url": "https://www.rockpapershotgun.com/sony-letter-spells-the-end-for-unreleased-the-last-of-us-part-2-multiplayer-mod-its-creator-says",
+      "id": "new-trademark-seemingly-reveals-the-title-for-lies-of-p-sequ",
+      "titre": "New Trademark Seemingly Reveals The Title For Lies Of P Sequel",
+      "url": "https://www.nintendolife.com/news/2026/09/new-trademark-seemingly-reveals-the-title-for-lies-of-p-sequel",
       "sources": [
-        "Eurogamer",
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 20.1,
-      "chaleur": 14,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/sony-letter-spells-the-end-for-unreleased-the-last-of-us-part-2-multiplayer-mod-its-creator-says",
-          "titre": "Sony letter spells the end for unreleased The Last of Us Part 2 multiplayer mod, its creator says"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/the-last-of-us-2-mod-cancelled-playstation",
-          "titre": "A multiplayer mod for The Last of Us 2 was reportedly cancelled \"at Sony's request\""
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/sony-shuts-down-the-last-of-us-2-pc-multiplayer-fan-mod",
-          "titre": "Sony Shuts Down The Last of Us 2 PC Multiplayer Fan Mod"
-        }
-      ]
-    },
-    {
-      "id": "lies-of-p-studio-neowiz-has-filed-a-trademark-for-wonders-of",
-      "titre": "Lies of P studio Neowiz has filed a trademark for Wonders of O, an apparent Wizard of Oz themed sequel",
-      "url": "https://www.videogameschronicle.com/news/lies-of-p-studio-neowiz-has-filed-a-trademark-for-wonders-of-o-an-apparent-wizard-of-oz-themed-sequel/",
-      "sources": [
+        "Nintendo Life",
         "PC Gamer",
         "Push Square",
         "VGC"
       ],
-      "reprises": 3,
-      "heures": 1.9,
-      "chaleur": 12,
+      "reprises": 4,
+      "heures": 1.1,
+      "chaleur": 15,
       "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/new-trademark-seemingly-reveals-the-title-for-lies-of-p-sequel",
+          "titre": "New Trademark Seemingly Reveals The Title For Lies Of P Sequel"
+        },
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/lies-of-p-studio-neowiz-has-filed-a-trademark-for-wonders-of-o-an-apparent-wizard-of-oz-themed-sequel/",
@@ -106,6 +82,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "007-first-light-catches-a-big-delay-on-switch-2-pushing-it-i",
+      "titre": "007 First Light catches a big delay on Switch 2, pushing it into next year",
+      "url": "https://www.eurogamer.net/007-first-light-switch-2-delay",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 0.7,
+      "chaleur": 13,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/007-first-light-switch-2-delay",
+          "titre": "007 First Light catches a big delay on Switch 2, pushing it into next year"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/007-first-light-on-switch-2-delayed-until-march-2027",
+          "titre": "007 First Light On Switch 2 Delayed Until March 2027"
+        }
+      ]
+    },
+    {
       "id": "ubisoft-delays-rayman-legends-retold-weeks-before-planned-re",
       "titre": "Ubisoft delays Rayman Legends Retold weeks before planned release",
       "url": "https://www.videogameschronicle.com/news/ubisoft-delays-rayman-legends-retold-weeks-before-planned-release/",
@@ -115,7 +115,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 7.0,
+      "heures": 9.0,
       "chaleur": 12,
       "liens": [
         {
@@ -136,20 +136,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "007-first-light-on-switch-2-delayed-until-march-2027",
-      "titre": "007 First Light On Switch 2 Delayed Until March 2027",
-      "url": "https://www.nintendolife.com/news/2026/09/007-first-light-on-switch-2-delayed-until-march-2027",
+      "id": "sony-letter-spells-the-end-for-unreleased-the-last-of-us-par",
+      "titre": "Sony letter spells the end for unreleased The Last of Us Part 2 multiplayer mod, its creator says",
+      "url": "https://www.rockpapershotgun.com/sony-letter-spells-the-end-for-unreleased-the-last-of-us-part-2-multiplayer-mod-its-creator-says",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer",
+        "Rock Paper Shotgun"
       ],
-      "reprises": 1,
-      "heures": 1.6,
-      "chaleur": 10,
+      "reprises": 2,
+      "heures": 22.1,
+      "chaleur": 11,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/007-first-light-on-switch-2-delayed-until-march-2027",
-          "titre": "007 First Light On Switch 2 Delayed Until March 2027"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/sony-letter-spells-the-end-for-unreleased-the-last-of-us-part-2-multiplayer-mod-its-creator-says",
+          "titre": "Sony letter spells the end for unreleased The Last of Us Part 2 multiplayer mod, its creator says"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/the-last-of-us-2-mod-cancelled-playstation",
+          "titre": "A multiplayer mod for The Last of Us 2 was reportedly cancelled \"at Sony's request\""
         }
       ]
     },
@@ -162,7 +168,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 13.3,
+      "heures": 15.3,
       "chaleur": 9,
       "liens": [
         {
@@ -186,7 +192,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 19.1,
+      "heures": 21.1,
       "chaleur": 9,
       "liens": [
         {
@@ -202,24 +208,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "diablo-iv-switch-2-performance-and-resolution-officially-rev",
-      "titre": "Diablo IV Switch 2 Performance And Resolution Officially Revealed",
-      "url": "https://www.nintendolife.com/news/2026/09/diablo-iv-switch-2-performance-and-resolution-officially-revealed",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/diablo-iv-switch-2-performance-and-resolution-officially-revealed",
-          "titre": "Diablo IV Switch 2 Performance And Resolution Officially Revealed"
-        }
-      ]
-    },
-    {
       "id": "marathon-s-future-questioned-as-bungie-delays-big-update-and",
       "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule",
       "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
@@ -228,7 +216,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 8,
       "liens": [
         {
@@ -244,30 +232,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "guide-marvel-s-wolverine-guide-100-collectibles-walkthrough",
-      "titre": "Guide: Marvel's Wolverine Guide: 100% Collectibles Walkthrough",
-      "url": "https://www.pushsquare.com/guides/marvels-wolverine-guide-100percent-collectibles-walkthrough",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 4.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/marvels-wolverine-guide-100percent-collectibles-walkthrough",
-          "titre": "Guide: Marvel's Wolverine Guide: 100% Collectibles Walkthrough"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-greased-trophy-guide-read-callistos-journal-in-her-vancouver-garage/",
-          "titre": "Marvel’s Wolverine Greased Trophy Guide: Read Callisto’s journal in her Vancouver garage"
-        }
-      ]
-    },
-    {
       "id": "zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-or",
       "titre": "Zelda: Ocarina Of Time - Electric Ocarina Nintendo Store Pre-Orders Now Live (US)",
       "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-orders-now-live-us",
@@ -275,13 +239,139 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.8,
       "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-orders-now-live-us",
           "titre": "Zelda: Ocarina Of Time - Electric Ocarina Nintendo Store Pre-Orders Now Live (US)"
+        }
+      ]
+    },
+    {
+      "id": "as-civilization-7-devs-firaxis-prepare-to-unleash-the-nukes",
+      "titre": "As Civilization 7 devs Firaxis prepare to unleash the nukes, the strategy game's latest update whips out a fresh take on the classic Real Earth map",
+      "url": "https://www.rockpapershotgun.com/as-civilization-7-devs-firaxis-prepare-to-unleash-the-nukes-the-strategy-games-latest-update-whips-out-a-fresh-take-on-the-classic-real-earth-map",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/as-civilization-7-devs-firaxis-prepare-to-unleash-the-nukes-the-strategy-games-latest-update-whips-out-a-fresh-take-on-the-classic-real-earth-map",
+          "titre": "As Civilization 7 devs Firaxis prepare to unleash the nukes, the strategy game's latest update whips out a fresh take on the classic Real Earth map"
+        }
+      ]
+    },
+    {
+      "id": "everything-we-ve-gleaned-about-diablo-5-since-its-blizzcon-2",
+      "titre": "Everything we've gleaned about Diablo 5 since its BlizzCon 2026 reveal - a game that appears to be much more than Diablo 4.5",
+      "url": "https://www.eurogamer.net/diablo-5-all-gameplay-details",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/diablo-5-all-gameplay-details",
+          "titre": "Everything we've gleaned about Diablo 5 since its BlizzCon 2026 reveal - a game that appears to be much more than Diablo 4.5"
+        }
+      ]
+    },
+    {
+      "id": "we-ve-been-100-listening-insomniac-already-acting-on-marvel",
+      "titre": "'We've Been 100% Listening': Insomniac Already Acting on Marvel's Wolverine Criticisms",
+      "url": "https://www.pushsquare.com/news/2026/09/weve-been-100percent-listening-insomniac-already-acting-on-marvels-wolverine-criticisms",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/weve-been-100percent-listening-insomniac-already-acting-on-marvels-wolverine-criticisms",
+          "titre": "'We've Been 100% Listening': Insomniac Already Acting on Marvel's Wolverine Criticisms"
+        }
+      ]
+    },
+    {
+      "id": "team17-owner-everplay-increases-shareholding-in-wardogs-dev",
+      "titre": "Team17 owner Everplay increases shareholding in Wardogs dev Bulkhead, touts strong FY26 results",
+      "url": "https://www.gamesindustry.biz/team17-owner-everplay-increases-shareholding-in-wardogs-dev-bulkhead-touts-strong-fy26-results",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/team17-owner-everplay-increases-shareholding-in-wardogs-dev-bulkhead-touts-strong-fy26-results",
+          "titre": "Team17 owner Everplay increases shareholding in Wardogs dev Bulkhead, touts strong FY26 results"
+        }
+      ]
+    },
+    {
+      "id": "phantasy-star-online-is-now-fully-playable-in-your-web-brows",
+      "titre": "Phantasy Star Online is now fully playable in your web browser via PSO Reborn",
+      "url": "https://www.videogameschronicle.com/news/phantasy-star-online-is-now-fully-playable-in-your-web-browser-via-pso-reborn/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/phantasy-star-online-is-now-fully-playable-in-your-web-browser-via-pso-reborn/",
+          "titre": "Phantasy Star Online is now fully playable in your web browser via PSO Reborn"
+        }
+      ]
+    },
+    {
+      "id": "4-new-september-2026-ps-plus-extra-premium-games-available-t",
+      "titre": "4 New September 2026 PS Plus Extra, Premium Games Available to Download Now",
+      "url": "https://www.pushsquare.com/news/2026/09/4-new-september-2026-ps-plus-extra-premium-games-available-to-download-now",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/4-new-september-2026-ps-plus-extra-premium-games-available-to-download-now",
+          "titre": "4 New September 2026 PS Plus Extra, Premium Games Available to Download Now"
+        }
+      ]
+    },
+    {
+      "id": "injustice-3-is-seemingly-the-mysterious-unannounced-fighting",
+      "titre": "Injustice 3 is seemingly the mysterious, unannounced fighting game that's been hosting playtests in California",
+      "url": "https://www.eurogamer.net/injustice-3-playtests-leak",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/injustice-3-playtests-leak",
+          "titre": "Injustice 3 is seemingly the mysterious, unannounced fighting game that's been hosting playtests in California"
         }
       ]
     },
@@ -293,7 +383,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -304,20 +394,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "here-are-the-top-20-best-selling-gamecube-games-in-the-us",
-      "titre": "Here Are The Top 20 Best-Selling GameCube Games In The US",
-      "url": "https://www.nintendolife.com/news/2026/09/here-are-the-top-20-best-selling-gamecube-games-in-the-us",
+      "id": "diablo-iv-switch-2-performance-and-resolution-officially-rev",
+      "titre": "Diablo IV Switch 2 Performance And Resolution Officially Revealed",
+      "url": "https://www.nintendolife.com/news/2026/09/diablo-iv-switch-2-performance-and-resolution-officially-revealed",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.6,
+      "heures": 4.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/here-are-the-top-20-best-selling-gamecube-games-in-the-us",
-          "titre": "Here Are The Top 20 Best-Selling GameCube Games In The US"
+          "url": "https://www.nintendolife.com/news/2026/09/diablo-iv-switch-2-performance-and-resolution-officially-revealed",
+          "titre": "Diablo IV Switch 2 Performance And Resolution Officially Revealed"
         }
       ]
     },
@@ -329,31 +419,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/asha-sharma-has-been-personally-responding-to-xbox-users-support-tickets/",
           "titre": "Asha Sharma ‘has been personally responding to Xbox users’ support tickets’"
-        }
-      ]
-    },
-    {
-      "id": "after-nearly-a-year-of-silence-following-its-last-minute-del",
-      "titre": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest",
-      "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
-          "titre": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest"
         }
       ]
     },
@@ -366,7 +438,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 6,
       "liens": [
         {
@@ -389,7 +461,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.8,
+      "heures": 16.7,
       "chaleur": 6,
       "liens": [
         {
@@ -407,7 +479,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.8,
       "chaleur": 6,
       "liens": [
         {
@@ -426,7 +498,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 21.6,
+      "heures": 23.6,
       "chaleur": 6,
       "liens": [
         {
@@ -449,7 +521,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 22.2,
+      "heures": 24.2,
       "chaleur": 6,
       "liens": [
         {
@@ -467,13 +539,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.9,
+      "heures": 24.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/nintendo-updates-zelda-timeline-seemingly-confirming-a-fan-theory",
           "titre": "Nintendo Updates Zelda Timeline, Seemingly Confirming A Fan Theory"
+        }
+      ]
+    },
+    {
+      "id": "after-nearly-a-year-of-silence-following-its-last-minute-del",
+      "titre": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest",
+      "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 13.6,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
+          "titre": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest"
         }
       ]
     },
@@ -485,7 +575,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 5,
       "liens": [
         {
@@ -503,7 +593,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.5,
       "chaleur": 5,
       "liens": [
         {
@@ -521,7 +611,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.8,
       "chaleur": 5,
       "liens": [
         {
@@ -539,7 +629,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 5,
       "liens": [
         {
@@ -557,7 +647,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 17.2,
       "chaleur": 5,
       "liens": [
         {
@@ -575,7 +665,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.3,
       "chaleur": 5,
       "liens": [
         {
@@ -593,7 +683,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 5,
       "liens": [
         {
@@ -611,7 +701,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 5,
       "liens": [
         {
@@ -629,7 +719,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.9,
       "chaleur": 5,
       "liens": [
         {
@@ -647,7 +737,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 19.1,
       "chaleur": 5,
       "liens": [
         {
@@ -665,7 +755,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.7,
+      "heures": 19.7,
       "chaleur": 5,
       "liens": [
         {
@@ -683,7 +773,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 18.7,
+      "heures": 20.6,
       "chaleur": 5,
       "liens": [
         {
@@ -701,7 +791,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.4,
       "chaleur": 5,
       "liens": [
         {
@@ -719,13 +809,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.8,
+      "heures": 22.8,
       "chaleur": 5,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/roblox-plan-to-grow-their-absurd-gaming-empire-even-further-by-letting-devs-release-games-as-standalone-apps-potentially-via-steam-epic-and-gog",
           "titre": "Roblox plan to grow their absurd gaming empire even further by letting devs release games as \"standalone apps\", potentially via Steam, Epic, and GOG"
+        }
+      ]
+    },
+    {
+      "id": "here-are-the-top-20-best-selling-gamecube-games-in-the-us",
+      "titre": "Here Are The Top 20 Best-Selling GameCube Games In The US",
+      "url": "https://www.nintendolife.com/news/2026/09/here-are-the-top-20-best-selling-gamecube-games-in-the-us",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/here-are-the-top-20-best-selling-gamecube-games-in-the-us",
+          "titre": "Here Are The Top 20 Best-Selling GameCube Games In The US"
         }
       ]
     },
@@ -737,7 +845,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -755,7 +863,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -773,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -791,13 +899,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-voice-actors-officially-revealed",
           "titre": "Fire Emblem: Fortune's Weave Voice Actors Officially Revealed"
+        }
+      ]
+    },
+    {
+      "id": "marvel-s-wolverine-greased-trophy-guide-read-callisto-s-jour",
+      "titre": "Marvel’s Wolverine Greased Trophy Guide: Read Callisto’s journal in her Vancouver garage",
+      "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-greased-trophy-guide-read-callistos-journal-in-her-vancouver-garage/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 8.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-greased-trophy-guide-read-callistos-journal-in-her-vancouver-garage/",
+          "titre": "Marvel’s Wolverine Greased Trophy Guide: Read Callisto’s journal in her Vancouver garage"
         }
       ]
     },
@@ -809,31 +935,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 8.7,
       "chaleur": 4,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/fans-deserve-this-sega-is-turning-more-of-its-games-into-movies-with-netflix/",
           "titre": "‘Fans deserve this’: Sega is turning more of its games into movies with Netflix"
-        }
-      ]
-    },
-    {
-      "id": "marvel-s-wolverine-poseidon-s-kiss-trophy-guide-activate-the",
-      "titre": "Marvel’s Wolverine Poseidon’s Kiss Trophy Guide: Activate the kissing toilet in the Tokyo bar bathroom",
-      "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-poseidons-kiss-trophy-guide-activate-the-kissing-toilet-in-the-tokyo-bar-bathroom/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-poseidons-kiss-trophy-guide-activate-the-kissing-toilet-in-the-tokyo-bar-bathroom/",
-          "titre": "Marvel’s Wolverine Poseidon’s Kiss Trophy Guide: Activate the kissing toilet in the Tokyo bar bathroom"
         }
       ]
     },
@@ -845,7 +953,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -863,8 +971,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -881,7 +989,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.1,
       "chaleur": 3,
       "liens": [
         {
@@ -899,7 +1007,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.2,
       "chaleur": 3,
       "liens": [
         {
@@ -917,7 +1025,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -935,7 +1043,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -953,7 +1061,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -971,7 +1079,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -989,7 +1097,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +1115,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,7 +1133,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,7 +1151,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 17.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,7 +1169,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 18.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1070,115 +1178,9 @@ const VEILLE = {
           "titre": "Rockstar and IWGB outline arguments at start of tribunal"
         }
       ]
-    },
-    {
-      "id": "youtuber-gets-classic-tomb-raider-running-on-a-chip-that-sip",
-      "titre": "YouTuber gets classic Tomb Raider running on a chip that sips a mere 1 W of power",
-      "url": "https://www.pcgamer.com/hardware/youtuber-gets-classic-tomb-raider-running-on-a-chip-that-sips-a-mere-1-w-of-power/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 16.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/youtuber-gets-classic-tomb-raider-running-on-a-chip-that-sips-a-mere-1-w-of-power/",
-          "titre": "YouTuber gets classic Tomb Raider running on a chip that sips a mere 1 W of power"
-        }
-      ]
-    },
-    {
-      "id": "preview-the-expanse-osiris-reborn-is-what-fans-of-the-books",
-      "titre": "Preview: The Expanse: Osiris Reborn Is What Fans of the Books and Show Have Been Waiting For",
-      "url": "https://www.pushsquare.com/previews/the-expanse-osiris-reborn-is-what-fans-of-the-books-and-show-have-been-waiting-for",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 16.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/previews/the-expanse-osiris-reborn-is-what-fans-of-the-books-and-show-have-been-waiting-for",
-          "titre": "Preview: The Expanse: Osiris Reborn Is What Fans of the Books and Show Have Been Waiting For"
-        }
-      ]
-    },
-    {
-      "id": "this-week-in-pc-games-become-a-magic-girl-in-kernel-hearts-a",
-      "titre": "This week in PC games: become a magic girl in Kernel Hearts, a dog commando in Fright Train, or a capital class warship in Sublight",
-      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-become-a-magic-girl-in-kernel-hearts-a-dog-commando-in-fright-train-or-a-capital-class-warship-in-sublight",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 16.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-become-a-magic-girl-in-kernel-hearts-a-dog-commando-in-fright-train-or-a-capital-class-warship-in-sublight",
-          "titre": "This week in PC games: become a magic girl in Kernel Hearts, a dog commando in Fright Train, or a capital class warship in Sublight"
-        }
-      ]
-    },
-    {
-      "id": "what-comes-after-lies-of-p-it-looks-like-it-might-be-wonders",
-      "titre": "What comes after Lies of P? It looks like it might be Wonders of O, according to a new trademark",
-      "url": "https://www.eurogamer.net/what-comes-after-lies-of-p-it-looks-like-it-might-be-wonders-of-o-according-to-a-new-trademark",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 17.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/what-comes-after-lies-of-p-it-looks-like-it-might-be-wonders-of-o-according-to-a-new-trademark",
-          "titre": "What comes after Lies of P? It looks like it might be Wonders of O, according to a new trademark"
-        }
-      ]
-    },
-    {
-      "id": "here-s-your-first-look-at-kingdom-hearts-sora-as-he-joins-fo",
-      "titre": "Here's Your First Look at Kingdom Hearts' Sora as He Joins Fortnite 'This Week'",
-      "url": "https://www.pushsquare.com/news/2026/09/heres-your-first-look-at-kingdom-hearts-sora-as-he-joins-fortnite-this-week",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 18.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/heres-your-first-look-at-kingdom-hearts-sora-as-he-joins-fortnite-this-week",
-          "titre": "Here's Your First Look at Kingdom Hearts' Sora as He Joins Fortnite 'This Week'"
-        }
-      ]
-    },
-    {
-      "id": "the-blizzard-x-cd-projekt-red-collaboration-continues-with-c",
-      "titre": "The Blizzard X CD Projekt Red collaboration continues with Cyberpunk outfits in Overwatch",
-      "url": "https://www.videogameschronicle.com/news/the-blizzard-x-cd-projekt-red-collaboration-continues-with-cyberpunk-outfits-in-overwatch/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 19.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-blizzard-x-cd-projekt-red-collaboration-continues-with-cyberpunk-outfits-in-overwatch/",
-          "titre": "The Blizzard X CD Projekt Red collaboration continues with Cyberpunk outfits in Overwatch"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "New Trademark Seemingly Reveals The Title For Lies Of P Sequel"
+  ]
 };
