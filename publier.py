@@ -32,6 +32,7 @@ Usage :
 import json
 import pathlib
 import sys
+from datetime import datetime, timezone
 
 # Sur Windows, la console n'est pas en UTF-8 par défaut : sans ça, print()
 # plante dès qu'un titre ou une citation contient un caractère hors cp1252
@@ -74,6 +75,11 @@ def ecrire_brouillons(donnees):
 
 
 def ecrire_journal(etat):
+    # La console ne recharge l'état distant que si "maj" est plus récent que
+    # le sien : sans cette ligne, elle ne voit jamais qu'on a écrit ici, et
+    # écrase ce fichier avec son propre état (périmé) au premier clic suivant.
+    etat["maj"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.") + \
+        f"{datetime.now(timezone.utc).microsecond // 1000:03d}Z"
     JOURNAL.write_text(json.dumps(etat, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
