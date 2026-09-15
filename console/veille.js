@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "15/09/2026 à 04h22",
+  "collecte": "15/09/2026 à 06h27",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 9.4,
+      "heures": 11.5,
       "chaleur": 18,
       "liens": [
         {
@@ -46,36 +46,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ubisoft-delays-rayman-legends-retold-weeks-before-planned-re",
-      "titre": "Ubisoft delays Rayman Legends Retold weeks before planned release",
-      "url": "https://www.videogameschronicle.com/news/ubisoft-delays-rayman-legends-retold-weeks-before-planned-release/",
-      "sources": [
-        "Nintendo Life",
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 3.0,
-      "chaleur": 14,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/ubisoft-delays-rayman-legends-retold-weeks-before-planned-release/",
-          "titre": "Ubisoft delays Rayman Legends Retold weeks before planned release"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-now-out-in-december-ps5-remake-delayed-two-months",
-          "titre": "Rayman Legends Retold Now Out in December, PS5 Remake Delayed Two Months"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/rayman-legends-retold-has-been-delayed",
-          "titre": "Rayman Legends Retold Has Been Delayed"
-        }
-      ]
-    },
-    {
       "id": "sony-letter-spells-the-end-for-unreleased-the-last-of-us-par",
       "titre": "Sony letter spells the end for unreleased The Last of Us Part 2 multiplayer mod, its creator says",
       "url": "https://www.rockpapershotgun.com/sony-letter-spells-the-end-for-unreleased-the-last-of-us-part-2-multiplayer-mod-its-creator-says",
@@ -85,7 +55,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 16.1,
+      "heures": 18.2,
       "chaleur": 14,
       "liens": [
         {
@@ -106,6 +76,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "ubisoft-delays-rayman-legends-retold-weeks-before-planned-re",
+      "titre": "Ubisoft delays Rayman Legends Retold weeks before planned release",
+      "url": "https://www.videogameschronicle.com/news/ubisoft-delays-rayman-legends-retold-weeks-before-planned-release/",
+      "sources": [
+        "Nintendo Life",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 5.1,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-delays-rayman-legends-retold-weeks-before-planned-release/",
+          "titre": "Ubisoft delays Rayman Legends Retold weeks before planned release"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-now-out-in-december-ps5-remake-delayed-two-months",
+          "titre": "Rayman Legends Retold Now Out in December, PS5 Remake Delayed Two Months"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/rayman-legends-retold-has-been-delayed",
+          "titre": "Rayman Legends Retold Has Been Delayed"
+        }
+      ]
+    },
+    {
       "id": "gta-6-s-first-confirmed-actor-is-king-of-the-hill-s-stephen",
       "titre": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\"",
       "url": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root",
@@ -114,7 +114,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 10,
       "liens": [
         {
@@ -130,6 +130,54 @@ const VEILLE = {
       ]
     },
     {
+      "id": "guide-marvel-s-wolverine-guide-100-collectibles-walkthrough",
+      "titre": "Guide: Marvel's Wolverine Guide: 100% Collectibles Walkthrough",
+      "url": "https://www.pushsquare.com/guides/marvels-wolverine-guide-100percent-collectibles-walkthrough",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 2.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/marvels-wolverine-guide-100percent-collectibles-walkthrough",
+          "titre": "Guide: Marvel's Wolverine Guide: 100% Collectibles Walkthrough"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-greased-trophy-guide-read-callistos-journal-in-her-vancouver-garage/",
+          "titre": "Marvel’s Wolverine Greased Trophy Guide: Read Callisto’s journal in her Vancouver garage"
+        }
+      ]
+    },
+    {
+      "id": "marathon-s-future-questioned-as-bungie-delays-big-update-and",
+      "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule",
+      "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
+      "sources": [
+        "PC Gamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 11.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
+          "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/bungie-delays-next-marathon-update-and-ends-strict-seasonal-schedule-as-it-goes-all-in-on-destiny-like-features/",
+          "titre": "Bungie delays next Marathon update and ends 'strict seasonal schedule' as it goes all-in on Destiny-like features"
+        }
+      ]
+    },
+    {
       "id": "lies-of-p-publisher-files-trademark-for-likely-sequel-wonder",
       "titre": "Lies of P publisher files trademark for likely sequel 'Wonders of O'",
       "url": "https://www.pcgamer.com/games/action/lies-of-p-publisher-files-trademark-for-likely-sequel-wonders-of-o/",
@@ -139,8 +187,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 10.6,
-      "chaleur": 10,
+      "heures": 12.7,
+      "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
@@ -160,96 +208,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "forget-gta-6-i-have-brought-gta-5-closer-to-being-the-true-g",
-      "titre": "Forget GTA 6, I have brought GTA 5 closer to being the true greatest game of all time: Hulk – Ultimate Destruction",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/forget-gta-6-i-have-brought-gta-5-closer-to-being-the-true-greatest-game-of-all-time-hulk-ultimate-destruction/",
-      "sources": [
-        "Nintendo Life",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 10.8,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/forget-gta-6-i-have-brought-gta-5-closer-to-being-the-true-greatest-game-of-all-time-hulk-ultimate-destruction/",
-          "titre": "Forget GTA 6, I have brought GTA 5 closer to being the true greatest game of all time: Hulk – Ultimate Destruction"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/50-best-gamecube-games-of-all-time",
-          "titre": "Guide: 50 Best GameCube Games Of All Time"
-        }
-      ]
-    },
-    {
-      "id": "guide-marvel-s-wolverine-guide-100-collectibles-walkthrough",
-      "titre": "Guide: Marvel's Wolverine Guide: 100% Collectibles Walkthrough",
-      "url": "https://www.pushsquare.com/guides/marvels-wolverine-guide-100percent-collectibles-walkthrough",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 0.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/marvels-wolverine-guide-100percent-collectibles-walkthrough",
-          "titre": "Guide: Marvel's Wolverine Guide: 100% Collectibles Walkthrough"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-greased-trophy-guide-read-callistos-journal-in-her-vancouver-garage/",
-          "titre": "Marvel’s Wolverine Greased Trophy Guide: Read Callisto’s journal in her Vancouver garage"
-        }
-      ]
-    },
-    {
-      "id": "zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-or",
-      "titre": "Zelda: Ocarina Of Time - Electric Ocarina Nintendo Store Pre-Orders Now Live (US)",
-      "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-orders-now-live-us",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-orders-now-live-us",
-          "titre": "Zelda: Ocarina Of Time - Electric Ocarina Nintendo Store Pre-Orders Now Live (US)"
-        }
-      ]
-    },
-    {
-      "id": "marathon-s-future-questioned-as-bungie-delays-big-update-and",
-      "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule",
-      "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
-      "sources": [
-        "PC Gamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 8.9,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
-          "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/bungie-delays-next-marathon-update-and-ends-strict-seasonal-schedule-as-it-goes-all-in-on-destiny-like-features/",
-          "titre": "Bungie delays next Marathon update and ends 'strict seasonal schedule' as it goes all-in on Destiny-like features"
-        }
-      ]
-    },
-    {
       "id": "moss-developer-polyarc-has-shut-down",
       "titre": "Moss developer Polyarc has shut down",
       "url": "https://www.gamedeveloper.com/business/moss-developer-polyarc-has-shut-down",
@@ -258,7 +216,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 15.1,
+      "heures": 17.2,
       "chaleur": 9,
       "liens": [
         {
@@ -274,6 +232,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "diablo-iv-switch-2-performance-and-resolution-officially-rev",
+      "titre": "Diablo IV Switch 2 Performance And Resolution Officially Revealed",
+      "url": "https://www.nintendolife.com/news/2026/09/diablo-iv-switch-2-performance-and-resolution-officially-revealed",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/diablo-iv-switch-2-performance-and-resolution-officially-revealed",
+          "titre": "Diablo IV Switch 2 Performance And Resolution Officially Revealed"
+        }
+      ]
+    },
+    {
       "id": "asha-sharma-has-been-personally-responding-to-xbox-users-sup",
       "titre": "Asha Sharma ‘has been personally responding to Xbox users’ support tickets’",
       "url": "https://www.videogameschronicle.com/news/asha-sharma-has-been-personally-responding-to-xbox-users-support-tickets/",
@@ -281,13 +257,85 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.9,
       "chaleur": 8,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/asha-sharma-has-been-personally-responding-to-xbox-users-support-tickets/",
           "titre": "Asha Sharma ‘has been personally responding to Xbox users’ support tickets’"
+        }
+      ]
+    },
+    {
+      "id": "zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-or",
+      "titre": "Zelda: Ocarina Of Time - Electric Ocarina Nintendo Store Pre-Orders Now Live (US)",
+      "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-orders-now-live-us",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-orders-now-live-us",
+          "titre": "Zelda: Ocarina Of Time - Electric Ocarina Nintendo Store Pre-Orders Now Live (US)"
+        }
+      ]
+    },
+    {
+      "id": "here-are-the-top-20-best-selling-gamecube-games-in-the-us",
+      "titre": "Here Are The Top 20 Best-Selling GameCube Games In The US",
+      "url": "https://www.nintendolife.com/news/2026/09/here-are-the-top-20-best-selling-gamecube-games-in-the-us",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/here-are-the-top-20-best-selling-gamecube-games-in-the-us",
+          "titre": "Here Are The Top 20 Best-Selling GameCube Games In The US"
+        }
+      ]
+    },
+    {
+      "id": "sega-and-netflix-announce-new-multi-title-collaboration",
+      "titre": "SEGA And Netflix Announce New \"Multi-Title Collaboration\"",
+      "url": "https://www.nintendolife.com/news/2026/09/sega-and-netflix-announce-new-multi-title-collaboration",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/sega-and-netflix-announce-new-multi-title-collaboration",
+          "titre": "SEGA And Netflix Announce New \"Multi-Title Collaboration\""
+        }
+      ]
+    },
+    {
+      "id": "after-nearly-a-year-of-silence-following-its-last-minute-del",
+      "titre": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest",
+      "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 9.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
+          "titre": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest"
         }
       ]
     },
@@ -300,8 +348,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 10.4,
-      "chaleur": 7,
+      "heures": 12.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -316,6 +364,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "forget-gta-6-i-have-brought-gta-5-closer-to-being-the-true-g",
+      "titre": "Forget GTA 6, I have brought GTA 5 closer to being the true greatest game of all time: Hulk – Ultimate Destruction",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/forget-gta-6-i-have-brought-gta-5-closer-to-being-the-true-greatest-game-of-all-time-hulk-ultimate-destruction/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 12.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/forget-gta-6-i-have-brought-gta-5-closer-to-being-the-true-greatest-game-of-all-time-hulk-ultimate-destruction/",
+          "titre": "Forget GTA 6, I have brought GTA 5 closer to being the true greatest game of all time: Hulk – Ultimate Destruction"
+        }
+      ]
+    },
+    {
       "id": "more-than-40-of-people-cancelling-xbox-game-pass-playstation",
       "titre": "More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online subscriptions blame rising costs",
       "url": "https://www.gamesindustry.biz/more-than-40-of-people-cancelling-xbox-game-pass-playstation-plus-and-nintendo-switch-online-subscriptions-blame-rising-costs",
@@ -323,283 +389,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 7,
+      "heures": 12.9,
+      "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/more-than-40-of-people-cancelling-xbox-game-pass-playstation-plus-and-nintendo-switch-online-subscriptions-blame-rising-costs",
           "titre": "More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online subscriptions blame rising costs"
-        }
-      ]
-    },
-    {
-      "id": "sega-and-netflix-announce-new-multi-title-collaboration",
-      "titre": "SEGA And Netflix Announce New \"Multi-Title Collaboration\"",
-      "url": "https://www.nintendolife.com/news/2026/09/sega-and-netflix-announce-new-multi-title-collaboration",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/sega-and-netflix-announce-new-multi-title-collaboration",
-          "titre": "SEGA And Netflix Announce New \"Multi-Title Collaboration\""
-        }
-      ]
-    },
-    {
-      "id": "fan-ps5-boycott-over-discs-seemingly-has-little-impact-in-us",
-      "titre": "Fan PS5 boycott over discs seemingly has little impact in US",
-      "url": "https://www.videogameschronicle.com/news/fan-ps5-boycott-over-discs-seemingly-has-little-impact-in-us/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/fan-ps5-boycott-over-discs-seemingly-has-little-impact-in-us/",
-          "titre": "Fan PS5 boycott over discs seemingly has little impact in US"
-        }
-      ]
-    },
-    {
-      "id": "here-s-the-aniimo-release-time-for-your-region",
-      "titre": "Here's the Aniimo release time for your region",
-      "url": "https://www.pcgamer.com/games/rpg/aniimo-release-date-launch-times/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/aniimo-release-date-launch-times/",
-          "titre": "Here's the Aniimo release time for your region"
-        }
-      ]
-    },
-    {
-      "id": "fire-emblem-fortune-s-weave-voice-actors-officially-revealed",
-      "titre": "Fire Emblem: Fortune's Weave Voice Actors Officially Revealed",
-      "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-voice-actors-officially-revealed",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-voice-actors-officially-revealed",
-          "titre": "Fire Emblem: Fortune's Weave Voice Actors Officially Revealed"
-        }
-      ]
-    },
-    {
-      "id": "fans-deserve-this-sega-is-turning-more-of-its-games-into-mo",
-      "titre": "‘Fans deserve this’: Sega is turning more of its games into movies with Netflix",
-      "url": "https://www.videogameschronicle.com/news/fans-deserve-this-sega-is-turning-more-of-its-games-into-movies-with-netflix/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/fans-deserve-this-sega-is-turning-more-of-its-games-into-movies-with-netflix/",
-          "titre": "‘Fans deserve this’: Sega is turning more of its games into movies with Netflix"
-        }
-      ]
-    },
-    {
-      "id": "marvel-s-wolverine-poseidon-s-kiss-trophy-guide-activate-the",
-      "titre": "Marvel’s Wolverine Poseidon’s Kiss Trophy Guide: Activate the kissing toilet in the Tokyo bar bathroom",
-      "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-poseidons-kiss-trophy-guide-activate-the-kissing-toilet-in-the-tokyo-bar-bathroom/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-poseidons-kiss-trophy-guide-activate-the-kissing-toilet-in-the-tokyo-bar-bathroom/",
-          "titre": "Marvel’s Wolverine Poseidon’s Kiss Trophy Guide: Activate the kissing toilet in the Tokyo bar bathroom"
-        }
-      ]
-    },
-    {
-      "id": "marvel-s-wolverine-all-whisky-bottle-locations-find-every-wh",
-      "titre": "Marvel’s Wolverine All Whisky Bottle Locations: Find every Whisky Bottle in Marvel’s Wolverine",
-      "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-all-whisky-bottle-locations-find-every-whisky-bottle-in-marvels-wolverine/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-all-whisky-bottle-locations-find-every-whisky-bottle-in-marvels-wolverine/",
-          "titre": "Marvel’s Wolverine All Whisky Bottle Locations: Find every Whisky Bottle in Marvel’s Wolverine"
-        }
-      ]
-    },
-    {
-      "id": "after-nearly-a-year-of-silence-following-its-last-minute-del",
-      "titre": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest",
-      "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
-          "titre": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest"
-        }
-      ]
-    },
-    {
-      "id": "valve-decided-that-cutting-the-steam-frame-s-specs-to-avoid",
-      "titre": "Valve decided that cutting the Steam Frame’s specs to avoid price rises wasn't \"the right product choice\" for the VR headset",
-      "url": "https://www.rockpapershotgun.com/valve-decided-that-cutting-the-steam-frames-specs-to-avoid-price-rises-wasnt-the-right-product-choice-for-the-vr-headset",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valve-decided-that-cutting-the-steam-frames-specs-to-avoid-price-rises-wasnt-the-right-product-choice-for-the-vr-headset",
-          "titre": "Valve decided that cutting the Steam Frame’s specs to avoid price rises wasn't \"the right product choice\" for the VR headset"
-        }
-      ]
-    },
-    {
-      "id": "marathon-s-permanent-pve-mode-and-next-major-update-delayed",
-      "titre": "Marathon's permanent PvE mode and next major update delayed to December days before launch, and Bungie's \"moving away from a strict season schedule\"",
-      "url": "https://www.eurogamer.net/marathon-pve-mode-delay-bungie-major-update",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marathon-pve-mode-delay-bungie-major-update",
-          "titre": "Marathon's permanent PvE mode and next major update delayed to December days before launch, and Bungie's \"moving away from a strict season schedule\""
-        }
-      ]
-    },
-    {
-      "id": "you-can-now-sign-up-to-order-valve-s-steam-frame-vr-headset",
-      "titre": "You can now sign up to order Valve’s Steam Frame VR headset, it costs over $1,000 but includes Half-Life: Alyx",
-      "url": "https://www.videogameschronicle.com/news/you-can-now-sign-up-to-order-valves-steam-frame-vr-headset-it-costs-over-1000-but-includes-half-life-alyx/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/you-can-now-sign-up-to-order-valves-steam-frame-vr-headset-it-costs-over-1000-but-includes-half-life-alyx/",
-          "titre": "You can now sign up to order Valve’s Steam Frame VR headset, it costs over $1,000 but includes Half-Life: Alyx"
-        }
-      ]
-    },
-    {
-      "id": "valve-targeted-a-lower-price-for-the-steam-frame-then-the-me",
-      "titre": "Valve targeted a lower price for the Steam Frame, then the memory crisis happened: 'I wish we could have shipped it at the price that we were at last year'",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-targeted-a-lower-price-for-the-steam-frame-then-the-memory-crisis-happened-i-wish-we-could-have-shipped-it-at-the-price-that-we-were-at-last-year/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-targeted-a-lower-price-for-the-steam-frame-then-the-memory-crisis-happened-i-wish-we-could-have-shipped-it-at-the-price-that-we-were-at-last-year/",
-          "titre": "Valve targeted a lower price for the Steam Frame, then the memory crisis happened: 'I wish we could have shipped it at the price that we were at last year'"
-        }
-      ]
-    },
-    {
-      "id": "valve-working-on-steam-frame-strap-that-adds-index-like-spea",
-      "titre": "Valve working on Steam Frame strap that adds Index-like speakers and hot-swappable batteries, 'coming soon'",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-working-on-steam-frame-strap-that-adds-index-like-speakers-and-hot-swappable-batteries-coming-soon/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-working-on-steam-frame-strap-that-adds-index-like-speakers-and-hot-swappable-batteries-coming-soon/",
-          "titre": "Valve working on Steam Frame strap that adds Index-like speakers and hot-swappable batteries, 'coming soon'"
-        }
-      ]
-    },
-    {
-      "id": "steam-frame-review-another-best-in-class-vr-headset-by-valve",
-      "titre": "Steam Frame review: Another best-in-class VR headset by Valve, though virtual realities clash with economic ones",
-      "url": "https://www.rockpapershotgun.com/steam-frame-review",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/steam-frame-review",
-          "titre": "Steam Frame review: Another best-in-class VR headset by Valve, though virtual realities clash with economic ones"
-        }
-      ]
-    },
-    {
-      "id": "it-s-absolutely-our-goal-to-expand-the-market-valve-s-new-s",
-      "titre": "\"It's absolutely our goal to expand the market\" - Valve's new Steam Frame VR headset has a nifty idea for broader appeal",
-      "url": "https://www.eurogamer.net/valve-steam-frame-vr-demand-expand-market",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/valve-steam-frame-vr-demand-expand-market",
-          "titre": "\"It's absolutely our goal to expand the market\" - Valve's new Steam Frame VR headset has a nifty idea for broader appeal"
         }
       ]
     },
@@ -612,7 +408,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 17.6,
+      "heures": 19.7,
       "chaleur": 6,
       "liens": [
         {
@@ -635,7 +431,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 20.3,
       "chaleur": 6,
       "liens": [
         {
@@ -653,13 +449,139 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 21.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/nintendo-updates-zelda-timeline-seemingly-confirming-a-fan-theory",
           "titre": "Nintendo Updates Zelda Timeline, Seemingly Confirming A Fan Theory"
+        }
+      ]
+    },
+    {
+      "id": "valve-decided-that-cutting-the-steam-frame-s-specs-to-avoid",
+      "titre": "Valve decided that cutting the Steam Frame’s specs to avoid price rises wasn't \"the right product choice\" for the VR headset",
+      "url": "https://www.rockpapershotgun.com/valve-decided-that-cutting-the-steam-frames-specs-to-avoid-price-rises-wasnt-the-right-product-choice-for-the-vr-headset",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 12.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/valve-decided-that-cutting-the-steam-frames-specs-to-avoid-price-rises-wasnt-the-right-product-choice-for-the-vr-headset",
+          "titre": "Valve decided that cutting the Steam Frame’s specs to avoid price rises wasn't \"the right product choice\" for the VR headset"
+        }
+      ]
+    },
+    {
+      "id": "marathon-s-permanent-pve-mode-and-next-major-update-delayed",
+      "titre": "Marathon's permanent PvE mode and next major update delayed to December days before launch, and Bungie's \"moving away from a strict season schedule\"",
+      "url": "https://www.eurogamer.net/marathon-pve-mode-delay-bungie-major-update",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 12.6,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/marathon-pve-mode-delay-bungie-major-update",
+          "titre": "Marathon's permanent PvE mode and next major update delayed to December days before launch, and Bungie's \"moving away from a strict season schedule\""
+        }
+      ]
+    },
+    {
+      "id": "you-can-now-sign-up-to-order-valve-s-steam-frame-vr-headset",
+      "titre": "You can now sign up to order Valve’s Steam Frame VR headset, it costs over $1,000 but includes Half-Life: Alyx",
+      "url": "https://www.videogameschronicle.com/news/you-can-now-sign-up-to-order-valves-steam-frame-vr-headset-it-costs-over-1000-but-includes-half-life-alyx/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 12.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/you-can-now-sign-up-to-order-valves-steam-frame-vr-headset-it-costs-over-1000-but-includes-half-life-alyx/",
+          "titre": "You can now sign up to order Valve’s Steam Frame VR headset, it costs over $1,000 but includes Half-Life: Alyx"
+        }
+      ]
+    },
+    {
+      "id": "valve-targeted-a-lower-price-for-the-steam-frame-then-the-me",
+      "titre": "Valve targeted a lower price for the Steam Frame, then the memory crisis happened: 'I wish we could have shipped it at the price that we were at last year'",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-targeted-a-lower-price-for-the-steam-frame-then-the-memory-crisis-happened-i-wish-we-could-have-shipped-it-at-the-price-that-we-were-at-last-year/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 13.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-targeted-a-lower-price-for-the-steam-frame-then-the-memory-crisis-happened-i-wish-we-could-have-shipped-it-at-the-price-that-we-were-at-last-year/",
+          "titre": "Valve targeted a lower price for the Steam Frame, then the memory crisis happened: 'I wish we could have shipped it at the price that we were at last year'"
+        }
+      ]
+    },
+    {
+      "id": "valve-working-on-steam-frame-strap-that-adds-index-like-spea",
+      "titre": "Valve working on Steam Frame strap that adds Index-like speakers and hot-swappable batteries, 'coming soon'",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-working-on-steam-frame-strap-that-adds-index-like-speakers-and-hot-swappable-batteries-coming-soon/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 13.3,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-working-on-steam-frame-strap-that-adds-index-like-speakers-and-hot-swappable-batteries-coming-soon/",
+          "titre": "Valve working on Steam Frame strap that adds Index-like speakers and hot-swappable batteries, 'coming soon'"
+        }
+      ]
+    },
+    {
+      "id": "steam-frame-review-another-best-in-class-vr-headset-by-valve",
+      "titre": "Steam Frame review: Another best-in-class VR headset by Valve, though virtual realities clash with economic ones",
+      "url": "https://www.rockpapershotgun.com/steam-frame-review",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 13.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/steam-frame-review",
+          "titre": "Steam Frame review: Another best-in-class VR headset by Valve, though virtual realities clash with economic ones"
+        }
+      ]
+    },
+    {
+      "id": "it-s-absolutely-our-goal-to-expand-the-market-valve-s-new-s",
+      "titre": "\"It's absolutely our goal to expand the market\" - Valve's new Steam Frame VR headset has a nifty idea for broader appeal",
+      "url": "https://www.eurogamer.net/valve-steam-frame-vr-demand-expand-market",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 13.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/valve-steam-frame-vr-demand-expand-market",
+          "titre": "\"It's absolutely our goal to expand the market\" - Valve's new Steam Frame VR headset has a nifty idea for broader appeal"
         }
       ]
     },
@@ -671,7 +593,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.5,
       "chaleur": 5,
       "liens": [
         {
@@ -689,7 +611,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 15.0,
       "chaleur": 5,
       "liens": [
         {
@@ -707,7 +629,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 15.2,
       "chaleur": 5,
       "liens": [
         {
@@ -725,7 +647,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 15.8,
       "chaleur": 5,
       "liens": [
         {
@@ -743,7 +665,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.7,
       "chaleur": 5,
       "liens": [
         {
@@ -761,7 +683,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.2,
       "chaleur": 5,
       "liens": [
         {
@@ -779,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.5,
       "chaleur": 5,
       "liens": [
         {
@@ -797,13 +719,121 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.8,
+      "heures": 18.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/roblox-plan-to-grow-their-absurd-gaming-empire-even-further-by-letting-devs-release-games-as-standalone-apps-potentially-via-steam-epic-and-gog",
           "titre": "Roblox plan to grow their absurd gaming empire even further by letting devs release games as \"standalone apps\", potentially via Steam, Epic, and GOG"
+        }
+      ]
+    },
+    {
+      "id": "fan-ps5-boycott-over-discs-seemingly-has-little-impact-in-us",
+      "titre": "Fan PS5 boycott over discs seemingly has little impact in US",
+      "url": "https://www.videogameschronicle.com/news/fan-ps5-boycott-over-discs-seemingly-has-little-impact-in-us/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/fan-ps5-boycott-over-discs-seemingly-has-little-impact-in-us/",
+          "titre": "Fan PS5 boycott over discs seemingly has little impact in US"
+        }
+      ]
+    },
+    {
+      "id": "here-s-the-aniimo-release-time-for-your-region",
+      "titre": "Here's the Aniimo release time for your region",
+      "url": "https://www.pcgamer.com/games/rpg/aniimo-release-date-launch-times/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/aniimo-release-date-launch-times/",
+          "titre": "Here's the Aniimo release time for your region"
+        }
+      ]
+    },
+    {
+      "id": "fire-emblem-fortune-s-weave-voice-actors-officially-revealed",
+      "titre": "Fire Emblem: Fortune's Weave Voice Actors Officially Revealed",
+      "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-voice-actors-officially-revealed",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-voice-actors-officially-revealed",
+          "titre": "Fire Emblem: Fortune's Weave Voice Actors Officially Revealed"
+        }
+      ]
+    },
+    {
+      "id": "fans-deserve-this-sega-is-turning-more-of-its-games-into-mo",
+      "titre": "‘Fans deserve this’: Sega is turning more of its games into movies with Netflix",
+      "url": "https://www.videogameschronicle.com/news/fans-deserve-this-sega-is-turning-more-of-its-games-into-movies-with-netflix/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/fans-deserve-this-sega-is-turning-more-of-its-games-into-movies-with-netflix/",
+          "titre": "‘Fans deserve this’: Sega is turning more of its games into movies with Netflix"
+        }
+      ]
+    },
+    {
+      "id": "marvel-s-wolverine-poseidon-s-kiss-trophy-guide-activate-the",
+      "titre": "Marvel’s Wolverine Poseidon’s Kiss Trophy Guide: Activate the kissing toilet in the Tokyo bar bathroom",
+      "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-poseidons-kiss-trophy-guide-activate-the-kissing-toilet-in-the-tokyo-bar-bathroom/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-poseidons-kiss-trophy-guide-activate-the-kissing-toilet-in-the-tokyo-bar-bathroom/",
+          "titre": "Marvel’s Wolverine Poseidon’s Kiss Trophy Guide: Activate the kissing toilet in the Tokyo bar bathroom"
+        }
+      ]
+    },
+    {
+      "id": "marvel-s-wolverine-all-whisky-bottle-locations-find-every-wh",
+      "titre": "Marvel’s Wolverine All Whisky Bottle Locations: Find every Whisky Bottle in Marvel’s Wolverine",
+      "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-all-whisky-bottle-locations-find-every-whisky-bottle-in-marvels-wolverine/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-all-whisky-bottle-locations-find-every-whisky-bottle-in-marvels-wolverine/",
+          "titre": "Marvel’s Wolverine All Whisky Bottle Locations: Find every Whisky Bottle in Marvel’s Wolverine"
         }
       ]
     },
@@ -815,7 +845,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -833,7 +863,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -851,7 +881,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -869,7 +899,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +917,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +935,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -923,8 +953,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -941,8 +971,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -959,8 +989,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -977,8 +1007,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -995,8 +1025,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1013,7 +1043,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 14.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +1061,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,7 +1079,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,7 +1097,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1085,7 +1115,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1103,7 +1133,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1121,7 +1151,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1139,49 +1169,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.7,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/starcraft-shooter-2030-details-not-live-service",
           "titre": "In a big change for Blizzard, it sounds like the new StarCraft shooter won't be a live-service game"
-        }
-      ]
-    },
-    {
-      "id": "what-s-the-harm-in-asking-dlala-studios-on-taking-a-big-swi",
-      "titre": "\"What's the harm in asking?\" – Dlala Studios on taking a big swing to get comedy legend Bob Mortimer for the upcoming game Murals",
-      "url": "https://www.gamesindustry.biz/whats-the-harm-in-asking-dlala-studios-on-taking-a-big-swing-to-get-comedy-legend-bob-mortimer-for-the-upcoming-game-murals",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 15.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/whats-the-harm-in-asking-dlala-studios-on-taking-a-big-swing-to-get-comedy-legend-bob-mortimer-for-the-upcoming-game-murals",
-          "titre": "\"What's the harm in asking?\" – Dlala Studios on taking a big swing to get comedy legend Bob Mortimer for the upcoming game Murals"
-        }
-      ]
-    },
-    {
-      "id": "mini-review-mewgenics-ps5-the-best-roguelike-since-the-bindi",
-      "titre": "Mini Review: Mewgenics (PS5) - The Best Roguelike Since The Binding of Isaac",
-      "url": "https://www.pushsquare.com/reviews/ps5/mewgenics",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 16.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/mewgenics",
-          "titre": "Mini Review: Mewgenics (PS5) - The Best Roguelike Since The Binding of Isaac"
         }
       ]
     }
