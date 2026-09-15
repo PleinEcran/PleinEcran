@@ -1,8 +1,44 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "15/09/2026 à 10h21",
+  "collecte": "15/09/2026 à 12h25",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "ubisoft-delays-rayman-legends-remake-retold-a-couple-of-mont",
+      "titre": "Ubisoft delays Rayman Legends remake Retold a couple of months \"to make sure every detail gets the care it deserves\"",
+      "url": "https://www.eurogamer.net/rayman-legends-remake-retold-release-date-delay",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 4,
+      "heures": 1.1,
+      "chaleur": 17,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/rayman-legends-remake-retold-release-date-delay",
+          "titre": "Ubisoft delays Rayman Legends remake Retold a couple of months \"to make sure every detail gets the care it deserves\""
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-delays-rayman-legends-retold-weeks-before-planned-release/",
+          "titre": "Ubisoft delays Rayman Legends Retold weeks before planned release"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-now-out-in-december-ps5-remake-delayed-two-months",
+          "titre": "Rayman Legends Retold Now Out in December, PS5 Remake Delayed Two Months"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/rayman-legends-retold-has-been-delayed",
+          "titre": "Rayman Legends Retold Has Been Delayed"
+        }
+      ]
+    },
     {
       "id": "the-steam-frame-launches-during-one-of-the-slowest-periods-f",
       "titre": "The Steam Frame launches during one of the slowest periods for VR on Steam, but Valve hopes to 'rekindle the excitement' for PCVR",
@@ -15,7 +51,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 17,
       "liens": [
         {
@@ -46,6 +82,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "sega-and-netflix-announce-partnership-to-develop-crazy-taxi",
+      "titre": "Sega and Netflix announce partnership to develop Crazy Taxi, Sonic, and Stranger Than Heaven adaptations",
+      "url": "https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz",
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 4,
+      "heures": 1.6,
+      "chaleur": 15,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations",
+          "titre": "Sega and Netflix announce partnership to develop Crazy Taxi, Sonic, and Stranger Than Heaven adaptations"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/sega-and-netflix-announce-new-multi-title-collaboration",
+          "titre": "SEGA And Netflix Announce New \"Multi-Title Collaboration\""
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/segas-going-nuts-with-crazy-taxi-movie-another-sonic-tv-series-and-more",
+          "titre": "SEGA's Going Nuts with Crazy Taxi Movie, Another Sonic TV Series, and More"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/sega-netflix-sonic-tv-crazy-taxi-stranger-than-heaven-film",
+          "titre": "Sega and Netflix partner for a \"cute yet cool\" Sonic TV Show, a Crazy Taxi film, and a \"badass action\" Stranger Than Heaven adaptation"
+        }
+      ]
+    },
+    {
       "id": "new-trademark-seemingly-reveals-the-title-for-lies-of-p-sequ",
       "titre": "New Trademark Seemingly Reveals The Title For Lies Of P Sequel",
       "url": "https://www.nintendolife.com/news/2026/09/new-trademark-seemingly-reveals-the-title-for-lies-of-p-sequel",
@@ -56,7 +128,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 1.1,
+      "heures": 3.2,
       "chaleur": 15,
       "liens": [
         {
@@ -90,7 +162,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 13,
       "liens": [
         {
@@ -106,36 +178,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ubisoft-delays-rayman-legends-retold-weeks-before-planned-re",
-      "titre": "Ubisoft delays Rayman Legends Retold weeks before planned release",
-      "url": "https://www.videogameschronicle.com/news/ubisoft-delays-rayman-legends-retold-weeks-before-planned-release/",
-      "sources": [
-        "Nintendo Life",
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 9.0,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/ubisoft-delays-rayman-legends-retold-weeks-before-planned-release/",
-          "titre": "Ubisoft delays Rayman Legends Retold weeks before planned release"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-now-out-in-december-ps5-remake-delayed-two-months",
-          "titre": "Rayman Legends Retold Now Out in December, PS5 Remake Delayed Two Months"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/rayman-legends-retold-has-been-delayed",
-          "titre": "Rayman Legends Retold Has Been Delayed"
-        }
-      ]
-    },
-    {
       "id": "sony-letter-spells-the-end-for-unreleased-the-last-of-us-par",
       "titre": "Sony letter spells the end for unreleased The Last of Us Part 2 multiplayer mod, its creator says",
       "url": "https://www.rockpapershotgun.com/sony-letter-spells-the-end-for-unreleased-the-last-of-us-part-2-multiplayer-mod-its-creator-says",
@@ -144,7 +186,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 22.1,
+      "heures": 24.2,
       "chaleur": 11,
       "liens": [
         {
@@ -168,7 +210,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 15.3,
+      "heures": 17.3,
       "chaleur": 9,
       "liens": [
         {
@@ -192,7 +234,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 21.1,
+      "heures": 23.2,
       "chaleur": 9,
       "liens": [
         {
@@ -208,6 +250,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "the-steam-deck-2-has-not-really-been-impacted-by-the-memory",
+      "titre": "The Steam Deck 2 has 'not really' been impacted by the memory supply crisis, with Valve still focused on a 'very delineated performance improvement' for its next handheld",
+      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-steam-deck-2-has-not-really-been-impacted-by-the-memory-supply-crisis-with-valve-still-focused-on-a-very-delineated-performance-improvement-for-its-next-handheld/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-steam-deck-2-has-not-really-been-impacted-by-the-memory-supply-crisis-with-valve-still-focused-on-a-very-delineated-performance-improvement-for-its-next-handheld/",
+          "titre": "The Steam Deck 2 has 'not really' been impacted by the memory supply crisis, with Valve still focused on a 'very delineated performance improvement' for its next handheld"
+        }
+      ]
+    },
+    {
       "id": "marathon-s-future-questioned-as-bungie-delays-big-update-and",
       "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule",
       "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
@@ -216,7 +276,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 8,
       "liens": [
         {
@@ -239,13 +299,121 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.8,
       "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-orders-now-live-us",
           "titre": "Zelda: Ocarina Of Time - Electric Ocarina Nintendo Store Pre-Orders Now Live (US)"
+        }
+      ]
+    },
+    {
+      "id": "katsuhiro-harada-and-snk-discuss-their-bold-ambitions-to-rev",
+      "titre": "Katsuhiro Harada and SNK discuss their bold ambitions to ‘revive Japan’s golden era’",
+      "url": "https://www.videogameschronicle.com/features/interviews/katsuhiro-harada-and-snk-discuss-their-bold-ambitions-to-revive-japans-golden-era/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/features/interviews/katsuhiro-harada-and-snk-discuss-their-bold-ambitions-to-revive-japans-golden-era/",
+          "titre": "Katsuhiro Harada and SNK discuss their bold ambitions to ‘revive Japan’s golden era’"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-ceo-jensen-huang-tells-trump-he-agrees-the-ai-doomsay",
+      "titre": "Nvidia CEO Jensen Huang tells Trump he agrees the AI doomsayers are perpetrating a hoax: 'you saw through all of that'",
+      "url": "https://www.pcgamer.com/hardware/nvidia-ceo-jensen-huang-tells-trump-he-agrees-the-ai-doomsayers-are-perpetrating-a-hoax-you-saw-through-all-of-that/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/nvidia-ceo-jensen-huang-tells-trump-he-agrees-the-ai-doomsayers-are-perpetrating-a-hoax-you-saw-through-all-of-that/",
+          "titre": "Nvidia CEO Jensen Huang tells Trump he agrees the AI doomsayers are perpetrating a hoax: 'you saw through all of that'"
+        }
+      ]
+    },
+    {
+      "id": "dishonored-director-harvey-smith-thinks-there-s-still-room-f",
+      "titre": "Dishonored director Harvey Smith thinks there's still room for big-budget immersive sims: 'When it really comes together and it has the budget behind it and the team, you end up with Deus Ex or Dishonored'",
+      "url": "https://www.pcgamer.com/games/sim/dishonored-director-harvey-smith-thinks-theres-still-room-for-big-budget-immersive-sims-when-it-really-comes-together-and-it-has-the-budget-behind-it-and-the-team-you-end-up-with-deus-ex-or-dishonored/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/dishonored-director-harvey-smith-thinks-theres-still-room-for-big-budget-immersive-sims-when-it-really-comes-together-and-it-has-the-budget-behind-it-and-the-team-you-end-up-with-deus-ex-or-dishonored/",
+          "titre": "Dishonored director Harvey Smith thinks there's still room for big-budget immersive sims: 'When it really comes together and it has the budget behind it and the team, you end up with Deus Ex or Dishonored'"
+        }
+      ]
+    },
+    {
+      "id": "marvel-tokon-dev-apologises-for-pc-launch-woes-outline-futur",
+      "titre": "Marvel Tokon Dev Apologises for PC Launch Woes, Outline Future Balance Updates",
+      "url": "https://www.pushsquare.com/news/2026/09/marvel-tokon-dev-apologises-for-pc-launch-woes-outline-future-balance-updates",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/marvel-tokon-dev-apologises-for-pc-launch-woes-outline-future-balance-updates",
+          "titre": "Marvel Tokon Dev Apologises for PC Launch Woes, Outline Future Balance Updates"
+        }
+      ]
+    },
+    {
+      "id": "admitting-the-ogl-fiasco-was-a-rug-pull-d-d-head-says-bluntl",
+      "titre": "Admitting the OGL fiasco was a 'rug pull', D&D head says 'bluntly, we're recovering from a lot of missteps—very loud, very public missteps'",
+      "url": "https://www.pcgamer.com/gaming-industry/admitting-the-ogl-fiasco-was-a-rug-pull-d-and-d-head-says-bluntly-were-recovering-from-a-lot-of-missteps-very-loud-very-public-missteps/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/admitting-the-ogl-fiasco-was-a-rug-pull-d-and-d-head-says-bluntly-were-recovering-from-a-lot-of-missteps-very-loud-very-public-missteps/",
+          "titre": "Admitting the OGL fiasco was a 'rug pull', D&D head says 'bluntly, we're recovering from a lot of missteps—very loud, very public missteps'"
+        }
+      ]
+    },
+    {
+      "id": "uk-charts-orbitals-floats-out-of-the-top-10-as-last-week-s-n",
+      "titre": "UK Charts: Orbitals Floats Out Of The Top 10 As Last Week's Newbies Hold Down The Podium",
+      "url": "https://www.nintendolife.com/news/2026/09/uk-charts-orbitals-floats-out-of-the-top-10-as-last-weeks-newbies-hold-down-the-podium",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/uk-charts-orbitals-floats-out-of-the-top-10-as-last-weeks-newbies-hold-down-the-podium",
+          "titre": "UK Charts: Orbitals Floats Out Of The Top 10 As Last Week's Newbies Hold Down The Podium"
         }
       ]
     },
@@ -257,7 +425,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
@@ -275,7 +443,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -293,7 +461,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -311,7 +479,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -329,7 +497,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -347,7 +515,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -365,31 +533,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/injustice-3-playtests-leak",
           "titre": "Injustice 3 is seemingly the mysterious, unannounced fighting game that's been hosting playtests in California"
-        }
-      ]
-    },
-    {
-      "id": "curve-games-partners-with-wayfinder-studios-to-publish-onlin",
-      "titre": "Curve Games partners with Wayfinder Studios to publish online co-op RPG Wyldheart",
-      "url": "https://www.gamesindustry.biz/curve-games-partners-with-wayfinder-studios-to-publish-online-co-op-rpg-wyldheart",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/curve-games-partners-with-wayfinder-studios-to-publish-online-co-op-rpg-wyldheart",
-          "titre": "Curve Games partners with Wayfinder Studios to publish online co-op RPG Wyldheart"
         }
       ]
     },
@@ -401,7 +551,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.5,
       "chaleur": 6,
       "liens": [
         {
@@ -419,37 +569,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/asha-sharma-has-been-personally-responding-to-xbox-users-support-tickets/",
           "titre": "Asha Sharma ‘has been personally responding to Xbox users’ support tickets’"
-        }
-      ]
-    },
-    {
-      "id": "sega-s-going-nuts-with-crazy-taxi-movie-another-sonic-tv-ser",
-      "titre": "SEGA's Going Nuts with Crazy Taxi Movie, Another Sonic TV Series, and More",
-      "url": "https://www.pushsquare.com/news/2026/09/segas-going-nuts-with-crazy-taxi-movie-another-sonic-tv-series-and-more",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 16.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/segas-going-nuts-with-crazy-taxi-movie-another-sonic-tv-series-and-more",
-          "titre": "SEGA's Going Nuts with Crazy Taxi Movie, Another Sonic TV Series, and More"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sega-netflix-sonic-tv-crazy-taxi-stranger-than-heaven-film",
-          "titre": "Sega and Netflix partner for a \"cute yet cool\" Sonic TV Show, a Crazy Taxi film, and a \"badass action\" Stranger Than Heaven adaptation"
         }
       ]
     },
@@ -461,7 +587,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.7,
+      "heures": 18.8,
       "chaleur": 6,
       "liens": [
         {
@@ -479,7 +605,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 16.8,
+      "heures": 18.9,
       "chaleur": 6,
       "liens": [
         {
@@ -498,7 +624,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 23.6,
+      "heures": 25.7,
       "chaleur": 6,
       "liens": [
         {
@@ -521,7 +647,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 24.2,
+      "heures": 26.2,
       "chaleur": 6,
       "liens": [
         {
@@ -539,7 +665,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.9,
+      "heures": 26.9,
       "chaleur": 6,
       "liens": [
         {
@@ -557,7 +683,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.6,
       "chaleur": 5,
       "liens": [
         {
@@ -575,7 +701,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 5,
       "liens": [
         {
@@ -593,31 +719,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/marathon-pve-mode-delay-bungie-major-update",
           "titre": "Marathon's permanent PvE mode and next major update delayed to December days before launch, and Bungie's \"moving away from a strict season schedule\""
-        }
-      ]
-    },
-    {
-      "id": "you-can-now-sign-up-to-order-valve-s-steam-frame-vr-headset",
-      "titre": "You can now sign up to order Valve’s Steam Frame VR headset, it costs over $1,000 but includes Half-Life: Alyx",
-      "url": "https://www.videogameschronicle.com/news/you-can-now-sign-up-to-order-valves-steam-frame-vr-headset-it-costs-over-1000-but-includes-half-life-alyx/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 16.8,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/you-can-now-sign-up-to-order-valves-steam-frame-vr-headset-it-costs-over-1000-but-includes-half-life-alyx/",
-          "titre": "You can now sign up to order Valve’s Steam Frame VR headset, it costs over $1,000 but includes Half-Life: Alyx"
         }
       ]
     },
@@ -629,7 +737,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.9,
       "chaleur": 5,
       "liens": [
         {
@@ -647,7 +755,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.2,
+      "heures": 19.3,
       "chaleur": 5,
       "liens": [
         {
@@ -665,7 +773,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.4,
       "chaleur": 5,
       "liens": [
         {
@@ -683,7 +791,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 5,
       "liens": [
         {
@@ -701,7 +809,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.4,
       "chaleur": 5,
       "liens": [
         {
@@ -719,7 +827,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.9,
       "chaleur": 5,
       "liens": [
         {
@@ -737,7 +845,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.1,
+      "heures": 21.2,
       "chaleur": 5,
       "liens": [
         {
@@ -755,7 +863,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.7,
+      "heures": 21.8,
       "chaleur": 5,
       "liens": [
         {
@@ -773,7 +881,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 20.6,
+      "heures": 22.7,
       "chaleur": 5,
       "liens": [
         {
@@ -791,7 +899,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.4,
       "chaleur": 5,
       "liens": [
         {
@@ -809,13 +917,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 24.8,
       "chaleur": 5,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/roblox-plan-to-grow-their-absurd-gaming-empire-even-further-by-letting-devs-release-games-as-standalone-apps-potentially-via-steam-epic-and-gog",
           "titre": "Roblox plan to grow their absurd gaming empire even further by letting devs release games as \"standalone apps\", potentially via Steam, Epic, and GOG"
+        }
+      ]
+    },
+    {
+      "id": "curve-games-partners-with-wayfinder-studios-to-publish-onlin",
+      "titre": "Curve Games partners with Wayfinder Studios to publish online co-op RPG Wyldheart",
+      "url": "https://www.gamesindustry.biz/curve-games-partners-with-wayfinder-studios-to-publish-online-co-op-rpg-wyldheart",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/curve-games-partners-with-wayfinder-studios-to-publish-online-co-op-rpg-wyldheart",
+          "titre": "Curve Games partners with Wayfinder Studios to publish online co-op RPG Wyldheart"
         }
       ]
     },
@@ -827,31 +953,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/here-are-the-top-20-best-selling-gamecube-games-in-the-us",
           "titre": "Here Are The Top 20 Best-Selling GameCube Games In The US"
-        }
-      ]
-    },
-    {
-      "id": "sega-and-netflix-announce-new-multi-title-collaboration",
-      "titre": "SEGA And Netflix Announce New \"Multi-Title Collaboration\"",
-      "url": "https://www.nintendolife.com/news/2026/09/sega-and-netflix-announce-new-multi-title-collaboration",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 7.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/sega-and-netflix-announce-new-multi-title-collaboration",
-          "titre": "SEGA And Netflix Announce New \"Multi-Title Collaboration\""
         }
       ]
     },
@@ -863,7 +971,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +989,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +1007,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +1025,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +1043,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.7,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +1061,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.2,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +1079,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 14.7,
       "chaleur": 3,
       "liens": [
         {
@@ -989,7 +1097,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 16.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +1115,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,7 +1133,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,7 +1151,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,7 +1169,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1079,7 +1187,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1088,99 +1196,10 @@ const VEILLE = {
           "titre": "Valve had next-gen VR 'headsets ready three, four years ago and they were big, bulky devices' but went back to the drawing board after actually putting them on"
         }
       ]
-    },
-    {
-      "id": "ps5-blackout-protest-made-no-significant-change-at-all-to-pl",
-      "titre": "PS5 Blackout Protest Made 'No Significant Change at All' to Player Counts, Says US Data",
-      "url": "https://www.pushsquare.com/news/2026/09/ps5-blackout-protest-made-no-significant-change-at-all-to-player-counts-says-us-data",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 16.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/ps5-blackout-protest-made-no-significant-change-at-all-to-player-counts-says-us-data",
-          "titre": "PS5 Blackout Protest Made 'No Significant Change at All' to Player Counts, Says US Data"
-        }
-      ]
-    },
-    {
-      "id": "feature-luigi-s-mansion-is-one-of-my-favourite-gamecube-game",
-      "titre": "Feature: Luigi's Mansion Is One Of My Favourite GameCube Games, But I've Never Actually Owned It",
-      "url": "https://www.nintendolife.com/features/luigis-mansion-is-one-of-my-favourite-gamecube-games-but-ive-never-actually-owned-it",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/luigis-mansion-is-one-of-my-favourite-gamecube-games-but-ive-never-actually-owned-it",
-          "titre": "Feature: Luigi's Mansion Is One Of My Favourite GameCube Games, But I've Never Actually Owned It"
-        }
-      ]
-    },
-    {
-      "id": "ace-combat-8-s-new-trailer-is-awesome-but-maybe-avoid-it-if",
-      "titre": "Ace Combat 8's New Trailer Is Awesome, But Maybe Avoid It if You're Already In",
-      "url": "https://www.pushsquare.com/news/2026/09/ace-combat-8s-new-trailer-is-awesome-but-maybe-avoid-it-if-youre-already-in",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/ace-combat-8s-new-trailer-is-awesome-but-maybe-avoid-it-if-youre-already-in",
-          "titre": "Ace Combat 8's New Trailer Is Awesome, But Maybe Avoid It if You're Already In"
-        }
-      ]
-    },
-    {
-      "id": "someone-made-a-copper-gaming-pc-frankensteined-out-of-an-old",
-      "titre": "Someone made a copper gaming PC Frankensteined out of an old blowtorch and other assorted parts and is 'just going to let it tarnish over time'",
-      "url": "https://www.pcgamer.com/hardware/gaming-pcs/someone-made-a-copper-gaming-pc-frankensteined-out-of-an-old-blowtorch-and-other-assorted-parts-and-is-just-going-to-let-it-tarnish-over-time/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-pcs/someone-made-a-copper-gaming-pc-frankensteined-out-of-an-old-blowtorch-and-other-assorted-parts-and-is-just-going-to-let-it-tarnish-over-time/",
-          "titre": "Someone made a copper gaming PC Frankensteined out of an old blowtorch and other assorted parts and is 'just going to let it tarnish over time'"
-        }
-      ]
-    },
-    {
-      "id": "rockstar-and-iwgb-outline-arguments-at-start-of-tribunal",
-      "titre": "Rockstar and IWGB outline arguments at start of tribunal",
-      "url": "https://www.gamesindustry.biz/rockstar-and-iwgb-outline-arguments-at-start-of-tribunal",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 18.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/rockstar-and-iwgb-outline-arguments-at-start-of-tribunal",
-          "titre": "Rockstar and IWGB outline arguments at start of tribunal"
-        }
-      ]
     }
   ],
   "alertes": [
-    "New Trademark Seemingly Reveals The Title For Lies Of P Sequel"
+    "Ubisoft delays Rayman Legends remake Retold a couple of months \"to make sure every detail gets the care it deserves\"",
+    "Sega and Netflix announce partnership to develop Crazy Taxi, Sonic, and Stranger Than Heaven adaptations"
   ]
 };
