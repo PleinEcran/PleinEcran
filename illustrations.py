@@ -106,6 +106,44 @@ SUJETS = {
         "arcade cabinet",
         "retro arcade machines row",
     ],
+    "marathon-symbiosis": [
+        "PlayStation 5 DualSense controller",
+        "Xbox Series X controller",
+        "gaming PC setup desk",
+        "video game esports arena",
+    ],
+    "steam-frame-ram": [
+        "Valve Corporation office",
+        "computer RAM memory module",
+        "Steam Deck handheld console",
+        "virtual reality headset user",
+        "semiconductor chip factory",
+    ],
+    "gta6-stephen-root": [
+        "Stephen Root actor",
+        "Emmy Awards red carpet",
+        "voice acting recording studio microphone",
+        "Los Angeles theater",
+    ],
+    "level5-ia-aveu": [
+        "Akihiro Hino",
+        "Tokyo Game Show",
+        "artificial intelligence conference",
+        "Fukuoka Japan office building",
+    ],
+    "abonnements-cout-resiliations": [
+        "household budget calculator",
+        "credit card online payment",
+        "Nintendo Switch console",
+        "Xbox Series X console",
+        "PlayStation 5 console",
+    ],
+    "blizzcon-2026-annonces": [
+        "Anaheim Convention Center",
+        "video game convention crowd",
+        "esports stage lighting",
+        "gaming convention exhibit hall",
+    ],
 }
 
 def nettoyer_html(texte):
