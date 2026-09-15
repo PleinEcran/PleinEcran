@@ -13,7 +13,7 @@ exigée par la licence : auteur, licence, lien vers le fichier d'origine.
 
 Ce qu'il ne fera jamais : récupérer une capture de jeu, une jaquette ou un
 visuel promotionnel. Ces images appartiennent à leurs éditeurs et ne sont
-jamais sous licence libre. Pour celles-là, passez par fetch_presskit.py.
+jamais sous licence libre. Pour celles-là, passez par steam.py.
 
 Trois façons de le lancer :
   - double-clic sur illustrations.command (Mac) ou illustrations.bat (Windows)
@@ -55,6 +55,7 @@ LICENCES_INTERDITES = (
 
 LARGEUR_MINIMALE = 640      # au-dessous, l'image est inexploitable en vignette
 RATIO_MINIMAL = 1.0         # le recadrage 16/9 est fait par la feuille de style
+CANDIDATS_MAX = 4           # nombre maximum de propositions distinctes par article
 
 # ---------------------------------------------------------------------------
 # PRIORITÉ 1 — fichier choisi à la main.
@@ -70,33 +71,40 @@ FICHIERS = {
 SUJETS = {
     "zelda-40-ocarina": [
         "Nintendo Switch 2 console",
+        "Nintendo Switch 2 handheld",
         "Nintendo Museum Kyoto",
         "ocarina instrument",
         "Nintendo 64 console",
+        "Legend of Zelda amiibo",
     ],
     "oot-encore-jouable": [
         "ocarina instrument",
         "Nintendo 64 controller",
         "Nintendo 64 console",
+        "Nintendo 64 cartridge",
     ],
     "horizon-hunters": [
         "Guerrilla Games",
         "PlayStation 5 DualSense controller",
         "PlayStation 5 console",
+        "Sony Interactive Entertainment booth",
     ],
     "warren-spector": [
         "Warren Spector",
         "Game Developers Conference 2017",
+        "video game developer conference speaker",
     ],
     "calendrier-sept": [
         "video game store shelf",
         "video game retail shop",
         "game shop interior",
+        "video game store display",
     ],
     "jeton-live-service": [
         "arcade coin slot",
         "arcade token",
         "arcade cabinet",
+        "retro arcade machines row",
     ],
 }
 
@@ -125,8 +133,10 @@ def licence_acceptee(nom):
     return any(ok in n for ok in LICENCES_OK)
 
 
-def chercher(requete, bavard=True):
-    """Meilleure image libre pour cette recherche, avec le détail des rejets."""
+def chercher(requete, vus, limite=1, bavard=True):
+    """Jusqu'à `limite` images libres distinctes pour cette recherche, avec le
+    détail des rejets. `vus` est un ensemble de titres déjà retenus ailleurs :
+    on ne propose jamais deux fois le même fichier pour un article."""
     donnees = appel_api({
         "action": "query", "format": "json", "generator": "search",
         "gsrsearch": f"filetype:bitmap {requete}", "gsrnamespace": "6", "gsrlimit": "40",
@@ -137,6 +147,9 @@ def chercher(requete, bavard=True):
     refus_licence, refus_taille, licences_vues = 0, 0, {}
 
     for page in pages.values():
+        titre = page.get("title", "")
+        if titre in vus:
+            continue
         infos = (page.get("imageinfo") or [{}])[0]
         meta = infos.get("extmetadata") or {}
         licence = nettoyer_html((meta.get("LicenseShortName") or {}).get("value"))
@@ -151,7 +164,8 @@ def chercher(requete, bavard=True):
             continue
 
         fiche = {
-            "titre": page.get("title", "")[5:],
+            "titre": titre[5:],
+            "titre_complet": titre,
             "url": infos.get("thumburl") or infos.get("url"),
             "page": infos.get("descriptionurl", ""),
             "auteur": (nettoyer_html((meta.get("Artist") or {}).get("value")) or "Auteur non précisé")[:90],
@@ -172,7 +186,9 @@ def chercher(requete, bavard=True):
     # le paysage d'abord ; à défaut un portrait, que la feuille de style recadrera
     liste = retenus or portraits
     liste.sort(key=lambda c: -c["largeur"])
-    return liste[0] if liste else None
+    choisis = liste[:limite]
+    vus.update(c["titre_complet"] for c in choisis)
+    return choisis
 
 
 def fiche_fichier(titre):
@@ -193,6 +209,7 @@ def fiche_fichier(titre):
             return None
         return {
             "titre": page.get("title", "")[5:],
+            "titre_complet": page.get("title", ""),
             "url": infos.get("thumburl") or infos.get("url"),
             "page": infos.get("descriptionurl", ""),
             "auteur": (nettoyer_html((meta.get("Artist") or {}).get("value")) or "Auteur non précisé")[:90],
@@ -242,6 +259,12 @@ def proposer(slug, requetes):
 
 
 def traiter(slug, requetes, resultats):
+    """Rassemble jusqu'à CANDIDATS_MAX images distinctes pour un article : le
+    fichier imposé à la main d'abord s'il y en a un, puis les meilleurs
+    résultats de chaque requête, dans l'ordre, jusqu'à remplir le quota."""
+    candidats = []
+    vus = set()
+
     impose = FICHIERS.get(slug)
     if impose:
         try:
@@ -250,59 +273,65 @@ def traiter(slug, requetes, resultats):
             print(f"  {slug} : fichier imposé illisible ({erreur.__class__.__name__})")
             trouve = None
         if trouve:
-            requetes = []
+            candidats.append((trouve, "fichier choisi à la main"))
+            vus.add(trouve["titre_complet"])
         else:
             print(f"  {slug} : fichier imposé inutilisable, retour à la recherche")
-            trouve = None
-    else:
-        trouve = None
-
-    if trouve:
-        return enregistrer(slug, trouve, "fichier choisi à la main", resultats)
-
 
     for requete in requetes:
+        if len(candidats) >= CANDIDATS_MAX:
+            break
         try:
-            trouve = chercher(requete)
+            trouves = chercher(requete, vus, limite=CANDIDATS_MAX - len(candidats))
         except Exception as erreur:
-            print(f"  {slug} : recherche impossible ({erreur.__class__.__name__})")
-            return False
-        if not trouve:
+            print(f"  {slug} : recherche impossible sur « {requete} » ({erreur.__class__.__name__})")
             continue
-        return enregistrer(slug, trouve, requete, resultats)
+        candidats.extend((trouve, requete) for trouve in trouves)
 
-    print(f"  {slug} : aucune image libre trouvée, l'illustration générée est conservée")
-    return False
+    if not candidats:
+        print(f"  {slug} : aucune image libre trouvée, l'illustration générée est conservée")
+        return False
+
+    return enregistrer(slug, candidats, resultats)
 
 
-def enregistrer(slug, trouve, origine, resultats):
+def enregistrer(slug, candidats, resultats):
+    fiches = []
+    for rang, (trouve, origine) in enumerate(candidats, start=1):
         extension = pathlib.Path(urllib.parse.urlparse(trouve["url"]).path).suffix.lower()
         if extension not in (".jpg", ".jpeg", ".png", ".webp"):
             extension = ".jpg"
+        nom_fichier = f"{slug}{extension}" if rang == 1 else f"{slug}-{rang}{extension}"
 
         try:
             demande = urllib.request.Request(trouve["url"], headers={"User-Agent": AGENT})
             with urllib.request.urlopen(demande, timeout=45) as reponse:
                 donnees = reponse.read()
         except Exception as erreur:
-            print(f"  {slug} : téléchargement échoué ({erreur.__class__.__name__})")
-            return False
+            print(f"  {slug} : téléchargement échoué pour la proposition {rang} ({erreur.__class__.__name__})")
+            continue
 
         DOSSIER.mkdir(parents=True, exist_ok=True)
-        chemin = DOSSIER / f"{slug}{extension}"
-        chemin.write_bytes(donnees)
+        (DOSSIER / nom_fichier).write_bytes(donnees)
 
-        resultats[slug] = {
-            "fichier": f"assets/img/photos/{slug}{extension}",
+        fiches.append({
+            "fichier": f"assets/img/photos/{nom_fichier}",
             "credit": f"Photo : {trouve['auteur']}, {trouve['licence']}, via Wikimedia Commons",
             "lien": trouve["page"],
             "licence": trouve["licence"],
             "recherche": origine,
-        }
-        print(f"  {slug}")
+            "nom": trouve["titre"],
+        })
+        print(f"  {slug} — proposition {rang} sur {len(candidats)}")
         print(f"      {trouve['titre']}")
         print(f"      {trouve['licence']} — {trouve['auteur']} — {len(donnees)//1024} Ko")
-        return True
+
+    if not fiches:
+        return False
+
+    resultats[slug] = dict(fiches[0])
+    resultats[slug]["candidats"] = fiches
+    return True
 
 
 def lire_existant():
