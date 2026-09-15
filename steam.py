@@ -33,6 +33,7 @@ import urllib.request
 
 RACINE = pathlib.Path(__file__).parent
 DATA = RACINE / "assets" / "js" / "data.js"
+BROUILLONS = RACINE / "console" / "brouillons.js"
 DOSSIER = RACINE / "assets" / "img" / "photos"
 SORTIE = RACINE / "assets" / "js" / "illustrations.js"
 
@@ -68,7 +69,8 @@ def appel(url, parametres=None, binaire=False):
 
 
 def articles_avec_jeu(filtres):
-    """Extrait slug et nom de jeu des articles qui en déclarent un."""
+    """Extrait slug et nom de jeu des articles qui en déclarent un — publiés
+    dans data.js, ou encore à l'état de brouillon dans console/brouillons.js."""
     texte = DATA.read_text(encoding="utf-8")
     blocs = re.findall(r'slug:\s*"([^"]+)"(.*?)(?=\n  \{|\n\];)', texte, re.S)
     trouves = []
@@ -78,6 +80,19 @@ def articles_avec_jeu(filtres):
         jeu = re.search(r'jeu:\s*"([^"]+)"', corps)
         if jeu:
             trouves.append((slug, jeu.group(1)))
+
+    if BROUILLONS.exists():
+        brut = BROUILLONS.read_text(encoding="utf-8")
+        debut, fin = brut.find("{"), brut.rfind("}")
+        try:
+            donnees = json.loads(brut[debut:fin + 1]) if debut != -1 and fin > debut else {}
+        except json.JSONDecodeError:
+            donnees = {}
+        for article in donnees.get("articles", []):
+            slug, jeu = article.get("slug"), article.get("jeu")
+            if slug and jeu and (not filtres or slug in filtres):
+                trouves.append((slug, jeu))
+
     return trouves
 
 
