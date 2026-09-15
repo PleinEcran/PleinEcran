@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "15/09/2026 à 16h21",
+  "collecte": "15/09/2026 à 18h21",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 5,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 20,
       "liens": [
         {
@@ -55,7 +55,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 14,
       "liens": [
         {
@@ -76,6 +76,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "007-first-light-catches-a-big-delay-on-switch-2-pushing-it-i",
+      "titre": "007 First Light catches a big delay on Switch 2, pushing it into next year",
+      "url": "https://www.eurogamer.net/007-first-light-switch-2-delay",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 8.7,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/007-first-light-switch-2-delay",
+          "titre": "007 First Light catches a big delay on Switch 2, pushing it into next year"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/007-first-light-on-switch-2-delayed-until-march-2027",
+          "titre": "007 First Light On Switch 2 Delayed Until March 2027"
+        }
+      ]
+    },
+    {
       "id": "lies-of-p-s-sequel-is-a-wizard-of-oz-homage-called-wonders-o",
       "titre": "Lies of P's sequel is a Wizard of Oz homage called Wonders of O, going by a Neowiz trademark, and probably not a videogame based on a famous work of French erotica",
       "url": "https://www.rockpapershotgun.com/lies-of-ps-sequel-is-a-wizard-of-oz-homage-called-wonders-of-o-going-by-a-neowiz-trademark-and-probably-not-a-videogame-based-on-a-famous-work-of-french-erotica",
@@ -85,8 +109,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 2.4,
-      "chaleur": 12,
+      "heures": 4.4,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -106,60 +130,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ubisoft-delays-rayman-legends-remake-retold-a-couple-of-mont",
-      "titre": "Ubisoft delays Rayman Legends remake Retold a couple of months \"to make sure every detail gets the care it deserves\"",
-      "url": "https://www.eurogamer.net/rayman-legends-remake-retold-release-date-delay",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 3,
-      "heures": 5.0,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/rayman-legends-remake-retold-release-date-delay",
-          "titre": "Ubisoft delays Rayman Legends remake Retold a couple of months \"to make sure every detail gets the care it deserves\""
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-now-out-in-december-ps5-remake-delayed-two-months",
-          "titre": "Rayman Legends Retold Now Out in December, PS5 Remake Delayed Two Months"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/rayman-legends-retold-has-been-delayed",
-          "titre": "Rayman Legends Retold Has Been Delayed"
-        }
-      ]
-    },
-    {
-      "id": "007-first-light-catches-a-big-delay-on-switch-2-pushing-it-i",
-      "titre": "007 First Light catches a big delay on Switch 2, pushing it into next year",
-      "url": "https://www.eurogamer.net/007-first-light-switch-2-delay",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 6.7,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/007-first-light-switch-2-delay",
-          "titre": "007 First Light catches a big delay on Switch 2, pushing it into next year"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/007-first-light-on-switch-2-delayed-until-march-2027",
-          "titre": "007 First Light On Switch 2 Delayed Until March 2027"
-        }
-      ]
-    },
-    {
       "id": "sega-and-netflix-announce-partnership-to-develop-crazy-taxi",
       "titre": "Sega and Netflix announce partnership to develop Crazy Taxi, Sonic, and Stranger Than Heaven adaptations",
       "url": "https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations",
@@ -169,7 +139,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 3,
-      "heures": 5.6,
+      "heures": 7.6,
       "chaleur": 10,
       "liens": [
         {
@@ -197,13 +167,37 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 9,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/multiple-music-artists-tease-gta-6-collaborations",
           "titre": "Multiple Music Artists Tease GTA 6 Collaborations"
+        }
+      ]
+    },
+    {
+      "id": "ubisoft-delays-rayman-legends-remake-retold-a-couple-of-mont",
+      "titre": "Ubisoft delays Rayman Legends remake Retold a couple of months \"to make sure every detail gets the care it deserves\"",
+      "url": "https://www.eurogamer.net/rayman-legends-remake-retold-release-date-delay",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 7.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/rayman-legends-remake-retold-release-date-delay",
+          "titre": "Ubisoft delays Rayman Legends remake Retold a couple of months \"to make sure every detail gets the care it deserves\""
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/rayman-legends-retold-has-been-delayed",
+          "titre": "Rayman Legends Retold Has Been Delayed"
         }
       ]
     },
@@ -216,7 +210,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 27.1,
+      "heures": 29.1,
       "chaleur": 9,
       "liens": [
         {
@@ -232,38 +226,164 @@ const VEILLE = {
       ]
     },
     {
-      "id": "why-switching-main-characters-for-your-game-s-sequel-might-b",
-      "titre": "Why switching main characters for your game's sequel might be a mistake",
-      "url": "https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake",
+      "id": "wardogs-lead-says-the-studio-won-t-hire-people-who-decry-cru",
+      "titre": "Wardogs lead says the studio won't hire people who decry crunch on social media",
+      "url": "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media",
       "sources": [
-        "GamesIndustry.biz"
+        "Game Developer"
       ],
       "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 8,
+      "heures": 0.3,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake",
-          "titre": "Why switching main characters for your game's sequel might be a mistake"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media",
+          "titre": "Wardogs lead says the studio won't hire people who decry crunch on social media"
         }
       ]
     },
     {
-      "id": "valve-considered-making-a-new-vr-game-for-the-steam-frame-be",
-      "titre": "Valve considered making a new VR game for the Steam Frame, before tackling the \"ludicrous\" task of getting Half-Life: Alyx running standalone",
-      "url": "https://www.rockpapershotgun.com/valve-considered-making-a-new-vr-game-for-the-steam-frame-before-tackling-the-ludicrous-task-of-getting-half-life-alyx-running-standalone",
+      "id": "marvel-s-wolverine-ps5-launch-marked-with-celebratory-art-fr",
+      "titre": "Marvel's Wolverine PS5 Launch Marked with Celebratory Art from Other PS Studios",
+      "url": "https://www.pushsquare.com/news/2026/09/marvels-wolverine-ps5-launch-marked-with-celebratory-art-from-other-ps-studios",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/marvels-wolverine-ps5-launch-marked-with-celebratory-art-from-other-ps-studios",
+          "titre": "Marvel's Wolverine PS5 Launch Marked with Celebratory Art from Other PS Studios"
+        }
+      ]
+    },
+    {
+      "id": "i-am-mark-zuckerberg",
+      "titre": "I am Mark Zuckerberg",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-am-mark-zuckerberg/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-am-mark-zuckerberg/",
+          "titre": "I am Mark Zuckerberg"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-is-not-untouchable-story-director-says-of-chan",
+      "titre": "The Witcher 3 'is not untouchable,' story director says of changes in the upcoming remaster: 'I still find some places that I think maybe nowadays, I would do it differently'",
+      "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3-is-not-untouchable-story-director-says-of-changes-in-the-upcoming-remaster-i-still-find-some-places-that-i-think-maybe-nowadays-i-would-do-it-differently/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3-is-not-untouchable-story-director-says-of-changes-in-the-upcoming-remaster-i-still-find-some-places-that-i-think-maybe-nowadays-i-would-do-it-differently/",
+          "titre": "The Witcher 3 'is not untouchable,' story director says of changes in the upcoming remaster: 'I still find some places that I think maybe nowadays, I would do it differently'"
+        }
+      ]
+    },
+    {
+      "id": "skyblivion-s-release-is-getting-closer-as-the-massive-skyrim",
+      "titre": "Skyblivion's release is \"getting closer\" as the massive Skyrim mod's makers start recruiting for a big final marketing push",
+      "url": "https://www.rockpapershotgun.com/skyblivions-release-is-getting-closer-as-the-massive-skyrim-mods-makers-start-recruiting-for-a-big-final-marketing-push",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 8,
+      "heures": 1.8,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valve-considered-making-a-new-vr-game-for-the-steam-frame-before-tackling-the-ludicrous-task-of-getting-half-life-alyx-running-standalone",
-          "titre": "Valve considered making a new VR game for the Steam Frame, before tackling the \"ludicrous\" task of getting Half-Life: Alyx running standalone"
+          "url": "https://www.rockpapershotgun.com/skyblivions-release-is-getting-closer-as-the-massive-skyrim-mods-makers-start-recruiting-for-a-big-final-marketing-push",
+          "titre": "Skyblivion's release is \"getting closer\" as the massive Skyrim mod's makers start recruiting for a big final marketing push"
+        }
+      ]
+    },
+    {
+      "id": "think-fire-emblem-fortune-s-weave-s-hero-roster-is-big-it-wa",
+      "titre": "Think Fire Emblem: Fortune's Weave's Hero Roster Is Big? It Was Almost Even Bigger",
+      "url": "https://www.nintendolife.com/news/2026/09/think-fire-emblem-fortunes-weaves-hero-roster-is-big-it-was-almost-even-bigger",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/think-fire-emblem-fortunes-weaves-hero-roster-is-big-it-was-almost-even-bigger",
+          "titre": "Think Fire Emblem: Fortune's Weave's Hero Roster Is Big? It Was Almost Even Bigger"
+        }
+      ]
+    },
+    {
+      "id": "7-ps-plus-extra-game-removals-for-october-2026-confirmed",
+      "titre": "7 PS Plus Extra Game Removals for October 2026 Confirmed",
+      "url": "https://www.pushsquare.com/news/2026/09/7-ps-plus-extra-game-removals-for-october-2026-confirmed",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/7-ps-plus-extra-game-removals-for-october-2026-confirmed",
+          "titre": "7 PS Plus Extra Game Removals for October 2026 Confirmed"
+        }
+      ]
+    },
+    {
+      "id": "if-you-need-proof-the-witcher-3-s-new-expansion-is-in-safe-h",
+      "titre": "If you need proof The Witcher 3's new expansion is in safe hands, its lead writer literally wrote her thesis on Hearts of Stone: 'To probably prove to some of my professors that games are worthy'",
+      "url": "https://www.pcgamer.com/games/the-witcher/if-you-need-proof-the-witcher-3s-new-expansion-is-in-safe-hands-its-lead-writer-literally-wrote-her-thesis-on-hearts-of-stone-to-probably-prove-to-some-of-my-professors-that-games-are-worthy/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/if-you-need-proof-the-witcher-3s-new-expansion-is-in-safe-hands-its-lead-writer-literally-wrote-her-thesis-on-hearts-of-stone-to-probably-prove-to-some-of-my-professors-that-games-are-worthy/",
+          "titre": "If you need proof The Witcher 3's new expansion is in safe hands, its lead writer literally wrote her thesis on Hearts of Stone: 'To probably prove to some of my professors that games are worthy'"
+        }
+      ]
+    },
+    {
+      "id": "no-ai-you-are-not-human-microsoft-s-code-of-practice-for-art",
+      "titre": "No, AI, you are not human: Microsoft's code of practice for artificial intelligence actually gives me some hope for the industry",
+      "url": "https://www.pcgamer.com/software/ai/no-ai-you-are-not-human-microsofts-code-of-practice-for-artificial-intelligence-actually-gives-me-some-hope-for-the-industry/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/no-ai-you-are-not-human-microsofts-code-of-practice-for-artificial-intelligence-actually-gives-me-some-hope-for-the-industry/",
+          "titre": "No, AI, you are not human: Microsoft's code of practice for artificial intelligence actually gives me some hope for the industry"
         }
       ]
     },
@@ -275,7 +395,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 2.0,
       "chaleur": 6,
       "liens": [
         {
@@ -293,7 +413,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -311,7 +431,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -329,31 +449,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/tim-willits-doesnt-think-rideshares-generative-ai-is-damaging-sabers-reputation",
           "titre": "Tim Willits doesn't think Rideshare's generative AI is damaging Saber's reputation"
-        }
-      ]
-    },
-    {
-      "id": "poll-are-you-playing-marvel-s-wolverine-on-ps5",
-      "titre": "Poll: Are You Playing Marvel's Wolverine on PS5?",
-      "url": "https://www.pushsquare.com/features/poll-are-you-playing-marvels-wolverine-on-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 0.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/poll-are-you-playing-marvels-wolverine-on-ps5",
-          "titre": "Poll: Are You Playing Marvel's Wolverine on PS5?"
         }
       ]
     },
@@ -365,7 +467,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -383,7 +485,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -401,7 +503,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -419,7 +521,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -437,7 +539,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -455,7 +557,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -473,7 +575,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -491,7 +593,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -509,7 +611,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -527,7 +629,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -545,7 +647,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
@@ -563,7 +665,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
@@ -574,182 +676,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "cdpr-wants-to-make-the-witcher-3-remastered-feel-like-any-ot",
-      "titre": "CDPR wants to make The Witcher 3 Remastered feel like any other game released today: 'It's so easy to get used to these new improvements that it's hard to go back'",
-      "url": "https://www.pcgamer.com/games/the-witcher/cdpr-wants-to-make-the-witcher-3-remastered-feel-like-any-other-game-released-today-its-so-easy-to-get-used-to-these-new-improvements-that-its-hard-to-go-back/",
+      "id": "why-switching-main-characters-for-your-game-s-sequel-might-b",
+      "titre": "Why switching main characters for your game's sequel might be a mistake",
+      "url": "https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake",
       "sources": [
-        "PC Gamer"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 2.1,
+      "heures": 5.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/cdpr-wants-to-make-the-witcher-3-remastered-feel-like-any-other-game-released-today-its-so-easy-to-get-used-to-these-new-improvements-that-its-hard-to-go-back/",
-          "titre": "CDPR wants to make The Witcher 3 Remastered feel like any other game released today: 'It's so easy to get used to these new improvements that it's hard to go back'"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake",
+          "titre": "Why switching main characters for your game's sequel might be a mistake"
         }
       ]
     },
     {
-      "id": "josh-holloway-stars-in-first-episode-of-live-action-ace-comb",
-      "titre": "Josh Holloway Stars in First Episode of Live Action Ace Combat 8 Prequel Series",
-      "url": "https://www.pushsquare.com/news/2026/09/josh-holloway-stars-in-first-episode-of-live-action-ace-combat-8-prequel-series",
+      "id": "valve-considered-making-a-new-vr-game-for-the-steam-frame-be",
+      "titre": "Valve considered making a new VR game for the Steam Frame, before tackling the \"ludicrous\" task of getting Half-Life: Alyx running standalone",
+      "url": "https://www.rockpapershotgun.com/valve-considered-making-a-new-vr-game-for-the-steam-frame-before-tackling-the-ludicrous-task-of-getting-half-life-alyx-running-standalone",
       "sources": [
-        "Push Square"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 2.1,
+      "heures": 5.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/josh-holloway-stars-in-first-episode-of-live-action-ace-combat-8-prequel-series",
-          "titre": "Josh Holloway Stars in First Episode of Live Action Ace Combat 8 Prequel Series"
-        }
-      ]
-    },
-    {
-      "id": "blizzard-finally-told-players-where-the-big-sword-in-wow-wen",
-      "titre": "Blizzard finally told players where the big sword in WoW went after 8 years, and I'm just bummed out a reveal this cool was in an interview somewhere",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-finally-told-players-where-the-big-sword-in-wow-went-after-8-years-and-im-just-bummed-out-a-reveal-this-cool-was-in-an-interview-somewhere/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-finally-told-players-where-the-big-sword-in-wow-went-after-8-years-and-im-just-bummed-out-a-reveal-this-cool-was-in-an-interview-somewhere/",
-          "titre": "Blizzard finally told players where the big sword in WoW went after 8 years, and I'm just bummed out a reveal this cool was in an interview somewhere"
-        }
-      ]
-    },
-    {
-      "id": "preview-stupid-never-dies-is-a-hard-sell-but-it-could-offer",
-      "titre": "Preview: Stupid Never Dies Is a Hard Sell, But It Could Offer Weird Action Unlike Anything Else on PS5",
-      "url": "https://www.pushsquare.com/previews/stupid-never-dies-is-a-hard-sell-but-it-could-offer-weird-action-unlike-anything-else-on-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/previews/stupid-never-dies-is-a-hard-sell-but-it-could-offer-weird-action-unlike-anything-else-on-ps5",
-          "titre": "Preview: Stupid Never Dies Is a Hard Sell, But It Could Offer Weird Action Unlike Anything Else on PS5"
-        }
-      ]
-    },
-    {
-      "id": "in-less-than-a-week-wardogs-sells-2-million-copies-and-achie",
-      "titre": "In less than a week Wardogs sells 2 million copies and achieves over 400k concurrent players",
-      "url": "https://www.videogameschronicle.com/news/in-less-than-a-week-wardogs-sells-2-million-copies-and-achieves-over-400k-concurrent-players/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/in-less-than-a-week-wardogs-sells-2-million-copies-and-achieves-over-400k-concurrent-players/",
-          "titre": "In less than a week Wardogs sells 2 million copies and achieves over 400k concurrent players"
-        }
-      ]
-    },
-    {
-      "id": "bohemia-interactive-acquires-minority-stake-in-everwind-deve",
-      "titre": "Bohemia Interactive acquires minority stake in Everwind developer Enjoy Studio",
-      "url": "https://www.gamedeveloper.com/business/bohemia-interactive-acquires-minority-stake-in-everwind-developer-enjoy-studio",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/bohemia-interactive-acquires-minority-stake-in-everwind-developer-enjoy-studio",
-          "titre": "Bohemia Interactive acquires minority stake in Everwind developer Enjoy Studio"
-        }
-      ]
-    },
-    {
-      "id": "alien-deathstorm-s-intense-relentless-fps-action-was-a-surpr",
-      "titre": "Alien Deathstorm's intense, relentless FPS action was a surprise Gamescom highlight - even if it nearly made my brain explode",
-      "url": "https://www.eurogamer.net/alien-deathstorm-gamescom-preview",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/alien-deathstorm-gamescom-preview",
-          "titre": "Alien Deathstorm's intense, relentless FPS action was a surprise Gamescom highlight - even if it nearly made my brain explode"
-        }
-      ]
-    },
-    {
-      "id": "dragonheir-silent-gods-marks-third-anniversary-with-a-hero-i",
-      "titre": "Dragonheir: Silent Gods marks third anniversary with a hero its players helped create",
-      "url": "https://www.videogameschronicle.com/news/dragonheir-silent-gods-marks-third-anniversary-with-a-hero-its-players-helped-create/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/dragonheir-silent-gods-marks-third-anniversary-with-a-hero-its-players-helped-create/",
-          "titre": "Dragonheir: Silent Gods marks third anniversary with a hero its players helped create"
-        }
-      ]
-    },
-    {
-      "id": "get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-compl",
-      "titre": "Get Indie Cracker 'The Alters' on a PS5 Disc in Physical Complete Edition",
-      "url": "https://www.pushsquare.com/news/2026/09/get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-complete-edition",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-complete-edition",
-          "titre": "Get Indie Cracker 'The Alters' on a PS5 Disc in Physical Complete Edition"
-        }
-      ]
-    },
-    {
-      "id": "nightdive-studios-head-raises-hopes-of-an-eternal-darkness-r",
-      "titre": "Nightdive Studios Head Raises Hopes Of An Eternal Darkness Remaster",
-      "url": "https://www.nintendolife.com/news/2026/09/nightdive-studios-head-raises-hopes-of-an-eternal-darkness-remaster",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nightdive-studios-head-raises-hopes-of-an-eternal-darkness-remaster",
-          "titre": "Nightdive Studios Head Raises Hopes Of An Eternal Darkness Remaster"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/valve-considered-making-a-new-vr-game-for-the-steam-frame-before-tackling-the-ludicrous-task-of-getting-half-life-alyx-running-standalone",
+          "titre": "Valve considered making a new VR game for the Steam Frame, before tackling the \"ludicrous\" task of getting Half-Life: Alyx running standalone"
         }
       ]
     },
@@ -761,31 +719,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-steam-deck-2-has-not-really-been-impacted-by-the-memory-supply-crisis-with-valve-still-focused-on-a-very-delineated-performance-improvement-for-its-next-handheld/",
           "titre": "The Steam Deck 2 has 'not really' been impacted by the memory supply crisis, with Valve still focused on a 'very delineated performance improvement' for its next handheld"
-        }
-      ]
-    },
-    {
-      "id": "diablo-iv-switch-2-performance-and-resolution-officially-rev",
-      "titre": "Diablo IV Switch 2 Performance And Resolution Officially Revealed",
-      "url": "https://www.nintendolife.com/news/2026/09/diablo-iv-switch-2-performance-and-resolution-officially-revealed",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/diablo-iv-switch-2-performance-and-resolution-officially-revealed",
-          "titre": "Diablo IV Switch 2 Performance And Resolution Officially Revealed"
         }
       ]
     },
@@ -797,7 +737,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.8,
       "chaleur": 6,
       "liens": [
         {
@@ -815,7 +755,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.3,
       "chaleur": 6,
       "liens": [
         {
@@ -833,7 +773,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 24.8,
       "chaleur": 6,
       "liens": [
         {
@@ -851,13 +791,31 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 30.2,
+      "heures": 32.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs",
           "titre": "Worker-run studio KO_OP confirms layoffs"
+        }
+      ]
+    },
+    {
+      "id": "diablo-iv-switch-2-performance-and-resolution-officially-rev",
+      "titre": "Diablo IV Switch 2 Performance And Resolution Officially Revealed",
+      "url": "https://www.nintendolife.com/news/2026/09/diablo-iv-switch-2-performance-and-resolution-officially-revealed",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/diablo-iv-switch-2-performance-and-resolution-officially-revealed",
+          "titre": "Diablo IV Switch 2 Performance And Resolution Officially Revealed"
         }
       ]
     },
@@ -869,31 +827,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 15.8,
       "chaleur": 5,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/asha-sharma-has-been-personally-responding-to-xbox-users-support-tickets/",
           "titre": "Asha Sharma ‘has been personally responding to Xbox users’ support tickets’"
-        }
-      ]
-    },
-    {
-      "id": "after-nearly-a-year-of-silence-following-its-last-minute-del",
-      "titre": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest",
-      "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 19.5,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
-          "titre": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest"
         }
       ]
     },
@@ -905,7 +845,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 24.4,
       "chaleur": 5,
       "liens": [
         {
@@ -923,7 +863,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.3,
       "chaleur": 5,
       "liens": [
         {
@@ -941,7 +881,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.4,
       "chaleur": 5,
       "liens": [
         {
@@ -959,7 +899,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 26.4,
       "chaleur": 5,
       "liens": [
         {
@@ -977,31 +917,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.1,
+      "heures": 27.1,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/hori-has-announced-a-modular-arcade-stick-for-switch-2-and-it-looks-awesome",
           "titre": "Hori Has Announced A Modular Arcade Stick For Switch 2, And It Looks Awesome"
-        }
-      ]
-    },
-    {
-      "id": "valve-is-under-the-impression-that-this-game-is-way-sexier",
-      "titre": "\"Valve is under the impression that this game is way sexier\": Nighthawks devs claim vampire RPG has erroneously been slapped with Steam adult content label",
-      "url": "https://www.rockpapershotgun.com/valve-is-under-the-impression-that-this-game-is-way-sexier-nighthawks-devs-claim-vampire-rpg-has-erroneously-been-slapped-with-steam-adult-content-label",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 25.7,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valve-is-under-the-impression-that-this-game-is-way-sexier-nighthawks-devs-claim-vampire-rpg-has-erroneously-been-slapped-with-steam-adult-content-label",
-          "titre": "\"Valve is under the impression that this game is way sexier\": Nighthawks devs claim vampire RPG has erroneously been slapped with Steam adult content label"
         }
       ]
     },
@@ -1013,7 +935,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 26.6,
+      "heures": 28.6,
       "chaleur": 5,
       "liens": [
         {
@@ -1031,13 +953,193 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.3,
+      "heures": 30.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/guides/nintendos-customer-appreciation-sale-discounts-games-amiibo-and-more-heres-everything-included-us",
           "titre": "Guide: Nintendo's 'Customer Appreciation Sale' Discounts Games, amiibo & More, Here's Everything Included (US)"
+        }
+      ]
+    },
+    {
+      "id": "cdpr-wants-to-make-the-witcher-3-remastered-feel-like-any-ot",
+      "titre": "CDPR wants to make The Witcher 3 Remastered feel like any other game released today: 'It's so easy to get used to these new improvements that it's hard to go back'",
+      "url": "https://www.pcgamer.com/games/the-witcher/cdpr-wants-to-make-the-witcher-3-remastered-feel-like-any-other-game-released-today-its-so-easy-to-get-used-to-these-new-improvements-that-its-hard-to-go-back/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/cdpr-wants-to-make-the-witcher-3-remastered-feel-like-any-other-game-released-today-its-so-easy-to-get-used-to-these-new-improvements-that-its-hard-to-go-back/",
+          "titre": "CDPR wants to make The Witcher 3 Remastered feel like any other game released today: 'It's so easy to get used to these new improvements that it's hard to go back'"
+        }
+      ]
+    },
+    {
+      "id": "josh-holloway-stars-in-first-episode-of-live-action-ace-comb",
+      "titre": "Josh Holloway Stars in First Episode of Live Action Ace Combat 8 Prequel Series",
+      "url": "https://www.pushsquare.com/news/2026/09/josh-holloway-stars-in-first-episode-of-live-action-ace-combat-8-prequel-series",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/josh-holloway-stars-in-first-episode-of-live-action-ace-combat-8-prequel-series",
+          "titre": "Josh Holloway Stars in First Episode of Live Action Ace Combat 8 Prequel Series"
+        }
+      ]
+    },
+    {
+      "id": "blizzard-finally-told-players-where-the-big-sword-in-wow-wen",
+      "titre": "Blizzard finally told players where the big sword in WoW went after 8 years, and I'm just bummed out a reveal this cool was in an interview somewhere",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-finally-told-players-where-the-big-sword-in-wow-went-after-8-years-and-im-just-bummed-out-a-reveal-this-cool-was-in-an-interview-somewhere/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-finally-told-players-where-the-big-sword-in-wow-went-after-8-years-and-im-just-bummed-out-a-reveal-this-cool-was-in-an-interview-somewhere/",
+          "titre": "Blizzard finally told players where the big sword in WoW went after 8 years, and I'm just bummed out a reveal this cool was in an interview somewhere"
+        }
+      ]
+    },
+    {
+      "id": "preview-stupid-never-dies-is-a-hard-sell-but-it-could-offer",
+      "titre": "Preview: Stupid Never Dies Is a Hard Sell, But It Could Offer Weird Action Unlike Anything Else on PS5",
+      "url": "https://www.pushsquare.com/previews/stupid-never-dies-is-a-hard-sell-but-it-could-offer-weird-action-unlike-anything-else-on-ps5",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/previews/stupid-never-dies-is-a-hard-sell-but-it-could-offer-weird-action-unlike-anything-else-on-ps5",
+          "titre": "Preview: Stupid Never Dies Is a Hard Sell, But It Could Offer Weird Action Unlike Anything Else on PS5"
+        }
+      ]
+    },
+    {
+      "id": "in-less-than-a-week-wardogs-sells-2-million-copies-and-achie",
+      "titre": "In less than a week Wardogs sells 2 million copies and achieves over 400k concurrent players",
+      "url": "https://www.videogameschronicle.com/news/in-less-than-a-week-wardogs-sells-2-million-copies-and-achieves-over-400k-concurrent-players/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/in-less-than-a-week-wardogs-sells-2-million-copies-and-achieves-over-400k-concurrent-players/",
+          "titre": "In less than a week Wardogs sells 2 million copies and achieves over 400k concurrent players"
+        }
+      ]
+    },
+    {
+      "id": "bohemia-interactive-acquires-minority-stake-in-everwind-deve",
+      "titre": "Bohemia Interactive acquires minority stake in Everwind developer Enjoy Studio",
+      "url": "https://www.gamedeveloper.com/business/bohemia-interactive-acquires-minority-stake-in-everwind-developer-enjoy-studio",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/bohemia-interactive-acquires-minority-stake-in-everwind-developer-enjoy-studio",
+          "titre": "Bohemia Interactive acquires minority stake in Everwind developer Enjoy Studio"
+        }
+      ]
+    },
+    {
+      "id": "alien-deathstorm-s-intense-relentless-fps-action-was-a-surpr",
+      "titre": "Alien Deathstorm's intense, relentless FPS action was a surprise Gamescom highlight - even if it nearly made my brain explode",
+      "url": "https://www.eurogamer.net/alien-deathstorm-gamescom-preview",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/alien-deathstorm-gamescom-preview",
+          "titre": "Alien Deathstorm's intense, relentless FPS action was a surprise Gamescom highlight - even if it nearly made my brain explode"
+        }
+      ]
+    },
+    {
+      "id": "dragonheir-silent-gods-marks-third-anniversary-with-a-hero-i",
+      "titre": "Dragonheir: Silent Gods marks third anniversary with a hero its players helped create",
+      "url": "https://www.videogameschronicle.com/news/dragonheir-silent-gods-marks-third-anniversary-with-a-hero-its-players-helped-create/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/dragonheir-silent-gods-marks-third-anniversary-with-a-hero-its-players-helped-create/",
+          "titre": "Dragonheir: Silent Gods marks third anniversary with a hero its players helped create"
+        }
+      ]
+    },
+    {
+      "id": "get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-compl",
+      "titre": "Get Indie Cracker 'The Alters' on a PS5 Disc in Physical Complete Edition",
+      "url": "https://www.pushsquare.com/news/2026/09/get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-complete-edition",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-complete-edition",
+          "titre": "Get Indie Cracker 'The Alters' on a PS5 Disc in Physical Complete Edition"
+        }
+      ]
+    },
+    {
+      "id": "nightdive-studios-head-raises-hopes-of-an-eternal-darkness-r",
+      "titre": "Nightdive Studios Head Raises Hopes Of An Eternal Darkness Remaster",
+      "url": "https://www.nintendolife.com/news/2026/09/nightdive-studios-head-raises-hopes-of-an-eternal-darkness-remaster",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nightdive-studios-head-raises-hopes-of-an-eternal-darkness-remaster",
+          "titre": "Nightdive Studios Head Raises Hopes Of An Eternal Darkness Remaster"
         }
       ]
     },
@@ -1049,7 +1151,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1058,118 +1160,7 @@ const VEILLE = {
           "titre": "Katsuhiro Harada and SNK discuss their bold ambitions to ‘revive Japan’s golden era’"
         }
       ]
-    },
-    {
-      "id": "nvidia-ceo-jensen-huang-tells-trump-he-agrees-the-ai-doomsay",
-      "titre": "Nvidia CEO Jensen Huang tells Trump he agrees the AI doomsayers are perpetrating a hoax: 'you saw through all of that'",
-      "url": "https://www.pcgamer.com/hardware/nvidia-ceo-jensen-huang-tells-trump-he-agrees-the-ai-doomsayers-are-perpetrating-a-hoax-you-saw-through-all-of-that/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/nvidia-ceo-jensen-huang-tells-trump-he-agrees-the-ai-doomsayers-are-perpetrating-a-hoax-you-saw-through-all-of-that/",
-          "titre": "Nvidia CEO Jensen Huang tells Trump he agrees the AI doomsayers are perpetrating a hoax: 'you saw through all of that'"
-        }
-      ]
-    },
-    {
-      "id": "dishonored-director-harvey-smith-thinks-there-s-still-room-f",
-      "titre": "Dishonored director Harvey Smith thinks there's still room for big-budget immersive sims: 'When it really comes together and it has the budget behind it and the team, you end up with Deus Ex or Dishonored'",
-      "url": "https://www.pcgamer.com/games/sim/dishonored-director-harvey-smith-thinks-theres-still-room-for-big-budget-immersive-sims-when-it-really-comes-together-and-it-has-the-budget-behind-it-and-the-team-you-end-up-with-deus-ex-or-dishonored/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/dishonored-director-harvey-smith-thinks-theres-still-room-for-big-budget-immersive-sims-when-it-really-comes-together-and-it-has-the-budget-behind-it-and-the-team-you-end-up-with-deus-ex-or-dishonored/",
-          "titre": "Dishonored director Harvey Smith thinks there's still room for big-budget immersive sims: 'When it really comes together and it has the budget behind it and the team, you end up with Deus Ex or Dishonored'"
-        }
-      ]
-    },
-    {
-      "id": "marvel-tokon-dev-apologises-for-pc-launch-woes-outline-futur",
-      "titre": "Marvel Tokon Dev Apologises for PC Launch Woes, Outline Future Balance Updates",
-      "url": "https://www.pushsquare.com/news/2026/09/marvel-tokon-dev-apologises-for-pc-launch-woes-outline-future-balance-updates",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/marvel-tokon-dev-apologises-for-pc-launch-woes-outline-future-balance-updates",
-          "titre": "Marvel Tokon Dev Apologises for PC Launch Woes, Outline Future Balance Updates"
-        }
-      ]
-    },
-    {
-      "id": "admitting-the-ogl-fiasco-was-a-rug-pull-d-d-head-says-bluntl",
-      "titre": "Admitting the OGL fiasco was a 'rug pull', D&D head says 'bluntly, we're recovering from a lot of missteps—very loud, very public missteps'",
-      "url": "https://www.pcgamer.com/gaming-industry/admitting-the-ogl-fiasco-was-a-rug-pull-d-and-d-head-says-bluntly-were-recovering-from-a-lot-of-missteps-very-loud-very-public-missteps/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/admitting-the-ogl-fiasco-was-a-rug-pull-d-and-d-head-says-bluntly-were-recovering-from-a-lot-of-missteps-very-loud-very-public-missteps/",
-          "titre": "Admitting the OGL fiasco was a 'rug pull', D&D head says 'bluntly, we're recovering from a lot of missteps—very loud, very public missteps'"
-        }
-      ]
-    },
-    {
-      "id": "uk-charts-orbitals-floats-out-of-the-top-10-as-last-week-s-n",
-      "titre": "UK Charts: Orbitals Floats Out Of The Top 10 As Last Week's Newbies Hold Down The Podium",
-      "url": "https://www.nintendolife.com/news/2026/09/uk-charts-orbitals-floats-out-of-the-top-10-as-last-weeks-newbies-hold-down-the-podium",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 5.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/uk-charts-orbitals-floats-out-of-the-top-10-as-last-weeks-newbies-hold-down-the-podium",
-          "titre": "UK Charts: Orbitals Floats Out Of The Top 10 As Last Week's Newbies Hold Down The Podium"
-        }
-      ]
-    },
-    {
-      "id": "as-civilization-7-devs-firaxis-prepare-to-unleash-the-nukes",
-      "titre": "As Civilization 7 devs Firaxis prepare to unleash the nukes, the strategy game's latest update whips out a fresh take on the classic Real Earth map",
-      "url": "https://www.rockpapershotgun.com/as-civilization-7-devs-firaxis-prepare-to-unleash-the-nukes-the-strategy-games-latest-update-whips-out-a-fresh-take-on-the-classic-real-earth-map",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 6.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/as-civilization-7-devs-firaxis-prepare-to-unleash-the-nukes-the-strategy-games-latest-update-whips-out-a-fresh-take-on-the-classic-real-earth-map",
-          "titre": "As Civilization 7 devs Firaxis prepare to unleash the nukes, the strategy game's latest update whips out a fresh take on the classic Real Earth map"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "Steam Deck 2 plans still on track despite RAM crisis and higher prices",
-    "Marathon's next major update runs a few months further away, permanent PvE in hand, as Bungie ditch their \"strict seasonal schedule\""
-  ]
+  "alertes": []
 };
