@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "15/09/2026 à 20h20",
+  "collecte": "15/09/2026 à 22h19",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 5,
-      "heures": 5.1,
+      "heures": 7.1,
       "chaleur": 18,
       "liens": [
         {
@@ -54,7 +54,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 2,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 11,
       "liens": [
         {
@@ -70,30 +70,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "007-first-light-catches-a-big-delay-on-switch-2-pushing-it-i",
-      "titre": "007 First Light catches a big delay on Switch 2, pushing it into next year",
-      "url": "https://www.eurogamer.net/007-first-light-switch-2-delay",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 10.7,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/007-first-light-switch-2-delay",
-          "titre": "007 First Light catches a big delay on Switch 2, pushing it into next year"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/007-first-light-on-switch-2-delayed-until-march-2027",
-          "titre": "007 First Light On Switch 2 Delayed Until March 2027"
-        }
-      ]
-    },
-    {
       "id": "lies-of-p-s-sequel-is-a-wizard-of-oz-homage-called-wonders-o",
       "titre": "Lies of P's sequel is a Wizard of Oz homage called Wonders of O, going by a Neowiz trademark, and probably not a videogame based on a famous work of French erotica",
       "url": "https://www.rockpapershotgun.com/lies-of-ps-sequel-is-a-wizard-of-oz-homage-called-wonders-of-o-going-by-a-neowiz-trademark-and-probably-not-a-videogame-based-on-a-famous-work-of-french-erotica",
@@ -103,7 +79,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 10,
       "liens": [
         {
@@ -133,7 +109,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 3,
-      "heures": 9.5,
+      "heures": 11.5,
       "chaleur": 10,
       "liens": [
         {
@@ -154,6 +130,54 @@ const VEILLE = {
       ]
     },
     {
+      "id": "007-first-light-catches-a-big-delay-on-switch-2-pushing-it-i",
+      "titre": "007 First Light catches a big delay on Switch 2, pushing it into next year",
+      "url": "https://www.eurogamer.net/007-first-light-switch-2-delay",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 12.6,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/007-first-light-switch-2-delay",
+          "titre": "007 First Light catches a big delay on Switch 2, pushing it into next year"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/007-first-light-on-switch-2-delayed-until-march-2027",
+          "titre": "007 First Light On Switch 2 Delayed Until March 2027"
+        }
+      ]
+    },
+    {
+      "id": "wardogs-ceo-says-he-won-t-hire-devs-who-aren-t-down-with-man",
+      "titre": "Wardogs CEO says he won't hire devs who aren't down with mandatory crunch: 'If you care about what you're making, this is the place to work'",
+      "url": "https://www.pcgamer.com/games/fps/wardogs-ceo-says-he-wont-hire-devs-who-arent-down-with-mandatory-crunch-if-you-care-about-what-youre-making-this-is-the-place-to-work/",
+      "sources": [
+        "Game Developer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 1.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/wardogs-ceo-says-he-wont-hire-devs-who-arent-down-with-mandatory-crunch-if-you-care-about-what-youre-making-this-is-the-place-to-work/",
+          "titre": "Wardogs CEO says he won't hire devs who aren't down with mandatory crunch: 'If you care about what you're making, this is the place to work'"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media",
+          "titre": "Wardogs lead says the studio won't hire people who decry crunch on social media"
+        }
+      ]
+    },
+    {
       "id": "roblox-will-allow-devs-to-release-games-as-standalone-apps-o",
       "titre": "Roblox will allow devs to release games as standalone apps on other stores",
       "url": "https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores",
@@ -162,7 +186,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 0.5,
+      "heures": 2.4,
       "chaleur": 9,
       "liens": [
         {
@@ -186,7 +210,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 9,
       "liens": [
         {
@@ -210,7 +234,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 9.0,
+      "heures": 11.0,
       "chaleur": 9,
       "liens": [
         {
@@ -233,7 +257,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 8,
       "liens": [
         {
@@ -251,13 +275,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/multiple-music-artists-tease-gta-6-collaborations",
           "titre": "Multiple Music Artists Tease GTA 6 Collaborations"
+        }
+      ]
+    },
+    {
+      "id": "as-skyblivion-s-launch-approaches-the-team-is-looking-for-he",
+      "titre": "As Skyblivion's launch approaches, the team is looking for help to get the word out",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/as-skyblivions-launch-approaches-the-team-is-looking-for-help-to-get-the-word-out/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/as-skyblivions-launch-approaches-the-team-is-looking-for-help-to-get-the-word-out/",
+          "titre": "As Skyblivion's launch approaches, the team is looking for help to get the word out"
         }
       ]
     },
@@ -269,7 +311,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -287,193 +329,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/rpg/diablo-4-player-discovers-secret-diablo-2-easter-egg-in-its-new-throwback-season-and-now-everyone-is-wondering-what-else-blizzard-hid-in-there/",
           "titre": "Diablo 4 player discovers secret Diablo 2 easter egg in its new throwback season and now everyone is wondering what else Blizzard hid in there"
-        }
-      ]
-    },
-    {
-      "id": "wardogs-lead-says-the-studio-won-t-hire-people-who-decry-cru",
-      "titre": "Wardogs lead says the studio won't hire people who decry crunch on social media",
-      "url": "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media",
-          "titre": "Wardogs lead says the studio won't hire people who decry crunch on social media"
-        }
-      ]
-    },
-    {
-      "id": "marvel-s-wolverine-ps5-launch-marked-with-celebratory-art-fr",
-      "titre": "Marvel's Wolverine PS5 Launch Marked with Celebratory Art from Other PS Studios",
-      "url": "https://www.pushsquare.com/news/2026/09/marvels-wolverine-ps5-launch-marked-with-celebratory-art-from-other-ps-studios",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/marvels-wolverine-ps5-launch-marked-with-celebratory-art-from-other-ps-studios",
-          "titre": "Marvel's Wolverine PS5 Launch Marked with Celebratory Art from Other PS Studios"
-        }
-      ]
-    },
-    {
-      "id": "i-am-mark-zuckerberg",
-      "titre": "I am Mark Zuckerberg",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-am-mark-zuckerberg/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-am-mark-zuckerberg/",
-          "titre": "I am Mark Zuckerberg"
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-is-not-untouchable-story-director-says-of-the",
-      "titre": "The Witcher 3 'is not untouchable,' story director says of the upcoming expansion and remaster: 'I still find some places that I think maybe nowadays, I would do it differently'",
-      "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3-is-not-untouchable-story-director-says-of-changes-in-the-upcoming-remaster-i-still-find-some-places-that-i-think-maybe-nowadays-i-would-do-it-differently/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3-is-not-untouchable-story-director-says-of-changes-in-the-upcoming-remaster-i-still-find-some-places-that-i-think-maybe-nowadays-i-would-do-it-differently/",
-          "titre": "The Witcher 3 'is not untouchable,' story director says of the upcoming expansion and remaster: 'I still find some places that I think maybe nowadays, I would do it differently'"
-        }
-      ]
-    },
-    {
-      "id": "skyblivion-s-release-is-getting-closer-as-the-massive-skyrim",
-      "titre": "Skyblivion's release is \"getting closer\" as the massive Skyrim mod's makers start recruiting for a big final marketing push",
-      "url": "https://www.rockpapershotgun.com/skyblivions-release-is-getting-closer-as-the-massive-skyrim-mods-makers-start-recruiting-for-a-big-final-marketing-push",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/skyblivions-release-is-getting-closer-as-the-massive-skyrim-mods-makers-start-recruiting-for-a-big-final-marketing-push",
-          "titre": "Skyblivion's release is \"getting closer\" as the massive Skyrim mod's makers start recruiting for a big final marketing push"
-        }
-      ]
-    },
-    {
-      "id": "think-fire-emblem-fortune-s-weave-s-hero-roster-is-big-it-wa",
-      "titre": "Think Fire Emblem: Fortune's Weave's Hero Roster Is Big? It Was Almost Even Bigger",
-      "url": "https://www.nintendolife.com/news/2026/09/think-fire-emblem-fortunes-weaves-hero-roster-is-big-it-was-almost-even-bigger",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/think-fire-emblem-fortunes-weaves-hero-roster-is-big-it-was-almost-even-bigger",
-          "titre": "Think Fire Emblem: Fortune's Weave's Hero Roster Is Big? It Was Almost Even Bigger"
-        }
-      ]
-    },
-    {
-      "id": "7-ps-plus-extra-game-removals-for-october-2026-confirmed",
-      "titre": "7 PS Plus Extra Game Removals for October 2026 Confirmed",
-      "url": "https://www.pushsquare.com/news/2026/09/7-ps-plus-extra-game-removals-for-october-2026-confirmed",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/7-ps-plus-extra-game-removals-for-october-2026-confirmed",
-          "titre": "7 PS Plus Extra Game Removals for October 2026 Confirmed"
-        }
-      ]
-    },
-    {
-      "id": "if-you-need-proof-the-witcher-3-s-new-expansion-is-in-safe-h",
-      "titre": "If you need proof The Witcher 3's new expansion is in safe hands, its lead writer literally wrote her thesis on Hearts of Stone: 'To probably prove to some of my professors that games are worthy'",
-      "url": "https://www.pcgamer.com/games/the-witcher/if-you-need-proof-the-witcher-3s-new-expansion-is-in-safe-hands-its-lead-writer-literally-wrote-her-thesis-on-hearts-of-stone-to-probably-prove-to-some-of-my-professors-that-games-are-worthy/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/if-you-need-proof-the-witcher-3s-new-expansion-is-in-safe-hands-its-lead-writer-literally-wrote-her-thesis-on-hearts-of-stone-to-probably-prove-to-some-of-my-professors-that-games-are-worthy/",
-          "titre": "If you need proof The Witcher 3's new expansion is in safe hands, its lead writer literally wrote her thesis on Hearts of Stone: 'To probably prove to some of my professors that games are worthy'"
-        }
-      ]
-    },
-    {
-      "id": "no-ai-you-are-not-human-microsoft-s-code-of-practice-for-art",
-      "titre": "No, AI, you are not human: Microsoft's code of practice for artificial intelligence actually gives me some hope for the industry",
-      "url": "https://www.pcgamer.com/software/ai/no-ai-you-are-not-human-microsofts-code-of-practice-for-artificial-intelligence-actually-gives-me-some-hope-for-the-industry/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/no-ai-you-are-not-human-microsofts-code-of-practice-for-artificial-intelligence-actually-gives-me-some-hope-for-the-industry/",
-          "titre": "No, AI, you are not human: Microsoft's code of practice for artificial intelligence actually gives me some hope for the industry"
-        }
-      ]
-    },
-    {
-      "id": "after-riffing-on-theme-hospital-two-point-museum-studio-is-t",
-      "titre": "After riffing on Theme Hospital, Two Point Museum studio is tipping a hat to Bullfrog's classic Theme Park in its next DLC",
-      "url": "https://www.eurogamer.net/two-point-museum-rides-and-relics-dlc-announced",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/two-point-museum-rides-and-relics-dlc-announced",
-          "titre": "After riffing on Theme Hospital, Two Point Museum studio is tipping a hat to Bullfrog's classic Theme Park in its next DLC"
         }
       ]
     },
@@ -485,7 +347,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.8,
       "chaleur": 6,
       "liens": [
         {
@@ -503,7 +365,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.8,
       "chaleur": 6,
       "liens": [
         {
@@ -521,7 +383,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 21.7,
       "chaleur": 6,
       "liens": [
         {
@@ -539,7 +401,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 27.2,
       "chaleur": 6,
       "liens": [
         {
@@ -557,31 +419,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 26.8,
+      "heures": 28.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/more-than-40-of-people-cancelling-xbox-game-pass-playstation-plus-and-nintendo-switch-online-subscriptions-blame-rising-costs",
           "titre": "More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online subscriptions blame rising costs"
-        }
-      ]
-    },
-    {
-      "id": "worker-run-studio-ko-op-confirms-layoffs",
-      "titre": "Worker-run studio KO_OP confirms layoffs",
-      "url": "https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 34.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs",
-          "titre": "Worker-run studio KO_OP confirms layoffs"
         }
       ]
     },
@@ -593,7 +437,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 5,
       "liens": [
         {
@@ -611,7 +455,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 19.8,
       "chaleur": 5,
       "liens": [
         {
@@ -629,7 +473,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.3,
+      "heures": 28.3,
       "chaleur": 5,
       "liens": [
         {
@@ -647,7 +491,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.3,
       "chaleur": 5,
       "liens": [
         {
@@ -665,7 +509,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.3,
       "chaleur": 5,
       "liens": [
         {
@@ -683,7 +527,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.3,
+      "heures": 30.3,
       "chaleur": 5,
       "liens": [
         {
@@ -701,7 +545,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.1,
+      "heures": 31.1,
       "chaleur": 5,
       "liens": [
         {
@@ -719,7 +563,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 30.6,
+      "heures": 32.6,
       "chaleur": 5,
       "liens": [
         {
@@ -737,13 +581,175 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 32.3,
+      "heures": 34.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/guides/nintendos-customer-appreciation-sale-discounts-games-amiibo-and-more-heres-everything-included-us",
           "titre": "Guide: Nintendo's 'Customer Appreciation Sale' Discounts Games, amiibo & More, Here's Everything Included (US)"
+        }
+      ]
+    },
+    {
+      "id": "marvel-s-wolverine-ps5-launch-marked-with-celebratory-art-fr",
+      "titre": "Marvel's Wolverine PS5 Launch Marked with Celebratory Art from Other PS Studios",
+      "url": "https://www.pushsquare.com/news/2026/09/marvels-wolverine-ps5-launch-marked-with-celebratory-art-from-other-ps-studios",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/marvels-wolverine-ps5-launch-marked-with-celebratory-art-from-other-ps-studios",
+          "titre": "Marvel's Wolverine PS5 Launch Marked with Celebratory Art from Other PS Studios"
+        }
+      ]
+    },
+    {
+      "id": "i-am-mark-zuckerberg",
+      "titre": "I am Mark Zuckerberg",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-am-mark-zuckerberg/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-am-mark-zuckerberg/",
+          "titre": "I am Mark Zuckerberg"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-is-not-untouchable-story-director-says-of-the",
+      "titre": "The Witcher 3 'is not untouchable,' story director says of the upcoming expansion and remaster: 'I still find some places that I think maybe nowadays, I would do it differently'",
+      "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3-is-not-untouchable-story-director-says-of-changes-in-the-upcoming-remaster-i-still-find-some-places-that-i-think-maybe-nowadays-i-would-do-it-differently/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3-is-not-untouchable-story-director-says-of-changes-in-the-upcoming-remaster-i-still-find-some-places-that-i-think-maybe-nowadays-i-would-do-it-differently/",
+          "titre": "The Witcher 3 'is not untouchable,' story director says of the upcoming expansion and remaster: 'I still find some places that I think maybe nowadays, I would do it differently'"
+        }
+      ]
+    },
+    {
+      "id": "skyblivion-s-release-is-getting-closer-as-the-massive-skyrim",
+      "titre": "Skyblivion's release is \"getting closer\" as the massive Skyrim mod's makers start recruiting for a big final marketing push",
+      "url": "https://www.rockpapershotgun.com/skyblivions-release-is-getting-closer-as-the-massive-skyrim-mods-makers-start-recruiting-for-a-big-final-marketing-push",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/skyblivions-release-is-getting-closer-as-the-massive-skyrim-mods-makers-start-recruiting-for-a-big-final-marketing-push",
+          "titre": "Skyblivion's release is \"getting closer\" as the massive Skyrim mod's makers start recruiting for a big final marketing push"
+        }
+      ]
+    },
+    {
+      "id": "think-fire-emblem-fortune-s-weave-s-hero-roster-is-big-it-wa",
+      "titre": "Think Fire Emblem: Fortune's Weave's Hero Roster Is Big? It Was Almost Even Bigger",
+      "url": "https://www.nintendolife.com/news/2026/09/think-fire-emblem-fortunes-weaves-hero-roster-is-big-it-was-almost-even-bigger",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/think-fire-emblem-fortunes-weaves-hero-roster-is-big-it-was-almost-even-bigger",
+          "titre": "Think Fire Emblem: Fortune's Weave's Hero Roster Is Big? It Was Almost Even Bigger"
+        }
+      ]
+    },
+    {
+      "id": "7-ps-plus-extra-game-removals-for-october-2026-confirmed",
+      "titre": "7 PS Plus Extra Game Removals for October 2026 Confirmed",
+      "url": "https://www.pushsquare.com/news/2026/09/7-ps-plus-extra-game-removals-for-october-2026-confirmed",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/7-ps-plus-extra-game-removals-for-october-2026-confirmed",
+          "titre": "7 PS Plus Extra Game Removals for October 2026 Confirmed"
+        }
+      ]
+    },
+    {
+      "id": "if-you-need-proof-the-witcher-3-s-new-expansion-is-in-safe-h",
+      "titre": "If you need proof The Witcher 3's new expansion is in safe hands, its lead writer literally wrote her thesis on Hearts of Stone: 'To probably prove to some of my professors that games are worthy'",
+      "url": "https://www.pcgamer.com/games/the-witcher/if-you-need-proof-the-witcher-3s-new-expansion-is-in-safe-hands-its-lead-writer-literally-wrote-her-thesis-on-hearts-of-stone-to-probably-prove-to-some-of-my-professors-that-games-are-worthy/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/if-you-need-proof-the-witcher-3s-new-expansion-is-in-safe-hands-its-lead-writer-literally-wrote-her-thesis-on-hearts-of-stone-to-probably-prove-to-some-of-my-professors-that-games-are-worthy/",
+          "titre": "If you need proof The Witcher 3's new expansion is in safe hands, its lead writer literally wrote her thesis on Hearts of Stone: 'To probably prove to some of my professors that games are worthy'"
+        }
+      ]
+    },
+    {
+      "id": "no-ai-you-are-not-human-microsoft-s-code-of-practice-for-art",
+      "titre": "No, AI, you are not human: Microsoft's code of practice for artificial intelligence actually gives me some hope for the industry",
+      "url": "https://www.pcgamer.com/software/ai/no-ai-you-are-not-human-microsofts-code-of-practice-for-artificial-intelligence-actually-gives-me-some-hope-for-the-industry/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/no-ai-you-are-not-human-microsofts-code-of-practice-for-artificial-intelligence-actually-gives-me-some-hope-for-the-industry/",
+          "titre": "No, AI, you are not human: Microsoft's code of practice for artificial intelligence actually gives me some hope for the industry"
+        }
+      ]
+    },
+    {
+      "id": "after-riffing-on-theme-hospital-two-point-museum-studio-is-t",
+      "titre": "After riffing on Theme Hospital, Two Point Museum studio is tipping a hat to Bullfrog's classic Theme Park in its next DLC",
+      "url": "https://www.eurogamer.net/two-point-museum-rides-and-relics-dlc-announced",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/two-point-museum-rides-and-relics-dlc-announced",
+          "titre": "After riffing on Theme Hospital, Two Point Museum studio is tipping a hat to Bullfrog's classic Theme Park in its next DLC"
         }
       ]
     },
@@ -755,7 +761,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -773,7 +779,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -791,7 +797,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -809,7 +815,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -827,7 +833,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -863,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 7.0,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 7.0,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +905,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +923,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +941,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +959,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +977,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +995,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +1013,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1025,7 +1031,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,31 +1049,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/josh-holloway-stars-in-first-episode-of-live-action-ace-combat-8-prequel-series",
           "titre": "Josh Holloway Stars in First Episode of Live Action Ace Combat 8 Prequel Series"
-        }
-      ]
-    },
-    {
-      "id": "blizzard-finally-told-players-where-the-big-sword-in-wow-wen",
-      "titre": "Blizzard finally told players where the big sword in WoW went after 8 years, and I'm just bummed out a reveal this cool was in an interview somewhere",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-finally-told-players-where-the-big-sword-in-wow-went-after-8-years-and-im-just-bummed-out-a-reveal-this-cool-was-in-an-interview-somewhere/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-finally-told-players-where-the-big-sword-in-wow-went-after-8-years-and-im-just-bummed-out-a-reveal-this-cool-was-in-an-interview-somewhere/",
-          "titre": "Blizzard finally told players where the big sword in WoW went after 8 years, and I'm just bummed out a reveal this cool was in an interview somewhere"
         }
       ]
     },
@@ -1079,7 +1067,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1097,7 +1085,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1115,7 +1103,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1133,7 +1121,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1151,13 +1139,31 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/dragonheir-silent-gods-marks-third-anniversary-with-a-hero-its-players-helped-create/",
           "titre": "Dragonheir: Silent Gods marks third anniversary with a hero its players helped create"
+        }
+      ]
+    },
+    {
+      "id": "get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-compl",
+      "titre": "Get Indie Cracker 'The Alters' on a PS5 Disc in Physical Complete Edition",
+      "url": "https://www.pushsquare.com/news/2026/09/get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-complete-edition",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 9.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-complete-edition",
+          "titre": "Get Indie Cracker 'The Alters' on a PS5 Disc in Physical Complete Edition"
         }
       ]
     }
