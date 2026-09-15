@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "15/09/2026 à 06h27",
+  "collecte": "15/09/2026 à 08h23",
   "seuil": 14,
   "sujets": [
     {
@@ -15,8 +15,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 11.5,
-      "chaleur": 18,
+      "heures": 13.4,
+      "chaleur": 17,
       "liens": [
         {
           "source": "PC Gamer",
@@ -55,7 +55,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 18.2,
+      "heures": 20.1,
       "chaleur": 14,
       "liens": [
         {
@@ -76,6 +76,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "lies-of-p-studio-neowiz-has-filed-a-trademark-for-wonders-of",
+      "titre": "Lies of P studio Neowiz has filed a trademark for Wonders of O, an apparent Wizard of Oz themed sequel",
+      "url": "https://www.videogameschronicle.com/news/lies-of-p-studio-neowiz-has-filed-a-trademark-for-wonders-of-o-an-apparent-wizard-of-oz-themed-sequel/",
+      "sources": [
+        "PC Gamer",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 1.9,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/lies-of-p-studio-neowiz-has-filed-a-trademark-for-wonders-of-o-an-apparent-wizard-of-oz-themed-sequel/",
+          "titre": "Lies of P studio Neowiz has filed a trademark for Wonders of O, an apparent Wizard of Oz themed sequel"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/lies-of-p-publisher-files-trademark-for-likely-sequel-wonders-of-o/",
+          "titre": "Lies of P publisher files trademark for likely sequel 'Wonders of O'"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/lies-of-p-sequel-name-potentially-outed-in-trademark-filing",
+          "titre": "Lies of P Sequel Name Potentially Outed in Trademark Filing"
+        }
+      ]
+    },
+    {
       "id": "ubisoft-delays-rayman-legends-retold-weeks-before-planned-re",
       "titre": "Ubisoft delays Rayman Legends Retold weeks before planned release",
       "url": "https://www.videogameschronicle.com/news/ubisoft-delays-rayman-legends-retold-weeks-before-planned-release/",
@@ -85,7 +115,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 5.1,
+      "heures": 7.0,
       "chaleur": 12,
       "liens": [
         {
@@ -106,6 +136,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "007-first-light-on-switch-2-delayed-until-march-2027",
+      "titre": "007 First Light On Switch 2 Delayed Until March 2027",
+      "url": "https://www.nintendolife.com/news/2026/09/007-first-light-on-switch-2-delayed-until-march-2027",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/007-first-light-on-switch-2-delayed-until-march-2027",
+          "titre": "007 First Light On Switch 2 Delayed Until March 2027"
+        }
+      ]
+    },
+    {
       "id": "gta-6-s-first-confirmed-actor-is-king-of-the-hill-s-stephen",
       "titre": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\"",
       "url": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root",
@@ -114,8 +162,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 11.4,
-      "chaleur": 10,
+      "heures": 13.3,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
@@ -130,84 +178,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "guide-marvel-s-wolverine-guide-100-collectibles-walkthrough",
-      "titre": "Guide: Marvel's Wolverine Guide: 100% Collectibles Walkthrough",
-      "url": "https://www.pushsquare.com/guides/marvels-wolverine-guide-100percent-collectibles-walkthrough",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 2.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/marvels-wolverine-guide-100percent-collectibles-walkthrough",
-          "titre": "Guide: Marvel's Wolverine Guide: 100% Collectibles Walkthrough"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-greased-trophy-guide-read-callistos-journal-in-her-vancouver-garage/",
-          "titre": "Marvel’s Wolverine Greased Trophy Guide: Read Callisto’s journal in her Vancouver garage"
-        }
-      ]
-    },
-    {
-      "id": "marathon-s-future-questioned-as-bungie-delays-big-update-and",
-      "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule",
-      "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
-      "sources": [
-        "PC Gamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 11.0,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
-          "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/bungie-delays-next-marathon-update-and-ends-strict-seasonal-schedule-as-it-goes-all-in-on-destiny-like-features/",
-          "titre": "Bungie delays next Marathon update and ends 'strict seasonal schedule' as it goes all-in on Destiny-like features"
-        }
-      ]
-    },
-    {
-      "id": "lies-of-p-publisher-files-trademark-for-likely-sequel-wonder",
-      "titre": "Lies of P publisher files trademark for likely sequel 'Wonders of O'",
-      "url": "https://www.pcgamer.com/games/action/lies-of-p-publisher-files-trademark-for-likely-sequel-wonders-of-o/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer",
-        "Push Square"
-      ],
-      "reprises": 3,
-      "heures": 12.7,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/lies-of-p-publisher-files-trademark-for-likely-sequel-wonders-of-o/",
-          "titre": "Lies of P publisher files trademark for likely sequel 'Wonders of O'"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/what-comes-after-lies-of-p-it-looks-like-it-might-be-wonders-of-o-according-to-a-new-trademark",
-          "titre": "What comes after Lies of P? It looks like it might be Wonders of O, according to a new trademark"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/lies-of-p-sequel-name-potentially-outed-in-trademark-filing",
-          "titre": "Lies of P Sequel Name Potentially Outed in Trademark Filing"
-        }
-      ]
-    },
-    {
       "id": "moss-developer-polyarc-has-shut-down",
       "titre": "Moss developer Polyarc has shut down",
       "url": "https://www.gamedeveloper.com/business/moss-developer-polyarc-has-shut-down",
@@ -216,7 +186,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 17.2,
+      "heures": 19.1,
       "chaleur": 9,
       "liens": [
         {
@@ -239,7 +209,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.5,
       "chaleur": 8,
       "liens": [
         {
@@ -250,20 +220,50 @@ const VEILLE = {
       ]
     },
     {
-      "id": "asha-sharma-has-been-personally-responding-to-xbox-users-sup",
-      "titre": "Asha Sharma ‘has been personally responding to Xbox users’ support tickets’",
-      "url": "https://www.videogameschronicle.com/news/asha-sharma-has-been-personally-responding-to-xbox-users-support-tickets/",
+      "id": "marathon-s-future-questioned-as-bungie-delays-big-update-and",
+      "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule",
+      "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
       "sources": [
-        "VGC"
+        "PC Gamer",
+        "Push Square"
       ],
-      "reprises": 1,
-      "heures": 3.9,
+      "reprises": 2,
+      "heures": 12.9,
       "chaleur": 8,
       "liens": [
         {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
+          "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/bungie-delays-next-marathon-update-and-ends-strict-seasonal-schedule-as-it-goes-all-in-on-destiny-like-features/",
+          "titre": "Bungie delays next Marathon update and ends 'strict seasonal schedule' as it goes all-in on Destiny-like features"
+        }
+      ]
+    },
+    {
+      "id": "guide-marvel-s-wolverine-guide-100-collectibles-walkthrough",
+      "titre": "Guide: Marvel's Wolverine Guide: 100% Collectibles Walkthrough",
+      "url": "https://www.pushsquare.com/guides/marvels-wolverine-guide-100percent-collectibles-walkthrough",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 4.4,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/marvels-wolverine-guide-100percent-collectibles-walkthrough",
+          "titre": "Guide: Marvel's Wolverine Guide: 100% Collectibles Walkthrough"
+        },
+        {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/asha-sharma-has-been-personally-responding-to-xbox-users-support-tickets/",
-          "titre": "Asha Sharma ‘has been personally responding to Xbox users’ support tickets’"
+          "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-greased-trophy-guide-read-callistos-journal-in-her-vancouver-garage/",
+          "titre": "Marvel’s Wolverine Greased Trophy Guide: Read Callisto’s journal in her Vancouver garage"
         }
       ]
     },
@@ -275,13 +275,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.8,
       "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-orders-now-live-us",
           "titre": "Zelda: Ocarina Of Time - Electric Ocarina Nintendo Store Pre-Orders Now Live (US)"
+        }
+      ]
+    },
+    {
+      "id": "curve-games-partners-with-wayfinder-studios-to-publish-onlin",
+      "titre": "Curve Games partners with Wayfinder Studios to publish online co-op RPG Wyldheart",
+      "url": "https://www.gamesindustry.biz/curve-games-partners-with-wayfinder-studios-to-publish-online-co-op-rpg-wyldheart",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/curve-games-partners-with-wayfinder-studios-to-publish-online-co-op-rpg-wyldheart",
+          "titre": "Curve Games partners with Wayfinder Studios to publish online co-op RPG Wyldheart"
         }
       ]
     },
@@ -293,7 +311,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -304,20 +322,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sega-and-netflix-announce-new-multi-title-collaboration",
-      "titre": "SEGA And Netflix Announce New \"Multi-Title Collaboration\"",
-      "url": "https://www.nintendolife.com/news/2026/09/sega-and-netflix-announce-new-multi-title-collaboration",
+      "id": "asha-sharma-has-been-personally-responding-to-xbox-users-sup",
+      "titre": "Asha Sharma ‘has been personally responding to Xbox users’ support tickets’",
+      "url": "https://www.videogameschronicle.com/news/asha-sharma-has-been-personally-responding-to-xbox-users-support-tickets/",
       "sources": [
-        "Nintendo Life"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 3.2,
+      "heures": 5.8,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/sega-and-netflix-announce-new-multi-title-collaboration",
-          "titre": "SEGA And Netflix Announce New \"Multi-Title Collaboration\""
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/asha-sharma-has-been-personally-responding-to-xbox-users-support-tickets/",
+          "titre": "Asha Sharma ‘has been personally responding to Xbox users’ support tickets’"
         }
       ]
     },
@@ -329,7 +347,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.6,
       "chaleur": 6,
       "liens": [
         {
@@ -348,7 +366,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 12.5,
+      "heures": 14.4,
       "chaleur": 6,
       "liens": [
         {
@@ -371,7 +389,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.8,
       "chaleur": 6,
       "liens": [
         {
@@ -389,7 +407,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 6,
       "liens": [
         {
@@ -408,7 +426,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 19.7,
+      "heures": 21.6,
       "chaleur": 6,
       "liens": [
         {
@@ -431,7 +449,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 22.2,
       "chaleur": 6,
       "liens": [
         {
@@ -449,7 +467,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.0,
+      "heures": 22.9,
       "chaleur": 6,
       "liens": [
         {
@@ -467,7 +485,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.4,
       "chaleur": 5,
       "liens": [
         {
@@ -485,7 +503,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.5,
       "chaleur": 5,
       "liens": [
         {
@@ -503,7 +521,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 5,
       "liens": [
         {
@@ -521,7 +539,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 14.9,
       "chaleur": 5,
       "liens": [
         {
@@ -539,7 +557,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.2,
       "chaleur": 5,
       "liens": [
         {
@@ -557,7 +575,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -575,7 +593,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -593,7 +611,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.4,
       "chaleur": 5,
       "liens": [
         {
@@ -611,7 +629,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 16.9,
       "chaleur": 5,
       "liens": [
         {
@@ -629,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 17.1,
       "chaleur": 5,
       "liens": [
         {
@@ -647,7 +665,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.7,
       "chaleur": 5,
       "liens": [
         {
@@ -665,31 +683,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 16.7,
+      "heures": 18.7,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/playstation-allegedly-had-concerns-over-budget-potential-profitability-and-exclusivity-over-kojima-productions-physint",
           "titre": "PlayStation allegedly had \"concerns over budget, potential profitability, and exclusivity\" over Kojima Productions' Physint"
-        }
-      ]
-    },
-    {
-      "id": "the-other-xbox-360-exclusive-jrpg-from-the-creator-of-final",
-      "titre": "The other Xbox 360 exclusive JRPG from the creator of Final Fantasy now has a PC port",
-      "url": "https://www.videogameschronicle.com/news/the-other-xbox-360-exclusive-jrpg-from-the-creator-of-final-fantasy-now-has-a-pc-port/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 18.2,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-other-xbox-360-exclusive-jrpg-from-the-creator-of-final-fantasy-now-has-a-pc-port/",
-          "titre": "The other Xbox 360 exclusive JRPG from the creator of Final Fantasy now has a PC port"
         }
       ]
     },
@@ -701,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.5,
+      "heures": 20.4,
       "chaleur": 5,
       "liens": [
         {
@@ -719,13 +719,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.8,
       "chaleur": 5,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/roblox-plan-to-grow-their-absurd-gaming-empire-even-further-by-letting-devs-release-games-as-standalone-apps-potentially-via-steam-epic-and-gog",
           "titre": "Roblox plan to grow their absurd gaming empire even further by letting devs release games as \"standalone apps\", potentially via Steam, Epic, and GOG"
+        }
+      ]
+    },
+    {
+      "id": "sega-and-netflix-announce-new-multi-title-collaboration",
+      "titre": "SEGA And Netflix Announce New \"Multi-Title Collaboration\"",
+      "url": "https://www.nintendolife.com/news/2026/09/sega-and-netflix-announce-new-multi-title-collaboration",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/sega-and-netflix-announce-new-multi-title-collaboration",
+          "titre": "SEGA And Netflix Announce New \"Multi-Title Collaboration\""
         }
       ]
     },
@@ -737,7 +755,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -755,7 +773,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -773,7 +791,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -791,7 +809,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.7,
       "chaleur": 4,
       "liens": [
         {
@@ -809,7 +827,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -827,7 +845,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +863,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
@@ -863,8 +881,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -881,8 +899,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -899,8 +917,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -917,8 +935,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -935,8 +953,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -953,7 +971,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -971,7 +989,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 14.6,
       "chaleur": 3,
       "liens": [
         {
@@ -989,7 +1007,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +1025,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,7 +1043,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 15.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,7 +1061,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 16.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,7 +1079,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1079,7 +1097,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1097,13 +1115,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.8,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-become-a-magic-girl-in-kernel-hearts-a-dog-commando-in-fright-train-or-a-capital-class-warship-in-sublight",
           "titre": "This week in PC games: become a magic girl in Kernel Hearts, a dog commando in Fright Train, or a capital class warship in Sublight"
+        }
+      ]
+    },
+    {
+      "id": "what-comes-after-lies-of-p-it-looks-like-it-might-be-wonders",
+      "titre": "What comes after Lies of P? It looks like it might be Wonders of O, according to a new trademark",
+      "url": "https://www.eurogamer.net/what-comes-after-lies-of-p-it-looks-like-it-might-be-wonders-of-o-according-to-a-new-trademark",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 17.8,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/what-comes-after-lies-of-p-it-looks-like-it-might-be-wonders-of-o-according-to-a-new-trademark",
+          "titre": "What comes after Lies of P? It looks like it might be Wonders of O, according to a new trademark"
         }
       ]
     },
@@ -1115,7 +1151,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1133,49 +1169,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/the-blizzard-x-cd-projekt-red-collaboration-continues-with-cyberpunk-outfits-in-overwatch/",
           "titre": "The Blizzard X CD Projekt Red collaboration continues with Cyberpunk outfits in Overwatch"
-        }
-      ]
-    },
-    {
-      "id": "roblox-creators-will-soon-be-able-to-publish-games-on-multip",
-      "titre": "Roblox creators will soon be able to publish games on multiple platforms as standalone apps",
-      "url": "https://www.gamesindustry.biz/roblox-creators-will-soon-be-able-to-publish-games-on-multiple-platforms-as-standalone-apps",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 17.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/roblox-creators-will-soon-be-able-to-publish-games-on-multiple-platforms-as-standalone-apps",
-          "titre": "Roblox creators will soon be able to publish games on multiple platforms as standalone apps"
-        }
-      ]
-    },
-    {
-      "id": "in-a-big-change-for-blizzard-it-sounds-like-the-new-starcraf",
-      "titre": "In a big change for Blizzard, it sounds like the new StarCraft shooter won't be a live-service game",
-      "url": "https://www.eurogamer.net/starcraft-shooter-2030-details-not-live-service",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 17.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/starcraft-shooter-2030-details-not-live-service",
-          "titre": "In a big change for Blizzard, it sounds like the new StarCraft shooter won't be a live-service game"
         }
       ]
     }
