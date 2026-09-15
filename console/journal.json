@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "maj": "2026-09-15T22:38:05.265Z",
+  "maj": "2026-09-15T22:38:13.220Z",
   "commandes": [
     {
       "id": "mu2xpp9ejd1q3",
@@ -167,6 +167,9 @@
     },
     "blizzcon-2026-annonces": {
       "decision": "oui"
+    },
+    "marathon-symbiosis": {
+      "decision": "non"
     }
   },
   "images": {
