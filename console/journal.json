@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "maj": "2026-09-15T22:37:58.344Z",
+  "maj": "2026-09-15T22:38:03.020Z",
   "commandes": [
     {
       "id": "mu2xpp9ejd1q3",
@@ -160,6 +160,9 @@
       "decision": "oui"
     },
     "level5-ia-aveu": {
+      "decision": "oui"
+    },
+    "abonnements-cout-resiliations": {
       "decision": "oui"
     }
   },
