@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "maj": "2026-09-15T22:37:45.413Z",
+  "maj": "2026-09-15T22:37:55.174Z",
   "commandes": [
     {
       "id": "mu2xpp9ejd1q3",
@@ -154,6 +154,9 @@
   "idees": [],
   "avis": {
     "steam-frame-ram": {
+      "decision": "oui"
+    },
+    "gta6-stephen-root": {
       "decision": "oui"
     }
   },
