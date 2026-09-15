@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "15/09/2026 à 02h22",
+  "collecte": "15/09/2026 à 04h22",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 18,
       "liens": [
         {
@@ -55,7 +55,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 14,
       "liens": [
         {
@@ -85,7 +85,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 14.1,
+      "heures": 16.1,
       "chaleur": 14,
       "liens": [
         {
@@ -106,36 +106,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "moss-developer-polyarc-has-shut-down",
-      "titre": "Moss developer Polyarc has shut down",
-      "url": "https://www.gamedeveloper.com/business/moss-developer-polyarc-has-shut-down",
-      "sources": [
-        "Game Developer",
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 13.1,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/moss-developer-polyarc-has-shut-down",
-          "titre": "Moss developer Polyarc has shut down"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/moss-developer-polyarc-games-announces-closure",
-          "titre": "Moss developer Polyarc Games announces closure"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/moss-developer-polyarc-share-that-theyre-shutting-down-just-two-months-after-releasing-a-vr-less-port-of-the-beloved-mousey-adventure-games",
-          "titre": "Moss developer Polyarc share that they're shutting down just two months after releasing a VR-less port of the beloved mousey adventure games"
-        }
-      ]
-    },
-    {
       "id": "gta-6-s-first-confirmed-actor-is-king-of-the-hill-s-stephen",
       "titre": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\"",
       "url": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root",
@@ -144,7 +114,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 7.3,
+      "heures": 9.3,
       "chaleur": 10,
       "liens": [
         {
@@ -169,7 +139,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 8.6,
+      "heures": 10.6,
       "chaleur": 10,
       "liens": [
         {
@@ -198,7 +168,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 8.8,
+      "heures": 10.8,
       "chaleur": 10,
       "liens": [
         {
@@ -214,6 +184,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "guide-marvel-s-wolverine-guide-100-collectibles-walkthrough",
+      "titre": "Guide: Marvel's Wolverine Guide: 100% Collectibles Walkthrough",
+      "url": "https://www.pushsquare.com/guides/marvels-wolverine-guide-100percent-collectibles-walkthrough",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/marvels-wolverine-guide-100percent-collectibles-walkthrough",
+          "titre": "Guide: Marvel's Wolverine Guide: 100% Collectibles Walkthrough"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-greased-trophy-guide-read-callistos-journal-in-her-vancouver-garage/",
+          "titre": "Marvel’s Wolverine Greased Trophy Guide: Read Callisto’s journal in her Vancouver garage"
+        }
+      ]
+    },
+    {
       "id": "zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-or",
       "titre": "Zelda: Ocarina Of Time - Electric Ocarina Nintendo Store Pre-Orders Now Live (US)",
       "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-orders-now-live-us",
@@ -221,7 +215,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.8,
       "chaleur": 9,
       "liens": [
         {
@@ -240,7 +234,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 9,
       "liens": [
         {
@@ -256,56 +250,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "a-starcraft-open-world-shooter-that-s-deadwood-in-space-diab",
-      "titre": "A StarCraft open-world shooter that's \"Deadwood in space\", Diablo 5, and a new classic-ish World of Warcraft branch out this year make up Blizzard of reveals",
-      "url": "https://www.rockpapershotgun.com/a-starcraft-open-world-shooter-thats-deadwood-in-space-diablo-5-and-a-new-classic-ish-world-of-warcraft-branch-out-this-year-make-up-blizzard-of-reveals",
+      "id": "moss-developer-polyarc-has-shut-down",
+      "titre": "Moss developer Polyarc has shut down",
+      "url": "https://www.gamedeveloper.com/business/moss-developer-polyarc-has-shut-down",
       "sources": [
-        "GamesIndustry.biz",
-        "Push Square",
-        "Rock Paper Shotgun"
+        "Game Developer",
+        "GamesIndustry.biz"
       ],
-      "reprises": 3,
-      "heures": 15.6,
+      "reprises": 2,
+      "heures": 15.1,
       "chaleur": 9,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/a-starcraft-open-world-shooter-thats-deadwood-in-space-diablo-5-and-a-new-classic-ish-world-of-warcraft-branch-out-this-year-make-up-blizzard-of-reveals",
-          "titre": "A StarCraft open-world shooter that's \"Deadwood in space\", Diablo 5, and a new classic-ish World of Warcraft branch out this year make up Blizzard of reveals"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/moss-developer-polyarc-has-shut-down",
+          "titre": "Moss developer Polyarc has shut down"
         },
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/new-starcraft-title-to-launch-in-2030-will-be-an-open-world-fps",
-          "titre": "New StarCraft title to launch in 2030, will be an open-world FPS"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/diablo-5-and-a-new-starcraft-game-revealed-but-will-they-be-on-ps6",
-          "titre": "Diablo 5 and a New Starcraft Game Revealed, But Will They Be on PS6?"
+          "url": "https://www.gamesindustry.biz/moss-developer-polyarc-games-announces-closure",
+          "titre": "Moss developer Polyarc Games announces closure"
         }
       ]
     },
     {
-      "id": "level-5-ceo-admits-using-generative-ai-in-recent-showcase",
-      "titre": "Level-5 CEO admits using generative AI in recent showcase",
-      "url": "https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase",
+      "id": "asha-sharma-has-been-personally-responding-to-xbox-users-sup",
+      "titre": "Asha Sharma ‘has been personally responding to Xbox users’ support tickets’",
+      "url": "https://www.videogameschronicle.com/news/asha-sharma-has-been-personally-responding-to-xbox-users-support-tickets/",
       "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz"
+        "VGC"
       ],
-      "reprises": 2,
-      "heures": 6.2,
-      "chaleur": 7,
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase",
-          "titre": "Level-5 CEO admits using generative AI in recent showcase"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/level-5-ceo-apologises-generative-ai-professor-layton-yo-kai-watch",
-          "titre": "Professor Layton studio Level-5's CEO admits using AI to make its digital showcase \"more spectacular\""
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/asha-sharma-has-been-personally-responding-to-xbox-users-support-tickets/",
+          "titre": "Asha Sharma ‘has been personally responding to Xbox users’ support tickets’"
         }
       ]
     },
@@ -318,7 +300,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 7,
       "liens": [
         {
@@ -341,13 +323,31 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.9,
       "chaleur": 7,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/more-than-40-of-people-cancelling-xbox-game-pass-playstation-plus-and-nintendo-switch-online-subscriptions-blame-rising-costs",
           "titre": "More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online subscriptions blame rising costs"
+        }
+      ]
+    },
+    {
+      "id": "sega-and-netflix-announce-new-multi-title-collaboration",
+      "titre": "SEGA And Netflix Announce New \"Multi-Title Collaboration\"",
+      "url": "https://www.nintendolife.com/news/2026/09/sega-and-netflix-announce-new-multi-title-collaboration",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/sega-and-netflix-announce-new-multi-title-collaboration",
+          "titre": "SEGA And Netflix Announce New \"Multi-Title Collaboration\""
         }
       ]
     },
@@ -359,7 +359,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -377,7 +377,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -395,31 +395,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-voice-actors-officially-revealed",
           "titre": "Fire Emblem: Fortune's Weave Voice Actors Officially Revealed"
-        }
-      ]
-    },
-    {
-      "id": "marvel-s-wolverine-greased-trophy-guide-read-callisto-s-jour",
-      "titre": "Marvel’s Wolverine Greased Trophy Guide: Read Callisto’s journal in her Vancouver garage",
-      "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-greased-trophy-guide-read-callistos-journal-in-her-vancouver-garage/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 0.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-greased-trophy-guide-read-callistos-journal-in-her-vancouver-garage/",
-          "titre": "Marvel’s Wolverine Greased Trophy Guide: Read Callisto’s journal in her Vancouver garage"
         }
       ]
     },
@@ -431,13 +413,31 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/fans-deserve-this-sega-is-turning-more-of-its-games-into-movies-with-netflix/",
           "titre": "‘Fans deserve this’: Sega is turning more of its games into movies with Netflix"
+        }
+      ]
+    },
+    {
+      "id": "marvel-s-wolverine-poseidon-s-kiss-trophy-guide-activate-the",
+      "titre": "Marvel’s Wolverine Poseidon’s Kiss Trophy Guide: Activate the kissing toilet in the Tokyo bar bathroom",
+      "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-poseidons-kiss-trophy-guide-activate-the-kissing-toilet-in-the-tokyo-bar-bathroom/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 2.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-poseidons-kiss-trophy-guide-activate-the-kissing-toilet-in-the-tokyo-bar-bathroom/",
+          "titre": "Marvel’s Wolverine Poseidon’s Kiss Trophy Guide: Activate the kissing toilet in the Tokyo bar bathroom"
         }
       ]
     },
@@ -449,7 +449,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -467,7 +467,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.6,
       "chaleur": 6,
       "liens": [
         {
@@ -485,7 +485,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 6,
       "liens": [
         {
@@ -503,7 +503,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.5,
       "chaleur": 6,
       "liens": [
         {
@@ -521,7 +521,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 10.8,
       "chaleur": 6,
       "liens": [
         {
@@ -539,7 +539,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.9,
       "chaleur": 6,
       "liens": [
         {
@@ -557,7 +557,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.2,
       "chaleur": 6,
       "liens": [
         {
@@ -575,7 +575,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
@@ -593,7 +593,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
@@ -604,74 +604,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "blizzard-say-battle-net-isn-t-looking-to-fight-steam-and-epi",
-      "titre": "Blizzard say Battle.net isn't looking to fight Steam and Epic for supermassive storefront supremacy, despite recently nabbing The Witcher 3 and Cyberpunk 2077",
-      "url": "https://www.rockpapershotgun.com/blizzard-say-battlenet-isnt-looking-to-fight-steam-and-epic-for-supermassive-storefront-supremacy-despite-recently-nabbing-the-witcher-3-and-cyberpunk-2077",
+      "id": "a-starcraft-open-world-shooter-that-s-deadwood-in-space-diab",
+      "titre": "A StarCraft open-world shooter that's \"Deadwood in space\", Diablo 5, and a new classic-ish World of Warcraft branch out this year make up Blizzard of reveals",
+      "url": "https://www.rockpapershotgun.com/a-starcraft-open-world-shooter-thats-deadwood-in-space-diablo-5-and-a-new-classic-ish-world-of-warcraft-branch-out-this-year-make-up-blizzard-of-reveals",
       "sources": [
+        "GamesIndustry.biz",
         "Rock Paper Shotgun"
       ],
-      "reprises": 1,
-      "heures": 10.4,
+      "reprises": 2,
+      "heures": 17.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/blizzard-say-battlenet-isnt-looking-to-fight-steam-and-epic-for-supermassive-storefront-supremacy-despite-recently-nabbing-the-witcher-3-and-cyberpunk-2077",
-          "titre": "Blizzard say Battle.net isn't looking to fight Steam and Epic for supermassive storefront supremacy, despite recently nabbing The Witcher 3 and Cyberpunk 2077"
-        }
-      ]
-    },
-    {
-      "id": "as-a-gundam-nut-i-m-happy-to-report-rogue-orbit-looks-fantas",
-      "titre": "As a Gundam Nut, I'm Happy to Report Rogue Orbit Looks Fantastic in New PS5 Gameplay Footage",
-      "url": "https://www.pushsquare.com/news/2026/09/as-a-gundam-nut-im-happy-to-report-rogue-orbit-looks-fantastic-in-new-ps5-gameplay-footage",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 6,
-      "liens": [
+          "url": "https://www.rockpapershotgun.com/a-starcraft-open-world-shooter-thats-deadwood-in-space-diablo-5-and-a-new-classic-ish-world-of-warcraft-branch-out-this-year-make-up-blizzard-of-reveals",
+          "titre": "A StarCraft open-world shooter that's \"Deadwood in space\", Diablo 5, and a new classic-ish World of Warcraft branch out this year make up Blizzard of reveals"
+        },
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/as-a-gundam-nut-im-happy-to-report-rogue-orbit-looks-fantastic-in-new-ps5-gameplay-footage",
-          "titre": "As a Gundam Nut, I'm Happy to Report Rogue Orbit Looks Fantastic in New PS5 Gameplay Footage"
-        }
-      ]
-    },
-    {
-      "id": "hori-has-announced-a-modular-arcade-stick-for-switch-2-and-i",
-      "titre": "Hori Has Announced A Modular Arcade Stick For Switch 2, And It Looks Awesome",
-      "url": "https://www.nintendolife.com/news/2026/09/hori-has-announced-a-modular-arcade-stick-for-switch-2-and-it-looks-awesome",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/hori-has-announced-a-modular-arcade-stick-for-switch-2-and-it-looks-awesome",
-          "titre": "Hori Has Announced A Modular Arcade Stick For Switch 2, And It Looks Awesome"
-        }
-      ]
-    },
-    {
-      "id": "valve-is-under-the-impression-that-this-game-is-way-sexier",
-      "titre": "\"Valve is under the impression that this game is way sexier\": Nighthawks devs claim vampire RPG has erroneously been slapped with Steam adult content label",
-      "url": "https://www.rockpapershotgun.com/valve-is-under-the-impression-that-this-game-is-way-sexier-nighthawks-devs-claim-vampire-rpg-has-erroneously-been-slapped-with-steam-adult-content-label",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valve-is-under-the-impression-that-this-game-is-way-sexier-nighthawks-devs-claim-vampire-rpg-has-erroneously-been-slapped-with-steam-adult-content-label",
-          "titre": "\"Valve is under the impression that this game is way sexier\": Nighthawks devs claim vampire RPG has erroneously been slapped with Steam adult content label"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/new-starcraft-title-to-launch-in-2030-will-be-an-open-world-fps",
+          "titre": "New StarCraft title to launch in 2030, will be an open-world FPS"
         }
       ]
     },
@@ -683,7 +635,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.2,
       "chaleur": 6,
       "liens": [
         {
@@ -701,13 +653,85 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/nintendo-updates-zelda-timeline-seemingly-confirming-a-fan-theory",
           "titre": "Nintendo Updates Zelda Timeline, Seemingly Confirming A Fan Theory"
+        }
+      ]
+    },
+    {
+      "id": "blizzard-say-battle-net-isn-t-looking-to-fight-steam-and-epi",
+      "titre": "Blizzard say Battle.net isn't looking to fight Steam and Epic for supermassive storefront supremacy, despite recently nabbing The Witcher 3 and Cyberpunk 2077",
+      "url": "https://www.rockpapershotgun.com/blizzard-say-battlenet-isnt-looking-to-fight-steam-and-epic-for-supermassive-storefront-supremacy-despite-recently-nabbing-the-witcher-3-and-cyberpunk-2077",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 12.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/blizzard-say-battlenet-isnt-looking-to-fight-steam-and-epic-for-supermassive-storefront-supremacy-despite-recently-nabbing-the-witcher-3-and-cyberpunk-2077",
+          "titre": "Blizzard say Battle.net isn't looking to fight Steam and Epic for supermassive storefront supremacy, despite recently nabbing The Witcher 3 and Cyberpunk 2077"
+        }
+      ]
+    },
+    {
+      "id": "as-a-gundam-nut-i-m-happy-to-report-rogue-orbit-looks-fantas",
+      "titre": "As a Gundam Nut, I'm Happy to Report Rogue Orbit Looks Fantastic in New PS5 Gameplay Footage",
+      "url": "https://www.pushsquare.com/news/2026/09/as-a-gundam-nut-im-happy-to-report-rogue-orbit-looks-fantastic-in-new-ps5-gameplay-footage",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 12.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/as-a-gundam-nut-im-happy-to-report-rogue-orbit-looks-fantastic-in-new-ps5-gameplay-footage",
+          "titre": "As a Gundam Nut, I'm Happy to Report Rogue Orbit Looks Fantastic in New PS5 Gameplay Footage"
+        }
+      ]
+    },
+    {
+      "id": "hori-has-announced-a-modular-arcade-stick-for-switch-2-and-i",
+      "titre": "Hori Has Announced A Modular Arcade Stick For Switch 2, And It Looks Awesome",
+      "url": "https://www.nintendolife.com/news/2026/09/hori-has-announced-a-modular-arcade-stick-for-switch-2-and-it-looks-awesome",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.1,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/hori-has-announced-a-modular-arcade-stick-for-switch-2-and-it-looks-awesome",
+          "titre": "Hori Has Announced A Modular Arcade Stick For Switch 2, And It Looks Awesome"
+        }
+      ]
+    },
+    {
+      "id": "valve-is-under-the-impression-that-this-game-is-way-sexier",
+      "titre": "\"Valve is under the impression that this game is way sexier\": Nighthawks devs claim vampire RPG has erroneously been slapped with Steam adult content label",
+      "url": "https://www.rockpapershotgun.com/valve-is-under-the-impression-that-this-game-is-way-sexier-nighthawks-devs-claim-vampire-rpg-has-erroneously-been-slapped-with-steam-adult-content-label",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 13.7,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/valve-is-under-the-impression-that-this-game-is-way-sexier-nighthawks-devs-claim-vampire-rpg-has-erroneously-been-slapped-with-steam-adult-content-label",
+          "titre": "\"Valve is under the impression that this game is way sexier\": Nighthawks devs claim vampire RPG has erroneously been slapped with Steam adult content label"
         }
       ]
     },
@@ -719,7 +743,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.6,
       "chaleur": 5,
       "liens": [
         {
@@ -737,7 +761,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 16.1,
       "chaleur": 5,
       "liens": [
         {
@@ -755,7 +779,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 5,
       "liens": [
         {
@@ -773,49 +797,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.8,
+      "heures": 16.8,
       "chaleur": 5,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/roblox-plan-to-grow-their-absurd-gaming-empire-even-further-by-letting-devs-release-games-as-standalone-apps-potentially-via-steam-epic-and-gog",
           "titre": "Roblox plan to grow their absurd gaming empire even further by letting devs release games as \"standalone apps\", potentially via Steam, Epic, and GOG"
-        }
-      ]
-    },
-    {
-      "id": "melty-blood-twi-lumina-announced-for-switch-1-2-out-2027",
-      "titre": "Melty Blood: ﻿Twi-Lumina Announced For Switch 1 & 2, Out 2027",
-      "url": "https://www.nintendolife.com/news/2026/09/melty-blood-twi-lumina-announced-for-switch-1-and-2-out-2027",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 34.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/melty-blood-twi-lumina-announced-for-switch-1-and-2-out-2027",
-          "titre": "Melty Blood: ﻿Twi-Lumina Announced For Switch 1 & 2, Out 2027"
-        }
-      ]
-    },
-    {
-      "id": "feature-what-i-learned-after-working-on-over-1-000-switch-2",
-      "titre": "Feature: What I Learned After Working On Over 1,000 Switch 2 Joy-Con",
-      "url": "https://www.nintendolife.com/features/what-i-learned-after-working-on-over-1000-switch-2-joy-con",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 35.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/what-i-learned-after-working-on-over-1000-switch-2-joy-con",
-          "titre": "Feature: What I Learned After Working On Over 1,000 Switch 2 Joy-Con"
         }
       ]
     },
@@ -827,7 +815,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.7,
       "chaleur": 4,
       "liens": [
         {
@@ -845,13 +833,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/fps/wardogs-players-are-actively-avoiding-one-team-in-particular-they-are-literally-the-dumbest-people-on-the-planet/",
           "titre": "Wardogs players are actively avoiding one team in particular: 'They are literally the dumbest people on the planet'"
+        }
+      ]
+    },
+    {
+      "id": "level-5-ceo-admits-using-generative-ai-in-recent-showcase",
+      "titre": "Level-5 CEO admits using generative AI in recent showcase",
+      "url": "https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 8.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase",
+          "titre": "Level-5 CEO admits using generative AI in recent showcase"
         }
       ]
     },
@@ -863,7 +869,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +887,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +905,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +923,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +941,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +959,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +977,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +995,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,8 +1013,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 4,
+      "heures": 12.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1025,8 +1031,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1043,8 +1049,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1061,8 +1067,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1079,7 +1085,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1097,7 +1103,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1115,7 +1121,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1133,7 +1139,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1151,7 +1157,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1169,7 +1175,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1178,27 +1184,7 @@ const VEILLE = {
           "titre": "Mini Review: Mewgenics (PS5) - The Best Roguelike Since The Binding of Isaac"
         }
       ]
-    },
-    {
-      "id": "diablo-4-was-basically-an-mmo-will-diablo-5-follow-suit-bliz",
-      "titre": "Diablo 4 was basically an MMO, will Diablo 5 follow suit? Blizzard is being coy for now",
-      "url": "https://www.eurogamer.net/diablo-5-multiplayer-co-op-diablo-4-comparisons",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 16.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/diablo-5-multiplayer-co-op-diablo-4-comparisons",
-          "titre": "Diablo 4 was basically an MMO, will Diablo 5 follow suit? Blizzard is being coy for now"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "Ubisoft delays Rayman Legends Retold weeks before planned release"
-  ]
+  "alertes": []
 };
