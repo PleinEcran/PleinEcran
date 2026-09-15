@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "maj": "2026-09-15T22:37:55.174Z",
+  "maj": "2026-09-15T22:37:58.344Z",
   "commandes": [
     {
       "id": "mu2xpp9ejd1q3",
@@ -157,6 +157,9 @@
       "decision": "oui"
     },
     "gta6-stephen-root": {
+      "decision": "oui"
+    },
+    "level5-ia-aveu": {
       "decision": "oui"
     }
   },
