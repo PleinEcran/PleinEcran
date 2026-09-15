@@ -108,6 +108,15 @@ indéfiniment. Toute session qui touche à la coquille (`index.html`,
 `brouillons.js`) doit monter le numéro de version dans `CACHE` — c'est ce qui
 force le renouvellement.
 
+Second piège, plus sournois : GitHub Pages sert les `.js` avec
+`Cache-Control: max-age=600`. Un simple `fetch(e.request)` dans le
+gestionnaire « réseau d'abord » peut donc renvoyer une réponse du cache HTTP
+du navigateur — pas du réseau — pendant les 10 minutes qui suivent un premier
+chargement, sans que rien ne le signale. `sw.js` doit passer
+`{ cache: "no-store" }` à ce `fetch()` pour vraiment contourner ce cache ;
+sans ce détail, un article ou une image tout juste poussés peuvent rester
+invisibles dans la console jusqu'à 10 minutes après le push.
+
 ## Travaux en attente
 
 - [ ] Ajouter mentions légales et politique de données, obligatoires pour un
