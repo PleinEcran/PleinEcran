@@ -1,22 +1,28 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "15/09/2026 à 14h21",
+  "collecte": "15/09/2026 à 16h21",
   "seuil": 14,
   "sujets": [
     {
-      "id": "steam-deck-2-plans-aren-t-affected-by-ongoing-component-cris",
-      "titre": "Steam Deck 2 plans aren't affected by ongoing component crisis, Valve maintains, as Steam Frame arrives later and more expensive than expected",
-      "url": "https://www.eurogamer.net/valve-steam-deck-2-plans-component-crisis",
+      "id": "steam-deck-2-plans-still-on-track-despite-ram-crisis-and-hig",
+      "titre": "Steam Deck 2 plans still on track despite RAM crisis and higher prices",
+      "url": "https://www.videogameschronicle.com/news/steam-deck-2-plans-still-on-track-despite-ram-crisis-and-higher-prices/",
       "sources": [
         "Eurogamer",
         "Game Developer",
         "GamesIndustry.biz",
-        "Rock Paper Shotgun"
+        "Rock Paper Shotgun",
+        "VGC"
       ],
-      "reprises": 4,
-      "heures": 1.0,
-      "chaleur": 17,
+      "reprises": 5,
+      "heures": 1.1,
+      "chaleur": 20,
       "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/steam-deck-2-plans-still-on-track-despite-ram-crisis-and-higher-prices/",
+          "titre": "Steam Deck 2 plans still on track despite RAM crisis and higher prices"
+        },
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/valve-steam-deck-2-plans-component-crisis",
@@ -40,18 +46,47 @@ const VEILLE = {
       ]
     },
     {
+      "id": "marathon-s-next-major-update-runs-a-few-months-further-away",
+      "titre": "Marathon's next major update runs a few months further away, permanent PvE in hand, as Bungie ditch their \"strict seasonal schedule\"",
+      "url": "https://www.rockpapershotgun.com/marathons-next-major-update-runs-a-few-months-further-away-permanent-pve-in-hand-as-bungie-ditch-their-strict-seasonal-schedule",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 0.9,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/marathons-next-major-update-runs-a-few-months-further-away-permanent-pve-in-hand-as-bungie-ditch-their-strict-seasonal-schedule",
+          "titre": "Marathon's next major update runs a few months further away, permanent PvE in hand, as Bungie ditch their \"strict seasonal schedule\""
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
+          "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/marathon-pve-mode-delay-bungie-major-update",
+          "titre": "Marathon's permanent PvE mode and next major update delayed to December days before launch, and Bungie's \"moving away from a strict season schedule\""
+        }
+      ]
+    },
+    {
       "id": "lies-of-p-s-sequel-is-a-wizard-of-oz-homage-called-wonders-o",
       "titre": "Lies of P's sequel is a Wizard of Oz homage called Wonders of O, going by a Neowiz trademark, and probably not a videogame based on a famous work of French erotica",
       "url": "https://www.rockpapershotgun.com/lies-of-ps-sequel-is-a-wizard-of-oz-homage-called-wonders-of-o-going-by-a-neowiz-trademark-and-probably-not-a-videogame-based-on-a-famous-work-of-french-erotica",
       "sources": [
         "Nintendo Life",
-        "PC Gamer",
         "Rock Paper Shotgun",
         "VGC"
       ],
-      "reprises": 4,
-      "heures": 0.4,
-      "chaleur": 15,
+      "reprises": 3,
+      "heures": 2.4,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -67,47 +102,6 @@ const VEILLE = {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/lies-of-p-studio-neowiz-has-filed-a-trademark-for-wonders-of-o-an-apparent-wizard-of-oz-themed-sequel/",
           "titre": "Lies of P studio Neowiz has filed a trademark for Wonders of O, an apparent Wizard of Oz themed sequel"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/lies-of-p-publisher-files-trademark-for-likely-sequel-wonders-of-o/",
-          "titre": "Lies of P publisher files trademark for likely sequel 'Wonders of O'"
-        }
-      ]
-    },
-    {
-      "id": "sega-and-netflix-announce-partnership-to-develop-crazy-taxi",
-      "titre": "Sega and Netflix announce partnership to develop Crazy Taxi, Sonic, and Stranger Than Heaven adaptations",
-      "url": "https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz",
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 4,
-      "heures": 3.6,
-      "chaleur": 15,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations",
-          "titre": "Sega and Netflix announce partnership to develop Crazy Taxi, Sonic, and Stranger Than Heaven adaptations"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/sega-and-netflix-announce-new-multi-title-collaboration",
-          "titre": "SEGA And Netflix Announce New \"Multi-Title Collaboration\""
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/segas-going-nuts-with-crazy-taxi-movie-another-sonic-tv-series-and-more",
-          "titre": "SEGA's Going Nuts with Crazy Taxi Movie, Another Sonic TV Series, and More"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sega-netflix-sonic-tv-crazy-taxi-stranger-than-heaven-film",
-          "titre": "Sega and Netflix partner for a \"cute yet cool\" Sonic TV Show, a Crazy Taxi film, and a \"badass action\" Stranger Than Heaven adaptation"
         }
       ]
     },
@@ -121,8 +115,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 3.0,
-      "chaleur": 14,
+      "heures": 5.0,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Eurogamer",
@@ -150,7 +144,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 4.7,
+      "heures": 6.7,
       "chaleur": 11,
       "liens": [
         {
@@ -166,26 +160,50 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-s-first-confirmed-actor-is-king-of-the-hill-s-stephen",
-      "titre": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\"",
-      "url": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root",
+      "id": "sega-and-netflix-announce-partnership-to-develop-crazy-taxi",
+      "titre": "Sega and Netflix announce partnership to develop Crazy Taxi, Sonic, and Stranger Than Heaven adaptations",
+      "url": "https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations",
       "sources": [
         "Eurogamer",
+        "GamesIndustry.biz",
+        "Nintendo Life"
+      ],
+      "reprises": 3,
+      "heures": 5.6,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations",
+          "titre": "Sega and Netflix announce partnership to develop Crazy Taxi, Sonic, and Stranger Than Heaven adaptations"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/sega-and-netflix-announce-new-multi-title-collaboration",
+          "titre": "SEGA And Netflix Announce New \"Multi-Title Collaboration\""
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/sega-netflix-sonic-tv-crazy-taxi-stranger-than-heaven-film",
+          "titre": "Sega and Netflix partner for a \"cute yet cool\" Sonic TV Show, a Crazy Taxi film, and a \"badass action\" Stranger Than Heaven adaptation"
+        }
+      ]
+    },
+    {
+      "id": "multiple-music-artists-tease-gta-6-collaborations",
+      "titre": "Multiple Music Artists Tease GTA 6 Collaborations",
+      "url": "https://www.pushsquare.com/news/2026/09/multiple-music-artists-tease-gta-6-collaborations",
+      "sources": [
         "Push Square"
       ],
-      "reprises": 2,
-      "heures": 19.3,
+      "reprises": 1,
+      "heures": 0.6,
       "chaleur": 9,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root",
-          "titre": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\""
-        },
-        {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/the-first-gta-6-actor-has-confirmed-their-involvement-and-nobodys-surprised",
-          "titre": "The First GTA 6 Actor Has Confirmed Their Involvement, and Nobody's Surprised"
+          "url": "https://www.pushsquare.com/news/2026/09/multiple-music-artists-tease-gta-6-collaborations",
+          "titre": "Multiple Music Artists Tease GTA 6 Collaborations"
         }
       ]
     },
@@ -198,7 +216,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 25.1,
+      "heures": 27.1,
       "chaleur": 9,
       "liens": [
         {
@@ -221,7 +239,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 8,
       "liens": [
         {
@@ -239,7 +257,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 8,
       "liens": [
         {
@@ -250,44 +268,308 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-steam-deck-2-has-not-really-been-impacted-by-the-memory",
-      "titre": "The Steam Deck 2 has 'not really' been impacted by the memory supply crisis, with Valve still focused on a 'very delineated performance improvement' for its next handheld",
-      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-steam-deck-2-has-not-really-been-impacted-by-the-memory-supply-crisis-with-valve-still-focused-on-a-very-delineated-performance-improvement-for-its-next-handheld/",
+      "id": "after-riffing-on-theme-hospital-two-point-museum-studio-is-t",
+      "titre": "After riffing on Theme Hospital, Two Point Museum studio is tipping a hat to Bullfrog's classic Theme Park in its next DLC",
+      "url": "https://www.eurogamer.net/two-point-museum-rides-and-relics-dlc-announced",
       "sources": [
-        "PC Gamer"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 8,
+      "heures": 0.0,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-steam-deck-2-has-not-really-been-impacted-by-the-memory-supply-crisis-with-valve-still-focused-on-a-very-delineated-performance-improvement-for-its-next-handheld/",
-          "titre": "The Steam Deck 2 has 'not really' been impacted by the memory supply crisis, with Valve still focused on a 'very delineated performance improvement' for its next handheld"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/two-point-museum-rides-and-relics-dlc-announced",
+          "titre": "After riffing on Theme Hospital, Two Point Museum studio is tipping a hat to Bullfrog's classic Theme Park in its next DLC"
         }
       ]
     },
     {
-      "id": "marathon-s-future-questioned-as-bungie-delays-big-update-and",
-      "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule",
-      "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
+      "id": "we-re-not-transparent-and-we-re-not-honest-says-bulkhead-ce",
+      "titre": "‘We’re not transparent and we’re not honest,’ says Bulkhead CEO after Wardogs sells 2 million units",
+      "url": "https://www.videogameschronicle.com/news/were-not-transparent-and-were-not-honest-says-bulkhead-ceo-after-wardogs-sells-2-million-units/",
       "sources": [
-        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/were-not-transparent-and-were-not-honest-says-bulkhead-ceo-after-wardogs-sells-2-million-units/",
+          "titre": "‘We’re not transparent and we’re not honest,’ says Bulkhead CEO after Wardogs sells 2 million units"
+        }
+      ]
+    },
+    {
+      "id": "sega-s-ongoing-effort-to-revive-crazy-taxi-now-appears-to-be",
+      "titre": "Sega's ongoing effort to revive Crazy Taxi now appears to be taking the form of… a movie?",
+      "url": "https://www.pcgamer.com/movies-tv/segas-ongoing-effort-to-revive-crazy-taxi-now-appears-to-be-taking-the-form-of-a-movie/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/segas-ongoing-effort-to-revive-crazy-taxi-now-appears-to-be-taking-the-form-of-a-movie/",
+          "titre": "Sega's ongoing effort to revive Crazy Taxi now appears to be taking the form of… a movie?"
+        }
+      ]
+    },
+    {
+      "id": "tim-willits-doesn-t-think-rideshare-s-generative-ai-is-damag",
+      "titre": "Tim Willits doesn't think Rideshare's generative AI is damaging Saber's reputation",
+      "url": "https://www.rockpapershotgun.com/tim-willits-doesnt-think-rideshares-generative-ai-is-damaging-sabers-reputation",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/tim-willits-doesnt-think-rideshares-generative-ai-is-damaging-sabers-reputation",
+          "titre": "Tim Willits doesn't think Rideshare's generative AI is damaging Saber's reputation"
+        }
+      ]
+    },
+    {
+      "id": "poll-are-you-playing-marvel-s-wolverine-on-ps5",
+      "titre": "Poll: Are You Playing Marvel's Wolverine on PS5?",
+      "url": "https://www.pushsquare.com/features/poll-are-you-playing-marvels-wolverine-on-ps5",
+      "sources": [
         "Push Square"
       ],
-      "reprises": 2,
-      "heures": 18.9,
-      "chaleur": 8,
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
-          "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule"
-        },
+          "url": "https://www.pushsquare.com/features/poll-are-you-playing-marvels-wolverine-on-ps5",
+          "titre": "Poll: Are You Playing Marvel's Wolverine on PS5?"
+        }
+      ]
+    },
+    {
+      "id": "what-would-a-wow-2-give-you-that-world-of-warcraft-forever",
+      "titre": "\"What would a WoW 2 give you that World of Warcraft: Forever isn't already giving you?\" - Blizzard addresses the MMO elephant in the room",
+      "url": "https://www.eurogamer.net/blizzard-wow-2-sequel-forever",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/blizzard-wow-2-sequel-forever",
+          "titre": "\"What would a WoW 2 give you that World of Warcraft: Forever isn't already giving you?\" - Blizzard addresses the MMO elephant in the room"
+        }
+      ]
+    },
+    {
+      "id": "give-barbie-s-dreamhouse-a-deep-clean-in-powerwash-simulator",
+      "titre": "Give Barbie's Dreamhouse a Deep Clean in PowerWash Simulator 2's Next DLC Pack",
+      "url": "https://www.pushsquare.com/news/2026/09/give-barbies-dreamhouse-a-deep-clean-in-powerwash-simulator-2s-next-dlc-pack",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/give-barbies-dreamhouse-a-deep-clean-in-powerwash-simulator-2s-next-dlc-pack",
+          "titre": "Give Barbie's Dreamhouse a Deep Clean in PowerWash Simulator 2's Next DLC Pack"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-s-story-director-says-an-ideal-quest-is-constr",
+      "titre": "The Witcher 3's story director says an ideal quest is 'constructed in such a way that the player puts the controller away, stands up, and starts walking'",
+      "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3s-story-director-says-an-ideal-quest-is-constructed-in-such-a-way-that-the-player-puts-the-controller-away-stands-up-and-starts-walking/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/bungie-delays-next-marathon-update-and-ends-strict-seasonal-schedule-as-it-goes-all-in-on-destiny-like-features/",
-          "titre": "Bungie delays next Marathon update and ends 'strict seasonal schedule' as it goes all-in on Destiny-like features"
+          "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3s-story-director-says-an-ideal-quest-is-constructed-in-such-a-way-that-the-player-puts-the-controller-away-stands-up-and-starts-walking/",
+          "titre": "The Witcher 3's story director says an ideal quest is 'constructed in such a way that the player puts the controller away, stands up, and starts walking'"
+        }
+      ]
+    },
+    {
+      "id": "serial-numbers-on-rtx-founders-edition-graphics-cards-includ",
+      "titre": "Serial numbers on RTX Founders Edition graphics cards, including PC Gamer's very own, are fading and apparently it's causing a problem with RMA requests",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/serial-numbers-on-rtx-founders-edition-graphics-cards-including-pc-gamers-very-own-are-fading-and-apparently-its-causing-a-problem-with-rma-requests/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/serial-numbers-on-rtx-founders-edition-graphics-cards-including-pc-gamers-very-own-are-fading-and-apparently-its-causing-a-problem-with-rma-requests/",
+          "titre": "Serial numbers on RTX Founders Edition graphics cards, including PC Gamer's very own, are fading and apparently it's causing a problem with RMA requests"
+        }
+      ]
+    },
+    {
+      "id": "the-best-total-war-game-is-getting-a-remaster-with-50-newly",
+      "titre": "The best Total War game is getting a remaster with 50 newly playable factions, modern visuals, and a full Japanese voiceover",
+      "url": "https://www.pcgamer.com/games/strategy/the-best-total-war-game-is-getting-a-remaster-with-50-newly-playable-factions-modern-visuals-and-a-full-japanese-voiceover/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/the-best-total-war-game-is-getting-a-remaster-with-50-newly-playable-factions-modern-visuals-and-a-full-japanese-voiceover/",
+          "titre": "The best Total War game is getting a remaster with 50 newly playable factions, modern visuals, and a full Japanese voiceover"
+        }
+      ]
+    },
+    {
+      "id": "why-does-this-prominent-washington-state-politician-think-vi",
+      "titre": "Why does this prominent Washington state politician think video games can be 'soft power?'",
+      "url": "https://www.gamedeveloper.com/business/why-does-this-prominent-washington-state-politician-think-video-games-can-be-soft-power-",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/why-does-this-prominent-washington-state-politician-think-video-games-can-be-soft-power-",
+          "titre": "Why does this prominent Washington state politician think video games can be 'soft power?'"
+        }
+      ]
+    },
+    {
+      "id": "paradox-s-grand-strategy-game-afterworld-hasn-t-got-a-fixed",
+      "titre": "Paradox's grand strategy game Afterworld hasn't got a fixed history, it changes with every playthrough",
+      "url": "https://www.rockpapershotgun.com/paradoxs-grand-strategy-game-afterworld-hasnt-got-a-fixed-history-it-changes-with-every-playthrough",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/paradoxs-grand-strategy-game-afterworld-hasnt-got-a-fixed-history-it-changes-with-every-playthrough",
+          "titre": "Paradox's grand strategy game Afterworld hasn't got a fixed history, it changes with every playthrough"
+        }
+      ]
+    },
+    {
+      "id": "control-resonant-designed-around-60fps-gameplay-on-ps5-and-p",
+      "titre": "Control Resonant Designed Around 60fps Gameplay on PS5 and PS5 Pro",
+      "url": "https://www.pushsquare.com/news/2026/09/control-resonant-designed-around-60fps-gameplay-on-ps5-and-ps5-pro",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/control-resonant-designed-around-60fps-gameplay-on-ps5-and-ps5-pro",
+          "titre": "Control Resonant Designed Around 60fps Gameplay on PS5 and PS5 Pro"
+        }
+      ]
+    },
+    {
+      "id": "european-commission-s-proposed-eu-kids-act-could-see-online",
+      "titre": "European Commission's proposed EU Kids Act could see online games forced to enact stricter age verification amid new rules around accounts for under 15s",
+      "url": "https://www.rockpapershotgun.com/european-commissions-proposed-eu-kids-act-could-see-online-games-forced-to-enact-stricter-age-verification-amid-new-rules-around-accounts-for-under-15s",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/european-commissions-proposed-eu-kids-act-could-see-online-games-forced-to-enact-stricter-age-verification-amid-new-rules-around-accounts-for-under-15s",
+          "titre": "European Commission's proposed EU Kids Act could see online games forced to enact stricter age verification amid new rules around accounts for under 15s"
+        }
+      ]
+    },
+    {
+      "id": "star-wars-galactic-racer-s-ps5-trophy-list-will-push-you-to",
+      "titre": "Star Wars: Galactic Racer's PS5 Trophy List Will Push You to the Limit for the Platinum",
+      "url": "https://www.pushsquare.com/news/2026/09/star-wars-galactic-racers-ps5-trophy-list-will-push-you-to-the-limit-for-the-platinum",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/star-wars-galactic-racers-ps5-trophy-list-will-push-you-to-the-limit-for-the-platinum",
+          "titre": "Star Wars: Galactic Racer's PS5 Trophy List Will Push You to the Limit for the Platinum"
+        }
+      ]
+    },
+    {
+      "id": "2017-s-pvp-action-game-for-honor-is-free-to-own-for-a-limite",
+      "titre": "2017’s PvP action game For Honor is free to own for a limited time on Ubisoft Connect",
+      "url": "https://www.videogameschronicle.com/news/2017s-pvp-action-game-for-honor-is-free-to-own-for-a-limited-time-on-ubisoft-connect/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/2017s-pvp-action-game-for-honor-is-free-to-own-for-a-limited-time-on-ubisoft-connect/",
+          "titre": "2017’s PvP action game For Honor is free to own for a limited time on Ubisoft Connect"
+        }
+      ]
+    },
+    {
+      "id": "toss-a-project-at-your-printer-vibe-coded-tool-allows-develo",
+      "titre": "Toss a project at your printer: vibe coded tool allows developer to throw stuff at his 3D printer in VR to begin printing",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/toss-a-project-at-your-printer-vibe-coded-tool-allows-developer-to-throw-stuff-at-his-3d-printer-in-vr-to-begin-printing/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/toss-a-project-at-your-printer-vibe-coded-tool-allows-developer-to-throw-stuff-at-his-3d-printer-in-vr-to-begin-printing/",
+          "titre": "Toss a project at your printer: vibe coded tool allows developer to throw stuff at his 3D printer in VR to begin printing"
         }
       ]
     },
@@ -299,13 +581,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/the-witcher/cdpr-wants-to-make-the-witcher-3-remastered-feel-like-any-other-game-released-today-its-so-easy-to-get-used-to-these-new-improvements-that-its-hard-to-go-back/",
           "titre": "CDPR wants to make The Witcher 3 Remastered feel like any other game released today: 'It's so easy to get used to these new improvements that it's hard to go back'"
+        }
+      ]
+    },
+    {
+      "id": "josh-holloway-stars-in-first-episode-of-live-action-ace-comb",
+      "titre": "Josh Holloway Stars in First Episode of Live Action Ace Combat 8 Prequel Series",
+      "url": "https://www.pushsquare.com/news/2026/09/josh-holloway-stars-in-first-episode-of-live-action-ace-combat-8-prequel-series",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 2.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/josh-holloway-stars-in-first-episode-of-live-action-ace-combat-8-prequel-series",
+          "titre": "Josh Holloway Stars in First Episode of Live Action Ace Combat 8 Prequel Series"
         }
       ]
     },
@@ -317,7 +617,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -335,7 +635,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -353,7 +653,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -371,7 +671,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -389,7 +689,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -407,7 +707,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -425,7 +725,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -443,7 +743,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -454,110 +754,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "katsuhiro-harada-and-snk-discuss-their-bold-ambitions-to-rev",
-      "titre": "Katsuhiro Harada and SNK discuss their bold ambitions to ‘revive Japan’s golden era’",
-      "url": "https://www.videogameschronicle.com/features/interviews/katsuhiro-harada-and-snk-discuss-their-bold-ambitions-to-revive-japans-golden-era/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/interviews/katsuhiro-harada-and-snk-discuss-their-bold-ambitions-to-revive-japans-golden-era/",
-          "titre": "Katsuhiro Harada and SNK discuss their bold ambitions to ‘revive Japan’s golden era’"
-        }
-      ]
-    },
-    {
-      "id": "nvidia-ceo-jensen-huang-tells-trump-he-agrees-the-ai-doomsay",
-      "titre": "Nvidia CEO Jensen Huang tells Trump he agrees the AI doomsayers are perpetrating a hoax: 'you saw through all of that'",
-      "url": "https://www.pcgamer.com/hardware/nvidia-ceo-jensen-huang-tells-trump-he-agrees-the-ai-doomsayers-are-perpetrating-a-hoax-you-saw-through-all-of-that/",
+      "id": "the-steam-deck-2-has-not-really-been-impacted-by-the-memory",
+      "titre": "The Steam Deck 2 has 'not really' been impacted by the memory supply crisis, with Valve still focused on a 'very delineated performance improvement' for its next handheld",
+      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-steam-deck-2-has-not-really-been-impacted-by-the-memory-supply-crisis-with-valve-still-focused-on-a-very-delineated-performance-improvement-for-its-next-handheld/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 5.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/nvidia-ceo-jensen-huang-tells-trump-he-agrees-the-ai-doomsayers-are-perpetrating-a-hoax-you-saw-through-all-of-that/",
-          "titre": "Nvidia CEO Jensen Huang tells Trump he agrees the AI doomsayers are perpetrating a hoax: 'you saw through all of that'"
-        }
-      ]
-    },
-    {
-      "id": "dishonored-director-harvey-smith-thinks-there-s-still-room-f",
-      "titre": "Dishonored director Harvey Smith thinks there's still room for big-budget immersive sims: 'When it really comes together and it has the budget behind it and the team, you end up with Deus Ex or Dishonored'",
-      "url": "https://www.pcgamer.com/games/sim/dishonored-director-harvey-smith-thinks-theres-still-room-for-big-budget-immersive-sims-when-it-really-comes-together-and-it-has-the-budget-behind-it-and-the-team-you-end-up-with-deus-ex-or-dishonored/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/dishonored-director-harvey-smith-thinks-theres-still-room-for-big-budget-immersive-sims-when-it-really-comes-together-and-it-has-the-budget-behind-it-and-the-team-you-end-up-with-deus-ex-or-dishonored/",
-          "titre": "Dishonored director Harvey Smith thinks there's still room for big-budget immersive sims: 'When it really comes together and it has the budget behind it and the team, you end up with Deus Ex or Dishonored'"
-        }
-      ]
-    },
-    {
-      "id": "marvel-tokon-dev-apologises-for-pc-launch-woes-outline-futur",
-      "titre": "Marvel Tokon Dev Apologises for PC Launch Woes, Outline Future Balance Updates",
-      "url": "https://www.pushsquare.com/news/2026/09/marvel-tokon-dev-apologises-for-pc-launch-woes-outline-future-balance-updates",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/marvel-tokon-dev-apologises-for-pc-launch-woes-outline-future-balance-updates",
-          "titre": "Marvel Tokon Dev Apologises for PC Launch Woes, Outline Future Balance Updates"
-        }
-      ]
-    },
-    {
-      "id": "admitting-the-ogl-fiasco-was-a-rug-pull-d-d-head-says-bluntl",
-      "titre": "Admitting the OGL fiasco was a 'rug pull', D&D head says 'bluntly, we're recovering from a lot of missteps—very loud, very public missteps'",
-      "url": "https://www.pcgamer.com/gaming-industry/admitting-the-ogl-fiasco-was-a-rug-pull-d-and-d-head-says-bluntly-were-recovering-from-a-lot-of-missteps-very-loud-very-public-missteps/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/admitting-the-ogl-fiasco-was-a-rug-pull-d-and-d-head-says-bluntly-were-recovering-from-a-lot-of-missteps-very-loud-very-public-missteps/",
-          "titre": "Admitting the OGL fiasco was a 'rug pull', D&D head says 'bluntly, we're recovering from a lot of missteps—very loud, very public missteps'"
-        }
-      ]
-    },
-    {
-      "id": "uk-charts-orbitals-floats-out-of-the-top-10-as-last-week-s-n",
-      "titre": "UK Charts: Orbitals Floats Out Of The Top 10 As Last Week's Newbies Hold Down The Podium",
-      "url": "https://www.nintendolife.com/news/2026/09/uk-charts-orbitals-floats-out-of-the-top-10-as-last-weeks-newbies-hold-down-the-podium",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/uk-charts-orbitals-floats-out-of-the-top-10-as-last-weeks-newbies-hold-down-the-podium",
-          "titre": "UK Charts: Orbitals Floats Out Of The Top 10 As Last Week's Newbies Hold Down The Podium"
+          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-steam-deck-2-has-not-really-been-impacted-by-the-memory-supply-crisis-with-valve-still-focused-on-a-very-delineated-performance-improvement-for-its-next-handheld/",
+          "titre": "The Steam Deck 2 has 'not really' been impacted by the memory supply crisis, with Valve still focused on a 'very delineated performance improvement' for its next handheld"
         }
       ]
     },
@@ -569,31 +779,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/diablo-iv-switch-2-performance-and-resolution-officially-revealed",
           "titre": "Diablo IV Switch 2 Performance And Resolution Officially Revealed"
-        }
-      ]
-    },
-    {
-      "id": "asha-sharma-has-been-personally-responding-to-xbox-users-sup",
-      "titre": "Asha Sharma ‘has been personally responding to Xbox users’ support tickets’",
-      "url": "https://www.videogameschronicle.com/news/asha-sharma-has-been-personally-responding-to-xbox-users-support-tickets/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/asha-sharma-has-been-personally-responding-to-xbox-users-support-tickets/",
-          "titre": "Asha Sharma ‘has been personally responding to Xbox users’ support tickets’"
         }
       ]
     },
@@ -605,7 +797,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 15.8,
       "chaleur": 6,
       "liens": [
         {
@@ -616,20 +808,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "forget-gta-6-i-have-brought-gta-5-closer-to-being-the-true-g",
-      "titre": "Forget GTA 6, I have brought GTA 5 closer to being the true greatest game of all time: Hulk – Ultimate Destruction",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/forget-gta-6-i-have-brought-gta-5-closer-to-being-the-true-greatest-game-of-all-time-hulk-ultimate-destruction/",
+      "id": "gta-6-s-first-confirmed-actor-is-king-of-the-hill-s-stephen",
+      "titre": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\"",
+      "url": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root",
       "sources": [
-        "PC Gamer"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.7,
+      "heures": 21.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/forget-gta-6-i-have-brought-gta-5-closer-to-being-the-true-greatest-game-of-all-time-hulk-ultimate-destruction/",
-          "titre": "Forget GTA 6, I have brought GTA 5 closer to being the true greatest game of all time: Hulk – Ultimate Destruction"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root",
+          "titre": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\""
         }
       ]
     },
@@ -641,37 +833,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 20.8,
+      "heures": 22.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/more-than-40-of-people-cancelling-xbox-game-pass-playstation-plus-and-nintendo-switch-online-subscriptions-blame-rising-costs",
           "titre": "More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online subscriptions blame rising costs"
-        }
-      ]
-    },
-    {
-      "id": "a-starcraft-open-world-shooter-that-s-deadwood-in-space-diab",
-      "titre": "A StarCraft open-world shooter that's \"Deadwood in space\", Diablo 5, and a new classic-ish World of Warcraft branch out this year make up Blizzard of reveals",
-      "url": "https://www.rockpapershotgun.com/a-starcraft-open-world-shooter-thats-deadwood-in-space-diablo-5-and-a-new-classic-ish-world-of-warcraft-branch-out-this-year-make-up-blizzard-of-reveals",
-      "sources": [
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 27.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/a-starcraft-open-world-shooter-thats-deadwood-in-space-diablo-5-and-a-new-classic-ish-world-of-warcraft-branch-out-this-year-make-up-blizzard-of-reveals",
-          "titre": "A StarCraft open-world shooter that's \"Deadwood in space\", Diablo 5, and a new classic-ish World of Warcraft branch out this year make up Blizzard of reveals"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/new-starcraft-title-to-launch-in-2030-will-be-an-open-world-fps",
-          "titre": "New StarCraft title to launch in 2030, will be an open-world FPS"
         }
       ]
     },
@@ -683,13 +851,31 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 28.2,
+      "heures": 30.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs",
           "titre": "Worker-run studio KO_OP confirms layoffs"
+        }
+      ]
+    },
+    {
+      "id": "asha-sharma-has-been-personally-responding-to-xbox-users-sup",
+      "titre": "Asha Sharma ‘has been personally responding to Xbox users’ support tickets’",
+      "url": "https://www.videogameschronicle.com/news/asha-sharma-has-been-personally-responding-to-xbox-users-support-tickets/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 13.8,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/asha-sharma-has-been-personally-responding-to-xbox-users-support-tickets/",
+          "titre": "Asha Sharma ‘has been personally responding to Xbox users’ support tickets’"
         }
       ]
     },
@@ -701,31 +887,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 19.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
           "titre": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest"
-        }
-      ]
-    },
-    {
-      "id": "the-steam-frame-launches-during-one-of-the-slowest-periods-f",
-      "titre": "The Steam Frame launches during one of the slowest periods for VR on Steam, but Valve hopes to 'rekindle the excitement' for PCVR",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/the-steam-frame-launches-during-one-of-the-slowest-periods-for-vr-on-steam-but-valve-hopes-to-rekindle-the-excitement-for-pcvr/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 19.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/the-steam-frame-launches-during-one-of-the-slowest-periods-for-vr-on-steam-but-valve-hopes-to-rekindle-the-excitement-for-pcvr/",
-          "titre": "The Steam Frame launches during one of the slowest periods for VR on Steam, but Valve hopes to 'rekindle the excitement' for PCVR"
         }
       ]
     },
@@ -737,31 +905,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/valve-decided-that-cutting-the-steam-frames-specs-to-avoid-price-rises-wasnt-the-right-product-choice-for-the-vr-headset",
           "titre": "Valve decided that cutting the Steam Frame’s specs to avoid price rises wasn't \"the right product choice\" for the VR headset"
-        }
-      ]
-    },
-    {
-      "id": "marathon-s-permanent-pve-mode-and-next-major-update-delayed",
-      "titre": "Marathon's permanent PvE mode and next major update delayed to December days before launch, and Bungie's \"moving away from a strict season schedule\"",
-      "url": "https://www.eurogamer.net/marathon-pve-mode-delay-bungie-major-update",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 20.5,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marathon-pve-mode-delay-bungie-major-update",
-          "titre": "Marathon's permanent PvE mode and next major update delayed to December days before launch, and Bungie's \"moving away from a strict season schedule\""
         }
       ]
     },
@@ -773,7 +923,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.3,
       "chaleur": 5,
       "liens": [
         {
@@ -791,7 +941,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.3,
       "chaleur": 5,
       "liens": [
         {
@@ -809,31 +959,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/blizzard-say-battlenet-isnt-looking-to-fight-steam-and-epic-for-supermassive-storefront-supremacy-despite-recently-nabbing-the-witcher-3-and-cyberpunk-2077",
           "titre": "Blizzard say Battle.net isn't looking to fight Steam and Epic for supermassive storefront supremacy, despite recently nabbing The Witcher 3 and Cyberpunk 2077"
-        }
-      ]
-    },
-    {
-      "id": "as-a-gundam-nut-i-m-happy-to-report-rogue-orbit-looks-fantas",
-      "titre": "As a Gundam Nut, I'm Happy to Report Rogue Orbit Looks Fantastic in New PS5 Gameplay Footage",
-      "url": "https://www.pushsquare.com/news/2026/09/as-a-gundam-nut-im-happy-to-report-rogue-orbit-looks-fantastic-in-new-ps5-gameplay-footage",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 22.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/as-a-gundam-nut-im-happy-to-report-rogue-orbit-looks-fantastic-in-new-ps5-gameplay-footage",
-          "titre": "As a Gundam Nut, I'm Happy to Report Rogue Orbit Looks Fantastic in New PS5 Gameplay Footage"
         }
       ]
     },
@@ -845,7 +977,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.1,
+      "heures": 25.1,
       "chaleur": 5,
       "liens": [
         {
@@ -863,7 +995,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.7,
+      "heures": 25.7,
       "chaleur": 5,
       "liens": [
         {
@@ -881,7 +1013,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 24.6,
+      "heures": 26.6,
       "chaleur": 5,
       "liens": [
         {
@@ -899,7 +1031,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.4,
+      "heures": 28.3,
       "chaleur": 5,
       "liens": [
         {
@@ -910,20 +1042,110 @@ const VEILLE = {
       ]
     },
     {
-      "id": "roblox-plan-to-grow-their-absurd-gaming-empire-even-further",
-      "titre": "Roblox plan to grow their absurd gaming empire even further by letting devs release games as \"standalone apps\", potentially via Steam, Epic, and GOG",
-      "url": "https://www.rockpapershotgun.com/roblox-plan-to-grow-their-absurd-gaming-empire-even-further-by-letting-devs-release-games-as-standalone-apps-potentially-via-steam-epic-and-gog",
+      "id": "katsuhiro-harada-and-snk-discuss-their-bold-ambitions-to-rev",
+      "titre": "Katsuhiro Harada and SNK discuss their bold ambitions to ‘revive Japan’s golden era’",
+      "url": "https://www.videogameschronicle.com/features/interviews/katsuhiro-harada-and-snk-discuss-their-bold-ambitions-to-revive-japans-golden-era/",
       "sources": [
-        "Rock Paper Shotgun"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 26.8,
-      "chaleur": 5,
+      "heures": 4.3,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/roblox-plan-to-grow-their-absurd-gaming-empire-even-further-by-letting-devs-release-games-as-standalone-apps-potentially-via-steam-epic-and-gog",
-          "titre": "Roblox plan to grow their absurd gaming empire even further by letting devs release games as \"standalone apps\", potentially via Steam, Epic, and GOG"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/features/interviews/katsuhiro-harada-and-snk-discuss-their-bold-ambitions-to-revive-japans-golden-era/",
+          "titre": "Katsuhiro Harada and SNK discuss their bold ambitions to ‘revive Japan’s golden era’"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-ceo-jensen-huang-tells-trump-he-agrees-the-ai-doomsay",
+      "titre": "Nvidia CEO Jensen Huang tells Trump he agrees the AI doomsayers are perpetrating a hoax: 'you saw through all of that'",
+      "url": "https://www.pcgamer.com/hardware/nvidia-ceo-jensen-huang-tells-trump-he-agrees-the-ai-doomsayers-are-perpetrating-a-hoax-you-saw-through-all-of-that/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/nvidia-ceo-jensen-huang-tells-trump-he-agrees-the-ai-doomsayers-are-perpetrating-a-hoax-you-saw-through-all-of-that/",
+          "titre": "Nvidia CEO Jensen Huang tells Trump he agrees the AI doomsayers are perpetrating a hoax: 'you saw through all of that'"
+        }
+      ]
+    },
+    {
+      "id": "dishonored-director-harvey-smith-thinks-there-s-still-room-f",
+      "titre": "Dishonored director Harvey Smith thinks there's still room for big-budget immersive sims: 'When it really comes together and it has the budget behind it and the team, you end up with Deus Ex or Dishonored'",
+      "url": "https://www.pcgamer.com/games/sim/dishonored-director-harvey-smith-thinks-theres-still-room-for-big-budget-immersive-sims-when-it-really-comes-together-and-it-has-the-budget-behind-it-and-the-team-you-end-up-with-deus-ex-or-dishonored/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/dishonored-director-harvey-smith-thinks-theres-still-room-for-big-budget-immersive-sims-when-it-really-comes-together-and-it-has-the-budget-behind-it-and-the-team-you-end-up-with-deus-ex-or-dishonored/",
+          "titre": "Dishonored director Harvey Smith thinks there's still room for big-budget immersive sims: 'When it really comes together and it has the budget behind it and the team, you end up with Deus Ex or Dishonored'"
+        }
+      ]
+    },
+    {
+      "id": "marvel-tokon-dev-apologises-for-pc-launch-woes-outline-futur",
+      "titre": "Marvel Tokon Dev Apologises for PC Launch Woes, Outline Future Balance Updates",
+      "url": "https://www.pushsquare.com/news/2026/09/marvel-tokon-dev-apologises-for-pc-launch-woes-outline-future-balance-updates",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/marvel-tokon-dev-apologises-for-pc-launch-woes-outline-future-balance-updates",
+          "titre": "Marvel Tokon Dev Apologises for PC Launch Woes, Outline Future Balance Updates"
+        }
+      ]
+    },
+    {
+      "id": "admitting-the-ogl-fiasco-was-a-rug-pull-d-d-head-says-bluntl",
+      "titre": "Admitting the OGL fiasco was a 'rug pull', D&D head says 'bluntly, we're recovering from a lot of missteps—very loud, very public missteps'",
+      "url": "https://www.pcgamer.com/gaming-industry/admitting-the-ogl-fiasco-was-a-rug-pull-d-and-d-head-says-bluntly-were-recovering-from-a-lot-of-missteps-very-loud-very-public-missteps/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/admitting-the-ogl-fiasco-was-a-rug-pull-d-and-d-head-says-bluntly-were-recovering-from-a-lot-of-missteps-very-loud-very-public-missteps/",
+          "titre": "Admitting the OGL fiasco was a 'rug pull', D&D head says 'bluntly, we're recovering from a lot of missteps—very loud, very public missteps'"
+        }
+      ]
+    },
+    {
+      "id": "uk-charts-orbitals-floats-out-of-the-top-10-as-last-week-s-n",
+      "titre": "UK Charts: Orbitals Floats Out Of The Top 10 As Last Week's Newbies Hold Down The Podium",
+      "url": "https://www.nintendolife.com/news/2026/09/uk-charts-orbitals-floats-out-of-the-top-10-as-last-weeks-newbies-hold-down-the-podium",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/uk-charts-orbitals-floats-out-of-the-top-10-as-last-weeks-newbies-hold-down-the-podium",
+          "titre": "UK Charts: Orbitals Floats Out Of The Top 10 As Last Week's Newbies Hold Down The Podium"
         }
       ]
     },
@@ -935,7 +1157,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 6.0,
       "chaleur": 4,
       "liens": [
         {
@@ -944,244 +1166,10 @@ const VEILLE = {
           "titre": "As Civilization 7 devs Firaxis prepare to unleash the nukes, the strategy game's latest update whips out a fresh take on the classic Real Earth map"
         }
       ]
-    },
-    {
-      "id": "everything-we-ve-gleaned-about-diablo-5-since-its-blizzcon-2",
-      "titre": "Everything we've gleaned about Diablo 5 since its BlizzCon 2026 reveal - a game that appears to be much more than Diablo 4.5",
-      "url": "https://www.eurogamer.net/diablo-5-all-gameplay-details",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 4.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/diablo-5-all-gameplay-details",
-          "titre": "Everything we've gleaned about Diablo 5 since its BlizzCon 2026 reveal - a game that appears to be much more than Diablo 4.5"
-        }
-      ]
-    },
-    {
-      "id": "we-ve-been-100-listening-insomniac-already-acting-on-marvel",
-      "titre": "'We've Been 100% Listening': Insomniac Already Acting on Marvel's Wolverine Criticisms",
-      "url": "https://www.pushsquare.com/news/2026/09/weve-been-100percent-listening-insomniac-already-acting-on-marvels-wolverine-criticisms",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 4.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/weve-been-100percent-listening-insomniac-already-acting-on-marvels-wolverine-criticisms",
-          "titre": "'We've Been 100% Listening': Insomniac Already Acting on Marvel's Wolverine Criticisms"
-        }
-      ]
-    },
-    {
-      "id": "team17-owner-everplay-increases-shareholding-in-wardogs-dev",
-      "titre": "Team17 owner Everplay increases shareholding in Wardogs dev Bulkhead, touts strong FY26 results",
-      "url": "https://www.gamesindustry.biz/team17-owner-everplay-increases-shareholding-in-wardogs-dev-bulkhead-touts-strong-fy26-results",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 4.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/team17-owner-everplay-increases-shareholding-in-wardogs-dev-bulkhead-touts-strong-fy26-results",
-          "titre": "Team17 owner Everplay increases shareholding in Wardogs dev Bulkhead, touts strong FY26 results"
-        }
-      ]
-    },
-    {
-      "id": "phantasy-star-online-is-now-fully-playable-in-your-web-brows",
-      "titre": "Phantasy Star Online is now fully playable in your web browser via PSO Reborn",
-      "url": "https://www.videogameschronicle.com/news/phantasy-star-online-is-now-fully-playable-in-your-web-browser-via-pso-reborn/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 5.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/phantasy-star-online-is-now-fully-playable-in-your-web-browser-via-pso-reborn/",
-          "titre": "Phantasy Star Online is now fully playable in your web browser via PSO Reborn"
-        }
-      ]
-    },
-    {
-      "id": "4-new-september-2026-ps-plus-extra-premium-games-available-t",
-      "titre": "4 New September 2026 PS Plus Extra, Premium Games Available to Download Now",
-      "url": "https://www.pushsquare.com/news/2026/09/4-new-september-2026-ps-plus-extra-premium-games-available-to-download-now",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/4-new-september-2026-ps-plus-extra-premium-games-available-to-download-now",
-          "titre": "4 New September 2026 PS Plus Extra, Premium Games Available to Download Now"
-        }
-      ]
-    },
-    {
-      "id": "injustice-3-is-seemingly-the-mysterious-unannounced-fighting",
-      "titre": "Injustice 3 is seemingly the mysterious, unannounced fighting game that's been hosting playtests in California",
-      "url": "https://www.eurogamer.net/injustice-3-playtests-leak",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 5.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/injustice-3-playtests-leak",
-          "titre": "Injustice 3 is seemingly the mysterious, unannounced fighting game that's been hosting playtests in California"
-        }
-      ]
-    },
-    {
-      "id": "curve-games-partners-with-wayfinder-studios-to-publish-onlin",
-      "titre": "Curve Games partners with Wayfinder Studios to publish online co-op RPG Wyldheart",
-      "url": "https://www.gamesindustry.biz/curve-games-partners-with-wayfinder-studios-to-publish-online-co-op-rpg-wyldheart",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/curve-games-partners-with-wayfinder-studios-to-publish-online-co-op-rpg-wyldheart",
-          "titre": "Curve Games partners with Wayfinder Studios to publish online co-op RPG Wyldheart"
-        }
-      ]
-    },
-    {
-      "id": "here-are-the-top-20-best-selling-gamecube-games-in-the-us",
-      "titre": "Here Are The Top 20 Best-Selling GameCube Games In The US",
-      "url": "https://www.nintendolife.com/news/2026/09/here-are-the-top-20-best-selling-gamecube-games-in-the-us",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/here-are-the-top-20-best-selling-gamecube-games-in-the-us",
-          "titre": "Here Are The Top 20 Best-Selling GameCube Games In The US"
-        }
-      ]
-    },
-    {
-      "id": "fan-ps5-boycott-over-discs-seemingly-has-little-impact-in-us",
-      "titre": "Fan PS5 boycott over discs seemingly has little impact in US",
-      "url": "https://www.videogameschronicle.com/news/fan-ps5-boycott-over-discs-seemingly-has-little-impact-in-us/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 12.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/fan-ps5-boycott-over-discs-seemingly-has-little-impact-in-us/",
-          "titre": "Fan PS5 boycott over discs seemingly has little impact in US"
-        }
-      ]
-    },
-    {
-      "id": "here-s-the-aniimo-release-time-for-your-region",
-      "titre": "Here's the Aniimo release time for your region",
-      "url": "https://www.pcgamer.com/games/rpg/aniimo-release-date-launch-times/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/aniimo-release-date-launch-times/",
-          "titre": "Here's the Aniimo release time for your region"
-        }
-      ]
-    },
-    {
-      "id": "fire-emblem-fortune-s-weave-voice-actors-officially-revealed",
-      "titre": "Fire Emblem: Fortune's Weave Voice Actors Officially Revealed",
-      "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-voice-actors-officially-revealed",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 12.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-voice-actors-officially-revealed",
-          "titre": "Fire Emblem: Fortune's Weave Voice Actors Officially Revealed"
-        }
-      ]
-    },
-    {
-      "id": "marvel-s-wolverine-greased-trophy-guide-read-callisto-s-jour",
-      "titre": "Marvel’s Wolverine Greased Trophy Guide: Read Callisto’s journal in her Vancouver garage",
-      "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-greased-trophy-guide-read-callistos-journal-in-her-vancouver-garage/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 12.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-greased-trophy-guide-read-callistos-journal-in-her-vancouver-garage/",
-          "titre": "Marvel’s Wolverine Greased Trophy Guide: Read Callisto’s journal in her Vancouver garage"
-        }
-      ]
-    },
-    {
-      "id": "fans-deserve-this-sega-is-turning-more-of-its-games-into-mo",
-      "titre": "‘Fans deserve this’: Sega is turning more of its games into movies with Netflix",
-      "url": "https://www.videogameschronicle.com/news/fans-deserve-this-sega-is-turning-more-of-its-games-into-movies-with-netflix/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 12.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/fans-deserve-this-sega-is-turning-more-of-its-games-into-movies-with-netflix/",
-          "titre": "‘Fans deserve this’: Sega is turning more of its games into movies with Netflix"
-        }
-      ]
     }
   ],
   "alertes": [
-    "Steam Deck 2 plans aren't affected by ongoing component crisis, Valve maintains, as Steam Frame arrives later and more expensive than expected",
-    "Lies of P's sequel is a Wizard of Oz homage called Wonders of O, going by a Neowiz trademark, and probably not a videogame based on a famous work of French erotica"
+    "Steam Deck 2 plans still on track despite RAM crisis and higher prices",
+    "Marathon's next major update runs a few months further away, permanent PvE in hand, as Bungie ditch their \"strict seasonal schedule\""
   ]
 };
