@@ -1,63 +1,26 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "15/09/2026 à 12h25",
+  "collecte": "15/09/2026 à 14h21",
   "seuil": 14,
   "sujets": [
     {
-      "id": "ubisoft-delays-rayman-legends-remake-retold-a-couple-of-mont",
-      "titre": "Ubisoft delays Rayman Legends remake Retold a couple of months \"to make sure every detail gets the care it deserves\"",
-      "url": "https://www.eurogamer.net/rayman-legends-remake-retold-release-date-delay",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life",
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 4,
-      "heures": 1.1,
-      "chaleur": 17,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/rayman-legends-remake-retold-release-date-delay",
-          "titre": "Ubisoft delays Rayman Legends remake Retold a couple of months \"to make sure every detail gets the care it deserves\""
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/ubisoft-delays-rayman-legends-retold-weeks-before-planned-release/",
-          "titre": "Ubisoft delays Rayman Legends Retold weeks before planned release"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-now-out-in-december-ps5-remake-delayed-two-months",
-          "titre": "Rayman Legends Retold Now Out in December, PS5 Remake Delayed Two Months"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/rayman-legends-retold-has-been-delayed",
-          "titre": "Rayman Legends Retold Has Been Delayed"
-        }
-      ]
-    },
-    {
-      "id": "the-steam-frame-launches-during-one-of-the-slowest-periods-f",
-      "titre": "The Steam Frame launches during one of the slowest periods for VR on Steam, but Valve hopes to 'rekindle the excitement' for PCVR",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/the-steam-frame-launches-during-one-of-the-slowest-periods-for-vr-on-steam-but-valve-hopes-to-rekindle-the-excitement-for-pcvr/",
+      "id": "steam-deck-2-plans-aren-t-affected-by-ongoing-component-cris",
+      "titre": "Steam Deck 2 plans aren't affected by ongoing component crisis, Valve maintains, as Steam Frame arrives later and more expensive than expected",
+      "url": "https://www.eurogamer.net/valve-steam-deck-2-plans-component-crisis",
       "sources": [
         "Eurogamer",
         "Game Developer",
         "GamesIndustry.biz",
-        "PC Gamer",
         "Rock Paper Shotgun"
       ],
-      "reprises": 5,
-      "heures": 17.4,
+      "reprises": 4,
+      "heures": 1.0,
       "chaleur": 17,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/the-steam-frame-launches-during-one-of-the-slowest-periods-for-vr-on-steam-but-valve-hopes-to-rekindle-the-excitement-for-pcvr/",
-          "titre": "The Steam Frame launches during one of the slowest periods for VR on Steam, but Valve hopes to 'rekindle the excitement' for PCVR"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/valve-steam-deck-2-plans-component-crisis",
+          "titre": "Steam Deck 2 plans aren't affected by ongoing component crisis, Valve maintains, as Steam Frame arrives later and more expensive than expected"
         },
         {
           "source": "Game Developer",
@@ -73,11 +36,42 @@ const VEILLE = {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/valves-steam-frame-vr-headset-opens-for-orders-with-the-cheapest-model-priced-at-a-lenswatering-889-1059",
           "titre": "Valve’s Steam Frame VR headset opens for orders, with the cheapest model priced at a lenswatering £889 / $1,059"
+        }
+      ]
+    },
+    {
+      "id": "lies-of-p-s-sequel-is-a-wizard-of-oz-homage-called-wonders-o",
+      "titre": "Lies of P's sequel is a Wizard of Oz homage called Wonders of O, going by a Neowiz trademark, and probably not a videogame based on a famous work of French erotica",
+      "url": "https://www.rockpapershotgun.com/lies-of-ps-sequel-is-a-wizard-of-oz-homage-called-wonders-of-o-going-by-a-neowiz-trademark-and-probably-not-a-videogame-based-on-a-famous-work-of-french-erotica",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 4,
+      "heures": 0.4,
+      "chaleur": 15,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/lies-of-ps-sequel-is-a-wizard-of-oz-homage-called-wonders-of-o-going-by-a-neowiz-trademark-and-probably-not-a-videogame-based-on-a-famous-work-of-french-erotica",
+          "titre": "Lies of P's sequel is a Wizard of Oz homage called Wonders of O, going by a Neowiz trademark, and probably not a videogame based on a famous work of French erotica"
         },
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/steam-frame-vr-price-where-how-to-buy",
-          "titre": "Valve's long-awaited standalone VR headset Steam Frame starts at £889 and sign-ups open today - but you'll need to be quick"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/new-trademark-seemingly-reveals-the-title-for-lies-of-p-sequel",
+          "titre": "New Trademark Seemingly Reveals The Title For Lies Of P Sequel"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/lies-of-p-studio-neowiz-has-filed-a-trademark-for-wonders-of-o-an-apparent-wizard-of-oz-themed-sequel/",
+          "titre": "Lies of P studio Neowiz has filed a trademark for Wonders of O, an apparent Wizard of Oz themed sequel"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/lies-of-p-publisher-files-trademark-for-likely-sequel-wonders-of-o/",
+          "titre": "Lies of P publisher files trademark for likely sequel 'Wonders of O'"
         }
       ]
     },
@@ -92,7 +86,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 4,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 15,
       "liens": [
         {
@@ -118,38 +112,32 @@ const VEILLE = {
       ]
     },
     {
-      "id": "new-trademark-seemingly-reveals-the-title-for-lies-of-p-sequ",
-      "titre": "New Trademark Seemingly Reveals The Title For Lies Of P Sequel",
-      "url": "https://www.nintendolife.com/news/2026/09/new-trademark-seemingly-reveals-the-title-for-lies-of-p-sequel",
+      "id": "ubisoft-delays-rayman-legends-remake-retold-a-couple-of-mont",
+      "titre": "Ubisoft delays Rayman Legends remake Retold a couple of months \"to make sure every detail gets the care it deserves\"",
+      "url": "https://www.eurogamer.net/rayman-legends-remake-retold-release-date-delay",
       "sources": [
+        "Eurogamer",
         "Nintendo Life",
-        "PC Gamer",
-        "Push Square",
-        "VGC"
+        "Push Square"
       ],
-      "reprises": 4,
-      "heures": 3.2,
-      "chaleur": 15,
+      "reprises": 3,
+      "heures": 3.0,
+      "chaleur": 14,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/new-trademark-seemingly-reveals-the-title-for-lies-of-p-sequel",
-          "titre": "New Trademark Seemingly Reveals The Title For Lies Of P Sequel"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/lies-of-p-studio-neowiz-has-filed-a-trademark-for-wonders-of-o-an-apparent-wizard-of-oz-themed-sequel/",
-          "titre": "Lies of P studio Neowiz has filed a trademark for Wonders of O, an apparent Wizard of Oz themed sequel"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/lies-of-p-publisher-files-trademark-for-likely-sequel-wonders-of-o/",
-          "titre": "Lies of P publisher files trademark for likely sequel 'Wonders of O'"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/rayman-legends-remake-retold-release-date-delay",
+          "titre": "Ubisoft delays Rayman Legends remake Retold a couple of months \"to make sure every detail gets the care it deserves\""
         },
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/lies-of-p-sequel-name-potentially-outed-in-trademark-filing",
-          "titre": "Lies of P Sequel Name Potentially Outed in Trademark Filing"
+          "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-now-out-in-december-ps5-remake-delayed-two-months",
+          "titre": "Rayman Legends Retold Now Out in December, PS5 Remake Delayed Two Months"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/rayman-legends-retold-has-been-delayed",
+          "titre": "Rayman Legends Retold Has Been Delayed"
         }
       ]
     },
@@ -162,8 +150,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 2.7,
-      "chaleur": 13,
+      "heures": 4.7,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Eurogamer",
@@ -178,30 +166,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sony-letter-spells-the-end-for-unreleased-the-last-of-us-par",
-      "titre": "Sony letter spells the end for unreleased The Last of Us Part 2 multiplayer mod, its creator says",
-      "url": "https://www.rockpapershotgun.com/sony-letter-spells-the-end-for-unreleased-the-last-of-us-part-2-multiplayer-mod-its-creator-says",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 24.2,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/sony-letter-spells-the-end-for-unreleased-the-last-of-us-part-2-multiplayer-mod-its-creator-says",
-          "titre": "Sony letter spells the end for unreleased The Last of Us Part 2 multiplayer mod, its creator says"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/the-last-of-us-2-mod-cancelled-playstation",
-          "titre": "A multiplayer mod for The Last of Us 2 was reportedly cancelled \"at Sony's request\""
-        }
-      ]
-    },
-    {
       "id": "gta-6-s-first-confirmed-actor-is-king-of-the-hill-s-stephen",
       "titre": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\"",
       "url": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root",
@@ -210,7 +174,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 17.3,
+      "heures": 19.3,
       "chaleur": 9,
       "liens": [
         {
@@ -234,7 +198,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 23.2,
+      "heures": 25.1,
       "chaleur": 9,
       "liens": [
         {
@@ -250,6 +214,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "why-switching-main-characters-for-your-game-s-sequel-might-b",
+      "titre": "Why switching main characters for your game's sequel might be a mistake",
+      "url": "https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake",
+          "titre": "Why switching main characters for your game's sequel might be a mistake"
+        }
+      ]
+    },
+    {
+      "id": "valve-considered-making-a-new-vr-game-for-the-steam-frame-be",
+      "titre": "Valve considered making a new VR game for the Steam Frame, before tackling the \"ludicrous\" task of getting Half-Life: Alyx running standalone",
+      "url": "https://www.rockpapershotgun.com/valve-considered-making-a-new-vr-game-for-the-steam-frame-before-tackling-the-ludicrous-task-of-getting-half-life-alyx-running-standalone",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/valve-considered-making-a-new-vr-game-for-the-steam-frame-before-tackling-the-ludicrous-task-of-getting-half-life-alyx-running-standalone",
+          "titre": "Valve considered making a new VR game for the Steam Frame, before tackling the \"ludicrous\" task of getting Half-Life: Alyx running standalone"
+        }
+      ]
+    },
+    {
       "id": "the-steam-deck-2-has-not-really-been-impacted-by-the-memory",
       "titre": "The Steam Deck 2 has 'not really' been impacted by the memory supply crisis, with Valve still focused on a 'very delineated performance improvement' for its next handheld",
       "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-steam-deck-2-has-not-really-been-impacted-by-the-memory-supply-crisis-with-valve-still-focused-on-a-very-delineated-performance-improvement-for-its-next-handheld/",
@@ -257,7 +257,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 8,
       "liens": [
         {
@@ -276,7 +276,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 16.9,
+      "heures": 18.9,
       "chaleur": 8,
       "liens": [
         {
@@ -292,20 +292,164 @@ const VEILLE = {
       ]
     },
     {
-      "id": "zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-or",
-      "titre": "Zelda: Ocarina Of Time - Electric Ocarina Nintendo Store Pre-Orders Now Live (US)",
-      "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-orders-now-live-us",
+      "id": "cdpr-wants-to-make-the-witcher-3-remastered-feel-like-any-ot",
+      "titre": "CDPR wants to make The Witcher 3 Remastered feel like any other game released today: 'It's so easy to get used to these new improvements that it's hard to go back'",
+      "url": "https://www.pcgamer.com/games/the-witcher/cdpr-wants-to-make-the-witcher-3-remastered-feel-like-any-other-game-released-today-its-so-easy-to-get-used-to-these-new-improvements-that-its-hard-to-go-back/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/cdpr-wants-to-make-the-witcher-3-remastered-feel-like-any-other-game-released-today-its-so-easy-to-get-used-to-these-new-improvements-that-its-hard-to-go-back/",
+          "titre": "CDPR wants to make The Witcher 3 Remastered feel like any other game released today: 'It's so easy to get used to these new improvements that it's hard to go back'"
+        }
+      ]
+    },
+    {
+      "id": "blizzard-finally-told-players-where-the-big-sword-in-wow-wen",
+      "titre": "Blizzard finally told players where the big sword in WoW went after 8 years, and I'm just bummed out a reveal this cool was in an interview somewhere",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-finally-told-players-where-the-big-sword-in-wow-went-after-8-years-and-im-just-bummed-out-a-reveal-this-cool-was-in-an-interview-somewhere/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-finally-told-players-where-the-big-sword-in-wow-went-after-8-years-and-im-just-bummed-out-a-reveal-this-cool-was-in-an-interview-somewhere/",
+          "titre": "Blizzard finally told players where the big sword in WoW went after 8 years, and I'm just bummed out a reveal this cool was in an interview somewhere"
+        }
+      ]
+    },
+    {
+      "id": "preview-stupid-never-dies-is-a-hard-sell-but-it-could-offer",
+      "titre": "Preview: Stupid Never Dies Is a Hard Sell, But It Could Offer Weird Action Unlike Anything Else on PS5",
+      "url": "https://www.pushsquare.com/previews/stupid-never-dies-is-a-hard-sell-but-it-could-offer-weird-action-unlike-anything-else-on-ps5",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/previews/stupid-never-dies-is-a-hard-sell-but-it-could-offer-weird-action-unlike-anything-else-on-ps5",
+          "titre": "Preview: Stupid Never Dies Is a Hard Sell, But It Could Offer Weird Action Unlike Anything Else on PS5"
+        }
+      ]
+    },
+    {
+      "id": "in-less-than-a-week-wardogs-sells-2-million-copies-and-achie",
+      "titre": "In less than a week Wardogs sells 2 million copies and achieves over 400k concurrent players",
+      "url": "https://www.videogameschronicle.com/news/in-less-than-a-week-wardogs-sells-2-million-copies-and-achieves-over-400k-concurrent-players/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/in-less-than-a-week-wardogs-sells-2-million-copies-and-achieves-over-400k-concurrent-players/",
+          "titre": "In less than a week Wardogs sells 2 million copies and achieves over 400k concurrent players"
+        }
+      ]
+    },
+    {
+      "id": "bohemia-interactive-acquires-minority-stake-in-everwind-deve",
+      "titre": "Bohemia Interactive acquires minority stake in Everwind developer Enjoy Studio",
+      "url": "https://www.gamedeveloper.com/business/bohemia-interactive-acquires-minority-stake-in-everwind-developer-enjoy-studio",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/bohemia-interactive-acquires-minority-stake-in-everwind-developer-enjoy-studio",
+          "titre": "Bohemia Interactive acquires minority stake in Everwind developer Enjoy Studio"
+        }
+      ]
+    },
+    {
+      "id": "alien-deathstorm-s-intense-relentless-fps-action-was-a-surpr",
+      "titre": "Alien Deathstorm's intense, relentless FPS action was a surprise Gamescom highlight - even if it nearly made my brain explode",
+      "url": "https://www.eurogamer.net/alien-deathstorm-gamescom-preview",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/alien-deathstorm-gamescom-preview",
+          "titre": "Alien Deathstorm's intense, relentless FPS action was a surprise Gamescom highlight - even if it nearly made my brain explode"
+        }
+      ]
+    },
+    {
+      "id": "dragonheir-silent-gods-marks-third-anniversary-with-a-hero-i",
+      "titre": "Dragonheir: Silent Gods marks third anniversary with a hero its players helped create",
+      "url": "https://www.videogameschronicle.com/news/dragonheir-silent-gods-marks-third-anniversary-with-a-hero-its-players-helped-create/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/dragonheir-silent-gods-marks-third-anniversary-with-a-hero-its-players-helped-create/",
+          "titre": "Dragonheir: Silent Gods marks third anniversary with a hero its players helped create"
+        }
+      ]
+    },
+    {
+      "id": "get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-compl",
+      "titre": "Get Indie Cracker 'The Alters' on a PS5 Disc in Physical Complete Edition",
+      "url": "https://www.pushsquare.com/news/2026/09/get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-complete-edition",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-complete-edition",
+          "titre": "Get Indie Cracker 'The Alters' on a PS5 Disc in Physical Complete Edition"
+        }
+      ]
+    },
+    {
+      "id": "nightdive-studios-head-raises-hopes-of-an-eternal-darkness-r",
+      "titre": "Nightdive Studios Head Raises Hopes Of An Eternal Darkness Remaster",
+      "url": "https://www.nintendolife.com/news/2026/09/nightdive-studios-head-raises-hopes-of-an-eternal-darkness-remaster",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 7,
+      "heures": 1.9,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-orders-now-live-us",
-          "titre": "Zelda: Ocarina Of Time - Electric Ocarina Nintendo Store Pre-Orders Now Live (US)"
+          "url": "https://www.nintendolife.com/news/2026/09/nightdive-studios-head-raises-hopes-of-an-eternal-darkness-remaster",
+          "titre": "Nightdive Studios Head Raises Hopes Of An Eternal Darkness Remaster"
         }
       ]
     },
@@ -317,7 +461,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -335,7 +479,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -353,7 +497,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -371,7 +515,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -389,7 +533,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -407,139 +551,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/uk-charts-orbitals-floats-out-of-the-top-10-as-last-weeks-newbies-hold-down-the-podium",
           "titre": "UK Charts: Orbitals Floats Out Of The Top 10 As Last Week's Newbies Hold Down The Podium"
-        }
-      ]
-    },
-    {
-      "id": "as-civilization-7-devs-firaxis-prepare-to-unleash-the-nukes",
-      "titre": "As Civilization 7 devs Firaxis prepare to unleash the nukes, the strategy game's latest update whips out a fresh take on the classic Real Earth map",
-      "url": "https://www.rockpapershotgun.com/as-civilization-7-devs-firaxis-prepare-to-unleash-the-nukes-the-strategy-games-latest-update-whips-out-a-fresh-take-on-the-classic-real-earth-map",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/as-civilization-7-devs-firaxis-prepare-to-unleash-the-nukes-the-strategy-games-latest-update-whips-out-a-fresh-take-on-the-classic-real-earth-map",
-          "titre": "As Civilization 7 devs Firaxis prepare to unleash the nukes, the strategy game's latest update whips out a fresh take on the classic Real Earth map"
-        }
-      ]
-    },
-    {
-      "id": "everything-we-ve-gleaned-about-diablo-5-since-its-blizzcon-2",
-      "titre": "Everything we've gleaned about Diablo 5 since its BlizzCon 2026 reveal - a game that appears to be much more than Diablo 4.5",
-      "url": "https://www.eurogamer.net/diablo-5-all-gameplay-details",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/diablo-5-all-gameplay-details",
-          "titre": "Everything we've gleaned about Diablo 5 since its BlizzCon 2026 reveal - a game that appears to be much more than Diablo 4.5"
-        }
-      ]
-    },
-    {
-      "id": "we-ve-been-100-listening-insomniac-already-acting-on-marvel",
-      "titre": "'We've Been 100% Listening': Insomniac Already Acting on Marvel's Wolverine Criticisms",
-      "url": "https://www.pushsquare.com/news/2026/09/weve-been-100percent-listening-insomniac-already-acting-on-marvels-wolverine-criticisms",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/weve-been-100percent-listening-insomniac-already-acting-on-marvels-wolverine-criticisms",
-          "titre": "'We've Been 100% Listening': Insomniac Already Acting on Marvel's Wolverine Criticisms"
-        }
-      ]
-    },
-    {
-      "id": "team17-owner-everplay-increases-shareholding-in-wardogs-dev",
-      "titre": "Team17 owner Everplay increases shareholding in Wardogs dev Bulkhead, touts strong FY26 results",
-      "url": "https://www.gamesindustry.biz/team17-owner-everplay-increases-shareholding-in-wardogs-dev-bulkhead-touts-strong-fy26-results",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/team17-owner-everplay-increases-shareholding-in-wardogs-dev-bulkhead-touts-strong-fy26-results",
-          "titre": "Team17 owner Everplay increases shareholding in Wardogs dev Bulkhead, touts strong FY26 results"
-        }
-      ]
-    },
-    {
-      "id": "phantasy-star-online-is-now-fully-playable-in-your-web-brows",
-      "titre": "Phantasy Star Online is now fully playable in your web browser via PSO Reborn",
-      "url": "https://www.videogameschronicle.com/news/phantasy-star-online-is-now-fully-playable-in-your-web-browser-via-pso-reborn/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/phantasy-star-online-is-now-fully-playable-in-your-web-browser-via-pso-reborn/",
-          "titre": "Phantasy Star Online is now fully playable in your web browser via PSO Reborn"
-        }
-      ]
-    },
-    {
-      "id": "4-new-september-2026-ps-plus-extra-premium-games-available-t",
-      "titre": "4 New September 2026 PS Plus Extra, Premium Games Available to Download Now",
-      "url": "https://www.pushsquare.com/news/2026/09/4-new-september-2026-ps-plus-extra-premium-games-available-to-download-now",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/4-new-september-2026-ps-plus-extra-premium-games-available-to-download-now",
-          "titre": "4 New September 2026 PS Plus Extra, Premium Games Available to Download Now"
-        }
-      ]
-    },
-    {
-      "id": "injustice-3-is-seemingly-the-mysterious-unannounced-fighting",
-      "titre": "Injustice 3 is seemingly the mysterious, unannounced fighting game that's been hosting playtests in California",
-      "url": "https://www.eurogamer.net/injustice-3-playtests-leak",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/injustice-3-playtests-leak",
-          "titre": "Injustice 3 is seemingly the mysterious, unannounced fighting game that's been hosting playtests in California"
         }
       ]
     },
@@ -551,7 +569,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.4,
       "chaleur": 6,
       "liens": [
         {
@@ -569,13 +587,31 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/asha-sharma-has-been-personally-responding-to-xbox-users-support-tickets/",
           "titre": "Asha Sharma ‘has been personally responding to Xbox users’ support tickets’"
+        }
+      ]
+    },
+    {
+      "id": "zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-or",
+      "titre": "Zelda: Ocarina Of Time - Electric Ocarina Nintendo Store Pre-Orders Now Live (US)",
+      "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-orders-now-live-us",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-orders-now-live-us",
+          "titre": "Zelda: Ocarina Of Time - Electric Ocarina Nintendo Store Pre-Orders Now Live (US)"
         }
       ]
     },
@@ -587,7 +623,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.8,
+      "heures": 20.7,
       "chaleur": 6,
       "liens": [
         {
@@ -605,7 +641,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.8,
       "chaleur": 6,
       "liens": [
         {
@@ -624,7 +660,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 25.7,
+      "heures": 27.6,
       "chaleur": 6,
       "liens": [
         {
@@ -647,31 +683,13 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 26.2,
+      "heures": 28.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs",
           "titre": "Worker-run studio KO_OP confirms layoffs"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-updates-zelda-timeline-seemingly-confirming-a-fan-t",
-      "titre": "Nintendo Updates Zelda Timeline, Seemingly Confirming A Fan Theory",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-updates-zelda-timeline-seemingly-confirming-a-fan-theory",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 26.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendo-updates-zelda-timeline-seemingly-confirming-a-fan-theory",
-          "titre": "Nintendo Updates Zelda Timeline, Seemingly Confirming A Fan Theory"
         }
       ]
     },
@@ -683,13 +701,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.6,
       "chaleur": 5,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
           "titre": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest"
+        }
+      ]
+    },
+    {
+      "id": "the-steam-frame-launches-during-one-of-the-slowest-periods-f",
+      "titre": "The Steam Frame launches during one of the slowest periods for VR on Steam, but Valve hopes to 'rekindle the excitement' for PCVR",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/the-steam-frame-launches-during-one-of-the-slowest-periods-for-vr-on-steam-but-valve-hopes-to-rekindle-the-excitement-for-pcvr/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 19.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/the-steam-frame-launches-during-one-of-the-slowest-periods-for-vr-on-steam-but-valve-hopes-to-rekindle-the-excitement-for-pcvr/",
+          "titre": "The Steam Frame launches during one of the slowest periods for VR on Steam, but Valve hopes to 'rekindle the excitement' for PCVR"
         }
       ]
     },
@@ -701,7 +737,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.4,
       "chaleur": 5,
       "liens": [
         {
@@ -719,49 +755,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.5,
+      "heures": 20.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/marathon-pve-mode-delay-bungie-major-update",
           "titre": "Marathon's permanent PvE mode and next major update delayed to December days before launch, and Bungie's \"moving away from a strict season schedule\""
-        }
-      ]
-    },
-    {
-      "id": "valve-targeted-a-lower-price-for-the-steam-frame-then-the-me",
-      "titre": "Valve targeted a lower price for the Steam Frame, then the memory crisis happened: 'I wish we could have shipped it at the price that we were at last year'",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-targeted-a-lower-price-for-the-steam-frame-then-the-memory-crisis-happened-i-wish-we-could-have-shipped-it-at-the-price-that-we-were-at-last-year/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 18.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-targeted-a-lower-price-for-the-steam-frame-then-the-memory-crisis-happened-i-wish-we-could-have-shipped-it-at-the-price-that-we-were-at-last-year/",
-          "titre": "Valve targeted a lower price for the Steam Frame, then the memory crisis happened: 'I wish we could have shipped it at the price that we were at last year'"
-        }
-      ]
-    },
-    {
-      "id": "valve-working-on-steam-frame-strap-that-adds-index-like-spea",
-      "titre": "Valve working on Steam Frame strap that adds Index-like speakers and hot-swappable batteries, 'coming soon'",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-working-on-steam-frame-strap-that-adds-index-like-speakers-and-hot-swappable-batteries-coming-soon/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 19.3,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-working-on-steam-frame-strap-that-adds-index-like-speakers-and-hot-swappable-batteries-coming-soon/",
-          "titre": "Valve working on Steam Frame strap that adds Index-like speakers and hot-swappable batteries, 'coming soon'"
         }
       ]
     },
@@ -773,7 +773,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.4,
       "chaleur": 5,
       "liens": [
         {
@@ -791,7 +791,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.4,
       "chaleur": 5,
       "liens": [
         {
@@ -809,7 +809,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.4,
       "chaleur": 5,
       "liens": [
         {
@@ -827,7 +827,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.9,
+      "heures": 22.9,
       "chaleur": 5,
       "liens": [
         {
@@ -845,7 +845,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.2,
+      "heures": 23.1,
       "chaleur": 5,
       "liens": [
         {
@@ -863,7 +863,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.8,
+      "heures": 23.7,
       "chaleur": 5,
       "liens": [
         {
@@ -881,7 +881,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 22.7,
+      "heures": 24.6,
       "chaleur": 5,
       "liens": [
         {
@@ -899,7 +899,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 26.4,
       "chaleur": 5,
       "liens": [
         {
@@ -917,13 +917,139 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.8,
+      "heures": 26.8,
       "chaleur": 5,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/roblox-plan-to-grow-their-absurd-gaming-empire-even-further-by-letting-devs-release-games-as-standalone-apps-potentially-via-steam-epic-and-gog",
           "titre": "Roblox plan to grow their absurd gaming empire even further by letting devs release games as \"standalone apps\", potentially via Steam, Epic, and GOG"
+        }
+      ]
+    },
+    {
+      "id": "as-civilization-7-devs-firaxis-prepare-to-unleash-the-nukes",
+      "titre": "As Civilization 7 devs Firaxis prepare to unleash the nukes, the strategy game's latest update whips out a fresh take on the classic Real Earth map",
+      "url": "https://www.rockpapershotgun.com/as-civilization-7-devs-firaxis-prepare-to-unleash-the-nukes-the-strategy-games-latest-update-whips-out-a-fresh-take-on-the-classic-real-earth-map",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/as-civilization-7-devs-firaxis-prepare-to-unleash-the-nukes-the-strategy-games-latest-update-whips-out-a-fresh-take-on-the-classic-real-earth-map",
+          "titre": "As Civilization 7 devs Firaxis prepare to unleash the nukes, the strategy game's latest update whips out a fresh take on the classic Real Earth map"
+        }
+      ]
+    },
+    {
+      "id": "everything-we-ve-gleaned-about-diablo-5-since-its-blizzcon-2",
+      "titre": "Everything we've gleaned about Diablo 5 since its BlizzCon 2026 reveal - a game that appears to be much more than Diablo 4.5",
+      "url": "https://www.eurogamer.net/diablo-5-all-gameplay-details",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/diablo-5-all-gameplay-details",
+          "titre": "Everything we've gleaned about Diablo 5 since its BlizzCon 2026 reveal - a game that appears to be much more than Diablo 4.5"
+        }
+      ]
+    },
+    {
+      "id": "we-ve-been-100-listening-insomniac-already-acting-on-marvel",
+      "titre": "'We've Been 100% Listening': Insomniac Already Acting on Marvel's Wolverine Criticisms",
+      "url": "https://www.pushsquare.com/news/2026/09/weve-been-100percent-listening-insomniac-already-acting-on-marvels-wolverine-criticisms",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/weve-been-100percent-listening-insomniac-already-acting-on-marvels-wolverine-criticisms",
+          "titre": "'We've Been 100% Listening': Insomniac Already Acting on Marvel's Wolverine Criticisms"
+        }
+      ]
+    },
+    {
+      "id": "team17-owner-everplay-increases-shareholding-in-wardogs-dev",
+      "titre": "Team17 owner Everplay increases shareholding in Wardogs dev Bulkhead, touts strong FY26 results",
+      "url": "https://www.gamesindustry.biz/team17-owner-everplay-increases-shareholding-in-wardogs-dev-bulkhead-touts-strong-fy26-results",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/team17-owner-everplay-increases-shareholding-in-wardogs-dev-bulkhead-touts-strong-fy26-results",
+          "titre": "Team17 owner Everplay increases shareholding in Wardogs dev Bulkhead, touts strong FY26 results"
+        }
+      ]
+    },
+    {
+      "id": "phantasy-star-online-is-now-fully-playable-in-your-web-brows",
+      "titre": "Phantasy Star Online is now fully playable in your web browser via PSO Reborn",
+      "url": "https://www.videogameschronicle.com/news/phantasy-star-online-is-now-fully-playable-in-your-web-browser-via-pso-reborn/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/phantasy-star-online-is-now-fully-playable-in-your-web-browser-via-pso-reborn/",
+          "titre": "Phantasy Star Online is now fully playable in your web browser via PSO Reborn"
+        }
+      ]
+    },
+    {
+      "id": "4-new-september-2026-ps-plus-extra-premium-games-available-t",
+      "titre": "4 New September 2026 PS Plus Extra, Premium Games Available to Download Now",
+      "url": "https://www.pushsquare.com/news/2026/09/4-new-september-2026-ps-plus-extra-premium-games-available-to-download-now",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/4-new-september-2026-ps-plus-extra-premium-games-available-to-download-now",
+          "titre": "4 New September 2026 PS Plus Extra, Premium Games Available to Download Now"
+        }
+      ]
+    },
+    {
+      "id": "injustice-3-is-seemingly-the-mysterious-unannounced-fighting",
+      "titre": "Injustice 3 is seemingly the mysterious, unannounced fighting game that's been hosting playtests in California",
+      "url": "https://www.eurogamer.net/injustice-3-playtests-leak",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/injustice-3-playtests-leak",
+          "titre": "Injustice 3 is seemingly the mysterious, unannounced fighting game that's been hosting playtests in California"
         }
       ]
     },
@@ -935,7 +1061,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +1079,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -971,8 +1097,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -989,8 +1115,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1007,8 +1133,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1025,8 +1151,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1043,8 +1169,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1052,154 +1178,10 @@ const VEILLE = {
           "titre": "‘Fans deserve this’: Sega is turning more of its games into movies with Netflix"
         }
       ]
-    },
-    {
-      "id": "marvel-s-wolverine-all-whisky-bottle-locations-find-every-wh",
-      "titre": "Marvel’s Wolverine All Whisky Bottle Locations: Find every Whisky Bottle in Marvel’s Wolverine",
-      "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-all-whisky-bottle-locations-find-every-whisky-bottle-in-marvels-wolverine/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-all-whisky-bottle-locations-find-every-whisky-bottle-in-marvels-wolverine/",
-          "titre": "Marvel’s Wolverine All Whisky Bottle Locations: Find every Whisky Bottle in Marvel’s Wolverine"
-        }
-      ]
-    },
-    {
-      "id": "arc-raiders-expeditions-may-not-come-back-maybe-we-ll-scrap",
-      "titre": "Arc Raiders Expeditions may not come back: 'Maybe we'll scrap the whole system'",
-      "url": "https://www.pcgamer.com/games/fps/arc-raiders-expeditions-may-not-come-back-maybe-well-scrap-the-whole-system/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/arc-raiders-expeditions-may-not-come-back-maybe-well-scrap-the-whole-system/",
-          "titre": "Arc Raiders Expeditions may not come back: 'Maybe we'll scrap the whole system'"
-        }
-      ]
-    },
-    {
-      "id": "wardogs-players-are-actively-avoiding-one-team-in-particular",
-      "titre": "Wardogs players are actively avoiding one team in particular: 'They are literally the dumbest people on the planet'",
-      "url": "https://www.pcgamer.com/games/fps/wardogs-players-are-actively-avoiding-one-team-in-particular-they-are-literally-the-dumbest-people-on-the-planet/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 16.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/wardogs-players-are-actively-avoiding-one-team-in-particular-they-are-literally-the-dumbest-people-on-the-planet/",
-          "titre": "Wardogs players are actively avoiding one team in particular: 'They are literally the dumbest people on the planet'"
-        }
-      ]
-    },
-    {
-      "id": "level-5-ceo-admits-using-generative-ai-in-recent-showcase",
-      "titre": "Level-5 CEO admits using generative AI in recent showcase",
-      "url": "https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 16.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase",
-          "titre": "Level-5 CEO admits using generative AI in recent showcase"
-        }
-      ]
-    },
-    {
-      "id": "the-king-is-watching-devs-are-making-the-crab-is-walking-thi",
-      "titre": "The King Is Watching devs are making The Crab is Walking, this journalist is writing",
-      "url": "https://www.rockpapershotgun.com/the-king-is-watching-devs-are-making-the-crab-is-walking-this-journalist-is-writing",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 16.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-king-is-watching-devs-are-making-the-crab-is-walking-this-journalist-is-writing",
-          "titre": "The King Is Watching devs are making The Crab is Walking, this journalist is writing"
-        }
-      ]
-    },
-    {
-      "id": "we-track-every-server-you-enter-the-wardogs-devs-are-coming",
-      "titre": "\"We track every server you enter\": the Wardogs devs are \"coming down hard\" on XP farms and cash exploits, even as they encourage people to grind",
-      "url": "https://www.rockpapershotgun.com/we-track-every-server-you-enter-the-wardogs-devs-are-coming-down-hard-on-xp-farms-and-cash-exploits-even-as-they-encourage-people-to-grind",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/we-track-every-server-you-enter-the-wardogs-devs-are-coming-down-hard-on-xp-farms-and-cash-exploits-even-as-they-encourage-people-to-grind",
-          "titre": "\"We track every server you enter\": the Wardogs devs are \"coming down hard\" on XP farms and cash exploits, even as they encourage people to grind"
-        }
-      ]
-    },
-    {
-      "id": "poll-10-years-later-is-persona-5-a-true-jrpg-masterpiece",
-      "titre": "Poll: 10 Years Later, Is Persona 5 a True JRPG Masterpiece?",
-      "url": "https://www.pushsquare.com/features/poll-10-years-later-is-persona-5-a-true-jrpg-masterpiece",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/poll-10-years-later-is-persona-5-a-true-jrpg-masterpiece",
-          "titre": "Poll: 10 Years Later, Is Persona 5 a True JRPG Masterpiece?"
-        }
-      ]
-    },
-    {
-      "id": "valve-had-next-gen-vr-headsets-ready-three-four-years-ago-an",
-      "titre": "Valve had next-gen VR 'headsets ready three, four years ago and they were big, bulky devices' but went back to the drawing board after actually putting them on",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-had-next-gen-vr-headsets-ready-three-four-years-ago-and-they-were-big-bulky-devices-but-went-back-to-the-drawing-board-after-actually-putting-them-on/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 18.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-had-next-gen-vr-headsets-ready-three-four-years-ago-and-they-were-big-bulky-devices-but-went-back-to-the-drawing-board-after-actually-putting-them-on/",
-          "titre": "Valve had next-gen VR 'headsets ready three, four years ago and they were big, bulky devices' but went back to the drawing board after actually putting them on"
-        }
-      ]
     }
   ],
   "alertes": [
-    "Ubisoft delays Rayman Legends remake Retold a couple of months \"to make sure every detail gets the care it deserves\"",
-    "Sega and Netflix announce partnership to develop Crazy Taxi, Sonic, and Stranger Than Heaven adaptations"
+    "Steam Deck 2 plans aren't affected by ongoing component crisis, Valve maintains, as Steam Frame arrives later and more expensive than expected",
+    "Lies of P's sequel is a Wizard of Oz homage called Wonders of O, going by a Neowiz trademark, and probably not a videogame based on a famous work of French erotica"
   ]
 };
