@@ -1,42 +1,6 @@
 /* Généré par illustrations.py et steam.py — ne pas modifier à la main.
    Chaque entrée porte l'attribution exigée par sa source. */
 const ILLUSTRATIONS = {
-  "zelda-40-ocarina": {
-    "fichier": "assets/img/photos/zelda-40-ocarina-4.png",
-    "credit": "Photo : PantheraLeo1359531, CC BY 4.0, via Wikimedia Commons",
-    "lien": "https://commons.wikimedia.org/wiki/File:Nintendo_Switch_2_20250605_HOF4599_RAW-Export.png",
-    "licence": "CC BY 4.0",
-    "recherche": "Nintendo Switch 2 console",
-    "nom": "Nintendo Switch 2 20250605 HOF4599 RAW-Export.png",
-    "candidats": [
-      {
-        "fichier": "assets/img/photos/zelda-40-ocarina-4.png",
-        "credit": "Photo : PantheraLeo1359531, CC BY 4.0, via Wikimedia Commons",
-        "lien": "https://commons.wikimedia.org/wiki/File:Nintendo_Switch_2_20250605_HOF4599_RAW-Export.png",
-        "licence": "CC BY 4.0",
-        "recherche": "Nintendo Switch 2 console",
-        "nom": "Nintendo Switch 2 20250605 HOF4599 RAW-Export.png"
-      }
-    ]
-  },
-  "oot-encore-jouable": {
-    "fichier": "assets/img/photos/oot-encore-jouable-2.jpg",
-    "credit": "Photo : 0x010C, CC BY-SA 4.0, via Wikimedia Commons",
-    "lien": "https://commons.wikimedia.org/wiki/File:2016-01_Ocarina_front.jpg",
-    "licence": "CC BY-SA 4.0",
-    "recherche": "ocarina instrument",
-    "nom": "2016-01 Ocarina front.jpg",
-    "candidats": [
-      {
-        "fichier": "assets/img/photos/oot-encore-jouable-2.jpg",
-        "credit": "Photo : 0x010C, CC BY-SA 4.0, via Wikimedia Commons",
-        "lien": "https://commons.wikimedia.org/wiki/File:2016-01_Ocarina_front.jpg",
-        "licence": "CC BY-SA 4.0",
-        "recherche": "ocarina instrument",
-        "nom": "2016-01 Ocarina front.jpg"
-      }
-    ]
-  },
   "horizon-hunters": {
     "fichier": "assets/img/photos/horizon-hunters.jpg",
     "credit": "Photo : Skorp24, CC BY-SA 4.0, via Wikimedia Commons",

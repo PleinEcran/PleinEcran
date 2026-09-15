@@ -33,6 +33,13 @@ import json
 import pathlib
 import sys
 
+# Sur Windows, la console n'est pas en UTF-8 par défaut : sans ça, print()
+# plante dès qu'un titre ou une citation contient un caractère hors cp1252
+# (accents japonais translittérés, guillemets typographiques…), en plein
+# milieu du script, avant que les fichiers aient été réécrits.
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+
 RACINE = pathlib.Path(__file__).parent
 JOURNAL = RACINE / "console" / "journal.json"
 BROUILLONS = RACINE / "console" / "brouillons.js"
