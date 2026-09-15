@@ -1,7 +1,156 @@
 {
   "version": 1,
-  "maj": "2026-09-15T22:38:13.220Z",
-  "commandes": [],
+  "maj": "2026-09-15T22:57:16.021Z",
+  "commandes": [
+    {
+      "id": "mu2xpp9ejd1q3",
+      "type": "article",
+      "source": "marathon-s-next-major-update-runs-a-few-months-further-away",
+      "titre": "Marathon's next major update runs a few months further away, permanent PvE in hand, as Bungie ditch their \"strict seasonal schedule\"",
+      "url": "https://www.rockpapershotgun.com/marathons-next-major-update-runs-a-few-months-further-away-permanent-pve-in-hand-as-bungie-ditch-their-strict-seasonal-schedule",
+      "sources": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/marathons-next-major-update-runs-a-few-months-further-away-permanent-pve-in-hand-as-bungie-ditch-their-strict-seasonal-schedule"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/marathon-pve-mode-delay-bungie-major-update"
+        }
+      ],
+      "note": "",
+      "statut": "demande",
+      "cree": "2026-09-15T17:17:19.010Z"
+    },
+    {
+      "id": "mu2xpn267lo8b",
+      "type": "article",
+      "source": "steam-deck-2-plans-still-on-track-despite-ram-crisis-and-hig",
+      "titre": "Steam Deck 2 plans still on track despite RAM crisis and higher prices",
+      "url": "https://www.videogameschronicle.com/news/steam-deck-2-plans-still-on-track-despite-ram-crisis-and-higher-prices/",
+      "sources": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/steam-deck-2-plans-still-on-track-despite-ram-crisis-and-higher-prices/"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/valve-steam-deck-2-plans-component-crisis"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/extended-reality/valve-s-steam-frame-will-retail-for-1-059"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/valve-opens-waiting-list-for-steam-frame-starting-at-1059"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/valves-steam-frame-vr-headset-opens-for-orders-with-the-cheapest-model-priced-at-a-lenswatering-889-1059"
+        }
+      ],
+      "note": "",
+      "statut": "demande",
+      "cree": "2026-09-15T17:17:16.158Z"
+    },
+    {
+      "id": "mu1scz6twdezy",
+      "type": "article",
+      "source": "gta-6-s-first-confirmed-actor-is-king-of-the-hill-s-stephen",
+      "titre": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\"",
+      "url": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root",
+      "sources": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/the-first-gta-6-actor-has-confirmed-their-involvement-and-nobodys-surprised"
+        }
+      ],
+      "note": "neutre",
+      "statut": "demande",
+      "cree": "2026-09-14T21:59:41.093Z"
+    },
+    {
+      "id": "mu1scxkqub8ue",
+      "type": "article",
+      "source": "level-5-ceo-admits-using-generative-ai-in-recent-showcase",
+      "titre": "Level-5 CEO admits using generative AI in recent showcase",
+      "url": "https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase",
+      "sources": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/level-5-ceo-apologises-generative-ai-professor-layton-yo-kai-watch"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/level-5-boss-admits-using-ai-for-professor-layton-yo-kai-watch-reveals/"
+        }
+      ],
+      "note": "On est pas pour l'utilisation de l'IA de manière général notamment pour des raisons écologiques et morale (vole de donnée, droit d'auteur, etc...)",
+      "statut": "demande",
+      "cree": "2026-09-14T21:59:39.002Z"
+    },
+    {
+      "id": "mu1sctz54hca2",
+      "type": "article",
+      "source": "more-than-40-of-people-cancelling-xbox-game-pass-playstation",
+      "titre": "More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online subscriptions blame rising costs",
+      "url": "https://www.gamesindustry.biz/more-than-40-of-people-cancelling-xbox-game-pass-playstation-plus-and-nintendo-switch-online-subscriptions-blame-rising-costs",
+      "sources": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/more-than-40-of-people-cancelling-xbox-game-pass-playstation-plus-and-nintendo-switch-online-subscriptions-blame-rising-costs"
+        }
+      ],
+      "note": "",
+      "statut": "demande",
+      "cree": "2026-09-14T21:59:34.337Z"
+    },
+    {
+      "id": "mu1sc7tyth5sp",
+      "type": "article",
+      "source": "a-starcraft-open-world-shooter-that-s-deadwood-in-space-diab",
+      "titre": "A StarCraft open-world shooter that's \"Deadwood in space\", Diablo 5, and a new classic-ish World of Warcraft branch out this year make up Blizzard of reveals",
+      "url": "https://www.rockpapershotgun.com/a-starcraft-open-world-shooter-thats-deadwood-in-space-diablo-5-and-a-new-classic-ish-world-of-warcraft-branch-out-this-year-make-up-blizzard-of-reveals",
+      "sources": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/a-starcraft-open-world-shooter-thats-deadwood-in-space-diablo-5-and-a-new-classic-ish-world-of-warcraft-branch-out-this-year-make-up-blizzard-of-reveals"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/new-starcraft-title-to-launch-in-2030-will-be-an-open-world-fps"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/diablo-5-and-a-new-starcraft-game-revealed-but-will-they-be-on-ps6"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/world-of-warcraft-forever-announced-blizzcon-2026-classic-plus"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/blizzard-announced-diablo-and-starcraft-games-that-are-years-away-to-show-confidence/"
+        }
+      ],
+      "note": "",
+      "statut": "demande",
+      "cree": "2026-09-14T21:59:05.638Z"
+    }
+  ],
   "idees": [],
   "avis": {
     "steam-frame-ram": {
