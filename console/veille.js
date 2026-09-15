@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "15/09/2026 à 18h21",
+  "collecte": "15/09/2026 à 20h20",
   "seuil": 14,
   "sujets": [
     {
@@ -15,8 +15,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 5,
-      "heures": 3.1,
-      "chaleur": 20,
+      "heures": 5.1,
+      "chaleur": 18,
       "liens": [
         {
           "source": "VGC",
@@ -46,27 +46,21 @@ const VEILLE = {
       ]
     },
     {
-      "id": "marathon-s-next-major-update-runs-a-few-months-further-away",
-      "titre": "Marathon's next major update runs a few months further away, permanent PvE in hand, as Bungie ditch their \"strict seasonal schedule\"",
-      "url": "https://www.rockpapershotgun.com/marathons-next-major-update-runs-a-few-months-further-away-permanent-pve-in-hand-as-bungie-ditch-their-strict-seasonal-schedule",
+      "id": "bungie-is-overhauling-marathon-from-its-original-extraction",
+      "titre": "Bungie is overhauling Marathon from its original extraction shooter vision",
+      "url": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
       "sources": [
         "Eurogamer",
-        "Push Square",
-        "Rock Paper Shotgun"
+        "Game Developer"
       ],
-      "reprises": 3,
-      "heures": 2.9,
-      "chaleur": 14,
+      "reprises": 2,
+      "heures": 1.3,
+      "chaleur": 11,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/marathons-next-major-update-runs-a-few-months-further-away-permanent-pve-in-hand-as-bungie-ditch-their-strict-seasonal-schedule",
-          "titre": "Marathon's next major update runs a few months further away, permanent PvE in hand, as Bungie ditch their \"strict seasonal schedule\""
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
-          "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
+          "titre": "Bungie is overhauling Marathon from its original extraction shooter vision"
         },
         {
           "source": "Eurogamer",
@@ -84,7 +78,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 8.7,
+      "heures": 10.7,
       "chaleur": 11,
       "liens": [
         {
@@ -109,7 +103,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 10,
       "liens": [
         {
@@ -139,7 +133,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 3,
-      "heures": 7.6,
+      "heures": 9.5,
       "chaleur": 10,
       "liens": [
         {
@@ -160,20 +154,50 @@ const VEILLE = {
       ]
     },
     {
-      "id": "multiple-music-artists-tease-gta-6-collaborations",
-      "titre": "Multiple Music Artists Tease GTA 6 Collaborations",
-      "url": "https://www.pushsquare.com/news/2026/09/multiple-music-artists-tease-gta-6-collaborations",
+      "id": "roblox-will-allow-devs-to-release-games-as-standalone-apps-o",
+      "titre": "Roblox will allow devs to release games as standalone apps on other stores",
+      "url": "https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores",
       "sources": [
-        "Push Square"
+        "Game Developer",
+        "GamesIndustry.biz"
       ],
-      "reprises": 1,
-      "heures": 2.6,
+      "reprises": 2,
+      "heures": 0.5,
       "chaleur": 9,
       "liens": [
         {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores",
+          "titre": "Roblox will allow devs to release games as standalone apps on other stores"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/roblox-creators-will-soon-be-able-to-publish-games-on-multiple-platforms-as-standalone-apps",
+          "titre": "Roblox creators will soon be able to publish games on multiple platforms as standalone apps"
+        }
+      ]
+    },
+    {
+      "id": "marathon-s-next-major-update-runs-a-few-months-further-away",
+      "titre": "Marathon's next major update runs a few months further away, permanent PvE in hand, as Bungie ditch their \"strict seasonal schedule\"",
+      "url": "https://www.rockpapershotgun.com/marathons-next-major-update-runs-a-few-months-further-away-permanent-pve-in-hand-as-bungie-ditch-their-strict-seasonal-schedule",
+      "sources": [
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 4.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/marathons-next-major-update-runs-a-few-months-further-away-permanent-pve-in-hand-as-bungie-ditch-their-strict-seasonal-schedule",
+          "titre": "Marathon's next major update runs a few months further away, permanent PvE in hand, as Bungie ditch their \"strict seasonal schedule\""
+        },
+        {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/multiple-music-artists-tease-gta-6-collaborations",
-          "titre": "Multiple Music Artists Tease GTA 6 Collaborations"
+          "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
+          "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule"
         }
       ]
     },
@@ -186,7 +210,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 7.0,
+      "heures": 9.0,
       "chaleur": 9,
       "liens": [
         {
@@ -202,26 +226,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "moss-developer-polyarc-has-shut-down",
-      "titre": "Moss developer Polyarc has shut down",
-      "url": "https://www.gamedeveloper.com/business/moss-developer-polyarc-has-shut-down",
+      "id": "steam-reverses-porn-game-rating-it-mistakenly-gave-to-an-ind",
+      "titre": "Steam reverses porn game rating it mistakenly gave to an indie vampire RPG, and despite the stress it was a 'net positive' overall as wishlists on Steam 'basically doubled overnight'",
+      "url": "https://www.pcgamer.com/games/rpg/steam-reverses-porn-game-rating-it-mistakenly-gave-to-an-indie-vampire-rpg-and-despite-the-stress-it-was-a-net-positive-overall-as-wishlists-on-steam-basically-doubled-overnight/",
       "sources": [
-        "Game Developer",
-        "GamesIndustry.biz"
+        "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 29.1,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/moss-developer-polyarc-has-shut-down",
-          "titre": "Moss developer Polyarc has shut down"
-        },
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/steam-reverses-porn-game-rating-it-mistakenly-gave-to-an-indie-vampire-rpg-and-despite-the-stress-it-was-a-net-positive-overall-as-wishlists-on-steam-basically-doubled-overnight/",
+          "titre": "Steam reverses porn game rating it mistakenly gave to an indie vampire RPG, and despite the stress it was a 'net positive' overall as wishlists on Steam 'basically doubled overnight'"
+        }
+      ]
+    },
+    {
+      "id": "multiple-music-artists-tease-gta-6-collaborations",
+      "titre": "Multiple Music Artists Tease GTA 6 Collaborations",
+      "url": "https://www.pushsquare.com/news/2026/09/multiple-music-artists-tease-gta-6-collaborations",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 7,
+      "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/moss-developer-polyarc-games-announces-closure",
-          "titre": "Moss developer Polyarc Games announces closure"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/multiple-music-artists-tease-gta-6-collaborations",
+          "titre": "Multiple Music Artists Tease GTA 6 Collaborations"
+        }
+      ]
+    },
+    {
+      "id": "wardogs-delivers-what-battlefield-6-was-too-console-brained",
+      "titre": "Wardogs delivers what Battlefield 6 was too console-brained to pull off: A real server browser",
+      "url": "https://www.pcgamer.com/games/fps/wardogs-delivers-what-battlefield-6-was-too-console-brained-to-pull-off-a-real-server-browser/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/wardogs-delivers-what-battlefield-6-was-too-console-brained-to-pull-off-a-real-server-browser/",
+          "titre": "Wardogs delivers what Battlefield 6 was too console-brained to pull off: A real server browser"
+        }
+      ]
+    },
+    {
+      "id": "diablo-4-player-discovers-secret-diablo-2-easter-egg-in-its",
+      "titre": "Diablo 4 player discovers secret Diablo 2 easter egg in its new throwback season and now everyone is wondering what else Blizzard hid in there",
+      "url": "https://www.pcgamer.com/games/rpg/diablo-4-player-discovers-secret-diablo-2-easter-egg-in-its-new-throwback-season-and-now-everyone-is-wondering-what-else-blizzard-hid-in-there/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/diablo-4-player-discovers-secret-diablo-2-easter-egg-in-its-new-throwback-season-and-now-everyone-is-wondering-what-else-blizzard-hid-in-there/",
+          "titre": "Diablo 4 player discovers secret Diablo 2 easter egg in its new throwback season and now everyone is wondering what else Blizzard hid in there"
         }
       ]
     },
@@ -233,7 +305,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -251,7 +323,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -269,7 +341,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -280,20 +352,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-witcher-3-is-not-untouchable-story-director-says-of-chan",
-      "titre": "The Witcher 3 'is not untouchable,' story director says of changes in the upcoming remaster: 'I still find some places that I think maybe nowadays, I would do it differently'",
+      "id": "the-witcher-3-is-not-untouchable-story-director-says-of-the",
+      "titre": "The Witcher 3 'is not untouchable,' story director says of the upcoming expansion and remaster: 'I still find some places that I think maybe nowadays, I would do it differently'",
       "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3-is-not-untouchable-story-director-says-of-changes-in-the-upcoming-remaster-i-still-find-some-places-that-i-think-maybe-nowadays-i-would-do-it-differently/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3-is-not-untouchable-story-director-says-of-changes-in-the-upcoming-remaster-i-still-find-some-places-that-i-think-maybe-nowadays-i-would-do-it-differently/",
-          "titre": "The Witcher 3 'is not untouchable,' story director says of changes in the upcoming remaster: 'I still find some places that I think maybe nowadays, I would do it differently'"
+          "titre": "The Witcher 3 'is not untouchable,' story director says of the upcoming expansion and remaster: 'I still find some places that I think maybe nowadays, I would do it differently'"
         }
       ]
     },
@@ -305,7 +377,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -323,7 +395,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -341,7 +413,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -359,7 +431,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -377,7 +449,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
@@ -395,283 +467,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/two-point-museum-rides-and-relics-dlc-announced",
           "titre": "After riffing on Theme Hospital, Two Point Museum studio is tipping a hat to Bullfrog's classic Theme Park in its next DLC"
-        }
-      ]
-    },
-    {
-      "id": "we-re-not-transparent-and-we-re-not-honest-says-bulkhead-ce",
-      "titre": "‘We’re not transparent and we’re not honest,’ says Bulkhead CEO after Wardogs sells 2 million units",
-      "url": "https://www.videogameschronicle.com/news/were-not-transparent-and-were-not-honest-says-bulkhead-ceo-after-wardogs-sells-2-million-units/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/were-not-transparent-and-were-not-honest-says-bulkhead-ceo-after-wardogs-sells-2-million-units/",
-          "titre": "‘We’re not transparent and we’re not honest,’ says Bulkhead CEO after Wardogs sells 2 million units"
-        }
-      ]
-    },
-    {
-      "id": "sega-s-ongoing-effort-to-revive-crazy-taxi-now-appears-to-be",
-      "titre": "Sega's ongoing effort to revive Crazy Taxi now appears to be taking the form of… a movie?",
-      "url": "https://www.pcgamer.com/movies-tv/segas-ongoing-effort-to-revive-crazy-taxi-now-appears-to-be-taking-the-form-of-a-movie/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/segas-ongoing-effort-to-revive-crazy-taxi-now-appears-to-be-taking-the-form-of-a-movie/",
-          "titre": "Sega's ongoing effort to revive Crazy Taxi now appears to be taking the form of… a movie?"
-        }
-      ]
-    },
-    {
-      "id": "tim-willits-doesn-t-think-rideshare-s-generative-ai-is-damag",
-      "titre": "Tim Willits doesn't think Rideshare's generative AI is damaging Saber's reputation",
-      "url": "https://www.rockpapershotgun.com/tim-willits-doesnt-think-rideshares-generative-ai-is-damaging-sabers-reputation",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/tim-willits-doesnt-think-rideshares-generative-ai-is-damaging-sabers-reputation",
-          "titre": "Tim Willits doesn't think Rideshare's generative AI is damaging Saber's reputation"
-        }
-      ]
-    },
-    {
-      "id": "what-would-a-wow-2-give-you-that-world-of-warcraft-forever",
-      "titre": "\"What would a WoW 2 give you that World of Warcraft: Forever isn't already giving you?\" - Blizzard addresses the MMO elephant in the room",
-      "url": "https://www.eurogamer.net/blizzard-wow-2-sequel-forever",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blizzard-wow-2-sequel-forever",
-          "titre": "\"What would a WoW 2 give you that World of Warcraft: Forever isn't already giving you?\" - Blizzard addresses the MMO elephant in the room"
-        }
-      ]
-    },
-    {
-      "id": "give-barbie-s-dreamhouse-a-deep-clean-in-powerwash-simulator",
-      "titre": "Give Barbie's Dreamhouse a Deep Clean in PowerWash Simulator 2's Next DLC Pack",
-      "url": "https://www.pushsquare.com/news/2026/09/give-barbies-dreamhouse-a-deep-clean-in-powerwash-simulator-2s-next-dlc-pack",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/give-barbies-dreamhouse-a-deep-clean-in-powerwash-simulator-2s-next-dlc-pack",
-          "titre": "Give Barbie's Dreamhouse a Deep Clean in PowerWash Simulator 2's Next DLC Pack"
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-s-story-director-says-an-ideal-quest-is-constr",
-      "titre": "The Witcher 3's story director says an ideal quest is 'constructed in such a way that the player puts the controller away, stands up, and starts walking'",
-      "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3s-story-director-says-an-ideal-quest-is-constructed-in-such-a-way-that-the-player-puts-the-controller-away-stands-up-and-starts-walking/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3s-story-director-says-an-ideal-quest-is-constructed-in-such-a-way-that-the-player-puts-the-controller-away-stands-up-and-starts-walking/",
-          "titre": "The Witcher 3's story director says an ideal quest is 'constructed in such a way that the player puts the controller away, stands up, and starts walking'"
-        }
-      ]
-    },
-    {
-      "id": "serial-numbers-on-rtx-founders-edition-graphics-cards-includ",
-      "titre": "Serial numbers on RTX Founders Edition graphics cards, including PC Gamer's very own, are fading and apparently it's causing a problem with RMA requests",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/serial-numbers-on-rtx-founders-edition-graphics-cards-including-pc-gamers-very-own-are-fading-and-apparently-its-causing-a-problem-with-rma-requests/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/serial-numbers-on-rtx-founders-edition-graphics-cards-including-pc-gamers-very-own-are-fading-and-apparently-its-causing-a-problem-with-rma-requests/",
-          "titre": "Serial numbers on RTX Founders Edition graphics cards, including PC Gamer's very own, are fading and apparently it's causing a problem with RMA requests"
-        }
-      ]
-    },
-    {
-      "id": "the-best-total-war-game-is-getting-a-remaster-with-50-newly",
-      "titre": "The best Total War game is getting a remaster with 50 newly playable factions, modern visuals, and a full Japanese voiceover",
-      "url": "https://www.pcgamer.com/games/strategy/the-best-total-war-game-is-getting-a-remaster-with-50-newly-playable-factions-modern-visuals-and-a-full-japanese-voiceover/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/the-best-total-war-game-is-getting-a-remaster-with-50-newly-playable-factions-modern-visuals-and-a-full-japanese-voiceover/",
-          "titre": "The best Total War game is getting a remaster with 50 newly playable factions, modern visuals, and a full Japanese voiceover"
-        }
-      ]
-    },
-    {
-      "id": "why-does-this-prominent-washington-state-politician-think-vi",
-      "titre": "Why does this prominent Washington state politician think video games can be 'soft power?'",
-      "url": "https://www.gamedeveloper.com/business/why-does-this-prominent-washington-state-politician-think-video-games-can-be-soft-power-",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/why-does-this-prominent-washington-state-politician-think-video-games-can-be-soft-power-",
-          "titre": "Why does this prominent Washington state politician think video games can be 'soft power?'"
-        }
-      ]
-    },
-    {
-      "id": "paradox-s-grand-strategy-game-afterworld-hasn-t-got-a-fixed",
-      "titre": "Paradox's grand strategy game Afterworld hasn't got a fixed history, it changes with every playthrough",
-      "url": "https://www.rockpapershotgun.com/paradoxs-grand-strategy-game-afterworld-hasnt-got-a-fixed-history-it-changes-with-every-playthrough",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/paradoxs-grand-strategy-game-afterworld-hasnt-got-a-fixed-history-it-changes-with-every-playthrough",
-          "titre": "Paradox's grand strategy game Afterworld hasn't got a fixed history, it changes with every playthrough"
-        }
-      ]
-    },
-    {
-      "id": "control-resonant-designed-around-60fps-gameplay-on-ps5-and-p",
-      "titre": "Control Resonant Designed Around 60fps Gameplay on PS5 and PS5 Pro",
-      "url": "https://www.pushsquare.com/news/2026/09/control-resonant-designed-around-60fps-gameplay-on-ps5-and-ps5-pro",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/control-resonant-designed-around-60fps-gameplay-on-ps5-and-ps5-pro",
-          "titre": "Control Resonant Designed Around 60fps Gameplay on PS5 and PS5 Pro"
-        }
-      ]
-    },
-    {
-      "id": "european-commission-s-proposed-eu-kids-act-could-see-online",
-      "titre": "European Commission's proposed EU Kids Act could see online games forced to enact stricter age verification amid new rules around accounts for under 15s",
-      "url": "https://www.rockpapershotgun.com/european-commissions-proposed-eu-kids-act-could-see-online-games-forced-to-enact-stricter-age-verification-amid-new-rules-around-accounts-for-under-15s",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/european-commissions-proposed-eu-kids-act-could-see-online-games-forced-to-enact-stricter-age-verification-amid-new-rules-around-accounts-for-under-15s",
-          "titre": "European Commission's proposed EU Kids Act could see online games forced to enact stricter age verification amid new rules around accounts for under 15s"
-        }
-      ]
-    },
-    {
-      "id": "star-wars-galactic-racer-s-ps5-trophy-list-will-push-you-to",
-      "titre": "Star Wars: Galactic Racer's PS5 Trophy List Will Push You to the Limit for the Platinum",
-      "url": "https://www.pushsquare.com/news/2026/09/star-wars-galactic-racers-ps5-trophy-list-will-push-you-to-the-limit-for-the-platinum",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/star-wars-galactic-racers-ps5-trophy-list-will-push-you-to-the-limit-for-the-platinum",
-          "titre": "Star Wars: Galactic Racer's PS5 Trophy List Will Push You to the Limit for the Platinum"
-        }
-      ]
-    },
-    {
-      "id": "2017-s-pvp-action-game-for-honor-is-free-to-own-for-a-limite",
-      "titre": "2017’s PvP action game For Honor is free to own for a limited time on Ubisoft Connect",
-      "url": "https://www.videogameschronicle.com/news/2017s-pvp-action-game-for-honor-is-free-to-own-for-a-limited-time-on-ubisoft-connect/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/2017s-pvp-action-game-for-honor-is-free-to-own-for-a-limited-time-on-ubisoft-connect/",
-          "titre": "2017’s PvP action game For Honor is free to own for a limited time on Ubisoft Connect"
-        }
-      ]
-    },
-    {
-      "id": "toss-a-project-at-your-printer-vibe-coded-tool-allows-develo",
-      "titre": "Toss a project at your printer: vibe coded tool allows developer to throw stuff at his 3D printer in VR to begin printing",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/toss-a-project-at-your-printer-vibe-coded-tool-allows-developer-to-throw-stuff-at-his-3d-printer-in-vr-to-begin-printing/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/toss-a-project-at-your-printer-vibe-coded-tool-allows-developer-to-throw-stuff-at-his-3d-printer-in-vr-to-begin-printing/",
-          "titre": "Toss a project at your printer: vibe coded tool allows developer to throw stuff at his 3D printer in VR to begin printing"
         }
       ]
     },
@@ -683,7 +485,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.8,
       "chaleur": 6,
       "liens": [
         {
@@ -701,31 +503,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/valve-considered-making-a-new-vr-game-for-the-steam-frame-before-tackling-the-ludicrous-task-of-getting-half-life-alyx-running-standalone",
           "titre": "Valve considered making a new VR game for the Steam Frame, before tackling the \"ludicrous\" task of getting Half-Life: Alyx running standalone"
-        }
-      ]
-    },
-    {
-      "id": "the-steam-deck-2-has-not-really-been-impacted-by-the-memory",
-      "titre": "The Steam Deck 2 has 'not really' been impacted by the memory supply crisis, with Valve still focused on a 'very delineated performance improvement' for its next handheld",
-      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-steam-deck-2-has-not-really-been-impacted-by-the-memory-supply-crisis-with-valve-still-focused-on-a-very-delineated-performance-improvement-for-its-next-handheld/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-steam-deck-2-has-not-really-been-impacted-by-the-memory-supply-crisis-with-valve-still-focused-on-a-very-delineated-performance-improvement-for-its-next-handheld/",
-          "titre": "The Steam Deck 2 has 'not really' been impacted by the memory supply crisis, with Valve still focused on a 'very delineated performance improvement' for its next handheld"
         }
       ]
     },
@@ -737,7 +521,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 19.8,
       "chaleur": 6,
       "liens": [
         {
@@ -755,7 +539,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.3,
       "chaleur": 6,
       "liens": [
         {
@@ -773,7 +557,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 24.8,
+      "heures": 26.8,
       "chaleur": 6,
       "liens": [
         {
@@ -791,7 +575,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 32.2,
+      "heures": 34.1,
       "chaleur": 6,
       "liens": [
         {
@@ -809,7 +593,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 5,
       "liens": [
         {
@@ -827,7 +611,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.8,
       "chaleur": 5,
       "liens": [
         {
@@ -845,7 +629,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 26.3,
       "chaleur": 5,
       "liens": [
         {
@@ -863,7 +647,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 27.3,
       "chaleur": 5,
       "liens": [
         {
@@ -881,7 +665,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.3,
       "chaleur": 5,
       "liens": [
         {
@@ -899,7 +683,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.4,
+      "heures": 28.3,
       "chaleur": 5,
       "liens": [
         {
@@ -917,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.1,
+      "heures": 29.1,
       "chaleur": 5,
       "liens": [
         {
@@ -935,7 +719,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 28.6,
+      "heures": 30.6,
       "chaleur": 5,
       "liens": [
         {
@@ -953,13 +737,283 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.4,
+      "heures": 32.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/guides/nintendos-customer-appreciation-sale-discounts-games-amiibo-and-more-heres-everything-included-us",
           "titre": "Guide: Nintendo's 'Customer Appreciation Sale' Discounts Games, amiibo & More, Here's Everything Included (US)"
+        }
+      ]
+    },
+    {
+      "id": "we-re-not-transparent-and-we-re-not-honest-says-bulkhead-ce",
+      "titre": "‘We’re not transparent and we’re not honest,’ says Bulkhead CEO after Wardogs sells 2 million units",
+      "url": "https://www.videogameschronicle.com/news/were-not-transparent-and-were-not-honest-says-bulkhead-ceo-after-wardogs-sells-2-million-units/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/were-not-transparent-and-were-not-honest-says-bulkhead-ceo-after-wardogs-sells-2-million-units/",
+          "titre": "‘We’re not transparent and we’re not honest,’ says Bulkhead CEO after Wardogs sells 2 million units"
+        }
+      ]
+    },
+    {
+      "id": "sega-s-ongoing-effort-to-revive-crazy-taxi-now-appears-to-be",
+      "titre": "Sega's ongoing effort to revive Crazy Taxi now appears to be taking the form of… a movie?",
+      "url": "https://www.pcgamer.com/movies-tv/segas-ongoing-effort-to-revive-crazy-taxi-now-appears-to-be-taking-the-form-of-a-movie/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/segas-ongoing-effort-to-revive-crazy-taxi-now-appears-to-be-taking-the-form-of-a-movie/",
+          "titre": "Sega's ongoing effort to revive Crazy Taxi now appears to be taking the form of… a movie?"
+        }
+      ]
+    },
+    {
+      "id": "tim-willits-doesn-t-think-rideshare-s-generative-ai-is-damag",
+      "titre": "Tim Willits doesn't think Rideshare's generative AI is damaging Saber's reputation",
+      "url": "https://www.rockpapershotgun.com/tim-willits-doesnt-think-rideshares-generative-ai-is-damaging-sabers-reputation",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/tim-willits-doesnt-think-rideshares-generative-ai-is-damaging-sabers-reputation",
+          "titre": "Tim Willits doesn't think Rideshare's generative AI is damaging Saber's reputation"
+        }
+      ]
+    },
+    {
+      "id": "what-would-a-wow-2-give-you-that-world-of-warcraft-forever",
+      "titre": "\"What would a WoW 2 give you that World of Warcraft: Forever isn't already giving you?\" - Blizzard addresses the MMO elephant in the room",
+      "url": "https://www.eurogamer.net/blizzard-wow-2-sequel-forever",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/blizzard-wow-2-sequel-forever",
+          "titre": "\"What would a WoW 2 give you that World of Warcraft: Forever isn't already giving you?\" - Blizzard addresses the MMO elephant in the room"
+        }
+      ]
+    },
+    {
+      "id": "give-barbie-s-dreamhouse-a-deep-clean-in-powerwash-simulator",
+      "titre": "Give Barbie's Dreamhouse a Deep Clean in PowerWash Simulator 2's Next DLC Pack",
+      "url": "https://www.pushsquare.com/news/2026/09/give-barbies-dreamhouse-a-deep-clean-in-powerwash-simulator-2s-next-dlc-pack",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/give-barbies-dreamhouse-a-deep-clean-in-powerwash-simulator-2s-next-dlc-pack",
+          "titre": "Give Barbie's Dreamhouse a Deep Clean in PowerWash Simulator 2's Next DLC Pack"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-s-story-director-says-an-ideal-quest-is-constr",
+      "titre": "The Witcher 3's story director says an ideal quest is 'constructed in such a way that the player puts the controller away, stands up, and starts walking'",
+      "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3s-story-director-says-an-ideal-quest-is-constructed-in-such-a-way-that-the-player-puts-the-controller-away-stands-up-and-starts-walking/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3s-story-director-says-an-ideal-quest-is-constructed-in-such-a-way-that-the-player-puts-the-controller-away-stands-up-and-starts-walking/",
+          "titre": "The Witcher 3's story director says an ideal quest is 'constructed in such a way that the player puts the controller away, stands up, and starts walking'"
+        }
+      ]
+    },
+    {
+      "id": "serial-numbers-on-rtx-founders-edition-graphics-cards-includ",
+      "titre": "Serial numbers on RTX Founders Edition graphics cards, including PC Gamer's very own, are fading and apparently it's causing a problem with RMA requests",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/serial-numbers-on-rtx-founders-edition-graphics-cards-including-pc-gamers-very-own-are-fading-and-apparently-its-causing-a-problem-with-rma-requests/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/serial-numbers-on-rtx-founders-edition-graphics-cards-including-pc-gamers-very-own-are-fading-and-apparently-its-causing-a-problem-with-rma-requests/",
+          "titre": "Serial numbers on RTX Founders Edition graphics cards, including PC Gamer's very own, are fading and apparently it's causing a problem with RMA requests"
+        }
+      ]
+    },
+    {
+      "id": "the-best-total-war-game-is-getting-a-remaster-with-50-newly",
+      "titre": "The best Total War game is getting a remaster with 50 newly playable factions, modern visuals, and a full Japanese voiceover",
+      "url": "https://www.pcgamer.com/games/strategy/the-best-total-war-game-is-getting-a-remaster-with-50-newly-playable-factions-modern-visuals-and-a-full-japanese-voiceover/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/the-best-total-war-game-is-getting-a-remaster-with-50-newly-playable-factions-modern-visuals-and-a-full-japanese-voiceover/",
+          "titre": "The best Total War game is getting a remaster with 50 newly playable factions, modern visuals, and a full Japanese voiceover"
+        }
+      ]
+    },
+    {
+      "id": "why-does-this-prominent-washington-state-politician-think-vi",
+      "titre": "Why does this prominent Washington state politician think video games can be 'soft power?'",
+      "url": "https://www.gamedeveloper.com/business/why-does-this-prominent-washington-state-politician-think-video-games-can-be-soft-power-",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/why-does-this-prominent-washington-state-politician-think-video-games-can-be-soft-power-",
+          "titre": "Why does this prominent Washington state politician think video games can be 'soft power?'"
+        }
+      ]
+    },
+    {
+      "id": "paradox-s-grand-strategy-game-afterworld-hasn-t-got-a-fixed",
+      "titre": "Paradox's grand strategy game Afterworld hasn't got a fixed history, it changes with every playthrough",
+      "url": "https://www.rockpapershotgun.com/paradoxs-grand-strategy-game-afterworld-hasnt-got-a-fixed-history-it-changes-with-every-playthrough",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/paradoxs-grand-strategy-game-afterworld-hasnt-got-a-fixed-history-it-changes-with-every-playthrough",
+          "titre": "Paradox's grand strategy game Afterworld hasn't got a fixed history, it changes with every playthrough"
+        }
+      ]
+    },
+    {
+      "id": "control-resonant-designed-around-60fps-gameplay-on-ps5-and-p",
+      "titre": "Control Resonant Designed Around 60fps Gameplay on PS5 and PS5 Pro",
+      "url": "https://www.pushsquare.com/news/2026/09/control-resonant-designed-around-60fps-gameplay-on-ps5-and-ps5-pro",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/control-resonant-designed-around-60fps-gameplay-on-ps5-and-ps5-pro",
+          "titre": "Control Resonant Designed Around 60fps Gameplay on PS5 and PS5 Pro"
+        }
+      ]
+    },
+    {
+      "id": "european-commission-s-proposed-eu-kids-act-could-see-online",
+      "titre": "European Commission's proposed EU Kids Act could see online games forced to enact stricter age verification amid new rules around accounts for under 15s",
+      "url": "https://www.rockpapershotgun.com/european-commissions-proposed-eu-kids-act-could-see-online-games-forced-to-enact-stricter-age-verification-amid-new-rules-around-accounts-for-under-15s",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/european-commissions-proposed-eu-kids-act-could-see-online-games-forced-to-enact-stricter-age-verification-amid-new-rules-around-accounts-for-under-15s",
+          "titre": "European Commission's proposed EU Kids Act could see online games forced to enact stricter age verification amid new rules around accounts for under 15s"
+        }
+      ]
+    },
+    {
+      "id": "star-wars-galactic-racer-s-ps5-trophy-list-will-push-you-to",
+      "titre": "Star Wars: Galactic Racer's PS5 Trophy List Will Push You to the Limit for the Platinum",
+      "url": "https://www.pushsquare.com/news/2026/09/star-wars-galactic-racers-ps5-trophy-list-will-push-you-to-the-limit-for-the-platinum",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/star-wars-galactic-racers-ps5-trophy-list-will-push-you-to-the-limit-for-the-platinum",
+          "titre": "Star Wars: Galactic Racer's PS5 Trophy List Will Push You to the Limit for the Platinum"
+        }
+      ]
+    },
+    {
+      "id": "2017-s-pvp-action-game-for-honor-is-free-to-own-for-a-limite",
+      "titre": "2017’s PvP action game For Honor is free to own for a limited time on Ubisoft Connect",
+      "url": "https://www.videogameschronicle.com/news/2017s-pvp-action-game-for-honor-is-free-to-own-for-a-limited-time-on-ubisoft-connect/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/2017s-pvp-action-game-for-honor-is-free-to-own-for-a-limited-time-on-ubisoft-connect/",
+          "titre": "2017’s PvP action game For Honor is free to own for a limited time on Ubisoft Connect"
+        }
+      ]
+    },
+    {
+      "id": "toss-a-project-at-your-printer-vibe-coded-tool-allows-develo",
+      "titre": "Toss a project at your printer: vibe coded tool allows developer to throw stuff at his 3D printer in VR to begin printing",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/toss-a-project-at-your-printer-vibe-coded-tool-allows-developer-to-throw-stuff-at-his-3d-printer-in-vr-to-begin-printing/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/toss-a-project-at-your-printer-vibe-coded-tool-allows-developer-to-throw-stuff-at-his-3d-printer-in-vr-to-begin-printing/",
+          "titre": "Toss a project at your printer: vibe coded tool allows developer to throw stuff at his 3D printer in VR to begin printing"
         }
       ]
     },
@@ -971,7 +1025,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +1043,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +1061,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1025,7 +1079,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,7 +1097,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,7 +1115,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 7.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1079,7 +1133,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1097,67 +1151,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/dragonheir-silent-gods-marks-third-anniversary-with-a-hero-its-players-helped-create/",
           "titre": "Dragonheir: Silent Gods marks third anniversary with a hero its players helped create"
-        }
-      ]
-    },
-    {
-      "id": "get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-compl",
-      "titre": "Get Indie Cracker 'The Alters' on a PS5 Disc in Physical Complete Edition",
-      "url": "https://www.pushsquare.com/news/2026/09/get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-complete-edition",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-complete-edition",
-          "titre": "Get Indie Cracker 'The Alters' on a PS5 Disc in Physical Complete Edition"
-        }
-      ]
-    },
-    {
-      "id": "nightdive-studios-head-raises-hopes-of-an-eternal-darkness-r",
-      "titre": "Nightdive Studios Head Raises Hopes Of An Eternal Darkness Remaster",
-      "url": "https://www.nintendolife.com/news/2026/09/nightdive-studios-head-raises-hopes-of-an-eternal-darkness-remaster",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 5.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nightdive-studios-head-raises-hopes-of-an-eternal-darkness-remaster",
-          "titre": "Nightdive Studios Head Raises Hopes Of An Eternal Darkness Remaster"
-        }
-      ]
-    },
-    {
-      "id": "katsuhiro-harada-and-snk-discuss-their-bold-ambitions-to-rev",
-      "titre": "Katsuhiro Harada and SNK discuss their bold ambitions to ‘revive Japan’s golden era’",
-      "url": "https://www.videogameschronicle.com/features/interviews/katsuhiro-harada-and-snk-discuss-their-bold-ambitions-to-revive-japans-golden-era/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 6.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/interviews/katsuhiro-harada-and-snk-discuss-their-bold-ambitions-to-revive-japans-golden-era/",
-          "titre": "Katsuhiro Harada and SNK discuss their bold ambitions to ‘revive Japan’s golden era’"
         }
       ]
     }
