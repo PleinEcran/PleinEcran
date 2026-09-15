@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "maj": "2026-09-15T22:38:03.020Z",
+  "maj": "2026-09-15T22:38:05.265Z",
   "commandes": [
     {
       "id": "mu2xpp9ejd1q3",
@@ -163,6 +163,9 @@
       "decision": "oui"
     },
     "abonnements-cout-resiliations": {
+      "decision": "oui"
+    },
+    "blizzcon-2026-annonces": {
       "decision": "oui"
     }
   },
