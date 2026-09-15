@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "15/09/2026 à 00h28",
+  "collecte": "15/09/2026 à 02h22",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 5.5,
+      "heures": 7.4,
       "chaleur": 18,
       "liens": [
         {
@@ -46,18 +46,47 @@ const VEILLE = {
       ]
     },
     {
+      "id": "ubisoft-delays-rayman-legends-retold-weeks-before-planned-re",
+      "titre": "Ubisoft delays Rayman Legends Retold weeks before planned release",
+      "url": "https://www.videogameschronicle.com/news/ubisoft-delays-rayman-legends-retold-weeks-before-planned-release/",
+      "sources": [
+        "Nintendo Life",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 1.0,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-delays-rayman-legends-retold-weeks-before-planned-release/",
+          "titre": "Ubisoft delays Rayman Legends Retold weeks before planned release"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-now-out-in-december-ps5-remake-delayed-two-months",
+          "titre": "Rayman Legends Retold Now Out in December, PS5 Remake Delayed Two Months"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/rayman-legends-retold-has-been-delayed",
+          "titre": "Rayman Legends Retold Has Been Delayed"
+        }
+      ]
+    },
+    {
       "id": "sony-letter-spells-the-end-for-unreleased-the-last-of-us-par",
       "titre": "Sony letter spells the end for unreleased The Last of Us Part 2 multiplayer mod, its creator says",
       "url": "https://www.rockpapershotgun.com/sony-letter-spells-the-end-for-unreleased-the-last-of-us-part-2-multiplayer-mod-its-creator-says",
       "sources": [
         "Eurogamer",
         "Push Square",
-        "Rock Paper Shotgun",
-        "VGC"
+        "Rock Paper Shotgun"
       ],
-      "reprises": 4,
-      "heures": 12.2,
-      "chaleur": 17,
+      "reprises": 3,
+      "heures": 14.1,
+      "chaleur": 14,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -73,11 +102,6 @@ const VEILLE = {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/sony-shuts-down-the-last-of-us-2-pc-multiplayer-fan-mod",
           "titre": "Sony Shuts Down The Last of Us 2 PC Multiplayer Fan Mod"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/last-of-us-part-2-multiplayer-mod-canceled-by-sony/",
-          "titre": "Last of Us Part 2 multiplayer mod ‘canceled by Sony’"
         }
       ]
     },
@@ -91,8 +115,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 11.2,
-      "chaleur": 13,
+      "heures": 13.1,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Game Developer",
@@ -112,42 +136,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "a-starcraft-open-world-shooter-that-s-deadwood-in-space-diab",
-      "titre": "A StarCraft open-world shooter that's \"Deadwood in space\", Diablo 5, and a new classic-ish World of Warcraft branch out this year make up Blizzard of reveals",
-      "url": "https://www.rockpapershotgun.com/a-starcraft-open-world-shooter-thats-deadwood-in-space-diablo-5-and-a-new-classic-ish-world-of-warcraft-branch-out-this-year-make-up-blizzard-of-reveals",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz",
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 4,
-      "heures": 13.7,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/a-starcraft-open-world-shooter-thats-deadwood-in-space-diablo-5-and-a-new-classic-ish-world-of-warcraft-branch-out-this-year-make-up-blizzard-of-reveals",
-          "titre": "A StarCraft open-world shooter that's \"Deadwood in space\", Diablo 5, and a new classic-ish World of Warcraft branch out this year make up Blizzard of reveals"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/new-starcraft-title-to-launch-in-2030-will-be-an-open-world-fps",
-          "titre": "New StarCraft title to launch in 2030, will be an open-world FPS"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/diablo-5-and-a-new-starcraft-game-revealed-but-will-they-be-on-ps6",
-          "titre": "Diablo 5 and a New Starcraft Game Revealed, But Will They Be on PS6?"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/world-of-warcraft-forever-announced-blizzcon-2026-classic-plus",
-          "titre": "The World of Warcraft \"Classic+\" rumours were true and it's called World of Warcraft: Forever"
-        }
-      ]
-    },
-    {
       "id": "gta-6-s-first-confirmed-actor-is-king-of-the-hill-s-stephen",
       "titre": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\"",
       "url": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root",
@@ -156,7 +144,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 10,
       "liens": [
         {
@@ -181,7 +169,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 6.7,
+      "heures": 8.6,
       "chaleur": 10,
       "liens": [
         {
@@ -210,7 +198,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 6.9,
+      "heures": 8.8,
       "chaleur": 10,
       "liens": [
         {
@@ -226,6 +214,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-or",
+      "titre": "Zelda: Ocarina Of Time - Electric Ocarina Nintendo Store Pre-Orders Now Live (US)",
+      "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-orders-now-live-us",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-orders-now-live-us",
+          "titre": "Zelda: Ocarina Of Time - Electric Ocarina Nintendo Store Pre-Orders Now Live (US)"
+        }
+      ]
+    },
+    {
       "id": "marathon-s-future-questioned-as-bungie-delays-big-update-and",
       "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule",
       "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
@@ -234,7 +240,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 5.0,
+      "heures": 6.9,
       "chaleur": 9,
       "liens": [
         {
@@ -250,44 +256,32 @@ const VEILLE = {
       ]
     },
     {
-      "id": "rayman-legends-retold-now-out-in-december-ps5-remake-delayed",
-      "titre": "Rayman Legends Retold Now Out in December, PS5 Remake Delayed Two Months",
-      "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-now-out-in-december-ps5-remake-delayed-two-months",
+      "id": "a-starcraft-open-world-shooter-that-s-deadwood-in-space-diab",
+      "titre": "A StarCraft open-world shooter that's \"Deadwood in space\", Diablo 5, and a new classic-ish World of Warcraft branch out this year make up Blizzard of reveals",
+      "url": "https://www.rockpapershotgun.com/a-starcraft-open-world-shooter-thats-deadwood-in-space-diablo-5-and-a-new-classic-ish-world-of-warcraft-branch-out-this-year-make-up-blizzard-of-reveals",
       "sources": [
-        "Nintendo Life",
-        "Push Square"
+        "GamesIndustry.biz",
+        "Push Square",
+        "Rock Paper Shotgun"
       ],
-      "reprises": 2,
-      "heures": 6.0,
+      "reprises": 3,
+      "heures": 15.6,
       "chaleur": 9,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-now-out-in-december-ps5-remake-delayed-two-months",
-          "titre": "Rayman Legends Retold Now Out in December, PS5 Remake Delayed Two Months"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/a-starcraft-open-world-shooter-thats-deadwood-in-space-diablo-5-and-a-new-classic-ish-world-of-warcraft-branch-out-this-year-make-up-blizzard-of-reveals",
+          "titre": "A StarCraft open-world shooter that's \"Deadwood in space\", Diablo 5, and a new classic-ish World of Warcraft branch out this year make up Blizzard of reveals"
         },
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/rayman-legends-retold-has-been-delayed",
-          "titre": "Rayman Legends Retold Has Been Delayed"
-        }
-      ]
-    },
-    {
-      "id": "after-nearly-a-year-of-silence-following-its-last-minute-del",
-      "titre": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest",
-      "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 8,
-      "liens": [
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/new-starcraft-title-to-launch-in-2030-will-be-an-open-world-fps",
+          "titre": "New StarCraft title to launch in 2030, will be an open-world FPS"
+        },
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
-          "titre": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/diablo-5-and-a-new-starcraft-game-revealed-but-will-they-be-on-ps6",
+          "titre": "Diablo 5 and a New Starcraft Game Revealed, But Will They Be on PS6?"
         }
       ]
     },
@@ -300,7 +294,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 4.3,
+      "heures": 6.2,
       "chaleur": 7,
       "liens": [
         {
@@ -324,7 +318,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 6.5,
+      "heures": 8.4,
       "chaleur": 7,
       "liens": [
         {
@@ -347,7 +341,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 8.9,
       "chaleur": 7,
       "liens": [
         {
@@ -358,20 +352,128 @@ const VEILLE = {
       ]
     },
     {
-      "id": "arc-raiders-expeditions-may-not-come-back-maybe-we-ll-scrap",
-      "titre": "Arc Raiders Expeditions may not come back: 'Maybe we'll scrap the whole system'",
-      "url": "https://www.pcgamer.com/games/fps/arc-raiders-expeditions-may-not-come-back-maybe-well-scrap-the-whole-system/",
+      "id": "fan-ps5-boycott-over-discs-seemingly-has-little-impact-in-us",
+      "titre": "Fan PS5 boycott over discs seemingly has little impact in US",
+      "url": "https://www.videogameschronicle.com/news/fan-ps5-boycott-over-discs-seemingly-has-little-impact-in-us/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/fan-ps5-boycott-over-discs-seemingly-has-little-impact-in-us/",
+          "titre": "Fan PS5 boycott over discs seemingly has little impact in US"
+        }
+      ]
+    },
+    {
+      "id": "here-s-the-aniimo-release-time-for-your-region",
+      "titre": "Here's the Aniimo release time for your region",
+      "url": "https://www.pcgamer.com/games/rpg/aniimo-release-date-launch-times/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.8,
+      "heures": 0.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/arc-raiders-expeditions-may-not-come-back-maybe-well-scrap-the-whole-system/",
-          "titre": "Arc Raiders Expeditions may not come back: 'Maybe we'll scrap the whole system'"
+          "url": "https://www.pcgamer.com/games/rpg/aniimo-release-date-launch-times/",
+          "titre": "Here's the Aniimo release time for your region"
+        }
+      ]
+    },
+    {
+      "id": "fire-emblem-fortune-s-weave-voice-actors-officially-revealed",
+      "titre": "Fire Emblem: Fortune's Weave Voice Actors Officially Revealed",
+      "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-voice-actors-officially-revealed",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-voice-actors-officially-revealed",
+          "titre": "Fire Emblem: Fortune's Weave Voice Actors Officially Revealed"
+        }
+      ]
+    },
+    {
+      "id": "marvel-s-wolverine-greased-trophy-guide-read-callisto-s-jour",
+      "titre": "Marvel’s Wolverine Greased Trophy Guide: Read Callisto’s journal in her Vancouver garage",
+      "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-greased-trophy-guide-read-callistos-journal-in-her-vancouver-garage/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-greased-trophy-guide-read-callistos-journal-in-her-vancouver-garage/",
+          "titre": "Marvel’s Wolverine Greased Trophy Guide: Read Callisto’s journal in her Vancouver garage"
+        }
+      ]
+    },
+    {
+      "id": "fans-deserve-this-sega-is-turning-more-of-its-games-into-mo",
+      "titre": "‘Fans deserve this’: Sega is turning more of its games into movies with Netflix",
+      "url": "https://www.videogameschronicle.com/news/fans-deserve-this-sega-is-turning-more-of-its-games-into-movies-with-netflix/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/fans-deserve-this-sega-is-turning-more-of-its-games-into-movies-with-netflix/",
+          "titre": "‘Fans deserve this’: Sega is turning more of its games into movies with Netflix"
+        }
+      ]
+    },
+    {
+      "id": "marvel-s-wolverine-all-whisky-bottle-locations-find-every-wh",
+      "titre": "Marvel’s Wolverine All Whisky Bottle Locations: Find every Whisky Bottle in Marvel’s Wolverine",
+      "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-all-whisky-bottle-locations-find-every-whisky-bottle-in-marvels-wolverine/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/marvels-wolverine-all-whisky-bottle-locations-find-every-whisky-bottle-in-marvels-wolverine/",
+          "titre": "Marvel’s Wolverine All Whisky Bottle Locations: Find every Whisky Bottle in Marvel’s Wolverine"
+        }
+      ]
+    },
+    {
+      "id": "after-nearly-a-year-of-silence-following-its-last-minute-del",
+      "titre": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest",
+      "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
+          "titre": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest"
         }
       ]
     },
@@ -383,7 +485,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.4,
       "chaleur": 6,
       "liens": [
         {
@@ -401,7 +503,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.5,
       "chaleur": 6,
       "liens": [
         {
@@ -419,7 +521,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.8,
       "chaleur": 6,
       "liens": [
         {
@@ -437,7 +539,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 8.9,
       "chaleur": 6,
       "liens": [
         {
@@ -455,7 +557,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.2,
       "chaleur": 6,
       "liens": [
         {
@@ -473,7 +575,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.4,
       "chaleur": 6,
       "liens": [
         {
@@ -491,7 +593,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.4,
       "chaleur": 6,
       "liens": [
         {
@@ -509,7 +611,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.4,
       "chaleur": 6,
       "liens": [
         {
@@ -527,7 +629,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 10.9,
       "chaleur": 6,
       "liens": [
         {
@@ -545,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.1,
       "chaleur": 6,
       "liens": [
         {
@@ -563,31 +665,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/valve-is-under-the-impression-that-this-game-is-way-sexier-nighthawks-devs-claim-vampire-rpg-has-erroneously-been-slapped-with-steam-adult-content-label",
           "titre": "\"Valve is under the impression that this game is way sexier\": Nighthawks devs claim vampire RPG has erroneously been slapped with Steam adult content label"
-        }
-      ]
-    },
-    {
-      "id": "playstation-allegedly-had-concerns-over-budget-potential-pro",
-      "titre": "PlayStation allegedly had \"concerns over budget, potential profitability, and exclusivity\" over Kojima Productions' Physint",
-      "url": "https://www.gamesindustry.biz/playstation-allegedly-had-concerns-over-budget-potential-profitability-and-exclusivity-over-kojima-productions-physint",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/playstation-allegedly-had-concerns-over-budget-potential-profitability-and-exclusivity-over-kojima-productions-physint",
-          "titre": "PlayStation allegedly had \"concerns over budget, potential profitability, and exclusivity\" over Kojima Productions' Physint"
         }
       ]
     },
@@ -599,7 +683,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.2,
       "chaleur": 6,
       "liens": [
         {
@@ -617,13 +701,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 16.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/nintendo-updates-zelda-timeline-seemingly-confirming-a-fan-theory",
           "titre": "Nintendo Updates Zelda Timeline, Seemingly Confirming A Fan Theory"
+        }
+      ]
+    },
+    {
+      "id": "playstation-allegedly-had-concerns-over-budget-potential-pro",
+      "titre": "PlayStation allegedly had \"concerns over budget, potential profitability, and exclusivity\" over Kojima Productions' Physint",
+      "url": "https://www.gamesindustry.biz/playstation-allegedly-had-concerns-over-budget-potential-profitability-and-exclusivity-over-kojima-productions-physint",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 12.6,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/playstation-allegedly-had-concerns-over-budget-potential-profitability-and-exclusivity-over-kojima-productions-physint",
+          "titre": "PlayStation allegedly had \"concerns over budget, potential profitability, and exclusivity\" over Kojima Productions' Physint"
         }
       ]
     },
@@ -635,7 +737,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.1,
       "chaleur": 5,
       "liens": [
         {
@@ -653,7 +755,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.4,
       "chaleur": 5,
       "liens": [
         {
@@ -671,7 +773,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.8,
       "chaleur": 5,
       "liens": [
         {
@@ -689,7 +791,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 32.5,
+      "heures": 34.4,
       "chaleur": 5,
       "liens": [
         {
@@ -707,7 +809,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.5,
+      "heures": 35.4,
       "chaleur": 5,
       "liens": [
         {
@@ -718,20 +820,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "diablo-4-s-new-season-brings-back-deckard-cain-and-all-three",
-      "titre": "Diablo 4's new season brings back Deckard Cain and all three Prime Evils as the game arrives on Switch 2",
-      "url": "https://www.eurogamer.net/diablo-4-season-of-hells-legacy-switch-2-amazon-class",
+      "id": "arc-raiders-expeditions-may-not-come-back-maybe-we-ll-scrap",
+      "titre": "Arc Raiders Expeditions may not come back: 'Maybe we'll scrap the whole system'",
+      "url": "https://www.pcgamer.com/games/fps/arc-raiders-expeditions-may-not-come-back-maybe-well-scrap-the-whole-system/",
       "sources": [
-        "Eurogamer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 34.7,
-      "chaleur": 5,
+      "heures": 4.7,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/diablo-4-season-of-hells-legacy-switch-2-amazon-class",
-          "titre": "Diablo 4's new season brings back Deckard Cain and all three Prime Evils as the game arrives on Switch 2"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/arc-raiders-expeditions-may-not-come-back-maybe-well-scrap-the-whole-system/",
+          "titre": "Arc Raiders Expeditions may not come back: 'Maybe we'll scrap the whole system'"
         }
       ]
     },
@@ -743,7 +845,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -761,7 +863,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -779,7 +881,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -797,7 +899,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +917,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -833,7 +935,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -851,7 +953,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -869,7 +971,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +989,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +1007,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -923,31 +1025,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/youtuber-gets-classic-tomb-raider-running-on-a-chip-that-sips-a-mere-1-w-of-power/",
           "titre": "YouTuber gets classic Tomb Raider running on a chip that sips a mere 1 W of power"
-        }
-      ]
-    },
-    {
-      "id": "sombra-s-change-to-support-is-the-right-move-but-i-fear-some",
-      "titre": "Sombra's change to Support is the right move, but I fear some Overwatch players may take time to adjust",
-      "url": "https://www.pcgamer.com/games/fps/sombras-change-to-support-is-the-right-move-but-i-fear-some-overwatch-players-may-take-time-to-adjust/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/sombras-change-to-support-is-the-right-move-but-i-fear-some-overwatch-players-may-take-time-to-adjust/",
-          "titre": "Sombra's change to Support is the right move, but I fear some Overwatch players may take time to adjust"
         }
       ]
     },
@@ -959,7 +1043,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +1061,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -995,8 +1079,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1013,8 +1097,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1031,8 +1115,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1049,8 +1133,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1067,8 +1151,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.0,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1085,31 +1169,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/reviews/ps5/mewgenics",
           "titre": "Mini Review: Mewgenics (PS5) - The Best Roguelike Since The Binding of Isaac"
-        }
-      ]
-    },
-    {
-      "id": "fire-emblem-fortune-s-weave-gets-a-seven-minute-overview-tra",
-      "titre": "Fire Emblem: Fortune's Weave Gets A Seven-Minute Overview Trailer",
-      "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-gets-a-seven-minute-overview-trailer",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 13.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-gets-a-seven-minute-overview-trailer",
-          "titre": "Fire Emblem: Fortune's Weave Gets A Seven-Minute Overview Trailer"
         }
       ]
     },
@@ -1121,7 +1187,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1130,79 +1196,9 @@ const VEILLE = {
           "titre": "Diablo 4 was basically an MMO, will Diablo 5 follow suit? Blizzard is being coy for now"
         }
       ]
-    },
-    {
-      "id": "blizzard-explains-why-it-s-revealing-starcraft-and-diablo-5",
-      "titre": "Blizzard explains why it's revealing StarCraft and Diablo 5 release dates so far away: \"We want to convey confidence in some of our biggest bets\"",
-      "url": "https://www.eurogamer.net/why-blizzard-dating-games-far-away-starcraft-diablo-5",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 14.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/why-blizzard-dating-games-far-away-starcraft-diablo-5",
-          "titre": "Blizzard explains why it's revealing StarCraft and Diablo 5 release dates so far away: \"We want to convey confidence in some of our biggest bets\""
-        }
-      ]
-    },
-    {
-      "id": "guide-these-35-ps5-and-ps-plus-games-are-coming-out-this-wee",
-      "titre": "Guide: These 35+ PS5 and PS Plus Games Are Coming Out This Week (14th-20th September)",
-      "url": "https://www.pushsquare.com/guides/these-35plus-ps5-and-ps-plus-games-are-coming-out-this-week-14th-20th-september",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 15.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/these-35plus-ps5-and-ps-plus-games-are-coming-out-this-week-14th-20th-september",
-          "titre": "Guide: These 35+ PS5 and PS Plus Games Are Coming Out This Week (14th-20th September)"
-        }
-      ]
-    },
-    {
-      "id": "resident-evil-film-director-says-he-stripped-out-as-much-of",
-      "titre": "Resident Evil film director says he ‘stripped out as much of the jokes as possible’ after test screenings",
-      "url": "https://www.videogameschronicle.com/news/resident-evil-film-director-says-he-stripped-out-as-much-of-the-jokes-as-possible-after-test-screenings/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 15.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/resident-evil-film-director-says-he-stripped-out-as-much-of-the-jokes-as-possible-after-test-screenings/",
-          "titre": "Resident Evil film director says he ‘stripped out as much of the jokes as possible’ after test screenings"
-        }
-      ]
-    },
-    {
-      "id": "video-check-out-the-multiplayer-modes-in-crazy-taxi-world-to",
-      "titre": "Video: Check out the multiplayer modes in Crazy Taxi World Tour in our PC footage",
-      "url": "https://www.videogameschronicle.com/news/video-check-out-the-multiplayer-modes-in-crazy-taxi-world-tour-in-our-pc-footage/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 16.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/video-check-out-the-multiplayer-modes-in-crazy-taxi-world-tour-in-our-pc-footage/",
-          "titre": "Video: Check out the multiplayer modes in Crazy Taxi World Tour in our PC footage"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Ubisoft delays Rayman Legends Retold weeks before planned release"
+  ]
 };
