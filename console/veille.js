@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "14/09/2026 à 22h20",
+  "collecte": "15/09/2026 à 00h28",
   "seuil": 14,
   "sujets": [
     {
@@ -15,8 +15,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 3.3,
-      "chaleur": 20,
+      "heures": 5.5,
+      "chaleur": 18,
       "liens": [
         {
           "source": "PC Gamer",
@@ -56,8 +56,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 10.1,
-      "chaleur": 18,
+      "heures": 12.2,
+      "chaleur": 17,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -82,48 +82,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "a-starcraft-open-world-shooter-that-s-deadwood-in-space-diab",
-      "titre": "A StarCraft open-world shooter that's \"Deadwood in space\", Diablo 5, and a new classic-ish World of Warcraft branch out this year make up Blizzard of reveals",
-      "url": "https://www.rockpapershotgun.com/a-starcraft-open-world-shooter-thats-deadwood-in-space-diablo-5-and-a-new-classic-ish-world-of-warcraft-branch-out-this-year-make-up-blizzard-of-reveals",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz",
-        "Push Square",
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 5,
-      "heures": 11.6,
-      "chaleur": 16,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/a-starcraft-open-world-shooter-thats-deadwood-in-space-diablo-5-and-a-new-classic-ish-world-of-warcraft-branch-out-this-year-make-up-blizzard-of-reveals",
-          "titre": "A StarCraft open-world shooter that's \"Deadwood in space\", Diablo 5, and a new classic-ish World of Warcraft branch out this year make up Blizzard of reveals"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/new-starcraft-title-to-launch-in-2030-will-be-an-open-world-fps",
-          "titre": "New StarCraft title to launch in 2030, will be an open-world FPS"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/diablo-5-and-a-new-starcraft-game-revealed-but-will-they-be-on-ps6",
-          "titre": "Diablo 5 and a New Starcraft Game Revealed, But Will They Be on PS6?"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/world-of-warcraft-forever-announced-blizzcon-2026-classic-plus",
-          "titre": "The World of Warcraft \"Classic+\" rumours were true and it's called World of Warcraft: Forever"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/blizzard-announced-diablo-and-starcraft-games-that-are-years-away-to-show-confidence/",
-          "titre": "Blizzard announced Diablo and StarCraft games that are years away ‘to show confidence’"
-        }
-      ]
-    },
-    {
       "id": "moss-developer-polyarc-has-shut-down",
       "titre": "Moss developer Polyarc has shut down",
       "url": "https://www.gamedeveloper.com/business/moss-developer-polyarc-has-shut-down",
@@ -133,7 +91,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 9.1,
+      "heures": 11.2,
       "chaleur": 13,
       "liens": [
         {
@@ -154,32 +112,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "level-5-ceo-admits-using-generative-ai-in-recent-showcase",
-      "titre": "Level-5 CEO admits using generative AI in recent showcase",
-      "url": "https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase",
+      "id": "a-starcraft-open-world-shooter-that-s-deadwood-in-space-diab",
+      "titre": "A StarCraft open-world shooter that's \"Deadwood in space\", Diablo 5, and a new classic-ish World of Warcraft branch out this year make up Blizzard of reveals",
+      "url": "https://www.rockpapershotgun.com/a-starcraft-open-world-shooter-thats-deadwood-in-space-diablo-5-and-a-new-classic-ish-world-of-warcraft-branch-out-this-year-make-up-blizzard-of-reveals",
       "sources": [
         "Eurogamer",
         "GamesIndustry.biz",
-        "VGC"
+        "Push Square",
+        "Rock Paper Shotgun"
       ],
-      "reprises": 3,
-      "heures": 2.2,
+      "reprises": 4,
+      "heures": 13.7,
       "chaleur": 12,
       "liens": [
         {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/a-starcraft-open-world-shooter-thats-deadwood-in-space-diablo-5-and-a-new-classic-ish-world-of-warcraft-branch-out-this-year-make-up-blizzard-of-reveals",
+          "titre": "A StarCraft open-world shooter that's \"Deadwood in space\", Diablo 5, and a new classic-ish World of Warcraft branch out this year make up Blizzard of reveals"
+        },
+        {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase",
-          "titre": "Level-5 CEO admits using generative AI in recent showcase"
+          "url": "https://www.gamesindustry.biz/new-starcraft-title-to-launch-in-2030-will-be-an-open-world-fps",
+          "titre": "New StarCraft title to launch in 2030, will be an open-world FPS"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/diablo-5-and-a-new-starcraft-game-revealed-but-will-they-be-on-ps6",
+          "titre": "Diablo 5 and a New Starcraft Game Revealed, But Will They Be on PS6?"
         },
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/level-5-ceo-apologises-generative-ai-professor-layton-yo-kai-watch",
-          "titre": "Professor Layton studio Level-5's CEO admits using AI to make its digital showcase \"more spectacular\""
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/level-5-boss-admits-using-ai-for-professor-layton-yo-kai-watch-reveals/",
-          "titre": "Level 5 boss admits using AI for Professor Layton, Yo-Kai Watch reveals"
+          "url": "https://www.eurogamer.net/world-of-warcraft-forever-announced-blizzcon-2026-classic-plus",
+          "titre": "The World of Warcraft \"Classic+\" rumours were true and it's called World of Warcraft: Forever"
         }
       ]
     },
@@ -192,8 +156,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 3.3,
-      "chaleur": 12,
+      "heures": 5.4,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Eurogamer",
@@ -208,54 +172,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "marathon-s-future-questioned-as-bungie-delays-big-update-and",
-      "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule",
-      "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
-      "sources": [
-        "PC Gamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 2.8,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
-          "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/bungie-delays-next-marathon-update-and-ends-strict-seasonal-schedule-as-it-goes-all-in-on-destiny-like-features/",
-          "titre": "Bungie delays next Marathon update and ends 'strict seasonal schedule' as it goes all-in on Destiny-like features"
-        }
-      ]
-    },
-    {
-      "id": "rayman-legends-retold-now-out-in-december-ps5-remake-delayed",
-      "titre": "Rayman Legends Retold Now Out in December, PS5 Remake Delayed Two Months",
-      "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-now-out-in-december-ps5-remake-delayed-two-months",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 3.8,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-now-out-in-december-ps5-remake-delayed-two-months",
-          "titre": "Rayman Legends Retold Now Out in December, PS5 Remake Delayed Two Months"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/rayman-legends-retold-has-been-delayed",
-          "titre": "Rayman Legends Retold Has Been Delayed"
-        }
-      ]
-    },
-    {
       "id": "lies-of-p-publisher-files-trademark-for-likely-sequel-wonder",
       "titre": "Lies of P publisher files trademark for likely sequel 'Wonders of O'",
       "url": "https://www.pcgamer.com/games/action/lies-of-p-publisher-files-trademark-for-likely-sequel-wonders-of-o/",
@@ -265,7 +181,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 4.5,
+      "heures": 6.7,
       "chaleur": 10,
       "liens": [
         {
@@ -294,7 +210,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 4.7,
+      "heures": 6.9,
       "chaleur": 10,
       "liens": [
         {
@@ -310,6 +226,54 @@ const VEILLE = {
       ]
     },
     {
+      "id": "marathon-s-future-questioned-as-bungie-delays-big-update-and",
+      "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule",
+      "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
+      "sources": [
+        "PC Gamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 5.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
+          "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/bungie-delays-next-marathon-update-and-ends-strict-seasonal-schedule-as-it-goes-all-in-on-destiny-like-features/",
+          "titre": "Bungie delays next Marathon update and ends 'strict seasonal schedule' as it goes all-in on Destiny-like features"
+        }
+      ]
+    },
+    {
+      "id": "rayman-legends-retold-now-out-in-december-ps5-remake-delayed",
+      "titre": "Rayman Legends Retold Now Out in December, PS5 Remake Delayed Two Months",
+      "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-now-out-in-december-ps5-remake-delayed-two-months",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 6.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-now-out-in-december-ps5-remake-delayed-two-months",
+          "titre": "Rayman Legends Retold Now Out in December, PS5 Remake Delayed Two Months"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/rayman-legends-retold-has-been-delayed",
+          "titre": "Rayman Legends Retold Has Been Delayed"
+        }
+      ]
+    },
+    {
       "id": "after-nearly-a-year-of-silence-following-its-last-minute-del",
       "titre": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest",
       "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
@@ -317,13 +281,37 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.7,
       "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
           "titre": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest"
+        }
+      ]
+    },
+    {
+      "id": "level-5-ceo-admits-using-generative-ai-in-recent-showcase",
+      "titre": "Level-5 CEO admits using generative AI in recent showcase",
+      "url": "https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 4.3,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase",
+          "titre": "Level-5 CEO admits using generative AI in recent showcase"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/level-5-ceo-apologises-generative-ai-professor-layton-yo-kai-watch",
+          "titre": "Professor Layton studio Level-5's CEO admits using AI to make its digital showcase \"more spectacular\""
         }
       ]
     },
@@ -336,7 +324,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 4.3,
+      "heures": 6.5,
       "chaleur": 7,
       "liens": [
         {
@@ -359,7 +347,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 7.0,
       "chaleur": 7,
       "liens": [
         {
@@ -377,85 +365,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/fps/arc-raiders-expeditions-may-not-come-back-maybe-well-scrap-the-whole-system/",
           "titre": "Arc Raiders Expeditions may not come back: 'Maybe we'll scrap the whole system'"
-        }
-      ]
-    },
-    {
-      "id": "wardogs-players-are-actively-avoiding-one-team-in-particular",
-      "titre": "Wardogs players are actively avoiding one team in particular: 'They are literally the dumbest people on the planet'",
-      "url": "https://www.pcgamer.com/games/fps/wardogs-players-are-actively-avoiding-one-team-in-particular-they-are-literally-the-dumbest-people-on-the-planet/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/wardogs-players-are-actively-avoiding-one-team-in-particular-they-are-literally-the-dumbest-people-on-the-planet/",
-          "titre": "Wardogs players are actively avoiding one team in particular: 'They are literally the dumbest people on the planet'"
-        }
-      ]
-    },
-    {
-      "id": "the-king-is-watching-devs-are-making-the-crab-is-walking-thi",
-      "titre": "The King Is Watching devs are making The Crab is Walking, this journalist is writing",
-      "url": "https://www.rockpapershotgun.com/the-king-is-watching-devs-are-making-the-crab-is-walking-this-journalist-is-writing",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-king-is-watching-devs-are-making-the-crab-is-walking-this-journalist-is-writing",
-          "titre": "The King Is Watching devs are making The Crab is Walking, this journalist is writing"
-        }
-      ]
-    },
-    {
-      "id": "we-track-every-server-you-enter-the-wardogs-devs-are-coming",
-      "titre": "\"We track every server you enter\": the Wardogs devs are \"coming down hard\" on XP farms and cash exploits, even as they encourage people to grind",
-      "url": "https://www.rockpapershotgun.com/we-track-every-server-you-enter-the-wardogs-devs-are-coming-down-hard-on-xp-farms-and-cash-exploits-even-as-they-encourage-people-to-grind",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/we-track-every-server-you-enter-the-wardogs-devs-are-coming-down-hard-on-xp-farms-and-cash-exploits-even-as-they-encourage-people-to-grind",
-          "titre": "\"We track every server you enter\": the Wardogs devs are \"coming down hard\" on XP farms and cash exploits, even as they encourage people to grind"
-        }
-      ]
-    },
-    {
-      "id": "poll-10-years-later-is-persona-5-a-true-jrpg-masterpiece",
-      "titre": "Poll: 10 Years Later, Is Persona 5 a True JRPG Masterpiece?",
-      "url": "https://www.pushsquare.com/features/poll-10-years-later-is-persona-5-a-true-jrpg-masterpiece",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/poll-10-years-later-is-persona-5-a-true-jrpg-masterpiece",
-          "titre": "Poll: 10 Years Later, Is Persona 5 a True JRPG Masterpiece?"
         }
       ]
     },
@@ -467,7 +383,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.5,
       "chaleur": 6,
       "liens": [
         {
@@ -485,7 +401,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.6,
       "chaleur": 6,
       "liens": [
         {
@@ -503,7 +419,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.9,
       "chaleur": 6,
       "liens": [
         {
@@ -521,7 +437,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 7.0,
       "chaleur": 6,
       "liens": [
         {
@@ -539,7 +455,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.3,
       "chaleur": 6,
       "liens": [
         {
@@ -557,7 +473,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.5,
       "chaleur": 6,
       "liens": [
         {
@@ -575,7 +491,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.5,
       "chaleur": 6,
       "liens": [
         {
@@ -593,7 +509,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.5,
       "chaleur": 6,
       "liens": [
         {
@@ -611,7 +527,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 9.0,
       "chaleur": 6,
       "liens": [
         {
@@ -629,7 +545,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.2,
       "chaleur": 6,
       "liens": [
         {
@@ -647,7 +563,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 9.8,
       "chaleur": 6,
       "liens": [
         {
@@ -665,67 +581,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/playstation-allegedly-had-concerns-over-budget-potential-profitability-and-exclusivity-over-kojima-productions-physint",
           "titre": "PlayStation allegedly had \"concerns over budget, potential profitability, and exclusivity\" over Kojima Productions' Physint"
-        }
-      ]
-    },
-    {
-      "id": "the-other-xbox-360-exclusive-jrpg-from-the-creator-of-final",
-      "titre": "The other Xbox 360 exclusive JRPG from the creator of Final Fantasy now has a PC port",
-      "url": "https://www.videogameschronicle.com/news/the-other-xbox-360-exclusive-jrpg-from-the-creator-of-final-fantasy-now-has-a-pc-port/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-other-xbox-360-exclusive-jrpg-from-the-creator-of-final-fantasy-now-has-a-pc-port/",
-          "titre": "The other Xbox 360 exclusive JRPG from the creator of Final Fantasy now has a PC port"
-        }
-      ]
-    },
-    {
-      "id": "guide-nintendo-s-customer-appreciation-sale-discounts-games",
-      "titre": "Guide: Nintendo's 'Customer Appreciation Sale' Discounts Games, amiibo & More, Here's Everything Included (US)",
-      "url": "https://www.nintendolife.com/guides/nintendos-customer-appreciation-sale-discounts-games-amiibo-and-more-heres-everything-included-us",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/nintendos-customer-appreciation-sale-discounts-games-amiibo-and-more-heres-everything-included-us",
-          "titre": "Guide: Nintendo's 'Customer Appreciation Sale' Discounts Games, amiibo & More, Here's Everything Included (US)"
-        }
-      ]
-    },
-    {
-      "id": "roblox-plan-to-grow-their-absurd-gaming-empire-even-further",
-      "titre": "Roblox plan to grow their absurd gaming empire even further by letting devs release games as \"standalone apps\", potentially via Steam, Epic, and GOG",
-      "url": "https://www.rockpapershotgun.com/roblox-plan-to-grow-their-absurd-gaming-empire-even-further-by-letting-devs-release-games-as-standalone-apps-potentially-via-steam-epic-and-gog",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/roblox-plan-to-grow-their-absurd-gaming-empire-even-further-by-letting-devs-release-games-as-standalone-apps-potentially-via-steam-epic-and-gog",
-          "titre": "Roblox plan to grow their absurd gaming empire even further by letting devs release games as \"standalone apps\", potentially via Steam, Epic, and GOG"
         }
       ]
     },
@@ -737,7 +599,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.3,
       "chaleur": 6,
       "liens": [
         {
@@ -755,13 +617,67 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 15.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/nintendo-updates-zelda-timeline-seemingly-confirming-a-fan-theory",
           "titre": "Nintendo Updates Zelda Timeline, Seemingly Confirming A Fan Theory"
+        }
+      ]
+    },
+    {
+      "id": "the-other-xbox-360-exclusive-jrpg-from-the-creator-of-final",
+      "titre": "The other Xbox 360 exclusive JRPG from the creator of Final Fantasy now has a PC port",
+      "url": "https://www.videogameschronicle.com/news/the-other-xbox-360-exclusive-jrpg-from-the-creator-of-final-fantasy-now-has-a-pc-port/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 12.2,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-other-xbox-360-exclusive-jrpg-from-the-creator-of-final-fantasy-now-has-a-pc-port/",
+          "titre": "The other Xbox 360 exclusive JRPG from the creator of Final Fantasy now has a PC port"
+        }
+      ]
+    },
+    {
+      "id": "guide-nintendo-s-customer-appreciation-sale-discounts-games",
+      "titre": "Guide: Nintendo's 'Customer Appreciation Sale' Discounts Games, amiibo & More, Here's Everything Included (US)",
+      "url": "https://www.nintendolife.com/guides/nintendos-customer-appreciation-sale-discounts-games-amiibo-and-more-heres-everything-included-us",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/guides/nintendos-customer-appreciation-sale-discounts-games-amiibo-and-more-heres-everything-included-us",
+          "titre": "Guide: Nintendo's 'Customer Appreciation Sale' Discounts Games, amiibo & More, Here's Everything Included (US)"
+        }
+      ]
+    },
+    {
+      "id": "roblox-plan-to-grow-their-absurd-gaming-empire-even-further",
+      "titre": "Roblox plan to grow their absurd gaming empire even further by letting devs release games as \"standalone apps\", potentially via Steam, Epic, and GOG",
+      "url": "https://www.rockpapershotgun.com/roblox-plan-to-grow-their-absurd-gaming-empire-even-further-by-letting-devs-release-games-as-standalone-apps-potentially-via-steam-epic-and-gog",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 12.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/roblox-plan-to-grow-their-absurd-gaming-empire-even-further-by-letting-devs-release-games-as-standalone-apps-potentially-via-steam-epic-and-gog",
+          "titre": "Roblox plan to grow their absurd gaming empire even further by letting devs release games as \"standalone apps\", potentially via Steam, Epic, and GOG"
         }
       ]
     },
@@ -773,7 +689,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.3,
+      "heures": 32.5,
       "chaleur": 5,
       "liens": [
         {
@@ -791,7 +707,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 33.5,
       "chaleur": 5,
       "liens": [
         {
@@ -809,13 +725,85 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 32.6,
+      "heures": 34.7,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/diablo-4-season-of-hells-legacy-switch-2-amazon-class",
           "titre": "Diablo 4's new season brings back Deckard Cain and all three Prime Evils as the game arrives on Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "wardogs-players-are-actively-avoiding-one-team-in-particular",
+      "titre": "Wardogs players are actively avoiding one team in particular: 'They are literally the dumbest people on the planet'",
+      "url": "https://www.pcgamer.com/games/fps/wardogs-players-are-actively-avoiding-one-team-in-particular-they-are-literally-the-dumbest-people-on-the-planet/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/wardogs-players-are-actively-avoiding-one-team-in-particular-they-are-literally-the-dumbest-people-on-the-planet/",
+          "titre": "Wardogs players are actively avoiding one team in particular: 'They are literally the dumbest people on the planet'"
+        }
+      ]
+    },
+    {
+      "id": "the-king-is-watching-devs-are-making-the-crab-is-walking-thi",
+      "titre": "The King Is Watching devs are making The Crab is Walking, this journalist is writing",
+      "url": "https://www.rockpapershotgun.com/the-king-is-watching-devs-are-making-the-crab-is-walking-this-journalist-is-writing",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-king-is-watching-devs-are-making-the-crab-is-walking-this-journalist-is-writing",
+          "titre": "The King Is Watching devs are making The Crab is Walking, this journalist is writing"
+        }
+      ]
+    },
+    {
+      "id": "we-track-every-server-you-enter-the-wardogs-devs-are-coming",
+      "titre": "\"We track every server you enter\": the Wardogs devs are \"coming down hard\" on XP farms and cash exploits, even as they encourage people to grind",
+      "url": "https://www.rockpapershotgun.com/we-track-every-server-you-enter-the-wardogs-devs-are-coming-down-hard-on-xp-farms-and-cash-exploits-even-as-they-encourage-people-to-grind",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/we-track-every-server-you-enter-the-wardogs-devs-are-coming-down-hard-on-xp-farms-and-cash-exploits-even-as-they-encourage-people-to-grind",
+          "titre": "\"We track every server you enter\": the Wardogs devs are \"coming down hard\" on XP farms and cash exploits, even as they encourage people to grind"
+        }
+      ]
+    },
+    {
+      "id": "poll-10-years-later-is-persona-5-a-true-jrpg-masterpiece",
+      "titre": "Poll: 10 Years Later, Is Persona 5 a True JRPG Masterpiece?",
+      "url": "https://www.pushsquare.com/features/poll-10-years-later-is-persona-5-a-true-jrpg-masterpiece",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/poll-10-years-later-is-persona-5-a-true-jrpg-masterpiece",
+          "titre": "Poll: 10 Years Later, Is Persona 5 a True JRPG Masterpiece?"
         }
       ]
     },
@@ -827,7 +815,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +833,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.7,
       "chaleur": 4,
       "liens": [
         {
@@ -863,7 +851,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +869,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +905,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +923,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +959,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +977,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +995,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1025,7 +1013,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,7 +1031,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,7 +1049,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1079,7 +1067,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 12.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1097,8 +1085,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1115,8 +1103,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1133,7 +1121,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 14.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1151,7 +1139,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1169,7 +1157,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1187,7 +1175,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 15.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1205,7 +1193,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 16.2,
       "chaleur": 3,
       "liens": [
         {
