@@ -1,29 +1,83 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "16/09/2026 à 08h22",
+  "collecte": "16/09/2026 à 10h21",
   "seuil": 14,
   "sujets": [
     {
-      "id": "007-first-light-catches-a-big-delay-on-switch-2-pushing-it-i",
-      "titre": "007 First Light catches a big delay on Switch 2, pushing it into next year",
-      "url": "https://www.eurogamer.net/007-first-light-switch-2-delay",
+      "id": "wo-long-2-wings-of-ember-has-a-demo-out-as-koei-tecmo-carve",
+      "titre": "Wo Long 2: Wings of Ember has a demo out, as Koei Tecmo carve an early 2027 release date into some hulking demons from Chinese mythology",
+      "url": "https://www.rockpapershotgun.com/wo-long-2-wings-of-ember-has-a-demo-out-as-koei-tecmo-carve-an-early-2027-release-date-into-some-hulking-demons-from-chinese-mythology",
       "sources": [
         "Eurogamer",
-        "Nintendo Life"
+        "Nintendo Life",
+        "Rock Paper Shotgun"
       ],
-      "reprises": 2,
-      "heures": 22.7,
-      "chaleur": 10,
+      "reprises": 3,
+      "heures": 0.8,
+      "chaleur": 14,
       "liens": [
         {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/wo-long-2-wings-of-ember-has-a-demo-out-as-koei-tecmo-carve-an-early-2027-release-date-into-some-hulking-demons-from-chinese-mythology",
+          "titre": "Wo Long 2: Wings of Ember has a demo out, as Koei Tecmo carve an early 2027 release date into some hulking demons from Chinese mythology"
+        },
+        {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/007-first-light-switch-2-delay",
-          "titre": "007 First Light catches a big delay on Switch 2, pushing it into next year"
+          "url": "https://www.eurogamer.net/wo-long-2-wings-of-ember-demo-release-date",
+          "titre": "You can play a sizeable demo of Wo Long 2: Wings of Ember right now, getting you ready for its March 2027 release date"
         },
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/007-first-light-on-switch-2-delayed-until-march-2027",
-          "titre": "007 First Light On Switch 2 Delayed Until March 2027"
+          "url": "https://www.nintendolife.com/news/2026/09/koei-tecmos-dark-fantasy-action-rpg-sequel-locks-in-a-switch-2-release-date",
+          "titre": "Koei Tecmo's Dark Fantasy Action RPG Sequel Locks In A Switch 2 Release Date"
+        }
+      ]
+    },
+    {
+      "id": "two-point-museum-is-getting-rides-relics-dlc-which-looks-lik",
+      "titre": "Two Point Museum is getting Rides & Relics DLC, which looks like a new Theme Park game in all but name",
+      "url": "https://www.videogameschronicle.com/news/two-point-museum-is-getting-rides-relics-dlc-which-looks-like-a-new-theme-park-game-in-all-but-name/",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/two-point-museum-is-getting-rides-relics-dlc-which-looks-like-a-new-theme-park-game-in-all-but-name/",
+          "titre": "Two Point Museum is getting Rides & Relics DLC, which looks like a new Theme Park game in all but name"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/two-point-museum-rides-and-relics-dlc-announced",
+          "titre": "After riffing on Theme Hospital, Two Point Museum studio is tipping a hat to Bullfrog's classic Theme Park in its next DLC"
+        }
+      ]
+    },
+    {
+      "id": "the-head-of-nightdive-studios-appears-to-be-teasing-a-remast",
+      "titre": "The head of Nightdive Studios appears to be teasing a remaster of GameCube cult classic Eternal Darkness",
+      "url": "https://www.videogameschronicle.com/news/the-head-of-nightdive-studios-appears-to-be-teasing-a-remaster-of-gamecube-cult-classic-eternal-darkness/",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-head-of-nightdive-studios-appears-to-be-teasing-a-remaster-of-gamecube-cult-classic-eternal-darkness/",
+          "titre": "The head of Nightdive Studios appears to be teasing a remaster of GameCube cult classic Eternal Darkness"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nightdive-studios-head-raises-hopes-of-an-eternal-darkness-remaster",
+          "titre": "Nightdive Studios Head Raises Hopes Of An Eternal Darkness Remaster"
         }
       ]
     },
@@ -36,7 +90,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.0,
+      "heures": 2.0,
       "chaleur": 9,
       "liens": [
         {
@@ -60,7 +114,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 9,
       "liens": [
         {
@@ -76,32 +130,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "lies-of-p-s-sequel-is-a-wizard-of-oz-homage-called-wonders-o",
-      "titre": "Lies of P's sequel is a Wizard of Oz homage called Wonders of O, going by a Neowiz trademark, and probably not a videogame based on a famous work of French erotica",
-      "url": "https://www.rockpapershotgun.com/lies-of-ps-sequel-is-a-wizard-of-oz-homage-called-wonders-of-o-going-by-a-neowiz-trademark-and-probably-not-a-videogame-based-on-a-famous-work-of-french-erotica",
+      "id": "stellar-blade-launches-on-switch-2-this-november-with-a-prop",
+      "titre": "Stellar Blade Launches On Switch 2 This November With A Proper Physical Release",
+      "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-launches-on-switch-2-this-november-with-a-proper-physical-release",
       "sources": [
-        "Nintendo Life",
-        "Rock Paper Shotgun",
-        "VGC"
+        "Nintendo Life"
       ],
-      "reprises": 3,
-      "heures": 18.4,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/lies-of-ps-sequel-is-a-wizard-of-oz-homage-called-wonders-of-o-going-by-a-neowiz-trademark-and-probably-not-a-videogame-based-on-a-famous-work-of-french-erotica",
-          "titre": "Lies of P's sequel is a Wizard of Oz homage called Wonders of O, going by a Neowiz trademark, and probably not a videogame based on a famous work of French erotica"
-        },
-        {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/new-trademark-seemingly-reveals-the-title-for-lies-of-p-sequel",
-          "titre": "New Trademark Seemingly Reveals The Title For Lies Of P Sequel"
-        },
+          "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-launches-on-switch-2-this-november-with-a-proper-physical-release",
+          "titre": "Stellar Blade Launches On Switch 2 This November With A Proper Physical Release"
+        }
+      ]
+    },
+    {
+      "id": "login-errors-delay-diablo-4-s-big-new-season-of-hell-s-legac",
+      "titre": "Login errors delay Diablo 4's big new Season of Hell's Legacy anniversary update",
+      "url": "https://www.eurogamer.net/diablo-4-season-of-hells-legacy-30th-anniversary-delayed",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 8,
+      "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/lies-of-p-studio-neowiz-has-filed-a-trademark-for-wonders-of-o-an-apparent-wizard-of-oz-themed-sequel/",
-          "titre": "Lies of P studio Neowiz has filed a trademark for Wonders of O, an apparent Wizard of Oz themed sequel"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/diablo-4-season-of-hells-legacy-30th-anniversary-delayed",
+          "titre": "Login errors delay Diablo 4's big new Season of Hell's Legacy anniversary update"
         }
       ]
     },
@@ -113,31 +173,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 8,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/why-the-publisher-of-nintendo-life-is-launching-a-new-pc-gaming-site",
           "titre": "Why the publisher of Nintendo Life is launching a new PC gaming site"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-explains-why-fire-emblem-fortune-s-weave-has-just-a",
-      "titre": "Nintendo Explains Why Fire Emblem: Fortune's Weave Has Just \"A Single Save File\"",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-explains-why-fire-emblem-fortunes-weave-has-just-a-single-save-file",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendo-explains-why-fire-emblem-fortunes-weave-has-just-a-single-save-file",
-          "titre": "Nintendo Explains Why Fire Emblem: Fortune's Weave Has Just \"A Single Save File\""
         }
       ]
     },
@@ -150,7 +192,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 17.1,
+      "heures": 19.1,
       "chaleur": 8,
       "liens": [
         {
@@ -166,6 +208,186 @@ const VEILLE = {
       ]
     },
     {
+      "id": "007-first-light-catches-a-big-delay-on-switch-2-pushing-it-i",
+      "titre": "007 First Light catches a big delay on Switch 2, pushing it into next year",
+      "url": "https://www.eurogamer.net/007-first-light-switch-2-delay",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 24.7,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/007-first-light-switch-2-delay",
+          "titre": "007 First Light catches a big delay on Switch 2, pushing it into next year"
+        }
+      ]
+    },
+    {
+      "id": "where-have-all-the-rtx-5090s-gone-stock-of-the-high-end-gpu",
+      "titre": "Where have all the RTX 5090s gone? Stock of the high-end GPU is disappearing from US online retailers",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/where-have-all-the-rtx-5090s-gone-stock-of-the-high-end-gpu-is-disappearing-from-us-online-retailers/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/where-have-all-the-rtx-5090s-gone-stock-of-the-high-end-gpu-is-disappearing-from-us-online-retailers/",
+          "titre": "Where have all the RTX 5090s gone? Stock of the high-end GPU is disappearing from US online retailers"
+        }
+      ]
+    },
+    {
+      "id": "sakurai-believes-industry-will-slowly-die-without-innovation",
+      "titre": "Sakurai Believes Industry Will \"Slowly Die\" Without Innovation As He Discontinues Game Designers Award",
+      "url": "https://www.nintendolife.com/news/2026/09/sakurai-believes-industry-will-slowly-die-without-innovation-as-he-discontinues-game-designers-award",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/sakurai-believes-industry-will-slowly-die-without-innovation-as-he-discontinues-game-designers-award",
+          "titre": "Sakurai Believes Industry Will \"Slowly Die\" Without Innovation As He Discontinues Game Designers Award"
+        }
+      ]
+    },
+    {
+      "id": "feature-50-ps5-ps4-games-to-buy-in-ps-store-s-tokyo-game-sho",
+      "titre": "Feature: 50+ PS5, PS4 Games to Buy in PS Store's Tokyo Game Show Sale (North America/Europe)",
+      "url": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-ps-stores-tokyo-game-show-sale-north-americaeurope",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-ps-stores-tokyo-game-show-sale-north-americaeurope",
+          "titre": "Feature: 50+ PS5, PS4 Games to Buy in PS Store's Tokyo Game Show Sale (North America/Europe)"
+        }
+      ]
+    },
+    {
+      "id": "ps5-s-new-firmware-update-available-to-download-now-here-s-w",
+      "titre": "PS5's New Firmware Update Available to Download Now, Here's What It Does",
+      "url": "https://www.pushsquare.com/news/2026/09/ps5s-new-firmware-update-available-to-download-now-heres-what-it-does",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/ps5s-new-firmware-update-available-to-download-now-heres-what-it-does",
+          "titre": "PS5's New Firmware Update Available to Download Now, Here's What It Does"
+        }
+      ]
+    },
+    {
+      "id": "total-war-shogun-2-s-complete-edition-adds-50-minor-factions",
+      "titre": "Total War: Shogun 2's Complete Edition adds 50 minor factions in return for breaking your mods, but fear not, players who stick to the old version will get legacy DLC for free",
+      "url": "https://www.rockpapershotgun.com/total-war-shogun-2s-complete-edition-adds-50-more-factions-in-return-for-breaking-your-mods-but-fear-not-players-who-stick-to-the-old-version-will-get-legacy-dlc-for-free",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/total-war-shogun-2s-complete-edition-adds-50-more-factions-in-return-for-breaking-your-mods-but-fear-not-players-who-stick-to-the-old-version-will-get-legacy-dlc-for-free",
+          "titre": "Total War: Shogun 2's Complete Edition adds 50 minor factions in return for breaking your mods, but fear not, players who stick to the old version will get legacy DLC for free"
+        }
+      ]
+    },
+    {
+      "id": "i-ve-been-waiting-all-year-for-the-2nd-chapter-to-last-year",
+      "titre": "I've been waiting all year for the 2nd Chapter to last year's best JRPG remake—it did not disappoint",
+      "url": "https://www.pcgamer.com/games/rpg/ive-been-waiting-all-year-for-the-2nd-chapter-to-last-years-best-jrpg-remake-it-did-not-disappoint/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/ive-been-waiting-all-year-for-the-2nd-chapter-to-last-years-best-jrpg-remake-it-did-not-disappoint/",
+          "titre": "I've been waiting all year for the 2nd Chapter to last year's best JRPG remake—it did not disappoint"
+        }
+      ]
+    },
+    {
+      "id": "trails-in-the-sky-2nd-chapter-has-one-of-the-creepiest-jrpg",
+      "titre": "Trails in the Sky 2nd Chapter has one of the creepiest JRPG monsters I've encountered",
+      "url": "https://www.pcgamer.com/games/rpg/trails-in-the-sky-2nd-chapter-remake-has-one-of-the-creepiest-jrpg-monsters-ive-encountered/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/trails-in-the-sky-2nd-chapter-remake-has-one-of-the-creepiest-jrpg-monsters-ive-encountered/",
+          "titre": "Trails in the Sky 2nd Chapter has one of the creepiest JRPG monsters I've encountered"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-explains-why-fire-emblem-fortune-s-weave-has-just-a",
+      "titre": "Nintendo Explains Why Fire Emblem: Fortune's Weave Has Just \"A Single Save File\"",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-explains-why-fire-emblem-fortunes-weave-has-just-a-single-save-file",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nintendo-explains-why-fire-emblem-fortunes-weave-has-just-a-single-save-file",
+          "titre": "Nintendo Explains Why Fire Emblem: Fortune's Weave Has Just \"A Single Save File\""
+        }
+      ]
+    },
+    {
+      "id": "new-zelda-tears-of-the-kingdom-art-book-now-arriving-in-2027",
+      "titre": "New Zelda: Tears Of The Kingdom Art Book Now Arriving In 2027",
+      "url": "https://www.nintendolife.com/news/2026/09/new-zelda-tears-of-the-kingdom-art-book-now-arriving-in-2027",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 9.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/new-zelda-tears-of-the-kingdom-art-book-now-arriving-in-2027",
+          "titre": "New Zelda: Tears Of The Kingdom Art Book Now Arriving In 2027"
+        }
+      ]
+    },
+    {
       "id": "wardogs-ceo-says-he-won-t-hire-devs-who-aren-t-down-with-man",
       "titre": "Wardogs CEO says he won't hire devs who aren't down with mandatory crunch: 'If you care about what you're making, this is the place to work'",
       "url": "https://www.pcgamer.com/games/fps/wardogs-ceo-says-he-wont-hire-devs-who-arent-down-with-mandatory-crunch-if-you-care-about-what-youre-making-this-is-the-place-to-work/",
@@ -174,8 +396,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 11.1,
-      "chaleur": 7,
+      "heures": 13.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -190,96 +412,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "trails-in-the-sky-2nd-chapter-has-one-of-the-creepiest-jrpg",
-      "titre": "Trails in the Sky 2nd Chapter has one of the creepiest JRPG monsters I've encountered",
-      "url": "https://www.pcgamer.com/games/rpg/trails-in-the-sky-2nd-chapter-remake-has-one-of-the-creepiest-jrpg-monsters-ive-encountered/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/trails-in-the-sky-2nd-chapter-remake-has-one-of-the-creepiest-jrpg-monsters-ive-encountered/",
-          "titre": "Trails in the Sky 2nd Chapter has one of the creepiest JRPG monsters I've encountered"
-        }
-      ]
-    },
-    {
-      "id": "i-ve-been-waiting-all-year-for-the-2nd-chapter-to-last-year",
-      "titre": "I've been waiting all year for the 2nd Chapter to last year's best JRPG remake—it did not disappoint",
-      "url": "https://www.pcgamer.com/games/rpg/ive-been-waiting-all-year-for-the-2nd-chapter-to-last-years-best-jrpg-remake-it-did-not-disappoint/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/ive-been-waiting-all-year-for-the-2nd-chapter-to-last-years-best-jrpg-remake-it-did-not-disappoint/",
-          "titre": "I've been waiting all year for the 2nd Chapter to last year's best JRPG remake—it did not disappoint"
-        }
-      ]
-    },
-    {
-      "id": "diablo-iv-apparently-has-no-more-expansions-planned-in-lead",
-      "titre": "Diablo IV Apparently Has No More Expansions Planned In Lead Up To Diablo V's Release",
-      "url": "https://www.nintendolife.com/news/2026/09/diablo-iv-apparently-has-no-more-expansions-planned-in-lead-up-to-diablo-vs-release",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/diablo-iv-apparently-has-no-more-expansions-planned-in-lead-up-to-diablo-vs-release",
-          "titre": "Diablo IV Apparently Has No More Expansions Planned In Lead Up To Diablo V's Release"
-        }
-      ]
-    },
-    {
-      "id": "koei-tecmo-s-dark-fantasy-action-rpg-sequel-locks-in-a-switc",
-      "titre": "Koei Tecmo's Dark Fantasy Action RPG Sequel Locks In A Switch 2 Release Date",
-      "url": "https://www.nintendolife.com/news/2026/09/koei-tecmos-dark-fantasy-action-rpg-sequel-locks-in-a-switch-2-release-date",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/koei-tecmos-dark-fantasy-action-rpg-sequel-locks-in-a-switch-2-release-date",
-          "titre": "Koei Tecmo's Dark Fantasy Action RPG Sequel Locks In A Switch 2 Release Date"
-        }
-      ]
-    },
-    {
-      "id": "new-zelda-tears-of-the-kingdom-art-book-now-arriving-in-2027",
-      "titre": "New Zelda: Tears Of The Kingdom Art Book Now Arriving In 2027",
-      "url": "https://www.nintendolife.com/news/2026/09/new-zelda-tears-of-the-kingdom-art-book-now-arriving-in-2027",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/new-zelda-tears-of-the-kingdom-art-book-now-arriving-in-2027",
-          "titre": "New Zelda: Tears Of The Kingdom Art Book Now Arriving In 2027"
-        }
-      ]
-    },
-    {
       "id": "multiple-music-artists-tease-gta-6-collaborations",
       "titre": "Multiple Music Artists Tease GTA 6 Collaborations",
       "url": "https://www.pushsquare.com/news/2026/09/multiple-music-artists-tease-gta-6-collaborations",
@@ -287,7 +419,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 18.6,
       "chaleur": 6,
       "liens": [
         {
@@ -298,26 +430,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sega-and-netflix-announce-partnership-to-develop-crazy-taxi",
-      "titre": "Sega and Netflix announce partnership to develop Crazy Taxi, Sonic, and Stranger Than Heaven adaptations",
-      "url": "https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations",
+      "id": "lies-of-p-s-sequel-is-a-wizard-of-oz-homage-called-wonders-o",
+      "titre": "Lies of P's sequel is a Wizard of Oz homage called Wonders of O, going by a Neowiz trademark, and probably not a videogame based on a famous work of French erotica",
+      "url": "https://www.rockpapershotgun.com/lies-of-ps-sequel-is-a-wizard-of-oz-homage-called-wonders-of-o-going-by-a-neowiz-trademark-and-probably-not-a-videogame-based-on-a-famous-work-of-french-erotica",
       "sources": [
-        "GamesIndustry.biz",
-        "Nintendo Life"
+        "Nintendo Life",
+        "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 21.6,
+      "heures": 20.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations",
-          "titre": "Sega and Netflix announce partnership to develop Crazy Taxi, Sonic, and Stranger Than Heaven adaptations"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/lies-of-ps-sequel-is-a-wizard-of-oz-homage-called-wonders-of-o-going-by-a-neowiz-trademark-and-probably-not-a-videogame-based-on-a-famous-work-of-french-erotica",
+          "titre": "Lies of P's sequel is a Wizard of Oz homage called Wonders of O, going by a Neowiz trademark, and probably not a videogame based on a famous work of French erotica"
         },
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/sega-and-netflix-announce-new-multi-title-collaboration",
-          "titre": "SEGA And Netflix Announce New \"Multi-Title Collaboration\""
+          "url": "https://www.nintendolife.com/news/2026/09/new-trademark-seemingly-reveals-the-title-for-lies-of-p-sequel",
+          "titre": "New Trademark Seemingly Reveals The Title For Lies Of P Sequel"
         }
       ]
     },
@@ -329,7 +461,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.3,
       "chaleur": 5,
       "liens": [
         {
@@ -347,7 +479,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 21.9,
       "chaleur": 5,
       "liens": [
         {
@@ -365,7 +497,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 21.9,
       "chaleur": 5,
       "liens": [
         {
@@ -383,7 +515,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.0,
+      "heures": 23.0,
       "chaleur": 5,
       "liens": [
         {
@@ -401,7 +533,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.5,
+      "heures": 28.4,
       "chaleur": 5,
       "liens": [
         {
@@ -412,38 +544,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "asha-sharma-has-been-personally-responding-to-xbox-users-sup",
-      "titre": "Asha Sharma ‘has been personally responding to Xbox users’ support tickets’",
-      "url": "https://www.videogameschronicle.com/news/asha-sharma-has-been-personally-responding-to-xbox-users-support-tickets/",
+      "id": "diablo-iv-apparently-has-no-more-expansions-planned-in-lead",
+      "titre": "Diablo IV Apparently Has No More Expansions Planned In Lead Up To Diablo V's Release",
+      "url": "https://www.nintendolife.com/news/2026/09/diablo-iv-apparently-has-no-more-expansions-planned-in-lead-up-to-diablo-vs-release",
       "sources": [
-        "VGC"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.8,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/asha-sharma-has-been-personally-responding-to-xbox-users-support-tickets/",
-          "titre": "Asha Sharma ‘has been personally responding to Xbox users’ support tickets’"
-        }
-      ]
-    },
-    {
-      "id": "wo-long-2-wings-of-ember-isn-t-just-a-sequel-it-s-a-culminat",
-      "titre": "Wo Long 2: Wings of Ember isn't just a sequel - it's a culmination of everything Team Ninja has learned from Nioh, Ninja Gaiden, and Dead or Alive",
-      "url": "https://www.eurogamer.net/wo-long-2-wings-of-ember-preview",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 7.4,
+      "heures": 4.4,
       "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/wo-long-2-wings-of-ember-preview",
-          "titre": "Wo Long 2: Wings of Ember isn't just a sequel - it's a culmination of everything Team Ninja has learned from Nioh, Ninja Gaiden, and Dead or Alive"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/diablo-iv-apparently-has-no-more-expansions-planned-in-lead-up-to-diablo-vs-release",
+          "titre": "Diablo IV Apparently Has No More Expansions Planned In Lead Up To Diablo V's Release"
         }
       ]
     },
@@ -455,7 +569,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -473,7 +587,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -491,7 +605,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -509,7 +623,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -527,8 +641,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -545,7 +659,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -563,7 +677,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -581,7 +695,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -599,7 +713,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -617,7 +731,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -635,7 +749,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -653,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.6,
       "chaleur": 3,
       "liens": [
         {
@@ -671,7 +785,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.8,
       "chaleur": 3,
       "liens": [
         {
@@ -689,7 +803,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -707,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -725,31 +839,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 18.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/software/ai/no-ai-you-are-not-human-microsofts-code-of-practice-for-artificial-intelligence-actually-gives-me-some-hope-for-the-industry/",
           "titre": "No, AI, you are not human: Microsoft's code of practice for artificial intelligence actually gives me some hope for the industry"
-        }
-      ]
-    },
-    {
-      "id": "after-riffing-on-theme-hospital-two-point-museum-studio-is-t",
-      "titre": "After riffing on Theme Hospital, Two Point Museum studio is tipping a hat to Bullfrog's classic Theme Park in its next DLC",
-      "url": "https://www.eurogamer.net/two-point-museum-rides-and-relics-dlc-announced",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 16.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/two-point-museum-rides-and-relics-dlc-announced",
-          "titre": "After riffing on Theme Hospital, Two Point Museum studio is tipping a hat to Bullfrog's classic Theme Park in its next DLC"
         }
       ]
     },
@@ -761,7 +857,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.3,
       "chaleur": 3,
       "liens": [
         {
@@ -779,7 +875,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.3,
       "chaleur": 3,
       "liens": [
         {
@@ -797,7 +893,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -815,7 +911,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 18.6,
       "chaleur": 3,
       "liens": [
         {
@@ -833,7 +929,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.9,
       "chaleur": 3,
       "liens": [
         {
@@ -851,31 +947,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 18.9,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/marathons-next-major-update-runs-a-few-months-further-away-permanent-pve-in-hand-as-bungie-ditch-their-strict-seasonal-schedule",
           "titre": "Marathon's next major update runs a few months further away, permanent PvE in hand, as Bungie ditch their \"strict seasonal schedule\""
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-s-story-director-says-an-ideal-quest-is-constr",
-      "titre": "The Witcher 3's story director says an ideal quest is 'constructed in such a way that the player puts the controller away, stands up, and starts walking'",
-      "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3s-story-director-says-an-ideal-quest-is-constructed-in-such-a-way-that-the-player-puts-the-controller-away-stands-up-and-starts-walking/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3s-story-director-says-an-ideal-quest-is-constructed-in-such-a-way-that-the-player-puts-the-controller-away-stands-up-and-starts-walking/",
-          "titre": "The Witcher 3's story director says an ideal quest is 'constructed in such a way that the player puts the controller away, stands up, and starts walking'"
         }
       ]
     },
@@ -887,7 +965,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 17.2,
+      "heures": 19.2,
       "chaleur": 3,
       "liens": [
         {
@@ -905,7 +983,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -923,7 +1001,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -941,7 +1019,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 19.9,
       "chaleur": 3,
       "liens": [
         {
@@ -959,7 +1037,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 19.9,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +1055,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 18.0,
+      "heures": 20.0,
       "chaleur": 3,
       "liens": [
         {
@@ -995,7 +1073,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 20.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1013,7 +1091,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +1109,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,7 +1127,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1058,79 +1136,9 @@ const VEILLE = {
           "titre": "Alien Deathstorm's intense, relentless FPS action was a surprise Gamescom highlight - even if it nearly made my brain explode"
         }
       ]
-    },
-    {
-      "id": "dragonheir-silent-gods-marks-third-anniversary-with-a-hero-i",
-      "titre": "Dragonheir: Silent Gods marks third anniversary with a hero its players helped create",
-      "url": "https://www.videogameschronicle.com/news/dragonheir-silent-gods-marks-third-anniversary-with-a-hero-its-players-helped-create/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 19.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/dragonheir-silent-gods-marks-third-anniversary-with-a-hero-its-players-helped-create/",
-          "titre": "Dragonheir: Silent Gods marks third anniversary with a hero its players helped create"
-        }
-      ]
-    },
-    {
-      "id": "get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-compl",
-      "titre": "Get Indie Cracker 'The Alters' on a PS5 Disc in Physical Complete Edition",
-      "url": "https://www.pushsquare.com/news/2026/09/get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-complete-edition",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 19.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-complete-edition",
-          "titre": "Get Indie Cracker 'The Alters' on a PS5 Disc in Physical Complete Edition"
-        }
-      ]
-    },
-    {
-      "id": "nightdive-studios-head-raises-hopes-of-an-eternal-darkness-r",
-      "titre": "Nightdive Studios Head Raises Hopes Of An Eternal Darkness Remaster",
-      "url": "https://www.nintendolife.com/news/2026/09/nightdive-studios-head-raises-hopes-of-an-eternal-darkness-remaster",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 19.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nightdive-studios-head-raises-hopes-of-an-eternal-darkness-remaster",
-          "titre": "Nightdive Studios Head Raises Hopes Of An Eternal Darkness Remaster"
-        }
-      ]
-    },
-    {
-      "id": "katsuhiro-harada-and-snk-discuss-their-bold-ambitions-to-rev",
-      "titre": "Katsuhiro Harada and SNK discuss their bold ambitions to ‘revive Japan’s golden era’",
-      "url": "https://www.videogameschronicle.com/features/interviews/katsuhiro-harada-and-snk-discuss-their-bold-ambitions-to-revive-japans-golden-era/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 20.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/interviews/katsuhiro-harada-and-snk-discuss-their-bold-ambitions-to-revive-japans-golden-era/",
-          "titre": "Katsuhiro Harada and SNK discuss their bold ambitions to ‘revive Japan’s golden era’"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Wo Long 2: Wings of Ember has a demo out, as Koei Tecmo carve an early 2027 release date into some hulking demons from Chinese mythology"
+  ]
 };
