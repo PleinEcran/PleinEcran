@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "15/09/2026 à 22h19",
+  "collecte": "16/09/2026 à 00h26",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 5,
-      "heures": 7.1,
+      "heures": 9.2,
       "chaleur": 18,
       "liens": [
         {
@@ -46,30 +46,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "bungie-is-overhauling-marathon-from-its-original-extraction",
-      "titre": "Bungie is overhauling Marathon from its original extraction shooter vision",
-      "url": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
-      "sources": [
-        "Eurogamer",
-        "Game Developer"
-      ],
-      "reprises": 2,
-      "heures": 3.3,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
-          "titre": "Bungie is overhauling Marathon from its original extraction shooter vision"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marathon-pve-mode-delay-bungie-major-update",
-          "titre": "Marathon's permanent PvE mode and next major update delayed to December days before launch, and Bungie's \"moving away from a strict season schedule\""
-        }
-      ]
-    },
-    {
       "id": "lies-of-p-s-sequel-is-a-wizard-of-oz-homage-called-wonders-o",
       "titre": "Lies of P's sequel is a Wizard of Oz homage called Wonders of O, going by a Neowiz trademark, and probably not a videogame based on a famous work of French erotica",
       "url": "https://www.rockpapershotgun.com/lies-of-ps-sequel-is-a-wizard-of-oz-homage-called-wonders-of-o-going-by-a-neowiz-trademark-and-probably-not-a-videogame-based-on-a-famous-work-of-french-erotica",
@@ -79,7 +55,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 8.4,
+      "heures": 10.5,
       "chaleur": 10,
       "liens": [
         {
@@ -100,36 +76,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sega-and-netflix-announce-partnership-to-develop-crazy-taxi",
-      "titre": "Sega and Netflix announce partnership to develop Crazy Taxi, Sonic, and Stranger Than Heaven adaptations",
-      "url": "https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz",
-        "Nintendo Life"
-      ],
-      "reprises": 3,
-      "heures": 11.5,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations",
-          "titre": "Sega and Netflix announce partnership to develop Crazy Taxi, Sonic, and Stranger Than Heaven adaptations"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/sega-and-netflix-announce-new-multi-title-collaboration",
-          "titre": "SEGA And Netflix Announce New \"Multi-Title Collaboration\""
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sega-netflix-sonic-tv-crazy-taxi-stranger-than-heaven-film",
-          "titre": "Sega and Netflix partner for a \"cute yet cool\" Sonic TV Show, a Crazy Taxi film, and a \"badass action\" Stranger Than Heaven adaptation"
-        }
-      ]
-    },
-    {
       "id": "007-first-light-catches-a-big-delay-on-switch-2-pushing-it-i",
       "titre": "007 First Light catches a big delay on Switch 2, pushing it into next year",
       "url": "https://www.eurogamer.net/007-first-light-switch-2-delay",
@@ -138,7 +84,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 12.6,
+      "heures": 14.8,
       "chaleur": 10,
       "liens": [
         {
@@ -162,7 +108,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 1.1,
+      "heures": 3.2,
       "chaleur": 9,
       "liens": [
         {
@@ -178,50 +124,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "roblox-will-allow-devs-to-release-games-as-standalone-apps-o",
-      "titre": "Roblox will allow devs to release games as standalone apps on other stores",
-      "url": "https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores",
+      "id": "bungie-is-overhauling-marathon-from-its-original-extraction",
+      "titre": "Bungie is overhauling Marathon from its original extraction shooter vision",
+      "url": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
       "sources": [
-        "Game Developer",
-        "GamesIndustry.biz"
+        "Eurogamer",
+        "Game Developer"
       ],
       "reprises": 2,
-      "heures": 2.4,
+      "heures": 5.4,
       "chaleur": 9,
       "liens": [
         {
           "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores",
-          "titre": "Roblox will allow devs to release games as standalone apps on other stores"
+          "url": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
+          "titre": "Bungie is overhauling Marathon from its original extraction shooter vision"
         },
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/roblox-creators-will-soon-be-able-to-publish-games-on-multiple-platforms-as-standalone-apps",
-          "titre": "Roblox creators will soon be able to publish games on multiple platforms as standalone apps"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/marathon-pve-mode-delay-bungie-major-update",
+          "titre": "Marathon's permanent PvE mode and next major update delayed to December days before launch, and Bungie's \"moving away from a strict season schedule\""
         }
       ]
     },
     {
-      "id": "marathon-s-next-major-update-runs-a-few-months-further-away",
-      "titre": "Marathon's next major update runs a few months further away, permanent PvE in hand, as Bungie ditch their \"strict seasonal schedule\"",
-      "url": "https://www.rockpapershotgun.com/marathons-next-major-update-runs-a-few-months-further-away-permanent-pve-in-hand-as-bungie-ditch-their-strict-seasonal-schedule",
+      "id": "sega-and-netflix-announce-partnership-to-develop-crazy-taxi",
+      "titre": "Sega and Netflix announce partnership to develop Crazy Taxi, Sonic, and Stranger Than Heaven adaptations",
+      "url": "https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations",
       "sources": [
-        "Push Square",
-        "Rock Paper Shotgun"
+        "Eurogamer",
+        "GamesIndustry.biz",
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 6.9,
+      "reprises": 3,
+      "heures": 13.7,
       "chaleur": 9,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/marathons-next-major-update-runs-a-few-months-further-away-permanent-pve-in-hand-as-bungie-ditch-their-strict-seasonal-schedule",
-          "titre": "Marathon's next major update runs a few months further away, permanent PvE in hand, as Bungie ditch their \"strict seasonal schedule\""
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations",
+          "titre": "Sega and Netflix announce partnership to develop Crazy Taxi, Sonic, and Stranger Than Heaven adaptations"
         },
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
-          "titre": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/sega-and-netflix-announce-new-multi-title-collaboration",
+          "titre": "SEGA And Netflix Announce New \"Multi-Title Collaboration\""
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/sega-netflix-sonic-tv-crazy-taxi-stranger-than-heaven-film",
+          "titre": "Sega and Netflix partner for a \"cute yet cool\" Sonic TV Show, a Crazy Taxi film, and a \"badass action\" Stranger Than Heaven adaptation"
         }
       ]
     },
@@ -234,8 +186,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 11.0,
-      "chaleur": 9,
+      "heures": 13.1,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
@@ -250,20 +202,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "steam-reverses-porn-game-rating-it-mistakenly-gave-to-an-ind",
-      "titre": "Steam reverses porn game rating it mistakenly gave to an indie vampire RPG, and despite the stress it was a 'net positive' overall as wishlists on Steam 'basically doubled overnight'",
-      "url": "https://www.pcgamer.com/games/rpg/steam-reverses-porn-game-rating-it-mistakenly-gave-to-an-indie-vampire-rpg-and-despite-the-stress-it-was-a-net-positive-overall-as-wishlists-on-steam-basically-doubled-overnight/",
+      "id": "roblox-will-allow-devs-to-release-games-as-standalone-apps-o",
+      "titre": "Roblox will allow devs to release games as standalone apps on other stores",
+      "url": "https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores",
       "sources": [
-        "PC Gamer"
+        "Game Developer",
+        "GamesIndustry.biz"
       ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 8,
+      "reprises": 2,
+      "heures": 4.6,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/steam-reverses-porn-game-rating-it-mistakenly-gave-to-an-indie-vampire-rpg-and-despite-the-stress-it-was-a-net-positive-overall-as-wishlists-on-steam-basically-doubled-overnight/",
-          "titre": "Steam reverses porn game rating it mistakenly gave to an indie vampire RPG, and despite the stress it was a 'net positive' overall as wishlists on Steam 'basically doubled overnight'"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores",
+          "titre": "Roblox will allow devs to release games as standalone apps on other stores"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/roblox-creators-will-soon-be-able-to-publish-games-on-multiple-platforms-as-standalone-apps",
+          "titre": "Roblox creators will soon be able to publish games on multiple platforms as standalone apps"
         }
       ]
     },
@@ -275,13 +233,85 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.7,
       "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/multiple-music-artists-tease-gta-6-collaborations",
           "titre": "Multiple Music Artists Tease GTA 6 Collaborations"
+        }
+      ]
+    },
+    {
+      "id": "diablo-iv-s-30th-anniversary-diablo-celebrations-get-off-to",
+      "titre": "Diablo IV's 30th Anniversary Diablo Celebrations Get Off To A Bumpy Start",
+      "url": "https://www.nintendolife.com/news/2026/09/diablo-ivs-30th-anniversary-diablo-celebrations-get-off-to-a-bumpy-start",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/diablo-ivs-30th-anniversary-diablo-celebrations-get-off-to-a-bumpy-start",
+          "titre": "Diablo IV's 30th Anniversary Diablo Celebrations Get Off To A Bumpy Start"
+        }
+      ]
+    },
+    {
+      "id": "how-to-fish-in-valheim",
+      "titre": "How to fish in Valheim",
+      "url": "https://www.pcgamer.com/games/survival-crafting/valheim-how-to-fish/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/valheim-how-to-fish/",
+          "titre": "How to fish in Valheim"
+        }
+      ]
+    },
+    {
+      "id": "blizzard-is-aware-overwatch-fans-are-tired-of-seeing-its-fan",
+      "titre": "Blizzard is aware Overwatch fans are tired of seeing its fanciest skins go to the same heroes and it's 'the number one' thing it's working to fix next",
+      "url": "https://www.pcgamer.com/games/fps/blizzard-is-aware-overwatch-fans-are-tired-of-seeing-its-fanciest-skins-go-to-the-same-heroes-and-its-the-number-one-thing-its-working-to-fix-next/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/blizzard-is-aware-overwatch-fans-are-tired-of-seeing-its-fanciest-skins-go-to-the-same-heroes-and-its-the-number-one-thing-its-working-to-fix-next/",
+          "titre": "Blizzard is aware Overwatch fans are tired of seeing its fanciest skins go to the same heroes and it's 'the number one' thing it's working to fix next"
+        }
+      ]
+    },
+    {
+      "id": "new-ps5-pulse-headsets-revealed-by-sony-with-better-sound-an",
+      "titre": "New PS5 Pulse Headsets Revealed by Sony with Better Sound and Comfort",
+      "url": "https://www.pushsquare.com/news/2026/09/new-ps5-pulse-headsets-revealed-by-sony-with-better-sound-and-comfort",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/new-ps5-pulse-headsets-revealed-by-sony-with-better-sound-and-comfort",
+          "titre": "New PS5 Pulse Headsets Revealed by Sony with Better Sound and Comfort"
         }
       ]
     },
@@ -293,7 +323,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -304,38 +334,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "wardogs-delivers-what-battlefield-6-was-too-console-brained",
-      "titre": "Wardogs delivers what Battlefield 6 was too console-brained to pull off: A real server browser",
-      "url": "https://www.pcgamer.com/games/fps/wardogs-delivers-what-battlefield-6-was-too-console-brained-to-pull-off-a-real-server-browser/",
+      "id": "steam-reverses-porn-game-rating-it-mistakenly-gave-to-an-ind",
+      "titre": "Steam reverses porn game rating it mistakenly gave to an indie vampire RPG, and despite the stress it was a 'net positive' overall as wishlists on Steam 'basically doubled overnight'",
+      "url": "https://www.pcgamer.com/games/rpg/steam-reverses-porn-game-rating-it-mistakenly-gave-to-an-indie-vampire-rpg-and-despite-the-stress-it-was-a-net-positive-overall-as-wishlists-on-steam-basically-doubled-overnight/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.5,
+      "heures": 4.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/wardogs-delivers-what-battlefield-6-was-too-console-brained-to-pull-off-a-real-server-browser/",
-          "titre": "Wardogs delivers what Battlefield 6 was too console-brained to pull off: A real server browser"
-        }
-      ]
-    },
-    {
-      "id": "diablo-4-player-discovers-secret-diablo-2-easter-egg-in-its",
-      "titre": "Diablo 4 player discovers secret Diablo 2 easter egg in its new throwback season and now everyone is wondering what else Blizzard hid in there",
-      "url": "https://www.pcgamer.com/games/rpg/diablo-4-player-discovers-secret-diablo-2-easter-egg-in-its-new-throwback-season-and-now-everyone-is-wondering-what-else-blizzard-hid-in-there/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/diablo-4-player-discovers-secret-diablo-2-easter-egg-in-its-new-throwback-season-and-now-everyone-is-wondering-what-else-blizzard-hid-in-there/",
-          "titre": "Diablo 4 player discovers secret Diablo 2 easter egg in its new throwback season and now everyone is wondering what else Blizzard hid in there"
+          "url": "https://www.pcgamer.com/games/rpg/steam-reverses-porn-game-rating-it-mistakenly-gave-to-an-indie-vampire-rpg-and-despite-the-stress-it-was-a-net-positive-overall-as-wishlists-on-steam-basically-doubled-overnight/",
+          "titre": "Steam reverses porn game rating it mistakenly gave to an indie vampire RPG, and despite the stress it was a 'net positive' overall as wishlists on Steam 'basically doubled overnight'"
         }
       ]
     },
@@ -347,7 +359,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.9,
       "chaleur": 6,
       "liens": [
         {
@@ -365,7 +377,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 12.0,
       "chaleur": 6,
       "liens": [
         {
@@ -383,7 +395,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.7,
+      "heures": 23.9,
       "chaleur": 6,
       "liens": [
         {
@@ -401,7 +413,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.2,
+      "heures": 29.4,
       "chaleur": 6,
       "liens": [
         {
@@ -419,7 +431,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 28.8,
+      "heures": 30.9,
       "chaleur": 6,
       "liens": [
         {
@@ -437,7 +449,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.5,
       "chaleur": 5,
       "liens": [
         {
@@ -455,7 +467,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 21.9,
       "chaleur": 5,
       "liens": [
         {
@@ -473,7 +485,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.3,
+      "heures": 30.4,
       "chaleur": 5,
       "liens": [
         {
@@ -491,7 +503,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.4,
       "chaleur": 5,
       "liens": [
         {
@@ -509,7 +521,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.4,
       "chaleur": 5,
       "liens": [
         {
@@ -527,7 +539,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 30.3,
+      "heures": 32.4,
       "chaleur": 5,
       "liens": [
         {
@@ -545,7 +557,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.1,
+      "heures": 33.2,
       "chaleur": 5,
       "liens": [
         {
@@ -563,7 +575,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 32.6,
+      "heures": 34.7,
       "chaleur": 5,
       "liens": [
         {
@@ -574,20 +586,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "guide-nintendo-s-customer-appreciation-sale-discounts-games",
-      "titre": "Guide: Nintendo's 'Customer Appreciation Sale' Discounts Games, amiibo & More, Here's Everything Included (US)",
-      "url": "https://www.nintendolife.com/guides/nintendos-customer-appreciation-sale-discounts-games-amiibo-and-more-heres-everything-included-us",
+      "id": "wardogs-delivers-what-battlefield-6-was-too-console-brained",
+      "titre": "Wardogs delivers what Battlefield 6 was too console-brained to pull off: A real server browser",
+      "url": "https://www.pcgamer.com/games/fps/wardogs-delivers-what-battlefield-6-was-too-console-brained-to-pull-off-a-real-server-browser/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 34.3,
-      "chaleur": 5,
+      "heures": 4.6,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/nintendos-customer-appreciation-sale-discounts-games-amiibo-and-more-heres-everything-included-us",
-          "titre": "Guide: Nintendo's 'Customer Appreciation Sale' Discounts Games, amiibo & More, Here's Everything Included (US)"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/wardogs-delivers-what-battlefield-6-was-too-console-brained-to-pull-off-a-real-server-browser/",
+          "titre": "Wardogs delivers what Battlefield 6 was too console-brained to pull off: A real server browser"
+        }
+      ]
+    },
+    {
+      "id": "diablo-4-player-discovers-secret-diablo-2-easter-egg-in-its",
+      "titre": "Diablo 4 player discovers secret Diablo 2 easter egg in its new throwback season and now everyone is wondering what else Blizzard hid in there",
+      "url": "https://www.pcgamer.com/games/rpg/diablo-4-player-discovers-secret-diablo-2-easter-egg-in-its-new-throwback-season-and-now-everyone-is-wondering-what-else-blizzard-hid-in-there/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/diablo-4-player-discovers-secret-diablo-2-easter-egg-in-its-new-throwback-season-and-now-everyone-is-wondering-what-else-blizzard-hid-in-there/",
+          "titre": "Diablo 4 player discovers secret Diablo 2 easter egg in its new throwback season and now everyone is wondering what else Blizzard hid in there"
         }
       ]
     },
@@ -599,7 +629,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -617,7 +647,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -635,7 +665,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -653,7 +683,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -671,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -689,7 +719,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -707,7 +737,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -725,7 +755,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -743,7 +773,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -761,7 +791,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -779,7 +809,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -797,7 +827,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +845,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.7,
       "chaleur": 4,
       "liens": [
         {
@@ -833,13 +863,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/give-barbies-dreamhouse-a-deep-clean-in-powerwash-simulator-2s-next-dlc-pack",
           "titre": "Give Barbie's Dreamhouse a Deep Clean in PowerWash Simulator 2's Next DLC Pack"
+        }
+      ]
+    },
+    {
+      "id": "marathon-s-next-major-update-runs-a-few-months-further-away",
+      "titre": "Marathon's next major update runs a few months further away, permanent PvE in hand, as Bungie ditch their \"strict seasonal schedule\"",
+      "url": "https://www.rockpapershotgun.com/marathons-next-major-update-runs-a-few-months-further-away-permanent-pve-in-hand-as-bungie-ditch-their-strict-seasonal-schedule",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 9.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/marathons-next-major-update-runs-a-few-months-further-away-permanent-pve-in-hand-as-bungie-ditch-their-strict-seasonal-schedule",
+          "titre": "Marathon's next major update runs a few months further away, permanent PvE in hand, as Bungie ditch their \"strict seasonal schedule\""
         }
       ]
     },
@@ -851,7 +899,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -869,7 +917,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +935,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +953,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +971,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +989,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +1007,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +1025,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -995,49 +1043,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/2017s-pvp-action-game-for-honor-is-free-to-own-for-a-limited-time-on-ubisoft-connect/",
           "titre": "2017’s PvP action game For Honor is free to own for a limited time on Ubisoft Connect"
-        }
-      ]
-    },
-    {
-      "id": "toss-a-project-at-your-printer-vibe-coded-tool-allows-develo",
-      "titre": "Toss a project at your printer: vibe coded tool allows developer to throw stuff at his 3D printer in VR to begin printing",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/toss-a-project-at-your-printer-vibe-coded-tool-allows-developer-to-throw-stuff-at-his-3d-printer-in-vr-to-begin-printing/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/toss-a-project-at-your-printer-vibe-coded-tool-allows-developer-to-throw-stuff-at-his-3d-printer-in-vr-to-begin-printing/",
-          "titre": "Toss a project at your printer: vibe coded tool allows developer to throw stuff at his 3D printer in VR to begin printing"
-        }
-      ]
-    },
-    {
-      "id": "cdpr-wants-to-make-the-witcher-3-remastered-feel-like-any-ot",
-      "titre": "CDPR wants to make The Witcher 3 Remastered feel like any other game released today: 'It's so easy to get used to these new improvements that it's hard to go back'",
-      "url": "https://www.pcgamer.com/games/the-witcher/cdpr-wants-to-make-the-witcher-3-remastered-feel-like-any-other-game-released-today-its-so-easy-to-get-used-to-these-new-improvements-that-its-hard-to-go-back/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 8.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/cdpr-wants-to-make-the-witcher-3-remastered-feel-like-any-other-game-released-today-its-so-easy-to-get-used-to-these-new-improvements-that-its-hard-to-go-back/",
-          "titre": "CDPR wants to make The Witcher 3 Remastered feel like any other game released today: 'It's so easy to get used to these new improvements that it's hard to go back'"
         }
       ]
     },
@@ -1049,7 +1061,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1067,7 +1079,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1085,7 +1097,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1103,7 +1115,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1121,7 +1133,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1139,31 +1151,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/dragonheir-silent-gods-marks-third-anniversary-with-a-hero-its-players-helped-create/",
           "titre": "Dragonheir: Silent Gods marks third anniversary with a hero its players helped create"
-        }
-      ]
-    },
-    {
-      "id": "get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-compl",
-      "titre": "Get Indie Cracker 'The Alters' on a PS5 Disc in Physical Complete Edition",
-      "url": "https://www.pushsquare.com/news/2026/09/get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-complete-edition",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-complete-edition",
-          "titre": "Get Indie Cracker 'The Alters' on a PS5 Disc in Physical Complete Edition"
         }
       ]
     }
