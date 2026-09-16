@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "16/09/2026 à 00h26",
+  "collecte": "16/09/2026 à 02h20",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 5,
-      "heures": 9.2,
+      "heures": 11.1,
       "chaleur": 18,
       "liens": [
         {
@@ -46,6 +46,54 @@ const VEILLE = {
       ]
     },
     {
+      "id": "007-first-light-catches-a-big-delay-on-switch-2-pushing-it-i",
+      "titre": "007 First Light catches a big delay on Switch 2, pushing it into next year",
+      "url": "https://www.eurogamer.net/007-first-light-switch-2-delay",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 16.7,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/007-first-light-switch-2-delay",
+          "titre": "007 First Light catches a big delay on Switch 2, pushing it into next year"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/007-first-light-on-switch-2-delayed-until-march-2027",
+          "titre": "007 First Light On Switch 2 Delayed Until March 2027"
+        }
+      ]
+    },
+    {
+      "id": "bungie-is-overhauling-marathon-from-its-original-extraction",
+      "titre": "Bungie is overhauling Marathon from its original extraction shooter vision",
+      "url": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
+      "sources": [
+        "Eurogamer",
+        "Game Developer"
+      ],
+      "reprises": 2,
+      "heures": 7.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
+          "titre": "Bungie is overhauling Marathon from its original extraction shooter vision"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/marathon-pve-mode-delay-bungie-major-update",
+          "titre": "Marathon's permanent PvE mode and next major update delayed to December days before launch, and Bungie's \"moving away from a strict season schedule\""
+        }
+      ]
+    },
+    {
       "id": "lies-of-p-s-sequel-is-a-wizard-of-oz-homage-called-wonders-o",
       "titre": "Lies of P's sequel is a Wizard of Oz homage called Wonders of O, going by a Neowiz trademark, and probably not a videogame based on a famous work of French erotica",
       "url": "https://www.rockpapershotgun.com/lies-of-ps-sequel-is-a-wizard-of-oz-homage-called-wonders-of-o-going-by-a-neowiz-trademark-and-probably-not-a-videogame-based-on-a-famous-work-of-french-erotica",
@@ -55,8 +103,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 10.5,
-      "chaleur": 10,
+      "heures": 12.4,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -76,78 +124,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "007-first-light-catches-a-big-delay-on-switch-2-pushing-it-i",
-      "titre": "007 First Light catches a big delay on Switch 2, pushing it into next year",
-      "url": "https://www.eurogamer.net/007-first-light-switch-2-delay",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 14.8,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/007-first-light-switch-2-delay",
-          "titre": "007 First Light catches a big delay on Switch 2, pushing it into next year"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/007-first-light-on-switch-2-delayed-until-march-2027",
-          "titre": "007 First Light On Switch 2 Delayed Until March 2027"
-        }
-      ]
-    },
-    {
-      "id": "wardogs-ceo-says-he-won-t-hire-devs-who-aren-t-down-with-man",
-      "titre": "Wardogs CEO says he won't hire devs who aren't down with mandatory crunch: 'If you care about what you're making, this is the place to work'",
-      "url": "https://www.pcgamer.com/games/fps/wardogs-ceo-says-he-wont-hire-devs-who-arent-down-with-mandatory-crunch-if-you-care-about-what-youre-making-this-is-the-place-to-work/",
-      "sources": [
-        "Game Developer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 3.2,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/wardogs-ceo-says-he-wont-hire-devs-who-arent-down-with-mandatory-crunch-if-you-care-about-what-youre-making-this-is-the-place-to-work/",
-          "titre": "Wardogs CEO says he won't hire devs who aren't down with mandatory crunch: 'If you care about what you're making, this is the place to work'"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media",
-          "titre": "Wardogs lead says the studio won't hire people who decry crunch on social media"
-        }
-      ]
-    },
-    {
-      "id": "bungie-is-overhauling-marathon-from-its-original-extraction",
-      "titre": "Bungie is overhauling Marathon from its original extraction shooter vision",
-      "url": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
-      "sources": [
-        "Eurogamer",
-        "Game Developer"
-      ],
-      "reprises": 2,
-      "heures": 5.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
-          "titre": "Bungie is overhauling Marathon from its original extraction shooter vision"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marathon-pve-mode-delay-bungie-major-update",
-          "titre": "Marathon's permanent PvE mode and next major update delayed to December days before launch, and Bungie's \"moving away from a strict season schedule\""
-        }
-      ]
-    },
-    {
       "id": "sega-and-netflix-announce-partnership-to-develop-crazy-taxi",
       "titre": "Sega and Netflix announce partnership to develop Crazy Taxi, Sonic, and Stranger Than Heaven adaptations",
       "url": "https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations",
@@ -157,7 +133,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 3,
-      "heures": 13.7,
+      "heures": 15.6,
       "chaleur": 9,
       "liens": [
         {
@@ -178,6 +154,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "koei-tecmo-s-dark-fantasy-action-rpg-sequel-locks-in-a-switc",
+      "titre": "Koei Tecmo's Dark Fantasy Action RPG Sequel Locks In A Switch 2 Release Date",
+      "url": "https://www.nintendolife.com/news/2026/09/koei-tecmos-dark-fantasy-action-rpg-sequel-locks-in-a-switch-2-release-date",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/koei-tecmos-dark-fantasy-action-rpg-sequel-locks-in-a-switch-2-release-date",
+          "titre": "Koei Tecmo's Dark Fantasy Action RPG Sequel Locks In A Switch 2 Release Date"
+        }
+      ]
+    },
+    {
+      "id": "new-zelda-tears-of-the-kingdom-art-book-now-arriving-in-2027",
+      "titre": "New Zelda: Tears Of The Kingdom Art Book Now Arriving In 2027",
+      "url": "https://www.nintendolife.com/news/2026/09/new-zelda-tears-of-the-kingdom-art-book-now-arriving-in-2027",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/new-zelda-tears-of-the-kingdom-art-book-now-arriving-in-2027",
+          "titre": "New Zelda: Tears Of The Kingdom Art Book Now Arriving In 2027"
+        }
+      ]
+    },
+    {
       "id": "ubisoft-delays-rayman-legends-remake-retold-a-couple-of-mont",
       "titre": "Ubisoft delays Rayman Legends remake Retold a couple of months \"to make sure every detail gets the care it deserves\"",
       "url": "https://www.eurogamer.net/rayman-legends-remake-retold-release-date-delay",
@@ -186,7 +198,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 13.1,
+      "heures": 15.0,
       "chaleur": 8,
       "liens": [
         {
@@ -202,26 +214,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "roblox-will-allow-devs-to-release-games-as-standalone-apps-o",
-      "titre": "Roblox will allow devs to release games as standalone apps on other stores",
-      "url": "https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores",
+      "id": "wardogs-ceo-says-he-won-t-hire-devs-who-aren-t-down-with-man",
+      "titre": "Wardogs CEO says he won't hire devs who aren't down with mandatory crunch: 'If you care about what you're making, this is the place to work'",
+      "url": "https://www.pcgamer.com/games/fps/wardogs-ceo-says-he-wont-hire-devs-who-arent-down-with-mandatory-crunch-if-you-care-about-what-youre-making-this-is-the-place-to-work/",
       "sources": [
         "Game Developer",
-        "GamesIndustry.biz"
+        "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 4.6,
+      "heures": 5.1,
       "chaleur": 7,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores",
-          "titre": "Roblox will allow devs to release games as standalone apps on other stores"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/wardogs-ceo-says-he-wont-hire-devs-who-arent-down-with-mandatory-crunch-if-you-care-about-what-youre-making-this-is-the-place-to-work/",
+          "titre": "Wardogs CEO says he won't hire devs who aren't down with mandatory crunch: 'If you care about what you're making, this is the place to work'"
         },
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/roblox-creators-will-soon-be-able-to-publish-games-on-multiple-platforms-as-standalone-apps",
-          "titre": "Roblox creators will soon be able to publish games on multiple platforms as standalone apps"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media",
+          "titre": "Wardogs lead says the studio won't hire people who decry crunch on social media"
         }
       ]
     },
@@ -233,13 +245,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.7,
+      "heures": 10.6,
       "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/multiple-music-artists-tease-gta-6-collaborations",
           "titre": "Multiple Music Artists Tease GTA 6 Collaborations"
+        }
+      ]
+    },
+    {
+      "id": "wo-long-2-wings-of-ember-isn-t-just-a-sequel-it-s-a-culminat",
+      "titre": "Wo Long 2: Wings of Ember isn't just a sequel - it's a culmination of everything Team Ninja has learned from Nioh, Ninja Gaiden, and Dead or Alive",
+      "url": "https://www.eurogamer.net/wo-long-2-wings-of-ember-preview",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/wo-long-2-wings-of-ember-preview",
+          "titre": "Wo Long 2: Wings of Ember isn't just a sequel - it's a culmination of everything Team Ninja has learned from Nioh, Ninja Gaiden, and Dead or Alive"
         }
       ]
     },
@@ -251,7 +281,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -269,7 +299,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -287,7 +317,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -305,31 +335,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/new-ps5-pulse-headsets-revealed-by-sony-with-better-sound-and-comfort",
           "titre": "New PS5 Pulse Headsets Revealed by Sony with Better Sound and Comfort"
-        }
-      ]
-    },
-    {
-      "id": "as-skyblivion-s-launch-approaches-the-team-is-looking-for-he",
-      "titre": "As Skyblivion's launch approaches, the team is looking for help to get the word out",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/as-skyblivions-launch-approaches-the-team-is-looking-for-help-to-get-the-word-out/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-elder-scrolls/as-skyblivions-launch-approaches-the-team-is-looking-for-help-to-get-the-word-out/",
-          "titre": "As Skyblivion's launch approaches, the team is looking for help to get the word out"
         }
       ]
     },
@@ -341,49 +353,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/rpg/steam-reverses-porn-game-rating-it-mistakenly-gave-to-an-indie-vampire-rpg-and-despite-the-stress-it-was-a-net-positive-overall-as-wishlists-on-steam-basically-doubled-overnight/",
           "titre": "Steam reverses porn game rating it mistakenly gave to an indie vampire RPG, and despite the stress it was a 'net positive' overall as wishlists on Steam 'basically doubled overnight'"
-        }
-      ]
-    },
-    {
-      "id": "why-switching-main-characters-for-your-game-s-sequel-might-b",
-      "titre": "Why switching main characters for your game's sequel might be a mistake",
-      "url": "https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake",
-          "titre": "Why switching main characters for your game's sequel might be a mistake"
-        }
-      ]
-    },
-    {
-      "id": "valve-considered-making-a-new-vr-game-for-the-steam-frame-be",
-      "titre": "Valve considered making a new VR game for the Steam Frame, before tackling the \"ludicrous\" task of getting Half-Life: Alyx running standalone",
-      "url": "https://www.rockpapershotgun.com/valve-considered-making-a-new-vr-game-for-the-steam-frame-before-tackling-the-ludicrous-task-of-getting-half-life-alyx-running-standalone",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 12.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valve-considered-making-a-new-vr-game-for-the-steam-frame-before-tackling-the-ludicrous-task-of-getting-half-life-alyx-running-standalone",
-          "titre": "Valve considered making a new VR game for the Steam Frame, before tackling the \"ludicrous\" task of getting Half-Life: Alyx running standalone"
         }
       ]
     },
@@ -395,7 +371,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.9,
+      "heures": 25.8,
       "chaleur": 6,
       "liens": [
         {
@@ -413,7 +389,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 31.3,
       "chaleur": 6,
       "liens": [
         {
@@ -431,13 +407,49 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 30.9,
+      "heures": 32.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/more-than-40-of-people-cancelling-xbox-game-pass-playstation-plus-and-nintendo-switch-online-subscriptions-blame-rising-costs",
           "titre": "More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online subscriptions blame rising costs"
+        }
+      ]
+    },
+    {
+      "id": "why-switching-main-characters-for-your-game-s-sequel-might-b",
+      "titre": "Why switching main characters for your game's sequel might be a mistake",
+      "url": "https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 13.8,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake",
+          "titre": "Why switching main characters for your game's sequel might be a mistake"
+        }
+      ]
+    },
+    {
+      "id": "valve-considered-making-a-new-vr-game-for-the-steam-frame-be",
+      "titre": "Valve considered making a new VR game for the Steam Frame, before tackling the \"ludicrous\" task of getting Half-Life: Alyx running standalone",
+      "url": "https://www.rockpapershotgun.com/valve-considered-making-a-new-vr-game-for-the-steam-frame-before-tackling-the-ludicrous-task-of-getting-half-life-alyx-running-standalone",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 13.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/valve-considered-making-a-new-vr-game-for-the-steam-frame-before-tackling-the-ludicrous-task-of-getting-half-life-alyx-running-standalone",
+          "titre": "Valve considered making a new VR game for the Steam Frame, before tackling the \"ludicrous\" task of getting Half-Life: Alyx running standalone"
         }
       ]
     },
@@ -449,7 +461,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.5,
+      "heures": 20.4,
       "chaleur": 5,
       "liens": [
         {
@@ -467,7 +479,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 23.8,
       "chaleur": 5,
       "liens": [
         {
@@ -485,7 +497,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 30.4,
+      "heures": 32.3,
       "chaleur": 5,
       "liens": [
         {
@@ -503,7 +515,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 31.4,
+      "heures": 33.3,
       "chaleur": 5,
       "liens": [
         {
@@ -521,7 +533,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.4,
+      "heures": 33.3,
       "chaleur": 5,
       "liens": [
         {
@@ -539,7 +551,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 32.4,
+      "heures": 34.3,
       "chaleur": 5,
       "liens": [
         {
@@ -550,38 +562,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "hori-has-announced-a-modular-arcade-stick-for-switch-2-and-i",
-      "titre": "Hori Has Announced A Modular Arcade Stick For Switch 2, And It Looks Awesome",
-      "url": "https://www.nintendolife.com/news/2026/09/hori-has-announced-a-modular-arcade-stick-for-switch-2-and-it-looks-awesome",
+      "id": "as-skyblivion-s-launch-approaches-the-team-is-looking-for-he",
+      "titre": "As Skyblivion's launch approaches, the team is looking for help to get the word out",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/as-skyblivions-launch-approaches-the-team-is-looking-for-help-to-get-the-word-out/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 33.2,
-      "chaleur": 5,
+      "heures": 4.6,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/hori-has-announced-a-modular-arcade-stick-for-switch-2-and-it-looks-awesome",
-          "titre": "Hori Has Announced A Modular Arcade Stick For Switch 2, And It Looks Awesome"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/as-skyblivions-launch-approaches-the-team-is-looking-for-help-to-get-the-word-out/",
+          "titre": "As Skyblivion's launch approaches, the team is looking for help to get the word out"
         }
       ]
     },
     {
-      "id": "playstation-allegedly-had-concerns-over-budget-potential-pro",
-      "titre": "PlayStation allegedly had \"concerns over budget, potential profitability, and exclusivity\" over Kojima Productions' Physint",
-      "url": "https://www.gamesindustry.biz/playstation-allegedly-had-concerns-over-budget-potential-profitability-and-exclusivity-over-kojima-productions-physint",
+      "id": "roblox-will-allow-devs-to-release-games-as-standalone-apps-o",
+      "titre": "Roblox will allow devs to release games as standalone apps on other stores",
+      "url": "https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores",
       "sources": [
-        "GamesIndustry.biz"
+        "Game Developer"
       ],
       "reprises": 1,
-      "heures": 34.7,
-      "chaleur": 5,
+      "heures": 6.5,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/playstation-allegedly-had-concerns-over-budget-potential-profitability-and-exclusivity-over-kojima-productions-physint",
-          "titre": "PlayStation allegedly had \"concerns over budget, potential profitability, and exclusivity\" over Kojima Productions' Physint"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores",
+          "titre": "Roblox will allow devs to release games as standalone apps on other stores"
         }
       ]
     },
@@ -593,7 +605,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -611,7 +623,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -629,7 +641,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -647,7 +659,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -665,7 +677,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -683,7 +695,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -701,7 +713,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -719,7 +731,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -737,7 +749,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -755,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -773,7 +785,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -791,7 +803,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -809,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -827,7 +839,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +857,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.7,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -863,7 +875,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +893,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +911,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +929,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +947,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +965,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.2,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +983,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +1001,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +1019,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1025,7 +1037,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,7 +1055,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.0,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,8 +1073,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1079,8 +1091,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1097,8 +1109,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1115,8 +1127,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -1133,31 +1145,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/alien-deathstorm-gamescom-preview",
           "titre": "Alien Deathstorm's intense, relentless FPS action was a surprise Gamescom highlight - even if it nearly made my brain explode"
-        }
-      ]
-    },
-    {
-      "id": "dragonheir-silent-gods-marks-third-anniversary-with-a-hero-i",
-      "titre": "Dragonheir: Silent Gods marks third anniversary with a hero its players helped create",
-      "url": "https://www.videogameschronicle.com/news/dragonheir-silent-gods-marks-third-anniversary-with-a-hero-its-players-helped-create/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/dragonheir-silent-gods-marks-third-anniversary-with-a-hero-its-players-helped-create/",
-          "titre": "Dragonheir: Silent Gods marks third anniversary with a hero its players helped create"
         }
       ]
     }
