@@ -1,25 +1,25 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "16/09/2026 à 14h21",
+  "collecte": "16/09/2026 à 16h21",
   "seuil": 14,
   "sujets": [
     {
-      "id": "round-up-the-reviews-for-fire-emblem-fortune-s-weave-are-in",
-      "titre": "Round Up: The Reviews For Fire Emblem: Fortune's Weave Are In",
-      "url": "https://www.nintendolife.com/news/2026/09/round-up-the-reviews-for-fire-emblem-fortunes-weave-are-in",
+      "id": "fire-emblem-fortune-s-weave-gets-a-day-one-update-here-are-t",
+      "titre": "Fire Emblem: Fortune's Weave Gets A Day One Update, Here Are The Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-gets-a-day-one-update-here-are-the-patch-notes",
       "sources": [
         "Eurogamer",
         "Nintendo Life",
         "VGC"
       ],
       "reprises": 3,
-      "heures": 0.9,
+      "heures": 1.4,
       "chaleur": 14,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/round-up-the-reviews-for-fire-emblem-fortunes-weave-are-in",
-          "titre": "Round Up: The Reviews For Fire Emblem: Fortune's Weave Are In"
+          "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-gets-a-day-one-update-here-are-the-patch-notes",
+          "titre": "Fire Emblem: Fortune's Weave Gets A Day One Update, Here Are The Patch Notes"
         },
         {
           "source": "Eurogamer",
@@ -34,36 +34,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "bayonetta-will-join-sonic-racing-crossworlds-in-a-free-updat",
-      "titre": "Bayonetta Will Join Sonic Racing: CrossWorlds in a Free Update 'Soon' on PS5, PS4",
-      "url": "https://www.pushsquare.com/news/2026/09/bayonetta-will-join-sonic-racing-crossworlds-in-a-free-update-soon-on-ps5-ps4",
-      "sources": [
-        "Nintendo Life",
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 2.6,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/bayonetta-will-join-sonic-racing-crossworlds-in-a-free-update-soon-on-ps5-ps4",
-          "titre": "Bayonetta Will Join Sonic Racing: CrossWorlds in a Free Update 'Soon' on PS5, PS4"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sega-confirms-that-sonic-racing-crossworlds-will-still-get-free-characters-in-year-two-starting-with-bayonetta/",
-          "titre": "Sega confirms that Sonic Racing CrossWorlds will still get free characters in Year Two, starting with Bayonetta"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/sonic-racings-first-free-character-update-of-year-two-is-bayonetta",
-          "titre": "Sonic Racing's First Free Character Update Of 'Year Two' Is Bayonetta"
-        }
-      ]
-    },
-    {
       "id": "wo-long-2-wings-of-ember-has-a-demo-out-as-koei-tecmo-carve",
       "titre": "Wo Long 2: Wings of Ember has a demo out, as Koei Tecmo carve an early 2027 release date into some hulking demons from Chinese mythology",
       "url": "https://www.rockpapershotgun.com/wo-long-2-wings-of-ember-has-a-demo-out-as-koei-tecmo-carve-an-early-2027-release-date-into-some-hulking-demons-from-chinese-mythology",
@@ -73,7 +43,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 12,
       "liens": [
         {
@@ -94,20 +64,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "microsoft-doesn-t-dismiss-rumours-a-major-xbox-game-pass-sha",
-      "titre": "Microsoft doesn't dismiss rumours a major Xbox Game Pass shake-up is on the way, which reportedly removes day-one game offerings entirely",
-      "url": "https://www.eurogamer.net/xbox-game-pass-big-changes-2027-rumour-microsoft-responds",
+      "id": "microsoft-hasn-t-marched-fable-to-the-guillotine-because-it",
+      "titre": "Microsoft hasn't marched Fable to the guillotine because it's 'vital to the DNA' of Xbox, says the game's director",
+      "url": "https://www.pcgamer.com/games/rpg/microsoft-hasnt-marched-fable-to-the-guillotine-because-its-vital-to-the-dna-of-xbox-says-the-games-director/",
       "sources": [
-        "Eurogamer"
+        "Eurogamer",
+        "PC Gamer"
       ],
-      "reprises": 1,
-      "heures": 2.7,
+      "reprises": 2,
+      "heures": 0.8,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/microsoft-hasnt-marched-fable-to-the-guillotine-because-its-vital-to-the-dna-of-xbox-says-the-games-director/",
+          "titre": "Microsoft hasn't marched Fable to the guillotine because it's 'vital to the DNA' of Xbox, says the game's director"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/fable-vital-dna-of-xbox-playground-games",
+          "titre": "Xbox's Fable reboot was allowed a 10-year development because the RPG series is \"vital to the DNA of the platform\", developer Playground Games says"
+        }
+      ]
+    },
+    {
+      "id": "bayonetta-will-join-sonic-racing-crossworlds-in-a-free-updat",
+      "titre": "Bayonetta Will Join Sonic Racing: CrossWorlds in a Free Update 'Soon' on PS5, PS4",
+      "url": "https://www.pushsquare.com/news/2026/09/bayonetta-will-join-sonic-racing-crossworlds-in-a-free-update-soon-on-ps5-ps4",
+      "sources": [
+        "Nintendo Life",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 4.6,
       "chaleur": 10,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-game-pass-big-changes-2027-rumour-microsoft-responds",
-          "titre": "Microsoft doesn't dismiss rumours a major Xbox Game Pass shake-up is on the way, which reportedly removes day-one game offerings entirely"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/bayonetta-will-join-sonic-racing-crossworlds-in-a-free-update-soon-on-ps5-ps4",
+          "titre": "Bayonetta Will Join Sonic Racing: CrossWorlds in a Free Update 'Soon' on PS5, PS4"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sega-confirms-that-sonic-racing-crossworlds-will-still-get-free-characters-in-year-two-starting-with-bayonetta/",
+          "titre": "Sega confirms that Sonic Racing CrossWorlds will still get free characters in Year Two, starting with Bayonetta"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/sonic-racings-first-free-character-update-of-year-two-is-bayonetta",
+          "titre": "Sonic Racing's First Free Character Update Of 'Year Two' Is Bayonetta"
         }
       ]
     },
@@ -119,55 +125,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 9,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/musicians-including-travis-scott-keith-richards-and-future-have-started-teasing-that-theyll-be-in-gta-6/",
           "titre": "Musicians including Travis Scott, Keith Richards and Future have started teasing that they’ll be in GTA 6"
-        }
-      ]
-    },
-    {
-      "id": "they-often-don-t-make-it-in-the-door-wardogs-studio-bulkhea",
-      "titre": "\"They often don’t make it in the door\": Wardogs studio Bulkhead check for \"anti-crunch messaging\" on prospective hires' social media, CEO says",
-      "url": "https://www.rockpapershotgun.com/they-often-dont-make-it-in-the-door-wardogs-studio-bulkhead-check-for-anti-crunch-messaging-on-prospective-hires-social-media-ceo-says",
-      "sources": [
-        "Game Developer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 2.2,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/they-often-dont-make-it-in-the-door-wardogs-studio-bulkhead-check-for-anti-crunch-messaging-on-prospective-hires-social-media-ceo-says",
-          "titre": "\"They often don’t make it in the door\": Wardogs studio Bulkhead check for \"anti-crunch messaging\" on prospective hires' social media, CEO says"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media",
-          "titre": "Wardogs lead says the studio won't hire people who decry crunch on social media"
-        }
-      ]
-    },
-    {
-      "id": "xbox-s-fable-reboot-was-allowed-a-10-year-development-becaus",
-      "titre": "Xbox's Fable reboot was allowed a 10-year development because the RPG series is \"vital to the DNA of the platform\", developer Playground Games says",
-      "url": "https://www.eurogamer.net/fable-vital-dna-of-xbox-playground-games",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 0.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/fable-vital-dna-of-xbox-playground-games",
-          "titre": "Xbox's Fable reboot was allowed a 10-year development because the RPG series is \"vital to the DNA of the platform\", developer Playground Games says"
         }
       ]
     },
@@ -179,7 +143,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 8,
       "liens": [
         {
@@ -190,38 +154,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "here-s-the-second-wave-of-xbox-game-pass-games-coming-in-sep",
-      "titre": "Here's the second wave of Xbox Game Pass games coming in September",
-      "url": "https://www.eurogamer.net/xbox-game-pass-second-wave-september-gears-of-war",
+      "id": "microsoft-doesn-t-dismiss-rumours-a-major-xbox-game-pass-sha",
+      "titre": "Microsoft doesn't dismiss rumours a major Xbox Game Pass shake-up is on the way, which reportedly removes day-one game offerings entirely",
+      "url": "https://www.eurogamer.net/xbox-game-pass-big-changes-2027-rumour-microsoft-responds",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.7,
+      "heures": 4.7,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-game-pass-second-wave-september-gears-of-war",
-          "titre": "Here's the second wave of Xbox Game Pass games coming in September"
-        }
-      ]
-    },
-    {
-      "id": "full-body-tracking-could-come-to-steam-frame-courtesy-of-thi",
-      "titre": "Full body tracking could come to Steam Frame courtesy of this supercharged Base Station-like device that doesn't require headset support",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/full-body-tracking-could-come-to-steam-frame-courtesy-of-this-supercharged-base-station-like-device-that-doesnt-require-headset-support/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/full-body-tracking-could-come-to-steam-frame-courtesy-of-this-supercharged-base-station-like-device-that-doesnt-require-headset-support/",
-          "titre": "Full body tracking could come to Steam Frame courtesy of this supercharged Base Station-like device that doesn't require headset support"
+          "url": "https://www.eurogamer.net/xbox-game-pass-big-changes-2027-rumour-microsoft-responds",
+          "titre": "Microsoft doesn't dismiss rumours a major Xbox Game Pass shake-up is on the way, which reportedly removes day-one game offerings entirely"
         }
       ]
     },
@@ -234,7 +180,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 23.1,
+      "heures": 25.1,
       "chaleur": 8,
       "liens": [
         {
@@ -250,6 +196,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "they-often-don-t-make-it-in-the-door-wardogs-studio-bulkhea",
+      "titre": "\"They often don’t make it in the door\": Wardogs studio Bulkhead check for \"anti-crunch messaging\" on prospective hires' social media, CEO says",
+      "url": "https://www.rockpapershotgun.com/they-often-dont-make-it-in-the-door-wardogs-studio-bulkhead-check-for-anti-crunch-messaging-on-prospective-hires-social-media-ceo-says",
+      "sources": [
+        "Game Developer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 4.2,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/they-often-dont-make-it-in-the-door-wardogs-studio-bulkhead-check-for-anti-crunch-messaging-on-prospective-hires-social-media-ceo-says",
+          "titre": "\"They often don’t make it in the door\": Wardogs studio Bulkhead check for \"anti-crunch messaging\" on prospective hires' social media, CEO says"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media",
+          "titre": "Wardogs lead says the studio won't hire people who decry crunch on social media"
+        }
+      ]
+    },
+    {
       "id": "two-point-museum-is-getting-rides-relics-dlc-which-looks-lik",
       "titre": "Two Point Museum is getting Rides & Relics DLC, which looks like a new Theme Park game in all but name",
       "url": "https://www.videogameschronicle.com/news/two-point-museum-is-getting-rides-relics-dlc-which-looks-like-a-new-theme-park-game-in-all-but-name/",
@@ -258,7 +228,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 7,
       "liens": [
         {
@@ -282,7 +252,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.0,
+      "heures": 7.0,
       "chaleur": 7,
       "liens": [
         {
@@ -306,7 +276,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 7,
       "liens": [
         {
@@ -329,13 +299,229 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.7,
+      "heures": 30.7,
       "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/007-first-light-switch-2-delay",
           "titre": "007 First Light catches a big delay on Switch 2, pushing it into next year"
+        }
+      ]
+    },
+    {
+      "id": "low-poly-horror-tumblebee-combines-the-joy-of-tumbling-bees",
+      "titre": "Low poly horror Tumblebee combines the joy of tumbling bees with the not-joy of being chased by huge spiders",
+      "url": "https://www.rockpapershotgun.com/low-poly-horror-tumblebee-combines-the-joy-of-tumbling-bees-with-the-not-joy-of-being-chased-by-huge-spiders",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/low-poly-horror-tumblebee-combines-the-joy-of-tumbling-bees-with-the-not-joy-of-being-chased-by-huge-spiders",
+          "titre": "Low poly horror Tumblebee combines the joy of tumbling bees with the not-joy of being chased by huge spiders"
+        }
+      ]
+    },
+    {
+      "id": "here-are-the-first-finalists-for-the-2026-gamesindustry-biz",
+      "titre": "Here are the first finalists for the 2026 GamesIndustry.biz Best Places To Work Awards UK",
+      "url": "https://www.gamesindustry.biz/here-are-the-first-finalists-for-the-2026-gamesindustrybiz-best-places-to-work-awards-uk",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/here-are-the-first-finalists-for-the-2026-gamesindustrybiz-best-places-to-work-awards-uk",
+          "titre": "Here are the first finalists for the 2026 GamesIndustry.biz Best Places To Work Awards UK"
+        }
+      ]
+    },
+    {
+      "id": "balatro-developer-localthunk-turns-up-on-discord-to-talk-abo",
+      "titre": "Balatro developer LocalThunk turns up on Discord to talk about the 1.1 update and life after burnout: 'I truly am having the best time making the game now'",
+      "url": "https://www.pcgamer.com/games/card-games/balatro-developer-localthunk-turns-up-on-discord-to-talk-about-the-1-1-update-and-life-after-burnout-i-truly-am-having-the-best-time-making-the-game-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/card-games/balatro-developer-localthunk-turns-up-on-discord-to-talk-about-the-1-1-update-and-life-after-burnout-i-truly-am-having-the-best-time-making-the-game-now/",
+          "titre": "Balatro developer LocalThunk turns up on Discord to talk about the 1.1 update and life after burnout: 'I truly am having the best time making the game now'"
+        }
+      ]
+    },
+    {
+      "id": "ex-ms-engineer-reveals-the-story-behind-the-infamous-fckgw-w",
+      "titre": "Ex-MS engineer reveals the story behind the infamous 'FCKGW' Windows XP key: 'Pirates started baking the key into images or just writing it on the CD with a Sharpie'",
+      "url": "https://www.pcgamer.com/software/windows/ex-ms-engineer-reveals-the-story-behind-the-infamous-fckgw-windows-xp-key-pirates-started-baking-the-key-into-images-or-just-writing-it-on-the-cd-with-a-sharpie/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/windows/ex-ms-engineer-reveals-the-story-behind-the-infamous-fckgw-windows-xp-key-pirates-started-baking-the-key-into-images-or-just-writing-it-on-the-cd-with-a-sharpie/",
+          "titre": "Ex-MS engineer reveals the story behind the infamous 'FCKGW' Windows XP key: 'Pirates started baking the key into images or just writing it on the CD with a Sharpie'"
+        }
+      ]
+    },
+    {
+      "id": "dragon-s-dogma-2-fans-will-froth-at-the-mouth-with-this-new",
+      "titre": "Dragon's Dogma 2 Fans Will Froth at the Mouth with This New Look at Dark Arisen",
+      "url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-fans-will-froth-at-the-mouth-with-this-new-look-at-dark-arisen",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-fans-will-froth-at-the-mouth-with-this-new-look-at-dark-arisen",
+          "titre": "Dragon's Dogma 2 Fans Will Froth at the Mouth with This New Look at Dark Arisen"
+        }
+      ]
+    },
+    {
+      "id": "dog-in-the-machine-reinvents-the-domino-tactics-of-into-the",
+      "titre": "Dog in the Machine reinvents the domino tactics of Into The Breach as a mecha dog show, with players teaching their hounds tricks",
+      "url": "https://www.rockpapershotgun.com/dog-in-the-machine-reinvents-the-domino-tactics-of-into-the-breach-as-a-mecha-dog-show-with-players-teaching-their-hounds-tricks",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/dog-in-the-machine-reinvents-the-domino-tactics-of-into-the-breach-as-a-mecha-dog-show-with-players-teaching-their-hounds-tricks",
+          "titre": "Dog in the Machine reinvents the domino tactics of Into The Breach as a mecha dog show, with players teaching their hounds tricks"
+        }
+      ]
+    },
+    {
+      "id": "how-to-watch-the-pc-gaming-show-tokyo-direct-2026",
+      "titre": "How to watch the PC Gaming Show Tokyo Direct 2026",
+      "url": "https://www.pcgamer.com/gaming-industry/events-conferences/how-to-watch-the-pc-gaming-show-tokyo-direct-2026/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/how-to-watch-the-pc-gaming-show-tokyo-direct-2026/",
+          "titre": "How to watch the PC Gaming Show Tokyo Direct 2026"
+        }
+      ]
+    },
+    {
+      "id": "bad-news-for-shaman-tank-hopefuls-world-of-warcraft-forever",
+      "titre": "Bad news for shaman tank hopefuls—World of Warcraft: Forever won't have Season of Discovery's zany class design just yet: 'But never say never, y'know'",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/bad-news-for-shaman-tank-hopefuls-world-of-warcraft-forever-wont-have-season-of-discoverys-zany-class-design-just-yet-but-never-say-never-yknow/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/bad-news-for-shaman-tank-hopefuls-world-of-warcraft-forever-wont-have-season-of-discoverys-zany-class-design-just-yet-but-never-say-never-yknow/",
+          "titre": "Bad news for shaman tank hopefuls—World of Warcraft: Forever won't have Season of Discovery's zany class design just yet: 'But never say never, y'know'"
+        }
+      ]
+    },
+    {
+      "id": "review-trails-in-the-sky-2nd-chapter-ps5-quite-possibly-one",
+      "titre": "Review: Trails in the Sky 2nd Chapter (PS5) - Quite Possibly One of the Best RPG Sequels Ever Made",
+      "url": "https://www.pushsquare.com/reviews/ps5/trails-in-the-sky-2nd-chapter",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/trails-in-the-sky-2nd-chapter",
+          "titre": "Review: Trails in the Sky 2nd Chapter (PS5) - Quite Possibly One of the Best RPG Sequels Ever Made"
+        }
+      ]
+    },
+    {
+      "id": "all-active-aniimo-codes-for-launch-september-2026",
+      "titre": "All active Aniimo codes for launch, September 2026",
+      "url": "https://www.pcgamer.com/games/rpg/aniimo-codes/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/aniimo-codes/",
+          "titre": "All active Aniimo codes for launch, September 2026"
+        }
+      ]
+    },
+    {
+      "id": "mindseye-studio-build-a-rocket-boy-appear-to-be-making-fresh",
+      "titre": "MindsEye studio Build A Rocket Boy appear to be making fresh redundancies, as one staffer says he's \"helping wrap things up here in the HR department\"",
+      "url": "https://www.rockpapershotgun.com/mindseye-studio-build-a-rocket-boy-appear-to-be-making-fresh-redundancies-as-one-staffer-says-hes-helping-wrap-things-up-here-in-the-hr-department",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/mindseye-studio-build-a-rocket-boy-appear-to-be-making-fresh-redundancies-as-one-staffer-says-hes-helping-wrap-things-up-here-in-the-hr-department",
+          "titre": "MindsEye studio Build A Rocket Boy appear to be making fresh redundancies, as one staffer says he's \"helping wrap things up here in the HR department\""
+        }
+      ]
+    },
+    {
+      "id": "i-m-definitely-cooked-a-9-year-old-minecraft-youtuber-ran-u",
+      "titre": "‘I’m definitely cooked’: A 9-year-old Minecraft YouTuber ran up a $118,000 ad bill using his dad’s company credit card",
+      "url": "https://www.videogameschronicle.com/news/im-definitely-cooked-a-9-year-old-minecraft-youtuber-ran-up-a-118000-ad-bill-using-his-dads-company-credit-card/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/im-definitely-cooked-a-9-year-old-minecraft-youtuber-ran-up-a-118000-ad-bill-using-his-dads-company-credit-card/",
+          "titre": "‘I’m definitely cooked’: A 9-year-old Minecraft YouTuber ran up a $118,000 ad bill using his dad’s company credit card"
         }
       ]
     },
@@ -347,7 +533,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
@@ -365,7 +551,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -383,7 +569,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
@@ -401,7 +587,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -419,7 +605,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -437,7 +623,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -455,7 +641,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -473,7 +659,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -491,7 +677,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -502,128 +688,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "aniimo-counters-all-elemental-types-strengths-and-weaknesses",
-      "titre": "Aniimo counters: All elemental types, strengths, and weaknesses",
-      "url": "https://www.videogameschronicle.com/guide/aniimo-counters-all-elemental-types-strengths-and-weaknesses/",
+      "id": "here-s-the-second-wave-of-xbox-game-pass-games-coming-in-sep",
+      "titre": "Here's the second wave of Xbox Game Pass games coming in September",
+      "url": "https://www.eurogamer.net/xbox-game-pass-second-wave-september-gears-of-war",
       "sources": [
-        "VGC"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 4.7,
       "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/aniimo-counters-all-elemental-types-strengths-and-weaknesses/",
-          "titre": "Aniimo counters: All elemental types, strengths, and weaknesses"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-game-pass-second-wave-september-gears-of-war",
+          "titre": "Here's the second wave of Xbox Game Pass games coming in September"
         }
       ]
     },
     {
-      "id": "we-can-t-stuff-ai-back-in-a-box-says-former-us-president-ba",
-      "titre": "'We can't stuff AI back in a box' says former US president Barack Obama, confirming he's 'not a doomer' while still calling for more government AI regulation",
-      "url": "https://www.pcgamer.com/software/ai/we-cant-stuff-ai-back-in-a-box-says-former-us-president-barack-obama-confirming-hes-not-a-doomer-while-still-calling-for-more-government-ai-regulation/",
+      "id": "full-body-tracking-could-come-to-steam-frame-courtesy-of-thi",
+      "titre": "Full body tracking could come to Steam Frame courtesy of this supercharged Base Station-like device that doesn't require headset support",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/full-body-tracking-could-come-to-steam-frame-courtesy-of-this-supercharged-base-station-like-device-that-doesnt-require-headset-support/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.8,
+      "heures": 5.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/we-cant-stuff-ai-back-in-a-box-says-former-us-president-barack-obama-confirming-hes-not-a-doomer-while-still-calling-for-more-government-ai-regulation/",
-          "titre": "'We can't stuff AI back in a box' says former US president Barack Obama, confirming he's 'not a doomer' while still calling for more government AI regulation"
-        }
-      ]
-    },
-    {
-      "id": "relic-thought-company-of-heroes-3-s-ambitious-dynamic-campai",
-      "titre": "Relic thought Company of Heroes 3's ambitious dynamic campaign would eventually come together, but it didn't: 'We bit off more than we could chew'",
-      "url": "https://www.pcgamer.com/games/strategy/relic-thought-company-of-heroes-3s-ambitious-dynamic-campaign-would-eventually-come-together-but-it-didnt-we-bit-off-more-than-we-could-chew/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/relic-thought-company-of-heroes-3s-ambitious-dynamic-campaign-would-eventually-come-together-but-it-didnt-we-bit-off-more-than-we-could-chew/",
-          "titre": "Relic thought Company of Heroes 3's ambitious dynamic campaign would eventually come together, but it didn't: 'We bit off more than we could chew'"
-        }
-      ]
-    },
-    {
-      "id": "looks-like-sk-hynix-wants-to-make-memory-chips-on-us-soil-an",
-      "titre": "Looks like SK hynix wants to make memory chips on US soil and it could work with Intel to do it",
-      "url": "https://www.pcgamer.com/hardware/looks-like-sk-hynix-wants-to-make-memory-chips-on-us-soil-and-it-could-work-with-intel-to-do-it/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/looks-like-sk-hynix-wants-to-make-memory-chips-on-us-soil-and-it-could-work-with-intel-to-do-it/",
-          "titre": "Looks like SK hynix wants to make memory chips on US soil and it could work with Intel to do it"
-        }
-      ]
-    },
-    {
-      "id": "warlock-dungeons-dragons-won-t-have-waypoints-so-that-player",
-      "titre": "Warlock: Dungeons & Dragons won't have waypoints, so that players can figure things out without 'blindly trusting' a UI",
-      "url": "https://www.pcgamer.com/games/action/warlock-dungeons-and-dragons-wont-have-waypoints-so-that-players-can-figure-things-out-without-blindly-trusting-a-ui/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/warlock-dungeons-and-dragons-wont-have-waypoints-so-that-players-can-figure-things-out-without-blindly-trusting-a-ui/",
-          "titre": "Warlock: Dungeons & Dragons won't have waypoints, so that players can figure things out without 'blindly trusting' a UI"
-        }
-      ]
-    },
-    {
-      "id": "video-here-s-a-look-at-the-wo-long-2-alpha-demo-which-is-ava",
-      "titre": "Video: Here’s a look at the Wo Long 2 alpha demo, which is available today to mark its release date announcement",
-      "url": "https://www.videogameschronicle.com/news/video-heres-a-look-at-the-wo-long-2-alpha-demo-which-is-available-today-to-mark-its-release-date-announcement/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/video-heres-a-look-at-the-wo-long-2-alpha-demo-which-is-available-today-to-mark-its-release-date-announcement/",
-          "titre": "Video: Here’s a look at the Wo Long 2 alpha demo, which is available today to mark its release date announcement"
-        }
-      ]
-    },
-    {
-      "id": "try-team-ninja-s-next-ps5-action-rpg-wo-long-2-six-months-ea",
-      "titre": "Try Team Ninja's Next PS5 Action RPG, Wo Long 2, Six Months Early with New Playable Demo",
-      "url": "https://www.pushsquare.com/news/2026/09/try-team-ninjas-next-ps5-action-rpg-wo-long-2-six-months-early-with-new-playable-demo",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/try-team-ninjas-next-ps5-action-rpg-wo-long-2-six-months-early-with-new-playable-demo",
-          "titre": "Try Team Ninja's Next PS5 Action RPG, Wo Long 2, Six Months Early with New Playable Demo"
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/full-body-tracking-could-come-to-steam-frame-courtesy-of-this-supercharged-base-station-like-device-that-doesnt-require-headset-support/",
+          "titre": "Full body tracking could come to Steam Frame courtesy of this supercharged Base Station-like device that doesn't require headset support"
         }
       ]
     },
@@ -635,7 +731,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 6,
       "liens": [
         {
@@ -653,7 +749,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.6,
       "chaleur": 6,
       "liens": [
         {
@@ -671,7 +767,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.9,
       "chaleur": 6,
       "liens": [
         {
@@ -689,7 +785,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.6,
+      "heures": 24.6,
       "chaleur": 6,
       "liens": [
         {
@@ -707,31 +803,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.6,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/new-zelda-tears-of-the-kingdom-art-book-now-arriving-in-2027",
           "titre": "New Zelda: Tears Of The Kingdom Art Book Now Arriving In 2027"
-        }
-      ]
-    },
-    {
-      "id": "steam-reverses-porn-game-rating-it-mistakenly-gave-to-an-ind",
-      "titre": "Steam reverses porn game rating it mistakenly gave to an indie vampire RPG, and despite the stress it was a 'net positive' overall as wishlists on Steam 'basically doubled overnight'",
-      "url": "https://www.pcgamer.com/games/rpg/steam-reverses-porn-game-rating-it-mistakenly-gave-to-an-indie-vampire-rpg-and-despite-the-stress-it-was-a-net-positive-overall-as-wishlists-on-steam-basically-doubled-overnight/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 18.3,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/steam-reverses-porn-game-rating-it-mistakenly-gave-to-an-indie-vampire-rpg-and-despite-the-stress-it-was-a-net-positive-overall-as-wishlists-on-steam-basically-doubled-overnight/",
-          "titre": "Steam reverses porn game rating it mistakenly gave to an indie vampire RPG, and despite the stress it was a 'net positive' overall as wishlists on Steam 'basically doubled overnight'"
         }
       ]
     },
@@ -743,7 +821,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 25.9,
+      "heures": 27.9,
       "chaleur": 5,
       "liens": [
         {
@@ -761,7 +839,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.9,
+      "heures": 27.9,
       "chaleur": 5,
       "liens": [
         {
@@ -779,13 +857,139 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.0,
+      "heures": 29.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/rayman-legends-remake-retold-release-date-delay",
           "titre": "Ubisoft delays Rayman Legends remake Retold a couple of months \"to make sure every detail gets the care it deserves\""
+        }
+      ]
+    },
+    {
+      "id": "aniimo-counters-all-elemental-types-strengths-and-weaknesses",
+      "titre": "Aniimo counters: All elemental types, strengths, and weaknesses",
+      "url": "https://www.videogameschronicle.com/guide/aniimo-counters-all-elemental-types-strengths-and-weaknesses/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/aniimo-counters-all-elemental-types-strengths-and-weaknesses/",
+          "titre": "Aniimo counters: All elemental types, strengths, and weaknesses"
+        }
+      ]
+    },
+    {
+      "id": "we-can-t-stuff-ai-back-in-a-box-says-former-us-president-ba",
+      "titre": "'We can't stuff AI back in a box' says former US president Barack Obama, confirming he's 'not a doomer' while still calling for more government AI regulation",
+      "url": "https://www.pcgamer.com/software/ai/we-cant-stuff-ai-back-in-a-box-says-former-us-president-barack-obama-confirming-hes-not-a-doomer-while-still-calling-for-more-government-ai-regulation/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/we-cant-stuff-ai-back-in-a-box-says-former-us-president-barack-obama-confirming-hes-not-a-doomer-while-still-calling-for-more-government-ai-regulation/",
+          "titre": "'We can't stuff AI back in a box' says former US president Barack Obama, confirming he's 'not a doomer' while still calling for more government AI regulation"
+        }
+      ]
+    },
+    {
+      "id": "relic-thought-company-of-heroes-3-s-ambitious-dynamic-campai",
+      "titre": "Relic thought Company of Heroes 3's ambitious dynamic campaign would eventually come together, but it didn't: 'We bit off more than we could chew'",
+      "url": "https://www.pcgamer.com/games/strategy/relic-thought-company-of-heroes-3s-ambitious-dynamic-campaign-would-eventually-come-together-but-it-didnt-we-bit-off-more-than-we-could-chew/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/relic-thought-company-of-heroes-3s-ambitious-dynamic-campaign-would-eventually-come-together-but-it-didnt-we-bit-off-more-than-we-could-chew/",
+          "titre": "Relic thought Company of Heroes 3's ambitious dynamic campaign would eventually come together, but it didn't: 'We bit off more than we could chew'"
+        }
+      ]
+    },
+    {
+      "id": "looks-like-sk-hynix-wants-to-make-memory-chips-on-us-soil-an",
+      "titre": "Looks like SK hynix wants to make memory chips on US soil and it could work with Intel to do it",
+      "url": "https://www.pcgamer.com/hardware/looks-like-sk-hynix-wants-to-make-memory-chips-on-us-soil-and-it-could-work-with-intel-to-do-it/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/looks-like-sk-hynix-wants-to-make-memory-chips-on-us-soil-and-it-could-work-with-intel-to-do-it/",
+          "titre": "Looks like SK hynix wants to make memory chips on US soil and it could work with Intel to do it"
+        }
+      ]
+    },
+    {
+      "id": "warlock-dungeons-dragons-won-t-have-waypoints-so-that-player",
+      "titre": "Warlock: Dungeons & Dragons won't have waypoints, so that players can figure things out without 'blindly trusting' a UI",
+      "url": "https://www.pcgamer.com/games/action/warlock-dungeons-and-dragons-wont-have-waypoints-so-that-players-can-figure-things-out-without-blindly-trusting-a-ui/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/warlock-dungeons-and-dragons-wont-have-waypoints-so-that-players-can-figure-things-out-without-blindly-trusting-a-ui/",
+          "titre": "Warlock: Dungeons & Dragons won't have waypoints, so that players can figure things out without 'blindly trusting' a UI"
+        }
+      ]
+    },
+    {
+      "id": "video-here-s-a-look-at-the-wo-long-2-alpha-demo-which-is-ava",
+      "titre": "Video: Here’s a look at the Wo Long 2 alpha demo, which is available today to mark its release date announcement",
+      "url": "https://www.videogameschronicle.com/news/video-heres-a-look-at-the-wo-long-2-alpha-demo-which-is-available-today-to-mark-its-release-date-announcement/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/video-heres-a-look-at-the-wo-long-2-alpha-demo-which-is-available-today-to-mark-its-release-date-announcement/",
+          "titre": "Video: Here’s a look at the Wo Long 2 alpha demo, which is available today to mark its release date announcement"
+        }
+      ]
+    },
+    {
+      "id": "try-team-ninja-s-next-ps5-action-rpg-wo-long-2-six-months-ea",
+      "titre": "Try Team Ninja's Next PS5 Action RPG, Wo Long 2, Six Months Early with New Playable Demo",
+      "url": "https://www.pushsquare.com/news/2026/09/try-team-ninjas-next-ps5-action-rpg-wo-long-2-six-months-early-with-new-playable-demo",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/try-team-ninjas-next-ps5-action-rpg-wo-long-2-six-months-early-with-new-playable-demo",
+          "titre": "Try Team Ninja's Next PS5 Action RPG, Wo Long 2, Six Months Early with New Playable Demo"
         }
       ]
     },
@@ -797,7 +1001,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +1019,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -833,7 +1037,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -851,7 +1055,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -869,31 +1073,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/total-war-shogun-2s-complete-edition-adds-50-more-factions-in-return-for-breaking-your-mods-but-fear-not-players-who-stick-to-the-old-version-will-get-legacy-dlc-for-free",
           "titre": "Total War: Shogun 2's Complete Edition adds 50 minor factions in return for breaking your mods, but fear not, players who stick to the old version will get legacy DLC for free"
-        }
-      ]
-    },
-    {
-      "id": "trails-in-the-sky-2nd-chapter-has-one-of-the-creepiest-jrpg",
-      "titre": "Trails in the Sky 2nd Chapter has one of the creepiest JRPG monsters I've encountered",
-      "url": "https://www.pcgamer.com/games/rpg/trails-in-the-sky-2nd-chapter-remake-has-one-of-the-creepiest-jrpg-monsters-ive-encountered/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/trails-in-the-sky-2nd-chapter-remake-has-one-of-the-creepiest-jrpg-monsters-ive-encountered/",
-          "titre": "Trails in the Sky 2nd Chapter has one of the creepiest JRPG monsters I've encountered"
         }
       ]
     },
@@ -905,7 +1091,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +1109,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -941,49 +1127,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/diablo-ivs-30th-anniversary-diablo-celebrations-get-off-to-a-bumpy-start",
           "titre": "Diablo IV's 30th Anniversary Diablo Celebrations Get Off To A Bumpy Start"
-        }
-      ]
-    },
-    {
-      "id": "how-to-fish-in-valheim",
-      "titre": "How to fish in Valheim",
-      "url": "https://www.pcgamer.com/games/survival-crafting/valheim-how-to-fish/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/valheim-how-to-fish/",
-          "titre": "How to fish in Valheim"
-        }
-      ]
-    },
-    {
-      "id": "blizzard-is-aware-overwatch-fans-are-tired-of-seeing-its-fan",
-      "titre": "Blizzard is aware Overwatch fans are tired of seeing its fanciest skins go to the same heroes and it's 'the number one' thing it's working to fix next",
-      "url": "https://www.pcgamer.com/games/fps/blizzard-is-aware-overwatch-fans-are-tired-of-seeing-its-fanciest-skins-go-to-the-same-heroes-and-its-the-number-one-thing-its-working-to-fix-next/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/blizzard-is-aware-overwatch-fans-are-tired-of-seeing-its-fanciest-skins-go-to-the-same-heroes-and-its-the-number-one-thing-its-working-to-fix-next/",
-          "titre": "Blizzard is aware Overwatch fans are tired of seeing its fanciest skins go to the same heroes and it's 'the number one' thing it's working to fix next"
         }
       ]
     },
@@ -995,7 +1145,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1004,153 +1154,9 @@ const VEILLE = {
           "titre": "New PS5 Pulse Headsets Revealed by Sony with Better Sound and Comfort"
         }
       ]
-    },
-    {
-      "id": "as-skyblivion-s-launch-approaches-the-team-is-looking-for-he",
-      "titre": "As Skyblivion's launch approaches, the team is looking for help to get the word out",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/as-skyblivions-launch-approaches-the-team-is-looking-for-help-to-get-the-word-out/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 16.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-elder-scrolls/as-skyblivions-launch-approaches-the-team-is-looking-for-help-to-get-the-word-out/",
-          "titre": "As Skyblivion's launch approaches, the team is looking for help to get the word out"
-        }
-      ]
-    },
-    {
-      "id": "wardogs-ceo-says-he-won-t-hire-devs-who-aren-t-down-with-man",
-      "titre": "Wardogs CEO says he won't hire devs who aren't down with mandatory crunch: 'If you care about what you're making, this is the place to work'",
-      "url": "https://www.pcgamer.com/games/fps/wardogs-ceo-says-he-wont-hire-devs-who-arent-down-with-mandatory-crunch-if-you-care-about-what-youre-making-this-is-the-place-to-work/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/wardogs-ceo-says-he-wont-hire-devs-who-arent-down-with-mandatory-crunch-if-you-care-about-what-youre-making-this-is-the-place-to-work/",
-          "titre": "Wardogs CEO says he won't hire devs who aren't down with mandatory crunch: 'If you care about what you're making, this is the place to work'"
-        }
-      ]
-    },
-    {
-      "id": "roblox-will-allow-devs-to-release-games-as-standalone-apps-o",
-      "titre": "Roblox will allow devs to release games as standalone apps on other stores",
-      "url": "https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 18.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores",
-          "titre": "Roblox will allow devs to release games as standalone apps on other stores"
-        }
-      ]
-    },
-    {
-      "id": "bungie-is-overhauling-marathon-from-its-original-extraction",
-      "titre": "Bungie is overhauling Marathon from its original extraction shooter vision",
-      "url": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 19.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
-          "titre": "Bungie is overhauling Marathon from its original extraction shooter vision"
-        }
-      ]
-    },
-    {
-      "id": "marvel-s-wolverine-ps5-launch-marked-with-celebratory-art-fr",
-      "titre": "Marvel's Wolverine PS5 Launch Marked with Celebratory Art from Other PS Studios",
-      "url": "https://www.pushsquare.com/news/2026/09/marvels-wolverine-ps5-launch-marked-with-celebratory-art-from-other-ps-studios",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 21.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/marvels-wolverine-ps5-launch-marked-with-celebratory-art-from-other-ps-studios",
-          "titre": "Marvel's Wolverine PS5 Launch Marked with Celebratory Art from Other PS Studios"
-        }
-      ]
-    },
-    {
-      "id": "skyblivion-s-release-is-getting-closer-as-the-massive-skyrim",
-      "titre": "Skyblivion's release is \"getting closer\" as the massive Skyrim mod's makers start recruiting for a big final marketing push",
-      "url": "https://www.rockpapershotgun.com/skyblivions-release-is-getting-closer-as-the-massive-skyrim-mods-makers-start-recruiting-for-a-big-final-marketing-push",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 21.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/skyblivions-release-is-getting-closer-as-the-massive-skyrim-mods-makers-start-recruiting-for-a-big-final-marketing-push",
-          "titre": "Skyblivion's release is \"getting closer\" as the massive Skyrim mod's makers start recruiting for a big final marketing push"
-        }
-      ]
-    },
-    {
-      "id": "think-fire-emblem-fortune-s-weave-s-hero-roster-is-big-it-wa",
-      "titre": "Think Fire Emblem: Fortune's Weave's Hero Roster Is Big? It Was Almost Even Bigger",
-      "url": "https://www.nintendolife.com/news/2026/09/think-fire-emblem-fortunes-weaves-hero-roster-is-big-it-was-almost-even-bigger",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 21.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/think-fire-emblem-fortunes-weaves-hero-roster-is-big-it-was-almost-even-bigger",
-          "titre": "Think Fire Emblem: Fortune's Weave's Hero Roster Is Big? It Was Almost Even Bigger"
-        }
-      ]
-    },
-    {
-      "id": "7-ps-plus-extra-game-removals-for-october-2026-confirmed",
-      "titre": "7 PS Plus Extra Game Removals for October 2026 Confirmed",
-      "url": "https://www.pushsquare.com/news/2026/09/7-ps-plus-extra-game-removals-for-october-2026-confirmed",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 21.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/7-ps-plus-extra-game-removals-for-october-2026-confirmed",
-          "titre": "7 PS Plus Extra Game Removals for October 2026 Confirmed"
-        }
-      ]
     }
   ],
   "alertes": [
-    "Round Up: The Reviews For Fire Emblem: Fortune's Weave Are In"
+    "Fire Emblem: Fortune's Weave Gets A Day One Update, Here Are The Patch Notes"
   ]
 };
