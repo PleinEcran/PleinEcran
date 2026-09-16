@@ -1,21 +1,27 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "16/09/2026 à 18h22",
+  "collecte": "16/09/2026 à 20h21",
   "seuil": 14,
   "sujets": [
     {
-      "id": "report-mindseye-developer-build-a-rocket-boy-seemingly-closi",
-      "titre": "Report: MindsEye developer Build a Rocket Boy seemingly closing after more layoffs",
-      "url": "https://www.gamedeveloper.com/business/report-mindseye-developer-build-a-rocket-boy-seemingly-closing-after-more-layoffs",
+      "id": "mindseye-developer-build-a-rocket-boy-may-finally-be-closing",
+      "titre": "MindsEye developer Build a Rocket Boy may finally be closing",
+      "url": "https://www.pcgamer.com/gaming-industry/mindseye-developer-build-a-rocket-boy-may-finally-be-closing/",
       "sources": [
         "Game Developer",
         "GamesIndustry.biz",
+        "PC Gamer",
         "VGC"
       ],
-      "reprises": 3,
-      "heures": 0.4,
-      "chaleur": 17,
+      "reprises": 4,
+      "heures": 2.0,
+      "chaleur": 20,
       "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/mindseye-developer-build-a-rocket-boy-may-finally-be-closing/",
+          "titre": "MindsEye developer Build a Rocket Boy may finally be closing"
+        },
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/report-mindseye-developer-build-a-rocket-boy-seemingly-closing-after-more-layoffs",
@@ -34,6 +40,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "more-mindseye-developers-have-been-laid-off-and-gta-veteran",
+      "titre": "More MindsEye developers have been laid off, and GTA veteran Leslie Benzie's studio is reportedly shutting down",
+      "url": "https://www.eurogamer.net/mindseye-developers-laid-off-gta-studio-shutting-down",
+      "sources": [
+        "Eurogamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 1.5,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/mindseye-developers-laid-off-gta-studio-shutting-down",
+          "titre": "More MindsEye developers have been laid off, and GTA veteran Leslie Benzie's studio is reportedly shutting down"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/the-disastrous-mindseye-saga-comes-to-a-close-as-studio-is-reportedly-shutting-down",
+          "titre": "The Disastrous MindsEye Saga Comes to a Close as Studio Is Reportedly Shutting Down"
+        }
+      ]
+    },
+    {
+      "id": "wardogs-studio-ceo-issues-new-statement-after-backlash-for-s",
+      "titre": "Wardogs studio CEO issues new statement, after backlash for saying his studio won't hire people who \"constantly tweet anti-crunch messaging\"",
+      "url": "https://www.eurogamer.net/wardogs-ceo-new-response-crunch-backlash-social-media-monitoring-statement",
+      "sources": [
+        "Eurogamer",
+        "Game Developer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 1.1,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/wardogs-ceo-new-response-crunch-backlash-social-media-monitoring-statement",
+          "titre": "Wardogs studio CEO issues new statement, after backlash for saying his studio won't hire people who \"constantly tweet anti-crunch messaging\""
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/they-often-dont-make-it-in-the-door-wardogs-studio-bulkhead-check-for-anti-crunch-messaging-on-prospective-hires-social-media-ceo-says",
+          "titre": "\"They often don’t make it in the door\": Wardogs studio Bulkhead check for \"anti-crunch messaging\" on prospective hires' social media, CEO says"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media",
+          "titre": "Wardogs lead says the studio won't hire people who decry crunch on social media"
+        }
+      ]
+    },
+    {
       "id": "fire-emblem-fortune-s-weave-gets-a-day-one-update-here-are-t",
       "titre": "Fire Emblem: Fortune's Weave Gets A Day One Update, Here Are The Patch Notes",
       "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-gets-a-day-one-update-here-are-the-patch-notes",
@@ -43,8 +103,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 3.4,
-      "chaleur": 14,
+      "heures": 5.4,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -73,7 +133,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 8.8,
+      "heures": 10.8,
       "chaleur": 12,
       "liens": [
         {
@@ -94,30 +154,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "microsoft-hasn-t-marched-fable-to-the-guillotine-because-it",
-      "titre": "Microsoft hasn't marched Fable to the guillotine because it's 'vital to the DNA' of Xbox, says the game's director",
-      "url": "https://www.pcgamer.com/games/rpg/microsoft-hasnt-marched-fable-to-the-guillotine-because-its-vital-to-the-dna-of-xbox-says-the-games-director/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 2.9,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/microsoft-hasnt-marched-fable-to-the-guillotine-because-its-vital-to-the-dna-of-xbox-says-the-games-director/",
-          "titre": "Microsoft hasn't marched Fable to the guillotine because it's 'vital to the DNA' of Xbox, says the game's director"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/fable-vital-dna-of-xbox-playground-games",
-          "titre": "Xbox's Fable reboot was allowed a 10-year development because the RPG series is \"vital to the DNA of the platform\", developer Playground Games says"
-        }
-      ]
-    },
-    {
       "id": "bayonetta-will-join-sonic-racing-crossworlds-in-a-free-updat",
       "titre": "Bayonetta Will Join Sonic Racing: CrossWorlds in a Free Update 'Soon' on PS5, PS4",
       "url": "https://www.pushsquare.com/news/2026/09/bayonetta-will-join-sonic-racing-crossworlds-in-a-free-update-soon-on-ps5-ps4",
@@ -127,7 +163,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 6.6,
+      "heures": 8.6,
       "chaleur": 10,
       "liens": [
         {
@@ -156,7 +192,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 9,
       "liens": [
         {
@@ -180,7 +216,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 9,
       "liens": [
         {
@@ -203,13 +239,37 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5s-become-a-celebrity-mod-is-almost-weirdly-fully-featured/",
           "titre": "GTA 5's 'Become a celebrity' mod is almost weirdly fully featured"
+        }
+      ]
+    },
+    {
+      "id": "microsoft-hasn-t-marched-fable-to-the-guillotine-because-it",
+      "titre": "Microsoft hasn't marched Fable to the guillotine because it's 'vital to the DNA' of Xbox, says the game's director",
+      "url": "https://www.pcgamer.com/games/rpg/microsoft-hasnt-marched-fable-to-the-guillotine-because-its-vital-to-the-dna-of-xbox-says-the-games-director/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 4.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/microsoft-hasnt-marched-fable-to-the-guillotine-because-its-vital-to-the-dna-of-xbox-says-the-games-director/",
+          "titre": "Microsoft hasn't marched Fable to the guillotine because it's 'vital to the DNA' of Xbox, says the game's director"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/fable-vital-dna-of-xbox-playground-games",
+          "titre": "Xbox's Fable reboot was allowed a 10-year development because the RPG series is \"vital to the DNA of the platform\", developer Playground Games says"
         }
       ]
     },
@@ -221,7 +281,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 8,
       "liens": [
         {
@@ -239,7 +299,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 8,
       "liens": [
         {
@@ -257,7 +317,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 8.7,
       "chaleur": 8,
       "liens": [
         {
@@ -275,37 +335,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/musicians-including-travis-scott-keith-richards-and-future-have-started-teasing-that-theyll-be-in-gta-6/",
           "titre": "Musicians including Travis Scott, Keith Richards and Future have started teasing that they’ll be in GTA 6"
-        }
-      ]
-    },
-    {
-      "id": "they-often-don-t-make-it-in-the-door-wardogs-studio-bulkhea",
-      "titre": "\"They often don’t make it in the door\": Wardogs studio Bulkhead check for \"anti-crunch messaging\" on prospective hires' social media, CEO says",
-      "url": "https://www.rockpapershotgun.com/they-often-dont-make-it-in-the-door-wardogs-studio-bulkhead-check-for-anti-crunch-messaging-on-prospective-hires-social-media-ceo-says",
-      "sources": [
-        "Game Developer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 6.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/they-often-dont-make-it-in-the-door-wardogs-studio-bulkhead-check-for-anti-crunch-messaging-on-prospective-hires-social-media-ceo-says",
-          "titre": "\"They often don’t make it in the door\": Wardogs studio Bulkhead check for \"anti-crunch messaging\" on prospective hires' social media, CEO says"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media",
-          "titre": "Wardogs lead says the studio won't hire people who decry crunch on social media"
         }
       ]
     },
@@ -318,7 +354,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 7,
       "liens": [
         {
@@ -334,26 +370,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "bohemia-interactive-takes-minority-stake-in-everwind-develop",
-      "titre": "Bohemia Interactive takes minority stake in Everwind developer Enjoy Studio",
-      "url": "https://www.gamesindustry.biz/bohemia-interactive-takes-minority-stake-in-everwind-developer-enjoy-studio",
+      "id": "the-best-videogame-movie-ever-the-first-reviews-of-zach-cre",
+      "titre": "'The best videogame movie' ever? The first reviews of Zach Cregger's Resident Evil adaptation are absolutely glowing",
+      "url": "https://www.pcgamer.com/movies-tv/multiple-reviews-call-resident-evil-the-best-videogame-movie-ever/",
       "sources": [
-        "Game Developer",
-        "GamesIndustry.biz"
+        "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 10.4,
-      "chaleur": 7,
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/bohemia-interactive-takes-minority-stake-in-everwind-developer-enjoy-studio",
-          "titre": "Bohemia Interactive takes minority stake in Everwind developer Enjoy Studio"
-        },
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/multiple-reviews-call-resident-evil-the-best-videogame-movie-ever/",
+          "titre": "'The best videogame movie' ever? The first reviews of Zach Cregger's Resident Evil adaptation are absolutely glowing"
+        }
+      ]
+    },
+    {
+      "id": "disney-dreamlight-valley-s-next-expansion-the-keepsake-sea-p",
+      "titre": "Disney Dreamlight Valley’s next expansion The Keepsake Sea plunges new depths, but in the best way possible",
+      "url": "https://www.videogameschronicle.com/features/disney-dreamlight-valleys-next-expansion-the-keepsake-sea-plunges-new-depths-but-in-the-best-way-possible/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/bohemia-interactive-acquires-minority-stake-in-everwind-developer-enjoy-studio",
-          "titre": "Bohemia Interactive acquires minority stake in Everwind developer Enjoy Studio"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/features/disney-dreamlight-valleys-next-expansion-the-keepsake-sea-plunges-new-depths-but-in-the-best-way-possible/",
+          "titre": "Disney Dreamlight Valley’s next expansion The Keepsake Sea plunges new depths, but in the best way possible"
         }
       ]
     },
@@ -365,7 +413,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -383,7 +431,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -401,7 +449,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -419,7 +467,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -437,7 +485,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -455,229 +503,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-time-mechanic-sequels",
           "titre": "The Blood of Dawnwalker's controversial time mechanic won't necessarily be in a sequel, the game director says"
-        }
-      ]
-    },
-    {
-      "id": "low-poly-horror-tumblebee-combines-the-joy-of-tumbling-bees",
-      "titre": "Low poly horror Tumblebee combines the joy of tumbling bees with the not-joy of being chased by huge spiders",
-      "url": "https://www.rockpapershotgun.com/low-poly-horror-tumblebee-combines-the-joy-of-tumbling-bees-with-the-not-joy-of-being-chased-by-huge-spiders",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/low-poly-horror-tumblebee-combines-the-joy-of-tumbling-bees-with-the-not-joy-of-being-chased-by-huge-spiders",
-          "titre": "Low poly horror Tumblebee combines the joy of tumbling bees with the not-joy of being chased by huge spiders"
-        }
-      ]
-    },
-    {
-      "id": "here-are-the-first-finalists-for-the-2026-gamesindustry-biz",
-      "titre": "Here are the first finalists for the 2026 GamesIndustry.biz Best Places To Work Awards UK",
-      "url": "https://www.gamesindustry.biz/here-are-the-first-finalists-for-the-2026-gamesindustrybiz-best-places-to-work-awards-uk",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/here-are-the-first-finalists-for-the-2026-gamesindustrybiz-best-places-to-work-awards-uk",
-          "titre": "Here are the first finalists for the 2026 GamesIndustry.biz Best Places To Work Awards UK"
-        }
-      ]
-    },
-    {
-      "id": "balatro-developer-localthunk-turns-up-on-discord-to-talk-abo",
-      "titre": "Balatro developer LocalThunk turns up on Discord to talk about the 1.1 update and life after burnout: 'I truly am having the best time making the game now'",
-      "url": "https://www.pcgamer.com/games/card-games/balatro-developer-localthunk-turns-up-on-discord-to-talk-about-the-1-1-update-and-life-after-burnout-i-truly-am-having-the-best-time-making-the-game-now/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/card-games/balatro-developer-localthunk-turns-up-on-discord-to-talk-about-the-1-1-update-and-life-after-burnout-i-truly-am-having-the-best-time-making-the-game-now/",
-          "titre": "Balatro developer LocalThunk turns up on Discord to talk about the 1.1 update and life after burnout: 'I truly am having the best time making the game now'"
-        }
-      ]
-    },
-    {
-      "id": "ex-ms-engineer-reveals-the-story-behind-the-infamous-fckgw-w",
-      "titre": "Ex-MS engineer reveals the story behind the infamous 'FCKGW' Windows XP key: 'Pirates started baking the key into images or just writing it on the CD with a Sharpie'",
-      "url": "https://www.pcgamer.com/software/windows/ex-ms-engineer-reveals-the-story-behind-the-infamous-fckgw-windows-xp-key-pirates-started-baking-the-key-into-images-or-just-writing-it-on-the-cd-with-a-sharpie/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/windows/ex-ms-engineer-reveals-the-story-behind-the-infamous-fckgw-windows-xp-key-pirates-started-baking-the-key-into-images-or-just-writing-it-on-the-cd-with-a-sharpie/",
-          "titre": "Ex-MS engineer reveals the story behind the infamous 'FCKGW' Windows XP key: 'Pirates started baking the key into images or just writing it on the CD with a Sharpie'"
-        }
-      ]
-    },
-    {
-      "id": "dragon-s-dogma-2-fans-will-froth-at-the-mouth-with-this-new",
-      "titre": "Dragon's Dogma 2 Fans Will Froth at the Mouth with This New Look at Dark Arisen",
-      "url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-fans-will-froth-at-the-mouth-with-this-new-look-at-dark-arisen",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-fans-will-froth-at-the-mouth-with-this-new-look-at-dark-arisen",
-          "titre": "Dragon's Dogma 2 Fans Will Froth at the Mouth with This New Look at Dark Arisen"
-        }
-      ]
-    },
-    {
-      "id": "dog-in-the-machine-reinvents-the-domino-tactics-of-into-the",
-      "titre": "Dog in the Machine reinvents the domino tactics of Into The Breach as a mecha dog show, with players teaching their hounds tricks",
-      "url": "https://www.rockpapershotgun.com/dog-in-the-machine-reinvents-the-domino-tactics-of-into-the-breach-as-a-mecha-dog-show-with-players-teaching-their-hounds-tricks",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/dog-in-the-machine-reinvents-the-domino-tactics-of-into-the-breach-as-a-mecha-dog-show-with-players-teaching-their-hounds-tricks",
-          "titre": "Dog in the Machine reinvents the domino tactics of Into The Breach as a mecha dog show, with players teaching their hounds tricks"
-        }
-      ]
-    },
-    {
-      "id": "how-to-watch-the-pc-gaming-show-tokyo-direct-2026",
-      "titre": "How to watch the PC Gaming Show Tokyo Direct 2026",
-      "url": "https://www.pcgamer.com/gaming-industry/events-conferences/how-to-watch-the-pc-gaming-show-tokyo-direct-2026/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/how-to-watch-the-pc-gaming-show-tokyo-direct-2026/",
-          "titre": "How to watch the PC Gaming Show Tokyo Direct 2026"
-        }
-      ]
-    },
-    {
-      "id": "bad-news-for-shaman-tank-hopefuls-world-of-warcraft-forever",
-      "titre": "Bad news for shaman tank hopefuls—World of Warcraft: Forever won't have Season of Discovery's zany class design just yet: 'But never say never, y'know'",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/bad-news-for-shaman-tank-hopefuls-world-of-warcraft-forever-wont-have-season-of-discoverys-zany-class-design-just-yet-but-never-say-never-yknow/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/bad-news-for-shaman-tank-hopefuls-world-of-warcraft-forever-wont-have-season-of-discoverys-zany-class-design-just-yet-but-never-say-never-yknow/",
-          "titre": "Bad news for shaman tank hopefuls—World of Warcraft: Forever won't have Season of Discovery's zany class design just yet: 'But never say never, y'know'"
-        }
-      ]
-    },
-    {
-      "id": "review-trails-in-the-sky-2nd-chapter-ps5-quite-possibly-one",
-      "titre": "Review: Trails in the Sky 2nd Chapter (PS5) - Quite Possibly One of the Best RPG Sequels Ever Made",
-      "url": "https://www.pushsquare.com/reviews/ps5/trails-in-the-sky-2nd-chapter",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/trails-in-the-sky-2nd-chapter",
-          "titre": "Review: Trails in the Sky 2nd Chapter (PS5) - Quite Possibly One of the Best RPG Sequels Ever Made"
-        }
-      ]
-    },
-    {
-      "id": "all-active-aniimo-codes-for-launch-september-2026",
-      "titre": "All active Aniimo codes for launch, September 2026",
-      "url": "https://www.pcgamer.com/games/rpg/aniimo-codes/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/aniimo-codes/",
-          "titre": "All active Aniimo codes for launch, September 2026"
-        }
-      ]
-    },
-    {
-      "id": "mindseye-studio-build-a-rocket-boy-appear-to-be-making-fresh",
-      "titre": "MindsEye studio Build A Rocket Boy appear to be making fresh redundancies, as one staffer says he's \"helping wrap things up here in the HR department\"",
-      "url": "https://www.rockpapershotgun.com/mindseye-studio-build-a-rocket-boy-appear-to-be-making-fresh-redundancies-as-one-staffer-says-hes-helping-wrap-things-up-here-in-the-hr-department",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/mindseye-studio-build-a-rocket-boy-appear-to-be-making-fresh-redundancies-as-one-staffer-says-hes-helping-wrap-things-up-here-in-the-hr-department",
-          "titre": "MindsEye studio Build A Rocket Boy appear to be making fresh redundancies, as one staffer says he's \"helping wrap things up here in the HR department\""
-        }
-      ]
-    },
-    {
-      "id": "i-m-definitely-cooked-a-9-year-old-minecraft-youtuber-ran-u",
-      "titre": "‘I’m definitely cooked’: A 9-year-old Minecraft YouTuber ran up a $118,000 ad bill using his dad’s company credit card",
-      "url": "https://www.videogameschronicle.com/news/im-definitely-cooked-a-9-year-old-minecraft-youtuber-ran-up-a-118000-ad-bill-using-his-dads-company-credit-card/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/im-definitely-cooked-a-9-year-old-minecraft-youtuber-ran-up-a-118000-ad-bill-using-his-dads-company-credit-card/",
-          "titre": "‘I’m definitely cooked’: A 9-year-old Minecraft YouTuber ran up a $118,000 ad bill using his dad’s company credit card"
         }
       ]
     },
@@ -689,7 +521,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 6,
       "liens": [
         {
@@ -707,31 +539,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 8.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/xbox-game-pass-second-wave-september-gears-of-war",
           "titre": "Here's the second wave of Xbox Game Pass games coming in September"
-        }
-      ]
-    },
-    {
-      "id": "full-body-tracking-could-come-to-steam-frame-courtesy-of-thi",
-      "titre": "Full body tracking could come to Steam Frame courtesy of this supercharged Base Station-like device that doesn't require headset support",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/full-body-tracking-could-come-to-steam-frame-courtesy-of-this-supercharged-base-station-like-device-that-doesnt-require-headset-support/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/full-body-tracking-could-come-to-steam-frame-courtesy-of-this-supercharged-base-station-like-device-that-doesnt-require-headset-support/",
-          "titre": "Full body tracking could come to Steam Frame courtesy of this supercharged Base Station-like device that doesn't require headset support"
         }
       ]
     },
@@ -743,7 +557,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
@@ -761,7 +575,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.6,
       "chaleur": 6,
       "liens": [
         {
@@ -772,20 +586,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "why-the-publisher-of-nintendo-life-is-launching-a-new-pc-gam",
-      "titre": "Why the publisher of Nintendo Life is launching a new PC gaming site",
-      "url": "https://www.gamesindustry.biz/why-the-publisher-of-nintendo-life-is-launching-a-new-pc-gaming-site",
+      "id": "bohemia-interactive-takes-minority-stake-in-everwind-develop",
+      "titre": "Bohemia Interactive takes minority stake in Everwind developer Enjoy Studio",
+      "url": "https://www.gamesindustry.biz/bohemia-interactive-takes-minority-stake-in-everwind-developer-enjoy-studio",
       "sources": [
+        "Game Developer",
         "GamesIndustry.biz"
       ],
-      "reprises": 1,
-      "heures": 11.9,
+      "reprises": 2,
+      "heures": 12.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/why-the-publisher-of-nintendo-life-is-launching-a-new-pc-gaming-site",
-          "titre": "Why the publisher of Nintendo Life is launching a new PC gaming site"
+          "url": "https://www.gamesindustry.biz/bohemia-interactive-takes-minority-stake-in-everwind-developer-enjoy-studio",
+          "titre": "Bohemia Interactive takes minority stake in Everwind developer Enjoy Studio"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/bohemia-interactive-acquires-minority-stake-in-everwind-developer-enjoy-studio",
+          "titre": "Bohemia Interactive acquires minority stake in Everwind developer Enjoy Studio"
         }
       ]
     },
@@ -797,13 +617,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.6,
+      "heures": 28.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/multiple-music-artists-tease-gta-6-collaborations",
           "titre": "Multiple Music Artists Tease GTA 6 Collaborations"
+        }
+      ]
+    },
+    {
+      "id": "why-the-publisher-of-nintendo-life-is-launching-a-new-pc-gam",
+      "titre": "Why the publisher of Nintendo Life is launching a new PC gaming site",
+      "url": "https://www.gamesindustry.biz/why-the-publisher-of-nintendo-life-is-launching-a-new-pc-gaming-site",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 13.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/why-the-publisher-of-nintendo-life-is-launching-a-new-pc-gaming-site",
+          "titre": "Why the publisher of Nintendo Life is launching a new PC gaming site"
         }
       ]
     },
@@ -815,31 +653,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 19.6,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/new-zelda-tears-of-the-kingdom-art-book-now-arriving-in-2027",
           "titre": "New Zelda: Tears Of The Kingdom Art Book Now Arriving In 2027"
-        }
-      ]
-    },
-    {
-      "id": "steam-deck-2-plans-aren-t-affected-by-ongoing-component-cris",
-      "titre": "Steam Deck 2 plans aren't affected by ongoing component crisis, Valve maintains, as Steam Frame arrives later and more expensive than expected",
-      "url": "https://www.eurogamer.net/valve-steam-deck-2-plans-component-crisis",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 29.0,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/valve-steam-deck-2-plans-component-crisis",
-          "titre": "Steam Deck 2 plans aren't affected by ongoing component crisis, Valve maintains, as Steam Frame arrives later and more expensive than expected"
         }
       ]
     },
@@ -851,13 +671,229 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 29.9,
+      "heures": 31.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake",
           "titre": "Why switching main characters for your game's sequel might be a mistake"
+        }
+      ]
+    },
+    {
+      "id": "low-poly-horror-tumblebee-combines-the-joy-of-tumbling-bees",
+      "titre": "Low poly horror Tumblebee combines the joy of tumbling bees with the not-joy of being chased by huge spiders",
+      "url": "https://www.rockpapershotgun.com/low-poly-horror-tumblebee-combines-the-joy-of-tumbling-bees-with-the-not-joy-of-being-chased-by-huge-spiders",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/low-poly-horror-tumblebee-combines-the-joy-of-tumbling-bees-with-the-not-joy-of-being-chased-by-huge-spiders",
+          "titre": "Low poly horror Tumblebee combines the joy of tumbling bees with the not-joy of being chased by huge spiders"
+        }
+      ]
+    },
+    {
+      "id": "here-are-the-first-finalists-for-the-2026-gamesindustry-biz",
+      "titre": "Here are the first finalists for the 2026 GamesIndustry.biz Best Places To Work Awards UK",
+      "url": "https://www.gamesindustry.biz/here-are-the-first-finalists-for-the-2026-gamesindustrybiz-best-places-to-work-awards-uk",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/here-are-the-first-finalists-for-the-2026-gamesindustrybiz-best-places-to-work-awards-uk",
+          "titre": "Here are the first finalists for the 2026 GamesIndustry.biz Best Places To Work Awards UK"
+        }
+      ]
+    },
+    {
+      "id": "balatro-developer-localthunk-turns-up-on-discord-to-talk-abo",
+      "titre": "Balatro developer LocalThunk turns up on Discord to talk about the 1.1 update and life after burnout: 'I truly am having the best time making the game now'",
+      "url": "https://www.pcgamer.com/games/card-games/balatro-developer-localthunk-turns-up-on-discord-to-talk-about-the-1-1-update-and-life-after-burnout-i-truly-am-having-the-best-time-making-the-game-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/card-games/balatro-developer-localthunk-turns-up-on-discord-to-talk-about-the-1-1-update-and-life-after-burnout-i-truly-am-having-the-best-time-making-the-game-now/",
+          "titre": "Balatro developer LocalThunk turns up on Discord to talk about the 1.1 update and life after burnout: 'I truly am having the best time making the game now'"
+        }
+      ]
+    },
+    {
+      "id": "ex-ms-engineer-reveals-the-story-behind-the-infamous-fckgw-w",
+      "titre": "Ex-MS engineer reveals the story behind the infamous 'FCKGW' Windows XP key: 'Pirates started baking the key into images or just writing it on the CD with a Sharpie'",
+      "url": "https://www.pcgamer.com/software/windows/ex-ms-engineer-reveals-the-story-behind-the-infamous-fckgw-windows-xp-key-pirates-started-baking-the-key-into-images-or-just-writing-it-on-the-cd-with-a-sharpie/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/windows/ex-ms-engineer-reveals-the-story-behind-the-infamous-fckgw-windows-xp-key-pirates-started-baking-the-key-into-images-or-just-writing-it-on-the-cd-with-a-sharpie/",
+          "titre": "Ex-MS engineer reveals the story behind the infamous 'FCKGW' Windows XP key: 'Pirates started baking the key into images or just writing it on the CD with a Sharpie'"
+        }
+      ]
+    },
+    {
+      "id": "dragon-s-dogma-2-fans-will-froth-at-the-mouth-with-this-new",
+      "titre": "Dragon's Dogma 2 Fans Will Froth at the Mouth with This New Look at Dark Arisen",
+      "url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-fans-will-froth-at-the-mouth-with-this-new-look-at-dark-arisen",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-fans-will-froth-at-the-mouth-with-this-new-look-at-dark-arisen",
+          "titre": "Dragon's Dogma 2 Fans Will Froth at the Mouth with This New Look at Dark Arisen"
+        }
+      ]
+    },
+    {
+      "id": "dog-in-the-machine-reinvents-the-domino-tactics-of-into-the",
+      "titre": "Dog in the Machine reinvents the domino tactics of Into The Breach as a mecha dog show, with players teaching their hounds tricks",
+      "url": "https://www.rockpapershotgun.com/dog-in-the-machine-reinvents-the-domino-tactics-of-into-the-breach-as-a-mecha-dog-show-with-players-teaching-their-hounds-tricks",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/dog-in-the-machine-reinvents-the-domino-tactics-of-into-the-breach-as-a-mecha-dog-show-with-players-teaching-their-hounds-tricks",
+          "titre": "Dog in the Machine reinvents the domino tactics of Into The Breach as a mecha dog show, with players teaching their hounds tricks"
+        }
+      ]
+    },
+    {
+      "id": "how-to-watch-the-pc-gaming-show-tokyo-direct-2026",
+      "titre": "How to watch the PC Gaming Show Tokyo Direct 2026",
+      "url": "https://www.pcgamer.com/gaming-industry/events-conferences/how-to-watch-the-pc-gaming-show-tokyo-direct-2026/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/how-to-watch-the-pc-gaming-show-tokyo-direct-2026/",
+          "titre": "How to watch the PC Gaming Show Tokyo Direct 2026"
+        }
+      ]
+    },
+    {
+      "id": "bad-news-for-shaman-tank-hopefuls-world-of-warcraft-forever",
+      "titre": "Bad news for shaman tank hopefuls—World of Warcraft: Forever won't have Season of Discovery's zany class design just yet: 'But never say never, y'know'",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/bad-news-for-shaman-tank-hopefuls-world-of-warcraft-forever-wont-have-season-of-discoverys-zany-class-design-just-yet-but-never-say-never-yknow/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/bad-news-for-shaman-tank-hopefuls-world-of-warcraft-forever-wont-have-season-of-discoverys-zany-class-design-just-yet-but-never-say-never-yknow/",
+          "titre": "Bad news for shaman tank hopefuls—World of Warcraft: Forever won't have Season of Discovery's zany class design just yet: 'But never say never, y'know'"
+        }
+      ]
+    },
+    {
+      "id": "review-trails-in-the-sky-2nd-chapter-ps5-quite-possibly-one",
+      "titre": "Review: Trails in the Sky 2nd Chapter (PS5) - Quite Possibly One of the Best RPG Sequels Ever Made",
+      "url": "https://www.pushsquare.com/reviews/ps5/trails-in-the-sky-2nd-chapter",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/trails-in-the-sky-2nd-chapter",
+          "titre": "Review: Trails in the Sky 2nd Chapter (PS5) - Quite Possibly One of the Best RPG Sequels Ever Made"
+        }
+      ]
+    },
+    {
+      "id": "all-active-aniimo-codes-for-launch-september-2026",
+      "titre": "All active Aniimo codes for launch, September 2026",
+      "url": "https://www.pcgamer.com/games/rpg/aniimo-codes/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/aniimo-codes/",
+          "titre": "All active Aniimo codes for launch, September 2026"
+        }
+      ]
+    },
+    {
+      "id": "mindseye-studio-build-a-rocket-boy-appear-to-be-making-fresh",
+      "titre": "MindsEye studio Build A Rocket Boy appear to be making fresh redundancies, as one staffer says he's \"helping wrap things up here in the HR department\"",
+      "url": "https://www.rockpapershotgun.com/mindseye-studio-build-a-rocket-boy-appear-to-be-making-fresh-redundancies-as-one-staffer-says-hes-helping-wrap-things-up-here-in-the-hr-department",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/mindseye-studio-build-a-rocket-boy-appear-to-be-making-fresh-redundancies-as-one-staffer-says-hes-helping-wrap-things-up-here-in-the-hr-department",
+          "titre": "MindsEye studio Build A Rocket Boy appear to be making fresh redundancies, as one staffer says he's \"helping wrap things up here in the HR department\""
+        }
+      ]
+    },
+    {
+      "id": "i-m-definitely-cooked-a-9-year-old-minecraft-youtuber-ran-u",
+      "titre": "‘I’m definitely cooked’: A 9-year-old Minecraft YouTuber ran up a $118,000 ad bill using his dad’s company credit card",
+      "url": "https://www.videogameschronicle.com/news/im-definitely-cooked-a-9-year-old-minecraft-youtuber-ran-up-a-118000-ad-bill-using-his-dads-company-credit-card/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/im-definitely-cooked-a-9-year-old-minecraft-youtuber-ran-up-a-118000-ad-bill-using-his-dads-company-credit-card/",
+          "titre": "‘I’m definitely cooked’: A 9-year-old Minecraft YouTuber ran up a $118,000 ad bill using his dad’s company credit card"
         }
       ]
     },
@@ -869,7 +905,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +923,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +941,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +959,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +977,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 7.0,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +995,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +1013,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +1031,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,7 +1049,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,7 +1067,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1049,7 +1085,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1067,31 +1103,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/looks-like-sk-hynix-wants-to-make-memory-chips-on-us-soil-and-it-could-work-with-intel-to-do-it/",
           "titre": "Looks like SK hynix wants to make memory chips on US soil and it could work with Intel to do it"
-        }
-      ]
-    },
-    {
-      "id": "warlock-dungeons-dragons-won-t-have-waypoints-so-that-player",
-      "titre": "Warlock: Dungeons & Dragons won't have waypoints, so that players can figure things out without 'blindly trusting' a UI",
-      "url": "https://www.pcgamer.com/games/action/warlock-dungeons-and-dragons-wont-have-waypoints-so-that-players-can-figure-things-out-without-blindly-trusting-a-ui/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/warlock-dungeons-and-dragons-wont-have-waypoints-so-that-players-can-figure-things-out-without-blindly-trusting-a-ui/",
-          "titre": "Warlock: Dungeons & Dragons won't have waypoints, so that players can figure things out without 'blindly trusting' a UI"
         }
       ]
     },
@@ -1103,7 +1121,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1121,7 +1139,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1139,7 +1157,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1157,7 +1175,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1169,6 +1187,7 @@ const VEILLE = {
     }
   ],
   "alertes": [
-    "Report: MindsEye developer Build a Rocket Boy seemingly closing after more layoffs"
+    "MindsEye developer Build a Rocket Boy may finally be closing",
+    "More MindsEye developers have been laid off, and GTA veteran Leslie Benzie's studio is reportedly shutting down"
   ]
 };
