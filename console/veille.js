@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "16/09/2026 à 20h21",
+  "collecte": "16/09/2026 à 22h19",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 2.0,
+      "heures": 3.9,
       "chaleur": 20,
       "liens": [
         {
@@ -48,7 +48,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 14,
       "liens": [
         {
@@ -73,7 +73,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 12,
       "liens": [
         {
@@ -103,7 +103,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 12,
       "liens": [
         {
@@ -133,8 +133,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 10.8,
-      "chaleur": 12,
+      "heures": 12.7,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -154,32 +154,68 @@ const VEILLE = {
       ]
     },
     {
-      "id": "bayonetta-will-join-sonic-racing-crossworlds-in-a-free-updat",
-      "titre": "Bayonetta Will Join Sonic Racing: CrossWorlds in a Free Update 'Soon' on PS5, PS4",
-      "url": "https://www.pushsquare.com/news/2026/09/bayonetta-will-join-sonic-racing-crossworlds-in-a-free-update-soon-on-ps5-ps4",
+      "id": "shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-late",
+      "titre": "Shinji Mikami to be inducted into the AIAS Hall of Fame later this week",
+      "url": "https://www.gamesindustry.biz/shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-later-this-week",
       "sources": [
-        "Nintendo Life",
-        "Push Square",
-        "VGC"
+        "Game Developer",
+        "GamesIndustry.biz"
       ],
-      "reprises": 3,
-      "heures": 8.6,
-      "chaleur": 10,
+      "reprises": 2,
+      "heures": 2.0,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/bayonetta-will-join-sonic-racing-crossworlds-in-a-free-update-soon-on-ps5-ps4",
-          "titre": "Bayonetta Will Join Sonic Racing: CrossWorlds in a Free Update 'Soon' on PS5, PS4"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-later-this-week",
+          "titre": "Shinji Mikami to be inducted into the AIAS Hall of Fame later this week"
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sega-confirms-that-sonic-racing-crossworlds-will-still-get-free-characters-in-year-two-starting-with-bayonetta/",
-          "titre": "Sega confirms that Sonic Racing CrossWorlds will still get free characters in Year Two, starting with Bayonetta"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/shinji-mikami-to-join-aias-hall-of-fame-at-2026-dice-awards",
+          "titre": "Shinji Mikami to join AIAS Hall of Fame at 2026 DICE Awards"
+        }
+      ]
+    },
+    {
+      "id": "microsoft-hasn-t-marched-fable-to-the-guillotine-because-it",
+      "titre": "Microsoft hasn't marched Fable to the guillotine because it's 'vital to the DNA' of Xbox, says the game's director",
+      "url": "https://www.pcgamer.com/games/rpg/microsoft-hasnt-marched-fable-to-the-guillotine-because-its-vital-to-the-dna-of-xbox-says-the-games-director/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 6.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/microsoft-hasnt-marched-fable-to-the-guillotine-because-its-vital-to-the-dna-of-xbox-says-the-games-director/",
+          "titre": "Microsoft hasn't marched Fable to the guillotine because it's 'vital to the DNA' of Xbox, says the game's director"
         },
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/sonic-racings-first-free-character-update-of-year-two-is-bayonetta",
-          "titre": "Sonic Racing's First Free Character Update Of 'Year Two' Is Bayonetta"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/fable-vital-dna-of-xbox-playground-games",
+          "titre": "Xbox's Fable reboot was allowed a 10-year development because the RPG series is \"vital to the DNA of the platform\", developer Playground Games says"
+        }
+      ]
+    },
+    {
+      "id": "microsoft-doesn-t-dismiss-rumours-a-major-xbox-game-pass-sha",
+      "titre": "Microsoft doesn't dismiss rumours a major Xbox Game Pass shake-up is on the way, which reportedly removes day-one game offerings entirely",
+      "url": "https://www.eurogamer.net/xbox-game-pass-big-changes-2027-rumour-microsoft-responds",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 10.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-game-pass-big-changes-2027-rumour-microsoft-responds",
+          "titre": "Microsoft doesn't dismiss rumours a major Xbox Game Pass shake-up is on the way, which reportedly removes day-one game offerings entirely"
         }
       ]
     },
@@ -192,8 +228,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 2.4,
-      "chaleur": 9,
+      "heures": 4.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -216,8 +252,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 3.0,
-      "chaleur": 9,
+      "heures": 5.0,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -239,91 +275,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 9,
+      "heures": 5.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5s-become-a-celebrity-mod-is-almost-weirdly-fully-featured/",
           "titre": "GTA 5's 'Become a celebrity' mod is almost weirdly fully featured"
-        }
-      ]
-    },
-    {
-      "id": "microsoft-hasn-t-marched-fable-to-the-guillotine-because-it",
-      "titre": "Microsoft hasn't marched Fable to the guillotine because it's 'vital to the DNA' of Xbox, says the game's director",
-      "url": "https://www.pcgamer.com/games/rpg/microsoft-hasnt-marched-fable-to-the-guillotine-because-its-vital-to-the-dna-of-xbox-says-the-games-director/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 4.8,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/microsoft-hasnt-marched-fable-to-the-guillotine-because-its-vital-to-the-dna-of-xbox-says-the-games-director/",
-          "titre": "Microsoft hasn't marched Fable to the guillotine because it's 'vital to the DNA' of Xbox, says the game's director"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/fable-vital-dna-of-xbox-playground-games",
-          "titre": "Xbox's Fable reboot was allowed a 10-year development because the RPG series is \"vital to the DNA of the platform\", developer Playground Games says"
-        }
-      ]
-    },
-    {
-      "id": "feature-how-does-zelda-ocarina-of-time-s-old-new-art-compare",
-      "titre": "Feature: How Does Zelda: Ocarina Of Time's Old & New Art Compare? Here's A Side-By-Side Face-Off",
-      "url": "https://www.nintendolife.com/features/how-does-zelda-ocarina-of-times-old-and-new-art-compare-heres-a-side-by-side-face-off",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/how-does-zelda-ocarina-of-times-old-and-new-art-compare-heres-a-side-by-side-face-off",
-          "titre": "Feature: How Does Zelda: Ocarina Of Time's Old & New Art Compare? Here's A Side-By-Side Face-Off"
-        }
-      ]
-    },
-    {
-      "id": "vampire-rpg-escapes-steam-s-adult-only-jail-just-in-time-for",
-      "titre": "Vampire RPG escapes Steam's 'Adult Only' jail just in time for launch: \"At the risk of disappointing some players, Nighthawks is not porn\"",
-      "url": "https://www.eurogamer.net/vampire-rpg-steam-adult-only-game-jail-nighthawks",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/vampire-rpg-steam-adult-only-game-jail-nighthawks",
-          "titre": "Vampire RPG escapes Steam's 'Adult Only' jail just in time for launch: \"At the risk of disappointing some players, Nighthawks is not porn\""
-        }
-      ]
-    },
-    {
-      "id": "microsoft-doesn-t-dismiss-rumours-a-major-xbox-game-pass-sha",
-      "titre": "Microsoft doesn't dismiss rumours a major Xbox Game Pass shake-up is on the way, which reportedly removes day-one game offerings entirely",
-      "url": "https://www.eurogamer.net/xbox-game-pass-big-changes-2027-rumour-microsoft-responds",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 8.7,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-game-pass-big-changes-2027-rumour-microsoft-responds",
-          "titre": "Microsoft doesn't dismiss rumours a major Xbox Game Pass shake-up is on the way, which reportedly removes day-one game offerings entirely"
         }
       ]
     },
@@ -335,7 +293,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.8,
       "chaleur": 7,
       "liens": [
         {
@@ -346,26 +304,98 @@ const VEILLE = {
       ]
     },
     {
-      "id": "two-point-museum-is-getting-rides-relics-dlc-which-looks-lik",
-      "titre": "Two Point Museum is getting Rides & Relics DLC, which looks like a new Theme Park game in all but name",
-      "url": "https://www.videogameschronicle.com/news/two-point-museum-is-getting-rides-relics-dlc-which-looks-like-a-new-theme-park-game-in-all-but-name/",
+      "id": "bayonetta-will-join-sonic-racing-crossworlds-in-a-free-updat",
+      "titre": "Bayonetta Will Join Sonic Racing: CrossWorlds in a Free Update 'Soon' on PS5, PS4",
+      "url": "https://www.pushsquare.com/news/2026/09/bayonetta-will-join-sonic-racing-crossworlds-in-a-free-update-soon-on-ps5-ps4",
       "sources": [
-        "Eurogamer",
-        "VGC"
+        "Nintendo Life",
+        "Push Square"
       ],
       "reprises": 2,
-      "heures": 10.4,
+      "heures": 10.6,
       "chaleur": 7,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/two-point-museum-is-getting-rides-relics-dlc-which-looks-like-a-new-theme-park-game-in-all-but-name/",
-          "titre": "Two Point Museum is getting Rides & Relics DLC, which looks like a new Theme Park game in all but name"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/bayonetta-will-join-sonic-racing-crossworlds-in-a-free-update-soon-on-ps5-ps4",
+          "titre": "Bayonetta Will Join Sonic Racing: CrossWorlds in a Free Update 'Soon' on PS5, PS4"
         },
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/two-point-museum-rides-and-relics-dlc-announced",
-          "titre": "After riffing on Theme Hospital, Two Point Museum studio is tipping a hat to Bullfrog's classic Theme Park in its next DLC"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/sonic-racings-first-free-character-update-of-year-two-is-bayonetta",
+          "titre": "Sonic Racing's First Free Character Update Of 'Year Two' Is Bayonetta"
+        }
+      ]
+    },
+    {
+      "id": "get-a-good-look-at-control-resonant-s-otherworldly-bosses-in",
+      "titre": "Get a good look at Control Resonant's otherworldly bosses in a PC Gaming Show exclusive extended interview",
+      "url": "https://www.pcgamer.com/games/action/get-a-good-look-at-control-resonants-otherworldly-bosses-in-a-pc-gaming-show-exclusive-extended-interview/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/get-a-good-look-at-control-resonants-otherworldly-bosses-in-a-pc-gaming-show-exclusive-extended-interview/",
+          "titre": "Get a good look at Control Resonant's otherworldly bosses in a PC Gaming Show exclusive extended interview"
+        }
+      ]
+    },
+    {
+      "id": "hyper-light-studio-heart-machine-lays-off-nearly-everyone-af",
+      "titre": "Hyper Light studio Heart Machine lays off 'nearly everyone' after publishing deal for unannounced game falls through",
+      "url": "https://www.pcgamer.com/gaming-industry/hyper-light-studio-heart-machine-lays-off-nearly-everyone-after-publisher-deal-for-unannounced-game-falls-through/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/hyper-light-studio-heart-machine-lays-off-nearly-everyone-after-publisher-deal-for-unannounced-game-falls-through/",
+          "titre": "Hyper Light studio Heart Machine lays off 'nearly everyone' after publishing deal for unannounced game falls through"
+        }
+      ]
+    },
+    {
+      "id": "the-war-thunder-team-looks-back-on-14-years-of-service-from",
+      "titre": "The War Thunder team looks back on 14 years of service: from planes and ponies to tanks, choppers, and even frontline infantry",
+      "url": "https://www.videogameschronicle.com/news/the-war-thunder-team-looks-back-on-14-years-of-service-from-planes-and-ponies-to-tanks-choppers-and-even-frontline-infantry/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-war-thunder-team-looks-back-on-14-years-of-service-from-planes-and-ponies-to-tanks-choppers-and-even-frontline-infantry/",
+          "titre": "The War Thunder team looks back on 14 years of service: from planes and ponies to tanks, choppers, and even frontline infantry"
+        }
+      ]
+    },
+    {
+      "id": "marathon-creative-director-shoots-down-rumored-merge-with-de",
+      "titre": "Marathon creative director shoots down rumored merge with Destiny 2: 'Please don't believe everything you read online'",
+      "url": "https://www.pcgamer.com/games/fps/marathon-creative-director-shoots-down-rumored-merge-with-destiny-2-please-dont-believe-everything-you-read-online/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/marathon-creative-director-shoots-down-rumored-merge-with-destiny-2-please-dont-believe-everything-you-read-online/",
+          "titre": "Marathon creative director shoots down rumored merge with Destiny 2: 'Please don't believe everything you read online'"
         }
       ]
     },
@@ -377,7 +407,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -395,7 +425,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -406,110 +436,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "monster-hunter-wilds-will-soon-stop-charging-players-to-edit",
-      "titre": "Monster Hunter Wilds will soon stop charging players to edit their characters as Capcom scraps the game's worst microtransaction",
-      "url": "https://www.eurogamer.net/monster-hunter-wilds-edit-characters-capcom-microtransaction",
+      "id": "feature-how-does-zelda-ocarina-of-time-s-old-new-art-compare",
+      "titre": "Feature: How Does Zelda: Ocarina Of Time's Old & New Art Compare? Here's A Side-By-Side Face-Off",
+      "url": "https://www.nintendolife.com/features/how-does-zelda-ocarina-of-times-old-and-new-art-compare-heres-a-side-by-side-face-off",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/how-does-zelda-ocarina-of-times-old-and-new-art-compare-heres-a-side-by-side-face-off",
+          "titre": "Feature: How Does Zelda: Ocarina Of Time's Old & New Art Compare? Here's A Side-By-Side Face-Off"
+        }
+      ]
+    },
+    {
+      "id": "vampire-rpg-escapes-steam-s-adult-only-jail-just-in-time-for",
+      "titre": "Vampire RPG escapes Steam's 'Adult Only' jail just in time for launch: \"At the risk of disappointing some players, Nighthawks is not porn\"",
+      "url": "https://www.eurogamer.net/vampire-rpg-steam-adult-only-game-jail-nighthawks",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.6,
+      "heures": 5.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/monster-hunter-wilds-edit-characters-capcom-microtransaction",
-          "titre": "Monster Hunter Wilds will soon stop charging players to edit their characters as Capcom scraps the game's worst microtransaction"
-        }
-      ]
-    },
-    {
-      "id": "preview-crazy-taxi-world-tour-s-beta-test-transported-me-bac",
-      "titre": "Preview: Crazy Taxi: World Tour's Beta Test Transported Me Back to a Bygone Era of Online Multiplayer",
-      "url": "https://www.pushsquare.com/previews/crazy-taxi-world-tours-beta-test-transported-me-back-to-a-bygone-era-of-online-multiplayer",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/previews/crazy-taxi-world-tours-beta-test-transported-me-back-to-a-bygone-era-of-online-multiplayer",
-          "titre": "Preview: Crazy Taxi: World Tour's Beta Test Transported Me Back to a Bygone Era of Online Multiplayer"
-        }
-      ]
-    },
-    {
-      "id": "15-years-ago-people-understood-it-was-an-unfinished-game-as",
-      "titre": "\"15 years ago, people understood it was an unfinished game\": As Endless Legend 2 hits 1.0, Amplitude reflect on how early access has changed",
-      "url": "https://www.rockpapershotgun.com/15-years-ago-people-understood-it-was-an-unfinished-game-as-endless-legend-2-hits-10-amplitude-reflect-on-how-early-access-has-changed",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/15-years-ago-people-understood-it-was-an-unfinished-game-as-endless-legend-2-hits-10-amplitude-reflect-on-how-early-access-has-changed",
-          "titre": "\"15 years ago, people understood it was an unfinished game\": As Endless Legend 2 hits 1.0, Amplitude reflect on how early access has changed"
-        }
-      ]
-    },
-    {
-      "id": "shinji-mikami-to-join-aias-hall-of-fame-at-2026-dice-awards",
-      "titre": "Shinji Mikami to join AIAS Hall of Fame at 2026 DICE Awards",
-      "url": "https://www.gamedeveloper.com/business/shinji-mikami-to-join-aias-hall-of-fame-at-2026-dice-awards",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/shinji-mikami-to-join-aias-hall-of-fame-at-2026-dice-awards",
-          "titre": "Shinji Mikami to join AIAS Hall of Fame at 2026 DICE Awards"
-        }
-      ]
-    },
-    {
-      "id": "this-new-community-activity-widget-tells-you-what-s-hot-righ",
-      "titre": "This New Community Activity Widget Tells You What's Hot Right Now on PS5",
-      "url": "https://www.pushsquare.com/news/2026/09/this-new-community-activity-widget-tells-you-whats-hot-right-now-on-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/this-new-community-activity-widget-tells-you-whats-hot-right-now-on-ps5",
-          "titre": "This New Community Activity Widget Tells You What's Hot Right Now on PS5"
-        }
-      ]
-    },
-    {
-      "id": "the-blood-of-dawnwalker-s-controversial-time-mechanic-won-t",
-      "titre": "The Blood of Dawnwalker's controversial time mechanic won't necessarily be in a sequel, the game director says",
-      "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-time-mechanic-sequels",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-time-mechanic-sequels",
-          "titre": "The Blood of Dawnwalker's controversial time mechanic won't necessarily be in a sequel, the game director says"
+          "url": "https://www.eurogamer.net/vampire-rpg-steam-adult-only-game-jail-nighthawks",
+          "titre": "Vampire RPG escapes Steam's 'Adult Only' jail just in time for launch: \"At the risk of disappointing some players, Nighthawks is not porn\""
         }
       ]
     },
@@ -521,7 +479,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.3,
       "chaleur": 6,
       "liens": [
         {
@@ -539,7 +497,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.7,
+      "heures": 10.6,
       "chaleur": 6,
       "liens": [
         {
@@ -550,38 +508,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "stellar-blade-launches-on-switch-2-this-november-with-a-prop",
-      "titre": "Stellar Blade Launches On Switch 2 This November With A Proper Physical Release",
-      "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-launches-on-switch-2-this-november-with-a-proper-physical-release",
+      "id": "two-point-museum-is-getting-rides-relics-dlc-which-looks-lik",
+      "titre": "Two Point Museum is getting Rides & Relics DLC, which looks like a new Theme Park game in all but name",
+      "url": "https://www.videogameschronicle.com/news/two-point-museum-is-getting-rides-relics-dlc-which-looks-like-a-new-theme-park-game-in-all-but-name/",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 11.4,
+      "reprises": 2,
+      "heures": 12.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-launches-on-switch-2-this-november-with-a-proper-physical-release",
-          "titre": "Stellar Blade Launches On Switch 2 This November With A Proper Physical Release"
-        }
-      ]
-    },
-    {
-      "id": "login-errors-delay-diablo-4-s-big-new-season-of-hell-s-legac",
-      "titre": "Login errors delay Diablo 4's big new Season of Hell's Legacy anniversary update",
-      "url": "https://www.eurogamer.net/diablo-4-season-of-hells-legacy-30th-anniversary-delayed",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 6,
-      "liens": [
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/two-point-museum-is-getting-rides-relics-dlc-which-looks-like-a-new-theme-park-game-in-all-but-name/",
+          "titre": "Two Point Museum is getting Rides & Relics DLC, which looks like a new Theme Park game in all but name"
+        },
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/diablo-4-season-of-hells-legacy-30th-anniversary-delayed",
-          "titre": "Login errors delay Diablo 4's big new Season of Hell's Legacy anniversary update"
+          "url": "https://www.eurogamer.net/two-point-museum-rides-and-relics-dlc-announced",
+          "titre": "After riffing on Theme Hospital, Two Point Museum studio is tipping a hat to Bullfrog's classic Theme Park in its next DLC"
         }
       ]
     },
@@ -594,7 +540,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 6,
       "liens": [
         {
@@ -617,13 +563,49 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 28.6,
+      "heures": 30.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/multiple-music-artists-tease-gta-6-collaborations",
           "titre": "Multiple Music Artists Tease GTA 6 Collaborations"
+        }
+      ]
+    },
+    {
+      "id": "stellar-blade-launches-on-switch-2-this-november-with-a-prop",
+      "titre": "Stellar Blade Launches On Switch 2 This November With A Proper Physical Release",
+      "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-launches-on-switch-2-this-november-with-a-proper-physical-release",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.3,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-launches-on-switch-2-this-november-with-a-proper-physical-release",
+          "titre": "Stellar Blade Launches On Switch 2 This November With A Proper Physical Release"
+        }
+      ]
+    },
+    {
+      "id": "login-errors-delay-diablo-4-s-big-new-season-of-hell-s-legac",
+      "titre": "Login errors delay Diablo 4's big new Season of Hell's Legacy anniversary update",
+      "url": "https://www.eurogamer.net/diablo-4-season-of-hells-legacy-30th-anniversary-delayed",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 13.6,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/diablo-4-season-of-hells-legacy-30th-anniversary-delayed",
+          "titre": "Login errors delay Diablo 4's big new Season of Hell's Legacy anniversary update"
         }
       ]
     },
@@ -635,7 +617,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.8,
       "chaleur": 5,
       "liens": [
         {
@@ -653,7 +635,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 21.6,
       "chaleur": 5,
       "liens": [
         {
@@ -671,13 +653,103 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 31.9,
+      "heures": 33.8,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake",
           "titre": "Why switching main characters for your game's sequel might be a mistake"
+        }
+      ]
+    },
+    {
+      "id": "monster-hunter-wilds-will-soon-stop-charging-players-to-edit",
+      "titre": "Monster Hunter Wilds will soon stop charging players to edit their characters as Capcom scraps the game's worst microtransaction",
+      "url": "https://www.eurogamer.net/monster-hunter-wilds-edit-characters-capcom-microtransaction",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/monster-hunter-wilds-edit-characters-capcom-microtransaction",
+          "titre": "Monster Hunter Wilds will soon stop charging players to edit their characters as Capcom scraps the game's worst microtransaction"
+        }
+      ]
+    },
+    {
+      "id": "preview-crazy-taxi-world-tour-s-beta-test-transported-me-bac",
+      "titre": "Preview: Crazy Taxi: World Tour's Beta Test Transported Me Back to a Bygone Era of Online Multiplayer",
+      "url": "https://www.pushsquare.com/previews/crazy-taxi-world-tours-beta-test-transported-me-back-to-a-bygone-era-of-online-multiplayer",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/previews/crazy-taxi-world-tours-beta-test-transported-me-back-to-a-bygone-era-of-online-multiplayer",
+          "titre": "Preview: Crazy Taxi: World Tour's Beta Test Transported Me Back to a Bygone Era of Online Multiplayer"
+        }
+      ]
+    },
+    {
+      "id": "15-years-ago-people-understood-it-was-an-unfinished-game-as",
+      "titre": "\"15 years ago, people understood it was an unfinished game\": As Endless Legend 2 hits 1.0, Amplitude reflect on how early access has changed",
+      "url": "https://www.rockpapershotgun.com/15-years-ago-people-understood-it-was-an-unfinished-game-as-endless-legend-2-hits-10-amplitude-reflect-on-how-early-access-has-changed",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/15-years-ago-people-understood-it-was-an-unfinished-game-as-endless-legend-2-hits-10-amplitude-reflect-on-how-early-access-has-changed",
+          "titre": "\"15 years ago, people understood it was an unfinished game\": As Endless Legend 2 hits 1.0, Amplitude reflect on how early access has changed"
+        }
+      ]
+    },
+    {
+      "id": "this-new-community-activity-widget-tells-you-what-s-hot-righ",
+      "titre": "This New Community Activity Widget Tells You What's Hot Right Now on PS5",
+      "url": "https://www.pushsquare.com/news/2026/09/this-new-community-activity-widget-tells-you-whats-hot-right-now-on-ps5",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/this-new-community-activity-widget-tells-you-whats-hot-right-now-on-ps5",
+          "titre": "This New Community Activity Widget Tells You What's Hot Right Now on PS5"
+        }
+      ]
+    },
+    {
+      "id": "the-blood-of-dawnwalker-s-controversial-time-mechanic-won-t",
+      "titre": "The Blood of Dawnwalker's controversial time mechanic won't necessarily be in a sequel, the game director says",
+      "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-time-mechanic-sequels",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-time-mechanic-sequels",
+          "titre": "The Blood of Dawnwalker's controversial time mechanic won't necessarily be in a sequel, the game director says"
         }
       ]
     },
@@ -689,7 +761,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -707,7 +779,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -725,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -743,7 +815,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -761,7 +833,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -779,7 +851,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 7.0,
       "chaleur": 4,
       "liens": [
         {
@@ -797,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -833,7 +905,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -851,7 +923,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -869,7 +941,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +959,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +977,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +995,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.7,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +1013,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +1031,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +1049,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +1067,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,7 +1085,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,7 +1103,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1049,67 +1121,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/guide/aniimo-counters-all-elemental-types-strengths-and-weaknesses/",
           "titre": "Aniimo counters: All elemental types, strengths, and weaknesses"
-        }
-      ]
-    },
-    {
-      "id": "we-can-t-stuff-ai-back-in-a-box-says-former-us-president-ba",
-      "titre": "'We can't stuff AI back in a box' says former US president Barack Obama, confirming he's 'not a doomer' while still calling for more government AI regulation",
-      "url": "https://www.pcgamer.com/software/ai/we-cant-stuff-ai-back-in-a-box-says-former-us-president-barack-obama-confirming-hes-not-a-doomer-while-still-calling-for-more-government-ai-regulation/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/we-cant-stuff-ai-back-in-a-box-says-former-us-president-barack-obama-confirming-hes-not-a-doomer-while-still-calling-for-more-government-ai-regulation/",
-          "titre": "'We can't stuff AI back in a box' says former US president Barack Obama, confirming he's 'not a doomer' while still calling for more government AI regulation"
-        }
-      ]
-    },
-    {
-      "id": "relic-thought-company-of-heroes-3-s-ambitious-dynamic-campai",
-      "titre": "Relic thought Company of Heroes 3's ambitious dynamic campaign would eventually come together, but it didn't: 'We bit off more than we could chew'",
-      "url": "https://www.pcgamer.com/games/strategy/relic-thought-company-of-heroes-3s-ambitious-dynamic-campaign-would-eventually-come-together-but-it-didnt-we-bit-off-more-than-we-could-chew/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 8.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/relic-thought-company-of-heroes-3s-ambitious-dynamic-campaign-would-eventually-come-together-but-it-didnt-we-bit-off-more-than-we-could-chew/",
-          "titre": "Relic thought Company of Heroes 3's ambitious dynamic campaign would eventually come together, but it didn't: 'We bit off more than we could chew'"
-        }
-      ]
-    },
-    {
-      "id": "looks-like-sk-hynix-wants-to-make-memory-chips-on-us-soil-an",
-      "titre": "Looks like SK hynix wants to make memory chips on US soil and it could work with Intel to do it",
-      "url": "https://www.pcgamer.com/hardware/looks-like-sk-hynix-wants-to-make-memory-chips-on-us-soil-and-it-could-work-with-intel-to-do-it/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/looks-like-sk-hynix-wants-to-make-memory-chips-on-us-soil-and-it-could-work-with-intel-to-do-it/",
-          "titre": "Looks like SK hynix wants to make memory chips on US soil and it could work with Intel to do it"
         }
       ]
     },
@@ -1121,7 +1139,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1139,7 +1157,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1157,8 +1175,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1166,28 +1184,7 @@ const VEILLE = {
           "titre": "Sakurai Believes Industry Will \"Slowly Die\" Without Innovation As He Discontinues Game Designers Award"
         }
       ]
-    },
-    {
-      "id": "feature-50-ps5-ps4-games-to-buy-in-ps-store-s-tokyo-game-sho",
-      "titre": "Feature: 50+ PS5, PS4 Games to Buy in PS Store's Tokyo Game Show Sale (North America/Europe)",
-      "url": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-ps-stores-tokyo-game-show-sale-north-americaeurope",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-ps-stores-tokyo-game-show-sale-north-americaeurope",
-          "titre": "Feature: 50+ PS5, PS4 Games to Buy in PS Store's Tokyo Game Show Sale (North America/Europe)"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "MindsEye developer Build a Rocket Boy may finally be closing",
-    "More MindsEye developers have been laid off, and GTA veteran Leslie Benzie's studio is reportedly shutting down"
-  ]
+  "alertes": []
 };
