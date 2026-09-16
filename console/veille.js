@@ -1,50 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "16/09/2026 à 04h21",
+  "collecte": "16/09/2026 à 06h26",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "steam-deck-2-plans-still-on-track-despite-ram-crisis-and-hig",
-      "titre": "Steam Deck 2 plans still on track despite RAM crisis and higher prices",
-      "url": "https://www.videogameschronicle.com/news/steam-deck-2-plans-still-on-track-despite-ram-crisis-and-higher-prices/",
-      "sources": [
-        "Eurogamer",
-        "Game Developer",
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 5,
-      "heures": 13.1,
-      "chaleur": 17,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/steam-deck-2-plans-still-on-track-despite-ram-crisis-and-higher-prices/",
-          "titre": "Steam Deck 2 plans still on track despite RAM crisis and higher prices"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/valve-steam-deck-2-plans-component-crisis",
-          "titre": "Steam Deck 2 plans aren't affected by ongoing component crisis, Valve maintains, as Steam Frame arrives later and more expensive than expected"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/extended-reality/valve-s-steam-frame-will-retail-for-1-059",
-          "titre": "Valve's Steam Frame pricing starts at $1,059"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/valve-opens-waiting-list-for-steam-frame-starting-at-1059",
-          "titre": "Valve opens waiting list for Steam Frame, starting at $1059"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valves-steam-frame-vr-headset-opens-for-orders-with-the-cheapest-model-priced-at-a-lenswatering-889-1059",
-          "titre": "Valve’s Steam Frame VR headset opens for orders, with the cheapest model priced at a lenswatering £889 / $1,059"
-        }
-      ]
-    },
     {
       "id": "007-first-light-catches-a-big-delay-on-switch-2-pushing-it-i",
       "titre": "007 First Light catches a big delay on Switch 2, pushing it into next year",
@@ -54,7 +12,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 18.7,
+      "heures": 20.8,
       "chaleur": 10,
       "liens": [
         {
@@ -70,30 +28,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "bungie-is-overhauling-marathon-from-its-original-extraction",
-      "titre": "Bungie is overhauling Marathon from its original extraction shooter vision",
-      "url": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
-      "sources": [
-        "Eurogamer",
-        "Game Developer"
-      ],
-      "reprises": 2,
-      "heures": 9.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
-          "titre": "Bungie is overhauling Marathon from its original extraction shooter vision"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marathon-pve-mode-delay-bungie-major-update",
-          "titre": "Marathon's permanent PvE mode and next major update delayed to December days before launch, and Bungie's \"moving away from a strict season schedule\""
-        }
-      ]
-    },
-    {
       "id": "lies-of-p-s-sequel-is-a-wizard-of-oz-homage-called-wonders-o",
       "titre": "Lies of P's sequel is a Wizard of Oz homage called Wonders of O, going by a Neowiz trademark, and probably not a videogame based on a famous work of French erotica",
       "url": "https://www.rockpapershotgun.com/lies-of-ps-sequel-is-a-wizard-of-oz-homage-called-wonders-of-o-going-by-a-neowiz-trademark-and-probably-not-a-videogame-based-on-a-famous-work-of-french-erotica",
@@ -103,7 +37,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 14.4,
+      "heures": 16.5,
       "chaleur": 9,
       "liens": [
         {
@@ -124,32 +58,104 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sega-and-netflix-announce-partnership-to-develop-crazy-taxi",
-      "titre": "Sega and Netflix announce partnership to develop Crazy Taxi, Sonic, and Stranger Than Heaven adaptations",
-      "url": "https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations",
+      "id": "nintendo-explains-why-fire-emblem-fortune-s-weave-has-just-a",
+      "titre": "Nintendo Explains Why Fire Emblem: Fortune's Weave Has Just \"A Single Save File\"",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-explains-why-fire-emblem-fortunes-weave-has-just-a-single-save-file",
       "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz",
         "Nintendo Life"
       ],
-      "reprises": 3,
-      "heures": 17.6,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations",
-          "titre": "Sega and Netflix announce partnership to develop Crazy Taxi, Sonic, and Stranger Than Heaven adaptations"
-        },
-        {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/sega-and-netflix-announce-new-multi-title-collaboration",
-          "titre": "SEGA And Netflix Announce New \"Multi-Title Collaboration\""
+          "url": "https://www.nintendolife.com/news/2026/09/nintendo-explains-why-fire-emblem-fortunes-weave-has-just-a-single-save-file",
+          "titre": "Nintendo Explains Why Fire Emblem: Fortune's Weave Has Just \"A Single Save File\""
+        }
+      ]
+    },
+    {
+      "id": "steam-deck-2-plans-still-on-track-despite-ram-crisis-and-hig",
+      "titre": "Steam Deck 2 plans still on track despite RAM crisis and higher prices",
+      "url": "https://www.videogameschronicle.com/news/steam-deck-2-plans-still-on-track-despite-ram-crisis-and-higher-prices/",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 15.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/steam-deck-2-plans-still-on-track-despite-ram-crisis-and-higher-prices/",
+          "titre": "Steam Deck 2 plans still on track despite RAM crisis and higher prices"
         },
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sega-netflix-sonic-tv-crazy-taxi-stranger-than-heaven-film",
-          "titre": "Sega and Netflix partner for a \"cute yet cool\" Sonic TV Show, a Crazy Taxi film, and a \"badass action\" Stranger Than Heaven adaptation"
+          "url": "https://www.eurogamer.net/valve-steam-deck-2-plans-component-crisis",
+          "titre": "Steam Deck 2 plans aren't affected by ongoing component crisis, Valve maintains, as Steam Frame arrives later and more expensive than expected"
+        }
+      ]
+    },
+    {
+      "id": "wardogs-ceo-says-he-won-t-hire-devs-who-aren-t-down-with-man",
+      "titre": "Wardogs CEO says he won't hire devs who aren't down with mandatory crunch: 'If you care about what you're making, this is the place to work'",
+      "url": "https://www.pcgamer.com/games/fps/wardogs-ceo-says-he-wont-hire-devs-who-arent-down-with-mandatory-crunch-if-you-care-about-what-youre-making-this-is-the-place-to-work/",
+      "sources": [
+        "Game Developer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 9.2,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/wardogs-ceo-says-he-wont-hire-devs-who-arent-down-with-mandatory-crunch-if-you-care-about-what-youre-making-this-is-the-place-to-work/",
+          "titre": "Wardogs CEO says he won't hire devs who aren't down with mandatory crunch: 'If you care about what you're making, this is the place to work'"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media",
+          "titre": "Wardogs lead says the studio won't hire people who decry crunch on social media"
+        }
+      ]
+    },
+    {
+      "id": "diablo-iv-apparently-has-no-more-expansions-planned-in-lead",
+      "titre": "Diablo IV Apparently Has No More Expansions Planned In Lead Up To Diablo V's Release",
+      "url": "https://www.nintendolife.com/news/2026/09/diablo-iv-apparently-has-no-more-expansions-planned-in-lead-up-to-diablo-vs-release",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/diablo-iv-apparently-has-no-more-expansions-planned-in-lead-up-to-diablo-vs-release",
+          "titre": "Diablo IV Apparently Has No More Expansions Planned In Lead Up To Diablo V's Release"
+        }
+      ]
+    },
+    {
+      "id": "sonic-racing-s-first-free-character-update-of-year-two-is-ba",
+      "titre": "Sonic Racing's First Free Character Update Of 'Year Two' Is Bayonetta",
+      "url": "https://www.nintendolife.com/news/2026/09/sonic-racings-first-free-character-update-of-year-two-is-bayonetta",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/sonic-racings-first-free-character-update-of-year-two-is-bayonetta",
+          "titre": "Sonic Racing's First Free Character Update Of 'Year Two' Is Bayonetta"
         }
       ]
     },
@@ -161,8 +167,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 8,
+      "heures": 4.9,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -179,97 +185,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 8,
+      "heures": 5.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/new-zelda-tears-of-the-kingdom-art-book-now-arriving-in-2027",
           "titre": "New Zelda: Tears Of The Kingdom Art Book Now Arriving In 2027"
-        }
-      ]
-    },
-    {
-      "id": "ubisoft-delays-rayman-legends-remake-retold-a-couple-of-mont",
-      "titre": "Ubisoft delays Rayman Legends remake Retold a couple of months \"to make sure every detail gets the care it deserves\"",
-      "url": "https://www.eurogamer.net/rayman-legends-remake-retold-release-date-delay",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 17.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/rayman-legends-remake-retold-release-date-delay",
-          "titre": "Ubisoft delays Rayman Legends remake Retold a couple of months \"to make sure every detail gets the care it deserves\""
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/rayman-legends-retold-has-been-delayed",
-          "titre": "Rayman Legends Retold Has Been Delayed"
-        }
-      ]
-    },
-    {
-      "id": "wardogs-ceo-says-he-won-t-hire-devs-who-aren-t-down-with-man",
-      "titre": "Wardogs CEO says he won't hire devs who aren't down with mandatory crunch: 'If you care about what you're making, this is the place to work'",
-      "url": "https://www.pcgamer.com/games/fps/wardogs-ceo-says-he-wont-hire-devs-who-arent-down-with-mandatory-crunch-if-you-care-about-what-youre-making-this-is-the-place-to-work/",
-      "sources": [
-        "Game Developer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 7.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/wardogs-ceo-says-he-wont-hire-devs-who-arent-down-with-mandatory-crunch-if-you-care-about-what-youre-making-this-is-the-place-to-work/",
-          "titre": "Wardogs CEO says he won't hire devs who aren't down with mandatory crunch: 'If you care about what you're making, this is the place to work'"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media",
-          "titre": "Wardogs lead says the studio won't hire people who decry crunch on social media"
-        }
-      ]
-    },
-    {
-      "id": "sonic-racing-s-first-free-character-update-of-year-two-is-ba",
-      "titre": "Sonic Racing's First Free Character Update Of 'Year Two' Is Bayonetta",
-      "url": "https://www.nintendolife.com/news/2026/09/sonic-racings-first-free-character-update-of-year-two-is-bayonetta",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/sonic-racings-first-free-character-update-of-year-two-is-bayonetta",
-          "titre": "Sonic Racing's First Free Character Update Of 'Year Two' Is Bayonetta"
-        }
-      ]
-    },
-    {
-      "id": "wo-long-2-wings-of-ember-isn-t-just-a-sequel-it-s-a-culminat",
-      "titre": "Wo Long 2: Wings of Ember isn't just a sequel - it's a culmination of everything Team Ninja has learned from Nioh, Ninja Gaiden, and Dead or Alive",
-      "url": "https://www.eurogamer.net/wo-long-2-wings-of-ember-preview",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/wo-long-2-wings-of-ember-preview",
-          "titre": "Wo Long 2: Wings of Ember isn't just a sequel - it's a culmination of everything Team Ninja has learned from Nioh, Ninja Gaiden, and Dead or Alive"
         }
       ]
     },
@@ -281,7 +203,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.4,
       "chaleur": 6,
       "liens": [
         {
@@ -299,7 +221,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.7,
       "chaleur": 6,
       "liens": [
         {
@@ -310,20 +232,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-or",
-      "titre": "Zelda: Ocarina Of Time - Electric Ocarina Nintendo Store Pre-Orders Now Live (US)",
-      "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-orders-now-live-us",
+      "id": "sega-and-netflix-announce-partnership-to-develop-crazy-taxi",
+      "titre": "Sega and Netflix announce partnership to develop Crazy Taxi, Sonic, and Stranger Than Heaven adaptations",
+      "url": "https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations",
       "sources": [
+        "GamesIndustry.biz",
         "Nintendo Life"
       ],
-      "reprises": 1,
-      "heures": 27.8,
+      "reprises": 2,
+      "heures": 19.7,
       "chaleur": 6,
       "liens": [
         {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations",
+          "titre": "Sega and Netflix announce partnership to develop Crazy Taxi, Sonic, and Stranger Than Heaven adaptations"
+        },
+        {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-electric-ocarina-nintendo-store-pre-orders-now-live-us",
-          "titre": "Zelda: Ocarina Of Time - Electric Ocarina Nintendo Store Pre-Orders Now Live (US)"
+          "url": "https://www.nintendolife.com/news/2026/09/sega-and-netflix-announce-new-multi-title-collaboration",
+          "titre": "SEGA And Netflix Announce New \"Multi-Title Collaboration\""
         }
       ]
     },
@@ -335,31 +263,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root",
           "titre": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\""
-        }
-      ]
-    },
-    {
-      "id": "more-than-40-of-people-cancelling-xbox-game-pass-playstation",
-      "titre": "More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online subscriptions blame rising costs",
-      "url": "https://www.gamesindustry.biz/more-than-40-of-people-cancelling-xbox-game-pass-playstation-plus-and-nintendo-switch-online-subscriptions-blame-rising-costs",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 34.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/more-than-40-of-people-cancelling-xbox-game-pass-playstation-plus-and-nintendo-switch-online-subscriptions-blame-rising-costs",
-          "titre": "More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online subscriptions blame rising costs"
         }
       ]
     },
@@ -371,7 +281,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.9,
       "chaleur": 5,
       "liens": [
         {
@@ -389,13 +299,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 18.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/valve-considered-making-a-new-vr-game-for-the-steam-frame-before-tackling-the-ludicrous-task-of-getting-half-life-alyx-running-standalone",
           "titre": "Valve considered making a new VR game for the Steam Frame, before tackling the \"ludicrous\" task of getting Half-Life: Alyx running standalone"
+        }
+      ]
+    },
+    {
+      "id": "ubisoft-delays-rayman-legends-remake-retold-a-couple-of-mont",
+      "titre": "Ubisoft delays Rayman Legends remake Retold a couple of months \"to make sure every detail gets the care it deserves\"",
+      "url": "https://www.eurogamer.net/rayman-legends-remake-retold-release-date-delay",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 19.1,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/rayman-legends-remake-retold-release-date-delay",
+          "titre": "Ubisoft delays Rayman Legends remake Retold a couple of months \"to make sure every detail gets the care it deserves\""
         }
       ]
     },
@@ -407,7 +335,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.5,
       "chaleur": 5,
       "liens": [
         {
@@ -425,7 +353,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 25.8,
+      "heures": 27.9,
       "chaleur": 5,
       "liens": [
         {
@@ -436,56 +364,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "valve-decided-that-cutting-the-steam-frame-s-specs-to-avoid",
-      "titre": "Valve decided that cutting the Steam Frame’s specs to avoid price rises wasn't \"the right product choice\" for the VR headset",
-      "url": "https://www.rockpapershotgun.com/valve-decided-that-cutting-the-steam-frames-specs-to-avoid-price-rises-wasnt-the-right-product-choice-for-the-vr-headset",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 34.3,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valve-decided-that-cutting-the-steam-frames-specs-to-avoid-price-rises-wasnt-the-right-product-choice-for-the-vr-headset",
-          "titre": "Valve decided that cutting the Steam Frame’s specs to avoid price rises wasn't \"the right product choice\" for the VR headset"
-        }
-      ]
-    },
-    {
-      "id": "steam-frame-review-another-best-in-class-vr-headset-by-valve",
-      "titre": "Steam Frame review: Another best-in-class VR headset by Valve, though virtual realities clash with economic ones",
-      "url": "https://www.rockpapershotgun.com/steam-frame-review",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/steam-frame-review",
-          "titre": "Steam Frame review: Another best-in-class VR headset by Valve, though virtual realities clash with economic ones"
-        }
-      ]
-    },
-    {
-      "id": "it-s-absolutely-our-goal-to-expand-the-market-valve-s-new-s",
-      "titre": "\"It's absolutely our goal to expand the market\" - Valve's new Steam Frame VR headset has a nifty idea for broader appeal",
-      "url": "https://www.eurogamer.net/valve-steam-frame-vr-demand-expand-market",
+      "id": "wo-long-2-wings-of-ember-isn-t-just-a-sequel-it-s-a-culminat",
+      "titre": "Wo Long 2: Wings of Ember isn't just a sequel - it's a culmination of everything Team Ninja has learned from Nioh, Ninja Gaiden, and Dead or Alive",
+      "url": "https://www.eurogamer.net/wo-long-2-wings-of-ember-preview",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 5,
+      "heures": 5.4,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/valve-steam-frame-vr-demand-expand-market",
-          "titre": "\"It's absolutely our goal to expand the market\" - Valve's new Steam Frame VR headset has a nifty idea for broader appeal"
+          "url": "https://www.eurogamer.net/wo-long-2-wings-of-ember-preview",
+          "titre": "Wo Long 2: Wings of Ember isn't just a sequel - it's a culmination of everything Team Ninja has learned from Nioh, Ninja Gaiden, and Dead or Alive"
         }
       ]
     },
@@ -497,7 +389,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -515,7 +407,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 7.0,
       "chaleur": 4,
       "liens": [
         {
@@ -533,7 +425,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -551,7 +443,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -569,7 +461,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.7,
       "chaleur": 4,
       "liens": [
         {
@@ -587,7 +479,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -605,13 +497,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/fps/wardogs-delivers-what-battlefield-6-was-too-console-brained-to-pull-off-a-real-server-browser/",
           "titre": "Wardogs delivers what Battlefield 6 was too console-brained to pull off: A real server browser"
+        }
+      ]
+    },
+    {
+      "id": "bungie-is-overhauling-marathon-from-its-original-extraction",
+      "titre": "Bungie is overhauling Marathon from its original extraction shooter vision",
+      "url": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 11.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
+          "titre": "Bungie is overhauling Marathon from its original extraction shooter vision"
         }
       ]
     },
@@ -623,7 +533,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -641,8 +551,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -659,8 +569,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -677,8 +587,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -695,31 +605,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/skyblivions-release-is-getting-closer-as-the-massive-skyrim-mods-makers-start-recruiting-for-a-big-final-marketing-push",
           "titre": "Skyblivion's release is \"getting closer\" as the massive Skyrim mod's makers start recruiting for a big final marketing push"
-        }
-      ]
-    },
-    {
-      "id": "think-fire-emblem-fortune-s-weave-s-hero-roster-is-big-it-wa",
-      "titre": "Think Fire Emblem: Fortune's Weave's Hero Roster Is Big? It Was Almost Even Bigger",
-      "url": "https://www.nintendolife.com/news/2026/09/think-fire-emblem-fortunes-weaves-hero-roster-is-big-it-was-almost-even-bigger",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/think-fire-emblem-fortunes-weaves-hero-roster-is-big-it-was-almost-even-bigger",
-          "titre": "Think Fire Emblem: Fortune's Weave's Hero Roster Is Big? It Was Almost Even Bigger"
         }
       ]
     },
@@ -731,8 +623,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -749,8 +641,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -767,8 +659,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
-      "chaleur": 4,
+      "heures": 14.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -785,7 +677,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 14.1,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +695,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +713,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -839,7 +731,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -857,7 +749,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.7,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +767,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +785,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 15.0,
       "chaleur": 3,
       "liens": [
         {
@@ -911,7 +803,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 15.1,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 15.1,
       "chaleur": 3,
       "liens": [
         {
@@ -947,7 +839,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 15.2,
       "chaleur": 3,
       "liens": [
         {
@@ -965,7 +857,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
@@ -983,7 +875,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +893,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,7 +911,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1037,7 +929,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1055,7 +947,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 16.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1073,7 +965,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 16.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1091,7 +983,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1109,7 +1001,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 17.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1127,7 +1019,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 17.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1145,13 +1037,85 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/alien-deathstorm-gamescom-preview",
           "titre": "Alien Deathstorm's intense, relentless FPS action was a surprise Gamescom highlight - even if it nearly made my brain explode"
+        }
+      ]
+    },
+    {
+      "id": "dragonheir-silent-gods-marks-third-anniversary-with-a-hero-i",
+      "titre": "Dragonheir: Silent Gods marks third anniversary with a hero its players helped create",
+      "url": "https://www.videogameschronicle.com/news/dragonheir-silent-gods-marks-third-anniversary-with-a-hero-its-players-helped-create/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 17.4,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/dragonheir-silent-gods-marks-third-anniversary-with-a-hero-its-players-helped-create/",
+          "titre": "Dragonheir: Silent Gods marks third anniversary with a hero its players helped create"
+        }
+      ]
+    },
+    {
+      "id": "get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-compl",
+      "titre": "Get Indie Cracker 'The Alters' on a PS5 Disc in Physical Complete Edition",
+      "url": "https://www.pushsquare.com/news/2026/09/get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-complete-edition",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 17.4,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-complete-edition",
+          "titre": "Get Indie Cracker 'The Alters' on a PS5 Disc in Physical Complete Edition"
+        }
+      ]
+    },
+    {
+      "id": "nightdive-studios-head-raises-hopes-of-an-eternal-darkness-r",
+      "titre": "Nightdive Studios Head Raises Hopes Of An Eternal Darkness Remaster",
+      "url": "https://www.nintendolife.com/news/2026/09/nightdive-studios-head-raises-hopes-of-an-eternal-darkness-remaster",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 17.9,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nightdive-studios-head-raises-hopes-of-an-eternal-darkness-remaster",
+          "titre": "Nightdive Studios Head Raises Hopes Of An Eternal Darkness Remaster"
+        }
+      ]
+    },
+    {
+      "id": "katsuhiro-harada-and-snk-discuss-their-bold-ambitions-to-rev",
+      "titre": "Katsuhiro Harada and SNK discuss their bold ambitions to ‘revive Japan’s golden era’",
+      "url": "https://www.videogameschronicle.com/features/interviews/katsuhiro-harada-and-snk-discuss-their-bold-ambitions-to-revive-japans-golden-era/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 18.4,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/features/interviews/katsuhiro-harada-and-snk-discuss-their-bold-ambitions-to-revive-japans-golden-era/",
+          "titre": "Katsuhiro Harada and SNK discuss their bold ambitions to ‘revive Japan’s golden era’"
         }
       ]
     }
