@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "16/09/2026 à 02h20",
+  "collecte": "16/09/2026 à 04h21",
   "seuil": 14,
   "sujets": [
     {
@@ -15,8 +15,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 5,
-      "heures": 11.1,
-      "chaleur": 18,
+      "heures": 13.1,
+      "chaleur": 17,
       "liens": [
         {
           "source": "VGC",
@@ -54,7 +54,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 16.7,
+      "heures": 18.7,
       "chaleur": 10,
       "liens": [
         {
@@ -78,7 +78,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 2,
-      "heures": 7.3,
+      "heures": 9.3,
       "chaleur": 9,
       "liens": [
         {
@@ -103,7 +103,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 9,
       "liens": [
         {
@@ -133,7 +133,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 3,
-      "heures": 15.6,
+      "heures": 17.6,
       "chaleur": 9,
       "liens": [
         {
@@ -161,7 +161,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.9,
       "chaleur": 8,
       "liens": [
         {
@@ -179,7 +179,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 8,
       "liens": [
         {
@@ -198,7 +198,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 15.0,
+      "heures": 17.0,
       "chaleur": 8,
       "liens": [
         {
@@ -222,7 +222,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 5.1,
+      "heures": 7.1,
       "chaleur": 7,
       "liens": [
         {
@@ -238,20 +238,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "multiple-music-artists-tease-gta-6-collaborations",
-      "titre": "Multiple Music Artists Tease GTA 6 Collaborations",
-      "url": "https://www.pushsquare.com/news/2026/09/multiple-music-artists-tease-gta-6-collaborations",
+      "id": "sonic-racing-s-first-free-character-update-of-year-two-is-ba",
+      "titre": "Sonic Racing's First Free Character Update Of 'Year Two' Is Bayonetta",
+      "url": "https://www.nintendolife.com/news/2026/09/sonic-racings-first-free-character-update-of-year-two-is-bayonetta",
       "sources": [
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 7,
+      "heures": 1.6,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/multiple-music-artists-tease-gta-6-collaborations",
-          "titre": "Multiple Music Artists Tease GTA 6 Collaborations"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/sonic-racings-first-free-character-update-of-year-two-is-bayonetta",
+          "titre": "Sonic Racing's First Free Character Update Of 'Year Two' Is Bayonetta"
         }
       ]
     },
@@ -263,85 +263,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/wo-long-2-wings-of-ember-preview",
           "titre": "Wo Long 2: Wings of Ember isn't just a sequel - it's a culmination of everything Team Ninja has learned from Nioh, Ninja Gaiden, and Dead or Alive"
-        }
-      ]
-    },
-    {
-      "id": "diablo-iv-s-30th-anniversary-diablo-celebrations-get-off-to",
-      "titre": "Diablo IV's 30th Anniversary Diablo Celebrations Get Off To A Bumpy Start",
-      "url": "https://www.nintendolife.com/news/2026/09/diablo-ivs-30th-anniversary-diablo-celebrations-get-off-to-a-bumpy-start",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/diablo-ivs-30th-anniversary-diablo-celebrations-get-off-to-a-bumpy-start",
-          "titre": "Diablo IV's 30th Anniversary Diablo Celebrations Get Off To A Bumpy Start"
-        }
-      ]
-    },
-    {
-      "id": "how-to-fish-in-valheim",
-      "titre": "How to fish in Valheim",
-      "url": "https://www.pcgamer.com/games/survival-crafting/valheim-how-to-fish/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/valheim-how-to-fish/",
-          "titre": "How to fish in Valheim"
-        }
-      ]
-    },
-    {
-      "id": "blizzard-is-aware-overwatch-fans-are-tired-of-seeing-its-fan",
-      "titre": "Blizzard is aware Overwatch fans are tired of seeing its fanciest skins go to the same heroes and it's 'the number one' thing it's working to fix next",
-      "url": "https://www.pcgamer.com/games/fps/blizzard-is-aware-overwatch-fans-are-tired-of-seeing-its-fanciest-skins-go-to-the-same-heroes-and-its-the-number-one-thing-its-working-to-fix-next/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/blizzard-is-aware-overwatch-fans-are-tired-of-seeing-its-fanciest-skins-go-to-the-same-heroes-and-its-the-number-one-thing-its-working-to-fix-next/",
-          "titre": "Blizzard is aware Overwatch fans are tired of seeing its fanciest skins go to the same heroes and it's 'the number one' thing it's working to fix next"
-        }
-      ]
-    },
-    {
-      "id": "new-ps5-pulse-headsets-revealed-by-sony-with-better-sound-an",
-      "titre": "New PS5 Pulse Headsets Revealed by Sony with Better Sound and Comfort",
-      "url": "https://www.pushsquare.com/news/2026/09/new-ps5-pulse-headsets-revealed-by-sony-with-better-sound-and-comfort",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/new-ps5-pulse-headsets-revealed-by-sony-with-better-sound-and-comfort",
-          "titre": "New PS5 Pulse Headsets Revealed by Sony with Better Sound and Comfort"
         }
       ]
     },
@@ -353,13 +281,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/rpg/steam-reverses-porn-game-rating-it-mistakenly-gave-to-an-indie-vampire-rpg-and-despite-the-stress-it-was-a-net-positive-overall-as-wishlists-on-steam-basically-doubled-overnight/",
           "titre": "Steam reverses porn game rating it mistakenly gave to an indie vampire RPG, and despite the stress it was a 'net positive' overall as wishlists on Steam 'basically doubled overnight'"
+        }
+      ]
+    },
+    {
+      "id": "multiple-music-artists-tease-gta-6-collaborations",
+      "titre": "Multiple Music Artists Tease GTA 6 Collaborations",
+      "url": "https://www.pushsquare.com/news/2026/09/multiple-music-artists-tease-gta-6-collaborations",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 12.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/multiple-music-artists-tease-gta-6-collaborations",
+          "titre": "Multiple Music Artists Tease GTA 6 Collaborations"
         }
       ]
     },
@@ -371,7 +317,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.8,
+      "heures": 27.8,
       "chaleur": 6,
       "liens": [
         {
@@ -389,7 +335,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 33.3,
       "chaleur": 6,
       "liens": [
         {
@@ -407,7 +353,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 32.8,
+      "heures": 34.8,
       "chaleur": 6,
       "liens": [
         {
@@ -425,7 +371,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 15.9,
       "chaleur": 5,
       "liens": [
         {
@@ -443,7 +389,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.9,
       "chaleur": 5,
       "liens": [
         {
@@ -461,7 +407,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.4,
       "chaleur": 5,
       "liens": [
         {
@@ -479,7 +425,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 23.8,
+      "heures": 25.8,
       "chaleur": 5,
       "liens": [
         {
@@ -497,7 +443,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 32.3,
+      "heures": 34.3,
       "chaleur": 5,
       "liens": [
         {
@@ -515,7 +461,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.3,
       "chaleur": 5,
       "liens": [
         {
@@ -533,7 +479,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.3,
       "chaleur": 5,
       "liens": [
         {
@@ -544,20 +490,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "blizzard-say-battle-net-isn-t-looking-to-fight-steam-and-epi",
-      "titre": "Blizzard say Battle.net isn't looking to fight Steam and Epic for supermassive storefront supremacy, despite recently nabbing The Witcher 3 and Cyberpunk 2077",
-      "url": "https://www.rockpapershotgun.com/blizzard-say-battlenet-isnt-looking-to-fight-steam-and-epic-for-supermassive-storefront-supremacy-despite-recently-nabbing-the-witcher-3-and-cyberpunk-2077",
+      "id": "diablo-iv-s-30th-anniversary-diablo-celebrations-get-off-to",
+      "titre": "Diablo IV's 30th Anniversary Diablo Celebrations Get Off To A Bumpy Start",
+      "url": "https://www.nintendolife.com/news/2026/09/diablo-ivs-30th-anniversary-diablo-celebrations-get-off-to-a-bumpy-start",
       "sources": [
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 34.3,
-      "chaleur": 5,
+      "heures": 4.4,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/blizzard-say-battlenet-isnt-looking-to-fight-steam-and-epic-for-supermassive-storefront-supremacy-despite-recently-nabbing-the-witcher-3-and-cyberpunk-2077",
-          "titre": "Blizzard say Battle.net isn't looking to fight Steam and Epic for supermassive storefront supremacy, despite recently nabbing The Witcher 3 and Cyberpunk 2077"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/diablo-ivs-30th-anniversary-diablo-celebrations-get-off-to-a-bumpy-start",
+          "titre": "Diablo IV's 30th Anniversary Diablo Celebrations Get Off To A Bumpy Start"
+        }
+      ]
+    },
+    {
+      "id": "how-to-fish-in-valheim",
+      "titre": "How to fish in Valheim",
+      "url": "https://www.pcgamer.com/games/survival-crafting/valheim-how-to-fish/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/valheim-how-to-fish/",
+          "titre": "How to fish in Valheim"
+        }
+      ]
+    },
+    {
+      "id": "blizzard-is-aware-overwatch-fans-are-tired-of-seeing-its-fan",
+      "titre": "Blizzard is aware Overwatch fans are tired of seeing its fanciest skins go to the same heroes and it's 'the number one' thing it's working to fix next",
+      "url": "https://www.pcgamer.com/games/fps/blizzard-is-aware-overwatch-fans-are-tired-of-seeing-its-fanciest-skins-go-to-the-same-heroes-and-its-the-number-one-thing-its-working-to-fix-next/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/blizzard-is-aware-overwatch-fans-are-tired-of-seeing-its-fanciest-skins-go-to-the-same-heroes-and-its-the-number-one-thing-its-working-to-fix-next/",
+          "titre": "Blizzard is aware Overwatch fans are tired of seeing its fanciest skins go to the same heroes and it's 'the number one' thing it's working to fix next"
+        }
+      ]
+    },
+    {
+      "id": "new-ps5-pulse-headsets-revealed-by-sony-with-better-sound-an",
+      "titre": "New PS5 Pulse Headsets Revealed by Sony with Better Sound and Comfort",
+      "url": "https://www.pushsquare.com/news/2026/09/new-ps5-pulse-headsets-revealed-by-sony-with-better-sound-and-comfort",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/new-ps5-pulse-headsets-revealed-by-sony-with-better-sound-and-comfort",
+          "titre": "New PS5 Pulse Headsets Revealed by Sony with Better Sound and Comfort"
         }
       ]
     },
@@ -569,7 +569,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -587,7 +587,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -605,7 +605,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -623,7 +623,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -641,7 +641,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -659,7 +659,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -677,7 +677,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -695,7 +695,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -713,7 +713,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -731,7 +731,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -749,7 +749,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -767,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.0,
+      "heures": 12.0,
       "chaleur": 4,
       "liens": [
         {
@@ -785,8 +785,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 4,
+      "heures": 12.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -803,8 +803,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -821,8 +821,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -839,8 +839,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -857,8 +857,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -875,8 +875,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -893,8 +893,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -911,8 +911,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -929,8 +929,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -947,8 +947,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -965,8 +965,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -983,8 +983,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1001,8 +1001,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1019,8 +1019,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 13.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1037,8 +1037,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1055,8 +1055,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1073,7 +1073,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1091,7 +1091,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1109,7 +1109,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1127,7 +1127,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 15.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1145,7 +1145,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
