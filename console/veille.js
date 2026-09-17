@@ -1,8 +1,44 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "17/09/2026 à 08h23",
+  "collecte": "17/09/2026 à 10h21",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "hyper-light-drifter-studio-forced-to-lay-off-nearly-everyone",
+      "titre": "Hyper Light Drifter Studio Forced To Lay Off \"Nearly Everyone\" As Publishing Deal Falls Through",
+      "url": "https://www.nintendolife.com/news/2026/09/hyper-light-drifter-studio-forced-to-lay-off-nearly-everyone-as-publishing-deal-falls-through",
+      "sources": [
+        "Game Developer",
+        "GamesIndustry.biz",
+        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "reprises": 4,
+      "heures": 0.9,
+      "chaleur": 18,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/hyper-light-drifter-studio-forced-to-lay-off-nearly-everyone-as-publishing-deal-falls-through",
+          "titre": "Hyper Light Drifter Studio Forced To Lay Off \"Nearly Everyone\" As Publishing Deal Falls Through"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/hyper-light-drifter-developer-heart-machine-has-laid-off-the-majority-of-staff",
+          "titre": "Hyper Light Drifter developer Heart Machine has laid off the majority of staff"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/heart-machine-faces-possible-closure-after-publishing-deal-falls-through-majority-of-staff-laid-off",
+          "titre": "Heart Machine faces possible closure after publishing deal falls through; majority of staff laid off"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/hyper-light-studio-heart-machine-lays-off-nearly-everyone-after-publisher-deal-for-unannounced-game-falls-through/",
+          "titre": "Hyper Light studio Heart Machine lays off 'nearly everyone' after publishing deal for unannounced game falls through"
+        }
+      ]
+    },
     {
       "id": "mindseye-developer-build-a-rocket-boy-may-finally-be-closing",
       "titre": "MindsEye developer Build a Rocket Boy may finally be closing",
@@ -14,7 +50,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 14.0,
+      "heures": 16.0,
       "chaleur": 17,
       "liens": [
         {
@@ -40,6 +76,66 @@ const VEILLE = {
       ]
     },
     {
+      "id": "helldivers-2-and-horizon-forbidden-west-mysteriously-deliste",
+      "titre": "Helldivers 2 and Horizon Forbidden West mysteriously delisted from Steam in the UK, Sony promises to \"address the issue\" with Valve",
+      "url": "https://www.eurogamer.net/helldivers-2-horizon-forbidden-west-delisted-steam-uk-sony-valve",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 0.5,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/helldivers-2-horizon-forbidden-west-delisted-steam-uk-sony-valve",
+          "titre": "Helldivers 2 and Horizon Forbidden West mysteriously delisted from Steam in the UK, Sony promises to \"address the issue\" with Valve"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/helldivers-2-and-horizon-forbidden-west-delisted-from-steam-in-the-uk-sony-say-theyre-working-with-valve-to-address-the-issue",
+          "titre": "Helldivers 2 and Horizon Forbidden West delisted from Steam in the UK, Sony say they're \"working with Valve to address the issue\""
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sony-responds-after-pc-games-including-helldivers-2-disappear-in-uk/",
+          "titre": "Sony responds after PC games including Helldivers 2 disappear in UK"
+        }
+      ]
+    },
+    {
+      "id": "resident-evil-is-now-the-highest-rated-video-game-movie-ever",
+      "titre": "Resident Evil Is Now The Highest-Rated Video Game Movie Ever",
+      "url": "https://www.nintendolife.com/news/2026/09/resident-evil-is-now-the-highest-rated-video-game-movie-ever",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 0.1,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/resident-evil-is-now-the-highest-rated-video-game-movie-ever",
+          "titre": "Resident Evil Is Now The Highest-Rated Video Game Movie Ever"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/zach-creggers-resident-evil-film-becomes-the-highest-rated-video-game-movie-in-rotten-tomatoes-history/",
+          "titre": "Zach Cregger’s Resident Evil film becomes the highest rated video game movie in Rotten Tomatoes history"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/multiple-reviews-call-resident-evil-the-best-videogame-movie-ever/",
+          "titre": "'The best videogame movie' ever? The first reviews of Zach Cregger's Resident Evil adaptation are absolutely glowing"
+        }
+      ]
+    },
+    {
       "id": "more-mindseye-developers-have-been-laid-off-and-gta-veteran",
       "titre": "More MindsEye developers have been laid off, and GTA veteran Leslie Benzie's studio is reportedly shutting down",
       "url": "https://www.eurogamer.net/mindseye-developers-laid-off-gta-studio-shutting-down",
@@ -48,7 +144,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 13.6,
+      "heures": 15.5,
       "chaleur": 11,
       "liens": [
         {
@@ -73,7 +169,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 11,
       "liens": [
         {
@@ -94,6 +190,54 @@ const VEILLE = {
       ]
     },
     {
+      "id": "aniimo-gift-code-redemption-all-codes-to-redeem-in-aniimo",
+      "titre": "Aniimo Gift Code Redemption: All codes to redeem in Aniimo",
+      "url": "https://www.videogameschronicle.com/guide/all-codes-to-redeem-in-aniimo/",
+      "sources": [
+        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/all-codes-to-redeem-in-aniimo/",
+          "titre": "Aniimo Gift Code Redemption: All codes to redeem in Aniimo"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/aniimo-codes/",
+          "titre": "All active Aniimo codes for launch, September 2026"
+        }
+      ]
+    },
+    {
+      "id": "monster-hunter-wilds-will-stop-charging-players-to-change-th",
+      "titre": "Monster Hunter Wilds will stop charging players to change their character’s appearance",
+      "url": "https://www.videogameschronicle.com/news/monster-hunter-wilds-will-stop-charging-players-to-change-their-characters-appearance/",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.2,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/monster-hunter-wilds-will-stop-charging-players-to-change-their-characters-appearance/",
+          "titre": "Monster Hunter Wilds will stop charging players to change their character’s appearance"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/monster-hunter-wilds-edit-characters-capcom-microtransaction",
+          "titre": "Monster Hunter Wilds will soon stop charging players to edit their characters as Capcom scraps the game's worst microtransaction"
+        }
+      ]
+    },
+    {
       "id": "playstation-5-s-latest-firmware-update-takes-community-activ",
       "titre": "PlayStation 5's latest firmware update takes Community Activity out of beta, but it's missing a key feature",
       "url": "https://www.eurogamer.net/ps5-firmware-update-14-00-00-community-activity-missing-feature",
@@ -101,31 +245,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.1,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/ps5-firmware-update-14-00-00-community-activity-missing-feature",
           "titre": "PlayStation 5's latest firmware update takes Community Activity out of beta, but it's missing a key feature"
-        }
-      ]
-    },
-    {
-      "id": "round-up-capcom-spotlight-tgs-2026-showcase-every-switch-2-a",
-      "titre": "Round Up: Capcom Spotlight - TGS 2026 Showcase, Every Switch 2 Announcement And Update",
-      "url": "https://www.nintendolife.com/news/2026/09/round-up-capcom-spotlight-tgs-2026-showcase-every-switch-2-announcement-and-update",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/round-up-capcom-spotlight-tgs-2026-showcase-every-switch-2-announcement-and-update",
-          "titre": "Round Up: Capcom Spotlight - TGS 2026 Showcase, Every Switch 2 Announcement And Update"
         }
       ]
     },
@@ -138,7 +264,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 16.9,
+      "heures": 18.8,
       "chaleur": 8,
       "liens": [
         {
@@ -161,7 +287,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 7,
       "liens": [
         {
@@ -179,7 +305,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.1,
       "chaleur": 7,
       "liens": [
         {
@@ -198,7 +324,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 9.2,
+      "heures": 11.2,
       "chaleur": 7,
       "liens": [
         {
@@ -221,13 +347,103 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.7,
+      "heures": 22.7,
       "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/xbox-game-pass-big-changes-2027-rumour-microsoft-responds",
           "titre": "Microsoft doesn't dismiss rumours a major Xbox Game Pass shake-up is on the way, which reportedly removes day-one game offerings entirely"
+        }
+      ]
+    },
+    {
+      "id": "guild-wars-3-dev-wants-you-to-be-able-to-take-a-break-for-mo",
+      "titre": "Guild Wars 3 dev wants you to be able to take a break for months at a time and know you're \"not going to be left behind\"",
+      "url": "https://www.rockpapershotgun.com/guild-wars-3-dev-wants-you-to-be-able-to-take-a-break-for-months-at-a-time-and-know-youre-not-going-to-be-left-behind",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/guild-wars-3-dev-wants-you-to-be-able-to-take-a-break-for-months-at-a-time-and-know-youre-not-going-to-be-left-behind",
+          "titre": "Guild Wars 3 dev wants you to be able to take a break for months at a time and know you're \"not going to be left behind\""
+        }
+      ]
+    },
+    {
+      "id": "lollipop-chainsaw-2-officially-announced-for-ps5-early-gamep",
+      "titre": "Lollipop Chainsaw 2 Officially Announced for PS5, Early Gameplay Looks Rough as Heck",
+      "url": "https://www.pushsquare.com/news/2026/09/lollipop-chainsaw-2-officially-announced-for-ps5-early-gameplay-looks-rough-as-heck",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/lollipop-chainsaw-2-officially-announced-for-ps5-early-gameplay-looks-rough-as-heck",
+          "titre": "Lollipop Chainsaw 2 Officially Announced for PS5, Early Gameplay Looks Rough as Heck"
+        }
+      ]
+    },
+    {
+      "id": "rumour-media-molecule-s-next-game-is-out-next-year-and-unlik",
+      "titre": "Rumour: Media Molecule's Next Game Is Out Next Year and Unlike Anything It's Made Before",
+      "url": "https://www.pushsquare.com/news/2026/09/rumour-media-molecules-next-game-is-out-next-year-and-unlike-anything-its-made-before",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/rumour-media-molecules-next-game-is-out-next-year-and-unlike-anything-its-made-before",
+          "titre": "Rumour: Media Molecule's Next Game Is Out Next Year and Unlike Anything It's Made Before"
+        }
+      ]
+    },
+    {
+      "id": "monster-hunter-wilds-upcoming-expansion-ascendance-reveals-a",
+      "titre": "Monster Hunter Wilds upcoming expansion, Ascendance, reveals an infamous returning monster - and it looks like it'll address the difficulty complaints",
+      "url": "https://www.eurogamer.net/monster-hunter-ascendance-teostra-reveal",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/monster-hunter-ascendance-teostra-reveal",
+          "titre": "Monster Hunter Wilds upcoming expansion, Ascendance, reveals an infamous returning monster - and it looks like it'll address the difficulty complaints"
+        }
+      ]
+    },
+    {
+      "id": "round-up-capcom-spotlight-tgs-2026-showcase-every-switch-2-a",
+      "titre": "Round Up: Capcom Spotlight - TGS 2026 Showcase, Every Switch 2 Announcement And Update",
+      "url": "https://www.nintendolife.com/news/2026/09/round-up-capcom-spotlight-tgs-2026-showcase-every-switch-2-announcement-and-update",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/round-up-capcom-spotlight-tgs-2026-showcase-every-switch-2-announcement-and-update",
+          "titre": "Round Up: Capcom Spotlight - TGS 2026 Showcase, Every Switch 2 Announcement And Update"
         }
       ]
     },
@@ -239,7 +455,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.1,
       "chaleur": 6,
       "liens": [
         {
@@ -258,7 +474,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 12.0,
+      "heures": 14.0,
       "chaleur": 6,
       "liens": [
         {
@@ -282,7 +498,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 13.1,
+      "heures": 15.1,
       "chaleur": 6,
       "liens": [
         {
@@ -306,7 +522,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 6,
       "liens": [
         {
@@ -329,7 +545,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 6,
       "liens": [
         {
@@ -347,7 +563,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.9,
       "chaleur": 6,
       "liens": [
         {
@@ -366,7 +582,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 22.8,
+      "heures": 24.8,
       "chaleur": 6,
       "liens": [
         {
@@ -389,7 +605,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 5,
       "liens": [
         {
@@ -407,7 +623,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 5,
       "liens": [
         {
@@ -425,7 +641,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.3,
       "chaleur": 5,
       "liens": [
         {
@@ -443,7 +659,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.7,
+      "heures": 22.7,
       "chaleur": 5,
       "liens": [
         {
@@ -461,7 +677,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.4,
       "chaleur": 5,
       "liens": [
         {
@@ -479,7 +695,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.7,
+      "heures": 25.6,
       "chaleur": 5,
       "liens": [
         {
@@ -497,7 +713,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 25.9,
+      "heures": 27.9,
       "chaleur": 5,
       "liens": [
         {
@@ -515,7 +731,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -533,31 +749,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/previews/silver-palace-is-a-gorgeous-gothic-ps5-rpg-but-so-far-ive-played-it-before",
           "titre": "Preview: Silver Palace Is a Gorgeous Gothic PS5 RPG, But So Far I've Played It Before"
-        }
-      ]
-    },
-    {
-      "id": "sony-responds-after-pc-games-including-helldivers-2-disappea",
-      "titre": "Sony responds after PC games including Helldivers 2 disappear in UK",
-      "url": "https://www.videogameschronicle.com/news/sony-responds-after-pc-games-including-helldivers-2-disappear-in-uk/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sony-responds-after-pc-games-including-helldivers-2-disappear-in-uk/",
-          "titre": "Sony responds after PC games including Helldivers 2 disappear in UK"
         }
       ]
     },
@@ -569,31 +767,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/action/get-a-good-look-at-control-resonants-otherworldly-bosses-in-a-pc-gaming-show-exclusive-extended-interview/",
           "titre": "Get a good look at Control Resonant's otherworldly bosses in a PC Gaming Show exclusive extended interview"
-        }
-      ]
-    },
-    {
-      "id": "hyper-light-studio-heart-machine-lays-off-nearly-everyone-af",
-      "titre": "Hyper Light studio Heart Machine lays off 'nearly everyone' after publishing deal for unannounced game falls through",
-      "url": "https://www.pcgamer.com/gaming-industry/hyper-light-studio-heart-machine-lays-off-nearly-everyone-after-publisher-deal-for-unannounced-game-falls-through/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/hyper-light-studio-heart-machine-lays-off-nearly-everyone-after-publisher-deal-for-unannounced-game-falls-through/",
-          "titre": "Hyper Light studio Heart Machine lays off 'nearly everyone' after publishing deal for unannounced game falls through"
         }
       ]
     },
@@ -605,8 +785,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -623,31 +803,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 14.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/fps/marathon-creative-director-shoots-down-rumored-merge-with-destiny-2-please-dont-believe-everything-you-read-online/",
           "titre": "Marathon creative director shoots down rumored merge with Destiny 2: 'Please don't believe everything you read online'"
-        }
-      ]
-    },
-    {
-      "id": "the-best-videogame-movie-ever-the-first-reviews-of-zach-cre",
-      "titre": "'The best videogame movie' ever? The first reviews of Zach Cregger's Resident Evil adaptation are absolutely glowing",
-      "url": "https://www.pcgamer.com/movies-tv/multiple-reviews-call-resident-evil-the-best-videogame-movie-ever/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/multiple-reviews-call-resident-evil-the-best-videogame-movie-ever/",
-          "titre": "'The best videogame movie' ever? The first reviews of Zach Cregger's Resident Evil adaptation are absolutely glowing"
         }
       ]
     },
@@ -659,31 +821,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.8,
       "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/features/disney-dreamlight-valleys-next-expansion-the-keepsake-sea-plunges-new-depths-but-in-the-best-way-possible/",
           "titre": "Disney Dreamlight Valley’s next expansion The Keepsake Sea plunges new depths, but in the best way possible"
-        }
-      ]
-    },
-    {
-      "id": "monster-hunter-wilds-will-soon-stop-charging-players-to-edit",
-      "titre": "Monster Hunter Wilds will soon stop charging players to edit their characters as Capcom scraps the game's worst microtransaction",
-      "url": "https://www.eurogamer.net/monster-hunter-wilds-edit-characters-capcom-microtransaction",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 14.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/monster-hunter-wilds-edit-characters-capcom-microtransaction",
-          "titre": "Monster Hunter Wilds will soon stop charging players to edit their characters as Capcom scraps the game's worst microtransaction"
         }
       ]
     },
@@ -695,7 +839,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 17.0,
       "chaleur": 3,
       "liens": [
         {
@@ -713,7 +857,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -731,7 +875,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -749,7 +893,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -767,7 +911,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.1,
       "chaleur": 3,
       "liens": [
         {
@@ -785,7 +929,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.2,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +947,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.3,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +965,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.8,
+      "heures": 18.8,
       "chaleur": 3,
       "liens": [
         {
@@ -839,7 +983,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.9,
       "chaleur": 3,
       "liens": [
         {
@@ -857,7 +1001,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 19.0,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +1019,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +1037,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
@@ -911,31 +1055,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/reviews/ps5/trails-in-the-sky-2nd-chapter",
           "titre": "Review: Trails in the Sky 2nd Chapter (PS5) - Quite Possibly One of the Best RPG Sequels Ever Made"
-        }
-      ]
-    },
-    {
-      "id": "all-active-aniimo-codes-for-launch-september-2026",
-      "titre": "All active Aniimo codes for launch, September 2026",
-      "url": "https://www.pcgamer.com/games/rpg/aniimo-codes/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/aniimo-codes/",
-          "titre": "All active Aniimo codes for launch, September 2026"
         }
       ]
     },
@@ -947,7 +1073,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -965,7 +1091,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 17.7,
+      "heures": 19.7,
       "chaleur": 3,
       "liens": [
         {
@@ -983,7 +1109,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 20.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +1127,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,7 +1145,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 19.0,
+      "heures": 20.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1037,7 +1163,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 19.0,
+      "heures": 21.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1055,7 +1181,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1073,7 +1199,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 21.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1082,79 +1208,10 @@ const VEILLE = {
           "titre": "\"Scalpers Are Killing The Hobby For Everyone\" - Pokémon TCG's 30th Celebration Isn't Going As Planned"
         }
       ]
-    },
-    {
-      "id": "hbo-boss-continues-to-suggest-the-last-of-us-season-3-is-the",
-      "titre": "HBO boss continues to suggest The Last of Us Season 3 is the series' final season",
-      "url": "https://www.eurogamer.net/hbo-last-of-us-final-season-3-maizin",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 19.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/hbo-last-of-us-final-season-3-maizin",
-          "titre": "HBO boss continues to suggest The Last of Us Season 3 is the series' final season"
-        }
-      ]
-    },
-    {
-      "id": "aniimo-counters-all-elemental-types-strengths-and-weaknesses",
-      "titre": "Aniimo counters: All elemental types, strengths, and weaknesses",
-      "url": "https://www.videogameschronicle.com/guide/aniimo-counters-all-elemental-types-strengths-and-weaknesses/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 20.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/aniimo-counters-all-elemental-types-strengths-and-weaknesses/",
-          "titre": "Aniimo counters: All elemental types, strengths, and weaknesses"
-        }
-      ]
-    },
-    {
-      "id": "bayonetta-will-join-sonic-racing-crossworlds-in-a-free-updat",
-      "titre": "Bayonetta Will Join Sonic Racing: CrossWorlds in a Free Update 'Soon' on PS5, PS4",
-      "url": "https://www.pushsquare.com/news/2026/09/bayonetta-will-join-sonic-racing-crossworlds-in-a-free-update-soon-on-ps5-ps4",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 20.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/bayonetta-will-join-sonic-racing-crossworlds-in-a-free-update-soon-on-ps5-ps4",
-          "titre": "Bayonetta Will Join Sonic Racing: CrossWorlds in a Free Update 'Soon' on PS5, PS4"
-        }
-      ]
-    },
-    {
-      "id": "video-here-s-a-look-at-the-wo-long-2-alpha-demo-which-is-ava",
-      "titre": "Video: Here’s a look at the Wo Long 2 alpha demo, which is available today to mark its release date announcement",
-      "url": "https://www.videogameschronicle.com/news/video-heres-a-look-at-the-wo-long-2-alpha-demo-which-is-available-today-to-mark-its-release-date-announcement/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 21.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/video-heres-a-look-at-the-wo-long-2-alpha-demo-which-is-available-today-to-mark-its-release-date-announcement/",
-          "titre": "Video: Here’s a look at the Wo Long 2 alpha demo, which is available today to mark its release date announcement"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Hyper Light Drifter Studio Forced To Lay Off \"Nearly Everyone\" As Publishing Deal Falls Through",
+    "Helldivers 2 and Horizon Forbidden West mysteriously delisted from Steam in the UK, Sony promises to \"address the issue\" with Valve"
+  ]
 };
