@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "17/09/2026 à 18h23",
+  "collecte": "17/09/2026 à 20h21",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 21,
       "liens": [
         {
@@ -55,7 +55,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 24.4,
+      "heures": 26.4,
       "chaleur": 14,
       "liens": [
         {
@@ -76,20 +76,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "aliens-fireteam-elite-2-switch-release-suffers-last-minute-d",
-      "titre": "Aliens: Fireteam Elite 2 Switch Release Suffers Last-Minute Delay",
-      "url": "https://www.nintendolife.com/news/2026/09/aliens-fireteam-elite-2-switch-release-suffers-last-minute-delay",
+      "id": "zero-parades-director-s-cut-will-challenge-you-to-drive-a-st",
+      "titre": "Zero Parades: Director's Cut will challenge you to drive a stolen truck through a busy roundabout while stoned out of your mind",
+      "url": "https://www.pcgamer.com/games/rpg/zero-parades-directors-cut-will-challenge-you-to-drive-a-stolen-truck-through-a-busy-roundabout-while-stoned-out-of-your-mind/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer",
+        "Push Square",
+        "Rock Paper Shotgun"
       ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 10,
+      "reprises": 3,
+      "heures": 1.0,
+      "chaleur": 12,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/aliens-fireteam-elite-2-switch-release-suffers-last-minute-delay",
-          "titre": "Aliens: Fireteam Elite 2 Switch Release Suffers Last-Minute Delay"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/zero-parades-directors-cut-will-challenge-you-to-drive-a-stolen-truck-through-a-busy-roundabout-while-stoned-out-of-your-mind/",
+          "titre": "Zero Parades: Director's Cut will challenge you to drive a stolen truck through a busy roundabout while stoned out of your mind"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/escape-a-roundabout-as-a-stoned-tuk-tuk-driver-in-zero-parades-free-directors-cut-update-which-will-add-about-40000-new-words-to-the-rpg-next-month",
+          "titre": "Escape a roundabout as a stoned tuk-tuk driver in Zero Parades' free Director’s Cut update, which will add about 40,000 new words to the RPG next month"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/zero-parades-lands-on-ps5-in-directors-cut-form-on-3rd-november",
+          "titre": "Zero Parades Lands on PS5 in Director's Cut Form on 3rd November"
+        }
+      ]
+    },
+    {
+      "id": "twitch-ceo-says-gta-6-multiplayer-will-launch-in-2027",
+      "titre": "Twitch CEO says GTA 6 multiplayer will launch in 2027",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/twitch-ceo-says-gta-6-multiplayer-will-launch-in-2027/",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 2.0,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/twitch-ceo-says-gta-6-multiplayer-will-launch-in-2027/",
+          "titre": "Twitch CEO says GTA 6 multiplayer will launch in 2027"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/twitch-ceo-expects-gta-6-online-multiplayer-will-launch-next-year-which-if-accurate-would-leave-only-the-pc-ports-arrival-point-up-in-the-air",
+          "titre": "Twitch CEO expects GTA 6 online multiplayer will launch next year, which if accurate would leave only the PC port's arrival point up in the air"
         }
       ]
     },
@@ -102,7 +138,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 10,
       "liens": [
         {
@@ -125,7 +161,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.5,
       "chaleur": 9,
       "liens": [
         {
@@ -144,7 +180,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 0.9,
+      "heures": 2.8,
       "chaleur": 9,
       "liens": [
         {
@@ -160,48 +196,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "escape-a-roundabout-as-a-stoned-tuk-tuk-driver-in-zero-parad",
-      "titre": "Escape a roundabout as a stoned tuk-tuk driver in Zero Parades' free Director’s Cut update, which will add about 40,000 new words to the RPG next month",
-      "url": "https://www.rockpapershotgun.com/escape-a-roundabout-as-a-stoned-tuk-tuk-driver-in-zero-parades-free-directors-cut-update-which-will-add-about-40000-new-words-to-the-rpg-next-month",
-      "sources": [
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 2.1,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/escape-a-roundabout-as-a-stoned-tuk-tuk-driver-in-zero-parades-free-directors-cut-update-which-will-add-about-40000-new-words-to-the-rpg-next-month",
-          "titre": "Escape a roundabout as a stoned tuk-tuk driver in Zero Parades' free Director’s Cut update, which will add about 40,000 new words to the RPG next month"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/zero-parades-lands-on-ps5-in-directors-cut-form-on-3rd-november",
-          "titre": "Zero Parades Lands on PS5 in Director's Cut Form on 3rd November"
-        }
-      ]
-    },
-    {
-      "id": "twitch-ceo-expects-gta-6-online-multiplayer-will-launch-next",
-      "titre": "Twitch CEO expects GTA 6 online multiplayer will launch next year, which if accurate would leave only the PC port's arrival point up in the air",
-      "url": "https://www.rockpapershotgun.com/twitch-ceo-expects-gta-6-online-multiplayer-will-launch-next-year-which-if-accurate-would-leave-only-the-pc-ports-arrival-point-up-in-the-air",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/twitch-ceo-expects-gta-6-online-multiplayer-will-launch-next-year-which-if-accurate-would-leave-only-the-pc-ports-arrival-point-up-in-the-air",
-          "titre": "Twitch CEO expects GTA 6 online multiplayer will launch next year, which if accurate would leave only the PC port's arrival point up in the air"
-        }
-      ]
-    },
-    {
       "id": "helldivers-2-and-horizon-forbidden-west-mysteriously-deliste",
       "titre": "Helldivers 2 and Horizon Forbidden West mysteriously delisted from Steam in the UK, Sony promises to \"address the issue\" with Valve",
       "url": "https://www.eurogamer.net/helldivers-2-horizon-forbidden-west-delisted-steam-uk-sony-valve",
@@ -210,7 +204,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 8.5,
+      "heures": 10.5,
       "chaleur": 9,
       "liens": [
         {
@@ -233,7 +227,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 8,
       "liens": [
         {
@@ -244,56 +238,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "preview-i-played-stellar-blade-on-switch-2-and-eve-s-only-lo",
-      "titre": "Preview: I Played Stellar Blade On Switch 2, And Eve's Only Lost A Little Of Her Gloss",
-      "url": "https://www.nintendolife.com/previews/i-played-stellar-blade-on-switch-2-and-eves-only-lost-a-little-of-her-gloss",
+      "id": "aliens-fireteam-elite-2-switch-release-suffers-last-minute-d",
+      "titre": "Aliens: Fireteam Elite 2 Switch Release Suffers Last-Minute Delay",
+      "url": "https://www.nintendolife.com/news/2026/09/aliens-fireteam-elite-2-switch-release-suffers-last-minute-delay",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.4,
+      "heures": 4.6,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/previews/i-played-stellar-blade-on-switch-2-and-eves-only-lost-a-little-of-her-gloss",
-          "titre": "Preview: I Played Stellar Blade On Switch 2, And Eve's Only Lost A Little Of Her Gloss"
-        }
-      ]
-    },
-    {
-      "id": "delayed-to-2027-bloodstained-the-scarlet-engagement-is-looki",
-      "titre": "Delayed to 2027, Bloodstained: The Scarlet Engagement Is Looking Good in New Trailer",
-      "url": "https://www.pushsquare.com/news/2026/09/delayed-to-2027-bloodstained-the-scarlet-engagement-is-looking-good-in-new-trailer",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/delayed-to-2027-bloodstained-the-scarlet-engagement-is-looking-good-in-new-trailer",
-          "titre": "Delayed to 2027, Bloodstained: The Scarlet Engagement Is Looking Good in New Trailer"
-        }
-      ]
-    },
-    {
-      "id": "the-ni-no-kuni-universe-welcomes-a-new-crafting-adventure-an",
-      "titre": "The Ni No Kuni Universe Welcomes A New Crafting Adventure, And It's Heading To Switch",
-      "url": "https://www.nintendolife.com/news/2026/09/the-ni-no-kuni-universe-welcomes-a-new-crafting-adventure-and-its-heading-to-switch",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/the-ni-no-kuni-universe-welcomes-a-new-crafting-adventure-and-its-heading-to-switch",
-          "titre": "The Ni No Kuni Universe Welcomes A New Crafting Adventure, And It's Heading To Switch"
+          "url": "https://www.nintendolife.com/news/2026/09/aliens-fireteam-elite-2-switch-release-suffers-last-minute-delay",
+          "titre": "Aliens: Fireteam Elite 2 Switch Release Suffers Last-Minute Delay"
         }
       ]
     },
@@ -305,7 +263,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.6,
+      "heures": 25.5,
       "chaleur": 8,
       "liens": [
         {
@@ -324,7 +282,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 7,
       "liens": [
         {
@@ -347,7 +305,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.0,
       "chaleur": 7,
       "liens": [
         {
@@ -365,7 +323,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 7,
       "liens": [
         {
@@ -384,7 +342,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 7.8,
+      "heures": 9.8,
       "chaleur": 7,
       "liens": [
         {
@@ -400,6 +358,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "japanese-game-development-is-now-riddled-with-generative-ai",
+      "titre": "Japanese Game Development Is Now Riddled with Generative AI, Industry Survey Finds",
+      "url": "https://www.pushsquare.com/news/2026/09/japanese-game-development-is-now-riddled-with-generative-ai-industry-survey-finds",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/japanese-game-development-is-now-riddled-with-generative-ai-industry-survey-finds",
+          "titre": "Japanese Game Development Is Now Riddled with Generative AI, Industry Survey Finds"
+        }
+      ]
+    },
+    {
+      "id": "diablo-4-s-anniversary-event-brings-back-the-game-s-most-ico",
+      "titre": "Diablo 4's anniversary event brings back the game's most iconic location, and boy that music is sending me",
+      "url": "https://www.pcgamer.com/games/rpg/diablo-4s-anniversary-event-brings-back-the-games-most-iconic-location-and-boy-that-music-is-sending-me/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/diablo-4s-anniversary-event-brings-back-the-games-most-iconic-location-and-boy-that-music-is-sending-me/",
+          "titre": "Diablo 4's anniversary event brings back the game's most iconic location, and boy that music is sending me"
+        }
+      ]
+    },
+    {
       "id": "valheim-devs-finally-get-around-to-reading-5-years-of-player",
       "titre": "Valheim devs finally get around to reading 5 years of player feedback, let you remap dodge key",
       "url": "https://www.pcgamer.com/games/survival-crafting/valheim-devs-finally-get-around-to-reading-5-years-of-player-feedback-let-you-remap-dodge-key/",
@@ -407,7 +401,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -425,7 +419,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -443,7 +437,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -461,7 +455,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -479,7 +473,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -497,7 +491,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -508,164 +502,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "fire-emblem-fortune-s-weave-should-you-skip-part-2",
-      "titre": "Fire Emblem Fortune’s Weave: Should you skip Part 2?",
-      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-should-you-skip-part-2/",
+      "id": "preview-i-played-stellar-blade-on-switch-2-and-eve-s-only-lo",
+      "titre": "Preview: I Played Stellar Blade On Switch 2, And Eve's Only Lost A Little Of Her Gloss",
+      "url": "https://www.nintendolife.com/previews/i-played-stellar-blade-on-switch-2-and-eves-only-lost-a-little-of-her-gloss",
       "sources": [
-        "VGC"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.2,
+      "heures": 5.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-should-you-skip-part-2/",
-          "titre": "Fire Emblem Fortune’s Weave: Should you skip Part 2?"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/previews/i-played-stellar-blade-on-switch-2-and-eves-only-lost-a-little-of-her-gloss",
+          "titre": "Preview: I Played Stellar Blade On Switch 2, And Eve's Only Lost A Little Of Her Gloss"
         }
       ]
     },
     {
-      "id": "with-the-quality-fidelity-and-play-time-of-a-70-ps5-game-val",
-      "titre": "With the 'Quality, Fidelity, and Play Time' of a $70 PS5 Game, Valor Mortis Asks for $40",
-      "url": "https://www.pushsquare.com/news/2026/09/with-the-quality-fidelity-and-play-time-of-a-usd70-ps5-game-valor-mortis-asks-for-usd40",
+      "id": "delayed-to-2027-bloodstained-the-scarlet-engagement-is-looki",
+      "titre": "Delayed to 2027, Bloodstained: The Scarlet Engagement Is Looking Good in New Trailer",
+      "url": "https://www.pushsquare.com/news/2026/09/delayed-to-2027-bloodstained-the-scarlet-engagement-is-looking-good-in-new-trailer",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.6,
+      "heures": 5.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/with-the-quality-fidelity-and-play-time-of-a-usd70-ps5-game-valor-mortis-asks-for-usd40",
-          "titre": "With the 'Quality, Fidelity, and Play Time' of a $70 PS5 Game, Valor Mortis Asks for $40"
+          "url": "https://www.pushsquare.com/news/2026/09/delayed-to-2027-bloodstained-the-scarlet-engagement-is-looking-good-in-new-trailer",
+          "titre": "Delayed to 2027, Bloodstained: The Scarlet Engagement Is Looking Good in New Trailer"
         }
       ]
     },
     {
-      "id": "industry-vet-who-worked-on-ultima-online-says-the-next-big-t",
-      "titre": "Industry vet who worked on Ultima Online says the next big thing needs to have 'sh*tty graphics' to escape the doom of rising development costs",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/industry-vet-who-worked-on-ultima-online-says-the-next-big-thing-needs-to-have-sh-tty-graphics-to-escape-the-doom-of-rising-development-costs/",
+      "id": "the-ni-no-kuni-universe-welcomes-a-new-crafting-adventure-an",
+      "titre": "The Ni No Kuni Universe Welcomes A New Crafting Adventure, And It's Heading To Switch",
+      "url": "https://www.nintendolife.com/news/2026/09/the-ni-no-kuni-universe-welcomes-a-new-crafting-adventure-and-its-heading-to-switch",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.7,
+      "heures": 5.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/industry-vet-who-worked-on-ultima-online-says-the-next-big-thing-needs-to-have-sh-tty-graphics-to-escape-the-doom-of-rising-development-costs/",
-          "titre": "Industry vet who worked on Ultima Online says the next big thing needs to have 'sh*tty graphics' to escape the doom of rising development costs"
-        }
-      ]
-    },
-    {
-      "id": "the-lead-developer-of-the-ps5-linux-project-has-abandoned-sh",
-      "titre": "The lead developer of the PS5 Linux project has abandoned ship: 'It is just a bunch of noobs using LLMs and writing hacks they don't even understand':",
-      "url": "https://www.pcgamer.com/hardware/the-lead-developer-of-the-ps5-linux-project-has-abandoned-ship-it-is-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/the-lead-developer-of-the-ps5-linux-project-has-abandoned-ship-it-is-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/",
-          "titre": "The lead developer of the PS5 Linux project has abandoned ship: 'It is just a bunch of noobs using LLMs and writing hacks they don't even understand':"
-        }
-      ]
-    },
-    {
-      "id": "ibuypower-rdy-scale-b06-review",
-      "titre": "iBuyPower RDY Scale B06 review",
-      "url": "https://www.pcgamer.com/hardware/gaming-pcs/ibuypower-rdy-scale-b06-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-pcs/ibuypower-rdy-scale-b06-review/",
-          "titre": "iBuyPower RDY Scale B06 review"
-        }
-      ]
-    },
-    {
-      "id": "fortnite-s-kingdom-hearts-crossover-is-live-now-and-there-s",
-      "titre": "Fortnite's Kingdom Hearts Crossover Is Live Now, and There's Plenty for Fans to Discover",
-      "url": "https://www.pushsquare.com/news/2026/09/fortnites-kingdom-hearts-crossover-is-live-now-and-theres-plenty-for-fans-to-discover",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/fortnites-kingdom-hearts-crossover-is-live-now-and-theres-plenty-for-fans-to-discover",
-          "titre": "Fortnite's Kingdom Hearts Crossover Is Live Now, and There's Plenty for Fans to Discover"
-        }
-      ]
-    },
-    {
-      "id": "hp-omen-35l-2026-review",
-      "titre": "HP Omen 35L (2026) review",
-      "url": "https://www.pcgamer.com/hardware/gaming-pcs/hp-omen-35l-2026-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-pcs/hp-omen-35l-2026-review/",
-          "titre": "HP Omen 35L (2026) review"
-        }
-      ]
-    },
-    {
-      "id": "draft-of-new-eu-law-proposes-sweeping-restrictions-on-online",
-      "titre": "Draft of new EU law proposes sweeping restrictions on online games",
-      "url": "https://www.gamesindustry.biz/draft-of-new-eu-law-proposes-sweeping-restrictions-on-online-games",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/draft-of-new-eu-law-proposes-sweeping-restrictions-on-online-games",
-          "titre": "Draft of new EU law proposes sweeping restrictions on online games"
-        }
-      ]
-    },
-    {
-      "id": "three-different-4x-strategy-games-three-different-solutions",
-      "titre": "Three different 4X strategy games, three different solutions to \"that inherent problem\" of disappearing exploration",
-      "url": "https://www.rockpapershotgun.com/three-different-4x-strategy-games-three-different-solutions-to-that-inherent-problem-of-disappearing-exploration",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/three-different-4x-strategy-games-three-different-solutions-to-that-inherent-problem-of-disappearing-exploration",
-          "titre": "Three different 4X strategy games, three different solutions to \"that inherent problem\" of disappearing exploration"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/the-ni-no-kuni-universe-welcomes-a-new-crafting-adventure-and-its-heading-to-switch",
+          "titre": "The Ni No Kuni Universe Welcomes A New Crafting Adventure, And It's Heading To Switch"
         }
       ]
     },
@@ -677,7 +563,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.3,
       "chaleur": 6,
       "liens": [
         {
@@ -695,7 +581,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 6,
       "liens": [
         {
@@ -713,31 +599,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 9.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/wardogs-marathon-revenue-arc-raiders-helldivers-2-steam",
           "titre": "Wardogs has already made more money than Marathon, and its Steam launch momentum is ahead of Arc Raiders and Helldivers 2"
-        }
-      ]
-    },
-    {
-      "id": "playstation-5-s-latest-firmware-update-takes-community-activ",
-      "titre": "PlayStation 5's latest firmware update takes Community Activity out of beta, but it's missing a key feature",
-      "url": "https://www.eurogamer.net/ps5-firmware-update-14-00-00-community-activity-missing-feature",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ps5-firmware-update-14-00-00-community-activity-missing-feature",
-          "titre": "PlayStation 5's latest firmware update takes Community Activity out of beta, but it's missing a key feature"
         }
       ]
     },
@@ -749,7 +617,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 6,
       "liens": [
         {
@@ -767,7 +635,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 20.1,
       "chaleur": 6,
       "liens": [
         {
@@ -786,7 +654,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 22.0,
+      "heures": 24.0,
       "chaleur": 6,
       "liens": [
         {
@@ -810,7 +678,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 23.1,
+      "heures": 25.1,
       "chaleur": 6,
       "liens": [
         {
@@ -826,6 +694,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "playstation-5-s-latest-firmware-update-takes-community-activ",
+      "titre": "PlayStation 5's latest firmware update takes Community Activity out of beta, but it's missing a key feature",
+      "url": "https://www.eurogamer.net/ps5-firmware-update-14-00-00-community-activity-missing-feature",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 12.1,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ps5-firmware-update-14-00-00-community-activity-missing-feature",
+          "titre": "PlayStation 5's latest firmware update takes Community Activity out of beta, but it's missing a key feature"
+        }
+      ]
+    },
+    {
       "id": "round-up-capcom-spotlight-tgs-2026-showcase-every-switch-2-a",
       "titre": "Round Up: Capcom Spotlight - TGS 2026 Showcase, Every Switch 2 Announcement And Update",
       "url": "https://www.nintendolife.com/news/2026/09/round-up-capcom-spotlight-tgs-2026-showcase-every-switch-2-announcement-and-update",
@@ -833,7 +719,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 5,
       "liens": [
         {
@@ -851,7 +737,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 19.1,
       "chaleur": 5,
       "liens": [
         {
@@ -869,7 +755,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.4,
       "chaleur": 5,
       "liens": [
         {
@@ -887,7 +773,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.4,
       "chaleur": 5,
       "liens": [
         {
@@ -905,7 +791,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 30.4,
       "chaleur": 5,
       "liens": [
         {
@@ -923,7 +809,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 31.3,
       "chaleur": 5,
       "liens": [
         {
@@ -934,20 +820,164 @@ const VEILLE = {
       ]
     },
     {
-      "id": "why-the-publisher-of-nintendo-life-is-launching-a-new-pc-gam",
-      "titre": "Why the publisher of Nintendo Life is launching a new PC gaming site",
-      "url": "https://www.gamesindustry.biz/why-the-publisher-of-nintendo-life-is-launching-a-new-pc-gaming-site",
+      "id": "fire-emblem-fortune-s-weave-should-you-skip-part-2",
+      "titre": "Fire Emblem Fortune’s Weave: Should you skip Part 2?",
+      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-should-you-skip-part-2/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-should-you-skip-part-2/",
+          "titre": "Fire Emblem Fortune’s Weave: Should you skip Part 2?"
+        }
+      ]
+    },
+    {
+      "id": "with-the-quality-fidelity-and-play-time-of-a-70-ps5-game-val",
+      "titre": "With the 'Quality, Fidelity, and Play Time' of a $70 PS5 Game, Valor Mortis Asks for $40",
+      "url": "https://www.pushsquare.com/news/2026/09/with-the-quality-fidelity-and-play-time-of-a-usd70-ps5-game-valor-mortis-asks-for-usd40",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/with-the-quality-fidelity-and-play-time-of-a-usd70-ps5-game-valor-mortis-asks-for-usd40",
+          "titre": "With the 'Quality, Fidelity, and Play Time' of a $70 PS5 Game, Valor Mortis Asks for $40"
+        }
+      ]
+    },
+    {
+      "id": "industry-vet-who-worked-on-ultima-online-says-the-next-big-t",
+      "titre": "Industry vet who worked on Ultima Online says the next big thing needs to have 'sh*tty graphics' to escape the doom of rising development costs",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/industry-vet-who-worked-on-ultima-online-says-the-next-big-thing-needs-to-have-sh-tty-graphics-to-escape-the-doom-of-rising-development-costs/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/industry-vet-who-worked-on-ultima-online-says-the-next-big-thing-needs-to-have-sh-tty-graphics-to-escape-the-doom-of-rising-development-costs/",
+          "titre": "Industry vet who worked on Ultima Online says the next big thing needs to have 'sh*tty graphics' to escape the doom of rising development costs"
+        }
+      ]
+    },
+    {
+      "id": "the-lead-developer-of-the-ps5-linux-project-has-abandoned-sh",
+      "titre": "The lead developer of the PS5 Linux project has abandoned ship: 'It is just a bunch of noobs using LLMs and writing hacks they don't even understand':",
+      "url": "https://www.pcgamer.com/hardware/the-lead-developer-of-the-ps5-linux-project-has-abandoned-ship-it-is-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/the-lead-developer-of-the-ps5-linux-project-has-abandoned-ship-it-is-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/",
+          "titre": "The lead developer of the PS5 Linux project has abandoned ship: 'It is just a bunch of noobs using LLMs and writing hacks they don't even understand':"
+        }
+      ]
+    },
+    {
+      "id": "ibuypower-rdy-scale-b06-review",
+      "titre": "iBuyPower RDY Scale B06 review",
+      "url": "https://www.pcgamer.com/hardware/gaming-pcs/ibuypower-rdy-scale-b06-review/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-pcs/ibuypower-rdy-scale-b06-review/",
+          "titre": "iBuyPower RDY Scale B06 review"
+        }
+      ]
+    },
+    {
+      "id": "fortnite-s-kingdom-hearts-crossover-is-live-now-and-there-s",
+      "titre": "Fortnite's Kingdom Hearts Crossover Is Live Now, and There's Plenty for Fans to Discover",
+      "url": "https://www.pushsquare.com/news/2026/09/fortnites-kingdom-hearts-crossover-is-live-now-and-theres-plenty-for-fans-to-discover",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/fortnites-kingdom-hearts-crossover-is-live-now-and-theres-plenty-for-fans-to-discover",
+          "titre": "Fortnite's Kingdom Hearts Crossover Is Live Now, and There's Plenty for Fans to Discover"
+        }
+      ]
+    },
+    {
+      "id": "hp-omen-35l-2026-review",
+      "titre": "HP Omen 35L (2026) review",
+      "url": "https://www.pcgamer.com/hardware/gaming-pcs/hp-omen-35l-2026-review/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-pcs/hp-omen-35l-2026-review/",
+          "titre": "HP Omen 35L (2026) review"
+        }
+      ]
+    },
+    {
+      "id": "draft-of-new-eu-law-proposes-sweeping-restrictions-on-online",
+      "titre": "Draft of new EU law proposes sweeping restrictions on online games",
+      "url": "https://www.gamesindustry.biz/draft-of-new-eu-law-proposes-sweeping-restrictions-on-online-games",
       "sources": [
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 35.9,
-      "chaleur": 5,
+      "heures": 5.9,
+      "chaleur": 4,
       "liens": [
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/why-the-publisher-of-nintendo-life-is-launching-a-new-pc-gaming-site",
-          "titre": "Why the publisher of Nintendo Life is launching a new PC gaming site"
+          "url": "https://www.gamesindustry.biz/draft-of-new-eu-law-proposes-sweeping-restrictions-on-online-games",
+          "titre": "Draft of new EU law proposes sweeping restrictions on online games"
+        }
+      ]
+    },
+    {
+      "id": "three-different-4x-strategy-games-three-different-solutions",
+      "titre": "Three different 4X strategy games, three different solutions to \"that inherent problem\" of disappearing exploration",
+      "url": "https://www.rockpapershotgun.com/three-different-4x-strategy-games-three-different-solutions-to-that-inherent-problem-of-disappearing-exploration",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/three-different-4x-strategy-games-three-different-solutions-to-that-inherent-problem-of-disappearing-exploration",
+          "titre": "Three different 4X strategy games, three different solutions to \"that inherent problem\" of disappearing exploration"
         }
       ]
     },
@@ -959,7 +989,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +1007,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +1025,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,7 +1043,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,31 +1061,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/mmo/ff14s-new-roguelike-modes-leaderboards-were-accidentally-encouraging-players-to-min-max-all-the-fun-out-of-it-so-itll-be-postponing-the-start-of-crucible-rankings/",
           "titre": "FF14's new roguelike mode's leaderboards were accidentally encouraging players to min-max all the fun out of it, so it'll be 'postponing the start of Crucible Rankings'"
-        }
-      ]
-    },
-    {
-      "id": "amd-presents-new-method-of-handing-indirect-lighting-off-to",
-      "titre": "AMD presents new method of handing indirect lighting off to an image generation model: 'frame-by-frame' solution could be part of AMD's answer to DLSS 5 someday",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-presents-new-method-of-handing-indirect-lighting-off-to-an-image-generation-model-frame-by-frame-solution-could-be-part-of-amds-answer-to-dlss-5-someday/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-presents-new-method-of-handing-indirect-lighting-off-to-an-image-generation-model-frame-by-frame-solution-could-be-part-of-amds-answer-to-dlss-5-someday/",
-          "titre": "AMD presents new method of handing indirect lighting off to an image generation model: 'frame-by-frame' solution could be part of AMD's answer to DLSS 5 someday"
         }
       ]
     },
@@ -1067,7 +1079,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1085,7 +1097,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1103,7 +1115,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1121,7 +1133,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1139,7 +1151,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1157,7 +1169,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1168,7 +1180,5 @@ const VEILLE = {
       ]
     }
   ],
-  "alertes": [
-    "\"Nearly everyone\" laid off at Hyper Light Drifter devs Heart Machine after publisher drops unannounced game"
-  ]
+  "alertes": []
 };
