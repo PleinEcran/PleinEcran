@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "17/09/2026 à 06h26",
+  "collecte": "17/09/2026 à 08h23",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 12.1,
+      "heures": 14.0,
       "chaleur": 17,
       "liens": [
         {
@@ -48,8 +48,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 11.6,
-      "chaleur": 12,
+      "heures": 13.6,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Eurogamer",
@@ -73,7 +73,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 11,
       "liens": [
         {
@@ -94,6 +94,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "playstation-5-s-latest-firmware-update-takes-community-activ",
+      "titre": "PlayStation 5's latest firmware update takes Community Activity out of beta, but it's missing a key feature",
+      "url": "https://www.eurogamer.net/ps5-firmware-update-14-00-00-community-activity-missing-feature",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ps5-firmware-update-14-00-00-community-activity-missing-feature",
+          "titre": "PlayStation 5's latest firmware update takes Community Activity out of beta, but it's missing a key feature"
+        }
+      ]
+    },
+    {
       "id": "round-up-capcom-spotlight-tgs-2026-showcase-every-switch-2-a",
       "titre": "Round Up: Capcom Spotlight - TGS 2026 Showcase, Every Switch 2 Announcement And Update",
       "url": "https://www.nintendolife.com/news/2026/09/round-up-capcom-spotlight-tgs-2026-showcase-every-switch-2-announcement-and-update",
@@ -101,7 +119,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 8,
       "liens": [
         {
@@ -120,7 +138,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 8,
       "liens": [
         {
@@ -143,7 +161,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 7,
       "liens": [
         {
@@ -161,7 +179,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.1,
       "chaleur": 7,
       "liens": [
         {
@@ -180,7 +198,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 7.2,
+      "heures": 9.2,
       "chaleur": 7,
       "liens": [
         {
@@ -196,6 +214,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "microsoft-doesn-t-dismiss-rumours-a-major-xbox-game-pass-sha",
+      "titre": "Microsoft doesn't dismiss rumours a major Xbox Game Pass shake-up is on the way, which reportedly removes day-one game offerings entirely",
+      "url": "https://www.eurogamer.net/xbox-game-pass-big-changes-2027-rumour-microsoft-responds",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 20.7,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-game-pass-big-changes-2027-rumour-microsoft-responds",
+          "titre": "Microsoft doesn't dismiss rumours a major Xbox Game Pass shake-up is on the way, which reportedly removes day-one game offerings entirely"
+        }
+      ]
+    },
+    {
+      "id": "tomodachi-life-appears-to-be-getting-a-switch-lite-bundle-in",
+      "titre": "Tomodachi Life Appears To Be Getting A Switch Lite Bundle In Europe",
+      "url": "https://www.nintendolife.com/news/2026/09/tomodachi-life-appears-to-be-getting-a-switch-lite-bundle-in-europe",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 7.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/tomodachi-life-appears-to-be-getting-a-switch-lite-bundle-in-europe",
+          "titre": "Tomodachi Life Appears To Be Getting A Switch Lite Bundle In Europe"
+        }
+      ]
+    },
+    {
       "id": "shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-late",
       "titre": "Shinji Mikami to be inducted into the AIAS Hall of Fame later this week",
       "url": "https://www.gamesindustry.biz/shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-later-this-week",
@@ -204,8 +258,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 10.1,
-      "chaleur": 7,
+      "heures": 12.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -228,8 +282,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 11.2,
-      "chaleur": 7,
+      "heures": 13.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -244,60 +298,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "microsoft-doesn-t-dismiss-rumours-a-major-xbox-game-pass-sha",
-      "titre": "Microsoft doesn't dismiss rumours a major Xbox Game Pass shake-up is on the way, which reportedly removes day-one game offerings entirely",
-      "url": "https://www.eurogamer.net/xbox-game-pass-big-changes-2027-rumour-microsoft-responds",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 18.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-game-pass-big-changes-2027-rumour-microsoft-responds",
-          "titre": "Microsoft doesn't dismiss rumours a major Xbox Game Pass shake-up is on the way, which reportedly removes day-one game offerings entirely"
-        }
-      ]
-    },
-    {
-      "id": "mario-kart-tour-announces-final-anniversary-tour-ahead-of-sh",
-      "titre": "Mario Kart Tour Announces Final Anniversary Tour Ahead Of Shutdown",
-      "url": "https://www.nintendolife.com/news/2026/09/mario-kart-tour-announces-final-anniversary-tour-ahead-of-shutdown",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/mario-kart-tour-announces-final-anniversary-tour-ahead-of-shutdown",
-          "titre": "Mario Kart Tour Announces Final Anniversary Tour Ahead Of Shutdown"
-        }
-      ]
-    },
-    {
-      "id": "tomodachi-life-appears-to-be-getting-a-switch-lite-bundle-in",
-      "titre": "Tomodachi Life Appears To Be Getting A Switch Lite Bundle In Europe",
-      "url": "https://www.nintendolife.com/news/2026/09/tomodachi-life-appears-to-be-getting-a-switch-lite-bundle-in-europe",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 5.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/tomodachi-life-appears-to-be-getting-a-switch-lite-bundle-in-europe",
-          "titre": "Tomodachi Life Appears To Be Getting A Switch Lite Bundle In Europe"
-        }
-      ]
-    },
-    {
       "id": "dragon-quest-reaches-100-million-total-sales-40-years-on-fro",
       "titre": "Dragon Quest Reaches 100 Million Total Sales, 40 Years on from the Iconic Series' Debut",
       "url": "https://www.pushsquare.com/news/2026/09/dragon-quest-reaches-100-million-total-sales-40-years-on-from-the-iconic-series-debut",
@@ -306,7 +306,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 6,
       "liens": [
         {
@@ -329,7 +329,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 6,
       "liens": [
         {
@@ -347,7 +347,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 18.9,
       "chaleur": 6,
       "liens": [
         {
@@ -366,7 +366,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 20.9,
+      "heures": 22.8,
       "chaleur": 6,
       "liens": [
         {
@@ -389,7 +389,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -407,7 +407,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -425,7 +425,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 5,
       "liens": [
         {
@@ -443,7 +443,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.8,
+      "heures": 20.7,
       "chaleur": 5,
       "liens": [
         {
@@ -461,7 +461,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.4,
       "chaleur": 5,
       "liens": [
         {
@@ -479,7 +479,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.7,
+      "heures": 23.7,
       "chaleur": 5,
       "liens": [
         {
@@ -497,13 +497,31 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 23.9,
+      "heures": 25.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/why-the-publisher-of-nintendo-life-is-launching-a-new-pc-gaming-site",
           "titre": "Why the publisher of Nintendo Life is launching a new PC gaming site"
+        }
+      ]
+    },
+    {
+      "id": "mario-kart-tour-announces-final-anniversary-tour-ahead-of-sh",
+      "titre": "Mario Kart Tour Announces Final Anniversary Tour Ahead Of Shutdown",
+      "url": "https://www.nintendolife.com/news/2026/09/mario-kart-tour-announces-final-anniversary-tour-ahead-of-shutdown",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/mario-kart-tour-announces-final-anniversary-tour-ahead-of-shutdown",
+          "titre": "Mario Kart Tour Announces Final Anniversary Tour Ahead Of Shutdown"
         }
       ]
     },
@@ -515,7 +533,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -533,7 +551,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -551,7 +569,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.7,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -569,7 +587,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -587,7 +605,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -605,8 +623,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 12.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -623,8 +641,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -641,8 +659,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -659,7 +677,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.6,
       "chaleur": 3,
       "liens": [
         {
@@ -677,7 +695,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 15.0,
       "chaleur": 3,
       "liens": [
         {
@@ -695,7 +713,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -713,7 +731,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -731,7 +749,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 16.0,
       "chaleur": 3,
       "liens": [
         {
@@ -749,7 +767,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.2,
       "chaleur": 3,
       "liens": [
         {
@@ -767,7 +785,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.2,
       "chaleur": 3,
       "liens": [
         {
@@ -785,7 +803,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.8,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +839,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 3,
       "liens": [
         {
@@ -839,7 +857,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 17.1,
       "chaleur": 3,
       "liens": [
         {
@@ -857,7 +875,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.3,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +893,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +911,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -911,7 +929,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +947,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -947,7 +965,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.7,
       "chaleur": 3,
       "liens": [
         {
@@ -965,7 +983,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.7,
+      "heures": 18.6,
       "chaleur": 3,
       "liens": [
         {
@@ -983,7 +1001,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +1019,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 19.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,7 +1037,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 19.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1037,7 +1055,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1055,7 +1073,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.7,
+      "heures": 19.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1073,7 +1091,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 19.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1091,7 +1109,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 18.5,
+      "heures": 20.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1109,7 +1127,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.7,
+      "heures": 20.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1127,31 +1145,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 21.8,
       "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/video-heres-a-look-at-the-wo-long-2-alpha-demo-which-is-available-today-to-mark-its-release-date-announcement/",
           "titre": "Video: Here’s a look at the Wo Long 2 alpha demo, which is available today to mark its release date announcement"
-        }
-      ]
-    },
-    {
-      "id": "try-team-ninja-s-next-ps5-action-rpg-wo-long-2-six-months-ea",
-      "titre": "Try Team Ninja's Next PS5 Action RPG, Wo Long 2, Six Months Early with New Playable Demo",
-      "url": "https://www.pushsquare.com/news/2026/09/try-team-ninjas-next-ps5-action-rpg-wo-long-2-six-months-early-with-new-playable-demo",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 19.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/try-team-ninjas-next-ps5-action-rpg-wo-long-2-six-months-early-with-new-playable-demo",
-          "titre": "Try Team Ninja's Next PS5 Action RPG, Wo Long 2, Six Months Early with New Playable Demo"
         }
       ]
     }
