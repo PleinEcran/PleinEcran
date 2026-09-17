@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "17/09/2026 à 20h21",
+  "collecte": "17/09/2026 à 22h18",
   "seuil": 14,
   "sujets": [
     {
@@ -15,8 +15,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 3.4,
-      "chaleur": 21,
+      "heures": 5.3,
+      "chaleur": 19,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -55,7 +55,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 26.4,
+      "heures": 28.3,
       "chaleur": 14,
       "liens": [
         {
@@ -76,6 +76,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "the-blood-of-dawnwalker-sequel-may-not-have-the-divisive-tim",
+      "titre": "The Blood of Dawnwalker sequel may not have the divisive time mechanic that so many players dislike: 'We will not force it,' game director says",
+      "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-sequel-may-not-have-the-divisive-time-mechanic-that-so-many-players-dislike-we-will-not-force-it-game-director-says/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 1.3,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-sequel-may-not-have-the-divisive-time-mechanic-that-so-many-players-dislike-we-will-not-force-it-game-director-says/",
+          "titre": "The Blood of Dawnwalker sequel may not have the divisive time mechanic that so many players dislike: 'We will not force it,' game director says"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/we-will-not-force-it-the-blood-of-dawnwalkers-sequel-might-drop-the-timer-mechanics-says-director-but-i-hope-they-stick-around",
+          "titre": "\"We will not force it\": The Blood of Dawnwalker's sequel might drop the timer mechanics, says director, but I hope they stick around"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-time-mechanic-sequels",
+          "titre": "The Blood of Dawnwalker's controversial time mechanic won't necessarily be in a sequel, the game director says"
+        }
+      ]
+    },
+    {
       "id": "zero-parades-director-s-cut-will-challenge-you-to-drive-a-st",
       "titre": "Zero Parades: Director's Cut will challenge you to drive a stolen truck through a busy roundabout while stoned out of your mind",
       "url": "https://www.pcgamer.com/games/rpg/zero-parades-directors-cut-will-challenge-you-to-drive-a-stolen-truck-through-a-busy-roundabout-while-stoned-out-of-your-mind/",
@@ -85,7 +115,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 1.0,
+      "heures": 2.9,
       "chaleur": 12,
       "liens": [
         {
@@ -114,7 +144,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 2.0,
+      "heures": 4.0,
       "chaleur": 12,
       "liens": [
         {
@@ -138,7 +168,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 10,
       "liens": [
         {
@@ -154,6 +184,90 @@ const VEILLE = {
       ]
     },
     {
+      "id": "hideo-kojima-announces-bill-skarsg-rd-will-star-in-stealth-a",
+      "titre": "Hideo Kojima announces Bill Skarsgård will star in stealth-action Physint, legendary designer Yoji Shinkawa also confirmed for character design",
+      "url": "https://www.pcgamer.com/games/action/hideo-kojima-announces-bill-skarsgard-will-star-in-stealth-action-physint-legendary-designer-yoji-shinkawa-also-confirmed-for-character-design/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 0.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/hideo-kojima-announces-bill-skarsgard-will-star-in-stealth-action-physint-legendary-designer-yoji-shinkawa-also-confirmed-for-character-design/",
+          "titre": "Hideo Kojima announces Bill Skarsgård will star in stealth-action Physint, legendary designer Yoji Shinkawa also confirmed for character design"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/hideo-kojima-bill-skarsgard-physint-mysterious-horror-game-od",
+          "titre": "Hideo Kojima confirms Bill Skarsgård is Physint's lead actor, gives production update on mysterious horror game OD"
+        }
+      ]
+    },
+    {
+      "id": "aliens-fireteam-elite-2-switch-release-suffers-last-minute-d",
+      "titre": "Aliens: Fireteam Elite 2 Switch Release Suffers Last-Minute Delay",
+      "url": "https://www.nintendolife.com/news/2026/09/aliens-fireteam-elite-2-switch-release-suffers-last-minute-delay",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/aliens-fireteam-elite-2-switch-release-suffers-last-minute-delay",
+          "titre": "Aliens: Fireteam Elite 2 Switch Release Suffers Last-Minute Delay"
+        }
+      ]
+    },
+    {
+      "id": "helldivers-2-and-horizon-forbidden-west-mysteriously-deliste",
+      "titre": "Helldivers 2 and Horizon Forbidden West mysteriously delisted from Steam in the UK, Sony promises to \"address the issue\" with Valve",
+      "url": "https://www.eurogamer.net/helldivers-2-horizon-forbidden-west-delisted-steam-uk-sony-valve",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 12.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/helldivers-2-horizon-forbidden-west-delisted-steam-uk-sony-valve",
+          "titre": "Helldivers 2 and Horizon Forbidden West mysteriously delisted from Steam in the UK, Sony promises to \"address the issue\" with Valve"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/helldivers-2-and-horizon-forbidden-west-delisted-from-steam-in-the-uk-sony-say-theyre-working-with-valve-to-address-the-issue",
+          "titre": "Helldivers 2 and Horizon Forbidden West delisted from Steam in the UK, Sony say they're \"working with Valve to address the issue\""
+        }
+      ]
+    },
+    {
+      "id": "more-mindseye-developers-have-been-laid-off-and-gta-veteran",
+      "titre": "More MindsEye developers have been laid off, and GTA veteran Leslie Benzie's studio is reportedly shutting down",
+      "url": "https://www.eurogamer.net/mindseye-developers-laid-off-gta-studio-shutting-down",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 27.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/mindseye-developers-laid-off-gta-studio-shutting-down",
+          "titre": "More MindsEye developers have been laid off, and GTA veteran Leslie Benzie's studio is reportedly shutting down"
+        }
+      ]
+    },
+    {
       "id": "take-two-ceo-strauss-zelnick-says-gta-vi-needs-to-be-markete",
       "titre": "Take-Two CEO Strauss Zelnick says GTA VI needs to be 'marketed aggressively' despite global brand awareness",
       "url": "https://www.gamedeveloper.com/marketing/strauss-zelnick-says-gta-vi-needs-to-be-marketed-aggressively-despite-global-brand-awareness",
@@ -161,8 +275,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 9,
+      "heures": 4.5,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Game Developer",
@@ -180,8 +294,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 2.8,
-      "chaleur": 9,
+      "heures": 4.8,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -196,84 +310,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "helldivers-2-and-horizon-forbidden-west-mysteriously-deliste",
-      "titre": "Helldivers 2 and Horizon Forbidden West mysteriously delisted from Steam in the UK, Sony promises to \"address the issue\" with Valve",
-      "url": "https://www.eurogamer.net/helldivers-2-horizon-forbidden-west-delisted-steam-uk-sony-valve",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 10.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/helldivers-2-horizon-forbidden-west-delisted-steam-uk-sony-valve",
-          "titre": "Helldivers 2 and Horizon Forbidden West mysteriously delisted from Steam in the UK, Sony promises to \"address the issue\" with Valve"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/helldivers-2-and-horizon-forbidden-west-delisted-from-steam-in-the-uk-sony-say-theyre-working-with-valve-to-address-the-issue",
-          "titre": "Helldivers 2 and Horizon Forbidden West delisted from Steam in the UK, Sony say they're \"working with Valve to address the issue\""
-        }
-      ]
-    },
-    {
-      "id": "nintendo-download-17th-september-north-america-plus-3-discou",
-      "titre": "Nintendo Download: 17th September (North America) - Plus 3 Discounted eShop Games That Should Be On Your Radar",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-17th-september-north-america-plus-3-discounted-eshop-games-that-should-be-on-your-radar",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-17th-september-north-america-plus-3-discounted-eshop-games-that-should-be-on-your-radar",
-          "titre": "Nintendo Download: 17th September (North America) - Plus 3 Discounted eShop Games That Should Be On Your Radar"
-        }
-      ]
-    },
-    {
-      "id": "aliens-fireteam-elite-2-switch-release-suffers-last-minute-d",
-      "titre": "Aliens: Fireteam Elite 2 Switch Release Suffers Last-Minute Delay",
-      "url": "https://www.nintendolife.com/news/2026/09/aliens-fireteam-elite-2-switch-release-suffers-last-minute-delay",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 4.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/aliens-fireteam-elite-2-switch-release-suffers-last-minute-delay",
-          "titre": "Aliens: Fireteam Elite 2 Switch Release Suffers Last-Minute Delay"
-        }
-      ]
-    },
-    {
-      "id": "more-mindseye-developers-have-been-laid-off-and-gta-veteran",
-      "titre": "More MindsEye developers have been laid off, and GTA veteran Leslie Benzie's studio is reportedly shutting down",
-      "url": "https://www.eurogamer.net/mindseye-developers-laid-off-gta-studio-shutting-down",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 25.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/mindseye-developers-laid-off-gta-studio-shutting-down",
-          "titre": "More MindsEye developers have been laid off, and GTA veteran Leslie Benzie's studio is reportedly shutting down"
-        }
-      ]
-    },
-    {
       "id": "movie-review-resident-evil-the-best-resident-evil-film-ever",
       "titre": "Movie Review: Resident Evil - The Best Resident Evil Film Ever",
       "url": "https://www.pushsquare.com/features/movie-review-resident-evil-the-best-resident-evil-film-ever",
@@ -282,7 +318,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 7,
       "liens": [
         {
@@ -305,7 +341,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 10.0,
       "chaleur": 7,
       "liens": [
         {
@@ -323,7 +359,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 7,
       "liens": [
         {
@@ -334,26 +370,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "we-will-not-force-it-the-blood-of-dawnwalker-s-sequel-might",
-      "titre": "\"We will not force it\": The Blood of Dawnwalker's sequel might drop the timer mechanics, says director, but I hope they stick around",
-      "url": "https://www.rockpapershotgun.com/we-will-not-force-it-the-blood-of-dawnwalkers-sequel-might-drop-the-timer-mechanics-says-director-but-i-hope-they-stick-around",
+      "id": "dice-summit",
+      "titre": "DICE Summit",
+      "url": "https://www.gamedeveloper.com/events/dice-summit",
       "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
+        "Game Developer"
       ],
-      "reprises": 2,
-      "heures": 9.8,
-      "chaleur": 7,
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/we-will-not-force-it-the-blood-of-dawnwalkers-sequel-might-drop-the-timer-mechanics-says-director-but-i-hope-they-stick-around",
-          "titre": "\"We will not force it\": The Blood of Dawnwalker's sequel might drop the timer mechanics, says director, but I hope they stick around"
-        },
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/events/dice-summit",
+          "titre": "DICE Summit"
+        }
+      ]
+    },
+    {
+      "id": "wardogs-is-the-only-fps-where-i-actually-expect-to-get-reviv",
+      "titre": "Wardogs is the only FPS where I actually expect to get revived",
+      "url": "https://www.pcgamer.com/games/fps/wardogs-is-the-only-fps-where-i-actually-expect-to-get-revived/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-time-mechanic-sequels",
-          "titre": "The Blood of Dawnwalker's controversial time mechanic won't necessarily be in a sequel, the game director says"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/wardogs-is-the-only-fps-where-i-actually-expect-to-get-revived/",
+          "titre": "Wardogs is the only FPS where I actually expect to get revived"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-players-are-reliving-2004-with-hou",
+      "titre": "World of Warcraft: Forever players are reliving 2004 with hour-long queue times to get into the highly-anticipated beta",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-are-reliving-2004-with-hour-long-queue-times-to-get-into-the-highly-anticipated-beta/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-are-reliving-2004-with-hour-long-queue-times-to-get-into-the-highly-anticipated-beta/",
+          "titre": "World of Warcraft: Forever players are reliving 2004 with hour-long queue times to get into the highly-anticipated beta"
+        }
+      ]
+    },
+    {
+      "id": "denuvo-is-on-the-hunt-for-drm-cracker-voices38-as-the-compan",
+      "titre": "Denuvo is on the hunt for DRM cracker 'voices38' as the company attempts to take one of its biggest foes to court",
+      "url": "https://www.pcgamer.com/gaming-industry/denuvo-is-on-the-hunt-for-drm-cracker-voices38-as-the-company-attempts-to-take-one-of-its-biggest-foes-to-court/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/denuvo-is-on-the-hunt-for-drm-cracker-voices38-as-the-company-attempts-to-take-one-of-its-biggest-foes-to-court/",
+          "titre": "Denuvo is on the hunt for DRM cracker 'voices38' as the company attempts to take one of its biggest foes to court"
         }
       ]
     },
@@ -365,7 +449,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
@@ -383,7 +467,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -394,110 +478,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "valheim-devs-finally-get-around-to-reading-5-years-of-player",
-      "titre": "Valheim devs finally get around to reading 5 years of player feedback, let you remap dodge key",
-      "url": "https://www.pcgamer.com/games/survival-crafting/valheim-devs-finally-get-around-to-reading-5-years-of-player-feedback-let-you-remap-dodge-key/",
+      "id": "nintendo-download-17th-september-north-america-plus-3-discou",
+      "titre": "Nintendo Download: 17th September (North America) - Plus 3 Discounted eShop Games That Should Be On Your Radar",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-17th-september-north-america-plus-3-discounted-eshop-games-that-should-be-on-your-radar",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.2,
+      "heures": 5.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/valheim-devs-finally-get-around-to-reading-5-years-of-player-feedback-let-you-remap-dodge-key/",
-          "titre": "Valheim devs finally get around to reading 5 years of player feedback, let you remap dodge key"
-        }
-      ]
-    },
-    {
-      "id": "preview-i-m-one-of-the-first-people-in-the-world-to-play-lol",
-      "titre": "Preview: I'm One of the First People in the World to Play Lollipop Chainsaw 2 on PS5, But You Don't Need to Be Jealous",
-      "url": "https://www.pushsquare.com/previews/im-one-of-the-first-people-in-the-world-to-play-lollipop-chainsaw-2-on-ps5-but-you-dont-need-to-be-jealous",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/previews/im-one-of-the-first-people-in-the-world-to-play-lollipop-chainsaw-2-on-ps5-but-you-dont-need-to-be-jealous",
-          "titre": "Preview: I'm One of the First People in the World to Play Lollipop Chainsaw 2 on PS5, But You Don't Need to Be Jealous"
-        }
-      ]
-    },
-    {
-      "id": "i-have-officially-made-grand-theft-auto-5-good-by-turning-it",
-      "titre": "I have officially made Grand Theft Auto 5 good by turning it into a golf sim",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-officially-made-grand-theft-auto-5-good-by-turning-it-into-a-golf-sim/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-officially-made-grand-theft-auto-5-good-by-turning-it-into-a-golf-sim/",
-          "titre": "I have officially made Grand Theft Auto 5 good by turning it into a golf sim"
-        }
-      ]
-    },
-    {
-      "id": "epic-boss-tim-sweeney-says-the-eu-s-social-media-ban-for-und",
-      "titre": "Epic boss Tim Sweeney says the EU's social media ban for under-13s 'would be terrible for the next generation of humanity'",
-      "url": "https://www.pcgamer.com/gaming-industry/epic-boss-tim-sweeney-says-the-eus-social-media-ban-for-under-13s-would-be-terrible-for-the-next-generation-of-humanity/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/epic-boss-tim-sweeney-says-the-eus-social-media-ban-for-under-13s-would-be-terrible-for-the-next-generation-of-humanity/",
-          "titre": "Epic boss Tim Sweeney says the EU's social media ban for under-13s 'would be terrible for the next generation of humanity'"
-        }
-      ]
-    },
-    {
-      "id": "don-t-sleep-on-no-law-it-has-the-potential-to-be-one-of-2027",
-      "titre": "Don’t sleep on No Law: It has the potential to be one of 2027’s most stunning games",
-      "url": "https://www.videogameschronicle.com/features/dont-sleep-on-no-law-it-has-the-potential-to-be-one-of-2027s-most-stunning-games/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/dont-sleep-on-no-law-it-has-the-potential-to-be-one-of-2027s-most-stunning-games/",
-          "titre": "Don’t sleep on No Law: It has the potential to be one of 2027’s most stunning games"
-        }
-      ]
-    },
-    {
-      "id": "backrooms-director-portal-superfan-kane-parsons-spotted-visi",
-      "titre": "Backrooms director & Portal superfan Kane Parsons spotted visiting Valve for the second time this year",
-      "url": "https://www.pcgamer.com/games/fps/backrooms-director-and-portal-superfan-kane-parsons-spotted-visiting-valve-for-the-second-time-this-year/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/backrooms-director-and-portal-superfan-kane-parsons-spotted-visiting-valve-for-the-second-time-this-year/",
-          "titre": "Backrooms director & Portal superfan Kane Parsons spotted visiting Valve for the second time this year"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-17th-september-north-america-plus-3-discounted-eshop-games-that-should-be-on-your-radar",
+          "titre": "Nintendo Download: 17th September (North America) - Plus 3 Discounted eShop Games That Should Be On Your Radar"
         }
       ]
     },
@@ -509,7 +503,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 6,
       "liens": [
         {
@@ -527,7 +521,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.6,
       "chaleur": 6,
       "liens": [
         {
@@ -545,7 +539,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.8,
       "chaleur": 6,
       "liens": [
         {
@@ -563,7 +557,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 6,
       "liens": [
         {
@@ -581,7 +575,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.8,
       "chaleur": 6,
       "liens": [
         {
@@ -599,7 +593,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.6,
       "chaleur": 6,
       "liens": [
         {
@@ -617,7 +611,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.3,
       "chaleur": 6,
       "liens": [
         {
@@ -635,7 +629,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.1,
+      "heures": 22.1,
       "chaleur": 6,
       "liens": [
         {
@@ -654,7 +648,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 24.0,
+      "heures": 26.0,
       "chaleur": 6,
       "liens": [
         {
@@ -678,7 +672,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 25.1,
+      "heures": 27.1,
       "chaleur": 6,
       "liens": [
         {
@@ -701,7 +695,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.0,
       "chaleur": 5,
       "liens": [
         {
@@ -719,7 +713,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.8,
       "chaleur": 5,
       "liens": [
         {
@@ -737,7 +731,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.1,
+      "heures": 21.1,
       "chaleur": 5,
       "liens": [
         {
@@ -755,7 +749,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 29.3,
       "chaleur": 5,
       "liens": [
         {
@@ -773,7 +767,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 29.3,
       "chaleur": 5,
       "liens": [
         {
@@ -791,7 +785,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.4,
+      "heures": 32.4,
       "chaleur": 5,
       "liens": [
         {
@@ -809,13 +803,121 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 33.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/were-trying-to-make-it-easier-valve-confirm-the-steam-frame-is-just-the-start-of-plans-to-get-steam-games-working-on-compatibility-challenged-arm-pcs",
           "titre": "\"We're trying to make it easier\": Valve confirm the Steam Frame is just the start of plans to get Steam games working on compatibility-challenged ARM PCs"
+        }
+      ]
+    },
+    {
+      "id": "valheim-devs-finally-get-around-to-reading-5-years-of-player",
+      "titre": "Valheim devs finally get around to reading 5 years of player feedback, let you remap dodge key",
+      "url": "https://www.pcgamer.com/games/survival-crafting/valheim-devs-finally-get-around-to-reading-5-years-of-player-feedback-let-you-remap-dodge-key/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/valheim-devs-finally-get-around-to-reading-5-years-of-player-feedback-let-you-remap-dodge-key/",
+          "titre": "Valheim devs finally get around to reading 5 years of player feedback, let you remap dodge key"
+        }
+      ]
+    },
+    {
+      "id": "preview-i-m-one-of-the-first-people-in-the-world-to-play-lol",
+      "titre": "Preview: I'm One of the First People in the World to Play Lollipop Chainsaw 2 on PS5, But You Don't Need to Be Jealous",
+      "url": "https://www.pushsquare.com/previews/im-one-of-the-first-people-in-the-world-to-play-lollipop-chainsaw-2-on-ps5-but-you-dont-need-to-be-jealous",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/previews/im-one-of-the-first-people-in-the-world-to-play-lollipop-chainsaw-2-on-ps5-but-you-dont-need-to-be-jealous",
+          "titre": "Preview: I'm One of the First People in the World to Play Lollipop Chainsaw 2 on PS5, But You Don't Need to Be Jealous"
+        }
+      ]
+    },
+    {
+      "id": "i-have-officially-made-grand-theft-auto-5-good-by-turning-it",
+      "titre": "I have officially made Grand Theft Auto 5 good by turning it into a golf sim",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-officially-made-grand-theft-auto-5-good-by-turning-it-into-a-golf-sim/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-officially-made-grand-theft-auto-5-good-by-turning-it-into-a-golf-sim/",
+          "titre": "I have officially made Grand Theft Auto 5 good by turning it into a golf sim"
+        }
+      ]
+    },
+    {
+      "id": "epic-boss-tim-sweeney-says-the-eu-s-social-media-ban-for-und",
+      "titre": "Epic boss Tim Sweeney says the EU's social media ban for under-13s 'would be terrible for the next generation of humanity'",
+      "url": "https://www.pcgamer.com/gaming-industry/epic-boss-tim-sweeney-says-the-eus-social-media-ban-for-under-13s-would-be-terrible-for-the-next-generation-of-humanity/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/epic-boss-tim-sweeney-says-the-eus-social-media-ban-for-under-13s-would-be-terrible-for-the-next-generation-of-humanity/",
+          "titre": "Epic boss Tim Sweeney says the EU's social media ban for under-13s 'would be terrible for the next generation of humanity'"
+        }
+      ]
+    },
+    {
+      "id": "don-t-sleep-on-no-law-it-has-the-potential-to-be-one-of-2027",
+      "titre": "Don’t sleep on No Law: It has the potential to be one of 2027’s most stunning games",
+      "url": "https://www.videogameschronicle.com/features/dont-sleep-on-no-law-it-has-the-potential-to-be-one-of-2027s-most-stunning-games/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/features/dont-sleep-on-no-law-it-has-the-potential-to-be-one-of-2027s-most-stunning-games/",
+          "titre": "Don’t sleep on No Law: It has the potential to be one of 2027’s most stunning games"
+        }
+      ]
+    },
+    {
+      "id": "backrooms-director-portal-superfan-kane-parsons-spotted-visi",
+      "titre": "Backrooms director & Portal superfan Kane Parsons spotted visiting Valve for the second time this year",
+      "url": "https://www.pcgamer.com/games/fps/backrooms-director-and-portal-superfan-kane-parsons-spotted-visiting-valve-for-the-second-time-this-year/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/backrooms-director-and-portal-superfan-kane-parsons-spotted-visiting-valve-for-the-second-time-this-year/",
+          "titre": "Backrooms director & Portal superfan Kane Parsons spotted visiting Valve for the second time this year"
         }
       ]
     },
@@ -827,7 +929,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +947,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -863,7 +965,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -881,31 +983,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/the-lead-developer-of-the-ps5-linux-project-has-abandoned-ship-it-is-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/",
           "titre": "The lead developer of the PS5 Linux project has abandoned ship: 'It is just a bunch of noobs using LLMs and writing hacks they don't even understand':"
-        }
-      ]
-    },
-    {
-      "id": "ibuypower-rdy-scale-b06-review",
-      "titre": "iBuyPower RDY Scale B06 review",
-      "url": "https://www.pcgamer.com/hardware/gaming-pcs/ibuypower-rdy-scale-b06-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-pcs/ibuypower-rdy-scale-b06-review/",
-          "titre": "iBuyPower RDY Scale B06 review"
         }
       ]
     },
@@ -917,31 +1001,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/fortnites-kingdom-hearts-crossover-is-live-now-and-theres-plenty-for-fans-to-discover",
           "titre": "Fortnite's Kingdom Hearts Crossover Is Live Now, and There's Plenty for Fans to Discover"
-        }
-      ]
-    },
-    {
-      "id": "hp-omen-35l-2026-review",
-      "titre": "HP Omen 35L (2026) review",
-      "url": "https://www.pcgamer.com/hardware/gaming-pcs/hp-omen-35l-2026-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-pcs/hp-omen-35l-2026-review/",
-          "titre": "HP Omen 35L (2026) review"
         }
       ]
     },
@@ -953,7 +1019,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -971,49 +1037,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/three-different-4x-strategy-games-three-different-solutions-to-that-inherent-problem-of-disappearing-exploration",
           "titre": "Three different 4X strategy games, three different solutions to \"that inherent problem\" of disappearing exploration"
-        }
-      ]
-    },
-    {
-      "id": "lg-ultragear-25g590b-review",
-      "titre": "LG UltraGear 25G590B review",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/lg-ultragear-25g590b-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-monitors/lg-ultragear-25g590b-review/",
-          "titre": "LG UltraGear 25G590B review"
-        }
-      ]
-    },
-    {
-      "id": "dishonored-s-harvey-smith-named-his-new-studio-black-pony-im",
-      "titre": "Dishonored's Harvey Smith named his new studio Black Pony Immersive so people would stop asking him to work on other genres: 'Specialising on what you love is not a bad path'",
-      "url": "https://www.pcgamer.com/games/sim/dishonoreds-harvey-smith-named-his-new-studio-black-pony-immersive-so-people-would-stop-asking-him-to-work-on-other-genres-specialising-on-what-you-love-is-not-a-bad-path/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/dishonoreds-harvey-smith-named-his-new-studio-black-pony-immersive-so-people-would-stop-asking-him-to-work-on-other-genres-specialising-on-what-you-love-is-not-a-bad-path/",
-          "titre": "Dishonored's Harvey Smith named his new studio Black Pony Immersive so people would stop asking him to work on other genres: 'Specialising on what you love is not a bad path'"
         }
       ]
     },
@@ -1025,7 +1055,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,31 +1073,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/what-time-does-ea-sports-fc-27-go-live-digital-release-time-in-your-region-and-new-zealand-trick/",
           "titre": "What time does EA Sports FC 27 go live? Digital release time in your region and New Zealand trick"
-        }
-      ]
-    },
-    {
-      "id": "ff14-s-new-roguelike-mode-s-leaderboards-were-accidentally-e",
-      "titre": "FF14's new roguelike mode's leaderboards were accidentally encouraging players to min-max all the fun out of it, so it'll be 'postponing the start of Crucible Rankings'",
-      "url": "https://www.pcgamer.com/games/mmo/ff14s-new-roguelike-modes-leaderboards-were-accidentally-encouraging-players-to-min-max-all-the-fun-out-of-it-so-itll-be-postponing-the-start-of-crucible-rankings/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/ff14s-new-roguelike-modes-leaderboards-were-accidentally-encouraging-players-to-min-max-all-the-fun-out-of-it-so-itll-be-postponing-the-start-of-crucible-rankings/",
-          "titre": "FF14's new roguelike mode's leaderboards were accidentally encouraging players to min-max all the fun out of it, so it'll be 'postponing the start of Crucible Rankings'"
         }
       ]
     },
@@ -1079,7 +1091,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1097,7 +1109,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1115,7 +1127,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1133,7 +1145,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1151,7 +1163,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1169,7 +1181,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
