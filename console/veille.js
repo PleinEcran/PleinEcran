@@ -1,22 +1,28 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "17/09/2026 à 10h21",
+  "collecte": "17/09/2026 à 12h25",
   "seuil": 14,
   "sujets": [
     {
-      "id": "hyper-light-drifter-studio-forced-to-lay-off-nearly-everyone",
-      "titre": "Hyper Light Drifter Studio Forced To Lay Off \"Nearly Everyone\" As Publishing Deal Falls Through",
-      "url": "https://www.nintendolife.com/news/2026/09/hyper-light-drifter-studio-forced-to-lay-off-nearly-everyone-as-publishing-deal-falls-through",
+      "id": "it-s-devastating-hyper-light-drifter-dev-lays-off-nearly-al",
+      "titre": "'It's Devastating': Hyper Light Drifter Dev Lays Off Nearly All Staff After Publisher Pulls Funding",
+      "url": "https://www.pushsquare.com/news/2026/09/its-devastating-hyper-light-drifter-dev-lays-off-nearly-all-staff-after-publisher-pulls-funding",
       "sources": [
         "Game Developer",
         "GamesIndustry.biz",
         "Nintendo Life",
-        "PC Gamer"
+        "PC Gamer",
+        "Push Square"
       ],
-      "reprises": 4,
-      "heures": 0.9,
-      "chaleur": 18,
+      "reprises": 5,
+      "heures": 0.4,
+      "chaleur": 21,
       "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/its-devastating-hyper-light-drifter-dev-lays-off-nearly-all-staff-after-publisher-pulls-funding",
+          "titre": "'It's Devastating': Hyper Light Drifter Dev Lays Off Nearly All Staff After Publisher Pulls Funding"
+        },
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/hyper-light-drifter-studio-forced-to-lay-off-nearly-everyone-as-publishing-deal-falls-through",
@@ -40,42 +46,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mindseye-developer-build-a-rocket-boy-may-finally-be-closing",
-      "titre": "MindsEye developer Build a Rocket Boy may finally be closing",
-      "url": "https://www.pcgamer.com/gaming-industry/mindseye-developer-build-a-rocket-boy-may-finally-be-closing/",
-      "sources": [
-        "Game Developer",
-        "GamesIndustry.biz",
-        "PC Gamer",
-        "VGC"
-      ],
-      "reprises": 4,
-      "heures": 16.0,
-      "chaleur": 17,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/mindseye-developer-build-a-rocket-boy-may-finally-be-closing/",
-          "titre": "MindsEye developer Build a Rocket Boy may finally be closing"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/report-mindseye-developer-build-a-rocket-boy-seemingly-closing-after-more-layoffs",
-          "titre": "Report: MindsEye developer Build a Rocket Boy seemingly closing after more layoffs"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy",
-          "titre": "MindsEye developers report new round of layoffs at Build A Rocket Boy"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/mindseye-studio-build-a-rocket-boy-may-be-closing-down-according-to-reports/",
-          "titre": "MindsEye studio Build a Rocket Boy may be closing down, according to reports"
-        }
-      ]
-    },
-    {
       "id": "helldivers-2-and-horizon-forbidden-west-mysteriously-deliste",
       "titre": "Helldivers 2 and Horizon Forbidden West mysteriously delisted from Steam in the UK, Sony promises to \"address the issue\" with Valve",
       "url": "https://www.eurogamer.net/helldivers-2-horizon-forbidden-west-delisted-steam-uk-sony-valve",
@@ -85,7 +55,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 0.5,
+      "heures": 2.5,
       "chaleur": 14,
       "liens": [
         {
@@ -106,6 +76,66 @@ const VEILLE = {
       ]
     },
     {
+      "id": "mindseye-developer-build-a-rocket-boy-may-finally-be-closing",
+      "titre": "MindsEye developer Build a Rocket Boy may finally be closing",
+      "url": "https://www.pcgamer.com/gaming-industry/mindseye-developer-build-a-rocket-boy-may-finally-be-closing/",
+      "sources": [
+        "Game Developer",
+        "GamesIndustry.biz",
+        "PC Gamer"
+      ],
+      "reprises": 3,
+      "heures": 18.1,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/mindseye-developer-build-a-rocket-boy-may-finally-be-closing/",
+          "titre": "MindsEye developer Build a Rocket Boy may finally be closing"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/report-mindseye-developer-build-a-rocket-boy-seemingly-closing-after-more-layoffs",
+          "titre": "Report: MindsEye developer Build a Rocket Boy seemingly closing after more layoffs"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy",
+          "titre": "MindsEye developers report new round of layoffs at Build A Rocket Boy"
+        }
+      ]
+    },
+    {
+      "id": "fire-emblem-fortune-s-weave-fastest-way-to-raise-support-ran",
+      "titre": "Fire Emblem Fortune’s Weave: Fastest way to raise Support ranks",
+      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-fastest-way-to-raise-support-ranks/",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 1.0,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-fastest-way-to-raise-support-ranks/",
+          "titre": "Fire Emblem Fortune’s Weave: Fastest way to raise Support ranks"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-gets-a-day-one-update-here-are-the-patch-notes",
+          "titre": "Fire Emblem: Fortune's Weave Gets A Day One Update, Here Are The Patch Notes"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-review",
+          "titre": "Fire Emblem: Fortune's Weave review"
+        }
+      ]
+    },
+    {
       "id": "resident-evil-is-now-the-highest-rated-video-game-movie-ever",
       "titre": "Resident Evil Is Now The Highest-Rated Video Game Movie Ever",
       "url": "https://www.nintendolife.com/news/2026/09/resident-evil-is-now-the-highest-rated-video-game-movie-ever",
@@ -115,7 +145,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 0.1,
+      "heures": 2.2,
       "chaleur": 12,
       "liens": [
         {
@@ -144,7 +174,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 15.5,
+      "heures": 17.6,
       "chaleur": 11,
       "liens": [
         {
@@ -160,56 +190,86 @@ const VEILLE = {
       ]
     },
     {
-      "id": "fire-emblem-fortune-s-weave-gets-a-day-one-update-here-are-t",
-      "titre": "Fire Emblem: Fortune's Weave Gets A Day One Update, Here Are The Patch Notes",
-      "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-gets-a-day-one-update-here-are-the-patch-notes",
+      "id": "gta-6-the-album-announced-pre-orders-available-now",
+      "titre": "GTA 6: The Album Announced, Pre-Orders Available Now",
+      "url": "https://www.pushsquare.com/news/2026/09/gta-6-the-album-announced-pre-orders-available-now",
       "sources": [
-        "Eurogamer",
-        "Nintendo Life",
-        "VGC"
+        "Push Square"
       ],
-      "reprises": 3,
-      "heures": 19.4,
-      "chaleur": 11,
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-gets-a-day-one-update-here-are-the-patch-notes",
-          "titre": "Fire Emblem: Fortune's Weave Gets A Day One Update, Here Are The Patch Notes"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-review",
-          "titre": "Fire Emblem: Fortune's Weave review"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/review/fire-emblem-fortunes-weave/",
-          "titre": "Fire Emblem Fortune’s Weave Review: Nintendo’s most ambitious RPG yet is an incredible triumph"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/gta-6-the-album-announced-pre-orders-available-now",
+          "titre": "GTA 6: The Album Announced, Pre-Orders Available Now"
         }
       ]
     },
     {
-      "id": "aniimo-gift-code-redemption-all-codes-to-redeem-in-aniimo",
-      "titre": "Aniimo Gift Code Redemption: All codes to redeem in Aniimo",
-      "url": "https://www.videogameschronicle.com/guide/all-codes-to-redeem-in-aniimo/",
+      "id": "whoopsie-nintendo-made-a-bokoblin-boo-boo-in-its-daily-zelda",
+      "titre": "Whoopsie! Nintendo Made A Bokoblin Boo-Boo In Its Daily Zelda Quiz",
+      "url": "https://www.nintendolife.com/news/2026/09/whoopsie-nintendo-made-a-bokoblin-boo-boo-in-its-daily-zelda-quiz",
       "sources": [
-        "PC Gamer",
-        "VGC"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 1.1,
+      "reprises": 1,
+      "heures": 1.4,
       "chaleur": 9,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/all-codes-to-redeem-in-aniimo/",
-          "titre": "Aniimo Gift Code Redemption: All codes to redeem in Aniimo"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/whoopsie-nintendo-made-a-bokoblin-boo-boo-in-its-daily-zelda-quiz",
+          "titre": "Whoopsie! Nintendo Made A Bokoblin Boo-Boo In Its Daily Zelda Quiz"
+        }
+      ]
+    },
+    {
+      "id": "hideo-kojima-confirms-bill-skarsg-rd-is-physint-s-lead-actor",
+      "titre": "Hideo Kojima confirms Bill Skarsgård is Physint's lead actor, gives production update on mysterious horror game OD",
+      "url": "https://www.eurogamer.net/hideo-kojima-bill-skarsgard-physint-mysterious-horror-game-od",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/hideo-kojima-bill-skarsgard-physint-mysterious-horror-game-od",
+          "titre": "Hideo Kojima confirms Bill Skarsgård is Physint's lead actor, gives production update on mysterious horror game OD"
         },
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/aniimo-codes/",
-          "titre": "All active Aniimo codes for launch, September 2026"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/pennywise-actor-bill-skarsgard-will-play-the-lead-role-in-hideo-kojimas-physint/",
+          "titre": "Pennywise actor Bill Skarsgård will play the lead role in Hideo Kojima’s Physint"
+        }
+      ]
+    },
+    {
+      "id": "we-will-not-force-it-the-blood-of-dawnwalker-s-sequel-might",
+      "titre": "\"We will not force it\": The Blood of Dawnwalker's sequel might drop the timer mechanics, says director, but I hope they stick around",
+      "url": "https://www.rockpapershotgun.com/we-will-not-force-it-the-blood-of-dawnwalkers-sequel-might-drop-the-timer-mechanics-says-director-but-i-hope-they-stick-around",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 1.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/we-will-not-force-it-the-blood-of-dawnwalkers-sequel-might-drop-the-timer-mechanics-says-director-but-i-hope-they-stick-around",
+          "titre": "\"We will not force it\": The Blood of Dawnwalker's sequel might drop the timer mechanics, says director, but I hope they stick around"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-time-mechanic-sequels",
+          "titre": "The Blood of Dawnwalker's controversial time mechanic won't necessarily be in a sequel, the game director says"
         }
       ]
     },
@@ -222,7 +282,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.2,
+      "heures": 3.3,
       "chaleur": 9,
       "liens": [
         {
@@ -238,20 +298,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "playstation-5-s-latest-firmware-update-takes-community-activ",
-      "titre": "PlayStation 5's latest firmware update takes Community Activity out of beta, but it's missing a key feature",
-      "url": "https://www.eurogamer.net/ps5-firmware-update-14-00-00-community-activity-missing-feature",
+      "id": "kojima-gives-an-update-on-od-while-thanking-xbox-for-believi",
+      "titre": "Kojima gives an update on OD while thanking Xbox for ‘believing in our vision’",
+      "url": "https://www.videogameschronicle.com/news/kojima-gives-an-update-on-od-while-thanking-xbox-for-believing-in-our-vision/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/kojima-gives-an-update-on-od-while-thanking-xbox-for-believing-in-our-vision/",
+          "titre": "Kojima gives an update on OD while thanking Xbox for ‘believing in our vision’"
+        }
+      ]
+    },
+    {
+      "id": "feature-playstation-is-the-only-platform-holder-at-tgs-2026",
+      "titre": "Feature: PlayStation Is the Only Platform Holder at TGS 2026, and It's Putting on a Show",
+      "url": "https://www.pushsquare.com/features/playstation-is-the-only-platform-holder-at-tgs-2026-and-its-putting-on-a-show",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/playstation-is-the-only-platform-holder-at-tgs-2026-and-its-putting-on-a-show",
+          "titre": "Feature: PlayStation Is the Only Platform Holder at TGS 2026, and It's Putting on a Show"
+        }
+      ]
+    },
+    {
+      "id": "wardogs-has-already-made-more-money-than-marathon-and-its-st",
+      "titre": "Wardogs has already made more money than Marathon, and its Steam launch momentum is ahead of Arc Raiders and Helldivers 2",
+      "url": "https://www.eurogamer.net/wardogs-marathon-revenue-arc-raiders-helldivers-2-steam",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.1,
+      "heures": 1.7,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ps5-firmware-update-14-00-00-community-activity-missing-feature",
-          "titre": "PlayStation 5's latest firmware update takes Community Activity out of beta, but it's missing a key feature"
+          "url": "https://www.eurogamer.net/wardogs-marathon-revenue-arc-raiders-helldivers-2-steam",
+          "titre": "Wardogs has already made more money than Marathon, and its Steam launch momentum is ahead of Arc Raiders and Helldivers 2"
         }
       ]
     },
@@ -264,7 +360,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 18.8,
+      "heures": 20.9,
       "chaleur": 8,
       "liens": [
         {
@@ -287,55 +383,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/nintendo-store-adds-some-new-exclusives-for-switch-online-members-north-america",
           "titre": "Nintendo Store Adds Some New Exclusives For Switch Online Members (North America)"
-        }
-      ]
-    },
-    {
-      "id": "zelda-ocarina-of-time-on-switch-2-will-support-vrr-in-docked",
-      "titre": "Zelda: Ocarina Of Time On Switch 2 Will Support VRR In Docked Mode",
-      "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-on-switch-2-will-support-vrr-in-docked-mode",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-on-switch-2-will-support-vrr-in-docked-mode",
-          "titre": "Zelda: Ocarina Of Time On Switch 2 Will Support VRR In Docked Mode"
-        }
-      ]
-    },
-    {
-      "id": "endless-legend-2-review",
-      "titre": "Endless Legend 2 review",
-      "url": "https://www.pcgamer.com/games/strategy/endless-legend-2-review/",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 11.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/endless-legend-2-review/",
-          "titre": "Endless Legend 2 review"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/15-years-ago-people-understood-it-was-an-unfinished-game-as-endless-legend-2-hits-10-amplitude-reflect-on-how-early-access-has-changed",
-          "titre": "\"15 years ago, people understood it was an unfinished game\": As Endless Legend 2 hits 1.0, Amplitude reflect on how early access has changed"
         }
       ]
     },
@@ -347,13 +401,121 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.7,
+      "heures": 24.8,
       "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/xbox-game-pass-big-changes-2027-rumour-microsoft-responds",
           "titre": "Microsoft doesn't dismiss rumours a major Xbox Game Pass shake-up is on the way, which reportedly removes day-one game offerings entirely"
+        }
+      ]
+    },
+    {
+      "id": "grand-theft-auto-6-is-getting-a-vinyl-cd-and-streaming-sound",
+      "titre": "Grand Theft Auto 6 is getting a vinyl, CD and streaming soundtrack with 34 original tracks",
+      "url": "https://www.videogameschronicle.com/news/grand-theft-auto-6-is-getting-a-vinyl-cd-and-streaming-soundtrack-with-34-original-tracks/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/grand-theft-auto-6-is-getting-a-vinyl-cd-and-streaming-soundtrack-with-34-original-tracks/",
+          "titre": "Grand Theft Auto 6 is getting a vinyl, CD and streaming soundtrack with 34 original tracks"
+        }
+      ]
+    },
+    {
+      "id": "mads-mikkelsen-stars-in-call-of-duty-modern-warfare-4-campai",
+      "titre": "Mads Mikkelsen Stars In Call Of Duty: Modern Warfare 4 Campaign Trailer",
+      "url": "https://www.nintendolife.com/news/2026/09/mads-mikkelsen-stars-in-call-of-duty-modern-warfare-4-campaign-trailer",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/mads-mikkelsen-stars-in-call-of-duty-modern-warfare-4-campaign-trailer",
+          "titre": "Mads Mikkelsen Stars In Call Of Duty: Modern Warfare 4 Campaign Trailer"
+        }
+      ]
+    },
+    {
+      "id": "wow-forever-dataminers-have-dug-up-set-bonuses-which-are-int",
+      "titre": "WoW Forever dataminers have dug up set bonuses, which are interesting even on low-level gear",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dataminers-have-dug-up-set-bonuses-which-are-interesting-even-on-low-level-gear/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dataminers-have-dug-up-set-bonuses-which-are-interesting-even-on-low-level-gear/",
+          "titre": "WoW Forever dataminers have dug up set bonuses, which are interesting even on low-level gear"
+        }
+      ]
+    },
+    {
+      "id": "the-leakers-disagree-but-we-might-just-get-one-amd-shaped-mi",
+      "titre": "The leakers disagree, but we might just get one AMD-shaped mid-range GPU through all of 2027",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/the-leakers-disagree-but-we-might-just-get-one-amd-shaped-mid-range-gpu-through-all-of-2027/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/the-leakers-disagree-but-we-might-just-get-one-amd-shaped-mid-range-gpu-through-all-of-2027/",
+          "titre": "The leakers disagree, but we might just get one AMD-shaped mid-range GPU through all of 2027"
+        }
+      ]
+    },
+    {
+      "id": "crazy-taxi-world-tour-goes-big-in-japan-as-new-location-reve",
+      "titre": "Crazy Taxi: World Tour Goes Big in Japan as New Location Revealed",
+      "url": "https://www.pushsquare.com/news/2026/09/crazy-taxi-world-tour-goes-big-in-japan-as-new-location-revealed",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/crazy-taxi-world-tour-goes-big-in-japan-as-new-location-revealed",
+          "titre": "Crazy Taxi: World Tour Goes Big in Japan as New Location Revealed"
+        }
+      ]
+    },
+    {
+      "id": "remedy-s-arhi-makkonen-on-designing-the-biggest-world-we-hav",
+      "titre": "Remedy's Arhi Makkonen on designing the \"biggest world we have ever done\" for Control Resonant",
+      "url": "https://www.gamesindustry.biz/remedys-arhi-makkonen-on-designing-the-biggest-world-we-have-ever-done-for-control-resonant",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/remedys-arhi-makkonen-on-designing-the-biggest-world-we-have-ever-done-for-control-resonant",
+          "titre": "Remedy's Arhi Makkonen on designing the \"biggest world we have ever done\" for Control Resonant"
         }
       ]
     },
@@ -365,7 +527,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -383,13 +545,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/lollipop-chainsaw-2-officially-announced-for-ps5-early-gameplay-looks-rough-as-heck",
           "titre": "Lollipop Chainsaw 2 Officially Announced for PS5, Early Gameplay Looks Rough as Heck"
+        }
+      ]
+    },
+    {
+      "id": "aniimo-gift-code-redemption-all-codes-to-redeem-in-aniimo",
+      "titre": "Aniimo Gift Code Redemption: All codes to redeem in Aniimo",
+      "url": "https://www.videogameschronicle.com/guide/all-codes-to-redeem-in-aniimo/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 3.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/all-codes-to-redeem-in-aniimo/",
+          "titre": "Aniimo Gift Code Redemption: All codes to redeem in Aniimo"
         }
       ]
     },
@@ -401,7 +581,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -419,13 +599,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/monster-hunter-ascendance-teostra-reveal",
           "titre": "Monster Hunter Wilds upcoming expansion, Ascendance, reveals an infamous returning monster - and it looks like it'll address the difficulty complaints"
+        }
+      ]
+    },
+    {
+      "id": "playstation-5-s-latest-firmware-update-takes-community-activ",
+      "titre": "PlayStation 5's latest firmware update takes Community Activity out of beta, but it's missing a key feature",
+      "url": "https://www.eurogamer.net/ps5-firmware-update-14-00-00-community-activity-missing-feature",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ps5-firmware-update-14-00-00-community-activity-missing-feature",
+          "titre": "PlayStation 5's latest firmware update takes Community Activity out of beta, but it's missing a key feature"
         }
       ]
     },
@@ -437,7 +635,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 6,
       "liens": [
         {
@@ -455,13 +653,55 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/tomodachi-life-appears-to-be-getting-a-switch-lite-bundle-in-europe",
           "titre": "Tomodachi Life Appears To Be Getting A Switch Lite Bundle In Europe"
+        }
+      ]
+    },
+    {
+      "id": "zelda-ocarina-of-time-on-switch-2-will-support-vrr-in-docked",
+      "titre": "Zelda: Ocarina Of Time On Switch 2 Will Support VRR In Docked Mode",
+      "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-on-switch-2-will-support-vrr-in-docked-mode",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-on-switch-2-will-support-vrr-in-docked-mode",
+          "titre": "Zelda: Ocarina Of Time On Switch 2 Will Support VRR In Docked Mode"
+        }
+      ]
+    },
+    {
+      "id": "endless-legend-2-review",
+      "titre": "Endless Legend 2 review",
+      "url": "https://www.pcgamer.com/games/strategy/endless-legend-2-review/",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 13.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/endless-legend-2-review/",
+          "titre": "Endless Legend 2 review"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/15-years-ago-people-understood-it-was-an-unfinished-game-as-endless-legend-2-hits-10-amplitude-reflect-on-how-early-access-has-changed",
+          "titre": "\"15 years ago, people understood it was an unfinished game\": As Endless Legend 2 hits 1.0, Amplitude reflect on how early access has changed"
         }
       ]
     },
@@ -474,7 +714,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 14.0,
+      "heures": 16.1,
       "chaleur": 6,
       "liens": [
         {
@@ -498,7 +738,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 15.1,
+      "heures": 17.2,
       "chaleur": 6,
       "liens": [
         {
@@ -522,7 +762,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 6,
       "liens": [
         {
@@ -545,55 +785,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5s-become-a-celebrity-mod-is-almost-weirdly-fully-featured/",
           "titre": "GTA 5's 'Become a celebrity' mod is almost weirdly fully featured"
-        }
-      ]
-    },
-    {
-      "id": "musicians-including-travis-scott-keith-richards-and-future-h",
-      "titre": "Musicians including Travis Scott, Keith Richards and Future have started teasing that they’ll be in GTA 6",
-      "url": "https://www.videogameschronicle.com/news/musicians-including-travis-scott-keith-richards-and-future-have-started-teasing-that-theyll-be-in-gta-6/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 20.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/musicians-including-travis-scott-keith-richards-and-future-have-started-teasing-that-theyll-be-in-gta-6/",
-          "titre": "Musicians including Travis Scott, Keith Richards and Future have started teasing that they’ll be in GTA 6"
-        }
-      ]
-    },
-    {
-      "id": "wo-long-2-wings-of-ember-has-a-demo-out-as-koei-tecmo-carve",
-      "titre": "Wo Long 2: Wings of Ember has a demo out, as Koei Tecmo carve an early 2027 release date into some hulking demons from Chinese mythology",
-      "url": "https://www.rockpapershotgun.com/wo-long-2-wings-of-ember-has-a-demo-out-as-koei-tecmo-carve-an-early-2027-release-date-into-some-hulking-demons-from-chinese-mythology",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 24.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/wo-long-2-wings-of-ember-has-a-demo-out-as-koei-tecmo-carve-an-early-2027-release-date-into-some-hulking-demons-from-chinese-mythology",
-          "titre": "Wo Long 2: Wings of Ember has a demo out, as Koei Tecmo carve an early 2027 release date into some hulking demons from Chinese mythology"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/wo-long-2-wings-of-ember-demo-release-date",
-          "titre": "You can play a sizeable demo of Wo Long 2: Wings of Ember right now, getting you ready for its March 2027 release date"
         }
       ]
     },
@@ -605,7 +803,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 5,
       "liens": [
         {
@@ -623,7 +821,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 5,
       "liens": [
         {
@@ -641,7 +839,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.4,
       "chaleur": 5,
       "liens": [
         {
@@ -659,49 +857,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.7,
+      "heures": 24.7,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/xbox-game-pass-second-wave-september-gears-of-war",
           "titre": "Here's the second wave of Xbox Game Pass games coming in September"
-        }
-      ]
-    },
-    {
-      "id": "stellar-blade-launches-on-switch-2-this-november-with-a-prop",
-      "titre": "Stellar Blade Launches On Switch 2 This November With A Proper Physical Release",
-      "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-launches-on-switch-2-this-november-with-a-proper-physical-release",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 25.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-launches-on-switch-2-this-november-with-a-proper-physical-release",
-          "titre": "Stellar Blade Launches On Switch 2 This November With A Proper Physical Release"
-        }
-      ]
-    },
-    {
-      "id": "login-errors-delay-diablo-4-s-big-new-season-of-hell-s-legac",
-      "titre": "Login errors delay Diablo 4's big new Season of Hell's Legacy anniversary update",
-      "url": "https://www.eurogamer.net/diablo-4-season-of-hells-legacy-30th-anniversary-delayed",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 25.6,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/diablo-4-season-of-hells-legacy-30th-anniversary-delayed",
-          "titre": "Login errors delay Diablo 4's big new Season of Hell's Legacy anniversary update"
         }
       ]
     },
@@ -713,7 +875,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 27.9,
+      "heures": 29.9,
       "chaleur": 5,
       "liens": [
         {
@@ -731,7 +893,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -749,8 +911,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -767,7 +929,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.7,
       "chaleur": 3,
       "liens": [
         {
@@ -785,7 +947,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +965,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 16.1,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +983,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -839,31 +1001,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 19.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-beta-launch-times-how-to-sign-up-and-play-blizzards-twist-on-wow-classic/",
           "titre": "World of Warcraft: Forever beta launch times: How to sign up and play Blizzard's twist on WoW Classic"
-        }
-      ]
-    },
-    {
-      "id": "preview-crazy-taxi-world-tour-s-beta-test-transported-me-bac",
-      "titre": "Preview: Crazy Taxi: World Tour's Beta Test Transported Me Back to a Bygone Era of Online Multiplayer",
-      "url": "https://www.pushsquare.com/previews/crazy-taxi-world-tours-beta-test-transported-me-back-to-a-bygone-era-of-online-multiplayer",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/previews/crazy-taxi-world-tours-beta-test-transported-me-back-to-a-bygone-era-of-online-multiplayer",
-          "titre": "Preview: Crazy Taxi: World Tour's Beta Test Transported Me Back to a Bygone Era of Online Multiplayer"
         }
       ]
     },
@@ -875,31 +1019,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 19.9,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/this-new-community-activity-widget-tells-you-whats-hot-right-now-on-ps5",
           "titre": "This New Community Activity Widget Tells You What's Hot Right Now on PS5"
-        }
-      ]
-    },
-    {
-      "id": "the-blood-of-dawnwalker-s-controversial-time-mechanic-won-t",
-      "titre": "The Blood of Dawnwalker's controversial time mechanic won't necessarily be in a sequel, the game director says",
-      "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-time-mechanic-sequels",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 17.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-time-mechanic-sequels",
-          "titre": "The Blood of Dawnwalker's controversial time mechanic won't necessarily be in a sequel, the game director says"
         }
       ]
     },
@@ -911,7 +1037,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 20.2,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +1055,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
@@ -947,7 +1073,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.3,
+      "heures": 20.4,
       "chaleur": 3,
       "liens": [
         {
@@ -965,7 +1091,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.8,
+      "heures": 20.9,
       "chaleur": 3,
       "liens": [
         {
@@ -983,7 +1109,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +1127,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.0,
+      "heures": 21.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,7 +1145,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1037,7 +1163,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1055,7 +1181,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1073,7 +1199,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1082,136 +1208,9 @@ const VEILLE = {
           "titre": "MindsEye studio Build A Rocket Boy appear to be making fresh redundancies, as one staffer says he's \"helping wrap things up here in the HR department\""
         }
       ]
-    },
-    {
-      "id": "i-m-definitely-cooked-a-9-year-old-minecraft-youtuber-ran-u",
-      "titre": "‘I’m definitely cooked’: A 9-year-old Minecraft YouTuber ran up a $118,000 ad bill using his dad’s company credit card",
-      "url": "https://www.videogameschronicle.com/news/im-definitely-cooked-a-9-year-old-minecraft-youtuber-ran-up-a-118000-ad-bill-using-his-dads-company-credit-card/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 19.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/im-definitely-cooked-a-9-year-old-minecraft-youtuber-ran-up-a-118000-ad-bill-using-his-dads-company-credit-card/",
-          "titre": "‘I’m definitely cooked’: A 9-year-old Minecraft YouTuber ran up a $118,000 ad bill using his dad’s company credit card"
-        }
-      ]
-    },
-    {
-      "id": "is-aniimo-a-gacha-game",
-      "titre": "Is Aniimo a gacha game?",
-      "url": "https://www.pcgamer.com/games/rpg/aniimo-is-it-gacha-monetization-explained/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/aniimo-is-it-gacha-monetization-explained/",
-          "titre": "Is Aniimo a gacha game?"
-        }
-      ]
-    },
-    {
-      "id": "a-dried-husk-of-a-product-former-doom-producer-berates-micr",
-      "titre": "\"A dried husk of a product\": former Doom producer berates Microsoft for making Halo a \"mid-tier\" game and mourns the \"financialisation\" of AAA",
-      "url": "https://www.rockpapershotgun.com/a-dried-husk-of-a-product-former-doom-producer-berates-microsoft-for-making-halo-a-mid-tier-game-and-mourns-the-financialisation-of-aaa",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 20.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/a-dried-husk-of-a-product-former-doom-producer-berates-microsoft-for-making-halo-a-mid-tier-game-and-mourns-the-financialisation-of-aaa",
-          "titre": "\"A dried husk of a product\": former Doom producer berates Microsoft for making Halo a \"mid-tier\" game and mourns the \"financialisation\" of AAA"
-        }
-      ]
-    },
-    {
-      "id": "1312-interactive-raises-1m-in-seed-funding-round",
-      "titre": "1312 Interactive raises $1m in seed funding round",
-      "url": "https://www.gamesindustry.biz/1312-interactive-raises-1m-in-seed-funding-round",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 20.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/1312-interactive-raises-1m-in-seed-funding-round",
-          "titre": "1312 Interactive raises $1m in seed funding round"
-        }
-      ]
-    },
-    {
-      "id": "activision-blizzard-sued-by-former-employee-over-sexual-hara",
-      "titre": "Activision Blizzard sued by former employee over sexual harassment",
-      "url": "https://www.gamedeveloper.com/production/activision-blizzard-sued-by-former-employee-over-sexual-harassment",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 21.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production/activision-blizzard-sued-by-former-employee-over-sexual-harassment",
-          "titre": "Activision Blizzard sued by former employee over sexual harassment"
-        }
-      ]
-    },
-    {
-      "id": "i-really-want-criterion-to-be-considered-the-best-studio-in",
-      "titre": "\"I really want Criterion to be considered the best studio in the UK\" – why the home of Burnout has a future with Battlefield",
-      "url": "https://www.gamesindustry.biz/i-really-want-criterion-to-be-considered-the-best-studio-in-the-uk-why-the-home-of-burnout-has-a-future-with-battlefield",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 21.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/i-really-want-criterion-to-be-considered-the-best-studio-in-the-uk-why-the-home-of-burnout-has-a-future-with-battlefield",
-          "titre": "\"I really want Criterion to be considered the best studio in the UK\" – why the home of Burnout has a future with Battlefield"
-        }
-      ]
-    },
-    {
-      "id": "scalpers-are-killing-the-hobby-for-everyone-pok-mon-tcg-s-3",
-      "titre": "\"Scalpers Are Killing The Hobby For Everyone\" - Pokémon TCG's 30th Celebration Isn't Going As Planned",
-      "url": "https://www.nintendolife.com/news/2026/09/scalpers-are-killing-the-hobby-for-everyone-pokemon-tcgs-30th-celebration-isnt-going-as-planned",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 21.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/scalpers-are-killing-the-hobby-for-everyone-pokemon-tcgs-30th-celebration-isnt-going-as-planned",
-          "titre": "\"Scalpers Are Killing The Hobby For Everyone\" - Pokémon TCG's 30th Celebration Isn't Going As Planned"
-        }
-      ]
     }
   ],
   "alertes": [
-    "Hyper Light Drifter Studio Forced To Lay Off \"Nearly Everyone\" As Publishing Deal Falls Through",
-    "Helldivers 2 and Horizon Forbidden West mysteriously delisted from Steam in the UK, Sony promises to \"address the issue\" with Valve"
+    "'It's Devastating': Hyper Light Drifter Dev Lays Off Nearly All Staff After Publisher Pulls Funding"
   ]
 };
