@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "17/09/2026 à 02h20",
+  "collecte": "17/09/2026 à 04h21",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 8.0,
+      "heures": 10.0,
       "chaleur": 18,
       "liens": [
         {
@@ -48,7 +48,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 7.5,
+      "heures": 9.5,
       "chaleur": 12,
       "liens": [
         {
@@ -73,8 +73,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 11.3,
-      "chaleur": 12,
+      "heures": 13.4,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -94,36 +94,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "wo-long-2-wings-of-ember-has-a-demo-out-as-koei-tecmo-carve",
-      "titre": "Wo Long 2: Wings of Ember has a demo out, as Koei Tecmo carve an early 2027 release date into some hulking demons from Chinese mythology",
-      "url": "https://www.rockpapershotgun.com/wo-long-2-wings-of-ember-has-a-demo-out-as-koei-tecmo-carve-an-early-2027-release-date-into-some-hulking-demons-from-chinese-mythology",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 16.8,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/wo-long-2-wings-of-ember-has-a-demo-out-as-koei-tecmo-carve-an-early-2027-release-date-into-some-hulking-demons-from-chinese-mythology",
-          "titre": "Wo Long 2: Wings of Ember has a demo out, as Koei Tecmo carve an early 2027 release date into some hulking demons from Chinese mythology"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/wo-long-2-wings-of-ember-demo-release-date",
-          "titre": "You can play a sizeable demo of Wo Long 2: Wings of Ember right now, getting you ready for its March 2027 release date"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/koei-tecmos-dark-fantasy-action-rpg-sequel-locks-in-a-switch-2-release-date",
-          "titre": "Koei Tecmo's Dark Fantasy Action RPG Sequel Locks In A Switch 2 Release Date"
-        }
-      ]
-    },
-    {
       "id": "wardogs-studio-ceo-issues-new-statement-after-backlash-for-s",
       "titre": "Wardogs studio CEO issues new statement, after backlash for saying his studio won't hire people who \"constantly tweet anti-crunch messaging\"",
       "url": "https://www.eurogamer.net/wardogs-ceo-new-response-crunch-backlash-social-media-monitoring-statement",
@@ -133,7 +103,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 7.1,
+      "heures": 9.1,
       "chaleur": 10,
       "liens": [
         {
@@ -161,13 +131,55 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.4,
       "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/nintendo-store-adds-some-new-exclusives-for-switch-online-members-north-america",
           "titre": "Nintendo Store Adds Some New Exclusives For Switch Online Members (North America)"
+        }
+      ]
+    },
+    {
+      "id": "tomodachi-life-appears-to-be-getting-a-switch-lite-bundle-in",
+      "titre": "Tomodachi Life Appears To Be Getting A Switch Lite Bundle In Europe",
+      "url": "https://www.nintendolife.com/news/2026/09/tomodachi-life-appears-to-be-getting-a-switch-lite-bundle-in-europe",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.1,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/tomodachi-life-appears-to-be-getting-a-switch-lite-bundle-in-europe",
+          "titre": "Tomodachi Life Appears To Be Getting A Switch Lite Bundle In Europe"
+        }
+      ]
+    },
+    {
+      "id": "microsoft-hasn-t-marched-fable-to-the-guillotine-because-it",
+      "titre": "Microsoft hasn't marched Fable to the guillotine because it's 'vital to the DNA' of Xbox, says the game's director",
+      "url": "https://www.pcgamer.com/games/rpg/microsoft-hasnt-marched-fable-to-the-guillotine-because-its-vital-to-the-dna-of-xbox-says-the-games-director/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 12.8,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/microsoft-hasnt-marched-fable-to-the-guillotine-because-its-vital-to-the-dna-of-xbox-says-the-games-director/",
+          "titre": "Microsoft hasn't marched Fable to the guillotine because it's 'vital to the DNA' of Xbox, says the game's director"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/fable-vital-dna-of-xbox-playground-games",
+          "titre": "Xbox's Fable reboot was allowed a 10-year development because the RPG series is \"vital to the DNA of the platform\", developer Playground Games says"
         }
       ]
     },
@@ -179,8 +191,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 9,
+      "heures": 4.1,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -198,8 +210,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 3.1,
-      "chaleur": 9,
+      "heures": 5.2,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -214,48 +226,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "microsoft-hasn-t-marched-fable-to-the-guillotine-because-it",
-      "titre": "Microsoft hasn't marched Fable to the guillotine because it's 'vital to the DNA' of Xbox, says the game's director",
-      "url": "https://www.pcgamer.com/games/rpg/microsoft-hasnt-marched-fable-to-the-guillotine-because-its-vital-to-the-dna-of-xbox-says-the-games-director/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 10.8,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/microsoft-hasnt-marched-fable-to-the-guillotine-because-its-vital-to-the-dna-of-xbox-says-the-games-director/",
-          "titre": "Microsoft hasn't marched Fable to the guillotine because it's 'vital to the DNA' of Xbox, says the game's director"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/fable-vital-dna-of-xbox-playground-games",
-          "titre": "Xbox's Fable reboot was allowed a 10-year development because the RPG series is \"vital to the DNA of the platform\", developer Playground Games says"
-        }
-      ]
-    },
-    {
-      "id": "tomodachi-life-appears-to-be-getting-a-switch-lite-bundle-in",
-      "titre": "Tomodachi Life Appears To Be Getting A Switch Lite Bundle In Europe",
-      "url": "https://www.nintendolife.com/news/2026/09/tomodachi-life-appears-to-be-getting-a-switch-lite-bundle-in-europe",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/tomodachi-life-appears-to-be-getting-a-switch-lite-bundle-in-europe",
-          "titre": "Tomodachi Life Appears To Be Getting A Switch Lite Bundle In Europe"
-        }
-      ]
-    },
-    {
       "id": "shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-late",
       "titre": "Shinji Mikami to be inducted into the AIAS Hall of Fame later this week",
       "url": "https://www.gamesindustry.biz/shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-later-this-week",
@@ -264,7 +234,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 6.0,
+      "heures": 8.0,
       "chaleur": 7,
       "liens": [
         {
@@ -288,7 +258,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 8.3,
+      "heures": 10.4,
       "chaleur": 7,
       "liens": [
         {
@@ -304,30 +274,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "world-of-warcraft-forever-beta-launch-times-how-to-sign-up-a",
-      "titre": "World of Warcraft: Forever beta launch times: How to sign up and play Blizzard's twist on WoW Classic",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-beta-launch-times-how-to-sign-up-and-play-blizzards-twist-on-wow-classic/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 9.0,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-beta-launch-times-how-to-sign-up-and-play-blizzards-twist-on-wow-classic/",
-          "titre": "World of Warcraft: Forever beta launch times: How to sign up and play Blizzard's twist on WoW Classic"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blizzard-wow-2-sequel-forever",
-          "titre": "\"What would a WoW 2 give you that World of Warcraft: Forever isn't already giving you?\" - Blizzard addresses the MMO elephant in the room"
-        }
-      ]
-    },
-    {
       "id": "gta-5-s-become-a-celebrity-mod-is-almost-weirdly-fully-featu",
       "titre": "GTA 5's 'Become a celebrity' mod is almost weirdly fully featured",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5s-become-a-celebrity-mod-is-almost-weirdly-fully-featured/",
@@ -335,7 +281,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 7,
       "liens": [
         {
@@ -353,7 +299,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.7,
+      "heures": 16.7,
       "chaleur": 7,
       "liens": [
         {
@@ -364,38 +310,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "preview-silver-palace-is-a-gorgeous-gothic-ps5-rpg-but-so-fa",
-      "titre": "Preview: Silver Palace Is a Gorgeous Gothic PS5 RPG, But So Far I've Played It Before",
-      "url": "https://www.pushsquare.com/previews/silver-palace-is-a-gorgeous-gothic-ps5-rpg-but-so-far-ive-played-it-before",
+      "id": "mario-kart-tour-announces-final-anniversary-tour-ahead-of-sh",
+      "titre": "Mario Kart Tour Announces Final Anniversary Tour Ahead Of Shutdown",
+      "url": "https://www.nintendolife.com/news/2026/09/mario-kart-tour-announces-final-anniversary-tour-ahead-of-shutdown",
       "sources": [
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.3,
+      "heures": 0.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/previews/silver-palace-is-a-gorgeous-gothic-ps5-rpg-but-so-far-ive-played-it-before",
-          "titre": "Preview: Silver Palace Is a Gorgeous Gothic PS5 RPG, But So Far I've Played It Before"
-        }
-      ]
-    },
-    {
-      "id": "sony-responds-after-pc-games-including-helldivers-2-disappea",
-      "titre": "Sony responds after PC games including Helldivers 2 disappear in UK",
-      "url": "https://www.videogameschronicle.com/news/sony-responds-after-pc-games-including-helldivers-2-disappear-in-uk/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sony-responds-after-pc-games-including-helldivers-2-disappear-in-uk/",
-          "titre": "Sony responds after PC games including Helldivers 2 disappear in UK"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/mario-kart-tour-announces-final-anniversary-tour-ahead-of-shutdown",
+          "titre": "Mario Kart Tour Announces Final Anniversary Tour Ahead Of Shutdown"
         }
       ]
     },
@@ -407,7 +335,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
@@ -425,7 +353,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
@@ -443,7 +371,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 6,
       "liens": [
         {
@@ -462,7 +390,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 14.6,
+      "heures": 16.6,
       "chaleur": 6,
       "liens": [
         {
@@ -478,26 +406,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "two-point-museum-is-getting-rides-relics-dlc-which-looks-lik",
-      "titre": "Two Point Museum is getting Rides & Relics DLC, which looks like a new Theme Park game in all but name",
-      "url": "https://www.videogameschronicle.com/news/two-point-museum-is-getting-rides-relics-dlc-which-looks-like-a-new-theme-park-game-in-all-but-name/",
+      "id": "wo-long-2-wings-of-ember-has-a-demo-out-as-koei-tecmo-carve",
+      "titre": "Wo Long 2: Wings of Ember has a demo out, as Koei Tecmo carve an early 2027 release date into some hulking demons from Chinese mythology",
+      "url": "https://www.rockpapershotgun.com/wo-long-2-wings-of-ember-has-a-demo-out-as-koei-tecmo-carve-an-early-2027-release-date-into-some-hulking-demons-from-chinese-mythology",
       "sources": [
         "Eurogamer",
-        "VGC"
+        "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 16.3,
+      "heures": 18.8,
       "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/two-point-museum-is-getting-rides-relics-dlc-which-looks-like-a-new-theme-park-game-in-all-but-name/",
-          "titre": "Two Point Museum is getting Rides & Relics DLC, which looks like a new Theme Park game in all but name"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/wo-long-2-wings-of-ember-has-a-demo-out-as-koei-tecmo-carve-an-early-2027-release-date-into-some-hulking-demons-from-chinese-mythology",
+          "titre": "Wo Long 2: Wings of Ember has a demo out, as Koei Tecmo carve an early 2027 release date into some hulking demons from Chinese mythology"
         },
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/two-point-museum-rides-and-relics-dlc-announced",
-          "titre": "After riffing on Theme Hospital, Two Point Museum studio is tipping a hat to Bullfrog's classic Theme Park in its next DLC"
+          "url": "https://www.eurogamer.net/wo-long-2-wings-of-ember-demo-release-date",
+          "titre": "You can play a sizeable demo of Wo Long 2: Wings of Ember right now, getting you ready for its March 2027 release date"
         }
       ]
     },
@@ -509,7 +437,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.3,
       "chaleur": 5,
       "liens": [
         {
@@ -527,7 +455,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.7,
+      "heures": 16.7,
       "chaleur": 5,
       "liens": [
         {
@@ -545,7 +473,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.4,
       "chaleur": 5,
       "liens": [
         {
@@ -563,7 +491,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 19.6,
       "chaleur": 5,
       "liens": [
         {
@@ -581,13 +509,49 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 21.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/why-the-publisher-of-nintendo-life-is-launching-a-new-pc-gaming-site",
           "titre": "Why the publisher of Nintendo Life is launching a new PC gaming site"
+        }
+      ]
+    },
+    {
+      "id": "preview-silver-palace-is-a-gorgeous-gothic-ps5-rpg-but-so-fa",
+      "titre": "Preview: Silver Palace Is a Gorgeous Gothic PS5 RPG, But So Far I've Played It Before",
+      "url": "https://www.pushsquare.com/previews/silver-palace-is-a-gorgeous-gothic-ps5-rpg-but-so-far-ive-played-it-before",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/previews/silver-palace-is-a-gorgeous-gothic-ps5-rpg-but-so-far-ive-played-it-before",
+          "titre": "Preview: Silver Palace Is a Gorgeous Gothic PS5 RPG, But So Far I've Played It Before"
+        }
+      ]
+    },
+    {
+      "id": "sony-responds-after-pc-games-including-helldivers-2-disappea",
+      "titre": "Sony responds after PC games including Helldivers 2 disappear in UK",
+      "url": "https://www.videogameschronicle.com/news/sony-responds-after-pc-games-including-helldivers-2-disappear-in-uk/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sony-responds-after-pc-games-including-helldivers-2-disappear-in-uk/",
+          "titre": "Sony responds after PC games including Helldivers 2 disappear in UK"
         }
       ]
     },
@@ -599,7 +563,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -617,7 +581,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -635,7 +599,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -653,7 +617,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -671,7 +635,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -689,7 +653,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -707,13 +671,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/monster-hunter-wilds-edit-characters-capcom-microtransaction",
           "titre": "Monster Hunter Wilds will soon stop charging players to edit their characters as Capcom scraps the game's worst microtransaction"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-beta-launch-times-how-to-sign-up-a",
+      "titre": "World of Warcraft: Forever beta launch times: How to sign up and play Blizzard's twist on WoW Classic",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-beta-launch-times-how-to-sign-up-and-play-blizzards-twist-on-wow-classic/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 11.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-beta-launch-times-how-to-sign-up-and-play-blizzards-twist-on-wow-classic/",
+          "titre": "World of Warcraft: Forever beta launch times: How to sign up and play Blizzard's twist on WoW Classic"
         }
       ]
     },
@@ -725,7 +707,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -743,7 +725,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -761,7 +743,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -779,8 +761,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -797,8 +779,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -815,8 +797,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -833,8 +815,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -851,8 +833,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -869,8 +851,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -887,8 +869,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -905,8 +887,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -923,8 +905,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -941,8 +923,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -959,8 +941,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -977,8 +959,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -995,7 +977,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1013,7 +995,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +1013,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,7 +1031,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 15.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,7 +1049,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1085,7 +1067,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1103,7 +1085,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 15.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1121,7 +1103,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1139,7 +1121,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 17.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1157,7 +1139,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1168,20 +1150,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sakurai-believes-industry-will-slowly-die-without-innovation",
-      "titre": "Sakurai Believes Industry Will \"Slowly Die\" Without Innovation As He Discontinues Game Designers Award",
-      "url": "https://www.nintendolife.com/news/2026/09/sakurai-believes-industry-will-slowly-die-without-innovation-as-he-discontinues-game-designers-award",
+      "id": "two-point-museum-is-getting-rides-relics-dlc-which-looks-lik",
+      "titre": "Two Point Museum is getting Rides & Relics DLC, which looks like a new Theme Park game in all but name",
+      "url": "https://www.videogameschronicle.com/news/two-point-museum-is-getting-rides-relics-dlc-which-looks-like-a-new-theme-park-game-in-all-but-name/",
       "sources": [
-        "Nintendo Life"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/sakurai-believes-industry-will-slowly-die-without-innovation-as-he-discontinues-game-designers-award",
-          "titre": "Sakurai Believes Industry Will \"Slowly Die\" Without Innovation As He Discontinues Game Designers Award"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/two-point-museum-is-getting-rides-relics-dlc-which-looks-like-a-new-theme-park-game-in-all-but-name/",
+          "titre": "Two Point Museum is getting Rides & Relics DLC, which looks like a new Theme Park game in all but name"
         }
       ]
     }
