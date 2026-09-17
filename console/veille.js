@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "17/09/2026 à 00h26",
+  "collecte": "17/09/2026 à 02h20",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 6.1,
+      "heures": 8.0,
       "chaleur": 18,
       "liens": [
         {
@@ -48,7 +48,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 5.6,
+      "heures": 7.5,
       "chaleur": 12,
       "liens": [
         {
@@ -73,7 +73,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 12,
       "liens": [
         {
@@ -103,7 +103,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 14.9,
+      "heures": 16.8,
       "chaleur": 11,
       "liens": [
         {
@@ -133,7 +133,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 5.2,
+      "heures": 7.1,
       "chaleur": 10,
       "liens": [
         {
@@ -154,6 +154,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "nintendo-store-adds-some-new-exclusives-for-switch-online-me",
+      "titre": "Nintendo Store Adds Some New Exclusives For Switch Online Members (North America)",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-store-adds-some-new-exclusives-for-switch-online-members-north-america",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nintendo-store-adds-some-new-exclusives-for-switch-online-members-north-america",
+          "titre": "Nintendo Store Adds Some New Exclusives For Switch Online Members (North America)"
+        }
+      ]
+    },
+    {
+      "id": "zelda-ocarina-of-time-on-switch-2-will-support-vrr-in-docked",
+      "titre": "Zelda: Ocarina Of Time On Switch 2 Will Support VRR In Docked Mode",
+      "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-on-switch-2-will-support-vrr-in-docked-mode",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-on-switch-2-will-support-vrr-in-docked-mode",
+          "titre": "Zelda: Ocarina Of Time On Switch 2 Will Support VRR In Docked Mode"
+        }
+      ]
+    },
+    {
       "id": "endless-legend-2-review",
       "titre": "Endless Legend 2 review",
       "url": "https://www.pcgamer.com/games/strategy/endless-legend-2-review/",
@@ -162,7 +198,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 1.2,
+      "heures": 3.1,
       "chaleur": 9,
       "liens": [
         {
@@ -186,7 +222,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 8.9,
+      "heures": 10.8,
       "chaleur": 9,
       "liens": [
         {
@@ -202,6 +238,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "tomodachi-life-appears-to-be-getting-a-switch-lite-bundle-in",
+      "titre": "Tomodachi Life Appears To Be Getting A Switch Lite Bundle In Europe",
+      "url": "https://www.nintendolife.com/news/2026/09/tomodachi-life-appears-to-be-getting-a-switch-lite-bundle-in-europe",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/tomodachi-life-appears-to-be-getting-a-switch-lite-bundle-in-europe",
+          "titre": "Tomodachi Life Appears To Be Getting A Switch Lite Bundle In Europe"
+        }
+      ]
+    },
+    {
       "id": "shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-late",
       "titre": "Shinji Mikami to be inducted into the AIAS Hall of Fame later this week",
       "url": "https://www.gamesindustry.biz/shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-later-this-week",
@@ -210,7 +264,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 4.1,
+      "heures": 6.0,
       "chaleur": 7,
       "liens": [
         {
@@ -234,7 +288,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 6.4,
+      "heures": 8.3,
       "chaleur": 7,
       "liens": [
         {
@@ -258,7 +312,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 7.1,
+      "heures": 9.0,
       "chaleur": 7,
       "liens": [
         {
@@ -281,31 +335,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5s-become-a-celebrity-mod-is-almost-weirdly-fully-featured/",
           "titre": "GTA 5's 'Become a celebrity' mod is almost weirdly fully featured"
-        }
-      ]
-    },
-    {
-      "id": "musicians-including-travis-scott-keith-richards-and-future-h",
-      "titre": "Musicians including Travis Scott, Keith Richards and Future have started teasing that they’ll be in GTA 6",
-      "url": "https://www.videogameschronicle.com/news/musicians-including-travis-scott-keith-richards-and-future-have-started-teasing-that-theyll-be-in-gta-6/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/musicians-including-travis-scott-keith-richards-and-future-have-started-teasing-that-theyll-be-in-gta-6/",
-          "titre": "Musicians including Travis Scott, Keith Richards and Future have started teasing that they’ll be in GTA 6"
         }
       ]
     },
@@ -317,7 +353,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.7,
       "chaleur": 7,
       "liens": [
         {
@@ -335,7 +371,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -353,67 +389,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/sony-responds-after-pc-games-including-helldivers-2-disappear-in-uk/",
           "titre": "Sony responds after PC games including Helldivers 2 disappear in UK"
-        }
-      ]
-    },
-    {
-      "id": "get-a-good-look-at-control-resonant-s-otherworldly-bosses-in",
-      "titre": "Get a good look at Control Resonant's otherworldly bosses in a PC Gaming Show exclusive extended interview",
-      "url": "https://www.pcgamer.com/games/action/get-a-good-look-at-control-resonants-otherworldly-bosses-in-a-pc-gaming-show-exclusive-extended-interview/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/get-a-good-look-at-control-resonants-otherworldly-bosses-in-a-pc-gaming-show-exclusive-extended-interview/",
-          "titre": "Get a good look at Control Resonant's otherworldly bosses in a PC Gaming Show exclusive extended interview"
-        }
-      ]
-    },
-    {
-      "id": "hyper-light-studio-heart-machine-lays-off-nearly-everyone-af",
-      "titre": "Hyper Light studio Heart Machine lays off 'nearly everyone' after publishing deal for unannounced game falls through",
-      "url": "https://www.pcgamer.com/gaming-industry/hyper-light-studio-heart-machine-lays-off-nearly-everyone-after-publisher-deal-for-unannounced-game-falls-through/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/hyper-light-studio-heart-machine-lays-off-nearly-everyone-after-publisher-deal-for-unannounced-game-falls-through/",
-          "titre": "Hyper Light studio Heart Machine lays off 'nearly everyone' after publishing deal for unannounced game falls through"
-        }
-      ]
-    },
-    {
-      "id": "the-war-thunder-team-looks-back-on-14-years-of-service-from",
-      "titre": "The War Thunder team looks back on 14 years of service: from planes and ponies to tanks, choppers, and even frontline infantry",
-      "url": "https://www.videogameschronicle.com/news/the-war-thunder-team-looks-back-on-14-years-of-service-from-planes-and-ponies-to-tanks-choppers-and-even-frontline-infantry/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-war-thunder-team-looks-back-on-14-years-of-service-from-planes-and-ponies-to-tanks-choppers-and-even-frontline-infantry/",
-          "titre": "The War Thunder team looks back on 14 years of service: from planes and ponies to tanks, choppers, and even frontline infantry"
         }
       ]
     },
@@ -425,7 +407,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 6,
       "liens": [
         {
@@ -443,7 +425,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 6,
       "liens": [
         {
@@ -454,20 +436,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "we-re-trying-to-make-it-easier-valve-confirm-the-steam-fram",
-      "titre": "\"We're trying to make it easier\": Valve confirm the Steam Frame is just the start of plans to get Steam games working on compatibility-challenged ARM PCs",
-      "url": "https://www.rockpapershotgun.com/were-trying-to-make-it-easier-valve-confirm-the-steam-frame-is-just-the-start-of-plans-to-get-steam-games-working-on-compatibility-challenged-arm-pcs",
+      "id": "musicians-including-travis-scott-keith-richards-and-future-h",
+      "titre": "Musicians including Travis Scott, Keith Richards and Future have started teasing that they’ll be in GTA 6",
+      "url": "https://www.videogameschronicle.com/news/musicians-including-travis-scott-keith-richards-and-future-have-started-teasing-that-theyll-be-in-gta-6/",
       "sources": [
-        "Rock Paper Shotgun"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 11.4,
+      "heures": 12.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/were-trying-to-make-it-easier-valve-confirm-the-steam-frame-is-just-the-start-of-plans-to-get-steam-games-working-on-compatibility-challenged-arm-pcs",
-          "titre": "\"We're trying to make it easier\": Valve confirm the Steam Frame is just the start of plans to get Steam games working on compatibility-challenged ARM PCs"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/musicians-including-travis-scott-keith-richards-and-future-have-started-teasing-that-theyll-be-in-gta-6/",
+          "titre": "Musicians including Travis Scott, Keith Richards and Future have started teasing that they’ll be in GTA 6"
         }
       ]
     },
@@ -480,7 +462,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 12.7,
+      "heures": 14.6,
       "chaleur": 6,
       "liens": [
         {
@@ -504,7 +486,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 14.5,
+      "heures": 16.3,
       "chaleur": 6,
       "liens": [
         {
@@ -520,26 +502,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "bohemia-interactive-takes-minority-stake-in-everwind-develop",
-      "titre": "Bohemia Interactive takes minority stake in Everwind developer Enjoy Studio",
-      "url": "https://www.gamesindustry.biz/bohemia-interactive-takes-minority-stake-in-everwind-developer-enjoy-studio",
+      "id": "we-re-trying-to-make-it-easier-valve-confirm-the-steam-fram",
+      "titre": "\"We're trying to make it easier\": Valve confirm the Steam Frame is just the start of plans to get Steam games working on compatibility-challenged ARM PCs",
+      "url": "https://www.rockpapershotgun.com/were-trying-to-make-it-easier-valve-confirm-the-steam-frame-is-just-the-start-of-plans-to-get-steam-games-working-on-compatibility-challenged-arm-pcs",
       "sources": [
-        "Game Developer",
-        "GamesIndustry.biz"
+        "Rock Paper Shotgun"
       ],
-      "reprises": 2,
-      "heures": 16.5,
-      "chaleur": 6,
+      "reprises": 1,
+      "heures": 13.3,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/bohemia-interactive-takes-minority-stake-in-everwind-developer-enjoy-studio",
-          "titre": "Bohemia Interactive takes minority stake in Everwind developer Enjoy Studio"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/bohemia-interactive-acquires-minority-stake-in-everwind-developer-enjoy-studio",
-          "titre": "Bohemia Interactive acquires minority stake in Everwind developer Enjoy Studio"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/were-trying-to-make-it-easier-valve-confirm-the-steam-frame-is-just-the-start-of-plans-to-get-steam-games-working-on-compatibility-challenged-arm-pcs",
+          "titre": "\"We're trying to make it easier\": Valve confirm the Steam Frame is just the start of plans to get Steam games working on compatibility-challenged ARM PCs"
         }
       ]
     },
@@ -551,7 +527,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.7,
       "chaleur": 5,
       "liens": [
         {
@@ -569,7 +545,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.3,
       "chaleur": 5,
       "liens": [
         {
@@ -587,7 +563,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 17.6,
       "chaleur": 5,
       "liens": [
         {
@@ -605,7 +581,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 19.8,
       "chaleur": 5,
       "liens": [
         {
@@ -616,38 +592,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "new-zelda-tears-of-the-kingdom-art-book-now-arriving-in-2027",
-      "titre": "New Zelda: Tears Of The Kingdom Art Book Now Arriving In 2027",
-      "url": "https://www.nintendolife.com/news/2026/09/new-zelda-tears-of-the-kingdom-art-book-now-arriving-in-2027",
+      "id": "get-a-good-look-at-control-resonant-s-otherworldly-bosses-in",
+      "titre": "Get a good look at Control Resonant's otherworldly bosses in a PC Gaming Show exclusive extended interview",
+      "url": "https://www.pcgamer.com/games/action/get-a-good-look-at-control-resonants-otherworldly-bosses-in-a-pc-gaming-show-exclusive-extended-interview/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.7,
-      "chaleur": 5,
+      "heures": 4.6,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/new-zelda-tears-of-the-kingdom-art-book-now-arriving-in-2027",
-          "titre": "New Zelda: Tears Of The Kingdom Art Book Now Arriving In 2027"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/get-a-good-look-at-control-resonants-otherworldly-bosses-in-a-pc-gaming-show-exclusive-extended-interview/",
+          "titre": "Get a good look at Control Resonant's otherworldly bosses in a PC Gaming Show exclusive extended interview"
         }
       ]
     },
     {
-      "id": "why-switching-main-characters-for-your-game-s-sequel-might-b",
-      "titre": "Why switching main characters for your game's sequel might be a mistake",
-      "url": "https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake",
+      "id": "hyper-light-studio-heart-machine-lays-off-nearly-everyone-af",
+      "titre": "Hyper Light studio Heart Machine lays off 'nearly everyone' after publishing deal for unannounced game falls through",
+      "url": "https://www.pcgamer.com/gaming-industry/hyper-light-studio-heart-machine-lays-off-nearly-everyone-after-publisher-deal-for-unannounced-game-falls-through/",
       "sources": [
-        "GamesIndustry.biz"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 35.9,
-      "chaleur": 5,
+      "heures": 5.3,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake",
-          "titre": "Why switching main characters for your game's sequel might be a mistake"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/hyper-light-studio-heart-machine-lays-off-nearly-everyone-after-publisher-deal-for-unannounced-game-falls-through/",
+          "titre": "Hyper Light studio Heart Machine lays off 'nearly everyone' after publishing deal for unannounced game falls through"
+        }
+      ]
+    },
+    {
+      "id": "the-war-thunder-team-looks-back-on-14-years-of-service-from",
+      "titre": "The War Thunder team looks back on 14 years of service: from planes and ponies to tanks, choppers, and even frontline infantry",
+      "url": "https://www.videogameschronicle.com/news/the-war-thunder-team-looks-back-on-14-years-of-service-from-planes-and-ponies-to-tanks-choppers-and-even-frontline-infantry/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-war-thunder-team-looks-back-on-14-years-of-service-from-planes-and-ponies-to-tanks-choppers-and-even-frontline-infantry/",
+          "titre": "The War Thunder team looks back on 14 years of service: from planes and ponies to tanks, choppers, and even frontline infantry"
         }
       ]
     },
@@ -659,7 +653,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.0,
       "chaleur": 4,
       "liens": [
         {
@@ -677,7 +671,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -695,7 +689,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -713,7 +707,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -731,7 +725,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -749,7 +743,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -767,7 +761,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -785,7 +779,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -803,7 +797,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -821,7 +815,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -839,7 +833,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -857,7 +851,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -875,7 +869,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -893,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -911,7 +905,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -929,7 +923,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -947,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -965,7 +959,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -983,7 +977,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1001,8 +995,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1019,8 +1013,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1037,8 +1031,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1055,8 +1049,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -1073,8 +1067,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1091,8 +1085,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1109,8 +1103,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 13.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1127,7 +1121,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1145,7 +1139,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 15.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1163,7 +1157,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1181,7 +1175,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.7,
+      "heures": 16.6,
       "chaleur": 3,
       "liens": [
         {
