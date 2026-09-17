@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "16/09/2026 à 22h19",
+  "collecte": "17/09/2026 à 00h26",
   "seuil": 14,
   "sujets": [
     {
@@ -14,8 +14,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 3.9,
-      "chaleur": 20,
+      "heures": 6.1,
+      "chaleur": 18,
       "liens": [
         {
           "source": "PC Gamer",
@@ -48,8 +48,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 3.5,
-      "chaleur": 14,
+      "heures": 5.6,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Eurogamer",
@@ -64,36 +64,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "wardogs-studio-ceo-issues-new-statement-after-backlash-for-s",
-      "titre": "Wardogs studio CEO issues new statement, after backlash for saying his studio won't hire people who \"constantly tweet anti-crunch messaging\"",
-      "url": "https://www.eurogamer.net/wardogs-ceo-new-response-crunch-backlash-social-media-monitoring-statement",
-      "sources": [
-        "Eurogamer",
-        "Game Developer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 3.1,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/wardogs-ceo-new-response-crunch-backlash-social-media-monitoring-statement",
-          "titre": "Wardogs studio CEO issues new statement, after backlash for saying his studio won't hire people who \"constantly tweet anti-crunch messaging\""
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/they-often-dont-make-it-in-the-door-wardogs-studio-bulkhead-check-for-anti-crunch-messaging-on-prospective-hires-social-media-ceo-says",
-          "titre": "\"They often don’t make it in the door\": Wardogs studio Bulkhead check for \"anti-crunch messaging\" on prospective hires' social media, CEO says"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media",
-          "titre": "Wardogs lead says the studio won't hire people who decry crunch on social media"
-        }
-      ]
-    },
-    {
       "id": "fire-emblem-fortune-s-weave-gets-a-day-one-update-here-are-t",
       "titre": "Fire Emblem: Fortune's Weave Gets A Day One Update, Here Are The Patch Notes",
       "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-gets-a-day-one-update-here-are-the-patch-notes",
@@ -103,7 +73,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 12,
       "liens": [
         {
@@ -133,7 +103,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 12.7,
+      "heures": 14.9,
       "chaleur": 11,
       "liens": [
         {
@@ -154,26 +124,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-late",
-      "titre": "Shinji Mikami to be inducted into the AIAS Hall of Fame later this week",
-      "url": "https://www.gamesindustry.biz/shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-later-this-week",
+      "id": "wardogs-studio-ceo-issues-new-statement-after-backlash-for-s",
+      "titre": "Wardogs studio CEO issues new statement, after backlash for saying his studio won't hire people who \"constantly tweet anti-crunch messaging\"",
+      "url": "https://www.eurogamer.net/wardogs-ceo-new-response-crunch-backlash-social-media-monitoring-statement",
       "sources": [
+        "Eurogamer",
         "Game Developer",
-        "GamesIndustry.biz"
+        "Rock Paper Shotgun"
       ],
-      "reprises": 2,
-      "heures": 2.0,
-      "chaleur": 9,
+      "reprises": 3,
+      "heures": 5.2,
+      "chaleur": 10,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-later-this-week",
-          "titre": "Shinji Mikami to be inducted into the AIAS Hall of Fame later this week"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/wardogs-ceo-new-response-crunch-backlash-social-media-monitoring-statement",
+          "titre": "Wardogs studio CEO issues new statement, after backlash for saying his studio won't hire people who \"constantly tweet anti-crunch messaging\""
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/they-often-dont-make-it-in-the-door-wardogs-studio-bulkhead-check-for-anti-crunch-messaging-on-prospective-hires-social-media-ceo-says",
+          "titre": "\"They often don’t make it in the door\": Wardogs studio Bulkhead check for \"anti-crunch messaging\" on prospective hires' social media, CEO says"
         },
         {
           "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/shinji-mikami-to-join-aias-hall-of-fame-at-2026-dice-awards",
-          "titre": "Shinji Mikami to join AIAS Hall of Fame at 2026 DICE Awards"
+          "url": "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media",
+          "titre": "Wardogs lead says the studio won't hire people who decry crunch on social media"
+        }
+      ]
+    },
+    {
+      "id": "endless-legend-2-review",
+      "titre": "Endless Legend 2 review",
+      "url": "https://www.pcgamer.com/games/strategy/endless-legend-2-review/",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 1.2,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/endless-legend-2-review/",
+          "titre": "Endless Legend 2 review"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/15-years-ago-people-understood-it-was-an-unfinished-game-as-endless-legend-2-hits-10-amplitude-reflect-on-how-early-access-has-changed",
+          "titre": "\"15 years ago, people understood it was an unfinished game\": As Endless Legend 2 hits 1.0, Amplitude reflect on how early access has changed"
         }
       ]
     },
@@ -186,7 +186,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 6.8,
+      "heures": 8.9,
       "chaleur": 9,
       "liens": [
         {
@@ -202,20 +202,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "microsoft-doesn-t-dismiss-rumours-a-major-xbox-game-pass-sha",
-      "titre": "Microsoft doesn't dismiss rumours a major Xbox Game Pass shake-up is on the way, which reportedly removes day-one game offerings entirely",
-      "url": "https://www.eurogamer.net/xbox-game-pass-big-changes-2027-rumour-microsoft-responds",
+      "id": "shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-late",
+      "titre": "Shinji Mikami to be inducted into the AIAS Hall of Fame later this week",
+      "url": "https://www.gamesindustry.biz/shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-later-this-week",
       "sources": [
-        "Eurogamer"
+        "Game Developer",
+        "GamesIndustry.biz"
       ],
-      "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 8,
+      "reprises": 2,
+      "heures": 4.1,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-game-pass-big-changes-2027-rumour-microsoft-responds",
-          "titre": "Microsoft doesn't dismiss rumours a major Xbox Game Pass shake-up is on the way, which reportedly removes day-one game offerings entirely"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-later-this-week",
+          "titre": "Shinji Mikami to be inducted into the AIAS Hall of Fame later this week"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/shinji-mikami-to-join-aias-hall-of-fame-at-2026-dice-awards",
+          "titre": "Shinji Mikami to join AIAS Hall of Fame at 2026 DICE Awards"
         }
       ]
     },
@@ -228,7 +234,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 4.3,
+      "heures": 6.4,
       "chaleur": 7,
       "liens": [
         {
@@ -252,7 +258,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 5.0,
+      "heures": 7.1,
       "chaleur": 7,
       "liens": [
         {
@@ -275,7 +281,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 7,
       "liens": [
         {
@@ -293,7 +299,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 11.0,
       "chaleur": 7,
       "liens": [
         {
@@ -304,26 +310,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "bayonetta-will-join-sonic-racing-crossworlds-in-a-free-updat",
-      "titre": "Bayonetta Will Join Sonic Racing: CrossWorlds in a Free Update 'Soon' on PS5, PS4",
-      "url": "https://www.pushsquare.com/news/2026/09/bayonetta-will-join-sonic-racing-crossworlds-in-a-free-update-soon-on-ps5-ps4",
+      "id": "microsoft-doesn-t-dismiss-rumours-a-major-xbox-game-pass-sha",
+      "titre": "Microsoft doesn't dismiss rumours a major Xbox Game Pass shake-up is on the way, which reportedly removes day-one game offerings entirely",
+      "url": "https://www.eurogamer.net/xbox-game-pass-big-changes-2027-rumour-microsoft-responds",
       "sources": [
-        "Nintendo Life",
-        "Push Square"
+        "Eurogamer"
       ],
-      "reprises": 2,
-      "heures": 10.6,
+      "reprises": 1,
+      "heures": 12.8,
       "chaleur": 7,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/bayonetta-will-join-sonic-racing-crossworlds-in-a-free-update-soon-on-ps5-ps4",
-          "titre": "Bayonetta Will Join Sonic Racing: CrossWorlds in a Free Update 'Soon' on PS5, PS4"
-        },
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-game-pass-big-changes-2027-rumour-microsoft-responds",
+          "titre": "Microsoft doesn't dismiss rumours a major Xbox Game Pass shake-up is on the way, which reportedly removes day-one game offerings entirely"
+        }
+      ]
+    },
+    {
+      "id": "preview-silver-palace-is-a-gorgeous-gothic-ps5-rpg-but-so-fa",
+      "titre": "Preview: Silver Palace Is a Gorgeous Gothic PS5 RPG, But So Far I've Played It Before",
+      "url": "https://www.pushsquare.com/previews/silver-palace-is-a-gorgeous-gothic-ps5-rpg-but-so-far-ive-played-it-before",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/sonic-racings-first-free-character-update-of-year-two-is-bayonetta",
-          "titre": "Sonic Racing's First Free Character Update Of 'Year Two' Is Bayonetta"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/previews/silver-palace-is-a-gorgeous-gothic-ps5-rpg-but-so-far-ive-played-it-before",
+          "titre": "Preview: Silver Palace Is a Gorgeous Gothic PS5 RPG, But So Far I've Played It Before"
+        }
+      ]
+    },
+    {
+      "id": "sony-responds-after-pc-games-including-helldivers-2-disappea",
+      "titre": "Sony responds after PC games including Helldivers 2 disappear in UK",
+      "url": "https://www.videogameschronicle.com/news/sony-responds-after-pc-games-including-helldivers-2-disappear-in-uk/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sony-responds-after-pc-games-including-helldivers-2-disappear-in-uk/",
+          "titre": "Sony responds after PC games including Helldivers 2 disappear in UK"
         }
       ]
     },
@@ -335,7 +371,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -353,7 +389,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -371,67 +407,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/the-war-thunder-team-looks-back-on-14-years-of-service-from-planes-and-ponies-to-tanks-choppers-and-even-frontline-infantry/",
           "titre": "The War Thunder team looks back on 14 years of service: from planes and ponies to tanks, choppers, and even frontline infantry"
-        }
-      ]
-    },
-    {
-      "id": "marathon-creative-director-shoots-down-rumored-merge-with-de",
-      "titre": "Marathon creative director shoots down rumored merge with Destiny 2: 'Please don't believe everything you read online'",
-      "url": "https://www.pcgamer.com/games/fps/marathon-creative-director-shoots-down-rumored-merge-with-destiny-2-please-dont-believe-everything-you-read-online/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/marathon-creative-director-shoots-down-rumored-merge-with-destiny-2-please-dont-believe-everything-you-read-online/",
-          "titre": "Marathon creative director shoots down rumored merge with Destiny 2: 'Please don't believe everything you read online'"
-        }
-      ]
-    },
-    {
-      "id": "the-best-videogame-movie-ever-the-first-reviews-of-zach-cre",
-      "titre": "'The best videogame movie' ever? The first reviews of Zach Cregger's Resident Evil adaptation are absolutely glowing",
-      "url": "https://www.pcgamer.com/movies-tv/multiple-reviews-call-resident-evil-the-best-videogame-movie-ever/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/multiple-reviews-call-resident-evil-the-best-videogame-movie-ever/",
-          "titre": "'The best videogame movie' ever? The first reviews of Zach Cregger's Resident Evil adaptation are absolutely glowing"
-        }
-      ]
-    },
-    {
-      "id": "disney-dreamlight-valley-s-next-expansion-the-keepsake-sea-p",
-      "titre": "Disney Dreamlight Valley’s next expansion The Keepsake Sea plunges new depths, but in the best way possible",
-      "url": "https://www.videogameschronicle.com/features/disney-dreamlight-valleys-next-expansion-the-keepsake-sea-plunges-new-depths-but-in-the-best-way-possible/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/disney-dreamlight-valleys-next-expansion-the-keepsake-sea-plunges-new-depths-but-in-the-best-way-possible/",
-          "titre": "Disney Dreamlight Valley’s next expansion The Keepsake Sea plunges new depths, but in the best way possible"
         }
       ]
     },
@@ -443,7 +425,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 6,
       "liens": [
         {
@@ -461,7 +443,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 6,
       "liens": [
         {
@@ -479,7 +461,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
@@ -490,20 +472,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "here-s-the-second-wave-of-xbox-game-pass-games-coming-in-sep",
-      "titre": "Here's the second wave of Xbox Game Pass games coming in September",
-      "url": "https://www.eurogamer.net/xbox-game-pass-second-wave-september-gears-of-war",
+      "id": "bayonetta-will-join-sonic-racing-crossworlds-in-a-free-updat",
+      "titre": "Bayonetta Will Join Sonic Racing: CrossWorlds in a Free Update 'Soon' on PS5, PS4",
+      "url": "https://www.pushsquare.com/news/2026/09/bayonetta-will-join-sonic-racing-crossworlds-in-a-free-update-soon-on-ps5-ps4",
       "sources": [
-        "Eurogamer"
+        "Nintendo Life",
+        "Push Square"
       ],
-      "reprises": 1,
-      "heures": 10.6,
+      "reprises": 2,
+      "heures": 12.7,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-game-pass-second-wave-september-gears-of-war",
-          "titre": "Here's the second wave of Xbox Game Pass games coming in September"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/bayonetta-will-join-sonic-racing-crossworlds-in-a-free-update-soon-on-ps5-ps4",
+          "titre": "Bayonetta Will Join Sonic Racing: CrossWorlds in a Free Update 'Soon' on PS5, PS4"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/sonic-racings-first-free-character-update-of-year-two-is-bayonetta",
+          "titre": "Sonic Racing's First Free Character Update Of 'Year Two' Is Bayonetta"
         }
       ]
     },
@@ -516,7 +504,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 12.3,
+      "heures": 14.5,
       "chaleur": 6,
       "liens": [
         {
@@ -540,7 +528,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 14.4,
+      "heures": 16.5,
       "chaleur": 6,
       "liens": [
         {
@@ -556,20 +544,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "multiple-music-artists-tease-gta-6-collaborations",
-      "titre": "Multiple Music Artists Tease GTA 6 Collaborations",
-      "url": "https://www.pushsquare.com/news/2026/09/multiple-music-artists-tease-gta-6-collaborations",
+      "id": "here-s-the-second-wave-of-xbox-game-pass-games-coming-in-sep",
+      "titre": "Here's the second wave of Xbox Game Pass games coming in September",
+      "url": "https://www.eurogamer.net/xbox-game-pass-second-wave-september-gears-of-war",
       "sources": [
-        "Push Square"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.6,
-      "chaleur": 6,
+      "heures": 12.8,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/multiple-music-artists-tease-gta-6-collaborations",
-          "titre": "Multiple Music Artists Tease GTA 6 Collaborations"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-game-pass-second-wave-september-gears-of-war",
+          "titre": "Here's the second wave of Xbox Game Pass games coming in September"
         }
       ]
     },
@@ -581,7 +569,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -599,7 +587,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.7,
       "chaleur": 5,
       "liens": [
         {
@@ -617,7 +605,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.9,
       "chaleur": 5,
       "liens": [
         {
@@ -635,7 +623,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.6,
+      "heures": 23.7,
       "chaleur": 5,
       "liens": [
         {
@@ -653,13 +641,67 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 33.8,
+      "heures": 35.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake",
           "titre": "Why switching main characters for your game's sequel might be a mistake"
+        }
+      ]
+    },
+    {
+      "id": "marathon-creative-director-shoots-down-rumored-merge-with-de",
+      "titre": "Marathon creative director shoots down rumored merge with Destiny 2: 'Please don't believe everything you read online'",
+      "url": "https://www.pcgamer.com/games/fps/marathon-creative-director-shoots-down-rumored-merge-with-destiny-2-please-dont-believe-everything-you-read-online/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/marathon-creative-director-shoots-down-rumored-merge-with-destiny-2-please-dont-believe-everything-you-read-online/",
+          "titre": "Marathon creative director shoots down rumored merge with Destiny 2: 'Please don't believe everything you read online'"
+        }
+      ]
+    },
+    {
+      "id": "the-best-videogame-movie-ever-the-first-reviews-of-zach-cre",
+      "titre": "'The best videogame movie' ever? The first reviews of Zach Cregger's Resident Evil adaptation are absolutely glowing",
+      "url": "https://www.pcgamer.com/movies-tv/multiple-reviews-call-resident-evil-the-best-videogame-movie-ever/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/multiple-reviews-call-resident-evil-the-best-videogame-movie-ever/",
+          "titre": "'The best videogame movie' ever? The first reviews of Zach Cregger's Resident Evil adaptation are absolutely glowing"
+        }
+      ]
+    },
+    {
+      "id": "disney-dreamlight-valley-s-next-expansion-the-keepsake-sea-p",
+      "titre": "Disney Dreamlight Valley’s next expansion The Keepsake Sea plunges new depths, but in the best way possible",
+      "url": "https://www.videogameschronicle.com/features/disney-dreamlight-valleys-next-expansion-the-keepsake-sea-plunges-new-depths-but-in-the-best-way-possible/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/features/disney-dreamlight-valleys-next-expansion-the-keepsake-sea-plunges-new-depths-but-in-the-best-way-possible/",
+          "titre": "Disney Dreamlight Valley’s next expansion The Keepsake Sea plunges new depths, but in the best way possible"
         }
       ]
     },
@@ -671,7 +713,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -689,31 +731,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/previews/crazy-taxi-world-tours-beta-test-transported-me-back-to-a-bygone-era-of-online-multiplayer",
           "titre": "Preview: Crazy Taxi: World Tour's Beta Test Transported Me Back to a Bygone Era of Online Multiplayer"
-        }
-      ]
-    },
-    {
-      "id": "15-years-ago-people-understood-it-was-an-unfinished-game-as",
-      "titre": "\"15 years ago, people understood it was an unfinished game\": As Endless Legend 2 hits 1.0, Amplitude reflect on how early access has changed",
-      "url": "https://www.rockpapershotgun.com/15-years-ago-people-understood-it-was-an-unfinished-game-as-endless-legend-2-hits-10-amplitude-reflect-on-how-early-access-has-changed",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/15-years-ago-people-understood-it-was-an-unfinished-game-as-endless-legend-2-hits-10-amplitude-reflect-on-how-early-access-has-changed",
-          "titre": "\"15 years ago, people understood it was an unfinished game\": As Endless Legend 2 hits 1.0, Amplitude reflect on how early access has changed"
         }
       ]
     },
@@ -725,7 +749,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -743,7 +767,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -761,7 +785,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -779,7 +803,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -797,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +839,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -833,7 +857,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -851,7 +875,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -869,7 +893,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +911,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +929,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +947,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +965,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +983,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -977,31 +1001,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/rpg/aniimo-is-it-gacha-monetization-explained/",
           "titre": "Is Aniimo a gacha game?"
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-producer-says-it-s-scary-to-work-with-another",
-      "titre": "The Witcher 3 producer says it's scary to work with another studio on the game's expansion: 'I also think twice about leaving my baby with someone'",
-      "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3-producer-says-its-scary-to-work-with-another-studio-on-the-games-expansion-i-also-think-twice-about-leaving-my-baby-with-someone/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 8.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3-producer-says-its-scary-to-work-with-another-studio-on-the-games-expansion-i-also-think-twice-about-leaving-my-baby-with-someone/",
-          "titre": "The Witcher 3 producer says it's scary to work with another studio on the game's expansion: 'I also think twice about leaving my baby with someone'"
         }
       ]
     },
@@ -1013,7 +1019,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,7 +1037,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1049,7 +1055,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1067,7 +1073,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1085,7 +1091,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1103,7 +1109,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1121,8 +1127,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1139,8 +1145,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 4,
+      "heures": 13.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1157,8 +1163,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1175,7 +1181,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.7,
       "chaleur": 3,
       "liens": [
         {
