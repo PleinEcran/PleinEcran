@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "17/09/2026 à 22h18",
+  "collecte": "18/09/2026 à 00h26",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 19,
       "liens": [
         {
@@ -46,36 +46,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "report-mindseye-developer-build-a-rocket-boy-seemingly-closi",
-      "titre": "Report: MindsEye developer Build a Rocket Boy seemingly closing after more layoffs",
-      "url": "https://www.gamedeveloper.com/business/report-mindseye-developer-build-a-rocket-boy-seemingly-closing-after-more-layoffs",
-      "sources": [
-        "Game Developer",
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 28.3,
-      "chaleur": 14,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/report-mindseye-developer-build-a-rocket-boy-seemingly-closing-after-more-layoffs",
-          "titre": "Report: MindsEye developer Build a Rocket Boy seemingly closing after more layoffs"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy",
-          "titre": "MindsEye developers report new round of layoffs at Build A Rocket Boy"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/mindseye-studio-build-a-rocket-boy-appear-to-be-making-fresh-redundancies-as-one-staffer-says-hes-helping-wrap-things-up-here-in-the-hr-department",
-          "titre": "MindsEye studio Build A Rocket Boy appear to be making fresh redundancies, as one staffer says he's \"helping wrap things up here in the HR department\""
-        }
-      ]
-    },
-    {
       "id": "the-blood-of-dawnwalker-sequel-may-not-have-the-divisive-tim",
       "titre": "The Blood of Dawnwalker sequel may not have the divisive time mechanic that so many players dislike: 'We will not force it,' game director says",
       "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-sequel-may-not-have-the-divisive-time-mechanic-that-so-many-players-dislike-we-will-not-force-it-game-director-says/",
@@ -85,7 +55,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 1.3,
+      "heures": 3.5,
       "chaleur": 12,
       "liens": [
         {
@@ -106,6 +76,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "mindseye-developers-report-new-round-of-layoffs-at-build-a-r",
+      "titre": "MindsEye developers report new round of layoffs at Build A Rocket Boy",
+      "url": "https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy",
+      "sources": [
+        "GamesIndustry.biz",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 30.9,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy",
+          "titre": "MindsEye developers report new round of layoffs at Build A Rocket Boy"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/mindseye-studio-build-a-rocket-boy-appear-to-be-making-fresh-redundancies-as-one-staffer-says-hes-helping-wrap-things-up-here-in-the-hr-department",
+          "titre": "MindsEye studio Build A Rocket Boy appear to be making fresh redundancies, as one staffer says he's \"helping wrap things up here in the HR department\""
+        }
+      ]
+    },
+    {
       "id": "zero-parades-director-s-cut-will-challenge-you-to-drive-a-st",
       "titre": "Zero Parades: Director's Cut will challenge you to drive a stolen truck through a busy roundabout while stoned out of your mind",
       "url": "https://www.pcgamer.com/games/rpg/zero-parades-directors-cut-will-challenge-you-to-drive-a-stolen-truck-through-a-busy-roundabout-while-stoned-out-of-your-mind/",
@@ -115,8 +109,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 2.9,
-      "chaleur": 12,
+      "heures": 5.1,
+      "chaleur": 10,
       "liens": [
         {
           "source": "PC Gamer",
@@ -144,8 +138,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 4.0,
-      "chaleur": 12,
+      "heures": 6.1,
+      "chaleur": 10,
       "liens": [
         {
           "source": "PC Gamer",
@@ -168,7 +162,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.4,
+      "heures": 11.5,
       "chaleur": 10,
       "liens": [
         {
@@ -192,7 +186,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 0.8,
+      "heures": 3.0,
       "chaleur": 9,
       "liens": [
         {
@@ -208,6 +202,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "if-you-can-t-get-enough-of-record-breaking-emmy-winner-matth",
+      "titre": "If you can't get enough of record-breaking Emmy winner Matthew Rhys, his newest TV series is based on an '80s Sega game, and is out now",
+      "url": "https://www.pcgamer.com/movies-tv/if-you-cant-get-enough-of-record-breaking-emmy-winner-matthew-rhys-his-newest-tv-series-is-based-on-an-80s-sega-game-and-is-out-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/if-you-cant-get-enough-of-record-breaking-emmy-winner-matthew-rhys-his-newest-tv-series-is-based-on-an-80s-sega-game-and-is-out-now/",
+          "titre": "If you can't get enough of record-breaking Emmy winner Matthew Rhys, his newest TV series is based on an '80s Sega game, and is out now"
+        }
+      ]
+    },
+    {
       "id": "aliens-fireteam-elite-2-switch-release-suffers-last-minute-d",
       "titre": "Aliens: Fireteam Elite 2 Switch Release Suffers Last-Minute Delay",
       "url": "https://www.nintendolife.com/news/2026/09/aliens-fireteam-elite-2-switch-release-suffers-last-minute-delay",
@@ -215,13 +227,37 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.7,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/aliens-fireteam-elite-2-switch-release-suffers-last-minute-delay",
           "titre": "Aliens: Fireteam Elite 2 Switch Release Suffers Last-Minute Delay"
+        }
+      ]
+    },
+    {
+      "id": "feature-playstation-is-the-only-platform-holder-at-tgs-2026",
+      "titre": "Feature: PlayStation Is the Only Platform Holder at TGS 2026, and It's Putting on a Show",
+      "url": "https://www.pushsquare.com/features/playstation-is-the-only-platform-holder-at-tgs-2026-and-its-putting-on-a-show",
+      "sources": [
+        "Game Developer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 12.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/playstation-is-the-only-platform-holder-at-tgs-2026-and-its-putting-on-a-show",
+          "titre": "Feature: PlayStation Is the Only Platform Holder at TGS 2026, and It's Putting on a Show"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/events/tokyo-game-show-tgs-",
+          "titre": "Tokyo Game Show (TGS)"
         }
       ]
     },
@@ -234,7 +270,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 12.4,
+      "heures": 14.6,
       "chaleur": 8,
       "liens": [
         {
@@ -257,7 +293,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.5,
+      "heures": 29.6,
       "chaleur": 8,
       "liens": [
         {
@@ -275,37 +311,13 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.6,
       "chaleur": 7,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/marketing/strauss-zelnick-says-gta-vi-needs-to-be-marketed-aggressively-despite-global-brand-awareness",
           "titre": "Take-Two CEO Strauss Zelnick says GTA VI needs to be 'marketed aggressively' despite global brand awareness"
-        }
-      ]
-    },
-    {
-      "id": "can-you-name-the-game-this-game-within-a-game-is-from",
-      "titre": "Can you name the game this game-within-a-game is from?",
-      "url": "https://www.pcgamer.com/games/can-you-name-the-game-this-game-within-a-game-is-from/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 4.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/can-you-name-the-game-this-game-within-a-game-is-from/",
-          "titre": "Can you name the game this game-within-a-game is from?"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/valor-mortis-40-usd-price-stacked-autumn-season",
-          "titre": "Valor Mortis is only $40 because its developer knows you'll be choosing from a lot of big games over this \"stacked\" autumn"
         }
       ]
     },
@@ -318,7 +330,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 7,
       "liens": [
         {
@@ -334,45 +346,9 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-the-album-announced-pre-orders-available-now",
-      "titre": "GTA 6: The Album Announced, Pre-Orders Available Now",
-      "url": "https://www.pushsquare.com/news/2026/09/gta-6-the-album-announced-pre-orders-available-now",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/gta-6-the-album-announced-pre-orders-available-now",
-          "titre": "GTA 6: The Album Announced, Pre-Orders Available Now"
-        }
-      ]
-    },
-    {
-      "id": "whoopsie-nintendo-made-a-bokoblin-boo-boo-in-its-daily-zelda",
-      "titre": "Whoopsie! Nintendo Made A Bokoblin Boo-Boo In Its Daily Zelda Quiz",
-      "url": "https://www.nintendolife.com/news/2026/09/whoopsie-nintendo-made-a-bokoblin-boo-boo-in-its-daily-zelda-quiz",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/whoopsie-nintendo-made-a-bokoblin-boo-boo-in-its-daily-zelda-quiz",
-          "titre": "Whoopsie! Nintendo Made A Bokoblin Boo-Boo In Its Daily Zelda Quiz"
-        }
-      ]
-    },
-    {
-      "id": "dice-summit",
-      "titre": "DICE Summit",
-      "url": "https://www.gamedeveloper.com/events/dice-summit",
+      "id": "gamescom",
+      "titre": "gamescom",
+      "url": "https://www.gamedeveloper.com/events/gamescom",
       "sources": [
         "Game Developer"
       ],
@@ -382,8 +358,206 @@ const VEILLE = {
       "liens": [
         {
           "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/events/dice-summit",
-          "titre": "DICE Summit"
+          "url": "https://www.gamedeveloper.com/events/gamescom",
+          "titre": "gamescom"
+        }
+      ]
+    },
+    {
+      "id": "bitsummit",
+      "titre": "BitSummit",
+      "url": "https://www.gamedeveloper.combitsummit.org",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.combitsummit.org",
+          "titre": "BitSummit"
+        }
+      ]
+    },
+    {
+      "id": "pax-west",
+      "titre": "PAX West",
+      "url": "https://www.gamedeveloper.comwest.paxsite.com",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.comwest.paxsite.com",
+          "titre": "PAX West"
+        }
+      ]
+    },
+    {
+      "id": "gamescom-latam",
+      "titre": "gamescom latam",
+      "url": "https://www.gamedeveloper.comlatam.gamescom.global",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.comlatam.gamescom.global",
+          "titre": "gamescom latam"
+        }
+      ]
+    },
+    {
+      "id": "the-game-awards",
+      "titre": "The Game Awards",
+      "url": "https://www.gamedeveloper.comthegameawards.com",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.comthegameawards.com",
+          "titre": "The Game Awards"
+        }
+      ]
+    },
+    {
+      "id": "games-4-change-festival",
+      "titre": "Games 4 Change Festival",
+      "url": "https://www.gamedeveloper.comfestival.gamesforchange.org",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.comfestival.gamesforchange.org",
+          "titre": "Games 4 Change Festival"
+        }
+      ]
+    },
+    {
+      "id": "chinajoy",
+      "titre": "ChinaJoy",
+      "url": "https://www.gamedeveloper.comen.chinajoy.net",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.comen.chinajoy.net",
+          "titre": "ChinaJoy"
+        }
+      ]
+    },
+    {
+      "id": "licensing-expo",
+      "titre": "Licensing Expo",
+      "url": "https://www.gamedeveloper.comwww.brandlicensingexpo.com",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.comwww.brandlicensingexpo.com",
+          "titre": "Licensing Expo"
+        }
+      ]
+    },
+    {
+      "id": "mdev",
+      "titre": "MDEV",
+      "url": "https://www.gamedeveloper.comwww.mdevconf.com",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.comwww.mdevconf.com",
+          "titre": "MDEV"
+        }
+      ]
+    },
+    {
+      "id": "london-games-festival",
+      "titre": "London Games Festival",
+      "url": "https://www.gamedeveloper.comgames.london",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.comgames.london",
+          "titre": "London Games Festival"
+        }
+      ]
+    },
+    {
+      "id": "pax-east",
+      "titre": "PAX East",
+      "url": "https://www.gamedeveloper.com/series/pax-east",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/series/pax-east",
+          "titre": "PAX East"
+        }
+      ]
+    },
+    {
+      "id": "magic-the-gathering-s-next-big-crossover-is-with-itself",
+      "titre": "Magic: The Gathering's next big crossover is with itself",
+      "url": "https://www.pcgamer.com/games/card-games/magic-the-gatherings-next-big-crossover-is-with-itself/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/card-games/magic-the-gatherings-next-big-crossover-is-with-itself/",
+          "titre": "Magic: The Gathering's next big crossover is with itself"
         }
       ]
     },
@@ -395,7 +569,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -413,67 +587,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-are-reliving-2004-with-hour-long-queue-times-to-get-into-the-highly-anticipated-beta/",
           "titre": "World of Warcraft: Forever players are reliving 2004 with hour-long queue times to get into the highly-anticipated beta"
-        }
-      ]
-    },
-    {
-      "id": "denuvo-is-on-the-hunt-for-drm-cracker-voices38-as-the-compan",
-      "titre": "Denuvo is on the hunt for DRM cracker 'voices38' as the company attempts to take one of its biggest foes to court",
-      "url": "https://www.pcgamer.com/gaming-industry/denuvo-is-on-the-hunt-for-drm-cracker-voices38-as-the-company-attempts-to-take-one-of-its-biggest-foes-to-court/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/denuvo-is-on-the-hunt-for-drm-cracker-voices38-as-the-company-attempts-to-take-one-of-its-biggest-foes-to-court/",
-          "titre": "Denuvo is on the hunt for DRM cracker 'voices38' as the company attempts to take one of its biggest foes to court"
-        }
-      ]
-    },
-    {
-      "id": "japanese-game-development-is-now-riddled-with-generative-ai",
-      "titre": "Japanese Game Development Is Now Riddled with Generative AI, Industry Survey Finds",
-      "url": "https://www.pushsquare.com/news/2026/09/japanese-game-development-is-now-riddled-with-generative-ai-industry-survey-finds",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/japanese-game-development-is-now-riddled-with-generative-ai-industry-survey-finds",
-          "titre": "Japanese Game Development Is Now Riddled with Generative AI, Industry Survey Finds"
-        }
-      ]
-    },
-    {
-      "id": "diablo-4-s-anniversary-event-brings-back-the-game-s-most-ico",
-      "titre": "Diablo 4's anniversary event brings back the game's most iconic location, and boy that music is sending me",
-      "url": "https://www.pcgamer.com/games/rpg/diablo-4s-anniversary-event-brings-back-the-games-most-iconic-location-and-boy-that-music-is-sending-me/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/diablo-4s-anniversary-event-brings-back-the-games-most-iconic-location-and-boy-that-music-is-sending-me/",
-          "titre": "Diablo 4's anniversary event brings back the game's most iconic location, and boy that music is sending me"
         }
       ]
     },
@@ -485,7 +605,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 6,
       "liens": [
         {
@@ -503,7 +623,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 6,
       "liens": [
         {
@@ -521,7 +641,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.7,
       "chaleur": 6,
       "liens": [
         {
@@ -539,7 +659,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.9,
       "chaleur": 6,
       "liens": [
         {
@@ -550,56 +670,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "kojima-gives-an-update-on-od-while-thanking-xbox-for-believi",
-      "titre": "Kojima gives an update on OD while thanking Xbox for ‘believing in our vision’",
-      "url": "https://www.videogameschronicle.com/news/kojima-gives-an-update-on-od-while-thanking-xbox-for-believing-in-our-vision/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/kojima-gives-an-update-on-od-while-thanking-xbox-for-believing-in-our-vision/",
-          "titre": "Kojima gives an update on OD while thanking Xbox for ‘believing in our vision’"
-        }
-      ]
-    },
-    {
-      "id": "feature-playstation-is-the-only-platform-holder-at-tgs-2026",
-      "titre": "Feature: PlayStation Is the Only Platform Holder at TGS 2026, and It's Putting on a Show",
-      "url": "https://www.pushsquare.com/features/playstation-is-the-only-platform-holder-at-tgs-2026-and-its-putting-on-a-show",
+      "id": "gta-6-the-album-announced-pre-orders-available-now",
+      "titre": "GTA 6: The Album Announced, Pre-Orders Available Now",
+      "url": "https://www.pushsquare.com/news/2026/09/gta-6-the-album-announced-pre-orders-available-now",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.8,
+      "heures": 12.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/playstation-is-the-only-platform-holder-at-tgs-2026-and-its-putting-on-a-show",
-          "titre": "Feature: PlayStation Is the Only Platform Holder at TGS 2026, and It's Putting on a Show"
+          "url": "https://www.pushsquare.com/news/2026/09/gta-6-the-album-announced-pre-orders-available-now",
+          "titre": "GTA 6: The Album Announced, Pre-Orders Available Now"
         }
       ]
     },
     {
-      "id": "wardogs-has-already-made-more-money-than-marathon-and-its-st",
-      "titre": "Wardogs has already made more money than Marathon, and its Steam launch momentum is ahead of Arc Raiders and Helldivers 2",
-      "url": "https://www.eurogamer.net/wardogs-marathon-revenue-arc-raiders-helldivers-2-steam",
+      "id": "whoopsie-nintendo-made-a-bokoblin-boo-boo-in-its-daily-zelda",
+      "titre": "Whoopsie! Nintendo Made A Bokoblin Boo-Boo In Its Daily Zelda Quiz",
+      "url": "https://www.nintendolife.com/news/2026/09/whoopsie-nintendo-made-a-bokoblin-boo-boo-in-its-daily-zelda-quiz",
       "sources": [
-        "Eurogamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.6,
+      "heures": 13.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/wardogs-marathon-revenue-arc-raiders-helldivers-2-steam",
-          "titre": "Wardogs has already made more money than Marathon, and its Steam launch momentum is ahead of Arc Raiders and Helldivers 2"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/whoopsie-nintendo-made-a-bokoblin-boo-boo-in-its-daily-zelda-quiz",
+          "titre": "Whoopsie! Nintendo Made A Bokoblin Boo-Boo In Its Daily Zelda Quiz"
         }
       ]
     },
@@ -611,7 +713,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 22.4,
       "chaleur": 6,
       "liens": [
         {
@@ -629,7 +731,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.1,
+      "heures": 24.2,
       "chaleur": 6,
       "liens": [
         {
@@ -640,50 +742,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-late",
-      "titre": "Shinji Mikami to be inducted into the AIAS Hall of Fame later this week",
-      "url": "https://www.gamesindustry.biz/shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-later-this-week",
+      "id": "kojima-gives-an-update-on-od-while-thanking-xbox-for-believi",
+      "titre": "Kojima gives an update on OD while thanking Xbox for ‘believing in our vision’",
+      "url": "https://www.videogameschronicle.com/news/kojima-gives-an-update-on-od-while-thanking-xbox-for-believing-in-our-vision/",
       "sources": [
-        "Game Developer",
-        "GamesIndustry.biz"
+        "VGC"
       ],
-      "reprises": 2,
-      "heures": 26.0,
-      "chaleur": 6,
+      "reprises": 1,
+      "heures": 12.4,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-later-this-week",
-          "titre": "Shinji Mikami to be inducted into the AIAS Hall of Fame later this week"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/shinji-mikami-to-join-aias-hall-of-fame-at-2026-dice-awards",
-          "titre": "Shinji Mikami to join AIAS Hall of Fame at 2026 DICE Awards"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/kojima-gives-an-update-on-od-while-thanking-xbox-for-believing-in-our-vision/",
+          "titre": "Kojima gives an update on OD while thanking Xbox for ‘believing in our vision’"
         }
       ]
     },
     {
-      "id": "wardogs-studio-ceo-issues-new-statement-after-backlash-for-s",
-      "titre": "Wardogs studio CEO issues new statement, after backlash for saying his studio won't hire people who \"constantly tweet anti-crunch messaging\"",
-      "url": "https://www.eurogamer.net/wardogs-ceo-new-response-crunch-backlash-social-media-monitoring-statement",
+      "id": "wardogs-has-already-made-more-money-than-marathon-and-its-st",
+      "titre": "Wardogs has already made more money than Marathon, and its Steam launch momentum is ahead of Arc Raiders and Helldivers 2",
+      "url": "https://www.eurogamer.net/wardogs-marathon-revenue-arc-raiders-helldivers-2-steam",
       "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
+        "Eurogamer"
       ],
-      "reprises": 2,
-      "heures": 27.1,
-      "chaleur": 6,
+      "reprises": 1,
+      "heures": 13.7,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/wardogs-ceo-new-response-crunch-backlash-social-media-monitoring-statement",
-          "titre": "Wardogs studio CEO issues new statement, after backlash for saying his studio won't hire people who \"constantly tweet anti-crunch messaging\""
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/they-often-dont-make-it-in-the-door-wardogs-studio-bulkhead-check-for-anti-crunch-messaging-on-prospective-hires-social-media-ceo-says",
-          "titre": "\"They often don’t make it in the door\": Wardogs studio Bulkhead check for \"anti-crunch messaging\" on prospective hires' social media, CEO says"
+          "url": "https://www.eurogamer.net/wardogs-marathon-revenue-arc-raiders-helldivers-2-steam",
+          "titre": "Wardogs has already made more money than Marathon, and its Steam launch momentum is ahead of Arc Raiders and Helldivers 2"
         }
       ]
     },
@@ -695,7 +785,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 16.2,
       "chaleur": 5,
       "liens": [
         {
@@ -713,7 +803,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.8,
+      "heures": 18.9,
       "chaleur": 5,
       "liens": [
         {
@@ -731,7 +821,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.1,
+      "heures": 23.2,
       "chaleur": 5,
       "liens": [
         {
@@ -749,7 +839,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.4,
       "chaleur": 5,
       "liens": [
         {
@@ -767,7 +857,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.4,
       "chaleur": 5,
       "liens": [
         {
@@ -785,7 +875,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 32.4,
+      "heures": 34.5,
       "chaleur": 5,
       "liens": [
         {
@@ -803,13 +893,67 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/were-trying-to-make-it-easier-valve-confirm-the-steam-frame-is-just-the-start-of-plans-to-get-steam-games-working-on-compatibility-challenged-arm-pcs",
           "titre": "\"We're trying to make it easier\": Valve confirm the Steam Frame is just the start of plans to get Steam games working on compatibility-challenged ARM PCs"
+        }
+      ]
+    },
+    {
+      "id": "denuvo-is-on-the-hunt-for-drm-cracker-voices38-as-the-compan",
+      "titre": "Denuvo is on the hunt for DRM cracker 'voices38' as the company attempts to take one of its biggest foes to court",
+      "url": "https://www.pcgamer.com/gaming-industry/denuvo-is-on-the-hunt-for-drm-cracker-voices38-as-the-company-attempts-to-take-one-of-its-biggest-foes-to-court/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/denuvo-is-on-the-hunt-for-drm-cracker-voices38-as-the-company-attempts-to-take-one-of-its-biggest-foes-to-court/",
+          "titre": "Denuvo is on the hunt for DRM cracker 'voices38' as the company attempts to take one of its biggest foes to court"
+        }
+      ]
+    },
+    {
+      "id": "japanese-game-development-is-now-riddled-with-generative-ai",
+      "titre": "Japanese Game Development Is Now Riddled with Generative AI, Industry Survey Finds",
+      "url": "https://www.pushsquare.com/news/2026/09/japanese-game-development-is-now-riddled-with-generative-ai-industry-survey-finds",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/japanese-game-development-is-now-riddled-with-generative-ai-industry-survey-finds",
+          "titre": "Japanese Game Development Is Now Riddled with Generative AI, Industry Survey Finds"
+        }
+      ]
+    },
+    {
+      "id": "diablo-4-s-anniversary-event-brings-back-the-game-s-most-ico",
+      "titre": "Diablo 4's anniversary event brings back the game's most iconic location, and boy that music is sending me",
+      "url": "https://www.pcgamer.com/games/rpg/diablo-4s-anniversary-event-brings-back-the-games-most-iconic-location-and-boy-that-music-is-sending-me/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/diablo-4s-anniversary-event-brings-back-the-games-most-iconic-location-and-boy-that-music-is-sending-me/",
+          "titre": "Diablo 4's anniversary event brings back the game's most iconic location, and boy that music is sending me"
         }
       ]
     },
@@ -821,7 +965,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -839,7 +983,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -857,7 +1001,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -875,7 +1019,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -893,7 +1037,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -904,20 +1048,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "backrooms-director-portal-superfan-kane-parsons-spotted-visi",
-      "titre": "Backrooms director & Portal superfan Kane Parsons spotted visiting Valve for the second time this year",
+      "id": "backrooms-director-and-portal-superfan-kane-parsons-spotted",
+      "titre": "Backrooms director and Portal superfan Kane Parsons spotted visiting Valve for the second time this year",
       "url": "https://www.pcgamer.com/games/fps/backrooms-director-and-portal-superfan-kane-parsons-spotted-visiting-valve-for-the-second-time-this-year/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/fps/backrooms-director-and-portal-superfan-kane-parsons-spotted-visiting-valve-for-the-second-time-this-year/",
-          "titre": "Backrooms director & Portal superfan Kane Parsons spotted visiting Valve for the second time this year"
+          "titre": "Backrooms director and Portal superfan Kane Parsons spotted visiting Valve for the second time this year"
         }
       ]
     },
@@ -929,7 +1073,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -947,49 +1091,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.7,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/with-the-quality-fidelity-and-play-time-of-a-usd70-ps5-game-valor-mortis-asks-for-usd40",
           "titre": "With the 'Quality, Fidelity, and Play Time' of a $70 PS5 Game, Valor Mortis Asks for $40"
-        }
-      ]
-    },
-    {
-      "id": "industry-vet-who-worked-on-ultima-online-says-the-next-big-t",
-      "titre": "Industry vet who worked on Ultima Online says the next big thing needs to have 'sh*tty graphics' to escape the doom of rising development costs",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/industry-vet-who-worked-on-ultima-online-says-the-next-big-thing-needs-to-have-sh-tty-graphics-to-escape-the-doom-of-rising-development-costs/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/industry-vet-who-worked-on-ultima-online-says-the-next-big-thing-needs-to-have-sh-tty-graphics-to-escape-the-doom-of-rising-development-costs/",
-          "titre": "Industry vet who worked on Ultima Online says the next big thing needs to have 'sh*tty graphics' to escape the doom of rising development costs"
-        }
-      ]
-    },
-    {
-      "id": "the-lead-developer-of-the-ps5-linux-project-has-abandoned-sh",
-      "titre": "The lead developer of the PS5 Linux project has abandoned ship: 'It is just a bunch of noobs using LLMs and writing hacks they don't even understand':",
-      "url": "https://www.pcgamer.com/hardware/the-lead-developer-of-the-ps5-linux-project-has-abandoned-ship-it-is-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/the-lead-developer-of-the-ps5-linux-project-has-abandoned-ship-it-is-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/",
-          "titre": "The lead developer of the PS5 Linux project has abandoned ship: 'It is just a bunch of noobs using LLMs and writing hacks they don't even understand':"
         }
       ]
     },
@@ -1001,7 +1109,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1019,7 +1127,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1037,7 +1145,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1048,146 +1156,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "it-s-hard-to-go-back-cdpr-says-the-witcher-3-remastered-sho",
-      "titre": "'It's Hard to Go Back': CDPR Says The Witcher 3 Remastered Should Feel Like a Current Release",
-      "url": "https://www.pushsquare.com/news/2026/09/its-hard-to-go-back-cdpr-says-the-witcher-3-remastered-should-feel-like-a-current-release",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/its-hard-to-go-back-cdpr-says-the-witcher-3-remastered-should-feel-like-a-current-release",
-          "titre": "'It's Hard to Go Back': CDPR Says The Witcher 3 Remastered Should Feel Like a Current Release"
-        }
-      ]
-    },
-    {
-      "id": "what-time-does-ea-sports-fc-27-go-live-digital-release-time",
-      "titre": "What time does EA Sports FC 27 go live? Digital release time in your region and New Zealand trick",
-      "url": "https://www.videogameschronicle.com/news/what-time-does-ea-sports-fc-27-go-live-digital-release-time-in-your-region-and-new-zealand-trick/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/what-time-does-ea-sports-fc-27-go-live-digital-release-time-in-your-region-and-new-zealand-trick/",
-          "titre": "What time does EA Sports FC 27 go live? Digital release time in your region and New Zealand trick"
-        }
-      ]
-    },
-    {
-      "id": "japanese-charts-rhythm-heaven-groove-surpasses-1-million-box",
-      "titre": "Japanese Charts: Rhythm Heaven Groove Surpasses 1 Million Boxed Units Sold",
-      "url": "https://www.nintendolife.com/news/2026/09/japanese-charts-rhythm-heaven-groove-surpasses-1-million-boxed-units-sold",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 8.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/japanese-charts-rhythm-heaven-groove-surpasses-1-million-boxed-units-sold",
-          "titre": "Japanese Charts: Rhythm Heaven Groove Surpasses 1 Million Boxed Units Sold"
-        }
-      ]
-    },
-    {
-      "id": "following-wide-ranging-leaks-bungie-says-marathon-is-not-mer",
-      "titre": "Following wide-ranging leaks, Bungie says Marathon is not 'merging' with Destiny",
-      "url": "https://www.eurogamer.net/marathon-destiny-merger-bungie-response",
+      "id": "valor-mortis-is-only-40-because-its-developer-knows-you-ll-b",
+      "titre": "Valor Mortis is only $40 because its developer knows you'll be choosing from a lot of big games over this \"stacked\" autumn",
+      "url": "https://www.eurogamer.net/valor-mortis-40-usd-price-stacked-autumn-season",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marathon-destiny-merger-bungie-response",
-          "titre": "Following wide-ranging leaks, Bungie says Marathon is not 'merging' with Destiny"
-        }
-      ]
-    },
-    {
-      "id": "if-the-player-trusts-you-enough-they-are-not-going-to-saves",
-      "titre": "\"If the player trusts you enough, they are not going to savescum\": Why the makers of some of the best RPGs on PC want you to get used to failing",
-      "url": "https://www.rockpapershotgun.com/if-the-player-trusts-you-enough-they-are-not-going-to-savescum-why-the-makers-of-some-of-the-best-rpgs-on-pc-want-you-to-get-used-to-failing",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/if-the-player-trusts-you-enough-they-are-not-going-to-savescum-why-the-makers-of-some-of-the-best-rpgs-on-pc-want-you-to-get-used-to-failing",
-          "titre": "\"If the player trusts you enough, they are not going to savescum\": Why the makers of some of the best RPGs on PC want you to get used to failing"
-        }
-      ]
-    },
-    {
-      "id": "nex-playground-maker-secures-over-150-million-to-expand-glob",
-      "titre": "Nex Playground maker secures over $150 million to expand globally",
-      "url": "https://www.gamedeveloper.com/business/nex-playround-maker-secures-over-150-million-to-expand-globally",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/nex-playround-maker-secures-over-150-million-to-expand-globally",
-          "titre": "Nex Playground maker secures over $150 million to expand globally"
-        }
-      ]
-    },
-    {
-      "id": "nex-playground-announces-150m-in-new-funding-as-hardware-sal",
-      "titre": "Nex Playground announces $150m in new funding as hardware sales pass one million",
-      "url": "https://www.gamesindustry.biz/nex-playground-announces-150m-in-new-funding-as-hardware-sales-pass-one-million",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nex-playground-announces-150m-in-new-funding-as-hardware-sales-pass-one-million",
-          "titre": "Nex Playground announces $150m in new funding as hardware sales pass one million"
-        }
-      ]
-    },
-    {
-      "id": "every-major-publisher-has-approached-us-to-review-their-old",
-      "titre": "\"Every major publisher has approached us to review their old Kinect and Wii catalogue\" – Nex Playground is spoilt for choice as its international rollout continues",
-      "url": "https://www.gamesindustry.biz/every-major-publisher-has-approached-us-to-review-their-old-kinect-and-wii-catalogue-nex-playground-is-spoilt-for-choice-as-its-international-rollout-continues",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/every-major-publisher-has-approached-us-to-review-their-old-kinect-and-wii-catalogue-nex-playground-is-spoilt-for-choice-as-its-international-rollout-continues",
-          "titre": "\"Every major publisher has approached us to review their old Kinect and Wii catalogue\" – Nex Playground is spoilt for choice as its international rollout continues"
+          "url": "https://www.eurogamer.net/valor-mortis-40-usd-price-stacked-autumn-season",
+          "titre": "Valor Mortis is only $40 because its developer knows you'll be choosing from a lot of big games over this \"stacked\" autumn"
         }
       ]
     }
