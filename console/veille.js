@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "18/09/2026 à 00h26",
+  "collecte": "18/09/2026 à 02h20",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 19,
       "liens": [
         {
@@ -46,6 +46,54 @@ const VEILLE = {
       ]
     },
     {
+      "id": "my-nintendo-fire-emblem-fortune-s-weave-heroic-sweepstakes-a",
+      "titre": "My Nintendo Fire Emblem: Fortune's Weave Heroic Sweepstakes Announced (North America)",
+      "url": "https://www.nintendolife.com/news/2026/09/my-nintendo-fire-emblem-fortunes-weave-heroic-sweepstakes-announced-north-america",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.6,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/my-nintendo-fire-emblem-fortunes-weave-heroic-sweepstakes-announced-north-america",
+          "titre": "My Nintendo Fire Emblem: Fortune's Weave Heroic Sweepstakes Announced (North America)"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-should-you-skip-part-2/",
+          "titre": "Fire Emblem Fortune’s Weave: Should you skip Part 2?"
+        }
+      ]
+    },
+    {
+      "id": "mindseye-developers-report-new-round-of-layoffs-at-build-a-r",
+      "titre": "MindsEye developers report new round of layoffs at Build A Rocket Boy",
+      "url": "https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy",
+      "sources": [
+        "GamesIndustry.biz",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 32.8,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy",
+          "titre": "MindsEye developers report new round of layoffs at Build A Rocket Boy"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/mindseye-studio-build-a-rocket-boy-appear-to-be-making-fresh-redundancies-as-one-staffer-says-hes-helping-wrap-things-up-here-in-the-hr-department",
+          "titre": "MindsEye studio Build A Rocket Boy appear to be making fresh redundancies, as one staffer says he's \"helping wrap things up here in the HR department\""
+        }
+      ]
+    },
+    {
       "id": "the-blood-of-dawnwalker-sequel-may-not-have-the-divisive-tim",
       "titre": "The Blood of Dawnwalker sequel may not have the divisive time mechanic that so many players dislike: 'We will not force it,' game director says",
       "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-sequel-may-not-have-the-divisive-time-mechanic-that-so-many-players-dislike-we-will-not-force-it-game-director-says/",
@@ -55,8 +103,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 3.5,
-      "chaleur": 12,
+      "heures": 5.4,
+      "chaleur": 10,
       "liens": [
         {
           "source": "PC Gamer",
@@ -76,30 +124,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mindseye-developers-report-new-round-of-layoffs-at-build-a-r",
-      "titre": "MindsEye developers report new round of layoffs at Build A Rocket Boy",
-      "url": "https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy",
-      "sources": [
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 30.9,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy",
-          "titre": "MindsEye developers report new round of layoffs at Build A Rocket Boy"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/mindseye-studio-build-a-rocket-boy-appear-to-be-making-fresh-redundancies-as-one-staffer-says-hes-helping-wrap-things-up-here-in-the-hr-department",
-          "titre": "MindsEye studio Build A Rocket Boy appear to be making fresh redundancies, as one staffer says he's \"helping wrap things up here in the HR department\""
-        }
-      ]
-    },
-    {
       "id": "zero-parades-director-s-cut-will-challenge-you-to-drive-a-st",
       "titre": "Zero Parades: Director's Cut will challenge you to drive a stolen truck through a busy roundabout while stoned out of your mind",
       "url": "https://www.pcgamer.com/games/rpg/zero-parades-directors-cut-will-challenge-you-to-drive-a-stolen-truck-through-a-busy-roundabout-while-stoned-out-of-your-mind/",
@@ -109,7 +133,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 5.1,
+      "heures": 7.0,
       "chaleur": 10,
       "liens": [
         {
@@ -138,7 +162,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 6.1,
+      "heures": 8.0,
       "chaleur": 10,
       "liens": [
         {
@@ -154,6 +178,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "gta-6-has-turned-october-into-a-new-release-bloodbath-but-aa",
+      "titre": "GTA 6 has turned October into a new release bloodbath, but AA first-person soulslike Valor Mortis is hellbent on entering the fray",
+      "url": "https://www.pcgamer.com/gaming-industry/gta-6-has-turned-october-into-a-new-release-bloodbath-but-aa-first-person-soulslike-valor-mortis-is-hellbent-on-entering-the-fray/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/gta-6-has-turned-october-into-a-new-release-bloodbath-but-aa-first-person-soulslike-valor-mortis-is-hellbent-on-entering-the-fray/",
+          "titre": "GTA 6 has turned October into a new release bloodbath, but AA first-person soulslike Valor Mortis is hellbent on entering the fray"
+        }
+      ]
+    },
+    {
       "id": "gta-6-is-getting-a-34-song-original-soundtrack-with-music-fr",
       "titre": "GTA 6 is getting a 34-song original soundtrack, with music from multiple real-world artists - and you can stream six tracks today",
       "url": "https://www.eurogamer.net/gta-6-original-soundtrack-six-track-preview",
@@ -162,8 +204,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 11.5,
-      "chaleur": 10,
+      "heures": 13.4,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
@@ -178,26 +220,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "hideo-kojima-announces-bill-skarsg-rd-will-star-in-stealth-a",
-      "titre": "Hideo Kojima announces Bill Skarsgård will star in stealth-action Physint, legendary designer Yoji Shinkawa also confirmed for character design",
-      "url": "https://www.pcgamer.com/games/action/hideo-kojima-announces-bill-skarsgard-will-star-in-stealth-action-physint-legendary-designer-yoji-shinkawa-also-confirmed-for-character-design/",
+      "id": "another-warioware-album-has-been-added-to-nintendo-music",
+      "titre": "Another WarioWare Album Has Been Added To Nintendo Music",
+      "url": "https://www.nintendolife.com/news/2026/09/another-warioware-album-has-been-added-to-nintendo-music",
       "sources": [
-        "Eurogamer",
-        "PC Gamer"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 3.0,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/hideo-kojima-announces-bill-skarsgard-will-star-in-stealth-action-physint-legendary-designer-yoji-shinkawa-also-confirmed-for-character-design/",
-          "titre": "Hideo Kojima announces Bill Skarsgård will star in stealth-action Physint, legendary designer Yoji Shinkawa also confirmed for character design"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/hideo-kojima-bill-skarsgard-physint-mysterious-horror-game-od",
-          "titre": "Hideo Kojima confirms Bill Skarsgård is Physint's lead actor, gives production update on mysterious horror game OD"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/another-warioware-album-has-been-added-to-nintendo-music",
+          "titre": "Another WarioWare Album Has Been Added To Nintendo Music"
         }
       ]
     },
@@ -209,7 +245,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.6,
       "chaleur": 8,
       "liens": [
         {
@@ -227,7 +263,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.7,
+      "heures": 10.6,
       "chaleur": 8,
       "liens": [
         {
@@ -246,7 +282,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 12.9,
+      "heures": 14.8,
       "chaleur": 8,
       "liens": [
         {
@@ -270,7 +306,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 14.6,
+      "heures": 16.5,
       "chaleur": 8,
       "liens": [
         {
@@ -293,13 +329,37 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.6,
+      "heures": 31.5,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/mindseye-developers-laid-off-gta-studio-shutting-down",
           "titre": "More MindsEye developers have been laid off, and GTA veteran Leslie Benzie's studio is reportedly shutting down"
+        }
+      ]
+    },
+    {
+      "id": "hideo-kojima-announces-bill-skarsg-rd-will-star-in-stealth-a",
+      "titre": "Hideo Kojima announces Bill Skarsgård will star in stealth-action Physint, legendary designer Yoji Shinkawa also confirmed for character design",
+      "url": "https://www.pcgamer.com/games/action/hideo-kojima-announces-bill-skarsgard-will-star-in-stealth-action-physint-legendary-designer-yoji-shinkawa-also-confirmed-for-character-design/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 4.9,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/hideo-kojima-announces-bill-skarsgard-will-star-in-stealth-action-physint-legendary-designer-yoji-shinkawa-also-confirmed-for-character-design/",
+          "titre": "Hideo Kojima announces Bill Skarsgård will star in stealth-action Physint, legendary designer Yoji Shinkawa also confirmed for character design"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/hideo-kojima-bill-skarsgard-physint-mysterious-horror-game-od",
+          "titre": "Hideo Kojima confirms Bill Skarsgård is Physint's lead actor, gives production update on mysterious horror game OD"
         }
       ]
     },
@@ -311,7 +371,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.5,
       "chaleur": 7,
       "liens": [
         {
@@ -322,26 +382,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "movie-review-resident-evil-the-best-resident-evil-film-ever",
-      "titre": "Movie Review: Resident Evil - The Best Resident Evil Film Ever",
-      "url": "https://www.pushsquare.com/features/movie-review-resident-evil-the-best-resident-evil-film-ever",
+      "id": "game-conference-mx-gcmx",
+      "titre": "Game Conference MX (GCMX)",
+      "url": "https://www.gamedeveloper.com/events/untitled",
       "sources": [
-        "Nintendo Life",
-        "Push Square"
+        "Game Developer"
       ],
-      "reprises": 2,
-      "heures": 11.4,
-      "chaleur": 7,
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/movie-review-resident-evil-the-best-resident-evil-film-ever",
-          "titre": "Movie Review: Resident Evil - The Best Resident Evil Film Ever"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/resident-evil-is-now-the-highest-rated-video-game-movie-ever",
-          "titre": "Resident Evil Is Now The Highest-Rated Video Game Movie Ever"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/events/untitled",
+          "titre": "Game Conference MX (GCMX)"
         }
       ]
     },
@@ -526,20 +580,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "pax-east",
-      "titre": "PAX East",
-      "url": "https://www.gamedeveloper.com/series/pax-east",
+      "id": "psa-you-can-customize-valheim-sign-text-for-color-coded-stor",
+      "titre": "PSA: You can customize Valheim sign text for color-coded storage chests without downloading a single mod",
+      "url": "https://www.pcgamer.com/games/survival-crafting/valheim-sign-text-codes/",
       "sources": [
-        "Game Developer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 1.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/series/pax-east",
-          "titre": "PAX East"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/valheim-sign-text-codes/",
+          "titre": "PSA: You can customize Valheim sign text for color-coded storage chests without downloading a single mod"
         }
       ]
     },
@@ -551,49 +605,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/card-games/magic-the-gatherings-next-big-crossover-is-with-itself/",
           "titre": "Magic: The Gathering's next big crossover is with itself"
-        }
-      ]
-    },
-    {
-      "id": "wardogs-is-the-only-fps-where-i-actually-expect-to-get-reviv",
-      "titre": "Wardogs is the only FPS where I actually expect to get revived",
-      "url": "https://www.pcgamer.com/games/fps/wardogs-is-the-only-fps-where-i-actually-expect-to-get-revived/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/wardogs-is-the-only-fps-where-i-actually-expect-to-get-revived/",
-          "titre": "Wardogs is the only FPS where I actually expect to get revived"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-players-are-reliving-2004-with-hou",
-      "titre": "World of Warcraft: Forever players are reliving 2004 with hour-long queue times to get into the highly-anticipated beta",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-are-reliving-2004-with-hour-long-queue-times-to-get-into-the-highly-anticipated-beta/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-are-reliving-2004-with-hour-long-queue-times-to-get-into-the-highly-anticipated-beta/",
-          "titre": "World of Warcraft: Forever players are reliving 2004 with hour-long queue times to get into the highly-anticipated beta"
         }
       ]
     },
@@ -605,7 +623,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 6,
       "liens": [
         {
@@ -623,7 +641,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 6,
       "liens": [
         {
@@ -641,7 +659,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.6,
       "chaleur": 6,
       "liens": [
         {
@@ -659,13 +677,37 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/the-ni-no-kuni-universe-welcomes-a-new-crafting-adventure-and-its-heading-to-switch",
           "titre": "The Ni No Kuni Universe Welcomes A New Crafting Adventure, And It's Heading To Switch"
+        }
+      ]
+    },
+    {
+      "id": "movie-review-resident-evil-the-best-resident-evil-film-ever",
+      "titre": "Movie Review: Resident Evil - The Best Resident Evil Film Ever",
+      "url": "https://www.pushsquare.com/features/movie-review-resident-evil-the-best-resident-evil-film-ever",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 13.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/movie-review-resident-evil-the-best-resident-evil-film-ever",
+          "titre": "Movie Review: Resident Evil - The Best Resident Evil Film Ever"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/resident-evil-is-now-the-highest-rated-video-game-movie-ever",
+          "titre": "Resident Evil Is Now The Highest-Rated Video Game Movie Ever"
         }
       ]
     },
@@ -677,7 +719,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.0,
       "chaleur": 6,
       "liens": [
         {
@@ -695,7 +737,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.3,
       "chaleur": 6,
       "liens": [
         {
@@ -713,31 +755,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/nintendo-store-adds-some-new-exclusives-for-switch-online-members-north-america",
           "titre": "Nintendo Store Adds Some New Exclusives For Switch Online Members (North America)"
-        }
-      ]
-    },
-    {
-      "id": "zelda-ocarina-of-time-on-switch-2-will-support-vrr-in-docked",
-      "titre": "Zelda: Ocarina Of Time On Switch 2 Will Support VRR In Docked Mode",
-      "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-on-switch-2-will-support-vrr-in-docked-mode",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 24.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-on-switch-2-will-support-vrr-in-docked-mode",
-          "titre": "Zelda: Ocarina Of Time On Switch 2 Will Support VRR In Docked Mode"
         }
       ]
     },
@@ -749,7 +773,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.3,
       "chaleur": 5,
       "liens": [
         {
@@ -767,7 +791,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 15.6,
       "chaleur": 5,
       "liens": [
         {
@@ -785,7 +809,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.1,
       "chaleur": 5,
       "liens": [
         {
@@ -803,7 +827,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.8,
       "chaleur": 5,
       "liens": [
         {
@@ -821,31 +845,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.2,
+      "heures": 25.1,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/tomodachi-life-appears-to-be-getting-a-switch-lite-bundle-in-europe",
           "titre": "Tomodachi Life Appears To Be Getting A Switch Lite Bundle In Europe"
-        }
-      ]
-    },
-    {
-      "id": "feature-how-does-zelda-ocarina-of-time-s-old-new-art-compare",
-      "titre": "Feature: How Does Zelda: Ocarina Of Time's Old & New Art Compare? Here's A Side-By-Side Face-Off",
-      "url": "https://www.nintendolife.com/features/how-does-zelda-ocarina-of-times-old-and-new-art-compare-heres-a-side-by-side-face-off",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 31.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/how-does-zelda-ocarina-of-times-old-and-new-art-compare-heres-a-side-by-side-face-off",
-          "titre": "Feature: How Does Zelda: Ocarina Of Time's Old & New Art Compare? Here's A Side-By-Side Face-Off"
         }
       ]
     },
@@ -857,7 +863,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.4,
+      "heures": 33.3,
       "chaleur": 5,
       "liens": [
         {
@@ -868,38 +874,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-s-fable-reboot-was-allowed-a-10-year-development-becaus",
-      "titre": "Xbox's Fable reboot was allowed a 10-year development because the RPG series is \"vital to the DNA of the platform\", developer Playground Games says",
-      "url": "https://www.eurogamer.net/fable-vital-dna-of-xbox-playground-games",
+      "id": "wardogs-is-the-only-fps-where-i-actually-expect-to-get-reviv",
+      "titre": "Wardogs is the only FPS where I actually expect to get revived",
+      "url": "https://www.pcgamer.com/games/fps/wardogs-is-the-only-fps-where-i-actually-expect-to-get-revived/",
       "sources": [
-        "Eurogamer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 34.5,
-      "chaleur": 5,
+      "heures": 5.4,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/fable-vital-dna-of-xbox-playground-games",
-          "titre": "Xbox's Fable reboot was allowed a 10-year development because the RPG series is \"vital to the DNA of the platform\", developer Playground Games says"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/wardogs-is-the-only-fps-where-i-actually-expect-to-get-revived/",
+          "titre": "Wardogs is the only FPS where I actually expect to get revived"
         }
       ]
     },
     {
-      "id": "we-re-trying-to-make-it-easier-valve-confirm-the-steam-fram",
-      "titre": "\"We're trying to make it easier\": Valve confirm the Steam Frame is just the start of plans to get Steam games working on compatibility-challenged ARM PCs",
-      "url": "https://www.rockpapershotgun.com/were-trying-to-make-it-easier-valve-confirm-the-steam-frame-is-just-the-start-of-plans-to-get-steam-games-working-on-compatibility-challenged-arm-pcs",
+      "id": "world-of-warcraft-forever-players-are-reliving-2004-with-hou",
+      "titre": "World of Warcraft: Forever players are reliving 2004 with hour-long queue times to get into the highly-anticipated beta",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-are-reliving-2004-with-hour-long-queue-times-to-get-into-the-highly-anticipated-beta/",
       "sources": [
-        "Rock Paper Shotgun"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 35.4,
-      "chaleur": 5,
+      "heures": 5.6,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/were-trying-to-make-it-easier-valve-confirm-the-steam-frame-is-just-the-start-of-plans-to-get-steam-games-working-on-compatibility-challenged-arm-pcs",
-          "titre": "\"We're trying to make it easier\": Valve confirm the Steam Frame is just the start of plans to get Steam games working on compatibility-challenged ARM PCs"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-are-reliving-2004-with-hour-long-queue-times-to-get-into-the-highly-anticipated-beta/",
+          "titre": "World of Warcraft: Forever players are reliving 2004 with hour-long queue times to get into the highly-anticipated beta"
         }
       ]
     },
@@ -911,7 +917,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.0,
       "chaleur": 4,
       "liens": [
         {
@@ -929,7 +935,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -947,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -965,7 +971,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.2,
       "chaleur": 4,
       "liens": [
         {
@@ -983,7 +989,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1001,31 +1007,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-officially-made-grand-theft-auto-5-good-by-turning-it-into-a-golf-sim/",
           "titre": "I have officially made Grand Theft Auto 5 good by turning it into a golf sim"
-        }
-      ]
-    },
-    {
-      "id": "epic-boss-tim-sweeney-says-the-eu-s-social-media-ban-for-und",
-      "titre": "Epic boss Tim Sweeney says the EU's social media ban for under-13s 'would be terrible for the next generation of humanity'",
-      "url": "https://www.pcgamer.com/gaming-industry/epic-boss-tim-sweeney-says-the-eus-social-media-ban-for-under-13s-would-be-terrible-for-the-next-generation-of-humanity/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/epic-boss-tim-sweeney-says-the-eus-social-media-ban-for-under-13s-would-be-terrible-for-the-next-generation-of-humanity/",
-          "titre": "Epic boss Tim Sweeney says the EU's social media ban for under-13s 'would be terrible for the next generation of humanity'"
         }
       ]
     },
@@ -1037,49 +1025,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/features/dont-sleep-on-no-law-it-has-the-potential-to-be-one-of-2027s-most-stunning-games/",
           "titre": "Don’t sleep on No Law: It has the potential to be one of 2027’s most stunning games"
-        }
-      ]
-    },
-    {
-      "id": "backrooms-director-and-portal-superfan-kane-parsons-spotted",
-      "titre": "Backrooms director and Portal superfan Kane Parsons spotted visiting Valve for the second time this year",
-      "url": "https://www.pcgamer.com/games/fps/backrooms-director-and-portal-superfan-kane-parsons-spotted-visiting-valve-for-the-second-time-this-year/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 8.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/backrooms-director-and-portal-superfan-kane-parsons-spotted-visiting-valve-for-the-second-time-this-year/",
-          "titre": "Backrooms director and Portal superfan Kane Parsons spotted visiting Valve for the second time this year"
-        }
-      ]
-    },
-    {
-      "id": "fire-emblem-fortune-s-weave-should-you-skip-part-2",
-      "titre": "Fire Emblem Fortune’s Weave: Should you skip Part 2?",
-      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-should-you-skip-part-2/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-should-you-skip-part-2/",
-          "titre": "Fire Emblem Fortune’s Weave: Should you skip Part 2?"
         }
       ]
     },
@@ -1091,7 +1043,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.7,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1109,7 +1061,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1127,7 +1079,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1145,7 +1097,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.0,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1163,13 +1115,67 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.1,
+      "heures": 12.0,
       "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/valor-mortis-40-usd-price-stacked-autumn-season",
           "titre": "Valor Mortis is only $40 because its developer knows you'll be choosing from a lot of big games over this \"stacked\" autumn"
+        }
+      ]
+    },
+    {
+      "id": "it-s-hard-to-go-back-cdpr-says-the-witcher-3-remastered-sho",
+      "titre": "'It's Hard to Go Back': CDPR Says The Witcher 3 Remastered Should Feel Like a Current Release",
+      "url": "https://www.pushsquare.com/news/2026/09/its-hard-to-go-back-cdpr-says-the-witcher-3-remastered-should-feel-like-a-current-release",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 12.3,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/its-hard-to-go-back-cdpr-says-the-witcher-3-remastered-should-feel-like-a-current-release",
+          "titre": "'It's Hard to Go Back': CDPR Says The Witcher 3 Remastered Should Feel Like a Current Release"
+        }
+      ]
+    },
+    {
+      "id": "what-time-does-ea-sports-fc-27-go-live-digital-release-time",
+      "titre": "What time does EA Sports FC 27 go live? Digital release time in your region and New Zealand trick",
+      "url": "https://www.videogameschronicle.com/news/what-time-does-ea-sports-fc-27-go-live-digital-release-time-in-your-region-and-new-zealand-trick/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 12.4,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/what-time-does-ea-sports-fc-27-go-live-digital-release-time-in-your-region-and-new-zealand-trick/",
+          "titre": "What time does EA Sports FC 27 go live? Digital release time in your region and New Zealand trick"
+        }
+      ]
+    },
+    {
+      "id": "japanese-charts-rhythm-heaven-groove-surpasses-1-million-box",
+      "titre": "Japanese Charts: Rhythm Heaven Groove Surpasses 1 Million Boxed Units Sold",
+      "url": "https://www.nintendolife.com/news/2026/09/japanese-charts-rhythm-heaven-groove-surpasses-1-million-boxed-units-sold",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/japanese-charts-rhythm-heaven-groove-surpasses-1-million-boxed-units-sold",
+          "titre": "Japanese Charts: Rhythm Heaven Groove Surpasses 1 Million Boxed Units Sold"
         }
       ]
     }
