@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "18/09/2026 à 06h25",
+  "collecte": "18/09/2026 à 08h21",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 18,
       "liens": [
         {
@@ -46,6 +46,48 @@ const VEILLE = {
       ]
     },
     {
+      "id": "nintendo-excited-about-broadening-zelda-s-audience-with-live",
+      "titre": "Nintendo Excited About Broadening Zelda's Audience With Live-Action Movie",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
+          "titre": "Nintendo Excited About Broadening Zelda's Audience With Live-Action Movie"
+        }
+      ]
+    },
+    {
+      "id": "my-nintendo-fire-emblem-fortune-s-weave-heroic-sweepstakes-a",
+      "titre": "My Nintendo Fire Emblem: Fortune's Weave Heroic Sweepstakes Announced (North America)",
+      "url": "https://www.nintendolife.com/news/2026/09/my-nintendo-fire-emblem-fortunes-weave-heroic-sweepstakes-announced-north-america",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 7.6,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/my-nintendo-fire-emblem-fortunes-weave-heroic-sweepstakes-announced-north-america",
+          "titre": "My Nintendo Fire Emblem: Fortune's Weave Heroic Sweepstakes Announced (North America)"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-should-you-skip-part-2/",
+          "titre": "Fire Emblem Fortune’s Weave: Should you skip Part 2?"
+        }
+      ]
+    },
+    {
       "id": "zero-parades-director-s-cut-will-challenge-you-to-drive-a-st",
       "titre": "Zero Parades: Director's Cut will challenge you to drive a stolen truck through a busy roundabout while stoned out of your mind",
       "url": "https://www.pcgamer.com/games/rpg/zero-parades-directors-cut-will-challenge-you-to-drive-a-stolen-truck-through-a-busy-roundabout-while-stoned-out-of-your-mind/",
@@ -55,8 +97,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 11.1,
-      "chaleur": 10,
+      "heures": 13.0,
+      "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
@@ -76,48 +118,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-excited-about-broadening-zelda-s-audience-with-live",
-      "titre": "Nintendo Excited About Broadening Zelda's Audience With Live-Action Movie",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 0.9,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
-          "titre": "Nintendo Excited About Broadening Zelda's Audience With Live-Action Movie"
-        }
-      ]
-    },
-    {
-      "id": "my-nintendo-fire-emblem-fortune-s-weave-heroic-sweepstakes-a",
-      "titre": "My Nintendo Fire Emblem: Fortune's Weave Heroic Sweepstakes Announced (North America)",
-      "url": "https://www.nintendolife.com/news/2026/09/my-nintendo-fire-emblem-fortunes-weave-heroic-sweepstakes-announced-north-america",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 5.7,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/my-nintendo-fire-emblem-fortunes-weave-heroic-sweepstakes-announced-north-america",
-          "titre": "My Nintendo Fire Emblem: Fortune's Weave Heroic Sweepstakes Announced (North America)"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-should-you-skip-part-2/",
-          "titre": "Fire Emblem Fortune’s Weave: Should you skip Part 2?"
-        }
-      ]
-    },
-    {
       "id": "twitch-ceo-says-gta-6-multiplayer-will-launch-in-2027",
       "titre": "Twitch CEO says GTA 6 multiplayer will launch in 2027",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/twitch-ceo-says-gta-6-multiplayer-will-launch-in-2027/",
@@ -126,7 +126,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 12.1,
+      "heures": 14.0,
       "chaleur": 9,
       "liens": [
         {
@@ -150,7 +150,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 17.5,
+      "heures": 19.4,
       "chaleur": 9,
       "liens": [
         {
@@ -173,31 +173,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/psa-dragons-dogma-2-character-creator-and-storage-app-now-available-on-switch-2",
           "titre": "PSA: Dragon's Dogma 2 Character Creator & Storage App Now Available On Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "tropico-7-confirmed-for-switch-2-out-2027",
-      "titre": "Tropico 7 Confirmed For Switch 2, Out 2027",
-      "url": "https://www.nintendolife.com/news/2026/09/tropico-7-confirmed-for-switch-2-out-2027",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/tropico-7-confirmed-for-switch-2-out-2027",
-          "titre": "Tropico 7 Confirmed For Switch 2, Out 2027"
         }
       ]
     },
@@ -210,7 +192,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 18.9,
+      "heures": 20.9,
       "chaleur": 8,
       "liens": [
         {
@@ -234,7 +216,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 20.5,
+      "heures": 22.5,
       "chaleur": 8,
       "liens": [
         {
@@ -250,24 +232,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "more-mindseye-developers-have-been-laid-off-and-gta-veteran",
-      "titre": "More MindsEye developers have been laid off, and GTA veteran Leslie Benzie's studio is reportedly shutting down",
-      "url": "https://www.eurogamer.net/mindseye-developers-laid-off-gta-studio-shutting-down",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/mindseye-developers-laid-off-gta-studio-shutting-down",
-          "titre": "More MindsEye developers have been laid off, and GTA veteran Leslie Benzie's studio is reportedly shutting down"
-        }
-      ]
-    },
-    {
       "id": "gta-6-has-turned-october-into-a-new-release-bloodbath-but-aa",
       "titre": "GTA 6 has turned October into a new release bloodbath, but AA first-person soulslike Valor Mortis is hellbent on entering the fray",
       "url": "https://www.pcgamer.com/gaming-industry/gta-6-has-turned-october-into-a-new-release-bloodbath-but-aa-first-person-soulslike-valor-mortis-is-hellbent-on-entering-the-fray/",
@@ -275,7 +239,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.0,
       "chaleur": 7,
       "liens": [
         {
@@ -294,7 +258,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 8.9,
+      "heures": 10.9,
       "chaleur": 7,
       "liens": [
         {
@@ -318,7 +282,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 7,
       "liens": [
         {
@@ -341,7 +305,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.7,
+      "heures": 16.6,
       "chaleur": 7,
       "liens": [
         {
@@ -550,38 +514,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ff7-revelation-director-hamaguchi-discusses-the-game-s-200gb",
-      "titre": "FF7 Revelation director Hamaguchi discusses the game’s 200GB size, DLC plans, and a new Tifa detail",
-      "url": "https://www.videogameschronicle.com/features/interviews/ff7-revelation-director-hamaguchi-discusses-the-games-200gb-size-dlc-plans-and-a-new-tifa-detail/",
+      "id": "publishers-are-afraid-of-certain-parts-of-the-world-saber-i",
+      "titre": "\"Publishers are afraid of certain parts of the world\": Saber Interactive's message to North American studios is to get their head out of their own geography",
+      "url": "https://www.rockpapershotgun.com/publishers-are-afraid-of-certain-parts-of-the-world-saber-interactives-message-to-north-american-studios-is-to-get-their-head-out-of-their-own-geography",
       "sources": [
-        "VGC"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 2.6,
+      "heures": 0.1,
       "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/interviews/ff7-revelation-director-hamaguchi-discusses-the-games-200gb-size-dlc-plans-and-a-new-tifa-detail/",
-          "titre": "FF7 Revelation director Hamaguchi discusses the game’s 200GB size, DLC plans, and a new Tifa detail"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/publishers-are-afraid-of-certain-parts-of-the-world-saber-interactives-message-to-north-american-studios-is-to-get-their-head-out-of-their-own-geography",
+          "titre": "\"Publishers are afraid of certain parts of the world\": Saber Interactive's message to North American studios is to get their head out of their own geography"
         }
       ]
     },
     {
-      "id": "total-war-warhammer-40-000-alien-isolation-2-modern-warfare",
-      "titre": "Total War: Warhammer 40,000, Alien: Isolation 2, Modern Warfare 4, and more will be playable ahead of release at PAX Australia next month",
-      "url": "https://www.pcgamer.com/gaming-industry/events-conferences/total-war-warhammer-40-000-alien-isolation-2-modern-warfare-4-and-more-will-be-playable-ahead-of-release-at-pax-australia-next-month/",
+      "id": "black-salt-games-establishes-indie-studio-team-trifold-under",
+      "titre": "Black Salt Games establishes indie studio Team Trifold under new Saltworks Entertainment label",
+      "url": "https://www.gamesindustry.biz/black-salt-games-establishes-indie-studio-team-trifold-under-new-saltworks-entertainment-label",
       "sources": [
-        "PC Gamer"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 3.7,
+      "heures": 0.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/total-war-warhammer-40-000-alien-isolation-2-modern-warfare-4-and-more-will-be-playable-ahead-of-release-at-pax-australia-next-month/",
-          "titre": "Total War: Warhammer 40,000, Alien: Isolation 2, Modern Warfare 4, and more will be playable ahead of release at PAX Australia next month"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/black-salt-games-establishes-indie-studio-team-trifold-under-new-saltworks-entertainment-label",
+          "titre": "Black Salt Games establishes indie studio Team Trifold under new Saltworks Entertainment label"
+        }
+      ]
+    },
+    {
+      "id": "gdc-festival-of-gaming-appoints-four-members-to-advisory-boa",
+      "titre": "GDC Festival of Gaming appoints four members to advisory board",
+      "url": "https://www.gamesindustry.biz/gdc-festival-of-gaming-appoints-four-members-to-advisory-board",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/gdc-festival-of-gaming-appoints-four-members-to-advisory-board",
+          "titre": "GDC Festival of Gaming appoints four members to advisory board"
+        }
+      ]
+    },
+    {
+      "id": "tropico-7-confirmed-for-switch-2-out-2027",
+      "titre": "Tropico 7 Confirmed For Switch 2, Out 2027",
+      "url": "https://www.nintendolife.com/news/2026/09/tropico-7-confirmed-for-switch-2-out-2027",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/tropico-7-confirmed-for-switch-2-out-2027",
+          "titre": "Tropico 7 Confirmed For Switch 2, Out 2027"
         }
       ]
     },
@@ -593,7 +593,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.4,
       "chaleur": 6,
       "liens": [
         {
@@ -611,7 +611,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.6,
       "chaleur": 6,
       "liens": [
         {
@@ -629,7 +629,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.5,
       "chaleur": 6,
       "liens": [
         {
@@ -648,7 +648,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 6,
       "liens": [
         {
@@ -671,7 +671,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 20.0,
       "chaleur": 6,
       "liens": [
         {
@@ -689,7 +689,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.4,
       "chaleur": 6,
       "liens": [
         {
@@ -707,7 +707,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -725,7 +725,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 5,
       "liens": [
         {
@@ -743,7 +743,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 17.6,
       "chaleur": 5,
       "liens": [
         {
@@ -761,7 +761,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.9,
       "chaleur": 5,
       "liens": [
         {
@@ -779,7 +779,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.3,
       "chaleur": 5,
       "liens": [
         {
@@ -797,7 +797,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.7,
+      "heures": 21.6,
       "chaleur": 5,
       "liens": [
         {
@@ -815,7 +815,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.2,
+      "heures": 24.1,
       "chaleur": 5,
       "liens": [
         {
@@ -833,13 +833,49 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.9,
+      "heures": 26.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/round-up-capcom-spotlight-tgs-2026-showcase-every-switch-2-announcement-and-update",
           "titre": "Round Up: Capcom Spotlight - TGS 2026 Showcase, Every Switch 2 Announcement And Update"
+        }
+      ]
+    },
+    {
+      "id": "ff7-revelation-director-hamaguchi-discusses-the-game-s-200gb",
+      "titre": "FF7 Revelation director Hamaguchi discusses the game’s 200GB size, DLC plans, and a new Tifa detail",
+      "url": "https://www.videogameschronicle.com/features/interviews/ff7-revelation-director-hamaguchi-discusses-the-games-200gb-size-dlc-plans-and-a-new-tifa-detail/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/features/interviews/ff7-revelation-director-hamaguchi-discusses-the-games-200gb-size-dlc-plans-and-a-new-tifa-detail/",
+          "titre": "FF7 Revelation director Hamaguchi discusses the game’s 200GB size, DLC plans, and a new Tifa detail"
+        }
+      ]
+    },
+    {
+      "id": "total-war-warhammer-40-000-alien-isolation-2-modern-warfare",
+      "titre": "Total War: Warhammer 40,000, Alien: Isolation 2, Modern Warfare 4, and more will be playable ahead of release at PAX Australia next month",
+      "url": "https://www.pcgamer.com/gaming-industry/events-conferences/total-war-warhammer-40-000-alien-isolation-2-modern-warfare-4-and-more-will-be-playable-ahead-of-release-at-pax-australia-next-month/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/total-war-warhammer-40-000-alien-isolation-2-modern-warfare-4-and-more-will-be-playable-ahead-of-release-at-pax-australia-next-month/",
+          "titre": "Total War: Warhammer 40,000, Alien: Isolation 2, Modern Warfare 4, and more will be playable ahead of release at PAX Australia next month"
         }
       ]
     },
@@ -851,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -869,7 +905,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +923,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +959,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.0,
+      "heures": 12.0,
       "chaleur": 4,
       "liens": [
         {
@@ -941,8 +977,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -959,8 +995,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 13.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -977,7 +1013,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.2,
       "chaleur": 3,
       "liens": [
         {
@@ -995,7 +1031,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1013,7 +1049,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 15.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +1067,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.7,
+      "heures": 16.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,7 +1085,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,7 +1103,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1085,7 +1121,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1103,7 +1139,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 18.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1121,49 +1157,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/its-hard-to-go-back-cdpr-says-the-witcher-3-remastered-should-feel-like-a-current-release",
           "titre": "'It's Hard to Go Back': CDPR Says The Witcher 3 Remastered Should Feel Like a Current Release"
-        }
-      ]
-    },
-    {
-      "id": "what-time-does-ea-sports-fc-27-go-live-digital-release-time",
-      "titre": "What time does EA Sports FC 27 go live? Digital release time in your region and New Zealand trick",
-      "url": "https://www.videogameschronicle.com/news/what-time-does-ea-sports-fc-27-go-live-digital-release-time-in-your-region-and-new-zealand-trick/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 16.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/what-time-does-ea-sports-fc-27-go-live-digital-release-time-in-your-region-and-new-zealand-trick/",
-          "titre": "What time does EA Sports FC 27 go live? Digital release time in your region and New Zealand trick"
-        }
-      ]
-    },
-    {
-      "id": "japanese-charts-rhythm-heaven-groove-surpasses-1-million-box",
-      "titre": "Japanese Charts: Rhythm Heaven Groove Surpasses 1 Million Boxed Units Sold",
-      "url": "https://www.nintendolife.com/news/2026/09/japanese-charts-rhythm-heaven-groove-surpasses-1-million-boxed-units-sold",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 16.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/japanese-charts-rhythm-heaven-groove-surpasses-1-million-boxed-units-sold",
-          "titre": "Japanese Charts: Rhythm Heaven Groove Surpasses 1 Million Boxed Units Sold"
         }
       ]
     }
