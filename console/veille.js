@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "18/09/2026 à 04h20",
+  "collecte": "18/09/2026 à 06h25",
   "seuil": 14,
   "sujets": [
     {
@@ -15,8 +15,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 11.3,
-      "chaleur": 19,
+      "heures": 13.4,
+      "chaleur": 18,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -46,60 +46,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "my-nintendo-fire-emblem-fortune-s-weave-heroic-sweepstakes-a",
-      "titre": "My Nintendo Fire Emblem: Fortune's Weave Heroic Sweepstakes Announced (North America)",
-      "url": "https://www.nintendolife.com/news/2026/09/my-nintendo-fire-emblem-fortunes-weave-heroic-sweepstakes-announced-north-america",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 3.6,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/my-nintendo-fire-emblem-fortunes-weave-heroic-sweepstakes-announced-north-america",
-          "titre": "My Nintendo Fire Emblem: Fortune's Weave Heroic Sweepstakes Announced (North America)"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-should-you-skip-part-2/",
-          "titre": "Fire Emblem Fortune’s Weave: Should you skip Part 2?"
-        }
-      ]
-    },
-    {
-      "id": "the-blood-of-dawnwalker-sequel-may-not-have-the-divisive-tim",
-      "titre": "The Blood of Dawnwalker sequel may not have the divisive time mechanic that so many players dislike: 'We will not force it,' game director says",
-      "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-sequel-may-not-have-the-divisive-time-mechanic-that-so-many-players-dislike-we-will-not-force-it-game-director-says/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 7.4,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-sequel-may-not-have-the-divisive-time-mechanic-that-so-many-players-dislike-we-will-not-force-it-game-director-says/",
-          "titre": "The Blood of Dawnwalker sequel may not have the divisive time mechanic that so many players dislike: 'We will not force it,' game director says"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/we-will-not-force-it-the-blood-of-dawnwalkers-sequel-might-drop-the-timer-mechanics-says-director-but-i-hope-they-stick-around",
-          "titre": "\"We will not force it\": The Blood of Dawnwalker's sequel might drop the timer mechanics, says director, but I hope they stick around"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-time-mechanic-sequels",
-          "titre": "The Blood of Dawnwalker's controversial time mechanic won't necessarily be in a sequel, the game director says"
-        }
-      ]
-    },
-    {
       "id": "zero-parades-director-s-cut-will-challenge-you-to-drive-a-st",
       "titre": "Zero Parades: Director's Cut will challenge you to drive a stolen truck through a busy roundabout while stoned out of your mind",
       "url": "https://www.pcgamer.com/games/rpg/zero-parades-directors-cut-will-challenge-you-to-drive-a-stolen-truck-through-a-busy-roundabout-while-stoned-out-of-your-mind/",
@@ -109,7 +55,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 9.0,
+      "heures": 11.1,
       "chaleur": 10,
       "liens": [
         {
@@ -130,6 +76,48 @@ const VEILLE = {
       ]
     },
     {
+      "id": "nintendo-excited-about-broadening-zelda-s-audience-with-live",
+      "titre": "Nintendo Excited About Broadening Zelda's Audience With Live-Action Movie",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
+          "titre": "Nintendo Excited About Broadening Zelda's Audience With Live-Action Movie"
+        }
+      ]
+    },
+    {
+      "id": "my-nintendo-fire-emblem-fortune-s-weave-heroic-sweepstakes-a",
+      "titre": "My Nintendo Fire Emblem: Fortune's Weave Heroic Sweepstakes Announced (North America)",
+      "url": "https://www.nintendolife.com/news/2026/09/my-nintendo-fire-emblem-fortunes-weave-heroic-sweepstakes-announced-north-america",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 5.7,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/my-nintendo-fire-emblem-fortunes-weave-heroic-sweepstakes-announced-north-america",
+          "titre": "My Nintendo Fire Emblem: Fortune's Weave Heroic Sweepstakes Announced (North America)"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-should-you-skip-part-2/",
+          "titre": "Fire Emblem Fortune’s Weave: Should you skip Part 2?"
+        }
+      ]
+    },
+    {
       "id": "twitch-ceo-says-gta-6-multiplayer-will-launch-in-2027",
       "titre": "Twitch CEO says GTA 6 multiplayer will launch in 2027",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/twitch-ceo-says-gta-6-multiplayer-will-launch-in-2027/",
@@ -138,8 +126,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 10.0,
-      "chaleur": 10,
+      "heures": 12.1,
+      "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
@@ -154,24 +142,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-has-turned-october-into-a-new-release-bloodbath-but-aa",
-      "titre": "GTA 6 has turned October into a new release bloodbath, but AA first-person soulslike Valor Mortis is hellbent on entering the fray",
-      "url": "https://www.pcgamer.com/gaming-industry/gta-6-has-turned-october-into-a-new-release-bloodbath-but-aa-first-person-soulslike-valor-mortis-is-hellbent-on-entering-the-fray/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/gta-6-has-turned-october-into-a-new-release-bloodbath-but-aa-first-person-soulslike-valor-mortis-is-hellbent-on-entering-the-fray/",
-          "titre": "GTA 6 has turned October into a new release bloodbath, but AA first-person soulslike Valor Mortis is hellbent on entering the fray"
-        }
-      ]
-    },
-    {
       "id": "gta-6-is-getting-a-34-song-original-soundtrack-with-music-fr",
       "titre": "GTA 6 is getting a 34-song original soundtrack, with music from multiple real-world artists - and you can stream six tracks today",
       "url": "https://www.eurogamer.net/gta-6-original-soundtrack-six-track-preview",
@@ -180,7 +150,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 15.4,
+      "heures": 17.5,
       "chaleur": 9,
       "liens": [
         {
@@ -196,6 +166,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "psa-dragon-s-dogma-2-character-creator-storage-app-now-avail",
+      "titre": "PSA: Dragon's Dogma 2 Character Creator & Storage App Now Available On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/09/psa-dragons-dogma-2-character-creator-and-storage-app-now-available-on-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/psa-dragons-dogma-2-character-creator-and-storage-app-now-available-on-switch-2",
+          "titre": "PSA: Dragon's Dogma 2 Character Creator & Storage App Now Available On Switch 2"
+        }
+      ]
+    },
+    {
       "id": "tropico-7-confirmed-for-switch-2-out-2027",
       "titre": "Tropico 7 Confirmed For Switch 2, Out 2027",
       "url": "https://www.nintendolife.com/news/2026/09/tropico-7-confirmed-for-switch-2-out-2027",
@@ -203,31 +191,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.9,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/tropico-7-confirmed-for-switch-2-out-2027",
           "titre": "Tropico 7 Confirmed For Switch 2, Out 2027"
-        }
-      ]
-    },
-    {
-      "id": "another-warioware-album-has-been-added-to-nintendo-music",
-      "titre": "Another WarioWare Album Has Been Added To Nintendo Music",
-      "url": "https://www.nintendolife.com/news/2026/09/another-warioware-album-has-been-added-to-nintendo-music",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/another-warioware-album-has-been-added-to-nintendo-music",
-          "titre": "Another WarioWare Album Has Been Added To Nintendo Music"
         }
       ]
     },
@@ -240,7 +210,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 16.8,
+      "heures": 18.9,
       "chaleur": 8,
       "liens": [
         {
@@ -264,7 +234,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 18.5,
+      "heures": 20.5,
       "chaleur": 8,
       "liens": [
         {
@@ -287,7 +257,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.5,
+      "heures": 35.6,
       "chaleur": 8,
       "liens": [
         {
@@ -298,20 +268,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mindseye-developers-report-new-round-of-layoffs-at-build-a-r",
-      "titre": "MindsEye developers report new round of layoffs at Build A Rocket Boy",
-      "url": "https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy",
+      "id": "gta-6-has-turned-october-into-a-new-release-bloodbath-but-aa",
+      "titre": "GTA 6 has turned October into a new release bloodbath, but AA first-person soulslike Valor Mortis is hellbent on entering the fray",
+      "url": "https://www.pcgamer.com/gaming-industry/gta-6-has-turned-october-into-a-new-release-bloodbath-but-aa-first-person-soulslike-valor-mortis-is-hellbent-on-entering-the-fray/",
       "sources": [
-        "GamesIndustry.biz"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 34.8,
-      "chaleur": 8,
+      "heures": 5.1,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy",
-          "titre": "MindsEye developers report new round of layoffs at Build A Rocket Boy"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/gta-6-has-turned-october-into-a-new-release-bloodbath-but-aa-first-person-soulslike-valor-mortis-is-hellbent-on-entering-the-fray/",
+          "titre": "GTA 6 has turned October into a new release bloodbath, but AA first-person soulslike Valor Mortis is hellbent on entering the fray"
         }
       ]
     },
@@ -324,7 +294,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 7,
       "liens": [
         {
@@ -340,20 +310,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "take-two-ceo-strauss-zelnick-says-gta-vi-needs-to-be-markete",
-      "titre": "Take-Two CEO Strauss Zelnick says GTA VI needs to be 'marketed aggressively' despite global brand awareness",
-      "url": "https://www.gamedeveloper.com/marketing/strauss-zelnick-says-gta-vi-needs-to-be-marketed-aggressively-despite-global-brand-awareness",
+      "id": "the-blood-of-dawnwalker-sequel-may-not-have-the-divisive-tim",
+      "titre": "The Blood of Dawnwalker sequel may not have the divisive time mechanic that so many players dislike: 'We will not force it,' game director says",
+      "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-sequel-may-not-have-the-divisive-time-mechanic-that-so-many-players-dislike-we-will-not-force-it-game-director-says/",
       "sources": [
-        "Game Developer"
+        "PC Gamer",
+        "Rock Paper Shotgun"
       ],
-      "reprises": 1,
-      "heures": 10.5,
+      "reprises": 2,
+      "heures": 9.4,
       "chaleur": 7,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/marketing/strauss-zelnick-says-gta-vi-needs-to-be-marketed-aggressively-despite-global-brand-awareness",
-          "titre": "Take-Two CEO Strauss Zelnick says GTA VI needs to be 'marketed aggressively' despite global brand awareness"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-sequel-may-not-have-the-divisive-time-mechanic-that-so-many-players-dislike-we-will-not-force-it-game-director-says/",
+          "titre": "The Blood of Dawnwalker sequel may not have the divisive time mechanic that so many players dislike: 'We will not force it,' game director says"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/we-will-not-force-it-the-blood-of-dawnwalkers-sequel-might-drop-the-timer-mechanics-says-director-but-i-hope-they-stick-around",
+          "titre": "\"We will not force it\": The Blood of Dawnwalker's sequel might drop the timer mechanics, says director, but I hope they stick around"
         }
       ]
     },
@@ -365,7 +341,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.7,
       "chaleur": 7,
       "liens": [
         {
@@ -581,7 +557,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -599,7 +575,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -610,20 +586,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "psa-you-can-customize-valheim-sign-text-for-color-coded-stor",
-      "titre": "PSA: You can customize Valheim sign text for color-coded storage chests without downloading a single mod",
-      "url": "https://www.pcgamer.com/games/survival-crafting/valheim-sign-text-codes/",
+      "id": "another-warioware-album-has-been-added-to-nintendo-music",
+      "titre": "Another WarioWare Album Has Been Added To Nintendo Music",
+      "url": "https://www.nintendolife.com/news/2026/09/another-warioware-album-has-been-added-to-nintendo-music",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.4,
+      "heures": 4.5,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/valheim-sign-text-codes/",
-          "titre": "PSA: You can customize Valheim sign text for color-coded storage chests without downloading a single mod"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/another-warioware-album-has-been-added-to-nintendo-music",
+          "titre": "Another WarioWare Album Has Been Added To Nintendo Music"
         }
       ]
     },
@@ -635,7 +611,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.6,
       "chaleur": 6,
       "liens": [
         {
@@ -646,20 +622,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-download-17th-september-north-america-plus-3-discou",
-      "titre": "Nintendo Download: 17th September (North America) - Plus 3 Discounted eShop Games That Should Be On Your Radar",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-17th-september-north-america-plus-3-discounted-eshop-games-that-should-be-on-your-radar",
+      "id": "take-two-ceo-strauss-zelnick-says-gta-vi-needs-to-be-markete",
+      "titre": "Take-Two CEO Strauss Zelnick says GTA VI needs to be 'marketed aggressively' despite global brand awareness",
+      "url": "https://www.gamedeveloper.com/marketing/strauss-zelnick-says-gta-vi-needs-to-be-marketed-aggressively-despite-global-brand-awareness",
       "sources": [
-        "Nintendo Life"
+        "Game Developer"
       ],
       "reprises": 1,
-      "heures": 11.3,
+      "heures": 12.6,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-17th-september-north-america-plus-3-discounted-eshop-games-that-should-be-on-your-radar",
-          "titre": "Nintendo Download: 17th September (North America) - Plus 3 Discounted eShop Games That Should Be On Your Radar"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/marketing/strauss-zelnick-says-gta-vi-needs-to-be-marketed-aggressively-despite-global-brand-awareness",
+          "titre": "Take-Two CEO Strauss Zelnick says GTA VI needs to be 'marketed aggressively' despite global brand awareness"
         }
       ]
     },
@@ -672,7 +648,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 15.3,
+      "heures": 17.4,
       "chaleur": 6,
       "liens": [
         {
@@ -695,7 +671,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 18.1,
       "chaleur": 6,
       "liens": [
         {
@@ -713,7 +689,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.4,
       "chaleur": 6,
       "liens": [
         {
@@ -724,20 +700,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-store-adds-some-new-exclusives-for-switch-online-me",
-      "titre": "Nintendo Store Adds Some New Exclusives For Switch Online Members (North America)",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-store-adds-some-new-exclusives-for-switch-online-members-north-america",
+      "id": "nintendo-download-17th-september-north-america-plus-3-discou",
+      "titre": "Nintendo Download: 17th September (North America) - Plus 3 Discounted eShop Games That Should Be On Your Radar",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-17th-september-north-america-plus-3-discounted-eshop-games-that-should-be-on-your-radar",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.3,
-      "chaleur": 6,
+      "heures": 13.4,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendo-store-adds-some-new-exclusives-for-switch-online-members-north-america",
-          "titre": "Nintendo Store Adds Some New Exclusives For Switch Online Members (North America)"
+          "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-17th-september-north-america-plus-3-discounted-eshop-games-that-should-be-on-your-radar",
+          "titre": "Nintendo Download: 17th September (North America) - Plus 3 Discounted eShop Games That Should Be On Your Radar"
         }
       ]
     },
@@ -749,7 +725,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -767,7 +743,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.7,
       "chaleur": 5,
       "liens": [
         {
@@ -785,7 +761,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 15.9,
       "chaleur": 5,
       "liens": [
         {
@@ -803,7 +779,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.4,
       "chaleur": 5,
       "liens": [
         {
@@ -821,7 +797,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 19.7,
       "chaleur": 5,
       "liens": [
         {
@@ -839,7 +815,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.1,
+      "heures": 22.2,
       "chaleur": 5,
       "liens": [
         {
@@ -857,7 +833,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 24.9,
       "chaleur": 5,
       "liens": [
         {
@@ -868,20 +844,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "vampire-rpg-escapes-steam-s-adult-only-jail-just-in-time-for",
-      "titre": "Vampire RPG escapes Steam's 'Adult Only' jail just in time for launch: \"At the risk of disappointing some players, Nighthawks is not porn\"",
-      "url": "https://www.eurogamer.net/vampire-rpg-steam-adult-only-game-jail-nighthawks",
+      "id": "psa-you-can-customize-valheim-sign-text-for-color-coded-stor",
+      "titre": "PSA: You can customize Valheim sign text for color-coded storage chests without downloading a single mod",
+      "url": "https://www.pcgamer.com/games/survival-crafting/valheim-sign-text-codes/",
       "sources": [
-        "Eurogamer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 5,
+      "heures": 5.5,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/vampire-rpg-steam-adult-only-game-jail-nighthawks",
-          "titre": "Vampire RPG escapes Steam's 'Adult Only' jail just in time for launch: \"At the risk of disappointing some players, Nighthawks is not porn\""
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/valheim-sign-text-codes/",
+          "titre": "PSA: You can customize Valheim sign text for color-coded storage chests without downloading a single mod"
         }
       ]
     },
@@ -893,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -911,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -929,7 +905,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -947,7 +923,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -965,7 +941,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -983,7 +959,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1001,8 +977,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1019,8 +995,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1037,8 +1013,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1055,7 +1031,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1073,7 +1049,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1091,7 +1067,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1109,7 +1085,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 16.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1127,7 +1103,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 16.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1145,7 +1121,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1163,13 +1139,31 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/what-time-does-ea-sports-fc-27-go-live-digital-release-time-in-your-region-and-new-zealand-trick/",
           "titre": "What time does EA Sports FC 27 go live? Digital release time in your region and New Zealand trick"
+        }
+      ]
+    },
+    {
+      "id": "japanese-charts-rhythm-heaven-groove-surpasses-1-million-box",
+      "titre": "Japanese Charts: Rhythm Heaven Groove Surpasses 1 Million Boxed Units Sold",
+      "url": "https://www.nintendolife.com/news/2026/09/japanese-charts-rhythm-heaven-groove-surpasses-1-million-boxed-units-sold",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 16.7,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/japanese-charts-rhythm-heaven-groove-surpasses-1-million-boxed-units-sold",
+          "titre": "Japanese Charts: Rhythm Heaven Groove Surpasses 1 Million Boxed Units Sold"
         }
       ]
     }
