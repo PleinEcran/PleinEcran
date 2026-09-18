@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "18/09/2026 à 20h19",
+  "collecte": "18/09/2026 à 22h18",
   "seuil": 14,
   "sujets": [
     {
@@ -11,12 +11,11 @@ const VEILLE = {
         "Eurogamer",
         "GamesIndustry.biz",
         "PC Gamer",
-        "Push Square",
         "VGC"
       ],
-      "reprises": 5,
-      "heures": 4.1,
-      "chaleur": 16,
+      "reprises": 4,
+      "heures": 6.1,
+      "chaleur": 13,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -37,11 +36,6 @@ const VEILLE = {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/control-resonant-review",
           "titre": "Control Resonant review"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/movie-review-resident-evil-the-best-resident-evil-film-ever",
-          "titre": "Movie Review: Resident Evil - The Best Resident Evil Film Ever"
         }
       ]
     },
@@ -55,7 +49,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 9.0,
+      "heures": 11.0,
       "chaleur": 13,
       "liens": [
         {
@@ -76,32 +70,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nearly-everyone-laid-off-at-hyper-light-drifter-devs-heart",
-      "titre": "\"Nearly everyone\" laid off at Hyper Light Drifter devs Heart Machine after publisher drops unannounced game",
-      "url": "https://www.rockpapershotgun.com/nearly-everyone-laid-off-at-hyper-light-drifter-devs-heart-machine-after-publisher-drops-unannounced-game",
+      "id": "final-fantasy-7-revelation-is-apparently-a-super-heavyweight",
+      "titre": "Final Fantasy 7 Revelation is apparently a super heavyweight 200GB installation: 'We need to overcome the hardware to a certain extent'",
+      "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-is-apparently-a-super-heavyweight-200gb-installation-we-need-to-overcome-the-hardware-to-a-certain-extent/",
       "sources": [
-        "Game Developer",
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
+        "Eurogamer",
+        "PC Gamer",
+        "Push Square"
       ],
       "reprises": 3,
-      "heures": 27.3,
+      "heures": 0.4,
       "chaleur": 12,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nearly-everyone-laid-off-at-hyper-light-drifter-devs-heart-machine-after-publisher-drops-unannounced-game",
-          "titre": "\"Nearly everyone\" laid off at Hyper Light Drifter devs Heart Machine after publisher drops unannounced game"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-is-apparently-a-super-heavyweight-200gb-installation-we-need-to-overcome-the-hardware-to-a-certain-extent/",
+          "titre": "Final Fantasy 7 Revelation is apparently a super heavyweight 200GB installation: 'We need to overcome the hardware to a certain extent'"
         },
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/hyper-light-drifter-developer-heart-machine-has-laid-off-the-majority-of-staff",
-          "titre": "Hyper Light Drifter developer Heart Machine has laid off the majority of staff"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-on-ps5-will-be-a-mammoth-200gb-director-says",
+          "titre": "Final Fantasy 7 Revelation on PS5 Will Be a Mammoth 200GB, Director Says"
         },
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/heart-machine-faces-possible-closure-after-publishing-deal-falls-through-majority-of-staff-laid-off",
-          "titre": "Heart Machine faces possible closure after publishing deal falls through; majority of staff laid off"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/final-fantasy-7-revelation-200gb-file-size-dlc",
+          "titre": "Final Fantasy 7 Revelation will be \"around 200GB\" says game director, as he details Sephiroth and Vincent Valentine DLC plans"
+        }
+      ]
+    },
+    {
+      "id": "players-got-better-than-we-expected-monster-hunter-wilds-dl",
+      "titre": "'Players got better than we expected': Monster Hunter Wilds DLC director says Capcom is retuning its difficulty standards for the expansion's endgame",
+      "url": "https://www.pcgamer.com/games/action/players-got-better-than-we-expected-monster-hunter-wilds-dlc-director-says-capcom-is-retuning-its-difficulty-standards-for-the-expansions-endgame/",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 1.3,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/players-got-better-than-we-expected-monster-hunter-wilds-dlc-director-says-capcom-is-retuning-its-difficulty-standards-for-the-expansions-endgame/",
+          "titre": "'Players got better than we expected': Monster Hunter Wilds DLC director says Capcom is retuning its difficulty standards for the expansion's endgame"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-wilds-switch-2-performance-and-resolution-confirmed",
+          "titre": "Monster Hunter Wilds Switch 2 Performance And Resolution Confirmed"
         }
       ]
     },
@@ -113,7 +131,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 4.0,
       "chaleur": 11,
       "liens": [
         {
@@ -132,7 +150,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 10,
       "liens": [
         {
@@ -148,6 +166,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "the-resident-evil-film-should-be-more-concerned-with-underst",
+      "titre": "The Resident Evil film should be more concerned with understanding the roots of its survival horror than adhering to strict lore accuracy",
+      "url": "https://www.pcgamer.com/movies-tv/the-resident-evil-film-should-be-more-concerned-with-understanding-the-roots-of-its-survival-horror-than-adhering-to-strict-lore-accuracy/",
+      "sources": [
+        "PC Gamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 0.2,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/the-resident-evil-film-should-be-more-concerned-with-understanding-the-roots-of-its-survival-horror-than-adhering-to-strict-lore-accuracy/",
+          "titre": "The Resident Evil film should be more concerned with understanding the roots of its survival horror than adhering to strict lore accuracy"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/movie-review-resident-evil-the-best-resident-evil-film-ever",
+          "titre": "Movie Review: Resident Evil - The Best Resident Evil Film Ever"
+        }
+      ]
+    },
+    {
       "id": "sony-execs-behind-iconic-game-sharing-meme-recreate-it-but-f",
       "titre": "Sony execs behind iconic game-sharing meme recreate it, but fittingly, without a physical game",
       "url": "https://www.eurogamer.net/sony-execs-game-sharing-meme-physical",
@@ -156,7 +198,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 9,
       "liens": [
         {
@@ -179,31 +221,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 3.9,
       "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/the-pc-platform-is-becoming-more-and-more-important-take-two-chief-says-as-we-continue-to-wonder-when-were-going-to-get-gta-6/",
           "titre": "'The PC platform is becoming more and more important,' Take-Two chief says, as we continue to wonder when we're going to get GTA 6"
-        }
-      ]
-    },
-    {
-      "id": "i-have-modded-the-most-exciting-thing-possible-into-gta-5-ha",
-      "titre": "I have modded the most exciting thing possible into GTA 5: Hard and soft credit checks and realistic personal finance",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-modded-the-most-exciting-thing-possible-into-gta-5-hard-and-soft-credit-checks-and-realistic-personal-finance/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-modded-the-most-exciting-thing-possible-into-gta-5-hard-and-soft-credit-checks-and-realistic-personal-finance/",
-          "titre": "I have modded the most exciting thing possible into GTA 5: Hard and soft credit checks and realistic personal finance"
         }
       ]
     },
@@ -216,7 +240,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.1,
+      "heures": 6.1,
       "chaleur": 9,
       "liens": [
         {
@@ -232,20 +256,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "review-hautepad-c-as-arcade-stick-for-switch-1-2-unique-eye",
-      "titre": "Review: Hautepad C-AS Arcade Stick For Switch 1 & 2 - Unique & Eye-Catching, But Improvements Are Needed",
-      "url": "https://www.nintendolife.com/reviews/hautepad-c-as-arcade-stick-for-switch-1-and-2-unique-and-eye-catching-but-improvements-are-needed",
+      "id": "i-have-modded-the-most-exciting-thing-possible-into-gta-5-ha",
+      "titre": "I have modded the most exciting thing possible into GTA 5: Hard and soft credit checks and realistic personal finance",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-modded-the-most-exciting-thing-possible-into-gta-5-hard-and-soft-credit-checks-and-realistic-personal-finance/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 8,
+      "heures": 5.3,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/hautepad-c-as-arcade-stick-for-switch-1-and-2-unique-and-eye-catching-but-improvements-are-needed",
-          "titre": "Review: Hautepad C-AS Arcade Stick For Switch 1 & 2 - Unique & Eye-Catching, But Improvements Are Needed"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-modded-the-most-exciting-thing-possible-into-gta-5-hard-and-soft-credit-checks-and-realistic-personal-finance/",
+          "titre": "I have modded the most exciting thing possible into GTA 5: Hard and soft credit checks and realistic personal finance"
         }
       ]
     },
@@ -257,37 +281,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/woodo-nintendo-switch-2-edition",
           "titre": "Review: Woodo - Nintendo Switch 2 Edition - An Irresistible, Hard-To-Define Formula For Pure Relaxation"
-        }
-      ]
-    },
-    {
-      "id": "final-fantasy-7-revelation-on-ps5-will-be-a-mammoth-200gb-di",
-      "titre": "Final Fantasy 7 Revelation on PS5 Will Be a Mammoth 200GB, Director Says",
-      "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-on-ps5-will-be-a-mammoth-200gb-director-says",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 4.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-on-ps5-will-be-a-mammoth-200gb-director-says",
-          "titre": "Final Fantasy 7 Revelation on PS5 Will Be a Mammoth 200GB, Director Says"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/final-fantasy-7-revelation-200gb-file-size-dlc",
-          "titre": "Final Fantasy 7 Revelation will be \"around 200GB\" says game director, as he details Sephiroth and Vincent Valentine DLC plans"
         }
       ]
     },
@@ -299,7 +299,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.4,
       "chaleur": 7,
       "liens": [
         {
@@ -317,7 +317,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 7,
       "liens": [
         {
@@ -335,31 +335,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.9,
       "chaleur": 7,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/strauss-zelnick-stresses-a-well-known-franchise-like-gta-still-needs-marketing-you-always-have-to-go-out-and-create-enthusiasm",
           "titre": "Strauss Zelnick stresses a well-known franchise like GTA still needs marketing: \"You always have to go out and create enthusiasm\""
-        }
-      ]
-    },
-    {
-      "id": "why-do-japanese-studios-suffer-fewer-layoffs-because-they-ha",
-      "titre": "Why do Japanese studios suffer fewer layoffs? Because they have smaller teams and don't pay their execs $30m, says one expert",
-      "url": "https://www.eurogamer.net/japan-game-development-layoffs-exec-money",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/japan-game-development-layoffs-exec-money",
-          "titre": "Why do Japanese studios suffer fewer layoffs? Because they have smaller teams and don't pay their execs $30m, says one expert"
         }
       ]
     },
@@ -526,6 +508,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "mdev",
+      "titre": "MDEV",
+      "url": "https://www.gamedeveloper.comwww.mdevconf.com",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.comwww.mdevconf.com",
+          "titre": "MDEV"
+        }
+      ]
+    },
+    {
+      "id": "industry-vets-behind-dishonored-ultima-online-her-story-and",
+      "titre": "Industry vets behind Dishonored, Ultima Online, Her Story and more agree the games industry crisis goes beyond games: 'Ultimately, to fix what’s broken in the videogame industry, we might have to fix reality'",
+      "url": "https://www.pcgamer.com/gaming-industry/industry-vets-behind-dishonored-ultima-online-her-story-and-more-agree-the-games-industry-crisis-goes-beyond-games-ultimately-to-fix-whats-broken-in-the-videogame-industry-we-might-have-to-fix-reality/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/industry-vets-behind-dishonored-ultima-online-her-story-and-more-agree-the-games-industry-crisis-goes-beyond-games-ultimately-to-fix-whats-broken-in-the-videogame-industry-we-might-have-to-fix-reality/",
+          "titre": "Industry vets behind Dishonored, Ultima Online, Her Story and more agree the games industry crisis goes beyond games: 'Ultimately, to fix what’s broken in the videogame industry, we might have to fix reality'"
+        }
+      ]
+    },
+    {
       "id": "reacher-star-alan-ritchson-is-in-talks-to-replace-jason-momo",
       "titre": "Reacher star Alan Ritchson is in talks to replace Jason Momoa on the Helldivers movie",
       "url": "https://www.pcgamer.com/movies-tv/reacher-star-alan-ritchson-is-in-talks-to-replace-jason-momoa-on-the-helldivers-movie/",
@@ -533,7 +551,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -544,56 +562,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "despite-controversial-reviews-and-online-mockery-marvel-s-wo",
-      "titre": "Despite controversial reviews and online mockery, Marvel's Wolverine looks to have sold 1.9m on PS5 - and over 1 in 5 sales are physical",
-      "url": "https://www.eurogamer.net/marvel-wolverine-sales-ps5-physical-controversial-reviews",
+      "id": "review-hautepad-c-as-arcade-stick-for-switch-1-2-unique-eye",
+      "titre": "Review: Hautepad C-AS Arcade Stick For Switch 1 & 2 - Unique & Eye-Catching, But Improvements Are Needed",
+      "url": "https://www.nintendolife.com/reviews/hautepad-c-as-arcade-stick-for-switch-1-and-2-unique-and-eye-catching-but-improvements-are-needed",
       "sources": [
-        "Eurogamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.5,
+      "heures": 4.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marvel-wolverine-sales-ps5-physical-controversial-reviews",
-          "titre": "Despite controversial reviews and online mockery, Marvel's Wolverine looks to have sold 1.9m on PS5 - and over 1 in 5 sales are physical"
-        }
-      ]
-    },
-    {
-      "id": "the-last-of-us-game-director-apologises-for-dragging-god-of",
-      "titre": "The Last of Us Game Director Apologises for Dragging God of War Laufey into 'Boring' AAA Game Discussion",
-      "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-game-director-apologises-for-dragging-god-of-war-laufey-into-boring-aaa-game-discussion",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-game-director-apologises-for-dragging-god-of-war-laufey-into-boring-aaa-game-discussion",
-          "titre": "The Last of Us Game Director Apologises for Dragging God of War Laufey into 'Boring' AAA Game Discussion"
-        }
-      ]
-    },
-    {
-      "id": "in-the-absence-of-a-new-deus-ex-indie-imsim-tokyo-walled-cit",
-      "titre": "In the absence of a new Deus Ex, indie imsim Tokyo Walled City may scratch that stealth 'n' stolen passwords itch",
-      "url": "https://www.rockpapershotgun.com/in-the-absence-of-a-new-deus-ex-indie-imsim-tokyo-walled-city-may-scratch-that-stealth-n-stolen-passwords-itch",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/in-the-absence-of-a-new-deus-ex-indie-imsim-tokyo-walled-city-may-scratch-that-stealth-n-stolen-passwords-itch",
-          "titre": "In the absence of a new Deus Ex, indie imsim Tokyo Walled City may scratch that stealth 'n' stolen passwords itch"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/hautepad-c-as-arcade-stick-for-switch-1-and-2-unique-and-eye-catching-but-improvements-are-needed",
+          "titre": "Review: Hautepad C-AS Arcade Stick For Switch 1 & 2 - Unique & Eye-Catching, But Improvements Are Needed"
         }
       ]
     },
@@ -605,7 +587,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.2,
       "chaleur": 6,
       "liens": [
         {
@@ -623,7 +605,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 6,
       "liens": [
         {
@@ -641,31 +623,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/icymi-shujinkous-september-update-boosts-switch-1-and-2-performance-here-are-the-patch-notes",
           "titre": "ICYMI: Shujinkou's September Update Boosts Switch 1 & 2 Performance, Here Are The Patch Notes"
-        }
-      ]
-    },
-    {
-      "id": "monster-hunter-wilds-switch-2-performance-and-resolution-con",
-      "titre": "Monster Hunter Wilds Switch 2 Performance And Resolution Confirmed",
-      "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-wilds-switch-2-performance-and-resolution-confirmed",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 7.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-wilds-switch-2-performance-and-resolution-confirmed",
-          "titre": "Monster Hunter Wilds Switch 2 Performance And Resolution Confirmed"
         }
       ]
     },
@@ -677,7 +641,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 9.7,
       "chaleur": 6,
       "liens": [
         {
@@ -695,7 +659,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 6,
       "liens": [
         {
@@ -706,38 +670,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "japanese-console-market-would-have-been-eliminated-if-switch",
-      "titre": "Japanese Console Market Would Have Been \"Eliminated\" If Switch Failed, Says Analyst",
-      "url": "https://www.nintendolife.com/news/2026/09/japanese-console-market-would-have-been-eliminated-if-switch-failed-says-analyst",
+      "id": "why-do-japanese-studios-suffer-fewer-layoffs-because-they-ha",
+      "titre": "Why do Japanese studios suffer fewer layoffs? Because they have smaller teams and don't pay their execs $30m, says one expert",
+      "url": "https://www.eurogamer.net/japan-game-development-layoffs-exec-money",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
+      "heures": 13.2,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/japanese-console-market-would-have-been-eliminated-if-switch-failed-says-analyst",
-          "titre": "Japanese Console Market Would Have Been \"Eliminated\" If Switch Failed, Says Analyst"
-        }
-      ]
-    },
-    {
-      "id": "random-fire-emblem-fortune-s-weave-switch-2-physical-hides-a",
-      "titre": "Random: Fire Emblem: Fortune's Weave Switch 2 Physical Hides A Neat Nod To Three Houses",
-      "url": "https://www.nintendolife.com/news/2026/09/random-fire-emblem-fortunes-weave-switch-2-physical-hides-a-neat-nod-to-three-houses",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/random-fire-emblem-fortunes-weave-switch-2-physical-hides-a-neat-nod-to-three-houses",
-          "titre": "Random: Fire Emblem: Fortune's Weave Switch 2 Physical Hides A Neat Nod To Three Houses"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/japan-game-development-layoffs-exec-money",
+          "titre": "Why do Japanese studios suffer fewer layoffs? Because they have smaller teams and don't pay their execs $30m, says one expert"
         }
       ]
     },
@@ -749,31 +695,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.8,
+      "heures": 16.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
           "titre": "Nintendo Excited About Broadening Zelda's Audience With Live-Action Movie"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-has-turned-october-into-a-new-release-bloodbath-but-aa",
-      "titre": "GTA 6 has turned October into a new release bloodbath, but AA first-person soulslike Valor Mortis is hellbent on entering the fray",
-      "url": "https://www.pcgamer.com/gaming-industry/gta-6-has-turned-october-into-a-new-release-bloodbath-but-aa-first-person-soulslike-valor-mortis-is-hellbent-on-entering-the-fray/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 19.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/gta-6-has-turned-october-into-a-new-release-bloodbath-but-aa-first-person-soulslike-valor-mortis-is-hellbent-on-entering-the-fray/",
-          "titre": "GTA 6 has turned October into a new release bloodbath, but AA first-person soulslike Valor Mortis is hellbent on entering the fray"
         }
       ]
     },
@@ -785,7 +713,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 26.5,
+      "heures": 28.5,
       "chaleur": 6,
       "liens": [
         {
@@ -804,7 +732,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 28.0,
+      "heures": 30.0,
       "chaleur": 6,
       "liens": [
         {
@@ -827,7 +755,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.4,
+      "heures": 33.4,
       "chaleur": 6,
       "liens": [
         {
@@ -845,13 +773,49 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 32.0,
+      "heures": 34.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/gta-6-the-album-announced-pre-orders-available-now",
           "titre": "GTA 6: The Album Announced, Pre-Orders Available Now"
+        }
+      ]
+    },
+    {
+      "id": "japanese-console-market-would-have-been-eliminated-if-switch",
+      "titre": "Japanese Console Market Would Have Been \"Eliminated\" If Switch Failed, Says Analyst",
+      "url": "https://www.nintendolife.com/news/2026/09/japanese-console-market-would-have-been-eliminated-if-switch-failed-says-analyst",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.3,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/japanese-console-market-would-have-been-eliminated-if-switch-failed-says-analyst",
+          "titre": "Japanese Console Market Would Have Been \"Eliminated\" If Switch Failed, Says Analyst"
+        }
+      ]
+    },
+    {
+      "id": "random-fire-emblem-fortune-s-weave-switch-2-physical-hides-a",
+      "titre": "Random: Fire Emblem: Fortune's Weave Switch 2 Physical Hides A Neat Nod To Three Houses",
+      "url": "https://www.nintendolife.com/news/2026/09/random-fire-emblem-fortunes-weave-switch-2-physical-hides-a-neat-nod-to-three-houses",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.1,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/random-fire-emblem-fortunes-weave-switch-2-physical-hides-a-neat-nod-to-three-houses",
+          "titre": "Random: Fire Emblem: Fortune's Weave Switch 2 Physical Hides A Neat Nod To Three Houses"
         }
       ]
     },
@@ -863,7 +827,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.8,
       "chaleur": 5,
       "liens": [
         {
@@ -881,7 +845,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.4,
       "chaleur": 5,
       "liens": [
         {
@@ -899,7 +863,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.3,
       "chaleur": 5,
       "liens": [
         {
@@ -917,7 +881,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.6,
+      "heures": 31.6,
       "chaleur": 5,
       "liens": [
         {
@@ -935,7 +899,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.6,
+      "heures": 35.6,
       "chaleur": 5,
       "liens": [
         {
@@ -946,20 +910,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "helldivers-2-and-horizon-forbidden-west-mysteriously-deliste",
-      "titre": "Helldivers 2 and Horizon Forbidden West mysteriously delisted from Steam in the UK, Sony promises to \"address the issue\" with Valve",
-      "url": "https://www.eurogamer.net/helldivers-2-horizon-forbidden-west-delisted-steam-uk-sony-valve",
+      "id": "despite-controversial-reviews-and-online-mockery-marvel-s-wo",
+      "titre": "Despite controversial reviews and online mockery, Marvel's Wolverine looks to have sold 1.9m on PS5 - and over 1 in 5 sales are physical",
+      "url": "https://www.eurogamer.net/marvel-wolverine-sales-ps5-physical-controversial-reviews",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 34.4,
-      "chaleur": 5,
+      "heures": 5.4,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/helldivers-2-horizon-forbidden-west-delisted-steam-uk-sony-valve",
-          "titre": "Helldivers 2 and Horizon Forbidden West mysteriously delisted from Steam in the UK, Sony promises to \"address the issue\" with Valve"
+          "url": "https://www.eurogamer.net/marvel-wolverine-sales-ps5-physical-controversial-reviews",
+          "titre": "Despite controversial reviews and online mockery, Marvel's Wolverine looks to have sold 1.9m on PS5 - and over 1 in 5 sales are physical"
+        }
+      ]
+    },
+    {
+      "id": "the-last-of-us-game-director-apologises-for-dragging-god-of",
+      "titre": "The Last of Us Game Director Apologises for Dragging God of War Laufey into 'Boring' AAA Game Discussion",
+      "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-game-director-apologises-for-dragging-god-of-war-laufey-into-boring-aaa-game-discussion",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-game-director-apologises-for-dragging-god-of-war-laufey-into-boring-aaa-game-discussion",
+          "titre": "The Last of Us Game Director Apologises for Dragging God of War Laufey into 'Boring' AAA Game Discussion"
+        }
+      ]
+    },
+    {
+      "id": "in-the-absence-of-a-new-deus-ex-indie-imsim-tokyo-walled-cit",
+      "titre": "In the absence of a new Deus Ex, indie imsim Tokyo Walled City may scratch that stealth 'n' stolen passwords itch",
+      "url": "https://www.rockpapershotgun.com/in-the-absence-of-a-new-deus-ex-indie-imsim-tokyo-walled-city-may-scratch-that-stealth-n-stolen-passwords-itch",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/in-the-absence-of-a-new-deus-ex-indie-imsim-tokyo-walled-city-may-scratch-that-stealth-n-stolen-passwords-itch",
+          "titre": "In the absence of a new Deus Ex, indie imsim Tokyo Walled City may scratch that stealth 'n' stolen passwords itch"
         }
       ]
     },
@@ -971,7 +971,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +989,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +1007,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1025,7 +1025,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,7 +1043,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,7 +1061,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1079,7 +1079,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1097,7 +1097,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1115,7 +1115,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1133,7 +1133,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1151,7 +1151,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
