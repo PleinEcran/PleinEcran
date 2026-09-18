@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "18/09/2026 à 18h22",
+  "collecte": "18/09/2026 à 20h19",
   "seuil": 14,
   "sujets": [
     {
@@ -15,8 +15,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 5,
-      "heures": 2.1,
-      "chaleur": 18,
+      "heures": 4.1,
+      "chaleur": 16,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -55,7 +55,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 7.1,
+      "heures": 9.0,
       "chaleur": 13,
       "liens": [
         {
@@ -85,7 +85,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 25.4,
+      "heures": 27.3,
       "chaleur": 12,
       "liens": [
         {
@@ -106,26 +106,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "fire-emblem-fortune-s-weave-wonder-leaves-location-for-elega",
-      "titre": "Fire Emblem Fortune’s Weave: Wonder Leaves location for Elegant Drink Recipes quest",
-      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-wonder-leaves-location-for-elegant-drink-recipes-quest/",
+      "id": "new-200gb-gta-5-leak-suggests-rockstar-games-scrapped-a-mass",
+      "titre": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work",
+      "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
       "sources": [
-        "Nintendo Life",
-        "VGC"
+        "Eurogamer"
       ],
-      "reprises": 2,
-      "heures": 2.2,
+      "reprises": 1,
+      "heures": 2.0,
       "chaleur": 11,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-wonder-leaves-location-for-elegant-drink-recipes-quest/",
-          "titre": "Fire Emblem Fortune’s Weave: Wonder Leaves location for Elegant Drink Recipes quest"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/my-nintendo-fire-emblem-fortunes-weave-heroic-sweepstakes-announced-north-america",
-          "titre": "My Nintendo Fire Emblem: Fortune's Weave Heroic Sweepstakes Announced (North America)"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
+          "titre": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work"
         }
       ]
     },
@@ -138,7 +132,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 6.3,
+      "heures": 8.3,
       "chaleur": 10,
       "liens": [
         {
@@ -154,6 +148,48 @@ const VEILLE = {
       ]
     },
     {
+      "id": "sony-execs-behind-iconic-game-sharing-meme-recreate-it-but-f",
+      "titre": "Sony execs behind iconic game-sharing meme recreate it, but fittingly, without a physical game",
+      "url": "https://www.eurogamer.net/sony-execs-game-sharing-meme-physical",
+      "sources": [
+        "Eurogamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 0.6,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/sony-execs-game-sharing-meme-physical",
+          "titre": "Sony execs behind iconic game-sharing meme recreate it, but fittingly, without a physical game"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/former-sony-suits-recreate-infamous-ps4-game-sharing-skit-only-without-the-disc",
+          "titre": "Former Sony Suits Recreate Infamous PS4 Game Sharing Skit, Only without the Disc"
+        }
+      ]
+    },
+    {
+      "id": "the-pc-platform-is-becoming-more-and-more-important-take-tw",
+      "titre": "'The PC platform is becoming more and more important,' Take-Two chief says, as we continue to wonder when we're going to get GTA 6",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-pc-platform-is-becoming-more-and-more-important-take-two-chief-says-as-we-continue-to-wonder-when-were-going-to-get-gta-6/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/the-pc-platform-is-becoming-more-and-more-important-take-two-chief-says-as-we-continue-to-wonder-when-were-going-to-get-gta-6/",
+          "titre": "'The PC platform is becoming more and more important,' Take-Two chief says, as we continue to wonder when we're going to get GTA 6"
+        }
+      ]
+    },
+    {
       "id": "i-have-modded-the-most-exciting-thing-possible-into-gta-5-ha",
       "titre": "I have modded the most exciting thing possible into GTA 5: Hard and soft credit checks and realistic personal finance",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-modded-the-most-exciting-thing-possible-into-gta-5-hard-and-soft-credit-checks-and-realistic-personal-finance/",
@@ -161,13 +197,55 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-modded-the-most-exciting-thing-possible-into-gta-5-hard-and-soft-credit-checks-and-realistic-personal-finance/",
           "titre": "I have modded the most exciting thing possible into GTA 5: Hard and soft credit checks and realistic personal finance"
+        }
+      ]
+    },
+    {
+      "id": "fire-emblem-fortune-s-weave-wonder-leaves-location-for-elega",
+      "titre": "Fire Emblem Fortune’s Weave: Wonder Leaves location for Elegant Drink Recipes quest",
+      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-wonder-leaves-location-for-elegant-drink-recipes-quest/",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 4.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-wonder-leaves-location-for-elegant-drink-recipes-quest/",
+          "titre": "Fire Emblem Fortune’s Weave: Wonder Leaves location for Elegant Drink Recipes quest"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/my-nintendo-fire-emblem-fortunes-weave-heroic-sweepstakes-announced-north-america",
+          "titre": "My Nintendo Fire Emblem: Fortune's Weave Heroic Sweepstakes Announced (North America)"
+        }
+      ]
+    },
+    {
+      "id": "review-hautepad-c-as-arcade-stick-for-switch-1-2-unique-eye",
+      "titre": "Review: Hautepad C-AS Arcade Stick For Switch 1 & 2 - Unique & Eye-Catching, But Improvements Are Needed",
+      "url": "https://www.nintendolife.com/reviews/hautepad-c-as-arcade-stick-for-switch-1-and-2-unique-and-eye-catching-but-improvements-are-needed",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/hautepad-c-as-arcade-stick-for-switch-1-and-2-unique-and-eye-catching-but-improvements-are-needed",
+          "titre": "Review: Hautepad C-AS Arcade Stick For Switch 1 & 2 - Unique & Eye-Catching, But Improvements Are Needed"
         }
       ]
     },
@@ -179,8 +257,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 9,
+      "heures": 4.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -198,8 +276,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 2.4,
-      "chaleur": 9,
+      "heures": 4.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -221,85 +299,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 9,
+      "heures": 4.5,
+      "chaleur": 7,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/theyve-watched-so-many-people-lose-their-jobs-that-has-an-impact-managing-morale-in-the-wake-of-layoffs",
           "titre": "\"They've watched so many people lose their jobs, that has an impact\" – Managing morale in the wake of layoffs"
-        }
-      ]
-    },
-    {
-      "id": "review-hautepad-c-as-arcade-stick-for-switch-1-2-unique-eye",
-      "titre": "Review: Hautepad C-AS Arcade Stick For Switch 1 & 2 - Unique & Eye-Catching, But Improvements Are Needed",
-      "url": "https://www.nintendolife.com/reviews/hautepad-c-as-arcade-stick-for-switch-1-and-2-unique-and-eye-catching-but-improvements-are-needed",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 0.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/hautepad-c-as-arcade-stick-for-switch-1-and-2-unique-and-eye-catching-but-improvements-are-needed",
-          "titre": "Review: Hautepad C-AS Arcade Stick For Switch 1 & 2 - Unique & Eye-Catching, But Improvements Are Needed"
-        }
-      ]
-    },
-    {
-      "id": "tractor-battling-teenage-road-trip-rpg-keep-driving-is-getti",
-      "titre": "Tractor-battling teenage road trip RPG Keep Driving is getting official mod support via Steam Workshop later this month",
-      "url": "https://www.rockpapershotgun.com/tractor-battling-teenage-road-trip-rpg-keep-driving-is-getting-official-mod-support-via-steam-workshop-later-this-month",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/tractor-battling-teenage-road-trip-rpg-keep-driving-is-getting-official-mod-support-via-steam-workshop-later-this-month",
-          "titre": "Tractor-battling teenage road trip RPG Keep Driving is getting official mod support via Steam Workshop later this month"
-        }
-      ]
-    },
-    {
-      "id": "single-player-games-might-require-age-verification-if-they-u",
-      "titre": "Single player games might require age verification if they use Steam under EU Kids Act's current draft, according to MEP's senior policy adviser",
-      "url": "https://www.rockpapershotgun.com/single-player-games-might-require-age-verification-if-they-use-steam-under-eu-kids-acts-current-draft-according-to-meps-senior-policy-adviser",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/single-player-games-might-require-age-verification-if-they-use-steam-under-eu-kids-acts-current-draft-according-to-meps-senior-policy-adviser",
-          "titre": "Single player games might require age verification if they use Steam under EU Kids Act's current draft, according to MEP's senior policy adviser"
-        }
-      ]
-    },
-    {
-      "id": "icymi-shujinkou-s-september-update-boosts-switch-1-2-perform",
-      "titre": "ICYMI: Shujinkou's September Update Boosts Switch 1 & 2 Performance, Here Are The Patch Notes",
-      "url": "https://www.nintendolife.com/news/2026/09/icymi-shujinkous-september-update-boosts-switch-1-and-2-performance-here-are-the-patch-notes",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/icymi-shujinkous-september-update-boosts-switch-1-and-2-performance-here-are-the-patch-notes",
-          "titre": "ICYMI: Shujinkou's September Update Boosts Switch 1 & 2 Performance, Here Are The Patch Notes"
         }
       ]
     },
@@ -311,7 +317,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 7,
       "liens": [
         {
@@ -329,7 +335,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 9.9,
       "chaleur": 7,
       "liens": [
         {
@@ -347,7 +353,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.2,
       "chaleur": 7,
       "liens": [
         {
@@ -502,20 +508,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "former-sony-suits-recreate-infamous-ps4-game-sharing-skit-on",
-      "titre": "Former Sony Suits Recreate Infamous PS4 Game Sharing Skit, Only without the Disc",
-      "url": "https://www.pushsquare.com/news/2026/09/former-sony-suits-recreate-infamous-ps4-game-sharing-skit-only-without-the-disc",
+      "id": "licensing-expo",
+      "titre": "Licensing Expo",
+      "url": "https://www.gamedeveloper.comwww.brandlicensingexpo.com",
       "sources": [
-        "Push Square"
+        "Game Developer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 0.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/former-sony-suits-recreate-infamous-ps4-game-sharing-skit-only-without-the-disc",
-          "titre": "Former Sony Suits Recreate Infamous PS4 Game Sharing Skit, Only without the Disc"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.comwww.brandlicensingexpo.com",
+          "titre": "Licensing Expo"
+        }
+      ]
+    },
+    {
+      "id": "reacher-star-alan-ritchson-is-in-talks-to-replace-jason-momo",
+      "titre": "Reacher star Alan Ritchson is in talks to replace Jason Momoa on the Helldivers movie",
+      "url": "https://www.pcgamer.com/movies-tv/reacher-star-alan-ritchson-is-in-talks-to-replace-jason-momoa-on-the-helldivers-movie/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/reacher-star-alan-ritchson-is-in-talks-to-replace-jason-momoa-on-the-helldivers-movie/",
+          "titre": "Reacher star Alan Ritchson is in talks to replace Jason Momoa on the Helldivers movie"
         }
       ]
     },
@@ -527,7 +551,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -545,7 +569,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -563,7 +587,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -574,146 +598,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-just-learned-there-s-a-camera-that-proves-its-photos-are-t",
-      "titre": "I just learned there's a camera that proves its photos are taken by a human, and Noctua makes the fan inside it",
-      "url": "https://www.pcgamer.com/hardware/i-just-learned-theres-a-camera-that-proves-its-photos-are-taken-by-a-human-and-noctua-makes-the-fan-inside-it/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/i-just-learned-theres-a-camera-that-proves-its-photos-are-taken-by-a-human-and-noctua-makes-the-fan-inside-it/",
-          "titre": "I just learned there's a camera that proves its photos are taken by a human, and Noctua makes the fan inside it"
-        }
-      ]
-    },
-    {
-      "id": "ea-sports-fc-review-the-first-major-new-mode-in-years-makes",
-      "titre": "EA Sports FC review: The first major new mode in years makes EA’s latest more than a typical annual update",
-      "url": "https://www.videogameschronicle.com/review/ea-sports-fc-27/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/review/ea-sports-fc-27/",
-          "titre": "EA Sports FC review: The first major new mode in years makes EA’s latest more than a typical annual update"
-        }
-      ]
-    },
-    {
-      "id": "sessions-on-managing-ai-impact-neurodivergent-teams-and-pers",
-      "titre": "Sessions on managing AI impact, neurodivergent teams and personal resilience confirmed for GamesIndustry.biz HR Summit",
-      "url": "https://www.gamesindustry.biz/sessions-on-managing-ai-impact-neurodivergent-teams-and-personal-resilience-confirmed-for-gamesindustrybiz-hr-summit",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/sessions-on-managing-ai-impact-neurodivergent-teams-and-personal-resilience-confirmed-for-gamesindustrybiz-hr-summit",
-          "titre": "Sessions on managing AI impact, neurodivergent teams and personal resilience confirmed for GamesIndustry.biz HR Summit"
-        }
-      ]
-    },
-    {
-      "id": "mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-servi",
-      "titre": "MiHoYo awarded $112,000 by Chinese court after AI voice service dupes Genshin Impact characters",
-      "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
-          "titre": "MiHoYo awarded $112,000 by Chinese court after AI voice service dupes Genshin Impact characters"
-        }
-      ]
-    },
-    {
-      "id": "roman-sands-re-build-review-a-unique-and-obliterating-blend",
-      "titre": "Roman Sands RE:Build review: A unique and obliterating blend of resort sim, engineering horror and alchemic ritual",
-      "url": "https://www.rockpapershotgun.com/roman-sands-rebuild-review",
+      "id": "tractor-battling-teenage-road-trip-rpg-keep-driving-is-getti",
+      "titre": "Tractor-battling teenage road trip RPG Keep Driving is getting official mod support via Steam Workshop later this month",
+      "url": "https://www.rockpapershotgun.com/tractor-battling-teenage-road-trip-rpg-keep-driving-is-getting-official-mod-support-via-steam-workshop-later-this-month",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 3.4,
+      "heures": 4.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/roman-sands-rebuild-review",
-          "titre": "Roman Sands RE:Build review: A unique and obliterating blend of resort sim, engineering horror and alchemic ritual"
+          "url": "https://www.rockpapershotgun.com/tractor-battling-teenage-road-trip-rpg-keep-driving-is-getting-official-mod-support-via-steam-workshop-later-this-month",
+          "titre": "Tractor-battling teenage road trip RPG Keep Driving is getting official mod support via Steam Workshop later this month"
         }
       ]
     },
     {
-      "id": "level-5-is-really-starting-to-panic-amidst-increasing-ai-bac",
-      "titre": "Level-5 Is Really Starting To Panic Amidst Increasing AI Backlash",
-      "url": "https://www.nintendolife.com/news/2026/09/level-5-is-really-starting-to-panic-amidst-increasing-ai-backlash",
+      "id": "single-player-games-might-require-age-verification-if-they-u",
+      "titre": "Single player games might require age verification if they use Steam under EU Kids Act's current draft, according to MEP's senior policy adviser",
+      "url": "https://www.rockpapershotgun.com/single-player-games-might-require-age-verification-if-they-use-steam-under-eu-kids-acts-current-draft-according-to-meps-senior-policy-adviser",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/single-player-games-might-require-age-verification-if-they-use-steam-under-eu-kids-acts-current-draft-according-to-meps-senior-policy-adviser",
+          "titre": "Single player games might require age verification if they use Steam under EU Kids Act's current draft, according to MEP's senior policy adviser"
+        }
+      ]
+    },
+    {
+      "id": "icymi-shujinkou-s-september-update-boosts-switch-1-2-perform",
+      "titre": "ICYMI: Shujinkou's September Update Boosts Switch 1 & 2 Performance, Here Are The Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/09/icymi-shujinkous-september-update-boosts-switch-1-and-2-performance-here-are-the-patch-notes",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.4,
+      "heures": 4.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/level-5-is-really-starting-to-panic-amidst-increasing-ai-backlash",
-          "titre": "Level-5 Is Really Starting To Panic Amidst Increasing AI Backlash"
-        }
-      ]
-    },
-    {
-      "id": "unbiased-monster-hunter-producer-predicts-one-weapon-will-cl",
-      "titre": "Unbiased Monster Hunter producer predicts one weapon will climb the popularity rankings in Ascendance, has no agenda: 'Hammer should definitely go up a place or two'",
-      "url": "https://www.pcgamer.com/games/action/unbiased-monster-hunter-producer-predicts-one-weapon-will-climb-the-popularity-rankings-in-ascendance-has-no-agenda-hammer-should-definitely-go-up-a-place-or-two/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/unbiased-monster-hunter-producer-predicts-one-weapon-will-climb-the-popularity-rankings-in-ascendance-has-no-agenda-hammer-should-definitely-go-up-a-place-or-two/",
-          "titre": "Unbiased Monster Hunter producer predicts one weapon will climb the popularity rankings in Ascendance, has no agenda: 'Hammer should definitely go up a place or two'"
-        }
-      ]
-    },
-    {
-      "id": "how-toolmakers-like-arm-work-with-devs-ft-peter-hodges",
-      "titre": "How toolmakers like ARM work with devs, ft. Peter Hodges",
-      "url": "https://www.gamedeveloper.com/art/how-toolmakers-like-arm-work-with-devs-ft-peter-hodges",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/art/how-toolmakers-like-arm-work-with-devs-ft-peter-hodges",
-          "titre": "How toolmakers like ARM work with devs, ft. Peter Hodges"
+          "url": "https://www.nintendolife.com/news/2026/09/icymi-shujinkous-september-update-boosts-switch-1-and-2-performance-here-are-the-patch-notes",
+          "titre": "ICYMI: Shujinkou's September Update Boosts Switch 1 & 2 Performance, Here Are The Patch Notes"
         }
       ]
     },
@@ -725,7 +659,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 6,
       "liens": [
         {
@@ -743,7 +677,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.7,
       "chaleur": 6,
       "liens": [
         {
@@ -761,7 +695,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.3,
       "chaleur": 6,
       "liens": [
         {
@@ -779,7 +713,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.3,
       "chaleur": 6,
       "liens": [
         {
@@ -797,7 +731,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.1,
       "chaleur": 6,
       "liens": [
         {
@@ -815,7 +749,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.8,
       "chaleur": 6,
       "liens": [
         {
@@ -833,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 19.0,
       "chaleur": 6,
       "liens": [
         {
@@ -851,7 +785,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 24.5,
+      "heures": 26.5,
       "chaleur": 6,
       "liens": [
         {
@@ -870,7 +804,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 26.1,
+      "heures": 28.0,
       "chaleur": 6,
       "liens": [
         {
@@ -893,7 +827,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 31.4,
       "chaleur": 6,
       "liens": [
         {
@@ -911,7 +845,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 30.0,
+      "heures": 32.0,
       "chaleur": 6,
       "liens": [
         {
@@ -929,7 +863,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.8,
       "chaleur": 5,
       "liens": [
         {
@@ -947,31 +881,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/another-warioware-album-has-been-added-to-nintendo-music",
           "titre": "Another WarioWare Album Has Been Added To Nintendo Music"
-        }
-      ]
-    },
-    {
-      "id": "if-you-can-t-get-enough-of-record-breaking-emmy-winner-matth",
-      "titre": "If you can't get enough of record-breaking Emmy winner Matthew Rhys, his newest TV series is based on an '80s Sega game, and is out now",
-      "url": "https://www.pcgamer.com/movies-tv/if-you-cant-get-enough-of-record-breaking-emmy-winner-matthew-rhys-his-newest-tv-series-is-based-on-an-80s-sega-game-and-is-out-now/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 19.6,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/if-you-cant-get-enough-of-record-breaking-emmy-winner-matthew-rhys-his-newest-tv-series-is-based-on-an-80s-sega-game-and-is-out-now/",
-          "titre": "If you can't get enough of record-breaking Emmy winner Matthew Rhys, his newest TV series is based on an '80s Sega game, and is out now"
         }
       ]
     },
@@ -983,7 +899,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.3,
       "chaleur": 5,
       "liens": [
         {
@@ -1001,7 +917,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.6,
+      "heures": 29.6,
       "chaleur": 5,
       "liens": [
         {
@@ -1019,7 +935,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.6,
+      "heures": 33.6,
       "chaleur": 5,
       "liens": [
         {
@@ -1037,7 +953,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 32.5,
+      "heures": 34.4,
       "chaleur": 5,
       "liens": [
         {
@@ -1048,20 +964,146 @@ const VEILLE = {
       ]
     },
     {
-      "id": "playstation-5-s-latest-firmware-update-takes-community-activ",
-      "titre": "PlayStation 5's latest firmware update takes Community Activity out of beta, but it's missing a key feature",
-      "url": "https://www.eurogamer.net/ps5-firmware-update-14-00-00-community-activity-missing-feature",
+      "id": "i-just-learned-there-s-a-camera-that-proves-its-photos-are-t",
+      "titre": "I just learned there's a camera that proves its photos are taken by a human, and Noctua makes the fan inside it",
+      "url": "https://www.pcgamer.com/hardware/i-just-learned-theres-a-camera-that-proves-its-photos-are-taken-by-a-human-and-noctua-makes-the-fan-inside-it/",
       "sources": [
-        "Eurogamer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 34.1,
-      "chaleur": 5,
+      "heures": 4.2,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ps5-firmware-update-14-00-00-community-activity-missing-feature",
-          "titre": "PlayStation 5's latest firmware update takes Community Activity out of beta, but it's missing a key feature"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/i-just-learned-theres-a-camera-that-proves-its-photos-are-taken-by-a-human-and-noctua-makes-the-fan-inside-it/",
+          "titre": "I just learned there's a camera that proves its photos are taken by a human, and Noctua makes the fan inside it"
+        }
+      ]
+    },
+    {
+      "id": "ea-sports-fc-27-review-the-first-major-new-mode-in-years-mak",
+      "titre": "EA Sports FC 27 review: The first major new mode in years makes EA’s latest more than a typical annual update",
+      "url": "https://www.videogameschronicle.com/review/ea-sports-fc-27/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/review/ea-sports-fc-27/",
+          "titre": "EA Sports FC 27 review: The first major new mode in years makes EA’s latest more than a typical annual update"
+        }
+      ]
+    },
+    {
+      "id": "sessions-on-managing-ai-impact-neurodivergent-teams-and-pers",
+      "titre": "Sessions on managing AI impact, neurodivergent teams and personal resilience confirmed for GamesIndustry.biz HR Summit",
+      "url": "https://www.gamesindustry.biz/sessions-on-managing-ai-impact-neurodivergent-teams-and-personal-resilience-confirmed-for-gamesindustrybiz-hr-summit",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/sessions-on-managing-ai-impact-neurodivergent-teams-and-personal-resilience-confirmed-for-gamesindustrybiz-hr-summit",
+          "titre": "Sessions on managing AI impact, neurodivergent teams and personal resilience confirmed for GamesIndustry.biz HR Summit"
+        }
+      ]
+    },
+    {
+      "id": "mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-servi",
+      "titre": "MiHoYo awarded $112,000 by Chinese court after AI voice service dupes Genshin Impact characters",
+      "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
+          "titre": "MiHoYo awarded $112,000 by Chinese court after AI voice service dupes Genshin Impact characters"
+        }
+      ]
+    },
+    {
+      "id": "roman-sands-re-build-review-a-unique-and-obliterating-blend",
+      "titre": "Roman Sands RE:Build review: A unique and obliterating blend of resort sim, engineering horror and alchemic ritual",
+      "url": "https://www.rockpapershotgun.com/roman-sands-rebuild-review",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/roman-sands-rebuild-review",
+          "titre": "Roman Sands RE:Build review: A unique and obliterating blend of resort sim, engineering horror and alchemic ritual"
+        }
+      ]
+    },
+    {
+      "id": "level-5-is-really-starting-to-panic-amidst-increasing-ai-bac",
+      "titre": "Level-5 Is Really Starting To Panic Amidst Increasing AI Backlash",
+      "url": "https://www.nintendolife.com/news/2026/09/level-5-is-really-starting-to-panic-amidst-increasing-ai-backlash",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/level-5-is-really-starting-to-panic-amidst-increasing-ai-backlash",
+          "titre": "Level-5 Is Really Starting To Panic Amidst Increasing AI Backlash"
+        }
+      ]
+    },
+    {
+      "id": "unbiased-monster-hunter-producer-predicts-one-weapon-will-cl",
+      "titre": "Unbiased Monster Hunter producer predicts one weapon will climb the popularity rankings in Ascendance, has no agenda: 'Hammer should definitely go up a place or two'",
+      "url": "https://www.pcgamer.com/games/action/unbiased-monster-hunter-producer-predicts-one-weapon-will-climb-the-popularity-rankings-in-ascendance-has-no-agenda-hammer-should-definitely-go-up-a-place-or-two/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/unbiased-monster-hunter-producer-predicts-one-weapon-will-climb-the-popularity-rankings-in-ascendance-has-no-agenda-hammer-should-definitely-go-up-a-place-or-two/",
+          "titre": "Unbiased Monster Hunter producer predicts one weapon will climb the popularity rankings in Ascendance, has no agenda: 'Hammer should definitely go up a place or two'"
+        }
+      ]
+    },
+    {
+      "id": "how-toolmakers-like-arm-work-with-devs-ft-peter-hodges",
+      "titre": "How toolmakers like ARM work with devs, ft. Peter Hodges",
+      "url": "https://www.gamedeveloper.com/art/how-toolmakers-like-arm-work-with-devs-ft-peter-hodges",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/art/how-toolmakers-like-arm-work-with-devs-ft-peter-hodges",
+          "titre": "How toolmakers like ARM work with devs, ft. Peter Hodges"
         }
       ]
     },
@@ -1073,7 +1115,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1091,7 +1133,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1109,49 +1151,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/action/gears-of-war-e-day-system-requirements-require-ray-tracing-capable-graphics-card-to-play-alongside-115-gb-of-free-space-on-an-ssd/",
           "titre": "Gears of War: E-Day system requirements require ray tracing-capable graphics card to play, alongside 115 GB of free space on an SSD"
-        }
-      ]
-    },
-    {
-      "id": "pulling-focus-must-aaa-pander-to-the-distracted-opinion",
-      "titre": "Pulling focus: Must AAA pander to the distracted? | Opinion",
-      "url": "https://www.gamesindustry.biz/pulling-focus-must-aaa-pander-to-the-distracted-opinion",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 4.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/pulling-focus-must-aaa-pander-to-the-distracted-opinion",
-          "titre": "Pulling focus: Must AAA pander to the distracted? | Opinion"
-        }
-      ]
-    },
-    {
-      "id": "don-t-bother-turning-control-resonant-up-to-the-maximum-for",
-      "titre": "Don't bother turning Control Resonant up to the maximum for mind-bending graphics, there's both performance and beauty in the lower graphics presets too",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/dont-bother-turning-control-resonant-up-to-the-maximum-for-mind-bending-graphics-theres-both-performance-and-beauty-in-the-lower-graphics-presets-too/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/dont-bother-turning-control-resonant-up-to-the-maximum-for-mind-bending-graphics-theres-both-performance-and-beauty-in-the-lower-graphics-presets-too/",
-          "titre": "Don't bother turning Control Resonant up to the maximum for mind-bending graphics, there's both performance and beauty in the lower graphics presets too"
         }
       ]
     }
