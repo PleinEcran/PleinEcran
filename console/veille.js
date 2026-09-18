@@ -1,35 +1,47 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "18/09/2026 à 14h20",
+  "collecte": "18/09/2026 à 16h19",
   "seuil": 14,
   "sujets": [
     {
-      "id": "twitch-ceo-says-grand-theft-auto-6-s-multiplayer-mode-will-l",
-      "titre": "Twitch CEO says Grand Theft Auto 6’s multiplayer mode will launch next year",
-      "url": "https://www.videogameschronicle.com/news/twitch-ceo-says-grand-theft-auto-6s-multiplayer-mode-will-launch-next-year/",
+      "id": "control-resonant-critical-consensus",
+      "titre": "Control Resonant | Critical Consensus",
+      "url": "https://www.gamesindustry.biz/control-resonant-critical-consensus",
       "sources": [
         "Eurogamer",
-        "Rock Paper Shotgun",
+        "GamesIndustry.biz",
+        "PC Gamer",
+        "Push Square",
         "VGC"
       ],
-      "reprises": 3,
-      "heures": 3.0,
-      "chaleur": 15,
+      "reprises": 5,
+      "heures": 0.1,
+      "chaleur": 18,
       "liens": [
         {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/control-resonant-critical-consensus",
+          "titre": "Control Resonant | Critical Consensus"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/control-resonant-is-one-of-the-best-looking-games-at-low-graphics-settings-ive-ever-seen/",
+          "titre": "Control Resonant is one of the best-looking games at low graphics settings I've ever seen"
+        },
+        {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/twitch-ceo-says-grand-theft-auto-6s-multiplayer-mode-will-launch-next-year/",
-          "titre": "Twitch CEO says Grand Theft Auto 6’s multiplayer mode will launch next year"
+          "url": "https://www.videogameschronicle.com/review/control-resonant/",
+          "titre": "Control Resonant review: Remedy gambles on a genre change in one of its most impressive games ever"
         },
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-online-release-date-twitch-ceo",
-          "titre": "Rockstar hasn't said anything about a GTA 6 Online multiplayer mode just yet, but Twitch's CEO reckons it'll land next year"
+          "url": "https://www.eurogamer.net/control-resonant-review",
+          "titre": "Control Resonant review"
         },
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/twitch-ceo-expects-gta-6-online-multiplayer-will-launch-next-year-which-if-accurate-would-leave-only-the-pc-ports-arrival-point-up-in-the-air",
-          "titre": "Twitch CEO expects GTA 6 online multiplayer will launch next year, which if accurate would leave only the PC port's arrival point up in the air"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/movie-review-resident-evil-the-best-resident-evil-film-ever",
+          "titre": "Movie Review: Resident Evil - The Best Resident Evil Film Ever"
         }
       ]
     },
@@ -44,7 +56,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 4,
-      "heures": 21.3,
+      "heures": 23.3,
       "chaleur": 15,
       "liens": [
         {
@@ -70,6 +82,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "twitch-ceo-says-grand-theft-auto-6-s-multiplayer-mode-will-l",
+      "titre": "Twitch CEO says Grand Theft Auto 6’s multiplayer mode will launch next year",
+      "url": "https://www.videogameschronicle.com/news/twitch-ceo-says-grand-theft-auto-6s-multiplayer-mode-will-launch-next-year/",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 5.0,
+      "chaleur": 13,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/twitch-ceo-says-grand-theft-auto-6s-multiplayer-mode-will-launch-next-year/",
+          "titre": "Twitch CEO says Grand Theft Auto 6’s multiplayer mode will launch next year"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-online-release-date-twitch-ceo",
+          "titre": "Rockstar hasn't said anything about a GTA 6 Online multiplayer mode just yet, but Twitch's CEO reckons it'll land next year"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/twitch-ceo-expects-gta-6-online-multiplayer-will-launch-next-year-which-if-accurate-would-leave-only-the-pc-ports-arrival-point-up-in-the-air",
+          "titre": "Twitch CEO expects GTA 6 online multiplayer will launch next year, which if accurate would leave only the PC port's arrival point up in the air"
+        }
+      ]
+    },
+    {
+      "id": "fire-emblem-fortune-s-weave-wonder-leaves-location-for-elega",
+      "titre": "Fire Emblem Fortune’s Weave: Wonder Leaves location for Elegant Drink Recipes quest",
+      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-wonder-leaves-location-for-elegant-drink-recipes-quest/",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.1,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-wonder-leaves-location-for-elegant-drink-recipes-quest/",
+          "titre": "Fire Emblem Fortune’s Weave: Wonder Leaves location for Elegant Drink Recipes quest"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/my-nintendo-fire-emblem-fortunes-weave-heroic-sweepstakes-announced-north-america",
+          "titre": "My Nintendo Fire Emblem: Fortune's Weave Heroic Sweepstakes Announced (North America)"
+        }
+      ]
+    },
+    {
       "id": "king-workers-call-strike-after-collective-agreement-negotiat",
       "titre": "King workers call strike after collective agreement negotiations stall",
       "url": "https://www.gamedeveloper.com/production/king-workers-call-strike-after-collective-agreement-negotiations-stall",
@@ -78,8 +144,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 2.3,
-      "chaleur": 12,
+      "heures": 4.3,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Game Developer",
@@ -94,134 +160,116 @@ const VEILLE = {
       ]
     },
     {
-      "id": "fire-emblem-fortune-s-weave-sweet-leaves-location-for-simple",
-      "titre": "Fire Emblem Fortune’s Weave: Sweet Leaves location for Simple Drink Recipes quest",
-      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-sweet-leaves-location-for-simple-drink-recipes-quest/",
+      "id": "review-woodo-nintendo-switch-2-edition-an-irresistible-hard",
+      "titre": "Review: Woodo - Nintendo Switch 2 Edition - An Irresistible, Hard-To-Define Formula For Pure Relaxation",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/woodo-nintendo-switch-2-edition",
       "sources": [
-        "Nintendo Life",
-        "VGC"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 1.3,
-      "chaleur": 11,
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-sweet-leaves-location-for-simple-drink-recipes-quest/",
-          "titre": "Fire Emblem Fortune’s Weave: Sweet Leaves location for Simple Drink Recipes quest"
-        },
-        {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/my-nintendo-fire-emblem-fortunes-weave-heroic-sweepstakes-announced-north-america",
-          "titre": "My Nintendo Fire Emblem: Fortune's Weave Heroic Sweepstakes Announced (North America)"
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/woodo-nintendo-switch-2-edition",
+          "titre": "Review: Woodo - Nintendo Switch 2 Edition - An Irresistible, Hard-To-Define Formula For Pure Relaxation"
         }
       ]
     },
     {
-      "id": "final-fantasy-7-revelation-will-be-around-200gb-says-game-di",
-      "titre": "Final Fantasy 7 Revelation will be \"around 200GB\" says game director, as he details Sephiroth and Vincent Valentine DLC plans",
-      "url": "https://www.eurogamer.net/final-fantasy-7-revelation-200gb-file-size-dlc",
+      "id": "final-fantasy-7-revelation-on-ps5-will-be-a-mammoth-200gb-di",
+      "titre": "Final Fantasy 7 Revelation on PS5 Will Be a Mammoth 200GB, Director Says",
+      "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-on-ps5-will-be-a-mammoth-200gb-director-says",
       "sources": [
         "Eurogamer",
-        "VGC"
+        "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.3,
+      "heures": 0.3,
       "chaleur": 9,
       "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-on-ps5-will-be-a-mammoth-200gb-director-says",
+          "titre": "Final Fantasy 7 Revelation on PS5 Will Be a Mammoth 200GB, Director Says"
+        },
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/final-fantasy-7-revelation-200gb-file-size-dlc",
           "titre": "Final Fantasy 7 Revelation will be \"around 200GB\" says game director, as he details Sephiroth and Vincent Valentine DLC plans"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/interviews/ff7-revelation-director-hamaguchi-discusses-the-games-200gb-size-dlc-plans-and-a-new-tifa-detail/",
-          "titre": "FF7 Revelation director Hamaguchi discusses the game’s 200GB size, DLC plans, and a new Tifa detail"
         }
       ]
     },
     {
-      "id": "don-t-bother-turning-control-resonant-up-to-the-maximum-for",
-      "titre": "Don't bother turning Control Resonant up to the maximum for mind-bending graphics, there's both performance and beauty in the lower graphics presets too",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/dont-bother-turning-control-resonant-up-to-the-maximum-for-mind-bending-graphics-theres-both-performance-and-beauty-in-the-lower-graphics-presets-too/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 1.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/dont-bother-turning-control-resonant-up-to-the-maximum-for-mind-bending-graphics-theres-both-performance-and-beauty-in-the-lower-graphics-presets-too/",
-          "titre": "Don't bother turning Control Resonant up to the maximum for mind-bending graphics, there's both performance and beauty in the lower graphics presets too"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/control-resonant-review",
-          "titre": "Control Resonant review"
-        }
-      ]
-    },
-    {
-      "id": "control-resonant-review-remedy-gambles-on-a-genre-change-in",
-      "titre": "Control Resonant review: Remedy gambles on a genre change in one of its most impressive games ever",
-      "url": "https://www.videogameschronicle.com/review/control-resonant/",
-      "sources": [
-        "GamesIndustry.biz",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 1.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/review/control-resonant/",
-          "titre": "Control Resonant review: Remedy gambles on a genre change in one of its most impressive games ever"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/remedys-arhi-makkonen-on-designing-the-biggest-world-we-have-ever-done-for-control-resonant",
-          "titre": "Remedy's Arhi Makkonen on designing the \"biggest world we have ever done\" for Control Resonant"
-        }
-      ]
-    },
-    {
-      "id": "bolstered-by-switch-2-sales-and-zelda-ocarina-of-time-remake",
-      "titre": "Bolstered by Switch 2 sales and Zelda: Ocarina of Time remake's reveal, Nintendo of America COO promises: \"This is just the beginning\"",
-      "url": "https://www.eurogamer.net/switch-2-sales-ocarina-of-time-just-the-beginning",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/switch-2-sales-ocarina-of-time-just-the-beginning",
-          "titre": "Bolstered by Switch 2 sales and Zelda: Ocarina of Time remake's reveal, Nintendo of America COO promises: \"This is just the beginning\""
-        }
-      ]
-    },
-    {
-      "id": "strauss-zelnick-stresses-a-well-known-franchise-like-gta-sti",
-      "titre": "Strauss Zelnick stresses a well-known franchise like GTA still needs marketing: \"You always have to go out and create enthusiasm\"",
-      "url": "https://www.gamesindustry.biz/strauss-zelnick-stresses-a-well-known-franchise-like-gta-still-needs-marketing-you-always-have-to-go-out-and-create-enthusiasm",
+      "id": "they-ve-watched-so-many-people-lose-their-jobs-that-has-an",
+      "titre": "\"They've watched so many people lose their jobs, that has an impact\" – Managing morale in the wake of layoffs",
+      "url": "https://www.gamesindustry.biz/theyve-watched-so-many-people-lose-their-jobs-that-has-an-impact-managing-morale-in-the-wake-of-layoffs",
       "sources": [
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 0.4,
       "chaleur": 9,
       "liens": [
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/strauss-zelnick-stresses-a-well-known-franchise-like-gta-still-needs-marketing-you-always-have-to-go-out-and-create-enthusiasm",
-          "titre": "Strauss Zelnick stresses a well-known franchise like GTA still needs marketing: \"You always have to go out and create enthusiasm\""
+          "url": "https://www.gamesindustry.biz/theyve-watched-so-many-people-lose-their-jobs-that-has-an-impact-managing-morale-in-the-wake-of-layoffs",
+          "titre": "\"They've watched so many people lose their jobs, that has an impact\" – Managing morale in the wake of layoffs"
+        }
+      ]
+    },
+    {
+      "id": "tractor-battling-teenage-road-trip-rpg-keep-driving-is-getti",
+      "titre": "Tractor-battling teenage road trip RPG Keep Driving is getting official mod support via Steam Workshop later this month",
+      "url": "https://www.rockpapershotgun.com/tractor-battling-teenage-road-trip-rpg-keep-driving-is-getting-official-mod-support-via-steam-workshop-later-this-month",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/tractor-battling-teenage-road-trip-rpg-keep-driving-is-getting-official-mod-support-via-steam-workshop-later-this-month",
+          "titre": "Tractor-battling teenage road trip RPG Keep Driving is getting official mod support via Steam Workshop later this month"
+        }
+      ]
+    },
+    {
+      "id": "single-player-games-might-require-age-verification-if-they-u",
+      "titre": "Single player games might require age verification if they use Steam under EU Kids Act's current draft, according to MEP's senior policy adviser",
+      "url": "https://www.rockpapershotgun.com/single-player-games-might-require-age-verification-if-they-use-steam-under-eu-kids-acts-current-draft-according-to-meps-senior-policy-adviser",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/single-player-games-might-require-age-verification-if-they-use-steam-under-eu-kids-acts-current-draft-according-to-meps-senior-policy-adviser",
+          "titre": "Single player games might require age verification if they use Steam under EU Kids Act's current draft, according to MEP's senior policy adviser"
+        }
+      ]
+    },
+    {
+      "id": "icymi-shujinkou-s-september-update-boosts-switch-1-2-perform",
+      "titre": "ICYMI: Shujinkou's September Update Boosts Switch 1 & 2 Performance, Here Are The Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/09/icymi-shujinkous-september-update-boosts-switch-1-and-2-performance-here-are-the-patch-notes",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/icymi-shujinkous-september-update-boosts-switch-1-and-2-performance-here-are-the-patch-notes",
+          "titre": "ICYMI: Shujinkou's September Update Boosts Switch 1 & 2 Performance, Here Are The Patch Notes"
         }
       ]
     },
@@ -233,7 +281,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 8,
       "liens": [
         {
@@ -251,55 +299,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/vr-hardware/over-35-000-people-say-they-signed-up-for-a-steam-frame-and-less-than-half-have-one-reserved/",
           "titre": "Over 35,000 people say they signed up for a Steam Frame, and less than half have one reserved"
-        }
-      ]
-    },
-    {
-      "id": "review-valheim-switch-2-epic-survival-crafter-finally-hits-1",
-      "titre": "Review: Valheim (Switch 2) - Epic Survival Crafter Finally Hits 1.0, With Performance & Crossplay Hiccups",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/valheim",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/valheim",
-          "titre": "Review: Valheim (Switch 2) - Epic Survival Crafter Finally Hits 1.0, With Performance & Crossplay Hiccups"
-        }
-      ]
-    },
-    {
-      "id": "feature-playstation-is-the-only-platform-holder-at-tgs-2026",
-      "titre": "Feature: PlayStation Is the Only Platform Holder at TGS 2026, and It's Putting on a Show",
-      "url": "https://www.pushsquare.com/features/playstation-is-the-only-platform-holder-at-tgs-2026-and-its-putting-on-a-show",
-      "sources": [
-        "Game Developer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 26.8,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/playstation-is-the-only-platform-holder-at-tgs-2026-and-its-putting-on-a-show",
-          "titre": "Feature: PlayStation Is the Only Platform Holder at TGS 2026, and It's Putting on a Show"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/events/tokyo-game-show-tgs-",
-          "titre": "Tokyo Game Show (TGS)"
         }
       ]
     },
@@ -312,7 +318,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 28.5,
+      "heures": 30.4,
       "chaleur": 8,
       "liens": [
         {
@@ -328,6 +334,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "bolstered-by-switch-2-sales-and-zelda-ocarina-of-time-remake",
+      "titre": "Bolstered by Switch 2 sales and Zelda: Ocarina of Time remake's reveal, Nintendo of America COO promises: \"This is just the beginning\"",
+      "url": "https://www.eurogamer.net/switch-2-sales-ocarina-of-time-just-the-beginning",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/switch-2-sales-ocarina-of-time-just-the-beginning",
+          "titre": "Bolstered by Switch 2 sales and Zelda: Ocarina of Time remake's reveal, Nintendo of America COO promises: \"This is just the beginning\""
+        }
+      ]
+    },
+    {
+      "id": "strauss-zelnick-stresses-a-well-known-franchise-like-gta-sti",
+      "titre": "Strauss Zelnick stresses a well-known franchise like GTA still needs marketing: \"You always have to go out and create enthusiasm\"",
+      "url": "https://www.gamesindustry.biz/strauss-zelnick-stresses-a-well-known-franchise-like-gta-still-needs-marketing-you-always-have-to-go-out-and-create-enthusiasm",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/strauss-zelnick-stresses-a-well-known-franchise-like-gta-still-needs-marketing-you-always-have-to-go-out-and-create-enthusiasm",
+          "titre": "Strauss Zelnick stresses a well-known franchise like GTA still needs marketing: \"You always have to go out and create enthusiasm\""
+        }
+      ]
+    },
+    {
       "id": "why-do-japanese-studios-suffer-fewer-layoffs-because-they-ha",
       "titre": "Why do Japanese studios suffer fewer layoffs? Because they have smaller teams and don't pay their execs $30m, says one expert",
       "url": "https://www.eurogamer.net/japan-game-development-layoffs-exec-money",
@@ -335,7 +377,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.2,
       "chaleur": 7,
       "liens": [
         {
@@ -353,7 +395,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 10.8,
       "chaleur": 7,
       "liens": [
         {
@@ -371,7 +413,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.6,
+      "heures": 24.6,
       "chaleur": 7,
       "liens": [
         {
@@ -526,38 +568,182 @@ const VEILLE = {
       ]
     },
     {
-      "id": "licensing-expo",
-      "titre": "Licensing Expo",
-      "url": "https://www.gamedeveloper.comwww.brandlicensingexpo.com",
+      "id": "i-just-learned-there-s-a-camera-that-proves-its-photos-are-t",
+      "titre": "I just learned there's a camera that proves its photos are taken by a human, and Noctua makes the fan inside it",
+      "url": "https://www.pcgamer.com/hardware/i-just-learned-theres-a-camera-that-proves-its-photos-are-taken-by-a-human-and-noctua-makes-the-fan-inside-it/",
       "sources": [
-        "Game Developer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 0.2,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.comwww.brandlicensingexpo.com",
-          "titre": "Licensing Expo"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/i-just-learned-theres-a-camera-that-proves-its-photos-are-taken-by-a-human-and-noctua-makes-the-fan-inside-it/",
+          "titre": "I just learned there's a camera that proves its photos are taken by a human, and Noctua makes the fan inside it"
         }
       ]
     },
     {
-      "id": "mdev",
-      "titre": "MDEV",
-      "url": "https://www.gamedeveloper.comwww.mdevconf.com",
+      "id": "ea-sports-fc-review-the-first-major-new-mode-in-years-makes",
+      "titre": "EA Sports FC review: The first major new mode in years makes EA’s latest more than a typical annual update",
+      "url": "https://www.videogameschronicle.com/review/ea-sports-fc-27/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/review/ea-sports-fc-27/",
+          "titre": "EA Sports FC review: The first major new mode in years makes EA’s latest more than a typical annual update"
+        }
+      ]
+    },
+    {
+      "id": "sessions-on-managing-ai-impact-neurodivergent-teams-and-pers",
+      "titre": "Sessions on managing AI impact, neurodivergent teams and personal resilience confirmed for GamesIndustry.biz HR Summit",
+      "url": "https://www.gamesindustry.biz/sessions-on-managing-ai-impact-neurodivergent-teams-and-personal-resilience-confirmed-for-gamesindustrybiz-hr-summit",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/sessions-on-managing-ai-impact-neurodivergent-teams-and-personal-resilience-confirmed-for-gamesindustrybiz-hr-summit",
+          "titre": "Sessions on managing AI impact, neurodivergent teams and personal resilience confirmed for GamesIndustry.biz HR Summit"
+        }
+      ]
+    },
+    {
+      "id": "mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-servi",
+      "titre": "MiHoYo awarded $112,000 by Chinese court after AI voice service dupes Genshin Impact characters",
+      "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
       "sources": [
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 1.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
-          "url": "https://www.gamedeveloper.comwww.mdevconf.com",
-          "titre": "MDEV"
+          "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
+          "titre": "MiHoYo awarded $112,000 by Chinese court after AI voice service dupes Genshin Impact characters"
+        }
+      ]
+    },
+    {
+      "id": "roman-sands-re-build-review-a-unique-and-obliterating-blend",
+      "titre": "Roman Sands RE:Build review: A unique and obliterating blend of resort sim, engineering horror and alchemic ritual",
+      "url": "https://www.rockpapershotgun.com/roman-sands-rebuild-review",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/roman-sands-rebuild-review",
+          "titre": "Roman Sands RE:Build review: A unique and obliterating blend of resort sim, engineering horror and alchemic ritual"
+        }
+      ]
+    },
+    {
+      "id": "level-5-is-really-starting-to-panic-amidst-increasing-ai-bac",
+      "titre": "Level-5 Is Really Starting To Panic Amidst Increasing AI Backlash",
+      "url": "https://www.nintendolife.com/news/2026/09/level-5-is-really-starting-to-panic-amidst-increasing-ai-backlash",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/level-5-is-really-starting-to-panic-amidst-increasing-ai-backlash",
+          "titre": "Level-5 Is Really Starting To Panic Amidst Increasing AI Backlash"
+        }
+      ]
+    },
+    {
+      "id": "unbiased-monster-hunter-producer-predicts-one-weapon-will-cl",
+      "titre": "Unbiased Monster Hunter producer predicts one weapon will climb the popularity rankings in Ascendance, has no agenda: 'Hammer should definitely go up a place or two'",
+      "url": "https://www.pcgamer.com/games/action/unbiased-monster-hunter-producer-predicts-one-weapon-will-climb-the-popularity-rankings-in-ascendance-has-no-agenda-hammer-should-definitely-go-up-a-place-or-two/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/unbiased-monster-hunter-producer-predicts-one-weapon-will-climb-the-popularity-rankings-in-ascendance-has-no-agenda-hammer-should-definitely-go-up-a-place-or-two/",
+          "titre": "Unbiased Monster Hunter producer predicts one weapon will climb the popularity rankings in Ascendance, has no agenda: 'Hammer should definitely go up a place or two'"
+        }
+      ]
+    },
+    {
+      "id": "modern-aaa-games-are-boring-says-the-last-of-us-game-directo",
+      "titre": "Modern AAA Games Are 'Boring', Says The Last of Us Game Director",
+      "url": "https://www.pushsquare.com/news/2026/09/modern-aaa-games-are-boring-says-the-last-of-us-game-director",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/modern-aaa-games-are-boring-says-the-last-of-us-game-director",
+          "titre": "Modern AAA Games Are 'Boring', Says The Last of Us Game Director"
+        }
+      ]
+    },
+    {
+      "id": "how-toolmakers-like-arm-work-with-devs-ft-peter-hodges",
+      "titre": "How toolmakers like ARM work with devs, ft. Peter Hodges",
+      "url": "https://www.gamedeveloper.com/art/how-toolmakers-like-arm-work-with-devs-ft-peter-hodges",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/art/how-toolmakers-like-arm-work-with-devs-ft-peter-hodges",
+          "titre": "How toolmakers like ARM work with devs, ft. Peter Hodges"
+        }
+      ]
+    },
+    {
+      "id": "after-894-hours-in-slay-the-spire-2-these-are-our-12-stronge",
+      "titre": "After 894 hours in Slay the Spire 2, these are our 12 strongest opinions",
+      "url": "https://www.pcgamer.com/games/card-games/slay-the-spire-2-opinions/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/card-games/slay-the-spire-2-opinions/",
+          "titre": "After 894 hours in Slay the Spire 2, these are our 12 strongest opinions"
         }
       ]
     },
@@ -569,7 +755,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -587,7 +773,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -605,13 +791,31 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/pulling-focus-must-aaa-pander-to-the-distracted-opinion",
           "titre": "Pulling focus: Must AAA pander to the distracted? | Opinion"
+        }
+      ]
+    },
+    {
+      "id": "don-t-bother-turning-control-resonant-up-to-the-maximum-for",
+      "titre": "Don't bother turning Control Resonant up to the maximum for mind-bending graphics, there's both performance and beauty in the lower graphics presets too",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/dont-bother-turning-control-resonant-up-to-the-maximum-for-mind-bending-graphics-theres-both-performance-and-beauty-in-the-lower-graphics-presets-too/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/dont-bother-turning-control-resonant-up-to-the-maximum-for-mind-bending-graphics-theres-both-performance-and-beauty-in-the-lower-graphics-presets-too/",
+          "titre": "Don't bother turning Control Resonant up to the maximum for mind-bending graphics, there's both performance and beauty in the lower graphics presets too"
         }
       ]
     },
@@ -623,7 +827,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -641,7 +845,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -652,56 +856,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "disaster-very-cancels-loads-of-metroid-ravenous-special-edit",
-      "titre": "Disaster! 'Very' Cancels Loads Of Metroid Ravenous Special Edition Pre-Orders",
-      "url": "https://www.nintendolife.com/news/2026/09/disaster-very-cancels-loads-of-metroid-ravenous-special-edition-pre-orders",
+      "id": "review-valheim-switch-2-epic-survival-crafter-finally-hits-1",
+      "titre": "Review: Valheim (Switch 2) - Epic Survival Crafter Finally Hits 1.0, With Performance & Crossplay Hiccups",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/valheim",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.8,
+      "heures": 4.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/disaster-very-cancels-loads-of-metroid-ravenous-special-edition-pre-orders",
-          "titre": "Disaster! 'Very' Cancels Loads Of Metroid Ravenous Special Edition Pre-Orders"
-        }
-      ]
-    },
-    {
-      "id": "preview-i-ferried-a-soba-noodles-fan-around-tokyo-in-crazy-t",
-      "titre": "Preview: I Ferried a Soba Noodles Fan Around Tokyo in Crazy Taxi: World Tour, But I Have a Lingering Nitpick with This PS5 Revival",
-      "url": "https://www.pushsquare.com/previews/i-ferried-a-soba-noodles-fan-around-tokyo-in-crazy-taxi-world-tour-but-i-have-a-lingering-nitpick-with-this-ps5-revival",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/previews/i-ferried-a-soba-noodles-fan-around-tokyo-in-crazy-taxi-world-tour-but-i-have-a-lingering-nitpick-with-this-ps5-revival",
-          "titre": "Preview: I Ferried a Soba Noodles Fan Around Tokyo in Crazy Taxi: World Tour, But I Have a Lingering Nitpick with This PS5 Revival"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-s-beta-is-a-laggy-hell-for-some-eu",
-      "titre": "World of Warcraft: Forever's beta is a laggy hell for some EU players (and yours truly), but there is a workaround",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-lag-how-to-fix/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-lag-how-to-fix/",
-          "titre": "World of Warcraft: Forever's beta is a laggy hell for some EU players (and yours truly), but there is a workaround"
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/valheim",
+          "titre": "Review: Valheim (Switch 2) - Epic Survival Crafter Finally Hits 1.0, With Performance & Crossplay Hiccups"
         }
       ]
     },
@@ -713,7 +881,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 6,
       "liens": [
         {
@@ -731,7 +899,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.1,
       "chaleur": 6,
       "liens": [
         {
@@ -749,7 +917,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.8,
       "chaleur": 6,
       "liens": [
         {
@@ -767,7 +935,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 15.0,
       "chaleur": 6,
       "liens": [
         {
@@ -786,7 +954,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 16.9,
+      "heures": 18.8,
       "chaleur": 6,
       "liens": [
         {
@@ -802,30 +970,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-blood-of-dawnwalker-sequel-may-not-have-the-divisive-tim",
-      "titre": "The Blood of Dawnwalker sequel may not have the divisive time mechanic that so many players dislike: 'We will not force it,' game director says",
-      "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-sequel-may-not-have-the-divisive-time-mechanic-that-so-many-players-dislike-we-will-not-force-it-game-director-says/",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 17.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-sequel-may-not-have-the-divisive-time-mechanic-that-so-many-players-dislike-we-will-not-force-it-game-director-says/",
-          "titre": "The Blood of Dawnwalker sequel may not have the divisive time mechanic that so many players dislike: 'We will not force it,' game director says"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/we-will-not-force-it-the-blood-of-dawnwalkers-sequel-might-drop-the-timer-mechanics-says-director-but-i-hope-they-stick-around",
-          "titre": "\"We will not force it\": The Blood of Dawnwalker's sequel might drop the timer mechanics, says director, but I hope they stick around"
-        }
-      ]
-    },
-    {
       "id": "take-two-ceo-strauss-zelnick-says-gta-vi-needs-to-be-markete",
       "titre": "Take-Two CEO Strauss Zelnick says GTA VI needs to be 'marketed aggressively' despite global brand awareness",
       "url": "https://www.gamedeveloper.com/marketing/strauss-zelnick-says-gta-vi-needs-to-be-marketed-aggressively-despite-global-brand-awareness",
@@ -833,7 +977,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 20.5,
+      "heures": 22.5,
       "chaleur": 6,
       "liens": [
         {
@@ -852,7 +996,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 22.0,
+      "heures": 24.0,
       "chaleur": 6,
       "liens": [
         {
@@ -875,7 +1019,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.4,
       "chaleur": 6,
       "liens": [
         {
@@ -893,7 +1037,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.0,
+      "heures": 28.0,
       "chaleur": 6,
       "liens": [
         {
@@ -911,7 +1055,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 5,
       "liens": [
         {
@@ -929,7 +1073,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.5,
       "chaleur": 5,
       "liens": [
         {
@@ -947,31 +1091,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-17th-september-north-america-plus-3-discounted-eshop-games-that-should-be-on-your-radar",
           "titre": "Nintendo Download: 17th September (North America) - Plus 3 Discounted eShop Games That Should Be On Your Radar"
-        }
-      ]
-    },
-    {
-      "id": "preview-i-played-stellar-blade-on-switch-2-and-eve-s-only-lo",
-      "titre": "Preview: I Played Stellar Blade On Switch 2, And Eve's Only Lost A Little Of Her Gloss",
-      "url": "https://www.nintendolife.com/previews/i-played-stellar-blade-on-switch-2-and-eves-only-lost-a-little-of-her-gloss",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 23.3,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/previews/i-played-stellar-blade-on-switch-2-and-eves-only-lost-a-little-of-her-gloss",
-          "titre": "Preview: I Played Stellar Blade On Switch 2, And Eve's Only Lost A Little Of Her Gloss"
         }
       ]
     },
@@ -983,31 +1109,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.6,
+      "heures": 25.6,
       "chaleur": 5,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/delayed-to-2027-bloodstained-the-scarlet-engagement-is-looking-good-in-new-trailer",
           "titre": "Delayed to 2027, Bloodstained: The Scarlet Engagement Is Looking Good in New Trailer"
-        }
-      ]
-    },
-    {
-      "id": "the-ni-no-kuni-universe-welcomes-a-new-crafting-adventure-an",
-      "titre": "The Ni No Kuni Universe Welcomes A New Crafting Adventure, And It's Heading To Switch",
-      "url": "https://www.nintendolife.com/news/2026/09/the-ni-no-kuni-universe-welcomes-a-new-crafting-adventure-and-its-heading-to-switch",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 23.8,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/the-ni-no-kuni-universe-welcomes-a-new-crafting-adventure-and-its-heading-to-switch",
-          "titre": "The Ni No Kuni Universe Welcomes A New Crafting Adventure, And It's Heading To Switch"
         }
       ]
     },
@@ -1019,7 +1127,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.6,
+      "heures": 29.6,
       "chaleur": 5,
       "liens": [
         {
@@ -1037,7 +1145,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.1,
+      "heures": 32.0,
       "chaleur": 5,
       "liens": [
         {
@@ -1048,131 +1156,25 @@ const VEILLE = {
       ]
     },
     {
-      "id": "denuvo-sues-game-hacker-for-releasing-cracks-for-26-games-th",
-      "titre": "Denuvo sues game hacker for releasing ‘cracks’ for 26 games that remove its DRM protection",
-      "url": "https://www.videogameschronicle.com/news/denuvo-sues-game-hacker-for-releasing-cracks-for-26-games-that-remove-its-drm-protection/",
+      "id": "disaster-very-cancels-loads-of-metroid-ravenous-special-edit",
+      "titre": "Disaster! 'Very' Cancels Loads Of Metroid Ravenous Special Edition Pre-Orders",
+      "url": "https://www.nintendolife.com/news/2026/09/disaster-very-cancels-loads-of-metroid-ravenous-special-edition-pre-orders",
       "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 4.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/denuvo-sues-game-hacker-for-releasing-cracks-for-26-games-that-remove-its-drm-protection/",
-          "titre": "Denuvo sues game hacker for releasing ‘cracks’ for 26 games that remove its DRM protection"
-        }
-      ]
-    },
-    {
-      "id": "baldur-s-gate-3-act-two-expansion-mod-out-now-in-beta-adds-a",
-      "titre": "Baldur's Gate 3 Act Two Expansion mod, out now in beta, adds a whole new region to explore after dealing with the Shadow Curse",
-      "url": "https://www.rockpapershotgun.com/baldurs-gate-3-act-two-expansion-mod-out-now-in-beta-adds-a-whole-new-region-to-explore-after-dealing-with-the-shadow-curse",
-      "sources": [
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
       "reprises": 1,
       "heures": 4.8,
       "chaleur": 4,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/baldurs-gate-3-act-two-expansion-mod-out-now-in-beta-adds-a-whole-new-region-to-explore-after-dealing-with-the-shadow-curse",
-          "titre": "Baldur's Gate 3 Act Two Expansion mod, out now in beta, adds a whole new region to explore after dealing with the Shadow Curse"
-        }
-      ]
-    },
-    {
-      "id": "cd-projekt-red-s-move-from-redengine-to-ue5-for-the-witcher",
-      "titre": "CD Projekt Red’s move from REDengine to UE5 for The Witcher 4 wasn’t because of Cyberpunk’s launch, co-CEO says",
-      "url": "https://www.videogameschronicle.com/news/cd-projekt-reds-move-from-redengine-to-ue5-for-the-witcher-4-wasnt-because-of-cyberpunks-launch-co-ceo-says/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 5.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/cd-projekt-reds-move-from-redengine-to-ue5-for-the-witcher-4-wasnt-because-of-cyberpunks-launch-co-ceo-says/",
-          "titre": "CD Projekt Red’s move from REDengine to UE5 for The Witcher 4 wasn’t because of Cyberpunk’s launch, co-CEO says"
-        }
-      ]
-    },
-    {
-      "id": "publishers-are-afraid-of-certain-parts-of-the-world-saber-i",
-      "titre": "\"Publishers are afraid of certain parts of the world\": Saber Interactive's message to North American studios is to get their head out of their own geography",
-      "url": "https://www.rockpapershotgun.com/publishers-are-afraid-of-certain-parts-of-the-world-saber-interactives-message-to-north-american-studios-is-to-get-their-head-out-of-their-own-geography",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 6.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/publishers-are-afraid-of-certain-parts-of-the-world-saber-interactives-message-to-north-american-studios-is-to-get-their-head-out-of-their-own-geography",
-          "titre": "\"Publishers are afraid of certain parts of the world\": Saber Interactive's message to North American studios is to get their head out of their own geography"
-        }
-      ]
-    },
-    {
-      "id": "dredge-maker-black-salt-games-establishes-indie-studio-team",
-      "titre": "Dredge maker Black Salt Games establishes indie studio Team Trifold under new Saltworks Entertainment label",
-      "url": "https://www.gamesindustry.biz/black-salt-games-establishes-indie-studio-team-trifold-under-new-saltworks-entertainment-label",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 6.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/black-salt-games-establishes-indie-studio-team-trifold-under-new-saltworks-entertainment-label",
-          "titre": "Dredge maker Black Salt Games establishes indie studio Team Trifold under new Saltworks Entertainment label"
-        }
-      ]
-    },
-    {
-      "id": "gdc-festival-of-gaming-appoints-four-members-to-advisory-boa",
-      "titre": "GDC Festival of Gaming appoints four members to advisory board",
-      "url": "https://www.gamesindustry.biz/gdc-festival-of-gaming-appoints-four-members-to-advisory-board",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 6.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/gdc-festival-of-gaming-appoints-four-members-to-advisory-board",
-          "titre": "GDC Festival of Gaming appoints four members to advisory board"
-        }
-      ]
-    },
-    {
-      "id": "total-war-warhammer-40-000-alien-isolation-2-modern-warfare",
-      "titre": "Total War: Warhammer 40,000, Alien: Isolation 2, Modern Warfare 4, and more will be playable ahead of release at PAX Australia next month",
-      "url": "https://www.pcgamer.com/gaming-industry/events-conferences/total-war-warhammer-40-000-alien-isolation-2-modern-warfare-4-and-more-will-be-playable-ahead-of-release-at-pax-australia-next-month/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/total-war-warhammer-40-000-alien-isolation-2-modern-warfare-4-and-more-will-be-playable-ahead-of-release-at-pax-australia-next-month/",
-          "titre": "Total War: Warhammer 40,000, Alien: Isolation 2, Modern Warfare 4, and more will be playable ahead of release at PAX Australia next month"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/disaster-very-cancels-loads-of-metroid-ravenous-special-edition-pre-orders",
+          "titre": "Disaster! 'Very' Cancels Loads Of Metroid Ravenous Special Edition Pre-Orders"
         }
       ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Control Resonant | Critical Consensus"
+  ]
 };
