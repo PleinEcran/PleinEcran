@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "18/09/2026 à 02h20",
+  "collecte": "18/09/2026 à 04h20",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 19,
       "liens": [
         {
@@ -54,7 +54,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 11,
       "liens": [
         {
@@ -70,30 +70,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mindseye-developers-report-new-round-of-layoffs-at-build-a-r",
-      "titre": "MindsEye developers report new round of layoffs at Build A Rocket Boy",
-      "url": "https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy",
-      "sources": [
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 32.8,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy",
-          "titre": "MindsEye developers report new round of layoffs at Build A Rocket Boy"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/mindseye-studio-build-a-rocket-boy-appear-to-be-making-fresh-redundancies-as-one-staffer-says-hes-helping-wrap-things-up-here-in-the-hr-department",
-          "titre": "MindsEye studio Build A Rocket Boy appear to be making fresh redundancies, as one staffer says he's \"helping wrap things up here in the HR department\""
-        }
-      ]
-    },
-    {
       "id": "the-blood-of-dawnwalker-sequel-may-not-have-the-divisive-tim",
       "titre": "The Blood of Dawnwalker sequel may not have the divisive time mechanic that so many players dislike: 'We will not force it,' game director says",
       "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-sequel-may-not-have-the-divisive-time-mechanic-that-so-many-players-dislike-we-will-not-force-it-game-director-says/",
@@ -103,7 +79,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 10,
       "liens": [
         {
@@ -133,7 +109,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 7.0,
+      "heures": 9.0,
       "chaleur": 10,
       "liens": [
         {
@@ -162,7 +138,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 8.0,
+      "heures": 10.0,
       "chaleur": 10,
       "liens": [
         {
@@ -185,7 +161,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 9,
       "liens": [
         {
@@ -204,7 +180,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 9,
       "liens": [
         {
@@ -220,6 +196,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "tropico-7-confirmed-for-switch-2-out-2027",
+      "titre": "Tropico 7 Confirmed For Switch 2, Out 2027",
+      "url": "https://www.nintendolife.com/news/2026/09/tropico-7-confirmed-for-switch-2-out-2027",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/tropico-7-confirmed-for-switch-2-out-2027",
+          "titre": "Tropico 7 Confirmed For Switch 2, Out 2027"
+        }
+      ]
+    },
+    {
       "id": "another-warioware-album-has-been-added-to-nintendo-music",
       "titre": "Another WarioWare Album Has Been Added To Nintendo Music",
       "url": "https://www.nintendolife.com/news/2026/09/another-warioware-album-has-been-added-to-nintendo-music",
@@ -227,49 +221,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/another-warioware-album-has-been-added-to-nintendo-music",
           "titre": "Another WarioWare Album Has Been Added To Nintendo Music"
-        }
-      ]
-    },
-    {
-      "id": "if-you-can-t-get-enough-of-record-breaking-emmy-winner-matth",
-      "titre": "If you can't get enough of record-breaking Emmy winner Matthew Rhys, his newest TV series is based on an '80s Sega game, and is out now",
-      "url": "https://www.pcgamer.com/movies-tv/if-you-cant-get-enough-of-record-breaking-emmy-winner-matthew-rhys-his-newest-tv-series-is-based-on-an-80s-sega-game-and-is-out-now/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/if-you-cant-get-enough-of-record-breaking-emmy-winner-matthew-rhys-his-newest-tv-series-is-based-on-an-80s-sega-game-and-is-out-now/",
-          "titre": "If you can't get enough of record-breaking Emmy winner Matthew Rhys, his newest TV series is based on an '80s Sega game, and is out now"
-        }
-      ]
-    },
-    {
-      "id": "aliens-fireteam-elite-2-switch-release-suffers-last-minute-d",
-      "titre": "Aliens: Fireteam Elite 2 Switch Release Suffers Last-Minute Delay",
-      "url": "https://www.nintendolife.com/news/2026/09/aliens-fireteam-elite-2-switch-release-suffers-last-minute-delay",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/aliens-fireteam-elite-2-switch-release-suffers-last-minute-delay",
-          "titre": "Aliens: Fireteam Elite 2 Switch Release Suffers Last-Minute Delay"
         }
       ]
     },
@@ -282,7 +240,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 14.8,
+      "heures": 16.8,
       "chaleur": 8,
       "liens": [
         {
@@ -306,7 +264,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 16.5,
+      "heures": 18.5,
       "chaleur": 8,
       "liens": [
         {
@@ -329,13 +287,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.5,
+      "heures": 33.5,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/mindseye-developers-laid-off-gta-studio-shutting-down",
           "titre": "More MindsEye developers have been laid off, and GTA veteran Leslie Benzie's studio is reportedly shutting down"
+        }
+      ]
+    },
+    {
+      "id": "mindseye-developers-report-new-round-of-layoffs-at-build-a-r",
+      "titre": "MindsEye developers report new round of layoffs at Build A Rocket Boy",
+      "url": "https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 34.8,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy",
+          "titre": "MindsEye developers report new round of layoffs at Build A Rocket Boy"
         }
       ]
     },
@@ -348,7 +324,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 7,
       "liens": [
         {
@@ -371,13 +347,31 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.5,
       "chaleur": 7,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/marketing/strauss-zelnick-says-gta-vi-needs-to-be-marketed-aggressively-despite-global-brand-awareness",
           "titre": "Take-Two CEO Strauss Zelnick says GTA VI needs to be 'marketed aggressively' despite global brand awareness"
+        }
+      ]
+    },
+    {
+      "id": "aliens-fireteam-elite-2-switch-release-suffers-last-minute-d",
+      "titre": "Aliens: Fireteam Elite 2 Switch Release Suffers Last-Minute Delay",
+      "url": "https://www.nintendolife.com/news/2026/09/aliens-fireteam-elite-2-switch-release-suffers-last-minute-delay",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/aliens-fireteam-elite-2-switch-release-suffers-last-minute-delay",
+          "titre": "Aliens: Fireteam Elite 2 Switch Release Suffers Last-Minute Delay"
         }
       ]
     },
@@ -580,6 +574,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "ff7-revelation-director-hamaguchi-discusses-the-game-s-200gb",
+      "titre": "FF7 Revelation director Hamaguchi discusses the game’s 200GB size, DLC plans, and a new Tifa detail",
+      "url": "https://www.videogameschronicle.com/features/interviews/ff7-revelation-director-hamaguchi-discusses-the-games-200gb-size-dlc-plans-and-a-new-tifa-detail/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/features/interviews/ff7-revelation-director-hamaguchi-discusses-the-games-200gb-size-dlc-plans-and-a-new-tifa-detail/",
+          "titre": "FF7 Revelation director Hamaguchi discusses the game’s 200GB size, DLC plans, and a new Tifa detail"
+        }
+      ]
+    },
+    {
+      "id": "total-war-warhammer-40-000-alien-isolation-2-modern-warfare",
+      "titre": "Total War: Warhammer 40,000, Alien: Isolation 2, Modern Warfare 4, and more will be playable ahead of release at PAX Australia next month",
+      "url": "https://www.pcgamer.com/gaming-industry/events-conferences/total-war-warhammer-40-000-alien-isolation-2-modern-warfare-4-and-more-will-be-playable-ahead-of-release-at-pax-australia-next-month/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/total-war-warhammer-40-000-alien-isolation-2-modern-warfare-4-and-more-will-be-playable-ahead-of-release-at-pax-australia-next-month/",
+          "titre": "Total War: Warhammer 40,000, Alien: Isolation 2, Modern Warfare 4, and more will be playable ahead of release at PAX Australia next month"
+        }
+      ]
+    },
+    {
       "id": "psa-you-can-customize-valheim-sign-text-for-color-coded-stor",
       "titre": "PSA: You can customize Valheim sign text for color-coded storage chests without downloading a single mod",
       "url": "https://www.pcgamer.com/games/survival-crafting/valheim-sign-text-codes/",
@@ -587,7 +617,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -598,20 +628,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "magic-the-gathering-s-next-big-crossover-is-with-itself",
-      "titre": "Magic: The Gathering's next big crossover is with itself",
-      "url": "https://www.pcgamer.com/games/card-games/magic-the-gatherings-next-big-crossover-is-with-itself/",
+      "id": "if-you-can-t-get-enough-of-record-breaking-emmy-winner-matth",
+      "titre": "If you can't get enough of record-breaking Emmy winner Matthew Rhys, his newest TV series is based on an '80s Sega game, and is out now",
+      "url": "https://www.pcgamer.com/movies-tv/if-you-cant-get-enough-of-record-breaking-emmy-winner-matthew-rhys-his-newest-tv-series-is-based-on-an-80s-sega-game-and-is-out-now/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.3,
+      "heures": 5.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/card-games/magic-the-gatherings-next-big-crossover-is-with-itself/",
-          "titre": "Magic: The Gathering's next big crossover is with itself"
+          "url": "https://www.pcgamer.com/movies-tv/if-you-cant-get-enough-of-record-breaking-emmy-winner-matthew-rhys-his-newest-tv-series-is-based-on-an-80s-sega-game-and-is-out-now/",
+          "titre": "If you can't get enough of record-breaking Emmy winner Matthew Rhys, his newest TV series is based on an '80s Sega game, and is out now"
         }
       ]
     },
@@ -623,67 +653,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-17th-september-north-america-plus-3-discounted-eshop-games-that-should-be-on-your-radar",
           "titre": "Nintendo Download: 17th September (North America) - Plus 3 Discounted eShop Games That Should Be On Your Radar"
-        }
-      ]
-    },
-    {
-      "id": "preview-i-played-stellar-blade-on-switch-2-and-eve-s-only-lo",
-      "titre": "Preview: I Played Stellar Blade On Switch 2, And Eve's Only Lost A Little Of Her Gloss",
-      "url": "https://www.nintendolife.com/previews/i-played-stellar-blade-on-switch-2-and-eves-only-lost-a-little-of-her-gloss",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/previews/i-played-stellar-blade-on-switch-2-and-eves-only-lost-a-little-of-her-gloss",
-          "titre": "Preview: I Played Stellar Blade On Switch 2, And Eve's Only Lost A Little Of Her Gloss"
-        }
-      ]
-    },
-    {
-      "id": "delayed-to-2027-bloodstained-the-scarlet-engagement-is-looki",
-      "titre": "Delayed to 2027, Bloodstained: The Scarlet Engagement Is Looking Good in New Trailer",
-      "url": "https://www.pushsquare.com/news/2026/09/delayed-to-2027-bloodstained-the-scarlet-engagement-is-looking-good-in-new-trailer",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/delayed-to-2027-bloodstained-the-scarlet-engagement-is-looking-good-in-new-trailer",
-          "titre": "Delayed to 2027, Bloodstained: The Scarlet Engagement Is Looking Good in New Trailer"
-        }
-      ]
-    },
-    {
-      "id": "the-ni-no-kuni-universe-welcomes-a-new-crafting-adventure-an",
-      "titre": "The Ni No Kuni Universe Welcomes A New Crafting Adventure, And It's Heading To Switch",
-      "url": "https://www.nintendolife.com/news/2026/09/the-ni-no-kuni-universe-welcomes-a-new-crafting-adventure-and-its-heading-to-switch",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/the-ni-no-kuni-universe-welcomes-a-new-crafting-adventure-and-its-heading-to-switch",
-          "titre": "The Ni No Kuni Universe Welcomes A New Crafting Adventure, And It's Heading To Switch"
         }
       ]
     },
@@ -696,7 +672,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 13.3,
+      "heures": 15.3,
       "chaleur": 6,
       "liens": [
         {
@@ -719,7 +695,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 16.0,
       "chaleur": 6,
       "liens": [
         {
@@ -737,7 +713,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.3,
       "chaleur": 6,
       "liens": [
         {
@@ -755,13 +731,67 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.3,
+      "heures": 26.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/nintendo-store-adds-some-new-exclusives-for-switch-online-members-north-america",
           "titre": "Nintendo Store Adds Some New Exclusives For Switch Online Members (North America)"
+        }
+      ]
+    },
+    {
+      "id": "preview-i-played-stellar-blade-on-switch-2-and-eve-s-only-lo",
+      "titre": "Preview: I Played Stellar Blade On Switch 2, And Eve's Only Lost A Little Of Her Gloss",
+      "url": "https://www.nintendolife.com/previews/i-played-stellar-blade-on-switch-2-and-eves-only-lost-a-little-of-her-gloss",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.3,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/previews/i-played-stellar-blade-on-switch-2-and-eves-only-lost-a-little-of-her-gloss",
+          "titre": "Preview: I Played Stellar Blade On Switch 2, And Eve's Only Lost A Little Of Her Gloss"
+        }
+      ]
+    },
+    {
+      "id": "delayed-to-2027-bloodstained-the-scarlet-engagement-is-looki",
+      "titre": "Delayed to 2027, Bloodstained: The Scarlet Engagement Is Looking Good in New Trailer",
+      "url": "https://www.pushsquare.com/news/2026/09/delayed-to-2027-bloodstained-the-scarlet-engagement-is-looking-good-in-new-trailer",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 13.6,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/delayed-to-2027-bloodstained-the-scarlet-engagement-is-looking-good-in-new-trailer",
+          "titre": "Delayed to 2027, Bloodstained: The Scarlet Engagement Is Looking Good in New Trailer"
+        }
+      ]
+    },
+    {
+      "id": "the-ni-no-kuni-universe-welcomes-a-new-crafting-adventure-an",
+      "titre": "The Ni No Kuni Universe Welcomes A New Crafting Adventure, And It's Heading To Switch",
+      "url": "https://www.nintendolife.com/news/2026/09/the-ni-no-kuni-universe-welcomes-a-new-crafting-adventure-and-its-heading-to-switch",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.8,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/the-ni-no-kuni-universe-welcomes-a-new-crafting-adventure-and-its-heading-to-switch",
+          "titre": "The Ni No Kuni Universe Welcomes A New Crafting Adventure, And It's Heading To Switch"
         }
       ]
     },
@@ -773,7 +803,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.3,
       "chaleur": 5,
       "liens": [
         {
@@ -791,7 +821,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.6,
       "chaleur": 5,
       "liens": [
         {
@@ -809,7 +839,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 20.1,
       "chaleur": 5,
       "liens": [
         {
@@ -827,31 +857,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.8,
+      "heures": 22.8,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/round-up-capcom-spotlight-tgs-2026-showcase-every-switch-2-announcement-and-update",
           "titre": "Round Up: Capcom Spotlight - TGS 2026 Showcase, Every Switch 2 Announcement And Update"
-        }
-      ]
-    },
-    {
-      "id": "tomodachi-life-appears-to-be-getting-a-switch-lite-bundle-in",
-      "titre": "Tomodachi Life Appears To Be Getting A Switch Lite Bundle In Europe",
-      "url": "https://www.nintendolife.com/news/2026/09/tomodachi-life-appears-to-be-getting-a-switch-lite-bundle-in-europe",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 25.1,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/tomodachi-life-appears-to-be-getting-a-switch-lite-bundle-in-europe",
-          "titre": "Tomodachi Life Appears To Be Getting A Switch Lite Bundle In Europe"
         }
       ]
     },
@@ -863,13 +875,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/vampire-rpg-steam-adult-only-game-jail-nighthawks",
           "titre": "Vampire RPG escapes Steam's 'Adult Only' jail just in time for launch: \"At the risk of disappointing some players, Nighthawks is not porn\""
+        }
+      ]
+    },
+    {
+      "id": "magic-the-gathering-s-next-big-crossover-is-with-itself",
+      "titre": "Magic: The Gathering's next big crossover is with itself",
+      "url": "https://www.pcgamer.com/games/card-games/magic-the-gatherings-next-big-crossover-is-with-itself/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/card-games/magic-the-gatherings-next-big-crossover-is-with-itself/",
+          "titre": "Magic: The Gathering's next big crossover is with itself"
         }
       ]
     },
@@ -881,7 +911,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +929,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +947,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +965,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +983,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +1001,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.2,
       "chaleur": 4,
       "liens": [
         {
@@ -989,31 +1019,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/previews/im-one-of-the-first-people-in-the-world-to-play-lollipop-chainsaw-2-on-ps5-but-you-dont-need-to-be-jealous",
           "titre": "Preview: I'm One of the First People in the World to Play Lollipop Chainsaw 2 on PS5, But You Don't Need to Be Jealous"
-        }
-      ]
-    },
-    {
-      "id": "i-have-officially-made-grand-theft-auto-5-good-by-turning-it",
-      "titre": "I have officially made Grand Theft Auto 5 good by turning it into a golf sim",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-officially-made-grand-theft-auto-5-good-by-turning-it-into-a-golf-sim/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-officially-made-grand-theft-auto-5-good-by-turning-it-into-a-golf-sim/",
-          "titre": "I have officially made Grand Theft Auto 5 good by turning it into a golf sim"
         }
       ]
     },
@@ -1025,7 +1037,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,8 +1055,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1061,8 +1073,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1079,8 +1091,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 13.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1097,8 +1109,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1115,8 +1127,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
-      "chaleur": 4,
+      "heures": 14.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1133,7 +1145,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1151,31 +1163,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/what-time-does-ea-sports-fc-27-go-live-digital-release-time-in-your-region-and-new-zealand-trick/",
           "titre": "What time does EA Sports FC 27 go live? Digital release time in your region and New Zealand trick"
-        }
-      ]
-    },
-    {
-      "id": "japanese-charts-rhythm-heaven-groove-surpasses-1-million-box",
-      "titre": "Japanese Charts: Rhythm Heaven Groove Surpasses 1 Million Boxed Units Sold",
-      "url": "https://www.nintendolife.com/news/2026/09/japanese-charts-rhythm-heaven-groove-surpasses-1-million-boxed-units-sold",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 12.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/japanese-charts-rhythm-heaven-groove-surpasses-1-million-boxed-units-sold",
-          "titre": "Japanese Charts: Rhythm Heaven Groove Surpasses 1 Million Boxed Units Sold"
         }
       ]
     }
