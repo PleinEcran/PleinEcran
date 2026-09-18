@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "18/09/2026 à 12h24",
+  "collecte": "18/09/2026 à 14h20",
   "seuil": 14,
   "sujets": [
     {
@@ -9,13 +9,12 @@ const VEILLE = {
       "url": "https://www.videogameschronicle.com/news/twitch-ceo-says-grand-theft-auto-6s-multiplayer-mode-will-launch-next-year/",
       "sources": [
         "Eurogamer",
-        "PC Gamer",
         "Rock Paper Shotgun",
         "VGC"
       ],
-      "reprises": 4,
-      "heures": 1.1,
-      "chaleur": 18,
+      "reprises": 3,
+      "heures": 3.0,
+      "chaleur": 15,
       "liens": [
         {
           "source": "VGC",
@@ -26,11 +25,6 @@ const VEILLE = {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta-6-online-release-date-twitch-ceo",
           "titre": "Rockstar hasn't said anything about a GTA 6 Online multiplayer mode just yet, but Twitch's CEO reckons it'll land next year"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/twitch-ceo-says-gta-6-multiplayer-will-launch-in-2027/",
-          "titre": "Twitch CEO says GTA 6 multiplayer will launch in 2027"
         },
         {
           "source": "Rock Paper Shotgun",
@@ -50,7 +44,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 4,
-      "heures": 19.4,
+      "heures": 21.3,
       "chaleur": 15,
       "liens": [
         {
@@ -84,7 +78,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 12,
       "liens": [
         {
@@ -100,26 +94,98 @@ const VEILLE = {
       ]
     },
     {
-      "id": "fire-emblem-fortune-s-weave-monster-in-the-night-quest-guide",
-      "titre": "Fire Emblem Fortune’s Weave: Monster in the Night quest guide",
-      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-monster-in-the-night-quest-guide/",
+      "id": "fire-emblem-fortune-s-weave-sweet-leaves-location-for-simple",
+      "titre": "Fire Emblem Fortune’s Weave: Sweet Leaves location for Simple Drink Recipes quest",
+      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-sweet-leaves-location-for-simple-drink-recipes-quest/",
       "sources": [
         "Nintendo Life",
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.5,
+      "heures": 1.3,
       "chaleur": 11,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-monster-in-the-night-quest-guide/",
-          "titre": "Fire Emblem Fortune’s Weave: Monster in the Night quest guide"
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-sweet-leaves-location-for-simple-drink-recipes-quest/",
+          "titre": "Fire Emblem Fortune’s Weave: Sweet Leaves location for Simple Drink Recipes quest"
         },
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/random-fire-emblem-fortunes-weave-switch-2-physical-hides-a-neat-nod-to-three-houses",
-          "titre": "Random: Fire Emblem: Fortune's Weave Switch 2 Physical Hides A Neat Nod To Three Houses"
+          "url": "https://www.nintendolife.com/news/2026/09/my-nintendo-fire-emblem-fortunes-weave-heroic-sweepstakes-announced-north-america",
+          "titre": "My Nintendo Fire Emblem: Fortune's Weave Heroic Sweepstakes Announced (North America)"
+        }
+      ]
+    },
+    {
+      "id": "final-fantasy-7-revelation-will-be-around-200gb-says-game-di",
+      "titre": "Final Fantasy 7 Revelation will be \"around 200GB\" says game director, as he details Sephiroth and Vincent Valentine DLC plans",
+      "url": "https://www.eurogamer.net/final-fantasy-7-revelation-200gb-file-size-dlc",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/final-fantasy-7-revelation-200gb-file-size-dlc",
+          "titre": "Final Fantasy 7 Revelation will be \"around 200GB\" says game director, as he details Sephiroth and Vincent Valentine DLC plans"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/features/interviews/ff7-revelation-director-hamaguchi-discusses-the-games-200gb-size-dlc-plans-and-a-new-tifa-detail/",
+          "titre": "FF7 Revelation director Hamaguchi discusses the game’s 200GB size, DLC plans, and a new Tifa detail"
+        }
+      ]
+    },
+    {
+      "id": "don-t-bother-turning-control-resonant-up-to-the-maximum-for",
+      "titre": "Don't bother turning Control Resonant up to the maximum for mind-bending graphics, there's both performance and beauty in the lower graphics presets too",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/dont-bother-turning-control-resonant-up-to-the-maximum-for-mind-bending-graphics-theres-both-performance-and-beauty-in-the-lower-graphics-presets-too/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 1.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/dont-bother-turning-control-resonant-up-to-the-maximum-for-mind-bending-graphics-theres-both-performance-and-beauty-in-the-lower-graphics-presets-too/",
+          "titre": "Don't bother turning Control Resonant up to the maximum for mind-bending graphics, there's both performance and beauty in the lower graphics presets too"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/control-resonant-review",
+          "titre": "Control Resonant review"
+        }
+      ]
+    },
+    {
+      "id": "control-resonant-review-remedy-gambles-on-a-genre-change-in",
+      "titre": "Control Resonant review: Remedy gambles on a genre change in one of its most impressive games ever",
+      "url": "https://www.videogameschronicle.com/review/control-resonant/",
+      "sources": [
+        "GamesIndustry.biz",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/review/control-resonant/",
+          "titre": "Control Resonant review: Remedy gambles on a genre change in one of its most impressive games ever"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/remedys-arhi-makkonen-on-designing-the-biggest-world-we-have-ever-done-for-control-resonant",
+          "titre": "Remedy's Arhi Makkonen on designing the \"biggest world we have ever done\" for Control Resonant"
         }
       ]
     },
@@ -131,7 +197,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.4,
       "chaleur": 9,
       "liens": [
         {
@@ -149,7 +215,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 4.0,
       "chaleur": 9,
       "liens": [
         {
@@ -160,50 +226,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "why-do-japanese-studios-suffer-fewer-layoffs-because-they-ha",
-      "titre": "Why do Japanese studios suffer fewer layoffs? Because they have smaller teams and don't pay their execs $30m, says one expert",
-      "url": "https://www.eurogamer.net/japan-game-development-layoffs-exec-money",
+      "id": "monster-hunter-wilds-switch-2-performance-and-resolution-con",
+      "titre": "Monster Hunter Wilds Switch 2 Performance And Resolution Confirmed",
+      "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-wilds-switch-2-performance-and-resolution-confirmed",
       "sources": [
-        "Eurogamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 9,
+      "heures": 1.3,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/japan-game-development-layoffs-exec-money",
-          "titre": "Why do Japanese studios suffer fewer layoffs? Because they have smaller teams and don't pay their execs $30m, says one expert"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-wilds-switch-2-performance-and-resolution-confirmed",
+          "titre": "Monster Hunter Wilds Switch 2 Performance And Resolution Confirmed"
         }
       ]
     },
     {
-      "id": "zero-parades-director-s-cut-will-challenge-you-to-drive-a-st",
-      "titre": "Zero Parades: Director's Cut will challenge you to drive a stolen truck through a busy roundabout while stoned out of your mind",
-      "url": "https://www.pcgamer.com/games/rpg/zero-parades-directors-cut-will-challenge-you-to-drive-a-stolen-truck-through-a-busy-roundabout-while-stoned-out-of-your-mind/",
+      "id": "over-35-000-people-say-they-signed-up-for-a-steam-frame-and",
+      "titre": "Over 35,000 people say they signed up for a Steam Frame, and less than half have one reserved",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/over-35-000-people-say-they-signed-up-for-a-steam-frame-and-less-than-half-have-one-reserved/",
       "sources": [
-        "PC Gamer",
-        "Push Square",
-        "Rock Paper Shotgun"
+        "PC Gamer"
       ],
-      "reprises": 3,
-      "heures": 17.0,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/zero-parades-directors-cut-will-challenge-you-to-drive-a-stolen-truck-through-a-busy-roundabout-while-stoned-out-of-your-mind/",
-          "titre": "Zero Parades: Director's Cut will challenge you to drive a stolen truck through a busy roundabout while stoned out of your mind"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/escape-a-roundabout-as-a-stoned-tuk-tuk-driver-in-zero-parades-free-directors-cut-update-which-will-add-about-40000-new-words-to-the-rpg-next-month",
-          "titre": "Escape a roundabout as a stoned tuk-tuk driver in Zero Parades' free Director’s Cut update, which will add about 40,000 new words to the RPG next month"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/zero-parades-lands-on-ps5-in-directors-cut-form-on-3rd-november",
-          "titre": "Zero Parades Lands on PS5 in Director's Cut Form on 3rd November"
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/over-35-000-people-say-they-signed-up-for-a-steam-frame-and-less-than-half-have-one-reserved/",
+          "titre": "Over 35,000 people say they signed up for a Steam Frame, and less than half have one reserved"
         }
       ]
     },
@@ -215,31 +269,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/valheim",
           "titre": "Review: Valheim (Switch 2) - Epic Survival Crafter Finally Hits 1.0, With Performance & Crossplay Hiccups"
-        }
-      ]
-    },
-    {
-      "id": "japanese-console-market-would-have-been-eliminated-if-switch",
-      "titre": "Japanese Console Market Would Have Been \"Eliminated\" If Switch Failed, Says Analyst",
-      "url": "https://www.nintendolife.com/news/2026/09/japanese-console-market-would-have-been-eliminated-if-switch-failed-says-analyst",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/japanese-console-market-would-have-been-eliminated-if-switch-failed-says-analyst",
-          "titre": "Japanese Console Market Would Have Been \"Eliminated\" If Switch Failed, Says Analyst"
         }
       ]
     },
@@ -252,7 +288,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 24.9,
+      "heures": 26.8,
       "chaleur": 8,
       "liens": [
         {
@@ -276,7 +312,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 26.5,
+      "heures": 28.5,
       "chaleur": 8,
       "liens": [
         {
@@ -292,6 +328,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "why-do-japanese-studios-suffer-fewer-layoffs-because-they-ha",
+      "titre": "Why do Japanese studios suffer fewer layoffs? Because they have smaller teams and don't pay their execs $30m, says one expert",
+      "url": "https://www.eurogamer.net/japan-game-development-layoffs-exec-money",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/japan-game-development-layoffs-exec-money",
+          "titre": "Why do Japanese studios suffer fewer layoffs? Because they have smaller teams and don't pay their execs $30m, says one expert"
+        }
+      ]
+    },
+    {
       "id": "nintendo-excited-about-broadening-zelda-s-audience-with-live",
       "titre": "Nintendo Excited About Broadening Zelda's Audience With Live-Action Movie",
       "url": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
@@ -299,31 +353,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.8,
       "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
           "titre": "Nintendo Excited About Broadening Zelda's Audience With Live-Action Movie"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-has-turned-october-into-a-new-release-bloodbath-but-aa",
-      "titre": "GTA 6 has turned October into a new release bloodbath, but AA first-person soulslike Valor Mortis is hellbent on entering the fray",
-      "url": "https://www.pcgamer.com/gaming-industry/gta-6-has-turned-october-into-a-new-release-bloodbath-but-aa-first-person-soulslike-valor-mortis-is-hellbent-on-entering-the-fray/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/gta-6-has-turned-october-into-a-new-release-bloodbath-but-aa-first-person-soulslike-valor-mortis-is-hellbent-on-entering-the-fray/",
-          "titre": "GTA 6 has turned October into a new release bloodbath, but AA first-person soulslike Valor Mortis is hellbent on entering the fray"
         }
       ]
     },
@@ -335,7 +371,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.7,
+      "heures": 22.6,
       "chaleur": 7,
       "liens": [
         {
@@ -526,6 +562,96 @@ const VEILLE = {
       ]
     },
     {
+      "id": "denuvo-are-suing-a-prolific-cracker-for-bypassing-their-drm",
+      "titre": "Denuvo are suing a prolific cracker for bypassing their DRM on 26 videogames, despite not knowing their real identity",
+      "url": "https://www.rockpapershotgun.com/denuvo-are-suing-a-prolific-cracker-for-bypassing-their-drm-on-26-videogames-despite-not-knowing-their-real-identity",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/denuvo-are-suing-a-prolific-cracker-for-bypassing-their-drm-on-26-videogames-despite-not-knowing-their-real-identity",
+          "titre": "Denuvo are suing a prolific cracker for bypassing their DRM on 26 videogames, despite not knowing their real identity"
+        }
+      ]
+    },
+    {
+      "id": "gears-of-war-e-day-system-requirements-require-ray-tracing-c",
+      "titre": "Gears of War: E-Day system requirements require ray tracing-capable graphics card to play, alongside 115 GB of free space on an SSD",
+      "url": "https://www.pcgamer.com/games/action/gears-of-war-e-day-system-requirements-require-ray-tracing-capable-graphics-card-to-play-alongside-115-gb-of-free-space-on-an-ssd/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/gears-of-war-e-day-system-requirements-require-ray-tracing-capable-graphics-card-to-play-alongside-115-gb-of-free-space-on-an-ssd/",
+          "titre": "Gears of War: E-Day system requirements require ray tracing-capable graphics card to play, alongside 115 GB of free space on an SSD"
+        }
+      ]
+    },
+    {
+      "id": "pulling-focus-must-aaa-pander-to-the-distracted-opinion",
+      "titre": "Pulling focus: Must AAA pander to the distracted? | Opinion",
+      "url": "https://www.gamesindustry.biz/pulling-focus-must-aaa-pander-to-the-distracted-opinion",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/pulling-focus-must-aaa-pander-to-the-distracted-opinion",
+          "titre": "Pulling focus: Must AAA pander to the distracted? | Opinion"
+        }
+      ]
+    },
+    {
+      "id": "control-resonant-review-a-superbly-strange-action-rpg-that-l",
+      "titre": "Control Resonant review: A superbly strange action-RPG that'll make you feel tiny and godly at once",
+      "url": "https://www.rockpapershotgun.com/control-resonant-review",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/control-resonant-review",
+          "titre": "Control Resonant review: A superbly strange action-RPG that'll make you feel tiny and godly at once"
+        }
+      ]
+    },
+    {
+      "id": "review-control-resonant-ps5-a-wildly-inventive-and-drop-dead",
+      "titre": "Review: Control Resonant (PS5) - A Wildly Inventive and Drop-Dead Gorgeous Sequel",
+      "url": "https://www.pushsquare.com/reviews/ps5/control-resonant",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/control-resonant",
+          "titre": "Review: Control Resonant (PS5) - A Wildly Inventive and Drop-Dead Gorgeous Sequel"
+        }
+      ]
+    },
+    {
       "id": "disaster-very-cancels-loads-of-metroid-ravenous-special-edit",
       "titre": "Disaster! 'Very' Cancels Loads Of Metroid Ravenous Special Edition Pre-Orders",
       "url": "https://www.nintendolife.com/news/2026/09/disaster-very-cancels-loads-of-metroid-ravenous-special-edition-pre-orders",
@@ -533,7 +659,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
@@ -551,7 +677,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +695,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -580,56 +706,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "denuvo-sues-game-hacker-for-releasing-cracks-for-26-games-th",
-      "titre": "Denuvo sues game hacker for releasing ‘cracks’ for 26 games that remove its DRM protection",
-      "url": "https://www.videogameschronicle.com/news/denuvo-sues-game-hacker-for-releasing-cracks-for-26-games-that-remove-its-drm-protection/",
+      "id": "japanese-console-market-would-have-been-eliminated-if-switch",
+      "titre": "Japanese Console Market Would Have Been \"Eliminated\" If Switch Failed, Says Analyst",
+      "url": "https://www.nintendolife.com/news/2026/09/japanese-console-market-would-have-been-eliminated-if-switch-failed-says-analyst",
       "sources": [
-        "VGC"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 4.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/denuvo-sues-game-hacker-for-releasing-cracks-for-26-games-that-remove-its-drm-protection/",
-          "titre": "Denuvo sues game hacker for releasing ‘cracks’ for 26 games that remove its DRM protection"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/japanese-console-market-would-have-been-eliminated-if-switch-failed-says-analyst",
+          "titre": "Japanese Console Market Would Have Been \"Eliminated\" If Switch Failed, Says Analyst"
         }
       ]
     },
     {
-      "id": "baldur-s-gate-3-act-two-expansion-mod-out-now-in-beta-adds-a",
-      "titre": "Baldur's Gate 3 Act Two Expansion mod, out now in beta, adds a whole new region to explore after dealing with the Shadow Curse",
-      "url": "https://www.rockpapershotgun.com/baldurs-gate-3-act-two-expansion-mod-out-now-in-beta-adds-a-whole-new-region-to-explore-after-dealing-with-the-shadow-curse",
+      "id": "random-fire-emblem-fortune-s-weave-switch-2-physical-hides-a",
+      "titre": "Random: Fire Emblem: Fortune's Weave Switch 2 Physical Hides A Neat Nod To Three Houses",
+      "url": "https://www.nintendolife.com/news/2026/09/random-fire-emblem-fortunes-weave-switch-2-physical-hides-a-neat-nod-to-three-houses",
       "sources": [
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.9,
+      "heures": 5.1,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/baldurs-gate-3-act-two-expansion-mod-out-now-in-beta-adds-a-whole-new-region-to-explore-after-dealing-with-the-shadow-curse",
-          "titre": "Baldur's Gate 3 Act Two Expansion mod, out now in beta, adds a whole new region to explore after dealing with the Shadow Curse"
-        }
-      ]
-    },
-    {
-      "id": "cd-projekt-red-s-move-from-redengine-to-ue5-for-the-witcher",
-      "titre": "CD Projekt Red’s move from REDengine to UE5 for The Witcher 4 wasn’t because of Cyberpunk’s launch, co-CEO says",
-      "url": "https://www.videogameschronicle.com/news/cd-projekt-reds-move-from-redengine-to-ue5-for-the-witcher-4-wasnt-because-of-cyberpunks-launch-co-ceo-says/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/cd-projekt-reds-move-from-redengine-to-ue5-for-the-witcher-4-wasnt-because-of-cyberpunks-launch-co-ceo-says/",
-          "titre": "CD Projekt Red’s move from REDengine to UE5 for The Witcher 4 wasn’t because of Cyberpunk’s launch, co-CEO says"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/random-fire-emblem-fortunes-weave-switch-2-physical-hides-a-neat-nod-to-three-houses",
+          "titre": "Random: Fire Emblem: Fortune's Weave Switch 2 Physical Hides A Neat Nod To Three Houses"
         }
       ]
     },
@@ -641,7 +749,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.8,
       "chaleur": 6,
       "liens": [
         {
@@ -652,38 +760,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "tropico-7-confirmed-for-switch-2-out-2027",
-      "titre": "Tropico 7 Confirmed For Switch 2, Out 2027",
-      "url": "https://www.nintendolife.com/news/2026/09/tropico-7-confirmed-for-switch-2-out-2027",
+      "id": "gta-6-has-turned-october-into-a-new-release-bloodbath-but-aa",
+      "titre": "GTA 6 has turned October into a new release bloodbath, but AA first-person soulslike Valor Mortis is hellbent on entering the fray",
+      "url": "https://www.pcgamer.com/gaming-industry/gta-6-has-turned-october-into-a-new-release-bloodbath-but-aa-first-person-soulslike-valor-mortis-is-hellbent-on-entering-the-fray/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 13.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/tropico-7-confirmed-for-switch-2-out-2027",
-          "titre": "Tropico 7 Confirmed For Switch 2, Out 2027"
-        }
-      ]
-    },
-    {
-      "id": "another-warioware-album-has-been-added-to-nintendo-music",
-      "titre": "Another WarioWare Album Has Been Added To Nintendo Music",
-      "url": "https://www.nintendolife.com/news/2026/09/another-warioware-album-has-been-added-to-nintendo-music",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/another-warioware-album-has-been-added-to-nintendo-music",
-          "titre": "Another WarioWare Album Has Been Added To Nintendo Music"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/gta-6-has-turned-october-into-a-new-release-bloodbath-but-aa-first-person-soulslike-valor-mortis-is-hellbent-on-entering-the-fray/",
+          "titre": "GTA 6 has turned October into a new release bloodbath, but AA first-person soulslike Valor Mortis is hellbent on entering the fray"
         }
       ]
     },
@@ -696,7 +786,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 6,
       "liens": [
         {
@@ -720,7 +810,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 6,
       "liens": [
         {
@@ -743,13 +833,37 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 20.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/marketing/strauss-zelnick-says-gta-vi-needs-to-be-marketed-aggressively-despite-global-brand-awareness",
           "titre": "Take-Two CEO Strauss Zelnick says GTA VI needs to be 'marketed aggressively' despite global brand awareness"
+        }
+      ]
+    },
+    {
+      "id": "escape-a-roundabout-as-a-stoned-tuk-tuk-driver-in-zero-parad",
+      "titre": "Escape a roundabout as a stoned tuk-tuk driver in Zero Parades' free Director’s Cut update, which will add about 40,000 new words to the RPG next month",
+      "url": "https://www.rockpapershotgun.com/escape-a-roundabout-as-a-stoned-tuk-tuk-driver-in-zero-parades-free-directors-cut-update-which-will-add-about-40000-new-words-to-the-rpg-next-month",
+      "sources": [
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 22.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/escape-a-roundabout-as-a-stoned-tuk-tuk-driver-in-zero-parades-free-directors-cut-update-which-will-add-about-40000-new-words-to-the-rpg-next-month",
+          "titre": "Escape a roundabout as a stoned tuk-tuk driver in Zero Parades' free Director’s Cut update, which will add about 40,000 new words to the RPG next month"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/zero-parades-lands-on-ps5-in-directors-cut-form-on-3rd-november",
+          "titre": "Zero Parades Lands on PS5 in Director's Cut Form on 3rd November"
         }
       ]
     },
@@ -761,7 +875,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.4,
       "chaleur": 6,
       "liens": [
         {
@@ -779,13 +893,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 24.1,
+      "heures": 26.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/gta-6-the-album-announced-pre-orders-available-now",
           "titre": "GTA 6: The Album Announced, Pre-Orders Available Now"
+        }
+      ]
+    },
+    {
+      "id": "another-warioware-album-has-been-added-to-nintendo-music",
+      "titre": "Another WarioWare Album Has Been Added To Nintendo Music",
+      "url": "https://www.nintendolife.com/news/2026/09/another-warioware-album-has-been-added-to-nintendo-music",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/another-warioware-album-has-been-added-to-nintendo-music",
+          "titre": "Another WarioWare Album Has Been Added To Nintendo Music"
         }
       ]
     },
@@ -797,7 +929,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.6,
       "chaleur": 5,
       "liens": [
         {
@@ -815,7 +947,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.3,
       "chaleur": 5,
       "liens": [
         {
@@ -833,7 +965,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.3,
       "chaleur": 5,
       "liens": [
         {
@@ -851,7 +983,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.7,
+      "heures": 23.6,
       "chaleur": 5,
       "liens": [
         {
@@ -869,7 +1001,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 23.8,
       "chaleur": 5,
       "liens": [
         {
@@ -887,7 +1019,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.7,
+      "heures": 27.6,
       "chaleur": 5,
       "liens": [
         {
@@ -905,13 +1037,67 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.1,
+      "heures": 30.1,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/ps5-firmware-update-14-00-00-community-activity-missing-feature",
           "titre": "PlayStation 5's latest firmware update takes Community Activity out of beta, but it's missing a key feature"
+        }
+      ]
+    },
+    {
+      "id": "denuvo-sues-game-hacker-for-releasing-cracks-for-26-games-th",
+      "titre": "Denuvo sues game hacker for releasing ‘cracks’ for 26 games that remove its DRM protection",
+      "url": "https://www.videogameschronicle.com/news/denuvo-sues-game-hacker-for-releasing-cracks-for-26-games-that-remove-its-drm-protection/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/denuvo-sues-game-hacker-for-releasing-cracks-for-26-games-that-remove-its-drm-protection/",
+          "titre": "Denuvo sues game hacker for releasing ‘cracks’ for 26 games that remove its DRM protection"
+        }
+      ]
+    },
+    {
+      "id": "baldur-s-gate-3-act-two-expansion-mod-out-now-in-beta-adds-a",
+      "titre": "Baldur's Gate 3 Act Two Expansion mod, out now in beta, adds a whole new region to explore after dealing with the Shadow Curse",
+      "url": "https://www.rockpapershotgun.com/baldurs-gate-3-act-two-expansion-mod-out-now-in-beta-adds-a-whole-new-region-to-explore-after-dealing-with-the-shadow-curse",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/baldurs-gate-3-act-two-expansion-mod-out-now-in-beta-adds-a-whole-new-region-to-explore-after-dealing-with-the-shadow-curse",
+          "titre": "Baldur's Gate 3 Act Two Expansion mod, out now in beta, adds a whole new region to explore after dealing with the Shadow Curse"
+        }
+      ]
+    },
+    {
+      "id": "cd-projekt-red-s-move-from-redengine-to-ue5-for-the-witcher",
+      "titre": "CD Projekt Red’s move from REDengine to UE5 for The Witcher 4 wasn’t because of Cyberpunk’s launch, co-CEO says",
+      "url": "https://www.videogameschronicle.com/news/cd-projekt-reds-move-from-redengine-to-ue5-for-the-witcher-4-wasnt-because-of-cyberpunks-launch-co-ceo-says/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/cd-projekt-reds-move-from-redengine-to-ue5-for-the-witcher-4-wasnt-because-of-cyberpunks-launch-co-ceo-says/",
+          "titre": "CD Projekt Red’s move from REDengine to UE5 for The Witcher 4 wasn’t because of Cyberpunk’s launch, co-CEO says"
         }
       ]
     },
@@ -923,7 +1109,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +1127,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -959,31 +1145,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.7,
       "chaleur": 4,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/gdc-festival-of-gaming-appoints-four-members-to-advisory-board",
           "titre": "GDC Festival of Gaming appoints four members to advisory board"
-        }
-      ]
-    },
-    {
-      "id": "ff7-revelation-director-hamaguchi-discusses-the-game-s-200gb",
-      "titre": "FF7 Revelation director Hamaguchi discusses the game’s 200GB size, DLC plans, and a new Tifa detail",
-      "url": "https://www.videogameschronicle.com/features/interviews/ff7-revelation-director-hamaguchi-discusses-the-games-200gb-size-dlc-plans-and-a-new-tifa-detail/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/interviews/ff7-revelation-director-hamaguchi-discusses-the-games-200gb-size-dlc-plans-and-a-new-tifa-detail/",
-          "titre": "FF7 Revelation director Hamaguchi discusses the game’s 200GB size, DLC plans, and a new Tifa detail"
         }
       ]
     },
@@ -995,7 +1163,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1004,172 +1172,7 @@ const VEILLE = {
           "titre": "Total War: Warhammer 40,000, Alien: Isolation 2, Modern Warfare 4, and more will be playable ahead of release at PAX Australia next month"
         }
       ]
-    },
-    {
-      "id": "psa-you-can-customize-valheim-sign-text-for-color-coded-stor",
-      "titre": "PSA: You can customize Valheim sign text for color-coded storage chests without downloading a single mod",
-      "url": "https://www.pcgamer.com/games/survival-crafting/valheim-sign-text-codes/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/valheim-sign-text-codes/",
-          "titre": "PSA: You can customize Valheim sign text for color-coded storage chests without downloading a single mod"
-        }
-      ]
-    },
-    {
-      "id": "magic-the-gathering-s-next-big-crossover-is-with-itself",
-      "titre": "Magic: The Gathering's next big crossover is with itself",
-      "url": "https://www.pcgamer.com/games/card-games/magic-the-gatherings-next-big-crossover-is-with-itself/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/card-games/magic-the-gatherings-next-big-crossover-is-with-itself/",
-          "titre": "Magic: The Gathering's next big crossover is with itself"
-        }
-      ]
-    },
-    {
-      "id": "wardogs-is-the-only-fps-where-i-actually-expect-to-get-reviv",
-      "titre": "Wardogs is the only FPS where I actually expect to get revived",
-      "url": "https://www.pcgamer.com/games/fps/wardogs-is-the-only-fps-where-i-actually-expect-to-get-revived/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/wardogs-is-the-only-fps-where-i-actually-expect-to-get-revived/",
-          "titre": "Wardogs is the only FPS where I actually expect to get revived"
-        }
-      ]
-    },
-    {
-      "id": "denuvo-is-on-the-hunt-for-drm-cracker-voices38-as-the-compan",
-      "titre": "Denuvo is on the hunt for DRM cracker 'voices38' as the company attempts to take one of its biggest foes to court",
-      "url": "https://www.pcgamer.com/gaming-industry/denuvo-is-on-the-hunt-for-drm-cracker-voices38-as-the-company-attempts-to-take-one-of-its-biggest-foes-to-court/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 16.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/denuvo-is-on-the-hunt-for-drm-cracker-voices38-as-the-company-attempts-to-take-one-of-its-biggest-foes-to-court/",
-          "titre": "Denuvo is on the hunt for DRM cracker 'voices38' as the company attempts to take one of its biggest foes to court"
-        }
-      ]
-    },
-    {
-      "id": "japanese-game-development-is-now-riddled-with-generative-ai",
-      "titre": "Japanese Game Development Is Now Riddled with Generative AI, Industry Survey Finds",
-      "url": "https://www.pushsquare.com/news/2026/09/japanese-game-development-is-now-riddled-with-generative-ai-industry-survey-finds",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 16.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/japanese-game-development-is-now-riddled-with-generative-ai-industry-survey-finds",
-          "titre": "Japanese Game Development Is Now Riddled with Generative AI, Industry Survey Finds"
-        }
-      ]
-    },
-    {
-      "id": "diablo-4-s-anniversary-event-brings-back-the-game-s-most-ico",
-      "titre": "Diablo 4's anniversary event brings back the game's most iconic location, and boy that music is sending me",
-      "url": "https://www.pcgamer.com/games/rpg/diablo-4s-anniversary-event-brings-back-the-games-most-iconic-location-and-boy-that-music-is-sending-me/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/diablo-4s-anniversary-event-brings-back-the-games-most-iconic-location-and-boy-that-music-is-sending-me/",
-          "titre": "Diablo 4's anniversary event brings back the game's most iconic location, and boy that music is sending me"
-        }
-      ]
-    },
-    {
-      "id": "preview-i-m-one-of-the-first-people-in-the-world-to-play-lol",
-      "titre": "Preview: I'm One of the First People in the World to Play Lollipop Chainsaw 2 on PS5, But You Don't Need to Be Jealous",
-      "url": "https://www.pushsquare.com/previews/im-one-of-the-first-people-in-the-world-to-play-lollipop-chainsaw-2-on-ps5-but-you-dont-need-to-be-jealous",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 19.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/previews/im-one-of-the-first-people-in-the-world-to-play-lollipop-chainsaw-2-on-ps5-but-you-dont-need-to-be-jealous",
-          "titre": "Preview: I'm One of the First People in the World to Play Lollipop Chainsaw 2 on PS5, But You Don't Need to Be Jealous"
-        }
-      ]
-    },
-    {
-      "id": "don-t-sleep-on-no-law-it-has-the-potential-to-be-one-of-2027",
-      "titre": "Don’t sleep on No Law: It has the potential to be one of 2027’s most stunning games",
-      "url": "https://www.videogameschronicle.com/features/dont-sleep-on-no-law-it-has-the-potential-to-be-one-of-2027s-most-stunning-games/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 19.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/dont-sleep-on-no-law-it-has-the-potential-to-be-one-of-2027s-most-stunning-games/",
-          "titre": "Don’t sleep on No Law: It has the potential to be one of 2027’s most stunning games"
-        }
-      ]
-    },
-    {
-      "id": "with-the-quality-fidelity-and-play-time-of-a-70-ps5-game-val",
-      "titre": "With the 'Quality, Fidelity, and Play Time' of a $70 PS5 Game, Valor Mortis Asks for $40",
-      "url": "https://www.pushsquare.com/news/2026/09/with-the-quality-fidelity-and-play-time-of-a-usd70-ps5-game-valor-mortis-asks-for-usd40",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 20.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/with-the-quality-fidelity-and-play-time-of-a-usd70-ps5-game-valor-mortis-asks-for-usd40",
-          "titre": "With the 'Quality, Fidelity, and Play Time' of a $70 PS5 Game, Valor Mortis Asks for $40"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "Twitch CEO says Grand Theft Auto 6’s multiplayer mode will launch next year",
-    "\"Nearly everyone\" laid off at Hyper Light Drifter devs Heart Machine after publisher drops unannounced game"
-  ]
+  "alertes": []
 };
