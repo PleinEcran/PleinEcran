@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "19/09/2026 à 18h21",
+  "collecte": "19/09/2026 à 20h19",
   "seuil": 14,
   "sujets": [
     {
@@ -12,7 +12,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 0.1,
+      "heures": 2.1,
       "chaleur": 12,
       "liens": [
         {
@@ -37,7 +37,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 7.1,
+      "heures": 9.1,
       "chaleur": 10,
       "liens": [
         {
@@ -67,7 +67,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 10,
       "liens": [
         {
@@ -88,6 +88,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "evidence-of-canceled-grand-theft-auto-5-liberty-city-and-age",
+      "titre": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/evidence-of-canceled-grand-theft-auto-5-liberty-city-and-agent-trevor-dlc-plus-early-version-of-gta6s-map-surface-online/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/evidence-of-canceled-grand-theft-auto-5-liberty-city-and-agent-trevor-dlc-plus-early-version-of-gta6s-map-surface-online/",
+          "titre": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online"
+        }
+      ]
+    },
+    {
       "id": "an-ambitious-fanmade-expansion-for-baldur-s-gate-3-is-out-af",
       "titre": "An ambitious fanmade expansion for Baldur's Gate 3 is out after almost two years in development",
       "url": "https://www.pcgamer.com/games/baldurs-gate/an-ambitious-fanmade-expansion-for-baldurs-gate-3-is-out-after-almost-two-years-in-development/",
@@ -96,7 +114,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 0.1,
+      "heures": 2.1,
       "chaleur": 9,
       "liens": [
         {
@@ -120,7 +138,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 4.4,
+      "heures": 6.3,
       "chaleur": 9,
       "liens": [
         {
@@ -145,7 +163,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 20.4,
+      "heures": 22.4,
       "chaleur": 9,
       "liens": [
         {
@@ -175,7 +193,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 26.1,
+      "heures": 28.1,
       "chaleur": 9,
       "liens": [
         {
@@ -204,7 +222,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 30.3,
+      "heures": 32.3,
       "chaleur": 9,
       "liens": [
         {
@@ -228,7 +246,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 31.0,
+      "heures": 33.0,
       "chaleur": 9,
       "liens": [
         {
@@ -244,42 +262,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "round-up-the-switch-2-games-we-played-at-tgs-from-2026-s-sho",
-      "titre": "Round Up: The Switch 2 Games We Played At TGS From 2026's Shoo-In 'Publisher Of The Year'",
-      "url": "https://www.nintendolife.com/previews/round-up-the-switch-2-games-we-played-at-tgs-from-2026s-shoo-in-publisher-of-the-year",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/previews/round-up-the-switch-2-games-we-played-at-tgs-from-2026s-shoo-in-publisher-of-the-year",
-          "titre": "Round Up: The Switch 2 Games We Played At TGS From 2026's Shoo-In 'Publisher Of The Year'"
-        }
-      ]
-    },
-    {
-      "id": "countdown-zelda-ocarina-of-time-dungeon-crawl-1-a-tree-mendo",
-      "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #1 - A Tree-mendous Introduction",
-      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-1-a-tree-mendous-introduction",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-1-a-tree-mendous-introduction",
-          "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #1 - A Tree-mendous Introduction"
-        }
-      ]
-    },
-    {
       "id": "new-200gb-gta-5-leak-suggests-rockstar-games-scrapped-a-mass",
       "titre": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work",
       "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
@@ -287,7 +269,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.0,
+      "heures": 26.0,
       "chaleur": 8,
       "liens": [
         {
@@ -514,6 +496,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "feature-going-platinum-unpacking-s-obsession-with-possession",
+      "titre": "Feature: Going Platinum: Unpacking's Obsession with Possessions Makes Me Think of All My Random Stuff",
+      "url": "https://www.pushsquare.com/features/going-platinum-unpackings-obsession-with-possessions-makes-me-think-of-all-my-random-stuff",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/going-platinum-unpackings-obsession-with-possessions-makes-me-think-of-all-my-random-stuff",
+          "titre": "Feature: Going Platinum: Unpacking's Obsession with Possessions Makes Me Think of All My Random Stuff"
+        }
+      ]
+    },
+    {
       "id": "longest-ever-tokyo-game-show-curtailed-due-to-typhoon-warnin",
       "titre": "Longest-Ever Tokyo Game Show Curtailed Due to Typhoon Warning in Japan",
       "url": "https://www.pushsquare.com/news/2026/09/longest-ever-tokyo-game-show-curtailed-due-to-typhoon-warning-in-japan",
@@ -521,7 +521,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -532,92 +532,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-largest-theft-of-labor-in-human-history-court-docs-reve",
-      "titre": "'The largest theft of labor in human history:' Court docs reveal Microsoft exec predicted AI 'doom loops' could hollow out the internet",
-      "url": "https://www.pcgamer.com/software/ai/the-largest-theft-of-labor-in-human-history-court-docs-reveal-microsoft-exec-predicted-ai-doom-loops-could-hollow-out-the-internet/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/the-largest-theft-of-labor-in-human-history-court-docs-reveal-microsoft-exec-predicted-ai-doom-loops-could-hollow-out-the-internet/",
-          "titre": "'The largest theft of labor in human history:' Court docs reveal Microsoft exec predicted AI 'doom loops' could hollow out the internet"
-        }
-      ]
-    },
-    {
-      "id": "wolverine-ps5-tones-down-fart-trails-as-title-tipped-to-be-a",
-      "titre": "Wolverine PS5 Tones Down 'Fart Trails' as Title Tipped to Be a Huge Sales Success",
-      "url": "https://www.pushsquare.com/news/2026/09/wolverine-ps5-tones-down-fart-trails-as-title-tipped-to-be-a-huge-sales-success",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/wolverine-ps5-tones-down-fart-trails-as-title-tipped-to-be-a-huge-sales-success",
-          "titre": "Wolverine PS5 Tones Down 'Fart Trails' as Title Tipped to Be a Huge Sales Success"
-        }
-      ]
-    },
-    {
-      "id": "i-played-the-adventure-game-so-scandalous-that-it-was-physic",
-      "titre": "I played the adventure game so scandalous that it was physically destroyed by UK customs",
-      "url": "https://www.pcgamer.com/games/adventure/i-played-the-adventure-game-so-scandalous-that-it-was-physically-destroyed-by-uk-customs/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/adventure/i-played-the-adventure-game-so-scandalous-that-it-was-physically-destroyed-by-uk-customs/",
-          "titre": "I played the adventure game so scandalous that it was physically destroyed by UK customs"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-s-convinced-me-that-we-lost-too-mu",
-      "titre": "World of Warcraft: Forever's convinced me that we lost too much to modern MMO quest design",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-convinced-me-that-we-lost-too-much-to-modern-mmo-quest-design/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-convinced-me-that-we-lost-too-much-to-modern-mmo-quest-design/",
-          "titre": "World of Warcraft: Forever's convinced me that we lost too much to modern MMO quest design"
-        }
-      ]
-    },
-    {
-      "id": "monster-hunter-world-probably-won-t-be-coming-to-switch-2",
-      "titre": "Monster Hunter World Probably Won't Be Coming To Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
+      "id": "round-up-the-switch-2-games-we-played-at-tgs-from-2026-s-sho",
+      "titre": "Round Up: The Switch 2 Games We Played At TGS From 2026's Shoo-In 'Publisher Of The Year'",
+      "url": "https://www.nintendolife.com/previews/round-up-the-switch-2-games-we-played-at-tgs-from-2026s-shoo-in-publisher-of-the-year",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.9,
+      "heures": 4.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
-          "titre": "Monster Hunter World Probably Won't Be Coming To Switch 2"
+          "url": "https://www.nintendolife.com/previews/round-up-the-switch-2-games-we-played-at-tgs-from-2026s-shoo-in-publisher-of-the-year",
+          "titre": "Round Up: The Switch 2 Games We Played At TGS From 2026's Shoo-In 'Publisher Of The Year'"
+        }
+      ]
+    },
+    {
+      "id": "countdown-zelda-ocarina-of-time-dungeon-crawl-1-a-tree-mendo",
+      "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #1 - A Tree-mendous Introduction",
+      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-1-a-tree-mendous-introduction",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-1-a-tree-mendous-introduction",
+          "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #1 - A Tree-mendous Introduction"
         }
       ]
     },
@@ -630,7 +576,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 13.9,
+      "heures": 15.8,
       "chaleur": 6,
       "liens": [
         {
@@ -654,7 +600,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 22.6,
+      "heures": 24.6,
       "chaleur": 6,
       "liens": [
         {
@@ -677,7 +623,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.4,
+      "heures": 28.3,
       "chaleur": 6,
       "liens": [
         {
@@ -695,7 +641,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 26.5,
+      "heures": 28.4,
       "chaleur": 6,
       "liens": [
         {
@@ -713,7 +659,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.4,
+      "heures": 32.4,
       "chaleur": 6,
       "liens": [
         {
@@ -731,13 +677,31 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 32.0,
+      "heures": 33.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/strauss-zelnick-stresses-a-well-known-franchise-like-gta-still-needs-marketing-you-always-have-to-go-out-and-create-enthusiasm",
           "titre": "Strauss Zelnick stresses a well-known franchise like GTA still needs marketing: \"You always have to go out and create enthusiasm\""
+        }
+      ]
+    },
+    {
+      "id": "monster-hunter-world-probably-won-t-be-coming-to-switch-2",
+      "titre": "Monster Hunter World Probably Won't Be Coming To Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.8,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
+          "titre": "Monster Hunter World Probably Won't Be Coming To Switch 2"
         }
       ]
     },
@@ -749,7 +713,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.8,
       "chaleur": 5,
       "liens": [
         {
@@ -767,7 +731,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 18.6,
       "chaleur": 5,
       "liens": [
         {
@@ -785,7 +749,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 19.6,
       "chaleur": 5,
       "liens": [
         {
@@ -803,7 +767,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.3,
       "chaleur": 5,
       "liens": [
         {
@@ -821,7 +785,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 26.3,
       "chaleur": 5,
       "liens": [
         {
@@ -839,7 +803,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.3,
+      "heures": 28.3,
       "chaleur": 5,
       "liens": [
         {
@@ -857,7 +821,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.9,
+      "heures": 28.8,
       "chaleur": 5,
       "liens": [
         {
@@ -875,13 +839,85 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.4,
+      "heures": 32.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/valheim",
           "titre": "Review: Valheim (Switch 2) - Epic Survival Crafter Finally Hits 1.0, With Performance & Crossplay Hiccups"
+        }
+      ]
+    },
+    {
+      "id": "the-largest-theft-of-labor-in-human-history-court-docs-reve",
+      "titre": "'The largest theft of labor in human history:' Court docs reveal Microsoft exec predicted AI 'doom loops' could hollow out the internet",
+      "url": "https://www.pcgamer.com/software/ai/the-largest-theft-of-labor-in-human-history-court-docs-reveal-microsoft-exec-predicted-ai-doom-loops-could-hollow-out-the-internet/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/the-largest-theft-of-labor-in-human-history-court-docs-reveal-microsoft-exec-predicted-ai-doom-loops-could-hollow-out-the-internet/",
+          "titre": "'The largest theft of labor in human history:' Court docs reveal Microsoft exec predicted AI 'doom loops' could hollow out the internet"
+        }
+      ]
+    },
+    {
+      "id": "wolverine-ps5-tones-down-fart-trails-as-title-tipped-to-be-a",
+      "titre": "Wolverine PS5 Tones Down 'Fart Trails' as Title Tipped to Be a Huge Sales Success",
+      "url": "https://www.pushsquare.com/news/2026/09/wolverine-ps5-tones-down-fart-trails-as-title-tipped-to-be-a-huge-sales-success",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/wolverine-ps5-tones-down-fart-trails-as-title-tipped-to-be-a-huge-sales-success",
+          "titre": "Wolverine PS5 Tones Down 'Fart Trails' as Title Tipped to Be a Huge Sales Success"
+        }
+      ]
+    },
+    {
+      "id": "i-played-the-adventure-game-so-scandalous-that-it-was-physic",
+      "titre": "I played the adventure game so scandalous that it was physically destroyed by UK customs",
+      "url": "https://www.pcgamer.com/games/adventure/i-played-the-adventure-game-so-scandalous-that-it-was-physically-destroyed-by-uk-customs/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/adventure/i-played-the-adventure-game-so-scandalous-that-it-was-physically-destroyed-by-uk-customs/",
+          "titre": "I played the adventure game so scandalous that it was physically destroyed by UK customs"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-s-convinced-me-that-we-lost-too-mu",
+      "titre": "World of Warcraft: Forever's convinced me that we lost too much to modern MMO quest design",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-convinced-me-that-we-lost-too-much-to-modern-mmo-quest-design/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-convinced-me-that-we-lost-too-much-to-modern-mmo-quest-design/",
+          "titre": "World of Warcraft: Forever's convinced me that we lost too much to modern MMO quest design"
         }
       ]
     },
@@ -893,7 +929,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -911,7 +947,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -929,7 +965,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -947,7 +983,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -965,7 +1001,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -983,7 +1019,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1001,8 +1037,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1019,7 +1055,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1037,7 +1073,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 22.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1055,31 +1091,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.8,
+      "heures": 22.7,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/industry-vets-behind-dishonored-ultima-online-her-story-and-more-agree-the-games-industry-crisis-goes-beyond-games-ultimately-to-fix-whats-broken-in-the-videogame-industry-we-might-have-to-fix-reality/",
           "titre": "Industry vets behind Dishonored, Ultima Online, Her Story and more agree the games industry crisis goes beyond games: 'Ultimately, to fix what’s broken in the videogame industry, we might have to fix reality'"
-        }
-      ]
-    },
-    {
-      "id": "players-got-better-than-we-expected-monster-hunter-wilds-dl",
-      "titre": "'Players got better than we expected': Monster Hunter Wilds DLC director says Capcom is retuning its difficulty standards for the expansion's endgame",
-      "url": "https://www.pcgamer.com/games/action/players-got-better-than-we-expected-monster-hunter-wilds-dlc-director-says-capcom-is-retuning-its-difficulty-standards-for-the-expansions-endgame/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/players-got-better-than-we-expected-monster-hunter-wilds-dlc-director-says-capcom-is-retuning-its-difficulty-standards-for-the-expansions-endgame/",
-          "titre": "'Players got better than we expected': Monster Hunter Wilds DLC director says Capcom is retuning its difficulty standards for the expansion's endgame"
         }
       ]
     },
@@ -1091,7 +1109,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 27.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1109,7 +1127,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.6,
+      "heures": 27.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1127,7 +1145,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 26.3,
+      "heures": 28.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1145,31 +1163,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 26.6,
+      "heures": 28.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/sessions-on-managing-ai-impact-neurodivergent-teams-and-personal-resilience-confirmed-for-gamesindustrybiz-hr-summit",
           "titre": "Sessions on managing AI impact, neurodivergent teams and personal resilience confirmed for GamesIndustry.biz HR Summit"
-        }
-      ]
-    },
-    {
-      "id": "mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-servi",
-      "titre": "MiHoYo awarded $112,000 by Chinese court after AI voice service dupes Genshin Impact characters",
-      "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 27.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
-          "titre": "MiHoYo awarded $112,000 by Chinese court after AI voice service dupes Genshin Impact characters"
         }
       ]
     }
