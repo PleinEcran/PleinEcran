@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "18/09/2026 à 22h18",
+  "collecte": "19/09/2026 à 00h26",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 6.1,
+      "heures": 8.2,
       "chaleur": 13,
       "liens": [
         {
@@ -40,36 +40,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "twitch-ceo-says-grand-theft-auto-6-s-multiplayer-mode-will-l",
-      "titre": "Twitch CEO says Grand Theft Auto 6’s multiplayer mode will launch next year",
-      "url": "https://www.videogameschronicle.com/news/twitch-ceo-says-grand-theft-auto-6s-multiplayer-mode-will-launch-next-year/",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 11.0,
-      "chaleur": 13,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/twitch-ceo-says-grand-theft-auto-6s-multiplayer-mode-will-launch-next-year/",
-          "titre": "Twitch CEO says Grand Theft Auto 6’s multiplayer mode will launch next year"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-online-release-date-twitch-ceo",
-          "titre": "Rockstar hasn't said anything about a GTA 6 Online multiplayer mode just yet, but Twitch's CEO reckons it'll land next year"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/twitch-ceo-expects-gta-6-online-multiplayer-will-launch-next-year-which-if-accurate-would-leave-only-the-pc-ports-arrival-point-up-in-the-air",
-          "titre": "Twitch CEO expects GTA 6 online multiplayer will launch next year, which if accurate would leave only the PC port's arrival point up in the air"
-        }
-      ]
-    },
-    {
       "id": "final-fantasy-7-revelation-is-apparently-a-super-heavyweight",
       "titre": "Final Fantasy 7 Revelation is apparently a super heavyweight 200GB installation: 'We need to overcome the hardware to a certain extent'",
       "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-is-apparently-a-super-heavyweight-200gb-installation-we-need-to-overcome-the-hardware-to-a-certain-extent/",
@@ -79,7 +49,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 0.4,
+      "heures": 2.5,
       "chaleur": 12,
       "liens": [
         {
@@ -100,6 +70,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "twitch-ceo-says-grand-theft-auto-6-s-multiplayer-mode-will-l",
+      "titre": "Twitch CEO says Grand Theft Auto 6’s multiplayer mode will launch next year",
+      "url": "https://www.videogameschronicle.com/news/twitch-ceo-says-grand-theft-auto-6s-multiplayer-mode-will-launch-next-year/",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 13.1,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/twitch-ceo-says-grand-theft-auto-6s-multiplayer-mode-will-launch-next-year/",
+          "titre": "Twitch CEO says Grand Theft Auto 6’s multiplayer mode will launch next year"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-online-release-date-twitch-ceo",
+          "titre": "Rockstar hasn't said anything about a GTA 6 Online multiplayer mode just yet, but Twitch's CEO reckons it'll land next year"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/twitch-ceo-expects-gta-6-online-multiplayer-will-launch-next-year-which-if-accurate-would-leave-only-the-pc-ports-arrival-point-up-in-the-air",
+          "titre": "Twitch CEO expects GTA 6 online multiplayer will launch next year, which if accurate would leave only the PC port's arrival point up in the air"
+        }
+      ]
+    },
+    {
       "id": "players-got-better-than-we-expected-monster-hunter-wilds-dl",
       "titre": "'Players got better than we expected': Monster Hunter Wilds DLC director says Capcom is retuning its difficulty standards for the expansion's endgame",
       "url": "https://www.pcgamer.com/games/action/players-got-better-than-we-expected-monster-hunter-wilds-dlc-director-says-capcom-is-retuning-its-difficulty-standards-for-the-expansions-endgame/",
@@ -108,7 +108,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 1.3,
+      "heures": 3.4,
       "chaleur": 11,
       "liens": [
         {
@@ -124,44 +124,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "new-200gb-gta-5-leak-suggests-rockstar-games-scrapped-a-mass",
-      "titre": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work",
-      "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
+      "id": "the-last-of-us-game-director-apologizes-for-god-of-war-laufe",
+      "titre": "The Last of Us game director apologizes for God of War Laufey criticism, points finger at industry leaders for triple-A stagnation",
+      "url": "https://www.pcgamer.com/gaming-industry/the-last-of-us-game-director-apologizes-for-god-of-war-laufey-criticism-points-finger-at-industry-leaders-for-triple-a-stagnation/",
       "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
-          "titre": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work"
-        }
-      ]
-    },
-    {
-      "id": "king-workers-call-strike-after-collective-agreement-negotiat",
-      "titre": "King workers call strike after collective agreement negotiations stall",
-      "url": "https://www.gamedeveloper.com/production/king-workers-call-strike-after-collective-agreement-negotiations-stall",
-      "sources": [
-        "Game Developer",
-        "GamesIndustry.biz"
+        "PC Gamer",
+        "Push Square"
       ],
       "reprises": 2,
-      "heures": 10.3,
-      "chaleur": 10,
+      "heures": 2.1,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production/king-workers-call-strike-after-collective-agreement-negotiations-stall",
-          "titre": "King workers call strike after collective agreement negotiations stall"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/the-last-of-us-game-director-apologizes-for-god-of-war-laufey-criticism-points-finger-at-industry-leaders-for-triple-a-stagnation/",
+          "titre": "The Last of Us game director apologizes for God of War Laufey criticism, points finger at industry leaders for triple-A stagnation"
         },
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/king-workers-to-strike-in-sweden-following-rejection-of-collective-bargaining-agreement",
-          "titre": "King workers to strike in Sweden following rejection of collective bargaining agreement"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-game-director-apologises-for-dragging-god-of-war-laufey-into-boring-aaa-game-discussion",
+          "titre": "The Last of Us Game Director Apologises for Dragging God of War Laufey into 'Boring' AAA Game Discussion"
         }
       ]
     },
@@ -174,7 +156,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 0.2,
+      "heures": 2.4,
       "chaleur": 9,
       "liens": [
         {
@@ -190,6 +172,90 @@ const VEILLE = {
       ]
     },
     {
+      "id": "new-200gb-gta-5-leak-suggests-rockstar-games-scrapped-a-mass",
+      "titre": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work",
+      "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 6.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
+          "titre": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work"
+        }
+      ]
+    },
+    {
+      "id": "fire-emblem-fortune-s-weave-wonder-leaves-location-for-elega",
+      "titre": "Fire Emblem Fortune’s Weave: Wonder Leaves location for Elegant Drink Recipes quest",
+      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-wonder-leaves-location-for-elegant-drink-recipes-quest/",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 8.2,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-wonder-leaves-location-for-elegant-drink-recipes-quest/",
+          "titre": "Fire Emblem Fortune’s Weave: Wonder Leaves location for Elegant Drink Recipes quest"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/my-nintendo-fire-emblem-fortunes-weave-heroic-sweepstakes-announced-north-america",
+          "titre": "My Nintendo Fire Emblem: Fortune's Weave Heroic Sweepstakes Announced (North America)"
+        }
+      ]
+    },
+    {
+      "id": "king-workers-call-strike-after-collective-agreement-negotiat",
+      "titre": "King workers call strike after collective agreement negotiations stall",
+      "url": "https://www.gamedeveloper.com/production/king-workers-call-strike-after-collective-agreement-negotiations-stall",
+      "sources": [
+        "Game Developer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 12.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/production/king-workers-call-strike-after-collective-agreement-negotiations-stall",
+          "titre": "King workers call strike after collective agreement negotiations stall"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/king-workers-to-strike-in-sweden-following-rejection-of-collective-bargaining-agreement",
+          "titre": "King workers to strike in Sweden following rejection of collective bargaining agreement"
+        }
+      ]
+    },
+    {
+      "id": "preview-don-t-sleep-on-fate-extra-record-this-story-driven-p",
+      "titre": "Preview: Don't Sleep on Fate/Extra Record - This Story-Driven PS5 RPG Shows Real Promise",
+      "url": "https://www.pushsquare.com/previews/dont-sleep-on-fateextra-record-this-story-driven-ps5-rpg-shows-real-promise",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/previews/dont-sleep-on-fateextra-record-this-story-driven-ps5-rpg-shows-real-promise",
+          "titre": "Preview: Don't Sleep on Fate/Extra Record - This Story-Driven PS5 RPG Shows Real Promise"
+        }
+      ]
+    },
+    {
       "id": "sony-execs-behind-iconic-game-sharing-meme-recreate-it-but-f",
       "titre": "Sony execs behind iconic game-sharing meme recreate it, but fittingly, without a physical game",
       "url": "https://www.eurogamer.net/sony-execs-game-sharing-meme-physical",
@@ -198,8 +264,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 2.6,
-      "chaleur": 9,
+      "heures": 4.7,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
@@ -221,37 +287,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 9,
+      "heures": 6.1,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/the-pc-platform-is-becoming-more-and-more-important-take-two-chief-says-as-we-continue-to-wonder-when-were-going-to-get-gta-6/",
           "titre": "'The PC platform is becoming more and more important,' Take-Two chief says, as we continue to wonder when we're going to get GTA 6"
-        }
-      ]
-    },
-    {
-      "id": "fire-emblem-fortune-s-weave-wonder-leaves-location-for-elega",
-      "titre": "Fire Emblem Fortune’s Weave: Wonder Leaves location for Elegant Drink Recipes quest",
-      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-wonder-leaves-location-for-elegant-drink-recipes-quest/",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 6.1,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-wonder-leaves-location-for-elegant-drink-recipes-quest/",
-          "titre": "Fire Emblem Fortune’s Weave: Wonder Leaves location for Elegant Drink Recipes quest"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/my-nintendo-fire-emblem-fortunes-weave-heroic-sweepstakes-announced-north-america",
-          "titre": "My Nintendo Fire Emblem: Fortune's Weave Heroic Sweepstakes Announced (North America)"
         }
       ]
     },
@@ -263,7 +305,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 7,
       "liens": [
         {
@@ -281,7 +323,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.4,
       "chaleur": 7,
       "liens": [
         {
@@ -299,49 +341,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.6,
       "chaleur": 7,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/theyve-watched-so-many-people-lose-their-jobs-that-has-an-impact-managing-morale-in-the-wake-of-layoffs",
           "titre": "\"They've watched so many people lose their jobs, that has an impact\" – Managing morale in the wake of layoffs"
-        }
-      ]
-    },
-    {
-      "id": "bolstered-by-switch-2-sales-and-zelda-ocarina-of-time-remake",
-      "titre": "Bolstered by Switch 2 sales and Zelda: Ocarina of Time remake's reveal, Nintendo of America COO promises: \"This is just the beginning\"",
-      "url": "https://www.eurogamer.net/switch-2-sales-ocarina-of-time-just-the-beginning",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/switch-2-sales-ocarina-of-time-just-the-beginning",
-          "titre": "Bolstered by Switch 2 sales and Zelda: Ocarina of Time remake's reveal, Nintendo of America COO promises: \"This is just the beginning\""
-        }
-      ]
-    },
-    {
-      "id": "strauss-zelnick-stresses-a-well-known-franchise-like-gta-sti",
-      "titre": "Strauss Zelnick stresses a well-known franchise like GTA still needs marketing: \"You always have to go out and create enthusiasm\"",
-      "url": "https://www.gamesindustry.biz/strauss-zelnick-stresses-a-well-known-franchise-like-gta-still-needs-marketing-you-always-have-to-go-out-and-create-enthusiasm",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/strauss-zelnick-stresses-a-well-known-franchise-like-gta-still-needs-marketing-you-always-have-to-go-out-and-create-enthusiasm",
-          "titre": "Strauss Zelnick stresses a well-known franchise like GTA still needs marketing: \"You always have to go out and create enthusiasm\""
         }
       ]
     },
@@ -526,6 +532,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "talking-point-what-are-you-playing-this-weekend-issue-650",
+      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 650",
+      "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-650",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-650",
+          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 650"
+        }
+      ]
+    },
+    {
+      "id": "dueling-industry-surveys-show-japanese-game-devs-are-embraci",
+      "titre": "Dueling industry surveys show Japanese game devs are embracing AI, while North American ones are still skeptical",
+      "url": "https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/",
+          "titre": "Dueling industry surveys show Japanese game devs are embracing AI, while North American ones are still skeptical"
+        }
+      ]
+    },
+    {
       "id": "industry-vets-behind-dishonored-ultima-online-her-story-and",
       "titre": "Industry vets behind Dishonored, Ultima Online, Her Story and more agree the games industry crisis goes beyond games: 'Ultimately, to fix what’s broken in the videogame industry, we might have to fix reality'",
       "url": "https://www.pcgamer.com/gaming-industry/industry-vets-behind-dishonored-ultima-online-her-story-and-more-agree-the-games-industry-crisis-goes-beyond-games-ultimately-to-fix-whats-broken-in-the-videogame-industry-we-might-have-to-fix-reality/",
@@ -533,31 +575,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/industry-vets-behind-dishonored-ultima-online-her-story-and-more-agree-the-games-industry-crisis-goes-beyond-games-ultimately-to-fix-whats-broken-in-the-videogame-industry-we-might-have-to-fix-reality/",
           "titre": "Industry vets behind Dishonored, Ultima Online, Her Story and more agree the games industry crisis goes beyond games: 'Ultimately, to fix what’s broken in the videogame industry, we might have to fix reality'"
-        }
-      ]
-    },
-    {
-      "id": "reacher-star-alan-ritchson-is-in-talks-to-replace-jason-momo",
-      "titre": "Reacher star Alan Ritchson is in talks to replace Jason Momoa on the Helldivers movie",
-      "url": "https://www.pcgamer.com/movies-tv/reacher-star-alan-ritchson-is-in-talks-to-replace-jason-momoa-on-the-helldivers-movie/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/reacher-star-alan-ritchson-is-in-talks-to-replace-jason-momoa-on-the-helldivers-movie/",
-          "titre": "Reacher star Alan Ritchson is in talks to replace Jason Momoa on the Helldivers movie"
         }
       ]
     },
@@ -569,7 +593,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.4,
       "chaleur": 6,
       "liens": [
         {
@@ -587,7 +611,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.4,
       "chaleur": 6,
       "liens": [
         {
@@ -605,7 +629,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.9,
       "chaleur": 6,
       "liens": [
         {
@@ -623,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.9,
       "chaleur": 6,
       "liens": [
         {
@@ -634,38 +658,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "over-35-000-people-say-they-signed-up-for-a-steam-frame-and",
-      "titre": "Over 35,000 people say they signed up for a Steam Frame, and less than half have one reserved",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/over-35-000-people-say-they-signed-up-for-a-steam-frame-and-less-than-half-have-one-reserved/",
+      "id": "bolstered-by-switch-2-sales-and-zelda-ocarina-of-time-remake",
+      "titre": "Bolstered by Switch 2 sales and Zelda: Ocarina of Time remake's reveal, Nintendo of America COO promises: \"This is just the beginning\"",
+      "url": "https://www.eurogamer.net/switch-2-sales-ocarina-of-time-just-the-beginning",
       "sources": [
-        "PC Gamer"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 12.5,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/over-35-000-people-say-they-signed-up-for-a-steam-frame-and-less-than-half-have-one-reserved/",
-          "titre": "Over 35,000 people say they signed up for a Steam Frame, and less than half have one reserved"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/switch-2-sales-ocarina-of-time-just-the-beginning",
+          "titre": "Bolstered by Switch 2 sales and Zelda: Ocarina of Time remake's reveal, Nintendo of America COO promises: \"This is just the beginning\""
         }
       ]
     },
     {
-      "id": "review-valheim-switch-2-epic-survival-crafter-finally-hits-1",
-      "titre": "Review: Valheim (Switch 2) - Epic Survival Crafter Finally Hits 1.0, With Performance & Crossplay Hiccups",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/valheim",
+      "id": "strauss-zelnick-stresses-a-well-known-franchise-like-gta-sti",
+      "titre": "Strauss Zelnick stresses a well-known franchise like GTA still needs marketing: \"You always have to go out and create enthusiasm\"",
+      "url": "https://www.gamesindustry.biz/strauss-zelnick-stresses-a-well-known-franchise-like-gta-still-needs-marketing-you-always-have-to-go-out-and-create-enthusiasm",
       "sources": [
-        "Nintendo Life"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 10.3,
+      "heures": 14.1,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/valheim",
-          "titre": "Review: Valheim (Switch 2) - Epic Survival Crafter Finally Hits 1.0, With Performance & Crossplay Hiccups"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/strauss-zelnick-stresses-a-well-known-franchise-like-gta-still-needs-marketing-you-always-have-to-go-out-and-create-enthusiasm",
+          "titre": "Strauss Zelnick stresses a well-known franchise like GTA still needs marketing: \"You always have to go out and create enthusiasm\""
         }
       ]
     },
@@ -677,7 +701,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.3,
       "chaleur": 6,
       "liens": [
         {
@@ -695,7 +719,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.8,
+      "heures": 18.9,
       "chaleur": 6,
       "liens": [
         {
@@ -713,7 +737,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 28.5,
+      "heures": 30.6,
       "chaleur": 6,
       "liens": [
         {
@@ -732,7 +756,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 30.0,
+      "heures": 32.1,
       "chaleur": 6,
       "liens": [
         {
@@ -755,7 +779,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.4,
+      "heures": 35.5,
       "chaleur": 6,
       "liens": [
         {
@@ -766,20 +790,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-the-album-announced-pre-orders-available-now",
-      "titre": "GTA 6: The Album Announced, Pre-Orders Available Now",
-      "url": "https://www.pushsquare.com/news/2026/09/gta-6-the-album-announced-pre-orders-available-now",
+      "id": "review-valheim-switch-2-epic-survival-crafter-finally-hits-1",
+      "titre": "Review: Valheim (Switch 2) - Epic Survival Crafter Finally Hits 1.0, With Performance & Crossplay Hiccups",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/valheim",
       "sources": [
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 34.0,
-      "chaleur": 6,
+      "heures": 12.4,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/gta-6-the-album-announced-pre-orders-available-now",
-          "titre": "GTA 6: The Album Announced, Pre-Orders Available Now"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/valheim",
+          "titre": "Review: Valheim (Switch 2) - Epic Survival Crafter Finally Hits 1.0, With Performance & Crossplay Hiccups"
         }
       ]
     },
@@ -791,7 +815,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.4,
       "chaleur": 5,
       "liens": [
         {
@@ -809,7 +833,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 15.2,
       "chaleur": 5,
       "liens": [
         {
@@ -827,7 +851,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 19.9,
       "chaleur": 5,
       "liens": [
         {
@@ -845,7 +869,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.5,
       "chaleur": 5,
       "liens": [
         {
@@ -863,7 +887,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.4,
       "chaleur": 5,
       "liens": [
         {
@@ -881,7 +905,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 31.6,
+      "heures": 33.7,
       "chaleur": 5,
       "liens": [
         {
@@ -892,20 +916,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "wardogs-has-already-made-more-money-than-marathon-and-its-st",
-      "titre": "Wardogs has already made more money than Marathon, and its Steam launch momentum is ahead of Arc Raiders and Helldivers 2",
-      "url": "https://www.eurogamer.net/wardogs-marathon-revenue-arc-raiders-helldivers-2-steam",
+      "id": "reacher-star-alan-ritchson-is-in-talks-to-replace-jason-momo",
+      "titre": "Reacher star Alan Ritchson is in talks to replace Jason Momoa on the Helldivers movie",
+      "url": "https://www.pcgamer.com/movies-tv/reacher-star-alan-ritchson-is-in-talks-to-replace-jason-momoa-on-the-helldivers-movie/",
       "sources": [
-        "Eurogamer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 35.6,
-      "chaleur": 5,
+      "heures": 4.7,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/wardogs-marathon-revenue-arc-raiders-helldivers-2-steam",
-          "titre": "Wardogs has already made more money than Marathon, and its Steam launch momentum is ahead of Arc Raiders and Helldivers 2"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/reacher-star-alan-ritchson-is-in-talks-to-replace-jason-momoa-on-the-helldivers-movie/",
+          "titre": "Reacher star Alan Ritchson is in talks to replace Jason Momoa on the Helldivers movie"
         }
       ]
     },
@@ -917,31 +941,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/marvel-wolverine-sales-ps5-physical-controversial-reviews",
           "titre": "Despite controversial reviews and online mockery, Marvel's Wolverine looks to have sold 1.9m on PS5 - and over 1 in 5 sales are physical"
-        }
-      ]
-    },
-    {
-      "id": "the-last-of-us-game-director-apologises-for-dragging-god-of",
-      "titre": "The Last of Us Game Director Apologises for Dragging God of War Laufey into 'Boring' AAA Game Discussion",
-      "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-game-director-apologises-for-dragging-god-of-war-laufey-into-boring-aaa-game-discussion",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 5.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-game-director-apologises-for-dragging-god-of-war-laufey-into-boring-aaa-game-discussion",
-          "titre": "The Last of Us Game Director Apologises for Dragging God of War Laufey into 'Boring' AAA Game Discussion"
         }
       ]
     },
@@ -953,7 +959,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +977,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +995,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +1013,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1025,7 +1031,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,7 +1049,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,7 +1067,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1079,7 +1085,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1097,7 +1103,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1115,7 +1121,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1133,7 +1139,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1151,7 +1157,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
