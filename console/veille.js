@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "19/09/2026 à 02h19",
+  "collecte": "19/09/2026 à 04h19",
   "seuil": 14,
   "sujets": [
     {
@@ -14,8 +14,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 10.1,
-      "chaleur": 13,
+      "heures": 12.1,
+      "chaleur": 12,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -40,36 +40,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "twitch-ceo-says-grand-theft-auto-6-s-multiplayer-mode-will-l",
-      "titre": "Twitch CEO says Grand Theft Auto 6’s multiplayer mode will launch next year",
-      "url": "https://www.videogameschronicle.com/news/twitch-ceo-says-grand-theft-auto-6s-multiplayer-mode-will-launch-next-year/",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 15.0,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/twitch-ceo-says-grand-theft-auto-6s-multiplayer-mode-will-launch-next-year/",
-          "titre": "Twitch CEO says Grand Theft Auto 6’s multiplayer mode will launch next year"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-online-release-date-twitch-ceo",
-          "titre": "Rockstar hasn't said anything about a GTA 6 Online multiplayer mode just yet, but Twitch's CEO reckons it'll land next year"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/twitch-ceo-expects-gta-6-online-multiplayer-will-launch-next-year-which-if-accurate-would-leave-only-the-pc-ports-arrival-point-up-in-the-air",
-          "titre": "Twitch CEO expects GTA 6 online multiplayer will launch next year, which if accurate would leave only the PC port's arrival point up in the air"
-        }
-      ]
-    },
-    {
       "id": "final-fantasy-7-revelation-is-apparently-a-super-heavyweight",
       "titre": "Final Fantasy 7 Revelation is apparently a super heavyweight 200GB installation: 'We need to overcome the hardware to a certain extent'",
       "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-is-apparently-a-super-heavyweight-200gb-installation-we-need-to-overcome-the-hardware-to-a-certain-extent/",
@@ -79,7 +49,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 10,
       "liens": [
         {
@@ -108,7 +78,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 9,
       "liens": [
         {
@@ -131,7 +101,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 10.0,
       "chaleur": 9,
       "liens": [
         {
@@ -150,7 +120,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 14.3,
+      "heures": 16.3,
       "chaleur": 9,
       "liens": [
         {
@@ -166,6 +136,48 @@ const VEILLE = {
       ]
     },
     {
+      "id": "twitch-ceo-says-grand-theft-auto-6-s-multiplayer-mode-will-l",
+      "titre": "Twitch CEO says Grand Theft Auto 6’s multiplayer mode will launch next year",
+      "url": "https://www.videogameschronicle.com/news/twitch-ceo-says-grand-theft-auto-6s-multiplayer-mode-will-launch-next-year/",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 17.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/twitch-ceo-says-grand-theft-auto-6s-multiplayer-mode-will-launch-next-year/",
+          "titre": "Twitch CEO says Grand Theft Auto 6’s multiplayer mode will launch next year"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-online-release-date-twitch-ceo",
+          "titre": "Rockstar hasn't said anything about a GTA 6 Online multiplayer mode just yet, but Twitch's CEO reckons it'll land next year"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-appears-to-have-updated-the-super-mario-logo",
+      "titre": "Nintendo Appears To Have Updated The Super Mario Logo",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-appears-to-have-updated-the-super-mario-logo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nintendo-appears-to-have-updated-the-super-mario-logo",
+          "titre": "Nintendo Appears To Have Updated The Super Mario Logo"
+        }
+      ]
+    },
+    {
       "id": "dragon-s-dogma-2-on-switch-2-uses-frame-generation",
       "titre": "Dragon's Dogma 2 On Switch 2 Uses Frame Generation",
       "url": "https://www.nintendolife.com/news/2026/09/dragons-dogma-2-on-switch-2-uses-frame-generation",
@@ -173,7 +185,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 8,
       "liens": [
         {
@@ -191,31 +203,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/the-elder-scrolls-iv-oblivion-remastered-switch-2-update-1-1-now-live-here-are-the-full-patch-notes",
           "titre": "The Elder Scrolls IV: Oblivion Remastered Switch 2 Update 1.1 Now Live, Here Are The Full Patch Notes"
-        }
-      ]
-    },
-    {
-      "id": "preview-don-t-sleep-on-fate-extra-record-this-story-driven-p",
-      "titre": "Preview: Don't Sleep on Fate/Extra Record - This Story-Driven PS5 RPG Shows Real Promise",
-      "url": "https://www.pushsquare.com/previews/dont-sleep-on-fateextra-record-this-story-driven-ps5-rpg-shows-real-promise",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/previews/dont-sleep-on-fateextra-record-this-story-driven-ps5-rpg-shows-real-promise",
-          "titre": "Preview: Don't Sleep on Fate/Extra Record - This Story-Driven PS5 RPG Shows Real Promise"
         }
       ]
     },
@@ -228,7 +222,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 4.0,
+      "heures": 6.0,
       "chaleur": 7,
       "liens": [
         {
@@ -252,7 +246,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 6.6,
+      "heures": 8.6,
       "chaleur": 7,
       "liens": [
         {
@@ -275,7 +269,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 10.0,
       "chaleur": 7,
       "liens": [
         {
@@ -293,49 +287,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-modded-the-most-exciting-thing-possible-into-gta-5-hard-and-soft-credit-checks-and-realistic-personal-finance/",
           "titre": "I have modded the most exciting thing possible into GTA 5: Hard and soft credit checks and realistic personal finance"
-        }
-      ]
-    },
-    {
-      "id": "review-woodo-nintendo-switch-2-edition-an-irresistible-hard",
-      "titre": "Review: Woodo - Nintendo Switch 2 Edition - An Irresistible, Hard-To-Define Formula For Pure Relaxation",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/woodo-nintendo-switch-2-edition",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/woodo-nintendo-switch-2-edition",
-          "titre": "Review: Woodo - Nintendo Switch 2 Edition - An Irresistible, Hard-To-Define Formula For Pure Relaxation"
-        }
-      ]
-    },
-    {
-      "id": "they-ve-watched-so-many-people-lose-their-jobs-that-has-an",
-      "titre": "\"They've watched so many people lose their jobs, that has an impact\" – Managing morale in the wake of layoffs",
-      "url": "https://www.gamesindustry.biz/theyve-watched-so-many-people-lose-their-jobs-that-has-an-impact-managing-morale-in-the-wake-of-layoffs",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/theyve-watched-so-many-people-lose-their-jobs-that-has-an-impact-managing-morale-in-the-wake-of-layoffs",
-          "titre": "\"They've watched so many people lose their jobs, that has an impact\" – Managing morale in the wake of layoffs"
         }
       ]
     },
@@ -538,38 +496,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "talking-point-what-are-you-playing-this-weekend-issue-650",
-      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 650",
-      "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-650",
+      "id": "preview-don-t-sleep-on-fate-extra-record-this-story-driven-p",
+      "titre": "Preview: Don't Sleep on Fate/Extra Record - This Story-Driven PS5 RPG Shows Real Promise",
+      "url": "https://www.pushsquare.com/previews/dont-sleep-on-fateextra-record-this-story-driven-ps5-rpg-shows-real-promise",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 3.3,
+      "heures": 4.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-650",
-          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 650"
-        }
-      ]
-    },
-    {
-      "id": "dueling-industry-surveys-show-japanese-game-devs-are-embraci",
-      "titre": "Dueling industry surveys show Japanese game devs are embracing AI, while North American ones are still skeptical",
-      "url": "https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/",
-          "titre": "Dueling industry surveys show Japanese game devs are embracing AI, while North American ones are still skeptical"
+          "url": "https://www.pushsquare.com/previews/dont-sleep-on-fateextra-record-this-story-driven-ps5-rpg-shows-real-promise",
+          "titre": "Preview: Don't Sleep on Fate/Extra Record - This Story-Driven PS5 RPG Shows Real Promise"
         }
       ]
     },
@@ -581,7 +521,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 6,
       "liens": [
         {
@@ -592,38 +532,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "tractor-battling-teenage-road-trip-rpg-keep-driving-is-getti",
-      "titre": "Tractor-battling teenage road trip RPG Keep Driving is getting official mod support via Steam Workshop later this month",
-      "url": "https://www.rockpapershotgun.com/tractor-battling-teenage-road-trip-rpg-keep-driving-is-getting-official-mod-support-via-steam-workshop-later-this-month",
+      "id": "review-woodo-nintendo-switch-2-edition-an-irresistible-hard",
+      "titre": "Review: Woodo - Nintendo Switch 2 Edition - An Irresistible, Hard-To-Define Formula For Pure Relaxation",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/woodo-nintendo-switch-2-edition",
       "sources": [
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.3,
+      "heures": 12.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/tractor-battling-teenage-road-trip-rpg-keep-driving-is-getting-official-mod-support-via-steam-workshop-later-this-month",
-          "titre": "Tractor-battling teenage road trip RPG Keep Driving is getting official mod support via Steam Workshop later this month"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/woodo-nintendo-switch-2-edition",
+          "titre": "Review: Woodo - Nintendo Switch 2 Edition - An Irresistible, Hard-To-Define Formula For Pure Relaxation"
         }
       ]
     },
     {
-      "id": "single-player-games-might-require-age-verification-if-they-u",
-      "titre": "Single player games might require age verification if they use Steam under EU Kids Act's current draft, according to MEP's senior policy adviser",
-      "url": "https://www.rockpapershotgun.com/single-player-games-might-require-age-verification-if-they-use-steam-under-eu-kids-acts-current-draft-according-to-meps-senior-policy-adviser",
+      "id": "they-ve-watched-so-many-people-lose-their-jobs-that-has-an",
+      "titre": "\"They've watched so many people lose their jobs, that has an impact\" – Managing morale in the wake of layoffs",
+      "url": "https://www.gamesindustry.biz/theyve-watched-so-many-people-lose-their-jobs-that-has-an-impact-managing-morale-in-the-wake-of-layoffs",
       "sources": [
-        "Rock Paper Shotgun"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 10.8,
+      "heures": 12.5,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/single-player-games-might-require-age-verification-if-they-use-steam-under-eu-kids-acts-current-draft-according-to-meps-senior-policy-adviser",
-          "titre": "Single player games might require age verification if they use Steam under EU Kids Act's current draft, according to MEP's senior policy adviser"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/theyve-watched-so-many-people-lose-their-jobs-that-has-an-impact-managing-morale-in-the-wake-of-layoffs",
+          "titre": "\"They've watched so many people lose their jobs, that has an impact\" – Managing morale in the wake of layoffs"
         }
       ]
     },
@@ -635,7 +575,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 6,
       "liens": [
         {
@@ -653,7 +593,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.9,
       "chaleur": 6,
       "liens": [
         {
@@ -671,7 +611,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.2,
+      "heures": 19.2,
       "chaleur": 6,
       "liens": [
         {
@@ -689,7 +629,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.8,
+      "heures": 22.8,
       "chaleur": 6,
       "liens": [
         {
@@ -707,7 +647,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 32.5,
+      "heures": 34.5,
       "chaleur": 6,
       "liens": [
         {
@@ -718,26 +658,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "escape-a-roundabout-as-a-stoned-tuk-tuk-driver-in-zero-parad",
-      "titre": "Escape a roundabout as a stoned tuk-tuk driver in Zero Parades' free Director’s Cut update, which will add about 40,000 new words to the RPG next month",
-      "url": "https://www.rockpapershotgun.com/escape-a-roundabout-as-a-stoned-tuk-tuk-driver-in-zero-parades-free-directors-cut-update-which-will-add-about-40000-new-words-to-the-rpg-next-month",
+      "id": "tractor-battling-teenage-road-trip-rpg-keep-driving-is-getti",
+      "titre": "Tractor-battling teenage road trip RPG Keep Driving is getting official mod support via Steam Workshop later this month",
+      "url": "https://www.rockpapershotgun.com/tractor-battling-teenage-road-trip-rpg-keep-driving-is-getting-official-mod-support-via-steam-workshop-later-this-month",
       "sources": [
-        "Push Square",
         "Rock Paper Shotgun"
       ],
-      "reprises": 2,
-      "heures": 34.0,
-      "chaleur": 6,
+      "reprises": 1,
+      "heures": 12.3,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/escape-a-roundabout-as-a-stoned-tuk-tuk-driver-in-zero-parades-free-directors-cut-update-which-will-add-about-40000-new-words-to-the-rpg-next-month",
-          "titre": "Escape a roundabout as a stoned tuk-tuk driver in Zero Parades' free Director’s Cut update, which will add about 40,000 new words to the RPG next month"
-        },
+          "url": "https://www.rockpapershotgun.com/tractor-battling-teenage-road-trip-rpg-keep-driving-is-getting-official-mod-support-via-steam-workshop-later-this-month",
+          "titre": "Tractor-battling teenage road trip RPG Keep Driving is getting official mod support via Steam Workshop later this month"
+        }
+      ]
+    },
+    {
+      "id": "single-player-games-might-require-age-verification-if-they-u",
+      "titre": "Single player games might require age verification if they use Steam under EU Kids Act's current draft, according to MEP's senior policy adviser",
+      "url": "https://www.rockpapershotgun.com/single-player-games-might-require-age-verification-if-they-use-steam-under-eu-kids-acts-current-draft-according-to-meps-senior-policy-adviser",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 12.8,
+      "chaleur": 5,
+      "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/zero-parades-lands-on-ps5-in-directors-cut-form-on-3rd-november",
-          "titre": "Zero Parades Lands on PS5 in Director's Cut Form on 3rd November"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/single-player-games-might-require-age-verification-if-they-use-steam-under-eu-kids-acts-current-draft-according-to-meps-senior-policy-adviser",
+          "titre": "Single player games might require age verification if they use Steam under EU Kids Act's current draft, according to MEP's senior policy adviser"
         }
       ]
     },
@@ -749,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.3,
       "chaleur": 5,
       "liens": [
         {
@@ -767,7 +719,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.3,
       "chaleur": 5,
       "liens": [
         {
@@ -785,7 +737,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 19.1,
       "chaleur": 5,
       "liens": [
         {
@@ -796,38 +748,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "another-warioware-album-has-been-added-to-nintendo-music",
-      "titre": "Another WarioWare Album Has Been Added To Nintendo Music",
-      "url": "https://www.nintendolife.com/news/2026/09/another-warioware-album-has-been-added-to-nintendo-music",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 24.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/another-warioware-album-has-been-added-to-nintendo-music",
-          "titre": "Another WarioWare Album Has Been Added To Nintendo Music"
-        }
-      ]
-    },
-    {
-      "id": "delayed-to-2027-bloodstained-the-scarlet-engagement-is-looki",
-      "titre": "Delayed to 2027, Bloodstained: The Scarlet Engagement Is Looking Good in New Trailer",
-      "url": "https://www.pushsquare.com/news/2026/09/delayed-to-2027-bloodstained-the-scarlet-engagement-is-looking-good-in-new-trailer",
+      "id": "talking-point-what-are-you-playing-this-weekend-issue-650",
+      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 650",
+      "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-650",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 35.6,
-      "chaleur": 5,
+      "heures": 5.3,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/delayed-to-2027-bloodstained-the-scarlet-engagement-is-looking-good-in-new-trailer",
-          "titre": "Delayed to 2027, Bloodstained: The Scarlet Engagement Is Looking Good in New Trailer"
+          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-650",
+          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 650"
+        }
+      ]
+    },
+    {
+      "id": "dueling-industry-surveys-show-japanese-game-devs-are-embraci",
+      "titre": "Dueling industry surveys show Japanese game devs are embracing AI, while North American ones are still skeptical",
+      "url": "https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/",
+          "titre": "Dueling industry surveys show Japanese game devs are embracing AI, while North American ones are still skeptical"
         }
       ]
     },
@@ -839,7 +791,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -857,7 +809,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.7,
       "chaleur": 4,
       "liens": [
         {
@@ -875,7 +827,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -893,7 +845,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -911,7 +863,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -929,8 +881,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -947,8 +899,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -965,8 +917,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -983,8 +935,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1001,8 +953,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -1019,8 +971,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1037,8 +989,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1055,8 +1007,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1073,8 +1025,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -1091,7 +1043,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 14.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1109,7 +1061,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1127,7 +1079,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1145,13 +1097,49 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/pulling-focus-must-aaa-pander-to-the-distracted-opinion",
           "titre": "Pulling focus: Must AAA pander to the distracted? | Opinion"
+        }
+      ]
+    },
+    {
+      "id": "don-t-bother-turning-control-resonant-up-to-the-maximum-for",
+      "titre": "Don't bother turning Control Resonant up to the maximum for mind-bending graphics, there's both performance and beauty in the lower graphics presets too",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/dont-bother-turning-control-resonant-up-to-the-maximum-for-mind-bending-graphics-theres-both-performance-and-beauty-in-the-lower-graphics-presets-too/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 15.3,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/dont-bother-turning-control-resonant-up-to-the-maximum-for-mind-bending-graphics-theres-both-performance-and-beauty-in-the-lower-graphics-presets-too/",
+          "titre": "Don't bother turning Control Resonant up to the maximum for mind-bending graphics, there's both performance and beauty in the lower graphics presets too"
+        }
+      ]
+    },
+    {
+      "id": "control-resonant-review-a-superbly-strange-action-rpg-that-l",
+      "titre": "Control Resonant review: A superbly strange action-RPG that'll make you feel tiny and godly at once",
+      "url": "https://www.rockpapershotgun.com/control-resonant-review",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 15.3,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/control-resonant-review",
+          "titre": "Control Resonant review: A superbly strange action-RPG that'll make you feel tiny and godly at once"
         }
       ]
     }
