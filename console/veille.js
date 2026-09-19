@@ -1,32 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "19/09/2026 à 20h19",
+  "collecte": "19/09/2026 à 22h18",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "japanese-devs-aren-t-facing-the-same-layoff-crisis-because-t",
-      "titre": "Japanese devs aren't facing the same layoff crisis because their executives are paid an order of magnitude less, 'they didn’t get swept up in the live-service trend,' and their teams are smaller, says industry expert",
-      "url": "https://www.pcgamer.com/gaming-industry/japanese-devs-arent-facing-the-same-layoff-crisis-because-their-executives-are-paid-an-order-of-magnitude-less-they-didnt-get-swept-up-in-the-live-service-trend-and-their-teams-are-smaller-says-industry-expert/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 2.1,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/japanese-devs-arent-facing-the-same-layoff-crisis-because-their-executives-are-paid-an-order-of-magnitude-less-they-didnt-get-swept-up-in-the-live-service-trend-and-their-teams-are-smaller-says-industry-expert/",
-          "titre": "Japanese devs aren't facing the same layoff crisis because their executives are paid an order of magnitude less, 'they didn’t get swept up in the live-service trend,' and their teams are smaller, says industry expert"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/japan-game-development-layoffs-exec-money",
-          "titre": "Why do Japanese studios suffer fewer layoffs? Because they have smaller teams and don't pay their execs $30m, says one expert"
-        }
-      ]
-    },
     {
       "id": "the-last-of-us-director-apologises-to-god-of-war-laufey-team",
       "titre": "The Last of Us director apologises to God of War Laufey team for citing it while saying AAA experiences are ‘boring’",
@@ -37,7 +13,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 9.1,
+      "heures": 11.0,
       "chaleur": 10,
       "liens": [
         {
@@ -58,6 +34,48 @@ const VEILLE = {
       ]
     },
     {
+      "id": "evidence-of-canceled-grand-theft-auto-5-liberty-city-and-age",
+      "titre": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/evidence-of-canceled-grand-theft-auto-5-liberty-city-and-agent-trevor-dlc-plus-early-version-of-gta6s-map-surface-online/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/evidence-of-canceled-grand-theft-auto-5-liberty-city-and-agent-trevor-dlc-plus-early-version-of-gta6s-map-surface-online/",
+          "titre": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online"
+        }
+      ]
+    },
+    {
+      "id": "preview-ascendance-has-me-hyped-to-obsess-over-monster-hunte",
+      "titre": "Preview: Ascendance Has Me Hyped to Obsess Over Monster Hunter Wilds Again",
+      "url": "https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 8.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again",
+          "titre": "Preview: Ascendance Has Me Hyped to Obsess Over Monster Hunter Wilds Again"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-wilds-switch-2-performance-and-resolution-confirmed",
+          "titre": "Monster Hunter Wilds Switch 2 Performance And Resolution Confirmed"
+        }
+      ]
+    },
+    {
       "id": "talking-point-what-are-you-playing-this-weekend-19th-septemb",
       "titre": "Talking Point: What Are You Playing This Weekend? (19th September)",
       "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-19th-september",
@@ -67,8 +85,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 11.3,
-      "chaleur": 10,
+      "heures": 13.3,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -88,72 +106,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "evidence-of-canceled-grand-theft-auto-5-liberty-city-and-age",
-      "titre": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/evidence-of-canceled-grand-theft-auto-5-liberty-city-and-agent-trevor-dlc-plus-early-version-of-gta6s-map-surface-online/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/evidence-of-canceled-grand-theft-auto-5-liberty-city-and-agent-trevor-dlc-plus-early-version-of-gta6s-map-surface-online/",
-          "titre": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online"
-        }
-      ]
-    },
-    {
-      "id": "an-ambitious-fanmade-expansion-for-baldur-s-gate-3-is-out-af",
-      "titre": "An ambitious fanmade expansion for Baldur's Gate 3 is out after almost two years in development",
-      "url": "https://www.pcgamer.com/games/baldurs-gate/an-ambitious-fanmade-expansion-for-baldurs-gate-3-is-out-after-almost-two-years-in-development/",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 2.1,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/baldurs-gate/an-ambitious-fanmade-expansion-for-baldurs-gate-3-is-out-after-almost-two-years-in-development/",
-          "titre": "An ambitious fanmade expansion for Baldur's Gate 3 is out after almost two years in development"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/baldurs-gate-3-act-two-expansion-mod-out-now-in-beta-adds-a-whole-new-region-to-explore-after-dealing-with-the-shadow-curse",
-          "titre": "Baldur's Gate 3 Act Two Expansion mod, out now in beta, adds a whole new region to explore after dealing with the Shadow Curse"
-        }
-      ]
-    },
-    {
-      "id": "preview-ascendance-has-me-hyped-to-obsess-over-monster-hunte",
-      "titre": "Preview: Ascendance Has Me Hyped to Obsess Over Monster Hunter Wilds Again",
-      "url": "https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 6.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again",
-          "titre": "Preview: Ascendance Has Me Hyped to Obsess Over Monster Hunter Wilds Again"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-wilds-switch-2-performance-and-resolution-confirmed",
-          "titre": "Monster Hunter Wilds Switch 2 Performance And Resolution Confirmed"
-        }
-      ]
-    },
-    {
       "id": "final-fantasy-7-revelation-is-apparently-a-super-heavyweight",
       "titre": "Final Fantasy 7 Revelation is apparently a super heavyweight 200GB installation: 'We need to overcome the hardware to a certain extent'",
       "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-is-apparently-a-super-heavyweight-200gb-installation-we-need-to-overcome-the-hardware-to-a-certain-extent/",
@@ -163,7 +115,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 22.4,
+      "heures": 24.4,
       "chaleur": 9,
       "liens": [
         {
@@ -193,7 +145,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 28.1,
+      "heures": 30.0,
       "chaleur": 9,
       "liens": [
         {
@@ -214,54 +166,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "king-workers-call-strike-after-collective-agreement-negotiat",
-      "titre": "King workers call strike after collective agreement negotiations stall",
-      "url": "https://www.gamedeveloper.com/production/king-workers-call-strike-after-collective-agreement-negotiations-stall",
-      "sources": [
-        "Game Developer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 32.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production/king-workers-call-strike-after-collective-agreement-negotiations-stall",
-          "titre": "King workers call strike after collective agreement negotiations stall"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/king-workers-to-strike-in-sweden-following-rejection-of-collective-bargaining-agreement",
-          "titre": "King workers to strike in Sweden following rejection of collective bargaining agreement"
-        }
-      ]
-    },
-    {
-      "id": "twitch-ceo-says-grand-theft-auto-6-s-multiplayer-mode-will-l",
-      "titre": "Twitch CEO says Grand Theft Auto 6’s multiplayer mode will launch next year",
-      "url": "https://www.videogameschronicle.com/news/twitch-ceo-says-grand-theft-auto-6s-multiplayer-mode-will-launch-next-year/",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 33.0,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/twitch-ceo-says-grand-theft-auto-6s-multiplayer-mode-will-launch-next-year/",
-          "titre": "Twitch CEO says Grand Theft Auto 6’s multiplayer mode will launch next year"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-online-release-date-twitch-ceo",
-          "titre": "Rockstar hasn't said anything about a GTA 6 Online multiplayer mode just yet, but Twitch's CEO reckons it'll land next year"
-        }
-      ]
-    },
-    {
       "id": "new-200gb-gta-5-leak-suggests-rockstar-games-scrapped-a-mass",
       "titre": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work",
       "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
@@ -269,13 +173,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.0,
+      "heures": 28.0,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
           "titre": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work"
+        }
+      ]
+    },
+    {
+      "id": "japanese-devs-aren-t-facing-the-same-layoff-crisis-because-t",
+      "titre": "Japanese devs aren't facing the same layoff crisis because their executives are paid an order of magnitude less, 'they didn’t get swept up in the live-service trend,' and their teams are smaller, says industry expert",
+      "url": "https://www.pcgamer.com/gaming-industry/japanese-devs-arent-facing-the-same-layoff-crisis-because-their-executives-are-paid-an-order-of-magnitude-less-they-didnt-get-swept-up-in-the-live-service-trend-and-their-teams-are-smaller-says-industry-expert/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/japanese-devs-arent-facing-the-same-layoff-crisis-because-their-executives-are-paid-an-order-of-magnitude-less-they-didnt-get-swept-up-in-the-live-service-trend-and-their-teams-are-smaller-says-industry-expert/",
+          "titre": "Japanese devs aren't facing the same layoff crisis because their executives are paid an order of magnitude less, 'they didn’t get swept up in the live-service trend,' and their teams are smaller, says industry expert"
         }
       ]
     },
@@ -503,31 +425,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/features/going-platinum-unpackings-obsession-with-possessions-makes-me-think-of-all-my-random-stuff",
           "titre": "Feature: Going Platinum: Unpacking's Obsession with Possessions Makes Me Think of All My Random Stuff"
-        }
-      ]
-    },
-    {
-      "id": "longest-ever-tokyo-game-show-curtailed-due-to-typhoon-warnin",
-      "titre": "Longest-Ever Tokyo Game Show Curtailed Due to Typhoon Warning in Japan",
-      "url": "https://www.pushsquare.com/news/2026/09/longest-ever-tokyo-game-show-curtailed-due-to-typhoon-warning-in-japan",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/longest-ever-tokyo-game-show-curtailed-due-to-typhoon-warning-in-japan",
-          "titre": "Longest-Ever Tokyo Game Show Curtailed Due to Typhoon Warning in Japan"
         }
       ]
     },
@@ -539,7 +443,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 6,
       "liens": [
         {
@@ -557,7 +461,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 6,
       "liens": [
         {
@@ -576,7 +480,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 15.8,
+      "heures": 17.8,
       "chaleur": 6,
       "liens": [
         {
@@ -600,7 +504,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 24.6,
+      "heures": 26.6,
       "chaleur": 6,
       "liens": [
         {
@@ -623,7 +527,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.3,
+      "heures": 30.3,
       "chaleur": 6,
       "liens": [
         {
@@ -641,13 +545,31 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 30.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/theyve-watched-so-many-people-lose-their-jobs-that-has-an-impact-managing-morale-in-the-wake-of-layoffs",
           "titre": "\"They've watched so many people lose their jobs, that has an impact\" – Managing morale in the wake of layoffs"
+        }
+      ]
+    },
+    {
+      "id": "king-workers-call-strike-after-collective-agreement-negotiat",
+      "titre": "King workers call strike after collective agreement negotiations stall",
+      "url": "https://www.gamedeveloper.com/production/king-workers-call-strike-after-collective-agreement-negotiations-stall",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 34.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/production/king-workers-call-strike-after-collective-agreement-negotiations-stall",
+          "titre": "King workers call strike after collective agreement negotiations stall"
         }
       ]
     },
@@ -659,7 +581,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 32.4,
+      "heures": 34.4,
       "chaleur": 6,
       "liens": [
         {
@@ -677,7 +599,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 33.9,
+      "heures": 35.9,
       "chaleur": 6,
       "liens": [
         {
@@ -695,7 +617,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.8,
       "chaleur": 5,
       "liens": [
         {
@@ -713,7 +635,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.8,
+      "heures": 18.8,
       "chaleur": 5,
       "liens": [
         {
@@ -731,7 +653,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 20.6,
       "chaleur": 5,
       "liens": [
         {
@@ -749,7 +671,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 21.6,
       "chaleur": 5,
       "liens": [
         {
@@ -767,7 +689,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 22.3,
       "chaleur": 5,
       "liens": [
         {
@@ -785,7 +707,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.3,
+      "heures": 28.3,
       "chaleur": 5,
       "liens": [
         {
@@ -803,7 +725,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.3,
+      "heures": 30.2,
       "chaleur": 5,
       "liens": [
         {
@@ -821,7 +743,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.8,
+      "heures": 30.8,
       "chaleur": 5,
       "liens": [
         {
@@ -839,13 +761,49 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 32.3,
+      "heures": 34.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/valheim",
           "titre": "Review: Valheim (Switch 2) - Epic Survival Crafter Finally Hits 1.0, With Performance & Crossplay Hiccups"
+        }
+      ]
+    },
+    {
+      "id": "an-ambitious-fanmade-expansion-for-baldur-s-gate-3-is-out-af",
+      "titre": "An ambitious fanmade expansion for Baldur's Gate 3 is out after almost two years in development",
+      "url": "https://www.pcgamer.com/games/baldurs-gate/an-ambitious-fanmade-expansion-for-baldurs-gate-3-is-out-after-almost-two-years-in-development/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/baldurs-gate/an-ambitious-fanmade-expansion-for-baldurs-gate-3-is-out-after-almost-two-years-in-development/",
+          "titre": "An ambitious fanmade expansion for Baldur's Gate 3 is out after almost two years in development"
+        }
+      ]
+    },
+    {
+      "id": "longest-ever-tokyo-game-show-curtailed-due-to-typhoon-warnin",
+      "titre": "Longest-Ever Tokyo Game Show Curtailed Due to Typhoon Warning in Japan",
+      "url": "https://www.pushsquare.com/news/2026/09/longest-ever-tokyo-game-show-curtailed-due-to-typhoon-warning-in-japan",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/longest-ever-tokyo-game-show-curtailed-due-to-typhoon-warning-in-japan",
+          "titre": "Longest-Ever Tokyo Game Show Curtailed Due to Typhoon Warning in Japan"
         }
       ]
     },
@@ -857,7 +815,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -875,7 +833,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -893,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -911,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -929,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -947,7 +905,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -965,7 +923,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -983,7 +941,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1001,8 +959,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1019,8 +977,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1037,7 +995,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1055,7 +1013,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1073,7 +1031,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.2,
+      "heures": 24.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1091,7 +1049,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.7,
+      "heures": 24.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1109,7 +1067,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 29.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1127,7 +1085,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 27.6,
+      "heures": 29.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1145,7 +1103,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 28.3,
+      "heures": 30.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1163,13 +1121,31 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 28.6,
+      "heures": 30.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/sessions-on-managing-ai-impact-neurodivergent-teams-and-personal-resilience-confirmed-for-gamesindustrybiz-hr-summit",
           "titre": "Sessions on managing AI impact, neurodivergent teams and personal resilience confirmed for GamesIndustry.biz HR Summit"
+        }
+      ]
+    },
+    {
+      "id": "mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-servi",
+      "titre": "MiHoYo awarded $112,000 by Chinese court after AI voice service dupes Genshin Impact characters",
+      "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 31.0,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
+          "titre": "MiHoYo awarded $112,000 by Chinese court after AI voice service dupes Genshin Impact characters"
         }
       ]
     }
