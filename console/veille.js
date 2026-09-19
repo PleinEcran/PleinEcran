@@ -1,29 +1,29 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "19/09/2026 à 16h19",
+  "collecte": "19/09/2026 à 18h21",
   "seuil": 14,
   "sujets": [
     {
-      "id": "preview-ascendance-has-me-hyped-to-obsess-over-monster-hunte",
-      "titre": "Preview: Ascendance Has Me Hyped to Obsess Over Monster Hunter Wilds Again",
-      "url": "https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again",
+      "id": "japanese-devs-aren-t-facing-the-same-layoff-crisis-because-t",
+      "titre": "Japanese devs aren't facing the same layoff crisis because their executives are paid an order of magnitude less, 'they didn’t get swept up in the live-service trend,' and their teams are smaller, says industry expert",
+      "url": "https://www.pcgamer.com/gaming-industry/japanese-devs-arent-facing-the-same-layoff-crisis-because-their-executives-are-paid-an-order-of-magnitude-less-they-didnt-get-swept-up-in-the-live-service-trend-and-their-teams-are-smaller-says-industry-expert/",
       "sources": [
-        "Nintendo Life",
-        "Push Square"
+        "Eurogamer",
+        "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 2.3,
-      "chaleur": 11,
+      "heures": 0.1,
+      "chaleur": 12,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again",
-          "titre": "Preview: Ascendance Has Me Hyped to Obsess Over Monster Hunter Wilds Again"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/japanese-devs-arent-facing-the-same-layoff-crisis-because-their-executives-are-paid-an-order-of-magnitude-less-they-didnt-get-swept-up-in-the-live-service-trend-and-their-teams-are-smaller-says-industry-expert/",
+          "titre": "Japanese devs aren't facing the same layoff crisis because their executives are paid an order of magnitude less, 'they didn’t get swept up in the live-service trend,' and their teams are smaller, says industry expert"
         },
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-wilds-switch-2-performance-and-resolution-confirmed",
-          "titre": "Monster Hunter Wilds Switch 2 Performance And Resolution Confirmed"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/japan-game-development-layoffs-exec-money",
+          "titre": "Why do Japanese studios suffer fewer layoffs? Because they have smaller teams and don't pay their execs $30m, says one expert"
         }
       ]
     },
@@ -37,7 +37,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 5.1,
+      "heures": 7.1,
       "chaleur": 10,
       "liens": [
         {
@@ -67,7 +67,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 10,
       "liens": [
         {
@@ -88,6 +88,54 @@ const VEILLE = {
       ]
     },
     {
+      "id": "an-ambitious-fanmade-expansion-for-baldur-s-gate-3-is-out-af",
+      "titre": "An ambitious fanmade expansion for Baldur's Gate 3 is out after almost two years in development",
+      "url": "https://www.pcgamer.com/games/baldurs-gate/an-ambitious-fanmade-expansion-for-baldurs-gate-3-is-out-after-almost-two-years-in-development/",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 0.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/baldurs-gate/an-ambitious-fanmade-expansion-for-baldurs-gate-3-is-out-after-almost-two-years-in-development/",
+          "titre": "An ambitious fanmade expansion for Baldur's Gate 3 is out after almost two years in development"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/baldurs-gate-3-act-two-expansion-mod-out-now-in-beta-adds-a-whole-new-region-to-explore-after-dealing-with-the-shadow-curse",
+          "titre": "Baldur's Gate 3 Act Two Expansion mod, out now in beta, adds a whole new region to explore after dealing with the Shadow Curse"
+        }
+      ]
+    },
+    {
+      "id": "preview-ascendance-has-me-hyped-to-obsess-over-monster-hunte",
+      "titre": "Preview: Ascendance Has Me Hyped to Obsess Over Monster Hunter Wilds Again",
+      "url": "https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 4.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again",
+          "titre": "Preview: Ascendance Has Me Hyped to Obsess Over Monster Hunter Wilds Again"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-wilds-switch-2-performance-and-resolution-confirmed",
+          "titre": "Monster Hunter Wilds Switch 2 Performance And Resolution Confirmed"
+        }
+      ]
+    },
+    {
       "id": "final-fantasy-7-revelation-is-apparently-a-super-heavyweight",
       "titre": "Final Fantasy 7 Revelation is apparently a super heavyweight 200GB installation: 'We need to overcome the hardware to a certain extent'",
       "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-is-apparently-a-super-heavyweight-200gb-installation-we-need-to-overcome-the-hardware-to-a-certain-extent/",
@@ -97,7 +145,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 18.4,
+      "heures": 20.4,
       "chaleur": 9,
       "liens": [
         {
@@ -127,7 +175,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 24.1,
+      "heures": 26.1,
       "chaleur": 9,
       "liens": [
         {
@@ -156,7 +204,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 28.3,
+      "heures": 30.3,
       "chaleur": 9,
       "liens": [
         {
@@ -180,7 +228,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 29.0,
+      "heures": 31.0,
       "chaleur": 9,
       "liens": [
         {
@@ -203,7 +251,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.4,
       "chaleur": 8,
       "liens": [
         {
@@ -221,7 +269,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.4,
       "chaleur": 8,
       "liens": [
         {
@@ -239,37 +287,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.0,
+      "heures": 24.0,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
           "titre": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work"
-        }
-      ]
-    },
-    {
-      "id": "fire-emblem-fortune-s-weave-is-getting-a-manga-series-here-s",
-      "titre": "Fire Emblem: Fortune's Weave Is Getting A Manga Series, Here's The Key Art",
-      "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-is-getting-a-manga-series-heres-the-key-art",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 11.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-is-getting-a-manga-series-heres-the-key-art",
-          "titre": "Fire Emblem: Fortune's Weave Is Getting A Manga Series, Here's The Key Art"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-wonder-leaves-location-for-elegant-drink-recipes-quest/",
-          "titre": "Fire Emblem Fortune’s Weave: Wonder Leaves location for Elegant Drink Recipes quest"
         }
       ]
     },
@@ -490,6 +514,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "longest-ever-tokyo-game-show-curtailed-due-to-typhoon-warnin",
+      "titre": "Longest-Ever Tokyo Game Show Curtailed Due to Typhoon Warning in Japan",
+      "url": "https://www.pushsquare.com/news/2026/09/longest-ever-tokyo-game-show-curtailed-due-to-typhoon-warning-in-japan",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/longest-ever-tokyo-game-show-curtailed-due-to-typhoon-warning-in-japan",
+          "titre": "Longest-Ever Tokyo Game Show Curtailed Due to Typhoon Warning in Japan"
+        }
+      ]
+    },
+    {
       "id": "the-largest-theft-of-labor-in-human-history-court-docs-reve",
       "titre": "'The largest theft of labor in human history:' Court docs reveal Microsoft exec predicted AI 'doom loops' could hollow out the internet",
       "url": "https://www.pcgamer.com/software/ai/the-largest-theft-of-labor-in-human-history-court-docs-reveal-microsoft-exec-predicted-ai-doom-loops-could-hollow-out-the-internet/",
@@ -497,7 +539,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -515,7 +557,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -533,7 +575,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -551,49 +593,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-convinced-me-that-we-lost-too-much-to-modern-mmo-quest-design/",
           "titre": "World of Warcraft: Forever's convinced me that we lost too much to modern MMO quest design"
-        }
-      ]
-    },
-    {
-      "id": "it-rules-that-a-27-year-old-rpg-one-of-the-greatest-of-all-t",
-      "titre": "It rules that a 27-year-old RPG, one of the greatest of all time, is still getting patches",
-      "url": "https://www.pcgamer.com/games/rpg/it-rules-that-a-27-year-old-rpg-one-of-the-greatest-of-all-time-is-still-getting-patches/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/it-rules-that-a-27-year-old-rpg-one-of-the-greatest-of-all-time-is-still-getting-patches/",
-          "titre": "It rules that a 27-year-old RPG, one of the greatest of all time, is still getting patches"
-        }
-      ]
-    },
-    {
-      "id": "this-unofficial-engine-patch-for-thief-the-dark-project-adds",
-      "titre": "This unofficial engine patch for Thief: The Dark Project adds a huge new feature that won't be in Nightdive's upcoming remaster",
-      "url": "https://www.pcgamer.com/games/sim/this-unofficial-engine-patch-for-thief-the-dark-project-adds-a-huge-new-feature-that-wont-be-in-nightdives-upcoming-remaster/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/this-unofficial-engine-patch-for-thief-the-dark-project-adds-a-huge-new-feature-that-wont-be-in-nightdives-upcoming-remaster/",
-          "titre": "This unofficial engine patch for Thief: The Dark Project adds a huge new feature that won't be in Nightdive's upcoming remaster"
         }
       ]
     },
@@ -605,13 +611,37 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 10.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
           "titre": "Monster Hunter World Probably Won't Be Coming To Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "fire-emblem-fortune-s-weave-is-getting-a-manga-series-here-s",
+      "titre": "Fire Emblem: Fortune's Weave Is Getting A Manga Series, Here's The Key Art",
+      "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-is-getting-a-manga-series-heres-the-key-art",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 13.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-is-getting-a-manga-series-heres-the-key-art",
+          "titre": "Fire Emblem: Fortune's Weave Is Getting A Manga Series, Here's The Key Art"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-wonder-leaves-location-for-elegant-drink-recipes-quest/",
+          "titre": "Fire Emblem Fortune’s Weave: Wonder Leaves location for Elegant Drink Recipes quest"
         }
       ]
     },
@@ -624,7 +654,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 20.6,
+      "heures": 22.6,
       "chaleur": 6,
       "liens": [
         {
@@ -640,24 +670,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-pc-platform-is-becoming-more-and-more-important-take-tw",
-      "titre": "'The PC platform is becoming more and more important,' Take-Two chief says, as we continue to wonder when we're going to get GTA 6",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-pc-platform-is-becoming-more-and-more-important-take-two-chief-says-as-we-continue-to-wonder-when-were-going-to-get-gta-6/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 22.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/the-pc-platform-is-becoming-more-and-more-important-take-two-chief-says-as-we-continue-to-wonder-when-were-going-to-get-gta-6/",
-          "titre": "'The PC platform is becoming more and more important,' Take-Two chief says, as we continue to wonder when we're going to get GTA 6"
-        }
-      ]
-    },
-    {
       "id": "review-woodo-nintendo-switch-2-edition-an-irresistible-hard",
       "titre": "Review: Woodo - Nintendo Switch 2 Edition - An Irresistible, Hard-To-Define Formula For Pure Relaxation",
       "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/woodo-nintendo-switch-2-edition",
@@ -665,7 +677,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.3,
+      "heures": 26.4,
       "chaleur": 6,
       "liens": [
         {
@@ -683,7 +695,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 24.5,
+      "heures": 26.5,
       "chaleur": 6,
       "liens": [
         {
@@ -701,7 +713,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 30.4,
       "chaleur": 6,
       "liens": [
         {
@@ -719,31 +731,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 29.9,
+      "heures": 32.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/strauss-zelnick-stresses-a-well-known-franchise-like-gta-still-needs-marketing-you-always-have-to-go-out-and-create-enthusiasm",
           "titre": "Strauss Zelnick stresses a well-known franchise like GTA still needs marketing: \"You always have to go out and create enthusiasm\""
-        }
-      ]
-    },
-    {
-      "id": "why-do-japanese-studios-suffer-fewer-layoffs-because-they-ha",
-      "titre": "Why do Japanese studios suffer fewer layoffs? Because they have smaller teams and don't pay their execs $30m, says one expert",
-      "url": "https://www.eurogamer.net/japan-game-development-layoffs-exec-money",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 31.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/japan-game-development-layoffs-exec-money",
-          "titre": "Why do Japanese studios suffer fewer layoffs? Because they have smaller teams and don't pay their execs $30m, says one expert"
         }
       ]
     },
@@ -755,7 +749,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.9,
       "chaleur": 5,
       "liens": [
         {
@@ -773,7 +767,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.6,
       "chaleur": 5,
       "liens": [
         {
@@ -791,7 +785,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.6,
       "chaleur": 5,
       "liens": [
         {
@@ -809,7 +803,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.4,
       "chaleur": 5,
       "liens": [
         {
@@ -827,7 +821,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 24.4,
       "chaleur": 5,
       "liens": [
         {
@@ -845,7 +839,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.3,
+      "heures": 26.3,
       "chaleur": 5,
       "liens": [
         {
@@ -863,7 +857,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.8,
+      "heures": 26.9,
       "chaleur": 5,
       "liens": [
         {
@@ -881,13 +875,49 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.3,
+      "heures": 30.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/valheim",
           "titre": "Review: Valheim (Switch 2) - Epic Survival Crafter Finally Hits 1.0, With Performance & Crossplay Hiccups"
+        }
+      ]
+    },
+    {
+      "id": "it-rules-that-a-27-year-old-rpg-one-of-the-greatest-of-all-t",
+      "titre": "It rules that a 27-year-old RPG, one of the greatest of all time, is still getting patches",
+      "url": "https://www.pcgamer.com/games/rpg/it-rules-that-a-27-year-old-rpg-one-of-the-greatest-of-all-time-is-still-getting-patches/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/it-rules-that-a-27-year-old-rpg-one-of-the-greatest-of-all-time-is-still-getting-patches/",
+          "titre": "It rules that a 27-year-old RPG, one of the greatest of all time, is still getting patches"
+        }
+      ]
+    },
+    {
+      "id": "this-unofficial-engine-patch-for-thief-the-dark-project-adds",
+      "titre": "This unofficial engine patch for Thief: The Dark Project adds a huge new feature that won't be in Nightdive's upcoming remaster",
+      "url": "https://www.pcgamer.com/games/sim/this-unofficial-engine-patch-for-thief-the-dark-project-adds-a-huge-new-feature-that-wont-be-in-nightdives-upcoming-remaster/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/this-unofficial-engine-patch-for-thief-the-dark-project-adds-a-huge-new-feature-that-wont-be-in-nightdives-upcoming-remaster/",
+          "titre": "This unofficial engine patch for Thief: The Dark Project adds a huge new feature that won't be in Nightdive's upcoming remaster"
         }
       ]
     },
@@ -899,7 +929,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 7.0,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +947,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +965,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +983,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +1001,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +1019,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +1037,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.3,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,7 +1055,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.7,
+      "heures": 20.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,31 +1073,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/action/players-got-better-than-we-expected-monster-hunter-wilds-dlc-director-says-capcom-is-retuning-its-difficulty-standards-for-the-expansions-endgame/",
           "titre": "'Players got better than we expected': Monster Hunter Wilds DLC director says Capcom is retuning its difficulty standards for the expansion's endgame"
-        }
-      ]
-    },
-    {
-      "id": "reacher-star-alan-ritchson-is-in-talks-to-replace-jason-momo",
-      "titre": "Reacher star Alan Ritchson is in talks to replace Jason Momoa on the Helldivers movie",
-      "url": "https://www.pcgamer.com/movies-tv/reacher-star-alan-ritchson-is-in-talks-to-replace-jason-momoa-on-the-helldivers-movie/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/reacher-star-alan-ritchson-is-in-talks-to-replace-jason-momoa-on-the-helldivers-movie/",
-          "titre": "Reacher star Alan Ritchson is in talks to replace Jason Momoa on the Helldivers movie"
         }
       ]
     },
@@ -1079,7 +1091,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 25.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1097,7 +1109,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.6,
+      "heures": 25.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1115,7 +1127,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 24.3,
+      "heures": 26.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1133,7 +1145,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 24.6,
+      "heures": 26.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1151,7 +1163,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 25.1,
+      "heures": 27.1,
       "chaleur": 3,
       "liens": [
         {
