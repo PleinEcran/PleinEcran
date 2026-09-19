@@ -1,8 +1,38 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "19/09/2026 à 10h19",
+  "collecte": "19/09/2026 à 12h23",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "the-last-of-us-director-apologises-to-god-of-war-laufey-team",
+      "titre": "The Last of Us director apologises to God of War Laufey team for citing it while saying AAA experiences are ‘boring’",
+      "url": "https://www.videogameschronicle.com/news/the-last-of-us-director-apologises-to-god-of-war-laufey-team-for-citing-it-while-saying-aaa-experiences-are-boring/",
+      "sources": [
+        "PC Gamer",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 1.1,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-last-of-us-director-apologises-to-god-of-war-laufey-team-for-citing-it-while-saying-aaa-experiences-are-boring/",
+          "titre": "The Last of Us director apologises to God of War Laufey team for citing it while saying AAA experiences are ‘boring’"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/the-last-of-us-game-director-apologizes-for-god-of-war-laufey-criticism-points-finger-at-industry-leaders-for-triple-a-stagnation/",
+          "titre": "The Last of Us game director apologizes for God of War Laufey criticism, points finger at industry leaders for triple-A stagnation"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-game-director-apologises-for-dragging-god-of-war-laufey-into-boring-aaa-game-discussion",
+          "titre": "The Last of Us Game Director Apologises for Dragging God of War Laufey into 'Boring' AAA Game Discussion"
+        }
+      ]
+    },
     {
       "id": "talking-point-what-are-you-playing-this-weekend-19th-septemb",
       "titre": "Talking Point: What Are You Playing This Weekend? (19th September)",
@@ -13,7 +43,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 1.3,
+      "heures": 3.4,
       "chaleur": 12,
       "liens": [
         {
@@ -44,7 +74,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 18.1,
+      "heures": 20.1,
       "chaleur": 12,
       "liens": [
         {
@@ -79,7 +109,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 12.4,
+      "heures": 14.5,
       "chaleur": 9,
       "liens": [
         {
@@ -108,7 +138,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 22.3,
+      "heures": 24.3,
       "chaleur": 9,
       "liens": [
         {
@@ -132,7 +162,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 23.0,
+      "heures": 25.1,
       "chaleur": 9,
       "liens": [
         {
@@ -148,24 +178,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "monster-hunter-world-probably-won-t-be-coming-to-switch-2",
-      "titre": "Monster Hunter World Probably Won't Be Coming To Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
-          "titre": "Monster Hunter World Probably Won't Be Coming To Switch 2"
-        }
-      ]
-    },
-    {
       "id": "new-200gb-gta-5-leak-suggests-rockstar-games-scrapped-a-mass",
       "titre": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work",
       "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
@@ -173,7 +185,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 18.1,
       "chaleur": 8,
       "liens": [
         {
@@ -192,7 +204,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 7,
       "liens": [
         {
@@ -424,6 +436,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "cd-projekt-says-abandoning-its-in-house-engine-for-the-witch",
+      "titre": "CD Projekt says abandoning its in-house engine for The Witcher 4 had nothing to do with Cyberpunk 2077's technical woes: 'The dream of the company was actually never to make technology'",
+      "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-says-abandoning-its-in-house-engine-for-the-witcher-4-had-nothing-to-do-with-cyberpunk-2077s-technical-woes-the-dream-of-the-company-was-actually-never-to-make-technology/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-says-abandoning-its-in-house-engine-for-the-witcher-4-had-nothing-to-do-with-cyberpunk-2077s-technical-woes-the-dream-of-the-company-was-actually-never-to-make-technology/",
+          "titre": "CD Projekt says abandoning its in-house engine for The Witcher 4 had nothing to do with Cyberpunk 2077's technical woes: 'The dream of the company was actually never to make technology'"
+        }
+      ]
+    },
+    {
+      "id": "guide-these-26-ps5-and-ps-plus-games-are-coming-out-next-wee",
+      "titre": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (21st - 27th September)",
+      "url": "https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-21st-27th-september",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-21st-27th-september",
+          "titre": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (21st - 27th September)"
+        }
+      ]
+    },
+    {
       "id": "dune-awakening-now-has-a-solo-mode-for-players-put-off-by-it",
       "titre": "Dune Awakening now has a solo mode for players put off by its MMO leanings, while Funcom has adjusted progression so 'you don't have to lose things anymore'",
       "url": "https://www.pcgamer.com/games/survival-crafting/dune-awakening-now-has-a-solo-mode-for-players-put-off-by-its-mmo-leanings-while-funcom-has-adjusted-progression-so-you-dont-have-to-lose-things-anymore/",
@@ -431,7 +479,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -449,7 +497,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -460,20 +508,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "what-we-ve-been-playing-the-rest-of-the-party-is-frankly-abs",
-      "titre": "What we've been playing - \"the rest of the party is, frankly, absolutely feral, so I've been trying to balance that out\"",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-the-rest-of-the-party-is-absolutely-feral",
+      "id": "monster-hunter-world-probably-won-t-be-coming-to-switch-2",
+      "titre": "Monster Hunter World Probably Won't Be Coming To Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
       "sources": [
-        "Eurogamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.3,
+      "heures": 4.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/what-weve-been-playing-the-rest-of-the-party-is-absolutely-feral",
-          "titre": "What we've been playing - \"the rest of the party is, frankly, absolutely feral, so I've been trying to balance that out\""
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
+          "titre": "Monster Hunter World Probably Won't Be Coming To Switch 2"
         }
       ]
     },
@@ -485,7 +533,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.9,
       "chaleur": 6,
       "liens": [
         {
@@ -503,7 +551,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.6,
       "chaleur": 6,
       "liens": [
         {
@@ -521,55 +569,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/the-elder-scrolls-iv-oblivion-remastered-switch-2-update-1-1-now-live-here-are-the-full-patch-notes",
           "titre": "The Elder Scrolls IV: Oblivion Remastered Switch 2 Update 1.1 Now Live, Here Are The Full Patch Notes"
-        }
-      ]
-    },
-    {
-      "id": "preview-don-t-sleep-on-fate-extra-record-this-story-driven-p",
-      "titre": "Preview: Don't Sleep on Fate/Extra Record - This Story-Driven PS5 RPG Shows Real Promise",
-      "url": "https://www.pushsquare.com/previews/dont-sleep-on-fateextra-record-this-story-driven-ps5-rpg-shows-real-promise",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/previews/dont-sleep-on-fateextra-record-this-story-driven-ps5-rpg-shows-real-promise",
-          "titre": "Preview: Don't Sleep on Fate/Extra Record - This Story-Driven PS5 RPG Shows Real Promise"
-        }
-      ]
-    },
-    {
-      "id": "the-last-of-us-game-director-apologizes-for-god-of-war-laufe",
-      "titre": "The Last of Us game director apologizes for God of War Laufey criticism, points finger at industry leaders for triple-A stagnation",
-      "url": "https://www.pcgamer.com/gaming-industry/the-last-of-us-game-director-apologizes-for-god-of-war-laufey-criticism-points-finger-at-industry-leaders-for-triple-a-stagnation/",
-      "sources": [
-        "PC Gamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 12.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/the-last-of-us-game-director-apologizes-for-god-of-war-laufey-criticism-points-finger-at-industry-leaders-for-triple-a-stagnation/",
-          "titre": "The Last of Us game director apologizes for God of War Laufey criticism, points finger at industry leaders for triple-A stagnation"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-game-director-apologises-for-dragging-god-of-war-laufey-into-boring-aaa-game-discussion",
-          "titre": "The Last of Us Game Director Apologises for Dragging God of War Laufey into 'Boring' AAA Game Discussion"
         }
       ]
     },
@@ -582,7 +588,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 14.6,
+      "heures": 16.7,
       "chaleur": 6,
       "liens": [
         {
@@ -605,7 +611,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 18.0,
       "chaleur": 6,
       "liens": [
         {
@@ -623,7 +629,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.4,
       "chaleur": 6,
       "liens": [
         {
@@ -641,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.3,
+      "heures": 20.4,
       "chaleur": 6,
       "liens": [
         {
@@ -659,7 +665,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.5,
       "chaleur": 6,
       "liens": [
         {
@@ -677,7 +683,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.5,
       "chaleur": 6,
       "liens": [
         {
@@ -695,7 +701,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 23.9,
+      "heures": 26.0,
       "chaleur": 6,
       "liens": [
         {
@@ -713,13 +719,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.2,
+      "heures": 27.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/japan-game-development-layoffs-exec-money",
           "titre": "Why do Japanese studios suffer fewer layoffs? Because they have smaller teams and don't pay their execs $30m, says one expert"
+        }
+      ]
+    },
+    {
+      "id": "preview-don-t-sleep-on-fate-extra-record-this-story-driven-p",
+      "titre": "Preview: Don't Sleep on Fate/Extra Record - This Story-Driven PS5 RPG Shows Real Promise",
+      "url": "https://www.pushsquare.com/previews/dont-sleep-on-fateextra-record-this-story-driven-ps5-rpg-shows-real-promise",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 12.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/previews/dont-sleep-on-fateextra-record-this-story-driven-ps5-rpg-shows-real-promise",
+          "titre": "Preview: Don't Sleep on Fate/Extra Record - This Story-Driven PS5 RPG Shows Real Promise"
         }
       ]
     },
@@ -731,7 +755,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.4,
       "chaleur": 5,
       "liens": [
         {
@@ -749,7 +773,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 20.3,
       "chaleur": 5,
       "liens": [
         {
@@ -767,7 +791,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.8,
+      "heures": 20.9,
       "chaleur": 5,
       "liens": [
         {
@@ -785,7 +809,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 24.4,
       "chaleur": 5,
       "liens": [
         {
@@ -803,7 +827,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.3,
+      "heures": 26.4,
       "chaleur": 5,
       "liens": [
         {
@@ -821,13 +845,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.1,
+      "heures": 27.1,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/random-fire-emblem-fortunes-weave-switch-2-physical-hides-a-neat-nod-to-three-houses",
           "titre": "Random: Fire Emblem: Fortune's Weave Switch 2 Physical Hides A Neat Nod To Three Houses"
+        }
+      ]
+    },
+    {
+      "id": "what-we-ve-been-playing-the-rest-of-the-party-is-frankly-abs",
+      "titre": "What we've been playing - \"the rest of the party is, frankly, absolutely feral, so I've been trying to balance that out\"",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-the-rest-of-the-party-is-absolutely-feral",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/what-weve-been-playing-the-rest-of-the-party-is-absolutely-feral",
+          "titre": "What we've been playing - \"the rest of the party is, frankly, absolutely feral, so I've been trying to balance that out\""
         }
       ]
     },
@@ -839,8 +881,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -857,7 +899,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.3,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +917,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 14.8,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +935,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -911,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.7,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +971,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -947,7 +989,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 19.7,
       "chaleur": 3,
       "liens": [
         {
@@ -965,7 +1007,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
@@ -983,7 +1025,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 18.3,
+      "heures": 20.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +1043,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 20.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,7 +1061,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 19.1,
+      "heures": 21.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1037,7 +1079,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1055,7 +1097,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1073,7 +1115,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1091,7 +1133,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 19.7,
+      "heures": 21.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1109,49 +1151,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 22.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/card-games/slay-the-spire-2-opinions/",
           "titre": "After 894 hours in Slay the Spire 2, these are our 12 strongest opinions"
-        }
-      ]
-    },
-    {
-      "id": "denuvo-are-suing-a-prolific-cracker-for-bypassing-their-drm",
-      "titre": "Denuvo are suing a prolific cracker for bypassing their DRM on 26 videogames, despite not knowing their real identity",
-      "url": "https://www.rockpapershotgun.com/denuvo-are-suing-a-prolific-cracker-for-bypassing-their-drm-on-26-videogames-despite-not-knowing-their-real-identity",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 20.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/denuvo-are-suing-a-prolific-cracker-for-bypassing-their-drm-on-26-videogames-despite-not-knowing-their-real-identity",
-          "titre": "Denuvo are suing a prolific cracker for bypassing their DRM on 26 videogames, despite not knowing their real identity"
-        }
-      ]
-    },
-    {
-      "id": "gears-of-war-e-day-system-requirements-require-ray-tracing-c",
-      "titre": "Gears of War: E-Day system requirements require ray tracing-capable graphics card to play, alongside 115 GB of free space on an SSD",
-      "url": "https://www.pcgamer.com/games/action/gears-of-war-e-day-system-requirements-require-ray-tracing-capable-graphics-card-to-play-alongside-115-gb-of-free-space-on-an-ssd/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/gears-of-war-e-day-system-requirements-require-ray-tracing-capable-graphics-card-to-play-alongside-115-gb-of-free-space-on-an-ssd/",
-          "titre": "Gears of War: E-Day system requirements require ray tracing-capable graphics card to play, alongside 115 GB of free space on an SSD"
         }
       ]
     }
