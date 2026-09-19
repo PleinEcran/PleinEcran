@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "19/09/2026 à 04h19",
+  "collecte": "19/09/2026 à 06h23",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 12.1,
+      "heures": 14.1,
       "chaleur": 12,
       "liens": [
         {
@@ -49,7 +49,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 6.4,
+      "heures": 8.5,
       "chaleur": 10,
       "liens": [
         {
@@ -70,6 +70,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "fire-emblem-fortune-s-weave-is-getting-a-manga-series-here-s",
+      "titre": "Fire Emblem: Fortune's Weave Is Getting A Manga Series, Here's The Key Art",
+      "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-is-getting-a-manga-series-heres-the-key-art",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-is-getting-a-manga-series-heres-the-key-art",
+          "titre": "Fire Emblem: Fortune's Weave Is Getting A Manga Series, Here's The Key Art"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-wonder-leaves-location-for-elegant-drink-recipes-quest/",
+          "titre": "Fire Emblem Fortune’s Weave: Wonder Leaves location for Elegant Drink Recipes quest"
+        }
+      ]
+    },
+    {
       "id": "players-got-better-than-we-expected-monster-hunter-wilds-dl",
       "titre": "'Players got better than we expected': Monster Hunter Wilds DLC director says Capcom is retuning its difficulty standards for the expansion's endgame",
       "url": "https://www.pcgamer.com/games/action/players-got-better-than-we-expected-monster-hunter-wilds-dlc-director-says-capcom-is-retuning-its-difficulty-standards-for-the-expansions-endgame/",
@@ -78,7 +102,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 9,
       "liens": [
         {
@@ -94,24 +118,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "new-200gb-gta-5-leak-suggests-rockstar-games-scrapped-a-mass",
-      "titre": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work",
-      "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
-          "titre": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work"
-        }
-      ]
-    },
-    {
       "id": "king-workers-call-strike-after-collective-agreement-negotiat",
       "titre": "King workers call strike after collective agreement negotiations stall",
       "url": "https://www.gamedeveloper.com/production/king-workers-call-strike-after-collective-agreement-negotiations-stall",
@@ -120,7 +126,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 16.3,
+      "heures": 18.3,
       "chaleur": 9,
       "liens": [
         {
@@ -144,7 +150,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 17.0,
+      "heures": 19.1,
       "chaleur": 9,
       "liens": [
         {
@@ -167,7 +173,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.9,
       "chaleur": 8,
       "liens": [
         {
@@ -178,38 +184,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "dragon-s-dogma-2-on-switch-2-uses-frame-generation",
-      "titre": "Dragon's Dogma 2 On Switch 2 Uses Frame Generation",
-      "url": "https://www.nintendolife.com/news/2026/09/dragons-dogma-2-on-switch-2-uses-frame-generation",
+      "id": "new-200gb-gta-5-leak-suggests-rockstar-games-scrapped-a-mass",
+      "titre": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work",
+      "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.6,
+      "heures": 12.1,
       "chaleur": 8,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/dragons-dogma-2-on-switch-2-uses-frame-generation",
-          "titre": "Dragon's Dogma 2 On Switch 2 Uses Frame Generation"
-        }
-      ]
-    },
-    {
-      "id": "the-elder-scrolls-iv-oblivion-remastered-switch-2-update-1-1",
-      "titre": "The Elder Scrolls IV: Oblivion Remastered Switch 2 Update 1.1 Now Live, Here Are The Full Patch Notes",
-      "url": "https://www.nintendolife.com/news/2026/09/the-elder-scrolls-iv-oblivion-remastered-switch-2-update-1-1-now-live-here-are-the-full-patch-notes",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/the-elder-scrolls-iv-oblivion-remastered-switch-2-update-1-1-now-live-here-are-the-full-patch-notes",
-          "titre": "The Elder Scrolls IV: Oblivion Remastered Switch 2 Update 1.1 Now Live, Here Are The Full Patch Notes"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
+          "titre": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work"
         }
       ]
     },
@@ -222,7 +210,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 6.0,
+      "heures": 8.1,
       "chaleur": 7,
       "liens": [
         {
@@ -246,7 +234,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 8.6,
+      "heures": 10.7,
       "chaleur": 7,
       "liens": [
         {
@@ -258,42 +246,6 @@ const VEILLE = {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/former-sony-suits-recreate-infamous-ps4-game-sharing-skit-only-without-the-disc",
           "titre": "Former Sony Suits Recreate Infamous PS4 Game Sharing Skit, Only without the Disc"
-        }
-      ]
-    },
-    {
-      "id": "the-pc-platform-is-becoming-more-and-more-important-take-tw",
-      "titre": "'The PC platform is becoming more and more important,' Take-Two chief says, as we continue to wonder when we're going to get GTA 6",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-pc-platform-is-becoming-more-and-more-important-take-two-chief-says-as-we-continue-to-wonder-when-were-going-to-get-gta-6/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/the-pc-platform-is-becoming-more-and-more-important-take-two-chief-says-as-we-continue-to-wonder-when-were-going-to-get-gta-6/",
-          "titre": "'The PC platform is becoming more and more important,' Take-Two chief says, as we continue to wonder when we're going to get GTA 6"
-        }
-      ]
-    },
-    {
-      "id": "i-have-modded-the-most-exciting-thing-possible-into-gta-5-ha",
-      "titre": "I have modded the most exciting thing possible into GTA 5: Hard and soft credit checks and realistic personal finance",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-modded-the-most-exciting-thing-possible-into-gta-5-hard-and-soft-credit-checks-and-realistic-personal-finance/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-modded-the-most-exciting-thing-possible-into-gta-5-hard-and-soft-credit-checks-and-realistic-personal-finance/",
-          "titre": "I have modded the most exciting thing possible into GTA 5: Hard and soft credit checks and realistic personal finance"
         }
       ]
     },
@@ -496,6 +448,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "pax-east",
+      "titre": "PAX East",
+      "url": "https://www.gamedeveloper.com/series/pax-east",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/series/pax-east",
+          "titre": "PAX East"
+        }
+      ]
+    },
+    {
+      "id": "dragon-s-dogma-2-on-switch-2-uses-frame-generation",
+      "titre": "Dragon's Dogma 2 On Switch 2 Uses Frame Generation",
+      "url": "https://www.nintendolife.com/news/2026/09/dragons-dogma-2-on-switch-2-uses-frame-generation",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/dragons-dogma-2-on-switch-2-uses-frame-generation",
+          "titre": "Dragon's Dogma 2 On Switch 2 Uses Frame Generation"
+        }
+      ]
+    },
+    {
+      "id": "the-elder-scrolls-iv-oblivion-remastered-switch-2-update-1-1",
+      "titre": "The Elder Scrolls IV: Oblivion Remastered Switch 2 Update 1.1 Now Live, Here Are The Full Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/09/the-elder-scrolls-iv-oblivion-remastered-switch-2-update-1-1-now-live-here-are-the-full-patch-notes",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/the-elder-scrolls-iv-oblivion-remastered-switch-2-update-1-1-now-live-here-are-the-full-patch-notes",
+          "titre": "The Elder Scrolls IV: Oblivion Remastered Switch 2 Update 1.1 Now Live, Here Are The Full Patch Notes"
+        }
+      ]
+    },
+    {
       "id": "preview-don-t-sleep-on-fate-extra-record-this-story-driven-p",
       "titre": "Preview: Don't Sleep on Fate/Extra Record - This Story-Driven PS5 RPG Shows Real Promise",
       "url": "https://www.pushsquare.com/previews/dont-sleep-on-fateextra-record-this-story-driven-ps5-rpg-shows-real-promise",
@@ -503,7 +509,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.4,
       "chaleur": 6,
       "liens": [
         {
@@ -514,20 +520,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "review-hautepad-c-as-arcade-stick-for-switch-1-2-unique-eye",
-      "titre": "Review: Hautepad C-AS Arcade Stick For Switch 1 & 2 - Unique & Eye-Catching, But Improvements Are Needed",
-      "url": "https://www.nintendolife.com/reviews/hautepad-c-as-arcade-stick-for-switch-1-and-2-unique-and-eye-catching-but-improvements-are-needed",
+      "id": "the-pc-platform-is-becoming-more-and-more-important-take-tw",
+      "titre": "'The PC platform is becoming more and more important,' Take-Two chief says, as we continue to wonder when we're going to get GTA 6",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-pc-platform-is-becoming-more-and-more-important-take-two-chief-says-as-we-continue-to-wonder-when-were-going-to-get-gta-6/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
+      "heures": 12.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/hautepad-c-as-arcade-stick-for-switch-1-and-2-unique-and-eye-catching-but-improvements-are-needed",
-          "titre": "Review: Hautepad C-AS Arcade Stick For Switch 1 & 2 - Unique & Eye-Catching, But Improvements Are Needed"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/the-pc-platform-is-becoming-more-and-more-important-take-two-chief-says-as-we-continue-to-wonder-when-were-going-to-get-gta-6/",
+          "titre": "'The PC platform is becoming more and more important,' Take-Two chief says, as we continue to wonder when we're going to get GTA 6"
+        }
+      ]
+    },
+    {
+      "id": "i-have-modded-the-most-exciting-thing-possible-into-gta-5-ha",
+      "titre": "I have modded the most exciting thing possible into GTA 5: Hard and soft credit checks and realistic personal finance",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-modded-the-most-exciting-thing-possible-into-gta-5-hard-and-soft-credit-checks-and-realistic-personal-finance/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 13.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-modded-the-most-exciting-thing-possible-into-gta-5-hard-and-soft-credit-checks-and-realistic-personal-finance/",
+          "titre": "I have modded the most exciting thing possible into GTA 5: Hard and soft credit checks and realistic personal finance"
         }
       ]
     },
@@ -539,7 +563,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.4,
       "chaleur": 6,
       "liens": [
         {
@@ -557,7 +581,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.5,
       "chaleur": 6,
       "liens": [
         {
@@ -575,7 +599,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.5,
       "chaleur": 6,
       "liens": [
         {
@@ -593,7 +617,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 20.0,
       "chaleur": 6,
       "liens": [
         {
@@ -611,7 +635,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.2,
+      "heures": 21.3,
       "chaleur": 6,
       "liens": [
         {
@@ -629,7 +653,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 24.9,
       "chaleur": 6,
       "liens": [
         {
@@ -640,20 +664,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "take-two-ceo-strauss-zelnick-says-gta-vi-needs-to-be-markete",
-      "titre": "Take-Two CEO Strauss Zelnick says GTA VI needs to be 'marketed aggressively' despite global brand awareness",
-      "url": "https://www.gamedeveloper.com/marketing/strauss-zelnick-says-gta-vi-needs-to-be-marketed-aggressively-despite-global-brand-awareness",
+      "id": "review-hautepad-c-as-arcade-stick-for-switch-1-2-unique-eye",
+      "titre": "Review: Hautepad C-AS Arcade Stick For Switch 1 & 2 - Unique & Eye-Catching, But Improvements Are Needed",
+      "url": "https://www.nintendolife.com/reviews/hautepad-c-as-arcade-stick-for-switch-1-and-2-unique-and-eye-catching-but-improvements-are-needed",
       "sources": [
-        "Game Developer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 34.5,
-      "chaleur": 6,
+      "heures": 12.4,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/marketing/strauss-zelnick-says-gta-vi-needs-to-be-marketed-aggressively-despite-global-brand-awareness",
-          "titre": "Take-Two CEO Strauss Zelnick says GTA VI needs to be 'marketed aggressively' despite global brand awareness"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/hautepad-c-as-arcade-stick-for-switch-1-and-2-unique-and-eye-catching-but-improvements-are-needed",
+          "titre": "Review: Hautepad C-AS Arcade Stick For Switch 1 & 2 - Unique & Eye-Catching, But Improvements Are Needed"
         }
       ]
     },
@@ -665,7 +689,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.3,
       "chaleur": 5,
       "liens": [
         {
@@ -683,7 +707,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.9,
       "chaleur": 5,
       "liens": [
         {
@@ -701,7 +725,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.4,
       "chaleur": 5,
       "liens": [
         {
@@ -719,7 +743,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.3,
+      "heures": 20.4,
       "chaleur": 5,
       "liens": [
         {
@@ -737,7 +761,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.1,
+      "heures": 21.1,
       "chaleur": 5,
       "liens": [
         {
@@ -755,7 +779,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -773,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -791,7 +815,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -809,7 +833,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -827,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
@@ -845,8 +869,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -863,31 +887,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/in-the-absence-of-a-new-deus-ex-indie-imsim-tokyo-walled-city-may-scratch-that-stealth-n-stolen-passwords-itch",
           "titre": "In the absence of a new Deus Ex, indie imsim Tokyo Walled City may scratch that stealth 'n' stolen passwords itch"
-        }
-      ]
-    },
-    {
-      "id": "fire-emblem-fortune-s-weave-wonder-leaves-location-for-elega",
-      "titre": "Fire Emblem Fortune’s Weave: Wonder Leaves location for Elegant Drink Recipes quest",
-      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-wonder-leaves-location-for-elegant-drink-recipes-quest/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 12.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-wonder-leaves-location-for-elegant-drink-recipes-quest/",
-          "titre": "Fire Emblem Fortune’s Weave: Wonder Leaves location for Elegant Drink Recipes quest"
         }
       ]
     },
@@ -899,7 +905,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.3,
       "chaleur": 3,
       "liens": [
         {
@@ -917,7 +923,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -935,7 +941,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.7,
       "chaleur": 3,
       "liens": [
         {
@@ -953,7 +959,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 15.1,
       "chaleur": 3,
       "liens": [
         {
@@ -971,7 +977,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -989,7 +995,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +1013,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,7 +1031,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 15.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,7 +1049,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 16.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,7 +1067,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1079,7 +1085,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1097,7 +1103,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1115,7 +1121,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1133,7 +1139,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
