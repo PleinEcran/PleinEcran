@@ -1,8 +1,32 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "19/09/2026 à 14h18",
+  "collecte": "19/09/2026 à 16h19",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "preview-ascendance-has-me-hyped-to-obsess-over-monster-hunte",
+      "titre": "Preview: Ascendance Has Me Hyped to Obsess Over Monster Hunter Wilds Again",
+      "url": "https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 2.3,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again",
+          "titre": "Preview: Ascendance Has Me Hyped to Obsess Over Monster Hunter Wilds Again"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-wilds-switch-2-performance-and-resolution-confirmed",
+          "titre": "Monster Hunter Wilds Switch 2 Performance And Resolution Confirmed"
+        }
+      ]
+    },
     {
       "id": "the-last-of-us-director-apologises-to-god-of-war-laufey-team",
       "titre": "The Last of Us director apologises to God of War Laufey team for citing it while saying AAA experiences are ‘boring’",
@@ -13,8 +37,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 3.0,
-      "chaleur": 12,
+      "heures": 5.1,
+      "chaleur": 10,
       "liens": [
         {
           "source": "VGC",
@@ -34,66 +58,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "control-resonant-critical-consensus",
-      "titre": "Control Resonant | Critical Consensus",
-      "url": "https://www.gamesindustry.biz/control-resonant-critical-consensus",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz",
-        "PC Gamer",
-        "VGC"
-      ],
-      "reprises": 4,
-      "heures": 22.1,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/control-resonant-critical-consensus",
-          "titre": "Control Resonant | Critical Consensus"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/control-resonant-is-one-of-the-best-looking-games-at-low-graphics-settings-ive-ever-seen/",
-          "titre": "Control Resonant is one of the best-looking games at low graphics settings I've ever seen"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/review/control-resonant/",
-          "titre": "Control Resonant review: Remedy gambles on a genre change in one of its most impressive games ever"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/control-resonant-review",
-          "titre": "Control Resonant review"
-        }
-      ]
-    },
-    {
-      "id": "preview-ascendance-has-me-hyped-to-obsess-over-monster-hunte",
-      "titre": "Preview: Ascendance Has Me Hyped to Obsess Over Monster Hunter Wilds Again",
-      "url": "https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 0.3,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again",
-          "titre": "Preview: Ascendance Has Me Hyped to Obsess Over Monster Hunter Wilds Again"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-wilds-switch-2-performance-and-resolution-confirmed",
-          "titre": "Monster Hunter Wilds Switch 2 Performance And Resolution Confirmed"
-        }
-      ]
-    },
-    {
       "id": "talking-point-what-are-you-playing-this-weekend-19th-septemb",
       "titre": "Talking Point: What Are You Playing This Weekend? (19th September)",
       "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-19th-september",
@@ -103,7 +67,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 10,
       "liens": [
         {
@@ -133,7 +97,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 9,
       "liens": [
         {
@@ -154,6 +118,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "control-resonant-critical-consensus",
+      "titre": "Control Resonant | Critical Consensus",
+      "url": "https://www.gamesindustry.biz/control-resonant-critical-consensus",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 24.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/control-resonant-critical-consensus",
+          "titre": "Control Resonant | Critical Consensus"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/review/control-resonant/",
+          "titre": "Control Resonant review: Remedy gambles on a genre change in one of its most impressive games ever"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/control-resonant-review",
+          "titre": "Control Resonant review"
+        }
+      ]
+    },
+    {
       "id": "king-workers-call-strike-after-collective-agreement-negotiat",
       "titre": "King workers call strike after collective agreement negotiations stall",
       "url": "https://www.gamedeveloper.com/production/king-workers-call-strike-after-collective-agreement-negotiations-stall",
@@ -162,7 +156,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 26.3,
+      "heures": 28.3,
       "chaleur": 9,
       "liens": [
         {
@@ -186,7 +180,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 27.0,
+      "heures": 29.0,
       "chaleur": 9,
       "liens": [
         {
@@ -202,6 +196,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "round-up-the-switch-2-games-we-played-at-tgs-from-2026-s-sho",
+      "titre": "Round Up: The Switch 2 Games We Played At TGS From 2026's Shoo-In 'Publisher Of The Year'",
+      "url": "https://www.nintendolife.com/previews/round-up-the-switch-2-games-we-played-at-tgs-from-2026s-shoo-in-publisher-of-the-year",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/previews/round-up-the-switch-2-games-we-played-at-tgs-from-2026s-shoo-in-publisher-of-the-year",
+          "titre": "Round Up: The Switch 2 Games We Played At TGS From 2026's Shoo-In 'Publisher Of The Year'"
+        }
+      ]
+    },
+    {
+      "id": "countdown-zelda-ocarina-of-time-dungeon-crawl-1-a-tree-mendo",
+      "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #1 - A Tree-mendous Introduction",
+      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-1-a-tree-mendous-introduction",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-1-a-tree-mendous-introduction",
+          "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #1 - A Tree-mendous Introduction"
+        }
+      ]
+    },
+    {
       "id": "new-200gb-gta-5-leak-suggests-rockstar-games-scrapped-a-mass",
       "titre": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work",
       "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
@@ -209,7 +239,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 22.0,
       "chaleur": 8,
       "liens": [
         {
@@ -228,7 +258,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.8,
+      "heures": 11.8,
       "chaleur": 7,
       "liens": [
         {
@@ -460,6 +490,78 @@ const VEILLE = {
       ]
     },
     {
+      "id": "the-largest-theft-of-labor-in-human-history-court-docs-reve",
+      "titre": "'The largest theft of labor in human history:' Court docs reveal Microsoft exec predicted AI 'doom loops' could hollow out the internet",
+      "url": "https://www.pcgamer.com/software/ai/the-largest-theft-of-labor-in-human-history-court-docs-reveal-microsoft-exec-predicted-ai-doom-loops-could-hollow-out-the-internet/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/the-largest-theft-of-labor-in-human-history-court-docs-reveal-microsoft-exec-predicted-ai-doom-loops-could-hollow-out-the-internet/",
+          "titre": "'The largest theft of labor in human history:' Court docs reveal Microsoft exec predicted AI 'doom loops' could hollow out the internet"
+        }
+      ]
+    },
+    {
+      "id": "wolverine-ps5-tones-down-fart-trails-as-title-tipped-to-be-a",
+      "titre": "Wolverine PS5 Tones Down 'Fart Trails' as Title Tipped to Be a Huge Sales Success",
+      "url": "https://www.pushsquare.com/news/2026/09/wolverine-ps5-tones-down-fart-trails-as-title-tipped-to-be-a-huge-sales-success",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/wolverine-ps5-tones-down-fart-trails-as-title-tipped-to-be-a-huge-sales-success",
+          "titre": "Wolverine PS5 Tones Down 'Fart Trails' as Title Tipped to Be a Huge Sales Success"
+        }
+      ]
+    },
+    {
+      "id": "i-played-the-adventure-game-so-scandalous-that-it-was-physic",
+      "titre": "I played the adventure game so scandalous that it was physically destroyed by UK customs",
+      "url": "https://www.pcgamer.com/games/adventure/i-played-the-adventure-game-so-scandalous-that-it-was-physically-destroyed-by-uk-customs/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/adventure/i-played-the-adventure-game-so-scandalous-that-it-was-physically-destroyed-by-uk-customs/",
+          "titre": "I played the adventure game so scandalous that it was physically destroyed by UK customs"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-s-convinced-me-that-we-lost-too-mu",
+      "titre": "World of Warcraft: Forever's convinced me that we lost too much to modern MMO quest design",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-convinced-me-that-we-lost-too-much-to-modern-mmo-quest-design/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-convinced-me-that-we-lost-too-much-to-modern-mmo-quest-design/",
+          "titre": "World of Warcraft: Forever's convinced me that we lost too much to modern MMO quest design"
+        }
+      ]
+    },
+    {
       "id": "it-rules-that-a-27-year-old-rpg-one-of-the-greatest-of-all-t",
       "titre": "It rules that a 27-year-old RPG, one of the greatest of all time, is still getting patches",
       "url": "https://www.pcgamer.com/games/rpg/it-rules-that-a-27-year-old-rpg-one-of-the-greatest-of-all-time-is-still-getting-patches/",
@@ -467,7 +569,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -485,49 +587,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/sim/this-unofficial-engine-patch-for-thief-the-dark-project-adds-a-huge-new-feature-that-wont-be-in-nightdives-upcoming-remaster/",
           "titre": "This unofficial engine patch for Thief: The Dark Project adds a huge new feature that won't be in Nightdive's upcoming remaster"
-        }
-      ]
-    },
-    {
-      "id": "cd-projekt-says-abandoning-its-in-house-engine-for-the-witch",
-      "titre": "CD Projekt says abandoning its in-house engine for The Witcher 4 had nothing to do with Cyberpunk 2077's technical woes: 'The dream of the company was actually never to make technology'",
-      "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-says-abandoning-its-in-house-engine-for-the-witcher-4-had-nothing-to-do-with-cyberpunk-2077s-technical-woes-the-dream-of-the-company-was-actually-never-to-make-technology/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-says-abandoning-its-in-house-engine-for-the-witcher-4-had-nothing-to-do-with-cyberpunk-2077s-technical-woes-the-dream-of-the-company-was-actually-never-to-make-technology/",
-          "titre": "CD Projekt says abandoning its in-house engine for The Witcher 4 had nothing to do with Cyberpunk 2077's technical woes: 'The dream of the company was actually never to make technology'"
-        }
-      ]
-    },
-    {
-      "id": "guide-these-26-ps5-and-ps-plus-games-are-coming-out-next-wee",
-      "titre": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (21st - 27th September)",
-      "url": "https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-21st-27th-september",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-21st-27th-september",
-          "titre": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (21st - 27th September)"
         }
       ]
     },
@@ -539,31 +605,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
           "titre": "Monster Hunter World Probably Won't Be Coming To Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-appears-to-have-updated-the-super-mario-logo",
-      "titre": "Nintendo Appears To Have Updated The Super Mario Logo",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-appears-to-have-updated-the-super-mario-logo",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendo-appears-to-have-updated-the-super-mario-logo",
-          "titre": "Nintendo Appears To Have Updated The Super Mario Logo"
         }
       ]
     },
@@ -576,7 +624,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 18.6,
+      "heures": 20.6,
       "chaleur": 6,
       "liens": [
         {
@@ -599,31 +647,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 22.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/the-pc-platform-is-becoming-more-and-more-important-take-two-chief-says-as-we-continue-to-wonder-when-were-going-to-get-gta-6/",
           "titre": "'The PC platform is becoming more and more important,' Take-Two chief says, as we continue to wonder when we're going to get GTA 6"
-        }
-      ]
-    },
-    {
-      "id": "i-have-modded-the-most-exciting-thing-possible-into-gta-5-ha",
-      "titre": "I have modded the most exciting thing possible into GTA 5: Hard and soft credit checks and realistic personal finance",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-modded-the-most-exciting-thing-possible-into-gta-5-hard-and-soft-credit-checks-and-realistic-personal-finance/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-modded-the-most-exciting-thing-possible-into-gta-5-hard-and-soft-credit-checks-and-realistic-personal-finance/",
-          "titre": "I have modded the most exciting thing possible into GTA 5: Hard and soft credit checks and realistic personal finance"
         }
       ]
     },
@@ -635,7 +665,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 24.3,
       "chaleur": 6,
       "liens": [
         {
@@ -653,7 +683,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.5,
       "chaleur": 6,
       "liens": [
         {
@@ -671,7 +701,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.4,
+      "heures": 28.4,
       "chaleur": 6,
       "liens": [
         {
@@ -689,7 +719,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 27.9,
+      "heures": 29.9,
       "chaleur": 6,
       "liens": [
         {
@@ -707,13 +737,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.2,
+      "heures": 31.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/japan-game-development-layoffs-exec-money",
           "titre": "Why do Japanese studios suffer fewer layoffs? Because they have smaller teams and don't pay their execs $30m, says one expert"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-appears-to-have-updated-the-super-mario-logo",
+      "titre": "Nintendo Appears To Have Updated The Super Mario Logo",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-appears-to-have-updated-the-super-mario-logo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.8,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nintendo-appears-to-have-updated-the-super-mario-logo",
+          "titre": "Nintendo Appears To Have Updated The Super Mario Logo"
         }
       ]
     },
@@ -725,7 +773,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.6,
       "chaleur": 5,
       "liens": [
         {
@@ -743,7 +791,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.6,
       "chaleur": 5,
       "liens": [
         {
@@ -761,7 +809,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.3,
       "chaleur": 5,
       "liens": [
         {
@@ -779,7 +827,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 22.3,
       "chaleur": 5,
       "liens": [
         {
@@ -797,7 +845,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.2,
+      "heures": 24.3,
       "chaleur": 5,
       "liens": [
         {
@@ -815,7 +863,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 24.8,
       "chaleur": 5,
       "liens": [
         {
@@ -833,7 +881,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.3,
+      "heures": 28.3,
       "chaleur": 5,
       "liens": [
         {
@@ -844,38 +892,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "japanese-console-market-would-have-been-eliminated-if-switch",
-      "titre": "Japanese Console Market Would Have Been \"Eliminated\" If Switch Failed, Says Analyst",
-      "url": "https://www.nintendolife.com/news/2026/09/japanese-console-market-would-have-been-eliminated-if-switch-failed-says-analyst",
+      "id": "cd-projekt-says-abandoning-its-in-house-engine-for-the-witch",
+      "titre": "CD Projekt says abandoning its in-house engine for The Witcher 4 had nothing to do with Cyberpunk 2077's technical woes: 'The dream of the company was actually never to make technology'",
+      "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-says-abandoning-its-in-house-engine-for-the-witcher-4-had-nothing-to-do-with-cyberpunk-2077s-technical-woes-the-dream-of-the-company-was-actually-never-to-make-technology/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 28.3,
-      "chaleur": 5,
+      "heures": 5.0,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/japanese-console-market-would-have-been-eliminated-if-switch-failed-says-analyst",
-          "titre": "Japanese Console Market Would Have Been \"Eliminated\" If Switch Failed, Says Analyst"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-says-abandoning-its-in-house-engine-for-the-witcher-4-had-nothing-to-do-with-cyberpunk-2077s-technical-woes-the-dream-of-the-company-was-actually-never-to-make-technology/",
+          "titre": "CD Projekt says abandoning its in-house engine for The Witcher 4 had nothing to do with Cyberpunk 2077's technical woes: 'The dream of the company was actually never to make technology'"
         }
       ]
     },
     {
-      "id": "random-fire-emblem-fortune-s-weave-switch-2-physical-hides-a",
-      "titre": "Random: Fire Emblem: Fortune's Weave Switch 2 Physical Hides A Neat Nod To Three Houses",
-      "url": "https://www.nintendolife.com/news/2026/09/random-fire-emblem-fortunes-weave-switch-2-physical-hides-a-neat-nod-to-three-houses",
+      "id": "guide-these-26-ps5-and-ps-plus-games-are-coming-out-next-wee",
+      "titre": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (21st - 27th September)",
+      "url": "https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-21st-27th-september",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.1,
-      "chaleur": 5,
+      "heures": 5.3,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/random-fire-emblem-fortunes-weave-switch-2-physical-hides-a-neat-nod-to-three-houses",
-          "titre": "Random: Fire Emblem: Fortune's Weave Switch 2 Physical Hides A Neat Nod To Three Houses"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-21st-27th-september",
+          "titre": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (21st - 27th September)"
         }
       ]
     },
@@ -887,7 +935,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +953,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +971,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +989,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -959,7 +1007,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.3,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +1025,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.7,
+      "heures": 18.7,
       "chaleur": 3,
       "liens": [
         {
@@ -995,7 +1043,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1013,7 +1061,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 20.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +1079,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,31 +1097,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.6,
+      "heures": 23.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/in-the-absence-of-a-new-deus-ex-indie-imsim-tokyo-walled-city-may-scratch-that-stealth-n-stolen-passwords-itch",
           "titre": "In the absence of a new Deus Ex, indie imsim Tokyo Walled City may scratch that stealth 'n' stolen passwords itch"
-        }
-      ]
-    },
-    {
-      "id": "i-just-learned-there-s-a-camera-that-proves-its-photos-are-t",
-      "titre": "I just learned there's a camera that proves its photos are taken by a human, and Noctua makes the fan inside it",
-      "url": "https://www.pcgamer.com/hardware/i-just-learned-theres-a-camera-that-proves-its-photos-are-taken-by-a-human-and-noctua-makes-the-fan-inside-it/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 22.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/i-just-learned-theres-a-camera-that-proves-its-photos-are-taken-by-a-human-and-noctua-makes-the-fan-inside-it/",
-          "titre": "I just learned there's a camera that proves its photos are taken by a human, and Noctua makes the fan inside it"
         }
       ]
     },
@@ -1085,7 +1115,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 24.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1103,7 +1133,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 22.6,
+      "heures": 24.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1121,49 +1151,13 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 23.1,
+      "heures": 25.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
           "titre": "MiHoYo awarded $112,000 by Chinese court after AI voice service dupes Genshin Impact characters"
-        }
-      ]
-    },
-    {
-      "id": "roman-sands-re-build-review-a-unique-and-obliterating-blend",
-      "titre": "Roman Sands RE:Build review: A unique and obliterating blend of resort sim, engineering horror and alchemic ritual",
-      "url": "https://www.rockpapershotgun.com/roman-sands-rebuild-review",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 23.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/roman-sands-rebuild-review",
-          "titre": "Roman Sands RE:Build review: A unique and obliterating blend of resort sim, engineering horror and alchemic ritual"
-        }
-      ]
-    },
-    {
-      "id": "level-5-is-really-starting-to-panic-amidst-increasing-ai-bac",
-      "titre": "Level-5 Is Really Starting To Panic Amidst Increasing AI Backlash",
-      "url": "https://www.nintendolife.com/news/2026/09/level-5-is-really-starting-to-panic-amidst-increasing-ai-backlash",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 23.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/level-5-is-really-starting-to-panic-amidst-increasing-ai-backlash",
-          "titre": "Level-5 Is Really Starting To Panic Amidst Increasing AI Backlash"
         }
       ]
     }
