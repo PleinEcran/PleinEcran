@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "20/09/2026 à 08h20",
+  "collecte": "20/09/2026 à 10h19",
   "seuil": 14,
   "sujets": [
     {
@@ -13,7 +13,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 23.3,
+      "heures": 25.3,
       "chaleur": 9,
       "liens": [
         {
@@ -41,7 +41,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.2,
       "chaleur": 8,
       "liens": [
         {
@@ -59,7 +59,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.8,
       "chaleur": 8,
       "liens": [
         {
@@ -304,6 +304,78 @@ const VEILLE = {
       ]
     },
     {
+      "id": "tokyo-walled-city-looks-set-to-fill-the-deus-ex-shaped-hole",
+      "titre": "Tokyo Walled City looks set to fill the Deus Ex-shaped hole in my life",
+      "url": "https://www.pcgamer.com/games/action/tokyo-walled-city-looks-set-to-fill-the-deus-ex-shaped-hole-in-my-life/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/tokyo-walled-city-looks-set-to-fill-the-deus-ex-shaped-hole-in-my-life/",
+          "titre": "Tokyo Walled City looks set to fill the Deus Ex-shaped hole in my life"
+        }
+      ]
+    },
+    {
+      "id": "wolverine-developer-insomniac-denies-using-generative-ai-aft",
+      "titre": "Wolverine developer Insomniac denies using generative AI after fans spot strange restroom sign",
+      "url": "https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign",
+          "titre": "Wolverine developer Insomniac denies using generative AI after fans spot strange restroom sign"
+        }
+      ]
+    },
+    {
+      "id": "the-sunday-papers",
+      "titre": "The Sunday Papers",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-828",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-sunday-papers-828",
+          "titre": "The Sunday Papers"
+        }
+      ]
+    },
+    {
+      "id": "feature-box-art-brawl-duel-cubivore-survival-of-the-fittest",
+      "titre": "Feature: Box Art Brawl - Duel: Cubivore: Survival Of The Fittest",
+      "url": "https://www.nintendolife.com/features/box-art-brawl-duel-cubivore-survival-of-the-fittest",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/box-art-brawl-duel-cubivore-survival-of-the-fittest",
+          "titre": "Feature: Box Art Brawl - Duel: Cubivore: Survival Of The Fittest"
+        }
+      ]
+    },
+    {
       "id": "konami-releasing-castlevania-belmont-s-curse-demo-next-month",
       "titre": "Konami Releasing Castlevania: Belmont's Curse Demo Next Month",
       "url": "https://www.nintendolife.com/news/2026/09/konami-releasing-castlevania-belmonts-curse-demo-next-month",
@@ -311,31 +383,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/konami-releasing-castlevania-belmonts-curse-demo-next-month",
           "titre": "Konami Releasing Castlevania: Belmont's Curse Demo Next Month"
-        }
-      ]
-    },
-    {
-      "id": "over-10-years-later-gabe-newell-s-advice-to-devs-still-holds",
-      "titre": "Over 10 years later, Gabe Newell's advice to devs still holds up",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/over-10-years-later-gabe-newells-advice-to-devs-still-holds-up/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/over-10-years-later-gabe-newells-advice-to-devs-still-holds-up/",
-          "titre": "Over 10 years later, Gabe Newell's advice to devs still holds up"
         }
       ]
     },
@@ -347,7 +401,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.5,
       "chaleur": 6,
       "liens": [
         {
@@ -365,37 +419,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 16.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/japanese-devs-arent-facing-the-same-layoff-crisis-because-their-executives-are-paid-an-order-of-magnitude-less-they-didnt-get-swept-up-in-the-live-service-trend-and-their-teams-are-smaller-says-industry-expert/",
           "titre": "Japanese devs aren't facing the same layoff crisis because their executives are paid an order of magnitude less, 'they didn’t get swept up in the live-service trend,' and their teams are smaller, says industry expert"
-        }
-      ]
-    },
-    {
-      "id": "the-last-of-us-director-apologises-to-god-of-war-laufey-team",
-      "titre": "The Last of Us director apologises to God of War Laufey team for citing it while saying AAA experiences are ‘boring’",
-      "url": "https://www.videogameschronicle.com/news/the-last-of-us-director-apologises-to-god-of-war-laufey-team-for-citing-it-while-saying-aaa-experiences-are-boring/",
-      "sources": [
-        "PC Gamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 21.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-last-of-us-director-apologises-to-god-of-war-laufey-team-for-citing-it-while-saying-aaa-experiences-are-boring/",
-          "titre": "The Last of Us director apologises to God of War Laufey team for citing it while saying AAA experiences are ‘boring’"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/the-last-of-us-game-director-apologizes-for-god-of-war-laufey-criticism-points-finger-at-industry-leaders-for-triple-a-stagnation/",
-          "titre": "The Last of Us game director apologizes for God of War Laufey criticism, points finger at industry leaders for triple-A stagnation"
         }
       ]
     },
@@ -407,7 +437,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.3,
       "chaleur": 5,
       "liens": [
         {
@@ -425,7 +455,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.3,
       "chaleur": 5,
       "liens": [
         {
@@ -443,7 +473,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.8,
+      "heures": 26.8,
       "chaleur": 5,
       "liens": [
         {
@@ -461,7 +491,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.8,
+      "heures": 30.8,
       "chaleur": 5,
       "liens": [
         {
@@ -479,7 +509,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.6,
+      "heures": 32.6,
       "chaleur": 5,
       "liens": [
         {
@@ -497,7 +527,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.6,
+      "heures": 33.6,
       "chaleur": 5,
       "liens": [
         {
@@ -515,13 +545,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 32.3,
+      "heures": 34.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/previews/dont-sleep-on-fateextra-record-this-story-driven-ps5-rpg-shows-real-promise",
           "titre": "Preview: Don't Sleep on Fate/Extra Record - This Story-Driven PS5 RPG Shows Real Promise"
+        }
+      ]
+    },
+    {
+      "id": "over-10-years-later-gabe-newell-s-advice-to-devs-still-holds",
+      "titre": "Over 10 years later, Gabe Newell's advice to devs still holds up",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/over-10-years-later-gabe-newells-advice-to-devs-still-holds-up/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/over-10-years-later-gabe-newells-advice-to-devs-still-holds-up/",
+          "titre": "Over 10 years later, Gabe Newell's advice to devs still holds up"
         }
       ]
     },
@@ -533,7 +581,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
@@ -551,7 +599,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 16.1,
       "chaleur": 3,
       "liens": [
         {
@@ -569,7 +617,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.8,
       "chaleur": 3,
       "liens": [
         {
@@ -587,7 +635,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.3,
       "chaleur": 3,
       "liens": [
         {
@@ -605,7 +653,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.8,
+      "heures": 18.8,
       "chaleur": 3,
       "liens": [
         {
@@ -623,7 +671,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -641,7 +689,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -659,7 +707,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.3,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
@@ -677,7 +725,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.3,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
@@ -695,7 +743,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.8,
+      "heures": 20.8,
       "chaleur": 3,
       "liens": [
         {
@@ -713,13 +761,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.0,
+      "heures": 23.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-says-abandoning-its-in-house-engine-for-the-witcher-4-had-nothing-to-do-with-cyberpunk-2077s-technical-woes-the-dream-of-the-company-was-actually-never-to-make-technology/",
           "titre": "CD Projekt says abandoning its in-house engine for The Witcher 4 had nothing to do with Cyberpunk 2077's technical woes: 'The dream of the company was actually never to make technology'"
+        }
+      ]
+    },
+    {
+      "id": "the-last-of-us-director-apologises-to-god-of-war-laufey-team",
+      "titre": "The Last of Us director apologises to God of War Laufey team for citing it while saying AAA experiences are ‘boring’",
+      "url": "https://www.videogameschronicle.com/news/the-last-of-us-director-apologises-to-god-of-war-laufey-team-for-citing-it-while-saying-aaa-experiences-are-boring/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 23.1,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-last-of-us-director-apologises-to-god-of-war-laufey-team-for-citing-it-while-saying-aaa-experiences-are-boring/",
+          "titre": "The Last of Us director apologises to God of War Laufey team for citing it while saying AAA experiences are ‘boring’"
         }
       ]
     },
@@ -731,7 +797,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.3,
       "chaleur": 3,
       "liens": [
         {
@@ -749,7 +815,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.2,
+      "heures": 24.2,
       "chaleur": 3,
       "liens": [
         {
@@ -767,7 +833,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.3,
       "chaleur": 3,
       "liens": [
         {
@@ -785,7 +851,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 27.3,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +869,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.8,
+      "heures": 29.8,
       "chaleur": 3,
       "liens": [
         {
@@ -821,49 +887,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 33.5,
+      "heures": 35.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/",
           "titre": "Dueling industry surveys show Japanese game devs are embracing AI, while North American ones are still skeptical"
-        }
-      ]
-    },
-    {
-      "id": "the-resident-evil-film-should-be-more-concerned-with-underst",
-      "titre": "The Resident Evil film should be more concerned with understanding the roots of its survival horror than adhering to strict lore accuracy",
-      "url": "https://www.pcgamer.com/movies-tv/the-resident-evil-film-should-be-more-concerned-with-understanding-the-roots-of-its-survival-horror-than-adhering-to-strict-lore-accuracy/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 34.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/the-resident-evil-film-should-be-more-concerned-with-understanding-the-roots-of-its-survival-horror-than-adhering-to-strict-lore-accuracy/",
-          "titre": "The Resident Evil film should be more concerned with understanding the roots of its survival horror than adhering to strict lore accuracy"
-        }
-      ]
-    },
-    {
-      "id": "final-fantasy-7-revelation-is-apparently-a-super-heavyweight",
-      "titre": "Final Fantasy 7 Revelation is apparently a super heavyweight 200GB installation: 'We need to overcome the hardware to a certain extent'",
-      "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-is-apparently-a-super-heavyweight-200gb-installation-we-need-to-overcome-the-hardware-to-a-certain-extent/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 34.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-is-apparently-a-super-heavyweight-200gb-installation-we-need-to-overcome-the-hardware-to-a-certain-extent/",
-          "titre": "Final Fantasy 7 Revelation is apparently a super heavyweight 200GB installation: 'We need to overcome the hardware to a certain extent'"
         }
       ]
     }
