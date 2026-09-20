@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "20/09/2026 à 14h18",
+  "collecte": "20/09/2026 à 16h19",
   "seuil": 14,
   "sujets": [
     {
@@ -11,8 +11,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 11,
+      "heures": 4.7,
+      "chaleur": 9,
       "liens": [
         {
           "source": "VGC",
@@ -30,8 +30,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 3.6,
-      "chaleur": 9,
+      "heures": 5.6,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
@@ -54,8 +54,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 3.7,
-      "chaleur": 9,
+      "heures": 5.7,
+      "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
@@ -66,24 +66,6 @@ const VEILLE = {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/konami-releasing-castlevania-belmonts-curse-demo-next-month",
           "titre": "Konami Releasing Castlevania: Belmont's Curse Demo Next Month"
-        }
-      ]
-    },
-    {
-      "id": "mailbox-wordcrafting-backtracking-one-handed-titles-nintendo",
-      "titre": "Mailbox: Wordcrafting, Backtracking, One-Handed Titles - Nintendo Life Letters",
-      "url": "https://www.nintendolife.com/news/2026/09/mailbox-wordcrafting-backtracking-one-handed-titles-nintendo-life-letters",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/mailbox-wordcrafting-backtracking-one-handed-titles-nintendo-life-letters",
-          "titre": "Mailbox: Wordcrafting, Backtracking, One-Handed Titles - Nintendo Life Letters"
         }
       ]
     },
@@ -322,6 +304,240 @@ const VEILLE = {
       ]
     },
     {
+      "id": "co-op-puzzle-game-we-were-here-tomorrow-is-out-next-month-so",
+      "titre": "Co-op puzzle game We Were Here Tomorrow is out next month, so you've got time to practise your communication skills",
+      "url": "https://www.pcgamer.com/games/puzzle/co-op-puzzle-game-we-were-here-tomorrow-is-out-next-month-so-youve-got-time-to-practise-your-communication-skills/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/puzzle/co-op-puzzle-game-we-were-here-tomorrow-is-out-next-month-so-youve-got-time-to-practise-your-communication-skills/",
+          "titre": "Co-op puzzle game We Were Here Tomorrow is out next month, so you've got time to practise your communication skills"
+        }
+      ]
+    },
+    {
+      "id": "night-plane-is-a-horror-game-designed-to-scare-me-specifical",
+      "titre": "Night Plane is a horror game designed to scare me, specifically, because I hate flying—and deer demons",
+      "url": "https://www.pcgamer.com/games/horror/night-plane-is-a-horror-game-designed-to-scare-me-specifically-because-i-hate-flying-and-deer-demons/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/night-plane-is-a-horror-game-designed-to-scare-me-specifically-because-i-hate-flying-and-deer-demons/",
+          "titre": "Night Plane is a horror game designed to scare me, specifically, because I hate flying—and deer demons"
+        }
+      ]
+    },
+    {
+      "id": "videogame-development-sim-let-s-build-a-dungeon-launches-int",
+      "titre": "Videogame development sim Let's Build a Dungeon launches into early access February 11",
+      "url": "https://www.pcgamer.com/games/sim/videogame-development-sim-lets-build-a-dungeon-launches-into-early-access-february-11/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/videogame-development-sim-lets-build-a-dungeon-launches-into-early-access-february-11/",
+          "titre": "Videogame development sim Let's Build a Dungeon launches into early access February 11"
+        }
+      ]
+    },
+    {
+      "id": "in-falsus-is-a-delightfully-unforgiving-rhythm-game-though-i",
+      "titre": "In Falsus is a delightfully unforgiving rhythm game, though its best tracks are locked behind an unimpressive story",
+      "url": "https://www.pcgamer.com/games/rhythm/in-falsus-is-a-delightfully-unforgiving-rhythm-game-though-its-best-tracks-are-locked-behind-an-unimpressive-story/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rhythm/in-falsus-is-a-delightfully-unforgiving-rhythm-game-though-its-best-tracks-are-locked-behind-an-unimpressive-story/",
+          "titre": "In Falsus is a delightfully unforgiving rhythm game, though its best tracks are locked behind an unimpressive story"
+        }
+      ]
+    },
+    {
+      "id": "lead-your-legions-to-glory-in-asynchronous-autobattler-fool",
+      "titre": "Lead your legions to glory in asynchronous autobattler Fool King, launching later this year",
+      "url": "https://www.pcgamer.com/games/action/lead-your-legions-to-glory-in-asynchronous-autobattler-fool-king-launching-later-this-year/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/lead-your-legions-to-glory-in-asynchronous-autobattler-fool-king-launching-later-this-year/",
+          "titre": "Lead your legions to glory in asynchronous autobattler Fool King, launching later this year"
+        }
+      ]
+    },
+    {
+      "id": "iconic-rpg-lufia-is-finally-coming-to-pc-with-the-first-two",
+      "titre": "Iconic RPG Lufia is finally coming to PC, with the first two games in the series due next year",
+      "url": "https://www.pcgamer.com/games/rpg/iconic-rpg-lufia-is-finally-coming-to-pc-with-the-first-two-games-in-the-series-due-next-year/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/iconic-rpg-lufia-is-finally-coming-to-pc-with-the-first-two-games-in-the-series-due-next-year/",
+          "titre": "Iconic RPG Lufia is finally coming to PC, with the first two games in the series due next year"
+        }
+      ]
+    },
+    {
+      "id": "chaotic-multiplayer-really-illegal-golf-debuts-at-the-pc-gam",
+      "titre": "Chaotic multiplayer Really Illegal Golf debuts at the PC Gaming Show Tokyo Direct",
+      "url": "https://www.pcgamer.com/games/action/chaotic-multiplayer-really-illegal-golf-debuts-at-the-pc-gaming-show-tokyo-direct/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/chaotic-multiplayer-really-illegal-golf-debuts-at-the-pc-gaming-show-tokyo-direct/",
+          "titre": "Chaotic multiplayer Really Illegal Golf debuts at the PC Gaming Show Tokyo Direct"
+        }
+      ]
+    },
+    {
+      "id": "dynasty-warriors-3-complete-edition-remastered-demo-online-t",
+      "titre": "Dynasty Warriors 3: Complete Edition Remastered Demo & Online Two-Player Post-Launch Update Announced",
+      "url": "https://www.nintendolife.com/news/2026/09/dynasty-warriors-3-complete-edition-remastered-demo-and-online-two-player-post-launch-update-announced",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/dynasty-warriors-3-complete-edition-remastered-demo-and-online-two-player-post-launch-update-announced",
+          "titre": "Dynasty Warriors 3: Complete Edition Remastered Demo & Online Two-Player Post-Launch Update Announced"
+        }
+      ]
+    },
+    {
+      "id": "mark-darrah-co-director-of-dragon-age-origins-has-played-riv",
+      "titre": "Mark Darrah, co-director of Dragon Age: Origins, has played Riven for 3 minutes and Factorio for 832 hours: 'If you want to know what kind of programmer someone would be, have them play Factorio'",
+      "url": "https://www.pcgamer.com/gaming-industry/mark-darrah-co-director-of-dragon-age-origins-has-played-riven-for-3-minutes-and-factorio-for-832-hours-if-you-want-to-know-what-kind-of-programmer-someone-would-be-have-them-play-factorio/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/mark-darrah-co-director-of-dragon-age-origins-has-played-riven-for-3-minutes-and-factorio-for-832-hours-if-you-want-to-know-what-kind-of-programmer-someone-would-be-have-them-play-factorio/",
+          "titre": "Mark Darrah, co-director of Dragon Age: Origins, has played Riven for 3 minutes and Factorio for 832 hours: 'If you want to know what kind of programmer someone would be, have them play Factorio'"
+        }
+      ]
+    },
+    {
+      "id": "endless-legend-2-shows-that-amplitude-is-still-the-master-of",
+      "titre": "Endless Legend 2 shows that Amplitude is still the master of faction design",
+      "url": "https://www.pcgamer.com/games/strategy/endless-legend-2-shows-that-amplitude-is-still-the-master-of-faction-design/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/endless-legend-2-shows-that-amplitude-is-still-the-master-of-faction-design/",
+          "titre": "Endless Legend 2 shows that Amplitude is still the master of faction design"
+        }
+      ]
+    },
+    {
+      "id": "call-of-duty-maker-activision-claims-video-game-cheating-is",
+      "titre": "Call of Duty maker Activision claims video game cheating is now a £6.3 billion ($8.5 billion) a year industry",
+      "url": "https://www.eurogamer.net/activision-video-game-cheat-market-8-5-billion-a-year",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/activision-video-game-cheat-market-8-5-billion-a-year",
+          "titre": "Call of Duty maker Activision claims video game cheating is now a £6.3 billion ($8.5 billion) a year industry"
+        }
+      ]
+    },
+    {
+      "id": "i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6",
+      "titre": "'I Love Sony': Kojima Unsure if Physint Will Ever Come to PS6, Hasn't Decided on Decima Engine",
+      "url": "https://www.pushsquare.com/news/2026/09/i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6-hasnt-decided-on-decima-engine",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6-hasnt-decided-on-decima-engine",
+          "titre": "'I Love Sony': Kojima Unsure if Physint Will Ever Come to PS6, Hasn't Decided on Decima Engine"
+        }
+      ]
+    },
+    {
+      "id": "a-27-year-old-tech-forum-with-over-100-000-warcraft-3-moddin",
+      "titre": "A 27-year-old tech forum with over 100,000 Warcraft 3 modding threads is closing its doors",
+      "url": "https://www.pcgamer.com/games/a-27-year-old-tech-forum-with-over-100-000-warcraft-3-modding-threads-is-closing-its-doors/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/a-27-year-old-tech-forum-with-over-100-000-warcraft-3-modding-threads-is-closing-its-doors/",
+          "titre": "A 27-year-old tech forum with over 100,000 Warcraft 3 modding threads is closing its doors"
+        }
+      ]
+    },
+    {
       "id": "hideo-kojima-responds-to-accusations-of-physint-being-over-b",
       "titre": "Hideo Kojima responds to accusations of Physint being over budget and late on deadline, says he still \"loves Sony\" despite collapse of publishing deal",
       "url": "https://www.eurogamer.net/hideo-kojima-loves-sony-playstation-physint",
@@ -329,7 +545,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -347,7 +563,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -365,7 +581,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -383,7 +599,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -401,7 +617,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -419,7 +635,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -430,38 +646,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-urge-you-to-check-out-this-hidden-object-game-where-you-pl",
-      "titre": "I urge you to check out this hidden object game where you play as the world's most helpful sniper",
-      "url": "https://www.pcgamer.com/games/fps/i-urge-you-to-check-out-this-hidden-object-game-where-you-play-as-the-worlds-most-helpful-sniper/",
+      "id": "mailbox-wordcrafting-backtracking-one-handed-titles-nintendo",
+      "titre": "Mailbox: Wordcrafting, Backtracking, One-Handed Titles - Nintendo Life Letters",
+      "url": "https://www.nintendolife.com/news/2026/09/mailbox-wordcrafting-backtracking-one-handed-titles-nintendo-life-letters",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.3,
+      "heures": 4.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/i-urge-you-to-check-out-this-hidden-object-game-where-you-play-as-the-worlds-most-helpful-sniper/",
-          "titre": "I urge you to check out this hidden object game where you play as the world's most helpful sniper"
-        }
-      ]
-    },
-    {
-      "id": "clive-barker-s-hellraiser-revival-gets-a-playable-demo-and-a",
-      "titre": "Clive Barker's Hellraiser: Revival gets a playable demo and a new trailer ahead of its October launch",
-      "url": "https://www.eurogamer.net/clive-barkers-hellraiser-revival-demo-scarlet-church-trailer",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/clive-barkers-hellraiser-revival-demo-scarlet-church-trailer",
-          "titre": "Clive Barker's Hellraiser: Revival gets a playable demo and a new trailer ahead of its October launch"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/mailbox-wordcrafting-backtracking-one-handed-titles-nintendo-life-letters",
+          "titre": "Mailbox: Wordcrafting, Backtracking, One-Handed Titles - Nintendo Life Letters"
         }
       ]
     },
@@ -473,7 +671,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.2,
       "chaleur": 6,
       "liens": [
         {
@@ -491,49 +689,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-gets-a-switch-2-eshop-demo-today",
           "titre": "Stellar Blade Gets A Switch 2 eShop Demo Today"
-        }
-      ]
-    },
-    {
-      "id": "evidence-of-canceled-grand-theft-auto-5-liberty-city-and-age",
-      "titre": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/evidence-of-canceled-grand-theft-auto-5-liberty-city-and-agent-trevor-dlc-plus-early-version-of-gta6s-map-surface-online/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 18.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/evidence-of-canceled-grand-theft-auto-5-liberty-city-and-agent-trevor-dlc-plus-early-version-of-gta6s-map-surface-online/",
-          "titre": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online"
-        }
-      ]
-    },
-    {
-      "id": "japanese-devs-aren-t-facing-the-same-layoff-crisis-because-t",
-      "titre": "Japanese devs aren't facing the same layoff crisis because their executives are paid an order of magnitude less, 'they didn’t get swept up in the live-service trend,' and their teams are smaller, says industry expert",
-      "url": "https://www.pcgamer.com/gaming-industry/japanese-devs-arent-facing-the-same-layoff-crisis-because-their-executives-are-paid-an-order-of-magnitude-less-they-didnt-get-swept-up-in-the-live-service-trend-and-their-teams-are-smaller-says-industry-expert/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/japanese-devs-arent-facing-the-same-layoff-crisis-because-their-executives-are-paid-an-order-of-magnitude-less-they-didnt-get-swept-up-in-the-live-service-trend-and-their-teams-are-smaller-says-industry-expert/",
-          "titre": "Japanese devs aren't facing the same layoff crisis because their executives are paid an order of magnitude less, 'they didn’t get swept up in the live-service trend,' and their teams are smaller, says industry expert"
         }
       ]
     },
@@ -546,7 +708,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 29.3,
+      "heures": 31.3,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +731,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 24.3,
       "chaleur": 5,
       "liens": [
         {
@@ -587,7 +749,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.3,
       "chaleur": 5,
       "liens": [
         {
@@ -605,7 +767,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.8,
+      "heures": 32.8,
       "chaleur": 5,
       "liens": [
         {
@@ -616,20 +778,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-appears-to-have-updated-the-super-mario-logo",
-      "titre": "Nintendo Appears To Have Updated The Super Mario Logo",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-appears-to-have-updated-the-super-mario-logo",
+      "id": "i-urge-you-to-check-out-this-hidden-object-game-where-you-pl",
+      "titre": "I urge you to check out this hidden object game where you play as the world's most helpful sniper",
+      "url": "https://www.pcgamer.com/games/fps/i-urge-you-to-check-out-this-hidden-object-game-where-you-play-as-the-worlds-most-helpful-sniper/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 34.8,
-      "chaleur": 5,
+      "heures": 4.3,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendo-appears-to-have-updated-the-super-mario-logo",
-          "titre": "Nintendo Appears To Have Updated The Super Mario Logo"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/i-urge-you-to-check-out-this-hidden-object-game-where-you-play-as-the-worlds-most-helpful-sniper/",
+          "titre": "I urge you to check out this hidden object game where you play as the world's most helpful sniper"
+        }
+      ]
+    },
+    {
+      "id": "clive-barker-s-hellraiser-revival-gets-a-playable-demo-and-a",
+      "titre": "Clive Barker's Hellraiser: Revival gets a playable demo and a new trailer ahead of its October launch",
+      "url": "https://www.eurogamer.net/clive-barkers-hellraiser-revival-demo-scarlet-church-trailer",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/clive-barkers-hellraiser-revival-demo-scarlet-church-trailer",
+          "titre": "Clive Barker's Hellraiser: Revival gets a playable demo and a new trailer ahead of its October launch"
         }
       ]
     },
@@ -641,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -659,7 +839,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 7.0,
       "chaleur": 4,
       "liens": [
         {
@@ -677,7 +857,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -695,7 +875,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -713,7 +893,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -731,31 +911,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/features/going-platinum-unpackings-obsession-with-possessions-makes-me-think-of-all-my-random-stuff",
           "titre": "Feature: Going Platinum: Unpacking's Obsession with Possessions Makes Me Think of All My Random Stuff"
-        }
-      ]
-    },
-    {
-      "id": "an-ambitious-fanmade-expansion-for-baldur-s-gate-3-is-out-af",
-      "titre": "An ambitious fanmade expansion for Baldur's Gate 3 is out after almost two years in development",
-      "url": "https://www.pcgamer.com/games/baldurs-gate/an-ambitious-fanmade-expansion-for-baldurs-gate-3-is-out-after-almost-two-years-in-development/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/baldurs-gate/an-ambitious-fanmade-expansion-for-baldurs-gate-3-is-out-after-almost-two-years-in-development/",
-          "titre": "An ambitious fanmade expansion for Baldur's Gate 3 is out after almost two years in development"
         }
       ]
     },
@@ -767,31 +929,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.8,
+      "heures": 23.8,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/longest-ever-tokyo-game-show-curtailed-due-to-typhoon-warning-in-japan",
           "titre": "Longest-Ever Tokyo Game Show Curtailed Due to Typhoon Warning in Japan"
-        }
-      ]
-    },
-    {
-      "id": "the-largest-theft-of-labor-in-human-history-court-docs-reve",
-      "titre": "'The largest theft of labor in human history:' Court docs reveal Microsoft exec predicted AI 'doom loops' could hollow out the internet",
-      "url": "https://www.pcgamer.com/software/ai/the-largest-theft-of-labor-in-human-history-court-docs-reveal-microsoft-exec-predicted-ai-doom-loops-could-hollow-out-the-internet/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 22.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/the-largest-theft-of-labor-in-human-history-court-docs-reveal-microsoft-exec-predicted-ai-doom-loops-could-hollow-out-the-internet/",
-          "titre": "'The largest theft of labor in human history:' Court docs reveal Microsoft exec predicted AI 'doom loops' could hollow out the internet"
         }
       ]
     },
@@ -803,49 +947,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 24.8,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/wolverine-ps5-tones-down-fart-trails-as-title-tipped-to-be-a-huge-sales-success",
           "titre": "Wolverine PS5 Tones Down 'Fart Trails' as Title Tipped to Be a Huge Sales Success"
-        }
-      ]
-    },
-    {
-      "id": "i-played-the-adventure-game-so-scandalous-that-it-was-physic",
-      "titre": "I played the adventure game so scandalous that it was physically destroyed by UK customs",
-      "url": "https://www.pcgamer.com/games/adventure/i-played-the-adventure-game-so-scandalous-that-it-was-physically-destroyed-by-uk-customs/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 23.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/adventure/i-played-the-adventure-game-so-scandalous-that-it-was-physically-destroyed-by-uk-customs/",
-          "titre": "I played the adventure game so scandalous that it was physically destroyed by UK customs"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-s-convinced-me-that-we-lost-too-mu",
-      "titre": "World of Warcraft: Forever's convinced me that we lost too much to modern MMO quest design",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-convinced-me-that-we-lost-too-much-to-modern-mmo-quest-design/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 23.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-convinced-me-that-we-lost-too-much-to-modern-mmo-quest-design/",
-          "titre": "World of Warcraft: Forever's convinced me that we lost too much to modern MMO quest design"
         }
       ]
     },
@@ -857,67 +965,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 24.3,
+      "heures": 26.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again",
           "titre": "Preview: Ascendance Has Me Hyped to Obsess Over Monster Hunter Wilds Again"
-        }
-      ]
-    },
-    {
-      "id": "it-rules-that-a-27-year-old-rpg-one-of-the-greatest-of-all-t",
-      "titre": "It rules that a 27-year-old RPG, one of the greatest of all time, is still getting patches",
-      "url": "https://www.pcgamer.com/games/rpg/it-rules-that-a-27-year-old-rpg-one-of-the-greatest-of-all-time-is-still-getting-patches/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 24.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/it-rules-that-a-27-year-old-rpg-one-of-the-greatest-of-all-time-is-still-getting-patches/",
-          "titre": "It rules that a 27-year-old RPG, one of the greatest of all time, is still getting patches"
-        }
-      ]
-    },
-    {
-      "id": "this-unofficial-engine-patch-for-thief-the-dark-project-adds",
-      "titre": "This unofficial engine patch for Thief: The Dark Project adds a huge new feature that won't be in Nightdive's upcoming remaster",
-      "url": "https://www.pcgamer.com/games/sim/this-unofficial-engine-patch-for-thief-the-dark-project-adds-a-huge-new-feature-that-wont-be-in-nightdives-upcoming-remaster/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 24.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/this-unofficial-engine-patch-for-thief-the-dark-project-adds-a-huge-new-feature-that-wont-be-in-nightdives-upcoming-remaster/",
-          "titre": "This unofficial engine patch for Thief: The Dark Project adds a huge new feature that won't be in Nightdive's upcoming remaster"
-        }
-      ]
-    },
-    {
-      "id": "cd-projekt-says-abandoning-its-in-house-engine-for-the-witch",
-      "titre": "CD Projekt says abandoning its in-house engine for The Witcher 4 had nothing to do with Cyberpunk 2077's technical woes: 'The dream of the company was actually never to make technology'",
-      "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-says-abandoning-its-in-house-engine-for-the-witcher-4-had-nothing-to-do-with-cyberpunk-2077s-technical-woes-the-dream-of-the-company-was-actually-never-to-make-technology/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 27.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-says-abandoning-its-in-house-engine-for-the-witcher-4-had-nothing-to-do-with-cyberpunk-2077s-technical-woes-the-dream-of-the-company-was-actually-never-to-make-technology/",
-          "titre": "CD Projekt says abandoning its in-house engine for The Witcher 4 had nothing to do with Cyberpunk 2077's technical woes: 'The dream of the company was actually never to make technology'"
         }
       ]
     },
@@ -929,31 +983,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-21st-27th-september",
           "titre": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (21st - 27th September)"
-        }
-      ]
-    },
-    {
-      "id": "dune-awakening-now-has-a-solo-mode-for-players-put-off-by-it",
-      "titre": "Dune Awakening now has a solo mode for players put off by its MMO leanings, while Funcom has adjusted progression so 'you don't have to lose things anymore'",
-      "url": "https://www.pcgamer.com/games/survival-crafting/dune-awakening-now-has-a-solo-mode-for-players-put-off-by-its-mmo-leanings-while-funcom-has-adjusted-progression-so-you-dont-have-to-lose-things-anymore/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 28.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/dune-awakening-now-has-a-solo-mode-for-players-put-off-by-its-mmo-leanings-while-funcom-has-adjusted-progression-so-you-dont-have-to-lose-things-anymore/",
-          "titre": "Dune Awakening now has a solo mode for players put off by its MMO leanings, while Funcom has adjusted progression so 'you don't have to lose things anymore'"
         }
       ]
     },
@@ -965,7 +1001,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.3,
       "chaleur": 3,
       "liens": [
         {
@@ -983,7 +1019,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 33.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +1037,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.8,
+      "heures": 35.8,
       "chaleur": 3,
       "liens": [
         {
