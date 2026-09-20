@@ -1,38 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "20/09/2026 à 04h20",
+  "collecte": "20/09/2026 à 06h24",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "the-last-of-us-director-apologises-to-god-of-war-laufey-team",
-      "titre": "The Last of Us director apologises to God of War Laufey team for citing it while saying AAA experiences are ‘boring’",
-      "url": "https://www.videogameschronicle.com/news/the-last-of-us-director-apologises-to-god-of-war-laufey-team-for-citing-it-while-saying-aaa-experiences-are-boring/",
-      "sources": [
-        "PC Gamer",
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 17.1,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-last-of-us-director-apologises-to-god-of-war-laufey-team-for-citing-it-while-saying-aaa-experiences-are-boring/",
-          "titre": "The Last of Us director apologises to God of War Laufey team for citing it while saying AAA experiences are ‘boring’"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/the-last-of-us-game-director-apologizes-for-god-of-war-laufey-criticism-points-finger-at-industry-leaders-for-triple-a-stagnation/",
-          "titre": "The Last of Us game director apologizes for God of War Laufey criticism, points finger at industry leaders for triple-A stagnation"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-game-director-apologises-for-dragging-god-of-war-laufey-into-boring-aaa-game-discussion",
-          "titre": "The Last of Us Game Director Apologises for Dragging God of War Laufey into 'Boring' AAA Game Discussion"
-        }
-      ]
-    },
     {
       "id": "talking-point-what-are-you-playing-this-weekend-19th-septemb",
       "titre": "Talking Point: What Are You Playing This Weekend? (19th September)",
@@ -43,7 +13,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 19.3,
+      "heures": 21.4,
       "chaleur": 9,
       "liens": [
         {
@@ -64,24 +34,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "new-200gb-gta-5-leak-suggests-rockstar-games-scrapped-a-mass",
-      "titre": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work",
-      "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 34.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
-          "titre": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work"
-        }
-      ]
-    },
-    {
       "id": "evidence-of-canceled-grand-theft-auto-5-liberty-city-and-age",
       "titre": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/evidence-of-canceled-grand-theft-auto-5-liberty-city-and-agent-trevor-dlc-plus-early-version-of-gta6s-map-surface-online/",
@@ -89,31 +41,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.6,
       "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/evidence-of-canceled-grand-theft-auto-5-liberty-city-and-agent-trevor-dlc-plus-early-version-of-gta6s-map-surface-online/",
           "titre": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online"
-        }
-      ]
-    },
-    {
-      "id": "japanese-devs-aren-t-facing-the-same-layoff-crisis-because-t",
-      "titre": "Japanese devs aren't facing the same layoff crisis because their executives are paid an order of magnitude less, 'they didn’t get swept up in the live-service trend,' and their teams are smaller, says industry expert",
-      "url": "https://www.pcgamer.com/gaming-industry/japanese-devs-arent-facing-the-same-layoff-crisis-because-their-executives-are-paid-an-order-of-magnitude-less-they-didnt-get-swept-up-in-the-live-service-trend-and-their-teams-are-smaller-says-industry-expert/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/japanese-devs-arent-facing-the-same-layoff-crisis-because-their-executives-are-paid-an-order-of-magnitude-less-they-didnt-get-swept-up-in-the-live-service-trend-and-their-teams-are-smaller-says-industry-expert/",
-          "titre": "Japanese devs aren't facing the same layoff crisis because their executives are paid an order of magnitude less, 'they didn’t get swept up in the live-service trend,' and their teams are smaller, says industry expert"
         }
       ]
     },
@@ -352,26 +286,62 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sony-execs-behind-iconic-game-sharing-meme-recreate-it-but-f",
-      "titre": "Sony execs behind iconic game-sharing meme recreate it, but fittingly, without a physical game",
-      "url": "https://www.eurogamer.net/sony-execs-game-sharing-meme-physical",
+      "id": "over-10-years-later-gabe-newell-s-advice-to-devs-still-holds",
+      "titre": "Over 10 years later, Gabe Newell's advice to devs still holds up",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/over-10-years-later-gabe-newells-advice-to-devs-still-holds-up/",
       "sources": [
-        "Eurogamer",
-        "Push Square"
+        "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 32.6,
+      "reprises": 1,
+      "heures": 1.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sony-execs-game-sharing-meme-physical",
-          "titre": "Sony execs behind iconic game-sharing meme recreate it, but fittingly, without a physical game"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/over-10-years-later-gabe-newells-advice-to-devs-still-holds-up/",
+          "titre": "Over 10 years later, Gabe Newell's advice to devs still holds up"
+        }
+      ]
+    },
+    {
+      "id": "japanese-devs-aren-t-facing-the-same-layoff-crisis-because-t",
+      "titre": "Japanese devs aren't facing the same layoff crisis because their executives are paid an order of magnitude less, 'they didn’t get swept up in the live-service trend,' and their teams are smaller, says industry expert",
+      "url": "https://www.pcgamer.com/gaming-industry/japanese-devs-arent-facing-the-same-layoff-crisis-because-their-executives-are-paid-an-order-of-magnitude-less-they-didnt-get-swept-up-in-the-live-service-trend-and-their-teams-are-smaller-says-industry-expert/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 12.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/japanese-devs-arent-facing-the-same-layoff-crisis-because-their-executives-are-paid-an-order-of-magnitude-less-they-didnt-get-swept-up-in-the-live-service-trend-and-their-teams-are-smaller-says-industry-expert/",
+          "titre": "Japanese devs aren't facing the same layoff crisis because their executives are paid an order of magnitude less, 'they didn’t get swept up in the live-service trend,' and their teams are smaller, says industry expert"
+        }
+      ]
+    },
+    {
+      "id": "the-last-of-us-director-apologises-to-god-of-war-laufey-team",
+      "titre": "The Last of Us director apologises to God of War Laufey team for citing it while saying AAA experiences are ‘boring’",
+      "url": "https://www.videogameschronicle.com/news/the-last-of-us-director-apologises-to-god-of-war-laufey-team-for-citing-it-while-saying-aaa-experiences-are-boring/",
+      "sources": [
+        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 19.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-last-of-us-director-apologises-to-god-of-war-laufey-team-for-citing-it-while-saying-aaa-experiences-are-boring/",
+          "titre": "The Last of Us director apologises to God of War Laufey team for citing it while saying AAA experiences are ‘boring’"
         },
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/former-sony-suits-recreate-infamous-ps4-game-sharing-skit-only-without-the-disc",
-          "titre": "Former Sony Suits Recreate Infamous PS4 Game Sharing Skit, Only without the Disc"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/the-last-of-us-game-director-apologizes-for-god-of-war-laufey-criticism-points-finger-at-industry-leaders-for-triple-a-stagnation/",
+          "titre": "The Last of Us game director apologizes for God of War Laufey criticism, points finger at industry leaders for triple-A stagnation"
         }
       ]
     },
@@ -383,7 +353,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.4,
       "chaleur": 5,
       "liens": [
         {
@@ -401,7 +371,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -419,7 +389,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.8,
+      "heures": 22.9,
       "chaleur": 5,
       "liens": [
         {
@@ -437,7 +407,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.8,
+      "heures": 26.9,
       "chaleur": 5,
       "liens": [
         {
@@ -455,7 +425,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.6,
+      "heures": 28.7,
       "chaleur": 5,
       "liens": [
         {
@@ -473,7 +443,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.6,
+      "heures": 29.7,
       "chaleur": 5,
       "liens": [
         {
@@ -491,31 +461,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 28.3,
+      "heures": 30.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/previews/dont-sleep-on-fateextra-record-this-story-driven-ps5-rpg-shows-real-promise",
           "titre": "Preview: Don't Sleep on Fate/Extra Record - This Story-Driven PS5 RPG Shows Real Promise"
-        }
-      ]
-    },
-    {
-      "id": "review-hautepad-c-as-arcade-stick-for-switch-1-2-unique-eye",
-      "titre": "Review: Hautepad C-AS Arcade Stick For Switch 1 & 2 - Unique & Eye-Catching, But Improvements Are Needed",
-      "url": "https://www.nintendolife.com/reviews/hautepad-c-as-arcade-stick-for-switch-1-and-2-unique-and-eye-catching-but-improvements-are-needed",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 34.3,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/hautepad-c-as-arcade-stick-for-switch-1-and-2-unique-and-eye-catching-but-improvements-are-needed",
-          "titre": "Review: Hautepad C-AS Arcade Stick For Switch 1 & 2 - Unique & Eye-Catching, But Improvements Are Needed"
         }
       ]
     },
@@ -527,7 +479,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -545,8 +497,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -563,8 +515,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -581,7 +533,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -599,7 +551,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -617,7 +569,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -635,7 +587,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.6,
       "chaleur": 3,
       "liens": [
         {
@@ -653,7 +605,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -671,7 +623,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -689,7 +641,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.8,
+      "heures": 16.9,
       "chaleur": 3,
       "liens": [
         {
@@ -707,7 +659,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 19.0,
       "chaleur": 3,
       "liens": [
         {
@@ -725,7 +677,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -743,7 +695,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
@@ -761,7 +713,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.4,
       "chaleur": 3,
       "liens": [
         {
@@ -779,7 +731,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.4,
       "chaleur": 3,
       "liens": [
         {
@@ -797,7 +749,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.8,
+      "heures": 25.9,
       "chaleur": 3,
       "liens": [
         {
@@ -815,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 29.5,
+      "heures": 31.5,
       "chaleur": 3,
       "liens": [
         {
@@ -833,7 +785,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 30.3,
+      "heures": 32.3,
       "chaleur": 3,
       "liens": [
         {
@@ -851,7 +803,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 30.4,
+      "heures": 32.5,
       "chaleur": 3,
       "liens": [
         {
@@ -862,56 +814,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "industry-vets-behind-dishonored-ultima-online-her-story-and",
-      "titre": "Industry vets behind Dishonored, Ultima Online, Her Story and more agree the games industry crisis goes beyond games: 'Ultimately, to fix what’s broken in the videogame industry, we might have to fix reality'",
-      "url": "https://www.pcgamer.com/gaming-industry/industry-vets-behind-dishonored-ultima-online-her-story-and-more-agree-the-games-industry-crisis-goes-beyond-games-ultimately-to-fix-whats-broken-in-the-videogame-industry-we-might-have-to-fix-reality/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 30.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/industry-vets-behind-dishonored-ultima-online-her-story-and-more-agree-the-games-industry-crisis-goes-beyond-games-ultimately-to-fix-whats-broken-in-the-videogame-industry-we-might-have-to-fix-reality/",
-          "titre": "Industry vets behind Dishonored, Ultima Online, Her Story and more agree the games industry crisis goes beyond games: 'Ultimately, to fix what’s broken in the videogame industry, we might have to fix reality'"
-        }
-      ]
-    },
-    {
-      "id": "despite-controversial-reviews-and-online-mockery-marvel-s-wo",
-      "titre": "Despite controversial reviews and online mockery, Marvel's Wolverine looks to have sold 1.9m on PS5 - and over 1 in 5 sales are physical",
-      "url": "https://www.eurogamer.net/marvel-wolverine-sales-ps5-physical-controversial-reviews",
+      "id": "sony-execs-behind-iconic-game-sharing-meme-recreate-it-but-f",
+      "titre": "Sony execs behind iconic game-sharing meme recreate it, but fittingly, without a physical game",
+      "url": "https://www.eurogamer.net/sony-execs-game-sharing-meme-physical",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 35.5,
+      "heures": 34.7,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marvel-wolverine-sales-ps5-physical-controversial-reviews",
-          "titre": "Despite controversial reviews and online mockery, Marvel's Wolverine looks to have sold 1.9m on PS5 - and over 1 in 5 sales are physical"
-        }
-      ]
-    },
-    {
-      "id": "in-the-absence-of-a-new-deus-ex-indie-imsim-tokyo-walled-cit",
-      "titre": "In the absence of a new Deus Ex, indie imsim Tokyo Walled City may scratch that stealth 'n' stolen passwords itch",
-      "url": "https://www.rockpapershotgun.com/in-the-absence-of-a-new-deus-ex-indie-imsim-tokyo-walled-city-may-scratch-that-stealth-n-stolen-passwords-itch",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 35.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/in-the-absence-of-a-new-deus-ex-indie-imsim-tokyo-walled-city-may-scratch-that-stealth-n-stolen-passwords-itch",
-          "titre": "In the absence of a new Deus Ex, indie imsim Tokyo Walled City may scratch that stealth 'n' stolen passwords itch"
+          "url": "https://www.eurogamer.net/sony-execs-game-sharing-meme-physical",
+          "titre": "Sony execs behind iconic game-sharing meme recreate it, but fittingly, without a physical game"
         }
       ]
     }
