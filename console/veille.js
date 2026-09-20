@@ -1,8 +1,32 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "19/09/2026 à 22h18",
+  "collecte": "20/09/2026 à 00h27",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "preview-ascendance-has-me-hyped-to-obsess-over-monster-hunte",
+      "titre": "Preview: Ascendance Has Me Hyped to Obsess Over Monster Hunter Wilds Again",
+      "url": "https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 10.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again",
+          "titre": "Preview: Ascendance Has Me Hyped to Obsess Over Monster Hunter Wilds Again"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-wilds-switch-2-performance-and-resolution-confirmed",
+          "titre": "Monster Hunter Wilds Switch 2 Performance And Resolution Confirmed"
+        }
+      ]
+    },
     {
       "id": "the-last-of-us-director-apologises-to-god-of-war-laufey-team",
       "titre": "The Last of Us director apologises to God of War Laufey team for citing it while saying AAA experiences are ‘boring’",
@@ -13,8 +37,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 11.0,
-      "chaleur": 10,
+      "heures": 13.2,
+      "chaleur": 9,
       "liens": [
         {
           "source": "VGC",
@@ -34,48 +58,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "evidence-of-canceled-grand-theft-auto-5-liberty-city-and-age",
-      "titre": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/evidence-of-canceled-grand-theft-auto-5-liberty-city-and-agent-trevor-dlc-plus-early-version-of-gta6s-map-surface-online/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/evidence-of-canceled-grand-theft-auto-5-liberty-city-and-agent-trevor-dlc-plus-early-version-of-gta6s-map-surface-online/",
-          "titre": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online"
-        }
-      ]
-    },
-    {
-      "id": "preview-ascendance-has-me-hyped-to-obsess-over-monster-hunte",
-      "titre": "Preview: Ascendance Has Me Hyped to Obsess Over Monster Hunter Wilds Again",
-      "url": "https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 8.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again",
-          "titre": "Preview: Ascendance Has Me Hyped to Obsess Over Monster Hunter Wilds Again"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-wilds-switch-2-performance-and-resolution-confirmed",
-          "titre": "Monster Hunter Wilds Switch 2 Performance And Resolution Confirmed"
-        }
-      ]
-    },
-    {
       "id": "talking-point-what-are-you-playing-this-weekend-19th-septemb",
       "titre": "Talking Point: What Are You Playing This Weekend? (19th September)",
       "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-19th-september",
@@ -85,7 +67,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 13.3,
+      "heures": 15.5,
       "chaleur": 9,
       "liens": [
         {
@@ -115,7 +97,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 24.4,
+      "heures": 26.5,
       "chaleur": 9,
       "liens": [
         {
@@ -145,7 +127,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 30.0,
+      "heures": 32.2,
       "chaleur": 9,
       "liens": [
         {
@@ -173,13 +155,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.0,
+      "heures": 30.1,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
           "titre": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work"
+        }
+      ]
+    },
+    {
+      "id": "evidence-of-canceled-grand-theft-auto-5-liberty-city-and-age",
+      "titre": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/evidence-of-canceled-grand-theft-auto-5-liberty-city-and-agent-trevor-dlc-plus-early-version-of-gta6s-map-surface-online/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/evidence-of-canceled-grand-theft-auto-5-liberty-city-and-agent-trevor-dlc-plus-early-version-of-gta6s-map-surface-online/",
+          "titre": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online"
         }
       ]
     },
@@ -191,7 +191,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.2,
       "chaleur": 7,
       "liens": [
         {
@@ -418,20 +418,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "feature-going-platinum-unpacking-s-obsession-with-possession",
-      "titre": "Feature: Going Platinum: Unpacking's Obsession with Possessions Makes Me Think of All My Random Stuff",
-      "url": "https://www.pushsquare.com/features/going-platinum-unpackings-obsession-with-possessions-makes-me-think-of-all-my-random-stuff",
+      "id": "d-i-c-e-summit",
+      "titre": "D.I.C.E. Summit",
+      "url": "https://www.gamedeveloper.com/keyword/dice-summit",
       "sources": [
-        "Push Square"
+        "Game Developer"
       ],
       "reprises": 1,
-      "heures": 3.3,
+      "heures": 0.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/going-platinum-unpackings-obsession-with-possessions-makes-me-think-of-all-my-random-stuff",
-          "titre": "Feature: Going Platinum: Unpacking's Obsession with Possessions Makes Me Think of All My Random Stuff"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/keyword/dice-summit",
+          "titre": "D.I.C.E. Summit"
         }
       ]
     },
@@ -443,7 +443,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.5,
       "chaleur": 6,
       "liens": [
         {
@@ -461,7 +461,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.5,
       "chaleur": 6,
       "liens": [
         {
@@ -480,7 +480,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 17.8,
+      "heures": 20.0,
       "chaleur": 6,
       "liens": [
         {
@@ -504,7 +504,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 26.6,
+      "heures": 28.7,
       "chaleur": 6,
       "liens": [
         {
@@ -527,7 +527,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.3,
+      "heures": 32.5,
       "chaleur": 6,
       "liens": [
         {
@@ -545,67 +545,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 30.4,
+      "heures": 32.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/theyve-watched-so-many-people-lose-their-jobs-that-has-an-impact-managing-morale-in-the-wake-of-layoffs",
           "titre": "\"They've watched so many people lose their jobs, that has an impact\" – Managing morale in the wake of layoffs"
-        }
-      ]
-    },
-    {
-      "id": "king-workers-call-strike-after-collective-agreement-negotiat",
-      "titre": "King workers call strike after collective agreement negotiations stall",
-      "url": "https://www.gamedeveloper.com/production/king-workers-call-strike-after-collective-agreement-negotiations-stall",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 34.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production/king-workers-call-strike-after-collective-agreement-negotiations-stall",
-          "titre": "King workers call strike after collective agreement negotiations stall"
-        }
-      ]
-    },
-    {
-      "id": "bolstered-by-switch-2-sales-and-zelda-ocarina-of-time-remake",
-      "titre": "Bolstered by Switch 2 sales and Zelda: Ocarina of Time remake's reveal, Nintendo of America COO promises: \"This is just the beginning\"",
-      "url": "https://www.eurogamer.net/switch-2-sales-ocarina-of-time-just-the-beginning",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 34.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/switch-2-sales-ocarina-of-time-just-the-beginning",
-          "titre": "Bolstered by Switch 2 sales and Zelda: Ocarina of Time remake's reveal, Nintendo of America COO promises: \"This is just the beginning\""
-        }
-      ]
-    },
-    {
-      "id": "strauss-zelnick-stresses-a-well-known-franchise-like-gta-sti",
-      "titre": "Strauss Zelnick stresses a well-known franchise like GTA still needs marketing: \"You always have to go out and create enthusiasm\"",
-      "url": "https://www.gamesindustry.biz/strauss-zelnick-stresses-a-well-known-franchise-like-gta-still-needs-marketing-you-always-have-to-go-out-and-create-enthusiasm",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 35.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/strauss-zelnick-stresses-a-well-known-franchise-like-gta-still-needs-marketing-you-always-have-to-go-out-and-create-enthusiasm",
-          "titre": "Strauss Zelnick stresses a well-known franchise like GTA still needs marketing: \"You always have to go out and create enthusiasm\""
         }
       ]
     },
@@ -617,7 +563,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.8,
+      "heures": 17.0,
       "chaleur": 5,
       "liens": [
         {
@@ -635,7 +581,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.8,
+      "heures": 21.0,
       "chaleur": 5,
       "liens": [
         {
@@ -653,7 +599,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.6,
+      "heures": 22.7,
       "chaleur": 5,
       "liens": [
         {
@@ -671,7 +617,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.6,
+      "heures": 23.7,
       "chaleur": 5,
       "liens": [
         {
@@ -689,7 +635,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 24.5,
       "chaleur": 5,
       "liens": [
         {
@@ -707,7 +653,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.3,
+      "heures": 30.5,
       "chaleur": 5,
       "liens": [
         {
@@ -725,7 +671,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 30.2,
+      "heures": 32.4,
       "chaleur": 5,
       "liens": [
         {
@@ -743,7 +689,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 30.8,
+      "heures": 33.0,
       "chaleur": 5,
       "liens": [
         {
@@ -754,20 +700,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "review-valheim-switch-2-epic-survival-crafter-finally-hits-1",
-      "titre": "Review: Valheim (Switch 2) - Epic Survival Crafter Finally Hits 1.0, With Performance & Crossplay Hiccups",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/valheim",
+      "id": "feature-going-platinum-unpacking-s-obsession-with-possession",
+      "titre": "Feature: Going Platinum: Unpacking's Obsession with Possessions Makes Me Think of All My Random Stuff",
+      "url": "https://www.pushsquare.com/features/going-platinum-unpackings-obsession-with-possessions-makes-me-think-of-all-my-random-stuff",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 34.3,
-      "chaleur": 5,
+      "heures": 5.5,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/valheim",
-          "titre": "Review: Valheim (Switch 2) - Epic Survival Crafter Finally Hits 1.0, With Performance & Crossplay Hiccups"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/going-platinum-unpackings-obsession-with-possessions-makes-me-think-of-all-my-random-stuff",
+          "titre": "Feature: Going Platinum: Unpacking's Obsession with Possessions Makes Me Think of All My Random Stuff"
         }
       ]
     },
@@ -779,7 +725,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -797,7 +743,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +761,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -833,7 +779,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -851,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -869,7 +815,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +833,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -923,8 +869,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -941,8 +887,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -959,7 +905,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.3,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +923,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -995,7 +941,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1013,7 +959,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +977,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.2,
+      "heures": 26.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,7 +995,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.7,
+      "heures": 26.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,7 +1013,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 31.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1085,7 +1031,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 29.6,
+      "heures": 31.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1103,7 +1049,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 30.3,
+      "heures": 32.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1121,7 +1067,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 30.6,
+      "heures": 32.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1139,13 +1085,67 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 31.0,
+      "heures": 33.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
           "titre": "MiHoYo awarded $112,000 by Chinese court after AI voice service dupes Genshin Impact characters"
+        }
+      ]
+    },
+    {
+      "id": "roman-sands-re-build-review-a-unique-and-obliterating-blend",
+      "titre": "Roman Sands RE:Build review: A unique and obliterating blend of resort sim, engineering horror and alchemic ritual",
+      "url": "https://www.rockpapershotgun.com/roman-sands-rebuild-review",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 33.5,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/roman-sands-rebuild-review",
+          "titre": "Roman Sands RE:Build review: A unique and obliterating blend of resort sim, engineering horror and alchemic ritual"
+        }
+      ]
+    },
+    {
+      "id": "level-5-is-really-starting-to-panic-amidst-increasing-ai-bac",
+      "titre": "Level-5 Is Really Starting To Panic Amidst Increasing AI Backlash",
+      "url": "https://www.nintendolife.com/news/2026/09/level-5-is-really-starting-to-panic-amidst-increasing-ai-backlash",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 33.5,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/level-5-is-really-starting-to-panic-amidst-increasing-ai-backlash",
+          "titre": "Level-5 Is Really Starting To Panic Amidst Increasing AI Backlash"
+        }
+      ]
+    },
+    {
+      "id": "how-toolmakers-like-arm-work-with-devs-ft-peter-hodges",
+      "titre": "How toolmakers like ARM work with devs, ft. Peter Hodges",
+      "url": "https://www.gamedeveloper.com/art/how-toolmakers-like-arm-work-with-devs-ft-peter-hodges",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 33.9,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/art/how-toolmakers-like-arm-work-with-devs-ft-peter-hodges",
+          "titre": "How toolmakers like ARM work with devs, ft. Peter Hodges"
         }
       ]
     }
