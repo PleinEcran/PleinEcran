@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "20/09/2026 à 20h18",
+  "collecte": "20/09/2026 à 22h18",
   "seuil": 14,
   "sujets": [
     {
@@ -11,7 +11,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.7,
+      "heures": 10.7,
       "chaleur": 9,
       "liens": [
         {
@@ -30,7 +30,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.6,
+      "heures": 11.6,
       "chaleur": 7,
       "liens": [
         {
@@ -54,7 +54,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.7,
+      "heures": 11.7,
       "chaleur": 7,
       "liens": [
         {
@@ -311,7 +311,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -329,265 +329,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/action/elden-ring-nightreign-is-dead-but-modders-are-dabbing-on-its-corpse-with-one-porting-an-entire-dark-souls-2-dlc-zone-as-a-playable-map/",
           "titre": "Elden Ring Nightreign is dead, but modders are dabbing on its corpse, with one porting an entire Dark Souls 2 DLC zone as a playable map"
-        }
-      ]
-    },
-    {
-      "id": "i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6",
-      "titre": "'I Love Sony': Kojima Unsure if Physint Will Ever Come to PS6, Hasn't Decided on Decima Engine",
-      "url": "https://www.pushsquare.com/news/2026/09/i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6-hasnt-decided-on-decima-engine",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6-hasnt-decided-on-decima-engine",
-          "titre": "'I Love Sony': Kojima Unsure if Physint Will Ever Come to PS6, Hasn't Decided on Decima Engine"
-        }
-      ]
-    },
-    {
-      "id": "everything-announced-at-the-pc-gaming-show-tokyo-direct-2026",
-      "titre": "Everything announced at the PC Gaming Show Tokyo Direct 2026",
-      "url": "https://www.pcgamer.com/gaming-industry/events-conferences/everything-announced-at-the-pc-gaming-show-tokyo-direct-2026/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/everything-announced-at-the-pc-gaming-show-tokyo-direct-2026/",
-          "titre": "Everything announced at the PC Gaming Show Tokyo Direct 2026"
-        }
-      ]
-    },
-    {
-      "id": "take-to-the-skies-and-shoot-your-mates-in-the-face-with-a-sh",
-      "titre": "Take to the skies and shoot your mates in the face with a shotgun in Fish & Ships",
-      "url": "https://www.pcgamer.com/games/action/take-to-the-skies-and-shoot-your-mates-in-the-face-with-a-shotgun-in-fish-and-ships/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/take-to-the-skies-and-shoot-your-mates-in-the-face-with-a-shotgun-in-fish-and-ships/",
-          "titre": "Take to the skies and shoot your mates in the face with a shotgun in Fish & Ships"
-        }
-      ]
-    },
-    {
-      "id": "feel-like-a-kid-again-when-toy-car-game-obstacle-overdrive-l",
-      "titre": "Feel like a kid again when toy car game Obstacle Overdrive launches October 2",
-      "url": "https://www.pcgamer.com/games/racing/feel-like-a-kid-again-when-toy-car-game-obstacle-overdrive-launches-october-2/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/racing/feel-like-a-kid-again-when-toy-car-game-obstacle-overdrive-launches-october-2/",
-          "titre": "Feel like a kid again when toy car game Obstacle Overdrive launches October 2"
-        }
-      ]
-    },
-    {
-      "id": "i-lost-hours-to-this-roguelike-card-based-city-builder-even",
-      "titre": "I lost hours to this roguelike card-based city builder even though I had no idea how all of those words could fit together",
-      "url": "https://www.pcgamer.com/games/roguelike/i-lost-hours-to-this-roguelike-card-based-city-builder-even-though-i-had-no-idea-how-all-of-those-words-could-fit-together/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/roguelike/i-lost-hours-to-this-roguelike-card-based-city-builder-even-though-i-had-no-idea-how-all-of-those-words-could-fit-together/",
-          "titre": "I lost hours to this roguelike card-based city builder even though I had no idea how all of those words could fit together"
-        }
-      ]
-    },
-    {
-      "id": "solarpunk-mmo-loftia-is-launching-into-early-access-november",
-      "titre": "Solarpunk MMO Loftia is launching into early access November 3",
-      "url": "https://www.pcgamer.com/games/mmo/solarpunk-mmo-loftia-is-launching-into-early-access-november-3/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/solarpunk-mmo-loftia-is-launching-into-early-access-november-3/",
-          "titre": "Solarpunk MMO Loftia is launching into early access November 3"
-        }
-      ]
-    },
-    {
-      "id": "unlock-your-inner-superman-with-a-new-demo-from-undefeated-g",
-      "titre": "Unlock your inner Superman with a new demo from Undefeated: Genesis",
-      "url": "https://www.pcgamer.com/games/action/unlock-your-inner-superman-with-a-new-demo-from-undefeated-genesis/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/unlock-your-inner-superman-with-a-new-demo-from-undefeated-genesis/",
-          "titre": "Unlock your inner Superman with a new demo from Undefeated: Genesis"
-        }
-      ]
-    },
-    {
-      "id": "marked-for-mayhem-is-a-4-player-dungeon-crawler-that-wants-y",
-      "titre": "Marked For Mayhem is a 4-player dungeon crawler that wants you to try to win as a team while also beating all your teammates as a player—good luck",
-      "url": "https://www.pcgamer.com/games/action/marked-for-mayhem-is-a-4-player-dungeon-crawler-that-wants-you-to-try-to-win-as-a-team-while-also-beating-all-your-teammates-as-a-player-good-luck/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/marked-for-mayhem-is-a-4-player-dungeon-crawler-that-wants-you-to-try-to-win-as-a-team-while-also-beating-all-your-teammates-as-a-player-good-luck/",
-          "titre": "Marked For Mayhem is a 4-player dungeon crawler that wants you to try to win as a team while also beating all your teammates as a player—good luck"
-        }
-      ]
-    },
-    {
-      "id": "robots-versus-fungi-fps-mycopunk-is-leaving-early-access-nex",
-      "titre": "Robots versus fungi FPS Mycopunk is leaving early access next month",
-      "url": "https://www.pcgamer.com/games/action/robots-versus-fungi-fps-mycopunk-is-leaving-early-access-next-month/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/robots-versus-fungi-fps-mycopunk-is-leaving-early-access-next-month/",
-          "titre": "Robots versus fungi FPS Mycopunk is leaving early access next month"
-        }
-      ]
-    },
-    {
-      "id": "virtue-and-a-sledgehammer-announces-october-27-release-date",
-      "titre": "Virtue and a Sledgehammer announces October 27 release date with another banger of a trailer",
-      "url": "https://www.pcgamer.com/games/action/virtue-and-a-sledgehammer-announces-october-27-release-date-with-another-banger-of-a-trailer/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/virtue-and-a-sledgehammer-announces-october-27-release-date-with-another-banger-of-a-trailer/",
-          "titre": "Virtue and a Sledgehammer announces October 27 release date with another banger of a trailer"
-        }
-      ]
-    },
-    {
-      "id": "the-new-game-from-lorn-s-lure-s-developer-is-also-set-in-the",
-      "titre": "The new game from Lorn's Lure's developer is also set in the creepy world, and this one's a horror flight sim",
-      "url": "https://www.pcgamer.com/games/horror/the-new-game-from-lorns-lures-developer-is-also-set-in-the-creepy-world-and-this-ones-a-horror-flight-sim/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/the-new-game-from-lorns-lures-developer-is-also-set-in-the-creepy-world-and-this-ones-a-horror-flight-sim/",
-          "titre": "The new game from Lorn's Lure's developer is also set in the creepy world, and this one's a horror flight sim"
-        }
-      ]
-    },
-    {
-      "id": "defend-your-farm-from-a-gaze-of-raccoons-in-this-charming-to",
-      "titre": "Defend your farm from a gaze of raccoons in this charming tower defense roguelite, out tomorrow",
-      "url": "https://www.pcgamer.com/games/roguelike/defend-your-farm-from-a-gaze-of-raccoons-in-this-charming-tower-defense-roguelite-out-tomorrow/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/roguelike/defend-your-farm-from-a-gaze-of-raccoons-in-this-charming-tower-defense-roguelite-out-tomorrow/",
-          "titre": "Defend your farm from a gaze of raccoons in this charming tower defense roguelite, out tomorrow"
-        }
-      ]
-    },
-    {
-      "id": "we-just-saw-a-big-chunk-of-thief-remastered-gameplay-and-i-m",
-      "titre": "We just saw a big chunk of Thief Remastered gameplay, and I'm more desperate than ever to play",
-      "url": "https://www.pcgamer.com/games/sim/we-just-saw-a-big-chunk-of-thief-remastered-gameplay-and-im-more-desperate-than-ever-to-play/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/we-just-saw-a-big-chunk-of-thief-remastered-gameplay-and-im-more-desperate-than-ever-to-play/",
-          "titre": "We just saw a big chunk of Thief Remastered gameplay, and I'm more desperate than ever to play"
-        }
-      ]
-    },
-    {
-      "id": "core-keeper-s-riders-of-the-underground-update-drops-tomorro",
-      "titre": "Core Keeper's Riders of the Underground update drops tomorrow, and you can get a sneak peek of it right here",
-      "url": "https://www.pcgamer.com/games/action/core-keepers-riders-of-the-underground-update-drops-tomorrow-and-you-can-get-a-sneak-peek-of-it-right-here/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/core-keepers-riders-of-the-underground-update-drops-tomorrow-and-you-can-get-a-sneak-peek-of-it-right-here/",
-          "titre": "Core Keeper's Riders of the Underground update drops tomorrow, and you can get a sneak peek of it right here"
         }
       ]
     },
@@ -599,7 +347,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 6,
       "liens": [
         {
@@ -617,7 +365,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.2,
       "chaleur": 5,
       "liens": [
         {
@@ -635,7 +383,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 15.8,
       "chaleur": 5,
       "liens": [
         {
@@ -653,7 +401,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.3,
+      "heures": 30.3,
       "chaleur": 5,
       "liens": [
         {
@@ -671,13 +419,265 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-1-a-tree-mendous-introduction",
           "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #1 - A Tree-mendous Introduction"
+        }
+      ]
+    },
+    {
+      "id": "i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6",
+      "titre": "'I Love Sony': Kojima Unsure if Physint Will Ever Come to PS6, Hasn't Decided on Decima Engine",
+      "url": "https://www.pushsquare.com/news/2026/09/i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6-hasnt-decided-on-decima-engine",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6-hasnt-decided-on-decima-engine",
+          "titre": "'I Love Sony': Kojima Unsure if Physint Will Ever Come to PS6, Hasn't Decided on Decima Engine"
+        }
+      ]
+    },
+    {
+      "id": "everything-announced-at-the-pc-gaming-show-tokyo-direct-2026",
+      "titre": "Everything announced at the PC Gaming Show Tokyo Direct 2026",
+      "url": "https://www.pcgamer.com/gaming-industry/events-conferences/everything-announced-at-the-pc-gaming-show-tokyo-direct-2026/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/everything-announced-at-the-pc-gaming-show-tokyo-direct-2026/",
+          "titre": "Everything announced at the PC Gaming Show Tokyo Direct 2026"
+        }
+      ]
+    },
+    {
+      "id": "take-to-the-skies-and-shoot-your-mates-in-the-face-with-a-sh",
+      "titre": "Take to the skies and shoot your mates in the face with a shotgun in Fish & Ships",
+      "url": "https://www.pcgamer.com/games/action/take-to-the-skies-and-shoot-your-mates-in-the-face-with-a-shotgun-in-fish-and-ships/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/take-to-the-skies-and-shoot-your-mates-in-the-face-with-a-shotgun-in-fish-and-ships/",
+          "titre": "Take to the skies and shoot your mates in the face with a shotgun in Fish & Ships"
+        }
+      ]
+    },
+    {
+      "id": "feel-like-a-kid-again-when-toy-car-game-obstacle-overdrive-l",
+      "titre": "Feel like a kid again when toy car game Obstacle Overdrive launches October 2",
+      "url": "https://www.pcgamer.com/games/racing/feel-like-a-kid-again-when-toy-car-game-obstacle-overdrive-launches-october-2/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/racing/feel-like-a-kid-again-when-toy-car-game-obstacle-overdrive-launches-october-2/",
+          "titre": "Feel like a kid again when toy car game Obstacle Overdrive launches October 2"
+        }
+      ]
+    },
+    {
+      "id": "i-lost-hours-to-this-roguelike-card-based-city-builder-even",
+      "titre": "I lost hours to this roguelike card-based city builder even though I had no idea how all of those words could fit together",
+      "url": "https://www.pcgamer.com/games/roguelike/i-lost-hours-to-this-roguelike-card-based-city-builder-even-though-i-had-no-idea-how-all-of-those-words-could-fit-together/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/roguelike/i-lost-hours-to-this-roguelike-card-based-city-builder-even-though-i-had-no-idea-how-all-of-those-words-could-fit-together/",
+          "titre": "I lost hours to this roguelike card-based city builder even though I had no idea how all of those words could fit together"
+        }
+      ]
+    },
+    {
+      "id": "solarpunk-mmo-loftia-is-launching-into-early-access-november",
+      "titre": "Solarpunk MMO Loftia is launching into early access November 3",
+      "url": "https://www.pcgamer.com/games/mmo/solarpunk-mmo-loftia-is-launching-into-early-access-november-3/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mmo/solarpunk-mmo-loftia-is-launching-into-early-access-november-3/",
+          "titre": "Solarpunk MMO Loftia is launching into early access November 3"
+        }
+      ]
+    },
+    {
+      "id": "unlock-your-inner-superman-with-a-new-demo-from-undefeated-g",
+      "titre": "Unlock your inner Superman with a new demo from Undefeated: Genesis",
+      "url": "https://www.pcgamer.com/games/action/unlock-your-inner-superman-with-a-new-demo-from-undefeated-genesis/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/unlock-your-inner-superman-with-a-new-demo-from-undefeated-genesis/",
+          "titre": "Unlock your inner Superman with a new demo from Undefeated: Genesis"
+        }
+      ]
+    },
+    {
+      "id": "marked-for-mayhem-is-a-4-player-dungeon-crawler-that-wants-y",
+      "titre": "Marked For Mayhem is a 4-player dungeon crawler that wants you to try to win as a team while also beating all your teammates as a player—good luck",
+      "url": "https://www.pcgamer.com/games/action/marked-for-mayhem-is-a-4-player-dungeon-crawler-that-wants-you-to-try-to-win-as-a-team-while-also-beating-all-your-teammates-as-a-player-good-luck/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/marked-for-mayhem-is-a-4-player-dungeon-crawler-that-wants-you-to-try-to-win-as-a-team-while-also-beating-all-your-teammates-as-a-player-good-luck/",
+          "titre": "Marked For Mayhem is a 4-player dungeon crawler that wants you to try to win as a team while also beating all your teammates as a player—good luck"
+        }
+      ]
+    },
+    {
+      "id": "robots-versus-fungi-fps-mycopunk-is-leaving-early-access-nex",
+      "titre": "Robots versus fungi FPS Mycopunk is leaving early access next month",
+      "url": "https://www.pcgamer.com/games/action/robots-versus-fungi-fps-mycopunk-is-leaving-early-access-next-month/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/robots-versus-fungi-fps-mycopunk-is-leaving-early-access-next-month/",
+          "titre": "Robots versus fungi FPS Mycopunk is leaving early access next month"
+        }
+      ]
+    },
+    {
+      "id": "virtue-and-a-sledgehammer-announces-october-27-release-date",
+      "titre": "Virtue and a Sledgehammer announces October 27 release date with another banger of a trailer",
+      "url": "https://www.pcgamer.com/games/action/virtue-and-a-sledgehammer-announces-october-27-release-date-with-another-banger-of-a-trailer/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/virtue-and-a-sledgehammer-announces-october-27-release-date-with-another-banger-of-a-trailer/",
+          "titre": "Virtue and a Sledgehammer announces October 27 release date with another banger of a trailer"
+        }
+      ]
+    },
+    {
+      "id": "the-new-game-from-lorn-s-lure-s-developer-is-also-set-in-the",
+      "titre": "The new game from Lorn's Lure's developer is also set in the creepy world, and this one's a horror flight sim",
+      "url": "https://www.pcgamer.com/games/horror/the-new-game-from-lorns-lures-developer-is-also-set-in-the-creepy-world-and-this-ones-a-horror-flight-sim/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/the-new-game-from-lorns-lures-developer-is-also-set-in-the-creepy-world-and-this-ones-a-horror-flight-sim/",
+          "titre": "The new game from Lorn's Lure's developer is also set in the creepy world, and this one's a horror flight sim"
+        }
+      ]
+    },
+    {
+      "id": "defend-your-farm-from-a-gaze-of-raccoons-in-this-charming-to",
+      "titre": "Defend your farm from a gaze of raccoons in this charming tower defense roguelite, out tomorrow",
+      "url": "https://www.pcgamer.com/games/roguelike/defend-your-farm-from-a-gaze-of-raccoons-in-this-charming-tower-defense-roguelite-out-tomorrow/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/roguelike/defend-your-farm-from-a-gaze-of-raccoons-in-this-charming-tower-defense-roguelite-out-tomorrow/",
+          "titre": "Defend your farm from a gaze of raccoons in this charming tower defense roguelite, out tomorrow"
+        }
+      ]
+    },
+    {
+      "id": "we-just-saw-a-big-chunk-of-thief-remastered-gameplay-and-i-m",
+      "titre": "We just saw a big chunk of Thief Remastered gameplay, and I'm more desperate than ever to play",
+      "url": "https://www.pcgamer.com/games/sim/we-just-saw-a-big-chunk-of-thief-remastered-gameplay-and-im-more-desperate-than-ever-to-play/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/we-just-saw-a-big-chunk-of-thief-remastered-gameplay-and-im-more-desperate-than-ever-to-play/",
+          "titre": "We just saw a big chunk of Thief Remastered gameplay, and I'm more desperate than ever to play"
+        }
+      ]
+    },
+    {
+      "id": "core-keeper-s-riders-of-the-underground-update-drops-tomorro",
+      "titre": "Core Keeper's Riders of the Underground update drops tomorrow, and you can get a sneak peek of it right here",
+      "url": "https://www.pcgamer.com/games/action/core-keepers-riders-of-the-underground-update-drops-tomorrow-and-you-can-get-a-sneak-peek-of-it-right-here/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/core-keepers-riders-of-the-underground-update-drops-tomorrow-and-you-can-get-a-sneak-peek-of-it-right-here/",
+          "titre": "Core Keeper's Riders of the Underground update drops tomorrow, and you can get a sneak peek of it right here"
         }
       ]
     },
@@ -689,7 +689,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -707,7 +707,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -725,7 +725,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -743,7 +743,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -761,7 +761,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.2,
       "chaleur": 4,
       "liens": [
         {
@@ -779,7 +779,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -797,7 +797,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -815,8 +815,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -833,8 +833,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -851,8 +851,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -869,7 +869,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 27.3,
       "chaleur": 3,
       "liens": [
         {
@@ -887,7 +887,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.8,
+      "heures": 29.8,
       "chaleur": 3,
       "liens": [
         {
@@ -905,7 +905,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 28.8,
+      "heures": 30.8,
       "chaleur": 3,
       "liens": [
         {
@@ -923,7 +923,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 30.3,
+      "heures": 32.3,
       "chaleur": 3,
       "liens": [
         {
@@ -941,49 +941,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-21st-27th-september",
           "titre": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (21st - 27th September)"
-        }
-      ]
-    },
-    {
-      "id": "hoyoverse-s-nodusfall-might-look-like-elden-ring-but-there-s",
-      "titre": "HoYoverse's Nodusfall might look like Elden Ring, but there's a promising dark fantasy action game here that took me by surprise",
-      "url": "https://www.eurogamer.net/nodusfall-gamescom-preview",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nodusfall-gamescom-preview",
-          "titre": "HoYoverse's Nodusfall might look like Elden Ring, but there's a promising dark fantasy action game here that took me by surprise"
-        }
-      ]
-    },
-    {
-      "id": "talking-point-what-are-you-playing-this-weekend-19th-septemb",
-      "titre": "Talking Point: What Are You Playing This Weekend? (19th September)",
-      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-19th-september",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-19th-september",
-          "titre": "Talking Point: What Are You Playing This Weekend? (19th September)"
         }
       ]
     }
