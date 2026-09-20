@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "20/09/2026 à 12h23",
+  "collecte": "20/09/2026 à 14h18",
   "seuil": 14,
   "sujets": [
     {
@@ -11,7 +11,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.7,
       "chaleur": 11,
       "liens": [
         {
@@ -30,7 +30,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.7,
+      "heures": 3.6,
       "chaleur": 9,
       "liens": [
         {
@@ -54,7 +54,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.8,
+      "heures": 3.7,
       "chaleur": 9,
       "liens": [
         {
@@ -77,7 +77,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 8,
       "liens": [
         {
@@ -322,6 +322,114 @@ const VEILLE = {
       ]
     },
     {
+      "id": "hideo-kojima-responds-to-accusations-of-physint-being-over-b",
+      "titre": "Hideo Kojima responds to accusations of Physint being over budget and late on deadline, says he still \"loves Sony\" despite collapse of publishing deal",
+      "url": "https://www.eurogamer.net/hideo-kojima-loves-sony-playstation-physint",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/hideo-kojima-loves-sony-playstation-physint",
+          "titre": "Hideo Kojima responds to accusations of Physint being over budget and late on deadline, says he still \"loves Sony\" despite collapse of publishing deal"
+        }
+      ]
+    },
+    {
+      "id": "the-latest-co-op-indie-game-to-take-over-the-internet-is-lik",
+      "titre": "The latest co-op indie game to take over the internet is like one of my favourite board games, just with bombs",
+      "url": "https://www.pcgamer.com/games/puzzle/the-latest-co-op-indie-game-to-take-over-the-internet-is-like-one-of-my-favourite-board-games-just-with-bombs/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/puzzle/the-latest-co-op-indie-game-to-take-over-the-internet-is-like-one-of-my-favourite-board-games-just-with-bombs/",
+          "titre": "The latest co-op indie game to take over the internet is like one of my favourite board games, just with bombs"
+        }
+      ]
+    },
+    {
+      "id": "terrifying-phenomenon-seen-in-new-york-city",
+      "titre": "‘Terrifying’ phenomenon seen in New York City",
+      "url": "https://www.videogameschronicle.com/news/terrifying-phenomenon-seen-in-new-york-city/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/terrifying-phenomenon-seen-in-new-york-city/",
+          "titre": "‘Terrifying’ phenomenon seen in New York City"
+        }
+      ]
+    },
+    {
+      "id": "hideo-kojima-says-he-was-shocked-after-sony-cut-ties-with-ph",
+      "titre": "Hideo Kojima says he was 'shocked' after Sony cut ties with Physint over a Zoom call: 'Nothing could’ve prepared me for their decision to step away from the project'",
+      "url": "https://www.pcgamer.com/gaming-industry/hideo-kojima-says-he-was-shocked-after-sony-cut-ties-with-physint-over-a-zoom-call-nothing-couldve-prepared-me-for-their-decision-to-step-away-from-the-project/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/hideo-kojima-says-he-was-shocked-after-sony-cut-ties-with-physint-over-a-zoom-call-nothing-couldve-prepared-me-for-their-decision-to-step-away-from-the-project/",
+          "titre": "Hideo Kojima says he was 'shocked' after Sony cut ties with Physint over a Zoom call: 'Nothing could’ve prepared me for their decision to step away from the project'"
+        }
+      ]
+    },
+    {
+      "id": "blizzard-developer-says-world-of-warcraft-forever-s-beta-num",
+      "titre": "Blizzard developer says World of Warcraft: Forever's beta numbers are the \"craziest\" he's seen in 17 years",
+      "url": "https://www.eurogamer.net/world-of-warcraft-forever-beta-craziest-numbers-blizzard",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/world-of-warcraft-forever-beta-craziest-numbers-blizzard",
+          "titre": "Blizzard developer says World of Warcraft: Forever's beta numbers are the \"craziest\" he's seen in 17 years"
+        }
+      ]
+    },
+    {
+      "id": "splatoon-raiders-dev-team-apparently-has-no-plans-for-dlc",
+      "titre": "Splatoon Raiders Dev Team Apparently Has No Plans For DLC",
+      "url": "https://www.nintendolife.com/news/2026/09/splatoon-raiders-dev-team-apparently-has-no-plans-for-dlc",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/splatoon-raiders-dev-team-apparently-has-no-plans-for-dlc",
+          "titre": "Splatoon Raiders Dev Team Apparently Has No Plans For DLC"
+        }
+      ]
+    },
+    {
       "id": "i-urge-you-to-check-out-this-hidden-object-game-where-you-pl",
       "titre": "I urge you to check out this hidden object game where you play as the world's most helpful sniper",
       "url": "https://www.pcgamer.com/games/fps/i-urge-you-to-check-out-this-hidden-object-game-where-you-play-as-the-worlds-most-helpful-sniper/",
@@ -329,7 +437,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -347,85 +455,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/clive-barkers-hellraiser-revival-demo-scarlet-church-trailer",
           "titre": "Clive Barker's Hellraiser: Revival gets a playable demo and a new trailer ahead of its October launch"
-        }
-      ]
-    },
-    {
-      "id": "tokyo-walled-city-looks-set-to-fill-the-deus-ex-shaped-hole",
-      "titre": "Tokyo Walled City looks set to fill the Deus Ex-shaped hole in my life",
-      "url": "https://www.pcgamer.com/games/action/tokyo-walled-city-looks-set-to-fill-the-deus-ex-shaped-hole-in-my-life/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/tokyo-walled-city-looks-set-to-fill-the-deus-ex-shaped-hole-in-my-life/",
-          "titre": "Tokyo Walled City looks set to fill the Deus Ex-shaped hole in my life"
-        }
-      ]
-    },
-    {
-      "id": "wolverine-developer-insomniac-denies-using-generative-ai-aft",
-      "titre": "Wolverine developer Insomniac denies using generative AI after fans spot strange restroom sign",
-      "url": "https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign",
-          "titre": "Wolverine developer Insomniac denies using generative AI after fans spot strange restroom sign"
-        }
-      ]
-    },
-    {
-      "id": "the-sunday-papers",
-      "titre": "The Sunday Papers",
-      "url": "https://www.rockpapershotgun.com/the-sunday-papers-828",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-sunday-papers-828",
-          "titre": "The Sunday Papers"
-        }
-      ]
-    },
-    {
-      "id": "feature-box-art-brawl-duel-cubivore-survival-of-the-fittest",
-      "titre": "Feature: Box Art Brawl - Duel: Cubivore: Survival Of The Fittest",
-      "url": "https://www.nintendolife.com/features/box-art-brawl-duel-cubivore-survival-of-the-fittest",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/box-art-brawl-duel-cubivore-survival-of-the-fittest",
-          "titre": "Feature: Box Art Brawl - Duel: Cubivore: Survival Of The Fittest"
         }
       ]
     },
@@ -437,7 +473,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.2,
       "chaleur": 6,
       "liens": [
         {
@@ -455,7 +491,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.8,
       "chaleur": 6,
       "liens": [
         {
@@ -473,7 +509,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 18.5,
       "chaleur": 6,
       "liens": [
         {
@@ -491,7 +527,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 20.1,
       "chaleur": 6,
       "liens": [
         {
@@ -510,7 +546,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 27.4,
+      "heures": 29.3,
       "chaleur": 6,
       "liens": [
         {
@@ -533,7 +569,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.3,
       "chaleur": 5,
       "liens": [
         {
@@ -551,7 +587,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.3,
       "chaleur": 5,
       "liens": [
         {
@@ -569,7 +605,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.9,
+      "heures": 30.8,
       "chaleur": 5,
       "liens": [
         {
@@ -587,7 +623,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 32.9,
+      "heures": 34.8,
       "chaleur": 5,
       "liens": [
         {
@@ -598,38 +634,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "dragon-s-dogma-2-on-switch-2-uses-frame-generation",
-      "titre": "Dragon's Dogma 2 On Switch 2 Uses Frame Generation",
-      "url": "https://www.nintendolife.com/news/2026/09/dragons-dogma-2-on-switch-2-uses-frame-generation",
+      "id": "tokyo-walled-city-looks-set-to-fill-the-deus-ex-shaped-hole",
+      "titre": "Tokyo Walled City looks set to fill the Deus Ex-shaped hole in my life",
+      "url": "https://www.pcgamer.com/games/action/tokyo-walled-city-looks-set-to-fill-the-deus-ex-shaped-hole-in-my-life/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 34.6,
-      "chaleur": 5,
+      "heures": 4.3,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/dragons-dogma-2-on-switch-2-uses-frame-generation",
-          "titre": "Dragon's Dogma 2 On Switch 2 Uses Frame Generation"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/tokyo-walled-city-looks-set-to-fill-the-deus-ex-shaped-hole-in-my-life/",
+          "titre": "Tokyo Walled City looks set to fill the Deus Ex-shaped hole in my life"
         }
       ]
     },
     {
-      "id": "the-elder-scrolls-iv-oblivion-remastered-switch-2-update-1-1",
-      "titre": "The Elder Scrolls IV: Oblivion Remastered Switch 2 Update 1.1 Now Live, Here Are The Full Patch Notes",
-      "url": "https://www.nintendolife.com/news/2026/09/the-elder-scrolls-iv-oblivion-remastered-switch-2-update-1-1-now-live-here-are-the-full-patch-notes",
+      "id": "wolverine-developer-insomniac-denies-using-generative-ai-aft",
+      "titre": "Wolverine developer Insomniac denies using generative AI after fans spot strange restroom sign",
+      "url": "https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign",
+          "titre": "Wolverine developer Insomniac denies using generative AI after fans spot strange restroom sign"
+        }
+      ]
+    },
+    {
+      "id": "the-sunday-papers",
+      "titre": "The Sunday Papers",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-828",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-sunday-papers-828",
+          "titre": "The Sunday Papers"
+        }
+      ]
+    },
+    {
+      "id": "feature-box-art-brawl-duel-cubivore-survival-of-the-fittest",
+      "titre": "Feature: Box Art Brawl - Duel: Cubivore: Survival Of The Fittest",
+      "url": "https://www.nintendolife.com/features/box-art-brawl-duel-cubivore-survival-of-the-fittest",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 35.6,
-      "chaleur": 5,
+      "heures": 5.3,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/the-elder-scrolls-iv-oblivion-remastered-switch-2-update-1-1-now-live-here-are-the-full-patch-notes",
-          "titre": "The Elder Scrolls IV: Oblivion Remastered Switch 2 Update 1.1 Now Live, Here Are The Full Patch Notes"
+          "url": "https://www.nintendolife.com/features/box-art-brawl-duel-cubivore-survival-of-the-fittest",
+          "titre": "Feature: Box Art Brawl - Duel: Cubivore: Survival Of The Fittest"
         }
       ]
     },
@@ -641,7 +713,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -659,7 +731,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
@@ -677,7 +749,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 20.1,
       "chaleur": 3,
       "liens": [
         {
@@ -695,7 +767,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 21.8,
       "chaleur": 3,
       "liens": [
         {
@@ -713,7 +785,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.3,
       "chaleur": 3,
       "liens": [
         {
@@ -731,7 +803,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.9,
+      "heures": 22.8,
       "chaleur": 3,
       "liens": [
         {
@@ -749,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.4,
       "chaleur": 3,
       "liens": [
         {
@@ -767,7 +839,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.6,
+      "heures": 23.5,
       "chaleur": 3,
       "liens": [
         {
@@ -785,7 +857,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.3,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +875,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.3,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +893,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.9,
+      "heures": 24.8,
       "chaleur": 3,
       "liens": [
         {
@@ -839,7 +911,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 25.0,
+      "heures": 27.0,
       "chaleur": 3,
       "liens": [
         {
@@ -857,7 +929,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.3,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +947,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 26.2,
+      "heures": 28.2,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +965,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 29.3,
       "chaleur": 3,
       "liens": [
         {
@@ -911,7 +983,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 31.3,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +1001,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.9,
+      "heures": 33.8,
       "chaleur": 3,
       "liens": [
         {
