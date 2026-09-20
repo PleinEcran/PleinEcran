@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "20/09/2026 à 16h19",
+  "collecte": "20/09/2026 à 18h21",
   "seuil": 14,
   "sujets": [
     {
@@ -11,13 +11,31 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.8,
       "chaleur": 9,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/kojima-productions-asks-players-to-treat-report-on-why-it-switched-from-playstation-to-xbox-with-a-dose-of-scepticism/",
           "titre": "Kojima Productions asks players to treat report on why it switched from PlayStation to Xbox ‘with a dose of scepticism’"
+        }
+      ]
+    },
+    {
+      "id": "cairn-s-delayed-on-the-trail-deep-water-dlc-gets-a-new-relea",
+      "titre": "Cairn's delayed On the Trail: Deep Water DLC gets a new release date, and you don't have long to wait",
+      "url": "https://www.pcgamer.com/games/sim/cairns-delayed-on-the-trail-deep-water-dlc-gets-a-new-release-date-and-you-dont-have-long-to-wait/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/cairns-delayed-on-the-trail-deep-water-dlc-gets-a-new-release-date-and-you-dont-have-long-to-wait/",
+          "titre": "Cairn's delayed On the Trail: Deep Water DLC gets a new release date, and you don't have long to wait"
         }
       ]
     },
@@ -30,7 +48,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.6,
+      "heures": 7.7,
       "chaleur": 7,
       "liens": [
         {
@@ -54,7 +72,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.7,
+      "heures": 7.7,
       "chaleur": 7,
       "liens": [
         {
@@ -304,128 +322,272 @@ const VEILLE = {
       ]
     },
     {
-      "id": "co-op-puzzle-game-we-were-here-tomorrow-is-out-next-month-so",
-      "titre": "Co-op puzzle game We Were Here Tomorrow is out next month, so you've got time to practise your communication skills",
-      "url": "https://www.pcgamer.com/games/puzzle/co-op-puzzle-game-we-were-here-tomorrow-is-out-next-month-so-youve-got-time-to-practise-your-communication-skills/",
+      "id": "i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6",
+      "titre": "'I Love Sony': Kojima Unsure if Physint Will Ever Come to PS6, Hasn't Decided on Decima Engine",
+      "url": "https://www.pushsquare.com/news/2026/09/i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6-hasnt-decided-on-decima-engine",
       "sources": [
-        "PC Gamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 1.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/puzzle/co-op-puzzle-game-we-were-here-tomorrow-is-out-next-month-so-youve-got-time-to-practise-your-communication-skills/",
-          "titre": "Co-op puzzle game We Were Here Tomorrow is out next month, so you've got time to practise your communication skills"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6-hasnt-decided-on-decima-engine",
+          "titre": "'I Love Sony': Kojima Unsure if Physint Will Ever Come to PS6, Hasn't Decided on Decima Engine"
         }
       ]
     },
     {
-      "id": "night-plane-is-a-horror-game-designed-to-scare-me-specifical",
-      "titre": "Night Plane is a horror game designed to scare me, specifically, because I hate flying—and deer demons",
-      "url": "https://www.pcgamer.com/games/horror/night-plane-is-a-horror-game-designed-to-scare-me-specifically-because-i-hate-flying-and-deer-demons/",
+      "id": "everything-announced-at-the-pc-gaming-show-tokyo-direct-2026",
+      "titre": "Everything announced at the PC Gaming Show Tokyo Direct 2026",
+      "url": "https://www.pcgamer.com/gaming-industry/events-conferences/everything-announced-at-the-pc-gaming-show-tokyo-direct-2026/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 1.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/night-plane-is-a-horror-game-designed-to-scare-me-specifically-because-i-hate-flying-and-deer-demons/",
-          "titre": "Night Plane is a horror game designed to scare me, specifically, because I hate flying—and deer demons"
+          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/everything-announced-at-the-pc-gaming-show-tokyo-direct-2026/",
+          "titre": "Everything announced at the PC Gaming Show Tokyo Direct 2026"
         }
       ]
     },
     {
-      "id": "videogame-development-sim-let-s-build-a-dungeon-launches-int",
-      "titre": "Videogame development sim Let's Build a Dungeon launches into early access February 11",
-      "url": "https://www.pcgamer.com/games/sim/videogame-development-sim-lets-build-a-dungeon-launches-into-early-access-february-11/",
+      "id": "take-to-the-skies-and-shoot-your-mates-in-the-face-with-a-sh",
+      "titre": "Take to the skies and shoot your mates in the face with a shotgun in Fish & Ships",
+      "url": "https://www.pcgamer.com/games/action/take-to-the-skies-and-shoot-your-mates-in-the-face-with-a-shotgun-in-fish-and-ships/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 1.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/videogame-development-sim-lets-build-a-dungeon-launches-into-early-access-february-11/",
-          "titre": "Videogame development sim Let's Build a Dungeon launches into early access February 11"
+          "url": "https://www.pcgamer.com/games/action/take-to-the-skies-and-shoot-your-mates-in-the-face-with-a-shotgun-in-fish-and-ships/",
+          "titre": "Take to the skies and shoot your mates in the face with a shotgun in Fish & Ships"
         }
       ]
     },
     {
-      "id": "in-falsus-is-a-delightfully-unforgiving-rhythm-game-though-i",
-      "titre": "In Falsus is a delightfully unforgiving rhythm game, though its best tracks are locked behind an unimpressive story",
-      "url": "https://www.pcgamer.com/games/rhythm/in-falsus-is-a-delightfully-unforgiving-rhythm-game-though-its-best-tracks-are-locked-behind-an-unimpressive-story/",
+      "id": "feel-like-a-kid-again-when-toy-car-game-obstacle-overdrive-l",
+      "titre": "Feel like a kid again when toy car game Obstacle Overdrive launches October 2",
+      "url": "https://www.pcgamer.com/games/racing/feel-like-a-kid-again-when-toy-car-game-obstacle-overdrive-launches-october-2/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 1.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rhythm/in-falsus-is-a-delightfully-unforgiving-rhythm-game-though-its-best-tracks-are-locked-behind-an-unimpressive-story/",
-          "titre": "In Falsus is a delightfully unforgiving rhythm game, though its best tracks are locked behind an unimpressive story"
+          "url": "https://www.pcgamer.com/games/racing/feel-like-a-kid-again-when-toy-car-game-obstacle-overdrive-launches-october-2/",
+          "titre": "Feel like a kid again when toy car game Obstacle Overdrive launches October 2"
         }
       ]
     },
     {
-      "id": "lead-your-legions-to-glory-in-asynchronous-autobattler-fool",
-      "titre": "Lead your legions to glory in asynchronous autobattler Fool King, launching later this year",
-      "url": "https://www.pcgamer.com/games/action/lead-your-legions-to-glory-in-asynchronous-autobattler-fool-king-launching-later-this-year/",
+      "id": "i-lost-hours-to-this-roguelike-card-based-city-builder-even",
+      "titre": "I lost hours to this roguelike card-based city builder even though I had no idea how all of those words could fit together",
+      "url": "https://www.pcgamer.com/games/roguelike/i-lost-hours-to-this-roguelike-card-based-city-builder-even-though-i-had-no-idea-how-all-of-those-words-could-fit-together/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 1.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/lead-your-legions-to-glory-in-asynchronous-autobattler-fool-king-launching-later-this-year/",
-          "titre": "Lead your legions to glory in asynchronous autobattler Fool King, launching later this year"
+          "url": "https://www.pcgamer.com/games/roguelike/i-lost-hours-to-this-roguelike-card-based-city-builder-even-though-i-had-no-idea-how-all-of-those-words-could-fit-together/",
+          "titre": "I lost hours to this roguelike card-based city builder even though I had no idea how all of those words could fit together"
         }
       ]
     },
     {
-      "id": "iconic-rpg-lufia-is-finally-coming-to-pc-with-the-first-two",
-      "titre": "Iconic RPG Lufia is finally coming to PC, with the first two games in the series due next year",
-      "url": "https://www.pcgamer.com/games/rpg/iconic-rpg-lufia-is-finally-coming-to-pc-with-the-first-two-games-in-the-series-due-next-year/",
+      "id": "solarpunk-mmo-loftia-is-launching-into-early-access-november",
+      "titre": "Solarpunk MMO Loftia is launching into early access November 3",
+      "url": "https://www.pcgamer.com/games/mmo/solarpunk-mmo-loftia-is-launching-into-early-access-november-3/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 1.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/iconic-rpg-lufia-is-finally-coming-to-pc-with-the-first-two-games-in-the-series-due-next-year/",
-          "titre": "Iconic RPG Lufia is finally coming to PC, with the first two games in the series due next year"
+          "url": "https://www.pcgamer.com/games/mmo/solarpunk-mmo-loftia-is-launching-into-early-access-november-3/",
+          "titre": "Solarpunk MMO Loftia is launching into early access November 3"
         }
       ]
     },
     {
-      "id": "chaotic-multiplayer-really-illegal-golf-debuts-at-the-pc-gam",
-      "titre": "Chaotic multiplayer Really Illegal Golf debuts at the PC Gaming Show Tokyo Direct",
-      "url": "https://www.pcgamer.com/games/action/chaotic-multiplayer-really-illegal-golf-debuts-at-the-pc-gaming-show-tokyo-direct/",
+      "id": "unlock-your-inner-superman-with-a-new-demo-from-undefeated-g",
+      "titre": "Unlock your inner Superman with a new demo from Undefeated: Genesis",
+      "url": "https://www.pcgamer.com/games/action/unlock-your-inner-superman-with-a-new-demo-from-undefeated-genesis/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 1.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/chaotic-multiplayer-really-illegal-golf-debuts-at-the-pc-gaming-show-tokyo-direct/",
-          "titre": "Chaotic multiplayer Really Illegal Golf debuts at the PC Gaming Show Tokyo Direct"
+          "url": "https://www.pcgamer.com/games/action/unlock-your-inner-superman-with-a-new-demo-from-undefeated-genesis/",
+          "titre": "Unlock your inner Superman with a new demo from Undefeated: Genesis"
+        }
+      ]
+    },
+    {
+      "id": "marked-for-mayhem-is-a-4-player-dungeon-crawler-that-wants-y",
+      "titre": "Marked For Mayhem is a 4-player dungeon crawler that wants you to try to win as a team while also beating all your teammates as a player—good luck",
+      "url": "https://www.pcgamer.com/games/action/marked-for-mayhem-is-a-4-player-dungeon-crawler-that-wants-you-to-try-to-win-as-a-team-while-also-beating-all-your-teammates-as-a-player-good-luck/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/marked-for-mayhem-is-a-4-player-dungeon-crawler-that-wants-you-to-try-to-win-as-a-team-while-also-beating-all-your-teammates-as-a-player-good-luck/",
+          "titre": "Marked For Mayhem is a 4-player dungeon crawler that wants you to try to win as a team while also beating all your teammates as a player—good luck"
+        }
+      ]
+    },
+    {
+      "id": "robots-versus-fungi-fps-mycopunk-is-leaving-early-access-nex",
+      "titre": "Robots versus fungi FPS Mycopunk is leaving early access next month",
+      "url": "https://www.pcgamer.com/games/action/robots-versus-fungi-fps-mycopunk-is-leaving-early-access-next-month/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/robots-versus-fungi-fps-mycopunk-is-leaving-early-access-next-month/",
+          "titre": "Robots versus fungi FPS Mycopunk is leaving early access next month"
+        }
+      ]
+    },
+    {
+      "id": "virtue-and-a-sledgehammer-announces-october-27-release-date",
+      "titre": "Virtue and a Sledgehammer announces October 27 release date with another banger of a trailer",
+      "url": "https://www.pcgamer.com/games/action/virtue-and-a-sledgehammer-announces-october-27-release-date-with-another-banger-of-a-trailer/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/virtue-and-a-sledgehammer-announces-october-27-release-date-with-another-banger-of-a-trailer/",
+          "titre": "Virtue and a Sledgehammer announces October 27 release date with another banger of a trailer"
+        }
+      ]
+    },
+    {
+      "id": "the-new-game-from-lorn-s-lure-s-developer-is-also-set-in-the",
+      "titre": "The new game from Lorn's Lure's developer is also set in the creepy world, and this one's a horror flight sim",
+      "url": "https://www.pcgamer.com/games/horror/the-new-game-from-lorns-lures-developer-is-also-set-in-the-creepy-world-and-this-ones-a-horror-flight-sim/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/the-new-game-from-lorns-lures-developer-is-also-set-in-the-creepy-world-and-this-ones-a-horror-flight-sim/",
+          "titre": "The new game from Lorn's Lure's developer is also set in the creepy world, and this one's a horror flight sim"
+        }
+      ]
+    },
+    {
+      "id": "defend-your-farm-from-a-gaze-of-raccoons-in-this-charming-to",
+      "titre": "Defend your farm from a gaze of raccoons in this charming tower defense roguelite, out tomorrow",
+      "url": "https://www.pcgamer.com/games/roguelike/defend-your-farm-from-a-gaze-of-raccoons-in-this-charming-tower-defense-roguelite-out-tomorrow/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/roguelike/defend-your-farm-from-a-gaze-of-raccoons-in-this-charming-tower-defense-roguelite-out-tomorrow/",
+          "titre": "Defend your farm from a gaze of raccoons in this charming tower defense roguelite, out tomorrow"
+        }
+      ]
+    },
+    {
+      "id": "we-just-saw-a-big-chunk-of-thief-remastered-gameplay-and-i-m",
+      "titre": "We just saw a big chunk of Thief Remastered gameplay, and I'm more desperate than ever to play",
+      "url": "https://www.pcgamer.com/games/sim/we-just-saw-a-big-chunk-of-thief-remastered-gameplay-and-im-more-desperate-than-ever-to-play/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/we-just-saw-a-big-chunk-of-thief-remastered-gameplay-and-im-more-desperate-than-ever-to-play/",
+          "titre": "We just saw a big chunk of Thief Remastered gameplay, and I'm more desperate than ever to play"
+        }
+      ]
+    },
+    {
+      "id": "core-keeper-s-riders-of-the-underground-update-drops-tomorro",
+      "titre": "Core Keeper's Riders of the Underground update drops tomorrow, and you can get a sneak peek of it right here",
+      "url": "https://www.pcgamer.com/games/action/core-keepers-riders-of-the-underground-update-drops-tomorrow-and-you-can-get-a-sneak-peek-of-it-right-here/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/core-keepers-riders-of-the-underground-update-drops-tomorrow-and-you-can-get-a-sneak-peek-of-it-right-here/",
+          "titre": "Core Keeper's Riders of the Underground update drops tomorrow, and you can get a sneak peek of it right here"
+        }
+      ]
+    },
+    {
+      "id": "paper-co-op-deckbuilder-hellcard-2-has-a-new-demo-that-you-c",
+      "titre": "Paper co-op deckbuilder Hellcard 2 has a new demo that you can play right now",
+      "url": "https://www.pcgamer.com/games/rpg/paper-co-op-deckbuilder-hellcard-2-has-a-new-demo-that-you-can-play-right-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/paper-co-op-deckbuilder-hellcard-2-has-a-new-demo-that-you-can-play-right-now/",
+          "titre": "Paper co-op deckbuilder Hellcard 2 has a new demo that you can play right now"
         }
       ]
     },
@@ -437,49 +599,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/dynasty-warriors-3-complete-edition-remastered-demo-and-online-two-player-post-launch-update-announced",
           "titre": "Dynasty Warriors 3: Complete Edition Remastered Demo & Online Two-Player Post-Launch Update Announced"
-        }
-      ]
-    },
-    {
-      "id": "mark-darrah-co-director-of-dragon-age-origins-has-played-riv",
-      "titre": "Mark Darrah, co-director of Dragon Age: Origins, has played Riven for 3 minutes and Factorio for 832 hours: 'If you want to know what kind of programmer someone would be, have them play Factorio'",
-      "url": "https://www.pcgamer.com/gaming-industry/mark-darrah-co-director-of-dragon-age-origins-has-played-riven-for-3-minutes-and-factorio-for-832-hours-if-you-want-to-know-what-kind-of-programmer-someone-would-be-have-them-play-factorio/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/mark-darrah-co-director-of-dragon-age-origins-has-played-riven-for-3-minutes-and-factorio-for-832-hours-if-you-want-to-know-what-kind-of-programmer-someone-would-be-have-them-play-factorio/",
-          "titre": "Mark Darrah, co-director of Dragon Age: Origins, has played Riven for 3 minutes and Factorio for 832 hours: 'If you want to know what kind of programmer someone would be, have them play Factorio'"
-        }
-      ]
-    },
-    {
-      "id": "endless-legend-2-shows-that-amplitude-is-still-the-master-of",
-      "titre": "Endless Legend 2 shows that Amplitude is still the master of faction design",
-      "url": "https://www.pcgamer.com/games/strategy/endless-legend-2-shows-that-amplitude-is-still-the-master-of-faction-design/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/endless-legend-2-shows-that-amplitude-is-still-the-master-of-faction-design/",
-          "titre": "Endless Legend 2 shows that Amplitude is still the master of faction design"
         }
       ]
     },
@@ -491,157 +617,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/activision-video-game-cheat-market-8-5-billion-a-year",
           "titre": "Call of Duty maker Activision claims video game cheating is now a £6.3 billion ($8.5 billion) a year industry"
-        }
-      ]
-    },
-    {
-      "id": "i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6",
-      "titre": "'I Love Sony': Kojima Unsure if Physint Will Ever Come to PS6, Hasn't Decided on Decima Engine",
-      "url": "https://www.pushsquare.com/news/2026/09/i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6-hasnt-decided-on-decima-engine",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 0.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6-hasnt-decided-on-decima-engine",
-          "titre": "'I Love Sony': Kojima Unsure if Physint Will Ever Come to PS6, Hasn't Decided on Decima Engine"
-        }
-      ]
-    },
-    {
-      "id": "a-27-year-old-tech-forum-with-over-100-000-warcraft-3-moddin",
-      "titre": "A 27-year-old tech forum with over 100,000 Warcraft 3 modding threads is closing its doors",
-      "url": "https://www.pcgamer.com/games/a-27-year-old-tech-forum-with-over-100-000-warcraft-3-modding-threads-is-closing-its-doors/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/a-27-year-old-tech-forum-with-over-100-000-warcraft-3-modding-threads-is-closing-its-doors/",
-          "titre": "A 27-year-old tech forum with over 100,000 Warcraft 3 modding threads is closing its doors"
-        }
-      ]
-    },
-    {
-      "id": "hideo-kojima-responds-to-accusations-of-physint-being-over-b",
-      "titre": "Hideo Kojima responds to accusations of Physint being over budget and late on deadline, says he still \"loves Sony\" despite collapse of publishing deal",
-      "url": "https://www.eurogamer.net/hideo-kojima-loves-sony-playstation-physint",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/hideo-kojima-loves-sony-playstation-physint",
-          "titre": "Hideo Kojima responds to accusations of Physint being over budget and late on deadline, says he still \"loves Sony\" despite collapse of publishing deal"
-        }
-      ]
-    },
-    {
-      "id": "the-latest-co-op-indie-game-to-take-over-the-internet-is-lik",
-      "titre": "The latest co-op indie game to take over the internet is like one of my favourite board games, just with bombs",
-      "url": "https://www.pcgamer.com/games/puzzle/the-latest-co-op-indie-game-to-take-over-the-internet-is-like-one-of-my-favourite-board-games-just-with-bombs/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/puzzle/the-latest-co-op-indie-game-to-take-over-the-internet-is-like-one-of-my-favourite-board-games-just-with-bombs/",
-          "titre": "The latest co-op indie game to take over the internet is like one of my favourite board games, just with bombs"
-        }
-      ]
-    },
-    {
-      "id": "terrifying-phenomenon-seen-in-new-york-city",
-      "titre": "‘Terrifying’ phenomenon seen in New York City",
-      "url": "https://www.videogameschronicle.com/news/terrifying-phenomenon-seen-in-new-york-city/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/terrifying-phenomenon-seen-in-new-york-city/",
-          "titre": "‘Terrifying’ phenomenon seen in New York City"
-        }
-      ]
-    },
-    {
-      "id": "hideo-kojima-says-he-was-shocked-after-sony-cut-ties-with-ph",
-      "titre": "Hideo Kojima says he was 'shocked' after Sony cut ties with Physint over a Zoom call: 'Nothing could’ve prepared me for their decision to step away from the project'",
-      "url": "https://www.pcgamer.com/gaming-industry/hideo-kojima-says-he-was-shocked-after-sony-cut-ties-with-physint-over-a-zoom-call-nothing-couldve-prepared-me-for-their-decision-to-step-away-from-the-project/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/hideo-kojima-says-he-was-shocked-after-sony-cut-ties-with-physint-over-a-zoom-call-nothing-couldve-prepared-me-for-their-decision-to-step-away-from-the-project/",
-          "titre": "Hideo Kojima says he was 'shocked' after Sony cut ties with Physint over a Zoom call: 'Nothing could’ve prepared me for their decision to step away from the project'"
-        }
-      ]
-    },
-    {
-      "id": "blizzard-developer-says-world-of-warcraft-forever-s-beta-num",
-      "titre": "Blizzard developer says World of Warcraft: Forever's beta numbers are the \"craziest\" he's seen in 17 years",
-      "url": "https://www.eurogamer.net/world-of-warcraft-forever-beta-craziest-numbers-blizzard",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/world-of-warcraft-forever-beta-craziest-numbers-blizzard",
-          "titre": "Blizzard developer says World of Warcraft: Forever's beta numbers are the \"craziest\" he's seen in 17 years"
-        }
-      ]
-    },
-    {
-      "id": "splatoon-raiders-dev-team-apparently-has-no-plans-for-dlc",
-      "titre": "Splatoon Raiders Dev Team Apparently Has No Plans For DLC",
-      "url": "https://www.nintendolife.com/news/2026/09/splatoon-raiders-dev-team-apparently-has-no-plans-for-dlc",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/splatoon-raiders-dev-team-apparently-has-no-plans-for-dlc",
-          "titre": "Splatoon Raiders Dev Team Apparently Has No Plans For DLC"
         }
       ]
     },
@@ -653,7 +635,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.4,
       "chaleur": 6,
       "liens": [
         {
@@ -671,7 +653,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.3,
       "chaleur": 6,
       "liens": [
         {
@@ -689,7 +671,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.9,
       "chaleur": 6,
       "liens": [
         {
@@ -708,7 +690,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 31.3,
+      "heures": 33.4,
       "chaleur": 6,
       "liens": [
         {
@@ -731,7 +713,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.3,
+      "heures": 26.4,
       "chaleur": 5,
       "liens": [
         {
@@ -749,7 +731,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 27.4,
       "chaleur": 5,
       "liens": [
         {
@@ -767,7 +749,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 32.8,
+      "heures": 34.9,
       "chaleur": 5,
       "liens": [
         {
@@ -778,20 +760,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-urge-you-to-check-out-this-hidden-object-game-where-you-pl",
-      "titre": "I urge you to check out this hidden object game where you play as the world's most helpful sniper",
-      "url": "https://www.pcgamer.com/games/fps/i-urge-you-to-check-out-this-hidden-object-game-where-you-play-as-the-worlds-most-helpful-sniper/",
+      "id": "hideo-kojima-responds-to-accusations-of-physint-being-over-b",
+      "titre": "Hideo Kojima responds to accusations of Physint being over budget and late on deadline, says he still \"loves Sony\" despite collapse of publishing deal",
+      "url": "https://www.eurogamer.net/hideo-kojima-loves-sony-playstation-physint",
       "sources": [
-        "PC Gamer"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 4.4,
       "chaleur": 4,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/i-urge-you-to-check-out-this-hidden-object-game-where-you-play-as-the-worlds-most-helpful-sniper/",
-          "titre": "I urge you to check out this hidden object game where you play as the world's most helpful sniper"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/hideo-kojima-loves-sony-playstation-physint",
+          "titre": "Hideo Kojima responds to accusations of Physint being over budget and late on deadline, says he still \"loves Sony\" despite collapse of publishing deal"
+        }
+      ]
+    },
+    {
+      "id": "terrifying-phenomenon-seen-in-new-york-city",
+      "titre": "‘Terrifying’ phenomenon seen in New York City",
+      "url": "https://www.videogameschronicle.com/news/terrifying-phenomenon-seen-in-new-york-city/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/terrifying-phenomenon-seen-in-new-york-city/",
+          "titre": "‘Terrifying’ phenomenon seen in New York City"
+        }
+      ]
+    },
+    {
+      "id": "blizzard-developer-says-world-of-warcraft-forever-s-beta-num",
+      "titre": "Blizzard developer says World of Warcraft: Forever's beta numbers are the \"craziest\" he's seen in 17 years",
+      "url": "https://www.eurogamer.net/world-of-warcraft-forever-beta-craziest-numbers-blizzard",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/world-of-warcraft-forever-beta-craziest-numbers-blizzard",
+          "titre": "Blizzard developer says World of Warcraft: Forever's beta numbers are the \"craziest\" he's seen in 17 years"
+        }
+      ]
+    },
+    {
+      "id": "splatoon-raiders-dev-team-apparently-has-no-plans-for-dlc",
+      "titre": "Splatoon Raiders Dev Team Apparently Has No Plans For DLC",
+      "url": "https://www.nintendolife.com/news/2026/09/splatoon-raiders-dev-team-apparently-has-no-plans-for-dlc",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/splatoon-raiders-dev-team-apparently-has-no-plans-for-dlc",
+          "titre": "Splatoon Raiders Dev Team Apparently Has No Plans For DLC"
         }
       ]
     },
@@ -803,31 +839,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/clive-barkers-hellraiser-revival-demo-scarlet-church-trailer",
           "titre": "Clive Barker's Hellraiser: Revival gets a playable demo and a new trailer ahead of its October launch"
-        }
-      ]
-    },
-    {
-      "id": "tokyo-walled-city-looks-set-to-fill-the-deus-ex-shaped-hole",
-      "titre": "Tokyo Walled City looks set to fill the Deus Ex-shaped hole in my life",
-      "url": "https://www.pcgamer.com/games/action/tokyo-walled-city-looks-set-to-fill-the-deus-ex-shaped-hole-in-my-life/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/tokyo-walled-city-looks-set-to-fill-the-deus-ex-shaped-hole-in-my-life/",
-          "titre": "Tokyo Walled City looks set to fill the Deus Ex-shaped hole in my life"
         }
       ]
     },
@@ -839,7 +857,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -857,7 +875,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -875,31 +893,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/box-art-brawl-duel-cubivore-survival-of-the-fittest",
           "titre": "Feature: Box Art Brawl - Duel: Cubivore: Survival Of The Fittest"
-        }
-      ]
-    },
-    {
-      "id": "over-10-years-later-gabe-newell-s-advice-to-devs-still-holds",
-      "titre": "Over 10 years later, Gabe Newell's advice to devs still holds up",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/over-10-years-later-gabe-newells-advice-to-devs-still-holds-up/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/over-10-years-later-gabe-newells-advice-to-devs-still-holds-up/",
-          "titre": "Over 10 years later, Gabe Newell's advice to devs still holds up"
         }
       ]
     },
@@ -911,7 +911,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.4,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +929,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.8,
+      "heures": 25.9,
       "chaleur": 3,
       "liens": [
         {
@@ -947,7 +947,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 24.8,
+      "heures": 26.9,
       "chaleur": 3,
       "liens": [
         {
@@ -965,7 +965,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.3,
+      "heures": 28.4,
       "chaleur": 3,
       "liens": [
         {
@@ -983,7 +983,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +1001,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 33.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,31 +1019,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/what-weve-been-playing-the-rest-of-the-party-is-absolutely-feral",
           "titre": "What we've been playing - \"the rest of the party is, frankly, absolutely feral, so I've been trying to balance that out\""
-        }
-      ]
-    },
-    {
-      "id": "fire-emblem-fortune-s-weave-is-getting-a-manga-series-here-s",
-      "titre": "Fire Emblem: Fortune's Weave Is Getting A Manga Series, Here's The Key Art",
-      "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-is-getting-a-manga-series-heres-the-key-art",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 35.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-is-getting-a-manga-series-heres-the-key-art",
-          "titre": "Fire Emblem: Fortune's Weave Is Getting A Manga Series, Here's The Key Art"
         }
       ]
     }
