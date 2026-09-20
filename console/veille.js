@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "20/09/2026 à 06h24",
+  "collecte": "20/09/2026 à 08h20",
   "seuil": 14,
   "sujets": [
     {
@@ -13,7 +13,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 21.4,
+      "heures": 23.3,
       "chaleur": 9,
       "liens": [
         {
@@ -34,20 +34,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "evidence-of-canceled-grand-theft-auto-5-liberty-city-and-age",
-      "titre": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/evidence-of-canceled-grand-theft-auto-5-liberty-city-and-agent-trevor-dlc-plus-early-version-of-gta6s-map-surface-online/",
+      "id": "multiple-switch-games-receive-switch-2-compatibility-fixes",
+      "titre": "Multiple Switch Games Receive Switch 2 Compatibility Fixes",
+      "url": "https://www.nintendolife.com/news/2026/09/multiple-switch-games-receive-switch-2-compatibility-fixes",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 7,
+      "heures": 1.3,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/evidence-of-canceled-grand-theft-auto-5-liberty-city-and-agent-trevor-dlc-plus-early-version-of-gta6s-map-surface-online/",
-          "titre": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/multiple-switch-games-receive-switch-2-compatibility-fixes",
+          "titre": "Multiple Switch Games Receive Switch 2 Compatibility Fixes"
+        }
+      ]
+    },
+    {
+      "id": "stellar-blade-gets-a-switch-2-eshop-demo-today",
+      "titre": "Stellar Blade Gets A Switch 2 eShop Demo Today",
+      "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-gets-a-switch-2-eshop-demo-today",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-gets-a-switch-2-eshop-demo-today",
+          "titre": "Stellar Blade Gets A Switch 2 eShop Demo Today"
         }
       ]
     },
@@ -286,6 +304,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "konami-releasing-castlevania-belmont-s-curse-demo-next-month",
+      "titre": "Konami Releasing Castlevania: Belmont's Curse Demo Next Month",
+      "url": "https://www.nintendolife.com/news/2026/09/konami-releasing-castlevania-belmonts-curse-demo-next-month",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/konami-releasing-castlevania-belmonts-curse-demo-next-month",
+          "titre": "Konami Releasing Castlevania: Belmont's Curse Demo Next Month"
+        }
+      ]
+    },
+    {
       "id": "over-10-years-later-gabe-newell-s-advice-to-devs-still-holds",
       "titre": "Over 10 years later, Gabe Newell's advice to devs still holds up",
       "url": "https://www.pcgamer.com/gaming-industry/game-development/over-10-years-later-gabe-newells-advice-to-devs-still-holds-up/",
@@ -293,13 +329,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/game-development/over-10-years-later-gabe-newells-advice-to-devs-still-holds-up/",
           "titre": "Over 10 years later, Gabe Newell's advice to devs still holds up"
+        }
+      ]
+    },
+    {
+      "id": "evidence-of-canceled-grand-theft-auto-5-liberty-city-and-age",
+      "titre": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/evidence-of-canceled-grand-theft-auto-5-liberty-city-and-agent-trevor-dlc-plus-early-version-of-gta6s-map-surface-online/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 12.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/evidence-of-canceled-grand-theft-auto-5-liberty-city-and-agent-trevor-dlc-plus-early-version-of-gta6s-map-surface-online/",
+          "titre": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online"
         }
       ]
     },
@@ -311,7 +365,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.1,
       "chaleur": 6,
       "liens": [
         {
@@ -330,7 +384,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 19.1,
+      "heures": 21.1,
       "chaleur": 6,
       "liens": [
         {
@@ -353,7 +407,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.3,
       "chaleur": 5,
       "liens": [
         {
@@ -371,7 +425,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.3,
       "chaleur": 5,
       "liens": [
         {
@@ -389,7 +443,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.9,
+      "heures": 24.8,
       "chaleur": 5,
       "liens": [
         {
@@ -407,7 +461,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.9,
+      "heures": 28.8,
       "chaleur": 5,
       "liens": [
         {
@@ -425,7 +479,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.7,
+      "heures": 30.6,
       "chaleur": 5,
       "liens": [
         {
@@ -443,7 +497,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.7,
+      "heures": 31.6,
       "chaleur": 5,
       "liens": [
         {
@@ -461,7 +515,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 30.4,
+      "heures": 32.3,
       "chaleur": 5,
       "liens": [
         {
@@ -479,8 +533,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -497,7 +551,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.1,
       "chaleur": 3,
       "liens": [
         {
@@ -515,7 +569,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.8,
       "chaleur": 3,
       "liens": [
         {
@@ -533,7 +587,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.3,
       "chaleur": 3,
       "liens": [
         {
@@ -551,7 +605,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.8,
       "chaleur": 3,
       "liens": [
         {
@@ -569,7 +623,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -587,7 +641,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -605,7 +659,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.3,
       "chaleur": 3,
       "liens": [
         {
@@ -623,7 +677,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.3,
       "chaleur": 3,
       "liens": [
         {
@@ -641,7 +695,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.8,
       "chaleur": 3,
       "liens": [
         {
@@ -659,7 +713,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.0,
+      "heures": 21.0,
       "chaleur": 3,
       "liens": [
         {
@@ -677,7 +731,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.3,
       "chaleur": 3,
       "liens": [
         {
@@ -695,7 +749,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 22.2,
       "chaleur": 3,
       "liens": [
         {
@@ -713,7 +767,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.3,
       "chaleur": 3,
       "liens": [
         {
@@ -731,7 +785,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.3,
       "chaleur": 3,
       "liens": [
         {
@@ -749,7 +803,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.9,
+      "heures": 27.8,
       "chaleur": 3,
       "liens": [
         {
@@ -767,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 31.5,
+      "heures": 33.5,
       "chaleur": 3,
       "liens": [
         {
@@ -785,7 +839,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 32.3,
+      "heures": 34.3,
       "chaleur": 3,
       "liens": [
         {
@@ -803,31 +857,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 32.5,
+      "heures": 34.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-is-apparently-a-super-heavyweight-200gb-installation-we-need-to-overcome-the-hardware-to-a-certain-extent/",
           "titre": "Final Fantasy 7 Revelation is apparently a super heavyweight 200GB installation: 'We need to overcome the hardware to a certain extent'"
-        }
-      ]
-    },
-    {
-      "id": "sony-execs-behind-iconic-game-sharing-meme-recreate-it-but-f",
-      "titre": "Sony execs behind iconic game-sharing meme recreate it, but fittingly, without a physical game",
-      "url": "https://www.eurogamer.net/sony-execs-game-sharing-meme-physical",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 34.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sony-execs-game-sharing-meme-physical",
-          "titre": "Sony execs behind iconic game-sharing meme recreate it, but fittingly, without a physical game"
         }
       ]
     }
