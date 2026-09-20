@@ -1,32 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "20/09/2026 à 00h27",
+  "collecte": "20/09/2026 à 02h19",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "preview-ascendance-has-me-hyped-to-obsess-over-monster-hunte",
-      "titre": "Preview: Ascendance Has Me Hyped to Obsess Over Monster Hunter Wilds Again",
-      "url": "https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 10.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again",
-          "titre": "Preview: Ascendance Has Me Hyped to Obsess Over Monster Hunter Wilds Again"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-wilds-switch-2-performance-and-resolution-confirmed",
-          "titre": "Monster Hunter Wilds Switch 2 Performance And Resolution Confirmed"
-        }
-      ]
-    },
     {
       "id": "the-last-of-us-director-apologises-to-god-of-war-laufey-team",
       "titre": "The Last of Us director apologises to God of War Laufey team for citing it while saying AAA experiences are ‘boring’",
@@ -37,7 +13,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 13.2,
+      "heures": 15.1,
       "chaleur": 9,
       "liens": [
         {
@@ -67,7 +43,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 15.5,
+      "heures": 17.3,
       "chaleur": 9,
       "liens": [
         {
@@ -88,66 +64,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "final-fantasy-7-revelation-is-apparently-a-super-heavyweight",
-      "titre": "Final Fantasy 7 Revelation is apparently a super heavyweight 200GB installation: 'We need to overcome the hardware to a certain extent'",
-      "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-is-apparently-a-super-heavyweight-200gb-installation-we-need-to-overcome-the-hardware-to-a-certain-extent/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer",
-        "Push Square"
-      ],
-      "reprises": 3,
-      "heures": 26.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-is-apparently-a-super-heavyweight-200gb-installation-we-need-to-overcome-the-hardware-to-a-certain-extent/",
-          "titre": "Final Fantasy 7 Revelation is apparently a super heavyweight 200GB installation: 'We need to overcome the hardware to a certain extent'"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-on-ps5-will-be-a-mammoth-200gb-director-says",
-          "titre": "Final Fantasy 7 Revelation on PS5 Will Be a Mammoth 200GB, Director Says"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/final-fantasy-7-revelation-200gb-file-size-dlc",
-          "titre": "Final Fantasy 7 Revelation will be \"around 200GB\" says game director, as he details Sephiroth and Vincent Valentine DLC plans"
-        }
-      ]
-    },
-    {
-      "id": "control-resonant-critical-consensus",
-      "titre": "Control Resonant | Critical Consensus",
-      "url": "https://www.gamesindustry.biz/control-resonant-critical-consensus",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 32.2,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/control-resonant-critical-consensus",
-          "titre": "Control Resonant | Critical Consensus"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/review/control-resonant/",
-          "titre": "Control Resonant review: Remedy gambles on a genre change in one of its most impressive games ever"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/control-resonant-review",
-          "titre": "Control Resonant review"
-        }
-      ]
-    },
-    {
       "id": "new-200gb-gta-5-leak-suggests-rockstar-games-scrapped-a-mass",
       "titre": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work",
       "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
@@ -155,7 +71,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.1,
+      "heures": 32.0,
       "chaleur": 8,
       "liens": [
         {
@@ -173,7 +89,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.5,
       "chaleur": 7,
       "liens": [
         {
@@ -191,7 +107,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.1,
       "chaleur": 7,
       "liens": [
         {
@@ -443,7 +359,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.3,
       "chaleur": 6,
       "liens": [
         {
@@ -461,7 +377,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.3,
       "chaleur": 6,
       "liens": [
         {
@@ -480,7 +396,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 20.0,
+      "heures": 21.8,
       "chaleur": 6,
       "liens": [
         {
@@ -496,6 +412,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "final-fantasy-7-revelation-is-apparently-a-super-heavyweight",
+      "titre": "Final Fantasy 7 Revelation is apparently a super heavyweight 200GB installation: 'We need to overcome the hardware to a certain extent'",
+      "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-is-apparently-a-super-heavyweight-200gb-installation-we-need-to-overcome-the-hardware-to-a-certain-extent/",
+      "sources": [
+        "PC Gamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 28.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-is-apparently-a-super-heavyweight-200gb-installation-we-need-to-overcome-the-hardware-to-a-certain-extent/",
+          "titre": "Final Fantasy 7 Revelation is apparently a super heavyweight 200GB installation: 'We need to overcome the hardware to a certain extent'"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-on-ps5-will-be-a-mammoth-200gb-director-says",
+          "titre": "Final Fantasy 7 Revelation on PS5 Will Be a Mammoth 200GB, Director Says"
+        }
+      ]
+    },
+    {
       "id": "sony-execs-behind-iconic-game-sharing-meme-recreate-it-but-f",
       "titre": "Sony execs behind iconic game-sharing meme recreate it, but fittingly, without a physical game",
       "url": "https://www.eurogamer.net/sony-execs-game-sharing-meme-physical",
@@ -504,7 +444,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 28.7,
+      "heures": 30.6,
       "chaleur": 6,
       "liens": [
         {
@@ -527,7 +467,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 32.5,
+      "heures": 34.3,
       "chaleur": 6,
       "liens": [
         {
@@ -545,7 +485,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 32.6,
+      "heures": 34.5,
       "chaleur": 6,
       "liens": [
         {
@@ -563,7 +503,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 18.8,
       "chaleur": 5,
       "liens": [
         {
@@ -581,7 +521,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.0,
+      "heures": 22.8,
       "chaleur": 5,
       "liens": [
         {
@@ -599,7 +539,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.7,
+      "heures": 24.6,
       "chaleur": 5,
       "liens": [
         {
@@ -617,7 +557,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.7,
+      "heures": 25.6,
       "chaleur": 5,
       "liens": [
         {
@@ -635,7 +575,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 24.5,
+      "heures": 26.3,
       "chaleur": 5,
       "liens": [
         {
@@ -653,7 +593,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.5,
+      "heures": 32.3,
       "chaleur": 5,
       "liens": [
         {
@@ -671,7 +611,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 32.4,
+      "heures": 34.3,
       "chaleur": 5,
       "liens": [
         {
@@ -689,7 +629,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 33.0,
+      "heures": 34.8,
       "chaleur": 5,
       "liens": [
         {
@@ -707,7 +647,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -725,7 +665,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -743,7 +683,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -761,7 +701,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -779,7 +719,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -797,7 +737,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -815,13 +755,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-convinced-me-that-we-lost-too-much-to-modern-mmo-quest-design/",
           "titre": "World of Warcraft: Forever's convinced me that we lost too much to modern MMO quest design"
+        }
+      ]
+    },
+    {
+      "id": "preview-ascendance-has-me-hyped-to-obsess-over-monster-hunte",
+      "titre": "Preview: Ascendance Has Me Hyped to Obsess Over Monster Hunter Wilds Again",
+      "url": "https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 12.3,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again",
+          "titre": "Preview: Ascendance Has Me Hyped to Obsess Over Monster Hunter Wilds Again"
         }
       ]
     },
@@ -833,8 +791,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -851,8 +809,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -869,7 +827,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 15.0,
       "chaleur": 3,
       "liens": [
         {
@@ -887,7 +845,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
@@ -905,7 +863,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.2,
       "chaleur": 3,
       "liens": [
         {
@@ -923,7 +881,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.3,
       "chaleur": 3,
       "liens": [
         {
@@ -941,7 +899,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
@@ -959,7 +917,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 25.6,
+      "heures": 27.5,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +935,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 26.4,
+      "heures": 28.3,
       "chaleur": 3,
       "liens": [
         {
@@ -995,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 26.9,
+      "heures": 28.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1013,7 +971,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.6,
+      "heures": 33.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,13 +989,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 31.7,
+      "heures": 33.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/in-the-absence-of-a-new-deus-ex-indie-imsim-tokyo-walled-city-may-scratch-that-stealth-n-stolen-passwords-itch",
           "titre": "In the absence of a new Deus Ex, indie imsim Tokyo Walled City may scratch that stealth 'n' stolen passwords itch"
+        }
+      ]
+    },
+    {
+      "id": "control-resonant-critical-consensus",
+      "titre": "Control Resonant | Critical Consensus",
+      "url": "https://www.gamesindustry.biz/control-resonant-critical-consensus",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 34.1,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/control-resonant-critical-consensus",
+          "titre": "Control Resonant | Critical Consensus"
         }
       ]
     },
@@ -1049,7 +1025,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 32.5,
+      "heures": 34.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,7 +1043,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 32.7,
+      "heures": 34.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1085,7 +1061,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 33.2,
+      "heures": 35.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1103,7 +1079,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 33.5,
+      "heures": 35.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1121,7 +1097,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.5,
+      "heures": 35.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1139,7 +1115,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 33.9,
+      "heures": 35.7,
       "chaleur": 3,
       "liens": [
         {
