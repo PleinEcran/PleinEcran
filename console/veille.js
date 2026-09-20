@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "20/09/2026 à 18h21",
+  "collecte": "20/09/2026 à 20h18",
   "seuil": 14,
   "sujets": [
     {
@@ -11,31 +11,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.7,
       "chaleur": 9,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/kojima-productions-asks-players-to-treat-report-on-why-it-switched-from-playstation-to-xbox-with-a-dose-of-scepticism/",
           "titre": "Kojima Productions asks players to treat report on why it switched from PlayStation to Xbox ‘with a dose of scepticism’"
-        }
-      ]
-    },
-    {
-      "id": "cairn-s-delayed-on-the-trail-deep-water-dlc-gets-a-new-relea",
-      "titre": "Cairn's delayed On the Trail: Deep Water DLC gets a new release date, and you don't have long to wait",
-      "url": "https://www.pcgamer.com/games/sim/cairns-delayed-on-the-trail-deep-water-dlc-gets-a-new-release-date-and-you-dont-have-long-to-wait/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/cairns-delayed-on-the-trail-deep-water-dlc-gets-a-new-release-date-and-you-dont-have-long-to-wait/",
-          "titre": "Cairn's delayed On the Trail: Deep Water DLC gets a new release date, and you don't have long to wait"
         }
       ]
     },
@@ -48,7 +30,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.7,
+      "heures": 9.6,
       "chaleur": 7,
       "liens": [
         {
@@ -72,7 +54,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.7,
+      "heures": 9.7,
       "chaleur": 7,
       "liens": [
         {
@@ -322,6 +304,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "first-5-day-tokyo-game-show-in-30-years-cuts-back-to-4-in-fa",
+      "titre": "First 5-day Tokyo Game Show in 30 years cuts back to 4 in face of Typhoon Dujuan",
+      "url": "https://www.pcgamer.com/gaming-industry/first-5-day-tokyo-game-show-in-30-years-cuts-back-to-4-in-face-of-typhoon-dujuan/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/first-5-day-tokyo-game-show-in-30-years-cuts-back-to-4-in-face-of-typhoon-dujuan/",
+          "titre": "First 5-day Tokyo Game Show in 30 years cuts back to 4 in face of Typhoon Dujuan"
+        }
+      ]
+    },
+    {
+      "id": "elden-ring-nightreign-is-dead-but-modders-are-dabbing-on-its",
+      "titre": "Elden Ring Nightreign is dead, but modders are dabbing on its corpse, with one porting an entire Dark Souls 2 DLC zone as a playable map",
+      "url": "https://www.pcgamer.com/games/action/elden-ring-nightreign-is-dead-but-modders-are-dabbing-on-its-corpse-with-one-porting-an-entire-dark-souls-2-dlc-zone-as-a-playable-map/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/elden-ring-nightreign-is-dead-but-modders-are-dabbing-on-its-corpse-with-one-porting-an-entire-dark-souls-2-dlc-zone-as-a-playable-map/",
+          "titre": "Elden Ring Nightreign is dead, but modders are dabbing on its corpse, with one porting an entire Dark Souls 2 DLC zone as a playable map"
+        }
+      ]
+    },
+    {
       "id": "i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6",
       "titre": "'I Love Sony': Kojima Unsure if Physint Will Ever Come to PS6, Hasn't Decided on Decima Engine",
       "url": "https://www.pushsquare.com/news/2026/09/i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6-hasnt-decided-on-decima-engine",
@@ -329,7 +347,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -347,7 +365,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -365,7 +383,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -383,7 +401,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -401,7 +419,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -419,7 +437,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -437,7 +455,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -455,7 +473,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -473,7 +491,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -491,7 +509,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -509,7 +527,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -527,7 +545,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -545,7 +563,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -563,67 +581,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/action/core-keepers-riders-of-the-underground-update-drops-tomorrow-and-you-can-get-a-sneak-peek-of-it-right-here/",
           "titre": "Core Keeper's Riders of the Underground update drops tomorrow, and you can get a sneak peek of it right here"
-        }
-      ]
-    },
-    {
-      "id": "paper-co-op-deckbuilder-hellcard-2-has-a-new-demo-that-you-c",
-      "titre": "Paper co-op deckbuilder Hellcard 2 has a new demo that you can play right now",
-      "url": "https://www.pcgamer.com/games/rpg/paper-co-op-deckbuilder-hellcard-2-has-a-new-demo-that-you-can-play-right-now/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/paper-co-op-deckbuilder-hellcard-2-has-a-new-demo-that-you-can-play-right-now/",
-          "titre": "Paper co-op deckbuilder Hellcard 2 has a new demo that you can play right now"
-        }
-      ]
-    },
-    {
-      "id": "dynasty-warriors-3-complete-edition-remastered-demo-online-t",
-      "titre": "Dynasty Warriors 3: Complete Edition Remastered Demo & Online Two-Player Post-Launch Update Announced",
-      "url": "https://www.nintendolife.com/news/2026/09/dynasty-warriors-3-complete-edition-remastered-demo-and-online-two-player-post-launch-update-announced",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/dynasty-warriors-3-complete-edition-remastered-demo-and-online-two-player-post-launch-update-announced",
-          "titre": "Dynasty Warriors 3: Complete Edition Remastered Demo & Online Two-Player Post-Launch Update Announced"
-        }
-      ]
-    },
-    {
-      "id": "call-of-duty-maker-activision-claims-video-game-cheating-is",
-      "titre": "Call of Duty maker Activision claims video game cheating is now a £6.3 billion ($8.5 billion) a year industry",
-      "url": "https://www.eurogamer.net/activision-video-game-cheat-market-8-5-billion-a-year",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/activision-video-game-cheat-market-8-5-billion-a-year",
-          "titre": "Call of Duty maker Activision claims video game cheating is now a £6.3 billion ($8.5 billion) a year industry"
         }
       ]
     },
@@ -635,7 +599,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.3,
       "chaleur": 6,
       "liens": [
         {
@@ -653,8 +617,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 6,
+      "heures": 13.2,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -671,37 +635,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 6,
+      "heures": 13.8,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-gets-a-switch-2-eshop-demo-today",
           "titre": "Stellar Blade Gets A Switch 2 eShop Demo Today"
-        }
-      ]
-    },
-    {
-      "id": "talking-point-what-are-you-playing-this-weekend-19th-septemb",
-      "titre": "Talking Point: What Are You Playing This Weekend? (19th September)",
-      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-19th-september",
-      "sources": [
-        "Nintendo Life",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 33.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-19th-september",
-          "titre": "Talking Point: What Are You Playing This Weekend? (19th September)"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-400",
-          "titre": "What are we all playing this weekend?"
         }
       ]
     },
@@ -713,7 +653,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.4,
+      "heures": 28.3,
       "chaleur": 5,
       "liens": [
         {
@@ -731,7 +671,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 29.3,
       "chaleur": 5,
       "liens": [
         {
@@ -742,20 +682,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "monster-hunter-world-probably-won-t-be-coming-to-switch-2",
-      "titre": "Monster Hunter World Probably Won't Be Coming To Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
+      "id": "dynasty-warriors-3-complete-edition-remastered-demo-online-t",
+      "titre": "Dynasty Warriors 3: Complete Edition Remastered Demo & Online Two-Player Post-Launch Update Announced",
+      "url": "https://www.nintendolife.com/news/2026/09/dynasty-warriors-3-complete-edition-remastered-demo-and-online-two-player-post-launch-update-announced",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 34.9,
-      "chaleur": 5,
+      "heures": 4.3,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
-          "titre": "Monster Hunter World Probably Won't Be Coming To Switch 2"
+          "url": "https://www.nintendolife.com/news/2026/09/dynasty-warriors-3-complete-edition-remastered-demo-and-online-two-player-post-launch-update-announced",
+          "titre": "Dynasty Warriors 3: Complete Edition Remastered Demo & Online Two-Player Post-Launch Update Announced"
+        }
+      ]
+    },
+    {
+      "id": "call-of-duty-maker-activision-claims-video-game-cheating-is",
+      "titre": "Call of Duty maker Activision claims video game cheating is now a £6.3 billion ($8.5 billion) a year industry",
+      "url": "https://www.eurogamer.net/activision-video-game-cheat-market-8-5-billion-a-year",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/activision-video-game-cheat-market-8-5-billion-a-year",
+          "titre": "Call of Duty maker Activision claims video game cheating is now a £6.3 billion ($8.5 billion) a year industry"
         }
       ]
     },
@@ -767,7 +725,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -785,7 +743,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -803,7 +761,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -821,7 +779,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -839,7 +797,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -857,7 +815,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -875,7 +833,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -893,7 +851,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -911,7 +869,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.3,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +887,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.9,
+      "heures": 27.8,
       "chaleur": 3,
       "liens": [
         {
@@ -947,7 +905,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.9,
+      "heures": 28.8,
       "chaleur": 3,
       "liens": [
         {
@@ -965,7 +923,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 30.3,
       "chaleur": 3,
       "liens": [
         {
@@ -983,7 +941,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 31.4,
+      "heures": 33.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +959,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.4,
+      "heures": 35.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1012,20 +970,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "what-we-ve-been-playing-the-rest-of-the-party-is-frankly-abs",
-      "titre": "What we've been playing - \"the rest of the party is, frankly, absolutely feral, so I've been trying to balance that out\"",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-the-rest-of-the-party-is-absolutely-feral",
+      "id": "talking-point-what-are-you-playing-this-weekend-19th-septemb",
+      "titre": "Talking Point: What Are You Playing This Weekend? (19th September)",
+      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-19th-september",
       "sources": [
-        "Eurogamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 35.4,
+      "heures": 35.3,
       "chaleur": 3,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/what-weve-been-playing-the-rest-of-the-party-is-absolutely-feral",
-          "titre": "What we've been playing - \"the rest of the party is, frankly, absolutely feral, so I've been trying to balance that out\""
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-19th-september",
+          "titre": "Talking Point: What Are You Playing This Weekend? (19th September)"
         }
       ]
     }
