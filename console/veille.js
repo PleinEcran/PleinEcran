@@ -1,71 +1,89 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "20/09/2026 à 10h19",
+  "collecte": "20/09/2026 à 12h23",
   "seuil": 14,
   "sujets": [
     {
-      "id": "talking-point-what-are-you-playing-this-weekend-19th-septemb",
-      "titre": "Talking Point: What Are You Playing This Weekend? (19th September)",
-      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-19th-september",
+      "id": "kojima-productions-asks-players-to-treat-report-on-why-it-sw",
+      "titre": "Kojima Productions asks players to treat report on why it switched from PlayStation to Xbox ‘with a dose of scepticism’",
+      "url": "https://www.videogameschronicle.com/news/kojima-productions-asks-players-to-treat-report-on-why-it-switched-from-playstation-to-xbox-with-a-dose-of-scepticism/",
       "sources": [
-        "Nintendo Life",
-        "Push Square",
-        "Rock Paper Shotgun"
+        "VGC"
       ],
-      "reprises": 3,
-      "heures": 25.3,
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/kojima-productions-asks-players-to-treat-report-on-why-it-switched-from-playstation-to-xbox-with-a-dose-of-scepticism/",
+          "titre": "Kojima Productions asks players to treat report on why it switched from PlayStation to Xbox ‘with a dose of scepticism’"
+        }
+      ]
+    },
+    {
+      "id": "the-last-of-us-director-apologises-for-calling-out-sony-sant",
+      "titre": "The Last of Us director apologises for calling out Sony Santa Monica's God of War Laufey after saying he was \"not excited\"",
+      "url": "https://www.eurogamer.net/last-of-us-director-apologises-god-of-war-laufey-not-excited",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.7,
       "chaleur": 9,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-19th-september",
-          "titre": "Talking Point: What Are You Playing This Weekend? (19th September)"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/last-of-us-director-apologises-god-of-war-laufey-not-excited",
+          "titre": "The Last of Us director apologises for calling out Sony Santa Monica's God of War Laufey after saying he was \"not excited\""
         },
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-400",
-          "titre": "What are we all playing this weekend?"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-650",
-          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 650"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-last-of-us-director-apologises-to-god-of-war-laufey-team-for-citing-it-while-saying-aaa-experiences-are-boring/",
+          "titre": "The Last of Us director apologises to God of War Laufey team for citing it while saying AAA experiences are ‘boring’"
         }
       ]
     },
     {
-      "id": "multiple-switch-games-receive-switch-2-compatibility-fixes",
-      "titre": "Multiple Switch Games Receive Switch 2 Compatibility Fixes",
-      "url": "https://www.nintendolife.com/news/2026/09/multiple-switch-games-receive-switch-2-compatibility-fixes",
+      "id": "a-demo-of-castlevania-belmont-s-curse-has-been-officially-an",
+      "titre": "A demo of Castlevania Belmont’s Curse has been officially announced",
+      "url": "https://www.videogameschronicle.com/news/a-demo-of-castlevania-belmonts-curse-has-been-officially-announced/",
       "sources": [
-        "Nintendo Life"
+        "Nintendo Life",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 8,
+      "reprises": 2,
+      "heures": 1.8,
+      "chaleur": 9,
       "liens": [
         {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/a-demo-of-castlevania-belmonts-curse-has-been-officially-announced/",
+          "titre": "A demo of Castlevania Belmont’s Curse has been officially announced"
+        },
+        {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/multiple-switch-games-receive-switch-2-compatibility-fixes",
-          "titre": "Multiple Switch Games Receive Switch 2 Compatibility Fixes"
+          "url": "https://www.nintendolife.com/news/2026/09/konami-releasing-castlevania-belmonts-curse-demo-next-month",
+          "titre": "Konami Releasing Castlevania: Belmont's Curse Demo Next Month"
         }
       ]
     },
     {
-      "id": "stellar-blade-gets-a-switch-2-eshop-demo-today",
-      "titre": "Stellar Blade Gets A Switch 2 eShop Demo Today",
-      "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-gets-a-switch-2-eshop-demo-today",
+      "id": "mailbox-wordcrafting-backtracking-one-handed-titles-nintendo",
+      "titre": "Mailbox: Wordcrafting, Backtracking, One-Handed Titles - Nintendo Life Letters",
+      "url": "https://www.nintendolife.com/news/2026/09/mailbox-wordcrafting-backtracking-one-handed-titles-nintendo-life-letters",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.8,
+      "heures": 0.4,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-gets-a-switch-2-eshop-demo-today",
-          "titre": "Stellar Blade Gets A Switch 2 eShop Demo Today"
+          "url": "https://www.nintendolife.com/news/2026/09/mailbox-wordcrafting-backtracking-one-handed-titles-nintendo-life-letters",
+          "titre": "Mailbox: Wordcrafting, Backtracking, One-Handed Titles - Nintendo Life Letters"
         }
       ]
     },
@@ -304,6 +322,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "i-urge-you-to-check-out-this-hidden-object-game-where-you-pl",
+      "titre": "I urge you to check out this hidden object game where you play as the world's most helpful sniper",
+      "url": "https://www.pcgamer.com/games/fps/i-urge-you-to-check-out-this-hidden-object-game-where-you-play-as-the-worlds-most-helpful-sniper/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/i-urge-you-to-check-out-this-hidden-object-game-where-you-play-as-the-worlds-most-helpful-sniper/",
+          "titre": "I urge you to check out this hidden object game where you play as the world's most helpful sniper"
+        }
+      ]
+    },
+    {
+      "id": "clive-barker-s-hellraiser-revival-gets-a-playable-demo-and-a",
+      "titre": "Clive Barker's Hellraiser: Revival gets a playable demo and a new trailer ahead of its October launch",
+      "url": "https://www.eurogamer.net/clive-barkers-hellraiser-revival-demo-scarlet-church-trailer",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/clive-barkers-hellraiser-revival-demo-scarlet-church-trailer",
+          "titre": "Clive Barker's Hellraiser: Revival gets a playable demo and a new trailer ahead of its October launch"
+        }
+      ]
+    },
+    {
       "id": "tokyo-walled-city-looks-set-to-fill-the-deus-ex-shaped-hole",
       "titre": "Tokyo Walled City looks set to fill the Deus Ex-shaped hole in my life",
       "url": "https://www.pcgamer.com/games/action/tokyo-walled-city-looks-set-to-fill-the-deus-ex-shaped-hole-in-my-life/",
@@ -311,7 +365,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -329,7 +383,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -347,7 +401,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -365,7 +419,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -376,20 +430,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "konami-releasing-castlevania-belmont-s-curse-demo-next-month",
-      "titre": "Konami Releasing Castlevania: Belmont's Curse Demo Next Month",
-      "url": "https://www.nintendolife.com/news/2026/09/konami-releasing-castlevania-belmonts-curse-demo-next-month",
+      "id": "multiple-switch-games-receive-switch-2-compatibility-fixes",
+      "titre": "Multiple Switch Games Receive Switch 2 Compatibility Fixes",
+      "url": "https://www.nintendolife.com/news/2026/09/multiple-switch-games-receive-switch-2-compatibility-fixes",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.2,
+      "heures": 5.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/konami-releasing-castlevania-belmonts-curse-demo-next-month",
-          "titre": "Konami Releasing Castlevania: Belmont's Curse Demo Next Month"
+          "url": "https://www.nintendolife.com/news/2026/09/multiple-switch-games-receive-switch-2-compatibility-fixes",
+          "titre": "Multiple Switch Games Receive Switch 2 Compatibility Fixes"
+        }
+      ]
+    },
+    {
+      "id": "stellar-blade-gets-a-switch-2-eshop-demo-today",
+      "titre": "Stellar Blade Gets A Switch 2 eShop Demo Today",
+      "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-gets-a-switch-2-eshop-demo-today",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-gets-a-switch-2-eshop-demo-today",
+          "titre": "Stellar Blade Gets A Switch 2 eShop Demo Today"
         }
       ]
     },
@@ -401,7 +473,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.6,
       "chaleur": 6,
       "liens": [
         {
@@ -419,13 +491,37 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/japanese-devs-arent-facing-the-same-layoff-crisis-because-their-executives-are-paid-an-order-of-magnitude-less-they-didnt-get-swept-up-in-the-live-service-trend-and-their-teams-are-smaller-says-industry-expert/",
           "titre": "Japanese devs aren't facing the same layoff crisis because their executives are paid an order of magnitude less, 'they didn’t get swept up in the live-service trend,' and their teams are smaller, says industry expert"
+        }
+      ]
+    },
+    {
+      "id": "talking-point-what-are-you-playing-this-weekend-19th-septemb",
+      "titre": "Talking Point: What Are You Playing This Weekend? (19th September)",
+      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-19th-september",
+      "sources": [
+        "Nintendo Life",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 27.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-19th-september",
+          "titre": "Talking Point: What Are You Playing This Weekend? (19th September)"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-400",
+          "titre": "What are we all playing this weekend?"
         }
       ]
     },
@@ -437,7 +533,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.3,
+      "heures": 20.4,
       "chaleur": 5,
       "liens": [
         {
@@ -455,7 +551,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.4,
       "chaleur": 5,
       "liens": [
         {
@@ -473,7 +569,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.8,
+      "heures": 28.9,
       "chaleur": 5,
       "liens": [
         {
@@ -491,7 +587,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.8,
+      "heures": 32.9,
       "chaleur": 5,
       "liens": [
         {
@@ -509,7 +605,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 32.6,
+      "heures": 34.6,
       "chaleur": 5,
       "liens": [
         {
@@ -527,31 +623,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.6,
+      "heures": 35.6,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/the-elder-scrolls-iv-oblivion-remastered-switch-2-update-1-1-now-live-here-are-the-full-patch-notes",
           "titre": "The Elder Scrolls IV: Oblivion Remastered Switch 2 Update 1.1 Now Live, Here Are The Full Patch Notes"
-        }
-      ]
-    },
-    {
-      "id": "preview-don-t-sleep-on-fate-extra-record-this-story-driven-p",
-      "titre": "Preview: Don't Sleep on Fate/Extra Record - This Story-Driven PS5 RPG Shows Real Promise",
-      "url": "https://www.pushsquare.com/previews/dont-sleep-on-fateextra-record-this-story-driven-ps5-rpg-shows-real-promise",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 34.3,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/previews/dont-sleep-on-fateextra-record-this-story-driven-ps5-rpg-shows-real-promise",
-          "titre": "Preview: Don't Sleep on Fate/Extra Record - This Story-Driven PS5 RPG Shows Real Promise"
         }
       ]
     },
@@ -563,7 +641,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -581,7 +659,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -599,7 +677,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.2,
       "chaleur": 3,
       "liens": [
         {
@@ -617,7 +695,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 19.9,
       "chaleur": 3,
       "liens": [
         {
@@ -635,7 +713,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.3,
+      "heures": 20.4,
       "chaleur": 3,
       "liens": [
         {
@@ -653,7 +731,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.8,
+      "heures": 20.9,
       "chaleur": 3,
       "liens": [
         {
@@ -671,7 +749,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.5,
       "chaleur": 3,
       "liens": [
         {
@@ -689,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.6,
       "chaleur": 3,
       "liens": [
         {
@@ -707,7 +785,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 22.4,
       "chaleur": 3,
       "liens": [
         {
@@ -725,7 +803,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 22.4,
       "chaleur": 3,
       "liens": [
         {
@@ -743,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.8,
+      "heures": 22.9,
       "chaleur": 3,
       "liens": [
         {
@@ -761,31 +839,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.0,
+      "heures": 25.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-says-abandoning-its-in-house-engine-for-the-witcher-4-had-nothing-to-do-with-cyberpunk-2077s-technical-woes-the-dream-of-the-company-was-actually-never-to-make-technology/",
           "titre": "CD Projekt says abandoning its in-house engine for The Witcher 4 had nothing to do with Cyberpunk 2077's technical woes: 'The dream of the company was actually never to make technology'"
-        }
-      ]
-    },
-    {
-      "id": "the-last-of-us-director-apologises-to-god-of-war-laufey-team",
-      "titre": "The Last of Us director apologises to God of War Laufey team for citing it while saying AAA experiences are ‘boring’",
-      "url": "https://www.videogameschronicle.com/news/the-last-of-us-director-apologises-to-god-of-war-laufey-team-for-citing-it-while-saying-aaa-experiences-are-boring/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 23.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-last-of-us-director-apologises-to-god-of-war-laufey-team-for-citing-it-while-saying-aaa-experiences-are-boring/",
-          "titre": "The Last of Us director apologises to God of War Laufey team for citing it while saying AAA experiences are ‘boring’"
         }
       ]
     },
@@ -797,7 +857,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.4,
       "chaleur": 3,
       "liens": [
         {
@@ -815,7 +875,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.2,
+      "heures": 26.2,
       "chaleur": 3,
       "liens": [
         {
@@ -833,7 +893,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 27.4,
       "chaleur": 3,
       "liens": [
         {
@@ -851,7 +911,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.4,
       "chaleur": 3,
       "liens": [
         {
@@ -869,31 +929,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.8,
+      "heures": 31.9,
       "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-is-getting-a-manga-series-heres-the-key-art",
           "titre": "Fire Emblem: Fortune's Weave Is Getting A Manga Series, Here's The Key Art"
-        }
-      ]
-    },
-    {
-      "id": "dueling-industry-surveys-show-japanese-game-devs-are-embraci",
-      "titre": "Dueling industry surveys show Japanese game devs are embracing AI, while North American ones are still skeptical",
-      "url": "https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 35.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/",
-          "titre": "Dueling industry surveys show Japanese game devs are embracing AI, while North American ones are still skeptical"
         }
       ]
     }
