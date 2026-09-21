@@ -1,65 +1,35 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "21/09/2026 à 14h21",
+  "collecte": "21/09/2026 à 16h21",
   "seuil": 14,
   "sujets": [
     {
-      "id": "i-thought-people-would-leave-hideo-kojima-offers-his-accoun",
-      "titre": "\"I thought people would leave\": Hideo Kojima offers his account of Physint's switch from PlayStation to Xbox, as his studio insist they're in a \"healthy, profitable state\"",
-      "url": "https://www.rockpapershotgun.com/i-thought-people-would-leave-hideo-kojima-offers-his-account-of-physints-switch-from-playstation-to-xbox-as-his-studio-insist-theyre-in-a-healthy-profitable-state",
+      "id": "hideo-kojima-doesn-t-know-if-physint-will-be-released-on-ps5",
+      "titre": "Hideo Kojima doesn't know if Physint will be released on PS5, and he hasn't decided if it's going to use Sony's Decima game engine",
+      "url": "https://www.eurogamer.net/hideo-kojima-physint-playstation-release-decima-engine",
       "sources": [
+        "Eurogamer",
         "GamesIndustry.biz",
-        "Rock Paper Shotgun"
+        "Push Square"
       ],
-      "reprises": 2,
-      "heures": 0.9,
+      "reprises": 3,
+      "heures": 1.7,
       "chaleur": 15,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-thought-people-would-leave-hideo-kojima-offers-his-account-of-physints-switch-from-playstation-to-xbox-as-his-studio-insist-theyre-in-a-healthy-profitable-state",
-          "titre": "\"I thought people would leave\": Hideo Kojima offers his account of Physint's switch from PlayStation to Xbox, as his studio insist they're in a \"healthy, profitable state\""
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/hideo-kojima-physint-playstation-release-decima-engine",
+          "titre": "Hideo Kojima doesn't know if Physint will be released on PS5, and he hasn't decided if it's going to use Sony's Decima game engine"
         },
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/hideo-kojima-couldnt-understand-why-physint-would-be-on-the-list-of-being-cancelled-by-sony",
           "titre": "Hideo Kojima \"couldn't understand\" why Physint \"would be on the list of being cancelled\" by Sony"
-        }
-      ]
-    },
-    {
-      "id": "this-week-in-pc-games-control-resonant-silent-hill-townfall",
-      "titre": "This week in PC games: Control: Resonant, Silent Hill: Townfall, and the history of Western philosophy as a pinball table",
-      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-control-resonant-silent-hill-townfall-and-the-history-of-western-philosophy-as-a-pinball-table",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer",
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 4,
-      "heures": 3.0,
-      "chaleur": 15,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-control-resonant-silent-hill-townfall-and-the-history-of-western-philosophy-as-a-pinball-table",
-          "titre": "This week in PC games: Control: Resonant, Silent Hill: Townfall, and the history of Western philosophy as a pinball table"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-review/",
-          "titre": "Silent Hill: Townfall review"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/silent-hill-townfall-review",
-          "titre": "Silent Hill: Townfall review"
         },
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/silent-hill-townfall",
-          "titre": "Review: Silent Hill: Townfall (PS5) - Dated Bite-Sized Horror... in a Good Way"
+          "url": "https://www.pushsquare.com/news/2026/09/i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6-hasnt-decided-on-decima-engine",
+          "titre": "'I Love Sony': Kojima Unsure if Physint Will Ever Come to PS6, Hasn't Decided on Decima Engine"
         }
       ]
     },
@@ -72,7 +42,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 11,
       "liens": [
         {
@@ -88,20 +58,32 @@ const VEILLE = {
       ]
     },
     {
-      "id": "with-the-death-of-boxed-playstation-games-incoming-sony-reco",
-      "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026",
-      "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
+      "id": "this-week-in-pc-games-control-resonant-silent-hill-townfall",
+      "titre": "This week in PC games: Control: Resonant, Silent Hill: Townfall, and the history of Western philosophy as a pinball table",
+      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-control-resonant-silent-hill-townfall-and-the-history-of-western-philosophy-as-a-pinball-table",
       "sources": [
-        "Push Square"
+        "Eurogamer",
+        "Push Square",
+        "Rock Paper Shotgun"
       ],
-      "reprises": 1,
-      "heures": 2.4,
+      "reprises": 3,
+      "heures": 5.0,
       "chaleur": 10,
       "liens": [
         {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-control-resonant-silent-hill-townfall-and-the-history-of-western-philosophy-as-a-pinball-table",
+          "titre": "This week in PC games: Control: Resonant, Silent Hill: Townfall, and the history of Western philosophy as a pinball table"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/silent-hill-townfall-review",
+          "titre": "Silent Hill: Townfall review"
+        },
+        {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
-          "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026"
+          "url": "https://www.pushsquare.com/reviews/ps5/silent-hill-townfall",
+          "titre": "Review: Silent Hill: Townfall (PS5) - Dated Bite-Sized Horror... in a Good Way"
         }
       ]
     },
@@ -114,7 +96,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 10,
       "liens": [
         {
@@ -130,26 +112,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-m-taking-insomniac-s-wolverine-patch-as-a-sign-this-is-as",
-      "titre": "I'm taking Insomniac's Wolverine patch as a sign: This is as bad as it's going to get",
-      "url": "https://www.pcgamer.com/games/im-taking-insomniacs-wolverine-patch-as-a-sign-this-is-as-bad-as-its-going-to-get/",
+      "id": "french-publisher-dear-villagers-confirms-layoffs",
+      "titre": "French publisher Dear Villagers confirms layoffs",
+      "url": "https://www.gamedeveloper.com/business/french-publisher-dear-villagers-confirms-layoffs",
       "sources": [
-        "Eurogamer",
-        "PC Gamer"
+        "Game Developer"
       ],
-      "reprises": 2,
-      "heures": 0.2,
+      "reprises": 1,
+      "heures": 1.3,
       "chaleur": 9,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/im-taking-insomniacs-wolverine-patch-as-a-sign-this-is-as-bad-as-its-going-to-get/",
-          "titre": "I'm taking Insomniac's Wolverine patch as a sign: This is as bad as it's going to get"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/french-publisher-dear-villagers-confirms-layoffs",
+          "titre": "French publisher Dear Villagers confirms layoffs"
+        }
+      ]
+    },
+    {
+      "id": "final-fantasy-7-revelation-will-offer-automatic-level-ups-if",
+      "titre": "Final Fantasy 7 Revelation Will Offer Automatic Level Ups If You Ignore Side Stuff",
+      "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-will-offer-automatic-level-ups-if-you-ignore-side-stuff",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-will-offer-automatic-level-ups-if-you-ignore-side-stuff",
+          "titre": "Final Fantasy 7 Revelation Will Offer Automatic Level Ups If You Ignore Side Stuff"
         },
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign",
-          "titre": "Wolverine developer Insomniac denies using generative AI after fans spot strange restroom sign"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/final-fantasy-revelation-will-let-players-automatically-raise-their-characters-level-to-skip-grinding/",
+          "titre": "Final Fantasy 7 Revelation will let players raise their character’s level automatically to skip grinding"
         }
       ]
     },
@@ -162,7 +162,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 9,
       "liens": [
         {
@@ -178,20 +178,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ahead-of-gta-6-rockstar-warn-modders-against-against-making",
-      "titre": "Ahead of GTA 6, Rockstar warn modders against against making unofficial main story expansions, unauthorised ports and mods that combine GTA maps",
-      "url": "https://www.rockpapershotgun.com/ahead-of-gta-6-rockstar-warn-modders-against-against-making-unofficial-main-story-expansions-unauthorised-ports-and-mods-that-combine-gta-maps",
+      "id": "i-thought-people-would-leave-hideo-kojima-offers-his-accoun",
+      "titre": "\"I thought people would leave\": Hideo Kojima offers his account of Physint's switch from PlayStation to Xbox, as his studio insist they're in a \"healthy, profitable state\"",
+      "url": "https://www.rockpapershotgun.com/i-thought-people-would-leave-hideo-kojima-offers-his-account-of-physints-switch-from-playstation-to-xbox-as-his-studio-insist-theyre-in-a-healthy-profitable-state",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 3.6,
+      "heures": 2.9,
       "chaleur": 9,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ahead-of-gta-6-rockstar-warn-modders-against-against-making-unofficial-main-story-expansions-unauthorised-ports-and-mods-that-combine-gta-maps",
-          "titre": "Ahead of GTA 6, Rockstar warn modders against against making unofficial main story expansions, unauthorised ports and mods that combine GTA maps"
+          "url": "https://www.rockpapershotgun.com/i-thought-people-would-leave-hideo-kojima-offers-his-account-of-physints-switch-from-playstation-to-xbox-as-his-studio-insist-theyre-in-a-healthy-profitable-state",
+          "titre": "\"I thought people would leave\": Hideo Kojima offers his account of Physint's switch from PlayStation to Xbox, as his studio insist they're in a \"healthy, profitable state\""
         }
       ]
     },
@@ -203,7 +203,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 8,
       "liens": [
         {
@@ -214,38 +214,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "microsoft-patents-idea-for-in-game-pc-and-xbox-adverts-shown",
-      "titre": "Microsoft patents idea for in-game PC and Xbox adverts shown during downtime \"trigger events\"",
-      "url": "https://www.eurogamer.net/microsoft-patent-ads-in-gameplay",
+      "id": "with-the-death-of-boxed-playstation-games-incoming-sony-reco",
+      "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026",
+      "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
       "sources": [
-        "Eurogamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 4.4,
       "chaleur": 8,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/microsoft-patent-ads-in-gameplay",
-          "titre": "Microsoft patents idea for in-game PC and Xbox adverts shown during downtime \"trigger events\""
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
+          "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026"
         }
       ]
     },
     {
-      "id": "steam-frame-s-odd-charging-behaviour-gets-patched-cuts-recha",
-      "titre": "Steam Frame's odd charging behaviour gets patched: cuts recharge times in half in some instances",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/steam-frames-odd-charging-behaviour-gets-patched-could-cut-recharge-times-in-half-in-some-instances/",
+      "id": "ahead-of-gta-6-rockstar-warn-modders-against-against-making",
+      "titre": "Ahead of GTA 6, Rockstar warn modders against against making unofficial main story expansions, unauthorised ports and mods that combine GTA maps",
+      "url": "https://www.rockpapershotgun.com/ahead-of-gta-6-rockstar-warn-modders-against-against-making-unofficial-main-story-expansions-unauthorised-ports-and-mods-that-combine-gta-maps",
       "sources": [
-        "PC Gamer"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 8,
+      "heures": 5.6,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/steam-frames-odd-charging-behaviour-gets-patched-could-cut-recharge-times-in-half-in-some-instances/",
-          "titre": "Steam Frame's odd charging behaviour gets patched: cuts recharge times in half in some instances"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/ahead-of-gta-6-rockstar-warn-modders-against-against-making-unofficial-main-story-expansions-unauthorised-ports-and-mods-that-combine-gta-maps",
+          "titre": "Ahead of GTA 6, Rockstar warn modders against against making unofficial main story expansions, unauthorised ports and mods that combine GTA maps"
         }
       ]
     },
@@ -258,7 +258,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 7,
       "liens": [
         {
@@ -281,7 +281,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 7,
       "liens": [
         {
@@ -300,7 +300,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 7,
       "liens": [
         {
@@ -550,6 +550,240 @@ const VEILLE = {
       ]
     },
     {
+      "id": "it-wasn-t-a-planned-thing-breaking-benjamin-singer-on-his-m",
+      "titre": "\"It wasn't a planned thing\": Breaking Benjamin singer on his mid-gig Fallout 4 mod promo being down to a broken drum and his love of VR",
+      "url": "https://www.rockpapershotgun.com/it-wasnt-a-planned-thing-breaking-benjamin-singer-on-his-mid-gig-fallout-4-mod-promo-being-down-to-a-broken-drum-and-his-love-of-vr",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/it-wasnt-a-planned-thing-breaking-benjamin-singer-on-his-mid-gig-fallout-4-mod-promo-being-down-to-a-broken-drum-and-his-love-of-vr",
+          "titre": "\"It wasn't a planned thing\": Breaking Benjamin singer on his mid-gig Fallout 4 mod promo being down to a broken drum and his love of VR"
+        }
+      ]
+    },
+    {
+      "id": "kojima-productions-survival-story-may-sound-strikingly-famil",
+      "titre": "Kojima Productions' survival story may sound strikingly familiar to struggling devs",
+      "url": "https://www.gamedeveloper.com/business/kojima-productions-survival-story-may-sound-strikingly-familiar-to-struggling-devs",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/kojima-productions-survival-story-may-sound-strikingly-familiar-to-struggling-devs",
+          "titre": "Kojima Productions' survival story may sound strikingly familiar to struggling devs"
+        }
+      ]
+    },
+    {
+      "id": "oh-good-the-pervert-s-back",
+      "titre": "Oh good, the pervert's back",
+      "url": "https://www.pcgamer.com/games/action/oh-good-the-perverts-back/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/oh-good-the-perverts-back/",
+          "titre": "Oh good, the pervert's back"
+        }
+      ]
+    },
+    {
+      "id": "feature-i-was-thinking-about-the-possibility-of-atelier-maom",
+      "titre": "Feature: 'I Was Thinking About the Possibility of Atelier Maomao': How The Apothecary Diaries Became a PS5 Game",
+      "url": "https://www.pushsquare.com/features/i-was-thinking-about-the-possibility-of-atelier-maomao-how-the-apothecary-diaries-became-a-ps5-game",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/i-was-thinking-about-the-possibility-of-atelier-maomao-how-the-apothecary-diaries-became-a-ps5-game",
+          "titre": "Feature: 'I Was Thinking About the Possibility of Atelier Maomao': How The Apothecary Diaries Became a PS5 Game"
+        }
+      ]
+    },
+    {
+      "id": "grand-theft-auto-6-sleuths-are-torn-on-whether-a-famous-flor",
+      "titre": "Grand Theft Auto 6 sleuths are torn on whether a famous Florida locale is in the game or not",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-key-west-map",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/grand-theft-auto-6-key-west-map",
+          "titre": "Grand Theft Auto 6 sleuths are torn on whether a famous Florida locale is in the game or not"
+        }
+      ]
+    },
+    {
+      "id": "touch-grass-not-when-amd-has-whittled-down-ray-tracing-memor",
+      "titre": "Touch grass? Not when AMD has whittled down ray tracing memory usage by 98% for these hardware-sapping bushes and trees",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/touch-grass-not-when-amd-has-whittled-down-ray-tracing-memory-usage-by-98-percent-for-these-hardware-sapping-bushes-and-trees/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/touch-grass-not-when-amd-has-whittled-down-ray-tracing-memory-usage-by-98-percent-for-these-hardware-sapping-bushes-and-trees/",
+          "titre": "Touch grass? Not when AMD has whittled down ray tracing memory usage by 98% for these hardware-sapping bushes and trees"
+        }
+      ]
+    },
+    {
+      "id": "microsoft-file-patent-for-a-machine-learning-system-that-wou",
+      "titre": "Microsoft file patent for a machine learning system that would \"train\" itself on your playtime to work out when you'll be least annoyed by in-game ads",
+      "url": "https://www.rockpapershotgun.com/microsoft-file-patent-for-a-machine-learning-system-that-would-train-itself-on-your-playtime-to-work-out-when-youll-be-least-annoyed-by-in-game-ads",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/microsoft-file-patent-for-a-machine-learning-system-that-would-train-itself-on-your-playtime-to-work-out-when-youll-be-least-annoyed-by-in-game-ads",
+          "titre": "Microsoft file patent for a machine learning system that would \"train\" itself on your playtime to work out when you'll be least annoyed by in-game ads"
+        }
+      ]
+    },
+    {
+      "id": "alright-wow-forever-gamers-are-we-team-hd-models-or-team-old",
+      "titre": "Alright WoW: Forever gamers, are we team HD models or team old school models?",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/alright-wow-forever-gamers-are-we-team-hd-models-or-team-old-school-models/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/alright-wow-forever-gamers-are-we-team-hd-models-or-team-old-school-models/",
+          "titre": "Alright WoW: Forever gamers, are we team HD models or team old school models?"
+        }
+      ]
+    },
+    {
+      "id": "pikachu-spent-67-days-in-space-as-part-of-pok-mon-x-esa-coll",
+      "titre": "Pikachu Spent 67 Days In Space As Part Of Pokémon X ESA Collaboration",
+      "url": "https://www.nintendolife.com/news/2026/09/pikachu-spent-67-days-in-space-as-part-of-pokemon-x-esa-collaboration",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/pikachu-spent-67-days-in-space-as-part-of-pokemon-x-esa-collaboration",
+          "titre": "Pikachu Spent 67 Days In Space As Part Of Pokémon X ESA Collaboration"
+        }
+      ]
+    },
+    {
+      "id": "wow-forever-has-rendered-me-a-min-maxing-hypocrite-and-here",
+      "titre": "WoW: Forever has rendered me a min-maxing hypocrite, and here's how you can join me",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-has-rendered-me-a-min-maxing-hypocrite-and-heres-how-you-can-join-me/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-has-rendered-me-a-min-maxing-hypocrite-and-heres-how-you-can-join-me/",
+          "titre": "WoW: Forever has rendered me a min-maxing hypocrite, and here's how you can join me"
+        }
+      ]
+    },
+    {
+      "id": "sony-officially-announces-a-new-limited-edition-ps5-dualsens",
+      "titre": "Sony officially announces a new limited edition PS5 DualSense controller based on K-pop star Lisa",
+      "url": "https://www.videogameschronicle.com/news/sony-officially-announces-a-new-limited-edition-ps5-dualsense-controller-based-on-k-pop-star-lisa/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sony-officially-announces-a-new-limited-edition-ps5-dualsense-controller-based-on-k-pop-star-lisa/",
+          "titre": "Sony officially announces a new limited edition PS5 DualSense controller based on K-pop star Lisa"
+        }
+      ]
+    },
+    {
+      "id": "virtue-and-a-sledgehammer-will-begin-battering-down-the-wall",
+      "titre": "Virtue and a Sledgehammer will begin battering down the walls and android ghosts of a hometown filled with emotional memories this October",
+      "url": "https://www.rockpapershotgun.com/virtue-and-a-sledgehammer-will-begin-battering-down-the-walls-and-android-ghosts-of-a-hometown-filled-with-emotional-memories-this-october",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/virtue-and-a-sledgehammer-will-begin-battering-down-the-walls-and-android-ghosts-of-a-hometown-filled-with-emotional-memories-this-october",
+          "titre": "Virtue and a Sledgehammer will begin battering down the walls and android ghosts of a hometown filled with emotional memories this October"
+        }
+      ]
+    },
+    {
+      "id": "i-m-taking-insomniac-s-wolverine-patch-as-a-sign-this-is-as",
+      "titre": "I'm taking Insomniac's Wolverine patch as a sign: This is as bad as it's going to get",
+      "url": "https://www.pcgamer.com/games/im-taking-insomniacs-wolverine-patch-as-a-sign-this-is-as-bad-as-its-going-to-get/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/im-taking-insomniacs-wolverine-patch-as-a-sign-this-is-as-bad-as-its-going-to-get/",
+          "titre": "I'm taking Insomniac's Wolverine patch as a sign: This is as bad as it's going to get"
+        }
+      ]
+    },
+    {
       "id": "fly-between-radio-outposts-inside-a-murky-megastructure-in-t",
       "titre": "Fly between radio outposts inside a murky megastructure in The Hollowing, a follow-up to the brilliant spelunking sim Lorn's Lure",
       "url": "https://www.rockpapershotgun.com/fly-between-radio-outposts-inside-a-murky-megastructure-in-the-hollowing-a-follow-up-to-the-brilliant-spelunking-sim-lorns-lure",
@@ -557,7 +791,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -575,7 +809,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -593,7 +827,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -611,7 +845,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -629,7 +863,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -647,7 +881,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
@@ -665,7 +899,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -683,7 +917,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -701,7 +935,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -719,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -737,7 +971,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -755,7 +989,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -773,7 +1007,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -791,7 +1025,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -809,7 +1043,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -820,182 +1054,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "wow-forever-mentally-broke-me-with-a-boulder",
-      "titre": "WoW: Forever mentally broke me with a boulder",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-mentally-broke-me-with-a-boulder/",
+      "id": "microsoft-patents-idea-for-in-game-pc-and-xbox-adverts-shown",
+      "titre": "Microsoft patents idea for in-game PC and Xbox adverts shown during downtime \"trigger events\"",
+      "url": "https://www.eurogamer.net/microsoft-patent-ads-in-gameplay",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/microsoft-patent-ads-in-gameplay",
+          "titre": "Microsoft patents idea for in-game PC and Xbox adverts shown during downtime \"trigger events\""
+        }
+      ]
+    },
+    {
+      "id": "steam-frame-s-odd-charging-behaviour-gets-patched-cuts-recha",
+      "titre": "Steam Frame's odd charging behaviour gets patched: cuts recharge times in half in some instances",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/steam-frames-odd-charging-behaviour-gets-patched-could-cut-recharge-times-in-half-in-some-instances/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 4.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-mentally-broke-me-with-a-boulder/",
-          "titre": "WoW: Forever mentally broke me with a boulder"
-        }
-      ]
-    },
-    {
-      "id": "i-remember-when-jensen-huang-used-to-sell-me-gpus-now-he-s-o",
-      "titre": "I remember when Jensen Huang used to sell me GPUs, now he's out there having to deny that AI will cause 'the end of the world'",
-      "url": "https://www.pcgamer.com/software/ai/i-remember-when-jensen-huang-used-to-sell-me-gpus-now-hes-out-there-having-to-deny-that-ai-will-cause-the-end-of-the-world/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/i-remember-when-jensen-huang-used-to-sell-me-gpus-now-hes-out-there-having-to-deny-that-ai-will-cause-the-end-of-the-world/",
-          "titre": "I remember when Jensen Huang used to sell me GPUs, now he's out there having to deny that AI will cause 'the end of the world'"
-        }
-      ]
-    },
-    {
-      "id": "tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai",
-      "titre": "Tokyo Game Show 2026 celebrated the past, and an uncertain AI future | Opinion",
-      "url": "https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion",
-          "titre": "Tokyo Game Show 2026 celebrated the past, and an uncertain AI future | Opinion"
-        }
-      ]
-    },
-    {
-      "id": "full-unicorn-vomit-or-stealthed-out-mean-machine-i-want-to-k",
-      "titre": "Full unicorn vomit, or stealthed-out mean machine? I want to know how much RGB festoons your gaming PC, please and thank you",
-      "url": "https://www.pcgamer.com/hardware/lighting/full-unicorn-vomit-or-stealthed-out-mean-machine-i-want-to-know-how-much-rgb-festoons-your-gaming-pc-please-and-thank-you/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/lighting/full-unicorn-vomit-or-stealthed-out-mean-machine-i-want-to-know-how-much-rgb-festoons-your-gaming-pc-please-and-thank-you/",
-          "titre": "Full unicorn vomit, or stealthed-out mean machine? I want to know how much RGB festoons your gaming PC, please and thank you"
-        }
-      ]
-    },
-    {
-      "id": "northern-forge-studios-and-runaway-play-lead-green-games-jam",
-      "titre": "Northern Forge Studios and Runaway Play lead Green Games Jam Awards 2026",
-      "url": "https://www.gamesindustry.biz/northern-forge-studios-and-runaway-play-lead-green-games-jam-awards-2026",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/northern-forge-studios-and-runaway-play-lead-green-games-jam-awards-2026",
-          "titre": "Northern Forge Studios and Runaway Play lead Green Games Jam Awards 2026"
-        }
-      ]
-    },
-    {
-      "id": "final-fantasy-7-revelation-will-let-players-raise-their-char",
-      "titre": "Final Fantasy 7 Revelation will let players raise their character’s level automatically to skip grinding",
-      "url": "https://www.videogameschronicle.com/news/final-fantasy-revelation-will-let-players-automatically-raise-their-characters-level-to-skip-grinding/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/final-fantasy-revelation-will-let-players-automatically-raise-their-characters-level-to-skip-grinding/",
-          "titre": "Final Fantasy 7 Revelation will let players raise their character’s level automatically to skip grinding"
-        }
-      ]
-    },
-    {
-      "id": "i-tried-to-make-a-jpg-bigger-than-mathematically-possible-ou",
-      "titre": "I tried to make a jpg bigger than mathematically possible out of an entire year's worth of PC Gamer magazine pages",
-      "url": "https://www.pcgamer.com/hardware/i-tried-to-make-a-jpg-bigger-than-mathematically-possible-out-of-an-entire-years-worth-of-pc-gamer-magazine-pages/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/i-tried-to-make-a-jpg-bigger-than-mathematically-possible-out-of-an-entire-years-worth-of-pc-gamer-magazine-pages/",
-          "titre": "I tried to make a jpg bigger than mathematically possible out of an entire year's worth of PC Gamer magazine pages"
-        }
-      ]
-    },
-    {
-      "id": "first-ps-plus-extra-game-for-october-2026-announced",
-      "titre": "First PS Plus Extra Game for October 2026 Announced",
-      "url": "https://www.pushsquare.com/news/2026/09/first-ps-plus-extra-game-for-october-2026-announced",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/first-ps-plus-extra-game-for-october-2026-announced",
-          "titre": "First PS Plus Extra Game for October 2026 Announced"
-        }
-      ]
-    },
-    {
-      "id": "wow-devs-surprised-to-find-pure-liquid-nostalgia-is-popular",
-      "titre": "WoW devs surprised to find pure liquid nostalgia is popular",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-devs-surprised-to-find-pure-liquid-nostalgia-is-popular/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-devs-surprised-to-find-pure-liquid-nostalgia-is-popular/",
-          "titre": "WoW devs surprised to find pure liquid nostalgia is popular"
-        }
-      ]
-    },
-    {
-      "id": "uk-charts-fire-emblem-lights-up-the-podium-but-it-can-t-claw",
-      "titre": "UK Charts: Fire Emblem Lights Up The Podium, But It Can't Claw Past Sony's Latest",
-      "url": "https://www.nintendolife.com/news/2026/09/uk-charts-fire-emblem-lights-up-the-podium-but-it-cant-claw-past-sonys-latest",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/uk-charts-fire-emblem-lights-up-the-podium-but-it-cant-claw-past-sonys-latest",
-          "titre": "UK Charts: Fire Emblem Lights Up The Podium, But It Can't Claw Past Sony's Latest"
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/steam-frames-odd-charging-behaviour-gets-patched-could-cut-recharge-times-in-half-in-some-instances/",
+          "titre": "Steam Frame's odd charging behaviour gets patched: cuts recharge times in half in some instances"
         }
       ]
     },
@@ -1007,31 +1097,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/sonys-acclaimed-resident-evil-movie-breaks-box-office-records",
           "titre": "Sony's Acclaimed Resident Evil Movie Breaks Box Office Records"
-        }
-      ]
-    },
-    {
-      "id": "steam-week-in-review-this-indie-publisher-released-29-terrib",
-      "titre": "Steam Week in Review: This indie publisher released 29 terrible-looking Steam games in a single day—will they make any money?",
-      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-this-indie-publisher-released-29-terrible-looking-steam-games-in-a-single-day-will-they-make-any-money/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 9.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-this-indie-publisher-released-29-terrible-looking-steam-games-in-a-single-day-will-they-make-any-money/",
-          "titre": "Steam Week in Review: This indie publisher released 29 terrible-looking Steam games in a single day—will they make any money?"
         }
       ]
     },
@@ -1043,7 +1115,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.4,
+      "heures": 28.4,
       "chaleur": 5,
       "liens": [
         {
@@ -1061,7 +1133,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 33.3,
       "chaleur": 5,
       "liens": [
         {
@@ -1070,81 +1142,9 @@ const VEILLE = {
           "titre": "Multiple Switch Games Receive Switch 2 Compatibility Fixes"
         }
       ]
-    },
-    {
-      "id": "stellar-blade-gets-a-switch-2-eshop-demo-today",
-      "titre": "Stellar Blade Gets A Switch 2 eShop Demo Today",
-      "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-gets-a-switch-2-eshop-demo-today",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 31.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-gets-a-switch-2-eshop-demo-today",
-          "titre": "Stellar Blade Gets A Switch 2 eShop Demo Today"
-        }
-      ]
-    },
-    {
-      "id": "try-one-of-2026-s-most-anticipated-2d-games-in-castlevania-p",
-      "titre": "Try One of 2026's Most Anticipated 2D Games in Castlevania PS5 Demo",
-      "url": "https://www.pushsquare.com/news/2026/09/try-one-of-2026s-most-anticipated-2d-games-in-castlevania-ps5-demo",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/try-one-of-2026s-most-anticipated-2d-games-in-castlevania-ps5-demo",
-          "titre": "Try One of 2026's Most Anticipated 2D Games in Castlevania PS5 Demo"
-        }
-      ]
-    },
-    {
-      "id": "marvel-s-wolverine-fart-gas-scent-trails-addressed-by-a-surp",
-      "titre": "Marvel's Wolverine \"fart gas\" scent trails addressed by a surprise update",
-      "url": "https://www.eurogamer.net/marvels-wolverine-patch-fart-gas-scent-trails-crashes",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 5.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marvels-wolverine-patch-fart-gas-scent-trails-crashes",
-          "titre": "Marvel's Wolverine \"fart gas\" scent trails addressed by a surprise update"
-        }
-      ]
-    },
-    {
-      "id": "stellar-blade-still-not-finished-four-free-bayonetta-costume",
-      "titre": "Stellar Blade Still Not Finished, Four Free Bayonetta Costumes Coming to PS5",
-      "url": "https://www.pushsquare.com/news/2026/09/stellar-blade-still-not-finished-four-free-bayonetta-costumes-coming-to-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 8.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/stellar-blade-still-not-finished-four-free-bayonetta-costumes-coming-to-ps5",
-          "titre": "Stellar Blade Still Not Finished, Four Free Bayonetta Costumes Coming to PS5"
-        }
-      ]
     }
   ],
   "alertes": [
-    "\"I thought people would leave\": Hideo Kojima offers his account of Physint's switch from PlayStation to Xbox, as his studio insist they're in a \"healthy, profitable state\""
+    "Hideo Kojima doesn't know if Physint will be released on PS5, and he hasn't decided if it's going to use Sony's Decima game engine"
   ]
 };
