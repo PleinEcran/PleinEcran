@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "21/09/2026 à 16h21",
+  "collecte": "21/09/2026 à 18h22",
   "seuil": 14,
   "sujets": [
     {
@@ -9,12 +9,11 @@ const VEILLE = {
       "url": "https://www.eurogamer.net/hideo-kojima-physint-playstation-release-decima-engine",
       "sources": [
         "Eurogamer",
-        "GamesIndustry.biz",
-        "Push Square"
+        "GamesIndustry.biz"
       ],
-      "reprises": 3,
-      "heures": 1.7,
-      "chaleur": 15,
+      "reprises": 2,
+      "heures": 3.8,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Eurogamer",
@@ -25,11 +24,6 @@ const VEILLE = {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/hideo-kojima-couldnt-understand-why-physint-would-be-on-the-list-of-being-cancelled-by-sony",
           "titre": "Hideo Kojima \"couldn't understand\" why Physint \"would be on the list of being cancelled\" by Sony"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6-hasnt-decided-on-decima-engine",
-          "titre": "'I Love Sony': Kojima Unsure if Physint Will Ever Come to PS6, Hasn't Decided on Decima Engine"
         }
       ]
     },
@@ -42,7 +36,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 6.2,
+      "heures": 8.2,
       "chaleur": 11,
       "liens": [
         {
@@ -67,7 +61,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 5.0,
+      "heures": 7.1,
       "chaleur": 10,
       "liens": [
         {
@@ -96,7 +90,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 6.9,
+      "heures": 9.0,
       "chaleur": 10,
       "liens": [
         {
@@ -112,6 +106,72 @@ const VEILLE = {
       ]
     },
     {
+      "id": "dawnwalker-s-first-big-ps5-patch-adds-an-even-easier-difficu",
+      "titre": "Dawnwalker's First Big PS5 Patch Adds an Even Easier Difficulty Mode and Improves Combat",
+      "url": "https://www.pushsquare.com/news/2026/09/dawnwalkers-first-big-ps5-patch-adds-an-even-easier-difficulty-mode-and-improves-combat",
+      "sources": [
+        "Eurogamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 0.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/dawnwalkers-first-big-ps5-patch-adds-an-even-easier-difficulty-mode-and-improves-combat",
+          "titre": "Dawnwalker's First Big PS5 Patch Adds an Even Easier Difficulty Mode and Improves Combat"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/blood-of-dawnwalker-difficulty-combat-patch-update",
+          "titre": "The Blood of Dawnwalker getting a new difficulty option, combat changes and more in game's first \"big\" patch scheduled for early October"
+        }
+      ]
+    },
+    {
+      "id": "feature-indie-games-survey-2026",
+      "titre": "Feature: Indie Games Survey 2026",
+      "url": "https://www.pushsquare.com/features/indie-games-survey-2026-ps",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 1.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/indie-games-survey-2026-ps",
+          "titre": "Feature: Indie Games Survey 2026"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/indie-games-survey-2026-nl",
+          "titre": "Feature: Indie Games Survey 2026"
+        }
+      ]
+    },
+    {
+      "id": "gta-5-has-true-air-travel-now-thanks-to-the-mod-i-just-insta",
+      "titre": "GTA 5 has true air travel now thanks to the mod I just installed, but they won't let me give me my pals piggybacks onto the plane",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5-has-true-air-travel-now-thanks-to-the-mod-i-just-installed-but-they-wont-let-me-give-me-my-pals-piggybacks-onto-the-plane/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5-has-true-air-travel-now-thanks-to-the-mod-i-just-installed-but-they-wont-let-me-give-me-my-pals-piggybacks-onto-the-plane/",
+          "titre": "GTA 5 has true air travel now thanks to the mod I just installed, but they won't let me give me my pals piggybacks onto the plane"
+        }
+      ]
+    },
+    {
       "id": "french-publisher-dear-villagers-confirms-layoffs",
       "titre": "French publisher Dear Villagers confirms layoffs",
       "url": "https://www.gamedeveloper.com/business/french-publisher-dear-villagers-confirms-layoffs",
@@ -119,7 +179,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.4,
       "chaleur": 9,
       "liens": [
         {
@@ -138,7 +198,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 9,
       "liens": [
         {
@@ -154,6 +214,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "it-s-sad-and-devastating-black-myth-wukong-s-physical-publi",
+      "titre": "\"It's sad and devastating\" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs",
+      "url": "https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs",
+          "titre": "\"It's sad and devastating\" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs"
+        }
+      ]
+    },
+    {
+      "id": "with-the-death-of-boxed-playstation-games-incoming-sony-reco",
+      "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026",
+      "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 6.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
+          "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026"
+        }
+      ]
+    },
+    {
       "id": "resident-evil-is-the-best-videogame-movie-because-bryan-suck",
       "titre": "Resident Evil is the best videogame movie because Bryan sucks",
       "url": "https://www.pcgamer.com/games/resident-evil/resident-evil-is-the-best-videogame-movie-because-bryan-sucks/",
@@ -162,8 +258,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 2.6,
-      "chaleur": 9,
+      "heures": 4.7,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -185,49 +281,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 9,
+      "heures": 4.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/i-thought-people-would-leave-hideo-kojima-offers-his-account-of-physints-switch-from-playstation-to-xbox-as-his-studio-insist-theyre-in-a-healthy-profitable-state",
           "titre": "\"I thought people would leave\": Hideo Kojima offers his account of Physint's switch from PlayStation to Xbox, as his studio insist they're in a \"healthy, profitable state\""
-        }
-      ]
-    },
-    {
-      "id": "the-steam-frame-s-first-post-launch-update-speeds-up-chargin",
-      "titre": "The Steam Frame’s first post-launch update speeds up charging and ungarbles a mic bug",
-      "url": "https://www.rockpapershotgun.com/the-steam-frames-first-post-launch-update-speeds-up-charging-and-ungarbles-a-mic-bug",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-steam-frames-first-post-launch-update-speeds-up-charging-and-ungarbles-a-mic-bug",
-          "titre": "The Steam Frame’s first post-launch update speeds up charging and ungarbles a mic bug"
-        }
-      ]
-    },
-    {
-      "id": "with-the-death-of-boxed-playstation-games-incoming-sony-reco",
-      "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026",
-      "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 4.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
-          "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026"
         }
       ]
     },
@@ -239,7 +299,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.6,
       "chaleur": 7,
       "liens": [
         {
@@ -258,7 +318,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 7,
       "liens": [
         {
@@ -281,7 +341,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 7,
       "liens": [
         {
@@ -300,7 +360,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.9,
+      "heures": 9.9,
       "chaleur": 7,
       "liens": [
         {
@@ -550,6 +610,96 @@ const VEILLE = {
       ]
     },
     {
+      "id": "sony-seemingly-incentivising-digital-ps5-purchases-with-cash",
+      "titre": "Sony Seemingly Incentivising Digital PS5 Purchases with Cashback",
+      "url": "https://www.pushsquare.com/news/2026/09/sony-seemingly-incentivising-digital-ps5-purchases-with-cashback",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/sony-seemingly-incentivising-digital-ps5-purchases-with-cashback",
+          "titre": "Sony Seemingly Incentivising Digital PS5 Purchases with Cashback"
+        }
+      ]
+    },
+    {
+      "id": "wait-how-did-lego-beat-minecraft-to-making-a-city-builder",
+      "titre": "Wait, how did Lego beat Minecraft to making a city builder?",
+      "url": "https://www.pcgamer.com/games/city-builder/wait-how-did-lego-beat-minecraft-to-making-a-city-builder/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/city-builder/wait-how-did-lego-beat-minecraft-to-making-a-city-builder/",
+          "titre": "Wait, how did Lego beat Minecraft to making a city builder?"
+        }
+      ]
+    },
+    {
+      "id": "bungie-un-cancels-destiny-vaulted-content-is-coming-back-as",
+      "titre": "Bungie un-cancels Destiny: Vaulted content is coming back as new leadership promises 'Destiny is foundational to our future'",
+      "url": "https://www.pcgamer.com/games/bungie-un-cancels-destiny-vaulted-content-is-coming-back-as-new-leadership-promises-destiny-is-foundational-to-our-future/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/bungie-un-cancels-destiny-vaulted-content-is-coming-back-as-new-leadership-promises-destiny-is-foundational-to-our-future/",
+          "titre": "Bungie un-cancels Destiny: Vaulted content is coming back as new leadership promises 'Destiny is foundational to our future'"
+        }
+      ]
+    },
+    {
+      "id": "bungie-is-freeing-vaulted-destiny-2-campaigns-after-marathon",
+      "titre": "Bungie is freeing vaulted Destiny 2 campaigns after Marathon \"did not reach as many players as we had hoped\"",
+      "url": "https://www.eurogamer.net/bungie-vaulted-destiny-2-campaigns-marathon-future",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/bungie-vaulted-destiny-2-campaigns-marathon-future",
+          "titre": "Bungie is freeing vaulted Destiny 2 campaigns after Marathon \"did not reach as many players as we had hoped\""
+        }
+      ]
+    },
+    {
+      "id": "we-are-not-done-with-destiny-bungie-commits-to-sci-fi-serie",
+      "titre": "'We Are Not Done with Destiny': Bungie Commits to Sci-Fi Series After Fan Backlash, Restores Destiny 2 Content",
+      "url": "https://www.pushsquare.com/news/2026/09/we-are-not-done-with-destiny-bungie-commits-to-sci-fi-series-after-fan-backlash-restores-destiny-2-content",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/we-are-not-done-with-destiny-bungie-commits-to-sci-fi-series-after-fan-backlash-restores-destiny-2-content",
+          "titre": "'We Are Not Done with Destiny': Bungie Commits to Sci-Fi Series After Fan Backlash, Restores Destiny 2 Content"
+        }
+      ]
+    },
+    {
       "id": "it-wasn-t-a-planned-thing-breaking-benjamin-singer-on-his-m",
       "titre": "\"It wasn't a planned thing\": Breaking Benjamin singer on his mid-gig Fallout 4 mod promo being down to a broken drum and his love of VR",
       "url": "https://www.rockpapershotgun.com/it-wasnt-a-planned-thing-breaking-benjamin-singer-on-his-mid-gig-fallout-4-mod-promo-being-down-to-a-broken-drum-and-his-love-of-vr",
@@ -557,7 +707,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
@@ -575,7 +725,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -593,7 +743,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -611,7 +761,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -629,7 +779,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -647,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -665,7 +815,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -683,7 +833,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -701,7 +851,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -719,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -737,7 +887,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -755,7 +905,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -766,290 +916,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-m-taking-insomniac-s-wolverine-patch-as-a-sign-this-is-as",
-      "titre": "I'm taking Insomniac's Wolverine patch as a sign: This is as bad as it's going to get",
-      "url": "https://www.pcgamer.com/games/im-taking-insomniacs-wolverine-patch-as-a-sign-this-is-as-bad-as-its-going-to-get/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/im-taking-insomniacs-wolverine-patch-as-a-sign-this-is-as-bad-as-its-going-to-get/",
-          "titre": "I'm taking Insomniac's Wolverine patch as a sign: This is as bad as it's going to get"
-        }
-      ]
-    },
-    {
-      "id": "fly-between-radio-outposts-inside-a-murky-megastructure-in-t",
-      "titre": "Fly between radio outposts inside a murky megastructure in The Hollowing, a follow-up to the brilliant spelunking sim Lorn's Lure",
-      "url": "https://www.rockpapershotgun.com/fly-between-radio-outposts-inside-a-murky-megastructure-in-the-hollowing-a-follow-up-to-the-brilliant-spelunking-sim-lorns-lure",
+      "id": "the-steam-frame-s-first-post-launch-update-speeds-up-chargin",
+      "titre": "The Steam Frame’s first post-launch update speeds up charging and ungarbles a mic bug",
+      "url": "https://www.rockpapershotgun.com/the-steam-frames-first-post-launch-update-speeds-up-charging-and-ungarbles-a-mic-bug",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 5.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/fly-between-radio-outposts-inside-a-murky-megastructure-in-the-hollowing-a-follow-up-to-the-brilliant-spelunking-sim-lorns-lure",
-          "titre": "Fly between radio outposts inside a murky megastructure in The Hollowing, a follow-up to the brilliant spelunking sim Lorn's Lure"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-players-are-being-naughty-with-the",
-      "titre": "World of Warcraft: Forever players are being naughty with the new naming system",
-      "url": "https://www.eurogamer.net/world-of-warcraft-forever-character-surnames-naughty",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/world-of-warcraft-forever-character-surnames-naughty",
-          "titre": "World of Warcraft: Forever players are being naughty with the new naming system"
-        }
-      ]
-    },
-    {
-      "id": "mystique-s-lesbian-relationship-in-marvel-s-wolverine-is-see",
-      "titre": "Mystique's lesbian relationship in Marvel's Wolverine is seemingly censored in certain parts of the world",
-      "url": "https://www.eurogamer.net/marvels-wolverine-mystique-lgbtq-censored-middle-east",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marvels-wolverine-mystique-lgbtq-censored-middle-east",
-          "titre": "Mystique's lesbian relationship in Marvel's Wolverine is seemingly censored in certain parts of the world"
-        }
-      ]
-    },
-    {
-      "id": "fire-emblem-fortune-s-weave-renown-how-to-raise-renown-fast",
-      "titre": "Fire Emblem Fortune’s Weave Renown: How to raise Renown fast",
-      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-renown-how-to-raise-renown-fast/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-renown-how-to-raise-renown-fast/",
-          "titre": "Fire Emblem Fortune’s Weave Renown: How to raise Renown fast"
-        }
-      ]
-    },
-    {
-      "id": "who-the-hell-is-buying-their-server-memory-from-amazon-also",
-      "titre": "Who the hell is buying their server memory from Amazon?! Also, can I interest you in a $101,000 kit?",
-      "url": "https://www.pcgamer.com/hardware/memory/who-the-hell-is-buying-their-server-memory-from-amazon-also-can-i-interest-you-in-a-usd101-000-kit/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/memory/who-the-hell-is-buying-their-server-memory-from-amazon-also-can-i-interest-you-in-a-usd101-000-kit/",
-          "titre": "Who the hell is buying their server memory from Amazon?! Also, can I interest you in a $101,000 kit?"
-        }
-      ]
-    },
-    {
-      "id": "the-blood-of-dawnwalker-cost-less-than-expected-to-make-it-s",
-      "titre": "The Blood of Dawnwalker cost less than expected to make - it's more of a double-A game than a triple-A blockbuster",
-      "url": "https://www.eurogamer.net/blood-of-dawnwalker-budget-revealed",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blood-of-dawnwalker-budget-revealed",
-          "titre": "The Blood of Dawnwalker cost less than expected to make - it's more of a double-A game than a triple-A blockbuster"
-        }
-      ]
-    },
-    {
-      "id": "say-sawadika-to-your-new-ps5-controller-feat-lisa-from-black",
-      "titre": "Say Sawadika to Your New PS5 Controller, Feat Lisa from Blackpink",
-      "url": "https://www.pushsquare.com/news/2026/09/say-sawadika-to-your-new-ps5-controller-feat-lisa-from-blackpink",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/say-sawadika-to-your-new-ps5-controller-feat-lisa-from-blackpink",
-          "titre": "Say Sawadika to Your New PS5 Controller, Feat Lisa from Blackpink"
-        }
-      ]
-    },
-    {
-      "id": "kojima-says-his-sony-split-was-amicable-and-they-both-still",
-      "titre": "Kojima says his Sony split was amicable and they both still love us very much",
-      "url": "https://www.pcgamer.com/gaming-industry/kojima-says-his-sony-split-was-amicable-and-they-both-still-love-us-very-much/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/kojima-says-his-sony-split-was-amicable-and-they-both-still-love-us-very-much/",
-          "titre": "Kojima says his Sony split was amicable and they both still love us very much"
-        }
-      ]
-    },
-    {
-      "id": "activision-cites-data-claiming-cheating-in-games-is-an-8-5bn",
-      "titre": "Activision cites data claiming cheating in games is an $8.5bn industry; 69% of online multiplayer studios consider cheating \"a significant or very significant problem\"",
-      "url": "https://www.gamesindustry.biz/activision-cites-data-claiming-cheating-in-games-is-an-85bn-industry-69-of-online-multiplayer-studios-consider-cheating-a-significant-or-very-significant-problem",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/activision-cites-data-claiming-cheating-in-games-is-an-85bn-industry-69-of-online-multiplayer-studios-consider-cheating-a-significant-or-very-significant-problem",
-          "titre": "Activision cites data claiming cheating in games is an $8.5bn industry; 69% of online multiplayer studios consider cheating \"a significant or very significant problem\""
-        }
-      ]
-    },
-    {
-      "id": "thing-is-that-you-watch-this-disembodied-ai-robot-hand-walk",
-      "titre": "Thing, is that you? Watch this disembodied AI robot hand 'walk' like a terrible spider from the depths of my nightmares",
-      "url": "https://www.pcgamer.com/hardware/thing-is-that-you-watch-this-disembodied-ai-robot-hand-walk-like-a-terrible-spider-from-the-depths-of-my-nightmares/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/thing-is-that-you-watch-this-disembodied-ai-robot-hand-walk-like-a-terrible-spider-from-the-depths-of-my-nightmares/",
-          "titre": "Thing, is that you? Watch this disembodied AI robot hand 'walk' like a terrible spider from the depths of my nightmares"
-        }
-      ]
-    },
-    {
-      "id": "ball-x-pit-s-next-dlc-arrives-this-november-and-it-s-huge",
-      "titre": "Ball x Pit's Next DLC Arrives This November, And It's Huge",
-      "url": "https://www.nintendolife.com/news/2026/09/ball-x-pits-next-dlc-arrives-this-november-and-its-huge",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/ball-x-pits-next-dlc-arrives-this-november-and-its-huge",
-          "titre": "Ball x Pit's Next DLC Arrives This November, And It's Huge"
-        }
-      ]
-    },
-    {
-      "id": "an-officially-endorsed-box-set-of-manic-miner-creator-matthe",
-      "titre": "An officially endorsed box set of Manic Miner creator Matthew Smith’s ZX Spectrum games is coming",
-      "url": "https://www.videogameschronicle.com/news/an-officially-endorsed-box-set-of-manic-miner-creator-matthew-smiths-zx-spectrum-games-is-coming/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/an-officially-endorsed-box-set-of-manic-miner-creator-matthew-smiths-zx-spectrum-games-is-coming/",
-          "titre": "An officially endorsed box set of Manic Miner creator Matthew Smith’s ZX Spectrum games is coming"
-        }
-      ]
-    },
-    {
-      "id": "persona-4-revival-seems-to-add-a-whole-new-social-link",
-      "titre": "Persona 4 Revival Seems to Add a Whole New Social Link",
-      "url": "https://www.pushsquare.com/news/2026/09/persona-4-revival-seems-to-add-a-whole-new-social-link",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/persona-4-revival-seems-to-add-a-whole-new-social-link",
-          "titre": "Persona 4 Revival Seems to Add a Whole New Social Link"
-        }
-      ]
-    },
-    {
-      "id": "oblivion-remastered-update-seems-to-have-borked-the-visuals",
-      "titre": "Oblivion Remastered Update Seems To Have Borked The Visuals",
-      "url": "https://www.nintendolife.com/news/2026/09/oblivion-remastered-update-seems-to-have-borked-the-visuals",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/oblivion-remastered-update-seems-to-have-borked-the-visuals",
-          "titre": "Oblivion Remastered Update Seems To Have Borked The Visuals"
-        }
-      ]
-    },
-    {
-      "id": "classic-rpgs-lufia-and-lufia-2-are-adventuring-to-ps5-with-e",
-      "titre": "Classic RPGs Lufia and Lufia 2 Are Adventuring to PS5 with 'Enhanced' Gameplay",
-      "url": "https://www.pushsquare.com/news/2026/09/classic-rpgs-lufia-and-lufia-2-are-adventuring-to-ps5-with-enhanced-gameplay",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/classic-rpgs-lufia-and-lufia-2-are-adventuring-to-ps5-with-enhanced-gameplay",
-          "titre": "Classic RPGs Lufia and Lufia 2 Are Adventuring to PS5 with 'Enhanced' Gameplay"
+          "url": "https://www.rockpapershotgun.com/the-steam-frames-first-post-launch-update-speeds-up-charging-and-ungarbles-a-mic-bug",
+          "titre": "The Steam Frame’s first post-launch update speeds up charging and ungarbles a mic bug"
         }
       ]
     },
@@ -1061,7 +941,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 6.0,
       "chaleur": 6,
       "liens": [
         {
@@ -1079,31 +959,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/vr-hardware/steam-frames-odd-charging-behaviour-gets-patched-could-cut-recharge-times-in-half-in-some-instances/",
           "titre": "Steam Frame's odd charging behaviour gets patched: cuts recharge times in half in some instances"
-        }
-      ]
-    },
-    {
-      "id": "sony-s-acclaimed-resident-evil-movie-breaks-box-office-recor",
-      "titre": "Sony's Acclaimed Resident Evil Movie Breaks Box Office Records",
-      "url": "https://www.pushsquare.com/news/2026/09/sonys-acclaimed-resident-evil-movie-breaks-box-office-records",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/sonys-acclaimed-resident-evil-movie-breaks-box-office-records",
-          "titre": "Sony's Acclaimed Resident Evil Movie Breaks Box Office Records"
         }
       ]
     },
@@ -1115,7 +977,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 30.4,
       "chaleur": 5,
       "liens": [
         {
@@ -1133,7 +995,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.3,
       "chaleur": 5,
       "liens": [
         {
@@ -1142,9 +1004,151 @@ const VEILLE = {
           "titre": "Multiple Switch Games Receive Switch 2 Compatibility Fixes"
         }
       ]
+    },
+    {
+      "id": "stellar-blade-gets-a-switch-2-eshop-demo-today",
+      "titre": "Stellar Blade Gets A Switch 2 eShop Demo Today",
+      "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-gets-a-switch-2-eshop-demo-today",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 35.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-gets-a-switch-2-eshop-demo-today",
+          "titre": "Stellar Blade Gets A Switch 2 eShop Demo Today"
+        }
+      ]
+    },
+    {
+      "id": "i-m-taking-insomniac-s-wolverine-patch-as-a-sign-this-is-as",
+      "titre": "I'm taking Insomniac's Wolverine patch as a sign: This is as bad as it's going to get",
+      "url": "https://www.pcgamer.com/games/im-taking-insomniacs-wolverine-patch-as-a-sign-this-is-as-bad-as-its-going-to-get/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/im-taking-insomniacs-wolverine-patch-as-a-sign-this-is-as-bad-as-its-going-to-get/",
+          "titre": "I'm taking Insomniac's Wolverine patch as a sign: This is as bad as it's going to get"
+        }
+      ]
+    },
+    {
+      "id": "fly-between-radio-outposts-inside-a-murky-megastructure-in-t",
+      "titre": "Fly between radio outposts inside a murky megastructure in The Hollowing, a follow-up to the brilliant spelunking sim Lorn's Lure",
+      "url": "https://www.rockpapershotgun.com/fly-between-radio-outposts-inside-a-murky-megastructure-in-the-hollowing-a-follow-up-to-the-brilliant-spelunking-sim-lorns-lure",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/fly-between-radio-outposts-inside-a-murky-megastructure-in-the-hollowing-a-follow-up-to-the-brilliant-spelunking-sim-lorns-lure",
+          "titre": "Fly between radio outposts inside a murky megastructure in The Hollowing, a follow-up to the brilliant spelunking sim Lorn's Lure"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-players-are-being-naughty-with-the",
+      "titre": "World of Warcraft: Forever players are being naughty with the new naming system",
+      "url": "https://www.eurogamer.net/world-of-warcraft-forever-character-surnames-naughty",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/world-of-warcraft-forever-character-surnames-naughty",
+          "titre": "World of Warcraft: Forever players are being naughty with the new naming system"
+        }
+      ]
+    },
+    {
+      "id": "mystique-s-lesbian-relationship-in-marvel-s-wolverine-is-see",
+      "titre": "Mystique's lesbian relationship in Marvel's Wolverine is seemingly censored in certain parts of the world",
+      "url": "https://www.eurogamer.net/marvels-wolverine-mystique-lgbtq-censored-middle-east",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/marvels-wolverine-mystique-lgbtq-censored-middle-east",
+          "titre": "Mystique's lesbian relationship in Marvel's Wolverine is seemingly censored in certain parts of the world"
+        }
+      ]
+    },
+    {
+      "id": "fire-emblem-fortune-s-weave-renown-how-to-raise-renown-fast",
+      "titre": "Fire Emblem Fortune’s Weave Renown: How to raise Renown fast",
+      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-renown-how-to-raise-renown-fast/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-renown-how-to-raise-renown-fast/",
+          "titre": "Fire Emblem Fortune’s Weave Renown: How to raise Renown fast"
+        }
+      ]
+    },
+    {
+      "id": "who-the-hell-is-buying-their-server-memory-from-amazon-also",
+      "titre": "Who the hell is buying their server memory from Amazon?! Also, can I interest you in a $101,000 kit?",
+      "url": "https://www.pcgamer.com/hardware/memory/who-the-hell-is-buying-their-server-memory-from-amazon-also-can-i-interest-you-in-a-usd101-000-kit/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/memory/who-the-hell-is-buying-their-server-memory-from-amazon-also-can-i-interest-you-in-a-usd101-000-kit/",
+          "titre": "Who the hell is buying their server memory from Amazon?! Also, can I interest you in a $101,000 kit?"
+        }
+      ]
+    },
+    {
+      "id": "the-blood-of-dawnwalker-cost-less-than-expected-to-make-it-s",
+      "titre": "The Blood of Dawnwalker cost less than expected to make - it's more of a double-A game than a triple-A blockbuster",
+      "url": "https://www.eurogamer.net/blood-of-dawnwalker-budget-revealed",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/blood-of-dawnwalker-budget-revealed",
+          "titre": "The Blood of Dawnwalker cost less than expected to make - it's more of a double-A game than a triple-A blockbuster"
+        }
+      ]
     }
   ],
-  "alertes": [
-    "Hideo Kojima doesn't know if Physint will be released on PS5, and he hasn't decided if it's going to use Sony's Decima game engine"
-  ]
+  "alertes": []
 };
