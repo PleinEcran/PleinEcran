@@ -1,22 +1,28 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "21/09/2026 à 08h22",
+  "collecte": "21/09/2026 à 10h20",
   "seuil": 14,
   "sujets": [
     {
-      "id": "silent-hill-townfall-review-outstanding-horror-marred-by-inf",
-      "titre": "Silent Hill Townfall review: Outstanding horror marred by infuriating stealth",
-      "url": "https://www.videogameschronicle.com/review/silent-hill-townfall/",
+      "id": "silent-hill-townfall-review-an-often-inspired-if-slightly-lu",
+      "titre": "Silent Hill: Townfall review - an often inspired, if slightly lumbering trek into the fog",
+      "url": "https://www.rockpapershotgun.com/silent-hill-townfall-review-an-often-inspired-if-slightly-lumbering-trek-into-the-fog",
       "sources": [
         "Eurogamer",
         "PC Gamer",
         "Push Square",
+        "Rock Paper Shotgun",
         "VGC"
       ],
-      "reprises": 4,
-      "heures": 1.4,
-      "chaleur": 15,
+      "reprises": 5,
+      "heures": 1.9,
+      "chaleur": 18,
       "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/silent-hill-townfall-review-an-often-inspired-if-slightly-lumbering-trek-into-the-fog",
+          "titre": "Silent Hill: Townfall review - an often inspired, if slightly lumbering trek into the fog"
+        },
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/review/silent-hill-townfall/",
@@ -40,38 +46,104 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sony-s-acclaimed-resident-evil-movie-breaks-box-office-recor",
-      "titre": "Sony's Acclaimed Resident Evil Movie Breaks Box Office Records",
-      "url": "https://www.pushsquare.com/news/2026/09/sonys-acclaimed-resident-evil-movie-breaks-box-office-records",
+      "id": "i-was-just-shocked-and-surprised-hideo-kojima-says-sony-tol",
+      "titre": "‘I was just shocked and surprised’: Hideo Kojima says Sony told him Physint was being cancelled over a Zoom call",
+      "url": "https://www.videogameschronicle.com/news/i-was-just-shocked-and-surprised-hideo-kojima-says-sony-told-him-physint-was-being-cancelled-over-a-zoom-call/",
       "sources": [
-        "Push Square"
+        "Eurogamer",
+        "GamesIndustry.biz",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 8,
+      "reprises": 3,
+      "heures": 0.9,
+      "chaleur": 15,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/sonys-acclaimed-resident-evil-movie-breaks-box-office-records",
-          "titre": "Sony's Acclaimed Resident Evil Movie Breaks Box Office Records"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/i-was-just-shocked-and-surprised-hideo-kojima-says-sony-told-him-physint-was-being-cancelled-over-a-zoom-call/",
+          "titre": "‘I was just shocked and surprised’: Hideo Kojima says Sony told him Physint was being cancelled over a Zoom call"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/hideo-kojima-couldnt-understand-why-physint-would-be-on-the-list-of-being-cancelled-by-sony",
+          "titre": "Hideo Kojima \"couldn't understand\" why Physint \"would be on the list of being cancelled\" by Sony"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/hideo-kojima-loves-sony-playstation-physint",
+          "titre": "Hideo Kojima responds to accusations of Physint being over budget and late on deadline, says he still \"loves Sony\" despite collapse of publishing deal"
         }
       ]
     },
     {
-      "id": "steam-week-in-review-this-indie-publisher-released-29-terrib",
-      "titre": "Steam Week in Review: This indie publisher released 29 terrible-looking Steam games in a single day—will they make any money?",
-      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-this-indie-publisher-released-29-terrible-looking-steam-games-in-a-single-day-will-they-make-any-money/",
+      "id": "007-first-light-was-delayed-on-switch-2-for-a-third-time-to",
+      "titre": "007 First Light was delayed on Switch 2 for a third time to let players experience it ‘as fully as possible’, IO says",
+      "url": "https://www.videogameschronicle.com/news/007-first-light-was-delayed-on-switch-2-for-a-third-time-to-let-players-experience-it-as-fully-as-possible-io-says/",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 8,
+      "reprises": 2,
+      "heures": 0.2,
+      "chaleur": 13,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-this-indie-publisher-released-29-terrible-looking-steam-games-in-a-single-day-will-they-make-any-money/",
-          "titre": "Steam Week in Review: This indie publisher released 29 terrible-looking Steam games in a single day—will they make any money?"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/007-first-light-was-delayed-on-switch-2-for-a-third-time-to-let-players-experience-it-as-fully-as-possible-io-says/",
+          "titre": "007 First Light was delayed on Switch 2 for a third time to let players experience it ‘as fully as possible’, IO says"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/some-compromises-are-inevitable-007-first-light-dev-talks-switch-2-delay-performance-and-more",
+          "titre": "\"Some Compromises Are Inevitable\" - 007 First Light Dev Talks Switch 2 Delay, Performance & More"
+        }
+      ]
+    },
+    {
+      "id": "dead-cells-studio-s-castlevania-belmont-s-curse-is-getting-a",
+      "titre": "Dead Cells studio's Castlevania: Belmont's Curse is getting a demo in time for the spooky season",
+      "url": "https://www.eurogamer.net/castlevania-belmonts-curse-demo-october",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 0.9,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/castlevania-belmonts-curse-demo-october",
+          "titre": "Dead Cells studio's Castlevania: Belmont's Curse is getting a demo in time for the spooky season"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/a-demo-of-castlevania-belmonts-curse-has-been-officially-announced/",
+          "titre": "A demo of Castlevania Belmont’s Curse has been officially announced"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/konami-releasing-castlevania-belmonts-curse-demo-next-month",
+          "titre": "Konami Releasing Castlevania: Belmont's Curse Demo Next Month"
+        }
+      ]
+    },
+    {
+      "id": "gallery-here-s-what-the-zelda-switch-2-and-electric-ocarina",
+      "titre": "Gallery: Here's What The Zelda Switch 2 And Electric Ocarina Look Like In Person",
+      "url": "https://www.nintendolife.com/news/2026/09/gallery-heres-what-the-zelda-switch-2-and-electric-ocarina-look-like-in-person",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/gallery-heres-what-the-zelda-switch-2-and-electric-ocarina-look-like-in-person",
+          "titre": "Gallery: Here's What The Zelda Switch 2 And Electric Ocarina Look Like In Person"
         }
       ]
     },
@@ -83,7 +155,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 20.8,
+      "heures": 22.8,
       "chaleur": 8,
       "liens": [
         {
@@ -328,62 +400,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "stellar-blade-still-not-finished-four-free-bayonetta-costume",
-      "titre": "Stellar Blade Still Not Finished, Four Free Bayonetta Costumes Coming to PS5",
-      "url": "https://www.pushsquare.com/news/2026/09/stellar-blade-still-not-finished-four-free-bayonetta-costumes-coming-to-ps5",
+      "id": "try-one-of-2026-s-most-anticipated-2d-games-in-castlevania-p",
+      "titre": "Try One of 2026's Most Anticipated 2D Games in Castlevania PS5 Demo",
+      "url": "https://www.pushsquare.com/news/2026/09/try-one-of-2026s-most-anticipated-2d-games-in-castlevania-ps5-demo",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 1.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/stellar-blade-still-not-finished-four-free-bayonetta-costumes-coming-to-ps5",
-          "titre": "Stellar Blade Still Not Finished, Four Free Bayonetta Costumes Coming to PS5"
+          "url": "https://www.pushsquare.com/news/2026/09/try-one-of-2026s-most-anticipated-2d-games-in-castlevania-ps5-demo",
+          "titre": "Try One of 2026's Most Anticipated 2D Games in Castlevania PS5 Demo"
         }
       ]
     },
     {
-      "id": "guide-these-26-ps5-and-ps-plus-games-are-coming-out-this-wee",
-      "titre": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out This Week (21st - 27th September)",
-      "url": "https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-this-week-21st-27th-september",
+      "id": "marvel-s-wolverine-fart-gas-scent-trails-addressed-by-a-surp",
+      "titre": "Marvel's Wolverine \"fart gas\" scent trails addressed by a surprise update",
+      "url": "https://www.eurogamer.net/marvels-wolverine-patch-fart-gas-scent-trails-crashes",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/marvels-wolverine-patch-fart-gas-scent-trails-crashes",
+          "titre": "Marvel's Wolverine \"fart gas\" scent trails addressed by a surprise update"
+        }
+      ]
+    },
+    {
+      "id": "sony-s-acclaimed-resident-evil-movie-breaks-box-office-recor",
+      "titre": "Sony's Acclaimed Resident Evil Movie Breaks Box Office Records",
+      "url": "https://www.pushsquare.com/news/2026/09/sonys-acclaimed-resident-evil-movie-breaks-box-office-records",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.9,
+      "heures": 5.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-this-week-21st-27th-september",
-          "titre": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out This Week (21st - 27th September)"
+          "url": "https://www.pushsquare.com/news/2026/09/sonys-acclaimed-resident-evil-movie-breaks-box-office-records",
+          "titre": "Sony's Acclaimed Resident Evil Movie Breaks Box Office Records"
         }
       ]
     },
     {
-      "id": "a-demo-of-castlevania-belmont-s-curse-has-been-officially-an",
-      "titre": "A demo of Castlevania Belmont’s Curse has been officially announced",
-      "url": "https://www.videogameschronicle.com/news/a-demo-of-castlevania-belmonts-curse-has-been-officially-announced/",
+      "id": "steam-week-in-review-this-indie-publisher-released-29-terrib",
+      "titre": "Steam Week in Review: This indie publisher released 29 terrible-looking Steam games in a single day—will they make any money?",
+      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-this-indie-publisher-released-29-terrible-looking-steam-games-in-a-single-day-will-they-make-any-money/",
       "sources": [
-        "Nintendo Life",
-        "VGC"
+        "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 21.8,
+      "reprises": 1,
+      "heures": 5.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/a-demo-of-castlevania-belmonts-curse-has-been-officially-announced/",
-          "titre": "A demo of Castlevania Belmont’s Curse has been officially announced"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/konami-releasing-castlevania-belmonts-curse-demo-next-month",
-          "titre": "Konami Releasing Castlevania: Belmont's Curse Demo Next Month"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-this-indie-publisher-released-29-terrible-looking-steam-games-in-a-single-day-will-they-make-any-money/",
+          "titre": "Steam Week in Review: This indie publisher released 29 terrible-looking Steam games in a single day—will they make any money?"
         }
       ]
     },
@@ -395,7 +479,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.3,
       "chaleur": 5,
       "liens": [
         {
@@ -413,7 +497,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 27.3,
       "chaleur": 5,
       "liens": [
         {
@@ -431,13 +515,49 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.9,
+      "heures": 27.8,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-gets-a-switch-2-eshop-demo-today",
           "titre": "Stellar Blade Gets A Switch 2 eShop Demo Today"
+        }
+      ]
+    },
+    {
+      "id": "stellar-blade-still-not-finished-four-free-bayonetta-costume",
+      "titre": "Stellar Blade Still Not Finished, Four Free Bayonetta Costumes Coming to PS5",
+      "url": "https://www.pushsquare.com/news/2026/09/stellar-blade-still-not-finished-four-free-bayonetta-costumes-coming-to-ps5",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/stellar-blade-still-not-finished-four-free-bayonetta-costumes-coming-to-ps5",
+          "titre": "Stellar Blade Still Not Finished, Four Free Bayonetta Costumes Coming to PS5"
+        }
+      ]
+    },
+    {
+      "id": "guide-these-26-ps5-and-ps-plus-games-are-coming-out-this-wee",
+      "titre": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out This Week (21st - 27th September)",
+      "url": "https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-this-week-21st-27th-september",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-this-week-21st-27th-september",
+          "titre": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out This Week (21st - 27th September)"
         }
       ]
     },
@@ -449,7 +569,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.1,
       "chaleur": 3,
       "liens": [
         {
@@ -467,7 +587,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 15.7,
       "chaleur": 3,
       "liens": [
         {
@@ -485,7 +605,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.3,
       "chaleur": 3,
       "liens": [
         {
@@ -503,7 +623,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -521,7 +641,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -539,7 +659,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -557,7 +677,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -575,7 +695,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -593,7 +713,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -611,7 +731,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -629,7 +749,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -647,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -665,7 +785,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -683,7 +803,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.6,
       "chaleur": 3,
       "liens": [
         {
@@ -701,7 +821,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.3,
       "chaleur": 3,
       "liens": [
         {
@@ -719,31 +839,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.8,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/activision-video-game-cheat-market-8-5-billion-a-year",
           "titre": "Call of Duty maker Activision claims video game cheating is now a £6.3 billion ($8.5 billion) a year industry"
-        }
-      ]
-    },
-    {
-      "id": "hideo-kojima-responds-to-accusations-of-physint-being-over-b",
-      "titre": "Hideo Kojima responds to accusations of Physint being over budget and late on deadline, says he still \"loves Sony\" despite collapse of publishing deal",
-      "url": "https://www.eurogamer.net/hideo-kojima-loves-sony-playstation-physint",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 18.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/hideo-kojima-loves-sony-playstation-physint",
-          "titre": "Hideo Kojima responds to accusations of Physint being over budget and late on deadline, says he still \"loves Sony\" despite collapse of publishing deal"
         }
       ]
     },
@@ -755,7 +857,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.9,
       "chaleur": 3,
       "liens": [
         {
@@ -773,7 +875,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.2,
+      "heures": 21.2,
       "chaleur": 3,
       "liens": [
         {
@@ -791,7 +893,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.3,
       "chaleur": 3,
       "liens": [
         {
@@ -809,7 +911,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.3,
       "chaleur": 3,
       "liens": [
         {
@@ -827,7 +929,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.7,
+      "heures": 23.7,
       "chaleur": 3,
       "liens": [
         {
@@ -845,7 +947,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.0,
+      "heures": 25.0,
       "chaleur": 3,
       "liens": [
         {
@@ -863,7 +965,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.3,
       "chaleur": 3,
       "liens": [
         {
@@ -881,7 +983,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.3,
       "chaleur": 3,
       "liens": [
         {
@@ -893,6 +995,7 @@ const VEILLE = {
     }
   ],
   "alertes": [
-    "Silent Hill Townfall review: Outstanding horror marred by infuriating stealth"
+    "Silent Hill: Townfall review - an often inspired, if slightly lumbering trek into the fog",
+    "‘I was just shocked and surprised’: Hideo Kojima says Sony told him Physint was being cancelled over a Zoom call"
   ]
 };
