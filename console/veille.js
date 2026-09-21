@@ -1,32 +1,26 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "21/09/2026 à 10h20",
+  "collecte": "21/09/2026 à 12h23",
   "seuil": 14,
   "sujets": [
     {
-      "id": "silent-hill-townfall-review-an-often-inspired-if-slightly-lu",
-      "titre": "Silent Hill: Townfall review - an often inspired, if slightly lumbering trek into the fog",
-      "url": "https://www.rockpapershotgun.com/silent-hill-townfall-review-an-often-inspired-if-slightly-lumbering-trek-into-the-fog",
+      "id": "this-week-in-pc-games-control-resonant-silent-hill-townfall",
+      "titre": "This week in PC games: Control: Resonant, Silent Hill: Townfall, and the history of Western philosophy as a pinball table",
+      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-control-resonant-silent-hill-townfall-and-the-history-of-western-philosophy-as-a-pinball-table",
       "sources": [
         "Eurogamer",
         "PC Gamer",
         "Push Square",
-        "Rock Paper Shotgun",
-        "VGC"
+        "Rock Paper Shotgun"
       ],
-      "reprises": 5,
-      "heures": 1.9,
-      "chaleur": 18,
+      "reprises": 4,
+      "heures": 1.1,
+      "chaleur": 15,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/silent-hill-townfall-review-an-often-inspired-if-slightly-lumbering-trek-into-the-fog",
-          "titre": "Silent Hill: Townfall review - an often inspired, if slightly lumbering trek into the fog"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/review/silent-hill-townfall/",
-          "titre": "Silent Hill Townfall review: Outstanding horror marred by infuriating stealth"
+          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-control-resonant-silent-hill-townfall-and-the-history-of-western-philosophy-as-a-pinball-table",
+          "titre": "This week in PC games: Control: Resonant, Silent Hill: Townfall, and the history of Western philosophy as a pinball table"
         },
         {
           "source": "PC Gamer",
@@ -55,7 +49,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 0.9,
+      "heures": 3.0,
       "chaleur": 15,
       "liens": [
         {
@@ -84,7 +78,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 13,
       "liens": [
         {
@@ -109,7 +103,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 12,
       "liens": [
         {
@@ -130,6 +124,66 @@ const VEILLE = {
       ]
     },
     {
+      "id": "with-the-death-of-boxed-playstation-games-incoming-sony-reco",
+      "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026",
+      "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
+          "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026"
+        }
+      ]
+    },
+    {
+      "id": "tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai",
+      "titre": "Tokyo Game Show 2026 celebrated the past, and an uncertain AI future | Opinion",
+      "url": "https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion",
+      "sources": [
+        "GamesIndustry.biz",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 0.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion",
+          "titre": "Tokyo Game Show 2026 celebrated the past, and an uncertain AI future | Opinion"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/everything-announced-at-the-pc-gaming-show-tokyo-direct-2026/",
+          "titre": "Everything announced at the PC Gaming Show Tokyo Direct 2026"
+        }
+      ]
+    },
+    {
+      "id": "ahead-of-gta-6-rockstar-warn-modders-against-against-making",
+      "titre": "Ahead of GTA 6, Rockstar warn modders against against making unofficial main story expansions, unauthorised ports and mods that combine GTA maps",
+      "url": "https://www.rockpapershotgun.com/ahead-of-gta-6-rockstar-warn-modders-against-against-making-unofficial-main-story-expansions-unauthorised-ports-and-mods-that-combine-gta-maps",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/ahead-of-gta-6-rockstar-warn-modders-against-against-making-unofficial-main-story-expansions-unauthorised-ports-and-mods-that-combine-gta-maps",
+          "titre": "Ahead of GTA 6, Rockstar warn modders against against making unofficial main story expansions, unauthorised ports and mods that combine GTA maps"
+        }
+      ]
+    },
+    {
       "id": "gallery-here-s-what-the-zelda-switch-2-and-electric-ocarina",
       "titre": "Gallery: Here's What The Zelda Switch 2 And Electric Ocarina Look Like In Person",
       "url": "https://www.nintendolife.com/news/2026/09/gallery-heres-what-the-zelda-switch-2-and-electric-ocarina-look-like-in-person",
@@ -137,13 +191,73 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.4,
       "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/gallery-heres-what-the-zelda-switch-2-and-electric-ocarina-look-like-in-person",
           "titre": "Gallery: Here's What The Zelda Switch 2 And Electric Ocarina Look Like In Person"
+        }
+      ]
+    },
+    {
+      "id": "silent-hill-townfall-review-an-often-inspired-if-slightly-lu",
+      "titre": "Silent Hill: Townfall review - an often inspired, if slightly lumbering trek into the fog",
+      "url": "https://www.rockpapershotgun.com/silent-hill-townfall-review-an-often-inspired-if-slightly-lumbering-trek-into-the-fog",
+      "sources": [
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 4.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/silent-hill-townfall-review-an-often-inspired-if-slightly-lumbering-trek-into-the-fog",
+          "titre": "Silent Hill: Townfall review - an often inspired, if slightly lumbering trek into the fog"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/review/silent-hill-townfall/",
+          "titre": "Silent Hill Townfall review: Outstanding horror marred by infuriating stealth"
+        }
+      ]
+    },
+    {
+      "id": "microsoft-patents-idea-for-in-game-pc-and-xbox-adverts-shown",
+      "titre": "Microsoft patents idea for in-game PC and Xbox adverts shown during downtime \"trigger events\"",
+      "url": "https://www.eurogamer.net/microsoft-patent-ads-in-gameplay",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/microsoft-patent-ads-in-gameplay",
+          "titre": "Microsoft patents idea for in-game PC and Xbox adverts shown during downtime \"trigger events\""
+        }
+      ]
+    },
+    {
+      "id": "steam-frame-s-odd-charging-behaviour-gets-patched-cuts-recha",
+      "titre": "Steam Frame's odd charging behaviour gets patched: cuts recharge times in half in some instances",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/steam-frames-odd-charging-behaviour-gets-patched-could-cut-recharge-times-in-half-in-some-instances/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/steam-frames-odd-charging-behaviour-gets-patched-could-cut-recharge-times-in-half-in-some-instances/",
+          "titre": "Steam Frame's odd charging behaviour gets patched: cuts recharge times in half in some instances"
         }
       ]
     },
@@ -155,7 +269,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 24.8,
       "chaleur": 8,
       "liens": [
         {
@@ -400,6 +514,204 @@ const VEILLE = {
       ]
     },
     {
+      "id": "fire-emblem-fortune-s-weave-paradise-fish-location-to-recrui",
+      "titre": "Fire Emblem Fortune’s Weave: Paradise Fish location to recruit Ninae",
+      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-paradise-fish-location-to-recruit-ninae/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-paradise-fish-location-to-recruit-ninae/",
+          "titre": "Fire Emblem Fortune’s Weave: Paradise Fish location to recruit Ninae"
+        }
+      ]
+    },
+    {
+      "id": "i-remember-when-jensen-huang-used-to-sell-me-gpus-now-he-s-o",
+      "titre": "I remember when Jensen Huang used to sell me GPUs, now he's out there having to deny that AI will cause 'the end of the world'",
+      "url": "https://www.pcgamer.com/software/ai/i-remember-when-jensen-huang-used-to-sell-me-gpus-now-hes-out-there-having-to-deny-that-ai-will-cause-the-end-of-the-world/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/i-remember-when-jensen-huang-used-to-sell-me-gpus-now-hes-out-there-having-to-deny-that-ai-will-cause-the-end-of-the-world/",
+          "titre": "I remember when Jensen Huang used to sell me GPUs, now he's out there having to deny that AI will cause 'the end of the world'"
+        }
+      ]
+    },
+    {
+      "id": "full-unicorn-vomit-or-stealthed-out-mean-machine-i-want-to-k",
+      "titre": "Full unicorn vomit, or stealthed-out mean machine? I want to know how much RGB festoons your gaming PC, please and thank you",
+      "url": "https://www.pcgamer.com/hardware/lighting/full-unicorn-vomit-or-stealthed-out-mean-machine-i-want-to-know-how-much-rgb-festoons-your-gaming-pc-please-and-thank-you/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/lighting/full-unicorn-vomit-or-stealthed-out-mean-machine-i-want-to-know-how-much-rgb-festoons-your-gaming-pc-please-and-thank-you/",
+          "titre": "Full unicorn vomit, or stealthed-out mean machine? I want to know how much RGB festoons your gaming PC, please and thank you"
+        }
+      ]
+    },
+    {
+      "id": "northern-forge-studios-and-runaway-play-lead-green-games-jam",
+      "titre": "Northern Forge Studios and Runaway Play lead Green Games Jam Awards 2026",
+      "url": "https://www.gamesindustry.biz/northern-forge-studios-and-runaway-play-lead-green-games-jam-awards-2026",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/northern-forge-studios-and-runaway-play-lead-green-games-jam-awards-2026",
+          "titre": "Northern Forge Studios and Runaway Play lead Green Games Jam Awards 2026"
+        }
+      ]
+    },
+    {
+      "id": "final-fantasy-7-revelation-will-let-players-raise-their-char",
+      "titre": "Final Fantasy 7 Revelation will let players raise their character’s level automatically to skip grinding",
+      "url": "https://www.videogameschronicle.com/news/final-fantasy-revelation-will-let-players-automatically-raise-their-characters-level-to-skip-grinding/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/final-fantasy-revelation-will-let-players-automatically-raise-their-characters-level-to-skip-grinding/",
+          "titre": "Final Fantasy 7 Revelation will let players raise their character’s level automatically to skip grinding"
+        }
+      ]
+    },
+    {
+      "id": "the-brave-adventurers-of-wow-forever-are-all-called-things-l",
+      "titre": "The brave adventurers of WoW: Forever are all called things like Take Meds and Skonch Prime",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/the-brave-adventurers-of-wow-forever-are-all-called-things-like-take-meds-and-skonch-prime/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/the-brave-adventurers-of-wow-forever-are-all-called-things-like-take-meds-and-skonch-prime/",
+          "titre": "The brave adventurers of WoW: Forever are all called things like Take Meds and Skonch Prime"
+        }
+      ]
+    },
+    {
+      "id": "i-tried-to-make-a-jpg-bigger-than-mathematically-possible-ou",
+      "titre": "I tried to make a jpg bigger than mathematically possible out of an entire year's worth of PC Gamer magazine pages",
+      "url": "https://www.pcgamer.com/hardware/i-tried-to-make-a-jpg-bigger-than-mathematically-possible-out-of-an-entire-years-worth-of-pc-gamer-magazine-pages/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/i-tried-to-make-a-jpg-bigger-than-mathematically-possible-out-of-an-entire-years-worth-of-pc-gamer-magazine-pages/",
+          "titre": "I tried to make a jpg bigger than mathematically possible out of an entire year's worth of PC Gamer magazine pages"
+        }
+      ]
+    },
+    {
+      "id": "first-ps-plus-extra-game-for-october-2026-announced",
+      "titre": "First PS Plus Extra Game for October 2026 Announced",
+      "url": "https://www.pushsquare.com/news/2026/09/first-ps-plus-extra-game-for-october-2026-announced",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/first-ps-plus-extra-game-for-october-2026-announced",
+          "titre": "First PS Plus Extra Game for October 2026 Announced"
+        }
+      ]
+    },
+    {
+      "id": "zach-cregger-s-quirky-resident-evil-film-proves-skeptics-wro",
+      "titre": "Zach Cregger's quirky Resident Evil film proves skeptics wrong with series-best opening weekend",
+      "url": "https://www.eurogamer.net/zach-cregger-resident-evil-film-opening-weekend-earnings",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/zach-cregger-resident-evil-film-opening-weekend-earnings",
+          "titre": "Zach Cregger's quirky Resident Evil film proves skeptics wrong with series-best opening weekend"
+        }
+      ]
+    },
+    {
+      "id": "wow-devs-surprised-to-find-pure-liquid-nostalgia-is-popular",
+      "titre": "WoW devs surprised to find pure liquid nostalgia is popular",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-devs-surprised-to-find-pure-liquid-nostalgia-is-popular/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-devs-surprised-to-find-pure-liquid-nostalgia-is-popular/",
+          "titre": "WoW devs surprised to find pure liquid nostalgia is popular"
+        }
+      ]
+    },
+    {
+      "id": "uk-charts-fire-emblem-lights-up-the-podium-but-it-can-t-claw",
+      "titre": "UK Charts: Fire Emblem Lights Up The Podium, But It Can't Claw Past Sony's Latest",
+      "url": "https://www.nintendolife.com/news/2026/09/uk-charts-fire-emblem-lights-up-the-podium-but-it-cant-claw-past-sonys-latest",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/uk-charts-fire-emblem-lights-up-the-podium-but-it-cant-claw-past-sonys-latest",
+          "titre": "UK Charts: Fire Emblem Lights Up The Podium, But It Can't Claw Past Sony's Latest"
+        }
+      ]
+    },
+    {
       "id": "try-one-of-2026-s-most-anticipated-2d-games-in-castlevania-p",
       "titre": "Try One of 2026's Most Anticipated 2D Games in Castlevania PS5 Demo",
       "url": "https://www.pushsquare.com/news/2026/09/try-one-of-2026s-most-anticipated-2d-games-in-castlevania-ps5-demo",
@@ -407,7 +719,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -425,7 +737,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -443,7 +755,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 6,
       "liens": [
         {
@@ -461,7 +773,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 8.0,
       "chaleur": 6,
       "liens": [
         {
@@ -479,7 +791,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 24.4,
       "chaleur": 5,
       "liens": [
         {
@@ -497,7 +809,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.3,
       "chaleur": 5,
       "liens": [
         {
@@ -515,7 +827,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.8,
+      "heures": 29.9,
       "chaleur": 5,
       "liens": [
         {
@@ -533,7 +845,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -551,7 +863,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -569,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 17.2,
       "chaleur": 3,
       "liens": [
         {
@@ -587,7 +899,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 17.8,
       "chaleur": 3,
       "liens": [
         {
@@ -605,31 +917,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6-hasnt-decided-on-decima-engine",
           "titre": "'I Love Sony': Kojima Unsure if Physint Will Ever Come to PS6, Hasn't Decided on Decima Engine"
-        }
-      ]
-    },
-    {
-      "id": "everything-announced-at-the-pc-gaming-show-tokyo-direct-2026",
-      "titre": "Everything announced at the PC Gaming Show Tokyo Direct 2026",
-      "url": "https://www.pcgamer.com/gaming-industry/events-conferences/everything-announced-at-the-pc-gaming-show-tokyo-direct-2026/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/everything-announced-at-the-pc-gaming-show-tokyo-direct-2026/",
-          "titre": "Everything announced at the PC Gaming Show Tokyo Direct 2026"
         }
       ]
     },
@@ -641,7 +935,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -659,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -677,7 +971,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -695,121 +989,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/mmo/solarpunk-mmo-loftia-is-launching-into-early-access-november-3/",
           "titre": "Solarpunk MMO Loftia is launching into early access November 3"
-        }
-      ]
-    },
-    {
-      "id": "unlock-your-inner-superman-with-a-new-demo-from-undefeated-g",
-      "titre": "Unlock your inner Superman with a new demo from Undefeated: Genesis",
-      "url": "https://www.pcgamer.com/games/action/unlock-your-inner-superman-with-a-new-demo-from-undefeated-genesis/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/unlock-your-inner-superman-with-a-new-demo-from-undefeated-genesis/",
-          "titre": "Unlock your inner Superman with a new demo from Undefeated: Genesis"
-        }
-      ]
-    },
-    {
-      "id": "marked-for-mayhem-is-a-4-player-dungeon-crawler-that-wants-y",
-      "titre": "Marked For Mayhem is a 4-player dungeon crawler that wants you to try to win as a team while also beating all your teammates as a player—good luck",
-      "url": "https://www.pcgamer.com/games/action/marked-for-mayhem-is-a-4-player-dungeon-crawler-that-wants-you-to-try-to-win-as-a-team-while-also-beating-all-your-teammates-as-a-player-good-luck/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/marked-for-mayhem-is-a-4-player-dungeon-crawler-that-wants-you-to-try-to-win-as-a-team-while-also-beating-all-your-teammates-as-a-player-good-luck/",
-          "titre": "Marked For Mayhem is a 4-player dungeon crawler that wants you to try to win as a team while also beating all your teammates as a player—good luck"
-        }
-      ]
-    },
-    {
-      "id": "robots-versus-fungi-fps-mycopunk-is-leaving-early-access-nex",
-      "titre": "Robots versus fungi FPS Mycopunk is leaving early access next month",
-      "url": "https://www.pcgamer.com/games/action/robots-versus-fungi-fps-mycopunk-is-leaving-early-access-next-month/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/robots-versus-fungi-fps-mycopunk-is-leaving-early-access-next-month/",
-          "titre": "Robots versus fungi FPS Mycopunk is leaving early access next month"
-        }
-      ]
-    },
-    {
-      "id": "virtue-and-a-sledgehammer-announces-october-27-release-date",
-      "titre": "Virtue and a Sledgehammer announces October 27 release date with another banger of a trailer",
-      "url": "https://www.pcgamer.com/games/action/virtue-and-a-sledgehammer-announces-october-27-release-date-with-another-banger-of-a-trailer/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/virtue-and-a-sledgehammer-announces-october-27-release-date-with-another-banger-of-a-trailer/",
-          "titre": "Virtue and a Sledgehammer announces October 27 release date with another banger of a trailer"
-        }
-      ]
-    },
-    {
-      "id": "the-new-game-from-lorn-s-lure-s-developer-is-also-set-in-the",
-      "titre": "The new game from Lorn's Lure's developer is also set in the creepy world, and this one's a horror flight sim",
-      "url": "https://www.pcgamer.com/games/horror/the-new-game-from-lorns-lures-developer-is-also-set-in-the-creepy-world-and-this-ones-a-horror-flight-sim/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/the-new-game-from-lorns-lures-developer-is-also-set-in-the-creepy-world-and-this-ones-a-horror-flight-sim/",
-          "titre": "The new game from Lorn's Lure's developer is also set in the creepy world, and this one's a horror flight sim"
-        }
-      ]
-    },
-    {
-      "id": "defend-your-farm-from-a-gaze-of-raccoons-in-this-charming-to",
-      "titre": "Defend your farm from a gaze of raccoons in this charming tower defense roguelite, out tomorrow",
-      "url": "https://www.pcgamer.com/games/roguelike/defend-your-farm-from-a-gaze-of-raccoons-in-this-charming-tower-defense-roguelite-out-tomorrow/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/roguelike/defend-your-farm-from-a-gaze-of-raccoons-in-this-charming-tower-defense-roguelite-out-tomorrow/",
-          "titre": "Defend your farm from a gaze of raccoons in this charming tower defense roguelite, out tomorrow"
         }
       ]
     },
@@ -821,7 +1007,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.3,
+      "heures": 20.4,
       "chaleur": 3,
       "liens": [
         {
@@ -839,7 +1025,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.8,
+      "heures": 20.9,
       "chaleur": 3,
       "liens": [
         {
@@ -857,7 +1043,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 20.9,
+      "heures": 22.9,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +1061,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.2,
+      "heures": 23.2,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +1079,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.4,
       "chaleur": 3,
       "liens": [
         {
@@ -911,7 +1097,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.3,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +1115,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.7,
+      "heures": 25.7,
       "chaleur": 3,
       "liens": [
         {
@@ -947,7 +1133,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.0,
+      "heures": 27.1,
       "chaleur": 3,
       "liens": [
         {
@@ -956,46 +1142,9 @@ const VEILLE = {
           "titre": "Wolverine developer Insomniac denies using generative AI after fans spot strange restroom sign"
         }
       ]
-    },
-    {
-      "id": "the-sunday-papers",
-      "titre": "The Sunday Papers",
-      "url": "https://www.rockpapershotgun.com/the-sunday-papers-828",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 25.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-sunday-papers-828",
-          "titre": "The Sunday Papers"
-        }
-      ]
-    },
-    {
-      "id": "feature-box-art-brawl-duel-cubivore-survival-of-the-fittest",
-      "titre": "Feature: Box Art Brawl - Duel: Cubivore: Survival Of The Fittest",
-      "url": "https://www.nintendolife.com/features/box-art-brawl-duel-cubivore-survival-of-the-fittest",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 25.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/box-art-brawl-duel-cubivore-survival-of-the-fittest",
-          "titre": "Feature: Box Art Brawl - Duel: Cubivore: Survival Of The Fittest"
-        }
-      ]
     }
   ],
   "alertes": [
-    "Silent Hill: Townfall review - an often inspired, if slightly lumbering trek into the fog",
-    "‘I was just shocked and surprised’: Hideo Kojima says Sony told him Physint was being cancelled over a Zoom call"
+    "This week in PC games: Control: Resonant, Silent Hill: Townfall, and the history of Western philosophy as a pinball table"
   ]
 };
