@@ -1,8 +1,44 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "21/09/2026 à 06h27",
+  "collecte": "21/09/2026 à 08h22",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "silent-hill-townfall-review-outstanding-horror-marred-by-inf",
+      "titre": "Silent Hill Townfall review: Outstanding horror marred by infuriating stealth",
+      "url": "https://www.videogameschronicle.com/review/silent-hill-townfall/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 4,
+      "heures": 1.4,
+      "chaleur": 15,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/review/silent-hill-townfall/",
+          "titre": "Silent Hill Townfall review: Outstanding horror marred by infuriating stealth"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-review/",
+          "titre": "Silent Hill: Townfall review"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/silent-hill-townfall-review",
+          "titre": "Silent Hill: Townfall review"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/silent-hill-townfall",
+          "titre": "Review: Silent Hill: Townfall (PS5) - Dated Bite-Sized Horror... in a Good Way"
+        }
+      ]
+    },
     {
       "id": "sony-s-acclaimed-resident-evil-movie-breaks-box-office-recor",
       "titre": "Sony's Acclaimed Resident Evil Movie Breaks Box Office Records",
@@ -11,7 +47,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.4,
       "chaleur": 8,
       "liens": [
         {
@@ -29,7 +65,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.1,
+      "heures": 4.0,
       "chaleur": 8,
       "liens": [
         {
@@ -47,7 +83,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.8,
       "chaleur": 8,
       "liens": [
         {
@@ -299,7 +335,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -317,7 +353,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -336,7 +372,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 19.8,
+      "heures": 21.8,
       "chaleur": 6,
       "liens": [
         {
@@ -359,7 +395,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.5,
+      "heures": 20.4,
       "chaleur": 5,
       "liens": [
         {
@@ -377,7 +413,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.3,
       "chaleur": 5,
       "liens": [
         {
@@ -395,7 +431,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.0,
+      "heures": 25.9,
       "chaleur": 5,
       "liens": [
         {
@@ -413,8 +449,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -431,8 +467,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -449,7 +485,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -467,7 +503,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -485,7 +521,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -503,7 +539,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -521,7 +557,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -539,7 +575,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -557,7 +593,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -575,7 +611,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -593,7 +629,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -611,7 +647,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.6,
       "chaleur": 3,
       "liens": [
         {
@@ -629,7 +665,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 15.6,
       "chaleur": 3,
       "liens": [
         {
@@ -647,31 +683,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 15.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/roguelike/defend-your-farm-from-a-gaze-of-raccoons-in-this-charming-tower-defense-roguelite-out-tomorrow/",
           "titre": "Defend your farm from a gaze of raccoons in this charming tower defense roguelite, out tomorrow"
-        }
-      ]
-    },
-    {
-      "id": "we-just-saw-a-big-chunk-of-thief-remastered-gameplay-and-i-m",
-      "titre": "We just saw a big chunk of Thief Remastered gameplay, and I'm more desperate than ever to play",
-      "url": "https://www.pcgamer.com/games/sim/we-just-saw-a-big-chunk-of-thief-remastered-gameplay-and-im-more-desperate-than-ever-to-play/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/we-just-saw-a-big-chunk-of-thief-remastered-gameplay-and-im-more-desperate-than-ever-to-play/",
-          "titre": "We just saw a big chunk of Thief Remastered gameplay, and I'm more desperate than ever to play"
         }
       ]
     },
@@ -683,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -701,7 +719,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 16.9,
       "chaleur": 3,
       "liens": [
         {
@@ -719,7 +737,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -737,7 +755,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 18.9,
       "chaleur": 3,
       "liens": [
         {
@@ -755,7 +773,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.2,
       "chaleur": 3,
       "liens": [
         {
@@ -773,7 +791,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -791,7 +809,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.3,
       "chaleur": 3,
       "liens": [
         {
@@ -809,7 +827,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 21.7,
       "chaleur": 3,
       "liens": [
         {
@@ -827,7 +845,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.1,
+      "heures": 23.0,
       "chaleur": 3,
       "liens": [
         {
@@ -845,7 +863,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.4,
       "chaleur": 3,
       "liens": [
         {
@@ -863,7 +881,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.4,
       "chaleur": 3,
       "liens": [
         {
@@ -872,25 +890,9 @@ const VEILLE = {
           "titre": "Feature: Box Art Brawl - Duel: Cubivore: Survival Of The Fittest"
         }
       ]
-    },
-    {
-      "id": "feature-going-platinum-unpacking-s-obsession-with-possession",
-      "titre": "Feature: Going Platinum: Unpacking's Obsession with Possessions Makes Me Think of All My Random Stuff",
-      "url": "https://www.pushsquare.com/features/going-platinum-unpackings-obsession-with-possessions-makes-me-think-of-all-my-random-stuff",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/going-platinum-unpackings-obsession-with-possessions-makes-me-think-of-all-my-random-stuff",
-          "titre": "Feature: Going Platinum: Unpacking's Obsession with Possessions Makes Me Think of All My Random Stuff"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Silent Hill Townfall review: Outstanding horror marred by infuriating stealth"
+  ]
 };
