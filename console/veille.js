@@ -1,8 +1,32 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "21/09/2026 à 12h23",
+  "collecte": "21/09/2026 à 14h21",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "i-thought-people-would-leave-hideo-kojima-offers-his-accoun",
+      "titre": "\"I thought people would leave\": Hideo Kojima offers his account of Physint's switch from PlayStation to Xbox, as his studio insist they're in a \"healthy, profitable state\"",
+      "url": "https://www.rockpapershotgun.com/i-thought-people-would-leave-hideo-kojima-offers-his-account-of-physints-switch-from-playstation-to-xbox-as-his-studio-insist-theyre-in-a-healthy-profitable-state",
+      "sources": [
+        "GamesIndustry.biz",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 0.9,
+      "chaleur": 15,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/i-thought-people-would-leave-hideo-kojima-offers-his-account-of-physints-switch-from-playstation-to-xbox-as-his-studio-insist-theyre-in-a-healthy-profitable-state",
+          "titre": "\"I thought people would leave\": Hideo Kojima offers his account of Physint's switch from PlayStation to Xbox, as his studio insist they're in a \"healthy, profitable state\""
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/hideo-kojima-couldnt-understand-why-physint-would-be-on-the-list-of-being-cancelled-by-sony",
+          "titre": "Hideo Kojima \"couldn't understand\" why Physint \"would be on the list of being cancelled\" by Sony"
+        }
+      ]
+    },
     {
       "id": "this-week-in-pc-games-control-resonant-silent-hill-townfall",
       "titre": "This week in PC games: Control: Resonant, Silent Hill: Townfall, and the history of Western philosophy as a pinball table",
@@ -14,7 +38,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 4,
-      "heures": 1.1,
+      "heures": 3.0,
       "chaleur": 15,
       "liens": [
         {
@@ -40,36 +64,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-was-just-shocked-and-surprised-hideo-kojima-says-sony-tol",
-      "titre": "‘I was just shocked and surprised’: Hideo Kojima says Sony told him Physint was being cancelled over a Zoom call",
-      "url": "https://www.videogameschronicle.com/news/i-was-just-shocked-and-surprised-hideo-kojima-says-sony-told-him-physint-was-being-cancelled-over-a-zoom-call/",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 3.0,
-      "chaleur": 15,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/i-was-just-shocked-and-surprised-hideo-kojima-says-sony-told-him-physint-was-being-cancelled-over-a-zoom-call/",
-          "titre": "‘I was just shocked and surprised’: Hideo Kojima says Sony told him Physint was being cancelled over a Zoom call"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/hideo-kojima-couldnt-understand-why-physint-would-be-on-the-list-of-being-cancelled-by-sony",
-          "titre": "Hideo Kojima \"couldn't understand\" why Physint \"would be on the list of being cancelled\" by Sony"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/hideo-kojima-loves-sony-playstation-physint",
-          "titre": "Hideo Kojima responds to accusations of Physint being over budget and late on deadline, says he still \"loves Sony\" despite collapse of publishing deal"
-        }
-      ]
-    },
-    {
       "id": "007-first-light-was-delayed-on-switch-2-for-a-third-time-to",
       "titre": "007 First Light was delayed on Switch 2 for a third time to let players experience it ‘as fully as possible’, IO says",
       "url": "https://www.videogameschronicle.com/news/007-first-light-was-delayed-on-switch-2-for-a-third-time-to-let-players-experience-it-as-fully-as-possible-io-says/",
@@ -78,8 +72,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 2.2,
-      "chaleur": 13,
+      "heures": 4.2,
+      "chaleur": 11,
       "liens": [
         {
           "source": "VGC",
@@ -94,36 +88,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "dead-cells-studio-s-castlevania-belmont-s-curse-is-getting-a",
-      "titre": "Dead Cells studio's Castlevania: Belmont's Curse is getting a demo in time for the spooky season",
-      "url": "https://www.eurogamer.net/castlevania-belmonts-curse-demo-october",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 2.9,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/castlevania-belmonts-curse-demo-october",
-          "titre": "Dead Cells studio's Castlevania: Belmont's Curse is getting a demo in time for the spooky season"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/a-demo-of-castlevania-belmonts-curse-has-been-officially-announced/",
-          "titre": "A demo of Castlevania Belmont’s Curse has been officially announced"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/konami-releasing-castlevania-belmonts-curse-demo-next-month",
-          "titre": "Konami Releasing Castlevania: Belmont's Curse Demo Next Month"
-        }
-      ]
-    },
-    {
       "id": "with-the-death-of-boxed-playstation-games-incoming-sony-reco",
       "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026",
       "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
@@ -131,7 +95,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 10,
       "liens": [
         {
@@ -142,26 +106,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai",
-      "titre": "Tokyo Game Show 2026 celebrated the past, and an uncertain AI future | Opinion",
-      "url": "https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion",
+      "id": "i-was-just-shocked-and-surprised-hideo-kojima-says-sony-tol",
+      "titre": "‘I was just shocked and surprised’: Hideo Kojima says Sony told him Physint was being cancelled over a Zoom call",
+      "url": "https://www.videogameschronicle.com/news/i-was-just-shocked-and-surprised-hideo-kojima-says-sony-told-him-physint-was-being-cancelled-over-a-zoom-call/",
       "sources": [
-        "GamesIndustry.biz",
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 4.9,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/i-was-just-shocked-and-surprised-hideo-kojima-says-sony-told-him-physint-was-being-cancelled-over-a-zoom-call/",
+          "titre": "‘I was just shocked and surprised’: Hideo Kojima says Sony told him Physint was being cancelled over a Zoom call"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/hideo-kojima-loves-sony-playstation-physint",
+          "titre": "Hideo Kojima responds to accusations of Physint being over budget and late on deadline, says he still \"loves Sony\" despite collapse of publishing deal"
+        }
+      ]
+    },
+    {
+      "id": "i-m-taking-insomniac-s-wolverine-patch-as-a-sign-this-is-as",
+      "titre": "I'm taking Insomniac's Wolverine patch as a sign: This is as bad as it's going to get",
+      "url": "https://www.pcgamer.com/games/im-taking-insomniacs-wolverine-patch-as-a-sign-this-is-as-bad-as-its-going-to-get/",
+      "sources": [
+        "Eurogamer",
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 0.4,
+      "heures": 0.2,
       "chaleur": 9,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion",
-          "titre": "Tokyo Game Show 2026 celebrated the past, and an uncertain AI future | Opinion"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/im-taking-insomniacs-wolverine-patch-as-a-sign-this-is-as-bad-as-its-going-to-get/",
+          "titre": "I'm taking Insomniac's Wolverine patch as a sign: This is as bad as it's going to get"
         },
         {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign",
+          "titre": "Wolverine developer Insomniac denies using generative AI after fans spot strange restroom sign"
+        }
+      ]
+    },
+    {
+      "id": "resident-evil-is-the-best-videogame-movie-because-bryan-suck",
+      "titre": "Resident Evil is the best videogame movie because Bryan sucks",
+      "url": "https://www.pcgamer.com/games/resident-evil/resident-evil-is-the-best-videogame-movie-because-bryan-sucks/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 0.6,
+      "chaleur": 9,
+      "liens": [
+        {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/everything-announced-at-the-pc-gaming-show-tokyo-direct-2026/",
-          "titre": "Everything announced at the PC Gaming Show Tokyo Direct 2026"
+          "url": "https://www.pcgamer.com/games/resident-evil/resident-evil-is-the-best-videogame-movie-because-bryan-sucks/",
+          "titre": "Resident Evil is the best videogame movie because Bryan sucks"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/zach-cregger-resident-evil-film-opening-weekend-earnings",
+          "titre": "Zach Cregger's quirky Resident Evil film proves sceptics wrong with series-best opening weekend"
         }
       ]
     },
@@ -173,7 +185,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 9,
       "liens": [
         {
@@ -184,44 +196,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gallery-here-s-what-the-zelda-switch-2-and-electric-ocarina",
-      "titre": "Gallery: Here's What The Zelda Switch 2 And Electric Ocarina Look Like In Person",
-      "url": "https://www.nintendolife.com/news/2026/09/gallery-heres-what-the-zelda-switch-2-and-electric-ocarina-look-like-in-person",
+      "id": "the-steam-frame-s-first-post-launch-update-speeds-up-chargin",
+      "titre": "The Steam Frame’s first post-launch update speeds up charging and ungarbles a mic bug",
+      "url": "https://www.rockpapershotgun.com/the-steam-frames-first-post-launch-update-speeds-up-charging-and-ungarbles-a-mic-bug",
       "sources": [
-        "Nintendo Life"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/gallery-heres-what-the-zelda-switch-2-and-electric-ocarina-look-like-in-person",
-          "titre": "Gallery: Here's What The Zelda Switch 2 And Electric Ocarina Look Like In Person"
-        }
-      ]
-    },
-    {
-      "id": "silent-hill-townfall-review-an-often-inspired-if-slightly-lu",
-      "titre": "Silent Hill: Townfall review - an often inspired, if slightly lumbering trek into the fog",
-      "url": "https://www.rockpapershotgun.com/silent-hill-townfall-review-an-often-inspired-if-slightly-lumbering-trek-into-the-fog",
-      "sources": [
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 4.0,
-      "chaleur": 9,
+      "heures": 1.5,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/silent-hill-townfall-review-an-often-inspired-if-slightly-lumbering-trek-into-the-fog",
-          "titre": "Silent Hill: Townfall review - an often inspired, if slightly lumbering trek into the fog"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/review/silent-hill-townfall/",
-          "titre": "Silent Hill Townfall review: Outstanding horror marred by infuriating stealth"
+          "url": "https://www.rockpapershotgun.com/the-steam-frames-first-post-launch-update-speeds-up-charging-and-ungarbles-a-mic-bug",
+          "titre": "The Steam Frame’s first post-launch update speeds up charging and ungarbles a mic bug"
         }
       ]
     },
@@ -233,7 +221,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.0,
       "chaleur": 8,
       "liens": [
         {
@@ -251,7 +239,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 8,
       "liens": [
         {
@@ -262,20 +250,68 @@ const VEILLE = {
       ]
     },
     {
-      "id": "kojima-productions-asks-players-to-treat-report-on-why-it-sw",
-      "titre": "Kojima Productions asks players to treat report on why it switched from PlayStation to Xbox ‘with a dose of scepticism’",
-      "url": "https://www.videogameschronicle.com/news/kojima-productions-asks-players-to-treat-report-on-why-it-switched-from-playstation-to-xbox-with-a-dose-of-scepticism/",
+      "id": "dead-cells-studio-s-castlevania-belmont-s-curse-is-getting-a",
+      "titre": "Dead Cells studio's Castlevania: Belmont's Curse is getting a demo in time for the spooky season",
+      "url": "https://www.eurogamer.net/castlevania-belmonts-curse-demo-october",
       "sources": [
-        "VGC"
+        "Eurogamer",
+        "Nintendo Life"
       ],
-      "reprises": 1,
-      "heures": 24.8,
-      "chaleur": 8,
+      "reprises": 2,
+      "heures": 4.9,
+      "chaleur": 7,
       "liens": [
         {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/castlevania-belmonts-curse-demo-october",
+          "titre": "Dead Cells studio's Castlevania: Belmont's Curse is getting a demo in time for the spooky season"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/konami-releasing-castlevania-belmonts-curse-demo-next-month",
+          "titre": "Konami Releasing Castlevania: Belmont's Curse Demo Next Month"
+        }
+      ]
+    },
+    {
+      "id": "gallery-here-s-what-the-zelda-switch-2-and-electric-ocarina",
+      "titre": "Gallery: Here's What The Zelda Switch 2 And Electric Ocarina Look Like In Person",
+      "url": "https://www.nintendolife.com/news/2026/09/gallery-heres-what-the-zelda-switch-2-and-electric-ocarina-look-like-in-person",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/gallery-heres-what-the-zelda-switch-2-and-electric-ocarina-look-like-in-person",
+          "titre": "Gallery: Here's What The Zelda Switch 2 And Electric Ocarina Look Like In Person"
+        }
+      ]
+    },
+    {
+      "id": "silent-hill-townfall-review-an-often-inspired-if-slightly-lu",
+      "titre": "Silent Hill: Townfall review - an often inspired, if slightly lumbering trek into the fog",
+      "url": "https://www.rockpapershotgun.com/silent-hill-townfall-review-an-often-inspired-if-slightly-lumbering-trek-into-the-fog",
+      "sources": [
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 5.9,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/silent-hill-townfall-review-an-often-inspired-if-slightly-lumbering-trek-into-the-fog",
+          "titre": "Silent Hill: Townfall review - an often inspired, if slightly lumbering trek into the fog"
+        },
+        {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/kojima-productions-asks-players-to-treat-report-on-why-it-switched-from-playstation-to-xbox-with-a-dose-of-scepticism/",
-          "titre": "Kojima Productions asks players to treat report on why it switched from PlayStation to Xbox ‘with a dose of scepticism’"
+          "url": "https://www.videogameschronicle.com/review/silent-hill-townfall/",
+          "titre": "Silent Hill Townfall review: Outstanding horror marred by infuriating stealth"
         }
       ]
     },
@@ -514,20 +550,290 @@ const VEILLE = {
       ]
     },
     {
-      "id": "fire-emblem-fortune-s-weave-paradise-fish-location-to-recrui",
-      "titre": "Fire Emblem Fortune’s Weave: Paradise Fish location to recruit Ninae",
-      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-paradise-fish-location-to-recruit-ninae/",
+      "id": "fly-between-radio-outposts-inside-a-murky-megastructure-in-t",
+      "titre": "Fly between radio outposts inside a murky megastructure in The Hollowing, a follow-up to the brilliant spelunking sim Lorn's Lure",
+      "url": "https://www.rockpapershotgun.com/fly-between-radio-outposts-inside-a-murky-megastructure-in-the-hollowing-a-follow-up-to-the-brilliant-spelunking-sim-lorns-lure",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/fly-between-radio-outposts-inside-a-murky-megastructure-in-the-hollowing-a-follow-up-to-the-brilliant-spelunking-sim-lorns-lure",
+          "titre": "Fly between radio outposts inside a murky megastructure in The Hollowing, a follow-up to the brilliant spelunking sim Lorn's Lure"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-players-are-being-naughty-with-the",
+      "titre": "World of Warcraft: Forever players are being naughty with the new naming system",
+      "url": "https://www.eurogamer.net/world-of-warcraft-forever-character-surnames-naughty",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/world-of-warcraft-forever-character-surnames-naughty",
+          "titre": "World of Warcraft: Forever players are being naughty with the new naming system"
+        }
+      ]
+    },
+    {
+      "id": "mystique-s-lesbian-relationship-in-marvel-s-wolverine-is-see",
+      "titre": "Mystique's lesbian relationship in Marvel's Wolverine is seemingly censored in certain parts of the world",
+      "url": "https://www.eurogamer.net/marvels-wolverine-mystique-lgbtq-censored-middle-east",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/marvels-wolverine-mystique-lgbtq-censored-middle-east",
+          "titre": "Mystique's lesbian relationship in Marvel's Wolverine is seemingly censored in certain parts of the world"
+        }
+      ]
+    },
+    {
+      "id": "fire-emblem-fortune-s-weave-renown-how-to-raise-renown-fast",
+      "titre": "Fire Emblem Fortune’s Weave Renown: How to raise Renown fast",
+      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-renown-how-to-raise-renown-fast/",
       "sources": [
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 0.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-paradise-fish-location-to-recruit-ninae/",
-          "titre": "Fire Emblem Fortune’s Weave: Paradise Fish location to recruit Ninae"
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-renown-how-to-raise-renown-fast/",
+          "titre": "Fire Emblem Fortune’s Weave Renown: How to raise Renown fast"
+        }
+      ]
+    },
+    {
+      "id": "who-the-hell-is-buying-their-server-memory-from-amazon-also",
+      "titre": "Who the hell is buying their server memory from Amazon?! Also, can I interest you in a $101,000 kit?",
+      "url": "https://www.pcgamer.com/hardware/memory/who-the-hell-is-buying-their-server-memory-from-amazon-also-can-i-interest-you-in-a-usd101-000-kit/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/memory/who-the-hell-is-buying-their-server-memory-from-amazon-also-can-i-interest-you-in-a-usd101-000-kit/",
+          "titre": "Who the hell is buying their server memory from Amazon?! Also, can I interest you in a $101,000 kit?"
+        }
+      ]
+    },
+    {
+      "id": "the-blood-of-dawnwalker-cost-less-than-expected-to-make-it-s",
+      "titre": "The Blood of Dawnwalker cost less than expected to make - it's more of a double-A game than a triple-A blockbuster",
+      "url": "https://www.eurogamer.net/blood-of-dawnwalker-budget-revealed",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/blood-of-dawnwalker-budget-revealed",
+          "titre": "The Blood of Dawnwalker cost less than expected to make - it's more of a double-A game than a triple-A blockbuster"
+        }
+      ]
+    },
+    {
+      "id": "say-sawadika-to-your-new-ps5-controller-feat-lisa-from-black",
+      "titre": "Say Sawadika to Your New PS5 Controller, Feat Lisa from Blackpink",
+      "url": "https://www.pushsquare.com/news/2026/09/say-sawadika-to-your-new-ps5-controller-feat-lisa-from-blackpink",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/say-sawadika-to-your-new-ps5-controller-feat-lisa-from-blackpink",
+          "titre": "Say Sawadika to Your New PS5 Controller, Feat Lisa from Blackpink"
+        }
+      ]
+    },
+    {
+      "id": "kojima-says-his-sony-split-was-amicable-and-they-both-still",
+      "titre": "Kojima says his Sony split was amicable and they both still love us very much",
+      "url": "https://www.pcgamer.com/gaming-industry/kojima-says-his-sony-split-was-amicable-and-they-both-still-love-us-very-much/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/kojima-says-his-sony-split-was-amicable-and-they-both-still-love-us-very-much/",
+          "titre": "Kojima says his Sony split was amicable and they both still love us very much"
+        }
+      ]
+    },
+    {
+      "id": "activision-cites-data-claiming-cheating-in-games-is-an-8-5bn",
+      "titre": "Activision cites data claiming cheating in games is an $8.5bn industry; 69% of online multiplayer studios consider cheating \"a significant or very significant problem\"",
+      "url": "https://www.gamesindustry.biz/activision-cites-data-claiming-cheating-in-games-is-an-85bn-industry-69-of-online-multiplayer-studios-consider-cheating-a-significant-or-very-significant-problem",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/activision-cites-data-claiming-cheating-in-games-is-an-85bn-industry-69-of-online-multiplayer-studios-consider-cheating-a-significant-or-very-significant-problem",
+          "titre": "Activision cites data claiming cheating in games is an $8.5bn industry; 69% of online multiplayer studios consider cheating \"a significant or very significant problem\""
+        }
+      ]
+    },
+    {
+      "id": "thing-is-that-you-watch-this-disembodied-ai-robot-hand-walk",
+      "titre": "Thing, is that you? Watch this disembodied AI robot hand 'walk' like a terrible spider from the depths of my nightmares",
+      "url": "https://www.pcgamer.com/hardware/thing-is-that-you-watch-this-disembodied-ai-robot-hand-walk-like-a-terrible-spider-from-the-depths-of-my-nightmares/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/thing-is-that-you-watch-this-disembodied-ai-robot-hand-walk-like-a-terrible-spider-from-the-depths-of-my-nightmares/",
+          "titre": "Thing, is that you? Watch this disembodied AI robot hand 'walk' like a terrible spider from the depths of my nightmares"
+        }
+      ]
+    },
+    {
+      "id": "ball-x-pit-s-next-dlc-arrives-this-november-and-it-s-huge",
+      "titre": "Ball x Pit's Next DLC Arrives This November, And It's Huge",
+      "url": "https://www.nintendolife.com/news/2026/09/ball-x-pits-next-dlc-arrives-this-november-and-its-huge",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/ball-x-pits-next-dlc-arrives-this-november-and-its-huge",
+          "titre": "Ball x Pit's Next DLC Arrives This November, And It's Huge"
+        }
+      ]
+    },
+    {
+      "id": "an-officially-endorsed-box-set-of-manic-miner-creator-matthe",
+      "titre": "An officially endorsed box set of Manic Miner creator Matthew Smith’s ZX Spectrum games is coming",
+      "url": "https://www.videogameschronicle.com/news/an-officially-endorsed-box-set-of-manic-miner-creator-matthew-smiths-zx-spectrum-games-is-coming/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/an-officially-endorsed-box-set-of-manic-miner-creator-matthew-smiths-zx-spectrum-games-is-coming/",
+          "titre": "An officially endorsed box set of Manic Miner creator Matthew Smith’s ZX Spectrum games is coming"
+        }
+      ]
+    },
+    {
+      "id": "persona-4-revival-seems-to-add-a-whole-new-social-link",
+      "titre": "Persona 4 Revival Seems to Add a Whole New Social Link",
+      "url": "https://www.pushsquare.com/news/2026/09/persona-4-revival-seems-to-add-a-whole-new-social-link",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/persona-4-revival-seems-to-add-a-whole-new-social-link",
+          "titre": "Persona 4 Revival Seems to Add a Whole New Social Link"
+        }
+      ]
+    },
+    {
+      "id": "oblivion-remastered-update-seems-to-have-borked-the-visuals",
+      "titre": "Oblivion Remastered Update Seems To Have Borked The Visuals",
+      "url": "https://www.nintendolife.com/news/2026/09/oblivion-remastered-update-seems-to-have-borked-the-visuals",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/oblivion-remastered-update-seems-to-have-borked-the-visuals",
+          "titre": "Oblivion Remastered Update Seems To Have Borked The Visuals"
+        }
+      ]
+    },
+    {
+      "id": "classic-rpgs-lufia-and-lufia-2-are-adventuring-to-ps5-with-e",
+      "titre": "Classic RPGs Lufia and Lufia 2 Are Adventuring to PS5 with 'Enhanced' Gameplay",
+      "url": "https://www.pushsquare.com/news/2026/09/classic-rpgs-lufia-and-lufia-2-are-adventuring-to-ps5-with-enhanced-gameplay",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/classic-rpgs-lufia-and-lufia-2-are-adventuring-to-ps5-with-enhanced-gameplay",
+          "titre": "Classic RPGs Lufia and Lufia 2 Are Adventuring to PS5 with 'Enhanced' Gameplay"
+        }
+      ]
+    },
+    {
+      "id": "wow-forever-mentally-broke-me-with-a-boulder",
+      "titre": "WoW: Forever mentally broke me with a boulder",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-mentally-broke-me-with-a-boulder/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-mentally-broke-me-with-a-boulder/",
+          "titre": "WoW: Forever mentally broke me with a boulder"
         }
       ]
     },
@@ -539,13 +845,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/software/ai/i-remember-when-jensen-huang-used-to-sell-me-gpus-now-hes-out-there-having-to-deny-that-ai-will-cause-the-end-of-the-world/",
           "titre": "I remember when Jensen Huang used to sell me GPUs, now he's out there having to deny that AI will cause 'the end of the world'"
+        }
+      ]
+    },
+    {
+      "id": "tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai",
+      "titre": "Tokyo Game Show 2026 celebrated the past, and an uncertain AI future | Opinion",
+      "url": "https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 2.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion",
+          "titre": "Tokyo Game Show 2026 celebrated the past, and an uncertain AI future | Opinion"
         }
       ]
     },
@@ -557,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -575,7 +899,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
@@ -593,31 +917,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/final-fantasy-revelation-will-let-players-automatically-raise-their-characters-level-to-skip-grinding/",
           "titre": "Final Fantasy 7 Revelation will let players raise their character’s level automatically to skip grinding"
-        }
-      ]
-    },
-    {
-      "id": "the-brave-adventurers-of-wow-forever-are-all-called-things-l",
-      "titre": "The brave adventurers of WoW: Forever are all called things like Take Meds and Skonch Prime",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/the-brave-adventurers-of-wow-forever-are-all-called-things-like-take-meds-and-skonch-prime/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/the-brave-adventurers-of-wow-forever-are-all-called-things-like-take-meds-and-skonch-prime/",
-          "titre": "The brave adventurers of WoW: Forever are all called things like Take Meds and Skonch Prime"
         }
       ]
     },
@@ -629,7 +935,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -647,31 +953,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/first-ps-plus-extra-game-for-october-2026-announced",
           "titre": "First PS Plus Extra Game for October 2026 Announced"
-        }
-      ]
-    },
-    {
-      "id": "zach-cregger-s-quirky-resident-evil-film-proves-skeptics-wro",
-      "titre": "Zach Cregger's quirky Resident Evil film proves skeptics wrong with series-best opening weekend",
-      "url": "https://www.eurogamer.net/zach-cregger-resident-evil-film-opening-weekend-earnings",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 1.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/zach-cregger-resident-evil-film-opening-weekend-earnings",
-          "titre": "Zach Cregger's quirky Resident Evil film proves skeptics wrong with series-best opening weekend"
         }
       ]
     },
@@ -683,7 +971,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -701,49 +989,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/uk-charts-fire-emblem-lights-up-the-podium-but-it-cant-claw-past-sonys-latest",
           "titre": "UK Charts: Fire Emblem Lights Up The Podium, But It Can't Claw Past Sony's Latest"
-        }
-      ]
-    },
-    {
-      "id": "try-one-of-2026-s-most-anticipated-2d-games-in-castlevania-p",
-      "titre": "Try One of 2026's Most Anticipated 2D Games in Castlevania PS5 Demo",
-      "url": "https://www.pushsquare.com/news/2026/09/try-one-of-2026s-most-anticipated-2d-games-in-castlevania-ps5-demo",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/try-one-of-2026s-most-anticipated-2d-games-in-castlevania-ps5-demo",
-          "titre": "Try One of 2026's Most Anticipated 2D Games in Castlevania PS5 Demo"
-        }
-      ]
-    },
-    {
-      "id": "marvel-s-wolverine-fart-gas-scent-trails-addressed-by-a-surp",
-      "titre": "Marvel's Wolverine \"fart gas\" scent trails addressed by a surprise update",
-      "url": "https://www.eurogamer.net/marvels-wolverine-patch-fart-gas-scent-trails-crashes",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marvels-wolverine-patch-fart-gas-scent-trails-crashes",
-          "titre": "Marvel's Wolverine \"fart gas\" scent trails addressed by a surprise update"
         }
       ]
     },
@@ -755,7 +1007,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 6,
       "liens": [
         {
@@ -773,7 +1025,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 9.9,
       "chaleur": 6,
       "liens": [
         {
@@ -791,7 +1043,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 26.4,
       "chaleur": 5,
       "liens": [
         {
@@ -809,7 +1061,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.3,
       "chaleur": 5,
       "liens": [
         {
@@ -827,13 +1079,49 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.9,
+      "heures": 31.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-gets-a-switch-2-eshop-demo-today",
           "titre": "Stellar Blade Gets A Switch 2 eShop Demo Today"
+        }
+      ]
+    },
+    {
+      "id": "try-one-of-2026-s-most-anticipated-2d-games-in-castlevania-p",
+      "titre": "Try One of 2026's Most Anticipated 2D Games in Castlevania PS5 Demo",
+      "url": "https://www.pushsquare.com/news/2026/09/try-one-of-2026s-most-anticipated-2d-games-in-castlevania-ps5-demo",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/try-one-of-2026s-most-anticipated-2d-games-in-castlevania-ps5-demo",
+          "titre": "Try One of 2026's Most Anticipated 2D Games in Castlevania PS5 Demo"
+        }
+      ]
+    },
+    {
+      "id": "marvel-s-wolverine-fart-gas-scent-trails-addressed-by-a-surp",
+      "titre": "Marvel's Wolverine \"fart gas\" scent trails addressed by a surprise update",
+      "url": "https://www.eurogamer.net/marvels-wolverine-patch-fart-gas-scent-trails-crashes",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/marvels-wolverine-patch-fart-gas-scent-trails-crashes",
+          "titre": "Marvel's Wolverine \"fart gas\" scent trails addressed by a surprise update"
         }
       ]
     },
@@ -845,7 +1133,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -854,297 +1142,9 @@ const VEILLE = {
           "titre": "Stellar Blade Still Not Finished, Four Free Bayonetta Costumes Coming to PS5"
         }
       ]
-    },
-    {
-      "id": "guide-these-26-ps5-and-ps-plus-games-are-coming-out-this-wee",
-      "titre": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out This Week (21st - 27th September)",
-      "url": "https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-this-week-21st-27th-september",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-this-week-21st-27th-september",
-          "titre": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out This Week (21st - 27th September)"
-        }
-      ]
-    },
-    {
-      "id": "first-5-day-tokyo-game-show-in-30-years-cuts-back-to-4-in-fa",
-      "titre": "First 5-day Tokyo Game Show in 30 years cuts back to 4 in face of Typhoon Dujuan",
-      "url": "https://www.pcgamer.com/gaming-industry/first-5-day-tokyo-game-show-in-30-years-cuts-back-to-4-in-face-of-typhoon-dujuan/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/first-5-day-tokyo-game-show-in-30-years-cuts-back-to-4-in-face-of-typhoon-dujuan/",
-          "titre": "First 5-day Tokyo Game Show in 30 years cuts back to 4 in face of Typhoon Dujuan"
-        }
-      ]
-    },
-    {
-      "id": "elden-ring-nightreign-is-dead-but-modders-are-dabbing-on-its",
-      "titre": "Elden Ring Nightreign is dead, but modders are dabbing on its corpse, with one porting an entire Dark Souls 2 DLC zone as a playable map",
-      "url": "https://www.pcgamer.com/games/action/elden-ring-nightreign-is-dead-but-modders-are-dabbing-on-its-corpse-with-one-porting-an-entire-dark-souls-2-dlc-zone-as-a-playable-map/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/elden-ring-nightreign-is-dead-but-modders-are-dabbing-on-its-corpse-with-one-porting-an-entire-dark-souls-2-dlc-zone-as-a-playable-map/",
-          "titre": "Elden Ring Nightreign is dead, but modders are dabbing on its corpse, with one porting an entire Dark Souls 2 DLC zone as a playable map"
-        }
-      ]
-    },
-    {
-      "id": "i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6",
-      "titre": "'I Love Sony': Kojima Unsure if Physint Will Ever Come to PS6, Hasn't Decided on Decima Engine",
-      "url": "https://www.pushsquare.com/news/2026/09/i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6-hasnt-decided-on-decima-engine",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 19.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6-hasnt-decided-on-decima-engine",
-          "titre": "'I Love Sony': Kojima Unsure if Physint Will Ever Come to PS6, Hasn't Decided on Decima Engine"
-        }
-      ]
-    },
-    {
-      "id": "take-to-the-skies-and-shoot-your-mates-in-the-face-with-a-sh",
-      "titre": "Take to the skies and shoot your mates in the face with a shotgun in Fish & Ships",
-      "url": "https://www.pcgamer.com/games/action/take-to-the-skies-and-shoot-your-mates-in-the-face-with-a-shotgun-in-fish-and-ships/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 19.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/take-to-the-skies-and-shoot-your-mates-in-the-face-with-a-shotgun-in-fish-and-ships/",
-          "titre": "Take to the skies and shoot your mates in the face with a shotgun in Fish & Ships"
-        }
-      ]
-    },
-    {
-      "id": "feel-like-a-kid-again-when-toy-car-game-obstacle-overdrive-l",
-      "titre": "Feel like a kid again when toy car game Obstacle Overdrive launches October 2",
-      "url": "https://www.pcgamer.com/games/racing/feel-like-a-kid-again-when-toy-car-game-obstacle-overdrive-launches-october-2/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 19.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/racing/feel-like-a-kid-again-when-toy-car-game-obstacle-overdrive-launches-october-2/",
-          "titre": "Feel like a kid again when toy car game Obstacle Overdrive launches October 2"
-        }
-      ]
-    },
-    {
-      "id": "i-lost-hours-to-this-roguelike-card-based-city-builder-even",
-      "titre": "I lost hours to this roguelike card-based city builder even though I had no idea how all of those words could fit together",
-      "url": "https://www.pcgamer.com/games/roguelike/i-lost-hours-to-this-roguelike-card-based-city-builder-even-though-i-had-no-idea-how-all-of-those-words-could-fit-together/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 19.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/roguelike/i-lost-hours-to-this-roguelike-card-based-city-builder-even-though-i-had-no-idea-how-all-of-those-words-could-fit-together/",
-          "titre": "I lost hours to this roguelike card-based city builder even though I had no idea how all of those words could fit together"
-        }
-      ]
-    },
-    {
-      "id": "solarpunk-mmo-loftia-is-launching-into-early-access-november",
-      "titre": "Solarpunk MMO Loftia is launching into early access November 3",
-      "url": "https://www.pcgamer.com/games/mmo/solarpunk-mmo-loftia-is-launching-into-early-access-november-3/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 19.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/solarpunk-mmo-loftia-is-launching-into-early-access-november-3/",
-          "titre": "Solarpunk MMO Loftia is launching into early access November 3"
-        }
-      ]
-    },
-    {
-      "id": "dynasty-warriors-3-complete-edition-remastered-demo-online-t",
-      "titre": "Dynasty Warriors 3: Complete Edition Remastered Demo & Online Two-Player Post-Launch Update Announced",
-      "url": "https://www.nintendolife.com/news/2026/09/dynasty-warriors-3-complete-edition-remastered-demo-and-online-two-player-post-launch-update-announced",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 20.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/dynasty-warriors-3-complete-edition-remastered-demo-and-online-two-player-post-launch-update-announced",
-          "titre": "Dynasty Warriors 3: Complete Edition Remastered Demo & Online Two-Player Post-Launch Update Announced"
-        }
-      ]
-    },
-    {
-      "id": "call-of-duty-maker-activision-claims-video-game-cheating-is",
-      "titre": "Call of Duty maker Activision claims video game cheating is now a £6.3 billion ($8.5 billion) a year industry",
-      "url": "https://www.eurogamer.net/activision-video-game-cheat-market-8-5-billion-a-year",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 20.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/activision-video-game-cheat-market-8-5-billion-a-year",
-          "titre": "Call of Duty maker Activision claims video game cheating is now a £6.3 billion ($8.5 billion) a year industry"
-        }
-      ]
-    },
-    {
-      "id": "terrifying-phenomenon-seen-in-new-york-city",
-      "titre": "‘Terrifying’ phenomenon seen in New York City",
-      "url": "https://www.videogameschronicle.com/news/terrifying-phenomenon-seen-in-new-york-city/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 22.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/terrifying-phenomenon-seen-in-new-york-city/",
-          "titre": "‘Terrifying’ phenomenon seen in New York City"
-        }
-      ]
-    },
-    {
-      "id": "blizzard-developer-says-world-of-warcraft-forever-s-beta-num",
-      "titre": "Blizzard developer says World of Warcraft: Forever's beta numbers are the \"craziest\" he's seen in 17 years",
-      "url": "https://www.eurogamer.net/world-of-warcraft-forever-beta-craziest-numbers-blizzard",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 23.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/world-of-warcraft-forever-beta-craziest-numbers-blizzard",
-          "titre": "Blizzard developer says World of Warcraft: Forever's beta numbers are the \"craziest\" he's seen in 17 years"
-        }
-      ]
-    },
-    {
-      "id": "splatoon-raiders-dev-team-apparently-has-no-plans-for-dlc",
-      "titre": "Splatoon Raiders Dev Team Apparently Has No Plans For DLC",
-      "url": "https://www.nintendolife.com/news/2026/09/splatoon-raiders-dev-team-apparently-has-no-plans-for-dlc",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 23.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/splatoon-raiders-dev-team-apparently-has-no-plans-for-dlc",
-          "titre": "Splatoon Raiders Dev Team Apparently Has No Plans For DLC"
-        }
-      ]
-    },
-    {
-      "id": "clive-barker-s-hellraiser-revival-gets-a-playable-demo-and-a",
-      "titre": "Clive Barker's Hellraiser: Revival gets a playable demo and a new trailer ahead of its October launch",
-      "url": "https://www.eurogamer.net/clive-barkers-hellraiser-revival-demo-scarlet-church-trailer",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 25.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/clive-barkers-hellraiser-revival-demo-scarlet-church-trailer",
-          "titre": "Clive Barker's Hellraiser: Revival gets a playable demo and a new trailer ahead of its October launch"
-        }
-      ]
-    },
-    {
-      "id": "the-last-of-us-director-apologises-for-calling-out-sony-sant",
-      "titre": "The Last of Us director apologises for calling out Sony Santa Monica's God of War Laufey after saying he was \"not excited\"",
-      "url": "https://www.eurogamer.net/last-of-us-director-apologises-god-of-war-laufey-not-excited",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 25.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/last-of-us-director-apologises-god-of-war-laufey-not-excited",
-          "titre": "The Last of Us director apologises for calling out Sony Santa Monica's God of War Laufey after saying he was \"not excited\""
-        }
-      ]
-    },
-    {
-      "id": "wolverine-developer-insomniac-denies-using-generative-ai-aft",
-      "titre": "Wolverine developer Insomniac denies using generative AI after fans spot strange restroom sign",
-      "url": "https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 27.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign",
-          "titre": "Wolverine developer Insomniac denies using generative AI after fans spot strange restroom sign"
-        }
-      ]
     }
   ],
   "alertes": [
-    "This week in PC games: Control: Resonant, Silent Hill: Townfall, and the history of Western philosophy as a pinball table"
+    "\"I thought people would leave\": Hideo Kojima offers his account of Physint's switch from PlayStation to Xbox, as his studio insist they're in a \"healthy, profitable state\""
   ]
 };
