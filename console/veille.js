@@ -1,32 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "21/09/2026 à 20h19",
+  "collecte": "21/09/2026 à 22h19",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "007-first-light-was-delayed-on-switch-2-for-a-third-time-to",
-      "titre": "007 First Light was delayed on Switch 2 for a third time to let players experience it ‘as fully as possible’, IO says",
-      "url": "https://www.videogameschronicle.com/news/007-first-light-was-delayed-on-switch-2-for-a-third-time-to-let-players-experience-it-as-fully-as-possible-io-says/",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 10.1,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/007-first-light-was-delayed-on-switch-2-for-a-third-time-to-let-players-experience-it-as-fully-as-possible-io-says/",
-          "titre": "007 First Light was delayed on Switch 2 for a third time to let players experience it ‘as fully as possible’, IO says"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/some-compromises-are-inevitable-007-first-light-dev-talks-switch-2-delay-performance-and-more",
-          "titre": "\"Some Compromises Are Inevitable\" - 007 First Light Dev Talks Switch 2 Delay, Performance & More"
-        }
-      ]
-    },
     {
       "id": "hideo-kojima-doesn-t-know-if-physint-will-be-released-on-ps5",
       "titre": "Hideo Kojima doesn't know if Physint will be released on PS5, and he hasn't decided if it's going to use Sony's Decima game engine",
@@ -36,7 +12,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 5.7,
+      "heures": 7.7,
       "chaleur": 10,
       "liens": [
         {
@@ -61,7 +37,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 9.0,
+      "heures": 11.0,
       "chaleur": 10,
       "liens": [
         {
@@ -82,26 +58,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "world-of-warcraft-forever-players-competing-over-enemies-is",
-      "titre": "World of Warcraft: Forever players competing over enemies is 'extremely important' to the experience, Blizzard says: 'This is one of those things that we simply must hold the line on'",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-competing-over-enemies-is-extremely-important-to-the-experience-blizzard-says-this-is-one-of-those-things-that-we-simply-must-hold-the-line-on/",
+      "id": "007-first-light-was-delayed-on-switch-2-for-a-third-time-to",
+      "titre": "007 First Light was delayed on Switch 2 for a third time to let players experience it ‘as fully as possible’, IO says",
+      "url": "https://www.videogameschronicle.com/news/007-first-light-was-delayed-on-switch-2-for-a-third-time-to-let-players-experience-it-as-fully-as-possible-io-says/",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 12.1,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/007-first-light-was-delayed-on-switch-2-for-a-third-time-to-let-players-experience-it-as-fully-as-possible-io-says/",
+          "titre": "007 First Light was delayed on Switch 2 for a third time to let players experience it ‘as fully as possible’, IO says"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/some-compromises-are-inevitable-007-first-light-dev-talks-switch-2-delay-performance-and-more",
+          "titre": "\"Some Compromises Are Inevitable\" - 007 First Light Dev Talks Switch 2 Delay, Performance & More"
+        }
+      ]
+    },
+    {
+      "id": "blizzard-warns-world-of-warcraft-forever-players-it-will-ver",
+      "titre": "Blizzard warns World of Warcraft: Forever players it will 'very aggressively' punish anyone who buys gold with real money",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-warns-world-of-warcraft-forever-players-it-will-very-aggressively-punish-anyone-who-buys-gold-with-real-money/",
       "sources": [
         "Eurogamer",
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 0.3,
+      "heures": 1.1,
       "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-competing-over-enemies-is-extremely-important-to-the-experience-blizzard-says-this-is-one-of-those-things-that-we-simply-must-hold-the-line-on/",
-          "titre": "World of Warcraft: Forever players competing over enemies is 'extremely important' to the experience, Blizzard says: 'This is one of those things that we simply must hold the line on'"
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-warns-world-of-warcraft-forever-players-it-will-very-aggressively-punish-anyone-who-buys-gold-with-real-money/",
+          "titre": "Blizzard warns World of Warcraft: Forever players it will 'very aggressively' punish anyone who buys gold with real money"
         },
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/world-of-warcraft-forever-character-surnames-naughty",
           "titre": "World of Warcraft: Forever players are being naughty with the new naming system"
+        }
+      ]
+    },
+    {
+      "id": "bungie-declares-it-s-not-done-with-destiny-as-it-lays-out-st",
+      "titre": "Bungie declares it's 'not done with Destiny' as it lays out studio's future",
+      "url": "https://www.gamedeveloper.com/console/bungie-declares-it-s-not-done-with-destiny-as-it-lays-out-studio-s-future",
+      "sources": [
+        "Game Developer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 1.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/console/bungie-declares-it-s-not-done-with-destiny-as-it-lays-out-studio-s-future",
+          "titre": "Bungie declares it's 'not done with Destiny' as it lays out studio's future"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/we-are-not-done-with-destiny-bungie-commits-to-sci-fi-series-after-fan-backlash-restores-destiny-2-content",
+          "titre": "'We Are Not Done with Destiny': Bungie Commits to Sci-Fi Series After Fan Backlash, Restores Destiny 2 Content"
         }
       ]
     },
@@ -113,7 +137,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 9,
       "liens": [
         {
@@ -131,13 +155,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/nintendo-switch-pokemon-ruby-sapphire-hd-port",
           "titre": "Nintendo Switch ports of Pokémon Ruby and Sapphire look even more likely after official account shares suspiciously HD footage of the GBA games"
+        }
+      ]
+    },
+    {
+      "id": "with-the-death-of-boxed-playstation-games-incoming-sony-reco",
+      "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026",
+      "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 10.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
+          "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026"
         }
       ]
     },
@@ -150,8 +192,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 2.8,
-      "chaleur": 9,
+      "heures": 4.8,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -174,8 +216,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 2.9,
-      "chaleur": 9,
+      "heures": 4.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -197,49 +239,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 9,
+      "heures": 5.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5-has-true-air-travel-now-thanks-to-the-mod-i-just-installed-but-they-wont-let-me-give-me-my-pals-piggybacks-onto-the-plane/",
           "titre": "GTA 5 has true air travel now thanks to the mod I just installed, but they won't let me give me my pals piggybacks onto the plane"
-        }
-      ]
-    },
-    {
-      "id": "it-s-sad-and-devastating-black-myth-wukong-s-physical-publi",
-      "titre": "\"It's sad and devastating\" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs",
-      "url": "https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs",
-          "titre": "\"It's sad and devastating\" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs"
-        }
-      ]
-    },
-    {
-      "id": "with-the-death-of-boxed-playstation-games-incoming-sony-reco",
-      "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026",
-      "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
-          "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026"
         }
       ]
     },
@@ -251,7 +257,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 7,
       "liens": [
         {
@@ -270,7 +276,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.8,
+      "heures": 7.8,
       "chaleur": 7,
       "liens": [
         {
@@ -294,7 +300,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 6.6,
+      "heures": 8.6,
       "chaleur": 7,
       "liens": [
         {
@@ -317,7 +323,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 7,
       "liens": [
         {
@@ -335,49 +341,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.5,
       "chaleur": 7,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/ahead-of-gta-6-rockstar-warn-modders-against-against-making-unofficial-main-story-expansions-unauthorised-ports-and-mods-that-combine-gta-maps",
           "titre": "Ahead of GTA 6, Rockstar warn modders against making unofficial main story expansions, unauthorised ports and mods that combine GTA maps"
-        }
-      ]
-    },
-    {
-      "id": "i-was-just-shocked-and-surprised-hideo-kojima-says-sony-tol",
-      "titre": "‘I was just shocked and surprised’: Hideo Kojima says Sony told him Physint was being cancelled over a Zoom call",
-      "url": "https://www.videogameschronicle.com/news/i-was-just-shocked-and-surprised-hideo-kojima-says-sony-told-him-physint-was-being-cancelled-over-a-zoom-call/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/i-was-just-shocked-and-surprised-hideo-kojima-says-sony-told-him-physint-was-being-cancelled-over-a-zoom-call/",
-          "titre": "‘I was just shocked and surprised’: Hideo Kojima says Sony told him Physint was being cancelled over a Zoom call"
-        }
-      ]
-    },
-    {
-      "id": "gallery-here-s-what-the-zelda-switch-2-and-electric-ocarina",
-      "titre": "Gallery: Here's What The Zelda Switch 2 And Electric Ocarina Look Like In Person",
-      "url": "https://www.nintendolife.com/news/2026/09/gallery-heres-what-the-zelda-switch-2-and-electric-ocarina-look-like-in-person",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/gallery-heres-what-the-zelda-switch-2-and-electric-ocarina-look-like-in-person",
-          "titre": "Gallery: Here's What The Zelda Switch 2 And Electric Ocarina Look Like In Person"
         }
       ]
     },
@@ -580,20 +550,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "pax-east",
-      "titre": "PAX East",
-      "url": "https://www.gamedeveloper.com/series/pax-east",
+      "id": "huge-30gb-update-prepares-ghost-of-yotei-for-dlc-some-featur",
+      "titre": "Huge 30GB Update Prepares Ghost of Yotei for DLC, Some Features Already Live Now",
+      "url": "https://www.pushsquare.com/news/2026/09/huge-30gb-update-prepares-ghost-of-yotei-for-dlc-some-features-already-live-now",
       "sources": [
-        "Game Developer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 0.1,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/series/pax-east",
-          "titre": "PAX East"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/huge-30gb-update-prepares-ghost-of-yotei-for-dlc-some-features-already-live-now",
+          "titre": "Huge 30GB Update Prepares Ghost of Yotei for DLC, Some Features Already Live Now"
+        }
+      ]
+    },
+    {
+      "id": "all-roads-lead-back-to-arma",
+      "titre": "'All roads lead back to Arma'",
+      "url": "https://www.pcgamer.com/games/fps/all-roads-lead-back-to-arma/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/all-roads-lead-back-to-arma/",
+          "titre": "'All roads lead back to Arma'"
         }
       ]
     },
@@ -605,13 +593,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-asks-modders-to-please-take-its-games-very-seriously/",
           "titre": "Rockstar asks modders to please take its games very seriously"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-players-competing-over-enemies-is",
+      "titre": "World of Warcraft: Forever players competing over enemies is 'extremely important' to the experience, Blizzard says: 'This is one of those things that we simply must hold the line on'",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-competing-over-enemies-is-extremely-important-to-the-experience-blizzard-says-this-is-one-of-those-things-that-we-simply-must-hold-the-line-on/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-competing-over-enemies-is-extremely-important-to-the-experience-blizzard-says-this-is-one-of-those-things-that-we-simply-must-hold-the-line-on/",
+          "titre": "World of Warcraft: Forever players competing over enemies is 'extremely important' to the experience, Blizzard says: 'This is one of those things that we simply must hold the line on'"
         }
       ]
     },
@@ -623,7 +629,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -641,7 +647,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -652,92 +658,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sony-seemingly-incentivising-digital-ps5-purchases-with-cash",
-      "titre": "Sony Seemingly Incentivising Digital PS5 Purchases with Cashback",
-      "url": "https://www.pushsquare.com/news/2026/09/sony-seemingly-incentivising-digital-ps5-purchases-with-cashback",
+      "id": "it-s-sad-and-devastating-black-myth-wukong-s-physical-publi",
+      "titre": "\"It's sad and devastating\" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs",
+      "url": "https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs",
       "sources": [
-        "Push Square"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 2.3,
+      "heures": 5.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/sony-seemingly-incentivising-digital-ps5-purchases-with-cashback",
-          "titre": "Sony Seemingly Incentivising Digital PS5 Purchases with Cashback"
-        }
-      ]
-    },
-    {
-      "id": "wait-how-did-lego-beat-minecraft-to-making-a-city-builder",
-      "titre": "Wait, how did Lego beat Minecraft to making a city builder?",
-      "url": "https://www.pcgamer.com/games/city-builder/wait-how-did-lego-beat-minecraft-to-making-a-city-builder/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/city-builder/wait-how-did-lego-beat-minecraft-to-making-a-city-builder/",
-          "titre": "Wait, how did Lego beat Minecraft to making a city builder?"
-        }
-      ]
-    },
-    {
-      "id": "bungie-un-cancels-destiny-vaulted-content-is-coming-back-as",
-      "titre": "Bungie un-cancels Destiny: Vaulted content is coming back as new leadership promises 'Destiny is foundational to our future'",
-      "url": "https://www.pcgamer.com/games/bungie-un-cancels-destiny-vaulted-content-is-coming-back-as-new-leadership-promises-destiny-is-foundational-to-our-future/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/bungie-un-cancels-destiny-vaulted-content-is-coming-back-as-new-leadership-promises-destiny-is-foundational-to-our-future/",
-          "titre": "Bungie un-cancels Destiny: Vaulted content is coming back as new leadership promises 'Destiny is foundational to our future'"
-        }
-      ]
-    },
-    {
-      "id": "bungie-is-freeing-vaulted-destiny-2-campaigns-after-marathon",
-      "titre": "Bungie is freeing vaulted Destiny 2 campaigns after Marathon \"did not reach as many players as we had hoped\"",
-      "url": "https://www.eurogamer.net/bungie-vaulted-destiny-2-campaigns-marathon-future",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/bungie-vaulted-destiny-2-campaigns-marathon-future",
-          "titre": "Bungie is freeing vaulted Destiny 2 campaigns after Marathon \"did not reach as many players as we had hoped\""
-        }
-      ]
-    },
-    {
-      "id": "we-are-not-done-with-destiny-bungie-commits-to-sci-fi-serie",
-      "titre": "'We Are Not Done with Destiny': Bungie Commits to Sci-Fi Series After Fan Backlash, Restores Destiny 2 Content",
-      "url": "https://www.pushsquare.com/news/2026/09/we-are-not-done-with-destiny-bungie-commits-to-sci-fi-series-after-fan-backlash-restores-destiny-2-content",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/we-are-not-done-with-destiny-bungie-commits-to-sci-fi-series-after-fan-backlash-restores-destiny-2-content",
-          "titre": "'We Are Not Done with Destiny': Bungie Commits to Sci-Fi Series After Fan Backlash, Restores Destiny 2 Content"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs",
+          "titre": "\"It's sad and devastating\" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs"
         }
       ]
     },
@@ -749,7 +683,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 6,
       "liens": [
         {
@@ -767,13 +701,49 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 10.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/microsoft-patent-ads-in-gameplay",
           "titre": "Microsoft patents idea for in-game PC and Xbox adverts shown during downtime \"trigger events\""
+        }
+      ]
+    },
+    {
+      "id": "i-was-just-shocked-and-surprised-hideo-kojima-says-sony-tol",
+      "titre": "‘I was just shocked and surprised’: Hideo Kojima says Sony told him Physint was being cancelled over a Zoom call",
+      "url": "https://www.videogameschronicle.com/news/i-was-just-shocked-and-surprised-hideo-kojima-says-sony-told-him-physint-was-being-cancelled-over-a-zoom-call/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 12.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/i-was-just-shocked-and-surprised-hideo-kojima-says-sony-told-him-physint-was-being-cancelled-over-a-zoom-call/",
+          "titre": "‘I was just shocked and surprised’: Hideo Kojima says Sony told him Physint was being cancelled over a Zoom call"
+        }
+      ]
+    },
+    {
+      "id": "gallery-here-s-what-the-zelda-switch-2-and-electric-ocarina",
+      "titre": "Gallery: Here's What The Zelda Switch 2 And Electric Ocarina Look Like In Person",
+      "url": "https://www.nintendolife.com/news/2026/09/gallery-heres-what-the-zelda-switch-2-and-electric-ocarina-look-like-in-person",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/gallery-heres-what-the-zelda-switch-2-and-electric-ocarina-look-like-in-person",
+          "titre": "Gallery: Here's What The Zelda Switch 2 And Electric Ocarina Look Like In Person"
         }
       ]
     },
@@ -785,13 +755,85 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 32.3,
+      "heures": 34.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/mailbox-wordcrafting-backtracking-one-handed-titles-nintendo-life-letters",
           "titre": "Mailbox: Wordcrafting, Backtracking, One-Handed Titles - Nintendo Life Letters"
+        }
+      ]
+    },
+    {
+      "id": "sony-seemingly-incentivising-digital-ps5-purchases-with-cash",
+      "titre": "Sony Seemingly Incentivising Digital PS5 Purchases with Cashback",
+      "url": "https://www.pushsquare.com/news/2026/09/sony-seemingly-incentivising-digital-ps5-purchases-with-cashback",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/sony-seemingly-incentivising-digital-ps5-purchases-with-cashback",
+          "titre": "Sony Seemingly Incentivising Digital PS5 Purchases with Cashback"
+        }
+      ]
+    },
+    {
+      "id": "wait-how-did-lego-beat-minecraft-to-making-a-city-builder",
+      "titre": "Wait, how did Lego beat Minecraft to making a city builder?",
+      "url": "https://www.pcgamer.com/games/city-builder/wait-how-did-lego-beat-minecraft-to-making-a-city-builder/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/city-builder/wait-how-did-lego-beat-minecraft-to-making-a-city-builder/",
+          "titre": "Wait, how did Lego beat Minecraft to making a city builder?"
+        }
+      ]
+    },
+    {
+      "id": "bungie-un-cancels-destiny-vaulted-content-is-coming-back-as",
+      "titre": "Bungie un-cancels Destiny: Vaulted content is coming back as new leadership promises 'Destiny is foundational to our future'",
+      "url": "https://www.pcgamer.com/games/bungie-un-cancels-destiny-vaulted-content-is-coming-back-as-new-leadership-promises-destiny-is-foundational-to-our-future/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/bungie-un-cancels-destiny-vaulted-content-is-coming-back-as-new-leadership-promises-destiny-is-foundational-to-our-future/",
+          "titre": "Bungie un-cancels Destiny: Vaulted content is coming back as new leadership promises 'Destiny is foundational to our future'"
+        }
+      ]
+    },
+    {
+      "id": "bungie-is-freeing-vaulted-destiny-2-campaigns-after-marathon",
+      "titre": "Bungie is freeing vaulted Destiny 2 campaigns after Marathon \"did not reach as many players as we had hoped\"",
+      "url": "https://www.eurogamer.net/bungie-vaulted-destiny-2-campaigns-marathon-future",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/bungie-vaulted-destiny-2-campaigns-marathon-future",
+          "titre": "Bungie is freeing vaulted Destiny 2 campaigns after Marathon \"did not reach as many players as we had hoped\""
         }
       ]
     },
@@ -803,7 +845,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -821,7 +863,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -839,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -857,7 +899,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -875,7 +917,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -893,7 +935,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -911,7 +953,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -929,7 +971,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -947,7 +989,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -965,7 +1007,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -983,7 +1025,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1001,7 +1043,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1019,7 +1061,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1037,7 +1079,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1055,7 +1097,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1073,7 +1115,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1091,49 +1133,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 8.7,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/memory/who-the-hell-is-buying-their-server-memory-from-amazon-also-can-i-interest-you-in-a-usd101-000-kit/",
           "titre": "Who the hell is buying their server memory from Amazon?! Also, can I interest you in a $101,000 kit?"
-        }
-      ]
-    },
-    {
-      "id": "the-blood-of-dawnwalker-cost-less-than-expected-to-make-it-s",
-      "titre": "The Blood of Dawnwalker cost less than expected to make - it's more of a double-A game than a triple-A blockbuster",
-      "url": "https://www.eurogamer.net/blood-of-dawnwalker-budget-revealed",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 6.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blood-of-dawnwalker-budget-revealed",
-          "titre": "The Blood of Dawnwalker cost less than expected to make - it's more of a double-A game than a triple-A blockbuster"
-        }
-      ]
-    },
-    {
-      "id": "say-sawadika-to-your-new-ps5-controller-feat-lisa-from-black",
-      "titre": "Say Sawadika to Your New PS5 Controller, Feat Lisa from Blackpink",
-      "url": "https://www.pushsquare.com/news/2026/09/say-sawadika-to-your-new-ps5-controller-feat-lisa-from-blackpink",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 6.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/say-sawadika-to-your-new-ps5-controller-feat-lisa-from-blackpink",
-          "titre": "Say Sawadika to Your New PS5 Controller, Feat Lisa from Blackpink"
         }
       ]
     }
