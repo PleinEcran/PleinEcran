@@ -1,21 +1,39 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "22/09/2026 à 08h21",
+  "collecte": "22/09/2026 à 10h21",
   "seuil": 14,
   "sujets": [
     {
-      "id": "xbox-reportedly-set-to-announce-second-round-of-layoffs-this",
-      "titre": "Xbox reportedly set to announce second round of layoffs this week",
-      "url": "https://www.gamesindustry.biz/xbox-reportedly-set-to-announce-second-round-of-layoffs-this-week",
+      "id": "xbox-reportedly-set-to-lay-off-hundreds-more-staff-and-conso",
+      "titre": "Xbox reportedly set to lay off hundreds more staff and \"consolidate\" several game studios in second round of major cuts this year",
+      "url": "https://www.rockpapershotgun.com/xbox-reportedly-set-to-lay-off-hundreds-more-staff-and-consolidate-several-game-studios-in-second-round-of-major-cuts-this-year",
       "sources": [
+        "Eurogamer",
         "GamesIndustry.biz",
         "Nintendo Life",
+        "Push Square",
+        "Rock Paper Shotgun",
         "VGC"
       ],
-      "reprises": 3,
-      "heures": 0.4,
-      "chaleur": 19,
+      "reprises": 6,
+      "heures": 0.8,
+      "chaleur": 28,
       "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/xbox-reportedly-set-to-lay-off-hundreds-more-staff-and-consolidate-several-game-studios-in-second-round-of-major-cuts-this-year",
+          "titre": "Xbox reportedly set to lay off hundreds more staff and \"consolidate\" several game studios in second round of major cuts this year"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-second-wave-cuts-layoffs-report",
+          "titre": "Second wave of Xbox cuts reported to be happening this week, with \"several\" studios apparently facing consolidation"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/hundreds-more-xbox-layoffs-reportedly-on-the-way-studios-to-be-consolidated",
+          "titre": "'Hundreds' More Xbox Layoffs Reportedly on the Way, Studios to Be Consolidated"
+        },
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/xbox-reportedly-set-to-announce-second-round-of-layoffs-this-week",
@@ -34,32 +52,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "final-fantasy-vii-revelation-includes-auto-level-up-option-f",
-      "titre": "Final Fantasy VII Revelation Includes Auto Level-Up Option For Players Who Skip Side Quests",
-      "url": "https://www.nintendolife.com/news/2026/09/final-fantasy-vii-revelation-includes-auto-level-up-option-for-players-who-skip-side-quests",
+      "id": "bungie-says-it-s-not-done-with-destiny-aims-to-earn-back-pla",
+      "titre": "Bungie says it's \"not done with Destiny\", aims to earn back player trust by restoring archived Destiny 2 content",
+      "url": "https://www.gamesindustry.biz/bungie-says-its-not-done-with-destiny-aims-to-earn-back-player-trust-by-restoring-archived-destiny-2-content",
       "sources": [
-        "Nintendo Life",
-        "Push Square",
-        "VGC"
+        "Game Developer",
+        "GamesIndustry.biz",
+        "Push Square"
       ],
       "reprises": 3,
-      "heures": 3.6,
+      "heures": 0.6,
       "chaleur": 12,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/final-fantasy-vii-revelation-includes-auto-level-up-option-for-players-who-skip-side-quests",
-          "titre": "Final Fantasy VII Revelation Includes Auto Level-Up Option For Players Who Skip Side Quests"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/bungie-says-its-not-done-with-destiny-aims-to-earn-back-player-trust-by-restoring-archived-destiny-2-content",
+          "titre": "Bungie says it's \"not done with Destiny\", aims to earn back player trust by restoring archived Destiny 2 content"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/console/bungie-declares-it-s-not-done-with-destiny-as-it-lays-out-studio-s-future",
+          "titre": "Bungie declares it's 'not done with Destiny' as it lays out studio's future"
         },
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-will-offer-automatic-level-ups-if-you-ignore-side-stuff",
-          "titre": "Final Fantasy 7 Revelation Will Offer Automatic Level Ups If You Ignore Side Stuff"
+          "url": "https://www.pushsquare.com/news/2026/09/we-are-not-done-with-destiny-bungie-commits-to-sci-fi-series-after-fan-backlash-restores-destiny-2-content",
+          "titre": "'We Are Not Done with Destiny': Bungie Commits to Sci-Fi Series After Fan Backlash, Restores Destiny 2 Content"
+        }
+      ]
+    },
+    {
+      "id": "more-games-should-look-like-abyss-x-zero",
+      "titre": "More games should look like Abyss x Zero",
+      "url": "https://www.pcgamer.com/games/more-games-should-look-like-abyss-x-zero/",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 1.4,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/more-games-should-look-like-abyss-x-zero/",
+          "titre": "More games should look like Abyss x Zero"
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/final-fantasy-revelation-will-let-players-automatically-raise-their-characters-level-to-skip-grinding/",
-          "titre": "Final Fantasy 7 Revelation will let players raise their character’s level automatically to skip grinding"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/gallery-heres-what-the-zelda-switch-2-and-electric-ocarina-look-like-in-person",
+          "titre": "Gallery: Here's What The Zelda Switch 2 And Electric Ocarina Look Like In Person"
         }
       ]
     },
@@ -72,7 +114,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 10,
       "liens": [
         {
@@ -88,56 +130,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "silent-hill-townfall-human-organ-transplant-box-puzzle-solut",
-      "titre": "Silent Hill Townfall: Human organ transplant box puzzle solution",
-      "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-human-organ-transplant-box-puzzle-solution/",
-      "sources": [
-        "Eurogamer",
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 7.5,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-human-organ-transplant-box-puzzle-solution/",
-          "titre": "Silent Hill Townfall: Human organ transplant box puzzle solution"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/silent-hill-townfall-review",
-          "titre": "Silent Hill: Townfall review"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/silent-hill-townfall",
-          "titre": "Review: Silent Hill: Townfall (PS5) - Dated Bite-Sized Horror... in a Good Way"
-        }
-      ]
-    },
-    {
-      "id": "we-re-thinking-about-x-men-videogames-wrong",
-      "titre": "We're thinking about X-Men videogames wrong",
-      "url": "https://www.pcgamer.com/games/were-thinking-about-x-men-videogames-wrong/",
+      "id": "what-s-your-back-on-my-bullshit-videogame",
+      "titre": "What's your 'back on my bullshit' videogame?",
+      "url": "https://www.pcgamer.com/games/final-fantasy/whats-your-back-on-my-bullshit-videogame/",
       "sources": [
         "PC Gamer",
-        "Push Square"
+        "VGC"
       ],
       "reprises": 2,
-      "heures": 1.4,
+      "heures": 0.1,
       "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/were-thinking-about-x-men-videogames-wrong/",
-          "titre": "We're thinking about X-Men videogames wrong"
+          "url": "https://www.pcgamer.com/games/final-fantasy/whats-your-back-on-my-bullshit-videogame/",
+          "titre": "What's your 'back on my bullshit' videogame?"
         },
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/i-was-thinking-about-the-possibility-of-atelier-maomao-how-the-apothecary-diaries-became-a-ps5-game",
-          "titre": "Feature: 'I Was Thinking About the Possibility of Atelier Maomao': How The Apothecary Diaries Became a PS5 Game"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/we-intend-to-earn-back-your-trust-bungie-announces-plans-to-bring-back-destiny-2-and-improve-marathon/",
+          "titre": "‘We intend to earn back your trust’: Bungie announces plans to bring back Destiny 2 and improve Marathon"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-is-doing-its-best-to-make-sure-switch-overtakes-ps2",
+      "titre": "Nintendo Is Doing Its Best To Make Sure Switch Overtakes PS2",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-is-doing-its-best-to-make-sure-switch-overtakes-ps2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nintendo-is-doing-its-best-to-make-sure-switch-overtakes-ps2",
+          "titre": "Nintendo Is Doing Its Best To Make Sure Switch Overtakes PS2"
         }
       ]
     },
@@ -150,7 +180,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 17.7,
+      "heures": 19.7,
       "chaleur": 9,
       "liens": [
         {
@@ -166,6 +196,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "monster-hunter-wilds-ascendance-devs-discuss-switch-2-wilds",
+      "titre": "Monster Hunter Wilds Ascendance devs discuss Switch 2, Wilds feedback, and the expansion’s time skip",
+      "url": "https://www.videogameschronicle.com/features/interviews/monster-hunter-wilds-ascendance-devs-discuss-switch-2-wilds-feedback-and-the-expansions-time-skip/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/features/interviews/monster-hunter-wilds-ascendance-devs-discuss-switch-2-wilds-feedback-and-the-expansions-time-skip/",
+          "titre": "Monster Hunter Wilds Ascendance devs discuss Switch 2, Wilds feedback, and the expansion’s time skip"
+        }
+      ]
+    },
+    {
       "id": "we-were-almost-dead-neogeo-boss-reveals-forced-redesign-beh",
       "titre": "‘We were almost dead’: NeoGeo boss reveals forced redesign behind AES+ delay",
       "url": "https://www.videogameschronicle.com/news/we-were-almost-dead-neogeo-boss-reveals-forced-redesign-behind-aes-delay/",
@@ -173,7 +221,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 8,
       "liens": [
         {
@@ -184,68 +232,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-made-a-to-play-shelf-for-myself-on-steam",
-      "titre": "I made a 'to play' shelf for myself on Steam",
-      "url": "https://www.pcgamer.com/games/i-made-a-to-play-shelf-for-myself-on-steam/",
+      "id": "final-fantasy-vii-revelation-includes-auto-level-up-option-f",
+      "titre": "Final Fantasy VII Revelation Includes Auto Level-Up Option For Players Who Skip Side Quests",
+      "url": "https://www.nintendolife.com/news/2026/09/final-fantasy-vii-revelation-includes-auto-level-up-option-for-players-who-skip-side-quests",
       "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/i-made-a-to-play-shelf-for-myself-on-steam/",
-          "titre": "I made a 'to play' shelf for myself on Steam"
-        }
-      ]
-    },
-    {
-      "id": "blizzard-warns-world-of-warcraft-forever-players-it-will-ver",
-      "titre": "Blizzard warns World of Warcraft: Forever players it will 'very aggressively' punish anyone who buys gold with real money",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-warns-world-of-warcraft-forever-players-it-will-very-aggressively-punish-anyone-who-buys-gold-with-real-money/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 11.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-warns-world-of-warcraft-forever-players-it-will-very-aggressively-punish-anyone-who-buys-gold-with-real-money/",
-          "titre": "Blizzard warns World of Warcraft: Forever players it will 'very aggressively' punish anyone who buys gold with real money"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/world-of-warcraft-forever-character-surnames-naughty",
-          "titre": "World of Warcraft: Forever players are being naughty with the new naming system"
-        }
-      ]
-    },
-    {
-      "id": "bungie-declares-it-s-not-done-with-destiny-as-it-lays-out-st",
-      "titre": "Bungie declares it's 'not done with Destiny' as it lays out studio's future",
-      "url": "https://www.gamedeveloper.com/console/bungie-declares-it-s-not-done-with-destiny-as-it-lays-out-studio-s-future",
-      "sources": [
-        "Game Developer",
+        "Nintendo Life",
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 11.8,
+      "heures": 5.6,
       "chaleur": 7,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/bungie-declares-it-s-not-done-with-destiny-as-it-lays-out-studio-s-future",
-          "titre": "Bungie declares it's 'not done with Destiny' as it lays out studio's future"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/final-fantasy-vii-revelation-includes-auto-level-up-option-for-players-who-skip-side-quests",
+          "titre": "Final Fantasy VII Revelation Includes Auto Level-Up Option For Players Who Skip Side Quests"
         },
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/we-are-not-done-with-destiny-bungie-commits-to-sci-fi-series-after-fan-backlash-restores-destiny-2-content",
-          "titre": "'We Are Not Done with Destiny': Bungie Commits to Sci-Fi Series After Fan Backlash, Restores Destiny 2 Content"
+          "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-will-offer-automatic-level-ups-if-you-ignore-side-stuff",
+          "titre": "Final Fantasy 7 Revelation Will Offer Automatic Level Ups If You Ignore Side Stuff"
         }
       ]
     },
@@ -257,7 +263,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.4,
       "chaleur": 7,
       "liens": [
         {
@@ -275,7 +281,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.6,
+      "heures": 24.6,
       "chaleur": 7,
       "liens": [
         {
@@ -484,9 +490,27 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-still-can-t-believe-we-call-them-mobas",
-      "titre": "I still can't believe we call them 'MOBAs'",
-      "url": "https://www.pcgamer.com/games/i-still-cant-believe-we-call-them-mobas/",
+      "id": "trover-saves-the-universe-the-comedy-game-from-high-on-life",
+      "titre": "Trover Saves the Universe, the comedy game from High on Life studio Squanch Games, appears to have been delisted",
+      "url": "https://www.videogameschronicle.com/news/trover-saves-the-universe-the-comedy-game-from-high-on-life-studio-squanch-games-appears-to-have-been-delisted/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/trover-saves-the-universe-the-comedy-game-from-high-on-life-studio-squanch-games-appears-to-have-been-delisted/",
+          "titre": "Trover Saves the Universe, the comedy game from High on Life studio Squanch Games, appears to have been delisted"
+        }
+      ]
+    },
+    {
+      "id": "my-favorite-space-warlord-baby-trading-sim-events",
+      "titre": "My favorite Space Warlord Baby Trading Sim events",
+      "url": "https://www.pcgamer.com/games/my-favorite-space-warlord-baby-trading-sim-events/",
       "sources": [
         "PC Gamer"
       ],
@@ -496,15 +520,15 @@ const VEILLE = {
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/i-still-cant-believe-we-call-them-mobas/",
-          "titre": "I still can't believe we call them 'MOBAs'"
+          "url": "https://www.pcgamer.com/games/my-favorite-space-warlord-baby-trading-sim-events/",
+          "titre": "My favorite Space Warlord Baby Trading Sim events"
         }
       ]
     },
     {
-      "id": "desktops-are-meant-to-be-messy",
-      "titre": "Desktops are meant to be messy",
-      "url": "https://www.pcgamer.com/games/desktops-are-meant-to-be-messy/",
+      "id": "every-game-is-about-goku-eventually",
+      "titre": "Every game is about Goku eventually",
+      "url": "https://www.pcgamer.com/games/every-game-is-about-goku-eventually/",
       "sources": [
         "PC Gamer"
       ],
@@ -514,51 +538,159 @@ const VEILLE = {
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/desktops-are-meant-to-be-messy/",
-          "titre": "Desktops are meant to be messy"
+          "url": "https://www.pcgamer.com/games/every-game-is-about-goku-eventually/",
+          "titre": "Every game is about Goku eventually"
         }
       ]
     },
     {
-      "id": "where-i-m-at",
-      "titre": "Where I'm at",
-      "url": "https://www.pcgamer.com/games/where-im-at/",
+      "id": "you-ever-notice-how-much-more-crouch-walking-you-do-in-games",
+      "titre": "You ever notice how much more crouch walking you do in games than real life",
+      "url": "https://www.pcgamer.com/games/you-ever-notice-how-much-more-crouch-walking-you-do-in-games-than-real-life/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 0.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/where-im-at/",
-          "titre": "Where I'm at"
+          "url": "https://www.pcgamer.com/games/you-ever-notice-how-much-more-crouch-walking-you-do-in-games-than-real-life/",
+          "titre": "You ever notice how much more crouch walking you do in games than real life"
         }
       ]
     },
     {
-      "id": "best-cozy-games-list-update-september-2026",
-      "titre": "Best cozy games list update september 2026",
-      "url": "https://www.pcgamer.com/games/best-cozy-games-list-update-september-2026/",
+      "id": "sony-inzone-m10s-ii-review",
+      "titre": "Sony Inzone M10S II review",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/sony-inzone-m10s-ii-review/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 0.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/best-cozy-games-list-update-september-2026/",
-          "titre": "Best cozy games list update september 2026"
+          "url": "https://www.pcgamer.com/hardware/gaming-monitors/sony-inzone-m10s-ii-review/",
+          "titre": "Sony Inzone M10S II review"
         }
       ]
     },
     {
-      "id": "pc-gaming-show-toyko-direct-2026-picks",
-      "titre": "PC Gaming Show Toyko Direct 2026 picks",
-      "url": "https://www.pcgamer.com/games/pc-gaming-show-toyko-direct-2026-picks/",
+      "id": "this-guy-just-sold-me-on-his-game-with-the-health-bar-alone",
+      "titre": "This guy just sold me on his game with the health bar alone",
+      "url": "https://www.pcgamer.com/games/rpg/this-guy-just-sold-me-on-his-game-with-the-health-bar-alone/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/this-guy-just-sold-me-on-his-game-with-the-health-bar-alone/",
+          "titre": "This guy just sold me on his game with the health bar alone"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-fans-are-torn-about-whether-forever-s-skyb",
+      "titre": "World of Warcraft fans are torn about whether Forever's Skyborne starting zone fits tonally with Classic WoW",
+      "url": "https://www.eurogamer.net/world-of-warcraft-fans-torn-about-whether-forevers-skyborne-starting-zone-fits-tonally-with-classic-wow",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/world-of-warcraft-fans-torn-about-whether-forevers-skyborne-starting-zone-fits-tonally-with-classic-wow",
+          "titre": "World of Warcraft fans are torn about whether Forever's Skyborne starting zone fits tonally with Classic WoW"
+        }
+      ]
+    },
+    {
+      "id": "cairn-dlc",
+      "titre": "Cairn DLC",
+      "url": "https://www.pcgamer.com/games/cairn-dlc/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/cairn-dlc/",
+          "titre": "Cairn DLC"
+        }
+      ]
+    },
+    {
+      "id": "gigabyte-admits-an-oopsie-with-gigabyte-control-center-softw",
+      "titre": "Gigabyte admits an oopsie with Gigabyte Control Center software leaving kernel exposed to attackers",
+      "url": "https://www.pcgamer.com/hardware/motherboards/gigabyte-admits-an-oopsie-with-gigabyte-control-center-software-leaving-kernel-exposed-to-attackers/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/motherboards/gigabyte-admits-an-oopsie-with-gigabyte-control-center-software-leaving-kernel-exposed-to-attackers/",
+          "titre": "Gigabyte admits an oopsie with Gigabyte Control Center software leaving kernel exposed to attackers"
+        }
+      ]
+    },
+    {
+      "id": "i-can-t-wait-to-play-a-kodan-in-gw3-concept-art",
+      "titre": "I can't wait to play a Kodan in GW3 concept art",
+      "url": "https://www.pcgamer.com/games/i-cant-wait-to-play-a-kodan-in-gw3-concept-art/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/i-cant-wait-to-play-a-kodan-in-gw3-concept-art/",
+          "titre": "I can't wait to play a Kodan in GW3 concept art"
+        }
+      ]
+    },
+    {
+      "id": "2-more-september-2026-ps-plus-extra-games-available-to-downl",
+      "titre": "2 More September 2026 PS Plus Extra Games Available to Download Now",
+      "url": "https://www.pushsquare.com/news/2026/09/2-more-september-2026-ps-plus-extra-games-available-to-download-now",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/2-more-september-2026-ps-plus-extra-games-available-to-download-now",
+          "titre": "2 More September 2026 PS Plus Extra Games Available to Download Now"
+        }
+      ]
+    },
+    {
+      "id": "wookiepedia-still-feels-like-home",
+      "titre": "Wookiepedia still feels like home",
+      "url": "https://www.pcgamer.com/games/wookiepedia-still-feels-like-home/",
       "sources": [
         "PC Gamer"
       ],
@@ -568,15 +700,69 @@ const VEILLE = {
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/pc-gaming-show-toyko-direct-2026-picks/",
-          "titre": "PC Gaming Show Toyko Direct 2026 picks"
+          "url": "https://www.pcgamer.com/games/wookiepedia-still-feels-like-home/",
+          "titre": "Wookiepedia still feels like home"
         }
       ]
     },
     {
-      "id": "gottem",
-      "titre": "Gottem",
-      "url": "https://www.pcgamer.com/games/gottem/",
+      "id": "sega-wanted-to-cancel-the-entire-sonic-series-but-the-first",
+      "titre": "Sega wanted to cancel the entire Sonic series but the first movie saved it, says Sonic Team head Iizuka",
+      "url": "https://www.videogameschronicle.com/news/sega-wanted-to-cancel-the-entire-sonic-series-but-the-first-movie-saved-it-says-sonic-team-head-iizuka/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sega-wanted-to-cancel-the-entire-sonic-series-but-the-first-movie-saved-it-says-sonic-team-head-iizuka/",
+          "titre": "Sega wanted to cancel the entire Sonic series but the first movie saved it, says Sonic Team head Iizuka"
+        }
+      ]
+    },
+    {
+      "id": "trying-to-pick-the-perfect-autumn-game-paralysis",
+      "titre": "Trying to pick the perfect autumn game paralysis",
+      "url": "https://www.pcgamer.com/games/trying-to-pick-the-perfect-autumn-game-paralysis/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/trying-to-pick-the-perfect-autumn-game-paralysis/",
+          "titre": "Trying to pick the perfect autumn game paralysis"
+        }
+      ]
+    },
+    {
+      "id": "nighthawks-review-a-series-of-vignettes-that-sometimes-excel",
+      "titre": "Nighthawks review – a series of vignettes that sometimes excel but more often falter",
+      "url": "https://www.rockpapershotgun.com/nighthawks-review-a-series-of-vignettes-that-sometimes-excel-but-more-often-falter",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/nighthawks-review-a-series-of-vignettes-that-sometimes-excel-but-more-often-falter",
+          "titre": "Nighthawks review – a series of vignettes that sometimes excel but more often falter"
+        }
+      ]
+    },
+    {
+      "id": "just-another-tuesday",
+      "titre": "Just another Tuesday",
+      "url": "https://www.pcgamer.com/games/just-another-tuesday/",
       "sources": [
         "PC Gamer"
       ],
@@ -586,51 +772,33 @@ const VEILLE = {
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/gottem/",
-          "titre": "Gottem"
+          "url": "https://www.pcgamer.com/games/just-another-tuesday/",
+          "titre": "Just another Tuesday"
         }
       ]
     },
     {
-      "id": "i-can-t-be-the-only-one",
-      "titre": "I can't be the only one",
-      "url": "https://www.pcgamer.com/games/i-cant-be-the-only-one/",
+      "id": "wow-forever-will-live-and-die-by-the-valley",
+      "titre": "WoW: Forever will live and die by the valley",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-will-live-and-die-by-the-valley/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.1,
+      "heures": 1.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/i-cant-be-the-only-one/",
-          "titre": "I can't be the only one"
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-will-live-and-die-by-the-valley/",
+          "titre": "WoW: Forever will live and die by the valley"
         }
       ]
     },
     {
-      "id": "how-about-that-starcraft-trailer-eh",
-      "titre": "How about that StarCraft trailer, eh",
-      "url": "https://www.pcgamer.com/games/how-about-that-starcraft-trailer-eh/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/how-about-that-starcraft-trailer-eh/",
-          "titre": "How about that StarCraft trailer, eh"
-        }
-      ]
-    },
-    {
-      "id": "battlefield-baby",
-      "titre": "Battlefield Baby",
-      "url": "https://www.pcgamer.com/games/pc-gaming-show-toyko-direct-2026-picks-clone/",
+      "id": "i-still-can-t-believe-we-call-them-mobas",
+      "titre": "I still can't believe we call them 'MOBAs'",
+      "url": "https://www.pcgamer.com/games/i-still-cant-believe-we-call-them-mobas/",
       "sources": [
         "PC Gamer"
       ],
@@ -640,8 +808,8 @@ const VEILLE = {
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/pc-gaming-show-toyko-direct-2026-picks-clone/",
-          "titre": "Battlefield Baby"
+          "url": "https://www.pcgamer.com/games/i-still-cant-believe-we-call-them-mobas/",
+          "titre": "I still can't believe we call them 'MOBAs'"
         }
       ]
     },
@@ -653,7 +821,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 6,
       "liens": [
         {
@@ -671,7 +839,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 6,
       "liens": [
         {
@@ -689,7 +857,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 15.0,
       "chaleur": 6,
       "liens": [
         {
@@ -708,7 +876,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 6,
       "liens": [
         {
@@ -732,7 +900,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 6,
       "liens": [
         {
@@ -755,7 +923,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.3,
       "chaleur": 6,
       "liens": [
         {
@@ -773,7 +941,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.9,
       "chaleur": 6,
       "liens": [
         {
@@ -791,7 +959,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.6,
+      "heures": 23.6,
       "chaleur": 6,
       "liens": [
         {
@@ -809,7 +977,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 18.0,
       "chaleur": 5,
       "liens": [
         {
@@ -827,7 +995,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.5,
       "chaleur": 5,
       "liens": [
         {
@@ -845,7 +1013,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 22.0,
       "chaleur": 5,
       "liens": [
         {
@@ -856,56 +1024,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nighthawks-review",
-      "titre": "Nighthawks review",
-      "url": "https://www.pcgamer.com/games/rpg/nighthawks-review-a-novel-vampire-rpg-thats-also-a-vampire-novels-worth-of-writing/",
+      "id": "silent-hill-townfall-human-organ-transplant-box-puzzle-solut",
+      "titre": "Silent Hill Townfall: Human organ transplant box puzzle solution",
+      "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-human-organ-transplant-box-puzzle-solution/",
       "sources": [
-        "PC Gamer"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/nighthawks-review-a-novel-vampire-rpg-thats-also-a-vampire-novels-worth-of-writing/",
-          "titre": "Nighthawks review"
-        }
-      ]
-    },
-    {
-      "id": "should-action-games-let-us-skip-the-action",
-      "titre": "Should action games let us skip the action?",
-      "url": "https://www.pcgamer.com/games/should-action-games-let-us-skip-the-action/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/should-action-games-let-us-skip-the-action/",
-          "titre": "Should action games let us skip the action?"
-        }
-      ]
-    },
-    {
-      "id": "bungie-unvaulting-destiny-2-content-was-a-studio-saving-emer",
-      "titre": "Bungie unvaulting Destiny 2 content was a studio-saving emergency decision, because Marathon updates were never going to be enough",
-      "url": "https://www.pcgamer.com/games/fps/bungie-unvaulting-destiny-2-content-was-a-studio-saving-emergency-decision-because-marathon-updates-were-never-going-to-be-enough/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 9.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/bungie-unvaulting-destiny-2-content-was-a-studio-saving-emergency-decision-because-marathon-updates-were-never-going-to-be-enough/",
-          "titre": "Bungie unvaulting Destiny 2 content was a studio-saving emergency decision, because Marathon updates were never going to be enough"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-human-organ-transplant-box-puzzle-solution/",
+          "titre": "Silent Hill Townfall: Human organ transplant box puzzle solution"
         }
       ]
     },
@@ -917,31 +1049,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/huge-30gb-update-prepares-ghost-of-yotei-for-dlc-some-features-already-live-now",
           "titre": "Huge 30GB Update Prepares Ghost of Yotei for DLC, Some Features Already Live Now"
-        }
-      ]
-    },
-    {
-      "id": "we-intend-to-earn-back-your-trust-bungie-announces-plans-to",
-      "titre": "‘We intend to earn back your trust’: Bungie announces plans to bring back Destiny 2 and improve Marathon",
-      "url": "https://www.videogameschronicle.com/news/we-intend-to-earn-back-your-trust-bungie-announces-plans-to-bring-back-destiny-2-and-improve-marathon/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 13.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/we-intend-to-earn-back-your-trust-bungie-announces-plans-to-bring-back-destiny-2-and-improve-marathon/",
-          "titre": "‘We intend to earn back your trust’: Bungie announces plans to bring back Destiny 2 and improve Marathon"
         }
       ]
     },
@@ -953,7 +1067,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -971,7 +1085,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -989,7 +1103,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +1121,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,7 +1139,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1036,133 +1150,25 @@ const VEILLE = {
       ]
     },
     {
-      "id": "grand-theft-auto-6-sleuths-are-torn-on-whether-a-famous-flor",
-      "titre": "Grand Theft Auto 6 sleuths are torn on whether a famous Florida locale is in the game or not",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-key-west-map",
+      "id": "feature-i-was-thinking-about-the-possibility-of-atelier-maom",
+      "titre": "Feature: 'I Was Thinking About the Possibility of Atelier Maomao': How The Apothecary Diaries Became a PS5 Game",
+      "url": "https://www.pushsquare.com/features/i-was-thinking-about-the-possibility-of-atelier-maomao-how-the-apothecary-diaries-became-a-ps5-game",
       "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 16.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/grand-theft-auto-6-key-west-map",
-          "titre": "Grand Theft Auto 6 sleuths are torn on whether a famous Florida locale is in the game or not"
-        }
-      ]
-    },
-    {
-      "id": "microsoft-file-patent-for-a-machine-learning-system-that-wou",
-      "titre": "Microsoft file patent for a machine learning system that would \"train\" itself on your playtime to work out when you'll be least annoyed by in-game ads",
-      "url": "https://www.rockpapershotgun.com/microsoft-file-patent-for-a-machine-learning-system-that-would-train-itself-on-your-playtime-to-work-out-when-youll-be-least-annoyed-by-in-game-ads",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 16.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/microsoft-file-patent-for-a-machine-learning-system-that-would-train-itself-on-your-playtime-to-work-out-when-youll-be-least-annoyed-by-in-game-ads",
-          "titre": "Microsoft file patent for a machine learning system that would \"train\" itself on your playtime to work out when you'll be least annoyed by in-game ads"
-        }
-      ]
-    },
-    {
-      "id": "pikachu-spent-67-days-in-space-as-part-of-pok-mon-x-esa-coll",
-      "titre": "Pikachu Spent 67 Days In Space As Part Of Pokémon X ESA Collaboration",
-      "url": "https://www.nintendolife.com/news/2026/09/pikachu-spent-67-days-in-space-as-part-of-pokemon-x-esa-collaboration",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 16.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/pikachu-spent-67-days-in-space-as-part-of-pokemon-x-esa-collaboration",
-          "titre": "Pikachu Spent 67 Days In Space As Part Of Pokémon X ESA Collaboration"
-        }
-      ]
-    },
-    {
-      "id": "sony-officially-announces-a-new-limited-edition-ps5-dualsens",
-      "titre": "Sony officially announces a new limited edition PS5 DualSense controller based on K-pop star Lisa",
-      "url": "https://www.videogameschronicle.com/news/sony-officially-announces-a-new-limited-edition-ps5-dualsense-controller-based-on-k-pop-star-lisa/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sony-officially-announces-a-new-limited-edition-ps5-dualsense-controller-based-on-k-pop-star-lisa/",
-          "titre": "Sony officially announces a new limited edition PS5 DualSense controller based on K-pop star Lisa"
-        }
-      ]
-    },
-    {
-      "id": "virtue-and-a-sledgehammer-will-begin-battering-down-the-wall",
-      "titre": "Virtue and a Sledgehammer will begin battering down the walls and android ghosts of a hometown filled with emotional memories this October",
-      "url": "https://www.rockpapershotgun.com/virtue-and-a-sledgehammer-will-begin-battering-down-the-walls-and-android-ghosts-of-a-hometown-filled-with-emotional-memories-this-october",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 17.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/virtue-and-a-sledgehammer-will-begin-battering-down-the-walls-and-android-ghosts-of-a-hometown-filled-with-emotional-memories-this-october",
-          "titre": "Virtue and a Sledgehammer will begin battering down the walls and android ghosts of a hometown filled with emotional memories this October"
-        }
-      ]
-    },
-    {
-      "id": "fly-between-radio-outposts-inside-a-murky-megastructure-in-t",
-      "titre": "Fly between radio outposts inside a murky megastructure in The Hollowing, a follow-up to the brilliant spelunking sim Lorn's Lure",
-      "url": "https://www.rockpapershotgun.com/fly-between-radio-outposts-inside-a-murky-megastructure-in-the-hollowing-a-follow-up-to-the-brilliant-spelunking-sim-lorns-lure",
-      "sources": [
-        "Rock Paper Shotgun"
+        "Push Square"
       ],
       "reprises": 1,
       "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/fly-between-radio-outposts-inside-a-murky-megastructure-in-the-hollowing-a-follow-up-to-the-brilliant-spelunking-sim-lorns-lure",
-          "titre": "Fly between radio outposts inside a murky megastructure in The Hollowing, a follow-up to the brilliant spelunking sim Lorn's Lure"
-        }
-      ]
-    },
-    {
-      "id": "mystique-s-lesbian-relationship-in-marvel-s-wolverine-is-see",
-      "titre": "Mystique's lesbian relationship in Marvel's Wolverine is seemingly censored in certain parts of the world",
-      "url": "https://www.eurogamer.net/marvels-wolverine-mystique-lgbtq-censored-middle-east",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 18.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marvels-wolverine-mystique-lgbtq-censored-middle-east",
-          "titre": "Mystique's lesbian relationship in Marvel's Wolverine is seemingly censored in certain parts of the world"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/i-was-thinking-about-the-possibility-of-atelier-maomao-how-the-apothecary-diaries-became-a-ps5-game",
+          "titre": "Feature: 'I Was Thinking About the Possibility of Atelier Maomao': How The Apothecary Diaries Became a PS5 Game"
         }
       ]
     }
   ],
   "alertes": [
-    "Xbox reportedly set to announce second round of layoffs this week"
+    "Xbox reportedly set to lay off hundreds more staff and \"consolidate\" several game studios in second round of major cuts this year"
   ]
 };
