@@ -1,20 +1,26 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "22/09/2026 à 06h25",
+  "collecte": "22/09/2026 à 08h21",
   "seuil": 14,
   "sujets": [
     {
-      "id": "xbox-to-reportedly-cut-hundreds-of-jobs-and-consolidate-seve",
-      "titre": "Xbox To Reportedly Cut \"Hundreds Of Jobs\" And Consolidate Several Studios In Next Wave Of Layoffs",
-      "url": "https://www.nintendolife.com/news/2026/09/xbox-to-reportedly-cut-hundreds-of-jobs-and-consolidate-several-studios-in-next-wave-of-layoffs",
+      "id": "xbox-reportedly-set-to-announce-second-round-of-layoffs-this",
+      "titre": "Xbox reportedly set to announce second round of layoffs this week",
+      "url": "https://www.gamesindustry.biz/xbox-reportedly-set-to-announce-second-round-of-layoffs-this-week",
       "sources": [
+        "GamesIndustry.biz",
         "Nintendo Life",
         "VGC"
       ],
-      "reprises": 2,
-      "heures": 0.7,
-      "chaleur": 16,
+      "reprises": 3,
+      "heures": 0.4,
+      "chaleur": 19,
       "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/xbox-reportedly-set-to-announce-second-round-of-layoffs-this-week",
+          "titre": "Xbox reportedly set to announce second round of layoffs this week"
+        },
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/xbox-to-reportedly-cut-hundreds-of-jobs-and-consolidate-several-studios-in-next-wave-of-layoffs",
@@ -37,7 +43,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 1.7,
+      "heures": 3.6,
       "chaleur": 12,
       "liens": [
         {
@@ -66,7 +72,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 5.5,
+      "heures": 7.4,
       "chaleur": 10,
       "liens": [
         {
@@ -91,7 +97,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 5.6,
+      "heures": 7.5,
       "chaleur": 10,
       "liens": [
         {
@@ -112,21 +118,21 @@ const VEILLE = {
       ]
     },
     {
-      "id": "how-about-that-starcraft-trailer-eh",
-      "titre": "How about that StarCraft trailer, eh",
-      "url": "https://www.pcgamer.com/games/how-about-that-starcraft-trailer-eh/",
+      "id": "we-re-thinking-about-x-men-videogames-wrong",
+      "titre": "We're thinking about X-Men videogames wrong",
+      "url": "https://www.pcgamer.com/games/were-thinking-about-x-men-videogames-wrong/",
       "sources": [
         "PC Gamer",
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 0.4,
+      "heures": 1.4,
       "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/how-about-that-starcraft-trailer-eh/",
-          "titre": "How about that StarCraft trailer, eh"
+          "url": "https://www.pcgamer.com/games/were-thinking-about-x-men-videogames-wrong/",
+          "titre": "We're thinking about X-Men videogames wrong"
         },
         {
           "source": "Push Square",
@@ -144,7 +150,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 15.8,
+      "heures": 17.7,
       "chaleur": 9,
       "liens": [
         {
@@ -160,6 +166,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "we-were-almost-dead-neogeo-boss-reveals-forced-redesign-beh",
+      "titre": "‘We were almost dead’: NeoGeo boss reveals forced redesign behind AES+ delay",
+      "url": "https://www.videogameschronicle.com/news/we-were-almost-dead-neogeo-boss-reveals-forced-redesign-behind-aes-delay/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/we-were-almost-dead-neogeo-boss-reveals-forced-redesign-behind-aes-delay/",
+          "titre": "‘We were almost dead’: NeoGeo boss reveals forced redesign behind AES+ delay"
+        }
+      ]
+    },
+    {
       "id": "i-made-a-to-play-shelf-for-myself-on-steam",
       "titre": "I made a 'to play' shelf for myself on Steam",
       "url": "https://www.pcgamer.com/games/i-made-a-to-play-shelf-for-myself-on-steam/",
@@ -167,31 +191,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/i-made-a-to-play-shelf-for-myself-on-steam/",
           "titre": "I made a 'to play' shelf for myself on Steam"
-        }
-      ]
-    },
-    {
-      "id": "runescape-dragonwilds-rolls-out-its-first-update-for-switch",
-      "titre": "RuneScape: Dragonwilds Rolls Out Its First Update For Switch 2 Adventurers",
-      "url": "https://www.nintendolife.com/news/2026/09/runescape-dragonwilds-rolls-out-its-first-update-for-switch-2-adventurers",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/runescape-dragonwilds-rolls-out-its-first-update-for-switch-2-adventurers",
-          "titre": "RuneScape: Dragonwilds Rolls Out Its First Update For Switch 2 Adventurers"
         }
       ]
     },
@@ -204,7 +210,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 9.2,
+      "heures": 11.1,
       "chaleur": 7,
       "liens": [
         {
@@ -228,7 +234,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 9.9,
+      "heures": 11.8,
       "chaleur": 7,
       "liens": [
         {
@@ -244,24 +250,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "weeks-before-gta-6-rockstar-games-imposes-new-guidelines-tha",
-      "titre": "Weeks before GTA 6, Rockstar Games imposes new guidelines that restrict mods for missions, maps, updated storylines, and third-party IP",
-      "url": "https://www.eurogamer.net/gta-6-rockstar-games-mod-guidelines-restrictions",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-rockstar-games-mod-guidelines-restrictions",
-          "titre": "Weeks before GTA 6, Rockstar Games imposes new guidelines that restrict mods for missions, maps, updated storylines, and third-party IP"
-        }
-      ]
-    },
-    {
       "id": "with-the-death-of-boxed-playstation-games-incoming-sony-reco",
       "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026",
       "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
@@ -269,7 +257,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.4,
       "chaleur": 7,
       "liens": [
         {
@@ -287,7 +275,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.7,
+      "heures": 22.6,
       "chaleur": 7,
       "liens": [
         {
@@ -496,6 +484,114 @@ const VEILLE = {
       ]
     },
     {
+      "id": "i-still-can-t-believe-we-call-them-mobas",
+      "titre": "I still can't believe we call them 'MOBAs'",
+      "url": "https://www.pcgamer.com/games/i-still-cant-believe-we-call-them-mobas/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/i-still-cant-believe-we-call-them-mobas/",
+          "titre": "I still can't believe we call them 'MOBAs'"
+        }
+      ]
+    },
+    {
+      "id": "desktops-are-meant-to-be-messy",
+      "titre": "Desktops are meant to be messy",
+      "url": "https://www.pcgamer.com/games/desktops-are-meant-to-be-messy/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/desktops-are-meant-to-be-messy/",
+          "titre": "Desktops are meant to be messy"
+        }
+      ]
+    },
+    {
+      "id": "where-i-m-at",
+      "titre": "Where I'm at",
+      "url": "https://www.pcgamer.com/games/where-im-at/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/where-im-at/",
+          "titre": "Where I'm at"
+        }
+      ]
+    },
+    {
+      "id": "best-cozy-games-list-update-september-2026",
+      "titre": "Best cozy games list update september 2026",
+      "url": "https://www.pcgamer.com/games/best-cozy-games-list-update-september-2026/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/best-cozy-games-list-update-september-2026/",
+          "titre": "Best cozy games list update september 2026"
+        }
+      ]
+    },
+    {
+      "id": "pc-gaming-show-toyko-direct-2026-picks",
+      "titre": "PC Gaming Show Toyko Direct 2026 picks",
+      "url": "https://www.pcgamer.com/games/pc-gaming-show-toyko-direct-2026-picks/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/pc-gaming-show-toyko-direct-2026-picks/",
+          "titre": "PC Gaming Show Toyko Direct 2026 picks"
+        }
+      ]
+    },
+    {
+      "id": "gottem",
+      "titre": "Gottem",
+      "url": "https://www.pcgamer.com/games/gottem/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/gottem/",
+          "titre": "Gottem"
+        }
+      ]
+    },
+    {
       "id": "i-can-t-be-the-only-one",
       "titre": "I can't be the only one",
       "url": "https://www.pcgamer.com/games/i-cant-be-the-only-one/",
@@ -503,13 +599,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/i-cant-be-the-only-one/",
           "titre": "I can't be the only one"
+        }
+      ]
+    },
+    {
+      "id": "how-about-that-starcraft-trailer-eh",
+      "titre": "How about that StarCraft trailer, eh",
+      "url": "https://www.pcgamer.com/games/how-about-that-starcraft-trailer-eh/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/how-about-that-starcraft-trailer-eh/",
+          "titre": "How about that StarCraft trailer, eh"
         }
       ]
     },
@@ -521,7 +635,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -532,38 +646,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nighthawks-review",
-      "titre": "Nighthawks review",
-      "url": "https://www.pcgamer.com/games/rpg/nighthawks-review-a-novel-vampire-rpg-thats-also-a-vampire-novels-worth-of-writing/",
+      "id": "runescape-dragonwilds-rolls-out-its-first-update-for-switch",
+      "titre": "RuneScape: Dragonwilds Rolls Out Its First Update For Switch 2 Adventurers",
+      "url": "https://www.nintendolife.com/news/2026/09/runescape-dragonwilds-rolls-out-its-first-update-for-switch-2-adventurers",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 5.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/nighthawks-review-a-novel-vampire-rpg-thats-also-a-vampire-novels-worth-of-writing/",
-          "titre": "Nighthawks review"
-        }
-      ]
-    },
-    {
-      "id": "should-action-games-let-us-skip-the-action",
-      "titre": "Should action games let us skip the action?",
-      "url": "https://www.pcgamer.com/games/should-action-games-let-us-skip-the-action/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/should-action-games-let-us-skip-the-action/",
-          "titre": "Should action games let us skip the action?"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/runescape-dragonwilds-rolls-out-its-first-update-for-switch-2-adventurers",
+          "titre": "RuneScape: Dragonwilds Rolls Out Its First Update For Switch 2 Adventurers"
         }
       ]
     },
@@ -575,13 +671,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/pokemon-ruby-and-sapphire-hd-footage-reignites-rumours-about-switch-ports",
           "titre": "Pokémon Ruby & Sapphire HD Footage Reignites Rumours About Switch Ports"
+        }
+      ]
+    },
+    {
+      "id": "weeks-before-gta-6-rockstar-games-imposes-new-guidelines-tha",
+      "titre": "Weeks before GTA 6, Rockstar Games imposes new guidelines that restrict mods for missions, maps, updated storylines, and third-party IP",
+      "url": "https://www.eurogamer.net/gta-6-rockstar-games-mod-guidelines-restrictions",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 13.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-rockstar-games-mod-guidelines-restrictions",
+          "titre": "Weeks before GTA 6, Rockstar Games imposes new guidelines that restrict mods for missions, maps, updated storylines, and third-party IP"
         }
       ]
     },
@@ -594,7 +708,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 6,
       "liens": [
         {
@@ -618,7 +732,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 13.0,
+      "heures": 14.9,
       "chaleur": 6,
       "liens": [
         {
@@ -634,24 +748,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-5-has-true-air-travel-now-thanks-to-the-mod-i-just-insta",
-      "titre": "GTA 5 has true air travel now thanks to the mod I just installed, but they won't let me give me my pals piggybacks onto the plane",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5-has-true-air-travel-now-thanks-to-the-mod-i-just-installed-but-they-wont-let-me-give-me-my-pals-piggybacks-onto-the-plane/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5-has-true-air-travel-now-thanks-to-the-mod-i-just-installed-but-they-wont-let-me-give-me-my-pals-piggybacks-onto-the-plane/",
-          "titre": "GTA 5 has true air travel now thanks to the mod I just installed, but they won't let me give me my pals piggybacks onto the plane"
-        }
-      ]
-    },
-    {
       "id": "french-publisher-dear-villagers-confirms-layoffs",
       "titre": "French publisher Dear Villagers confirms layoffs",
       "url": "https://www.gamedeveloper.com/business/french-publisher-dear-villagers-confirms-layoffs",
@@ -659,7 +755,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.3,
       "chaleur": 6,
       "liens": [
         {
@@ -677,7 +773,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.9,
       "chaleur": 6,
       "liens": [
         {
@@ -695,7 +791,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 21.6,
       "chaleur": 6,
       "liens": [
         {
@@ -713,7 +809,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 16.0,
       "chaleur": 5,
       "liens": [
         {
@@ -731,7 +827,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.5,
       "chaleur": 5,
       "liens": [
         {
@@ -749,13 +845,49 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 20.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/microsoft-patent-ads-in-gameplay",
           "titre": "Microsoft patents idea for in-game PC and Xbox adverts shown during downtime \"trigger events\""
+        }
+      ]
+    },
+    {
+      "id": "nighthawks-review",
+      "titre": "Nighthawks review",
+      "url": "https://www.pcgamer.com/games/rpg/nighthawks-review-a-novel-vampire-rpg-thats-also-a-vampire-novels-worth-of-writing/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/nighthawks-review-a-novel-vampire-rpg-thats-also-a-vampire-novels-worth-of-writing/",
+          "titre": "Nighthawks review"
+        }
+      ]
+    },
+    {
+      "id": "should-action-games-let-us-skip-the-action",
+      "titre": "Should action games let us skip the action?",
+      "url": "https://www.pcgamer.com/games/should-action-games-let-us-skip-the-action/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/should-action-games-let-us-skip-the-action/",
+          "titre": "Should action games let us skip the action?"
         }
       ]
     },
@@ -767,7 +899,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -785,67 +917,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/huge-30gb-update-prepares-ghost-of-yotei-for-dlc-some-features-already-live-now",
           "titre": "Huge 30GB Update Prepares Ghost of Yotei for DLC, Some Features Already Live Now"
-        }
-      ]
-    },
-    {
-      "id": "all-roads-lead-back-to-arma",
-      "titre": "'All roads lead back to Arma'",
-      "url": "https://www.pcgamer.com/games/fps/all-roads-lead-back-to-arma/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/all-roads-lead-back-to-arma/",
-          "titre": "'All roads lead back to Arma'"
-        }
-      ]
-    },
-    {
-      "id": "rockstar-asks-modders-to-please-take-its-games-very-seriousl",
-      "titre": "Rockstar asks modders to please take its games very seriously",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-asks-modders-to-please-take-its-games-very-seriously/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-asks-modders-to-please-take-its-games-very-seriously/",
-          "titre": "Rockstar asks modders to please take its games very seriously"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-players-competing-over-enemies-is",
-      "titre": "World of Warcraft: Forever players competing over enemies is 'extremely important' to the experience, Blizzard says: 'This is one of those things that we simply must hold the line on'",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-competing-over-enemies-is-extremely-important-to-the-experience-blizzard-says-this-is-one-of-those-things-that-we-simply-must-hold-the-line-on/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-competing-over-enemies-is-extremely-important-to-the-experience-blizzard-says-this-is-one-of-those-things-that-we-simply-must-hold-the-line-on/",
-          "titre": "World of Warcraft: Forever players competing over enemies is 'extremely important' to the experience, Blizzard says: 'This is one of those things that we simply must hold the line on'"
         }
       ]
     },
@@ -857,8 +935,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -875,8 +953,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -893,49 +971,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/sony-seemingly-incentivising-digital-ps5-purchases-with-cashback",
           "titre": "Sony Seemingly Incentivising Digital PS5 Purchases with Cashback"
-        }
-      ]
-    },
-    {
-      "id": "wait-how-did-lego-beat-minecraft-to-making-a-city-builder",
-      "titre": "Wait, how did Lego beat Minecraft to making a city builder?",
-      "url": "https://www.pcgamer.com/games/city-builder/wait-how-did-lego-beat-minecraft-to-making-a-city-builder/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/city-builder/wait-how-did-lego-beat-minecraft-to-making-a-city-builder/",
-          "titre": "Wait, how did Lego beat Minecraft to making a city builder?"
-        }
-      ]
-    },
-    {
-      "id": "bungie-un-cancels-destiny-vaulted-content-is-coming-back-as",
-      "titre": "Bungie un-cancels Destiny: Vaulted content is coming back as new leadership promises 'Destiny is foundational to our future'",
-      "url": "https://www.pcgamer.com/games/bungie-un-cancels-destiny-vaulted-content-is-coming-back-as-new-leadership-promises-destiny-is-foundational-to-our-future/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/bungie-un-cancels-destiny-vaulted-content-is-coming-back-as-new-leadership-promises-destiny-is-foundational-to-our-future/",
-          "titre": "Bungie un-cancels Destiny: Vaulted content is coming back as new leadership promises 'Destiny is foundational to our future'"
         }
       ]
     },
@@ -947,7 +989,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
@@ -965,7 +1007,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.1,
       "chaleur": 3,
       "liens": [
         {
@@ -983,31 +1025,13 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/kojima-productions-survival-story-may-sound-strikingly-familiar-to-struggling-devs",
           "titre": "Kojima Productions' survival story may sound strikingly familiar to struggling devs"
-        }
-      ]
-    },
-    {
-      "id": "oh-good-the-pervert-s-back",
-      "titre": "Oh good, the pervert's back",
-      "url": "https://www.pcgamer.com/games/action/oh-good-the-perverts-back/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/oh-good-the-perverts-back/",
-          "titre": "Oh good, the pervert's back"
         }
       ]
     },
@@ -1019,7 +1043,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1037,7 +1061,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.7,
+      "heures": 16.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1055,7 +1079,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1073,7 +1097,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1091,7 +1115,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1109,7 +1133,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1127,7 +1151,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.7,
+      "heures": 18.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1136,27 +1160,9 @@ const VEILLE = {
           "titre": "Mystique's lesbian relationship in Marvel's Wolverine is seemingly censored in certain parts of the world"
         }
       ]
-    },
-    {
-      "id": "fire-emblem-fortune-s-weave-renown-how-to-raise-renown-fast",
-      "titre": "Fire Emblem Fortune’s Weave Renown: How to raise Renown fast",
-      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-renown-how-to-raise-renown-fast/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 16.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-renown-how-to-raise-renown-fast/",
-          "titre": "Fire Emblem Fortune’s Weave Renown: How to raise Renown fast"
-        }
-      ]
     }
   ],
   "alertes": [
-    "Xbox To Reportedly Cut \"Hundreds Of Jobs\" And Consolidate Several Studios In Next Wave Of Layoffs"
+    "Xbox reportedly set to announce second round of layoffs this week"
   ]
 };
