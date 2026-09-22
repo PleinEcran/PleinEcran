@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "22/09/2026 à 18h24",
+  "collecte": "22/09/2026 à 20h18",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 4,
-      "heures": 4.1,
+      "heures": 6.0,
       "chaleur": 20,
       "liens": [
         {
@@ -40,6 +40,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "following-a-strong-start-rebel-wolves-line-up-the-blood-of-d",
+      "titre": "Following a strong start, Rebel Wolves line up The Blood of Dawnwalker's first big patch for next month, adding in a new, easier difficulty mode and more",
+      "url": "https://www.rockpapershotgun.com/following-a-strong-start-rebel-wolves-line-up-the-blood-of-dawnwalkers-first-big-patch-for-next-month-adding-in-a-new-easier-difficulty-mode-and-more",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 3.8,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/following-a-strong-start-rebel-wolves-line-up-the-blood-of-dawnwalkers-first-big-patch-for-next-month-adding-in-a-new-easier-difficulty-mode-and-more",
+          "titre": "Following a strong start, Rebel Wolves line up The Blood of Dawnwalker's first big patch for next month, adding in a new, easier difficulty mode and more"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/dawnwalkers-first-big-ps5-patch-adds-an-even-easier-difficulty-mode-and-improves-combat",
+          "titre": "Dawnwalker's First Big PS5 Patch Adds an Even Easier Difficulty Mode and Improves Combat"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/blood-of-dawnwalker-difficulty-combat-patch-update",
+          "titre": "The Blood of Dawnwalker getting a new difficulty option, combat changes and more in game's first \"big\" patch scheduled for early October"
+        }
+      ]
+    },
+    {
       "id": "xbox-lays-off-268-more-employees-merges-obsidian-into-bethes",
       "titre": "Xbox lays off 268 more employees, merges Obsidian into Bethesda, and puts Activision in charge of Halo",
       "url": "https://www.pcgamer.com/gaming-industry/xbox-lays-off-268-more-employees-merges-obsidian-into-bethesda-and-puts-activision-in-charge-of-halo/",
@@ -49,8 +79,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 3.3,
-      "chaleur": 14,
+      "heures": 5.2,
+      "chaleur": 12,
       "liens": [
         {
           "source": "PC Gamer",
@@ -77,67 +107,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 14,
+      "heures": 5.6,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/xbox-layoffs-activision-rare-halo-ninja-theory",
           "titre": "Xbox confirms 268 more layoffs, further studio closures, and Obsidian's shift to Bethesda as major restructuring continues"
-        }
-      ]
-    },
-    {
-      "id": "following-a-strong-start-rebel-wolves-line-up-the-blood-of-d",
-      "titre": "Following a strong start, Rebel Wolves line up The Blood of Dawnwalker's first big patch for next month, adding in a new, easier difficulty mode and more",
-      "url": "https://www.rockpapershotgun.com/following-a-strong-start-rebel-wolves-line-up-the-blood-of-dawnwalkers-first-big-patch-for-next-month-adding-in-a-new-easier-difficulty-mode-and-more",
-      "sources": [
-        "Eurogamer",
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 1.9,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/following-a-strong-start-rebel-wolves-line-up-the-blood-of-dawnwalkers-first-big-patch-for-next-month-adding-in-a-new-easier-difficulty-mode-and-more",
-          "titre": "Following a strong start, Rebel Wolves line up The Blood of Dawnwalker's first big patch for next month, adding in a new, easier difficulty mode and more"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/dawnwalkers-first-big-ps5-patch-adds-an-even-easier-difficulty-mode-and-improves-combat",
-          "titre": "Dawnwalker's First Big PS5 Patch Adds an Even Easier Difficulty Mode and Improves Combat"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blood-of-dawnwalker-difficulty-combat-patch-update",
-          "titre": "The Blood of Dawnwalker getting a new difficulty option, combat changes and more in game's first \"big\" patch scheduled for early October"
-        }
-      ]
-    },
-    {
-      "id": "i-m-still-blown-away-by-the-amount-of-talent-hellblade-devs",
-      "titre": "\"I'm still blown away by the amount of talent\": Hellblade devs Ninja Theory face closure after Microsoft fail to reach a deal with buyers",
-      "url": "https://www.rockpapershotgun.com/im-still-blown-away-by-the-amount-of-talent-hellblade-devs-ninja-theory-face-closure-after-microsoft-fail-to-reach-a-deal-with-buyers",
-      "sources": [
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 2.1,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/im-still-blown-away-by-the-amount-of-talent-hellblade-devs-ninja-theory-face-closure-after-microsoft-fail-to-reach-a-deal-with-buyers",
-          "titre": "\"I'm still blown away by the amount of talent\": Hellblade devs Ninja Theory face closure after Microsoft fail to reach a deal with buyers"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/microsoft-closing-hellblade-dev-ninja-theory-after-failed-buyout-talks",
-          "titre": "Microsoft Closing Hellblade Dev Ninja Theory After Failed Buyout Talks"
         }
       ]
     },
@@ -150,7 +126,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 4.2,
+      "heures": 6.1,
       "chaleur": 12,
       "liens": [
         {
@@ -173,31 +149,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.8,
       "chaleur": 11,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/state-of-decay-dev-survives-xbox-layoffs-goes-independent-as-third-game-targets-ps5",
           "titre": "State of Decay Dev Survives Xbox Layoffs, Goes Independent as Third Game Targets PS5"
-        }
-      ]
-    },
-    {
-      "id": "good-luck-today-halo-friends-after-years-of-rivalry-call-of",
-      "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs",
-      "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
-          "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs"
         }
       ]
     },
@@ -210,7 +168,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 8.8,
+      "heures": 10.7,
       "chaleur": 11,
       "liens": [
         {
@@ -226,6 +184,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "i-m-still-blown-away-by-the-amount-of-talent-hellblade-devs",
+      "titre": "\"I'm still blown away by the amount of talent\": Hellblade devs Ninja Theory face closure after Microsoft fail to reach a deal with buyers",
+      "url": "https://www.rockpapershotgun.com/im-still-blown-away-by-the-amount-of-talent-hellblade-devs-ninja-theory-face-closure-after-microsoft-fail-to-reach-a-deal-with-buyers",
+      "sources": [
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 4.0,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/im-still-blown-away-by-the-amount-of-talent-hellblade-devs-ninja-theory-face-closure-after-microsoft-fail-to-reach-a-deal-with-buyers",
+          "titre": "\"I'm still blown away by the amount of talent\": Hellblade devs Ninja Theory face closure after Microsoft fail to reach a deal with buyers"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/microsoft-closing-hellblade-dev-ninja-theory-after-failed-buyout-talks",
+          "titre": "Microsoft Closing Hellblade Dev Ninja Theory After Failed Buyout Talks"
+        }
+      ]
+    },
+    {
       "id": "reaction-did-fans-just-bring-destiny-back-from-the-dead",
       "titre": "Reaction: Did Fans Just Bring Destiny Back from the Dead?",
       "url": "https://www.pushsquare.com/features/reaction-did-fans-just-bring-destiny-back-from-the-dead",
@@ -235,7 +217,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 6.4,
+      "heures": 8.3,
       "chaleur": 10,
       "liens": [
         {
@@ -265,7 +247,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 8.7,
+      "heures": 10.6,
       "chaleur": 10,
       "liens": [
         {
@@ -294,7 +276,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 9,
       "liens": [
         {
@@ -310,38 +292,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-s-zelda-quiz-error-apology-has-led-to-yet-another-e",
-      "titre": "Nintendo's Zelda Quiz Error Apology Has Led To... Yet Another Error",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendos-zelda-quiz-error-apology-has-led-to-yet-another-error",
+      "id": "good-luck-today-halo-friends-after-years-of-rivalry-call-of",
+      "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs",
+      "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
       "sources": [
-        "Nintendo Life"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 2.9,
+      "heures": 5.0,
       "chaleur": 9,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendos-zelda-quiz-error-apology-has-led-to-yet-another-error",
-          "titre": "Nintendo's Zelda Quiz Error Apology Has Led To... Yet Another Error"
-        }
-      ]
-    },
-    {
-      "id": "rainbow-six-siege-boss-says-players-who-stick-around-during",
-      "titre": "Rainbow Six Siege boss says players who stick around during GTA 6’s launch will be served ‘like kings and queens’",
-      "url": "https://www.videogameschronicle.com/news/rainbow-six-siege-boss-says-players-who-stick-around-during-gta-6s-launch-will-be-served-like-kings-and-queens/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/rainbow-six-siege-boss-says-players-who-stick-around-during-gta-6s-launch-will-be-served-like-kings-and-queens/",
-          "titre": "Rainbow Six Siege boss says players who stick around during GTA 6’s launch will be served ‘like kings and queens’"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
+          "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs"
         }
       ]
     },
@@ -353,7 +317,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.1,
       "chaleur": 9,
       "liens": [
         {
@@ -371,7 +335,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.3,
       "chaleur": 9,
       "liens": [
         {
@@ -389,7 +353,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.1,
       "chaleur": 9,
       "liens": [
         {
@@ -408,7 +372,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 18.5,
+      "heures": 20.4,
       "chaleur": 9,
       "liens": [
         {
@@ -431,7 +395,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 8,
       "liens": [
         {
@@ -449,7 +413,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 8,
       "liens": [
         {
@@ -467,49 +431,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/lego-batman-legacy-of-the-dark-knight",
           "titre": "Review: LEGO Batman: Legacy Of The Dark Knight (Switch 2) - Open-World Gotham Still Thrills In A Solid Port"
-        }
-      ]
-    },
-    {
-      "id": "today-s-changes-might-get-xbox-a-new-halo-sooner-but-history",
-      "titre": "Today's changes might get Xbox a new Halo sooner, but history shows production line development makes for boring games",
-      "url": "https://www.rockpapershotgun.com/xboxs-consolidation-plans-might-mean-you-get-a-new-halo-sooner-but-history-shows-production-line-development-makes-for-boring-games",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/xboxs-consolidation-plans-might-mean-you-get-a-new-halo-sooner-but-history-shows-production-line-development-makes-for-boring-games",
-          "titre": "Today's changes might get Xbox a new Halo sooner, but history shows production line development makes for boring games"
-        }
-      ]
-    },
-    {
-      "id": "banjo-kazooie-developer-rare-is-now-reporting-directly-to-ac",
-      "titre": "Banjo-Kazooie Developer Rare Is Now Reporting Directly To Activision",
-      "url": "https://www.nintendolife.com/news/2026/09/banjo-kazooie-developer-rare-is-now-reporting-directly-to-activision",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/banjo-kazooie-developer-rare-is-now-reporting-directly-to-activision",
-          "titre": "Banjo-Kazooie Developer Rare Is Now Reporting Directly To Activision"
         }
       ]
     },
@@ -521,13 +449,49 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.4,
       "chaleur": 8,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/io-interactive-had-no-choice-but-to-delay-switch-2-launch-of-007-first-light-for-a-third-time",
           "titre": "IO Interactive \"had no choice\" but to delay Switch 2 launch of 007 First Light for a third time"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-s-zelda-quiz-error-apology-has-led-to-yet-another-e",
+      "titre": "Nintendo's Zelda Quiz Error Apology Has Led To... Yet Another Error",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendos-zelda-quiz-error-apology-has-led-to-yet-another-error",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nintendos-zelda-quiz-error-apology-has-led-to-yet-another-error",
+          "titre": "Nintendo's Zelda Quiz Error Apology Has Led To... Yet Another Error"
+        }
+      ]
+    },
+    {
+      "id": "rainbow-six-siege-boss-says-players-who-stick-around-during",
+      "titre": "Rainbow Six Siege boss says players who stick around during GTA 6’s launch will be served ‘like kings and queens’",
+      "url": "https://www.videogameschronicle.com/news/rainbow-six-siege-boss-says-players-who-stick-around-during-gta-6s-launch-will-be-served-like-kings-and-queens/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/rainbow-six-siege-boss-says-players-who-stick-around-during-gta-6s-launch-will-be-served-like-kings-and-queens/",
+          "titre": "Rainbow Six Siege boss says players who stick around during GTA 6’s launch will be served ‘like kings and queens’"
         }
       ]
     },
@@ -539,7 +503,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.8,
       "chaleur": 7,
       "liens": [
         {
@@ -557,7 +521,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.7,
       "chaleur": 7,
       "liens": [
         {
@@ -575,7 +539,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.1,
       "chaleur": 7,
       "liens": [
         {
@@ -712,6 +676,96 @@ const VEILLE = {
       ]
     },
     {
+      "id": "world-of-warcraft-forever-players-find-rule-breaking-new-ite",
+      "titre": "World of Warcraft: Forever players find rule-breaking new items that defy 22 years of experience with the classic MMO",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-find-rule-breaking-new-items-that-defy-22-years-of-experience-with-the-classic-mmo/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-find-rule-breaking-new-items-that-defy-22-years-of-experience-with-the-classic-mmo/",
+          "titre": "World of Warcraft: Forever players find rule-breaking new items that defy 22 years of experience with the classic MMO"
+        }
+      ]
+    },
+    {
+      "id": "silent-hill-townfall-the-patient-surgery-puzzle-solution",
+      "titre": "Silent Hill Townfall: The Patient surgery puzzle solution",
+      "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-the-patient-surgery-puzzle-solution/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-the-patient-surgery-puzzle-solution/",
+          "titre": "Silent Hill Townfall: The Patient surgery puzzle solution"
+        }
+      ]
+    },
+    {
+      "id": "the-mythology-of-gabe-newell-now-includes-mongolian-throat-s",
+      "titre": "The mythology of Gabe Newell now includes Mongolian throat singing",
+      "url": "https://www.pcgamer.com/gaming-industry/the-mythology-of-gabe-newell-now-includes-mongolian-throat-singing/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/the-mythology-of-gabe-newell-now-includes-mongolian-throat-singing/",
+          "titre": "The mythology of Gabe Newell now includes Mongolian throat singing"
+        }
+      ]
+    },
+    {
+      "id": "before-i-starting-making-church-candles-from-dead-bodies-vs",
+      "titre": "Before I starting making church candles from dead bodies, vs after",
+      "url": "https://www.pcgamer.com/games/survival-crafting/before-i-starting-making-church-candles-from-dead-bodies-vs-after/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/before-i-starting-making-church-candles-from-dead-bodies-vs-after/",
+          "titre": "Before I starting making church candles from dead bodies, vs after"
+        }
+      ]
+    },
+    {
+      "id": "packed-lair-out-today-is-a-tetris-adjacent-base-builder-abou",
+      "titre": "Packed Lair, out today, is a Tetris-adjacent base builder about cramming as much as you can into a tiny evil lair to aid your army in conquering the world",
+      "url": "https://www.rockpapershotgun.com/packed-lair-out-today-is-a-tetris-adjacent-base-builder-about-cramming-as-much-as-you-can-into-a-tiny-evil-lair-to-aid-your-army-in-conquering-the-world",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/packed-lair-out-today-is-a-tetris-adjacent-base-builder-about-cramming-as-much-as-you-can-into-a-tiny-evil-lair-to-aid-your-army-in-conquering-the-world",
+          "titre": "Packed Lair, out today, is a Tetris-adjacent base builder about cramming as much as you can into a tiny evil lair to aid your army in conquering the world"
+        }
+      ]
+    },
+    {
       "id": "ps-plus-discount-for-one-of-ps5-s-best-new-indie-games",
       "titre": "PS Plus Discount for One of PS5's Best New Indie Games",
       "url": "https://www.pushsquare.com/news/2026/09/ps-plus-discount-for-one-of-ps5s-best-new-indie-games",
@@ -719,31 +773,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/ps-plus-discount-for-one-of-ps5s-best-new-indie-games",
           "titre": "PS Plus Discount for One of PS5's Best New Indie Games"
-        }
-      ]
-    },
-    {
-      "id": "silent-hill-townfall-medical-clinic-scales-puzzle-solution",
-      "titre": "Silent Hill Townfall: Medical clinic scales puzzle solution",
-      "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-medical-clinic-scales-puzzle-solution/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 0.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-medical-clinic-scales-puzzle-solution/",
-          "titre": "Silent Hill Townfall: Medical clinic scales puzzle solution"
         }
       ]
     },
@@ -755,7 +791,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -773,7 +809,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -791,7 +827,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -802,236 +838,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "artist-who-hand-paints-some-of-gaming-s-best-fantasy-world-m",
-      "titre": "Artist who hand-paints some of gaming's best fantasy world maps brings them together in oversized and extremely lavish art book",
-      "url": "https://www.eurogamer.net/francesca-baerald-game-map-art-book",
+      "id": "today-s-changes-might-get-xbox-a-new-halo-sooner-but-history",
+      "titre": "Today's changes might get Xbox a new Halo sooner, but history shows production line development makes for boring games",
+      "url": "https://www.rockpapershotgun.com/xboxs-consolidation-plans-might-mean-you-get-a-new-halo-sooner-but-history-shows-production-line-development-makes-for-boring-games",
       "sources": [
-        "Eurogamer"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 2.1,
+      "heures": 5.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/francesca-baerald-game-map-art-book",
-          "titre": "Artist who hand-paints some of gaming's best fantasy world maps brings them together in oversized and extremely lavish art book"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/xboxs-consolidation-plans-might-mean-you-get-a-new-halo-sooner-but-history-shows-production-line-development-makes-for-boring-games",
+          "titre": "Today's changes might get Xbox a new Halo sooner, but history shows production line development makes for boring games"
         }
       ]
     },
     {
-      "id": "what-the-hell-are-you-guys-doing",
-      "titre": "What the hell are you guys doing?",
-      "url": "https://www.pcgamer.com/gaming-industry/what-the-hell-are-you-guys-doing/",
+      "id": "banjo-kazooie-developer-rare-is-now-reporting-directly-to-ac",
+      "titre": "Banjo-Kazooie Developer Rare Is Now Reporting Directly To Activision",
+      "url": "https://www.nintendolife.com/news/2026/09/banjo-kazooie-developer-rare-is-now-reporting-directly-to-activision",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.3,
+      "heures": 5.6,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/what-the-hell-are-you-guys-doing/",
-          "titre": "What the hell are you guys doing?"
-        }
-      ]
-    },
-    {
-      "id": "with-a-dozen-music-levels-rayman-legends-retold-doubles-down",
-      "titre": "With \"a dozen\" music levels, Rayman Legends Retold doubles down on the best bit of the original game, and having played it I couldn't be happier",
-      "url": "https://www.eurogamer.net/rayman-legends-iconic-music-levels-retold-interview",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/rayman-legends-iconic-music-levels-retold-interview",
-          "titre": "With \"a dozen\" music levels, Rayman Legends Retold doubles down on the best bit of the original game, and having played it I couldn't be happier"
-        }
-      ]
-    },
-    {
-      "id": "why-blizzard-vet-rob-pardo-is-going-all-in-on-arkheron-the-p",
-      "titre": "Why Blizzard vet Rob Pardo is going all-in on Arkheron, the PvP dungeon crawler that's like dark-fantasy Backrooms: 'It's very much been an odyssey'",
-      "url": "https://www.pcgamer.com/games/action/why-blizzard-vet-rob-pardo-is-going-all-in-on-arkheron-the-pvp-dungeon-crawler-thats-like-dark-fantasy-backrooms-its-very-much-been-an-odyssey/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/why-blizzard-vet-rob-pardo-is-going-all-in-on-arkheron-the-pvp-dungeon-crawler-thats-like-dark-fantasy-backrooms-its-very-much-been-an-odyssey/",
-          "titre": "Why Blizzard vet Rob Pardo is going all-in on Arkheron, the PvP dungeon crawler that's like dark-fantasy Backrooms: 'It's very much been an odyssey'"
-        }
-      ]
-    },
-    {
-      "id": "we-want-to-keep-it-very-simple-how-nex-playground-is-beatin",
-      "titre": "'We want to keep it very simple:' How Nex Playground is beating expectations during a hardware crisis",
-      "url": "https://www.gamedeveloper.com/business/-we-want-to-keep-it-very-simple-how-nex-playrground-is-beating-expectations-during-a-hardware-crisis",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/-we-want-to-keep-it-very-simple-how-nex-playrground-is-beating-expectations-during-a-hardware-crisis",
-          "titre": "'We want to keep it very simple:' How Nex Playground is beating expectations during a hardware crisis"
-        }
-      ]
-    },
-    {
-      "id": "fire-emblem-fortune-s-weave-complete-walkthrough-hub",
-      "titre": "Fire Emblem: Fortune’s Weave complete walkthrough hub",
-      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-complete-walkthrough-hub/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-complete-walkthrough-hub/",
-          "titre": "Fire Emblem: Fortune’s Weave complete walkthrough hub"
-        }
-      ]
-    },
-    {
-      "id": "tragedy-crusader-kings-3-s-pope-dlc-will-not-let-you-use-blo",
-      "titre": "Tragedy: Crusader Kings 3's pope DLC will not let you use blood boys to prolong your life, and yes I did ask the devs",
-      "url": "https://www.pcgamer.com/games/strategy/tragedy-crusader-kings-3s-pope-dlc-will-not-let-you-use-blood-boys-to-prolong-your-life-and-yes-i-did-ask-the-devs/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/tragedy-crusader-kings-3s-pope-dlc-will-not-let-you-use-blood-boys-to-prolong-your-life-and-yes-i-did-ask-the-devs/",
-          "titre": "Tragedy: Crusader Kings 3's pope DLC will not let you use blood boys to prolong your life, and yes I did ask the devs"
-        }
-      ]
-    },
-    {
-      "id": "final-fantasy-7-revelation-dev-considering-customisation-opt",
-      "titre": "Final Fantasy 7 Revelation Dev 'Considering' Customisation Options for Game's Huge Amount of 'On-Screen Guidance'",
-      "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-dev-considering-customisation-options-for-games-huge-amount-of-on-screen-guidance",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-dev-considering-customisation-options-for-games-huge-amount-of-on-screen-guidance",
-          "titre": "Final Fantasy 7 Revelation Dev 'Considering' Customisation Options for Game's Huge Amount of 'On-Screen Guidance'"
-        }
-      ]
-    },
-    {
-      "id": "zach-cregger-explains-which-two-movies-inspired-his-resident",
-      "titre": "Zach Cregger explains which two movies inspired his Resident Evil film: 'Like if those movies loved each other very much'",
-      "url": "https://www.pcgamer.com/games/resident-evil/zach-cregger-explains-which-two-movies-inspired-his-resident-evil-film-like-if-those-movies-loved-each-other-very-much/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/resident-evil/zach-cregger-explains-which-two-movies-inspired-his-resident-evil-film-like-if-those-movies-loved-each-other-very-much/",
-          "titre": "Zach Cregger explains which two movies inspired his Resident Evil film: 'Like if those movies loved each other very much'"
-        }
-      ]
-    },
-    {
-      "id": "amd-s-market-cap-just-blasted-through-the-1-trillion-barrier",
-      "titre": "AMD's market cap just blasted through the $1 trillion barrier",
-      "url": "https://www.pcgamer.com/hardware/processors/amds-market-cap-just-blasted-through-the-usd1-trillion-barrier/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/processors/amds-market-cap-just-blasted-through-the-usd1-trillion-barrier/",
-          "titre": "AMD's market cap just blasted through the $1 trillion barrier"
-        }
-      ]
-    },
-    {
-      "id": "escape-from-tarkov-dev-wants-to-bet-on-risky-games-with-its",
-      "titre": "Escape From Tarkov dev wants to bet on 'risky' games with its new publishing arm",
-      "url": "https://www.gamedeveloper.com/business/escape-from-tarkov-dev-wants-to-bet-on-risky-games-with-its-new-publishing-arm",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/escape-from-tarkov-dev-wants-to-bet-on-risky-games-with-its-new-publishing-arm",
-          "titre": "Escape From Tarkov dev wants to bet on 'risky' games with its new publishing arm"
-        }
-      ]
-    },
-    {
-      "id": "if-apple-s-new-m6-soc-is-anything-to-go-by-next-gen-2nm-pc-c",
-      "titre": "If Apple's new M6 SoC is anything to go by, next-gen 2nm PC chips are going to be awesome",
-      "url": "https://www.pcgamer.com/hardware/processors/if-apples-new-m6-soc-is-anything-to-go-by-next-gen-2nm-pc-chips-are-going-to-be-awesome/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/processors/if-apples-new-m6-soc-is-anything-to-go-by-next-gen-2nm-pc-chips-are-going-to-be-awesome/",
-          "titre": "If Apple's new M6 SoC is anything to go by, next-gen 2nm PC chips are going to be awesome"
-        }
-      ]
-    },
-    {
-      "id": "what-s-on-pc-gamer-s-desk",
-      "titre": "What's on PC Gamer's desk?",
-      "url": "https://www.pcgamer.com/hardware/whats-on-pc-gamers-desk/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/whats-on-pc-gamers-desk/",
-          "titre": "What's on PC Gamer's desk?"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/banjo-kazooie-developer-rare-is-now-reporting-directly-to-activision",
+          "titre": "Banjo-Kazooie Developer Rare Is Now Reporting Directly To Activision"
         }
       ]
     },
@@ -1043,7 +881,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 6.9,
       "chaleur": 6,
       "liens": [
         {
@@ -1061,7 +899,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 6,
       "liens": [
         {
@@ -1079,7 +917,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.6,
       "chaleur": 6,
       "liens": [
         {
@@ -1097,49 +935,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/the-witcher-3-remastered-will-also-turn-the-xbox-version-into-a-play-anywhere-title-making-the-pc-version-available-too/",
           "titre": "The Witcher 3 Remastered will also turn the Xbox version into a Play Anywhere title, making the PC version available too"
-        }
-      ]
-    },
-    {
-      "id": "steam-profiles-are-beautiful-2000s-era-relics",
-      "titre": "Steam profiles are beautiful 2000s-era relics",
-      "url": "https://www.pcgamer.com/games/steam-profiles-are-beautiful-2000s-era-relics/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/steam-profiles-are-beautiful-2000s-era-relics/",
-          "titre": "Steam profiles are beautiful 2000s-era relics"
-        }
-      ]
-    },
-    {
-      "id": "monster-hunter-wilds-ascendance-devs-discuss-switch-2-wilds",
-      "titre": "Monster Hunter Wilds Ascendance devs discuss Switch 2, Wilds feedback, and the expansion’s time skip",
-      "url": "https://www.videogameschronicle.com/features/interviews/monster-hunter-wilds-ascendance-devs-discuss-switch-2-wilds-feedback-and-the-expansions-time-skip/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 9.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/interviews/monster-hunter-wilds-ascendance-devs-discuss-switch-2-wilds-feedback-and-the-expansions-time-skip/",
-          "titre": "Monster Hunter Wilds Ascendance devs discuss Switch 2, Wilds feedback, and the expansion’s time skip"
         }
       ]
     },
@@ -1151,7 +953,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.0,
+      "heures": 24.9,
       "chaleur": 6,
       "liens": [
         {
@@ -1170,7 +972,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 25.0,
+      "heures": 26.9,
       "chaleur": 6,
       "liens": [
         {
@@ -1182,6 +984,204 @@ const VEILLE = {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/indie-games-survey-2026-nl",
           "titre": "Feature: Indie Games Survey 2026"
+        }
+      ]
+    },
+    {
+      "id": "french-publisher-dear-villagers-confirms-layoffs",
+      "titre": "French publisher Dear Villagers confirms layoffs",
+      "url": "https://www.gamedeveloper.com/business/french-publisher-dear-villagers-confirms-layoffs",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 29.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/french-publisher-dear-villagers-confirms-layoffs",
+          "titre": "French publisher Dear Villagers confirms layoffs"
+        }
+      ]
+    },
+    {
+      "id": "hideo-kojima-couldn-t-understand-why-physint-would-be-on-the",
+      "titre": "Hideo Kojima \"couldn't understand\" why Physint \"would be on the list of being cancelled\" by Sony",
+      "url": "https://www.gamesindustry.biz/hideo-kojima-couldnt-understand-why-physint-would-be-on-the-list-of-being-cancelled-by-sony",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 35.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/hideo-kojima-couldnt-understand-why-physint-would-be-on-the-list-of-being-cancelled-by-sony",
+          "titre": "Hideo Kojima \"couldn't understand\" why Physint \"would be on the list of being cancelled\" by Sony"
+        }
+      ]
+    },
+    {
+      "id": "runescape-dragonwilds-rolls-out-its-first-update-for-switch",
+      "titre": "RuneScape: Dragonwilds Rolls Out Its First Update For Switch 2 Adventurers",
+      "url": "https://www.nintendolife.com/news/2026/09/runescape-dragonwilds-rolls-out-its-first-update-for-switch-2-adventurers",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 17.8,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/runescape-dragonwilds-rolls-out-its-first-update-for-switch-2-adventurers",
+          "titre": "RuneScape: Dragonwilds Rolls Out Its First Update For Switch 2 Adventurers"
+        }
+      ]
+    },
+    {
+      "id": "it-s-sad-and-devastating-black-myth-wukong-s-physical-publi",
+      "titre": "\"It's sad and devastating\" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs",
+      "url": "https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 27.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs",
+          "titre": "\"It's sad and devastating\" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs"
+        }
+      ]
+    },
+    {
+      "id": "artist-who-hand-paints-some-of-gaming-s-best-fantasy-world-m",
+      "titre": "Artist who hand-paints some of gaming's best fantasy world maps brings them together in oversized and extremely lavish art book",
+      "url": "https://www.eurogamer.net/francesca-baerald-game-map-art-book",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/francesca-baerald-game-map-art-book",
+          "titre": "Artist who hand-paints some of gaming's best fantasy world maps brings them together in oversized and extremely lavish art book"
+        }
+      ]
+    },
+    {
+      "id": "what-the-hell-are-you-guys-doing",
+      "titre": "What the hell are you guys doing?",
+      "url": "https://www.pcgamer.com/gaming-industry/what-the-hell-are-you-guys-doing/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/what-the-hell-are-you-guys-doing/",
+          "titre": "What the hell are you guys doing?"
+        }
+      ]
+    },
+    {
+      "id": "with-a-dozen-music-levels-rayman-legends-retold-doubles-down",
+      "titre": "With \"a dozen\" music levels, Rayman Legends Retold doubles down on the best bit of the original game, and having played it I couldn't be happier",
+      "url": "https://www.eurogamer.net/rayman-legends-iconic-music-levels-retold-interview",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/rayman-legends-iconic-music-levels-retold-interview",
+          "titre": "With \"a dozen\" music levels, Rayman Legends Retold doubles down on the best bit of the original game, and having played it I couldn't be happier"
+        }
+      ]
+    },
+    {
+      "id": "why-blizzard-vet-rob-pardo-is-going-all-in-on-arkheron-the-p",
+      "titre": "Why Blizzard vet Rob Pardo is going all-in on Arkheron, the PvP dungeon crawler that's like dark-fantasy Backrooms: 'It's very much been an odyssey'",
+      "url": "https://www.pcgamer.com/games/action/why-blizzard-vet-rob-pardo-is-going-all-in-on-arkheron-the-pvp-dungeon-crawler-thats-like-dark-fantasy-backrooms-its-very-much-been-an-odyssey/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/why-blizzard-vet-rob-pardo-is-going-all-in-on-arkheron-the-pvp-dungeon-crawler-thats-like-dark-fantasy-backrooms-its-very-much-been-an-odyssey/",
+          "titre": "Why Blizzard vet Rob Pardo is going all-in on Arkheron, the PvP dungeon crawler that's like dark-fantasy Backrooms: 'It's very much been an odyssey'"
+        }
+      ]
+    },
+    {
+      "id": "we-want-to-keep-it-very-simple-how-nex-playground-is-beatin",
+      "titre": "'We want to keep it very simple:' How Nex Playground is beating expectations during a hardware crisis",
+      "url": "https://www.gamedeveloper.com/business/-we-want-to-keep-it-very-simple-how-nex-playrground-is-beating-expectations-during-a-hardware-crisis",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/-we-want-to-keep-it-very-simple-how-nex-playrground-is-beating-expectations-during-a-hardware-crisis",
+          "titre": "'We want to keep it very simple:' How Nex Playground is beating expectations during a hardware crisis"
+        }
+      ]
+    },
+    {
+      "id": "fire-emblem-fortune-s-weave-complete-walkthrough-hub",
+      "titre": "Fire Emblem: Fortune’s Weave complete walkthrough hub",
+      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-complete-walkthrough-hub/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-complete-walkthrough-hub/",
+          "titre": "Fire Emblem: Fortune’s Weave complete walkthrough hub"
+        }
+      ]
+    },
+    {
+      "id": "tragedy-crusader-kings-3-s-pope-dlc-will-not-let-you-use-blo",
+      "titre": "Tragedy: Crusader Kings 3's pope DLC will not let you use blood boys to prolong your life, and yes I did ask the devs",
+      "url": "https://www.pcgamer.com/games/strategy/tragedy-crusader-kings-3s-pope-dlc-will-not-let-you-use-blood-boys-to-prolong-your-life-and-yes-i-did-ask-the-devs/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/tragedy-crusader-kings-3s-pope-dlc-will-not-let-you-use-blood-boys-to-prolong-your-life-and-yes-i-did-ask-the-devs/",
+          "titre": "Tragedy: Crusader Kings 3's pope DLC will not let you use blood boys to prolong your life, and yes I did ask the devs"
         }
       ]
     }
