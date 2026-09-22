@@ -1,8 +1,26 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "22/09/2026 à 02h20",
+  "collecte": "22/09/2026 à 04h20",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "xbox-will-reportedly-consolidate-several-studios-in-new-majo",
+      "titre": "Xbox will reportedly ‘consolidate several studios’ in new major wave of layoffs",
+      "url": "https://www.videogameschronicle.com/news/xbox-will-reportedly-consolidate-several-studios-in-new-major-wave-of-layoffs/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 13,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-will-reportedly-consolidate-several-studios-in-new-major-wave-of-layoffs/",
+          "titre": "Xbox will reportedly ‘consolidate several studios’ in new major wave of layoffs"
+        }
+      ]
+    },
     {
       "id": "nintendo-shares-first-look-at-zelda-ocarina-of-time-switch-2",
       "titre": "Nintendo Shares First Look At Zelda: Ocarina Of Time Switch 2 World Map",
@@ -12,7 +30,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 12,
       "liens": [
         {
@@ -37,7 +55,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 12,
       "liens": [
         {
@@ -58,6 +76,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "should-action-games-let-us-skip-the-action",
+      "titre": "Should action games let us skip the action?",
+      "url": "https://www.pcgamer.com/games/should-action-games-let-us-skip-the-action/",
+      "sources": [
+        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.6,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/should-action-games-let-us-skip-the-action/",
+          "titre": "Should action games let us skip the action?"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/final-fantasy-revelation-will-let-players-automatically-raise-their-characters-level-to-skip-grinding/",
+          "titre": "Final Fantasy 7 Revelation will let players raise their character’s level automatically to skip grinding"
+        }
+      ]
+    },
+    {
       "id": "hideo-kojima-doesn-t-know-if-physint-will-be-released-on-ps5",
       "titre": "Hideo Kojima doesn't know if Physint will be released on PS5, and he hasn't decided if it's going to use Sony's Decima game engine",
       "url": "https://www.eurogamer.net/hideo-kojima-physint-playstation-release-decima-engine",
@@ -66,8 +108,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 11.7,
-      "chaleur": 10,
+      "heures": 13.7,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
@@ -82,44 +124,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "007-first-light-was-delayed-on-switch-2-for-a-third-time-to",
-      "titre": "007 First Light was delayed on Switch 2 for a third time to let players experience it ‘as fully as possible’, IO says",
-      "url": "https://www.videogameschronicle.com/news/007-first-light-was-delayed-on-switch-2-for-a-third-time-to-let-players-experience-it-as-fully-as-possible-io-says/",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 16.2,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/007-first-light-was-delayed-on-switch-2-for-a-third-time-to-let-players-experience-it-as-fully-as-possible-io-says/",
-          "titre": "007 First Light was delayed on Switch 2 for a third time to let players experience it ‘as fully as possible’, IO says"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/some-compromises-are-inevitable-007-first-light-dev-talks-switch-2-delay-performance-and-more",
-          "titre": "\"Some Compromises Are Inevitable\" - 007 First Light Dev Talks Switch 2 Delay, Performance & More"
-        }
-      ]
-    },
-    {
-      "id": "pok-mon-ruby-sapphire-hd-footage-reignites-rumours-about-swi",
-      "titre": "Pokémon Ruby & Sapphire HD Footage Reignites Rumours About Switch Ports",
-      "url": "https://www.nintendolife.com/news/2026/09/pokemon-ruby-and-sapphire-hd-footage-reignites-rumours-about-switch-ports",
+      "id": "runescape-dragonwilds-rolls-out-its-first-update-for-switch",
+      "titre": "RuneScape: Dragonwilds Rolls Out Its First Update For Switch 2 Adventurers",
+      "url": "https://www.nintendolife.com/news/2026/09/runescape-dragonwilds-rolls-out-its-first-update-for-switch-2-adventurers",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 1.8,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/pokemon-ruby-and-sapphire-hd-footage-reignites-rumours-about-switch-ports",
-          "titre": "Pokémon Ruby & Sapphire HD Footage Reignites Rumours About Switch Ports"
+          "url": "https://www.nintendolife.com/news/2026/09/runescape-dragonwilds-rolls-out-its-first-update-for-switch-2-adventurers",
+          "titre": "RuneScape: Dragonwilds Rolls Out Its First Update For Switch 2 Adventurers"
         }
       ]
     },
@@ -132,7 +150,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 5.1,
+      "heures": 7.1,
       "chaleur": 7,
       "liens": [
         {
@@ -156,7 +174,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 5.8,
+      "heures": 7.8,
       "chaleur": 7,
       "liens": [
         {
@@ -179,7 +197,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 7,
       "liens": [
         {
@@ -198,7 +216,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 8.8,
+      "heures": 10.8,
       "chaleur": 7,
       "liens": [
         {
@@ -222,7 +240,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 8.9,
+      "heures": 10.9,
       "chaleur": 7,
       "liens": [
         {
@@ -245,55 +263,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5-has-true-air-travel-now-thanks-to-the-mod-i-just-installed-but-they-wont-let-me-give-me-my-pals-piggybacks-onto-the-plane/",
           "titre": "GTA 5 has true air travel now thanks to the mod I just installed, but they won't let me give me my pals piggybacks onto the plane"
-        }
-      ]
-    },
-    {
-      "id": "french-publisher-dear-villagers-confirms-layoffs",
-      "titre": "French publisher Dear Villagers confirms layoffs",
-      "url": "https://www.gamedeveloper.com/business/french-publisher-dear-villagers-confirms-layoffs",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/french-publisher-dear-villagers-confirms-layoffs",
-          "titre": "French publisher Dear Villagers confirms layoffs"
-        }
-      ]
-    },
-    {
-      "id": "final-fantasy-7-revelation-will-offer-automatic-level-ups-if",
-      "titre": "Final Fantasy 7 Revelation Will Offer Automatic Level Ups If You Ignore Side Stuff",
-      "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-will-offer-automatic-level-ups-if-you-ignore-side-stuff",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 11.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-will-offer-automatic-level-ups-if-you-ignore-side-stuff",
-          "titre": "Final Fantasy 7 Revelation Will Offer Automatic Level Ups If You Ignore Side Stuff"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/final-fantasy-revelation-will-let-players-automatically-raise-their-characters-level-to-skip-grinding/",
-          "titre": "Final Fantasy 7 Revelation will let players raise their character’s level automatically to skip grinding"
         }
       ]
     },
@@ -305,13 +281,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.3,
       "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
           "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026"
+        }
+      ]
+    },
+    {
+      "id": "some-compromises-are-inevitable-007-first-light-dev-talks-s",
+      "titre": "\"Some Compromises Are Inevitable\" - 007 First Light Dev Talks Switch 2 Delay, Performance & More",
+      "url": "https://www.nintendolife.com/news/2026/09/some-compromises-are-inevitable-007-first-light-dev-talks-switch-2-delay-performance-and-more",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 18.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/some-compromises-are-inevitable-007-first-light-dev-talks-switch-2-delay-performance-and-more",
+          "titre": "\"Some Compromises Are Inevitable\" - 007 First Light Dev Talks Switch 2 Delay, Performance & More"
         }
       ]
     },
@@ -514,38 +508,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "bungie-unvaulting-destiny-2-content-was-a-studio-saving-emer",
-      "titre": "Bungie unvaulting Destiny 2 content was a studio-saving emergency decision, because Marathon updates were never going to be enough",
-      "url": "https://www.pcgamer.com/games/fps/bungie-unvaulting-destiny-2-content-was-a-studio-saving-emergency-decision-because-marathon-updates-were-never-going-to-be-enough/",
+      "id": "nighthawks-review",
+      "titre": "Nighthawks review",
+      "url": "https://www.pcgamer.com/games/rpg/nighthawks-review-a-novel-vampire-rpg-thats-also-a-vampire-novels-worth-of-writing/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.9,
+      "heures": 0.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/bungie-unvaulting-destiny-2-content-was-a-studio-saving-emergency-decision-because-marathon-updates-were-never-going-to-be-enough/",
-          "titre": "Bungie unvaulting Destiny 2 content was a studio-saving emergency decision, because Marathon updates were never going to be enough"
+          "url": "https://www.pcgamer.com/games/rpg/nighthawks-review-a-novel-vampire-rpg-thats-also-a-vampire-novels-worth-of-writing/",
+          "titre": "Nighthawks review"
         }
       ]
     },
     {
-      "id": "huge-30gb-update-prepares-ghost-of-yotei-for-dlc-some-featur",
-      "titre": "Huge 30GB Update Prepares Ghost of Yotei for DLC, Some Features Already Live Now",
-      "url": "https://www.pushsquare.com/news/2026/09/huge-30gb-update-prepares-ghost-of-yotei-for-dlc-some-features-already-live-now",
+      "id": "pok-mon-ruby-sapphire-hd-footage-reignites-rumours-about-swi",
+      "titre": "Pokémon Ruby & Sapphire HD Footage Reignites Rumours About Switch Ports",
+      "url": "https://www.nintendolife.com/news/2026/09/pokemon-ruby-and-sapphire-hd-footage-reignites-rumours-about-switch-ports",
       "sources": [
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.3,
+      "heures": 4.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/huge-30gb-update-prepares-ghost-of-yotei-for-dlc-some-features-already-live-now",
-          "titre": "Huge 30GB Update Prepares Ghost of Yotei for DLC, Some Features Already Live Now"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/pokemon-ruby-and-sapphire-hd-footage-reignites-rumours-about-switch-ports",
+          "titre": "Pokémon Ruby & Sapphire HD Footage Reignites Rumours About Switch Ports"
         }
       ]
     },
@@ -557,7 +551,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.9,
       "chaleur": 6,
       "liens": [
         {
@@ -568,26 +562,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "resident-evil-is-the-best-videogame-movie-because-bryan-suck",
-      "titre": "Resident Evil is the best videogame movie because Bryan sucks",
-      "url": "https://www.pcgamer.com/games/resident-evil/resident-evil-is-the-best-videogame-movie-because-bryan-sucks/",
+      "id": "french-publisher-dear-villagers-confirms-layoffs",
+      "titre": "French publisher Dear Villagers confirms layoffs",
+      "url": "https://www.gamedeveloper.com/business/french-publisher-dear-villagers-confirms-layoffs",
       "sources": [
-        "Eurogamer",
-        "PC Gamer"
+        "Game Developer"
       ],
-      "reprises": 2,
-      "heures": 12.6,
+      "reprises": 1,
+      "heures": 13.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/resident-evil/resident-evil-is-the-best-videogame-movie-because-bryan-sucks/",
-          "titre": "Resident Evil is the best videogame movie because Bryan sucks"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/zach-cregger-resident-evil-film-opening-weekend-earnings",
-          "titre": "Zach Cregger's quirky Resident Evil film proves sceptics wrong with series-best opening weekend"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/french-publisher-dear-villagers-confirms-layoffs",
+          "titre": "French publisher Dear Villagers confirms layoffs"
         }
       ]
     },
@@ -599,7 +587,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 6,
       "liens": [
         {
@@ -617,7 +605,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.6,
       "chaleur": 6,
       "liens": [
         {
@@ -635,7 +623,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -653,13 +641,49 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 16.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/microsoft-patent-ads-in-gameplay",
           "titre": "Microsoft patents idea for in-game PC and Xbox adverts shown during downtime \"trigger events\""
+        }
+      ]
+    },
+    {
+      "id": "bungie-unvaulting-destiny-2-content-was-a-studio-saving-emer",
+      "titre": "Bungie unvaulting Destiny 2 content was a studio-saving emergency decision, because Marathon updates were never going to be enough",
+      "url": "https://www.pcgamer.com/games/fps/bungie-unvaulting-destiny-2-content-was-a-studio-saving-emergency-decision-because-marathon-updates-were-never-going-to-be-enough/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/bungie-unvaulting-destiny-2-content-was-a-studio-saving-emergency-decision-because-marathon-updates-were-never-going-to-be-enough/",
+          "titre": "Bungie unvaulting Destiny 2 content was a studio-saving emergency decision, because Marathon updates were never going to be enough"
+        }
+      ]
+    },
+    {
+      "id": "huge-30gb-update-prepares-ghost-of-yotei-for-dlc-some-featur",
+      "titre": "Huge 30GB Update Prepares Ghost of Yotei for DLC, Some Features Already Live Now",
+      "url": "https://www.pushsquare.com/news/2026/09/huge-30gb-update-prepares-ghost-of-yotei-for-dlc-some-features-already-live-now",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/huge-30gb-update-prepares-ghost-of-yotei-for-dlc-some-features-already-live-now",
+          "titre": "Huge 30GB Update Prepares Ghost of Yotei for DLC, Some Features Already Live Now"
         }
       ]
     },
@@ -671,7 +695,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -689,7 +713,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -707,7 +731,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -725,7 +749,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -743,7 +767,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -761,7 +785,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -779,7 +803,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -797,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +839,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.2,
       "chaleur": 4,
       "liens": [
         {
@@ -833,8 +857,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -851,8 +875,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -869,8 +893,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -887,8 +911,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -905,8 +929,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -923,8 +947,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -941,8 +965,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -959,8 +983,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -977,8 +1001,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -995,8 +1019,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1013,8 +1037,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1031,13 +1055,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/virtue-and-a-sledgehammer-will-begin-battering-down-the-walls-and-android-ghosts-of-a-hometown-filled-with-emotional-memories-this-october",
           "titre": "Virtue and a Sledgehammer will begin battering down the walls and android ghosts of a hometown filled with emotional memories this October"
+        }
+      ]
+    },
+    {
+      "id": "final-fantasy-7-revelation-will-offer-automatic-level-ups-if",
+      "titre": "Final Fantasy 7 Revelation Will Offer Automatic Level Ups If You Ignore Side Stuff",
+      "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-will-offer-automatic-level-ups-if-you-ignore-side-stuff",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 13.8,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-will-offer-automatic-level-ups-if-you-ignore-side-stuff",
+          "titre": "Final Fantasy 7 Revelation Will Offer Automatic Level Ups If You Ignore Side Stuff"
         }
       ]
     },
@@ -1049,7 +1091,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,7 +1109,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1085,67 +1127,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/marvels-wolverine-mystique-lgbtq-censored-middle-east",
           "titre": "Mystique's lesbian relationship in Marvel's Wolverine is seemingly censored in certain parts of the world"
-        }
-      ]
-    },
-    {
-      "id": "fire-emblem-fortune-s-weave-renown-how-to-raise-renown-fast",
-      "titre": "Fire Emblem Fortune’s Weave Renown: How to raise Renown fast",
-      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-renown-how-to-raise-renown-fast/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 12.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-renown-how-to-raise-renown-fast/",
-          "titre": "Fire Emblem Fortune’s Weave Renown: How to raise Renown fast"
-        }
-      ]
-    },
-    {
-      "id": "who-the-hell-is-buying-their-server-memory-from-amazon-also",
-      "titre": "Who the hell is buying their server memory from Amazon?! Also, can I interest you in a $101,000 kit?",
-      "url": "https://www.pcgamer.com/hardware/memory/who-the-hell-is-buying-their-server-memory-from-amazon-also-can-i-interest-you-in-a-usd101-000-kit/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/memory/who-the-hell-is-buying-their-server-memory-from-amazon-also-can-i-interest-you-in-a-usd101-000-kit/",
-          "titre": "Who the hell is buying their server memory from Amazon?! Also, can I interest you in a $101,000 kit?"
-        }
-      ]
-    },
-    {
-      "id": "the-blood-of-dawnwalker-cost-less-than-expected-to-make-it-s",
-      "titre": "The Blood of Dawnwalker cost less than expected to make - it's more of a double-A game than a triple-A blockbuster",
-      "url": "https://www.eurogamer.net/blood-of-dawnwalker-budget-revealed",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 12.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blood-of-dawnwalker-budget-revealed",
-          "titre": "The Blood of Dawnwalker cost less than expected to make - it's more of a double-A game than a triple-A blockbuster"
         }
       ]
     }
