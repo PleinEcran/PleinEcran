@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "22/09/2026 à 10h21",
+  "collecte": "22/09/2026 à 12h25",
   "seuil": 14,
   "sujets": [
     {
@@ -16,7 +16,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 6,
-      "heures": 0.8,
+      "heures": 2.8,
       "chaleur": 28,
       "liens": [
         {
@@ -52,6 +52,66 @@ const VEILLE = {
       ]
     },
     {
+      "id": "reaction-did-fans-just-bring-destiny-back-from-the-dead",
+      "titre": "Reaction: Did Fans Just Bring Destiny Back from the Dead?",
+      "url": "https://www.pushsquare.com/features/reaction-did-fans-just-bring-destiny-back-from-the-dead",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 4,
+      "heures": 0.4,
+      "chaleur": 15,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/reaction-did-fans-just-bring-destiny-back-from-the-dead",
+          "titre": "Reaction: Did Fans Just Bring Destiny Back from the Dead?"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/bungie-decide-their-destiny-is-to-do-more-destiny-after-all-pledging-to-bring-back-vaulted-destiny-2-campaigns-while-declaring-that-marathon-needs-to-evolve",
+          "titre": "Bungie decide their destiny is to do more Destiny after all, pledging to bring back vaulted Destiny 2 campaigns while declaring that Marathon \"needs to evolve\""
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/we-intend-to-earn-back-your-trust-bungie-announces-plans-to-bring-back-destiny-2-and-improve-marathon/",
+          "titre": "‘We intend to earn back your trust’: Bungie announces plans to bring back Destiny 2 and improve Marathon"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/bungie-vaulted-destiny-2-campaigns-marathon-future",
+          "titre": "Bungie is freeing vaulted Destiny 2 campaigns after Marathon \"did not reach as many players as we had hoped\""
+        }
+      ]
+    },
+    {
+      "id": "io-interactive-had-no-choice-but-to-delay-switch-2-launch-of",
+      "titre": "IO Interactive \"had no choice\" but to delay Switch 2 launch of 007 First Light for a third time",
+      "url": "https://www.gamesindustry.biz/io-interactive-had-no-choice-but-to-delay-switch-2-launch-of-007-first-light-for-a-third-time",
+      "sources": [
+        "GamesIndustry.biz",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 1.5,
+      "chaleur": 13,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/io-interactive-had-no-choice-but-to-delay-switch-2-launch-of-007-first-light-for-a-third-time",
+          "titre": "IO Interactive \"had no choice\" but to delay Switch 2 launch of 007 First Light for a third time"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/some-compromises-are-inevitable-007-first-light-dev-talks-switch-2-delay-performance-and-more",
+          "titre": "\"Some Compromises Are Inevitable\" - 007 First Light Dev Talks Switch 2 Delay, Performance & More"
+        }
+      ]
+    },
+    {
       "id": "bungie-says-it-s-not-done-with-destiny-aims-to-earn-back-pla",
       "titre": "Bungie says it's \"not done with Destiny\", aims to earn back player trust by restoring archived Destiny 2 content",
       "url": "https://www.gamesindustry.biz/bungie-says-its-not-done-with-destiny-aims-to-earn-back-player-trust-by-restoring-archived-destiny-2-content",
@@ -61,7 +121,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 0.6,
+      "heures": 2.7,
       "chaleur": 12,
       "liens": [
         {
@@ -82,74 +142,62 @@ const VEILLE = {
       ]
     },
     {
-      "id": "more-games-should-look-like-abyss-x-zero",
-      "titre": "More games should look like Abyss x Zero",
-      "url": "https://www.pcgamer.com/games/more-games-should-look-like-abyss-x-zero/",
+      "id": "blizzard-layoffs-are-reportedly-imminent-days-after-an-excit",
+      "titre": "Blizzard layoffs are reportedly imminent, days after an exciting BlizzCon and a seemingly popular World of Warcraft: Forever beta",
+      "url": "https://www.eurogamer.net/blizzard-layoffs-xbox-cuts",
       "sources": [
-        "Nintendo Life",
-        "PC Gamer"
+        "Eurogamer"
       ],
-      "reprises": 2,
-      "heures": 1.4,
-      "chaleur": 12,
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 11,
       "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/more-games-should-look-like-abyss-x-zero/",
-          "titre": "More games should look like Abyss x Zero"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/gallery-heres-what-the-zelda-switch-2-and-electric-ocarina-look-like-in-person",
-          "titre": "Gallery: Here's What The Zelda Switch 2 And Electric Ocarina Look Like In Person"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-shares-first-look-at-zelda-ocarina-of-time-switch-2",
-      "titre": "Nintendo Shares First Look At Zelda: Ocarina Of Time Switch 2 World Map",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-shares-first-look-at-zelda-ocarina-of-time-switch-2-world-map",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 9.4,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendo-shares-first-look-at-zelda-ocarina-of-time-switch-2-world-map",
-          "titre": "Nintendo Shares First Look At Zelda: Ocarina Of Time Switch 2 World Map"
-        },
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nintendo-switch-pokemon-ruby-sapphire-hd-port",
-          "titre": "Nintendo Switch ports of Pokémon Ruby and Sapphire look even more likely after official account shares suspiciously HD footage of the GBA games"
+          "url": "https://www.eurogamer.net/blizzard-layoffs-xbox-cuts",
+          "titre": "Blizzard layoffs are reportedly imminent, days after an exciting BlizzCon and a seemingly popular World of Warcraft: Forever beta"
         }
       ]
     },
     {
-      "id": "what-s-your-back-on-my-bullshit-videogame",
-      "titre": "What's your 'back on my bullshit' videogame?",
-      "url": "https://www.pcgamer.com/games/final-fantasy/whats-your-back-on-my-bullshit-videogame/",
+      "id": "guide-where-to-pre-order-the-legend-of-zelda-ocarina-of-time",
+      "titre": "Guide: Where To Pre-Order The Legend Of Zelda: Ocarina Of Time & Zelda Nintendo Switch 2 Console",
+      "url": "https://www.nintendolife.com/guides/where-to-pre-order-the-legend-of-zelda-ocarina-of-time-and-zelda-nintendo-switch-2-console",
       "sources": [
-        "PC Gamer",
-        "VGC"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 0.1,
+      "reprises": 1,
+      "heures": 0.8,
       "chaleur": 9,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/final-fantasy/whats-your-back-on-my-bullshit-videogame/",
-          "titre": "What's your 'back on my bullshit' videogame?"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/guides/where-to-pre-order-the-legend-of-zelda-ocarina-of-time-and-zelda-nintendo-switch-2-console",
+          "titre": "Guide: Where To Pre-Order The Legend Of Zelda: Ocarina Of Time & Zelda Nintendo Switch 2 Console"
+        }
+      ]
+    },
+    {
+      "id": "i-had-to-fight-sonic-boss-takashi-iizuka-reveals-sega-wante",
+      "titre": "\"I Had To Fight\" - Sonic Boss Takashi Iizuka Reveals Sega Wanted To Cancel Entire Sonic Franchise",
+      "url": "https://www.nintendolife.com/news/2026/09/i-had-to-fight-sonic-boss-takashi-iizuka-reveals-sega-wanted-to-cancel-entire-sonic-franchise",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.7,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/i-had-to-fight-sonic-boss-takashi-iizuka-reveals-sega-wanted-to-cancel-entire-sonic-franchise",
+          "titre": "\"I Had To Fight\" - Sonic Boss Takashi Iizuka Reveals Sega Wanted To Cancel Entire Sonic Franchise"
         },
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/we-intend-to-earn-back-your-trust-bungie-announces-plans-to-bring-back-destiny-2-and-improve-marathon/",
-          "titre": "‘We intend to earn back your trust’: Bungie announces plans to bring back Destiny 2 and improve Marathon"
+          "url": "https://www.videogameschronicle.com/news/sega-wanted-to-cancel-the-entire-sonic-series-but-the-first-movie-saved-it-says-sonic-team-head-iizuka/",
+          "titre": "Sega wanted to cancel the entire Sonic series but the first movie saved it, says Sonic Team head Iizuka"
         }
       ]
     },
@@ -161,13 +209,37 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.2,
       "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/nintendo-is-doing-its-best-to-make-sure-switch-overtakes-ps2",
           "titre": "Nintendo Is Doing Its Best To Make Sure Switch Overtakes PS2"
+        }
+      ]
+    },
+    {
+      "id": "pok-mon-ruby-sapphire-hd-footage-reignites-rumours-about-swi",
+      "titre": "Pokémon Ruby & Sapphire HD Footage Reignites Rumours About Switch Ports",
+      "url": "https://www.nintendolife.com/news/2026/09/pokemon-ruby-and-sapphire-hd-footage-reignites-rumours-about-switch-ports",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 12.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/pokemon-ruby-and-sapphire-hd-footage-reignites-rumours-about-switch-ports",
+          "titre": "Pokémon Ruby & Sapphire HD Footage Reignites Rumours About Switch Ports"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/nintendo-switch-pokemon-ruby-sapphire-hd-port",
+          "titre": "Nintendo Switch ports of Pokémon Ruby and Sapphire look even more likely after official account shares suspiciously HD footage of the GBA games"
         }
       ]
     },
@@ -180,7 +252,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 19.7,
+      "heures": 21.8,
       "chaleur": 9,
       "liens": [
         {
@@ -196,9 +268,9 @@ const VEILLE = {
       ]
     },
     {
-      "id": "monster-hunter-wilds-ascendance-devs-discuss-switch-2-wilds",
-      "titre": "Monster Hunter Wilds Ascendance devs discuss Switch 2, Wilds feedback, and the expansion’s time skip",
-      "url": "https://www.videogameschronicle.com/features/interviews/monster-hunter-wilds-ascendance-devs-discuss-switch-2-wilds-feedback-and-the-expansions-time-skip/",
+      "id": "the-witcher-3-remastered-will-also-turn-the-xbox-version-int",
+      "titre": "The Witcher 3 Remastered will also turn the Xbox version into a Play Anywhere title, making the PC version available too",
+      "url": "https://www.videogameschronicle.com/news/the-witcher-3-remastered-will-also-turn-the-xbox-version-into-a-play-anywhere-title-making-the-pc-version-available-too/",
       "sources": [
         "VGC"
       ],
@@ -208,26 +280,62 @@ const VEILLE = {
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/interviews/monster-hunter-wilds-ascendance-devs-discuss-switch-2-wilds-feedback-and-the-expansions-time-skip/",
-          "titre": "Monster Hunter Wilds Ascendance devs discuss Switch 2, Wilds feedback, and the expansion’s time skip"
+          "url": "https://www.videogameschronicle.com/news/the-witcher-3-remastered-will-also-turn-the-xbox-version-into-a-play-anywhere-title-making-the-pc-version-available-too/",
+          "titre": "The Witcher 3 Remastered will also turn the Xbox version into a Play Anywhere title, making the PC version available too"
         }
       ]
     },
     {
-      "id": "we-were-almost-dead-neogeo-boss-reveals-forced-redesign-beh",
-      "titre": "‘We were almost dead’: NeoGeo boss reveals forced redesign behind AES+ delay",
-      "url": "https://www.videogameschronicle.com/news/we-were-almost-dead-neogeo-boss-reveals-forced-redesign-behind-aes-delay/",
+      "id": "steam-profiles-are-beautiful-2000s-era-relics",
+      "titre": "Steam profiles are beautiful 2000s-era relics",
+      "url": "https://www.pcgamer.com/games/steam-profiles-are-beautiful-2000s-era-relics/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/steam-profiles-are-beautiful-2000s-era-relics/",
+          "titre": "Steam profiles are beautiful 2000s-era relics"
+        }
+      ]
+    },
+    {
+      "id": "intel-reportedly-collaborating-with-auo-on-microled-panels-w",
+      "titre": "Intel reportedly collaborating with AUO on microLED panels, which could help make the ultimate display tech more mainstream",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/intel-reportedly-collaborating-with-auo-on-microled-panels-which-could-help-make-the-ultimate-display-tech-more-mainstream/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-monitors/intel-reportedly-collaborating-with-auo-on-microled-panels-which-could-help-make-the-ultimate-display-tech-more-mainstream/",
+          "titre": "Intel reportedly collaborating with AUO on microLED panels, which could help make the ultimate display tech more mainstream"
+        }
+      ]
+    },
+    {
+      "id": "monster-hunter-wilds-ascendance-devs-discuss-switch-2-wilds",
+      "titre": "Monster Hunter Wilds Ascendance devs discuss Switch 2, Wilds feedback, and the expansion’s time skip",
+      "url": "https://www.videogameschronicle.com/features/interviews/monster-hunter-wilds-ascendance-devs-discuss-switch-2-wilds-feedback-and-the-expansions-time-skip/",
       "sources": [
         "VGC"
       ],
       "reprises": 1,
-      "heures": 3.4,
+      "heures": 3.0,
       "chaleur": 8,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/we-were-almost-dead-neogeo-boss-reveals-forced-redesign-behind-aes-delay/",
-          "titre": "‘We were almost dead’: NeoGeo boss reveals forced redesign behind AES+ delay"
+          "url": "https://www.videogameschronicle.com/features/interviews/monster-hunter-wilds-ascendance-devs-discuss-switch-2-wilds-feedback-and-the-expansions-time-skip/",
+          "titre": "Monster Hunter Wilds Ascendance devs discuss Switch 2, Wilds feedback, and the expansion’s time skip"
         }
       ]
     },
@@ -240,7 +348,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 5.6,
+      "heures": 7.7,
       "chaleur": 7,
       "liens": [
         {
@@ -263,31 +371,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.4,
       "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
           "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026"
-        }
-      ]
-    },
-    {
-      "id": "some-compromises-are-inevitable-007-first-light-dev-talks-s",
-      "titre": "\"Some Compromises Are Inevitable\" - 007 First Light Dev Talks Switch 2 Delay, Performance & More",
-      "url": "https://www.nintendolife.com/news/2026/09/some-compromises-are-inevitable-007-first-light-dev-talks-switch-2-delay-performance-and-more",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 24.6,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/some-compromises-are-inevitable-007-first-light-dev-talks-switch-2-delay-performance-and-more",
-          "titre": "\"Some Compromises Are Inevitable\" - 007 First Light Dev Talks Switch 2 Delay, Performance & More"
         }
       ]
     },
@@ -490,6 +580,186 @@ const VEILLE = {
       ]
     },
     {
+      "id": "talking-point-how-do-you-feel-about-series-branded-consoles",
+      "titre": "Talking Point: How Do You Feel About Series-Branded Consoles?",
+      "url": "https://www.nintendolife.com/features/talking-point-how-do-you-feel-about-series-branded-consoles",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/talking-point-how-do-you-feel-about-series-branded-consoles",
+          "titre": "Talking Point: How Do You Feel About Series-Branded Consoles?"
+        }
+      ]
+    },
+    {
+      "id": "there-is-no-easy-answer-anymore-there-s-no-kind-of-playbook",
+      "titre": "\"There is no easy answer anymore, there's no kind of playbook\" – Secret Mode is hedging its bets with two very different pillars",
+      "url": "https://www.gamesindustry.biz/there-is-no-easy-answer-anymore-theres-no-kind-of-playbook-secret-mode-is-hedging-its-bets-with-two-very-different-pillars",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/there-is-no-easy-answer-anymore-theres-no-kind-of-playbook-secret-mode-is-hedging-its-bets-with-two-very-different-pillars",
+          "titre": "\"There is no easy answer anymore, there's no kind of playbook\" – Secret Mode is hedging its bets with two very different pillars"
+        }
+      ]
+    },
+    {
+      "id": "fire-emblem-fortune-s-weave-cast-list-every-character-and-en",
+      "titre": "Fire Emblem Fortune’s Weave cast list: Every character and English voice actor",
+      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-cast-list-every-character-and-english-voice-actor/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-cast-list-every-character-and-english-voice-actor/",
+          "titre": "Fire Emblem Fortune’s Weave cast list: Every character and English voice actor"
+        }
+      ]
+    },
+    {
+      "id": "it-s-time-to-decide-the-worst-graphical-effect-in-games-dept",
+      "titre": "It's time to decide the worst graphical effect in games: depth of field vs vignette",
+      "url": "https://www.pcgamer.com/hardware/its-time-to-decide-the-worst-graphical-effect-in-games-depth-of-field-vs-vignette/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/its-time-to-decide-the-worst-graphical-effect-in-games-depth-of-field-vs-vignette/",
+          "titre": "It's time to decide the worst graphical effect in games: depth of field vs vignette"
+        }
+      ]
+    },
+    {
+      "id": "another-injustice-3-leak-reveals-two-characters-in-the-rumou",
+      "titre": "Another Injustice 3 leak reveals two characters in the rumoured DC fighting game - one that's expected and one that's a big surprise",
+      "url": "https://www.eurogamer.net/injustice-3-supergirl-batwoman-leak",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/injustice-3-supergirl-batwoman-leak",
+          "titre": "Another Injustice 3 leak reveals two characters in the rumoured DC fighting game - one that's expected and one that's a big surprise"
+        }
+      ]
+    },
+    {
+      "id": "i-ve-been-doing-roleplay-for-15-years-and-i-don-t-think-wow",
+      "titre": "I've been doing roleplay for 15+ years, and I don't think WoW: Forever needs a ruleset for it",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/ive-been-doing-roleplay-for-15-years-i-dont-think-wow-forever-needs-a-ruleset-for-it/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/ive-been-doing-roleplay-for-15-years-i-dont-think-wow-forever-needs-a-ruleset-for-it/",
+          "titre": "I've been doing roleplay for 15+ years, and I don't think WoW: Forever needs a ruleset for it"
+        }
+      ]
+    },
+    {
+      "id": "beyond-good-and-evil-was-never-worth-20-years-of-angst",
+      "titre": "Beyond Good and Evil was never worth 20 years of angst",
+      "url": "https://www.pcgamer.com/games/adventure/beyond-good-and-evil-was-never-worth-20-years-of-angst/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/adventure/beyond-good-and-evil-was-never-worth-20-years-of-angst/",
+          "titre": "Beyond Good and Evil was never worth 20 years of angst"
+        }
+      ]
+    },
+    {
+      "id": "i-m-calling-for-an-end-to-smooth-faced-dystopias",
+      "titre": "I'm calling for an end to smooth-faced dystopias",
+      "url": "https://www.pcgamer.com/games/im-calling-for-an-end-to-smooth-faced-dystopias/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/im-calling-for-an-end-to-smooth-faced-dystopias/",
+          "titre": "I'm calling for an end to smooth-faced dystopias"
+        }
+      ]
+    },
+    {
+      "id": "i-tornado-games",
+      "titre": "I ❤️ tornado games",
+      "url": "https://www.pcgamer.com/games/i-tornado-games/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/i-tornado-games/",
+          "titre": "I ❤️ tornado games"
+        }
+      ]
+    },
+    {
+      "id": "what-s-your-back-on-my-bullshit-videogame",
+      "titre": "What's your 'back on my bullshit' videogame?",
+      "url": "https://www.pcgamer.com/games/final-fantasy/whats-your-back-on-my-bullshit-videogame/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/final-fantasy/whats-your-back-on-my-bullshit-videogame/",
+          "titre": "What's your 'back on my bullshit' videogame?"
+        }
+      ]
+    },
+    {
       "id": "trover-saves-the-universe-the-comedy-game-from-high-on-life",
       "titre": "Trover Saves the Universe, the comedy game from High on Life studio Squanch Games, appears to have been delisted",
       "url": "https://www.videogameschronicle.com/news/trover-saves-the-universe-the-comedy-game-from-high-on-life-studio-squanch-games-appears-to-have-been-delisted/",
@@ -497,31 +767,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/trover-saves-the-universe-the-comedy-game-from-high-on-life-studio-squanch-games-appears-to-have-been-delisted/",
           "titre": "Trover Saves the Universe, the comedy game from High on Life studio Squanch Games, appears to have been delisted"
-        }
-      ]
-    },
-    {
-      "id": "my-favorite-space-warlord-baby-trading-sim-events",
-      "titre": "My favorite Space Warlord Baby Trading Sim events",
-      "url": "https://www.pcgamer.com/games/my-favorite-space-warlord-baby-trading-sim-events/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/my-favorite-space-warlord-baby-trading-sim-events/",
-          "titre": "My favorite Space Warlord Baby Trading Sim events"
         }
       ]
     },
@@ -533,13 +785,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/every-game-is-about-goku-eventually/",
           "titre": "Every game is about Goku eventually"
+        }
+      ]
+    },
+    {
+      "id": "my-favorite-space-warlord-baby-trading-sim-events",
+      "titre": "My favorite Space Warlord Baby Trading Sim events",
+      "url": "https://www.pcgamer.com/games/my-favorite-space-warlord-baby-trading-sim-events/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/my-favorite-space-warlord-baby-trading-sim-events/",
+          "titre": "My favorite Space Warlord Baby Trading Sim events"
         }
       ]
     },
@@ -551,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +839,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -587,7 +857,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -605,7 +875,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
@@ -623,7 +893,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -641,31 +911,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/motherboards/gigabyte-admits-an-oopsie-with-gigabyte-control-center-software-leaving-kernel-exposed-to-attackers/",
           "titre": "Gigabyte admits an oopsie with Gigabyte Control Center software leaving kernel exposed to attackers"
-        }
-      ]
-    },
-    {
-      "id": "i-can-t-wait-to-play-a-kodan-in-gw3-concept-art",
-      "titre": "I can't wait to play a Kodan in GW3 concept art",
-      "url": "https://www.pcgamer.com/games/i-cant-wait-to-play-a-kodan-in-gw3-concept-art/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/i-cant-wait-to-play-a-kodan-in-gw3-concept-art/",
-          "titre": "I can't wait to play a Kodan in GW3 concept art"
         }
       ]
     },
@@ -677,67 +929,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/2-more-september-2026-ps-plus-extra-games-available-to-download-now",
           "titre": "2 More September 2026 PS Plus Extra Games Available to Download Now"
-        }
-      ]
-    },
-    {
-      "id": "wookiepedia-still-feels-like-home",
-      "titre": "Wookiepedia still feels like home",
-      "url": "https://www.pcgamer.com/games/wookiepedia-still-feels-like-home/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/wookiepedia-still-feels-like-home/",
-          "titre": "Wookiepedia still feels like home"
-        }
-      ]
-    },
-    {
-      "id": "sega-wanted-to-cancel-the-entire-sonic-series-but-the-first",
-      "titre": "Sega wanted to cancel the entire Sonic series but the first movie saved it, says Sonic Team head Iizuka",
-      "url": "https://www.videogameschronicle.com/news/sega-wanted-to-cancel-the-entire-sonic-series-but-the-first-movie-saved-it-says-sonic-team-head-iizuka/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 1.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sega-wanted-to-cancel-the-entire-sonic-series-but-the-first-movie-saved-it-says-sonic-team-head-iizuka/",
-          "titre": "Sega wanted to cancel the entire Sonic series but the first movie saved it, says Sonic Team head Iizuka"
-        }
-      ]
-    },
-    {
-      "id": "trying-to-pick-the-perfect-autumn-game-paralysis",
-      "titre": "Trying to pick the perfect autumn game paralysis",
-      "url": "https://www.pcgamer.com/games/trying-to-pick-the-perfect-autumn-game-paralysis/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/trying-to-pick-the-perfect-autumn-game-paralysis/",
-          "titre": "Trying to pick the perfect autumn game paralysis"
         }
       ]
     },
@@ -749,7 +947,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -760,56 +958,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "just-another-tuesday",
-      "titre": "Just another Tuesday",
-      "url": "https://www.pcgamer.com/games/just-another-tuesday/",
+      "id": "we-were-almost-dead-neogeo-boss-reveals-forced-redesign-beh",
+      "titre": "‘We were almost dead’: NeoGeo boss reveals forced redesign behind AES+ delay",
+      "url": "https://www.videogameschronicle.com/news/we-were-almost-dead-neogeo-boss-reveals-forced-redesign-behind-aes-delay/",
       "sources": [
-        "PC Gamer"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 5.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/just-another-tuesday/",
-          "titre": "Just another Tuesday"
-        }
-      ]
-    },
-    {
-      "id": "wow-forever-will-live-and-die-by-the-valley",
-      "titre": "WoW: Forever will live and die by the valley",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-will-live-and-die-by-the-valley/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-will-live-and-die-by-the-valley/",
-          "titre": "WoW: Forever will live and die by the valley"
-        }
-      ]
-    },
-    {
-      "id": "i-still-can-t-believe-we-call-them-mobas",
-      "titre": "I still can't believe we call them 'MOBAs'",
-      "url": "https://www.pcgamer.com/games/i-still-cant-believe-we-call-them-mobas/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/i-still-cant-believe-we-call-them-mobas/",
-          "titre": "I still can't believe we call them 'MOBAs'"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/we-were-almost-dead-neogeo-boss-reveals-forced-redesign-behind-aes-delay/",
+          "titre": "‘We were almost dead’: NeoGeo boss reveals forced redesign behind AES+ delay"
         }
       ]
     },
@@ -821,31 +983,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/runescape-dragonwilds-rolls-out-its-first-update-for-switch-2-adventurers",
           "titre": "RuneScape: Dragonwilds Rolls Out Its First Update For Switch 2 Adventurers"
-        }
-      ]
-    },
-    {
-      "id": "pok-mon-ruby-sapphire-hd-footage-reignites-rumours-about-swi",
-      "titre": "Pokémon Ruby & Sapphire HD Footage Reignites Rumours About Switch Ports",
-      "url": "https://www.nintendolife.com/news/2026/09/pokemon-ruby-and-sapphire-hd-footage-reignites-rumours-about-switch-ports",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/pokemon-ruby-and-sapphire-hd-footage-reignites-rumours-about-switch-ports",
-          "titre": "Pokémon Ruby & Sapphire HD Footage Reignites Rumours About Switch Ports"
         }
       ]
     },
@@ -857,7 +1001,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 17.0,
       "chaleur": 6,
       "liens": [
         {
@@ -876,7 +1020,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 16.9,
+      "heures": 18.9,
       "chaleur": 6,
       "liens": [
         {
@@ -900,7 +1044,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 16.9,
+      "heures": 19.0,
       "chaleur": 6,
       "liens": [
         {
@@ -923,7 +1067,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.4,
       "chaleur": 6,
       "liens": [
         {
@@ -941,7 +1085,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.9,
+      "heures": 22.9,
       "chaleur": 6,
       "liens": [
         {
@@ -959,7 +1103,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.6,
+      "heures": 25.6,
       "chaleur": 6,
       "liens": [
         {
@@ -977,7 +1121,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 18.0,
+      "heures": 20.0,
       "chaleur": 5,
       "liens": [
         {
@@ -995,7 +1139,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.5,
       "chaleur": 5,
       "liens": [
         {
@@ -1013,7 +1157,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.0,
+      "heures": 24.1,
       "chaleur": 5,
       "liens": [
         {
@@ -1031,7 +1175,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1040,135 +1184,9 @@ const VEILLE = {
           "titre": "Silent Hill Townfall: Human organ transplant box puzzle solution"
         }
       ]
-    },
-    {
-      "id": "huge-30gb-update-prepares-ghost-of-yotei-for-dlc-some-featur",
-      "titre": "Huge 30GB Update Prepares Ghost of Yotei for DLC, Some Features Already Live Now",
-      "url": "https://www.pushsquare.com/news/2026/09/huge-30gb-update-prepares-ghost-of-yotei-for-dlc-some-features-already-live-now",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/huge-30gb-update-prepares-ghost-of-yotei-for-dlc-some-features-already-live-now",
-          "titre": "Huge 30GB Update Prepares Ghost of Yotei for DLC, Some Features Already Live Now"
-        }
-      ]
-    },
-    {
-      "id": "sony-appears-to-censor-lgbtq-content-in-marvel-s-wolverine-f",
-      "titre": "Sony appears to censor LGBTQ content in Marvel's Wolverine for some regions",
-      "url": "https://www.gamedeveloper.com/console/sony-appears-to-censor-lgbtq-content-marvel-s-wolverine-for-some-regions",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 15.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/sony-appears-to-censor-lgbtq-content-marvel-s-wolverine-for-some-regions",
-          "titre": "Sony appears to censor LGBTQ content in Marvel's Wolverine for some regions"
-        }
-      ]
-    },
-    {
-      "id": "sony-seemingly-incentivising-digital-ps5-purchases-with-cash",
-      "titre": "Sony Seemingly Incentivising Digital PS5 Purchases with Cashback",
-      "url": "https://www.pushsquare.com/news/2026/09/sony-seemingly-incentivising-digital-ps5-purchases-with-cashback",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 16.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/sony-seemingly-incentivising-digital-ps5-purchases-with-cashback",
-          "titre": "Sony Seemingly Incentivising Digital PS5 Purchases with Cashback"
-        }
-      ]
-    },
-    {
-      "id": "bungie-is-freeing-vaulted-destiny-2-campaigns-after-marathon",
-      "titre": "Bungie is freeing vaulted Destiny 2 campaigns after Marathon \"did not reach as many players as we had hoped\"",
-      "url": "https://www.eurogamer.net/bungie-vaulted-destiny-2-campaigns-marathon-future",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 17.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/bungie-vaulted-destiny-2-campaigns-marathon-future",
-          "titre": "Bungie is freeing vaulted Destiny 2 campaigns after Marathon \"did not reach as many players as we had hoped\""
-        }
-      ]
-    },
-    {
-      "id": "it-wasn-t-a-planned-thing-breaking-benjamin-singer-on-his-m",
-      "titre": "\"It wasn't a planned thing\": Breaking Benjamin singer on his mid-gig Fallout 4 mod promo being down to a broken drum and his love of VR",
-      "url": "https://www.rockpapershotgun.com/it-wasnt-a-planned-thing-breaking-benjamin-singer-on-his-mid-gig-fallout-4-mod-promo-being-down-to-a-broken-drum-and-his-love-of-vr",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 18.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/it-wasnt-a-planned-thing-breaking-benjamin-singer-on-his-mid-gig-fallout-4-mod-promo-being-down-to-a-broken-drum-and-his-love-of-vr",
-          "titre": "\"It wasn't a planned thing\": Breaking Benjamin singer on his mid-gig Fallout 4 mod promo being down to a broken drum and his love of VR"
-        }
-      ]
-    },
-    {
-      "id": "kojima-productions-survival-story-may-sound-strikingly-famil",
-      "titre": "Kojima Productions' survival story may sound strikingly familiar to struggling devs",
-      "url": "https://www.gamedeveloper.com/business/kojima-productions-survival-story-may-sound-strikingly-familiar-to-struggling-devs",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 18.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/kojima-productions-survival-story-may-sound-strikingly-familiar-to-struggling-devs",
-          "titre": "Kojima Productions' survival story may sound strikingly familiar to struggling devs"
-        }
-      ]
-    },
-    {
-      "id": "feature-i-was-thinking-about-the-possibility-of-atelier-maom",
-      "titre": "Feature: 'I Was Thinking About the Possibility of Atelier Maomao': How The Apothecary Diaries Became a PS5 Game",
-      "url": "https://www.pushsquare.com/features/i-was-thinking-about-the-possibility-of-atelier-maomao-how-the-apothecary-diaries-became-a-ps5-game",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 18.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/i-was-thinking-about-the-possibility-of-atelier-maomao-how-the-apothecary-diaries-became-a-ps5-game",
-          "titre": "Feature: 'I Was Thinking About the Possibility of Atelier Maomao': How The Apothecary Diaries Became a PS5 Game"
-        }
-      ]
     }
   ],
   "alertes": [
-    "Xbox reportedly set to lay off hundreds more staff and \"consolidate\" several game studios in second round of major cuts this year"
+    "Reaction: Did Fans Just Bring Destiny Back from the Dead?"
   ]
 };
