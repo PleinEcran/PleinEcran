@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "22/09/2026 à 16h21",
+  "collecte": "22/09/2026 à 18h24",
   "seuil": 14,
   "sujets": [
     {
@@ -14,8 +14,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 4,
-      "heures": 2.0,
-      "chaleur": 22,
+      "heures": 4.1,
+      "chaleur": 20,
       "liens": [
         {
           "source": "Game Developer",
@@ -49,7 +49,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 14,
       "liens": [
         {
@@ -77,7 +77,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.7,
       "chaleur": 14,
       "liens": [
         {
@@ -88,26 +88,32 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-confirms-job-losses-and-studio-changes-activision-to-ma",
-      "titre": "Xbox Confirms Job Losses and Studio Changes, Activision to Make Next Halo Game",
-      "url": "https://www.pushsquare.com/news/2026/09/xbox-confirms-job-losses-and-studio-changes-activision-to-make-next-halo-game",
+      "id": "following-a-strong-start-rebel-wolves-line-up-the-blood-of-d",
+      "titre": "Following a strong start, Rebel Wolves line up The Blood of Dawnwalker's first big patch for next month, adding in a new, easier difficulty mode and more",
+      "url": "https://www.rockpapershotgun.com/following-a-strong-start-rebel-wolves-line-up-the-blood-of-dawnwalkers-first-big-patch-for-next-month-adding-in-a-new-easier-difficulty-mode-and-more",
       "sources": [
-        "GamesIndustry.biz",
-        "Push Square"
+        "Eurogamer",
+        "Push Square",
+        "Rock Paper Shotgun"
       ],
-      "reprises": 2,
-      "heures": 2.1,
-      "chaleur": 14,
+      "reprises": 3,
+      "heures": 1.9,
+      "chaleur": 12,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/xbox-confirms-job-losses-and-studio-changes-activision-to-make-next-halo-game",
-          "titre": "Xbox Confirms Job Losses and Studio Changes, Activision to Make Next Halo Game"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/following-a-strong-start-rebel-wolves-line-up-the-blood-of-dawnwalkers-first-big-patch-for-next-month-adding-in-a-new-easier-difficulty-mode-and-more",
+          "titre": "Following a strong start, Rebel Wolves line up The Blood of Dawnwalker's first big patch for next month, adding in a new, easier difficulty mode and more"
         },
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure",
-          "titre": "Xbox transfers Rare and Halo franchise to Activision, proposes closure of Ninja Theory, and confirms another 268 roles cut amid studio restructure"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/dawnwalkers-first-big-ps5-patch-adds-an-even-easier-difficulty-mode-and-improves-combat",
+          "titre": "Dawnwalker's First Big PS5 Patch Adds an Even Easier Difficulty Mode and Improves Combat"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/blood-of-dawnwalker-difficulty-combat-patch-update",
+          "titre": "The Blood of Dawnwalker getting a new difficulty option, combat changes and more in game's first \"big\" patch scheduled for early October"
         }
       ]
     },
@@ -120,7 +126,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 0.0,
+      "heures": 2.1,
       "chaleur": 12,
       "liens": [
         {
@@ -136,26 +142,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-thought-people-would-leave-hideo-kojima-offers-his-accoun",
-      "titre": "\"I thought people would leave\": Hideo Kojima offers his account of Physint's switch from PlayStation to Xbox, as his studio insist they're in a \"healthy, profitable state\"",
-      "url": "https://www.rockpapershotgun.com/i-thought-people-would-leave-hideo-kojima-offers-his-account-of-physints-switch-from-playstation-to-xbox-as-his-studio-insist-theyre-in-a-healthy-profitable-state",
+      "id": "xbox-confirms-job-losses-and-studio-changes-activision-to-ma",
+      "titre": "Xbox Confirms Job Losses and Studio Changes, Activision to Make Next Halo Game",
+      "url": "https://www.pushsquare.com/news/2026/09/xbox-confirms-job-losses-and-studio-changes-activision-to-make-next-halo-game",
       "sources": [
         "GamesIndustry.biz",
-        "Rock Paper Shotgun"
+        "Push Square"
       ],
       "reprises": 2,
-      "heures": 26.9,
+      "heures": 4.2,
       "chaleur": 12,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-thought-people-would-leave-hideo-kojima-offers-his-account-of-physints-switch-from-playstation-to-xbox-as-his-studio-insist-theyre-in-a-healthy-profitable-state",
-          "titre": "\"I thought people would leave\": Hideo Kojima offers his account of Physint's switch from PlayStation to Xbox, as his studio insist they're in a \"healthy, profitable state\""
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/xbox-confirms-job-losses-and-studio-changes-activision-to-make-next-halo-game",
+          "titre": "Xbox Confirms Job Losses and Studio Changes, Activision to Make Next Halo Game"
         },
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/hideo-kojima-couldnt-understand-why-physint-would-be-on-the-list-of-being-cancelled-by-sony",
-          "titre": "Hideo Kojima \"couldn't understand\" why Physint \"would be on the list of being cancelled\" by Sony"
+          "url": "https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure",
+          "titre": "Xbox transfers Rare and Halo franchise to Activision, proposes closure of Ninja Theory, and confirms another 268 roles cut amid studio restructure"
+        }
+      ]
+    },
+    {
+      "id": "state-of-decay-dev-survives-xbox-layoffs-goes-independent-as",
+      "titre": "State of Decay Dev Survives Xbox Layoffs, Goes Independent as Third Game Targets PS5",
+      "url": "https://www.pushsquare.com/news/2026/09/state-of-decay-dev-survives-xbox-layoffs-goes-independent-as-third-game-targets-ps5",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/state-of-decay-dev-survives-xbox-layoffs-goes-independent-as-third-game-targets-ps5",
+          "titre": "State of Decay Dev Survives Xbox Layoffs, Goes Independent as Third Game Targets PS5"
         }
       ]
     },
@@ -167,49 +191,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.1,
       "chaleur": 11,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
           "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs"
-        }
-      ]
-    },
-    {
-      "id": "hellblade-developer-ninja-theory-heading-towards-closure-in",
-      "titre": "Hellblade developer Ninja Theory heading towards closure in new wave of Xbox cuts, as two separate agreements collapse",
-      "url": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
-          "titre": "Hellblade developer Ninja Theory heading towards closure in new wave of Xbox cuts, as two separate agreements collapse"
-        }
-      ]
-    },
-    {
-      "id": "xbox-officially-announces-more-layoffs-and-widespread-change",
-      "titre": "Xbox officially announces more layoffs and widespread changes to its entire studio structure",
-      "url": "https://www.videogameschronicle.com/news/xbox-officially-announces-more-layoffs-and-widespread-changes-to-its-entire-studio-structure/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-officially-announces-more-layoffs-and-widespread-changes-to-its-entire-studio-structure/",
-          "titre": "Xbox officially announces more layoffs and widespread changes to its entire studio structure"
         }
       ]
     },
@@ -222,7 +210,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 6.8,
+      "heures": 8.8,
       "chaleur": 11,
       "liens": [
         {
@@ -247,7 +235,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 10,
       "liens": [
         {
@@ -277,7 +265,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 6.6,
+      "heures": 8.7,
       "chaleur": 10,
       "liens": [
         {
@@ -298,6 +286,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "i-modded-crazy-taxi-into-grand-theft-auto-5",
+      "titre": "I modded Crazy Taxi into Grand Theft Auto 5",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-modded-crazy-taxi-into-grand-theft-auto-5/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 1.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-modded-crazy-taxi-into-grand-theft-auto-5/",
+          "titre": "I modded Crazy Taxi into Grand Theft Auto 5"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/grand-theft-auto-6-key-west-map",
+          "titre": "Grand Theft Auto 6 sleuths are torn on whether a famous Florida locale is in the game or not"
+        }
+      ]
+    },
+    {
       "id": "nintendo-s-zelda-quiz-error-apology-has-led-to-yet-another-e",
       "titre": "Nintendo's Zelda Quiz Error Apology Has Led To... Yet Another Error",
       "url": "https://www.nintendolife.com/news/2026/09/nintendos-zelda-quiz-error-apology-has-led-to-yet-another-error",
@@ -305,7 +317,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 9,
       "liens": [
         {
@@ -323,7 +335,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 9,
       "liens": [
         {
@@ -334,20 +346,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "do-not-rockstar-outlines-modding-rules-before-gta-vi-touche",
-      "titre": "'Do not': Rockstar outlines modding rules before GTA VI touches down",
-      "url": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
+      "id": "hellblade-developer-ninja-theory-heading-towards-closure-in",
+      "titre": "Hellblade developer Ninja Theory heading towards closure in new wave of Xbox cuts, as two separate agreements collapse",
+      "url": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
       "sources": [
-        "Game Developer"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.8,
+      "heures": 4.2,
       "chaleur": 9,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
-          "titre": "'Do not': Rockstar outlines modding rules before GTA VI touches down"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
+          "titre": "Hellblade developer Ninja Theory heading towards closure in new wave of Xbox cuts, as two separate agreements collapse"
+        }
+      ]
+    },
+    {
+      "id": "xbox-officially-announces-more-layoffs-and-widespread-change",
+      "titre": "Xbox officially announces more layoffs and widespread changes to its entire studio structure",
+      "url": "https://www.videogameschronicle.com/news/xbox-officially-announces-more-layoffs-and-widespread-changes-to-its-entire-studio-structure/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-officially-announces-more-layoffs-and-widespread-changes-to-its-entire-studio-structure/",
+          "titre": "Xbox officially announces more layoffs and widespread changes to its entire studio structure"
         }
       ]
     },
@@ -359,7 +389,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 9,
       "liens": [
         {
@@ -378,7 +408,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 16.4,
+      "heures": 18.5,
       "chaleur": 9,
       "liens": [
         {
@@ -394,6 +424,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "want-more-lord-of-the-rings-on-switch-2-cool-two-ports-are-l",
+      "titre": "Want More Lord Of The Rings On Switch 2? Cool, Two Ports Are Launching Next Week",
+      "url": "https://www.nintendolife.com/news/2026/09/want-more-lord-of-the-rings-on-switch-2-cool-two-ports-are-launching-next-week",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/want-more-lord-of-the-rings-on-switch-2-cool-two-ports-are-launching-next-week",
+          "titre": "Want More Lord Of The Rings On Switch 2? Cool, Two Ports Are Launching Next Week"
+        }
+      ]
+    },
+    {
+      "id": "prebuilt-steam-machine-faceplate-screens-are-here-delivering",
+      "titre": "Prebuilt Steam Machine faceplate screens are here, delivering decent, surprisingly cheaper alternatives to Valve-approved DIY builds",
+      "url": "https://www.rockpapershotgun.com/prebuilt-steam-machine-faceplate-screens-are-here-delivering-decent-surprisingly-cheaper-alternatives-to-valve-approved-diy-builds",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/prebuilt-steam-machine-faceplate-screens-are-here-delivering-decent-surprisingly-cheaper-alternatives-to-valve-approved-diy-builds",
+          "titre": "Prebuilt Steam Machine faceplate screens are here, delivering decent, surprisingly cheaper alternatives to Valve-approved DIY builds"
+        }
+      ]
+    },
+    {
+      "id": "review-lego-batman-legacy-of-the-dark-knight-switch-2-open-w",
+      "titre": "Review: LEGO Batman: Legacy Of The Dark Knight (Switch 2) - Open-World Gotham Still Thrills In A Solid Port",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/lego-batman-legacy-of-the-dark-knight",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/lego-batman-legacy-of-the-dark-knight",
+          "titre": "Review: LEGO Batman: Legacy Of The Dark Knight (Switch 2) - Open-World Gotham Still Thrills In A Solid Port"
+        }
+      ]
+    },
+    {
       "id": "today-s-changes-might-get-xbox-a-new-halo-sooner-but-history",
       "titre": "Today's changes might get Xbox a new Halo sooner, but history shows production line development makes for boring games",
       "url": "https://www.rockpapershotgun.com/xboxs-consolidation-plans-might-mean-you-get-a-new-halo-sooner-but-history-shows-production-line-development-makes-for-boring-games",
@@ -401,7 +485,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 8,
       "liens": [
         {
@@ -419,67 +503,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.7,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/banjo-kazooie-developer-rare-is-now-reporting-directly-to-activision",
           "titre": "Banjo-Kazooie Developer Rare Is Now Reporting Directly To Activision"
-        }
-      ]
-    },
-    {
-      "id": "sony-appears-to-be-testing-playstation-store-credit-offers-w",
-      "titre": "Sony appears to be testing PlayStation Store credit offers when you buy certain games",
-      "url": "https://www.eurogamer.net/playstation-store-wallet-credits-rewards",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/playstation-store-wallet-credits-rewards",
-          "titre": "Sony appears to be testing PlayStation Store credit offers when you buy certain games"
-        }
-      ]
-    },
-    {
-      "id": "i-taught-an-old-man-new-tunes-in-rhythm-action-shopkeeper-si",
-      "titre": "I taught an old man new tunes in rhythm-action shopkeeper sim Mr. Records, and now you can try the demo yourself",
-      "url": "https://www.rockpapershotgun.com/i-taught-an-old-man-new-tunes-in-rhythm-action-shopkeeper-sim-mr-records-and-now-you-can-try-the-demo-yourself",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-taught-an-old-man-new-tunes-in-rhythm-action-shopkeeper-sim-mr-records-and-now-you-can-try-the-demo-yourself",
-          "titre": "I taught an old man new tunes in rhythm-action shopkeeper sim Mr. Records, and now you can try the demo yourself"
-        }
-      ]
-    },
-    {
-      "id": "pok-mon-tcg-scalper-reportedly-arrested-for-punching-a-man-i",
-      "titre": "Pokémon TCG Scalper Reportedly Arrested For Punching A Man In Latest Pathetic Incident",
-      "url": "https://www.nintendolife.com/news/2026/09/pokemon-tcg-scalper-reportedly-arrested-for-punching-a-man-in-latest-pathetic-incident",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/pokemon-tcg-scalper-reportedly-arrested-for-punching-a-man-in-latest-pathetic-incident",
-          "titre": "Pokémon TCG Scalper Reportedly Arrested For Punching A Man In Latest Pathetic Incident"
         }
       ]
     },
@@ -491,13 +521,31 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.5,
       "chaleur": 8,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/io-interactive-had-no-choice-but-to-delay-switch-2-launch-of-007-first-light-for-a-third-time",
           "titre": "IO Interactive \"had no choice\" but to delay Switch 2 launch of 007 First Light for a third time"
+        }
+      ]
+    },
+    {
+      "id": "do-not-rockstar-outlines-modding-rules-before-gta-vi-touche",
+      "titre": "'Do not': Rockstar outlines modding rules before GTA VI touches down",
+      "url": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
+          "titre": "'Do not': Rockstar outlines modding rules before GTA VI touches down"
         }
       ]
     },
@@ -509,37 +557,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/guides/where-to-pre-order-the-legend-of-zelda-ocarina-of-time-and-zelda-nintendo-switch-2-console",
           "titre": "Guide: Where To Pre-Order The Legend Of Zelda: Ocarina Of Time & Zelda Nintendo Switch 2 Console"
-        }
-      ]
-    },
-    {
-      "id": "i-had-to-fight-sonic-boss-takashi-iizuka-reveals-sega-wante",
-      "titre": "\"I Had To Fight\" - Sonic Boss Takashi Iizuka Reveals Sega Wanted To Cancel Entire Sonic Franchise",
-      "url": "https://www.nintendolife.com/news/2026/09/i-had-to-fight-sonic-boss-takashi-iizuka-reveals-sega-wanted-to-cancel-entire-sonic-franchise",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 5.6,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/i-had-to-fight-sonic-boss-takashi-iizuka-reveals-sega-wanted-to-cancel-entire-sonic-franchise",
-          "titre": "\"I Had To Fight\" - Sonic Boss Takashi Iizuka Reveals Sega Wanted To Cancel Entire Sonic Franchise"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sega-wanted-to-cancel-the-entire-sonic-series-but-the-first-movie-saved-it-says-sonic-team-head-iizuka/",
-          "titre": "Sega wanted to cancel the entire Sonic series but the first movie saved it, says Sonic Team head Iizuka"
         }
       ]
     },
@@ -551,37 +575,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.2,
       "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/nintendo-is-doing-its-best-to-make-sure-switch-overtakes-ps2",
           "titre": "Nintendo Is Doing Its Best To Make Sure Switch Overtakes PS2"
-        }
-      ]
-    },
-    {
-      "id": "final-fantasy-vii-revelation-includes-auto-level-up-option-f",
-      "titre": "Final Fantasy VII Revelation Includes Auto Level-Up Option For Players Who Skip Side Quests",
-      "url": "https://www.nintendolife.com/news/2026/09/final-fantasy-vii-revelation-includes-auto-level-up-option-for-players-who-skip-side-quests",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 11.6,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/final-fantasy-vii-revelation-includes-auto-level-up-option-for-players-who-skip-side-quests",
-          "titre": "Final Fantasy VII Revelation Includes Auto Level-Up Option For Players Who Skip Side Quests"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-will-offer-automatic-level-ups-if-you-ignore-side-stuff",
-          "titre": "Final Fantasy 7 Revelation Will Offer Automatic Level Ups If You Ignore Side Stuff"
         }
       ]
     },
@@ -712,20 +712,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "chinajoy",
-      "titre": "ChinaJoy",
-      "url": "https://www.gamedeveloper.comen.chinajoy.net",
+      "id": "ps-plus-discount-for-one-of-ps5-s-best-new-indie-games",
+      "titre": "PS Plus Discount for One of PS5's Best New Indie Games",
+      "url": "https://www.pushsquare.com/news/2026/09/ps-plus-discount-for-one-of-ps5s-best-new-indie-games",
       "sources": [
-        "Game Developer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 0.2,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.comen.chinajoy.net",
-          "titre": "ChinaJoy"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/ps-plus-discount-for-one-of-ps5s-best-new-indie-games",
+          "titre": "PS Plus Discount for One of PS5's Best New Indie Games"
+        }
+      ]
+    },
+    {
+      "id": "silent-hill-townfall-medical-clinic-scales-puzzle-solution",
+      "titre": "Silent Hill Townfall: Medical clinic scales puzzle solution",
+      "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-medical-clinic-scales-puzzle-solution/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-medical-clinic-scales-puzzle-solution/",
+          "titre": "Silent Hill Townfall: Medical clinic scales puzzle solution"
+        }
+      ]
+    },
+    {
+      "id": "love-em-or-hate-em-if-it-weren-t-for-the-sonic-the-hedgehog",
+      "titre": "Love 'em or hate 'em, if it weren't for the Sonic the Hedgehog films, the blue blur might have been canned entirely, so says series boss Takashi Iizuka",
+      "url": "https://www.rockpapershotgun.com/love-em-or-hate-em-if-it-werent-for-the-sonic-the-hedgehog-films-the-blue-blur-might-have-been-canned-entirely-so-says-series-boss-takashi-iizuka",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/love-em-or-hate-em-if-it-werent-for-the-sonic-the-hedgehog-films-the-blue-blur-might-have-been-canned-entirely-so-says-series-boss-takashi-iizuka",
+          "titre": "Love 'em or hate 'em, if it weren't for the Sonic the Hedgehog films, the blue blur might have been canned entirely, so says series boss Takashi Iizuka"
+        }
+      ]
+    },
+    {
+      "id": "i-set-out-to-prove-polling-rate-affects-my-aim-and-instead-f",
+      "titre": "I set out to prove polling rate affects my aim and instead found my favourite DPI setting",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/i-set-out-to-prove-polling-rate-affects-my-aim-and-instead-found-my-favourite-dpi-setting/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/i-set-out-to-prove-polling-rate-affects-my-aim-and-instead-found-my-favourite-dpi-setting/",
+          "titre": "I set out to prove polling rate affects my aim and instead found my favourite DPI setting"
+        }
+      ]
+    },
+    {
+      "id": "rumour-next-halo-game-will-be-a-new-mainline-instalment-cast",
+      "titre": "Rumour: Next Halo Game Will Be a New 'Mainline Instalment', Casting Doubt on More Remakes",
+      "url": "https://www.pushsquare.com/news/2026/09/rumour-next-halo-game-will-be-a-new-mainline-instalment-casting-doubt-on-more-remakes",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/rumour-next-halo-game-will-be-a-new-mainline-instalment-casting-doubt-on-more-remakes",
+          "titre": "Rumour: Next Halo Game Will Be a New 'Mainline Instalment', Casting Doubt on More Remakes"
         }
       ]
     },
@@ -737,13 +809,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/francesca-baerald-game-map-art-book",
           "titre": "Artist who hand-paints some of gaming's best fantasy world maps brings them together in oversized and extremely lavish art book"
+        }
+      ]
+    },
+    {
+      "id": "what-the-hell-are-you-guys-doing",
+      "titre": "What the hell are you guys doing?",
+      "url": "https://www.pcgamer.com/gaming-industry/what-the-hell-are-you-guys-doing/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/what-the-hell-are-you-guys-doing/",
+          "titre": "What the hell are you guys doing?"
         }
       ]
     },
@@ -755,7 +845,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -773,7 +863,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -791,7 +881,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -809,7 +899,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -827,7 +917,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -845,7 +935,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -863,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -881,13 +971,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/processors/amds-market-cap-just-blasted-through-the-usd1-trillion-barrier/",
           "titre": "AMD's market cap just blasted through the $1 trillion barrier"
+        }
+      ]
+    },
+    {
+      "id": "escape-from-tarkov-dev-wants-to-bet-on-risky-games-with-its",
+      "titre": "Escape From Tarkov dev wants to bet on 'risky' games with its new publishing arm",
+      "url": "https://www.gamedeveloper.com/business/escape-from-tarkov-dev-wants-to-bet-on-risky-games-with-its-new-publishing-arm",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 3.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/escape-from-tarkov-dev-wants-to-bet-on-risky-games-with-its-new-publishing-arm",
+          "titre": "Escape From Tarkov dev wants to bet on 'risky' games with its new publishing arm"
         }
       ]
     },
@@ -899,7 +1007,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -917,7 +1025,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -928,74 +1036,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "dragon-s-dogma-2-dev-says-there-s-a-significant-gap-in-what",
-      "titre": "Dragon's Dogma 2 Dev Says There's a 'Significant Gap' in What Western and Eastern Players Want",
-      "url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-dev-says-theres-a-significant-gap-in-what-western-and-eastern-players-want",
+      "id": "sony-appears-to-be-testing-playstation-store-credit-offers-w",
+      "titre": "Sony appears to be testing PlayStation Store credit offers when you buy certain games",
+      "url": "https://www.eurogamer.net/playstation-store-wallet-credits-rewards",
       "sources": [
-        "Push Square"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.9,
+      "heures": 5.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-dev-says-theres-a-significant-gap-in-what-western-and-eastern-players-want",
-          "titre": "Dragon's Dogma 2 Dev Says There's a 'Significant Gap' in What Western and Eastern Players Want"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/playstation-store-wallet-credits-rewards",
+          "titre": "Sony appears to be testing PlayStation Store credit offers when you buy certain games"
         }
       ]
     },
     {
-      "id": "woah-here-s-a-tech-ceo-saying-the-memory-crisis-won-t-be-as",
-      "titre": "Woah, here's a tech CEO saying the memory crisis won't be as bad as everyone expects",
-      "url": "https://www.pcgamer.com/hardware/memory/woah-heres-a-tech-ceo-saying-the-memory-crisis-wont-be-as-bad-as-everyone-expects/",
+      "id": "i-taught-an-old-man-new-tunes-in-rhythm-action-shopkeeper-si",
+      "titre": "I taught an old man new tunes in rhythm-action shopkeeper sim Mr. Records, and now you can try the demo yourself",
+      "url": "https://www.rockpapershotgun.com/i-taught-an-old-man-new-tunes-in-rhythm-action-shopkeeper-sim-mr-records-and-now-you-can-try-the-demo-yourself",
       "sources": [
-        "PC Gamer"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 3.0,
+      "heures": 5.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/memory/woah-heres-a-tech-ceo-saying-the-memory-crisis-wont-be-as-bad-as-everyone-expects/",
-          "titre": "Woah, here's a tech CEO saying the memory crisis won't be as bad as everyone expects"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/i-taught-an-old-man-new-tunes-in-rhythm-action-shopkeeper-sim-mr-records-and-now-you-can-try-the-demo-yourself",
+          "titre": "I taught an old man new tunes in rhythm-action shopkeeper sim Mr. Records, and now you can try the demo yourself"
         }
       ]
     },
     {
-      "id": "ranking-resident-evil-villains-based-on-whether-i-think-i-co",
-      "titre": "Ranking Resident Evil villains based on whether I think I could change them",
-      "url": "https://www.pcgamer.com/games/resident-evil/ranking-resident-evil-villains-based-on-whether-i-think-i-could-change-them/",
+      "id": "pok-mon-tcg-scalper-reportedly-arrested-for-punching-a-man-i",
+      "titre": "Pokémon TCG Scalper Reportedly Arrested For Punching A Man In Latest Pathetic Incident",
+      "url": "https://www.nintendolife.com/news/2026/09/pokemon-tcg-scalper-reportedly-arrested-for-punching-a-man-in-latest-pathetic-incident",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.1,
+      "heures": 5.7,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/resident-evil/ranking-resident-evil-villains-based-on-whether-i-think-i-could-change-them/",
-          "titre": "Ranking Resident Evil villains based on whether I think I could change them"
-        }
-      ]
-    },
-    {
-      "id": "one-of-2026-s-best-rated-ps5-games-is-out-today-and-you-prob",
-      "titre": "One of 2026's Best-Rated PS5 Games Is Out Today, and You Probably Don't Even Know It",
-      "url": "https://www.pushsquare.com/news/2026/09/one-of-2026s-best-rated-ps5-games-is-out-today-and-you-probably-dont-even-know-it",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/one-of-2026s-best-rated-ps5-games-is-out-today-and-you-probably-dont-even-know-it",
-          "titre": "One of 2026's Best-Rated PS5 Games Is Out Today, and You Probably Don't Even Know It"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/pokemon-tcg-scalper-reportedly-arrested-for-punching-a-man-in-latest-pathetic-incident",
+          "titre": "Pokémon TCG Scalper Reportedly Arrested For Punching A Man In Latest Pathetic Incident"
         }
       ]
     },
@@ -1007,7 +1097,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 6,
       "liens": [
         {
@@ -1025,7 +1115,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 6,
       "liens": [
         {
@@ -1043,7 +1133,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 9.0,
       "chaleur": 6,
       "liens": [
         {
@@ -1061,37 +1151,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.0,
+      "heures": 23.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta-6-rockstar-games-mod-guidelines-restrictions",
           "titre": "Weeks before GTA 6, Rockstar Games imposes new guidelines that restrict mods for missions, maps, updated storylines, and third-party IP"
-        }
-      ]
-    },
-    {
-      "id": "dawnwalker-s-first-big-ps5-patch-adds-an-even-easier-difficu",
-      "titre": "Dawnwalker's First Big PS5 Patch Adds an Even Easier Difficulty Mode and Improves Combat",
-      "url": "https://www.pushsquare.com/news/2026/09/dawnwalkers-first-big-ps5-patch-adds-an-even-easier-difficulty-mode-and-improves-combat",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 22.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/dawnwalkers-first-big-ps5-patch-adds-an-even-easier-difficulty-mode-and-improves-combat",
-          "titre": "Dawnwalker's First Big PS5 Patch Adds an Even Easier Difficulty Mode and Improves Combat"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blood-of-dawnwalker-difficulty-combat-patch-update",
-          "titre": "The Blood of Dawnwalker getting a new difficulty option, combat changes and more in game's first \"big\" patch scheduled for early October"
         }
       ]
     },
@@ -1104,7 +1170,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 22.9,
+      "heures": 25.0,
       "chaleur": 6,
       "liens": [
         {
@@ -1118,84 +1184,7 @@ const VEILLE = {
           "titre": "Feature: Indie Games Survey 2026"
         }
       ]
-    },
-    {
-      "id": "french-publisher-dear-villagers-confirms-layoffs",
-      "titre": "French publisher Dear Villagers confirms layoffs",
-      "url": "https://www.gamedeveloper.com/business/french-publisher-dear-villagers-confirms-layoffs",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 25.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/french-publisher-dear-villagers-confirms-layoffs",
-          "titre": "French publisher Dear Villagers confirms layoffs"
-        }
-      ]
-    },
-    {
-      "id": "runescape-dragonwilds-rolls-out-its-first-update-for-switch",
-      "titre": "RuneScape: Dragonwilds Rolls Out Its First Update For Switch 2 Adventurers",
-      "url": "https://www.nintendolife.com/news/2026/09/runescape-dragonwilds-rolls-out-its-first-update-for-switch-2-adventurers",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 13.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/runescape-dragonwilds-rolls-out-its-first-update-for-switch-2-adventurers",
-          "titre": "RuneScape: Dragonwilds Rolls Out Its First Update For Switch 2 Adventurers"
-        }
-      ]
-    },
-    {
-      "id": "it-s-sad-and-devastating-black-myth-wukong-s-physical-publi",
-      "titre": "\"It's sad and devastating\" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs",
-      "url": "https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 23.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs",
-          "titre": "\"It's sad and devastating\" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs"
-        }
-      ]
-    },
-    {
-      "id": "the-steam-frame-s-first-post-launch-update-speeds-up-chargin",
-      "titre": "The Steam Frame’s first post-launch update speeds up charging and ungarbles a mic bug",
-      "url": "https://www.rockpapershotgun.com/the-steam-frames-first-post-launch-update-speeds-up-charging-and-ungarbles-a-mic-bug",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 27.5,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-steam-frames-first-post-launch-update-speeds-up-charging-and-ungarbles-a-mic-bug",
-          "titre": "The Steam Frame’s first post-launch update speeds up charging and ungarbles a mic bug"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "Xbox continues 'reset' with Halo Studios layoffs and Undead Labs divestment",
-    "Xbox lays off 268 more employees, merges Obsidian into Bethesda, and puts Activision in charge of Halo",
-    "Xbox confirms 268 more layoffs, further studio closures, and Obsidian's shift to Bethesda as major restructuring continues",
-    "Xbox Confirms Job Losses and Studio Changes, Activision to Make Next Halo Game"
-  ]
+  "alertes": []
 };
