@@ -1,8 +1,32 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "21/09/2026 à 22h19",
+  "collecte": "22/09/2026 à 00h26",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "pok-mon-ruby-sapphire-hd-footage-reignites-rumours-about-swi",
+      "titre": "Pokémon Ruby & Sapphire HD Footage Reignites Rumours About Switch Ports",
+      "url": "https://www.nintendolife.com/news/2026/09/pokemon-ruby-and-sapphire-hd-footage-reignites-rumours-about-switch-ports",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 0.5,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/pokemon-ruby-and-sapphire-hd-footage-reignites-rumours-about-switch-ports",
+          "titre": "Pokémon Ruby & Sapphire HD Footage Reignites Rumours About Switch Ports"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/nintendo-switch-pokemon-ruby-sapphire-hd-port",
+          "titre": "Nintendo Switch ports of Pokémon Ruby and Sapphire look even more likely after official account shares suspiciously HD footage of the GBA games"
+        }
+      ]
+    },
     {
       "id": "hideo-kojima-doesn-t-know-if-physint-will-be-released-on-ps5",
       "titre": "Hideo Kojima doesn't know if Physint will be released on PS5, and he hasn't decided if it's going to use Sony's Decima game engine",
@@ -12,7 +36,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 7.7,
+      "heures": 9.8,
       "chaleur": 10,
       "liens": [
         {
@@ -28,36 +52,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "this-week-in-pc-games-control-resonant-silent-hill-townfall",
-      "titre": "This week in PC games: Control: Resonant, Silent Hill: Townfall, and the history of Western philosophy as a pinball table",
-      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-control-resonant-silent-hill-townfall-and-the-history-of-western-philosophy-as-a-pinball-table",
-      "sources": [
-        "Eurogamer",
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 11.0,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-control-resonant-silent-hill-townfall-and-the-history-of-western-philosophy-as-a-pinball-table",
-          "titre": "This week in PC games: Control: Resonant, Silent Hill: Townfall, and the history of Western philosophy as a pinball table"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/silent-hill-townfall-review",
-          "titre": "Silent Hill: Townfall review"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/silent-hill-townfall",
-          "titre": "Review: Silent Hill: Townfall (PS5) - Dated Bite-Sized Horror... in a Good Way"
-        }
-      ]
-    },
-    {
       "id": "007-first-light-was-delayed-on-switch-2-for-a-third-time-to",
       "titre": "007 First Light was delayed on Switch 2 for a third time to let players experience it ‘as fully as possible’, IO says",
       "url": "https://www.videogameschronicle.com/news/007-first-light-was-delayed-on-switch-2-for-a-third-time-to-let-players-experience-it-as-fully-as-possible-io-says/",
@@ -66,7 +60,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 12.1,
+      "heures": 14.3,
       "chaleur": 10,
       "liens": [
         {
@@ -90,7 +84,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 1.1,
+      "heures": 3.2,
       "chaleur": 9,
       "liens": [
         {
@@ -114,7 +108,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.8,
+      "heures": 3.9,
       "chaleur": 9,
       "liens": [
         {
@@ -130,6 +124,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "this-week-in-pc-games-control-resonant-silent-hill-townfall",
+      "titre": "This week in PC games: Control: Resonant, Silent Hill: Townfall, and the history of Western philosophy as a pinball table",
+      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-control-resonant-silent-hill-townfall-and-the-history-of-western-philosophy-as-a-pinball-table",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 13.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-control-resonant-silent-hill-townfall-and-the-history-of-western-philosophy-as-a-pinball-table",
+          "titre": "This week in PC games: Control: Resonant, Silent Hill: Townfall, and the history of Western philosophy as a pinball table"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/silent-hill-townfall-review",
+          "titre": "Silent Hill: Townfall review"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/silent-hill-townfall",
+          "titre": "Review: Silent Hill: Townfall (PS5) - Dated Bite-Sized Horror... in a Good Way"
+        }
+      ]
+    },
+    {
       "id": "weeks-before-gta-6-rockstar-games-imposes-new-guidelines-tha",
       "titre": "Weeks before GTA 6, Rockstar Games imposes new guidelines that restrict mods for missions, maps, updated storylines, and third-party IP",
       "url": "https://www.eurogamer.net/gta-6-rockstar-games-mod-guidelines-restrictions",
@@ -137,49 +161,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 9,
+      "heures": 5.0,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta-6-rockstar-games-mod-guidelines-restrictions",
           "titre": "Weeks before GTA 6, Rockstar Games imposes new guidelines that restrict mods for missions, maps, updated storylines, and third-party IP"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-switch-ports-of-pok-mon-ruby-and-sapphire-look-even",
-      "titre": "Nintendo Switch ports of Pokémon Ruby and Sapphire look even more likely after official account shares suspiciously HD footage of the GBA games",
-      "url": "https://www.eurogamer.net/nintendo-switch-pokemon-ruby-sapphire-hd-port",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nintendo-switch-pokemon-ruby-sapphire-hd-port",
-          "titre": "Nintendo Switch ports of Pokémon Ruby and Sapphire look even more likely after official account shares suspiciously HD footage of the GBA games"
-        }
-      ]
-    },
-    {
-      "id": "with-the-death-of-boxed-playstation-games-incoming-sony-reco",
-      "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026",
-      "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
-          "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026"
         }
       ]
     },
@@ -192,7 +180,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 4.8,
+      "heures": 6.9,
       "chaleur": 7,
       "liens": [
         {
@@ -216,7 +204,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 4.9,
+      "heures": 7.0,
       "chaleur": 7,
       "liens": [
         {
@@ -239,7 +227,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 7,
       "liens": [
         {
@@ -257,7 +245,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 7,
       "liens": [
         {
@@ -276,7 +264,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.8,
+      "heures": 9.9,
       "chaleur": 7,
       "liens": [
         {
@@ -300,7 +288,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 8.6,
+      "heures": 10.7,
       "chaleur": 7,
       "liens": [
         {
@@ -323,7 +311,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 11.0,
       "chaleur": 7,
       "liens": [
         {
@@ -334,20 +322,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ahead-of-gta-6-rockstar-warn-modders-against-making-unoffici",
-      "titre": "Ahead of GTA 6, Rockstar warn modders against making unofficial main story expansions, unauthorised ports and mods that combine GTA maps",
-      "url": "https://www.rockpapershotgun.com/ahead-of-gta-6-rockstar-warn-modders-against-against-making-unofficial-main-story-expansions-unauthorised-ports-and-mods-that-combine-gta-maps",
+      "id": "with-the-death-of-boxed-playstation-games-incoming-sony-reco",
+      "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026",
+      "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
       "sources": [
-        "Rock Paper Shotgun"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.5,
+      "heures": 12.4,
       "chaleur": 7,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ahead-of-gta-6-rockstar-warn-modders-against-against-making-unofficial-main-story-expansions-unauthorised-ports-and-mods-that-combine-gta-maps",
-          "titre": "Ahead of GTA 6, Rockstar warn modders against making unofficial main story expansions, unauthorised ports and mods that combine GTA maps"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
+          "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026"
         }
       ]
     },
@@ -550,6 +538,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "bungie-unvaulting-destiny-2-content-was-a-studio-saving-emer",
+      "titre": "Bungie unvaulting Destiny 2 content was a studio-saving emergency decision, because Marathon updates were never going to be enough",
+      "url": "https://www.pcgamer.com/games/fps/bungie-unvaulting-destiny-2-content-was-a-studio-saving-emergency-decision-because-marathon-updates-were-never-going-to-be-enough/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/bungie-unvaulting-destiny-2-content-was-a-studio-saving-emergency-decision-because-marathon-updates-were-never-going-to-be-enough/",
+          "titre": "Bungie unvaulting Destiny 2 content was a studio-saving emergency decision, because Marathon updates were never going to be enough"
+        }
+      ]
+    },
+    {
       "id": "huge-30gb-update-prepares-ghost-of-yotei-for-dlc-some-featur",
       "titre": "Huge 30GB Update Prepares Ghost of Yotei for DLC, Some Features Already Live Now",
       "url": "https://www.pushsquare.com/news/2026/09/huge-30gb-update-prepares-ghost-of-yotei-for-dlc-some-features-already-live-now",
@@ -557,7 +563,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 1.4,
       "chaleur": 6,
       "liens": [
         {
@@ -575,85 +581,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/fps/all-roads-lead-back-to-arma/",
           "titre": "'All roads lead back to Arma'"
-        }
-      ]
-    },
-    {
-      "id": "rockstar-asks-modders-to-please-take-its-games-very-seriousl",
-      "titre": "Rockstar asks modders to please take its games very seriously",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-asks-modders-to-please-take-its-games-very-seriously/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-asks-modders-to-please-take-its-games-very-seriously/",
-          "titre": "Rockstar asks modders to please take its games very seriously"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-players-competing-over-enemies-is",
-      "titre": "World of Warcraft: Forever players competing over enemies is 'extremely important' to the experience, Blizzard says: 'This is one of those things that we simply must hold the line on'",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-competing-over-enemies-is-extremely-important-to-the-experience-blizzard-says-this-is-one-of-those-things-that-we-simply-must-hold-the-line-on/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-competing-over-enemies-is-extremely-important-to-the-experience-blizzard-says-this-is-one-of-those-things-that-we-simply-must-hold-the-line-on/",
-          "titre": "World of Warcraft: Forever players competing over enemies is 'extremely important' to the experience, Blizzard says: 'This is one of those things that we simply must hold the line on'"
-        }
-      ]
-    },
-    {
-      "id": "we-intend-to-earn-back-your-trust-bungie-announces-plans-to",
-      "titre": "‘We intend to earn back your trust’: Bungie announces plans to bring back Destiny 2 and improve Marathon",
-      "url": "https://www.videogameschronicle.com/news/we-intend-to-earn-back-your-trust-bungie-announces-plans-to-bring-back-destiny-2-and-improve-marathon/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/we-intend-to-earn-back-your-trust-bungie-announces-plans-to-bring-back-destiny-2-and-improve-marathon/",
-          "titre": "‘We intend to earn back your trust’: Bungie announces plans to bring back Destiny 2 and improve Marathon"
-        }
-      ]
-    },
-    {
-      "id": "sony-appears-to-censor-lgbtq-content-in-marvel-s-wolverine-f",
-      "titre": "Sony appears to censor LGBTQ content in Marvel's Wolverine for some regions",
-      "url": "https://www.gamedeveloper.com/console/sony-appears-to-censor-lgbtq-content-marvel-s-wolverine-for-some-regions",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/sony-appears-to-censor-lgbtq-content-marvel-s-wolverine-for-some-regions",
-          "titre": "Sony appears to censor LGBTQ content in Marvel's Wolverine for some regions"
         }
       ]
     },
@@ -665,7 +599,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 8.0,
       "chaleur": 6,
       "liens": [
         {
@@ -683,7 +617,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.5,
       "chaleur": 6,
       "liens": [
         {
@@ -694,20 +628,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "microsoft-patents-idea-for-in-game-pc-and-xbox-adverts-shown",
-      "titre": "Microsoft patents idea for in-game PC and Xbox adverts shown during downtime \"trigger events\"",
-      "url": "https://www.eurogamer.net/microsoft-patent-ads-in-gameplay",
+      "id": "ahead-of-gta-6-rockstar-warn-modders-against-making-unoffici",
+      "titre": "Ahead of GTA 6, Rockstar warn modders against making unofficial main story expansions, unauthorised ports and mods that combine GTA maps",
+      "url": "https://www.rockpapershotgun.com/ahead-of-gta-6-rockstar-warn-modders-against-against-making-unofficial-main-story-expansions-unauthorised-ports-and-mods-that-combine-gta-maps",
       "sources": [
-        "Eurogamer"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.0,
+      "heures": 13.7,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/microsoft-patent-ads-in-gameplay",
-          "titre": "Microsoft patents idea for in-game PC and Xbox adverts shown during downtime \"trigger events\""
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/ahead-of-gta-6-rockstar-warn-modders-against-against-making-unofficial-main-story-expansions-unauthorised-ports-and-mods-that-combine-gta-maps",
+          "titre": "Ahead of GTA 6, Rockstar warn modders against making unofficial main story expansions, unauthorised ports and mods that combine GTA maps"
         }
       ]
     },
@@ -719,7 +653,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 15.0,
       "chaleur": 6,
       "liens": [
         {
@@ -737,7 +671,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.4,
       "chaleur": 6,
       "liens": [
         {
@@ -748,20 +682,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mailbox-wordcrafting-backtracking-one-handed-titles-nintendo",
-      "titre": "Mailbox: Wordcrafting, Backtracking, One-Handed Titles - Nintendo Life Letters",
-      "url": "https://www.nintendolife.com/news/2026/09/mailbox-wordcrafting-backtracking-one-handed-titles-nintendo-life-letters",
+      "id": "microsoft-patents-idea-for-in-game-pc-and-xbox-adverts-shown",
+      "titre": "Microsoft patents idea for in-game PC and Xbox adverts shown during downtime \"trigger events\"",
+      "url": "https://www.eurogamer.net/microsoft-patent-ads-in-gameplay",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 34.3,
+      "heures": 12.1,
       "chaleur": 5,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/mailbox-wordcrafting-backtracking-one-handed-titles-nintendo-life-letters",
-          "titre": "Mailbox: Wordcrafting, Backtracking, One-Handed Titles - Nintendo Life Letters"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/microsoft-patent-ads-in-gameplay",
+          "titre": "Microsoft patents idea for in-game PC and Xbox adverts shown during downtime \"trigger events\""
+        }
+      ]
+    },
+    {
+      "id": "rockstar-asks-modders-to-please-take-its-games-very-seriousl",
+      "titre": "Rockstar asks modders to please take its games very seriously",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-asks-modders-to-please-take-its-games-very-seriously/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-asks-modders-to-please-take-its-games-very-seriously/",
+          "titre": "Rockstar asks modders to please take its games very seriously"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-players-competing-over-enemies-is",
+      "titre": "World of Warcraft: Forever players competing over enemies is 'extremely important' to the experience, Blizzard says: 'This is one of those things that we simply must hold the line on'",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-competing-over-enemies-is-extremely-important-to-the-experience-blizzard-says-this-is-one-of-those-things-that-we-simply-must-hold-the-line-on/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-competing-over-enemies-is-extremely-important-to-the-experience-blizzard-says-this-is-one-of-those-things-that-we-simply-must-hold-the-line-on/",
+          "titre": "World of Warcraft: Forever players competing over enemies is 'extremely important' to the experience, Blizzard says: 'This is one of those things that we simply must hold the line on'"
+        }
+      ]
+    },
+    {
+      "id": "we-intend-to-earn-back-your-trust-bungie-announces-plans-to",
+      "titre": "‘We intend to earn back your trust’: Bungie announces plans to bring back Destiny 2 and improve Marathon",
+      "url": "https://www.videogameschronicle.com/news/we-intend-to-earn-back-your-trust-bungie-announces-plans-to-bring-back-destiny-2-and-improve-marathon/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/we-intend-to-earn-back-your-trust-bungie-announces-plans-to-bring-back-destiny-2-and-improve-marathon/",
+          "titre": "‘We intend to earn back your trust’: Bungie announces plans to bring back Destiny 2 and improve Marathon"
+        }
+      ]
+    },
+    {
+      "id": "sony-appears-to-censor-lgbtq-content-in-marvel-s-wolverine-f",
+      "titre": "Sony appears to censor LGBTQ content in Marvel's Wolverine for some regions",
+      "url": "https://www.gamedeveloper.com/console/sony-appears-to-censor-lgbtq-content-marvel-s-wolverine-for-some-regions",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/console/sony-appears-to-censor-lgbtq-content-marvel-s-wolverine-for-some-regions",
+          "titre": "Sony appears to censor LGBTQ content in Marvel's Wolverine for some regions"
         }
       ]
     },
@@ -773,7 +779,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -791,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -809,7 +815,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -827,7 +833,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +851,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -863,7 +869,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +905,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +923,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.7,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +959,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.7,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +977,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +995,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +1013,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1025,7 +1031,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,7 +1049,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,7 +1067,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1079,7 +1085,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1097,7 +1103,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1115,7 +1121,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1133,7 +1139,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.7,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
