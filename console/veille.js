@@ -1,23 +1,59 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "22/09/2026 à 04h20",
+  "collecte": "22/09/2026 à 06h25",
   "seuil": 14,
   "sujets": [
     {
-      "id": "xbox-will-reportedly-consolidate-several-studios-in-new-majo",
-      "titre": "Xbox will reportedly ‘consolidate several studios’ in new major wave of layoffs",
-      "url": "https://www.videogameschronicle.com/news/xbox-will-reportedly-consolidate-several-studios-in-new-major-wave-of-layoffs/",
+      "id": "xbox-to-reportedly-cut-hundreds-of-jobs-and-consolidate-seve",
+      "titre": "Xbox To Reportedly Cut \"Hundreds Of Jobs\" And Consolidate Several Studios In Next Wave Of Layoffs",
+      "url": "https://www.nintendolife.com/news/2026/09/xbox-to-reportedly-cut-hundreds-of-jobs-and-consolidate-several-studios-in-next-wave-of-layoffs",
       "sources": [
+        "Nintendo Life",
         "VGC"
       ],
-      "reprises": 1,
-      "heures": 0.0,
-      "chaleur": 13,
+      "reprises": 2,
+      "heures": 0.7,
+      "chaleur": 16,
       "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/xbox-to-reportedly-cut-hundreds-of-jobs-and-consolidate-several-studios-in-next-wave-of-layoffs",
+          "titre": "Xbox To Reportedly Cut \"Hundreds Of Jobs\" And Consolidate Several Studios In Next Wave Of Layoffs"
+        },
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/xbox-will-reportedly-consolidate-several-studios-in-new-major-wave-of-layoffs/",
           "titre": "Xbox will reportedly ‘consolidate several studios’ in new major wave of layoffs"
+        }
+      ]
+    },
+    {
+      "id": "final-fantasy-vii-revelation-includes-auto-level-up-option-f",
+      "titre": "Final Fantasy VII Revelation Includes Auto Level-Up Option For Players Who Skip Side Quests",
+      "url": "https://www.nintendolife.com/news/2026/09/final-fantasy-vii-revelation-includes-auto-level-up-option-for-players-who-skip-side-quests",
+      "sources": [
+        "Nintendo Life",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 1.7,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/final-fantasy-vii-revelation-includes-auto-level-up-option-for-players-who-skip-side-quests",
+          "titre": "Final Fantasy VII Revelation Includes Auto Level-Up Option For Players Who Skip Side Quests"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-will-offer-automatic-level-ups-if-you-ignore-side-stuff",
+          "titre": "Final Fantasy 7 Revelation Will Offer Automatic Level Ups If You Ignore Side Stuff"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/final-fantasy-revelation-will-let-players-automatically-raise-their-characters-level-to-skip-grinding/",
+          "titre": "Final Fantasy 7 Revelation will let players raise their character’s level automatically to skip grinding"
         }
       ]
     },
@@ -30,8 +66,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 3.4,
-      "chaleur": 12,
+      "heures": 5.5,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -55,8 +91,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 3.5,
-      "chaleur": 12,
+      "heures": 5.6,
+      "chaleur": 10,
       "liens": [
         {
           "source": "VGC",
@@ -76,26 +112,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "should-action-games-let-us-skip-the-action",
-      "titre": "Should action games let us skip the action?",
-      "url": "https://www.pcgamer.com/games/should-action-games-let-us-skip-the-action/",
+      "id": "how-about-that-starcraft-trailer-eh",
+      "titre": "How about that StarCraft trailer, eh",
+      "url": "https://www.pcgamer.com/games/how-about-that-starcraft-trailer-eh/",
       "sources": [
         "PC Gamer",
-        "VGC"
+        "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.6,
+      "heures": 0.4,
       "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/should-action-games-let-us-skip-the-action/",
-          "titre": "Should action games let us skip the action?"
+          "url": "https://www.pcgamer.com/games/how-about-that-starcraft-trailer-eh/",
+          "titre": "How about that StarCraft trailer, eh"
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/final-fantasy-revelation-will-let-players-automatically-raise-their-characters-level-to-skip-grinding/",
-          "titre": "Final Fantasy 7 Revelation will let players raise their character’s level automatically to skip grinding"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/i-was-thinking-about-the-possibility-of-atelier-maomao-how-the-apothecary-diaries-became-a-ps5-game",
+          "titre": "Feature: 'I Was Thinking About the Possibility of Atelier Maomao': How The Apothecary Diaries Became a PS5 Game"
         }
       ]
     },
@@ -108,7 +144,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 13.7,
+      "heures": 15.8,
       "chaleur": 9,
       "liens": [
         {
@@ -124,6 +160,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "i-made-a-to-play-shelf-for-myself-on-steam",
+      "titre": "I made a 'to play' shelf for myself on Steam",
+      "url": "https://www.pcgamer.com/games/i-made-a-to-play-shelf-for-myself-on-steam/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/i-made-a-to-play-shelf-for-myself-on-steam/",
+          "titre": "I made a 'to play' shelf for myself on Steam"
+        }
+      ]
+    },
+    {
       "id": "runescape-dragonwilds-rolls-out-its-first-update-for-switch",
       "titre": "RuneScape: Dragonwilds Rolls Out Its First Update For Switch 2 Adventurers",
       "url": "https://www.nintendolife.com/news/2026/09/runescape-dragonwilds-rolls-out-its-first-update-for-switch-2-adventurers",
@@ -131,7 +185,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.9,
       "chaleur": 8,
       "liens": [
         {
@@ -150,7 +204,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 7.1,
+      "heures": 9.2,
       "chaleur": 7,
       "liens": [
         {
@@ -174,7 +228,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 7.8,
+      "heures": 9.9,
       "chaleur": 7,
       "liens": [
         {
@@ -197,79 +251,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 11.0,
       "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta-6-rockstar-games-mod-guidelines-restrictions",
           "titre": "Weeks before GTA 6, Rockstar Games imposes new guidelines that restrict mods for missions, maps, updated storylines, and third-party IP"
-        }
-      ]
-    },
-    {
-      "id": "dawnwalker-s-first-big-ps5-patch-adds-an-even-easier-difficu",
-      "titre": "Dawnwalker's First Big PS5 Patch Adds an Even Easier Difficulty Mode and Improves Combat",
-      "url": "https://www.pushsquare.com/news/2026/09/dawnwalkers-first-big-ps5-patch-adds-an-even-easier-difficulty-mode-and-improves-combat",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 10.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/dawnwalkers-first-big-ps5-patch-adds-an-even-easier-difficulty-mode-and-improves-combat",
-          "titre": "Dawnwalker's First Big PS5 Patch Adds an Even Easier Difficulty Mode and Improves Combat"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blood-of-dawnwalker-difficulty-combat-patch-update",
-          "titre": "The Blood of Dawnwalker getting a new difficulty option, combat changes and more in game's first \"big\" patch scheduled for early October"
-        }
-      ]
-    },
-    {
-      "id": "feature-indie-games-survey-2026",
-      "titre": "Feature: Indie Games Survey 2026",
-      "url": "https://www.pushsquare.com/features/indie-games-survey-2026-ps",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 10.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/indie-games-survey-2026-ps",
-          "titre": "Feature: Indie Games Survey 2026"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/indie-games-survey-2026-nl",
-          "titre": "Feature: Indie Games Survey 2026"
-        }
-      ]
-    },
-    {
-      "id": "gta-5-has-true-air-travel-now-thanks-to-the-mod-i-just-insta",
-      "titre": "GTA 5 has true air travel now thanks to the mod I just installed, but they won't let me give me my pals piggybacks onto the plane",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5-has-true-air-travel-now-thanks-to-the-mod-i-just-installed-but-they-wont-let-me-give-me-my-pals-piggybacks-onto-the-plane/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5-has-true-air-travel-now-thanks-to-the-mod-i-just-installed-but-they-wont-let-me-give-me-my-pals-piggybacks-onto-the-plane/",
-          "titre": "GTA 5 has true air travel now thanks to the mod I just installed, but they won't let me give me my pals piggybacks onto the plane"
         }
       ]
     },
@@ -281,7 +269,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.4,
       "chaleur": 7,
       "liens": [
         {
@@ -299,7 +287,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 20.7,
       "chaleur": 7,
       "liens": [
         {
@@ -508,6 +496,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "i-can-t-be-the-only-one",
+      "titre": "I can't be the only one",
+      "url": "https://www.pcgamer.com/games/i-cant-be-the-only-one/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/i-cant-be-the-only-one/",
+          "titre": "I can't be the only one"
+        }
+      ]
+    },
+    {
+      "id": "battlefield-baby",
+      "titre": "Battlefield Baby",
+      "url": "https://www.pcgamer.com/games/pc-gaming-show-toyko-direct-2026-picks-clone/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/pc-gaming-show-toyko-direct-2026-picks-clone/",
+          "titre": "Battlefield Baby"
+        }
+      ]
+    },
+    {
       "id": "nighthawks-review",
       "titre": "Nighthawks review",
       "url": "https://www.pcgamer.com/games/rpg/nighthawks-review-a-novel-vampire-rpg-thats-also-a-vampire-novels-worth-of-writing/",
@@ -515,13 +539,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/rpg/nighthawks-review-a-novel-vampire-rpg-thats-also-a-vampire-novels-worth-of-writing/",
           "titre": "Nighthawks review"
+        }
+      ]
+    },
+    {
+      "id": "should-action-games-let-us-skip-the-action",
+      "titre": "Should action games let us skip the action?",
+      "url": "https://www.pcgamer.com/games/should-action-games-let-us-skip-the-action/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/should-action-games-let-us-skip-the-action/",
+          "titre": "Should action games let us skip the action?"
         }
       ]
     },
@@ -533,7 +575,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.5,
       "chaleur": 6,
       "liens": [
         {
@@ -544,20 +586,68 @@ const VEILLE = {
       ]
     },
     {
-      "id": "it-s-sad-and-devastating-black-myth-wukong-s-physical-publi",
-      "titre": "\"It's sad and devastating\" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs",
-      "url": "https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs",
+      "id": "dawnwalker-s-first-big-ps5-patch-adds-an-even-easier-difficu",
+      "titre": "Dawnwalker's First Big PS5 Patch Adds an Even Easier Difficulty Mode and Improves Combat",
+      "url": "https://www.pushsquare.com/news/2026/09/dawnwalkers-first-big-ps5-patch-adds-an-even-easier-difficulty-mode-and-improves-combat",
       "sources": [
-        "GamesIndustry.biz"
+        "Eurogamer",
+        "Push Square"
       ],
-      "reprises": 1,
-      "heures": 11.9,
+      "reprises": 2,
+      "heures": 12.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs",
-          "titre": "\"It's sad and devastating\" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/dawnwalkers-first-big-ps5-patch-adds-an-even-easier-difficulty-mode-and-improves-combat",
+          "titre": "Dawnwalker's First Big PS5 Patch Adds an Even Easier Difficulty Mode and Improves Combat"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/blood-of-dawnwalker-difficulty-combat-patch-update",
+          "titre": "The Blood of Dawnwalker getting a new difficulty option, combat changes and more in game's first \"big\" patch scheduled for early October"
+        }
+      ]
+    },
+    {
+      "id": "feature-indie-games-survey-2026",
+      "titre": "Feature: Indie Games Survey 2026",
+      "url": "https://www.pushsquare.com/features/indie-games-survey-2026-ps",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 13.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/indie-games-survey-2026-ps",
+          "titre": "Feature: Indie Games Survey 2026"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/indie-games-survey-2026-nl",
+          "titre": "Feature: Indie Games Survey 2026"
+        }
+      ]
+    },
+    {
+      "id": "gta-5-has-true-air-travel-now-thanks-to-the-mod-i-just-insta",
+      "titre": "GTA 5 has true air travel now thanks to the mod I just installed, but they won't let me give me my pals piggybacks onto the plane",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5-has-true-air-travel-now-thanks-to-the-mod-i-just-installed-but-they-wont-let-me-give-me-my-pals-piggybacks-onto-the-plane/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 13.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5-has-true-air-travel-now-thanks-to-the-mod-i-just-installed-but-they-wont-let-me-give-me-my-pals-piggybacks-onto-the-plane/",
+          "titre": "GTA 5 has true air travel now thanks to the mod I just installed, but they won't let me give me my pals piggybacks onto the plane"
         }
       ]
     },
@@ -569,7 +659,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.4,
       "chaleur": 6,
       "liens": [
         {
@@ -587,7 +677,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 6,
       "liens": [
         {
@@ -605,13 +695,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 19.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/ahead-of-gta-6-rockstar-warn-modders-against-against-making-unofficial-main-story-expansions-unauthorised-ports-and-mods-that-combine-gta-maps",
           "titre": "Ahead of GTA 6, Rockstar warn modders against making unofficial main story expansions, unauthorised ports and mods that combine GTA maps"
+        }
+      ]
+    },
+    {
+      "id": "it-s-sad-and-devastating-black-myth-wukong-s-physical-publi",
+      "titre": "\"It's sad and devastating\" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs",
+      "url": "https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 14.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs",
+          "titre": "\"It's sad and devastating\" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs"
         }
       ]
     },
@@ -623,7 +731,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.5,
       "chaleur": 5,
       "liens": [
         {
@@ -641,7 +749,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 18.1,
       "chaleur": 5,
       "liens": [
         {
@@ -659,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 7.0,
       "chaleur": 4,
       "liens": [
         {
@@ -677,7 +785,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -695,7 +803,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -713,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -731,7 +839,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -749,7 +857,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.2,
       "chaleur": 4,
       "liens": [
         {
@@ -767,7 +875,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -785,8 +893,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -803,8 +911,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -821,8 +929,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -839,8 +947,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -857,7 +965,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.2,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +983,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.3,
       "chaleur": 3,
       "liens": [
         {
@@ -893,31 +1001,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/action/oh-good-the-perverts-back/",
           "titre": "Oh good, the pervert's back"
-        }
-      ]
-    },
-    {
-      "id": "feature-i-was-thinking-about-the-possibility-of-atelier-maom",
-      "titre": "Feature: 'I Was Thinking About the Possibility of Atelier Maomao': How The Apothecary Diaries Became a PS5 Game",
-      "url": "https://www.pushsquare.com/features/i-was-thinking-about-the-possibility-of-atelier-maomao-how-the-apothecary-diaries-became-a-ps5-game",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 12.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/i-was-thinking-about-the-possibility-of-atelier-maomao-how-the-apothecary-diaries-became-a-ps5-game",
-          "titre": "Feature: 'I Was Thinking About the Possibility of Atelier Maomao': How The Apothecary Diaries Became a PS5 Game"
         }
       ]
     },
@@ -929,31 +1019,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/grand-theft-auto-6-key-west-map",
           "titre": "Grand Theft Auto 6 sleuths are torn on whether a famous Florida locale is in the game or not"
-        }
-      ]
-    },
-    {
-      "id": "touch-grass-not-when-amd-has-whittled-down-ray-tracing-memor",
-      "titre": "Touch grass? Not when AMD has whittled down ray tracing memory usage by 98% for these hardware-sapping bushes and trees",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/touch-grass-not-when-amd-has-whittled-down-ray-tracing-memory-usage-by-98-percent-for-these-hardware-sapping-bushes-and-trees/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/touch-grass-not-when-amd-has-whittled-down-ray-tracing-memory-usage-by-98-percent-for-these-hardware-sapping-bushes-and-trees/",
-          "titre": "Touch grass? Not when AMD has whittled down ray tracing memory usage by 98% for these hardware-sapping bushes and trees"
         }
       ]
     },
@@ -965,31 +1037,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.7,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/microsoft-file-patent-for-a-machine-learning-system-that-would-train-itself-on-your-playtime-to-work-out-when-youll-be-least-annoyed-by-in-game-ads",
           "titre": "Microsoft file patent for a machine learning system that would \"train\" itself on your playtime to work out when you'll be least annoyed by in-game ads"
-        }
-      ]
-    },
-    {
-      "id": "alright-wow-forever-gamers-are-we-team-hd-models-or-team-old",
-      "titre": "Alright WoW: Forever gamers, are we team HD models or team old school models?",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/alright-wow-forever-gamers-are-we-team-hd-models-or-team-old-school-models/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/alright-wow-forever-gamers-are-we-team-hd-models-or-team-old-school-models/",
-          "titre": "Alright WoW: Forever gamers, are we team HD models or team old school models?"
         }
       ]
     },
@@ -1001,31 +1055,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/pikachu-spent-67-days-in-space-as-part-of-pokemon-x-esa-collaboration",
           "titre": "Pikachu Spent 67 Days In Space As Part Of Pokémon X ESA Collaboration"
-        }
-      ]
-    },
-    {
-      "id": "wow-forever-has-rendered-me-a-min-maxing-hypocrite-and-here",
-      "titre": "WoW: Forever has rendered me a min-maxing hypocrite, and here's how you can join me",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-has-rendered-me-a-min-maxing-hypocrite-and-heres-how-you-can-join-me/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-has-rendered-me-a-min-maxing-hypocrite-and-heres-how-you-can-join-me/",
-          "titre": "WoW: Forever has rendered me a min-maxing hypocrite, and here's how you can join me"
         }
       ]
     },
@@ -1037,7 +1073,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1055,49 +1091,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/virtue-and-a-sledgehammer-will-begin-battering-down-the-walls-and-android-ghosts-of-a-hometown-filled-with-emotional-memories-this-october",
           "titre": "Virtue and a Sledgehammer will begin battering down the walls and android ghosts of a hometown filled with emotional memories this October"
-        }
-      ]
-    },
-    {
-      "id": "final-fantasy-7-revelation-will-offer-automatic-level-ups-if",
-      "titre": "Final Fantasy 7 Revelation Will Offer Automatic Level Ups If You Ignore Side Stuff",
-      "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-will-offer-automatic-level-ups-if-you-ignore-side-stuff",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 13.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-will-offer-automatic-level-ups-if-you-ignore-side-stuff",
-          "titre": "Final Fantasy 7 Revelation Will Offer Automatic Level Ups If You Ignore Side Stuff"
-        }
-      ]
-    },
-    {
-      "id": "i-m-taking-insomniac-s-wolverine-patch-as-a-sign-this-is-as",
-      "titre": "I'm taking Insomniac's Wolverine patch as a sign: This is as bad as it's going to get",
-      "url": "https://www.pcgamer.com/games/im-taking-insomniacs-wolverine-patch-as-a-sign-this-is-as-bad-as-its-going-to-get/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/im-taking-insomniacs-wolverine-patch-as-a-sign-this-is-as-bad-as-its-going-to-get/",
-          "titre": "I'm taking Insomniac's Wolverine patch as a sign: This is as bad as it's going to get"
         }
       ]
     },
@@ -1109,7 +1109,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1127,7 +1127,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1136,7 +1136,27 @@ const VEILLE = {
           "titre": "Mystique's lesbian relationship in Marvel's Wolverine is seemingly censored in certain parts of the world"
         }
       ]
+    },
+    {
+      "id": "fire-emblem-fortune-s-weave-renown-how-to-raise-renown-fast",
+      "titre": "Fire Emblem Fortune’s Weave Renown: How to raise Renown fast",
+      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-renown-how-to-raise-renown-fast/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 16.7,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-renown-how-to-raise-renown-fast/",
+          "titre": "Fire Emblem Fortune’s Weave Renown: How to raise Renown fast"
+        }
+      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Xbox To Reportedly Cut \"Hundreds Of Jobs\" And Consolidate Several Studios In Next Wave Of Layoffs"
+  ]
 };
