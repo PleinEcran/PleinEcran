@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "22/09/2026 à 12h25",
+  "collecte": "22/09/2026 à 14h20",
   "seuil": 14,
   "sujets": [
     {
@@ -16,8 +16,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 6,
-      "heures": 2.8,
-      "chaleur": 28,
+      "heures": 4.8,
+      "chaleur": 26,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -58,12 +58,11 @@ const VEILLE = {
       "sources": [
         "Eurogamer",
         "Push Square",
-        "Rock Paper Shotgun",
-        "VGC"
+        "Rock Paper Shotgun"
       ],
-      "reprises": 4,
-      "heures": 0.4,
-      "chaleur": 15,
+      "reprises": 3,
+      "heures": 2.3,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Push Square",
@@ -76,14 +75,87 @@ const VEILLE = {
           "titre": "Bungie decide their destiny is to do more Destiny after all, pledging to bring back vaulted Destiny 2 campaigns while declaring that Marathon \"needs to evolve\""
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/we-intend-to-earn-back-your-trust-bungie-announces-plans-to-bring-back-destiny-2-and-improve-marathon/",
-          "titre": "‘We intend to earn back your trust’: Bungie announces plans to bring back Destiny 2 and improve Marathon"
-        },
-        {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/bungie-vaulted-destiny-2-campaigns-marathon-future",
           "titre": "Bungie is freeing vaulted Destiny 2 campaigns after Marathon \"did not reach as many players as we had hoped\""
+        }
+      ]
+    },
+    {
+      "id": "xbox-confirms-job-losses-and-studio-changes-activision-to-ma",
+      "titre": "Xbox Confirms Job Losses and Studio Changes, Activision to Make Next Halo Game",
+      "url": "https://www.pushsquare.com/news/2026/09/xbox-confirms-job-losses-and-studio-changes-activision-to-make-next-halo-game",
+      "sources": [
+        "Eurogamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 0.1,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/xbox-confirms-job-losses-and-studio-changes-activision-to-make-next-halo-game",
+          "titre": "Xbox Confirms Job Losses and Studio Changes, Activision to Make Next Halo Game"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/next-halo-game-developer-call-of-duty-stuidio-xbox-restructuring",
+          "titre": "Next major Halo game being developed by Activision, as Halo Studios all but closes as part of Microsoft's Xbox restructuring"
+        }
+      ]
+    },
+    {
+      "id": "xbox-transfers-rare-and-halo-franchise-to-activision-propose",
+      "titre": "Xbox transfers Rare and Halo franchise to Activision, proposes closure of Ninja Theory and confirms another 268 roles cut amid studio restructure",
+      "url": "https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure",
+          "titre": "Xbox transfers Rare and Halo franchise to Activision, proposes closure of Ninja Theory and confirms another 268 roles cut amid studio restructure"
+        }
+      ]
+    },
+    {
+      "id": "xbox-officially-announces-more-layoffs-and-widespread-change",
+      "titre": "Xbox officially announces more layoffs and widespread changes to its entire studio structure",
+      "url": "https://www.videogameschronicle.com/news/xbox-officially-announces-more-layoffs-and-widespread-changes-to-its-entire-studio-structure/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-officially-announces-more-layoffs-and-widespread-changes-to-its-entire-studio-structure/",
+          "titre": "Xbox officially announces more layoffs and widespread changes to its entire studio structure"
+        }
+      ]
+    },
+    {
+      "id": "blizzard-layoffs-are-reportedly-imminent-days-after-an-excit",
+      "titre": "Blizzard layoffs are reportedly imminent, days after an exciting BlizzCon and a seemingly popular World of Warcraft: Forever beta",
+      "url": "https://www.eurogamer.net/blizzard-layoffs-xbox-cuts",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.2,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/blizzard-layoffs-xbox-cuts",
+          "titre": "Blizzard layoffs are reportedly imminent, days after an exciting BlizzCon and a seemingly popular World of Warcraft: Forever beta"
         }
       ]
     },
@@ -92,22 +164,16 @@ const VEILLE = {
       "titre": "IO Interactive \"had no choice\" but to delay Switch 2 launch of 007 First Light for a third time",
       "url": "https://www.gamesindustry.biz/io-interactive-had-no-choice-but-to-delay-switch-2-launch-of-007-first-light-for-a-third-time",
       "sources": [
-        "GamesIndustry.biz",
-        "Nintendo Life"
+        "GamesIndustry.biz"
       ],
-      "reprises": 2,
-      "heures": 1.5,
-      "chaleur": 13,
+      "reprises": 1,
+      "heures": 3.4,
+      "chaleur": 10,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/io-interactive-had-no-choice-but-to-delay-switch-2-launch-of-007-first-light-for-a-third-time",
           "titre": "IO Interactive \"had no choice\" but to delay Switch 2 launch of 007 First Light for a third time"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/some-compromises-are-inevitable-007-first-light-dev-talks-switch-2-delay-performance-and-more",
-          "titre": "\"Some Compromises Are Inevitable\" - 007 First Light Dev Talks Switch 2 Delay, Performance & More"
         }
       ]
     },
@@ -121,8 +187,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 2.7,
-      "chaleur": 12,
+      "heures": 4.6,
+      "chaleur": 10,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -142,20 +208,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "blizzard-layoffs-are-reportedly-imminent-days-after-an-excit",
-      "titre": "Blizzard layoffs are reportedly imminent, days after an exciting BlizzCon and a seemingly popular World of Warcraft: Forever beta",
-      "url": "https://www.eurogamer.net/blizzard-layoffs-xbox-cuts",
+      "id": "do-not-rockstar-outlines-modding-rules-before-gta-vi-touche",
+      "titre": "'Do not': Rockstar outlines modding rules before GTA VI touches down",
+      "url": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
       "sources": [
-        "Eurogamer"
+        "Game Developer"
       ],
       "reprises": 1,
-      "heures": 0.2,
-      "chaleur": 11,
+      "heures": 1.8,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blizzard-layoffs-xbox-cuts",
-          "titre": "Blizzard layoffs are reportedly imminent, days after an exciting BlizzCon and a seemingly popular World of Warcraft: Forever beta"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
+          "titre": "'Do not': Rockstar outlines modding rules before GTA VI touches down"
         }
       ]
     },
@@ -167,7 +233,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.8,
       "chaleur": 9,
       "liens": [
         {
@@ -186,7 +252,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.7,
+      "heures": 3.6,
       "chaleur": 9,
       "liens": [
         {
@@ -202,24 +268,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-is-doing-its-best-to-make-sure-switch-overtakes-ps2",
-      "titre": "Nintendo Is Doing Its Best To Make Sure Switch Overtakes PS2",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-is-doing-its-best-to-make-sure-switch-overtakes-ps2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendo-is-doing-its-best-to-make-sure-switch-overtakes-ps2",
-          "titre": "Nintendo Is Doing Its Best To Make Sure Switch Overtakes PS2"
-        }
-      ]
-    },
-    {
       "id": "pok-mon-ruby-sapphire-hd-footage-reignites-rumours-about-swi",
       "titre": "Pokémon Ruby & Sapphire HD Footage Reignites Rumours About Switch Ports",
       "url": "https://www.nintendolife.com/news/2026/09/pokemon-ruby-and-sapphire-hd-footage-reignites-rumours-about-switch-ports",
@@ -228,7 +276,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 12.5,
+      "heures": 14.4,
       "chaleur": 9,
       "liens": [
         {
@@ -252,7 +300,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 21.8,
+      "heures": 23.7,
       "chaleur": 9,
       "liens": [
         {
@@ -268,6 +316,78 @@ const VEILLE = {
       ]
     },
     {
+      "id": "hellblade-developer-ninja-theory-to-be-shut-down-in-new-wave",
+      "titre": "Hellblade developer Ninja Theory to be shut down in new wave of Xbox cuts, as two separate agreements collapse",
+      "url": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
+          "titre": "Hellblade developer Ninja Theory to be shut down in new wave of Xbox cuts, as two separate agreements collapse"
+        }
+      ]
+    },
+    {
+      "id": "sony-appears-to-be-testing-playstation-store-credit-offers-w",
+      "titre": "Sony appears to be testing PlayStation Store credit offers when you buy certain games",
+      "url": "https://www.eurogamer.net/playstation-store-wallet-credits-rewards",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/playstation-store-wallet-credits-rewards",
+          "titre": "Sony appears to be testing PlayStation Store credit offers when you buy certain games"
+        }
+      ]
+    },
+    {
+      "id": "i-taught-an-old-man-new-tunes-in-rhythm-action-shopkeeper-si",
+      "titre": "I taught an old man new tunes in rhythm-action shopkeeper sim Mr. Records, and now you can try the demo yourself",
+      "url": "https://www.rockpapershotgun.com/i-taught-an-old-man-new-tunes-in-rhythm-action-shopkeeper-sim-mr-records-and-now-you-can-try-the-demo-yourself",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/i-taught-an-old-man-new-tunes-in-rhythm-action-shopkeeper-sim-mr-records-and-now-you-can-try-the-demo-yourself",
+          "titre": "I taught an old man new tunes in rhythm-action shopkeeper sim Mr. Records, and now you can try the demo yourself"
+        }
+      ]
+    },
+    {
+      "id": "pok-mon-tcg-scalper-reportedly-arrested-for-punching-a-man-i",
+      "titre": "Pokémon TCG Scalper Reportedly Arrested For Punching A Man In Latest Pathetic Incident",
+      "url": "https://www.nintendolife.com/news/2026/09/pokemon-tcg-scalper-reportedly-arrested-for-punching-a-man-in-latest-pathetic-incident",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/pokemon-tcg-scalper-reportedly-arrested-for-punching-a-man-in-latest-pathetic-incident",
+          "titre": "Pokémon TCG Scalper Reportedly Arrested For Punching A Man In Latest Pathetic Incident"
+        }
+      ]
+    },
+    {
       "id": "the-witcher-3-remastered-will-also-turn-the-xbox-version-int",
       "titre": "The Witcher 3 Remastered will also turn the Xbox version into a Play Anywhere title, making the PC version available too",
       "url": "https://www.videogameschronicle.com/news/the-witcher-3-remastered-will-also-turn-the-xbox-version-into-a-play-anywhere-title-making-the-pc-version-available-too/",
@@ -275,7 +395,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.8,
       "chaleur": 8,
       "liens": [
         {
@@ -293,7 +413,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 8,
       "liens": [
         {
@@ -311,7 +431,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 3.9,
       "chaleur": 8,
       "liens": [
         {
@@ -322,20 +442,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "monster-hunter-wilds-ascendance-devs-discuss-switch-2-wilds",
-      "titre": "Monster Hunter Wilds Ascendance devs discuss Switch 2, Wilds feedback, and the expansion’s time skip",
-      "url": "https://www.videogameschronicle.com/features/interviews/monster-hunter-wilds-ascendance-devs-discuss-switch-2-wilds-feedback-and-the-expansions-time-skip/",
+      "id": "nintendo-is-doing-its-best-to-make-sure-switch-overtakes-ps2",
+      "titre": "Nintendo Is Doing Its Best To Make Sure Switch Overtakes PS2",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-is-doing-its-best-to-make-sure-switch-overtakes-ps2",
       "sources": [
-        "VGC"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 8,
+      "heures": 5.1,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/interviews/monster-hunter-wilds-ascendance-devs-discuss-switch-2-wilds-feedback-and-the-expansions-time-skip/",
-          "titre": "Monster Hunter Wilds Ascendance devs discuss Switch 2, Wilds feedback, and the expansion’s time skip"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nintendo-is-doing-its-best-to-make-sure-switch-overtakes-ps2",
+          "titre": "Nintendo Is Doing Its Best To Make Sure Switch Overtakes PS2"
         }
       ]
     },
@@ -348,7 +468,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 7.7,
+      "heures": 9.6,
       "chaleur": 7,
       "liens": [
         {
@@ -360,24 +480,6 @@ const VEILLE = {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-will-offer-automatic-level-ups-if-you-ignore-side-stuff",
           "titre": "Final Fantasy 7 Revelation Will Offer Automatic Level Ups If You Ignore Side Stuff"
-        }
-      ]
-    },
-    {
-      "id": "with-the-death-of-boxed-playstation-games-incoming-sony-reco",
-      "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026",
-      "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 24.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
-          "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026"
         }
       ]
     },
@@ -562,20 +664,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "london-games-festival",
-      "titre": "London Games Festival",
-      "url": "https://www.gamedeveloper.comgames.london",
+      "id": "fire-emblem-fortune-s-weave-broom-lady-locations-a-peculiar",
+      "titre": "Fire Emblem Fortune’s Weave: Broom Lady locations, A Peculiar Message quest guide",
+      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-broom-lady-locations-a-peculiar-message-quest-guide/",
       "sources": [
-        "Game Developer"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 0.2,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.comgames.london",
-          "titre": "London Games Festival"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-broom-lady-locations-a-peculiar-message-quest-guide/",
+          "titre": "Fire Emblem Fortune’s Weave: Broom Lady locations, A Peculiar Message quest guide"
+        }
+      ]
+    },
+    {
+      "id": "dragon-s-dogma-2-dev-says-there-s-a-significant-gap-in-what",
+      "titre": "Dragon's Dogma 2 Dev Says There's a 'Significant Gap' in What Western and Eastern Players Want",
+      "url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-dev-says-theres-a-significant-gap-in-what-western-and-eastern-players-want",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-dev-says-theres-a-significant-gap-in-what-western-and-eastern-players-want",
+          "titre": "Dragon's Dogma 2 Dev Says There's a 'Significant Gap' in What Western and Eastern Players Want"
+        }
+      ]
+    },
+    {
+      "id": "woah-here-s-a-tech-ceo-saying-the-memory-crisis-won-t-be-as",
+      "titre": "Woah, here's a tech CEO saying the memory crisis won't be as bad as everyone expects",
+      "url": "https://www.pcgamer.com/hardware/memory/woah-heres-a-tech-ceo-saying-the-memory-crisis-wont-be-as-bad-as-everyone-expects/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/memory/woah-heres-a-tech-ceo-saying-the-memory-crisis-wont-be-as-bad-as-everyone-expects/",
+          "titre": "Woah, here's a tech CEO saying the memory crisis won't be as bad as everyone expects"
+        }
+      ]
+    },
+    {
+      "id": "ranking-resident-evil-villains-based-on-whether-i-think-i-co",
+      "titre": "Ranking Resident Evil villains based on whether I think I could change them",
+      "url": "https://www.pcgamer.com/games/resident-evil/ranking-resident-evil-villains-based-on-whether-i-think-i-could-change-them/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/resident-evil/ranking-resident-evil-villains-based-on-whether-i-think-i-could-change-them/",
+          "titre": "Ranking Resident Evil villains based on whether I think I could change them"
+        }
+      ]
+    },
+    {
+      "id": "one-of-2026-s-best-rated-ps5-games-is-out-today-and-you-prob",
+      "titre": "One of 2026's Best-Rated PS5 Games Is Out Today, and You Probably Don't Even Know It",
+      "url": "https://www.pushsquare.com/news/2026/09/one-of-2026s-best-rated-ps5-games-is-out-today-and-you-probably-dont-even-know-it",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/one-of-2026s-best-rated-ps5-games-is-out-today-and-you-probably-dont-even-know-it",
+          "titre": "One of 2026's Best-Rated PS5 Games Is Out Today, and You Probably Don't Even Know It"
         }
       ]
     },
@@ -587,7 +761,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -605,31 +779,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/there-is-no-easy-answer-anymore-theres-no-kind-of-playbook-secret-mode-is-hedging-its-bets-with-two-very-different-pillars",
           "titre": "\"There is no easy answer anymore, there's no kind of playbook\" – Secret Mode is hedging its bets with two very different pillars"
-        }
-      ]
-    },
-    {
-      "id": "fire-emblem-fortune-s-weave-cast-list-every-character-and-en",
-      "titre": "Fire Emblem Fortune’s Weave cast list: Every character and English voice actor",
-      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-cast-list-every-character-and-english-voice-actor/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 0.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-cast-list-every-character-and-english-voice-actor/",
-          "titre": "Fire Emblem Fortune’s Weave cast list: Every character and English voice actor"
         }
       ]
     },
@@ -641,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -659,7 +815,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -677,7 +833,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -695,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -713,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -731,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -742,218 +898,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "what-s-your-back-on-my-bullshit-videogame",
-      "titre": "What's your 'back on my bullshit' videogame?",
-      "url": "https://www.pcgamer.com/games/final-fantasy/whats-your-back-on-my-bullshit-videogame/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/final-fantasy/whats-your-back-on-my-bullshit-videogame/",
-          "titre": "What's your 'back on my bullshit' videogame?"
-        }
-      ]
-    },
-    {
-      "id": "trover-saves-the-universe-the-comedy-game-from-high-on-life",
-      "titre": "Trover Saves the Universe, the comedy game from High on Life studio Squanch Games, appears to have been delisted",
-      "url": "https://www.videogameschronicle.com/news/trover-saves-the-universe-the-comedy-game-from-high-on-life-studio-squanch-games-appears-to-have-been-delisted/",
+      "id": "monster-hunter-wilds-ascendance-devs-discuss-switch-2-wilds",
+      "titre": "Monster Hunter Wilds Ascendance devs discuss Switch 2, Wilds feedback, and the expansion’s time skip",
+      "url": "https://www.videogameschronicle.com/features/interviews/monster-hunter-wilds-ascendance-devs-discuss-switch-2-wilds-feedback-and-the-expansions-time-skip/",
       "sources": [
         "VGC"
       ],
       "reprises": 1,
-      "heures": 2.2,
+      "heures": 4.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/trover-saves-the-universe-the-comedy-game-from-high-on-life-studio-squanch-games-appears-to-have-been-delisted/",
-          "titre": "Trover Saves the Universe, the comedy game from High on Life studio Squanch Games, appears to have been delisted"
-        }
-      ]
-    },
-    {
-      "id": "every-game-is-about-goku-eventually",
-      "titre": "Every game is about Goku eventually",
-      "url": "https://www.pcgamer.com/games/every-game-is-about-goku-eventually/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/every-game-is-about-goku-eventually/",
-          "titre": "Every game is about Goku eventually"
-        }
-      ]
-    },
-    {
-      "id": "my-favorite-space-warlord-baby-trading-sim-events",
-      "titre": "My favorite Space Warlord Baby Trading Sim events",
-      "url": "https://www.pcgamer.com/games/my-favorite-space-warlord-baby-trading-sim-events/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/my-favorite-space-warlord-baby-trading-sim-events/",
-          "titre": "My favorite Space Warlord Baby Trading Sim events"
-        }
-      ]
-    },
-    {
-      "id": "you-ever-notice-how-much-more-crouch-walking-you-do-in-games",
-      "titre": "You ever notice how much more crouch walking you do in games than real life",
-      "url": "https://www.pcgamer.com/games/you-ever-notice-how-much-more-crouch-walking-you-do-in-games-than-real-life/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/you-ever-notice-how-much-more-crouch-walking-you-do-in-games-than-real-life/",
-          "titre": "You ever notice how much more crouch walking you do in games than real life"
-        }
-      ]
-    },
-    {
-      "id": "sony-inzone-m10s-ii-review",
-      "titre": "Sony Inzone M10S II review",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/sony-inzone-m10s-ii-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-monitors/sony-inzone-m10s-ii-review/",
-          "titre": "Sony Inzone M10S II review"
-        }
-      ]
-    },
-    {
-      "id": "this-guy-just-sold-me-on-his-game-with-the-health-bar-alone",
-      "titre": "This guy just sold me on his game with the health bar alone",
-      "url": "https://www.pcgamer.com/games/rpg/this-guy-just-sold-me-on-his-game-with-the-health-bar-alone/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/this-guy-just-sold-me-on-his-game-with-the-health-bar-alone/",
-          "titre": "This guy just sold me on his game with the health bar alone"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-fans-are-torn-about-whether-forever-s-skyb",
-      "titre": "World of Warcraft fans are torn about whether Forever's Skyborne starting zone fits tonally with Classic WoW",
-      "url": "https://www.eurogamer.net/world-of-warcraft-fans-torn-about-whether-forevers-skyborne-starting-zone-fits-tonally-with-classic-wow",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/world-of-warcraft-fans-torn-about-whether-forevers-skyborne-starting-zone-fits-tonally-with-classic-wow",
-          "titre": "World of Warcraft fans are torn about whether Forever's Skyborne starting zone fits tonally with Classic WoW"
-        }
-      ]
-    },
-    {
-      "id": "cairn-dlc",
-      "titre": "Cairn DLC",
-      "url": "https://www.pcgamer.com/games/cairn-dlc/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/cairn-dlc/",
-          "titre": "Cairn DLC"
-        }
-      ]
-    },
-    {
-      "id": "gigabyte-admits-an-oopsie-with-gigabyte-control-center-softw",
-      "titre": "Gigabyte admits an oopsie with Gigabyte Control Center software leaving kernel exposed to attackers",
-      "url": "https://www.pcgamer.com/hardware/motherboards/gigabyte-admits-an-oopsie-with-gigabyte-control-center-software-leaving-kernel-exposed-to-attackers/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/motherboards/gigabyte-admits-an-oopsie-with-gigabyte-control-center-software-leaving-kernel-exposed-to-attackers/",
-          "titre": "Gigabyte admits an oopsie with Gigabyte Control Center software leaving kernel exposed to attackers"
-        }
-      ]
-    },
-    {
-      "id": "2-more-september-2026-ps-plus-extra-games-available-to-downl",
-      "titre": "2 More September 2026 PS Plus Extra Games Available to Download Now",
-      "url": "https://www.pushsquare.com/news/2026/09/2-more-september-2026-ps-plus-extra-games-available-to-download-now",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/2-more-september-2026-ps-plus-extra-games-available-to-download-now",
-          "titre": "2 More September 2026 PS Plus Extra Games Available to Download Now"
-        }
-      ]
-    },
-    {
-      "id": "nighthawks-review-a-series-of-vignettes-that-sometimes-excel",
-      "titre": "Nighthawks review – a series of vignettes that sometimes excel but more often falter",
-      "url": "https://www.rockpapershotgun.com/nighthawks-review-a-series-of-vignettes-that-sometimes-excel-but-more-often-falter",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nighthawks-review-a-series-of-vignettes-that-sometimes-excel-but-more-often-falter",
-          "titre": "Nighthawks review – a series of vignettes that sometimes excel but more often falter"
+          "url": "https://www.videogameschronicle.com/features/interviews/monster-hunter-wilds-ascendance-devs-discuss-switch-2-wilds-feedback-and-the-expansions-time-skip/",
+          "titre": "Monster Hunter Wilds Ascendance devs discuss Switch 2, Wilds feedback, and the expansion’s time skip"
         }
       ]
     },
@@ -965,7 +923,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 6,
       "liens": [
         {
@@ -983,7 +941,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.8,
       "chaleur": 6,
       "liens": [
         {
@@ -1001,7 +959,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 19.0,
       "chaleur": 6,
       "liens": [
         {
@@ -1020,7 +978,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 18.9,
+      "heures": 20.8,
       "chaleur": 6,
       "liens": [
         {
@@ -1044,7 +1002,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 19.0,
+      "heures": 20.9,
       "chaleur": 6,
       "liens": [
         {
@@ -1067,7 +1025,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.3,
       "chaleur": 6,
       "liens": [
         {
@@ -1085,7 +1043,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.9,
+      "heures": 24.9,
       "chaleur": 6,
       "liens": [
         {
@@ -1103,7 +1061,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.6,
+      "heures": 27.6,
       "chaleur": 6,
       "liens": [
         {
@@ -1121,7 +1079,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 21.9,
       "chaleur": 5,
       "liens": [
         {
@@ -1139,7 +1097,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 25.5,
       "chaleur": 5,
       "liens": [
         {
@@ -1150,43 +1108,77 @@ const VEILLE = {
       ]
     },
     {
-      "id": "microsoft-patents-idea-for-in-game-pc-and-xbox-adverts-shown",
-      "titre": "Microsoft patents idea for in-game PC and Xbox adverts shown during downtime \"trigger events\"",
-      "url": "https://www.eurogamer.net/microsoft-patent-ads-in-gameplay",
+      "id": "what-s-your-back-on-my-bullshit-videogame",
+      "titre": "What's your 'back on my bullshit' videogame?",
+      "url": "https://www.pcgamer.com/games/final-fantasy/whats-your-back-on-my-bullshit-videogame/",
       "sources": [
-        "Eurogamer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.1,
-      "chaleur": 5,
+      "heures": 4.1,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/microsoft-patent-ads-in-gameplay",
-          "titre": "Microsoft patents idea for in-game PC and Xbox adverts shown during downtime \"trigger events\""
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/final-fantasy/whats-your-back-on-my-bullshit-videogame/",
+          "titre": "What's your 'back on my bullshit' videogame?"
         }
       ]
     },
     {
-      "id": "silent-hill-townfall-human-organ-transplant-box-puzzle-solut",
-      "titre": "Silent Hill Townfall: Human organ transplant box puzzle solution",
-      "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-human-organ-transplant-box-puzzle-solution/",
+      "id": "trover-saves-the-universe-the-comedy-game-from-high-on-life",
+      "titre": "Trover Saves the Universe, the comedy game from High on Life studio Squanch Games, appears to have been delisted",
+      "url": "https://www.videogameschronicle.com/news/trover-saves-the-universe-the-comedy-game-from-high-on-life-studio-squanch-games-appears-to-have-been-delisted/",
       "sources": [
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.6,
+      "heures": 4.2,
       "chaleur": 4,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-human-organ-transplant-box-puzzle-solution/",
-          "titre": "Silent Hill Townfall: Human organ transplant box puzzle solution"
+          "url": "https://www.videogameschronicle.com/news/trover-saves-the-universe-the-comedy-game-from-high-on-life-studio-squanch-games-appears-to-have-been-delisted/",
+          "titre": "Trover Saves the Universe, the comedy game from High on Life studio Squanch Games, appears to have been delisted"
+        }
+      ]
+    },
+    {
+      "id": "every-game-is-about-goku-eventually",
+      "titre": "Every game is about Goku eventually",
+      "url": "https://www.pcgamer.com/games/every-game-is-about-goku-eventually/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/every-game-is-about-goku-eventually/",
+          "titre": "Every game is about Goku eventually"
+        }
+      ]
+    },
+    {
+      "id": "my-favorite-space-warlord-baby-trading-sim-events",
+      "titre": "My favorite Space Warlord Baby Trading Sim events",
+      "url": "https://www.pcgamer.com/games/my-favorite-space-warlord-baby-trading-sim-events/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/my-favorite-space-warlord-baby-trading-sim-events/",
+          "titre": "My favorite Space Warlord Baby Trading Sim events"
         }
       ]
     }
   ],
-  "alertes": [
-    "Reaction: Did Fans Just Bring Destiny Back from the Dead?"
-  ]
+  "alertes": []
 };
