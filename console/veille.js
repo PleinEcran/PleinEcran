@@ -1,29 +1,59 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "22/09/2026 à 00h26",
+  "collecte": "22/09/2026 à 02h20",
   "seuil": 14,
   "sujets": [
     {
-      "id": "pok-mon-ruby-sapphire-hd-footage-reignites-rumours-about-swi",
-      "titre": "Pokémon Ruby & Sapphire HD Footage Reignites Rumours About Switch Ports",
-      "url": "https://www.nintendolife.com/news/2026/09/pokemon-ruby-and-sapphire-hd-footage-reignites-rumours-about-switch-ports",
+      "id": "nintendo-shares-first-look-at-zelda-ocarina-of-time-switch-2",
+      "titre": "Nintendo Shares First Look At Zelda: Ocarina Of Time Switch 2 World Map",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-shares-first-look-at-zelda-ocarina-of-time-switch-2-world-map",
       "sources": [
         "Eurogamer",
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 0.5,
+      "heures": 1.4,
       "chaleur": 12,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/pokemon-ruby-and-sapphire-hd-footage-reignites-rumours-about-switch-ports",
-          "titre": "Pokémon Ruby & Sapphire HD Footage Reignites Rumours About Switch Ports"
+          "url": "https://www.nintendolife.com/news/2026/09/nintendo-shares-first-look-at-zelda-ocarina-of-time-switch-2-world-map",
+          "titre": "Nintendo Shares First Look At Zelda: Ocarina Of Time Switch 2 World Map"
         },
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/nintendo-switch-pokemon-ruby-sapphire-hd-port",
           "titre": "Nintendo Switch ports of Pokémon Ruby and Sapphire look even more likely after official account shares suspiciously HD footage of the GBA games"
+        }
+      ]
+    },
+    {
+      "id": "silent-hill-townfall-human-organ-transplant-box-puzzle-solut",
+      "titre": "Silent Hill Townfall: Human organ transplant box puzzle solution",
+      "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-human-organ-transplant-box-puzzle-solution/",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 1.5,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-human-organ-transplant-box-puzzle-solution/",
+          "titre": "Silent Hill Townfall: Human organ transplant box puzzle solution"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/silent-hill-townfall-review",
+          "titre": "Silent Hill: Townfall review"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/silent-hill-townfall",
+          "titre": "Review: Silent Hill: Townfall (PS5) - Dated Bite-Sized Horror... in a Good Way"
         }
       ]
     },
@@ -36,7 +66,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 9.8,
+      "heures": 11.7,
       "chaleur": 10,
       "liens": [
         {
@@ -60,7 +90,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 14.3,
+      "heures": 16.2,
       "chaleur": 10,
       "liens": [
         {
@@ -76,6 +106,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "pok-mon-ruby-sapphire-hd-footage-reignites-rumours-about-swi",
+      "titre": "Pokémon Ruby & Sapphire HD Footage Reignites Rumours About Switch Ports",
+      "url": "https://www.nintendolife.com/news/2026/09/pokemon-ruby-and-sapphire-hd-footage-reignites-rumours-about-switch-ports",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/pokemon-ruby-and-sapphire-hd-footage-reignites-rumours-about-switch-ports",
+          "titre": "Pokémon Ruby & Sapphire HD Footage Reignites Rumours About Switch Ports"
+        }
+      ]
+    },
+    {
       "id": "blizzard-warns-world-of-warcraft-forever-players-it-will-ver",
       "titre": "Blizzard warns World of Warcraft: Forever players it will 'very aggressively' punish anyone who buys gold with real money",
       "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-warns-world-of-warcraft-forever-players-it-will-very-aggressively-punish-anyone-who-buys-gold-with-real-money/",
@@ -84,8 +132,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 3.2,
-      "chaleur": 9,
+      "heures": 5.1,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -108,8 +156,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 3.9,
-      "chaleur": 9,
+      "heures": 5.8,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Game Developer",
@@ -124,36 +172,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "this-week-in-pc-games-control-resonant-silent-hill-townfall",
-      "titre": "This week in PC games: Control: Resonant, Silent Hill: Townfall, and the history of Western philosophy as a pinball table",
-      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-control-resonant-silent-hill-townfall-and-the-history-of-western-philosophy-as-a-pinball-table",
-      "sources": [
-        "Eurogamer",
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 13.1,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-control-resonant-silent-hill-townfall-and-the-history-of-western-philosophy-as-a-pinball-table",
-          "titre": "This week in PC games: Control: Resonant, Silent Hill: Townfall, and the history of Western philosophy as a pinball table"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/silent-hill-townfall-review",
-          "titre": "Silent Hill: Townfall review"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/silent-hill-townfall",
-          "titre": "Review: Silent Hill: Townfall (PS5) - Dated Bite-Sized Horror... in a Good Way"
-        }
-      ]
-    },
-    {
       "id": "weeks-before-gta-6-rockstar-games-imposes-new-guidelines-tha",
       "titre": "Weeks before GTA 6, Rockstar Games imposes new guidelines that restrict mods for missions, maps, updated storylines, and third-party IP",
       "url": "https://www.eurogamer.net/gta-6-rockstar-games-mod-guidelines-restrictions",
@@ -161,7 +179,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 6.9,
       "chaleur": 7,
       "liens": [
         {
@@ -180,7 +198,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 6.9,
+      "heures": 8.8,
       "chaleur": 7,
       "liens": [
         {
@@ -204,7 +222,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 7.0,
+      "heures": 8.9,
       "chaleur": 7,
       "liens": [
         {
@@ -227,7 +245,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 7,
       "liens": [
         {
@@ -245,7 +263,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 7,
       "liens": [
         {
@@ -264,7 +282,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.9,
+      "heures": 11.8,
       "chaleur": 7,
       "liens": [
         {
@@ -280,48 +298,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "resident-evil-is-the-best-videogame-movie-because-bryan-suck",
-      "titre": "Resident Evil is the best videogame movie because Bryan sucks",
-      "url": "https://www.pcgamer.com/games/resident-evil/resident-evil-is-the-best-videogame-movie-because-bryan-sucks/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 10.7,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/resident-evil/resident-evil-is-the-best-videogame-movie-because-bryan-sucks/",
-          "titre": "Resident Evil is the best videogame movie because Bryan sucks"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/zach-cregger-resident-evil-film-opening-weekend-earnings",
-          "titre": "Zach Cregger's quirky Resident Evil film proves sceptics wrong with series-best opening weekend"
-        }
-      ]
-    },
-    {
-      "id": "i-thought-people-would-leave-hideo-kojima-offers-his-accoun",
-      "titre": "\"I thought people would leave\": Hideo Kojima offers his account of Physint's switch from PlayStation to Xbox, as his studio insist they're in a \"healthy, profitable state\"",
-      "url": "https://www.rockpapershotgun.com/i-thought-people-would-leave-hideo-kojima-offers-his-account-of-physints-switch-from-playstation-to-xbox-as-his-studio-insist-theyre-in-a-healthy-profitable-state",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-thought-people-would-leave-hideo-kojima-offers-his-account-of-physints-switch-from-playstation-to-xbox-as-his-studio-insist-theyre-in-a-healthy-profitable-state",
-          "titre": "\"I thought people would leave\": Hideo Kojima offers his account of Physint's switch from PlayStation to Xbox, as his studio insist they're in a \"healthy, profitable state\""
-        }
-      ]
-    },
-    {
       "id": "with-the-death-of-boxed-playstation-games-incoming-sony-reco",
       "titre": "With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026",
       "url": "https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026",
@@ -329,7 +305,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.3,
       "chaleur": 7,
       "liens": [
         {
@@ -545,7 +521,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -563,31 +539,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/huge-30gb-update-prepares-ghost-of-yotei-for-dlc-some-features-already-live-now",
           "titre": "Huge 30GB Update Prepares Ghost of Yotei for DLC, Some Features Already Live Now"
-        }
-      ]
-    },
-    {
-      "id": "all-roads-lead-back-to-arma",
-      "titre": "'All roads lead back to Arma'",
-      "url": "https://www.pcgamer.com/games/fps/all-roads-lead-back-to-arma/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/all-roads-lead-back-to-arma/",
-          "titre": "'All roads lead back to Arma'"
         }
       ]
     },
@@ -599,7 +557,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 9.9,
       "chaleur": 6,
       "liens": [
         {
@@ -610,20 +568,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-steam-frame-s-first-post-launch-update-speeds-up-chargin",
-      "titre": "The Steam Frame’s first post-launch update speeds up charging and ungarbles a mic bug",
-      "url": "https://www.rockpapershotgun.com/the-steam-frames-first-post-launch-update-speeds-up-charging-and-ungarbles-a-mic-bug",
+      "id": "resident-evil-is-the-best-videogame-movie-because-bryan-suck",
+      "titre": "Resident Evil is the best videogame movie because Bryan sucks",
+      "url": "https://www.pcgamer.com/games/resident-evil/resident-evil-is-the-best-videogame-movie-because-bryan-sucks/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 12.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/resident-evil/resident-evil-is-the-best-videogame-movie-because-bryan-sucks/",
+          "titre": "Resident Evil is the best videogame movie because Bryan sucks"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/zach-cregger-resident-evil-film-opening-weekend-earnings",
+          "titre": "Zach Cregger's quirky Resident Evil film proves sceptics wrong with series-best opening weekend"
+        }
+      ]
+    },
+    {
+      "id": "i-thought-people-would-leave-hideo-kojima-offers-his-accoun",
+      "titre": "\"I thought people would leave\": Hideo Kojima offers his account of Physint's switch from PlayStation to Xbox, as his studio insist they're in a \"healthy, profitable state\"",
+      "url": "https://www.rockpapershotgun.com/i-thought-people-would-leave-hideo-kojima-offers-his-account-of-physints-switch-from-playstation-to-xbox-as-his-studio-insist-theyre-in-a-healthy-profitable-state",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.5,
+      "heures": 12.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-steam-frames-first-post-launch-update-speeds-up-charging-and-ungarbles-a-mic-bug",
-          "titre": "The Steam Frame’s first post-launch update speeds up charging and ungarbles a mic bug"
+          "url": "https://www.rockpapershotgun.com/i-thought-people-would-leave-hideo-kojima-offers-his-account-of-physints-switch-from-playstation-to-xbox-as-his-studio-insist-theyre-in-a-healthy-profitable-state",
+          "titre": "\"I thought people would leave\": Hideo Kojima offers his account of Physint's switch from PlayStation to Xbox, as his studio insist they're in a \"healthy, profitable state\""
         }
       ]
     },
@@ -635,7 +617,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 15.6,
       "chaleur": 6,
       "liens": [
         {
@@ -646,38 +628,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-was-just-shocked-and-surprised-hideo-kojima-says-sony-tol",
-      "titre": "‘I was just shocked and surprised’: Hideo Kojima says Sony told him Physint was being cancelled over a Zoom call",
-      "url": "https://www.videogameschronicle.com/news/i-was-just-shocked-and-surprised-hideo-kojima-says-sony-told-him-physint-was-being-cancelled-over-a-zoom-call/",
+      "id": "the-steam-frame-s-first-post-launch-update-speeds-up-chargin",
+      "titre": "The Steam Frame’s first post-launch update speeds up charging and ungarbles a mic bug",
+      "url": "https://www.rockpapershotgun.com/the-steam-frames-first-post-launch-update-speeds-up-charging-and-ungarbles-a-mic-bug",
       "sources": [
-        "VGC"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.0,
-      "chaleur": 6,
+      "heures": 13.4,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/i-was-just-shocked-and-surprised-hideo-kojima-says-sony-told-him-physint-was-being-cancelled-over-a-zoom-call/",
-          "titre": "‘I was just shocked and surprised’: Hideo Kojima says Sony told him Physint was being cancelled over a Zoom call"
-        }
-      ]
-    },
-    {
-      "id": "gallery-here-s-what-the-zelda-switch-2-and-electric-ocarina",
-      "titre": "Gallery: Here's What The Zelda Switch 2 And Electric Ocarina Look Like In Person",
-      "url": "https://www.nintendolife.com/news/2026/09/gallery-heres-what-the-zelda-switch-2-and-electric-ocarina-look-like-in-person",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 15.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/gallery-heres-what-the-zelda-switch-2-and-electric-ocarina-look-like-in-person",
-          "titre": "Gallery: Here's What The Zelda Switch 2 And Electric Ocarina Look Like In Person"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-steam-frames-first-post-launch-update-speeds-up-charging-and-ungarbles-a-mic-bug",
+          "titre": "The Steam Frame’s first post-launch update speeds up charging and ungarbles a mic bug"
         }
       ]
     },
@@ -689,13 +653,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/microsoft-patent-ads-in-gameplay",
           "titre": "Microsoft patents idea for in-game PC and Xbox adverts shown during downtime \"trigger events\""
+        }
+      ]
+    },
+    {
+      "id": "all-roads-lead-back-to-arma",
+      "titre": "'All roads lead back to Arma'",
+      "url": "https://www.pcgamer.com/games/fps/all-roads-lead-back-to-arma/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/all-roads-lead-back-to-arma/",
+          "titre": "'All roads lead back to Arma'"
         }
       ]
     },
@@ -707,7 +689,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -725,7 +707,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -743,7 +725,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -761,7 +743,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -779,7 +761,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -797,7 +779,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -833,7 +815,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.2,
       "chaleur": 4,
       "liens": [
         {
@@ -851,7 +833,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -869,7 +851,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +887,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +905,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +923,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.7,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +941,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.7,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +959,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +977,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,7 +995,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,7 +1013,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1049,7 +1031,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1067,8 +1049,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1085,8 +1067,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1103,8 +1085,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1121,8 +1103,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1139,13 +1121,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/memory/who-the-hell-is-buying-their-server-memory-from-amazon-also-can-i-interest-you-in-a-usd101-000-kit/",
           "titre": "Who the hell is buying their server memory from Amazon?! Also, can I interest you in a $101,000 kit?"
+        }
+      ]
+    },
+    {
+      "id": "the-blood-of-dawnwalker-cost-less-than-expected-to-make-it-s",
+      "titre": "The Blood of Dawnwalker cost less than expected to make - it's more of a double-A game than a triple-A blockbuster",
+      "url": "https://www.eurogamer.net/blood-of-dawnwalker-budget-revealed",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 12.8,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/blood-of-dawnwalker-budget-revealed",
+          "titre": "The Blood of Dawnwalker cost less than expected to make - it's more of a double-A game than a triple-A blockbuster"
         }
       ]
     }
