@@ -1,33 +1,26 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "22/09/2026 à 14h20",
+  "collecte": "22/09/2026 à 16h21",
   "seuil": 14,
   "sujets": [
     {
-      "id": "xbox-reportedly-set-to-lay-off-hundreds-more-staff-and-conso",
-      "titre": "Xbox reportedly set to lay off hundreds more staff and \"consolidate\" several game studios in second round of major cuts this year",
-      "url": "https://www.rockpapershotgun.com/xbox-reportedly-set-to-lay-off-hundreds-more-staff-and-consolidate-several-game-studios-in-second-round-of-major-cuts-this-year",
+      "id": "xbox-continues-reset-with-halo-studios-layoffs-and-undead-la",
+      "titre": "Xbox continues 'reset' with Halo Studios layoffs and Undead Labs divestment",
+      "url": "https://www.gamedeveloper.com/business/xbox-continues-reset-with-halo-studios-layoffs-and-undead-labs-divestment",
       "sources": [
-        "Eurogamer",
+        "Game Developer",
         "GamesIndustry.biz",
         "Nintendo Life",
-        "Push Square",
-        "Rock Paper Shotgun",
-        "VGC"
+        "Push Square"
       ],
-      "reprises": 6,
-      "heures": 4.8,
-      "chaleur": 26,
+      "reprises": 4,
+      "heures": 2.0,
+      "chaleur": 22,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/xbox-reportedly-set-to-lay-off-hundreds-more-staff-and-consolidate-several-game-studios-in-second-round-of-major-cuts-this-year",
-          "titre": "Xbox reportedly set to lay off hundreds more staff and \"consolidate\" several game studios in second round of major cuts this year"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-second-wave-cuts-layoffs-report",
-          "titre": "Second wave of Xbox cuts reported to be happening this week, with \"several\" studios apparently facing consolidation"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/xbox-continues-reset-with-halo-studios-layoffs-and-undead-labs-divestment",
+          "titre": "Xbox continues 'reset' with Halo Studios layoffs and Undead Labs divestment"
         },
         {
           "source": "Push Square",
@@ -43,11 +36,204 @@ const VEILLE = {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/xbox-to-reportedly-cut-hundreds-of-jobs-and-consolidate-several-studios-in-next-wave-of-layoffs",
           "titre": "Xbox To Reportedly Cut \"Hundreds Of Jobs\" And Consolidate Several Studios In Next Wave Of Layoffs"
+        }
+      ]
+    },
+    {
+      "id": "xbox-lays-off-268-more-employees-merges-obsidian-into-bethes",
+      "titre": "Xbox lays off 268 more employees, merges Obsidian into Bethesda, and puts Activision in charge of Halo",
+      "url": "https://www.pcgamer.com/gaming-industry/xbox-lays-off-268-more-employees-merges-obsidian-into-bethesda-and-puts-activision-in-charge-of-halo/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 1.3,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/xbox-lays-off-268-more-employees-merges-obsidian-into-bethesda-and-puts-activision-in-charge-of-halo/",
+          "titre": "Xbox lays off 268 more employees, merges Obsidian into Bethesda, and puts Activision in charge of Halo"
         },
         {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/xbox-lay-off-268-people-as-activision-take-over-halo-and-rare-while-obsidian-become-part-of-bethesda-plus-forza-and-fable-studios-merge",
+          "titre": "Xbox lay off 268 people as Activision take over Halo and Rare, while Obsidian become part of Bethesda, plus Forza and Fable studios merge"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/next-halo-game-developer-call-of-duty-stuidio-xbox-restructuring",
+          "titre": "Next major Halo game being developed by Activision, as Halo Studios all but closes as part of Microsoft's Xbox restructuring"
+        }
+      ]
+    },
+    {
+      "id": "xbox-confirms-268-more-layoffs-further-studio-closures-and-o",
+      "titre": "Xbox confirms 268 more layoffs, further studio closures, and Obsidian's shift to Bethesda as major restructuring continues",
+      "url": "https://www.eurogamer.net/xbox-layoffs-activision-rare-halo-ninja-theory",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-layoffs-activision-rare-halo-ninja-theory",
+          "titre": "Xbox confirms 268 more layoffs, further studio closures, and Obsidian's shift to Bethesda as major restructuring continues"
+        }
+      ]
+    },
+    {
+      "id": "xbox-confirms-job-losses-and-studio-changes-activision-to-ma",
+      "titre": "Xbox Confirms Job Losses and Studio Changes, Activision to Make Next Halo Game",
+      "url": "https://www.pushsquare.com/news/2026/09/xbox-confirms-job-losses-and-studio-changes-activision-to-make-next-halo-game",
+      "sources": [
+        "GamesIndustry.biz",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 2.1,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/xbox-confirms-job-losses-and-studio-changes-activision-to-make-next-halo-game",
+          "titre": "Xbox Confirms Job Losses and Studio Changes, Activision to Make Next Halo Game"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure",
+          "titre": "Xbox transfers Rare and Halo franchise to Activision, proposes closure of Ninja Theory, and confirms another 268 roles cut amid studio restructure"
+        }
+      ]
+    },
+    {
+      "id": "i-m-still-blown-away-by-the-amount-of-talent-hellblade-devs",
+      "titre": "\"I'm still blown away by the amount of talent\": Hellblade devs Ninja Theory face closure after Microsoft fail to reach a deal with buyers",
+      "url": "https://www.rockpapershotgun.com/im-still-blown-away-by-the-amount-of-talent-hellblade-devs-ninja-theory-face-closure-after-microsoft-fail-to-reach-a-deal-with-buyers",
+      "sources": [
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 0.0,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/im-still-blown-away-by-the-amount-of-talent-hellblade-devs-ninja-theory-face-closure-after-microsoft-fail-to-reach-a-deal-with-buyers",
+          "titre": "\"I'm still blown away by the amount of talent\": Hellblade devs Ninja Theory face closure after Microsoft fail to reach a deal with buyers"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/microsoft-closing-hellblade-dev-ninja-theory-after-failed-buyout-talks",
+          "titre": "Microsoft Closing Hellblade Dev Ninja Theory After Failed Buyout Talks"
+        }
+      ]
+    },
+    {
+      "id": "i-thought-people-would-leave-hideo-kojima-offers-his-accoun",
+      "titre": "\"I thought people would leave\": Hideo Kojima offers his account of Physint's switch from PlayStation to Xbox, as his studio insist they're in a \"healthy, profitable state\"",
+      "url": "https://www.rockpapershotgun.com/i-thought-people-would-leave-hideo-kojima-offers-his-account-of-physints-switch-from-playstation-to-xbox-as-his-studio-insist-theyre-in-a-healthy-profitable-state",
+      "sources": [
+        "GamesIndustry.biz",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 26.9,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/i-thought-people-would-leave-hideo-kojima-offers-his-account-of-physints-switch-from-playstation-to-xbox-as-his-studio-insist-theyre-in-a-healthy-profitable-state",
+          "titre": "\"I thought people would leave\": Hideo Kojima offers his account of Physint's switch from PlayStation to Xbox, as his studio insist they're in a \"healthy, profitable state\""
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/hideo-kojima-couldnt-understand-why-physint-would-be-on-the-list-of-being-cancelled-by-sony",
+          "titre": "Hideo Kojima \"couldn't understand\" why Physint \"would be on the list of being cancelled\" by Sony"
+        }
+      ]
+    },
+    {
+      "id": "good-luck-today-halo-friends-after-years-of-rivalry-call-of",
+      "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs",
+      "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
+          "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs"
+        }
+      ]
+    },
+    {
+      "id": "hellblade-developer-ninja-theory-heading-towards-closure-in",
+      "titre": "Hellblade developer Ninja Theory heading towards closure in new wave of Xbox cuts, as two separate agreements collapse",
+      "url": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.2,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
+          "titre": "Hellblade developer Ninja Theory heading towards closure in new wave of Xbox cuts, as two separate agreements collapse"
+        }
+      ]
+    },
+    {
+      "id": "xbox-officially-announces-more-layoffs-and-widespread-change",
+      "titre": "Xbox officially announces more layoffs and widespread changes to its entire studio structure",
+      "url": "https://www.videogameschronicle.com/news/xbox-officially-announces-more-layoffs-and-widespread-changes-to-its-entire-studio-structure/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 2.3,
+      "chaleur": 11,
+      "liens": [
+        {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-will-reportedly-consolidate-several-studios-in-new-major-wave-of-layoffs/",
-          "titre": "Xbox will reportedly ‘consolidate several studios’ in new major wave of layoffs"
+          "url": "https://www.videogameschronicle.com/news/xbox-officially-announces-more-layoffs-and-widespread-changes-to-its-entire-studio-structure/",
+          "titre": "Xbox officially announces more layoffs and widespread changes to its entire studio structure"
+        }
+      ]
+    },
+    {
+      "id": "xbox-reportedly-set-to-lay-off-hundreds-more-staff-and-conso",
+      "titre": "Xbox reportedly set to lay off hundreds more staff and \"consolidate\" several game studios in second round of major cuts this year",
+      "url": "https://www.rockpapershotgun.com/xbox-reportedly-set-to-lay-off-hundreds-more-staff-and-consolidate-several-game-studios-in-second-round-of-major-cuts-this-year",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 6.8,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/xbox-reportedly-set-to-lay-off-hundreds-more-staff-and-consolidate-several-game-studios-in-second-round-of-major-cuts-this-year",
+          "titre": "Xbox reportedly set to lay off hundreds more staff and \"consolidate\" several game studios in second round of major cuts this year"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-second-wave-cuts-layoffs-report",
+          "titre": "Second wave of Xbox cuts reported to be happening this week, with \"several\" studios apparently facing consolidation"
         }
       ]
     },
@@ -61,8 +247,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 2.3,
-      "chaleur": 12,
+      "heures": 4.4,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Push Square",
@@ -82,102 +268,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-confirms-job-losses-and-studio-changes-activision-to-ma",
-      "titre": "Xbox Confirms Job Losses and Studio Changes, Activision to Make Next Halo Game",
-      "url": "https://www.pushsquare.com/news/2026/09/xbox-confirms-job-losses-and-studio-changes-activision-to-make-next-halo-game",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 0.1,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/xbox-confirms-job-losses-and-studio-changes-activision-to-make-next-halo-game",
-          "titre": "Xbox Confirms Job Losses and Studio Changes, Activision to Make Next Halo Game"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/next-halo-game-developer-call-of-duty-stuidio-xbox-restructuring",
-          "titre": "Next major Halo game being developed by Activision, as Halo Studios all but closes as part of Microsoft's Xbox restructuring"
-        }
-      ]
-    },
-    {
-      "id": "xbox-transfers-rare-and-halo-franchise-to-activision-propose",
-      "titre": "Xbox transfers Rare and Halo franchise to Activision, proposes closure of Ninja Theory and confirms another 268 roles cut amid studio restructure",
-      "url": "https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 0.2,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure",
-          "titre": "Xbox transfers Rare and Halo franchise to Activision, proposes closure of Ninja Theory and confirms another 268 roles cut amid studio restructure"
-        }
-      ]
-    },
-    {
-      "id": "xbox-officially-announces-more-layoffs-and-widespread-change",
-      "titre": "Xbox officially announces more layoffs and widespread changes to its entire studio structure",
-      "url": "https://www.videogameschronicle.com/news/xbox-officially-announces-more-layoffs-and-widespread-changes-to-its-entire-studio-structure/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 0.3,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-officially-announces-more-layoffs-and-widespread-changes-to-its-entire-studio-structure/",
-          "titre": "Xbox officially announces more layoffs and widespread changes to its entire studio structure"
-        }
-      ]
-    },
-    {
-      "id": "blizzard-layoffs-are-reportedly-imminent-days-after-an-excit",
-      "titre": "Blizzard layoffs are reportedly imminent, days after an exciting BlizzCon and a seemingly popular World of Warcraft: Forever beta",
-      "url": "https://www.eurogamer.net/blizzard-layoffs-xbox-cuts",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blizzard-layoffs-xbox-cuts",
-          "titre": "Blizzard layoffs are reportedly imminent, days after an exciting BlizzCon and a seemingly popular World of Warcraft: Forever beta"
-        }
-      ]
-    },
-    {
-      "id": "io-interactive-had-no-choice-but-to-delay-switch-2-launch-of",
-      "titre": "IO Interactive \"had no choice\" but to delay Switch 2 launch of 007 First Light for a third time",
-      "url": "https://www.gamesindustry.biz/io-interactive-had-no-choice-but-to-delay-switch-2-launch-of-007-first-light-for-a-third-time",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/io-interactive-had-no-choice-but-to-delay-switch-2-launch-of-007-first-light-for-a-third-time",
-          "titre": "IO Interactive \"had no choice\" but to delay Switch 2 launch of 007 First Light for a third time"
-        }
-      ]
-    },
-    {
       "id": "bungie-says-it-s-not-done-with-destiny-aims-to-earn-back-pla",
       "titre": "Bungie says it's \"not done with Destiny\", aims to earn back player trust by restoring archived Destiny 2 content",
       "url": "https://www.gamesindustry.biz/bungie-says-its-not-done-with-destiny-aims-to-earn-back-player-trust-by-restoring-archived-destiny-2-content",
@@ -187,7 +277,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 10,
       "liens": [
         {
@@ -208,6 +298,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "nintendo-s-zelda-quiz-error-apology-has-led-to-yet-another-e",
+      "titre": "Nintendo's Zelda Quiz Error Apology Has Led To... Yet Another Error",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendos-zelda-quiz-error-apology-has-led-to-yet-another-error",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nintendos-zelda-quiz-error-apology-has-led-to-yet-another-error",
+          "titre": "Nintendo's Zelda Quiz Error Apology Has Led To... Yet Another Error"
+        }
+      ]
+    },
+    {
+      "id": "rainbow-six-siege-boss-says-players-who-stick-around-during",
+      "titre": "Rainbow Six Siege boss says players who stick around during GTA 6’s launch will be served ‘like kings and queens’",
+      "url": "https://www.videogameschronicle.com/news/rainbow-six-siege-boss-says-players-who-stick-around-during-gta-6s-launch-will-be-served-like-kings-and-queens/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/rainbow-six-siege-boss-says-players-who-stick-around-during-gta-6s-launch-will-be-served-like-kings-and-queens/",
+          "titre": "Rainbow Six Siege boss says players who stick around during GTA 6’s launch will be served ‘like kings and queens’"
+        }
+      ]
+    },
+    {
       "id": "do-not-rockstar-outlines-modding-rules-before-gta-vi-touche",
       "titre": "'Do not': Rockstar outlines modding rules before GTA VI touches down",
       "url": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
@@ -215,7 +341,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.8,
       "chaleur": 9,
       "liens": [
         {
@@ -226,44 +352,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "guide-where-to-pre-order-the-legend-of-zelda-ocarina-of-time",
-      "titre": "Guide: Where To Pre-Order The Legend Of Zelda: Ocarina Of Time & Zelda Nintendo Switch 2 Console",
-      "url": "https://www.nintendolife.com/guides/where-to-pre-order-the-legend-of-zelda-ocarina-of-time-and-zelda-nintendo-switch-2-console",
+      "id": "blizzard-layoffs-are-reportedly-imminent-days-after-an-excit",
+      "titre": "Blizzard layoffs are reportedly imminent, days after an exciting BlizzCon and a seemingly popular World of Warcraft: Forever beta",
+      "url": "https://www.eurogamer.net/blizzard-layoffs-xbox-cuts",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.8,
+      "heures": 4.2,
       "chaleur": 9,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/where-to-pre-order-the-legend-of-zelda-ocarina-of-time-and-zelda-nintendo-switch-2-console",
-          "titre": "Guide: Where To Pre-Order The Legend Of Zelda: Ocarina Of Time & Zelda Nintendo Switch 2 Console"
-        }
-      ]
-    },
-    {
-      "id": "i-had-to-fight-sonic-boss-takashi-iizuka-reveals-sega-wante",
-      "titre": "\"I Had To Fight\" - Sonic Boss Takashi Iizuka Reveals Sega Wanted To Cancel Entire Sonic Franchise",
-      "url": "https://www.nintendolife.com/news/2026/09/i-had-to-fight-sonic-boss-takashi-iizuka-reveals-sega-wanted-to-cancel-entire-sonic-franchise",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 3.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/i-had-to-fight-sonic-boss-takashi-iizuka-reveals-sega-wanted-to-cancel-entire-sonic-franchise",
-          "titre": "\"I Had To Fight\" - Sonic Boss Takashi Iizuka Reveals Sega Wanted To Cancel Entire Sonic Franchise"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sega-wanted-to-cancel-the-entire-sonic-series-but-the-first-movie-saved-it-says-sonic-team-head-iizuka/",
-          "titre": "Sega wanted to cancel the entire Sonic series but the first movie saved it, says Sonic Team head Iizuka"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/blizzard-layoffs-xbox-cuts",
+          "titre": "Blizzard layoffs are reportedly imminent, days after an exciting BlizzCon and a seemingly popular World of Warcraft: Forever beta"
         }
       ]
     },
@@ -276,7 +378,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 9,
       "liens": [
         {
@@ -292,44 +394,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "hideo-kojima-doesn-t-know-if-physint-will-be-released-on-ps5",
-      "titre": "Hideo Kojima doesn't know if Physint will be released on PS5, and he hasn't decided if it's going to use Sony's Decima game engine",
-      "url": "https://www.eurogamer.net/hideo-kojima-physint-playstation-release-decima-engine",
+      "id": "today-s-changes-might-get-xbox-a-new-halo-sooner-but-history",
+      "titre": "Today's changes might get Xbox a new Halo sooner, but history shows production line development makes for boring games",
+      "url": "https://www.rockpapershotgun.com/xboxs-consolidation-plans-might-mean-you-get-a-new-halo-sooner-but-history-shows-production-line-development-makes-for-boring-games",
       "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz"
+        "Rock Paper Shotgun"
       ],
-      "reprises": 2,
-      "heures": 23.7,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/hideo-kojima-physint-playstation-release-decima-engine",
-          "titre": "Hideo Kojima doesn't know if Physint will be released on PS5, and he hasn't decided if it's going to use Sony's Decima game engine"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/hideo-kojima-couldnt-understand-why-physint-would-be-on-the-list-of-being-cancelled-by-sony",
-          "titre": "Hideo Kojima \"couldn't understand\" why Physint \"would be on the list of being cancelled\" by Sony"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/xboxs-consolidation-plans-might-mean-you-get-a-new-halo-sooner-but-history-shows-production-line-development-makes-for-boring-games",
+          "titre": "Today's changes might get Xbox a new Halo sooner, but history shows production line development makes for boring games"
         }
       ]
     },
     {
-      "id": "hellblade-developer-ninja-theory-to-be-shut-down-in-new-wave",
-      "titre": "Hellblade developer Ninja Theory to be shut down in new wave of Xbox cuts, as two separate agreements collapse",
-      "url": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
+      "id": "banjo-kazooie-developer-rare-is-now-reporting-directly-to-ac",
+      "titre": "Banjo-Kazooie Developer Rare Is Now Reporting Directly To Activision",
+      "url": "https://www.nintendolife.com/news/2026/09/banjo-kazooie-developer-rare-is-now-reporting-directly-to-activision",
       "sources": [
-        "Eurogamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 1.6,
       "chaleur": 8,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
-          "titre": "Hellblade developer Ninja Theory to be shut down in new wave of Xbox cuts, as two separate agreements collapse"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/banjo-kazooie-developer-rare-is-now-reporting-directly-to-activision",
+          "titre": "Banjo-Kazooie Developer Rare Is Now Reporting Directly To Activision"
         }
       ]
     },
@@ -341,7 +437,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 8,
       "liens": [
         {
@@ -359,7 +455,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 8,
       "liens": [
         {
@@ -377,7 +473,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 8,
       "liens": [
         {
@@ -388,56 +484,62 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-witcher-3-remastered-will-also-turn-the-xbox-version-int",
-      "titre": "The Witcher 3 Remastered will also turn the Xbox version into a Play Anywhere title, making the PC version available too",
-      "url": "https://www.videogameschronicle.com/news/the-witcher-3-remastered-will-also-turn-the-xbox-version-into-a-play-anywhere-title-making-the-pc-version-available-too/",
+      "id": "io-interactive-had-no-choice-but-to-delay-switch-2-launch-of",
+      "titre": "IO Interactive \"had no choice\" but to delay Switch 2 launch of 007 First Light for a third time",
+      "url": "https://www.gamesindustry.biz/io-interactive-had-no-choice-but-to-delay-switch-2-launch-of-007-first-light-for-a-third-time",
       "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/io-interactive-had-no-choice-but-to-delay-switch-2-launch-of-007-first-light-for-a-third-time",
+          "titre": "IO Interactive \"had no choice\" but to delay Switch 2 launch of 007 First Light for a third time"
+        }
+      ]
+    },
+    {
+      "id": "guide-where-to-pre-order-the-legend-of-zelda-ocarina-of-time",
+      "titre": "Guide: Where To Pre-Order The Legend Of Zelda: Ocarina Of Time & Zelda Nintendo Switch 2 Console",
+      "url": "https://www.nintendolife.com/guides/where-to-pre-order-the-legend-of-zelda-ocarina-of-time-and-zelda-nintendo-switch-2-console",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/guides/where-to-pre-order-the-legend-of-zelda-ocarina-of-time-and-zelda-nintendo-switch-2-console",
+          "titre": "Guide: Where To Pre-Order The Legend Of Zelda: Ocarina Of Time & Zelda Nintendo Switch 2 Console"
+        }
+      ]
+    },
+    {
+      "id": "i-had-to-fight-sonic-boss-takashi-iizuka-reveals-sega-wante",
+      "titre": "\"I Had To Fight\" - Sonic Boss Takashi Iizuka Reveals Sega Wanted To Cancel Entire Sonic Franchise",
+      "url": "https://www.nintendolife.com/news/2026/09/i-had-to-fight-sonic-boss-takashi-iizuka-reveals-sega-wanted-to-cancel-entire-sonic-franchise",
+      "sources": [
+        "Nintendo Life",
         "VGC"
       ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 8,
+      "reprises": 2,
+      "heures": 5.6,
+      "chaleur": 7,
       "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/i-had-to-fight-sonic-boss-takashi-iizuka-reveals-sega-wanted-to-cancel-entire-sonic-franchise",
+          "titre": "\"I Had To Fight\" - Sonic Boss Takashi Iizuka Reveals Sega Wanted To Cancel Entire Sonic Franchise"
+        },
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-witcher-3-remastered-will-also-turn-the-xbox-version-into-a-play-anywhere-title-making-the-pc-version-available-too/",
-          "titre": "The Witcher 3 Remastered will also turn the Xbox version into a Play Anywhere title, making the PC version available too"
-        }
-      ]
-    },
-    {
-      "id": "steam-profiles-are-beautiful-2000s-era-relics",
-      "titre": "Steam profiles are beautiful 2000s-era relics",
-      "url": "https://www.pcgamer.com/games/steam-profiles-are-beautiful-2000s-era-relics/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/steam-profiles-are-beautiful-2000s-era-relics/",
-          "titre": "Steam profiles are beautiful 2000s-era relics"
-        }
-      ]
-    },
-    {
-      "id": "intel-reportedly-collaborating-with-auo-on-microled-panels-w",
-      "titre": "Intel reportedly collaborating with AUO on microLED panels, which could help make the ultimate display tech more mainstream",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/intel-reportedly-collaborating-with-auo-on-microled-panels-which-could-help-make-the-ultimate-display-tech-more-mainstream/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-monitors/intel-reportedly-collaborating-with-auo-on-microled-panels-which-could-help-make-the-ultimate-display-tech-more-mainstream/",
-          "titre": "Intel reportedly collaborating with AUO on microLED panels, which could help make the ultimate display tech more mainstream"
+          "url": "https://www.videogameschronicle.com/news/sega-wanted-to-cancel-the-entire-sonic-series-but-the-first-movie-saved-it-says-sonic-team-head-iizuka/",
+          "titre": "Sega wanted to cancel the entire Sonic series but the first movie saved it, says Sonic Team head Iizuka"
         }
       ]
     },
@@ -449,7 +551,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.1,
       "chaleur": 7,
       "liens": [
         {
@@ -468,7 +570,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 9.6,
+      "heures": 11.6,
       "chaleur": 7,
       "liens": [
         {
@@ -628,56 +730,200 @@ const VEILLE = {
       ]
     },
     {
-      "id": "licensing-expo",
-      "titre": "Licensing Expo",
-      "url": "https://www.gamedeveloper.comwww.brandlicensingexpo.com",
+      "id": "artist-who-hand-paints-some-of-gaming-s-best-fantasy-world-m",
+      "titre": "Artist who hand-paints some of gaming's best fantasy world maps brings them together in oversized and extremely lavish art book",
+      "url": "https://www.eurogamer.net/francesca-baerald-game-map-art-book",
       "sources": [
-        "Game Developer"
+        "Eurogamer"
       ],
       "reprises": 1,
       "heures": 0.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.comwww.brandlicensingexpo.com",
-          "titre": "Licensing Expo"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/francesca-baerald-game-map-art-book",
+          "titre": "Artist who hand-paints some of gaming's best fantasy world maps brings them together in oversized and extremely lavish art book"
         }
       ]
     },
     {
-      "id": "mdev",
-      "titre": "MDEV",
-      "url": "https://www.gamedeveloper.comwww.mdevconf.com",
+      "id": "with-a-dozen-music-levels-rayman-legends-retold-doubles-down",
+      "titre": "With \"a dozen\" music levels, Rayman Legends Retold doubles down on the best bit of the original game, and having played it I couldn't be happier",
+      "url": "https://www.eurogamer.net/rayman-legends-iconic-music-levels-retold-interview",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/rayman-legends-iconic-music-levels-retold-interview",
+          "titre": "With \"a dozen\" music levels, Rayman Legends Retold doubles down on the best bit of the original game, and having played it I couldn't be happier"
+        }
+      ]
+    },
+    {
+      "id": "why-blizzard-vet-rob-pardo-is-going-all-in-on-arkheron-the-p",
+      "titre": "Why Blizzard vet Rob Pardo is going all-in on Arkheron, the PvP dungeon crawler that's like dark-fantasy Backrooms: 'It's very much been an odyssey'",
+      "url": "https://www.pcgamer.com/games/action/why-blizzard-vet-rob-pardo-is-going-all-in-on-arkheron-the-pvp-dungeon-crawler-thats-like-dark-fantasy-backrooms-its-very-much-been-an-odyssey/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/why-blizzard-vet-rob-pardo-is-going-all-in-on-arkheron-the-pvp-dungeon-crawler-thats-like-dark-fantasy-backrooms-its-very-much-been-an-odyssey/",
+          "titre": "Why Blizzard vet Rob Pardo is going all-in on Arkheron, the PvP dungeon crawler that's like dark-fantasy Backrooms: 'It's very much been an odyssey'"
+        }
+      ]
+    },
+    {
+      "id": "we-want-to-keep-it-very-simple-how-nex-playground-is-beatin",
+      "titre": "'We want to keep it very simple:' How Nex Playground is beating expectations during a hardware crisis",
+      "url": "https://www.gamedeveloper.com/business/-we-want-to-keep-it-very-simple-how-nex-playrground-is-beating-expectations-during-a-hardware-crisis",
       "sources": [
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 1.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
-          "url": "https://www.gamedeveloper.comwww.mdevconf.com",
-          "titre": "MDEV"
+          "url": "https://www.gamedeveloper.com/business/-we-want-to-keep-it-very-simple-how-nex-playrground-is-beating-expectations-during-a-hardware-crisis",
+          "titre": "'We want to keep it very simple:' How Nex Playground is beating expectations during a hardware crisis"
         }
       ]
     },
     {
-      "id": "fire-emblem-fortune-s-weave-broom-lady-locations-a-peculiar",
-      "titre": "Fire Emblem Fortune’s Weave: Broom Lady locations, A Peculiar Message quest guide",
-      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-broom-lady-locations-a-peculiar-message-quest-guide/",
+      "id": "fire-emblem-fortune-s-weave-complete-walkthrough-hub",
+      "titre": "Fire Emblem: Fortune’s Weave complete walkthrough hub",
+      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-complete-walkthrough-hub/",
       "sources": [
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 1.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-broom-lady-locations-a-peculiar-message-quest-guide/",
-          "titre": "Fire Emblem Fortune’s Weave: Broom Lady locations, A Peculiar Message quest guide"
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-complete-walkthrough-hub/",
+          "titre": "Fire Emblem: Fortune’s Weave complete walkthrough hub"
+        }
+      ]
+    },
+    {
+      "id": "tragedy-crusader-kings-3-s-pope-dlc-will-not-let-you-use-blo",
+      "titre": "Tragedy: Crusader Kings 3's pope DLC will not let you use blood boys to prolong your life, and yes I did ask the devs",
+      "url": "https://www.pcgamer.com/games/strategy/tragedy-crusader-kings-3s-pope-dlc-will-not-let-you-use-blood-boys-to-prolong-your-life-and-yes-i-did-ask-the-devs/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/tragedy-crusader-kings-3s-pope-dlc-will-not-let-you-use-blood-boys-to-prolong-your-life-and-yes-i-did-ask-the-devs/",
+          "titre": "Tragedy: Crusader Kings 3's pope DLC will not let you use blood boys to prolong your life, and yes I did ask the devs"
+        }
+      ]
+    },
+    {
+      "id": "final-fantasy-7-revelation-dev-considering-customisation-opt",
+      "titre": "Final Fantasy 7 Revelation Dev 'Considering' Customisation Options for Game's Huge Amount of 'On-Screen Guidance'",
+      "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-dev-considering-customisation-options-for-games-huge-amount-of-on-screen-guidance",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-dev-considering-customisation-options-for-games-huge-amount-of-on-screen-guidance",
+          "titre": "Final Fantasy 7 Revelation Dev 'Considering' Customisation Options for Game's Huge Amount of 'On-Screen Guidance'"
+        }
+      ]
+    },
+    {
+      "id": "zach-cregger-explains-which-two-movies-inspired-his-resident",
+      "titre": "Zach Cregger explains which two movies inspired his Resident Evil film: 'Like if those movies loved each other very much'",
+      "url": "https://www.pcgamer.com/games/resident-evil/zach-cregger-explains-which-two-movies-inspired-his-resident-evil-film-like-if-those-movies-loved-each-other-very-much/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/resident-evil/zach-cregger-explains-which-two-movies-inspired-his-resident-evil-film-like-if-those-movies-loved-each-other-very-much/",
+          "titre": "Zach Cregger explains which two movies inspired his Resident Evil film: 'Like if those movies loved each other very much'"
+        }
+      ]
+    },
+    {
+      "id": "amd-s-market-cap-just-blasted-through-the-1-trillion-barrier",
+      "titre": "AMD's market cap just blasted through the $1 trillion barrier",
+      "url": "https://www.pcgamer.com/hardware/processors/amds-market-cap-just-blasted-through-the-usd1-trillion-barrier/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/processors/amds-market-cap-just-blasted-through-the-usd1-trillion-barrier/",
+          "titre": "AMD's market cap just blasted through the $1 trillion barrier"
+        }
+      ]
+    },
+    {
+      "id": "if-apple-s-new-m6-soc-is-anything-to-go-by-next-gen-2nm-pc-c",
+      "titre": "If Apple's new M6 SoC is anything to go by, next-gen 2nm PC chips are going to be awesome",
+      "url": "https://www.pcgamer.com/hardware/processors/if-apples-new-m6-soc-is-anything-to-go-by-next-gen-2nm-pc-chips-are-going-to-be-awesome/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/processors/if-apples-new-m6-soc-is-anything-to-go-by-next-gen-2nm-pc-chips-are-going-to-be-awesome/",
+          "titre": "If Apple's new M6 SoC is anything to go by, next-gen 2nm PC chips are going to be awesome"
+        }
+      ]
+    },
+    {
+      "id": "what-s-on-pc-gamer-s-desk",
+      "titre": "What's on PC Gamer's desk?",
+      "url": "https://www.pcgamer.com/hardware/whats-on-pc-gamers-desk/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/whats-on-pc-gamers-desk/",
+          "titre": "What's on PC Gamer's desk?"
         }
       ]
     },
@@ -689,7 +935,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -707,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -725,7 +971,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -743,7 +989,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -754,146 +1000,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "talking-point-how-do-you-feel-about-series-branded-consoles",
-      "titre": "Talking Point: How Do You Feel About Series-Branded Consoles?",
-      "url": "https://www.nintendolife.com/features/talking-point-how-do-you-feel-about-series-branded-consoles",
+      "id": "the-witcher-3-remastered-will-also-turn-the-xbox-version-int",
+      "titre": "The Witcher 3 Remastered will also turn the Xbox version into a Play Anywhere title, making the PC version available too",
+      "url": "https://www.videogameschronicle.com/news/the-witcher-3-remastered-will-also-turn-the-xbox-version-into-a-play-anywhere-title-making-the-pc-version-available-too/",
       "sources": [
-        "Nintendo Life"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 2.3,
+      "heures": 4.8,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-how-do-you-feel-about-series-branded-consoles",
-          "titre": "Talking Point: How Do You Feel About Series-Branded Consoles?"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-witcher-3-remastered-will-also-turn-the-xbox-version-into-a-play-anywhere-title-making-the-pc-version-available-too/",
+          "titre": "The Witcher 3 Remastered will also turn the Xbox version into a Play Anywhere title, making the PC version available too"
         }
       ]
     },
     {
-      "id": "there-is-no-easy-answer-anymore-there-s-no-kind-of-playbook",
-      "titre": "\"There is no easy answer anymore, there's no kind of playbook\" – Secret Mode is hedging its bets with two very different pillars",
-      "url": "https://www.gamesindustry.biz/there-is-no-easy-answer-anymore-theres-no-kind-of-playbook-secret-mode-is-hedging-its-bets-with-two-very-different-pillars",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/there-is-no-easy-answer-anymore-theres-no-kind-of-playbook-secret-mode-is-hedging-its-bets-with-two-very-different-pillars",
-          "titre": "\"There is no easy answer anymore, there's no kind of playbook\" – Secret Mode is hedging its bets with two very different pillars"
-        }
-      ]
-    },
-    {
-      "id": "it-s-time-to-decide-the-worst-graphical-effect-in-games-dept",
-      "titre": "It's time to decide the worst graphical effect in games: depth of field vs vignette",
-      "url": "https://www.pcgamer.com/hardware/its-time-to-decide-the-worst-graphical-effect-in-games-depth-of-field-vs-vignette/",
+      "id": "steam-profiles-are-beautiful-2000s-era-relics",
+      "titre": "Steam profiles are beautiful 2000s-era relics",
+      "url": "https://www.pcgamer.com/games/steam-profiles-are-beautiful-2000s-era-relics/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.0,
+      "heures": 5.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/its-time-to-decide-the-worst-graphical-effect-in-games-depth-of-field-vs-vignette/",
-          "titre": "It's time to decide the worst graphical effect in games: depth of field vs vignette"
-        }
-      ]
-    },
-    {
-      "id": "another-injustice-3-leak-reveals-two-characters-in-the-rumou",
-      "titre": "Another Injustice 3 leak reveals two characters in the rumoured DC fighting game - one that's expected and one that's a big surprise",
-      "url": "https://www.eurogamer.net/injustice-3-supergirl-batwoman-leak",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/injustice-3-supergirl-batwoman-leak",
-          "titre": "Another Injustice 3 leak reveals two characters in the rumoured DC fighting game - one that's expected and one that's a big surprise"
-        }
-      ]
-    },
-    {
-      "id": "i-ve-been-doing-roleplay-for-15-years-and-i-don-t-think-wow",
-      "titre": "I've been doing roleplay for 15+ years, and I don't think WoW: Forever needs a ruleset for it",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/ive-been-doing-roleplay-for-15-years-i-dont-think-wow-forever-needs-a-ruleset-for-it/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/ive-been-doing-roleplay-for-15-years-i-dont-think-wow-forever-needs-a-ruleset-for-it/",
-          "titre": "I've been doing roleplay for 15+ years, and I don't think WoW: Forever needs a ruleset for it"
-        }
-      ]
-    },
-    {
-      "id": "beyond-good-and-evil-was-never-worth-20-years-of-angst",
-      "titre": "Beyond Good and Evil was never worth 20 years of angst",
-      "url": "https://www.pcgamer.com/games/adventure/beyond-good-and-evil-was-never-worth-20-years-of-angst/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/adventure/beyond-good-and-evil-was-never-worth-20-years-of-angst/",
-          "titre": "Beyond Good and Evil was never worth 20 years of angst"
-        }
-      ]
-    },
-    {
-      "id": "i-m-calling-for-an-end-to-smooth-faced-dystopias",
-      "titre": "I'm calling for an end to smooth-faced dystopias",
-      "url": "https://www.pcgamer.com/games/im-calling-for-an-end-to-smooth-faced-dystopias/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/im-calling-for-an-end-to-smooth-faced-dystopias/",
-          "titre": "I'm calling for an end to smooth-faced dystopias"
-        }
-      ]
-    },
-    {
-      "id": "i-tornado-games",
-      "titre": "I ❤️ tornado games",
-      "url": "https://www.pcgamer.com/games/i-tornado-games/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/i-tornado-games/",
-          "titre": "I ❤️ tornado games"
+          "url": "https://www.pcgamer.com/games/steam-profiles-are-beautiful-2000s-era-relics/",
+          "titre": "Steam profiles are beautiful 2000s-era relics"
         }
       ]
     },
@@ -905,49 +1043,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/features/interviews/monster-hunter-wilds-ascendance-devs-discuss-switch-2-wilds-feedback-and-the-expansions-time-skip/",
           "titre": "Monster Hunter Wilds Ascendance devs discuss Switch 2, Wilds feedback, and the expansion’s time skip"
-        }
-      ]
-    },
-    {
-      "id": "we-were-almost-dead-neogeo-boss-reveals-forced-redesign-beh",
-      "titre": "‘We were almost dead’: NeoGeo boss reveals forced redesign behind AES+ delay",
-      "url": "https://www.videogameschronicle.com/news/we-were-almost-dead-neogeo-boss-reveals-forced-redesign-behind-aes-delay/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 7.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/we-were-almost-dead-neogeo-boss-reveals-forced-redesign-behind-aes-delay/",
-          "titre": "‘We were almost dead’: NeoGeo boss reveals forced redesign behind AES+ delay"
-        }
-      ]
-    },
-    {
-      "id": "runescape-dragonwilds-rolls-out-its-first-update-for-switch",
-      "titre": "RuneScape: Dragonwilds Rolls Out Its First Update For Switch 2 Adventurers",
-      "url": "https://www.nintendolife.com/news/2026/09/runescape-dragonwilds-rolls-out-its-first-update-for-switch-2-adventurers",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/runescape-dragonwilds-rolls-out-its-first-update-for-switch-2-adventurers",
-          "titre": "RuneScape: Dragonwilds Rolls Out Its First Update For Switch 2 Adventurers"
         }
       ]
     },
@@ -959,7 +1061,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.0,
+      "heures": 21.0,
       "chaleur": 6,
       "liens": [
         {
@@ -978,7 +1080,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 20.8,
+      "heures": 22.9,
       "chaleur": 6,
       "liens": [
         {
@@ -1002,7 +1104,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 20.9,
+      "heures": 22.9,
       "chaleur": 6,
       "liens": [
         {
@@ -1025,7 +1127,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.3,
       "chaleur": 6,
       "liens": [
         {
@@ -1036,38 +1138,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-thought-people-would-leave-hideo-kojima-offers-his-accoun",
-      "titre": "\"I thought people would leave\": Hideo Kojima offers his account of Physint's switch from PlayStation to Xbox, as his studio insist they're in a \"healthy, profitable state\"",
-      "url": "https://www.rockpapershotgun.com/i-thought-people-would-leave-hideo-kojima-offers-his-account-of-physints-switch-from-playstation-to-xbox-as-his-studio-insist-theyre-in-a-healthy-profitable-state",
+      "id": "runescape-dragonwilds-rolls-out-its-first-update-for-switch",
+      "titre": "RuneScape: Dragonwilds Rolls Out Its First Update For Switch 2 Adventurers",
+      "url": "https://www.nintendolife.com/news/2026/09/runescape-dragonwilds-rolls-out-its-first-update-for-switch-2-adventurers",
       "sources": [
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.9,
-      "chaleur": 6,
+      "heures": 13.9,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-thought-people-would-leave-hideo-kojima-offers-his-account-of-physints-switch-from-playstation-to-xbox-as-his-studio-insist-theyre-in-a-healthy-profitable-state",
-          "titre": "\"I thought people would leave\": Hideo Kojima offers his account of Physint's switch from PlayStation to Xbox, as his studio insist they're in a \"healthy, profitable state\""
-        }
-      ]
-    },
-    {
-      "id": "ahead-of-gta-6-rockstar-warn-modders-against-making-unoffici",
-      "titre": "Ahead of GTA 6, Rockstar warn modders against making unofficial main story expansions, unauthorised ports and mods that combine GTA maps",
-      "url": "https://www.rockpapershotgun.com/ahead-of-gta-6-rockstar-warn-modders-against-against-making-unofficial-main-story-expansions-unauthorised-ports-and-mods-that-combine-gta-maps",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 27.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ahead-of-gta-6-rockstar-warn-modders-against-against-making-unofficial-main-story-expansions-unauthorised-ports-and-mods-that-combine-gta-maps",
-          "titre": "Ahead of GTA 6, Rockstar warn modders against making unofficial main story expansions, unauthorised ports and mods that combine GTA maps"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/runescape-dragonwilds-rolls-out-its-first-update-for-switch-2-adventurers",
+          "titre": "RuneScape: Dragonwilds Rolls Out Its First Update For Switch 2 Adventurers"
         }
       ]
     },
@@ -1079,7 +1163,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 23.9,
       "chaleur": 5,
       "liens": [
         {
@@ -1097,7 +1181,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 27.5,
       "chaleur": 5,
       "liens": [
         {
@@ -1106,79 +1190,12 @@ const VEILLE = {
           "titre": "The Steam Frame’s first post-launch update speeds up charging and ungarbles a mic bug"
         }
       ]
-    },
-    {
-      "id": "what-s-your-back-on-my-bullshit-videogame",
-      "titre": "What's your 'back on my bullshit' videogame?",
-      "url": "https://www.pcgamer.com/games/final-fantasy/whats-your-back-on-my-bullshit-videogame/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/final-fantasy/whats-your-back-on-my-bullshit-videogame/",
-          "titre": "What's your 'back on my bullshit' videogame?"
-        }
-      ]
-    },
-    {
-      "id": "trover-saves-the-universe-the-comedy-game-from-high-on-life",
-      "titre": "Trover Saves the Universe, the comedy game from High on Life studio Squanch Games, appears to have been delisted",
-      "url": "https://www.videogameschronicle.com/news/trover-saves-the-universe-the-comedy-game-from-high-on-life-studio-squanch-games-appears-to-have-been-delisted/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 4.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/trover-saves-the-universe-the-comedy-game-from-high-on-life-studio-squanch-games-appears-to-have-been-delisted/",
-          "titre": "Trover Saves the Universe, the comedy game from High on Life studio Squanch Games, appears to have been delisted"
-        }
-      ]
-    },
-    {
-      "id": "every-game-is-about-goku-eventually",
-      "titre": "Every game is about Goku eventually",
-      "url": "https://www.pcgamer.com/games/every-game-is-about-goku-eventually/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/every-game-is-about-goku-eventually/",
-          "titre": "Every game is about Goku eventually"
-        }
-      ]
-    },
-    {
-      "id": "my-favorite-space-warlord-baby-trading-sim-events",
-      "titre": "My favorite Space Warlord Baby Trading Sim events",
-      "url": "https://www.pcgamer.com/games/my-favorite-space-warlord-baby-trading-sim-events/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/my-favorite-space-warlord-baby-trading-sim-events/",
-          "titre": "My favorite Space Warlord Baby Trading Sim events"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Xbox continues 'reset' with Halo Studios layoffs and Undead Labs divestment",
+    "Xbox lays off 268 more employees, merges Obsidian into Bethesda, and puts Activision in charge of Halo",
+    "Xbox confirms 268 more layoffs, further studio closures, and Obsidian's shift to Bethesda as major restructuring continues",
+    "Xbox Confirms Job Losses and Studio Changes, Activision to Make Next Halo Game"
+  ]
 };
