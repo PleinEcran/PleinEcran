@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "23/09/2026 à 02h20",
+  "collecte": "23/09/2026 à 04h21",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 4,
-      "heures": 12.0,
+      "heures": 14.0,
       "chaleur": 19,
       "liens": [
         {
@@ -49,8 +49,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 11.2,
-      "chaleur": 12,
+      "heures": 13.3,
+      "chaleur": 11,
       "liens": [
         {
           "source": "PC Gamer",
@@ -77,8 +77,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 12,
+      "heures": 13.6,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Eurogamer",
@@ -96,7 +96,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 12.1,
+      "heures": 14.1,
       "chaleur": 11,
       "liens": [
         {
@@ -121,7 +121,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 9.8,
+      "heures": 11.8,
       "chaleur": 10,
       "liens": [
         {
@@ -142,30 +142,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-m-still-blown-away-by-the-amount-of-talent-hellblade-devs",
-      "titre": "\"I'm still blown away by the amount of talent\": Hellblade devs Ninja Theory face closure after Microsoft fail to reach a deal with buyers",
-      "url": "https://www.rockpapershotgun.com/im-still-blown-away-by-the-amount-of-talent-hellblade-devs-ninja-theory-face-closure-after-microsoft-fail-to-reach-a-deal-with-buyers",
-      "sources": [
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 10.0,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/im-still-blown-away-by-the-amount-of-talent-hellblade-devs-ninja-theory-face-closure-after-microsoft-fail-to-reach-a-deal-with-buyers",
-          "titre": "\"I'm still blown away by the amount of talent\": Hellblade devs Ninja Theory face closure after Microsoft fail to reach a deal with buyers"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/microsoft-closing-hellblade-dev-ninja-theory-after-failed-buyout-talks",
-          "titre": "Microsoft Closing Hellblade Dev Ninja Theory After Failed Buyout Talks"
-        }
-      ]
-    },
-    {
       "id": "xbox-reportedly-set-to-lay-off-hundreds-more-staff-and-conso",
       "titre": "Xbox reportedly set to lay off hundreds more staff and \"consolidate\" several game studios in second round of major cuts this year",
       "url": "https://www.rockpapershotgun.com/xbox-reportedly-set-to-lay-off-hundreds-more-staff-and-consolidate-several-game-studios-in-second-round-of-major-cuts-this-year",
@@ -174,7 +150,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 16.8,
+      "heures": 18.8,
       "chaleur": 10,
       "liens": [
         {
@@ -190,38 +166,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "state-of-decay-3-dev-hit-with-significant-layoffs-after-goin",
-      "titre": "State of Decay 3 Dev Hit with 'Significant' Layoffs After Going Independent",
-      "url": "https://www.pushsquare.com/news/2026/09/state-of-decay-3-dev-hit-with-significant-layoffs-after-going-independent",
+      "id": "i-m-still-blown-away-by-the-amount-of-talent-hellblade-devs",
+      "titre": "\"I'm still blown away by the amount of talent\": Hellblade devs Ninja Theory face closure after Microsoft fail to reach a deal with buyers",
+      "url": "https://www.rockpapershotgun.com/im-still-blown-away-by-the-amount-of-talent-hellblade-devs-ninja-theory-face-closure-after-microsoft-fail-to-reach-a-deal-with-buyers",
       "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/state-of-decay-3-dev-hit-with-significant-layoffs-after-going-independent",
-          "titre": "State of Decay 3 Dev Hit with 'Significant' Layoffs After Going Independent"
-        }
-      ]
-    },
-    {
-      "id": "good-luck-today-halo-friends-after-years-of-rivalry-call-of",
-      "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs",
-      "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
-      "sources": [
+        "Push Square",
         "Rock Paper Shotgun"
       ],
-      "reprises": 1,
-      "heures": 11.0,
+      "reprises": 2,
+      "heures": 12.0,
       "chaleur": 9,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
-          "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs"
+          "url": "https://www.rockpapershotgun.com/im-still-blown-away-by-the-amount-of-talent-hellblade-devs-ninja-theory-face-closure-after-microsoft-fail-to-reach-a-deal-with-buyers",
+          "titre": "\"I'm still blown away by the amount of talent\": Hellblade devs Ninja Theory face closure after Microsoft fail to reach a deal with buyers"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/microsoft-closing-hellblade-dev-ninja-theory-after-failed-buyout-talks",
+          "titre": "Microsoft Closing Hellblade Dev Ninja Theory After Failed Buyout Talks"
         }
       ]
     },
@@ -235,7 +199,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 14.3,
+      "heures": 16.4,
       "chaleur": 9,
       "liens": [
         {
@@ -256,26 +220,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "pok-mon-ruby-sapphire-hd-footage-reignites-rumours-about-swi",
-      "titre": "Pokémon Ruby & Sapphire HD Footage Reignites Rumours About Switch Ports",
-      "url": "https://www.nintendolife.com/news/2026/09/pokemon-ruby-and-sapphire-hd-footage-reignites-rumours-about-switch-ports",
+      "id": "where-can-australians-buy-r18-pc-games-without-a-credit-card",
+      "titre": "Where can Australians buy R18+ PC games without a credit card? Pretty much everywhere but Steam",
+      "url": "https://www.pcgamer.com/software/platforms/how-to-buy-r18-games-without-a-credit-card/",
       "sources": [
-        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/platforms/how-to-buy-r18-games-without-a-credit-card/",
+          "titre": "Where can Australians buy R18+ PC games without a credit card? Pretty much everywhere but Steam"
+        }
+      ]
+    },
+    {
+      "id": "trover-saves-the-universe-has-completely-vanished-from-the-s",
+      "titre": "Trover Saves The Universe Has Completely Vanished From The Switch eShop",
+      "url": "https://www.nintendolife.com/news/2026/09/trover-saves-the-universe-has-completely-vanished-from-the-switch-eshop",
+      "sources": [
         "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 26.4,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 2.6,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/pokemon-ruby-and-sapphire-hd-footage-reignites-rumours-about-switch-ports",
-          "titre": "Pokémon Ruby & Sapphire HD Footage Reignites Rumours About Switch Ports"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nintendo-switch-pokemon-ruby-sapphire-hd-port",
-          "titre": "Nintendo Switch ports of Pokémon Ruby and Sapphire look even more likely after official account shares suspiciously HD footage of the GBA games"
+          "url": "https://www.nintendolife.com/news/2026/09/trover-saves-the-universe-has-completely-vanished-from-the-switch-eshop",
+          "titre": "Trover Saves The Universe Has Completely Vanished From The Switch eShop"
         }
       ]
     },
@@ -287,7 +263,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.9,
       "chaleur": 8,
       "liens": [
         {
@@ -298,20 +274,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sudden-demand-for-middle-earth-shadow-of-mordor-and-war-ps5",
-      "titre": "Sudden Demand for Middle-earth: Shadow of Mordor and War PS5 Ports After Switch 2 Bundle Is Revealed",
-      "url": "https://www.pushsquare.com/news/2026/09/sudden-demand-for-middle-earth-shadow-of-mordor-and-war-ps5-ports-after-switch-2-bundle-is-revealed",
+      "id": "good-luck-today-halo-friends-after-years-of-rivalry-call-of",
+      "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs",
+      "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
       "sources": [
-        "Push Square"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 2.8,
+      "heures": 13.0,
       "chaleur": 8,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/sudden-demand-for-middle-earth-shadow-of-mordor-and-war-ps5-ports-after-switch-2-bundle-is-revealed",
-          "titre": "Sudden Demand for Middle-earth: Shadow of Mordor and War PS5 Ports After Switch 2 Bundle Is Revealed"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
+          "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs"
         }
       ]
     },
@@ -323,7 +299,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.2,
       "chaleur": 8,
       "liens": [
         {
@@ -341,7 +317,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.3,
       "chaleur": 8,
       "liens": [
         {
@@ -359,13 +335,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.2,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/blizzard-layoffs-xbox-cuts",
           "titre": "Blizzard layoffs are reportedly imminent, days after an exciting BlizzCon and a seemingly popular World of Warcraft: Forever beta"
+        }
+      ]
+    },
+    {
+      "id": "state-of-decay-3-dev-hit-with-significant-layoffs-after-goin",
+      "titre": "State of Decay 3 Dev Hit with 'Significant' Layoffs After Going Independent",
+      "url": "https://www.pushsquare.com/news/2026/09/state-of-decay-3-dev-hit-with-significant-layoffs-after-going-independent",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/state-of-decay-3-dev-hit-with-significant-layoffs-after-going-independent",
+          "titre": "State of Decay 3 Dev Hit with 'Significant' Layoffs After Going Independent"
         }
       ]
     },
@@ -377,73 +371,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/gaming-monitors/vindicated-after-speaking-to-some-pro-counter-strike-players-im-sure-i-was-right-when-i-said-360-hz-is-the-sweet-spot-for-competitive-fps/",
           "titre": "Vindicated: after speaking to some pro Counter-Strike players I'm sure I was right when I said 360 Hz is the sweet spot for competitive FPS"
-        }
-      ]
-    },
-    {
-      "id": "i-modded-crazy-taxi-into-grand-theft-auto-5",
-      "titre": "I modded Crazy Taxi into Grand Theft Auto 5",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-modded-crazy-taxi-into-grand-theft-auto-5/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 9.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-modded-crazy-taxi-into-grand-theft-auto-5/",
-          "titre": "I modded Crazy Taxi into Grand Theft Auto 5"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/grand-theft-auto-6-key-west-map",
-          "titre": "Grand Theft Auto 6 sleuths are torn on whether a famous Florida locale is in the game or not"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-s-zelda-quiz-error-apology-has-led-to-yet-another-e",
-      "titre": "Nintendo's Zelda Quiz Error Apology Has Led To... Yet Another Error",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendos-zelda-quiz-error-apology-has-led-to-yet-another-error",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendos-zelda-quiz-error-apology-has-led-to-yet-another-error",
-          "titre": "Nintendo's Zelda Quiz Error Apology Has Led To... Yet Another Error"
-        }
-      ]
-    },
-    {
-      "id": "rainbow-six-siege-boss-says-players-who-stick-around-during",
-      "titre": "Rainbow Six Siege boss says players who stick around during GTA 6’s launch will be served ‘like kings and queens’",
-      "url": "https://www.videogameschronicle.com/news/rainbow-six-siege-boss-says-players-who-stick-around-during-gta-6s-launch-will-be-served-like-kings-and-queens/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/rainbow-six-siege-boss-says-players-who-stick-around-during-gta-6s-launch-will-be-served-like-kings-and-queens/",
-          "titre": "Rainbow Six Siege boss says players who stick around during GTA 6’s launch will be served ‘like kings and queens’"
         }
       ]
     },
@@ -455,7 +389,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 7,
       "liens": [
         {
@@ -592,20 +526,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "guardians-make-their-own-fate-destiny-2-players-and-creator",
-      "titre": "'Guardians make their own fate.' Destiny 2 players and creators celebrate following Bungie's shock U-turn, as the studio admits: 'Your voices mattered'",
-      "url": "https://www.pcgamer.com/games/guardians-make-their-own-fate-destiny-2-players-and-creators-celebrate-following-bungies-shock-u-turn-as-the-studio-admits-your-voices-mattered/",
+      "id": "chinajoy",
+      "titre": "ChinaJoy",
+      "url": "https://www.gamedeveloper.comen.chinajoy.net",
       "sources": [
-        "PC Gamer"
+        "Game Developer"
       ],
       "reprises": 1,
-      "heures": 3.9,
+      "heures": 0.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/guardians-make-their-own-fate-destiny-2-players-and-creators-celebrate-following-bungies-shock-u-turn-as-the-studio-admits-your-voices-mattered/",
-          "titre": "'Guardians make their own fate.' Destiny 2 players and creators celebrate following Bungie's shock U-turn, as the studio admits: 'Your voices mattered'"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.comen.chinajoy.net",
+          "titre": "ChinaJoy"
+        }
+      ]
+    },
+    {
+      "id": "licensing-expo",
+      "titre": "Licensing Expo",
+      "url": "https://www.gamedeveloper.comwww.brandlicensingexpo.com",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.comwww.brandlicensingexpo.com",
+          "titre": "Licensing Expo"
+        }
+      ]
+    },
+    {
+      "id": "sudden-demand-for-middle-earth-shadow-of-mordor-and-war-ps5",
+      "titre": "Sudden Demand for Middle-earth: Shadow of Mordor and War PS5 Ports After Switch 2 Bundle Is Revealed",
+      "url": "https://www.pushsquare.com/news/2026/09/sudden-demand-for-middle-earth-shadow-of-mordor-and-war-ps5-ports-after-switch-2-bundle-is-revealed",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/sudden-demand-for-middle-earth-shadow-of-mordor-and-war-ps5-ports-after-switch-2-bundle-is-revealed",
+          "titre": "Sudden Demand for Middle-earth: Shadow of Mordor and War PS5 Ports After Switch 2 Bundle Is Revealed"
         }
       ]
     },
@@ -617,7 +587,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.4,
       "chaleur": 6,
       "liens": [
         {
@@ -635,7 +605,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 6,
       "liens": [
         {
@@ -653,7 +623,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
@@ -664,38 +634,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "today-s-changes-might-get-xbox-a-new-halo-sooner-but-history",
-      "titre": "Today's changes might get Xbox a new Halo sooner, but history shows production line development makes for boring games",
-      "url": "https://www.rockpapershotgun.com/xboxs-consolidation-plans-might-mean-you-get-a-new-halo-sooner-but-history-shows-production-line-development-makes-for-boring-games",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/xboxs-consolidation-plans-might-mean-you-get-a-new-halo-sooner-but-history-shows-production-line-development-makes-for-boring-games",
-          "titre": "Today's changes might get Xbox a new Halo sooner, but history shows production line development makes for boring games"
-        }
-      ]
-    },
-    {
-      "id": "banjo-kazooie-developer-rare-is-now-reporting-directly-to-ac",
-      "titre": "Banjo-Kazooie Developer Rare Is Now Reporting Directly To Activision",
-      "url": "https://www.nintendolife.com/news/2026/09/banjo-kazooie-developer-rare-is-now-reporting-directly-to-activision",
+      "id": "nintendo-s-zelda-quiz-error-apology-has-led-to-yet-another-e",
+      "titre": "Nintendo's Zelda Quiz Error Apology Has Led To... Yet Another Error",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendos-zelda-quiz-error-apology-has-led-to-yet-another-error",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.6,
+      "heures": 12.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/banjo-kazooie-developer-rare-is-now-reporting-directly-to-activision",
-          "titre": "Banjo-Kazooie Developer Rare Is Now Reporting Directly To Activision"
+          "url": "https://www.nintendolife.com/news/2026/09/nintendos-zelda-quiz-error-apology-has-led-to-yet-another-error",
+          "titre": "Nintendo's Zelda Quiz Error Apology Has Led To... Yet Another Error"
+        }
+      ]
+    },
+    {
+      "id": "rainbow-six-siege-boss-says-players-who-stick-around-during",
+      "titre": "Rainbow Six Siege boss says players who stick around during GTA 6’s launch will be served ‘like kings and queens’",
+      "url": "https://www.videogameschronicle.com/news/rainbow-six-siege-boss-says-players-who-stick-around-during-gta-6s-launch-will-be-served-like-kings-and-queens/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 13.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/rainbow-six-siege-boss-says-players-who-stick-around-during-gta-6s-launch-will-be-served-like-kings-and-queens/",
+          "titre": "Rainbow Six Siege boss says players who stick around during GTA 6’s launch will be served ‘like kings and queens’"
         }
       ]
     },
@@ -707,7 +677,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 15.8,
       "chaleur": 6,
       "liens": [
         {
@@ -725,7 +695,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.8,
+      "heures": 16.8,
       "chaleur": 6,
       "liens": [
         {
@@ -744,7 +714,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 16.6,
+      "heures": 18.6,
       "chaleur": 6,
       "liens": [
         {
@@ -767,7 +737,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 19.1,
       "chaleur": 6,
       "liens": [
         {
@@ -785,7 +755,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.9,
+      "heures": 33.0,
       "chaleur": 6,
       "liens": [
         {
@@ -796,20 +766,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "french-publisher-dear-villagers-confirms-layoffs",
-      "titre": "French publisher Dear Villagers confirms layoffs",
-      "url": "https://www.gamedeveloper.com/business/french-publisher-dear-villagers-confirms-layoffs",
+      "id": "nintendo-switch-ports-of-pok-mon-ruby-and-sapphire-look-even",
+      "titre": "Nintendo Switch ports of Pokémon Ruby and Sapphire look even more likely after official account shares suspiciously HD footage of the GBA games",
+      "url": "https://www.eurogamer.net/nintendo-switch-pokemon-ruby-sapphire-hd-port",
       "sources": [
-        "Game Developer"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 35.3,
+      "heures": 33.8,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/french-publisher-dear-villagers-confirms-layoffs",
-          "titre": "French publisher Dear Villagers confirms layoffs"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/nintendo-switch-pokemon-ruby-sapphire-hd-port",
+          "titre": "Nintendo Switch ports of Pokémon Ruby and Sapphire look even more likely after official account shares suspiciously HD footage of the GBA games"
+        }
+      ]
+    },
+    {
+      "id": "today-s-changes-might-get-xbox-a-new-halo-sooner-but-history",
+      "titre": "Today's changes might get Xbox a new Halo sooner, but history shows production line development makes for boring games",
+      "url": "https://www.rockpapershotgun.com/xboxs-consolidation-plans-might-mean-you-get-a-new-halo-sooner-but-history-shows-production-line-development-makes-for-boring-games",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 13.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/xboxs-consolidation-plans-might-mean-you-get-a-new-halo-sooner-but-history-shows-production-line-development-makes-for-boring-games",
+          "titre": "Today's changes might get Xbox a new Halo sooner, but history shows production line development makes for boring games"
+        }
+      ]
+    },
+    {
+      "id": "banjo-kazooie-developer-rare-is-now-reporting-directly-to-ac",
+      "titre": "Banjo-Kazooie Developer Rare Is Now Reporting Directly To Activision",
+      "url": "https://www.nintendolife.com/news/2026/09/banjo-kazooie-developer-rare-is-now-reporting-directly-to-activision",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.6,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/banjo-kazooie-developer-rare-is-now-reporting-directly-to-activision",
+          "titre": "Banjo-Kazooie Developer Rare Is Now Reporting Directly To Activision"
         }
       ]
     },
@@ -821,7 +827,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 5,
       "liens": [
         {
@@ -839,7 +845,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.3,
       "chaleur": 5,
       "liens": [
         {
@@ -857,7 +863,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.6,
       "chaleur": 5,
       "liens": [
         {
@@ -875,7 +881,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.8,
+      "heures": 16.8,
       "chaleur": 5,
       "liens": [
         {
@@ -893,7 +899,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.8,
+      "heures": 25.9,
       "chaleur": 5,
       "liens": [
         {
@@ -911,13 +917,31 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 33.9,
+      "heures": 35.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs",
           "titre": "\"It's sad and devastating\" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs"
+        }
+      ]
+    },
+    {
+      "id": "guardians-make-their-own-fate-destiny-2-players-and-creator",
+      "titre": "'Guardians make their own fate.' Destiny 2 players and creators celebrate following Bungie's shock U-turn, as the studio admits: 'Your voices mattered'",
+      "url": "https://www.pcgamer.com/games/guardians-make-their-own-fate-destiny-2-players-and-creators-celebrate-following-bungies-shock-u-turn-as-the-studio-admits-your-voices-mattered/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/guardians-make-their-own-fate-destiny-2-players-and-creators-celebrate-following-bungies-shock-u-turn-as-the-studio-admits-your-voices-mattered/",
+          "titre": "'Guardians make their own fate.' Destiny 2 players and creators celebrate following Bungie's shock U-turn, as the studio admits: 'Your voices mattered'"
         }
       ]
     },
@@ -929,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -947,7 +971,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -965,7 +989,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -983,7 +1007,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1001,7 +1025,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1019,7 +1043,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1037,7 +1061,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1055,7 +1079,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1073,7 +1097,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1091,13 +1115,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/love-em-or-hate-em-if-it-werent-for-the-sonic-the-hedgehog-films-the-blue-blur-might-have-been-canned-entirely-so-says-series-boss-takashi-iizuka",
           "titre": "Love 'em or hate 'em, if it weren't for the Sonic the Hedgehog films, the blue blur might have been canned entirely, so says series boss Takashi Iizuka"
+        }
+      ]
+    },
+    {
+      "id": "i-modded-crazy-taxi-into-grand-theft-auto-5",
+      "titre": "I modded Crazy Taxi into Grand Theft Auto 5",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-modded-crazy-taxi-into-grand-theft-auto-5/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 11.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-modded-crazy-taxi-into-grand-theft-auto-5/",
+          "titre": "I modded Crazy Taxi into Grand Theft Auto 5"
         }
       ]
     },
@@ -1109,67 +1151,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/gaming-mice/i-set-out-to-prove-polling-rate-affects-my-aim-and-instead-found-my-favourite-dpi-setting/",
           "titre": "I set out to prove polling rate affects my aim and instead found my favourite DPI setting"
-        }
-      ]
-    },
-    {
-      "id": "rumour-next-halo-game-will-be-a-new-mainline-instalment-cast",
-      "titre": "Rumour: Next Halo Game Will Be a New 'Mainline Instalment', Casting Doubt on More Remakes",
-      "url": "https://www.pushsquare.com/news/2026/09/rumour-next-halo-game-will-be-a-new-mainline-instalment-casting-doubt-on-more-remakes",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/rumour-next-halo-game-will-be-a-new-mainline-instalment-casting-doubt-on-more-remakes",
-          "titre": "Rumour: Next Halo Game Will Be a New 'Mainline Instalment', Casting Doubt on More Remakes"
-        }
-      ]
-    },
-    {
-      "id": "artist-who-hand-paints-some-of-gaming-s-best-fantasy-world-m",
-      "titre": "Artist who hand-paints some of gaming's best fantasy world maps brings them together in oversized and extremely lavish art book",
-      "url": "https://www.eurogamer.net/francesca-baerald-game-map-art-book",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/francesca-baerald-game-map-art-book",
-          "titre": "Artist who hand-paints some of gaming's best fantasy world maps brings them together in oversized and extremely lavish art book"
-        }
-      ]
-    },
-    {
-      "id": "what-the-hell-are-you-guys-doing",
-      "titre": "What the hell are you guys doing?",
-      "url": "https://www.pcgamer.com/gaming-industry/what-the-hell-are-you-guys-doing/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/what-the-hell-are-you-guys-doing/",
-          "titre": "What the hell are you guys doing?"
         }
       ]
     }
