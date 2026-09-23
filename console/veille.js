@@ -1,8 +1,44 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "23/09/2026 à 14h21",
+  "collecte": "23/09/2026 à 16h21",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "age-of-empires-developer-world-s-edge-hit-with-layoffs-follo",
+      "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision",
+      "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 4,
+      "heures": 2.4,
+      "chaleur": 22,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
+          "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/age-of-empire-worlds-edge-studio-xbox-cuts",
+          "titre": "Age of Empires studio World's Edge reportedly lost \"nearly half\" of its staff during yesterday's Xbox cuts and move to Activision"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/age-of-empires-studio-worlds-edge-reportedly-lose-nearly-half-their-staff-and-a-new-game-project-in-mass-xbox-layoffs",
+          "titre": "Age of Empires studio World's Edge reportedly lose nearly half their staff and a new game project in mass Xbox layoffs"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/hundreds-more-xbox-layoffs-reportedly-on-the-way-studios-to-be-consolidated",
+          "titre": "'Hundreds' More Xbox Layoffs Reportedly on the Way, Studios to Be Consolidated"
+        }
+      ]
+    },
     {
       "id": "undead-labs-makes-significant-layoffs-after-splitting-from-x",
       "titre": "Undead Labs makes 'significant' layoffs after splitting from Xbox",
@@ -15,8 +51,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 3.0,
-      "chaleur": 23,
+      "heures": 5.0,
+      "chaleur": 21,
       "liens": [
         {
           "source": "Game Developer",
@@ -46,54 +82,17 @@ const VEILLE = {
       ]
     },
     {
-      "id": "age-of-empires-developer-world-s-edge-hit-with-layoffs-follo",
-      "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision",
-      "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz",
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 4,
-      "heures": 0.4,
-      "chaleur": 22,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
-          "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/age-of-empire-worlds-edge-studio-xbox-cuts",
-          "titre": "Age of Empires studio World's Edge reportedly lost \"nearly half\" of its staff during yesterday's Xbox cuts and move to Activision"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/age-of-empires-studio-worlds-edge-reportedly-lose-nearly-half-their-staff-and-a-new-game-project-in-mass-xbox-layoffs",
-          "titre": "Age of Empires studio World's Edge reportedly lose nearly half their staff and a new game project in mass Xbox layoffs"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/hundreds-more-xbox-layoffs-reportedly-on-the-way-studios-to-be-consolidated",
-          "titre": "'Hundreds' More Xbox Layoffs Reportedly on the Way, Studios to Be Consolidated"
-        }
-      ]
-    },
-    {
       "id": "resident-evil-film-producer-turns-to-new-silent-hill-movie-r",
       "titre": "Resident Evil Film Producer Turns to New Silent Hill Movie, Report Claims",
       "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-producer-turns-to-new-silent-hill-movie-report-claims",
       "sources": [
         "Eurogamer",
-        "PC Gamer",
         "Push Square",
         "VGC"
       ],
-      "reprises": 4,
-      "heures": 2.4,
-      "chaleur": 17,
+      "reprises": 3,
+      "heures": 4.4,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Push Square",
@@ -106,14 +105,69 @@ const VEILLE = {
           "titre": "The producer of Zach Cregger’s Resident Evil and Weapons is reportedly working on a new Silent Hill film"
         },
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/everything-id-do-differently-in-creggers-resident-evil-film/",
-          "titre": "Everything I'd do differently in Cregger's Resident Evil film"
-        },
-        {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/resident-evil-movie-review",
           "titre": "Resident Evil movie review - the best video game adaptation of playing a video game"
+        }
+      ]
+    },
+    {
+      "id": "i-thought-from-logitech-s-new-pro-products-i-d-be-most-excit",
+      "titre": "I thought from Logitech's new Pro products I'd be most excited about the Superstrike, but after using them it's actually the keyboard and mouse pad that have me grinning",
+      "url": "https://www.pcgamer.com/hardware/i-thought-from-logitechs-new-pro-products-id-be-most-excited-about-the-superstrike-but-after-using-them-its-actually-the-keyboard-and-mouse-pad-that-have-me-grinning/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/i-thought-from-logitechs-new-pro-products-id-be-most-excited-about-the-superstrike-but-after-using-them-its-actually-the-keyboard-and-mouse-pad-that-have-me-grinning/",
+          "titre": "I thought from Logitech's new Pro products I'd be most excited about the Superstrike, but after using them it's actually the keyboard and mouse pad that have me grinning"
+        }
+      ]
+    },
+    {
+      "id": "sorry-early-adopters-logitech-is-releasing-an-improved-super",
+      "titre": "Sorry early adopters, Logitech is releasing an improved Superstrike making the original all but obsolete just months after launch",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/sorry-early-adopters-logitech-is-releasing-an-improved-superstrike-making-the-original-all-but-obsolete-just-months-after-launch/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/sorry-early-adopters-logitech-is-releasing-an-improved-superstrike-making-the-original-all-but-obsolete-just-months-after-launch/",
+          "titre": "Sorry early adopters, Logitech is releasing an improved Superstrike making the original all but obsolete just months after launch"
+        }
+      ]
+    },
+    {
+      "id": "fire-emblem-fortune-s-weave-alexandra-location-help-my-feeli",
+      "titre": "Fire Emblem Fortune’s Weave: Alexandra location, Help My Feelings Take Wing quest guide",
+      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-alexandra-location-help-my-feelings-take-wing-quest-guide/",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-alexandra-location-help-my-feelings-take-wing-quest-guide/",
+          "titre": "Fire Emblem Fortune’s Weave: Alexandra location, Help My Feelings Take Wing quest guide"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/poll-whos-your-favourite-fire-emblem-fortunes-weave-character",
+          "titre": "Poll: Who's Your Favourite Fire Emblem: Fortune's Weave Character?"
         }
       ]
     },
@@ -122,22 +176,16 @@ const VEILLE = {
       "titre": "Former Halo leaders lament effective closure of Halo Studios, as one employee finds themselves promoted and fired in same week",
       "url": "https://www.eurogamer.net/halo-studios-closure-xbox-cuts-kiki-wolfkill-bonnie-ross",
       "sources": [
-        "Eurogamer",
-        "PC Gamer"
+        "Eurogamer"
       ],
-      "reprises": 2,
-      "heures": 1.0,
-      "chaleur": 12,
+      "reprises": 1,
+      "heures": 3.0,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/halo-studios-closure-xbox-cuts-kiki-wolfkill-bonnie-ross",
           "titre": "Former Halo leaders lament effective closure of Halo Studios, as one employee finds themselves promoted and fired in same week"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/halo-studios-cinematic-director-promoted-then-laid-off-in-the-same-week/",
-          "titre": "Halo Studios cinematic director promoted, then laid off in the same week"
         }
       ]
     },
@@ -150,7 +198,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 22.1,
+      "heures": 24.1,
       "chaleur": 9,
       "liens": [
         {
@@ -166,6 +214,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "the-steam-machine-handles-control-resonant-capably-but-the-p",
+      "titre": "The Steam Machine handles Control Resonant capably, but the promised Steam Deck support is a letdown",
+      "url": "https://www.rockpapershotgun.com/the-steam-machine-handles-control-resonant-capably-but-the-promised-steam-deck-support-is-a-letdown",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-steam-machine-handles-control-resonant-capably-but-the-promised-steam-deck-support-is-a-letdown",
+          "titre": "The Steam Machine handles Control Resonant capably, but the promised Steam Deck support is a letdown"
+        }
+      ]
+    },
+    {
+      "id": "this-one-is-especially-bad-steam-game-about-mistreating-rag",
+      "titre": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year",
+      "url": "https://www.rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year",
+          "titre": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year"
+        }
+      ]
+    },
+    {
+      "id": "beloved-cockney-orc-lord-of-the-rings-games-shadow-of-mordor",
+      "titre": "Beloved cockney-orc Lord of the Rings games Shadow of Mordor and Shadow of War finally make their way to Switch 2",
+      "url": "https://www.eurogamer.net/lord-of-the-rings-shadow-of-mordor-war-switch-2",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/lord-of-the-rings-shadow-of-mordor-war-switch-2",
+          "titre": "Beloved cockney-orc Lord of the Rings games Shadow of Mordor and Shadow of War finally make their way to Switch 2"
+        }
+      ]
+    },
+    {
       "id": "sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13",
       "titre": "Sensor Tower: PC and PlayStation unit sales in Japan rise 13% to 21m during H1 2026, led by Resident Evil Requiem",
       "url": "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem",
@@ -173,49 +275,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 8,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem",
           "titre": "Sensor Tower: PC and PlayStation unit sales in Japan rise 13% to 21m during H1 2026, led by Resident Evil Requiem"
-        }
-      ]
-    },
-    {
-      "id": "microsoft-want-to-record-your-face-and-feed-it-to-a-generati",
-      "titre": "Microsoft want to record your face and feed it to a generative AI, telling it to go off and design a game from your frown",
-      "url": "https://www.rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown",
-          "titre": "Microsoft want to record your face and feed it to a generative AI, telling it to go off and design a game from your frown"
-        }
-      ]
-    },
-    {
-      "id": "review-ea-sports-fc-27-switch-2-still-the-best-football-opti",
-      "titre": "Review: EA Sports FC 27 (Switch 2) - Still The Best Football Option, Even With Caveats",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/ea-sports-fc-27",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/ea-sports-fc-27",
-          "titre": "Review: EA Sports FC 27 (Switch 2) - Still The Best Football Option, Even With Caveats"
         }
       ]
     },
@@ -227,7 +293,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.0,
+      "heures": 25.0,
       "chaleur": 8,
       "liens": [
         {
@@ -245,7 +311,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.2,
+      "heures": 26.2,
       "chaleur": 8,
       "liens": [
         {
@@ -263,31 +329,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 24.3,
+      "heures": 26.3,
       "chaleur": 8,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure",
           "titre": "Xbox transfers Rare and Halo franchise to Activision, proposes closure of Ninja Theory, and confirms another 268 roles cut amid studio restructure"
-        }
-      ]
-    },
-    {
-      "id": "blizzard-layoffs-are-reportedly-imminent-days-after-an-excit",
-      "titre": "Blizzard layoffs are reportedly imminent, days after an exciting BlizzCon and a seemingly popular World of Warcraft: Forever beta",
-      "url": "https://www.eurogamer.net/blizzard-layoffs-xbox-cuts",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 26.2,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blizzard-layoffs-xbox-cuts",
-          "titre": "Blizzard layoffs are reportedly imminent, days after an exciting BlizzCon and a seemingly popular World of Warcraft: Forever beta"
         }
       ]
     },
@@ -299,7 +347,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 7,
       "liens": [
         {
@@ -317,7 +365,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 29.4,
       "chaleur": 7,
       "liens": [
         {
@@ -508,6 +556,114 @@ const VEILLE = {
       ]
     },
     {
+      "id": "gundam-celebrates-40-years-of-games-with-a-dedicated-broadca",
+      "titre": "Gundam Celebrates 40 Years of Games with a Dedicated Broadcast Next Month",
+      "url": "https://www.pushsquare.com/news/2026/09/gundam-celebrates-40-years-of-games-with-a-dedicated-broadcast-next-month",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/gundam-celebrates-40-years-of-games-with-a-dedicated-broadcast-next-month",
+          "titre": "Gundam Celebrates 40 Years of Games with a Dedicated Broadcast Next Month"
+        }
+      ]
+    },
+    {
+      "id": "my-first-mmo-character-1-harvey-randall",
+      "titre": "My first MMO character #1: Harvey Randall",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-1-harvey-randall/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-1-harvey-randall/",
+          "titre": "My first MMO character #1: Harvey Randall"
+        }
+      ]
+    },
+    {
+      "id": "wistful-about-myst-vi",
+      "titre": "Wistful about Myst VI",
+      "url": "https://www.pcgamer.com/games/wistful-about-myst-vi/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/wistful-about-myst-vi/",
+          "titre": "Wistful about Myst VI"
+        }
+      ]
+    },
+    {
+      "id": "valve-offers-cs2-players-eggs",
+      "titre": "Valve offers CS2 players eggs",
+      "url": "https://www.pcgamer.com/games/fps/valve-offers-cs2-players-eggs/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/valve-offers-cs2-players-eggs/",
+          "titre": "Valve offers CS2 players eggs"
+        }
+      ]
+    },
+    {
+      "id": "we-hacked-the-fbi-says-previous-rockstar-breaching-hacking",
+      "titre": "'We hacked the FBI' says previous Rockstar-breaching hacking group: 'We hold data on all FBI employees and applicants'",
+      "url": "https://www.pcgamer.com/software/security/we-hacked-the-fbi-says-previous-rockstar-breaching-hacking-group-we-hold-data-on-all-fbi-employees-and-applicants/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/security/we-hacked-the-fbi-says-previous-rockstar-breaching-hacking-group-we-hold-data-on-all-fbi-employees-and-applicants/",
+          "titre": "'We hacked the FBI' says previous Rockstar-breaching hacking group: 'We hold data on all FBI employees and applicants'"
+        }
+      ]
+    },
+    {
+      "id": "i-don-t-care-what-you-lot-say-the-side-buttons-on-a-mouse-ar",
+      "titre": "I don't care what you lot say, the side buttons on a mouse are for copy and paste (on desktop)",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/i-dont-care-what-you-lot-say-the-side-buttons-on-a-mouse-are-for-copy-and-paste-on-desktop/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/i-dont-care-what-you-lot-say-the-side-buttons-on-a-mouse-are-for-copy-and-paste-on-desktop/",
+          "titre": "I don't care what you lot say, the side buttons on a mouse are for copy and paste (on desktop)"
+        }
+      ]
+    },
+    {
       "id": "console-rumour-time-235",
       "titre": "Console rumour time #235",
       "url": "https://www.pcgamer.com/hardware/console-rumour-time-235/",
@@ -515,7 +671,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -533,13 +689,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/movies-tv/leon-kennedy-is-zach-creggers-choice-of-bodyguard-i-would-just-bear-hug-myself-around-him/",
           "titre": "Leon Kennedy is Zach Cregger's choice of bodyguard: 'I would just bear hug myself around him'"
+        }
+      ]
+    },
+    {
+      "id": "waiter-there-s-some-path-of-exile-in-my-total-war-warhammer",
+      "titre": "Waiter, there's some Path of Exile in my Total War: Warhammer 3 DLC",
+      "url": "https://www.pcgamer.com/games/strategy/waiter-theres-some-path-of-exile-in-my-total-war-warhammer-3-dlc/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/waiter-theres-some-path-of-exile-in-my-total-war-warhammer-3-dlc/",
+          "titre": "Waiter, there's some Path of Exile in my Total War: Warhammer 3 DLC"
         }
       ]
     },
@@ -551,7 +725,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -569,31 +743,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/strategy/lords-of-the-end-times-is-not-the-end-for-total-war-warhammer-you-cant-get-rid-of-us-that-easily/",
           "titre": "Lords of the End Times is 'not the end' for Total War: Warhammer: 'You can't get rid of us that easily'"
-        }
-      ]
-    },
-    {
-      "id": "waiter-there-s-some-path-of-exile-in-my-total-war-warhammer",
-      "titre": "Waiter, there's some Path of Exile in my Total War: Warhammer 3 DLC",
-      "url": "https://www.pcgamer.com/games/strategy/waiter-theres-some-path-of-exile-in-my-total-war-warhammer-3-dlc/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/waiter-theres-some-path-of-exile-in-my-total-war-warhammer-3-dlc/",
-          "titre": "Waiter, there's some Path of Exile in my Total War: Warhammer 3 DLC"
         }
       ]
     },
@@ -605,7 +761,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -623,7 +779,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -641,7 +797,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -659,31 +815,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/persona-6-could-get-its-big-reveal-in-march-as-atlus-announces-first-super-live-show-in-four-years",
           "titre": "Persona 6 Could Get Its Big Reveal in March, as Atlus Announces First Super Live Show in Four Years"
-        }
-      ]
-    },
-    {
-      "id": "a-tribute-to-pc-gamer-s-first-mmo-characters-may-they-never",
-      "titre": "A tribute to PC Gamer's first MMO characters—may they never be forgotten",
-      "url": "https://www.pcgamer.com/games/mmo/a-tribute-to-pc-gamers-first-mmo-characters-may-they-never-be-forgotten/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/a-tribute-to-pc-gamers-first-mmo-characters-may-they-never-be-forgotten/",
-          "titre": "A tribute to PC Gamer's first MMO characters—may they never be forgotten"
         }
       ]
     },
@@ -695,31 +833,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/its-time-to-decide-the-worst-graphical-effect-in-games-chromatic-aberration-vs-blood-dirt/",
           "titre": "It's time to decide the worst graphical effect in games: chromatic aberration vs blood/dirt"
-        }
-      ]
-    },
-    {
-      "id": "i-crammed-20-anime-figures-inside-my-gaming-pc-to-see-how-it",
-      "titre": "I crammed 20 anime figures inside my gaming PC to see how it affects thermal performance. Yes, you can call me a scientist now",
-      "url": "https://www.pcgamer.com/hardware/pc-cases/i-crammed-20-anime-figures-inside-my-gaming-pc-to-see-how-it-affects-thermal-performance-yes-you-can-call-me-a-scientist-now/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/pc-cases/i-crammed-20-anime-figures-inside-my-gaming-pc-to-see-how-it-affects-thermal-performance-yes-you-can-call-me-a-scientist-now/",
-          "titre": "I crammed 20 anime figures inside my gaming PC to see how it affects thermal performance. Yes, you can call me a scientist now"
         }
       ]
     },
@@ -731,7 +851,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -749,7 +869,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -767,7 +887,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -785,7 +905,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
@@ -796,110 +916,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "star-wars-zero-company-finds-success-in-passing-1m-sales-so",
-      "titre": "Star Wars Zero Company finds success in passing 1m sales, so can the furloughed development team be reinstated and paid now?",
-      "url": "https://www.eurogamer.net/star-wars-zero-company-xcom-sales-furloughed-staff",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/star-wars-zero-company-xcom-sales-furloughed-staff",
-          "titre": "Star Wars Zero Company finds success in passing 1m sales, so can the furloughed development team be reinstated and paid now?"
-        }
-      ]
-    },
-    {
-      "id": "it-s-me-i-am-the-whale",
-      "titre": "It's me, I am the whale",
-      "url": "https://www.pcgamer.com/games/its-me-i-am-the-whale/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/its-me-i-am-the-whale/",
-          "titre": "It's me, I am the whale"
-        }
-      ]
-    },
-    {
-      "id": "pc-gaming-show-toyko-direct-2026-picks",
-      "titre": "PC Gaming Show Toyko Direct 2026 picks",
-      "url": "https://www.pcgamer.com/games/pc-gaming-show-toyko-direct-2026-picks/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/pc-gaming-show-toyko-direct-2026-picks/",
-          "titre": "PC Gaming Show Toyko Direct 2026 picks"
-        }
-      ]
-    },
-    {
-      "id": "amd-starts-the-ball-rolling-for-gddr7-in-next-gen-gpus-with",
-      "titre": "AMD starts the ball rolling for GDDR7 in next-gen GPUs with small code adjustment in its Linux drivers",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-starts-the-ball-rolling-for-gddr7-in-next-gen-gpus-with-small-code-adjustment-in-its-linux-drivers/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-starts-the-ball-rolling-for-gddr7-in-next-gen-gpus-with-small-code-adjustment-in-its-linux-drivers/",
-          "titre": "AMD starts the ball rolling for GDDR7 in next-gen GPUs with small code adjustment in its Linux drivers"
-        }
-      ]
-    },
-    {
-      "id": "dark-souls-2-seamless-co-op-mod-is-out-now-in-alpha-form-pav",
-      "titre": "Dark Souls 2 seamless co-op mod is out now in alpha form, paving the way for more boss battering with mates",
-      "url": "https://www.rockpapershotgun.com/dark-souls-2-seamless-co-op-mod-is-out-now-in-alpha-form-paving-the-way-for-more-boss-battering-with-mates",
+      "id": "microsoft-want-to-record-your-face-and-feed-it-to-a-generati",
+      "titre": "Microsoft want to record your face and feed it to a generative AI, telling it to go off and design a game from your frown",
+      "url": "https://www.rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 3.5,
+      "heures": 4.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/dark-souls-2-seamless-co-op-mod-is-out-now-in-alpha-form-paving-the-way-for-more-boss-battering-with-mates",
-          "titre": "Dark Souls 2 seamless co-op mod is out now in alpha form, paving the way for more boss battering with mates"
+          "url": "https://www.rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown",
+          "titre": "Microsoft want to record your face and feed it to a generative AI, telling it to go off and design a game from your frown"
         }
       ]
     },
     {
-      "id": "tiny-violins-at-the-ready-pok-mon-scalpers-are-upset-about-n",
-      "titre": "Tiny Violins At The Ready, Pokémon Scalpers Are Upset About New Expansion's Profitability",
-      "url": "https://www.nintendolife.com/news/2026/09/tiny-violins-at-the-ready-pokemon-scalpers-are-upset-about-new-expansions-profitability",
+      "id": "review-ea-sports-fc-27-switch-2-still-the-best-football-opti",
+      "titre": "Review: EA Sports FC 27 (Switch 2) - Still The Best Football Option, Even With Caveats",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/ea-sports-fc-27",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.6,
+      "heures": 4.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/tiny-violins-at-the-ready-pokemon-scalpers-are-upset-about-new-expansions-profitability",
-          "titre": "Tiny Violins At The Ready, Pokémon Scalpers Are Upset About New Expansion's Profitability"
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/ea-sports-fc-27",
+          "titre": "Review: EA Sports FC 27 (Switch 2) - Still The Best Football Option, Even With Caveats"
         }
       ]
     },
@@ -911,7 +959,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 6,
       "liens": [
         {
@@ -929,7 +977,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 6,
       "liens": [
         {
@@ -947,7 +995,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.9,
+      "heures": 24.9,
       "chaleur": 6,
       "liens": [
         {
@@ -965,7 +1013,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 25.8,
+      "heures": 27.8,
       "chaleur": 6,
       "liens": [
         {
@@ -983,7 +1031,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.6,
       "chaleur": 5,
       "liens": [
         {
@@ -1001,7 +1049,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.9,
       "chaleur": 5,
       "liens": [
         {
@@ -1019,7 +1067,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 5,
       "liens": [
         {
@@ -1037,7 +1085,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.4,
       "chaleur": 5,
       "liens": [
         {
@@ -1055,7 +1103,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.3,
       "chaleur": 5,
       "liens": [
         {
@@ -1073,7 +1121,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.4,
       "chaleur": 5,
       "liens": [
         {
@@ -1091,7 +1139,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.4,
       "chaleur": 5,
       "liens": [
         {
@@ -1100,63 +1148,7 @@ const VEILLE = {
           "titre": "Today's changes might get Xbox a new Halo sooner, but history shows production line development makes for boring games"
         }
       ]
-    },
-    {
-      "id": "xbox-lay-off-268-people-as-activision-take-over-halo-and-rar",
-      "titre": "Xbox lay off 268 people as Activision take over Halo and Rare, while Obsidian become part of Bethesda, plus Forza and Fable studios merge",
-      "url": "https://www.rockpapershotgun.com/xbox-lay-off-268-people-as-activision-take-over-halo-and-rare-while-obsidian-become-part-of-bethesda-plus-forza-and-fable-studios-merge",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 23.5,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/xbox-lay-off-268-people-as-activision-take-over-halo-and-rare-while-obsidian-become-part-of-bethesda-plus-forza-and-fable-studios-merge",
-          "titre": "Xbox lay off 268 people as Activision take over Halo and Rare, while Obsidian become part of Bethesda, plus Forza and Fable studios merge"
-        }
-      ]
-    },
-    {
-      "id": "banjo-kazooie-developer-rare-is-now-reporting-directly-to-ac",
-      "titre": "Banjo-Kazooie Developer Rare Is Now Reporting Directly To Activision",
-      "url": "https://www.nintendolife.com/news/2026/09/banjo-kazooie-developer-rare-is-now-reporting-directly-to-activision",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 23.6,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/banjo-kazooie-developer-rare-is-now-reporting-directly-to-activision",
-          "titre": "Banjo-Kazooie Developer Rare Is Now Reporting Directly To Activision"
-        }
-      ]
-    },
-    {
-      "id": "sony-appears-to-be-testing-playstation-store-credit-offers-w",
-      "titre": "Sony appears to be testing PlayStation Store credit offers when you buy certain games",
-      "url": "https://www.eurogamer.net/playstation-store-wallet-credits-rewards",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 24.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/playstation-store-wallet-credits-rewards",
-          "titre": "Sony appears to be testing PlayStation Store credit offers when you buy certain games"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "Age of Empires developer World's Edge hit with layoffs following move to Activision"
-  ]
+  "alertes": []
 };
