@@ -1,113 +1,71 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "23/09/2026 à 08h21",
+  "collecte": "23/09/2026 à 10h20",
   "seuil": 14,
   "sujets": [
     {
-      "id": "xbox-continues-reset-with-halo-studios-layoffs-and-undead-la",
-      "titre": "Xbox continues 'reset' with Halo Studios layoffs and Undead Labs divestment",
-      "url": "https://www.gamedeveloper.com/business/xbox-continues-reset-with-halo-studios-layoffs-and-undead-labs-divestment",
+      "id": "state-of-decay-3-studio-undead-labs-lay-off-a-significant-nu",
+      "titre": "State of Decay 3 studio Undead Labs lay off \"a significant number\" of \"exceptionally talented developers\" after gaining independence from Xbox",
+      "url": "https://www.rockpapershotgun.com/state-of-decay-3-studio-undead-labs-lay-off-a-significant-number-of-exceptionally-talented-developers-after-gaining-independence-from-xbox",
       "sources": [
+        "Eurogamer",
         "Game Developer",
         "GamesIndustry.biz",
-        "Nintendo Life",
-        "Push Square"
+        "Push Square",
+        "Rock Paper Shotgun",
+        "VGC"
       ],
-      "reprises": 4,
-      "heures": 18.1,
-      "chaleur": 19,
+      "reprises": 6,
+      "heures": 0.6,
+      "chaleur": 26,
       "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/state-of-decay-3-studio-undead-labs-lay-off-a-significant-number-of-exceptionally-talented-developers-after-gaining-independence-from-xbox",
+          "titre": "State of Decay 3 studio Undead Labs lay off \"a significant number\" of \"exceptionally talented developers\" after gaining independence from Xbox"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/undead-labs-independent-xbox-restructuring-state-of-decay",
+          "titre": "State of Decay studio Undead Labs goes independent after Xbox restructuring, but lays off \"a significant number\" of the team in doing so"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/undead-labs-confirms-it-is-now-an-employee-owned-studio",
+          "titre": "Undead Labs confirms it is now an \"employee-owned studio\", a \"significant number\" of employees face layoffs"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/state-of-decay-3-dev-hit-with-significant-layoffs-after-going-independent",
+          "titre": "State of Decay 3 Dev Hit with 'Significant' Layoffs After Going Independent"
+        },
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/xbox-continues-reset-with-halo-studios-layoffs-and-undead-labs-divestment",
           "titre": "Xbox continues 'reset' with Halo Studios layoffs and Undead Labs divestment"
         },
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/hundreds-more-xbox-layoffs-reportedly-on-the-way-studios-to-be-consolidated",
-          "titre": "'Hundreds' More Xbox Layoffs Reportedly on the Way, Studios to Be Consolidated"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/xbox-reportedly-set-to-announce-second-round-of-layoffs-this-week",
-          "titre": "Xbox reportedly set to announce second round of layoffs this week"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/xbox-to-reportedly-cut-hundreds-of-jobs-and-consolidate-several-studios-in-next-wave-of-layoffs",
-          "titre": "Xbox To Reportedly Cut \"Hundreds Of Jobs\" And Consolidate Several Studios In Next Wave Of Layoffs"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-officially-announces-more-layoffs-and-widespread-changes-to-its-entire-studio-structure/",
+          "titre": "Xbox officially announces more layoffs and widespread changes to its entire studio structure"
         }
       ]
     },
     {
-      "id": "xbox-lays-off-268-more-employees-merges-obsidian-into-bethes",
-      "titre": "Xbox lays off 268 more employees, merges Obsidian into Bethesda, and puts Activision in charge of Halo",
-      "url": "https://www.pcgamer.com/gaming-industry/xbox-lays-off-268-more-employees-merges-obsidian-into-bethesda-and-puts-activision-in-charge-of-halo/",
+      "id": "age-of-empires-studio-world-s-edge-reportedly-lose-nearly-ha",
+      "titre": "Age of Empires studio World's Edge reportedly lose nearly half their staff and a new game project in mass Xbox layoffs",
+      "url": "https://www.rockpapershotgun.com/age-of-empires-studio-worlds-edge-reportedly-lose-nearly-half-their-staff-and-a-new-game-project-in-mass-xbox-layoffs",
       "sources": [
-        "Eurogamer",
-        "PC Gamer",
         "Rock Paper Shotgun"
       ],
-      "reprises": 3,
-      "heures": 17.3,
-      "chaleur": 11,
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 13,
       "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/xbox-lays-off-268-more-employees-merges-obsidian-into-bethesda-and-puts-activision-in-charge-of-halo/",
-          "titre": "Xbox lays off 268 more employees, merges Obsidian into Bethesda, and puts Activision in charge of Halo"
-        },
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/xbox-lay-off-268-people-as-activision-take-over-halo-and-rare-while-obsidian-become-part-of-bethesda-plus-forza-and-fable-studios-merge",
-          "titre": "Xbox lay off 268 people as Activision take over Halo and Rare, while Obsidian become part of Bethesda, plus Forza and Fable studios merge"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/next-halo-game-developer-call-of-duty-stuidio-xbox-restructuring",
-          "titre": "Next major Halo game being developed by Activision, as Halo Studios all but closes as part of Microsoft's Xbox restructuring"
-        }
-      ]
-    },
-    {
-      "id": "xbox-confirms-268-more-layoffs-further-studio-closures-and-o",
-      "titre": "Xbox confirms 268 more layoffs, further studio closures, and Obsidian's shift to Bethesda as major restructuring continues",
-      "url": "https://www.eurogamer.net/xbox-layoffs-activision-rare-halo-ninja-theory",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 17.6,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-layoffs-activision-rare-halo-ninja-theory",
-          "titre": "Xbox confirms 268 more layoffs, further studio closures, and Obsidian's shift to Bethesda as major restructuring continues"
-        }
-      ]
-    },
-    {
-      "id": "xbox-confirms-job-losses-and-studio-changes-activision-to-ma",
-      "titre": "Xbox Confirms Job Losses and Studio Changes, Activision to Make Next Halo Game",
-      "url": "https://www.pushsquare.com/news/2026/09/xbox-confirms-job-losses-and-studio-changes-activision-to-make-next-halo-game",
-      "sources": [
-        "GamesIndustry.biz",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 18.1,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/xbox-confirms-job-losses-and-studio-changes-activision-to-make-next-halo-game",
-          "titre": "Xbox Confirms Job Losses and Studio Changes, Activision to Make Next Halo Game"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure",
-          "titre": "Xbox transfers Rare and Halo franchise to Activision, proposes closure of Ninja Theory, and confirms another 268 roles cut amid studio restructure"
+          "url": "https://www.rockpapershotgun.com/age-of-empires-studio-worlds-edge-reportedly-lose-nearly-half-their-staff-and-a-new-game-project-in-mass-xbox-layoffs",
+          "titre": "Age of Empires studio World's Edge reportedly lose nearly half their staff and a new game project in mass Xbox layoffs"
         }
       ]
     },
@@ -120,7 +78,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 22.8,
+      "heures": 24.8,
       "chaleur": 10,
       "liens": [
         {
@@ -136,24 +94,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "zelda-ocarina-of-time-s-limited-edition-switch-2-cover-appar",
-      "titre": "Zelda: Ocarina Of Time's Limited Edition Switch 2 Cover Apparently Had One Retailer Trying To Double Its Orders",
-      "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-times-limited-edition-switch-2-cover-apparently-had-one-retailer-trying-to-double-its-orders",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-times-limited-edition-switch-2-cover-apparently-had-one-retailer-trying-to-double-its-orders",
-          "titre": "Zelda: Ocarina Of Time's Limited Edition Switch 2 Cover Apparently Had One Retailer Trying To Double Its Orders"
-        }
-      ]
-    },
-    {
       "id": "i-m-still-blown-away-by-the-amount-of-talent-hellblade-devs",
       "titre": "\"I'm still blown away by the amount of talent\": Hellblade devs Ninja Theory face closure after Microsoft fail to reach a deal with buyers",
       "url": "https://www.rockpapershotgun.com/im-still-blown-away-by-the-amount-of-talent-hellblade-devs-ninja-theory-face-closure-after-microsoft-fail-to-reach-a-deal-with-buyers",
@@ -162,7 +102,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 16.1,
+      "heures": 18.0,
       "chaleur": 9,
       "liens": [
         {
@@ -178,6 +118,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "psa-sorry-argos-deep-discounts-on-some-top-tier-switch-2-gam",
+      "titre": "PSA: Sorry, Argos' Deep Discounts On Some Top-Tier Switch 2 Games Sold Out Like Hot Cakes",
+      "url": "https://www.nintendolife.com/news/2026/09/psa-sorry-argos-deep-discounts-on-some-top-tier-switch-2-games-sold-out-like-hot-cakes",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/psa-sorry-argos-deep-discounts-on-some-top-tier-switch-2-games-sold-out-like-hot-cakes",
+          "titre": "PSA: Sorry, Argos' Deep Discounts On Some Top-Tier Switch 2 Games Sold Out Like Hot Cakes"
+        }
+      ]
+    },
+    {
+      "id": "xbox-lays-off-gears-of-war-e-day-s-story-director-barely-two",
+      "titre": "Xbox lays off Gears of War: E-Day's story director barely two weeks before the game's launch",
+      "url": "https://www.eurogamer.net/gears-of-war-e-day-story-director-laid-off-xbox-cuts",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gears-of-war-e-day-story-director-laid-off-xbox-cuts",
+          "titre": "Xbox lays off Gears of War: E-Day's story director barely two weeks before the game's launch"
+        }
+      ]
+    },
+    {
       "id": "good-luck-today-halo-friends-after-years-of-rivalry-call-of",
       "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs",
       "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
@@ -185,13 +161,37 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 19.0,
       "chaleur": 8,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
           "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs"
+        }
+      ]
+    },
+    {
+      "id": "xbox-lays-off-268-more-employees-merges-obsidian-into-bethes",
+      "titre": "Xbox lays off 268 more employees, merges Obsidian into Bethesda, and puts Activision in charge of Halo",
+      "url": "https://www.pcgamer.com/gaming-industry/xbox-lays-off-268-more-employees-merges-obsidian-into-bethesda-and-puts-activision-in-charge-of-halo/",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 19.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/xbox-lays-off-268-more-employees-merges-obsidian-into-bethesda-and-puts-activision-in-charge-of-halo/",
+          "titre": "Xbox lays off 268 more employees, merges Obsidian into Bethesda, and puts Activision in charge of Halo"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/xbox-lay-off-268-people-as-activision-take-over-halo-and-rare-while-obsidian-become-part-of-bethesda-plus-forza-and-fable-studios-merge",
+          "titre": "Xbox lay off 268 people as Activision take over Halo and Rare, while Obsidian become part of Bethesda, plus Forza and Fable studios merge"
         }
       ]
     },
@@ -203,7 +203,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 20.2,
       "chaleur": 8,
       "liens": [
         {
@@ -214,20 +214,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-officially-announces-more-layoffs-and-widespread-change",
-      "titre": "Xbox officially announces more layoffs and widespread changes to its entire studio structure",
-      "url": "https://www.videogameschronicle.com/news/xbox-officially-announces-more-layoffs-and-widespread-changes-to-its-entire-studio-structure/",
+      "id": "xbox-transfers-rare-and-halo-franchise-to-activision-propose",
+      "titre": "Xbox transfers Rare and Halo franchise to Activision, proposes closure of Ninja Theory, and confirms another 268 roles cut amid studio restructure",
+      "url": "https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure",
       "sources": [
-        "VGC"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.2,
       "chaleur": 8,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-officially-announces-more-layoffs-and-widespread-changes-to-its-entire-studio-structure/",
-          "titre": "Xbox officially announces more layoffs and widespread changes to its entire studio structure"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure",
+          "titre": "Xbox transfers Rare and Halo franchise to Activision, proposes closure of Ninja Theory, and confirms another 268 roles cut amid studio restructure"
         }
       ]
     },
@@ -239,7 +239,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.2,
+      "heures": 22.2,
       "chaleur": 8,
       "liens": [
         {
@@ -250,38 +250,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "state-of-decay-3-dev-hit-with-significant-layoffs-after-goin",
-      "titre": "State of Decay 3 Dev Hit with 'Significant' Layoffs After Going Independent",
-      "url": "https://www.pushsquare.com/news/2026/09/state-of-decay-3-dev-hit-with-significant-layoffs-after-going-independent",
+      "id": "zelda-ocarina-of-time-s-limited-edition-switch-2-cover-appar",
+      "titre": "Zelda: Ocarina Of Time's Limited Edition Switch 2 Cover Apparently Had One Retailer Trying To Double Its Orders",
+      "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-times-limited-edition-switch-2-cover-apparently-had-one-retailer-trying-to-double-its-orders",
       "sources": [
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 4.4,
       "chaleur": 7,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/state-of-decay-3-dev-hit-with-significant-layoffs-after-going-independent",
-          "titre": "State of Decay 3 Dev Hit with 'Significant' Layoffs After Going Independent"
-        }
-      ]
-    },
-    {
-      "id": "vindicated-after-speaking-to-some-pro-counter-strike-players",
-      "titre": "Vindicated: after speaking to some pro Counter-Strike players I'm sure I was right when I said 360 Hz is the sweet spot for competitive FPS",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/vindicated-after-speaking-to-some-pro-counter-strike-players-im-sure-i-was-right-when-i-said-360-hz-is-the-sweet-spot-for-competitive-fps/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-monitors/vindicated-after-speaking-to-some-pro-counter-strike-players-im-sure-i-was-right-when-i-said-360-hz-is-the-sweet-spot-for-competitive-fps/",
-          "titre": "Vindicated: after speaking to some pro Counter-Strike players I'm sure I was right when I said 360 Hz is the sweet spot for competitive FPS"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-times-limited-edition-switch-2-cover-apparently-had-one-retailer-trying-to-double-its-orders",
+          "titre": "Zelda: Ocarina Of Time's Limited Edition Switch 2 Cover Apparently Had One Retailer Trying To Double Its Orders"
         }
       ]
     },
@@ -293,7 +275,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.4,
       "chaleur": 7,
       "liens": [
         {
@@ -484,20 +466,164 @@ const VEILLE = {
       ]
     },
     {
-      "id": "undead-labs-confirms-it-is-now-an-employee-owned-studio",
-      "titre": "Undead Labs confirms it is now an \"employee-owned studio\"",
-      "url": "https://www.gamesindustry.biz/undead-labs-confirms-it-is-now-an-employee-owned-studio",
+      "id": "london-games-festival",
+      "titre": "London Games Festival",
+      "url": "https://www.gamedeveloper.comgames.london",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.comgames.london",
+          "titre": "London Games Festival"
+        }
+      ]
+    },
+    {
+      "id": "discord-re-launches-age-verification-following-backlash-over",
+      "titre": "Discord re-launches age verification following backlash over privacy concerns",
+      "url": "https://www.gamesindustry.biz/discord-re-launches-age-verification-following-backlash-over-privacy-concerns",
       "sources": [
         "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/discord-re-launches-age-verification-following-backlash-over-privacy-concerns",
+          "titre": "Discord re-launches age verification following backlash over privacy concerns"
+        }
+      ]
+    },
+    {
+      "id": "i-have-fallen-to-my-own-hubris",
+      "titre": "I have fallen to my own hubris",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/i-have-fallen-to-my-own-hubris/",
+      "sources": [
+        "PC Gamer"
       ],
       "reprises": 1,
       "heures": 0.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/undead-labs-confirms-it-is-now-an-employee-owned-studio",
-          "titre": "Undead Labs confirms it is now an \"employee-owned studio\""
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/i-have-fallen-to-my-own-hubris/",
+          "titre": "I have fallen to my own hubris"
+        }
+      ]
+    },
+    {
+      "id": "micropost-this-is-crazytown-reaction-to-our-worst-graphical",
+      "titre": "Micropost: 'This is crazytown' reaction to our worst graphical effect poll",
+      "url": "https://www.pcgamer.com/games/micropost-this-is-crazytown-reaction-to-our-worst-graphical-effect-poll/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/micropost-this-is-crazytown-reaction-to-our-worst-graphical-effect-poll/",
+          "titre": "Micropost: 'This is crazytown' reaction to our worst graphical effect poll"
+        }
+      ]
+    },
+    {
+      "id": "resident-evil-movie-review-the-best-video-game-adaptation-of",
+      "titre": "Resident Evil movie review - the best video game adaptation of playing a video game",
+      "url": "https://www.eurogamer.net/resident-evil-movie-review",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/resident-evil-movie-review",
+          "titre": "Resident Evil movie review - the best video game adaptation of playing a video game"
+        }
+      ]
+    },
+    {
+      "id": "rayman-legends-retold-overview-trailer-banishes-any-lingerin",
+      "titre": "Rayman Legends Retold Overview Trailer Banishes Any Lingering Doubts",
+      "url": "https://www.nintendolife.com/news/2026/09/rayman-legends-retold-overview-trailer-banishes-any-lingering-doubts",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/rayman-legends-retold-overview-trailer-banishes-any-lingering-doubts",
+          "titre": "Rayman Legends Retold Overview Trailer Banishes Any Lingering Doubts"
+        }
+      ]
+    },
+    {
+      "id": "exclusive-the-next-pok-mon-tcg-delta-reign-illustration-rare",
+      "titre": "Exclusive: The next Pokémon TCG Delta Reign illustration rare officially revealed",
+      "url": "https://www.videogameschronicle.com/news/exclusive-the-next-pokemon-tcg-delta-reign-illustration-rare-officially-revealed/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/exclusive-the-next-pokemon-tcg-delta-reign-illustration-rare-officially-revealed/",
+          "titre": "Exclusive: The next Pokémon TCG Delta Reign illustration rare officially revealed"
+        }
+      ]
+    },
+    {
+      "id": "the-next-classic-polygonal-namco-arcade-game-getting-a-home",
+      "titre": "The next classic polygonal Namco arcade game getting a home release is Xevious 3D/G",
+      "url": "https://www.videogameschronicle.com/news/the-next-classic-polygonal-namco-arcade-game-getting-a-home-release-is-xevious-3d-g/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-next-classic-polygonal-namco-arcade-game-getting-a-home-release-is-xevious-3d-g/",
+          "titre": "The next classic polygonal Namco arcade game getting a home release is Xevious 3D/G"
+        }
+      ]
+    },
+    {
+      "id": "esports-tournaments-do-it-better-in-person",
+      "titre": "Esports tournaments do it better in person",
+      "url": "https://www.pcgamer.com/games/esports-tournaments-do-it-better-in-person/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/esports-tournaments-do-it-better-in-person/",
+          "titre": "Esports tournaments do it better in person"
         }
       ]
     },
@@ -509,31 +635,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/bayonetta-4-when-stellar-blade-director-confesses-his-love-for-the-umbra-witch",
           "titre": "Bayonetta 4 When? Stellar Blade Director Confesses His Love For The Umbra Witch"
-        }
-      ]
-    },
-    {
-      "id": "we-ll-be-creating-a-whole-new-kind-of-gameplay-experience-i",
-      "titre": "\"We'll Be Creating A Whole New Kind Of Gameplay Experience\" - Iizuka Says The New Sonic Game Is Now In Development",
-      "url": "https://www.nintendolife.com/news/2026/09/well-be-creating-a-whole-new-kind-of-gameplay-experience-iizuka-says-the-new-sonic-game-is-now-in-development",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/well-be-creating-a-whole-new-kind-of-gameplay-experience-iizuka-says-the-new-sonic-game-is-now-in-development",
-          "titre": "\"We'll Be Creating A Whole New Kind Of Gameplay Experience\" - Iizuka Says The New Sonic Game Is Now In Development"
         }
       ]
     },
@@ -545,7 +653,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.7,
       "chaleur": 6,
       "liens": [
         {
@@ -563,7 +671,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.6,
       "chaleur": 6,
       "liens": [
         {
@@ -581,7 +689,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.8,
       "chaleur": 6,
       "liens": [
         {
@@ -599,13 +707,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/sudden-demand-for-middle-earth-shadow-of-mordor-and-war-ps5-ports-after-switch-2-bundle-is-revealed",
           "titre": "Sudden Demand for Middle-earth: Shadow of Mordor and War PS5 Ports After Switch 2 Bundle Is Revealed"
+        }
+      ]
+    },
+    {
+      "id": "vindicated-after-speaking-to-some-pro-counter-strike-players",
+      "titre": "Vindicated: after speaking to some pro Counter-Strike players I'm sure I was right when I said 360 Hz is the sweet spot for competitive FPS",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/vindicated-after-speaking-to-some-pro-counter-strike-players-im-sure-i-was-right-when-i-said-360-hz-is-the-sweet-spot-for-competitive-fps/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 12.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-monitors/vindicated-after-speaking-to-some-pro-counter-strike-players-im-sure-i-was-right-when-i-said-360-hz-is-the-sweet-spot-for-competitive-fps/",
+          "titre": "Vindicated: after speaking to some pro Counter-Strike players I'm sure I was right when I said 360 Hz is the sweet spot for competitive FPS"
         }
       ]
     },
@@ -617,7 +743,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.8,
       "chaleur": 6,
       "liens": [
         {
@@ -635,7 +761,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.5,
       "chaleur": 6,
       "liens": [
         {
@@ -653,7 +779,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 21.8,
       "chaleur": 6,
       "liens": [
         {
@@ -672,7 +798,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 20.4,
+      "heures": 22.3,
       "chaleur": 6,
       "liens": [
         {
@@ -688,48 +814,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "bungie-says-it-s-not-done-with-destiny-aims-to-earn-back-pla",
-      "titre": "Bungie says it's \"not done with Destiny\", aims to earn back player trust by restoring archived Destiny 2 content",
-      "url": "https://www.gamesindustry.biz/bungie-says-its-not-done-with-destiny-aims-to-earn-back-player-trust-by-restoring-archived-destiny-2-content",
-      "sources": [
-        "Game Developer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 22.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/bungie-says-its-not-done-with-destiny-aims-to-earn-back-player-trust-by-restoring-archived-destiny-2-content",
-          "titre": "Bungie says it's \"not done with Destiny\", aims to earn back player trust by restoring archived Destiny 2 content"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/bungie-declares-it-s-not-done-with-destiny-as-it-lays-out-studio-s-future",
-          "titre": "Bungie declares it's 'not done with Destiny' as it lays out studio's future"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-is-doing-its-best-to-make-sure-switch-overtakes-ps2",
-      "titre": "Nintendo Is Doing Its Best To Make Sure Switch Overtakes PS2",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-is-doing-its-best-to-make-sure-switch-overtakes-ps2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 23.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendo-is-doing-its-best-to-make-sure-switch-overtakes-ps2",
-          "titre": "Nintendo Is Doing Its Best To Make Sure Switch Overtakes PS2"
-        }
-      ]
-    },
-    {
       "id": "want-more-lord-of-the-rings-on-switch-2-cool-two-ports-are-l",
       "titre": "Want More Lord Of The Rings On Switch 2? Cool, Two Ports Are Launching Next Week",
       "url": "https://www.nintendolife.com/news/2026/09/want-more-lord-of-the-rings-on-switch-2-cool-two-ports-are-launching-next-week",
@@ -737,7 +821,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.3,
       "chaleur": 5,
       "liens": [
         {
@@ -755,7 +839,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.3,
       "chaleur": 5,
       "liens": [
         {
@@ -773,7 +857,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.3,
       "chaleur": 5,
       "liens": [
         {
@@ -791,7 +875,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.3,
       "chaleur": 5,
       "liens": [
         {
@@ -809,7 +893,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 19.6,
       "chaleur": 5,
       "liens": [
         {
@@ -827,7 +911,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.9,
       "chaleur": 5,
       "liens": [
         {
@@ -845,7 +929,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.3,
       "chaleur": 5,
       "liens": [
         {
@@ -863,7 +947,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 21.6,
       "chaleur": 5,
       "liens": [
         {
@@ -874,20 +958,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-witcher-3-remastered-will-also-turn-the-xbox-version-int",
-      "titre": "The Witcher 3 Remastered will also turn the Xbox version into a Play Anywhere title, making the PC version available too",
-      "url": "https://www.videogameschronicle.com/news/the-witcher-3-remastered-will-also-turn-the-xbox-version-into-a-play-anywhere-title-making-the-pc-version-available-too/",
+      "id": "we-ll-be-creating-a-whole-new-kind-of-gameplay-experience-i",
+      "titre": "\"We'll Be Creating A Whole New Kind Of Gameplay Experience\" - Iizuka Says The New Sonic Game Is Now In Development",
+      "url": "https://www.nintendolife.com/news/2026/09/well-be-creating-a-whole-new-kind-of-gameplay-experience-iizuka-says-the-new-sonic-game-is-now-in-development",
       "sources": [
-        "VGC"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.8,
-      "chaleur": 5,
+      "heures": 5.6,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-witcher-3-remastered-will-also-turn-the-xbox-version-into-a-play-anywhere-title-making-the-pc-version-available-too/",
-          "titre": "The Witcher 3 Remastered will also turn the Xbox version into a Play Anywhere title, making the PC version available too"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/well-be-creating-a-whole-new-kind-of-gameplay-experience-iizuka-says-the-new-sonic-game-is-now-in-development",
+          "titre": "\"We'll Be Creating A Whole New Kind Of Gameplay Experience\" - Iizuka Says The New Sonic Game Is Now In Development"
         }
       ]
     },
@@ -899,7 +983,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -917,8 +1001,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -935,8 +1019,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -953,8 +1037,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 13.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -971,7 +1055,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -989,7 +1073,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +1091,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,7 +1109,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,7 +1127,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1052,97 +1136,9 @@ const VEILLE = {
           "titre": "Packed Lair, out today, is a Tetris-adjacent base builder about cramming as much as you can into a tiny evil lair to aid your army in conquering the world"
         }
       ]
-    },
-    {
-      "id": "ps-plus-discount-for-one-of-ps5-s-best-new-indie-games",
-      "titre": "PS Plus Discount for One of PS5's Best New Indie Games",
-      "url": "https://www.pushsquare.com/news/2026/09/ps-plus-discount-for-one-of-ps5s-best-new-indie-games",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 14.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/ps-plus-discount-for-one-of-ps5s-best-new-indie-games",
-          "titre": "PS Plus Discount for One of PS5's Best New Indie Games"
-        }
-      ]
-    },
-    {
-      "id": "love-em-or-hate-em-if-it-weren-t-for-the-sonic-the-hedgehog",
-      "titre": "Love 'em or hate 'em, if it weren't for the Sonic the Hedgehog films, the blue blur might have been canned entirely, so says series boss Takashi Iizuka",
-      "url": "https://www.rockpapershotgun.com/love-em-or-hate-em-if-it-werent-for-the-sonic-the-hedgehog-films-the-blue-blur-might-have-been-canned-entirely-so-says-series-boss-takashi-iizuka",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 15.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/love-em-or-hate-em-if-it-werent-for-the-sonic-the-hedgehog-films-the-blue-blur-might-have-been-canned-entirely-so-says-series-boss-takashi-iizuka",
-          "titre": "Love 'em or hate 'em, if it weren't for the Sonic the Hedgehog films, the blue blur might have been canned entirely, so says series boss Takashi Iizuka"
-        }
-      ]
-    },
-    {
-      "id": "i-modded-crazy-taxi-into-grand-theft-auto-5",
-      "titre": "I modded Crazy Taxi into Grand Theft Auto 5",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-modded-crazy-taxi-into-grand-theft-auto-5/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-modded-crazy-taxi-into-grand-theft-auto-5/",
-          "titre": "I modded Crazy Taxi into Grand Theft Auto 5"
-        }
-      ]
-    },
-    {
-      "id": "following-a-strong-start-rebel-wolves-line-up-the-blood-of-d",
-      "titre": "Following a strong start, Rebel Wolves line up The Blood of Dawnwalker's first big patch for next month, adding in a new, easier difficulty mode and more",
-      "url": "https://www.rockpapershotgun.com/following-a-strong-start-rebel-wolves-line-up-the-blood-of-dawnwalkers-first-big-patch-for-next-month-adding-in-a-new-easier-difficulty-mode-and-more",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 15.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/following-a-strong-start-rebel-wolves-line-up-the-blood-of-dawnwalkers-first-big-patch-for-next-month-adding-in-a-new-easier-difficulty-mode-and-more",
-          "titre": "Following a strong start, Rebel Wolves line up The Blood of Dawnwalker's first big patch for next month, adding in a new, easier difficulty mode and more"
-        }
-      ]
-    },
-    {
-      "id": "i-set-out-to-prove-polling-rate-affects-my-aim-and-instead-f",
-      "titre": "I set out to prove polling rate affects my aim and instead found my favourite DPI setting",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/i-set-out-to-prove-polling-rate-affects-my-aim-and-instead-found-my-favourite-dpi-setting/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-mice/i-set-out-to-prove-polling-rate-affects-my-aim-and-instead-found-my-favourite-dpi-setting/",
-          "titre": "I set out to prove polling rate affects my aim and instead found my favourite DPI setting"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "State of Decay 3 studio Undead Labs lay off \"a significant number\" of \"exceptionally talented developers\" after gaining independence from Xbox"
+  ]
 };
