@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "23/09/2026 à 04h21",
+  "collecte": "23/09/2026 à 06h26",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 4,
-      "heures": 14.0,
+      "heures": 16.1,
       "chaleur": 19,
       "liens": [
         {
@@ -49,7 +49,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 13.3,
+      "heures": 15.3,
       "chaleur": 11,
       "liens": [
         {
@@ -77,7 +77,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.7,
       "chaleur": 11,
       "liens": [
         {
@@ -96,7 +96,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 14.1,
+      "heures": 16.2,
       "chaleur": 11,
       "liens": [
         {
@@ -112,36 +112,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "following-a-strong-start-rebel-wolves-line-up-the-blood-of-d",
-      "titre": "Following a strong start, Rebel Wolves line up The Blood of Dawnwalker's first big patch for next month, adding in a new, easier difficulty mode and more",
-      "url": "https://www.rockpapershotgun.com/following-a-strong-start-rebel-wolves-line-up-the-blood-of-dawnwalkers-first-big-patch-for-next-month-adding-in-a-new-easier-difficulty-mode-and-more",
-      "sources": [
-        "Eurogamer",
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 11.8,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/following-a-strong-start-rebel-wolves-line-up-the-blood-of-dawnwalkers-first-big-patch-for-next-month-adding-in-a-new-easier-difficulty-mode-and-more",
-          "titre": "Following a strong start, Rebel Wolves line up The Blood of Dawnwalker's first big patch for next month, adding in a new, easier difficulty mode and more"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/dawnwalkers-first-big-ps5-patch-adds-an-even-easier-difficulty-mode-and-improves-combat",
-          "titre": "Dawnwalker's First Big PS5 Patch Adds an Even Easier Difficulty Mode and Improves Combat"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blood-of-dawnwalker-difficulty-combat-patch-update",
-          "titre": "The Blood of Dawnwalker getting a new difficulty option, combat changes and more in game's first \"big\" patch scheduled for early October"
-        }
-      ]
-    },
-    {
       "id": "xbox-reportedly-set-to-lay-off-hundreds-more-staff-and-conso",
       "titre": "Xbox reportedly set to lay off hundreds more staff and \"consolidate\" several game studios in second round of major cuts this year",
       "url": "https://www.rockpapershotgun.com/xbox-reportedly-set-to-lay-off-hundreds-more-staff-and-consolidate-several-game-studios-in-second-round-of-major-cuts-this-year",
@@ -150,7 +120,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 18.8,
+      "heures": 20.9,
       "chaleur": 10,
       "liens": [
         {
@@ -166,6 +136,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "zelda-ocarina-of-time-s-limited-edition-switch-2-cover-appar",
+      "titre": "Zelda: Ocarina Of Time's Limited Edition Switch 2 Cover Apparently Had One Retailer Trying To Double Its Orders",
+      "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-times-limited-edition-switch-2-cover-apparently-had-one-retailer-trying-to-double-its-orders",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-times-limited-edition-switch-2-cover-apparently-had-one-retailer-trying-to-double-its-orders",
+          "titre": "Zelda: Ocarina Of Time's Limited Edition Switch 2 Cover Apparently Had One Retailer Trying To Double Its Orders"
+        }
+      ]
+    },
+    {
       "id": "i-m-still-blown-away-by-the-amount-of-talent-hellblade-devs",
       "titre": "\"I'm still blown away by the amount of talent\": Hellblade devs Ninja Theory face closure after Microsoft fail to reach a deal with buyers",
       "url": "https://www.rockpapershotgun.com/im-still-blown-away-by-the-amount-of-talent-hellblade-devs-ninja-theory-face-closure-after-microsoft-fail-to-reach-a-deal-with-buyers",
@@ -174,7 +162,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 12.0,
+      "heures": 14.1,
       "chaleur": 9,
       "liens": [
         {
@@ -190,36 +178,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "reaction-did-fans-just-bring-destiny-back-from-the-dead",
-      "titre": "Reaction: Did Fans Just Bring Destiny Back from the Dead?",
-      "url": "https://www.pushsquare.com/features/reaction-did-fans-just-bring-destiny-back-from-the-dead",
-      "sources": [
-        "Eurogamer",
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 16.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/reaction-did-fans-just-bring-destiny-back-from-the-dead",
-          "titre": "Reaction: Did Fans Just Bring Destiny Back from the Dead?"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/bungie-decide-their-destiny-is-to-do-more-destiny-after-all-pledging-to-bring-back-vaulted-destiny-2-campaigns-while-declaring-that-marathon-needs-to-evolve",
-          "titre": "Bungie decide their destiny is to do more Destiny after all, pledging to bring back vaulted Destiny 2 campaigns while declaring that Marathon \"needs to evolve\""
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/bungie-vaulted-destiny-2-campaigns-marathon-future",
-          "titre": "Bungie is freeing vaulted Destiny 2 campaigns after Marathon \"did not reach as many players as we had hoped\""
-        }
-      ]
-    },
-    {
       "id": "where-can-australians-buy-r18-pc-games-without-a-credit-card",
       "titre": "Where can Australians buy R18+ PC games without a credit card? Pretty much everywhere but Steam",
       "url": "https://www.pcgamer.com/software/platforms/how-to-buy-r18-games-without-a-credit-card/",
@@ -227,49 +185,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.8,
       "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/software/platforms/how-to-buy-r18-games-without-a-credit-card/",
           "titre": "Where can Australians buy R18+ PC games without a credit card? Pretty much everywhere but Steam"
-        }
-      ]
-    },
-    {
-      "id": "trover-saves-the-universe-has-completely-vanished-from-the-s",
-      "titre": "Trover Saves The Universe Has Completely Vanished From The Switch eShop",
-      "url": "https://www.nintendolife.com/news/2026/09/trover-saves-the-universe-has-completely-vanished-from-the-switch-eshop",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/trover-saves-the-universe-has-completely-vanished-from-the-switch-eshop",
-          "titre": "Trover Saves The Universe Has Completely Vanished From The Switch eShop"
-        }
-      ]
-    },
-    {
-      "id": "thq-nordic-is-treating-existing-epic-mickey-rebrushed-owners",
-      "titre": "THQ Nordic Is Treating Existing Epic Mickey: Rebrushed Owners To A Free Upgrade On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/09/thq-nordic-is-treating-existing-epic-mickey-rebrushed-owners-to-a-free-upgrade-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/thq-nordic-is-treating-existing-epic-mickey-rebrushed-owners-to-a-free-upgrade-on-switch-2",
-          "titre": "THQ Nordic Is Treating Existing Epic Mickey: Rebrushed Owners To A Free Upgrade On Switch 2"
         }
       ]
     },
@@ -281,7 +203,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 15.1,
       "chaleur": 8,
       "liens": [
         {
@@ -299,7 +221,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.3,
       "chaleur": 8,
       "liens": [
         {
@@ -317,7 +239,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.4,
       "chaleur": 8,
       "liens": [
         {
@@ -335,7 +257,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.3,
       "chaleur": 8,
       "liens": [
         {
@@ -353,7 +275,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 7,
       "liens": [
         {
@@ -371,7 +293,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.3,
       "chaleur": 7,
       "liens": [
         {
@@ -389,7 +311,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 7,
       "liens": [
         {
@@ -562,6 +484,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "we-ll-be-creating-a-whole-new-kind-of-gameplay-experience-i",
+      "titre": "\"We'll Be Creating A Whole New Kind Of Gameplay Experience\" - Iizuka Says The New Sonic Game Is Now In Development",
+      "url": "https://www.nintendolife.com/news/2026/09/well-be-creating-a-whole-new-kind-of-gameplay-experience-iizuka-says-the-new-sonic-game-is-now-in-development",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/well-be-creating-a-whole-new-kind-of-gameplay-experience-iizuka-says-the-new-sonic-game-is-now-in-development",
+          "titre": "\"We'll Be Creating A Whole New Kind Of Gameplay Experience\" - Iizuka Says The New Sonic Game Is Now In Development"
+        }
+      ]
+    },
+    {
+      "id": "trover-saves-the-universe-has-completely-vanished-from-the-s",
+      "titre": "Trover Saves The Universe Has Completely Vanished From The Switch eShop",
+      "url": "https://www.nintendolife.com/news/2026/09/trover-saves-the-universe-has-completely-vanished-from-the-switch-eshop",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/trover-saves-the-universe-has-completely-vanished-from-the-switch-eshop",
+          "titre": "Trover Saves The Universe Has Completely Vanished From The Switch eShop"
+        }
+      ]
+    },
+    {
+      "id": "thq-nordic-is-treating-existing-epic-mickey-rebrushed-owners",
+      "titre": "THQ Nordic Is Treating Existing Epic Mickey: Rebrushed Owners To A Free Upgrade On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/09/thq-nordic-is-treating-existing-epic-mickey-rebrushed-owners-to-a-free-upgrade-on-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/thq-nordic-is-treating-existing-epic-mickey-rebrushed-owners-to-a-free-upgrade-on-switch-2",
+          "titre": "THQ Nordic Is Treating Existing Epic Mickey: Rebrushed Owners To A Free Upgrade On Switch 2"
+        }
+      ]
+    },
+    {
       "id": "sudden-demand-for-middle-earth-shadow-of-mordor-and-war-ps5",
       "titre": "Sudden Demand for Middle-earth: Shadow of Mordor and War PS5 Ports After Switch 2 Bundle Is Revealed",
       "url": "https://www.pushsquare.com/news/2026/09/sudden-demand-for-middle-earth-shadow-of-mordor-and-war-ps5-ports-after-switch-2-bundle-is-revealed",
@@ -569,67 +545,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/sudden-demand-for-middle-earth-shadow-of-mordor-and-war-ps5-ports-after-switch-2-bundle-is-revealed",
           "titre": "Sudden Demand for Middle-earth: Shadow of Mordor and War PS5 Ports After Switch 2 Bundle Is Revealed"
-        }
-      ]
-    },
-    {
-      "id": "want-more-lord-of-the-rings-on-switch-2-cool-two-ports-are-l",
-      "titre": "Want More Lord Of The Rings On Switch 2? Cool, Two Ports Are Launching Next Week",
-      "url": "https://www.nintendolife.com/news/2026/09/want-more-lord-of-the-rings-on-switch-2-cool-two-ports-are-launching-next-week",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/want-more-lord-of-the-rings-on-switch-2-cool-two-ports-are-launching-next-week",
-          "titre": "Want More Lord Of The Rings On Switch 2? Cool, Two Ports Are Launching Next Week"
-        }
-      ]
-    },
-    {
-      "id": "prebuilt-steam-machine-faceplate-screens-are-here-delivering",
-      "titre": "Prebuilt Steam Machine faceplate screens are here, delivering decent, surprisingly cheaper alternatives to Valve-approved DIY builds",
-      "url": "https://www.rockpapershotgun.com/prebuilt-steam-machine-faceplate-screens-are-here-delivering-decent-surprisingly-cheaper-alternatives-to-valve-approved-diy-builds",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/prebuilt-steam-machine-faceplate-screens-are-here-delivering-decent-surprisingly-cheaper-alternatives-to-valve-approved-diy-builds",
-          "titre": "Prebuilt Steam Machine faceplate screens are here, delivering decent, surprisingly cheaper alternatives to Valve-approved DIY builds"
-        }
-      ]
-    },
-    {
-      "id": "review-lego-batman-legacy-of-the-dark-knight-switch-2-open-w",
-      "titre": "Review: LEGO Batman: Legacy Of The Dark Knight (Switch 2) - Open-World Gotham Still Thrills In A Solid Port",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/lego-batman-legacy-of-the-dark-knight",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/lego-batman-legacy-of-the-dark-knight",
-          "titre": "Review: LEGO Batman: Legacy Of The Dark Knight (Switch 2) - Open-World Gotham Still Thrills In A Solid Port"
         }
       ]
     },
@@ -641,7 +563,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 6,
       "liens": [
         {
@@ -659,7 +581,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.6,
       "chaleur": 6,
       "liens": [
         {
@@ -677,7 +599,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.9,
       "chaleur": 6,
       "liens": [
         {
@@ -688,20 +610,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "guide-where-to-pre-order-the-legend-of-zelda-ocarina-of-time",
-      "titre": "Guide: Where To Pre-Order The Legend Of Zelda: Ocarina Of Time & Zelda Nintendo Switch 2 Console",
-      "url": "https://www.nintendolife.com/guides/where-to-pre-order-the-legend-of-zelda-ocarina-of-time-and-zelda-nintendo-switch-2-console",
+      "id": "reaction-did-fans-just-bring-destiny-back-from-the-dead",
+      "titre": "Reaction: Did Fans Just Bring Destiny Back from the Dead?",
+      "url": "https://www.pushsquare.com/features/reaction-did-fans-just-bring-destiny-back-from-the-dead",
       "sources": [
-        "Nintendo Life"
+        "Push Square",
+        "Rock Paper Shotgun"
       ],
-      "reprises": 1,
-      "heures": 16.8,
+      "reprises": 2,
+      "heures": 18.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/where-to-pre-order-the-legend-of-zelda-ocarina-of-time-and-zelda-nintendo-switch-2-console",
-          "titre": "Guide: Where To Pre-Order The Legend Of Zelda: Ocarina Of Time & Zelda Nintendo Switch 2 Console"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/reaction-did-fans-just-bring-destiny-back-from-the-dead",
+          "titre": "Reaction: Did Fans Just Bring Destiny Back from the Dead?"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/bungie-decide-their-destiny-is-to-do-more-destiny-after-all-pledging-to-bring-back-vaulted-destiny-2-campaigns-while-declaring-that-marathon-needs-to-evolve",
+          "titre": "Bungie decide their destiny is to do more Destiny after all, pledging to bring back vaulted Destiny 2 campaigns while declaring that Marathon \"needs to evolve\""
         }
       ]
     },
@@ -714,7 +642,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 18.6,
+      "heures": 20.7,
       "chaleur": 6,
       "liens": [
         {
@@ -737,7 +665,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.1,
+      "heures": 21.2,
       "chaleur": 6,
       "liens": [
         {
@@ -755,7 +683,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.0,
+      "heures": 35.0,
       "chaleur": 6,
       "liens": [
         {
@@ -773,13 +701,67 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.8,
+      "heures": 35.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/nintendo-switch-pokemon-ruby-sapphire-hd-port",
           "titre": "Nintendo Switch ports of Pokémon Ruby and Sapphire look even more likely after official account shares suspiciously HD footage of the GBA games"
+        }
+      ]
+    },
+    {
+      "id": "want-more-lord-of-the-rings-on-switch-2-cool-two-ports-are-l",
+      "titre": "Want More Lord Of The Rings On Switch 2? Cool, Two Ports Are Launching Next Week",
+      "url": "https://www.nintendolife.com/news/2026/09/want-more-lord-of-the-rings-on-switch-2-cool-two-ports-are-launching-next-week",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/want-more-lord-of-the-rings-on-switch-2-cool-two-ports-are-launching-next-week",
+          "titre": "Want More Lord Of The Rings On Switch 2? Cool, Two Ports Are Launching Next Week"
+        }
+      ]
+    },
+    {
+      "id": "prebuilt-steam-machine-faceplate-screens-are-here-delivering",
+      "titre": "Prebuilt Steam Machine faceplate screens are here, delivering decent, surprisingly cheaper alternatives to Valve-approved DIY builds",
+      "url": "https://www.rockpapershotgun.com/prebuilt-steam-machine-faceplate-screens-are-here-delivering-decent-surprisingly-cheaper-alternatives-to-valve-approved-diy-builds",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 13.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/prebuilt-steam-machine-faceplate-screens-are-here-delivering-decent-surprisingly-cheaper-alternatives-to-valve-approved-diy-builds",
+          "titre": "Prebuilt Steam Machine faceplate screens are here, delivering decent, surprisingly cheaper alternatives to Valve-approved DIY builds"
+        }
+      ]
+    },
+    {
+      "id": "review-lego-batman-legacy-of-the-dark-knight-switch-2-open-w",
+      "titre": "Review: LEGO Batman: Legacy Of The Dark Knight (Switch 2) - Open-World Gotham Still Thrills In A Solid Port",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/lego-batman-legacy-of-the-dark-knight",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/lego-batman-legacy-of-the-dark-knight",
+          "titre": "Review: LEGO Batman: Legacy Of The Dark Knight (Switch 2) - Open-World Gotham Still Thrills In A Solid Port"
         }
       ]
     },
@@ -791,7 +773,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -809,7 +791,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.7,
       "chaleur": 5,
       "liens": [
         {
@@ -827,7 +809,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 17.0,
       "chaleur": 5,
       "liens": [
         {
@@ -845,7 +827,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.4,
       "chaleur": 5,
       "liens": [
         {
@@ -863,7 +845,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.7,
       "chaleur": 5,
       "liens": [
         {
@@ -881,49 +863,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.8,
+      "heures": 18.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/the-witcher-3-remastered-will-also-turn-the-xbox-version-into-a-play-anywhere-title-making-the-pc-version-available-too/",
           "titre": "The Witcher 3 Remastered will also turn the Xbox version into a Play Anywhere title, making the PC version available too"
-        }
-      ]
-    },
-    {
-      "id": "runescape-dragonwilds-rolls-out-its-first-update-for-switch",
-      "titre": "RuneScape: Dragonwilds Rolls Out Its First Update For Switch 2 Adventurers",
-      "url": "https://www.nintendolife.com/news/2026/09/runescape-dragonwilds-rolls-out-its-first-update-for-switch-2-adventurers",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 25.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/runescape-dragonwilds-rolls-out-its-first-update-for-switch-2-adventurers",
-          "titre": "RuneScape: Dragonwilds Rolls Out Its First Update For Switch 2 Adventurers"
-        }
-      ]
-    },
-    {
-      "id": "it-s-sad-and-devastating-black-myth-wukong-s-physical-publi",
-      "titre": "\"It's sad and devastating\" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs",
-      "url": "https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 35.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs",
-          "titre": "\"It's sad and devastating\" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs"
         }
       ]
     },
@@ -935,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +899,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +917,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +935,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1025,7 +971,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,7 +989,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,7 +1007,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1079,7 +1025,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1097,8 +1043,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1115,8 +1061,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1133,13 +1079,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/i-modded-crazy-taxi-into-grand-theft-auto-5/",
           "titre": "I modded Crazy Taxi into Grand Theft Auto 5"
+        }
+      ]
+    },
+    {
+      "id": "following-a-strong-start-rebel-wolves-line-up-the-blood-of-d",
+      "titre": "Following a strong start, Rebel Wolves line up The Blood of Dawnwalker's first big patch for next month, adding in a new, easier difficulty mode and more",
+      "url": "https://www.rockpapershotgun.com/following-a-strong-start-rebel-wolves-line-up-the-blood-of-dawnwalkers-first-big-patch-for-next-month-adding-in-a-new-easier-difficulty-mode-and-more",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 13.9,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/following-a-strong-start-rebel-wolves-line-up-the-blood-of-dawnwalkers-first-big-patch-for-next-month-adding-in-a-new-easier-difficulty-mode-and-more",
+          "titre": "Following a strong start, Rebel Wolves line up The Blood of Dawnwalker's first big patch for next month, adding in a new, easier difficulty mode and more"
         }
       ]
     },
@@ -1151,13 +1115,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/gaming-mice/i-set-out-to-prove-polling-rate-affects-my-aim-and-instead-found-my-favourite-dpi-setting/",
           "titre": "I set out to prove polling rate affects my aim and instead found my favourite DPI setting"
+        }
+      ]
+    },
+    {
+      "id": "rumour-next-halo-game-will-be-a-new-mainline-instalment-cast",
+      "titre": "Rumour: Next Halo Game Will Be a New 'Mainline Instalment', Casting Doubt on More Remakes",
+      "url": "https://www.pushsquare.com/news/2026/09/rumour-next-halo-game-will-be-a-new-mainline-instalment-casting-doubt-on-more-remakes",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 13.9,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/rumour-next-halo-game-will-be-a-new-mainline-instalment-casting-doubt-on-more-remakes",
+          "titre": "Rumour: Next Halo Game Will Be a New 'Mainline Instalment', Casting Doubt on More Remakes"
         }
       ]
     }
