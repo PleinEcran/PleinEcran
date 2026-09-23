@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "23/09/2026 à 20h20",
+  "collecte": "23/09/2026 à 22h19",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 9.0,
+      "heures": 11.0,
       "chaleur": 21,
       "liens": [
         {
@@ -46,6 +46,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "age-of-empires-developer-world-s-edge-hit-with-layoffs-follo",
+      "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision",
+      "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 8.4,
+      "chaleur": 17,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
+          "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/age-of-empire-worlds-edge-studio-xbox-cuts",
+          "titre": "Age of Empires studio World's Edge reportedly lost \"nearly half\" of its staff during yesterday's Xbox cuts and move to Activision"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/age-of-empires-studio-worlds-edge-reportedly-lose-nearly-half-their-staff-and-a-new-game-project-in-mass-xbox-layoffs",
+          "titre": "Age of Empires studio World's Edge reportedly lose nearly half their staff and a new game project in mass Xbox layoffs"
+        }
+      ]
+    },
+    {
       "id": "the-producer-behind-cregger-s-resident-evil-film-is-working",
       "titre": "The producer behind Cregger's Resident Evil film is working on an unnamed Silent Hill project and players are asking for just one thing",
       "url": "https://www.pcgamer.com/games/horror/the-producer-behind-creggers-resident-evil-film-is-working-on-an-unnamed-silent-hill-project-and-players-are-asking-for-just-one-thing/",
@@ -56,8 +86,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 3.5,
-      "chaleur": 17,
+      "heures": 5.5,
+      "chaleur": 15,
       "liens": [
         {
           "source": "PC Gamer",
@@ -82,32 +112,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "age-of-empires-developer-world-s-edge-hit-with-layoffs-follo",
-      "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision",
-      "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
+      "id": "steam-game-disables-mods-after-facing-its-second-workshop-ma",
+      "titre": "Steam game disables mods after facing its second Workshop malware outbreak this year",
+      "url": "https://www.pcgamer.com/games/sim/steam-game-disables-mods-after-facing-its-second-workshop-malware-outbreak-this-year/",
       "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz",
+        "PC Gamer",
         "Rock Paper Shotgun"
       ],
-      "reprises": 3,
-      "heures": 6.4,
-      "chaleur": 17,
+      "reprises": 2,
+      "heures": 1.4,
+      "chaleur": 11,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
-          "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/age-of-empire-worlds-edge-studio-xbox-cuts",
-          "titre": "Age of Empires studio World's Edge reportedly lost \"nearly half\" of its staff during yesterday's Xbox cuts and move to Activision"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/steam-game-disables-mods-after-facing-its-second-workshop-malware-outbreak-this-year/",
+          "titre": "Steam game disables mods after facing its second Workshop malware outbreak this year"
         },
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/age-of-empires-studio-worlds-edge-reportedly-lose-nearly-half-their-staff-and-a-new-game-project-in-mass-xbox-layoffs",
-          "titre": "Age of Empires studio World's Edge reportedly lose nearly half their staff and a new game project in mass Xbox layoffs"
+          "url": "https://www.rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year",
+          "titre": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year"
         }
       ]
     },
@@ -120,7 +144,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 11,
       "liens": [
         {
@@ -136,26 +160,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "opinion-i-think-i-m-missing-something-about-stellar-blade-on",
-      "titre": "Opinion: I Think I'm Missing Something About Stellar Blade On Switch 2",
-      "url": "https://www.nintendolife.com/features/opinion-i-think-im-missing-something-about-stellar-blade-on-switch-2",
+      "id": "world-of-warcraft-forever-s-first-patch-will-bring-back-the",
+      "titre": "World of Warcraft: Forever's first patch will bring back the number one thing seasoned players missed from the MMO's past: storms",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-first-patch-will-bring-back-the-number-one-thing-seasoned-players-missed-from-the-mmos-past-storms/",
       "sources": [
-        "Eurogamer",
-        "Nintendo Life"
+        "PC Gamer",
+        "Push Square"
       ],
       "reprises": 2,
-      "heures": 2.3,
-      "chaleur": 11,
+      "heures": 0.2,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/opinion-i-think-im-missing-something-about-stellar-blade-on-switch-2",
-          "titre": "Opinion: I Think I'm Missing Something About Stellar Blade On Switch 2"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-first-patch-will-bring-back-the-number-one-thing-seasoned-players-missed-from-the-mmos-past-storms/",
+          "titre": "World of Warcraft: Forever's first patch will bring back the number one thing seasoned players missed from the MMO's past: storms"
         },
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/stellar-blade-rocky-development-three-months-salary",
-          "titre": "Stellar Blade is a success now but once came close to the brink: \"We could only pay salaries for about three months\""
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/reaction-did-fans-just-bring-destiny-back-from-the-dead",
+          "titre": "Reaction: Did Fans Just Bring Destiny Back from the Dead?"
         }
       ]
     },
@@ -168,7 +192,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 1.6,
+      "heures": 3.5,
       "chaleur": 9,
       "liens": [
         {
@@ -184,26 +208,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "fire-emblem-fortune-s-weave-bird-time-explained-how-and-why",
-      "titre": "Fire Emblem Fortune’s Weave: Bird Time explained, how and why you should do it",
-      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-bird-time-explained-how-and-why-you-should-do-it/",
+      "id": "opinion-i-think-i-m-missing-something-about-stellar-blade-on",
+      "titre": "Opinion: I Think I'm Missing Something About Stellar Blade On Switch 2",
+      "url": "https://www.nintendolife.com/features/opinion-i-think-im-missing-something-about-stellar-blade-on-switch-2",
       "sources": [
-        "Nintendo Life",
-        "VGC"
+        "Eurogamer",
+        "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 3.0,
+      "heures": 4.3,
       "chaleur": 9,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-bird-time-explained-how-and-why-you-should-do-it/",
-          "titre": "Fire Emblem Fortune’s Weave: Bird Time explained, how and why you should do it"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/opinion-i-think-im-missing-something-about-stellar-blade-on-switch-2",
+          "titre": "Opinion: I Think I'm Missing Something About Stellar Blade On Switch 2"
         },
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/poll-whos-your-favourite-fire-emblem-fortunes-weave-character",
-          "titre": "Poll: Who's Your Favourite Fire Emblem: Fortune's Weave Character?"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/stellar-blade-rocky-development-three-months-salary",
+          "titre": "Stellar Blade is a success now but once came close to the brink: \"We could only pay salaries for about three months\""
         }
       ]
     },
@@ -216,7 +240,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 28.0,
+      "heures": 30.0,
       "chaleur": 9,
       "liens": [
         {
@@ -232,24 +256,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "report-bethesda-president-tells-obsidian-staff-it-won-t-lose",
-      "titre": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge",
-      "url": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
-          "titre": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge"
-        }
-      ]
-    },
-    {
       "id": "good-luck-today-halo-friends-after-years-of-rivalry-call-of",
       "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs",
       "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
@@ -257,7 +263,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 29.0,
+      "heures": 31.0,
       "chaleur": 8,
       "liens": [
         {
@@ -275,7 +281,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 30.2,
+      "heures": 32.2,
       "chaleur": 8,
       "liens": [
         {
@@ -286,38 +292,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-thought-from-logitech-s-new-pro-products-i-d-be-most-excit",
-      "titre": "I thought from Logitech's new Pro products I'd be most excited about the Superstrike, but after using them it's actually the keyboard and mouse pad that have me grinning",
-      "url": "https://www.pcgamer.com/hardware/i-thought-from-logitechs-new-pro-products-id-be-most-excited-about-the-superstrike-but-after-using-them-its-actually-the-keyboard-and-mouse-pad-that-have-me-grinning/",
+      "id": "fire-emblem-fortune-s-weave-bird-time-explained-how-and-why",
+      "titre": "Fire Emblem Fortune’s Weave: Bird Time explained, how and why you should do it",
+      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-bird-time-explained-how-and-why-you-should-do-it/",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 4.3,
+      "reprises": 2,
+      "heures": 5.0,
       "chaleur": 7,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/i-thought-from-logitechs-new-pro-products-id-be-most-excited-about-the-superstrike-but-after-using-them-its-actually-the-keyboard-and-mouse-pad-that-have-me-grinning/",
-          "titre": "I thought from Logitech's new Pro products I'd be most excited about the Superstrike, but after using them it's actually the keyboard and mouse pad that have me grinning"
-        }
-      ]
-    },
-    {
-      "id": "sorry-early-adopters-logitech-is-releasing-an-improved-super",
-      "titre": "Sorry early adopters, Logitech is releasing an improved Superstrike making the original all but obsolete just months after launch",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/sorry-early-adopters-logitech-is-releasing-an-improved-superstrike-making-the-original-all-but-obsolete-just-months-after-launch/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.3,
-      "chaleur": 7,
-      "liens": [
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-bird-time-explained-how-and-why-you-should-do-it/",
+          "titre": "Fire Emblem Fortune’s Weave: Bird Time explained, how and why you should do it"
+        },
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-mice/sorry-early-adopters-logitech-is-releasing-an-improved-superstrike-making-the-original-all-but-obsolete-just-months-after-launch/",
-          "titre": "Sorry early adopters, Logitech is releasing an improved Superstrike making the original all but obsolete just months after launch"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/poll-whos-your-favourite-fire-emblem-fortunes-weave-character",
+          "titre": "Poll: Who's Your Favourite Fire Emblem: Fortune's Weave Character?"
         }
       ]
     },
@@ -329,7 +323,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 9.0,
       "chaleur": 7,
       "liens": [
         {
@@ -347,7 +341,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 33.4,
+      "heures": 35.4,
       "chaleur": 7,
       "liens": [
         {
@@ -502,6 +496,78 @@ const VEILLE = {
       ]
     },
     {
+      "id": "halo-needed-to-change-but-activision-faces-a-huge-challenge",
+      "titre": "Halo needed to change, but Activision faces a huge challenge to fix it",
+      "url": "https://www.pcgamer.com/games/halo/halo-needed-to-change-but-activision-faces-a-huge-challenge-to-fix-it/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/halo/halo-needed-to-change-but-activision-faces-a-huge-challenge-to-fix-it/",
+          "titre": "Halo needed to change, but Activision faces a huge challenge to fix it"
+        }
+      ]
+    },
+    {
+      "id": "final-fantasy-7-revelation-on-ps5-pro-offers-a-bespoke-4k-60",
+      "titre": "Final Fantasy 7 Revelation on PS5 Pro Offers a Bespoke 4K, 60fps Mode Thanks to PSSR",
+      "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-on-ps5-pro-offers-a-bespoke-4k-60fps-mode-thanks-to-pssr",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-on-ps5-pro-offers-a-bespoke-4k-60fps-mode-thanks-to-pssr",
+          "titre": "Final Fantasy 7 Revelation on PS5 Pro Offers a Bespoke 4K, 60fps Mode Thanks to PSSR"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-dev-addresses-the-debate-over-who",
+      "titre": "World of Warcraft: Forever dev addresses the debate over who it's made for: 'I did not spend the last year of my life relearning and mastering how to do things like we did it 20+ years ago for retail players'",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-addresses-the-debate-over-who-its-made-for-i-did-not-spend-the-last-year-of-my-life-relearning-and-mastering-how-to-do-things-like-we-did-it-20-years-ago-for-retail-players/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-addresses-the-debate-over-who-its-made-for-i-did-not-spend-the-last-year-of-my-life-relearning-and-mastering-how-to-do-things-like-we-did-it-20-years-ago-for-retail-players/",
+          "titre": "World of Warcraft: Forever dev addresses the debate over who it's made for: 'I did not spend the last year of my life relearning and mastering how to do things like we did it 20+ years ago for retail players'"
+        }
+      ]
+    },
+    {
+      "id": "i-apologize-in-advance-for-this-but-introducing-drillposting",
+      "titre": "I apologize in advance for this, but: Introducing Drillposting",
+      "url": "https://www.pcgamer.com/games/i-apologize-in-advance-for-this-but-introducing-drillposting/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/i-apologize-in-advance-for-this-but-introducing-drillposting/",
+          "titre": "I apologize in advance for this, but: Introducing Drillposting"
+        }
+      ]
+    },
+    {
       "id": "shoot-the-tires-please",
       "titre": "Shoot the tires, please",
       "url": "https://www.pcgamer.com/games/fps/shoot-the-tires-please/",
@@ -509,7 +575,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
@@ -527,7 +593,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -545,7 +611,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -563,7 +629,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -581,7 +647,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -592,128 +658,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "silent-hill-townfall-ordell-blood-bag-transfusion-door-puzzl",
-      "titre": "Silent Hill Townfall: Ordell blood bag transfusion door puzzle solution",
-      "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-blood-bag-transfusion-door-puzzle/",
+      "id": "report-bethesda-president-tells-obsidian-staff-it-won-t-lose",
+      "titre": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge",
+      "url": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
       "sources": [
-        "VGC"
+        "Game Developer"
       ],
       "reprises": 1,
-      "heures": 2.3,
+      "heures": 5.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-blood-bag-transfusion-door-puzzle/",
-          "titre": "Silent Hill Townfall: Ordell blood bag transfusion door puzzle solution"
-        }
-      ]
-    },
-    {
-      "id": "as-halo-goes-to-activision-fans-are-worried-about-this-year",
-      "titre": "As Halo goes to Activision, fans are worried about this year's Halo Fest and a potential lore reboot from the Call of Duty publisher",
-      "url": "https://www.eurogamer.net/activision-new-halo-game-fans-worried-lore-reboot",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/activision-new-halo-game-fans-worried-lore-reboot",
-          "titre": "As Halo goes to Activision, fans are worried about this year's Halo Fest and a potential lore reboot from the Call of Duty publisher"
-        }
-      ]
-    },
-    {
-      "id": "you-can-t-have-everything-in-arc-raiders-reworked-skill-tree",
-      "titre": "You can't have everything in Arc Raiders' reworked skill tree: 'We believe that creates more interesting choices and supports more playstyles'",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/you-cant-have-everything-in-arc-raiders-reworked-skill-tree-we-believe-that-creates-more-interesting-choices-and-supports-more-playstyles/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/you-cant-have-everything-in-arc-raiders-reworked-skill-tree-we-believe-that-creates-more-interesting-choices-and-supports-more-playstyles/",
-          "titre": "You can't have everything in Arc Raiders' reworked skill tree: 'We believe that creates more interesting choices and supports more playstyles'"
-        }
-      ]
-    },
-    {
-      "id": "the-arc-raiders-frozen-trail-update-is-bigger-than-anyone-ex",
-      "titre": "The Arc Raiders Frozen Trail update is bigger than anyone expected: new ARC, gun upgrades, a map, and personal outposts you can decorate",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/the-arc-raiders-frozen-trail-update-is-bigger-than-anyone-expected-new-arc-gun-upgrades-a-map-and-personal-outposts-you-can-decorate/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/the-arc-raiders-frozen-trail-update-is-bigger-than-anyone-expected-new-arc-gun-upgrades-a-map-and-personal-outposts-you-can-decorate/",
-          "titre": "The Arc Raiders Frozen Trail update is bigger than anyone expected: new ARC, gun upgrades, a map, and personal outposts you can decorate"
-        }
-      ]
-    },
-    {
-      "id": "i-put-ufo-sightings-in-grand-theft-auto-5-though-it-didn-t-q",
-      "titre": "I put UFO sightings in Grand Theft Auto 5, though it didn't quite go to plan",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-put-ufo-sightings-in-grand-theft-auto-5-though-it-didnt-quite-go-to-plan/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-put-ufo-sightings-in-grand-theft-auto-5-though-it-didnt-quite-go-to-plan/",
-          "titre": "I put UFO sightings in Grand Theft Auto 5, though it didn't quite go to plan"
-        }
-      ]
-    },
-    {
-      "id": "the-scariest-part-of-silent-hill-townfall-it-s-not-the-monst",
-      "titre": "The scariest part of Silent Hill: Townfall? It's not the monsters—it's British interior design",
-      "url": "https://www.pcgamer.com/games/horror/the-scariest-part-of-silent-hill-townfall-its-not-the-monsters-its-british-interior-design/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/the-scariest-part-of-silent-hill-townfall-its-not-the-monsters-its-british-interior-design/",
-          "titre": "The scariest part of Silent Hill: Townfall? It's not the monsters—it's British interior design"
-        }
-      ]
-    },
-    {
-      "id": "razer-chroma-soma-lighting",
-      "titre": "Razer Chroma Soma lighting",
-      "url": "https://www.pcgamer.com/hardware/gaming-chairs/razer-chroma-soma-lighting/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-chairs/razer-chroma-soma-lighting/",
-          "titre": "Razer Chroma Soma lighting"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
+          "titre": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge"
         }
       ]
     },
@@ -725,31 +683,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/the-steam-machine-handles-control-resonant-capably-but-the-promised-steam-deck-support-is-a-letdown",
           "titre": "The Steam Machine handles Control Resonant capably, but the promised Steam Deck support is a letdown"
-        }
-      ]
-    },
-    {
-      "id": "this-one-is-especially-bad-steam-game-about-mistreating-rag",
-      "titre": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year",
-      "url": "https://www.rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 5.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year",
-          "titre": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year"
         }
       ]
     },
@@ -761,7 +701,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 7.9,
       "chaleur": 6,
       "liens": [
         {
@@ -779,7 +719,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 6,
       "liens": [
         {
@@ -797,7 +737,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.0,
       "chaleur": 6,
       "liens": [
         {
@@ -815,49 +755,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/ea-sports-fc-27",
           "titre": "Review: EA Sports FC 27 (Switch 2) - Still The Best Football Option, Even With Caveats"
-        }
-      ]
-    },
-    {
-      "id": "psa-sorry-argos-deep-discounts-on-some-top-tier-switch-2-gam",
-      "titre": "PSA: Sorry, Argos' Deep Discounts On Some Top-Tier Switch 2 Games Sold Out Like Hot Cakes",
-      "url": "https://www.nintendolife.com/news/2026/09/psa-sorry-argos-deep-discounts-on-some-top-tier-switch-2-games-sold-out-like-hot-cakes",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/psa-sorry-argos-deep-discounts-on-some-top-tier-switch-2-games-sold-out-like-hot-cakes",
-          "titre": "PSA: Sorry, Argos' Deep Discounts On Some Top-Tier Switch 2 Games Sold Out Like Hot Cakes"
-        }
-      ]
-    },
-    {
-      "id": "xbox-lays-off-gears-of-war-e-day-s-story-director-barely-two",
-      "titre": "Xbox lays off Gears of War: E-Day's story director barely two weeks before the game's launch",
-      "url": "https://www.eurogamer.net/gears-of-war-e-day-story-director-laid-off-xbox-cuts",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gears-of-war-e-day-story-director-laid-off-xbox-cuts",
-          "titre": "Xbox lays off Gears of War: E-Day's story director barely two weeks before the game's launch"
         }
       ]
     },
@@ -869,7 +773,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 6,
       "liens": [
         {
@@ -887,7 +791,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.8,
+      "heures": 30.8,
       "chaleur": 6,
       "liens": [
         {
@@ -905,13 +809,49 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 31.8,
+      "heures": 33.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
           "titre": "'Do not': Rockstar outlines modding rules before GTA VI touches down"
+        }
+      ]
+    },
+    {
+      "id": "psa-sorry-argos-deep-discounts-on-some-top-tier-switch-2-gam",
+      "titre": "PSA: Sorry, Argos' Deep Discounts On Some Top-Tier Switch 2 Games Sold Out Like Hot Cakes",
+      "url": "https://www.nintendolife.com/news/2026/09/psa-sorry-argos-deep-discounts-on-some-top-tier-switch-2-games-sold-out-like-hot-cakes",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.6,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/psa-sorry-argos-deep-discounts-on-some-top-tier-switch-2-games-sold-out-like-hot-cakes",
+          "titre": "PSA: Sorry, Argos' Deep Discounts On Some Top-Tier Switch 2 Games Sold Out Like Hot Cakes"
+        }
+      ]
+    },
+    {
+      "id": "xbox-lays-off-gears-of-war-e-day-s-story-director-barely-two",
+      "titre": "Xbox lays off Gears of War: E-Day's story director barely two weeks before the game's launch",
+      "url": "https://www.eurogamer.net/gears-of-war-e-day-story-director-laid-off-xbox-cuts",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 13.3,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gears-of-war-e-day-story-director-laid-off-xbox-cuts",
+          "titre": "Xbox lays off Gears of War: E-Day's story director barely two weeks before the game's launch"
         }
       ]
     },
@@ -923,7 +863,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 20.6,
       "chaleur": 5,
       "liens": [
         {
@@ -941,7 +881,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 21.8,
       "chaleur": 5,
       "liens": [
         {
@@ -959,7 +899,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.8,
+      "heures": 22.8,
       "chaleur": 5,
       "liens": [
         {
@@ -977,7 +917,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.3,
+      "heures": 28.3,
       "chaleur": 5,
       "liens": [
         {
@@ -995,7 +935,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.3,
       "chaleur": 5,
       "liens": [
         {
@@ -1013,7 +953,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.3,
       "chaleur": 5,
       "liens": [
         {
@@ -1031,7 +971,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.3,
       "chaleur": 5,
       "liens": [
         {
@@ -1049,13 +989,139 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.6,
+      "heures": 31.6,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/banjo-kazooie-developer-rare-is-now-reporting-directly-to-activision",
           "titre": "Banjo-Kazooie Developer Rare Is Now Reporting Directly To Activision"
+        }
+      ]
+    },
+    {
+      "id": "silent-hill-townfall-ordell-blood-bag-transfusion-door-puzzl",
+      "titre": "Silent Hill Townfall: Ordell blood bag transfusion door puzzle solution",
+      "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-blood-bag-transfusion-door-puzzle/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-blood-bag-transfusion-door-puzzle/",
+          "titre": "Silent Hill Townfall: Ordell blood bag transfusion door puzzle solution"
+        }
+      ]
+    },
+    {
+      "id": "as-halo-goes-to-activision-fans-are-worried-about-this-year",
+      "titre": "As Halo goes to Activision, fans are worried about this year's Halo Fest and a potential lore reboot from the Call of Duty publisher",
+      "url": "https://www.eurogamer.net/activision-new-halo-game-fans-worried-lore-reboot",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/activision-new-halo-game-fans-worried-lore-reboot",
+          "titre": "As Halo goes to Activision, fans are worried about this year's Halo Fest and a potential lore reboot from the Call of Duty publisher"
+        }
+      ]
+    },
+    {
+      "id": "you-can-t-have-everything-in-arc-raiders-reworked-skill-tree",
+      "titre": "You can't have everything in Arc Raiders' reworked skill tree: 'We believe that creates more interesting choices and supports more playstyles'",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/you-cant-have-everything-in-arc-raiders-reworked-skill-tree-we-believe-that-creates-more-interesting-choices-and-supports-more-playstyles/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/you-cant-have-everything-in-arc-raiders-reworked-skill-tree-we-believe-that-creates-more-interesting-choices-and-supports-more-playstyles/",
+          "titre": "You can't have everything in Arc Raiders' reworked skill tree: 'We believe that creates more interesting choices and supports more playstyles'"
+        }
+      ]
+    },
+    {
+      "id": "the-arc-raiders-frozen-trail-update-is-bigger-than-anyone-ex",
+      "titre": "The Arc Raiders Frozen Trail update is bigger than anyone expected: new ARC, gun upgrades, a map, and personal outposts you can decorate",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/the-arc-raiders-frozen-trail-update-is-bigger-than-anyone-expected-new-arc-gun-upgrades-a-map-and-personal-outposts-you-can-decorate/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/the-arc-raiders-frozen-trail-update-is-bigger-than-anyone-expected-new-arc-gun-upgrades-a-map-and-personal-outposts-you-can-decorate/",
+          "titre": "The Arc Raiders Frozen Trail update is bigger than anyone expected: new ARC, gun upgrades, a map, and personal outposts you can decorate"
+        }
+      ]
+    },
+    {
+      "id": "i-put-ufo-sightings-in-grand-theft-auto-5-though-it-didn-t-q",
+      "titre": "I put UFO sightings in Grand Theft Auto 5, though it didn't quite go to plan",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-put-ufo-sightings-in-grand-theft-auto-5-though-it-didnt-quite-go-to-plan/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-put-ufo-sightings-in-grand-theft-auto-5-though-it-didnt-quite-go-to-plan/",
+          "titre": "I put UFO sightings in Grand Theft Auto 5, though it didn't quite go to plan"
+        }
+      ]
+    },
+    {
+      "id": "the-scariest-part-of-silent-hill-townfall-it-s-not-the-monst",
+      "titre": "The scariest part of Silent Hill: Townfall? It's not the monsters—it's British interior design",
+      "url": "https://www.pcgamer.com/games/horror/the-scariest-part-of-silent-hill-townfall-its-not-the-monsters-its-british-interior-design/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/the-scariest-part-of-silent-hill-townfall-its-not-the-monsters-its-british-interior-design/",
+          "titre": "The scariest part of Silent Hill: Townfall? It's not the monsters—it's British interior design"
+        }
+      ]
+    },
+    {
+      "id": "razer-chroma-soma-lighting",
+      "titre": "Razer Chroma Soma lighting",
+      "url": "https://www.pcgamer.com/hardware/gaming-chairs/razer-chroma-soma-lighting/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-chairs/razer-chroma-soma-lighting/",
+          "titre": "Razer Chroma Soma lighting"
         }
       ]
     },
@@ -1067,85 +1133,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/gundam-celebrates-40-years-of-games-with-a-dedicated-broadcast-next-month",
           "titre": "Gundam Celebrates 40 Years of Games with a Dedicated Broadcast Next Month"
-        }
-      ]
-    },
-    {
-      "id": "my-first-mmo-character-1-harvey-randall",
-      "titre": "My first MMO character #1: Harvey Randall",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-1-harvey-randall/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-1-harvey-randall/",
-          "titre": "My first MMO character #1: Harvey Randall"
-        }
-      ]
-    },
-    {
-      "id": "wistful-about-myst-vi",
-      "titre": "Wistful about Myst VI",
-      "url": "https://www.pcgamer.com/games/wistful-about-myst-vi/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/wistful-about-myst-vi/",
-          "titre": "Wistful about Myst VI"
-        }
-      ]
-    },
-    {
-      "id": "valve-offers-cs2-players-eggs",
-      "titre": "Valve offers CS2 players eggs",
-      "url": "https://www.pcgamer.com/games/fps/valve-offers-cs2-players-eggs/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/valve-offers-cs2-players-eggs/",
-          "titre": "Valve offers CS2 players eggs"
-        }
-      ]
-    },
-    {
-      "id": "we-hacked-the-fbi-says-previous-rockstar-breaching-hacking",
-      "titre": "'We hacked the FBI' says previous Rockstar-breaching hacking group: 'We hold data on all FBI employees and applicants'",
-      "url": "https://www.pcgamer.com/software/security/we-hacked-the-fbi-says-previous-rockstar-breaching-hacking-group-we-hold-data-on-all-fbi-employees-and-applicants/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/security/we-hacked-the-fbi-says-previous-rockstar-breaching-hacking-group-we-hold-data-on-all-fbi-employees-and-applicants/",
-          "titre": "'We hacked the FBI' says previous Rockstar-breaching hacking group: 'We hold data on all FBI employees and applicants'"
         }
       ]
     },
@@ -1157,13 +1151,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/diablo-5-level-scaling-diablo-2-blizzard",
           "titre": "Blizzard to take \"a somewhat different approach\" to level-scaling in Diablo 5, suggesting more influence from Diablo 2 than Diablo 4"
+        }
+      ]
+    },
+    {
+      "id": "control-resonant-power-lines-perimeter-factory-and-east-park",
+      "titre": "Control Resonant Power Lines: Perimeter, Factory, and East Park Station puzzle solutions",
+      "url": "https://www.videogameschronicle.com/guide/control-resonant-power-lines-perimeter-factory-and-east-park-station-puzzle-solutions/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 8.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/control-resonant-power-lines-perimeter-factory-and-east-park-station-puzzle-solutions/",
+          "titre": "Control Resonant Power Lines: Perimeter, Factory, and East Park Station puzzle solutions"
         }
       ]
     }
