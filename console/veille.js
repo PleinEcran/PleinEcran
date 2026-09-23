@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "23/09/2026 à 00h25",
+  "collecte": "23/09/2026 à 02h20",
   "seuil": 14,
   "sujets": [
     {
@@ -14,8 +14,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 4,
-      "heures": 10.1,
-      "chaleur": 20,
+      "heures": 12.0,
+      "chaleur": 19,
       "liens": [
         {
           "source": "Game Developer",
@@ -49,7 +49,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 9.3,
+      "heures": 11.2,
       "chaleur": 12,
       "liens": [
         {
@@ -77,7 +77,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.6,
       "chaleur": 12,
       "liens": [
         {
@@ -96,8 +96,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 10.2,
-      "chaleur": 12,
+      "heures": 12.1,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Push Square",
@@ -121,7 +121,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 7.9,
+      "heures": 9.8,
       "chaleur": 10,
       "liens": [
         {
@@ -150,7 +150,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 8.1,
+      "heures": 10.0,
       "chaleur": 10,
       "liens": [
         {
@@ -174,7 +174,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 14.9,
+      "heures": 16.8,
       "chaleur": 10,
       "liens": [
         {
@@ -197,31 +197,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 9,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/state-of-decay-3-dev-hit-with-significant-layoffs-after-going-independent",
           "titre": "State of Decay 3 Dev Hit with 'Significant' Layoffs After Going Independent"
-        }
-      ]
-    },
-    {
-      "id": "vindicated-after-speaking-to-some-pro-counter-strike-players",
-      "titre": "Vindicated: after speaking to some pro Counter-Strike players I'm sure I was right when I said 360 Hz is the sweet spot for competitive FPS",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/vindicated-after-speaking-to-some-pro-counter-strike-players-im-sure-i-was-right-when-i-said-360-hz-is-the-sweet-spot-for-competitive-fps/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-monitors/vindicated-after-speaking-to-some-pro-counter-strike-players-im-sure-i-was-right-when-i-said-360-hz-is-the-sweet-spot-for-competitive-fps/",
-          "titre": "Vindicated: after speaking to some pro Counter-Strike players I'm sure I was right when I said 360 Hz is the sweet spot for competitive FPS"
         }
       ]
     },
@@ -233,49 +215,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.0,
       "chaleur": 9,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
           "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs"
-        }
-      ]
-    },
-    {
-      "id": "hellblade-developer-ninja-theory-heading-towards-closure-in",
-      "titre": "Hellblade developer Ninja Theory heading towards closure in new wave of Xbox cuts, as two separate agreements collapse",
-      "url": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
-          "titre": "Hellblade developer Ninja Theory heading towards closure in new wave of Xbox cuts, as two separate agreements collapse"
-        }
-      ]
-    },
-    {
-      "id": "xbox-officially-announces-more-layoffs-and-widespread-change",
-      "titre": "Xbox officially announces more layoffs and widespread changes to its entire studio structure",
-      "url": "https://www.videogameschronicle.com/news/xbox-officially-announces-more-layoffs-and-widespread-changes-to-its-entire-studio-structure/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-officially-announces-more-layoffs-and-widespread-changes-to-its-entire-studio-structure/",
-          "titre": "Xbox officially announces more layoffs and widespread changes to its entire studio structure"
         }
       ]
     },
@@ -289,7 +235,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 12.4,
+      "heures": 14.3,
       "chaleur": 9,
       "liens": [
         {
@@ -318,7 +264,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 24.5,
+      "heures": 26.4,
       "chaleur": 9,
       "liens": [
         {
@@ -334,6 +280,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "thq-nordic-is-treating-existing-epic-mickey-rebrushed-owners",
+      "titre": "THQ Nordic Is Treating Existing Epic Mickey: Rebrushed Owners To A Free Upgrade On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/09/thq-nordic-is-treating-existing-epic-mickey-rebrushed-owners-to-a-free-upgrade-on-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/thq-nordic-is-treating-existing-epic-mickey-rebrushed-owners-to-a-free-upgrade-on-switch-2",
+          "titre": "THQ Nordic Is Treating Existing Epic Mickey: Rebrushed Owners To A Free Upgrade On Switch 2"
+        }
+      ]
+    },
+    {
       "id": "sudden-demand-for-middle-earth-shadow-of-mordor-and-war-ps5",
       "titre": "Sudden Demand for Middle-earth: Shadow of Mordor and War PS5 Ports After Switch 2 Bundle Is Revealed",
       "url": "https://www.pushsquare.com/news/2026/09/sudden-demand-for-middle-earth-shadow-of-mordor-and-war-ps5-ports-after-switch-2-bundle-is-revealed",
@@ -341,13 +305,49 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.8,
       "chaleur": 8,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/sudden-demand-for-middle-earth-shadow-of-mordor-and-war-ps5-ports-after-switch-2-bundle-is-revealed",
           "titre": "Sudden Demand for Middle-earth: Shadow of Mordor and War PS5 Ports After Switch 2 Bundle Is Revealed"
+        }
+      ]
+    },
+    {
+      "id": "hellblade-developer-ninja-theory-heading-towards-closure-in",
+      "titre": "Hellblade developer Ninja Theory heading towards closure in new wave of Xbox cuts, as two separate agreements collapse",
+      "url": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 12.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
+          "titre": "Hellblade developer Ninja Theory heading towards closure in new wave of Xbox cuts, as two separate agreements collapse"
+        }
+      ]
+    },
+    {
+      "id": "xbox-officially-announces-more-layoffs-and-widespread-change",
+      "titre": "Xbox officially announces more layoffs and widespread changes to its entire studio structure",
+      "url": "https://www.videogameschronicle.com/news/xbox-officially-announces-more-layoffs-and-widespread-changes-to-its-entire-studio-structure/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 12.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-officially-announces-more-layoffs-and-widespread-changes-to-its-entire-studio-structure/",
+          "titre": "Xbox officially announces more layoffs and widespread changes to its entire studio structure"
         }
       ]
     },
@@ -359,13 +359,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.2,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/blizzard-layoffs-xbox-cuts",
           "titre": "Blizzard layoffs are reportedly imminent, days after an exciting BlizzCon and a seemingly popular World of Warcraft: Forever beta"
+        }
+      ]
+    },
+    {
+      "id": "vindicated-after-speaking-to-some-pro-counter-strike-players",
+      "titre": "Vindicated: after speaking to some pro Counter-Strike players I'm sure I was right when I said 360 Hz is the sweet spot for competitive FPS",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/vindicated-after-speaking-to-some-pro-counter-strike-players-im-sure-i-was-right-when-i-said-360-hz-is-the-sweet-spot-for-competitive-fps/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-monitors/vindicated-after-speaking-to-some-pro-counter-strike-players-im-sure-i-was-right-when-i-said-360-hz-is-the-sweet-spot-for-competitive-fps/",
+          "titre": "Vindicated: after speaking to some pro Counter-Strike players I'm sure I was right when I said 360 Hz is the sweet spot for competitive FPS"
         }
       ]
     },
@@ -378,7 +396,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 7,
       "liens": [
         {
@@ -401,7 +419,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.8,
       "chaleur": 7,
       "liens": [
         {
@@ -419,31 +437,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.5,
       "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/rainbow-six-siege-boss-says-players-who-stick-around-during-gta-6s-launch-will-be-served-like-kings-and-queens/",
           "titre": "Rainbow Six Siege boss says players who stick around during GTA 6’s launch will be served ‘like kings and queens’"
-        }
-      ]
-    },
-    {
-      "id": "do-not-rockstar-outlines-modding-rules-before-gta-vi-touche",
-      "titre": "'Do not': Rockstar outlines modding rules before GTA VI touches down",
-      "url": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
-          "titre": "'Do not': Rockstar outlines modding rules before GTA VI touches down"
         }
       ]
     },
@@ -455,7 +455,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 7,
       "liens": [
         {
@@ -599,67 +599,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/guardians-make-their-own-fate-destiny-2-players-and-creators-celebrate-following-bungies-shock-u-turn-as-the-studio-admits-your-voices-mattered/",
           "titre": "'Guardians make their own fate.' Destiny 2 players and creators celebrate following Bungie's shock U-turn, as the studio admits: 'Your voices mattered'"
-        }
-      ]
-    },
-    {
-      "id": "diablo-5-will-take-a-somewhat-different-approach-to-diablo-4",
-      "titre": "Diablo 5 will 'take a somewhat different approach' to Diablo 4's monster level scaling so your character feels noticeably stronger as you progress",
-      "url": "https://www.pcgamer.com/games/rpg/diablo-5-will-take-a-somewhat-different-approach-to-diablo-4s-monster-level-scaling-so-your-character-feels-noticeably-stronger-as-you-progress/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/diablo-5-will-take-a-somewhat-different-approach-to-diablo-4s-monster-level-scaling-so-your-character-feels-noticeably-stronger-as-you-progress/",
-          "titre": "Diablo 5 will 'take a somewhat different approach' to Diablo 4's monster level scaling so your character feels noticeably stronger as you progress"
-        }
-      ]
-    },
-    {
-      "id": "stuntboost-is-a-tech-dech-skateboarding-platformer-all-about",
-      "titre": "Stuntboost is a Tech Dech, skateboarding platformer all about doing sick flips on cardboard constructs in your bedroom, and it's out now",
-      "url": "https://www.rockpapershotgun.com/stuntboost-is-a-tech-dech-skateboarding-platformer-all-about-doing-sick-flips-on-cardboard-constructs-in-your-bedroom-and-its-out-now",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/stuntboost-is-a-tech-dech-skateboarding-platformer-all-about-doing-sick-flips-on-cardboard-constructs-in-your-bedroom-and-its-out-now",
-          "titre": "Stuntboost is a Tech Dech, skateboarding platformer all about doing sick flips on cardboard constructs in your bedroom, and it's out now"
-        }
-      ]
-    },
-    {
-      "id": "furries-magical-girls-and-slick-hack-n-slash-combat-blend-pr",
-      "titre": "Furries, magical girls and slick hack 'n' slash combat blend promisingly together in the late 2000s inspired Break The Night",
-      "url": "https://www.rockpapershotgun.com/furries-magical-girls-and-slick-hack-n-slash-combat-blend-promisingly-together-in-the-late-2000s-inspired-break-the-night",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/furries-magical-girls-and-slick-hack-n-slash-combat-blend-promisingly-together-in-the-late-2000s-inspired-break-the-night",
-          "titre": "Furries, magical girls and slick hack 'n' slash combat blend promisingly together in the late 2000s inspired Break The Night"
         }
       ]
     },
@@ -671,7 +617,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.3,
       "chaleur": 6,
       "liens": [
         {
@@ -689,7 +635,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 6,
       "liens": [
         {
@@ -707,7 +653,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 6,
       "liens": [
         {
@@ -725,7 +671,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 6,
       "liens": [
         {
@@ -743,7 +689,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.6,
       "chaleur": 6,
       "liens": [
         {
@@ -754,56 +700,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sony-appears-to-be-testing-playstation-store-credit-offers-w",
-      "titre": "Sony appears to be testing PlayStation Store credit offers when you buy certain games",
-      "url": "https://www.eurogamer.net/playstation-store-wallet-credits-rewards",
+      "id": "do-not-rockstar-outlines-modding-rules-before-gta-vi-touche",
+      "titre": "'Do not': Rockstar outlines modding rules before GTA VI touches down",
+      "url": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
       "sources": [
-        "Eurogamer"
+        "Game Developer"
       ],
       "reprises": 1,
-      "heures": 11.0,
+      "heures": 13.8,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/playstation-store-wallet-credits-rewards",
-          "titre": "Sony appears to be testing PlayStation Store credit offers when you buy certain games"
-        }
-      ]
-    },
-    {
-      "id": "i-taught-an-old-man-new-tunes-in-rhythm-action-shopkeeper-si",
-      "titre": "I taught an old man new tunes in rhythm-action shopkeeper sim Mr. Records, and now you can try the demo yourself",
-      "url": "https://www.rockpapershotgun.com/i-taught-an-old-man-new-tunes-in-rhythm-action-shopkeeper-sim-mr-records-and-now-you-can-try-the-demo-yourself",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-taught-an-old-man-new-tunes-in-rhythm-action-shopkeeper-sim-mr-records-and-now-you-can-try-the-demo-yourself",
-          "titre": "I taught an old man new tunes in rhythm-action shopkeeper sim Mr. Records, and now you can try the demo yourself"
-        }
-      ]
-    },
-    {
-      "id": "pok-mon-tcg-scalper-reportedly-arrested-for-punching-a-man-i",
-      "titre": "Pokémon TCG Scalper Reportedly Arrested For Punching A Man In Latest Pathetic Incident",
-      "url": "https://www.nintendolife.com/news/2026/09/pokemon-tcg-scalper-reportedly-arrested-for-punching-a-man-in-latest-pathetic-incident",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/pokemon-tcg-scalper-reportedly-arrested-for-punching-a-man-in-latest-pathetic-incident",
-          "titre": "Pokémon TCG Scalper Reportedly Arrested For Punching A Man In Latest Pathetic Incident"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
+          "titre": "'Do not': Rockstar outlines modding rules before GTA VI touches down"
         }
       ]
     },
@@ -815,7 +725,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.8,
       "chaleur": 6,
       "liens": [
         {
@@ -834,7 +744,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 14.7,
+      "heures": 16.6,
       "chaleur": 6,
       "liens": [
         {
@@ -857,7 +767,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 17.1,
       "chaleur": 6,
       "liens": [
         {
@@ -875,37 +785,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.0,
+      "heures": 30.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta-6-rockstar-games-mod-guidelines-restrictions",
           "titre": "Weeks before GTA 6, Rockstar Games imposes new guidelines that restrict mods for missions, maps, updated storylines, and third-party IP"
-        }
-      ]
-    },
-    {
-      "id": "feature-indie-games-survey-2026",
-      "titre": "Feature: Indie Games Survey 2026",
-      "url": "https://www.pushsquare.com/features/indie-games-survey-2026-ps",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 31.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/indie-games-survey-2026-ps",
-          "titre": "Feature: Indie Games Survey 2026"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/indie-games-survey-2026-nl",
-          "titre": "Feature: Indie Games Survey 2026"
         }
       ]
     },
@@ -917,13 +803,67 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 33.4,
+      "heures": 35.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/french-publisher-dear-villagers-confirms-layoffs",
           "titre": "French publisher Dear Villagers confirms layoffs"
+        }
+      ]
+    },
+    {
+      "id": "sony-appears-to-be-testing-playstation-store-credit-offers-w",
+      "titre": "Sony appears to be testing PlayStation Store credit offers when you buy certain games",
+      "url": "https://www.eurogamer.net/playstation-store-wallet-credits-rewards",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 12.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/playstation-store-wallet-credits-rewards",
+          "titre": "Sony appears to be testing PlayStation Store credit offers when you buy certain games"
+        }
+      ]
+    },
+    {
+      "id": "i-taught-an-old-man-new-tunes-in-rhythm-action-shopkeeper-si",
+      "titre": "I taught an old man new tunes in rhythm-action shopkeeper sim Mr. Records, and now you can try the demo yourself",
+      "url": "https://www.rockpapershotgun.com/i-taught-an-old-man-new-tunes-in-rhythm-action-shopkeeper-sim-mr-records-and-now-you-can-try-the-demo-yourself",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 13.3,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/i-taught-an-old-man-new-tunes-in-rhythm-action-shopkeeper-sim-mr-records-and-now-you-can-try-the-demo-yourself",
+          "titre": "I taught an old man new tunes in rhythm-action shopkeeper sim Mr. Records, and now you can try the demo yourself"
+        }
+      ]
+    },
+    {
+      "id": "pok-mon-tcg-scalper-reportedly-arrested-for-punching-a-man-i",
+      "titre": "Pokémon TCG Scalper Reportedly Arrested For Punching A Man In Latest Pathetic Incident",
+      "url": "https://www.nintendolife.com/news/2026/09/pokemon-tcg-scalper-reportedly-arrested-for-punching-a-man-in-latest-pathetic-incident",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.6,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/pokemon-tcg-scalper-reportedly-arrested-for-punching-a-man-in-latest-pathetic-incident",
+          "titre": "Pokémon TCG Scalper Reportedly Arrested For Punching A Man In Latest Pathetic Incident"
         }
       ]
     },
@@ -935,7 +875,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.8,
       "chaleur": 5,
       "liens": [
         {
@@ -953,7 +893,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 23.8,
       "chaleur": 5,
       "liens": [
         {
@@ -971,13 +911,67 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 32.0,
+      "heures": 33.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs",
           "titre": "\"It's sad and devastating\" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs"
+        }
+      ]
+    },
+    {
+      "id": "diablo-5-will-take-a-somewhat-different-approach-to-diablo-4",
+      "titre": "Diablo 5 will 'take a somewhat different approach' to Diablo 4's monster level scaling so your character feels noticeably stronger as you progress",
+      "url": "https://www.pcgamer.com/games/rpg/diablo-5-will-take-a-somewhat-different-approach-to-diablo-4s-monster-level-scaling-so-your-character-feels-noticeably-stronger-as-you-progress/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/diablo-5-will-take-a-somewhat-different-approach-to-diablo-4s-monster-level-scaling-so-your-character-feels-noticeably-stronger-as-you-progress/",
+          "titre": "Diablo 5 will 'take a somewhat different approach' to Diablo 4's monster level scaling so your character feels noticeably stronger as you progress"
+        }
+      ]
+    },
+    {
+      "id": "stuntboost-is-a-tech-dech-skateboarding-platformer-all-about",
+      "titre": "Stuntboost is a Tech Dech, skateboarding platformer all about doing sick flips on cardboard constructs in your bedroom, and it's out now",
+      "url": "https://www.rockpapershotgun.com/stuntboost-is-a-tech-dech-skateboarding-platformer-all-about-doing-sick-flips-on-cardboard-constructs-in-your-bedroom-and-its-out-now",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/stuntboost-is-a-tech-dech-skateboarding-platformer-all-about-doing-sick-flips-on-cardboard-constructs-in-your-bedroom-and-its-out-now",
+          "titre": "Stuntboost is a Tech Dech, skateboarding platformer all about doing sick flips on cardboard constructs in your bedroom, and it's out now"
+        }
+      ]
+    },
+    {
+      "id": "furries-magical-girls-and-slick-hack-n-slash-combat-blend-pr",
+      "titre": "Furries, magical girls and slick hack 'n' slash combat blend promisingly together in the late 2000s inspired Break The Night",
+      "url": "https://www.rockpapershotgun.com/furries-magical-girls-and-slick-hack-n-slash-combat-blend-promisingly-together-in-the-late-2000s-inspired-break-the-night",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/furries-magical-girls-and-slick-hack-n-slash-combat-blend-promisingly-together-in-the-late-2000s-inspired-break-the-night",
+          "titre": "Furries, magical girls and slick hack 'n' slash combat blend promisingly together in the late 2000s inspired Break The Night"
         }
       ]
     },
@@ -989,7 +983,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +1001,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1025,7 +1019,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,7 +1037,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,7 +1055,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1079,7 +1073,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1097,7 +1091,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1115,7 +1109,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1133,7 +1127,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1151,7 +1145,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1169,7 +1163,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
