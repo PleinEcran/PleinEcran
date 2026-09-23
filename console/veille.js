@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "22/09/2026 à 22h18",
+  "collecte": "23/09/2026 à 00h25",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 4,
-      "heures": 8.0,
+      "heures": 10.1,
       "chaleur": 20,
       "liens": [
         {
@@ -49,7 +49,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 7.2,
+      "heures": 9.3,
       "chaleur": 12,
       "liens": [
         {
@@ -77,7 +77,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.7,
       "chaleur": 12,
       "liens": [
         {
@@ -96,7 +96,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 8.1,
+      "heures": 10.2,
       "chaleur": 12,
       "liens": [
         {
@@ -121,7 +121,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 10,
       "liens": [
         {
@@ -150,7 +150,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 6.0,
+      "heures": 8.1,
       "chaleur": 10,
       "liens": [
         {
@@ -166,6 +166,120 @@ const VEILLE = {
       ]
     },
     {
+      "id": "xbox-reportedly-set-to-lay-off-hundreds-more-staff-and-conso",
+      "titre": "Xbox reportedly set to lay off hundreds more staff and \"consolidate\" several game studios in second round of major cuts this year",
+      "url": "https://www.rockpapershotgun.com/xbox-reportedly-set-to-lay-off-hundreds-more-staff-and-consolidate-several-game-studios-in-second-round-of-major-cuts-this-year",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 14.9,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/xbox-reportedly-set-to-lay-off-hundreds-more-staff-and-consolidate-several-game-studios-in-second-round-of-major-cuts-this-year",
+          "titre": "Xbox reportedly set to lay off hundreds more staff and \"consolidate\" several game studios in second round of major cuts this year"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-second-wave-cuts-layoffs-report",
+          "titre": "Second wave of Xbox cuts reported to be happening this week, with \"several\" studios apparently facing consolidation"
+        }
+      ]
+    },
+    {
+      "id": "state-of-decay-3-dev-hit-with-significant-layoffs-after-goin",
+      "titre": "State of Decay 3 Dev Hit with 'Significant' Layoffs After Going Independent",
+      "url": "https://www.pushsquare.com/news/2026/09/state-of-decay-3-dev-hit-with-significant-layoffs-after-going-independent",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/state-of-decay-3-dev-hit-with-significant-layoffs-after-going-independent",
+          "titre": "State of Decay 3 Dev Hit with 'Significant' Layoffs After Going Independent"
+        }
+      ]
+    },
+    {
+      "id": "vindicated-after-speaking-to-some-pro-counter-strike-players",
+      "titre": "Vindicated: after speaking to some pro Counter-Strike players I'm sure I was right when I said 360 Hz is the sweet spot for competitive FPS",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/vindicated-after-speaking-to-some-pro-counter-strike-players-im-sure-i-was-right-when-i-said-360-hz-is-the-sweet-spot-for-competitive-fps/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-monitors/vindicated-after-speaking-to-some-pro-counter-strike-players-im-sure-i-was-right-when-i-said-360-hz-is-the-sweet-spot-for-competitive-fps/",
+          "titre": "Vindicated: after speaking to some pro Counter-Strike players I'm sure I was right when I said 360 Hz is the sweet spot for competitive FPS"
+        }
+      ]
+    },
+    {
+      "id": "good-luck-today-halo-friends-after-years-of-rivalry-call-of",
+      "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs",
+      "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 9.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
+          "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs"
+        }
+      ]
+    },
+    {
+      "id": "hellblade-developer-ninja-theory-heading-towards-closure-in",
+      "titre": "Hellblade developer Ninja Theory heading towards closure in new wave of Xbox cuts, as two separate agreements collapse",
+      "url": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 10.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
+          "titre": "Hellblade developer Ninja Theory heading towards closure in new wave of Xbox cuts, as two separate agreements collapse"
+        }
+      ]
+    },
+    {
+      "id": "xbox-officially-announces-more-layoffs-and-widespread-change",
+      "titre": "Xbox officially announces more layoffs and widespread changes to its entire studio structure",
+      "url": "https://www.videogameschronicle.com/news/xbox-officially-announces-more-layoffs-and-widespread-changes-to-its-entire-studio-structure/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 10.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-officially-announces-more-layoffs-and-widespread-changes-to-its-entire-studio-structure/",
+          "titre": "Xbox officially announces more layoffs and widespread changes to its entire studio structure"
+        }
+      ]
+    },
+    {
       "id": "reaction-did-fans-just-bring-destiny-back-from-the-dead",
       "titre": "Reaction: Did Fans Just Bring Destiny Back from the Dead?",
       "url": "https://www.pushsquare.com/features/reaction-did-fans-just-bring-destiny-back-from-the-dead",
@@ -175,8 +289,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 10.3,
-      "chaleur": 10,
+      "heures": 12.4,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Push Square",
@@ -196,138 +310,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-reportedly-set-to-lay-off-hundreds-more-staff-and-conso",
-      "titre": "Xbox reportedly set to lay off hundreds more staff and \"consolidate\" several game studios in second round of major cuts this year",
-      "url": "https://www.rockpapershotgun.com/xbox-reportedly-set-to-lay-off-hundreds-more-staff-and-consolidate-several-game-studios-in-second-round-of-major-cuts-this-year",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 12.7,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/xbox-reportedly-set-to-lay-off-hundreds-more-staff-and-consolidate-several-game-studios-in-second-round-of-major-cuts-this-year",
-          "titre": "Xbox reportedly set to lay off hundreds more staff and \"consolidate\" several game studios in second round of major cuts this year"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-second-wave-cuts-layoffs-report",
-          "titre": "Second wave of Xbox cuts reported to be happening this week, with \"several\" studios apparently facing consolidation"
-        }
-      ]
-    },
-    {
-      "id": "vindicated-after-speaking-to-some-pro-counter-strike-players",
-      "titre": "Vindicated: after speaking to some pro Counter-Strike players I'm sure I was right when I said 360 Hz is the sweet spot for competitive FPS",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/vindicated-after-speaking-to-some-pro-counter-strike-players-im-sure-i-was-right-when-i-said-360-hz-is-the-sweet-spot-for-competitive-fps/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.2,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-monitors/vindicated-after-speaking-to-some-pro-counter-strike-players-im-sure-i-was-right-when-i-said-360-hz-is-the-sweet-spot-for-competitive-fps/",
-          "titre": "Vindicated: after speaking to some pro Counter-Strike players I'm sure I was right when I said 360 Hz is the sweet spot for competitive FPS"
-        }
-      ]
-    },
-    {
-      "id": "state-of-decay-dev-survives-xbox-layoffs-goes-independent-as",
-      "titre": "State of Decay Dev Survives Xbox Layoffs, Goes Independent as Third Game Targets PS5",
-      "url": "https://www.pushsquare.com/news/2026/09/state-of-decay-dev-survives-xbox-layoffs-goes-independent-as-third-game-targets-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 4.8,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/state-of-decay-dev-survives-xbox-layoffs-goes-independent-as-third-game-targets-ps5",
-          "titre": "State of Decay Dev Survives Xbox Layoffs, Goes Independent as Third Game Targets PS5"
-        }
-      ]
-    },
-    {
-      "id": "good-luck-today-halo-friends-after-years-of-rivalry-call-of",
-      "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs",
-      "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 7.0,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
-          "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs"
-        }
-      ]
-    },
-    {
-      "id": "hellblade-developer-ninja-theory-heading-towards-closure-in",
-      "titre": "Hellblade developer Ninja Theory heading towards closure in new wave of Xbox cuts, as two separate agreements collapse",
-      "url": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 8.1,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
-          "titre": "Hellblade developer Ninja Theory heading towards closure in new wave of Xbox cuts, as two separate agreements collapse"
-        }
-      ]
-    },
-    {
-      "id": "xbox-officially-announces-more-layoffs-and-widespread-change",
-      "titre": "Xbox officially announces more layoffs and widespread changes to its entire studio structure",
-      "url": "https://www.videogameschronicle.com/news/xbox-officially-announces-more-layoffs-and-widespread-changes-to-its-entire-studio-structure/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-officially-announces-more-layoffs-and-widespread-changes-to-its-entire-studio-structure/",
-          "titre": "Xbox officially announces more layoffs and widespread changes to its entire studio structure"
-        }
-      ]
-    },
-    {
-      "id": "blizzard-layoffs-are-reportedly-imminent-days-after-an-excit",
-      "titre": "Blizzard layoffs are reportedly imminent, days after an exciting BlizzCon and a seemingly popular World of Warcraft: Forever beta",
-      "url": "https://www.eurogamer.net/blizzard-layoffs-xbox-cuts",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blizzard-layoffs-xbox-cuts",
-          "titre": "Blizzard layoffs are reportedly imminent, days after an exciting BlizzCon and a seemingly popular World of Warcraft: Forever beta"
-        }
-      ]
-    },
-    {
       "id": "pok-mon-ruby-sapphire-hd-footage-reignites-rumours-about-swi",
       "titre": "Pokémon Ruby & Sapphire HD Footage Reignites Rumours About Switch Ports",
       "url": "https://www.nintendolife.com/news/2026/09/pokemon-ruby-and-sapphire-hd-footage-reignites-rumours-about-switch-ports",
@@ -336,7 +318,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 22.4,
+      "heures": 24.5,
       "chaleur": 9,
       "liens": [
         {
@@ -359,7 +341,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 0.9,
       "chaleur": 8,
       "liens": [
         {
@@ -370,20 +352,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "io-interactive-had-no-choice-but-to-delay-switch-2-launch-of",
-      "titre": "IO Interactive \"had no choice\" but to delay Switch 2 launch of 007 First Light for a third time",
-      "url": "https://www.gamesindustry.biz/io-interactive-had-no-choice-but-to-delay-switch-2-launch-of-007-first-light-for-a-third-time",
+      "id": "blizzard-layoffs-are-reportedly-imminent-days-after-an-excit",
+      "titre": "Blizzard layoffs are reportedly imminent, days after an exciting BlizzCon and a seemingly popular World of Warcraft: Forever beta",
+      "url": "https://www.eurogamer.net/blizzard-layoffs-xbox-cuts",
       "sources": [
-        "GamesIndustry.biz"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
+      "heures": 12.2,
       "chaleur": 8,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/io-interactive-had-no-choice-but-to-delay-switch-2-launch-of-007-first-light-for-a-third-time",
-          "titre": "IO Interactive \"had no choice\" but to delay Switch 2 launch of 007 First Light for a third time"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/blizzard-layoffs-xbox-cuts",
+          "titre": "Blizzard layoffs are reportedly imminent, days after an exciting BlizzCon and a seemingly popular World of Warcraft: Forever beta"
         }
       ]
     },
@@ -396,7 +378,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 7,
       "liens": [
         {
@@ -419,7 +401,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.9,
       "chaleur": 7,
       "liens": [
         {
@@ -437,7 +419,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.6,
       "chaleur": 7,
       "liens": [
         {
@@ -455,7 +437,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.9,
       "chaleur": 7,
       "liens": [
         {
@@ -466,20 +448,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "guide-where-to-pre-order-the-legend-of-zelda-ocarina-of-time",
-      "titre": "Guide: Where To Pre-Order The Legend Of Zelda: Ocarina Of Time & Zelda Nintendo Switch 2 Console",
-      "url": "https://www.nintendolife.com/guides/where-to-pre-order-the-legend-of-zelda-ocarina-of-time-and-zelda-nintendo-switch-2-console",
+      "id": "io-interactive-had-no-choice-but-to-delay-switch-2-launch-of",
+      "titre": "IO Interactive \"had no choice\" but to delay Switch 2 launch of 007 First Light for a third time",
+      "url": "https://www.gamesindustry.biz/io-interactive-had-no-choice-but-to-delay-switch-2-launch-of-007-first-light-for-a-third-time",
       "sources": [
-        "Nintendo Life"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 10.7,
+      "heures": 13.5,
       "chaleur": 7,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/where-to-pre-order-the-legend-of-zelda-ocarina-of-time-and-zelda-nintendo-switch-2-console",
-          "titre": "Guide: Where To Pre-Order The Legend Of Zelda: Ocarina Of Time & Zelda Nintendo Switch 2 Console"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/io-interactive-had-no-choice-but-to-delay-switch-2-launch-of-007-first-light-for-a-third-time",
+          "titre": "IO Interactive \"had no choice\" but to delay Switch 2 launch of 007 First Light for a third time"
         }
       ]
     },
@@ -610,6 +592,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "guardians-make-their-own-fate-destiny-2-players-and-creator",
+      "titre": "'Guardians make their own fate.' Destiny 2 players and creators celebrate following Bungie's shock U-turn, as the studio admits: 'Your voices mattered'",
+      "url": "https://www.pcgamer.com/games/guardians-make-their-own-fate-destiny-2-players-and-creators-celebrate-following-bungies-shock-u-turn-as-the-studio-admits-your-voices-mattered/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/guardians-make-their-own-fate-destiny-2-players-and-creators-celebrate-following-bungies-shock-u-turn-as-the-studio-admits-your-voices-mattered/",
+          "titre": "'Guardians make their own fate.' Destiny 2 players and creators celebrate following Bungie's shock U-turn, as the studio admits: 'Your voices mattered'"
+        }
+      ]
+    },
+    {
       "id": "diablo-5-will-take-a-somewhat-different-approach-to-diablo-4",
       "titre": "Diablo 5 will 'take a somewhat different approach' to Diablo 4's monster level scaling so your character feels noticeably stronger as you progress",
       "url": "https://www.pcgamer.com/games/rpg/diablo-5-will-take-a-somewhat-different-approach-to-diablo-4s-monster-level-scaling-so-your-character-feels-noticeably-stronger-as-you-progress/",
@@ -617,7 +617,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -635,7 +635,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -653,103 +653,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/furries-magical-girls-and-slick-hack-n-slash-combat-blend-promisingly-together-in-the-late-2000s-inspired-break-the-night",
           "titre": "Furries, magical girls and slick hack 'n' slash combat blend promisingly together in the late 2000s inspired Break The Night"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-players-find-rule-breaking-new-ite",
-      "titre": "World of Warcraft: Forever players find rule-breaking new items that defy 22 years of experience with the classic MMO",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-find-rule-breaking-new-items-that-defy-22-years-of-experience-with-the-classic-mmo/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-find-rule-breaking-new-items-that-defy-22-years-of-experience-with-the-classic-mmo/",
-          "titre": "World of Warcraft: Forever players find rule-breaking new items that defy 22 years of experience with the classic MMO"
-        }
-      ]
-    },
-    {
-      "id": "silent-hill-townfall-the-patient-surgery-puzzle-solution",
-      "titre": "Silent Hill Townfall: The Patient surgery puzzle solution",
-      "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-the-patient-surgery-puzzle-solution/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-the-patient-surgery-puzzle-solution/",
-          "titre": "Silent Hill Townfall: The Patient surgery puzzle solution"
-        }
-      ]
-    },
-    {
-      "id": "the-mythology-of-gabe-newell-now-includes-mongolian-throat-s",
-      "titre": "The mythology of Gabe Newell now includes Mongolian throat singing",
-      "url": "https://www.pcgamer.com/gaming-industry/the-mythology-of-gabe-newell-now-includes-mongolian-throat-singing/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/the-mythology-of-gabe-newell-now-includes-mongolian-throat-singing/",
-          "titre": "The mythology of Gabe Newell now includes Mongolian throat singing"
-        }
-      ]
-    },
-    {
-      "id": "before-i-starting-making-church-candles-from-dead-bodies-vs",
-      "titre": "Before I starting making church candles from dead bodies, vs after",
-      "url": "https://www.pcgamer.com/games/survival-crafting/before-i-starting-making-church-candles-from-dead-bodies-vs-after/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/before-i-starting-making-church-candles-from-dead-bodies-vs-after/",
-          "titre": "Before I starting making church candles from dead bodies, vs after"
-        }
-      ]
-    },
-    {
-      "id": "packed-lair-out-today-is-a-tetris-adjacent-base-builder-abou",
-      "titre": "Packed Lair, out today, is a Tetris-adjacent base builder about cramming as much as you can into a tiny evil lair to aid your army in conquering the world",
-      "url": "https://www.rockpapershotgun.com/packed-lair-out-today-is-a-tetris-adjacent-base-builder-about-cramming-as-much-as-you-can-into-a-tiny-evil-lair-to-aid-your-army-in-conquering-the-world",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/packed-lair-out-today-is-a-tetris-adjacent-base-builder-about-cramming-as-much-as-you-can-into-a-tiny-evil-lair-to-aid-your-army-in-conquering-the-world",
-          "titre": "Packed Lair, out today, is a Tetris-adjacent base builder about cramming as much as you can into a tiny evil lair to aid your army in conquering the world"
         }
       ]
     },
@@ -761,7 +671,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.4,
       "chaleur": 6,
       "liens": [
         {
@@ -779,7 +689,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 6,
       "liens": [
         {
@@ -797,7 +707,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 6,
       "liens": [
         {
@@ -815,7 +725,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 6,
       "liens": [
         {
@@ -833,7 +743,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.7,
       "chaleur": 6,
       "liens": [
         {
@@ -851,7 +761,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 11.0,
       "chaleur": 6,
       "liens": [
         {
@@ -869,7 +779,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
@@ -887,7 +797,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.7,
       "chaleur": 6,
       "liens": [
         {
@@ -898,20 +808,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-witcher-3-remastered-will-also-turn-the-xbox-version-int",
-      "titre": "The Witcher 3 Remastered will also turn the Xbox version into a Play Anywhere title, making the PC version available too",
-      "url": "https://www.videogameschronicle.com/news/the-witcher-3-remastered-will-also-turn-the-xbox-version-into-a-play-anywhere-title-making-the-pc-version-available-too/",
+      "id": "guide-where-to-pre-order-the-legend-of-zelda-ocarina-of-time",
+      "titre": "Guide: Where To Pre-Order The Legend Of Zelda: Ocarina Of Time & Zelda Nintendo Switch 2 Console",
+      "url": "https://www.nintendolife.com/guides/where-to-pre-order-the-legend-of-zelda-ocarina-of-time-and-zelda-nintendo-switch-2-console",
       "sources": [
-        "VGC"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.8,
+      "heures": 12.8,
       "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-witcher-3-remastered-will-also-turn-the-xbox-version-into-a-play-anywhere-title-making-the-pc-version-available-too/",
-          "titre": "The Witcher 3 Remastered will also turn the Xbox version into a Play Anywhere title, making the PC version available too"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/guides/where-to-pre-order-the-legend-of-zelda-ocarina-of-time-and-zelda-nintendo-switch-2-console",
+          "titre": "Guide: Where To Pre-Order The Legend Of Zelda: Ocarina Of Time & Zelda Nintendo Switch 2 Console"
         }
       ]
     },
@@ -924,7 +834,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 12.6,
+      "heures": 14.7,
       "chaleur": 6,
       "liens": [
         {
@@ -947,7 +857,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 15.2,
       "chaleur": 6,
       "liens": [
         {
@@ -965,7 +875,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.9,
+      "heures": 29.0,
       "chaleur": 6,
       "liens": [
         {
@@ -984,7 +894,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 28.9,
+      "heures": 31.0,
       "chaleur": 6,
       "liens": [
         {
@@ -1007,13 +917,31 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 33.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/french-publisher-dear-villagers-confirms-layoffs",
           "titre": "French publisher Dear Villagers confirms layoffs"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-remastered-will-also-turn-the-xbox-version-int",
+      "titre": "The Witcher 3 Remastered will also turn the Xbox version into a Play Anywhere title, making the PC version available too",
+      "url": "https://www.videogameschronicle.com/news/the-witcher-3-remastered-will-also-turn-the-xbox-version-into-a-play-anywhere-title-making-the-pc-version-available-too/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 12.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-witcher-3-remastered-will-also-turn-the-xbox-version-into-a-play-anywhere-title-making-the-pc-version-available-too/",
+          "titre": "The Witcher 3 Remastered will also turn the Xbox version into a Play Anywhere title, making the PC version available too"
         }
       ]
     },
@@ -1025,7 +953,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 21.9,
       "chaleur": 5,
       "liens": [
         {
@@ -1043,13 +971,103 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 29.9,
+      "heures": 32.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs",
           "titre": "\"It's sad and devastating\" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-players-find-rule-breaking-new-ite",
+      "titre": "World of Warcraft: Forever players find rule-breaking new items that defy 22 years of experience with the classic MMO",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-find-rule-breaking-new-items-that-defy-22-years-of-experience-with-the-classic-mmo/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-find-rule-breaking-new-items-that-defy-22-years-of-experience-with-the-classic-mmo/",
+          "titre": "World of Warcraft: Forever players find rule-breaking new items that defy 22 years of experience with the classic MMO"
+        }
+      ]
+    },
+    {
+      "id": "silent-hill-townfall-the-patient-surgery-puzzle-solution",
+      "titre": "Silent Hill Townfall: The Patient surgery puzzle solution",
+      "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-the-patient-surgery-puzzle-solution/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-the-patient-surgery-puzzle-solution/",
+          "titre": "Silent Hill Townfall: The Patient surgery puzzle solution"
+        }
+      ]
+    },
+    {
+      "id": "the-mythology-of-gabe-newell-now-includes-mongolian-throat-s",
+      "titre": "The mythology of Gabe Newell now includes Mongolian throat singing",
+      "url": "https://www.pcgamer.com/gaming-industry/the-mythology-of-gabe-newell-now-includes-mongolian-throat-singing/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/the-mythology-of-gabe-newell-now-includes-mongolian-throat-singing/",
+          "titre": "The mythology of Gabe Newell now includes Mongolian throat singing"
+        }
+      ]
+    },
+    {
+      "id": "before-i-starting-making-church-candles-from-dead-bodies-vs",
+      "titre": "Before I starting making church candles from dead bodies, vs after",
+      "url": "https://www.pcgamer.com/games/survival-crafting/before-i-starting-making-church-candles-from-dead-bodies-vs-after/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/before-i-starting-making-church-candles-from-dead-bodies-vs-after/",
+          "titre": "Before I starting making church candles from dead bodies, vs after"
+        }
+      ]
+    },
+    {
+      "id": "packed-lair-out-today-is-a-tetris-adjacent-base-builder-abou",
+      "titre": "Packed Lair, out today, is a Tetris-adjacent base builder about cramming as much as you can into a tiny evil lair to aid your army in conquering the world",
+      "url": "https://www.rockpapershotgun.com/packed-lair-out-today-is-a-tetris-adjacent-base-builder-about-cramming-as-much-as-you-can-into-a-tiny-evil-lair-to-aid-your-army-in-conquering-the-world",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/packed-lair-out-today-is-a-tetris-adjacent-base-builder-about-cramming-as-much-as-you-can-into-a-tiny-evil-lair-to-aid-your-army-in-conquering-the-world",
+          "titre": "Packed Lair, out today, is a Tetris-adjacent base builder about cramming as much as you can into a tiny evil lair to aid your army in conquering the world"
         }
       ]
     },
@@ -1061,7 +1079,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1079,7 +1097,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1097,7 +1115,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1115,7 +1133,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1133,7 +1151,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1151,31 +1169,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/what-the-hell-are-you-guys-doing/",
           "titre": "What the hell are you guys doing?"
-        }
-      ]
-    },
-    {
-      "id": "with-a-dozen-music-levels-rayman-legends-retold-doubles-down",
-      "titre": "With \"a dozen\" music levels, Rayman Legends Retold doubles down on the best bit of the original game, and having played it I couldn't be happier",
-      "url": "https://www.eurogamer.net/rayman-legends-iconic-music-levels-retold-interview",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 6.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/rayman-legends-iconic-music-levels-retold-interview",
-          "titre": "With \"a dozen\" music levels, Rayman Legends Retold doubles down on the best bit of the original game, and having played it I couldn't be happier"
         }
       ]
     }
