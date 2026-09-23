@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "23/09/2026 à 06h26",
+  "collecte": "23/09/2026 à 08h21",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 4,
-      "heures": 16.1,
+      "heures": 18.1,
       "chaleur": 19,
       "liens": [
         {
@@ -49,7 +49,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 15.3,
+      "heures": 17.3,
       "chaleur": 11,
       "liens": [
         {
@@ -77,7 +77,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 17.6,
       "chaleur": 11,
       "liens": [
         {
@@ -96,7 +96,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 16.2,
+      "heures": 18.1,
       "chaleur": 11,
       "liens": [
         {
@@ -120,7 +120,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 20.9,
+      "heures": 22.8,
       "chaleur": 10,
       "liens": [
         {
@@ -143,7 +143,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.4,
       "chaleur": 9,
       "liens": [
         {
@@ -162,7 +162,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 14.1,
+      "heures": 16.1,
       "chaleur": 9,
       "liens": [
         {
@@ -178,24 +178,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "where-can-australians-buy-r18-pc-games-without-a-credit-card",
-      "titre": "Where can Australians buy R18+ PC games without a credit card? Pretty much everywhere but Steam",
-      "url": "https://www.pcgamer.com/software/platforms/how-to-buy-r18-games-without-a-credit-card/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/platforms/how-to-buy-r18-games-without-a-credit-card/",
-          "titre": "Where can Australians buy R18+ PC games without a credit card? Pretty much everywhere but Steam"
-        }
-      ]
-    },
-    {
       "id": "good-luck-today-halo-friends-after-years-of-rivalry-call-of",
       "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs",
       "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
@@ -203,7 +185,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 17.0,
       "chaleur": 8,
       "liens": [
         {
@@ -221,7 +203,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.2,
       "chaleur": 8,
       "liens": [
         {
@@ -239,7 +221,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 8,
       "liens": [
         {
@@ -257,7 +239,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.3,
+      "heures": 20.2,
       "chaleur": 8,
       "liens": [
         {
@@ -275,7 +257,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 7,
       "liens": [
         {
@@ -293,7 +275,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.2,
       "chaleur": 7,
       "liens": [
         {
@@ -311,7 +293,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.4,
       "chaleur": 7,
       "liens": [
         {
@@ -484,6 +466,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "mdev",
+      "titre": "MDEV",
+      "url": "https://www.gamedeveloper.comwww.mdevconf.com",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.comwww.mdevconf.com",
+          "titre": "MDEV"
+        }
+      ]
+    },
+    {
+      "id": "undead-labs-confirms-it-is-now-an-employee-owned-studio",
+      "titre": "Undead Labs confirms it is now an \"employee-owned studio\"",
+      "url": "https://www.gamesindustry.biz/undead-labs-confirms-it-is-now-an-employee-owned-studio",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/undead-labs-confirms-it-is-now-an-employee-owned-studio",
+          "titre": "Undead Labs confirms it is now an \"employee-owned studio\""
+        }
+      ]
+    },
+    {
+      "id": "bayonetta-4-when-stellar-blade-director-confesses-his-love-f",
+      "titre": "Bayonetta 4 When? Stellar Blade Director Confesses His Love For The Umbra Witch",
+      "url": "https://www.nintendolife.com/news/2026/09/bayonetta-4-when-stellar-blade-director-confesses-his-love-for-the-umbra-witch",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/bayonetta-4-when-stellar-blade-director-confesses-his-love-for-the-umbra-witch",
+          "titre": "Bayonetta 4 When? Stellar Blade Director Confesses His Love For The Umbra Witch"
+        }
+      ]
+    },
+    {
       "id": "we-ll-be-creating-a-whole-new-kind-of-gameplay-experience-i",
       "titre": "\"We'll Be Creating A Whole New Kind Of Gameplay Experience\" - Iizuka Says The New Sonic Game Is Now In Development",
       "url": "https://www.nintendolife.com/news/2026/09/well-be-creating-a-whole-new-kind-of-gameplay-experience-iizuka-says-the-new-sonic-game-is-now-in-development",
@@ -491,13 +527,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/well-be-creating-a-whole-new-kind-of-gameplay-experience-iizuka-says-the-new-sonic-game-is-now-in-development",
           "titre": "\"We'll Be Creating A Whole New Kind Of Gameplay Experience\" - Iizuka Says The New Sonic Game Is Now In Development"
+        }
+      ]
+    },
+    {
+      "id": "where-can-australians-buy-r18-pc-games-without-a-credit-card",
+      "titre": "Where can Australians buy R18+ PC games without a credit card? Pretty much everywhere but Steam",
+      "url": "https://www.pcgamer.com/software/platforms/how-to-buy-r18-games-without-a-credit-card/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/platforms/how-to-buy-r18-games-without-a-credit-card/",
+          "titre": "Where can Australians buy R18+ PC games without a credit card? Pretty much everywhere but Steam"
         }
       ]
     },
@@ -509,7 +563,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.6,
       "chaleur": 6,
       "liens": [
         {
@@ -527,7 +581,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 6,
       "liens": [
         {
@@ -545,7 +599,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 6,
       "liens": [
         {
@@ -563,7 +617,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 6,
       "liens": [
         {
@@ -581,7 +635,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.5,
       "chaleur": 6,
       "liens": [
         {
@@ -599,7 +653,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 19.8,
       "chaleur": 6,
       "liens": [
         {
@@ -618,7 +672,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 18.4,
+      "heures": 20.4,
       "chaleur": 6,
       "liens": [
         {
@@ -642,7 +696,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 20.7,
+      "heures": 22.6,
       "chaleur": 6,
       "liens": [
         {
@@ -665,49 +719,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.2,
+      "heures": 23.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/nintendo-is-doing-its-best-to-make-sure-switch-overtakes-ps2",
           "titre": "Nintendo Is Doing Its Best To Make Sure Switch Overtakes PS2"
-        }
-      ]
-    },
-    {
-      "id": "weeks-before-gta-6-rockstar-games-imposes-new-guidelines-tha",
-      "titre": "Weeks before GTA 6, Rockstar Games imposes new guidelines that restrict mods for missions, maps, updated storylines, and third-party IP",
-      "url": "https://www.eurogamer.net/gta-6-rockstar-games-mod-guidelines-restrictions",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-rockstar-games-mod-guidelines-restrictions",
-          "titre": "Weeks before GTA 6, Rockstar Games imposes new guidelines that restrict mods for missions, maps, updated storylines, and third-party IP"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-switch-ports-of-pok-mon-ruby-and-sapphire-look-even",
-      "titre": "Nintendo Switch ports of Pokémon Ruby and Sapphire look even more likely after official account shares suspiciously HD footage of the GBA games",
-      "url": "https://www.eurogamer.net/nintendo-switch-pokemon-ruby-sapphire-hd-port",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nintendo-switch-pokemon-ruby-sapphire-hd-port",
-          "titre": "Nintendo Switch ports of Pokémon Ruby and Sapphire look even more likely after official account shares suspiciously HD footage of the GBA games"
         }
       ]
     },
@@ -719,7 +737,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 5,
       "liens": [
         {
@@ -737,7 +755,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.3,
       "chaleur": 5,
       "liens": [
         {
@@ -755,7 +773,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -773,7 +791,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 5,
       "liens": [
         {
@@ -791,7 +809,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 17.6,
       "chaleur": 5,
       "liens": [
         {
@@ -809,7 +827,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 18.9,
       "chaleur": 5,
       "liens": [
         {
@@ -827,7 +845,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.3,
       "chaleur": 5,
       "liens": [
         {
@@ -845,7 +863,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.7,
+      "heures": 19.6,
       "chaleur": 5,
       "liens": [
         {
@@ -863,7 +881,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.8,
       "chaleur": 5,
       "liens": [
         {
@@ -881,7 +899,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +917,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +935,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +953,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -953,8 +971,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -971,8 +989,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -989,8 +1007,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1007,8 +1025,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1025,8 +1043,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1043,7 +1061,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,7 +1079,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1079,7 +1097,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1097,7 +1115,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1115,31 +1133,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.8,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/gaming-mice/i-set-out-to-prove-polling-rate-affects-my-aim-and-instead-found-my-favourite-dpi-setting/",
           "titre": "I set out to prove polling rate affects my aim and instead found my favourite DPI setting"
-        }
-      ]
-    },
-    {
-      "id": "rumour-next-halo-game-will-be-a-new-mainline-instalment-cast",
-      "titre": "Rumour: Next Halo Game Will Be a New 'Mainline Instalment', Casting Doubt on More Remakes",
-      "url": "https://www.pushsquare.com/news/2026/09/rumour-next-halo-game-will-be-a-new-mainline-instalment-casting-doubt-on-more-remakes",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 13.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/rumour-next-halo-game-will-be-a-new-mainline-instalment-casting-doubt-on-more-remakes",
-          "titre": "Rumour: Next Halo Game Will Be a New 'Mainline Instalment', Casting Doubt on More Remakes"
         }
       ]
     }
