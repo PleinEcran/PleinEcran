@@ -1,44 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "23/09/2026 à 16h21",
+  "collecte": "23/09/2026 à 18h23",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "age-of-empires-developer-world-s-edge-hit-with-layoffs-follo",
-      "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision",
-      "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz",
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 4,
-      "heures": 2.4,
-      "chaleur": 22,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
-          "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/age-of-empire-worlds-edge-studio-xbox-cuts",
-          "titre": "Age of Empires studio World's Edge reportedly lost \"nearly half\" of its staff during yesterday's Xbox cuts and move to Activision"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/age-of-empires-studio-worlds-edge-reportedly-lose-nearly-half-their-staff-and-a-new-game-project-in-mass-xbox-layoffs",
-          "titre": "Age of Empires studio World's Edge reportedly lose nearly half their staff and a new game project in mass Xbox layoffs"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/hundreds-more-xbox-layoffs-reportedly-on-the-way-studios-to-be-consolidated",
-          "titre": "'Hundreds' More Xbox Layoffs Reportedly on the Way, Studios to Be Consolidated"
-        }
-      ]
-    },
     {
       "id": "undead-labs-makes-significant-layoffs-after-splitting-from-x",
       "titre": "Undead Labs makes 'significant' layoffs after splitting from Xbox",
@@ -51,7 +15,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 5.0,
+      "heures": 7.0,
       "chaleur": 21,
       "liens": [
         {
@@ -82,18 +46,60 @@ const VEILLE = {
       ]
     },
     {
-      "id": "resident-evil-film-producer-turns-to-new-silent-hill-movie-r",
-      "titre": "Resident Evil Film Producer Turns to New Silent Hill Movie, Report Claims",
-      "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-producer-turns-to-new-silent-hill-movie-report-claims",
+      "id": "age-of-empires-developer-world-s-edge-hit-with-layoffs-follo",
+      "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision",
+      "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
       "sources": [
         "Eurogamer",
+        "GamesIndustry.biz",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 4,
+      "heures": 4.5,
+      "chaleur": 20,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
+          "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/age-of-empire-worlds-edge-studio-xbox-cuts",
+          "titre": "Age of Empires studio World's Edge reportedly lost \"nearly half\" of its staff during yesterday's Xbox cuts and move to Activision"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/age-of-empires-studio-worlds-edge-reportedly-lose-nearly-half-their-staff-and-a-new-game-project-in-mass-xbox-layoffs",
+          "titre": "Age of Empires studio World's Edge reportedly lose nearly half their staff and a new game project in mass Xbox layoffs"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/hundreds-more-xbox-layoffs-reportedly-on-the-way-studios-to-be-consolidated",
+          "titre": "'Hundreds' More Xbox Layoffs Reportedly on the Way, Studios to Be Consolidated"
+        }
+      ]
+    },
+    {
+      "id": "the-producer-behind-cregger-s-resident-evil-film-is-working",
+      "titre": "The producer behind Cregger's Resident Evil film is working on an unnamed Silent Hill project and players are asking for just one thing",
+      "url": "https://www.pcgamer.com/games/horror/the-producer-behind-creggers-resident-evil-film-is-working-on-an-unnamed-silent-hill-project-and-players-are-asking-for-just-one-thing/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer",
         "Push Square",
         "VGC"
       ],
-      "reprises": 3,
-      "heures": 4.4,
-      "chaleur": 12,
+      "reprises": 4,
+      "heures": 1.5,
+      "chaleur": 17,
       "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/the-producer-behind-creggers-resident-evil-film-is-working-on-an-unnamed-silent-hill-project-and-players-are-asking-for-just-one-thing/",
+          "titre": "The producer behind Cregger's Resident Evil film is working on an unnamed Silent Hill project and players are asking for just one thing"
+        },
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-producer-turns-to-new-silent-hill-movie-report-claims",
@@ -112,6 +118,78 @@ const VEILLE = {
       ]
     },
     {
+      "id": "opinion-i-think-i-m-missing-something-about-stellar-blade-on",
+      "titre": "Opinion: I Think I'm Missing Something About Stellar Blade On Switch 2",
+      "url": "https://www.nintendolife.com/features/opinion-i-think-im-missing-something-about-stellar-blade-on-switch-2",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 0.4,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/opinion-i-think-im-missing-something-about-stellar-blade-on-switch-2",
+          "titre": "Opinion: I Think I'm Missing Something About Stellar Blade On Switch 2"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/stellar-blade-rocky-development-three-months-salary",
+          "titre": "Stellar Blade is a success now but once came close to the brink: \"We could only pay salaries for about three months\""
+        }
+      ]
+    },
+    {
+      "id": "report-bethesda-president-tells-obsidian-staff-it-won-t-lose",
+      "titre": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge",
+      "url": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
+      "sources": [
+        "Eurogamer",
+        "Game Developer"
+      ],
+      "reprises": 2,
+      "heures": 1.3,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
+          "titre": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/obsidian-creative-identity-bethesda-fallout-xbox-restructuring",
+          "titre": "Obsidian's \"creative identity and strengths\" will remain intact, promises Bethesda, as it takes control of Fallout: New Vegas studio"
+        }
+      ]
+    },
+    {
+      "id": "fire-emblem-fortune-s-weave-bird-time-explained-how-and-why",
+      "titre": "Fire Emblem Fortune’s Weave: Bird Time explained, how and why you should do it",
+      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-bird-time-explained-how-and-why-you-should-do-it/",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-bird-time-explained-how-and-why-you-should-do-it/",
+          "titre": "Fire Emblem Fortune’s Weave: Bird Time explained, how and why you should do it"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/poll-whos-your-favourite-fire-emblem-fortunes-weave-character",
+          "titre": "Poll: Who's Your Favourite Fire Emblem: Fortune's Weave Character?"
+        }
+      ]
+    },
+    {
       "id": "i-thought-from-logitech-s-new-pro-products-i-d-be-most-excit",
       "titre": "I thought from Logitech's new Pro products I'd be most excited about the Superstrike, but after using them it's actually the keyboard and mouse pad that have me grinning",
       "url": "https://www.pcgamer.com/hardware/i-thought-from-logitechs-new-pro-products-id-be-most-excited-about-the-superstrike-but-after-using-them-its-actually-the-keyboard-and-mouse-pad-that-have-me-grinning/",
@@ -119,7 +197,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 9,
       "liens": [
         {
@@ -137,55 +215,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.4,
       "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/gaming-mice/sorry-early-adopters-logitech-is-releasing-an-improved-superstrike-making-the-original-all-but-obsolete-just-months-after-launch/",
           "titre": "Sorry early adopters, Logitech is releasing an improved Superstrike making the original all but obsolete just months after launch"
-        }
-      ]
-    },
-    {
-      "id": "fire-emblem-fortune-s-weave-alexandra-location-help-my-feeli",
-      "titre": "Fire Emblem Fortune’s Weave: Alexandra location, Help My Feelings Take Wing quest guide",
-      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-alexandra-location-help-my-feelings-take-wing-quest-guide/",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 1.0,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-alexandra-location-help-my-feelings-take-wing-quest-guide/",
-          "titre": "Fire Emblem Fortune’s Weave: Alexandra location, Help My Feelings Take Wing quest guide"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/poll-whos-your-favourite-fire-emblem-fortunes-weave-character",
-          "titre": "Poll: Who's Your Favourite Fire Emblem: Fortune's Weave Character?"
-        }
-      ]
-    },
-    {
-      "id": "former-halo-leaders-lament-effective-closure-of-halo-studios",
-      "titre": "Former Halo leaders lament effective closure of Halo Studios, as one employee finds themselves promoted and fired in same week",
-      "url": "https://www.eurogamer.net/halo-studios-closure-xbox-cuts-kiki-wolfkill-bonnie-ross",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/halo-studios-closure-xbox-cuts-kiki-wolfkill-bonnie-ross",
-          "titre": "Former Halo leaders lament effective closure of Halo Studios, as one employee finds themselves promoted and fired in same week"
         }
       ]
     },
@@ -198,7 +234,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 24.1,
+      "heures": 26.1,
       "chaleur": 9,
       "liens": [
         {
@@ -221,7 +257,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 8,
       "liens": [
         {
@@ -239,49 +275,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 8,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year",
           "titre": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year"
-        }
-      ]
-    },
-    {
-      "id": "beloved-cockney-orc-lord-of-the-rings-games-shadow-of-mordor",
-      "titre": "Beloved cockney-orc Lord of the Rings games Shadow of Mordor and Shadow of War finally make their way to Switch 2",
-      "url": "https://www.eurogamer.net/lord-of-the-rings-shadow-of-mordor-war-switch-2",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/lord-of-the-rings-shadow-of-mordor-war-switch-2",
-          "titre": "Beloved cockney-orc Lord of the Rings games Shadow of Mordor and Shadow of War finally make their way to Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13",
-      "titre": "Sensor Tower: PC and PlayStation unit sales in Japan rise 13% to 21m during H1 2026, led by Resident Evil Requiem",
-      "url": "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem",
-          "titre": "Sensor Tower: PC and PlayStation unit sales in Japan rise 13% to 21m during H1 2026, led by Resident Evil Requiem"
         }
       ]
     },
@@ -293,7 +293,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.0,
+      "heures": 27.1,
       "chaleur": 8,
       "liens": [
         {
@@ -311,7 +311,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.2,
+      "heures": 28.2,
       "chaleur": 8,
       "liens": [
         {
@@ -329,7 +329,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 26.3,
+      "heures": 28.3,
       "chaleur": 8,
       "liens": [
         {
@@ -340,20 +340,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "zelda-ocarina-of-time-s-limited-edition-switch-2-cover-appar",
-      "titre": "Zelda: Ocarina Of Time's Limited Edition Switch 2 Cover Apparently Had One Retailer Trying To Double Its Orders",
-      "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-times-limited-edition-switch-2-cover-apparently-had-one-retailer-trying-to-double-its-orders",
+      "id": "former-halo-leaders-lament-effective-closure-of-halo-studios",
+      "titre": "Former Halo leaders lament effective closure of Halo Studios, as one employee finds themselves promoted and fired in same week",
+      "url": "https://www.eurogamer.net/halo-studios-closure-xbox-cuts-kiki-wolfkill-bonnie-ross",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.4,
+      "heures": 5.0,
       "chaleur": 7,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-times-limited-edition-switch-2-cover-apparently-had-one-retailer-trying-to-double-its-orders",
-          "titre": "Zelda: Ocarina Of Time's Limited Edition Switch 2 Cover Apparently Had One Retailer Trying To Double Its Orders"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/halo-studios-closure-xbox-cuts-kiki-wolfkill-bonnie-ross",
+          "titre": "Former Halo leaders lament effective closure of Halo Studios, as one employee finds themselves promoted and fired in same week"
         }
       ]
     },
@@ -365,7 +365,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 31.5,
       "chaleur": 7,
       "liens": [
         {
@@ -538,20 +538,128 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mdev",
-      "titre": "MDEV",
-      "url": "https://www.gamedeveloper.comwww.mdevconf.com",
+      "id": "silent-hill-townfall-ordell-blood-bag-transfusion-door-puzzl",
+      "titre": "Silent Hill Townfall: Ordell blood bag transfusion door puzzle solution",
+      "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-blood-bag-transfusion-door-puzzle/",
       "sources": [
-        "Game Developer"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 0.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.comwww.mdevconf.com",
-          "titre": "MDEV"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-blood-bag-transfusion-door-puzzle/",
+          "titre": "Silent Hill Townfall: Ordell blood bag transfusion door puzzle solution"
+        }
+      ]
+    },
+    {
+      "id": "as-halo-goes-to-activision-fans-are-worried-about-this-year",
+      "titre": "As Halo goes to Activision, fans are worried about this year's Halo Fest and a potential lore reboot from the Call of Duty publisher",
+      "url": "https://www.eurogamer.net/activision-new-halo-game-fans-worried-lore-reboot",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/activision-new-halo-game-fans-worried-lore-reboot",
+          "titre": "As Halo goes to Activision, fans are worried about this year's Halo Fest and a potential lore reboot from the Call of Duty publisher"
+        }
+      ]
+    },
+    {
+      "id": "you-can-t-have-everything-in-arc-raiders-reworked-skill-tree",
+      "titre": "You can't have everything in Arc Raiders' reworked skill tree: 'We believe that creates more interesting choices and supports more playstyles'",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/you-cant-have-everything-in-arc-raiders-reworked-skill-tree-we-believe-that-creates-more-interesting-choices-and-supports-more-playstyles/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/you-cant-have-everything-in-arc-raiders-reworked-skill-tree-we-believe-that-creates-more-interesting-choices-and-supports-more-playstyles/",
+          "titre": "You can't have everything in Arc Raiders' reworked skill tree: 'We believe that creates more interesting choices and supports more playstyles'"
+        }
+      ]
+    },
+    {
+      "id": "the-arc-raiders-frozen-trail-update-is-bigger-than-anyone-ex",
+      "titre": "The Arc Raiders Frozen Trail update is bigger than anyone expected: new ARC, gun upgrades, a map, and personal outposts you can decorate",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/the-arc-raiders-frozen-trail-update-is-bigger-than-anyone-expected-new-arc-gun-upgrades-a-map-and-personal-outposts-you-can-decorate/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/the-arc-raiders-frozen-trail-update-is-bigger-than-anyone-expected-new-arc-gun-upgrades-a-map-and-personal-outposts-you-can-decorate/",
+          "titre": "The Arc Raiders Frozen Trail update is bigger than anyone expected: new ARC, gun upgrades, a map, and personal outposts you can decorate"
+        }
+      ]
+    },
+    {
+      "id": "i-put-ufo-sightings-in-grand-theft-auto-5-though-it-didn-t-q",
+      "titre": "I put UFO sightings in Grand Theft Auto 5, though it didn't quite go to plan",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-put-ufo-sightings-in-grand-theft-auto-5-though-it-didnt-quite-go-to-plan/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-put-ufo-sightings-in-grand-theft-auto-5-though-it-didnt-quite-go-to-plan/",
+          "titre": "I put UFO sightings in Grand Theft Auto 5, though it didn't quite go to plan"
+        }
+      ]
+    },
+    {
+      "id": "the-scariest-part-of-silent-hill-townfall-it-s-not-the-monst",
+      "titre": "The scariest part of Silent Hill: Townfall? It's not the monsters—it's British interior design",
+      "url": "https://www.pcgamer.com/games/horror/the-scariest-part-of-silent-hill-townfall-its-not-the-monsters-its-british-interior-design/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/the-scariest-part-of-silent-hill-townfall-its-not-the-monsters-its-british-interior-design/",
+          "titre": "The scariest part of Silent Hill: Townfall? It's not the monsters—it's British interior design"
+        }
+      ]
+    },
+    {
+      "id": "razer-chroma-soma-lighting",
+      "titre": "Razer Chroma Soma lighting",
+      "url": "https://www.pcgamer.com/hardware/gaming-chairs/razer-chroma-soma-lighting/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-chairs/razer-chroma-soma-lighting/",
+          "titre": "Razer Chroma Soma lighting"
         }
       ]
     },
@@ -563,7 +671,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -581,7 +689,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -599,7 +707,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -617,7 +725,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -635,7 +743,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -653,7 +761,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -664,254 +772,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "console-rumour-time-235",
-      "titre": "Console rumour time #235",
-      "url": "https://www.pcgamer.com/hardware/console-rumour-time-235/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/console-rumour-time-235/",
-          "titre": "Console rumour time #235"
-        }
-      ]
-    },
-    {
-      "id": "leon-kennedy-is-zach-cregger-s-choice-of-bodyguard-i-would-j",
-      "titre": "Leon Kennedy is Zach Cregger's choice of bodyguard: 'I would just bear hug myself around him'",
-      "url": "https://www.pcgamer.com/movies-tv/leon-kennedy-is-zach-creggers-choice-of-bodyguard-i-would-just-bear-hug-myself-around-him/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/leon-kennedy-is-zach-creggers-choice-of-bodyguard-i-would-just-bear-hug-myself-around-him/",
-          "titre": "Leon Kennedy is Zach Cregger's choice of bodyguard: 'I would just bear hug myself around him'"
-        }
-      ]
-    },
-    {
-      "id": "waiter-there-s-some-path-of-exile-in-my-total-war-warhammer",
-      "titre": "Waiter, there's some Path of Exile in my Total War: Warhammer 3 DLC",
-      "url": "https://www.pcgamer.com/games/strategy/waiter-theres-some-path-of-exile-in-my-total-war-warhammer-3-dlc/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/waiter-theres-some-path-of-exile-in-my-total-war-warhammer-3-dlc/",
-          "titre": "Waiter, there's some Path of Exile in my Total War: Warhammer 3 DLC"
-        }
-      ]
-    },
-    {
-      "id": "a-bretonnia-rework-is-definitely-on-creative-assembly-s-to-d",
-      "titre": "A Bretonnia rework is definitely on Creative Assembly's 'to-do list' for Total War: Warhammer: 'It's not quite the finest of wines now'",
-      "url": "https://www.pcgamer.com/games/strategy/a-bretonnia-rework-is-definitely-on-creative-assemblys-to-do-list-for-total-war-warhammer-its-not-quite-the-finest-of-wines-now/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/a-bretonnia-rework-is-definitely-on-creative-assemblys-to-do-list-for-total-war-warhammer-its-not-quite-the-finest-of-wines-now/",
-          "titre": "A Bretonnia rework is definitely on Creative Assembly's 'to-do list' for Total War: Warhammer: 'It's not quite the finest of wines now'"
-        }
-      ]
-    },
-    {
-      "id": "lords-of-the-end-times-is-not-the-end-for-total-war-warhamme",
-      "titre": "Lords of the End Times is 'not the end' for Total War: Warhammer: 'You can't get rid of us that easily'",
-      "url": "https://www.pcgamer.com/games/strategy/lords-of-the-end-times-is-not-the-end-for-total-war-warhammer-you-cant-get-rid-of-us-that-easily/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/lords-of-the-end-times-is-not-the-end-for-total-war-warhammer-you-cant-get-rid-of-us-that-easily/",
-          "titre": "Lords of the End Times is 'not the end' for Total War: Warhammer: 'You can't get rid of us that easily'"
-        }
-      ]
-    },
-    {
-      "id": "blizzard-to-take-a-somewhat-different-approach-to-level-scal",
-      "titre": "Blizzard to take \"a somewhat different approach\" to level-scaling in Diablo 5, suggesting more influence from Diablo 2 than Diablo 4",
-      "url": "https://www.eurogamer.net/diablo-5-level-scaling-diablo-2-blizzard",
+      "id": "beloved-cockney-orc-lord-of-the-rings-games-shadow-of-mordor",
+      "titre": "Beloved cockney-orc Lord of the Rings games Shadow of Mordor and Shadow of War finally make their way to Switch 2",
+      "url": "https://www.eurogamer.net/lord-of-the-rings-shadow-of-mordor-war-switch-2",
       "sources": [
         "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/diablo-5-level-scaling-diablo-2-blizzard",
-          "titre": "Blizzard to take \"a somewhat different approach\" to level-scaling in Diablo 5, suggesting more influence from Diablo 2 than Diablo 4"
-        }
-      ]
-    },
-    {
-      "id": "control-resonant-power-lines-perimeter-factory-and-east-park",
-      "titre": "Control Resonant Power Lines: Perimeter, Factory, and East Park Station puzzle solutions",
-      "url": "https://www.videogameschronicle.com/guide/control-resonant-power-lines-perimeter-factory-and-east-park-station-puzzle-solutions/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/control-resonant-power-lines-perimeter-factory-and-east-park-station-puzzle-solutions/",
-          "titre": "Control Resonant Power Lines: Perimeter, Factory, and East Park Station puzzle solutions"
-        }
-      ]
-    },
-    {
-      "id": "the-eu-kids-act-what-game-developers-need-to-know",
-      "titre": "The EU KIDS Act: What game developers need to know",
-      "url": "https://www.gamesindustry.biz/the-eu-kids-act-what-game-developers-need-to-know",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/the-eu-kids-act-what-game-developers-need-to-know",
-          "titre": "The EU KIDS Act: What game developers need to know"
-        }
-      ]
-    },
-    {
-      "id": "persona-6-could-get-its-big-reveal-in-march-as-atlus-announc",
-      "titre": "Persona 6 Could Get Its Big Reveal in March, as Atlus Announces First Super Live Show in Four Years",
-      "url": "https://www.pushsquare.com/news/2026/09/persona-6-could-get-its-big-reveal-in-march-as-atlus-announces-first-super-live-show-in-four-years",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/persona-6-could-get-its-big-reveal-in-march-as-atlus-announces-first-super-live-show-in-four-years",
-          "titre": "Persona 6 Could Get Its Big Reveal in March, as Atlus Announces First Super Live Show in Four Years"
-        }
-      ]
-    },
-    {
-      "id": "it-s-time-to-decide-the-worst-graphical-effect-in-games-chro",
-      "titre": "It's time to decide the worst graphical effect in games: chromatic aberration vs blood/dirt",
-      "url": "https://www.pcgamer.com/hardware/its-time-to-decide-the-worst-graphical-effect-in-games-chromatic-aberration-vs-blood-dirt/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/its-time-to-decide-the-worst-graphical-effect-in-games-chromatic-aberration-vs-blood-dirt/",
-          "titre": "It's time to decide the worst graphical effect in games: chromatic aberration vs blood/dirt"
-        }
-      ]
-    },
-    {
-      "id": "new-publisher-publsh-launches-with-disco-elysium-inspired-ti",
-      "titre": "New publisher PUBLSH launches with Disco Elysium-inspired title Pera Coda",
-      "url": "https://www.gamesindustry.biz/new-publisher-publsh-launches-with-disco-elysium-inspired-title-pera-coda",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/new-publisher-publsh-launches-with-disco-elysium-inspired-title-pera-coda",
-          "titre": "New publisher PUBLSH launches with Disco Elysium-inspired title Pera Coda"
-        }
-      ]
-    },
-    {
-      "id": "stellar-blade-is-a-success-now-but-once-came-close-to-the-br",
-      "titre": "Stellar Blade is a success now but once came close to the brink: \"We could only pay salaries for about three months\"",
-      "url": "https://www.eurogamer.net/stellar-blade-rocky-development-three-months-salary",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/stellar-blade-rocky-development-three-months-salary",
-          "titre": "Stellar Blade is a success now but once came close to the brink: \"We could only pay salaries for about three months\""
-        }
-      ]
-    },
-    {
-      "id": "600-ps5-games-going-cheap-in-new-ps-store-sale-including-hal",
-      "titre": "600+ PS5 Games Going Cheap in New PS Store Sale, Including Halo and AC Black Flag Resynced",
-      "url": "https://www.pushsquare.com/news/2026/09/600plus-ps5-games-going-cheap-in-new-ps-store-sale-including-halo-and-ac-black-flag-resynced",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/600plus-ps5-games-going-cheap-in-new-ps-store-sale-including-halo-and-ac-black-flag-resynced",
-          "titre": "600+ PS5 Games Going Cheap in New PS Store Sale, Including Halo and AC Black Flag Resynced"
-        }
-      ]
-    },
-    {
-      "id": "controller-maker-ckrd-releases-the-atom-a-keychain-sized-con",
-      "titre": "Controller maker CKRD releases the Atom+, a keychain sized controller promising no stick drift",
-      "url": "https://www.videogameschronicle.com/news/controller-maker-ckrd-releases-the-atom-a-keychain-sized-controller-promising-no-stick-drift/",
-      "sources": [
-        "VGC"
       ],
       "reprises": 1,
       "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/controller-maker-ckrd-releases-the-atom-a-keychain-sized-controller-promising-no-stick-drift/",
-          "titre": "Controller maker CKRD releases the Atom+, a keychain sized controller promising no stick drift"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/lord-of-the-rings-shadow-of-mordor-war-switch-2",
+          "titre": "Beloved cockney-orc Lord of the Rings games Shadow of Mordor and Shadow of War finally make their way to Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13",
+      "titre": "Sensor Tower: PC and PlayStation unit sales in Japan rise 13% to 21m during H1 2026, led by Resident Evil Requiem",
+      "url": "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem",
+          "titre": "Sensor Tower: PC and PlayStation unit sales in Japan rise 13% to 21m during H1 2026, led by Resident Evil Requiem"
         }
       ]
     },
@@ -923,7 +815,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.1,
       "chaleur": 6,
       "liens": [
         {
@@ -941,7 +833,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 6,
       "liens": [
         {
@@ -959,7 +851,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.6,
       "chaleur": 6,
       "liens": [
         {
@@ -977,13 +869,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gears-of-war-e-day-story-director-laid-off-xbox-cuts",
           "titre": "Xbox lays off Gears of War: E-Day's story director barely two weeks before the game's launch"
+        }
+      ]
+    },
+    {
+      "id": "zelda-ocarina-of-time-s-limited-edition-switch-2-cover-appar",
+      "titre": "Zelda: Ocarina Of Time's Limited Edition Switch 2 Cover Apparently Had One Retailer Trying To Double Its Orders",
+      "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-times-limited-edition-switch-2-cover-apparently-had-one-retailer-trying-to-double-its-orders",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-times-limited-edition-switch-2-cover-apparently-had-one-retailer-trying-to-double-its-orders",
+          "titre": "Zelda: Ocarina Of Time's Limited Edition Switch 2 Cover Apparently Had One Retailer Trying To Double Its Orders"
         }
       ]
     },
@@ -995,7 +905,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.9,
+      "heures": 26.9,
       "chaleur": 6,
       "liens": [
         {
@@ -1013,7 +923,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 27.8,
+      "heures": 29.8,
       "chaleur": 6,
       "liens": [
         {
@@ -1031,7 +941,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.6,
       "chaleur": 5,
       "liens": [
         {
@@ -1049,7 +959,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.9,
       "chaleur": 5,
       "liens": [
         {
@@ -1067,7 +977,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.9,
       "chaleur": 5,
       "liens": [
         {
@@ -1085,7 +995,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.4,
       "chaleur": 5,
       "liens": [
         {
@@ -1103,7 +1013,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.3,
       "chaleur": 5,
       "liens": [
         {
@@ -1121,7 +1031,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.4,
       "chaleur": 5,
       "liens": [
         {
@@ -1139,7 +1049,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.4,
       "chaleur": 5,
       "liens": [
         {
@@ -1148,7 +1058,117 @@ const VEILLE = {
           "titre": "Today's changes might get Xbox a new Halo sooner, but history shows production line development makes for boring games"
         }
       ]
+    },
+    {
+      "id": "banjo-kazooie-developer-rare-is-now-reporting-directly-to-ac",
+      "titre": "Banjo-Kazooie Developer Rare Is Now Reporting Directly To Activision",
+      "url": "https://www.nintendolife.com/news/2026/09/banjo-kazooie-developer-rare-is-now-reporting-directly-to-activision",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 27.6,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/banjo-kazooie-developer-rare-is-now-reporting-directly-to-activision",
+          "titre": "Banjo-Kazooie Developer Rare Is Now Reporting Directly To Activision"
+        }
+      ]
+    },
+    {
+      "id": "console-rumour-time-235",
+      "titre": "Console rumour time #235",
+      "url": "https://www.pcgamer.com/hardware/console-rumour-time-235/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/console-rumour-time-235/",
+          "titre": "Console rumour time #235"
+        }
+      ]
+    },
+    {
+      "id": "blizzard-to-take-a-somewhat-different-approach-to-level-scal",
+      "titre": "Blizzard to take \"a somewhat different approach\" to level-scaling in Diablo 5, suggesting more influence from Diablo 2 than Diablo 4",
+      "url": "https://www.eurogamer.net/diablo-5-level-scaling-diablo-2-blizzard",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/diablo-5-level-scaling-diablo-2-blizzard",
+          "titre": "Blizzard to take \"a somewhat different approach\" to level-scaling in Diablo 5, suggesting more influence from Diablo 2 than Diablo 4"
+        }
+      ]
+    },
+    {
+      "id": "control-resonant-power-lines-perimeter-factory-and-east-park",
+      "titre": "Control Resonant Power Lines: Perimeter, Factory, and East Park Station puzzle solutions",
+      "url": "https://www.videogameschronicle.com/guide/control-resonant-power-lines-perimeter-factory-and-east-park-station-puzzle-solutions/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/control-resonant-power-lines-perimeter-factory-and-east-park-station-puzzle-solutions/",
+          "titre": "Control Resonant Power Lines: Perimeter, Factory, and East Park Station puzzle solutions"
+        }
+      ]
+    },
+    {
+      "id": "the-eu-kids-act-what-game-developers-need-to-know",
+      "titre": "The EU KIDS Act: What game developers need to know",
+      "url": "https://www.gamesindustry.biz/the-eu-kids-act-what-game-developers-need-to-know",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/the-eu-kids-act-what-game-developers-need-to-know",
+          "titre": "The EU KIDS Act: What game developers need to know"
+        }
+      ]
+    },
+    {
+      "id": "persona-6-could-get-its-big-reveal-in-march-as-atlus-announc",
+      "titre": "Persona 6 Could Get Its Big Reveal in March, as Atlus Announces First Super Live Show in Four Years",
+      "url": "https://www.pushsquare.com/news/2026/09/persona-6-could-get-its-big-reveal-in-march-as-atlus-announces-first-super-live-show-in-four-years",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/persona-6-could-get-its-big-reveal-in-march-as-atlus-announces-first-super-live-show-in-four-years",
+          "titre": "Persona 6 Could Get Its Big Reveal in March, as Atlus Announces First Super Live Show in Four Years"
+        }
+      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "The producer behind Cregger's Resident Evil film is working on an unnamed Silent Hill project and players are asking for just one thing"
+  ]
 };
