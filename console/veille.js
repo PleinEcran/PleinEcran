@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "23/09/2026 à 18h23",
+  "collecte": "23/09/2026 à 20h20",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 7.0,
+      "heures": 9.0,
       "chaleur": 21,
       "liens": [
         {
@@ -46,42 +46,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "age-of-empires-developer-world-s-edge-hit-with-layoffs-follo",
-      "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision",
-      "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz",
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 4,
-      "heures": 4.5,
-      "chaleur": 20,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
-          "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/age-of-empire-worlds-edge-studio-xbox-cuts",
-          "titre": "Age of Empires studio World's Edge reportedly lost \"nearly half\" of its staff during yesterday's Xbox cuts and move to Activision"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/age-of-empires-studio-worlds-edge-reportedly-lose-nearly-half-their-staff-and-a-new-game-project-in-mass-xbox-layoffs",
-          "titre": "Age of Empires studio World's Edge reportedly lose nearly half their staff and a new game project in mass Xbox layoffs"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/hundreds-more-xbox-layoffs-reportedly-on-the-way-studios-to-be-consolidated",
-          "titre": "'Hundreds' More Xbox Layoffs Reportedly on the Way, Studios to Be Consolidated"
-        }
-      ]
-    },
-    {
       "id": "the-producer-behind-cregger-s-resident-evil-film-is-working",
       "titre": "The producer behind Cregger's Resident Evil film is working on an unnamed Silent Hill project and players are asking for just one thing",
       "url": "https://www.pcgamer.com/games/horror/the-producer-behind-creggers-resident-evil-film-is-working-on-an-unnamed-silent-hill-project-and-players-are-asking-for-just-one-thing/",
@@ -92,7 +56,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 17,
       "liens": [
         {
@@ -118,6 +82,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "age-of-empires-developer-world-s-edge-hit-with-layoffs-follo",
+      "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision",
+      "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 6.4,
+      "chaleur": 17,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
+          "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/age-of-empire-worlds-edge-studio-xbox-cuts",
+          "titre": "Age of Empires studio World's Edge reportedly lost \"nearly half\" of its staff during yesterday's Xbox cuts and move to Activision"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/age-of-empires-studio-worlds-edge-reportedly-lose-nearly-half-their-staff-and-a-new-game-project-in-mass-xbox-layoffs",
+          "titre": "Age of Empires studio World's Edge reportedly lose nearly half their staff and a new game project in mass Xbox layoffs"
+        }
+      ]
+    },
+    {
+      "id": "discord-launches-controversial-age-verification-system-using",
+      "titre": "Discord launches controversial age-verification system \"using the most privacy-preserving approach we could build\" months after first delay",
+      "url": "https://www.eurogamer.net/discord-controversial-age-verification-privacy-preserving",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 1.4,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/discord-controversial-age-verification-privacy-preserving",
+          "titre": "Discord launches controversial age-verification system \"using the most privacy-preserving approach we could build\" months after first delay"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/discord-re-launches-age-verification-following-backlash-over-privacy-concerns",
+          "titre": "Discord re-launches age verification following backlash over privacy concerns"
+        }
+      ]
+    },
+    {
       "id": "opinion-i-think-i-m-missing-something-about-stellar-blade-on",
       "titre": "Opinion: I Think I'm Missing Something About Stellar Blade On Switch 2",
       "url": "https://www.nintendolife.com/features/opinion-i-think-im-missing-something-about-stellar-blade-on-switch-2",
@@ -126,7 +144,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 11,
       "liens": [
         {
@@ -142,21 +160,21 @@ const VEILLE = {
       ]
     },
     {
-      "id": "report-bethesda-president-tells-obsidian-staff-it-won-t-lose",
-      "titre": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge",
-      "url": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
+      "id": "bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
+      "titre": "Bethesda boss confirms Obsidian will remain a \"distinct\" team",
+      "url": "https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
       "sources": [
         "Eurogamer",
-        "Game Developer"
+        "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 1.3,
-      "chaleur": 11,
+      "heures": 1.6,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
-          "titre": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
+          "titre": "Bethesda boss confirms Obsidian will remain a \"distinct\" team"
         },
         {
           "source": "Eurogamer",
@@ -174,7 +192,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.1,
+      "heures": 3.0,
       "chaleur": 9,
       "liens": [
         {
@@ -190,6 +208,84 @@ const VEILLE = {
       ]
     },
     {
+      "id": "i-m-still-blown-away-by-the-amount-of-talent-hellblade-devs",
+      "titre": "\"I'm still blown away by the amount of talent\": Hellblade devs Ninja Theory face closure after Microsoft fail to reach a deal with buyers",
+      "url": "https://www.rockpapershotgun.com/im-still-blown-away-by-the-amount-of-talent-hellblade-devs-ninja-theory-face-closure-after-microsoft-fail-to-reach-a-deal-with-buyers",
+      "sources": [
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 28.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/im-still-blown-away-by-the-amount-of-talent-hellblade-devs-ninja-theory-face-closure-after-microsoft-fail-to-reach-a-deal-with-buyers",
+          "titre": "\"I'm still blown away by the amount of talent\": Hellblade devs Ninja Theory face closure after Microsoft fail to reach a deal with buyers"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/microsoft-closing-hellblade-dev-ninja-theory-after-failed-buyout-talks",
+          "titre": "Microsoft Closing Hellblade Dev Ninja Theory After Failed Buyout Talks"
+        }
+      ]
+    },
+    {
+      "id": "report-bethesda-president-tells-obsidian-staff-it-won-t-lose",
+      "titre": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge",
+      "url": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 3.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
+          "titre": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge"
+        }
+      ]
+    },
+    {
+      "id": "good-luck-today-halo-friends-after-years-of-rivalry-call-of",
+      "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs",
+      "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 29.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
+          "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs"
+        }
+      ]
+    },
+    {
+      "id": "xbox-transfers-rare-and-halo-franchise-to-activision-propose",
+      "titre": "Xbox transfers Rare and Halo franchise to Activision, proposes closure of Ninja Theory, and confirms another 268 roles cut amid studio restructure",
+      "url": "https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 30.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure",
+          "titre": "Xbox transfers Rare and Halo franchise to Activision, proposes closure of Ninja Theory, and confirms another 268 roles cut amid studio restructure"
+        }
+      ]
+    },
+    {
       "id": "i-thought-from-logitech-s-new-pro-products-i-d-be-most-excit",
       "titre": "I thought from Logitech's new Pro products I'd be most excited about the Superstrike, but after using them it's actually the keyboard and mouse pad that have me grinning",
       "url": "https://www.pcgamer.com/hardware/i-thought-from-logitechs-new-pro-products-id-be-most-excited-about-the-superstrike-but-after-using-them-its-actually-the-keyboard-and-mouse-pad-that-have-me-grinning/",
@@ -197,8 +293,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 9,
+      "heures": 4.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -215,127 +311,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 9,
+      "heures": 4.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/gaming-mice/sorry-early-adopters-logitech-is-releasing-an-improved-superstrike-making-the-original-all-but-obsolete-just-months-after-launch/",
           "titre": "Sorry early adopters, Logitech is releasing an improved Superstrike making the original all but obsolete just months after launch"
-        }
-      ]
-    },
-    {
-      "id": "i-m-still-blown-away-by-the-amount-of-talent-hellblade-devs",
-      "titre": "\"I'm still blown away by the amount of talent\": Hellblade devs Ninja Theory face closure after Microsoft fail to reach a deal with buyers",
-      "url": "https://www.rockpapershotgun.com/im-still-blown-away-by-the-amount-of-talent-hellblade-devs-ninja-theory-face-closure-after-microsoft-fail-to-reach-a-deal-with-buyers",
-      "sources": [
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 26.1,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/im-still-blown-away-by-the-amount-of-talent-hellblade-devs-ninja-theory-face-closure-after-microsoft-fail-to-reach-a-deal-with-buyers",
-          "titre": "\"I'm still blown away by the amount of talent\": Hellblade devs Ninja Theory face closure after Microsoft fail to reach a deal with buyers"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/microsoft-closing-hellblade-dev-ninja-theory-after-failed-buyout-talks",
-          "titre": "Microsoft Closing Hellblade Dev Ninja Theory After Failed Buyout Talks"
-        }
-      ]
-    },
-    {
-      "id": "the-steam-machine-handles-control-resonant-capably-but-the-p",
-      "titre": "The Steam Machine handles Control Resonant capably, but the promised Steam Deck support is a letdown",
-      "url": "https://www.rockpapershotgun.com/the-steam-machine-handles-control-resonant-capably-but-the-promised-steam-deck-support-is-a-letdown",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-steam-machine-handles-control-resonant-capably-but-the-promised-steam-deck-support-is-a-letdown",
-          "titre": "The Steam Machine handles Control Resonant capably, but the promised Steam Deck support is a letdown"
-        }
-      ]
-    },
-    {
-      "id": "this-one-is-especially-bad-steam-game-about-mistreating-rag",
-      "titre": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year",
-      "url": "https://www.rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year",
-          "titre": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year"
-        }
-      ]
-    },
-    {
-      "id": "good-luck-today-halo-friends-after-years-of-rivalry-call-of",
-      "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs",
-      "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 27.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
-          "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs"
-        }
-      ]
-    },
-    {
-      "id": "hellblade-developer-ninja-theory-heading-towards-closure-in",
-      "titre": "Hellblade developer Ninja Theory heading towards closure in new wave of Xbox cuts, as two separate agreements collapse",
-      "url": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 28.2,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
-          "titre": "Hellblade developer Ninja Theory heading towards closure in new wave of Xbox cuts, as two separate agreements collapse"
-        }
-      ]
-    },
-    {
-      "id": "xbox-transfers-rare-and-halo-franchise-to-activision-propose",
-      "titre": "Xbox transfers Rare and Halo franchise to Activision, proposes closure of Ninja Theory, and confirms another 268 roles cut amid studio restructure",
-      "url": "https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 28.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure",
-          "titre": "Xbox transfers Rare and Halo franchise to Activision, proposes closure of Ninja Theory, and confirms another 268 roles cut amid studio restructure"
         }
       ]
     },
@@ -347,7 +329,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 7.0,
       "chaleur": 7,
       "liens": [
         {
@@ -365,7 +347,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 31.5,
+      "heures": 33.4,
       "chaleur": 7,
       "liens": [
         {
@@ -520,20 +502,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "licensing-expo",
-      "titre": "Licensing Expo",
-      "url": "https://www.gamedeveloper.comwww.brandlicensingexpo.com",
+      "id": "shoot-the-tires-please",
+      "titre": "Shoot the tires, please",
+      "url": "https://www.pcgamer.com/games/fps/shoot-the-tires-please/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/shoot-the-tires-please/",
+          "titre": "Shoot the tires, please"
+        }
+      ]
+    },
+    {
+      "id": "digital-ps5-purchases-kicking-back-cash-to-more-and-more-pla",
+      "titre": "Digital PS5 Purchases Kicking Back Cash to More and More Players",
+      "url": "https://www.pushsquare.com/news/2026/09/digital-ps5-purchases-kicking-back-cash-to-more-and-more-players",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/digital-ps5-purchases-kicking-back-cash-to-more-and-more-players",
+          "titre": "Digital PS5 Purchases Kicking Back Cash to More and More Players"
+        }
+      ]
+    },
+    {
+      "id": "sometimes-it-s-fun-to-hit-a-scorpion-with-a-club-for-38-seco",
+      "titre": "Sometimes it's fun to hit a scorpion with a club for 38 seconds",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/sometimes-its-fun-to-hit-a-scorpion-with-a-club-for-38-seconds/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/sometimes-its-fun-to-hit-a-scorpion-with-a-club-for-38-seconds/",
+          "titre": "Sometimes it's fun to hit a scorpion with a club for 38 seconds"
+        }
+      ]
+    },
+    {
+      "id": "i-just-assume-someone-is-being-greedy-double-fine-s-tim-sch",
+      "titre": "‘I just assume someone is being greedy’: Double Fine’s Tim Schafer says he doesn’t know why the industry isn’t recovering",
+      "url": "https://www.videogameschronicle.com/news/i-just-assume-someone-is-being-greedy-double-fines-tim-schafer-says-he-doesnt-know-why-the-industry-isnt-recovering/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/i-just-assume-someone-is-being-greedy-double-fines-tim-schafer-says-he-doesnt-know-why-the-industry-isnt-recovering/",
+          "titre": "‘I just assume someone is being greedy’: Double Fine’s Tim Schafer says he doesn’t know why the industry isn’t recovering"
+        }
+      ]
+    },
+    {
+      "id": "discord-re-introduces-age-verification-policy-based-on-accou",
+      "titre": "Discord re-introduces age verification policy based on 'account signal' methodology",
+      "url": "https://www.gamedeveloper.com/business/discord-re-introduces-age-verification-policy-with-new-methods",
       "sources": [
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 1.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
-          "url": "https://www.gamedeveloper.comwww.brandlicensingexpo.com",
-          "titre": "Licensing Expo"
+          "url": "https://www.gamedeveloper.com/business/discord-re-introduces-age-verification-policy-with-new-methods",
+          "titre": "Discord re-introduces age verification policy based on 'account signal' methodology"
         }
       ]
     },
@@ -545,7 +599,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -563,7 +617,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -581,7 +635,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -599,7 +653,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -617,7 +671,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -635,7 +689,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -653,7 +707,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -664,110 +718,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gundam-celebrates-40-years-of-games-with-a-dedicated-broadca",
-      "titre": "Gundam Celebrates 40 Years of Games with a Dedicated Broadcast Next Month",
-      "url": "https://www.pushsquare.com/news/2026/09/gundam-celebrates-40-years-of-games-with-a-dedicated-broadcast-next-month",
+      "id": "the-steam-machine-handles-control-resonant-capably-but-the-p",
+      "titre": "The Steam Machine handles Control Resonant capably, but the promised Steam Deck support is a letdown",
+      "url": "https://www.rockpapershotgun.com/the-steam-machine-handles-control-resonant-capably-but-the-promised-steam-deck-support-is-a-letdown",
       "sources": [
-        "Push Square"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 4.6,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/gundam-celebrates-40-years-of-games-with-a-dedicated-broadcast-next-month",
-          "titre": "Gundam Celebrates 40 Years of Games with a Dedicated Broadcast Next Month"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-steam-machine-handles-control-resonant-capably-but-the-promised-steam-deck-support-is-a-letdown",
+          "titre": "The Steam Machine handles Control Resonant capably, but the promised Steam Deck support is a letdown"
         }
       ]
     },
     {
-      "id": "my-first-mmo-character-1-harvey-randall",
-      "titre": "My first MMO character #1: Harvey Randall",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-1-harvey-randall/",
+      "id": "this-one-is-especially-bad-steam-game-about-mistreating-rag",
+      "titre": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year",
+      "url": "https://www.rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year",
       "sources": [
-        "PC Gamer"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 5.2,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-1-harvey-randall/",
-          "titre": "My first MMO character #1: Harvey Randall"
-        }
-      ]
-    },
-    {
-      "id": "wistful-about-myst-vi",
-      "titre": "Wistful about Myst VI",
-      "url": "https://www.pcgamer.com/games/wistful-about-myst-vi/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/wistful-about-myst-vi/",
-          "titre": "Wistful about Myst VI"
-        }
-      ]
-    },
-    {
-      "id": "valve-offers-cs2-players-eggs",
-      "titre": "Valve offers CS2 players eggs",
-      "url": "https://www.pcgamer.com/games/fps/valve-offers-cs2-players-eggs/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/valve-offers-cs2-players-eggs/",
-          "titre": "Valve offers CS2 players eggs"
-        }
-      ]
-    },
-    {
-      "id": "we-hacked-the-fbi-says-previous-rockstar-breaching-hacking",
-      "titre": "'We hacked the FBI' says previous Rockstar-breaching hacking group: 'We hold data on all FBI employees and applicants'",
-      "url": "https://www.pcgamer.com/software/security/we-hacked-the-fbi-says-previous-rockstar-breaching-hacking-group-we-hold-data-on-all-fbi-employees-and-applicants/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/security/we-hacked-the-fbi-says-previous-rockstar-breaching-hacking-group-we-hold-data-on-all-fbi-employees-and-applicants/",
-          "titre": "'We hacked the FBI' says previous Rockstar-breaching hacking group: 'We hold data on all FBI employees and applicants'"
-        }
-      ]
-    },
-    {
-      "id": "i-don-t-care-what-you-lot-say-the-side-buttons-on-a-mouse-ar",
-      "titre": "I don't care what you lot say, the side buttons on a mouse are for copy and paste (on desktop)",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/i-dont-care-what-you-lot-say-the-side-buttons-on-a-mouse-are-for-copy-and-paste-on-desktop/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-mice/i-dont-care-what-you-lot-say-the-side-buttons-on-a-mouse-are-for-copy-and-paste-on-desktop/",
-          "titre": "I don't care what you lot say, the side buttons on a mouse are for copy and paste (on desktop)"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year",
+          "titre": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year"
         }
       ]
     },
@@ -779,7 +761,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 6.0,
       "chaleur": 6,
       "liens": [
         {
@@ -797,7 +779,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.4,
       "chaleur": 6,
       "liens": [
         {
@@ -815,7 +797,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.1,
       "chaleur": 6,
       "liens": [
         {
@@ -833,7 +815,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.3,
       "chaleur": 6,
       "liens": [
         {
@@ -851,7 +833,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.6,
       "chaleur": 6,
       "liens": [
         {
@@ -869,7 +851,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 6,
       "liens": [
         {
@@ -887,7 +869,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.4,
       "chaleur": 6,
       "liens": [
         {
@@ -905,7 +887,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.9,
+      "heures": 28.8,
       "chaleur": 6,
       "liens": [
         {
@@ -923,7 +905,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 29.8,
+      "heures": 31.8,
       "chaleur": 6,
       "liens": [
         {
@@ -941,7 +923,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 18.6,
       "chaleur": 5,
       "liens": [
         {
@@ -959,7 +941,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 19.8,
       "chaleur": 5,
       "liens": [
         {
@@ -977,7 +959,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.8,
       "chaleur": 5,
       "liens": [
         {
@@ -995,7 +977,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 26.3,
       "chaleur": 5,
       "liens": [
         {
@@ -1013,7 +995,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 27.3,
       "chaleur": 5,
       "liens": [
         {
@@ -1031,7 +1013,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.3,
       "chaleur": 5,
       "liens": [
         {
@@ -1049,7 +1031,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 29.3,
       "chaleur": 5,
       "liens": [
         {
@@ -1067,7 +1049,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.6,
+      "heures": 29.6,
       "chaleur": 5,
       "liens": [
         {
@@ -1078,20 +1060,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "console-rumour-time-235",
-      "titre": "Console rumour time #235",
-      "url": "https://www.pcgamer.com/hardware/console-rumour-time-235/",
+      "id": "gundam-celebrates-40-years-of-games-with-a-dedicated-broadca",
+      "titre": "Gundam Celebrates 40 Years of Games with a Dedicated Broadcast Next Month",
+      "url": "https://www.pushsquare.com/news/2026/09/gundam-celebrates-40-years-of-games-with-a-dedicated-broadcast-next-month",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/gundam-celebrates-40-years-of-games-with-a-dedicated-broadcast-next-month",
+          "titre": "Gundam Celebrates 40 Years of Games with a Dedicated Broadcast Next Month"
+        }
+      ]
+    },
+    {
+      "id": "my-first-mmo-character-1-harvey-randall",
+      "titre": "My first MMO character #1: Harvey Randall",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-1-harvey-randall/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 4.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/console-rumour-time-235/",
-          "titre": "Console rumour time #235"
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-1-harvey-randall/",
+          "titre": "My first MMO character #1: Harvey Randall"
+        }
+      ]
+    },
+    {
+      "id": "wistful-about-myst-vi",
+      "titre": "Wistful about Myst VI",
+      "url": "https://www.pcgamer.com/games/wistful-about-myst-vi/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/wistful-about-myst-vi/",
+          "titre": "Wistful about Myst VI"
+        }
+      ]
+    },
+    {
+      "id": "valve-offers-cs2-players-eggs",
+      "titre": "Valve offers CS2 players eggs",
+      "url": "https://www.pcgamer.com/games/fps/valve-offers-cs2-players-eggs/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/valve-offers-cs2-players-eggs/",
+          "titre": "Valve offers CS2 players eggs"
+        }
+      ]
+    },
+    {
+      "id": "we-hacked-the-fbi-says-previous-rockstar-breaching-hacking",
+      "titre": "'We hacked the FBI' says previous Rockstar-breaching hacking group: 'We hold data on all FBI employees and applicants'",
+      "url": "https://www.pcgamer.com/software/security/we-hacked-the-fbi-says-previous-rockstar-breaching-hacking-group-we-hold-data-on-all-fbi-employees-and-applicants/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/security/we-hacked-the-fbi-says-previous-rockstar-breaching-hacking-group-we-hold-data-on-all-fbi-employees-and-applicants/",
+          "titre": "'We hacked the FBI' says previous Rockstar-breaching hacking group: 'We hold data on all FBI employees and applicants'"
         }
       ]
     },
@@ -1103,7 +1157,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1112,63 +1166,7 @@ const VEILLE = {
           "titre": "Blizzard to take \"a somewhat different approach\" to level-scaling in Diablo 5, suggesting more influence from Diablo 2 than Diablo 4"
         }
       ]
-    },
-    {
-      "id": "control-resonant-power-lines-perimeter-factory-and-east-park",
-      "titre": "Control Resonant Power Lines: Perimeter, Factory, and East Park Station puzzle solutions",
-      "url": "https://www.videogameschronicle.com/guide/control-resonant-power-lines-perimeter-factory-and-east-park-station-puzzle-solutions/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 4.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/control-resonant-power-lines-perimeter-factory-and-east-park-station-puzzle-solutions/",
-          "titre": "Control Resonant Power Lines: Perimeter, Factory, and East Park Station puzzle solutions"
-        }
-      ]
-    },
-    {
-      "id": "the-eu-kids-act-what-game-developers-need-to-know",
-      "titre": "The EU KIDS Act: What game developers need to know",
-      "url": "https://www.gamesindustry.biz/the-eu-kids-act-what-game-developers-need-to-know",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 4.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/the-eu-kids-act-what-game-developers-need-to-know",
-          "titre": "The EU KIDS Act: What game developers need to know"
-        }
-      ]
-    },
-    {
-      "id": "persona-6-could-get-its-big-reveal-in-march-as-atlus-announc",
-      "titre": "Persona 6 Could Get Its Big Reveal in March, as Atlus Announces First Super Live Show in Four Years",
-      "url": "https://www.pushsquare.com/news/2026/09/persona-6-could-get-its-big-reveal-in-march-as-atlus-announces-first-super-live-show-in-four-years",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 4.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/persona-6-could-get-its-big-reveal-in-march-as-atlus-announces-first-super-live-show-in-four-years",
-          "titre": "Persona 6 Could Get Its Big Reveal in March, as Atlus Announces First Super Live Show in Four Years"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "The producer behind Cregger's Resident Evil film is working on an unnamed Silent Hill project and players are asking for just one thing"
-  ]
+  "alertes": []
 };
