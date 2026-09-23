@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "23/09/2026 à 12h25",
+  "collecte": "23/09/2026 à 14h21",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 1.1,
+      "heures": 3.0,
       "chaleur": 23,
       "liens": [
         {
@@ -46,6 +46,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "age-of-empires-developer-world-s-edge-hit-with-layoffs-follo",
+      "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision",
+      "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 4,
+      "heures": 0.4,
+      "chaleur": 22,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
+          "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/age-of-empire-worlds-edge-studio-xbox-cuts",
+          "titre": "Age of Empires studio World's Edge reportedly lost \"nearly half\" of its staff during yesterday's Xbox cuts and move to Activision"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/age-of-empires-studio-worlds-edge-reportedly-lose-nearly-half-their-staff-and-a-new-game-project-in-mass-xbox-layoffs",
+          "titre": "Age of Empires studio World's Edge reportedly lose nearly half their staff and a new game project in mass Xbox layoffs"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/hundreds-more-xbox-layoffs-reportedly-on-the-way-studios-to-be-consolidated",
+          "titre": "'Hundreds' More Xbox Layoffs Reportedly on the Way, Studios to Be Consolidated"
+        }
+      ]
+    },
+    {
       "id": "resident-evil-film-producer-turns-to-new-silent-hill-movie-r",
       "titre": "Resident Evil Film Producer Turns to New Silent Hill Movie, Report Claims",
       "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-producer-turns-to-new-silent-hill-movie-report-claims",
@@ -56,7 +92,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 17,
       "liens": [
         {
@@ -82,20 +118,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "age-of-empires-studio-world-s-edge-reportedly-lose-nearly-ha",
-      "titre": "Age of Empires studio World's Edge reportedly lose nearly half their staff and a new game project in mass Xbox layoffs",
-      "url": "https://www.rockpapershotgun.com/age-of-empires-studio-worlds-edge-reportedly-lose-nearly-half-their-staff-and-a-new-game-project-in-mass-xbox-layoffs",
+      "id": "former-halo-leaders-lament-effective-closure-of-halo-studios",
+      "titre": "Former Halo leaders lament effective closure of Halo Studios, as one employee finds themselves promoted and fired in same week",
+      "url": "https://www.eurogamer.net/halo-studios-closure-xbox-cuts-kiki-wolfkill-bonnie-ross",
       "sources": [
-        "Rock Paper Shotgun"
+        "Eurogamer",
+        "PC Gamer"
       ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 13,
+      "reprises": 2,
+      "heures": 1.0,
+      "chaleur": 12,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/age-of-empires-studio-worlds-edge-reportedly-lose-nearly-half-their-staff-and-a-new-game-project-in-mass-xbox-layoffs",
-          "titre": "Age of Empires studio World's Edge reportedly lose nearly half their staff and a new game project in mass Xbox layoffs"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/halo-studios-closure-xbox-cuts-kiki-wolfkill-bonnie-ross",
+          "titre": "Former Halo leaders lament effective closure of Halo Studios, as one employee finds themselves promoted and fired in same week"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/halo-studios-cinematic-director-promoted-then-laid-off-in-the-same-week/",
+          "titre": "Halo Studios cinematic director promoted, then laid off in the same week"
         }
       ]
     },
@@ -108,7 +150,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 20.1,
+      "heures": 22.1,
       "chaleur": 9,
       "liens": [
         {
@@ -124,6 +166,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13",
+      "titre": "Sensor Tower: PC and PlayStation unit sales in Japan rise 13% to 21m during H1 2026, led by Resident Evil Requiem",
+      "url": "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem",
+          "titre": "Sensor Tower: PC and PlayStation unit sales in Japan rise 13% to 21m during H1 2026, led by Resident Evil Requiem"
+        }
+      ]
+    },
+    {
       "id": "microsoft-want-to-record-your-face-and-feed-it-to-a-generati",
       "titre": "Microsoft want to record your face and feed it to a generative AI, telling it to go off and design a game from your frown",
       "url": "https://www.rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown",
@@ -131,7 +191,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.1,
       "chaleur": 8,
       "liens": [
         {
@@ -149,49 +209,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/ea-sports-fc-27",
           "titre": "Review: EA Sports FC 27 (Switch 2) - Still The Best Football Option, Even With Caveats"
-        }
-      ]
-    },
-    {
-      "id": "psa-sorry-argos-deep-discounts-on-some-top-tier-switch-2-gam",
-      "titre": "PSA: Sorry, Argos' Deep Discounts On Some Top-Tier Switch 2 Games Sold Out Like Hot Cakes",
-      "url": "https://www.nintendolife.com/news/2026/09/psa-sorry-argos-deep-discounts-on-some-top-tier-switch-2-games-sold-out-like-hot-cakes",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/psa-sorry-argos-deep-discounts-on-some-top-tier-switch-2-games-sold-out-like-hot-cakes",
-          "titre": "PSA: Sorry, Argos' Deep Discounts On Some Top-Tier Switch 2 Games Sold Out Like Hot Cakes"
-        }
-      ]
-    },
-    {
-      "id": "xbox-lays-off-gears-of-war-e-day-s-story-director-barely-two",
-      "titre": "Xbox lays off Gears of War: E-Day's story director barely two weeks before the game's launch",
-      "url": "https://www.eurogamer.net/gears-of-war-e-day-story-director-laid-off-xbox-cuts",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gears-of-war-e-day-story-director-laid-off-xbox-cuts",
-          "titre": "Xbox lays off Gears of War: E-Day's story director barely two weeks before the game's launch"
         }
       ]
     },
@@ -203,7 +227,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.1,
+      "heures": 23.0,
       "chaleur": 8,
       "liens": [
         {
@@ -221,7 +245,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 24.2,
       "chaleur": 8,
       "liens": [
         {
@@ -239,7 +263,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 24.3,
       "chaleur": 8,
       "liens": [
         {
@@ -257,7 +281,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.3,
+      "heures": 26.2,
       "chaleur": 8,
       "liens": [
         {
@@ -275,7 +299,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.4,
       "chaleur": 7,
       "liens": [
         {
@@ -293,31 +317,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 27.4,
       "chaleur": 7,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/io-interactive-had-no-choice-but-to-delay-switch-2-launch-of-007-first-light-for-a-third-time",
           "titre": "IO Interactive \"had no choice\" but to delay Switch 2 launch of 007 First Light for a third time"
-        }
-      ]
-    },
-    {
-      "id": "second-wave-of-xbox-cuts-reported-to-be-happening-this-week",
-      "titre": "Second wave of Xbox cuts reported to be happening this week, with \"several\" studios apparently facing consolidation",
-      "url": "https://www.eurogamer.net/xbox-second-wave-cuts-layoffs-report",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 27.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-second-wave-cuts-layoffs-report",
-          "titre": "Second wave of Xbox cuts reported to be happening this week, with \"several\" studios apparently facing consolidation"
         }
       ]
     },
@@ -502,6 +508,276 @@ const VEILLE = {
       ]
     },
     {
+      "id": "console-rumour-time-235",
+      "titre": "Console rumour time #235",
+      "url": "https://www.pcgamer.com/hardware/console-rumour-time-235/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/console-rumour-time-235/",
+          "titre": "Console rumour time #235"
+        }
+      ]
+    },
+    {
+      "id": "leon-kennedy-is-zach-cregger-s-choice-of-bodyguard-i-would-j",
+      "titre": "Leon Kennedy is Zach Cregger's choice of bodyguard: 'I would just bear hug myself around him'",
+      "url": "https://www.pcgamer.com/movies-tv/leon-kennedy-is-zach-creggers-choice-of-bodyguard-i-would-just-bear-hug-myself-around-him/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/leon-kennedy-is-zach-creggers-choice-of-bodyguard-i-would-just-bear-hug-myself-around-him/",
+          "titre": "Leon Kennedy is Zach Cregger's choice of bodyguard: 'I would just bear hug myself around him'"
+        }
+      ]
+    },
+    {
+      "id": "a-bretonnia-rework-is-definitely-on-creative-assembly-s-to-d",
+      "titre": "A Bretonnia rework is definitely on Creative Assembly's 'to-do list' for Total War: Warhammer: 'It's not quite the finest of wines now'",
+      "url": "https://www.pcgamer.com/games/strategy/a-bretonnia-rework-is-definitely-on-creative-assemblys-to-do-list-for-total-war-warhammer-its-not-quite-the-finest-of-wines-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/a-bretonnia-rework-is-definitely-on-creative-assemblys-to-do-list-for-total-war-warhammer-its-not-quite-the-finest-of-wines-now/",
+          "titre": "A Bretonnia rework is definitely on Creative Assembly's 'to-do list' for Total War: Warhammer: 'It's not quite the finest of wines now'"
+        }
+      ]
+    },
+    {
+      "id": "lords-of-the-end-times-is-not-the-end-for-total-war-warhamme",
+      "titre": "Lords of the End Times is 'not the end' for Total War: Warhammer: 'You can't get rid of us that easily'",
+      "url": "https://www.pcgamer.com/games/strategy/lords-of-the-end-times-is-not-the-end-for-total-war-warhammer-you-cant-get-rid-of-us-that-easily/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/lords-of-the-end-times-is-not-the-end-for-total-war-warhammer-you-cant-get-rid-of-us-that-easily/",
+          "titre": "Lords of the End Times is 'not the end' for Total War: Warhammer: 'You can't get rid of us that easily'"
+        }
+      ]
+    },
+    {
+      "id": "waiter-there-s-some-path-of-exile-in-my-total-war-warhammer",
+      "titre": "Waiter, there's some Path of Exile in my Total War: Warhammer 3 DLC",
+      "url": "https://www.pcgamer.com/games/strategy/waiter-theres-some-path-of-exile-in-my-total-war-warhammer-3-dlc/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/waiter-theres-some-path-of-exile-in-my-total-war-warhammer-3-dlc/",
+          "titre": "Waiter, there's some Path of Exile in my Total War: Warhammer 3 DLC"
+        }
+      ]
+    },
+    {
+      "id": "blizzard-to-take-a-somewhat-different-approach-to-level-scal",
+      "titre": "Blizzard to take \"a somewhat different approach\" to level-scaling in Diablo 5, suggesting more influence from Diablo 2 than Diablo 4",
+      "url": "https://www.eurogamer.net/diablo-5-level-scaling-diablo-2-blizzard",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/diablo-5-level-scaling-diablo-2-blizzard",
+          "titre": "Blizzard to take \"a somewhat different approach\" to level-scaling in Diablo 5, suggesting more influence from Diablo 2 than Diablo 4"
+        }
+      ]
+    },
+    {
+      "id": "control-resonant-power-lines-perimeter-factory-and-east-park",
+      "titre": "Control Resonant Power Lines: Perimeter, Factory, and East Park Station puzzle solutions",
+      "url": "https://www.videogameschronicle.com/guide/control-resonant-power-lines-perimeter-factory-and-east-park-station-puzzle-solutions/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/control-resonant-power-lines-perimeter-factory-and-east-park-station-puzzle-solutions/",
+          "titre": "Control Resonant Power Lines: Perimeter, Factory, and East Park Station puzzle solutions"
+        }
+      ]
+    },
+    {
+      "id": "the-eu-kids-act-what-game-developers-need-to-know",
+      "titre": "The EU KIDS Act: What game developers need to know",
+      "url": "https://www.gamesindustry.biz/the-eu-kids-act-what-game-developers-need-to-know",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/the-eu-kids-act-what-game-developers-need-to-know",
+          "titre": "The EU KIDS Act: What game developers need to know"
+        }
+      ]
+    },
+    {
+      "id": "persona-6-could-get-its-big-reveal-in-march-as-atlus-announc",
+      "titre": "Persona 6 Could Get Its Big Reveal in March, as Atlus Announces First Super Live Show in Four Years",
+      "url": "https://www.pushsquare.com/news/2026/09/persona-6-could-get-its-big-reveal-in-march-as-atlus-announces-first-super-live-show-in-four-years",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/persona-6-could-get-its-big-reveal-in-march-as-atlus-announces-first-super-live-show-in-four-years",
+          "titre": "Persona 6 Could Get Its Big Reveal in March, as Atlus Announces First Super Live Show in Four Years"
+        }
+      ]
+    },
+    {
+      "id": "a-tribute-to-pc-gamer-s-first-mmo-characters-may-they-never",
+      "titre": "A tribute to PC Gamer's first MMO characters—may they never be forgotten",
+      "url": "https://www.pcgamer.com/games/mmo/a-tribute-to-pc-gamers-first-mmo-characters-may-they-never-be-forgotten/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mmo/a-tribute-to-pc-gamers-first-mmo-characters-may-they-never-be-forgotten/",
+          "titre": "A tribute to PC Gamer's first MMO characters—may they never be forgotten"
+        }
+      ]
+    },
+    {
+      "id": "it-s-time-to-decide-the-worst-graphical-effect-in-games-chro",
+      "titre": "It's time to decide the worst graphical effect in games: chromatic aberration vs blood/dirt",
+      "url": "https://www.pcgamer.com/hardware/its-time-to-decide-the-worst-graphical-effect-in-games-chromatic-aberration-vs-blood-dirt/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/its-time-to-decide-the-worst-graphical-effect-in-games-chromatic-aberration-vs-blood-dirt/",
+          "titre": "It's time to decide the worst graphical effect in games: chromatic aberration vs blood/dirt"
+        }
+      ]
+    },
+    {
+      "id": "i-crammed-20-anime-figures-inside-my-gaming-pc-to-see-how-it",
+      "titre": "I crammed 20 anime figures inside my gaming PC to see how it affects thermal performance. Yes, you can call me a scientist now",
+      "url": "https://www.pcgamer.com/hardware/pc-cases/i-crammed-20-anime-figures-inside-my-gaming-pc-to-see-how-it-affects-thermal-performance-yes-you-can-call-me-a-scientist-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/pc-cases/i-crammed-20-anime-figures-inside-my-gaming-pc-to-see-how-it-affects-thermal-performance-yes-you-can-call-me-a-scientist-now/",
+          "titre": "I crammed 20 anime figures inside my gaming PC to see how it affects thermal performance. Yes, you can call me a scientist now"
+        }
+      ]
+    },
+    {
+      "id": "new-publisher-publsh-launches-with-disco-elysium-inspired-ti",
+      "titre": "New publisher PUBLSH launches with Disco Elysium-inspired title Pera Coda",
+      "url": "https://www.gamesindustry.biz/new-publisher-publsh-launches-with-disco-elysium-inspired-title-pera-coda",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/new-publisher-publsh-launches-with-disco-elysium-inspired-title-pera-coda",
+          "titre": "New publisher PUBLSH launches with Disco Elysium-inspired title Pera Coda"
+        }
+      ]
+    },
+    {
+      "id": "stellar-blade-is-a-success-now-but-once-came-close-to-the-br",
+      "titre": "Stellar Blade is a success now but once came close to the brink: \"We could only pay salaries for about three months\"",
+      "url": "https://www.eurogamer.net/stellar-blade-rocky-development-three-months-salary",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/stellar-blade-rocky-development-three-months-salary",
+          "titre": "Stellar Blade is a success now but once came close to the brink: \"We could only pay salaries for about three months\""
+        }
+      ]
+    },
+    {
+      "id": "600-ps5-games-going-cheap-in-new-ps-store-sale-including-hal",
+      "titre": "600+ PS5 Games Going Cheap in New PS Store Sale, Including Halo and AC Black Flag Resynced",
+      "url": "https://www.pushsquare.com/news/2026/09/600plus-ps5-games-going-cheap-in-new-ps-store-sale-including-halo-and-ac-black-flag-resynced",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/600plus-ps5-games-going-cheap-in-new-ps-store-sale-including-halo-and-ac-black-flag-resynced",
+          "titre": "600+ PS5 Games Going Cheap in New PS Store Sale, Including Halo and AC Black Flag Resynced"
+        }
+      ]
+    },
+    {
       "id": "controller-maker-ckrd-releases-the-atom-a-keychain-sized-con",
       "titre": "Controller maker CKRD releases the Atom+, a keychain sized controller promising no stick drift",
       "url": "https://www.videogameschronicle.com/news/controller-maker-ckrd-releases-the-atom-a-keychain-sized-controller-promising-no-stick-drift/",
@@ -509,7 +785,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 1.9,
       "chaleur": 6,
       "liens": [
         {
@@ -527,7 +803,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -545,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -563,7 +839,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -581,7 +857,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -599,7 +875,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -617,7 +893,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -628,164 +904,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "halo-studios-cinematic-director-promoted-then-laid-off-in-th",
-      "titre": "Halo Studios cinematic director promoted, then laid off in the same week",
-      "url": "https://www.pcgamer.com/gaming-industry/halo-studios-cinematic-director-promoted-then-laid-off-in-the-same-week/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/halo-studios-cinematic-director-promoted-then-laid-off-in-the-same-week/",
-          "titre": "Halo Studios cinematic director promoted, then laid off in the same week"
-        }
-      ]
-    },
-    {
-      "id": "valve-shadow-dropped-chicken-pets-into-cs2",
-      "titre": "Valve shadow dropped chicken pets into CS2",
-      "url": "https://www.pcgamer.com/games/fps/valve-shadow-dropped-chicken-pets-into-cs2/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/valve-shadow-dropped-chicken-pets-into-cs2/",
-          "titre": "Valve shadow dropped chicken pets into CS2"
-        }
-      ]
-    },
-    {
-      "id": "discord-re-launches-age-verification-following-backlash-over",
-      "titre": "Discord re-launches age verification following backlash over privacy concerns",
-      "url": "https://www.gamesindustry.biz/discord-re-launches-age-verification-following-backlash-over-privacy-concerns",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/discord-re-launches-age-verification-following-backlash-over-privacy-concerns",
-          "titre": "Discord re-launches age verification following backlash over privacy concerns"
-        }
-      ]
-    },
-    {
-      "id": "i-have-fallen-to-my-own-hubris",
-      "titre": "I have fallen to my own hubris",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/i-have-fallen-to-my-own-hubris/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/i-have-fallen-to-my-own-hubris/",
-          "titre": "I have fallen to my own hubris"
-        }
-      ]
-    },
-    {
-      "id": "micropost-this-is-crazytown-reaction-to-our-worst-graphical",
-      "titre": "Micropost: 'This is crazytown' reaction to our worst graphical effect poll",
-      "url": "https://www.pcgamer.com/games/micropost-this-is-crazytown-reaction-to-our-worst-graphical-effect-poll/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/micropost-this-is-crazytown-reaction-to-our-worst-graphical-effect-poll/",
-          "titre": "Micropost: 'This is crazytown' reaction to our worst graphical effect poll"
-        }
-      ]
-    },
-    {
-      "id": "rayman-legends-retold-overview-trailer-banishes-any-lingerin",
-      "titre": "Rayman Legends Retold Overview Trailer Banishes Any Lingering Doubts",
-      "url": "https://www.nintendolife.com/news/2026/09/rayman-legends-retold-overview-trailer-banishes-any-lingering-doubts",
+      "id": "psa-sorry-argos-deep-discounts-on-some-top-tier-switch-2-gam",
+      "titre": "PSA: Sorry, Argos' Deep Discounts On Some Top-Tier Switch 2 Games Sold Out Like Hot Cakes",
+      "url": "https://www.nintendolife.com/news/2026/09/psa-sorry-argos-deep-discounts-on-some-top-tier-switch-2-games-sold-out-like-hot-cakes",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.4,
+      "heures": 4.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/rayman-legends-retold-overview-trailer-banishes-any-lingering-doubts",
-          "titre": "Rayman Legends Retold Overview Trailer Banishes Any Lingering Doubts"
+          "url": "https://www.nintendolife.com/news/2026/09/psa-sorry-argos-deep-discounts-on-some-top-tier-switch-2-games-sold-out-like-hot-cakes",
+          "titre": "PSA: Sorry, Argos' Deep Discounts On Some Top-Tier Switch 2 Games Sold Out Like Hot Cakes"
         }
       ]
     },
     {
-      "id": "exclusive-the-next-pok-mon-tcg-delta-reign-illustration-rare",
-      "titre": "Exclusive: The next Pokémon TCG Delta Reign illustration rare officially revealed",
-      "url": "https://www.videogameschronicle.com/news/exclusive-the-next-pokemon-tcg-delta-reign-illustration-rare-officially-revealed/",
+      "id": "xbox-lays-off-gears-of-war-e-day-s-story-director-barely-two",
+      "titre": "Xbox lays off Gears of War: E-Day's story director barely two weeks before the game's launch",
+      "url": "https://www.eurogamer.net/gears-of-war-e-day-story-director-laid-off-xbox-cuts",
       "sources": [
-        "VGC"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.5,
+      "heures": 5.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/exclusive-the-next-pokemon-tcg-delta-reign-illustration-rare-officially-revealed/",
-          "titre": "Exclusive: The next Pokémon TCG Delta Reign illustration rare officially revealed"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gears-of-war-e-day-story-director-laid-off-xbox-cuts",
+          "titre": "Xbox lays off Gears of War: E-Day's story director barely two weeks before the game's launch"
         }
       ]
     },
     {
-      "id": "the-next-classic-polygonal-namco-arcade-game-getting-a-home",
-      "titre": "The next classic polygonal Namco arcade game getting a home release is Xevious 3D/G",
-      "url": "https://www.videogameschronicle.com/news/the-next-classic-polygonal-namco-arcade-game-getting-a-home-release-is-xevious-3d-g/",
+      "id": "nintendo-s-zelda-quiz-error-apology-has-led-to-yet-another-e",
+      "titre": "Nintendo's Zelda Quiz Error Apology Has Led To... Yet Another Error",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendos-zelda-quiz-error-apology-has-led-to-yet-another-error",
       "sources": [
-        "VGC"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.7,
+      "heures": 22.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-next-classic-polygonal-namco-arcade-game-getting-a-home-release-is-xevious-3d-g/",
-          "titre": "The next classic polygonal Namco arcade game getting a home release is Xevious 3D/G"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nintendos-zelda-quiz-error-apology-has-led-to-yet-another-error",
+          "titre": "Nintendo's Zelda Quiz Error Apology Has Led To... Yet Another Error"
         }
       ]
     },
     {
-      "id": "where-can-australians-buy-r18-pc-games-without-a-credit-card",
-      "titre": "Where can Australians buy R18+ PC games without a credit card? Pretty much everywhere but Steam",
-      "url": "https://www.pcgamer.com/software/platforms/how-to-buy-r18-games-without-a-credit-card/",
+      "id": "do-not-rockstar-outlines-modding-rules-before-gta-vi-touche",
+      "titre": "'Do not': Rockstar outlines modding rules before GTA VI touches down",
+      "url": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
       "sources": [
-        "PC Gamer"
+        "Game Developer"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 25.8,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/platforms/how-to-buy-r18-games-without-a-credit-card/",
-          "titre": "Where can Australians buy R18+ PC games without a credit card? Pretty much everywhere but Steam"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
+          "titre": "'Do not': Rockstar outlines modding rules before GTA VI touches down"
         }
       ]
     },
@@ -797,8 +983,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 6,
+      "heures": 12.6,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -815,85 +1001,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 6,
+      "heures": 13.9,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/thq-nordic-is-treating-existing-epic-mickey-rebrushed-owners-to-a-free-upgrade-on-switch-2",
           "titre": "THQ Nordic Is Treating Existing Epic Mickey: Rebrushed Owners To A Free Upgrade On Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "vindicated-after-speaking-to-some-pro-counter-strike-players",
-      "titre": "Vindicated: after speaking to some pro Counter-Strike players I'm sure I was right when I said 360 Hz is the sweet spot for competitive FPS",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/vindicated-after-speaking-to-some-pro-counter-strike-players-im-sure-i-was-right-when-i-said-360-hz-is-the-sweet-spot-for-competitive-fps/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-monitors/vindicated-after-speaking-to-some-pro-counter-strike-players-im-sure-i-was-right-when-i-said-360-hz-is-the-sweet-spot-for-competitive-fps/",
-          "titre": "Vindicated: after speaking to some pro Counter-Strike players I'm sure I was right when I said 360 Hz is the sweet spot for competitive FPS"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-s-zelda-quiz-error-apology-has-led-to-yet-another-e",
-      "titre": "Nintendo's Zelda Quiz Error Apology Has Led To... Yet Another Error",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendos-zelda-quiz-error-apology-has-led-to-yet-another-error",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 20.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendos-zelda-quiz-error-apology-has-led-to-yet-another-error",
-          "titre": "Nintendo's Zelda Quiz Error Apology Has Led To... Yet Another Error"
-        }
-      ]
-    },
-    {
-      "id": "rainbow-six-siege-boss-says-players-who-stick-around-during",
-      "titre": "Rainbow Six Siege boss says players who stick around during GTA 6’s launch will be served ‘like kings and queens’",
-      "url": "https://www.videogameschronicle.com/news/rainbow-six-siege-boss-says-players-who-stick-around-during-gta-6s-launch-will-be-served-like-kings-and-queens/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 21.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/rainbow-six-siege-boss-says-players-who-stick-around-during-gta-6s-launch-will-be-served-like-kings-and-queens/",
-          "titre": "Rainbow Six Siege boss says players who stick around during GTA 6’s launch will be served ‘like kings and queens’"
-        }
-      ]
-    },
-    {
-      "id": "do-not-rockstar-outlines-modding-rules-before-gta-vi-touche",
-      "titre": "'Do not': Rockstar outlines modding rules before GTA VI touches down",
-      "url": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 23.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
-          "titre": "'Do not': Rockstar outlines modding rules before GTA VI touches down"
         }
       ]
     },
@@ -905,7 +1019,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 5,
       "liens": [
         {
@@ -923,7 +1037,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.4,
       "chaleur": 5,
       "liens": [
         {
@@ -941,7 +1055,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.3,
       "chaleur": 5,
       "liens": [
         {
@@ -959,7 +1073,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.4,
       "chaleur": 5,
       "liens": [
         {
@@ -977,7 +1091,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.4,
       "chaleur": 5,
       "liens": [
         {
@@ -995,7 +1109,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.5,
       "chaleur": 5,
       "liens": [
         {
@@ -1013,7 +1127,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.7,
+      "heures": 23.6,
       "chaleur": 5,
       "liens": [
         {
@@ -1031,7 +1145,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.0,
+      "heures": 24.9,
       "chaleur": 5,
       "liens": [
         {
@@ -1040,100 +1154,9 @@ const VEILLE = {
           "titre": "Sony appears to be testing PlayStation Store credit offers when you buy certain games"
         }
       ]
-    },
-    {
-      "id": "i-taught-an-old-man-new-tunes-in-rhythm-action-shopkeeper-si",
-      "titre": "I taught an old man new tunes in rhythm-action shopkeeper sim Mr. Records, and now you can try the demo yourself",
-      "url": "https://www.rockpapershotgun.com/i-taught-an-old-man-new-tunes-in-rhythm-action-shopkeeper-sim-mr-records-and-now-you-can-try-the-demo-yourself",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 23.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-taught-an-old-man-new-tunes-in-rhythm-action-shopkeeper-sim-mr-records-and-now-you-can-try-the-demo-yourself",
-          "titre": "I taught an old man new tunes in rhythm-action shopkeeper sim Mr. Records, and now you can try the demo yourself"
-        }
-      ]
-    },
-    {
-      "id": "pok-mon-tcg-scalper-reportedly-arrested-for-punching-a-man-i",
-      "titre": "Pokémon TCG Scalper Reportedly Arrested For Punching A Man In Latest Pathetic Incident",
-      "url": "https://www.nintendolife.com/news/2026/09/pokemon-tcg-scalper-reportedly-arrested-for-punching-a-man-in-latest-pathetic-incident",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 23.7,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/pokemon-tcg-scalper-reportedly-arrested-for-punching-a-man-in-latest-pathetic-incident",
-          "titre": "Pokémon TCG Scalper Reportedly Arrested For Punching A Man In Latest Pathetic Incident"
-        }
-      ]
-    },
-    {
-      "id": "esports-tournaments-do-it-better-in-person",
-      "titre": "Esports tournaments do it better in person",
-      "url": "https://www.pcgamer.com/games/esports-tournaments-do-it-better-in-person/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/esports-tournaments-do-it-better-in-person/",
-          "titre": "Esports tournaments do it better in person"
-        }
-      ]
-    },
-    {
-      "id": "bayonetta-4-when-stellar-blade-director-confesses-his-love-f",
-      "titre": "Bayonetta 4 When? Stellar Blade Director Confesses His Love For The Umbra Witch",
-      "url": "https://www.nintendolife.com/news/2026/09/bayonetta-4-when-stellar-blade-director-confesses-his-love-for-the-umbra-witch",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 5.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/bayonetta-4-when-stellar-blade-director-confesses-his-love-for-the-umbra-witch",
-          "titre": "Bayonetta 4 When? Stellar Blade Director Confesses His Love For The Umbra Witch"
-        }
-      ]
-    },
-    {
-      "id": "we-ll-be-creating-a-whole-new-kind-of-gameplay-experience-i",
-      "titre": "\"We'll Be Creating A Whole New Kind Of Gameplay Experience\" - Iizuka Says The New Sonic Game Is Now In Development",
-      "url": "https://www.nintendolife.com/news/2026/09/well-be-creating-a-whole-new-kind-of-gameplay-experience-iizuka-says-the-new-sonic-game-is-now-in-development",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 7.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/well-be-creating-a-whole-new-kind-of-gameplay-experience-iizuka-says-the-new-sonic-game-is-now-in-development",
-          "titre": "\"We'll Be Creating A Whole New Kind Of Gameplay Experience\" - Iizuka Says The New Sonic Game Is Now In Development"
-        }
-      ]
     }
   ],
   "alertes": [
-    "Undead Labs makes 'significant' layoffs after splitting from Xbox",
-    "Resident Evil Film Producer Turns to New Silent Hill Movie, Report Claims"
+    "Age of Empires developer World's Edge hit with layoffs following move to Activision"
   ]
 };
