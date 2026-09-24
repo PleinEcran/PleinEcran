@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "24/09/2026 à 20h21",
+  "collecte": "24/09/2026 à 22h20",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 18,
       "liens": [
         {
@@ -50,22 +50,16 @@ const VEILLE = {
       "titre": "Age of Empires Dev Has Half of Studio Slashed, Project Cancelled Amid Xbox Layoffs",
       "url": "https://www.pushsquare.com/news/2026/09/age-of-empires-dev-has-half-of-studio-slashed-project-cancelled-amid-xbox-layoffs",
       "sources": [
-        "Push Square",
-        "Rock Paper Shotgun"
+        "Push Square"
       ],
-      "reprises": 2,
-      "heures": 5.4,
-      "chaleur": 17,
+      "reprises": 1,
+      "heures": 7.3,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/age-of-empires-dev-has-half-of-studio-slashed-project-cancelled-amid-xbox-layoffs",
           "titre": "Age of Empires Dev Has Half of Studio Slashed, Project Cancelled Amid Xbox Layoffs"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/age-of-empires-studio-worlds-edge-reportedly-lose-nearly-half-their-staff-and-a-new-game-project-in-mass-xbox-layoffs",
-          "titre": "Age of Empires studio World's Edge reportedly lose nearly half their staff and a new game project in mass Xbox layoffs"
         }
       ]
     },
@@ -78,7 +72,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 12,
       "liens": [
         {
@@ -94,30 +88,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "undead-labs-makes-significant-layoffs-after-splitting-from-x",
-      "titre": "Undead Labs makes 'significant' layoffs after splitting from Xbox",
-      "url": "https://www.gamedeveloper.com/business/undead-labs-makes-significant-layoffs-after-splitting-from-xbox",
-      "sources": [
-        "Game Developer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 33.0,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/undead-labs-makes-significant-layoffs-after-splitting-from-xbox",
-          "titre": "Undead Labs makes 'significant' layoffs after splitting from Xbox"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/state-of-decay-3-studio-undead-labs-lay-off-a-significant-number-of-exceptionally-talented-developers-after-gaining-independence-from-xbox",
-          "titre": "State of Decay 3 studio Undead Labs lay off \"a significant number\" of \"exceptionally talented developers\" after gaining independence from Xbox"
-        }
-      ]
-    },
-    {
       "id": "xbox-is-reportedly-expected-to-fall-short-of-3-200-layoffs",
       "titre": "Xbox Is Reportedly Expected To Fall Short Of 3,200 Layoffs",
       "url": "https://www.nintendolife.com/news/2026/09/xbox-is-reportedly-expected-to-fall-short-of-3200-layoffs",
@@ -125,7 +95,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.9,
       "chaleur": 10,
       "liens": [
         {
@@ -136,62 +106,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-pre-orders-heavily-skewed-towards-ps5",
-      "titre": "GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5",
-      "url": "https://www.pushsquare.com/news/2026/09/gta-6-pre-orders-heavily-skewed-towards-ps5",
+      "id": "gta-6-pre-orders-heavily-skewed-towards-ps5-xbox-exec-respon",
+      "titre": "GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds",
+      "url": "https://www.pushsquare.com/news/2026/09/gta-6-pre-orders-heavily-skewed-towards-ps5-xbox-exec-responds",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 0.0,
       "chaleur": 9,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/gta-6-pre-orders-heavily-skewed-towards-ps5",
-          "titre": "GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5"
+          "url": "https://www.pushsquare.com/news/2026/09/gta-6-pre-orders-heavily-skewed-towards-ps5-xbox-exec-responds",
+          "titre": "GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds"
         }
       ]
     },
     {
-      "id": "once-upon-a-time-the-blood-of-dawnwalker-s-timer-mechanic-wa",
-      "titre": "Once upon a time The Blood of Dawnwalker's timer mechanic was a lot tougher, and it's because of all those pre-release complaints that it was made easier",
-      "url": "https://www.rockpapershotgun.com/once-upon-a-time-the-blood-of-dawnwalkers-timer-mechanic-was-a-lot-tougher-and-its-because-of-all-those-pre-release-complaints-that-it-was-made-easier",
+      "id": "wild-arms-successor-that-sony-rejected-has-been-cancelled-4",
+      "titre": "Wild Arms Successor That Sony Rejected Has Been Cancelled, 4 Years After Its Reveal",
+      "url": "https://www.pushsquare.com/news/2026/09/wild-arms-successor-that-sony-rejected-has-been-cancelled-4-years-after-its-reveal",
       "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 2.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/once-upon-a-time-the-blood-of-dawnwalkers-timer-mechanic-was-a-lot-tougher-and-its-because-of-all-those-pre-release-complaints-that-it-was-made-easier",
-          "titre": "Once upon a time The Blood of Dawnwalker's timer mechanic was a lot tougher, and it's because of all those pre-release complaints that it was made easier"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-time-mechanic-originally-stricter",
-          "titre": "The Blood of Dawnwalker's divisive time mechanic was once much stricter, but it was loosened because of \"fear\" around the game"
-        }
-      ]
-    },
-    {
-      "id": "my-greatest-gta-5-challenge-yet-random-teleports-every-50-se",
-      "titre": "My greatest GTA 5 challenge yet: Random teleports every 50 seconds",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/my-greatest-gta-5-challenge-yet-random-teleports-every-50-seconds/",
-      "sources": [
-        "PC Gamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 3.2,
+      "heures": 0.0,
       "chaleur": 9,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/my-greatest-gta-5-challenge-yet-random-teleports-every-50-seconds/",
-          "titre": "My greatest GTA 5 challenge yet: Random teleports every 50 seconds"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/wild-arms-successor-that-sony-rejected-has-been-cancelled-4-years-after-its-reveal",
+          "titre": "Wild Arms Successor That Sony Rejected Has Been Cancelled, 4 Years After Its Reveal"
         }
       ]
     },
@@ -204,7 +150,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.9,
+      "heures": 9.9,
       "chaleur": 9,
       "liens": [
         {
@@ -220,80 +166,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "discord-roll-out-revised-age-verification-following-delay-du",
-      "titre": "Discord roll out revised age verification following delay due to pushback, pledging to be \"safer for teens, same Discord for Adults\"",
-      "url": "https://www.rockpapershotgun.com/discord-roll-out-revised-age-verification-following-delay-due-to-pushback-pledging-to-be-safer-for-teens-same-discord-for-adults",
+      "id": "undead-labs-makes-significant-layoffs-after-splitting-from-x",
+      "titre": "Undead Labs makes 'significant' layoffs after splitting from Xbox",
+      "url": "https://www.gamedeveloper.com/business/undead-labs-makes-significant-layoffs-after-splitting-from-xbox",
       "sources": [
-        "GamesIndustry.biz",
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 35.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/undead-labs-makes-significant-layoffs-after-splitting-from-xbox",
+          "titre": "Undead Labs makes 'significant' layoffs after splitting from Xbox"
+        }
+      ]
+    },
+    {
+      "id": "once-upon-a-time-the-blood-of-dawnwalker-s-timer-mechanic-wa",
+      "titre": "Once upon a time The Blood of Dawnwalker's timer mechanic was a lot tougher, and it's because of all those pre-release complaints that it was made easier",
+      "url": "https://www.rockpapershotgun.com/once-upon-a-time-the-blood-of-dawnwalkers-timer-mechanic-was-a-lot-tougher-and-its-because-of-all-those-pre-release-complaints-that-it-was-made-easier",
+      "sources": [
+        "Eurogamer",
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 8.4,
-      "chaleur": 9,
+      "heures": 4.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/discord-roll-out-revised-age-verification-following-delay-due-to-pushback-pledging-to-be-safer-for-teens-same-discord-for-adults",
-          "titre": "Discord roll out revised age verification following delay due to pushback, pledging to be \"safer for teens, same Discord for Adults\""
+          "url": "https://www.rockpapershotgun.com/once-upon-a-time-the-blood-of-dawnwalkers-timer-mechanic-was-a-lot-tougher-and-its-because-of-all-those-pre-release-complaints-that-it-was-made-easier",
+          "titre": "Once upon a time The Blood of Dawnwalker's timer mechanic was a lot tougher, and it's because of all those pre-release complaints that it was made easier"
         },
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/discord-re-launches-age-verification-following-backlash-over-privacy-concerns",
-          "titre": "Discord re-launches age verification following backlash over privacy concerns"
-        }
-      ]
-    },
-    {
-      "id": "feature-xbox-is-disappearing-into-activision-and-bethesda-so",
-      "titre": "Feature: Xbox Is Disappearing into Activision and Bethesda, So What Does That Mean for PS5?",
-      "url": "https://www.pushsquare.com/news/2026/09/xbox-is-disappearing-into-activision-and-bethesda-so-what-does-that-mean-for-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/xbox-is-disappearing-into-activision-and-bethesda-so-what-does-that-mean-for-ps5",
-          "titre": "Feature: Xbox Is Disappearing into Activision and Bethesda, So What Does That Mean for PS5?"
-        }
-      ]
-    },
-    {
-      "id": "oh-the-places-you-ll-game-aerospace-engineers-use-steam-deck",
-      "titre": "Oh, the places you'll game: Aerospace engineers use Steam Deck to steer Mars rover prototype",
-      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/oh-the-places-youll-game-aerospace-engineers-use-steam-deck-to-steer-mars-rover-prototype/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/oh-the-places-youll-game-aerospace-engineers-use-steam-deck-to-steer-mars-rover-prototype/",
-          "titre": "Oh, the places you'll game: Aerospace engineers use Steam Deck to steer Mars rover prototype"
-        }
-      ]
-    },
-    {
-      "id": "it-genuinely-breaks-my-heart-confusion-and-frustration-reig",
-      "titre": "\"It genuinely breaks my heart\"- Confusion and frustration reign as gaming communities react to Xbox's drastic restructuring this week",
-      "url": "https://www.eurogamer.net/community-reaction-xbox-restructuring-rare-ninja-theory-obsidian",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 8,
-      "liens": [
-        {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/community-reaction-xbox-restructuring-rare-ninja-theory-obsidian",
-          "titre": "\"It genuinely breaks my heart\"- Confusion and frustration reign as gaming communities react to Xbox's drastic restructuring this week"
+          "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-time-mechanic-originally-stricter",
+          "titre": "The Blood of Dawnwalker's divisive time mechanic was once much stricter, but it was loosened because of \"fear\" around the game"
         }
       ]
     },
@@ -305,7 +215,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 6.0,
       "chaleur": 7,
       "liens": [
         {
@@ -323,7 +233,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.8,
       "chaleur": 7,
       "liens": [
         {
@@ -341,7 +251,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.6,
       "chaleur": 7,
       "liens": [
         {
@@ -359,7 +269,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.8,
       "chaleur": 7,
       "liens": [
         {
@@ -532,6 +442,168 @@ const VEILLE = {
       ]
     },
     {
+      "id": "hooked-on-the-brothers",
+      "titre": "Hooked on the brothers",
+      "url": "https://www.pcgamer.com/games/hooked-on-the-brothers/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/hooked-on-the-brothers/",
+          "titre": "Hooked on the brothers"
+        }
+      ]
+    },
+    {
+      "id": "love-alt-delete-is-a-y2k-horror-visual-novel-where-you-use-o",
+      "titre": "LOVE alt delete is a Y2K horror visual novel where you use one AI chatbot to help you date another that, don't worry, doesn't use the nasty generative stuff",
+      "url": "https://www.rockpapershotgun.com/love-alt-delete-is-a-y2k-horror-visual-novel-where-you-use-one-ai-chatbot-to-help-you-date-another-that-dont-worry-doesnt-use-the-nasty-generative-stuff",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/love-alt-delete-is-a-y2k-horror-visual-novel-where-you-use-one-ai-chatbot-to-help-you-date-another-that-dont-worry-doesnt-use-the-nasty-generative-stuff",
+          "titre": "LOVE alt delete is a Y2K horror visual novel where you use one AI chatbot to help you date another that, don't worry, doesn't use the nasty generative stuff"
+        }
+      ]
+    },
+    {
+      "id": "call-of-duty-cosmetic-toggle-will-cleanse-warzone-of-its-par",
+      "titre": "Call of Duty 'cosmetic toggle' will cleanse Warzone of its Party City aesthetic",
+      "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-cosmetic-toggle-will-cleanse-warzone-of-its-party-city-aesthetic/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-cosmetic-toggle-will-cleanse-warzone-of-its-party-city-aesthetic/",
+          "titre": "Call of Duty 'cosmetic toggle' will cleanse Warzone of its Party City aesthetic"
+        }
+      ]
+    },
+    {
+      "id": "cool-demo-alert-be-a-cyberpunk-shopkeeper-in-probably-stolen",
+      "titre": "Cool demo alert: be a cyberpunk shopkeeper in Probably Stolen",
+      "url": "https://www.pcgamer.com/games/sim/cool-demo-alert-be-a-cyberpunk-shopkeeper-in-probably-stolen/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/cool-demo-alert-be-a-cyberpunk-shopkeeper-in-probably-stolen/",
+          "titre": "Cool demo alert: be a cyberpunk shopkeeper in Probably Stolen"
+        }
+      ]
+    },
+    {
+      "id": "8-strong-elder-scrolls-opinions-with-over-2-500-combined-hou",
+      "titre": "8 strong Elder Scrolls opinions: With over 2,500 combined hours (and not all as stealth archers), we shout at each other about Skyrim, Morrowind, and Oblivion",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/8-strong-elder-scrolls-opinions-with-over-2-500-combined-hours-and-not-all-as-stealth-archers-we-shout-at-each-other-about-skyrim-morrowind-and-oblivion/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/8-strong-elder-scrolls-opinions-with-over-2-500-combined-hours-and-not-all-as-stealth-archers-we-shout-at-each-other-about-skyrim-morrowind-and-oblivion/",
+          "titre": "8 strong Elder Scrolls opinions: With over 2,500 combined hours (and not all as stealth archers), we shout at each other about Skyrim, Morrowind, and Oblivion"
+        }
+      ]
+    },
+    {
+      "id": "the-best-valheim-mods-for-no-nonsense-crafting-portable-buil",
+      "titre": "The best Valheim mods for no-nonsense crafting, portable building plans, and more RNG sightseeing",
+      "url": "https://www.pcgamer.com/games/survival-crafting/best-valheim-mods/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/best-valheim-mods/",
+          "titre": "The best Valheim mods for no-nonsense crafting, portable building plans, and more RNG sightseeing"
+        }
+      ]
+    },
+    {
+      "id": "thief-2-remastered-should-be-thief-2-gold",
+      "titre": "Thief 2 Remastered should be Thief 2 Gold",
+      "url": "https://www.pcgamer.com/games/thief-2-remastered-should-be-thief-2-gold/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/thief-2-remastered-should-be-thief-2-gold/",
+          "titre": "Thief 2 Remastered should be Thief 2 Gold"
+        }
+      ]
+    },
+    {
+      "id": "my-first-mmo-character-5-fraser-brown",
+      "titre": "My first MMO character #5: Fraser Brown",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-5-fraser-brown/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-5-fraser-brown/",
+          "titre": "My first MMO character #5: Fraser Brown"
+        }
+      ]
+    },
+    {
+      "id": "i-definitely-suck-at-iron-bramble-s-metroidvania-grappling-h",
+      "titre": "I definitely suck at Iron Bramble's metroidvania grappling hook platforming, but its cyber-gothic megastructure world has me hungry for more",
+      "url": "https://www.rockpapershotgun.com/i-definitely-suck-at-iron-brambles-metroidvania-grappling-hook-platforming-but-its-cyber-gothic-megastructure-world-has-me-hungry-for-more",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/i-definitely-suck-at-iron-brambles-metroidvania-grappling-hook-platforming-but-its-cyber-gothic-megastructure-world-has-me-hungry-for-more",
+          "titre": "I definitely suck at Iron Bramble's metroidvania grappling hook platforming, but its cyber-gothic megastructure world has me hungry for more"
+        }
+      ]
+    },
+    {
       "id": "after-mainlining-30-hours-of-1440p-bloodborne-i-know-in-my-h",
       "titre": "After mainlining 30 hours of 1440p Bloodborne, I know in my heart it belongs on PC",
       "url": "https://www.pcgamer.com/games/after-mainlining-30-hours-of-1440p-bloodborne-i-know-in-my-heart-it-belongs-on-pc/",
@@ -539,7 +611,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.0,
       "chaleur": 6,
       "liens": [
         {
@@ -557,7 +629,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -575,7 +647,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -593,7 +665,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
@@ -611,7 +683,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -629,7 +701,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -647,7 +719,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -665,7 +737,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -683,7 +755,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
@@ -694,110 +766,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-love-modders",
-      "titre": "I love modders",
-      "url": "https://www.pcgamer.com/games/i-love-modders-skyrim-thinking-animation-for-shoppers/",
+      "id": "feature-xbox-is-disappearing-into-activision-and-bethesda-so",
+      "titre": "Feature: Xbox Is Disappearing into Activision and Bethesda, So What Does That Mean for PS5?",
+      "url": "https://www.pushsquare.com/news/2026/09/xbox-is-disappearing-into-activision-and-bethesda-so-what-does-that-mean-for-ps5",
       "sources": [
-        "PC Gamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.1,
+      "heures": 5.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/i-love-modders-skyrim-thinking-animation-for-shoppers/",
-          "titre": "I love modders"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/xbox-is-disappearing-into-activision-and-bethesda-so-what-does-that-mean-for-ps5",
+          "titre": "Feature: Xbox Is Disappearing into Activision and Bethesda, So What Does That Mean for PS5?"
         }
       ]
     },
     {
-      "id": "hands-on-viture-pro-2-xr-glasses-big-screen-on-a-budget",
-      "titre": "Hands On: Viture Pro 2 XR Glasses - Big-Screen On A Budget",
-      "url": "https://www.nintendolife.com/features/hands-on-viture-pro-2-xr-glasses-big-screen-on-a-budget",
+      "id": "it-genuinely-breaks-my-heart-confusion-and-frustration-reig",
+      "titre": "\"It genuinely breaks my heart\"- Confusion and frustration reign as gaming communities react to Xbox's drastic restructuring this week",
+      "url": "https://www.eurogamer.net/community-reaction-xbox-restructuring-rare-ninja-theory-obsidian",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 5.7,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/hands-on-viture-pro-2-xr-glasses-big-screen-on-a-budget",
-          "titre": "Hands On: Viture Pro 2 XR Glasses - Big-Screen On A Budget"
-        }
-      ]
-    },
-    {
-      "id": "the-video-game-history-foundation-is-scanning-japanese-magaz",
-      "titre": "The Video Game History Foundation is scanning Japanese magazines now",
-      "url": "https://www.pcgamer.com/gaming-industry/the-video-game-history-foundation-is-scanning-japanese-magazines-now/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/the-video-game-history-foundation-is-scanning-japanese-magazines-now/",
-          "titre": "The Video Game History Foundation is scanning Japanese magazines now"
-        }
-      ]
-    },
-    {
-      "id": "control-resonant-is-only-just-out-of-the-door-and-remedy-hav",
-      "titre": "Control: Resonant is only just out of the door, and Remedy have already put out a hotfix with some stun-buffing combat tweaks and more",
-      "url": "https://www.rockpapershotgun.com/control-resonant-is-only-just-out-of-the-door-and-remedy-have-already-put-out-a-hotfix-with-some-stun-buffing-combat-tweaks-and-more",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/control-resonant-is-only-just-out-of-the-door-and-remedy-have-already-put-out-a-hotfix-with-some-stun-buffing-combat-tweaks-and-more",
-          "titre": "Control: Resonant is only just out of the door, and Remedy have already put out a hotfix with some stun-buffing combat tweaks and more"
-        }
-      ]
-    },
-    {
-      "id": "former-avalanche-studios-chief-natalie-francis-joins-massive",
-      "titre": "Former Avalanche Studios chief Natalie Francis joins Massive Entertainment as managing director",
-      "url": "https://www.gamedeveloper.com/business/former-avalanche-studios-chief-natalie-francis-joins-massive-entertainment-as-managing-director",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/former-avalanche-studios-chief-natalie-francis-joins-massive-entertainment-as-managing-director",
-          "titre": "Former Avalanche Studios chief Natalie Francis joins Massive Entertainment as managing director"
-        }
-      ]
-    },
-    {
-      "id": "i-cannot-believe-this-obscure-mmo-from-my-childhood-is-still",
-      "titre": "I cannot believe this obscure MMO from my childhood is still going 23 years later",
-      "url": "https://www.pcgamer.com/games/mmo/i-cannot-believe-this-obscure-mmo-from-my-childhood-is-still-going-23-years-later/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/i-cannot-believe-this-obscure-mmo-from-my-childhood-is-still-going-23-years-later/",
-          "titre": "I cannot believe this obscure MMO from my childhood is still going 23 years later"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/community-reaction-xbox-restructuring-rare-ninja-theory-obsidian",
+          "titre": "\"It genuinely breaks my heart\"- Confusion and frustration reign as gaming communities react to Xbox's drastic restructuring this week"
         }
       ]
     },
@@ -809,7 +809,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.1,
       "chaleur": 6,
       "liens": [
         {
@@ -827,7 +827,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.5,
       "chaleur": 6,
       "liens": [
         {
@@ -845,13 +845,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/rumour-zelda-movie-rumblings-suggest-a-first-trailer-might-be-around-the-corner",
           "titre": "Rumour: Zelda Movie Rumblings Suggest A First Trailer Might Be Around The Corner"
+        }
+      ]
+    },
+    {
+      "id": "discord-roll-out-revised-age-verification-following-delay-du",
+      "titre": "Discord roll out revised age verification following delay due to pushback, pledging to be \"safer for teens, same Discord for Adults\"",
+      "url": "https://www.rockpapershotgun.com/discord-roll-out-revised-age-verification-following-delay-due-to-pushback-pledging-to-be-safer-for-teens-same-discord-for-adults",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 10.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/discord-roll-out-revised-age-verification-following-delay-due-to-pushback-pledging-to-be-safer-for-teens-same-discord-for-adults",
+          "titre": "Discord roll out revised age verification following delay due to pushback, pledging to be \"safer for teens, same Discord for Adults\""
         }
       ]
     },
@@ -863,7 +881,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.3,
       "chaleur": 6,
       "liens": [
         {
@@ -881,7 +899,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 10.8,
       "chaleur": 6,
       "liens": [
         {
@@ -899,7 +917,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 10.8,
       "chaleur": 6,
       "liens": [
         {
@@ -917,7 +935,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.1,
       "chaleur": 6,
       "liens": [
         {
@@ -935,31 +953,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/1080d-snowboarding-had-a-ton-of-questionable-stuff-removed-says-veteran-nintendo-producer",
           "titre": "1080° Snowboarding Had \"A Ton Of Questionable Stuff\" Removed, Says Veteran Nintendo Producer"
-        }
-      ]
-    },
-    {
-      "id": "the-day-before-ea-sports-fc-27-is-released-konami-s-switch-2",
-      "titre": "The day before EA Sports FC 27 is released, Konami’s Switch 2 rival eFootball Kick-Off gets a major new update",
-      "url": "https://www.videogameschronicle.com/news/the-day-before-ea-sports-fc-27-is-released-konamis-switch-2-rival-efootball-kick-off-gets-a-major-new-update/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-day-before-ea-sports-fc-27-is-released-konamis-switch-2-rival-efootball-kick-off-gets-a-major-new-update/",
-          "titre": "The day before EA Sports FC 27 is released, Konami’s Switch 2 rival eFootball Kick-Off gets a major new update"
         }
       ]
     },
@@ -971,7 +971,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.8,
       "chaleur": 6,
       "liens": [
         {
@@ -989,7 +989,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 30.4,
+      "heures": 32.4,
       "chaleur": 6,
       "liens": [
         {
@@ -1007,13 +1007,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.0,
+      "heures": 33.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/halo-studios-closure-xbox-cuts-kiki-wolfkill-bonnie-ross",
           "titre": "Former Halo leaders lament effective closure of Halo Studios, as one employee finds themselves promoted and fired in same week"
+        }
+      ]
+    },
+    {
+      "id": "the-day-before-ea-sports-fc-27-is-released-konami-s-switch-2",
+      "titre": "The day before EA Sports FC 27 is released, Konami’s Switch 2 rival eFootball Kick-Off gets a major new update",
+      "url": "https://www.videogameschronicle.com/news/the-day-before-ea-sports-fc-27-is-released-konamis-switch-2-rival-efootball-kick-off-gets-a-major-new-update/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 12.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-day-before-ea-sports-fc-27-is-released-konamis-switch-2-rival-efootball-kick-off-gets-a-major-new-update/",
+          "titre": "The day before EA Sports FC 27 is released, Konami’s Switch 2 rival eFootball Kick-Off gets a major new update"
         }
       ]
     },
@@ -1025,7 +1043,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 5,
       "liens": [
         {
@@ -1043,7 +1061,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.9,
+      "heures": 22.8,
       "chaleur": 5,
       "liens": [
         {
@@ -1061,7 +1079,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.4,
       "chaleur": 5,
       "liens": [
         {
@@ -1079,7 +1097,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.6,
+      "heures": 30.6,
       "chaleur": 5,
       "liens": [
         {
@@ -1097,49 +1115,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 29.2,
+      "heures": 31.2,
       "chaleur": 5,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year",
           "titre": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year"
-        }
-      ]
-    },
-    {
-      "id": "beloved-cockney-orc-lord-of-the-rings-games-shadow-of-mordor",
-      "titre": "Beloved cockney-orc Lord of the Rings games Shadow of Mordor and Shadow of War finally make their way to Switch 2",
-      "url": "https://www.eurogamer.net/lord-of-the-rings-shadow-of-mordor-war-switch-2",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 30.0,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/lord-of-the-rings-shadow-of-mordor-war-switch-2",
-          "titre": "Beloved cockney-orc Lord of the Rings games Shadow of Mordor and Shadow of War finally make their way to Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13",
-      "titre": "Sensor Tower: PC and PlayStation unit sales in Japan rise 13% to 21m during H1 2026, led by Resident Evil Requiem",
-      "url": "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 31.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem",
-          "titre": "Sensor Tower: PC and PlayStation unit sales in Japan rise 13% to 21m during H1 2026, led by Resident Evil Requiem"
         }
       ]
     }
