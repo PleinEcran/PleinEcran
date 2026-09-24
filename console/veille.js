@@ -1,47 +1,65 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "24/09/2026 à 10h21",
+  "collecte": "24/09/2026 à 12h25",
   "seuil": 14,
   "sujets": [
     {
-      "id": "undead-labs-makes-significant-layoffs-after-splitting-from-x",
-      "titre": "Undead Labs makes 'significant' layoffs after splitting from Xbox",
-      "url": "https://www.gamedeveloper.com/business/undead-labs-makes-significant-layoffs-after-splitting-from-xbox",
+      "id": "bethesda-say-new-underlings-obsidian-will-retain-their-disti",
+      "titre": "Bethesda say new underlings Obsidian will retain their \"distinct\" creative identity, despite no longer being as free to work on their own creatively distinct series",
+      "url": "https://www.rockpapershotgun.com/bethesda-say-new-underlings-obsidian-will-retain-their-distinct-creative-identity-despite-no-longer-being-as-free-to-work-on-their-own-creatively-distinct-series",
       "sources": [
         "Eurogamer",
         "Game Developer",
         "GamesIndustry.biz",
-        "Push Square",
         "Rock Paper Shotgun"
       ],
-      "reprises": 5,
-      "heures": 23.0,
-      "chaleur": 20,
+      "reprises": 4,
+      "heures": 1.4,
+      "chaleur": 17,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/undead-labs-makes-significant-layoffs-after-splitting-from-xbox",
-          "titre": "Undead Labs makes 'significant' layoffs after splitting from Xbox"
-        },
-        {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/state-of-decay-3-studio-undead-labs-lay-off-a-significant-number-of-exceptionally-talented-developers-after-gaining-independence-from-xbox",
-          "titre": "State of Decay 3 studio Undead Labs lay off \"a significant number\" of \"exceptionally talented developers\" after gaining independence from Xbox"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/undead-labs-independent-xbox-restructuring-state-of-decay",
-          "titre": "State of Decay studio Undead Labs goes independent after Xbox restructuring, but lays off \"a significant number\" of the team in doing so"
+          "url": "https://www.rockpapershotgun.com/bethesda-say-new-underlings-obsidian-will-retain-their-distinct-creative-identity-despite-no-longer-being-as-free-to-work-on-their-own-creatively-distinct-series",
+          "titre": "Bethesda say new underlings Obsidian will retain their \"distinct\" creative identity, despite no longer being as free to work on their own creatively distinct series"
         },
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/undead-labs-confirms-it-is-now-an-employee-owned-studio",
-          "titre": "Undead Labs confirms it is now an \"employee-owned studio\", a \"significant number\" of employees face layoffs"
+          "url": "https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
+          "titre": "Bethesda boss confirms Obsidian will remain a \"distinct\" team"
         },
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/state-of-decay-3-dev-hit-with-significant-layoffs-after-going-independent",
-          "titre": "State of Decay 3 Dev Hit with 'Significant' Layoffs After Going Independent"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
+          "titre": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/obsidian-creative-identity-bethesda-fallout-xbox-restructuring",
+          "titre": "Obsidian's \"creative identity and strengths\" will remain intact, promises Bethesda, as it takes control of Fallout: New Vegas studio"
+        }
+      ]
+    },
+    {
+      "id": "quake-champions-ditches-free-to-play-and-kills-off-its-micro",
+      "titre": "Quake Champions ditches free-to-play and kills off its Microsoft Store version eight years after its original release",
+      "url": "https://www.eurogamer.net/quake-champions-free-to-play-removed-now-paid",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 0.5,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/quake-champions-free-to-play-removed-now-paid",
+          "titre": "Quake Champions ditches free-to-play and kills off its Microsoft Store version eight years after its original release"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/following-id-layoffs-quake-champions-drops-free-to-play-nonsense-and-becomes-a-9-game-on-steam",
+          "titre": "Following id layoffs, Quake Champions drops free-to-play nonsense and becomes a £9 game on Steam"
         }
       ]
     },
@@ -54,7 +72,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 5.9,
+      "heures": 8.0,
       "chaleur": 14,
       "liens": [
         {
@@ -70,6 +88,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "undead-labs-makes-significant-layoffs-after-splitting-from-x",
+      "titre": "Undead Labs makes 'significant' layoffs after splitting from Xbox",
+      "url": "https://www.gamedeveloper.com/business/undead-labs-makes-significant-layoffs-after-splitting-from-xbox",
+      "sources": [
+        "Game Developer",
+        "GamesIndustry.biz",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 25.1,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/undead-labs-makes-significant-layoffs-after-splitting-from-xbox",
+          "titre": "Undead Labs makes 'significant' layoffs after splitting from Xbox"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/state-of-decay-3-studio-undead-labs-lay-off-a-significant-number-of-exceptionally-talented-developers-after-gaining-independence-from-xbox",
+          "titre": "State of Decay 3 studio Undead Labs lay off \"a significant number\" of \"exceptionally talented developers\" after gaining independence from Xbox"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/undead-labs-confirms-it-is-now-an-employee-owned-studio",
+          "titre": "Undead Labs confirms it is now an \"employee-owned studio\", a \"significant number\" of employees face layoffs"
+        }
+      ]
+    },
+    {
       "id": "age-of-empires-developer-world-s-edge-hit-with-layoffs-follo",
       "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision",
       "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
@@ -78,7 +126,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 20.4,
+      "heures": 22.5,
       "chaleur": 13,
       "liens": [
         {
@@ -94,50 +142,80 @@ const VEILLE = {
       ]
     },
     {
-      "id": "following-id-layoffs-quake-champions-drops-free-to-play-nons",
-      "titre": "Following id layoffs, Quake Champions drops free-to-play nonsense and becomes a £9 game on Steam",
-      "url": "https://www.rockpapershotgun.com/following-id-layoffs-quake-champions-drops-free-to-play-nonsense-and-becomes-a-9-game-on-steam",
+      "id": "discord-roll-out-revised-age-verification-following-delay-du",
+      "titre": "Discord roll out revised age verification following delay due to pushback, pledging to be \"safer for teens, same Discord for Adults\"",
+      "url": "https://www.rockpapershotgun.com/discord-roll-out-revised-age-verification-following-delay-due-to-pushback-pledging-to-be-safer-for-teens-same-discord-for-adults",
       "sources": [
+        "GamesIndustry.biz",
         "Rock Paper Shotgun"
       ],
-      "reprises": 1,
-      "heures": 1.0,
+      "reprises": 2,
+      "heures": 0.4,
       "chaleur": 11,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/following-id-layoffs-quake-champions-drops-free-to-play-nonsense-and-becomes-a-9-game-on-steam",
-          "titre": "Following id layoffs, Quake Champions drops free-to-play nonsense and becomes a £9 game on Steam"
+          "url": "https://www.rockpapershotgun.com/discord-roll-out-revised-age-verification-following-delay-due-to-pushback-pledging-to-be-safer-for-teens-same-discord-for-adults",
+          "titre": "Discord roll out revised age verification following delay due to pushback, pledging to be \"safer for teens, same Discord for Adults\""
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/discord-re-launches-age-verification-following-backlash-over-privacy-concerns",
+          "titre": "Discord re-launches age verification following backlash over privacy concerns"
         }
       ]
     },
     {
-      "id": "resident-evil-film-producer-turns-to-new-silent-hill-movie-r",
-      "titre": "Resident Evil Film Producer Turns to New Silent Hill Movie, Report Claims",
-      "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-producer-turns-to-new-silent-hill-movie-report-claims",
+      "id": "xbox-s-version-of-playstation-s-platinum-trophy-achievement",
+      "titre": "Xbox's version of PlayStation's Platinum Trophy achievement seems to leak, and it's got a sound-effect that's 15 seconds long",
+      "url": "https://www.eurogamer.net/xbox-mythic-platinum-achievement",
       "sources": [
-        "Eurogamer",
-        "Push Square",
-        "VGC"
+        "Eurogamer"
       ],
-      "reprises": 3,
-      "heures": 22.4,
-      "chaleur": 11,
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-producer-turns-to-new-silent-hill-movie-report-claims",
-          "titre": "Resident Evil Film Producer Turns to New Silent Hill Movie, Report Claims"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-producer-of-zach-creggers-resident-evil-and-weapons-is-reportedly-working-on-a-new-silent-hill-film/",
-          "titre": "The producer of Zach Cregger’s Resident Evil and Weapons is reportedly working on a new Silent Hill film"
-        },
-        {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/resident-evil-movie-review",
-          "titre": "Resident Evil movie review - the best video game adaptation of playing a video game"
+          "url": "https://www.eurogamer.net/xbox-mythic-platinum-achievement",
+          "titre": "Xbox's version of PlayStation's Platinum Trophy achievement seems to leak, and it's got a sound-effect that's 15 seconds long"
+        }
+      ]
+    },
+    {
+      "id": "bethesda-says-that-obsidian-s-creative-identity-will-be-pres",
+      "titre": "Bethesda says that Obsidian's 'creative identity' will be preserved, just months after multiple projects were cancelled and it was told to make a Fallout game",
+      "url": "https://www.pcgamer.com/gaming-industry/bethesda-says-that-obsidians-creative-identity-will-be-preserved-just-months-after-multiple-projects-were-cancelled-and-it-was-told-to-make-a-fallout-game/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/bethesda-says-that-obsidians-creative-identity-will-be-preserved-just-months-after-multiple-projects-were-cancelled-and-it-was-told-to-make-a-fallout-game/",
+          "titre": "Bethesda says that Obsidian's 'creative identity' will be preserved, just months after multiple projects were cancelled and it was told to make a Fallout game"
+        }
+      ]
+    },
+    {
+      "id": "after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gt",
+      "titre": "After eighteen years of jaggedy bowling, a new mod bestows GTA 4 with DLSS and FSR support",
+      "url": "https://www.rockpapershotgun.com/after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gta-4-with-dlss-and-fsr-support",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gta-4-with-dlss-and-fsr-support",
+          "titre": "After eighteen years of jaggedy bowling, a new mod bestows GTA 4 with DLSS and FSR support"
         }
       ]
     },
@@ -150,7 +228,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 0.6,
+      "heures": 2.7,
       "chaleur": 9,
       "liens": [
         {
@@ -166,6 +244,96 @@ const VEILLE = {
       ]
     },
     {
+      "id": "mini-review-dragon-quest-xi-s-echoes-of-an-elusive-age-defin",
+      "titre": "Mini Review: DRAGON QUEST XI S: Echoes Of An Elusive Age - Definitive Edition (Switch 2) - Square Enix Needs To Get With The Upgrade Path Program",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition",
+          "titre": "Mini Review: DRAGON QUEST XI S: Echoes Of An Elusive Age - Definitive Edition (Switch 2) - Square Enix Needs To Get With The Upgrade Path Program"
+        }
+      ]
+    },
+    {
+      "id": "quick-switch-2-consoles-have-just-been-heavily-discounted-in",
+      "titre": "Quick! Switch 2 Consoles Have Just Been Heavily Discounted In The UK",
+      "url": "https://www.nintendolife.com/news/2026/09/quick-switch-2-consoles-have-just-been-heavily-discounted-in-the-uk",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/quick-switch-2-consoles-have-just-been-heavily-discounted-in-the-uk",
+          "titre": "Quick! Switch 2 Consoles Have Just Been Heavily Discounted In The UK"
+        }
+      ]
+    },
+    {
+      "id": "steam-frame-ready-vr-rhythm-game-beat-saber-is-adding-hand-t",
+      "titre": "Steam Frame-ready VR rhythm game Beat Saber is adding hand-tracking and a punchy new mode in its \"biggest update ever\"",
+      "url": "https://www.rockpapershotgun.com/steam-frame-ready-vr-rhythm-game-beat-saber-is-adding-hand-tracking-and-a-punchy-new-mode-in-its-biggest-update-ever",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/steam-frame-ready-vr-rhythm-game-beat-saber-is-adding-hand-tracking-and-a-punchy-new-mode-in-its-biggest-update-ever",
+          "titre": "Steam Frame-ready VR rhythm game Beat Saber is adding hand-tracking and a punchy new mode in its \"biggest update ever\""
+        }
+      ]
+    },
+    {
+      "id": "one-of-the-switch-s-most-underrated-gems-is-now-free-for-swi",
+      "titre": "One Of The Switch's Most Underrated Gems Is Now Free For Switch Online Users",
+      "url": "https://www.nintendolife.com/news/2026/09/one-of-the-switchs-most-underrated-gems-is-now-free-for-switch-online-users",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/one-of-the-switchs-most-underrated-gems-is-now-free-for-switch-online-users",
+          "titre": "One Of The Switch's Most Underrated Gems Is Now Free For Switch Online Users"
+        }
+      ]
+    },
+    {
+      "id": "1080-snowboarding-had-a-ton-of-questionable-stuff-removed-sa",
+      "titre": "1080° Snowboarding Had \"A Ton Of Questionable Stuff\" Removed, Says Veteran Nintendo Producer",
+      "url": "https://www.nintendolife.com/news/2026/09/1080d-snowboarding-had-a-ton-of-questionable-stuff-removed-says-veteran-nintendo-producer",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/1080d-snowboarding-had-a-ton-of-questionable-stuff-removed-says-veteran-nintendo-producer",
+          "titre": "1080° Snowboarding Had \"A Ton Of Questionable Stuff\" Removed, Says Veteran Nintendo Producer"
+        }
+      ]
+    },
+    {
       "id": "the-day-before-ea-sports-fc-27-is-released-konami-s-switch-2",
       "titre": "The day before EA Sports FC 27 is released, Konami’s Switch 2 rival eFootball Kick-Off gets a major new update",
       "url": "https://www.videogameschronicle.com/news/the-day-before-ea-sports-fc-27-is-released-konamis-switch-2-rival-efootball-kick-off-gets-a-major-new-update/",
@@ -173,31 +341,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.5,
       "chaleur": 8,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/the-day-before-ea-sports-fc-27-is-released-konamis-switch-2-rival-efootball-kick-off-gets-a-major-new-update/",
           "titre": "The day before EA Sports FC 27 is released, Konami’s Switch 2 rival eFootball Kick-Off gets a major new update"
-        }
-      ]
-    },
-    {
-      "id": "microsoft-files-patent-for-ad-credit-system-to-show-ads-on-p",
-      "titre": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay",
-      "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
-          "titre": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay"
         }
       ]
     },
@@ -210,7 +360,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 13.5,
+      "heures": 15.5,
       "chaleur": 8,
       "liens": [
         {
@@ -226,26 +376,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "discord-launches-controversial-age-verification-system-using",
-      "titre": "Discord launches controversial age-verification system \"using the most privacy-preserving approach we could build\" months after first delay",
-      "url": "https://www.eurogamer.net/discord-controversial-age-verification-privacy-preserving",
+      "id": "resident-evil-film-producer-turns-to-new-silent-hill-movie-r",
+      "titre": "Resident Evil Film Producer Turns to New Silent Hill Movie, Report Claims",
+      "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-producer-turns-to-new-silent-hill-movie-report-claims",
       "sources": [
         "Eurogamer",
-        "GamesIndustry.biz"
+        "Push Square"
       ],
       "reprises": 2,
-      "heures": 15.4,
+      "heures": 24.4,
       "chaleur": 8,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/discord-controversial-age-verification-privacy-preserving",
-          "titre": "Discord launches controversial age-verification system \"using the most privacy-preserving approach we could build\" months after first delay"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-producer-turns-to-new-silent-hill-movie-report-claims",
+          "titre": "Resident Evil Film Producer Turns to New Silent Hill Movie, Report Claims"
         },
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/discord-re-launches-age-verification-following-backlash-over-privacy-concerns",
-          "titre": "Discord re-launches age verification following backlash over privacy concerns"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/resident-evil-movie-review",
+          "titre": "Resident Evil movie review - the best video game adaptation of playing a video game"
         }
       ]
     },
@@ -257,7 +407,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.9,
       "chaleur": 7,
       "liens": [
         {
@@ -466,20 +616,128 @@ const VEILLE = {
       ]
     },
     {
-      "id": "pax-east",
-      "titre": "PAX East",
-      "url": "https://www.gamedeveloper.com/series/pax-east",
+      "id": "return-to-old-school-ps2-musou-with-dynasty-warriors-3-remas",
+      "titre": "Return to Old School PS2 Musou with Dynasty Warriors 3 Remastered's Demo, Out Now on PS5",
+      "url": "https://www.pushsquare.com/news/2026/09/return-to-old-school-ps2-musou-with-dynasty-warriors-3-remastereds-demo-out-now-on-ps5",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/return-to-old-school-ps2-musou-with-dynasty-warriors-3-remastereds-demo-out-now-on-ps5",
+          "titre": "Return to Old School PS2 Musou with Dynasty Warriors 3 Remastered's Demo, Out Now on PS5"
+        }
+      ]
+    },
+    {
+      "id": "righting-old-wrongs-mobygames-on-letting-developers-claim-ga",
+      "titre": "Righting old wrongs: MobyGames on letting developers claim games they weren't credited for",
+      "url": "https://www.gamesindustry.biz/righting-old-wrongs-mobygames-on-letting-developers-claim-games-they-werent-credited-for",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/righting-old-wrongs-mobygames-on-letting-developers-claim-games-they-werent-credited-for",
+          "titre": "Righting old wrongs: MobyGames on letting developers claim games they weren't credited for"
+        }
+      ]
+    },
+    {
+      "id": "capcom-announces-a-new-ace-attorney-game-but-it-s-a-vr-remak",
+      "titre": "Capcom announces a new Ace Attorney game, but it’s a VR remake instead of an entirely new adventure",
+      "url": "https://www.videogameschronicle.com/news/capcom-announces-a-new-ace-attorney-game-but-its-a-vr-remake-instead-of-an-entirely-new-adventure/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/capcom-announces-a-new-ace-attorney-game-but-its-a-vr-remake-instead-of-an-entirely-new-adventure/",
+          "titre": "Capcom announces a new Ace Attorney game, but it’s a VR remake instead of an entirely new adventure"
+        }
+      ]
+    },
+    {
+      "id": "irish-game-fund-expands-with-additional-funding-pathways",
+      "titre": "Irish Game Fund expands with additional funding pathways",
+      "url": "https://www.gamedeveloper.com/business/irish-game-fund-expands-with-additional-funding-pathways",
       "sources": [
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 1.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/series/pax-east",
-          "titre": "PAX East"
+          "url": "https://www.gamedeveloper.com/business/irish-game-fund-expands-with-additional-funding-pathways",
+          "titre": "Irish Game Fund expands with additional funding pathways"
+        }
+      ]
+    },
+    {
+      "id": "razer-reclusa-x-mini-65-gaming-keyboard-review",
+      "titre": "Razer Reclusa X Mini 65% gaming keyboard review",
+      "url": "https://www.pcgamer.com/hardware/gaming-keyboards/razer-reclusa-x-mini-65-percent-review/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-keyboards/razer-reclusa-x-mini-65-percent-review/",
+          "titre": "Razer Reclusa X Mini 65% gaming keyboard review"
+        }
+      ]
+    },
+    {
+      "id": "i-applied-dlss-5-to-my-miku-hatsune-game-of-choice-and-i-hav",
+      "titre": "I applied DLSS 5 to my Miku Hatsune game of choice, and I have some regrets",
+      "url": "https://www.pcgamer.com/hardware/i-applied-dlss-5-to-my-miku-hatsune-game-of-choice-and-i-have-some-regrets/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/i-applied-dlss-5-to-my-miku-hatsune-game-of-choice-and-i-have-some-regrets/",
+          "titre": "I applied DLSS 5 to my Miku Hatsune game of choice, and I have some regrets"
+        }
+      ]
+    },
+    {
+      "id": "alienware-is-working-on-a-fix-for-the-one-thing-that-stops-i",
+      "titre": "Alienware is working on a fix for the one thing that stops its new 39-inch 5K2K OLED gaming monitor from being perfect",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/alienware-is-working-on-a-fix-for-the-one-thing-that-stops-its-new-39-inch-5k2k-oled-gaming-monitor-from-being-perfect/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-monitors/alienware-is-working-on-a-fix-for-the-one-thing-that-stops-its-new-39-inch-5k2k-oled-gaming-monitor-from-being-perfect/",
+          "titre": "Alienware is working on a fix for the one thing that stops its new 39-inch 5K2K OLED gaming monitor from being perfect"
         }
       ]
     },
@@ -491,7 +749,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -509,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -527,7 +785,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -545,7 +803,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -563,7 +821,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -574,62 +832,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "micropost-i-use-my-ring-finger-for-right-mouse-button-am-i-o",
-      "titre": "Micropost: I use my ring finger for right mouse button. Am I okay?",
-      "url": "https://www.pcgamer.com/games/micropost-i-use-my-ring-finger-for-right-mouse-button-am-i-okay/",
+      "id": "microsoft-files-patent-for-ad-credit-system-to-show-ads-on-p",
+      "titre": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay",
+      "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
       "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/micropost-i-use-my-ring-finger-for-right-mouse-button-am-i-okay/",
-          "titre": "Micropost: I use my ring finger for right mouse button. Am I okay?"
-        }
-      ]
-    },
-    {
-      "id": "stellar-blade-s-switch-2-release-will-include-a-frame-genera",
-      "titre": "Stellar Blade's Switch 2 Release Will Include A Frame Generation Toggle",
-      "url": "https://www.nintendolife.com/news/2026/09/stellar-blades-switch-2-release-will-include-a-frame-generation-toggle",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/stellar-blades-switch-2-release-will-include-a-frame-generation-toggle",
-          "titre": "Stellar Blade's Switch 2 Release Will Include A Frame Generation Toggle"
-        }
-      ]
-    },
-    {
-      "id": "bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
-      "titre": "Bethesda boss confirms Obsidian will remain a \"distinct\" team",
-      "url": "https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
-      "sources": [
-        "Eurogamer",
         "GamesIndustry.biz"
       ],
-      "reprises": 2,
-      "heures": 15.6,
+      "reprises": 1,
+      "heures": 4.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
-          "titre": "Bethesda boss confirms Obsidian will remain a \"distinct\" team"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/obsidian-creative-identity-bethesda-fallout-xbox-restructuring",
-          "titre": "Obsidian's \"creative identity and strengths\" will remain intact, promises Bethesda, as it takes control of Fallout: New Vegas studio"
+          "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
+          "titre": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay"
         }
       ]
     },
@@ -642,7 +858,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 17.0,
+      "heures": 19.1,
       "chaleur": 6,
       "liens": [
         {
@@ -665,7 +881,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.0,
+      "heures": 23.1,
       "chaleur": 6,
       "liens": [
         {
@@ -676,38 +892,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "zelda-ocarina-of-time-s-limited-edition-switch-2-cover-appar",
-      "titre": "Zelda: Ocarina Of Time's Limited Edition Switch 2 Cover Apparently Had One Retailer Trying To Double Its Orders",
-      "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-times-limited-edition-switch-2-cover-apparently-had-one-retailer-trying-to-double-its-orders",
+      "id": "stellar-blade-s-switch-2-release-will-include-a-frame-genera",
+      "titre": "Stellar Blade's Switch 2 Release Will Include A Frame Generation Toggle",
+      "url": "https://www.nintendolife.com/news/2026/09/stellar-blades-switch-2-release-will-include-a-frame-generation-toggle",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.4,
-      "chaleur": 6,
+      "heures": 12.9,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-times-limited-edition-switch-2-cover-apparently-had-one-retailer-trying-to-double-its-orders",
-          "titre": "Zelda: Ocarina Of Time's Limited Edition Switch 2 Cover Apparently Had One Retailer Trying To Double Its Orders"
+          "url": "https://www.nintendolife.com/news/2026/09/stellar-blades-switch-2-release-will-include-a-frame-generation-toggle",
+          "titre": "Stellar Blade's Switch 2 Release Will Include A Frame Generation Toggle"
         }
       ]
     },
     {
-      "id": "report-bethesda-president-tells-obsidian-staff-it-won-t-lose",
-      "titre": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge",
-      "url": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
+      "id": "discord-launches-controversial-age-verification-system-using",
+      "titre": "Discord launches controversial age-verification system \"using the most privacy-preserving approach we could build\" months after first delay",
+      "url": "https://www.eurogamer.net/discord-controversial-age-verification-privacy-preserving",
       "sources": [
-        "Game Developer"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 17.5,
       "chaleur": 5,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
-          "titre": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/discord-controversial-age-verification-privacy-preserving",
+          "titre": "Discord launches controversial age-verification system \"using the most privacy-preserving approach we could build\" months after first delay"
         }
       ]
     },
@@ -719,7 +935,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 20.7,
       "chaleur": 5,
       "liens": [
         {
@@ -737,7 +953,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 22.0,
       "chaleur": 5,
       "liens": [
         {
@@ -755,7 +971,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.5,
       "chaleur": 5,
       "liens": [
         {
@@ -773,7 +989,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.1,
+      "heures": 24.1,
       "chaleur": 5,
       "liens": [
         {
@@ -791,7 +1007,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.4,
       "chaleur": 5,
       "liens": [
         {
@@ -809,7 +1025,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.6,
+      "heures": 26.7,
       "chaleur": 5,
       "liens": [
         {
@@ -827,7 +1043,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 27.4,
       "chaleur": 5,
       "liens": [
         {
@@ -838,38 +1054,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "trover-saves-the-universe-has-completely-vanished-from-the-s",
-      "titre": "Trover Saves The Universe Has Completely Vanished From The Switch eShop",
-      "url": "https://www.nintendolife.com/news/2026/09/trover-saves-the-universe-has-completely-vanished-from-the-switch-eshop",
+      "id": "micropost-i-use-my-ring-finger-for-right-mouse-button-am-i-o",
+      "titre": "Micropost: I use my ring finger for right mouse button. Am I okay?",
+      "url": "https://www.pcgamer.com/games/micropost-i-use-my-ring-finger-for-right-mouse-button-am-i-okay/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 32.6,
-      "chaleur": 5,
+      "heures": 5.4,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/trover-saves-the-universe-has-completely-vanished-from-the-switch-eshop",
-          "titre": "Trover Saves The Universe Has Completely Vanished From The Switch eShop"
-        }
-      ]
-    },
-    {
-      "id": "sudden-demand-for-middle-earth-shadow-of-mordor-and-war-ps5",
-      "titre": "Sudden Demand for Middle-earth: Shadow of Mordor and War PS5 Ports After Switch 2 Bundle Is Revealed",
-      "url": "https://www.pushsquare.com/news/2026/09/sudden-demand-for-middle-earth-shadow-of-mordor-and-war-ps5-ports-after-switch-2-bundle-is-revealed",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 34.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/sudden-demand-for-middle-earth-shadow-of-mordor-and-war-ps5-ports-after-switch-2-bundle-is-revealed",
-          "titre": "Sudden Demand for Middle-earth: Shadow of Mordor and War PS5 Ports After Switch 2 Bundle Is Revealed"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/micropost-i-use-my-ring-finger-for-right-mouse-button-am-i-okay/",
+          "titre": "Micropost: I use my ring finger for right mouse button. Am I okay?"
         }
       ]
     },
@@ -881,7 +1079,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +1097,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +1115,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
@@ -935,8 +1133,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -953,8 +1151,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -962,205 +1160,10 @@ const VEILLE = {
           "titre": "Microsoft's approach to age verification in Australia is further proof that Valve is taking the everloving piss"
         }
       ]
-    },
-    {
-      "id": "halo-needed-to-change-but-activision-faces-a-huge-challenge",
-      "titre": "Halo needed to change, but Activision faces a huge challenge to fix it",
-      "url": "https://www.pcgamer.com/games/halo/halo-needed-to-change-but-activision-faces-a-huge-challenge-to-fix-it/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/halo/halo-needed-to-change-but-activision-faces-a-huge-challenge-to-fix-it/",
-          "titre": "Halo needed to change, but Activision faces a huge challenge to fix it"
-        }
-      ]
-    },
-    {
-      "id": "final-fantasy-7-revelation-on-ps5-pro-offers-a-bespoke-4k-60",
-      "titre": "Final Fantasy 7 Revelation on PS5 Pro Offers a Bespoke 4K, 60fps Mode Thanks to PSSR",
-      "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-on-ps5-pro-offers-a-bespoke-4k-60fps-mode-thanks-to-pssr",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 13.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-on-ps5-pro-offers-a-bespoke-4k-60fps-mode-thanks-to-pssr",
-          "titre": "Final Fantasy 7 Revelation on PS5 Pro Offers a Bespoke 4K, 60fps Mode Thanks to PSSR"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-dev-addresses-the-debate-over-who",
-      "titre": "World of Warcraft: Forever dev addresses the debate over who it's made for: 'I did not spend the last year of my life relearning and mastering how to do things like we did it 20+ years ago for retail players'",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-addresses-the-debate-over-who-its-made-for-i-did-not-spend-the-last-year-of-my-life-relearning-and-mastering-how-to-do-things-like-we-did-it-20-years-ago-for-retail-players/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-addresses-the-debate-over-who-its-made-for-i-did-not-spend-the-last-year-of-my-life-relearning-and-mastering-how-to-do-things-like-we-did-it-20-years-ago-for-retail-players/",
-          "titre": "World of Warcraft: Forever dev addresses the debate over who it's made for: 'I did not spend the last year of my life relearning and mastering how to do things like we did it 20+ years ago for retail players'"
-        }
-      ]
-    },
-    {
-      "id": "i-apologize-in-advance-for-this-but-introducing-drillposting",
-      "titre": "I apologize in advance for this, but: Introducing Drillposting",
-      "url": "https://www.pcgamer.com/games/i-apologize-in-advance-for-this-but-introducing-drillposting/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/i-apologize-in-advance-for-this-but-introducing-drillposting/",
-          "titre": "I apologize in advance for this, but: Introducing Drillposting"
-        }
-      ]
-    },
-    {
-      "id": "shoot-the-tires-please",
-      "titre": "Shoot the tires, please",
-      "url": "https://www.pcgamer.com/games/fps/shoot-the-tires-please/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/shoot-the-tires-please/",
-          "titre": "Shoot the tires, please"
-        }
-      ]
-    },
-    {
-      "id": "digital-ps5-purchases-kicking-back-cash-to-more-and-more-pla",
-      "titre": "Digital PS5 Purchases Kicking Back Cash to More and More Players",
-      "url": "https://www.pushsquare.com/news/2026/09/digital-ps5-purchases-kicking-back-cash-to-more-and-more-players",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 14.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/digital-ps5-purchases-kicking-back-cash-to-more-and-more-players",
-          "titre": "Digital PS5 Purchases Kicking Back Cash to More and More Players"
-        }
-      ]
-    },
-    {
-      "id": "sometimes-it-s-fun-to-hit-a-scorpion-with-a-club-for-38-seco",
-      "titre": "Sometimes it's fun to hit a scorpion with a club for 38 seconds",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/sometimes-its-fun-to-hit-a-scorpion-with-a-club-for-38-seconds/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/sometimes-its-fun-to-hit-a-scorpion-with-a-club-for-38-seconds/",
-          "titre": "Sometimes it's fun to hit a scorpion with a club for 38 seconds"
-        }
-      ]
-    },
-    {
-      "id": "i-just-assume-someone-is-being-greedy-double-fine-s-tim-sch",
-      "titre": "‘I just assume someone is being greedy’: Double Fine’s Tim Schafer says he doesn’t know why the industry isn’t recovering",
-      "url": "https://www.videogameschronicle.com/news/i-just-assume-someone-is-being-greedy-double-fines-tim-schafer-says-he-doesnt-know-why-the-industry-isnt-recovering/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 15.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/i-just-assume-someone-is-being-greedy-double-fines-tim-schafer-says-he-doesnt-know-why-the-industry-isnt-recovering/",
-          "titre": "‘I just assume someone is being greedy’: Double Fine’s Tim Schafer says he doesn’t know why the industry isn’t recovering"
-        }
-      ]
-    },
-    {
-      "id": "discord-re-introduces-age-verification-policy-based-on-accou",
-      "titre": "Discord re-introduces age verification policy based on 'account signal' methodology",
-      "url": "https://www.gamedeveloper.com/business/discord-re-introduces-age-verification-policy-with-new-methods",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 15.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/discord-re-introduces-age-verification-policy-with-new-methods",
-          "titre": "Discord re-introduces age verification policy based on 'account signal' methodology"
-        }
-      ]
-    },
-    {
-      "id": "silent-hill-townfall-ordell-blood-bag-transfusion-door-puzzl",
-      "titre": "Silent Hill Townfall: Ordell blood bag transfusion door puzzle solution",
-      "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-blood-bag-transfusion-door-puzzle/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 16.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-blood-bag-transfusion-door-puzzle/",
-          "titre": "Silent Hill Townfall: Ordell blood bag transfusion door puzzle solution"
-        }
-      ]
-    },
-    {
-      "id": "as-halo-goes-to-activision-fans-are-worried-about-this-year",
-      "titre": "As Halo goes to Activision, fans are worried about this year's Halo Fest and a potential lore reboot from the Call of Duty publisher",
-      "url": "https://www.eurogamer.net/activision-new-halo-game-fans-worried-lore-reboot",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 16.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/activision-new-halo-game-fans-worried-lore-reboot",
-          "titre": "As Halo goes to Activision, fans are worried about this year's Halo Fest and a potential lore reboot from the Call of Duty publisher"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Bethesda say new underlings Obsidian will retain their \"distinct\" creative identity, despite no longer being as free to work on their own creatively distinct series",
+    "Quake Champions ditches free-to-play and kills off its Microsoft Store version eight years after its original release"
+  ]
 };
