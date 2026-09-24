@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "23/09/2026 à 22h19",
+  "collecte": "24/09/2026 à 00h27",
   "seuil": 14,
   "sujets": [
     {
@@ -15,8 +15,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 11.0,
-      "chaleur": 21,
+      "heures": 13.1,
+      "chaleur": 20,
       "liens": [
         {
           "source": "Game Developer",
@@ -55,7 +55,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 8.4,
+      "heures": 10.5,
       "chaleur": 17,
       "liens": [
         {
@@ -86,7 +86,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 5.5,
+      "heures": 7.6,
       "chaleur": 15,
       "liens": [
         {
@@ -120,7 +120,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 1.4,
+      "heures": 3.6,
       "chaleur": 11,
       "liens": [
         {
@@ -144,8 +144,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 3.4,
-      "chaleur": 11,
+      "heures": 5.5,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
@@ -160,78 +160,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "world-of-warcraft-forever-s-first-patch-will-bring-back-the",
-      "titre": "World of Warcraft: Forever's first patch will bring back the number one thing seasoned players missed from the MMO's past: storms",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-first-patch-will-bring-back-the-number-one-thing-seasoned-players-missed-from-the-mmos-past-storms/",
-      "sources": [
-        "PC Gamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 0.2,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-first-patch-will-bring-back-the-number-one-thing-seasoned-players-missed-from-the-mmos-past-storms/",
-          "titre": "World of Warcraft: Forever's first patch will bring back the number one thing seasoned players missed from the MMO's past: storms"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/reaction-did-fans-just-bring-destiny-back-from-the-dead",
-          "titre": "Reaction: Did Fans Just Bring Destiny Back from the Dead?"
-        }
-      ]
-    },
-    {
-      "id": "bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
-      "titre": "Bethesda boss confirms Obsidian will remain a \"distinct\" team",
-      "url": "https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 3.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
-          "titre": "Bethesda boss confirms Obsidian will remain a \"distinct\" team"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/obsidian-creative-identity-bethesda-fallout-xbox-restructuring",
-          "titre": "Obsidian's \"creative identity and strengths\" will remain intact, promises Bethesda, as it takes control of Fallout: New Vegas studio"
-        }
-      ]
-    },
-    {
-      "id": "opinion-i-think-i-m-missing-something-about-stellar-blade-on",
-      "titre": "Opinion: I Think I'm Missing Something About Stellar Blade On Switch 2",
-      "url": "https://www.nintendolife.com/features/opinion-i-think-im-missing-something-about-stellar-blade-on-switch-2",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 4.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/opinion-i-think-im-missing-something-about-stellar-blade-on-switch-2",
-          "titre": "Opinion: I Think I'm Missing Something About Stellar Blade On Switch 2"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/stellar-blade-rocky-development-three-months-salary",
-          "titre": "Stellar Blade is a success now but once came close to the brink: \"We could only pay salaries for about three months\""
-        }
-      ]
-    },
-    {
       "id": "i-m-still-blown-away-by-the-amount-of-talent-hellblade-devs",
       "titre": "\"I'm still blown away by the amount of talent\": Hellblade devs Ninja Theory face closure after Microsoft fail to reach a deal with buyers",
       "url": "https://www.rockpapershotgun.com/im-still-blown-away-by-the-amount-of-talent-hellblade-devs-ninja-theory-face-closure-after-microsoft-fail-to-reach-a-deal-with-buyers",
@@ -240,7 +168,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 30.0,
+      "heures": 32.1,
       "chaleur": 9,
       "liens": [
         {
@@ -256,6 +184,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "stellar-blade-s-switch-2-release-will-include-a-frame-genera",
+      "titre": "Stellar Blade's Switch 2 Release Will Include A Frame Generation Toggle",
+      "url": "https://www.nintendolife.com/news/2026/09/stellar-blades-switch-2-release-will-include-a-frame-generation-toggle",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/stellar-blades-switch-2-release-will-include-a-frame-generation-toggle",
+          "titre": "Stellar Blade's Switch 2 Release Will Include A Frame Generation Toggle"
+        }
+      ]
+    },
+    {
       "id": "good-luck-today-halo-friends-after-years-of-rivalry-call-of",
       "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs",
       "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
@@ -263,7 +209,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 31.0,
+      "heures": 33.1,
       "chaleur": 8,
       "liens": [
         {
@@ -281,13 +227,37 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 32.2,
+      "heures": 34.4,
       "chaleur": 8,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure",
           "titre": "Xbox transfers Rare and Halo franchise to Activision, proposes closure of Ninja Theory, and confirms another 268 roles cut amid studio restructure"
+        }
+      ]
+    },
+    {
+      "id": "bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
+      "titre": "Bethesda boss confirms Obsidian will remain a \"distinct\" team",
+      "url": "https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 5.7,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
+          "titre": "Bethesda boss confirms Obsidian will remain a \"distinct\" team"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/obsidian-creative-identity-bethesda-fallout-xbox-restructuring",
+          "titre": "Obsidian's \"creative identity and strengths\" will remain intact, promises Bethesda, as it takes control of Fallout: New Vegas studio"
         }
       ]
     },
@@ -300,7 +270,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.0,
+      "heures": 7.2,
       "chaleur": 7,
       "liens": [
         {
@@ -323,31 +293,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 11.1,
       "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/halo-studios-closure-xbox-cuts-kiki-wolfkill-bonnie-ross",
           "titre": "Former Halo leaders lament effective closure of Halo Studios, as one employee finds themselves promoted and fired in same week"
-        }
-      ]
-    },
-    {
-      "id": "io-interactive-had-no-choice-but-to-delay-switch-2-launch-of",
-      "titre": "IO Interactive \"had no choice\" but to delay Switch 2 launch of 007 First Light for a third time",
-      "url": "https://www.gamesindustry.biz/io-interactive-had-no-choice-but-to-delay-switch-2-launch-of-007-first-light-for-a-third-time",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 35.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/io-interactive-had-no-choice-but-to-delay-switch-2-launch-of-007-first-light-for-a-third-time",
-          "titre": "IO Interactive \"had no choice\" but to delay Switch 2 launch of 007 First Light for a third time"
         }
       ]
     },
@@ -496,6 +448,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "quake-champions-takes-a-shower-shedding-all-its-2017-live-se",
+      "titre": "Quake Champions takes a shower, shedding all its 2017 live-service grime and becoming a $10 game",
+      "url": "https://www.pcgamer.com/games/fps/quake-champions-takes-a-shower-shedding-all-its-2017-live-service-grime-and-becoming-a-usd10-game/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/quake-champions-takes-a-shower-shedding-all-its-2017-live-service-grime-and-becoming-a-usd10-game/",
+          "titre": "Quake Champions takes a shower, shedding all its 2017 live-service grime and becoming a $10 game"
+        }
+      ]
+    },
+    {
+      "id": "microsoft-s-approach-to-age-verification-in-australia-is-fur",
+      "titre": "Microsoft's approach to age verification in Australia is further proof that Valve is taking the everloving piss",
+      "url": "https://www.pcgamer.com/gaming-industry/microsofts-approach-to-age-verification-in-australia-is-further-proof-that-valve-is-taking-the-everloving-piss/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/microsofts-approach-to-age-verification-in-australia-is-further-proof-that-valve-is-taking-the-everloving-piss/",
+          "titre": "Microsoft's approach to age verification in Australia is further proof that Valve is taking the everloving piss"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-s-first-patch-will-bring-back-the",
+      "titre": "World of Warcraft: Forever's first patch will bring back the number one thing seasoned players missed from the MMO's past: storms",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-first-patch-will-bring-back-the-number-one-thing-seasoned-players-missed-from-the-mmos-past-storms/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-first-patch-will-bring-back-the-number-one-thing-seasoned-players-missed-from-the-mmos-past-storms/",
+          "titre": "World of Warcraft: Forever's first patch will bring back the number one thing seasoned players missed from the MMO's past: storms"
+        }
+      ]
+    },
+    {
       "id": "halo-needed-to-change-but-activision-faces-a-huge-challenge",
       "titre": "Halo needed to change, but Activision faces a huge challenge to fix it",
       "url": "https://www.pcgamer.com/games/halo/halo-needed-to-change-but-activision-faces-a-huge-challenge-to-fix-it/",
@@ -503,7 +509,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -521,7 +527,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -539,7 +545,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -557,103 +563,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/i-apologize-in-advance-for-this-but-introducing-drillposting/",
           "titre": "I apologize in advance for this, but: Introducing Drillposting"
-        }
-      ]
-    },
-    {
-      "id": "shoot-the-tires-please",
-      "titre": "Shoot the tires, please",
-      "url": "https://www.pcgamer.com/games/fps/shoot-the-tires-please/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/shoot-the-tires-please/",
-          "titre": "Shoot the tires, please"
-        }
-      ]
-    },
-    {
-      "id": "digital-ps5-purchases-kicking-back-cash-to-more-and-more-pla",
-      "titre": "Digital PS5 Purchases Kicking Back Cash to More and More Players",
-      "url": "https://www.pushsquare.com/news/2026/09/digital-ps5-purchases-kicking-back-cash-to-more-and-more-players",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/digital-ps5-purchases-kicking-back-cash-to-more-and-more-players",
-          "titre": "Digital PS5 Purchases Kicking Back Cash to More and More Players"
-        }
-      ]
-    },
-    {
-      "id": "sometimes-it-s-fun-to-hit-a-scorpion-with-a-club-for-38-seco",
-      "titre": "Sometimes it's fun to hit a scorpion with a club for 38 seconds",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/sometimes-its-fun-to-hit-a-scorpion-with-a-club-for-38-seconds/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/sometimes-its-fun-to-hit-a-scorpion-with-a-club-for-38-seconds/",
-          "titre": "Sometimes it's fun to hit a scorpion with a club for 38 seconds"
-        }
-      ]
-    },
-    {
-      "id": "i-just-assume-someone-is-being-greedy-double-fine-s-tim-sch",
-      "titre": "‘I just assume someone is being greedy’: Double Fine’s Tim Schafer says he doesn’t know why the industry isn’t recovering",
-      "url": "https://www.videogameschronicle.com/news/i-just-assume-someone-is-being-greedy-double-fines-tim-schafer-says-he-doesnt-know-why-the-industry-isnt-recovering/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/i-just-assume-someone-is-being-greedy-double-fines-tim-schafer-says-he-doesnt-know-why-the-industry-isnt-recovering/",
-          "titre": "‘I just assume someone is being greedy’: Double Fine’s Tim Schafer says he doesn’t know why the industry isn’t recovering"
-        }
-      ]
-    },
-    {
-      "id": "discord-re-introduces-age-verification-policy-based-on-accou",
-      "titre": "Discord re-introduces age verification policy based on 'account signal' methodology",
-      "url": "https://www.gamedeveloper.com/business/discord-re-introduces-age-verification-policy-with-new-methods",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/discord-re-introduces-age-verification-policy-with-new-methods",
-          "titre": "Discord re-introduces age verification policy based on 'account signal' methodology"
         }
       ]
     },
@@ -665,7 +581,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 6,
       "liens": [
         {
@@ -683,7 +599,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.7,
       "chaleur": 6,
       "liens": [
         {
@@ -701,7 +617,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 10.1,
       "chaleur": 6,
       "liens": [
         {
@@ -719,49 +635,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem",
           "titre": "Sensor Tower: PC and PlayStation unit sales in Japan rise 13% to 21m during H1 2026, led by Resident Evil Requiem"
-        }
-      ]
-    },
-    {
-      "id": "microsoft-want-to-record-your-face-and-feed-it-to-a-generati",
-      "titre": "Microsoft want to record your face and feed it to a generative AI, telling it to go off and design a game from your frown",
-      "url": "https://www.rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown",
-          "titre": "Microsoft want to record your face and feed it to a generative AI, telling it to go off and design a game from your frown"
-        }
-      ]
-    },
-    {
-      "id": "review-ea-sports-fc-27-switch-2-still-the-best-football-opti",
-      "titre": "Review: EA Sports FC 27 (Switch 2) - Still The Best Football Option, Even With Caveats",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/ea-sports-fc-27",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/ea-sports-fc-27",
-          "titre": "Review: EA Sports FC 27 (Switch 2) - Still The Best Football Option, Even With Caveats"
         }
       ]
     },
@@ -773,7 +653,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.5,
       "chaleur": 6,
       "liens": [
         {
@@ -791,7 +671,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.8,
+      "heures": 33.0,
       "chaleur": 6,
       "liens": [
         {
@@ -809,13 +689,49 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 33.8,
+      "heures": 35.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
           "titre": "'Do not': Rockstar outlines modding rules before GTA VI touches down"
+        }
+      ]
+    },
+    {
+      "id": "microsoft-want-to-record-your-face-and-feed-it-to-a-generati",
+      "titre": "Microsoft want to record your face and feed it to a generative AI, telling it to go off and design a game from your frown",
+      "url": "https://www.rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 12.2,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown",
+          "titre": "Microsoft want to record your face and feed it to a generative AI, telling it to go off and design a game from your frown"
+        }
+      ]
+    },
+    {
+      "id": "review-ea-sports-fc-27-switch-2-still-the-best-football-opti",
+      "titre": "Review: EA Sports FC 27 (Switch 2) - Still The Best Football Option, Even With Caveats",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/ea-sports-fc-27",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/ea-sports-fc-27",
+          "titre": "Review: EA Sports FC 27 (Switch 2) - Still The Best Football Option, Even With Caveats"
         }
       ]
     },
@@ -827,7 +743,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.7,
       "chaleur": 5,
       "liens": [
         {
@@ -845,7 +761,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -863,7 +779,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.6,
+      "heures": 22.7,
       "chaleur": 5,
       "liens": [
         {
@@ -881,7 +797,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.8,
+      "heures": 24.0,
       "chaleur": 5,
       "liens": [
         {
@@ -899,7 +815,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 25.0,
       "chaleur": 5,
       "liens": [
         {
@@ -917,7 +833,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.3,
+      "heures": 30.5,
       "chaleur": 5,
       "liens": [
         {
@@ -935,7 +851,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.4,
       "chaleur": 5,
       "liens": [
         {
@@ -953,7 +869,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.5,
       "chaleur": 5,
       "liens": [
         {
@@ -971,7 +887,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 33.5,
       "chaleur": 5,
       "liens": [
         {
@@ -982,20 +898,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "banjo-kazooie-developer-rare-is-now-reporting-directly-to-ac",
-      "titre": "Banjo-Kazooie Developer Rare Is Now Reporting Directly To Activision",
-      "url": "https://www.nintendolife.com/news/2026/09/banjo-kazooie-developer-rare-is-now-reporting-directly-to-activision",
+      "id": "shoot-the-tires-please",
+      "titre": "Shoot the tires, please",
+      "url": "https://www.pcgamer.com/games/fps/shoot-the-tires-please/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 31.6,
-      "chaleur": 5,
+      "heures": 4.3,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/banjo-kazooie-developer-rare-is-now-reporting-directly-to-activision",
-          "titre": "Banjo-Kazooie Developer Rare Is Now Reporting Directly To Activision"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/shoot-the-tires-please/",
+          "titre": "Shoot the tires, please"
+        }
+      ]
+    },
+    {
+      "id": "digital-ps5-purchases-kicking-back-cash-to-more-and-more-pla",
+      "titre": "Digital PS5 Purchases Kicking Back Cash to More and More Players",
+      "url": "https://www.pushsquare.com/news/2026/09/digital-ps5-purchases-kicking-back-cash-to-more-and-more-players",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/digital-ps5-purchases-kicking-back-cash-to-more-and-more-players",
+          "titre": "Digital PS5 Purchases Kicking Back Cash to More and More Players"
+        }
+      ]
+    },
+    {
+      "id": "sometimes-it-s-fun-to-hit-a-scorpion-with-a-club-for-38-seco",
+      "titre": "Sometimes it's fun to hit a scorpion with a club for 38 seconds",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/sometimes-its-fun-to-hit-a-scorpion-with-a-club-for-38-seconds/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/sometimes-its-fun-to-hit-a-scorpion-with-a-club-for-38-seconds/",
+          "titre": "Sometimes it's fun to hit a scorpion with a club for 38 seconds"
+        }
+      ]
+    },
+    {
+      "id": "i-just-assume-someone-is-being-greedy-double-fine-s-tim-sch",
+      "titre": "‘I just assume someone is being greedy’: Double Fine’s Tim Schafer says he doesn’t know why the industry isn’t recovering",
+      "url": "https://www.videogameschronicle.com/news/i-just-assume-someone-is-being-greedy-double-fines-tim-schafer-says-he-doesnt-know-why-the-industry-isnt-recovering/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/i-just-assume-someone-is-being-greedy-double-fines-tim-schafer-says-he-doesnt-know-why-the-industry-isnt-recovering/",
+          "titre": "‘I just assume someone is being greedy’: Double Fine’s Tim Schafer says he doesn’t know why the industry isn’t recovering"
+        }
+      ]
+    },
+    {
+      "id": "discord-re-introduces-age-verification-policy-based-on-accou",
+      "titre": "Discord re-introduces age verification policy based on 'account signal' methodology",
+      "url": "https://www.gamedeveloper.com/business/discord-re-introduces-age-verification-policy-with-new-methods",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/discord-re-introduces-age-verification-policy-with-new-methods",
+          "titre": "Discord re-introduces age verification policy based on 'account signal' methodology"
         }
       ]
     },
@@ -1007,7 +995,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1025,7 +1013,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,7 +1031,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,7 +1049,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1079,7 +1067,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1097,31 +1085,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/horror/the-scariest-part-of-silent-hill-townfall-its-not-the-monsters-its-british-interior-design/",
           "titre": "The scariest part of Silent Hill: Townfall? It's not the monsters—it's British interior design"
-        }
-      ]
-    },
-    {
-      "id": "razer-chroma-soma-lighting",
-      "titre": "Razer Chroma Soma lighting",
-      "url": "https://www.pcgamer.com/hardware/gaming-chairs/razer-chroma-soma-lighting/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-chairs/razer-chroma-soma-lighting/",
-          "titre": "Razer Chroma Soma lighting"
         }
       ]
     },
@@ -1133,7 +1103,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1151,7 +1121,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1169,13 +1139,31 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/guide/control-resonant-power-lines-perimeter-factory-and-east-park-station-puzzle-solutions/",
           "titre": "Control Resonant Power Lines: Perimeter, Factory, and East Park Station puzzle solutions"
+        }
+      ]
+    },
+    {
+      "id": "the-eu-kids-act-what-game-developers-need-to-know",
+      "titre": "The EU KIDS Act: What game developers need to know",
+      "url": "https://www.gamesindustry.biz/the-eu-kids-act-what-game-developers-need-to-know",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 10.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/the-eu-kids-act-what-game-developers-need-to-know",
+          "titre": "The EU KIDS Act: What game developers need to know"
         }
       ]
     }
