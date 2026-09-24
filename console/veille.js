@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "24/09/2026 à 02h20",
+  "collecte": "24/09/2026 à 04h21",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 15.0,
+      "heures": 17.0,
       "chaleur": 20,
       "liens": [
         {
@@ -55,7 +55,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 16,
       "liens": [
         {
@@ -86,7 +86,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 9.5,
+      "heures": 11.5,
       "chaleur": 15,
       "liens": [
         {
@@ -119,7 +119,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.9,
       "chaleur": 9,
       "liens": [
         {
@@ -138,7 +138,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 5.4,
+      "heures": 7.5,
       "chaleur": 9,
       "liens": [
         {
@@ -162,7 +162,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 9,
       "liens": [
         {
@@ -178,66 +178,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-m-still-blown-away-by-the-amount-of-talent-hellblade-devs",
-      "titre": "\"I'm still blown away by the amount of talent\": Hellblade devs Ninja Theory face closure after Microsoft fail to reach a deal with buyers",
-      "url": "https://www.rockpapershotgun.com/im-still-blown-away-by-the-amount-of-talent-hellblade-devs-ninja-theory-face-closure-after-microsoft-fail-to-reach-a-deal-with-buyers",
-      "sources": [
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 34.0,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/im-still-blown-away-by-the-amount-of-talent-hellblade-devs-ninja-theory-face-closure-after-microsoft-fail-to-reach-a-deal-with-buyers",
-          "titre": "\"I'm still blown away by the amount of talent\": Hellblade devs Ninja Theory face closure after Microsoft fail to reach a deal with buyers"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/microsoft-closing-hellblade-dev-ninja-theory-after-failed-buyout-talks",
-          "titre": "Microsoft Closing Hellblade Dev Ninja Theory After Failed Buyout Talks"
-        }
-      ]
-    },
-    {
-      "id": "stellar-blade-s-switch-2-release-will-include-a-frame-genera",
-      "titre": "Stellar Blade's Switch 2 Release Will Include A Frame Generation Toggle",
-      "url": "https://www.nintendolife.com/news/2026/09/stellar-blades-switch-2-release-will-include-a-frame-generation-toggle",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/stellar-blades-switch-2-release-will-include-a-frame-generation-toggle",
-          "titre": "Stellar Blade's Switch 2 Release Will Include A Frame Generation Toggle"
-        }
-      ]
-    },
-    {
-      "id": "good-luck-today-halo-friends-after-years-of-rivalry-call-of",
-      "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs",
-      "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 35.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/good-luck-today-halo-friends-after-years-of-rivalry-call-of-dutys-creators-have-taken-charge-of-xboxs-defining-fps-series-amid-yet-more-layoffs",
-          "titre": "\"Good luck today, Halo friends\": After years of rivalry, Call of Duty's creators have taken charge of Xbox's defining FPS series amid yet more layoffs"
-        }
-      ]
-    },
-    {
       "id": "bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
       "titre": "Bethesda boss confirms Obsidian will remain a \"distinct\" team",
       "url": "https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
@@ -246,7 +186,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 7.6,
+      "heures": 9.6,
       "chaleur": 7,
       "liens": [
         {
@@ -270,7 +210,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.0,
+      "heures": 11.1,
       "chaleur": 7,
       "liens": [
         {
@@ -466,6 +406,78 @@ const VEILLE = {
       ]
     },
     {
+      "id": "london-games-festival",
+      "titre": "London Games Festival",
+      "url": "https://www.gamedeveloper.comgames.london",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.comgames.london",
+          "titre": "London Games Festival"
+        }
+      ]
+    },
+    {
+      "id": "pax-east",
+      "titre": "PAX East",
+      "url": "https://www.gamedeveloper.com/series/pax-east",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/series/pax-east",
+          "titre": "PAX East"
+        }
+      ]
+    },
+    {
+      "id": "the-industrial-revolution-is-the-reason-rpgs-have-area-of-ef",
+      "titre": "The Industrial Revolution is the reason RPGs have area-of-effect spells: A PC Gamer Causality Chain™",
+      "url": "https://www.pcgamer.com/games/rpg/the-industrial-revolution-is-the-reason-rpgs-have-area-of-effect-spells-a-pc-gamer-causality-chaintm/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/the-industrial-revolution-is-the-reason-rpgs-have-area-of-effect-spells-a-pc-gamer-causality-chaintm/",
+          "titre": "The Industrial Revolution is the reason RPGs have area-of-effect spells: A PC Gamer Causality Chain™"
+        }
+      ]
+    },
+    {
+      "id": "random-phoenix-wright-is-kind-of-getting-a-new-game-but-it-s",
+      "titre": "Random: Phoenix Wright Is Kind Of Getting A New Game, But It's VR",
+      "url": "https://www.nintendolife.com/news/2026/09/random-phoenix-wright-is-kind-of-getting-a-new-game-but-its-vr",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/random-phoenix-wright-is-kind-of-getting-a-new-game-but-its-vr",
+          "titre": "Random: Phoenix Wright Is Kind Of Getting A New Game, But It's VR"
+        }
+      ]
+    },
+    {
       "id": "metroid-ravenous-announcement-sees-demand-for-physical-copie",
       "titre": "Metroid Ravenous Announcement Sees Demand For Physical Copies Of Metroid Dread Spike",
       "url": "https://www.nintendolife.com/news/2026/09/metroid-ravenous-announcement-sees-demand-for-physical-copies-of-metroid-dread-spike",
@@ -473,7 +485,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -484,38 +496,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "quake-champions-takes-a-shower-shedding-all-its-2017-live-se",
-      "titre": "Quake Champions takes a shower, shedding all its 2017 live-service grime and becoming a $10 game",
-      "url": "https://www.pcgamer.com/games/fps/quake-champions-takes-a-shower-shedding-all-its-2017-live-service-grime-and-becoming-a-usd10-game/",
+      "id": "stellar-blade-s-switch-2-release-will-include-a-frame-genera",
+      "titre": "Stellar Blade's Switch 2 Release Will Include A Frame Generation Toggle",
+      "url": "https://www.nintendolife.com/news/2026/09/stellar-blades-switch-2-release-will-include-a-frame-generation-toggle",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.5,
+      "heures": 4.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/quake-champions-takes-a-shower-shedding-all-its-2017-live-service-grime-and-becoming-a-usd10-game/",
-          "titre": "Quake Champions takes a shower, shedding all its 2017 live-service grime and becoming a $10 game"
-        }
-      ]
-    },
-    {
-      "id": "microsoft-s-approach-to-age-verification-in-australia-is-fur",
-      "titre": "Microsoft's approach to age verification in Australia is further proof that Valve is taking the everloving piss",
-      "url": "https://www.pcgamer.com/gaming-industry/microsofts-approach-to-age-verification-in-australia-is-further-proof-that-valve-is-taking-the-everloving-piss/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/microsofts-approach-to-age-verification-in-australia-is-further-proof-that-valve-is-taking-the-everloving-piss/",
-          "titre": "Microsoft's approach to age verification in Australia is further proof that Valve is taking the everloving piss"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/stellar-blades-switch-2-release-will-include-a-frame-generation-toggle",
+          "titre": "Stellar Blade's Switch 2 Release Will Include A Frame Generation Toggle"
         }
       ]
     },
@@ -527,49 +521,13 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
           "titre": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge"
-        }
-      ]
-    },
-    {
-      "id": "the-steam-machine-handles-control-resonant-capably-but-the-p",
-      "titre": "The Steam Machine handles Control Resonant capably, but the promised Steam Deck support is a letdown",
-      "url": "https://www.rockpapershotgun.com/the-steam-machine-handles-control-resonant-capably-but-the-promised-steam-deck-support-is-a-letdown",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-steam-machine-handles-control-resonant-capably-but-the-promised-steam-deck-support-is-a-letdown",
-          "titre": "The Steam Machine handles Control Resonant capably, but the promised Steam Deck support is a letdown"
-        }
-      ]
-    },
-    {
-      "id": "beloved-cockney-orc-lord-of-the-rings-games-shadow-of-mordor",
-      "titre": "Beloved cockney-orc Lord of the Rings games Shadow of Mordor and Shadow of War finally make their way to Switch 2",
-      "url": "https://www.eurogamer.net/lord-of-the-rings-shadow-of-mordor-war-switch-2",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/lord-of-the-rings-shadow-of-mordor-war-switch-2",
-          "titre": "Beloved cockney-orc Lord of the Rings games Shadow of Mordor and Shadow of War finally make their way to Switch 2"
         }
       ]
     },
@@ -581,7 +539,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 15.0,
       "chaleur": 6,
       "liens": [
         {
@@ -599,13 +557,49 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-times-limited-edition-switch-2-cover-apparently-had-one-retailer-trying-to-double-its-orders",
           "titre": "Zelda: Ocarina Of Time's Limited Edition Switch 2 Cover Apparently Had One Retailer Trying To Double Its Orders"
+        }
+      ]
+    },
+    {
+      "id": "the-steam-machine-handles-control-resonant-capably-but-the-p",
+      "titre": "The Steam Machine handles Control Resonant capably, but the promised Steam Deck support is a letdown",
+      "url": "https://www.rockpapershotgun.com/the-steam-machine-handles-control-resonant-capably-but-the-promised-steam-deck-support-is-a-letdown",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 12.6,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-steam-machine-handles-control-resonant-capably-but-the-promised-steam-deck-support-is-a-letdown",
+          "titre": "The Steam Machine handles Control Resonant capably, but the promised Steam Deck support is a letdown"
+        }
+      ]
+    },
+    {
+      "id": "beloved-cockney-orc-lord-of-the-rings-games-shadow-of-mordor",
+      "titre": "Beloved cockney-orc Lord of the Rings games Shadow of Mordor and Shadow of War finally make their way to Switch 2",
+      "url": "https://www.eurogamer.net/lord-of-the-rings-shadow-of-mordor-war-switch-2",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 14.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/lord-of-the-rings-shadow-of-mordor-war-switch-2",
+          "titre": "Beloved cockney-orc Lord of the Rings games Shadow of Mordor and Shadow of War finally make their way to Switch 2"
         }
       ]
     },
@@ -617,7 +611,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -635,7 +629,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 16.1,
       "chaleur": 5,
       "liens": [
         {
@@ -653,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.4,
       "chaleur": 5,
       "liens": [
         {
@@ -671,7 +665,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 18.6,
       "chaleur": 5,
       "liens": [
         {
@@ -689,7 +683,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.4,
       "chaleur": 5,
       "liens": [
         {
@@ -707,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.6,
+      "heures": 26.6,
       "chaleur": 5,
       "liens": [
         {
@@ -725,7 +719,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.8,
+      "heures": 27.9,
       "chaleur": 5,
       "liens": [
         {
@@ -743,31 +737,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.8,
+      "heures": 28.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/sudden-demand-for-middle-earth-shadow-of-mordor-and-war-ps5-ports-after-switch-2-bundle-is-revealed",
           "titre": "Sudden Demand for Middle-earth: Shadow of Mordor and War PS5 Ports After Switch 2 Bundle Is Revealed"
-        }
-      ]
-    },
-    {
-      "id": "want-more-lord-of-the-rings-on-switch-2-cool-two-ports-are-l",
-      "titre": "Want More Lord Of The Rings On Switch 2? Cool, Two Ports Are Launching Next Week",
-      "url": "https://www.nintendolife.com/news/2026/09/want-more-lord-of-the-rings-on-switch-2-cool-two-ports-are-launching-next-week",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 32.3,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/want-more-lord-of-the-rings-on-switch-2-cool-two-ports-are-launching-next-week",
-          "titre": "Want More Lord Of The Rings On Switch 2? Cool, Two Ports Are Launching Next Week"
         }
       ]
     },
@@ -779,7 +755,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.3,
       "chaleur": 5,
       "liens": [
         {
@@ -790,20 +766,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "today-s-changes-might-get-xbox-a-new-halo-sooner-but-history",
-      "titre": "Today's changes might get Xbox a new Halo sooner, but history shows production line development makes for boring games",
-      "url": "https://www.rockpapershotgun.com/xboxs-consolidation-plans-might-mean-you-get-a-new-halo-sooner-but-history-shows-production-line-development-makes-for-boring-games",
+      "id": "quake-champions-takes-a-shower-shedding-all-its-2017-live-se",
+      "titre": "Quake Champions takes a shower, shedding all its 2017 live-service grime and becoming a $10 game",
+      "url": "https://www.pcgamer.com/games/fps/quake-champions-takes-a-shower-shedding-all-its-2017-live-service-grime-and-becoming-a-usd10-game/",
       "sources": [
-        "Rock Paper Shotgun"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 5,
+      "heures": 4.6,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/xboxs-consolidation-plans-might-mean-you-get-a-new-halo-sooner-but-history-shows-production-line-development-makes-for-boring-games",
-          "titre": "Today's changes might get Xbox a new Halo sooner, but history shows production line development makes for boring games"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/quake-champions-takes-a-shower-shedding-all-its-2017-live-service-grime-and-becoming-a-usd10-game/",
+          "titre": "Quake Champions takes a shower, shedding all its 2017 live-service grime and becoming a $10 game"
+        }
+      ]
+    },
+    {
+      "id": "microsoft-s-approach-to-age-verification-in-australia-is-fur",
+      "titre": "Microsoft's approach to age verification in Australia is further proof that Valve is taking the everloving piss",
+      "url": "https://www.pcgamer.com/gaming-industry/microsofts-approach-to-age-verification-in-australia-is-further-proof-that-valve-is-taking-the-everloving-piss/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/microsofts-approach-to-age-verification-in-australia-is-further-proof-that-valve-is-taking-the-everloving-piss/",
+          "titre": "Microsoft's approach to age verification in Australia is further proof that Valve is taking the everloving piss"
         }
       ]
     },
@@ -815,7 +809,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -833,7 +827,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -851,7 +845,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -869,7 +863,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +899,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +917,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +935,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +953,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +971,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +989,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,7 +1007,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,7 +1025,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1049,7 +1043,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1067,31 +1061,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/i-put-ufo-sightings-in-grand-theft-auto-5-though-it-didnt-quite-go-to-plan/",
           "titre": "I put UFO sightings in Grand Theft Auto 5, though it didn't quite go to plan"
-        }
-      ]
-    },
-    {
-      "id": "the-scariest-part-of-silent-hill-townfall-it-s-not-the-monst",
-      "titre": "The scariest part of Silent Hill: Townfall? It's not the monsters—it's British interior design",
-      "url": "https://www.pcgamer.com/games/horror/the-scariest-part-of-silent-hill-townfall-its-not-the-monsters-its-british-interior-design/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 9.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/the-scariest-part-of-silent-hill-townfall-its-not-the-monsters-its-british-interior-design/",
-          "titre": "The scariest part of Silent Hill: Townfall? It's not the monsters—it's British interior design"
         }
       ]
     },
@@ -1103,8 +1079,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1121,7 +1097,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1139,7 +1115,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1157,13 +1133,31 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/the-eu-kids-act-what-game-developers-need-to-know",
           "titre": "The EU KIDS Act: What game developers need to know"
+        }
+      ]
+    },
+    {
+      "id": "persona-6-could-get-its-big-reveal-in-march-as-atlus-announc",
+      "titre": "Persona 6 Could Get Its Big Reveal in March, as Atlus Announces First Super Live Show in Four Years",
+      "url": "https://www.pushsquare.com/news/2026/09/persona-6-could-get-its-big-reveal-in-march-as-atlus-announces-first-super-live-show-in-four-years",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 14.9,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/persona-6-could-get-its-big-reveal-in-march-as-atlus-announces-first-super-live-show-in-four-years",
+          "titre": "Persona 6 Could Get Its Big Reveal in March, as Atlus Announces First Super Live Show in Four Years"
         }
       ]
     }
