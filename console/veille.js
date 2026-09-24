@@ -1,32 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "24/09/2026 à 18h23",
+  "collecte": "24/09/2026 à 20h21",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "age-of-empires-dev-has-half-of-studio-slashed-project-cancel",
-      "titre": "Age of Empires Dev Has Half of Studio Slashed, Project Cancelled Amid Xbox Layoffs",
-      "url": "https://www.pushsquare.com/news/2026/09/age-of-empires-dev-has-half-of-studio-slashed-project-cancelled-amid-xbox-layoffs",
-      "sources": [
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 3.4,
-      "chaleur": 19,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/age-of-empires-dev-has-half-of-studio-slashed-project-cancelled-amid-xbox-layoffs",
-          "titre": "Age of Empires Dev Has Half of Studio Slashed, Project Cancelled Amid Xbox Layoffs"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/age-of-empires-studio-worlds-edge-reportedly-lose-nearly-half-their-staff-and-a-new-game-project-in-mass-xbox-layoffs",
-          "titre": "Age of Empires studio World's Edge reportedly lose nearly half their staff and a new game project in mass Xbox layoffs"
-        }
-      ]
-    },
     {
       "id": "obsidian-remains-distinct-and-keeps-leadership-team-after-be",
       "titre": "Obsidian Remains 'Distinct' and Keeps Leadership Team After Being Absorbed by Bethesda",
@@ -39,7 +15,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 18,
       "liens": [
         {
@@ -70,32 +46,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "undead-labs-makes-significant-layoffs-after-splitting-from-x",
-      "titre": "Undead Labs makes 'significant' layoffs after splitting from Xbox",
-      "url": "https://www.gamedeveloper.com/business/undead-labs-makes-significant-layoffs-after-splitting-from-xbox",
+      "id": "age-of-empires-dev-has-half-of-studio-slashed-project-cancel",
+      "titre": "Age of Empires Dev Has Half of Studio Slashed, Project Cancelled Amid Xbox Layoffs",
+      "url": "https://www.pushsquare.com/news/2026/09/age-of-empires-dev-has-half-of-studio-slashed-project-cancelled-amid-xbox-layoffs",
       "sources": [
-        "Game Developer",
-        "GamesIndustry.biz",
+        "Push Square",
         "Rock Paper Shotgun"
       ],
-      "reprises": 3,
-      "heures": 31.0,
-      "chaleur": 14,
+      "reprises": 2,
+      "heures": 5.4,
+      "chaleur": 17,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/undead-labs-makes-significant-layoffs-after-splitting-from-xbox",
-          "titre": "Undead Labs makes 'significant' layoffs after splitting from Xbox"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/age-of-empires-dev-has-half-of-studio-slashed-project-cancelled-amid-xbox-layoffs",
+          "titre": "Age of Empires Dev Has Half of Studio Slashed, Project Cancelled Amid Xbox Layoffs"
         },
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/state-of-decay-3-studio-undead-labs-lay-off-a-significant-number-of-exceptionally-talented-developers-after-gaining-independence-from-xbox",
-          "titre": "State of Decay 3 studio Undead Labs lay off \"a significant number\" of \"exceptionally talented developers\" after gaining independence from Xbox"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/undead-labs-confirms-it-is-now-an-employee-owned-studio",
-          "titre": "Undead Labs confirms it is now an \"employee-owned studio\", a \"significant number\" of employees face layoffs"
+          "url": "https://www.rockpapershotgun.com/age-of-empires-studio-worlds-edge-reportedly-lose-nearly-half-their-staff-and-a-new-game-project-in-mass-xbox-layoffs",
+          "titre": "Age of Empires studio World's Edge reportedly lose nearly half their staff and a new game project in mass Xbox layoffs"
         }
       ]
     },
@@ -108,7 +78,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 6.5,
+      "heures": 8.4,
       "chaleur": 12,
       "liens": [
         {
@@ -124,6 +94,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "undead-labs-makes-significant-layoffs-after-splitting-from-x",
+      "titre": "Undead Labs makes 'significant' layoffs after splitting from Xbox",
+      "url": "https://www.gamedeveloper.com/business/undead-labs-makes-significant-layoffs-after-splitting-from-xbox",
+      "sources": [
+        "Game Developer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 33.0,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/undead-labs-makes-significant-layoffs-after-splitting-from-xbox",
+          "titre": "Undead Labs makes 'significant' layoffs after splitting from Xbox"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/state-of-decay-3-studio-undead-labs-lay-off-a-significant-number-of-exceptionally-talented-developers-after-gaining-independence-from-xbox",
+          "titre": "State of Decay 3 studio Undead Labs lay off \"a significant number\" of \"exceptionally talented developers\" after gaining independence from Xbox"
+        }
+      ]
+    },
+    {
       "id": "xbox-is-reportedly-expected-to-fall-short-of-3-200-layoffs",
       "titre": "Xbox Is Reportedly Expected To Fall Short Of 3,200 Layoffs",
       "url": "https://www.nintendolife.com/news/2026/09/xbox-is-reportedly-expected-to-fall-short-of-3200-layoffs",
@@ -131,7 +125,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 15.9,
       "chaleur": 10,
       "liens": [
         {
@@ -149,7 +143,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 9,
       "liens": [
         {
@@ -168,7 +162,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 9,
       "liens": [
         {
@@ -191,49 +185,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/my-greatest-gta-5-challenge-yet-random-teleports-every-50-seconds/",
           "titre": "My greatest GTA 5 challenge yet: Random teleports every 50 seconds"
-        }
-      ]
-    },
-    {
-      "id": "rockstar-reveals-a-350-box-of-naughty-gta-6-collectables-you",
-      "titre": "Rockstar reveals a £350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security",
-      "url": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
-          "titre": "Rockstar reveals a £350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-collector-s-box-is-400-doesn-t-include-the-game",
-      "titre": "GTA 6 Collector's Box Is $400, Doesn't Include the Game",
-      "url": "https://www.pushsquare.com/news/2026/09/gta-6-collectors-box-is-usd400-doesnt-include-the-game",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/gta-6-collectors-box-is-usd400-doesnt-include-the-game",
-          "titre": "GTA 6 Collector's Box Is $400, Doesn't Include the Game"
         }
       ]
     },
@@ -246,7 +204,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 6.0,
+      "heures": 7.9,
       "chaleur": 9,
       "liens": [
         {
@@ -270,7 +228,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 9,
       "liens": [
         {
@@ -293,7 +251,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 8,
       "liens": [
         {
@@ -311,7 +269,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.7,
       "chaleur": 8,
       "liens": [
         {
@@ -329,7 +287,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.7,
       "chaleur": 8,
       "liens": [
         {
@@ -340,56 +298,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "apple-nvidia-google-microsoft-pretty-much-all-the-big-us-pla",
-      "titre": "Apple, Nvidia, Google, Microsoft...pretty much all the big US players in the chip business are reportedly evaluating Intel's new 14A node",
-      "url": "https://www.pcgamer.com/hardware/processors/apple-nvidia-google-microsoft-pretty-much-all-the-big-us-players-in-the-chip-business-are-reportedly-evaluating-intels-new-14a-node/",
+      "id": "rockstar-reveals-a-350-box-of-naughty-gta-6-collectables-you",
+      "titre": "Rockstar reveals a £350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security",
+      "url": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
       "sources": [
-        "PC Gamer"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 8,
+      "heures": 4.0,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/processors/apple-nvidia-google-microsoft-pretty-much-all-the-big-us-players-in-the-chip-business-are-reportedly-evaluating-intels-new-14a-node/",
-          "titre": "Apple, Nvidia, Google, Microsoft...pretty much all the big US players in the chip business are reportedly evaluating Intel's new 14A node"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
+          "titre": "Rockstar reveals a £350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security"
         }
       ]
     },
     {
-      "id": "nintendo-download-24th-september-north-america-plus-3-games",
-      "titre": "Nintendo Download: 24th September (North America) - Plus 3 Games Worth Picking Up On Sale",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-24th-september-north-america-plus-3-games-worth-picking-up-on-sale",
+      "id": "gta-6-collector-s-box-is-400-doesn-t-include-the-game",
+      "titre": "GTA 6 Collector's Box Is $400, Doesn't Include the Game",
+      "url": "https://www.pushsquare.com/news/2026/09/gta-6-collectors-box-is-usd400-doesnt-include-the-game",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 8,
+      "heures": 4.9,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-24th-september-north-america-plus-3-games-worth-picking-up-on-sale",
-          "titre": "Nintendo Download: 24th September (North America) - Plus 3 Games Worth Picking Up On Sale"
-        }
-      ]
-    },
-    {
-      "id": "my-failed-steam-frame-teardown-and-ifixit-s-successful-one",
-      "titre": "My failed Steam Frame teardown... and iFixit's successful one",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/my-failed-steam-frame-teardown-and-ifixits-successful-one/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/my-failed-steam-frame-teardown-and-ifixits-successful-one/",
-          "titre": "My failed Steam Frame teardown... and iFixit's successful one"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/gta-6-collectors-box-is-usd400-doesnt-include-the-game",
+          "titre": "GTA 6 Collector's Box Is $400, Doesn't Include the Game"
         }
       ]
     },
@@ -401,7 +341,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.6,
       "chaleur": 7,
       "liens": [
         {
@@ -419,7 +359,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.9,
       "chaleur": 7,
       "liens": [
         {
@@ -592,20 +532,164 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mdev",
-      "titre": "MDEV",
-      "url": "https://www.gamedeveloper.comwww.mdevconf.com",
+      "id": "after-mainlining-30-hours-of-1440p-bloodborne-i-know-in-my-h",
+      "titre": "After mainlining 30 hours of 1440p Bloodborne, I know in my heart it belongs on PC",
+      "url": "https://www.pcgamer.com/games/after-mainlining-30-hours-of-1440p-bloodborne-i-know-in-my-heart-it-belongs-on-pc/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/after-mainlining-30-hours-of-1440p-bloodborne-i-know-in-my-heart-it-belongs-on-pc/",
+          "titre": "After mainlining 30 hours of 1440p Bloodborne, I know in my heart it belongs on PC"
+        }
+      ]
+    },
+    {
+      "id": "have-you-heard-how-much-money-kojima-wanted-physint-s-rumou",
+      "titre": "'Have You Heard How Much Money Kojima Wanted?': Physint's Rumoured Budget Said to Be 'Significant'",
+      "url": "https://www.pushsquare.com/news/2026/09/have-you-heard-how-much-money-kojima-wanted-physints-rumoured-budget-said-to-be-significant",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/have-you-heard-how-much-money-kojima-wanted-physints-rumoured-budget-said-to-be-significant",
+          "titre": "'Have You Heard How Much Money Kojima Wanted?': Physint's Rumoured Budget Said to Be 'Significant'"
+        }
+      ]
+    },
+    {
+      "id": "arc-raiders-population-stats-micropost",
+      "titre": "Arc Raiders population stats micropost",
+      "url": "https://www.pcgamer.com/games/arc-raiders-population-stats-micropost/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/arc-raiders-population-stats-micropost/",
+          "titre": "Arc Raiders population stats micropost"
+        }
+      ]
+    },
+    {
+      "id": "achievement-hunters-can-you-identify-the-games-these-milesto",
+      "titre": "Achievement hunters: Can you identify the games these milestones are from?",
+      "url": "https://www.pcgamer.com/games/achievement-hunters-can-you-identify-the-games-these-milestones-are-from/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/achievement-hunters-can-you-identify-the-games-these-milestones-are-from/",
+          "titre": "Achievement hunters: Can you identify the games these milestones are from?"
+        }
+      ]
+    },
+    {
+      "id": "control-resonant-embarrasses-me-specifically-with-a-launch-d",
+      "titre": "Control Resonant embarrasses me, specifically, with a launch day hotfix negating my main review complaint",
+      "url": "https://www.pcgamer.com/games/action/control-resonant-embarrasses-me-specifically-with-a-launch-day-hotfix-negating-my-main-review-complaint/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/control-resonant-embarrasses-me-specifically-with-a-launch-day-hotfix-negating-my-main-review-complaint/",
+          "titre": "Control Resonant embarrasses me, specifically, with a launch day hotfix negating my main review complaint"
+        }
+      ]
+    },
+    {
+      "id": "the-future-of-marathon-includes-a-fungus-filled-perimeter-a",
+      "titre": "The future of Marathon includes a fungus-filled Perimeter, a social hub, and a shift \"beyond extraction\"",
+      "url": "https://www.rockpapershotgun.com/the-future-of-marathon-includes-a-fungus-filled-perimeter-a-social-hub-and-a-shift-beyond-extraction",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-future-of-marathon-includes-a-fungus-filled-perimeter-a-social-hub-and-a-shift-beyond-extraction",
+          "titre": "The future of Marathon includes a fungus-filled Perimeter, a social hub, and a shift \"beyond extraction\""
+        }
+      ]
+    },
+    {
+      "id": "meta-announces-new-vr-glasses-that-weigh-about-100-grams-and",
+      "titre": "Meta announces new VR glasses that weigh about 100 grams and cost $1,300",
+      "url": "https://www.gamedeveloper.com/business/meta-announces-new-vr-glasses-that-weight-about-100-grams-and-cost-1-300",
       "sources": [
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 1.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
-          "url": "https://www.gamedeveloper.comwww.mdevconf.com",
-          "titre": "MDEV"
+          "url": "https://www.gamedeveloper.com/business/meta-announces-new-vr-glasses-that-weight-about-100-grams-and-cost-1-300",
+          "titre": "Meta announces new VR glasses that weigh about 100 grams and cost $1,300"
+        }
+      ]
+    },
+    {
+      "id": "pc-gamer-s-hyperfeed-beta-is-live",
+      "titre": "PC Gamer's Hyperfeed beta is live",
+      "url": "https://www.pcgamer.com/gaming-industry/pc-gamer-hyperfeed-beta-is-live/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/pc-gamer-hyperfeed-beta-is-live/",
+          "titre": "PC Gamer's Hyperfeed beta is live"
+        }
+      ]
+    },
+    {
+      "id": "we-all-thought-we-were-bringing-extraction-to-the-masses-an",
+      "titre": "'We all thought we were bringing extraction to the masses, and we didn't'",
+      "url": "https://www.pcgamer.com/games/we-all-thought-we-were-bringing-extraction-to-the-masses-and-we-didnt/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/we-all-thought-we-were-bringing-extraction-to-the-masses-and-we-didnt/",
+          "titre": "'We all thought we were bringing extraction to the masses, and we didn't'"
         }
       ]
     },
@@ -617,7 +701,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
@@ -635,7 +719,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -653,7 +737,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -671,7 +755,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -689,7 +773,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -707,7 +791,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -718,308 +802,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "this-week-s-free-epic-games-store-titles-are-astrea-and-mech",
-      "titre": "This week’s free Epic Games Store titles are Astrea and Mechabellum",
-      "url": "https://www.videogameschronicle.com/news/this-weeks-free-epic-games-store-titles-are-astrea-and-mechabellum/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/this-weeks-free-epic-games-store-titles-are-astrea-and-mechabellum/",
-          "titre": "This week’s free Epic Games Store titles are Astrea and Mechabellum"
-        }
-      ]
-    },
-    {
-      "id": "fire-emblem-fortune-s-weave-reach-secret-altar-purloined-spe",
-      "titre": "Fire Emblem Fortune’s Weave: Reach Secret Altar, Purloined Spellcaster’s Tools quest guide",
-      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-reach-secret-altar-purloined-spellcasters-tools-quest-guide/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-reach-secret-altar-purloined-spellcasters-tools-quest-guide/",
-          "titre": "Fire Emblem Fortune’s Weave: Reach Secret Altar, Purloined Spellcaster’s Tools quest guide"
-        }
-      ]
-    },
-    {
-      "id": "book-review-aliens-the-video-games-a-detailed-dive-into-xeno",
-      "titre": "Book Review: Aliens: The Video Games - A Detailed Dive Into Xeno Adaptations",
-      "url": "https://www.nintendolife.com/features/book-review-aliens-the-video-games-a-detailed-dive-into-xeno-adaptations",
+      "id": "nintendo-download-24th-september-north-america-plus-3-games",
+      "titre": "Nintendo Download: 24th September (North America) - Plus 3 Games Worth Picking Up On Sale",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-24th-september-north-america-plus-3-games-worth-picking-up-on-sale",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 5.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/book-review-aliens-the-video-games-a-detailed-dive-into-xeno-adaptations",
-          "titre": "Book Review: Aliens: The Video Games - A Detailed Dive Into Xeno Adaptations"
-        }
-      ]
-    },
-    {
-      "id": "this-striking-ps5-rhythm-game-promises-a-heartfelt-story-and",
-      "titre": "This Striking PS5 Rhythm Game Promises a Heartfelt Story and 49 Original Songs",
-      "url": "https://www.pushsquare.com/news/2026/09/this-striking-ps5-rhythm-game-promises-a-heartfelt-story-and-49-original-songs",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/this-striking-ps5-rhythm-game-promises-a-heartfelt-story-and-49-original-songs",
-          "titre": "This Striking PS5 Rhythm Game Promises a Heartfelt Story and 49 Original Songs"
-        }
-      ]
-    },
-    {
-      "id": "minecraft-beat-minecraft-after-2-billion-years",
-      "titre": "Minecraft beat Minecraft after 2 billion years",
-      "url": "https://www.pcgamer.com/games/survival-crafting/minecraft-beat-minecraft-after-2-billion-years/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/minecraft-beat-minecraft-after-2-billion-years/",
-          "titre": "Minecraft beat Minecraft after 2 billion years"
-        }
-      ]
-    },
-    {
-      "id": "to-celebrate-silent-hill-townfall-s-release-i-ranked-all-my",
-      "titre": "To celebrate Silent Hill: Townfall's release I ranked all my coworkers based on whether I think they could actually survive the horrors of St Amelia",
-      "url": "https://www.pcgamer.com/games/horror/to-celebrate-silent-hill-townfalls-release-i-ranked-all-my-coworkers-based-on-whether-i-think-they-could-actually-survive-the-horrors-of-st-amelia/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/to-celebrate-silent-hill-townfalls-release-i-ranked-all-my-coworkers-based-on-whether-i-think-they-could-actually-survive-the-horrors-of-st-amelia/",
-          "titre": "To celebrate Silent Hill: Townfall's release I ranked all my coworkers based on whether I think they could actually survive the horrors of St Amelia"
-        }
-      ]
-    },
-    {
-      "id": "grand-theft-auto-6-is-getting-a-400-box-of-merch-with-11-ite",
-      "titre": "Grand Theft Auto 6 is getting a $400 box of merch with 11 items including a figure, New Era hat and sunglasses",
-      "url": "https://www.videogameschronicle.com/news/grand-theft-auto-6-is-getting-a-400-box-of-merch-with-11-items-including-a-figure-sunglasses-and-new-era-hat/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/grand-theft-auto-6-is-getting-a-400-box-of-merch-with-11-items-including-a-figure-sunglasses-and-new-era-hat/",
-          "titre": "Grand Theft Auto 6 is getting a $400 box of merch with 11 items including a figure, New Era hat and sunglasses"
-        }
-      ]
-    },
-    {
-      "id": "survival-game-buildings-part-1",
-      "titre": "Survival game buildings, Part 1",
-      "url": "https://www.pcgamer.com/games/survival-crafting/survival-game-buildings-part-1/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/survival-game-buildings-part-1/",
-          "titre": "Survival game buildings, Part 1"
-        }
-      ]
-    },
-    {
-      "id": "warhammer-40-000-rogue-trader-s-final-dlc-is-now-coming-in-d",
-      "titre": "Warhammer 40,000: Rogue Trader's final DLC is now coming in December, with an \"unsanctioned psyker\" companion who cries tears of blood",
-      "url": "https://www.rockpapershotgun.com/warhammer-40000-rogue-traders-final-dlc-is-now-coming-in-december-with-an-unsanctioned-psyker-companion-who-cries-tears-of-blood",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/warhammer-40000-rogue-traders-final-dlc-is-now-coming-in-december-with-an-unsanctioned-psyker-companion-who-cries-tears-of-blood",
-          "titre": "Warhammer 40,000: Rogue Trader's final DLC is now coming in December, with an \"unsanctioned psyker\" companion who cries tears of blood"
-        }
-      ]
-    },
-    {
-      "id": "discord-is-not-my-friend",
-      "titre": "Discord is not my friend",
-      "url": "https://www.pcgamer.com/software/platforms/discord-is-not-my-friend/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/platforms/discord-is-not-my-friend/",
-          "titre": "Discord is not my friend"
-        }
-      ]
-    },
-    {
-      "id": "it-s-time-to-decide-the-worst-graphical-effect-in-games-moti",
-      "titre": "It's time to decide the worst graphical effect in games: motion blur vs lens flare",
-      "url": "https://www.pcgamer.com/hardware/its-time-to-decide-the-worst-graphical-effect-in-games-motion-blur-vs-lens-flare/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/its-time-to-decide-the-worst-graphical-effect-in-games-motion-blur-vs-lens-flare/",
-          "titre": "It's time to decide the worst graphical effect in games: motion blur vs lens flare"
-        }
-      ]
-    },
-    {
-      "id": "there-are-39-stardew-valley-shaped-farm-sims-that-are-still",
-      "titre": "There are 39* Stardew Valley-shaped farm sims that are still planning to launch in 2026 and I have 234 hours** of gaming time remaining.",
-      "url": "https://www.pcgamer.com/games/there-are-39-stardew-valley-shaped-farm-sims-that-are-still-planning-to-launch-in-2026-and-i-have-234-hours-of-gaming-time-remaining/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/there-are-39-stardew-valley-shaped-farm-sims-that-are-still-planning-to-launch-in-2026-and-i-have-234-hours-of-gaming-time-remaining/",
-          "titre": "There are 39* Stardew Valley-shaped farm sims that are still planning to launch in 2026 and I have 234 hours** of gaming time remaining."
-        }
-      ]
-    },
-    {
-      "id": "where-to-find-the-shimanoyama-region-treasure-hunt-in-forza",
-      "titre": "Where to find the Shimanoyama region Treasure Hunt in Forza Horizon 6",
-      "url": "https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-hunt-shimanoyama-region/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-hunt-shimanoyama-region/",
-          "titre": "Where to find the Shimanoyama region Treasure Hunt in Forza Horizon 6"
-        }
-      ]
-    },
-    {
-      "id": "my-first-mmo-character-4-lincoln-carpenter",
-      "titre": "My first MMO character #4: Lincoln Carpenter",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-4-lincoln-carpenter/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-4-lincoln-carpenter/",
-          "titre": "My first MMO character #4: Lincoln Carpenter"
-        }
-      ]
-    },
-    {
-      "id": "pok-mon-tcg-pocket-s-next-expansion-has-a-guaranteed-rare-in",
-      "titre": "Pokémon TCG Pocket's Next Expansion Has A Guaranteed Rare In Every Pack",
-      "url": "https://www.nintendolife.com/news/2026/09/pokemon-tcg-pockets-next-expansion-has-a-guaranteed-rare-in-every-pack",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/pokemon-tcg-pockets-next-expansion-has-a-guaranteed-rare-in-every-pack",
-          "titre": "Pokémon TCG Pocket's Next Expansion Has A Guaranteed Rare In Every Pack"
-        }
-      ]
-    },
-    {
-      "id": "control-resonant-made-easier-after-player-feedback-ps5-patch",
-      "titre": "Control Resonant Made Easier After Player Feedback, PS5 Patch Live Now",
-      "url": "https://www.pushsquare.com/news/2026/09/control-resonant-made-easier-after-player-feedback-ps5-patch-live-now",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/control-resonant-made-easier-after-player-feedback-ps5-patch-live-now",
-          "titre": "Control Resonant Made Easier After Player Feedback, PS5 Patch Live Now"
-        }
-      ]
-    },
-    {
-      "id": "starfield-2-will-likely-never-happen-because-the-first-wasn",
-      "titre": "Starfield 2 will likely never happen because the first wasn’t ‘anywhere near successful enough’, former dev says",
-      "url": "https://www.videogameschronicle.com/news/starfield-2-will-likely-never-happen-because-the-first-wasnt-anywhere-near-successful-enough-former-dev-says/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/starfield-2-will-likely-never-happen-because-the-first-wasnt-anywhere-near-successful-enough-former-dev-says/",
-          "titre": "Starfield 2 will likely never happen because the first wasn’t ‘anywhere near successful enough’, former dev says"
+          "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-24th-september-north-america-plus-3-games-worth-picking-up-on-sale",
+          "titre": "Nintendo Download: 24th September (North America) - Plus 3 Games Worth Picking Up On Sale"
         }
       ]
     },
@@ -1031,7 +827,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 6,
       "liens": [
         {
@@ -1049,7 +845,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.6,
       "chaleur": 6,
       "liens": [
         {
@@ -1067,7 +863,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 6,
       "liens": [
         {
@@ -1085,7 +881,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.8,
       "chaleur": 6,
       "liens": [
         {
@@ -1103,7 +899,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.8,
       "chaleur": 6,
       "liens": [
         {
@@ -1121,7 +917,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.1,
       "chaleur": 6,
       "liens": [
         {
@@ -1139,13 +935,211 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/1080d-snowboarding-had-a-ton-of-questionable-stuff-removed-says-veteran-nintendo-producer",
           "titre": "1080° Snowboarding Had \"A Ton Of Questionable Stuff\" Removed, Says Veteran Nintendo Producer"
+        }
+      ]
+    },
+    {
+      "id": "the-day-before-ea-sports-fc-27-is-released-konami-s-switch-2",
+      "titre": "The day before EA Sports FC 27 is released, Konami’s Switch 2 rival eFootball Kick-Off gets a major new update",
+      "url": "https://www.videogameschronicle.com/news/the-day-before-ea-sports-fc-27-is-released-konamis-switch-2-rival-efootball-kick-off-gets-a-major-new-update/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 10.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-day-before-ea-sports-fc-27-is-released-konamis-switch-2-rival-efootball-kick-off-gets-a-major-new-update/",
+          "titre": "The day before EA Sports FC 27 is released, Konami’s Switch 2 rival eFootball Kick-Off gets a major new update"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-switch-2-welcome-tour-updated-to-ver-1-1-1-here-are",
+      "titre": "Nintendo Switch 2 Welcome Tour Updated To Ver. 1.1.1, Here Are The Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-switch-2-welcome-tour-updated-to-ver-1-1-1-here-are-the-patch-notes",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 18.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nintendo-switch-2-welcome-tour-updated-to-ver-1-1-1-here-are-the-patch-notes",
+          "titre": "Nintendo Switch 2 Welcome Tour Updated To Ver. 1.1.1, Here Are The Patch Notes"
+        }
+      ]
+    },
+    {
+      "id": "age-of-empires-developer-world-s-edge-hit-with-layoffs-follo",
+      "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision",
+      "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 30.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
+          "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision"
+        }
+      ]
+    },
+    {
+      "id": "former-halo-leaders-lament-effective-closure-of-halo-studios",
+      "titre": "Former Halo leaders lament effective closure of Halo Studios, as one employee finds themselves promoted and fired in same week",
+      "url": "https://www.eurogamer.net/halo-studios-closure-xbox-cuts-kiki-wolfkill-bonnie-ross",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 31.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/halo-studios-closure-xbox-cuts-kiki-wolfkill-bonnie-ross",
+          "titre": "Former Halo leaders lament effective closure of Halo Studios, as one employee finds themselves promoted and fired in same week"
+        }
+      ]
+    },
+    {
+      "id": "microsoft-files-patent-for-ad-credit-system-to-show-ads-on-p",
+      "titre": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay",
+      "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 12.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
+          "titre": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay"
+        }
+      ]
+    },
+    {
+      "id": "stellar-blade-s-switch-2-release-will-include-a-frame-genera",
+      "titre": "Stellar Blade's Switch 2 Release Will Include A Frame Generation Toggle",
+      "url": "https://www.nintendolife.com/news/2026/09/stellar-blades-switch-2-release-will-include-a-frame-generation-toggle",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 20.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/stellar-blades-switch-2-release-will-include-a-frame-generation-toggle",
+          "titre": "Stellar Blade's Switch 2 Release Will Include A Frame Generation Toggle"
+        }
+      ]
+    },
+    {
+      "id": "discord-launches-controversial-age-verification-system-using",
+      "titre": "Discord launches controversial age-verification system \"using the most privacy-preserving approach we could build\" months after first delay",
+      "url": "https://www.eurogamer.net/discord-controversial-age-verification-privacy-preserving",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 25.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/discord-controversial-age-verification-privacy-preserving",
+          "titre": "Discord launches controversial age-verification system \"using the most privacy-preserving approach we could build\" months after first delay"
+        }
+      ]
+    },
+    {
+      "id": "the-steam-machine-handles-control-resonant-capably-but-the-p",
+      "titre": "The Steam Machine handles Control Resonant capably, but the promised Steam Deck support is a letdown",
+      "url": "https://www.rockpapershotgun.com/the-steam-machine-handles-control-resonant-capably-but-the-promised-steam-deck-support-is-a-letdown",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 28.6,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-steam-machine-handles-control-resonant-capably-but-the-promised-steam-deck-support-is-a-letdown",
+          "titre": "The Steam Machine handles Control Resonant capably, but the promised Steam Deck support is a letdown"
+        }
+      ]
+    },
+    {
+      "id": "this-one-is-especially-bad-steam-game-about-mistreating-rag",
+      "titre": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year",
+      "url": "https://www.rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 29.2,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year",
+          "titre": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year"
+        }
+      ]
+    },
+    {
+      "id": "beloved-cockney-orc-lord-of-the-rings-games-shadow-of-mordor",
+      "titre": "Beloved cockney-orc Lord of the Rings games Shadow of Mordor and Shadow of War finally make their way to Switch 2",
+      "url": "https://www.eurogamer.net/lord-of-the-rings-shadow-of-mordor-war-switch-2",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 30.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/lord-of-the-rings-shadow-of-mordor-war-switch-2",
+          "titre": "Beloved cockney-orc Lord of the Rings games Shadow of Mordor and Shadow of War finally make their way to Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13",
+      "titre": "Sensor Tower: PC and PlayStation unit sales in Japan rise 13% to 21m during H1 2026, led by Resident Evil Requiem",
+      "url": "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 31.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem",
+          "titre": "Sensor Tower: PC and PlayStation unit sales in Japan rise 13% to 21m during H1 2026, led by Resident Evil Requiem"
         }
       ]
     }
