@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "24/09/2026 à 04h21",
+  "collecte": "24/09/2026 à 06h25",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 17.0,
+      "heures": 19.1,
       "chaleur": 20,
       "liens": [
         {
@@ -46,27 +46,21 @@ const VEILLE = {
       ]
     },
     {
-      "id": "age-of-empires-developer-world-s-edge-hit-with-layoffs-follo",
-      "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision",
-      "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
+      "id": "xbox-is-reportedly-expected-to-fall-short-of-3-200-layoffs",
+      "titre": "Xbox Is Reportedly Expected To Fall Short Of 3,200 Layoffs",
+      "url": "https://www.nintendolife.com/news/2026/09/xbox-is-reportedly-expected-to-fall-short-of-3200-layoffs",
       "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz",
+        "Nintendo Life",
         "Rock Paper Shotgun"
       ],
-      "reprises": 3,
-      "heures": 14.4,
+      "reprises": 2,
+      "heures": 2.0,
       "chaleur": 16,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
-          "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/age-of-empire-worlds-edge-studio-xbox-cuts",
-          "titre": "Age of Empires studio World's Edge reportedly lost \"nearly half\" of its staff during yesterday's Xbox cuts and move to Activision"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/xbox-is-reportedly-expected-to-fall-short-of-3200-layoffs",
+          "titre": "Xbox Is Reportedly Expected To Fall Short Of 3,200 Layoffs"
         },
         {
           "source": "Rock Paper Shotgun",
@@ -86,8 +80,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 11.5,
-      "chaleur": 15,
+      "heures": 13.6,
+      "chaleur": 14,
       "liens": [
         {
           "source": "PC Gamer",
@@ -112,20 +106,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-switch-2-welcome-tour-updated-to-ver-1-1-1-here-are",
-      "titre": "Nintendo Switch 2 Welcome Tour Updated To Ver. 1.1.1, Here Are The Patch Notes",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-switch-2-welcome-tour-updated-to-ver-1-1-1-here-are-the-patch-notes",
+      "id": "age-of-empires-developer-world-s-edge-hit-with-layoffs-follo",
+      "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision",
+      "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer",
+        "GamesIndustry.biz"
       ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 9,
+      "reprises": 2,
+      "heures": 16.5,
+      "chaleur": 13,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendo-switch-2-welcome-tour-updated-to-ver-1-1-1-here-are-the-patch-notes",
-          "titre": "Nintendo Switch 2 Welcome Tour Updated To Ver. 1.1.1, Here Are The Patch Notes"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
+          "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/age-of-empire-worlds-edge-studio-xbox-cuts",
+          "titre": "Age of Empires studio World's Edge reportedly lost \"nearly half\" of its staff during yesterday's Xbox cuts and move to Activision"
         }
       ]
     },
@@ -138,7 +138,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 7.5,
+      "heures": 9.5,
       "chaleur": 9,
       "liens": [
         {
@@ -162,7 +162,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 9.4,
+      "heures": 11.5,
       "chaleur": 9,
       "liens": [
         {
@@ -178,6 +178,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "nintendo-switch-2-welcome-tour-updated-to-ver-1-1-1-here-are",
+      "titre": "Nintendo Switch 2 Welcome Tour Updated To Ver. 1.1.1, Here Are The Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-switch-2-welcome-tour-updated-to-ver-1-1-1-here-are-the-patch-notes",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nintendo-switch-2-welcome-tour-updated-to-ver-1-1-1-here-are-the-patch-notes",
+          "titre": "Nintendo Switch 2 Welcome Tour Updated To Ver. 1.1.1, Here Are The Patch Notes"
+        }
+      ]
+    },
+    {
       "id": "bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
       "titre": "Bethesda boss confirms Obsidian will remain a \"distinct\" team",
       "url": "https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
@@ -186,7 +204,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 9.6,
+      "heures": 11.6,
       "chaleur": 7,
       "liens": [
         {
@@ -198,30 +216,6 @@ const VEILLE = {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/obsidian-creative-identity-bethesda-fallout-xbox-restructuring",
           "titre": "Obsidian's \"creative identity and strengths\" will remain intact, promises Bethesda, as it takes control of Fallout: New Vegas studio"
-        }
-      ]
-    },
-    {
-      "id": "fire-emblem-fortune-s-weave-bird-time-explained-how-and-why",
-      "titre": "Fire Emblem Fortune’s Weave: Bird Time explained, how and why you should do it",
-      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-bird-time-explained-how-and-why-you-should-do-it/",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 11.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-bird-time-explained-how-and-why-you-should-do-it/",
-          "titre": "Fire Emblem Fortune’s Weave: Bird Time explained, how and why you should do it"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/poll-whos-your-favourite-fire-emblem-fortunes-weave-character",
-          "titre": "Poll: Who's Your Favourite Fire Emblem: Fortune's Weave Character?"
         }
       ]
     },
@@ -449,7 +443,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -467,31 +461,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/random-phoenix-wright-is-kind-of-getting-a-new-game-but-its-vr",
           "titre": "Random: Phoenix Wright Is Kind Of Getting A New Game, But It's VR"
-        }
-      ]
-    },
-    {
-      "id": "metroid-ravenous-announcement-sees-demand-for-physical-copie",
-      "titre": "Metroid Ravenous Announcement Sees Demand For Physical Copies Of Metroid Dread Spike",
-      "url": "https://www.nintendolife.com/news/2026/09/metroid-ravenous-announcement-sees-demand-for-physical-copies-of-metroid-dread-spike",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/metroid-ravenous-announcement-sees-demand-for-physical-copies-of-metroid-dread-spike",
-          "titre": "Metroid Ravenous Announcement Sees Demand For Physical Copies Of Metroid Dread Spike"
         }
       ]
     },
@@ -503,7 +479,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 6,
       "liens": [
         {
@@ -514,20 +490,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "report-bethesda-president-tells-obsidian-staff-it-won-t-lose",
-      "titre": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge",
-      "url": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
+      "id": "fire-emblem-fortune-s-weave-bird-time-explained-how-and-why",
+      "titre": "Fire Emblem Fortune’s Weave: Bird Time explained, how and why you should do it",
+      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-bird-time-explained-how-and-why-you-should-do-it/",
       "sources": [
-        "Game Developer"
+        "Nintendo Life",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 11.3,
+      "reprises": 2,
+      "heures": 13.1,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
-          "titre": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-bird-time-explained-how-and-why-you-should-do-it/",
+          "titre": "Fire Emblem Fortune’s Weave: Bird Time explained, how and why you should do it"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/poll-whos-your-favourite-fire-emblem-fortunes-weave-character",
+          "titre": "Poll: Who's Your Favourite Fire Emblem: Fortune's Weave Character?"
         }
       ]
     },
@@ -539,7 +521,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 17.1,
       "chaleur": 6,
       "liens": [
         {
@@ -557,13 +539,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-times-limited-edition-switch-2-cover-apparently-had-one-retailer-trying-to-double-its-orders",
           "titre": "Zelda: Ocarina Of Time's Limited Edition Switch 2 Cover Apparently Had One Retailer Trying To Double Its Orders"
+        }
+      ]
+    },
+    {
+      "id": "report-bethesda-president-tells-obsidian-staff-it-won-t-lose",
+      "titre": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge",
+      "url": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 13.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
+          "titre": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge"
         }
       ]
     },
@@ -575,7 +575,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.7,
       "chaleur": 5,
       "liens": [
         {
@@ -593,7 +593,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 16.0,
       "chaleur": 5,
       "liens": [
         {
@@ -611,7 +611,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.5,
       "chaleur": 5,
       "liens": [
         {
@@ -629,7 +629,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.1,
       "chaleur": 5,
       "liens": [
         {
@@ -647,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 5,
       "liens": [
         {
@@ -665,7 +665,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 20.7,
       "chaleur": 5,
       "liens": [
         {
@@ -683,7 +683,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.4,
       "chaleur": 5,
       "liens": [
         {
@@ -701,31 +701,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.6,
+      "heures": 28.7,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/trover-saves-the-universe-has-completely-vanished-from-the-switch-eshop",
           "titre": "Trover Saves The Universe Has Completely Vanished From The Switch eShop"
-        }
-      ]
-    },
-    {
-      "id": "thq-nordic-is-treating-existing-epic-mickey-rebrushed-owners",
-      "titre": "THQ Nordic Is Treating Existing Epic Mickey: Rebrushed Owners To A Free Upgrade On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/09/thq-nordic-is-treating-existing-epic-mickey-rebrushed-owners-to-a-free-upgrade-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 27.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/thq-nordic-is-treating-existing-epic-mickey-rebrushed-owners-to-a-free-upgrade-on-switch-2",
-          "titre": "THQ Nordic Is Treating Existing Epic Mickey: Rebrushed Owners To A Free Upgrade On Switch 2"
         }
       ]
     },
@@ -737,7 +719,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 28.9,
+      "heures": 30.9,
       "chaleur": 5,
       "liens": [
         {
@@ -748,20 +730,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "prebuilt-steam-machine-faceplate-screens-are-here-delivering",
-      "titre": "Prebuilt Steam Machine faceplate screens are here, delivering decent, surprisingly cheaper alternatives to Valve-approved DIY builds",
-      "url": "https://www.rockpapershotgun.com/prebuilt-steam-machine-faceplate-screens-are-here-delivering-decent-surprisingly-cheaper-alternatives-to-valve-approved-diy-builds",
+      "id": "metroid-ravenous-announcement-sees-demand-for-physical-copie",
+      "titre": "Metroid Ravenous Announcement Sees Demand For Physical Copies Of Metroid Dread Spike",
+      "url": "https://www.nintendolife.com/news/2026/09/metroid-ravenous-announcement-sees-demand-for-physical-copies-of-metroid-dread-spike",
       "sources": [
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 5,
+      "heures": 5.7,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/prebuilt-steam-machine-faceplate-screens-are-here-delivering-decent-surprisingly-cheaper-alternatives-to-valve-approved-diy-builds",
-          "titre": "Prebuilt Steam Machine faceplate screens are here, delivering decent, surprisingly cheaper alternatives to Valve-approved DIY builds"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/metroid-ravenous-announcement-sees-demand-for-physical-copies-of-metroid-dread-spike",
+          "titre": "Metroid Ravenous Announcement Sees Demand For Physical Copies Of Metroid Dread Spike"
         }
       ]
     },
@@ -773,7 +755,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -791,7 +773,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -809,7 +791,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -827,7 +809,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +827,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -863,7 +845,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +863,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +899,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +917,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +935,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +953,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -989,8 +971,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1007,8 +989,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1025,8 +1007,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1043,8 +1025,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1061,8 +1043,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1079,7 +1061,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1097,7 +1079,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1115,7 +1097,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1133,7 +1115,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1151,7 +1133,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1160,7 +1142,27 @@ const VEILLE = {
           "titre": "Persona 6 Could Get Its Big Reveal in March, as Atlus Announces First Super Live Show in Four Years"
         }
       ]
+    },
+    {
+      "id": "new-publisher-publsh-launches-with-disco-elysium-inspired-ti",
+      "titre": "New publisher PUBLSH launches with Disco Elysium-inspired title Pera Coda",
+      "url": "https://www.gamesindustry.biz/new-publisher-publsh-launches-with-disco-elysium-inspired-title-pera-coda",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 17.4,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/new-publisher-publsh-launches-with-disco-elysium-inspired-title-pera-coda",
+          "titre": "New publisher PUBLSH launches with Disco Elysium-inspired title Pera Coda"
+        }
+      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Xbox Is Reportedly Expected To Fall Short Of 3,200 Layoffs"
+  ]
 };
