@@ -1,22 +1,28 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "24/09/2026 à 12h25",
+  "collecte": "24/09/2026 à 14h21",
   "seuil": 14,
   "sujets": [
     {
-      "id": "bethesda-say-new-underlings-obsidian-will-retain-their-disti",
-      "titre": "Bethesda say new underlings Obsidian will retain their \"distinct\" creative identity, despite no longer being as free to work on their own creatively distinct series",
-      "url": "https://www.rockpapershotgun.com/bethesda-say-new-underlings-obsidian-will-retain-their-distinct-creative-identity-despite-no-longer-being-as-free-to-work-on-their-own-creatively-distinct-series",
+      "id": "obsidian-remains-distinct-and-keeps-leadership-team-after-be",
+      "titre": "Obsidian Remains 'Distinct' and Keeps Leadership Team After Being Absorbed by Bethesda",
+      "url": "https://www.pushsquare.com/news/2026/09/obsidian-remains-distinct-and-keeps-leadership-team-after-being-absorbed-by-bethesda",
       "sources": [
         "Eurogamer",
         "Game Developer",
         "GamesIndustry.biz",
+        "Push Square",
         "Rock Paper Shotgun"
       ],
-      "reprises": 4,
+      "reprises": 5,
       "heures": 1.4,
-      "chaleur": 17,
+      "chaleur": 20,
       "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/obsidian-remains-distinct-and-keeps-leadership-team-after-being-absorbed-by-bethesda",
+          "titre": "Obsidian Remains 'Distinct' and Keeps Leadership Team After Being Absorbed by Bethesda"
+        },
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/bethesda-say-new-underlings-obsidian-will-retain-their-distinct-creative-identity-despite-no-longer-being-as-free-to-work-on-their-own-creatively-distinct-series",
@@ -48,7 +54,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 0.5,
+      "heures": 2.4,
       "chaleur": 14,
       "liens": [
         {
@@ -72,7 +78,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 8.0,
+      "heures": 9.9,
       "chaleur": 14,
       "liens": [
         {
@@ -97,7 +103,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 25.1,
+      "heures": 27.0,
       "chaleur": 14,
       "liens": [
         {
@@ -126,7 +132,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 22.5,
+      "heures": 24.4,
       "chaleur": 13,
       "liens": [
         {
@@ -142,6 +148,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "i-assume-someone-is-being-greedy-somewhere-tim-schafer-disc",
+      "titre": "\"I assume someone is being greedy somewhere\" - Tim Schafer discusses current game industry woes following Double Fine's split with Xbox",
+      "url": "https://www.eurogamer.net/double-fine-tim-schafer-xbox-greedy",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.9,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/double-fine-tim-schafer-xbox-greedy",
+          "titre": "\"I assume someone is being greedy somewhere\" - Tim Schafer discusses current game industry woes following Double Fine's split with Xbox"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/i-just-assume-someone-is-being-greedy-double-fines-tim-schafer-says-he-doesnt-know-why-the-industry-isnt-recovering/",
+          "titre": "‘I just assume someone is being greedy’: Double Fine’s Tim Schafer says he doesn’t know why the industry isn’t recovering"
+        }
+      ]
+    },
+    {
       "id": "discord-roll-out-revised-age-verification-following-delay-du",
       "titre": "Discord roll out revised age verification following delay due to pushback, pledging to be \"safer for teens, same Discord for Adults\"",
       "url": "https://www.rockpapershotgun.com/discord-roll-out-revised-age-verification-following-delay-due-to-pushback-pledging-to-be-safer-for-teens-same-discord-for-adults",
@@ -150,7 +180,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 11,
       "liens": [
         {
@@ -173,7 +203,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.6,
       "chaleur": 9,
       "liens": [
         {
@@ -191,7 +221,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.8,
       "chaleur": 9,
       "liens": [
         {
@@ -209,7 +239,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 9,
       "liens": [
         {
@@ -220,26 +250,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "player-discovers-game-changing-pair-of-pants-in-world-of-war",
-      "titre": "Player discovers game-changing pair of pants in World of Warcraft: Forever",
-      "url": "https://www.eurogamer.net/world-of-warcraft-forever-pants-smelter-professions",
+      "id": "dutch-consumer-group-files-lawsuit-against-epic-for-misleadi",
+      "titre": "Dutch consumer group files lawsuit against Epic for misleading young players on Fortnite, seeking more than €100m in compensation",
+      "url": "https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation",
       "sources": [
-        "Eurogamer",
-        "PC Gamer"
+        "GamesIndustry.biz"
       ],
-      "reprises": 2,
-      "heures": 2.7,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/world-of-warcraft-forever-pants-smelter-professions",
-          "titre": "Player discovers game-changing pair of pants in World of Warcraft: Forever"
-        },
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation",
+          "titre": "Dutch consumer group files lawsuit against Epic for misleading young players on Fortnite, seeking more than €100m in compensation"
+        }
+      ]
+    },
+    {
+      "id": "rumour-zelda-movie-rumblings-suggest-a-first-trailer-might-b",
+      "titre": "Rumour: Zelda Movie Rumblings Suggest A First Trailer Might Be Around The Corner",
+      "url": "https://www.nintendolife.com/news/2026/09/rumour-zelda-movie-rumblings-suggest-a-first-trailer-might-be-around-the-corner",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 8,
+      "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-first-patch-will-bring-back-the-number-one-thing-seasoned-players-missed-from-the-mmos-past-storms/",
-          "titre": "World of Warcraft: Forever's first patch will bring back the number one thing seasoned players missed from the MMO's past: storms"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/rumour-zelda-movie-rumblings-suggest-a-first-trailer-might-be-around-the-corner",
+          "titre": "Rumour: Zelda Movie Rumblings Suggest A First Trailer Might Be Around The Corner"
         }
       ]
     },
@@ -251,7 +293,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 8,
       "liens": [
         {
@@ -269,7 +311,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.8,
       "chaleur": 8,
       "liens": [
         {
@@ -287,7 +329,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.8,
       "chaleur": 8,
       "liens": [
         {
@@ -305,7 +347,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.1,
       "chaleur": 8,
       "liens": [
         {
@@ -323,97 +365,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/1080d-snowboarding-had-a-ton-of-questionable-stuff-removed-says-veteran-nintendo-producer",
           "titre": "1080° Snowboarding Had \"A Ton Of Questionable Stuff\" Removed, Says Veteran Nintendo Producer"
-        }
-      ]
-    },
-    {
-      "id": "the-day-before-ea-sports-fc-27-is-released-konami-s-switch-2",
-      "titre": "The day before EA Sports FC 27 is released, Konami’s Switch 2 rival eFootball Kick-Off gets a major new update",
-      "url": "https://www.videogameschronicle.com/news/the-day-before-ea-sports-fc-27-is-released-konamis-switch-2-rival-efootball-kick-off-gets-a-major-new-update/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-day-before-ea-sports-fc-27-is-released-konamis-switch-2-rival-efootball-kick-off-gets-a-major-new-update/",
-          "titre": "The day before EA Sports FC 27 is released, Konami’s Switch 2 rival eFootball Kick-Off gets a major new update"
-        }
-      ]
-    },
-    {
-      "id": "steam-game-disables-mods-after-facing-its-second-workshop-ma",
-      "titre": "Steam game disables mods after facing its second Workshop malware outbreak this year",
-      "url": "https://www.pcgamer.com/games/sim/steam-game-disables-mods-after-facing-its-second-workshop-malware-outbreak-this-year/",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 15.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/steam-game-disables-mods-after-facing-its-second-workshop-malware-outbreak-this-year/",
-          "titre": "Steam game disables mods after facing its second Workshop malware outbreak this year"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year",
-          "titre": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year"
-        }
-      ]
-    },
-    {
-      "id": "resident-evil-film-producer-turns-to-new-silent-hill-movie-r",
-      "titre": "Resident Evil Film Producer Turns to New Silent Hill Movie, Report Claims",
-      "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-producer-turns-to-new-silent-hill-movie-report-claims",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 24.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-producer-turns-to-new-silent-hill-movie-report-claims",
-          "titre": "Resident Evil Film Producer Turns to New Silent Hill Movie, Report Claims"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/resident-evil-movie-review",
-          "titre": "Resident Evil movie review - the best video game adaptation of playing a video game"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-switch-2-welcome-tour-updated-to-ver-1-1-1-here-are",
-      "titre": "Nintendo Switch 2 Welcome Tour Updated To Ver. 1.1.1, Here Are The Patch Notes",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-switch-2-welcome-tour-updated-to-ver-1-1-1-here-are-the-patch-notes",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendo-switch-2-welcome-tour-updated-to-ver-1-1-1-here-are-the-patch-notes",
-          "titre": "Nintendo Switch 2 Welcome Tour Updated To Ver. 1.1.1, Here Are The Patch Notes"
         }
       ]
     },
@@ -616,6 +574,204 @@ const VEILLE = {
       ]
     },
     {
+      "id": "join-me-in-meditating-on-clubbing-a-wow-scorpion",
+      "titre": "Join me in meditating on clubbing a WoW scorpion",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/join-me-in-meditating-on-clubbing-a-wow-scorpion/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/join-me-in-meditating-on-clubbing-a-wow-scorpion/",
+          "titre": "Join me in meditating on clubbing a WoW scorpion"
+        }
+      ]
+    },
+    {
+      "id": "rumour-ps6-hardware-complete-double-the-power-of-ps5-with-ha",
+      "titre": "Rumour: PS6 Hardware Complete, Double the Power of PS5 with Handheld Model",
+      "url": "https://www.pushsquare.com/news/2026/09/rumour-ps6-hardware-complete-double-the-power-of-ps5-with-handheld-model",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/rumour-ps6-hardware-complete-double-the-power-of-ps5-with-handheld-model",
+          "titre": "Rumour: PS6 Hardware Complete, Double the Power of PS5 with Handheld Model"
+        }
+      ]
+    },
+    {
+      "id": "the-timeless-power-of-shiv",
+      "titre": "The timeless power of Shiv",
+      "url": "https://www.pcgamer.com/games/the-timeless-power-of-shiv/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-timeless-power-of-shiv/",
+          "titre": "The timeless power of Shiv"
+        }
+      ]
+    },
+    {
+      "id": "this-ultra-realistic-racing-game-will-make-its-ps5-console-e",
+      "titre": "This Ultra Realistic Racing Game Will Make Its PS5 Console Exclusive Debut Next Month",
+      "url": "https://www.pushsquare.com/news/2026/09/this-ultra-realistic-racing-game-will-make-its-ps5-console-exclusive-debut-next-month",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/this-ultra-realistic-racing-game-will-make-its-ps5-console-exclusive-debut-next-month",
+          "titre": "This Ultra Realistic Racing Game Will Make Its PS5 Console Exclusive Debut Next Month"
+        }
+      ]
+    },
+    {
+      "id": "psvr2-misses-out-on-virtual-reality-phoenix-wright-release",
+      "titre": "PSVR2 Misses Out on Virtual Reality Phoenix Wright Release",
+      "url": "https://www.pushsquare.com/news/2026/09/psvr2-misses-out-on-virtual-reality-phoenix-wright-release",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/psvr2-misses-out-on-virtual-reality-phoenix-wright-release",
+          "titre": "PSVR2 Misses Out on Virtual Reality Phoenix Wright Release"
+        }
+      ]
+    },
+    {
+      "id": "discord-takes-a-second-swing-at-age-verification-but-don-t-w",
+      "titre": "Discord takes a second swing at age verification, but don't worry, this time it'll guess how old you are with 90% accuracy",
+      "url": "https://www.pcgamer.com/games/discord-takes-a-second-swing-at-age-verification-but-dont-worry-this-time-itll-guess-how-old-you-are-with-90-percent-accuracy/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/discord-takes-a-second-swing-at-age-verification-but-dont-worry-this-time-itll-guess-how-old-you-are-with-90-percent-accuracy/",
+          "titre": "Discord takes a second swing at age verification, but don't worry, this time it'll guess how old you are with 90% accuracy"
+        }
+      ]
+    },
+    {
+      "id": "wow-forever-has-a-secret-snake-druid-form",
+      "titre": "WoW: Forever has a secret snake druid form",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-has-a-secret-snake-druid-form/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-has-a-secret-snake-druid-form/",
+          "titre": "WoW: Forever has a secret snake druid form"
+        }
+      ]
+    },
+    {
+      "id": "rogue-trader-is-coming-to-an-end-with-miracles-madness-and-t",
+      "titre": "Rogue Trader is coming to an end with miracles, madness and 'tears of blood'",
+      "url": "https://www.pcgamer.com/games/rpg/rogue-trader-is-coming-to-an-end-with-miracles-madness-and-tears-of-blood/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/rogue-trader-is-coming-to-an-end-with-miracles-madness-and-tears-of-blood/",
+          "titre": "Rogue Trader is coming to an end with miracles, madness and 'tears of blood'"
+        }
+      ]
+    },
+    {
+      "id": "14-000-for-a-pc-with-titanium-alloy-flowers-that-unfurl-as",
+      "titre": "$14,000 for a PC with titanium-alloy flowers that unfurl as your system temps get toasty? Well, okay then...",
+      "url": "https://www.pcgamer.com/hardware/gaming-pcs/usd14-000-for-a-pc-with-titanium-alloy-flowers-that-unfurl-as-your-system-temps-get-toasty-well-okay-then/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-pcs/usd14-000-for-a-pc-with-titanium-alloy-flowers-that-unfurl-as-your-system-temps-get-toasty-well-okay-then/",
+          "titre": "$14,000 for a PC with titanium-alloy flowers that unfurl as your system temps get toasty? Well, okay then..."
+        }
+      ]
+    },
+    {
+      "id": "roman-sands-re-build-review-a-fiendish-immersive-sim-drenche",
+      "titre": "Roman Sands Re:Build review - a fiendish immersive sim drenched in a vaporwave glitchcore palette",
+      "url": "https://www.eurogamer.net/roman-sands-rebuild-review",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/roman-sands-rebuild-review",
+          "titre": "Roman Sands Re:Build review - a fiendish immersive sim drenched in a vaporwave glitchcore palette"
+        }
+      ]
+    },
+    {
+      "id": "sony-supposedly-surveying-devs-on-death-of-ps5-discs",
+      "titre": "Sony Supposedly Surveying Devs on Death of PS5 Discs",
+      "url": "https://www.pushsquare.com/news/2026/09/sony-supposedly-surveying-devs-on-death-of-ps5-discs",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/sony-supposedly-surveying-devs-on-death-of-ps5-discs",
+          "titre": "Sony Supposedly Surveying Devs on Death of PS5 Discs"
+        }
+      ]
+    },
+    {
       "id": "return-to-old-school-ps2-musou-with-dynasty-warriors-3-remas",
       "titre": "Return to Old School PS2 Musou with Dynasty Warriors 3 Remastered's Demo, Out Now on PS5",
       "url": "https://www.pushsquare.com/news/2026/09/return-to-old-school-ps2-musou-with-dynasty-warriors-3-remastereds-demo-out-now-on-ps5",
@@ -623,7 +779,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -641,7 +797,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -659,7 +815,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -677,7 +833,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -695,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -713,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -731,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
@@ -742,92 +898,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "tinybuild-revenue-rises-18-to-20m-during-h1-2026-with-85-com",
-      "titre": "TinyBuild revenue rises 18% to $20m during H1 2026, with 85% coming from first and second-party owned IP",
-      "url": "https://www.gamesindustry.biz/tinybuild-revenue-rises-18-to-20m-during-h1-2026-with-85-coming-from-first-and-second-party-owned-ip",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/tinybuild-revenue-rises-18-to-20m-during-h1-2026-with-85-coming-from-first-and-second-party-owned-ip",
-          "titre": "TinyBuild revenue rises 18% to $20m during H1 2026, with 85% coming from first and second-party owned IP"
-        }
-      ]
-    },
-    {
-      "id": "meta-s-new-vr-headset-isn-t-really-a-headset-and-doesn-t-loo",
-      "titre": "Meta's new VR headset isn't really a headset and doesn't look like it's meant for gamers",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/metas-new-vr-headset-isnt-really-a-headset-and-doesnt-look-like-its-meant-for-gamers/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/metas-new-vr-headset-isnt-really-a-headset-and-doesnt-look-like-its-meant-for-gamers/",
-          "titre": "Meta's new VR headset isn't really a headset and doesn't look like it's meant for gamers"
-        }
-      ]
-    },
-    {
-      "id": "a-mixed-reality-reinvention-of-tetris-effect-is-coming-next",
-      "titre": "A mixed reality ‘reinvention’ of Tetris Effect is coming next year",
-      "url": "https://www.videogameschronicle.com/news/a-mixed-reality-reinvention-of-tetris-effect-is-coming-next-year/",
+      "id": "the-day-before-ea-sports-fc-27-is-released-konami-s-switch-2",
+      "titre": "The day before EA Sports FC 27 is released, Konami’s Switch 2 rival eFootball Kick-Off gets a major new update",
+      "url": "https://www.videogameschronicle.com/news/the-day-before-ea-sports-fc-27-is-released-konamis-switch-2-rival-efootball-kick-off-gets-a-major-new-update/",
       "sources": [
         "VGC"
       ],
       "reprises": 1,
-      "heures": 3.2,
+      "heures": 4.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/a-mixed-reality-reinvention-of-tetris-effect-is-coming-next-year/",
-          "titre": "A mixed reality ‘reinvention’ of Tetris Effect is coming next year"
-        }
-      ]
-    },
-    {
-      "id": "my-first-mmo-character-3-steve-haines",
-      "titre": "My first MMO character #3: Steve Haines",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-3-steve-haines/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-3-steve-haines/",
-          "titre": "My first MMO character #3: Steve Haines"
-        }
-      ]
-    },
-    {
-      "id": "don-t-expect-regular-destiny-2-updates-to-return-despite-the",
-      "titre": "Don't expect regular Destiny 2 updates to return, despite the surprise \"unvaulting\" of game additions",
-      "url": "https://www.eurogamer.net/destiny-2-unvaulted-content-details-report",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/destiny-2-unvaulted-content-details-report",
-          "titre": "Don't expect regular Destiny 2 updates to return, despite the surprise \"unvaulting\" of game additions"
+          "url": "https://www.videogameschronicle.com/news/the-day-before-ea-sports-fc-27-is-released-konamis-switch-2-rival-efootball-kick-off-gets-a-major-new-update/",
+          "titre": "The day before EA Sports FC 27 is released, Konami’s Switch 2 rival eFootball Kick-Off gets a major new update"
         }
       ]
     },
@@ -839,13 +923,31 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
           "titre": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-switch-2-welcome-tour-updated-to-ver-1-1-1-here-are",
+      "titre": "Nintendo Switch 2 Welcome Tour Updated To Ver. 1.1.1, Here Are The Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-switch-2-welcome-tour-updated-to-ver-1-1-1-here-are-the-patch-notes",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nintendo-switch-2-welcome-tour-updated-to-ver-1-1-1-here-are-the-patch-notes",
+          "titre": "Nintendo Switch 2 Welcome Tour Updated To Ver. 1.1.1, Here Are The Patch Notes"
         }
       ]
     },
@@ -858,7 +960,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 19.1,
+      "heures": 21.1,
       "chaleur": 6,
       "liens": [
         {
@@ -881,7 +983,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.1,
+      "heures": 25.0,
       "chaleur": 6,
       "liens": [
         {
@@ -899,7 +1001,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 5,
       "liens": [
         {
@@ -917,7 +1019,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.4,
       "chaleur": 5,
       "liens": [
         {
@@ -935,13 +1037,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.7,
+      "heures": 22.6,
       "chaleur": 5,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/the-steam-machine-handles-control-resonant-capably-but-the-promised-steam-deck-support-is-a-letdown",
           "titre": "The Steam Machine handles Control Resonant capably, but the promised Steam Deck support is a letdown"
+        }
+      ]
+    },
+    {
+      "id": "this-one-is-especially-bad-steam-game-about-mistreating-rag",
+      "titre": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year",
+      "url": "https://www.rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 23.2,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year",
+          "titre": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year"
         }
       ]
     },
@@ -953,7 +1073,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.0,
+      "heures": 24.0,
       "chaleur": 5,
       "liens": [
         {
@@ -971,7 +1091,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 25.4,
       "chaleur": 5,
       "liens": [
         {
@@ -989,7 +1109,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.1,
+      "heures": 26.1,
       "chaleur": 5,
       "liens": [
         {
@@ -1007,7 +1127,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 26.4,
       "chaleur": 5,
       "liens": [
         {
@@ -1018,152 +1138,25 @@ const VEILLE = {
       ]
     },
     {
-      "id": "psa-sorry-argos-deep-discounts-on-some-top-tier-switch-2-gam",
-      "titre": "PSA: Sorry, Argos' Deep Discounts On Some Top-Tier Switch 2 Games Sold Out Like Hot Cakes",
-      "url": "https://www.nintendolife.com/news/2026/09/psa-sorry-argos-deep-discounts-on-some-top-tier-switch-2-games-sold-out-like-hot-cakes",
+      "id": "resident-evil-film-producer-turns-to-new-silent-hill-movie-r",
+      "titre": "Resident Evil Film Producer Turns to New Silent Hill Movie, Report Claims",
+      "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-producer-turns-to-new-silent-hill-movie-report-claims",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.7,
+      "heures": 26.4,
       "chaleur": 5,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/psa-sorry-argos-deep-discounts-on-some-top-tier-switch-2-games-sold-out-like-hot-cakes",
-          "titre": "PSA: Sorry, Argos' Deep Discounts On Some Top-Tier Switch 2 Games Sold Out Like Hot Cakes"
-        }
-      ]
-    },
-    {
-      "id": "xbox-lays-off-gears-of-war-e-day-s-story-director-barely-two",
-      "titre": "Xbox lays off Gears of War: E-Day's story director barely two weeks before the game's launch",
-      "url": "https://www.eurogamer.net/gears-of-war-e-day-story-director-laid-off-xbox-cuts",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 27.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gears-of-war-e-day-story-director-laid-off-xbox-cuts",
-          "titre": "Xbox lays off Gears of War: E-Day's story director barely two weeks before the game's launch"
-        }
-      ]
-    },
-    {
-      "id": "micropost-i-use-my-ring-finger-for-right-mouse-button-am-i-o",
-      "titre": "Micropost: I use my ring finger for right mouse button. Am I okay?",
-      "url": "https://www.pcgamer.com/games/micropost-i-use-my-ring-finger-for-right-mouse-button-am-i-okay/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/micropost-i-use-my-ring-finger-for-right-mouse-button-am-i-okay/",
-          "titre": "Micropost: I use my ring finger for right mouse button. Am I okay?"
-        }
-      ]
-    },
-    {
-      "id": "the-industrial-revolution-is-the-reason-rpgs-have-area-of-ef",
-      "titre": "The Industrial Revolution is the reason RPGs have area-of-effect spells: A PC Gamer Causality Chain™",
-      "url": "https://www.pcgamer.com/games/rpg/the-industrial-revolution-is-the-reason-rpgs-have-area-of-effect-spells-a-pc-gamer-causality-chaintm/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 8.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/the-industrial-revolution-is-the-reason-rpgs-have-area-of-effect-spells-a-pc-gamer-causality-chaintm/",
-          "titre": "The Industrial Revolution is the reason RPGs have area-of-effect spells: A PC Gamer Causality Chain™"
-        }
-      ]
-    },
-    {
-      "id": "random-phoenix-wright-is-kind-of-getting-a-new-game-but-it-s",
-      "titre": "Random: Phoenix Wright Is Kind Of Getting A New Game, But It's VR",
-      "url": "https://www.nintendolife.com/news/2026/09/random-phoenix-wright-is-kind-of-getting-a-new-game-but-its-vr",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 9.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/random-phoenix-wright-is-kind-of-getting-a-new-game-but-its-vr",
-          "titre": "Random: Phoenix Wright Is Kind Of Getting A New Game, But It's VR"
-        }
-      ]
-    },
-    {
-      "id": "metroid-ravenous-announcement-sees-demand-for-physical-copie",
-      "titre": "Metroid Ravenous Announcement Sees Demand For Physical Copies Of Metroid Dread Spike",
-      "url": "https://www.nintendolife.com/news/2026/09/metroid-ravenous-announcement-sees-demand-for-physical-copies-of-metroid-dread-spike",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/metroid-ravenous-announcement-sees-demand-for-physical-copies-of-metroid-dread-spike",
-          "titre": "Metroid Ravenous Announcement Sees Demand For Physical Copies Of Metroid Dread Spike"
-        }
-      ]
-    },
-    {
-      "id": "quake-champions-takes-a-shower-shedding-all-its-2017-live-se",
-      "titre": "Quake Champions takes a shower, shedding all its 2017 live-service grime and becoming a $10 game",
-      "url": "https://www.pcgamer.com/games/fps/quake-champions-takes-a-shower-shedding-all-its-2017-live-service-grime-and-becoming-a-usd10-game/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/quake-champions-takes-a-shower-shedding-all-its-2017-live-service-grime-and-becoming-a-usd10-game/",
-          "titre": "Quake Champions takes a shower, shedding all its 2017 live-service grime and becoming a $10 game"
-        }
-      ]
-    },
-    {
-      "id": "microsoft-s-approach-to-age-verification-in-australia-is-fur",
-      "titre": "Microsoft's approach to age verification in Australia is further proof that Valve is taking the everloving piss",
-      "url": "https://www.pcgamer.com/gaming-industry/microsofts-approach-to-age-verification-in-australia-is-further-proof-that-valve-is-taking-the-everloving-piss/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/microsofts-approach-to-age-verification-in-australia-is-further-proof-that-valve-is-taking-the-everloving-piss/",
-          "titre": "Microsoft's approach to age verification in Australia is further proof that Valve is taking the everloving piss"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-producer-turns-to-new-silent-hill-movie-report-claims",
+          "titre": "Resident Evil Film Producer Turns to New Silent Hill Movie, Report Claims"
         }
       ]
     }
   ],
   "alertes": [
-    "Bethesda say new underlings Obsidian will retain their \"distinct\" creative identity, despite no longer being as free to work on their own creatively distinct series",
-    "Quake Champions ditches free-to-play and kills off its Microsoft Store version eight years after its original release"
+    "Obsidian Remains 'Distinct' and Keeps Leadership Team After Being Absorbed by Bethesda"
   ]
 };
