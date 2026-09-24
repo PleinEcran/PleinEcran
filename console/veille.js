@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "24/09/2026 à 08h22",
+  "collecte": "24/09/2026 à 10h21",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 21.0,
+      "heures": 23.0,
       "chaleur": 20,
       "liens": [
         {
@@ -54,8 +54,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 4.0,
-      "chaleur": 16,
+      "heures": 5.9,
+      "chaleur": 14,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -78,7 +78,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 18.4,
+      "heures": 20.4,
       "chaleur": 13,
       "liens": [
         {
@@ -94,6 +94,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "following-id-layoffs-quake-champions-drops-free-to-play-nons",
+      "titre": "Following id layoffs, Quake Champions drops free-to-play nonsense and becomes a £9 game on Steam",
+      "url": "https://www.rockpapershotgun.com/following-id-layoffs-quake-champions-drops-free-to-play-nonsense-and-becomes-a-9-game-on-steam",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/following-id-layoffs-quake-champions-drops-free-to-play-nonsense-and-becomes-a-9-game-on-steam",
+          "titre": "Following id layoffs, Quake Champions drops free-to-play nonsense and becomes a £9 game on Steam"
+        }
+      ]
+    },
+    {
       "id": "resident-evil-film-producer-turns-to-new-silent-hill-movie-r",
       "titre": "Resident Evil Film Producer Turns to New Silent Hill Movie, Report Claims",
       "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-producer-turns-to-new-silent-hill-movie-report-claims",
@@ -103,7 +121,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 20.4,
+      "heures": 22.4,
       "chaleur": 11,
       "liens": [
         {
@@ -124,6 +142,66 @@ const VEILLE = {
       ]
     },
     {
+      "id": "player-discovers-game-changing-pair-of-pants-in-world-of-war",
+      "titre": "Player discovers game-changing pair of pants in World of Warcraft: Forever",
+      "url": "https://www.eurogamer.net/world-of-warcraft-forever-pants-smelter-professions",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 0.6,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/world-of-warcraft-forever-pants-smelter-professions",
+          "titre": "Player discovers game-changing pair of pants in World of Warcraft: Forever"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-first-patch-will-bring-back-the-number-one-thing-seasoned-players-missed-from-the-mmos-past-storms/",
+          "titre": "World of Warcraft: Forever's first patch will bring back the number one thing seasoned players missed from the MMO's past: storms"
+        }
+      ]
+    },
+    {
+      "id": "the-day-before-ea-sports-fc-27-is-released-konami-s-switch-2",
+      "titre": "The day before EA Sports FC 27 is released, Konami’s Switch 2 rival eFootball Kick-Off gets a major new update",
+      "url": "https://www.videogameschronicle.com/news/the-day-before-ea-sports-fc-27-is-released-konamis-switch-2-rival-efootball-kick-off-gets-a-major-new-update/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-day-before-ea-sports-fc-27-is-released-konamis-switch-2-rival-efootball-kick-off-gets-a-major-new-update/",
+          "titre": "The day before EA Sports FC 27 is released, Konami’s Switch 2 rival eFootball Kick-Off gets a major new update"
+        }
+      ]
+    },
+    {
+      "id": "microsoft-files-patent-for-ad-credit-system-to-show-ads-on-p",
+      "titre": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay",
+      "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
+          "titre": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay"
+        }
+      ]
+    },
+    {
       "id": "steam-game-disables-mods-after-facing-its-second-workshop-ma",
       "titre": "Steam game disables mods after facing its second Workshop malware outbreak this year",
       "url": "https://www.pcgamer.com/games/sim/steam-game-disables-mods-after-facing-its-second-workshop-malware-outbreak-this-year/",
@@ -132,8 +210,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 11.5,
-      "chaleur": 9,
+      "heures": 13.5,
+      "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
@@ -148,24 +226,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "microsoft-files-patent-for-ad-credit-system-to-show-ads-on-p",
-      "titre": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay",
-      "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 0.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
-          "titre": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay"
-        }
-      ]
-    },
-    {
       "id": "discord-launches-controversial-age-verification-system-using",
       "titre": "Discord launches controversial age-verification system \"using the most privacy-preserving approach we could build\" months after first delay",
       "url": "https://www.eurogamer.net/discord-controversial-age-verification-privacy-preserving",
@@ -174,7 +234,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 8,
       "liens": [
         {
@@ -197,7 +257,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 7,
       "liens": [
         {
@@ -424,6 +484,96 @@ const VEILLE = {
       ]
     },
     {
+      "id": "tinybuild-revenue-rises-18-to-20m-during-h1-2026-with-85-com",
+      "titre": "TinyBuild revenue rises 18% to $20m during H1 2026, with 85% coming from first and second-party owned IP",
+      "url": "https://www.gamesindustry.biz/tinybuild-revenue-rises-18-to-20m-during-h1-2026-with-85-coming-from-first-and-second-party-owned-ip",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/tinybuild-revenue-rises-18-to-20m-during-h1-2026-with-85-coming-from-first-and-second-party-owned-ip",
+          "titre": "TinyBuild revenue rises 18% to $20m during H1 2026, with 85% coming from first and second-party owned IP"
+        }
+      ]
+    },
+    {
+      "id": "meta-s-new-vr-headset-isn-t-really-a-headset-and-doesn-t-loo",
+      "titre": "Meta's new VR headset isn't really a headset and doesn't look like it's meant for gamers",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/metas-new-vr-headset-isnt-really-a-headset-and-doesnt-look-like-its-meant-for-gamers/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/metas-new-vr-headset-isnt-really-a-headset-and-doesnt-look-like-its-meant-for-gamers/",
+          "titre": "Meta's new VR headset isn't really a headset and doesn't look like it's meant for gamers"
+        }
+      ]
+    },
+    {
+      "id": "a-mixed-reality-reinvention-of-tetris-effect-is-coming-next",
+      "titre": "A mixed reality ‘reinvention’ of Tetris Effect is coming next year",
+      "url": "https://www.videogameschronicle.com/news/a-mixed-reality-reinvention-of-tetris-effect-is-coming-next-year/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/a-mixed-reality-reinvention-of-tetris-effect-is-coming-next-year/",
+          "titre": "A mixed reality ‘reinvention’ of Tetris Effect is coming next year"
+        }
+      ]
+    },
+    {
+      "id": "my-first-mmo-character-3-steve-haines",
+      "titre": "My first MMO character #3: Steve Haines",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-3-steve-haines/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-3-steve-haines/",
+          "titre": "My first MMO character #3: Steve Haines"
+        }
+      ]
+    },
+    {
+      "id": "don-t-expect-regular-destiny-2-updates-to-return-despite-the",
+      "titre": "Don't expect regular Destiny 2 updates to return, despite the surprise \"unvaulting\" of game additions",
+      "url": "https://www.eurogamer.net/destiny-2-unvaulted-content-details-report",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/destiny-2-unvaulted-content-details-report",
+          "titre": "Don't expect regular Destiny 2 updates to return, despite the surprise \"unvaulting\" of game additions"
+        }
+      ]
+    },
+    {
       "id": "micropost-i-use-my-ring-finger-for-right-mouse-button-am-i-o",
       "titre": "Micropost: I use my ring finger for right mouse button. Am I okay?",
       "url": "https://www.pcgamer.com/games/micropost-i-use-my-ring-finger-for-right-mouse-button-am-i-okay/",
@@ -431,7 +581,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -449,7 +599,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.9,
       "chaleur": 6,
       "liens": [
         {
@@ -468,7 +618,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 13.6,
+      "heures": 15.6,
       "chaleur": 6,
       "liens": [
         {
@@ -492,7 +642,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 15.1,
+      "heures": 17.0,
       "chaleur": 6,
       "liens": [
         {
@@ -515,7 +665,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.0,
+      "heures": 21.0,
       "chaleur": 6,
       "liens": [
         {
@@ -533,7 +683,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.5,
+      "heures": 28.4,
       "chaleur": 6,
       "liens": [
         {
@@ -551,7 +701,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.3,
       "chaleur": 5,
       "liens": [
         {
@@ -569,7 +719,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 18.6,
       "chaleur": 5,
       "liens": [
         {
@@ -587,7 +737,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.0,
+      "heures": 20.0,
       "chaleur": 5,
       "liens": [
         {
@@ -605,7 +755,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.4,
       "chaleur": 5,
       "liens": [
         {
@@ -623,7 +773,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.1,
+      "heures": 22.1,
       "chaleur": 5,
       "liens": [
         {
@@ -641,7 +791,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.4,
       "chaleur": 5,
       "liens": [
         {
@@ -659,7 +809,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.6,
+      "heures": 24.6,
       "chaleur": 5,
       "liens": [
         {
@@ -677,7 +827,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.3,
       "chaleur": 5,
       "liens": [
         {
@@ -695,7 +845,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.6,
+      "heures": 32.6,
       "chaleur": 5,
       "liens": [
         {
@@ -713,7 +863,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 32.9,
+      "heures": 34.9,
       "chaleur": 5,
       "liens": [
         {
@@ -731,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -749,7 +899,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -767,7 +917,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -785,7 +935,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -803,31 +953,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/microsofts-approach-to-age-verification-in-australia-is-further-proof-that-valve-is-taking-the-everloving-piss/",
           "titre": "Microsoft's approach to age verification in Australia is further proof that Valve is taking the everloving piss"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-s-first-patch-will-bring-back-the",
-      "titre": "World of Warcraft: Forever's first patch will bring back the number one thing seasoned players missed from the MMO's past: storms",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-first-patch-will-bring-back-the-number-one-thing-seasoned-players-missed-from-the-mmos-past-storms/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-first-patch-will-bring-back-the-number-one-thing-seasoned-players-missed-from-the-mmos-past-storms/",
-          "titre": "World of Warcraft: Forever's first patch will bring back the number one thing seasoned players missed from the MMO's past: storms"
         }
       ]
     },
@@ -839,8 +971,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -857,8 +989,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -875,8 +1007,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -893,8 +1025,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -911,7 +1043,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.2,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +1061,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -947,7 +1079,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -965,7 +1097,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.6,
       "chaleur": 3,
       "liens": [
         {
@@ -983,7 +1115,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +1133,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,139 +1151,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/activision-new-halo-game-fans-worried-lore-reboot",
           "titre": "As Halo goes to Activision, fans are worried about this year's Halo Fest and a potential lore reboot from the Call of Duty publisher"
-        }
-      ]
-    },
-    {
-      "id": "you-can-t-have-everything-in-arc-raiders-reworked-skill-tree",
-      "titre": "You can't have everything in Arc Raiders' reworked skill tree: 'We believe that creates more interesting choices and supports more playstyles'",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/you-cant-have-everything-in-arc-raiders-reworked-skill-tree-we-believe-that-creates-more-interesting-choices-and-supports-more-playstyles/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/you-cant-have-everything-in-arc-raiders-reworked-skill-tree-we-believe-that-creates-more-interesting-choices-and-supports-more-playstyles/",
-          "titre": "You can't have everything in Arc Raiders' reworked skill tree: 'We believe that creates more interesting choices and supports more playstyles'"
-        }
-      ]
-    },
-    {
-      "id": "the-arc-raiders-frozen-trail-update-is-bigger-than-anyone-ex",
-      "titre": "The Arc Raiders Frozen Trail update is bigger than anyone expected: new ARC, gun upgrades, a map, and personal outposts you can decorate",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/the-arc-raiders-frozen-trail-update-is-bigger-than-anyone-expected-new-arc-gun-upgrades-a-map-and-personal-outposts-you-can-decorate/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/the-arc-raiders-frozen-trail-update-is-bigger-than-anyone-expected-new-arc-gun-upgrades-a-map-and-personal-outposts-you-can-decorate/",
-          "titre": "The Arc Raiders Frozen Trail update is bigger than anyone expected: new ARC, gun upgrades, a map, and personal outposts you can decorate"
-        }
-      ]
-    },
-    {
-      "id": "i-put-ufo-sightings-in-grand-theft-auto-5-though-it-didn-t-q",
-      "titre": "I put UFO sightings in Grand Theft Auto 5, though it didn't quite go to plan",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-put-ufo-sightings-in-grand-theft-auto-5-though-it-didnt-quite-go-to-plan/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-put-ufo-sightings-in-grand-theft-auto-5-though-it-didnt-quite-go-to-plan/",
-          "titre": "I put UFO sightings in Grand Theft Auto 5, though it didn't quite go to plan"
-        }
-      ]
-    },
-    {
-      "id": "gundam-celebrates-40-years-of-games-with-a-dedicated-broadca",
-      "titre": "Gundam Celebrates 40 Years of Games with a Dedicated Broadcast Next Month",
-      "url": "https://www.pushsquare.com/news/2026/09/gundam-celebrates-40-years-of-games-with-a-dedicated-broadcast-next-month",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 16.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/gundam-celebrates-40-years-of-games-with-a-dedicated-broadcast-next-month",
-          "titre": "Gundam Celebrates 40 Years of Games with a Dedicated Broadcast Next Month"
-        }
-      ]
-    },
-    {
-      "id": "blizzard-to-take-a-somewhat-different-approach-to-level-scal",
-      "titre": "Blizzard to take \"a somewhat different approach\" to level-scaling in Diablo 5, suggesting more influence from Diablo 2 than Diablo 4",
-      "url": "https://www.eurogamer.net/diablo-5-level-scaling-diablo-2-blizzard",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 18.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/diablo-5-level-scaling-diablo-2-blizzard",
-          "titre": "Blizzard to take \"a somewhat different approach\" to level-scaling in Diablo 5, suggesting more influence from Diablo 2 than Diablo 4"
-        }
-      ]
-    },
-    {
-      "id": "control-resonant-power-lines-perimeter-factory-and-east-park",
-      "titre": "Control Resonant Power Lines: Perimeter, Factory, and East Park Station puzzle solutions",
-      "url": "https://www.videogameschronicle.com/guide/control-resonant-power-lines-perimeter-factory-and-east-park-station-puzzle-solutions/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 18.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/control-resonant-power-lines-perimeter-factory-and-east-park-station-puzzle-solutions/",
-          "titre": "Control Resonant Power Lines: Perimeter, Factory, and East Park Station puzzle solutions"
-        }
-      ]
-    },
-    {
-      "id": "the-eu-kids-act-what-game-developers-need-to-know",
-      "titre": "The EU KIDS Act: What game developers need to know",
-      "url": "https://www.gamesindustry.biz/the-eu-kids-act-what-game-developers-need-to-know",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 18.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/the-eu-kids-act-what-game-developers-need-to-know",
-          "titre": "The EU KIDS Act: What game developers need to know"
         }
       ]
     }
