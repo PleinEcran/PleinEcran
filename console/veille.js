@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "24/09/2026 à 06h25",
+  "collecte": "24/09/2026 à 08h22",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 19.1,
+      "heures": 21.0,
       "chaleur": 20,
       "liens": [
         {
@@ -54,7 +54,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 2.0,
+      "heures": 4.0,
       "chaleur": 16,
       "liens": [
         {
@@ -70,24 +70,42 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-producer-behind-cregger-s-resident-evil-film-is-working",
-      "titre": "The producer behind Cregger's Resident Evil film is working on an unnamed Silent Hill project and players are asking for just one thing",
-      "url": "https://www.pcgamer.com/games/horror/the-producer-behind-creggers-resident-evil-film-is-working-on-an-unnamed-silent-hill-project-and-players-are-asking-for-just-one-thing/",
+      "id": "age-of-empires-developer-world-s-edge-hit-with-layoffs-follo",
+      "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision",
+      "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
       "sources": [
         "Eurogamer",
-        "PC Gamer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 18.4,
+      "chaleur": 13,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
+          "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/age-of-empire-worlds-edge-studio-xbox-cuts",
+          "titre": "Age of Empires studio World's Edge reportedly lost \"nearly half\" of its staff during yesterday's Xbox cuts and move to Activision"
+        }
+      ]
+    },
+    {
+      "id": "resident-evil-film-producer-turns-to-new-silent-hill-movie-r",
+      "titre": "Resident Evil Film Producer Turns to New Silent Hill Movie, Report Claims",
+      "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-producer-turns-to-new-silent-hill-movie-report-claims",
+      "sources": [
+        "Eurogamer",
         "Push Square",
         "VGC"
       ],
-      "reprises": 4,
-      "heures": 13.6,
-      "chaleur": 14,
+      "reprises": 3,
+      "heures": 20.4,
+      "chaleur": 11,
       "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/the-producer-behind-creggers-resident-evil-film-is-working-on-an-unnamed-silent-hill-project-and-players-are-asking-for-just-one-thing/",
-          "titre": "The producer behind Cregger's Resident Evil film is working on an unnamed Silent Hill project and players are asking for just one thing"
-        },
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-producer-turns-to-new-silent-hill-movie-report-claims",
@@ -106,30 +124,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "age-of-empires-developer-world-s-edge-hit-with-layoffs-follo",
-      "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision",
-      "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 16.5,
-      "chaleur": 13,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
-          "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/age-of-empire-worlds-edge-studio-xbox-cuts",
-          "titre": "Age of Empires studio World's Edge reportedly lost \"nearly half\" of its staff during yesterday's Xbox cuts and move to Activision"
-        }
-      ]
-    },
-    {
       "id": "steam-game-disables-mods-after-facing-its-second-workshop-ma",
       "titre": "Steam game disables mods after facing its second Workshop malware outbreak this year",
       "url": "https://www.pcgamer.com/games/sim/steam-game-disables-mods-after-facing-its-second-workshop-malware-outbreak-this-year/",
@@ -138,7 +132,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 9.5,
+      "heures": 11.5,
       "chaleur": 9,
       "liens": [
         {
@@ -154,6 +148,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "microsoft-files-patent-for-ad-credit-system-to-show-ads-on-p",
+      "titre": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay",
+      "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
+          "titre": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay"
+        }
+      ]
+    },
+    {
       "id": "discord-launches-controversial-age-verification-system-using",
       "titre": "Discord launches controversial age-verification system \"using the most privacy-preserving approach we could build\" months after first delay",
       "url": "https://www.eurogamer.net/discord-controversial-age-verification-privacy-preserving",
@@ -162,8 +174,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 11.5,
-      "chaleur": 9,
+      "heures": 13.5,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
@@ -185,37 +197,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/nintendo-switch-2-welcome-tour-updated-to-ver-1-1-1-here-are-the-patch-notes",
           "titre": "Nintendo Switch 2 Welcome Tour Updated To Ver. 1.1.1, Here Are The Patch Notes"
-        }
-      ]
-    },
-    {
-      "id": "bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
-      "titre": "Bethesda boss confirms Obsidian will remain a \"distinct\" team",
-      "url": "https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 11.6,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
-          "titre": "Bethesda boss confirms Obsidian will remain a \"distinct\" team"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/obsidian-creative-identity-bethesda-fallout-xbox-restructuring",
-          "titre": "Obsidian's \"creative identity and strengths\" will remain intact, promises Bethesda, as it takes control of Fallout: New Vegas studio"
         }
       ]
     },
@@ -436,38 +424,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-industrial-revolution-is-the-reason-rpgs-have-area-of-ef",
-      "titre": "The Industrial Revolution is the reason RPGs have area-of-effect spells: A PC Gamer Causality Chain™",
-      "url": "https://www.pcgamer.com/games/rpg/the-industrial-revolution-is-the-reason-rpgs-have-area-of-effect-spells-a-pc-gamer-causality-chaintm/",
+      "id": "micropost-i-use-my-ring-finger-for-right-mouse-button-am-i-o",
+      "titre": "Micropost: I use my ring finger for right mouse button. Am I okay?",
+      "url": "https://www.pcgamer.com/games/micropost-i-use-my-ring-finger-for-right-mouse-button-am-i-okay/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 1.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/the-industrial-revolution-is-the-reason-rpgs-have-area-of-effect-spells-a-pc-gamer-causality-chaintm/",
-          "titre": "The Industrial Revolution is the reason RPGs have area-of-effect spells: A PC Gamer Causality Chain™"
-        }
-      ]
-    },
-    {
-      "id": "random-phoenix-wright-is-kind-of-getting-a-new-game-but-it-s",
-      "titre": "Random: Phoenix Wright Is Kind Of Getting A New Game, But It's VR",
-      "url": "https://www.nintendolife.com/news/2026/09/random-phoenix-wright-is-kind-of-getting-a-new-game-but-its-vr",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/random-phoenix-wright-is-kind-of-getting-a-new-game-but-its-vr",
-          "titre": "Random: Phoenix Wright Is Kind Of Getting A New Game, But It's VR"
+          "url": "https://www.pcgamer.com/games/micropost-i-use-my-ring-finger-for-right-mouse-button-am-i-okay/",
+          "titre": "Micropost: I use my ring finger for right mouse button. Am I okay?"
         }
       ]
     },
@@ -479,13 +449,37 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/stellar-blades-switch-2-release-will-include-a-frame-generation-toggle",
           "titre": "Stellar Blade's Switch 2 Release Will Include A Frame Generation Toggle"
+        }
+      ]
+    },
+    {
+      "id": "bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
+      "titre": "Bethesda boss confirms Obsidian will remain a \"distinct\" team",
+      "url": "https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 13.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
+          "titre": "Bethesda boss confirms Obsidian will remain a \"distinct\" team"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/obsidian-creative-identity-bethesda-fallout-xbox-restructuring",
+          "titre": "Obsidian's \"creative identity and strengths\" will remain intact, promises Bethesda, as it takes control of Fallout: New Vegas studio"
         }
       ]
     },
@@ -498,7 +492,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 13.1,
+      "heures": 15.1,
       "chaleur": 6,
       "liens": [
         {
@@ -521,7 +515,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 19.0,
       "chaleur": 6,
       "liens": [
         {
@@ -539,7 +533,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.5,
+      "heures": 26.5,
       "chaleur": 6,
       "liens": [
         {
@@ -557,7 +551,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.3,
       "chaleur": 5,
       "liens": [
         {
@@ -575,7 +569,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.7,
+      "heures": 16.6,
       "chaleur": 5,
       "liens": [
         {
@@ -593,7 +587,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 18.0,
       "chaleur": 5,
       "liens": [
         {
@@ -611,7 +605,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.5,
       "chaleur": 5,
       "liens": [
         {
@@ -629,7 +623,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 20.1,
       "chaleur": 5,
       "liens": [
         {
@@ -647,7 +641,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.4,
       "chaleur": 5,
       "liens": [
         {
@@ -665,7 +659,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.7,
+      "heures": 22.6,
       "chaleur": 5,
       "liens": [
         {
@@ -683,7 +677,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.4,
       "chaleur": 5,
       "liens": [
         {
@@ -701,7 +695,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.7,
+      "heures": 30.6,
       "chaleur": 5,
       "liens": [
         {
@@ -719,13 +713,49 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 30.9,
+      "heures": 32.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/sudden-demand-for-middle-earth-shadow-of-mordor-and-war-ps5-ports-after-switch-2-bundle-is-revealed",
           "titre": "Sudden Demand for Middle-earth: Shadow of Mordor and War PS5 Ports After Switch 2 Bundle Is Revealed"
+        }
+      ]
+    },
+    {
+      "id": "the-industrial-revolution-is-the-reason-rpgs-have-area-of-ef",
+      "titre": "The Industrial Revolution is the reason RPGs have area-of-effect spells: A PC Gamer Causality Chain™",
+      "url": "https://www.pcgamer.com/games/rpg/the-industrial-revolution-is-the-reason-rpgs-have-area-of-effect-spells-a-pc-gamer-causality-chaintm/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/the-industrial-revolution-is-the-reason-rpgs-have-area-of-effect-spells-a-pc-gamer-causality-chaintm/",
+          "titre": "The Industrial Revolution is the reason RPGs have area-of-effect spells: A PC Gamer Causality Chain™"
+        }
+      ]
+    },
+    {
+      "id": "random-phoenix-wright-is-kind-of-getting-a-new-game-but-it-s",
+      "titre": "Random: Phoenix Wright Is Kind Of Getting A New Game, But It's VR",
+      "url": "https://www.nintendolife.com/news/2026/09/random-phoenix-wright-is-kind-of-getting-a-new-game-but-its-vr",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/random-phoenix-wright-is-kind-of-getting-a-new-game-but-its-vr",
+          "titre": "Random: Phoenix Wright Is Kind Of Getting A New Game, But It's VR"
         }
       ]
     },
@@ -737,7 +767,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -755,7 +785,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -773,7 +803,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -791,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -809,7 +839,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -827,7 +857,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +875,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
@@ -863,7 +893,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
@@ -881,8 +911,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -899,8 +929,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -917,8 +947,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -935,8 +965,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -953,8 +983,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -971,7 +1001,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -989,7 +1019,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +1037,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,7 +1055,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,7 +1073,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,7 +1091,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1079,7 +1109,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1097,7 +1127,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1115,7 +1145,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 16.7,
+      "heures": 18.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1124,45 +1154,7 @@ const VEILLE = {
           "titre": "The EU KIDS Act: What game developers need to know"
         }
       ]
-    },
-    {
-      "id": "persona-6-could-get-its-big-reveal-in-march-as-atlus-announc",
-      "titre": "Persona 6 Could Get Its Big Reveal in March, as Atlus Announces First Super Live Show in Four Years",
-      "url": "https://www.pushsquare.com/news/2026/09/persona-6-could-get-its-big-reveal-in-march-as-atlus-announces-first-super-live-show-in-four-years",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 16.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/persona-6-could-get-its-big-reveal-in-march-as-atlus-announces-first-super-live-show-in-four-years",
-          "titre": "Persona 6 Could Get Its Big Reveal in March, as Atlus Announces First Super Live Show in Four Years"
-        }
-      ]
-    },
-    {
-      "id": "new-publisher-publsh-launches-with-disco-elysium-inspired-ti",
-      "titre": "New publisher PUBLSH launches with Disco Elysium-inspired title Pera Coda",
-      "url": "https://www.gamesindustry.biz/new-publisher-publsh-launches-with-disco-elysium-inspired-title-pera-coda",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/new-publisher-publsh-launches-with-disco-elysium-inspired-title-pera-coda",
-          "titre": "New publisher PUBLSH launches with Disco Elysium-inspired title Pera Coda"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "Xbox Is Reportedly Expected To Fall Short Of 3,200 Layoffs"
-  ]
+  "alertes": []
 };
