@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "24/09/2026 à 22h20",
+  "collecte": "25/09/2026 à 00h28",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 9.3,
+      "heures": 11.5,
       "chaleur": 18,
       "liens": [
         {
@@ -53,7 +53,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.5,
       "chaleur": 12,
       "liens": [
         {
@@ -72,8 +72,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 10.4,
-      "chaleur": 12,
+      "heures": 12.5,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Eurogamer",
@@ -95,7 +95,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 20.1,
       "chaleur": 10,
       "liens": [
         {
@@ -113,7 +113,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 1.0,
       "chaleur": 9,
       "liens": [
         {
@@ -131,7 +131,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 1.5,
       "chaleur": 9,
       "liens": [
         {
@@ -150,8 +150,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.9,
-      "chaleur": 9,
+      "heures": 12.0,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
@@ -166,24 +166,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "undead-labs-makes-significant-layoffs-after-splitting-from-x",
-      "titre": "Undead Labs makes 'significant' layoffs after splitting from Xbox",
-      "url": "https://www.gamedeveloper.com/business/undead-labs-makes-significant-layoffs-after-splitting-from-xbox",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 35.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/undead-labs-makes-significant-layoffs-after-splitting-from-xbox",
-          "titre": "Undead Labs makes 'significant' layoffs after splitting from Xbox"
-        }
-      ]
-    },
-    {
       "id": "once-upon-a-time-the-blood-of-dawnwalker-s-timer-mechanic-wa",
       "titre": "Once upon a time The Blood of Dawnwalker's timer mechanic was a lot tougher, and it's because of all those pre-release complaints that it was made easier",
       "url": "https://www.rockpapershotgun.com/once-upon-a-time-the-blood-of-dawnwalkers-timer-mechanic-was-a-lot-tougher-and-its-because-of-all-those-pre-release-complaints-that-it-was-made-easier",
@@ -192,7 +174,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 4.4,
+      "heures": 6.5,
       "chaleur": 7,
       "liens": [
         {
@@ -215,7 +197,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 8.1,
       "chaleur": 7,
       "liens": [
         {
@@ -233,49 +215,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 9.0,
       "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/gta-6-collectors-box-is-usd400-doesnt-include-the-game",
           "titre": "GTA 6 Collector's Box Is $400, Doesn't Include the Game"
-        }
-      ]
-    },
-    {
-      "id": "xbox-s-version-of-playstation-s-platinum-trophy-achievement",
-      "titre": "Xbox's version of PlayStation's Platinum Trophy achievement seems to leak, and it's got a sound-effect that's 15 seconds long",
-      "url": "https://www.eurogamer.net/xbox-mythic-platinum-achievement",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-mythic-platinum-achievement",
-          "titre": "Xbox's version of PlayStation's Platinum Trophy achievement seems to leak, and it's got a sound-effect that's 15 seconds long"
-        }
-      ]
-    },
-    {
-      "id": "after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gt",
-      "titre": "After eighteen years of jaggedy bowling, a new mod bestows GTA 4 with DLSS and FSR support",
-      "url": "https://www.rockpapershotgun.com/after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gta-4-with-dlss-and-fsr-support",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gta-4-with-dlss-and-fsr-support",
-          "titre": "After eighteen years of jaggedy bowling, a new mod bestows GTA 4 with DLSS and FSR support"
         }
       ]
     },
@@ -442,6 +388,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "mdev",
+      "titre": "MDEV",
+      "url": "https://www.gamedeveloper.comwww.mdevconf.com",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.comwww.mdevconf.com",
+          "titre": "MDEV"
+        }
+      ]
+    },
+    {
+      "id": "experimental-rpg-developer-summer-eternal-we-re-giving-away",
+      "titre": "Experimental RPG developer Summer Eternal: 'We're giving away 5% of our studio to you, the Players' in order to 'mend the trust broken in this industry a thousand times over'",
+      "url": "https://www.pcgamer.com/games/experimental-rpg-developer-summer-eternal-were-giving-away-5-percent-of-our-studio-to-you-the-players-in-order-to-mend-the-trust-broken-in-this-industry-a-thousand-times-over/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/experimental-rpg-developer-summer-eternal-were-giving-away-5-percent-of-our-studio-to-you-the-players-in-order-to-mend-the-trust-broken-in-this-industry-a-thousand-times-over/",
+          "titre": "Experimental RPG developer Summer Eternal: 'We're giving away 5% of our studio to you, the Players' in order to 'mend the trust broken in this industry a thousand times over'"
+        }
+      ]
+    },
+    {
       "id": "hooked-on-the-brothers",
       "titre": "Hooked on the brothers",
       "url": "https://www.pcgamer.com/games/hooked-on-the-brothers/",
@@ -449,7 +431,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -467,7 +449,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -485,7 +467,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -503,7 +485,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -521,7 +503,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -539,7 +521,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -557,7 +539,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -575,7 +557,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -593,175 +575,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/i-definitely-suck-at-iron-brambles-metroidvania-grappling-hook-platforming-but-its-cyber-gothic-megastructure-world-has-me-hungry-for-more",
           "titre": "I definitely suck at Iron Bramble's metroidvania grappling hook platforming, but its cyber-gothic megastructure world has me hungry for more"
-        }
-      ]
-    },
-    {
-      "id": "after-mainlining-30-hours-of-1440p-bloodborne-i-know-in-my-h",
-      "titre": "After mainlining 30 hours of 1440p Bloodborne, I know in my heart it belongs on PC",
-      "url": "https://www.pcgamer.com/games/after-mainlining-30-hours-of-1440p-bloodborne-i-know-in-my-heart-it-belongs-on-pc/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/after-mainlining-30-hours-of-1440p-bloodborne-i-know-in-my-heart-it-belongs-on-pc/",
-          "titre": "After mainlining 30 hours of 1440p Bloodborne, I know in my heart it belongs on PC"
-        }
-      ]
-    },
-    {
-      "id": "have-you-heard-how-much-money-kojima-wanted-physint-s-rumou",
-      "titre": "'Have You Heard How Much Money Kojima Wanted?': Physint's Rumoured Budget Said to Be 'Significant'",
-      "url": "https://www.pushsquare.com/news/2026/09/have-you-heard-how-much-money-kojima-wanted-physints-rumoured-budget-said-to-be-significant",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/have-you-heard-how-much-money-kojima-wanted-physints-rumoured-budget-said-to-be-significant",
-          "titre": "'Have You Heard How Much Money Kojima Wanted?': Physint's Rumoured Budget Said to Be 'Significant'"
-        }
-      ]
-    },
-    {
-      "id": "arc-raiders-population-stats-micropost",
-      "titre": "Arc Raiders population stats micropost",
-      "url": "https://www.pcgamer.com/games/arc-raiders-population-stats-micropost/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/arc-raiders-population-stats-micropost/",
-          "titre": "Arc Raiders population stats micropost"
-        }
-      ]
-    },
-    {
-      "id": "achievement-hunters-can-you-identify-the-games-these-milesto",
-      "titre": "Achievement hunters: Can you identify the games these milestones are from?",
-      "url": "https://www.pcgamer.com/games/achievement-hunters-can-you-identify-the-games-these-milestones-are-from/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/achievement-hunters-can-you-identify-the-games-these-milestones-are-from/",
-          "titre": "Achievement hunters: Can you identify the games these milestones are from?"
-        }
-      ]
-    },
-    {
-      "id": "control-resonant-embarrasses-me-specifically-with-a-launch-d",
-      "titre": "Control Resonant embarrasses me, specifically, with a launch day hotfix negating my main review complaint",
-      "url": "https://www.pcgamer.com/games/action/control-resonant-embarrasses-me-specifically-with-a-launch-day-hotfix-negating-my-main-review-complaint/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/control-resonant-embarrasses-me-specifically-with-a-launch-day-hotfix-negating-my-main-review-complaint/",
-          "titre": "Control Resonant embarrasses me, specifically, with a launch day hotfix negating my main review complaint"
-        }
-      ]
-    },
-    {
-      "id": "the-future-of-marathon-includes-a-fungus-filled-perimeter-a",
-      "titre": "The future of Marathon includes a fungus-filled Perimeter, a social hub, and a shift \"beyond extraction\"",
-      "url": "https://www.rockpapershotgun.com/the-future-of-marathon-includes-a-fungus-filled-perimeter-a-social-hub-and-a-shift-beyond-extraction",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-future-of-marathon-includes-a-fungus-filled-perimeter-a-social-hub-and-a-shift-beyond-extraction",
-          "titre": "The future of Marathon includes a fungus-filled Perimeter, a social hub, and a shift \"beyond extraction\""
-        }
-      ]
-    },
-    {
-      "id": "meta-announces-new-vr-glasses-that-weigh-about-100-grams-and",
-      "titre": "Meta announces new VR glasses that weigh about 100 grams and cost $1,300",
-      "url": "https://www.gamedeveloper.com/business/meta-announces-new-vr-glasses-that-weight-about-100-grams-and-cost-1-300",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/meta-announces-new-vr-glasses-that-weight-about-100-grams-and-cost-1-300",
-          "titre": "Meta announces new VR glasses that weigh about 100 grams and cost $1,300"
-        }
-      ]
-    },
-    {
-      "id": "pc-gamer-s-hyperfeed-beta-is-live",
-      "titre": "PC Gamer's Hyperfeed beta is live",
-      "url": "https://www.pcgamer.com/gaming-industry/pc-gamer-hyperfeed-beta-is-live/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/pc-gamer-hyperfeed-beta-is-live/",
-          "titre": "PC Gamer's Hyperfeed beta is live"
-        }
-      ]
-    },
-    {
-      "id": "we-all-thought-we-were-bringing-extraction-to-the-masses-an",
-      "titre": "'We all thought we were bringing extraction to the masses, and we didn't'",
-      "url": "https://www.pcgamer.com/games/we-all-thought-we-were-bringing-extraction-to-the-masses-and-we-didnt/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/we-all-thought-we-were-bringing-extraction-to-the-masses-and-we-didnt/",
-          "titre": "'We all thought we were bringing extraction to the masses, and we didn't'"
         }
       ]
     },
@@ -773,7 +593,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.5,
       "chaleur": 6,
       "liens": [
         {
@@ -791,7 +611,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.8,
       "chaleur": 6,
       "liens": [
         {
@@ -809,7 +629,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.2,
       "chaleur": 6,
       "liens": [
         {
@@ -827,7 +647,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.7,
       "chaleur": 6,
       "liens": [
         {
@@ -845,7 +665,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.7,
       "chaleur": 6,
       "liens": [
         {
@@ -856,110 +676,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "discord-roll-out-revised-age-verification-following-delay-du",
-      "titre": "Discord roll out revised age verification following delay due to pushback, pledging to be \"safer for teens, same Discord for Adults\"",
-      "url": "https://www.rockpapershotgun.com/discord-roll-out-revised-age-verification-following-delay-due-to-pushback-pledging-to-be-safer-for-teens-same-discord-for-adults",
+      "id": "xbox-s-version-of-playstation-s-platinum-trophy-achievement",
+      "titre": "Xbox's version of PlayStation's Platinum Trophy achievement seems to leak, and it's got a sound-effect that's 15 seconds long",
+      "url": "https://www.eurogamer.net/xbox-mythic-platinum-achievement",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 13.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-mythic-platinum-achievement",
+          "titre": "Xbox's version of PlayStation's Platinum Trophy achievement seems to leak, and it's got a sound-effect that's 15 seconds long"
+        }
+      ]
+    },
+    {
+      "id": "after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gt",
+      "titre": "After eighteen years of jaggedy bowling, a new mod bestows GTA 4 with DLSS and FSR support",
+      "url": "https://www.rockpapershotgun.com/after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gta-4-with-dlss-and-fsr-support",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.3,
+      "heures": 14.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/discord-roll-out-revised-age-verification-following-delay-due-to-pushback-pledging-to-be-safer-for-teens-same-discord-for-adults",
-          "titre": "Discord roll out revised age verification following delay due to pushback, pledging to be \"safer for teens, same Discord for Adults\""
-        }
-      ]
-    },
-    {
-      "id": "mini-review-dragon-quest-xi-s-echoes-of-an-elusive-age-defin",
-      "titre": "Mini Review: DRAGON QUEST XI S: Echoes Of An Elusive Age - Definitive Edition (Switch 2) - Square Enix Needs To Get With The Upgrade Path Program",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition",
-          "titre": "Mini Review: DRAGON QUEST XI S: Echoes Of An Elusive Age - Definitive Edition (Switch 2) - Square Enix Needs To Get With The Upgrade Path Program"
-        }
-      ]
-    },
-    {
-      "id": "quick-switch-2-consoles-have-just-been-heavily-discounted-in",
-      "titre": "Quick! Switch 2 Consoles Have Just Been Heavily Discounted In The UK",
-      "url": "https://www.nintendolife.com/news/2026/09/quick-switch-2-consoles-have-just-been-heavily-discounted-in-the-uk",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/quick-switch-2-consoles-have-just-been-heavily-discounted-in-the-uk",
-          "titre": "Quick! Switch 2 Consoles Have Just Been Heavily Discounted In The UK"
-        }
-      ]
-    },
-    {
-      "id": "steam-frame-ready-vr-rhythm-game-beat-saber-is-adding-hand-t",
-      "titre": "Steam Frame-ready VR rhythm game Beat Saber is adding hand-tracking and a punchy new mode in its \"biggest update ever\"",
-      "url": "https://www.rockpapershotgun.com/steam-frame-ready-vr-rhythm-game-beat-saber-is-adding-hand-tracking-and-a-punchy-new-mode-in-its-biggest-update-ever",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/steam-frame-ready-vr-rhythm-game-beat-saber-is-adding-hand-tracking-and-a-punchy-new-mode-in-its-biggest-update-ever",
-          "titre": "Steam Frame-ready VR rhythm game Beat Saber is adding hand-tracking and a punchy new mode in its \"biggest update ever\""
-        }
-      ]
-    },
-    {
-      "id": "one-of-the-switch-s-most-underrated-gems-is-now-free-for-swi",
-      "titre": "One Of The Switch's Most Underrated Gems Is Now Free For Switch Online Users",
-      "url": "https://www.nintendolife.com/news/2026/09/one-of-the-switchs-most-underrated-gems-is-now-free-for-switch-online-users",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/one-of-the-switchs-most-underrated-gems-is-now-free-for-switch-online-users",
-          "titre": "One Of The Switch's Most Underrated Gems Is Now Free For Switch Online Users"
-        }
-      ]
-    },
-    {
-      "id": "1080-snowboarding-had-a-ton-of-questionable-stuff-removed-sa",
-      "titre": "1080° Snowboarding Had \"A Ton Of Questionable Stuff\" Removed, Says Veteran Nintendo Producer",
-      "url": "https://www.nintendolife.com/news/2026/09/1080d-snowboarding-had-a-ton-of-questionable-stuff-removed-says-veteran-nintendo-producer",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/1080d-snowboarding-had-a-ton-of-questionable-stuff-removed-says-veteran-nintendo-producer",
-          "titre": "1080° Snowboarding Had \"A Ton Of Questionable Stuff\" Removed, Says Veteran Nintendo Producer"
+          "url": "https://www.rockpapershotgun.com/after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gta-4-with-dlss-and-fsr-support",
+          "titre": "After eighteen years of jaggedy bowling, a new mod bestows GTA 4 with DLSS and FSR support"
         }
       ]
     },
@@ -971,7 +719,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.8,
+      "heures": 23.0,
       "chaleur": 6,
       "liens": [
         {
@@ -989,7 +737,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 32.4,
+      "heures": 34.5,
       "chaleur": 6,
       "liens": [
         {
@@ -1007,13 +755,121 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.0,
+      "heures": 35.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/halo-studios-closure-xbox-cuts-kiki-wolfkill-bonnie-ross",
           "titre": "Former Halo leaders lament effective closure of Halo Studios, as one employee finds themselves promoted and fired in same week"
+        }
+      ]
+    },
+    {
+      "id": "discord-roll-out-revised-age-verification-following-delay-du",
+      "titre": "Discord roll out revised age verification following delay due to pushback, pledging to be \"safer for teens, same Discord for Adults\"",
+      "url": "https://www.rockpapershotgun.com/discord-roll-out-revised-age-verification-following-delay-due-to-pushback-pledging-to-be-safer-for-teens-same-discord-for-adults",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 12.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/discord-roll-out-revised-age-verification-following-delay-due-to-pushback-pledging-to-be-safer-for-teens-same-discord-for-adults",
+          "titre": "Discord roll out revised age verification following delay due to pushback, pledging to be \"safer for teens, same Discord for Adults\""
+        }
+      ]
+    },
+    {
+      "id": "mini-review-dragon-quest-xi-s-echoes-of-an-elusive-age-defin",
+      "titre": "Mini Review: DRAGON QUEST XI S: Echoes Of An Elusive Age - Definitive Edition (Switch 2) - Square Enix Needs To Get With The Upgrade Path Program",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition",
+          "titre": "Mini Review: DRAGON QUEST XI S: Echoes Of An Elusive Age - Definitive Edition (Switch 2) - Square Enix Needs To Get With The Upgrade Path Program"
+        }
+      ]
+    },
+    {
+      "id": "quick-switch-2-consoles-have-just-been-heavily-discounted-in",
+      "titre": "Quick! Switch 2 Consoles Have Just Been Heavily Discounted In The UK",
+      "url": "https://www.nintendolife.com/news/2026/09/quick-switch-2-consoles-have-just-been-heavily-discounted-in-the-uk",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/quick-switch-2-consoles-have-just-been-heavily-discounted-in-the-uk",
+          "titre": "Quick! Switch 2 Consoles Have Just Been Heavily Discounted In The UK"
+        }
+      ]
+    },
+    {
+      "id": "steam-frame-ready-vr-rhythm-game-beat-saber-is-adding-hand-t",
+      "titre": "Steam Frame-ready VR rhythm game Beat Saber is adding hand-tracking and a punchy new mode in its \"biggest update ever\"",
+      "url": "https://www.rockpapershotgun.com/steam-frame-ready-vr-rhythm-game-beat-saber-is-adding-hand-tracking-and-a-punchy-new-mode-in-its-biggest-update-ever",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 12.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/steam-frame-ready-vr-rhythm-game-beat-saber-is-adding-hand-tracking-and-a-punchy-new-mode-in-its-biggest-update-ever",
+          "titre": "Steam Frame-ready VR rhythm game Beat Saber is adding hand-tracking and a punchy new mode in its \"biggest update ever\""
+        }
+      ]
+    },
+    {
+      "id": "one-of-the-switch-s-most-underrated-gems-is-now-free-for-swi",
+      "titre": "One Of The Switch's Most Underrated Gems Is Now Free For Switch Online Users",
+      "url": "https://www.nintendolife.com/news/2026/09/one-of-the-switchs-most-underrated-gems-is-now-free-for-switch-online-users",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.2,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/one-of-the-switchs-most-underrated-gems-is-now-free-for-switch-online-users",
+          "titre": "One Of The Switch's Most Underrated Gems Is Now Free For Switch Online Users"
+        }
+      ]
+    },
+    {
+      "id": "1080-snowboarding-had-a-ton-of-questionable-stuff-removed-sa",
+      "titre": "1080° Snowboarding Had \"A Ton Of Questionable Stuff\" Removed, Says Veteran Nintendo Producer",
+      "url": "https://www.nintendolife.com/news/2026/09/1080d-snowboarding-had-a-ton-of-questionable-stuff-removed-says-veteran-nintendo-producer",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 14.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/1080d-snowboarding-had-a-ton-of-questionable-stuff-removed-says-veteran-nintendo-producer",
+          "titre": "1080° Snowboarding Had \"A Ton Of Questionable Stuff\" Removed, Says Veteran Nintendo Producer"
         }
       ]
     },
@@ -1025,7 +881,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.5,
       "chaleur": 5,
       "liens": [
         {
@@ -1043,7 +899,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.5,
       "chaleur": 5,
       "liens": [
         {
@@ -1061,7 +917,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 25.0,
       "chaleur": 5,
       "liens": [
         {
@@ -1079,7 +935,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 29.5,
       "chaleur": 5,
       "liens": [
         {
@@ -1097,7 +953,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 30.6,
+      "heures": 32.7,
       "chaleur": 5,
       "liens": [
         {
@@ -1115,13 +971,157 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 31.2,
+      "heures": 33.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year",
           "titre": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year"
+        }
+      ]
+    },
+    {
+      "id": "beloved-cockney-orc-lord-of-the-rings-games-shadow-of-mordor",
+      "titre": "Beloved cockney-orc Lord of the Rings games Shadow of Mordor and Shadow of War finally make their way to Switch 2",
+      "url": "https://www.eurogamer.net/lord-of-the-rings-shadow-of-mordor-war-switch-2",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 34.1,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/lord-of-the-rings-shadow-of-mordor-war-switch-2",
+          "titre": "Beloved cockney-orc Lord of the Rings games Shadow of Mordor and Shadow of War finally make their way to Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13",
+      "titre": "Sensor Tower: PC and PlayStation unit sales in Japan rise 13% to 21m during H1 2026, led by Resident Evil Requiem",
+      "url": "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 35.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem",
+          "titre": "Sensor Tower: PC and PlayStation unit sales in Japan rise 13% to 21m during H1 2026, led by Resident Evil Requiem"
+        }
+      ]
+    },
+    {
+      "id": "after-mainlining-30-hours-of-1440p-bloodborne-i-know-in-my-h",
+      "titre": "After mainlining 30 hours of 1440p Bloodborne, I know in my heart it belongs on PC",
+      "url": "https://www.pcgamer.com/games/after-mainlining-30-hours-of-1440p-bloodborne-i-know-in-my-heart-it-belongs-on-pc/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/after-mainlining-30-hours-of-1440p-bloodborne-i-know-in-my-heart-it-belongs-on-pc/",
+          "titre": "After mainlining 30 hours of 1440p Bloodborne, I know in my heart it belongs on PC"
+        }
+      ]
+    },
+    {
+      "id": "have-you-heard-how-much-money-kojima-wanted-physint-s-rumou",
+      "titre": "'Have You Heard How Much Money Kojima Wanted?': Physint's Rumoured Budget Said to Be 'Significant'",
+      "url": "https://www.pushsquare.com/news/2026/09/have-you-heard-how-much-money-kojima-wanted-physints-rumoured-budget-said-to-be-significant",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/have-you-heard-how-much-money-kojima-wanted-physints-rumoured-budget-said-to-be-significant",
+          "titre": "'Have You Heard How Much Money Kojima Wanted?': Physint's Rumoured Budget Said to Be 'Significant'"
+        }
+      ]
+    },
+    {
+      "id": "arc-raiders-population-stats-micropost",
+      "titre": "Arc Raiders population stats micropost",
+      "url": "https://www.pcgamer.com/games/arc-raiders-population-stats-micropost/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/arc-raiders-population-stats-micropost/",
+          "titre": "Arc Raiders population stats micropost"
+        }
+      ]
+    },
+    {
+      "id": "achievement-hunters-can-you-identify-the-games-these-milesto",
+      "titre": "Achievement hunters: Can you identify the games these milestones are from?",
+      "url": "https://www.pcgamer.com/games/achievement-hunters-can-you-identify-the-games-these-milestones-are-from/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/achievement-hunters-can-you-identify-the-games-these-milestones-are-from/",
+          "titre": "Achievement hunters: Can you identify the games these milestones are from?"
+        }
+      ]
+    },
+    {
+      "id": "control-resonant-embarrasses-me-specifically-with-a-launch-d",
+      "titre": "Control Resonant embarrasses me, specifically, with a launch day hotfix negating my main review complaint",
+      "url": "https://www.pcgamer.com/games/action/control-resonant-embarrasses-me-specifically-with-a-launch-day-hotfix-negating-my-main-review-complaint/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/control-resonant-embarrasses-me-specifically-with-a-launch-day-hotfix-negating-my-main-review-complaint/",
+          "titre": "Control Resonant embarrasses me, specifically, with a launch day hotfix negating my main review complaint"
+        }
+      ]
+    },
+    {
+      "id": "the-future-of-marathon-includes-a-fungus-filled-perimeter-a",
+      "titre": "The future of Marathon includes a fungus-filled Perimeter, a social hub, and a shift \"beyond extraction\"",
+      "url": "https://www.rockpapershotgun.com/the-future-of-marathon-includes-a-fungus-filled-perimeter-a-social-hub-and-a-shift-beyond-extraction",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-future-of-marathon-includes-a-fungus-filled-perimeter-a-social-hub-and-a-shift-beyond-extraction",
+          "titre": "The future of Marathon includes a fungus-filled Perimeter, a social hub, and a shift \"beyond extraction\""
         }
       ]
     }
