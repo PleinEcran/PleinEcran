@@ -1,8 +1,32 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "25/09/2026 à 08h21",
+  "collecte": "25/09/2026 à 10h20",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "colourful-jrpg-armed-fantasia-has-been-cancelled-four-years",
+      "titre": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits",
+      "url": "https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits",
+      "sources": [
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 0.1,
+      "chaleur": 16,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits",
+          "titre": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/wild-arms-successor-that-sony-rejected-has-been-cancelled-4-years-after-its-reveal",
+          "titre": "Wild Arms Successor That Sony Rejected Has Been Cancelled, 4 Years After Its Reveal"
+        }
+      ]
+    },
     {
       "id": "nintendo-of-america-awarded-4-5m-in-lawsuit-from-redditor-fo",
       "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software",
@@ -11,7 +35,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 11,
       "liens": [
         {
@@ -29,7 +53,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.3,
       "chaleur": 11,
       "liens": [
         {
@@ -48,7 +72,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 20.4,
+      "heures": 22.4,
       "chaleur": 11,
       "liens": [
         {
@@ -64,20 +88,68 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-is-reportedly-expected-to-fall-short-of-3-200-layoffs",
-      "titre": "Xbox Is Reportedly Expected To Fall Short Of 3,200 Layoffs",
-      "url": "https://www.nintendolife.com/news/2026/09/xbox-is-reportedly-expected-to-fall-short-of-3200-layoffs",
+      "id": "court-orders-reddit-moderator-who-widely-pirated-switch-game",
+      "titre": "Court orders Reddit moderator who widely pirated Switch games to pay Nintendo $4.5 million in damages",
+      "url": "https://www.videogameschronicle.com/news/court-orders-reddit-moderator-who-widely-pirated-switch-games-to-pay-nintendo-4-5-million-in-damages/",
       "sources": [
-        "Nintendo Life"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 27.9,
-      "chaleur": 10,
+      "heures": 0.3,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/xbox-is-reportedly-expected-to-fall-short-of-3200-layoffs",
-          "titre": "Xbox Is Reportedly Expected To Fall Short Of 3,200 Layoffs"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/court-orders-reddit-moderator-who-widely-pirated-switch-games-to-pay-nintendo-4-5-million-in-damages/",
+          "titre": "Court orders Reddit moderator who widely pirated Switch games to pay Nintendo $4.5 million in damages"
+        }
+      ]
+    },
+    {
+      "id": "bethesda-president-tells-obsidian-staff-that-the-studio-will",
+      "titre": "Bethesda president tells Obsidian staff that the studio will keep its ‘creative identity’ after its move",
+      "url": "https://www.videogameschronicle.com/news/bethesda-president-tells-obsidian-staff-that-the-studio-will-keep-its-creative-identity-after-its-move/",
+      "sources": [
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/bethesda-president-tells-obsidian-staff-that-the-studio-will-keep-its-creative-identity-after-its-move/",
+          "titre": "Bethesda president tells Obsidian staff that the studio will keep its ‘creative identity’ after its move"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/bethesda-say-new-underlings-obsidian-will-retain-their-distinct-creative-identity-despite-no-longer-being-as-free-to-work-on-their-own-creatively-distinct-series",
+          "titre": "Bethesda say new underlings Obsidian will retain their \"distinct\" creative identity, despite no longer being as free to work on their own creatively distinct series"
+        }
+      ]
+    },
+    {
+      "id": "arc-raiders-is-testing-a-pve-mode-because-a-large-and-growin",
+      "titre": "Arc Raiders is testing a PvE mode because \"a large and growing group\" refuse to hunt each other",
+      "url": "https://www.rockpapershotgun.com/arc-raiders-is-testing-a-pve-mode-because-a-large-and-growing-group-refuse-to-hunt-each-other",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 1.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/arc-raiders-is-testing-a-pve-mode-because-a-large-and-growing-group-refuse-to-hunt-each-other",
+          "titre": "Arc Raiders is testing a PvE mode because \"a large and growing group\" refuse to hunt each other"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/arc-raiders-population-stats-micropost/",
+          "titre": "Arc Raiders population stats micropost"
         }
       ]
     },
@@ -89,13 +161,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf",
           "titre": "Nintendo Reportedly Rejected A Ubisoft Zelda Spin-Off Starring Ganondorf"
+        }
+      ]
+    },
+    {
+      "id": "prince-of-persia-the-lost-crown-is-free-to-play-in-its-entir",
+      "titre": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week",
+      "url": "https://www.videogameschronicle.com/news/prince-of-persia-the-lost-crown-is-free-to-play-in-its-entirety-on-switch-for-the-next-week/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/prince-of-persia-the-lost-crown-is-free-to-play-in-its-entirety-on-switch-for-the-next-week/",
+          "titre": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week"
         }
       ]
     },
@@ -107,7 +197,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.8,
       "chaleur": 8,
       "liens": [
         {
@@ -125,31 +215,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.8,
       "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/gta-6-pre-orders-heavily-skewed-towards-ps5-xbox-exec-responds",
           "titre": "GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds"
-        }
-      ]
-    },
-    {
-      "id": "wild-arms-successor-that-sony-rejected-has-been-cancelled-4",
-      "titre": "Wild Arms Successor That Sony Rejected Has Been Cancelled, 4 Years After Its Reveal",
-      "url": "https://www.pushsquare.com/news/2026/09/wild-arms-successor-that-sony-rejected-has-been-cancelled-4-years-after-its-reveal",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 9.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/wild-arms-successor-that-sony-rejected-has-been-cancelled-4-years-after-its-reveal",
-          "titre": "Wild Arms Successor That Sony Rejected Has Been Cancelled, 4 Years After Its Reveal"
         }
       ]
     },
@@ -352,56 +424,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "pax-east",
-      "titre": "PAX East",
-      "url": "https://www.gamedeveloper.com/series/pax-east",
+      "id": "build-a-rocket-boy-has-appointed-administrators",
+      "titre": "Build A Rocket Boy has appointed administrators",
+      "url": "https://www.gamesindustry.biz/build-a-rocket-boy-has-appointed-administrators",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/build-a-rocket-boy-has-appointed-administrators",
+          "titre": "Build A Rocket Boy has appointed administrators"
+        }
+      ]
+    },
+    {
+      "id": "this-shows-the-power-that-comes-from-employees-joining-forc",
+      "titre": "'This shows the power that comes from employees joining forces:' King signs collective bargaining agreement with union workers",
+      "url": "https://www.gamedeveloper.com/business/-this-shows-the-power-that-comes-from-employees-joining-forces-king-signs-collective-bargaining-agreement-with-union-workers",
       "sources": [
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 0.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/series/pax-east",
-          "titre": "PAX East"
+          "url": "https://www.gamedeveloper.com/business/-this-shows-the-power-that-comes-from-employees-joining-forces-king-signs-collective-bargaining-agreement-with-union-workers",
+          "titre": "'This shows the power that comes from employees joining forces:' King signs collective bargaining agreement with union workers"
         }
       ]
     },
     {
-      "id": "tim-cain-among-other-things-that-steve-jackson-games-didn-t",
-      "titre": "Tim Cain: 'Among other things that Steve Jackson Games didn't like about Fallout was Vault Boy'",
-      "url": "https://www.pcgamer.com/games/fallout/tim-cain-among-other-things-that-steve-jackson-games-didnt-like-about-fallout-was-vault-boy/",
+      "id": "king-signs-collective-agreement-with-swedish-trade-unions-fo",
+      "titre": "King signs collective agreement with Swedish trade unions following call to industrial action last week",
+      "url": "https://www.gamesindustry.biz/king-signs-collective-agreement-with-swedish-trade-unions-following-call-to-industrial-action-last-week",
       "sources": [
-        "PC Gamer"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 2.9,
+      "heures": 1.2,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fallout/tim-cain-among-other-things-that-steve-jackson-games-didnt-like-about-fallout-was-vault-boy/",
-          "titre": "Tim Cain: 'Among other things that Steve Jackson Games didn't like about Fallout was Vault Boy'"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/king-signs-collective-agreement-with-swedish-trade-unions-following-call-to-industrial-action-last-week",
+          "titre": "King signs collective agreement with Swedish trade unions following call to industrial action last week"
         }
       ]
     },
     {
-      "id": "rumour-new-leak-suggests-professor-layton-and-phoenix-wright",
-      "titre": "Rumour: New Leak Suggests Professor Layton And Phoenix Wright's 3DS Crossover Is Returning",
-      "url": "https://www.nintendolife.com/news/2026/09/rumour-new-leak-suggests-professor-layton-and-phoenix-wrights-3ds-crossover-is-returning",
+      "id": "unicorn-overlord-director-s-upcoming-action-rpg-looks-expect",
+      "titre": "Unicorn Overlord Director's Upcoming Action RPG Looks Expectedly Beautiful",
+      "url": "https://www.nintendolife.com/news/2026/09/unicorn-overlord-directors-upcoming-action-rpg-looks-expectedly-beautiful",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.4,
+      "heures": 1.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/rumour-new-leak-suggests-professor-layton-and-phoenix-wrights-3ds-crossover-is-returning",
-          "titre": "Rumour: New Leak Suggests Professor Layton And Phoenix Wright's 3DS Crossover Is Returning"
+          "url": "https://www.nintendolife.com/news/2026/09/unicorn-overlord-directors-upcoming-action-rpg-looks-expectedly-beautiful",
+          "titre": "Unicorn Overlord Director's Upcoming Action RPG Looks Expectedly Beautiful"
+        }
+      ]
+    },
+    {
+      "id": "my-first-mmo-character-6-jacob-ridley",
+      "titre": "My first MMO character #6: Jacob Ridley",
+      "url": "https://www.pcgamer.com/games/my-first-mmo-character-6-jacob-ridley/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/my-first-mmo-character-6-jacob-ridley/",
+          "titre": "My first MMO character #6: Jacob Ridley"
         }
       ]
     },
@@ -413,7 +521,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.3,
       "chaleur": 6,
       "liens": [
         {
@@ -432,7 +540,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 6,
       "liens": [
         {
@@ -455,7 +563,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 18.0,
       "chaleur": 6,
       "liens": [
         {
@@ -473,37 +581,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/gta-6-collectors-box-is-usd400-doesnt-include-the-game",
           "titre": "GTA 6 Collector's Box Is $400, Doesn't Include the Game"
-        }
-      ]
-    },
-    {
-      "id": "obsidian-remains-distinct-and-keeps-leadership-team-after-be",
-      "titre": "Obsidian Remains 'Distinct' and Keeps Leadership Team After Being Absorbed by Bethesda",
-      "url": "https://www.pushsquare.com/news/2026/09/obsidian-remains-distinct-and-keeps-leadership-team-after-being-absorbed-by-bethesda",
-      "sources": [
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 19.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/obsidian-remains-distinct-and-keeps-leadership-team-after-being-absorbed-by-bethesda",
-          "titre": "Obsidian Remains 'Distinct' and Keeps Leadership Team After Being Absorbed by Bethesda"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/bethesda-say-new-underlings-obsidian-will-retain-their-distinct-creative-identity-despite-no-longer-being-as-free-to-work-on-their-own-creatively-distinct-series",
-          "titre": "Bethesda say new underlings Obsidian will retain their \"distinct\" creative identity, despite no longer being as free to work on their own creatively distinct series"
         }
       ]
     },
@@ -515,7 +599,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.6,
+      "heures": 23.6,
       "chaleur": 6,
       "liens": [
         {
@@ -533,7 +617,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 23.8,
       "chaleur": 6,
       "liens": [
         {
@@ -551,7 +635,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.3,
       "chaleur": 5,
       "liens": [
         {
@@ -569,7 +653,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 17.7,
       "chaleur": 5,
       "liens": [
         {
@@ -587,7 +671,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 19.1,
       "chaleur": 5,
       "liens": [
         {
@@ -605,7 +689,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 20.5,
       "chaleur": 5,
       "liens": [
         {
@@ -623,7 +707,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 21.6,
       "chaleur": 5,
       "liens": [
         {
@@ -641,7 +725,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 21.9,
       "chaleur": 5,
       "liens": [
         {
@@ -659,7 +743,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.3,
       "chaleur": 5,
       "liens": [
         {
@@ -677,7 +761,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.8,
+      "heures": 22.8,
       "chaleur": 5,
       "liens": [
         {
@@ -695,7 +779,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.8,
+      "heures": 22.8,
       "chaleur": 5,
       "liens": [
         {
@@ -713,7 +797,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.1,
+      "heures": 23.1,
       "chaleur": 5,
       "liens": [
         {
@@ -731,7 +815,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 23.8,
       "chaleur": 5,
       "liens": [
         {
@@ -749,7 +833,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.4,
       "chaleur": 5,
       "liens": [
         {
@@ -767,13 +851,49 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 26.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
           "titre": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay"
+        }
+      ]
+    },
+    {
+      "id": "tim-cain-among-other-things-that-steve-jackson-games-didn-t",
+      "titre": "Tim Cain: 'Among other things that Steve Jackson Games didn't like about Fallout was Vault Boy'",
+      "url": "https://www.pcgamer.com/games/fallout/tim-cain-among-other-things-that-steve-jackson-games-didnt-like-about-fallout-was-vault-boy/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fallout/tim-cain-among-other-things-that-steve-jackson-games-didnt-like-about-fallout-was-vault-boy/",
+          "titre": "Tim Cain: 'Among other things that Steve Jackson Games didn't like about Fallout was Vault Boy'"
+        }
+      ]
+    },
+    {
+      "id": "rumour-new-leak-suggests-professor-layton-and-phoenix-wright",
+      "titre": "Rumour: New Leak Suggests Professor Layton And Phoenix Wright's 3DS Crossover Is Returning",
+      "url": "https://www.nintendolife.com/news/2026/09/rumour-new-leak-suggests-professor-layton-and-phoenix-wrights-3ds-crossover-is-returning",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/rumour-new-leak-suggests-professor-layton-and-phoenix-wrights-3ds-crossover-is-returning",
+          "titre": "Rumour: New Leak Suggests Professor Layton And Phoenix Wright's 3DS Crossover Is Returning"
         }
       ]
     },
@@ -785,7 +905,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -803,7 +923,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -821,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -839,7 +959,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -857,7 +977,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.2,
       "chaleur": 4,
       "liens": [
         {
@@ -875,8 +995,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -893,8 +1013,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -911,8 +1031,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -929,8 +1049,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -947,8 +1067,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -965,8 +1085,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -983,8 +1103,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -992,115 +1112,9 @@ const VEILLE = {
           "titre": "Thief 2 Remastered should be Thief 2 Gold"
         }
       ]
-    },
-    {
-      "id": "my-first-mmo-character-5-fraser-brown",
-      "titre": "My first MMO character #5: Fraser Brown",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-5-fraser-brown/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-5-fraser-brown/",
-          "titre": "My first MMO character #5: Fraser Brown"
-        }
-      ]
-    },
-    {
-      "id": "i-definitely-suck-at-iron-bramble-s-metroidvania-grappling-h",
-      "titre": "I definitely suck at Iron Bramble's metroidvania grappling hook platforming, but its cyber-gothic megastructure world has me hungry for more",
-      "url": "https://www.rockpapershotgun.com/i-definitely-suck-at-iron-brambles-metroidvania-grappling-hook-platforming-but-its-cyber-gothic-megastructure-world-has-me-hungry-for-more",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-definitely-suck-at-iron-brambles-metroidvania-grappling-hook-platforming-but-its-cyber-gothic-megastructure-world-has-me-hungry-for-more",
-          "titre": "I definitely suck at Iron Bramble's metroidvania grappling hook platforming, but its cyber-gothic megastructure world has me hungry for more"
-        }
-      ]
-    },
-    {
-      "id": "after-mainlining-30-hours-of-1440p-bloodborne-i-know-in-my-h",
-      "titre": "After mainlining 30 hours of 1440p Bloodborne, I know in my heart it belongs on PC",
-      "url": "https://www.pcgamer.com/games/after-mainlining-30-hours-of-1440p-bloodborne-i-know-in-my-heart-it-belongs-on-pc/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/after-mainlining-30-hours-of-1440p-bloodborne-i-know-in-my-heart-it-belongs-on-pc/",
-          "titre": "After mainlining 30 hours of 1440p Bloodborne, I know in my heart it belongs on PC"
-        }
-      ]
-    },
-    {
-      "id": "have-you-heard-how-much-money-kojima-wanted-physint-s-rumou",
-      "titre": "'Have You Heard How Much Money Kojima Wanted?': Physint's Rumoured Budget Said to Be 'Significant'",
-      "url": "https://www.pushsquare.com/news/2026/09/have-you-heard-how-much-money-kojima-wanted-physints-rumoured-budget-said-to-be-significant",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 12.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/have-you-heard-how-much-money-kojima-wanted-physints-rumoured-budget-said-to-be-significant",
-          "titre": "'Have You Heard How Much Money Kojima Wanted?': Physint's Rumoured Budget Said to Be 'Significant'"
-        }
-      ]
-    },
-    {
-      "id": "arc-raiders-population-stats-micropost",
-      "titre": "Arc Raiders population stats micropost",
-      "url": "https://www.pcgamer.com/games/arc-raiders-population-stats-micropost/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/arc-raiders-population-stats-micropost/",
-          "titre": "Arc Raiders population stats micropost"
-        }
-      ]
-    },
-    {
-      "id": "achievement-hunters-can-you-identify-the-games-these-milesto",
-      "titre": "Achievement hunters: Can you identify the games these milestones are from?",
-      "url": "https://www.pcgamer.com/games/achievement-hunters-can-you-identify-the-games-these-milestones-are-from/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/achievement-hunters-can-you-identify-the-games-these-milestones-are-from/",
-          "titre": "Achievement hunters: Can you identify the games these milestones are from?"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits"
+  ]
 };
