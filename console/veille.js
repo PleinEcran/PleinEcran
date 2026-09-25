@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "25/09/2026 à 20h18",
+  "collecte": "25/09/2026 à 22h19",
   "seuil": 14,
   "sujets": [
     {
@@ -12,7 +12,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 8.1,
+      "heures": 10.2,
       "chaleur": 15,
       "liens": [
         {
@@ -36,8 +36,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 3.7,
-      "chaleur": 14,
+      "heures": 5.7,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Eurogamer",
@@ -60,7 +60,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.7,
+      "heures": 2.8,
       "chaleur": 11,
       "liens": [
         {
@@ -76,24 +76,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "colourful-jrpg-armed-fantasia-has-been-cancelled-four-years",
-      "titre": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits",
-      "url": "https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits",
-          "titre": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits"
-        }
-      ]
-    },
-    {
       "id": "poll-what-review-score-would-you-give-marvel-s-wolverine",
       "titre": "Poll: What Review Score Would You Give Marvel's Wolverine?",
       "url": "https://www.pushsquare.com/features/poll-what-review-score-would-you-give-marvels-wolverine",
@@ -103,7 +85,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 10,
       "liens": [
         {
@@ -124,6 +106,78 @@ const VEILLE = {
       ]
     },
     {
+      "id": "colourful-jrpg-armed-fantasia-has-been-cancelled-four-years",
+      "titre": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits",
+      "url": "https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 12.1,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits",
+          "titre": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits"
+        }
+      ]
+    },
+    {
+      "id": "i-sit-in-terror-looking-at-the-750-000-wishlists-a-nervous",
+      "titre": "'I sit in terror looking at the 750,000 wishlists': A nervous dev brings a classic Flash game to Steam",
+      "url": "https://www.pcgamer.com/games/i-sit-in-terror-looking-at-the-750-000-wishlists-a-nervous-dev-brings-a-classic-flash-game-to-steam/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/i-sit-in-terror-looking-at-the-750-000-wishlists-a-nervous-dev-brings-a-classic-flash-game-to-steam/",
+          "titre": "'I sit in terror looking at the 750,000 wishlists': A nervous dev brings a classic Flash game to Steam"
+        }
+      ]
+    },
+    {
+      "id": "sony-reportedly-surveying-developers-about-playstation-disc",
+      "titre": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?",
+      "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 11.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
+          "titre": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-of-america-awarded-4-5m-in-lawsuit-from-redditor-fo",
+      "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software",
+      "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 14.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
+          "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software"
+        }
+      ]
+    },
+    {
       "id": "i-made-the-hot-dog-vendors-in-gta-5-work-because-rockstar-ne",
       "titre": "I made the hot dog vendors in GTA 5 work because Rockstar never did",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/i-made-the-hot-dog-vendors-in-gta-5-work-because-rockstar-never-did/",
@@ -131,8 +185,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 9,
+      "heures": 5.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -150,8 +204,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 3.3,
-      "chaleur": 9,
+      "heures": 5.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
@@ -173,67 +227,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 9,
+      "heures": 5.8,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/gaming-mice/a-pro-cs2-player-told-me-he-ditched-his-superstrike-gaming-mouse-for-the-older-superlight-2-because-it-was-inconsistent/",
           "titre": "A pro CS2 player told me he ditched his Superstrike gaming mouse for the older Superlight 2 because it was 'inconsistent'"
-        }
-      ]
-    },
-    {
-      "id": "soulslike-fountains-gets-a-free-switch-2-upgrade-pack-one-we",
-      "titre": "Soulslike 'Fountains' Gets A Free Switch 2 Upgrade Pack One Week After Launch",
-      "url": "https://www.nintendolife.com/news/2026/09/soulslike-fountains-gets-a-free-switch-2-upgrade-pack-one-week-after-launch",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/soulslike-fountains-gets-a-free-switch-2-upgrade-pack-one-week-after-launch",
-          "titre": "Soulslike 'Fountains' Gets A Free Switch 2 Upgrade Pack One Week After Launch"
-        }
-      ]
-    },
-    {
-      "id": "sony-reportedly-surveying-developers-about-playstation-disc",
-      "titre": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?",
-      "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
-          "titre": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-of-america-awarded-4-5m-in-lawsuit-from-redditor-fo",
-      "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software",
-      "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 12.2,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
-          "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software"
         }
       ]
     },
@@ -245,7 +245,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.6,
       "chaleur": 7,
       "liens": [
         {
@@ -264,7 +264,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 6.3,
+      "heures": 8.3,
       "chaleur": 7,
       "liens": [
         {
@@ -287,7 +287,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 7,
       "liens": [
         {
@@ -306,7 +306,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 6.8,
+      "heures": 8.8,
       "chaleur": 7,
       "liens": [
         {
@@ -322,30 +322,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "konami-is-celebrating-the-40th-anniversary-of-castlevania-wi",
-      "titre": "Konami is celebrating the 40th anniversary of Castlevania with a big retro sale and a free game",
-      "url": "https://www.videogameschronicle.com/news/konami-is-celebrating-the-40th-anniversary-of-castlevania-with-a-big-retro-sale-and-a-free-game/",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 8.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/konami-is-celebrating-the-40th-anniversary-of-castlevania-with-a-big-retro-sale-and-a-free-game/",
-          "titre": "Konami is celebrating the 40th anniversary of Castlevania with a big retro sale and a free game"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/enjoy-1986s-castlevania-for-free-on-your-phone-for-40th-anniversary",
-          "titre": "Enjoy 1986's Castlevania for Free on Your Phone for 40th Anniversary"
-        }
-      ]
-    },
-    {
       "id": "unicorn-overlord-director-reveals-promising-new-ps5-rpg-cros",
       "titre": "Unicorn Overlord Director Reveals Promising New PS5 RPG, Cross-Media Plans to Include Light Novels",
       "url": "https://www.pushsquare.com/news/2026/09/unicorn-overlord-director-reveals-promising-new-ps5-rpg-cross-media-plans-to-include-light-novels",
@@ -354,7 +330,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 8.8,
+      "heures": 10.8,
       "chaleur": 7,
       "liens": [
         {
@@ -377,55 +353,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/reddit-mod-ordered-to-cough-up-usd4500000-to-nintendo-in-long-running-switch-piracy-case",
           "titre": "Reddit Mod Ordered To Cough Up $4,500,000 To Nintendo In Long-Running Switch Piracy Case"
-        }
-      ]
-    },
-    {
-      "id": "court-orders-reddit-moderator-who-widely-pirated-switch-game",
-      "titre": "Court orders Reddit moderator who widely pirated Switch games to pay Nintendo $4.5 million in damages",
-      "url": "https://www.videogameschronicle.com/news/court-orders-reddit-moderator-who-widely-pirated-switch-games-to-pay-nintendo-4-5-million-in-damages/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/court-orders-reddit-moderator-who-widely-pirated-switch-games-to-pay-nintendo-4-5-million-in-damages/",
-          "titre": "Court orders Reddit moderator who widely pirated Switch games to pay Nintendo $4.5 million in damages"
-        }
-      ]
-    },
-    {
-      "id": "bethesda-president-tells-obsidian-staff-that-the-studio-will",
-      "titre": "Bethesda president tells Obsidian staff that the studio will keep its ‘creative identity’ after its move",
-      "url": "https://www.videogameschronicle.com/news/bethesda-president-tells-obsidian-staff-that-the-studio-will-keep-its-creative-identity-after-its-move/",
-      "sources": [
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 11.0,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/bethesda-president-tells-obsidian-staff-that-the-studio-will-keep-its-creative-identity-after-its-move/",
-          "titre": "Bethesda president tells Obsidian staff that the studio will keep its ‘creative identity’ after its move"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/bethesda-say-new-underlings-obsidian-will-retain-their-distinct-creative-identity-despite-no-longer-being-as-free-to-work-on-their-own-creatively-distinct-series",
-          "titre": "Bethesda say new underlings Obsidian will retain their \"distinct\" creative identity, despite no longer being as free to work on their own creatively distinct series"
         }
       ]
     },
@@ -610,6 +544,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "newest-wolverine-ps5-update-wipes-out-scent-trails-to-collec",
+      "titre": "Newest Wolverine PS5 Update Wipes Out Scent Trails to Collectibles",
+      "url": "https://www.pushsquare.com/news/2026/09/newest-wolverine-ps5-update-wipes-out-scent-trails-to-collectibles",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/newest-wolverine-ps5-update-wipes-out-scent-trails-to-collectibles",
+          "titre": "Newest Wolverine PS5 Update Wipes Out Scent Trails to Collectibles"
+        }
+      ]
+    },
+    {
+      "id": "guess-who-patented-a-new-system-for-in-game-ads",
+      "titre": "Guess who patented a new system for in-game ads",
+      "url": "https://www.pcgamer.com/gaming-industry/guess-who-patented-a-new-system-for-in-game-ads/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/guess-who-patented-a-new-system-for-in-game-ads/",
+          "titre": "Guess who patented a new system for in-game ads"
+        }
+      ]
+    },
+    {
+      "id": "the-eyes-of-valve-s-creepy-portrait-are-glowing-again",
+      "titre": "The eyes of Valve's creepy portrait are glowing again",
+      "url": "https://www.pcgamer.com/games/moba/the-eyes-of-valves-creepy-portrait-are-glowing-again/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/the-eyes-of-valves-creepy-portrait-are-glowing-again/",
+          "titre": "The eyes of Valve's creepy portrait are glowing again"
+        }
+      ]
+    },
+    {
       "id": "this-78-year-old-grandmother-has-an-insatiable-lust-for-viol",
       "titre": "This 78-year-old grandmother has an insatiable lust for violence (in Fortnite)",
       "url": "https://www.pcgamer.com/games/battle-royale/this-78-year-old-grandmother-has-an-insatiable-lust-for-violence-in-fortnite/",
@@ -617,7 +605,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -635,7 +623,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -653,7 +641,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -671,7 +659,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -689,7 +677,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -707,7 +695,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -725,7 +713,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -736,110 +724,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "resident-evil-requiem-s-made-over-500m-since-release-but-the",
-      "titre": "Resident Evil Requiem's made over $500m since release, but the new film didn't have as big of an impact as Capcom's price drops",
-      "url": "https://www.eurogamer.net/resident-evil-requiem-500-film-capcom-price",
+      "id": "soulslike-fountains-gets-a-free-switch-2-upgrade-pack-one-we",
+      "titre": "Soulslike 'Fountains' Gets A Free Switch 2 Upgrade Pack One Week After Launch",
+      "url": "https://www.nintendolife.com/news/2026/09/soulslike-fountains-gets-a-free-switch-2-upgrade-pack-one-week-after-launch",
       "sources": [
-        "Eurogamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.3,
+      "heures": 5.8,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/resident-evil-requiem-500-film-capcom-price",
-          "titre": "Resident Evil Requiem's made over $500m since release, but the new film didn't have as big of an impact as Capcom's price drops"
-        }
-      ]
-    },
-    {
-      "id": "this-incredible-new-ps5-website-tracks-ps-store-sales-data-a",
-      "titre": "This Incredible New PS5 Website Tracks PS Store Sales Data Around the World and Your Personal Play History",
-      "url": "https://www.pushsquare.com/news/2026/09/this-incredible-new-ps5-website-tracks-ps-store-sales-data-around-the-world-and-your-personal-play-history",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/this-incredible-new-ps5-website-tracks-ps-store-sales-data-around-the-world-and-your-personal-play-history",
-          "titre": "This Incredible New PS5 Website Tracks PS Store Sales Data Around the World and Your Personal Play History"
-        }
-      ]
-    },
-    {
-      "id": "for-warhorse-s-15th-birthday-we-chatted-with-its-co-founder",
-      "titre": "For Warhorse's 15th birthday, we chatted with its co-founder about the demand for 'grown-up' RPGs, AI, why games are too cheap, and his role in the collapse of communism",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/for-warhorses-15th-birthday-we-chatted-with-its-co-founder-about-the-demand-for-grown-up-rpgs-ai-why-games-are-too-cheap-and-his-role-in-the-collapse-of-communism/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/for-warhorses-15th-birthday-we-chatted-with-its-co-founder-about-the-demand-for-grown-up-rpgs-ai-why-games-are-too-cheap-and-his-role-in-the-collapse-of-communism/",
-          "titre": "For Warhorse's 15th birthday, we chatted with its co-founder about the demand for 'grown-up' RPGs, AI, why games are too cheap, and his role in the collapse of communism"
-        }
-      ]
-    },
-    {
-      "id": "rayman-legends-retold-does-physical-media-the-right-way-on-p",
-      "titre": "Rayman Legends Retold Does Physical Media the Right Way on PS5",
-      "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-does-physical-media-the-right-way-on-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-does-physical-media-the-right-way-on-ps5",
-          "titre": "Rayman Legends Retold Does Physical Media the Right Way on PS5"
-        }
-      ]
-    },
-    {
-      "id": "everything-is-hard-but-it-turns-out-that-s-not-society-s-pr",
-      "titre": "'Everything is hard. But it turns out that’s not society’s problem, that’s my problem,' says Jensen Huang about AI development",
-      "url": "https://www.pcgamer.com/software/ai/everything-is-hard-but-it-turns-out-thats-not-societys-problem-thats-my-problem-says-jensen-huang-about-ai-development/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/everything-is-hard-but-it-turns-out-thats-not-societys-problem-thats-my-problem-says-jensen-huang-about-ai-development/",
-          "titre": "'Everything is hard. But it turns out that’s not society’s problem, that’s my problem,' says Jensen Huang about AI development"
-        }
-      ]
-    },
-    {
-      "id": "astro-bot-s-276-piece-lego-set-immortalises-the-ps5-icon-wit",
-      "titre": "Astro Bot's 276 Piece LEGO Set Immortalises the PS5 Icon with Interchangeable Eyes",
-      "url": "https://www.pushsquare.com/news/2026/09/astro-bots-276-piece-lego-set-immortalises-the-ps5-icon-with-interchangeable-eyes",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/astro-bots-276-piece-lego-set-immortalises-the-ps5-icon-with-interchangeable-eyes",
-          "titre": "Astro Bot's 276 Piece LEGO Set Immortalises the PS5 Icon with Interchangeable Eyes"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/soulslike-fountains-gets-a-free-switch-2-upgrade-pack-one-week-after-launch",
+          "titre": "Soulslike 'Fountains' Gets A Free Switch 2 Upgrade Pack One Week After Launch"
         }
       ]
     },
@@ -851,7 +749,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 7.0,
       "chaleur": 6,
       "liens": [
         {
@@ -869,7 +767,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.3,
       "chaleur": 6,
       "liens": [
         {
@@ -887,7 +785,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.3,
       "chaleur": 6,
       "liens": [
         {
@@ -905,7 +803,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 6,
       "liens": [
         {
@@ -916,20 +814,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "prince-of-persia-the-lost-crown-is-free-to-play-in-its-entir",
-      "titre": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week",
-      "url": "https://www.videogameschronicle.com/news/prince-of-persia-the-lost-crown-is-free-to-play-in-its-entirety-on-switch-for-the-next-week/",
+      "id": "court-orders-reddit-moderator-who-widely-pirated-switch-game",
+      "titre": "Court orders Reddit moderator who widely pirated Switch games to pay Nintendo $4.5 million in damages",
+      "url": "https://www.videogameschronicle.com/news/court-orders-reddit-moderator-who-widely-pirated-switch-games-to-pay-nintendo-4-5-million-in-damages/",
       "sources": [
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.8,
+      "heures": 12.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/prince-of-persia-the-lost-crown-is-free-to-play-in-its-entirety-on-switch-for-the-next-week/",
-          "titre": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week"
+          "url": "https://www.videogameschronicle.com/news/court-orders-reddit-moderator-who-widely-pirated-switch-games-to-pay-nintendo-4-5-million-in-damages/",
+          "titre": "Court orders Reddit moderator who widely pirated Switch games to pay Nintendo $4.5 million in damages"
+        }
+      ]
+    },
+    {
+      "id": "bethesda-president-tells-obsidian-staff-that-the-studio-will",
+      "titre": "Bethesda president tells Obsidian staff that the studio will keep its ‘creative identity’ after its move",
+      "url": "https://www.videogameschronicle.com/news/bethesda-president-tells-obsidian-staff-that-the-studio-will-keep-its-creative-identity-after-its-move/",
+      "sources": [
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 13.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/bethesda-president-tells-obsidian-staff-that-the-studio-will-keep-its-creative-identity-after-its-move/",
+          "titre": "Bethesda president tells Obsidian staff that the studio will keep its ‘creative identity’ after its move"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/bethesda-say-new-underlings-obsidian-will-retain-their-distinct-creative-identity-despite-no-longer-being-as-free-to-work-on-their-own-creatively-distinct-series",
+          "titre": "Bethesda say new underlings Obsidian will retain their \"distinct\" creative identity, despite no longer being as free to work on their own creatively distinct series"
         }
       ]
     },
@@ -942,7 +864,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 26.4,
+      "heures": 28.4,
       "chaleur": 6,
       "liens": [
         {
@@ -965,7 +887,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.0,
+      "heures": 30.0,
       "chaleur": 6,
       "liens": [
         {
@@ -983,13 +905,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 33.8,
+      "heures": 35.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gta-4-with-dlss-and-fsr-support",
           "titre": "After eighteen years of jaggedy bowling, a new mod bestows GTA 4 with DLSS and FSR support"
+        }
+      ]
+    },
+    {
+      "id": "prince-of-persia-the-lost-crown-is-free-to-play-in-its-entir",
+      "titre": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week",
+      "url": "https://www.videogameschronicle.com/news/prince-of-persia-the-lost-crown-is-free-to-play-in-its-entirety-on-switch-for-the-next-week/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 13.8,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/prince-of-persia-the-lost-crown-is-free-to-play-in-its-entirety-on-switch-for-the-next-week/",
+          "titre": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week"
         }
       ]
     },
@@ -1001,7 +941,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 15.8,
       "chaleur": 5,
       "liens": [
         {
@@ -1019,7 +959,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 20.2,
       "chaleur": 5,
       "liens": [
         {
@@ -1037,7 +977,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.7,
+      "heures": 29.7,
       "chaleur": 5,
       "liens": [
         {
@@ -1055,7 +995,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 30.5,
+      "heures": 32.5,
       "chaleur": 5,
       "liens": [
         {
@@ -1073,7 +1013,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 32.3,
+      "heures": 34.3,
       "chaleur": 5,
       "liens": [
         {
@@ -1091,7 +1031,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 32.8,
+      "heures": 34.8,
       "chaleur": 5,
       "liens": [
         {
@@ -1102,56 +1042,110 @@ const VEILLE = {
       ]
     },
     {
-      "id": "four-years-after-release-splatoon-3-s-player-numbers-are-on",
-      "titre": "Four Years After Release, Splatoon 3's Player Numbers Are On The Up In 2026",
-      "url": "https://www.nintendolife.com/news/2026/09/four-years-after-release-splatoon-3s-player-numbers-are-on-the-up-in-2026",
+      "id": "resident-evil-requiem-s-made-over-500m-since-release-but-the",
+      "titre": "Resident Evil Requiem's made over $500m since release, but the new film didn't have as big of an impact as Capcom's price drops",
+      "url": "https://www.eurogamer.net/resident-evil-requiem-500-film-capcom-price",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/resident-evil-requiem-500-film-capcom-price",
+          "titre": "Resident Evil Requiem's made over $500m since release, but the new film didn't have as big of an impact as Capcom's price drops"
+        }
+      ]
+    },
+    {
+      "id": "this-incredible-new-ps5-website-tracks-ps-store-sales-data-a",
+      "titre": "This Incredible New PS5 Website Tracks PS Store Sales Data Around the World and Your Personal Play History",
+      "url": "https://www.pushsquare.com/news/2026/09/this-incredible-new-ps5-website-tracks-ps-store-sales-data-around-the-world-and-your-personal-play-history",
+      "sources": [
+        "Push Square"
       ],
       "reprises": 1,
       "heures": 4.6,
       "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/four-years-after-release-splatoon-3s-player-numbers-are-on-the-up-in-2026",
-          "titre": "Four Years After Release, Splatoon 3's Player Numbers Are On The Up In 2026"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/this-incredible-new-ps5-website-tracks-ps-store-sales-data-around-the-world-and-your-personal-play-history",
+          "titre": "This Incredible New PS5 Website Tracks PS Store Sales Data Around the World and Your Personal Play History"
         }
       ]
     },
     {
-      "id": "here-is-the-full-line-up-for-the-gamesindustry-biz-hr-summit",
-      "titre": "Here is the full line-up for the GamesIndustry.biz HR Summit 2026",
-      "url": "https://www.gamesindustry.biz/here-is-the-full-line-up-for-the-gamesindustrybiz-hr-summit-2026",
+      "id": "for-warhorse-s-15th-birthday-we-chatted-with-its-co-founder",
+      "titre": "For Warhorse's 15th birthday, we chatted with its co-founder about the demand for 'grown-up' RPGs, AI, why games are too cheap, and his role in the collapse of communism",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/for-warhorses-15th-birthday-we-chatted-with-its-co-founder-about-the-demand-for-grown-up-rpgs-ai-why-games-are-too-cheap-and-his-role-in-the-collapse-of-communism/",
       "sources": [
-        "GamesIndustry.biz"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 4.7,
       "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/here-is-the-full-line-up-for-the-gamesindustrybiz-hr-summit-2026",
-          "titre": "Here is the full line-up for the GamesIndustry.biz HR Summit 2026"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/for-warhorses-15th-birthday-we-chatted-with-its-co-founder-about-the-demand-for-grown-up-rpgs-ai-why-games-are-too-cheap-and-his-role-in-the-collapse-of-communism/",
+          "titre": "For Warhorse's 15th birthday, we chatted with its co-founder about the demand for 'grown-up' RPGs, AI, why games are too cheap, and his role in the collapse of communism"
         }
       ]
     },
     {
-      "id": "arc-raiders-announces-a-new-pve-test-to-accommodate-its-surp",
-      "titre": "Arc Raiders announces a new PvE \"test\" to accommodate its surprisingly friendly players",
-      "url": "https://www.eurogamer.net/arc-raiders-pve-matchmaking-test",
+      "id": "rayman-legends-retold-does-physical-media-the-right-way-on-p",
+      "titre": "Rayman Legends Retold Does Physical Media the Right Way on PS5",
+      "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-does-physical-media-the-right-way-on-ps5",
       "sources": [
-        "Eurogamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 5.3,
       "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/arc-raiders-pve-matchmaking-test",
-          "titre": "Arc Raiders announces a new PvE \"test\" to accommodate its surprisingly friendly players"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-does-physical-media-the-right-way-on-ps5",
+          "titre": "Rayman Legends Retold Does Physical Media the Right Way on PS5"
+        }
+      ]
+    },
+    {
+      "id": "everything-is-hard-but-it-turns-out-that-s-not-society-s-pr",
+      "titre": "'Everything is hard. But it turns out that’s not society’s problem, that’s my problem,' says Jensen Huang about AI development",
+      "url": "https://www.pcgamer.com/software/ai/everything-is-hard-but-it-turns-out-thats-not-societys-problem-thats-my-problem-says-jensen-huang-about-ai-development/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/everything-is-hard-but-it-turns-out-thats-not-societys-problem-thats-my-problem-says-jensen-huang-about-ai-development/",
+          "titre": "'Everything is hard. But it turns out that’s not society’s problem, that’s my problem,' says Jensen Huang about AI development"
+        }
+      ]
+    },
+    {
+      "id": "astro-bot-s-276-piece-lego-set-immortalises-the-ps5-icon-wit",
+      "titre": "Astro Bot's 276 Piece LEGO Set Immortalises the PS5 Icon with Interchangeable Eyes",
+      "url": "https://www.pushsquare.com/news/2026/09/astro-bots-276-piece-lego-set-immortalises-the-ps5-icon-with-interchangeable-eyes",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/astro-bots-276-piece-lego-set-immortalises-the-ps5-icon-with-interchangeable-eyes",
+          "titre": "Astro Bot's 276 Piece LEGO Set Immortalises the PS5 Icon with Interchangeable Eyes"
         }
       ]
     }
