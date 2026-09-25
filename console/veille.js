@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "25/09/2026 à 18h22",
+  "collecte": "25/09/2026 à 20h18",
   "seuil": 14,
   "sujets": [
     {
@@ -12,7 +12,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 6.2,
+      "heures": 8.1,
       "chaleur": 15,
       "liens": [
         {
@@ -36,7 +36,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 14,
       "liens": [
         {
@@ -52,26 +52,44 @@ const VEILLE = {
       ]
     },
     {
+      "id": "what-insiders-say-halo-studios-was-up-to-before-losing-halo",
+      "titre": "What insiders say Halo Studios was up to before losing Halo: 'The next Halo game was years away'",
+      "url": "https://www.pcgamer.com/games/halo/what-insiders-say-halo-studios-was-up-to-before-losing-halo-the-next-halo-game-was-years-away/",
+      "sources": [
+        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.7,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/halo/what-insiders-say-halo-studios-was-up-to-before-losing-halo-the-next-halo-game-was-years-away/",
+          "titre": "What insiders say Halo Studios was up to before losing Halo: 'The next Halo game was years away'"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-halo-under-activision-whats-next-for-xbox/",
+          "titre": "Podcast: Halo under Activision – What’s next for Xbox?"
+        }
+      ]
+    },
+    {
       "id": "colourful-jrpg-armed-fantasia-has-been-cancelled-four-years",
       "titre": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits",
       "url": "https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits",
       "sources": [
-        "Push Square",
         "Rock Paper Shotgun"
       ],
-      "reprises": 2,
-      "heures": 8.2,
-      "chaleur": 14,
+      "reprises": 1,
+      "heures": 10.1,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits",
           "titre": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/wild-arms-successor-that-sony-rejected-has-been-cancelled-4-years-after-its-reveal",
-          "titre": "Wild Arms Successor That Sony Rejected Has Been Cancelled, 4 Years After Its Reveal"
         }
       ]
     },
@@ -85,8 +103,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 2.4,
-      "chaleur": 12,
+      "heures": 4.3,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Push Square",
@@ -113,7 +131,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 9,
       "liens": [
         {
@@ -132,7 +150,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 9,
       "liens": [
         {
@@ -155,49 +173,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.8,
       "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/gaming-mice/a-pro-cs2-player-told-me-he-ditched-his-superstrike-gaming-mouse-for-the-older-superlight-2-because-it-was-inconsistent/",
           "titre": "A pro CS2 player told me he ditched his Superstrike gaming mouse for the older Superlight 2 because it was 'inconsistent'"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-can-t-completely-sweep-this-year-s-goty-awards-anymore",
-      "titre": "GTA 6 Can't Completely Sweep This Year's GOTY Awards Anymore",
-      "url": "https://www.pushsquare.com/news/2026/09/gta-6-cant-completely-sweep-this-years-goty-awards-anymore",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/gta-6-cant-completely-sweep-this-years-goty-awards-anymore",
-          "titre": "GTA 6 Can't Completely Sweep This Year's GOTY Awards Anymore"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-of-america-awarded-4-5m-in-lawsuit-from-redditor-fo",
-      "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software",
-      "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
-          "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software"
         }
       ]
     },
@@ -209,31 +191,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.8,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/soulslike-fountains-gets-a-free-switch-2-upgrade-pack-one-week-after-launch",
           "titre": "Soulslike 'Fountains' Gets A Free Switch 2 Upgrade Pack One Week After Launch"
-        }
-      ]
-    },
-    {
-      "id": "i-ve-worked-at-pc-gamer-for-18-years-these-are-the-13-games",
-      "titre": "I've worked at PC Gamer for 18 years. These are the 13 games on my Steam Wishlist",
-      "url": "https://www.pcgamer.com/games/ive-worked-at-pc-gamer-for-18-years-these-are-the-13-games-on-my-steam-wishlist/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/ive-worked-at-pc-gamer-for-18-years-these-are-the-13-games-on-my-steam-wishlist/",
-          "titre": "I've worked at PC Gamer for 18 years. These are the 13 games on my Steam Wishlist"
         }
       ]
     },
@@ -245,13 +209,49 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
           "titre": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-of-america-awarded-4-5m-in-lawsuit-from-redditor-fo",
+      "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software",
+      "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 12.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
+          "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-can-t-completely-sweep-this-year-s-goty-awards-anymore",
+      "titre": "GTA 6 Can't Completely Sweep This Year's GOTY Awards Anymore",
+      "url": "https://www.pushsquare.com/news/2026/09/gta-6-cant-completely-sweep-this-years-goty-awards-anymore",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/gta-6-cant-completely-sweep-this-years-goty-awards-anymore",
+          "titre": "GTA 6 Can't Completely Sweep This Year's GOTY Awards Anymore"
         }
       ]
     },
@@ -264,7 +264,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 4.4,
+      "heures": 6.3,
       "chaleur": 7,
       "liens": [
         {
@@ -287,7 +287,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 7,
       "liens": [
         {
@@ -306,7 +306,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.9,
+      "heures": 6.8,
       "chaleur": 7,
       "liens": [
         {
@@ -330,7 +330,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 6.3,
+      "heures": 8.3,
       "chaleur": 7,
       "liens": [
         {
@@ -354,7 +354,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 6.9,
+      "heures": 8.8,
       "chaleur": 7,
       "liens": [
         {
@@ -377,7 +377,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 7,
       "liens": [
         {
@@ -395,7 +395,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 7,
       "liens": [
         {
@@ -414,7 +414,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.0,
+      "heures": 11.0,
       "chaleur": 7,
       "liens": [
         {
@@ -610,20 +610,128 @@ const VEILLE = {
       ]
     },
     {
-      "id": "london-games-festival",
-      "titre": "London Games Festival",
-      "url": "https://www.gamedeveloper.comgames.london",
+      "id": "this-78-year-old-grandmother-has-an-insatiable-lust-for-viol",
+      "titre": "This 78-year-old grandmother has an insatiable lust for violence (in Fortnite)",
+      "url": "https://www.pcgamer.com/games/battle-royale/this-78-year-old-grandmother-has-an-insatiable-lust-for-violence-in-fortnite/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/battle-royale/this-78-year-old-grandmother-has-an-insatiable-lust-for-violence-in-fortnite/",
+          "titre": "This 78-year-old grandmother has an insatiable lust for violence (in Fortnite)"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-dev-has-no-sympathy-for-players-ki",
+      "titre": "World of Warcraft: Forever dev has 'no sympathy' for players kicked from the beta for offensive names: 'If you're genuinely confused, remember that it's our database, we can see every character you've created'",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-has-no-sympathy-for-players-kicked-from-the-beta-for-offensive-names-if-youre-genuinely-confused-remember-that-its-our-database-we-can-see-every-character-youve-created/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-has-no-sympathy-for-players-kicked-from-the-beta-for-offensive-names-if-youre-genuinely-confused-remember-that-its-our-database-we-can-see-every-character-youve-created/",
+          "titre": "World of Warcraft: Forever dev has 'no sympathy' for players kicked from the beta for offensive names: 'If you're genuinely confused, remember that it's our database, we can see every character you've created'"
+        }
+      ]
+    },
+    {
+      "id": "ps5-fans-encouraged-to-give-feedback-on-discs-in-new-sony-su",
+      "titre": "PS5 Fans Encouraged to Give Feedback on Discs in New Sony Survey",
+      "url": "https://www.pushsquare.com/news/2026/09/ps5-fans-encouraged-to-give-feedback-on-discs-in-new-sony-survey",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/ps5-fans-encouraged-to-give-feedback-on-discs-in-new-sony-survey",
+          "titre": "PS5 Fans Encouraged to Give Feedback on Discs in New Sony Survey"
+        }
+      ]
+    },
+    {
+      "id": "skyrim-loremaster-says-the-elder-scrolls-never-got-a-fallout",
+      "titre": "Skyrim loremaster says The Elder Scrolls never got a Fallout: New Vegas-style game because Bethesda is \"very protective\" over its golden goose",
+      "url": "https://www.eurogamer.net/skyrim-elder-scrolls-never-fallout-new-vegas-bethesda",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/skyrim-elder-scrolls-never-fallout-new-vegas-bethesda",
+          "titre": "Skyrim loremaster says The Elder Scrolls never got a Fallout: New Vegas-style game because Bethesda is \"very protective\" over its golden goose"
+        }
+      ]
+    },
+    {
+      "id": "i-feel-like-i-m-running-a-corner-store-in-dredd-or-cyberpunk",
+      "titre": "I feel like I'm running a corner store in Dredd or Cyberpunk 2077",
+      "url": "https://www.pcgamer.com/games/sim/i-feel-like-im-running-a-corner-store-in-dredd-or-cyberpunk-2077/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/i-feel-like-im-running-a-corner-store-in-dredd-or-cyberpunk-2077/",
+          "titre": "I feel like I'm running a corner store in Dredd or Cyberpunk 2077"
+        }
+      ]
+    },
+    {
+      "id": "reminder-these-3-ps5-ps4-games-will-be-delisted-or-disabled",
+      "titre": "Reminder: These 3 PS5, PS4 Games Will Be Delisted or Disabled in October 2026",
+      "url": "https://www.pushsquare.com/news/2026/09/reminder-these-3-ps5-ps4-games-will-be-delisted-or-disabled-in-october-2026",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/reminder-these-3-ps5-ps4-games-will-be-delisted-or-disabled-in-october-2026",
+          "titre": "Reminder: These 3 PS5, PS4 Games Will Be Delisted or Disabled in October 2026"
+        }
+      ]
+    },
+    {
+      "id": "gdc-side-quest-exploring-co-development-opportunities-with-s",
+      "titre": "GDC Side Quest - Exploring co-development opportunities with Sam Carlisle",
+      "url": "https://www.gamedeveloper.com/production/gdc-side-quest-exploring-co-development-opportunities-with-sam-carlisle",
       "sources": [
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 1.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
-          "url": "https://www.gamedeveloper.comgames.london",
-          "titre": "London Games Festival"
+          "url": "https://www.gamedeveloper.com/production/gdc-side-quest-exploring-co-development-opportunities-with-sam-carlisle",
+          "titre": "GDC Side Quest - Exploring co-development opportunities with Sam Carlisle"
         }
       ]
     },
@@ -635,7 +743,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -653,7 +761,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -671,7 +779,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -689,7 +797,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -707,7 +815,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -725,7 +833,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -736,74 +844,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "four-years-after-release-splatoon-3-s-player-numbers-are-on",
-      "titre": "Four Years After Release, Splatoon 3's Player Numbers Are On The Up In 2026",
-      "url": "https://www.nintendolife.com/news/2026/09/four-years-after-release-splatoon-3s-player-numbers-are-on-the-up-in-2026",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/four-years-after-release-splatoon-3s-player-numbers-are-on-the-up-in-2026",
-          "titre": "Four Years After Release, Splatoon 3's Player Numbers Are On The Up In 2026"
-        }
-      ]
-    },
-    {
-      "id": "here-is-the-full-line-up-for-the-gamesindustry-biz-hr-summit",
-      "titre": "Here is the full line-up for the GamesIndustry.biz HR Summit 2026",
-      "url": "https://www.gamesindustry.biz/here-is-the-full-line-up-for-the-gamesindustrybiz-hr-summit-2026",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/here-is-the-full-line-up-for-the-gamesindustrybiz-hr-summit-2026",
-          "titre": "Here is the full line-up for the GamesIndustry.biz HR Summit 2026"
-        }
-      ]
-    },
-    {
-      "id": "arc-raiders-announces-a-new-pve-test-to-accommodate-its-surp",
-      "titre": "Arc Raiders announces a new PvE \"test\" to accommodate its surprisingly friendly players",
-      "url": "https://www.eurogamer.net/arc-raiders-pve-matchmaking-test",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/arc-raiders-pve-matchmaking-test",
-          "titre": "Arc Raiders announces a new PvE \"test\" to accommodate its surprisingly friendly players"
-        }
-      ]
-    },
-    {
-      "id": "it-s-time-to-decide-the-worst-graphical-effect-in-games-film",
-      "titre": "It's time to decide the worst graphical effect in games: film grain vs bloom",
-      "url": "https://www.pcgamer.com/hardware/its-time-to-decide-the-worst-graphical-effect-in-games-film-grain-vs-bloom/",
+      "id": "i-ve-worked-at-pc-gamer-for-18-years-these-are-the-13-games",
+      "titre": "I've worked at PC Gamer for 18 years. These are the 13 games on my Steam Wishlist",
+      "url": "https://www.pcgamer.com/games/ive-worked-at-pc-gamer-for-18-years-these-are-the-13-games-on-my-steam-wishlist/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.7,
+      "heures": 5.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/its-time-to-decide-the-worst-graphical-effect-in-games-film-grain-vs-bloom/",
-          "titre": "It's time to decide the worst graphical effect in games: film grain vs bloom"
+          "url": "https://www.pcgamer.com/games/ive-worked-at-pc-gamer-for-18-years-these-are-the-13-games-on-my-steam-wishlist/",
+          "titre": "I've worked at PC Gamer for 18 years. These are the 13 games on my Steam Wishlist"
         }
       ]
     },
@@ -815,7 +869,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.3,
       "chaleur": 6,
       "liens": [
         {
@@ -833,31 +887,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion",
           "titre": "The Xbox reset doesn't have an end date | Opinion"
-        }
-      ]
-    },
-    {
-      "id": "podcast-halo-under-activision-what-s-next-for-xbox",
-      "titre": "Podcast: Halo under Activision – What’s next for Xbox?",
-      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-halo-under-activision-whats-next-for-xbox/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 5.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-halo-under-activision-whats-next-for-xbox/",
-          "titre": "Podcast: Halo under Activision – What’s next for Xbox?"
         }
       ]
     },
@@ -869,7 +905,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.3,
       "chaleur": 6,
       "liens": [
         {
@@ -887,49 +923,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/prince-of-persia-the-lost-crown-is-free-to-play-in-its-entirety-on-switch-for-the-next-week/",
           "titre": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week"
-        }
-      ]
-    },
-    {
-      "id": "square-enix-shows-off-exclusive-sleeve-for-dragon-quest-xi-s",
-      "titre": "Square Enix Shows Off Exclusive Sleeve For Dragon Quest XI S On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/09/square-enix-shows-off-exclusive-sleeve-for-dragon-quest-xi-s-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/square-enix-shows-off-exclusive-sleeve-for-dragon-quest-xi-s-on-switch-2",
-          "titre": "Square Enix Shows Off Exclusive Sleeve For Dragon Quest XI S On Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-pre-orders-heavily-skewed-towards-ps5-xbox-exec-respon",
-      "titre": "GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds",
-      "url": "https://www.pushsquare.com/news/2026/09/gta-6-pre-orders-heavily-skewed-towards-ps5-xbox-exec-responds",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 18.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/gta-6-pre-orders-heavily-skewed-towards-ps5-xbox-exec-responds",
-          "titre": "GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds"
         }
       ]
     },
@@ -942,7 +942,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 24.4,
+      "heures": 26.4,
       "chaleur": 6,
       "liens": [
         {
@@ -965,7 +965,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.0,
+      "heures": 28.0,
       "chaleur": 6,
       "liens": [
         {
@@ -983,13 +983,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 31.9,
+      "heures": 33.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gta-4-with-dlss-and-fsr-support",
           "titre": "After eighteen years of jaggedy bowling, a new mod bestows GTA 4 with DLSS and FSR support"
+        }
+      ]
+    },
+    {
+      "id": "square-enix-shows-off-exclusive-sleeve-for-dragon-quest-xi-s",
+      "titre": "Square Enix Shows Off Exclusive Sleeve For Dragon Quest XI S On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/09/square-enix-shows-off-exclusive-sleeve-for-dragon-quest-xi-s-on-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.8,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/square-enix-shows-off-exclusive-sleeve-for-dragon-quest-xi-s-on-switch-2",
+          "titre": "Square Enix Shows Off Exclusive Sleeve For Dragon Quest XI S On Switch 2"
         }
       ]
     },
@@ -1001,7 +1019,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.2,
       "chaleur": 5,
       "liens": [
         {
@@ -1019,7 +1037,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.7,
+      "heures": 27.7,
       "chaleur": 5,
       "liens": [
         {
@@ -1037,31 +1055,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 28.6,
+      "heures": 30.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation",
           "titre": "Dutch consumer group files lawsuit against Epic for misleading young players on Fortnite, seeking more than €100m in compensation"
-        }
-      ]
-    },
-    {
-      "id": "i-assume-someone-is-being-greedy-somewhere-tim-schafer-disc",
-      "titre": "\"I assume someone is being greedy somewhere\" - Tim Schafer discusses current game industry woes following Double Fine's split with Xbox",
-      "url": "https://www.eurogamer.net/double-fine-tim-schafer-xbox-greedy",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 29.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/double-fine-tim-schafer-xbox-greedy",
-          "titre": "\"I assume someone is being greedy somewhere\" - Tim Schafer discusses current game industry woes following Double Fine's split with Xbox"
         }
       ]
     },
@@ -1073,7 +1073,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 30.4,
+      "heures": 32.3,
       "chaleur": 5,
       "liens": [
         {
@@ -1091,7 +1091,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 30.8,
+      "heures": 32.8,
       "chaleur": 5,
       "liens": [
         {
@@ -1102,61 +1102,59 @@ const VEILLE = {
       ]
     },
     {
-      "id": "microsoft-files-patent-for-ad-credit-system-to-show-ads-on-p",
-      "titre": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay",
-      "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
+      "id": "four-years-after-release-splatoon-3-s-player-numbers-are-on",
+      "titre": "Four Years After Release, Splatoon 3's Player Numbers Are On The Up In 2026",
+      "url": "https://www.nintendolife.com/news/2026/09/four-years-after-release-splatoon-3s-player-numbers-are-on-the-up-in-2026",
       "sources": [
-        "GamesIndustry.biz"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 34.4,
-      "chaleur": 5,
+      "heures": 4.6,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
-          "titre": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/four-years-after-release-splatoon-3s-player-numbers-are-on-the-up-in-2026",
+          "titre": "Four Years After Release, Splatoon 3's Player Numbers Are On The Up In 2026"
         }
       ]
     },
     {
-      "id": "microsoft-s-failure-to-find-a-home-for-ninja-theory-voids-th",
-      "titre": "Microsoft's failure to find a home for Ninja Theory voids the one, very tenuous upside to Senua's SGF reveal",
-      "url": "https://www.rockpapershotgun.com/microsofts-failure-to-find-a-home-for-ninja-theory-voids-the-one-very-tenuous-upside-to-senuas-sgf-reveal",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 4.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/microsofts-failure-to-find-a-home-for-ninja-theory-voids-the-one-very-tenuous-upside-to-senuas-sgf-reveal",
-          "titre": "Microsoft's failure to find a home for Ninja Theory voids the one, very tenuous upside to Senua's SGF reveal"
-        }
-      ]
-    },
-    {
-      "id": "trophy-games-acquires-airport-simulator-first-class-develope",
-      "titre": "Trophy Games acquires Airport Simulator: First Class developer Playrion from Paradox Interactive",
-      "url": "https://www.gamesindustry.biz/trophy-games-acquires-airport-simulator-first-class-developer-playrion-from-paradox-interactive",
+      "id": "here-is-the-full-line-up-for-the-gamesindustry-biz-hr-summit",
+      "titre": "Here is the full line-up for the GamesIndustry.biz HR Summit 2026",
+      "url": "https://www.gamesindustry.biz/here-is-the-full-line-up-for-the-gamesindustrybiz-hr-summit-2026",
       "sources": [
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 4.8,
       "chaleur": 4,
       "liens": [
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/trophy-games-acquires-airport-simulator-first-class-developer-playrion-from-paradox-interactive",
-          "titre": "Trophy Games acquires Airport Simulator: First Class developer Playrion from Paradox Interactive"
+          "url": "https://www.gamesindustry.biz/here-is-the-full-line-up-for-the-gamesindustrybiz-hr-summit-2026",
+          "titre": "Here is the full line-up for the GamesIndustry.biz HR Summit 2026"
+        }
+      ]
+    },
+    {
+      "id": "arc-raiders-announces-a-new-pve-test-to-accommodate-its-surp",
+      "titre": "Arc Raiders announces a new PvE \"test\" to accommodate its surprisingly friendly players",
+      "url": "https://www.eurogamer.net/arc-raiders-pve-matchmaking-test",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/arc-raiders-pve-matchmaking-test",
+          "titre": "Arc Raiders announces a new PvE \"test\" to accommodate its surprisingly friendly players"
         }
       ]
     }
   ],
-  "alertes": [
-    "Ubisoft's Mario + Rabbids team reportedly came close to making an \"ambitious\" Zelda game starring Ganondorf, but it wasn't to be"
-  ]
+  "alertes": []
 };
