@@ -1,8 +1,32 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "25/09/2026 à 10h20",
+  "collecte": "25/09/2026 à 12h25",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "gta-veteran-s-mindseye-studio-build-a-rocket-boy-has-entered",
+      "titre": "GTA veteran's MindsEye studio Build a Rocket Boy has entered administration, following yet more reports of layoffs",
+      "url": "https://www.eurogamer.net/mindseye-build-a-rocket-boy-administration-insolvency",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 0.3,
+      "chaleur": 17,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/mindseye-build-a-rocket-boy-administration-insolvency",
+          "titre": "GTA veteran's MindsEye studio Build a Rocket Boy has entered administration, following yet more reports of layoffs"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/build-a-rocket-boy-has-appointed-administrators",
+          "titre": "Build A Rocket Boy has appointed administrators"
+        }
+      ]
+    },
     {
       "id": "colourful-jrpg-armed-fantasia-has-been-cancelled-four-years",
       "titre": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits",
@@ -12,7 +36,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 0.1,
+      "heures": 2.2,
       "chaleur": 16,
       "liens": [
         {
@@ -28,24 +52,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-of-america-awarded-4-5m-in-lawsuit-from-redditor-fo",
-      "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software",
-      "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
-          "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software"
-        }
-      ]
-    },
-    {
       "id": "age-of-empires-dev-has-half-of-studio-slashed-project-cancel",
       "titre": "Age of Empires Dev Has Half of Studio Slashed, Project Cancelled Amid Xbox Layoffs",
       "url": "https://www.pushsquare.com/news/2026/09/age-of-empires-dev-has-half-of-studio-slashed-project-cancelled-amid-xbox-layoffs",
@@ -53,7 +59,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.4,
       "chaleur": 11,
       "liens": [
         {
@@ -72,7 +78,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 22.4,
+      "heures": 24.5,
       "chaleur": 11,
       "liens": [
         {
@@ -88,6 +94,90 @@ const VEILLE = {
       ]
     },
     {
+      "id": "sony-reportedly-surveying-developers-about-playstation-disc",
+      "titre": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?",
+      "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
+          "titre": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?"
+        }
+      ]
+    },
+    {
+      "id": "konami-is-celebrating-the-40th-anniversary-of-castlevania-wi",
+      "titre": "Konami is celebrating the 40th anniversary of Castlevania with a big retro sale and a free game",
+      "url": "https://www.videogameschronicle.com/news/konami-is-celebrating-the-40th-anniversary-of-castlevania-with-a-big-retro-sale-and-a-free-game/",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/konami-is-celebrating-the-40th-anniversary-of-castlevania-with-a-big-retro-sale-and-a-free-game/",
+          "titre": "Konami is celebrating the 40th anniversary of Castlevania with a big retro sale and a free game"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/enjoy-1986s-castlevania-for-free-on-your-phone-for-40th-anniversary",
+          "titre": "Enjoy 1986's Castlevania for Free on Your Phone for 40th Anniversary"
+        }
+      ]
+    },
+    {
+      "id": "unicorn-overlord-director-reveals-promising-new-ps5-rpg-cros",
+      "titre": "Unicorn Overlord Director Reveals Promising New PS5 RPG, Cross-Media Plans to Include Light Novels",
+      "url": "https://www.pushsquare.com/news/2026/09/unicorn-overlord-director-reveals-promising-new-ps5-rpg-cross-media-plans-to-include-light-novels",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 0.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/unicorn-overlord-director-reveals-promising-new-ps5-rpg-cross-media-plans-to-include-light-novels",
+          "titre": "Unicorn Overlord Director Reveals Promising New PS5 RPG, Cross-Media Plans to Include Light Novels"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/unicorn-overlord-directors-upcoming-action-rpg-looks-expectedly-beautiful",
+          "titre": "Unicorn Overlord Director's Upcoming Action RPG Looks Expectedly Beautiful"
+        }
+      ]
+    },
+    {
+      "id": "reddit-mod-ordered-to-cough-up-4-500-000-to-nintendo-in-long",
+      "titre": "Reddit Mod Ordered To Cough Up $4,500,000 To Nintendo In Long-Running Switch Piracy Case",
+      "url": "https://www.nintendolife.com/news/2026/09/reddit-mod-ordered-to-cough-up-usd4500000-to-nintendo-in-long-running-switch-piracy-case",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/reddit-mod-ordered-to-cough-up-usd4500000-to-nintendo-in-long-running-switch-piracy-case",
+          "titre": "Reddit Mod Ordered To Cough Up $4,500,000 To Nintendo In Long-Running Switch Piracy Case"
+        }
+      ]
+    },
+    {
       "id": "court-orders-reddit-moderator-who-widely-pirated-switch-game",
       "titre": "Court orders Reddit moderator who widely pirated Switch games to pay Nintendo $4.5 million in damages",
       "url": "https://www.videogameschronicle.com/news/court-orders-reddit-moderator-who-widely-pirated-switch-games-to-pay-nintendo-4-5-million-in-damages/",
@@ -95,7 +185,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.4,
       "chaleur": 9,
       "liens": [
         {
@@ -114,7 +204,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.0,
+      "heures": 3.1,
       "chaleur": 9,
       "liens": [
         {
@@ -130,26 +220,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "arc-raiders-is-testing-a-pve-mode-because-a-large-and-growin",
-      "titre": "Arc Raiders is testing a PvE mode because \"a large and growing group\" refuse to hunt each other",
-      "url": "https://www.rockpapershotgun.com/arc-raiders-is-testing-a-pve-mode-because-a-large-and-growing-group-refuse-to-hunt-each-other",
+      "id": "nintendo-of-america-awarded-4-5m-in-lawsuit-from-redditor-fo",
+      "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software",
+      "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
       "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
+        "GamesIndustry.biz"
       ],
-      "reprises": 2,
-      "heures": 1.3,
+      "reprises": 1,
+      "heures": 4.3,
       "chaleur": 9,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/arc-raiders-is-testing-a-pve-mode-because-a-large-and-growing-group-refuse-to-hunt-each-other",
-          "titre": "Arc Raiders is testing a PvE mode because \"a large and growing group\" refuse to hunt each other"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/arc-raiders-population-stats-micropost/",
-          "titre": "Arc Raiders population stats micropost"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
+          "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software"
         }
       ]
     },
@@ -161,13 +245,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.5,
       "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf",
           "titre": "Nintendo Reportedly Rejected A Ubisoft Zelda Spin-Off Starring Ganondorf"
+        }
+      ]
+    },
+    {
+      "id": "review-diablo-iv-age-of-hatred-collection-switch-2-addictive",
+      "titre": "Review: Diablo IV: Age Of Hatred Collection (Switch 2) - Addictive, Enormous, And Runs Reasonably Well",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/diablo-iv-age-of-hatred-collection",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/diablo-iv-age-of-hatred-collection",
+          "titre": "Review: Diablo IV: Age Of Hatred Collection (Switch 2) - Addictive, Enormous, And Runs Reasonably Well"
         }
       ]
     },
@@ -179,49 +281,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.9,
       "chaleur": 8,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/prince-of-persia-the-lost-crown-is-free-to-play-in-its-entirety-on-switch-for-the-next-week/",
           "titre": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week"
-        }
-      ]
-    },
-    {
-      "id": "square-enix-shows-off-exclusive-sleeve-for-dragon-quest-xi-s",
-      "titre": "Square Enix Shows Off Exclusive Sleeve For Dragon Quest XI S On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/09/square-enix-shows-off-exclusive-sleeve-for-dragon-quest-xi-s-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/square-enix-shows-off-exclusive-sleeve-for-dragon-quest-xi-s-on-switch-2",
-          "titre": "Square Enix Shows Off Exclusive Sleeve For Dragon Quest XI S On Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-pre-orders-heavily-skewed-towards-ps5-xbox-exec-respon",
-      "titre": "GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds",
-      "url": "https://www.pushsquare.com/news/2026/09/gta-6-pre-orders-heavily-skewed-towards-ps5-xbox-exec-responds",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/gta-6-pre-orders-heavily-skewed-towards-ps5-xbox-exec-responds",
-          "titre": "GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds"
         }
       ]
     },
@@ -424,9 +490,117 @@ const VEILLE = {
       ]
     },
     {
-      "id": "build-a-rocket-boy-has-appointed-administrators",
-      "titre": "Build A Rocket Boy has appointed administrators",
-      "url": "https://www.gamesindustry.biz/build-a-rocket-boy-has-appointed-administrators",
+      "id": "fire-emblem-fortune-s-weave-giants-meat-location-to-recruit",
+      "titre": "Fire Emblem Fortune’s Weave: Giants’ Meat location to recruit Goliath",
+      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-giants-meat-location-to-recruit-goliath/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-giants-meat-location-to-recruit-goliath/",
+          "titre": "Fire Emblem Fortune’s Weave: Giants’ Meat location to recruit Goliath"
+        }
+      ]
+    },
+    {
+      "id": "it-took-roughly-two-years-and-one-of-the-most-expensive-art",
+      "titre": "It took roughly two years and \"one of the most expensive art assets ever\" to get Cyberpunk 2077: Phantom Liberty's Chimera tank fight right",
+      "url": "https://www.eurogamer.net/cyberpunk-2077-phantom-liberty-chimera-tank-two-years",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/cyberpunk-2077-phantom-liberty-chimera-tank-two-years",
+          "titre": "It took roughly two years and \"one of the most expensive art assets ever\" to get Cyberpunk 2077: Phantom Liberty's Chimera tank fight right"
+        }
+      ]
+    },
+    {
+      "id": "war-thunder-s-sky-odyssey-update-brings-overhauled-bombers-a",
+      "titre": "War Thunder's Sky Odyssey update brings overhauled Bombers, a new map, and a whistle-stop tour of new military machines.",
+      "url": "https://www.pcgamer.com/games/war-thunders-sky-odyssey-update-brings-overhauled-bombers-a-new-map-and-a-whistle-stop-tour-of-new-military-machines/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/war-thunders-sky-odyssey-update-brings-overhauled-bombers-a-new-map-and-a-whistle-stop-tour-of-new-military-machines/",
+          "titre": "War Thunder's Sky Odyssey update brings overhauled Bombers, a new map, and a whistle-stop tour of new military machines."
+        }
+      ]
+    },
+    {
+      "id": "hytale-s-chapter-1-update-is-all-about-them-goblins-adding-i",
+      "titre": "Hytale's Chapter 1 update is all about them goblins, adding its first proper boss and \"handcrafted\" dungeon in October",
+      "url": "https://www.rockpapershotgun.com/hytales-chapter-1-update-is-all-about-them-goblins-adding-its-first-proper-boss-and-handcrafted-dungeon-in-october",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/hytales-chapter-1-update-is-all-about-them-goblins-adding-its-first-proper-boss-and-handcrafted-dungeon-in-october",
+          "titre": "Hytale's Chapter 1 update is all about them goblins, adding its first proper boss and \"handcrafted\" dungeon in October"
+        }
+      ]
+    },
+    {
+      "id": "warzone-will-soon-let-you-turn-off-other-players-stupid-skin",
+      "titre": "Warzone Will Soon Let You Turn Off Other Players' Stupid Skins",
+      "url": "https://www.pushsquare.com/news/2026/09/warzone-will-soon-let-you-turn-off-other-players-stupid-skins",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/warzone-will-soon-let-you-turn-off-other-players-stupid-skins",
+          "titre": "Warzone Will Soon Let You Turn Off Other Players' Stupid Skins"
+        }
+      ]
+    },
+    {
+      "id": "the-pc-gaming-show-most-wanted-returns-december-3-with-20-of",
+      "titre": "The PC Gaming Show: Most Wanted returns December 3 with 20 of The Council's most hotly anticipated games",
+      "url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-pc-gaming-show-most-wanted-returns-december-3-with-20-of-the-councils-most-hotly-anticipated-games/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-pc-gaming-show-most-wanted-returns-december-3-with-20-of-the-councils-most-hotly-anticipated-games/",
+          "titre": "The PC Gaming Show: Most Wanted returns December 3 with 20 of The Council's most hotly anticipated games"
+        }
+      ]
+    },
+    {
+      "id": "crowdfunding-is-fundamentally-a-marketing-and-a-community-e",
+      "titre": "\"Crowdfunding is fundamentally a marketing and a community exercise\" – What developers need to know about funding a game with Kickstarter in 2026",
+      "url": "https://www.gamesindustry.biz/crowdfunding-is-fundamentally-a-marketing-and-a-community-exercise-what-developers-need-to-know-about-funding-a-game-with-kickstarter-in-2026",
       "sources": [
         "GamesIndustry.biz"
       ],
@@ -436,8 +610,152 @@ const VEILLE = {
       "liens": [
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/build-a-rocket-boy-has-appointed-administrators",
-          "titre": "Build A Rocket Boy has appointed administrators"
+          "url": "https://www.gamesindustry.biz/crowdfunding-is-fundamentally-a-marketing-and-a-community-exercise-what-developers-need-to-know-about-funding-a-game-with-kickstarter-in-2026",
+          "titre": "\"Crowdfunding is fundamentally a marketing and a community exercise\" – What developers need to know about funding a game with Kickstarter in 2026"
+        }
+      ]
+    },
+    {
+      "id": "arc-raiders-is-finally-giving-players-the-chance-to-build-th",
+      "titre": "Arc Raiders is finally giving players the chance to build their home Topside and I'm seriously hyped",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-finally-giving-players-the-chance-to-build-their-home-topside-and-im-seriously-hyped/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-finally-giving-players-the-chance-to-build-their-home-topside-and-im-seriously-hyped/",
+          "titre": "Arc Raiders is finally giving players the chance to build their home Topside and I'm seriously hyped"
+        }
+      ]
+    },
+    {
+      "id": "when-digital-becomes-the-default-what-happens-to-consumer-ch",
+      "titre": "When digital becomes the default, what happens to consumer choice?",
+      "url": "https://www.videogameschronicle.com/news/when-digital-becomes-the-default-what-happens-to-consumer-choice/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/when-digital-becomes-the-default-what-happens-to-consumer-choice/",
+          "titre": "When digital becomes the default, what happens to consumer choice?"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-has-recaptured-the-original-mmo-s",
+      "titre": "World of Warcraft: Forever has recaptured the original MMO's magic, something I thought was impossible",
+      "url": "https://www.eurogamer.net/world-of-warcraft-forever-outstanding",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/world-of-warcraft-forever-outstanding",
+          "titre": "World of Warcraft: Forever has recaptured the original MMO's magic, something I thought was impossible"
+        }
+      ]
+    },
+    {
+      "id": "i-am-now-certain-the-blood-of-dawnwalker-s-time-limit-should",
+      "titre": "I am now certain The Blood of Dawnwalker's time limit should've just been a setting, after hearing about Rebel Wolves' attempts to thread the needle",
+      "url": "https://www.pcgamer.com/games/rpg/i-am-now-certain-the-blood-of-dawnwalkers-time-limit-shouldve-just-been-a-setting-after-hearing-about-rebel-wolves-attempts-to-thread-the-needle/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/i-am-now-certain-the-blood-of-dawnwalkers-time-limit-shouldve-just-been-a-setting-after-hearing-about-rebel-wolves-attempts-to-thread-the-needle/",
+          "titre": "I am now certain The Blood of Dawnwalker's time limit should've just been a setting, after hearing about Rebel Wolves' attempts to thread the needle"
+        }
+      ]
+    },
+    {
+      "id": "i-found-a-use-of-ai-that-doesn-t-make-me-cringe-and-shudder",
+      "titre": "I found a use of AI that doesn't make me cringe and shudder, and it's in the mic everyone's waited over a decade for",
+      "url": "https://www.pcgamer.com/hardware/microphones/i-found-a-use-of-ai-that-doesnt-make-me-cringe-and-shudder-and-its-in-the-mic-everyones-waited-over-a-decade-for/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/microphones/i-found-a-use-of-ai-that-doesnt-make-me-cringe-and-shudder-and-its-in-the-mic-everyones-waited-over-a-decade-for/",
+          "titre": "I found a use of AI that doesn't make me cringe and shudder, and it's in the mic everyone's waited over a decade for"
+        }
+      ]
+    },
+    {
+      "id": "i-got-whomped-by-an-ork-horde-in-total-war-warhammer-40-000",
+      "titre": "I got whomped by an Ork horde in Total War: Warhammer 40,000, definitely on purpose, to teach you a lesson about positioning",
+      "url": "https://www.rockpapershotgun.com/i-got-whomped-by-an-ork-horde-in-total-war-warhammer-40000-definitely-on-purpose-to-teach-you-a-lesson-about-positioning",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/i-got-whomped-by-an-ork-horde-in-total-war-warhammer-40000-definitely-on-purpose-to-teach-you-a-lesson-about-positioning",
+          "titre": "I got whomped by an Ork horde in Total War: Warhammer 40,000, definitely on purpose, to teach you a lesson about positioning"
+        }
+      ]
+    },
+    {
+      "id": "as-marathon-s-player-slump-continues-bungie-announces-plans",
+      "titre": "As Marathon's player slump continues, Bungie announces plans to grow it \"beyond extraction\"",
+      "url": "https://www.eurogamer.net/marathon-bungie-future-roadmap-beyond-extraction",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/marathon-bungie-future-roadmap-beyond-extraction",
+          "titre": "As Marathon's player slump continues, Bungie announces plans to grow it \"beyond extraction\""
+        }
+      ]
+    },
+    {
+      "id": "could-the-pc-gamer-team-survive-silent-hill-townfall",
+      "titre": "Could the PC Gamer team survive Silent Hill: Townfall?",
+      "url": "https://www.pcgamer.com/games/horror/could-the-pc-gamer-team-survive-silent-hill-townfall/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/could-the-pc-gamer-team-survive-silent-hill-townfall/",
+          "titre": "Could the PC Gamer team survive Silent Hill: Townfall?"
         }
       ]
     },
@@ -449,7 +767,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -467,7 +785,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -478,20 +796,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "unicorn-overlord-director-s-upcoming-action-rpg-looks-expect",
-      "titre": "Unicorn Overlord Director's Upcoming Action RPG Looks Expectedly Beautiful",
-      "url": "https://www.nintendolife.com/news/2026/09/unicorn-overlord-directors-upcoming-action-rpg-looks-expectedly-beautiful",
+      "id": "arc-raiders-is-testing-a-pve-mode-because-a-large-and-growin",
+      "titre": "Arc Raiders is testing a PvE mode because \"a large and growing group\" refuse to hunt each other",
+      "url": "https://www.rockpapershotgun.com/arc-raiders-is-testing-a-pve-mode-because-a-large-and-growing-group-refuse-to-hunt-each-other",
       "sources": [
-        "Nintendo Life"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/unicorn-overlord-directors-upcoming-action-rpg-looks-expectedly-beautiful",
-          "titre": "Unicorn Overlord Director's Upcoming Action RPG Looks Expectedly Beautiful"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/arc-raiders-is-testing-a-pve-mode-because-a-large-and-growing-group-refuse-to-hunt-each-other",
+          "titre": "Arc Raiders is testing a PvE mode because \"a large and growing group\" refuse to hunt each other"
         }
       ]
     },
@@ -503,13 +821,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/my-first-mmo-character-6-jacob-ridley/",
           "titre": "My first MMO character #6: Jacob Ridley"
+        }
+      ]
+    },
+    {
+      "id": "square-enix-shows-off-exclusive-sleeve-for-dragon-quest-xi-s",
+      "titre": "Square Enix Shows Off Exclusive Sleeve For Dragon Quest XI S On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/09/square-enix-shows-off-exclusive-sleeve-for-dragon-quest-xi-s-on-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/square-enix-shows-off-exclusive-sleeve-for-dragon-quest-xi-s-on-switch-2",
+          "titre": "Square Enix Shows Off Exclusive Sleeve For Dragon Quest XI S On Switch 2"
         }
       ]
     },
@@ -521,13 +857,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-build-is-not-where-we-want-it-to-be-runescape-dragonwilds-team-promises-to-deliver-visual-improvements",
           "titre": "\"The Switch 2 Build Is Not Where We Want It To Be\" - RuneScape: Dragonwilds Team Promises To Deliver Visual Improvements"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-pre-orders-heavily-skewed-towards-ps5-xbox-exec-respon",
+      "titre": "GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds",
+      "url": "https://www.pushsquare.com/news/2026/09/gta-6-pre-orders-heavily-skewed-towards-ps5-xbox-exec-responds",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 12.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/gta-6-pre-orders-heavily-skewed-towards-ps5-xbox-exec-responds",
+          "titre": "GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds"
         }
       ]
     },
@@ -540,7 +894,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 16.4,
+      "heures": 18.5,
       "chaleur": 6,
       "liens": [
         {
@@ -563,7 +917,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.0,
+      "heures": 20.1,
       "chaleur": 6,
       "liens": [
         {
@@ -581,7 +935,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.8,
+      "heures": 20.9,
       "chaleur": 6,
       "liens": [
         {
@@ -599,7 +953,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.6,
+      "heures": 25.7,
       "chaleur": 6,
       "liens": [
         {
@@ -617,7 +971,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.8,
+      "heures": 25.9,
       "chaleur": 6,
       "liens": [
         {
@@ -635,7 +989,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.4,
       "chaleur": 5,
       "liens": [
         {
@@ -653,7 +1007,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.7,
+      "heures": 19.8,
       "chaleur": 5,
       "liens": [
         {
@@ -671,7 +1025,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.1,
+      "heures": 21.2,
       "chaleur": 5,
       "liens": [
         {
@@ -689,7 +1043,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 20.5,
+      "heures": 22.6,
       "chaleur": 5,
       "liens": [
         {
@@ -707,7 +1061,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.6,
+      "heures": 23.7,
       "chaleur": 5,
       "liens": [
         {
@@ -725,7 +1079,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 24.0,
       "chaleur": 5,
       "liens": [
         {
@@ -743,7 +1097,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 24.4,
       "chaleur": 5,
       "liens": [
         {
@@ -761,7 +1115,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 24.8,
       "chaleur": 5,
       "liens": [
         {
@@ -770,351 +1124,9 @@ const VEILLE = {
           "titre": "Quick! Switch 2 Consoles Have Just Been Heavily Discounted In The UK"
         }
       ]
-    },
-    {
-      "id": "steam-frame-ready-vr-rhythm-game-beat-saber-is-adding-hand-t",
-      "titre": "Steam Frame-ready VR rhythm game Beat Saber is adding hand-tracking and a punchy new mode in its \"biggest update ever\"",
-      "url": "https://www.rockpapershotgun.com/steam-frame-ready-vr-rhythm-game-beat-saber-is-adding-hand-tracking-and-a-punchy-new-mode-in-its-biggest-update-ever",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 22.8,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/steam-frame-ready-vr-rhythm-game-beat-saber-is-adding-hand-tracking-and-a-punchy-new-mode-in-its-biggest-update-ever",
-          "titre": "Steam Frame-ready VR rhythm game Beat Saber is adding hand-tracking and a punchy new mode in its \"biggest update ever\""
-        }
-      ]
-    },
-    {
-      "id": "one-of-the-switch-s-most-underrated-gems-is-now-free-for-swi",
-      "titre": "One Of The Switch's Most Underrated Gems Is Now Free For Switch Online Users",
-      "url": "https://www.nintendolife.com/news/2026/09/one-of-the-switchs-most-underrated-gems-is-now-free-for-switch-online-users",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 23.1,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/one-of-the-switchs-most-underrated-gems-is-now-free-for-switch-online-users",
-          "titre": "One Of The Switch's Most Underrated Gems Is Now Free For Switch Online Users"
-        }
-      ]
-    },
-    {
-      "id": "1080-snowboarding-had-a-ton-of-questionable-stuff-removed-sa",
-      "titre": "1080° Snowboarding Had \"A Ton Of Questionable Stuff\" Removed, Says Veteran Nintendo Producer",
-      "url": "https://www.nintendolife.com/news/2026/09/1080d-snowboarding-had-a-ton-of-questionable-stuff-removed-says-veteran-nintendo-producer",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 23.8,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/1080d-snowboarding-had-a-ton-of-questionable-stuff-removed-says-veteran-nintendo-producer",
-          "titre": "1080° Snowboarding Had \"A Ton Of Questionable Stuff\" Removed, Says Veteran Nintendo Producer"
-        }
-      ]
-    },
-    {
-      "id": "the-day-before-ea-sports-fc-27-is-released-konami-s-switch-2",
-      "titre": "The day before EA Sports FC 27 is released, Konami’s Switch 2 rival eFootball Kick-Off gets a major new update",
-      "url": "https://www.videogameschronicle.com/news/the-day-before-ea-sports-fc-27-is-released-konamis-switch-2-rival-efootball-kick-off-gets-a-major-new-update/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 24.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-day-before-ea-sports-fc-27-is-released-konamis-switch-2-rival-efootball-kick-off-gets-a-major-new-update/",
-          "titre": "The day before EA Sports FC 27 is released, Konami’s Switch 2 rival eFootball Kick-Off gets a major new update"
-        }
-      ]
-    },
-    {
-      "id": "microsoft-files-patent-for-ad-credit-system-to-show-ads-on-p",
-      "titre": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay",
-      "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 26.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
-          "titre": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay"
-        }
-      ]
-    },
-    {
-      "id": "tim-cain-among-other-things-that-steve-jackson-games-didn-t",
-      "titre": "Tim Cain: 'Among other things that Steve Jackson Games didn't like about Fallout was Vault Boy'",
-      "url": "https://www.pcgamer.com/games/fallout/tim-cain-among-other-things-that-steve-jackson-games-didnt-like-about-fallout-was-vault-boy/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fallout/tim-cain-among-other-things-that-steve-jackson-games-didnt-like-about-fallout-was-vault-boy/",
-          "titre": "Tim Cain: 'Among other things that Steve Jackson Games didn't like about Fallout was Vault Boy'"
-        }
-      ]
-    },
-    {
-      "id": "rumour-new-leak-suggests-professor-layton-and-phoenix-wright",
-      "titre": "Rumour: New Leak Suggests Professor Layton And Phoenix Wright's 3DS Crossover Is Returning",
-      "url": "https://www.nintendolife.com/news/2026/09/rumour-new-leak-suggests-professor-layton-and-phoenix-wrights-3ds-crossover-is-returning",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/rumour-new-leak-suggests-professor-layton-and-phoenix-wrights-3ds-crossover-is-returning",
-          "titre": "Rumour: New Leak Suggests Professor Layton And Phoenix Wright's 3DS Crossover Is Returning"
-        }
-      ]
-    },
-    {
-      "id": "this-chill-procgen-driving-game-has-a-very-clever-ui-feature",
-      "titre": "This chill procgen driving game has a very clever UI feature",
-      "url": "https://www.pcgamer.com/games/this-chill-procgen-driving-game-has-a-very-clever-ui-feature/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/this-chill-procgen-driving-game-has-a-very-clever-ui-feature/",
-          "titre": "This chill procgen driving game has a very clever UI feature"
-        }
-      ]
-    },
-    {
-      "id": "so-long-sweet-prince-ubisoft-s-rogue-prince-of-persia-game",
-      "titre": "\"So Long, Sweet Prince\" - Ubisoft's Rogue Prince Of Persia Game Rolls Out Its Final Update",
-      "url": "https://www.nintendolife.com/news/2026/09/so-long-sweet-prince-ubisofts-rogue-prince-of-persia-game-rolls-out-its-final-update",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 6.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/so-long-sweet-prince-ubisofts-rogue-prince-of-persia-game-rolls-out-its-final-update",
-          "titre": "\"So Long, Sweet Prince\" - Ubisoft's Rogue Prince Of Persia Game Rolls Out Its Final Update"
-        }
-      ]
-    },
-    {
-      "id": "it-s-tough-to-stand-out-in-today-s-games-industry-but-sorta",
-      "titre": "It's tough to stand out in today's games industry, but 'sorta like Helldivers 2 except dog people' worked on me",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/its-tough-to-stand-out-in-todays-games-industry-but-sorta-like-helldivers-2-except-dog-people-worked-on-me/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/its-tough-to-stand-out-in-todays-games-industry-but-sorta-like-helldivers-2-except-dog-people-worked-on-me/",
-          "titre": "It's tough to stand out in today's games industry, but 'sorta like Helldivers 2 except dog people' worked on me"
-        }
-      ]
-    },
-    {
-      "id": "14-days-in-dragon-shelter-a-play-by-play-of-my-first-season",
-      "titre": "14 days in Dragon Shelter: A play by play of my first season in the Stardew-style farm sim where dragons help bake pies",
-      "url": "https://www.pcgamer.com/games/life-sim/14-days-in-dragon-shelter-a-play-by-play-of-my-first-season-in-the-stardew-style-farm-sim-where-dragons-help-bake-pies/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/life-sim/14-days-in-dragon-shelter-a-play-by-play-of-my-first-season-in-the-stardew-style-farm-sim-where-dragons-help-bake-pies/",
-          "titre": "14 days in Dragon Shelter: A play by play of my first season in the Stardew-style farm sim where dragons help bake pies"
-        }
-      ]
-    },
-    {
-      "id": "experimental-rpg-developer-summer-eternal-we-re-giving-away",
-      "titre": "Experimental RPG developer Summer Eternal: 'We're giving away 5% of our studio to you, the Players' in order to 'mend the trust broken in this industry a thousand times over'",
-      "url": "https://www.pcgamer.com/games/experimental-rpg-developer-summer-eternal-were-giving-away-5-percent-of-our-studio-to-you-the-players-in-order-to-mend-the-trust-broken-in-this-industry-a-thousand-times-over/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/experimental-rpg-developer-summer-eternal-were-giving-away-5-percent-of-our-studio-to-you-the-players-in-order-to-mend-the-trust-broken-in-this-industry-a-thousand-times-over/",
-          "titre": "Experimental RPG developer Summer Eternal: 'We're giving away 5% of our studio to you, the Players' in order to 'mend the trust broken in this industry a thousand times over'"
-        }
-      ]
-    },
-    {
-      "id": "hooked-on-the-brothers",
-      "titre": "Hooked on the brothers",
-      "url": "https://www.pcgamer.com/games/hooked-on-the-brothers/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/hooked-on-the-brothers/",
-          "titre": "Hooked on the brothers"
-        }
-      ]
-    },
-    {
-      "id": "love-alt-delete-is-a-y2k-horror-visual-novel-where-you-use-o",
-      "titre": "LOVE alt delete is a Y2K horror visual novel where you use one AI chatbot to help you date another that, don't worry, doesn't use the nasty generative stuff",
-      "url": "https://www.rockpapershotgun.com/love-alt-delete-is-a-y2k-horror-visual-novel-where-you-use-one-ai-chatbot-to-help-you-date-another-that-dont-worry-doesnt-use-the-nasty-generative-stuff",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 12.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/love-alt-delete-is-a-y2k-horror-visual-novel-where-you-use-one-ai-chatbot-to-help-you-date-another-that-dont-worry-doesnt-use-the-nasty-generative-stuff",
-          "titre": "LOVE alt delete is a Y2K horror visual novel where you use one AI chatbot to help you date another that, don't worry, doesn't use the nasty generative stuff"
-        }
-      ]
-    },
-    {
-      "id": "call-of-duty-cosmetic-toggle-will-cleanse-warzone-of-its-par",
-      "titre": "Call of Duty 'cosmetic toggle' will cleanse Warzone of its Party City aesthetic",
-      "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-cosmetic-toggle-will-cleanse-warzone-of-its-party-city-aesthetic/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-cosmetic-toggle-will-cleanse-warzone-of-its-party-city-aesthetic/",
-          "titre": "Call of Duty 'cosmetic toggle' will cleanse Warzone of its Party City aesthetic"
-        }
-      ]
-    },
-    {
-      "id": "cool-demo-alert-be-a-cyberpunk-shopkeeper-in-probably-stolen",
-      "titre": "Cool demo alert: be a cyberpunk shopkeeper in Probably Stolen",
-      "url": "https://www.pcgamer.com/games/sim/cool-demo-alert-be-a-cyberpunk-shopkeeper-in-probably-stolen/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/cool-demo-alert-be-a-cyberpunk-shopkeeper-in-probably-stolen/",
-          "titre": "Cool demo alert: be a cyberpunk shopkeeper in Probably Stolen"
-        }
-      ]
-    },
-    {
-      "id": "8-strong-elder-scrolls-opinions-with-over-2-500-combined-hou",
-      "titre": "8 strong Elder Scrolls opinions: With over 2,500 combined hours (and not all as stealth archers), we shout at each other about Skyrim, Morrowind, and Oblivion",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/8-strong-elder-scrolls-opinions-with-over-2-500-combined-hours-and-not-all-as-stealth-archers-we-shout-at-each-other-about-skyrim-morrowind-and-oblivion/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-elder-scrolls/8-strong-elder-scrolls-opinions-with-over-2-500-combined-hours-and-not-all-as-stealth-archers-we-shout-at-each-other-about-skyrim-morrowind-and-oblivion/",
-          "titre": "8 strong Elder Scrolls opinions: With over 2,500 combined hours (and not all as stealth archers), we shout at each other about Skyrim, Morrowind, and Oblivion"
-        }
-      ]
-    },
-    {
-      "id": "the-best-valheim-mods-for-no-nonsense-crafting-portable-buil",
-      "titre": "The best Valheim mods for no-nonsense crafting, portable building plans, and more RNG sightseeing",
-      "url": "https://www.pcgamer.com/games/survival-crafting/best-valheim-mods/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/best-valheim-mods/",
-          "titre": "The best Valheim mods for no-nonsense crafting, portable building plans, and more RNG sightseeing"
-        }
-      ]
-    },
-    {
-      "id": "thief-2-remastered-should-be-thief-2-gold",
-      "titre": "Thief 2 Remastered should be Thief 2 Gold",
-      "url": "https://www.pcgamer.com/games/thief-2-remastered-should-be-thief-2-gold/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/thief-2-remastered-should-be-thief-2-gold/",
-          "titre": "Thief 2 Remastered should be Thief 2 Gold"
-        }
-      ]
     }
   ],
   "alertes": [
-    "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits"
+    "GTA veteran's MindsEye studio Build a Rocket Boy has entered administration, following yet more reports of layoffs"
   ]
 };
