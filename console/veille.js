@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "25/09/2026 à 14h22",
+  "collecte": "25/09/2026 à 16h22",
   "seuil": 14,
   "sujets": [
     {
@@ -12,8 +12,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 2.2,
-      "chaleur": 17,
+      "heures": 4.2,
+      "chaleur": 15,
       "liens": [
         {
           "source": "Eurogamer",
@@ -36,7 +36,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 14,
       "liens": [
         {
@@ -52,6 +52,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "poll-what-review-score-would-you-give-marvel-s-wolverine",
+      "titre": "Poll: What Review Score Would You Give Marvel's Wolverine?",
+      "url": "https://www.pushsquare.com/features/poll-what-review-score-would-you-give-marvels-wolverine",
+      "sources": [
+        "Nintendo Life",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 0.4,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/poll-what-review-score-would-you-give-marvels-wolverine",
+          "titre": "Poll: What Review Score Would You Give Marvel's Wolverine?"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/poll-what-review-score-would-you-give-fire-emblem-fortunes-weave",
+          "titre": "Poll: What Review Score Would You Give Fire Emblem: Fortune's Weave?"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-master-location-missing-master-quest-guide/",
+          "titre": "Fire Emblem Fortune’s Weave: Master location, Missing Master quest guide"
+        }
+      ]
+    },
+    {
       "id": "podcast-halo-under-activision-what-s-next-for-xbox",
       "titre": "Podcast: Halo under Activision – What’s next for Xbox?",
       "url": "https://www.videogameschronicle.com/blog/podcast/podcast-halo-under-activision-whats-next-for-xbox/",
@@ -60,7 +90,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 11,
       "liens": [
         {
@@ -76,38 +106,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "age-of-empires-dev-has-half-of-studio-slashed-project-cancel",
-      "titre": "Age of Empires Dev Has Half of Studio Slashed, Project Cancelled Amid Xbox Layoffs",
-      "url": "https://www.pushsquare.com/news/2026/09/age-of-empires-dev-has-half-of-studio-slashed-project-cancelled-amid-xbox-layoffs",
+      "id": "gta-6-can-t-completely-sweep-this-year-s-goty-awards-anymore",
+      "titre": "GTA 6 Can't Completely Sweep This Year's GOTY Awards Anymore",
+      "url": "https://www.pushsquare.com/news/2026/09/gta-6-cant-completely-sweep-this-years-goty-awards-anymore",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.4,
-      "chaleur": 11,
+      "heures": 1.6,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/age-of-empires-dev-has-half-of-studio-slashed-project-cancelled-amid-xbox-layoffs",
-          "titre": "Age of Empires Dev Has Half of Studio Slashed, Project Cancelled Amid Xbox Layoffs"
-        }
-      ]
-    },
-    {
-      "id": "sony-reportedly-surveying-developers-about-playstation-disc",
-      "titre": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?",
-      "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
-          "titre": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?"
+          "url": "https://www.pushsquare.com/news/2026/09/gta-6-cant-completely-sweep-this-years-goty-awards-anymore",
+          "titre": "GTA 6 Can't Completely Sweep This Year's GOTY Awards Anymore"
         }
       ]
     },
@@ -120,7 +132,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 9,
       "liens": [
         {
@@ -143,7 +155,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 9,
       "liens": [
         {
@@ -162,7 +174,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 9,
       "liens": [
         {
@@ -178,6 +190,114 @@ const VEILLE = {
       ]
     },
     {
+      "id": "nintendo-of-america-awarded-4-5m-in-lawsuit-from-redditor-fo",
+      "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software",
+      "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 8.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
+          "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software"
+        }
+      ]
+    },
+    {
+      "id": "i-ve-worked-at-pc-gamer-for-18-years-these-are-the-13-games",
+      "titre": "I've worked at PC Gamer for 18 years. These are the 13 games on my Steam Wishlist",
+      "url": "https://www.pcgamer.com/games/ive-worked-at-pc-gamer-for-18-years-these-are-the-13-games-on-my-steam-wishlist/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/ive-worked-at-pc-gamer-for-18-years-these-are-the-13-games-on-my-steam-wishlist/",
+          "titre": "I've worked at PC Gamer for 18 years. These are the 13 games on my Steam Wishlist"
+        }
+      ]
+    },
+    {
+      "id": "ubisoft-switch-eshop-sale-now-live-up-to-90-off",
+      "titre": "Ubisoft Switch eShop Sale Now Live, Up To 90% Off",
+      "url": "https://www.nintendolife.com/news/2026/09/ubisoft-switch-eshop-sale-now-live-up-to-90percent-off",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/ubisoft-switch-eshop-sale-now-live-up-to-90percent-off",
+          "titre": "Ubisoft Switch eShop Sale Now Live, Up To 90% Off"
+        }
+      ]
+    },
+    {
+      "id": "the-xbox-reset-doesn-t-have-an-end-date-opinion",
+      "titre": "The Xbox reset doesn't have an end date | Opinion",
+      "url": "https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 3.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion",
+          "titre": "The Xbox reset doesn't have an end date | Opinion"
+        }
+      ]
+    },
+    {
+      "id": "sony-reportedly-surveying-developers-about-playstation-disc",
+      "titre": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?",
+      "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
+          "titre": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starri",
+      "titre": "Nintendo Reportedly Rejected A Ubisoft Zelda Spin-Off Starring Ganondorf",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 15.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf",
+          "titre": "Nintendo Reportedly Rejected A Ubisoft Zelda Spin-Off Starring Ganondorf"
+        }
+      ]
+    },
+    {
       "id": "konami-is-celebrating-the-40th-anniversary-of-castlevania-wi",
       "titre": "Konami is celebrating the 40th anniversary of Castlevania with a big retro sale and a free game",
       "url": "https://www.videogameschronicle.com/news/konami-is-celebrating-the-40th-anniversary-of-castlevania-with-a-big-retro-sale-and-a-free-game/",
@@ -186,8 +306,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 2.3,
-      "chaleur": 9,
+      "heures": 4.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
@@ -210,8 +330,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 2.9,
-      "chaleur": 9,
+      "heures": 4.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -233,103 +353,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 9,
+      "heures": 5.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/reddit-mod-ordered-to-cough-up-usd4500000-to-nintendo-in-long-running-switch-piracy-case",
           "titre": "Reddit Mod Ordered To Cough Up $4,500,000 To Nintendo In Long-Running Switch Piracy Case"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-of-america-awarded-4-5m-in-lawsuit-from-redditor-fo",
-      "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software",
-      "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 6.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
-          "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software"
-        }
-      ]
-    },
-    {
-      "id": "ubisoft-switch-eshop-sale-now-live-up-to-90-off",
-      "titre": "Ubisoft Switch eShop Sale Now Live, Up To 90% Off",
-      "url": "https://www.nintendolife.com/news/2026/09/ubisoft-switch-eshop-sale-now-live-up-to-90percent-off",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 0.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/ubisoft-switch-eshop-sale-now-live-up-to-90percent-off",
-          "titre": "Ubisoft Switch eShop Sale Now Live, Up To 90% Off"
-        }
-      ]
-    },
-    {
-      "id": "the-xbox-reset-doesn-t-have-an-end-date-opinion",
-      "titre": "The Xbox reset doesn't have an end date | Opinion",
-      "url": "https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion",
-          "titre": "The Xbox reset doesn't have an end date | Opinion"
-        }
-      ]
-    },
-    {
-      "id": "review-diablo-iv-age-of-hatred-collection-switch-2-addictive",
-      "titre": "Review: Diablo IV: Age Of Hatred Collection (Switch 2) - Addictive, Enormous, And Runs Reasonably Well",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/diablo-iv-age-of-hatred-collection",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/diablo-iv-age-of-hatred-collection",
-          "titre": "Review: Diablo IV: Age Of Hatred Collection (Switch 2) - Addictive, Enormous, And Runs Reasonably Well"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starri",
-      "titre": "Nintendo Reportedly Rejected A Ubisoft Zelda Spin-Off Starring Ganondorf",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 13.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf",
-          "titre": "Nintendo Reportedly Rejected A Ubisoft Zelda Spin-Off Starring Ganondorf"
         }
       ]
     },
@@ -341,7 +371,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 7,
       "liens": [
         {
@@ -360,7 +390,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.0,
+      "heures": 7.0,
       "chaleur": 7,
       "liens": [
         {
@@ -574,6 +604,96 @@ const VEILLE = {
       ]
     },
     {
+      "id": "four-years-after-release-splatoon-3-s-player-numbers-are-on",
+      "titre": "Four Years After Release, Splatoon 3's Player Numbers Are On The Up In 2026",
+      "url": "https://www.nintendolife.com/news/2026/09/four-years-after-release-splatoon-3s-player-numbers-are-on-the-up-in-2026",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/four-years-after-release-splatoon-3s-player-numbers-are-on-the-up-in-2026",
+          "titre": "Four Years After Release, Splatoon 3's Player Numbers Are On The Up In 2026"
+        }
+      ]
+    },
+    {
+      "id": "here-is-the-full-line-up-for-the-gamesindustry-biz-hr-summit",
+      "titre": "Here is the full line-up for the GamesIndustry.biz HR Summit 2026",
+      "url": "https://www.gamesindustry.biz/here-is-the-full-line-up-for-the-gamesindustrybiz-hr-summit-2026",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/here-is-the-full-line-up-for-the-gamesindustrybiz-hr-summit-2026",
+          "titre": "Here is the full line-up for the GamesIndustry.biz HR Summit 2026"
+        }
+      ]
+    },
+    {
+      "id": "arc-raiders-announces-a-new-pve-test-to-accommodate-its-surp",
+      "titre": "Arc Raiders announces a new PvE \"test\" to accommodate its surprisingly friendly players",
+      "url": "https://www.eurogamer.net/arc-raiders-pve-matchmaking-test",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/arc-raiders-pve-matchmaking-test",
+          "titre": "Arc Raiders announces a new PvE \"test\" to accommodate its surprisingly friendly players"
+        }
+      ]
+    },
+    {
+      "id": "infinite-new-game-photo-mode-on-the-way-to-control-resonant",
+      "titre": "Infinite New Game+, Photo Mode on the Way to Control Resonant, No Word on Proper PS5 DLC",
+      "url": "https://www.pushsquare.com/news/2026/09/infinite-new-gameplus-photo-mode-on-the-way-to-control-resonant-no-word-on-proper-ps5-dlc",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/infinite-new-gameplus-photo-mode-on-the-way-to-control-resonant-no-word-on-proper-ps5-dlc",
+          "titre": "Infinite New Game+, Photo Mode on the Way to Control Resonant, No Word on Proper PS5 DLC"
+        }
+      ]
+    },
+    {
+      "id": "it-s-time-to-decide-the-worst-graphical-effect-in-games-film",
+      "titre": "It's time to decide the worst graphical effect in games: film grain vs bloom",
+      "url": "https://www.pcgamer.com/hardware/its-time-to-decide-the-worst-graphical-effect-in-games-film-grain-vs-bloom/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/its-time-to-decide-the-worst-graphical-effect-in-games-film-grain-vs-bloom/",
+          "titre": "It's time to decide the worst graphical effect in games: film grain vs bloom"
+        }
+      ]
+    },
+    {
       "id": "microsoft-s-failure-to-find-a-home-for-ninja-theory-voids-th",
       "titre": "Microsoft's failure to find a home for Ninja Theory voids the one, very tenuous upside to Senua's SGF reveal",
       "url": "https://www.rockpapershotgun.com/microsofts-failure-to-find-a-home-for-ninja-theory-voids-the-one-very-tenuous-upside-to-senuas-sgf-reveal",
@@ -581,31 +701,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/microsofts-failure-to-find-a-home-for-ninja-theory-voids-the-one-very-tenuous-upside-to-senuas-sgf-reveal",
           "titre": "Microsoft's failure to find a home for Ninja Theory voids the one, very tenuous upside to Senua's SGF reveal"
-        }
-      ]
-    },
-    {
-      "id": "my-first-mmo-character-7-andrea-shearon",
-      "titre": "My first MMO character #7: Andrea Shearon",
-      "url": "https://www.pcgamer.com/games/mmo/my-first-mmo-character-7-andrea-shearon/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/my-first-mmo-character-7-andrea-shearon/",
-          "titre": "My first MMO character #7: Andrea Shearon"
         }
       ]
     },
@@ -617,7 +719,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -635,7 +737,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -653,31 +755,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/beyond-good-and-evil-2-signs-of-life-writer",
           "titre": "After nearly 19 years in development hell, Ubisoft's Beyond Good & Evil 2 is somehow still showing signs of life"
-        }
-      ]
-    },
-    {
-      "id": "you-can-properly-test-talents-in-the-wow-forever-beta-now",
-      "titre": "You can properly test talents in the WoW: Forever beta, now",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/you-can-properly-test-talents-in-the-wow-forever-beta-now/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/you-can-properly-test-talents-in-the-wow-forever-beta-now/",
-          "titre": "You can properly test talents in the WoW: Forever beta, now"
         }
       ]
     },
@@ -689,7 +773,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -707,7 +791,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -725,7 +809,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -743,7 +827,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -754,272 +838,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "fire-emblem-fortune-s-weave-giants-meat-location-to-recruit",
-      "titre": "Fire Emblem Fortune’s Weave: Giants’ Meat location to recruit Goliath",
-      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-giants-meat-location-to-recruit-goliath/",
+      "id": "review-diablo-iv-age-of-hatred-collection-switch-2-addictive",
+      "titre": "Review: Diablo IV: Age Of Hatred Collection (Switch 2) - Addictive, Enormous, And Runs Reasonably Well",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/diablo-iv-age-of-hatred-collection",
       "sources": [
-        "VGC"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 4.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-giants-meat-location-to-recruit-goliath/",
-          "titre": "Fire Emblem Fortune’s Weave: Giants’ Meat location to recruit Goliath"
-        }
-      ]
-    },
-    {
-      "id": "it-took-roughly-two-years-and-one-of-the-most-expensive-art",
-      "titre": "It took roughly two years and \"one of the most expensive art assets ever\" to get Cyberpunk 2077: Phantom Liberty's Chimera tank fight right",
-      "url": "https://www.eurogamer.net/cyberpunk-2077-phantom-liberty-chimera-tank-two-years",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/cyberpunk-2077-phantom-liberty-chimera-tank-two-years",
-          "titre": "It took roughly two years and \"one of the most expensive art assets ever\" to get Cyberpunk 2077: Phantom Liberty's Chimera tank fight right"
-        }
-      ]
-    },
-    {
-      "id": "war-thunder-s-sky-odyssey-update-brings-overhauled-bombers-a",
-      "titre": "War Thunder's Sky Odyssey update brings overhauled Bombers, a new map, and a whistle-stop tour of new military machines.",
-      "url": "https://www.pcgamer.com/games/war-thunders-sky-odyssey-update-brings-overhauled-bombers-a-new-map-and-a-whistle-stop-tour-of-new-military-machines/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/war-thunders-sky-odyssey-update-brings-overhauled-bombers-a-new-map-and-a-whistle-stop-tour-of-new-military-machines/",
-          "titre": "War Thunder's Sky Odyssey update brings overhauled Bombers, a new map, and a whistle-stop tour of new military machines."
-        }
-      ]
-    },
-    {
-      "id": "hytale-s-chapter-1-update-is-all-about-them-goblins-adding-i",
-      "titre": "Hytale's Chapter 1 update is all about them goblins, adding its first proper boss and \"handcrafted\" dungeon in October",
-      "url": "https://www.rockpapershotgun.com/hytales-chapter-1-update-is-all-about-them-goblins-adding-its-first-proper-boss-and-handcrafted-dungeon-in-october",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/hytales-chapter-1-update-is-all-about-them-goblins-adding-its-first-proper-boss-and-handcrafted-dungeon-in-october",
-          "titre": "Hytale's Chapter 1 update is all about them goblins, adding its first proper boss and \"handcrafted\" dungeon in October"
-        }
-      ]
-    },
-    {
-      "id": "warzone-will-soon-let-you-turn-off-other-players-stupid-skin",
-      "titre": "Warzone Will Soon Let You Turn Off Other Players' Stupid Skins",
-      "url": "https://www.pushsquare.com/news/2026/09/warzone-will-soon-let-you-turn-off-other-players-stupid-skins",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/warzone-will-soon-let-you-turn-off-other-players-stupid-skins",
-          "titre": "Warzone Will Soon Let You Turn Off Other Players' Stupid Skins"
-        }
-      ]
-    },
-    {
-      "id": "the-pc-gaming-show-most-wanted-returns-december-3-with-20-of",
-      "titre": "The PC Gaming Show: Most Wanted returns December 3 with 20 of The Council's most hotly anticipated games",
-      "url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-pc-gaming-show-most-wanted-returns-december-3-with-20-of-the-councils-most-hotly-anticipated-games/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-pc-gaming-show-most-wanted-returns-december-3-with-20-of-the-councils-most-hotly-anticipated-games/",
-          "titre": "The PC Gaming Show: Most Wanted returns December 3 with 20 of The Council's most hotly anticipated games"
-        }
-      ]
-    },
-    {
-      "id": "crowdfunding-is-fundamentally-a-marketing-and-a-community-e",
-      "titre": "\"Crowdfunding is fundamentally a marketing and a community exercise\" – What developers need to know about funding a game with Kickstarter in 2026",
-      "url": "https://www.gamesindustry.biz/crowdfunding-is-fundamentally-a-marketing-and-a-community-exercise-what-developers-need-to-know-about-funding-a-game-with-kickstarter-in-2026",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/crowdfunding-is-fundamentally-a-marketing-and-a-community-exercise-what-developers-need-to-know-about-funding-a-game-with-kickstarter-in-2026",
-          "titre": "\"Crowdfunding is fundamentally a marketing and a community exercise\" – What developers need to know about funding a game with Kickstarter in 2026"
-        }
-      ]
-    },
-    {
-      "id": "arc-raiders-is-finally-giving-players-the-chance-to-build-th",
-      "titre": "Arc Raiders is finally giving players the chance to build their home Topside and I'm seriously hyped",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-finally-giving-players-the-chance-to-build-their-home-topside-and-im-seriously-hyped/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-finally-giving-players-the-chance-to-build-their-home-topside-and-im-seriously-hyped/",
-          "titre": "Arc Raiders is finally giving players the chance to build their home Topside and I'm seriously hyped"
-        }
-      ]
-    },
-    {
-      "id": "when-digital-becomes-the-default-what-happens-to-consumer-ch",
-      "titre": "When digital becomes the default, what happens to consumer choice?",
-      "url": "https://www.videogameschronicle.com/news/when-digital-becomes-the-default-what-happens-to-consumer-choice/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/when-digital-becomes-the-default-what-happens-to-consumer-choice/",
-          "titre": "When digital becomes the default, what happens to consumer choice?"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-has-recaptured-the-original-mmo-s",
-      "titre": "World of Warcraft: Forever has recaptured the original MMO's magic, something I thought was impossible",
-      "url": "https://www.eurogamer.net/world-of-warcraft-forever-outstanding",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/world-of-warcraft-forever-outstanding",
-          "titre": "World of Warcraft: Forever has recaptured the original MMO's magic, something I thought was impossible"
-        }
-      ]
-    },
-    {
-      "id": "i-am-now-certain-the-blood-of-dawnwalker-s-time-limit-should",
-      "titre": "I am now certain The Blood of Dawnwalker's time limit should've just been a setting, after hearing about Rebel Wolves' attempts to thread the needle",
-      "url": "https://www.pcgamer.com/games/rpg/i-am-now-certain-the-blood-of-dawnwalkers-time-limit-shouldve-just-been-a-setting-after-hearing-about-rebel-wolves-attempts-to-thread-the-needle/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/i-am-now-certain-the-blood-of-dawnwalkers-time-limit-shouldve-just-been-a-setting-after-hearing-about-rebel-wolves-attempts-to-thread-the-needle/",
-          "titre": "I am now certain The Blood of Dawnwalker's time limit should've just been a setting, after hearing about Rebel Wolves' attempts to thread the needle"
-        }
-      ]
-    },
-    {
-      "id": "i-found-a-use-of-ai-that-doesn-t-make-me-cringe-and-shudder",
-      "titre": "I found a use of AI that doesn't make me cringe and shudder, and it's in the mic everyone's waited over a decade for",
-      "url": "https://www.pcgamer.com/hardware/microphones/i-found-a-use-of-ai-that-doesnt-make-me-cringe-and-shudder-and-its-in-the-mic-everyones-waited-over-a-decade-for/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/microphones/i-found-a-use-of-ai-that-doesnt-make-me-cringe-and-shudder-and-its-in-the-mic-everyones-waited-over-a-decade-for/",
-          "titre": "I found a use of AI that doesn't make me cringe and shudder, and it's in the mic everyone's waited over a decade for"
-        }
-      ]
-    },
-    {
-      "id": "i-got-whomped-by-an-ork-horde-in-total-war-warhammer-40-000",
-      "titre": "I got whomped by an Ork horde in Total War: Warhammer 40,000, definitely on purpose, to teach you a lesson about positioning",
-      "url": "https://www.rockpapershotgun.com/i-got-whomped-by-an-ork-horde-in-total-war-warhammer-40000-definitely-on-purpose-to-teach-you-a-lesson-about-positioning",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-got-whomped-by-an-ork-horde-in-total-war-warhammer-40000-definitely-on-purpose-to-teach-you-a-lesson-about-positioning",
-          "titre": "I got whomped by an Ork horde in Total War: Warhammer 40,000, definitely on purpose, to teach you a lesson about positioning"
-        }
-      ]
-    },
-    {
-      "id": "as-marathon-s-player-slump-continues-bungie-announces-plans",
-      "titre": "As Marathon's player slump continues, Bungie announces plans to grow it \"beyond extraction\"",
-      "url": "https://www.eurogamer.net/marathon-bungie-future-roadmap-beyond-extraction",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marathon-bungie-future-roadmap-beyond-extraction",
-          "titre": "As Marathon's player slump continues, Bungie announces plans to grow it \"beyond extraction\""
-        }
-      ]
-    },
-    {
-      "id": "could-the-pc-gamer-team-survive-silent-hill-townfall",
-      "titre": "Could the PC Gamer team survive Silent Hill: Townfall?",
-      "url": "https://www.pcgamer.com/games/horror/could-the-pc-gamer-team-survive-silent-hill-townfall/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/could-the-pc-gamer-team-survive-silent-hill-townfall/",
-          "titre": "Could the PC Gamer team survive Silent Hill: Townfall?"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/diablo-iv-age-of-hatred-collection",
+          "titre": "Review: Diablo IV: Age Of Hatred Collection (Switch 2) - Addictive, Enormous, And Runs Reasonably Well"
         }
       ]
     },
@@ -1031,7 +863,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 6,
       "liens": [
         {
@@ -1049,7 +881,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.9,
       "chaleur": 6,
       "liens": [
         {
@@ -1067,7 +899,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 6,
       "liens": [
         {
@@ -1086,7 +918,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 20.4,
+      "heures": 22.4,
       "chaleur": 6,
       "liens": [
         {
@@ -1109,7 +941,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.0,
+      "heures": 24.0,
       "chaleur": 6,
       "liens": [
         {
@@ -1120,20 +952,200 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-collector-s-box-is-400-doesn-t-include-the-game",
-      "titre": "GTA 6 Collector's Box Is $400, Doesn't Include the Game",
-      "url": "https://www.pushsquare.com/news/2026/09/gta-6-collectors-box-is-usd400-doesnt-include-the-game",
+      "id": "xbox-s-version-of-playstation-s-platinum-trophy-achievement",
+      "titre": "Xbox's version of PlayStation's Platinum Trophy achievement seems to leak, and it's got a sound-effect that's 15 seconds long",
+      "url": "https://www.eurogamer.net/xbox-mythic-platinum-achievement",
       "sources": [
-        "Push Square"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.9,
+      "heures": 29.6,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/gta-6-collectors-box-is-usd400-doesnt-include-the-game",
-          "titre": "GTA 6 Collector's Box Is $400, Doesn't Include the Game"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-mythic-platinum-achievement",
+          "titre": "Xbox's version of PlayStation's Platinum Trophy achievement seems to leak, and it's got a sound-effect that's 15 seconds long"
+        }
+      ]
+    },
+    {
+      "id": "after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gt",
+      "titre": "After eighteen years of jaggedy bowling, a new mod bestows GTA 4 with DLSS and FSR support",
+      "url": "https://www.rockpapershotgun.com/after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gta-4-with-dlss-and-fsr-support",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 29.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gta-4-with-dlss-and-fsr-support",
+          "titre": "After eighteen years of jaggedy bowling, a new mod bestows GTA 4 with DLSS and FSR support"
+        }
+      ]
+    },
+    {
+      "id": "the-switch-2-build-is-not-where-we-want-it-to-be-runescape",
+      "titre": "\"The Switch 2 Build Is Not Where We Want It To Be\" - RuneScape: Dragonwilds Team Promises To Deliver Visual Improvements",
+      "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-build-is-not-where-we-want-it-to-be-runescape-dragonwilds-team-promises-to-deliver-visual-improvements",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 14.3,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-build-is-not-where-we-want-it-to-be-runescape-dragonwilds-team-promises-to-deliver-visual-improvements",
+          "titre": "\"The Switch 2 Build Is Not Where We Want It To Be\" - RuneScape: Dragonwilds Team Promises To Deliver Visual Improvements"
+        }
+      ]
+    },
+    {
+      "id": "it-genuinely-breaks-my-heart-confusion-and-frustration-reig",
+      "titre": "\"It genuinely breaks my heart\"- Confusion and frustration reign as gaming communities react to Xbox's drastic restructuring this week",
+      "url": "https://www.eurogamer.net/community-reaction-xbox-restructuring-rare-ninja-theory-obsidian",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 23.7,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/community-reaction-xbox-restructuring-rare-ninja-theory-obsidian",
+          "titre": "\"It genuinely breaks my heart\"- Confusion and frustration reign as gaming communities react to Xbox's drastic restructuring this week"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-download-24th-september-north-america-plus-3-games",
+      "titre": "Nintendo Download: 24th September (North America) - Plus 3 Games Worth Picking Up On Sale",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-24th-september-north-america-plus-3-games-worth-picking-up-on-sale",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 25.1,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-24th-september-north-america-plus-3-games-worth-picking-up-on-sale",
+          "titre": "Nintendo Download: 24th September (North America) - Plus 3 Games Worth Picking Up On Sale"
+        }
+      ]
+    },
+    {
+      "id": "dutch-consumer-group-files-lawsuit-against-epic-for-misleadi",
+      "titre": "Dutch consumer group files lawsuit against Epic for misleading young players on Fortnite, seeking more than €100m in compensation",
+      "url": "https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 26.6,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation",
+          "titre": "Dutch consumer group files lawsuit against Epic for misleading young players on Fortnite, seeking more than €100m in compensation"
+        }
+      ]
+    },
+    {
+      "id": "i-assume-someone-is-being-greedy-somewhere-tim-schafer-disc",
+      "titre": "\"I assume someone is being greedy somewhere\" - Tim Schafer discusses current game industry woes following Double Fine's split with Xbox",
+      "url": "https://www.eurogamer.net/double-fine-tim-schafer-xbox-greedy",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 27.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/double-fine-tim-schafer-xbox-greedy",
+          "titre": "\"I assume someone is being greedy somewhere\" - Tim Schafer discusses current game industry woes following Double Fine's split with Xbox"
+        }
+      ]
+    },
+    {
+      "id": "discord-roll-out-revised-age-verification-following-delay-du",
+      "titre": "Discord roll out revised age verification following delay due to pushback, pledging to be \"safer for teens, same Discord for Adults\"",
+      "url": "https://www.rockpapershotgun.com/discord-roll-out-revised-age-verification-following-delay-due-to-pushback-pledging-to-be-safer-for-teens-same-discord-for-adults",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 28.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/discord-roll-out-revised-age-verification-following-delay-due-to-pushback-pledging-to-be-safer-for-teens-same-discord-for-adults",
+          "titre": "Discord roll out revised age verification following delay due to pushback, pledging to be \"safer for teens, same Discord for Adults\""
+        }
+      ]
+    },
+    {
+      "id": "steam-frame-ready-vr-rhythm-game-beat-saber-is-adding-hand-t",
+      "titre": "Steam Frame-ready VR rhythm game Beat Saber is adding hand-tracking and a punchy new mode in its \"biggest update ever\"",
+      "url": "https://www.rockpapershotgun.com/steam-frame-ready-vr-rhythm-game-beat-saber-is-adding-hand-tracking-and-a-punchy-new-mode-in-its-biggest-update-ever",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 28.8,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/steam-frame-ready-vr-rhythm-game-beat-saber-is-adding-hand-tracking-and-a-punchy-new-mode-in-its-biggest-update-ever",
+          "titre": "Steam Frame-ready VR rhythm game Beat Saber is adding hand-tracking and a punchy new mode in its \"biggest update ever\""
+        }
+      ]
+    },
+    {
+      "id": "microsoft-files-patent-for-ad-credit-system-to-show-ads-on-p",
+      "titre": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay",
+      "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 32.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
+          "titre": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay"
+        }
+      ]
+    },
+    {
+      "id": "it-took-roughly-two-years-and-one-of-the-most-expensive-art",
+      "titre": "It took roughly two years and \"one of the most expensive art assets ever\" to get Cyberpunk 2077: Phantom Liberty's Chimera tank fight right",
+      "url": "https://www.eurogamer.net/cyberpunk-2077-phantom-liberty-chimera-tank-two-years",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/cyberpunk-2077-phantom-liberty-chimera-tank-two-years",
+          "titre": "It took roughly two years and \"one of the most expensive art assets ever\" to get Cyberpunk 2077: Phantom Liberty's Chimera tank fight right"
         }
       ]
     }
