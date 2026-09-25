@@ -1,68 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "25/09/2026 à 04h21",
+  "collecte": "25/09/2026 à 06h25",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "obsidian-remains-distinct-and-keeps-leadership-team-after-be",
-      "titre": "Obsidian Remains 'Distinct' and Keeps Leadership Team After Being Absorbed by Bethesda",
-      "url": "https://www.pushsquare.com/news/2026/09/obsidian-remains-distinct-and-keeps-leadership-team-after-being-absorbed-by-bethesda",
-      "sources": [
-        "Eurogamer",
-        "Game Developer",
-        "GamesIndustry.biz",
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 5,
-      "heures": 15.4,
-      "chaleur": 17,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/obsidian-remains-distinct-and-keeps-leadership-team-after-being-absorbed-by-bethesda",
-          "titre": "Obsidian Remains 'Distinct' and Keeps Leadership Team After Being Absorbed by Bethesda"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/bethesda-say-new-underlings-obsidian-will-retain-their-distinct-creative-identity-despite-no-longer-being-as-free-to-work-on-their-own-creatively-distinct-series",
-          "titre": "Bethesda say new underlings Obsidian will retain their \"distinct\" creative identity, despite no longer being as free to work on their own creatively distinct series"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
-          "titre": "Bethesda boss confirms Obsidian will remain a \"distinct\" team"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
-          "titre": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/obsidian-creative-identity-bethesda-fallout-xbox-restructuring",
-          "titre": "Obsidian's \"creative identity and strengths\" will remain intact, promises Bethesda, as it takes control of Fallout: New Vegas studio"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starri",
-      "titre": "Nintendo Reportedly Rejected A Ubisoft Zelda Spin-Off Starring Ganondorf",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf",
-          "titre": "Nintendo Reportedly Rejected A Ubisoft Zelda Spin-Off Starring Ganondorf"
-        }
-      ]
-    },
     {
       "id": "age-of-empires-dev-has-half-of-studio-slashed-project-cancel",
       "titre": "Age of Empires Dev Has Half of Studio Slashed, Project Cancelled Amid Xbox Layoffs",
@@ -71,7 +11,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 11,
       "liens": [
         {
@@ -90,7 +30,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 16.4,
+      "heures": 18.5,
       "chaleur": 11,
       "liens": [
         {
@@ -113,7 +53,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.9,
+      "heures": 26.0,
       "chaleur": 10,
       "liens": [
         {
@@ -124,20 +64,50 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-switch-2-build-is-not-where-we-want-it-to-be-runescape",
-      "titre": "\"The Switch 2 Build Is Not Where We Want It To Be\" - RuneScape: Dragonwilds Team Promises To Deliver Visual Improvements",
-      "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-build-is-not-where-we-want-it-to-be-runescape-dragonwilds-team-promises-to-deliver-visual-improvements",
+      "id": "nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starri",
+      "titre": "Nintendo Reportedly Rejected A Ubisoft Zelda Spin-Off Starring Ganondorf",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 8,
+      "heures": 5.5,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-build-is-not-where-we-want-it-to-be-runescape-dragonwilds-team-promises-to-deliver-visual-improvements",
-          "titre": "\"The Switch 2 Build Is Not Where We Want It To Be\" - RuneScape: Dragonwilds Team Promises To Deliver Visual Improvements"
+          "url": "https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf",
+          "titre": "Nintendo Reportedly Rejected A Ubisoft Zelda Spin-Off Starring Ganondorf"
+        }
+      ]
+    },
+    {
+      "id": "obsidian-remains-distinct-and-keeps-leadership-team-after-be",
+      "titre": "Obsidian Remains 'Distinct' and Keeps Leadership Team After Being Absorbed by Bethesda",
+      "url": "https://www.pushsquare.com/news/2026/09/obsidian-remains-distinct-and-keeps-leadership-team-after-being-absorbed-by-bethesda",
+      "sources": [
+        "GamesIndustry.biz",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 17.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/obsidian-remains-distinct-and-keeps-leadership-team-after-being-absorbed-by-bethesda",
+          "titre": "Obsidian Remains 'Distinct' and Keeps Leadership Team After Being Absorbed by Bethesda"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/bethesda-say-new-underlings-obsidian-will-retain-their-distinct-creative-identity-despite-no-longer-being-as-free-to-work-on-their-own-creatively-distinct-series",
+          "titre": "Bethesda say new underlings Obsidian will retain their \"distinct\" creative identity, despite no longer being as free to work on their own creatively distinct series"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
+          "titre": "Bethesda boss confirms Obsidian will remain a \"distinct\" team"
         }
       ]
     },
@@ -150,7 +120,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 15.9,
+      "heures": 18.0,
       "chaleur": 8,
       "liens": [
         {
@@ -173,7 +143,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 7,
       "liens": [
         {
@@ -191,37 +161,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/wild-arms-successor-that-sony-rejected-has-been-cancelled-4-years-after-its-reveal",
           "titre": "Wild Arms Successor That Sony Rejected Has Been Cancelled, 4 Years After Its Reveal"
-        }
-      ]
-    },
-    {
-      "id": "once-upon-a-time-the-blood-of-dawnwalker-s-timer-mechanic-wa",
-      "titre": "Once upon a time The Blood of Dawnwalker's timer mechanic was a lot tougher, and it's because of all those pre-release complaints that it was made easier",
-      "url": "https://www.rockpapershotgun.com/once-upon-a-time-the-blood-of-dawnwalkers-timer-mechanic-was-a-lot-tougher-and-its-because-of-all-those-pre-release-complaints-that-it-was-made-easier",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 10.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/once-upon-a-time-the-blood-of-dawnwalkers-timer-mechanic-was-a-lot-tougher-and-its-because-of-all-those-pre-release-complaints-that-it-was-made-easier",
-          "titre": "Once upon a time The Blood of Dawnwalker's timer mechanic was a lot tougher, and it's because of all those pre-release complaints that it was made easier"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-time-mechanic-originally-stricter",
-          "titre": "The Blood of Dawnwalker's divisive time mechanic was once much stricter, but it was loosened because of \"fear\" around the game"
         }
       ]
     },
@@ -406,6 +352,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "london-games-festival",
+      "titre": "London Games Festival",
+      "url": "https://www.gamedeveloper.comgames.london",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.comgames.london",
+          "titre": "London Games Festival"
+        }
+      ]
+    },
+    {
+      "id": "tim-cain-among-other-things-that-steve-jackson-games-didn-t",
+      "titre": "Tim Cain: 'Among other things that Steve Jackson Games didn't like about Fallout was Vault Boy'",
+      "url": "https://www.pcgamer.com/games/fallout/tim-cain-among-other-things-that-steve-jackson-games-didnt-like-about-fallout-was-vault-boy/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fallout/tim-cain-among-other-things-that-steve-jackson-games-didnt-like-about-fallout-was-vault-boy/",
+          "titre": "Tim Cain: 'Among other things that Steve Jackson Games didn't like about Fallout was Vault Boy'"
+        }
+      ]
+    },
+    {
+      "id": "rumour-new-leak-suggests-professor-layton-and-phoenix-wright",
+      "titre": "Rumour: New Leak Suggests Professor Layton And Phoenix Wright's 3DS Crossover Is Returning",
+      "url": "https://www.nintendolife.com/news/2026/09/rumour-new-leak-suggests-professor-layton-and-phoenix-wrights-3ds-crossover-is-returning",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/rumour-new-leak-suggests-professor-layton-and-phoenix-wrights-3ds-crossover-is-returning",
+          "titre": "Rumour: New Leak Suggests Professor Layton And Phoenix Wright's 3DS Crossover Is Returning"
+        }
+      ]
+    },
+    {
       "id": "this-chill-procgen-driving-game-has-a-very-clever-ui-feature",
       "titre": "This chill procgen driving game has a very clever UI feature",
       "url": "https://www.pcgamer.com/games/this-chill-procgen-driving-game-has-a-very-clever-ui-feature/",
@@ -413,7 +413,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -431,7 +431,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -442,74 +442,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "it-s-tough-to-stand-out-in-today-s-games-industry-but-sorta",
-      "titre": "It's tough to stand out in today's games industry, but 'sorta like Helldivers 2 except dog people' worked on me",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/its-tough-to-stand-out-in-todays-games-industry-but-sorta-like-helldivers-2-except-dog-people-worked-on-me/",
+      "id": "the-switch-2-build-is-not-where-we-want-it-to-be-runescape",
+      "titre": "\"The Switch 2 Build Is Not Where We Want It To Be\" - RuneScape: Dragonwilds Team Promises To Deliver Visual Improvements",
+      "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-build-is-not-where-we-want-it-to-be-runescape-dragonwilds-team-promises-to-deliver-visual-improvements",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.5,
+      "heures": 4.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/its-tough-to-stand-out-in-todays-games-industry-but-sorta-like-helldivers-2-except-dog-people-worked-on-me/",
-          "titre": "It's tough to stand out in today's games industry, but 'sorta like Helldivers 2 except dog people' worked on me"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-build-is-not-where-we-want-it-to-be-runescape-dragonwilds-team-promises-to-deliver-visual-improvements",
+          "titre": "\"The Switch 2 Build Is Not Where We Want It To Be\" - RuneScape: Dragonwilds Team Promises To Deliver Visual Improvements"
         }
       ]
     },
     {
-      "id": "14-days-in-dragon-shelter-a-play-by-play-of-my-first-season",
-      "titre": "14 days in Dragon Shelter: A play by play of my first season in the Stardew-style farm sim where dragons help bake pies",
-      "url": "https://www.pcgamer.com/games/life-sim/14-days-in-dragon-shelter-a-play-by-play-of-my-first-season-in-the-stardew-style-farm-sim-where-dragons-help-bake-pies/",
+      "id": "once-upon-a-time-the-blood-of-dawnwalker-s-timer-mechanic-wa",
+      "titre": "Once upon a time The Blood of Dawnwalker's timer mechanic was a lot tougher, and it's because of all those pre-release complaints that it was made easier",
+      "url": "https://www.rockpapershotgun.com/once-upon-a-time-the-blood-of-dawnwalkers-timer-mechanic-was-a-lot-tougher-and-its-because-of-all-those-pre-release-complaints-that-it-was-made-easier",
       "sources": [
-        "PC Gamer"
+        "Eurogamer",
+        "Rock Paper Shotgun"
       ],
-      "reprises": 1,
-      "heures": 3.6,
+      "reprises": 2,
+      "heures": 12.5,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/life-sim/14-days-in-dragon-shelter-a-play-by-play-of-my-first-season-in-the-stardew-style-farm-sim-where-dragons-help-bake-pies/",
-          "titre": "14 days in Dragon Shelter: A play by play of my first season in the Stardew-style farm sim where dragons help bake pies"
-        }
-      ]
-    },
-    {
-      "id": "feature-xbox-is-disappearing-into-activision-and-bethesda-so",
-      "titre": "Feature: Xbox Is Disappearing into Activision and Bethesda, So What Does That Mean for PS5?",
-      "url": "https://www.pushsquare.com/news/2026/09/xbox-is-disappearing-into-activision-and-bethesda-so-what-does-that-mean-for-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/xbox-is-disappearing-into-activision-and-bethesda-so-what-does-that-mean-for-ps5",
-          "titre": "Feature: Xbox Is Disappearing into Activision and Bethesda, So What Does That Mean for PS5?"
-        }
-      ]
-    },
-    {
-      "id": "it-genuinely-breaks-my-heart-confusion-and-frustration-reig",
-      "titre": "\"It genuinely breaks my heart\"- Confusion and frustration reign as gaming communities react to Xbox's drastic restructuring this week",
-      "url": "https://www.eurogamer.net/community-reaction-xbox-restructuring-rare-ninja-theory-obsidian",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 6,
-      "liens": [
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/once-upon-a-time-the-blood-of-dawnwalkers-timer-mechanic-was-a-lot-tougher-and-its-because-of-all-those-pre-release-complaints-that-it-was-made-easier",
+          "titre": "Once upon a time The Blood of Dawnwalker's timer mechanic was a lot tougher, and it's because of all those pre-release complaints that it was made easier"
+        },
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/community-reaction-xbox-restructuring-rare-ninja-theory-obsidian",
-          "titre": "\"It genuinely breaks my heart\"- Confusion and frustration reign as gaming communities react to Xbox's drastic restructuring this week"
+          "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-time-mechanic-originally-stricter",
+          "titre": "The Blood of Dawnwalker's divisive time mechanic was once much stricter, but it was loosened because of \"fear\" around the game"
         }
       ]
     },
@@ -521,7 +491,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 14.1,
       "chaleur": 6,
       "liens": [
         {
@@ -539,7 +509,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 6,
       "liens": [
         {
@@ -557,7 +527,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 19.7,
       "chaleur": 6,
       "liens": [
         {
@@ -575,7 +545,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 19.9,
       "chaleur": 6,
       "liens": [
         {
@@ -586,20 +556,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-switch-2-welcome-tour-updated-to-ver-1-1-1-here-are",
-      "titre": "Nintendo Switch 2 Welcome Tour Updated To Ver. 1.1.1, Here Are The Patch Notes",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-switch-2-welcome-tour-updated-to-ver-1-1-1-here-are-the-patch-notes",
+      "id": "feature-xbox-is-disappearing-into-activision-and-bethesda-so",
+      "titre": "Feature: Xbox Is Disappearing into Activision and Bethesda, So What Does That Mean for PS5?",
+      "url": "https://www.pushsquare.com/news/2026/09/xbox-is-disappearing-into-activision-and-bethesda-so-what-does-that-mean-for-ps5",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.9,
-      "chaleur": 6,
+      "heures": 13.4,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendo-switch-2-welcome-tour-updated-to-ver-1-1-1-here-are-the-patch-notes",
-          "titre": "Nintendo Switch 2 Welcome Tour Updated To Ver. 1.1.1, Here Are The Patch Notes"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/xbox-is-disappearing-into-activision-and-bethesda-so-what-does-that-mean-for-ps5",
+          "titre": "Feature: Xbox Is Disappearing into Activision and Bethesda, So What Does That Mean for PS5?"
+        }
+      ]
+    },
+    {
+      "id": "it-genuinely-breaks-my-heart-confusion-and-frustration-reig",
+      "titre": "\"It genuinely breaks my heart\"- Confusion and frustration reign as gaming communities react to Xbox's drastic restructuring this week",
+      "url": "https://www.eurogamer.net/community-reaction-xbox-restructuring-rare-ninja-theory-obsidian",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 13.8,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/community-reaction-xbox-restructuring-rare-ninja-theory-obsidian",
+          "titre": "\"It genuinely breaks my heart\"- Confusion and frustration reign as gaming communities react to Xbox's drastic restructuring this week"
         }
       ]
     },
@@ -611,7 +599,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 15.2,
       "chaleur": 5,
       "liens": [
         {
@@ -629,7 +617,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.6,
       "chaleur": 5,
       "liens": [
         {
@@ -647,7 +635,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.7,
       "chaleur": 5,
       "liens": [
         {
@@ -665,7 +653,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 5,
       "liens": [
         {
@@ -683,7 +671,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 5,
       "liens": [
         {
@@ -701,7 +689,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.8,
+      "heures": 18.8,
       "chaleur": 5,
       "liens": [
         {
@@ -719,7 +707,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.8,
+      "heures": 18.9,
       "chaleur": 5,
       "liens": [
         {
@@ -737,7 +725,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 19.2,
       "chaleur": 5,
       "liens": [
         {
@@ -755,7 +743,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 19.9,
       "chaleur": 5,
       "liens": [
         {
@@ -773,7 +761,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.5,
       "chaleur": 5,
       "liens": [
         {
@@ -791,7 +779,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.5,
       "chaleur": 5,
       "liens": [
         {
@@ -809,13 +797,49 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.4,
+      "heures": 35.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/discord-controversial-age-verification-privacy-preserving",
           "titre": "Discord launches controversial age-verification system \"using the most privacy-preserving approach we could build\" months after first delay"
+        }
+      ]
+    },
+    {
+      "id": "it-s-tough-to-stand-out-in-today-s-games-industry-but-sorta",
+      "titre": "It's tough to stand out in today's games industry, but 'sorta like Helldivers 2 except dog people' worked on me",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/its-tough-to-stand-out-in-todays-games-industry-but-sorta-like-helldivers-2-except-dog-people-worked-on-me/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/its-tough-to-stand-out-in-todays-games-industry-but-sorta-like-helldivers-2-except-dog-people-worked-on-me/",
+          "titre": "It's tough to stand out in today's games industry, but 'sorta like Helldivers 2 except dog people' worked on me"
+        }
+      ]
+    },
+    {
+      "id": "14-days-in-dragon-shelter-a-play-by-play-of-my-first-season",
+      "titre": "14 days in Dragon Shelter: A play by play of my first season in the Stardew-style farm sim where dragons help bake pies",
+      "url": "https://www.pcgamer.com/games/life-sim/14-days-in-dragon-shelter-a-play-by-play-of-my-first-season-in-the-stardew-style-farm-sim-where-dragons-help-bake-pies/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/life-sim/14-days-in-dragon-shelter-a-play-by-play-of-my-first-season-in-the-stardew-style-farm-sim-where-dragons-help-bake-pies/",
+          "titre": "14 days in Dragon Shelter: A play by play of my first season in the Stardew-style farm sim where dragons help bake pies"
         }
       ]
     },
@@ -827,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -863,7 +887,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +905,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +923,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.7,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.2,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +959,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +977,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +995,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +1013,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +1031,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1025,7 +1049,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,7 +1067,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,7 +1085,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1079,49 +1103,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/the-future-of-marathon-includes-a-fungus-filled-perimeter-a-social-hub-and-a-shift-beyond-extraction",
           "titre": "The future of Marathon includes a fungus-filled Perimeter, a social hub, and a shift \"beyond extraction\""
-        }
-      ]
-    },
-    {
-      "id": "meta-announces-new-vr-glasses-that-weigh-about-100-grams-and",
-      "titre": "Meta announces new VR glasses that weigh about 100 grams and cost $1,300",
-      "url": "https://www.gamedeveloper.com/business/meta-announces-new-vr-glasses-that-weight-about-100-grams-and-cost-1-300",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 9.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/meta-announces-new-vr-glasses-that-weight-about-100-grams-and-cost-1-300",
-          "titre": "Meta announces new VR glasses that weigh about 100 grams and cost $1,300"
-        }
-      ]
-    },
-    {
-      "id": "hands-on-viture-pro-2-xr-glasses-big-screen-on-a-budget",
-      "titre": "Hands On: Viture Pro 2 XR Glasses - Big-Screen On A Budget",
-      "url": "https://www.nintendolife.com/features/hands-on-viture-pro-2-xr-glasses-big-screen-on-a-budget",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/hands-on-viture-pro-2-xr-glasses-big-screen-on-a-budget",
-          "titre": "Hands On: Viture Pro 2 XR Glasses - Big-Screen On A Budget"
         }
       ]
     }
