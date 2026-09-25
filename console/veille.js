@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "25/09/2026 à 12h25",
+  "collecte": "25/09/2026 à 14h22",
   "seuil": 14,
   "sujets": [
     {
@@ -12,7 +12,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 0.3,
+      "heures": 2.2,
       "chaleur": 17,
       "liens": [
         {
@@ -36,8 +36,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 2.2,
-      "chaleur": 16,
+      "heures": 4.2,
+      "chaleur": 14,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -52,6 +52,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "podcast-halo-under-activision-what-s-next-for-xbox",
+      "titre": "Podcast: Halo under Activision – What’s next for Xbox?",
+      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-halo-under-activision-whats-next-for-xbox/",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.9,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-halo-under-activision-whats-next-for-xbox/",
+          "titre": "Podcast: Halo under Activision – What’s next for Xbox?"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/xbox-is-disappearing-into-activision-and-bethesda-so-what-does-that-mean-for-ps5",
+          "titre": "Feature: Xbox Is Disappearing into Activision and Bethesda, So What Does That Mean for PS5?"
+        }
+      ]
+    },
+    {
       "id": "age-of-empires-dev-has-half-of-studio-slashed-project-cancel",
       "titre": "Age of Empires Dev Has Half of Studio Slashed, Project Cancelled Amid Xbox Layoffs",
       "url": "https://www.pushsquare.com/news/2026/09/age-of-empires-dev-has-half-of-studio-slashed-project-cancelled-amid-xbox-layoffs",
@@ -59,37 +83,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.4,
       "chaleur": 11,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/age-of-empires-dev-has-half-of-studio-slashed-project-cancelled-amid-xbox-layoffs",
           "titre": "Age of Empires Dev Has Half of Studio Slashed, Project Cancelled Amid Xbox Layoffs"
-        }
-      ]
-    },
-    {
-      "id": "quake-champions-ditches-free-to-play-and-kills-off-its-micro",
-      "titre": "Quake Champions ditches free-to-play and kills off its Microsoft Store version eight years after its original release",
-      "url": "https://www.eurogamer.net/quake-champions-free-to-play-removed-now-paid",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 24.5,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/quake-champions-free-to-play-removed-now-paid",
-          "titre": "Quake Champions ditches free-to-play and kills off its Microsoft Store version eight years after its original release"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/following-id-layoffs-quake-champions-drops-free-to-play-nonsense-and-becomes-a-9-game-on-steam",
-          "titre": "Following id layoffs, Quake Champions drops free-to-play nonsense and becomes a £9 game on Steam"
         }
       ]
     },
@@ -101,13 +101,79 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 10,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
           "titre": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?"
+        }
+      ]
+    },
+    {
+      "id": "review-ace-combat-8-wings-of-theve-ps5-the-series-lands-its",
+      "titre": "Review: Ace Combat 8: Wings of Theve (PS5) - The Series Lands Its Most Confident Entry Yet",
+      "url": "https://www.pushsquare.com/reviews/ps5/ace-combat-8-wings-of-theve",
+      "sources": [
+        "PC Gamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 0.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/ace-combat-8-wings-of-theve",
+          "titre": "Review: Ace Combat 8: Wings of Theve (PS5) - The Series Lands Its Most Confident Entry Yet"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/ace-combat-8-wings-of-theve-review/",
+          "titre": "Ace Combat 8: Wings of Theve review"
+        }
+      ]
+    },
+    {
+      "id": "speaking-to-pro-counter-strike-players-convinced-me-to-final",
+      "titre": "Speaking to pro Counter-Strike players convinced me to finally increase my mouse's polling rate, but not all the way to 8K",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/speaking-to-pro-counter-strike-players-convinced-me-to-finally-increase-my-mouses-polling-rate-but-not-all-the-way-to-8k/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/speaking-to-pro-counter-strike-players-convinced-me-to-finally-increase-my-mouses-polling-rate-but-not-all-the-way-to-8k/",
+          "titre": "Speaking to pro Counter-Strike players convinced me to finally increase my mouse's polling rate, but not all the way to 8K"
+        }
+      ]
+    },
+    {
+      "id": "buy-the-witcher-3-for-50-off-on-the-ps-store-now-get-its-ps5",
+      "titre": "Buy The Witcher 3 for 50% Off on the PS Store Now, Get Its PS5 Remaster for Free Next Week",
+      "url": "https://www.pushsquare.com/news/2026/09/buy-the-witcher-3-for-50percent-off-on-the-ps-store-now-get-its-ps5-remaster-for-free-next-week",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/buy-the-witcher-3-for-50percent-off-on-the-ps-store-now-get-its-ps5-remaster-for-free-next-week",
+          "titre": "Buy The Witcher 3 for 50% Off on the PS Store Now, Get Its PS5 Remaster for Free Next Week"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/this-weeks-free-epic-games-store-titles-are-astrea-and-mechabellum/",
+          "titre": "This week’s free Epic Games Store titles are Astrea and Mechabellum"
         }
       ]
     },
@@ -120,7 +186,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 9,
       "liens": [
         {
@@ -144,7 +210,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 9,
       "liens": [
         {
@@ -167,13 +233,103 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/reddit-mod-ordered-to-cough-up-usd4500000-to-nintendo-in-long-running-switch-piracy-case",
           "titre": "Reddit Mod Ordered To Cough Up $4,500,000 To Nintendo In Long-Running Switch Piracy Case"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-of-america-awarded-4-5m-in-lawsuit-from-redditor-fo",
+      "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software",
+      "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 6.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
+          "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software"
+        }
+      ]
+    },
+    {
+      "id": "ubisoft-switch-eshop-sale-now-live-up-to-90-off",
+      "titre": "Ubisoft Switch eShop Sale Now Live, Up To 90% Off",
+      "url": "https://www.nintendolife.com/news/2026/09/ubisoft-switch-eshop-sale-now-live-up-to-90percent-off",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/ubisoft-switch-eshop-sale-now-live-up-to-90percent-off",
+          "titre": "Ubisoft Switch eShop Sale Now Live, Up To 90% Off"
+        }
+      ]
+    },
+    {
+      "id": "the-xbox-reset-doesn-t-have-an-end-date-opinion",
+      "titre": "The Xbox reset doesn't have an end date | Opinion",
+      "url": "https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion",
+          "titre": "The Xbox reset doesn't have an end date | Opinion"
+        }
+      ]
+    },
+    {
+      "id": "review-diablo-iv-age-of-hatred-collection-switch-2-addictive",
+      "titre": "Review: Diablo IV: Age Of Hatred Collection (Switch 2) - Addictive, Enormous, And Runs Reasonably Well",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/diablo-iv-age-of-hatred-collection",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/diablo-iv-age-of-hatred-collection",
+          "titre": "Review: Diablo IV: Age Of Hatred Collection (Switch 2) - Addictive, Enormous, And Runs Reasonably Well"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starri",
+      "titre": "Nintendo Reportedly Rejected A Ubisoft Zelda Spin-Off Starring Ganondorf",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf",
+          "titre": "Nintendo Reportedly Rejected A Ubisoft Zelda Spin-Off Starring Ganondorf"
         }
       ]
     },
@@ -185,8 +341,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 9,
+      "heures": 4.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
@@ -204,8 +360,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 3.1,
-      "chaleur": 9,
+      "heures": 5.0,
+      "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
@@ -216,78 +372,6 @@ const VEILLE = {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/bethesda-say-new-underlings-obsidian-will-retain-their-distinct-creative-identity-despite-no-longer-being-as-free-to-work-on-their-own-creatively-distinct-series",
           "titre": "Bethesda say new underlings Obsidian will retain their \"distinct\" creative identity, despite no longer being as free to work on their own creatively distinct series"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-of-america-awarded-4-5m-in-lawsuit-from-redditor-fo",
-      "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software",
-      "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 4.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
-          "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starri",
-      "titre": "Nintendo Reportedly Rejected A Ubisoft Zelda Spin-Off Starring Ganondorf",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf",
-          "titre": "Nintendo Reportedly Rejected A Ubisoft Zelda Spin-Off Starring Ganondorf"
-        }
-      ]
-    },
-    {
-      "id": "review-diablo-iv-age-of-hatred-collection-switch-2-addictive",
-      "titre": "Review: Diablo IV: Age Of Hatred Collection (Switch 2) - Addictive, Enormous, And Runs Reasonably Well",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/diablo-iv-age-of-hatred-collection",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 0.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/diablo-iv-age-of-hatred-collection",
-          "titre": "Review: Diablo IV: Age Of Hatred Collection (Switch 2) - Addictive, Enormous, And Runs Reasonably Well"
-        }
-      ]
-    },
-    {
-      "id": "prince-of-persia-the-lost-crown-is-free-to-play-in-its-entir",
-      "titre": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week",
-      "url": "https://www.videogameschronicle.com/news/prince-of-persia-the-lost-crown-is-free-to-play-in-its-entirety-on-switch-for-the-next-week/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/prince-of-persia-the-lost-crown-is-free-to-play-in-its-entirety-on-switch-for-the-next-week/",
-          "titre": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week"
         }
       ]
     },
@@ -490,6 +574,186 @@ const VEILLE = {
       ]
     },
     {
+      "id": "microsoft-s-failure-to-find-a-home-for-ninja-theory-voids-th",
+      "titre": "Microsoft's failure to find a home for Ninja Theory voids the one, very tenuous upside to Senua's SGF reveal",
+      "url": "https://www.rockpapershotgun.com/microsofts-failure-to-find-a-home-for-ninja-theory-voids-the-one-very-tenuous-upside-to-senuas-sgf-reveal",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/microsofts-failure-to-find-a-home-for-ninja-theory-voids-the-one-very-tenuous-upside-to-senuas-sgf-reveal",
+          "titre": "Microsoft's failure to find a home for Ninja Theory voids the one, very tenuous upside to Senua's SGF reveal"
+        }
+      ]
+    },
+    {
+      "id": "my-first-mmo-character-7-andrea-shearon",
+      "titre": "My first MMO character #7: Andrea Shearon",
+      "url": "https://www.pcgamer.com/games/mmo/my-first-mmo-character-7-andrea-shearon/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mmo/my-first-mmo-character-7-andrea-shearon/",
+          "titre": "My first MMO character #7: Andrea Shearon"
+        }
+      ]
+    },
+    {
+      "id": "trophy-games-acquires-airport-simulator-first-class-develope",
+      "titre": "Trophy Games acquires Airport Simulator: First Class developer Playrion from Paradox Interactive",
+      "url": "https://www.gamesindustry.biz/trophy-games-acquires-airport-simulator-first-class-developer-playrion-from-paradox-interactive",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/trophy-games-acquires-airport-simulator-first-class-developer-playrion-from-paradox-interactive",
+          "titre": "Trophy Games acquires Airport Simulator: First Class developer Playrion from Paradox Interactive"
+        }
+      ]
+    },
+    {
+      "id": "i-made-two-50-gaming-keyboards-fight-for-my-average-gamer-af",
+      "titre": "I made two $50 gaming keyboards fight for my average-gamer affections, and for me there's one clear winner",
+      "url": "https://www.pcgamer.com/hardware/gaming-keyboards/i-made-two-usd50-gaming-keyboards-fight-for-my-average-gamer-affections-and-for-me-theres-one-clear-winner/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-keyboards/i-made-two-usd50-gaming-keyboards-fight-for-my-average-gamer-affections-and-for-me-theres-one-clear-winner/",
+          "titre": "I made two $50 gaming keyboards fight for my average-gamer affections, and for me there's one clear winner"
+        }
+      ]
+    },
+    {
+      "id": "after-nearly-19-years-in-development-hell-ubisoft-s-beyond-g",
+      "titre": "After nearly 19 years in development hell, Ubisoft's Beyond Good & Evil 2 is somehow still showing signs of life",
+      "url": "https://www.eurogamer.net/beyond-good-and-evil-2-signs-of-life-writer",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/beyond-good-and-evil-2-signs-of-life-writer",
+          "titre": "After nearly 19 years in development hell, Ubisoft's Beyond Good & Evil 2 is somehow still showing signs of life"
+        }
+      ]
+    },
+    {
+      "id": "you-can-properly-test-talents-in-the-wow-forever-beta-now",
+      "titre": "You can properly test talents in the WoW: Forever beta, now",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/you-can-properly-test-talents-in-the-wow-forever-beta-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/you-can-properly-test-talents-in-the-wow-forever-beta-now/",
+          "titre": "You can properly test talents in the WoW: Forever beta, now"
+        }
+      ]
+    },
+    {
+      "id": "meta-unveils-ai-powered-game-tools-for-mobile-devices-and-br",
+      "titre": "Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support",
+      "url": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support",
+          "titre": "Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support"
+        }
+      ]
+    },
+    {
+      "id": "splatoon-3-s-splatfests-return-next-month-with-another-spook",
+      "titre": "Splatoon 3's Splatfests Return Next Month With Another Spooky Showdown",
+      "url": "https://www.nintendolife.com/news/2026/09/splatoon-3s-splatfests-return-next-month-with-another-spooky-showdown",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/splatoon-3s-splatfests-return-next-month-with-another-spooky-showdown",
+          "titre": "Splatoon 3's Splatfests Return Next Month With Another Spooky Showdown"
+        }
+      ]
+    },
+    {
+      "id": "new-ps-portal-firmware-update-will-preserve-portable-s-batte",
+      "titre": "New PS Portal Firmware Update Will Preserve Portable's Battery Life",
+      "url": "https://www.pushsquare.com/news/2026/09/new-ps-portal-firmware-update-will-preserve-portables-battery-life",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/new-ps-portal-firmware-update-will-preserve-portables-battery-life",
+          "titre": "New PS Portal Firmware Update Will Preserve Portable's Battery Life"
+        }
+      ]
+    },
+    {
+      "id": "rogue-prince-of-persia-dev-now-done-with-updates-castlevania",
+      "titre": "Rogue Prince of Persia Dev Now Done with Updates, Castlevania Just Weeks Away",
+      "url": "https://www.pushsquare.com/news/2026/09/rogue-prince-of-persia-dev-now-done-with-updates-castlevania-just-weeks-away",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/rogue-prince-of-persia-dev-now-done-with-updates-castlevania-just-weeks-away",
+          "titre": "Rogue Prince of Persia Dev Now Done with Updates, Castlevania Just Weeks Away"
+        }
+      ]
+    },
+    {
       "id": "fire-emblem-fortune-s-weave-giants-meat-location-to-recruit",
       "titre": "Fire Emblem Fortune’s Weave: Giants’ Meat location to recruit Goliath",
       "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-giants-meat-location-to-recruit-goliath/",
@@ -497,7 +761,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 2.0,
       "chaleur": 6,
       "liens": [
         {
@@ -515,7 +779,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -533,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -551,7 +815,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +833,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -587,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -605,7 +869,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -623,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -641,7 +905,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -659,7 +923,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
@@ -677,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -695,7 +959,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -713,7 +977,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -731,7 +995,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -749,7 +1013,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -760,74 +1024,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "this-shows-the-power-that-comes-from-employees-joining-forc",
-      "titre": "'This shows the power that comes from employees joining forces:' King signs collective bargaining agreement with union workers",
-      "url": "https://www.gamedeveloper.com/business/-this-shows-the-power-that-comes-from-employees-joining-forces-king-signs-collective-bargaining-agreement-with-union-workers",
+      "id": "prince-of-persia-the-lost-crown-is-free-to-play-in-its-entir",
+      "titre": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week",
+      "url": "https://www.videogameschronicle.com/news/prince-of-persia-the-lost-crown-is-free-to-play-in-its-entirety-on-switch-for-the-next-week/",
       "sources": [
-        "Game Developer"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 2.7,
+      "heures": 5.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/-this-shows-the-power-that-comes-from-employees-joining-forces-king-signs-collective-bargaining-agreement-with-union-workers",
-          "titre": "'This shows the power that comes from employees joining forces:' King signs collective bargaining agreement with union workers"
-        }
-      ]
-    },
-    {
-      "id": "king-signs-collective-agreement-with-swedish-trade-unions-fo",
-      "titre": "King signs collective agreement with Swedish trade unions following call to industrial action last week",
-      "url": "https://www.gamesindustry.biz/king-signs-collective-agreement-with-swedish-trade-unions-following-call-to-industrial-action-last-week",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/king-signs-collective-agreement-with-swedish-trade-unions-following-call-to-industrial-action-last-week",
-          "titre": "King signs collective agreement with Swedish trade unions following call to industrial action last week"
-        }
-      ]
-    },
-    {
-      "id": "arc-raiders-is-testing-a-pve-mode-because-a-large-and-growin",
-      "titre": "Arc Raiders is testing a PvE mode because \"a large and growing group\" refuse to hunt each other",
-      "url": "https://www.rockpapershotgun.com/arc-raiders-is-testing-a-pve-mode-because-a-large-and-growing-group-refuse-to-hunt-each-other",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/arc-raiders-is-testing-a-pve-mode-because-a-large-and-growing-group-refuse-to-hunt-each-other",
-          "titre": "Arc Raiders is testing a PvE mode because \"a large and growing group\" refuse to hunt each other"
-        }
-      ]
-    },
-    {
-      "id": "my-first-mmo-character-6-jacob-ridley",
-      "titre": "My first MMO character #6: Jacob Ridley",
-      "url": "https://www.pcgamer.com/games/my-first-mmo-character-6-jacob-ridley/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/my-first-mmo-character-6-jacob-ridley/",
-          "titre": "My first MMO character #6: Jacob Ridley"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/prince-of-persia-the-lost-crown-is-free-to-play-in-its-entirety-on-switch-for-the-next-week/",
+          "titre": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week"
         }
       ]
     },
@@ -839,31 +1049,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/square-enix-shows-off-exclusive-sleeve-for-dragon-quest-xi-s-on-switch-2",
           "titre": "Square Enix Shows Off Exclusive Sleeve For Dragon Quest XI S On Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "the-switch-2-build-is-not-where-we-want-it-to-be-runescape",
-      "titre": "\"The Switch 2 Build Is Not Where We Want It To Be\" - RuneScape: Dragonwilds Team Promises To Deliver Visual Improvements",
-      "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-build-is-not-where-we-want-it-to-be-runescape-dragonwilds-team-promises-to-deliver-visual-improvements",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-build-is-not-where-we-want-it-to-be-runescape-dragonwilds-team-promises-to-deliver-visual-improvements",
-          "titre": "\"The Switch 2 Build Is Not Where We Want It To Be\" - RuneScape: Dragonwilds Team Promises To Deliver Visual Improvements"
         }
       ]
     },
@@ -875,7 +1067,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 6,
       "liens": [
         {
@@ -894,7 +1086,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 18.5,
+      "heures": 20.4,
       "chaleur": 6,
       "liens": [
         {
@@ -917,7 +1109,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.1,
+      "heures": 22.0,
       "chaleur": 6,
       "liens": [
         {
@@ -935,7 +1127,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.9,
+      "heures": 22.9,
       "chaleur": 6,
       "liens": [
         {
@@ -944,189 +1136,7 @@ const VEILLE = {
           "titre": "GTA 6 Collector's Box Is $400, Doesn't Include the Game"
         }
       ]
-    },
-    {
-      "id": "xbox-s-version-of-playstation-s-platinum-trophy-achievement",
-      "titre": "Xbox's version of PlayStation's Platinum Trophy achievement seems to leak, and it's got a sound-effect that's 15 seconds long",
-      "url": "https://www.eurogamer.net/xbox-mythic-platinum-achievement",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 25.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-mythic-platinum-achievement",
-          "titre": "Xbox's version of PlayStation's Platinum Trophy achievement seems to leak, and it's got a sound-effect that's 15 seconds long"
-        }
-      ]
-    },
-    {
-      "id": "after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gt",
-      "titre": "After eighteen years of jaggedy bowling, a new mod bestows GTA 4 with DLSS and FSR support",
-      "url": "https://www.rockpapershotgun.com/after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gta-4-with-dlss-and-fsr-support",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 25.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gta-4-with-dlss-and-fsr-support",
-          "titre": "After eighteen years of jaggedy bowling, a new mod bestows GTA 4 with DLSS and FSR support"
-        }
-      ]
-    },
-    {
-      "id": "feature-xbox-is-disappearing-into-activision-and-bethesda-so",
-      "titre": "Feature: Xbox Is Disappearing into Activision and Bethesda, So What Does That Mean for PS5?",
-      "url": "https://www.pushsquare.com/news/2026/09/xbox-is-disappearing-into-activision-and-bethesda-so-what-does-that-mean-for-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 19.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/xbox-is-disappearing-into-activision-and-bethesda-so-what-does-that-mean-for-ps5",
-          "titre": "Feature: Xbox Is Disappearing into Activision and Bethesda, So What Does That Mean for PS5?"
-        }
-      ]
-    },
-    {
-      "id": "it-genuinely-breaks-my-heart-confusion-and-frustration-reig",
-      "titre": "\"It genuinely breaks my heart\"- Confusion and frustration reign as gaming communities react to Xbox's drastic restructuring this week",
-      "url": "https://www.eurogamer.net/community-reaction-xbox-restructuring-rare-ninja-theory-obsidian",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 19.8,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/community-reaction-xbox-restructuring-rare-ninja-theory-obsidian",
-          "titre": "\"It genuinely breaks my heart\"- Confusion and frustration reign as gaming communities react to Xbox's drastic restructuring this week"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-download-24th-september-north-america-plus-3-games",
-      "titre": "Nintendo Download: 24th September (North America) - Plus 3 Games Worth Picking Up On Sale",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-24th-september-north-america-plus-3-games-worth-picking-up-on-sale",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 21.2,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-24th-september-north-america-plus-3-games-worth-picking-up-on-sale",
-          "titre": "Nintendo Download: 24th September (North America) - Plus 3 Games Worth Picking Up On Sale"
-        }
-      ]
-    },
-    {
-      "id": "dutch-consumer-group-files-lawsuit-against-epic-for-misleadi",
-      "titre": "Dutch consumer group files lawsuit against Epic for misleading young players on Fortnite, seeking more than €100m in compensation",
-      "url": "https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 22.6,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation",
-          "titre": "Dutch consumer group files lawsuit against Epic for misleading young players on Fortnite, seeking more than €100m in compensation"
-        }
-      ]
-    },
-    {
-      "id": "rumour-zelda-movie-rumblings-suggest-a-first-trailer-might-b",
-      "titre": "Rumour: Zelda Movie Rumblings Suggest A First Trailer Might Be Around The Corner",
-      "url": "https://www.nintendolife.com/news/2026/09/rumour-zelda-movie-rumblings-suggest-a-first-trailer-might-be-around-the-corner",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 23.7,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/rumour-zelda-movie-rumblings-suggest-a-first-trailer-might-be-around-the-corner",
-          "titre": "Rumour: Zelda Movie Rumblings Suggest A First Trailer Might Be Around The Corner"
-        }
-      ]
-    },
-    {
-      "id": "i-assume-someone-is-being-greedy-somewhere-tim-schafer-disc",
-      "titre": "\"I assume someone is being greedy somewhere\" - Tim Schafer discusses current game industry woes following Double Fine's split with Xbox",
-      "url": "https://www.eurogamer.net/double-fine-tim-schafer-xbox-greedy",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 24.0,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/double-fine-tim-schafer-xbox-greedy",
-          "titre": "\"I assume someone is being greedy somewhere\" - Tim Schafer discusses current game industry woes following Double Fine's split with Xbox"
-        }
-      ]
-    },
-    {
-      "id": "discord-roll-out-revised-age-verification-following-delay-du",
-      "titre": "Discord roll out revised age verification following delay due to pushback, pledging to be \"safer for teens, same Discord for Adults\"",
-      "url": "https://www.rockpapershotgun.com/discord-roll-out-revised-age-verification-following-delay-due-to-pushback-pledging-to-be-safer-for-teens-same-discord-for-adults",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 24.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/discord-roll-out-revised-age-verification-following-delay-due-to-pushback-pledging-to-be-safer-for-teens-same-discord-for-adults",
-          "titre": "Discord roll out revised age verification following delay due to pushback, pledging to be \"safer for teens, same Discord for Adults\""
-        }
-      ]
-    },
-    {
-      "id": "quick-switch-2-consoles-have-just-been-heavily-discounted-in",
-      "titre": "Quick! Switch 2 Consoles Have Just Been Heavily Discounted In The UK",
-      "url": "https://www.nintendolife.com/news/2026/09/quick-switch-2-consoles-have-just-been-heavily-discounted-in-the-uk",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 24.8,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/quick-switch-2-consoles-have-just-been-heavily-discounted-in-the-uk",
-          "titre": "Quick! Switch 2 Consoles Have Just Been Heavily Discounted In The UK"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "GTA veteran's MindsEye studio Build a Rocket Boy has entered administration, following yet more reports of layoffs"
-  ]
+  "alertes": []
 };
