@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "25/09/2026 à 02h19",
+  "collecte": "25/09/2026 à 04h21",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 13.3,
+      "heures": 15.4,
       "chaleur": 17,
       "liens": [
         {
@@ -46,24 +46,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "age-of-empires-dev-has-half-of-studio-slashed-project-cancel",
-      "titre": "Age of Empires Dev Has Half of Studio Slashed, Project Cancelled Amid Xbox Layoffs",
-      "url": "https://www.pushsquare.com/news/2026/09/age-of-empires-dev-has-half-of-studio-slashed-project-cancelled-amid-xbox-layoffs",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/age-of-empires-dev-has-half-of-studio-slashed-project-cancelled-amid-xbox-layoffs",
-          "titre": "Age of Empires Dev Has Half of Studio Slashed, Project Cancelled Amid Xbox Layoffs"
-        }
-      ]
-    },
-    {
       "id": "nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starri",
       "titre": "Nintendo Reportedly Rejected A Ubisoft Zelda Spin-Off Starring Ganondorf",
       "url": "https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf",
@@ -71,13 +53,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 11,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf",
           "titre": "Nintendo Reportedly Rejected A Ubisoft Zelda Spin-Off Starring Ganondorf"
+        }
+      ]
+    },
+    {
+      "id": "age-of-empires-dev-has-half-of-studio-slashed-project-cancel",
+      "titre": "Age of Empires Dev Has Half of Studio Slashed, Project Cancelled Amid Xbox Layoffs",
+      "url": "https://www.pushsquare.com/news/2026/09/age-of-empires-dev-has-half-of-studio-slashed-project-cancelled-amid-xbox-layoffs",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 13.4,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/age-of-empires-dev-has-half-of-studio-slashed-project-cancelled-amid-xbox-layoffs",
+          "titre": "Age of Empires Dev Has Half of Studio Slashed, Project Cancelled Amid Xbox Layoffs"
         }
       ]
     },
@@ -90,7 +90,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 11,
       "liens": [
         {
@@ -113,13 +113,55 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 23.9,
       "chaleur": 10,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/xbox-is-reportedly-expected-to-fall-short-of-3200-layoffs",
           "titre": "Xbox Is Reportedly Expected To Fall Short Of 3,200 Layoffs"
+        }
+      ]
+    },
+    {
+      "id": "the-switch-2-build-is-not-where-we-want-it-to-be-runescape",
+      "titre": "\"The Switch 2 Build Is Not Where We Want It To Be\" - RuneScape: Dragonwilds Team Promises To Deliver Visual Improvements",
+      "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-build-is-not-where-we-want-it-to-be-runescape-dragonwilds-team-promises-to-deliver-visual-improvements",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-build-is-not-where-we-want-it-to-be-runescape-dragonwilds-team-promises-to-deliver-visual-improvements",
+          "titre": "\"The Switch 2 Build Is Not Where We Want It To Be\" - RuneScape: Dragonwilds Team Promises To Deliver Visual Improvements"
+        }
+      ]
+    },
+    {
+      "id": "i-assume-someone-is-being-greedy-somewhere-tim-schafer-disc",
+      "titre": "\"I assume someone is being greedy somewhere\" - Tim Schafer discusses current game industry woes following Double Fine's split with Xbox",
+      "url": "https://www.eurogamer.net/double-fine-tim-schafer-xbox-greedy",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 15.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/double-fine-tim-schafer-xbox-greedy",
+          "titre": "\"I assume someone is being greedy somewhere\" - Tim Schafer discusses current game industry woes following Double Fine's split with Xbox"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/i-just-assume-someone-is-being-greedy-double-fines-tim-schafer-says-he-doesnt-know-why-the-industry-isnt-recovering/",
+          "titre": "‘I just assume someone is being greedy’: Double Fine’s Tim Schafer says he doesn’t know why the industry isn’t recovering"
         }
       ]
     },
@@ -131,8 +173,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 9,
+      "heures": 4.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -149,37 +191,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 9,
+      "heures": 5.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/wild-arms-successor-that-sony-rejected-has-been-cancelled-4-years-after-its-reveal",
           "titre": "Wild Arms Successor That Sony Rejected Has Been Cancelled, 4 Years After Its Reveal"
-        }
-      ]
-    },
-    {
-      "id": "i-assume-someone-is-being-greedy-somewhere-tim-schafer-disc",
-      "titre": "\"I assume someone is being greedy somewhere\" - Tim Schafer discusses current game industry woes following Double Fine's split with Xbox",
-      "url": "https://www.eurogamer.net/double-fine-tim-schafer-xbox-greedy",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 13.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/double-fine-tim-schafer-xbox-greedy",
-          "titre": "\"I assume someone is being greedy somewhere\" - Tim Schafer discusses current game industry woes following Double Fine's split with Xbox"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/i-just-assume-someone-is-being-greedy-double-fines-tim-schafer-says-he-doesnt-know-why-the-industry-isnt-recovering/",
-          "titre": "‘I just assume someone is being greedy’: Double Fine’s Tim Schafer says he doesn’t know why the industry isn’t recovering"
         }
       ]
     },
@@ -192,7 +210,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 7,
       "liens": [
         {
@@ -204,42 +222,6 @@ const VEILLE = {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-time-mechanic-originally-stricter",
           "titre": "The Blood of Dawnwalker's divisive time mechanic was once much stricter, but it was loosened because of \"fear\" around the game"
-        }
-      ]
-    },
-    {
-      "id": "rockstar-reveals-a-350-box-of-naughty-gta-6-collectables-you",
-      "titre": "Rockstar reveals a £350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security",
-      "url": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
-          "titre": "Rockstar reveals a £350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-collector-s-box-is-400-doesn-t-include-the-game",
-      "titre": "GTA 6 Collector's Box Is $400, Doesn't Include the Game",
-      "url": "https://www.pushsquare.com/news/2026/09/gta-6-collectors-box-is-usd400-doesnt-include-the-game",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/gta-6-collectors-box-is-usd400-doesnt-include-the-game",
-          "titre": "GTA 6 Collector's Box Is $400, Doesn't Include the Game"
         }
       ]
     },
@@ -424,6 +406,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "this-chill-procgen-driving-game-has-a-very-clever-ui-feature",
+      "titre": "This chill procgen driving game has a very clever UI feature",
+      "url": "https://www.pcgamer.com/games/this-chill-procgen-driving-game-has-a-very-clever-ui-feature/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/this-chill-procgen-driving-game-has-a-very-clever-ui-feature/",
+          "titre": "This chill procgen driving game has a very clever UI feature"
+        }
+      ]
+    },
+    {
+      "id": "so-long-sweet-prince-ubisoft-s-rogue-prince-of-persia-game",
+      "titre": "\"So Long, Sweet Prince\" - Ubisoft's Rogue Prince Of Persia Game Rolls Out Its Final Update",
+      "url": "https://www.nintendolife.com/news/2026/09/so-long-sweet-prince-ubisofts-rogue-prince-of-persia-game-rolls-out-its-final-update",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/so-long-sweet-prince-ubisofts-rogue-prince-of-persia-game-rolls-out-its-final-update",
+          "titre": "\"So Long, Sweet Prince\" - Ubisoft's Rogue Prince Of Persia Game Rolls Out Its Final Update"
+        }
+      ]
+    },
+    {
       "id": "it-s-tough-to-stand-out-in-today-s-games-industry-but-sorta",
       "titre": "It's tough to stand out in today's games industry, but 'sorta like Helldivers 2 except dog people' worked on me",
       "url": "https://www.pcgamer.com/games/third-person-shooter/its-tough-to-stand-out-in-todays-games-industry-but-sorta-like-helldivers-2-except-dog-people-worked-on-me/",
@@ -431,7 +449,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -449,31 +467,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/life-sim/14-days-in-dragon-shelter-a-play-by-play-of-my-first-season-in-the-stardew-style-farm-sim-where-dragons-help-bake-pies/",
           "titre": "14 days in Dragon Shelter: A play by play of my first season in the Stardew-style farm sim where dragons help bake pies"
-        }
-      ]
-    },
-    {
-      "id": "experimental-rpg-developer-summer-eternal-we-re-giving-away",
-      "titre": "Experimental RPG developer Summer Eternal: 'We're giving away 5% of our studio to you, the Players' in order to 'mend the trust broken in this industry a thousand times over'",
-      "url": "https://www.pcgamer.com/games/experimental-rpg-developer-summer-eternal-were-giving-away-5-percent-of-our-studio-to-you-the-players-in-order-to-mend-the-trust-broken-in-this-industry-a-thousand-times-over/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/experimental-rpg-developer-summer-eternal-were-giving-away-5-percent-of-our-studio-to-you-the-players-in-order-to-mend-the-trust-broken-in-this-industry-a-thousand-times-over/",
-          "titre": "Experimental RPG developer Summer Eternal: 'We're giving away 5% of our studio to you, the Players' in order to 'mend the trust broken in this industry a thousand times over'"
         }
       ]
     },
@@ -485,7 +485,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
@@ -503,7 +503,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.7,
       "chaleur": 6,
       "liens": [
         {
@@ -514,20 +514,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-download-24th-september-north-america-plus-3-games",
-      "titre": "Nintendo Download: 24th September (North America) - Plus 3 Games Worth Picking Up On Sale",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-24th-september-north-america-plus-3-games-worth-picking-up-on-sale",
+      "id": "rockstar-reveals-a-350-box-of-naughty-gta-6-collectables-you",
+      "titre": "Rockstar reveals a £350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security",
+      "url": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.1,
+      "heures": 12.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-24th-september-north-america-plus-3-games-worth-picking-up-on-sale",
-          "titre": "Nintendo Download: 24th September (North America) - Plus 3 Games Worth Picking Up On Sale"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
+          "titre": "Rockstar reveals a £350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-collector-s-box-is-400-doesn-t-include-the-game",
+      "titre": "GTA 6 Collector's Box Is $400, Doesn't Include the Game",
+      "url": "https://www.pushsquare.com/news/2026/09/gta-6-collectors-box-is-usd400-doesnt-include-the-game",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 12.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/gta-6-collectors-box-is-usd400-doesnt-include-the-game",
+          "titre": "GTA 6 Collector's Box Is $400, Doesn't Include the Game"
         }
       ]
     },
@@ -539,7 +557,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.6,
       "chaleur": 6,
       "liens": [
         {
@@ -557,7 +575,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.9,
       "chaleur": 6,
       "liens": [
         {
@@ -575,13 +593,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.8,
+      "heures": 26.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/nintendo-switch-2-welcome-tour-updated-to-ver-1-1-1-here-are-the-patch-notes",
           "titre": "Nintendo Switch 2 Welcome Tour Updated To Ver. 1.1.1, Here Are The Patch Notes"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-download-24th-september-north-america-plus-3-games",
+      "titre": "Nintendo Download: 24th September (North America) - Plus 3 Games Worth Picking Up On Sale",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-24th-september-north-america-plus-3-games-worth-picking-up-on-sale",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.1,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-24th-september-north-america-plus-3-games-worth-picking-up-on-sale",
+          "titre": "Nintendo Download: 24th September (North America) - Plus 3 Games Worth Picking Up On Sale"
         }
       ]
     },
@@ -593,7 +629,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.5,
       "chaleur": 5,
       "liens": [
         {
@@ -611,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.6,
       "chaleur": 5,
       "liens": [
         {
@@ -629,7 +665,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.4,
       "chaleur": 5,
       "liens": [
         {
@@ -647,7 +683,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.4,
       "chaleur": 5,
       "liens": [
         {
@@ -665,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.7,
+      "heures": 16.8,
       "chaleur": 5,
       "liens": [
         {
@@ -683,7 +719,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.8,
+      "heures": 16.8,
       "chaleur": 5,
       "liens": [
         {
@@ -701,7 +737,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 17.1,
       "chaleur": 5,
       "liens": [
         {
@@ -719,7 +755,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.9,
       "chaleur": 5,
       "liens": [
         {
@@ -737,7 +773,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 5,
       "liens": [
         {
@@ -755,31 +791,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
           "titre": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay"
-        }
-      ]
-    },
-    {
-      "id": "stellar-blade-s-switch-2-release-will-include-a-frame-genera",
-      "titre": "Stellar Blade's Switch 2 Release Will Include A Frame Generation Toggle",
-      "url": "https://www.nintendolife.com/news/2026/09/stellar-blades-switch-2-release-will-include-a-frame-generation-toggle",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 26.8,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/stellar-blades-switch-2-release-will-include-a-frame-generation-toggle",
-          "titre": "Stellar Blade's Switch 2 Release Will Include A Frame Generation Toggle"
         }
       ]
     },
@@ -791,7 +809,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.4,
+      "heures": 33.4,
       "chaleur": 5,
       "liens": [
         {
@@ -802,56 +820,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-steam-machine-handles-control-resonant-capably-but-the-p",
-      "titre": "The Steam Machine handles Control Resonant capably, but the promised Steam Deck support is a letdown",
-      "url": "https://www.rockpapershotgun.com/the-steam-machine-handles-control-resonant-capably-but-the-promised-steam-deck-support-is-a-letdown",
+      "id": "experimental-rpg-developer-summer-eternal-we-re-giving-away",
+      "titre": "Experimental RPG developer Summer Eternal: 'We're giving away 5% of our studio to you, the Players' in order to 'mend the trust broken in this industry a thousand times over'",
+      "url": "https://www.pcgamer.com/games/experimental-rpg-developer-summer-eternal-were-giving-away-5-percent-of-our-studio-to-you-the-players-in-order-to-mend-the-trust-broken-in-this-industry-a-thousand-times-over/",
       "sources": [
-        "Rock Paper Shotgun"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 34.6,
-      "chaleur": 5,
+      "heures": 5.2,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-steam-machine-handles-control-resonant-capably-but-the-promised-steam-deck-support-is-a-letdown",
-          "titre": "The Steam Machine handles Control Resonant capably, but the promised Steam Deck support is a letdown"
-        }
-      ]
-    },
-    {
-      "id": "this-one-is-especially-bad-steam-game-about-mistreating-rag",
-      "titre": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year",
-      "url": "https://www.rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 35.2,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year",
-          "titre": "\"This one is especially bad\": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year"
-        }
-      ]
-    },
-    {
-      "id": "beloved-cockney-orc-lord-of-the-rings-games-shadow-of-mordor",
-      "titre": "Beloved cockney-orc Lord of the Rings games Shadow of Mordor and Shadow of War finally make their way to Switch 2",
-      "url": "https://www.eurogamer.net/lord-of-the-rings-shadow-of-mordor-war-switch-2",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/lord-of-the-rings-shadow-of-mordor-war-switch-2",
-          "titre": "Beloved cockney-orc Lord of the Rings games Shadow of Mordor and Shadow of War finally make their way to Switch 2"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/experimental-rpg-developer-summer-eternal-were-giving-away-5-percent-of-our-studio-to-you-the-players-in-order-to-mend-the-trust-broken-in-this-industry-a-thousand-times-over/",
+          "titre": "Experimental RPG developer Summer Eternal: 'We're giving away 5% of our studio to you, the Players' in order to 'mend the trust broken in this industry a thousand times over'"
         }
       ]
     },
@@ -863,7 +845,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +863,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +899,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +917,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +935,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +971,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +989,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1025,7 +1007,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,7 +1025,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,7 +1043,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1079,31 +1061,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/achievement-hunters-can-you-identify-the-games-these-milestones-are-from/",
           "titre": "Achievement hunters: Can you identify the games these milestones are from?"
-        }
-      ]
-    },
-    {
-      "id": "control-resonant-embarrasses-me-specifically-with-a-launch-d",
-      "titre": "Control Resonant embarrasses me, specifically, with a launch day hotfix negating my main review complaint",
-      "url": "https://www.pcgamer.com/games/action/control-resonant-embarrasses-me-specifically-with-a-launch-day-hotfix-negating-my-main-review-complaint/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/control-resonant-embarrasses-me-specifically-with-a-launch-day-hotfix-negating-my-main-review-complaint/",
-          "titre": "Control Resonant embarrasses me, specifically, with a launch day hotfix negating my main review complaint"
         }
       ]
     },
@@ -1115,13 +1079,49 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.2,
       "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/the-future-of-marathon-includes-a-fungus-filled-perimeter-a-social-hub-and-a-shift-beyond-extraction",
           "titre": "The future of Marathon includes a fungus-filled Perimeter, a social hub, and a shift \"beyond extraction\""
+        }
+      ]
+    },
+    {
+      "id": "meta-announces-new-vr-glasses-that-weigh-about-100-grams-and",
+      "titre": "Meta announces new VR glasses that weigh about 100 grams and cost $1,300",
+      "url": "https://www.gamedeveloper.com/business/meta-announces-new-vr-glasses-that-weight-about-100-grams-and-cost-1-300",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 9.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/meta-announces-new-vr-glasses-that-weight-about-100-grams-and-cost-1-300",
+          "titre": "Meta announces new VR glasses that weigh about 100 grams and cost $1,300"
+        }
+      ]
+    },
+    {
+      "id": "hands-on-viture-pro-2-xr-glasses-big-screen-on-a-budget",
+      "titre": "Hands On: Viture Pro 2 XR Glasses - Big-Screen On A Budget",
+      "url": "https://www.nintendolife.com/features/hands-on-viture-pro-2-xr-glasses-big-screen-on-a-budget",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 10.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/hands-on-viture-pro-2-xr-glasses-big-screen-on-a-budget",
+          "titre": "Hands On: Viture Pro 2 XR Glasses - Big-Screen On A Budget"
         }
       ]
     }
