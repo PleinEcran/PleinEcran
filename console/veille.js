@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "25/09/2026 à 00h28",
+  "collecte": "25/09/2026 à 02h19",
   "seuil": 14,
   "sujets": [
     {
@@ -15,8 +15,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 11.5,
-      "chaleur": 18,
+      "heures": 13.3,
+      "chaleur": 17,
       "liens": [
         {
           "source": "Push Square",
@@ -53,13 +53,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.3,
       "chaleur": 12,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/age-of-empires-dev-has-half-of-studio-slashed-project-cancelled-amid-xbox-layoffs",
           "titre": "Age of Empires Dev Has Half of Studio Slashed, Project Cancelled Amid Xbox Layoffs"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starri",
+      "titre": "Nintendo Reportedly Rejected A Ubisoft Zelda Spin-Off Starring Ganondorf",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf",
+          "titre": "Nintendo Reportedly Rejected A Ubisoft Zelda Spin-Off Starring Ganondorf"
         }
       ]
     },
@@ -72,7 +90,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 12.5,
+      "heures": 14.4,
       "chaleur": 11,
       "liens": [
         {
@@ -95,7 +113,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.1,
+      "heures": 21.9,
       "chaleur": 10,
       "liens": [
         {
@@ -113,7 +131,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 2.8,
       "chaleur": 9,
       "liens": [
         {
@@ -131,7 +149,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.3,
       "chaleur": 9,
       "liens": [
         {
@@ -150,7 +168,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 12.0,
+      "heures": 13.9,
       "chaleur": 8,
       "liens": [
         {
@@ -174,7 +192,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 6.5,
+      "heures": 8.4,
       "chaleur": 7,
       "liens": [
         {
@@ -197,7 +215,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.0,
       "chaleur": 7,
       "liens": [
         {
@@ -215,7 +233,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 10.8,
       "chaleur": 7,
       "liens": [
         {
@@ -406,6 +424,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "it-s-tough-to-stand-out-in-today-s-games-industry-but-sorta",
+      "titre": "It's tough to stand out in today's games industry, but 'sorta like Helldivers 2 except dog people' worked on me",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/its-tough-to-stand-out-in-todays-games-industry-but-sorta-like-helldivers-2-except-dog-people-worked-on-me/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/its-tough-to-stand-out-in-todays-games-industry-but-sorta-like-helldivers-2-except-dog-people-worked-on-me/",
+          "titre": "It's tough to stand out in today's games industry, but 'sorta like Helldivers 2 except dog people' worked on me"
+        }
+      ]
+    },
+    {
+      "id": "14-days-in-dragon-shelter-a-play-by-play-of-my-first-season",
+      "titre": "14 days in Dragon Shelter: A play by play of my first season in the Stardew-style farm sim where dragons help bake pies",
+      "url": "https://www.pcgamer.com/games/life-sim/14-days-in-dragon-shelter-a-play-by-play-of-my-first-season-in-the-stardew-style-farm-sim-where-dragons-help-bake-pies/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/life-sim/14-days-in-dragon-shelter-a-play-by-play-of-my-first-season-in-the-stardew-style-farm-sim-where-dragons-help-bake-pies/",
+          "titre": "14 days in Dragon Shelter: A play by play of my first season in the Stardew-style farm sim where dragons help bake pies"
+        }
+      ]
+    },
+    {
       "id": "experimental-rpg-developer-summer-eternal-we-re-giving-away",
       "titre": "Experimental RPG developer Summer Eternal: 'We're giving away 5% of our studio to you, the Players' in order to 'mend the trust broken in this industry a thousand times over'",
       "url": "https://www.pcgamer.com/games/experimental-rpg-developer-summer-eternal-were-giving-away-5-percent-of-our-studio-to-you-the-players-in-order-to-mend-the-trust-broken-in-this-industry-a-thousand-times-over/",
@@ -413,175 +467,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/experimental-rpg-developer-summer-eternal-were-giving-away-5-percent-of-our-studio-to-you-the-players-in-order-to-mend-the-trust-broken-in-this-industry-a-thousand-times-over/",
           "titre": "Experimental RPG developer Summer Eternal: 'We're giving away 5% of our studio to you, the Players' in order to 'mend the trust broken in this industry a thousand times over'"
-        }
-      ]
-    },
-    {
-      "id": "hooked-on-the-brothers",
-      "titre": "Hooked on the brothers",
-      "url": "https://www.pcgamer.com/games/hooked-on-the-brothers/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/hooked-on-the-brothers/",
-          "titre": "Hooked on the brothers"
-        }
-      ]
-    },
-    {
-      "id": "love-alt-delete-is-a-y2k-horror-visual-novel-where-you-use-o",
-      "titre": "LOVE alt delete is a Y2K horror visual novel where you use one AI chatbot to help you date another that, don't worry, doesn't use the nasty generative stuff",
-      "url": "https://www.rockpapershotgun.com/love-alt-delete-is-a-y2k-horror-visual-novel-where-you-use-one-ai-chatbot-to-help-you-date-another-that-dont-worry-doesnt-use-the-nasty-generative-stuff",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/love-alt-delete-is-a-y2k-horror-visual-novel-where-you-use-one-ai-chatbot-to-help-you-date-another-that-dont-worry-doesnt-use-the-nasty-generative-stuff",
-          "titre": "LOVE alt delete is a Y2K horror visual novel where you use one AI chatbot to help you date another that, don't worry, doesn't use the nasty generative stuff"
-        }
-      ]
-    },
-    {
-      "id": "call-of-duty-cosmetic-toggle-will-cleanse-warzone-of-its-par",
-      "titre": "Call of Duty 'cosmetic toggle' will cleanse Warzone of its Party City aesthetic",
-      "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-cosmetic-toggle-will-cleanse-warzone-of-its-party-city-aesthetic/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-cosmetic-toggle-will-cleanse-warzone-of-its-party-city-aesthetic/",
-          "titre": "Call of Duty 'cosmetic toggle' will cleanse Warzone of its Party City aesthetic"
-        }
-      ]
-    },
-    {
-      "id": "cool-demo-alert-be-a-cyberpunk-shopkeeper-in-probably-stolen",
-      "titre": "Cool demo alert: be a cyberpunk shopkeeper in Probably Stolen",
-      "url": "https://www.pcgamer.com/games/sim/cool-demo-alert-be-a-cyberpunk-shopkeeper-in-probably-stolen/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/cool-demo-alert-be-a-cyberpunk-shopkeeper-in-probably-stolen/",
-          "titre": "Cool demo alert: be a cyberpunk shopkeeper in Probably Stolen"
-        }
-      ]
-    },
-    {
-      "id": "8-strong-elder-scrolls-opinions-with-over-2-500-combined-hou",
-      "titre": "8 strong Elder Scrolls opinions: With over 2,500 combined hours (and not all as stealth archers), we shout at each other about Skyrim, Morrowind, and Oblivion",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/8-strong-elder-scrolls-opinions-with-over-2-500-combined-hours-and-not-all-as-stealth-archers-we-shout-at-each-other-about-skyrim-morrowind-and-oblivion/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-elder-scrolls/8-strong-elder-scrolls-opinions-with-over-2-500-combined-hours-and-not-all-as-stealth-archers-we-shout-at-each-other-about-skyrim-morrowind-and-oblivion/",
-          "titre": "8 strong Elder Scrolls opinions: With over 2,500 combined hours (and not all as stealth archers), we shout at each other about Skyrim, Morrowind, and Oblivion"
-        }
-      ]
-    },
-    {
-      "id": "the-best-valheim-mods-for-no-nonsense-crafting-portable-buil",
-      "titre": "The best Valheim mods for no-nonsense crafting, portable building plans, and more RNG sightseeing",
-      "url": "https://www.pcgamer.com/games/survival-crafting/best-valheim-mods/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/best-valheim-mods/",
-          "titre": "The best Valheim mods for no-nonsense crafting, portable building plans, and more RNG sightseeing"
-        }
-      ]
-    },
-    {
-      "id": "thief-2-remastered-should-be-thief-2-gold",
-      "titre": "Thief 2 Remastered should be Thief 2 Gold",
-      "url": "https://www.pcgamer.com/games/thief-2-remastered-should-be-thief-2-gold/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/thief-2-remastered-should-be-thief-2-gold/",
-          "titre": "Thief 2 Remastered should be Thief 2 Gold"
-        }
-      ]
-    },
-    {
-      "id": "my-first-mmo-character-5-fraser-brown",
-      "titre": "My first MMO character #5: Fraser Brown",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-5-fraser-brown/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-5-fraser-brown/",
-          "titre": "My first MMO character #5: Fraser Brown"
-        }
-      ]
-    },
-    {
-      "id": "i-definitely-suck-at-iron-bramble-s-metroidvania-grappling-h",
-      "titre": "I definitely suck at Iron Bramble's metroidvania grappling hook platforming, but its cyber-gothic megastructure world has me hungry for more",
-      "url": "https://www.rockpapershotgun.com/i-definitely-suck-at-iron-brambles-metroidvania-grappling-hook-platforming-but-its-cyber-gothic-megastructure-world-has-me-hungry-for-more",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-definitely-suck-at-iron-brambles-metroidvania-grappling-hook-platforming-but-its-cyber-gothic-megastructure-world-has-me-hungry-for-more",
-          "titre": "I definitely suck at Iron Bramble's metroidvania grappling hook platforming, but its cyber-gothic megastructure world has me hungry for more"
         }
       ]
     },
@@ -593,7 +485,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.3,
       "chaleur": 6,
       "liens": [
         {
@@ -611,7 +503,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.7,
       "chaleur": 6,
       "liens": [
         {
@@ -629,49 +521,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-24th-september-north-america-plus-3-games-worth-picking-up-on-sale",
           "titre": "Nintendo Download: 24th September (North America) - Plus 3 Games Worth Picking Up On Sale"
-        }
-      ]
-    },
-    {
-      "id": "dutch-consumer-group-files-lawsuit-against-epic-for-misleadi",
-      "titre": "Dutch consumer group files lawsuit against Epic for misleading young players on Fortnite, seeking more than €100m in compensation",
-      "url": "https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation",
-          "titre": "Dutch consumer group files lawsuit against Epic for misleading young players on Fortnite, seeking more than €100m in compensation"
-        }
-      ]
-    },
-    {
-      "id": "rumour-zelda-movie-rumblings-suggest-a-first-trailer-might-b",
-      "titre": "Rumour: Zelda Movie Rumblings Suggest A First Trailer Might Be Around The Corner",
-      "url": "https://www.nintendolife.com/news/2026/09/rumour-zelda-movie-rumblings-suggest-a-first-trailer-might-be-around-the-corner",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/rumour-zelda-movie-rumblings-suggest-a-first-trailer-might-be-around-the-corner",
-          "titre": "Rumour: Zelda Movie Rumblings Suggest A First Trailer Might Be Around The Corner"
         }
       ]
     },
@@ -683,7 +539,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 15.6,
       "chaleur": 6,
       "liens": [
         {
@@ -701,7 +557,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 15.8,
       "chaleur": 6,
       "liens": [
         {
@@ -719,7 +575,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.0,
+      "heures": 24.8,
       "chaleur": 6,
       "liens": [
         {
@@ -730,38 +586,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "age-of-empires-developer-world-s-edge-hit-with-layoffs-follo",
-      "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision",
-      "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
+      "id": "dutch-consumer-group-files-lawsuit-against-epic-for-misleadi",
+      "titre": "Dutch consumer group files lawsuit against Epic for misleading young players on Fortnite, seeking more than €100m in compensation",
+      "url": "https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation",
       "sources": [
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 34.5,
-      "chaleur": 6,
+      "heures": 12.5,
+      "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
-          "titre": "Age of Empires developer World's Edge hit with layoffs following move to Activision"
+          "url": "https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation",
+          "titre": "Dutch consumer group files lawsuit against Epic for misleading young players on Fortnite, seeking more than €100m in compensation"
         }
       ]
     },
     {
-      "id": "former-halo-leaders-lament-effective-closure-of-halo-studios",
-      "titre": "Former Halo leaders lament effective closure of Halo Studios, as one employee finds themselves promoted and fired in same week",
-      "url": "https://www.eurogamer.net/halo-studios-closure-xbox-cuts-kiki-wolfkill-bonnie-ross",
+      "id": "rumour-zelda-movie-rumblings-suggest-a-first-trailer-might-b",
+      "titre": "Rumour: Zelda Movie Rumblings Suggest A First Trailer Might Be Around The Corner",
+      "url": "https://www.nintendolife.com/news/2026/09/rumour-zelda-movie-rumblings-suggest-a-first-trailer-might-be-around-the-corner",
       "sources": [
-        "Eurogamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 35.1,
-      "chaleur": 6,
+      "heures": 13.6,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/halo-studios-closure-xbox-cuts-kiki-wolfkill-bonnie-ross",
-          "titre": "Former Halo leaders lament effective closure of Halo Studios, as one employee finds themselves promoted and fired in same week"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/rumour-zelda-movie-rumblings-suggest-a-first-trailer-might-be-around-the-corner",
+          "titre": "Rumour: Zelda Movie Rumblings Suggest A First Trailer Might Be Around The Corner"
         }
       ]
     },
@@ -773,7 +629,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.3,
       "chaleur": 5,
       "liens": [
         {
@@ -791,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.3,
       "chaleur": 5,
       "liens": [
         {
@@ -809,7 +665,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.7,
       "chaleur": 5,
       "liens": [
         {
@@ -827,7 +683,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.8,
       "chaleur": 5,
       "liens": [
         {
@@ -845,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.1,
       "chaleur": 5,
       "liens": [
         {
@@ -863,7 +719,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 15.8,
       "chaleur": 5,
       "liens": [
         {
@@ -881,7 +737,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.4,
       "chaleur": 5,
       "liens": [
         {
@@ -899,7 +755,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.4,
       "chaleur": 5,
       "liens": [
         {
@@ -917,7 +773,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.0,
+      "heures": 26.8,
       "chaleur": 5,
       "liens": [
         {
@@ -935,7 +791,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.5,
+      "heures": 31.4,
       "chaleur": 5,
       "liens": [
         {
@@ -953,7 +809,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 32.7,
+      "heures": 34.6,
       "chaleur": 5,
       "liens": [
         {
@@ -971,7 +827,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.2,
       "chaleur": 5,
       "liens": [
         {
@@ -989,7 +845,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 34.1,
+      "heures": 35.9,
       "chaleur": 5,
       "liens": [
         {
@@ -1000,20 +856,164 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13",
-      "titre": "Sensor Tower: PC and PlayStation unit sales in Japan rise 13% to 21m during H1 2026, led by Resident Evil Requiem",
-      "url": "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem",
+      "id": "hooked-on-the-brothers",
+      "titre": "Hooked on the brothers",
+      "url": "https://www.pcgamer.com/games/hooked-on-the-brothers/",
       "sources": [
-        "GamesIndustry.biz"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 35.5,
-      "chaleur": 5,
+      "heures": 4.3,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem",
-          "titre": "Sensor Tower: PC and PlayStation unit sales in Japan rise 13% to 21m during H1 2026, led by Resident Evil Requiem"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/hooked-on-the-brothers/",
+          "titre": "Hooked on the brothers"
+        }
+      ]
+    },
+    {
+      "id": "love-alt-delete-is-a-y2k-horror-visual-novel-where-you-use-o",
+      "titre": "LOVE alt delete is a Y2K horror visual novel where you use one AI chatbot to help you date another that, don't worry, doesn't use the nasty generative stuff",
+      "url": "https://www.rockpapershotgun.com/love-alt-delete-is-a-y2k-horror-visual-novel-where-you-use-one-ai-chatbot-to-help-you-date-another-that-dont-worry-doesnt-use-the-nasty-generative-stuff",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/love-alt-delete-is-a-y2k-horror-visual-novel-where-you-use-one-ai-chatbot-to-help-you-date-another-that-dont-worry-doesnt-use-the-nasty-generative-stuff",
+          "titre": "LOVE alt delete is a Y2K horror visual novel where you use one AI chatbot to help you date another that, don't worry, doesn't use the nasty generative stuff"
+        }
+      ]
+    },
+    {
+      "id": "call-of-duty-cosmetic-toggle-will-cleanse-warzone-of-its-par",
+      "titre": "Call of Duty 'cosmetic toggle' will cleanse Warzone of its Party City aesthetic",
+      "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-cosmetic-toggle-will-cleanse-warzone-of-its-party-city-aesthetic/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-cosmetic-toggle-will-cleanse-warzone-of-its-party-city-aesthetic/",
+          "titre": "Call of Duty 'cosmetic toggle' will cleanse Warzone of its Party City aesthetic"
+        }
+      ]
+    },
+    {
+      "id": "cool-demo-alert-be-a-cyberpunk-shopkeeper-in-probably-stolen",
+      "titre": "Cool demo alert: be a cyberpunk shopkeeper in Probably Stolen",
+      "url": "https://www.pcgamer.com/games/sim/cool-demo-alert-be-a-cyberpunk-shopkeeper-in-probably-stolen/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/cool-demo-alert-be-a-cyberpunk-shopkeeper-in-probably-stolen/",
+          "titre": "Cool demo alert: be a cyberpunk shopkeeper in Probably Stolen"
+        }
+      ]
+    },
+    {
+      "id": "8-strong-elder-scrolls-opinions-with-over-2-500-combined-hou",
+      "titre": "8 strong Elder Scrolls opinions: With over 2,500 combined hours (and not all as stealth archers), we shout at each other about Skyrim, Morrowind, and Oblivion",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/8-strong-elder-scrolls-opinions-with-over-2-500-combined-hours-and-not-all-as-stealth-archers-we-shout-at-each-other-about-skyrim-morrowind-and-oblivion/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/8-strong-elder-scrolls-opinions-with-over-2-500-combined-hours-and-not-all-as-stealth-archers-we-shout-at-each-other-about-skyrim-morrowind-and-oblivion/",
+          "titre": "8 strong Elder Scrolls opinions: With over 2,500 combined hours (and not all as stealth archers), we shout at each other about Skyrim, Morrowind, and Oblivion"
+        }
+      ]
+    },
+    {
+      "id": "the-best-valheim-mods-for-no-nonsense-crafting-portable-buil",
+      "titre": "The best Valheim mods for no-nonsense crafting, portable building plans, and more RNG sightseeing",
+      "url": "https://www.pcgamer.com/games/survival-crafting/best-valheim-mods/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/best-valheim-mods/",
+          "titre": "The best Valheim mods for no-nonsense crafting, portable building plans, and more RNG sightseeing"
+        }
+      ]
+    },
+    {
+      "id": "thief-2-remastered-should-be-thief-2-gold",
+      "titre": "Thief 2 Remastered should be Thief 2 Gold",
+      "url": "https://www.pcgamer.com/games/thief-2-remastered-should-be-thief-2-gold/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/thief-2-remastered-should-be-thief-2-gold/",
+          "titre": "Thief 2 Remastered should be Thief 2 Gold"
+        }
+      ]
+    },
+    {
+      "id": "my-first-mmo-character-5-fraser-brown",
+      "titre": "My first MMO character #5: Fraser Brown",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-5-fraser-brown/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-5-fraser-brown/",
+          "titre": "My first MMO character #5: Fraser Brown"
+        }
+      ]
+    },
+    {
+      "id": "i-definitely-suck-at-iron-bramble-s-metroidvania-grappling-h",
+      "titre": "I definitely suck at Iron Bramble's metroidvania grappling hook platforming, but its cyber-gothic megastructure world has me hungry for more",
+      "url": "https://www.rockpapershotgun.com/i-definitely-suck-at-iron-brambles-metroidvania-grappling-hook-platforming-but-its-cyber-gothic-megastructure-world-has-me-hungry-for-more",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/i-definitely-suck-at-iron-brambles-metroidvania-grappling-hook-platforming-but-its-cyber-gothic-megastructure-world-has-me-hungry-for-more",
+          "titre": "I definitely suck at Iron Bramble's metroidvania grappling hook platforming, but its cyber-gothic megastructure world has me hungry for more"
         }
       ]
     },
@@ -1025,7 +1025,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,7 +1043,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,7 +1061,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1079,7 +1079,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1097,7 +1097,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1115,7 +1115,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
