@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "25/09/2026 à 16h22",
+  "collecte": "25/09/2026 à 18h22",
   "seuil": 14,
   "sujets": [
     {
@@ -12,7 +12,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 15,
       "liens": [
         {
@@ -28,6 +28,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "ubisoft-s-mario-rabbids-team-reportedly-came-close-to-making",
+      "titre": "Ubisoft's Mario + Rabbids team reportedly came close to making an \"ambitious\" Zelda game starring Ganondorf, but it wasn't to be",
+      "url": "https://www.eurogamer.net/nintendo-ubisoft-mario-rabbids-team-zelda",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 1.7,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/nintendo-ubisoft-mario-rabbids-team-zelda",
+          "titre": "Ubisoft's Mario + Rabbids team reportedly came close to making an \"ambitious\" Zelda game starring Ganondorf, but it wasn't to be"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf",
+          "titre": "Nintendo Reportedly Rejected A Ubisoft Zelda Spin-Off Starring Ganondorf"
+        }
+      ]
+    },
+    {
       "id": "colourful-jrpg-armed-fantasia-has-been-cancelled-four-years",
       "titre": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits",
       "url": "https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits",
@@ -36,7 +60,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 6.2,
+      "heures": 8.2,
       "chaleur": 14,
       "liens": [
         {
@@ -61,7 +85,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 12,
       "liens": [
         {
@@ -82,26 +106,62 @@ const VEILLE = {
       ]
     },
     {
-      "id": "podcast-halo-under-activision-what-s-next-for-xbox",
-      "titre": "Podcast: Halo under Activision – What’s next for Xbox?",
-      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-halo-under-activision-whats-next-for-xbox/",
+      "id": "i-made-the-hot-dog-vendors-in-gta-5-work-because-rockstar-ne",
+      "titre": "I made the hot dog vendors in GTA 5 work because Rockstar never did",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-made-the-hot-dog-vendors-in-gta-5-work-because-rockstar-never-did/",
       "sources": [
-        "Push Square",
-        "VGC"
+        "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 3.9,
-      "chaleur": 11,
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-halo-under-activision-whats-next-for-xbox/",
-          "titre": "Podcast: Halo under Activision – What’s next for Xbox?"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-made-the-hot-dog-vendors-in-gta-5-work-because-rockstar-never-did/",
+          "titre": "I made the hot dog vendors in GTA 5 work because Rockstar never did"
+        }
+      ]
+    },
+    {
+      "id": "control-resonant-s-post-launch-plan-includes-a-photo-mode-an",
+      "titre": "Control Resonant's post-launch plan includes a Photo Mode and New Game Plus Plus coming next month: \"Do 665 runs if you want!\"",
+      "url": "https://www.eurogamer.net/control-resonant-post-launch-plan-new-game-plus",
+      "sources": [
+        "Eurogamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 1.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/control-resonant-post-launch-plan-new-game-plus",
+          "titre": "Control Resonant's post-launch plan includes a Photo Mode and New Game Plus Plus coming next month: \"Do 665 runs if you want!\""
         },
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/xbox-is-disappearing-into-activision-and-bethesda-so-what-does-that-mean-for-ps5",
-          "titre": "Feature: Xbox Is Disappearing into Activision and Bethesda, So What Does That Mean for PS5?"
+          "url": "https://www.pushsquare.com/news/2026/09/infinite-new-gameplus-photo-mode-on-the-way-to-control-resonant-no-word-on-proper-ps5-dlc",
+          "titre": "Infinite New Game+, Photo Mode on the Way to Control Resonant, No Word on Proper PS5 DLC"
+        }
+      ]
+    },
+    {
+      "id": "a-pro-cs2-player-told-me-he-ditched-his-superstrike-gaming-m",
+      "titre": "A pro CS2 player told me he ditched his Superstrike gaming mouse for the older Superlight 2 because it was 'inconsistent'",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/a-pro-cs2-player-told-me-he-ditched-his-superstrike-gaming-mouse-for-the-older-superlight-2-because-it-was-inconsistent/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/a-pro-cs2-player-told-me-he-ditched-his-superstrike-gaming-mouse-for-the-older-superlight-2-because-it-was-inconsistent/",
+          "titre": "A pro CS2 player told me he ditched his Superstrike gaming mouse for the older Superlight 2 because it was 'inconsistent'"
         }
       ]
     },
@@ -113,13 +173,85 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 9,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/gta-6-cant-completely-sweep-this-years-goty-awards-anymore",
           "titre": "GTA 6 Can't Completely Sweep This Year's GOTY Awards Anymore"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-of-america-awarded-4-5m-in-lawsuit-from-redditor-fo",
+      "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software",
+      "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 10.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
+          "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software"
+        }
+      ]
+    },
+    {
+      "id": "soulslike-fountains-gets-a-free-switch-2-upgrade-pack-one-we",
+      "titre": "Soulslike 'Fountains' Gets A Free Switch 2 Upgrade Pack One Week After Launch",
+      "url": "https://www.nintendolife.com/news/2026/09/soulslike-fountains-gets-a-free-switch-2-upgrade-pack-one-week-after-launch",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/soulslike-fountains-gets-a-free-switch-2-upgrade-pack-one-week-after-launch",
+          "titre": "Soulslike 'Fountains' Gets A Free Switch 2 Upgrade Pack One Week After Launch"
+        }
+      ]
+    },
+    {
+      "id": "i-ve-worked-at-pc-gamer-for-18-years-these-are-the-13-games",
+      "titre": "I've worked at PC Gamer for 18 years. These are the 13 games on my Steam Wishlist",
+      "url": "https://www.pcgamer.com/games/ive-worked-at-pc-gamer-for-18-years-these-are-the-13-games-on-my-steam-wishlist/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.1,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/ive-worked-at-pc-gamer-for-18-years-these-are-the-13-games-on-my-steam-wishlist/",
+          "titre": "I've worked at PC Gamer for 18 years. These are the 13 games on my Steam Wishlist"
+        }
+      ]
+    },
+    {
+      "id": "sony-reportedly-surveying-developers-about-playstation-disc",
+      "titre": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?",
+      "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 7.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
+          "titre": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?"
         }
       ]
     },
@@ -132,8 +264,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 2.4,
-      "chaleur": 9,
+      "heures": 4.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -155,8 +287,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 9,
+      "heures": 4.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -174,8 +306,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 2.9,
-      "chaleur": 9,
+      "heures": 4.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -190,114 +322,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-of-america-awarded-4-5m-in-lawsuit-from-redditor-fo",
-      "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software",
-      "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
-          "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software"
-        }
-      ]
-    },
-    {
-      "id": "i-ve-worked-at-pc-gamer-for-18-years-these-are-the-13-games",
-      "titre": "I've worked at PC Gamer for 18 years. These are the 13 games on my Steam Wishlist",
-      "url": "https://www.pcgamer.com/games/ive-worked-at-pc-gamer-for-18-years-these-are-the-13-games-on-my-steam-wishlist/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/ive-worked-at-pc-gamer-for-18-years-these-are-the-13-games-on-my-steam-wishlist/",
-          "titre": "I've worked at PC Gamer for 18 years. These are the 13 games on my Steam Wishlist"
-        }
-      ]
-    },
-    {
-      "id": "ubisoft-switch-eshop-sale-now-live-up-to-90-off",
-      "titre": "Ubisoft Switch eShop Sale Now Live, Up To 90% Off",
-      "url": "https://www.nintendolife.com/news/2026/09/ubisoft-switch-eshop-sale-now-live-up-to-90percent-off",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/ubisoft-switch-eshop-sale-now-live-up-to-90percent-off",
-          "titre": "Ubisoft Switch eShop Sale Now Live, Up To 90% Off"
-        }
-      ]
-    },
-    {
-      "id": "the-xbox-reset-doesn-t-have-an-end-date-opinion",
-      "titre": "The Xbox reset doesn't have an end date | Opinion",
-      "url": "https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion",
-          "titre": "The Xbox reset doesn't have an end date | Opinion"
-        }
-      ]
-    },
-    {
-      "id": "sony-reportedly-surveying-developers-about-playstation-disc",
-      "titre": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?",
-      "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
-          "titre": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starri",
-      "titre": "Nintendo Reportedly Rejected A Ubisoft Zelda Spin-Off Starring Ganondorf",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 15.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf",
-          "titre": "Nintendo Reportedly Rejected A Ubisoft Zelda Spin-Off Starring Ganondorf"
-        }
-      ]
-    },
-    {
       "id": "konami-is-celebrating-the-40th-anniversary-of-castlevania-wi",
       "titre": "Konami is celebrating the 40th anniversary of Castlevania with a big retro sale and a free game",
       "url": "https://www.videogameschronicle.com/news/konami-is-celebrating-the-40th-anniversary-of-castlevania-with-a-big-retro-sale-and-a-free-game/",
@@ -306,7 +330,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 7,
       "liens": [
         {
@@ -330,7 +354,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 7,
       "liens": [
         {
@@ -353,7 +377,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 7,
       "liens": [
         {
@@ -371,7 +395,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.3,
       "chaleur": 7,
       "liens": [
         {
@@ -390,7 +414,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.0,
+      "heures": 9.0,
       "chaleur": 7,
       "liens": [
         {
@@ -604,6 +628,114 @@ const VEILLE = {
       ]
     },
     {
+      "id": "resident-evil-requiem-s-made-over-500m-since-release-but-the",
+      "titre": "Resident Evil Requiem's made over $500m since release, but the new film didn't have as big of an impact as Capcom's price drops",
+      "url": "https://www.eurogamer.net/resident-evil-requiem-500-film-capcom-price",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/resident-evil-requiem-500-film-capcom-price",
+          "titre": "Resident Evil Requiem's made over $500m since release, but the new film didn't have as big of an impact as Capcom's price drops"
+        }
+      ]
+    },
+    {
+      "id": "this-incredible-new-ps5-website-tracks-ps-store-sales-data-a",
+      "titre": "This Incredible New PS5 Website Tracks PS Store Sales Data Around the World and Your Personal Play History",
+      "url": "https://www.pushsquare.com/news/2026/09/this-incredible-new-ps5-website-tracks-ps-store-sales-data-around-the-world-and-your-personal-play-history",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/this-incredible-new-ps5-website-tracks-ps-store-sales-data-around-the-world-and-your-personal-play-history",
+          "titre": "This Incredible New PS5 Website Tracks PS Store Sales Data Around the World and Your Personal Play History"
+        }
+      ]
+    },
+    {
+      "id": "for-warhorse-s-15th-birthday-we-chatted-with-its-co-founder",
+      "titre": "For Warhorse's 15th birthday, we chatted with its co-founder about the demand for 'grown-up' RPGs, AI, why games are too cheap, and his role in the collapse of communism",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/for-warhorses-15th-birthday-we-chatted-with-its-co-founder-about-the-demand-for-grown-up-rpgs-ai-why-games-are-too-cheap-and-his-role-in-the-collapse-of-communism/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/for-warhorses-15th-birthday-we-chatted-with-its-co-founder-about-the-demand-for-grown-up-rpgs-ai-why-games-are-too-cheap-and-his-role-in-the-collapse-of-communism/",
+          "titre": "For Warhorse's 15th birthday, we chatted with its co-founder about the demand for 'grown-up' RPGs, AI, why games are too cheap, and his role in the collapse of communism"
+        }
+      ]
+    },
+    {
+      "id": "rayman-legends-retold-does-physical-media-the-right-way-on-p",
+      "titre": "Rayman Legends Retold Does Physical Media the Right Way on PS5",
+      "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-does-physical-media-the-right-way-on-ps5",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-does-physical-media-the-right-way-on-ps5",
+          "titre": "Rayman Legends Retold Does Physical Media the Right Way on PS5"
+        }
+      ]
+    },
+    {
+      "id": "everything-is-hard-but-it-turns-out-that-s-not-society-s-pr",
+      "titre": "'Everything is hard. But it turns out that’s not society’s problem, that’s my problem,' says Jensen Huang about AI development",
+      "url": "https://www.pcgamer.com/software/ai/everything-is-hard-but-it-turns-out-thats-not-societys-problem-thats-my-problem-says-jensen-huang-about-ai-development/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/everything-is-hard-but-it-turns-out-thats-not-societys-problem-thats-my-problem-says-jensen-huang-about-ai-development/",
+          "titre": "'Everything is hard. But it turns out that’s not society’s problem, that’s my problem,' says Jensen Huang about AI development"
+        }
+      ]
+    },
+    {
+      "id": "astro-bot-s-276-piece-lego-set-immortalises-the-ps5-icon-wit",
+      "titre": "Astro Bot's 276 Piece LEGO Set Immortalises the PS5 Icon with Interchangeable Eyes",
+      "url": "https://www.pushsquare.com/news/2026/09/astro-bots-276-piece-lego-set-immortalises-the-ps5-icon-with-interchangeable-eyes",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/astro-bots-276-piece-lego-set-immortalises-the-ps5-icon-with-interchangeable-eyes",
+          "titre": "Astro Bot's 276 Piece LEGO Set Immortalises the PS5 Icon with Interchangeable Eyes"
+        }
+      ]
+    },
+    {
       "id": "four-years-after-release-splatoon-3-s-player-numbers-are-on",
       "titre": "Four Years After Release, Splatoon 3's Player Numbers Are On The Up In 2026",
       "url": "https://www.nintendolife.com/news/2026/09/four-years-after-release-splatoon-3s-player-numbers-are-on-the-up-in-2026",
@@ -611,7 +743,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -629,7 +761,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -647,31 +779,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/arc-raiders-pve-matchmaking-test",
           "titre": "Arc Raiders announces a new PvE \"test\" to accommodate its surprisingly friendly players"
-        }
-      ]
-    },
-    {
-      "id": "infinite-new-game-photo-mode-on-the-way-to-control-resonant",
-      "titre": "Infinite New Game+, Photo Mode on the Way to Control Resonant, No Word on Proper PS5 DLC",
-      "url": "https://www.pushsquare.com/news/2026/09/infinite-new-gameplus-photo-mode-on-the-way-to-control-resonant-no-word-on-proper-ps5-dlc",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/infinite-new-gameplus-photo-mode-on-the-way-to-control-resonant-no-word-on-proper-ps5-dlc",
-          "titre": "Infinite New Game+, Photo Mode on the Way to Control Resonant, No Word on Proper PS5 DLC"
         }
       ]
     },
@@ -683,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -694,146 +808,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "microsoft-s-failure-to-find-a-home-for-ninja-theory-voids-th",
-      "titre": "Microsoft's failure to find a home for Ninja Theory voids the one, very tenuous upside to Senua's SGF reveal",
-      "url": "https://www.rockpapershotgun.com/microsofts-failure-to-find-a-home-for-ninja-theory-voids-the-one-very-tenuous-upside-to-senuas-sgf-reveal",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/microsofts-failure-to-find-a-home-for-ninja-theory-voids-the-one-very-tenuous-upside-to-senuas-sgf-reveal",
-          "titre": "Microsoft's failure to find a home for Ninja Theory voids the one, very tenuous upside to Senua's SGF reveal"
-        }
-      ]
-    },
-    {
-      "id": "trophy-games-acquires-airport-simulator-first-class-develope",
-      "titre": "Trophy Games acquires Airport Simulator: First Class developer Playrion from Paradox Interactive",
-      "url": "https://www.gamesindustry.biz/trophy-games-acquires-airport-simulator-first-class-developer-playrion-from-paradox-interactive",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/trophy-games-acquires-airport-simulator-first-class-developer-playrion-from-paradox-interactive",
-          "titre": "Trophy Games acquires Airport Simulator: First Class developer Playrion from Paradox Interactive"
-        }
-      ]
-    },
-    {
-      "id": "i-made-two-50-gaming-keyboards-fight-for-my-average-gamer-af",
-      "titre": "I made two $50 gaming keyboards fight for my average-gamer affections, and for me there's one clear winner",
-      "url": "https://www.pcgamer.com/hardware/gaming-keyboards/i-made-two-usd50-gaming-keyboards-fight-for-my-average-gamer-affections-and-for-me-theres-one-clear-winner/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-keyboards/i-made-two-usd50-gaming-keyboards-fight-for-my-average-gamer-affections-and-for-me-theres-one-clear-winner/",
-          "titre": "I made two $50 gaming keyboards fight for my average-gamer affections, and for me there's one clear winner"
-        }
-      ]
-    },
-    {
-      "id": "after-nearly-19-years-in-development-hell-ubisoft-s-beyond-g",
-      "titre": "After nearly 19 years in development hell, Ubisoft's Beyond Good & Evil 2 is somehow still showing signs of life",
-      "url": "https://www.eurogamer.net/beyond-good-and-evil-2-signs-of-life-writer",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/beyond-good-and-evil-2-signs-of-life-writer",
-          "titre": "After nearly 19 years in development hell, Ubisoft's Beyond Good & Evil 2 is somehow still showing signs of life"
-        }
-      ]
-    },
-    {
-      "id": "meta-unveils-ai-powered-game-tools-for-mobile-devices-and-br",
-      "titre": "Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support",
-      "url": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support",
-          "titre": "Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support"
-        }
-      ]
-    },
-    {
-      "id": "splatoon-3-s-splatfests-return-next-month-with-another-spook",
-      "titre": "Splatoon 3's Splatfests Return Next Month With Another Spooky Showdown",
-      "url": "https://www.nintendolife.com/news/2026/09/splatoon-3s-splatfests-return-next-month-with-another-spooky-showdown",
+      "id": "ubisoft-switch-eshop-sale-now-live-up-to-90-off",
+      "titre": "Ubisoft Switch eShop Sale Now Live, Up To 90% Off",
+      "url": "https://www.nintendolife.com/news/2026/09/ubisoft-switch-eshop-sale-now-live-up-to-90percent-off",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.4,
+      "heures": 4.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/splatoon-3s-splatfests-return-next-month-with-another-spooky-showdown",
-          "titre": "Splatoon 3's Splatfests Return Next Month With Another Spooky Showdown"
+          "url": "https://www.nintendolife.com/news/2026/09/ubisoft-switch-eshop-sale-now-live-up-to-90percent-off",
+          "titre": "Ubisoft Switch eShop Sale Now Live, Up To 90% Off"
         }
       ]
     },
     {
-      "id": "new-ps-portal-firmware-update-will-preserve-portable-s-batte",
-      "titre": "New PS Portal Firmware Update Will Preserve Portable's Battery Life",
-      "url": "https://www.pushsquare.com/news/2026/09/new-ps-portal-firmware-update-will-preserve-portables-battery-life",
+      "id": "the-xbox-reset-doesn-t-have-an-end-date-opinion",
+      "titre": "The Xbox reset doesn't have an end date | Opinion",
+      "url": "https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion",
       "sources": [
-        "Push Square"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 3.4,
+      "heures": 5.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/new-ps-portal-firmware-update-will-preserve-portables-battery-life",
-          "titre": "New PS Portal Firmware Update Will Preserve Portable's Battery Life"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion",
+          "titre": "The Xbox reset doesn't have an end date | Opinion"
         }
       ]
     },
     {
-      "id": "rogue-prince-of-persia-dev-now-done-with-updates-castlevania",
-      "titre": "Rogue Prince of Persia Dev Now Done with Updates, Castlevania Just Weeks Away",
-      "url": "https://www.pushsquare.com/news/2026/09/rogue-prince-of-persia-dev-now-done-with-updates-castlevania-just-weeks-away",
+      "id": "podcast-halo-under-activision-what-s-next-for-xbox",
+      "titre": "Podcast: Halo under Activision – What’s next for Xbox?",
+      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-halo-under-activision-whats-next-for-xbox/",
       "sources": [
-        "Push Square"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 3.9,
+      "heures": 5.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/rogue-prince-of-persia-dev-now-done-with-updates-castlevania-just-weeks-away",
-          "titre": "Rogue Prince of Persia Dev Now Done with Updates, Castlevania Just Weeks Away"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-halo-under-activision-whats-next-for-xbox/",
+          "titre": "Podcast: Halo under Activision – What’s next for Xbox?"
         }
       ]
     },
@@ -845,7 +869,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 6,
       "liens": [
         {
@@ -863,7 +887,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.9,
       "chaleur": 6,
       "liens": [
         {
@@ -881,7 +905,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.9,
       "chaleur": 6,
       "liens": [
         {
@@ -899,7 +923,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.9,
       "chaleur": 6,
       "liens": [
         {
@@ -918,7 +942,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 22.4,
+      "heures": 24.4,
       "chaleur": 6,
       "liens": [
         {
@@ -941,31 +965,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.0,
+      "heures": 26.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
           "titre": "Rockstar reveals a £350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security"
-        }
-      ]
-    },
-    {
-      "id": "xbox-s-version-of-playstation-s-platinum-trophy-achievement",
-      "titre": "Xbox's version of PlayStation's Platinum Trophy achievement seems to leak, and it's got a sound-effect that's 15 seconds long",
-      "url": "https://www.eurogamer.net/xbox-mythic-platinum-achievement",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 29.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-mythic-platinum-achievement",
-          "titre": "Xbox's version of PlayStation's Platinum Trophy achievement seems to leak, and it's got a sound-effect that's 15 seconds long"
         }
       ]
     },
@@ -977,7 +983,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 29.9,
+      "heures": 31.9,
       "chaleur": 6,
       "liens": [
         {
@@ -995,7 +1001,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.3,
       "chaleur": 5,
       "liens": [
         {
@@ -1013,31 +1019,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.7,
+      "heures": 25.7,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/community-reaction-xbox-restructuring-rare-ninja-theory-obsidian",
           "titre": "\"It genuinely breaks my heart\"- Confusion and frustration reign as gaming communities react to Xbox's drastic restructuring this week"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-download-24th-september-north-america-plus-3-games",
-      "titre": "Nintendo Download: 24th September (North America) - Plus 3 Games Worth Picking Up On Sale",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-24th-september-north-america-plus-3-games-worth-picking-up-on-sale",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 25.1,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-24th-september-north-america-plus-3-games-worth-picking-up-on-sale",
-          "titre": "Nintendo Download: 24th September (North America) - Plus 3 Games Worth Picking Up On Sale"
         }
       ]
     },
@@ -1049,7 +1037,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 26.6,
+      "heures": 28.6,
       "chaleur": 5,
       "liens": [
         {
@@ -1067,7 +1055,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.9,
+      "heures": 29.9,
       "chaleur": 5,
       "liens": [
         {
@@ -1085,7 +1073,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 30.4,
       "chaleur": 5,
       "liens": [
         {
@@ -1103,7 +1091,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.8,
+      "heures": 30.8,
       "chaleur": 5,
       "liens": [
         {
@@ -1121,7 +1109,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 32.4,
+      "heures": 34.4,
       "chaleur": 5,
       "liens": [
         {
@@ -1132,23 +1120,43 @@ const VEILLE = {
       ]
     },
     {
-      "id": "it-took-roughly-two-years-and-one-of-the-most-expensive-art",
-      "titre": "It took roughly two years and \"one of the most expensive art assets ever\" to get Cyberpunk 2077: Phantom Liberty's Chimera tank fight right",
-      "url": "https://www.eurogamer.net/cyberpunk-2077-phantom-liberty-chimera-tank-two-years",
+      "id": "microsoft-s-failure-to-find-a-home-for-ninja-theory-voids-th",
+      "titre": "Microsoft's failure to find a home for Ninja Theory voids the one, very tenuous upside to Senua's SGF reveal",
+      "url": "https://www.rockpapershotgun.com/microsofts-failure-to-find-a-home-for-ninja-theory-voids-the-one-very-tenuous-upside-to-senuas-sgf-reveal",
       "sources": [
-        "Eurogamer"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 4.3,
       "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/cyberpunk-2077-phantom-liberty-chimera-tank-two-years",
-          "titre": "It took roughly two years and \"one of the most expensive art assets ever\" to get Cyberpunk 2077: Phantom Liberty's Chimera tank fight right"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/microsofts-failure-to-find-a-home-for-ninja-theory-voids-the-one-very-tenuous-upside-to-senuas-sgf-reveal",
+          "titre": "Microsoft's failure to find a home for Ninja Theory voids the one, very tenuous upside to Senua's SGF reveal"
+        }
+      ]
+    },
+    {
+      "id": "trophy-games-acquires-airport-simulator-first-class-develope",
+      "titre": "Trophy Games acquires Airport Simulator: First Class developer Playrion from Paradox Interactive",
+      "url": "https://www.gamesindustry.biz/trophy-games-acquires-airport-simulator-first-class-developer-playrion-from-paradox-interactive",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/trophy-games-acquires-airport-simulator-first-class-developer-playrion-from-paradox-interactive",
+          "titre": "Trophy Games acquires Airport Simulator: First Class developer Playrion from Paradox Interactive"
         }
       ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Ubisoft's Mario + Rabbids team reportedly came close to making an \"ambitious\" Zelda game starring Ganondorf, but it wasn't to be"
+  ]
 };
