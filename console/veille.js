@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "26/09/2026 à 06h24",
+  "collecte": "26/09/2026 à 08h21",
   "seuil": 14,
   "sujets": [
     {
@@ -12,7 +12,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 18.2,
+      "heures": 20.2,
       "chaleur": 14,
       "liens": [
         {
@@ -28,6 +28,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "what-we-ve-been-playing-i-curl-up-on-my-sofa-and-breed-my-ar",
+      "titre": "What we've been playing - \"I curl up on my sofa and breed my army of battle cats\"",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-i-curl-up-on-my-sofa-and-breed-my-army-of-battle-cats",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 1.4,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/what-weve-been-playing-i-curl-up-on-my-sofa-and-breed-my-army-of-battle-cats",
+          "titre": "What we've been playing - \"I curl up on my sofa and breed my army of battle cats\""
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-401",
+          "titre": "What are we all playing this weekend?"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-651",
+          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 651"
+        }
+      ]
+    },
+    {
       "id": "colourful-jrpg-armed-fantasia-has-been-cancelled-four-years",
       "titre": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits",
       "url": "https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits",
@@ -35,7 +65,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.2,
+      "heures": 22.1,
       "chaleur": 10,
       "liens": [
         {
@@ -54,8 +84,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 10.8,
-      "chaleur": 9,
+      "heures": 12.8,
+      "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
@@ -77,7 +107,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 24.3,
       "chaleur": 8,
       "liens": [
         {
@@ -95,7 +125,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.4,
       "chaleur": 7,
       "liens": [
         {
@@ -114,7 +144,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.5,
+      "heures": 7.4,
       "chaleur": 7,
       "liens": [
         {
@@ -137,7 +167,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 7,
       "liens": [
         {
@@ -155,7 +185,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 15.7,
       "chaleur": 7,
       "liens": [
         {
@@ -173,7 +203,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.3,
       "chaleur": 7,
       "liens": [
         {
@@ -400,6 +430,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "d-i-c-e-summit",
+      "titre": "D.I.C.E. Summit",
+      "url": "https://www.gamedeveloper.com/keyword/dice-summit",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/keyword/dice-summit",
+          "titre": "D.I.C.E. Summit"
+        }
+      ]
+    },
+    {
       "id": "hell-is-us-shifts-switch-2-launch-due-to-very-busy-september",
       "titre": "Hell Is Us Shifts Switch 2 Launch Due To \"Very Busy\" September Release Window",
       "url": "https://www.nintendolife.com/news/2026/09/hell-is-us-shifts-switch-2-launch-due-to-very-busy-september-release-window",
@@ -407,7 +455,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 6,
       "liens": [
         {
@@ -425,7 +473,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 9.9,
       "chaleur": 6,
       "liens": [
         {
@@ -443,7 +491,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.1,
       "chaleur": 6,
       "liens": [
         {
@@ -461,7 +509,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 6,
       "liens": [
         {
@@ -480,7 +528,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 6,
       "liens": [
         {
@@ -503,7 +551,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 17.6,
       "chaleur": 6,
       "liens": [
         {
@@ -521,7 +569,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.4,
       "chaleur": 6,
       "liens": [
         {
@@ -539,7 +587,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.3,
       "chaleur": 6,
       "liens": [
         {
@@ -557,7 +605,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.9,
       "chaleur": 5,
       "liens": [
         {
@@ -575,7 +623,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 5,
       "liens": [
         {
@@ -593,7 +641,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 5,
       "liens": [
         {
@@ -611,7 +659,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.4,
       "chaleur": 5,
       "liens": [
         {
@@ -629,7 +677,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 23.9,
       "chaleur": 5,
       "liens": [
         {
@@ -647,7 +695,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.9,
+      "heures": 25.9,
       "chaleur": 5,
       "liens": [
         {
@@ -665,7 +713,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.3,
+      "heures": 30.3,
       "chaleur": 5,
       "liens": [
         {
@@ -683,7 +731,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -701,7 +749,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -719,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -737,7 +785,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -755,7 +803,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -773,31 +821,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-open-the-auxiliary-lines/",
           "titre": "How to open the auxiliary lines in Part 6 of Silent Hill: Townfall"
-        }
-      ]
-    },
-    {
-      "id": "talking-point-what-are-you-playing-this-weekend-issue-651",
-      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 651",
-      "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-651",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 7.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-651",
-          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 651"
         }
       ]
     },
@@ -809,7 +839,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -827,7 +857,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -845,8 +875,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -863,8 +893,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -881,8 +911,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -899,8 +929,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -917,8 +947,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -935,8 +965,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -953,8 +983,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -971,7 +1001,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.3,
       "chaleur": 3,
       "liens": [
         {
@@ -989,7 +1019,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 14.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +1037,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,7 +1055,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,7 +1073,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,7 +1091,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1079,31 +1109,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/features/poll-what-review-score-would-you-give-marvels-wolverine",
           "titre": "Poll: What Review Score Would You Give Marvel's Wolverine?"
-        }
-      ]
-    },
-    {
-      "id": "four-years-after-release-splatoon-3-s-player-numbers-are-on",
-      "titre": "Four Years After Release, Splatoon 3's Player Numbers Are On The Up In 2026",
-      "url": "https://www.nintendolife.com/news/2026/09/four-years-after-release-splatoon-3s-player-numbers-are-on-the-up-in-2026",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 14.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/four-years-after-release-splatoon-3s-player-numbers-are-on-the-up-in-2026",
-          "titre": "Four Years After Release, Splatoon 3's Player Numbers Are On The Up In 2026"
         }
       ]
     }
