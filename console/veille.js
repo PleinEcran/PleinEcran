@@ -1,8 +1,38 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "26/09/2026 à 18h22",
+  "collecte": "26/09/2026 à 20h19",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "microsoft-ceo-says-xbox-s-streamlining-is-great-to-see-despi",
+      "titre": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs",
+      "url": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 1.0,
+      "chaleur": 17,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
+          "titre": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/microsoft-ceo-says-xboxs-streamlining-process-is-great-to-see-following-its-most-recent-round-of-layoffs/",
+          "titre": "Microsoft CEO says Xbox's 'streamlining' process is 'great to see' following its most recent round of layoffs"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/microsoft-ceo-says-streamlining-of-xbox-business-is-great-to-see/",
+          "titre": "Microsoft CEO says ‘streamlining’ of Xbox business is ‘great to see’"
+        }
+      ]
+    },
     {
       "id": "gta-veteran-s-mindseye-studio-build-a-rocket-boy-has-entered",
       "titre": "GTA veteran's MindsEye studio Build a Rocket Boy has entered administration, following yet more reports of layoffs",
@@ -12,7 +42,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 30.2,
+      "heures": 32.1,
       "chaleur": 14,
       "liens": [
         {
@@ -37,7 +67,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 8.1,
+      "heures": 10.0,
       "chaleur": 13,
       "liens": [
         {
@@ -67,7 +97,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 12,
       "liens": [
         {
@@ -88,48 +118,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "microsoft-ceo-says-xbox-s-streamlining-process-is-great-to-s",
-      "titre": "Microsoft CEO says Xbox's 'streamlining' process is 'great to see' following its most recent round of layoffs",
-      "url": "https://www.pcgamer.com/gaming-industry/microsoft-ceo-says-xboxs-streamlining-process-is-great-to-see-following-its-most-recent-round-of-layoffs/",
-      "sources": [
-        "PC Gamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 5.0,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/microsoft-ceo-says-xboxs-streamlining-process-is-great-to-see-following-its-most-recent-round-of-layoffs/",
-          "titre": "Microsoft CEO says Xbox's 'streamlining' process is 'great to see' following its most recent round of layoffs"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/microsoft-ceo-says-streamlining-of-xbox-business-is-great-to-see/",
-          "titre": "Microsoft CEO says ‘streamlining’ of Xbox business is ‘great to see’"
-        }
-      ]
-    },
-    {
-      "id": "the-elder-scrolls-online-s-devs-are-pushing-through-hard-tim",
-      "titre": "The Elder Scrolls Online's devs are pushing through hard times after layoffs and delays: 'We didn't want to rush to just hit a date'",
-      "url": "https://www.pcgamer.com/games/mmo/the-elder-scrolls-onlines-devs-are-pushing-through-hard-times-after-layoffs-and-delays-we-didnt-want-to-rush-to-just-hit-a-date/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/the-elder-scrolls-onlines-devs-are-pushing-through-hard-times-after-layoffs-and-delays-we-didnt-want-to-rush-to-just-hit-a-date/",
-          "titre": "The Elder Scrolls Online's devs are pushing through hard times after layoffs and delays: 'We didn't want to rush to just hit a date'"
-        }
-      ]
-    },
-    {
       "id": "colourful-jrpg-armed-fantasia-has-been-cancelled-four-years",
       "titre": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits",
       "url": "https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits",
@@ -137,7 +125,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 32.2,
+      "heures": 34.1,
       "chaleur": 10,
       "liens": [
         {
@@ -156,7 +144,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 0.5,
+      "heures": 2.5,
       "chaleur": 9,
       "liens": [
         {
@@ -172,6 +160,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "the-elder-scrolls-online-s-devs-are-pushing-through-hard-tim",
+      "titre": "The Elder Scrolls Online's devs are pushing through hard times after layoffs and delays: 'We didn't want to rush to just hit a date'",
+      "url": "https://www.pcgamer.com/games/mmo/the-elder-scrolls-onlines-devs-are-pushing-through-hard-times-after-layoffs-and-delays-we-didnt-want-to-rush-to-just-hit-a-date/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mmo/the-elder-scrolls-onlines-devs-are-pushing-through-hard-times-after-layoffs-and-delays-we-didnt-want-to-rush-to-just-hit-a-date/",
+          "titre": "The Elder Scrolls Online's devs are pushing through hard times after layoffs and delays: 'We didn't want to rush to just hit a date'"
+        }
+      ]
+    },
+    {
+      "id": "xbox-allegedly-paying-a-fraction-of-the-400-million-budget-k",
+      "titre": "Xbox Allegedly Paying a 'Fraction' of the $400 Million Budget Kojima Is Rumoured to Have Quoted Sony for Physint",
+      "url": "https://www.pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint",
+          "titre": "Xbox Allegedly Paying a 'Fraction' of the $400 Million Budget Kojima Is Rumoured to Have Quoted Sony for Physint"
+        }
+      ]
+    },
+    {
+      "id": "countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore",
+      "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #2 - A Sophomore Slump?",
+      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore-slump",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore-slump",
+          "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #2 - A Sophomore Slump?"
+        }
+      ]
+    },
+    {
       "id": "do-665-runs-if-you-want-control-resonant-is-getting-a-new-g",
       "titre": "\"Do 665 runs if you want!\": Control Resonant is getting a new game++ mode next month, and don't worry you happy snappers, a photo mode is on the way too",
       "url": "https://www.rockpapershotgun.com/do-665-runs-if-you-want-control-resonant-is-getting-a-new-game-mode-next-month-and-dont-worry-you-happy-snappers-a-photo-mode-is-on-the-way-too",
@@ -180,8 +222,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 2.4,
-      "chaleur": 9,
+      "heures": 4.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -196,42 +238,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore",
-      "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #2 - A Sophomore Slump?",
-      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore-slump",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore-slump",
-          "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #2 - A Sophomore Slump?"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-of-america-awarded-4-5m-in-lawsuit-from-redditor-fo",
-      "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software",
-      "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 34.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
-          "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software"
-        }
-      ]
-    },
-    {
       "id": "guide-best-castlevania-games-ranked-switch-nintendo-consoles",
       "titre": "Guide: Best Castlevania Games, Ranked - Switch & Nintendo Consoles",
       "url": "https://www.nintendolife.com/guides/best-castlevania-games-ranked-switch-and-nintendo-consoles",
@@ -239,7 +245,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.2,
       "chaleur": 7,
       "liens": [
         {
@@ -257,7 +263,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.7,
+      "heures": 27.7,
       "chaleur": 7,
       "liens": [
         {
@@ -275,7 +281,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.4,
+      "heures": 33.3,
       "chaleur": 7,
       "liens": [
         {
@@ -520,6 +526,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "feature-going-platinum-sonic-origins-sends-me-back-to-the-ge",
+      "titre": "Feature: Going Platinum: Sonic Origins Sends Me Back to the Genesis of My Own Gaming History",
+      "url": "https://www.pushsquare.com/features/going-platinum-sonic-origins-sends-me-back-to-the-genesis-of-my-own-gaming-history",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/going-platinum-sonic-origins-sends-me-back-to-the-genesis-of-my-own-gaming-history",
+          "titre": "Feature: Going Platinum: Sonic Origins Sends Me Back to the Genesis of My Own Gaming History"
+        }
+      ]
+    },
+    {
+      "id": "another-live-service-ps5-game-bites-the-dust-but-it-ll-be-tr",
+      "titre": "Another Live Service PS5 Game Bites the Dust, But It'll Be Transformed into an Offline Title",
+      "url": "https://www.pushsquare.com/news/2026/09/another-live-service-ps5-game-bites-the-dust-but-itll-be-transformed-into-an-offline-title",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/another-live-service-ps5-game-bites-the-dust-but-itll-be-transformed-into-an-offline-title",
+          "titre": "Another Live Service PS5 Game Bites the Dust, But It'll Be Transformed into an Offline Title"
+        }
+      ]
+    },
+    {
       "id": "ps5-s-welcome-hub-adds-animated-the-last-of-us-wallpaper",
       "titre": "PS5's Welcome Hub Adds Animated The Last of Us Wallpaper",
       "url": "https://www.pushsquare.com/news/2026/09/ps5s-welcome-hub-adds-animated-the-last-of-us-wallpaper",
@@ -527,31 +569,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/ps5s-welcome-hub-adds-animated-the-last-of-us-wallpaper",
           "titre": "PS5's Welcome Hub Adds Animated The Last of Us Wallpaper"
-        }
-      ]
-    },
-    {
-      "id": "sony-spooked-by-rumoured-400-million-budget-for-hideo-kojima",
-      "titre": "Sony Spooked by Rumoured $400 Million Budget for Hideo Kojima's Physint",
-      "url": "https://www.pushsquare.com/news/2026/09/sony-spooked-by-rumoured-usd400-million-budget-for-hideo-kojimas-physint",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 0.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/sony-spooked-by-rumoured-usd400-million-budget-for-hideo-kojimas-physint",
-          "titre": "Sony Spooked by Rumoured $400 Million Budget for Hideo Kojima's Physint"
         }
       ]
     },
@@ -563,67 +587,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/i-saw-the-future-and-it-literally-stinks/",
           "titre": "I saw the future and it literally stinks"
-        }
-      ]
-    },
-    {
-      "id": "the-last-of-us-day-celebrations-will-bring-partnerships-and",
-      "titre": "The Last of Us Day Celebrations Will Bring Partnerships and Collaborations, Season 3 Casting News Announced",
-      "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-celebrations-will-bring-partnerships-and-collaborations-season-3-casting-news-announced",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-celebrations-will-bring-partnerships-and-collaborations-season-3-casting-news-announced",
-          "titre": "The Last of Us Day Celebrations Will Bring Partnerships and Collaborations, Season 3 Casting News Announced"
-        }
-      ]
-    },
-    {
-      "id": "what-s-the-weirdest-thing-that-happened-to-you-in-a-tabletop",
-      "titre": "What's the weirdest thing that happened to you in a tabletop RPG?",
-      "url": "https://www.pcgamer.com/games/rpg/whats-the-weirdest-thing-that-happened-to-you-in-a-tabletop-rpg/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/whats-the-weirdest-thing-that-happened-to-you-in-a-tabletop-rpg/",
-          "titre": "What's the weirdest thing that happened to you in a tabletop RPG?"
-        }
-      ]
-    },
-    {
-      "id": "castlevania-celebrates-turning-40-by-giving-away-the-origina",
-      "titre": "Castlevania celebrates turning 40 by giving away the original game for free",
-      "url": "https://www.eurogamer.net/castlevania-40th-anniversary-free-original-game-belmonts-curse",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/castlevania-40th-anniversary-free-original-game-belmonts-curse",
-          "titre": "Castlevania celebrates turning 40 by giving away the original game for free"
         }
       ]
     },
@@ -636,7 +606,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 17.5,
+      "heures": 19.4,
       "chaleur": 6,
       "liens": [
         {
@@ -659,7 +629,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.3,
       "chaleur": 6,
       "liens": [
         {
@@ -677,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.3,
       "chaleur": 5,
       "liens": [
         {
@@ -695,7 +665,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 21.9,
       "chaleur": 5,
       "liens": [
         {
@@ -713,7 +683,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.9,
+      "heures": 27.8,
       "chaleur": 5,
       "liens": [
         {
@@ -731,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 30.3,
       "chaleur": 5,
       "liens": [
         {
@@ -749,7 +719,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 31.3,
       "chaleur": 5,
       "liens": [
         {
@@ -767,7 +737,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 29.9,
+      "heures": 31.9,
       "chaleur": 5,
       "liens": [
         {
@@ -785,7 +755,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.4,
+      "heures": 32.3,
       "chaleur": 5,
       "liens": [
         {
@@ -803,13 +773,67 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 33.9,
+      "heures": 35.8,
       "chaleur": 5,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/prince-of-persia-the-lost-crown-is-free-to-play-in-its-entirety-on-switch-for-the-next-week/",
           "titre": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week"
+        }
+      ]
+    },
+    {
+      "id": "the-last-of-us-day-celebrations-will-bring-partnerships-and",
+      "titre": "The Last of Us Day Celebrations Will Bring Partnerships and Collaborations, Season 3 Casting News Announced",
+      "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-celebrations-will-bring-partnerships-and-collaborations-season-3-casting-news-announced",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-celebrations-will-bring-partnerships-and-collaborations-season-3-casting-news-announced",
+          "titre": "The Last of Us Day Celebrations Will Bring Partnerships and Collaborations, Season 3 Casting News Announced"
+        }
+      ]
+    },
+    {
+      "id": "what-s-the-weirdest-thing-that-happened-to-you-in-a-tabletop",
+      "titre": "What's the weirdest thing that happened to you in a tabletop RPG?",
+      "url": "https://www.pcgamer.com/games/rpg/whats-the-weirdest-thing-that-happened-to-you-in-a-tabletop-rpg/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/whats-the-weirdest-thing-that-happened-to-you-in-a-tabletop-rpg/",
+          "titre": "What's the weirdest thing that happened to you in a tabletop RPG?"
+        }
+      ]
+    },
+    {
+      "id": "castlevania-celebrates-turning-40-by-giving-away-the-origina",
+      "titre": "Castlevania celebrates turning 40 by giving away the original game for free",
+      "url": "https://www.eurogamer.net/castlevania-40th-anniversary-free-original-game-belmonts-curse",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/castlevania-40th-anniversary-free-original-game-belmonts-curse",
+          "titre": "Castlevania celebrates turning 40 by giving away the original game for free"
         }
       ]
     },
@@ -821,7 +845,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.0,
       "chaleur": 4,
       "liens": [
         {
@@ -839,7 +863,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -857,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -875,7 +899,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -893,7 +917,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -911,7 +935,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -929,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -947,7 +971,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -965,7 +989,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -983,8 +1007,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1001,7 +1025,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,7 +1043,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 20.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1037,7 +1061,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 20.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1055,7 +1079,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 20.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1073,7 +1097,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1091,7 +1115,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.1,
+      "heures": 21.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1109,7 +1133,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.2,
+      "heures": 22.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1118,25 +1142,9 @@ const VEILLE = {
           "titre": "Guess who patented a new system for in-game ads"
         }
       ]
-    },
-    {
-      "id": "the-eyes-of-valve-s-creepy-portrait-are-glowing-again",
-      "titre": "The eyes of Valve's creepy portrait are glowing again",
-      "url": "https://www.pcgamer.com/games/moba/the-eyes-of-valves-creepy-portrait-are-glowing-again/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/moba/the-eyes-of-valves-creepy-portrait-are-glowing-again/",
-          "titre": "The eyes of Valve's creepy portrait are glowing again"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs"
+  ]
 };
