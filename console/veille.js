@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "26/09/2026 à 04h19",
+  "collecte": "26/09/2026 à 06h24",
   "seuil": 14,
   "sujets": [
     {
@@ -12,7 +12,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 16.2,
+      "heures": 18.2,
       "chaleur": 14,
       "liens": [
         {
@@ -35,13 +35,55 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 20.2,
       "chaleur": 10,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits",
           "titre": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits"
+        }
+      ]
+    },
+    {
+      "id": "what-insiders-say-halo-studios-was-up-to-before-losing-halo",
+      "titre": "What insiders say Halo Studios was up to before losing Halo: 'The next Halo game was years away'",
+      "url": "https://www.pcgamer.com/games/halo/what-insiders-say-halo-studios-was-up-to-before-losing-halo-the-next-halo-game-was-years-away/",
+      "sources": [
+        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 10.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/halo/what-insiders-say-halo-studios-was-up-to-before-losing-halo-the-next-halo-game-was-years-away/",
+          "titre": "What insiders say Halo Studios was up to before losing Halo: 'The next Halo game was years away'"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-halo-under-activision-whats-next-for-xbox/",
+          "titre": "Podcast: Halo under Activision – What’s next for Xbox?"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-of-america-awarded-4-5m-in-lawsuit-from-redditor-fo",
+      "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software",
+      "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 22.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
+          "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software"
         }
       ]
     },
@@ -53,8 +95,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 9,
+      "heures": 4.5,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -72,8 +114,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 3.4,
-      "chaleur": 9,
+      "heures": 5.5,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -88,26 +130,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "what-insiders-say-halo-studios-was-up-to-before-losing-halo",
-      "titre": "What insiders say Halo Studios was up to before losing Halo: 'The next Halo game was years away'",
-      "url": "https://www.pcgamer.com/games/halo/what-insiders-say-halo-studios-was-up-to-before-losing-halo-the-next-halo-game-was-years-away/",
+      "id": "gta-6-fronts-next-game-informer-cover-with-new-info-and-scre",
+      "titre": "GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots",
+      "url": "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots",
       "sources": [
-        "PC Gamer",
-        "VGC"
+        "Push Square"
       ],
-      "reprises": 2,
-      "heures": 8.8,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 6.4,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/halo/what-insiders-say-halo-studios-was-up-to-before-losing-halo-the-next-halo-game-was-years-away/",
-          "titre": "What insiders say Halo Studios was up to before losing Halo: 'The next Halo game was years away'"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-halo-under-activision-whats-next-for-xbox/",
-          "titre": "Podcast: Halo under Activision – What’s next for Xbox?"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots",
+          "titre": "GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots"
         }
       ]
     },
@@ -119,91 +155,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 8,
+      "heures": 13.8,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/nintendo-ubisoft-mario-rabbids-team-zelda",
           "titre": "Ubisoft's Mario + Rabbids team reportedly came close to making an \"ambitious\" Zelda game starring Ganondorf, but it wasn't to be"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-of-america-awarded-4-5m-in-lawsuit-from-redditor-fo",
-      "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software",
-      "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 20.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
-          "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-fronts-next-game-informer-cover-with-new-info-and-scre",
-      "titre": "GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots",
-      "url": "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 4.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots",
-          "titre": "GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots"
-        }
-      ]
-    },
-    {
-      "id": "i-made-the-hot-dog-vendors-in-gta-5-work-because-rockstar-ne",
-      "titre": "I made the hot dog vendors in GTA 5 work because Rockstar never did",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-made-the-hot-dog-vendors-in-gta-5-work-because-rockstar-never-did/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-made-the-hot-dog-vendors-in-gta-5-work-because-rockstar-never-did/",
-          "titre": "I made the hot dog vendors in GTA 5 work because Rockstar never did"
-        }
-      ]
-    },
-    {
-      "id": "control-resonant-s-post-launch-plan-includes-a-photo-mode-an",
-      "titre": "Control Resonant's post-launch plan includes a Photo Mode and New Game Plus Plus coming next month: \"Do 665 runs if you want!\"",
-      "url": "https://www.eurogamer.net/control-resonant-post-launch-plan-new-game-plus",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 11.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/control-resonant-post-launch-plan-new-game-plus",
-          "titre": "Control Resonant's post-launch plan includes a Photo Mode and New Game Plus Plus coming next month: \"Do 665 runs if you want!\""
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/infinite-new-gameplus-photo-mode-on-the-way-to-control-resonant-no-word-on-proper-ps5-dlc",
-          "titre": "Infinite New Game+, Photo Mode on the Way to Control Resonant, No Word on Proper PS5 DLC"
         }
       ]
     },
@@ -215,7 +173,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.4,
       "chaleur": 7,
       "liens": [
         {
@@ -424,20 +382,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "drop-everything-and-grab-the-popcorn-majuular-s-4-5-hour-doc",
-      "titre": "Drop everything and grab the popcorn: Majuular's 4.5-hour documentary on Ultima Online is here to devour your weekend",
-      "url": "https://www.pcgamer.com/games/rpg/drop-everything-and-grab-the-popcorn-majuulars-4-5-hour-documentary-on-ultima-online-is-here-to-devour-your-weekend/",
+      "id": "pax-east",
+      "titre": "PAX East",
+      "url": "https://www.gamedeveloper.com/series/pax-east",
       "sources": [
-        "PC Gamer"
+        "Game Developer"
       ],
       "reprises": 1,
-      "heures": 2.2,
+      "heures": 0.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/drop-everything-and-grab-the-popcorn-majuulars-4-5-hour-documentary-on-ultima-online-is-here-to-devour-your-weekend/",
-          "titre": "Drop everything and grab the popcorn: Majuular's 4.5-hour documentary on Ultima Online is here to devour your weekend"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/series/pax-east",
+          "titre": "PAX East"
         }
       ]
     },
@@ -449,7 +407,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 6,
       "liens": [
         {
@@ -467,7 +425,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 8.0,
       "chaleur": 6,
       "liens": [
         {
@@ -485,7 +443,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.2,
       "chaleur": 6,
       "liens": [
         {
@@ -496,20 +454,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "soulslike-fountains-gets-a-free-switch-2-upgrade-pack-one-we",
-      "titre": "Soulslike 'Fountains' Gets A Free Switch 2 Upgrade Pack One Week After Launch",
-      "url": "https://www.nintendolife.com/news/2026/09/soulslike-fountains-gets-a-free-switch-2-upgrade-pack-one-week-after-launch",
+      "id": "i-made-the-hot-dog-vendors-in-gta-5-work-because-rockstar-ne",
+      "titre": "I made the hot dog vendors in GTA 5 work because Rockstar never did",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-made-the-hot-dog-vendors-in-gta-5-work-because-rockstar-never-did/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.8,
+      "heures": 13.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/soulslike-fountains-gets-a-free-switch-2-upgrade-pack-one-week-after-launch",
-          "titre": "Soulslike 'Fountains' Gets A Free Switch 2 Upgrade Pack One Week After Launch"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-made-the-hot-dog-vendors-in-gta-5-work-because-rockstar-never-did/",
+          "titre": "I made the hot dog vendors in GTA 5 work because Rockstar never did"
+        }
+      ]
+    },
+    {
+      "id": "control-resonant-s-post-launch-plan-includes-a-photo-mode-an",
+      "titre": "Control Resonant's post-launch plan includes a Photo Mode and New Game Plus Plus coming next month: \"Do 665 runs if you want!\"",
+      "url": "https://www.eurogamer.net/control-resonant-post-launch-plan-new-game-plus",
+      "sources": [
+        "Eurogamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 13.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/control-resonant-post-launch-plan-new-game-plus",
+          "titre": "Control Resonant's post-launch plan includes a Photo Mode and New Game Plus Plus coming next month: \"Do 665 runs if you want!\""
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/infinite-new-gameplus-photo-mode-on-the-way-to-control-resonant-no-word-on-proper-ps5-dlc",
+          "titre": "Infinite New Game+, Photo Mode on the Way to Control Resonant, No Word on Proper PS5 DLC"
         }
       ]
     },
@@ -521,7 +503,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.7,
       "chaleur": 6,
       "liens": [
         {
@@ -539,7 +521,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.4,
       "chaleur": 6,
       "liens": [
         {
@@ -557,7 +539,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 18.3,
+      "heures": 20.4,
       "chaleur": 6,
       "liens": [
         {
@@ -568,44 +550,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "once-upon-a-time-the-blood-of-dawnwalker-s-timer-mechanic-wa",
-      "titre": "Once upon a time The Blood of Dawnwalker's timer mechanic was a lot tougher, and it's because of all those pre-release complaints that it was made easier",
-      "url": "https://www.rockpapershotgun.com/once-upon-a-time-the-blood-of-dawnwalkers-timer-mechanic-was-a-lot-tougher-and-its-because-of-all-those-pre-release-complaints-that-it-was-made-easier",
+      "id": "soulslike-fountains-gets-a-free-switch-2-upgrade-pack-one-we",
+      "titre": "Soulslike 'Fountains' Gets A Free Switch 2 Upgrade Pack One Week After Launch",
+      "url": "https://www.nintendolife.com/news/2026/09/soulslike-fountains-gets-a-free-switch-2-upgrade-pack-one-week-after-launch",
       "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 34.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/once-upon-a-time-the-blood-of-dawnwalkers-timer-mechanic-was-a-lot-tougher-and-its-because-of-all-those-pre-release-complaints-that-it-was-made-easier",
-          "titre": "Once upon a time The Blood of Dawnwalker's timer mechanic was a lot tougher, and it's because of all those pre-release complaints that it was made easier"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-time-mechanic-originally-stricter",
-          "titre": "The Blood of Dawnwalker's divisive time mechanic was once much stricter, but it was loosened because of \"fear\" around the game"
-        }
-      ]
-    },
-    {
-      "id": "rockstar-reveals-a-350-box-of-naughty-gta-6-collectables-you",
-      "titre": "Rockstar reveals a £350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security",
-      "url": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
-      "sources": [
-        "Eurogamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 36.0,
-      "chaleur": 6,
+      "heures": 13.9,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
-          "titre": "Rockstar reveals a £350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/soulslike-fountains-gets-a-free-switch-2-upgrade-pack-one-week-after-launch",
+          "titre": "Soulslike 'Fountains' Gets A Free Switch 2 Upgrade Pack One Week After Launch"
         }
       ]
     },
@@ -617,7 +575,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.4,
       "chaleur": 5,
       "liens": [
         {
@@ -635,7 +593,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.4,
       "chaleur": 5,
       "liens": [
         {
@@ -653,7 +611,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.4,
       "chaleur": 5,
       "liens": [
         {
@@ -671,7 +629,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 21.9,
       "chaleur": 5,
       "liens": [
         {
@@ -689,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.8,
+      "heures": 23.9,
       "chaleur": 5,
       "liens": [
         {
@@ -707,7 +665,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.2,
+      "heures": 28.3,
       "chaleur": 5,
       "liens": [
         {
@@ -718,20 +676,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "it-genuinely-breaks-my-heart-confusion-and-frustration-reig",
-      "titre": "\"It genuinely breaks my heart\"- Confusion and frustration reign as gaming communities react to Xbox's drastic restructuring this week",
-      "url": "https://www.eurogamer.net/community-reaction-xbox-restructuring-rare-ninja-theory-obsidian",
+      "id": "drop-everything-and-grab-the-popcorn-majuular-s-4-5-hour-doc",
+      "titre": "Drop everything and grab the popcorn: Majuular's 4.5-hour documentary on Ultima Online is here to devour your weekend",
+      "url": "https://www.pcgamer.com/games/rpg/drop-everything-and-grab-the-popcorn-majuulars-4-5-hour-documentary-on-ultima-online-is-here-to-devour-your-weekend/",
       "sources": [
-        "Eurogamer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 35.7,
-      "chaleur": 5,
+      "heures": 4.3,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/community-reaction-xbox-restructuring-rare-ninja-theory-obsidian",
-          "titre": "\"It genuinely breaks my heart\"- Confusion and frustration reign as gaming communities react to Xbox's drastic restructuring this week"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/drop-everything-and-grab-the-popcorn-majuulars-4-5-hour-documentary-on-ultima-online-is-here-to-devour-your-weekend/",
+          "titre": "Drop everything and grab the popcorn: Majuular's 4.5-hour documentary on Ultima Online is here to devour your weekend"
         }
       ]
     },
@@ -743,7 +701,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -761,7 +719,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -779,7 +737,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -797,7 +755,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +773,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -833,7 +791,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -851,7 +809,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -869,7 +827,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +845,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +863,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +881,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.2,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +899,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +917,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +935,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +953,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,8 +971,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1031,8 +989,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1049,8 +1007,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1067,8 +1025,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1085,8 +1043,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1103,13 +1061,49 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/astro-bots-276-piece-lego-set-immortalises-the-ps5-icon-with-interchangeable-eyes",
           "titre": "Astro Bot's 276 Piece LEGO Set Immortalises the PS5 Icon with Interchangeable Eyes"
+        }
+      ]
+    },
+    {
+      "id": "poll-what-review-score-would-you-give-marvel-s-wolverine",
+      "titre": "Poll: What Review Score Would You Give Marvel's Wolverine?",
+      "url": "https://www.pushsquare.com/features/poll-what-review-score-would-you-give-marvels-wolverine",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 14.4,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/poll-what-review-score-would-you-give-marvels-wolverine",
+          "titre": "Poll: What Review Score Would You Give Marvel's Wolverine?"
+        }
+      ]
+    },
+    {
+      "id": "four-years-after-release-splatoon-3-s-player-numbers-are-on",
+      "titre": "Four Years After Release, Splatoon 3's Player Numbers Are On The Up In 2026",
+      "url": "https://www.nintendolife.com/news/2026/09/four-years-after-release-splatoon-3s-player-numbers-are-on-the-up-in-2026",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 14.7,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/four-years-after-release-splatoon-3s-player-numbers-are-on-the-up-in-2026",
+          "titre": "Four Years After Release, Splatoon 3's Player Numbers Are On The Up In 2026"
         }
       ]
     }
