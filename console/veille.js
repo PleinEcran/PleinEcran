@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "26/09/2026 à 20h19",
+  "collecte": "26/09/2026 à 22h19",
   "seuil": 14,
   "sujets": [
     {
@@ -13,7 +13,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 17,
       "liens": [
         {
@@ -38,52 +38,16 @@ const VEILLE = {
       "titre": "GTA veteran's MindsEye studio Build a Rocket Boy has entered administration, following yet more reports of layoffs",
       "url": "https://www.eurogamer.net/mindseye-build-a-rocket-boy-administration-insolvency",
       "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz"
+        "Eurogamer"
       ],
-      "reprises": 2,
-      "heures": 32.1,
-      "chaleur": 14,
+      "reprises": 1,
+      "heures": 34.1,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/mindseye-build-a-rocket-boy-administration-insolvency",
           "titre": "GTA veteran's MindsEye studio Build a Rocket Boy has entered administration, following yet more reports of layoffs"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/build-a-rocket-boy-has-appointed-administrators",
-          "titre": "Build A Rocket Boy has appointed administrators"
-        }
-      ]
-    },
-    {
-      "id": "us-court-orders-redditor-to-pay-nintendo-3-4m-over-switch-pi",
-      "titre": "US court orders Redditor to pay Nintendo £3.4m over Switch piracy",
-      "url": "https://www.eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 10.0,
-      "chaleur": 13,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million",
-          "titre": "US court orders Redditor to pay Nintendo £3.4m over Switch piracy"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/reddit-mod-ordered-to-cough-up-usd4500000-to-nintendo-in-long-running-switch-piracy-case",
-          "titre": "Reddit Mod Ordered To Cough Up $4,500,000 To Nintendo In Long-Running Switch Piracy Case"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/court-orders-reddit-moderator-who-widely-pirated-switch-games-to-pay-nintendo-4-5-million-in-damages/",
-          "titre": "Court orders Reddit moderator who widely pirated Switch games to pay Nintendo $4.5 million in damages"
         }
       ]
     },
@@ -97,8 +61,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 3.4,
-      "chaleur": 12,
+      "heures": 5.4,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -118,48 +82,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "colourful-jrpg-armed-fantasia-has-been-cancelled-four-years",
-      "titre": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits",
-      "url": "https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 34.1,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits",
-          "titre": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits"
-        }
-      ]
-    },
-    {
-      "id": "video-game-menu-the-game-is-all-about-everyone-s-favourite-g",
-      "titre": "Video Game Menu: The Game is all about everyone's favourite gaming pastime: pressing random buttons in the menus and seeing what they change",
-      "url": "https://www.rockpapershotgun.com/video-game-menu-the-game-is-all-about-everyones-favourite-gaming-pastime-pressing-random-buttons-in-the-menus-and-seeing-what-they-change",
-      "sources": [
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 2.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/video-game-menu-the-game-is-all-about-everyones-favourite-gaming-pastime-pressing-random-buttons-in-the-menus-and-seeing-what-they-change",
-          "titre": "Video Game Menu: The Game is all about everyone's favourite gaming pastime: pressing random buttons in the menus and seeing what they change"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-651",
-          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 651"
-        }
-      ]
-    },
-    {
       "id": "the-elder-scrolls-online-s-devs-are-pushing-through-hard-tim",
       "titre": "The Elder Scrolls Online's devs are pushing through hard times after layoffs and delays: 'We didn't want to rush to just hit a date'",
       "url": "https://www.pcgamer.com/games/mmo/the-elder-scrolls-onlines-devs-are-pushing-through-hard-times-after-layoffs-and-delays-we-didnt-want-to-rush-to-just-hit-a-date/",
@@ -167,7 +89,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 9,
       "liens": [
         {
@@ -185,7 +107,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 8,
       "liens": [
         {
@@ -196,20 +118,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore",
-      "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #2 - A Sophomore Slump?",
-      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore-slump",
+      "id": "video-game-menu-the-game-is-all-about-everyone-s-favourite-g",
+      "titre": "Video Game Menu: The Game is all about everyone's favourite gaming pastime: pressing random buttons in the menus and seeing what they change",
+      "url": "https://www.rockpapershotgun.com/video-game-menu-the-game-is-all-about-everyones-favourite-gaming-pastime-pressing-random-buttons-in-the-menus-and-seeing-what-they-change",
       "sources": [
-        "Nintendo Life"
+        "Push Square",
+        "Rock Paper Shotgun"
       ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 8,
+      "reprises": 2,
+      "heures": 4.5,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore-slump",
-          "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #2 - A Sophomore Slump?"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/video-game-menu-the-game-is-all-about-everyones-favourite-gaming-pastime-pressing-random-buttons-in-the-menus-and-seeing-what-they-change",
+          "titre": "Video Game Menu: The Game is all about everyone's favourite gaming pastime: pressing random buttons in the menus and seeing what they change"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-651",
+          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 651"
         }
       ]
     },
@@ -222,7 +150,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 7,
       "liens": [
         {
@@ -245,7 +173,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.2,
       "chaleur": 7,
       "liens": [
         {
@@ -263,7 +191,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.7,
+      "heures": 29.7,
       "chaleur": 7,
       "liens": [
         {
@@ -281,7 +209,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.3,
       "chaleur": 7,
       "liens": [
         {
@@ -526,6 +454,78 @@ const VEILLE = {
       ]
     },
     {
+      "id": "surprise-minecraft-is-getting-its-first-new-dimension-in-ove",
+      "titre": "Surprise! Minecraft Is Getting Its First New Dimension In Over 14 Years",
+      "url": "https://www.nintendolife.com/news/2026/09/surprise-minecraft-is-getting-its-first-new-dimension-in-over-14-years",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/surprise-minecraft-is-getting-its-first-new-dimension-in-over-14-years",
+          "titre": "Surprise! Minecraft Is Getting Its First New Dimension In Over 14 Years"
+        }
+      ]
+    },
+    {
+      "id": "talon-towers-is-a-fumito-ueda-coded-parkour-platformer-about",
+      "titre": "TALON TOWERS is a Fumito Ueda-coded parkour platformer about hopping around massive structures while avoiding falling to your foggy doom",
+      "url": "https://www.rockpapershotgun.com/talon-towers-is-a-fumito-ueda-coded-parkour-platformer-about-hopping-around-massive-structures-while-avoiding-falling-to-your-foggy-doom",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/talon-towers-is-a-fumito-ueda-coded-parkour-platformer-about-hopping-around-massive-structures-while-avoiding-falling-to-your-foggy-doom",
+          "titre": "TALON TOWERS is a Fumito Ueda-coded parkour platformer about hopping around massive structures while avoiding falling to your foggy doom"
+        }
+      ]
+    },
+    {
+      "id": "former-elder-scrolls-designer-kurt-kuhlmann-on-fallout-new-v",
+      "titre": "Former Elder Scrolls designer Kurt Kuhlmann on Fallout: New Vegas diehards: 'I don't know that Todd wanted to create that situation again for The Elder Scrolls'",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/former-elder-scrolls-designer-kurt-kuhlmann-on-fallout-new-vegas-diehards-i-dont-know-that-todd-wanted-to-create-that-situation-again-for-the-elder-scrolls/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/former-elder-scrolls-designer-kurt-kuhlmann-on-fallout-new-vegas-diehards-i-dont-know-that-todd-wanted-to-create-that-situation-again-for-the-elder-scrolls/",
+          "titre": "Former Elder Scrolls designer Kurt Kuhlmann on Fallout: New Vegas diehards: 'I don't know that Todd wanted to create that situation again for The Elder Scrolls'"
+        }
+      ]
+    },
+    {
+      "id": "suplex-and-shatter-glass-enemies-after-being-in-prison-for-c",
+      "titre": "Suplex and shatter glass enemies after being in prison for committing a cardinal crime in the psychological horror beat 'em up Brokensides",
+      "url": "https://www.rockpapershotgun.com/suplex-and-shatter-glass-enemies-after-being-in-prison-for-committing-a-cardinal-crime-in-the-psychological-horror-beat-em-up-brokensides",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/suplex-and-shatter-glass-enemies-after-being-in-prison-for-committing-a-cardinal-crime-in-the-psychological-horror-beat-em-up-brokensides",
+          "titre": "Suplex and shatter glass enemies after being in prison for committing a cardinal crime in the psychological horror beat 'em up Brokensides"
+        }
+      ]
+    },
+    {
       "id": "feature-going-platinum-sonic-origins-sends-me-back-to-the-ge",
       "titre": "Feature: Going Platinum: Sonic Origins Sends Me Back to the Genesis of My Own Gaming History",
       "url": "https://www.pushsquare.com/features/going-platinum-sonic-origins-sends-me-back-to-the-genesis-of-my-own-gaming-history",
@@ -533,7 +533,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -551,7 +551,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -562,38 +562,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ps5-s-welcome-hub-adds-animated-the-last-of-us-wallpaper",
-      "titre": "PS5's Welcome Hub Adds Animated The Last of Us Wallpaper",
-      "url": "https://www.pushsquare.com/news/2026/09/ps5s-welcome-hub-adds-animated-the-last-of-us-wallpaper",
+      "id": "countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore",
+      "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #2 - A Sophomore Slump?",
+      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore-slump",
       "sources": [
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.3,
+      "heures": 5.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/ps5s-welcome-hub-adds-animated-the-last-of-us-wallpaper",
-          "titre": "PS5's Welcome Hub Adds Animated The Last of Us Wallpaper"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore-slump",
+          "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #2 - A Sophomore Slump?"
         }
       ]
     },
     {
-      "id": "i-saw-the-future-and-it-literally-stinks",
-      "titre": "I saw the future and it literally stinks",
-      "url": "https://www.pcgamer.com/hardware/i-saw-the-future-and-it-literally-stinks/",
+      "id": "us-court-orders-redditor-to-pay-nintendo-3-4m-over-switch-pi",
+      "titre": "US court orders Redditor to pay Nintendo £3.4m over Switch piracy",
+      "url": "https://www.eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million",
       "sources": [
-        "PC Gamer"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.3,
+      "heures": 12.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/i-saw-the-future-and-it-literally-stinks/",
-          "titre": "I saw the future and it literally stinks"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million",
+          "titre": "US court orders Redditor to pay Nintendo £3.4m over Switch piracy"
         }
       ]
     },
@@ -606,7 +606,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 19.4,
+      "heures": 21.4,
       "chaleur": 6,
       "liens": [
         {
@@ -629,7 +629,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 22.3,
       "chaleur": 6,
       "liens": [
         {
@@ -647,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.3,
       "chaleur": 5,
       "liens": [
         {
@@ -665,7 +665,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 23.9,
       "chaleur": 5,
       "liens": [
         {
@@ -683,7 +683,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.8,
+      "heures": 29.8,
       "chaleur": 5,
       "liens": [
         {
@@ -701,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.3,
+      "heures": 32.3,
       "chaleur": 5,
       "liens": [
         {
@@ -719,7 +719,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 33.3,
       "chaleur": 5,
       "liens": [
         {
@@ -737,7 +737,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 31.9,
+      "heures": 33.9,
       "chaleur": 5,
       "liens": [
         {
@@ -755,7 +755,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 32.3,
+      "heures": 34.3,
       "chaleur": 5,
       "liens": [
         {
@@ -766,20 +766,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "prince-of-persia-the-lost-crown-is-free-to-play-in-its-entir",
-      "titre": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week",
-      "url": "https://www.videogameschronicle.com/news/prince-of-persia-the-lost-crown-is-free-to-play-in-its-entirety-on-switch-for-the-next-week/",
+      "id": "ps5-s-welcome-hub-adds-animated-the-last-of-us-wallpaper",
+      "titre": "PS5's Welcome Hub Adds Animated The Last of Us Wallpaper",
+      "url": "https://www.pushsquare.com/news/2026/09/ps5s-welcome-hub-adds-animated-the-last-of-us-wallpaper",
       "sources": [
-        "VGC"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 35.8,
-      "chaleur": 5,
+      "heures": 4.3,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/prince-of-persia-the-lost-crown-is-free-to-play-in-its-entirety-on-switch-for-the-next-week/",
-          "titre": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/ps5s-welcome-hub-adds-animated-the-last-of-us-wallpaper",
+          "titre": "PS5's Welcome Hub Adds Animated The Last of Us Wallpaper"
+        }
+      ]
+    },
+    {
+      "id": "i-saw-the-future-and-it-literally-stinks",
+      "titre": "I saw the future and it literally stinks",
+      "url": "https://www.pcgamer.com/hardware/i-saw-the-future-and-it-literally-stinks/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/i-saw-the-future-and-it-literally-stinks/",
+          "titre": "I saw the future and it literally stinks"
         }
       ]
     },
@@ -791,7 +809,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -809,7 +827,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -827,7 +845,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +863,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -863,7 +881,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +899,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +917,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +935,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +953,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +971,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -971,8 +989,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -989,8 +1007,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1007,7 +1025,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,7 +1043,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 20.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,7 +1061,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.1,
+      "heures": 22.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,7 +1079,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.1,
+      "heures": 22.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1079,7 +1097,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.5,
+      "heures": 22.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1097,7 +1115,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.8,
+      "heures": 22.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1106,45 +1124,7 @@ const VEILLE = {
           "titre": "Newest Wolverine PS5 Update Wipes Out Scent Trails to Collectibles"
         }
       ]
-    },
-    {
-      "id": "how-to-open-the-auxiliary-lines-in-part-6-of-silent-hill-tow",
-      "titre": "How to open the auxiliary lines in Part 6 of Silent Hill: Townfall",
-      "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-open-the-auxiliary-lines/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-open-the-auxiliary-lines/",
-          "titre": "How to open the auxiliary lines in Part 6 of Silent Hill: Townfall"
-        }
-      ]
-    },
-    {
-      "id": "guess-who-patented-a-new-system-for-in-game-ads",
-      "titre": "Guess who patented a new system for in-game ads",
-      "url": "https://www.pcgamer.com/gaming-industry/guess-who-patented-a-new-system-for-in-game-ads/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 22.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/guess-who-patented-a-new-system-for-in-game-ads/",
-          "titre": "Guess who patented a new system for in-game ads"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs"
-  ]
+  "alertes": []
 };
