@@ -1,8 +1,38 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "26/09/2026 à 10h19",
+  "collecte": "26/09/2026 à 12h23",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "us-court-orders-redditor-to-pay-nintendo-3-4m-over-switch-pi",
+      "titre": "US court orders Redditor to pay Nintendo £3.4m over Switch piracy",
+      "url": "https://www.eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 2.1,
+      "chaleur": 15,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million",
+          "titre": "US court orders Redditor to pay Nintendo £3.4m over Switch piracy"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/reddit-mod-ordered-to-cough-up-usd4500000-to-nintendo-in-long-running-switch-piracy-case",
+          "titre": "Reddit Mod Ordered To Cough Up $4,500,000 To Nintendo In Long-Running Switch Piracy Case"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/court-orders-reddit-moderator-who-widely-pirated-switch-games-to-pay-nintendo-4-5-million-in-damages/",
+          "titre": "Court orders Reddit moderator who widely pirated Switch games to pay Nintendo $4.5 million in damages"
+        }
+      ]
+    },
     {
       "id": "gta-veteran-s-mindseye-studio-build-a-rocket-boy-has-entered",
       "titre": "GTA veteran's MindsEye studio Build a Rocket Boy has entered administration, following yet more reports of layoffs",
@@ -12,7 +42,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 22.1,
+      "heures": 24.2,
       "chaleur": 14,
       "liens": [
         {
@@ -37,7 +67,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 1.3,
+      "heures": 3.4,
       "chaleur": 12,
       "liens": [
         {
@@ -65,13 +95,73 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.1,
+      "heures": 26.2,
       "chaleur": 10,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits",
           "titre": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits"
+        }
+      ]
+    },
+    {
+      "id": "it-took-cd-projekt-two-years-to-design-phantom-liberty-s-chi",
+      "titre": "It took CD Projekt two years to design Phantom Liberty's Chimera Tank boss fight: 'We were iterating over and over'",
+      "url": "https://www.pcgamer.com/games/rpg/it-took-cd-projekt-two-years-to-design-phantom-libertys-chimera-tank-boss-fight-we-were-iterating-over-and-over/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 0.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/it-took-cd-projekt-two-years-to-design-phantom-libertys-chimera-tank-boss-fight-we-were-iterating-over-and-over/",
+          "titre": "It took CD Projekt two years to design Phantom Liberty's Chimera Tank boss fight: 'We were iterating over and over'"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/cyberpunk-2077-phantom-liberty-chimera-tank-two-years",
+          "titre": "It took roughly two years and \"one of the most expensive art assets ever\" to get Cyberpunk 2077: Phantom Liberty's Chimera tank fight right"
+        }
+      ]
+    },
+    {
+      "id": "guide-best-castlevania-games-ranked-switch-nintendo-consoles",
+      "titre": "Guide: Best Castlevania Games, Ranked - Switch & Nintendo Consoles",
+      "url": "https://www.nintendolife.com/guides/best-castlevania-games-ranked-switch-and-nintendo-consoles",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/guides/best-castlevania-games-ranked-switch-and-nintendo-consoles",
+          "titre": "Guide: Best Castlevania Games, Ranked - Switch & Nintendo Consoles"
+        }
+      ]
+    },
+    {
+      "id": "microsoft-ceo-says-streamlining-of-xbox-business-is-great-to",
+      "titre": "Microsoft CEO says ‘streamlining’ of Xbox business is ‘great to see’",
+      "url": "https://www.videogameschronicle.com/news/microsoft-ceo-says-streamlining-of-xbox-business-is-great-to-see/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/microsoft-ceo-says-streamlining-of-xbox-business-is-great-to-see/",
+          "titre": "Microsoft CEO says ‘streamlining’ of Xbox business is ‘great to see’"
         }
       ]
     },
@@ -84,7 +174,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 14.8,
+      "heures": 16.8,
       "chaleur": 8,
       "liens": [
         {
@@ -107,7 +197,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 26.2,
+      "heures": 28.3,
       "chaleur": 8,
       "liens": [
         {
@@ -125,7 +215,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.5,
       "chaleur": 7,
       "liens": [
         {
@@ -144,7 +234,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.4,
+      "heures": 11.5,
       "chaleur": 7,
       "liens": [
         {
@@ -160,24 +250,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-fronts-next-game-informer-cover-with-new-info-and-scre",
-      "titre": "GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots",
-      "url": "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots",
-          "titre": "GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots"
-        }
-      ]
-    },
-    {
       "id": "ubisoft-s-mario-rabbids-team-reportedly-came-close-to-making",
       "titre": "Ubisoft's Mario + Rabbids team reportedly came close to making an \"ambitious\" Zelda game starring Ganondorf, but it wasn't to be",
       "url": "https://www.eurogamer.net/nintendo-ubisoft-mario-rabbids-team-zelda",
@@ -185,7 +257,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.7,
+      "heures": 19.7,
       "chaleur": 7,
       "liens": [
         {
@@ -203,7 +275,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.4,
       "chaleur": 7,
       "liens": [
         {
@@ -448,6 +520,78 @@ const VEILLE = {
       ]
     },
     {
+      "id": "mobygames-video-game-database-now-lets-developers-claim-thei",
+      "titre": "MobyGames video game database now lets developers claim their game credits",
+      "url": "https://www.eurogamer.net/mobygames-professional-developer-credits-portfolio",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/mobygames-professional-developer-credits-portfolio",
+          "titre": "MobyGames video game database now lets developers claim their game credits"
+        }
+      ]
+    },
+    {
+      "id": "anniversary-castlevania-changed-the-shape-of-gaming-40-years",
+      "titre": "Anniversary: Castlevania Changed The Shape Of Gaming 40 Years Ago",
+      "url": "https://www.nintendolife.com/features/anniversary-castlevania-changed-the-shape-of-gaming-40-years-ago",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/anniversary-castlevania-changed-the-shape-of-gaming-40-years-ago",
+          "titre": "Anniversary: Castlevania Changed The Shape Of Gaming 40 Years Ago"
+        }
+      ]
+    },
+    {
+      "id": "guide-these-21-ps5-and-ps-plus-games-are-coming-out-next-wee",
+      "titre": "Guide: These 21+ PS5 and PS Plus Games Are Coming Out Next Week (28th-4th October)",
+      "url": "https://www.pushsquare.com/guides/these-21plus-ps5-and-ps-plus-games-are-coming-out-next-week-28th-4th-october",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-21plus-ps5-and-ps-plus-games-are-coming-out-next-week-28th-4th-october",
+          "titre": "Guide: These 21+ PS5 and PS Plus Games Are Coming Out Next Week (28th-4th October)"
+        }
+      ]
+    },
+    {
+      "id": "former-starfield-designer-says-bethesda-s-sci-fi-rpg-probabl",
+      "titre": "Former Starfield designer says Bethesda's sci-fi RPG probably won't get a sequel, because the original wasn't 'anywhere near successful enough'",
+      "url": "https://www.pcgamer.com/games/rpg/former-starfield-designer-says-bethesdas-sci-fi-rpg-probably-wont-get-a-sequel-because-the-original-wasnt-anywhere-near-successful-enough/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/former-starfield-designer-says-bethesdas-sci-fi-rpg-probably-wont-get-a-sequel-because-the-original-wasnt-anywhere-near-successful-enough/",
+          "titre": "Former Starfield designer says Bethesda's sci-fi RPG probably won't get a sequel, because the original wasn't 'anywhere near successful enough'"
+        }
+      ]
+    },
+    {
       "id": "feature-delta-force-celebrates-its-second-anniversary-with-n",
       "titre": "Feature: Delta Force Celebrates Its Second Anniversary with New Season Reorientation",
       "url": "https://www.pushsquare.com/features/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation",
@@ -455,7 +599,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -466,74 +610,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "what-we-ve-been-playing-i-curl-up-on-my-sofa-and-breed-my-ar",
-      "titre": "What we've been playing - \"I curl up on my sofa and breed my army of battle cats\"",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-i-curl-up-on-my-sofa-and-breed-my-army-of-battle-cats",
+      "id": "gta-6-fronts-next-game-informer-cover-with-new-info-and-scre",
+      "titre": "GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots",
+      "url": "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots",
       "sources": [
-        "Eurogamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 3.3,
+      "heures": 12.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/what-weve-been-playing-i-curl-up-on-my-sofa-and-breed-my-army-of-battle-cats",
-          "titre": "What we've been playing - \"I curl up on my sofa and breed my army of battle cats\""
-        }
-      ]
-    },
-    {
-      "id": "hell-is-us-shifts-switch-2-launch-due-to-very-busy-september",
-      "titre": "Hell Is Us Shifts Switch 2 Launch Due To \"Very Busy\" September Release Window",
-      "url": "https://www.nintendolife.com/news/2026/09/hell-is-us-shifts-switch-2-launch-due-to-very-busy-september-release-window",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/hell-is-us-shifts-switch-2-launch-due-to-very-busy-september-release-window",
-          "titre": "Hell Is Us Shifts Switch 2 Launch Due To \"Very Busy\" September Release Window"
-        }
-      ]
-    },
-    {
-      "id": "my-favorite-6-rpg-on-steam-just-got-a-beastmode-free-enhance",
-      "titre": "My favorite $6 RPG on Steam just got a beastmode free 'Enhanced Edition' update",
-      "url": "https://www.pcgamer.com/games/rpg/my-favorite-usd6-rpg-on-steam-just-got-a-beastmode-free-enhanced-edition-update/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/my-favorite-usd6-rpg-on-steam-just-got-a-beastmode-free-enhanced-edition-update/",
-          "titre": "My favorite $6 RPG on Steam just got a beastmode free 'Enhanced Edition' update"
-        }
-      ]
-    },
-    {
-      "id": "i-made-the-hot-dog-vendors-in-gta-5-work-because-rockstar-ne",
-      "titre": "I made the hot dog vendors in GTA 5 work because Rockstar never did",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-made-the-hot-dog-vendors-in-gta-5-work-because-rockstar-never-did/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-made-the-hot-dog-vendors-in-gta-5-work-because-rockstar-never-did/",
-          "titre": "I made the hot dog vendors in GTA 5 work because Rockstar never did"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots",
+          "titre": "GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots"
         }
       ]
     },
@@ -546,7 +636,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +659,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 21.6,
       "chaleur": 6,
       "liens": [
         {
@@ -580,38 +670,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "reddit-mod-ordered-to-cough-up-4-500-000-to-nintendo-in-long",
-      "titre": "Reddit Mod Ordered To Cough Up $4,500,000 To Nintendo In Long-Running Switch Piracy Case",
-      "url": "https://www.nintendolife.com/news/2026/09/reddit-mod-ordered-to-cough-up-usd4500000-to-nintendo-in-long-running-switch-piracy-case",
+      "id": "hell-is-us-shifts-switch-2-launch-due-to-very-busy-september",
+      "titre": "Hell Is Us Shifts Switch 2 Launch Due To \"Very Busy\" September Release Window",
+      "url": "https://www.nintendolife.com/news/2026/09/hell-is-us-shifts-switch-2-launch-due-to-very-busy-september-release-window",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.3,
-      "chaleur": 6,
+      "heures": 13.4,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/reddit-mod-ordered-to-cough-up-usd4500000-to-nintendo-in-long-running-switch-piracy-case",
-          "titre": "Reddit Mod Ordered To Cough Up $4,500,000 To Nintendo In Long-Running Switch Piracy Case"
+          "url": "https://www.nintendolife.com/news/2026/09/hell-is-us-shifts-switch-2-launch-due-to-very-busy-september-release-window",
+          "titre": "Hell Is Us Shifts Switch 2 Launch Due To \"Very Busy\" September Release Window"
         }
       ]
     },
     {
-      "id": "court-orders-reddit-moderator-who-widely-pirated-switch-game",
-      "titre": "Court orders Reddit moderator who widely pirated Switch games to pay Nintendo $4.5 million in damages",
-      "url": "https://www.videogameschronicle.com/news/court-orders-reddit-moderator-who-widely-pirated-switch-games-to-pay-nintendo-4-5-million-in-damages/",
+      "id": "my-favorite-6-rpg-on-steam-just-got-a-beastmode-free-enhance",
+      "titre": "My favorite $6 RPG on Steam just got a beastmode free 'Enhanced Edition' update",
+      "url": "https://www.pcgamer.com/games/rpg/my-favorite-usd6-rpg-on-steam-just-got-a-beastmode-free-enhanced-edition-update/",
       "sources": [
-        "VGC"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.3,
-      "chaleur": 6,
+      "heures": 14.0,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/court-orders-reddit-moderator-who-widely-pirated-switch-games-to-pay-nintendo-4-5-million-in-damages/",
-          "titre": "Court orders Reddit moderator who widely pirated Switch games to pay Nintendo $4.5 million in damages"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/my-favorite-usd6-rpg-on-steam-just-got-a-beastmode-free-enhanced-edition-update/",
+          "titre": "My favorite $6 RPG on Steam just got a beastmode free 'Enhanced Edition' update"
         }
       ]
     },
@@ -623,7 +713,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 15.2,
       "chaleur": 5,
       "liens": [
         {
@@ -641,7 +731,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 19.9,
       "chaleur": 5,
       "liens": [
         {
@@ -659,7 +749,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 22.4,
       "chaleur": 5,
       "liens": [
         {
@@ -677,7 +767,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.4,
       "chaleur": 5,
       "liens": [
         {
@@ -695,7 +785,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 24.4,
       "chaleur": 5,
       "liens": [
         {
@@ -713,7 +803,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 25.8,
+      "heures": 27.9,
       "chaleur": 5,
       "liens": [
         {
@@ -731,13 +821,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.8,
+      "heures": 29.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/square-enix-shows-off-exclusive-sleeve-for-dragon-quest-xi-s-on-switch-2",
           "titre": "Square Enix Shows Off Exclusive Sleeve For Dragon Quest XI S On Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "what-we-ve-been-playing-i-curl-up-on-my-sofa-and-breed-my-ar",
+      "titre": "What we've been playing - \"I curl up on my sofa and breed my army of battle cats\"",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-i-curl-up-on-my-sofa-and-breed-my-army-of-battle-cats",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/what-weve-been-playing-i-curl-up-on-my-sofa-and-breed-my-army-of-battle-cats",
+          "titre": "What we've been playing - \"I curl up on my sofa and breed my army of battle cats\""
         }
       ]
     },
@@ -749,7 +857,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -767,8 +875,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -785,8 +893,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -803,8 +911,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -821,8 +929,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -839,8 +947,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -857,7 +965,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.2,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +983,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.3,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +1001,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.3,
       "chaleur": 3,
       "liens": [
         {
@@ -911,7 +1019,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.5,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +1037,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 17.1,
       "chaleur": 3,
       "liens": [
         {
@@ -947,7 +1055,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -965,7 +1073,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -983,7 +1091,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +1109,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 17.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,7 +1127,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1028,97 +1136,9 @@ const VEILLE = {
           "titre": "Resident Evil Requiem's made over $500m since release, but the new film didn't have as big of an impact as Capcom's price drops"
         }
       ]
-    },
-    {
-      "id": "this-incredible-new-ps5-website-tracks-ps-store-sales-data-a",
-      "titre": "This Incredible New PS5 Website Tracks PS Store Sales Data Around the World and Your Personal Play History",
-      "url": "https://www.pushsquare.com/news/2026/09/this-incredible-new-ps5-website-tracks-ps-store-sales-data-around-the-world-and-your-personal-play-history",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 16.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/this-incredible-new-ps5-website-tracks-ps-store-sales-data-around-the-world-and-your-personal-play-history",
-          "titre": "This Incredible New PS5 Website Tracks PS Store Sales Data Around the World and Your Personal Play History"
-        }
-      ]
-    },
-    {
-      "id": "for-warhorse-s-15th-birthday-we-chatted-with-its-co-founder",
-      "titre": "For Warhorse's 15th birthday, we chatted with its co-founder about the demand for 'grown-up' RPGs, AI, why games are too cheap, and his role in the collapse of communism",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/for-warhorses-15th-birthday-we-chatted-with-its-co-founder-about-the-demand-for-grown-up-rpgs-ai-why-games-are-too-cheap-and-his-role-in-the-collapse-of-communism/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 16.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/for-warhorses-15th-birthday-we-chatted-with-its-co-founder-about-the-demand-for-grown-up-rpgs-ai-why-games-are-too-cheap-and-his-role-in-the-collapse-of-communism/",
-          "titre": "For Warhorse's 15th birthday, we chatted with its co-founder about the demand for 'grown-up' RPGs, AI, why games are too cheap, and his role in the collapse of communism"
-        }
-      ]
-    },
-    {
-      "id": "rayman-legends-retold-does-physical-media-the-right-way-on-p",
-      "titre": "Rayman Legends Retold Does Physical Media the Right Way on PS5",
-      "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-does-physical-media-the-right-way-on-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 17.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-does-physical-media-the-right-way-on-ps5",
-          "titre": "Rayman Legends Retold Does Physical Media the Right Way on PS5"
-        }
-      ]
-    },
-    {
-      "id": "everything-is-hard-but-it-turns-out-that-s-not-society-s-pr",
-      "titre": "'Everything is hard. But it turns out that’s not society’s problem, that’s my problem,' says Jensen Huang about AI development",
-      "url": "https://www.pcgamer.com/software/ai/everything-is-hard-but-it-turns-out-thats-not-societys-problem-thats-my-problem-says-jensen-huang-about-ai-development/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/everything-is-hard-but-it-turns-out-thats-not-societys-problem-thats-my-problem-says-jensen-huang-about-ai-development/",
-          "titre": "'Everything is hard. But it turns out that’s not society’s problem, that’s my problem,' says Jensen Huang about AI development"
-        }
-      ]
-    },
-    {
-      "id": "astro-bot-s-276-piece-lego-set-immortalises-the-ps5-icon-wit",
-      "titre": "Astro Bot's 276 Piece LEGO Set Immortalises the PS5 Icon with Interchangeable Eyes",
-      "url": "https://www.pushsquare.com/news/2026/09/astro-bots-276-piece-lego-set-immortalises-the-ps5-icon-with-interchangeable-eyes",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 17.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/astro-bots-276-piece-lego-set-immortalises-the-ps5-icon-with-interchangeable-eyes",
-          "titre": "Astro Bot's 276 Piece LEGO Set Immortalises the PS5 Icon with Interchangeable Eyes"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "US court orders Redditor to pay Nintendo £3.4m over Switch piracy"
+  ]
 };
