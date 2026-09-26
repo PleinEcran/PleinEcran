@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "26/09/2026 à 02h19",
+  "collecte": "26/09/2026 à 04h19",
   "seuil": 14,
   "sujets": [
     {
@@ -12,7 +12,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 14.2,
+      "heures": 16.2,
       "chaleur": 14,
       "liens": [
         {
@@ -28,30 +28,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ubisoft-s-mario-rabbids-team-reportedly-came-close-to-making",
-      "titre": "Ubisoft's Mario + Rabbids team reportedly came close to making an \"ambitious\" Zelda game starring Ganondorf, but it wasn't to be",
-      "url": "https://www.eurogamer.net/nintendo-ubisoft-mario-rabbids-team-zelda",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 9.7,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nintendo-ubisoft-mario-rabbids-team-zelda",
-          "titre": "Ubisoft's Mario + Rabbids team reportedly came close to making an \"ambitious\" Zelda game starring Ganondorf, but it wasn't to be"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf",
-          "titre": "Nintendo Reportedly Rejected A Ubisoft Zelda Spin-Off Starring Ganondorf"
-        }
-      ]
-    },
-    {
       "id": "colourful-jrpg-armed-fantasia-has-been-cancelled-four-years",
       "titre": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits",
       "url": "https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits",
@@ -59,13 +35,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.1,
       "chaleur": 10,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits",
           "titre": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits"
+        }
+      ]
+    },
+    {
+      "id": "and-now-an-evil-has-appeared-nintendo-releases-extended-zel",
+      "titre": "\"And, Now... An Evil Has Appeared\" - Nintendo Releases Extended Zelda: Ocarina Of Time Switch 2 Clip",
+      "url": "https://www.nintendolife.com/news/2026/09/and-now-an-evil-has-appeared-nintendo-releases-extended-zelda-ocarina-of-time-switch-2-clip",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/and-now-an-evil-has-appeared-nintendo-releases-extended-zelda-ocarina-of-time-switch-2-clip",
+          "titre": "\"And, Now... An Evil Has Appeared\" - Nintendo Releases Extended Zelda: Ocarina Of Time Switch 2 Clip"
         }
       ]
     },
@@ -78,7 +72,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 9,
       "liens": [
         {
@@ -94,24 +88,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-fronts-next-game-informer-cover-with-new-info-and-scre",
-      "titre": "GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots",
-      "url": "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots",
-          "titre": "GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots"
-        }
-      ]
-    },
-    {
       "id": "what-insiders-say-halo-studios-was-up-to-before-losing-halo",
       "titre": "What insiders say Halo Studios was up to before losing Halo: 'The next Halo game was years away'",
       "url": "https://www.pcgamer.com/games/halo/what-insiders-say-halo-studios-was-up-to-before-losing-halo-the-next-halo-game-was-years-away/",
@@ -120,7 +96,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 6.8,
+      "heures": 8.8,
       "chaleur": 9,
       "liens": [
         {
@@ -136,38 +112,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "hell-is-us-shifts-switch-2-launch-due-to-very-busy-september",
-      "titre": "Hell Is Us Shifts Switch 2 Launch Due To \"Very Busy\" September Release Window",
-      "url": "https://www.nintendolife.com/news/2026/09/hell-is-us-shifts-switch-2-launch-due-to-very-busy-september-release-window",
+      "id": "ubisoft-s-mario-rabbids-team-reportedly-came-close-to-making",
+      "titre": "Ubisoft's Mario + Rabbids team reportedly came close to making an \"ambitious\" Zelda game starring Ganondorf, but it wasn't to be",
+      "url": "https://www.eurogamer.net/nintendo-ubisoft-mario-rabbids-team-zelda",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.3,
+      "heures": 11.7,
       "chaleur": 8,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/hell-is-us-shifts-switch-2-launch-due-to-very-busy-september-release-window",
-          "titre": "Hell Is Us Shifts Switch 2 Launch Due To \"Very Busy\" September Release Window"
-        }
-      ]
-    },
-    {
-      "id": "my-favorite-6-rpg-on-steam-just-got-a-beastmode-free-enhance",
-      "titre": "My favorite $6 RPG on Steam just got a beastmode free 'Enhanced Edition' update",
-      "url": "https://www.pcgamer.com/games/rpg/my-favorite-usd6-rpg-on-steam-just-got-a-beastmode-free-enhanced-edition-update/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/my-favorite-usd6-rpg-on-steam-just-got-a-beastmode-free-enhanced-edition-update/",
-          "titre": "My favorite $6 RPG on Steam just got a beastmode free 'Enhanced Edition' update"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/nintendo-ubisoft-mario-rabbids-team-zelda",
+          "titre": "Ubisoft's Mario + Rabbids team reportedly came close to making an \"ambitious\" Zelda game starring Ganondorf, but it wasn't to be"
         }
       ]
     },
@@ -179,13 +137,31 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 20.3,
       "chaleur": 8,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
           "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-fronts-next-game-informer-cover-with-new-info-and-scre",
+      "titre": "GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots",
+      "url": "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots",
+          "titre": "GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots"
         }
       ]
     },
@@ -197,7 +173,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 7,
       "liens": [
         {
@@ -216,7 +192,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 7,
       "liens": [
         {
@@ -232,24 +208,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-can-t-completely-sweep-this-year-s-goty-awards-anymore",
-      "titre": "GTA 6 Can't Completely Sweep This Year's GOTY Awards Anymore",
-      "url": "https://www.pushsquare.com/news/2026/09/gta-6-cant-completely-sweep-this-years-goty-awards-anymore",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/gta-6-cant-completely-sweep-this-years-goty-awards-anymore",
-          "titre": "GTA 6 Can't Completely Sweep This Year's GOTY Awards Anymore"
-        }
-      ]
-    },
-    {
       "id": "sony-reportedly-surveying-developers-about-playstation-disc",
       "titre": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?",
       "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
@@ -257,7 +215,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.3,
       "chaleur": 7,
       "liens": [
         {
@@ -473,7 +431,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -484,110 +442,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "guide-all-ps-plus-games-available-now",
-      "titre": "Guide: All PS Plus Games Available Now",
-      "url": "https://www.pushsquare.com/guides/all-ps-plus-games-available-now",
+      "id": "hell-is-us-shifts-switch-2-launch-due-to-very-busy-september",
+      "titre": "Hell Is Us Shifts Switch 2 Launch Due To \"Very Busy\" September Release Window",
+      "url": "https://www.nintendolife.com/news/2026/09/hell-is-us-shifts-switch-2-launch-due-to-very-busy-september-release-window",
       "sources": [
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.1,
+      "heures": 5.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/all-ps-plus-games-available-now",
-          "titre": "Guide: All PS Plus Games Available Now"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/hell-is-us-shifts-switch-2-launch-due-to-very-busy-september-release-window",
+          "titre": "Hell Is Us Shifts Switch 2 Launch Due To \"Very Busy\" September Release Window"
         }
       ]
     },
     {
-      "id": "a-running-tally-of-the-most-ridiculous-things-ai-bigwigs-hav",
-      "titre": "A running tally of the most ridiculous things AI bigwigs have said so far",
-      "url": "https://www.pcgamer.com/games/live/news/what-are-the-ai-guys-saying-now/",
+      "id": "my-favorite-6-rpg-on-steam-just-got-a-beastmode-free-enhance",
+      "titre": "My favorite $6 RPG on Steam just got a beastmode free 'Enhanced Edition' update",
+      "url": "https://www.pcgamer.com/games/rpg/my-favorite-usd6-rpg-on-steam-just-got-a-beastmode-free-enhanced-edition-update/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.1,
+      "heures": 5.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/live/news/what-are-the-ai-guys-saying-now/",
-          "titre": "A running tally of the most ridiculous things AI bigwigs have said so far"
-        }
-      ]
-    },
-    {
-      "id": "i-did-the-math-on-my-wardogs-xp-grind-and-now-i-wish-i-hadn",
-      "titre": "I did the math on my Wardogs XP grind, and now I wish I hadn't",
-      "url": "https://www.pcgamer.com/games/fps/i-did-the-math-on-my-wardogs-xp-grind-and-now-i-wish-i-hadnt/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/i-did-the-math-on-my-wardogs-xp-grind-and-now-i-wish-i-hadnt/",
-          "titre": "I did the math on my Wardogs XP grind, and now I wish I hadn't"
-        }
-      ]
-    },
-    {
-      "id": "newest-wolverine-ps5-update-wipes-out-scent-trails-to-collec",
-      "titre": "Newest Wolverine PS5 Update Wipes Out Scent Trails to Collectibles",
-      "url": "https://www.pushsquare.com/news/2026/09/newest-wolverine-ps5-update-wipes-out-scent-trails-to-collectibles",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/newest-wolverine-ps5-update-wipes-out-scent-trails-to-collectibles",
-          "titre": "Newest Wolverine PS5 Update Wipes Out Scent Trails to Collectibles"
-        }
-      ]
-    },
-    {
-      "id": "how-to-open-the-auxiliary-lines-in-part-6-of-silent-hill-tow",
-      "titre": "How to open the auxiliary lines in Part 6 of Silent Hill: Townfall",
-      "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-open-the-auxiliary-lines/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-open-the-auxiliary-lines/",
-          "titre": "How to open the auxiliary lines in Part 6 of Silent Hill: Townfall"
-        }
-      ]
-    },
-    {
-      "id": "talking-point-what-are-you-playing-this-weekend-issue-651",
-      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 651",
-      "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-651",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-651",
-          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 651"
+          "url": "https://www.pcgamer.com/games/rpg/my-favorite-usd6-rpg-on-steam-just-got-a-beastmode-free-enhanced-edition-update/",
+          "titre": "My favorite $6 RPG on Steam just got a beastmode free 'Enhanced Edition' update"
         }
       ]
     },
@@ -599,7 +485,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.1,
       "chaleur": 6,
       "liens": [
         {
@@ -617,7 +503,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.8,
       "chaleur": 6,
       "liens": [
         {
@@ -628,26 +514,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "buy-the-witcher-3-for-50-off-on-the-ps-store-now-get-its-ps5",
-      "titre": "Buy The Witcher 3 for 50% Off on the PS Store Now, Get Its PS5 Remaster for Free Next Week",
-      "url": "https://www.pushsquare.com/news/2026/09/buy-the-witcher-3-for-50percent-off-on-the-ps-store-now-get-its-ps5-remaster-for-free-next-week",
+      "id": "gta-6-can-t-completely-sweep-this-year-s-goty-awards-anymore",
+      "titre": "GTA 6 Can't Completely Sweep This Year's GOTY Awards Anymore",
+      "url": "https://www.pushsquare.com/news/2026/09/gta-6-cant-completely-sweep-this-years-goty-awards-anymore",
       "sources": [
-        "Push Square",
-        "VGC"
+        "Push Square"
       ],
-      "reprises": 2,
-      "heures": 12.8,
+      "reprises": 1,
+      "heures": 13.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/buy-the-witcher-3-for-50percent-off-on-the-ps-store-now-get-its-ps5-remaster-for-free-next-week",
-          "titre": "Buy The Witcher 3 for 50% Off on the PS Store Now, Get Its PS5 Remaster for Free Next Week"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/this-weeks-free-epic-games-store-titles-are-astrea-and-mechabellum/",
-          "titre": "This week’s free Epic Games Store titles are Astrea and Mechabellum"
+          "url": "https://www.pushsquare.com/news/2026/09/gta-6-cant-completely-sweep-this-years-goty-awards-anymore",
+          "titre": "GTA 6 Can't Completely Sweep This Year's GOTY Awards Anymore"
         }
       ]
     },
@@ -659,7 +539,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.3,
       "chaleur": 6,
       "liens": [
         {
@@ -677,7 +557,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.3,
       "chaleur": 6,
       "liens": [
         {
@@ -696,7 +576,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 32.4,
+      "heures": 34.4,
       "chaleur": 6,
       "liens": [
         {
@@ -719,7 +599,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 34.0,
+      "heures": 36.0,
       "chaleur": 6,
       "liens": [
         {
@@ -737,7 +617,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.3,
       "chaleur": 5,
       "liens": [
         {
@@ -755,7 +635,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.3,
       "chaleur": 5,
       "liens": [
         {
@@ -773,7 +653,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.3,
       "chaleur": 5,
       "liens": [
         {
@@ -791,7 +671,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 19.8,
       "chaleur": 5,
       "liens": [
         {
@@ -809,7 +689,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 21.8,
       "chaleur": 5,
       "liens": [
         {
@@ -827,7 +707,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.2,
+      "heures": 26.2,
       "chaleur": 5,
       "liens": [
         {
@@ -845,13 +725,121 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.7,
+      "heures": 35.7,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/community-reaction-xbox-restructuring-rare-ninja-theory-obsidian",
           "titre": "\"It genuinely breaks my heart\"- Confusion and frustration reign as gaming communities react to Xbox's drastic restructuring this week"
+        }
+      ]
+    },
+    {
+      "id": "guide-all-ps-plus-games-available-now",
+      "titre": "Guide: All PS Plus Games Available Now",
+      "url": "https://www.pushsquare.com/guides/all-ps-plus-games-available-now",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/all-ps-plus-games-available-now",
+          "titre": "Guide: All PS Plus Games Available Now"
+        }
+      ]
+    },
+    {
+      "id": "a-running-tally-of-the-most-ridiculous-things-ai-bigwigs-hav",
+      "titre": "A running tally of the most ridiculous things AI bigwigs have said so far",
+      "url": "https://www.pcgamer.com/games/live/news/what-are-the-ai-guys-saying-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/live/news/what-are-the-ai-guys-saying-now/",
+          "titre": "A running tally of the most ridiculous things AI bigwigs have said so far"
+        }
+      ]
+    },
+    {
+      "id": "i-did-the-math-on-my-wardogs-xp-grind-and-now-i-wish-i-hadn",
+      "titre": "I did the math on my Wardogs XP grind, and now I wish I hadn't",
+      "url": "https://www.pcgamer.com/games/fps/i-did-the-math-on-my-wardogs-xp-grind-and-now-i-wish-i-hadnt/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/i-did-the-math-on-my-wardogs-xp-grind-and-now-i-wish-i-hadnt/",
+          "titre": "I did the math on my Wardogs XP grind, and now I wish I hadn't"
+        }
+      ]
+    },
+    {
+      "id": "newest-wolverine-ps5-update-wipes-out-scent-trails-to-collec",
+      "titre": "Newest Wolverine PS5 Update Wipes Out Scent Trails to Collectibles",
+      "url": "https://www.pushsquare.com/news/2026/09/newest-wolverine-ps5-update-wipes-out-scent-trails-to-collectibles",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/newest-wolverine-ps5-update-wipes-out-scent-trails-to-collectibles",
+          "titre": "Newest Wolverine PS5 Update Wipes Out Scent Trails to Collectibles"
+        }
+      ]
+    },
+    {
+      "id": "how-to-open-the-auxiliary-lines-in-part-6-of-silent-hill-tow",
+      "titre": "How to open the auxiliary lines in Part 6 of Silent Hill: Townfall",
+      "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-open-the-auxiliary-lines/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-open-the-auxiliary-lines/",
+          "titre": "How to open the auxiliary lines in Part 6 of Silent Hill: Townfall"
+        }
+      ]
+    },
+    {
+      "id": "talking-point-what-are-you-playing-this-weekend-issue-651",
+      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 651",
+      "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-651",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-651",
+          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 651"
         }
       ]
     },
@@ -863,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +905,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +923,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +941,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +959,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +977,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +995,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1025,7 +1013,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,7 +1031,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,7 +1049,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.7,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1079,7 +1067,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1097,7 +1085,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1115,7 +1103,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
