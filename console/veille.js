@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "25/09/2026 à 22h19",
+  "collecte": "26/09/2026 à 00h25",
   "seuil": 14,
   "sujets": [
     {
@@ -12,8 +12,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 10.2,
-      "chaleur": 15,
+      "heures": 12.3,
+      "chaleur": 14,
       "liens": [
         {
           "source": "Eurogamer",
@@ -36,7 +36,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 5.7,
+      "heures": 7.8,
       "chaleur": 12,
       "liens": [
         {
@@ -52,30 +52,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "what-insiders-say-halo-studios-was-up-to-before-losing-halo",
-      "titre": "What insiders say Halo Studios was up to before losing Halo: 'The next Halo game was years away'",
-      "url": "https://www.pcgamer.com/games/halo/what-insiders-say-halo-studios-was-up-to-before-losing-halo-the-next-halo-game-was-years-away/",
-      "sources": [
-        "PC Gamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 2.8,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/halo/what-insiders-say-halo-studios-was-up-to-before-losing-halo-the-next-halo-game-was-years-away/",
-          "titre": "What insiders say Halo Studios was up to before losing Halo: 'The next Halo game was years away'"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-halo-under-activision-whats-next-for-xbox/",
-          "titre": "Podcast: Halo under Activision – What’s next for Xbox?"
-        }
-      ]
-    },
-    {
       "id": "poll-what-review-score-would-you-give-marvel-s-wolverine",
       "titre": "Poll: What Review Score Would You Give Marvel's Wolverine?",
       "url": "https://www.pushsquare.com/features/poll-what-review-score-would-you-give-marvels-wolverine",
@@ -85,7 +61,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 6.3,
+      "heures": 8.4,
       "chaleur": 10,
       "liens": [
         {
@@ -113,13 +89,91 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.2,
       "chaleur": 10,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits",
           "titre": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-fronts-next-game-informer-cover-with-new-info-and-scre",
+      "titre": "GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots",
+      "url": "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots",
+          "titre": "GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots"
+        }
+      ]
+    },
+    {
+      "id": "what-insiders-say-halo-studios-was-up-to-before-losing-halo",
+      "titre": "What insiders say Halo Studios was up to before losing Halo: 'The next Halo game was years away'",
+      "url": "https://www.pcgamer.com/games/halo/what-insiders-say-halo-studios-was-up-to-before-losing-halo-the-next-halo-game-was-years-away/",
+      "sources": [
+        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 4.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/halo/what-insiders-say-halo-studios-was-up-to-before-losing-halo-the-next-halo-game-was-years-away/",
+          "titre": "What insiders say Halo Studios was up to before losing Halo: 'The next Halo game was years away'"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-halo-under-activision-whats-next-for-xbox/",
+          "titre": "Podcast: Halo under Activision – What’s next for Xbox?"
+        }
+      ]
+    },
+    {
+      "id": "hell-is-us-shifts-switch-2-launch-due-to-very-busy-september",
+      "titre": "Hell Is Us Shifts Switch 2 Launch Due To \"Very Busy\" September Release Window",
+      "url": "https://www.nintendolife.com/news/2026/09/hell-is-us-shifts-switch-2-launch-due-to-very-busy-september-release-window",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/hell-is-us-shifts-switch-2-launch-due-to-very-busy-september-release-window",
+          "titre": "Hell Is Us Shifts Switch 2 Launch Due To \"Very Busy\" September Release Window"
+        }
+      ]
+    },
+    {
+      "id": "my-favorite-6-rpg-on-steam-just-got-a-beastmode-free-enhance",
+      "titre": "My favorite $6 RPG on Steam just got a beastmode free 'Enhanced Edition' update",
+      "url": "https://www.pcgamer.com/games/rpg/my-favorite-usd6-rpg-on-steam-just-got-a-beastmode-free-enhanced-edition-update/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/my-favorite-usd6-rpg-on-steam-just-got-a-beastmode-free-enhanced-edition-update/",
+          "titre": "My favorite $6 RPG on Steam just got a beastmode free 'Enhanced Edition' update"
         }
       ]
     },
@@ -131,31 +185,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.2,
       "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/i-sit-in-terror-looking-at-the-750-000-wishlists-a-nervous-dev-brings-a-classic-flash-game-to-steam/",
           "titre": "'I sit in terror looking at the 750,000 wishlists': A nervous dev brings a classic Flash game to Steam"
-        }
-      ]
-    },
-    {
-      "id": "sony-reportedly-surveying-developers-about-playstation-disc",
-      "titre": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?",
-      "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
-          "titre": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?"
         }
       ]
     },
@@ -167,7 +203,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.4,
       "chaleur": 8,
       "liens": [
         {
@@ -185,7 +221,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 7,
       "liens": [
         {
@@ -204,7 +240,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 5.4,
+      "heures": 7.5,
       "chaleur": 7,
       "liens": [
         {
@@ -227,7 +263,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 7,
       "liens": [
         {
@@ -245,55 +281,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.7,
       "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/gta-6-cant-completely-sweep-this-years-goty-awards-anymore",
           "titre": "GTA 6 Can't Completely Sweep This Year's GOTY Awards Anymore"
-        }
-      ]
-    },
-    {
-      "id": "review-ace-combat-8-wings-of-theve-ps5-the-series-lands-its",
-      "titre": "Review: Ace Combat 8: Wings of Theve (PS5) - The Series Lands Its Most Confident Entry Yet",
-      "url": "https://www.pushsquare.com/reviews/ps5/ace-combat-8-wings-of-theve",
-      "sources": [
-        "PC Gamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 8.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/ace-combat-8-wings-of-theve",
-          "titre": "Review: Ace Combat 8: Wings of Theve (PS5) - The Series Lands Its Most Confident Entry Yet"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/ace-combat-8-wings-of-theve-review/",
-          "titre": "Ace Combat 8: Wings of Theve review"
-        }
-      ]
-    },
-    {
-      "id": "speaking-to-pro-counter-strike-players-convinced-me-to-final",
-      "titre": "Speaking to pro Counter-Strike players convinced me to finally increase my mouse's polling rate, but not all the way to 8K",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/speaking-to-pro-counter-strike-players-convinced-me-to-finally-increase-my-mouses-polling-rate-but-not-all-the-way-to-8k/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 8.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-mice/speaking-to-pro-counter-strike-players-convinced-me-to-finally-increase-my-mouses-polling-rate-but-not-all-the-way-to-8k/",
-          "titre": "Speaking to pro Counter-Strike players convinced me to finally increase my mouse's polling rate, but not all the way to 8K"
         }
       ]
     },
@@ -306,7 +300,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 8.8,
+      "heures": 10.9,
       "chaleur": 7,
       "liens": [
         {
@@ -322,44 +316,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "unicorn-overlord-director-reveals-promising-new-ps5-rpg-cros",
-      "titre": "Unicorn Overlord Director Reveals Promising New PS5 RPG, Cross-Media Plans to Include Light Novels",
-      "url": "https://www.pushsquare.com/news/2026/09/unicorn-overlord-director-reveals-promising-new-ps5-rpg-cross-media-plans-to-include-light-novels",
+      "id": "sony-reportedly-surveying-developers-about-playstation-disc",
+      "titre": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?",
+      "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
       "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 10.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/unicorn-overlord-director-reveals-promising-new-ps5-rpg-cross-media-plans-to-include-light-novels",
-          "titre": "Unicorn Overlord Director Reveals Promising New PS5 RPG, Cross-Media Plans to Include Light Novels"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/unicorn-overlord-directors-upcoming-action-rpg-looks-expectedly-beautiful",
-          "titre": "Unicorn Overlord Director's Upcoming Action RPG Looks Expectedly Beautiful"
-        }
-      ]
-    },
-    {
-      "id": "reddit-mod-ordered-to-cough-up-4-500-000-to-nintendo-in-long",
-      "titre": "Reddit Mod Ordered To Cough Up $4,500,000 To Nintendo In Long-Running Switch Piracy Case",
-      "url": "https://www.nintendolife.com/news/2026/09/reddit-mod-ordered-to-cough-up-usd4500000-to-nintendo-in-long-running-switch-piracy-case",
-      "sources": [
-        "Nintendo Life"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
+      "heures": 13.4,
       "chaleur": 7,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/reddit-mod-ordered-to-cough-up-usd4500000-to-nintendo-in-long-running-switch-piracy-case",
-          "titre": "Reddit Mod Ordered To Cough Up $4,500,000 To Nintendo In Long-Running Switch Piracy Case"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
+          "titre": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?"
         }
       ]
     },
@@ -544,6 +514,78 @@ const VEILLE = {
       ]
     },
     {
+      "id": "london-games-festival",
+      "titre": "London Games Festival",
+      "url": "https://www.gamedeveloper.comgames.london",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.comgames.london",
+          "titre": "London Games Festival"
+        }
+      ]
+    },
+    {
+      "id": "guide-all-ps-plus-games-available-now",
+      "titre": "Guide: All PS Plus Games Available Now",
+      "url": "https://www.pushsquare.com/guides/all-ps-plus-games-available-now",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/all-ps-plus-games-available-now",
+          "titre": "Guide: All PS Plus Games Available Now"
+        }
+      ]
+    },
+    {
+      "id": "a-running-tally-of-the-most-ridiculous-things-ai-bigwigs-hav",
+      "titre": "A running tally of the most ridiculous things AI bigwigs have said so far",
+      "url": "https://www.pcgamer.com/games/live/news/what-are-the-ai-guys-saying-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/live/news/what-are-the-ai-guys-saying-now/",
+          "titre": "A running tally of the most ridiculous things AI bigwigs have said so far"
+        }
+      ]
+    },
+    {
+      "id": "i-did-the-math-on-my-wardogs-xp-grind-and-now-i-wish-i-hadn",
+      "titre": "I did the math on my Wardogs XP grind, and now I wish I hadn't",
+      "url": "https://www.pcgamer.com/games/fps/i-did-the-math-on-my-wardogs-xp-grind-and-now-i-wish-i-hadnt/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/i-did-the-math-on-my-wardogs-xp-grind-and-now-i-wish-i-hadnt/",
+          "titre": "I did the math on my Wardogs XP grind, and now I wish I hadn't"
+        }
+      ]
+    },
+    {
       "id": "newest-wolverine-ps5-update-wipes-out-scent-trails-to-collec",
       "titre": "Newest Wolverine PS5 Update Wipes Out Scent Trails to Collectibles",
       "url": "https://www.pushsquare.com/news/2026/09/newest-wolverine-ps5-update-wipes-out-scent-trails-to-collectibles",
@@ -551,13 +593,49 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 0.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/newest-wolverine-ps5-update-wipes-out-scent-trails-to-collectibles",
           "titre": "Newest Wolverine PS5 Update Wipes Out Scent Trails to Collectibles"
+        }
+      ]
+    },
+    {
+      "id": "how-to-open-the-auxiliary-lines-in-part-6-of-silent-hill-tow",
+      "titre": "How to open the auxiliary lines in Part 6 of Silent Hill: Townfall",
+      "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-open-the-auxiliary-lines/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-open-the-auxiliary-lines/",
+          "titre": "How to open the auxiliary lines in Part 6 of Silent Hill: Townfall"
+        }
+      ]
+    },
+    {
+      "id": "talking-point-what-are-you-playing-this-weekend-issue-651",
+      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 651",
+      "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-651",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-651",
+          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 651"
         }
       ]
     },
@@ -569,7 +647,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -587,139 +665,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/moba/the-eyes-of-valves-creepy-portrait-are-glowing-again/",
           "titre": "The eyes of Valve's creepy portrait are glowing again"
-        }
-      ]
-    },
-    {
-      "id": "this-78-year-old-grandmother-has-an-insatiable-lust-for-viol",
-      "titre": "This 78-year-old grandmother has an insatiable lust for violence (in Fortnite)",
-      "url": "https://www.pcgamer.com/games/battle-royale/this-78-year-old-grandmother-has-an-insatiable-lust-for-violence-in-fortnite/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/battle-royale/this-78-year-old-grandmother-has-an-insatiable-lust-for-violence-in-fortnite/",
-          "titre": "This 78-year-old grandmother has an insatiable lust for violence (in Fortnite)"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-dev-has-no-sympathy-for-players-ki",
-      "titre": "World of Warcraft: Forever dev has 'no sympathy' for players kicked from the beta for offensive names: 'If you're genuinely confused, remember that it's our database, we can see every character you've created'",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-has-no-sympathy-for-players-kicked-from-the-beta-for-offensive-names-if-youre-genuinely-confused-remember-that-its-our-database-we-can-see-every-character-youve-created/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-has-no-sympathy-for-players-kicked-from-the-beta-for-offensive-names-if-youre-genuinely-confused-remember-that-its-our-database-we-can-see-every-character-youve-created/",
-          "titre": "World of Warcraft: Forever dev has 'no sympathy' for players kicked from the beta for offensive names: 'If you're genuinely confused, remember that it's our database, we can see every character you've created'"
-        }
-      ]
-    },
-    {
-      "id": "ps5-fans-encouraged-to-give-feedback-on-discs-in-new-sony-su",
-      "titre": "PS5 Fans Encouraged to Give Feedback on Discs in New Sony Survey",
-      "url": "https://www.pushsquare.com/news/2026/09/ps5-fans-encouraged-to-give-feedback-on-discs-in-new-sony-survey",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/ps5-fans-encouraged-to-give-feedback-on-discs-in-new-sony-survey",
-          "titre": "PS5 Fans Encouraged to Give Feedback on Discs in New Sony Survey"
-        }
-      ]
-    },
-    {
-      "id": "skyrim-loremaster-says-the-elder-scrolls-never-got-a-fallout",
-      "titre": "Skyrim loremaster says The Elder Scrolls never got a Fallout: New Vegas-style game because Bethesda is \"very protective\" over its golden goose",
-      "url": "https://www.eurogamer.net/skyrim-elder-scrolls-never-fallout-new-vegas-bethesda",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/skyrim-elder-scrolls-never-fallout-new-vegas-bethesda",
-          "titre": "Skyrim loremaster says The Elder Scrolls never got a Fallout: New Vegas-style game because Bethesda is \"very protective\" over its golden goose"
-        }
-      ]
-    },
-    {
-      "id": "i-feel-like-i-m-running-a-corner-store-in-dredd-or-cyberpunk",
-      "titre": "I feel like I'm running a corner store in Dredd or Cyberpunk 2077",
-      "url": "https://www.pcgamer.com/games/sim/i-feel-like-im-running-a-corner-store-in-dredd-or-cyberpunk-2077/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/i-feel-like-im-running-a-corner-store-in-dredd-or-cyberpunk-2077/",
-          "titre": "I feel like I'm running a corner store in Dredd or Cyberpunk 2077"
-        }
-      ]
-    },
-    {
-      "id": "reminder-these-3-ps5-ps4-games-will-be-delisted-or-disabled",
-      "titre": "Reminder: These 3 PS5, PS4 Games Will Be Delisted or Disabled in October 2026",
-      "url": "https://www.pushsquare.com/news/2026/09/reminder-these-3-ps5-ps4-games-will-be-delisted-or-disabled-in-october-2026",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/reminder-these-3-ps5-ps4-games-will-be-delisted-or-disabled-in-october-2026",
-          "titre": "Reminder: These 3 PS5, PS4 Games Will Be Delisted or Disabled in October 2026"
-        }
-      ]
-    },
-    {
-      "id": "gdc-side-quest-exploring-co-development-opportunities-with-s",
-      "titre": "GDC Side Quest - Exploring co-development opportunities with Sam Carlisle",
-      "url": "https://www.gamedeveloper.com/production/gdc-side-quest-exploring-co-development-opportunities-with-sam-carlisle",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production/gdc-side-quest-exploring-co-development-opportunities-with-sam-carlisle",
-          "titre": "GDC Side Quest - Exploring co-development opportunities with Sam Carlisle"
         }
       ]
     },
@@ -731,31 +683,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/soulslike-fountains-gets-a-free-switch-2-upgrade-pack-one-week-after-launch",
           "titre": "Soulslike 'Fountains' Gets A Free Switch 2 Upgrade Pack One Week After Launch"
-        }
-      ]
-    },
-    {
-      "id": "i-ve-worked-at-pc-gamer-for-18-years-these-are-the-13-games",
-      "titre": "I've worked at PC Gamer for 18 years. These are the 13 games on my Steam Wishlist",
-      "url": "https://www.pcgamer.com/games/ive-worked-at-pc-gamer-for-18-years-these-are-the-13-games-on-my-steam-wishlist/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/ive-worked-at-pc-gamer-for-18-years-these-are-the-13-games-on-my-steam-wishlist/",
-          "titre": "I've worked at PC Gamer for 18 years. These are the 13 games on my Steam Wishlist"
         }
       ]
     },
@@ -767,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.4,
       "chaleur": 6,
       "liens": [
         {
@@ -785,7 +719,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
@@ -796,20 +730,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "review-diablo-iv-age-of-hatred-collection-switch-2-addictive",
-      "titre": "Review: Diablo IV: Age Of Hatred Collection (Switch 2) - Addictive, Enormous, And Runs Reasonably Well",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/diablo-iv-age-of-hatred-collection",
+      "id": "reddit-mod-ordered-to-cough-up-4-500-000-to-nintendo-in-long",
+      "titre": "Reddit Mod Ordered To Cough Up $4,500,000 To Nintendo In Long-Running Switch Piracy Case",
+      "url": "https://www.nintendolife.com/news/2026/09/reddit-mod-ordered-to-cough-up-usd4500000-to-nintendo-in-long-running-switch-piracy-case",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.3,
+      "heures": 13.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/diablo-iv-age-of-hatred-collection",
-          "titre": "Review: Diablo IV: Age Of Hatred Collection (Switch 2) - Addictive, Enormous, And Runs Reasonably Well"
+          "url": "https://www.nintendolife.com/news/2026/09/reddit-mod-ordered-to-cough-up-usd4500000-to-nintendo-in-long-running-switch-piracy-case",
+          "titre": "Reddit Mod Ordered To Cough Up $4,500,000 To Nintendo In Long-Running Switch Piracy Case"
         }
       ]
     },
@@ -821,37 +755,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/court-orders-reddit-moderator-who-widely-pirated-switch-games-to-pay-nintendo-4-5-million-in-damages/",
           "titre": "Court orders Reddit moderator who widely pirated Switch games to pay Nintendo $4.5 million in damages"
-        }
-      ]
-    },
-    {
-      "id": "bethesda-president-tells-obsidian-staff-that-the-studio-will",
-      "titre": "Bethesda president tells Obsidian staff that the studio will keep its ‘creative identity’ after its move",
-      "url": "https://www.videogameschronicle.com/news/bethesda-president-tells-obsidian-staff-that-the-studio-will-keep-its-creative-identity-after-its-move/",
-      "sources": [
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 13.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/bethesda-president-tells-obsidian-staff-that-the-studio-will-keep-its-creative-identity-after-its-move/",
-          "titre": "Bethesda president tells Obsidian staff that the studio will keep its ‘creative identity’ after its move"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/bethesda-say-new-underlings-obsidian-will-retain-their-distinct-creative-identity-despite-no-longer-being-as-free-to-work-on-their-own-creatively-distinct-series",
-          "titre": "Bethesda say new underlings Obsidian will retain their \"distinct\" creative identity, despite no longer being as free to work on their own creatively distinct series"
         }
       ]
     },
@@ -864,7 +774,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 28.4,
+      "heures": 30.5,
       "chaleur": 6,
       "liens": [
         {
@@ -887,7 +797,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.0,
+      "heures": 32.1,
       "chaleur": 6,
       "liens": [
         {
@@ -898,20 +808,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gt",
-      "titre": "After eighteen years of jaggedy bowling, a new mod bestows GTA 4 with DLSS and FSR support",
-      "url": "https://www.rockpapershotgun.com/after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gta-4-with-dlss-and-fsr-support",
+      "id": "review-diablo-iv-age-of-hatred-collection-switch-2-addictive",
+      "titre": "Review: Diablo IV: Age Of Hatred Collection (Switch 2) - Addictive, Enormous, And Runs Reasonably Well",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/diablo-iv-age-of-hatred-collection",
       "sources": [
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 35.8,
-      "chaleur": 6,
+      "heures": 12.4,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gta-4-with-dlss-and-fsr-support",
-          "titre": "After eighteen years of jaggedy bowling, a new mod bestows GTA 4 with DLSS and FSR support"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/diablo-iv-age-of-hatred-collection",
+          "titre": "Review: Diablo IV: Age Of Hatred Collection (Switch 2) - Addictive, Enormous, And Runs Reasonably Well"
         }
       ]
     },
@@ -923,7 +833,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 15.9,
       "chaleur": 5,
       "liens": [
         {
@@ -941,7 +851,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.9,
       "chaleur": 5,
       "liens": [
         {
@@ -959,7 +869,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.2,
+      "heures": 22.3,
       "chaleur": 5,
       "liens": [
         {
@@ -977,7 +887,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.7,
+      "heures": 31.8,
       "chaleur": 5,
       "liens": [
         {
@@ -995,7 +905,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 32.5,
+      "heures": 34.6,
       "chaleur": 5,
       "liens": [
         {
@@ -1006,38 +916,128 @@ const VEILLE = {
       ]
     },
     {
-      "id": "discord-roll-out-revised-age-verification-following-delay-du",
-      "titre": "Discord roll out revised age verification following delay due to pushback, pledging to be \"safer for teens, same Discord for Adults\"",
-      "url": "https://www.rockpapershotgun.com/discord-roll-out-revised-age-verification-following-delay-due-to-pushback-pledging-to-be-safer-for-teens-same-discord-for-adults",
+      "id": "this-78-year-old-grandmother-has-an-insatiable-lust-for-viol",
+      "titre": "This 78-year-old grandmother has an insatiable lust for violence (in Fortnite)",
+      "url": "https://www.pcgamer.com/games/battle-royale/this-78-year-old-grandmother-has-an-insatiable-lust-for-violence-in-fortnite/",
       "sources": [
-        "Rock Paper Shotgun"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 34.3,
-      "chaleur": 5,
+      "heures": 4.4,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/discord-roll-out-revised-age-verification-following-delay-due-to-pushback-pledging-to-be-safer-for-teens-same-discord-for-adults",
-          "titre": "Discord roll out revised age verification following delay due to pushback, pledging to be \"safer for teens, same Discord for Adults\""
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/battle-royale/this-78-year-old-grandmother-has-an-insatiable-lust-for-violence-in-fortnite/",
+          "titre": "This 78-year-old grandmother has an insatiable lust for violence (in Fortnite)"
         }
       ]
     },
     {
-      "id": "steam-frame-ready-vr-rhythm-game-beat-saber-is-adding-hand-t",
-      "titre": "Steam Frame-ready VR rhythm game Beat Saber is adding hand-tracking and a punchy new mode in its \"biggest update ever\"",
-      "url": "https://www.rockpapershotgun.com/steam-frame-ready-vr-rhythm-game-beat-saber-is-adding-hand-tracking-and-a-punchy-new-mode-in-its-biggest-update-ever",
+      "id": "world-of-warcraft-forever-dev-has-no-sympathy-for-players-ki",
+      "titre": "World of Warcraft: Forever dev has 'no sympathy' for players kicked from the beta for offensive names: 'If you're genuinely confused, remember that it's our database, we can see every character you've created'",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-has-no-sympathy-for-players-kicked-from-the-beta-for-offensive-names-if-youre-genuinely-confused-remember-that-its-our-database-we-can-see-every-character-youve-created/",
       "sources": [
-        "Rock Paper Shotgun"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 34.8,
-      "chaleur": 5,
+      "heures": 4.5,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/steam-frame-ready-vr-rhythm-game-beat-saber-is-adding-hand-tracking-and-a-punchy-new-mode-in-its-biggest-update-ever",
-          "titre": "Steam Frame-ready VR rhythm game Beat Saber is adding hand-tracking and a punchy new mode in its \"biggest update ever\""
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-has-no-sympathy-for-players-kicked-from-the-beta-for-offensive-names-if-youre-genuinely-confused-remember-that-its-our-database-we-can-see-every-character-youve-created/",
+          "titre": "World of Warcraft: Forever dev has 'no sympathy' for players kicked from the beta for offensive names: 'If you're genuinely confused, remember that it's our database, we can see every character you've created'"
+        }
+      ]
+    },
+    {
+      "id": "ps5-fans-encouraged-to-give-feedback-on-discs-in-new-sony-su",
+      "titre": "PS5 Fans Encouraged to Give Feedback on Discs in New Sony Survey",
+      "url": "https://www.pushsquare.com/news/2026/09/ps5-fans-encouraged-to-give-feedback-on-discs-in-new-sony-survey",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/ps5-fans-encouraged-to-give-feedback-on-discs-in-new-sony-survey",
+          "titre": "PS5 Fans Encouraged to Give Feedback on Discs in New Sony Survey"
+        }
+      ]
+    },
+    {
+      "id": "skyrim-loremaster-says-the-elder-scrolls-never-got-a-fallout",
+      "titre": "Skyrim loremaster says The Elder Scrolls never got a Fallout: New Vegas-style game because Bethesda is \"very protective\" over its golden goose",
+      "url": "https://www.eurogamer.net/skyrim-elder-scrolls-never-fallout-new-vegas-bethesda",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/skyrim-elder-scrolls-never-fallout-new-vegas-bethesda",
+          "titre": "Skyrim loremaster says The Elder Scrolls never got a Fallout: New Vegas-style game because Bethesda is \"very protective\" over its golden goose"
+        }
+      ]
+    },
+    {
+      "id": "i-feel-like-i-m-running-a-corner-store-in-dredd-or-cyberpunk",
+      "titre": "I feel like I'm running a corner store in Dredd or Cyberpunk 2077",
+      "url": "https://www.pcgamer.com/games/sim/i-feel-like-im-running-a-corner-store-in-dredd-or-cyberpunk-2077/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/i-feel-like-im-running-a-corner-store-in-dredd-or-cyberpunk-2077/",
+          "titre": "I feel like I'm running a corner store in Dredd or Cyberpunk 2077"
+        }
+      ]
+    },
+    {
+      "id": "reminder-these-3-ps5-ps4-games-will-be-delisted-or-disabled",
+      "titre": "Reminder: These 3 PS5, PS4 Games Will Be Delisted or Disabled in October 2026",
+      "url": "https://www.pushsquare.com/news/2026/09/reminder-these-3-ps5-ps4-games-will-be-delisted-or-disabled-in-october-2026",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/reminder-these-3-ps5-ps4-games-will-be-delisted-or-disabled-in-october-2026",
+          "titre": "Reminder: These 3 PS5, PS4 Games Will Be Delisted or Disabled in October 2026"
+        }
+      ]
+    },
+    {
+      "id": "gdc-side-quest-exploring-co-development-opportunities-with-s",
+      "titre": "GDC Side Quest - Exploring co-development opportunities with Sam Carlisle",
+      "url": "https://www.gamedeveloper.com/production/gdc-side-quest-exploring-co-development-opportunities-with-sam-carlisle",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/production/gdc-side-quest-exploring-co-development-opportunities-with-sam-carlisle",
+          "titre": "GDC Side Quest - Exploring co-development opportunities with Sam Carlisle"
         }
       ]
     },
@@ -1049,7 +1049,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1067,7 +1067,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1085,7 +1085,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1103,7 +1103,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1121,31 +1121,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/software/ai/everything-is-hard-but-it-turns-out-thats-not-societys-problem-thats-my-problem-says-jensen-huang-about-ai-development/",
           "titre": "'Everything is hard. But it turns out that’s not society’s problem, that’s my problem,' says Jensen Huang about AI development"
-        }
-      ]
-    },
-    {
-      "id": "astro-bot-s-276-piece-lego-set-immortalises-the-ps5-icon-wit",
-      "titre": "Astro Bot's 276 Piece LEGO Set Immortalises the PS5 Icon with Interchangeable Eyes",
-      "url": "https://www.pushsquare.com/news/2026/09/astro-bots-276-piece-lego-set-immortalises-the-ps5-icon-with-interchangeable-eyes",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 5.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/astro-bots-276-piece-lego-set-immortalises-the-ps5-icon-with-interchangeable-eyes",
-          "titre": "Astro Bot's 276 Piece LEGO Set Immortalises the PS5 Icon with Interchangeable Eyes"
         }
       ]
     }
