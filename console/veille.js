@@ -1,8 +1,56 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "26/09/2026 à 12h23",
+  "collecte": "26/09/2026 à 14h19",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "microsoft-ceo-says-xbox-s-streamlining-process-is-great-to-s",
+      "titre": "Microsoft CEO says Xbox's 'streamlining' process is 'great to see' following its most recent round of layoffs",
+      "url": "https://www.pcgamer.com/gaming-industry/microsoft-ceo-says-xboxs-streamlining-process-is-great-to-see-following-its-most-recent-round-of-layoffs/",
+      "sources": [
+        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.0,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/microsoft-ceo-says-xboxs-streamlining-process-is-great-to-see-following-its-most-recent-round-of-layoffs/",
+          "titre": "Microsoft CEO says Xbox's 'streamlining' process is 'great to see' following its most recent round of layoffs"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/microsoft-ceo-says-streamlining-of-xbox-business-is-great-to-see/",
+          "titre": "Microsoft CEO says ‘streamlining’ of Xbox business is ‘great to see’"
+        }
+      ]
+    },
+    {
+      "id": "gta-veteran-s-mindseye-studio-build-a-rocket-boy-has-entered",
+      "titre": "GTA veteran's MindsEye studio Build a Rocket Boy has entered administration, following yet more reports of layoffs",
+      "url": "https://www.eurogamer.net/mindseye-build-a-rocket-boy-administration-insolvency",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 26.2,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/mindseye-build-a-rocket-boy-administration-insolvency",
+          "titre": "GTA veteran's MindsEye studio Build a Rocket Boy has entered administration, following yet more reports of layoffs"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/build-a-rocket-boy-has-appointed-administrators",
+          "titre": "Build A Rocket Boy has appointed administrators"
+        }
+      ]
+    },
     {
       "id": "us-court-orders-redditor-to-pay-nintendo-3-4m-over-switch-pi",
       "titre": "US court orders Redditor to pay Nintendo £3.4m over Switch piracy",
@@ -13,8 +61,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 2.1,
-      "chaleur": 15,
+      "heures": 4.0,
+      "chaleur": 13,
       "liens": [
         {
           "source": "Eurogamer",
@@ -34,30 +82,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-veteran-s-mindseye-studio-build-a-rocket-boy-has-entered",
-      "titre": "GTA veteran's MindsEye studio Build a Rocket Boy has entered administration, following yet more reports of layoffs",
-      "url": "https://www.eurogamer.net/mindseye-build-a-rocket-boy-administration-insolvency",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 24.2,
-      "chaleur": 14,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/mindseye-build-a-rocket-boy-administration-insolvency",
-          "titre": "GTA veteran's MindsEye studio Build a Rocket Boy has entered administration, following yet more reports of layoffs"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/build-a-rocket-boy-has-appointed-administrators",
-          "titre": "Build A Rocket Boy has appointed administrators"
-        }
-      ]
-    },
-    {
       "id": "talking-point-what-are-you-playing-this-weekend-26th-septemb",
       "titre": "Talking Point: What Are You Playing This Weekend? (26th September)",
       "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-26th-september",
@@ -67,8 +91,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 3.4,
-      "chaleur": 12,
+      "heures": 5.3,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -95,7 +119,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.2,
+      "heures": 28.1,
       "chaleur": 10,
       "liens": [
         {
@@ -114,7 +138,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 9,
       "liens": [
         {
@@ -137,31 +161,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.2,
       "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/guides/best-castlevania-games-ranked-switch-and-nintendo-consoles",
           "titre": "Guide: Best Castlevania Games, Ranked - Switch & Nintendo Consoles"
-        }
-      ]
-    },
-    {
-      "id": "microsoft-ceo-says-streamlining-of-xbox-business-is-great-to",
-      "titre": "Microsoft CEO says ‘streamlining’ of Xbox business is ‘great to see’",
-      "url": "https://www.videogameschronicle.com/news/microsoft-ceo-says-streamlining-of-xbox-business-is-great-to-see/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 0.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/microsoft-ceo-says-streamlining-of-xbox-business-is-great-to-see/",
-          "titre": "Microsoft CEO says ‘streamlining’ of Xbox business is ‘great to see’"
         }
       ]
     },
@@ -174,7 +180,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 16.8,
+      "heures": 18.8,
       "chaleur": 8,
       "liens": [
         {
@@ -197,55 +203,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 28.3,
+      "heures": 30.2,
       "chaleur": 8,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
           "titre": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software"
-        }
-      ]
-    },
-    {
-      "id": "and-now-an-evil-has-appeared-nintendo-releases-extended-zel",
-      "titre": "\"And, Now... An Evil Has Appeared\" - Nintendo Releases Extended Zelda: Ocarina Of Time Switch 2 Clip",
-      "url": "https://www.nintendolife.com/news/2026/09/and-now-an-evil-has-appeared-nintendo-releases-extended-zelda-ocarina-of-time-switch-2-clip",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/and-now-an-evil-has-appeared-nintendo-releases-extended-zelda-ocarina-of-time-switch-2-clip",
-          "titre": "\"And, Now... An Evil Has Appeared\" - Nintendo Releases Extended Zelda: Ocarina Of Time Switch 2 Clip"
-        }
-      ]
-    },
-    {
-      "id": "video-digital-foundry-delivers-its-tech-analysis-of-fire-emb",
-      "titre": "Video: Digital Foundry Delivers Its Tech Analysis Of Fire Emblem: Fortune's Weave",
-      "url": "https://www.nintendolife.com/news/2026/09/video-digital-foundry-delivers-its-tech-analysis-of-fire-emblem-fortunes-weave",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 11.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/video-digital-foundry-delivers-its-tech-analysis-of-fire-emblem-fortunes-weave",
-          "titre": "Video: Digital Foundry Delivers Its Tech Analysis Of Fire Emblem: Fortune's Weave"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-master-location-missing-master-quest-guide/",
-          "titre": "Fire Emblem Fortune’s Weave: Master location, Missing Master quest guide"
         }
       ]
     },
@@ -257,7 +221,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.7,
+      "heures": 21.7,
       "chaleur": 7,
       "liens": [
         {
@@ -275,7 +239,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.3,
       "chaleur": 7,
       "liens": [
         {
@@ -520,6 +484,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "interview-we-re-not-making-a-party-game-now-it-s-more-of-an",
+      "titre": "Interview: \"We're Not Making A Party Game Now, It's More Of An Evening Thing\" - Ghost Town Is Moving On From Overcooked",
+      "url": "https://www.nintendolife.com/features/interview-were-not-making-a-party-game-now-its-more-of-an-evening-thing-ghost-town-is-moving-on-from-overcooked",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/interview-were-not-making-a-party-game-now-its-more-of-an-evening-thing-ghost-town-is-moving-on-from-overcooked",
+          "titre": "Interview: \"We're Not Making A Party Game Now, It's More Of An Evening Thing\" - Ghost Town Is Moving On From Overcooked"
+        }
+      ]
+    },
+    {
+      "id": "dressmaker-is-a-serious-seamstress-sim-with-a-lot-of-love-st",
+      "titre": "Dressmaker is a serious seamstress sim with a lot of love stitched into the finer details",
+      "url": "https://www.pcgamer.com/games/sim/dressmaker-is-a-serious-seamstress-sim-with-a-lot-of-love-stitched-into-the-finer-details/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/dressmaker-is-a-serious-seamstress-sim-with-a-lot-of-love-stitched-into-the-finer-details/",
+          "titre": "Dressmaker is a serious seamstress sim with a lot of love stitched into the finer details"
+        }
+      ]
+    },
+    {
       "id": "mobygames-video-game-database-now-lets-developers-claim-thei",
       "titre": "MobyGames video game database now lets developers claim their game credits",
       "url": "https://www.eurogamer.net/mobygames-professional-developer-credits-portfolio",
@@ -527,7 +527,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -545,7 +545,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -563,7 +563,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -581,7 +581,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -592,20 +592,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "feature-delta-force-celebrates-its-second-anniversary-with-n",
-      "titre": "Feature: Delta Force Celebrates Its Second Anniversary with New Season Reorientation",
-      "url": "https://www.pushsquare.com/features/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation",
+      "id": "and-now-an-evil-has-appeared-nintendo-releases-extended-zel",
+      "titre": "\"And, Now... An Evil Has Appeared\" - Nintendo Releases Extended Zelda: Ocarina Of Time Switch 2 Clip",
+      "url": "https://www.nintendolife.com/news/2026/09/and-now-an-evil-has-appeared-nintendo-releases-extended-zelda-ocarina-of-time-switch-2-clip",
       "sources": [
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.9,
+      "heures": 12.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation",
-          "titre": "Feature: Delta Force Celebrates Its Second Anniversary with New Season Reorientation"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/and-now-an-evil-has-appeared-nintendo-releases-extended-zelda-ocarina-of-time-switch-2-clip",
+          "titre": "\"And, Now... An Evil Has Appeared\" - Nintendo Releases Extended Zelda: Ocarina Of Time Switch 2 Clip"
+        }
+      ]
+    },
+    {
+      "id": "video-digital-foundry-delivers-its-tech-analysis-of-fire-emb",
+      "titre": "Video: Digital Foundry Delivers Its Tech Analysis Of Fire Emblem: Fortune's Weave",
+      "url": "https://www.nintendolife.com/news/2026/09/video-digital-foundry-delivers-its-tech-analysis-of-fire-emblem-fortunes-weave",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 13.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/video-digital-foundry-delivers-its-tech-analysis-of-fire-emblem-fortunes-weave",
+          "titre": "Video: Digital Foundry Delivers Its Tech Analysis Of Fire Emblem: Fortune's Weave"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-master-location-missing-master-quest-guide/",
+          "titre": "Fire Emblem Fortune’s Weave: Master location, Missing Master quest guide"
         }
       ]
     },
@@ -617,7 +641,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.3,
       "chaleur": 6,
       "liens": [
         {
@@ -636,7 +660,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 19.4,
+      "heures": 21.4,
       "chaleur": 6,
       "liens": [
         {
@@ -659,7 +683,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.6,
+      "heures": 23.6,
       "chaleur": 6,
       "liens": [
         {
@@ -677,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.3,
       "chaleur": 5,
       "liens": [
         {
@@ -695,7 +719,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 15.9,
       "chaleur": 5,
       "liens": [
         {
@@ -713,7 +737,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 17.1,
       "chaleur": 5,
       "liens": [
         {
@@ -731,7 +755,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 21.8,
       "chaleur": 5,
       "liens": [
         {
@@ -749,7 +773,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.3,
       "chaleur": 5,
       "liens": [
         {
@@ -767,7 +791,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.3,
       "chaleur": 5,
       "liens": [
         {
@@ -785,7 +809,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 26.3,
       "chaleur": 5,
       "liens": [
         {
@@ -803,7 +827,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 27.9,
+      "heures": 29.8,
       "chaleur": 5,
       "liens": [
         {
@@ -814,20 +838,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "square-enix-shows-off-exclusive-sleeve-for-dragon-quest-xi-s",
-      "titre": "Square Enix Shows Off Exclusive Sleeve For Dragon Quest XI S On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/09/square-enix-shows-off-exclusive-sleeve-for-dragon-quest-xi-s-on-switch-2",
+      "id": "feature-delta-force-celebrates-its-second-anniversary-with-n",
+      "titre": "Feature: Delta Force Celebrates Its Second Anniversary with New Season Reorientation",
+      "url": "https://www.pushsquare.com/features/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.9,
-      "chaleur": 5,
+      "heures": 4.8,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/square-enix-shows-off-exclusive-sleeve-for-dragon-quest-xi-s-on-switch-2",
-          "titre": "Square Enix Shows Off Exclusive Sleeve For Dragon Quest XI S On Switch 2"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation",
+          "titre": "Feature: Delta Force Celebrates Its Second Anniversary with New Season Reorientation"
         }
       ]
     },
@@ -839,7 +863,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -857,8 +881,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -875,7 +899,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.1,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +917,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.1,
       "chaleur": 3,
       "liens": [
         {
@@ -911,7 +935,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +953,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.8,
       "chaleur": 3,
       "liens": [
         {
@@ -947,7 +971,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 15.1,
       "chaleur": 3,
       "liens": [
         {
@@ -965,7 +989,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.2,
       "chaleur": 3,
       "liens": [
         {
@@ -983,7 +1007,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +1025,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,7 +1043,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1037,7 +1061,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 19.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1055,31 +1079,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/skyrim-elder-scrolls-never-fallout-new-vegas-bethesda",
           "titre": "Skyrim loremaster says The Elder Scrolls never got a Fallout: New Vegas-style game because Bethesda is \"very protective\" over its golden goose"
-        }
-      ]
-    },
-    {
-      "id": "i-feel-like-i-m-running-a-corner-store-in-dredd-or-cyberpunk",
-      "titre": "I feel like I'm running a corner store in Dredd or Cyberpunk 2077",
-      "url": "https://www.pcgamer.com/games/sim/i-feel-like-im-running-a-corner-store-in-dredd-or-cyberpunk-2077/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/i-feel-like-im-running-a-corner-store-in-dredd-or-cyberpunk-2077/",
-          "titre": "I feel like I'm running a corner store in Dredd or Cyberpunk 2077"
         }
       ]
     },
@@ -1091,7 +1097,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 19.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1109,7 +1115,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 19.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1127,7 +1133,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1139,6 +1145,6 @@ const VEILLE = {
     }
   ],
   "alertes": [
-    "US court orders Redditor to pay Nintendo £3.4m over Switch piracy"
+    "Microsoft CEO says Xbox's 'streamlining' process is 'great to see' following its most recent round of layoffs"
   ]
 };
