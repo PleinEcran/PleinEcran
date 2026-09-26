@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "26/09/2026 à 00h25",
+  "collecte": "26/09/2026 à 02h19",
   "seuil": 14,
   "sujets": [
     {
@@ -12,7 +12,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 12.3,
+      "heures": 14.2,
       "chaleur": 14,
       "liens": [
         {
@@ -36,7 +36,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 7.8,
+      "heures": 9.7,
       "chaleur": 12,
       "liens": [
         {
@@ -52,36 +52,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "poll-what-review-score-would-you-give-marvel-s-wolverine",
-      "titre": "Poll: What Review Score Would You Give Marvel's Wolverine?",
-      "url": "https://www.pushsquare.com/features/poll-what-review-score-would-you-give-marvels-wolverine",
-      "sources": [
-        "Nintendo Life",
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 8.4,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/poll-what-review-score-would-you-give-marvels-wolverine",
-          "titre": "Poll: What Review Score Would You Give Marvel's Wolverine?"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/poll-what-review-score-would-you-give-fire-emblem-fortunes-weave",
-          "titre": "Poll: What Review Score Would You Give Fire Emblem: Fortune's Weave?"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-master-location-missing-master-quest-guide/",
-          "titre": "Fire Emblem Fortune’s Weave: Master location, Missing Master quest guide"
-        }
-      ]
-    },
-    {
       "id": "colourful-jrpg-armed-fantasia-has-been-cancelled-four-years",
       "titre": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits",
       "url": "https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits",
@@ -89,13 +59,37 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.1,
       "chaleur": 10,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits",
           "titre": "Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits"
+        }
+      ]
+    },
+    {
+      "id": "video-digital-foundry-delivers-its-tech-analysis-of-fire-emb",
+      "titre": "Video: Digital Foundry Delivers Its Tech Analysis Of Fire Emblem: Fortune's Weave",
+      "url": "https://www.nintendolife.com/news/2026/09/video-digital-foundry-delivers-its-tech-analysis-of-fire-emblem-fortunes-weave",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/video-digital-foundry-delivers-its-tech-analysis-of-fire-emblem-fortunes-weave",
+          "titre": "Video: Digital Foundry Delivers Its Tech Analysis Of Fire Emblem: Fortune's Weave"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-master-location-missing-master-quest-guide/",
+          "titre": "Fire Emblem Fortune’s Weave: Master location, Missing Master quest guide"
         }
       ]
     },
@@ -107,7 +101,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 9,
       "liens": [
         {
@@ -126,7 +120,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.9,
+      "heures": 6.8,
       "chaleur": 9,
       "liens": [
         {
@@ -149,7 +143,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 8,
       "liens": [
         {
@@ -167,31 +161,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 3.9,
       "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/rpg/my-favorite-usd6-rpg-on-steam-just-got-a-beastmode-free-enhanced-edition-update/",
           "titre": "My favorite $6 RPG on Steam just got a beastmode free 'Enhanced Edition' update"
-        }
-      ]
-    },
-    {
-      "id": "i-sit-in-terror-looking-at-the-750-000-wishlists-a-nervous",
-      "titre": "'I sit in terror looking at the 750,000 wishlists': A nervous dev brings a classic Flash game to Steam",
-      "url": "https://www.pcgamer.com/games/i-sit-in-terror-looking-at-the-750-000-wishlists-a-nervous-dev-brings-a-classic-flash-game-to-steam/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/i-sit-in-terror-looking-at-the-750-000-wishlists-a-nervous-dev-brings-a-classic-flash-game-to-steam/",
-          "titre": "'I sit in terror looking at the 750,000 wishlists': A nervous dev brings a classic Flash game to Steam"
         }
       ]
     },
@@ -203,7 +179,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.2,
       "chaleur": 8,
       "liens": [
         {
@@ -221,7 +197,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 7,
       "liens": [
         {
@@ -240,7 +216,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 7.5,
+      "heures": 9.4,
       "chaleur": 7,
       "liens": [
         {
@@ -256,24 +232,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "a-pro-cs2-player-told-me-he-ditched-his-superstrike-gaming-m",
-      "titre": "A pro CS2 player told me he ditched his Superstrike gaming mouse for the older Superlight 2 because it was 'inconsistent'",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/a-pro-cs2-player-told-me-he-ditched-his-superstrike-gaming-mouse-for-the-older-superlight-2-because-it-was-inconsistent/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-mice/a-pro-cs2-player-told-me-he-ditched-his-superstrike-gaming-mouse-for-the-older-superlight-2-because-it-was-inconsistent/",
-          "titre": "A pro CS2 player told me he ditched his Superstrike gaming mouse for the older Superlight 2 because it was 'inconsistent'"
-        }
-      ]
-    },
-    {
       "id": "gta-6-can-t-completely-sweep-this-year-s-goty-awards-anymore",
       "titre": "GTA 6 Can't Completely Sweep This Year's GOTY Awards Anymore",
       "url": "https://www.pushsquare.com/news/2026/09/gta-6-cant-completely-sweep-this-years-goty-awards-anymore",
@@ -281,37 +239,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.6,
       "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/gta-6-cant-completely-sweep-this-years-goty-awards-anymore",
           "titre": "GTA 6 Can't Completely Sweep This Year's GOTY Awards Anymore"
-        }
-      ]
-    },
-    {
-      "id": "buy-the-witcher-3-for-50-off-on-the-ps-store-now-get-its-ps5",
-      "titre": "Buy The Witcher 3 for 50% Off on the PS Store Now, Get Its PS5 Remaster for Free Next Week",
-      "url": "https://www.pushsquare.com/news/2026/09/buy-the-witcher-3-for-50percent-off-on-the-ps-store-now-get-its-ps5-remaster-for-free-next-week",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 10.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/buy-the-witcher-3-for-50percent-off-on-the-ps-store-now-get-its-ps5-remaster-for-free-next-week",
-          "titre": "Buy The Witcher 3 for 50% Off on the PS Store Now, Get Its PS5 Remaster for Free Next Week"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/this-weeks-free-epic-games-store-titles-are-astrea-and-mechabellum/",
-          "titre": "This week’s free Epic Games Store titles are Astrea and Mechabellum"
         }
       ]
     },
@@ -323,7 +257,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.3,
       "chaleur": 7,
       "liens": [
         {
@@ -532,6 +466,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "drop-everything-and-grab-the-popcorn-majuular-s-4-5-hour-doc",
+      "titre": "Drop everything and grab the popcorn: Majuular's 4.5-hour documentary on Ultima Online is here to devour your weekend",
+      "url": "https://www.pcgamer.com/games/rpg/drop-everything-and-grab-the-popcorn-majuulars-4-5-hour-documentary-on-ultima-online-is-here-to-devour-your-weekend/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/drop-everything-and-grab-the-popcorn-majuulars-4-5-hour-documentary-on-ultima-online-is-here-to-devour-your-weekend/",
+          "titre": "Drop everything and grab the popcorn: Majuular's 4.5-hour documentary on Ultima Online is here to devour your weekend"
+        }
+      ]
+    },
+    {
       "id": "guide-all-ps-plus-games-available-now",
       "titre": "Guide: All PS Plus Games Available Now",
       "url": "https://www.pushsquare.com/guides/all-ps-plus-games-available-now",
@@ -539,7 +491,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
@@ -557,7 +509,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
@@ -575,7 +527,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -593,7 +545,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
@@ -611,7 +563,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -629,7 +581,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -640,38 +592,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "guess-who-patented-a-new-system-for-in-game-ads",
-      "titre": "Guess who patented a new system for in-game ads",
-      "url": "https://www.pcgamer.com/gaming-industry/guess-who-patented-a-new-system-for-in-game-ads/",
+      "id": "i-sit-in-terror-looking-at-the-750-000-wishlists-a-nervous",
+      "titre": "'I sit in terror looking at the 750,000 wishlists': A nervous dev brings a classic Flash game to Steam",
+      "url": "https://www.pcgamer.com/games/i-sit-in-terror-looking-at-the-750-000-wishlists-a-nervous-dev-brings-a-classic-flash-game-to-steam/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.3,
+      "heures": 5.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/guess-who-patented-a-new-system-for-in-game-ads/",
-          "titre": "Guess who patented a new system for in-game ads"
-        }
-      ]
-    },
-    {
-      "id": "the-eyes-of-valve-s-creepy-portrait-are-glowing-again",
-      "titre": "The eyes of Valve's creepy portrait are glowing again",
-      "url": "https://www.pcgamer.com/games/moba/the-eyes-of-valves-creepy-portrait-are-glowing-again/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/moba/the-eyes-of-valves-creepy-portrait-are-glowing-again/",
-          "titre": "The eyes of Valve's creepy portrait are glowing again"
+          "url": "https://www.pcgamer.com/games/i-sit-in-terror-looking-at-the-750-000-wishlists-a-nervous-dev-brings-a-classic-flash-game-to-steam/",
+          "titre": "'I sit in terror looking at the 750,000 wishlists': A nervous dev brings a classic Flash game to Steam"
         }
       ]
     },
@@ -683,7 +617,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.8,
       "chaleur": 6,
       "liens": [
         {
@@ -694,38 +628,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ubisoft-switch-eshop-sale-now-live-up-to-90-off",
-      "titre": "Ubisoft Switch eShop Sale Now Live, Up To 90% Off",
-      "url": "https://www.nintendolife.com/news/2026/09/ubisoft-switch-eshop-sale-now-live-up-to-90percent-off",
+      "id": "buy-the-witcher-3-for-50-off-on-the-ps-store-now-get-its-ps5",
+      "titre": "Buy The Witcher 3 for 50% Off on the PS Store Now, Get Its PS5 Remaster for Free Next Week",
+      "url": "https://www.pushsquare.com/news/2026/09/buy-the-witcher-3-for-50percent-off-on-the-ps-store-now-get-its-ps5-remaster-for-free-next-week",
       "sources": [
-        "Nintendo Life"
+        "Push Square",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 10.4,
+      "reprises": 2,
+      "heures": 12.8,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/ubisoft-switch-eshop-sale-now-live-up-to-90percent-off",
-          "titre": "Ubisoft Switch eShop Sale Now Live, Up To 90% Off"
-        }
-      ]
-    },
-    {
-      "id": "the-xbox-reset-doesn-t-have-an-end-date-opinion",
-      "titre": "The Xbox reset doesn't have an end date | Opinion",
-      "url": "https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 6,
-      "liens": [
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/buy-the-witcher-3-for-50percent-off-on-the-ps-store-now-get-its-ps5-remaster-for-free-next-week",
+          "titre": "Buy The Witcher 3 for 50% Off on the PS Store Now, Get Its PS5 Remaster for Free Next Week"
+        },
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion",
-          "titre": "The Xbox reset doesn't have an end date | Opinion"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/this-weeks-free-epic-games-store-titles-are-astrea-and-mechabellum/",
+          "titre": "This week’s free Epic Games Store titles are Astrea and Mechabellum"
         }
       ]
     },
@@ -737,7 +659,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.3,
       "chaleur": 6,
       "liens": [
         {
@@ -755,7 +677,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.3,
       "chaleur": 6,
       "liens": [
         {
@@ -774,7 +696,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 30.5,
+      "heures": 32.4,
       "chaleur": 6,
       "liens": [
         {
@@ -797,13 +719,49 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 32.1,
+      "heures": 34.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
           "titre": "Rockstar reveals a £350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security"
+        }
+      ]
+    },
+    {
+      "id": "ubisoft-switch-eshop-sale-now-live-up-to-90-off",
+      "titre": "Ubisoft Switch eShop Sale Now Live, Up To 90% Off",
+      "url": "https://www.nintendolife.com/news/2026/09/ubisoft-switch-eshop-sale-now-live-up-to-90percent-off",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.3,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/ubisoft-switch-eshop-sale-now-live-up-to-90percent-off",
+          "titre": "Ubisoft Switch eShop Sale Now Live, Up To 90% Off"
+        }
+      ]
+    },
+    {
+      "id": "the-xbox-reset-doesn-t-have-an-end-date-opinion",
+      "titre": "The Xbox reset doesn't have an end date | Opinion",
+      "url": "https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 13.3,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion",
+          "titre": "The Xbox reset doesn't have an end date | Opinion"
         }
       ]
     },
@@ -815,7 +773,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.3,
       "chaleur": 5,
       "liens": [
         {
@@ -833,7 +791,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.8,
       "chaleur": 5,
       "liens": [
         {
@@ -851,7 +809,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 19.8,
       "chaleur": 5,
       "liens": [
         {
@@ -869,7 +827,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 24.2,
       "chaleur": 5,
       "liens": [
         {
@@ -887,7 +845,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.8,
+      "heures": 33.7,
       "chaleur": 5,
       "liens": [
         {
@@ -898,20 +856,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "dutch-consumer-group-files-lawsuit-against-epic-for-misleadi",
-      "titre": "Dutch consumer group files lawsuit against Epic for misleading young players on Fortnite, seeking more than €100m in compensation",
-      "url": "https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation",
+      "id": "guess-who-patented-a-new-system-for-in-game-ads",
+      "titre": "Guess who patented a new system for in-game ads",
+      "url": "https://www.pcgamer.com/gaming-industry/guess-who-patented-a-new-system-for-in-game-ads/",
       "sources": [
-        "GamesIndustry.biz"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 34.6,
-      "chaleur": 5,
+      "heures": 4.2,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation",
-          "titre": "Dutch consumer group files lawsuit against Epic for misleading young players on Fortnite, seeking more than €100m in compensation"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/guess-who-patented-a-new-system-for-in-game-ads/",
+          "titre": "Guess who patented a new system for in-game ads"
+        }
+      ]
+    },
+    {
+      "id": "the-eyes-of-valve-s-creepy-portrait-are-glowing-again",
+      "titre": "The eyes of Valve's creepy portrait are glowing again",
+      "url": "https://www.pcgamer.com/games/moba/the-eyes-of-valves-creepy-portrait-are-glowing-again/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/the-eyes-of-valves-creepy-portrait-are-glowing-again/",
+          "titre": "The eyes of Valve's creepy portrait are glowing again"
         }
       ]
     },
@@ -923,7 +899,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +917,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +935,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +953,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +971,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,7 +989,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,7 +1007,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1049,7 +1025,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1067,7 +1043,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1085,7 +1061,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1103,7 +1079,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1121,13 +1097,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/software/ai/everything-is-hard-but-it-turns-out-thats-not-societys-problem-thats-my-problem-says-jensen-huang-about-ai-development/",
           "titre": "'Everything is hard. But it turns out that’s not society’s problem, that’s my problem,' says Jensen Huang about AI development"
+        }
+      ]
+    },
+    {
+      "id": "astro-bot-s-276-piece-lego-set-immortalises-the-ps5-icon-wit",
+      "titre": "Astro Bot's 276 Piece LEGO Set Immortalises the PS5 Icon with Interchangeable Eyes",
+      "url": "https://www.pushsquare.com/news/2026/09/astro-bots-276-piece-lego-set-immortalises-the-ps5-icon-with-interchangeable-eyes",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 9.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/astro-bots-276-piece-lego-set-immortalises-the-ps5-icon-with-interchangeable-eyes",
+          "titre": "Astro Bot's 276 Piece LEGO Set Immortalises the PS5 Icon with Interchangeable Eyes"
         }
       ]
     }
