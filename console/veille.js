@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "27/09/2026 à 20h19",
+  "collecte": "27/09/2026 à 22h19",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 9.0,
+      "heures": 11.0,
       "chaleur": 13,
       "liens": [
         {
@@ -47,7 +47,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.1,
       "chaleur": 11,
       "liens": [
         {
@@ -66,7 +66,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 11,
       "liens": [
         {
@@ -90,7 +90,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 25.0,
+      "heures": 27.0,
       "chaleur": 11,
       "liens": [
         {
@@ -113,7 +113,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 9.7,
       "chaleur": 7,
       "liens": [
         {
@@ -358,6 +358,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "sony-s-hearing-a-lot-of-the-feedback-from-customers-nis-ame",
+      "titre": "'Sony's Hearing a Lot of the Feedback from Customers': NIS America Boss Weighs in on PS5 Disc Debate",
+      "url": "https://www.pushsquare.com/news/2026/09/sonys-hearing-a-lot-of-the-feedback-from-customers-nis-america-boss-weighs-in-on-ps5-disc-debate",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/sonys-hearing-a-lot-of-the-feedback-from-customers-nis-america-boss-weighs-in-on-ps5-disc-debate",
+          "titre": "'Sony's Hearing a Lot of the Feedback from Customers': NIS America Boss Weighs in on PS5 Disc Debate"
+        }
+      ]
+    },
+    {
       "id": "after-12-years-dark-souls-2-is-finally-playable-in-co-op-wit",
       "titre": "After 12 years, Dark Souls 2 is finally playable in co-op without interruptions",
       "url": "https://www.pcgamer.com/games/dark-souls/after-12-years-dark-souls-2-is-finally-playable-in-co-op-without-interruptions/",
@@ -365,7 +383,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
@@ -383,49 +401,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-story-director-laid-off-mere-days-after-e-day-went-gold/",
           "titre": "Gears of War story director laid off mere days after E-Day went gold"
-        }
-      ]
-    },
-    {
-      "id": "i-m-loving-wow-forever-but-i-can-t-help-but-miss-the-music-o",
-      "titre": "I'm loving WoW: Forever, but I can't help but miss the music of my other beloved MMO",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/im-loving-wow-forever-but-i-cant-help-but-miss-the-music-of-my-other-beloved-mmo/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/im-loving-wow-forever-but-i-cant-help-but-miss-the-music-of-my-other-beloved-mmo/",
-          "titre": "I'm loving WoW: Forever, but I can't help but miss the music of my other beloved MMO"
-        }
-      ]
-    },
-    {
-      "id": "shadow-the-hedgehog-is-supposed-to-be-dead",
-      "titre": "Shadow the Hedgehog is supposed to be dead",
-      "url": "https://www.pcgamer.com/games/action/shadow-the-hedgehog-is-supposed-to-be-dead/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/shadow-the-hedgehog-is-supposed-to-be-dead/",
-          "titre": "Shadow the Hedgehog is supposed to be dead"
         }
       ]
     },
@@ -437,31 +419,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/voidjoy-ga-10-elite-extender-for-switch-pro-controller-the-pros-dont-outweigh-the-mod-cons",
           "titre": "Review: Voidjoy GA-10 Elite Extender For Switch Pro Controller - The Pros Don't Outweigh The (Mod) Cons"
-        }
-      ]
-    },
-    {
-      "id": "minecraft-still-gains-around-300-000-new-players-a-day-xbox",
-      "titre": "Minecraft still gains around 300,000 new players a day, Xbox boss reveals",
-      "url": "https://www.eurogamer.net/minecraft-300000-new-players-daily-minecraft",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/minecraft-300000-new-players-daily-minecraft",
-          "titre": "Minecraft still gains around 300,000 new players a day, Xbox boss reveals"
         }
       ]
     },
@@ -473,7 +437,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.2,
+      "heures": 35.2,
       "chaleur": 6,
       "liens": [
         {
@@ -484,20 +448,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "us-court-orders-redditor-to-pay-nintendo-3-4m-over-switch-pi",
-      "titre": "US court orders Redditor to pay Nintendo £3.4m over Switch piracy",
-      "url": "https://www.eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million",
+      "id": "minecraft-still-gains-around-300-000-new-players-a-day-xbox",
+      "titre": "Minecraft still gains around 300,000 new players a day, Xbox boss reveals",
+      "url": "https://www.eurogamer.net/minecraft-300000-new-players-daily-minecraft",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 34.0,
-      "chaleur": 6,
+      "heures": 12.8,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million",
-          "titre": "US court orders Redditor to pay Nintendo £3.4m over Switch piracy"
+          "url": "https://www.eurogamer.net/minecraft-300000-new-players-daily-minecraft",
+          "titre": "Minecraft still gains around 300,000 new players a day, Xbox boss reveals"
         }
       ]
     },
@@ -509,7 +473,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 5,
       "liens": [
         {
@@ -527,7 +491,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 19.6,
       "chaleur": 5,
       "liens": [
         {
@@ -545,13 +509,49 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore-slump",
           "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #2 - A Sophomore Slump?"
+        }
+      ]
+    },
+    {
+      "id": "i-m-loving-wow-forever-but-i-can-t-help-but-miss-the-music-o",
+      "titre": "I'm loving WoW: Forever, but I can't help but miss the music of my other beloved MMO",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/im-loving-wow-forever-but-i-cant-help-but-miss-the-music-of-my-other-beloved-mmo/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/im-loving-wow-forever-but-i-cant-help-but-miss-the-music-of-my-other-beloved-mmo/",
+          "titre": "I'm loving WoW: Forever, but I can't help but miss the music of my other beloved MMO"
+        }
+      ]
+    },
+    {
+      "id": "shadow-the-hedgehog-is-supposed-to-be-dead",
+      "titre": "Shadow the Hedgehog is supposed to be dead",
+      "url": "https://www.pcgamer.com/games/action/shadow-the-hedgehog-is-supposed-to-be-dead/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/shadow-the-hedgehog-is-supposed-to-be-dead/",
+          "titre": "Shadow the Hedgehog is supposed to be dead"
         }
       ]
     },
@@ -563,7 +563,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -581,7 +581,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -599,7 +599,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -617,7 +617,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -635,7 +635,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -653,7 +653,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -671,7 +671,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -689,8 +689,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -707,7 +707,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
@@ -725,7 +725,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.3,
       "chaleur": 3,
       "liens": [
         {
@@ -743,7 +743,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 21.6,
       "chaleur": 3,
       "liens": [
         {
@@ -761,7 +761,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.4,
       "chaleur": 3,
       "liens": [
         {
@@ -779,7 +779,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.4,
       "chaleur": 3,
       "liens": [
         {
@@ -797,7 +797,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.9,
+      "heures": 25.9,
       "chaleur": 3,
       "liens": [
         {
@@ -815,7 +815,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 27.3,
       "chaleur": 3,
       "liens": [
         {
@@ -833,7 +833,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.6,
+      "heures": 27.6,
       "chaleur": 3,
       "liens": [
         {
@@ -851,7 +851,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.3,
+      "heures": 28.3,
       "chaleur": 3,
       "liens": [
         {
@@ -869,7 +869,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.5,
+      "heures": 28.5,
       "chaleur": 3,
       "liens": [
         {
@@ -887,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.3,
       "chaleur": 3,
       "liens": [
         {
@@ -905,7 +905,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 29.4,
       "chaleur": 3,
       "liens": [
         {
@@ -923,7 +923,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 28.1,
+      "heures": 30.1,
       "chaleur": 3,
       "liens": [
         {
@@ -941,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 28.3,
+      "heures": 30.3,
       "chaleur": 3,
       "liens": [
         {
@@ -959,7 +959,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 30.4,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +977,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.9,
+      "heures": 30.9,
       "chaleur": 3,
       "liens": [
         {
@@ -995,7 +995,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.3,
+      "heures": 32.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1013,7 +1013,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 32.4,
+      "heures": 34.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +1031,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,49 +1049,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/guides/these-21plus-ps5-and-ps-plus-games-are-coming-out-next-week-28th-4th-october",
           "titre": "Guide: These 21+ PS5 and PS Plus Games Are Coming Out Next Week (28th-4th October)"
-        }
-      ]
-    },
-    {
-      "id": "feature-delta-force-celebrates-its-second-anniversary-with-n",
-      "titre": "Feature: Delta Force Celebrates Its Second Anniversary with New Season Reorientation",
-      "url": "https://www.pushsquare.com/features/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 34.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation",
-          "titre": "Feature: Delta Force Celebrates Its Second Anniversary with New Season Reorientation"
-        }
-      ]
-    },
-    {
-      "id": "talking-point-what-are-you-playing-this-weekend-26th-septemb",
-      "titre": "Talking Point: What Are You Playing This Weekend? (26th September)",
-      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-26th-september",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-26th-september",
-          "titre": "Talking Point: What Are You Playing This Weekend? (26th September)"
         }
       ]
     }
