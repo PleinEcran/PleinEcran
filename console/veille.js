@@ -1,8 +1,44 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "27/09/2026 à 10h19",
+  "collecte": "27/09/2026 à 12h24",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "minecraft-is-getting-its-first-new-dimension-in-14-years-and",
+      "titre": "Minecraft is getting its first new dimension in 14 years, and it's called The Sift",
+      "url": "https://www.eurogamer.net/minecraft-the-sift-new-dimension-2027",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life",
+        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 4,
+      "heures": 1.1,
+      "chaleur": 15,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/minecraft-the-sift-new-dimension-2027",
+          "titre": "Minecraft is getting its first new dimension in 14 years, and it's called The Sift"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/minecraft-is-getting-its-first-new-dimension-in-15-years-and-it-is-riotously-pink/",
+          "titre": "Minecraft is getting its first new dimension in 15 years, and it is riotously pink"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/minecraft-is-officially-getting-its-first-new-dimension-in-15-years/",
+          "titre": "Minecraft is officially getting its first new dimension in 15 years"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/surprise-minecraft-is-getting-its-first-new-dimension-in-over-14-years",
+          "titre": "Surprise! Minecraft Is Getting Its First New Dimension In Over 14 Years"
+        }
+      ]
+    },
     {
       "id": "microsoft-ceo-says-xbox-s-streamlining-is-great-to-see-despi",
       "titre": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs",
@@ -13,7 +49,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 15.0,
+      "heures": 17.1,
       "chaleur": 14,
       "liens": [
         {
@@ -34,26 +70,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "minecraft-is-officially-getting-its-first-new-dimension-in-1",
-      "titre": "Minecraft is officially getting its first new dimension in 15 years",
-      "url": "https://www.videogameschronicle.com/news/minecraft-is-officially-getting-its-first-new-dimension-in-15-years/",
+      "id": "review-voidjoy-ga-10-elite-extender-for-switch-pro-controlle",
+      "titre": "Review: Voidjoy GA-10 Elite Extender For Switch Pro Controller - The Pros Don't Outweigh The (Mod) Cons",
+      "url": "https://www.nintendolife.com/reviews/voidjoy-ga-10-elite-extender-for-switch-pro-controller-the-pros-dont-outweigh-the-mod-cons",
       "sources": [
-        "Nintendo Life",
-        "VGC"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 3.0,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/minecraft-is-officially-getting-its-first-new-dimension-in-15-years/",
-          "titre": "Minecraft is officially getting its first new dimension in 15 years"
-        },
-        {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/surprise-minecraft-is-getting-its-first-new-dimension-in-over-14-years",
-          "titre": "Surprise! Minecraft Is Getting Its First New Dimension In Over 14 Years"
+          "url": "https://www.nintendolife.com/reviews/voidjoy-ga-10-elite-extender-for-switch-pro-controller-the-pros-dont-outweigh-the-mod-cons",
+          "titre": "Review: Voidjoy GA-10 Elite Extender For Switch Pro Controller - The Pros Don't Outweigh The (Mod) Cons"
         }
       ]
     },
@@ -65,31 +95,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.9,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/minecraft-300000-new-players-daily-minecraft",
           "titre": "Minecraft still gains around 300,000 new players a day, Xbox boss reveals"
-        }
-      ]
-    },
-    {
-      "id": "sony-patents-playstation-controller-that-accepts-credit-card",
-      "titre": "Sony patents PlayStation controller that accepts credit card payments",
-      "url": "https://www.videogameschronicle.com/news/sony-patents-playstation-controller-that-accepts-credit-card-payments/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sony-patents-playstation-controller-that-accepts-credit-card-payments/",
-          "titre": "Sony patents PlayStation controller that accepts credit card payments"
         }
       ]
     },
@@ -101,7 +113,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.4,
       "chaleur": 8,
       "liens": [
         {
@@ -346,6 +358,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "the-sunday-papers",
+      "titre": "The Sunday Papers",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-829",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-sunday-papers-829",
+          "titre": "The Sunday Papers"
+        }
+      ]
+    },
+    {
+      "id": "final-fantasy-7-director-says-revelation-s-platinum-trophy-w",
+      "titre": "Final Fantasy 7 director says Revelation's Platinum trophy will be \"easier to get\"",
+      "url": "https://www.eurogamer.net/final-fantasy-7-revelation-platinum-trophy-easier-hamaguchi",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/final-fantasy-7-revelation-platinum-trophy-easier-hamaguchi",
+          "titre": "Final Fantasy 7 director says Revelation's Platinum trophy will be \"easier to get\""
+        }
+      ]
+    },
+    {
       "id": "feature-box-art-brawl-duel-dragon-quest-ii-nes",
       "titre": "Feature: Box Art Brawl - Duel: Dragon Quest II (NES)",
       "url": "https://www.nintendolife.com/features/box-art-brawl-duel-dragon-quest-ii-nes",
@@ -353,13 +401,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/box-art-brawl-duel-dragon-quest-ii-nes",
           "titre": "Feature: Box Art Brawl - Duel: Dragon Quest II (NES)"
+        }
+      ]
+    },
+    {
+      "id": "sony-patents-playstation-controller-that-accepts-credit-card",
+      "titre": "Sony patents PlayStation controller that accepts credit card payments",
+      "url": "https://www.videogameschronicle.com/news/sony-patents-playstation-controller-that-accepts-credit-card-payments/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sony-patents-playstation-controller-that-accepts-credit-card-payments/",
+          "titre": "Sony patents PlayStation controller that accepts credit card payments"
         }
       ]
     },
@@ -371,37 +437,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/action/the-next-retro-games-coming-to-steam-are-a-pair-of-extremely-1990s-run-and-gunners-where-spanish-goku-fights-mutants/",
           "titre": "The next retro games coming to Steam are a pair of extremely 1990s run-and-gunners where Spanish Goku fights mutants"
-        }
-      ]
-    },
-    {
-      "id": "video-game-menu-the-game-is-all-about-everyone-s-favourite-g",
-      "titre": "Video Game Menu: The Game is all about everyone's favourite gaming pastime: pressing random buttons in the menus and seeing what they change",
-      "url": "https://www.rockpapershotgun.com/video-game-menu-the-game-is-all-about-everyones-favourite-gaming-pastime-pressing-random-buttons-in-the-menus-and-seeing-what-they-change",
-      "sources": [
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 16.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/video-game-menu-the-game-is-all-about-everyones-favourite-gaming-pastime-pressing-random-buttons-in-the-menus-and-seeing-what-they-change",
-          "titre": "Video Game Menu: The Game is all about everyone's favourite gaming pastime: pressing random buttons in the menus and seeing what they change"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-651",
-          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 651"
         }
       ]
     },
@@ -414,7 +456,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 6,
       "liens": [
         {
@@ -437,7 +479,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.2,
+      "heures": 25.3,
       "chaleur": 6,
       "liens": [
         {
@@ -455,31 +497,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.0,
+      "heures": 26.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million",
           "titre": "US court orders Redditor to pay Nintendo £3.4m over Switch piracy"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-fronts-next-game-informer-cover-with-new-info-and-scre",
-      "titre": "GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots",
-      "url": "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 34.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots",
-          "titre": "GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots"
         }
       ]
     },
@@ -491,7 +515,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.4,
       "chaleur": 5,
       "liens": [
         {
@@ -509,31 +533,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore-slump",
           "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #2 - A Sophomore Slump?"
-        }
-      ]
-    },
-    {
-      "id": "hell-is-us-shifts-switch-2-launch-due-to-very-busy-september",
-      "titre": "Hell Is Us Shifts Switch 2 Launch Due To \"Very Busy\" September Release Window",
-      "url": "https://www.nintendolife.com/news/2026/09/hell-is-us-shifts-switch-2-launch-due-to-very-busy-september-release-window",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/hell-is-us-shifts-switch-2-launch-due-to-very-busy-september-release-window",
-          "titre": "Hell Is Us Shifts Switch 2 Launch Due To \"Very Busy\" September Release Window"
         }
       ]
     },
@@ -545,7 +551,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -563,7 +569,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -581,7 +587,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
@@ -599,7 +605,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -617,7 +623,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -635,7 +641,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -653,7 +659,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -671,7 +677,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.7,
       "chaleur": 3,
       "liens": [
         {
@@ -689,13 +695,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/ps5s-welcome-hub-adds-animated-the-last-of-us-wallpaper",
           "titre": "PS5's Welcome Hub Adds Animated The Last of Us Wallpaper"
+        }
+      ]
+    },
+    {
+      "id": "video-game-menu-the-game-is-all-about-everyone-s-favourite-g",
+      "titre": "Video Game Menu: The Game is all about everyone's favourite gaming pastime: pressing random buttons in the menus and seeing what they change",
+      "url": "https://www.rockpapershotgun.com/video-game-menu-the-game-is-all-about-everyones-favourite-gaming-pastime-pressing-random-buttons-in-the-menus-and-seeing-what-they-change",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 18.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/video-game-menu-the-game-is-all-about-everyones-favourite-gaming-pastime-pressing-random-buttons-in-the-menus-and-seeing-what-they-change",
+          "titre": "Video Game Menu: The Game is all about everyone's favourite gaming pastime: pressing random buttons in the menus and seeing what they change"
         }
       ]
     },
@@ -707,7 +731,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -725,7 +749,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 20.2,
       "chaleur": 3,
       "liens": [
         {
@@ -743,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.3,
+      "heures": 20.4,
       "chaleur": 3,
       "liens": [
         {
@@ -761,7 +785,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.5,
       "chaleur": 3,
       "liens": [
         {
@@ -779,7 +803,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.9,
       "chaleur": 3,
       "liens": [
         {
@@ -797,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 22.1,
       "chaleur": 3,
       "liens": [
         {
@@ -815,7 +839,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 22.4,
       "chaleur": 3,
       "liens": [
         {
@@ -833,7 +857,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.4,
       "chaleur": 3,
       "liens": [
         {
@@ -851,7 +875,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.5,
       "chaleur": 3,
       "liens": [
         {
@@ -869,7 +893,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.4,
       "chaleur": 3,
       "liens": [
         {
@@ -887,7 +911,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.4,
       "chaleur": 3,
       "liens": [
         {
@@ -905,7 +929,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.6,
+      "heures": 25.7,
       "chaleur": 3,
       "liens": [
         {
@@ -923,7 +947,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 24.8,
+      "heures": 26.9,
       "chaleur": 3,
       "liens": [
         {
@@ -941,7 +965,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 27.4,
       "chaleur": 3,
       "liens": [
         {
@@ -959,7 +983,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.4,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +1001,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 32.2,
+      "heures": 34.3,
       "chaleur": 3,
       "liens": [
         {
@@ -986,97 +1010,9 @@ const VEILLE = {
           "titre": "Drop everything and grab the popcorn: Majuular's 4.5-hour documentary on Ultima Online is here to devour your weekend"
         }
       ]
-    },
-    {
-      "id": "guide-all-ps-plus-games-available-now",
-      "titre": "Guide: All PS Plus Games Available Now",
-      "url": "https://www.pushsquare.com/guides/all-ps-plus-games-available-now",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 34.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/all-ps-plus-games-available-now",
-          "titre": "Guide: All PS Plus Games Available Now"
-        }
-      ]
-    },
-    {
-      "id": "a-running-tally-of-the-most-ridiculous-things-ai-bigwigs-hav",
-      "titre": "A running tally of the most ridiculous things AI bigwigs have said so far",
-      "url": "https://www.pcgamer.com/games/live/news/what-are-the-ai-guys-saying-now/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 34.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/live/news/what-are-the-ai-guys-saying-now/",
-          "titre": "A running tally of the most ridiculous things AI bigwigs have said so far"
-        }
-      ]
-    },
-    {
-      "id": "i-did-the-math-on-my-wardogs-xp-grind-and-now-i-wish-i-hadn",
-      "titre": "I did the math on my Wardogs XP grind, and now I wish I hadn't",
-      "url": "https://www.pcgamer.com/games/fps/i-did-the-math-on-my-wardogs-xp-grind-and-now-i-wish-i-hadnt/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 34.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/i-did-the-math-on-my-wardogs-xp-grind-and-now-i-wish-i-hadnt/",
-          "titre": "I did the math on my Wardogs XP grind, and now I wish I hadn't"
-        }
-      ]
-    },
-    {
-      "id": "newest-wolverine-ps5-update-wipes-out-scent-trails-to-collec",
-      "titre": "Newest Wolverine PS5 Update Wipes Out Scent Trails to Collectibles",
-      "url": "https://www.pushsquare.com/news/2026/09/newest-wolverine-ps5-update-wipes-out-scent-trails-to-collectibles",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 34.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/newest-wolverine-ps5-update-wipes-out-scent-trails-to-collectibles",
-          "titre": "Newest Wolverine PS5 Update Wipes Out Scent Trails to Collectibles"
-        }
-      ]
-    },
-    {
-      "id": "how-to-open-the-auxiliary-lines-in-part-6-of-silent-hill-tow",
-      "titre": "How to open the auxiliary lines in Part 6 of Silent Hill: Townfall",
-      "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-open-the-auxiliary-lines/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 35.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-open-the-auxiliary-lines/",
-          "titre": "How to open the auxiliary lines in Part 6 of Silent Hill: Townfall"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Minecraft is getting its first new dimension in 14 years, and it's called The Sift"
+  ]
 };
