@@ -1,8 +1,80 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "27/09/2026 à 14h19",
+  "collecte": "27/09/2026 à 16h20",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "microsoft-ceo-says-xbox-s-streamlining-is-great-to-see-despi",
+      "titre": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs",
+      "url": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 21.1,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
+          "titre": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/microsoft-ceo-says-xboxs-streamlining-process-is-great-to-see-following-its-most-recent-round-of-layoffs/",
+          "titre": "Microsoft CEO says Xbox's 'streamlining' process is 'great to see' following its most recent round of layoffs"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/microsoft-ceo-says-streamlining-of-xbox-business-is-great-to-see/",
+          "titre": "Microsoft CEO says ‘streamlining’ of Xbox business is ‘great to see’"
+        }
+      ]
+    },
+    {
+      "id": "latest-xbox-layoffs-reportedly-devastated-age-of-empires-dev",
+      "titre": "Latest Xbox layoffs reportedly devastated Age of Empires developer and canceled its next game",
+      "url": "https://www.pcgamer.com/gaming-industry/latest-xbox-layoffs-reportedly-devastated-age-of-empires-developer-and-canceled-its-next-game/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 13,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/latest-xbox-layoffs-reportedly-devastated-age-of-empires-developer-and-canceled-its-next-game/",
+          "titre": "Latest Xbox layoffs reportedly devastated Age of Empires developer and canceled its next game"
+        }
+      ]
+    },
+    {
+      "id": "xbox-is-reportedly-paying-a-fraction-of-the-400-million-koji",
+      "titre": "Xbox is reportedly paying a \"fraction\" of the $400 million Kojima quoted Sony for Physint",
+      "url": "https://www.eurogamer.net/xbox-kojima-physint-budget-fraction-400-million",
+      "sources": [
+        "Eurogamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 1.9,
+      "chaleur": 13,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-kojima-physint-budget-fraction-400-million",
+          "titre": "Xbox is reportedly paying a \"fraction\" of the $400 million Kojima quoted Sony for Physint"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint",
+          "titre": "Xbox Allegedly Paying a 'Fraction' of the $400 Million Budget Kojima Is Rumoured to Have Quoted Sony for Physint"
+        }
+      ]
+    },
     {
       "id": "minecraft-is-getting-its-first-new-dimension-in-14-years-and",
       "titre": "Minecraft is getting its first new dimension in 14 years, and it's called The Sift",
@@ -14,8 +86,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 3.0,
-      "chaleur": 15,
+      "heures": 5.0,
+      "chaleur": 13,
       "liens": [
         {
           "source": "Eurogamer",
@@ -40,36 +112,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "microsoft-ceo-says-xbox-s-streamlining-is-great-to-see-despi",
-      "titre": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs",
-      "url": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 19.0,
-      "chaleur": 14,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
-          "titre": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/microsoft-ceo-says-xboxs-streamlining-process-is-great-to-see-following-its-most-recent-round-of-layoffs/",
-          "titre": "Microsoft CEO says Xbox's 'streamlining' process is 'great to see' following its most recent round of layoffs"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/microsoft-ceo-says-streamlining-of-xbox-business-is-great-to-see/",
-          "titre": "Microsoft CEO says ‘streamlining’ of Xbox business is ‘great to see’"
-        }
-      ]
-    },
-    {
       "id": "the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemin",
       "titre": "The spiritual successor to classic JRPG Wild Arms has seemingly been cancelled, four years after its Kickstarter raised nearly $3 million",
       "url": "https://www.pcgamer.com/games/rpg/the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemingly-been-cancelled-four-years-after-its-kickstarter-raised-nearly-usd3-million/",
@@ -77,31 +119,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/rpg/the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemingly-been-cancelled-four-years-after-its-kickstarter-raised-nearly-usd3-million/",
           "titre": "The spiritual successor to classic JRPG Wild Arms has seemingly been cancelled, four years after its Kickstarter raised nearly $3 million"
-        }
-      ]
-    },
-    {
-      "id": "review-voidjoy-ga-10-elite-extender-for-switch-pro-controlle",
-      "titre": "Review: Voidjoy GA-10 Elite Extender For Switch Pro Controller - The Pros Don't Outweigh The (Mod) Cons",
-      "url": "https://www.nintendolife.com/reviews/voidjoy-ga-10-elite-extender-for-switch-pro-controller-the-pros-dont-outweigh-the-mod-cons",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/voidjoy-ga-10-elite-extender-for-switch-pro-controller-the-pros-dont-outweigh-the-mod-cons",
-          "titre": "Review: Voidjoy GA-10 Elite Extender For Switch Pro Controller - The Pros Don't Outweigh The (Mod) Cons"
         }
       ]
     },
@@ -113,7 +137,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.3,
       "chaleur": 8,
       "liens": [
         {
@@ -358,6 +382,78 @@ const VEILLE = {
       ]
     },
     {
+      "id": "william-pugh-co-designer-of-the-stanley-parable-has-over-1-6",
+      "titre": "William Pugh, co-designer of The Stanley Parable, has over 1,600 hours in Dota 2: 'It's not a game made of love. It's a game fuelled by hate and a desire to conquer'",
+      "url": "https://www.pcgamer.com/gaming-industry/william-pugh-co-designer-of-the-stanley-parable-has-over-1-600-hours-in-dota-2-its-not-a-game-made-of-love-its-a-game-fuelled-by-hate-and-a-desire-to-conquer/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/william-pugh-co-designer-of-the-stanley-parable-has-over-1-600-hours-in-dota-2-its-not-a-game-made-of-love-its-a-game-fuelled-by-hate-and-a-desire-to-conquer/",
+          "titre": "William Pugh, co-designer of The Stanley Parable, has over 1,600 hours in Dota 2: 'It's not a game made of love. It's a game fuelled by hate and a desire to conquer'"
+        }
+      ]
+    },
+    {
+      "id": "five-nights-at-freddy-s-is-coming-to-fortnite-for-fortnitema",
+      "titre": "Five Nights at Freddy's is coming to Fortnite for Fortnitemares",
+      "url": "https://www.eurogamer.net/fortnite-five-nights-at-freddys-fortnitemares-collab",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/fortnite-five-nights-at-freddys-fortnitemares-collab",
+          "titre": "Five Nights at Freddy's is coming to Fortnite for Fortnitemares"
+        }
+      ]
+    },
+    {
+      "id": "opinion-i-played-mario-kart-tour-every-day-for-seven-years-a",
+      "titre": "Opinion: I Played Mario Kart Tour Every Day For Seven Years, And What Am I Left With?",
+      "url": "https://www.nintendolife.com/features/opinion-i-played-mario-kart-tour-every-day-for-seven-years-and-what-am-i-left-with",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/opinion-i-played-mario-kart-tour-every-day-for-seven-years-and-what-am-i-left-with",
+          "titre": "Opinion: I Played Mario Kart Tour Every Day For Seven Years, And What Am I Left With?"
+        }
+      ]
+    },
+    {
+      "id": "lords-of-the-end-times-greatest-fantasy-is-letting-us-rewrit",
+      "titre": "Lords of the End Times' greatest fantasy is letting us rewrite the most hated lore in Warhammer's history",
+      "url": "https://www.pcgamer.com/games/strategy/lords-of-the-end-times-greatest-fantasy-is-letting-us-rewrite-the-most-hated-lore-in-warhammers-history/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/lords-of-the-end-times-greatest-fantasy-is-letting-us-rewrite-the-most-hated-lore-in-warhammers-history/",
+          "titre": "Lords of the End Times' greatest fantasy is letting us rewrite the most hated lore in Warhammer's history"
+        }
+      ]
+    },
+    {
       "id": "this-ambitious-half-life-2-mod-asks-what-if-iron-lung-had-a",
       "titre": "This ambitious Half-Life 2 mod asks: what if Iron Lung had a submarine and an airship?",
       "url": "https://www.pcgamer.com/games/horror/this-ambitious-half-life-2-mod-asks-what-if-iron-lung-had-a-submarine-and-an-airship/",
@@ -365,7 +461,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -376,38 +472,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-sunday-papers",
-      "titre": "The Sunday Papers",
-      "url": "https://www.rockpapershotgun.com/the-sunday-papers-829",
+      "id": "review-voidjoy-ga-10-elite-extender-for-switch-pro-controlle",
+      "titre": "Review: Voidjoy GA-10 Elite Extender For Switch Pro Controller - The Pros Don't Outweigh The (Mod) Cons",
+      "url": "https://www.nintendolife.com/reviews/voidjoy-ga-10-elite-extender-for-switch-pro-controller-the-pros-dont-outweigh-the-mod-cons",
       "sources": [
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.3,
+      "heures": 4.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-sunday-papers-829",
-          "titre": "The Sunday Papers"
-        }
-      ]
-    },
-    {
-      "id": "final-fantasy-7-director-says-revelation-s-platinum-trophy-w",
-      "titre": "Final Fantasy 7 director says Revelation's Platinum trophy will be \"easier to get\"",
-      "url": "https://www.eurogamer.net/final-fantasy-7-revelation-platinum-trophy-easier-hamaguchi",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/final-fantasy-7-revelation-platinum-trophy-easier-hamaguchi",
-          "titre": "Final Fantasy 7 director says Revelation's Platinum trophy will be \"easier to get\""
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/voidjoy-ga-10-elite-extender-for-switch-pro-controller-the-pros-dont-outweigh-the-mod-cons",
+          "titre": "Review: Voidjoy GA-10 Elite Extender For Switch Pro Controller - The Pros Don't Outweigh The (Mod) Cons"
         }
       ]
     },
@@ -419,7 +497,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 6,
       "liens": [
         {
@@ -437,55 +515,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/sony-patents-playstation-controller-that-accepts-credit-card-payments/",
           "titre": "Sony patents PlayStation controller that accepts credit card payments"
-        }
-      ]
-    },
-    {
-      "id": "the-next-retro-games-coming-to-steam-are-a-pair-of-extremely",
-      "titre": "The next retro games coming to Steam are a pair of extremely 1990s run-and-gunners where Spanish Goku fights mutants",
-      "url": "https://www.pcgamer.com/games/action/the-next-retro-games-coming-to-steam-are-a-pair-of-extremely-1990s-run-and-gunners-where-spanish-goku-fights-mutants/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/the-next-retro-games-coming-to-steam-are-a-pair-of-extremely-1990s-run-and-gunners-where-spanish-goku-fights-mutants/",
-          "titre": "The next retro games coming to Steam are a pair of extremely 1990s run-and-gunners where Spanish Goku fights mutants"
-        }
-      ]
-    },
-    {
-      "id": "cyberpunk-2077-phantom-liberty-s-chimera-tank-boss-fight-was",
-      "titre": "Cyberpunk 2077: Phantom Liberty's Chimera tank boss fight was apparently so complex it took two years of \"reiterating over and over\" to get it right",
-      "url": "https://www.rockpapershotgun.com/cyberpunk-2077-phantom-libertys-chimera-tank-boss-fight-was-apparently-so-complex-it-took-two-years-of-reiterating-over-and-over-to-get-it-right",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 21.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cyberpunk-2077-phantom-libertys-chimera-tank-boss-fight-was-apparently-so-complex-it-took-two-years-of-reiterating-over-and-over-to-get-it-right",
-          "titre": "Cyberpunk 2077: Phantom Liberty's Chimera tank boss fight was apparently so complex it took two years of \"reiterating over and over\" to get it right"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/it-took-cd-projekt-two-years-to-design-phantom-libertys-chimera-tank-boss-fight-we-were-iterating-over-and-over/",
-          "titre": "It took CD Projekt two years to design Phantom Liberty's Chimera Tank boss fight: 'We were iterating over and over'"
         }
       ]
     },
@@ -497,7 +533,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.2,
+      "heures": 29.3,
       "chaleur": 6,
       "liens": [
         {
@@ -515,7 +551,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.0,
+      "heures": 30.0,
       "chaleur": 6,
       "liens": [
         {
@@ -526,20 +562,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-allegedly-paying-a-fraction-of-the-400-million-budget-k",
-      "titre": "Xbox Allegedly Paying a 'Fraction' of the $400 Million Budget Kojima Is Rumoured to Have Quoted Sony for Physint",
-      "url": "https://www.pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint",
+      "id": "the-next-retro-games-coming-to-steam-are-a-pair-of-extremely",
+      "titre": "The next retro games coming to Steam are a pair of extremely 1990s run-and-gunners where Spanish Goku fights mutants",
+      "url": "https://www.pcgamer.com/games/action/the-next-retro-games-coming-to-steam-are-a-pair-of-extremely-1990s-run-and-gunners-where-spanish-goku-fights-mutants/",
       "sources": [
-        "Push Square"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.3,
+      "heures": 13.6,
       "chaleur": 5,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint",
-          "titre": "Xbox Allegedly Paying a 'Fraction' of the $400 Million Budget Kojima Is Rumoured to Have Quoted Sony for Physint"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/the-next-retro-games-coming-to-steam-are-a-pair-of-extremely-1990s-run-and-gunners-where-spanish-goku-fights-mutants/",
+          "titre": "The next retro games coming to Steam are a pair of extremely 1990s run-and-gunners where Spanish Goku fights mutants"
         }
       ]
     },
@@ -551,13 +587,49 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore-slump",
           "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #2 - A Sophomore Slump?"
+        }
+      ]
+    },
+    {
+      "id": "the-sunday-papers",
+      "titre": "The Sunday Papers",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-829",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-sunday-papers-829",
+          "titre": "The Sunday Papers"
+        }
+      ]
+    },
+    {
+      "id": "final-fantasy-7-director-says-revelation-s-platinum-trophy-w",
+      "titre": "Final Fantasy 7 director says Revelation's Platinum trophy will be \"easier to get\"",
+      "url": "https://www.eurogamer.net/final-fantasy-7-revelation-platinum-trophy-easier-hamaguchi",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/final-fantasy-7-revelation-platinum-trophy-easier-hamaguchi",
+          "titre": "Final Fantasy 7 director says Revelation's Platinum trophy will be \"easier to get\""
         }
       ]
     },
@@ -569,7 +641,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -587,8 +659,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -605,7 +677,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
@@ -623,7 +695,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.6,
       "chaleur": 3,
       "liens": [
         {
@@ -641,7 +713,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -659,7 +731,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -677,7 +749,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 19.9,
       "chaleur": 3,
       "liens": [
         {
@@ -695,7 +767,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.3,
       "chaleur": 3,
       "liens": [
         {
@@ -713,7 +785,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 21.6,
       "chaleur": 3,
       "liens": [
         {
@@ -731,7 +803,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 22.3,
       "chaleur": 3,
       "liens": [
         {
@@ -749,7 +821,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.5,
+      "heures": 22.5,
       "chaleur": 3,
       "liens": [
         {
@@ -767,13 +839,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/i-saw-the-future-and-it-literally-stinks/",
           "titre": "I saw the future and it literally stinks"
+        }
+      ]
+    },
+    {
+      "id": "cyberpunk-2077-phantom-liberty-s-chimera-tank-boss-fight-was",
+      "titre": "Cyberpunk 2077: Phantom Liberty's Chimera tank boss fight was apparently so complex it took two years of \"reiterating over and over\" to get it right",
+      "url": "https://www.rockpapershotgun.com/cyberpunk-2077-phantom-libertys-chimera-tank-boss-fight-was-apparently-so-complex-it-took-two-years-of-reiterating-over-and-over-to-get-it-right",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 23.4,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/cyberpunk-2077-phantom-libertys-chimera-tank-boss-fight-was-apparently-so-complex-it-took-two-years-of-reiterating-over-and-over-to-get-it-right",
+          "titre": "Cyberpunk 2077: Phantom Liberty's Chimera tank boss fight was apparently so complex it took two years of \"reiterating over and over\" to get it right"
         }
       ]
     },
@@ -785,7 +875,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.1,
+      "heures": 24.1,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +893,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 24.3,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +911,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.4,
       "chaleur": 3,
       "liens": [
         {
@@ -839,7 +929,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.9,
+      "heures": 24.9,
       "chaleur": 3,
       "liens": [
         {
@@ -857,7 +947,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.0,
+      "heures": 26.0,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +965,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.3,
+      "heures": 26.3,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +983,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 27.3,
       "chaleur": 3,
       "liens": [
         {
@@ -911,7 +1001,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.4,
+      "heures": 28.4,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +1019,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.3,
       "chaleur": 3,
       "liens": [
         {
@@ -947,31 +1037,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/guides/these-21plus-ps5-and-ps-plus-games-are-coming-out-next-week-28th-4th-october",
           "titre": "Guide: These 21+ PS5 and PS Plus Games Are Coming Out Next Week (28th-4th October)"
-        }
-      ]
-    },
-    {
-      "id": "former-starfield-designer-says-bethesda-s-sci-fi-rpg-probabl",
-      "titre": "Former Starfield designer says Bethesda's sci-fi RPG probably won't get a sequel, because the original wasn't 'anywhere near successful enough'",
-      "url": "https://www.pcgamer.com/games/rpg/former-starfield-designer-says-bethesdas-sci-fi-rpg-probably-wont-get-a-sequel-because-the-original-wasnt-anywhere-near-successful-enough/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 27.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/former-starfield-designer-says-bethesdas-sci-fi-rpg-probably-wont-get-a-sequel-because-the-original-wasnt-anywhere-near-successful-enough/",
-          "titre": "Former Starfield designer says Bethesda's sci-fi RPG probably won't get a sequel, because the original wasn't 'anywhere near successful enough'"
         }
       ]
     },
@@ -983,7 +1055,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 28.8,
+      "heures": 30.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +1073,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,7 +1091,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 33.3,
       "chaleur": 3,
       "liens": [
         {
