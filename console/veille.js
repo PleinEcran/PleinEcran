@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "26/09/2026 à 22h19",
+  "collecte": "27/09/2026 à 00h28",
   "seuil": 14,
   "sujets": [
     {
@@ -13,8 +13,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 3.0,
-      "chaleur": 17,
+      "heures": 5.2,
+      "chaleur": 15,
       "liens": [
         {
           "source": "Eurogamer",
@@ -34,54 +34,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-veteran-s-mindseye-studio-build-a-rocket-boy-has-entered",
-      "titre": "GTA veteran's MindsEye studio Build a Rocket Boy has entered administration, following yet more reports of layoffs",
-      "url": "https://www.eurogamer.net/mindseye-build-a-rocket-boy-administration-insolvency",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 34.1,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/mindseye-build-a-rocket-boy-administration-insolvency",
-          "titre": "GTA veteran's MindsEye studio Build a Rocket Boy has entered administration, following yet more reports of layoffs"
-        }
-      ]
-    },
-    {
-      "id": "cyberpunk-2077-phantom-liberty-s-chimera-tank-boss-fight-was",
-      "titre": "Cyberpunk 2077: Phantom Liberty's Chimera tank boss fight was apparently so complex it took two years of \"reiterating over and over\" to get it right",
-      "url": "https://www.rockpapershotgun.com/cyberpunk-2077-phantom-libertys-chimera-tank-boss-fight-was-apparently-so-complex-it-took-two-years-of-reiterating-over-and-over-to-get-it-right",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 5.4,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cyberpunk-2077-phantom-libertys-chimera-tank-boss-fight-was-apparently-so-complex-it-took-two-years-of-reiterating-over-and-over-to-get-it-right",
-          "titre": "Cyberpunk 2077: Phantom Liberty's Chimera tank boss fight was apparently so complex it took two years of \"reiterating over and over\" to get it right"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/it-took-cd-projekt-two-years-to-design-phantom-libertys-chimera-tank-boss-fight-we-were-iterating-over-and-over/",
-          "titre": "It took CD Projekt two years to design Phantom Liberty's Chimera Tank boss fight: 'We were iterating over and over'"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/cyberpunk-2077-phantom-liberty-chimera-tank-two-years",
-          "titre": "It took roughly two years and \"one of the most expensive art assets ever\" to get Cyberpunk 2077: Phantom Liberty's Chimera tank fight right"
-        }
-      ]
-    },
-    {
       "id": "the-elder-scrolls-online-s-devs-are-pushing-through-hard-tim",
       "titre": "The Elder Scrolls Online's devs are pushing through hard times after layoffs and delays: 'We didn't want to rush to just hit a date'",
       "url": "https://www.pcgamer.com/games/mmo/the-elder-scrolls-onlines-devs-are-pushing-through-hard-times-after-layoffs-and-delays-we-didnt-want-to-rush-to-just-hit-a-date/",
@@ -89,31 +41,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.5,
       "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/mmo/the-elder-scrolls-onlines-devs-are-pushing-through-hard-times-after-layoffs-and-delays-we-didnt-want-to-rush-to-just-hit-a-date/",
           "titre": "The Elder Scrolls Online's devs are pushing through hard times after layoffs and delays: 'We didn't want to rush to just hit a date'"
-        }
-      ]
-    },
-    {
-      "id": "xbox-allegedly-paying-a-fraction-of-the-400-million-budget-k",
-      "titre": "Xbox Allegedly Paying a 'Fraction' of the $400 Million Budget Kojima Is Rumoured to Have Quoted Sony for Physint",
-      "url": "https://www.pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint",
-          "titre": "Xbox Allegedly Paying a 'Fraction' of the $400 Million Budget Kojima Is Rumoured to Have Quoted Sony for Physint"
         }
       ]
     },
@@ -126,7 +60,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 4.5,
+      "heures": 6.6,
       "chaleur": 7,
       "liens": [
         {
@@ -142,6 +76,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "cyberpunk-2077-phantom-liberty-s-chimera-tank-boss-fight-was",
+      "titre": "Cyberpunk 2077: Phantom Liberty's Chimera tank boss fight was apparently so complex it took two years of \"reiterating over and over\" to get it right",
+      "url": "https://www.rockpapershotgun.com/cyberpunk-2077-phantom-libertys-chimera-tank-boss-fight-was-apparently-so-complex-it-took-two-years-of-reiterating-over-and-over-to-get-it-right",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 7.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/cyberpunk-2077-phantom-libertys-chimera-tank-boss-fight-was-apparently-so-complex-it-took-two-years-of-reiterating-over-and-over-to-get-it-right",
+          "titre": "Cyberpunk 2077: Phantom Liberty's Chimera tank boss fight was apparently so complex it took two years of \"reiterating over and over\" to get it right"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/it-took-cd-projekt-two-years-to-design-phantom-libertys-chimera-tank-boss-fight-we-were-iterating-over-and-over/",
+          "titre": "It took CD Projekt two years to design Phantom Liberty's Chimera Tank boss fight: 'We were iterating over and over'"
+        }
+      ]
+    },
+    {
       "id": "do-665-runs-if-you-want-control-resonant-is-getting-a-new-g",
       "titre": "\"Do 665 runs if you want!\": Control Resonant is getting a new game++ mode next month, and don't worry you happy snappers, a photo mode is on the way too",
       "url": "https://www.rockpapershotgun.com/do-665-runs-if-you-want-control-resonant-is-getting-a-new-game-mode-next-month-and-dont-worry-you-happy-snappers-a-photo-mode-is-on-the-way-too",
@@ -150,7 +108,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 6.4,
+      "heures": 8.5,
       "chaleur": 7,
       "liens": [
         {
@@ -166,24 +124,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "guide-best-castlevania-games-ranked-switch-nintendo-consoles",
-      "titre": "Guide: Best Castlevania Games, Ranked - Switch & Nintendo Consoles",
-      "url": "https://www.nintendolife.com/guides/best-castlevania-games-ranked-switch-and-nintendo-consoles",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/best-castlevania-games-ranked-switch-and-nintendo-consoles",
-          "titre": "Guide: Best Castlevania Games, Ranked - Switch & Nintendo Consoles"
-        }
-      ]
-    },
-    {
       "id": "ubisoft-s-mario-rabbids-team-reportedly-came-close-to-making",
       "titre": "Ubisoft's Mario + Rabbids team reportedly came close to making an \"ambitious\" Zelda game starring Ganondorf, but it wasn't to be",
       "url": "https://www.eurogamer.net/nintendo-ubisoft-mario-rabbids-team-zelda",
@@ -191,31 +131,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.7,
+      "heures": 31.8,
       "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/nintendo-ubisoft-mario-rabbids-team-zelda",
           "titre": "Ubisoft's Mario + Rabbids team reportedly came close to making an \"ambitious\" Zelda game starring Ganondorf, but it wasn't to be"
-        }
-      ]
-    },
-    {
-      "id": "sony-reportedly-surveying-developers-about-playstation-disc",
-      "titre": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?",
-      "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
-          "titre": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?"
         }
       ]
     },
@@ -461,7 +383,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 1.5,
       "chaleur": 6,
       "liens": [
         {
@@ -479,7 +401,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -497,7 +419,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -508,56 +430,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "suplex-and-shatter-glass-enemies-after-being-in-prison-for-c",
-      "titre": "Suplex and shatter glass enemies after being in prison for committing a cardinal crime in the psychological horror beat 'em up Brokensides",
-      "url": "https://www.rockpapershotgun.com/suplex-and-shatter-glass-enemies-after-being-in-prison-for-committing-a-cardinal-crime-in-the-psychological-horror-beat-em-up-brokensides",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 1.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/suplex-and-shatter-glass-enemies-after-being-in-prison-for-committing-a-cardinal-crime-in-the-psychological-horror-beat-em-up-brokensides",
-          "titre": "Suplex and shatter glass enemies after being in prison for committing a cardinal crime in the psychological horror beat 'em up Brokensides"
-        }
-      ]
-    },
-    {
-      "id": "feature-going-platinum-sonic-origins-sends-me-back-to-the-ge",
-      "titre": "Feature: Going Platinum: Sonic Origins Sends Me Back to the Genesis of My Own Gaming History",
-      "url": "https://www.pushsquare.com/features/going-platinum-sonic-origins-sends-me-back-to-the-genesis-of-my-own-gaming-history",
+      "id": "xbox-allegedly-paying-a-fraction-of-the-400-million-budget-k",
+      "titre": "Xbox Allegedly Paying a 'Fraction' of the $400 Million Budget Kojima Is Rumoured to Have Quoted Sony for Physint",
+      "url": "https://www.pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 3.3,
+      "heures": 4.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/going-platinum-sonic-origins-sends-me-back-to-the-genesis-of-my-own-gaming-history",
-          "titre": "Feature: Going Platinum: Sonic Origins Sends Me Back to the Genesis of My Own Gaming History"
-        }
-      ]
-    },
-    {
-      "id": "another-live-service-ps5-game-bites-the-dust-but-it-ll-be-tr",
-      "titre": "Another Live Service PS5 Game Bites the Dust, But It'll Be Transformed into an Offline Title",
-      "url": "https://www.pushsquare.com/news/2026/09/another-live-service-ps5-game-bites-the-dust-but-itll-be-transformed-into-an-offline-title",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/another-live-service-ps5-game-bites-the-dust-but-itll-be-transformed-into-an-offline-title",
-          "titre": "Another Live Service PS5 Game Bites the Dust, But It'll Be Transformed into an Offline Title"
+          "url": "https://www.pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint",
+          "titre": "Xbox Allegedly Paying a 'Fraction' of the $400 Million Budget Kojima Is Rumoured to Have Quoted Sony for Physint"
         }
       ]
     },
@@ -569,13 +455,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore-slump",
           "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #2 - A Sophomore Slump?"
+        }
+      ]
+    },
+    {
+      "id": "guide-best-castlevania-games-ranked-switch-nintendo-consoles",
+      "titre": "Guide: Best Castlevania Games, Ranked - Switch & Nintendo Consoles",
+      "url": "https://www.nintendolife.com/guides/best-castlevania-games-ranked-switch-and-nintendo-consoles",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/guides/best-castlevania-games-ranked-switch-and-nintendo-consoles",
+          "titre": "Guide: Best Castlevania Games, Ranked - Switch & Nintendo Consoles"
         }
       ]
     },
@@ -587,7 +491,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 14.2,
       "chaleur": 6,
       "liens": [
         {
@@ -606,7 +510,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 21.4,
+      "heures": 23.6,
       "chaleur": 6,
       "liens": [
         {
@@ -629,7 +533,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 24.5,
       "chaleur": 6,
       "liens": [
         {
@@ -647,7 +551,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.5,
       "chaleur": 5,
       "liens": [
         {
@@ -665,7 +569,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.9,
+      "heures": 26.0,
       "chaleur": 5,
       "liens": [
         {
@@ -683,7 +587,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.8,
+      "heures": 32.0,
       "chaleur": 5,
       "liens": [
         {
@@ -701,7 +605,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 32.3,
+      "heures": 34.5,
       "chaleur": 5,
       "liens": [
         {
@@ -719,7 +623,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.5,
       "chaleur": 5,
       "liens": [
         {
@@ -730,38 +634,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "podcast-halo-under-activision-what-s-next-for-xbox",
-      "titre": "Podcast: Halo under Activision – What’s next for Xbox?",
-      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-halo-under-activision-whats-next-for-xbox/",
+      "id": "suplex-and-shatter-glass-enemies-after-being-in-prison-for-c",
+      "titre": "Suplex and shatter glass enemies after being in prison for committing a cardinal crime in the psychological horror beat 'em up Brokensides",
+      "url": "https://www.rockpapershotgun.com/suplex-and-shatter-glass-enemies-after-being-in-prison-for-committing-a-cardinal-crime-in-the-psychological-horror-beat-em-up-brokensides",
       "sources": [
-        "VGC"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 33.9,
-      "chaleur": 5,
+      "heures": 4.0,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-halo-under-activision-whats-next-for-xbox/",
-          "titre": "Podcast: Halo under Activision – What’s next for Xbox?"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/suplex-and-shatter-glass-enemies-after-being-in-prison-for-committing-a-cardinal-crime-in-the-psychological-horror-beat-em-up-brokensides",
+          "titre": "Suplex and shatter glass enemies after being in prison for committing a cardinal crime in the psychological horror beat 'em up Brokensides"
         }
       ]
     },
     {
-      "id": "review-diablo-iv-age-of-hatred-collection-switch-2-addictive",
-      "titre": "Review: Diablo IV: Age Of Hatred Collection (Switch 2) - Addictive, Enormous, And Runs Reasonably Well",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/diablo-iv-age-of-hatred-collection",
+      "id": "feature-going-platinum-sonic-origins-sends-me-back-to-the-ge",
+      "titre": "Feature: Going Platinum: Sonic Origins Sends Me Back to the Genesis of My Own Gaming History",
+      "url": "https://www.pushsquare.com/features/going-platinum-sonic-origins-sends-me-back-to-the-genesis-of-my-own-gaming-history",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 34.3,
-      "chaleur": 5,
+      "heures": 5.5,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/diablo-iv-age-of-hatred-collection",
-          "titre": "Review: Diablo IV: Age Of Hatred Collection (Switch 2) - Addictive, Enormous, And Runs Reasonably Well"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/going-platinum-sonic-origins-sends-me-back-to-the-genesis-of-my-own-gaming-history",
+          "titre": "Feature: Going Platinum: Sonic Origins Sends Me Back to the Genesis of My Own Gaming History"
+        }
+      ]
+    },
+    {
+      "id": "another-live-service-ps5-game-bites-the-dust-but-it-ll-be-tr",
+      "titre": "Another Live Service PS5 Game Bites the Dust, But It'll Be Transformed into an Offline Title",
+      "url": "https://www.pushsquare.com/news/2026/09/another-live-service-ps5-game-bites-the-dust-but-itll-be-transformed-into-an-offline-title",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/another-live-service-ps5-game-bites-the-dust-but-itll-be-transformed-into-an-offline-title",
+          "titre": "Another Live Service PS5 Game Bites the Dust, But It'll Be Transformed into an Offline Title"
         }
       ]
     },
@@ -773,7 +695,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -791,7 +713,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -809,7 +731,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -827,7 +749,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +767,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -863,7 +785,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +803,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -917,8 +839,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -935,8 +857,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -953,8 +875,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -971,8 +893,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 13.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -989,7 +911,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 15.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +929,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,7 +947,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,7 +965,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.2,
+      "heures": 22.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,7 +983,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.1,
+      "heures": 24.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1079,7 +1001,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.1,
+      "heures": 24.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1097,7 +1019,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.5,
+      "heures": 24.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1115,13 +1037,85 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 25.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/newest-wolverine-ps5-update-wipes-out-scent-trails-to-collectibles",
           "titre": "Newest Wolverine PS5 Update Wipes Out Scent Trails to Collectibles"
+        }
+      ]
+    },
+    {
+      "id": "how-to-open-the-auxiliary-lines-in-part-6-of-silent-hill-tow",
+      "titre": "How to open the auxiliary lines in Part 6 of Silent Hill: Townfall",
+      "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-open-the-auxiliary-lines/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 25.2,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-open-the-auxiliary-lines/",
+          "titre": "How to open the auxiliary lines in Part 6 of Silent Hill: Townfall"
+        }
+      ]
+    },
+    {
+      "id": "guess-who-patented-a-new-system-for-in-game-ads",
+      "titre": "Guess who patented a new system for in-game ads",
+      "url": "https://www.pcgamer.com/gaming-industry/guess-who-patented-a-new-system-for-in-game-ads/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 26.3,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/guess-who-patented-a-new-system-for-in-game-ads/",
+          "titre": "Guess who patented a new system for in-game ads"
+        }
+      ]
+    },
+    {
+      "id": "ps5-fans-encouraged-to-give-feedback-on-discs-in-new-sony-su",
+      "titre": "PS5 Fans Encouraged to Give Feedback on Discs in New Sony Survey",
+      "url": "https://www.pushsquare.com/news/2026/09/ps5-fans-encouraged-to-give-feedback-on-discs-in-new-sony-survey",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 29.2,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/ps5-fans-encouraged-to-give-feedback-on-discs-in-new-sony-survey",
+          "titre": "PS5 Fans Encouraged to Give Feedback on Discs in New Sony Survey"
+        }
+      ]
+    },
+    {
+      "id": "skyrim-loremaster-says-the-elder-scrolls-never-got-a-fallout",
+      "titre": "Skyrim loremaster says The Elder Scrolls never got a Fallout: New Vegas-style game because Bethesda is \"very protective\" over its golden goose",
+      "url": "https://www.eurogamer.net/skyrim-elder-scrolls-never-fallout-new-vegas-bethesda",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 29.4,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/skyrim-elder-scrolls-never-fallout-new-vegas-bethesda",
+          "titre": "Skyrim loremaster says The Elder Scrolls never got a Fallout: New Vegas-style game because Bethesda is \"very protective\" over its golden goose"
         }
       ]
     }
