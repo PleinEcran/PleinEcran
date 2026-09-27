@@ -1,50 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "27/09/2026 à 18h22",
+  "collecte": "27/09/2026 à 20h19",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "latest-xbox-layoffs-reportedly-devastated-age-of-empires-dev",
-      "titre": "Latest Xbox layoffs reportedly devastated Age of Empires developer and canceled its next game",
-      "url": "https://www.pcgamer.com/gaming-industry/latest-xbox-layoffs-reportedly-devastated-age-of-empires-developer-and-canceled-its-next-game/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 13,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/latest-xbox-layoffs-reportedly-devastated-age-of-empires-developer-and-canceled-its-next-game/",
-          "titre": "Latest Xbox layoffs reportedly devastated Age of Empires developer and canceled its next game"
-        }
-      ]
-    },
-    {
-      "id": "xbox-is-reportedly-paying-a-fraction-of-the-400-million-koji",
-      "titre": "Xbox is reportedly paying a \"fraction\" of the $400 million Kojima quoted Sony for Physint",
-      "url": "https://www.eurogamer.net/xbox-kojima-physint-budget-fraction-400-million",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 3.9,
-      "chaleur": 13,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-kojima-physint-budget-fraction-400-million",
-          "titre": "Xbox is reportedly paying a \"fraction\" of the $400 million Kojima quoted Sony for Physint"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint",
-          "titre": "Xbox Allegedly Paying a 'Fraction' of the $400 Million Budget Kojima Is Rumoured to Have Quoted Sony for Physint"
-        }
-      ]
-    },
     {
       "id": "minecraft-is-getting-its-first-new-dimension-in-14-years-and",
       "titre": "Minecraft is getting its first new dimension in 14 years, and it's called The Sift",
@@ -56,7 +14,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 7.0,
+      "heures": 9.0,
       "chaleur": 13,
       "liens": [
         {
@@ -82,6 +40,48 @@ const VEILLE = {
       ]
     },
     {
+      "id": "latest-xbox-layoffs-reportedly-devastated-age-of-empires-dev",
+      "titre": "Latest Xbox layoffs reportedly devastated Age of Empires developer and canceled its next game",
+      "url": "https://www.pcgamer.com/gaming-industry/latest-xbox-layoffs-reportedly-devastated-age-of-empires-developer-and-canceled-its-next-game/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/latest-xbox-layoffs-reportedly-devastated-age-of-empires-developer-and-canceled-its-next-game/",
+          "titre": "Latest Xbox layoffs reportedly devastated Age of Empires developer and canceled its next game"
+        }
+      ]
+    },
+    {
+      "id": "xbox-is-reportedly-paying-a-fraction-of-the-400-million-koji",
+      "titre": "Xbox is reportedly paying a \"fraction\" of the $400 million Kojima quoted Sony for Physint",
+      "url": "https://www.eurogamer.net/xbox-kojima-physint-budget-fraction-400-million",
+      "sources": [
+        "Eurogamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 5.9,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-kojima-physint-budget-fraction-400-million",
+          "titre": "Xbox is reportedly paying a \"fraction\" of the $400 million Kojima quoted Sony for Physint"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint",
+          "titre": "Xbox Allegedly Paying a 'Fraction' of the $400 Million Budget Kojima Is Rumoured to Have Quoted Sony for Physint"
+        }
+      ]
+    },
+    {
       "id": "microsoft-ceo-says-xbox-s-streamlining-is-great-to-see-despi",
       "titre": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs",
       "url": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
@@ -90,7 +90,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 23.1,
+      "heures": 25.0,
       "chaleur": 11,
       "liens": [
         {
@@ -106,24 +106,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-elder-scrolls-online-s-devs-are-pushing-through-hard-tim",
-      "titre": "The Elder Scrolls Online's devs are pushing through hard times after layoffs and delays: 'We didn't want to rush to just hit a date'",
-      "url": "https://www.pcgamer.com/games/mmo/the-elder-scrolls-onlines-devs-are-pushing-through-hard-times-after-layoffs-and-delays-we-didnt-want-to-rush-to-just-hit-a-date/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 27.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/the-elder-scrolls-onlines-devs-are-pushing-through-hard-times-after-layoffs-and-delays-we-didnt-want-to-rush-to-just-hit-a-date/",
-          "titre": "The Elder Scrolls Online's devs are pushing through hard times after layoffs and delays: 'We didn't want to rush to just hit a date'"
-        }
-      ]
-    },
-    {
       "id": "the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemin",
       "titre": "The spiritual successor to classic JRPG Wild Arms has seemingly been cancelled, four years after its Kickstarter raised nearly $3 million",
       "url": "https://www.pcgamer.com/games/rpg/the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemingly-been-cancelled-four-years-after-its-kickstarter-raised-nearly-usd3-million/",
@@ -131,7 +113,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.7,
       "chaleur": 7,
       "liens": [
         {
@@ -376,6 +358,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "after-12-years-dark-souls-2-is-finally-playable-in-co-op-wit",
+      "titre": "After 12 years, Dark Souls 2 is finally playable in co-op without interruptions",
+      "url": "https://www.pcgamer.com/games/dark-souls/after-12-years-dark-souls-2-is-finally-playable-in-co-op-without-interruptions/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/dark-souls/after-12-years-dark-souls-2-is-finally-playable-in-co-op-without-interruptions/",
+          "titre": "After 12 years, Dark Souls 2 is finally playable in co-op without interruptions"
+        }
+      ]
+    },
+    {
+      "id": "gears-of-war-story-director-laid-off-mere-days-after-e-day-w",
+      "titre": "Gears of War story director laid off mere days after E-Day went gold",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-story-director-laid-off-mere-days-after-e-day-went-gold/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-story-director-laid-off-mere-days-after-e-day-went-gold/",
+          "titre": "Gears of War story director laid off mere days after E-Day went gold"
+        }
+      ]
+    },
+    {
       "id": "i-m-loving-wow-forever-but-i-can-t-help-but-miss-the-music-o",
       "titre": "I'm loving WoW: Forever, but I can't help but miss the music of my other beloved MMO",
       "url": "https://www.pcgamer.com/games/world-of-warcraft/im-loving-wow-forever-but-i-cant-help-but-miss-the-music-of-my-other-beloved-mmo/",
@@ -383,7 +401,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -401,85 +419,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/action/shadow-the-hedgehog-is-supposed-to-be-dead/",
           "titre": "Shadow the Hedgehog is supposed to be dead"
-        }
-      ]
-    },
-    {
-      "id": "william-pugh-co-designer-of-the-stanley-parable-has-over-1-6",
-      "titre": "William Pugh, co-designer of The Stanley Parable, has over 1,600 hours in Dota 2: 'It's not a game made of love. It's a game fuelled by hate and a desire to conquer'",
-      "url": "https://www.pcgamer.com/gaming-industry/william-pugh-co-designer-of-the-stanley-parable-has-over-1-600-hours-in-dota-2-its-not-a-game-made-of-love-its-a-game-fuelled-by-hate-and-a-desire-to-conquer/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/william-pugh-co-designer-of-the-stanley-parable-has-over-1-600-hours-in-dota-2-its-not-a-game-made-of-love-its-a-game-fuelled-by-hate-and-a-desire-to-conquer/",
-          "titre": "William Pugh, co-designer of The Stanley Parable, has over 1,600 hours in Dota 2: 'It's not a game made of love. It's a game fuelled by hate and a desire to conquer'"
-        }
-      ]
-    },
-    {
-      "id": "five-nights-at-freddy-s-is-coming-to-fortnite-for-fortnitema",
-      "titre": "Five Nights at Freddy's is coming to Fortnite for Fortnitemares",
-      "url": "https://www.eurogamer.net/fortnite-five-nights-at-freddys-fortnitemares-collab",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/fortnite-five-nights-at-freddys-fortnitemares-collab",
-          "titre": "Five Nights at Freddy's is coming to Fortnite for Fortnitemares"
-        }
-      ]
-    },
-    {
-      "id": "opinion-i-played-mario-kart-tour-every-day-for-seven-years-a",
-      "titre": "Opinion: I Played Mario Kart Tour Every Day For Seven Years, And What Am I Left With?",
-      "url": "https://www.nintendolife.com/features/opinion-i-played-mario-kart-tour-every-day-for-seven-years-and-what-am-i-left-with",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/opinion-i-played-mario-kart-tour-every-day-for-seven-years-and-what-am-i-left-with",
-          "titre": "Opinion: I Played Mario Kart Tour Every Day For Seven Years, And What Am I Left With?"
-        }
-      ]
-    },
-    {
-      "id": "lords-of-the-end-times-greatest-fantasy-is-letting-us-rewrit",
-      "titre": "Lords of the End Times' greatest fantasy is letting us rewrite the most hated lore in Warhammer's history",
-      "url": "https://www.pcgamer.com/games/strategy/lords-of-the-end-times-greatest-fantasy-is-letting-us-rewrite-the-most-hated-lore-in-warhammers-history/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/lords-of-the-end-times-greatest-fantasy-is-letting-us-rewrite-the-most-hated-lore-in-warhammers-history/",
-          "titre": "Lords of the End Times' greatest fantasy is letting us rewrite the most hated lore in Warhammer's history"
         }
       ]
     },
@@ -491,7 +437,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.3,
       "chaleur": 6,
       "liens": [
         {
@@ -509,31 +455,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 10.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/minecraft-300000-new-players-daily-minecraft",
           "titre": "Minecraft still gains around 300,000 new players a day, Xbox boss reveals"
-        }
-      ]
-    },
-    {
-      "id": "sony-patents-playstation-controller-that-accepts-credit-card",
-      "titre": "Sony patents PlayStation controller that accepts credit card payments",
-      "url": "https://www.videogameschronicle.com/news/sony-patents-playstation-controller-that-accepts-credit-card-payments/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sony-patents-playstation-controller-that-accepts-credit-card-payments/",
-          "titre": "Sony patents PlayStation controller that accepts credit card payments"
         }
       ]
     },
@@ -545,7 +473,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 33.2,
       "chaleur": 6,
       "liens": [
         {
@@ -563,13 +491,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 32.1,
+      "heures": 34.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million",
           "titre": "US court orders Redditor to pay Nintendo £3.4m over Switch piracy"
+        }
+      ]
+    },
+    {
+      "id": "sony-patents-playstation-controller-that-accepts-credit-card",
+      "titre": "Sony patents PlayStation controller that accepts credit card payments",
+      "url": "https://www.videogameschronicle.com/news/sony-patents-playstation-controller-that-accepts-credit-card-payments/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 12.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sony-patents-playstation-controller-that-accepts-credit-card-payments/",
+          "titre": "Sony patents PlayStation controller that accepts credit card payments"
         }
       ]
     },
@@ -581,7 +527,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.6,
       "chaleur": 5,
       "liens": [
         {
@@ -599,13 +545,85 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore-slump",
           "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #2 - A Sophomore Slump?"
+        }
+      ]
+    },
+    {
+      "id": "william-pugh-co-designer-of-the-stanley-parable-has-over-1-6",
+      "titre": "William Pugh, co-designer of The Stanley Parable, has over 1,600 hours in Dota 2: 'It's not a game made of love. It's a game fuelled by hate and a desire to conquer'",
+      "url": "https://www.pcgamer.com/gaming-industry/william-pugh-co-designer-of-the-stanley-parable-has-over-1-600-hours-in-dota-2-its-not-a-game-made-of-love-its-a-game-fuelled-by-hate-and-a-desire-to-conquer/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/william-pugh-co-designer-of-the-stanley-parable-has-over-1-600-hours-in-dota-2-its-not-a-game-made-of-love-its-a-game-fuelled-by-hate-and-a-desire-to-conquer/",
+          "titre": "William Pugh, co-designer of The Stanley Parable, has over 1,600 hours in Dota 2: 'It's not a game made of love. It's a game fuelled by hate and a desire to conquer'"
+        }
+      ]
+    },
+    {
+      "id": "five-nights-at-freddy-s-is-coming-to-fortnite-for-fortnitema",
+      "titre": "Five Nights at Freddy's is coming to Fortnite for Fortnitemares",
+      "url": "https://www.eurogamer.net/fortnite-five-nights-at-freddys-fortnitemares-collab",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/fortnite-five-nights-at-freddys-fortnitemares-collab",
+          "titre": "Five Nights at Freddy's is coming to Fortnite for Fortnitemares"
+        }
+      ]
+    },
+    {
+      "id": "opinion-i-played-mario-kart-tour-every-day-for-seven-years-a",
+      "titre": "Opinion: I Played Mario Kart Tour Every Day For Seven Years, And What Am I Left With?",
+      "url": "https://www.nintendolife.com/features/opinion-i-played-mario-kart-tour-every-day-for-seven-years-and-what-am-i-left-with",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/opinion-i-played-mario-kart-tour-every-day-for-seven-years-and-what-am-i-left-with",
+          "titre": "Opinion: I Played Mario Kart Tour Every Day For Seven Years, And What Am I Left With?"
+        }
+      ]
+    },
+    {
+      "id": "lords-of-the-end-times-greatest-fantasy-is-letting-us-rewrit",
+      "titre": "Lords of the End Times' greatest fantasy is letting us rewrite the most hated lore in Warhammer's history",
+      "url": "https://www.pcgamer.com/games/strategy/lords-of-the-end-times-greatest-fantasy-is-letting-us-rewrite-the-most-hated-lore-in-warhammers-history/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/lords-of-the-end-times-greatest-fantasy-is-letting-us-rewrite-the-most-hated-lore-in-warhammers-history/",
+          "titre": "Lords of the End Times' greatest fantasy is letting us rewrite the most hated lore in Warhammer's history"
         }
       ]
     },
@@ -617,7 +635,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -635,7 +653,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -653,7 +671,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -671,7 +689,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -689,7 +707,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.3,
       "chaleur": 3,
       "liens": [
         {
@@ -707,7 +725,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
@@ -725,7 +743,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.7,
+      "heures": 19.6,
       "chaleur": 3,
       "liens": [
         {
@@ -743,7 +761,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.5,
+      "heures": 22.4,
       "chaleur": 3,
       "liens": [
         {
@@ -761,7 +779,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.5,
+      "heures": 22.4,
       "chaleur": 3,
       "liens": [
         {
@@ -779,7 +797,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 23.9,
       "chaleur": 3,
       "liens": [
         {
@@ -797,7 +815,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.3,
       "chaleur": 3,
       "liens": [
         {
@@ -815,7 +833,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.6,
+      "heures": 25.6,
       "chaleur": 3,
       "liens": [
         {
@@ -833,7 +851,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 26.3,
       "chaleur": 3,
       "liens": [
         {
@@ -851,7 +869,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.5,
+      "heures": 26.5,
       "chaleur": 3,
       "liens": [
         {
@@ -869,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.3,
       "chaleur": 3,
       "liens": [
         {
@@ -887,7 +905,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.4,
       "chaleur": 3,
       "liens": [
         {
@@ -905,7 +923,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.1,
+      "heures": 28.1,
       "chaleur": 3,
       "liens": [
         {
@@ -923,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 26.4,
+      "heures": 28.3,
       "chaleur": 3,
       "liens": [
         {
@@ -941,7 +959,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.4,
+      "heures": 28.4,
       "chaleur": 3,
       "liens": [
         {
@@ -959,31 +977,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.9,
+      "heures": 28.9,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/castlevania-40th-anniversary-free-original-game-belmonts-curse",
           "titre": "Castlevania celebrates turning 40 by giving away the original game for free"
-        }
-      ]
-    },
-    {
-      "id": "after-warcraft-3-s-first-new-campaign-in-23-years-let-s-norm",
-      "titre": "After Warcraft 3's first new campaign in 23 years, let's normalize releasing new DLC for ancient RTS games",
-      "url": "https://www.pcgamer.com/games/rts/after-warcraft-3s-first-new-campaign-in-23-years-lets-normalize-releasing-new-dlc-for-ancient-rts-games/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 28.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rts/after-warcraft-3s-first-new-campaign-in-23-years-lets-normalize-releasing-new-dlc-for-ancient-rts-games/",
-          "titre": "After Warcraft 3's first new campaign in 23 years, let's normalize releasing new DLC for ancient RTS games"
         }
       ]
     },
@@ -995,7 +995,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 30.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1013,7 +1013,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.5,
+      "heures": 32.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +1031,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.4,
+      "heures": 33.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,7 +1049,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 31.4,
+      "heures": 33.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,7 +1067,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 32.9,
+      "heures": 34.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1085,31 +1085,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.4,
+      "heures": 35.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-26th-september",
           "titre": "Talking Point: What Are You Playing This Weekend? (26th September)"
-        }
-      ]
-    },
-    {
-      "id": "what-we-ve-been-playing-i-curl-up-on-my-sofa-and-breed-my-ar",
-      "titre": "What we've been playing - \"I curl up on my sofa and breed my army of battle cats\"",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-i-curl-up-on-my-sofa-and-breed-my-army-of-battle-cats",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/what-weve-been-playing-i-curl-up-on-my-sofa-and-breed-my-army-of-battle-cats",
-          "titre": "What we've been playing - \"I curl up on my sofa and breed my army of battle cats\""
         }
       ]
     }
