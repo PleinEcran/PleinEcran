@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "27/09/2026 à 00h28",
+  "collecte": "27/09/2026 à 02h20",
   "seuil": 14,
   "sujets": [
     {
@@ -13,7 +13,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 5.2,
+      "heures": 7.1,
       "chaleur": 15,
       "liens": [
         {
@@ -34,6 +34,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "icymi-here-s-a-look-at-rayman-s-legends-retold-launch-editio",
+      "titre": "ICYMI: Here's A Look At Rayman's Legends Retold Launch Edition",
+      "url": "https://www.nintendolife.com/news/2026/09/icymi-heres-a-look-at-raymans-legends-retold-launch-edition",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 1.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/icymi-heres-a-look-at-raymans-legends-retold-launch-edition",
+          "titre": "ICYMI: Here's A Look At Rayman's Legends Retold Launch Edition"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-does-physical-media-the-right-way-on-ps5",
+          "titre": "Rayman Legends Retold Does Physical Media the Right Way on PS5"
+        }
+      ]
+    },
+    {
       "id": "the-elder-scrolls-online-s-devs-are-pushing-through-hard-tim",
       "titre": "The Elder Scrolls Online's devs are pushing through hard times after layoffs and delays: 'We didn't want to rush to just hit a date'",
       "url": "https://www.pcgamer.com/games/mmo/the-elder-scrolls-onlines-devs-are-pushing-through-hard-times-after-layoffs-and-delays-we-didnt-want-to-rush-to-just-hit-a-date/",
@@ -41,7 +65,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.3,
       "chaleur": 9,
       "liens": [
         {
@@ -60,7 +84,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 6.6,
+      "heures": 8.5,
       "chaleur": 7,
       "liens": [
         {
@@ -84,7 +108,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 7.5,
+      "heures": 9.4,
       "chaleur": 7,
       "liens": [
         {
@@ -108,7 +132,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 8.5,
+      "heures": 10.4,
       "chaleur": 7,
       "liens": [
         {
@@ -131,7 +155,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.8,
+      "heures": 33.7,
       "chaleur": 7,
       "liens": [
         {
@@ -376,6 +400,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "between-70-and-80-of-blood-bowl-3-games-were-solo",
+      "titre": "Between 70 and 80% of Blood Bowl 3 games were solo",
+      "url": "https://www.pcgamer.com/games/strategy/between-70-and-80-percent-of-blood-bowl-3-games-were-solo/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/between-70-and-80-percent-of-blood-bowl-3-games-were-solo/",
+          "titre": "Between 70 and 80% of Blood Bowl 3 games were solo"
+        }
+      ]
+    },
+    {
       "id": "surprise-minecraft-is-getting-its-first-new-dimension-in-ove",
       "titre": "Surprise! Minecraft Is Getting Its First New Dimension In Over 14 Years",
       "url": "https://www.nintendolife.com/news/2026/09/surprise-minecraft-is-getting-its-first-new-dimension-in-over-14-years",
@@ -383,49 +425,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/surprise-minecraft-is-getting-its-first-new-dimension-in-over-14-years",
           "titre": "Surprise! Minecraft Is Getting Its First New Dimension In Over 14 Years"
-        }
-      ]
-    },
-    {
-      "id": "talon-towers-is-a-fumito-ueda-coded-parkour-platformer-about",
-      "titre": "TALON TOWERS is a Fumito Ueda-coded parkour platformer about hopping around massive structures while avoiding falling to your foggy doom",
-      "url": "https://www.rockpapershotgun.com/talon-towers-is-a-fumito-ueda-coded-parkour-platformer-about-hopping-around-massive-structures-while-avoiding-falling-to-your-foggy-doom",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/talon-towers-is-a-fumito-ueda-coded-parkour-platformer-about-hopping-around-massive-structures-while-avoiding-falling-to-your-foggy-doom",
-          "titre": "TALON TOWERS is a Fumito Ueda-coded parkour platformer about hopping around massive structures while avoiding falling to your foggy doom"
-        }
-      ]
-    },
-    {
-      "id": "former-elder-scrolls-designer-kurt-kuhlmann-on-fallout-new-v",
-      "titre": "Former Elder Scrolls designer Kurt Kuhlmann on Fallout: New Vegas diehards: 'I don't know that Todd wanted to create that situation again for The Elder Scrolls'",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/former-elder-scrolls-designer-kurt-kuhlmann-on-fallout-new-vegas-diehards-i-dont-know-that-todd-wanted-to-create-that-situation-again-for-the-elder-scrolls/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-elder-scrolls/former-elder-scrolls-designer-kurt-kuhlmann-on-fallout-new-vegas-diehards-i-dont-know-that-todd-wanted-to-create-that-situation-again-for-the-elder-scrolls/",
-          "titre": "Former Elder Scrolls designer Kurt Kuhlmann on Fallout: New Vegas diehards: 'I don't know that Todd wanted to create that situation again for The Elder Scrolls'"
         }
       ]
     },
@@ -437,7 +443,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.3,
       "chaleur": 6,
       "liens": [
         {
@@ -455,7 +461,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.3,
       "chaleur": 6,
       "liens": [
         {
@@ -473,7 +479,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.3,
       "chaleur": 6,
       "liens": [
         {
@@ -491,7 +497,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.0,
       "chaleur": 6,
       "liens": [
         {
@@ -510,7 +516,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 23.6,
+      "heures": 25.4,
       "chaleur": 6,
       "liens": [
         {
@@ -533,7 +539,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 24.5,
+      "heures": 26.3,
       "chaleur": 6,
       "liens": [
         {
@@ -551,7 +557,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 27.3,
       "chaleur": 5,
       "liens": [
         {
@@ -569,7 +575,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 26.0,
+      "heures": 27.9,
       "chaleur": 5,
       "liens": [
         {
@@ -587,7 +593,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 32.0,
+      "heures": 33.8,
       "chaleur": 5,
       "liens": [
         {
@@ -598,38 +604,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ubisoft-switch-eshop-sale-now-live-up-to-90-off",
-      "titre": "Ubisoft Switch eShop Sale Now Live, Up To 90% Off",
-      "url": "https://www.nintendolife.com/news/2026/09/ubisoft-switch-eshop-sale-now-live-up-to-90percent-off",
+      "id": "talon-towers-is-a-fumito-ueda-coded-parkour-platformer-about",
+      "titre": "TALON TOWERS is a Fumito Ueda-coded parkour platformer about hopping around massive structures while avoiding falling to your foggy doom",
+      "url": "https://www.rockpapershotgun.com/talon-towers-is-a-fumito-ueda-coded-parkour-platformer-about-hopping-around-massive-structures-while-avoiding-falling-to-your-foggy-doom",
       "sources": [
-        "Nintendo Life"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 34.5,
-      "chaleur": 5,
+      "heures": 4.4,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/ubisoft-switch-eshop-sale-now-live-up-to-90percent-off",
-          "titre": "Ubisoft Switch eShop Sale Now Live, Up To 90% Off"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/talon-towers-is-a-fumito-ueda-coded-parkour-platformer-about-hopping-around-massive-structures-while-avoiding-falling-to-your-foggy-doom",
+          "titre": "TALON TOWERS is a Fumito Ueda-coded parkour platformer about hopping around massive structures while avoiding falling to your foggy doom"
         }
       ]
     },
     {
-      "id": "the-xbox-reset-doesn-t-have-an-end-date-opinion",
-      "titre": "The Xbox reset doesn't have an end date | Opinion",
-      "url": "https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion",
+      "id": "former-elder-scrolls-designer-kurt-kuhlmann-on-fallout-new-v",
+      "titre": "Former Elder Scrolls designer Kurt Kuhlmann on Fallout: New Vegas diehards: 'I don't know that Todd wanted to create that situation again for The Elder Scrolls'",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/former-elder-scrolls-designer-kurt-kuhlmann-on-fallout-new-vegas-diehards-i-dont-know-that-todd-wanted-to-create-that-situation-again-for-the-elder-scrolls/",
       "sources": [
-        "GamesIndustry.biz"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 35.5,
-      "chaleur": 5,
+      "heures": 4.4,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion",
-          "titre": "The Xbox reset doesn't have an end date | Opinion"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/former-elder-scrolls-designer-kurt-kuhlmann-on-fallout-new-vegas-diehards-i-dont-know-that-todd-wanted-to-create-that-situation-again-for-the-elder-scrolls/",
+          "titre": "Former Elder Scrolls designer Kurt Kuhlmann on Fallout: New Vegas diehards: 'I don't know that Todd wanted to create that situation again for The Elder Scrolls'"
         }
       ]
     },
@@ -641,7 +647,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 5.9,
       "chaleur": 4,
       "liens": [
         {
@@ -659,7 +665,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -677,7 +683,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -695,7 +701,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -713,7 +719,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -731,7 +737,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -749,7 +755,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -767,7 +773,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -785,8 +791,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -803,8 +809,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -821,8 +827,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -839,7 +845,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -857,7 +863,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +881,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +899,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 15.6,
       "chaleur": 3,
       "liens": [
         {
@@ -911,7 +917,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 16.8,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +935,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.3,
       "chaleur": 3,
       "liens": [
         {
@@ -947,7 +953,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
@@ -965,7 +971,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 24.2,
       "chaleur": 3,
       "liens": [
         {
@@ -983,7 +989,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 24.2,
+      "heures": 26.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +1007,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.3,
+      "heures": 26.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,7 +1025,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.7,
+      "heures": 26.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1037,7 +1043,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.0,
+      "heures": 26.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1055,31 +1061,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 25.2,
+      "heures": 27.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-open-the-auxiliary-lines/",
           "titre": "How to open the auxiliary lines in Part 6 of Silent Hill: Townfall"
-        }
-      ]
-    },
-    {
-      "id": "guess-who-patented-a-new-system-for-in-game-ads",
-      "titre": "Guess who patented a new system for in-game ads",
-      "url": "https://www.pcgamer.com/gaming-industry/guess-who-patented-a-new-system-for-in-game-ads/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 26.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/guess-who-patented-a-new-system-for-in-game-ads/",
-          "titre": "Guess who patented a new system for in-game ads"
         }
       ]
     },
@@ -1091,7 +1079,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.2,
+      "heures": 31.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1109,13 +1097,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 31.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/skyrim-elder-scrolls-never-fallout-new-vegas-bethesda",
           "titre": "Skyrim loremaster says The Elder Scrolls never got a Fallout: New Vegas-style game because Bethesda is \"very protective\" over its golden goose"
+        }
+      ]
+    },
+    {
+      "id": "reminder-these-3-ps5-ps4-games-will-be-delisted-or-disabled",
+      "titre": "Reminder: These 3 PS5, PS4 Games Will Be Delisted or Disabled in October 2026",
+      "url": "https://www.pushsquare.com/news/2026/09/reminder-these-3-ps5-ps4-games-will-be-delisted-or-disabled-in-october-2026",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 31.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/reminder-these-3-ps5-ps4-games-will-be-delisted-or-disabled-in-october-2026",
+          "titre": "Reminder: These 3 PS5, PS4 Games Will Be Delisted or Disabled in October 2026"
         }
       ]
     }
