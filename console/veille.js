@@ -1,38 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "27/09/2026 à 16h20",
+  "collecte": "27/09/2026 à 18h22",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "microsoft-ceo-says-xbox-s-streamlining-is-great-to-see-despi",
-      "titre": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs",
-      "url": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 21.1,
-      "chaleur": 14,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
-          "titre": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/microsoft-ceo-says-xboxs-streamlining-process-is-great-to-see-following-its-most-recent-round-of-layoffs/",
-          "titre": "Microsoft CEO says Xbox's 'streamlining' process is 'great to see' following its most recent round of layoffs"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/microsoft-ceo-says-streamlining-of-xbox-business-is-great-to-see/",
-          "titre": "Microsoft CEO says ‘streamlining’ of Xbox business is ‘great to see’"
-        }
-      ]
-    },
     {
       "id": "latest-xbox-layoffs-reportedly-devastated-age-of-empires-dev",
       "titre": "Latest Xbox layoffs reportedly devastated Age of Empires developer and canceled its next game",
@@ -41,7 +11,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.1,
       "chaleur": 13,
       "liens": [
         {
@@ -60,7 +30,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 13,
       "liens": [
         {
@@ -86,7 +56,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 5.0,
+      "heures": 7.0,
       "chaleur": 13,
       "liens": [
         {
@@ -112,20 +82,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemin",
-      "titre": "The spiritual successor to classic JRPG Wild Arms has seemingly been cancelled, four years after its Kickstarter raised nearly $3 million",
-      "url": "https://www.pcgamer.com/games/rpg/the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemingly-been-cancelled-four-years-after-its-kickstarter-raised-nearly-usd3-million/",
+      "id": "microsoft-ceo-says-xbox-s-streamlining-is-great-to-see-despi",
+      "titre": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs",
+      "url": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
       "sources": [
-        "PC Gamer"
+        "Eurogamer",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 9,
+      "reprises": 2,
+      "heures": 23.1,
+      "chaleur": 11,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemingly-been-cancelled-four-years-after-its-kickstarter-raised-nearly-usd3-million/",
-          "titre": "The spiritual successor to classic JRPG Wild Arms has seemingly been cancelled, four years after its Kickstarter raised nearly $3 million"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
+          "titre": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/microsoft-ceo-says-streamlining-of-xbox-business-is-great-to-see/",
+          "titre": "Microsoft CEO says ‘streamlining’ of Xbox business is ‘great to see’"
         }
       ]
     },
@@ -137,13 +113,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 27.4,
       "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/mmo/the-elder-scrolls-onlines-devs-are-pushing-through-hard-times-after-layoffs-and-delays-we-didnt-want-to-rush-to-just-hit-a-date/",
           "titre": "The Elder Scrolls Online's devs are pushing through hard times after layoffs and delays: 'We didn't want to rush to just hit a date'"
+        }
+      ]
+    },
+    {
+      "id": "the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemin",
+      "titre": "The spiritual successor to classic JRPG Wild Arms has seemingly been cancelled, four years after its Kickstarter raised nearly $3 million",
+      "url": "https://www.pcgamer.com/games/rpg/the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemingly-been-cancelled-four-years-after-its-kickstarter-raised-nearly-usd3-million/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemingly-been-cancelled-four-years-after-its-kickstarter-raised-nearly-usd3-million/",
+          "titre": "The spiritual successor to classic JRPG Wild Arms has seemingly been cancelled, four years after its Kickstarter raised nearly $3 million"
         }
       ]
     },
@@ -382,6 +376,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "i-m-loving-wow-forever-but-i-can-t-help-but-miss-the-music-o",
+      "titre": "I'm loving WoW: Forever, but I can't help but miss the music of my other beloved MMO",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/im-loving-wow-forever-but-i-cant-help-but-miss-the-music-of-my-other-beloved-mmo/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/im-loving-wow-forever-but-i-cant-help-but-miss-the-music-of-my-other-beloved-mmo/",
+          "titre": "I'm loving WoW: Forever, but I can't help but miss the music of my other beloved MMO"
+        }
+      ]
+    },
+    {
+      "id": "shadow-the-hedgehog-is-supposed-to-be-dead",
+      "titre": "Shadow the Hedgehog is supposed to be dead",
+      "url": "https://www.pcgamer.com/games/action/shadow-the-hedgehog-is-supposed-to-be-dead/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/shadow-the-hedgehog-is-supposed-to-be-dead/",
+          "titre": "Shadow the Hedgehog is supposed to be dead"
+        }
+      ]
+    },
+    {
       "id": "william-pugh-co-designer-of-the-stanley-parable-has-over-1-6",
       "titre": "William Pugh, co-designer of The Stanley Parable, has over 1,600 hours in Dota 2: 'It's not a game made of love. It's a game fuelled by hate and a desire to conquer'",
       "url": "https://www.pcgamer.com/gaming-industry/william-pugh-co-designer-of-the-stanley-parable-has-over-1-600-hours-in-dota-2-its-not-a-game-made-of-love-its-a-game-fuelled-by-hate-and-a-desire-to-conquer/",
@@ -389,7 +419,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -407,7 +437,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -425,7 +455,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -443,31 +473,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/strategy/lords-of-the-end-times-greatest-fantasy-is-letting-us-rewrite-the-most-hated-lore-in-warhammers-history/",
           "titre": "Lords of the End Times' greatest fantasy is letting us rewrite the most hated lore in Warhammer's history"
-        }
-      ]
-    },
-    {
-      "id": "this-ambitious-half-life-2-mod-asks-what-if-iron-lung-had-a",
-      "titre": "This ambitious Half-Life 2 mod asks: what if Iron Lung had a submarine and an airship?",
-      "url": "https://www.pcgamer.com/games/horror/this-ambitious-half-life-2-mod-asks-what-if-iron-lung-had-a-submarine-and-an-airship/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/this-ambitious-half-life-2-mod-asks-what-if-iron-lung-had-a-submarine-and-an-airship/",
-          "titre": "This ambitious Half-Life 2 mod asks: what if Iron Lung had a submarine and an airship?"
         }
       ]
     },
@@ -479,7 +491,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.4,
       "chaleur": 6,
       "liens": [
         {
@@ -497,7 +509,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.8,
       "chaleur": 6,
       "liens": [
         {
@@ -515,7 +527,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.5,
       "chaleur": 6,
       "liens": [
         {
@@ -533,7 +545,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.3,
       "chaleur": 6,
       "liens": [
         {
@@ -551,7 +563,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.0,
+      "heures": 32.1,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +581,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.6,
       "chaleur": 5,
       "liens": [
         {
@@ -587,13 +599,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore-slump",
           "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #2 - A Sophomore Slump?"
+        }
+      ]
+    },
+    {
+      "id": "this-ambitious-half-life-2-mod-asks-what-if-iron-lung-had-a",
+      "titre": "This ambitious Half-Life 2 mod asks: what if Iron Lung had a submarine and an airship?",
+      "url": "https://www.pcgamer.com/games/horror/this-ambitious-half-life-2-mod-asks-what-if-iron-lung-had-a-submarine-and-an-airship/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/this-ambitious-half-life-2-mod-asks-what-if-iron-lung-had-a-submarine-and-an-airship/",
+          "titre": "This ambitious Half-Life 2 mod asks: what if Iron Lung had a submarine and an airship?"
         }
       ]
     },
@@ -605,7 +635,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -623,7 +653,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -641,7 +671,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -659,7 +689,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -677,7 +707,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -695,7 +725,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.7,
       "chaleur": 3,
       "liens": [
         {
@@ -713,7 +743,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.5,
       "chaleur": 3,
       "liens": [
         {
@@ -731,7 +761,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.5,
       "chaleur": 3,
       "liens": [
         {
@@ -749,7 +779,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 21.9,
       "chaleur": 3,
       "liens": [
         {
@@ -767,7 +797,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.4,
       "chaleur": 3,
       "liens": [
         {
@@ -785,7 +815,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.6,
+      "heures": 23.6,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +833,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 24.4,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +851,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.5,
+      "heures": 24.5,
       "chaleur": 3,
       "liens": [
         {
@@ -839,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.4,
       "chaleur": 3,
       "liens": [
         {
@@ -857,7 +887,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.4,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +905,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 24.1,
+      "heures": 26.1,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +923,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.3,
+      "heures": 26.4,
       "chaleur": 3,
       "liens": [
         {
@@ -911,7 +941,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 26.4,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +959,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.9,
+      "heures": 26.9,
       "chaleur": 3,
       "liens": [
         {
@@ -947,7 +977,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 26.0,
+      "heures": 28.1,
       "chaleur": 3,
       "liens": [
         {
@@ -965,31 +995,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.3,
+      "heures": 28.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/interview-were-not-making-a-party-game-now-its-more-of-an-evening-thing-ghost-town-is-moving-on-from-overcooked",
           "titre": "Interview: \"We're Not Making A Party Game Now, It's More Of An Evening Thing\" - Ghost Town Is Moving On From Overcooked"
-        }
-      ]
-    },
-    {
-      "id": "dressmaker-is-a-serious-seamstress-sim-with-a-lot-of-love-st",
-      "titre": "Dressmaker is a serious seamstress sim with a lot of love stitched into the finer details",
-      "url": "https://www.pcgamer.com/games/sim/dressmaker-is-a-serious-seamstress-sim-with-a-lot-of-love-stitched-into-the-finer-details/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 27.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/dressmaker-is-a-serious-seamstress-sim-with-a-lot-of-love-stitched-into-the-finer-details/",
-          "titre": "Dressmaker is a serious seamstress sim with a lot of love stitched into the finer details"
         }
       ]
     },
@@ -1001,7 +1013,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 30.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,7 +1031,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1037,7 +1049,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1055,7 +1067,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 30.8,
+      "heures": 32.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1073,7 +1085,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 33.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1091,7 +1103,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.4,
       "chaleur": 3,
       "liens": [
         {
