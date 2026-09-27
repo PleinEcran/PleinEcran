@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "27/09/2026 à 12h24",
+  "collecte": "27/09/2026 à 14h19",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 1.1,
+      "heures": 3.0,
       "chaleur": 15,
       "liens": [
         {
@@ -49,7 +49,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 17.1,
+      "heures": 19.0,
       "chaleur": 14,
       "liens": [
         {
@@ -70,6 +70,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemin",
+      "titre": "The spiritual successor to classic JRPG Wild Arms has seemingly been cancelled, four years after its Kickstarter raised nearly $3 million",
+      "url": "https://www.pcgamer.com/games/rpg/the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemingly-been-cancelled-four-years-after-its-kickstarter-raised-nearly-usd3-million/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemingly-been-cancelled-four-years-after-its-kickstarter-raised-nearly-usd3-million/",
+          "titre": "The spiritual successor to classic JRPG Wild Arms has seemingly been cancelled, four years after its Kickstarter raised nearly $3 million"
+        }
+      ]
+    },
+    {
       "id": "review-voidjoy-ga-10-elite-extender-for-switch-pro-controlle",
       "titre": "Review: Voidjoy GA-10 Elite Extender For Switch Pro Controller - The Pros Don't Outweigh The (Mod) Cons",
       "url": "https://www.nintendolife.com/reviews/voidjoy-ga-10-elite-extender-for-switch-pro-controller-the-pros-dont-outweigh-the-mod-cons",
@@ -77,31 +95,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/voidjoy-ga-10-elite-extender-for-switch-pro-controller-the-pros-dont-outweigh-the-mod-cons",
           "titre": "Review: Voidjoy GA-10 Elite Extender For Switch Pro Controller - The Pros Don't Outweigh The (Mod) Cons"
-        }
-      ]
-    },
-    {
-      "id": "minecraft-still-gains-around-300-000-new-players-a-day-xbox",
-      "titre": "Minecraft still gains around 300,000 new players a day, Xbox boss reveals",
-      "url": "https://www.eurogamer.net/minecraft-300000-new-players-daily-minecraft",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/minecraft-300000-new-players-daily-minecraft",
-          "titre": "Minecraft still gains around 300,000 new players a day, Xbox boss reveals"
         }
       ]
     },
@@ -113,7 +113,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.3,
       "chaleur": 8,
       "liens": [
         {
@@ -358,6 +358,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "this-ambitious-half-life-2-mod-asks-what-if-iron-lung-had-a",
+      "titre": "This ambitious Half-Life 2 mod asks: what if Iron Lung had a submarine and an airship?",
+      "url": "https://www.pcgamer.com/games/horror/this-ambitious-half-life-2-mod-asks-what-if-iron-lung-had-a-submarine-and-an-airship/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/this-ambitious-half-life-2-mod-asks-what-if-iron-lung-had-a-submarine-and-an-airship/",
+          "titre": "This ambitious Half-Life 2 mod asks: what if Iron Lung had a submarine and an airship?"
+        }
+      ]
+    },
+    {
       "id": "the-sunday-papers",
       "titre": "The Sunday Papers",
       "url": "https://www.rockpapershotgun.com/the-sunday-papers-829",
@@ -365,7 +383,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -383,7 +401,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -394,20 +412,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "feature-box-art-brawl-duel-dragon-quest-ii-nes",
-      "titre": "Feature: Box Art Brawl - Duel: Dragon Quest II (NES)",
-      "url": "https://www.nintendolife.com/features/box-art-brawl-duel-dragon-quest-ii-nes",
+      "id": "minecraft-still-gains-around-300-000-new-players-a-day-xbox",
+      "titre": "Minecraft still gains around 300,000 new players a day, Xbox boss reveals",
+      "url": "https://www.eurogamer.net/minecraft-300000-new-players-daily-minecraft",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.4,
+      "heures": 4.8,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/box-art-brawl-duel-dragon-quest-ii-nes",
-          "titre": "Feature: Box Art Brawl - Duel: Dragon Quest II (NES)"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/minecraft-300000-new-players-daily-minecraft",
+          "titre": "Minecraft still gains around 300,000 new players a day, Xbox boss reveals"
         }
       ]
     },
@@ -419,7 +437,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.4,
       "chaleur": 6,
       "liens": [
         {
@@ -437,7 +455,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.6,
       "chaleur": 6,
       "liens": [
         {
@@ -456,7 +474,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 19.5,
+      "heures": 21.4,
       "chaleur": 6,
       "liens": [
         {
@@ -479,7 +497,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 27.2,
       "chaleur": 6,
       "liens": [
         {
@@ -497,7 +515,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.1,
+      "heures": 28.0,
       "chaleur": 6,
       "liens": [
         {
@@ -515,7 +533,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.3,
       "chaleur": 5,
       "liens": [
         {
@@ -533,13 +551,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore-slump",
           "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #2 - A Sophomore Slump?"
+        }
+      ]
+    },
+    {
+      "id": "feature-box-art-brawl-duel-dragon-quest-ii-nes",
+      "titre": "Feature: Box Art Brawl - Duel: Dragon Quest II (NES)",
+      "url": "https://www.nintendolife.com/features/box-art-brawl-duel-dragon-quest-ii-nes",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/box-art-brawl-duel-dragon-quest-ii-nes",
+          "titre": "Feature: Box Art Brawl - Duel: Dragon Quest II (NES)"
         }
       ]
     },
@@ -551,7 +587,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -562,20 +598,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "icymi-here-s-a-look-at-rayman-s-legends-retold-launch-editio",
-      "titre": "ICYMI: Here's A Look At Rayman's Legends Retold Launch Edition",
-      "url": "https://www.nintendolife.com/news/2026/09/icymi-heres-a-look-at-raymans-legends-retold-launch-edition",
+      "id": "icymi-here-s-a-look-at-the-rayman-legends-retold-launch-edit",
+      "titre": "ICYMI: Here's A Look At The Rayman Legends Retold Launch Edition",
+      "url": "https://www.nintendolife.com/news/2026/09/icymi-heres-a-look-at-the-rayman-legends-retold-launch-edition",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/icymi-heres-a-look-at-raymans-legends-retold-launch-edition",
-          "titre": "ICYMI: Here's A Look At Rayman's Legends Retold Launch Edition"
+          "url": "https://www.nintendolife.com/news/2026/09/icymi-heres-a-look-at-the-rayman-legends-retold-launch-edition",
+          "titre": "ICYMI: Here's A Look At The Rayman Legends Retold Launch Edition"
         }
       ]
     },
@@ -587,8 +623,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -605,7 +641,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -623,7 +659,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -641,7 +677,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -659,7 +695,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
@@ -677,7 +713,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.7,
+      "heures": 19.6,
       "chaleur": 3,
       "liens": [
         {
@@ -695,7 +731,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
@@ -713,7 +749,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 20.5,
       "chaleur": 3,
       "liens": [
         {
@@ -731,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.3,
       "chaleur": 3,
       "liens": [
         {
@@ -749,7 +785,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.2,
+      "heures": 22.1,
       "chaleur": 3,
       "liens": [
         {
@@ -767,7 +803,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.3,
       "chaleur": 3,
       "liens": [
         {
@@ -785,7 +821,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.5,
+      "heures": 22.4,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +839,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.9,
+      "heures": 22.9,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +857,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.1,
+      "heures": 24.0,
       "chaleur": 3,
       "liens": [
         {
@@ -839,7 +875,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.3,
       "chaleur": 3,
       "liens": [
         {
@@ -857,7 +893,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.3,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +911,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.5,
+      "heures": 26.4,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +929,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.3,
       "chaleur": 3,
       "liens": [
         {
@@ -911,7 +947,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.3,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +965,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 25.7,
+      "heures": 27.6,
       "chaleur": 3,
       "liens": [
         {
@@ -947,7 +983,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.9,
+      "heures": 28.8,
       "chaleur": 3,
       "liens": [
         {
@@ -965,7 +1001,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 29.3,
       "chaleur": 3,
       "liens": [
         {
@@ -983,7 +1019,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 31.3,
       "chaleur": 3,
       "liens": [
         {
@@ -992,27 +1028,7 @@ const VEILLE = {
           "titre": "What we've been playing - \"I curl up on my sofa and breed my army of battle cats\""
         }
       ]
-    },
-    {
-      "id": "drop-everything-and-grab-the-popcorn-majuular-s-4-5-hour-doc",
-      "titre": "Drop everything and grab the popcorn: Majuular's 4.5-hour documentary on Ultima Online is here to devour your weekend",
-      "url": "https://www.pcgamer.com/games/rpg/drop-everything-and-grab-the-popcorn-majuulars-4-5-hour-documentary-on-ultima-online-is-here-to-devour-your-weekend/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 34.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/drop-everything-and-grab-the-popcorn-majuulars-4-5-hour-documentary-on-ultima-online-is-here-to-devour-your-weekend/",
-          "titre": "Drop everything and grab the popcorn: Majuular's 4.5-hour documentary on Ultima Online is here to devour your weekend"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "Minecraft is getting its first new dimension in 14 years, and it's called The Sift"
-  ]
+  "alertes": []
 };
