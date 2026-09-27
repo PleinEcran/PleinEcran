@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "27/09/2026 à 08h20",
+  "collecte": "27/09/2026 à 10h19",
   "seuil": 14,
   "sujets": [
     {
@@ -13,7 +13,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 13.1,
+      "heures": 15.0,
       "chaleur": 14,
       "liens": [
         {
@@ -42,7 +42,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 9,
       "liens": [
         {
@@ -58,6 +58,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "minecraft-still-gains-around-300-000-new-players-a-day-xbox",
+      "titre": "Minecraft still gains around 300,000 new players a day, Xbox boss reveals",
+      "url": "https://www.eurogamer.net/minecraft-300000-new-players-daily-minecraft",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/minecraft-300000-new-players-daily-minecraft",
+          "titre": "Minecraft still gains around 300,000 new players a day, Xbox boss reveals"
+        }
+      ]
+    },
+    {
       "id": "sony-patents-playstation-controller-that-accepts-credit-card",
       "titre": "Sony patents PlayStation controller that accepts credit card payments",
       "url": "https://www.videogameschronicle.com/news/sony-patents-playstation-controller-that-accepts-credit-card-payments/",
@@ -65,7 +83,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 8,
       "liens": [
         {
@@ -83,7 +101,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.3,
       "chaleur": 8,
       "liens": [
         {
@@ -328,6 +346,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "feature-box-art-brawl-duel-dragon-quest-ii-nes",
+      "titre": "Feature: Box Art Brawl - Duel: Dragon Quest II (NES)",
+      "url": "https://www.nintendolife.com/features/box-art-brawl-duel-dragon-quest-ii-nes",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/box-art-brawl-duel-dragon-quest-ii-nes",
+          "titre": "Feature: Box Art Brawl - Duel: Dragon Quest II (NES)"
+        }
+      ]
+    },
+    {
       "id": "the-next-retro-games-coming-to-steam-are-a-pair-of-extremely",
       "titre": "The next retro games coming to Steam are a pair of extremely 1990s run-and-gunners where Spanish Goku fights mutants",
       "url": "https://www.pcgamer.com/games/action/the-next-retro-games-coming-to-steam-are-a-pair-of-extremely-1990s-run-and-gunners-where-spanish-goku-fights-mutants/",
@@ -335,7 +371,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.6,
       "chaleur": 6,
       "liens": [
         {
@@ -354,7 +390,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 14.5,
+      "heures": 16.5,
       "chaleur": 6,
       "liens": [
         {
@@ -378,7 +414,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 6,
       "liens": [
         {
@@ -401,7 +437,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.2,
       "chaleur": 6,
       "liens": [
         {
@@ -419,7 +455,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.0,
+      "heures": 24.0,
       "chaleur": 6,
       "liens": [
         {
@@ -437,7 +473,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 32.3,
+      "heures": 34.3,
       "chaleur": 6,
       "liens": [
         {
@@ -455,7 +491,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.3,
       "chaleur": 5,
       "liens": [
         {
@@ -473,7 +509,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.3,
       "chaleur": 5,
       "liens": [
         {
@@ -491,7 +527,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.3,
       "chaleur": 5,
       "liens": [
         {
@@ -509,7 +545,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -527,7 +563,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -545,7 +581,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -563,8 +599,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -581,8 +617,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -599,8 +635,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -617,7 +653,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
@@ -635,7 +671,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.6,
       "chaleur": 3,
       "liens": [
         {
@@ -653,7 +689,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.3,
       "chaleur": 3,
       "liens": [
         {
@@ -671,7 +707,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.3,
       "chaleur": 3,
       "liens": [
         {
@@ -689,7 +725,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.1,
       "chaleur": 3,
       "liens": [
         {
@@ -707,7 +743,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.3,
       "chaleur": 3,
       "liens": [
         {
@@ -725,7 +761,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -743,7 +779,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.9,
       "chaleur": 3,
       "liens": [
         {
@@ -761,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.0,
+      "heures": 20.0,
       "chaleur": 3,
       "liens": [
         {
@@ -779,7 +815,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.3,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
@@ -797,7 +833,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.3,
       "chaleur": 3,
       "liens": [
         {
@@ -815,7 +851,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.4,
       "chaleur": 3,
       "liens": [
         {
@@ -833,7 +869,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.3,
       "chaleur": 3,
       "liens": [
         {
@@ -851,7 +887,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.3,
       "chaleur": 3,
       "liens": [
         {
@@ -869,7 +905,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.6,
+      "heures": 23.6,
       "chaleur": 3,
       "liens": [
         {
@@ -887,7 +923,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 24.8,
       "chaleur": 3,
       "liens": [
         {
@@ -905,7 +941,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.3,
       "chaleur": 3,
       "liens": [
         {
@@ -923,7 +959,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 27.3,
       "chaleur": 3,
       "liens": [
         {
@@ -941,7 +977,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 30.2,
+      "heures": 32.2,
       "chaleur": 3,
       "liens": [
         {
@@ -959,7 +995,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 32.1,
+      "heures": 34.1,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +1013,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 32.1,
+      "heures": 34.1,
       "chaleur": 3,
       "liens": [
         {
@@ -995,7 +1031,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 32.6,
+      "heures": 34.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1013,7 +1049,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 32.8,
+      "heures": 34.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +1067,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 33.1,
+      "heures": 35.1,
       "chaleur": 3,
       "liens": [
         {
