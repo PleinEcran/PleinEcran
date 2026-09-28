@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "28/09/2026 à 16h25",
+  "collecte": "28/09/2026 à 18h24",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 5,
-      "heures": 0.3,
+      "heures": 2.2,
       "chaleur": 20,
       "liens": [
         {
@@ -53,13 +53,49 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 10,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support",
           "titre": "Report: Sony surveying developers about dropping PlayStation disc support"
+        }
+      ]
+    },
+    {
+      "id": "what-if-london-existed-in-the-grand-theft-auto-universe-one",
+      "titre": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city",
+      "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
+          "titre": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city"
+        }
+      ]
+    },
+    {
+      "id": "i-have-broken-gta-5-by-installing-so-many-mods-that-the-game",
+      "titre": "I have broken GTA 5 by installing so many mods that the game only launches in windowed mode now",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-broken-gta-5-by-installing-so-many-mods-that-the-game-only-launches-in-windowed-mode-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-broken-gta-5-by-installing-so-many-mods-that-the-game-only-launches-in-windowed-mode-now/",
+          "titre": "I have broken GTA 5 by installing so many mods that the game only launches in windowed mode now"
         }
       ]
     },
@@ -72,7 +108,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 9,
       "liens": [
         {
@@ -88,6 +124,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "the-switch-2-console-is-currently-cheaper-than-ever-in-the-u",
+      "titre": "The Switch 2 Console Is Currently Cheaper Than Ever In The UK",
+      "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-console-is-currently-cheaper-than-ever-in-the-uk",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-console-is-currently-cheaper-than-ever-in-the-uk",
+          "titre": "The Switch 2 Console Is Currently Cheaper Than Ever In The UK"
+        }
+      ]
+    },
+    {
       "id": "god-of-war-laufey-ps5-editions-revealed-pre-order-tomorrow",
       "titre": "God of War Laufey PS5 Editions Revealed, Pre-Order Tomorrow",
       "url": "https://www.pushsquare.com/news/2026/09/god-of-war-laufey-ps5-editions-revealed-pre-order-tomorrow",
@@ -96,7 +150,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 7,
       "liens": [
         {
@@ -120,7 +174,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 5.6,
+      "heures": 7.5,
       "chaleur": 7,
       "liens": [
         {
@@ -143,7 +197,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.0,
+      "heures": 28.0,
       "chaleur": 7,
       "liens": [
         {
@@ -388,6 +442,168 @@ const VEILLE = {
       ]
     },
     {
+      "id": "the-last-of-us-day-marked-with-ps5-avatars-ghost-of-yotei-dl",
+      "titre": "The Last of Us Day Marked with PS5 Avatars, Ghost of Yotei DLC, Figures",
+      "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-marked-with-ps5-avatars-ghost-of-yotei-dlc-figures",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-marked-with-ps5-avatars-ghost-of-yotei-dlc-figures",
+          "titre": "The Last of Us Day Marked with PS5 Avatars, Ghost of Yotei DLC, Figures"
+        }
+      ]
+    },
+    {
+      "id": "national-videogame-museum-launches-uk-wide-survey-on-game-pr",
+      "titre": "National Videogame Museum launches UK-wide survey on game preservation",
+      "url": "https://www.gamesindustry.biz/national-videogame-museum-launches-uk-wide-survey-on-game-preservation",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/national-videogame-museum-launches-uk-wide-survey-on-game-preservation",
+          "titre": "National Videogame Museum launches UK-wide survey on game preservation"
+        }
+      ]
+    },
+    {
+      "id": "it-s-a-nice-story-to-tell-how-dice-bounced-back-from-battle",
+      "titre": "\"It's a nice story to tell\": How DICE bounced back from Battlefield 2042's disastrous launch to release the blockbuster Battlefield 6",
+      "url": "https://www.gamesindustry.biz/its-a-nice-story-to-tell-how-dice-bounced-back-from-battlefield-2042s-disastrous-launch-to-release-the-blockbuster-battlefield-6",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/its-a-nice-story-to-tell-how-dice-bounced-back-from-battlefield-2042s-disastrous-launch-to-release-the-blockbuster-battlefield-6",
+          "titre": "\"It's a nice story to tell\": How DICE bounced back from Battlefield 2042's disastrous launch to release the blockbuster Battlefield 6"
+        }
+      ]
+    },
+    {
+      "id": "the-writer-of-the-witcher-3-s-best-quest-has-returned-to-cd",
+      "titre": "The writer of The Witcher 3's best quest has returned to CD Projekt after a decade away",
+      "url": "https://www.pcgamer.com/games/the-witcher/the-writer-of-the-witcher-3s-best-quest-has-returned-to-cd-projekt-after-a-decade-away/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/the-writer-of-the-witcher-3s-best-quest-has-returned-to-cd-projekt-after-a-decade-away/",
+          "titre": "The writer of The Witcher 3's best quest has returned to CD Projekt after a decade away"
+        }
+      ]
+    },
+    {
+      "id": "embark-should-ve-implemented-a-pve-mode-into-arc-raiders-a-l",
+      "titre": "Embark should've implemented a PvE mode into Arc Raiders a long time ago",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/embark-shouldve-implemented-a-pve-mode-into-arc-raiders-a-long-time-ago/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/embark-shouldve-implemented-a-pve-mode-into-arc-raiders-a-long-time-ago/",
+          "titre": "Embark should've implemented a PvE mode into Arc Raiders a long time ago"
+        }
+      ]
+    },
+    {
+      "id": "feature-okay-let-s-talk-about-the-new-resident-evil-movie",
+      "titre": "Feature: Okay, Let's Talk About The New Resident Evil Movie",
+      "url": "https://www.nintendolife.com/features/okay-lets-talk-about-the-new-resident-evil-movie",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/okay-lets-talk-about-the-new-resident-evil-movie",
+          "titre": "Feature: Okay, Let's Talk About The New Resident Evil Movie"
+        }
+      ]
+    },
+    {
+      "id": "sony-fighting-ps5-pro-scalpers-in-japan-with-60-hour-gamepla",
+      "titre": "Sony Fighting PS5 Pro Scalpers in Japan with 60 Hour Gameplay Requirement",
+      "url": "https://www.pushsquare.com/news/2026/09/sony-fighting-ps5-pro-scalpers-in-japan-with-60-hour-gameplay-requirement",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/sony-fighting-ps5-pro-scalpers-in-japan-with-60-hour-gameplay-requirement",
+          "titre": "Sony Fighting PS5 Pro Scalpers in Japan with 60 Hour Gameplay Requirement"
+        }
+      ]
+    },
+    {
+      "id": "ubisoft-s-calling-its-next-push-into-gen-ai-game-development",
+      "titre": "Ubisoft's calling its next push into gen-AI game development Motherbrain",
+      "url": "https://www.eurogamer.net/ubisoft-gen-ai-game-motherbrain-assassins-creed",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ubisoft-gen-ai-game-motherbrain-assassins-creed",
+          "titre": "Ubisoft's calling its next push into gen-AI game development Motherbrain"
+        }
+      ]
+    },
+    {
+      "id": "a-love-letter-to-the-guitar-hero-x-plorer-controller",
+      "titre": "A love letter to the Guitar Hero X-Plorer Controller",
+      "url": "https://www.pcgamer.com/hardware/controllers/a-love-letter-to-the-guitar-hero-x-plorer-controller/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/controllers/a-love-letter-to-the-guitar-hero-x-plorer-controller/",
+          "titre": "A love letter to the Guitar Hero X-Plorer Controller"
+        }
+      ]
+    },
+    {
       "id": "season-3-of-the-last-of-us-tv-show-will-add-john-goodman-lau",
       "titre": "Season 3 of The Last of Us TV show will add John Goodman, Laura Bailey and Ian Alexander to the cast",
       "url": "https://www.videogameschronicle.com/news/season-3-of-the-last-of-us-tv-show-will-add-john-goodman-laura-bailey-and-ian-alexander-to-the-cast/",
@@ -395,7 +611,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -413,7 +629,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
@@ -431,7 +647,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -449,7 +665,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -467,7 +683,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -485,7 +701,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -503,7 +719,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -521,7 +737,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -539,7 +755,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -557,157 +773,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/pokemon-cards-are-seemingly-returning-to-mcdonalds-happy-meals-soon",
           "titre": "Pokémon Cards Are Seemingly Returning To McDonald's Happy Meals Soon"
-        }
-      ]
-    },
-    {
-      "id": "dark-souls-2-can-now-be-played-in-its-entirety-with-drop-in",
-      "titre": "Dark Souls 2 can now be played in its entirety with drop-in, drop-out co-op, thanks to its own seamless multiplayer mod",
-      "url": "https://www.eurogamer.net/dark-souls-2-seamless-co-op-mod",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dark-souls-2-seamless-co-op-mod",
-          "titre": "Dark Souls 2 can now be played in its entirety with drop-in, drop-out co-op, thanks to its own seamless multiplayer mod"
-        }
-      ]
-    },
-    {
-      "id": "vignette-vs-chromatic-aberration-which-is-worse",
-      "titre": "Vignette vs chromatic aberration - which is worse?",
-      "url": "https://www.pcgamer.com/hardware/vignette-vs-chromatic-aberration-which-is-worse/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vignette-vs-chromatic-aberration-which-is-worse/",
-          "titre": "Vignette vs chromatic aberration - which is worse?"
-        }
-      ]
-    },
-    {
-      "id": "wolverine-japanese-ps5-sales-down-massively-compared-to-spid",
-      "titre": "Wolverine Japanese PS5 Sales Down Massively Compared to Spider-Man",
-      "url": "https://www.pushsquare.com/news/2026/09/wolverine-japanese-ps5-sales-down-massively-compared-to-spider-man",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/wolverine-japanese-ps5-sales-down-massively-compared-to-spider-man",
-          "titre": "Wolverine Japanese PS5 Sales Down Massively Compared to Spider-Man"
-        }
-      ]
-    },
-    {
-      "id": "here-is-your-world-first-comparison-between-original-and-rem",
-      "titre": "Here is your world-first comparison between original and remastered Tub Geralt in The Witcher 3",
-      "url": "https://www.pcgamer.com/games/the-witcher/here-is-your-world-first-comparison-between-original-and-remastered-tub-geralt-in-the-witcher-3/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/here-is-your-world-first-comparison-between-original-and-remastered-tub-geralt-in-the-witcher-3/",
-          "titre": "Here is your world-first comparison between original and remastered Tub Geralt in The Witcher 3"
-        }
-      ]
-    },
-    {
-      "id": "if-you-want-an-early-taste-of-the-witcher-3-s-songs-of-the-p",
-      "titre": "If you want an early taste of The Witcher 3's Songs of the Past expansion, you can listen to five tracks from the OST right now",
-      "url": "https://www.eurogamer.net/the-witcher-3-songs-of-the-past-expansion-five-tracks-ost",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/the-witcher-3-songs-of-the-past-expansion-five-tracks-ost",
-          "titre": "If you want an early taste of The Witcher 3's Songs of the Past expansion, you can listen to five tracks from the OST right now"
-        }
-      ]
-    },
-    {
-      "id": "3-warhammer-40-000-sickos-share-their-strongest-held-beliefs",
-      "titre": "3 Warhammer 40,000 sickos share their strongest held beliefs—and you can vote on them",
-      "url": "https://www.pcgamer.com/games/strategy/3-warhammer-40-000-sickos-share-their-strongest-held-beliefs-and-you-can-vote-on-them/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/3-warhammer-40-000-sickos-share-their-strongest-held-beliefs-and-you-can-vote-on-them/",
-          "titre": "3 Warhammer 40,000 sickos share their strongest held beliefs—and you can vote on them"
-        }
-      ]
-    },
-    {
-      "id": "blizzard-gifts-diablo-4-players-one-of-the-game-s-rarest-cra",
-      "titre": "Blizzard gifts Diablo 4 players one of the game's rarest crafting materials to apologise for Season 15 issues",
-      "url": "https://www.eurogamer.net/diablo-4-free-gift-season-of-hells-legacy-server-issues",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/diablo-4-free-gift-season-of-hells-legacy-server-issues",
-          "titre": "Blizzard gifts Diablo 4 players one of the game's rarest crafting materials to apologise for Season 15 issues"
-        }
-      ]
-    },
-    {
-      "id": "we-didn-t-want-to-demonise-fetish-or-bdsm-people-aren-t-dyi",
-      "titre": "\"We didn't want to demonise fetish or BDSM\": People aren't dying in horror game Clive Barker's Hellraiser: Revival because of what they do in the bedroom",
-      "url": "https://www.rockpapershotgun.com/we-didnt-want-to-demonise-fetish-or-bdsm-people-arent-dying-in-horror-game-clive-barkers-hellraiser-revival-because-of-what-they-do-in-the-bedroom",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/we-didnt-want-to-demonise-fetish-or-bdsm-people-arent-dying-in-horror-game-clive-barkers-hellraiser-revival-because-of-what-they-do-in-the-bedroom",
-          "titre": "\"We didn't want to demonise fetish or BDSM\": People aren't dying in horror game Clive Barker's Hellraiser: Revival because of what they do in the bedroom"
         }
       ]
     },
@@ -719,7 +791,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.1,
       "chaleur": 6,
       "liens": [
         {
@@ -737,7 +809,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 6,
       "liens": [
         {
@@ -755,7 +827,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 6,
       "liens": [
         {
@@ -773,31 +845,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model",
           "titre": "Microsoft boss Nadella says Xbox has to invent \"sustainable business model\""
-        }
-      ]
-    },
-    {
-      "id": "industry-insiders-and-tokyo-gossip-suggest-kojima-is-getting",
-      "titre": "Industry insiders and Tokyo gossip suggest Kojima is getting less money from Xbox than original PlayStation budget for Physint",
-      "url": "https://www.pcgamer.com/games/industry-insiders-and-tokyo-gossip-suggest-kojima-is-getting-less-money-from-xbox-than-original-playstation-budget-for-physint/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/industry-insiders-and-tokyo-gossip-suggest-kojima-is-getting-less-money-from-xbox-than-original-playstation-budget-for-physint/",
-          "titre": "Industry insiders and Tokyo gossip suggest Kojima is getting less money from Xbox than original PlayStation budget for Physint"
         }
       ]
     },
@@ -809,7 +863,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.4,
       "chaleur": 5,
       "liens": [
         {
@@ -827,7 +881,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 30.4,
       "chaleur": 5,
       "liens": [
         {
@@ -845,13 +899,157 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.9,
+      "heures": 32.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/minecraft-300000-new-players-daily-minecraft",
           "titre": "Minecraft still gains around 300,000 new players a day, Xbox boss reveals"
+        }
+      ]
+    },
+    {
+      "id": "dark-souls-2-can-now-be-played-in-its-entirety-with-drop-in",
+      "titre": "Dark Souls 2 can now be played in its entirety with drop-in, drop-out co-op, thanks to its own seamless multiplayer mod",
+      "url": "https://www.eurogamer.net/dark-souls-2-seamless-co-op-mod",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dark-souls-2-seamless-co-op-mod",
+          "titre": "Dark Souls 2 can now be played in its entirety with drop-in, drop-out co-op, thanks to its own seamless multiplayer mod"
+        }
+      ]
+    },
+    {
+      "id": "vignette-vs-chromatic-aberration-which-is-worse",
+      "titre": "Vignette vs chromatic aberration - which is worse?",
+      "url": "https://www.pcgamer.com/hardware/vignette-vs-chromatic-aberration-which-is-worse/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vignette-vs-chromatic-aberration-which-is-worse/",
+          "titre": "Vignette vs chromatic aberration - which is worse?"
+        }
+      ]
+    },
+    {
+      "id": "wolverine-japanese-ps5-sales-down-massively-compared-to-spid",
+      "titre": "Wolverine Japanese PS5 Sales Down Massively Compared to Spider-Man",
+      "url": "https://www.pushsquare.com/news/2026/09/wolverine-japanese-ps5-sales-down-massively-compared-to-spider-man",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/wolverine-japanese-ps5-sales-down-massively-compared-to-spider-man",
+          "titre": "Wolverine Japanese PS5 Sales Down Massively Compared to Spider-Man"
+        }
+      ]
+    },
+    {
+      "id": "here-is-your-world-first-comparison-between-original-and-rem",
+      "titre": "Here is your world-first comparison between original and remastered Tub Geralt in The Witcher 3",
+      "url": "https://www.pcgamer.com/games/the-witcher/here-is-your-world-first-comparison-between-original-and-remastered-tub-geralt-in-the-witcher-3/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/here-is-your-world-first-comparison-between-original-and-remastered-tub-geralt-in-the-witcher-3/",
+          "titre": "Here is your world-first comparison between original and remastered Tub Geralt in The Witcher 3"
+        }
+      ]
+    },
+    {
+      "id": "if-you-want-an-early-taste-of-the-witcher-3-s-songs-of-the-p",
+      "titre": "If you want an early taste of The Witcher 3's Songs of the Past expansion, you can listen to five tracks from the OST right now",
+      "url": "https://www.eurogamer.net/the-witcher-3-songs-of-the-past-expansion-five-tracks-ost",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/the-witcher-3-songs-of-the-past-expansion-five-tracks-ost",
+          "titre": "If you want an early taste of The Witcher 3's Songs of the Past expansion, you can listen to five tracks from the OST right now"
+        }
+      ]
+    },
+    {
+      "id": "3-warhammer-40-000-sickos-share-their-strongest-held-beliefs",
+      "titre": "3 Warhammer 40,000 sickos share their strongest held beliefs—and you can vote on them",
+      "url": "https://www.pcgamer.com/games/strategy/3-warhammer-40-000-sickos-share-their-strongest-held-beliefs-and-you-can-vote-on-them/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/3-warhammer-40-000-sickos-share-their-strongest-held-beliefs-and-you-can-vote-on-them/",
+          "titre": "3 Warhammer 40,000 sickos share their strongest held beliefs—and you can vote on them"
+        }
+      ]
+    },
+    {
+      "id": "blizzard-gifts-diablo-4-players-one-of-the-game-s-rarest-cra",
+      "titre": "Blizzard gifts Diablo 4 players one of the game's rarest crafting materials to apologise for Season 15 issues",
+      "url": "https://www.eurogamer.net/diablo-4-free-gift-season-of-hells-legacy-server-issues",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/diablo-4-free-gift-season-of-hells-legacy-server-issues",
+          "titre": "Blizzard gifts Diablo 4 players one of the game's rarest crafting materials to apologise for Season 15 issues"
+        }
+      ]
+    },
+    {
+      "id": "we-didn-t-want-to-demonise-fetish-or-bdsm-people-aren-t-dyi",
+      "titre": "\"We didn't want to demonise fetish or BDSM\": People aren't dying in horror game Clive Barker's Hellraiser: Revival because of what they do in the bedroom",
+      "url": "https://www.rockpapershotgun.com/we-didnt-want-to-demonise-fetish-or-bdsm-people-arent-dying-in-horror-game-clive-barkers-hellraiser-revival-because-of-what-they-do-in-the-bedroom",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/we-didnt-want-to-demonise-fetish-or-bdsm-people-arent-dying-in-horror-game-clive-barkers-hellraiser-revival-because-of-what-they-do-in-the-bedroom",
+          "titre": "\"We didn't want to demonise fetish or BDSM\": People aren't dying in horror game Clive Barker's Hellraiser: Revival because of what they do in the bedroom"
         }
       ]
     },
@@ -863,7 +1061,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +1079,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +1097,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.7,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +1115,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -926,207 +1124,7 @@ const VEILLE = {
           "titre": "Arc Raiders is messing with your loot hotspots to make games more exciting"
         }
       ]
-    },
-    {
-      "id": "wardogs-studio-chief-brammer-insists-he-isn-t-pro-crunch-i-a",
-      "titre": "Wardogs studio chief Brammer insists he isn't \"pro crunch, I am pro hard work\"",
-      "url": "https://www.gamesindustry.biz/wardogs-studio-chief-brammer-insists-he-isnt-pro-crunch-i-am-pro-hard-work",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 5.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/wardogs-studio-chief-brammer-insists-he-isnt-pro-crunch-i-am-pro-hard-work",
-          "titre": "Wardogs studio chief Brammer insists he isn't \"pro crunch, I am pro hard work\""
-        }
-      ]
-    },
-    {
-      "id": "guide-these-21-ps5-and-ps-plus-games-are-coming-out-this-wee",
-      "titre": "Guide: These 21+ PS5 and PS Plus Games Are Coming Out This Week (28th-4th October)",
-      "url": "https://www.pushsquare.com/guides/these-21plus-ps5-and-ps-plus-games-are-coming-out-this-week-28th-4th-october",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/these-21plus-ps5-and-ps-plus-games-are-coming-out-this-week-28th-4th-october",
-          "titre": "Guide: These 21+ PS5 and PS Plus Games Are Coming Out This Week (28th-4th October)"
-        }
-      ]
-    },
-    {
-      "id": "the-elder-scrolls-never-got-a-spin-off-like-fallout-new-vega",
-      "titre": "The Elder Scrolls never got a spin-off like Fallout: New Vegas because Todd Howard is protective of the IP, former dev says",
-      "url": "https://www.videogameschronicle.com/news/the-elder-scrolls-never-got-a-spin-off-like-fallout-new-vegas-because-todd-howard-is-protective-of-the-ip-former-dev-says/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 5.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-elder-scrolls-never-got-a-spin-off-like-fallout-new-vegas-because-todd-howard-is-protective-of-the-ip-former-dev-says/",
-          "titre": "The Elder Scrolls never got a spin-off like Fallout: New Vegas because Todd Howard is protective of the IP, former dev says"
-        }
-      ]
-    },
-    {
-      "id": "we-clearly-handled-that-responsibility-poorly-paradox-ban-d",
-      "titre": "\"We clearly handled that responsibility poorly\": Paradox ban Discord profile pics of historical figures born after 1800, after bust-up with Hearts of Iron 4 players over Atatürk banning",
-      "url": "https://www.rockpapershotgun.com/we-clearly-handled-that-responsibility-poorly-paradox-ban-discord-profile-pics-of-historical-figures-born-after-1800-after-bust-up-with-hearts-of-iron-4-players-over-ataturk-banning",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 6.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/we-clearly-handled-that-responsibility-poorly-paradox-ban-discord-profile-pics-of-historical-figures-born-after-1800-after-bust-up-with-hearts-of-iron-4-players-over-ataturk-banning",
-          "titre": "\"We clearly handled that responsibility poorly\": Paradox ban Discord profile pics of historical figures born after 1800, after bust-up with Hearts of Iron 4 players over Atatürk banning"
-        }
-      ]
-    },
-    {
-      "id": "marvel-s-wolverine-finally-lets-you-turn-off-fart-gas-scent",
-      "titre": "Marvel's Wolverine finally lets you turn off \"fart gas\" scent trails completely, but there's a catch",
-      "url": "https://www.eurogamer.net/marvels-wolverine-patch-turn-off-scent-trails",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 8.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marvels-wolverine-patch-turn-off-scent-trails",
-          "titre": "Marvel's Wolverine finally lets you turn off \"fart gas\" scent trails completely, but there's a catch"
-        }
-      ]
-    },
-    {
-      "id": "former-dragon-age-executive-producer-mark-darrah-explains-wh",
-      "titre": "Former Dragon Age executive producer Mark Darrah explains what he'd change about each game: 'It's kind of filler'",
-      "url": "https://www.pcgamer.com/games/dragon-age/former-dragon-age-executive-producer-mark-darrah-explains-what-hed-change-about-each-game-its-kind-of-filler/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 16.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/dragon-age/former-dragon-age-executive-producer-mark-darrah-explains-what-hed-change-about-each-game-its-kind-of-filler/",
-          "titre": "Former Dragon Age executive producer Mark Darrah explains what he'd change about each game: 'It's kind of filler'"
-        }
-      ]
-    },
-    {
-      "id": "sony-s-hearing-a-lot-of-the-feedback-from-customers-nis-ame",
-      "titre": "'Sony's Hearing a Lot of the Feedback from Customers': NIS America Boss Weighs in on PS5 Disc Debate",
-      "url": "https://www.pushsquare.com/news/2026/09/sonys-hearing-a-lot-of-the-feedback-from-customers-nis-america-boss-weighs-in-on-ps5-disc-debate",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/sonys-hearing-a-lot-of-the-feedback-from-customers-nis-america-boss-weighs-in-on-ps5-disc-debate",
-          "titre": "'Sony's Hearing a Lot of the Feedback from Customers': NIS America Boss Weighs in on PS5 Disc Debate"
-        }
-      ]
-    },
-    {
-      "id": "after-12-years-dark-souls-2-is-finally-playable-in-co-op-wit",
-      "titre": "After 12 years, Dark Souls 2 is finally playable in co-op without interruptions",
-      "url": "https://www.pcgamer.com/games/dark-souls/after-12-years-dark-souls-2-is-finally-playable-in-co-op-without-interruptions/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/dark-souls/after-12-years-dark-souls-2-is-finally-playable-in-co-op-without-interruptions/",
-          "titre": "After 12 years, Dark Souls 2 is finally playable in co-op without interruptions"
-        }
-      ]
-    },
-    {
-      "id": "gears-of-war-story-director-laid-off-mere-days-after-e-day-w",
-      "titre": "Gears of War story director laid off mere days after E-Day went gold",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-story-director-laid-off-mere-days-after-e-day-went-gold/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 22.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-story-director-laid-off-mere-days-after-e-day-went-gold/",
-          "titre": "Gears of War story director laid off mere days after E-Day went gold"
-        }
-      ]
-    },
-    {
-      "id": "five-nights-at-freddy-s-is-coming-to-fortnite-for-fortnitema",
-      "titre": "Five Nights at Freddy's is coming to Fortnite for Fortnitemares",
-      "url": "https://www.eurogamer.net/fortnite-five-nights-at-freddys-fortnitemares-collab",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 25.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/fortnite-five-nights-at-freddys-fortnitemares-collab",
-          "titre": "Five Nights at Freddy's is coming to Fortnite for Fortnitemares"
-        }
-      ]
-    },
-    {
-      "id": "opinion-i-played-mario-kart-tour-every-day-for-seven-years-a",
-      "titre": "Opinion: I Played Mario Kart Tour Every Day For Seven Years, And What Am I Left With?",
-      "url": "https://www.nintendolife.com/features/opinion-i-played-mario-kart-tour-every-day-for-seven-years-and-what-am-i-left-with",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 25.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/opinion-i-played-mario-kart-tour-every-day-for-seven-years-and-what-am-i-left-with",
-          "titre": "Opinion: I Played Mario Kart Tour Every Day For Seven Years, And What Am I Left With?"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements"
-  ]
+  "alertes": []
 };
