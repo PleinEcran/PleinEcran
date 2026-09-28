@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "28/09/2026 à 02h21",
+  "collecte": "28/09/2026 à 04h22",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 15.0,
+      "heures": 17.0,
       "chaleur": 12,
       "liens": [
         {
@@ -47,8 +47,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 11,
+      "heures": 12.1,
+      "chaleur": 10,
       "liens": [
         {
           "source": "PC Gamer",
@@ -66,8 +66,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 11.9,
-      "chaleur": 11,
+      "heures": 13.9,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Eurogamer",
@@ -89,7 +89,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.1,
       "chaleur": 9,
       "liens": [
         {
@@ -107,7 +107,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 8,
       "liens": [
         {
@@ -125,7 +125,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.1,
+      "heures": 33.1,
       "chaleur": 8,
       "liens": [
         {
@@ -377,49 +377,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-a-45gb-ps5-patch-release-times-revealed",
           "titre": "The Witcher 3 Remastered a 45GB PS5 Patch, Release Times Revealed"
-        }
-      ]
-    },
-    {
-      "id": "former-dragon-age-executive-producer-mark-darrah-explains-wh",
-      "titre": "Former Dragon Age executive producer Mark Darrah explains what he'd change about each game: 'It's kind of filler'",
-      "url": "https://www.pcgamer.com/games/dragon-age/former-dragon-age-executive-producer-mark-darrah-explains-what-hed-change-about-each-game-its-kind-of-filler/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/dragon-age/former-dragon-age-executive-producer-mark-darrah-explains-what-hed-change-about-each-game-its-kind-of-filler/",
-          "titre": "Former Dragon Age executive producer Mark Darrah explains what he'd change about each game: 'It's kind of filler'"
-        }
-      ]
-    },
-    {
-      "id": "sony-s-hearing-a-lot-of-the-feedback-from-customers-nis-ame",
-      "titre": "'Sony's Hearing a Lot of the Feedback from Customers': NIS America Boss Weighs in on PS5 Disc Debate",
-      "url": "https://www.pushsquare.com/news/2026/09/sonys-hearing-a-lot-of-the-feedback-from-customers-nis-america-boss-weighs-in-on-ps5-disc-debate",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/sonys-hearing-a-lot-of-the-feedback-from-customers-nis-america-boss-weighs-in-on-ps5-disc-debate",
-          "titre": "'Sony's Hearing a Lot of the Feedback from Customers': NIS America Boss Weighs in on PS5 Disc Debate"
         }
       ]
     },
@@ -431,7 +395,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 15.7,
       "chaleur": 6,
       "liens": [
         {
@@ -449,7 +413,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 5,
       "liens": [
         {
@@ -467,7 +431,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.8,
+      "heures": 18.8,
       "chaleur": 5,
       "liens": [
         {
@@ -485,7 +449,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 18.5,
+      "heures": 20.5,
       "chaleur": 5,
       "liens": [
         {
@@ -503,7 +467,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.6,
+      "heures": 25.6,
       "chaleur": 5,
       "liens": [
         {
@@ -521,13 +485,49 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.4,
+      "heures": 35.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore-slump",
           "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #2 - A Sophomore Slump?"
+        }
+      ]
+    },
+    {
+      "id": "former-dragon-age-executive-producer-mark-darrah-explains-wh",
+      "titre": "Former Dragon Age executive producer Mark Darrah explains what he'd change about each game: 'It's kind of filler'",
+      "url": "https://www.pcgamer.com/games/dragon-age/former-dragon-age-executive-producer-mark-darrah-explains-what-hed-change-about-each-game-its-kind-of-filler/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/dragon-age/former-dragon-age-executive-producer-mark-darrah-explains-what-hed-change-about-each-game-its-kind-of-filler/",
+          "titre": "Former Dragon Age executive producer Mark Darrah explains what he'd change about each game: 'It's kind of filler'"
+        }
+      ]
+    },
+    {
+      "id": "sony-s-hearing-a-lot-of-the-feedback-from-customers-nis-ame",
+      "titre": "'Sony's Hearing a Lot of the Feedback from Customers': NIS America Boss Weighs in on PS5 Disc Debate",
+      "url": "https://www.pushsquare.com/news/2026/09/sonys-hearing-a-lot-of-the-feedback-from-customers-nis-america-boss-weighs-in-on-ps5-disc-debate",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/sonys-hearing-a-lot-of-the-feedback-from-customers-nis-america-boss-weighs-in-on-ps5-disc-debate",
+          "titre": "'Sony's Hearing a Lot of the Feedback from Customers': NIS America Boss Weighs in on PS5 Disc Debate"
         }
       ]
     },
@@ -539,7 +539,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -557,7 +557,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -575,7 +575,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -593,7 +593,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -611,8 +611,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -629,8 +629,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -647,8 +647,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -665,8 +665,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -683,7 +683,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.6,
       "chaleur": 3,
       "liens": [
         {
@@ -701,7 +701,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -719,7 +719,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -737,7 +737,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -755,7 +755,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.4,
       "chaleur": 3,
       "liens": [
         {
@@ -773,7 +773,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.4,
       "chaleur": 3,
       "liens": [
         {
@@ -791,7 +791,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 25.6,
+      "heures": 27.7,
       "chaleur": 3,
       "liens": [
         {
@@ -809,7 +809,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 30.5,
       "chaleur": 3,
       "liens": [
         {
@@ -827,7 +827,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 29.9,
+      "heures": 31.9,
       "chaleur": 3,
       "liens": [
         {
@@ -845,7 +845,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 31.4,
+      "heures": 33.4,
       "chaleur": 3,
       "liens": [
         {
@@ -863,7 +863,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 31.6,
+      "heures": 33.6,
       "chaleur": 3,
       "liens": [
         {
@@ -881,7 +881,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 32.4,
+      "heures": 34.4,
       "chaleur": 3,
       "liens": [
         {
@@ -899,7 +899,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 32.5,
+      "heures": 34.5,
       "chaleur": 3,
       "liens": [
         {
@@ -917,67 +917,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 33.4,
+      "heures": 35.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/cyberpunk-2077-phantom-libertys-chimera-tank-boss-fight-was-apparently-so-complex-it-took-two-years-of-reiterating-over-and-over-to-get-it-right",
           "titre": "Cyberpunk 2077: Phantom Liberty's Chimera tank boss fight was apparently so complex it took two years of \"reiterating over and over\" to get it right"
-        }
-      ]
-    },
-    {
-      "id": "the-last-of-us-day-celebrations-will-bring-partnerships-and",
-      "titre": "The Last of Us Day Celebrations Will Bring Partnerships and Collaborations, Season 3 Casting News Announced",
-      "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-celebrations-will-bring-partnerships-and-collaborations-season-3-casting-news-announced",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 34.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-celebrations-will-bring-partnerships-and-collaborations-season-3-casting-news-announced",
-          "titre": "The Last of Us Day Celebrations Will Bring Partnerships and Collaborations, Season 3 Casting News Announced"
-        }
-      ]
-    },
-    {
-      "id": "do-665-runs-if-you-want-control-resonant-is-getting-a-new-g",
-      "titre": "\"Do 665 runs if you want!\": Control Resonant is getting a new game++ mode next month, and don't worry you happy snappers, a photo mode is on the way too",
-      "url": "https://www.rockpapershotgun.com/do-665-runs-if-you-want-control-resonant-is-getting-a-new-game-mode-next-month-and-dont-worry-you-happy-snappers-a-photo-mode-is-on-the-way-too",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 34.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/do-665-runs-if-you-want-control-resonant-is-getting-a-new-game-mode-next-month-and-dont-worry-you-happy-snappers-a-photo-mode-is-on-the-way-too",
-          "titre": "\"Do 665 runs if you want!\": Control Resonant is getting a new game++ mode next month, and don't worry you happy snappers, a photo mode is on the way too"
-        }
-      ]
-    },
-    {
-      "id": "castlevania-celebrates-turning-40-by-giving-away-the-origina",
-      "titre": "Castlevania celebrates turning 40 by giving away the original game for free",
-      "url": "https://www.eurogamer.net/castlevania-40th-anniversary-free-original-game-belmonts-curse",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 34.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/castlevania-40th-anniversary-free-original-game-belmonts-curse",
-          "titre": "Castlevania celebrates turning 40 by giving away the original game for free"
         }
       ]
     }
