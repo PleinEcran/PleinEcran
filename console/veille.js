@@ -1,50 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "28/09/2026 à 20h19",
+  "collecte": "28/09/2026 à 22h20",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "cd-projekt-release-full-updated-witcher-3-wild-hunt-remaster",
-      "titre": "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements",
-      "url": "https://www.rockpapershotgun.com/cd-projekt-release-full-updated-witcher-3-wild-hunt-remastered-system-specs-including-ray-tracing-and-path-tracing-requirements",
-      "sources": [
-        "Nintendo Life",
-        "PC Gamer",
-        "Push Square",
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 5,
-      "heures": 4.2,
-      "chaleur": 16,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cd-projekt-release-full-updated-witcher-3-wild-hunt-remastered-system-specs-including-ray-tracing-and-path-tracing-requirements",
-          "titre": "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/the-witcher-3-wild-hunt-remastered",
-          "titre": "Review in Progress: The Witcher 3: Wild Hunt Remastered (PS5) - How to Improve a Masterpiece"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/witcher-3-remastered-release-date-launch-times/",
-          "titre": "Here's The Witcher 3 Remastered release time for your region"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-release-times-in-your-time-zone-and-update-file-size/",
-          "titre": "The Witcher 3 Remastered release times in your time zone and update file size"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/psa-the-witcher-3-remastered-file-size-and-release-time-confirmed-separate-purchase-required",
-          "titre": "PSA: The Witcher 3 Remastered File Size And Release Time Confirmed, Separate Purchase Required"
-        }
-      ]
-    },
     {
       "id": "cd-projekt-lays-out-why-you-should-play-the-witcher-3-remast",
       "titre": "CD Projekt lays out why you should play The Witcher 3 Remastered",
@@ -54,7 +12,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 0.8,
+      "heures": 2.8,
       "chaleur": 11,
       "liens": [
         {
@@ -70,56 +28,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "trophy-games-makes-largest-acquisition-to-date-with-2-6-mill",
-      "titre": "Trophy Games makes largest acquisition to date with $2.6 million Playrion deal",
-      "url": "https://www.gamesindustry.biz/trophy-games-makes-largest-acquisition-to-date-with-26-million-playrion-deal",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 0.1,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/trophy-games-makes-largest-acquisition-to-date-with-26-million-playrion-deal",
-          "titre": "Trophy Games makes largest acquisition to date with $2.6 million Playrion deal"
-        }
-      ]
-    },
-    {
-      "id": "what-if-london-existed-in-the-grand-theft-auto-universe-one",
-      "titre": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city",
-      "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
-          "titre": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city"
-        }
-      ]
-    },
-    {
-      "id": "i-have-broken-gta-5-by-installing-so-many-mods-that-the-game",
-      "titre": "I have broken GTA 5 by installing so many mods that the game only launches in windowed mode now",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-broken-gta-5-by-installing-so-many-mods-that-the-game-only-launches-in-windowed-mode-now/",
+      "id": "double-fine-s-first-game-since-being-dumped-by-xbox-will-be",
+      "titre": "Double Fine's first game since being dumped by Xbox will be out in just 2 weeks",
+      "url": "https://www.pcgamer.com/games/racing/double-fines-first-game-since-being-dumped-by-xbox-will-be-out-in-just-2-weeks/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 9,
+      "heures": 0.3,
+      "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-broken-gta-5-by-installing-so-many-mods-that-the-game-only-launches-in-windowed-mode-now/",
-          "titre": "I have broken GTA 5 by installing so many mods that the game only launches in windowed mode now"
+          "url": "https://www.pcgamer.com/games/racing/double-fines-first-game-since-being-dumped-by-xbox-will-be-out-in-just-2-weeks/",
+          "titre": "Double Fine's first game since being dumped by Xbox will be out in just 2 weeks"
         }
       ]
     },
@@ -131,7 +53,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.8,
       "chaleur": 8,
       "liens": [
         {
@@ -149,31 +71,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.3,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/double-fine-thank-you-bus-driver-xbox-release-date",
           "titre": "Double Fine's releasing its next game, Thank You Bus Driver, just months after splitting from Xbox"
-        }
-      ]
-    },
-    {
-      "id": "the-switch-2-console-is-currently-cheaper-than-ever-in-the-u",
-      "titre": "The Switch 2 Console Is Currently Cheaper Than Ever In The UK",
-      "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-console-is-currently-cheaper-than-ever-in-the-uk",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-console-is-currently-cheaper-than-ever-in-the-uk",
-          "titre": "The Switch 2 Console Is Currently Cheaper Than Ever In The UK"
         }
       ]
     },
@@ -185,13 +89,73 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 8,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support",
           "titre": "Report: Sony surveying developers about dropping PlayStation disc support"
+        }
+      ]
+    },
+    {
+      "id": "what-if-london-existed-in-the-grand-theft-auto-universe-one",
+      "titre": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city",
+      "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
+          "titre": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city"
+        }
+      ]
+    },
+    {
+      "id": "i-have-broken-gta-5-by-installing-so-many-mods-that-the-game",
+      "titre": "I have broken GTA 5 by installing so many mods that the game only launches in windowed mode now",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-broken-gta-5-by-installing-so-many-mods-that-the-game-only-launches-in-windowed-mode-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-broken-gta-5-by-installing-so-many-mods-that-the-game-only-launches-in-windowed-mode-now/",
+          "titre": "I have broken GTA 5 by installing so many mods that the game only launches in windowed mode now"
+        }
+      ]
+    },
+    {
+      "id": "cd-projekt-release-full-updated-witcher-3-wild-hunt-remaster",
+      "titre": "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements",
+      "url": "https://www.rockpapershotgun.com/cd-projekt-release-full-updated-witcher-3-wild-hunt-remastered-system-specs-including-ray-tracing-and-path-tracing-requirements",
+      "sources": [
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 6.2,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/cd-projekt-release-full-updated-witcher-3-wild-hunt-remastered-system-specs-including-ray-tracing-and-path-tracing-requirements",
+          "titre": "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/the-witcher-3-wild-hunt-remastered",
+          "titre": "Review in Progress: The Witcher 3: Wild Hunt Remastered (PS5) - How to Improve a Masterpiece"
         }
       ]
     },
@@ -204,7 +168,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 7,
       "liens": [
         {
@@ -228,7 +192,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 8.1,
+      "heures": 10.1,
       "chaleur": 7,
       "liens": [
         {
@@ -251,7 +215,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.9,
+      "heures": 31.9,
       "chaleur": 7,
       "liens": [
         {
@@ -496,6 +460,114 @@ const VEILLE = {
       ]
     },
     {
+      "id": "former-elder-scrolls-writer-kurt-kuhlmann-is-100-convinced-a",
+      "titre": "Former Elder Scrolls writer Kurt Kuhlmann is '100% convinced' a load-bearing bit of series lore was inspired by a typo",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/former-elder-scrolls-writer-kurt-kuhlmann-is-100-percent-convinced-a-load-bearing-bit-of-series-lore-was-inspired-by-a-typo/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/former-elder-scrolls-writer-kurt-kuhlmann-is-100-percent-convinced-a-load-bearing-bit-of-series-lore-was-inspired-by-a-typo/",
+          "titre": "Former Elder Scrolls writer Kurt Kuhlmann is '100% convinced' a load-bearing bit of series lore was inspired by a typo"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-dev-teases-new-mega-dungeon-to-get",
+      "titre": "World of Warcraft: Forever dev teases new 'mega dungeon' to get lost in for hours like the good ol' days",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-teases-new-mega-dungeon-to-get-lost-in-for-hours-like-the-good-ol-days/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-teases-new-mega-dungeon-to-get-lost-in-for-hours-like-the-good-ol-days/",
+          "titre": "World of Warcraft: Forever dev teases new 'mega dungeon' to get lost in for hours like the good ol' days"
+        }
+      ]
+    },
+    {
+      "id": "double-xp-tokens-finally-work-how-you-d-think-they-would-in",
+      "titre": "Double XP Tokens Finally Work How You'd Think They Would in Modern Warfare 4",
+      "url": "https://www.pushsquare.com/news/2026/09/double-xp-tokens-finally-work-how-youd-think-they-would-in-modern-warfare-4",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/double-xp-tokens-finally-work-how-youd-think-they-would-in-modern-warfare-4",
+          "titre": "Double XP Tokens Finally Work How You'd Think They Would in Modern Warfare 4"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-players-find-black-market-npc-who",
+      "titre": "World of Warcraft: Forever players find black market NPC who sells a 15-day movement speed buff and other rare items that nobody can afford yet",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-find-black-market-npc-who-sells-a-15-day-movement-speed-buff-and-other-rare-items-that-nobody-can-afford-yet/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-find-black-market-npc-who-sells-a-15-day-movement-speed-buff-and-other-rare-items-that-nobody-can-afford-yet/",
+          "titre": "World of Warcraft: Forever players find black market NPC who sells a 15-day movement speed buff and other rare items that nobody can afford yet"
+        }
+      ]
+    },
+    {
+      "id": "the-internet-is-ritualistically-murdering-discord-s-cartoon",
+      "titre": "The internet is ritualistically murdering Discord's cartoon mascot",
+      "url": "https://www.pcgamer.com/software/platforms/the-internet-is-ritualistically-murdering-discords-cartoon-mascot/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/platforms/the-internet-is-ritualistically-murdering-discords-cartoon-mascot/",
+          "titre": "The internet is ritualistically murdering Discord's cartoon mascot"
+        }
+      ]
+    },
+    {
+      "id": "a-fundamental-update-for-this-34-year-old-survival-game-is-c",
+      "titre": "A 'fundamental' update for this 34-year-old survival game is coming in October",
+      "url": "https://www.pcgamer.com/games/survival-crafting/a-fundamental-update-for-this-34-year-old-survival-game-is-coming-in-october/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/a-fundamental-update-for-this-34-year-old-survival-game-is-coming-in-october/",
+          "titre": "A 'fundamental' update for this 34-year-old survival game is coming in October"
+        }
+      ]
+    },
+    {
       "id": "the-last-of-us-day-marked-with-ps5-avatars-ghost-of-yotei-dl",
       "titre": "The Last of Us Day Marked with PS5 Avatars, Ghost of Yotei DLC, Figures",
       "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-marked-with-ps5-avatars-ghost-of-yotei-dlc-figures",
@@ -503,7 +575,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -514,146 +586,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "national-videogame-museum-launches-uk-wide-survey-on-game-pr",
-      "titre": "National Videogame Museum launches UK-wide survey on game preservation",
-      "url": "https://www.gamesindustry.biz/national-videogame-museum-launches-uk-wide-survey-on-game-preservation",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/national-videogame-museum-launches-uk-wide-survey-on-game-preservation",
-          "titre": "National Videogame Museum launches UK-wide survey on game preservation"
-        }
-      ]
-    },
-    {
-      "id": "it-s-a-nice-story-to-tell-how-dice-bounced-back-from-battle",
-      "titre": "\"It's a nice story to tell\": How DICE bounced back from Battlefield 2042's disastrous launch to release the blockbuster Battlefield 6",
-      "url": "https://www.gamesindustry.biz/its-a-nice-story-to-tell-how-dice-bounced-back-from-battlefield-2042s-disastrous-launch-to-release-the-blockbuster-battlefield-6",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/its-a-nice-story-to-tell-how-dice-bounced-back-from-battlefield-2042s-disastrous-launch-to-release-the-blockbuster-battlefield-6",
-          "titre": "\"It's a nice story to tell\": How DICE bounced back from Battlefield 2042's disastrous launch to release the blockbuster Battlefield 6"
-        }
-      ]
-    },
-    {
-      "id": "the-writer-of-the-witcher-3-s-best-quest-has-returned-to-cd",
-      "titre": "The writer of The Witcher 3's best quest has returned to CD Projekt after a decade away",
-      "url": "https://www.pcgamer.com/games/the-witcher/the-writer-of-the-witcher-3s-best-quest-has-returned-to-cd-projekt-after-a-decade-away/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/the-writer-of-the-witcher-3s-best-quest-has-returned-to-cd-projekt-after-a-decade-away/",
-          "titre": "The writer of The Witcher 3's best quest has returned to CD Projekt after a decade away"
-        }
-      ]
-    },
-    {
-      "id": "embark-should-ve-implemented-a-pve-mode-into-arc-raiders-a-l",
-      "titre": "Embark should've implemented a PvE mode into Arc Raiders a long time ago",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/embark-shouldve-implemented-a-pve-mode-into-arc-raiders-a-long-time-ago/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/embark-shouldve-implemented-a-pve-mode-into-arc-raiders-a-long-time-ago/",
-          "titre": "Embark should've implemented a PvE mode into Arc Raiders a long time ago"
-        }
-      ]
-    },
-    {
-      "id": "feature-okay-let-s-talk-about-the-new-resident-evil-movie",
-      "titre": "Feature: Okay, Let's Talk About The New Resident Evil Movie",
-      "url": "https://www.nintendolife.com/features/okay-lets-talk-about-the-new-resident-evil-movie",
+      "id": "the-switch-2-console-is-currently-cheaper-than-ever-in-the-u",
+      "titre": "The Switch 2 Console Is Currently Cheaper Than Ever In The UK",
+      "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-console-is-currently-cheaper-than-ever-in-the-uk",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.3,
+      "heures": 5.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/okay-lets-talk-about-the-new-resident-evil-movie",
-          "titre": "Feature: Okay, Let's Talk About The New Resident Evil Movie"
-        }
-      ]
-    },
-    {
-      "id": "sony-fighting-ps5-pro-scalpers-in-japan-with-60-hour-gamepla",
-      "titre": "Sony Fighting PS5 Pro Scalpers in Japan with 60 Hour Gameplay Requirement",
-      "url": "https://www.pushsquare.com/news/2026/09/sony-fighting-ps5-pro-scalpers-in-japan-with-60-hour-gameplay-requirement",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/sony-fighting-ps5-pro-scalpers-in-japan-with-60-hour-gameplay-requirement",
-          "titre": "Sony Fighting PS5 Pro Scalpers in Japan with 60 Hour Gameplay Requirement"
-        }
-      ]
-    },
-    {
-      "id": "ubisoft-s-calling-its-next-push-into-gen-ai-game-development",
-      "titre": "Ubisoft's calling its next push into gen-AI game development Motherbrain",
-      "url": "https://www.eurogamer.net/ubisoft-gen-ai-game-motherbrain-assassins-creed",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ubisoft-gen-ai-game-motherbrain-assassins-creed",
-          "titre": "Ubisoft's calling its next push into gen-AI game development Motherbrain"
-        }
-      ]
-    },
-    {
-      "id": "a-love-letter-to-the-guitar-hero-x-plorer-controller",
-      "titre": "A love letter to the Guitar Hero X-Plorer Controller",
-      "url": "https://www.pcgamer.com/hardware/controllers/a-love-letter-to-the-guitar-hero-x-plorer-controller/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/controllers/a-love-letter-to-the-guitar-hero-x-plorer-controller/",
-          "titre": "A love letter to the Guitar Hero X-Plorer Controller"
+          "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-console-is-currently-cheaper-than-ever-in-the-uk",
+          "titre": "The Switch 2 Console Is Currently Cheaper Than Ever In The UK"
         }
       ]
     },
@@ -665,7 +611,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 10.1,
       "chaleur": 6,
       "liens": [
         {
@@ -683,7 +629,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 6,
       "liens": [
         {
@@ -701,13 +647,37 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 10.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/playstation-controllers-may-have-built-in-credit-card-scanners-one-day",
           "titre": "PlayStation Controllers May Have Built-In Credit Card Scanners One Day"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-remastered-release-times-in-your-time-zone-and",
+      "titre": "The Witcher 3 Remastered release times in your time zone and update file size",
+      "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-release-times-in-your-time-zone-and-update-file-size/",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 12.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-release-times-in-your-time-zone-and-update-file-size/",
+          "titre": "The Witcher 3 Remastered release times in your time zone and update file size"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/psa-the-witcher-3-remastered-file-size-and-release-time-confirmed-separate-purchase-required",
+          "titre": "PSA: The Witcher 3 Remastered File Size And Release Time Confirmed, Separate Purchase Required"
         }
       ]
     },
@@ -719,8 +689,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 6,
+      "heures": 13.2,
+      "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -737,7 +707,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 32.3,
+      "heures": 34.3,
       "chaleur": 5,
       "liens": [
         {
@@ -748,20 +718,146 @@ const VEILLE = {
       ]
     },
     {
-      "id": "minecraft-still-gains-around-300-000-new-players-a-day-xbox",
-      "titre": "Minecraft still gains around 300,000 new players a day, Xbox boss reveals",
-      "url": "https://www.eurogamer.net/minecraft-300000-new-players-daily-minecraft",
+      "id": "national-videogame-museum-launches-uk-wide-survey-on-game-pr",
+      "titre": "National Videogame Museum launches UK-wide survey on game preservation",
+      "url": "https://www.gamesindustry.biz/national-videogame-museum-launches-uk-wide-survey-on-game-preservation",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/national-videogame-museum-launches-uk-wide-survey-on-game-preservation",
+          "titre": "National Videogame Museum launches UK-wide survey on game preservation"
+        }
+      ]
+    },
+    {
+      "id": "it-s-a-nice-story-to-tell-how-dice-bounced-back-from-battle",
+      "titre": "\"It's a nice story to tell\": How DICE bounced back from Battlefield 2042's disastrous launch to release the blockbuster Battlefield 6",
+      "url": "https://www.gamesindustry.biz/its-a-nice-story-to-tell-how-dice-bounced-back-from-battlefield-2042s-disastrous-launch-to-release-the-blockbuster-battlefield-6",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/its-a-nice-story-to-tell-how-dice-bounced-back-from-battlefield-2042s-disastrous-launch-to-release-the-blockbuster-battlefield-6",
+          "titre": "\"It's a nice story to tell\": How DICE bounced back from Battlefield 2042's disastrous launch to release the blockbuster Battlefield 6"
+        }
+      ]
+    },
+    {
+      "id": "the-writer-of-the-witcher-3-s-best-quest-has-returned-to-cd",
+      "titre": "The writer of The Witcher 3's best quest has returned to CD Projekt after a decade away",
+      "url": "https://www.pcgamer.com/games/the-witcher/the-writer-of-the-witcher-3s-best-quest-has-returned-to-cd-projekt-after-a-decade-away/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/the-writer-of-the-witcher-3s-best-quest-has-returned-to-cd-projekt-after-a-decade-away/",
+          "titre": "The writer of The Witcher 3's best quest has returned to CD Projekt after a decade away"
+        }
+      ]
+    },
+    {
+      "id": "embark-should-ve-implemented-a-pve-mode-into-arc-raiders-a-l",
+      "titre": "Embark should've implemented a PvE mode into Arc Raiders a long time ago",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/embark-shouldve-implemented-a-pve-mode-into-arc-raiders-a-long-time-ago/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/embark-shouldve-implemented-a-pve-mode-into-arc-raiders-a-long-time-ago/",
+          "titre": "Embark should've implemented a PvE mode into Arc Raiders a long time ago"
+        }
+      ]
+    },
+    {
+      "id": "feature-okay-let-s-talk-about-the-new-resident-evil-movie",
+      "titre": "Feature: Okay, Let's Talk About The New Resident Evil Movie",
+      "url": "https://www.nintendolife.com/features/okay-lets-talk-about-the-new-resident-evil-movie",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/okay-lets-talk-about-the-new-resident-evil-movie",
+          "titre": "Feature: Okay, Let's Talk About The New Resident Evil Movie"
+        }
+      ]
+    },
+    {
+      "id": "sony-fighting-ps5-pro-scalpers-in-japan-with-60-hour-gamepla",
+      "titre": "Sony Fighting PS5 Pro Scalpers in Japan with 60 Hour Gameplay Requirement",
+      "url": "https://www.pushsquare.com/news/2026/09/sony-fighting-ps5-pro-scalpers-in-japan-with-60-hour-gameplay-requirement",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/sony-fighting-ps5-pro-scalpers-in-japan-with-60-hour-gameplay-requirement",
+          "titre": "Sony Fighting PS5 Pro Scalpers in Japan with 60 Hour Gameplay Requirement"
+        }
+      ]
+    },
+    {
+      "id": "ubisoft-s-calling-its-next-push-into-gen-ai-game-development",
+      "titre": "Ubisoft's calling its next push into gen-AI game development Motherbrain",
+      "url": "https://www.eurogamer.net/ubisoft-gen-ai-game-motherbrain-assassins-creed",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 34.8,
-      "chaleur": 5,
+      "heures": 5.4,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/minecraft-300000-new-players-daily-minecraft",
-          "titre": "Minecraft still gains around 300,000 new players a day, Xbox boss reveals"
+          "url": "https://www.eurogamer.net/ubisoft-gen-ai-game-motherbrain-assassins-creed",
+          "titre": "Ubisoft's calling its next push into gen-AI game development Motherbrain"
+        }
+      ]
+    },
+    {
+      "id": "a-love-letter-to-the-guitar-hero-x-plorer-controller",
+      "titre": "A love letter to the Guitar Hero X-Plorer Controller",
+      "url": "https://www.pcgamer.com/hardware/controllers/a-love-letter-to-the-guitar-hero-x-plorer-controller/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/controllers/a-love-letter-to-the-guitar-hero-x-plorer-controller/",
+          "titre": "A love letter to the Guitar Hero X-Plorer Controller"
         }
       ]
     },
@@ -773,7 +869,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -791,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -809,7 +905,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -827,7 +923,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +941,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -863,7 +959,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +977,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +995,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +1013,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +1031,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +1049,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +1067,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -989,31 +1085,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/wolverine-japanese-ps5-sales-down-massively-compared-to-spider-man",
           "titre": "Wolverine Japanese PS5 Sales Down Massively Compared to Spider-Man"
-        }
-      ]
-    },
-    {
-      "id": "here-is-your-world-first-comparison-between-original-and-rem",
-      "titre": "Here is your world-first comparison between original and remastered Tub Geralt in The Witcher 3",
-      "url": "https://www.pcgamer.com/games/the-witcher/here-is-your-world-first-comparison-between-original-and-remastered-tub-geralt-in-the-witcher-3/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/here-is-your-world-first-comparison-between-original-and-remastered-tub-geralt-in-the-witcher-3/",
-          "titre": "Here is your world-first comparison between original and remastered Tub Geralt in The Witcher 3"
         }
       ]
     },
@@ -1025,103 +1103,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/the-witcher-3-songs-of-the-past-expansion-five-tracks-ost",
           "titre": "If you want an early taste of The Witcher 3's Songs of the Past expansion, you can listen to five tracks from the OST right now"
-        }
-      ]
-    },
-    {
-      "id": "3-warhammer-40-000-sickos-share-their-strongest-held-beliefs",
-      "titre": "3 Warhammer 40,000 sickos share their strongest held beliefs—and you can vote on them",
-      "url": "https://www.pcgamer.com/games/strategy/3-warhammer-40-000-sickos-share-their-strongest-held-beliefs-and-you-can-vote-on-them/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/3-warhammer-40-000-sickos-share-their-strongest-held-beliefs-and-you-can-vote-on-them/",
-          "titre": "3 Warhammer 40,000 sickos share their strongest held beliefs—and you can vote on them"
-        }
-      ]
-    },
-    {
-      "id": "blizzard-gifts-diablo-4-players-one-of-the-game-s-rarest-cra",
-      "titre": "Blizzard gifts Diablo 4 players one of the game's rarest crafting materials to apologise for Season 15 issues",
-      "url": "https://www.eurogamer.net/diablo-4-free-gift-season-of-hells-legacy-server-issues",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/diablo-4-free-gift-season-of-hells-legacy-server-issues",
-          "titre": "Blizzard gifts Diablo 4 players one of the game's rarest crafting materials to apologise for Season 15 issues"
-        }
-      ]
-    },
-    {
-      "id": "we-didn-t-want-to-demonise-fetish-or-bdsm-people-aren-t-dyi",
-      "titre": "\"We didn't want to demonise fetish or BDSM\": People aren't dying in horror game Clive Barker's Hellraiser: Revival because of what they do in the bedroom",
-      "url": "https://www.rockpapershotgun.com/we-didnt-want-to-demonise-fetish-or-bdsm-people-arent-dying-in-horror-game-clive-barkers-hellraiser-revival-because-of-what-they-do-in-the-bedroom",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 7.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/we-didnt-want-to-demonise-fetish-or-bdsm-people-arent-dying-in-horror-game-clive-barkers-hellraiser-revival-because-of-what-they-do-in-the-bedroom",
-          "titre": "\"We didn't want to demonise fetish or BDSM\": People aren't dying in horror game Clive Barker's Hellraiser: Revival because of what they do in the bedroom"
-        }
-      ]
-    },
-    {
-      "id": "call-of-duty-warzone-will-soon-make-it-possible-to-toggle-al",
-      "titre": "Call of Duty: Warzone will soon make it possible to toggle all those silly skins off, something no one thought could ever happen",
-      "url": "https://www.eurogamer.net/call-of-duty-warzone-skin-toggle-modern-warfare-4",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 8.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/call-of-duty-warzone-skin-toggle-modern-warfare-4",
-          "titre": "Call of Duty: Warzone will soon make it possible to toggle all those silly skins off, something no one thought could ever happen"
-        }
-      ]
-    },
-    {
-      "id": "tour-dates-and-pre-order-times-officially-confirmed-for-cast",
-      "titre": "Tour dates and pre-order times officially confirmed for Castlevania 40th Anniversary concert",
-      "url": "https://www.videogameschronicle.com/news/tour-dates-and-pre-order-times-officially-confirmed-for-castlevania-40th-anniversary-concert/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/tour-dates-and-pre-order-times-officially-confirmed-for-castlevania-40th-anniversary-concert/",
-          "titre": "Tour dates and pre-order times officially confirmed for Castlevania 40th Anniversary concert"
         }
       ]
     }
