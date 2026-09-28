@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "28/09/2026 à 00h29",
+  "collecte": "28/09/2026 à 02h21",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 13.2,
+      "heures": 15.0,
       "chaleur": 12,
       "liens": [
         {
@@ -47,7 +47,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.1,
       "chaleur": 11,
       "liens": [
         {
@@ -66,7 +66,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 10.1,
+      "heures": 11.9,
       "chaleur": 11,
       "liens": [
         {
@@ -82,6 +82,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "industry-insiders-and-tokyo-gossip-suggest-kojima-is-getting",
+      "titre": "Industry insiders and Tokyo gossip suggest Kojima is getting less money from Xbox than original PlayStation budget for Physint",
+      "url": "https://www.pcgamer.com/games/industry-insiders-and-tokyo-gossip-suggest-kojima-is-getting-less-money-from-xbox-than-original-playstation-budget-for-physint/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/industry-insiders-and-tokyo-gossip-suggest-kojima-is-getting-less-money-from-xbox-than-original-playstation-budget-for-physint/",
+          "titre": "Industry insiders and Tokyo gossip suggest Kojima is getting less money from Xbox than original PlayStation budget for Physint"
+        }
+      ]
+    },
+    {
+      "id": "steam-week-in-review-great-haystack-slop-is-a-thing-now",
+      "titre": "Steam Week in Review: Great, haystack slop is a thing now",
+      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-great-haystack-slop-is-a-thing-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-great-haystack-slop-is-a-thing-now/",
+          "titre": "Steam Week in Review: Great, haystack slop is a thing now"
+        }
+      ]
+    },
+    {
       "id": "microsoft-ceo-says-xbox-s-streamlining-is-great-to-see-despi",
       "titre": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs",
       "url": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
@@ -89,31 +125,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.2,
+      "heures": 31.1,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
           "titre": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs"
-        }
-      ]
-    },
-    {
-      "id": "the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemin",
-      "titre": "The spiritual successor to classic JRPG Wild Arms has seemingly been cancelled, four years after its Kickstarter raised nearly $3 million",
-      "url": "https://www.pcgamer.com/games/rpg/the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemingly-been-cancelled-four-years-after-its-kickstarter-raised-nearly-usd3-million/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemingly-been-cancelled-four-years-after-its-kickstarter-raised-nearly-usd3-million/",
-          "titre": "The spiritual successor to classic JRPG Wild Arms has seemingly been cancelled, four years after its Kickstarter raised nearly $3 million"
         }
       ]
     },
@@ -352,6 +370,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "the-witcher-3-remastered-a-45gb-ps5-patch-release-times-reve",
+      "titre": "The Witcher 3 Remastered a 45GB PS5 Patch, Release Times Revealed",
+      "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-a-45gb-ps5-patch-release-times-revealed",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-a-45gb-ps5-patch-release-times-revealed",
+          "titre": "The Witcher 3 Remastered a 45GB PS5 Patch, Release Times Revealed"
+        }
+      ]
+    },
+    {
       "id": "former-dragon-age-executive-producer-mark-darrah-explains-wh",
       "titre": "Former Dragon Age executive producer Mark Darrah explains what he'd change about each game: 'It's kind of filler'",
       "url": "https://www.pcgamer.com/games/dragon-age/former-dragon-age-executive-producer-mark-darrah-explains-what-hed-change-about-each-game-its-kind-of-filler/",
@@ -359,7 +395,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
@@ -377,13 +413,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/sonys-hearing-a-lot-of-the-feedback-from-customers-nis-america-boss-weighs-in-on-ps5-disc-debate",
           "titre": "'Sony's Hearing a Lot of the Feedback from Customers': NIS America Boss Weighs in on PS5 Disc Debate"
+        }
+      ]
+    },
+    {
+      "id": "the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemin",
+      "titre": "The spiritual successor to classic JRPG Wild Arms has seemingly been cancelled, four years after its Kickstarter raised nearly $3 million",
+      "url": "https://www.pcgamer.com/games/rpg/the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemingly-been-cancelled-four-years-after-its-kickstarter-raised-nearly-usd3-million/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 13.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemingly-been-cancelled-four-years-after-its-kickstarter-raised-nearly-usd3-million/",
+          "titre": "The spiritual successor to classic JRPG Wild Arms has seemingly been cancelled, four years after its Kickstarter raised nearly $3 million"
         }
       ]
     },
@@ -395,7 +449,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.4,
       "chaleur": 5,
       "liens": [
         {
@@ -413,7 +467,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 16.8,
       "chaleur": 5,
       "liens": [
         {
@@ -431,7 +485,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 18.5,
       "chaleur": 5,
       "liens": [
         {
@@ -449,7 +503,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.8,
+      "heures": 23.6,
       "chaleur": 5,
       "liens": [
         {
@@ -467,7 +521,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.5,
+      "heures": 33.4,
       "chaleur": 5,
       "liens": [
         {
@@ -485,7 +539,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -503,7 +557,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -521,7 +575,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -539,7 +593,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -557,7 +611,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -575,7 +629,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -593,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -611,7 +665,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -629,8 +683,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -647,7 +701,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -665,7 +719,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -683,7 +737,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -701,7 +755,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.4,
       "chaleur": 3,
       "liens": [
         {
@@ -719,7 +773,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 25.4,
       "chaleur": 3,
       "liens": [
         {
@@ -737,7 +791,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.8,
+      "heures": 25.6,
       "chaleur": 3,
       "liens": [
         {
@@ -755,31 +809,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.6,
+      "heures": 28.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/talon-towers-is-a-fumito-ueda-coded-parkour-platformer-about-hopping-around-massive-structures-while-avoiding-falling-to-your-foggy-doom",
           "titre": "TALON TOWERS is a Fumito Ueda-coded parkour platformer about hopping around massive structures while avoiding falling to your foggy doom"
-        }
-      ]
-    },
-    {
-      "id": "former-elder-scrolls-designer-kurt-kuhlmann-on-fallout-new-v",
-      "titre": "Former Elder Scrolls designer Kurt Kuhlmann on Fallout: New Vegas diehards: 'I don't know that Todd wanted to create that situation again for The Elder Scrolls'",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/former-elder-scrolls-designer-kurt-kuhlmann-on-fallout-new-vegas-diehards-i-dont-know-that-todd-wanted-to-create-that-situation-again-for-the-elder-scrolls/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 26.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-elder-scrolls/former-elder-scrolls-designer-kurt-kuhlmann-on-fallout-new-vegas-diehards-i-dont-know-that-todd-wanted-to-create-that-situation-again-for-the-elder-scrolls/",
-          "titre": "Former Elder Scrolls designer Kurt Kuhlmann on Fallout: New Vegas diehards: 'I don't know that Todd wanted to create that situation again for The Elder Scrolls'"
         }
       ]
     },
@@ -791,7 +827,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.0,
+      "heures": 29.9,
       "chaleur": 3,
       "liens": [
         {
@@ -809,7 +845,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.5,
+      "heures": 31.4,
       "chaleur": 3,
       "liens": [
         {
@@ -827,7 +863,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.7,
+      "heures": 31.6,
       "chaleur": 3,
       "liens": [
         {
@@ -845,7 +881,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 30.5,
+      "heures": 32.4,
       "chaleur": 3,
       "liens": [
         {
@@ -863,31 +899,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 30.6,
+      "heures": 32.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/video-game-menu-the-game-is-all-about-everyones-favourite-gaming-pastime-pressing-random-buttons-in-the-menus-and-seeing-what-they-change",
           "titre": "Video Game Menu: The Game is all about everyone's favourite gaming pastime: pressing random buttons in the menus and seeing what they change"
-        }
-      ]
-    },
-    {
-      "id": "i-saw-the-future-and-it-literally-stinks",
-      "titre": "I saw the future and it literally stinks",
-      "url": "https://www.pcgamer.com/hardware/i-saw-the-future-and-it-literally-stinks/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 31.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/i-saw-the-future-and-it-literally-stinks/",
-          "titre": "I saw the future and it literally stinks"
         }
       ]
     },
@@ -899,7 +917,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 31.5,
+      "heures": 33.4,
       "chaleur": 3,
       "liens": [
         {
@@ -917,7 +935,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 32.2,
+      "heures": 34.1,
       "chaleur": 3,
       "liens": [
         {
@@ -935,7 +953,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 32.5,
+      "heures": 34.4,
       "chaleur": 3,
       "liens": [
         {
@@ -953,31 +971,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.0,
+      "heures": 34.9,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/castlevania-40th-anniversary-free-original-game-belmonts-curse",
           "titre": "Castlevania celebrates turning 40 by giving away the original game for free"
-        }
-      ]
-    },
-    {
-      "id": "interview-we-re-not-making-a-party-game-now-it-s-more-of-an",
-      "titre": "Interview: \"We're Not Making A Party Game Now, It's More Of An Evening Thing\" - Ghost Town Is Moving On From Overcooked",
-      "url": "https://www.nintendolife.com/features/interview-were-not-making-a-party-game-now-its-more-of-an-evening-thing-ghost-town-is-moving-on-from-overcooked",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 34.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/interview-were-not-making-a-party-game-now-its-more-of-an-evening-thing-ghost-town-is-moving-on-from-overcooked",
-          "titre": "Interview: \"We're Not Making A Party Game Now, It's More Of An Evening Thing\" - Ghost Town Is Moving On From Overcooked"
         }
       ]
     }
