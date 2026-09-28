@@ -1,8 +1,38 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "28/09/2026 à 08h25",
+  "collecte": "28/09/2026 à 10h23",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "the-witcher-3-remastered-release-times-in-your-time-zone-and",
+      "titre": "The Witcher 3 Remastered release times in your time zone and update file size",
+      "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-release-times-in-your-time-zone-and-update-file-size/",
+      "sources": [
+        "Nintendo Life",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 0.1,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-release-times-in-your-time-zone-and-update-file-size/",
+          "titre": "The Witcher 3 Remastered release times in your time zone and update file size"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/psa-the-witcher-3-remastered-file-size-and-release-time-confirmed-separate-purchase-required",
+          "titre": "PSA: The Witcher 3 Remastered File Size And Release Time Confirmed, Separate Purchase Required"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-a-45gb-ps5-patch-release-times-revealed",
+          "titre": "The Witcher 3 Remastered a 45GB PS5 Patch, Release Times Revealed"
+        }
+      ]
+    },
     {
       "id": "minecraft-is-getting-its-first-new-dimension-in-14-years-and",
       "titre": "Minecraft is getting its first new dimension in 14 years, and it's called The Sift",
@@ -14,7 +44,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 21.1,
+      "heures": 23.1,
       "chaleur": 12,
       "liens": [
         {
@@ -47,7 +77,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.2,
       "chaleur": 10,
       "liens": [
         {
@@ -58,26 +88,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "psa-the-witcher-3-remastered-file-size-and-release-time-conf",
-      "titre": "PSA: The Witcher 3 Remastered File Size And Release Time Confirmed, Separate Purchase Required",
-      "url": "https://www.nintendolife.com/news/2026/09/psa-the-witcher-3-remastered-file-size-and-release-time-confirmed-separate-purchase-required",
+      "id": "microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-b",
+      "titre": "Microsoft boss Nadella says Xbox has to invent \"sustainable business model\"",
+      "url": "https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model",
       "sources": [
-        "Nintendo Life",
-        "Push Square"
+        "GamesIndustry.biz"
       ],
-      "reprises": 2,
-      "heures": 0.4,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/psa-the-witcher-3-remastered-file-size-and-release-time-confirmed-separate-purchase-required",
-          "titre": "PSA: The Witcher 3 Remastered File Size And Release Time Confirmed, Separate Purchase Required"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-a-45gb-ps5-patch-release-times-revealed",
-          "titre": "The Witcher 3 Remastered a 45GB PS5 Patch, Release Times Revealed"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model",
+          "titre": "Microsoft boss Nadella says Xbox has to invent \"sustainable business model\""
         }
       ]
     },
@@ -89,7 +113,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.1,
       "chaleur": 7,
       "liens": [
         {
@@ -107,7 +131,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.0,
+      "heures": 20.0,
       "chaleur": 7,
       "liens": [
         {
@@ -352,6 +376,96 @@ const VEILLE = {
       ]
     },
     {
+      "id": "disgaea-creator-says-he-sees-ai-s-benefit-as-a-tool-but-has",
+      "titre": "Disgaea creator says he sees AI’s benefit as a tool but has ‘absolutely no interest’ in using it to write stories",
+      "url": "https://www.videogameschronicle.com/news/disgaea-creator-says-he-sees-ais-benefit-as-a-tool-but-has-absolutely-no-interest-in-using-it-to-write-stories/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/disgaea-creator-says-he-sees-ais-benefit-as-a-tool-but-has-absolutely-no-interest-in-using-it-to-write-stories/",
+          "titre": "Disgaea creator says he sees AI’s benefit as a tool but has ‘absolutely no interest’ in using it to write stories"
+        }
+      ]
+    },
+    {
+      "id": "we-clearly-handled-that-responsibility-poorly-paradox-ban-d",
+      "titre": "\"We clearly handled that responsibility poorly\": Paradox ban Discord profile pics of historical figures born after 1800, after bust-up with Hearts of Iron 4 players over Atatürk banning",
+      "url": "https://www.rockpapershotgun.com/we-clearly-handled-that-responsibility-poorly-paradox-ban-discord-profile-pics-of-historical-figures-born-after-1800-after-bust-up-with-hearts-of-iron-4-players-over-ataturk-banning",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/we-clearly-handled-that-responsibility-poorly-paradox-ban-discord-profile-pics-of-historical-figures-born-after-1800-after-bust-up-with-hearts-of-iron-4-players-over-ataturk-banning",
+          "titre": "\"We clearly handled that responsibility poorly\": Paradox ban Discord profile pics of historical figures born after 1800, after bust-up with Hearts of Iron 4 players over Atatürk banning"
+        }
+      ]
+    },
+    {
+      "id": "video-game-release-dates-2026-new-games-coming-in-october-no",
+      "titre": "Video Game Release Dates 2026: New Games Coming in October, November & December",
+      "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/",
+          "titre": "Video Game Release Dates 2026: New Games Coming in October, November & December"
+        }
+      ]
+    },
+    {
+      "id": "uk-charts-fire-emblem-fortune-s-weave-drops-to-number-8-as-f",
+      "titre": "UK Charts: Fire Emblem: Fortune's Weave Drops To Number 8 As FC 27 Tops The Podium",
+      "url": "https://www.nintendolife.com/news/2026/09/uk-charts-fire-emblem-fortunes-weave-drops-to-number-8-as-fc-27-tops-the-podium",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/uk-charts-fire-emblem-fortunes-weave-drops-to-number-8-as-fc-27-tops-the-podium",
+          "titre": "UK Charts: Fire Emblem: Fortune's Weave Drops To Number 8 As FC 27 Tops The Podium"
+        }
+      ]
+    },
+    {
+      "id": "as-world-of-warcraft-forever-s-beta-popularity-grows-blizzar",
+      "titre": "As World of Warcraft: Forever's beta popularity grows, Blizzard has yet again had to increase the server cap",
+      "url": "https://www.eurogamer.net/world-of-warcraft-forever-beta-server-cap-increase",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/world-of-warcraft-forever-beta-server-cap-increase",
+          "titre": "As World of Warcraft: Forever's beta popularity grows, Blizzard has yet again had to increase the server cap"
+        }
+      ]
+    },
+    {
       "id": "marvel-s-wolverine-finally-lets-you-turn-off-fart-gas-scent",
       "titre": "Marvel's Wolverine finally lets you turn off \"fart gas\" scent trails completely, but there's a catch",
       "url": "https://www.eurogamer.net/marvels-wolverine-patch-turn-off-scent-trails",
@@ -359,7 +473,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -377,7 +491,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.4,
       "chaleur": 6,
       "liens": [
         {
@@ -395,7 +509,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 21.8,
       "chaleur": 6,
       "liens": [
         {
@@ -413,7 +527,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.4,
       "chaleur": 5,
       "liens": [
         {
@@ -431,7 +545,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.9,
+      "heures": 24.9,
       "chaleur": 5,
       "liens": [
         {
@@ -449,7 +563,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 24.5,
+      "heures": 26.5,
       "chaleur": 5,
       "liens": [
         {
@@ -467,7 +581,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 29.7,
+      "heures": 31.7,
       "chaleur": 5,
       "liens": [
         {
@@ -485,7 +599,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -503,7 +617,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -521,7 +635,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -539,7 +653,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 16.1,
       "chaleur": 3,
       "liens": [
         {
@@ -557,7 +671,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -575,7 +689,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 17.7,
       "chaleur": 3,
       "liens": [
         {
@@ -593,7 +707,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -611,7 +725,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 19.0,
       "chaleur": 3,
       "liens": [
         {
@@ -629,7 +743,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -647,7 +761,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -665,7 +779,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.7,
+      "heures": 20.7,
       "chaleur": 3,
       "liens": [
         {
@@ -683,7 +797,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.4,
       "chaleur": 3,
       "liens": [
         {
@@ -701,7 +815,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.5,
       "chaleur": 3,
       "liens": [
         {
@@ -719,31 +833,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/box-art-brawl-duel-dragon-quest-ii-nes",
           "titre": "Feature: Box Art Brawl - Duel: Dragon Quest II (NES)"
-        }
-      ]
-    },
-    {
-      "id": "poll-so-how-many-hours-have-you-spent-in-fire-emblem-fortune",
-      "titre": "Poll: So, How Many Hours Have You Spent In Fire Emblem: Fortune's Weave?",
-      "url": "https://www.nintendolife.com/news/2026/09/poll-so-how-many-hours-have-you-spent-in-fire-emblem-fortunes-weave",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 29.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/poll-so-how-many-hours-have-you-spent-in-fire-emblem-fortunes-weave",
-          "titre": "Poll: So, How Many Hours Have You Spent In Fire Emblem: Fortune's Weave?"
         }
       ]
     },
@@ -755,7 +851,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.4,
+      "heures": 33.4,
       "chaleur": 3,
       "liens": [
         {
@@ -773,49 +869,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 31.7,
+      "heures": 33.7,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/strategy/between-70-and-80-percent-of-blood-bowl-3-games-were-solo/",
           "titre": "Between 70 and 80% of Blood Bowl 3 games were solo"
-        }
-      ]
-    },
-    {
-      "id": "talon-towers-is-a-fumito-ueda-coded-parkour-platformer-about",
-      "titre": "TALON TOWERS is a Fumito Ueda-coded parkour platformer about hopping around massive structures while avoiding falling to your foggy doom",
-      "url": "https://www.rockpapershotgun.com/talon-towers-is-a-fumito-ueda-coded-parkour-platformer-about-hopping-around-massive-structures-while-avoiding-falling-to-your-foggy-doom",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 34.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/talon-towers-is-a-fumito-ueda-coded-parkour-platformer-about-hopping-around-massive-structures-while-avoiding-falling-to-your-foggy-doom",
-          "titre": "TALON TOWERS is a Fumito Ueda-coded parkour platformer about hopping around massive structures while avoiding falling to your foggy doom"
-        }
-      ]
-    },
-    {
-      "id": "suplex-and-shatter-glass-enemies-after-being-in-prison-for-c",
-      "titre": "Suplex and shatter glass enemies after being in prison for committing a cardinal crime in the psychological horror beat 'em up Brokensides",
-      "url": "https://www.rockpapershotgun.com/suplex-and-shatter-glass-enemies-after-being-in-prison-for-committing-a-cardinal-crime-in-the-psychological-horror-beat-em-up-brokensides",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 36.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/suplex-and-shatter-glass-enemies-after-being-in-prison-for-committing-a-cardinal-crime-in-the-psychological-horror-beat-em-up-brokensides",
-          "titre": "Suplex and shatter glass enemies after being in prison for committing a cardinal crime in the psychological horror beat 'em up Brokensides"
         }
       ]
     }
