@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "28/09/2026 à 18h24",
+  "collecte": "28/09/2026 à 20h19",
   "seuil": 14,
   "sujets": [
     {
@@ -15,8 +15,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 5,
-      "heures": 2.2,
-      "chaleur": 20,
+      "heures": 4.2,
+      "chaleur": 16,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -34,32 +34,56 @@ const VEILLE = {
           "titre": "Here's The Witcher 3 Remastered release time for your region"
         },
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/video-the-witcher-3-remastered-side-by-side-comparison-switch-vs-switch-2",
-          "titre": "Video: The Witcher 3 Remastered Side-By-Side Comparison, Switch Vs. Switch 2"
-        },
-        {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-release-times-in-your-time-zone-and-update-file-size/",
           "titre": "The Witcher 3 Remastered release times in your time zone and update file size"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/psa-the-witcher-3-remastered-file-size-and-release-time-confirmed-separate-purchase-required",
+          "titre": "PSA: The Witcher 3 Remastered File Size And Release Time Confirmed, Separate Purchase Required"
         }
       ]
     },
     {
-      "id": "report-sony-surveying-developers-about-dropping-playstation",
-      "titre": "Report: Sony surveying developers about dropping PlayStation disc support",
-      "url": "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support",
+      "id": "cd-projekt-lays-out-why-you-should-play-the-witcher-3-remast",
+      "titre": "CD Projekt lays out why you should play The Witcher 3 Remastered",
+      "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-lays-out-why-you-should-play-the-witcher-3-remastered/",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 0.8,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-lays-out-why-you-should-play-the-witcher-3-remastered/",
+          "titre": "CD Projekt lays out why you should play The Witcher 3 Remastered"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/video-the-witcher-3-remastered-side-by-side-comparison-switch-vs-switch-2",
+          "titre": "Video: The Witcher 3 Remastered Side-By-Side Comparison, Switch Vs. Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "trophy-games-makes-largest-acquisition-to-date-with-2-6-mill",
+      "titre": "Trophy Games makes largest acquisition to date with $2.6 million Playrion deal",
+      "url": "https://www.gamesindustry.biz/trophy-games-makes-largest-acquisition-to-date-with-26-million-playrion-deal",
       "sources": [
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 10,
+      "heures": 0.1,
+      "chaleur": 9,
       "liens": [
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support",
-          "titre": "Report: Sony surveying developers about dropping PlayStation disc support"
+          "url": "https://www.gamesindustry.biz/trophy-games-makes-largest-acquisition-to-date-with-26-million-playrion-deal",
+          "titre": "Trophy Games makes largest acquisition to date with $2.6 million Playrion deal"
         }
       ]
     },
@@ -71,7 +95,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.4,
       "chaleur": 9,
       "liens": [
         {
@@ -89,13 +113,85 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.5,
       "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-broken-gta-5-by-installing-so-many-mods-that-the-game-only-launches-in-windowed-mode-now/",
           "titre": "I have broken GTA 5 by installing so many mods that the game only launches in windowed mode now"
+        }
+      ]
+    },
+    {
+      "id": "steam-s-tidying-game-trend-is-about-to-get-the-haunted-meat",
+      "titre": "Steam's tidying game trend is about to get the haunted meat it's been missing",
+      "url": "https://www.pcgamer.com/games/sim/steams-tidying-game-trend-is-about-to-get-the-haunted-meat-its-been-missing/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/steams-tidying-game-trend-is-about-to-get-the-haunted-meat-its-been-missing/",
+          "titre": "Steam's tidying game trend is about to get the haunted meat it's been missing"
+        }
+      ]
+    },
+    {
+      "id": "double-fine-s-releasing-its-next-game-thank-you-bus-driver-j",
+      "titre": "Double Fine's releasing its next game, Thank You Bus Driver, just months after splitting from Xbox",
+      "url": "https://www.eurogamer.net/double-fine-thank-you-bus-driver-xbox-release-date",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/double-fine-thank-you-bus-driver-xbox-release-date",
+          "titre": "Double Fine's releasing its next game, Thank You Bus Driver, just months after splitting from Xbox"
+        }
+      ]
+    },
+    {
+      "id": "the-switch-2-console-is-currently-cheaper-than-ever-in-the-u",
+      "titre": "The Switch 2 Console Is Currently Cheaper Than Ever In The UK",
+      "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-console-is-currently-cheaper-than-ever-in-the-uk",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.7,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-console-is-currently-cheaper-than-ever-in-the-uk",
+          "titre": "The Switch 2 Console Is Currently Cheaper Than Ever In The UK"
+        }
+      ]
+    },
+    {
+      "id": "report-sony-surveying-developers-about-dropping-playstation",
+      "titre": "Report: Sony surveying developers about dropping PlayStation disc support",
+      "url": "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support",
+          "titre": "Report: Sony surveying developers about dropping PlayStation disc support"
         }
       ]
     },
@@ -108,8 +204,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 2.7,
-      "chaleur": 9,
+      "heures": 4.6,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -124,24 +220,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-switch-2-console-is-currently-cheaper-than-ever-in-the-u",
-      "titre": "The Switch 2 Console Is Currently Cheaper Than Ever In The UK",
-      "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-console-is-currently-cheaper-than-ever-in-the-uk",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.8,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-console-is-currently-cheaper-than-ever-in-the-uk",
-          "titre": "The Switch 2 Console Is Currently Cheaper Than Ever In The UK"
-        }
-      ]
-    },
-    {
       "id": "god-of-war-laufey-ps5-editions-revealed-pre-order-tomorrow",
       "titre": "God of War Laufey PS5 Editions Revealed, Pre-Order Tomorrow",
       "url": "https://www.pushsquare.com/news/2026/09/god-of-war-laufey-ps5-editions-revealed-pre-order-tomorrow",
@@ -150,7 +228,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 6.2,
+      "heures": 8.1,
       "chaleur": 7,
       "liens": [
         {
@@ -166,30 +244,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-m-sure-whoever-chose-to-charge-for-wow-forever-beta-access",
-      "titre": "I'm sure whoever chose to charge for WoW: Forever beta access is feeling very chuffed, given Blizzard's had to expand its server size a second time",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/im-sure-whoever-chose-to-charge-for-wow-forever-beta-access-is-feeling-very-chuffed-given-blizzards-had-to-expand-its-server-size-a-second-time/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 7.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/im-sure-whoever-chose-to-charge-for-wow-forever-beta-access-is-feeling-very-chuffed-given-blizzards-had-to-expand-its-server-size-a-second-time/",
-          "titre": "I'm sure whoever chose to charge for WoW: Forever beta access is feeling very chuffed, given Blizzard's had to expand its server size a second time"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/world-of-warcraft-forever-beta-server-cap-increase",
-          "titre": "As World of Warcraft: Forever's beta popularity grows, Blizzard has yet again had to increase the server cap"
-        }
-      ]
-    },
-    {
       "id": "xbox-is-reportedly-paying-a-fraction-of-the-400-million-koji",
       "titre": "Xbox is reportedly paying a \"fraction\" of the $400 million Kojima quoted Sony for Physint",
       "url": "https://www.eurogamer.net/xbox-kojima-physint-budget-fraction-400-million",
@@ -197,7 +251,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.0,
+      "heures": 29.9,
       "chaleur": 7,
       "liens": [
         {
@@ -449,7 +503,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 1.8,
       "chaleur": 6,
       "liens": [
         {
@@ -467,7 +521,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
@@ -485,7 +539,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -503,7 +557,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -521,7 +575,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -539,7 +593,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -557,7 +611,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -575,7 +629,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -593,193 +647,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/controllers/a-love-letter-to-the-guitar-hero-x-plorer-controller/",
           "titre": "A love letter to the Guitar Hero X-Plorer Controller"
-        }
-      ]
-    },
-    {
-      "id": "season-3-of-the-last-of-us-tv-show-will-add-john-goodman-lau",
-      "titre": "Season 3 of The Last of Us TV show will add John Goodman, Laura Bailey and Ian Alexander to the cast",
-      "url": "https://www.videogameschronicle.com/news/season-3-of-the-last-of-us-tv-show-will-add-john-goodman-laura-bailey-and-ian-alexander-to-the-cast/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/season-3-of-the-last-of-us-tv-show-will-add-john-goodman-laura-bailey-and-ian-alexander-to-the-cast/",
-          "titre": "Season 3 of The Last of Us TV show will add John Goodman, Laura Bailey and Ian Alexander to the cast"
-        }
-      ]
-    },
-    {
-      "id": "october-prime-day-gaming-keyboard-deals",
-      "titre": "October Prime Day gaming keyboard deals",
-      "url": "https://www.pcgamer.com/hardware/gaming-keyboards/best-prime-day-gaming-keyboard-deals/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-keyboards/best-prime-day-gaming-keyboard-deals/",
-          "titre": "October Prime Day gaming keyboard deals"
-        }
-      ]
-    },
-    {
-      "id": "wolverine-breaks-ps5-s-live-service-stranglehold-in-the-us",
-      "titre": "Wolverine Breaks PS5's Live Service Stranglehold in the US",
-      "url": "https://www.pushsquare.com/news/2026/09/wolverine-breaks-ps5s-live-service-stranglehold-in-the-us",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/wolverine-breaks-ps5s-live-service-stranglehold-in-the-us",
-          "titre": "Wolverine Breaks PS5's Live Service Stranglehold in the US"
-        }
-      ]
-    },
-    {
-      "id": "here-s-a-gallery-of-the-times-the-witcher-3-s-remastered-lig",
-      "titre": "Here's a gallery of the times The Witcher 3's remastered lighting had me like, 'Damn'",
-      "url": "https://www.pcgamer.com/games/the-witcher/heres-a-gallery-of-the-times-the-witcher-3s-remastered-lighting-had-me-like-damn/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/heres-a-gallery-of-the-times-the-witcher-3s-remastered-lighting-had-me-like-damn/",
-          "titre": "Here's a gallery of the times The Witcher 3's remastered lighting had me like, 'Damn'"
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-remastered-is-an-extraordinarily-generous-upgr",
-      "titre": "The Witcher 3 Remastered is an extraordinarily generous upgrade that doesn't change the game, but does make it new again",
-      "url": "https://www.eurogamer.net/witcher-3-wild-hunt-remastered-generous-upgrade-makes-it-new-again",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-wild-hunt-remastered-generous-upgrade-makes-it-new-again",
-          "titre": "The Witcher 3 Remastered is an extraordinarily generous upgrade that doesn't change the game, but does make it new again"
-        }
-      ]
-    },
-    {
-      "id": "fright-train-is-the-best-call-of-duty-zombies-alternative-i",
-      "titre": "Fright Train is the best Call of Duty Zombies alternative I've played in ages, despite starring a dog",
-      "url": "https://www.rockpapershotgun.com/fright-train-is-the-best-call-of-duty-zombies-alternative-ive-played-in-ages-despite-starring-a-dog",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/fright-train-is-the-best-call-of-duty-zombies-alternative-ive-played-in-ages-despite-starring-a-dog",
-          "titre": "Fright Train is the best Call of Duty Zombies alternative I've played in ages, despite starring a dog"
-        }
-      ]
-    },
-    {
-      "id": "guide-best-fire-emblem-games-of-all-time",
-      "titre": "Guide: Best Fire Emblem Games Of All Time",
-      "url": "https://www.nintendolife.com/guides/best-fire-emblem-games-of-all-time",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/best-fire-emblem-games-of-all-time",
-          "titre": "Guide: Best Fire Emblem Games Of All Time"
-        }
-      ]
-    },
-    {
-      "id": "sony-quits-ces-in-2027-as-it-continues-transition-to-enterta",
-      "titre": "Sony Quits CES in 2027 as It Continues Transition to Entertainment",
-      "url": "https://www.pushsquare.com/news/2026/09/sony-quits-ces-in-2027-as-it-continues-transition-to-entertainment",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/sony-quits-ces-in-2027-as-it-continues-transition-to-entertainment",
-          "titre": "Sony Quits CES in 2027 as It Continues Transition to Entertainment"
-        }
-      ]
-    },
-    {
-      "id": "path-of-exile-designer-says-he-desperately-wants-diablo-5-to",
-      "titre": "Path of Exile designer says he ‘desperately’ wants Diablo 5 to be good for the sake of the genre",
-      "url": "https://www.videogameschronicle.com/news/path-of-exile-designer-says-he-desperately-wants-diablo-5-to-be-good-for-the-sake-of-the-genre/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/path-of-exile-designer-says-he-desperately-wants-diablo-5-to-be-good-for-the-sake-of-the-genre/",
-          "titre": "Path of Exile designer says he ‘desperately’ wants Diablo 5 to be good for the sake of the genre"
-        }
-      ]
-    },
-    {
-      "id": "pok-mon-cards-are-seemingly-returning-to-mcdonald-s-happy-me",
-      "titre": "Pokémon Cards Are Seemingly Returning To McDonald's Happy Meals Soon",
-      "url": "https://www.nintendolife.com/news/2026/09/pokemon-cards-are-seemingly-returning-to-mcdonalds-happy-meals-soon",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/pokemon-cards-are-seemingly-returning-to-mcdonalds-happy-meals-soon",
-          "titre": "Pokémon Cards Are Seemingly Returning To McDonald's Happy Meals Soon"
         }
       ]
     },
@@ -791,7 +665,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.0,
       "chaleur": 6,
       "liens": [
         {
@@ -809,7 +683,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.3,
       "chaleur": 6,
       "liens": [
         {
@@ -827,7 +701,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.8,
       "chaleur": 6,
       "liens": [
         {
@@ -845,31 +719,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model",
           "titre": "Microsoft boss Nadella says Xbox has to invent \"sustainable business model\""
-        }
-      ]
-    },
-    {
-      "id": "steam-week-in-review-great-haystack-slop-is-a-thing-now",
-      "titre": "Steam Week in Review: Great, haystack slop is a thing now",
-      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-great-haystack-slop-is-a-thing-now/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 16.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-great-haystack-slop-is-a-thing-now/",
-          "titre": "Steam Week in Review: Great, haystack slop is a thing now"
         }
       ]
     },
@@ -881,7 +737,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.4,
+      "heures": 32.3,
       "chaleur": 5,
       "liens": [
         {
@@ -899,13 +755,193 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 32.9,
+      "heures": 34.8,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/minecraft-300000-new-players-daily-minecraft",
           "titre": "Minecraft still gains around 300,000 new players a day, Xbox boss reveals"
+        }
+      ]
+    },
+    {
+      "id": "season-3-of-the-last-of-us-tv-show-will-add-john-goodman-lau",
+      "titre": "Season 3 of The Last of Us TV show will add John Goodman, Laura Bailey and Ian Alexander to the cast",
+      "url": "https://www.videogameschronicle.com/news/season-3-of-the-last-of-us-tv-show-will-add-john-goodman-laura-bailey-and-ian-alexander-to-the-cast/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/season-3-of-the-last-of-us-tv-show-will-add-john-goodman-laura-bailey-and-ian-alexander-to-the-cast/",
+          "titre": "Season 3 of The Last of Us TV show will add John Goodman, Laura Bailey and Ian Alexander to the cast"
+        }
+      ]
+    },
+    {
+      "id": "october-prime-day-gaming-keyboard-deals",
+      "titre": "October Prime Day gaming keyboard deals",
+      "url": "https://www.pcgamer.com/hardware/gaming-keyboards/best-prime-day-gaming-keyboard-deals/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-keyboards/best-prime-day-gaming-keyboard-deals/",
+          "titre": "October Prime Day gaming keyboard deals"
+        }
+      ]
+    },
+    {
+      "id": "wolverine-breaks-ps5-s-live-service-stranglehold-in-the-us",
+      "titre": "Wolverine Breaks PS5's Live Service Stranglehold in the US",
+      "url": "https://www.pushsquare.com/news/2026/09/wolverine-breaks-ps5s-live-service-stranglehold-in-the-us",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/wolverine-breaks-ps5s-live-service-stranglehold-in-the-us",
+          "titre": "Wolverine Breaks PS5's Live Service Stranglehold in the US"
+        }
+      ]
+    },
+    {
+      "id": "here-s-a-gallery-of-the-times-the-witcher-3-s-remastered-lig",
+      "titre": "Here's a gallery of the times The Witcher 3's remastered lighting had me like, 'Damn'",
+      "url": "https://www.pcgamer.com/games/the-witcher/heres-a-gallery-of-the-times-the-witcher-3s-remastered-lighting-had-me-like-damn/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/heres-a-gallery-of-the-times-the-witcher-3s-remastered-lighting-had-me-like-damn/",
+          "titre": "Here's a gallery of the times The Witcher 3's remastered lighting had me like, 'Damn'"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-remastered-is-an-extraordinarily-generous-upgr",
+      "titre": "The Witcher 3 Remastered is an extraordinarily generous upgrade that doesn't change the game, but does make it new again",
+      "url": "https://www.eurogamer.net/witcher-3-wild-hunt-remastered-generous-upgrade-makes-it-new-again",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/witcher-3-wild-hunt-remastered-generous-upgrade-makes-it-new-again",
+          "titre": "The Witcher 3 Remastered is an extraordinarily generous upgrade that doesn't change the game, but does make it new again"
+        }
+      ]
+    },
+    {
+      "id": "fright-train-is-the-best-call-of-duty-zombies-alternative-i",
+      "titre": "Fright Train is the best Call of Duty Zombies alternative I've played in ages, despite starring a dog",
+      "url": "https://www.rockpapershotgun.com/fright-train-is-the-best-call-of-duty-zombies-alternative-ive-played-in-ages-despite-starring-a-dog",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/fright-train-is-the-best-call-of-duty-zombies-alternative-ive-played-in-ages-despite-starring-a-dog",
+          "titre": "Fright Train is the best Call of Duty Zombies alternative I've played in ages, despite starring a dog"
+        }
+      ]
+    },
+    {
+      "id": "guide-best-fire-emblem-games-of-all-time",
+      "titre": "Guide: Best Fire Emblem Games Of All Time",
+      "url": "https://www.nintendolife.com/guides/best-fire-emblem-games-of-all-time",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/guides/best-fire-emblem-games-of-all-time",
+          "titre": "Guide: Best Fire Emblem Games Of All Time"
+        }
+      ]
+    },
+    {
+      "id": "sony-quits-ces-in-2027-as-it-continues-transition-to-enterta",
+      "titre": "Sony Quits CES in 2027 as It Continues Transition to Entertainment",
+      "url": "https://www.pushsquare.com/news/2026/09/sony-quits-ces-in-2027-as-it-continues-transition-to-entertainment",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/sony-quits-ces-in-2027-as-it-continues-transition-to-entertainment",
+          "titre": "Sony Quits CES in 2027 as It Continues Transition to Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "path-of-exile-designer-says-he-desperately-wants-diablo-5-to",
+      "titre": "Path of Exile designer says he ‘desperately’ wants Diablo 5 to be good for the sake of the genre",
+      "url": "https://www.videogameschronicle.com/news/path-of-exile-designer-says-he-desperately-wants-diablo-5-to-be-good-for-the-sake-of-the-genre/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/path-of-exile-designer-says-he-desperately-wants-diablo-5-to-be-good-for-the-sake-of-the-genre/",
+          "titre": "Path of Exile designer says he ‘desperately’ wants Diablo 5 to be good for the sake of the genre"
+        }
+      ]
+    },
+    {
+      "id": "pok-mon-cards-are-seemingly-returning-to-mcdonald-s-happy-me",
+      "titre": "Pokémon Cards Are Seemingly Returning To McDonald's Happy Meals Soon",
+      "url": "https://www.nintendolife.com/news/2026/09/pokemon-cards-are-seemingly-returning-to-mcdonalds-happy-meals-soon",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/pokemon-cards-are-seemingly-returning-to-mcdonalds-happy-meals-soon",
+          "titre": "Pokémon Cards Are Seemingly Returning To McDonald's Happy Meals Soon"
         }
       ]
     },
@@ -917,7 +953,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +971,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +989,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +1007,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.7,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +1025,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +1043,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1025,7 +1061,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,7 +1079,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,7 +1097,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1079,49 +1115,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/tour-dates-and-pre-order-times-officially-confirmed-for-castlevania-40th-anniversary-concert/",
           "titre": "Tour dates and pre-order times officially confirmed for Castlevania 40th Anniversary concert"
-        }
-      ]
-    },
-    {
-      "id": "this-week-in-pc-games-new-ace-combat-transport-fever-3-and-a",
-      "titre": "This week in PC games: new Ace Combat, Transport Fever 3, and a System Shock-alike set on a disco space station",
-      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-new-ace-combat-transport-fever-3-and-a-system-shock-alike-set-on-a-disco-space-station",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 6.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-new-ace-combat-transport-fever-3-and-a-system-shock-alike-set-on-a-disco-space-station",
-          "titre": "This week in PC games: new Ace Combat, Transport Fever 3, and a System Shock-alike set on a disco space station"
-        }
-      ]
-    },
-    {
-      "id": "arc-raiders-is-messing-with-your-loot-hotspots-to-make-games",
-      "titre": "Arc Raiders is messing with your loot hotspots to make games more exciting",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-messing-with-your-loot-hotspots-to-make-games-more-exciting/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-messing-with-your-loot-hotspots-to-make-games-more-exciting/",
-          "titre": "Arc Raiders is messing with your loot hotspots to make games more exciting"
         }
       ]
     }
