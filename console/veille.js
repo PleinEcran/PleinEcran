@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "27/09/2026 à 22h19",
+  "collecte": "28/09/2026 à 00h29",
   "seuil": 14,
   "sujets": [
     {
@@ -14,8 +14,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 11.0,
-      "chaleur": 13,
+      "heures": 13.2,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Eurogamer",
@@ -47,7 +47,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.3,
       "chaleur": 11,
       "liens": [
         {
@@ -66,7 +66,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 7.9,
+      "heures": 10.1,
       "chaleur": 11,
       "liens": [
         {
@@ -86,22 +86,16 @@ const VEILLE = {
       "titre": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs",
       "url": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
       "sources": [
-        "Eurogamer",
-        "VGC"
+        "Eurogamer"
       ],
-      "reprises": 2,
-      "heures": 27.0,
-      "chaleur": 11,
+      "reprises": 1,
+      "heures": 29.2,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
           "titre": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/microsoft-ceo-says-streamlining-of-xbox-business-is-great-to-see/",
-          "titre": "Microsoft CEO says ‘streamlining’ of Xbox business is ‘great to see’"
         }
       ]
     },
@@ -113,7 +107,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.9,
       "chaleur": 7,
       "liens": [
         {
@@ -358,6 +352,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "former-dragon-age-executive-producer-mark-darrah-explains-wh",
+      "titre": "Former Dragon Age executive producer Mark Darrah explains what he'd change about each game: 'It's kind of filler'",
+      "url": "https://www.pcgamer.com/games/dragon-age/former-dragon-age-executive-producer-mark-darrah-explains-what-hed-change-about-each-game-its-kind-of-filler/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/dragon-age/former-dragon-age-executive-producer-mark-darrah-explains-what-hed-change-about-each-game-its-kind-of-filler/",
+          "titre": "Former Dragon Age executive producer Mark Darrah explains what he'd change about each game: 'It's kind of filler'"
+        }
+      ]
+    },
+    {
       "id": "sony-s-hearing-a-lot-of-the-feedback-from-customers-nis-ame",
       "titre": "'Sony's Hearing a Lot of the Feedback from Customers': NIS America Boss Weighs in on PS5 Disc Debate",
       "url": "https://www.pushsquare.com/news/2026/09/sonys-hearing-a-lot-of-the-feedback-from-customers-nis-america-boss-weighs-in-on-ps5-disc-debate",
@@ -365,49 +377,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 1.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/sonys-hearing-a-lot-of-the-feedback-from-customers-nis-america-boss-weighs-in-on-ps5-disc-debate",
           "titre": "'Sony's Hearing a Lot of the Feedback from Customers': NIS America Boss Weighs in on PS5 Disc Debate"
-        }
-      ]
-    },
-    {
-      "id": "after-12-years-dark-souls-2-is-finally-playable-in-co-op-wit",
-      "titre": "After 12 years, Dark Souls 2 is finally playable in co-op without interruptions",
-      "url": "https://www.pcgamer.com/games/dark-souls/after-12-years-dark-souls-2-is-finally-playable-in-co-op-without-interruptions/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/dark-souls/after-12-years-dark-souls-2-is-finally-playable-in-co-op-without-interruptions/",
-          "titre": "After 12 years, Dark Souls 2 is finally playable in co-op without interruptions"
-        }
-      ]
-    },
-    {
-      "id": "gears-of-war-story-director-laid-off-mere-days-after-e-day-w",
-      "titre": "Gears of War story director laid off mere days after E-Day went gold",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-story-director-laid-off-mere-days-after-e-day-went-gold/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-story-director-laid-off-mere-days-after-e-day-went-gold/",
-          "titre": "Gears of War story director laid off mere days after E-Day went gold"
         }
       ]
     },
@@ -419,31 +395,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 6,
+      "heures": 12.5,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/voidjoy-ga-10-elite-extender-for-switch-pro-controller-the-pros-dont-outweigh-the-mod-cons",
           "titre": "Review: Voidjoy GA-10 Elite Extender For Switch Pro Controller - The Pros Don't Outweigh The (Mod) Cons"
-        }
-      ]
-    },
-    {
-      "id": "guide-best-castlevania-games-ranked-switch-nintendo-consoles",
-      "titre": "Guide: Best Castlevania Games, Ranked - Switch & Nintendo Consoles",
-      "url": "https://www.nintendolife.com/guides/best-castlevania-games-ranked-switch-and-nintendo-consoles",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 35.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/best-castlevania-games-ranked-switch-and-nintendo-consoles",
-          "titre": "Guide: Best Castlevania Games, Ranked - Switch & Nintendo Consoles"
         }
       ]
     },
@@ -455,7 +413,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 15.0,
       "chaleur": 5,
       "liens": [
         {
@@ -473,7 +431,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.6,
       "chaleur": 5,
       "liens": [
         {
@@ -491,7 +449,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 21.8,
       "chaleur": 5,
       "liens": [
         {
@@ -509,13 +467,49 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore-slump",
           "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #2 - A Sophomore Slump?"
+        }
+      ]
+    },
+    {
+      "id": "after-12-years-dark-souls-2-is-finally-playable-in-co-op-wit",
+      "titre": "After 12 years, Dark Souls 2 is finally playable in co-op without interruptions",
+      "url": "https://www.pcgamer.com/games/dark-souls/after-12-years-dark-souls-2-is-finally-playable-in-co-op-without-interruptions/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/dark-souls/after-12-years-dark-souls-2-is-finally-playable-in-co-op-without-interruptions/",
+          "titre": "After 12 years, Dark Souls 2 is finally playable in co-op without interruptions"
+        }
+      ]
+    },
+    {
+      "id": "gears-of-war-story-director-laid-off-mere-days-after-e-day-w",
+      "titre": "Gears of War story director laid off mere days after E-Day went gold",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-story-director-laid-off-mere-days-after-e-day-went-gold/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-story-director-laid-off-mere-days-after-e-day-went-gold/",
+          "titre": "Gears of War story director laid off mere days after E-Day went gold"
         }
       ]
     },
@@ -527,7 +521,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -545,7 +539,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -563,7 +557,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -581,7 +575,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -599,7 +593,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -617,7 +611,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -635,7 +629,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -653,8 +647,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -671,8 +665,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -689,7 +683,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -707,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.5,
       "chaleur": 3,
       "liens": [
         {
@@ -725,7 +719,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.5,
       "chaleur": 3,
       "liens": [
         {
@@ -743,7 +737,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.6,
+      "heures": 23.8,
       "chaleur": 3,
       "liens": [
         {
@@ -761,7 +755,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 26.6,
       "chaleur": 3,
       "liens": [
         {
@@ -779,7 +773,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 26.6,
       "chaleur": 3,
       "liens": [
         {
@@ -797,7 +791,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.9,
+      "heures": 28.0,
       "chaleur": 3,
       "liens": [
         {
@@ -815,7 +809,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.5,
       "chaleur": 3,
       "liens": [
         {
@@ -833,7 +827,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.6,
+      "heures": 29.7,
       "chaleur": 3,
       "liens": [
         {
@@ -851,7 +845,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 28.3,
+      "heures": 30.5,
       "chaleur": 3,
       "liens": [
         {
@@ -869,7 +863,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.5,
+      "heures": 30.6,
       "chaleur": 3,
       "liens": [
         {
@@ -887,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.5,
       "chaleur": 3,
       "liens": [
         {
@@ -905,7 +899,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 31.5,
       "chaleur": 3,
       "liens": [
         {
@@ -923,31 +917,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 30.1,
+      "heures": 32.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-celebrations-will-bring-partnerships-and-collaborations-season-3-casting-news-announced",
           "titre": "The Last of Us Day Celebrations Will Bring Partnerships and Collaborations, Season 3 Casting News Announced"
-        }
-      ]
-    },
-    {
-      "id": "what-s-the-weirdest-thing-that-happened-to-you-in-a-tabletop",
-      "titre": "What's the weirdest thing that happened to you in a tabletop RPG?",
-      "url": "https://www.pcgamer.com/games/rpg/whats-the-weirdest-thing-that-happened-to-you-in-a-tabletop-rpg/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 30.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/whats-the-weirdest-thing-that-happened-to-you-in-a-tabletop-rpg/",
-          "titre": "What's the weirdest thing that happened to you in a tabletop RPG?"
         }
       ]
     },
@@ -959,7 +935,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 30.4,
+      "heures": 32.5,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +953,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.9,
+      "heures": 33.0,
       "chaleur": 3,
       "liens": [
         {
@@ -995,67 +971,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 32.3,
+      "heures": 34.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/interview-were-not-making-a-party-game-now-its-more-of-an-evening-thing-ghost-town-is-moving-on-from-overcooked",
           "titre": "Interview: \"We're Not Making A Party Game Now, It's More Of An Evening Thing\" - Ghost Town Is Moving On From Overcooked"
-        }
-      ]
-    },
-    {
-      "id": "mobygames-video-game-database-now-lets-developers-claim-thei",
-      "titre": "MobyGames video game database now lets developers claim their game credits",
-      "url": "https://www.eurogamer.net/mobygames-professional-developer-credits-portfolio",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 34.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/mobygames-professional-developer-credits-portfolio",
-          "titre": "MobyGames video game database now lets developers claim their game credits"
-        }
-      ]
-    },
-    {
-      "id": "anniversary-castlevania-changed-the-shape-of-gaming-40-years",
-      "titre": "Anniversary: Castlevania Changed The Shape Of Gaming 40 Years Ago",
-      "url": "https://www.nintendolife.com/features/anniversary-castlevania-changed-the-shape-of-gaming-40-years-ago",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/anniversary-castlevania-changed-the-shape-of-gaming-40-years-ago",
-          "titre": "Anniversary: Castlevania Changed The Shape Of Gaming 40 Years Ago"
-        }
-      ]
-    },
-    {
-      "id": "guide-these-21-ps5-and-ps-plus-games-are-coming-out-next-wee",
-      "titre": "Guide: These 21+ PS5 and PS Plus Games Are Coming Out Next Week (28th-4th October)",
-      "url": "https://www.pushsquare.com/guides/these-21plus-ps5-and-ps-plus-games-are-coming-out-next-week-28th-4th-october",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/these-21plus-ps5-and-ps-plus-games-are-coming-out-next-week-28th-4th-october",
-          "titre": "Guide: These 21+ PS5 and PS Plus Games Are Coming Out Next Week (28th-4th October)"
         }
       ]
     }
