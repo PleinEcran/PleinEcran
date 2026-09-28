@@ -1,26 +1,37 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "28/09/2026 à 14h24",
+  "collecte": "28/09/2026 à 16h25",
   "seuil": 14,
   "sujets": [
     {
-      "id": "here-s-a-few-minutes-of-me-being-bad-at-the-witcher-3-s-rema",
-      "titre": "Here's a few minutes of me being bad at The Witcher 3's remastered combat",
-      "url": "https://www.pcgamer.com/games/the-witcher/heres-a-few-minutes-of-me-being-bad-at-the-witcher-3s-remastered-combat/",
+      "id": "cd-projekt-release-full-updated-witcher-3-wild-hunt-remaster",
+      "titre": "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements",
+      "url": "https://www.rockpapershotgun.com/cd-projekt-release-full-updated-witcher-3-wild-hunt-remastered-system-specs-including-ray-tracing-and-path-tracing-requirements",
       "sources": [
         "Nintendo Life",
         "PC Gamer",
         "Push Square",
+        "Rock Paper Shotgun",
         "VGC"
       ],
-      "reprises": 4,
-      "heures": 0.6,
-      "chaleur": 17,
+      "reprises": 5,
+      "heures": 0.3,
+      "chaleur": 20,
       "liens": [
         {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/cd-projekt-release-full-updated-witcher-3-wild-hunt-remastered-system-specs-including-ray-tracing-and-path-tracing-requirements",
+          "titre": "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/the-witcher-3-wild-hunt-remastered",
+          "titre": "Review in Progress: The Witcher 3: Wild Hunt Remastered (PS5) - How to Improve a Masterpiece"
+        },
+        {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/heres-a-few-minutes-of-me-being-bad-at-the-witcher-3s-remastered-combat/",
-          "titre": "Here's a few minutes of me being bad at The Witcher 3's remastered combat"
+          "url": "https://www.pcgamer.com/games/rpg/witcher-3-remastered-release-date-launch-times/",
+          "titre": "Here's The Witcher 3 Remastered release time for your region"
         },
         {
           "source": "Nintendo Life",
@@ -31,35 +42,48 @@ const VEILLE = {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-release-times-in-your-time-zone-and-update-file-size/",
           "titre": "The Witcher 3 Remastered release times in your time zone and update file size"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-a-45gb-ps5-patch-release-times-revealed",
-          "titre": "The Witcher 3 Remastered a 45GB PS5 Patch, Release Times Revealed"
         }
       ]
     },
     {
-      "id": "fire-emblem-fortune-s-weave-torment-grass-location",
-      "titre": "Fire Emblem Fortune’s Weave: Torment Grass location",
-      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-torment-grass-location/",
+      "id": "report-sony-surveying-developers-about-dropping-playstation",
+      "titre": "Report: Sony surveying developers about dropping PlayStation disc support",
+      "url": "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support",
+          "titre": "Report: Sony surveying developers about dropping PlayStation disc support"
+        }
+      ]
+    },
+    {
+      "id": "japanese-charts-fire-emblem-fortune-s-weave-shifts-over-120",
+      "titre": "Japanese Charts: Fire Emblem: Fortune's Weave Shifts Over 120,000 Physical Copies",
+      "url": "https://www.nintendolife.com/news/2026/09/japanese-charts-fire-emblem-fortunes-weave-shifts-over-120000-physical-copies",
       "sources": [
         "Nintendo Life",
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.0,
+      "heures": 0.7,
       "chaleur": 9,
       "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/japanese-charts-fire-emblem-fortunes-weave-shifts-over-120000-physical-copies",
+          "titre": "Japanese Charts: Fire Emblem: Fortune's Weave Shifts Over 120,000 Physical Copies"
+        },
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-torment-grass-location/",
           "titre": "Fire Emblem Fortune’s Weave: Torment Grass location"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/uk-charts-fire-emblem-fortunes-weave-drops-to-number-8-as-fc-27-tops-the-podium",
-          "titre": "UK Charts: Fire Emblem: Fortune's Weave Drops To Number 8 As FC 27 Tops The Podium"
         }
       ]
     },
@@ -72,8 +96,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 2.2,
-      "chaleur": 9,
+      "heures": 4.2,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -96,8 +120,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 3.6,
-      "chaleur": 9,
+      "heures": 5.6,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -112,60 +136,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "microsoft-ceo-says-xbox-is-simply-streamlining-after-cutting",
-      "titre": "Microsoft CEO says Xbox is simply 'streamlining' after cutting over 5,750 jobs in three years",
-      "url": "https://www.gamedeveloper.com/production/microsoft-ceo-says-xbox-is-streamlining-after-laying-off-5-750-workers-in-three-years",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production/microsoft-ceo-says-xbox-is-streamlining-after-laying-off-5-750-workers-in-three-years",
-          "titre": "Microsoft CEO says Xbox is simply 'streamlining' after cutting over 5,750 jobs in three years"
-        }
-      ]
-    },
-    {
-      "id": "review-runescape-dragonwilds-switch-2-a-slow-burn-survival-c",
-      "titre": "Review: RuneScape: Dragonwilds (Switch 2) - A Slow-Burn Survival-Crafting RPG That Underwhelms Visually",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/runescape-dragonwilds",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/runescape-dragonwilds",
-          "titre": "Review: RuneScape: Dragonwilds (Switch 2) - A Slow-Burn Survival-Crafting RPG That Underwhelms Visually"
-        }
-      ]
-    },
-    {
-      "id": "playstation-controllers-may-have-built-in-credit-card-scanne",
-      "titre": "PlayStation Controllers May Have Built-In Credit Card Scanners One Day",
-      "url": "https://www.pushsquare.com/news/2026/09/playstation-controllers-may-have-built-in-credit-card-scanners-one-day",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/playstation-controllers-may-have-built-in-credit-card-scanners-one-day",
-          "titre": "PlayStation Controllers May Have Built-In Credit Card Scanners One Day"
-        }
-      ]
-    },
-    {
       "id": "xbox-is-reportedly-paying-a-fraction-of-the-400-million-koji",
       "titre": "Xbox is reportedly paying a \"fraction\" of the $400 million Kojima quoted Sony for Physint",
       "url": "https://www.eurogamer.net/xbox-kojima-physint-budget-fraction-400-million",
@@ -173,7 +143,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.0,
+      "heures": 26.0,
       "chaleur": 7,
       "liens": [
         {
@@ -418,6 +388,186 @@ const VEILLE = {
       ]
     },
     {
+      "id": "season-3-of-the-last-of-us-tv-show-will-add-john-goodman-lau",
+      "titre": "Season 3 of The Last of Us TV show will add John Goodman, Laura Bailey and Ian Alexander to the cast",
+      "url": "https://www.videogameschronicle.com/news/season-3-of-the-last-of-us-tv-show-will-add-john-goodman-laura-bailey-and-ian-alexander-to-the-cast/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/season-3-of-the-last-of-us-tv-show-will-add-john-goodman-laura-bailey-and-ian-alexander-to-the-cast/",
+          "titre": "Season 3 of The Last of Us TV show will add John Goodman, Laura Bailey and Ian Alexander to the cast"
+        }
+      ]
+    },
+    {
+      "id": "october-prime-day-gaming-keyboard-deals",
+      "titre": "October Prime Day gaming keyboard deals",
+      "url": "https://www.pcgamer.com/hardware/gaming-keyboards/best-prime-day-gaming-keyboard-deals/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-keyboards/best-prime-day-gaming-keyboard-deals/",
+          "titre": "October Prime Day gaming keyboard deals"
+        }
+      ]
+    },
+    {
+      "id": "wolverine-breaks-ps5-s-live-service-stranglehold-in-the-us",
+      "titre": "Wolverine Breaks PS5's Live Service Stranglehold in the US",
+      "url": "https://www.pushsquare.com/news/2026/09/wolverine-breaks-ps5s-live-service-stranglehold-in-the-us",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/wolverine-breaks-ps5s-live-service-stranglehold-in-the-us",
+          "titre": "Wolverine Breaks PS5's Live Service Stranglehold in the US"
+        }
+      ]
+    },
+    {
+      "id": "here-s-a-gallery-of-the-times-the-witcher-3-s-remastered-lig",
+      "titre": "Here's a gallery of the times The Witcher 3's remastered lighting had me like, 'Damn'",
+      "url": "https://www.pcgamer.com/games/the-witcher/heres-a-gallery-of-the-times-the-witcher-3s-remastered-lighting-had-me-like-damn/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/heres-a-gallery-of-the-times-the-witcher-3s-remastered-lighting-had-me-like-damn/",
+          "titre": "Here's a gallery of the times The Witcher 3's remastered lighting had me like, 'Damn'"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-remastered-is-an-extraordinarily-generous-upgr",
+      "titre": "The Witcher 3 Remastered is an extraordinarily generous upgrade that doesn't change the game, but does make it new again",
+      "url": "https://www.eurogamer.net/witcher-3-wild-hunt-remastered-generous-upgrade-makes-it-new-again",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/witcher-3-wild-hunt-remastered-generous-upgrade-makes-it-new-again",
+          "titre": "The Witcher 3 Remastered is an extraordinarily generous upgrade that doesn't change the game, but does make it new again"
+        }
+      ]
+    },
+    {
+      "id": "fright-train-is-the-best-call-of-duty-zombies-alternative-i",
+      "titre": "Fright Train is the best Call of Duty Zombies alternative I've played in ages, despite starring a dog",
+      "url": "https://www.rockpapershotgun.com/fright-train-is-the-best-call-of-duty-zombies-alternative-ive-played-in-ages-despite-starring-a-dog",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/fright-train-is-the-best-call-of-duty-zombies-alternative-ive-played-in-ages-despite-starring-a-dog",
+          "titre": "Fright Train is the best Call of Duty Zombies alternative I've played in ages, despite starring a dog"
+        }
+      ]
+    },
+    {
+      "id": "guide-best-fire-emblem-games-of-all-time",
+      "titre": "Guide: Best Fire Emblem Games Of All Time",
+      "url": "https://www.nintendolife.com/guides/best-fire-emblem-games-of-all-time",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/guides/best-fire-emblem-games-of-all-time",
+          "titre": "Guide: Best Fire Emblem Games Of All Time"
+        }
+      ]
+    },
+    {
+      "id": "sony-quits-ces-in-2027-as-it-continues-transition-to-enterta",
+      "titre": "Sony Quits CES in 2027 as It Continues Transition to Entertainment",
+      "url": "https://www.pushsquare.com/news/2026/09/sony-quits-ces-in-2027-as-it-continues-transition-to-entertainment",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/sony-quits-ces-in-2027-as-it-continues-transition-to-entertainment",
+          "titre": "Sony Quits CES in 2027 as It Continues Transition to Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "path-of-exile-designer-says-he-desperately-wants-diablo-5-to",
+      "titre": "Path of Exile designer says he ‘desperately’ wants Diablo 5 to be good for the sake of the genre",
+      "url": "https://www.videogameschronicle.com/news/path-of-exile-designer-says-he-desperately-wants-diablo-5-to-be-good-for-the-sake-of-the-genre/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/path-of-exile-designer-says-he-desperately-wants-diablo-5-to-be-good-for-the-sake-of-the-genre/",
+          "titre": "Path of Exile designer says he ‘desperately’ wants Diablo 5 to be good for the sake of the genre"
+        }
+      ]
+    },
+    {
+      "id": "pok-mon-cards-are-seemingly-returning-to-mcdonald-s-happy-me",
+      "titre": "Pokémon Cards Are Seemingly Returning To McDonald's Happy Meals Soon",
+      "url": "https://www.nintendolife.com/news/2026/09/pokemon-cards-are-seemingly-returning-to-mcdonalds-happy-meals-soon",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/pokemon-cards-are-seemingly-returning-to-mcdonalds-happy-meals-soon",
+          "titre": "Pokémon Cards Are Seemingly Returning To McDonald's Happy Meals Soon"
+        }
+      ]
+    },
+    {
       "id": "dark-souls-2-can-now-be-played-in-its-entirety-with-drop-in",
       "titre": "Dark Souls 2 can now be played in its entirety with drop-in, drop-out co-op, thanks to its own seamless multiplayer mod",
       "url": "https://www.eurogamer.net/dark-souls-2-seamless-co-op-mod",
@@ -425,7 +575,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -443,7 +593,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -461,7 +611,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -472,20 +622,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "october-prime-day-gaming-mouse-deals",
-      "titre": "October Prime Day gaming mouse deals",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/best-prime-day-gaming-mouse-deals/",
+      "id": "here-is-your-world-first-comparison-between-original-and-rem",
+      "titre": "Here is your world-first comparison between original and remastered Tub Geralt in The Witcher 3",
+      "url": "https://www.pcgamer.com/games/the-witcher/here-is-your-world-first-comparison-between-original-and-remastered-tub-geralt-in-the-witcher-3/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-mice/best-prime-day-gaming-mouse-deals/",
-          "titre": "October Prime Day gaming mouse deals"
+          "url": "https://www.pcgamer.com/games/the-witcher/here-is-your-world-first-comparison-between-original-and-remastered-tub-geralt-in-the-witcher-3/",
+          "titre": "Here is your world-first comparison between original and remastered Tub Geralt in The Witcher 3"
         }
       ]
     },
@@ -497,7 +647,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -515,7 +665,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -533,7 +683,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -551,7 +701,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -562,128 +712,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "call-of-duty-warzone-will-soon-make-it-possible-to-toggle-al",
-      "titre": "Call of Duty: Warzone will soon make it possible to toggle all those silly skins off, something no one thought could ever happen",
-      "url": "https://www.eurogamer.net/call-of-duty-warzone-skin-toggle-modern-warfare-4",
+      "id": "microsoft-ceo-says-xbox-is-simply-streamlining-after-cutting",
+      "titre": "Microsoft CEO says Xbox is simply 'streamlining' after cutting over 5,750 jobs in three years",
+      "url": "https://www.gamedeveloper.com/production/microsoft-ceo-says-xbox-is-streamlining-after-laying-off-5-750-workers-in-three-years",
       "sources": [
-        "Eurogamer"
+        "Game Developer"
       ],
       "reprises": 1,
-      "heures": 2.1,
+      "heures": 4.1,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/call-of-duty-warzone-skin-toggle-modern-warfare-4",
-          "titre": "Call of Duty: Warzone will soon make it possible to toggle all those silly skins off, something no one thought could ever happen"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/production/microsoft-ceo-says-xbox-is-streamlining-after-laying-off-5-750-workers-in-three-years",
+          "titre": "Microsoft CEO says Xbox is simply 'streamlining' after cutting over 5,750 jobs in three years"
         }
       ]
     },
     {
-      "id": "tour-dates-and-pre-order-times-officially-confirmed-for-cast",
-      "titre": "Tour dates and pre-order times officially confirmed for Castlevania 40th Anniversary concert",
-      "url": "https://www.videogameschronicle.com/news/tour-dates-and-pre-order-times-officially-confirmed-for-castlevania-40th-anniversary-concert/",
+      "id": "review-runescape-dragonwilds-switch-2-a-slow-burn-survival-c",
+      "titre": "Review: RuneScape: Dragonwilds (Switch 2) - A Slow-Burn Survival-Crafting RPG That Underwhelms Visually",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/runescape-dragonwilds",
       "sources": [
-        "VGC"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 4.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/tour-dates-and-pre-order-times-officially-confirmed-for-castlevania-40th-anniversary-concert/",
-          "titre": "Tour dates and pre-order times officially confirmed for Castlevania 40th Anniversary concert"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/runescape-dragonwilds",
+          "titre": "Review: RuneScape: Dragonwilds (Switch 2) - A Slow-Burn Survival-Crafting RPG That Underwhelms Visually"
         }
       ]
     },
     {
-      "id": "this-week-in-pc-games-new-ace-combat-transport-fever-3-and-a",
-      "titre": "This week in PC games: new Ace Combat, Transport Fever 3, and a System Shock-alike set on a disco space station",
-      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-new-ace-combat-transport-fever-3-and-a-system-shock-alike-set-on-a-disco-space-station",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-new-ace-combat-transport-fever-3-and-a-system-shock-alike-set-on-a-disco-space-station",
-          "titre": "This week in PC games: new Ace Combat, Transport Fever 3, and a System Shock-alike set on a disco space station"
-        }
-      ]
-    },
-    {
-      "id": "arc-raiders-is-messing-with-your-loot-hotspots-to-make-games",
-      "titre": "Arc Raiders is messing with your loot hotspots to make games more exciting",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-messing-with-your-loot-hotspots-to-make-games-more-exciting/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-messing-with-your-loot-hotspots-to-make-games-more-exciting/",
-          "titre": "Arc Raiders is messing with your loot hotspots to make games more exciting"
-        }
-      ]
-    },
-    {
-      "id": "wardogs-studio-chief-brammer-insists-he-isn-t-pro-crunch-i-a",
-      "titre": "Wardogs studio chief Brammer insists he isn't \"pro crunch, I am pro hard work\"",
-      "url": "https://www.gamesindustry.biz/wardogs-studio-chief-brammer-insists-he-isnt-pro-crunch-i-am-pro-hard-work",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/wardogs-studio-chief-brammer-insists-he-isnt-pro-crunch-i-am-pro-hard-work",
-          "titre": "Wardogs studio chief Brammer insists he isn't \"pro crunch, I am pro hard work\""
-        }
-      ]
-    },
-    {
-      "id": "guide-these-21-ps5-and-ps-plus-games-are-coming-out-this-wee",
-      "titre": "Guide: These 21+ PS5 and PS Plus Games Are Coming Out This Week (28th-4th October)",
-      "url": "https://www.pushsquare.com/guides/these-21plus-ps5-and-ps-plus-games-are-coming-out-this-week-28th-4th-october",
+      "id": "playstation-controllers-may-have-built-in-credit-card-scanne",
+      "titre": "PlayStation Controllers May Have Built-In Credit Card Scanners One Day",
+      "url": "https://www.pushsquare.com/news/2026/09/playstation-controllers-may-have-built-in-credit-card-scanners-one-day",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 3.4,
+      "heures": 4.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/these-21plus-ps5-and-ps-plus-games-are-coming-out-this-week-28th-4th-october",
-          "titre": "Guide: These 21+ PS5 and PS Plus Games Are Coming Out This Week (28th-4th October)"
-        }
-      ]
-    },
-    {
-      "id": "the-elder-scrolls-never-got-a-spin-off-like-fallout-new-vega",
-      "titre": "The Elder Scrolls never got a spin-off like Fallout: New Vegas because Todd Howard is protective of the IP, former dev says",
-      "url": "https://www.videogameschronicle.com/news/the-elder-scrolls-never-got-a-spin-off-like-fallout-new-vegas-because-todd-howard-is-protective-of-the-ip-former-dev-says/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-elder-scrolls-never-got-a-spin-off-like-fallout-new-vegas-because-todd-howard-is-protective-of-the-ip-former-dev-says/",
-          "titre": "The Elder Scrolls never got a spin-off like Fallout: New Vegas because Todd Howard is protective of the IP, former dev says"
+          "url": "https://www.pushsquare.com/news/2026/09/playstation-controllers-may-have-built-in-credit-card-scanners-one-day",
+          "titre": "PlayStation Controllers May Have Built-In Credit Card Scanners One Day"
         }
       ]
     },
@@ -695,7 +773,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 6,
       "liens": [
         {
@@ -713,7 +791,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 15.1,
       "chaleur": 6,
       "liens": [
         {
@@ -731,7 +809,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.5,
       "chaleur": 5,
       "liens": [
         {
@@ -749,7 +827,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.4,
+      "heures": 28.4,
       "chaleur": 5,
       "liens": [
         {
@@ -767,7 +845,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.9,
+      "heures": 30.9,
       "chaleur": 5,
       "liens": [
         {
@@ -778,20 +856,128 @@ const VEILLE = {
       ]
     },
     {
-      "id": "disgaea-creator-says-he-sees-ai-s-benefit-as-a-tool-but-has",
-      "titre": "Disgaea creator says he sees AI’s benefit as a tool but has ‘absolutely no interest’ in using it to write stories",
-      "url": "https://www.videogameschronicle.com/news/disgaea-creator-says-he-sees-ais-benefit-as-a-tool-but-has-absolutely-no-interest-in-using-it-to-write-stories/",
+      "id": "call-of-duty-warzone-will-soon-make-it-possible-to-toggle-al",
+      "titre": "Call of Duty: Warzone will soon make it possible to toggle all those silly skins off, something no one thought could ever happen",
+      "url": "https://www.eurogamer.net/call-of-duty-warzone-skin-toggle-modern-warfare-4",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/call-of-duty-warzone-skin-toggle-modern-warfare-4",
+          "titre": "Call of Duty: Warzone will soon make it possible to toggle all those silly skins off, something no one thought could ever happen"
+        }
+      ]
+    },
+    {
+      "id": "tour-dates-and-pre-order-times-officially-confirmed-for-cast",
+      "titre": "Tour dates and pre-order times officially confirmed for Castlevania 40th Anniversary concert",
+      "url": "https://www.videogameschronicle.com/news/tour-dates-and-pre-order-times-officially-confirmed-for-castlevania-40th-anniversary-concert/",
       "sources": [
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 4.4,
       "chaleur": 4,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/disgaea-creator-says-he-sees-ais-benefit-as-a-tool-but-has-absolutely-no-interest-in-using-it-to-write-stories/",
-          "titre": "Disgaea creator says he sees AI’s benefit as a tool but has ‘absolutely no interest’ in using it to write stories"
+          "url": "https://www.videogameschronicle.com/news/tour-dates-and-pre-order-times-officially-confirmed-for-castlevania-40th-anniversary-concert/",
+          "titre": "Tour dates and pre-order times officially confirmed for Castlevania 40th Anniversary concert"
+        }
+      ]
+    },
+    {
+      "id": "this-week-in-pc-games-new-ace-combat-transport-fever-3-and-a",
+      "titre": "This week in PC games: new Ace Combat, Transport Fever 3, and a System Shock-alike set on a disco space station",
+      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-new-ace-combat-transport-fever-3-and-a-system-shock-alike-set-on-a-disco-space-station",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-new-ace-combat-transport-fever-3-and-a-system-shock-alike-set-on-a-disco-space-station",
+          "titre": "This week in PC games: new Ace Combat, Transport Fever 3, and a System Shock-alike set on a disco space station"
+        }
+      ]
+    },
+    {
+      "id": "arc-raiders-is-messing-with-your-loot-hotspots-to-make-games",
+      "titre": "Arc Raiders is messing with your loot hotspots to make games more exciting",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-messing-with-your-loot-hotspots-to-make-games-more-exciting/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-messing-with-your-loot-hotspots-to-make-games-more-exciting/",
+          "titre": "Arc Raiders is messing with your loot hotspots to make games more exciting"
+        }
+      ]
+    },
+    {
+      "id": "wardogs-studio-chief-brammer-insists-he-isn-t-pro-crunch-i-a",
+      "titre": "Wardogs studio chief Brammer insists he isn't \"pro crunch, I am pro hard work\"",
+      "url": "https://www.gamesindustry.biz/wardogs-studio-chief-brammer-insists-he-isnt-pro-crunch-i-am-pro-hard-work",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/wardogs-studio-chief-brammer-insists-he-isnt-pro-crunch-i-am-pro-hard-work",
+          "titre": "Wardogs studio chief Brammer insists he isn't \"pro crunch, I am pro hard work\""
+        }
+      ]
+    },
+    {
+      "id": "guide-these-21-ps5-and-ps-plus-games-are-coming-out-this-wee",
+      "titre": "Guide: These 21+ PS5 and PS Plus Games Are Coming Out This Week (28th-4th October)",
+      "url": "https://www.pushsquare.com/guides/these-21plus-ps5-and-ps-plus-games-are-coming-out-this-week-28th-4th-october",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-21plus-ps5-and-ps-plus-games-are-coming-out-this-week-28th-4th-october",
+          "titre": "Guide: These 21+ PS5 and PS Plus Games Are Coming Out This Week (28th-4th October)"
+        }
+      ]
+    },
+    {
+      "id": "the-elder-scrolls-never-got-a-spin-off-like-fallout-new-vega",
+      "titre": "The Elder Scrolls never got a spin-off like Fallout: New Vegas because Todd Howard is protective of the IP, former dev says",
+      "url": "https://www.videogameschronicle.com/news/the-elder-scrolls-never-got-a-spin-off-like-fallout-new-vegas-because-todd-howard-is-protective-of-the-ip-former-dev-says/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-elder-scrolls-never-got-a-spin-off-like-fallout-new-vegas-because-todd-howard-is-protective-of-the-ip-former-dev-says/",
+          "titre": "The Elder Scrolls never got a spin-off like Fallout: New Vegas because Todd Howard is protective of the IP, former dev says"
         }
       ]
     },
@@ -803,31 +989,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/we-clearly-handled-that-responsibility-poorly-paradox-ban-discord-profile-pics-of-historical-figures-born-after-1800-after-bust-up-with-hearts-of-iron-4-players-over-ataturk-banning",
           "titre": "\"We clearly handled that responsibility poorly\": Paradox ban Discord profile pics of historical figures born after 1800, after bust-up with Hearts of Iron 4 players over Atatürk banning"
-        }
-      ]
-    },
-    {
-      "id": "video-game-release-dates-2026-new-games-coming-in-october-no",
-      "titre": "Video Game Release Dates 2026: New Games Coming in October, November & December",
-      "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/",
-          "titre": "Video Game Release Dates 2026: New Games Coming in October, November & December"
         }
       ]
     },
@@ -839,7 +1007,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -857,7 +1025,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.2,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +1043,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +1061,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.9,
       "chaleur": 3,
       "liens": [
         {
@@ -911,49 +1079,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.1,
+      "heures": 22.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-story-director-laid-off-mere-days-after-e-day-went-gold/",
           "titre": "Gears of War story director laid off mere days after E-Day went gold"
-        }
-      ]
-    },
-    {
-      "id": "i-m-loving-wow-forever-but-i-can-t-help-but-miss-the-music-o",
-      "titre": "I'm loving WoW: Forever, but I can't help but miss the music of my other beloved MMO",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/im-loving-wow-forever-but-i-cant-help-but-miss-the-music-of-my-other-beloved-mmo/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/im-loving-wow-forever-but-i-cant-help-but-miss-the-music-of-my-other-beloved-mmo/",
-          "titre": "I'm loving WoW: Forever, but I can't help but miss the music of my other beloved MMO"
-        }
-      ]
-    },
-    {
-      "id": "shadow-the-hedgehog-is-supposed-to-be-dead",
-      "titre": "Shadow the Hedgehog is supposed to be dead",
-      "url": "https://www.pcgamer.com/games/action/shadow-the-hedgehog-is-supposed-to-be-dead/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/shadow-the-hedgehog-is-supposed-to-be-dead/",
-          "titre": "Shadow the Hedgehog is supposed to be dead"
         }
       ]
     },
@@ -965,7 +1097,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.0,
+      "heures": 25.0,
       "chaleur": 3,
       "liens": [
         {
@@ -983,7 +1115,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.4,
       "chaleur": 3,
       "liens": [
         {
@@ -992,81 +1124,9 @@ const VEILLE = {
           "titre": "Opinion: I Played Mario Kart Tour Every Day For Seven Years, And What Am I Left With?"
         }
       ]
-    },
-    {
-      "id": "minecraft-is-getting-its-first-new-dimension-in-14-years-and",
-      "titre": "Minecraft is getting its first new dimension in 14 years, and it's called The Sift",
-      "url": "https://www.eurogamer.net/minecraft-the-sift-new-dimension-2027",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 27.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/minecraft-the-sift-new-dimension-2027",
-          "titre": "Minecraft is getting its first new dimension in 14 years, and it's called The Sift"
-        }
-      ]
-    },
-    {
-      "id": "the-sunday-papers",
-      "titre": "The Sunday Papers",
-      "url": "https://www.rockpapershotgun.com/the-sunday-papers-829",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 27.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-sunday-papers-829",
-          "titre": "The Sunday Papers"
-        }
-      ]
-    },
-    {
-      "id": "final-fantasy-7-director-says-revelation-s-platinum-trophy-w",
-      "titre": "Final Fantasy 7 director says Revelation's Platinum trophy will be \"easier to get\"",
-      "url": "https://www.eurogamer.net/final-fantasy-7-revelation-platinum-trophy-easier-hamaguchi",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 27.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/final-fantasy-7-revelation-platinum-trophy-easier-hamaguchi",
-          "titre": "Final Fantasy 7 director says Revelation's Platinum trophy will be \"easier to get\""
-        }
-      ]
-    },
-    {
-      "id": "feature-box-art-brawl-duel-dragon-quest-ii-nes",
-      "titre": "Feature: Box Art Brawl - Duel: Dragon Quest II (NES)",
-      "url": "https://www.nintendolife.com/features/box-art-brawl-duel-dragon-quest-ii-nes",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 29.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/box-art-brawl-duel-dragon-quest-ii-nes",
-          "titre": "Feature: Box Art Brawl - Duel: Dragon Quest II (NES)"
-        }
-      ]
     }
   ],
   "alertes": [
-    "Here's a few minutes of me being bad at The Witcher 3's remastered combat"
+    "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements"
   ]
 };
