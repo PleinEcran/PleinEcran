@@ -1,12 +1,12 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "28/09/2026 à 12h27",
+  "collecte": "28/09/2026 à 14h24",
   "seuil": 14,
   "sujets": [
     {
-      "id": "here-s-the-witcher-3-remastered-release-time-for-your-region",
-      "titre": "Here's The Witcher 3 Remastered release time for your region",
-      "url": "https://www.pcgamer.com/games/rpg/witcher-3-remastered-release-date-launch-times/",
+      "id": "here-s-a-few-minutes-of-me-being-bad-at-the-witcher-3-s-rema",
+      "titre": "Here's a few minutes of me being bad at The Witcher 3's remastered combat",
+      "url": "https://www.pcgamer.com/games/the-witcher/heres-a-few-minutes-of-me-being-bad-at-the-witcher-3s-remastered-combat/",
       "sources": [
         "Nintendo Life",
         "PC Gamer",
@@ -14,13 +14,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 1.3,
+      "heures": 0.6,
       "chaleur": 17,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/witcher-3-remastered-release-date-launch-times/",
-          "titre": "Here's The Witcher 3 Remastered release time for your region"
+          "url": "https://www.pcgamer.com/games/the-witcher/heres-a-few-minutes-of-me-being-bad-at-the-witcher-3s-remastered-combat/",
+          "titre": "Here's a few minutes of me being bad at The Witcher 3's remastered combat"
         },
         {
           "source": "Nintendo Life",
@@ -40,51 +40,9 @@ const VEILLE = {
       ]
     },
     {
-      "id": "playstation-controllers-may-have-built-in-credit-card-scanne",
-      "titre": "PlayStation Controllers May Have Built-In Credit Card Scanners One Day",
-      "url": "https://www.pushsquare.com/news/2026/09/playstation-controllers-may-have-built-in-credit-card-scanners-one-day",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 1.0,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/playstation-controllers-may-have-built-in-credit-card-scanners-one-day",
-          "titre": "PlayStation Controllers May Have Built-In Credit Card Scanners One Day"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sony-patents-playstation-controller-that-accepts-credit-card-payments/",
-          "titre": "Sony patents PlayStation controller that accepts credit card payments"
-        }
-      ]
-    },
-    {
-      "id": "latest-xbox-layoffs-reportedly-devastated-age-of-empires-dev",
-      "titre": "Latest Xbox layoffs reportedly devastated Age of Empires developer and canceled its next game",
-      "url": "https://www.pcgamer.com/gaming-industry/latest-xbox-layoffs-reportedly-devastated-age-of-empires-developer-and-canceled-its-next-game/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.2,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/latest-xbox-layoffs-reportedly-devastated-age-of-empires-developer-and-canceled-its-next-game/",
-          "titre": "Latest Xbox layoffs reportedly devastated Age of Empires developer and canceled its next game"
-        }
-      ]
-    },
-    {
-      "id": "fire-emblem-fortune-s-weave-sandworm-meat-location-to-recrui",
-      "titre": "Fire Emblem Fortune’s Weave: Sandworm Meat location to recruit Nezha",
-      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-sandworm-meat-location-to-recruit-nezha/",
+      "id": "fire-emblem-fortune-s-weave-torment-grass-location",
+      "titre": "Fire Emblem Fortune’s Weave: Torment Grass location",
+      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-torment-grass-location/",
       "sources": [
         "Nintendo Life",
         "VGC"
@@ -95,8 +53,8 @@ const VEILLE = {
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-sandworm-meat-location-to-recruit-nezha/",
-          "titre": "Fire Emblem Fortune’s Weave: Sandworm Meat location to recruit Nezha"
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-torment-grass-location/",
+          "titre": "Fire Emblem Fortune’s Weave: Torment Grass location"
         },
         {
           "source": "Nintendo Life",
@@ -114,7 +72,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 9,
       "liens": [
         {
@@ -138,7 +96,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 9,
       "liens": [
         {
@@ -154,6 +112,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "microsoft-ceo-says-xbox-is-simply-streamlining-after-cutting",
+      "titre": "Microsoft CEO says Xbox is simply 'streamlining' after cutting over 5,750 jobs in three years",
+      "url": "https://www.gamedeveloper.com/production/microsoft-ceo-says-xbox-is-streamlining-after-laying-off-5-750-workers-in-three-years",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 2.1,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/production/microsoft-ceo-says-xbox-is-streamlining-after-laying-off-5-750-workers-in-three-years",
+          "titre": "Microsoft CEO says Xbox is simply 'streamlining' after cutting over 5,750 jobs in three years"
+        }
+      ]
+    },
+    {
       "id": "review-runescape-dragonwilds-switch-2-a-slow-burn-survival-c",
       "titre": "Review: RuneScape: Dragonwilds (Switch 2) - A Slow-Burn Survival-Crafting RPG That Underwhelms Visually",
       "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/runescape-dragonwilds",
@@ -161,7 +137,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.4,
       "chaleur": 8,
       "liens": [
         {
@@ -172,38 +148,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-b",
-      "titre": "Microsoft boss Nadella says Xbox has to invent \"sustainable business model\"",
-      "url": "https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model",
+      "id": "playstation-controllers-may-have-built-in-credit-card-scanne",
+      "titre": "PlayStation Controllers May Have Built-In Credit Card Scanners One Day",
+      "url": "https://www.pushsquare.com/news/2026/09/playstation-controllers-may-have-built-in-credit-card-scanners-one-day",
       "sources": [
-        "GamesIndustry.biz"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 3.4,
+      "heures": 2.9,
       "chaleur": 8,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model",
-          "titre": "Microsoft boss Nadella says Xbox has to invent \"sustainable business model\""
-        }
-      ]
-    },
-    {
-      "id": "industry-insiders-and-tokyo-gossip-suggest-kojima-is-getting",
-      "titre": "Industry insiders and Tokyo gossip suggest Kojima is getting less money from Xbox than original PlayStation budget for Physint",
-      "url": "https://www.pcgamer.com/games/industry-insiders-and-tokyo-gossip-suggest-kojima-is-getting-less-money-from-xbox-than-original-playstation-budget-for-physint/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/industry-insiders-and-tokyo-gossip-suggest-kojima-is-getting-less-money-from-xbox-than-original-playstation-budget-for-physint/",
-          "titre": "Industry insiders and Tokyo gossip suggest Kojima is getting less money from Xbox than original PlayStation budget for Physint"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/playstation-controllers-may-have-built-in-credit-card-scanners-one-day",
+          "titre": "PlayStation Controllers May Have Built-In Credit Card Scanners One Day"
         }
       ]
     },
@@ -215,7 +173,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.0,
+      "heures": 24.0,
       "chaleur": 7,
       "liens": [
         {
@@ -460,6 +418,150 @@ const VEILLE = {
       ]
     },
     {
+      "id": "dark-souls-2-can-now-be-played-in-its-entirety-with-drop-in",
+      "titre": "Dark Souls 2 can now be played in its entirety with drop-in, drop-out co-op, thanks to its own seamless multiplayer mod",
+      "url": "https://www.eurogamer.net/dark-souls-2-seamless-co-op-mod",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dark-souls-2-seamless-co-op-mod",
+          "titre": "Dark Souls 2 can now be played in its entirety with drop-in, drop-out co-op, thanks to its own seamless multiplayer mod"
+        }
+      ]
+    },
+    {
+      "id": "vignette-vs-chromatic-aberration-which-is-worse",
+      "titre": "Vignette vs chromatic aberration - which is worse?",
+      "url": "https://www.pcgamer.com/hardware/vignette-vs-chromatic-aberration-which-is-worse/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vignette-vs-chromatic-aberration-which-is-worse/",
+          "titre": "Vignette vs chromatic aberration - which is worse?"
+        }
+      ]
+    },
+    {
+      "id": "wolverine-japanese-ps5-sales-down-massively-compared-to-spid",
+      "titre": "Wolverine Japanese PS5 Sales Down Massively Compared to Spider-Man",
+      "url": "https://www.pushsquare.com/news/2026/09/wolverine-japanese-ps5-sales-down-massively-compared-to-spider-man",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/wolverine-japanese-ps5-sales-down-massively-compared-to-spider-man",
+          "titre": "Wolverine Japanese PS5 Sales Down Massively Compared to Spider-Man"
+        }
+      ]
+    },
+    {
+      "id": "october-prime-day-gaming-mouse-deals",
+      "titre": "October Prime Day gaming mouse deals",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/best-prime-day-gaming-mouse-deals/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/best-prime-day-gaming-mouse-deals/",
+          "titre": "October Prime Day gaming mouse deals"
+        }
+      ]
+    },
+    {
+      "id": "if-you-want-an-early-taste-of-the-witcher-3-s-songs-of-the-p",
+      "titre": "If you want an early taste of The Witcher 3's Songs of the Past expansion, you can listen to five tracks from the OST right now",
+      "url": "https://www.eurogamer.net/the-witcher-3-songs-of-the-past-expansion-five-tracks-ost",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/the-witcher-3-songs-of-the-past-expansion-five-tracks-ost",
+          "titre": "If you want an early taste of The Witcher 3's Songs of the Past expansion, you can listen to five tracks from the OST right now"
+        }
+      ]
+    },
+    {
+      "id": "3-warhammer-40-000-sickos-share-their-strongest-held-beliefs",
+      "titre": "3 Warhammer 40,000 sickos share their strongest held beliefs—and you can vote on them",
+      "url": "https://www.pcgamer.com/games/strategy/3-warhammer-40-000-sickos-share-their-strongest-held-beliefs-and-you-can-vote-on-them/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/3-warhammer-40-000-sickos-share-their-strongest-held-beliefs-and-you-can-vote-on-them/",
+          "titre": "3 Warhammer 40,000 sickos share their strongest held beliefs—and you can vote on them"
+        }
+      ]
+    },
+    {
+      "id": "blizzard-gifts-diablo-4-players-one-of-the-game-s-rarest-cra",
+      "titre": "Blizzard gifts Diablo 4 players one of the game's rarest crafting materials to apologise for Season 15 issues",
+      "url": "https://www.eurogamer.net/diablo-4-free-gift-season-of-hells-legacy-server-issues",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/diablo-4-free-gift-season-of-hells-legacy-server-issues",
+          "titre": "Blizzard gifts Diablo 4 players one of the game's rarest crafting materials to apologise for Season 15 issues"
+        }
+      ]
+    },
+    {
+      "id": "we-didn-t-want-to-demonise-fetish-or-bdsm-people-aren-t-dyi",
+      "titre": "\"We didn't want to demonise fetish or BDSM\": People aren't dying in horror game Clive Barker's Hellraiser: Revival because of what they do in the bedroom",
+      "url": "https://www.rockpapershotgun.com/we-didnt-want-to-demonise-fetish-or-bdsm-people-arent-dying-in-horror-game-clive-barkers-hellraiser-revival-because-of-what-they-do-in-the-bedroom",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/we-didnt-want-to-demonise-fetish-or-bdsm-people-arent-dying-in-horror-game-clive-barkers-hellraiser-revival-because-of-what-they-do-in-the-bedroom",
+          "titre": "\"We didn't want to demonise fetish or BDSM\": People aren't dying in horror game Clive Barker's Hellraiser: Revival because of what they do in the bedroom"
+        }
+      ]
+    },
+    {
       "id": "call-of-duty-warzone-will-soon-make-it-possible-to-toggle-al",
       "titre": "Call of Duty: Warzone will soon make it possible to toggle all those silly skins off, something no one thought could ever happen",
       "url": "https://www.eurogamer.net/call-of-duty-warzone-skin-toggle-modern-warfare-4",
@@ -467,7 +569,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
@@ -485,7 +587,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -503,7 +605,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -521,7 +623,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -539,7 +641,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -557,7 +659,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -575,7 +677,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -586,56 +688,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "disgaea-creator-says-he-sees-ai-s-benefit-as-a-tool-but-has",
-      "titre": "Disgaea creator says he sees AI’s benefit as a tool but has ‘absolutely no interest’ in using it to write stories",
-      "url": "https://www.videogameschronicle.com/news/disgaea-creator-says-he-sees-ais-benefit-as-a-tool-but-has-absolutely-no-interest-in-using-it-to-write-stories/",
+      "id": "microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-b",
+      "titre": "Microsoft boss Nadella says Xbox has to invent \"sustainable business model\"",
+      "url": "https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model",
       "sources": [
-        "VGC"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 2.9,
+      "heures": 5.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/disgaea-creator-says-he-sees-ais-benefit-as-a-tool-but-has-absolutely-no-interest-in-using-it-to-write-stories/",
-          "titre": "Disgaea creator says he sees AI’s benefit as a tool but has ‘absolutely no interest’ in using it to write stories"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model",
+          "titre": "Microsoft boss Nadella says Xbox has to invent \"sustainable business model\""
         }
       ]
     },
     {
-      "id": "we-clearly-handled-that-responsibility-poorly-paradox-ban-d",
-      "titre": "\"We clearly handled that responsibility poorly\": Paradox ban Discord profile pics of historical figures born after 1800, after bust-up with Hearts of Iron 4 players over Atatürk banning",
-      "url": "https://www.rockpapershotgun.com/we-clearly-handled-that-responsibility-poorly-paradox-ban-discord-profile-pics-of-historical-figures-born-after-1800-after-bust-up-with-hearts-of-iron-4-players-over-ataturk-banning",
+      "id": "industry-insiders-and-tokyo-gossip-suggest-kojima-is-getting",
+      "titre": "Industry insiders and Tokyo gossip suggest Kojima is getting less money from Xbox than original PlayStation budget for Physint",
+      "url": "https://www.pcgamer.com/games/industry-insiders-and-tokyo-gossip-suggest-kojima-is-getting-less-money-from-xbox-than-original-playstation-budget-for-physint/",
       "sources": [
-        "Rock Paper Shotgun"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.9,
+      "heures": 13.1,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/we-clearly-handled-that-responsibility-poorly-paradox-ban-discord-profile-pics-of-historical-figures-born-after-1800-after-bust-up-with-hearts-of-iron-4-players-over-ataturk-banning",
-          "titre": "\"We clearly handled that responsibility poorly\": Paradox ban Discord profile pics of historical figures born after 1800, after bust-up with Hearts of Iron 4 players over Atatürk banning"
-        }
-      ]
-    },
-    {
-      "id": "video-game-release-dates-2026-new-games-coming-in-october-no",
-      "titre": "Video Game Release Dates 2026: New Games Coming in October, November & December",
-      "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/",
-          "titre": "Video Game Release Dates 2026: New Games Coming in October, November & December"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/industry-insiders-and-tokyo-gossip-suggest-kojima-is-getting-less-money-from-xbox-than-original-playstation-budget-for-physint/",
+          "titre": "Industry insiders and Tokyo gossip suggest Kojima is getting less money from Xbox than original PlayStation budget for Physint"
         }
       ]
     },
@@ -647,55 +731,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 6,
+      "heures": 12.5,
+      "chaleur": 5,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-great-haystack-slop-is-a-thing-now/",
           "titre": "Steam Week in Review: Great, haystack slop is a thing now"
-        }
-      ]
-    },
-    {
-      "id": "the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemin",
-      "titre": "The spiritual successor to classic JRPG Wild Arms has seemingly been cancelled, four years after its Kickstarter raised nearly $3 million",
-      "url": "https://www.pcgamer.com/games/rpg/the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemingly-been-cancelled-four-years-after-its-kickstarter-raised-nearly-usd3-million/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 23.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemingly-been-cancelled-four-years-after-its-kickstarter-raised-nearly-usd3-million/",
-          "titre": "The spiritual successor to classic JRPG Wild Arms has seemingly been cancelled, four years after its Kickstarter raised nearly $3 million"
-        }
-      ]
-    },
-    {
-      "id": "minecraft-is-getting-its-first-new-dimension-in-14-years-and",
-      "titre": "Minecraft is getting its first new dimension in 14 years, and it's called The Sift",
-      "url": "https://www.eurogamer.net/minecraft-the-sift-new-dimension-2027",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 25.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/minecraft-the-sift-new-dimension-2027",
-          "titre": "Minecraft is getting its first new dimension in 14 years, and it's called The Sift"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/minecraft-is-officially-getting-its-first-new-dimension-in-15-years/",
-          "titre": "Minecraft is officially getting its first new dimension in 15 years"
         }
       ]
     },
@@ -707,7 +749,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.5,
+      "heures": 26.4,
       "chaleur": 5,
       "liens": [
         {
@@ -725,13 +767,67 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.9,
+      "heures": 28.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/minecraft-300000-new-players-daily-minecraft",
           "titre": "Minecraft still gains around 300,000 new players a day, Xbox boss reveals"
+        }
+      ]
+    },
+    {
+      "id": "disgaea-creator-says-he-sees-ai-s-benefit-as-a-tool-but-has",
+      "titre": "Disgaea creator says he sees AI’s benefit as a tool but has ‘absolutely no interest’ in using it to write stories",
+      "url": "https://www.videogameschronicle.com/news/disgaea-creator-says-he-sees-ais-benefit-as-a-tool-but-has-absolutely-no-interest-in-using-it-to-write-stories/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/disgaea-creator-says-he-sees-ais-benefit-as-a-tool-but-has-absolutely-no-interest-in-using-it-to-write-stories/",
+          "titre": "Disgaea creator says he sees AI’s benefit as a tool but has ‘absolutely no interest’ in using it to write stories"
+        }
+      ]
+    },
+    {
+      "id": "we-clearly-handled-that-responsibility-poorly-paradox-ban-d",
+      "titre": "\"We clearly handled that responsibility poorly\": Paradox ban Discord profile pics of historical figures born after 1800, after bust-up with Hearts of Iron 4 players over Atatürk banning",
+      "url": "https://www.rockpapershotgun.com/we-clearly-handled-that-responsibility-poorly-paradox-ban-discord-profile-pics-of-historical-figures-born-after-1800-after-bust-up-with-hearts-of-iron-4-players-over-ataturk-banning",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/we-clearly-handled-that-responsibility-poorly-paradox-ban-discord-profile-pics-of-historical-figures-born-after-1800-after-bust-up-with-hearts-of-iron-4-players-over-ataturk-banning",
+          "titre": "\"We clearly handled that responsibility poorly\": Paradox ban Discord profile pics of historical figures born after 1800, after bust-up with Hearts of Iron 4 players over Atatürk banning"
+        }
+      ]
+    },
+    {
+      "id": "video-game-release-dates-2026-new-games-coming-in-october-no",
+      "titre": "Video Game Release Dates 2026: New Games Coming in October, November & December",
+      "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/",
+          "titre": "Video Game Release Dates 2026: New Games Coming in October, November & December"
         }
       ]
     },
@@ -743,7 +839,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -761,7 +857,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.2,
       "chaleur": 3,
       "liens": [
         {
@@ -779,7 +875,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -797,7 +893,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 18.9,
       "chaleur": 3,
       "liens": [
         {
@@ -815,7 +911,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 20.1,
       "chaleur": 3,
       "liens": [
         {
@@ -833,7 +929,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.4,
       "chaleur": 3,
       "liens": [
         {
@@ -851,31 +947,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.7,
+      "heures": 21.7,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/action/shadow-the-hedgehog-is-supposed-to-be-dead/",
           "titre": "Shadow the Hedgehog is supposed to be dead"
-        }
-      ]
-    },
-    {
-      "id": "william-pugh-co-designer-of-the-stanley-parable-has-over-1-6",
-      "titre": "William Pugh, co-designer of The Stanley Parable, has over 1,600 hours in Dota 2: 'It's not a game made of love. It's a game fuelled by hate and a desire to conquer'",
-      "url": "https://www.pcgamer.com/gaming-industry/william-pugh-co-designer-of-the-stanley-parable-has-over-1-600-hours-in-dota-2-its-not-a-game-made-of-love-its-a-game-fuelled-by-hate-and-a-desire-to-conquer/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/william-pugh-co-designer-of-the-stanley-parable-has-over-1-600-hours-in-dota-2-its-not-a-game-made-of-love-its-a-game-fuelled-by-hate-and-a-desire-to-conquer/",
-          "titre": "William Pugh, co-designer of The Stanley Parable, has over 1,600 hours in Dota 2: 'It's not a game made of love. It's a game fuelled by hate and a desire to conquer'"
         }
       ]
     },
@@ -887,7 +965,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.0,
+      "heures": 23.0,
       "chaleur": 3,
       "liens": [
         {
@@ -905,7 +983,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.4,
       "chaleur": 3,
       "liens": [
         {
@@ -916,38 +994,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "lords-of-the-end-times-greatest-fantasy-is-letting-us-rewrit",
-      "titre": "Lords of the End Times' greatest fantasy is letting us rewrite the most hated lore in Warhammer's history",
-      "url": "https://www.pcgamer.com/games/strategy/lords-of-the-end-times-greatest-fantasy-is-letting-us-rewrite-the-most-hated-lore-in-warhammers-history/",
+      "id": "minecraft-is-getting-its-first-new-dimension-in-14-years-and",
+      "titre": "Minecraft is getting its first new dimension in 14 years, and it's called The Sift",
+      "url": "https://www.eurogamer.net/minecraft-the-sift-new-dimension-2027",
       "sources": [
-        "PC Gamer"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 27.1,
       "chaleur": 3,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/lords-of-the-end-times-greatest-fantasy-is-letting-us-rewrite-the-most-hated-lore-in-warhammers-history/",
-          "titre": "Lords of the End Times' greatest fantasy is letting us rewrite the most hated lore in Warhammer's history"
-        }
-      ]
-    },
-    {
-      "id": "this-ambitious-half-life-2-mod-asks-what-if-iron-lung-had-a",
-      "titre": "This ambitious Half-Life 2 mod asks: what if Iron Lung had a submarine and an airship?",
-      "url": "https://www.pcgamer.com/games/horror/this-ambitious-half-life-2-mod-asks-what-if-iron-lung-had-a-submarine-and-an-airship/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 22.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/this-ambitious-half-life-2-mod-asks-what-if-iron-lung-had-a-submarine-and-an-airship/",
-          "titre": "This ambitious Half-Life 2 mod asks: what if Iron Lung had a submarine and an airship?"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/minecraft-the-sift-new-dimension-2027",
+          "titre": "Minecraft is getting its first new dimension in 14 years, and it's called The Sift"
         }
       ]
     },
@@ -959,7 +1019,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 27.4,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +1037,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.6,
+      "heures": 27.5,
       "chaleur": 3,
       "liens": [
         {
@@ -995,7 +1055,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.5,
+      "heures": 29.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1004,27 +1064,9 @@ const VEILLE = {
           "titre": "Feature: Box Art Brawl - Duel: Dragon Quest II (NES)"
         }
       ]
-    },
-    {
-      "id": "icymi-here-s-a-look-at-the-rayman-legends-retold-launch-edit",
-      "titre": "ICYMI: Here's A Look At The Rayman Legends Retold Launch Edition",
-      "url": "https://www.nintendolife.com/news/2026/09/icymi-heres-a-look-at-the-rayman-legends-retold-launch-edition",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 35.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/icymi-heres-a-look-at-the-rayman-legends-retold-launch-edition",
-          "titre": "ICYMI: Here's A Look At The Rayman Legends Retold Launch Edition"
-        }
-      ]
     }
   ],
   "alertes": [
-    "Here's The Witcher 3 Remastered release time for your region"
+    "Here's a few minutes of me being bad at The Witcher 3's remastered combat"
   ]
 };
