@@ -1,30 +1,36 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "28/09/2026 à 10h23",
+  "collecte": "28/09/2026 à 12h27",
   "seuil": 14,
   "sujets": [
     {
-      "id": "the-witcher-3-remastered-release-times-in-your-time-zone-and",
-      "titre": "The Witcher 3 Remastered release times in your time zone and update file size",
-      "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-release-times-in-your-time-zone-and-update-file-size/",
+      "id": "here-s-the-witcher-3-remastered-release-time-for-your-region",
+      "titre": "Here's The Witcher 3 Remastered release time for your region",
+      "url": "https://www.pcgamer.com/games/rpg/witcher-3-remastered-release-date-launch-times/",
       "sources": [
         "Nintendo Life",
+        "PC Gamer",
         "Push Square",
         "VGC"
       ],
-      "reprises": 3,
-      "heures": 0.1,
-      "chaleur": 12,
+      "reprises": 4,
+      "heures": 1.3,
+      "chaleur": 17,
       "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/witcher-3-remastered-release-date-launch-times/",
+          "titre": "Here's The Witcher 3 Remastered release time for your region"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/video-the-witcher-3-remastered-side-by-side-comparison-switch-vs-switch-2",
+          "titre": "Video: The Witcher 3 Remastered Side-By-Side Comparison, Switch Vs. Switch 2"
+        },
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-release-times-in-your-time-zone-and-update-file-size/",
           "titre": "The Witcher 3 Remastered release times in your time zone and update file size"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/psa-the-witcher-3-remastered-file-size-and-release-time-confirmed-separate-purchase-required",
-          "titre": "PSA: The Witcher 3 Remastered File Size And Release Time Confirmed, Separate Purchase Required"
         },
         {
           "source": "Push Square",
@@ -34,38 +40,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "minecraft-is-getting-its-first-new-dimension-in-14-years-and",
-      "titre": "Minecraft is getting its first new dimension in 14 years, and it's called The Sift",
-      "url": "https://www.eurogamer.net/minecraft-the-sift-new-dimension-2027",
+      "id": "playstation-controllers-may-have-built-in-credit-card-scanne",
+      "titre": "PlayStation Controllers May Have Built-In Credit Card Scanners One Day",
+      "url": "https://www.pushsquare.com/news/2026/09/playstation-controllers-may-have-built-in-credit-card-scanners-one-day",
       "sources": [
-        "Eurogamer",
-        "Nintendo Life",
-        "PC Gamer",
+        "Push Square",
         "VGC"
       ],
-      "reprises": 4,
-      "heures": 23.1,
-      "chaleur": 12,
+      "reprises": 2,
+      "heures": 1.0,
+      "chaleur": 11,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/minecraft-the-sift-new-dimension-2027",
-          "titre": "Minecraft is getting its first new dimension in 14 years, and it's called The Sift"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/minecraft-is-getting-its-first-new-dimension-in-15-years-and-it-is-riotously-pink/",
-          "titre": "Minecraft is getting its first new dimension in 15 years, and it is riotously pink"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/playstation-controllers-may-have-built-in-credit-card-scanners-one-day",
+          "titre": "PlayStation Controllers May Have Built-In Credit Card Scanners One Day"
         },
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/minecraft-is-officially-getting-its-first-new-dimension-in-15-years/",
-          "titre": "Minecraft is officially getting its first new dimension in 15 years"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/surprise-minecraft-is-getting-its-first-new-dimension-in-over-14-years",
-          "titre": "Surprise! Minecraft Is Getting Its First New Dimension In Over 14 Years"
+          "url": "https://www.videogameschronicle.com/news/sony-patents-playstation-controller-that-accepts-credit-card-payments/",
+          "titre": "Sony patents PlayStation controller that accepts credit card payments"
         }
       ]
     },
@@ -77,13 +71,103 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 20.2,
       "chaleur": 10,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/latest-xbox-layoffs-reportedly-devastated-age-of-empires-developer-and-canceled-its-next-game/",
           "titre": "Latest Xbox layoffs reportedly devastated Age of Empires developer and canceled its next game"
+        }
+      ]
+    },
+    {
+      "id": "fire-emblem-fortune-s-weave-sandworm-meat-location-to-recrui",
+      "titre": "Fire Emblem Fortune’s Weave: Sandworm Meat location to recruit Nezha",
+      "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-sandworm-meat-location-to-recruit-nezha/",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-sandworm-meat-location-to-recruit-nezha/",
+          "titre": "Fire Emblem Fortune’s Weave: Sandworm Meat location to recruit Nezha"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/uk-charts-fire-emblem-fortunes-weave-drops-to-number-8-as-fc-27-tops-the-podium",
+          "titre": "UK Charts: Fire Emblem: Fortune's Weave Drops To Number 8 As FC 27 Tops The Podium"
+        }
+      ]
+    },
+    {
+      "id": "god-of-war-laufey-ps5-editions-revealed-pre-order-tomorrow",
+      "titre": "God of War Laufey PS5 Editions Revealed, Pre-Order Tomorrow",
+      "url": "https://www.pushsquare.com/news/2026/09/god-of-war-laufey-ps5-editions-revealed-pre-order-tomorrow",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.2,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/god-of-war-laufey-ps5-editions-revealed-pre-order-tomorrow",
+          "titre": "God of War Laufey PS5 Editions Revealed, Pre-Order Tomorrow"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sony-details-god-of-war-laufeys-digital-deluxe-edition-contents-and-pre-order-bonus/",
+          "titre": "Sony details God of War Laufey’s Digital Deluxe Edition contents and pre-order bonus"
+        }
+      ]
+    },
+    {
+      "id": "i-m-sure-whoever-chose-to-charge-for-wow-forever-beta-access",
+      "titre": "I'm sure whoever chose to charge for WoW: Forever beta access is feeling very chuffed, given Blizzard's had to expand its server size a second time",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/im-sure-whoever-chose-to-charge-for-wow-forever-beta-access-is-feeling-very-chuffed-given-blizzards-had-to-expand-its-server-size-a-second-time/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 1.6,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/im-sure-whoever-chose-to-charge-for-wow-forever-beta-access-is-feeling-very-chuffed-given-blizzards-had-to-expand-its-server-size-a-second-time/",
+          "titre": "I'm sure whoever chose to charge for WoW: Forever beta access is feeling very chuffed, given Blizzard's had to expand its server size a second time"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/world-of-warcraft-forever-beta-server-cap-increase",
+          "titre": "As World of Warcraft: Forever's beta popularity grows, Blizzard has yet again had to increase the server cap"
+        }
+      ]
+    },
+    {
+      "id": "review-runescape-dragonwilds-switch-2-a-slow-burn-survival-c",
+      "titre": "Review: RuneScape: Dragonwilds (Switch 2) - A Slow-Burn Survival-Crafting RPG That Underwhelms Visually",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/runescape-dragonwilds",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/runescape-dragonwilds",
+          "titre": "Review: RuneScape: Dragonwilds (Switch 2) - A Slow-Burn Survival-Crafting RPG That Underwhelms Visually"
         }
       ]
     },
@@ -95,7 +179,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.4,
       "chaleur": 8,
       "liens": [
         {
@@ -113,7 +197,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.1,
       "chaleur": 7,
       "liens": [
         {
@@ -131,7 +215,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 22.0,
       "chaleur": 7,
       "liens": [
         {
@@ -376,6 +460,132 @@ const VEILLE = {
       ]
     },
     {
+      "id": "call-of-duty-warzone-will-soon-make-it-possible-to-toggle-al",
+      "titre": "Call of Duty: Warzone will soon make it possible to toggle all those silly skins off, something no one thought could ever happen",
+      "url": "https://www.eurogamer.net/call-of-duty-warzone-skin-toggle-modern-warfare-4",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/call-of-duty-warzone-skin-toggle-modern-warfare-4",
+          "titre": "Call of Duty: Warzone will soon make it possible to toggle all those silly skins off, something no one thought could ever happen"
+        }
+      ]
+    },
+    {
+      "id": "tour-dates-and-pre-order-times-officially-confirmed-for-cast",
+      "titre": "Tour dates and pre-order times officially confirmed for Castlevania 40th Anniversary concert",
+      "url": "https://www.videogameschronicle.com/news/tour-dates-and-pre-order-times-officially-confirmed-for-castlevania-40th-anniversary-concert/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/tour-dates-and-pre-order-times-officially-confirmed-for-castlevania-40th-anniversary-concert/",
+          "titre": "Tour dates and pre-order times officially confirmed for Castlevania 40th Anniversary concert"
+        }
+      ]
+    },
+    {
+      "id": "this-week-in-pc-games-new-ace-combat-transport-fever-3-and-a",
+      "titre": "This week in PC games: new Ace Combat, Transport Fever 3, and a System Shock-alike set on a disco space station",
+      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-new-ace-combat-transport-fever-3-and-a-system-shock-alike-set-on-a-disco-space-station",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-new-ace-combat-transport-fever-3-and-a-system-shock-alike-set-on-a-disco-space-station",
+          "titre": "This week in PC games: new Ace Combat, Transport Fever 3, and a System Shock-alike set on a disco space station"
+        }
+      ]
+    },
+    {
+      "id": "arc-raiders-is-messing-with-your-loot-hotspots-to-make-games",
+      "titre": "Arc Raiders is messing with your loot hotspots to make games more exciting",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-messing-with-your-loot-hotspots-to-make-games-more-exciting/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-messing-with-your-loot-hotspots-to-make-games-more-exciting/",
+          "titre": "Arc Raiders is messing with your loot hotspots to make games more exciting"
+        }
+      ]
+    },
+    {
+      "id": "wardogs-studio-chief-brammer-insists-he-isn-t-pro-crunch-i-a",
+      "titre": "Wardogs studio chief Brammer insists he isn't \"pro crunch, I am pro hard work\"",
+      "url": "https://www.gamesindustry.biz/wardogs-studio-chief-brammer-insists-he-isnt-pro-crunch-i-am-pro-hard-work",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/wardogs-studio-chief-brammer-insists-he-isnt-pro-crunch-i-am-pro-hard-work",
+          "titre": "Wardogs studio chief Brammer insists he isn't \"pro crunch, I am pro hard work\""
+        }
+      ]
+    },
+    {
+      "id": "guide-these-21-ps5-and-ps-plus-games-are-coming-out-this-wee",
+      "titre": "Guide: These 21+ PS5 and PS Plus Games Are Coming Out This Week (28th-4th October)",
+      "url": "https://www.pushsquare.com/guides/these-21plus-ps5-and-ps-plus-games-are-coming-out-this-week-28th-4th-october",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-21plus-ps5-and-ps-plus-games-are-coming-out-this-week-28th-4th-october",
+          "titre": "Guide: These 21+ PS5 and PS Plus Games Are Coming Out This Week (28th-4th October)"
+        }
+      ]
+    },
+    {
+      "id": "the-elder-scrolls-never-got-a-spin-off-like-fallout-new-vega",
+      "titre": "The Elder Scrolls never got a spin-off like Fallout: New Vegas because Todd Howard is protective of the IP, former dev says",
+      "url": "https://www.videogameschronicle.com/news/the-elder-scrolls-never-got-a-spin-off-like-fallout-new-vegas-because-todd-howard-is-protective-of-the-ip-former-dev-says/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-elder-scrolls-never-got-a-spin-off-like-fallout-new-vegas-because-todd-howard-is-protective-of-the-ip-former-dev-says/",
+          "titre": "The Elder Scrolls never got a spin-off like Fallout: New Vegas because Todd Howard is protective of the IP, former dev says"
+        }
+      ]
+    },
+    {
       "id": "disgaea-creator-says-he-sees-ai-s-benefit-as-a-tool-but-has",
       "titre": "Disgaea creator says he sees AI’s benefit as a tool but has ‘absolutely no interest’ in using it to write stories",
       "url": "https://www.videogameschronicle.com/news/disgaea-creator-says-he-sees-ais-benefit-as-a-tool-but-has-absolutely-no-interest-in-using-it-to-write-stories/",
@@ -383,7 +593,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -401,7 +611,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -419,67 +629,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/",
           "titre": "Video Game Release Dates 2026: New Games Coming in October, November & December"
-        }
-      ]
-    },
-    {
-      "id": "uk-charts-fire-emblem-fortune-s-weave-drops-to-number-8-as-f",
-      "titre": "UK Charts: Fire Emblem: Fortune's Weave Drops To Number 8 As FC 27 Tops The Podium",
-      "url": "https://www.nintendolife.com/news/2026/09/uk-charts-fire-emblem-fortunes-weave-drops-to-number-8-as-fc-27-tops-the-podium",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/uk-charts-fire-emblem-fortunes-weave-drops-to-number-8-as-fc-27-tops-the-podium",
-          "titre": "UK Charts: Fire Emblem: Fortune's Weave Drops To Number 8 As FC 27 Tops The Podium"
-        }
-      ]
-    },
-    {
-      "id": "as-world-of-warcraft-forever-s-beta-popularity-grows-blizzar",
-      "titre": "As World of Warcraft: Forever's beta popularity grows, Blizzard has yet again had to increase the server cap",
-      "url": "https://www.eurogamer.net/world-of-warcraft-forever-beta-server-cap-increase",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 1.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/world-of-warcraft-forever-beta-server-cap-increase",
-          "titre": "As World of Warcraft: Forever's beta popularity grows, Blizzard has yet again had to increase the server cap"
-        }
-      ]
-    },
-    {
-      "id": "marvel-s-wolverine-finally-lets-you-turn-off-fart-gas-scent",
-      "titre": "Marvel's Wolverine finally lets you turn off \"fart gas\" scent trails completely, but there's a catch",
-      "url": "https://www.eurogamer.net/marvels-wolverine-patch-turn-off-scent-trails",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marvels-wolverine-patch-turn-off-scent-trails",
-          "titre": "Marvel's Wolverine finally lets you turn off \"fart gas\" scent trails completely, but there's a catch"
         }
       ]
     },
@@ -491,7 +647,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.5,
       "chaleur": 6,
       "liens": [
         {
@@ -509,13 +665,37 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.8,
+      "heures": 23.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/rpg/the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemingly-been-cancelled-four-years-after-its-kickstarter-raised-nearly-usd3-million/",
           "titre": "The spiritual successor to classic JRPG Wild Arms has seemingly been cancelled, four years after its Kickstarter raised nearly $3 million"
+        }
+      ]
+    },
+    {
+      "id": "minecraft-is-getting-its-first-new-dimension-in-14-years-and",
+      "titre": "Minecraft is getting its first new dimension in 14 years, and it's called The Sift",
+      "url": "https://www.eurogamer.net/minecraft-the-sift-new-dimension-2027",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 25.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/minecraft-the-sift-new-dimension-2027",
+          "titre": "Minecraft is getting its first new dimension in 14 years, and it's called The Sift"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/minecraft-is-officially-getting-its-first-new-dimension-in-15-years/",
+          "titre": "Minecraft is officially getting its first new dimension in 15 years"
         }
       ]
     },
@@ -527,7 +707,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.5,
       "chaleur": 5,
       "liens": [
         {
@@ -545,7 +725,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.9,
+      "heures": 26.9,
       "chaleur": 5,
       "liens": [
         {
@@ -556,38 +736,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sony-patents-playstation-controller-that-accepts-credit-card",
-      "titre": "Sony patents PlayStation controller that accepts credit card payments",
-      "url": "https://www.videogameschronicle.com/news/sony-patents-playstation-controller-that-accepts-credit-card-payments/",
+      "id": "marvel-s-wolverine-finally-lets-you-turn-off-fart-gas-scent",
+      "titre": "Marvel's Wolverine finally lets you turn off \"fart gas\" scent trails completely, but there's a catch",
+      "url": "https://www.eurogamer.net/marvels-wolverine-patch-turn-off-scent-trails",
       "sources": [
-        "VGC"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.5,
-      "chaleur": 5,
+      "heures": 4.3,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sony-patents-playstation-controller-that-accepts-credit-card-payments/",
-          "titre": "Sony patents PlayStation controller that accepts credit card payments"
-        }
-      ]
-    },
-    {
-      "id": "the-next-retro-games-coming-to-steam-are-a-pair-of-extremely",
-      "titre": "The next retro games coming to Steam are a pair of extremely 1990s run-and-gunners where Spanish Goku fights mutants",
-      "url": "https://www.pcgamer.com/games/action/the-next-retro-games-coming-to-steam-are-a-pair-of-extremely-1990s-run-and-gunners-where-spanish-goku-fights-mutants/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 31.7,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/the-next-retro-games-coming-to-steam-are-a-pair-of-extremely-1990s-run-and-gunners-where-spanish-goku-fights-mutants/",
-          "titre": "The next retro games coming to Steam are a pair of extremely 1990s run-and-gunners where Spanish Goku fights mutants"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/marvels-wolverine-patch-turn-off-scent-trails",
+          "titre": "Marvel's Wolverine finally lets you turn off \"fart gas\" scent trails completely, but there's a catch"
         }
       ]
     },
@@ -599,8 +761,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -617,8 +779,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -635,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 17.0,
       "chaleur": 3,
       "liens": [
         {
@@ -653,7 +815,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.1,
       "chaleur": 3,
       "liens": [
         {
@@ -671,7 +833,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -689,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.7,
+      "heures": 19.7,
       "chaleur": 3,
       "liens": [
         {
@@ -707,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.5,
       "chaleur": 3,
       "liens": [
         {
@@ -725,7 +887,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.0,
+      "heures": 21.0,
       "chaleur": 3,
       "liens": [
         {
@@ -743,7 +905,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.5,
       "chaleur": 3,
       "liens": [
         {
@@ -761,7 +923,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.5,
       "chaleur": 3,
       "liens": [
         {
@@ -779,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.7,
+      "heures": 22.7,
       "chaleur": 3,
       "liens": [
         {
@@ -797,7 +959,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.5,
       "chaleur": 3,
       "liens": [
         {
@@ -815,7 +977,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 25.6,
       "chaleur": 3,
       "liens": [
         {
@@ -833,7 +995,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.5,
       "chaleur": 3,
       "liens": [
         {
@@ -851,7 +1013,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.4,
+      "heures": 35.5,
       "chaleur": 3,
       "liens": [
         {
@@ -860,25 +1022,9 @@ const VEILLE = {
           "titre": "ICYMI: Here's A Look At The Rayman Legends Retold Launch Edition"
         }
       ]
-    },
-    {
-      "id": "between-70-and-80-of-blood-bowl-3-games-were-solo",
-      "titre": "Between 70 and 80% of Blood Bowl 3 games were solo",
-      "url": "https://www.pcgamer.com/games/strategy/between-70-and-80-percent-of-blood-bowl-3-games-were-solo/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 33.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/between-70-and-80-percent-of-blood-bowl-3-games-were-solo/",
-          "titre": "Between 70 and 80% of Blood Bowl 3 games were solo"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Here's The Witcher 3 Remastered release time for your region"
+  ]
 };
