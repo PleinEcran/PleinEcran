@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "28/09/2026 à 06h29",
+  "collecte": "28/09/2026 à 08h25",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 19.1,
+      "heures": 21.1,
       "chaleur": 12,
       "liens": [
         {
@@ -47,7 +47,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.2,
       "chaleur": 10,
       "liens": [
         {
@@ -58,44 +58,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-is-reportedly-paying-a-fraction-of-the-400-million-koji",
-      "titre": "Xbox is reportedly paying a \"fraction\" of the $400 million Kojima quoted Sony for Physint",
-      "url": "https://www.eurogamer.net/xbox-kojima-physint-budget-fraction-400-million",
+      "id": "psa-the-witcher-3-remastered-file-size-and-release-time-conf",
+      "titre": "PSA: The Witcher 3 Remastered File Size And Release Time Confirmed, Separate Purchase Required",
+      "url": "https://www.nintendolife.com/news/2026/09/psa-the-witcher-3-remastered-file-size-and-release-time-confirmed-separate-purchase-required",
       "sources": [
-        "Eurogamer",
+        "Nintendo Life",
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 16.1,
-      "chaleur": 10,
+      "heures": 0.4,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-kojima-physint-budget-fraction-400-million",
-          "titre": "Xbox is reportedly paying a \"fraction\" of the $400 million Kojima quoted Sony for Physint"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/psa-the-witcher-3-remastered-file-size-and-release-time-confirmed-separate-purchase-required",
+          "titre": "PSA: The Witcher 3 Remastered File Size And Release Time Confirmed, Separate Purchase Required"
         },
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint",
-          "titre": "Xbox Allegedly Paying a 'Fraction' of the $400 Million Budget Kojima Is Rumoured to Have Quoted Sony for Physint"
-        }
-      ]
-    },
-    {
-      "id": "microsoft-ceo-says-xbox-s-streamlining-is-great-to-see-despi",
-      "titre": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs",
-      "url": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.2,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
-          "titre": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs"
+          "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-a-45gb-ps5-patch-release-times-revealed",
+          "titre": "The Witcher 3 Remastered a 45GB PS5 Patch, Release Times Revealed"
         }
       ]
     },
@@ -107,13 +89,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.1,
       "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/industry-insiders-and-tokyo-gossip-suggest-kojima-is-getting-less-money-from-xbox-than-original-playstation-budget-for-physint/",
           "titre": "Industry insiders and Tokyo gossip suggest Kojima is getting less money from Xbox than original PlayStation budget for Physint"
+        }
+      ]
+    },
+    {
+      "id": "xbox-is-reportedly-paying-a-fraction-of-the-400-million-koji",
+      "titre": "Xbox is reportedly paying a \"fraction\" of the $400 million Kojima quoted Sony for Physint",
+      "url": "https://www.eurogamer.net/xbox-kojima-physint-budget-fraction-400-million",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 18.0,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-kojima-physint-budget-fraction-400-million",
+          "titre": "Xbox is reportedly paying a \"fraction\" of the $400 million Kojima quoted Sony for Physint"
         }
       ]
     },
@@ -352,6 +352,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "marvel-s-wolverine-finally-lets-you-turn-off-fart-gas-scent",
+      "titre": "Marvel's Wolverine finally lets you turn off \"fart gas\" scent trails completely, but there's a catch",
+      "url": "https://www.eurogamer.net/marvels-wolverine-patch-turn-off-scent-trails",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/marvels-wolverine-patch-turn-off-scent-trails",
+          "titre": "Marvel's Wolverine finally lets you turn off \"fart gas\" scent trails completely, but there's a catch"
+        }
+      ]
+    },
+    {
       "id": "steam-week-in-review-great-haystack-slop-is-a-thing-now",
       "titre": "Steam Week in Review: Great, haystack slop is a thing now",
       "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-great-haystack-slop-is-a-thing-now/",
@@ -359,7 +377,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.5,
       "chaleur": 6,
       "liens": [
         {
@@ -377,7 +395,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 19.8,
       "chaleur": 6,
       "liens": [
         {
@@ -395,7 +413,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.5,
+      "heures": 20.4,
       "chaleur": 5,
       "liens": [
         {
@@ -413,7 +431,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.9,
+      "heures": 22.9,
       "chaleur": 5,
       "liens": [
         {
@@ -431,7 +449,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 22.6,
+      "heures": 24.5,
       "chaleur": 5,
       "liens": [
         {
@@ -449,31 +467,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 27.7,
+      "heures": 29.7,
       "chaleur": 5,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/action/the-next-retro-games-coming-to-steam-are-a-pair-of-extremely-1990s-run-and-gunners-where-spanish-goku-fights-mutants/",
           "titre": "The next retro games coming to Steam are a pair of extremely 1990s run-and-gunners where Spanish Goku fights mutants"
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-remastered-a-45gb-ps5-patch-release-times-reve",
-      "titre": "The Witcher 3 Remastered a 45GB PS5 Patch, Release Times Revealed",
-      "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-a-45gb-ps5-patch-release-times-revealed",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 5.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-a-45gb-ps5-patch-release-times-revealed",
-          "titre": "The Witcher 3 Remastered a 45GB PS5 Patch, Release Times Revealed"
         }
       ]
     },
@@ -485,7 +485,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -503,7 +503,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -521,8 +521,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -539,7 +539,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.1,
       "chaleur": 3,
       "liens": [
         {
@@ -557,7 +557,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -575,7 +575,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 15.7,
       "chaleur": 3,
       "liens": [
         {
@@ -593,7 +593,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -611,7 +611,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 17.0,
       "chaleur": 3,
       "liens": [
         {
@@ -629,7 +629,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -647,7 +647,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -665,7 +665,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.8,
+      "heures": 18.7,
       "chaleur": 3,
       "liens": [
         {
@@ -683,7 +683,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.4,
       "chaleur": 3,
       "liens": [
         {
@@ -701,7 +701,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 21.5,
       "chaleur": 3,
       "liens": [
         {
@@ -719,7 +719,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.4,
       "chaleur": 3,
       "liens": [
         {
@@ -737,7 +737,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.5,
+      "heures": 29.4,
       "chaleur": 3,
       "liens": [
         {
@@ -755,7 +755,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.5,
+      "heures": 31.4,
       "chaleur": 3,
       "liens": [
         {
@@ -773,7 +773,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 29.8,
+      "heures": 31.7,
       "chaleur": 3,
       "liens": [
         {
@@ -791,7 +791,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 32.6,
+      "heures": 34.5,
       "chaleur": 3,
       "liens": [
         {
@@ -809,49 +809,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 34.0,
+      "heures": 36.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/suplex-and-shatter-glass-enemies-after-being-in-prison-for-committing-a-cardinal-crime-in-the-psychological-horror-beat-em-up-brokensides",
           "titre": "Suplex and shatter glass enemies after being in prison for committing a cardinal crime in the psychological horror beat 'em up Brokensides"
-        }
-      ]
-    },
-    {
-      "id": "feature-going-platinum-sonic-origins-sends-me-back-to-the-ge",
-      "titre": "Feature: Going Platinum: Sonic Origins Sends Me Back to the Genesis of My Own Gaming History",
-      "url": "https://www.pushsquare.com/features/going-platinum-sonic-origins-sends-me-back-to-the-genesis-of-my-own-gaming-history",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/going-platinum-sonic-origins-sends-me-back-to-the-genesis-of-my-own-gaming-history",
-          "titre": "Feature: Going Platinum: Sonic Origins Sends Me Back to the Genesis of My Own Gaming History"
-        }
-      ]
-    },
-    {
-      "id": "another-live-service-ps5-game-bites-the-dust-but-it-ll-be-tr",
-      "titre": "Another Live Service PS5 Game Bites the Dust, But It'll Be Transformed into an Offline Title",
-      "url": "https://www.pushsquare.com/news/2026/09/another-live-service-ps5-game-bites-the-dust-but-itll-be-transformed-into-an-offline-title",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/another-live-service-ps5-game-bites-the-dust-but-itll-be-transformed-into-an-offline-title",
-          "titre": "Another Live Service PS5 Game Bites the Dust, But It'll Be Transformed into an Offline Title"
         }
       ]
     }
