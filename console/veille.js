@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "29/09/2026 à 18h26",
+  "collecte": "29/09/2026 à 20h22",
   "seuil": 14,
   "sujets": [
     {
@@ -10,12 +10,11 @@ const VEILLE = {
       "sources": [
         "Eurogamer",
         "Nintendo Life",
-        "Push Square",
         "VGC"
       ],
-      "reprises": 4,
-      "heures": 2.0,
-      "chaleur": 17,
+      "reprises": 3,
+      "heures": 4.0,
+      "chaleur": 14,
       "liens": [
         {
           "source": "Eurogamer",
@@ -28,11 +27,6 @@ const VEILLE = {
           "titre": "Witcher 3 Remastered: Simulate Witcher 2 save, on or off?"
         },
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-available-to-download-now",
-          "titre": "The Witcher 3 Remastered Available to Download Now"
-        },
-        {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/round-up-the-first-reviews-for-the-witcher-3-remastered-are-in",
           "titre": "Round Up: The First Reviews For The Witcher 3 Remastered Are In"
@@ -40,26 +34,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "more-nintendo-lego-sets-are-being-retired-this-year",
-      "titre": "More Nintendo LEGO Sets Are Being Retired This Year",
-      "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
+      "id": "the-algorithm-comes-for-steam-s-discounts-and-events",
+      "titre": "The algorithm comes for Steam's Discounts and Events",
+      "url": "https://www.pcgamer.com/games/the-algorithm-comes-for-steams-discounts-and-events/",
       "sources": [
-        "Nintendo Life",
-        "VGC"
+        "PC Gamer",
+        "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 3.9,
+      "heures": 0.3,
       "chaleur": 11,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
-          "titre": "More Nintendo LEGO Sets Are Being Retired This Year"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-algorithm-comes-for-steams-discounts-and-events/",
+          "titre": "The algorithm comes for Steam's Discounts and Events"
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/34-video-game-lego-sets-are-retiring-at-the-end-of-the-year-including-animal-crossing-horizon-and-sonic-sets/",
-          "titre": "34 video game Lego sets are retiring at the end of the year, including Animal Crossing, Horizon and Sonic sets"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/valve-is-changing-steams-homepage-discounts-and-events-section-to-go-the-way-of-the-algorithm-to-get-you-to-look-at-and-buy-obviously-more-games",
+          "titre": "Valve is changing Steam's homepage discounts and events section to go the way of the algorithm to get you to look at, and buy, obviously, more games"
         }
       ]
     },
@@ -72,7 +66,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 6.4,
+      "heures": 8.3,
       "chaleur": 10,
       "liens": [
         {
@@ -95,7 +89,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.1,
       "chaleur": 9,
       "liens": [
         {
@@ -106,26 +100,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "live-from-nivalis-nights-a-nightly-photo-journal-of-my-cyber",
-      "titre": "Live from Nivalis Nights: A nightly photo journal of my cyberpunk noodle bar",
-      "url": "https://www.pcgamer.com/games/live/live-from-nivalis-nights-a-nightly-photo-journal-of-my-cyberpunk-noodle-bar/",
+      "id": "naughty-dog-is-working-on-new-the-last-of-us-projects",
+      "titre": "Naughty Dog is working on new The Last Of Us 'projects'",
+      "url": "https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-last-of-us-projects-",
       "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
+        "Eurogamer",
+        "Game Developer"
       ],
       "reprises": 2,
-      "heures": 0.3,
+      "heures": 2.5,
       "chaleur": 9,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/live/live-from-nivalis-nights-a-nightly-photo-journal-of-my-cyberpunk-noodle-bar/",
-          "titre": "Live from Nivalis Nights: A nightly photo journal of my cyberpunk noodle bar"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-last-of-us-projects-",
+          "titre": "Naughty Dog is working on new The Last Of Us 'projects'"
         },
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/set-up-your-own-ramen-bar-and-explore-a-voxel-cyberpunk-city-in-the-slice-of-lifey-nivalis-nights-out-now",
-          "titre": "Set up your own ramen bar and explore a voxel cyberpunk city in the slice-of-lifey Nivalis Nights, out now"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/naughty-dog-confirms-two-more-the-last-of-us-projects-are-in-the-works-wont-show-off-intergalactic-the-heretic-prophet-until-2027",
+          "titre": "Naughty Dog confirms two more The Last of Us projects are in the works, won't show off Intergalactic: The Heretic Prophet until 2027"
         }
       ]
     },
@@ -137,7 +131,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.1,
       "chaleur": 9,
       "liens": [
         {
@@ -155,7 +149,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 9,
       "liens": [
         {
@@ -173,13 +167,73 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 3.9,
       "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/an-ode-to-the-loveable-horrible-wonderful-counter-strike-community-and-my-first-tournament-experience/",
           "titre": "An ode to the loveable, horrible, wonderful Counter-Strike community and my first tournament experience"
+        }
+      ]
+    },
+    {
+      "id": "more-nintendo-lego-sets-are-being-retired-this-year",
+      "titre": "More Nintendo LEGO Sets Are Being Retired This Year",
+      "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 5.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
+          "titre": "More Nintendo LEGO Sets Are Being Retired This Year"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/34-video-game-lego-sets-are-retiring-at-the-end-of-the-year-including-animal-crossing-horizon-and-sonic-sets/",
+          "titre": "34 video game Lego sets are retiring at the end of the year, including Animal Crossing, Horizon and Sonic sets"
+        }
+      ]
+    },
+    {
+      "id": "why-so-many-steam-games-have-weirdly-similar-and-forgettable",
+      "titre": "Why so many Steam games have weirdly similar (and forgettable) names",
+      "url": "https://www.pcgamer.com/games/why-so-many-steam-games-have-weirdly-similar-and-forgettable-names/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/why-so-many-steam-games-have-weirdly-similar-and-forgettable-names/",
+          "titre": "Why so many Steam games have weirdly similar (and forgettable) names"
+        }
+      ]
+    },
+    {
+      "id": "review-mobapad-c2-lite-controller-the-best-budget-pad-for-sw",
+      "titre": "Review: Mobapad C2 Lite Controller - The Best Budget Pad For Switch 2? Probably",
+      "url": "https://www.nintendolife.com/reviews/mobapad-c2-lite-controller-the-best-budget-pad-for-switch-2-probably",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/mobapad-c2-lite-controller-the-best-budget-pad-for-switch-2-probably",
+          "titre": "Review: Mobapad C2 Lite Controller - The Best Budget Pad For Switch 2? Probably"
         }
       ]
     },
@@ -192,8 +246,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 2.9,
-      "chaleur": 9,
+      "heures": 4.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -216,8 +270,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 3.4,
-      "chaleur": 9,
+      "heures": 5.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -232,42 +286,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "review-mobapad-c2-lite-controller-the-best-budget-pad-for-sw",
-      "titre": "Review: Mobapad C2 Lite Controller - The Best Budget Pad For Switch 2? Probably",
-      "url": "https://www.nintendolife.com/reviews/mobapad-c2-lite-controller-the-best-budget-pad-for-switch-2-probably",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/mobapad-c2-lite-controller-the-best-budget-pad-for-switch-2-probably",
-          "titre": "Review: Mobapad C2 Lite Controller - The Best Budget Pad For Switch 2? Probably"
-        }
-      ]
-    },
-    {
-      "id": "persona-sales-report-confirms-north-america-as-series-bigges",
-      "titre": "Persona Sales Report Confirms North America as Series' Biggest Market",
-      "url": "https://www.pushsquare.com/news/2026/09/persona-sales-report-confirms-north-america-as-series-biggest-market",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/persona-sales-report-confirms-north-america-as-series-biggest-market",
-          "titre": "Persona Sales Report Confirms North America as Series' Biggest Market"
-        }
-      ]
-    },
-    {
       "id": "witcher-3-remastered-best-console-graphics-mode-performance",
       "titre": "Witcher 3 Remastered best console graphics mode: Performance vs Ray Tracing",
       "url": "https://www.videogameschronicle.com/guide/the-witcher-3-remastered-best-console-graphics-mode-performance-vs-ray-tracing/",
@@ -276,7 +294,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.4,
+      "heures": 6.3,
       "chaleur": 7,
       "liens": [
         {
@@ -299,7 +317,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 7,
       "liens": [
         {
@@ -317,7 +335,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 27.0,
+      "heures": 29.0,
       "chaleur": 7,
       "liens": [
         {
@@ -508,38 +526,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "london-games-festival",
-      "titre": "London Games Festival",
-      "url": "https://www.gamedeveloper.comgames.london",
+      "id": "former-dying-light-franchise-lead-joins-bloober-team-horror",
+      "titre": "Former Dying Light franchise lead joins Bloober Team horror imprint Broken Mirror Games",
+      "url": "https://www.gamedeveloper.com/business/former-dying-light-franchise-lead-joins-bloober-team-horror-imprint-broken-mirror-games",
       "sources": [
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 0.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
-          "url": "https://www.gamedeveloper.comgames.london",
-          "titre": "London Games Festival"
+          "url": "https://www.gamedeveloper.com/business/former-dying-light-franchise-lead-joins-bloober-team-horror-imprint-broken-mirror-games",
+          "titre": "Former Dying Light franchise lead joins Bloober Team horror imprint Broken Mirror Games"
         }
       ]
     },
     {
-      "id": "pax-east",
-      "titre": "PAX East",
-      "url": "https://www.gamedeveloper.com/series/pax-east",
+      "id": "007-first-light-dlc-teased-more-info-on-thursday",
+      "titre": "007 First Light DLC Teased, More Info on Thursday",
+      "url": "https://www.pushsquare.com/news/2026/09/007-first-light-dlc-teased-more-info-on-thursday",
       "sources": [
-        "Game Developer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 0.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/series/pax-east",
-          "titre": "PAX East"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/007-first-light-dlc-teased-more-info-on-thursday",
+          "titre": "007 First Light DLC Teased, More Info on Thursday"
+        }
+      ]
+    },
+    {
+      "id": "you-will-not-be-using-belts-satisfactory-s-first-expansion",
+      "titre": "\"You will not be using belts\": Satisfactory's first expansion isn't the same game set underground - there's a whole new set of resource-moving toys to master",
+      "url": "https://www.rockpapershotgun.com/you-will-not-be-using-belts-satisfactorys-first-expansion-isnt-the-same-game-set-underground-theres-a-whole-new-set-of-resource-moving-toys-to-master",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/you-will-not-be-using-belts-satisfactorys-first-expansion-isnt-the-same-game-set-underground-theres-a-whole-new-set-of-resource-moving-toys-to-master",
+          "titre": "\"You will not be using belts\": Satisfactory's first expansion isn't the same game set underground - there's a whole new set of resource-moving toys to master"
+        }
+      ]
+    },
+    {
+      "id": "ghost-of-yotei-complete-edition-gets-awesome-astro-bot-journ",
+      "titre": "Ghost of Yotei: Complete Edition Gets Awesome Astro Bot, Journey, Helldivers Armour Sets",
+      "url": "https://www.pushsquare.com/news/2026/09/ghost-of-yotei-complete-edition-gets-awesome-astro-bot-journey-helldivers-armour-sets",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/ghost-of-yotei-complete-edition-gets-awesome-astro-bot-journey-helldivers-armour-sets",
+          "titre": "Ghost of Yotei: Complete Edition Gets Awesome Astro Bot, Journey, Helldivers Armour Sets"
         }
       ]
     },
@@ -551,7 +605,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +623,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -587,7 +641,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -605,7 +659,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -623,7 +677,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -641,7 +695,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -652,218 +706,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "fantastic-sandbox-cop-game-the-precinct-gets-a-huge-update-o",
-      "titre": "Fantastic Sandbox Cop Game The Precinct Gets a Huge Update on PS5",
-      "url": "https://www.pushsquare.com/news/2026/09/fantastic-sandbox-cop-game-the-precinct-gets-a-huge-update-on-ps5",
+      "id": "persona-sales-report-confirms-north-america-as-series-bigges",
+      "titre": "Persona Sales Report Confirms North America as Series' Biggest Market",
+      "url": "https://www.pushsquare.com/news/2026/09/persona-sales-report-confirms-north-america-as-series-biggest-market",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 5.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/fantastic-sandbox-cop-game-the-precinct-gets-a-huge-update-on-ps5",
-          "titre": "Fantastic Sandbox Cop Game The Precinct Gets a Huge Update on PS5"
-        }
-      ]
-    },
-    {
-      "id": "discord-s-new-resource-light-game-mode-doesn-t-mention-anyth",
-      "titre": "Discord's new resource-light 'Game Mode' doesn't mention anything about reducing memory usage",
-      "url": "https://www.pcgamer.com/hardware/discords-new-resource-light-game-mode-doesnt-mention-anything-about-reducing-memory-usage/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/discords-new-resource-light-game-mode-doesnt-mention-anything-about-reducing-memory-usage/",
-          "titre": "Discord's new resource-light 'Game Mode' doesn't mention anything about reducing memory usage"
-        }
-      ]
-    },
-    {
-      "id": "you-guys-are-gonna-have-your-minds-blown-troy-baker-says-we",
-      "titre": "'You Guys Are Gonna Have Your Minds Blown': Troy Baker Says We're Not Ready for Intergalactic",
-      "url": "https://www.pushsquare.com/news/2026/09/you-guys-are-gonna-have-your-minds-blown-troy-baker-says-were-not-ready-for-intergalactic",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/you-guys-are-gonna-have-your-minds-blown-troy-baker-says-were-not-ready-for-intergalactic",
-          "titre": "'You Guys Are Gonna Have Your Minds Blown': Troy Baker Says We're Not Ready for Intergalactic"
-        }
-      ]
-    },
-    {
-      "id": "control-resonant-director-lays-out-case-for-avoiding-excessi",
-      "titre": "Control Resonant director lays out case for avoiding excessive 'yellow paint'",
-      "url": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
-          "titre": "Control Resonant director lays out case for avoiding excessive 'yellow paint'"
-        }
-      ]
-    },
-    {
-      "id": "you-can-now-watch-one-of-this-year-s-best-orchestral-game-mu",
-      "titre": "You can now watch one of this year's best orchestral game-music performances, celebrating Hades 1 and 2, online for free",
-      "url": "https://www.eurogamer.net/watch-hades-orchestral-performance-recording",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/watch-hades-orchestral-performance-recording",
-          "titre": "You can now watch one of this year's best orchestral game-music performances, celebrating Hades 1 and 2, online for free"
-        }
-      ]
-    },
-    {
-      "id": "31-of-you-go-full-goth-and-keep-your-rgb-lighting-turned-off",
-      "titre": "31% of you go full goth and keep your RGB lighting turned off, while a mere 7% drench your rigs in unicorn vomit",
-      "url": "https://www.pcgamer.com/hardware/lighting/31-percent-of-you-go-full-goth-and-keep-your-rgb-lighting-turned-off-while-a-mere-7-percent-drench-your-rigs-in-unicorn-vomit/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/lighting/31-percent-of-you-go-full-goth-and-keep-your-rgb-lighting-turned-off-while-a-mere-7-percent-drench-your-rigs-in-unicorn-vomit/",
-          "titre": "31% of you go full goth and keep your RGB lighting turned off, while a mere 7% drench your rigs in unicorn vomit"
-        }
-      ]
-    },
-    {
-      "id": "no-usb-connectivity-like-at-all-it-s-a-good-job-steelseries",
-      "titre": "No USB connectivity? Like, at all? It's a good job SteelSeries' new gaming mice are two of the best I've felt under my fingertips",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/no-usb-connectivity-like-at-all-its-a-good-job-steelseries-new-gaming-mice-are-two-of-the-best-ive-felt-under-my-fingertips/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-mice/no-usb-connectivity-like-at-all-its-a-good-job-steelseries-new-gaming-mice-are-two-of-the-best-ive-felt-under-my-fingertips/",
-          "titre": "No USB connectivity? Like, at all? It's a good job SteelSeries' new gaming mice are two of the best I've felt under my fingertips"
-        }
-      ]
-    },
-    {
-      "id": "i-perished-in-the-flesh-pipes-of-darktide-s-depths-of-the-da",
-      "titre": "I perished in the flesh pipes of Darktide's Depths of the Damned update, and you will too",
-      "url": "https://www.rockpapershotgun.com/i-perished-in-the-flesh-pipes-of-darktides-depths-of-the-damned-update-and-you-will-too",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-perished-in-the-flesh-pipes-of-darktides-depths-of-the-damned-update-and-you-will-too",
-          "titre": "I perished in the flesh pipes of Darktide's Depths of the Damned update, and you will too"
-        }
-      ]
-    },
-    {
-      "id": "these-3-classic-toy-story-games-have-all-been-delisted-on-ps",
-      "titre": "These 3 Classic Toy Story Games Have All Been Delisted on PS5, Removed from PS Plus",
-      "url": "https://www.pushsquare.com/news/2026/09/these-3-classic-toy-story-games-have-all-been-delisted-on-ps5-removed-from-ps-plus",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/these-3-classic-toy-story-games-have-all-been-delisted-on-ps5-removed-from-ps-plus",
-          "titre": "These 3 Classic Toy Story Games Have All Been Delisted on PS5, Removed from PS Plus"
-        }
-      ]
-    },
-    {
-      "id": "the-best-frog-in-all-of-gaming-touch-me-is-now-appreciable-i",
-      "titre": "The best frog in all of gaming, Touch Me, is now appreciable in all its glory thanks to a FF7 model viewer",
-      "url": "https://www.pcgamer.com/games/final-fantasy/the-best-frog-in-all-of-gaming-touch-me-is-now-appreciable-in-all-its-glory-thanks-to-a-ff7-model-viewer/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/final-fantasy/the-best-frog-in-all-of-gaming-touch-me-is-now-appreciable-in-all-its-glory-thanks-to-a-ff7-model-viewer/",
-          "titre": "The best frog in all of gaming, Touch Me, is now appreciable in all its glory thanks to a FF7 model viewer"
-        }
-      ]
-    },
-    {
-      "id": "how-indie-studios-can-survive-industry-volatility-opinion",
-      "titre": "How indie studios can survive industry volatility | Opinion",
-      "url": "https://www.gamesindustry.biz/how-indie-studios-can-survive-industry-volatility-opinion",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/how-indie-studios-can-survive-industry-volatility-opinion",
-          "titre": "How indie studios can survive industry volatility | Opinion"
-        }
-      ]
-    },
-    {
-      "id": "cd-projekt-says-it-overhauled-witcher-3-gameplay-because-it",
-      "titre": "CD Projekt says it overhauled Witcher 3 gameplay because it was ‘obviously’ the weakest part",
-      "url": "https://www.videogameschronicle.com/news/cd-projekt-says-it-overhauled-witcher-3-gameplay-because-it-was-obviously-the-weakest-part/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/cd-projekt-says-it-overhauled-witcher-3-gameplay-because-it-was-obviously-the-weakest-part/",
-          "titre": "CD Projekt says it overhauled Witcher 3 gameplay because it was ‘obviously’ the weakest part"
+          "url": "https://www.pushsquare.com/news/2026/09/persona-sales-report-confirms-north-america-as-series-biggest-market",
+          "titre": "Persona Sales Report Confirms North America as Series' Biggest Market"
         }
       ]
     },
@@ -875,7 +731,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 6,
       "liens": [
         {
@@ -893,7 +749,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.7,
       "chaleur": 6,
       "liens": [
         {
@@ -911,7 +767,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.5,
+      "heures": 26.5,
       "chaleur": 6,
       "liens": [
         {
@@ -929,7 +785,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.5,
       "chaleur": 5,
       "liens": [
         {
@@ -947,7 +803,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.5,
       "chaleur": 5,
       "liens": [
         {
@@ -965,7 +821,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.3,
       "chaleur": 5,
       "liens": [
         {
@@ -983,7 +839,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.9,
+      "heures": 27.8,
       "chaleur": 5,
       "liens": [
         {
@@ -1001,7 +857,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 30.2,
+      "heures": 32.1,
       "chaleur": 5,
       "liens": [
         {
@@ -1019,13 +875,247 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model",
           "titre": "Microsoft boss Nadella says Xbox has to invent \"sustainable business model\""
+        }
+      ]
+    },
+    {
+      "id": "set-up-your-own-ramen-bar-and-explore-a-voxel-cyberpunk-city",
+      "titre": "Set up your own ramen bar and explore a voxel cyberpunk city in the slice-of-lifey Nivalis Nights, out now",
+      "url": "https://www.rockpapershotgun.com/set-up-your-own-ramen-bar-and-explore-a-voxel-cyberpunk-city-in-the-slice-of-lifey-nivalis-nights-out-now",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/set-up-your-own-ramen-bar-and-explore-a-voxel-cyberpunk-city-in-the-slice-of-lifey-nivalis-nights-out-now",
+          "titre": "Set up your own ramen bar and explore a voxel cyberpunk city in the slice-of-lifey Nivalis Nights, out now"
+        }
+      ]
+    },
+    {
+      "id": "fantastic-sandbox-cop-game-the-precinct-gets-a-huge-update-o",
+      "titre": "Fantastic Sandbox Cop Game The Precinct Gets a Huge Update on PS5",
+      "url": "https://www.pushsquare.com/news/2026/09/fantastic-sandbox-cop-game-the-precinct-gets-a-huge-update-on-ps5",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/fantastic-sandbox-cop-game-the-precinct-gets-a-huge-update-on-ps5",
+          "titre": "Fantastic Sandbox Cop Game The Precinct Gets a Huge Update on PS5"
+        }
+      ]
+    },
+    {
+      "id": "discord-s-new-resource-light-game-mode-doesn-t-mention-anyth",
+      "titre": "Discord's new resource-light 'Game Mode' doesn't mention anything about reducing memory usage",
+      "url": "https://www.pcgamer.com/hardware/discords-new-resource-light-game-mode-doesnt-mention-anything-about-reducing-memory-usage/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/discords-new-resource-light-game-mode-doesnt-mention-anything-about-reducing-memory-usage/",
+          "titre": "Discord's new resource-light 'Game Mode' doesn't mention anything about reducing memory usage"
+        }
+      ]
+    },
+    {
+      "id": "you-guys-are-gonna-have-your-minds-blown-troy-baker-says-we",
+      "titre": "'You Guys Are Gonna Have Your Minds Blown': Troy Baker Says We're Not Ready for Intergalactic",
+      "url": "https://www.pushsquare.com/news/2026/09/you-guys-are-gonna-have-your-minds-blown-troy-baker-says-were-not-ready-for-intergalactic",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/you-guys-are-gonna-have-your-minds-blown-troy-baker-says-were-not-ready-for-intergalactic",
+          "titre": "'You Guys Are Gonna Have Your Minds Blown': Troy Baker Says We're Not Ready for Intergalactic"
+        }
+      ]
+    },
+    {
+      "id": "control-resonant-director-lays-out-case-for-avoiding-excessi",
+      "titre": "Control Resonant director lays out case for avoiding excessive 'yellow paint'",
+      "url": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
+          "titre": "Control Resonant director lays out case for avoiding excessive 'yellow paint'"
+        }
+      ]
+    },
+    {
+      "id": "you-can-now-watch-one-of-this-year-s-best-orchestral-game-mu",
+      "titre": "You can now watch one of this year's best orchestral game-music performances, celebrating Hades 1 and 2, online for free",
+      "url": "https://www.eurogamer.net/watch-hades-orchestral-performance-recording",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/watch-hades-orchestral-performance-recording",
+          "titre": "You can now watch one of this year's best orchestral game-music performances, celebrating Hades 1 and 2, online for free"
+        }
+      ]
+    },
+    {
+      "id": "31-of-you-go-full-goth-and-keep-your-rgb-lighting-turned-off",
+      "titre": "31% of you go full goth and keep your RGB lighting turned off, while a mere 7% drench your rigs in unicorn vomit",
+      "url": "https://www.pcgamer.com/hardware/lighting/31-percent-of-you-go-full-goth-and-keep-your-rgb-lighting-turned-off-while-a-mere-7-percent-drench-your-rigs-in-unicorn-vomit/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/lighting/31-percent-of-you-go-full-goth-and-keep-your-rgb-lighting-turned-off-while-a-mere-7-percent-drench-your-rigs-in-unicorn-vomit/",
+          "titre": "31% of you go full goth and keep your RGB lighting turned off, while a mere 7% drench your rigs in unicorn vomit"
+        }
+      ]
+    },
+    {
+      "id": "no-usb-connectivity-like-at-all-it-s-a-good-job-steelseries",
+      "titre": "No USB connectivity? Like, at all? It's a good job SteelSeries' new gaming mice are two of the best I've felt under my fingertips",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/no-usb-connectivity-like-at-all-its-a-good-job-steelseries-new-gaming-mice-are-two-of-the-best-ive-felt-under-my-fingertips/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/no-usb-connectivity-like-at-all-its-a-good-job-steelseries-new-gaming-mice-are-two-of-the-best-ive-felt-under-my-fingertips/",
+          "titre": "No USB connectivity? Like, at all? It's a good job SteelSeries' new gaming mice are two of the best I've felt under my fingertips"
+        }
+      ]
+    },
+    {
+      "id": "i-perished-in-the-flesh-pipes-of-darktide-s-depths-of-the-da",
+      "titre": "I perished in the flesh pipes of Darktide's Depths of the Damned update, and you will too",
+      "url": "https://www.rockpapershotgun.com/i-perished-in-the-flesh-pipes-of-darktides-depths-of-the-damned-update-and-you-will-too",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/i-perished-in-the-flesh-pipes-of-darktides-depths-of-the-damned-update-and-you-will-too",
+          "titre": "I perished in the flesh pipes of Darktide's Depths of the Damned update, and you will too"
+        }
+      ]
+    },
+    {
+      "id": "these-3-classic-toy-story-games-have-all-been-delisted-on-ps",
+      "titre": "These 3 Classic Toy Story Games Have All Been Delisted on PS5, Removed from PS Plus",
+      "url": "https://www.pushsquare.com/news/2026/09/these-3-classic-toy-story-games-have-all-been-delisted-on-ps5-removed-from-ps-plus",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/these-3-classic-toy-story-games-have-all-been-delisted-on-ps5-removed-from-ps-plus",
+          "titre": "These 3 Classic Toy Story Games Have All Been Delisted on PS5, Removed from PS Plus"
+        }
+      ]
+    },
+    {
+      "id": "the-best-frog-in-all-of-gaming-touch-me-is-now-appreciable-i",
+      "titre": "The best frog in all of gaming, Touch Me, is now appreciable in all its glory thanks to a FF7 model viewer",
+      "url": "https://www.pcgamer.com/games/final-fantasy/the-best-frog-in-all-of-gaming-touch-me-is-now-appreciable-in-all-its-glory-thanks-to-a-ff7-model-viewer/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/final-fantasy/the-best-frog-in-all-of-gaming-touch-me-is-now-appreciable-in-all-its-glory-thanks-to-a-ff7-model-viewer/",
+          "titre": "The best frog in all of gaming, Touch Me, is now appreciable in all its glory thanks to a FF7 model viewer"
+        }
+      ]
+    },
+    {
+      "id": "how-indie-studios-can-survive-industry-volatility-opinion",
+      "titre": "How indie studios can survive industry volatility | Opinion",
+      "url": "https://www.gamesindustry.biz/how-indie-studios-can-survive-industry-volatility-opinion",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/how-indie-studios-can-survive-industry-volatility-opinion",
+          "titre": "How indie studios can survive industry volatility | Opinion"
+        }
+      ]
+    },
+    {
+      "id": "cd-projekt-says-it-overhauled-witcher-3-gameplay-because-it",
+      "titre": "CD Projekt says it overhauled Witcher 3 gameplay because it was ‘obviously’ the weakest part",
+      "url": "https://www.videogameschronicle.com/news/cd-projekt-says-it-overhauled-witcher-3-gameplay-because-it-was-obviously-the-weakest-part/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/cd-projekt-says-it-overhauled-witcher-3-gameplay-because-it-was-obviously-the-weakest-part/",
+          "titre": "CD Projekt says it overhauled Witcher 3 gameplay because it was ‘obviously’ the weakest part"
         }
       ]
     },
@@ -1037,7 +1127,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1046,99 +1136,7 @@ const VEILLE = {
           "titre": "'We were constantly overshooting our capacity:' Arc Raiders exec says success resulted in burnout"
         }
       ]
-    },
-    {
-      "id": "don-t-worry-if-you-re-struggling-in-human-form-in-the-blood",
-      "titre": "Don't worry if you're struggling in human form in The Blood of Dawnwalker - \"it should be harder\" playing that way",
-      "url": "https://www.eurogamer.net/blood-of-dawnwalker-harder-as-human-easier-as-vampire",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 4.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blood-of-dawnwalker-harder-as-human-easier-as-vampire",
-          "titre": "Don't worry if you're struggling in human form in The Blood of Dawnwalker - \"it should be harder\" playing that way"
-        }
-      ]
-    },
-    {
-      "id": "psa-ace-combat-8-comes-with-a-whole-other-game-but-only-if-y",
-      "titre": "PSA: Ace Combat 8 Comes with a Whole Other Game, But Only if You Pre-Order, and You Don't Have Long",
-      "url": "https://www.pushsquare.com/news/2026/09/psa-ace-combat-8-comes-with-a-whole-other-game-but-only-if-you-pre-order-and-you-dont-have-long",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 4.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/psa-ace-combat-8-comes-with-a-whole-other-game-but-only-if-you-pre-order-and-you-dont-have-long",
-          "titre": "PSA: Ace Combat 8 Comes with a Whole Other Game, But Only if You Pre-Order, and You Don't Have Long"
-        }
-      ]
-    },
-    {
-      "id": "steelseries-rival-pro-gaming-mouse-review",
-      "titre": "SteelSeries Rival Pro gaming mouse review",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/steelseries-rival-pro-gaming-mouse-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-mice/steelseries-rival-pro-gaming-mouse-review/",
-          "titre": "SteelSeries Rival Pro gaming mouse review"
-        }
-      ]
-    },
-    {
-      "id": "castlevania-is-also-getting-a-40th-anniversary-concert-tour",
-      "titre": "Castlevania Is Also Getting A 40th Anniversary Concert Tour Next Year",
-      "url": "https://www.nintendolife.com/news/2026/09/castlevania-is-also-getting-a-40th-anniversary-concert-tour-next-year",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 4.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/castlevania-is-also-getting-a-40th-anniversary-concert-tour-next-year",
-          "titre": "Castlevania Is Also Getting A 40th Anniversary Concert Tour Next Year"
-        }
-      ]
-    },
-    {
-      "id": "diablo-4-will-still-get-seasonal-content-once-diablo-5-s-out",
-      "titre": "Diablo 4 will still get seasonal content once Diablo 5’s out, just like Diablo 2 and 3 do, game director says",
-      "url": "https://www.videogameschronicle.com/news/diablo-4-will-still-get-seasonal-content-once-diablo-5s-out-just-like-diablo-2-and-3-do-game-director-says/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 4.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/diablo-4-will-still-get-seasonal-content-once-diablo-5s-out-just-like-diablo-2-and-3-do-game-director-says/",
-          "titre": "Diablo 4 will still get seasonal content once Diablo 5’s out, just like Diablo 2 and 3 do, game director says"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "The Witcher 3 surges to its highest Steam concurrent player-count ever, following Remastered edition's release"
-  ]
+  "alertes": []
 };
