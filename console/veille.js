@@ -1,8 +1,32 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "29/09/2026 à 02h19",
+  "collecte": "29/09/2026 à 04h21",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "dynasty-warriors-3-complete-edition-remastered-switch-2-perf",
+      "titre": "Dynasty Warriors 3: Complete Edition Remastered Switch 2 Performance & Resolution Revealed",
+      "url": "https://www.nintendolife.com/news/2026/09/dynasty-warriors-3-complete-edition-remastered-switch-2-performance-and-resolution-revealed",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 1.4,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/dynasty-warriors-3-complete-edition-remastered-switch-2-performance-and-resolution-revealed",
+          "titre": "Dynasty Warriors 3: Complete Edition Remastered Switch 2 Performance & Resolution Revealed"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-a-45gb-ps5-patch-release-times-revealed",
+          "titre": "The Witcher 3 Remastered a 45GB PS5 Patch, Release Times Revealed"
+        }
+      ]
+    },
     {
       "id": "fire-emblem-fortune-s-weave-is-the-next-tetris-99-event",
       "titre": "Fire Emblem: Fortune's Weave Is The Next Tetris 99 Event",
@@ -12,7 +36,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 9,
       "liens": [
         {
@@ -28,48 +52,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "cd-projekt-lays-out-why-you-should-play-the-witcher-3-remast",
-      "titre": "CD Projekt lays out why you should play The Witcher 3 Remastered",
-      "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-lays-out-why-you-should-play-the-witcher-3-remastered/",
-      "sources": [
-        "Nintendo Life",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 6.8,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-lays-out-why-you-should-play-the-witcher-3-remastered/",
-          "titre": "CD Projekt lays out why you should play The Witcher 3 Remastered"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/video-the-witcher-3-remastered-side-by-side-comparison-switch-vs-switch-2",
-          "titre": "Video: The Witcher 3 Remastered Side-By-Side Comparison, Switch Vs. Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "report-sony-surveying-developers-about-dropping-playstation",
-      "titre": "Report: Sony surveying developers about dropping PlayStation disc support",
-      "url": "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support",
-          "titre": "Report: Sony surveying developers about dropping PlayStation disc support"
-        }
-      ]
-    },
-    {
       "id": "what-if-london-existed-in-the-grand-theft-auto-universe-one",
       "titre": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city",
       "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
@@ -77,7 +59,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.5,
       "chaleur": 7,
       "liens": [
         {
@@ -95,7 +77,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.5,
       "chaleur": 7,
       "liens": [
         {
@@ -106,44 +88,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "cd-projekt-release-full-updated-witcher-3-wild-hunt-remaster",
-      "titre": "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements",
-      "url": "https://www.rockpapershotgun.com/cd-projekt-release-full-updated-witcher-3-wild-hunt-remastered-system-specs-including-ray-tracing-and-path-tracing-requirements",
+      "id": "report-sony-surveying-developers-about-dropping-playstation",
+      "titre": "Report: Sony surveying developers about dropping PlayStation disc support",
+      "url": "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support",
       "sources": [
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 10.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cd-projekt-release-full-updated-witcher-3-wild-hunt-remastered-system-specs-including-ray-tracing-and-path-tracing-requirements",
-          "titre": "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/the-witcher-3-wild-hunt-remastered",
-          "titre": "Review in Progress: The Witcher 3: Wild Hunt Remastered (PS5) - How to Improve a Masterpiece"
-        }
-      ]
-    },
-    {
-      "id": "xbox-is-reportedly-paying-a-fraction-of-the-400-million-koji",
-      "titre": "Xbox is reportedly paying a \"fraction\" of the $400 million Kojima quoted Sony for Physint",
-      "url": "https://www.eurogamer.net/xbox-kojima-physint-budget-fraction-400-million",
-      "sources": [
-        "Eurogamer"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 35.9,
+      "heures": 13.0,
       "chaleur": 7,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-kojima-physint-budget-fraction-400-million",
-          "titre": "Xbox is reportedly paying a \"fraction\" of the $400 million Kojima quoted Sony for Physint"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support",
+          "titre": "Report: Sony surveying developers about dropping PlayStation disc support"
         }
       ]
     },
@@ -389,7 +347,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -407,7 +365,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -425,7 +383,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -443,85 +401,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/new-the-last-of-us-projects-in-very-early-stages-of-development",
           "titre": "New The Last of Us Projects in 'Very Early Stages' of Development"
-        }
-      ]
-    },
-    {
-      "id": "i-can-t-stop-comparing-the-dialogue-from-the-original-messy",
-      "titre": "I can't stop comparing the dialogue from the original, messy FF7 localization and its vastly improved fan translation",
-      "url": "https://www.pcgamer.com/games/final-fantasy/i-cant-stop-comparing-the-dialogue-from-the-original-messy-ff7-localization-and-its-vastly-improved-fan-translation/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/final-fantasy/i-cant-stop-comparing-the-dialogue-from-the-original-messy-ff7-localization-and-its-vastly-improved-fan-translation/",
-          "titre": "I can't stop comparing the dialogue from the original, messy FF7 localization and its vastly improved fan translation"
-        }
-      ]
-    },
-    {
-      "id": "random-motherbrain-returns-as-ubisoft-s-genai-gaming-initiat",
-      "titre": "Random: \"Motherbrain\" Returns As Ubisoft's GenAI Gaming Initiative",
-      "url": "https://www.nintendolife.com/news/2026/09/random-motherbrain-returns-as-ubisofts-genai-gaming-initiative",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/random-motherbrain-returns-as-ubisofts-genai-gaming-initiative",
-          "titre": "Random: \"Motherbrain\" Returns As Ubisoft's GenAI Gaming Initiative"
-        }
-      ]
-    },
-    {
-      "id": "enhance-your-ace-combat-8-experience-with-two-rival-ps5-flig",
-      "titre": "Enhance Your Ace Combat 8 Experience with Two Rival PS5 Flight Sticks, Out This Week",
-      "url": "https://www.pushsquare.com/news/2026/09/enhance-your-ace-combat-8-experience-with-two-rival-ps5-flight-sticks-out-this-week",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/enhance-your-ace-combat-8-experience-with-two-rival-ps5-flight-sticks-out-this-week",
-          "titre": "Enhance Your Ace Combat 8 Experience with Two Rival PS5 Flight Sticks, Out This Week"
-        }
-      ]
-    },
-    {
-      "id": "review-train-sim-world-7-ps5-a-familiar-journey-with-a-few-n",
-      "titre": "Review: Train Sim World 7 (PS5) - A Familiar Journey with a Few New Stops",
-      "url": "https://www.pushsquare.com/reviews/ps5/train-sim-world-7",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/train-sim-world-7",
-          "titre": "Review: Train Sim World 7 (PS5) - A Familiar Journey with a Few New Stops"
         }
       ]
     },
@@ -533,7 +419,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.4,
       "chaleur": 6,
       "liens": [
         {
@@ -551,7 +437,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.8,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +455,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.3,
       "chaleur": 6,
       "liens": [
         {
@@ -587,13 +473,37 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-console-is-currently-cheaper-than-ever-in-the-uk",
           "titre": "The Switch 2 Console Is Currently Cheaper Than Ever In The UK"
+        }
+      ]
+    },
+    {
+      "id": "cd-projekt-release-full-updated-witcher-3-wild-hunt-remaster",
+      "titre": "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements",
+      "url": "https://www.rockpapershotgun.com/cd-projekt-release-full-updated-witcher-3-wild-hunt-remastered-system-specs-including-ray-tracing-and-path-tracing-requirements",
+      "sources": [
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 12.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/cd-projekt-release-full-updated-witcher-3-wild-hunt-remastered-system-specs-including-ray-tracing-and-path-tracing-requirements",
+          "titre": "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/the-witcher-3-wild-hunt-remastered",
+          "titre": "Review in Progress: The Witcher 3: Wild Hunt Remastered (PS5) - How to Improve a Masterpiece"
         }
       ]
     },
@@ -606,7 +516,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 14.1,
+      "heures": 16.1,
       "chaleur": 6,
       "liens": [
         {
@@ -629,7 +539,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 16.1,
       "chaleur": 5,
       "liens": [
         {
@@ -647,7 +557,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.4,
       "chaleur": 5,
       "liens": [
         {
@@ -665,7 +575,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.8,
+      "heures": 16.9,
       "chaleur": 5,
       "liens": [
         {
@@ -683,13 +593,85 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 17.2,
+      "heures": 19.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model",
           "titre": "Microsoft boss Nadella says Xbox has to invent \"sustainable business model\""
+        }
+      ]
+    },
+    {
+      "id": "i-can-t-stop-comparing-the-dialogue-from-the-original-messy",
+      "titre": "I can't stop comparing the dialogue from the original, messy FF7 localization and its vastly improved fan translation",
+      "url": "https://www.pcgamer.com/games/final-fantasy/i-cant-stop-comparing-the-dialogue-from-the-original-messy-ff7-localization-and-its-vastly-improved-fan-translation/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/final-fantasy/i-cant-stop-comparing-the-dialogue-from-the-original-messy-ff7-localization-and-its-vastly-improved-fan-translation/",
+          "titre": "I can't stop comparing the dialogue from the original, messy FF7 localization and its vastly improved fan translation"
+        }
+      ]
+    },
+    {
+      "id": "random-motherbrain-returns-as-ubisoft-s-genai-gaming-initiat",
+      "titre": "Random: \"Motherbrain\" Returns As Ubisoft's GenAI Gaming Initiative",
+      "url": "https://www.nintendolife.com/news/2026/09/random-motherbrain-returns-as-ubisofts-genai-gaming-initiative",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/random-motherbrain-returns-as-ubisofts-genai-gaming-initiative",
+          "titre": "Random: \"Motherbrain\" Returns As Ubisoft's GenAI Gaming Initiative"
+        }
+      ]
+    },
+    {
+      "id": "enhance-your-ace-combat-8-experience-with-two-rival-ps5-flig",
+      "titre": "Enhance Your Ace Combat 8 Experience with Two Rival PS5 Flight Sticks, Out This Week",
+      "url": "https://www.pushsquare.com/news/2026/09/enhance-your-ace-combat-8-experience-with-two-rival-ps5-flight-sticks-out-this-week",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/enhance-your-ace-combat-8-experience-with-two-rival-ps5-flight-sticks-out-this-week",
+          "titre": "Enhance Your Ace Combat 8 Experience with Two Rival PS5 Flight Sticks, Out This Week"
+        }
+      ]
+    },
+    {
+      "id": "review-train-sim-world-7-ps5-a-familiar-journey-with-a-few-n",
+      "titre": "Review: Train Sim World 7 (PS5) - A Familiar Journey with a Few New Stops",
+      "url": "https://www.pushsquare.com/reviews/ps5/train-sim-world-7",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/train-sim-world-7",
+          "titre": "Review: Train Sim World 7 (PS5) - A Familiar Journey with a Few New Stops"
         }
       ]
     },
@@ -701,7 +683,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -719,7 +701,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -737,7 +719,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -755,7 +737,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -773,7 +755,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -791,13 +773,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/survival-crafting/a-fundamental-update-for-this-34-year-old-survival-game-is-coming-in-october/",
           "titre": "A 'fundamental' update for this 34-year-old survival game is coming in October"
+        }
+      ]
+    },
+    {
+      "id": "cd-projekt-lays-out-why-you-should-play-the-witcher-3-remast",
+      "titre": "CD Projekt lays out why you should play The Witcher 3 Remastered",
+      "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-lays-out-why-you-should-play-the-witcher-3-remastered/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-lays-out-why-you-should-play-the-witcher-3-remastered/",
+          "titre": "CD Projekt lays out why you should play The Witcher 3 Remastered"
         }
       ]
     },
@@ -809,7 +809,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -827,7 +827,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +845,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -863,7 +863,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +899,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +917,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +935,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 12.0,
       "chaleur": 4,
       "liens": [
         {
@@ -971,8 +971,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -989,8 +989,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1007,8 +1007,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1025,8 +1025,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1043,8 +1043,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1061,8 +1061,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1079,8 +1079,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1097,8 +1097,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
