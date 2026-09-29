@@ -1,26 +1,26 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "29/09/2026 à 16h24",
+  "collecte": "29/09/2026 à 18h26",
   "seuil": 14,
   "sujets": [
     {
-      "id": "the-witcher-3-remastered-ps5-pays-homage-to-the-worst-dlc-in",
-      "titre": "The Witcher 3 Remastered PS5 Pays Homage to the Worst DLC in History",
-      "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pays-homage-to-the-worst-dlc-in-history",
+      "id": "the-witcher-3-surges-to-its-highest-steam-concurrent-player",
+      "titre": "The Witcher 3 surges to its highest Steam concurrent player-count ever, following Remastered edition's release",
+      "url": "https://www.eurogamer.net/witcher-3-steam-most-played-record-remastered",
       "sources": [
+        "Eurogamer",
         "Nintendo Life",
-        "PC Gamer",
         "Push Square",
         "VGC"
       ],
       "reprises": 4,
-      "heures": 1.4,
-      "chaleur": 15,
+      "heures": 2.0,
+      "chaleur": 17,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pays-homage-to-the-worst-dlc-in-history",
-          "titre": "The Witcher 3 Remastered PS5 Pays Homage to the Worst DLC in History"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/witcher-3-steam-most-played-record-remastered",
+          "titre": "The Witcher 3 surges to its highest Steam concurrent player-count ever, following Remastered edition's release"
         },
         {
           "source": "VGC",
@@ -28,9 +28,9 @@ const VEILLE = {
           "titre": "Witcher 3 Remastered: Simulate Witcher 2 save, on or off?"
         },
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/the-witcher-3-remastered-transmog-unlock/",
-          "titre": "How to unlock transmog in The Witcher 3 Remastered"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-available-to-download-now",
+          "titre": "The Witcher 3 Remastered Available to Download Now"
         },
         {
           "source": "Nintendo Life",
@@ -48,7 +48,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 11,
       "liens": [
         {
@@ -72,7 +72,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.3,
+      "heures": 6.4,
       "chaleur": 10,
       "liens": [
         {
@@ -88,6 +88,102 @@ const VEILLE = {
       ]
     },
     {
+      "id": "gta-6-reveals-massive-dense-open-world-in-13-new-screenshots",
+      "titre": "GTA 6 Reveals Massive, Dense Open World in 13 New Screenshots, Details",
+      "url": "https://www.pushsquare.com/news/2026/09/gta-6-reveals-massive-dense-open-world-in-13-new-screenshots-details",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/gta-6-reveals-massive-dense-open-world-in-13-new-screenshots-details",
+          "titre": "GTA 6 Reveals Massive, Dense Open World in 13 New Screenshots, Details"
+        }
+      ]
+    },
+    {
+      "id": "live-from-nivalis-nights-a-nightly-photo-journal-of-my-cyber",
+      "titre": "Live from Nivalis Nights: A nightly photo journal of my cyberpunk noodle bar",
+      "url": "https://www.pcgamer.com/games/live/live-from-nivalis-nights-a-nightly-photo-journal-of-my-cyberpunk-noodle-bar/",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 0.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/live/live-from-nivalis-nights-a-nightly-photo-journal-of-my-cyberpunk-noodle-bar/",
+          "titre": "Live from Nivalis Nights: A nightly photo journal of my cyberpunk noodle bar"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/set-up-your-own-ramen-bar-and-explore-a-voxel-cyberpunk-city-in-the-slice-of-lifey-nivalis-nights-out-now",
+          "titre": "Set up your own ramen bar and explore a voxel cyberpunk city in the slice-of-lifey Nivalis Nights, out now"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-map-officially-twice-as-large-as-gta-5-features-hurric",
+      "titre": "GTA 6 map officially twice as large as GTA 5, features hurricanes and tropical storms",
+      "url": "https://www.videogameschronicle.com/news/gta-6-map-is-officially-twice-as-large-as-gta-5-features-hurricanes-and-tropical-storms/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/gta-6-map-is-officially-twice-as-large-as-gta-5-features-hurricanes-and-tropical-storms/",
+          "titre": "GTA 6 map officially twice as large as GTA 5, features hurricanes and tropical storms"
+        }
+      ]
+    },
+    {
+      "id": "my-gta-5-install-has-a-death-wish-but-i-have-soothed-it-with",
+      "titre": "My GTA 5 install has a death wish but I have soothed it with flossing",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/my-gta-5-install-has-a-death-wish-but-i-have-soothed-it-with-flossing/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/my-gta-5-install-has-a-death-wish-but-i-have-soothed-it-with-flossing/",
+          "titre": "My GTA 5 install has a death wish but I have soothed it with flossing"
+        }
+      ]
+    },
+    {
+      "id": "an-ode-to-the-loveable-horrible-wonderful-counter-strike-com",
+      "titre": "An ode to the loveable, horrible, wonderful Counter-Strike community and my first tournament experience",
+      "url": "https://www.pcgamer.com/hardware/an-ode-to-the-loveable-horrible-wonderful-counter-strike-community-and-my-first-tournament-experience/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/an-ode-to-the-loveable-horrible-wonderful-counter-strike-community-and-my-first-tournament-experience/",
+          "titre": "An ode to the loveable, horrible, wonderful Counter-Strike community and my first tournament experience"
+        }
+      ]
+    },
+    {
       "id": "the-witcher-3-songs-of-the-past-sounds-like-it-s-mirroring-b",
       "titre": "The Witcher 3 Songs of the Past sounds like it's mirroring Blood and Wine in being \"a lot dreamier\" than a \"bread-and-butter Witcher story\"",
       "url": "https://www.rockpapershotgun.com/the-witcher-3-songs-of-the-past-sounds-like-its-mirroring-blood-and-wine-in-being-a-lot-dreamier-than-a-bread-and-butter-witcher-story",
@@ -96,7 +192,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 9,
       "liens": [
         {
@@ -112,6 +208,66 @@ const VEILLE = {
       ]
     },
     {
+      "id": "the-witcher-3-remastered-ps5-pays-homage-to-the-worst-dlc-in",
+      "titre": "The Witcher 3 Remastered PS5 Pays Homage to the Worst DLC in History",
+      "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pays-homage-to-the-worst-dlc-in-history",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 3.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pays-homage-to-the-worst-dlc-in-history",
+          "titre": "The Witcher 3 Remastered PS5 Pays Homage to the Worst DLC in History"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/the-witcher-3-wild-hunt-remastered-is-out-now-heres-how-to-start-playing/",
+          "titre": "The Witcher 3 Wild Hunt Remastered is out now, here’s how to start playing"
+        }
+      ]
+    },
+    {
+      "id": "review-mobapad-c2-lite-controller-the-best-budget-pad-for-sw",
+      "titre": "Review: Mobapad C2 Lite Controller - The Best Budget Pad For Switch 2? Probably",
+      "url": "https://www.nintendolife.com/reviews/mobapad-c2-lite-controller-the-best-budget-pad-for-switch-2-probably",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/mobapad-c2-lite-controller-the-best-budget-pad-for-switch-2-probably",
+          "titre": "Review: Mobapad C2 Lite Controller - The Best Budget Pad For Switch 2? Probably"
+        }
+      ]
+    },
+    {
+      "id": "persona-sales-report-confirms-north-america-as-series-bigges",
+      "titre": "Persona Sales Report Confirms North America as Series' Biggest Market",
+      "url": "https://www.pushsquare.com/news/2026/09/persona-sales-report-confirms-north-america-as-series-biggest-market",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 3.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/persona-sales-report-confirms-north-america-as-series-biggest-market",
+          "titre": "Persona Sales Report Confirms North America as Series' Biggest Market"
+        }
+      ]
+    },
+    {
       "id": "witcher-3-remastered-best-console-graphics-mode-performance",
       "titre": "Witcher 3 Remastered best console graphics mode: Performance vs Ray Tracing",
       "url": "https://www.videogameschronicle.com/guide/the-witcher-3-remastered-best-console-graphics-mode-performance-vs-ray-tracing/",
@@ -120,8 +276,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 2.4,
-      "chaleur": 9,
+      "heures": 4.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
@@ -136,30 +292,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "let-s-aim-for-disney-sonic-boss-reckons-ip-has-only-reached",
-      "titre": "\"Let's Aim For Disney\" - Sonic Boss Reckons IP Has Only Reached Half Of Its Potential",
-      "url": "https://www.nintendolife.com/news/2026/09/lets-aim-for-disney-sonic-boss-reckons-ip-has-only-reached-half-of-its-potential",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 3.9,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/lets-aim-for-disney-sonic-boss-reckons-ip-has-only-reached-half-of-its-potential",
-          "titre": "\"Let's Aim For Disney\" - Sonic Boss Reckons IP Has Only Reached Half Of Its Potential"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sonic-boss-believes-the-series-is-only-halfway-to-its-potential/",
-          "titre": "Sonic boss believes the series is only halfway to its potential"
-        }
-      ]
-    },
-    {
       "id": "why-should-we-just-give-up-the-entire-month-of-november-the",
       "titre": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6",
       "url": "https://www.gamesindustry.biz/why-should-we-just-give-up-the-entire-month-of-november-the-indie-games-going-head-to-head-with-gta-6",
@@ -167,115 +299,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 9,
+      "heures": 5.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/why-should-we-just-give-up-the-entire-month-of-november-the-indie-games-going-head-to-head-with-gta-6",
           "titre": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6"
-        }
-      ]
-    },
-    {
-      "id": "persona-sales-report-confirms-north-america-as-series-bigges",
-      "titre": "Persona Sales Report Confirms North America as Series' Biggest Market",
-      "url": "https://www.pushsquare.com/news/2026/09/persona-sales-report-confirms-north-america-as-series-biggest-market",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/persona-sales-report-confirms-north-america-as-series-biggest-market",
-          "titre": "Persona Sales Report Confirms North America as Series' Biggest Market"
-        }
-      ]
-    },
-    {
-      "id": "resident-evil-film-success-reportedly-hands-ps5-ps4-remakes",
-      "titre": "Resident Evil Film Success Reportedly Hands PS5, PS4 Remakes Huge Player and Sales Boosts",
-      "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-success-reportedly-hands-ps5-ps4-remakes-huge-player-and-sales-boosts",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-success-reportedly-hands-ps5-ps4-remakes-huge-player-and-sales-boosts",
-          "titre": "Resident Evil Film Success Reportedly Hands PS5, PS4 Remakes Huge Player and Sales Boosts"
-        }
-      ]
-    },
-    {
-      "id": "the-tower-of-zeldaga-is-a-free-retro-mash-up-of-zelda-and-dr",
-      "titre": "The Tower of Zeldaga is a free retro mash-up of Zelda and Druaga in which you rescue Ganondorf from some evil blonde queen",
-      "url": "https://www.rockpapershotgun.com/the-tower-of-zeldaga-is-a-free-retro-mash-up-of-zelda-and-druaga-in-which-you-rescue-ganondorf-from-some-evil-blonde-queen",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-tower-of-zeldaga-is-a-free-retro-mash-up-of-zelda-and-druaga-in-which-you-rescue-ganondorf-from-some-evil-blonde-queen",
-          "titre": "The Tower of Zeldaga is a free retro mash-up of Zelda and Druaga in which you rescue Ganondorf from some evil blonde queen"
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-remastered-has-scuppered-an-ambitious-cut-plag",
-      "titre": "The Witcher 3 Remastered has scuppered an ambitious cut plague quest restoration mod, but there'll be \"something extra\" in the update that gets it working again",
-      "url": "https://www.rockpapershotgun.com/the-witcher-3-remastered-has-scuppered-an-ambitious-cut-plague-quest-restoration-mod-but-therell-be-something-extra-in-the-update-that-gets-it-working-again",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 7.0,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-witcher-3-remastered-has-scuppered-an-ambitious-cut-plague-quest-restoration-mod-but-therell-be-something-extra-in-the-update-that-gets-it-working-again",
-          "titre": "The Witcher 3 Remastered has scuppered an ambitious cut plague quest restoration mod, but there'll be \"something extra\" in the update that gets it working again"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-wild-hunt-remastered-generous-upgrade-makes-it-new-again",
-          "titre": "The Witcher 3 Remastered is an extraordinarily generous upgrade that doesn't change the game, but does make it new again"
-        }
-      ]
-    },
-    {
-      "id": "naughty-dog-confirms-two-more-the-last-of-us-projects-are-in",
-      "titre": "Naughty Dog confirms two more The Last of Us projects are in the works, won't show off Intergalactic: The Heretic Prophet until 2027",
-      "url": "https://www.eurogamer.net/naughty-dog-confirms-two-more-the-last-of-us-projects-are-in-the-works-wont-show-off-intergalactic-the-heretic-prophet-until-2027",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 7.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/naughty-dog-confirms-two-more-the-last-of-us-projects-are-in-the-works-wont-show-off-intergalactic-the-heretic-prophet-until-2027",
-          "titre": "Naughty Dog confirms two more The Last of Us projects are in the works, won't show off Intergalactic: The Heretic Prophet until 2027"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/no-intergalactic-ps5-updates-until-2027-new-artwork-for-now",
-          "titre": "No Intergalactic PS5 Updates Until 2027, New Artwork for Now"
         }
       ]
     },
@@ -287,7 +317,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 25.0,
+      "heures": 27.0,
       "chaleur": 7,
       "liens": [
         {
@@ -514,38 +544,110 @@ const VEILLE = {
       ]
     },
     {
-      "id": "d-i-c-e-summit",
-      "titre": "D.I.C.E. Summit",
-      "url": "https://www.gamedeveloper.com/keyword/dice-summit",
+      "id": "uk-government-wants-people-to-be-rude-to-ai-you-don-t-need-t",
+      "titre": "UK government wants people to be rude to AI: 'You don't need to say thank you'",
+      "url": "https://www.pcgamer.com/software/ai/uk-government-wants-people-to-be-rude-to-ai-you-dont-need-to-say-thank-you/",
       "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 0.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/keyword/dice-summit",
-          "titre": "D.I.C.E. Summit"
-        }
-      ]
-    },
-    {
-      "id": "set-up-your-own-ramen-bar-and-explore-a-voxel-cyberpunk-city",
-      "titre": "Set up your own ramen bar and explore a voxel cyberpunk city in the slice-of-lifey Nivalis Nights, out now",
-      "url": "https://www.rockpapershotgun.com/set-up-your-own-ramen-bar-and-explore-a-voxel-cyberpunk-city-in-the-slice-of-lifey-nivalis-nights-out-now",
-      "sources": [
-        "Rock Paper Shotgun"
+        "PC Gamer"
       ],
       "reprises": 1,
       "heures": 0.3,
       "chaleur": 6,
       "liens": [
         {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/uk-government-wants-people-to-be-rude-to-ai-you-dont-need-to-say-thank-you/",
+          "titre": "UK government wants people to be rude to AI: 'You don't need to say thank you'"
+        }
+      ]
+    },
+    {
+      "id": "toem-2-review-a-sweet-sequel-that-s-a-tad-too-easy-to-be-mem",
+      "titre": "Toem 2 review: A sweet sequel that's a tad too easy to be memorable",
+      "url": "https://www.pcgamer.com/games/adventure/toem-2-review/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/adventure/toem-2-review/",
+          "titre": "Toem 2 review: A sweet sequel that's a tad too easy to be memorable"
+        }
+      ]
+    },
+    {
+      "id": "one-of-the-witcher-3-s-most-celebrated-writers-returns-to-cd",
+      "titre": "One of The Witcher 3's Most Celebrated Writers Returns to CD Projekt Red",
+      "url": "https://www.pushsquare.com/news/2026/09/one-of-the-witcher-3s-most-celebrated-writers-returns-to-cd-projekt-red",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/one-of-the-witcher-3s-most-celebrated-writers-returns-to-cd-projekt-red",
+          "titre": "One of The Witcher 3's Most Celebrated Writers Returns to CD Projekt Red"
+        }
+      ]
+    },
+    {
+      "id": "after-trading-space-babies-and-running-people-over-with-a-tr",
+      "titre": "After trading space babies and running people over with a truck, Strange Scaffold want you to organise a haunted library in Something is Wrong with the Library",
+      "url": "https://www.rockpapershotgun.com/after-trading-space-babies-and-running-people-over-with-a-truck-strange-scaffold-want-you-to-organise-a-haunted-library-in-something-is-wrong-with-the-library",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/set-up-your-own-ramen-bar-and-explore-a-voxel-cyberpunk-city-in-the-slice-of-lifey-nivalis-nights-out-now",
-          "titre": "Set up your own ramen bar and explore a voxel cyberpunk city in the slice-of-lifey Nivalis Nights, out now"
+          "url": "https://www.rockpapershotgun.com/after-trading-space-babies-and-running-people-over-with-a-truck-strange-scaffold-want-you-to-organise-a-haunted-library-in-something-is-wrong-with-the-library",
+          "titre": "After trading space babies and running people over with a truck, Strange Scaffold want you to organise a haunted library in Something is Wrong with the Library"
+        }
+      ]
+    },
+    {
+      "id": "cregger-s-resident-evil-film-is-already-the-3rd-highest-gros",
+      "titre": "Cregger's Resident Evil film is already the 3rd highest grossing RE film with over $100 million at the domestic box office in under 2 weeks",
+      "url": "https://www.pcgamer.com/movies-tv/creggers-resident-evil-film-is-already-the-3rd-highest-grossing-re-film-with-over-usd100-million-at-the-domestic-box-office-in-under-2-weeks/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/creggers-resident-evil-film-is-already-the-3rd-highest-grossing-re-film-with-over-usd100-million-at-the-domestic-box-office-in-under-2-weeks/",
+          "titre": "Cregger's Resident Evil film is already the 3rd highest grossing RE film with over $100 million at the domestic box office in under 2 weeks"
+        }
+      ]
+    },
+    {
+      "id": "how-every-major-character-in-dostoevsky-s-crime-and-punishme",
+      "titre": "How every major character in Dostoevsky's Crime and Punishment would fare if they had to survive the plot of Halo 1",
+      "url": "https://www.pcgamer.com/games/halo/how-every-major-character-in-dostoevskys-crime-and-punishment-would-fare-if-they-had-to-survive-the-plot-of-halo-1/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/halo/how-every-major-character-in-dostoevskys-crime-and-punishment-would-fare-if-they-had-to-survive-the-plot-of-halo-1/",
+          "titre": "How every major character in Dostoevsky's Crime and Punishment would fare if they had to survive the plot of Halo 1"
         }
       ]
     },
@@ -557,7 +659,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -575,7 +677,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -593,13 +695,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/you-guys-are-gonna-have-your-minds-blown-troy-baker-says-were-not-ready-for-intergalactic",
           "titre": "'You Guys Are Gonna Have Your Minds Blown': Troy Baker Says We're Not Ready for Intergalactic"
+        }
+      ]
+    },
+    {
+      "id": "control-resonant-director-lays-out-case-for-avoiding-excessi",
+      "titre": "Control Resonant director lays out case for avoiding excessive 'yellow paint'",
+      "url": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 2.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
+          "titre": "Control Resonant director lays out case for avoiding excessive 'yellow paint'"
         }
       ]
     },
@@ -611,7 +731,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -629,7 +749,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -647,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -665,7 +785,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -683,7 +803,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -701,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -719,7 +839,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -737,7 +857,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
@@ -748,254 +868,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "we-were-constantly-overshooting-our-capacity-arc-raiders-ex",
-      "titre": "'We were constantly overshooting our capacity:' Arc Raiders exec says success resulted in burnout",
-      "url": "https://www.gamedeveloper.com/production/-we-were-constantly-overshooting-our-capacity-arc-raiders-exec-explains-success-resulted-in-burnout",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production/-we-were-constantly-overshooting-our-capacity-arc-raiders-exec-explains-success-resulted-in-burnout",
-          "titre": "'We were constantly overshooting our capacity:' Arc Raiders exec says success resulted in burnout"
-        }
-      ]
-    },
-    {
-      "id": "don-t-worry-if-you-re-struggling-in-human-form-in-the-blood",
-      "titre": "Don't worry if you're struggling in human form in The Blood of Dawnwalker - \"it should be harder\" playing that way",
-      "url": "https://www.eurogamer.net/blood-of-dawnwalker-harder-as-human-easier-as-vampire",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blood-of-dawnwalker-harder-as-human-easier-as-vampire",
-          "titre": "Don't worry if you're struggling in human form in The Blood of Dawnwalker - \"it should be harder\" playing that way"
-        }
-      ]
-    },
-    {
-      "id": "psa-ace-combat-8-comes-with-a-whole-other-game-but-only-if-y",
-      "titre": "PSA: Ace Combat 8 Comes with a Whole Other Game, But Only if You Pre-Order, and You Don't Have Long",
-      "url": "https://www.pushsquare.com/news/2026/09/psa-ace-combat-8-comes-with-a-whole-other-game-but-only-if-you-pre-order-and-you-dont-have-long",
+      "id": "resident-evil-film-success-reportedly-hands-ps5-ps4-remakes",
+      "titre": "Resident Evil Film Success Reportedly Hands PS5, PS4 Remakes Huge Player and Sales Boosts",
+      "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-success-reportedly-hands-ps5-ps4-remakes-huge-player-and-sales-boosts",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 5.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/psa-ace-combat-8-comes-with-a-whole-other-game-but-only-if-you-pre-order-and-you-dont-have-long",
-          "titre": "PSA: Ace Combat 8 Comes with a Whole Other Game, But Only if You Pre-Order, and You Don't Have Long"
+          "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-success-reportedly-hands-ps5-ps4-remakes-huge-player-and-sales-boosts",
+          "titre": "Resident Evil Film Success Reportedly Hands PS5, PS4 Remakes Huge Player and Sales Boosts"
         }
       ]
     },
     {
-      "id": "steelseries-rival-pro-gaming-mouse-review",
-      "titre": "SteelSeries Rival Pro gaming mouse review",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/steelseries-rival-pro-gaming-mouse-review/",
+      "id": "the-tower-of-zeldaga-is-a-free-retro-mash-up-of-zelda-and-dr",
+      "titre": "The Tower of Zeldaga is a free retro mash-up of Zelda and Druaga in which you rescue Ganondorf from some evil blonde queen",
+      "url": "https://www.rockpapershotgun.com/the-tower-of-zeldaga-is-a-free-retro-mash-up-of-zelda-and-druaga-in-which-you-rescue-ganondorf-from-some-evil-blonde-queen",
       "sources": [
-        "PC Gamer"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 5.8,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-mice/steelseries-rival-pro-gaming-mouse-review/",
-          "titre": "SteelSeries Rival Pro gaming mouse review"
-        }
-      ]
-    },
-    {
-      "id": "castlevania-is-also-getting-a-40th-anniversary-concert-tour",
-      "titre": "Castlevania Is Also Getting A 40th Anniversary Concert Tour Next Year",
-      "url": "https://www.nintendolife.com/news/2026/09/castlevania-is-also-getting-a-40th-anniversary-concert-tour-next-year",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/castlevania-is-also-getting-a-40th-anniversary-concert-tour-next-year",
-          "titre": "Castlevania Is Also Getting A 40th Anniversary Concert Tour Next Year"
-        }
-      ]
-    },
-    {
-      "id": "diablo-4-will-still-get-seasonal-content-once-diablo-5-s-out",
-      "titre": "Diablo 4 will still get seasonal content once Diablo 5’s out, just like Diablo 2 and 3 do, game director says",
-      "url": "https://www.videogameschronicle.com/news/diablo-4-will-still-get-seasonal-content-once-diablo-5s-out-just-like-diablo-2-and-3-do-game-director-says/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/diablo-4-will-still-get-seasonal-content-once-diablo-5s-out-just-like-diablo-2-and-3-do-game-director-says/",
-          "titre": "Diablo 4 will still get seasonal content once Diablo 5’s out, just like Diablo 2 and 3 do, game director says"
-        }
-      ]
-    },
-    {
-      "id": "god-of-war-laufey-ps5-pre-orders-live-now-starting-at-70",
-      "titre": "God of War Laufey PS5 Pre-Orders Live Now, Starting at $70",
-      "url": "https://www.pushsquare.com/news/2026/09/god-of-war-laufey-ps5-pre-orders-live-now-starting-at-usd70",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/god-of-war-laufey-ps5-pre-orders-live-now-starting-at-usd70",
-          "titre": "God of War Laufey PS5 Pre-Orders Live Now, Starting at $70"
-        }
-      ]
-    },
-    {
-      "id": "stop-trying-to-make-a-console-war-out-of-which-wow-is-better",
-      "titre": "Stop trying to make a console war out of which WoW is better, you're all exhausting",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/stop-trying-to-make-a-console-war-out-of-which-wow-is-better-youre-all-exhausting/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/stop-trying-to-make-a-console-war-out-of-which-wow-is-better-youre-all-exhausting/",
-          "titre": "Stop trying to make a console war out of which WoW is better, you're all exhausting"
-        }
-      ]
-    },
-    {
-      "id": "this-neat-home-brew-vibe-coded-windows-tray-utility-makes-it",
-      "titre": "This neat home-brew, vibe-coded Windows tray utility makes it so much easier and more efficient to track wireless kit battery levels",
-      "url": "https://www.pcgamer.com/software/windows/this-neat-home-brew-vibe-coded-windows-tray-utility-makes-it-so-much-easier-and-more-efficient-to-track-wireless-kit-battery-levels/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/windows/this-neat-home-brew-vibe-coded-windows-tray-utility-makes-it-so-much-easier-and-more-efficient-to-track-wireless-kit-battery-levels/",
-          "titre": "This neat home-brew, vibe-coded Windows tray utility makes it so much easier and more efficient to track wireless kit battery levels"
-        }
-      ]
-    },
-    {
-      "id": "controversy-erupts-around-ace-combat-8-on-pc-as-bundled-belk",
-      "titre": "Controversy erupts around Ace Combat 8 on PC as bundled Belkan War re-release remains problematically attached to the new game, whereas it's standalone on console",
-      "url": "https://www.eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-steam-community-reaction",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-steam-community-reaction",
-          "titre": "Controversy erupts around Ace Combat 8 on PC as bundled Belkan War re-release remains problematically attached to the new game, whereas it's standalone on console"
-        }
-      ]
-    },
-    {
-      "id": "tmnt-splintered-fate-shreds-past-another-sales-milestone-dev",
-      "titre": "TMNT: Splintered Fate Shreds Past Another Sales Milestone, Dev Reveals Most-Played Characters",
-      "url": "https://www.nintendolife.com/news/2026/09/tmnt-splintered-fate-shreds-past-another-sales-milestone-dev-reveals-most-played-characters",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/tmnt-splintered-fate-shreds-past-another-sales-milestone-dev-reveals-most-played-characters",
-          "titre": "TMNT: Splintered Fate Shreds Past Another Sales Milestone, Dev Reveals Most-Played Characters"
-        }
-      ]
-    },
-    {
-      "id": "mexican-lawmakers-join-the-fight-for-digital-games-ownership",
-      "titre": "Mexican lawmakers join the fight for digital games ownership with a new consumer rights initiative",
-      "url": "https://www.eurogamer.net/mexican-lawmakers-join-fight-digital-games-ownership",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/mexican-lawmakers-join-fight-digital-games-ownership",
-          "titre": "Mexican lawmakers join the fight for digital games ownership with a new consumer rights initiative"
-        }
-      ]
-    },
-    {
-      "id": "oh-no-ps5-vapourware-abandoned-appears-to-be-coming-back",
-      "titre": "Oh No: PS5 Vapourware Abandoned Appears to Be Coming Back",
-      "url": "https://www.pushsquare.com/news/2026/09/oh-no-ps5-vapourware-abandoned-appears-to-be-coming-back",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/oh-no-ps5-vapourware-abandoned-appears-to-be-coming-back",
-          "titre": "Oh No: PS5 Vapourware Abandoned Appears to Be Coming Back"
-        }
-      ]
-    },
-    {
-      "id": "konami-has-a-silent-hill-lore-bible-and-no-you-can-t-see-it",
-      "titre": "Konami has a Silent Hill lore bible and no, you can't see it",
-      "url": "https://www.pcgamer.com/games/horror/konami-has-a-silent-hill-lore-bible-and-no-you-cant-see-it/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/konami-has-a-silent-hill-lore-bible-and-no-you-cant-see-it/",
-          "titre": "Konami has a Silent Hill lore bible and no, you can't see it"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-tower-of-zeldaga-is-a-free-retro-mash-up-of-zelda-and-druaga-in-which-you-rescue-ganondorf-from-some-evil-blonde-queen",
+          "titre": "The Tower of Zeldaga is a free retro mash-up of Zelda and Druaga in which you rescue Ganondorf from some evil blonde queen"
         }
       ]
     },
@@ -1007,7 +911,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.5,
+      "heures": 24.5,
       "chaleur": 6,
       "liens": [
         {
@@ -1025,7 +929,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.5,
       "chaleur": 5,
       "liens": [
         {
@@ -1043,7 +947,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.5,
       "chaleur": 5,
       "liens": [
         {
@@ -1061,7 +965,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.3,
       "chaleur": 5,
       "liens": [
         {
@@ -1079,7 +983,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.8,
+      "heures": 25.9,
       "chaleur": 5,
       "liens": [
         {
@@ -1097,7 +1001,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 28.1,
+      "heures": 30.2,
       "chaleur": 5,
       "liens": [
         {
@@ -1115,7 +1019,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 33.3,
       "chaleur": 5,
       "liens": [
         {
@@ -1126,25 +1030,115 @@ const VEILLE = {
       ]
     },
     {
-      "id": "thieves-stole-two-nvidia-emblazoned-truck-trailers-in-the-ho",
-      "titre": "Thieves stole two Nvidia-emblazoned truck trailers in the hopes of getting hardware and instead got 40,000 lbs of sand",
-      "url": "https://www.pcgamer.com/hardware/thieves-stole-two-nvidia-emblazoned-truck-trailers-in-the-hopes-of-getting-hardware-and-instead-got-40-000-lbs-of-sand/",
+      "id": "we-were-constantly-overshooting-our-capacity-arc-raiders-ex",
+      "titre": "'We were constantly overshooting our capacity:' Arc Raiders exec says success resulted in burnout",
+      "url": "https://www.gamedeveloper.com/production/-we-were-constantly-overshooting-our-capacity-arc-raiders-exec-explains-success-resulted-in-burnout",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/production/-we-were-constantly-overshooting-our-capacity-arc-raiders-exec-explains-success-resulted-in-burnout",
+          "titre": "'We were constantly overshooting our capacity:' Arc Raiders exec says success resulted in burnout"
+        }
+      ]
+    },
+    {
+      "id": "don-t-worry-if-you-re-struggling-in-human-form-in-the-blood",
+      "titre": "Don't worry if you're struggling in human form in The Blood of Dawnwalker - \"it should be harder\" playing that way",
+      "url": "https://www.eurogamer.net/blood-of-dawnwalker-harder-as-human-easier-as-vampire",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/blood-of-dawnwalker-harder-as-human-easier-as-vampire",
+          "titre": "Don't worry if you're struggling in human form in The Blood of Dawnwalker - \"it should be harder\" playing that way"
+        }
+      ]
+    },
+    {
+      "id": "psa-ace-combat-8-comes-with-a-whole-other-game-but-only-if-y",
+      "titre": "PSA: Ace Combat 8 Comes with a Whole Other Game, But Only if You Pre-Order, and You Don't Have Long",
+      "url": "https://www.pushsquare.com/news/2026/09/psa-ace-combat-8-comes-with-a-whole-other-game-but-only-if-you-pre-order-and-you-dont-have-long",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/psa-ace-combat-8-comes-with-a-whole-other-game-but-only-if-you-pre-order-and-you-dont-have-long",
+          "titre": "PSA: Ace Combat 8 Comes with a Whole Other Game, But Only if You Pre-Order, and You Don't Have Long"
+        }
+      ]
+    },
+    {
+      "id": "steelseries-rival-pro-gaming-mouse-review",
+      "titre": "SteelSeries Rival Pro gaming mouse review",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/steelseries-rival-pro-gaming-mouse-review/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 4.4,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/thieves-stole-two-nvidia-emblazoned-truck-trailers-in-the-hopes-of-getting-hardware-and-instead-got-40-000-lbs-of-sand/",
-          "titre": "Thieves stole two Nvidia-emblazoned truck trailers in the hopes of getting hardware and instead got 40,000 lbs of sand"
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/steelseries-rival-pro-gaming-mouse-review/",
+          "titre": "SteelSeries Rival Pro gaming mouse review"
+        }
+      ]
+    },
+    {
+      "id": "castlevania-is-also-getting-a-40th-anniversary-concert-tour",
+      "titre": "Castlevania Is Also Getting A 40th Anniversary Concert Tour Next Year",
+      "url": "https://www.nintendolife.com/news/2026/09/castlevania-is-also-getting-a-40th-anniversary-concert-tour-next-year",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/castlevania-is-also-getting-a-40th-anniversary-concert-tour-next-year",
+          "titre": "Castlevania Is Also Getting A 40th Anniversary Concert Tour Next Year"
+        }
+      ]
+    },
+    {
+      "id": "diablo-4-will-still-get-seasonal-content-once-diablo-5-s-out",
+      "titre": "Diablo 4 will still get seasonal content once Diablo 5’s out, just like Diablo 2 and 3 do, game director says",
+      "url": "https://www.videogameschronicle.com/news/diablo-4-will-still-get-seasonal-content-once-diablo-5s-out-just-like-diablo-2-and-3-do-game-director-says/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/diablo-4-will-still-get-seasonal-content-once-diablo-5s-out-just-like-diablo-2-and-3-do-game-director-says/",
+          "titre": "Diablo 4 will still get seasonal content once Diablo 5’s out, just like Diablo 2 and 3 do, game director says"
         }
       ]
     }
   ],
   "alertes": [
-    "The Witcher 3 Remastered PS5 Pays Homage to the Worst DLC in History"
+    "The Witcher 3 surges to its highest Steam concurrent player-count ever, following Remastered edition's release"
   ]
 };
