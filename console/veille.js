@@ -1,12 +1,12 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "29/09/2026 à 12h28",
+  "collecte": "29/09/2026 à 14h22",
   "seuil": 14,
   "sujets": [
     {
-      "id": "witcher-3-remastered-simulate-witcher-2-save-or-not",
-      "titre": "Witcher 3 Remastered: Simulate Witcher 2 save or not?",
-      "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-simulate-witcher-2-save-or-not/",
+      "id": "witcher-3-remastered-best-console-graphics-mode-performance",
+      "titre": "Witcher 3 Remastered best console graphics mode: Performance vs Ray Tracing",
+      "url": "https://www.videogameschronicle.com/guide/the-witcher-3-remastered-best-console-graphics-mode-performance-vs-ray-tracing/",
       "sources": [
         "Nintendo Life",
         "PC Gamer",
@@ -14,13 +14,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 1.2,
+      "heures": 0.3,
       "chaleur": 15,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-simulate-witcher-2-save-or-not/",
-          "titre": "Witcher 3 Remastered: Simulate Witcher 2 save or not?"
+          "url": "https://www.videogameschronicle.com/guide/the-witcher-3-remastered-best-console-graphics-mode-performance-vs-ray-tracing/",
+          "titre": "Witcher 3 Remastered best console graphics mode: Performance vs Ray Tracing"
         },
         {
           "source": "Push Square",
@@ -48,7 +48,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 12,
       "liens": [
         {
@@ -64,21 +64,87 @@ const VEILLE = {
       ]
     },
     {
+      "id": "review-the-witcher-3-wild-hunt-remastered-ps5-how-to-improve",
+      "titre": "Review: The Witcher 3: Wild Hunt Remastered (PS5) - How to Improve a Masterpiece",
+      "url": "https://www.pushsquare.com/reviews/ps5/the-witcher-3-wild-hunt-remastered",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/the-witcher-3-wild-hunt-remastered",
+          "titre": "Review: The Witcher 3: Wild Hunt Remastered (PS5) - How to Improve a Masterpiece"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/the-witcher-3-wild-hunt-remastered-is-out-now-heres-how-to-start-playing/",
+          "titre": "The Witcher 3 Wild Hunt Remastered is out now, here’s how to start playing"
+        }
+      ]
+    },
+    {
+      "id": "let-s-aim-for-disney-sonic-boss-reckons-ip-has-only-reached",
+      "titre": "\"Let's Aim For Disney\" - Sonic Boss Reckons IP Has Only Reached Half Of Its Potential",
+      "url": "https://www.nintendolife.com/news/2026/09/lets-aim-for-disney-sonic-boss-reckons-ip-has-only-reached-half-of-its-potential",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/lets-aim-for-disney-sonic-boss-reckons-ip-has-only-reached-half-of-its-potential",
+          "titre": "\"Let's Aim For Disney\" - Sonic Boss Reckons IP Has Only Reached Half Of Its Potential"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sonic-boss-believes-the-series-is-only-halfway-to-its-potential/",
+          "titre": "Sonic boss believes the series is only halfway to its potential"
+        }
+      ]
+    },
+    {
+      "id": "why-should-we-just-give-up-the-entire-month-of-november-the",
+      "titre": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6",
+      "url": "https://www.gamesindustry.biz/why-should-we-just-give-up-the-entire-month-of-november-the-indie-games-going-head-to-head-with-gta-6",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/why-should-we-just-give-up-the-entire-month-of-november-the-indie-games-going-head-to-head-with-gta-6",
+          "titre": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6"
+        }
+      ]
+    },
+    {
       "id": "the-witcher-3-updated-system-requirements-are-in-and-you-wil",
-      "titre": "The Witcher 3 updated system requirements are in, and you will need an RTX 5080 for path tracing with DLSS and frame generation",
+      "titre": "The Witcher 3 updated system requirements are in, and you will need an RTX 5080 for path tracing with DLSS and frame generation at 4K",
       "url": "https://www.pcgamer.com/hardware/the-witcher-3-updated-system-requirements-are-in-and-you-will-need-an-rtx-5080-for-path-tracing-with-dlss-and-frame-generation/",
       "sources": [
         "PC Gamer",
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 1.8,
+      "heures": 3.7,
       "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/the-witcher-3-updated-system-requirements-are-in-and-you-will-need-an-rtx-5080-for-path-tracing-with-dlss-and-frame-generation/",
-          "titre": "The Witcher 3 updated system requirements are in, and you will need an RTX 5080 for path tracing with DLSS and frame generation"
+          "titre": "The Witcher 3 updated system requirements are in, and you will need an RTX 5080 for path tracing with DLSS and frame generation at 4K"
         },
         {
           "source": "Rock Paper Shotgun",
@@ -88,26 +154,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sony-to-skip-ces-2027-for-first-time-since-expo-s-inaugural",
-      "titre": "Sony to skip CES 2027 for first time since expo's inaugural event in 1967",
-      "url": "https://www.gamesindustry.biz/sony-to-skip-ces-2027-for-first-time-since-expos-inaugural-event-in-1967",
+      "id": "resident-evil-film-success-reportedly-hands-ps5-ps4-remakes",
+      "titre": "Resident Evil Film Success Reportedly Hands PS5, PS4 Remakes Huge Player and Sales Boosts",
+      "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-success-reportedly-hands-ps5-ps4-remakes-huge-player-and-sales-boosts",
       "sources": [
-        "GamesIndustry.biz",
-        "VGC"
+        "Push Square"
       ],
-      "reprises": 2,
-      "heures": 2.2,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/sony-to-skip-ces-2027-for-first-time-since-expos-inaugural-event-in-1967",
-          "titre": "Sony to skip CES 2027 for first time since expo's inaugural event in 1967"
-        },
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-success-reportedly-hands-ps5-ps4-remakes-huge-player-and-sales-boosts",
+          "titre": "Resident Evil Film Success Reportedly Hands PS5, PS4 Remakes Huge Player and Sales Boosts"
+        }
+      ]
+    },
+    {
+      "id": "the-tower-of-zeldaga-is-a-free-retro-mash-up-of-zelda-and-dr",
+      "titre": "The Tower of Zeldaga is a free retro mash-up of Zelda and Druaga in which you rescue Ganondorf from some evil blonde queen",
+      "url": "https://www.rockpapershotgun.com/the-tower-of-zeldaga-is-a-free-retro-mash-up-of-zelda-and-druaga-in-which-you-rescue-ganondorf-from-some-evil-blonde-queen",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 8,
+      "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sony-is-officially-skipping-ces-for-the-first-time-in-decades/",
-          "titre": "Sony is officially skipping CES for the first time in decades"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-tower-of-zeldaga-is-a-free-retro-mash-up-of-zelda-and-druaga-in-which-you-rescue-ganondorf-from-some-evil-blonde-queen",
+          "titre": "The Tower of Zeldaga is a free retro mash-up of Zelda and Druaga in which you rescue Ganondorf from some evil blonde queen"
         }
       ]
     },
@@ -120,8 +198,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 3.1,
-      "chaleur": 9,
+      "heures": 5.0,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -144,8 +222,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 3.9,
-      "chaleur": 9,
+      "heures": 5.8,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
@@ -160,24 +238,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-clamshell-c64-and-zx-spectrum-handhelds-have-been-delaye",
-      "titre": "The clamshell C64 and ZX Spectrum handhelds have been delayed by six months because of production quality",
-      "url": "https://www.videogameschronicle.com/news/the-clamshell-c64-and-zx-spectrum-handhelds-have-been-delayed-by-six-months-because-of-production-quality/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-clamshell-c64-and-zx-spectrum-handhelds-have-been-delayed-by-six-months-because-of-production-quality/",
-          "titre": "The clamshell C64 and ZX Spectrum handhelds have been delayed by six months because of production quality"
-        }
-      ]
-    },
-    {
       "id": "in-another-unprecedented-move-call-of-duty-modern-warfare-4",
       "titre": "In another unprecedented move, Call of Duty: Modern Warfare 4 is changing double XP tokens so they count down in match and not real-time",
       "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-double-xp-tokens-count-down-change",
@@ -186,7 +246,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 4.1,
+      "heures": 6.0,
       "chaleur": 7,
       "liens": [
         {
@@ -209,7 +269,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 21.1,
+      "heures": 23.0,
       "chaleur": 7,
       "liens": [
         {
@@ -454,6 +514,276 @@ const VEILLE = {
       ]
     },
     {
+      "id": "we-were-constantly-overshooting-our-capacity-arc-raiders-ex",
+      "titre": "'We were constantly overshooting our capacity:' Arc Raiders exec says success resulted in burnout",
+      "url": "https://www.gamedeveloper.com/production/-we-were-constantly-overshooting-our-capacity-arc-raiders-exec-explains-success-resulted-in-burnout",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/production/-we-were-constantly-overshooting-our-capacity-arc-raiders-exec-explains-success-resulted-in-burnout",
+          "titre": "'We were constantly overshooting our capacity:' Arc Raiders exec says success resulted in burnout"
+        }
+      ]
+    },
+    {
+      "id": "don-t-worry-if-you-re-struggling-in-human-form-in-the-blood",
+      "titre": "Don't worry if you're struggling in human form in The Blood of Dawnwalker - \"it should be harder\" playing that way",
+      "url": "https://www.eurogamer.net/blood-of-dawnwalker-harder-as-human-easier-as-vampire",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/blood-of-dawnwalker-harder-as-human-easier-as-vampire",
+          "titre": "Don't worry if you're struggling in human form in The Blood of Dawnwalker - \"it should be harder\" playing that way"
+        }
+      ]
+    },
+    {
+      "id": "psa-ace-combat-8-comes-with-a-whole-other-game-but-only-if-y",
+      "titre": "PSA: Ace Combat 8 Comes with a Whole Other Game, But Only if You Pre-Order, and You Don't Have Long",
+      "url": "https://www.pushsquare.com/news/2026/09/psa-ace-combat-8-comes-with-a-whole-other-game-but-only-if-you-pre-order-and-you-dont-have-long",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/psa-ace-combat-8-comes-with-a-whole-other-game-but-only-if-you-pre-order-and-you-dont-have-long",
+          "titre": "PSA: Ace Combat 8 Comes with a Whole Other Game, But Only if You Pre-Order, and You Don't Have Long"
+        }
+      ]
+    },
+    {
+      "id": "steelseries-rival-pro-gaming-mouse-review",
+      "titre": "SteelSeries Rival Pro gaming mouse review",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/steelseries-rival-pro-gaming-mouse-review/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/steelseries-rival-pro-gaming-mouse-review/",
+          "titre": "SteelSeries Rival Pro gaming mouse review"
+        }
+      ]
+    },
+    {
+      "id": "castlevania-is-also-getting-a-40th-anniversary-concert-tour",
+      "titre": "Castlevania Is Also Getting A 40th Anniversary Concert Tour Next Year",
+      "url": "https://www.nintendolife.com/news/2026/09/castlevania-is-also-getting-a-40th-anniversary-concert-tour-next-year",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/castlevania-is-also-getting-a-40th-anniversary-concert-tour-next-year",
+          "titre": "Castlevania Is Also Getting A 40th Anniversary Concert Tour Next Year"
+        }
+      ]
+    },
+    {
+      "id": "diablo-4-will-still-get-seasonal-content-once-diablo-5-s-out",
+      "titre": "Diablo 4 will still get seasonal content once Diablo 5’s out, just like Diablo 2 and 3 do, game director says",
+      "url": "https://www.videogameschronicle.com/news/diablo-4-will-still-get-seasonal-content-once-diablo-5s-out-just-like-diablo-2-and-3-do-game-director-says/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/diablo-4-will-still-get-seasonal-content-once-diablo-5s-out-just-like-diablo-2-and-3-do-game-director-says/",
+          "titre": "Diablo 4 will still get seasonal content once Diablo 5’s out, just like Diablo 2 and 3 do, game director says"
+        }
+      ]
+    },
+    {
+      "id": "god-of-war-laufey-ps5-pre-orders-live-now-starting-at-70",
+      "titre": "God of War Laufey PS5 Pre-Orders Live Now, Starting at $70",
+      "url": "https://www.pushsquare.com/news/2026/09/god-of-war-laufey-ps5-pre-orders-live-now-starting-at-usd70",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/god-of-war-laufey-ps5-pre-orders-live-now-starting-at-usd70",
+          "titre": "God of War Laufey PS5 Pre-Orders Live Now, Starting at $70"
+        }
+      ]
+    },
+    {
+      "id": "stop-trying-to-make-a-console-war-out-of-which-wow-is-better",
+      "titre": "Stop trying to make a console war out of which WoW is better, you're all exhausting",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/stop-trying-to-make-a-console-war-out-of-which-wow-is-better-youre-all-exhausting/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/stop-trying-to-make-a-console-war-out-of-which-wow-is-better-youre-all-exhausting/",
+          "titre": "Stop trying to make a console war out of which WoW is better, you're all exhausting"
+        }
+      ]
+    },
+    {
+      "id": "this-neat-home-brew-vibe-coded-windows-tray-utility-makes-it",
+      "titre": "This neat home-brew, vibe-coded Windows tray utility makes it so much easier and more efficient to track wireless kit battery levels",
+      "url": "https://www.pcgamer.com/software/windows/this-neat-home-brew-vibe-coded-windows-tray-utility-makes-it-so-much-easier-and-more-efficient-to-track-wireless-kit-battery-levels/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/windows/this-neat-home-brew-vibe-coded-windows-tray-utility-makes-it-so-much-easier-and-more-efficient-to-track-wireless-kit-battery-levels/",
+          "titre": "This neat home-brew, vibe-coded Windows tray utility makes it so much easier and more efficient to track wireless kit battery levels"
+        }
+      ]
+    },
+    {
+      "id": "controversy-erupts-around-ace-combat-8-on-pc-as-bundled-belk",
+      "titre": "Controversy erupts around Ace Combat 8 on PC as bundled Belkan War re-release remains problematically attached to the new game, whereas it's standalone on console",
+      "url": "https://www.eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-steam-community-reaction",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-steam-community-reaction",
+          "titre": "Controversy erupts around Ace Combat 8 on PC as bundled Belkan War re-release remains problematically attached to the new game, whereas it's standalone on console"
+        }
+      ]
+    },
+    {
+      "id": "tmnt-splintered-fate-shreds-past-another-sales-milestone-dev",
+      "titre": "TMNT: Splintered Fate Shreds Past Another Sales Milestone, Dev Reveals Most-Played Characters",
+      "url": "https://www.nintendolife.com/news/2026/09/tmnt-splintered-fate-shreds-past-another-sales-milestone-dev-reveals-most-played-characters",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/tmnt-splintered-fate-shreds-past-another-sales-milestone-dev-reveals-most-played-characters",
+          "titre": "TMNT: Splintered Fate Shreds Past Another Sales Milestone, Dev Reveals Most-Played Characters"
+        }
+      ]
+    },
+    {
+      "id": "mexican-lawmakers-join-the-fight-for-digital-games-ownership",
+      "titre": "Mexican lawmakers join the fight for digital games ownership with a new consumer rights initiative",
+      "url": "https://www.eurogamer.net/mexican-lawmakers-join-fight-digital-games-ownership",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/mexican-lawmakers-join-fight-digital-games-ownership",
+          "titre": "Mexican lawmakers join the fight for digital games ownership with a new consumer rights initiative"
+        }
+      ]
+    },
+    {
+      "id": "oh-no-ps5-vapourware-abandoned-appears-to-be-coming-back",
+      "titre": "Oh No: PS5 Vapourware Abandoned Appears to Be Coming Back",
+      "url": "https://www.pushsquare.com/news/2026/09/oh-no-ps5-vapourware-abandoned-appears-to-be-coming-back",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/oh-no-ps5-vapourware-abandoned-appears-to-be-coming-back",
+          "titre": "Oh No: PS5 Vapourware Abandoned Appears to Be Coming Back"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-developers-talk-remastering-a-classic-and-crea",
+      "titre": "The Witcher 3: Developers talk remastering a classic and creating Songs of the Past",
+      "url": "https://www.videogameschronicle.com/features/interviews/the-witcher-3-developers-talk-remastering-a-classic-and-creating-songs-of-the-past/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/features/interviews/the-witcher-3-developers-talk-remastering-a-classic-and-creating-songs-of-the-past/",
+          "titre": "The Witcher 3: Developers talk remastering a classic and creating Songs of the Past"
+        }
+      ]
+    },
+    {
+      "id": "konami-has-a-silent-hill-lore-bible-and-no-you-can-t-see-it",
+      "titre": "Konami has a Silent Hill lore bible and no, you can't see it",
+      "url": "https://www.pcgamer.com/games/horror/konami-has-a-silent-hill-lore-bible-and-no-you-cant-see-it/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/konami-has-a-silent-hill-lore-bible-and-no-you-cant-see-it/",
+          "titre": "Konami has a Silent Hill lore bible and no, you can't see it"
+        }
+      ]
+    },
+    {
       "id": "thieves-stole-two-nvidia-emblazoned-truck-trailers-in-the-ho",
       "titre": "Thieves stole two Nvidia-emblazoned truck trailers in the hopes of getting hardware and instead got 40,000 lbs of sand",
       "url": "https://www.pcgamer.com/hardware/thieves-stole-two-nvidia-emblazoned-truck-trailers-in-the-hopes-of-getting-hardware-and-instead-got-40-000-lbs-of-sand/",
@@ -461,7 +791,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
@@ -479,7 +809,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -497,7 +827,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -515,7 +845,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -533,7 +863,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -551,7 +881,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +899,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -580,182 +910,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "34-video-game-lego-sets-are-retiring-at-the-end-of-the-year",
-      "titre": "34 video game Lego sets are retiring at the end of the year, including Animal Crossing, Horizon and Sonic sets",
-      "url": "https://www.videogameschronicle.com/news/34-video-game-lego-sets-are-retiring-at-the-end-of-the-year-including-animal-crossing-horizon-and-sonic-sets/",
+      "id": "the-clamshell-c64-and-zx-spectrum-handhelds-have-been-delaye",
+      "titre": "The clamshell C64 and ZX Spectrum handhelds have been delayed by six months because of production quality",
+      "url": "https://www.videogameschronicle.com/news/the-clamshell-c64-and-zx-spectrum-handhelds-have-been-delayed-by-six-months-because-of-production-quality/",
       "sources": [
         "VGC"
       ],
       "reprises": 1,
-      "heures": 2.2,
+      "heures": 5.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/34-video-game-lego-sets-are-retiring-at-the-end-of-the-year-including-animal-crossing-horizon-and-sonic-sets/",
-          "titre": "34 video game Lego sets are retiring at the end of the year, including Animal Crossing, Horizon and Sonic sets"
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-wild-hunt-remastered-is-out-now-here-s-how-to",
-      "titre": "The Witcher 3 Wild Hunt Remastered is out now, here’s how to start playing",
-      "url": "https://www.videogameschronicle.com/guide/the-witcher-3-wild-hunt-remastered-is-out-now-heres-how-to-start-playing/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/the-witcher-3-wild-hunt-remastered-is-out-now-heres-how-to-start-playing/",
-          "titre": "The Witcher 3 Wild Hunt Remastered is out now, here’s how to start playing"
-        }
-      ]
-    },
-    {
-      "id": "how-to-get-unlocked-multi-frame-gen-working-on-an-rtx-40-ser",
-      "titre": "How to get unlocked Multi Frame Gen working on an RTX 40-series graphics card",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/how-to-get-unlocked-multi-frame-gen-working-on-an-rtx-40-series-graphics-card/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/how-to-get-unlocked-multi-frame-gen-working-on-an-rtx-40-series-graphics-card/",
-          "titre": "How to get unlocked Multi Frame Gen working on an RTX 40-series graphics card"
-        }
-      ]
-    },
-    {
-      "id": "sonic-boss-believes-the-series-is-only-halfway-to-its-potent",
-      "titre": "Sonic boss believes the series is only halfway to its potential",
-      "url": "https://www.videogameschronicle.com/news/sonic-boss-believes-the-series-is-only-halfway-to-its-potential/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sonic-boss-believes-the-series-is-only-halfway-to-its-potential/",
-          "titre": "Sonic boss believes the series is only halfway to its potential"
-        }
-      ]
-    },
-    {
-      "id": "all-versions-of-the-witcher-3-that-exist-in-the-world-will-b",
-      "titre": "All versions of The Witcher 3 \"that exist in the world\" will be upgraded with the free Remastered edition today",
-      "url": "https://www.eurogamer.net/all-versions-of-the-witcher-3-that-exist-in-the-world-will-be-upgraded-with-the-free-remastered-edition-today",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/all-versions-of-the-witcher-3-that-exist-in-the-world-will-be-upgraded-with-the-free-remastered-edition-today",
-          "titre": "All versions of The Witcher 3 \"that exist in the world\" will be upgraded with the free Remastered edition today"
-        }
-      ]
-    },
-    {
-      "id": "this-new-super-bright-500-nit-inkjet-tech-promises-to-fix-ol",
-      "titre": "This new super-bright 500 nit 'inkjet' tech promises to fix OLED's full-screen brightness limitation",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/this-new-super-bright-500-nit-inkjet-tech-promises-to-fix-oleds-full-screen-brightness-limitation/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-monitors/this-new-super-bright-500-nit-inkjet-tech-promises-to-fix-oleds-full-screen-brightness-limitation/",
-          "titre": "This new super-bright 500 nit 'inkjet' tech promises to fix OLED's full-screen brightness limitation"
-        }
-      ]
-    },
-    {
-      "id": "sony-is-introducing-an-anti-scalping-lottery-system-for-ps5",
-      "titre": "Sony is introducing an anti-scalping lottery system for PS5 Pros in Japan as supply shortages persist",
-      "url": "https://www.eurogamer.net/sony-ps5-pro-lottery-system-japan-supply-shortage",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sony-ps5-pro-lottery-system-japan-supply-shortage",
-          "titre": "Sony is introducing an anti-scalping lottery system for PS5 Pros in Japan as supply shortages persist"
-        }
-      ]
-    },
-    {
-      "id": "final-3-september-2026-ps-plus-extra-games-available-to-down",
-      "titre": "Final 3 September 2026 PS Plus Extra Games Available to Download Now",
-      "url": "https://www.pushsquare.com/news/2026/09/final-3-september-2026-ps-plus-extra-games-available-to-download-now",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/final-3-september-2026-ps-plus-extra-games-available-to-download-now",
-          "titre": "Final 3 September 2026 PS Plus Extra Games Available to Download Now"
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-remastered-is-now-the-highest-scoring-game-of",
-      "titre": "The Witcher 3 Remastered is now the highest-scoring game of 2026 on Metacritic",
-      "url": "https://www.videogameschronicle.com/news/the-witcher-3-remastered-is-now-the-highest-scoring-game-of-2026-on-metacritic/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-witcher-3-remastered-is-now-the-highest-scoring-game-of-2026-on-metacritic/",
-          "titre": "The Witcher 3 Remastered is now the highest-scoring game of 2026 on Metacritic"
-        }
-      ]
-    },
-    {
-      "id": "xbox-reveals-gears-of-war-lancer-pizza-cutter-immediately-se",
-      "titre": "Xbox reveals Gears of War Lancer pizza cutter, immediately sells out",
-      "url": "https://www.videogameschronicle.com/news/xbox-reveals-gears-of-war-lancer-pizza-cutter-immediately-sells-out/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 4.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-reveals-gears-of-war-lancer-pizza-cutter-immediately-sells-out/",
-          "titre": "Xbox reveals Gears of War Lancer pizza cutter, immediately sells out"
+          "url": "https://www.videogameschronicle.com/news/the-clamshell-c64-and-zx-spectrum-handhelds-have-been-delayed-by-six-months-because-of-production-quality/",
+          "titre": "The clamshell C64 and ZX Spectrum handhelds have been delayed by six months because of production quality"
         }
       ]
     },
@@ -767,7 +935,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.5,
       "chaleur": 6,
       "liens": [
         {
@@ -785,7 +953,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.5,
       "chaleur": 6,
       "liens": [
         {
@@ -803,31 +971,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 20.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
           "titre": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city"
-        }
-      ]
-    },
-    {
-      "id": "double-fine-s-first-game-since-being-dumped-by-xbox-will-be",
-      "titre": "Double Fine's first game since being dumped by Xbox will be out in just 2 weeks",
-      "url": "https://www.pcgamer.com/games/racing/double-fines-first-game-since-being-dumped-by-xbox-will-be-out-in-just-2-weeks/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.5,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/racing/double-fines-first-game-since-being-dumped-by-xbox-will-be-out-in-just-2-weeks/",
-          "titre": "Double Fine's first game since being dumped by Xbox will be out in just 2 weeks"
         }
       ]
     },
@@ -839,7 +989,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.3,
       "chaleur": 5,
       "liens": [
         {
@@ -857,7 +1007,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 21.8,
       "chaleur": 5,
       "liens": [
         {
@@ -875,7 +1025,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 24.2,
+      "heures": 26.1,
       "chaleur": 5,
       "liens": [
         {
@@ -893,7 +1043,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.5,
+      "heures": 26.4,
       "chaleur": 5,
       "liens": [
         {
@@ -911,7 +1061,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 29.3,
       "chaleur": 5,
       "liens": [
         {
@@ -922,223 +1072,79 @@ const VEILLE = {
       ]
     },
     {
-      "id": "let-the-heroic-games-begin-fire-emblem-fortune-s-weave-brin",
-      "titre": "\"Let The Heroic Games Begin\" - Fire Emblem: Fortune's Weave Brings The Battle To Tetris 99",
-      "url": "https://www.nintendolife.com/news/2026/09/let-the-heroic-games-begin-fire-emblem-fortunes-weave-brings-the-battle-to-tetris-99",
+      "id": "34-video-game-lego-sets-are-retiring-at-the-end-of-the-year",
+      "titre": "34 video game Lego sets are retiring at the end of the year, including Animal Crossing, Horizon and Sonic sets",
+      "url": "https://www.videogameschronicle.com/news/34-video-game-lego-sets-are-retiring-at-the-end-of-the-year-including-animal-crossing-horizon-and-sonic-sets/",
       "sources": [
-        "Nintendo Life"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 10.6,
+      "heures": 4.1,
       "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/let-the-heroic-games-begin-fire-emblem-fortunes-weave-brings-the-battle-to-tetris-99",
-          "titre": "\"Let The Heroic Games Begin\" - Fire Emblem: Fortune's Weave Brings The Battle To Tetris 99"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/34-video-game-lego-sets-are-retiring-at-the-end-of-the-year-including-animal-crossing-horizon-and-sonic-sets/",
+          "titre": "34 video game Lego sets are retiring at the end of the year, including Animal Crossing, Horizon and Sonic sets"
         }
       ]
     },
     {
-      "id": "this-mod-delivers-what-valheim-was-missing-all-these-years-s",
-      "titre": "This mod delivers what Valheim was missing all these years: seasons",
-      "url": "https://www.pcgamer.com/games/survival-crafting/this-mod-delivers-what-valheim-was-missing-all-these-years-seasons/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/this-mod-delivers-what-valheim-was-missing-all-these-years-seasons/",
-          "titre": "This mod delivers what Valheim was missing all these years: seasons"
-        }
-      ]
-    },
-    {
-      "id": "new-the-last-of-us-projects-in-very-early-stages-of-developm",
-      "titre": "New The Last of Us Projects in 'Very Early Stages' of Development",
-      "url": "https://www.pushsquare.com/news/2026/09/new-the-last-of-us-projects-in-very-early-stages-of-development",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 12.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/new-the-last-of-us-projects-in-very-early-stages-of-development",
-          "titre": "New The Last of Us Projects in 'Very Early Stages' of Development"
-        }
-      ]
-    },
-    {
-      "id": "i-can-t-stop-comparing-the-dialogue-from-the-original-messy",
-      "titre": "I can't stop comparing the dialogue from the original, messy FF7 localization and its vastly improved fan translation",
-      "url": "https://www.pcgamer.com/games/final-fantasy/i-cant-stop-comparing-the-dialogue-from-the-original-messy-ff7-localization-and-its-vastly-improved-fan-translation/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/final-fantasy/i-cant-stop-comparing-the-dialogue-from-the-original-messy-ff7-localization-and-its-vastly-improved-fan-translation/",
-          "titre": "I can't stop comparing the dialogue from the original, messy FF7 localization and its vastly improved fan translation"
-        }
-      ]
-    },
-    {
-      "id": "random-motherbrain-returns-as-ubisoft-s-genai-gaming-initiat",
-      "titre": "Random: \"Motherbrain\" Returns As Ubisoft's GenAI Gaming Initiative",
-      "url": "https://www.nintendolife.com/news/2026/09/random-motherbrain-returns-as-ubisofts-genai-gaming-initiative",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 12.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/random-motherbrain-returns-as-ubisofts-genai-gaming-initiative",
-          "titre": "Random: \"Motherbrain\" Returns As Ubisoft's GenAI Gaming Initiative"
-        }
-      ]
-    },
-    {
-      "id": "enhance-your-ace-combat-8-experience-with-two-rival-ps5-flig",
-      "titre": "Enhance Your Ace Combat 8 Experience with Two Rival PS5 Flight Sticks, Out This Week",
-      "url": "https://www.pushsquare.com/news/2026/09/enhance-your-ace-combat-8-experience-with-two-rival-ps5-flight-sticks-out-this-week",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 13.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/enhance-your-ace-combat-8-experience-with-two-rival-ps5-flight-sticks-out-this-week",
-          "titre": "Enhance Your Ace Combat 8 Experience with Two Rival PS5 Flight Sticks, Out This Week"
-        }
-      ]
-    },
-    {
-      "id": "review-train-sim-world-7-ps5-a-familiar-journey-with-a-few-n",
-      "titre": "Review: Train Sim World 7 (PS5) - A Familiar Journey with a Few New Stops",
-      "url": "https://www.pushsquare.com/reviews/ps5/train-sim-world-7",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 13.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/train-sim-world-7",
-          "titre": "Review: Train Sim World 7 (PS5) - A Familiar Journey with a Few New Stops"
-        }
-      ]
-    },
-    {
-      "id": "former-elder-scrolls-writer-kurt-kuhlmann-is-100-convinced-a",
-      "titre": "Former Elder Scrolls writer Kurt Kuhlmann is '100% convinced' a load-bearing bit of series lore was inspired by a typo",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/former-elder-scrolls-writer-kurt-kuhlmann-is-100-percent-convinced-a-load-bearing-bit-of-series-lore-was-inspired-by-a-typo/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-elder-scrolls/former-elder-scrolls-writer-kurt-kuhlmann-is-100-percent-convinced-a-load-bearing-bit-of-series-lore-was-inspired-by-a-typo/",
-          "titre": "Former Elder Scrolls writer Kurt Kuhlmann is '100% convinced' a load-bearing bit of series lore was inspired by a typo"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-dev-teases-new-mega-dungeon-to-get",
-      "titre": "World of Warcraft: Forever dev teases new 'mega dungeon' to get lost in for hours like the good ol' days",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-teases-new-mega-dungeon-to-get-lost-in-for-hours-like-the-good-ol-days/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-teases-new-mega-dungeon-to-get-lost-in-for-hours-like-the-good-ol-days/",
-          "titre": "World of Warcraft: Forever dev teases new 'mega dungeon' to get lost in for hours like the good ol' days"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-players-find-black-market-npc-who",
-      "titre": "World of Warcraft: Forever players find black market NPC who sells a 15-day movement speed buff and other rare items that nobody can afford yet",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-find-black-market-npc-who-sells-a-15-day-movement-speed-buff-and-other-rare-items-that-nobody-can-afford-yet/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-find-black-market-npc-who-sells-a-15-day-movement-speed-buff-and-other-rare-items-that-nobody-can-afford-yet/",
-          "titre": "World of Warcraft: Forever players find black market NPC who sells a 15-day movement speed buff and other rare items that nobody can afford yet"
-        }
-      ]
-    },
-    {
-      "id": "the-last-of-us-day-marked-with-ps5-avatars-ghost-of-yotei-dl",
-      "titre": "The Last of Us Day Marked with PS5 Avatars, Ghost of Yotei DLC, Figures",
-      "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-marked-with-ps5-avatars-ghost-of-yotei-dlc-figures",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 18.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-marked-with-ps5-avatars-ghost-of-yotei-dlc-figures",
-          "titre": "The Last of Us Day Marked with PS5 Avatars, Ghost of Yotei DLC, Figures"
-        }
-      ]
-    },
-    {
-      "id": "national-videogame-museum-launches-uk-wide-survey-on-game-pr",
-      "titre": "National Videogame Museum launches UK-wide survey on game preservation",
-      "url": "https://www.gamesindustry.biz/national-videogame-museum-launches-uk-wide-survey-on-game-preservation",
+      "id": "sony-to-skip-ces-2027-for-first-time-since-expo-s-inaugural",
+      "titre": "Sony to skip CES 2027 for first time since expo's inaugural event in 1967",
+      "url": "https://www.gamesindustry.biz/sony-to-skip-ces-2027-for-first-time-since-expos-inaugural-event-in-1967",
       "sources": [
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 18.2,
-      "chaleur": 3,
+      "heures": 4.1,
+      "chaleur": 4,
       "liens": [
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/national-videogame-museum-launches-uk-wide-survey-on-game-preservation",
-          "titre": "National Videogame Museum launches UK-wide survey on game preservation"
+          "url": "https://www.gamesindustry.biz/sony-to-skip-ces-2027-for-first-time-since-expos-inaugural-event-in-1967",
+          "titre": "Sony to skip CES 2027 for first time since expo's inaugural event in 1967"
+        }
+      ]
+    },
+    {
+      "id": "how-to-get-unlocked-multi-frame-gen-working-on-an-rtx-40-ser",
+      "titre": "How to get unlocked Multi Frame Gen working on an RTX 40-series graphics card",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/how-to-get-unlocked-multi-frame-gen-working-on-an-rtx-40-series-graphics-card/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/how-to-get-unlocked-multi-frame-gen-working-on-an-rtx-40-series-graphics-card/",
+          "titre": "How to get unlocked Multi Frame Gen working on an RTX 40-series graphics card"
+        }
+      ]
+    },
+    {
+      "id": "all-versions-of-the-witcher-3-that-exist-in-the-world-will-b",
+      "titre": "All versions of The Witcher 3 \"that exist in the world\" will be upgraded with the free Remastered edition today",
+      "url": "https://www.eurogamer.net/all-versions-of-the-witcher-3-that-exist-in-the-world-will-be-upgraded-with-the-free-remastered-edition-today",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/all-versions-of-the-witcher-3-that-exist-in-the-world-will-be-upgraded-with-the-free-remastered-edition-today",
+          "titre": "All versions of The Witcher 3 \"that exist in the world\" will be upgraded with the free Remastered edition today"
         }
       ]
     }
   ],
   "alertes": [
-    "Witcher 3 Remastered: Simulate Witcher 2 save or not?"
+    "Witcher 3 Remastered best console graphics mode: Performance vs Ray Tracing"
   ]
 };
