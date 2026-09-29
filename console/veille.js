@@ -1,12 +1,12 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "29/09/2026 à 14h22",
+  "collecte": "29/09/2026 à 16h24",
   "seuil": 14,
   "sujets": [
     {
-      "id": "witcher-3-remastered-best-console-graphics-mode-performance",
-      "titre": "Witcher 3 Remastered best console graphics mode: Performance vs Ray Tracing",
-      "url": "https://www.videogameschronicle.com/guide/the-witcher-3-remastered-best-console-graphics-mode-performance-vs-ray-tracing/",
+      "id": "the-witcher-3-remastered-ps5-pays-homage-to-the-worst-dlc-in",
+      "titre": "The Witcher 3 Remastered PS5 Pays Homage to the Worst DLC in History",
+      "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pays-homage-to-the-worst-dlc-in-history",
       "sources": [
         "Nintendo Life",
         "PC Gamer",
@@ -14,18 +14,18 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 0.3,
+      "heures": 1.4,
       "chaleur": 15,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/the-witcher-3-remastered-best-console-graphics-mode-performance-vs-ray-tracing/",
-          "titre": "Witcher 3 Remastered best console graphics mode: Performance vs Ray Tracing"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pays-homage-to-the-worst-dlc-in-history",
+          "titre": "The Witcher 3 Remastered PS5 Pays Homage to the Worst DLC in History"
         },
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-available-to-download-now",
-          "titre": "The Witcher 3 Remastered Available to Download Now"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-simulate-witcher-2-save-or-not/",
+          "titre": "Witcher 3 Remastered: Simulate Witcher 2 save, on or off?"
         },
         {
           "source": "PC Gamer",
@@ -40,6 +40,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "more-nintendo-lego-sets-are-being-retired-this-year",
+      "titre": "More Nintendo LEGO Sets Are Being Retired This Year",
+      "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.9,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
+          "titre": "More Nintendo LEGO Sets Are Being Retired This Year"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/34-video-game-lego-sets-are-retiring-at-the-end-of-the-year-including-animal-crossing-horizon-and-sonic-sets/",
+          "titre": "34 video game Lego sets are retiring at the end of the year, including Animal Crossing, Horizon and Sonic sets"
+        }
+      ]
+    },
+    {
       "id": "zelda-40th-anniversary-concert-tickets-go-on-sale-in-europe",
       "titre": "Zelda 40th Anniversary Concert tickets go on sale in Europe this week, as Nintendo says more countries are coming",
       "url": "https://www.videogameschronicle.com/news/zelda-40th-anniversary-concert-tickets-go-on-sale-in-europe-this-week-as-nintendo-says-more-countries-are-coming/",
@@ -48,8 +72,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 2.3,
-      "chaleur": 12,
+      "heures": 4.3,
+      "chaleur": 10,
       "liens": [
         {
           "source": "VGC",
@@ -58,32 +82,56 @@ const VEILLE = {
         },
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/zelda-40th-anniversary-concert-tickets-go-live-tomorrow-30th-september-europe",
-          "titre": "Zelda 40th Anniversary Concert Tickets Go Live Tomorrow, 30th September (Europe)"
+          "url": "https://www.nintendolife.com/news/2026/09/zelda-40th-anniversary-concert-tickets-go-live-tomorrow-30th-september",
+          "titre": "Zelda 40th Anniversary Concert Tickets Go Live Tomorrow, 30th September"
         }
       ]
     },
     {
-      "id": "review-the-witcher-3-wild-hunt-remastered-ps5-how-to-improve",
-      "titre": "Review: The Witcher 3: Wild Hunt Remastered (PS5) - How to Improve a Masterpiece",
-      "url": "https://www.pushsquare.com/reviews/ps5/the-witcher-3-wild-hunt-remastered",
+      "id": "the-witcher-3-songs-of-the-past-sounds-like-it-s-mirroring-b",
+      "titre": "The Witcher 3 Songs of the Past sounds like it's mirroring Blood and Wine in being \"a lot dreamier\" than a \"bread-and-butter Witcher story\"",
+      "url": "https://www.rockpapershotgun.com/the-witcher-3-songs-of-the-past-sounds-like-its-mirroring-blood-and-wine-in-being-a-lot-dreamier-than-a-bread-and-butter-witcher-story",
       "sources": [
-        "Push Square",
+        "Rock Paper Shotgun",
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.1,
+      "heures": 0.9,
       "chaleur": 9,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/the-witcher-3-wild-hunt-remastered",
-          "titre": "Review: The Witcher 3: Wild Hunt Remastered (PS5) - How to Improve a Masterpiece"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-witcher-3-songs-of-the-past-sounds-like-its-mirroring-blood-and-wine-in-being-a-lot-dreamier-than-a-bread-and-butter-witcher-story",
+          "titre": "The Witcher 3 Songs of the Past sounds like it's mirroring Blood and Wine in being \"a lot dreamier\" than a \"bread-and-butter Witcher story\""
         },
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/the-witcher-3-wild-hunt-remastered-is-out-now-heres-how-to-start-playing/",
-          "titre": "The Witcher 3 Wild Hunt Remastered is out now, here’s how to start playing"
+          "url": "https://www.videogameschronicle.com/features/interviews/the-witcher-3-developers-talk-remastering-a-classic-and-creating-songs-of-the-past/",
+          "titre": "The Witcher 3: Developers talk remastering a classic and creating Songs of the Past"
+        }
+      ]
+    },
+    {
+      "id": "witcher-3-remastered-best-console-graphics-mode-performance",
+      "titre": "Witcher 3 Remastered best console graphics mode: Performance vs Ray Tracing",
+      "url": "https://www.videogameschronicle.com/guide/the-witcher-3-remastered-best-console-graphics-mode-performance-vs-ray-tracing/",
+      "sources": [
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 2.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/the-witcher-3-remastered-best-console-graphics-mode-performance-vs-ray-tracing/",
+          "titre": "Witcher 3 Remastered best console graphics mode: Performance vs Ray Tracing"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/cd-projekt-release-full-updated-witcher-3-wild-hunt-remastered-system-specs-including-ray-tracing-and-path-tracing-requirements",
+          "titre": "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements"
         }
       ]
     },
@@ -96,7 +144,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 9,
       "liens": [
         {
@@ -119,7 +167,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 9,
       "liens": [
         {
@@ -130,26 +178,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-witcher-3-updated-system-requirements-are-in-and-you-wil",
-      "titre": "The Witcher 3 updated system requirements are in, and you will need an RTX 5080 for path tracing with DLSS and frame generation at 4K",
-      "url": "https://www.pcgamer.com/hardware/the-witcher-3-updated-system-requirements-are-in-and-you-will-need-an-rtx-5080-for-path-tracing-with-dlss-and-frame-generation/",
+      "id": "persona-sales-report-confirms-north-america-as-series-bigges",
+      "titre": "Persona Sales Report Confirms North America as Series' Biggest Market",
+      "url": "https://www.pushsquare.com/news/2026/09/persona-sales-report-confirms-north-america-as-series-biggest-market",
       "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
+        "Push Square"
       ],
-      "reprises": 2,
-      "heures": 3.7,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/the-witcher-3-updated-system-requirements-are-in-and-you-will-need-an-rtx-5080-for-path-tracing-with-dlss-and-frame-generation/",
-          "titre": "The Witcher 3 updated system requirements are in, and you will need an RTX 5080 for path tracing with DLSS and frame generation at 4K"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cd-projekt-release-full-updated-witcher-3-wild-hunt-remastered-system-specs-including-ray-tracing-and-path-tracing-requirements",
-          "titre": "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/persona-sales-report-confirms-north-america-as-series-biggest-market",
+          "titre": "Persona Sales Report Confirms North America as Series' Biggest Market"
         }
       ]
     },
@@ -161,7 +203,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 8,
       "liens": [
         {
@@ -179,7 +221,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 8,
       "liens": [
         {
@@ -198,7 +240,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 5.0,
+      "heures": 7.0,
       "chaleur": 7,
       "liens": [
         {
@@ -222,7 +264,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 5.8,
+      "heures": 7.8,
       "chaleur": 7,
       "liens": [
         {
@@ -238,30 +280,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "in-another-unprecedented-move-call-of-duty-modern-warfare-4",
-      "titre": "In another unprecedented move, Call of Duty: Modern Warfare 4 is changing double XP tokens so they count down in match and not real-time",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-double-xp-tokens-count-down-change",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 6.0,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-double-xp-tokens-count-down-change",
-          "titre": "In another unprecedented move, Call of Duty: Modern Warfare 4 is changing double XP tokens so they count down in match and not real-time"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/double-xp-tokens-finally-work-how-youd-think-they-would-in-modern-warfare-4",
-          "titre": "Double XP Tokens Finally Work How You'd Think They Would in Modern Warfare 4"
-        }
-      ]
-    },
-    {
       "id": "report-sony-surveying-developers-about-dropping-playstation",
       "titre": "Report: Sony surveying developers about dropping PlayStation disc support",
       "url": "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support",
@@ -269,7 +287,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 23.0,
+      "heures": 25.0,
       "chaleur": 7,
       "liens": [
         {
@@ -514,6 +532,222 @@ const VEILLE = {
       ]
     },
     {
+      "id": "set-up-your-own-ramen-bar-and-explore-a-voxel-cyberpunk-city",
+      "titre": "Set up your own ramen bar and explore a voxel cyberpunk city in the slice-of-lifey Nivalis Nights, out now",
+      "url": "https://www.rockpapershotgun.com/set-up-your-own-ramen-bar-and-explore-a-voxel-cyberpunk-city-in-the-slice-of-lifey-nivalis-nights-out-now",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/set-up-your-own-ramen-bar-and-explore-a-voxel-cyberpunk-city-in-the-slice-of-lifey-nivalis-nights-out-now",
+          "titre": "Set up your own ramen bar and explore a voxel cyberpunk city in the slice-of-lifey Nivalis Nights, out now"
+        }
+      ]
+    },
+    {
+      "id": "fantastic-sandbox-cop-game-the-precinct-gets-a-huge-update-o",
+      "titre": "Fantastic Sandbox Cop Game The Precinct Gets a Huge Update on PS5",
+      "url": "https://www.pushsquare.com/news/2026/09/fantastic-sandbox-cop-game-the-precinct-gets-a-huge-update-on-ps5",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/fantastic-sandbox-cop-game-the-precinct-gets-a-huge-update-on-ps5",
+          "titre": "Fantastic Sandbox Cop Game The Precinct Gets a Huge Update on PS5"
+        }
+      ]
+    },
+    {
+      "id": "discord-s-new-resource-light-game-mode-doesn-t-mention-anyth",
+      "titre": "Discord's new resource-light 'Game Mode' doesn't mention anything about reducing memory usage",
+      "url": "https://www.pcgamer.com/hardware/discords-new-resource-light-game-mode-doesnt-mention-anything-about-reducing-memory-usage/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/discords-new-resource-light-game-mode-doesnt-mention-anything-about-reducing-memory-usage/",
+          "titre": "Discord's new resource-light 'Game Mode' doesn't mention anything about reducing memory usage"
+        }
+      ]
+    },
+    {
+      "id": "you-guys-are-gonna-have-your-minds-blown-troy-baker-says-we",
+      "titre": "'You Guys Are Gonna Have Your Minds Blown': Troy Baker Says We're Not Ready for Intergalactic",
+      "url": "https://www.pushsquare.com/news/2026/09/you-guys-are-gonna-have-your-minds-blown-troy-baker-says-were-not-ready-for-intergalactic",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/you-guys-are-gonna-have-your-minds-blown-troy-baker-says-were-not-ready-for-intergalactic",
+          "titre": "'You Guys Are Gonna Have Your Minds Blown': Troy Baker Says We're Not Ready for Intergalactic"
+        }
+      ]
+    },
+    {
+      "id": "you-can-now-watch-one-of-this-year-s-best-orchestral-game-mu",
+      "titre": "You can now watch one of this year's best orchestral game-music performances, celebrating Hades 1 and 2, online for free",
+      "url": "https://www.eurogamer.net/watch-hades-orchestral-performance-recording",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/watch-hades-orchestral-performance-recording",
+          "titre": "You can now watch one of this year's best orchestral game-music performances, celebrating Hades 1 and 2, online for free"
+        }
+      ]
+    },
+    {
+      "id": "31-of-you-go-full-goth-and-keep-your-rgb-lighting-turned-off",
+      "titre": "31% of you go full goth and keep your RGB lighting turned off, while a mere 7% drench your rigs in unicorn vomit",
+      "url": "https://www.pcgamer.com/hardware/lighting/31-percent-of-you-go-full-goth-and-keep-your-rgb-lighting-turned-off-while-a-mere-7-percent-drench-your-rigs-in-unicorn-vomit/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/lighting/31-percent-of-you-go-full-goth-and-keep-your-rgb-lighting-turned-off-while-a-mere-7-percent-drench-your-rigs-in-unicorn-vomit/",
+          "titre": "31% of you go full goth and keep your RGB lighting turned off, while a mere 7% drench your rigs in unicorn vomit"
+        }
+      ]
+    },
+    {
+      "id": "no-usb-connectivity-like-at-all-it-s-a-good-job-steelseries",
+      "titre": "No USB connectivity? Like, at all? It's a good job SteelSeries' new gaming mice are two of the best I've felt under my fingertips",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/no-usb-connectivity-like-at-all-its-a-good-job-steelseries-new-gaming-mice-are-two-of-the-best-ive-felt-under-my-fingertips/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/no-usb-connectivity-like-at-all-its-a-good-job-steelseries-new-gaming-mice-are-two-of-the-best-ive-felt-under-my-fingertips/",
+          "titre": "No USB connectivity? Like, at all? It's a good job SteelSeries' new gaming mice are two of the best I've felt under my fingertips"
+        }
+      ]
+    },
+    {
+      "id": "i-perished-in-the-flesh-pipes-of-darktide-s-depths-of-the-da",
+      "titre": "I perished in the flesh pipes of Darktide's Depths of the Damned update, and you will too",
+      "url": "https://www.rockpapershotgun.com/i-perished-in-the-flesh-pipes-of-darktides-depths-of-the-damned-update-and-you-will-too",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/i-perished-in-the-flesh-pipes-of-darktides-depths-of-the-damned-update-and-you-will-too",
+          "titre": "I perished in the flesh pipes of Darktide's Depths of the Damned update, and you will too"
+        }
+      ]
+    },
+    {
+      "id": "these-3-classic-toy-story-games-have-all-been-delisted-on-ps",
+      "titre": "These 3 Classic Toy Story Games Have All Been Delisted on PS5, Removed from PS Plus",
+      "url": "https://www.pushsquare.com/news/2026/09/these-3-classic-toy-story-games-have-all-been-delisted-on-ps5-removed-from-ps-plus",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/these-3-classic-toy-story-games-have-all-been-delisted-on-ps5-removed-from-ps-plus",
+          "titre": "These 3 Classic Toy Story Games Have All Been Delisted on PS5, Removed from PS Plus"
+        }
+      ]
+    },
+    {
+      "id": "the-best-frog-in-all-of-gaming-touch-me-is-now-appreciable-i",
+      "titre": "The best frog in all of gaming, Touch Me, is now appreciable in all its glory thanks to a FF7 model viewer",
+      "url": "https://www.pcgamer.com/games/final-fantasy/the-best-frog-in-all-of-gaming-touch-me-is-now-appreciable-in-all-its-glory-thanks-to-a-ff7-model-viewer/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/final-fantasy/the-best-frog-in-all-of-gaming-touch-me-is-now-appreciable-in-all-its-glory-thanks-to-a-ff7-model-viewer/",
+          "titre": "The best frog in all of gaming, Touch Me, is now appreciable in all its glory thanks to a FF7 model viewer"
+        }
+      ]
+    },
+    {
+      "id": "how-indie-studios-can-survive-industry-volatility-opinion",
+      "titre": "How indie studios can survive industry volatility | Opinion",
+      "url": "https://www.gamesindustry.biz/how-indie-studios-can-survive-industry-volatility-opinion",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/how-indie-studios-can-survive-industry-volatility-opinion",
+          "titre": "How indie studios can survive industry volatility | Opinion"
+        }
+      ]
+    },
+    {
+      "id": "cd-projekt-says-it-overhauled-witcher-3-gameplay-because-it",
+      "titre": "CD Projekt says it overhauled Witcher 3 gameplay because it was ‘obviously’ the weakest part",
+      "url": "https://www.videogameschronicle.com/news/cd-projekt-says-it-overhauled-witcher-3-gameplay-because-it-was-obviously-the-weakest-part/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/cd-projekt-says-it-overhauled-witcher-3-gameplay-because-it-was-obviously-the-weakest-part/",
+          "titre": "CD Projekt says it overhauled Witcher 3 gameplay because it was ‘obviously’ the weakest part"
+        }
+      ]
+    },
+    {
       "id": "we-were-constantly-overshooting-our-capacity-arc-raiders-ex",
       "titre": "'We were constantly overshooting our capacity:' Arc Raiders exec says success resulted in burnout",
       "url": "https://www.gamedeveloper.com/production/-we-were-constantly-overshooting-our-capacity-arc-raiders-exec-explains-success-resulted-in-burnout",
@@ -521,7 +755,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -539,7 +773,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -557,7 +791,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -575,7 +809,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -593,7 +827,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -611,7 +845,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -629,7 +863,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -647,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -665,7 +899,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -683,7 +917,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -701,7 +935,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -719,7 +953,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -737,31 +971,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/oh-no-ps5-vapourware-abandoned-appears-to-be-coming-back",
           "titre": "Oh No: PS5 Vapourware Abandoned Appears to Be Coming Back"
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-developers-talk-remastering-a-classic-and-crea",
-      "titre": "The Witcher 3: Developers talk remastering a classic and creating Songs of the Past",
-      "url": "https://www.videogameschronicle.com/features/interviews/the-witcher-3-developers-talk-remastering-a-classic-and-creating-songs-of-the-past/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 1.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/interviews/the-witcher-3-developers-talk-remastering-a-classic-and-creating-songs-of-the-past/",
-          "titre": "The Witcher 3: Developers talk remastering a classic and creating Songs of the Past"
         }
       ]
     },
@@ -773,7 +989,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -784,146 +1000,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "thieves-stole-two-nvidia-emblazoned-truck-trailers-in-the-ho",
-      "titre": "Thieves stole two Nvidia-emblazoned truck trailers in the hopes of getting hardware and instead got 40,000 lbs of sand",
-      "url": "https://www.pcgamer.com/hardware/thieves-stole-two-nvidia-emblazoned-truck-trailers-in-the-hopes-of-getting-hardware-and-instead-got-40-000-lbs-of-sand/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/thieves-stole-two-nvidia-emblazoned-truck-trailers-in-the-hopes-of-getting-hardware-and-instead-got-40-000-lbs-of-sand/",
-          "titre": "Thieves stole two Nvidia-emblazoned truck trailers in the hopes of getting hardware and instead got 40,000 lbs of sand"
-        }
-      ]
-    },
-    {
-      "id": "feature-40-ps5-ps4-games-to-buy-in-ps-store-s-autumn-adventu",
-      "titre": "Feature: 40+ PS5, PS4 Games to Buy in PS Store's Autumn Adventures Sale",
-      "url": "https://www.pushsquare.com/features/40plus-ps5-ps4-games-to-buy-in-ps-stores-autumn-adventures-sale",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/40plus-ps5-ps4-games-to-buy-in-ps-stores-autumn-adventures-sale",
-          "titre": "Feature: 40+ PS5, PS4 Games to Buy in PS Store's Autumn Adventures Sale"
-        }
-      ]
-    },
-    {
-      "id": "what-s-the-intended-difficulty-for-gears-of-war-e-day-i-can",
-      "titre": "What's the intended difficulty for Gears of War: E-Day? \"I can tell you right now, it's Hardcore\" says The Coalition creative director",
-      "url": "https://www.eurogamer.net/gears-of-war-eday-difficulty-hardcore",
+      "id": "what-if-london-existed-in-the-grand-theft-auto-universe-one",
+      "titre": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city",
+      "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 22.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gears-of-war-eday-difficulty-hardcore",
-          "titre": "What's the intended difficulty for Gears of War: E-Day? \"I can tell you right now, it's Hardcore\" says The Coalition creative director"
-        }
-      ]
-    },
-    {
-      "id": "after-playing-the-evercade-nexus-it-s-clear-that-blaze-s-ret",
-      "titre": "After playing the Evercade Nexus, it’s clear that Blaze’s retro line-up is preparing to step up a level",
-      "url": "https://www.videogameschronicle.com/features/after-playing-the-evercade-nexus-its-clear-that-blazes-retro-line-up-is-preparing-to-step-up-a-level/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/after-playing-the-evercade-nexus-its-clear-that-blazes-retro-line-up-is-preparing-to-step-up-a-level/",
-          "titre": "After playing the Evercade Nexus, it’s clear that Blaze’s retro line-up is preparing to step up a level"
-        }
-      ]
-    },
-    {
-      "id": "a-quite-beautiful-compromise-the-lego-skylines-devs-did-con",
-      "titre": "\"A quite beautiful compromise\": The LEGO Skylines devs did consider brick by brick building, but decided it was too much fuss for players",
-      "url": "https://www.rockpapershotgun.com/a-quite-beautiful-compromise-the-lego-skylines-devs-did-consider-brick-by-brick-building-but-decided-it-was-too-much-fuss-for-players",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/a-quite-beautiful-compromise-the-lego-skylines-devs-did-consider-brick-by-brick-building-but-decided-it-was-too-much-fuss-for-players",
-          "titre": "\"A quite beautiful compromise\": The LEGO Skylines devs did consider brick by brick building, but decided it was too much fuss for players"
-        }
-      ]
-    },
-    {
-      "id": "the-elder-scrolls-online-is-partly-why-skyrim-never-got-a-fa",
-      "titre": "The Elder Scrolls Online is partly why Skyrim never got a Fallout: New Vegas-style spin-off, says Bethesda veteran",
-      "url": "https://www.eurogamer.net/the-elder-scrolls-online-skyrim-spin-off-fallout-new-vegas-bethesda",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/the-elder-scrolls-online-skyrim-spin-off-fallout-new-vegas-bethesda",
-          "titre": "The Elder Scrolls Online is partly why Skyrim never got a Fallout: New Vegas-style spin-off, says Bethesda veteran"
-        }
-      ]
-    },
-    {
-      "id": "wardogs-early-access-review",
-      "titre": "Wardogs early access review",
-      "url": "https://www.eurogamer.net/wardogs-early-access-review",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/wardogs-early-access-review",
-          "titre": "Wardogs early access review"
-        }
-      ]
-    },
-    {
-      "id": "the-clamshell-c64-and-zx-spectrum-handhelds-have-been-delaye",
-      "titre": "The clamshell C64 and ZX Spectrum handhelds have been delayed by six months because of production quality",
-      "url": "https://www.videogameschronicle.com/news/the-clamshell-c64-and-zx-spectrum-handhelds-have-been-delayed-by-six-months-because-of-production-quality/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 5.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-clamshell-c64-and-zx-spectrum-handhelds-have-been-delayed-by-six-months-because-of-production-quality/",
-          "titre": "The clamshell C64 and ZX Spectrum handhelds have been delayed by six months because of production quality"
+          "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
+          "titre": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city"
         }
       ]
     },
@@ -935,8 +1025,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 6,
+      "heures": 12.5,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -953,31 +1043,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 6,
+      "heures": 13.5,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/dynasty-warriors-3-complete-edition-remastered-switch-2-performance-and-resolution-revealed",
           "titre": "Dynasty Warriors 3: Complete Edition Remastered Switch 2 Performance & Resolution Revealed"
-        }
-      ]
-    },
-    {
-      "id": "what-if-london-existed-in-the-grand-theft-auto-universe-one",
-      "titre": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city",
-      "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 20.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
-          "titre": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city"
         }
       ]
     },
@@ -989,7 +1061,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.3,
       "chaleur": 5,
       "liens": [
         {
@@ -1007,7 +1079,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.8,
+      "heures": 23.8,
       "chaleur": 5,
       "liens": [
         {
@@ -1025,31 +1097,13 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 26.1,
+      "heures": 28.1,
       "chaleur": 5,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/production/microsoft-ceo-says-xbox-is-streamlining-after-laying-off-5-750-workers-in-three-years",
           "titre": "Microsoft CEO says Xbox is simply 'streamlining' after cutting over 5,750 jobs in three years"
-        }
-      ]
-    },
-    {
-      "id": "review-runescape-dragonwilds-switch-2-a-slow-burn-survival-c",
-      "titre": "Review: RuneScape: Dragonwilds (Switch 2) - A Slow-Burn Survival-Crafting RPG That Underwhelms Visually",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/runescape-dragonwilds",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 26.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/runescape-dragonwilds",
-          "titre": "Review: RuneScape: Dragonwilds (Switch 2) - A Slow-Burn Survival-Crafting RPG That Underwhelms Visually"
         }
       ]
     },
@@ -1061,7 +1115,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.3,
       "chaleur": 5,
       "liens": [
         {
@@ -1072,79 +1126,25 @@ const VEILLE = {
       ]
     },
     {
-      "id": "34-video-game-lego-sets-are-retiring-at-the-end-of-the-year",
-      "titre": "34 video game Lego sets are retiring at the end of the year, including Animal Crossing, Horizon and Sonic sets",
-      "url": "https://www.videogameschronicle.com/news/34-video-game-lego-sets-are-retiring-at-the-end-of-the-year-including-animal-crossing-horizon-and-sonic-sets/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 4.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/34-video-game-lego-sets-are-retiring-at-the-end-of-the-year-including-animal-crossing-horizon-and-sonic-sets/",
-          "titre": "34 video game Lego sets are retiring at the end of the year, including Animal Crossing, Horizon and Sonic sets"
-        }
-      ]
-    },
-    {
-      "id": "sony-to-skip-ces-2027-for-first-time-since-expo-s-inaugural",
-      "titre": "Sony to skip CES 2027 for first time since expo's inaugural event in 1967",
-      "url": "https://www.gamesindustry.biz/sony-to-skip-ces-2027-for-first-time-since-expos-inaugural-event-in-1967",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 4.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/sony-to-skip-ces-2027-for-first-time-since-expos-inaugural-event-in-1967",
-          "titre": "Sony to skip CES 2027 for first time since expo's inaugural event in 1967"
-        }
-      ]
-    },
-    {
-      "id": "how-to-get-unlocked-multi-frame-gen-working-on-an-rtx-40-ser",
-      "titre": "How to get unlocked Multi Frame Gen working on an RTX 40-series graphics card",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/how-to-get-unlocked-multi-frame-gen-working-on-an-rtx-40-series-graphics-card/",
+      "id": "thieves-stole-two-nvidia-emblazoned-truck-trailers-in-the-ho",
+      "titre": "Thieves stole two Nvidia-emblazoned truck trailers in the hopes of getting hardware and instead got 40,000 lbs of sand",
+      "url": "https://www.pcgamer.com/hardware/thieves-stole-two-nvidia-emblazoned-truck-trailers-in-the-hopes-of-getting-hardware-and-instead-got-40-000-lbs-of-sand/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 4.1,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/how-to-get-unlocked-multi-frame-gen-working-on-an-rtx-40-series-graphics-card/",
-          "titre": "How to get unlocked Multi Frame Gen working on an RTX 40-series graphics card"
-        }
-      ]
-    },
-    {
-      "id": "all-versions-of-the-witcher-3-that-exist-in-the-world-will-b",
-      "titre": "All versions of The Witcher 3 \"that exist in the world\" will be upgraded with the free Remastered edition today",
-      "url": "https://www.eurogamer.net/all-versions-of-the-witcher-3-that-exist-in-the-world-will-be-upgraded-with-the-free-remastered-edition-today",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 4.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/all-versions-of-the-witcher-3-that-exist-in-the-world-will-be-upgraded-with-the-free-remastered-edition-today",
-          "titre": "All versions of The Witcher 3 \"that exist in the world\" will be upgraded with the free Remastered edition today"
+          "url": "https://www.pcgamer.com/hardware/thieves-stole-two-nvidia-emblazoned-truck-trailers-in-the-hopes-of-getting-hardware-and-instead-got-40-000-lbs-of-sand/",
+          "titre": "Thieves stole two Nvidia-emblazoned truck trailers in the hopes of getting hardware and instead got 40,000 lbs of sand"
         }
       ]
     }
   ],
   "alertes": [
-    "Witcher 3 Remastered best console graphics mode: Performance vs Ray Tracing"
+    "The Witcher 3 Remastered PS5 Pays Homage to the Worst DLC in History"
   ]
 };
