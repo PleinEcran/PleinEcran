@@ -1,47 +1,71 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "29/09/2026 à 06h26",
+  "collecte": "29/09/2026 à 08h24",
   "seuil": 14,
   "sujets": [
     {
-      "id": "dynasty-warriors-3-complete-edition-remastered-switch-2-perf",
-      "titre": "Dynasty Warriors 3: Complete Edition Remastered Switch 2 Performance & Resolution Revealed",
-      "url": "https://www.nintendolife.com/news/2026/09/dynasty-warriors-3-complete-edition-remastered-switch-2-performance-and-resolution-revealed",
+      "id": "in-another-unprecedented-move-call-of-duty-modern-warfare-4",
+      "titre": "In another unprecedented move, Call of Duty: Modern Warfare 4 is changing double XP tokens so they count down in match and not real-time",
+      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-double-xp-tokens-count-down-change",
       "sources": [
-        "Nintendo Life",
+        "Eurogamer",
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 3.5,
-      "chaleur": 11,
+      "heures": 0.0,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/dynasty-warriors-3-complete-edition-remastered-switch-2-performance-and-resolution-revealed",
-          "titre": "Dynasty Warriors 3: Complete Edition Remastered Switch 2 Performance & Resolution Revealed"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-double-xp-tokens-count-down-change",
+          "titre": "In another unprecedented move, Call of Duty: Modern Warfare 4 is changing double XP tokens so they count down in match and not real-time"
         },
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-a-45gb-ps5-patch-release-times-revealed",
-          "titre": "The Witcher 3 Remastered a 45GB PS5 Patch, Release Times Revealed"
+          "url": "https://www.pushsquare.com/news/2026/09/double-xp-tokens-finally-work-how-youd-think-they-would-in-modern-warfare-4",
+          "titre": "Double XP Tokens Finally Work How You'd Think They Would in Modern Warfare 4"
         }
       ]
     },
     {
-      "id": "tales-of-eternia-is-getting-a-proper-physical-release-on-swi",
-      "titre": "Tales Of Eternia Is Getting A Proper Physical Release On Switch",
-      "url": "https://www.nintendolife.com/news/2026/09/tales-of-eternia-is-getting-a-proper-physical-release-on-switch",
+      "id": "round-up-the-first-reviews-for-the-witcher-3-remastered-are",
+      "titre": "Round Up: The First Reviews For The Witcher 3 Remastered Are In",
+      "url": "https://www.nintendolife.com/news/2026/09/round-up-the-first-reviews-for-the-witcher-3-remastered-are-in",
       "sources": [
-        "Nintendo Life"
+        "Nintendo Life",
+        "PC Gamer"
       ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 8,
+      "reprises": 2,
+      "heures": 1.8,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/tales-of-eternia-is-getting-a-proper-physical-release-on-switch",
-          "titre": "Tales Of Eternia Is Getting A Proper Physical Release On Switch"
+          "url": "https://www.nintendolife.com/news/2026/09/round-up-the-first-reviews-for-the-witcher-3-remastered-are-in",
+          "titre": "Round Up: The First Reviews For The Witcher 3 Remastered Are In"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-lays-out-why-you-should-play-the-witcher-3-remastered/",
+          "titre": "CD Projekt lays out why you should play The Witcher 3 Remastered"
+        }
+      ]
+    },
+    {
+      "id": "xbox-reveals-gears-of-war-lancer-pizza-cutter-immediately-se",
+      "titre": "Xbox reveals Gears of War Lancer pizza cutter, immediately sells out",
+      "url": "https://www.videogameschronicle.com/news/xbox-reveals-gears-of-war-lancer-pizza-cutter-immediately-sells-out/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-reveals-gears-of-war-lancer-pizza-cutter-immediately-sells-out/",
+          "titre": "Xbox reveals Gears of War Lancer pizza cutter, immediately sells out"
         }
       ]
     },
@@ -54,7 +78,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.5,
+      "heures": 6.5,
       "chaleur": 7,
       "liens": [
         {
@@ -77,7 +101,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 17.0,
       "chaleur": 7,
       "liens": [
         {
@@ -322,6 +346,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "sony-is-officially-skipping-ces-for-the-first-time-in-decade",
+      "titre": "Sony is officially skipping CES for the first time in decades",
+      "url": "https://www.videogameschronicle.com/news/sony-is-officially-skipping-ces-for-the-first-time-in-decades/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sony-is-officially-skipping-ces-for-the-first-time-in-decades/",
+          "titre": "Sony is officially skipping CES for the first time in decades"
+        }
+      ]
+    },
+    {
+      "id": "tales-of-eternia-is-getting-a-proper-physical-release-on-swi",
+      "titre": "Tales Of Eternia Is Getting A Proper Physical Release On Switch",
+      "url": "https://www.nintendolife.com/news/2026/09/tales-of-eternia-is-getting-a-proper-physical-release-on-switch",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/tales-of-eternia-is-getting-a-proper-physical-release-on-switch",
+          "titre": "Tales Of Eternia Is Getting A Proper Physical Release On Switch"
+        }
+      ]
+    },
+    {
+      "id": "dynasty-warriors-3-complete-edition-remastered-switch-2-perf",
+      "titre": "Dynasty Warriors 3: Complete Edition Remastered Switch 2 Performance & Resolution Revealed",
+      "url": "https://www.nintendolife.com/news/2026/09/dynasty-warriors-3-complete-edition-remastered-switch-2-performance-and-resolution-revealed",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/dynasty-warriors-3-complete-edition-remastered-switch-2-performance-and-resolution-revealed",
+          "titre": "Dynasty Warriors 3: Complete Edition Remastered Switch 2 Performance & Resolution Revealed"
+        }
+      ]
+    },
+    {
       "id": "double-fine-s-first-game-since-being-dumped-by-xbox-will-be",
       "titre": "Double Fine's first game since being dumped by Xbox will be out in just 2 weeks",
       "url": "https://www.pcgamer.com/games/racing/double-fines-first-game-since-being-dumped-by-xbox-will-be-out-in-just-2-weeks/",
@@ -329,49 +407,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/racing/double-fines-first-game-since-being-dumped-by-xbox-will-be-out-in-just-2-weeks/",
           "titre": "Double Fine's first game since being dumped by Xbox will be out in just 2 weeks"
-        }
-      ]
-    },
-    {
-      "id": "steam-s-tidying-game-trend-is-about-to-get-the-haunted-meat",
-      "titre": "Steam's tidying game trend is about to get the haunted meat it's been missing",
-      "url": "https://www.pcgamer.com/games/sim/steams-tidying-game-trend-is-about-to-get-the-haunted-meat-its-been-missing/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/steams-tidying-game-trend-is-about-to-get-the-haunted-meat-its-been-missing/",
-          "titre": "Steam's tidying game trend is about to get the haunted meat it's been missing"
-        }
-      ]
-    },
-    {
-      "id": "double-fine-s-releasing-its-next-game-thank-you-bus-driver-j",
-      "titre": "Double Fine's releasing its next game, Thank You Bus Driver, just months after splitting from Xbox",
-      "url": "https://www.eurogamer.net/double-fine-thank-you-bus-driver-xbox-release-date",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/double-fine-thank-you-bus-driver-xbox-release-date",
-          "titre": "Double Fine's releasing its next game, Thank You Bus Driver, just months after splitting from Xbox"
         }
       ]
     },
@@ -383,7 +425,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.5,
       "chaleur": 6,
       "liens": [
         {
@@ -401,7 +443,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.6,
       "chaleur": 6,
       "liens": [
         {
@@ -420,7 +462,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 14.3,
+      "heures": 16.2,
       "chaleur": 6,
       "liens": [
         {
@@ -444,7 +486,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 18.2,
+      "heures": 20.2,
       "chaleur": 6,
       "liens": [
         {
@@ -460,6 +502,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "steam-s-tidying-game-trend-is-about-to-get-the-haunted-meat",
+      "titre": "Steam's tidying game trend is about to get the haunted meat it's been missing",
+      "url": "https://www.pcgamer.com/games/sim/steams-tidying-game-trend-is-about-to-get-the-haunted-meat-its-been-missing/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 12.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/steams-tidying-game-trend-is-about-to-get-the-haunted-meat-its-been-missing/",
+          "titre": "Steam's tidying game trend is about to get the haunted meat it's been missing"
+        }
+      ]
+    },
+    {
+      "id": "double-fine-s-releasing-its-next-game-thank-you-bus-driver-j",
+      "titre": "Double Fine's releasing its next game, Thank You Bus Driver, just months after splitting from Xbox",
+      "url": "https://www.eurogamer.net/double-fine-thank-you-bus-driver-xbox-release-date",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 13.3,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/double-fine-thank-you-bus-driver-xbox-release-date",
+          "titre": "Double Fine's releasing its next game, Thank You Bus Driver, just months after splitting from Xbox"
+        }
+      ]
+    },
+    {
       "id": "the-switch-2-console-is-currently-cheaper-than-ever-in-the-u",
       "titre": "The Switch 2 Console Is Currently Cheaper Than Ever In The UK",
       "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-console-is-currently-cheaper-than-ever-in-the-uk",
@@ -467,7 +545,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.8,
       "chaleur": 5,
       "liens": [
         {
@@ -485,7 +563,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 20.1,
       "chaleur": 5,
       "liens": [
         {
@@ -503,7 +581,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.4,
       "chaleur": 5,
       "liens": [
         {
@@ -521,7 +599,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.9,
       "chaleur": 5,
       "liens": [
         {
@@ -539,7 +617,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.3,
       "chaleur": 5,
       "liens": [
         {
@@ -557,7 +635,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -575,7 +653,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -593,7 +671,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -611,7 +689,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -629,7 +707,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -647,7 +725,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -665,7 +743,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -683,7 +761,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -701,7 +779,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -719,31 +797,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-teases-new-mega-dungeon-to-get-lost-in-for-hours-like-the-good-ol-days/",
           "titre": "World of Warcraft: Forever dev teases new 'mega dungeon' to get lost in for hours like the good ol' days"
-        }
-      ]
-    },
-    {
-      "id": "double-xp-tokens-finally-work-how-you-d-think-they-would-in",
-      "titre": "Double XP Tokens Finally Work How You'd Think They Would in Modern Warfare 4",
-      "url": "https://www.pushsquare.com/news/2026/09/double-xp-tokens-finally-work-how-youd-think-they-would-in-modern-warfare-4",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 9.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/double-xp-tokens-finally-work-how-youd-think-they-would-in-modern-warfare-4",
-          "titre": "Double XP Tokens Finally Work How You'd Think They Would in Modern Warfare 4"
         }
       ]
     },
@@ -755,7 +815,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -773,7 +833,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -791,31 +851,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.0,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/survival-crafting/a-fundamental-update-for-this-34-year-old-survival-game-is-coming-in-october/",
           "titre": "A 'fundamental' update for this 34-year-old survival game is coming in October"
-        }
-      ]
-    },
-    {
-      "id": "cd-projekt-lays-out-why-you-should-play-the-witcher-3-remast",
-      "titre": "CD Projekt lays out why you should play The Witcher 3 Remastered",
-      "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-lays-out-why-you-should-play-the-witcher-3-remastered/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-lays-out-why-you-should-play-the-witcher-3-remastered/",
-          "titre": "CD Projekt lays out why you should play The Witcher 3 Remastered"
         }
       ]
     },
@@ -827,8 +869,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -845,7 +887,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.2,
       "chaleur": 3,
       "liens": [
         {
@@ -863,7 +905,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.2,
       "chaleur": 3,
       "liens": [
         {
@@ -881,7 +923,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 15.0,
       "chaleur": 3,
       "liens": [
         {
@@ -899,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -917,7 +959,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -935,7 +977,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -953,7 +995,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -971,7 +1013,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 16.0,
       "chaleur": 3,
       "liens": [
         {
@@ -989,7 +1031,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +1049,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,7 +1067,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,7 +1085,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 17.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,49 +1103,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/fright-train-is-the-best-call-of-duty-zombies-alternative-ive-played-in-ages-despite-starring-a-dog",
           "titre": "Fright Train is the best Call of Duty Zombies alternative I've played in ages, despite starring a dog"
-        }
-      ]
-    },
-    {
-      "id": "guide-best-fire-emblem-games-of-all-time",
-      "titre": "Guide: Best Fire Emblem Games Of All Time",
-      "url": "https://www.nintendolife.com/guides/best-fire-emblem-games-of-all-time",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 15.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/best-fire-emblem-games-of-all-time",
-          "titre": "Guide: Best Fire Emblem Games Of All Time"
-        }
-      ]
-    },
-    {
-      "id": "sony-quits-ces-in-2027-as-it-continues-transition-to-enterta",
-      "titre": "Sony Quits CES in 2027 as It Continues Transition to Entertainment",
-      "url": "https://www.pushsquare.com/news/2026/09/sony-quits-ces-in-2027-as-it-continues-transition-to-entertainment",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 15.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/sony-quits-ces-in-2027-as-it-continues-transition-to-entertainment",
-          "titre": "Sony Quits CES in 2027 as It Continues Transition to Entertainment"
         }
       ]
     }
