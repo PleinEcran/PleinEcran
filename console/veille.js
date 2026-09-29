@@ -1,12 +1,12 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "29/09/2026 à 10h22",
+  "collecte": "29/09/2026 à 12h28",
   "seuil": 14,
   "sujets": [
     {
-      "id": "the-witcher-3-remastered-available-to-download-now",
-      "titre": "The Witcher 3 Remastered Available to Download Now",
-      "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-available-to-download-now",
+      "id": "witcher-3-remastered-simulate-witcher-2-save-or-not",
+      "titre": "Witcher 3 Remastered: Simulate Witcher 2 save or not?",
+      "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-simulate-witcher-2-save-or-not/",
       "sources": [
         "Nintendo Life",
         "PC Gamer",
@@ -14,18 +14,18 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 0.1,
+      "heures": 1.2,
       "chaleur": 15,
       "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-simulate-witcher-2-save-or-not/",
+          "titre": "Witcher 3 Remastered: Simulate Witcher 2 save or not?"
+        },
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-available-to-download-now",
           "titre": "The Witcher 3 Remastered Available to Download Now"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/the-witcher-3-wild-hunt-remastered-is-out-now-heres-how-to-start-playing/",
-          "titre": "The Witcher 3 Wild Hunt Remastered is out now, here’s how to start playing"
         },
         {
           "source": "PC Gamer",
@@ -40,32 +40,50 @@ const VEILLE = {
       ]
     },
     {
-      "id": "naughty-dog-confirms-two-more-the-last-of-us-projects-are-in",
-      "titre": "Naughty Dog confirms two more The Last of Us projects are in the works, won't show off Intergalactic: The Heretic Prophet until 2027",
-      "url": "https://www.eurogamer.net/naughty-dog-confirms-two-more-the-last-of-us-projects-are-in-the-works-wont-show-off-intergalactic-the-heretic-prophet-until-2027",
+      "id": "zelda-40th-anniversary-concert-tickets-go-on-sale-in-europe",
+      "titre": "Zelda 40th Anniversary Concert tickets go on sale in Europe this week, as Nintendo says more countries are coming",
+      "url": "https://www.videogameschronicle.com/news/zelda-40th-anniversary-concert-tickets-go-on-sale-in-europe-this-week-as-nintendo-says-more-countries-are-coming/",
       "sources": [
-        "Eurogamer",
-        "Push Square",
+        "Nintendo Life",
         "VGC"
       ],
-      "reprises": 3,
-      "heures": 1.8,
+      "reprises": 2,
+      "heures": 0.4,
       "chaleur": 12,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/naughty-dog-confirms-two-more-the-last-of-us-projects-are-in-the-works-wont-show-off-intergalactic-the-heretic-prophet-until-2027",
-          "titre": "Naughty Dog confirms two more The Last of Us projects are in the works, won't show off Intergalactic: The Heretic Prophet until 2027"
-        },
-        {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/naughty-dog-will-fully-reveal-intergalactic-in-2027/",
-          "titre": "Naughty Dog will fully reveal Intergalactic in 2027"
+          "url": "https://www.videogameschronicle.com/news/zelda-40th-anniversary-concert-tickets-go-on-sale-in-europe-this-week-as-nintendo-says-more-countries-are-coming/",
+          "titre": "Zelda 40th Anniversary Concert tickets go on sale in Europe this week, as Nintendo says more countries are coming"
         },
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/no-intergalactic-ps5-updates-until-2027-new-artwork-for-now",
-          "titre": "No Intergalactic PS5 Updates Until 2027, New Artwork for Now"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/zelda-40th-anniversary-concert-tickets-go-live-tomorrow-30th-september-europe",
+          "titre": "Zelda 40th Anniversary Concert Tickets Go Live Tomorrow, 30th September (Europe)"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-updated-system-requirements-are-in-and-you-wil",
+      "titre": "The Witcher 3 updated system requirements are in, and you will need an RTX 5080 for path tracing with DLSS and frame generation",
+      "url": "https://www.pcgamer.com/hardware/the-witcher-3-updated-system-requirements-are-in-and-you-will-need-an-rtx-5080-for-path-tracing-with-dlss-and-frame-generation/",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 1.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/the-witcher-3-updated-system-requirements-are-in-and-you-will-need-an-rtx-5080-for-path-tracing-with-dlss-and-frame-generation/",
+          "titre": "The Witcher 3 updated system requirements are in, and you will need an RTX 5080 for path tracing with DLSS and frame generation"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/cd-projekt-release-full-updated-witcher-3-wild-hunt-remastered-system-specs-including-ray-tracing-and-path-tracing-requirements",
+          "titre": "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements"
         }
       ]
     },
@@ -78,7 +96,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.1,
+      "heures": 2.2,
       "chaleur": 9,
       "liens": [
         {
@@ -102,7 +120,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 1.0,
+      "heures": 3.1,
       "chaleur": 9,
       "liens": [
         {
@@ -118,6 +136,48 @@ const VEILLE = {
       ]
     },
     {
+      "id": "naughty-dog-confirms-two-more-the-last-of-us-projects-are-in",
+      "titre": "Naughty Dog confirms two more The Last of Us projects are in the works, won't show off Intergalactic: The Heretic Prophet until 2027",
+      "url": "https://www.eurogamer.net/naughty-dog-confirms-two-more-the-last-of-us-projects-are-in-the-works-wont-show-off-intergalactic-the-heretic-prophet-until-2027",
+      "sources": [
+        "Eurogamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 3.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/naughty-dog-confirms-two-more-the-last-of-us-projects-are-in-the-works-wont-show-off-intergalactic-the-heretic-prophet-until-2027",
+          "titre": "Naughty Dog confirms two more The Last of Us projects are in the works, won't show off Intergalactic: The Heretic Prophet until 2027"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/no-intergalactic-ps5-updates-until-2027-new-artwork-for-now",
+          "titre": "No Intergalactic PS5 Updates Until 2027, New Artwork for Now"
+        }
+      ]
+    },
+    {
+      "id": "the-clamshell-c64-and-zx-spectrum-handhelds-have-been-delaye",
+      "titre": "The clamshell C64 and ZX Spectrum handhelds have been delayed by six months because of production quality",
+      "url": "https://www.videogameschronicle.com/news/the-clamshell-c64-and-zx-spectrum-handhelds-have-been-delayed-by-six-months-because-of-production-quality/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 3.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-clamshell-c64-and-zx-spectrum-handhelds-have-been-delayed-by-six-months-because-of-production-quality/",
+          "titre": "The clamshell C64 and ZX Spectrum handhelds have been delayed by six months because of production quality"
+        }
+      ]
+    },
+    {
       "id": "in-another-unprecedented-move-call-of-duty-modern-warfare-4",
       "titre": "In another unprecedented move, Call of Duty: Modern Warfare 4 is changing double XP tokens so they count down in match and not real-time",
       "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-double-xp-tokens-count-down-change",
@@ -126,8 +186,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 2.0,
-      "chaleur": 9,
+      "heures": 4.1,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
@@ -142,42 +202,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-clamshell-c64-and-zx-spectrum-handhelds-have-been-delaye",
-      "titre": "The clamshell C64 and ZX Spectrum handhelds have been delayed by six months because of production quality",
-      "url": "https://www.videogameschronicle.com/news/the-clamshell-c64-and-zx-spectrum-handhelds-have-been-delayed-by-six-months-because-of-production-quality/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-clamshell-c64-and-zx-spectrum-handhelds-have-been-delayed-by-six-months-because-of-production-quality/",
-          "titre": "The clamshell C64 and ZX Spectrum handhelds have been delayed by six months because of production quality"
-        }
-      ]
-    },
-    {
-      "id": "xbox-reveals-gears-of-war-lancer-pizza-cutter-immediately-se",
-      "titre": "Xbox reveals Gears of War Lancer pizza cutter, immediately sells out",
-      "url": "https://www.videogameschronicle.com/news/xbox-reveals-gears-of-war-lancer-pizza-cutter-immediately-sells-out/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-reveals-gears-of-war-lancer-pizza-cutter-immediately-sells-out/",
-          "titre": "Xbox reveals Gears of War Lancer pizza cutter, immediately sells out"
-        }
-      ]
-    },
-    {
       "id": "report-sony-surveying-developers-about-dropping-playstation",
       "titre": "Report: Sony surveying developers about dropping PlayStation disc support",
       "url": "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support",
@@ -185,7 +209,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 19.0,
+      "heures": 21.1,
       "chaleur": 7,
       "liens": [
         {
@@ -430,6 +454,132 @@ const VEILLE = {
       ]
     },
     {
+      "id": "thieves-stole-two-nvidia-emblazoned-truck-trailers-in-the-ho",
+      "titre": "Thieves stole two Nvidia-emblazoned truck trailers in the hopes of getting hardware and instead got 40,000 lbs of sand",
+      "url": "https://www.pcgamer.com/hardware/thieves-stole-two-nvidia-emblazoned-truck-trailers-in-the-hopes-of-getting-hardware-and-instead-got-40-000-lbs-of-sand/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/thieves-stole-two-nvidia-emblazoned-truck-trailers-in-the-hopes-of-getting-hardware-and-instead-got-40-000-lbs-of-sand/",
+          "titre": "Thieves stole two Nvidia-emblazoned truck trailers in the hopes of getting hardware and instead got 40,000 lbs of sand"
+        }
+      ]
+    },
+    {
+      "id": "feature-40-ps5-ps4-games-to-buy-in-ps-store-s-autumn-adventu",
+      "titre": "Feature: 40+ PS5, PS4 Games to Buy in PS Store's Autumn Adventures Sale",
+      "url": "https://www.pushsquare.com/features/40plus-ps5-ps4-games-to-buy-in-ps-stores-autumn-adventures-sale",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/40plus-ps5-ps4-games-to-buy-in-ps-stores-autumn-adventures-sale",
+          "titre": "Feature: 40+ PS5, PS4 Games to Buy in PS Store's Autumn Adventures Sale"
+        }
+      ]
+    },
+    {
+      "id": "what-s-the-intended-difficulty-for-gears-of-war-e-day-i-can",
+      "titre": "What's the intended difficulty for Gears of War: E-Day? \"I can tell you right now, it's Hardcore\" says The Coalition creative director",
+      "url": "https://www.eurogamer.net/gears-of-war-eday-difficulty-hardcore",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gears-of-war-eday-difficulty-hardcore",
+          "titre": "What's the intended difficulty for Gears of War: E-Day? \"I can tell you right now, it's Hardcore\" says The Coalition creative director"
+        }
+      ]
+    },
+    {
+      "id": "after-playing-the-evercade-nexus-it-s-clear-that-blaze-s-ret",
+      "titre": "After playing the Evercade Nexus, it’s clear that Blaze’s retro line-up is preparing to step up a level",
+      "url": "https://www.videogameschronicle.com/features/after-playing-the-evercade-nexus-its-clear-that-blazes-retro-line-up-is-preparing-to-step-up-a-level/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/features/after-playing-the-evercade-nexus-its-clear-that-blazes-retro-line-up-is-preparing-to-step-up-a-level/",
+          "titre": "After playing the Evercade Nexus, it’s clear that Blaze’s retro line-up is preparing to step up a level"
+        }
+      ]
+    },
+    {
+      "id": "a-quite-beautiful-compromise-the-lego-skylines-devs-did-con",
+      "titre": "\"A quite beautiful compromise\": The LEGO Skylines devs did consider brick by brick building, but decided it was too much fuss for players",
+      "url": "https://www.rockpapershotgun.com/a-quite-beautiful-compromise-the-lego-skylines-devs-did-consider-brick-by-brick-building-but-decided-it-was-too-much-fuss-for-players",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/a-quite-beautiful-compromise-the-lego-skylines-devs-did-consider-brick-by-brick-building-but-decided-it-was-too-much-fuss-for-players",
+          "titre": "\"A quite beautiful compromise\": The LEGO Skylines devs did consider brick by brick building, but decided it was too much fuss for players"
+        }
+      ]
+    },
+    {
+      "id": "the-elder-scrolls-online-is-partly-why-skyrim-never-got-a-fa",
+      "titre": "The Elder Scrolls Online is partly why Skyrim never got a Fallout: New Vegas-style spin-off, says Bethesda veteran",
+      "url": "https://www.eurogamer.net/the-elder-scrolls-online-skyrim-spin-off-fallout-new-vegas-bethesda",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/the-elder-scrolls-online-skyrim-spin-off-fallout-new-vegas-bethesda",
+          "titre": "The Elder Scrolls Online is partly why Skyrim never got a Fallout: New Vegas-style spin-off, says Bethesda veteran"
+        }
+      ]
+    },
+    {
+      "id": "wardogs-early-access-review",
+      "titre": "Wardogs early access review",
+      "url": "https://www.eurogamer.net/wardogs-early-access-review",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/wardogs-early-access-review",
+          "titre": "Wardogs early access review"
+        }
+      ]
+    },
+    {
       "id": "34-video-game-lego-sets-are-retiring-at-the-end-of-the-year",
       "titre": "34 video game Lego sets are retiring at the end of the year, including Animal Crossing, Horizon and Sonic sets",
       "url": "https://www.videogameschronicle.com/news/34-video-game-lego-sets-are-retiring-at-the-end-of-the-year-including-animal-crossing-horizon-and-sonic-sets/",
@@ -437,13 +587,31 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/34-video-game-lego-sets-are-retiring-at-the-end-of-the-year-including-animal-crossing-horizon-and-sonic-sets/",
           "titre": "34 video game Lego sets are retiring at the end of the year, including Animal Crossing, Horizon and Sonic sets"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-wild-hunt-remastered-is-out-now-here-s-how-to",
+      "titre": "The Witcher 3 Wild Hunt Remastered is out now, here’s how to start playing",
+      "url": "https://www.videogameschronicle.com/guide/the-witcher-3-wild-hunt-remastered-is-out-now-heres-how-to-start-playing/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 2.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/the-witcher-3-wild-hunt-remastered-is-out-now-heres-how-to-start-playing/",
+          "titre": "The Witcher 3 Wild Hunt Remastered is out now, here’s how to start playing"
         }
       ]
     },
@@ -455,7 +623,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -473,7 +641,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -491,7 +659,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -509,7 +677,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -527,7 +695,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -545,7 +713,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -563,13 +731,31 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/the-witcher-3-remastered-is-now-the-highest-scoring-game-of-2026-on-metacritic/",
           "titre": "The Witcher 3 Remastered is now the highest-scoring game of 2026 on Metacritic"
+        }
+      ]
+    },
+    {
+      "id": "xbox-reveals-gears-of-war-lancer-pizza-cutter-immediately-se",
+      "titre": "Xbox reveals Gears of War Lancer pizza cutter, immediately sells out",
+      "url": "https://www.videogameschronicle.com/news/xbox-reveals-gears-of-war-lancer-pizza-cutter-immediately-sells-out/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-reveals-gears-of-war-lancer-pizza-cutter-immediately-sells-out/",
+          "titre": "Xbox reveals Gears of War Lancer pizza cutter, immediately sells out"
         }
       ]
     },
@@ -581,7 +767,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.6,
       "chaleur": 6,
       "liens": [
         {
@@ -599,7 +785,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.6,
       "chaleur": 6,
       "liens": [
         {
@@ -617,7 +803,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.6,
       "chaleur": 6,
       "liens": [
         {
@@ -635,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.5,
       "chaleur": 5,
       "liens": [
         {
@@ -653,7 +839,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.4,
       "chaleur": 5,
       "liens": [
         {
@@ -671,7 +857,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 19.9,
       "chaleur": 5,
       "liens": [
         {
@@ -689,7 +875,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 22.1,
+      "heures": 24.2,
       "chaleur": 5,
       "liens": [
         {
@@ -707,7 +893,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.5,
       "chaleur": 5,
       "liens": [
         {
@@ -725,7 +911,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 27.4,
       "chaleur": 5,
       "liens": [
         {
@@ -743,7 +929,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -761,7 +947,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -779,7 +965,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 12.0,
       "chaleur": 4,
       "liens": [
         {
@@ -797,8 +983,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -815,8 +1001,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -833,8 +1019,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -851,8 +1037,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -869,7 +1055,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.2,
       "chaleur": 3,
       "liens": [
         {
@@ -887,7 +1073,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.2,
       "chaleur": 3,
       "liens": [
         {
@@ -905,49 +1091,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-find-black-market-npc-who-sells-a-15-day-movement-speed-buff-and-other-rare-items-that-nobody-can-afford-yet/",
           "titre": "World of Warcraft: Forever players find black market NPC who sells a 15-day movement speed buff and other rare items that nobody can afford yet"
-        }
-      ]
-    },
-    {
-      "id": "the-internet-is-ritualistically-murdering-discord-s-cartoon",
-      "titre": "The internet is ritualistically murdering Discord's cartoon mascot",
-      "url": "https://www.pcgamer.com/software/platforms/the-internet-is-ritualistically-murdering-discords-cartoon-mascot/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/platforms/the-internet-is-ritualistically-murdering-discords-cartoon-mascot/",
-          "titre": "The internet is ritualistically murdering Discord's cartoon mascot"
-        }
-      ]
-    },
-    {
-      "id": "a-fundamental-update-for-this-34-year-old-survival-game-is-c",
-      "titre": "A 'fundamental' update for this 34-year-old survival game is coming in October",
-      "url": "https://www.pcgamer.com/games/survival-crafting/a-fundamental-update-for-this-34-year-old-survival-game-is-coming-in-october/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/a-fundamental-update-for-this-34-year-old-survival-game-is-coming-in-october/",
-          "titre": "A 'fundamental' update for this 34-year-old survival game is coming in October"
         }
       ]
     },
@@ -959,7 +1109,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 18.0,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +1127,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.2,
       "chaleur": 3,
       "liens": [
         {
@@ -986,153 +1136,9 @@ const VEILLE = {
           "titre": "National Videogame Museum launches UK-wide survey on game preservation"
         }
       ]
-    },
-    {
-      "id": "it-s-a-nice-story-to-tell-how-dice-bounced-back-from-battle",
-      "titre": "\"It's a nice story to tell\": How DICE bounced back from Battlefield 2042's disastrous launch to release the blockbuster Battlefield 6",
-      "url": "https://www.gamesindustry.biz/its-a-nice-story-to-tell-how-dice-bounced-back-from-battlefield-2042s-disastrous-launch-to-release-the-blockbuster-battlefield-6",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 16.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/its-a-nice-story-to-tell-how-dice-bounced-back-from-battlefield-2042s-disastrous-launch-to-release-the-blockbuster-battlefield-6",
-          "titre": "\"It's a nice story to tell\": How DICE bounced back from Battlefield 2042's disastrous launch to release the blockbuster Battlefield 6"
-        }
-      ]
-    },
-    {
-      "id": "feature-okay-let-s-talk-about-the-new-resident-evil-movie",
-      "titre": "Feature: Okay, Let's Talk About The New Resident Evil Movie",
-      "url": "https://www.nintendolife.com/features/okay-lets-talk-about-the-new-resident-evil-movie",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/okay-lets-talk-about-the-new-resident-evil-movie",
-          "titre": "Feature: Okay, Let's Talk About The New Resident Evil Movie"
-        }
-      ]
-    },
-    {
-      "id": "sony-fighting-ps5-pro-scalpers-in-japan-with-60-hour-gamepla",
-      "titre": "Sony Fighting PS5 Pro Scalpers in Japan with 60 Hour Gameplay Requirement",
-      "url": "https://www.pushsquare.com/news/2026/09/sony-fighting-ps5-pro-scalpers-in-japan-with-60-hour-gameplay-requirement",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/sony-fighting-ps5-pro-scalpers-in-japan-with-60-hour-gameplay-requirement",
-          "titre": "Sony Fighting PS5 Pro Scalpers in Japan with 60 Hour Gameplay Requirement"
-        }
-      ]
-    },
-    {
-      "id": "ubisoft-s-calling-its-next-push-into-gen-ai-game-development",
-      "titre": "Ubisoft's calling its next push into gen-AI game development Motherbrain",
-      "url": "https://www.eurogamer.net/ubisoft-gen-ai-game-motherbrain-assassins-creed",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ubisoft-gen-ai-game-motherbrain-assassins-creed",
-          "titre": "Ubisoft's calling its next push into gen-AI game development Motherbrain"
-        }
-      ]
-    },
-    {
-      "id": "cd-projekt-release-full-updated-witcher-3-wild-hunt-remaster",
-      "titre": "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements",
-      "url": "https://www.rockpapershotgun.com/cd-projekt-release-full-updated-witcher-3-wild-hunt-remastered-system-specs-including-ray-tracing-and-path-tracing-requirements",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 18.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cd-projekt-release-full-updated-witcher-3-wild-hunt-remastered-system-specs-including-ray-tracing-and-path-tracing-requirements",
-          "titre": "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements"
-        }
-      ]
-    },
-    {
-      "id": "season-3-of-the-last-of-us-tv-show-will-add-john-goodman-lau",
-      "titre": "Season 3 of The Last of Us TV show will add John Goodman, Laura Bailey and Ian Alexander to the cast",
-      "url": "https://www.videogameschronicle.com/news/season-3-of-the-last-of-us-tv-show-will-add-john-goodman-laura-bailey-and-ian-alexander-to-the-cast/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 18.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/season-3-of-the-last-of-us-tv-show-will-add-john-goodman-laura-bailey-and-ian-alexander-to-the-cast/",
-          "titre": "Season 3 of The Last of Us TV show will add John Goodman, Laura Bailey and Ian Alexander to the cast"
-        }
-      ]
-    },
-    {
-      "id": "wolverine-breaks-ps5-s-live-service-stranglehold-in-the-us",
-      "titre": "Wolverine Breaks PS5's Live Service Stranglehold in the US",
-      "url": "https://www.pushsquare.com/news/2026/09/wolverine-breaks-ps5s-live-service-stranglehold-in-the-us",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 18.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/wolverine-breaks-ps5s-live-service-stranglehold-in-the-us",
-          "titre": "Wolverine Breaks PS5's Live Service Stranglehold in the US"
-        }
-      ]
-    },
-    {
-      "id": "fright-train-is-the-best-call-of-duty-zombies-alternative-i",
-      "titre": "Fright Train is the best Call of Duty Zombies alternative I've played in ages, despite starring a dog",
-      "url": "https://www.rockpapershotgun.com/fright-train-is-the-best-call-of-duty-zombies-alternative-ive-played-in-ages-despite-starring-a-dog",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 19.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/fright-train-is-the-best-call-of-duty-zombies-alternative-ive-played-in-ages-despite-starring-a-dog",
-          "titre": "Fright Train is the best Call of Duty Zombies alternative I've played in ages, despite starring a dog"
-        }
-      ]
     }
   ],
   "alertes": [
-    "The Witcher 3 Remastered Available to Download Now"
+    "Witcher 3 Remastered: Simulate Witcher 2 save or not?"
   ]
 };
