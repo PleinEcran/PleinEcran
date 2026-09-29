@@ -1,8 +1,32 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "29/09/2026 à 00h28",
+  "collecte": "29/09/2026 à 02h19",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "fire-emblem-fortune-s-weave-is-the-next-tetris-99-event",
+      "titre": "Fire Emblem: Fortune's Weave Is The Next Tetris 99 Event",
+      "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-is-the-next-tetris-99-event",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-is-the-next-tetris-99-event",
+          "titre": "Fire Emblem: Fortune's Weave Is The Next Tetris 99 Event"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-torment-grass-location/",
+          "titre": "Fire Emblem Fortune’s Weave: Torment Grass location"
+        }
+      ]
+    },
     {
       "id": "cd-projekt-lays-out-why-you-should-play-the-witcher-3-remast",
       "titre": "CD Projekt lays out why you should play The Witcher 3 Remastered",
@@ -12,7 +36,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 5.0,
+      "heures": 6.8,
       "chaleur": 9,
       "liens": [
         {
@@ -28,24 +52,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "double-fine-s-first-game-since-being-dumped-by-xbox-will-be",
-      "titre": "Double Fine's first game since being dumped by Xbox will be out in just 2 weeks",
-      "url": "https://www.pcgamer.com/games/racing/double-fines-first-game-since-being-dumped-by-xbox-will-be-out-in-just-2-weeks/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/racing/double-fines-first-game-since-being-dumped-by-xbox-will-be-out-in-just-2-weeks/",
-          "titre": "Double Fine's first game since being dumped by Xbox will be out in just 2 weeks"
-        }
-      ]
-    },
-    {
       "id": "report-sony-surveying-developers-about-dropping-playstation",
       "titre": "Report: Sony surveying developers about dropping PlayStation disc support",
       "url": "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support",
@@ -53,7 +59,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 10.9,
       "chaleur": 8,
       "liens": [
         {
@@ -71,7 +77,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.4,
       "chaleur": 7,
       "liens": [
         {
@@ -89,7 +95,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 8.5,
       "chaleur": 7,
       "liens": [
         {
@@ -108,7 +114,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 8.3,
+      "heures": 10.2,
       "chaleur": 7,
       "liens": [
         {
@@ -124,30 +130,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "japanese-charts-fire-emblem-fortune-s-weave-shifts-over-120",
-      "titre": "Japanese Charts: Fire Emblem: Fortune's Weave Shifts Over 120,000 Physical Copies",
-      "url": "https://www.nintendolife.com/news/2026/09/japanese-charts-fire-emblem-fortunes-weave-shifts-over-120000-physical-copies",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 8.7,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/japanese-charts-fire-emblem-fortunes-weave-shifts-over-120000-physical-copies",
-          "titre": "Japanese Charts: Fire Emblem: Fortune's Weave Shifts Over 120,000 Physical Copies"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-torment-grass-location/",
-          "titre": "Fire Emblem Fortune’s Weave: Torment Grass location"
-        }
-      ]
-    },
-    {
       "id": "xbox-is-reportedly-paying-a-fraction-of-the-400-million-koji",
       "titre": "Xbox is reportedly paying a \"fraction\" of the $400 million Kojima quoted Sony for Physint",
       "url": "https://www.eurogamer.net/xbox-kojima-physint-budget-fraction-400-million",
@@ -155,7 +137,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 34.0,
+      "heures": 35.9,
       "chaleur": 7,
       "liens": [
         {
@@ -400,6 +382,78 @@ const VEILLE = {
       ]
     },
     {
+      "id": "naughty-dog-will-fully-reveal-intergalactic-in-2027",
+      "titre": "Naughty Dog will fully reveal Intergalactic in 2027",
+      "url": "https://www.videogameschronicle.com/news/naughty-dog-will-fully-reveal-intergalactic-in-2027/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/naughty-dog-will-fully-reveal-intergalactic-in-2027/",
+          "titre": "Naughty Dog will fully reveal Intergalactic in 2027"
+        }
+      ]
+    },
+    {
+      "id": "no-intergalactic-ps5-updates-until-2027-new-artwork-for-now",
+      "titre": "No Intergalactic PS5 Updates Until 2027, New Artwork for Now",
+      "url": "https://www.pushsquare.com/news/2026/09/no-intergalactic-ps5-updates-until-2027-new-artwork-for-now",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/no-intergalactic-ps5-updates-until-2027-new-artwork-for-now",
+          "titre": "No Intergalactic PS5 Updates Until 2027, New Artwork for Now"
+        }
+      ]
+    },
+    {
+      "id": "this-mod-delivers-what-valheim-was-missing-all-these-years-s",
+      "titre": "This mod delivers what Valheim was missing all these years: seasons",
+      "url": "https://www.pcgamer.com/games/survival-crafting/this-mod-delivers-what-valheim-was-missing-all-these-years-seasons/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/this-mod-delivers-what-valheim-was-missing-all-these-years-seasons/",
+          "titre": "This mod delivers what Valheim was missing all these years: seasons"
+        }
+      ]
+    },
+    {
+      "id": "new-the-last-of-us-projects-in-very-early-stages-of-developm",
+      "titre": "New The Last of Us Projects in 'Very Early Stages' of Development",
+      "url": "https://www.pushsquare.com/news/2026/09/new-the-last-of-us-projects-in-very-early-stages-of-development",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/new-the-last-of-us-projects-in-very-early-stages-of-development",
+          "titre": "New The Last of Us Projects in 'Very Early Stages' of Development"
+        }
+      ]
+    },
+    {
       "id": "i-can-t-stop-comparing-the-dialogue-from-the-original-messy",
       "titre": "I can't stop comparing the dialogue from the original, messy FF7 localization and its vastly improved fan translation",
       "url": "https://www.pcgamer.com/games/final-fantasy/i-cant-stop-comparing-the-dialogue-from-the-original-messy-ff7-localization-and-its-vastly-improved-fan-translation/",
@@ -407,13 +461,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/final-fantasy/i-cant-stop-comparing-the-dialogue-from-the-original-messy-ff7-localization-and-its-vastly-improved-fan-translation/",
           "titre": "I can't stop comparing the dialogue from the original, messy FF7 localization and its vastly improved fan translation"
+        }
+      ]
+    },
+    {
+      "id": "random-motherbrain-returns-as-ubisoft-s-genai-gaming-initiat",
+      "titre": "Random: \"Motherbrain\" Returns As Ubisoft's GenAI Gaming Initiative",
+      "url": "https://www.nintendolife.com/news/2026/09/random-motherbrain-returns-as-ubisofts-genai-gaming-initiative",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/random-motherbrain-returns-as-ubisofts-genai-gaming-initiative",
+          "titre": "Random: \"Motherbrain\" Returns As Ubisoft's GenAI Gaming Initiative"
         }
       ]
     },
@@ -425,7 +497,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
@@ -443,7 +515,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -454,92 +526,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "former-elder-scrolls-writer-kurt-kuhlmann-is-100-convinced-a",
-      "titre": "Former Elder Scrolls writer Kurt Kuhlmann is '100% convinced' a load-bearing bit of series lore was inspired by a typo",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/former-elder-scrolls-writer-kurt-kuhlmann-is-100-percent-convinced-a-load-bearing-bit-of-series-lore-was-inspired-by-a-typo/",
+      "id": "double-fine-s-first-game-since-being-dumped-by-xbox-will-be",
+      "titre": "Double Fine's first game since being dumped by Xbox will be out in just 2 weeks",
+      "url": "https://www.pcgamer.com/games/racing/double-fines-first-game-since-being-dumped-by-xbox-will-be-out-in-just-2-weeks/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.2,
+      "heures": 4.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-elder-scrolls/former-elder-scrolls-writer-kurt-kuhlmann-is-100-percent-convinced-a-load-bearing-bit-of-series-lore-was-inspired-by-a-typo/",
-          "titre": "Former Elder Scrolls writer Kurt Kuhlmann is '100% convinced' a load-bearing bit of series lore was inspired by a typo"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-dev-teases-new-mega-dungeon-to-get",
-      "titre": "World of Warcraft: Forever dev teases new 'mega dungeon' to get lost in for hours like the good ol' days",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-teases-new-mega-dungeon-to-get-lost-in-for-hours-like-the-good-ol-days/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-teases-new-mega-dungeon-to-get-lost-in-for-hours-like-the-good-ol-days/",
-          "titre": "World of Warcraft: Forever dev teases new 'mega dungeon' to get lost in for hours like the good ol' days"
-        }
-      ]
-    },
-    {
-      "id": "double-xp-tokens-finally-work-how-you-d-think-they-would-in",
-      "titre": "Double XP Tokens Finally Work How You'd Think They Would in Modern Warfare 4",
-      "url": "https://www.pushsquare.com/news/2026/09/double-xp-tokens-finally-work-how-youd-think-they-would-in-modern-warfare-4",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/double-xp-tokens-finally-work-how-youd-think-they-would-in-modern-warfare-4",
-          "titre": "Double XP Tokens Finally Work How You'd Think They Would in Modern Warfare 4"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-players-find-black-market-npc-who",
-      "titre": "World of Warcraft: Forever players find black market NPC who sells a 15-day movement speed buff and other rare items that nobody can afford yet",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-find-black-market-npc-who-sells-a-15-day-movement-speed-buff-and-other-rare-items-that-nobody-can-afford-yet/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-find-black-market-npc-who-sells-a-15-day-movement-speed-buff-and-other-rare-items-that-nobody-can-afford-yet/",
-          "titre": "World of Warcraft: Forever players find black market NPC who sells a 15-day movement speed buff and other rare items that nobody can afford yet"
-        }
-      ]
-    },
-    {
-      "id": "the-internet-is-ritualistically-murdering-discord-s-cartoon",
-      "titre": "The internet is ritualistically murdering Discord's cartoon mascot",
-      "url": "https://www.pcgamer.com/software/platforms/the-internet-is-ritualistically-murdering-discords-cartoon-mascot/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/platforms/the-internet-is-ritualistically-murdering-discords-cartoon-mascot/",
-          "titre": "The internet is ritualistically murdering Discord's cartoon mascot"
+          "url": "https://www.pcgamer.com/games/racing/double-fines-first-game-since-being-dumped-by-xbox-will-be-out-in-just-2-weeks/",
+          "titre": "Double Fine's first game since being dumped by Xbox will be out in just 2 weeks"
         }
       ]
     },
@@ -551,7 +551,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 6.8,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +569,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.2,
       "chaleur": 6,
       "liens": [
         {
@@ -587,7 +587,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.7,
       "chaleur": 6,
       "liens": [
         {
@@ -606,7 +606,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 12.2,
+      "heures": 14.1,
       "chaleur": 6,
       "liens": [
         {
@@ -622,30 +622,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-witcher-3-remastered-release-times-in-your-time-zone-and",
-      "titre": "The Witcher 3 Remastered release times in your time zone and update file size",
-      "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-release-times-in-your-time-zone-and-update-file-size/",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 14.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-release-times-in-your-time-zone-and-update-file-size/",
-          "titre": "The Witcher 3 Remastered release times in your time zone and update file size"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/psa-the-witcher-3-remastered-file-size-and-release-time-confirmed-separate-purchase-required",
-          "titre": "PSA: The Witcher 3 Remastered File Size And Release Time Confirmed, Separate Purchase Required"
-        }
-      ]
-    },
-    {
       "id": "microsoft-ceo-says-xbox-is-simply-streamlining-after-cutting",
       "titre": "Microsoft CEO says Xbox is simply 'streamlining' after cutting over 5,750 jobs in three years",
       "url": "https://www.gamedeveloper.com/production/microsoft-ceo-says-xbox-is-streamlining-after-laying-off-5-750-workers-in-three-years",
@@ -653,7 +629,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.0,
       "chaleur": 5,
       "liens": [
         {
@@ -671,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.3,
       "chaleur": 5,
       "liens": [
         {
@@ -689,7 +665,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 14.8,
       "chaleur": 5,
       "liens": [
         {
@@ -707,13 +683,103 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.2,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model",
           "titre": "Microsoft boss Nadella says Xbox has to invent \"sustainable business model\""
+        }
+      ]
+    },
+    {
+      "id": "former-elder-scrolls-writer-kurt-kuhlmann-is-100-convinced-a",
+      "titre": "Former Elder Scrolls writer Kurt Kuhlmann is '100% convinced' a load-bearing bit of series lore was inspired by a typo",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/former-elder-scrolls-writer-kurt-kuhlmann-is-100-percent-convinced-a-load-bearing-bit-of-series-lore-was-inspired-by-a-typo/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/former-elder-scrolls-writer-kurt-kuhlmann-is-100-percent-convinced-a-load-bearing-bit-of-series-lore-was-inspired-by-a-typo/",
+          "titre": "Former Elder Scrolls writer Kurt Kuhlmann is '100% convinced' a load-bearing bit of series lore was inspired by a typo"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-dev-teases-new-mega-dungeon-to-get",
+      "titre": "World of Warcraft: Forever dev teases new 'mega dungeon' to get lost in for hours like the good ol' days",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-teases-new-mega-dungeon-to-get-lost-in-for-hours-like-the-good-ol-days/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-teases-new-mega-dungeon-to-get-lost-in-for-hours-like-the-good-ol-days/",
+          "titre": "World of Warcraft: Forever dev teases new 'mega dungeon' to get lost in for hours like the good ol' days"
+        }
+      ]
+    },
+    {
+      "id": "double-xp-tokens-finally-work-how-you-d-think-they-would-in",
+      "titre": "Double XP Tokens Finally Work How You'd Think They Would in Modern Warfare 4",
+      "url": "https://www.pushsquare.com/news/2026/09/double-xp-tokens-finally-work-how-youd-think-they-would-in-modern-warfare-4",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/double-xp-tokens-finally-work-how-youd-think-they-would-in-modern-warfare-4",
+          "titre": "Double XP Tokens Finally Work How You'd Think They Would in Modern Warfare 4"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-players-find-black-market-npc-who",
+      "titre": "World of Warcraft: Forever players find black market NPC who sells a 15-day movement speed buff and other rare items that nobody can afford yet",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-find-black-market-npc-who-sells-a-15-day-movement-speed-buff-and-other-rare-items-that-nobody-can-afford-yet/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-find-black-market-npc-who-sells-a-15-day-movement-speed-buff-and-other-rare-items-that-nobody-can-afford-yet/",
+          "titre": "World of Warcraft: Forever players find black market NPC who sells a 15-day movement speed buff and other rare items that nobody can afford yet"
+        }
+      ]
+    },
+    {
+      "id": "the-internet-is-ritualistically-murdering-discord-s-cartoon",
+      "titre": "The internet is ritualistically murdering Discord's cartoon mascot",
+      "url": "https://www.pcgamer.com/software/platforms/the-internet-is-ritualistically-murdering-discords-cartoon-mascot/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/platforms/the-internet-is-ritualistically-murdering-discords-cartoon-mascot/",
+          "titre": "The internet is ritualistically murdering Discord's cartoon mascot"
         }
       ]
     },
@@ -725,7 +791,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 5.9,
       "chaleur": 4,
       "liens": [
         {
@@ -743,7 +809,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -761,7 +827,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -779,7 +845,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -797,7 +863,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -833,7 +899,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -851,7 +917,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -869,7 +935,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +971,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +989,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -941,31 +1007,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/wolverine-breaks-ps5s-live-service-stranglehold-in-the-us",
           "titre": "Wolverine Breaks PS5's Live Service Stranglehold in the US"
-        }
-      ]
-    },
-    {
-      "id": "here-s-a-gallery-of-the-times-the-witcher-3-s-remastered-lig",
-      "titre": "Here's a gallery of the times The Witcher 3's remastered lighting had me like, 'Damn'",
-      "url": "https://www.pcgamer.com/games/the-witcher/heres-a-gallery-of-the-times-the-witcher-3s-remastered-lighting-had-me-like-damn/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/heres-a-gallery-of-the-times-the-witcher-3s-remastered-lighting-had-me-like-damn/",
-          "titre": "Here's a gallery of the times The Witcher 3's remastered lighting had me like, 'Damn'"
         }
       ]
     },
@@ -977,7 +1025,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +1043,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,7 +1061,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,7 +1079,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1049,67 +1097,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/path-of-exile-designer-says-he-desperately-wants-diablo-5-to-be-good-for-the-sake-of-the-genre/",
           "titre": "Path of Exile designer says he ‘desperately’ wants Diablo 5 to be good for the sake of the genre"
-        }
-      ]
-    },
-    {
-      "id": "pok-mon-cards-are-seemingly-returning-to-mcdonald-s-happy-me",
-      "titre": "Pokémon Cards Are Seemingly Returning To McDonald's Happy Meals Soon",
-      "url": "https://www.nintendolife.com/news/2026/09/pokemon-cards-are-seemingly-returning-to-mcdonalds-happy-meals-soon",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/pokemon-cards-are-seemingly-returning-to-mcdonalds-happy-meals-soon",
-          "titre": "Pokémon Cards Are Seemingly Returning To McDonald's Happy Meals Soon"
-        }
-      ]
-    },
-    {
-      "id": "dark-souls-2-can-now-be-played-in-its-entirety-with-drop-in",
-      "titre": "Dark Souls 2 can now be played in its entirety with drop-in, drop-out co-op, thanks to its own seamless multiplayer mod",
-      "url": "https://www.eurogamer.net/dark-souls-2-seamless-co-op-mod",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dark-souls-2-seamless-co-op-mod",
-          "titre": "Dark Souls 2 can now be played in its entirety with drop-in, drop-out co-op, thanks to its own seamless multiplayer mod"
-        }
-      ]
-    },
-    {
-      "id": "wolverine-japanese-ps5-sales-down-massively-compared-to-spid",
-      "titre": "Wolverine Japanese PS5 Sales Down Massively Compared to Spider-Man",
-      "url": "https://www.pushsquare.com/news/2026/09/wolverine-japanese-ps5-sales-down-massively-compared-to-spider-man",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/wolverine-japanese-ps5-sales-down-massively-compared-to-spider-man",
-          "titre": "Wolverine Japanese PS5 Sales Down Massively Compared to Spider-Man"
         }
       ]
     }
