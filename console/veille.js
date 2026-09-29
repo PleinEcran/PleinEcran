@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "28/09/2026 à 22h20",
+  "collecte": "29/09/2026 à 00h28",
   "seuil": 14,
   "sujets": [
     {
@@ -12,8 +12,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 2.8,
-      "chaleur": 11,
+      "heures": 5.0,
+      "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
@@ -35,49 +35,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.5,
       "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/racing/double-fines-first-game-since-being-dumped-by-xbox-will-be-out-in-just-2-weeks/",
           "titre": "Double Fine's first game since being dumped by Xbox will be out in just 2 weeks"
-        }
-      ]
-    },
-    {
-      "id": "steam-s-tidying-game-trend-is-about-to-get-the-haunted-meat",
-      "titre": "Steam's tidying game trend is about to get the haunted meat it's been missing",
-      "url": "https://www.pcgamer.com/games/sim/steams-tidying-game-trend-is-about-to-get-the-haunted-meat-its-been-missing/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/steams-tidying-game-trend-is-about-to-get-the-haunted-meat-its-been-missing/",
-          "titre": "Steam's tidying game trend is about to get the haunted meat it's been missing"
-        }
-      ]
-    },
-    {
-      "id": "double-fine-s-releasing-its-next-game-thank-you-bus-driver-j",
-      "titre": "Double Fine's releasing its next game, Thank You Bus Driver, just months after splitting from Xbox",
-      "url": "https://www.eurogamer.net/double-fine-thank-you-bus-driver-xbox-release-date",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/double-fine-thank-you-bus-driver-xbox-release-date",
-          "titre": "Double Fine's releasing its next game, Thank You Bus Driver, just months after splitting from Xbox"
         }
       ]
     },
@@ -89,7 +53,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 9.1,
       "chaleur": 8,
       "liens": [
         {
@@ -107,7 +71,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.6,
       "chaleur": 7,
       "liens": [
         {
@@ -125,7 +89,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.7,
       "chaleur": 7,
       "liens": [
         {
@@ -144,7 +108,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 6.2,
+      "heures": 8.3,
       "chaleur": 7,
       "liens": [
         {
@@ -168,7 +132,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 6.6,
+      "heures": 8.7,
       "chaleur": 7,
       "liens": [
         {
@@ -184,30 +148,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "god-of-war-laufey-ps5-editions-revealed-pre-order-tomorrow",
-      "titre": "God of War Laufey PS5 Editions Revealed, Pre-Order Tomorrow",
-      "url": "https://www.pushsquare.com/news/2026/09/god-of-war-laufey-ps5-editions-revealed-pre-order-tomorrow",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 10.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/god-of-war-laufey-ps5-editions-revealed-pre-order-tomorrow",
-          "titre": "God of War Laufey PS5 Editions Revealed, Pre-Order Tomorrow"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sony-details-god-of-war-laufeys-digital-deluxe-edition-contents-and-pre-order-bonus/",
-          "titre": "Sony details God of War Laufey’s Digital Deluxe Edition contents and pre-order bonus"
-        }
-      ]
-    },
-    {
       "id": "xbox-is-reportedly-paying-a-fraction-of-the-400-million-koji",
       "titre": "Xbox is reportedly paying a \"fraction\" of the $400 million Kojima quoted Sony for Physint",
       "url": "https://www.eurogamer.net/xbox-kojima-physint-budget-fraction-400-million",
@@ -215,7 +155,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.9,
+      "heures": 34.0,
       "chaleur": 7,
       "liens": [
         {
@@ -460,6 +400,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "i-can-t-stop-comparing-the-dialogue-from-the-original-messy",
+      "titre": "I can't stop comparing the dialogue from the original, messy FF7 localization and its vastly improved fan translation",
+      "url": "https://www.pcgamer.com/games/final-fantasy/i-cant-stop-comparing-the-dialogue-from-the-original-messy-ff7-localization-and-its-vastly-improved-fan-translation/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/final-fantasy/i-cant-stop-comparing-the-dialogue-from-the-original-messy-ff7-localization-and-its-vastly-improved-fan-translation/",
+          "titre": "I can't stop comparing the dialogue from the original, messy FF7 localization and its vastly improved fan translation"
+        }
+      ]
+    },
+    {
+      "id": "enhance-your-ace-combat-8-experience-with-two-rival-ps5-flig",
+      "titre": "Enhance Your Ace Combat 8 Experience with Two Rival PS5 Flight Sticks, Out This Week",
+      "url": "https://www.pushsquare.com/news/2026/09/enhance-your-ace-combat-8-experience-with-two-rival-ps5-flight-sticks-out-this-week",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/enhance-your-ace-combat-8-experience-with-two-rival-ps5-flight-sticks-out-this-week",
+          "titre": "Enhance Your Ace Combat 8 Experience with Two Rival PS5 Flight Sticks, Out This Week"
+        }
+      ]
+    },
+    {
+      "id": "review-train-sim-world-7-ps5-a-familiar-journey-with-a-few-n",
+      "titre": "Review: Train Sim World 7 (PS5) - A Familiar Journey with a Few New Stops",
+      "url": "https://www.pushsquare.com/reviews/ps5/train-sim-world-7",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/train-sim-world-7",
+          "titre": "Review: Train Sim World 7 (PS5) - A Familiar Journey with a Few New Stops"
+        }
+      ]
+    },
+    {
       "id": "former-elder-scrolls-writer-kurt-kuhlmann-is-100-convinced-a",
       "titre": "Former Elder Scrolls writer Kurt Kuhlmann is '100% convinced' a load-bearing bit of series lore was inspired by a typo",
       "url": "https://www.pcgamer.com/games/the-elder-scrolls/former-elder-scrolls-writer-kurt-kuhlmann-is-100-percent-convinced-a-load-bearing-bit-of-series-lore-was-inspired-by-a-typo/",
@@ -467,7 +461,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -485,7 +479,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -503,7 +497,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -521,7 +515,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -539,7 +533,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -550,38 +544,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "a-fundamental-update-for-this-34-year-old-survival-game-is-c",
-      "titre": "A 'fundamental' update for this 34-year-old survival game is coming in October",
-      "url": "https://www.pcgamer.com/games/survival-crafting/a-fundamental-update-for-this-34-year-old-survival-game-is-coming-in-october/",
+      "id": "steam-s-tidying-game-trend-is-about-to-get-the-haunted-meat",
+      "titre": "Steam's tidying game trend is about to get the haunted meat it's been missing",
+      "url": "https://www.pcgamer.com/games/sim/steams-tidying-game-trend-is-about-to-get-the-haunted-meat-its-been-missing/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 5.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/a-fundamental-update-for-this-34-year-old-survival-game-is-coming-in-october/",
-          "titre": "A 'fundamental' update for this 34-year-old survival game is coming in October"
+          "url": "https://www.pcgamer.com/games/sim/steams-tidying-game-trend-is-about-to-get-the-haunted-meat-its-been-missing/",
+          "titre": "Steam's tidying game trend is about to get the haunted meat it's been missing"
         }
       ]
     },
     {
-      "id": "the-last-of-us-day-marked-with-ps5-avatars-ghost-of-yotei-dl",
-      "titre": "The Last of Us Day Marked with PS5 Avatars, Ghost of Yotei DLC, Figures",
-      "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-marked-with-ps5-avatars-ghost-of-yotei-dlc-figures",
+      "id": "double-fine-s-releasing-its-next-game-thank-you-bus-driver-j",
+      "titre": "Double Fine's releasing its next game, Thank You Bus Driver, just months after splitting from Xbox",
+      "url": "https://www.eurogamer.net/double-fine-thank-you-bus-driver-xbox-release-date",
       "sources": [
-        "Push Square"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.8,
+      "heures": 5.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-marked-with-ps5-avatars-ghost-of-yotei-dlc-figures",
-          "titre": "The Last of Us Day Marked with PS5 Avatars, Ghost of Yotei DLC, Figures"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/double-fine-thank-you-bus-driver-xbox-release-date",
+          "titre": "Double Fine's releasing its next game, Thank You Bus Driver, just months after splitting from Xbox"
         }
       ]
     },
@@ -593,13 +587,61 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-console-is-currently-cheaper-than-ever-in-the-uk",
           "titre": "The Switch 2 Console Is Currently Cheaper Than Ever In The UK"
+        }
+      ]
+    },
+    {
+      "id": "god-of-war-laufey-ps5-editions-revealed-pre-order-tomorrow",
+      "titre": "God of War Laufey PS5 Editions Revealed, Pre-Order Tomorrow",
+      "url": "https://www.pushsquare.com/news/2026/09/god-of-war-laufey-ps5-editions-revealed-pre-order-tomorrow",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 12.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/god-of-war-laufey-ps5-editions-revealed-pre-order-tomorrow",
+          "titre": "God of War Laufey PS5 Editions Revealed, Pre-Order Tomorrow"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sony-details-god-of-war-laufeys-digital-deluxe-edition-contents-and-pre-order-bonus/",
+          "titre": "Sony details God of War Laufey’s Digital Deluxe Edition contents and pre-order bonus"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-remastered-release-times-in-your-time-zone-and",
+      "titre": "The Witcher 3 Remastered release times in your time zone and update file size",
+      "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-release-times-in-your-time-zone-and-update-file-size/",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 14.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-release-times-in-your-time-zone-and-update-file-size/",
+          "titre": "The Witcher 3 Remastered release times in your time zone and update file size"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/psa-the-witcher-3-remastered-file-size-and-release-time-confirmed-separate-purchase-required",
+          "titre": "PSA: The Witcher 3 Remastered File Size And Release Time Confirmed, Separate Purchase Required"
         }
       ]
     },
@@ -611,8 +653,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 6,
+      "heures": 12.2,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Game Developer",
@@ -629,8 +671,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 6,
+      "heures": 12.5,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -647,37 +689,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 6,
+      "heures": 13.0,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/playstation-controllers-may-have-built-in-credit-card-scanners-one-day",
           "titre": "PlayStation Controllers May Have Built-In Credit Card Scanners One Day"
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-remastered-release-times-in-your-time-zone-and",
-      "titre": "The Witcher 3 Remastered release times in your time zone and update file size",
-      "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-release-times-in-your-time-zone-and-update-file-size/",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 12.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-release-times-in-your-time-zone-and-update-file-size/",
-          "titre": "The Witcher 3 Remastered release times in your time zone and update file size"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/psa-the-witcher-3-remastered-file-size-and-release-time-confirmed-separate-purchase-required",
-          "titre": "PSA: The Witcher 3 Remastered File Size And Release Time Confirmed, Separate Purchase Required"
         }
       ]
     },
@@ -689,7 +707,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -700,20 +718,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "review-voidjoy-ga-10-elite-extender-for-switch-pro-controlle",
-      "titre": "Review: Voidjoy GA-10 Elite Extender For Switch Pro Controller - The Pros Don't Outweigh The (Mod) Cons",
-      "url": "https://www.nintendolife.com/reviews/voidjoy-ga-10-elite-extender-for-switch-pro-controller-the-pros-dont-outweigh-the-mod-cons",
+      "id": "a-fundamental-update-for-this-34-year-old-survival-game-is-c",
+      "titre": "A 'fundamental' update for this 34-year-old survival game is coming in October",
+      "url": "https://www.pcgamer.com/games/survival-crafting/a-fundamental-update-for-this-34-year-old-survival-game-is-coming-in-october/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 34.3,
-      "chaleur": 5,
+      "heures": 4.0,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/voidjoy-ga-10-elite-extender-for-switch-pro-controller-the-pros-dont-outweigh-the-mod-cons",
-          "titre": "Review: Voidjoy GA-10 Elite Extender For Switch Pro Controller - The Pros Don't Outweigh The (Mod) Cons"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/a-fundamental-update-for-this-34-year-old-survival-game-is-coming-in-october/",
+          "titre": "A 'fundamental' update for this 34-year-old survival game is coming in October"
+        }
+      ]
+    },
+    {
+      "id": "the-last-of-us-day-marked-with-ps5-avatars-ghost-of-yotei-dl",
+      "titre": "The Last of Us Day Marked with PS5 Avatars, Ghost of Yotei DLC, Figures",
+      "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-marked-with-ps5-avatars-ghost-of-yotei-dlc-figures",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-marked-with-ps5-avatars-ghost-of-yotei-dlc-figures",
+          "titre": "The Last of Us Day Marked with PS5 Avatars, Ghost of Yotei DLC, Figures"
         }
       ]
     },
@@ -725,7 +761,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -743,7 +779,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -761,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -779,7 +815,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -797,7 +833,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +851,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -833,7 +869,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -851,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -869,7 +905,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +923,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +941,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +959,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +977,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.2,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +995,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +1013,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +1031,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,7 +1049,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,7 +1067,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1049,31 +1085,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/dark-souls-2-seamless-co-op-mod",
           "titre": "Dark Souls 2 can now be played in its entirety with drop-in, drop-out co-op, thanks to its own seamless multiplayer mod"
-        }
-      ]
-    },
-    {
-      "id": "vignette-vs-chromatic-aberration-which-is-worse",
-      "titre": "Vignette vs chromatic aberration - which is worse?",
-      "url": "https://www.pcgamer.com/hardware/vignette-vs-chromatic-aberration-which-is-worse/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 8.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vignette-vs-chromatic-aberration-which-is-worse/",
-          "titre": "Vignette vs chromatic aberration - which is worse?"
         }
       ]
     },
@@ -1085,31 +1103,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/wolverine-japanese-ps5-sales-down-massively-compared-to-spider-man",
           "titre": "Wolverine Japanese PS5 Sales Down Massively Compared to Spider-Man"
-        }
-      ]
-    },
-    {
-      "id": "if-you-want-an-early-taste-of-the-witcher-3-s-songs-of-the-p",
-      "titre": "If you want an early taste of The Witcher 3's Songs of the Past expansion, you can listen to five tracks from the OST right now",
-      "url": "https://www.eurogamer.net/the-witcher-3-songs-of-the-past-expansion-five-tracks-ost",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/the-witcher-3-songs-of-the-past-expansion-five-tracks-ost",
-          "titre": "If you want an early taste of The Witcher 3's Songs of the Past expansion, you can listen to five tracks from the OST right now"
         }
       ]
     }
