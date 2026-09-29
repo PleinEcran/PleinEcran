@@ -1,8 +1,38 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "29/09/2026 à 20h22",
+  "collecte": "29/09/2026 à 22h21",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "steam-s-discounts-and-events-tab-will-soon-be-fully-algorith",
+      "titre": "Steam's discounts and events tab will soon be fully algorithm-driven",
+      "url": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
+      "sources": [
+        "Game Developer",
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 0.9,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
+          "titre": "Steam's discounts and events tab will soon be fully algorithm-driven"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-algorithm-comes-for-steams-discounts-and-events/",
+          "titre": "The algorithm comes for Steam's Discounts and Events"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/valve-is-changing-steams-homepage-discounts-and-events-section-to-go-the-way-of-the-algorithm-to-get-you-to-look-at-and-buy-obviously-more-games",
+          "titre": "Valve is changing Steam's homepage discounts and events section to go the way of the algorithm to get you to look at, and buy, obviously, more games"
+        }
+      ]
+    },
     {
       "id": "the-witcher-3-surges-to-its-highest-steam-concurrent-player",
       "titre": "The Witcher 3 surges to its highest Steam concurrent player-count ever, following Remastered edition's release",
@@ -13,8 +43,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 4.0,
-      "chaleur": 14,
+      "heures": 5.9,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Eurogamer",
@@ -34,30 +64,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-algorithm-comes-for-steam-s-discounts-and-events",
-      "titre": "The algorithm comes for Steam's Discounts and Events",
-      "url": "https://www.pcgamer.com/games/the-algorithm-comes-for-steams-discounts-and-events/",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 0.3,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-algorithm-comes-for-steams-discounts-and-events/",
-          "titre": "The algorithm comes for Steam's Discounts and Events"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valve-is-changing-steams-homepage-discounts-and-events-section-to-go-the-way-of-the-algorithm-to-get-you-to-look-at-and-buy-obviously-more-games",
-          "titre": "Valve is changing Steam's homepage discounts and events section to go the way of the algorithm to get you to look at, and buy, obviously, more games"
-        }
-      ]
-    },
-    {
       "id": "zelda-40th-anniversary-concert-tickets-go-on-sale-in-europe",
       "titre": "Zelda 40th Anniversary Concert tickets go on sale in Europe this week, as Nintendo says more countries are coming",
       "url": "https://www.videogameschronicle.com/news/zelda-40th-anniversary-concert-tickets-go-on-sale-in-europe-this-week-as-nintendo-says-more-countries-are-coming/",
@@ -66,7 +72,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 10,
       "liens": [
         {
@@ -82,6 +88,84 @@ const VEILLE = {
       ]
     },
     {
+      "id": "more-nintendo-lego-sets-are-being-retired-this-year",
+      "titre": "More Nintendo LEGO Sets Are Being Retired This Year",
+      "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 7.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
+          "titre": "More Nintendo LEGO Sets Are Being Retired This Year"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/34-video-game-lego-sets-are-retiring-at-the-end-of-the-year-including-animal-crossing-horizon-and-sonic-sets/",
+          "titre": "34 video game Lego sets are retiring at the end of the year, including Animal Crossing, Horizon and Sonic sets"
+        }
+      ]
+    },
+    {
+      "id": "xbox-begins-testing-its-platinum-trophy-alternative-18-years",
+      "titre": "Xbox Begins Testing Its Platinum Trophy Alternative, 18 Years After Sony Introduced System",
+      "url": "https://www.pushsquare.com/news/2026/09/xbox-begins-testing-its-platinum-trophy-alternative-18-years-after-sony-introduced-system",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/xbox-begins-testing-its-platinum-trophy-alternative-18-years-after-sony-introduced-system",
+          "titre": "Xbox Begins Testing Its Platinum Trophy Alternative, 18 Years After Sony Introduced System"
+        }
+      ]
+    },
+    {
+      "id": "ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre",
+      "titre": "Ace Combat 8 Steam reviewers are steaming mad about its pre-order bonus not being a standalone app",
+      "url": "https://www.pcgamer.com/games/sim/ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre-order-bonus-not-being-a-standalone-app/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre-order-bonus-not-being-a-standalone-app/",
+          "titre": "Ace Combat 8 Steam reviewers are steaming mad about its pre-order bonus not being a standalone app"
+        }
+      ]
+    },
+    {
+      "id": "why-so-many-steam-games-have-weirdly-similar-and-forgettable",
+      "titre": "Why so many Steam games have weirdly similar (and forgettable) names",
+      "url": "https://www.pcgamer.com/games/why-so-many-steam-games-have-weirdly-similar-and-forgettable-names/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/why-so-many-steam-games-have-weirdly-similar-and-forgettable-names/",
+          "titre": "Why so many Steam games have weirdly similar (and forgettable) names"
+        }
+      ]
+    },
+    {
       "id": "gta-6-reveals-massive-dense-open-world-in-13-new-screenshots",
       "titre": "GTA 6 Reveals Massive, Dense Open World in 13 New Screenshots, Details",
       "url": "https://www.pushsquare.com/news/2026/09/gta-6-reveals-massive-dense-open-world-in-13-new-screenshots-details",
@@ -89,8 +173,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 9,
+      "heures": 4.1,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -108,8 +192,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 2,
-      "heures": 2.5,
-      "chaleur": 9,
+      "heures": 4.5,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Game Developer",
@@ -131,8 +215,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 9,
+      "heures": 5.1,
+      "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
@@ -149,8 +233,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 9,
+      "heures": 5.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -167,73 +251,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 9,
+      "heures": 5.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/an-ode-to-the-loveable-horrible-wonderful-counter-strike-community-and-my-first-tournament-experience/",
           "titre": "An ode to the loveable, horrible, wonderful Counter-Strike community and my first tournament experience"
-        }
-      ]
-    },
-    {
-      "id": "more-nintendo-lego-sets-are-being-retired-this-year",
-      "titre": "More Nintendo LEGO Sets Are Being Retired This Year",
-      "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 5.9,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
-          "titre": "More Nintendo LEGO Sets Are Being Retired This Year"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/34-video-game-lego-sets-are-retiring-at-the-end-of-the-year-including-animal-crossing-horizon-and-sonic-sets/",
-          "titre": "34 video game Lego sets are retiring at the end of the year, including Animal Crossing, Horizon and Sonic sets"
-        }
-      ]
-    },
-    {
-      "id": "why-so-many-steam-games-have-weirdly-similar-and-forgettable",
-      "titre": "Why so many Steam games have weirdly similar (and forgettable) names",
-      "url": "https://www.pcgamer.com/games/why-so-many-steam-games-have-weirdly-similar-and-forgettable-names/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.2,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/why-so-many-steam-games-have-weirdly-similar-and-forgettable-names/",
-          "titre": "Why so many Steam games have weirdly similar (and forgettable) names"
-        }
-      ]
-    },
-    {
-      "id": "review-mobapad-c2-lite-controller-the-best-budget-pad-for-sw",
-      "titre": "Review: Mobapad C2 Lite Controller - The Best Budget Pad For Switch 2? Probably",
-      "url": "https://www.nintendolife.com/reviews/mobapad-c2-lite-controller-the-best-budget-pad-for-switch-2-probably",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/mobapad-c2-lite-controller-the-best-budget-pad-for-switch-2-probably",
-          "titre": "Review: Mobapad C2 Lite Controller - The Best Budget Pad For Switch 2? Probably"
         }
       ]
     },
@@ -246,7 +270,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 7,
       "liens": [
         {
@@ -270,7 +294,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 7,
       "liens": [
         {
@@ -294,7 +318,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 6.3,
+      "heures": 8.3,
       "chaleur": 7,
       "liens": [
         {
@@ -317,7 +341,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.9,
       "chaleur": 7,
       "liens": [
         {
@@ -335,7 +359,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 29.0,
+      "heures": 31.0,
       "chaleur": 7,
       "liens": [
         {
@@ -508,20 +532,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mdev",
-      "titre": "MDEV",
-      "url": "https://www.gamedeveloper.comwww.mdevconf.com",
+      "id": "diablo-5-director-promises-diablo-2-style-combat-where-the-r",
+      "titre": "Diablo 5 director promises Diablo 2-style combat where 'the right build' matters more than Diablo 4's action-heavy approach",
+      "url": "https://www.pcgamer.com/games/rpg/diablo-5-director-promises-diablo-2-style-combat-where-the-right-build-matters-more-than-diablo-4s-action-heavy-approach/",
       "sources": [
-        "Game Developer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 0.2,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.comwww.mdevconf.com",
-          "titre": "MDEV"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/diablo-5-director-promises-diablo-2-style-combat-where-the-right-build-matters-more-than-diablo-4s-action-heavy-approach/",
+          "titre": "Diablo 5 director promises Diablo 2-style combat where 'the right build' matters more than Diablo 4's action-heavy approach"
+        }
+      ]
+    },
+    {
+      "id": "with-deadlock-s-latest-updating-promising-six-new-heroes-ove",
+      "titre": "With Deadlock's latest updating promising six new heroes, over 10,000 new voice lines and too much more to mention, it's clear Valve are still pretty committed to it",
+      "url": "https://www.rockpapershotgun.com/with-deadlocks-latest-updating-promising-six-new-heroes-over-10000-new-voice-lines-and-too-much-more-to-mention-its-clear-valve-are-still-pretty-committed-to-it",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/with-deadlocks-latest-updating-promising-six-new-heroes-over-10000-new-voice-lines-and-too-much-more-to-mention-its-clear-valve-are-still-pretty-committed-to-it",
+          "titre": "With Deadlock's latest updating promising six new heroes, over 10,000 new voice lines and too much more to mention, it's clear Valve are still pretty committed to it"
+        }
+      ]
+    },
+    {
+      "id": "the-weird-experience-of-liking-a-game-before-it-s-fixed",
+      "titre": "The weird experience of liking a game before it's 'fixed'",
+      "url": "https://www.pcgamer.com/games/survival-crafting/the-weird-experience-of-liking-a-game-before-its-fixed/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/the-weird-experience-of-liking-a-game-before-its-fixed/",
+          "titre": "The weird experience of liking a game before it's 'fixed'"
+        }
+      ]
+    },
+    {
+      "id": "wardogs-boss-talks-balance-xp-and-why-the-endgame-is-sh-t-ri",
+      "titre": "Wardogs boss talks balance, XP, and why 'the endgame is sh*t' right now",
+      "url": "https://www.pcgamer.com/games/fps/wardogs-boss-talks-balance-xp-and-why-the-endgame-is-sh-t-right-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/wardogs-boss-talks-balance-xp-and-why-the-endgame-is-sh-t-right-now/",
+          "titre": "Wardogs boss talks balance, XP, and why 'the endgame is sh*t' right now"
+        }
+      ]
+    },
+    {
+      "id": "sometimes-the-thing-you-need-is-a-wonderfully-ethereal-physi",
+      "titre": "Sometimes the thing you need is a wonderfully ethereal physics platformer jam game where you are a little round guy with very stretchy arms called Big Stretch",
+      "url": "https://www.rockpapershotgun.com/sometimes-the-thing-you-need-is-a-wonderfully-ethereal-physics-platformer-jam-game-where-you-are-a-little-round-guy-with-very-stretchy-arms-called-big-stretch",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/sometimes-the-thing-you-need-is-a-wonderfully-ethereal-physics-platformer-jam-game-where-you-are-a-little-round-guy-with-very-stretchy-arms-called-big-stretch",
+          "titre": "Sometimes the thing you need is a wonderfully ethereal physics platformer jam game where you are a little round guy with very stretchy arms called Big Stretch"
         }
       ]
     },
@@ -533,7 +629,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -551,7 +647,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +665,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -587,7 +683,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -598,110 +694,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "uk-government-wants-people-to-be-rude-to-ai-you-don-t-need-t",
-      "titre": "UK government wants people to be rude to AI: 'You don't need to say thank you'",
-      "url": "https://www.pcgamer.com/software/ai/uk-government-wants-people-to-be-rude-to-ai-you-dont-need-to-say-thank-you/",
+      "id": "review-mobapad-c2-lite-controller-the-best-budget-pad-for-sw",
+      "titre": "Review: Mobapad C2 Lite Controller - The Best Budget Pad For Switch 2? Probably",
+      "url": "https://www.nintendolife.com/reviews/mobapad-c2-lite-controller-the-best-budget-pad-for-switch-2-probably",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.3,
+      "heures": 5.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/uk-government-wants-people-to-be-rude-to-ai-you-dont-need-to-say-thank-you/",
-          "titre": "UK government wants people to be rude to AI: 'You don't need to say thank you'"
-        }
-      ]
-    },
-    {
-      "id": "toem-2-review-a-sweet-sequel-that-s-a-tad-too-easy-to-be-mem",
-      "titre": "Toem 2 review: A sweet sequel that's a tad too easy to be memorable",
-      "url": "https://www.pcgamer.com/games/adventure/toem-2-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/adventure/toem-2-review/",
-          "titre": "Toem 2 review: A sweet sequel that's a tad too easy to be memorable"
-        }
-      ]
-    },
-    {
-      "id": "one-of-the-witcher-3-s-most-celebrated-writers-returns-to-cd",
-      "titre": "One of The Witcher 3's Most Celebrated Writers Returns to CD Projekt Red",
-      "url": "https://www.pushsquare.com/news/2026/09/one-of-the-witcher-3s-most-celebrated-writers-returns-to-cd-projekt-red",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/one-of-the-witcher-3s-most-celebrated-writers-returns-to-cd-projekt-red",
-          "titre": "One of The Witcher 3's Most Celebrated Writers Returns to CD Projekt Red"
-        }
-      ]
-    },
-    {
-      "id": "after-trading-space-babies-and-running-people-over-with-a-tr",
-      "titre": "After trading space babies and running people over with a truck, Strange Scaffold want you to organise a haunted library in Something is Wrong with the Library",
-      "url": "https://www.rockpapershotgun.com/after-trading-space-babies-and-running-people-over-with-a-truck-strange-scaffold-want-you-to-organise-a-haunted-library-in-something-is-wrong-with-the-library",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/after-trading-space-babies-and-running-people-over-with-a-truck-strange-scaffold-want-you-to-organise-a-haunted-library-in-something-is-wrong-with-the-library",
-          "titre": "After trading space babies and running people over with a truck, Strange Scaffold want you to organise a haunted library in Something is Wrong with the Library"
-        }
-      ]
-    },
-    {
-      "id": "cregger-s-resident-evil-film-is-already-the-3rd-highest-gros",
-      "titre": "Cregger's Resident Evil film is already the 3rd highest grossing RE film with over $100 million at the domestic box office in under 2 weeks",
-      "url": "https://www.pcgamer.com/movies-tv/creggers-resident-evil-film-is-already-the-3rd-highest-grossing-re-film-with-over-usd100-million-at-the-domestic-box-office-in-under-2-weeks/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/creggers-resident-evil-film-is-already-the-3rd-highest-grossing-re-film-with-over-usd100-million-at-the-domestic-box-office-in-under-2-weeks/",
-          "titre": "Cregger's Resident Evil film is already the 3rd highest grossing RE film with over $100 million at the domestic box office in under 2 weeks"
-        }
-      ]
-    },
-    {
-      "id": "how-every-major-character-in-dostoevsky-s-crime-and-punishme",
-      "titre": "How every major character in Dostoevsky's Crime and Punishment would fare if they had to survive the plot of Halo 1",
-      "url": "https://www.pcgamer.com/games/halo/how-every-major-character-in-dostoevskys-crime-and-punishment-would-fare-if-they-had-to-survive-the-plot-of-halo-1/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/halo/how-every-major-character-in-dostoevskys-crime-and-punishment-would-fare-if-they-had-to-survive-the-plot-of-halo-1/",
-          "titre": "How every major character in Dostoevsky's Crime and Punishment would fare if they had to survive the plot of Halo 1"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/mobapad-c2-lite-controller-the-best-budget-pad-for-switch-2-probably",
+          "titre": "Review: Mobapad C2 Lite Controller - The Best Budget Pad For Switch 2? Probably"
         }
       ]
     },
@@ -713,7 +719,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 6,
       "liens": [
         {
@@ -731,7 +737,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 6,
       "liens": [
         {
@@ -749,7 +755,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 9.7,
       "chaleur": 6,
       "liens": [
         {
@@ -767,7 +773,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.5,
+      "heures": 28.5,
       "chaleur": 6,
       "liens": [
         {
@@ -785,7 +791,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.4,
       "chaleur": 5,
       "liens": [
         {
@@ -803,7 +809,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.4,
       "chaleur": 5,
       "liens": [
         {
@@ -821,7 +827,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 27.3,
       "chaleur": 5,
       "liens": [
         {
@@ -839,7 +845,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.8,
+      "heures": 29.8,
       "chaleur": 5,
       "liens": [
         {
@@ -857,7 +863,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 32.1,
+      "heures": 34.1,
       "chaleur": 5,
       "liens": [
         {
@@ -868,20 +874,110 @@ const VEILLE = {
       ]
     },
     {
-      "id": "microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-b",
-      "titre": "Microsoft boss Nadella says Xbox has to invent \"sustainable business model\"",
-      "url": "https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model",
+      "id": "uk-government-wants-people-to-be-rude-to-ai-you-don-t-need-t",
+      "titre": "UK government wants people to be rude to AI: 'You don't need to say thank you'",
+      "url": "https://www.pcgamer.com/software/ai/uk-government-wants-people-to-be-rude-to-ai-you-dont-need-to-say-thank-you/",
       "sources": [
-        "GamesIndustry.biz"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 5,
+      "heures": 4.3,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model",
-          "titre": "Microsoft boss Nadella says Xbox has to invent \"sustainable business model\""
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/uk-government-wants-people-to-be-rude-to-ai-you-dont-need-to-say-thank-you/",
+          "titre": "UK government wants people to be rude to AI: 'You don't need to say thank you'"
+        }
+      ]
+    },
+    {
+      "id": "toem-2-review-a-sweet-sequel-that-s-a-tad-too-easy-to-be-mem",
+      "titre": "Toem 2 review: A sweet sequel that's a tad too easy to be memorable",
+      "url": "https://www.pcgamer.com/games/adventure/toem-2-review/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/adventure/toem-2-review/",
+          "titre": "Toem 2 review: A sweet sequel that's a tad too easy to be memorable"
+        }
+      ]
+    },
+    {
+      "id": "one-of-the-witcher-3-s-most-celebrated-writers-returns-to-cd",
+      "titre": "One of The Witcher 3's Most Celebrated Writers Returns to CD Projekt Red",
+      "url": "https://www.pushsquare.com/news/2026/09/one-of-the-witcher-3s-most-celebrated-writers-returns-to-cd-projekt-red",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/one-of-the-witcher-3s-most-celebrated-writers-returns-to-cd-projekt-red",
+          "titre": "One of The Witcher 3's Most Celebrated Writers Returns to CD Projekt Red"
+        }
+      ]
+    },
+    {
+      "id": "after-trading-space-babies-and-running-people-over-with-a-tr",
+      "titre": "After trading space babies and running people over with a truck, Strange Scaffold want you to organise a haunted library in Something is Wrong with the Library",
+      "url": "https://www.rockpapershotgun.com/after-trading-space-babies-and-running-people-over-with-a-truck-strange-scaffold-want-you-to-organise-a-haunted-library-in-something-is-wrong-with-the-library",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/after-trading-space-babies-and-running-people-over-with-a-truck-strange-scaffold-want-you-to-organise-a-haunted-library-in-something-is-wrong-with-the-library",
+          "titre": "After trading space babies and running people over with a truck, Strange Scaffold want you to organise a haunted library in Something is Wrong with the Library"
+        }
+      ]
+    },
+    {
+      "id": "cregger-s-resident-evil-film-is-already-the-3rd-highest-gros",
+      "titre": "Cregger's Resident Evil film is already the 3rd highest grossing RE film with over $100 million at the domestic box office in under 2 weeks",
+      "url": "https://www.pcgamer.com/movies-tv/creggers-resident-evil-film-is-already-the-3rd-highest-grossing-re-film-with-over-usd100-million-at-the-domestic-box-office-in-under-2-weeks/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/creggers-resident-evil-film-is-already-the-3rd-highest-grossing-re-film-with-over-usd100-million-at-the-domestic-box-office-in-under-2-weeks/",
+          "titre": "Cregger's Resident Evil film is already the 3rd highest grossing RE film with over $100 million at the domestic box office in under 2 weeks"
+        }
+      ]
+    },
+    {
+      "id": "how-every-major-character-in-dostoevsky-s-crime-and-punishme",
+      "titre": "How every major character in Dostoevsky's Crime and Punishment would fare if they had to survive the plot of Halo 1",
+      "url": "https://www.pcgamer.com/games/halo/how-every-major-character-in-dostoevskys-crime-and-punishment-would-fare-if-they-had-to-survive-the-plot-of-halo-1/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/halo/how-every-major-character-in-dostoevskys-crime-and-punishment-would-fare-if-they-had-to-survive-the-plot-of-halo-1/",
+          "titre": "How every major character in Dostoevsky's Crime and Punishment would fare if they had to survive the plot of Halo 1"
         }
       ]
     },
@@ -893,7 +989,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -911,7 +1007,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -929,7 +1025,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -947,7 +1043,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -965,7 +1061,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -983,7 +1079,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1001,7 +1097,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1019,7 +1115,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1037,7 +1133,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1046,97 +1142,9 @@ const VEILLE = {
           "titre": "I perished in the flesh pipes of Darktide's Depths of the Damned update, and you will too"
         }
       ]
-    },
-    {
-      "id": "these-3-classic-toy-story-games-have-all-been-delisted-on-ps",
-      "titre": "These 3 Classic Toy Story Games Have All Been Delisted on PS5, Removed from PS Plus",
-      "url": "https://www.pushsquare.com/news/2026/09/these-3-classic-toy-story-games-have-all-been-delisted-on-ps5-removed-from-ps-plus",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 5.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/these-3-classic-toy-story-games-have-all-been-delisted-on-ps5-removed-from-ps-plus",
-          "titre": "These 3 Classic Toy Story Games Have All Been Delisted on PS5, Removed from PS Plus"
-        }
-      ]
-    },
-    {
-      "id": "the-best-frog-in-all-of-gaming-touch-me-is-now-appreciable-i",
-      "titre": "The best frog in all of gaming, Touch Me, is now appreciable in all its glory thanks to a FF7 model viewer",
-      "url": "https://www.pcgamer.com/games/final-fantasy/the-best-frog-in-all-of-gaming-touch-me-is-now-appreciable-in-all-its-glory-thanks-to-a-ff7-model-viewer/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/final-fantasy/the-best-frog-in-all-of-gaming-touch-me-is-now-appreciable-in-all-its-glory-thanks-to-a-ff7-model-viewer/",
-          "titre": "The best frog in all of gaming, Touch Me, is now appreciable in all its glory thanks to a FF7 model viewer"
-        }
-      ]
-    },
-    {
-      "id": "how-indie-studios-can-survive-industry-volatility-opinion",
-      "titre": "How indie studios can survive industry volatility | Opinion",
-      "url": "https://www.gamesindustry.biz/how-indie-studios-can-survive-industry-volatility-opinion",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 5.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/how-indie-studios-can-survive-industry-volatility-opinion",
-          "titre": "How indie studios can survive industry volatility | Opinion"
-        }
-      ]
-    },
-    {
-      "id": "cd-projekt-says-it-overhauled-witcher-3-gameplay-because-it",
-      "titre": "CD Projekt says it overhauled Witcher 3 gameplay because it was ‘obviously’ the weakest part",
-      "url": "https://www.videogameschronicle.com/news/cd-projekt-says-it-overhauled-witcher-3-gameplay-because-it-was-obviously-the-weakest-part/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 5.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/cd-projekt-says-it-overhauled-witcher-3-gameplay-because-it-was-obviously-the-weakest-part/",
-          "titre": "CD Projekt says it overhauled Witcher 3 gameplay because it was ‘obviously’ the weakest part"
-        }
-      ]
-    },
-    {
-      "id": "we-were-constantly-overshooting-our-capacity-arc-raiders-ex",
-      "titre": "'We were constantly overshooting our capacity:' Arc Raiders exec says success resulted in burnout",
-      "url": "https://www.gamedeveloper.com/production/-we-were-constantly-overshooting-our-capacity-arc-raiders-exec-explains-success-resulted-in-burnout",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 6.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production/-we-were-constantly-overshooting-our-capacity-arc-raiders-exec-explains-success-resulted-in-burnout",
-          "titre": "'We were constantly overshooting our capacity:' Arc Raiders exec says success resulted in burnout"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Steam's discounts and events tab will soon be fully algorithm-driven"
+  ]
 };
