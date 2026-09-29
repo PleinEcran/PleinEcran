@@ -1,8 +1,122 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "29/09/2026 à 08h24",
+  "collecte": "29/09/2026 à 10h22",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "the-witcher-3-remastered-available-to-download-now",
+      "titre": "The Witcher 3 Remastered Available to Download Now",
+      "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-available-to-download-now",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 4,
+      "heures": 0.1,
+      "chaleur": 15,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-available-to-download-now",
+          "titre": "The Witcher 3 Remastered Available to Download Now"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/the-witcher-3-wild-hunt-remastered-is-out-now-heres-how-to-start-playing/",
+          "titre": "The Witcher 3 Wild Hunt Remastered is out now, here’s how to start playing"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/the-witcher-3-remastered-transmog-unlock/",
+          "titre": "How to unlock transmog in The Witcher 3 Remastered"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/round-up-the-first-reviews-for-the-witcher-3-remastered-are-in",
+          "titre": "Round Up: The First Reviews For The Witcher 3 Remastered Are In"
+        }
+      ]
+    },
+    {
+      "id": "naughty-dog-confirms-two-more-the-last-of-us-projects-are-in",
+      "titre": "Naughty Dog confirms two more The Last of Us projects are in the works, won't show off Intergalactic: The Heretic Prophet until 2027",
+      "url": "https://www.eurogamer.net/naughty-dog-confirms-two-more-the-last-of-us-projects-are-in-the-works-wont-show-off-intergalactic-the-heretic-prophet-until-2027",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 1.8,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/naughty-dog-confirms-two-more-the-last-of-us-projects-are-in-the-works-wont-show-off-intergalactic-the-heretic-prophet-until-2027",
+          "titre": "Naughty Dog confirms two more The Last of Us projects are in the works, won't show off Intergalactic: The Heretic Prophet until 2027"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/naughty-dog-will-fully-reveal-intergalactic-in-2027/",
+          "titre": "Naughty Dog will fully reveal Intergalactic in 2027"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/no-intergalactic-ps5-updates-until-2027-new-artwork-for-now",
+          "titre": "No Intergalactic PS5 Updates Until 2027, New Artwork for Now"
+        }
+      ]
+    },
+    {
+      "id": "sony-to-skip-ces-2027-for-first-time-since-expo-s-inaugural",
+      "titre": "Sony to skip CES 2027 for first time since expo's inaugural event in 1967",
+      "url": "https://www.gamesindustry.biz/sony-to-skip-ces-2027-for-first-time-since-expos-inaugural-event-in-1967",
+      "sources": [
+        "GamesIndustry.biz",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/sony-to-skip-ces-2027-for-first-time-since-expos-inaugural-event-in-1967",
+          "titre": "Sony to skip CES 2027 for first time since expo's inaugural event in 1967"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sony-is-officially-skipping-ces-for-the-first-time-in-decades/",
+          "titre": "Sony is officially skipping CES for the first time in decades"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-remastered-has-scuppered-an-ambitious-cut-plag",
+      "titre": "The Witcher 3 Remastered has scuppered an ambitious cut plague quest restoration mod, but there'll be \"something extra\" in the update that gets it working again",
+      "url": "https://www.rockpapershotgun.com/the-witcher-3-remastered-has-scuppered-an-ambitious-cut-plague-quest-restoration-mod-but-therell-be-something-extra-in-the-update-that-gets-it-working-again",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 1.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-witcher-3-remastered-has-scuppered-an-ambitious-cut-plague-quest-restoration-mod-but-therell-be-something-extra-in-the-update-that-gets-it-working-again",
+          "titre": "The Witcher 3 Remastered has scuppered an ambitious cut plague quest restoration mod, but there'll be \"something extra\" in the update that gets it working again"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/witcher-3-wild-hunt-remastered-generous-upgrade-makes-it-new-again",
+          "titre": "The Witcher 3 Remastered is an extraordinarily generous upgrade that doesn't change the game, but does make it new again"
+        }
+      ]
+    },
     {
       "id": "in-another-unprecedented-move-call-of-duty-modern-warfare-4",
       "titre": "In another unprecedented move, Call of Duty: Modern Warfare 4 is changing double XP tokens so they count down in match and not real-time",
@@ -12,7 +126,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 0.0,
+      "heures": 2.0,
       "chaleur": 9,
       "liens": [
         {
@@ -28,26 +142,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "round-up-the-first-reviews-for-the-witcher-3-remastered-are",
-      "titre": "Round Up: The First Reviews For The Witcher 3 Remastered Are In",
-      "url": "https://www.nintendolife.com/news/2026/09/round-up-the-first-reviews-for-the-witcher-3-remastered-are-in",
+      "id": "the-clamshell-c64-and-zx-spectrum-handhelds-have-been-delaye",
+      "titre": "The clamshell C64 and ZX Spectrum handhelds have been delayed by six months because of production quality",
+      "url": "https://www.videogameschronicle.com/news/the-clamshell-c64-and-zx-spectrum-handhelds-have-been-delayed-by-six-months-because-of-production-quality/",
       "sources": [
-        "Nintendo Life",
-        "PC Gamer"
+        "VGC"
       ],
-      "reprises": 2,
-      "heures": 1.8,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/round-up-the-first-reviews-for-the-witcher-3-remastered-are-in",
-          "titre": "Round Up: The First Reviews For The Witcher 3 Remastered Are In"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-lays-out-why-you-should-play-the-witcher-3-remastered/",
-          "titre": "CD Projekt lays out why you should play The Witcher 3 Remastered"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-clamshell-c64-and-zx-spectrum-handhelds-have-been-delayed-by-six-months-because-of-production-quality/",
+          "titre": "The clamshell C64 and ZX Spectrum handhelds have been delayed by six months because of production quality"
         }
       ]
     },
@@ -59,37 +167,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 8,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/xbox-reveals-gears-of-war-lancer-pizza-cutter-immediately-sells-out/",
           "titre": "Xbox reveals Gears of War Lancer pizza cutter, immediately sells out"
-        }
-      ]
-    },
-    {
-      "id": "let-the-heroic-games-begin-fire-emblem-fortune-s-weave-brin",
-      "titre": "\"Let The Heroic Games Begin\" - Fire Emblem: Fortune's Weave Brings The Battle To Tetris 99",
-      "url": "https://www.nintendolife.com/news/2026/09/let-the-heroic-games-begin-fire-emblem-fortunes-weave-brings-the-battle-to-tetris-99",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 6.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/let-the-heroic-games-begin-fire-emblem-fortunes-weave-brings-the-battle-to-tetris-99",
-          "titre": "\"Let The Heroic Games Begin\" - Fire Emblem: Fortune's Weave Brings The Battle To Tetris 99"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-torment-grass-location/",
-          "titre": "Fire Emblem Fortune’s Weave: Torment Grass location"
         }
       ]
     },
@@ -101,7 +185,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 19.0,
       "chaleur": 7,
       "liens": [
         {
@@ -346,20 +430,146 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sony-is-officially-skipping-ces-for-the-first-time-in-decade",
-      "titre": "Sony is officially skipping CES for the first time in decades",
-      "url": "https://www.videogameschronicle.com/news/sony-is-officially-skipping-ces-for-the-first-time-in-decades/",
+      "id": "34-video-game-lego-sets-are-retiring-at-the-end-of-the-year",
+      "titre": "34 video game Lego sets are retiring at the end of the year, including Animal Crossing, Horizon and Sonic sets",
+      "url": "https://www.videogameschronicle.com/news/34-video-game-lego-sets-are-retiring-at-the-end-of-the-year-including-animal-crossing-horizon-and-sonic-sets/",
       "sources": [
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 0.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sony-is-officially-skipping-ces-for-the-first-time-in-decades/",
-          "titre": "Sony is officially skipping CES for the first time in decades"
+          "url": "https://www.videogameschronicle.com/news/34-video-game-lego-sets-are-retiring-at-the-end-of-the-year-including-animal-crossing-horizon-and-sonic-sets/",
+          "titre": "34 video game Lego sets are retiring at the end of the year, including Animal Crossing, Horizon and Sonic sets"
+        }
+      ]
+    },
+    {
+      "id": "how-to-get-unlocked-multi-frame-gen-working-on-an-rtx-40-ser",
+      "titre": "How to get unlocked Multi Frame Gen working on an RTX 40-series graphics card",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/how-to-get-unlocked-multi-frame-gen-working-on-an-rtx-40-series-graphics-card/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/how-to-get-unlocked-multi-frame-gen-working-on-an-rtx-40-series-graphics-card/",
+          "titre": "How to get unlocked Multi Frame Gen working on an RTX 40-series graphics card"
+        }
+      ]
+    },
+    {
+      "id": "sonic-boss-believes-the-series-is-only-halfway-to-its-potent",
+      "titre": "Sonic boss believes the series is only halfway to its potential",
+      "url": "https://www.videogameschronicle.com/news/sonic-boss-believes-the-series-is-only-halfway-to-its-potential/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sonic-boss-believes-the-series-is-only-halfway-to-its-potential/",
+          "titre": "Sonic boss believes the series is only halfway to its potential"
+        }
+      ]
+    },
+    {
+      "id": "all-versions-of-the-witcher-3-that-exist-in-the-world-will-b",
+      "titre": "All versions of The Witcher 3 \"that exist in the world\" will be upgraded with the free Remastered edition today",
+      "url": "https://www.eurogamer.net/all-versions-of-the-witcher-3-that-exist-in-the-world-will-be-upgraded-with-the-free-remastered-edition-today",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/all-versions-of-the-witcher-3-that-exist-in-the-world-will-be-upgraded-with-the-free-remastered-edition-today",
+          "titre": "All versions of The Witcher 3 \"that exist in the world\" will be upgraded with the free Remastered edition today"
+        }
+      ]
+    },
+    {
+      "id": "this-new-super-bright-500-nit-inkjet-tech-promises-to-fix-ol",
+      "titre": "This new super-bright 500 nit 'inkjet' tech promises to fix OLED's full-screen brightness limitation",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/this-new-super-bright-500-nit-inkjet-tech-promises-to-fix-oleds-full-screen-brightness-limitation/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-monitors/this-new-super-bright-500-nit-inkjet-tech-promises-to-fix-oleds-full-screen-brightness-limitation/",
+          "titre": "This new super-bright 500 nit 'inkjet' tech promises to fix OLED's full-screen brightness limitation"
+        }
+      ]
+    },
+    {
+      "id": "sony-is-introducing-an-anti-scalping-lottery-system-for-ps5",
+      "titre": "Sony is introducing an anti-scalping lottery system for PS5 Pros in Japan as supply shortages persist",
+      "url": "https://www.eurogamer.net/sony-ps5-pro-lottery-system-japan-supply-shortage",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/sony-ps5-pro-lottery-system-japan-supply-shortage",
+          "titre": "Sony is introducing an anti-scalping lottery system for PS5 Pros in Japan as supply shortages persist"
+        }
+      ]
+    },
+    {
+      "id": "final-3-september-2026-ps-plus-extra-games-available-to-down",
+      "titre": "Final 3 September 2026 PS Plus Extra Games Available to Download Now",
+      "url": "https://www.pushsquare.com/news/2026/09/final-3-september-2026-ps-plus-extra-games-available-to-download-now",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/final-3-september-2026-ps-plus-extra-games-available-to-download-now",
+          "titre": "Final 3 September 2026 PS Plus Extra Games Available to Download Now"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-remastered-is-now-the-highest-scoring-game-of",
+      "titre": "The Witcher 3 Remastered is now the highest-scoring game of 2026 on Metacritic",
+      "url": "https://www.videogameschronicle.com/news/the-witcher-3-remastered-is-now-the-highest-scoring-game-of-2026-on-metacritic/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-witcher-3-remastered-is-now-the-highest-scoring-game-of-2026-on-metacritic/",
+          "titre": "The Witcher 3 Remastered is now the highest-scoring game of 2026 on Metacritic"
         }
       ]
     },
@@ -371,7 +581,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.5,
       "chaleur": 6,
       "liens": [
         {
@@ -389,31 +599,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/dynasty-warriors-3-complete-edition-remastered-switch-2-performance-and-resolution-revealed",
           "titre": "Dynasty Warriors 3: Complete Edition Remastered Switch 2 Performance & Resolution Revealed"
-        }
-      ]
-    },
-    {
-      "id": "double-fine-s-first-game-since-being-dumped-by-xbox-will-be",
-      "titre": "Double Fine's first game since being dumped by Xbox will be out in just 2 weeks",
-      "url": "https://www.pcgamer.com/games/racing/double-fines-first-game-since-being-dumped-by-xbox-will-be-out-in-just-2-weeks/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/racing/double-fines-first-game-since-being-dumped-by-xbox-will-be-out-in-just-2-weeks/",
-          "titre": "Double Fine's first game since being dumped by Xbox will be out in just 2 weeks"
         }
       ]
     },
@@ -425,7 +617,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.5,
       "chaleur": 6,
       "liens": [
         {
@@ -436,86 +628,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-have-broken-gta-5-by-installing-so-many-mods-that-the-game",
-      "titre": "I have broken GTA 5 by installing so many mods that the game only launches in windowed mode now",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-broken-gta-5-by-installing-so-many-mods-that-the-game-only-launches-in-windowed-mode-now/",
+      "id": "double-fine-s-first-game-since-being-dumped-by-xbox-will-be",
+      "titre": "Double Fine's first game since being dumped by Xbox will be out in just 2 weeks",
+      "url": "https://www.pcgamer.com/games/racing/double-fines-first-game-since-being-dumped-by-xbox-will-be-out-in-just-2-weeks/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-broken-gta-5-by-installing-so-many-mods-that-the-game-only-launches-in-windowed-mode-now/",
-          "titre": "I have broken GTA 5 by installing so many mods that the game only launches in windowed mode now"
-        }
-      ]
-    },
-    {
-      "id": "cd-projekt-release-full-updated-witcher-3-wild-hunt-remaster",
-      "titre": "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements",
-      "url": "https://www.rockpapershotgun.com/cd-projekt-release-full-updated-witcher-3-wild-hunt-remastered-system-specs-including-ray-tracing-and-path-tracing-requirements",
-      "sources": [
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 16.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cd-projekt-release-full-updated-witcher-3-wild-hunt-remastered-system-specs-including-ray-tracing-and-path-tracing-requirements",
-          "titre": "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/the-witcher-3-wild-hunt-remastered",
-          "titre": "Review in Progress: The Witcher 3: Wild Hunt Remastered (PS5) - How to Improve a Masterpiece"
-        }
-      ]
-    },
-    {
-      "id": "god-of-war-laufey-ps5-editions-revealed-pre-order-tomorrow",
-      "titre": "God of War Laufey PS5 Editions Revealed, Pre-Order Tomorrow",
-      "url": "https://www.pushsquare.com/news/2026/09/god-of-war-laufey-ps5-editions-revealed-pre-order-tomorrow",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 20.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/god-of-war-laufey-ps5-editions-revealed-pre-order-tomorrow",
-          "titre": "God of War Laufey PS5 Editions Revealed, Pre-Order Tomorrow"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sony-details-god-of-war-laufeys-digital-deluxe-edition-contents-and-pre-order-bonus/",
-          "titre": "Sony details God of War Laufey’s Digital Deluxe Edition contents and pre-order bonus"
-        }
-      ]
-    },
-    {
-      "id": "steam-s-tidying-game-trend-is-about-to-get-the-haunted-meat",
-      "titre": "Steam's tidying game trend is about to get the haunted meat it's been missing",
-      "url": "https://www.pcgamer.com/games/sim/steams-tidying-game-trend-is-about-to-get-the-haunted-meat-its-been-missing/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.9,
+      "heures": 12.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/steams-tidying-game-trend-is-about-to-get-the-haunted-meat-its-been-missing/",
-          "titre": "Steam's tidying game trend is about to get the haunted meat it's been missing"
+          "url": "https://www.pcgamer.com/games/racing/double-fines-first-game-since-being-dumped-by-xbox-will-be-out-in-just-2-weeks/",
+          "titre": "Double Fine's first game since being dumped by Xbox will be out in just 2 weeks"
         }
       ]
     },
@@ -527,7 +653,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.3,
       "chaleur": 5,
       "liens": [
         {
@@ -545,7 +671,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.8,
       "chaleur": 5,
       "liens": [
         {
@@ -563,7 +689,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 20.1,
+      "heures": 22.1,
       "chaleur": 5,
       "liens": [
         {
@@ -581,31 +707,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/runescape-dragonwilds",
           "titre": "Review: RuneScape: Dragonwilds (Switch 2) - A Slow-Burn Survival-Crafting RPG That Underwhelms Visually"
-        }
-      ]
-    },
-    {
-      "id": "playstation-controllers-may-have-built-in-credit-card-scanne",
-      "titre": "PlayStation Controllers May Have Built-In Credit Card Scanners One Day",
-      "url": "https://www.pushsquare.com/news/2026/09/playstation-controllers-may-have-built-in-credit-card-scanners-one-day",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 20.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/playstation-controllers-may-have-built-in-credit-card-scanners-one-day",
-          "titre": "PlayStation Controllers May Have Built-In Credit Card Scanners One Day"
         }
       ]
     },
@@ -617,7 +725,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.3,
       "chaleur": 5,
       "liens": [
         {
@@ -628,38 +736,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "naughty-dog-will-fully-reveal-intergalactic-in-2027",
-      "titre": "Naughty Dog will fully reveal Intergalactic in 2027",
-      "url": "https://www.videogameschronicle.com/news/naughty-dog-will-fully-reveal-intergalactic-in-2027/",
+      "id": "let-the-heroic-games-begin-fire-emblem-fortune-s-weave-brin",
+      "titre": "\"Let The Heroic Games Begin\" - Fire Emblem: Fortune's Weave Brings The Battle To Tetris 99",
+      "url": "https://www.nintendolife.com/news/2026/09/let-the-heroic-games-begin-fire-emblem-fortunes-weave-brings-the-battle-to-tetris-99",
       "sources": [
-        "VGC"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/naughty-dog-will-fully-reveal-intergalactic-in-2027/",
-          "titre": "Naughty Dog will fully reveal Intergalactic in 2027"
-        }
-      ]
-    },
-    {
-      "id": "no-intergalactic-ps5-updates-until-2027-new-artwork-for-now",
-      "titre": "No Intergalactic PS5 Updates Until 2027, New Artwork for Now",
-      "url": "https://www.pushsquare.com/news/2026/09/no-intergalactic-ps5-updates-until-2027-new-artwork-for-now",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 7.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/no-intergalactic-ps5-updates-until-2027-new-artwork-for-now",
-          "titre": "No Intergalactic PS5 Updates Until 2027, New Artwork for Now"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/let-the-heroic-games-begin-fire-emblem-fortunes-weave-brings-the-battle-to-tetris-99",
+          "titre": "\"Let The Heroic Games Begin\" - Fire Emblem: Fortune's Weave Brings The Battle To Tetris 99"
         }
       ]
     },
@@ -671,7 +761,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -689,7 +779,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -707,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -725,7 +815,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -743,7 +833,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -761,7 +851,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -779,8 +869,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -797,8 +887,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -815,8 +905,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -833,8 +923,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -851,8 +941,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -869,7 +959,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -887,7 +977,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.1,
       "chaleur": 3,
       "liens": [
         {
@@ -905,49 +995,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/its-a-nice-story-to-tell-how-dice-bounced-back-from-battlefield-2042s-disastrous-launch-to-release-the-blockbuster-battlefield-6",
           "titre": "\"It's a nice story to tell\": How DICE bounced back from Battlefield 2042's disastrous launch to release the blockbuster Battlefield 6"
-        }
-      ]
-    },
-    {
-      "id": "the-writer-of-the-witcher-3-s-best-quest-has-returned-to-cd",
-      "titre": "The writer of The Witcher 3's best quest has returned to CD Projekt after a decade away",
-      "url": "https://www.pcgamer.com/games/the-witcher/the-writer-of-the-witcher-3s-best-quest-has-returned-to-cd-projekt-after-a-decade-away/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/the-writer-of-the-witcher-3s-best-quest-has-returned-to-cd-projekt-after-a-decade-away/",
-          "titre": "The writer of The Witcher 3's best quest has returned to CD Projekt after a decade away"
-        }
-      ]
-    },
-    {
-      "id": "embark-should-ve-implemented-a-pve-mode-into-arc-raiders-a-l",
-      "titre": "Embark should've implemented a PvE mode into Arc Raiders a long time ago",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/embark-shouldve-implemented-a-pve-mode-into-arc-raiders-a-long-time-ago/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/embark-shouldve-implemented-a-pve-mode-into-arc-raiders-a-long-time-ago/",
-          "titre": "Embark should've implemented a PvE mode into Arc Raiders a long time ago"
         }
       ]
     },
@@ -959,7 +1013,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +1031,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -995,7 +1049,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1006,20 +1060,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "a-love-letter-to-the-guitar-hero-x-plorer-controller",
-      "titre": "A love letter to the Guitar Hero X-Plorer Controller",
-      "url": "https://www.pcgamer.com/hardware/controllers/a-love-letter-to-the-guitar-hero-x-plorer-controller/",
+      "id": "cd-projekt-release-full-updated-witcher-3-wild-hunt-remaster",
+      "titre": "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements",
+      "url": "https://www.rockpapershotgun.com/cd-projekt-release-full-updated-witcher-3-wild-hunt-remastered-system-specs-including-ray-tracing-and-path-tracing-requirements",
       "sources": [
-        "PC Gamer"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 18.2,
       "chaleur": 3,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/controllers/a-love-letter-to-the-guitar-hero-x-plorer-controller/",
-          "titre": "A love letter to the Guitar Hero X-Plorer Controller"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/cd-projekt-release-full-updated-witcher-3-wild-hunt-remastered-system-specs-including-ray-tracing-and-path-tracing-requirements",
+          "titre": "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements"
         }
       ]
     },
@@ -1031,31 +1085,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/season-3-of-the-last-of-us-tv-show-will-add-john-goodman-laura-bailey-and-ian-alexander-to-the-cast/",
           "titre": "Season 3 of The Last of Us TV show will add John Goodman, Laura Bailey and Ian Alexander to the cast"
-        }
-      ]
-    },
-    {
-      "id": "october-prime-day-gaming-keyboard-deals",
-      "titre": "October Prime Day gaming keyboard deals",
-      "url": "https://www.pcgamer.com/hardware/gaming-keyboards/best-prime-day-gaming-keyboard-deals/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 16.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-keyboards/best-prime-day-gaming-keyboard-deals/",
-          "titre": "October Prime Day gaming keyboard deals"
         }
       ]
     },
@@ -1067,31 +1103,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.9,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/wolverine-breaks-ps5s-live-service-stranglehold-in-the-us",
           "titre": "Wolverine Breaks PS5's Live Service Stranglehold in the US"
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-remastered-is-an-extraordinarily-generous-upgr",
-      "titre": "The Witcher 3 Remastered is an extraordinarily generous upgrade that doesn't change the game, but does make it new again",
-      "url": "https://www.eurogamer.net/witcher-3-wild-hunt-remastered-generous-upgrade-makes-it-new-again",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 17.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-wild-hunt-remastered-generous-upgrade-makes-it-new-again",
-          "titre": "The Witcher 3 Remastered is an extraordinarily generous upgrade that doesn't change the game, but does make it new again"
         }
       ]
     },
@@ -1103,7 +1121,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.2,
+      "heures": 19.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1114,5 +1132,7 @@ const VEILLE = {
       ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "The Witcher 3 Remastered Available to Download Now"
+  ]
 };
