@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "29/09/2026 à 04h21",
+  "collecte": "29/09/2026 à 06h26",
   "seuil": 14,
   "sujets": [
     {
@@ -12,7 +12,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.4,
+      "heures": 3.5,
       "chaleur": 11,
       "liens": [
         {
@@ -28,62 +28,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "fire-emblem-fortune-s-weave-is-the-next-tetris-99-event",
-      "titre": "Fire Emblem: Fortune's Weave Is The Next Tetris 99 Event",
-      "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-is-the-next-tetris-99-event",
+      "id": "tales-of-eternia-is-getting-a-proper-physical-release-on-swi",
+      "titre": "Tales Of Eternia Is Getting A Proper Physical Release On Switch",
+      "url": "https://www.nintendolife.com/news/2026/09/tales-of-eternia-is-getting-a-proper-physical-release-on-switch",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/tales-of-eternia-is-getting-a-proper-physical-release-on-switch",
+          "titre": "Tales Of Eternia Is Getting A Proper Physical Release On Switch"
+        }
+      ]
+    },
+    {
+      "id": "let-the-heroic-games-begin-fire-emblem-fortune-s-weave-brin",
+      "titre": "\"Let The Heroic Games Begin\" - Fire Emblem: Fortune's Weave Brings The Battle To Tetris 99",
+      "url": "https://www.nintendolife.com/news/2026/09/let-the-heroic-games-begin-fire-emblem-fortunes-weave-brings-the-battle-to-tetris-99",
       "sources": [
         "Nintendo Life",
         "VGC"
       ],
       "reprises": 2,
-      "heures": 2.4,
-      "chaleur": 9,
+      "heures": 4.5,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-is-the-next-tetris-99-event",
-          "titre": "Fire Emblem: Fortune's Weave Is The Next Tetris 99 Event"
+          "url": "https://www.nintendolife.com/news/2026/09/let-the-heroic-games-begin-fire-emblem-fortunes-weave-brings-the-battle-to-tetris-99",
+          "titre": "\"Let The Heroic Games Begin\" - Fire Emblem: Fortune's Weave Brings The Battle To Tetris 99"
         },
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-torment-grass-location/",
           "titre": "Fire Emblem Fortune’s Weave: Torment Grass location"
-        }
-      ]
-    },
-    {
-      "id": "what-if-london-existed-in-the-grand-theft-auto-universe-one",
-      "titre": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city",
-      "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
-          "titre": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city"
-        }
-      ]
-    },
-    {
-      "id": "i-have-broken-gta-5-by-installing-so-many-mods-that-the-game",
-      "titre": "I have broken GTA 5 by installing so many mods that the game only launches in windowed mode now",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-broken-gta-5-by-installing-so-many-mods-that-the-game-only-launches-in-windowed-mode-now/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-broken-gta-5-by-installing-so-many-mods-that-the-game-only-launches-in-windowed-mode-now/",
-          "titre": "I have broken GTA 5 by installing so many mods that the game only launches in windowed mode now"
         }
       ]
     },
@@ -95,7 +77,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 15.0,
       "chaleur": 7,
       "liens": [
         {
@@ -340,78 +322,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "naughty-dog-will-fully-reveal-intergalactic-in-2027",
-      "titre": "Naughty Dog will fully reveal Intergalactic in 2027",
-      "url": "https://www.videogameschronicle.com/news/naughty-dog-will-fully-reveal-intergalactic-in-2027/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/naughty-dog-will-fully-reveal-intergalactic-in-2027/",
-          "titre": "Naughty Dog will fully reveal Intergalactic in 2027"
-        }
-      ]
-    },
-    {
-      "id": "no-intergalactic-ps5-updates-until-2027-new-artwork-for-now",
-      "titre": "No Intergalactic PS5 Updates Until 2027, New Artwork for Now",
-      "url": "https://www.pushsquare.com/news/2026/09/no-intergalactic-ps5-updates-until-2027-new-artwork-for-now",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/no-intergalactic-ps5-updates-until-2027-new-artwork-for-now",
-          "titre": "No Intergalactic PS5 Updates Until 2027, New Artwork for Now"
-        }
-      ]
-    },
-    {
-      "id": "this-mod-delivers-what-valheim-was-missing-all-these-years-s",
-      "titre": "This mod delivers what Valheim was missing all these years: seasons",
-      "url": "https://www.pcgamer.com/games/survival-crafting/this-mod-delivers-what-valheim-was-missing-all-these-years-seasons/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/this-mod-delivers-what-valheim-was-missing-all-these-years-seasons/",
-          "titre": "This mod delivers what Valheim was missing all these years: seasons"
-        }
-      ]
-    },
-    {
-      "id": "new-the-last-of-us-projects-in-very-early-stages-of-developm",
-      "titre": "New The Last of Us Projects in 'Very Early Stages' of Development",
-      "url": "https://www.pushsquare.com/news/2026/09/new-the-last-of-us-projects-in-very-early-stages-of-development",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/new-the-last-of-us-projects-in-very-early-stages-of-development",
-          "titre": "New The Last of Us Projects in 'Very Early Stages' of Development"
-        }
-      ]
-    },
-    {
       "id": "double-fine-s-first-game-since-being-dumped-by-xbox-will-be",
       "titre": "Double Fine's first game since being dumped by Xbox will be out in just 2 weeks",
       "url": "https://www.pcgamer.com/games/racing/double-fines-first-game-since-being-dumped-by-xbox-will-be-out-in-just-2-weeks/",
@@ -419,7 +329,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 6,
       "liens": [
         {
@@ -437,7 +347,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 10.9,
       "chaleur": 6,
       "liens": [
         {
@@ -455,7 +365,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
@@ -466,20 +376,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-switch-2-console-is-currently-cheaper-than-ever-in-the-u",
-      "titre": "The Switch 2 Console Is Currently Cheaper Than Ever In The UK",
-      "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-console-is-currently-cheaper-than-ever-in-the-uk",
+      "id": "what-if-london-existed-in-the-grand-theft-auto-universe-one",
+      "titre": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city",
+      "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.8,
+      "heures": 12.6,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-console-is-currently-cheaper-than-ever-in-the-uk",
-          "titre": "The Switch 2 Console Is Currently Cheaper Than Ever In The UK"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
+          "titre": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city"
+        }
+      ]
+    },
+    {
+      "id": "i-have-broken-gta-5-by-installing-so-many-mods-that-the-game",
+      "titre": "I have broken GTA 5 by installing so many mods that the game only launches in windowed mode now",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-broken-gta-5-by-installing-so-many-mods-that-the-game-only-launches-in-windowed-mode-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 12.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-broken-gta-5-by-installing-so-many-mods-that-the-game-only-launches-in-windowed-mode-now/",
+          "titre": "I have broken GTA 5 by installing so many mods that the game only launches in windowed mode now"
         }
       ]
     },
@@ -492,7 +420,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 12.2,
+      "heures": 14.3,
       "chaleur": 6,
       "liens": [
         {
@@ -516,7 +444,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 16.1,
+      "heures": 18.2,
       "chaleur": 6,
       "liens": [
         {
@@ -532,6 +460,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "the-switch-2-console-is-currently-cheaper-than-ever-in-the-u",
+      "titre": "The Switch 2 Console Is Currently Cheaper Than Ever In The UK",
+      "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-console-is-currently-cheaper-than-ever-in-the-uk",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-console-is-currently-cheaper-than-ever-in-the-uk",
+          "titre": "The Switch 2 Console Is Currently Cheaper Than Ever In The UK"
+        }
+      ]
+    },
+    {
       "id": "microsoft-ceo-says-xbox-is-simply-streamlining-after-cutting",
       "titre": "Microsoft CEO says Xbox is simply 'streamlining' after cutting over 5,750 jobs in three years",
       "url": "https://www.gamedeveloper.com/production/microsoft-ceo-says-xbox-is-streamlining-after-laying-off-5-750-workers-in-three-years",
@@ -539,7 +485,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.2,
       "chaleur": 5,
       "liens": [
         {
@@ -557,7 +503,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 5,
       "liens": [
         {
@@ -575,7 +521,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.9,
       "chaleur": 5,
       "liens": [
         {
@@ -593,13 +539,85 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model",
           "titre": "Microsoft boss Nadella says Xbox has to invent \"sustainable business model\""
+        }
+      ]
+    },
+    {
+      "id": "naughty-dog-will-fully-reveal-intergalactic-in-2027",
+      "titre": "Naughty Dog will fully reveal Intergalactic in 2027",
+      "url": "https://www.videogameschronicle.com/news/naughty-dog-will-fully-reveal-intergalactic-in-2027/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/naughty-dog-will-fully-reveal-intergalactic-in-2027/",
+          "titre": "Naughty Dog will fully reveal Intergalactic in 2027"
+        }
+      ]
+    },
+    {
+      "id": "no-intergalactic-ps5-updates-until-2027-new-artwork-for-now",
+      "titre": "No Intergalactic PS5 Updates Until 2027, New Artwork for Now",
+      "url": "https://www.pushsquare.com/news/2026/09/no-intergalactic-ps5-updates-until-2027-new-artwork-for-now",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/no-intergalactic-ps5-updates-until-2027-new-artwork-for-now",
+          "titre": "No Intergalactic PS5 Updates Until 2027, New Artwork for Now"
+        }
+      ]
+    },
+    {
+      "id": "this-mod-delivers-what-valheim-was-missing-all-these-years-s",
+      "titre": "This mod delivers what Valheim was missing all these years: seasons",
+      "url": "https://www.pcgamer.com/games/survival-crafting/this-mod-delivers-what-valheim-was-missing-all-these-years-seasons/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/this-mod-delivers-what-valheim-was-missing-all-these-years-seasons/",
+          "titre": "This mod delivers what Valheim was missing all these years: seasons"
+        }
+      ]
+    },
+    {
+      "id": "new-the-last-of-us-projects-in-very-early-stages-of-developm",
+      "titre": "New The Last of Us Projects in 'Very Early Stages' of Development",
+      "url": "https://www.pushsquare.com/news/2026/09/new-the-last-of-us-projects-in-very-early-stages-of-development",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/new-the-last-of-us-projects-in-very-early-stages-of-development",
+          "titre": "New The Last of Us Projects in 'Very Early Stages' of Development"
         }
       ]
     },
@@ -611,7 +629,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -629,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -647,7 +665,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -665,7 +683,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -683,7 +701,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -701,7 +719,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -719,7 +737,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.2,
       "chaleur": 4,
       "liens": [
         {
@@ -737,7 +755,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -755,7 +773,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -773,7 +791,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -791,7 +809,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -809,7 +827,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -827,8 +845,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -845,8 +863,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -863,8 +881,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -881,8 +899,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -899,8 +917,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -917,8 +935,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -935,8 +953,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -953,8 +971,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
-      "chaleur": 4,
+      "heures": 14.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -971,7 +989,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -989,7 +1007,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +1025,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,7 +1043,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 15.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,7 +1061,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,7 +1079,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1079,31 +1097,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.7,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/sony-quits-ces-in-2027-as-it-continues-transition-to-entertainment",
           "titre": "Sony Quits CES in 2027 as It Continues Transition to Entertainment"
-        }
-      ]
-    },
-    {
-      "id": "path-of-exile-designer-says-he-desperately-wants-diablo-5-to",
-      "titre": "Path of Exile designer says he ‘desperately’ wants Diablo 5 to be good for the sake of the genre",
-      "url": "https://www.videogameschronicle.com/news/path-of-exile-designer-says-he-desperately-wants-diablo-5-to-be-good-for-the-sake-of-the-genre/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 13.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/path-of-exile-designer-says-he-desperately-wants-diablo-5-to-be-good-for-the-sake-of-the-genre/",
-          "titre": "Path of Exile designer says he ‘desperately’ wants Diablo 5 to be good for the sake of the genre"
         }
       ]
     }
