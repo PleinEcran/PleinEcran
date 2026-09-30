@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "30/09/2026 à 04h23",
+  "collecte": "30/09/2026 à 06h27",
   "seuil": 14,
   "sujets": [
     {
@@ -13,7 +13,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 6.9,
+      "heures": 9.0,
       "chaleur": 12,
       "liens": [
         {
@@ -43,8 +43,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 12.0,
-      "chaleur": 12,
+      "heures": 14.0,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Eurogamer",
@@ -73,7 +73,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 4.9,
+      "heures": 7.0,
       "chaleur": 10,
       "liens": [
         {
@@ -102,7 +102,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 16.3,
+      "heures": 18.4,
       "chaleur": 9,
       "liens": [
         {
@@ -126,7 +126,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 13.9,
+      "heures": 16.0,
       "chaleur": 8,
       "liens": [
         {
@@ -138,60 +138,6 @@ const VEILLE = {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/34-video-game-lego-sets-are-retiring-at-the-end-of-the-year-including-animal-crossing-horizon-and-sonic-sets/",
           "titre": "34 video game Lego sets are retiring at the end of the year, including Animal Crossing, Horizon and Sonic sets"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-reveals-massive-dense-open-world-in-13-new-screenshots",
-      "titre": "GTA 6 Reveals Massive, Dense Open World in 13 New Screenshots, Details",
-      "url": "https://www.pushsquare.com/news/2026/09/gta-6-reveals-massive-dense-open-world-in-13-new-screenshots-details",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/gta-6-reveals-massive-dense-open-world-in-13-new-screenshots-details",
-          "titre": "GTA 6 Reveals Massive, Dense Open World in 13 New Screenshots, Details"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-map-officially-twice-as-large-as-gta-5-features-hurric",
-      "titre": "GTA 6 map officially twice as large as GTA 5, features hurricanes and tropical storms",
-      "url": "https://www.videogameschronicle.com/news/gta-6-map-is-officially-twice-as-large-as-gta-5-features-hurricanes-and-tropical-storms/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/gta-6-map-is-officially-twice-as-large-as-gta-5-features-hurricanes-and-tropical-storms/",
-          "titre": "GTA 6 map officially twice as large as GTA 5, features hurricanes and tropical storms"
-        }
-      ]
-    },
-    {
-      "id": "my-gta-5-install-has-a-death-wish-but-i-have-soothed-it-with",
-      "titre": "My GTA 5 install has a death wish but I have soothed it with flossing",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/my-gta-5-install-has-a-death-wish-but-i-have-soothed-it-with-flossing/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/my-gta-5-install-has-a-death-wish-but-i-have-soothed-it-with-flossing/",
-          "titre": "My GTA 5 install has a death wish but I have soothed it with flossing"
         }
       ]
     },
@@ -383,49 +329,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/pokemon-home-firered-and-leafgreen-compatibility-update-arrives-next-week",
           "titre": "Pokémon HOME FireRed & LeafGreen Compatibility Update Arrives Next Week"
-        }
-      ]
-    },
-    {
-      "id": "star-fox-version-1-2-0-is-now-live-here-are-the-full-patch-n",
-      "titre": "Star Fox Version 1.2.0 Is Now Live, Here Are The Full Patch Notes",
-      "url": "https://www.nintendolife.com/news/2026/09/star-fox-version-1-2-0-is-now-live-here-are-the-full-patch-notes",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/star-fox-version-1-2-0-is-now-live-here-are-the-full-patch-notes",
-          "titre": "Star Fox Version 1.2.0 Is Now Live, Here Are The Full Patch Notes"
-        }
-      ]
-    },
-    {
-      "id": "limited-run-announces-lord-of-the-rings-war-in-the-north-phy",
-      "titre": "Limited Run Announces Lord Of The Rings: War In The North Physical Release, Here's A Look",
-      "url": "https://www.nintendolife.com/news/2026/09/limited-run-announces-lord-of-the-rings-war-in-the-north-physical-release-heres-a-look",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/limited-run-announces-lord-of-the-rings-war-in-the-north-physical-release-heres-a-look",
-          "titre": "Limited Run Announces Lord Of The Rings: War In The North Physical Release, Here's A Look"
         }
       ]
     },
@@ -437,7 +347,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.5,
       "chaleur": 6,
       "liens": [
         {
@@ -455,7 +365,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.4,
       "chaleur": 6,
       "liens": [
         {
@@ -473,7 +383,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 6,
       "liens": [
         {
@@ -484,20 +394,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "review-mobapad-c2-lite-controller-the-best-budget-pad-for-sw",
-      "titre": "Review: Mobapad C2 Lite Controller - The Best Budget Pad For Switch 2? Probably",
-      "url": "https://www.nintendolife.com/reviews/mobapad-c2-lite-controller-the-best-budget-pad-for-switch-2-probably",
+      "id": "gta-6-reveals-massive-dense-open-world-in-13-new-screenshots",
+      "titre": "GTA 6 Reveals Massive, Dense Open World in 13 New Screenshots, Details",
+      "url": "https://www.pushsquare.com/news/2026/09/gta-6-reveals-massive-dense-open-world-in-13-new-screenshots-details",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.4,
+      "heures": 12.2,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/mobapad-c2-lite-controller-the-best-budget-pad-for-switch-2-probably",
-          "titre": "Review: Mobapad C2 Lite Controller - The Best Budget Pad For Switch 2? Probably"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/gta-6-reveals-massive-dense-open-world-in-13-new-screenshots-details",
+          "titre": "GTA 6 Reveals Massive, Dense Open World in 13 New Screenshots, Details"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-map-officially-twice-as-large-as-gta-5-features-hurric",
+      "titre": "GTA 6 map officially twice as large as GTA 5, features hurricanes and tropical storms",
+      "url": "https://www.videogameschronicle.com/news/gta-6-map-is-officially-twice-as-large-as-gta-5-features-hurricanes-and-tropical-storms/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 13.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/gta-6-map-is-officially-twice-as-large-as-gta-5-features-hurricanes-and-tropical-storms/",
+          "titre": "GTA 6 map officially twice as large as GTA 5, features hurricanes and tropical storms"
+        }
+      ]
+    },
+    {
+      "id": "my-gta-5-install-has-a-death-wish-but-i-have-soothed-it-with",
+      "titre": "My GTA 5 install has a death wish but I have soothed it with flossing",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/my-gta-5-install-has-a-death-wish-but-i-have-soothed-it-with-flossing/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 13.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/my-gta-5-install-has-a-death-wish-but-i-have-soothed-it-with-flossing/",
+          "titre": "My GTA 5 install has a death wish but I have soothed it with flossing"
         }
       ]
     },
@@ -510,7 +456,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 12.9,
+      "heures": 15.0,
       "chaleur": 6,
       "liens": [
         {
@@ -534,7 +480,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 13.4,
+      "heures": 15.5,
       "chaleur": 6,
       "liens": [
         {
@@ -557,7 +503,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 18.0,
       "chaleur": 6,
       "liens": [
         {
@@ -568,20 +514,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "what-if-london-existed-in-the-grand-theft-auto-universe-one",
-      "titre": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city",
-      "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
+      "id": "review-mobapad-c2-lite-controller-the-best-budget-pad-for-sw",
+      "titre": "Review: Mobapad C2 Lite Controller - The Best Budget Pad For Switch 2? Probably",
+      "url": "https://www.nintendolife.com/reviews/mobapad-c2-lite-controller-the-best-budget-pad-for-switch-2-probably",
       "sources": [
-        "Eurogamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 34.5,
-      "chaleur": 6,
+      "heures": 13.5,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
-          "titre": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/mobapad-c2-lite-controller-the-best-budget-pad-for-switch-2-probably",
+          "titre": "Review: Mobapad C2 Lite Controller - The Best Budget Pad For Switch 2? Probably"
         }
       ]
     },
@@ -593,7 +539,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 16.0,
       "chaleur": 5,
       "liens": [
         {
@@ -611,7 +557,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.5,
       "chaleur": 5,
       "liens": [
         {
@@ -629,7 +575,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 17.8,
       "chaleur": 5,
       "liens": [
         {
@@ -647,7 +593,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.5,
+      "heures": 26.5,
       "chaleur": 5,
       "liens": [
         {
@@ -665,7 +611,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 27.5,
       "chaleur": 5,
       "liens": [
         {
@@ -683,13 +629,49 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/double-fine-thank-you-bus-driver-xbox-release-date",
           "titre": "Double Fine's releasing its next game, Thank You Bus Driver, just months after splitting from Xbox"
+        }
+      ]
+    },
+    {
+      "id": "star-fox-version-1-2-0-is-now-live-here-are-the-full-patch-n",
+      "titre": "Star Fox Version 1.2.0 Is Now Live, Here Are The Full Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/09/star-fox-version-1-2-0-is-now-live-here-are-the-full-patch-notes",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/star-fox-version-1-2-0-is-now-live-here-are-the-full-patch-notes",
+          "titre": "Star Fox Version 1.2.0 Is Now Live, Here Are The Full Patch Notes"
+        }
+      ]
+    },
+    {
+      "id": "limited-run-announces-lord-of-the-rings-war-in-the-north-phy",
+      "titre": "Limited Run Announces Lord Of The Rings: War In The North Physical Release, Here's A Look",
+      "url": "https://www.nintendolife.com/news/2026/09/limited-run-announces-lord-of-the-rings-war-in-the-north-physical-release-heres-a-look",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/limited-run-announces-lord-of-the-rings-war-in-the-north-physical-release-heres-a-look",
+          "titre": "Limited Run Announces Lord Of The Rings: War In The North Physical Release, Here's A Look"
         }
       ]
     },
@@ -701,7 +683,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.7,
       "chaleur": 4,
       "liens": [
         {
@@ -719,7 +701,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -737,7 +719,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -755,7 +737,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -773,7 +755,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -791,7 +773,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -809,7 +791,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -827,7 +809,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +827,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -863,7 +845,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +863,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +881,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 12.0,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +899,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 12.0,
       "chaleur": 4,
       "liens": [
         {
@@ -935,8 +917,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -953,8 +935,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -971,8 +953,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -989,8 +971,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1007,8 +989,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1025,8 +1007,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1043,7 +1025,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,7 +1043,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1079,7 +1061,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1097,7 +1079,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1115,7 +1097,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 15.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1133,13 +1115,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/i-perished-in-the-flesh-pipes-of-darktides-depths-of-the-damned-update-and-you-will-too",
           "titre": "I perished in the flesh pipes of Darktide's Depths of the Damned update, and you will too"
+        }
+      ]
+    },
+    {
+      "id": "these-3-classic-toy-story-games-have-all-been-delisted-on-ps",
+      "titre": "These 3 Classic Toy Story Games Have All Been Delisted on PS5, Removed from PS Plus",
+      "url": "https://www.pushsquare.com/news/2026/09/these-3-classic-toy-story-games-have-all-been-delisted-on-ps5-removed-from-ps-plus",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 15.7,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/these-3-classic-toy-story-games-have-all-been-delisted-on-ps5-removed-from-ps-plus",
+          "titre": "These 3 Classic Toy Story Games Have All Been Delisted on PS5, Removed from PS Plus"
         }
       ]
     }
