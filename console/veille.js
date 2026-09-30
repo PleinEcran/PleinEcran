@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "30/09/2026 à 18h24",
+  "collecte": "30/09/2026 à 20h22",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 5,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 18,
       "liens": [
         {
@@ -46,6 +46,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "xbox-is-not-for-sale-ceo-asha-sharma-says-we-will-do-whatev",
+      "titre": "\"Xbox is not for sale\": CEO Asha Sharma says \"we will do whatever it takes\" to turn the console maker's fortunes around",
+      "url": "https://www.eurogamer.net/xbox-not-for-sale-ceo-asha-sharma-console",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 1.8,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-not-for-sale-ceo-asha-sharma-console",
+          "titre": "\"Xbox is not for sale\": CEO Asha Sharma says \"we will do whatever it takes\" to turn the console maker's fortunes around"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/xbox-ceo-asha-sharma-insists-xbox-is-not-for-sale",
+          "titre": "Xbox CEO Asha Sharma insists \"Xbox is not for sale\""
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-ceo-asha-sharma-insists-microsofts-gaming-business-is-not-for-sale/",
+          "titre": "Xbox CEO Asha Sharma insists Microsoft’s gaming business is ‘not for sale’"
+        }
+      ]
+    },
+    {
       "id": "crimson-desert-s-first-expansion-charting-the-unknown-delaye",
       "titre": "Crimson Desert's first expansion, Charting the Unknown, delayed so Pearl Abyss get more time to polish and stabilise the red pudding",
       "url": "https://www.rockpapershotgun.com/crimson-deserts-first-expansion-charting-the-unknown-delayed-so-pearl-abyss-get-more-time-to-polish-and-stabilise-the-red-pudding",
@@ -55,8 +85,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 3.9,
-      "chaleur": 14,
+      "heures": 5.9,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -76,30 +106,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-ceo-asha-sharma-insists-xbox-is-not-for-sale",
-      "titre": "Xbox CEO Asha Sharma insists \"Xbox is not for sale\"",
-      "url": "https://www.gamesindustry.biz/xbox-ceo-asha-sharma-insists-xbox-is-not-for-sale",
-      "sources": [
-        "GamesIndustry.biz",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 0.7,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/xbox-ceo-asha-sharma-insists-xbox-is-not-for-sale",
-          "titre": "Xbox CEO Asha Sharma insists \"Xbox is not for sale\""
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-ceo-asha-sharma-insists-microsofts-gaming-business-is-not-for-sale/",
-          "titre": "Xbox CEO Asha Sharma insists Microsoft’s gaming business is ‘not for sale’"
-        }
-      ]
-    },
-    {
       "id": "the-witcher-3-hits-its-highest-ever-steam-concurrent-player",
       "titre": "The Witcher 3 hits its highest-ever Steam concurrent player count following Remastered launch",
       "url": "https://www.gamesindustry.biz/the-witcher-3-hits-its-highest-ever-steam-concurrent-player-count-following-remastered-launch",
@@ -108,7 +114,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 11,
       "liens": [
         {
@@ -131,13 +137,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.6,
       "chaleur": 11,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/analyst-argues-gears-of-war-e-day-shouldnt-have-been-cancelled-on-ps5-after-soft-steam-pre-orders",
           "titre": "Analyst Argues Gears of War: E-Day Shouldn't Have Been Cancelled on PS5 After 'Soft' Steam Pre-Orders"
+        }
+      ]
+    },
+    {
+      "id": "alleged-hacker-arrested-over-leak-that-exposed-gta-online-s",
+      "titre": "Alleged hacker arrested over leak that exposed GTA Online's daily revenue",
+      "url": "https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue",
+          "titre": "Alleged hacker arrested over leak that exposed GTA Online's daily revenue"
         }
       ]
     },
@@ -149,7 +173,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 9,
       "liens": [
         {
@@ -167,55 +191,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-saved-gta-5-from-death-and-also-added-tornadoes/",
           "titre": "I have saved GTA 5 from death and also added tornadoes"
-        }
-      ]
-    },
-    {
-      "id": "thanks-logitech-your-new-ai-fueled-game-clipping-software-ma",
-      "titre": "Thanks Logitech, your new AI-fueled game clipping software makes me look trash at Counter-Strike, but I'mma keep it installed",
-      "url": "https://www.pcgamer.com/software/ai/thanks-logitech-your-new-ai-fueled-game-clipping-software-makes-me-look-trash-at-counter-strike-but-imma-keep-it-installed/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/thanks-logitech-your-new-ai-fueled-game-clipping-software-makes-me-look-trash-at-counter-strike-but-imma-keep-it-installed/",
-          "titre": "Thanks Logitech, your new AI-fueled game clipping software makes me look trash at Counter-Strike, but I'mma keep it installed"
-        }
-      ]
-    },
-    {
-      "id": "arc-raiders-executive-producer-explains-how-he-wasn-t-comple",
-      "titre": "Arc Raiders' executive producer explains how he 'wasn't completely prepared for how hard' a live service game would be and warns against the dangers of burnout",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-executive-producer-explains-how-he-wasnt-completely-prepared-for-how-hard-a-live-service-game-would-be-and-warns-against-the-dangers-of-burnout/",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 4.0,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-executive-producer-explains-how-he-wasnt-completely-prepared-for-how-hard-a-live-service-game-would-be-and-warns-against-the-dangers-of-burnout/",
-          "titre": "Arc Raiders' executive producer explains how he 'wasn't completely prepared for how hard' a live service game would be and warns against the dangers of burnout"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ultimately-we-asked-why-are-we-doing-this-the-creators-of-arc-raiders-wildly-underestimated-how-hard-it-is-to-make-a-live-service-game",
-          "titre": "\"Ultimately, we asked 'why are we doing this?'\": the creators of Arc Raiders wildly underestimated how hard it is to make a live service game"
         }
       ]
     },
@@ -228,7 +210,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.7,
+      "heures": 6.6,
       "chaleur": 9,
       "liens": [
         {
@@ -252,7 +234,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 9.0,
+      "heures": 11.0,
       "chaleur": 9,
       "liens": [
         {
@@ -268,56 +250,62 @@ const VEILLE = {
       ]
     },
     {
-      "id": "october-s-free-playstation-plus-games-include-f1-25",
-      "titre": "October’s ‘free’ PlayStation Plus games include F1 25",
-      "url": "https://www.videogameschronicle.com/news/octobers-free-playstation-plus-games-include-f1-25/",
+      "id": "ps-plus-members-can-claim-free-psn-avatars-for-sony-s-record",
+      "titre": "PS Plus Members Can Claim Free PSN Avatars for Sony's Record-Breaking Spider-Man: Brand New Day",
+      "url": "https://www.pushsquare.com/news/2026/09/ps-plus-members-can-claim-free-psn-avatars-for-sonys-record-breaking-spider-man-brand-new-day",
       "sources": [
-        "VGC"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.5,
+      "heures": 1.9,
       "chaleur": 8,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/octobers-free-playstation-plus-games-include-f1-25/",
-          "titre": "October’s ‘free’ PlayStation Plus games include F1 25"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/ps-plus-members-can-claim-free-psn-avatars-for-sonys-record-breaking-spider-man-brand-new-day",
+          "titre": "PS Plus Members Can Claim Free PSN Avatars for Sony's Record-Breaking Spider-Man: Brand New Day"
         }
       ]
     },
     {
-      "id": "pok-mon-legends-z-a-is-getting-a-new-switch-2-physical-relea",
-      "titre": "Pokémon Legends: Z-A Is Getting A New Switch 2 Physical Release Next Month",
-      "url": "https://www.nintendolife.com/news/2026/09/pokemon-legends-z-a-is-getting-a-new-switch-2-physical-release-next-month",
+      "id": "thanks-logitech-your-new-ai-fueled-game-clipping-software-ma",
+      "titre": "Thanks Logitech, your new AI-fueled game clipping software makes me look trash at Counter-Strike, but I'mma keep it installed",
+      "url": "https://www.pcgamer.com/software/ai/thanks-logitech-your-new-ai-fueled-game-clipping-software-makes-me-look-trash-at-counter-strike-but-imma-keep-it-installed/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 8,
+      "heures": 4.4,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/pokemon-legends-z-a-is-getting-a-new-switch-2-physical-release-next-month",
-          "titre": "Pokémon Legends: Z-A Is Getting A New Switch 2 Physical Release Next Month"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/thanks-logitech-your-new-ai-fueled-game-clipping-software-makes-me-look-trash-at-counter-strike-but-imma-keep-it-installed/",
+          "titre": "Thanks Logitech, your new AI-fueled game clipping software makes me look trash at Counter-Strike, but I'mma keep it installed"
         }
       ]
     },
     {
-      "id": "it-s-not-even-out-yet-but-valve-s-deadlock-just-became-one-o",
-      "titre": "It's not even out yet, but Valve's Deadlock just became one of the most played games on Steam",
-      "url": "https://www.eurogamer.net/deadlock-update-steam-most-played-games",
+      "id": "arc-raiders-executive-producer-explains-how-he-wasn-t-comple",
+      "titre": "Arc Raiders' executive producer explains how he 'wasn't completely prepared for how hard' a live service game would be and warns against the dangers of burnout",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-executive-producer-explains-how-he-wasnt-completely-prepared-for-how-hard-a-live-service-game-would-be-and-warns-against-the-dangers-of-burnout/",
       "sources": [
-        "Eurogamer"
+        "PC Gamer",
+        "Rock Paper Shotgun"
       ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 8,
+      "reprises": 2,
+      "heures": 6.0,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/deadlock-update-steam-most-played-games",
-          "titre": "It's not even out yet, but Valve's Deadlock just became one of the most played games on Steam"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-executive-producer-explains-how-he-wasnt-completely-prepared-for-how-hard-a-live-service-game-would-be-and-warns-against-the-dangers-of-burnout/",
+          "titre": "Arc Raiders' executive producer explains how he 'wasn't completely prepared for how hard' a live service game would be and warns against the dangers of burnout"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/ultimately-we-asked-why-are-we-doing-this-the-creators-of-arc-raiders-wildly-underestimated-how-hard-it-is-to-make-a-live-service-game",
+          "titre": "\"Ultimately, we asked 'why are we doing this?'\": the creators of Arc Raiders wildly underestimated how hard it is to make a live service game"
         }
       ]
     },
@@ -329,7 +317,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 6.9,
       "chaleur": 7,
       "liens": [
         {
@@ -348,7 +336,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.0,
+      "heures": 7.0,
       "chaleur": 7,
       "liens": [
         {
@@ -372,7 +360,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 2,
-      "heures": 5.0,
+      "heures": 7.0,
       "chaleur": 7,
       "liens": [
         {
@@ -395,7 +383,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.3,
       "chaleur": 7,
       "liens": [
         {
@@ -413,31 +401,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.9,
       "chaleur": 7,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/gta-6-will-simulate-hurricanes-rainbows-and-persistent-dynamic-clouds-among-other-efforts-to-make-you-stop-doing-crime-and-become-a-weather-nerd",
           "titre": "GTA 6 will simulate hurricanes, rainbows and persistent, dynamic clouds, among other efforts to make you stop doing crime and become a weather nerd"
-        }
-      ]
-    },
-    {
-      "id": "call-of-duty-modern-warfare-4-is-getting-a-counter-strike-in",
-      "titre": "Call of Duty: Modern Warfare 4 is getting a Counter-Strike-inspired game mode that I can't believe it never had before",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-counter-strike-collateral",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-counter-strike-collateral",
-          "titre": "Call of Duty: Modern Warfare 4 is getting a Counter-Strike-inspired game mode that I can't believe it never had before"
         }
       ]
     },
@@ -604,6 +574,78 @@ const VEILLE = {
       ]
     },
     {
+      "id": "agony-two-life-sims-i-really-want-to-play-launched-back-to-b",
+      "titre": "Agony! Two life sims I really want to play launched back to back",
+      "url": "https://www.pcgamer.com/games/life-sim/agony-two-life-sims-i-really-want-to-play-launched-back-to-back/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/life-sim/agony-two-life-sims-i-really-want-to-play-launched-back-to-back/",
+          "titre": "Agony! Two life sims I really want to play launched back to back"
+        }
+      ]
+    },
+    {
+      "id": "former-halo-lead-suggests-three-ways-activision-could-revive",
+      "titre": "Former Halo lead suggests three ways Activision could revive the legendary series, and urges the company to hire laid off Bungie staff",
+      "url": "https://www.eurogamer.net/halo-lead-activision-revive-hire-bungie-developers",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/halo-lead-activision-revive-hire-bungie-developers",
+          "titre": "Former Halo lead suggests three ways Activision could revive the legendary series, and urges the company to hire laid off Bungie staff"
+        }
+      ]
+    },
+    {
+      "id": "ubisoft-renames-creative-house-2-home-of-the-division-ghost",
+      "titre": "Ubisoft renames Creative House 2, home of The Division, Ghost Recon and Splinter Cell, as Massive Entertainment",
+      "url": "https://www.gamesindustry.biz/ubisoft-renames-creative-house-2-home-of-the-division-ghost-recon-and-splinter-cell-as-massive-entertainment",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/ubisoft-renames-creative-house-2-home-of-the-division-ghost-recon-and-splinter-cell-as-massive-entertainment",
+          "titre": "Ubisoft renames Creative House 2, home of The Division, Ghost Recon and Splinter Cell, as Massive Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "the-americans-have-officially-renamed-artificial-intelligenc",
+      "titre": "The Americans have officially renamed artificial intelligence to 'Super Intelligence,' which should fix everything",
+      "url": "https://www.pcgamer.com/software/ai/the-americans-have-officially-renamed-artificial-intelligence-to-super-intelligence-which-should-fix-everything/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/the-americans-have-officially-renamed-artificial-intelligence-to-super-intelligence-which-should-fix-everything/",
+          "titre": "The Americans have officially renamed artificial intelligence to 'Super Intelligence,' which should fix everything"
+        }
+      ]
+    },
+    {
       "id": "ubisoft-montreal-employees-launch-collective-action-to-prese",
       "titre": "Ubisoft Montreal employees launch collective action to preserve hybrid work schedule",
       "url": "https://www.gamedeveloper.com/production/ubisoft-montreal-employees-launch-collective-action-to-preserve-hybrid-work-schedule",
@@ -611,7 +653,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -629,7 +671,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -647,7 +689,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -658,128 +700,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "first-person-rpg-queen-s-domain-pitches-you-against-an-islan",
-      "titre": "First-person RPG Queen's Domain pitches you against an island of gorgeous freaks with naught but a flying sword and infinite throwing daggers",
-      "url": "https://www.rockpapershotgun.com/first-person-rpg-queens-domain-pitches-you-against-an-island-of-gorgeous-freaks-with-naught-but-a-flying-sword-and-infinite-throwing-daggers",
+      "id": "october-s-free-playstation-plus-games-include-f1-25",
+      "titre": "October’s ‘free’ PlayStation Plus games include F1 25",
+      "url": "https://www.videogameschronicle.com/news/octobers-free-playstation-plus-games-include-f1-25/",
       "sources": [
-        "Rock Paper Shotgun"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 2.3,
+      "heures": 4.5,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/first-person-rpg-queens-domain-pitches-you-against-an-island-of-gorgeous-freaks-with-naught-but-a-flying-sword-and-infinite-throwing-daggers",
-          "titre": "First-person RPG Queen's Domain pitches you against an island of gorgeous freaks with naught but a flying sword and infinite throwing daggers"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/octobers-free-playstation-plus-games-include-f1-25/",
+          "titre": "October’s ‘free’ PlayStation Plus games include F1 25"
         }
       ]
     },
     {
-      "id": "ps-plus-essential-games-for-october-2026-announced",
-      "titre": "PS Plus Essential Games for October 2026 Announced",
-      "url": "https://www.pushsquare.com/news/2026/09/ps-plus-essential-games-for-october-2026-announced",
+      "id": "pok-mon-legends-z-a-is-getting-a-new-switch-2-physical-relea",
+      "titre": "Pokémon Legends: Z-A Is Getting A New Switch 2 Physical Release Next Month",
+      "url": "https://www.nintendolife.com/news/2026/09/pokemon-legends-z-a-is-getting-a-new-switch-2-physical-release-next-month",
       "sources": [
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.8,
+      "heures": 4.6,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/ps-plus-essential-games-for-october-2026-announced",
-          "titre": "PS Plus Essential Games for October 2026 Announced"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/pokemon-legends-z-a-is-getting-a-new-switch-2-physical-release-next-month",
+          "titre": "Pokémon Legends: Z-A Is Getting A New Switch 2 Physical Release Next Month"
         }
       ]
     },
     {
-      "id": "the-witcher-3-remastered-ps5-pro-performance-seems-to-vary-m",
-      "titre": "The Witcher 3 Remastered PS5 Pro Performance Seems to Vary Massively Between Players, and No One Knows Why",
-      "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pro-performance-seems-to-vary-massively-between-players-and-no-one-knows-why",
+      "id": "it-s-not-even-out-yet-but-valve-s-deadlock-just-became-one-o",
+      "titre": "It's not even out yet, but Valve's Deadlock just became one of the most played games on Steam",
+      "url": "https://www.eurogamer.net/deadlock-update-steam-most-played-games",
       "sources": [
-        "Push Square"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.9,
+      "heures": 5.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pro-performance-seems-to-vary-massively-between-players-and-no-one-knows-why",
-          "titre": "The Witcher 3 Remastered PS5 Pro Performance Seems to Vary Massively Between Players, and No One Knows Why"
-        }
-      ]
-    },
-    {
-      "id": "asus-tuf-gaming-a16-gaming-laptop-review",
-      "titre": "Asus TUF Gaming A16 gaming laptop review",
-      "url": "https://www.pcgamer.com/hardware/gaming-laptops/asus-tuf-gaming-a16-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-laptops/asus-tuf-gaming-a16-review/",
-          "titre": "Asus TUF Gaming A16 gaming laptop review"
-        }
-      ]
-    },
-    {
-      "id": "the-importance-of-being-earnest-how-marvel-t-kon-s-deadpool",
-      "titre": "The importance of being earnest: How Marvel Tōkon's Deadpool trades ridicule for fighting game reverence",
-      "url": "https://www.rockpapershotgun.com/the-importance-of-being-earnest-how-marvel-tokons-deadpool-trades-ridicule-for-fighting-game-reverence",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-importance-of-being-earnest-how-marvel-tokons-deadpool-trades-ridicule-for-fighting-game-reverence",
-          "titre": "The importance of being earnest: How Marvel Tōkon's Deadpool trades ridicule for fighting game reverence"
-        }
-      ]
-    },
-    {
-      "id": "live-i-m-hunting-for-the-least-probable-goku-on-nexus-mods-a",
-      "titre": "LIVE: I'm hunting for the least probable Goku on Nexus Mods and no god or government can stop me",
-      "url": "https://www.pcgamer.com/games/live/news/least-probably-goku-nexus-mods/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/live/news/least-probably-goku-nexus-mods/",
-          "titre": "LIVE: I'm hunting for the least probable Goku on Nexus Mods and no god or government can stop me"
-        }
-      ]
-    },
-    {
-      "id": "people-are-very-happy-using-ps5-former-sony-exec-shuhei-yos",
-      "titre": "'People Are Very Happy Using PS5': Former Sony Exec Shuhei Yoshida Thinks PS6 Can Wait",
-      "url": "https://www.pushsquare.com/news/2026/09/people-are-very-happy-using-ps5-former-sony-exec-shuhei-yoshida-thinks-ps6-can-wait",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/people-are-very-happy-using-ps5-former-sony-exec-shuhei-yoshida-thinks-ps6-can-wait",
-          "titre": "'People Are Very Happy Using PS5': Former Sony Exec Shuhei Yoshida Thinks PS6 Can Wait"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/deadlock-update-steam-most-played-games",
+          "titre": "It's not even out yet, but Valve's Deadlock just became one of the most played games on Steam"
         }
       ]
     },
@@ -791,7 +761,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.7,
       "chaleur": 6,
       "liens": [
         {
@@ -809,7 +779,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.5,
       "chaleur": 6,
       "liens": [
         {
@@ -827,7 +797,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 8.6,
       "chaleur": 6,
       "liens": [
         {
@@ -845,7 +815,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 6,
       "liens": [
         {
@@ -863,7 +833,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 6,
       "liens": [
         {
@@ -881,7 +851,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.5,
       "chaleur": 6,
       "liens": [
         {
@@ -899,7 +869,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.5,
       "chaleur": 6,
       "liens": [
         {
@@ -910,26 +880,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "industry-snoop-says-naughty-dog-s-shaun-escayg-is-not-workin",
-      "titre": "Industry Snoop Says Naughty Dog's Shaun Escayg Is Not Working on The Last of Us",
-      "url": "https://www.pushsquare.com/news/2026/09/industry-snoop-says-naughty-dogs-shaun-escayg-is-not-working-on-the-last-of-us",
+      "id": "call-of-duty-modern-warfare-4-is-getting-a-counter-strike-in",
+      "titre": "Call of Duty: Modern Warfare 4 is getting a Counter-Strike-inspired game mode that I can't believe it never had before",
+      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-counter-strike-collateral",
       "sources": [
-        "Game Developer",
-        "Push Square"
+        "Eurogamer"
       ],
-      "reprises": 2,
-      "heures": 18.9,
+      "reprises": 1,
+      "heures": 12.1,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/industry-snoop-says-naughty-dogs-shaun-escayg-is-not-working-on-the-last-of-us",
-          "titre": "Industry Snoop Says Naughty Dog's Shaun Escayg Is Not Working on The Last of Us"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-last-of-us-projects-",
-          "titre": "Naughty Dog is working on new The Last Of Us 'projects'"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-counter-strike-collateral",
+          "titre": "Call of Duty: Modern Warfare 4 is getting a Counter-Strike-inspired game mode that I can't believe it never had before"
         }
       ]
     },
@@ -941,7 +905,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 29.9,
+      "heures": 31.9,
       "chaleur": 6,
       "liens": [
         {
@@ -959,7 +923,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 20.9,
+      "heures": 22.9,
       "chaleur": 5,
       "liens": [
         {
@@ -977,7 +941,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.4,
       "chaleur": 5,
       "liens": [
         {
@@ -995,13 +959,139 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.9,
+      "heures": 29.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
           "titre": "More Nintendo LEGO Sets Are Being Retired This Year"
+        }
+      ]
+    },
+    {
+      "id": "first-person-rpg-queen-s-domain-pitches-you-against-an-islan",
+      "titre": "First-person RPG Queen's Domain pitches you against an island of gorgeous freaks with naught but a flying sword and infinite throwing daggers",
+      "url": "https://www.rockpapershotgun.com/first-person-rpg-queens-domain-pitches-you-against-an-island-of-gorgeous-freaks-with-naught-but-a-flying-sword-and-infinite-throwing-daggers",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/first-person-rpg-queens-domain-pitches-you-against-an-island-of-gorgeous-freaks-with-naught-but-a-flying-sword-and-infinite-throwing-daggers",
+          "titre": "First-person RPG Queen's Domain pitches you against an island of gorgeous freaks with naught but a flying sword and infinite throwing daggers"
+        }
+      ]
+    },
+    {
+      "id": "ps-plus-essential-games-for-october-2026-announced",
+      "titre": "PS Plus Essential Games for October 2026 Announced",
+      "url": "https://www.pushsquare.com/news/2026/09/ps-plus-essential-games-for-october-2026-announced",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/ps-plus-essential-games-for-october-2026-announced",
+          "titre": "PS Plus Essential Games for October 2026 Announced"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-remastered-ps5-pro-performance-seems-to-vary-m",
+      "titre": "The Witcher 3 Remastered PS5 Pro Performance Seems to Vary Massively Between Players, and No One Knows Why",
+      "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pro-performance-seems-to-vary-massively-between-players-and-no-one-knows-why",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pro-performance-seems-to-vary-massively-between-players-and-no-one-knows-why",
+          "titre": "The Witcher 3 Remastered PS5 Pro Performance Seems to Vary Massively Between Players, and No One Knows Why"
+        }
+      ]
+    },
+    {
+      "id": "asus-tuf-gaming-a16-gaming-laptop-review",
+      "titre": "Asus TUF Gaming A16 gaming laptop review",
+      "url": "https://www.pcgamer.com/hardware/gaming-laptops/asus-tuf-gaming-a16-review/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-laptops/asus-tuf-gaming-a16-review/",
+          "titre": "Asus TUF Gaming A16 gaming laptop review"
+        }
+      ]
+    },
+    {
+      "id": "the-importance-of-being-earnest-how-marvel-t-kon-s-deadpool",
+      "titre": "The importance of being earnest: How Marvel Tōkon's Deadpool trades ridicule for fighting game reverence",
+      "url": "https://www.rockpapershotgun.com/the-importance-of-being-earnest-how-marvel-tokons-deadpool-trades-ridicule-for-fighting-game-reverence",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-importance-of-being-earnest-how-marvel-tokons-deadpool-trades-ridicule-for-fighting-game-reverence",
+          "titre": "The importance of being earnest: How Marvel Tōkon's Deadpool trades ridicule for fighting game reverence"
+        }
+      ]
+    },
+    {
+      "id": "live-i-m-hunting-for-the-least-probable-goku-on-nexus-mods-a",
+      "titre": "LIVE: I'm hunting for the least probable Goku on Nexus Mods and no god or government can stop me",
+      "url": "https://www.pcgamer.com/games/live/news/least-probably-goku-nexus-mods/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/live/news/least-probably-goku-nexus-mods/",
+          "titre": "LIVE: I'm hunting for the least probable Goku on Nexus Mods and no god or government can stop me"
+        }
+      ]
+    },
+    {
+      "id": "people-are-very-happy-using-ps5-former-sony-exec-shuhei-yos",
+      "titre": "'People Are Very Happy Using PS5': Former Sony Exec Shuhei Yoshida Thinks PS6 Can Wait",
+      "url": "https://www.pushsquare.com/news/2026/09/people-are-very-happy-using-ps5-former-sony-exec-shuhei-yoshida-thinks-ps6-can-wait",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/people-are-very-happy-using-ps5-former-sony-exec-shuhei-yoshida-thinks-ps6-can-wait",
+          "titre": "'People Are Very Happy Using PS5': Former Sony Exec Shuhei Yoshida Thinks PS6 Can Wait"
         }
       ]
     },
@@ -1013,7 +1103,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,7 +1121,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1049,7 +1139,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1067,7 +1157,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1076,99 +1166,9 @@ const VEILLE = {
           "titre": "Warlock: Dungeons & Dragons developers hope to set aside the Baldur's Gate 3 comparisons and build their own kind of open world"
         }
       ]
-    },
-    {
-      "id": "come-play-the-flute-and-reshape-the-very-earth-in-songs-of-g",
-      "titre": "Come play the flute and reshape the very earth in Songs of Glimmerwick, a magic school RPG from the creators of Eastshade",
-      "url": "https://www.rockpapershotgun.com/come-play-the-flute-and-reshape-the-very-earth-in-songs-of-glimmerwick-a-magic-school-rpg-from-the-creators-of-eastshade",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 4.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/come-play-the-flute-and-reshape-the-very-earth-in-songs-of-glimmerwick-a-magic-school-rpg-from-the-creators-of-eastshade",
-          "titre": "Come play the flute and reshape the very earth in Songs of Glimmerwick, a magic school RPG from the creators of Eastshade"
-        }
-      ]
-    },
-    {
-      "id": "review-end-of-abyss-ps5-this-delectably-dark-metroidvania-fo",
-      "titre": "Review: End of Abyss (PS5) - This Delectably Dark Metroidvania Forces You to Look Closer",
-      "url": "https://www.pushsquare.com/reviews/ps5/end-of-abyss",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 4.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/end-of-abyss",
-          "titre": "Review: End of Abyss (PS5) - This Delectably Dark Metroidvania Forces You to Look Closer"
-        }
-      ]
-    },
-    {
-      "id": "how-to-run-an-indie-game-studio-part-1-what-is-a-studio",
-      "titre": "How to run an indie game studio: Part 1, What is a studio?",
-      "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-1-what-is-a-studio",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 4.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-1-what-is-a-studio",
-          "titre": "How to run an indie game studio: Part 1, What is a studio?"
-        }
-      ]
-    },
-    {
-      "id": "holy-hell-deadlock-s-new-map-looks-absolutely-beautiful",
-      "titre": "Holy hell—Deadlock's new map looks absolutely beautiful",
-      "url": "https://www.pcgamer.com/games/moba/holy-hell-deadlocks-new-map-looks-absolutely-beautiful/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/moba/holy-hell-deadlocks-new-map-looks-absolutely-beautiful/",
-          "titre": "Holy hell—Deadlock's new map looks absolutely beautiful"
-        }
-      ]
-    },
-    {
-      "id": "the-pentagon-says-hold-my-beer-falls-victim-to-massive-data",
-      "titre": "The Pentagon says 'hold my beer,' falls victim to massive data breach affecting roughly 3,000,000 people",
-      "url": "https://www.pcgamer.com/software/security/the-pentagon-says-hold-my-beer-falls-victim-to-massive-data-breach-affecting-roughly-3-000-000-people/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/security/the-pentagon-says-hold-my-beer-falls-victim-to-massive-data-breach-affecting-roughly-3-000-000-people/",
-          "titre": "The Pentagon says 'hold my beer,' falls victim to massive data breach affecting roughly 3,000,000 people"
-        }
-      ]
     }
   ],
   "alertes": [
-    "Grasshopper Manufacture Parts Ways With NetEase And Goes Independent"
+    "\"Xbox is not for sale\": CEO Asha Sharma says \"we will do whatever it takes\" to turn the console maker's fortunes around"
   ]
 };
