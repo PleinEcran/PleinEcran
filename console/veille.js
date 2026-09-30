@@ -1,38 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "30/09/2026 à 02h20",
+  "collecte": "30/09/2026 à 04h23",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "industry-snoop-says-naughty-dog-s-shaun-escayg-is-not-workin",
-      "titre": "Industry Snoop Says Naughty Dog's Shaun Escayg Is Not Working on The Last of Us",
-      "url": "https://www.pushsquare.com/news/2026/09/industry-snoop-says-naughty-dogs-shaun-escayg-is-not-working-on-the-last-of-us",
-      "sources": [
-        "Eurogamer",
-        "Game Developer",
-        "Push Square"
-      ],
-      "reprises": 3,
-      "heures": 2.8,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/industry-snoop-says-naughty-dogs-shaun-escayg-is-not-working-on-the-last-of-us",
-          "titre": "Industry Snoop Says Naughty Dog's Shaun Escayg Is Not Working on The Last of Us"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-last-of-us-projects-",
-          "titre": "Naughty Dog is working on new The Last Of Us 'projects'"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/naughty-dog-confirms-two-more-the-last-of-us-projects-are-in-the-works-wont-show-off-intergalactic-the-heretic-prophet-until-2027",
-          "titre": "Naughty Dog confirms two more The Last of Us projects are in the works, won't show off Intergalactic: The Heretic Prophet until 2027"
-        }
-      ]
-    },
     {
       "id": "steam-s-discounts-and-events-tab-will-soon-be-fully-algorith",
       "titre": "Steam's discounts and events tab will soon be fully algorithm-driven",
@@ -43,7 +13,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 4.8,
+      "heures": 6.9,
       "chaleur": 12,
       "liens": [
         {
@@ -73,7 +43,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 9.9,
+      "heures": 12.0,
       "chaleur": 12,
       "liens": [
         {
@@ -94,26 +64,32 @@ const VEILLE = {
       ]
     },
     {
-      "id": "more-nintendo-lego-sets-are-being-retired-this-year",
-      "titre": "More Nintendo LEGO Sets Are Being Retired This Year",
-      "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
+      "id": "industry-snoop-says-naughty-dog-s-shaun-escayg-is-not-workin",
+      "titre": "Industry Snoop Says Naughty Dog's Shaun Escayg Is Not Working on The Last of Us",
+      "url": "https://www.pushsquare.com/news/2026/09/industry-snoop-says-naughty-dogs-shaun-escayg-is-not-working-on-the-last-of-us",
       "sources": [
-        "Nintendo Life",
-        "VGC"
+        "Eurogamer",
+        "Game Developer",
+        "Push Square"
       ],
-      "reprises": 2,
-      "heures": 11.8,
-      "chaleur": 9,
+      "reprises": 3,
+      "heures": 4.9,
+      "chaleur": 10,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
-          "titre": "More Nintendo LEGO Sets Are Being Retired This Year"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/industry-snoop-says-naughty-dogs-shaun-escayg-is-not-working-on-the-last-of-us",
+          "titre": "Industry Snoop Says Naughty Dog's Shaun Escayg Is Not Working on The Last of Us"
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/34-video-game-lego-sets-are-retiring-at-the-end-of-the-year-including-animal-crossing-horizon-and-sonic-sets/",
-          "titre": "34 video game Lego sets are retiring at the end of the year, including Animal Crossing, Horizon and Sonic sets"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-last-of-us-projects-",
+          "titre": "Naughty Dog is working on new The Last Of Us 'projects'"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/naughty-dog-confirms-two-more-the-last-of-us-projects-are-in-the-works-wont-show-off-intergalactic-the-heretic-prophet-until-2027",
+          "titre": "Naughty Dog confirms two more The Last of Us projects are in the works, won't show off Intergalactic: The Heretic Prophet until 2027"
         }
       ]
     },
@@ -126,7 +102,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 14.3,
+      "heures": 16.3,
       "chaleur": 9,
       "liens": [
         {
@@ -142,20 +118,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-begins-testing-its-platinum-trophy-alternative-18-years",
-      "titre": "Xbox Begins Testing Its Platinum Trophy Alternative, 18 Years After Sony Introduced System",
-      "url": "https://www.pushsquare.com/news/2026/09/xbox-begins-testing-its-platinum-trophy-alternative-18-years-after-sony-introduced-system",
+      "id": "more-nintendo-lego-sets-are-being-retired-this-year",
+      "titre": "More Nintendo LEGO Sets Are Being Retired This Year",
+      "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
       "sources": [
-        "Push Square"
+        "Nintendo Life",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 3.3,
+      "reprises": 2,
+      "heures": 13.9,
       "chaleur": 8,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/xbox-begins-testing-its-platinum-trophy-alternative-18-years-after-sony-introduced-system",
-          "titre": "Xbox Begins Testing Its Platinum Trophy Alternative, 18 Years After Sony Introduced System"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
+          "titre": "More Nintendo LEGO Sets Are Being Retired This Year"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/34-video-game-lego-sets-are-retiring-at-the-end-of-the-year-including-animal-crossing-horizon-and-sonic-sets/",
+          "titre": "34 video game Lego sets are retiring at the end of the year, including Animal Crossing, Horizon and Sonic sets"
         }
       ]
     },
@@ -167,7 +149,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.1,
       "chaleur": 7,
       "liens": [
         {
@@ -185,7 +167,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.1,
       "chaleur": 7,
       "liens": [
         {
@@ -203,79 +185,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/my-gta-5-install-has-a-death-wish-but-i-have-soothed-it-with-flossing/",
           "titre": "My GTA 5 install has a death wish but I have soothed it with flossing"
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-songs-of-the-past-sounds-like-it-s-mirroring-b",
-      "titre": "The Witcher 3 Songs of the Past sounds like it's mirroring Blood and Wine in being \"a lot dreamier\" than a \"bread-and-butter Witcher story\"",
-      "url": "https://www.rockpapershotgun.com/the-witcher-3-songs-of-the-past-sounds-like-its-mirroring-blood-and-wine-in-being-a-lot-dreamier-than-a-bread-and-butter-witcher-story",
-      "sources": [
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 10.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-witcher-3-songs-of-the-past-sounds-like-its-mirroring-blood-and-wine-in-being-a-lot-dreamier-than-a-bread-and-butter-witcher-story",
-          "titre": "The Witcher 3 Songs of the Past sounds like it's mirroring Blood and Wine in being \"a lot dreamier\" than a \"bread-and-butter Witcher story\""
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/interviews/the-witcher-3-developers-talk-remastering-a-classic-and-creating-songs-of-the-past/",
-          "titre": "The Witcher 3: Developers talk remastering a classic and creating Songs of the Past"
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-remastered-ps5-pays-homage-to-the-worst-dlc-in",
-      "titre": "The Witcher 3 Remastered PS5 Pays Homage to the Worst DLC in History",
-      "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pays-homage-to-the-worst-dlc-in-history",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 11.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pays-homage-to-the-worst-dlc-in-history",
-          "titre": "The Witcher 3 Remastered PS5 Pays Homage to the Worst DLC in History"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/the-witcher-3-wild-hunt-remastered-is-out-now-heres-how-to-start-playing/",
-          "titre": "The Witcher 3 Wild Hunt Remastered is out now, here’s how to start playing"
-        }
-      ]
-    },
-    {
-      "id": "report-sony-surveying-developers-about-dropping-playstation",
-      "titre": "Report: Sony surveying developers about dropping PlayStation disc support",
-      "url": "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 34.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support",
-          "titre": "Report: Sony surveying developers about dropping PlayStation disc support"
         }
       ]
     },
@@ -460,6 +376,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "pok-mon-home-firered-leafgreen-compatibility-update-arrives",
+      "titre": "Pokémon HOME FireRed & LeafGreen Compatibility Update Arrives Next Week",
+      "url": "https://www.nintendolife.com/news/2026/09/pokemon-home-firered-and-leafgreen-compatibility-update-arrives-next-week",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/pokemon-home-firered-and-leafgreen-compatibility-update-arrives-next-week",
+          "titre": "Pokémon HOME FireRed & LeafGreen Compatibility Update Arrives Next Week"
+        }
+      ]
+    },
+    {
       "id": "star-fox-version-1-2-0-is-now-live-here-are-the-full-patch-n",
       "titre": "Star Fox Version 1.2.0 Is Now Live, Here Are The Full Patch Notes",
       "url": "https://www.nintendolife.com/news/2026/09/star-fox-version-1-2-0-is-now-live-here-are-the-full-patch-notes",
@@ -467,7 +401,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -485,7 +419,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -496,56 +430,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "making-our-favorite-fps-modes-1v1-to-decide-the-greatest-of",
-      "titre": "Making our favorite FPS modes 1v1 to decide the greatest of them all",
-      "url": "https://www.pcgamer.com/games/fps/making-our-favorite-fps-modes-1v1-to-decide-the-greatest-of-them-all/",
+      "id": "xbox-begins-testing-its-platinum-trophy-alternative-18-years",
+      "titre": "Xbox Begins Testing Its Platinum Trophy Alternative, 18 Years After Sony Introduced System",
+      "url": "https://www.pushsquare.com/news/2026/09/xbox-begins-testing-its-platinum-trophy-alternative-18-years-after-sony-introduced-system",
       "sources": [
-        "PC Gamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.6,
+      "heures": 5.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/making-our-favorite-fps-modes-1v1-to-decide-the-greatest-of-them-all/",
-          "titre": "Making our favorite FPS modes 1v1 to decide the greatest of them all"
-        }
-      ]
-    },
-    {
-      "id": "one-of-my-all-time-favorite-games-just-announced-an-expansio",
-      "titre": "One of my all-time favorite games just announced an expansion, yet all I feel is fear",
-      "url": "https://www.pcgamer.com/games/survival-crafting/one-of-my-all-time-favorite-games-just-announced-an-expansion-yet-all-i-feel-is-fear/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/one-of-my-all-time-favorite-games-just-announced-an-expansion-yet-all-i-feel-is-fear/",
-          "titre": "One of my all-time favorite games just announced an expansion, yet all I feel is fear"
-        }
-      ]
-    },
-    {
-      "id": "garry-newman-adds-necks-to-his-neckless-characters-because-t",
-      "titre": "Garry Newman adds necks to his neckless characters because the lack of necks 'comes up consistently in our many many many negative reviews'",
-      "url": "https://www.pcgamer.com/software/garry-newman-adds-necks-to-his-neckless-characters-because-the-lack-of-necks-comes-up-consistently-in-our-many-many-many-negative-reviews/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/garry-newman-adds-necks-to-his-neckless-characters-because-the-lack-of-necks-comes-up-consistently-in-our-many-many-many-negative-reviews/",
-          "titre": "Garry Newman adds necks to his neckless characters because the lack of necks 'comes up consistently in our many many many negative reviews'"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/xbox-begins-testing-its-platinum-trophy-alternative-18-years-after-sony-introduced-system",
+          "titre": "Xbox Begins Testing Its Platinum Trophy Alternative, 18 Years After Sony Introduced System"
         }
       ]
     },
@@ -557,7 +455,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.3,
       "chaleur": 6,
       "liens": [
         {
@@ -575,7 +473,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.3,
       "chaleur": 6,
       "liens": [
         {
@@ -593,7 +491,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
@@ -604,44 +502,50 @@ const VEILLE = {
       ]
     },
     {
-      "id": "persona-sales-report-confirms-north-america-as-series-bigges",
-      "titre": "Persona Sales Report Confirms North America as Series' Biggest Market",
-      "url": "https://www.pushsquare.com/news/2026/09/persona-sales-report-confirms-north-america-as-series-biggest-market",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/persona-sales-report-confirms-north-america-as-series-biggest-market",
-          "titre": "Persona Sales Report Confirms North America as Series' Biggest Market"
-        }
-      ]
-    },
-    {
-      "id": "witcher-3-remastered-best-console-graphics-mode-performance",
-      "titre": "Witcher 3 Remastered best console graphics mode: Performance vs Ray Tracing",
-      "url": "https://www.videogameschronicle.com/guide/the-witcher-3-remastered-best-console-graphics-mode-performance-vs-ray-tracing/",
+      "id": "the-witcher-3-songs-of-the-past-sounds-like-it-s-mirroring-b",
+      "titre": "The Witcher 3 Songs of the Past sounds like it's mirroring Blood and Wine in being \"a lot dreamier\" than a \"bread-and-butter Witcher story\"",
+      "url": "https://www.rockpapershotgun.com/the-witcher-3-songs-of-the-past-sounds-like-its-mirroring-blood-and-wine-in-being-a-lot-dreamier-than-a-bread-and-butter-witcher-story",
       "sources": [
         "Rock Paper Shotgun",
         "VGC"
       ],
       "reprises": 2,
-      "heures": 12.3,
+      "heures": 12.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/the-witcher-3-remastered-best-console-graphics-mode-performance-vs-ray-tracing/",
-          "titre": "Witcher 3 Remastered best console graphics mode: Performance vs Ray Tracing"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-witcher-3-songs-of-the-past-sounds-like-its-mirroring-blood-and-wine-in-being-a-lot-dreamier-than-a-bread-and-butter-witcher-story",
+          "titre": "The Witcher 3 Songs of the Past sounds like it's mirroring Blood and Wine in being \"a lot dreamier\" than a \"bread-and-butter Witcher story\""
         },
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cd-projekt-release-full-updated-witcher-3-wild-hunt-remastered-system-specs-including-ray-tracing-and-path-tracing-requirements",
-          "titre": "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/features/interviews/the-witcher-3-developers-talk-remastering-a-classic-and-creating-songs-of-the-past/",
+          "titre": "The Witcher 3: Developers talk remastering a classic and creating Songs of the Past"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-remastered-ps5-pays-homage-to-the-worst-dlc-in",
+      "titre": "The Witcher 3 Remastered PS5 Pays Homage to the Worst DLC in History",
+      "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pays-homage-to-the-worst-dlc-in-history",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 13.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pays-homage-to-the-worst-dlc-in-history",
+          "titre": "The Witcher 3 Remastered PS5 Pays Homage to the Worst DLC in History"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/the-witcher-3-wild-hunt-remastered-is-out-now-heres-how-to-start-playing/",
+          "titre": "The Witcher 3 Wild Hunt Remastered is out now, here’s how to start playing"
         }
       ]
     },
@@ -653,7 +557,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 15.9,
       "chaleur": 6,
       "liens": [
         {
@@ -671,13 +575,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 32.5,
+      "heures": 34.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
           "titre": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city"
+        }
+      ]
+    },
+    {
+      "id": "persona-sales-report-confirms-north-america-as-series-bigges",
+      "titre": "Persona Sales Report Confirms North America as Series' Biggest Market",
+      "url": "https://www.pushsquare.com/news/2026/09/persona-sales-report-confirms-north-america-as-series-biggest-market",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 13.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/persona-sales-report-confirms-north-america-as-series-biggest-market",
+          "titre": "Persona Sales Report Confirms North America as Series' Biggest Market"
         }
       ]
     },
@@ -689,7 +611,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -707,7 +629,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 15.7,
       "chaleur": 5,
       "liens": [
         {
@@ -725,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.5,
       "chaleur": 5,
       "liens": [
         {
@@ -743,7 +665,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.5,
       "chaleur": 5,
       "liens": [
         {
@@ -761,7 +683,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 33.3,
       "chaleur": 5,
       "liens": [
         {
@@ -772,20 +694,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-switch-2-console-is-currently-cheaper-than-ever-in-the-u",
-      "titre": "The Switch 2 Console Is Currently Cheaper Than Ever In The UK",
-      "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-console-is-currently-cheaper-than-ever-in-the-uk",
+      "id": "making-our-favorite-fps-modes-1v1-to-decide-the-greatest-of",
+      "titre": "Making our favorite FPS modes 1v1 to decide the greatest of them all",
+      "url": "https://www.pcgamer.com/games/fps/making-our-favorite-fps-modes-1v1-to-decide-the-greatest-of-them-all/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 33.8,
-      "chaleur": 5,
+      "heures": 4.6,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-console-is-currently-cheaper-than-ever-in-the-uk",
-          "titre": "The Switch 2 Console Is Currently Cheaper Than Ever In The UK"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/making-our-favorite-fps-modes-1v1-to-decide-the-greatest-of-them-all/",
+          "titre": "Making our favorite FPS modes 1v1 to decide the greatest of them all"
+        }
+      ]
+    },
+    {
+      "id": "one-of-my-all-time-favorite-games-just-announced-an-expansio",
+      "titre": "One of my all-time favorite games just announced an expansion, yet all I feel is fear",
+      "url": "https://www.pcgamer.com/games/survival-crafting/one-of-my-all-time-favorite-games-just-announced-an-expansion-yet-all-i-feel-is-fear/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/one-of-my-all-time-favorite-games-just-announced-an-expansion-yet-all-i-feel-is-fear/",
+          "titre": "One of my all-time favorite games just announced an expansion, yet all I feel is fear"
+        }
+      ]
+    },
+    {
+      "id": "garry-newman-adds-necks-to-his-neckless-characters-because-t",
+      "titre": "Garry Newman adds necks to his neckless characters because the lack of necks 'comes up consistently in our many many many negative reviews'",
+      "url": "https://www.pcgamer.com/software/garry-newman-adds-necks-to-his-neckless-characters-because-the-lack-of-necks-comes-up-consistently-in-our-many-many-many-negative-reviews/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/garry-newman-adds-necks-to-his-neckless-characters-because-the-lack-of-necks-comes-up-consistently-in-our-many-many-many-negative-reviews/",
+          "titre": "Garry Newman adds necks to his neckless characters because the lack of necks 'comes up consistently in our many many many negative reviews'"
         }
       ]
     },
@@ -797,7 +755,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +773,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -833,7 +791,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -851,7 +809,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -869,7 +827,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +845,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +863,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +881,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +899,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +917,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +935,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,7 +971,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,7 +989,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1049,7 +1007,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1067,7 +1025,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1085,8 +1043,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1103,8 +1061,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1121,8 +1079,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1139,13 +1097,49 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
           "titre": "Control Resonant director lays out case for avoiding excessive 'yellow paint'"
+        }
+      ]
+    },
+    {
+      "id": "you-can-now-watch-one-of-this-year-s-best-orchestral-game-mu",
+      "titre": "You can now watch one of this year's best orchestral game-music performances, celebrating Hades 1 and 2, online for free",
+      "url": "https://www.eurogamer.net/watch-hades-orchestral-performance-recording",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 12.9,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/watch-hades-orchestral-performance-recording",
+          "titre": "You can now watch one of this year's best orchestral game-music performances, celebrating Hades 1 and 2, online for free"
+        }
+      ]
+    },
+    {
+      "id": "i-perished-in-the-flesh-pipes-of-darktide-s-depths-of-the-da",
+      "titre": "I perished in the flesh pipes of Darktide's Depths of the Damned update, and you will too",
+      "url": "https://www.rockpapershotgun.com/i-perished-in-the-flesh-pipes-of-darktides-depths-of-the-damned-update-and-you-will-too",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 13.4,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/i-perished-in-the-flesh-pipes-of-darktides-depths-of-the-damned-update-and-you-will-too",
+          "titre": "I perished in the flesh pipes of Darktide's Depths of the Damned update, and you will too"
         }
       ]
     }
