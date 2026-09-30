@@ -1,22 +1,28 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "30/09/2026 à 16h25",
+  "collecte": "30/09/2026 à 18h24",
   "seuil": 14,
   "sujets": [
     {
-      "id": "no-game-no-life-grasshopper-manufacture-have-leapt-from-the",
-      "titre": "\"NO GAME NO LIFE\": Grasshopper Manufacture have leapt from the jaws of NetEase and gone indie again",
-      "url": "https://www.rockpapershotgun.com/no-game-no-life-grasshopper-manufacture-have-leapt-from-the-jaws-of-netease-and-gone-indie-again",
+      "id": "grasshopper-manufacture-parts-ways-with-netease-and-goes-ind",
+      "titre": "Grasshopper Manufacture Parts Ways With NetEase And Goes Independent",
+      "url": "https://www.nintendolife.com/news/2026/09/grasshopper-manufacture-parts-ways-with-netease-and-goes-independent",
       "sources": [
         "GamesIndustry.biz",
+        "Nintendo Life",
         "Push Square",
         "Rock Paper Shotgun",
         "VGC"
       ],
-      "reprises": 4,
-      "heures": 0.9,
-      "chaleur": 15,
+      "reprises": 5,
+      "heures": 1.9,
+      "chaleur": 18,
       "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/grasshopper-manufacture-parts-ways-with-netease-and-goes-independent",
+          "titre": "Grasshopper Manufacture Parts Ways With NetEase And Goes Independent"
+        },
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/no-game-no-life-grasshopper-manufacture-have-leapt-from-the-jaws-of-netease-and-gone-indie-again",
@@ -49,7 +55,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 14,
       "liens": [
         {
@@ -70,26 +76,104 @@ const VEILLE = {
       ]
     },
     {
-      "id": "you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if",
-      "titre": "You Can Get The Witcher 3 Remastered For Free On Switch 2, If You Can Borrow A Switch 1 Cart",
-      "url": "https://www.nintendolife.com/news/2026/09/you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if-you-can-borrow-a-switch-1-cart",
+      "id": "xbox-ceo-asha-sharma-insists-xbox-is-not-for-sale",
+      "titre": "Xbox CEO Asha Sharma insists \"Xbox is not for sale\"",
+      "url": "https://www.gamesindustry.biz/xbox-ceo-asha-sharma-insists-xbox-is-not-for-sale",
       "sources": [
-        "Nintendo Life",
+        "GamesIndustry.biz",
         "VGC"
       ],
       "reprises": 2,
-      "heures": 2.7,
+      "heures": 0.7,
       "chaleur": 11,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if-you-can-borrow-a-switch-1-cart",
-          "titre": "You Can Get The Witcher 3 Remastered For Free On Switch 2, If You Can Borrow A Switch 1 Cart"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/xbox-ceo-asha-sharma-insists-xbox-is-not-for-sale",
+          "titre": "Xbox CEO Asha Sharma insists \"Xbox is not for sale\""
         },
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-should-you-use-enemy-upscaling/",
-          "titre": "Witcher 3 Remastered: Should you use Enemy Upscaling?"
+          "url": "https://www.videogameschronicle.com/news/xbox-ceo-asha-sharma-insists-microsofts-gaming-business-is-not-for-sale/",
+          "titre": "Xbox CEO Asha Sharma insists Microsoft’s gaming business is ‘not for sale’"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-hits-its-highest-ever-steam-concurrent-player",
+      "titre": "The Witcher 3 hits its highest-ever Steam concurrent player count following Remastered launch",
+      "url": "https://www.gamesindustry.biz/the-witcher-3-hits-its-highest-ever-steam-concurrent-player-count-following-remastered-launch",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 1.4,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/the-witcher-3-hits-its-highest-ever-steam-concurrent-player-count-following-remastered-launch",
+          "titre": "The Witcher 3 hits its highest-ever Steam concurrent player count following Remastered launch"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/witcher-3-steam-most-played-record-remastered",
+          "titre": "The Witcher 3 surges to its highest Steam concurrent player-count ever, following Remastered edition's release"
+        }
+      ]
+    },
+    {
+      "id": "analyst-argues-gears-of-war-e-day-shouldn-t-have-been-cancel",
+      "titre": "Analyst Argues Gears of War: E-Day Shouldn't Have Been Cancelled on PS5 After 'Soft' Steam Pre-Orders",
+      "url": "https://www.pushsquare.com/news/2026/09/analyst-argues-gears-of-war-e-day-shouldnt-have-been-cancelled-on-ps5-after-soft-steam-pre-orders",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/analyst-argues-gears-of-war-e-day-shouldnt-have-been-cancelled-on-ps5-after-soft-steam-pre-orders",
+          "titre": "Analyst Argues Gears of War: E-Day Shouldn't Have Been Cancelled on PS5 After 'Soft' Steam Pre-Orders"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-completely-re-engineered-rockstar-s-weather-systems-to",
+      "titre": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
+      "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
+          "titre": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain"
+        }
+      ]
+    },
+    {
+      "id": "i-have-saved-gta-5-from-death-and-also-added-tornadoes",
+      "titre": "I have saved GTA 5 from death and also added tornadoes",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-saved-gta-5-from-death-and-also-added-tornadoes/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-saved-gta-5-from-death-and-also-added-tornadoes/",
+          "titre": "I have saved GTA 5 from death and also added tornadoes"
         }
       ]
     },
@@ -101,7 +185,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.4,
       "chaleur": 9,
       "liens": [
         {
@@ -120,7 +204,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 2.0,
+      "heures": 4.0,
       "chaleur": 9,
       "liens": [
         {
@@ -136,68 +220,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-spent-an-unreasonable-amount-of-time-testing-whether-logit",
-      "titre": "I spent an unreasonable amount of time testing whether Logitech's Superstrike analogue clicks actually make me react quicker",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/i-spent-an-unreasonable-amount-of-time-testing-whether-logitechs-superstrike-analogue-clicks-actually-make-me-react-quicker/",
+      "id": "you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if",
+      "titre": "You Can Get The Witcher 3 Remastered For Free On Switch 2, If You Can Borrow A Switch 1 Cart",
+      "url": "https://www.nintendolife.com/news/2026/09/you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if-you-can-borrow-a-switch-1-cart",
       "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-mice/i-spent-an-unreasonable-amount-of-time-testing-whether-logitechs-superstrike-analogue-clicks-actually-make-me-react-quicker/",
-          "titre": "I spent an unreasonable amount of time testing whether Logitech's Superstrike analogue clicks actually make me react quicker"
-        }
-      ]
-    },
-    {
-      "id": "we-ve-heard-you-silent-hill-townfall-studio-says-a-patch-is",
-      "titre": "‘We’ve heard you’: Silent Hill Townfall studio says a patch is coming to make The Weight stealth sections less frustrating",
-      "url": "https://www.videogameschronicle.com/news/weve-heard-you-silent-hill-townfall-studio-says-a-patch-is-coming-to-make-the-weight-stealth-sections-less-frustrating/",
-      "sources": [
-        "Push Square",
+        "Nintendo Life",
         "VGC"
       ],
       "reprises": 2,
-      "heures": 3.0,
+      "heures": 4.7,
       "chaleur": 9,
       "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if-you-can-borrow-a-switch-1-cart",
+          "titre": "You Can Get The Witcher 3 Remastered For Free On Switch 2, If You Can Borrow A Switch 1 Cart"
+        },
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/weve-heard-you-silent-hill-townfall-studio-says-a-patch-is-coming-to-make-the-weight-stealth-sections-less-frustrating/",
-          "titre": "‘We’ve heard you’: Silent Hill Townfall studio says a patch is coming to make The Weight stealth sections less frustrating"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/silent-hill-townfalls-worst-enemy-to-be-addressed-in-future-ps5-patch",
-          "titre": "Silent Hill: Townfall's Worst Enemy to Be Addressed in Future PS5 Patch"
-        }
-      ]
-    },
-    {
-      "id": "as-handholding-mechanics-come-under-fire-elsewhere-control-r",
-      "titre": "As handholding mechanics come under fire elsewhere, Control Resonant devs confirm they made a \"conscious decision\" not to use yellow paint",
-      "url": "https://www.eurogamer.net/control-resonant-yellow-paint-conscious-decision-marvels-wolverine",
-      "sources": [
-        "Eurogamer",
-        "Game Developer"
-      ],
-      "reprises": 2,
-      "heures": 3.1,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/control-resonant-yellow-paint-conscious-decision-marvels-wolverine",
-          "titre": "As handholding mechanics come under fire elsewhere, Control Resonant devs confirm they made a \"conscious decision\" not to use yellow paint"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
-          "titre": "Control Resonant director lays out case for avoiding excessive 'yellow paint'"
+          "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-should-you-use-enemy-upscaling/",
+          "titre": "Witcher 3 Remastered: Should you use Enemy Upscaling?"
         }
       ]
     },
@@ -210,7 +252,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 7.0,
+      "heures": 9.0,
       "chaleur": 9,
       "liens": [
         {
@@ -233,7 +275,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.5,
       "chaleur": 8,
       "liens": [
         {
@@ -251,7 +293,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 8,
       "liens": [
         {
@@ -269,7 +311,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 8,
       "liens": [
         {
@@ -280,38 +322,68 @@ const VEILLE = {
       ]
     },
     {
-      "id": "zynga-reportedly-almost-acquired-supercell-for-400m-in-2012",
-      "titre": "Zynga reportedly almost acquired Supercell for $400m in 2012, but deal fell through following failure of OMGPop",
-      "url": "https://www.gamesindustry.biz/zynga-reportedly-almost-acquired-supercell-for-400m-in-2012-but-deal-fell-through-following-failure-of-omgpop",
+      "id": "i-spent-an-unreasonable-amount-of-time-testing-whether-logit",
+      "titre": "I spent an unreasonable amount of time testing whether Logitech's Superstrike analogue clicks actually make me react quicker",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/i-spent-an-unreasonable-amount-of-time-testing-whether-logitechs-superstrike-analogue-clicks-actually-make-me-react-quicker/",
       "sources": [
-        "GamesIndustry.biz"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 8,
+      "heures": 5.0,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/zynga-reportedly-almost-acquired-supercell-for-400m-in-2012-but-deal-fell-through-following-failure-of-omgpop",
-          "titre": "Zynga reportedly almost acquired Supercell for $400m in 2012, but deal fell through following failure of OMGPop"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/i-spent-an-unreasonable-amount-of-time-testing-whether-logitechs-superstrike-analogue-clicks-actually-make-me-react-quicker/",
+          "titre": "I spent an unreasonable amount of time testing whether Logitech's Superstrike analogue clicks actually make me react quicker"
         }
       ]
     },
     {
-      "id": "monster-hunter-wilds-on-switch-2-runs-at-a-stable-30fps-but",
-      "titre": "Monster Hunter Wilds on Switch 2 runs at a stable 30FPS, but it took Capcom a \"painstaking, seemingly endless process\" to get there",
-      "url": "https://www.eurogamer.net/monster-hunter-wilds-switch-2-performance-capcom",
+      "id": "we-ve-heard-you-silent-hill-townfall-studio-says-a-patch-is",
+      "titre": "‘We’ve heard you’: Silent Hill Townfall studio says a patch is coming to make The Weight stealth sections less frustrating",
+      "url": "https://www.videogameschronicle.com/news/weve-heard-you-silent-hill-townfall-studio-says-a-patch-is-coming-to-make-the-weight-stealth-sections-less-frustrating/",
       "sources": [
-        "Eurogamer"
+        "Push Square",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 8,
+      "reprises": 2,
+      "heures": 5.0,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/weve-heard-you-silent-hill-townfall-studio-says-a-patch-is-coming-to-make-the-weight-stealth-sections-less-frustrating/",
+          "titre": "‘We’ve heard you’: Silent Hill Townfall studio says a patch is coming to make The Weight stealth sections less frustrating"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/silent-hill-townfalls-worst-enemy-to-be-addressed-in-future-ps5-patch",
+          "titre": "Silent Hill: Townfall's Worst Enemy to Be Addressed in Future PS5 Patch"
+        }
+      ]
+    },
+    {
+      "id": "as-handholding-mechanics-come-under-fire-elsewhere-control-r",
+      "titre": "As handholding mechanics come under fire elsewhere, Control Resonant devs confirm they made a \"conscious decision\" not to use yellow paint",
+      "url": "https://www.eurogamer.net/control-resonant-yellow-paint-conscious-decision-marvels-wolverine",
+      "sources": [
+        "Eurogamer",
+        "Game Developer"
+      ],
+      "reprises": 2,
+      "heures": 5.0,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/monster-hunter-wilds-switch-2-performance-capcom",
-          "titre": "Monster Hunter Wilds on Switch 2 runs at a stable 30FPS, but it took Capcom a \"painstaking, seemingly endless process\" to get there"
+          "url": "https://www.eurogamer.net/control-resonant-yellow-paint-conscious-decision-marvels-wolverine",
+          "titre": "As handholding mechanics come under fire elsewhere, Control Resonant devs confirm they made a \"conscious decision\" not to use yellow paint"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
+          "titre": "Control Resonant director lays out case for avoiding excessive 'yellow paint'"
         }
       ]
     },
@@ -323,7 +395,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 7,
       "liens": [
         {
@@ -341,7 +413,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 7,
       "liens": [
         {
@@ -359,7 +431,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.1,
       "chaleur": 7,
       "liens": [
         {
@@ -532,20 +604,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mdev",
-      "titre": "MDEV",
-      "url": "https://www.gamedeveloper.comwww.mdevconf.com",
+      "id": "ubisoft-montreal-employees-launch-collective-action-to-prese",
+      "titre": "Ubisoft Montreal employees launch collective action to preserve hybrid work schedule",
+      "url": "https://www.gamedeveloper.com/production/ubisoft-montreal-employees-launch-collective-action-to-preserve-hybrid-work-schedule",
       "sources": [
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 0.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
-          "url": "https://www.gamedeveloper.comwww.mdevconf.com",
-          "titre": "MDEV"
+          "url": "https://www.gamedeveloper.com/production/ubisoft-montreal-employees-launch-collective-action-to-preserve-hybrid-work-schedule",
+          "titre": "Ubisoft Montreal employees launch collective action to preserve hybrid work schedule"
+        }
+      ]
+    },
+    {
+      "id": "to-celebrate-september-30-the-day-the-cop-inside-of-leon-ken",
+      "titre": "To celebrate September 30, the day the cop inside of Leon Kennedy died, here's my most traumatic encounters in Resident Evil",
+      "url": "https://www.pcgamer.com/games/resident-evil/to-celebrate-september-30-the-day-the-cop-inside-of-leon-kennedy-died-heres-my-most-traumatic-encounters-in-resident-evil/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/resident-evil/to-celebrate-september-30-the-day-the-cop-inside-of-leon-kennedy-died-heres-my-most-traumatic-encounters-in-resident-evil/",
+          "titre": "To celebrate September 30, the day the cop inside of Leon Kennedy died, here's my most traumatic encounters in Resident Evil"
+        }
+      ]
+    },
+    {
+      "id": "opinion-one-of-my-favourite-games-is-being-remade-so-why-do",
+      "titre": "Opinion: One Of My Favourite Games Is Being Remade, So Why Do I Feel So Down About It?",
+      "url": "https://www.nintendolife.com/features/opinion-one-of-my-favourite-games-is-being-remade-so-why-do-i-feel-so-down-about-it",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/opinion-one-of-my-favourite-games-is-being-remade-so-why-do-i-feel-so-down-about-it",
+          "titre": "Opinion: One Of My Favourite Games Is Being Remade, So Why Do I Feel So Down About It?"
         }
       ]
     },
@@ -557,7 +665,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -575,7 +683,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
@@ -593,7 +701,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -611,7 +719,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -629,31 +737,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/the-importance-of-being-earnest-how-marvel-tokons-deadpool-trades-ridicule-for-fighting-game-reverence",
           "titre": "The importance of being earnest: How Marvel Tōkon's Deadpool trades ridicule for fighting game reverence"
-        }
-      ]
-    },
-    {
-      "id": "absolutely-massive-god-of-war-laufey-pre-orders-as-ps5-excl",
-      "titre": "'Absolutely Massive' God of War Laufey Pre-Orders as PS5 Exclusive Starts Strong",
-      "url": "https://www.pushsquare.com/news/2026/09/absolutely-massive-god-of-war-laufey-pre-orders-as-ps5-exclusive-starts-strong",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/absolutely-massive-god-of-war-laufey-pre-orders-as-ps5-exclusive-starts-strong",
-          "titre": "'Absolutely Massive' God of War Laufey Pre-Orders as PS5 Exclusive Starts Strong"
         }
       ]
     },
@@ -665,7 +755,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -683,7 +773,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -694,344 +784,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "tinker-bard-illusionist-blizzard-seemingly-surveying-world-o",
-      "titre": "Tinker, Bard, Illusionist - Blizzard seemingly surveying World of Warcraft: Forever players about never-before-seen classes to add to the game",
-      "url": "https://www.eurogamer.net/world-of-warcraft-forever-class-survey",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/world-of-warcraft-forever-class-survey",
-          "titre": "Tinker, Bard, Illusionist - Blizzard seemingly surveying World of Warcraft: Forever players about never-before-seen classes to add to the game"
-        }
-      ]
-    },
-    {
-      "id": "my-god-this-new-lighting-is-lifeless-the-witcher-3-remaster",
-      "titre": "\"My god this new lighting is lifeless\" - The Witcher 3 Remastered Edition divides players for a few key reasons",
-      "url": "https://www.eurogamer.net/witcher-3-remastered-community-reaction-lighting",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-remastered-community-reaction-lighting",
-          "titre": "\"My god this new lighting is lifeless\" - The Witcher 3 Remastered Edition divides players for a few key reasons"
-        }
-      ]
-    },
-    {
-      "id": "witcher-3-remastered-transmog-how-to-change-armor-appearance",
-      "titre": "Witcher 3 Remastered transmog: How to change armor appearance by unlocking Reforge",
-      "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-transmog-how-to-change-armor-appearance-by-unlocking-reforge/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-transmog-how-to-change-armor-appearance-by-unlocking-reforge/",
-          "titre": "Witcher 3 Remastered transmog: How to change armor appearance by unlocking Reforge"
-        }
-      ]
-    },
-    {
-      "id": "warlock-dungeons-dragons-developers-hope-to-set-aside-the-ba",
-      "titre": "Warlock: Dungeons & Dragons developers hope to set aside the Baldur's Gate 3 comparisons and build their own kind of open world",
-      "url": "https://www.eurogamer.net/warlock-dungeons-dragons-gamescom-preview",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/warlock-dungeons-dragons-gamescom-preview",
-          "titre": "Warlock: Dungeons & Dragons developers hope to set aside the Baldur's Gate 3 comparisons and build their own kind of open world"
-        }
-      ]
-    },
-    {
-      "id": "come-play-the-flute-and-reshape-the-very-earth-in-songs-of-g",
-      "titre": "Come play the flute and reshape the very earth in Songs of Glimmerwick, a magic school RPG from the creators of Eastshade",
-      "url": "https://www.rockpapershotgun.com/come-play-the-flute-and-reshape-the-very-earth-in-songs-of-glimmerwick-a-magic-school-rpg-from-the-creators-of-eastshade",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/come-play-the-flute-and-reshape-the-very-earth-in-songs-of-glimmerwick-a-magic-school-rpg-from-the-creators-of-eastshade",
-          "titre": "Come play the flute and reshape the very earth in Songs of Glimmerwick, a magic school RPG from the creators of Eastshade"
-        }
-      ]
-    },
-    {
-      "id": "review-end-of-abyss-ps5-this-delectably-dark-metroidvania-fo",
-      "titre": "Review: End of Abyss (PS5) - This Delectably Dark Metroidvania Forces You to Look Closer",
-      "url": "https://www.pushsquare.com/reviews/ps5/end-of-abyss",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/end-of-abyss",
-          "titre": "Review: End of Abyss (PS5) - This Delectably Dark Metroidvania Forces You to Look Closer"
-        }
-      ]
-    },
-    {
-      "id": "how-to-run-an-indie-game-studio-part-1-what-is-a-studio",
-      "titre": "How to run an indie game studio: Part 1, What is a studio?",
-      "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-1-what-is-a-studio",
+      "id": "zynga-reportedly-almost-acquired-supercell-for-400m-in-2012",
+      "titre": "Zynga reportedly almost acquired Supercell for $400m in 2012, but deal fell through following failure of OMGPop",
+      "url": "https://www.gamesindustry.biz/zynga-reportedly-almost-acquired-supercell-for-400m-in-2012-but-deal-fell-through-following-failure-of-omgpop",
       "sources": [
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 4.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-1-what-is-a-studio",
-          "titre": "How to run an indie game studio: Part 1, What is a studio?"
+          "url": "https://www.gamesindustry.biz/zynga-reportedly-almost-acquired-supercell-for-400m-in-2012-but-deal-fell-through-following-failure-of-omgpop",
+          "titre": "Zynga reportedly almost acquired Supercell for $400m in 2012, but deal fell through following failure of OMGPop"
         }
       ]
     },
     {
-      "id": "holy-hell-deadlock-s-new-map-looks-absolutely-beautiful",
-      "titre": "Holy hell—Deadlock's new map looks absolutely beautiful",
-      "url": "https://www.pcgamer.com/games/moba/holy-hell-deadlocks-new-map-looks-absolutely-beautiful/",
+      "id": "monster-hunter-wilds-on-switch-2-runs-at-a-stable-30fps-but",
+      "titre": "Monster Hunter Wilds on Switch 2 runs at a stable 30FPS, but it took Capcom a \"painstaking, seemingly endless process\" to get there",
+      "url": "https://www.eurogamer.net/monster-hunter-wilds-switch-2-performance-capcom",
       "sources": [
-        "PC Gamer"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.5,
+      "heures": 5.5,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/moba/holy-hell-deadlocks-new-map-looks-absolutely-beautiful/",
-          "titre": "Holy hell—Deadlock's new map looks absolutely beautiful"
-        }
-      ]
-    },
-    {
-      "id": "the-pentagon-says-hold-my-beer-falls-victim-to-massive-data",
-      "titre": "The Pentagon says 'hold my beer,' falls victim to massive data breach affecting roughly 3,000,000 people",
-      "url": "https://www.pcgamer.com/software/security/the-pentagon-says-hold-my-beer-falls-victim-to-massive-data-breach-affecting-roughly-3-000-000-people/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/security/the-pentagon-says-hold-my-beer-falls-victim-to-massive-data-breach-affecting-roughly-3-000-000-people/",
-          "titre": "The Pentagon says 'hold my beer,' falls victim to massive data breach affecting roughly 3,000,000 people"
-        }
-      ]
-    },
-    {
-      "id": "introducing-the-vgc-live-in-glasgow-2026-t-shirt-available-f",
-      "titre": "Introducing the VGC Live in Glasgow 2026 T-shirt, available for pre-order now",
-      "url": "https://www.videogameschronicle.com/news/introducing-the-vgc-live-in-glasgow-2026-t-shirt-available-for-pre-order-now/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/introducing-the-vgc-live-in-glasgow-2026-t-shirt-available-for-pre-order-now/",
-          "titre": "Introducing the VGC Live in Glasgow 2026 T-shirt, available for pre-order now"
-        }
-      ]
-    },
-    {
-      "id": "astro-bot-s-276-piece-lego-set-will-be-available-standalone",
-      "titre": "Astro Bot's 276 Piece LEGO Set Will Be Available Standalone for $24.99",
-      "url": "https://www.pushsquare.com/news/2026/09/astro-bots-276-piece-lego-set-will-be-available-standalone-for-usd24-99",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/astro-bots-276-piece-lego-set-will-be-available-standalone-for-usd24-99",
-          "titre": "Astro Bot's 276 Piece LEGO Set Will Be Available Standalone for $24.99"
-        }
-      ]
-    },
-    {
-      "id": "crusader-kings-3-s-by-god-alone-expansion-offers-plenty-of-h",
-      "titre": "Crusader Kings 3's By God Alone expansion offers plenty of holy hijinks, even if your polyamorous Pope doesn't get divorced three times in one day",
-      "url": "https://www.rockpapershotgun.com/crusader-kings-3s-by-god-alone-expansion-offers-plenty-of-holy-hijinks-even-if-your-polyamorous-pope-doesnt-get-divorced-three-times-in-one-day",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/crusader-kings-3s-by-god-alone-expansion-offers-plenty-of-holy-hijinks-even-if-your-polyamorous-pope-doesnt-get-divorced-three-times-in-one-day",
-          "titre": "Crusader Kings 3's By God Alone expansion offers plenty of holy hijinks, even if your polyamorous Pope doesn't get divorced three times in one day"
-        }
-      ]
-    },
-    {
-      "id": "video-here-s-gameplay-of-ghost-of-yotei-s-new-roguelike-mode",
-      "titre": "Video: Here’s gameplay of Ghost of Yotei’s new roguelike mode, featuring the return of Jin Sakai",
-      "url": "https://www.videogameschronicle.com/features/video-heres-gameplay-of-ghost-of-yoteis-new-roguelike-mode-featuring-the-return-of-jin-sakai/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/video-heres-gameplay-of-ghost-of-yoteis-new-roguelike-mode-featuring-the-return-of-jin-sakai/",
-          "titre": "Video: Here’s gameplay of Ghost of Yotei’s new roguelike mode, featuring the return of Jin Sakai"
-        }
-      ]
-    },
-    {
-      "id": "this-fromsoft-inspired-rpg-is-packed-with-retro-king-s-field",
-      "titre": "This FromSoft-Inspired RPG Is Packed With Retro King's Field Soul",
-      "url": "https://www.nintendolife.com/news/2026/09/this-fromsoft-inspired-rpg-is-packed-with-retro-kings-field-soul",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/this-fromsoft-inspired-rpg-is-packed-with-retro-kings-field-soul",
-          "titre": "This FromSoft-Inspired RPG Is Packed With Retro King's Field Soul"
-        }
-      ]
-    },
-    {
-      "id": "trails-in-the-sky-2nd-chapter-is-rated-top-3-of-2026-and-is",
-      "titre": "Trails in the Sky 2nd Chapter Is Rated Top 3 of 2026, and Is the Highest Rated Trails Game Ever",
-      "url": "https://www.pushsquare.com/news/2026/09/trails-in-the-sky-2nd-chapter-is-rated-top-3-of-2026-and-is-the-highest-rated-trails-game-ever",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/trails-in-the-sky-2nd-chapter-is-rated-top-3-of-2026-and-is-the-highest-rated-trails-game-ever",
-          "titre": "Trails in the Sky 2nd Chapter Is Rated Top 3 of 2026, and Is the Highest Rated Trails Game Ever"
-        }
-      ]
-    },
-    {
-      "id": "no-law-might-be-the-open-world-deus-ex-that-cyberpunk-2077-w",
-      "titre": "No Law might be the open-world Deus Ex that Cyberpunk 2077 wasn't",
-      "url": "https://www.pcgamer.com/games/rpg/no-law-might-be-the-open-world-deus-ex-that-cyberpunk-2077-wasnt/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/no-law-might-be-the-open-world-deus-ex-that-cyberpunk-2077-wasnt/",
-          "titre": "No Law might be the open-world Deus Ex that Cyberpunk 2077 wasn't"
-        }
-      ]
-    },
-    {
-      "id": "witcher-3-remastered-quick-sign-casting-explained-and-should",
-      "titre": "Witcher 3 Remastered: Quick Sign Casting explained and should you use it?",
-      "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-quick-sign-casting-explained-and-should-you-use-it/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-quick-sign-casting-explained-and-should-you-use-it/",
-          "titre": "Witcher 3 Remastered: Quick Sign Casting explained and should you use it?"
-        }
-      ]
-    },
-    {
-      "id": "pok-mon-pokopia-gets-spooky-with-a-limited-time-halloween-in",
-      "titre": "Pokémon Pokopia Gets Spooky With A Limited-Time Halloween In-Game Event",
-      "url": "https://www.nintendolife.com/news/2026/09/pokemon-pokopia-gets-spooky-with-a-limited-time-halloween-in-game-event",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/pokemon-pokopia-gets-spooky-with-a-limited-time-halloween-in-game-event",
-          "titre": "Pokémon Pokopia Gets Spooky With A Limited-Time Halloween In-Game Event"
-        }
-      ]
-    },
-    {
-      "id": "dune-awakening-s-creative-director-on-copying-hollywood-in-g",
-      "titre": "Dune Awakening's creative director on copying Hollywood, in-game advertising, and why style beats photorealism",
-      "url": "https://www.gamesindustry.biz/dune-awakenings-creative-director-on-copying-hollywood-in-game-advertising-and-why-style-beats-photorealism",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/dune-awakenings-creative-director-on-copying-hollywood-in-game-advertising-and-why-style-beats-photorealism",
-          "titre": "Dune Awakening's creative director on copying Hollywood, in-game advertising, and why style beats photorealism"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/monster-hunter-wilds-switch-2-performance-capcom",
+          "titre": "Monster Hunter Wilds on Switch 2 runs at a stable 30FPS, but it took Capcom a \"painstaking, seemingly endless process\" to get there"
         }
       ]
     },
@@ -1043,7 +827,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.7,
       "chaleur": 6,
       "liens": [
         {
@@ -1061,7 +845,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 6,
       "liens": [
         {
@@ -1079,7 +863,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 6,
       "liens": [
         {
@@ -1097,7 +881,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.5,
       "chaleur": 6,
       "liens": [
         {
@@ -1115,7 +899,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.5,
       "chaleur": 6,
       "liens": [
         {
@@ -1134,7 +918,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 16.9,
+      "heures": 18.9,
       "chaleur": 6,
       "liens": [
         {
@@ -1148,10 +932,243 @@ const VEILLE = {
           "titre": "Naughty Dog is working on new The Last Of Us 'projects'"
         }
       ]
+    },
+    {
+      "id": "why-should-we-just-give-up-the-entire-month-of-november-the",
+      "titre": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6",
+      "url": "https://www.gamesindustry.biz/why-should-we-just-give-up-the-entire-month-of-november-the-indie-games-going-head-to-head-with-gta-6",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 29.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/why-should-we-just-give-up-the-entire-month-of-november-the-indie-games-going-head-to-head-with-gta-6",
+          "titre": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6"
+        }
+      ]
+    },
+    {
+      "id": "steam-s-discounts-and-events-tab-will-soon-be-fully-algorith",
+      "titre": "Steam's discounts and events tab will soon be fully algorithm-driven",
+      "url": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 20.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
+          "titre": "Steam's discounts and events tab will soon be fully algorithm-driven"
+        }
+      ]
+    },
+    {
+      "id": "review-mobapad-c2-lite-controller-the-best-budget-pad-for-sw",
+      "titre": "Review: Mobapad C2 Lite Controller - The Best Budget Pad For Switch 2? Probably",
+      "url": "https://www.nintendolife.com/reviews/mobapad-c2-lite-controller-the-best-budget-pad-for-switch-2-probably",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 25.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/mobapad-c2-lite-controller-the-best-budget-pad-for-switch-2-probably",
+          "titre": "Review: Mobapad C2 Lite Controller - The Best Budget Pad For Switch 2? Probably"
+        }
+      ]
+    },
+    {
+      "id": "more-nintendo-lego-sets-are-being-retired-this-year",
+      "titre": "More Nintendo LEGO Sets Are Being Retired This Year",
+      "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 27.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
+          "titre": "More Nintendo LEGO Sets Are Being Retired This Year"
+        }
+      ]
+    },
+    {
+      "id": "tinker-bard-illusionist-blizzard-seemingly-surveying-world-o",
+      "titre": "Tinker, Bard, Illusionist - Blizzard seemingly surveying World of Warcraft: Forever players about never-before-seen classes to add to the game",
+      "url": "https://www.eurogamer.net/world-of-warcraft-forever-class-survey",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/world-of-warcraft-forever-class-survey",
+          "titre": "Tinker, Bard, Illusionist - Blizzard seemingly surveying World of Warcraft: Forever players about never-before-seen classes to add to the game"
+        }
+      ]
+    },
+    {
+      "id": "my-god-this-new-lighting-is-lifeless-the-witcher-3-remaster",
+      "titre": "\"My god this new lighting is lifeless\" - The Witcher 3 Remastered Edition divides players for a few key reasons",
+      "url": "https://www.eurogamer.net/witcher-3-remastered-community-reaction-lighting",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/witcher-3-remastered-community-reaction-lighting",
+          "titre": "\"My god this new lighting is lifeless\" - The Witcher 3 Remastered Edition divides players for a few key reasons"
+        }
+      ]
+    },
+    {
+      "id": "witcher-3-remastered-transmog-how-to-change-armor-appearance",
+      "titre": "Witcher 3 Remastered transmog: How to change armor appearance by unlocking Reforge",
+      "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-transmog-how-to-change-armor-appearance-by-unlocking-reforge/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-transmog-how-to-change-armor-appearance-by-unlocking-reforge/",
+          "titre": "Witcher 3 Remastered transmog: How to change armor appearance by unlocking Reforge"
+        }
+      ]
+    },
+    {
+      "id": "warlock-dungeons-dragons-developers-hope-to-set-aside-the-ba",
+      "titre": "Warlock: Dungeons & Dragons developers hope to set aside the Baldur's Gate 3 comparisons and build their own kind of open world",
+      "url": "https://www.eurogamer.net/warlock-dungeons-dragons-gamescom-preview",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/warlock-dungeons-dragons-gamescom-preview",
+          "titre": "Warlock: Dungeons & Dragons developers hope to set aside the Baldur's Gate 3 comparisons and build their own kind of open world"
+        }
+      ]
+    },
+    {
+      "id": "come-play-the-flute-and-reshape-the-very-earth-in-songs-of-g",
+      "titre": "Come play the flute and reshape the very earth in Songs of Glimmerwick, a magic school RPG from the creators of Eastshade",
+      "url": "https://www.rockpapershotgun.com/come-play-the-flute-and-reshape-the-very-earth-in-songs-of-glimmerwick-a-magic-school-rpg-from-the-creators-of-eastshade",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/come-play-the-flute-and-reshape-the-very-earth-in-songs-of-glimmerwick-a-magic-school-rpg-from-the-creators-of-eastshade",
+          "titre": "Come play the flute and reshape the very earth in Songs of Glimmerwick, a magic school RPG from the creators of Eastshade"
+        }
+      ]
+    },
+    {
+      "id": "review-end-of-abyss-ps5-this-delectably-dark-metroidvania-fo",
+      "titre": "Review: End of Abyss (PS5) - This Delectably Dark Metroidvania Forces You to Look Closer",
+      "url": "https://www.pushsquare.com/reviews/ps5/end-of-abyss",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/end-of-abyss",
+          "titre": "Review: End of Abyss (PS5) - This Delectably Dark Metroidvania Forces You to Look Closer"
+        }
+      ]
+    },
+    {
+      "id": "how-to-run-an-indie-game-studio-part-1-what-is-a-studio",
+      "titre": "How to run an indie game studio: Part 1, What is a studio?",
+      "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-1-what-is-a-studio",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-1-what-is-a-studio",
+          "titre": "How to run an indie game studio: Part 1, What is a studio?"
+        }
+      ]
+    },
+    {
+      "id": "holy-hell-deadlock-s-new-map-looks-absolutely-beautiful",
+      "titre": "Holy hell—Deadlock's new map looks absolutely beautiful",
+      "url": "https://www.pcgamer.com/games/moba/holy-hell-deadlocks-new-map-looks-absolutely-beautiful/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/holy-hell-deadlocks-new-map-looks-absolutely-beautiful/",
+          "titre": "Holy hell—Deadlock's new map looks absolutely beautiful"
+        }
+      ]
+    },
+    {
+      "id": "the-pentagon-says-hold-my-beer-falls-victim-to-massive-data",
+      "titre": "The Pentagon says 'hold my beer,' falls victim to massive data breach affecting roughly 3,000,000 people",
+      "url": "https://www.pcgamer.com/software/security/the-pentagon-says-hold-my-beer-falls-victim-to-massive-data-breach-affecting-roughly-3-000-000-people/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/security/the-pentagon-says-hold-my-beer-falls-victim-to-massive-data-breach-affecting-roughly-3-000-000-people/",
+          "titre": "The Pentagon says 'hold my beer,' falls victim to massive data breach affecting roughly 3,000,000 people"
+        }
+      ]
     }
   ],
   "alertes": [
-    "\"NO GAME NO LIFE\": Grasshopper Manufacture have leapt from the jaws of NetEase and gone indie again",
-    "Crimson Desert's first expansion, Charting the Unknown, delayed so Pearl Abyss get more time to polish and stabilise the red pudding"
+    "Grasshopper Manufacture Parts Ways With NetEase And Goes Independent"
   ]
 };
