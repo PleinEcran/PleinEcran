@@ -1,23 +1,29 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "30/09/2026 à 20h22",
+  "collecte": "30/09/2026 à 22h22",
   "seuil": 14,
   "sujets": [
     {
-      "id": "grasshopper-manufacture-parts-ways-with-netease-and-goes-ind",
-      "titre": "Grasshopper Manufacture Parts Ways With NetEase And Goes Independent",
-      "url": "https://www.nintendolife.com/news/2026/09/grasshopper-manufacture-parts-ways-with-netease-and-goes-independent",
+      "id": "suda-51-s-grasshopper-manufacture-splits-from-netease",
+      "titre": "Suda 51's Grasshopper Manufacture splits from NetEase",
+      "url": "https://www.gamedeveloper.com/business/suda-51-s-grasshopper-manufacture-splits-from-netease",
       "sources": [
+        "Game Developer",
         "GamesIndustry.biz",
         "Nintendo Life",
         "Push Square",
         "Rock Paper Shotgun",
         "VGC"
       ],
-      "reprises": 5,
-      "heures": 3.9,
-      "chaleur": 18,
+      "reprises": 6,
+      "heures": 2.7,
+      "chaleur": 21,
       "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/suda-51-s-grasshopper-manufacture-splits-from-netease",
+          "titre": "Suda 51's Grasshopper Manufacture splits from NetEase"
+        },
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/grasshopper-manufacture-parts-ways-with-netease-and-goes-independent",
@@ -55,7 +61,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 1.8,
+      "heures": 3.8,
       "chaleur": 14,
       "liens": [
         {
@@ -85,7 +91,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 12,
       "liens": [
         {
@@ -106,6 +112,48 @@ const VEILLE = {
       ]
     },
     {
+      "id": "rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan",
+      "titre": "Rumour: New Uncharted Game in the Works at Naughty Dog, Nathan Drake Not the Lead Character",
+      "url": "https://www.pushsquare.com/news/2026/09/rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan-drake-not-the-lead-character",
+      "sources": [
+        "Game Developer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 1.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan-drake-not-the-lead-character",
+          "titre": "Rumour: New Uncharted Game in the Works at Naughty Dog, Nathan Drake Not the Lead Character"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-last-of-us-projects-",
+          "titre": "Naughty Dog is working on new The Last Of Us 'projects'"
+        }
+      ]
+    },
+    {
+      "id": "alleged-hacker-arrested-over-leak-that-exposed-gta-online-s",
+      "titre": "Alleged hacker arrested over leak that exposed GTA Online's daily revenue",
+      "url": "https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 3.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue",
+          "titre": "Alleged hacker arrested over leak that exposed GTA Online's daily revenue"
+        }
+      ]
+    },
+    {
       "id": "the-witcher-3-hits-its-highest-ever-steam-concurrent-player",
       "titre": "The Witcher 3 hits its highest-ever Steam concurrent player count following Remastered launch",
       "url": "https://www.gamesindustry.biz/the-witcher-3-hits-its-highest-ever-steam-concurrent-player-count-following-remastered-launch",
@@ -114,8 +162,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 3.3,
-      "chaleur": 11,
+      "heures": 5.3,
+      "chaleur": 9,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -137,8 +185,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 11,
+      "heures": 5.6,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Push Square",
@@ -148,20 +196,68 @@ const VEILLE = {
       ]
     },
     {
-      "id": "alleged-hacker-arrested-over-leak-that-exposed-gta-online-s",
-      "titre": "Alleged hacker arrested over leak that exposed GTA Online's daily revenue",
-      "url": "https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue",
+      "id": "you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if",
+      "titre": "You Can Get The Witcher 3 Remastered For Free On Switch 2, If You Can Borrow A Switch 1 Cart",
+      "url": "https://www.nintendolife.com/news/2026/09/you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if-you-can-borrow-a-switch-1-cart",
       "sources": [
-        "GamesIndustry.biz"
+        "Nintendo Life",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 1.4,
+      "reprises": 2,
+      "heures": 8.6,
       "chaleur": 9,
       "liens": [
         {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if-you-can-borrow-a-switch-1-cart",
+          "titre": "You Can Get The Witcher 3 Remastered For Free On Switch 2, If You Can Borrow A Switch 1 Cart"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-should-you-use-enemy-upscaling/",
+          "titre": "Witcher 3 Remastered: Should you use Enemy Upscaling?"
+        }
+      ]
+    },
+    {
+      "id": "ps-plus-members-can-claim-free-psn-avatars-for-sony-s-record",
+      "titre": "PS Plus Members Can Claim Free PSN Avatars for Sony's Record-Breaking Spider-Man: Brand New Day",
+      "url": "https://www.pushsquare.com/news/2026/09/ps-plus-members-can-claim-free-psn-avatars-for-sonys-record-breaking-spider-man-brand-new-day",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 3.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/ps-plus-members-can-claim-free-psn-avatars-for-sonys-record-breaking-spider-man-brand-new-day",
+          "titre": "PS Plus Members Can Claim Free PSN Avatars for Sony's Record-Breaking Spider-Man: Brand New Day"
+        }
+      ]
+    },
+    {
+      "id": "valve-is-updating-steam-s-discount-events-section-to-become",
+      "titre": "Valve is updating Steam's Discount & Events section to become more \"dynamic and personalised\"",
+      "url": "https://www.gamesindustry.biz/valve-is-updating-steams-discount-events-section-to-become-more-dynamic-and-personalised",
+      "sources": [
+        "GamesIndustry.biz",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 12.9,
+      "chaleur": 8,
+      "liens": [
+        {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue",
-          "titre": "Alleged hacker arrested over leak that exposed GTA Online's daily revenue"
+          "url": "https://www.gamesindustry.biz/valve-is-updating-steams-discount-events-section-to-become-more-dynamic-and-personalised",
+          "titre": "Valve is updating Steam's Discount & Events section to become more \"dynamic and personalised\""
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/valve-is-changing-steams-homepage-discounts-and-events-section-to-go-the-way-of-the-algorithm-to-get-you-to-look-at-and-buy-obviously-more-games",
+          "titre": "Valve is changing Steam's homepage discounts and events section to go the way of the algorithm to get you to look at, and buy, obviously, more games"
         }
       ]
     },
@@ -173,8 +269,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 9,
+      "heures": 5.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
@@ -191,79 +287,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 9,
+      "heures": 5.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-saved-gta-5-from-death-and-also-added-tornadoes/",
           "titre": "I have saved GTA 5 from death and also added tornadoes"
-        }
-      ]
-    },
-    {
-      "id": "you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if",
-      "titre": "You Can Get The Witcher 3 Remastered For Free On Switch 2, If You Can Borrow A Switch 1 Cart",
-      "url": "https://www.nintendolife.com/news/2026/09/you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if-you-can-borrow-a-switch-1-cart",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 6.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if-you-can-borrow-a-switch-1-cart",
-          "titre": "You Can Get The Witcher 3 Remastered For Free On Switch 2, If You Can Borrow A Switch 1 Cart"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-should-you-use-enemy-upscaling/",
-          "titre": "Witcher 3 Remastered: Should you use Enemy Upscaling?"
-        }
-      ]
-    },
-    {
-      "id": "valve-is-updating-steam-s-discount-events-section-to-become",
-      "titre": "Valve is updating Steam's Discount & Events section to become more \"dynamic and personalised\"",
-      "url": "https://www.gamesindustry.biz/valve-is-updating-steams-discount-events-section-to-become-more-dynamic-and-personalised",
-      "sources": [
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 11.0,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/valve-is-updating-steams-discount-events-section-to-become-more-dynamic-and-personalised",
-          "titre": "Valve is updating Steam's Discount & Events section to become more \"dynamic and personalised\""
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valve-is-changing-steams-homepage-discounts-and-events-section-to-go-the-way-of-the-algorithm-to-get-you-to-look-at-and-buy-obviously-more-games",
-          "titre": "Valve is changing Steam's homepage discounts and events section to go the way of the algorithm to get you to look at, and buy, obviously, more games"
-        }
-      ]
-    },
-    {
-      "id": "ps-plus-members-can-claim-free-psn-avatars-for-sony-s-record",
-      "titre": "PS Plus Members Can Claim Free PSN Avatars for Sony's Record-Breaking Spider-Man: Brand New Day",
-      "url": "https://www.pushsquare.com/news/2026/09/ps-plus-members-can-claim-free-psn-avatars-for-sonys-record-breaking-spider-man-brand-new-day",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/ps-plus-members-can-claim-free-psn-avatars-for-sonys-record-breaking-spider-man-brand-new-day",
-          "titre": "PS Plus Members Can Claim Free PSN Avatars for Sony's Record-Breaking Spider-Man: Brand New Day"
         }
       ]
     },
@@ -275,7 +305,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 7,
       "liens": [
         {
@@ -294,7 +324,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 6.0,
+      "heures": 8.0,
       "chaleur": 7,
       "liens": [
         {
@@ -317,7 +347,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 7,
       "liens": [
         {
@@ -336,7 +366,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.0,
+      "heures": 9.0,
       "chaleur": 7,
       "liens": [
         {
@@ -360,7 +390,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 2,
-      "heures": 7.0,
+      "heures": 9.0,
       "chaleur": 7,
       "liens": [
         {
@@ -383,31 +413,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/modder-who-taunted-try-me-rockstar-with-gta-5-switch-port-is-thankful-for-take-twos-mercy-as-lawyers-shut-it-down/",
           "titre": "Modder who taunted ‘try me Rockstar’ with GTA 5 Switch port is ‘thankful for Take-Two’s mercy’ as lawyers shut it down"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-will-simulate-hurricanes-rainbows-and-persistent-dynam",
-      "titre": "GTA 6 will simulate hurricanes, rainbows and persistent, dynamic clouds, among other efforts to make you stop doing crime and become a weather nerd",
-      "url": "https://www.rockpapershotgun.com/gta-6-will-simulate-hurricanes-rainbows-and-persistent-dynamic-clouds-among-other-efforts-to-make-you-stop-doing-crime-and-become-a-weather-nerd",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/gta-6-will-simulate-hurricanes-rainbows-and-persistent-dynamic-clouds-among-other-efforts-to-make-you-stop-doing-crime-and-become-a-weather-nerd",
-          "titre": "GTA 6 will simulate hurricanes, rainbows and persistent, dynamic clouds, among other efforts to make you stop doing crime and become a weather nerd"
         }
       ]
     },
@@ -556,20 +568,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "licensing-expo",
-      "titre": "Licensing Expo",
-      "url": "https://www.gamedeveloper.comwww.brandlicensingexpo.com",
+      "id": "valve-says-deadlock-is-still-too-unfinished-to-release-publi",
+      "titre": "Valve says Deadlock is still too unfinished to release publicly, but has hero cosmetics and new game modes in the works",
+      "url": "https://www.pcgamer.com/games/moba/valve-says-deadlock-is-still-too-unfinished-to-release-publicly-but-has-hero-cosmetics-and-new-game-modes-in-the-works/",
       "sources": [
-        "Game Developer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 1.5,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.comwww.brandlicensingexpo.com",
-          "titre": "Licensing Expo"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/valve-says-deadlock-is-still-too-unfinished-to-release-publicly-but-has-hero-cosmetics-and-new-game-modes-in-the-works/",
+          "titre": "Valve says Deadlock is still too unfinished to release publicly, but has hero cosmetics and new game modes in the works"
         }
       ]
     },
@@ -581,7 +593,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
@@ -599,7 +611,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -617,7 +629,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -635,67 +647,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/software/ai/the-americans-have-officially-renamed-artificial-intelligence-to-super-intelligence-which-should-fix-everything/",
           "titre": "The Americans have officially renamed artificial intelligence to 'Super Intelligence,' which should fix everything"
-        }
-      ]
-    },
-    {
-      "id": "ubisoft-montreal-employees-launch-collective-action-to-prese",
-      "titre": "Ubisoft Montreal employees launch collective action to preserve hybrid work schedule",
-      "url": "https://www.gamedeveloper.com/production/ubisoft-montreal-employees-launch-collective-action-to-preserve-hybrid-work-schedule",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production/ubisoft-montreal-employees-launch-collective-action-to-preserve-hybrid-work-schedule",
-          "titre": "Ubisoft Montreal employees launch collective action to preserve hybrid work schedule"
-        }
-      ]
-    },
-    {
-      "id": "to-celebrate-september-30-the-day-the-cop-inside-of-leon-ken",
-      "titre": "To celebrate September 30, the day the cop inside of Leon Kennedy died, here's my most traumatic encounters in Resident Evil",
-      "url": "https://www.pcgamer.com/games/resident-evil/to-celebrate-september-30-the-day-the-cop-inside-of-leon-kennedy-died-heres-my-most-traumatic-encounters-in-resident-evil/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/resident-evil/to-celebrate-september-30-the-day-the-cop-inside-of-leon-kennedy-died-heres-my-most-traumatic-encounters-in-resident-evil/",
-          "titre": "To celebrate September 30, the day the cop inside of Leon Kennedy died, here's my most traumatic encounters in Resident Evil"
-        }
-      ]
-    },
-    {
-      "id": "opinion-one-of-my-favourite-games-is-being-remade-so-why-do",
-      "titre": "Opinion: One Of My Favourite Games Is Being Remade, So Why Do I Feel So Down About It?",
-      "url": "https://www.nintendolife.com/features/opinion-one-of-my-favourite-games-is-being-remade-so-why-do-i-feel-so-down-about-it",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/opinion-one-of-my-favourite-games-is-being-remade-so-why-do-i-feel-so-down-about-it",
-          "titre": "Opinion: One Of My Favourite Games Is Being Remade, So Why Do I Feel So Down About It?"
         }
       ]
     },
@@ -707,7 +665,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.5,
       "chaleur": 6,
       "liens": [
         {
@@ -725,7 +683,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 6,
       "liens": [
         {
@@ -743,7 +701,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 7.0,
       "chaleur": 6,
       "liens": [
         {
@@ -761,7 +719,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 8.7,
       "chaleur": 6,
       "liens": [
         {
@@ -779,7 +737,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.5,
       "chaleur": 6,
       "liens": [
         {
@@ -797,7 +755,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.6,
       "chaleur": 6,
       "liens": [
         {
@@ -815,7 +773,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
@@ -833,7 +791,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
@@ -851,7 +809,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.5,
       "chaleur": 6,
       "liens": [
         {
@@ -869,13 +827,31 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/housemarque-and-bithell-games-join-game-republic-new-horizons-speaker-lineup-nintendo-to-host-open-session-for-developers-and-publishers",
           "titre": "Housemarque and Bithell Games join Game Republic New Horizons speaker lineup, Nintendo to host open session for developers and publishers"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-will-simulate-hurricanes-rainbows-and-persistent-dynam",
+      "titre": "GTA 6 will simulate hurricanes, rainbows and persistent, dynamic clouds, among other efforts to make you stop doing crime and become a weather nerd",
+      "url": "https://www.rockpapershotgun.com/gta-6-will-simulate-hurricanes-rainbows-and-persistent-dynamic-clouds-among-other-efforts-to-make-you-stop-doing-crime-and-become-a-weather-nerd",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 12.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/gta-6-will-simulate-hurricanes-rainbows-and-persistent-dynamic-clouds-among-other-efforts-to-make-you-stop-doing-crime-and-become-a-weather-nerd",
+          "titre": "GTA 6 will simulate hurricanes, rainbows and persistent, dynamic clouds, among other efforts to make you stop doing crime and become a weather nerd"
         }
       ]
     },
@@ -887,7 +863,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.1,
       "chaleur": 6,
       "liens": [
         {
@@ -905,7 +881,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 31.9,
+      "heures": 33.9,
       "chaleur": 6,
       "liens": [
         {
@@ -923,7 +899,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 22.9,
+      "heures": 24.9,
       "chaleur": 5,
       "liens": [
         {
@@ -941,7 +917,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 29.4,
       "chaleur": 5,
       "liens": [
         {
@@ -959,13 +935,67 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.9,
+      "heures": 31.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
           "titre": "More Nintendo LEGO Sets Are Being Retired This Year"
+        }
+      ]
+    },
+    {
+      "id": "ubisoft-montreal-employees-launch-collective-action-to-prese",
+      "titre": "Ubisoft Montreal employees launch collective action to preserve hybrid work schedule",
+      "url": "https://www.gamedeveloper.com/production/ubisoft-montreal-employees-launch-collective-action-to-preserve-hybrid-work-schedule",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/production/ubisoft-montreal-employees-launch-collective-action-to-preserve-hybrid-work-schedule",
+          "titre": "Ubisoft Montreal employees launch collective action to preserve hybrid work schedule"
+        }
+      ]
+    },
+    {
+      "id": "to-celebrate-september-30-the-day-the-cop-inside-of-leon-ken",
+      "titre": "To celebrate September 30, the day the cop inside of Leon Kennedy died, here's my most traumatic encounters in Resident Evil",
+      "url": "https://www.pcgamer.com/games/resident-evil/to-celebrate-september-30-the-day-the-cop-inside-of-leon-kennedy-died-heres-my-most-traumatic-encounters-in-resident-evil/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/resident-evil/to-celebrate-september-30-the-day-the-cop-inside-of-leon-kennedy-died-heres-my-most-traumatic-encounters-in-resident-evil/",
+          "titre": "To celebrate September 30, the day the cop inside of Leon Kennedy died, here's my most traumatic encounters in Resident Evil"
+        }
+      ]
+    },
+    {
+      "id": "opinion-one-of-my-favourite-games-is-being-remade-so-why-do",
+      "titre": "Opinion: One Of My Favourite Games Is Being Remade, So Why Do I Feel So Down About It?",
+      "url": "https://www.nintendolife.com/features/opinion-one-of-my-favourite-games-is-being-remade-so-why-do-i-feel-so-down-about-it",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/opinion-one-of-my-favourite-games-is-being-remade-so-why-do-i-feel-so-down-about-it",
+          "titre": "Opinion: One Of My Favourite Games Is Being Remade, So Why Do I Feel So Down About It?"
         }
       ]
     },
@@ -977,7 +1007,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +1025,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,7 +1043,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,7 +1061,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 7.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1049,7 +1079,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1060,20 +1090,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "live-i-m-hunting-for-the-least-probable-goku-on-nexus-mods-a",
-      "titre": "LIVE: I'm hunting for the least probable Goku on Nexus Mods and no god or government can stop me",
+      "id": "i-ve-identified-the-least-probable-goku-on-nexus-mods-and-it",
+      "titre": "I've identified the least probable Goku on Nexus Mods and it only took 5 hours",
       "url": "https://www.pcgamer.com/games/live/news/least-probably-goku-nexus-mods/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/live/news/least-probably-goku-nexus-mods/",
-          "titre": "LIVE: I'm hunting for the least probable Goku on Nexus Mods and no god or government can stop me"
+          "titre": "I've identified the least probable Goku on Nexus Mods and it only took 5 hours"
         }
       ]
     },
@@ -1085,7 +1115,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1103,7 +1133,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1121,7 +1151,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1139,7 +1169,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1148,27 +1178,9 @@ const VEILLE = {
           "titre": "Witcher 3 Remastered transmog: How to change armor appearance by unlocking Reforge"
         }
       ]
-    },
-    {
-      "id": "warlock-dungeons-dragons-developers-hope-to-set-aside-the-ba",
-      "titre": "Warlock: Dungeons & Dragons developers hope to set aside the Baldur's Gate 3 comparisons and build their own kind of open world",
-      "url": "https://www.eurogamer.net/warlock-dungeons-dragons-gamescom-preview",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 6.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/warlock-dungeons-dragons-gamescom-preview",
-          "titre": "Warlock: Dungeons & Dragons developers hope to set aside the Baldur's Gate 3 comparisons and build their own kind of open world"
-        }
-      ]
     }
   ],
   "alertes": [
-    "\"Xbox is not for sale\": CEO Asha Sharma says \"we will do whatever it takes\" to turn the console maker's fortunes around"
+    "Suda 51's Grasshopper Manufacture splits from NetEase"
   ]
 };
