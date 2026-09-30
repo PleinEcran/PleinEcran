@@ -1,38 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "30/09/2026 à 00h30",
+  "collecte": "30/09/2026 à 02h20",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "steam-s-discounts-and-events-tab-will-soon-be-fully-algorith",
-      "titre": "Steam's discounts and events tab will soon be fully algorithm-driven",
-      "url": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
-      "sources": [
-        "Game Developer",
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 3.0,
-      "chaleur": 14,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
-          "titre": "Steam's discounts and events tab will soon be fully algorithm-driven"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-algorithm-comes-for-steams-discounts-and-events/",
-          "titre": "The algorithm comes for Steam's Discounts and Events"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valve-is-changing-steams-homepage-discounts-and-events-section-to-go-the-way-of-the-algorithm-to-get-you-to-look-at-and-buy-obviously-more-games",
-          "titre": "Valve is changing Steam's homepage discounts and events section to go the way of the algorithm to get you to look at, and buy, obviously, more games"
-        }
-      ]
-    },
     {
       "id": "industry-snoop-says-naughty-dog-s-shaun-escayg-is-not-workin",
       "titre": "Industry Snoop Says Naughty Dog's Shaun Escayg Is Not Working on The Last of Us",
@@ -43,7 +13,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 1.0,
+      "heures": 2.8,
       "chaleur": 12,
       "liens": [
         {
@@ -64,6 +34,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "steam-s-discounts-and-events-tab-will-soon-be-fully-algorith",
+      "titre": "Steam's discounts and events tab will soon be fully algorithm-driven",
+      "url": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
+      "sources": [
+        "Game Developer",
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 4.8,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
+          "titre": "Steam's discounts and events tab will soon be fully algorithm-driven"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-algorithm-comes-for-steams-discounts-and-events/",
+          "titre": "The algorithm comes for Steam's Discounts and Events"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/valve-is-changing-steams-homepage-discounts-and-events-section-to-go-the-way-of-the-algorithm-to-get-you-to-look-at-and-buy-obviously-more-games",
+          "titre": "Valve is changing Steam's homepage discounts and events section to go the way of the algorithm to get you to look at, and buy, obviously, more games"
+        }
+      ]
+    },
+    {
       "id": "the-witcher-3-surges-to-its-highest-steam-concurrent-player",
       "titre": "The Witcher 3 surges to its highest Steam concurrent player-count ever, following Remastered edition's release",
       "url": "https://www.eurogamer.net/witcher-3-steam-most-played-record-remastered",
@@ -73,7 +73,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 8.1,
+      "heures": 9.9,
       "chaleur": 12,
       "liens": [
         {
@@ -102,7 +102,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 10.0,
+      "heures": 11.8,
       "chaleur": 9,
       "liens": [
         {
@@ -126,7 +126,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 12.4,
+      "heures": 14.3,
       "chaleur": 9,
       "liens": [
         {
@@ -149,31 +149,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.3,
       "chaleur": 8,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/xbox-begins-testing-its-platinum-trophy-alternative-18-years-after-sony-introduced-system",
           "titre": "Xbox Begins Testing Its Platinum Trophy Alternative, 18 Years After Sony Introduced System"
-        }
-      ]
-    },
-    {
-      "id": "ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre",
-      "titre": "Ace Combat 8 Steam reviewers are steaming mad about its pre-order bonus not being a standalone app",
-      "url": "https://www.pcgamer.com/games/sim/ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre-order-bonus-not-being-a-standalone-app/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre-order-bonus-not-being-a-standalone-app/",
-          "titre": "Ace Combat 8 Steam reviewers are steaming mad about its pre-order bonus not being a standalone app"
         }
       ]
     },
@@ -185,7 +167,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.1,
       "chaleur": 7,
       "liens": [
         {
@@ -203,7 +185,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.1,
       "chaleur": 7,
       "liens": [
         {
@@ -221,7 +203,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.3,
       "chaleur": 7,
       "liens": [
         {
@@ -240,7 +222,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.0,
+      "heures": 10.8,
       "chaleur": 7,
       "liens": [
         {
@@ -264,7 +246,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.5,
+      "heures": 11.3,
       "chaleur": 7,
       "liens": [
         {
@@ -280,30 +262,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "witcher-3-remastered-best-console-graphics-mode-performance",
-      "titre": "Witcher 3 Remastered best console graphics mode: Performance vs Ray Tracing",
-      "url": "https://www.videogameschronicle.com/guide/the-witcher-3-remastered-best-console-graphics-mode-performance-vs-ray-tracing/",
-      "sources": [
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 10.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/the-witcher-3-remastered-best-console-graphics-mode-performance-vs-ray-tracing/",
-          "titre": "Witcher 3 Remastered best console graphics mode: Performance vs Ray Tracing"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cd-projekt-release-full-updated-witcher-3-wild-hunt-remastered-system-specs-including-ray-tracing-and-path-tracing-requirements",
-          "titre": "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements"
-        }
-      ]
-    },
-    {
       "id": "report-sony-surveying-developers-about-dropping-playstation",
       "titre": "Report: Sony surveying developers about dropping PlayStation disc support",
       "url": "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support",
@@ -311,7 +269,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 33.1,
+      "heures": 34.9,
       "chaleur": 7,
       "liens": [
         {
@@ -502,6 +460,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "star-fox-version-1-2-0-is-now-live-here-are-the-full-patch-n",
+      "titre": "Star Fox Version 1.2.0 Is Now Live, Here Are The Full Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/09/star-fox-version-1-2-0-is-now-live-here-are-the-full-patch-notes",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/star-fox-version-1-2-0-is-now-live-here-are-the-full-patch-notes",
+          "titre": "Star Fox Version 1.2.0 Is Now Live, Here Are The Full Patch Notes"
+        }
+      ]
+    },
+    {
+      "id": "limited-run-announces-lord-of-the-rings-war-in-the-north-phy",
+      "titre": "Limited Run Announces Lord Of The Rings: War In The North Physical Release, Here's A Look",
+      "url": "https://www.nintendolife.com/news/2026/09/limited-run-announces-lord-of-the-rings-war-in-the-north-physical-release-heres-a-look",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/limited-run-announces-lord-of-the-rings-war-in-the-north-physical-release-heres-a-look",
+          "titre": "Limited Run Announces Lord Of The Rings: War In The North Physical Release, Here's A Look"
+        }
+      ]
+    },
+    {
       "id": "making-our-favorite-fps-modes-1v1-to-decide-the-greatest-of",
       "titre": "Making our favorite FPS modes 1v1 to decide the greatest of them all",
       "url": "https://www.pcgamer.com/games/fps/making-our-favorite-fps-modes-1v1-to-decide-the-greatest-of-them-all/",
@@ -509,7 +503,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -527,7 +521,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -545,7 +539,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -556,110 +550,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "deadlock-s-gigantic-new-update-gives-its-city-a-spooky-new-c",
-      "titre": "Deadlock's gigantic new update gives its city a spooky new coat of paint and debuts 6 new heroes, including the one and only Rat King",
-      "url": "https://www.pcgamer.com/games/moba/deadlocks-gigantic-new-update-gives-its-city-a-spooky-new-coat-of-paint-and-debuts-6-new-heroes-including-the-one-and-only-rat-king/",
+      "id": "ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre",
+      "titre": "Ace Combat 8 Steam reviewers are steaming mad about its pre-order bonus not being a standalone app",
+      "url": "https://www.pcgamer.com/games/sim/ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre-order-bonus-not-being-a-standalone-app/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.2,
+      "heures": 4.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/moba/deadlocks-gigantic-new-update-gives-its-city-a-spooky-new-coat-of-paint-and-debuts-6-new-heroes-including-the-one-and-only-rat-king/",
-          "titre": "Deadlock's gigantic new update gives its city a spooky new coat of paint and debuts 6 new heroes, including the one and only Rat King"
-        }
-      ]
-    },
-    {
-      "id": "diablo-5-director-promises-diablo-2-style-combat-where-the-r",
-      "titre": "Diablo 5 director promises Diablo 2-style combat where 'the right build' matters more than Diablo 4's action-heavy approach",
-      "url": "https://www.pcgamer.com/games/rpg/diablo-5-director-promises-diablo-2-style-combat-where-the-right-build-matters-more-than-diablo-4s-action-heavy-approach/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/diablo-5-director-promises-diablo-2-style-combat-where-the-right-build-matters-more-than-diablo-4s-action-heavy-approach/",
-          "titre": "Diablo 5 director promises Diablo 2-style combat where 'the right build' matters more than Diablo 4's action-heavy approach"
-        }
-      ]
-    },
-    {
-      "id": "with-deadlock-s-latest-updating-promising-six-new-heroes-ove",
-      "titre": "With Deadlock's latest updating promising six new heroes, over 10,000 new voice lines and too much more to mention, it's clear Valve are still pretty committed to it",
-      "url": "https://www.rockpapershotgun.com/with-deadlocks-latest-updating-promising-six-new-heroes-over-10000-new-voice-lines-and-too-much-more-to-mention-its-clear-valve-are-still-pretty-committed-to-it",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/with-deadlocks-latest-updating-promising-six-new-heroes-over-10000-new-voice-lines-and-too-much-more-to-mention-its-clear-valve-are-still-pretty-committed-to-it",
-          "titre": "With Deadlock's latest updating promising six new heroes, over 10,000 new voice lines and too much more to mention, it's clear Valve are still pretty committed to it"
-        }
-      ]
-    },
-    {
-      "id": "the-weird-experience-of-liking-a-game-before-it-s-fixed",
-      "titre": "The weird experience of liking a game before it's 'fixed'",
-      "url": "https://www.pcgamer.com/games/survival-crafting/the-weird-experience-of-liking-a-game-before-its-fixed/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/the-weird-experience-of-liking-a-game-before-its-fixed/",
-          "titre": "The weird experience of liking a game before it's 'fixed'"
-        }
-      ]
-    },
-    {
-      "id": "wardogs-boss-talks-balance-xp-and-why-the-endgame-is-sh-t-ri",
-      "titre": "Wardogs boss talks balance, XP, and why 'the endgame is sh*t' right now",
-      "url": "https://www.pcgamer.com/games/fps/wardogs-boss-talks-balance-xp-and-why-the-endgame-is-sh-t-right-now/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/wardogs-boss-talks-balance-xp-and-why-the-endgame-is-sh-t-right-now/",
-          "titre": "Wardogs boss talks balance, XP, and why 'the endgame is sh*t' right now"
-        }
-      ]
-    },
-    {
-      "id": "sometimes-the-thing-you-need-is-a-wonderfully-ethereal-physi",
-      "titre": "Sometimes the thing you need is a wonderfully ethereal physics platformer jam game where you are a little round guy with very stretchy arms called Big Stretch",
-      "url": "https://www.rockpapershotgun.com/sometimes-the-thing-you-need-is-a-wonderfully-ethereal-physics-platformer-jam-game-where-you-are-a-little-round-guy-with-very-stretchy-arms-called-big-stretch",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/sometimes-the-thing-you-need-is-a-wonderfully-ethereal-physics-platformer-jam-game-where-you-are-a-little-round-guy-with-very-stretchy-arms-called-big-stretch",
-          "titre": "Sometimes the thing you need is a wonderfully ethereal physics platformer jam game where you are a little round guy with very stretchy arms called Big Stretch"
+          "url": "https://www.pcgamer.com/games/sim/ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre-order-bonus-not-being-a-standalone-app/",
+          "titre": "Ace Combat 8 Steam reviewers are steaming mad about its pre-order bonus not being a standalone app"
         }
       ]
     },
@@ -671,7 +575,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.2,
       "chaleur": 6,
       "liens": [
         {
@@ -689,7 +593,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.3,
       "chaleur": 6,
       "liens": [
         {
@@ -707,7 +611,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.0,
+      "heures": 11.8,
       "chaleur": 6,
       "liens": [
         {
@@ -718,38 +622,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "resident-evil-film-success-reportedly-hands-ps5-ps4-remakes",
-      "titre": "Resident Evil Film Success Reportedly Hands PS5, PS4 Remakes Huge Player and Sales Boosts",
-      "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-success-reportedly-hands-ps5-ps4-remakes-huge-player-and-sales-boosts",
+      "id": "witcher-3-remastered-best-console-graphics-mode-performance",
+      "titre": "Witcher 3 Remastered best console graphics mode: Performance vs Ray Tracing",
+      "url": "https://www.videogameschronicle.com/guide/the-witcher-3-remastered-best-console-graphics-mode-performance-vs-ray-tracing/",
       "sources": [
-        "Push Square"
+        "Rock Paper Shotgun",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 11.5,
+      "reprises": 2,
+      "heures": 12.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-success-reportedly-hands-ps5-ps4-remakes-huge-player-and-sales-boosts",
-          "titre": "Resident Evil Film Success Reportedly Hands PS5, PS4 Remakes Huge Player and Sales Boosts"
-        }
-      ]
-    },
-    {
-      "id": "the-tower-of-zeldaga-is-a-free-retro-mash-up-of-zelda-and-dr",
-      "titre": "The Tower of Zeldaga is a free retro mash-up of Zelda and Druaga in which you rescue Ganondorf from some evil blonde queen",
-      "url": "https://www.rockpapershotgun.com/the-tower-of-zeldaga-is-a-free-retro-mash-up-of-zelda-and-druaga-in-which-you-rescue-ganondorf-from-some-evil-blonde-queen",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 6,
-      "liens": [
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/the-witcher-3-remastered-best-console-graphics-mode-performance-vs-ray-tracing/",
+          "titre": "Witcher 3 Remastered best console graphics mode: Performance vs Ray Tracing"
+        },
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-tower-of-zeldaga-is-a-free-retro-mash-up-of-zelda-and-druaga-in-which-you-rescue-ganondorf-from-some-evil-blonde-queen",
-          "titre": "The Tower of Zeldaga is a free retro mash-up of Zelda and Druaga in which you rescue Ganondorf from some evil blonde queen"
+          "url": "https://www.rockpapershotgun.com/cd-projekt-release-full-updated-witcher-3-wild-hunt-remastered-system-specs-including-ray-tracing-and-path-tracing-requirements",
+          "titre": "CD Projekt release full updated Witcher 3: Wild Hunt Remastered system specs, including ray-tracing and path-tracing requirements"
         }
       ]
     },
@@ -761,7 +653,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 13.8,
       "chaleur": 6,
       "liens": [
         {
@@ -779,13 +671,49 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.6,
+      "heures": 32.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
           "titre": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city"
+        }
+      ]
+    },
+    {
+      "id": "resident-evil-film-success-reportedly-hands-ps5-ps4-remakes",
+      "titre": "Resident Evil Film Success Reportedly Hands PS5, PS4 Remakes Huge Player and Sales Boosts",
+      "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-success-reportedly-hands-ps5-ps4-remakes-huge-player-and-sales-boosts",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 13.3,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-success-reportedly-hands-ps5-ps4-remakes-huge-player-and-sales-boosts",
+          "titre": "Resident Evil Film Success Reportedly Hands PS5, PS4 Remakes Huge Player and Sales Boosts"
+        }
+      ]
+    },
+    {
+      "id": "the-tower-of-zeldaga-is-a-free-retro-mash-up-of-zelda-and-dr",
+      "titre": "The Tower of Zeldaga is a free retro mash-up of Zelda and Druaga in which you rescue Ganondorf from some evil blonde queen",
+      "url": "https://www.rockpapershotgun.com/the-tower-of-zeldaga-is-a-free-retro-mash-up-of-zelda-and-druaga-in-which-you-rescue-ganondorf-from-some-evil-blonde-queen",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 13.7,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-tower-of-zeldaga-is-a-free-retro-mash-up-of-zelda-and-druaga-in-which-you-rescue-ganondorf-from-some-evil-blonde-queen",
+          "titre": "The Tower of Zeldaga is a free retro mash-up of Zelda and Druaga in which you rescue Ganondorf from some evil blonde queen"
         }
       ]
     },
@@ -797,7 +725,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.6,
+      "heures": 22.4,
       "chaleur": 5,
       "liens": [
         {
@@ -815,7 +743,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.6,
+      "heures": 23.4,
       "chaleur": 5,
       "liens": [
         {
@@ -833,7 +761,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 31.3,
       "chaleur": 5,
       "liens": [
         {
@@ -851,13 +779,121 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.9,
+      "heures": 33.8,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/the-switch-2-console-is-currently-cheaper-than-ever-in-the-uk",
           "titre": "The Switch 2 Console Is Currently Cheaper Than Ever In The UK"
+        }
+      ]
+    },
+    {
+      "id": "deadlock-s-gigantic-new-update-gives-its-city-a-spooky-new-c",
+      "titre": "Deadlock's gigantic new update gives its city a spooky new coat of paint and debuts 6 new heroes, including the one and only Rat King",
+      "url": "https://www.pcgamer.com/games/moba/deadlocks-gigantic-new-update-gives-its-city-a-spooky-new-coat-of-paint-and-debuts-6-new-heroes-including-the-one-and-only-rat-king/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/deadlocks-gigantic-new-update-gives-its-city-a-spooky-new-coat-of-paint-and-debuts-6-new-heroes-including-the-one-and-only-rat-king/",
+          "titre": "Deadlock's gigantic new update gives its city a spooky new coat of paint and debuts 6 new heroes, including the one and only Rat King"
+        }
+      ]
+    },
+    {
+      "id": "diablo-5-director-promises-diablo-2-style-combat-where-the-r",
+      "titre": "Diablo 5 director promises Diablo 2-style combat where 'the right build' matters more than Diablo 4's action-heavy approach",
+      "url": "https://www.pcgamer.com/games/rpg/diablo-5-director-promises-diablo-2-style-combat-where-the-right-build-matters-more-than-diablo-4s-action-heavy-approach/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/diablo-5-director-promises-diablo-2-style-combat-where-the-right-build-matters-more-than-diablo-4s-action-heavy-approach/",
+          "titre": "Diablo 5 director promises Diablo 2-style combat where 'the right build' matters more than Diablo 4's action-heavy approach"
+        }
+      ]
+    },
+    {
+      "id": "with-deadlock-s-latest-updating-promising-six-new-heroes-ove",
+      "titre": "With Deadlock's latest updating promising six new heroes, over 10,000 new voice lines and too much more to mention, it's clear Valve are still pretty committed to it",
+      "url": "https://www.rockpapershotgun.com/with-deadlocks-latest-updating-promising-six-new-heroes-over-10000-new-voice-lines-and-too-much-more-to-mention-its-clear-valve-are-still-pretty-committed-to-it",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/with-deadlocks-latest-updating-promising-six-new-heroes-over-10000-new-voice-lines-and-too-much-more-to-mention-its-clear-valve-are-still-pretty-committed-to-it",
+          "titre": "With Deadlock's latest updating promising six new heroes, over 10,000 new voice lines and too much more to mention, it's clear Valve are still pretty committed to it"
+        }
+      ]
+    },
+    {
+      "id": "the-weird-experience-of-liking-a-game-before-it-s-fixed",
+      "titre": "The weird experience of liking a game before it's 'fixed'",
+      "url": "https://www.pcgamer.com/games/survival-crafting/the-weird-experience-of-liking-a-game-before-its-fixed/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/the-weird-experience-of-liking-a-game-before-its-fixed/",
+          "titre": "The weird experience of liking a game before it's 'fixed'"
+        }
+      ]
+    },
+    {
+      "id": "wardogs-boss-talks-balance-xp-and-why-the-endgame-is-sh-t-ri",
+      "titre": "Wardogs boss talks balance, XP, and why 'the endgame is sh*t' right now",
+      "url": "https://www.pcgamer.com/games/fps/wardogs-boss-talks-balance-xp-and-why-the-endgame-is-sh-t-right-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/wardogs-boss-talks-balance-xp-and-why-the-endgame-is-sh-t-right-now/",
+          "titre": "Wardogs boss talks balance, XP, and why 'the endgame is sh*t' right now"
+        }
+      ]
+    },
+    {
+      "id": "sometimes-the-thing-you-need-is-a-wonderfully-ethereal-physi",
+      "titre": "Sometimes the thing you need is a wonderfully ethereal physics platformer jam game where you are a little round guy with very stretchy arms called Big Stretch",
+      "url": "https://www.rockpapershotgun.com/sometimes-the-thing-you-need-is-a-wonderfully-ethereal-physics-platformer-jam-game-where-you-are-a-little-round-guy-with-very-stretchy-arms-called-big-stretch",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/sometimes-the-thing-you-need-is-a-wonderfully-ethereal-physics-platformer-jam-game-where-you-are-a-little-round-guy-with-very-stretchy-arms-called-big-stretch",
+          "titre": "Sometimes the thing you need is a wonderfully ethereal physics platformer jam game where you are a little round guy with very stretchy arms called Big Stretch"
         }
       ]
     },
@@ -869,7 +905,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +923,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +941,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +959,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +977,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +995,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +1013,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +1031,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,7 +1049,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,7 +1067,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1049,7 +1085,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1067,7 +1103,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1085,7 +1121,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1103,49 +1139,13 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
           "titre": "Control Resonant director lays out case for avoiding excessive 'yellow paint'"
-        }
-      ]
-    },
-    {
-      "id": "you-can-now-watch-one-of-this-year-s-best-orchestral-game-mu",
-      "titre": "You can now watch one of this year's best orchestral game-music performances, celebrating Hades 1 and 2, online for free",
-      "url": "https://www.eurogamer.net/watch-hades-orchestral-performance-recording",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 9.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/watch-hades-orchestral-performance-recording",
-          "titre": "You can now watch one of this year's best orchestral game-music performances, celebrating Hades 1 and 2, online for free"
-        }
-      ]
-    },
-    {
-      "id": "i-perished-in-the-flesh-pipes-of-darktide-s-depths-of-the-da",
-      "titre": "I perished in the flesh pipes of Darktide's Depths of the Damned update, and you will too",
-      "url": "https://www.rockpapershotgun.com/i-perished-in-the-flesh-pipes-of-darktides-depths-of-the-damned-update-and-you-will-too",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-perished-in-the-flesh-pipes-of-darktides-depths-of-the-damned-update-and-you-will-too",
-          "titre": "I perished in the flesh pipes of Darktide's Depths of the Damned update, and you will too"
         }
       ]
     }
