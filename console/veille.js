@@ -1,25 +1,25 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "30/09/2026 à 08h25",
+  "collecte": "30/09/2026 à 10h23",
   "seuil": 14,
   "sujets": [
     {
-      "id": "steam-s-discounts-and-events-tab-will-soon-be-fully-algorith",
-      "titre": "Steam's discounts and events tab will soon be fully algorithm-driven",
-      "url": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
+      "id": "valve-is-updating-steam-s-discount-events-section-to-become",
+      "titre": "Valve is updating Steam's Discount & Events section to become more \"dynamic and personalised\"",
+      "url": "https://www.gamesindustry.biz/valve-is-updating-steams-discount-events-section-to-become-more-dynamic-and-personalised",
       "sources": [
-        "Game Developer",
+        "GamesIndustry.biz",
         "PC Gamer",
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 10.9,
-      "chaleur": 12,
+      "heures": 1.0,
+      "chaleur": 14,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
-          "titre": "Steam's discounts and events tab will soon be fully algorithm-driven"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/valve-is-updating-steams-discount-events-section-to-become-more-dynamic-and-personalised",
+          "titre": "Valve is updating Steam's Discount & Events section to become more \"dynamic and personalised\""
         },
         {
           "source": "PC Gamer",
@@ -34,36 +34,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-witcher-3-surges-to-its-highest-steam-concurrent-player",
-      "titre": "The Witcher 3 surges to its highest Steam concurrent player-count ever, following Remastered edition's release",
-      "url": "https://www.eurogamer.net/witcher-3-steam-most-played-record-remastered",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 16.0,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-steam-most-played-record-remastered",
-          "titre": "The Witcher 3 surges to its highest Steam concurrent player-count ever, following Remastered edition's release"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-simulate-witcher-2-save-or-not/",
-          "titre": "Witcher 3 Remastered: Simulate Witcher 2 save, on or off?"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/round-up-the-first-reviews-for-the-witcher-3-remastered-are-in",
-          "titre": "Round Up: The First Reviews For The Witcher 3 Remastered Are In"
-        }
-      ]
-    },
-    {
       "id": "industry-snoop-says-naughty-dog-s-shaun-escayg-is-not-workin",
       "titre": "Industry Snoop Says Naughty Dog's Shaun Escayg Is Not Working on The Last of Us",
       "url": "https://www.pushsquare.com/news/2026/09/industry-snoop-says-naughty-dogs-shaun-escayg-is-not-working-on-the-last-of-us",
@@ -73,7 +43,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 8.9,
+      "heures": 10.9,
       "chaleur": 10,
       "liens": [
         {
@@ -94,6 +64,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "shuhei-yoshida-says-sony-and-nintendo-should-keep-the-curren",
+      "titre": "Shuhei Yoshida says Sony and Nintendo should ‘keep the current generation as long as possible’ as Xbox goes next-gen",
+      "url": "https://www.videogameschronicle.com/news/shuhei-yoshida-says-sony-and-nintendo-should-keep-the-current-generation-as-long-as-possible-as-xbox-goes-next-gen/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/shuhei-yoshida-says-sony-and-nintendo-should-keep-the-current-generation-as-long-as-possible-as-xbox-goes-next-gen/",
+          "titre": "Shuhei Yoshida says Sony and Nintendo should ‘keep the current generation as long as possible’ as Xbox goes next-gen"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-will-simulate-hurricanes-rainbows-and-persistent-dynam",
+      "titre": "GTA 6 will simulate hurricanes, rainbows and persistent, dynamic clouds, among other efforts to make you stop doing crime and become a weather nerd",
+      "url": "https://www.rockpapershotgun.com/gta-6-will-simulate-hurricanes-rainbows-and-persistent-dynamic-clouds-among-other-efforts-to-make-you-stop-doing-crime-and-become-a-weather-nerd",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/gta-6-will-simulate-hurricanes-rainbows-and-persistent-dynamic-clouds-among-other-efforts-to-make-you-stop-doing-crime-and-become-a-weather-nerd",
+          "titre": "GTA 6 will simulate hurricanes, rainbows and persistent, dynamic clouds, among other efforts to make you stop doing crime and become a weather nerd"
+        }
+      ]
+    },
+    {
       "id": "call-of-duty-modern-warfare-4-is-getting-a-counter-strike-in",
       "titre": "Call of Duty: Modern Warfare 4 is getting a Counter-Strike-inspired game mode that I can't believe it never had before",
       "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-counter-strike-collateral",
@@ -101,7 +107,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.1,
       "chaleur": 9,
       "liens": [
         {
@@ -120,7 +126,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 20.3,
+      "heures": 22.3,
       "chaleur": 9,
       "liens": [
         {
@@ -136,26 +142,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "more-nintendo-lego-sets-are-being-retired-this-year",
-      "titre": "More Nintendo LEGO Sets Are Being Retired This Year",
-      "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
+      "id": "after-being-tested-by-insider-members-xbox-s-disc-to-digital",
+      "titre": "After being tested by Insider members, Xbox’s disc-to-digital feature is now rolling out to all players",
+      "url": "https://www.videogameschronicle.com/news/after-being-tested-by-insider-members-xboxs-disc-to-digital-feature-is-now-rolling-out-to-all-players/",
       "sources": [
-        "Nintendo Life",
         "VGC"
       ],
-      "reprises": 2,
-      "heures": 17.9,
+      "reprises": 1,
+      "heures": 1.4,
       "chaleur": 8,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
-          "titre": "More Nintendo LEGO Sets Are Being Retired This Year"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/after-being-tested-by-insider-members-xboxs-disc-to-digital-feature-is-now-rolling-out-to-all-players/",
+          "titre": "After being tested by Insider members, Xbox’s disc-to-digital feature is now rolling out to all players"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-surges-to-its-highest-steam-concurrent-player",
+      "titre": "The Witcher 3 surges to its highest Steam concurrent player-count ever, following Remastered edition's release",
+      "url": "https://www.eurogamer.net/witcher-3-steam-most-played-record-remastered",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 18.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/witcher-3-steam-most-played-record-remastered",
+          "titre": "The Witcher 3 surges to its highest Steam concurrent player-count ever, following Remastered edition's release"
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/34-video-game-lego-sets-are-retiring-at-the-end-of-the-year-including-animal-crossing-horizon-and-sonic-sets/",
-          "titre": "34 video game Lego sets are retiring at the end of the year, including Animal Crossing, Horizon and Sonic sets"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/round-up-the-first-reviews-for-the-witcher-3-remastered-are-in",
+          "titre": "Round Up: The First Reviews For The Witcher 3 Remastered Are In"
         }
       ]
     },
@@ -340,6 +364,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "getting-sidetracked-doesn-t-feel-too-unnatural-baldur-s-gat",
+      "titre": "\"Getting sidetracked doesn’t feel too unnatural\": Baldur's Gate 3 Act Two Expansion modder on how they seamlessly fit a \"detour\" to fight an army into the RPG's plot",
+      "url": "https://www.rockpapershotgun.com/getting-sidetracked-doesnt-feel-too-unnatural-baldurs-gate-3-act-two-expansion-modder-on-how-they-seamlessly-fit-a-detour-to-fight-an-army-into-the-rpgs-plot",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/getting-sidetracked-doesnt-feel-too-unnatural-baldurs-gate-3-act-two-expansion-modder-on-how-they-seamlessly-fit-a-detour-to-fight-an-army-into-the-rpgs-plot",
+          "titre": "\"Getting sidetracked doesn’t feel too unnatural\": Baldur's Gate 3 Act Two Expansion modder on how they seamlessly fit a \"detour\" to fight an army into the RPG's plot"
+        }
+      ]
+    },
+    {
+      "id": "halo-s-former-creative-director-urges-activision-to-hire-lai",
+      "titre": "Halo’s former creative director urges Activision to hire laid off Bungie, Halo Studios devs",
+      "url": "https://www.videogameschronicle.com/news/halos-former-creative-director-urges-activision-to-hire-laid-off-bungie-halo-studios-devs/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/halos-former-creative-director-urges-activision-to-hire-laid-off-bungie-halo-studios-devs/",
+          "titre": "Halo’s former creative director urges Activision to hire laid off Bungie, Halo Studios devs"
+        }
+      ]
+    },
+    {
+      "id": "preview-ps5-remake-danganronpa-2x2-revives-the-cult-series-w",
+      "titre": "Preview: PS5 Remake Danganronpa 2x2 Revives the Cult Series with a Shocking New Mode",
+      "url": "https://www.pushsquare.com/previews/ps5-remake-danganronpa-2x2-revives-the-cult-series-with-a-shocking-new-mode",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/previews/ps5-remake-danganronpa-2x2-revives-the-cult-series-with-a-shocking-new-mode",
+          "titre": "Preview: PS5 Remake Danganronpa 2x2 Revives the Cult Series with a Shocking New Mode"
+        }
+      ]
+    },
+    {
       "id": "global-game-content-revenue-forecast-to-rise-2-3-to-229-1bn",
       "titre": "Global game content revenue forecast to rise 2.3% to $229.1bn in 2030, supported by PC and Asia-Pacific market",
       "url": "https://www.gamesindustry.biz/global-game-content-revenue-forecast-to-rise-23-to-2291bn-in-2030-supported-by-pc-and-asia-pacific-market",
@@ -347,7 +425,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -365,31 +443,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/xbox-begins-testing-its-platinum-trophy-alternative-18-years-after-sony-introduced-system",
           "titre": "Xbox Begins Testing Its Platinum Trophy Alternative, 18 Years After Sony Introduced System"
-        }
-      ]
-    },
-    {
-      "id": "ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre",
-      "titre": "Ace Combat 8 Steam reviewers are steaming mad about its pre-order bonus not being a standalone app",
-      "url": "https://www.pcgamer.com/games/sim/ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre-order-bonus-not-being-a-standalone-app/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre-order-bonus-not-being-a-standalone-app/",
-          "titre": "Ace Combat 8 Steam reviewers are steaming mad about its pre-order bonus not being a standalone app"
         }
       ]
     },
@@ -401,7 +461,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.1,
       "chaleur": 6,
       "liens": [
         {
@@ -419,7 +479,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 17.1,
       "chaleur": 6,
       "liens": [
         {
@@ -437,7 +497,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 6,
       "liens": [
         {
@@ -456,7 +516,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 16.9,
+      "heures": 18.9,
       "chaleur": 6,
       "liens": [
         {
@@ -472,30 +532,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-witcher-3-remastered-ps5-pays-homage-to-the-worst-dlc-in",
-      "titre": "The Witcher 3 Remastered PS5 Pays Homage to the Worst DLC in History",
-      "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pays-homage-to-the-worst-dlc-in-history",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 17.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pays-homage-to-the-worst-dlc-in-history",
-          "titre": "The Witcher 3 Remastered PS5 Pays Homage to the Worst DLC in History"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/the-witcher-3-wild-hunt-remastered-is-out-now-heres-how-to-start-playing/",
-          "titre": "The Witcher 3 Wild Hunt Remastered is out now, here’s how to start playing"
-        }
-      ]
-    },
-    {
       "id": "why-should-we-just-give-up-the-entire-month-of-november-the",
       "titre": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6",
       "url": "https://www.gamesindustry.biz/why-should-we-just-give-up-the-entire-month-of-november-the-indie-games-going-head-to-head-with-gta-6",
@@ -503,13 +539,49 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 21.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/why-should-we-just-give-up-the-entire-month-of-november-the-indie-games-going-head-to-head-with-gta-6",
           "titre": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6"
+        }
+      ]
+    },
+    {
+      "id": "ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre",
+      "titre": "Ace Combat 8 Steam reviewers are steaming mad about its pre-order bonus not being a standalone app",
+      "url": "https://www.pcgamer.com/games/sim/ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre-order-bonus-not-being-a-standalone-app/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 12.3,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre-order-bonus-not-being-a-standalone-app/",
+          "titre": "Ace Combat 8 Steam reviewers are steaming mad about its pre-order bonus not being a standalone app"
+        }
+      ]
+    },
+    {
+      "id": "steam-s-discounts-and-events-tab-will-soon-be-fully-algorith",
+      "titre": "Steam's discounts and events tab will soon be fully algorithm-driven",
+      "url": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 12.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
+          "titre": "Steam's discounts and events tab will soon be fully algorithm-driven"
         }
       ]
     },
@@ -521,7 +593,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.3,
       "chaleur": 5,
       "liens": [
         {
@@ -539,13 +611,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/mobapad-c2-lite-controller-the-best-budget-pad-for-switch-2-probably",
           "titre": "Review: Mobapad C2 Lite Controller - The Best Budget Pad For Switch 2? Probably"
+        }
+      ]
+    },
+    {
+      "id": "more-nintendo-lego-sets-are-being-retired-this-year",
+      "titre": "More Nintendo LEGO Sets Are Being Retired This Year",
+      "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 19.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
+          "titre": "More Nintendo LEGO Sets Are Being Retired This Year"
         }
       ]
     },
@@ -557,31 +647,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 19.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/persona-sales-report-confirms-north-america-as-series-biggest-market",
           "titre": "Persona Sales Report Confirms North America as Series' Biggest Market"
-        }
-      ]
-    },
-    {
-      "id": "resident-evil-film-success-reportedly-hands-ps5-ps4-remakes",
-      "titre": "Resident Evil Film Success Reportedly Hands PS5, PS4 Remakes Huge Player and Sales Boosts",
-      "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-success-reportedly-hands-ps5-ps4-remakes-huge-player-and-sales-boosts",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 19.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/resident-evil-film-success-reportedly-hands-ps5-ps4-remakes-huge-player-and-sales-boosts",
-          "titre": "Resident Evil Film Success Reportedly Hands PS5, PS4 Remakes Huge Player and Sales Boosts"
         }
       ]
     },
@@ -593,7 +665,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.7,
+      "heures": 21.7,
       "chaleur": 5,
       "liens": [
         {
@@ -611,7 +683,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.5,
+      "heures": 30.5,
       "chaleur": 5,
       "liens": [
         {
@@ -629,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.5,
+      "heures": 31.5,
       "chaleur": 5,
       "liens": [
         {
@@ -647,7 +719,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -665,7 +737,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -683,7 +755,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -701,7 +773,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -719,7 +791,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -737,7 +809,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
@@ -755,8 +827,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -773,8 +845,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -791,8 +863,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -809,8 +881,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -827,8 +899,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -845,8 +917,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -863,7 +935,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -881,7 +953,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -899,7 +971,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -917,7 +989,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -935,7 +1007,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.3,
       "chaleur": 3,
       "liens": [
         {
@@ -953,7 +1025,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.3,
       "chaleur": 3,
       "liens": [
         {
@@ -971,7 +1043,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -989,7 +1061,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +1079,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,7 +1097,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,7 +1115,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1052,97 +1124,9 @@ const VEILLE = {
           "titre": "Set up your own ramen bar and explore a voxel cyberpunk city in the slice-of-lifey Nivalis Nights, out now"
         }
       ]
-    },
-    {
-      "id": "fantastic-sandbox-cop-game-the-precinct-gets-a-huge-update-o",
-      "titre": "Fantastic Sandbox Cop Game The Precinct Gets a Huge Update on PS5",
-      "url": "https://www.pushsquare.com/news/2026/09/fantastic-sandbox-cop-game-the-precinct-gets-a-huge-update-on-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 16.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/fantastic-sandbox-cop-game-the-precinct-gets-a-huge-update-on-ps5",
-          "titre": "Fantastic Sandbox Cop Game The Precinct Gets a Huge Update on PS5"
-        }
-      ]
-    },
-    {
-      "id": "you-guys-are-gonna-have-your-minds-blown-troy-baker-says-we",
-      "titre": "'You Guys Are Gonna Have Your Minds Blown': Troy Baker Says We're Not Ready for Intergalactic",
-      "url": "https://www.pushsquare.com/news/2026/09/you-guys-are-gonna-have-your-minds-blown-troy-baker-says-were-not-ready-for-intergalactic",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 16.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/you-guys-are-gonna-have-your-minds-blown-troy-baker-says-were-not-ready-for-intergalactic",
-          "titre": "'You Guys Are Gonna Have Your Minds Blown': Troy Baker Says We're Not Ready for Intergalactic"
-        }
-      ]
-    },
-    {
-      "id": "control-resonant-director-lays-out-case-for-avoiding-excessi",
-      "titre": "Control Resonant director lays out case for avoiding excessive 'yellow paint'",
-      "url": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 16.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
-          "titre": "Control Resonant director lays out case for avoiding excessive 'yellow paint'"
-        }
-      ]
-    },
-    {
-      "id": "you-can-now-watch-one-of-this-year-s-best-orchestral-game-mu",
-      "titre": "You can now watch one of this year's best orchestral game-music performances, celebrating Hades 1 and 2, online for free",
-      "url": "https://www.eurogamer.net/watch-hades-orchestral-performance-recording",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 16.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/watch-hades-orchestral-performance-recording",
-          "titre": "You can now watch one of this year's best orchestral game-music performances, celebrating Hades 1 and 2, online for free"
-        }
-      ]
-    },
-    {
-      "id": "i-perished-in-the-flesh-pipes-of-darktide-s-depths-of-the-da",
-      "titre": "I perished in the flesh pipes of Darktide's Depths of the Damned update, and you will too",
-      "url": "https://www.rockpapershotgun.com/i-perished-in-the-flesh-pipes-of-darktides-depths-of-the-damned-update-and-you-will-too",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-perished-in-the-flesh-pipes-of-darktides-depths-of-the-damned-update-and-you-will-too",
-          "titre": "I perished in the flesh pipes of Darktide's Depths of the Damned update, and you will too"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Valve is updating Steam's Discount & Events section to become more \"dynamic and personalised\""
+  ]
 };
