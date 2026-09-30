@@ -1,21 +1,27 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "30/09/2026 à 14h25",
+  "collecte": "30/09/2026 à 16h25",
   "seuil": 14,
   "sujets": [
     {
-      "id": "grasshopper-manufacture-becomes-independent-as-it-splits-fro",
-      "titre": "Grasshopper Manufacture becomes independent as it splits from NetEase Games",
-      "url": "https://www.gamesindustry.biz/grasshopper-manufacture-becomes-independent-as-it-splits-from-netease-games",
+      "id": "no-game-no-life-grasshopper-manufacture-have-leapt-from-the",
+      "titre": "\"NO GAME NO LIFE\": Grasshopper Manufacture have leapt from the jaws of NetEase and gone indie again",
+      "url": "https://www.rockpapershotgun.com/no-game-no-life-grasshopper-manufacture-have-leapt-from-the-jaws-of-netease-and-gone-indie-again",
       "sources": [
         "GamesIndustry.biz",
         "Push Square",
+        "Rock Paper Shotgun",
         "VGC"
       ],
-      "reprises": 3,
-      "heures": 0.3,
-      "chaleur": 12,
+      "reprises": 4,
+      "heures": 0.9,
+      "chaleur": 15,
       "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/no-game-no-life-grasshopper-manufacture-have-leapt-from-the-jaws-of-netease-and-gone-indie-again",
+          "titre": "\"NO GAME NO LIFE\": Grasshopper Manufacture have leapt from the jaws of NetEase and gone indie again"
+        },
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/grasshopper-manufacture-becomes-independent-as-it-splits-from-netease-games",
@@ -34,32 +40,32 @@ const VEILLE = {
       ]
     },
     {
-      "id": "valve-is-updating-steam-s-discount-events-section-to-become",
-      "titre": "Valve is updating Steam's Discount & Events section to become more \"dynamic and personalised\"",
-      "url": "https://www.gamesindustry.biz/valve-is-updating-steams-discount-events-section-to-become-more-dynamic-and-personalised",
+      "id": "crimson-desert-s-first-expansion-charting-the-unknown-delaye",
+      "titre": "Crimson Desert's first expansion, Charting the Unknown, delayed so Pearl Abyss get more time to polish and stabilise the red pudding",
+      "url": "https://www.rockpapershotgun.com/crimson-deserts-first-expansion-charting-the-unknown-delayed-so-pearl-abyss-get-more-time-to-polish-and-stabilise-the-red-pudding",
       "sources": [
-        "GamesIndustry.biz",
-        "PC Gamer",
+        "Eurogamer",
+        "Push Square",
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 5.0,
-      "chaleur": 12,
+      "heures": 1.9,
+      "chaleur": 14,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/valve-is-updating-steams-discount-events-section-to-become-more-dynamic-and-personalised",
-          "titre": "Valve is updating Steam's Discount & Events section to become more \"dynamic and personalised\""
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-algorithm-comes-for-steams-discounts-and-events/",
-          "titre": "The algorithm comes for Steam's Discounts and Events"
-        },
-        {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valve-is-changing-steams-homepage-discounts-and-events-section-to-go-the-way-of-the-algorithm-to-get-you-to-look-at-and-buy-obviously-more-games",
-          "titre": "Valve is changing Steam's homepage discounts and events section to go the way of the algorithm to get you to look at, and buy, obviously, more games"
+          "url": "https://www.rockpapershotgun.com/crimson-deserts-first-expansion-charting-the-unknown-delayed-so-pearl-abyss-get-more-time-to-polish-and-stabilise-the-red-pudding",
+          "titre": "Crimson Desert's first expansion, Charting the Unknown, delayed so Pearl Abyss get more time to polish and stabilise the red pudding"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/crimson-desert-charting-the-unknown-dlc-delayed",
+          "titre": "Crimson Desert's Charting the Unknown DLC delayed by two weeks \"to deliver a more polished and stable gameplay experience\""
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/crimson-deserts-huge-expansion-pack-has-been-delayed-but-not-by-much",
+          "titre": "Crimson Desert's Huge Expansion Pack Has Been Delayed, But Not By Much"
         }
       ]
     },
@@ -72,7 +78,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 11,
       "liens": [
         {
@@ -88,50 +94,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "acclaimed-vampire-survivors-inspired-survival-game-hits-swit",
-      "titre": "Acclaimed Vampire Survivors-Inspired Survival Game Hits Switch Next Month",
-      "url": "https://www.nintendolife.com/news/2026/09/acclaimed-vampire-survivors-inspired-survival-game-hits-switch-next-month",
+      "id": "thanks-logitech-your-new-ai-fueled-game-clipping-software-ma",
+      "titre": "Thanks Logitech, your new AI-fueled game clipping software makes me look trash at Counter-Strike, but I'mma keep it installed",
+      "url": "https://www.pcgamer.com/software/ai/thanks-logitech-your-new-ai-fueled-game-clipping-software-makes-me-look-trash-at-counter-strike-but-imma-keep-it-installed/",
       "sources": [
-        "Nintendo Life",
-        "Push Square"
+        "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 3.9,
-      "chaleur": 11,
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/acclaimed-vampire-survivors-inspired-survival-game-hits-switch-next-month",
-          "titre": "Acclaimed Vampire Survivors-Inspired Survival Game Hits Switch Next Month"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/vampire-survivors-fans-take-note-one-of-its-best-clones-is-heading-to-ps5-next-month",
-          "titre": "Vampire Survivors Fans, Take Note: One of Its Best Clones Is Heading to PS5 Next Month"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/thanks-logitech-your-new-ai-fueled-game-clipping-software-makes-me-look-trash-at-counter-strike-but-imma-keep-it-installed/",
+          "titre": "Thanks Logitech, your new AI-fueled game clipping software makes me look trash at Counter-Strike, but I'mma keep it installed"
         }
       ]
     },
     {
-      "id": "my-god-this-new-lighting-is-lifeless-the-witcher-3-remaster",
-      "titre": "\"My god this new lighting is lifeless\" - The Witcher 3 Remastered Edition divides players for a few key reasons",
-      "url": "https://www.eurogamer.net/witcher-3-remastered-community-reaction-lighting",
+      "id": "arc-raiders-executive-producer-explains-how-he-wasn-t-comple",
+      "titre": "Arc Raiders' executive producer explains how he 'wasn't completely prepared for how hard' a live service game would be and warns against the dangers of burnout",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-executive-producer-explains-how-he-wasnt-completely-prepared-for-how-hard-a-live-service-game-would-be-and-warns-against-the-dangers-of-burnout/",
       "sources": [
-        "Eurogamer",
-        "Nintendo Life"
+        "PC Gamer",
+        "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 0.2,
+      "heures": 2.0,
       "chaleur": 9,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-remastered-community-reaction-lighting",
-          "titre": "\"My god this new lighting is lifeless\" - The Witcher 3 Remastered Edition divides players for a few key reasons"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-executive-producer-explains-how-he-wasnt-completely-prepared-for-how-hard-a-live-service-game-would-be-and-warns-against-the-dangers-of-burnout/",
+          "titre": "Arc Raiders' executive producer explains how he 'wasn't completely prepared for how hard' a live service game would be and warns against the dangers of burnout"
         },
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/round-up-the-first-reviews-for-the-witcher-3-remastered-are-in",
-          "titre": "Round Up: The First Reviews For The Witcher 3 Remastered Are In"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/ultimately-we-asked-why-are-we-doing-this-the-creators-of-arc-raiders-wildly-underestimated-how-hard-it-is-to-make-a-live-service-game",
+          "titre": "\"Ultimately, we asked 'why are we doing this?'\": the creators of Arc Raiders wildly underestimated how hard it is to make a live service game"
         }
       ]
     },
@@ -143,7 +143,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 9,
       "liens": [
         {
@@ -162,7 +162,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 9,
       "liens": [
         {
@@ -186,7 +186,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 2,
-      "heures": 1.0,
+      "heures": 3.1,
       "chaleur": 9,
       "liens": [
         {
@@ -202,20 +202,80 @@ const VEILLE = {
       ]
     },
     {
-      "id": "modder-who-taunted-try-me-rockstar-with-gta-5-switch-port-is",
-      "titre": "Modder who taunted ‘try me Rockstar’ with GTA 5 Switch port is ‘thankful for Take-Two’s mercy’ as lawyers shut it down",
-      "url": "https://www.videogameschronicle.com/news/modder-who-taunted-try-me-rockstar-with-gta-5-switch-port-is-thankful-for-take-twos-mercy-as-lawyers-shut-it-down/",
+      "id": "valve-is-updating-steam-s-discount-events-section-to-become",
+      "titre": "Valve is updating Steam's Discount & Events section to become more \"dynamic and personalised\"",
+      "url": "https://www.gamesindustry.biz/valve-is-updating-steams-discount-events-section-to-become-more-dynamic-and-personalised",
+      "sources": [
+        "GamesIndustry.biz",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 7.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/valve-is-updating-steams-discount-events-section-to-become-more-dynamic-and-personalised",
+          "titre": "Valve is updating Steam's Discount & Events section to become more \"dynamic and personalised\""
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/valve-is-changing-steams-homepage-discounts-and-events-section-to-go-the-way-of-the-algorithm-to-get-you-to-look-at-and-buy-obviously-more-games",
+          "titre": "Valve is changing Steam's homepage discounts and events section to go the way of the algorithm to get you to look at, and buy, obviously, more games"
+        }
+      ]
+    },
+    {
+      "id": "october-s-free-playstation-plus-games-include-f1-25",
+      "titre": "October’s ‘free’ PlayStation Plus games include F1 25",
+      "url": "https://www.videogameschronicle.com/news/octobers-free-playstation-plus-games-include-f1-25/",
       "sources": [
         "VGC"
       ],
       "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 9,
+      "heures": 0.5,
+      "chaleur": 8,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/modder-who-taunted-try-me-rockstar-with-gta-5-switch-port-is-thankful-for-take-twos-mercy-as-lawyers-shut-it-down/",
-          "titre": "Modder who taunted ‘try me Rockstar’ with GTA 5 Switch port is ‘thankful for Take-Two’s mercy’ as lawyers shut it down"
+          "url": "https://www.videogameschronicle.com/news/octobers-free-playstation-plus-games-include-f1-25/",
+          "titre": "October’s ‘free’ PlayStation Plus games include F1 25"
+        }
+      ]
+    },
+    {
+      "id": "pok-mon-legends-z-a-is-getting-a-new-switch-2-physical-relea",
+      "titre": "Pokémon Legends: Z-A Is Getting A New Switch 2 Physical Release Next Month",
+      "url": "https://www.nintendolife.com/news/2026/09/pokemon-legends-z-a-is-getting-a-new-switch-2-physical-release-next-month",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/pokemon-legends-z-a-is-getting-a-new-switch-2-physical-release-next-month",
+          "titre": "Pokémon Legends: Z-A Is Getting A New Switch 2 Physical Release Next Month"
+        }
+      ]
+    },
+    {
+      "id": "it-s-not-even-out-yet-but-valve-s-deadlock-just-became-one-o",
+      "titre": "It's not even out yet, but Valve's Deadlock just became one of the most played games on Steam",
+      "url": "https://www.eurogamer.net/deadlock-update-steam-most-played-games",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/deadlock-update-steam-most-played-games",
+          "titre": "It's not even out yet, but Valve's Deadlock just became one of the most played games on Steam"
         }
       ]
     },
@@ -227,7 +287,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 8,
       "liens": [
         {
@@ -245,7 +305,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 8,
       "liens": [
         {
@@ -256,146 +316,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "fatal-fury-city-of-the-wolves-is-getting-a-switch-2-demo-in",
-      "titre": "Fatal Fury: City Of The Wolves Is Getting A Switch 2 Demo In October",
-      "url": "https://www.nintendolife.com/news/2026/09/fatal-fury-city-of-the-wolves-is-getting-a-switch-2-demo-in-october",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/fatal-fury-city-of-the-wolves-is-getting-a-switch-2-demo-in-october",
-          "titre": "Fatal Fury: City Of The Wolves Is Getting A Switch 2 Demo In October"
-        }
-      ]
-    },
-    {
-      "id": "crimson-desert-s-charting-the-unknown-dlc-delayed-by-two-wee",
-      "titre": "Crimson Desert's Charting the Unknown DLC delayed by two weeks \"to deliver a more polished and stable gameplay experience\"",
-      "url": "https://www.eurogamer.net/crimson-desert-charting-the-unknown-dlc-delayed",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/crimson-desert-charting-the-unknown-dlc-delayed",
-          "titre": "Crimson Desert's Charting the Unknown DLC delayed by two weeks \"to deliver a more polished and stable gameplay experience\""
-        }
-      ]
-    },
-    {
-      "id": "crimson-desert-s-huge-expansion-pack-has-been-delayed-but-no",
-      "titre": "Crimson Desert's Huge Expansion Pack Has Been Delayed, But Not By Much",
-      "url": "https://www.pushsquare.com/news/2026/09/crimson-deserts-huge-expansion-pack-has-been-delayed-but-not-by-much",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/crimson-deserts-huge-expansion-pack-has-been-delayed-but-not-by-much",
-          "titre": "Crimson Desert's Huge Expansion Pack Has Been Delayed, But Not By Much"
-        }
-      ]
-    },
-    {
-      "id": "mario-kart-tour-has-now-officially-shut-down-after-earning-n",
-      "titre": "Mario Kart Tour has now officially shut down, after earning Nintendo an estimated $270 million",
-      "url": "https://www.videogameschronicle.com/news/mario-kart-tour-has-now-officially-shut-down-after-earning-nintendo-an-estimated-270-million/",
+      "id": "modder-who-taunted-try-me-rockstar-with-gta-5-switch-port-is",
+      "titre": "Modder who taunted ‘try me Rockstar’ with GTA 5 Switch port is ‘thankful for Take-Two’s mercy’ as lawyers shut it down",
+      "url": "https://www.videogameschronicle.com/news/modder-who-taunted-try-me-rockstar-with-gta-5-switch-port-is-thankful-for-take-twos-mercy-as-lawyers-shut-it-down/",
       "sources": [
         "VGC"
       ],
       "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 8,
+      "heures": 4.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/mario-kart-tour-has-now-officially-shut-down-after-earning-nintendo-an-estimated-270-million/",
-          "titre": "Mario Kart Tour has now officially shut down, after earning Nintendo an estimated $270 million"
-        }
-      ]
-    },
-    {
-      "id": "xbox-mythic-achievements-roll-out-to-insiders-and-are-retroa",
-      "titre": "Xbox Mythic Achievements roll out to Insiders and are retroactively awarded as far back as Xbox 360 games",
-      "url": "https://www.eurogamer.net/xbox-mythic-achievements-playstation-trophies",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-mythic-achievements-playstation-trophies",
-          "titre": "Xbox Mythic Achievements roll out to Insiders and are retroactively awarded as far back as Xbox 360 games"
-        }
-      ]
-    },
-    {
-      "id": "zelda-40th-anniversary-concert-tickets-are-now-live-across-e",
-      "titre": "Zelda 40th Anniversary Concert Tickets Are Now Live Across Europe",
-      "url": "https://www.nintendolife.com/news/2026/09/zelda-40th-anniversary-concert-tickets-are-now-live-across-europe",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/zelda-40th-anniversary-concert-tickets-are-now-live-across-europe",
-          "titre": "Zelda 40th Anniversary Concert Tickets Are Now Live Across Europe"
-        }
-      ]
-    },
-    {
-      "id": "xbox-s-disc-to-digital-feature-rolls-out-for-series-consoles",
-      "titre": "Xbox's disc-to-digital feature rolls out for Series consoles and Xbox One, allowing you to digitise your game-disc collection",
-      "url": "https://www.eurogamer.net/xbox-disc-to-digital-convert-ownership-release",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-disc-to-digital-convert-ownership-release",
-          "titre": "Xbox's disc-to-digital feature rolls out for Series consoles and Xbox One, allowing you to digitise your game-disc collection"
-        }
-      ]
-    },
-    {
-      "id": "housemarque-and-bithell-games-join-game-republic-new-horizon",
-      "titre": "Housemarque and Bithell Games join Game Republic New Horizons speaker lineup, Nintendo to host open session for developers and publishers",
-      "url": "https://www.gamesindustry.biz/housemarque-and-bithell-games-join-game-republic-new-horizons-speaker-lineup-nintendo-to-host-open-session-for-developers-and-publishers",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/housemarque-and-bithell-games-join-game-republic-new-horizons-speaker-lineup-nintendo-to-host-open-session-for-developers-and-publishers",
-          "titre": "Housemarque and Bithell Games join Game Republic New Horizons speaker lineup, Nintendo to host open session for developers and publishers"
+          "url": "https://www.videogameschronicle.com/news/modder-who-taunted-try-me-rockstar-with-gta-5-switch-port-is-thankful-for-take-twos-mercy-as-lawyers-shut-it-down/",
+          "titre": "Modder who taunted ‘try me Rockstar’ with GTA 5 Switch port is ‘thankful for Take-Two’s mercy’ as lawyers shut it down"
         }
       ]
     },
@@ -407,7 +341,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 7,
       "liens": [
         {
@@ -425,7 +359,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.2,
       "chaleur": 7,
       "liens": [
         {
@@ -616,6 +550,150 @@ const VEILLE = {
       ]
     },
     {
+      "id": "first-person-rpg-queen-s-domain-pitches-you-against-an-islan",
+      "titre": "First-person RPG Queen's Domain pitches you against an island of gorgeous freaks with naught but a flying sword and infinite throwing daggers",
+      "url": "https://www.rockpapershotgun.com/first-person-rpg-queens-domain-pitches-you-against-an-island-of-gorgeous-freaks-with-naught-but-a-flying-sword-and-infinite-throwing-daggers",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/first-person-rpg-queens-domain-pitches-you-against-an-island-of-gorgeous-freaks-with-naught-but-a-flying-sword-and-infinite-throwing-daggers",
+          "titre": "First-person RPG Queen's Domain pitches you against an island of gorgeous freaks with naught but a flying sword and infinite throwing daggers"
+        }
+      ]
+    },
+    {
+      "id": "ps-plus-essential-games-for-october-2026-announced",
+      "titre": "PS Plus Essential Games for October 2026 Announced",
+      "url": "https://www.pushsquare.com/news/2026/09/ps-plus-essential-games-for-october-2026-announced",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/ps-plus-essential-games-for-october-2026-announced",
+          "titre": "PS Plus Essential Games for October 2026 Announced"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-remastered-ps5-pro-performance-seems-to-vary-m",
+      "titre": "The Witcher 3 Remastered PS5 Pro Performance Seems to Vary Massively Between Players, and No One Knows Why",
+      "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pro-performance-seems-to-vary-massively-between-players-and-no-one-knows-why",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pro-performance-seems-to-vary-massively-between-players-and-no-one-knows-why",
+          "titre": "The Witcher 3 Remastered PS5 Pro Performance Seems to Vary Massively Between Players, and No One Knows Why"
+        }
+      ]
+    },
+    {
+      "id": "asus-tuf-gaming-a16-gaming-laptop-review",
+      "titre": "Asus TUF Gaming A16 gaming laptop review",
+      "url": "https://www.pcgamer.com/hardware/gaming-laptops/asus-tuf-gaming-a16-review/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-laptops/asus-tuf-gaming-a16-review/",
+          "titre": "Asus TUF Gaming A16 gaming laptop review"
+        }
+      ]
+    },
+    {
+      "id": "the-importance-of-being-earnest-how-marvel-t-kon-s-deadpool",
+      "titre": "The importance of being earnest: How Marvel Tōkon's Deadpool trades ridicule for fighting game reverence",
+      "url": "https://www.rockpapershotgun.com/the-importance-of-being-earnest-how-marvel-tokons-deadpool-trades-ridicule-for-fighting-game-reverence",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-importance-of-being-earnest-how-marvel-tokons-deadpool-trades-ridicule-for-fighting-game-reverence",
+          "titre": "The importance of being earnest: How Marvel Tōkon's Deadpool trades ridicule for fighting game reverence"
+        }
+      ]
+    },
+    {
+      "id": "absolutely-massive-god-of-war-laufey-pre-orders-as-ps5-excl",
+      "titre": "'Absolutely Massive' God of War Laufey Pre-Orders as PS5 Exclusive Starts Strong",
+      "url": "https://www.pushsquare.com/news/2026/09/absolutely-massive-god-of-war-laufey-pre-orders-as-ps5-exclusive-starts-strong",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/absolutely-massive-god-of-war-laufey-pre-orders-as-ps5-exclusive-starts-strong",
+          "titre": "'Absolutely Massive' God of War Laufey Pre-Orders as PS5 Exclusive Starts Strong"
+        }
+      ]
+    },
+    {
+      "id": "live-i-m-hunting-for-the-least-probable-goku-on-nexus-mods-a",
+      "titre": "LIVE: I'm hunting for the least probable Goku on Nexus Mods and no god or government can stop me",
+      "url": "https://www.pcgamer.com/games/live/news/least-probably-goku-nexus-mods/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/live/news/least-probably-goku-nexus-mods/",
+          "titre": "LIVE: I'm hunting for the least probable Goku on Nexus Mods and no god or government can stop me"
+        }
+      ]
+    },
+    {
+      "id": "people-are-very-happy-using-ps5-former-sony-exec-shuhei-yos",
+      "titre": "'People Are Very Happy Using PS5': Former Sony Exec Shuhei Yoshida Thinks PS6 Can Wait",
+      "url": "https://www.pushsquare.com/news/2026/09/people-are-very-happy-using-ps5-former-sony-exec-shuhei-yoshida-thinks-ps6-can-wait",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/people-are-very-happy-using-ps5-former-sony-exec-shuhei-yoshida-thinks-ps6-can-wait",
+          "titre": "'People Are Very Happy Using PS5': Former Sony Exec Shuhei Yoshida Thinks PS6 Can Wait"
+        }
+      ]
+    },
+    {
       "id": "tinker-bard-illusionist-blizzard-seemingly-surveying-world-o",
       "titre": "Tinker, Bard, Illusionist - Blizzard seemingly surveying World of Warcraft: Forever players about never-before-seen classes to add to the game",
       "url": "https://www.eurogamer.net/world-of-warcraft-forever-class-survey",
@@ -623,13 +701,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/world-of-warcraft-forever-class-survey",
           "titre": "Tinker, Bard, Illusionist - Blizzard seemingly surveying World of Warcraft: Forever players about never-before-seen classes to add to the game"
+        }
+      ]
+    },
+    {
+      "id": "my-god-this-new-lighting-is-lifeless-the-witcher-3-remaster",
+      "titre": "\"My god this new lighting is lifeless\" - The Witcher 3 Remastered Edition divides players for a few key reasons",
+      "url": "https://www.eurogamer.net/witcher-3-remastered-community-reaction-lighting",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/witcher-3-remastered-community-reaction-lighting",
+          "titre": "\"My god this new lighting is lifeless\" - The Witcher 3 Remastered Edition divides players for a few key reasons"
         }
       ]
     },
@@ -641,7 +737,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -659,7 +755,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -677,7 +773,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -695,7 +791,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -713,7 +809,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -731,7 +827,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -749,7 +845,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -767,7 +863,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
@@ -785,7 +881,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
@@ -803,7 +899,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -821,7 +917,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -839,7 +935,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -857,7 +953,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -875,7 +971,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -893,7 +989,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -911,7 +1007,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -929,7 +1025,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -940,110 +1036,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ultimately-we-asked-why-are-we-doing-this-the-creators-of-a",
-      "titre": "\"Ultimately, we asked 'why are we doing this?'\": the creators of Arc Raiders wildly underestimated how hard it is to make a live service game",
-      "url": "https://www.rockpapershotgun.com/ultimately-we-asked-why-are-we-doing-this-the-creators-of-arc-raiders-wildly-underestimated-how-hard-it-is-to-make-a-live-service-game",
+      "id": "fatal-fury-city-of-the-wolves-is-getting-a-switch-2-demo-in",
+      "titre": "Fatal Fury: City Of The Wolves Is Getting A Switch 2 Demo In October",
+      "url": "https://www.nintendolife.com/news/2026/09/fatal-fury-city-of-the-wolves-is-getting-a-switch-2-demo-in-october",
       "sources": [
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.2,
+      "heures": 4.7,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ultimately-we-asked-why-are-we-doing-this-the-creators-of-arc-raiders-wildly-underestimated-how-hard-it-is-to-make-a-live-service-game",
-          "titre": "\"Ultimately, we asked 'why are we doing this?'\": the creators of Arc Raiders wildly underestimated how hard it is to make a live service game"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/fatal-fury-city-of-the-wolves-is-getting-a-switch-2-demo-in-october",
+          "titre": "Fatal Fury: City Of The Wolves Is Getting A Switch 2 Demo In October"
         }
       ]
     },
     {
-      "id": "all-the-rps-supporter-rewards-for-september-2026-model-ships",
-      "titre": "All the RPS Supporter rewards for September 2026: Model ships, maze cities, and the tyranny of content",
-      "url": "https://www.rockpapershotgun.com/all-the-rps-supporter-rewards-for-september-2026-model-ships-maze-cities-and-the-tyranny-of-content",
+      "id": "xbox-mythic-achievements-roll-out-to-insiders-and-are-retroa",
+      "titre": "Xbox Mythic Achievements roll out to Insiders and are retroactively awarded as far back as Xbox 360 games",
+      "url": "https://www.eurogamer.net/xbox-mythic-achievements-playstation-trophies",
       "sources": [
-        "Rock Paper Shotgun"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.6,
+      "heures": 5.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/all-the-rps-supporter-rewards-for-september-2026-model-ships-maze-cities-and-the-tyranny-of-content",
-          "titre": "All the RPS Supporter rewards for September 2026: Model ships, maze cities, and the tyranny of content"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-mythic-achievements-playstation-trophies",
+          "titre": "Xbox Mythic Achievements roll out to Insiders and are retroactively awarded as far back as Xbox 360 games"
         }
       ]
     },
     {
-      "id": "i-always-see-it-kind-of-like-a-triangle-the-surprising-chal",
-      "titre": "\"I always see it kind of like a triangle\": The surprising challenge of making the perfectly-sized cave in Satisfactory expansion Core Values",
-      "url": "https://www.rockpapershotgun.com/i-always-see-it-kind-of-like-a-triangle-the-surprising-challenge-of-making-the-perfectly-sized-cave-in-satisfactory-expansion-core-values",
+      "id": "zelda-40th-anniversary-concert-tickets-are-now-live-across-e",
+      "titre": "Zelda 40th Anniversary Concert Tickets Are Now Live Across Europe",
+      "url": "https://www.nintendolife.com/news/2026/09/zelda-40th-anniversary-concert-tickets-are-now-live-across-europe",
       "sources": [
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.2,
+      "heures": 5.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-always-see-it-kind-of-like-a-triangle-the-surprising-challenge-of-making-the-perfectly-sized-cave-in-satisfactory-expansion-core-values",
-          "titre": "\"I always see it kind of like a triangle\": The surprising challenge of making the perfectly-sized cave in Satisfactory expansion Core Values"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/zelda-40th-anniversary-concert-tickets-are-now-live-across-europe",
+          "titre": "Zelda 40th Anniversary Concert Tickets Are Now Live Across Europe"
         }
       ]
     },
     {
-      "id": "you-re-hyped-for-deadlock-s-new-heroes-and-map-updates-i-m-h",
-      "titre": "You're hyped for Deadlock's new heroes and map updates, I'm hyped because of the 800 extra pre-match conversations, we are not the same",
-      "url": "https://www.pcgamer.com/games/moba/youre-hyped-for-deadlocks-new-heroes-and-map-updates-im-hyped-because-of-the-800-extra-pre-match-conversations-we-are-not-the-same/",
+      "id": "xbox-s-disc-to-digital-feature-rolls-out-for-series-consoles",
+      "titre": "Xbox's disc-to-digital feature rolls out for Series consoles and Xbox One, allowing you to digitise your game-disc collection",
+      "url": "https://www.eurogamer.net/xbox-disc-to-digital-convert-ownership-release",
       "sources": [
-        "PC Gamer"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.2,
+      "heures": 5.5,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/moba/youre-hyped-for-deadlocks-new-heroes-and-map-updates-im-hyped-because-of-the-800-extra-pre-match-conversations-we-are-not-the-same/",
-          "titre": "You're hyped for Deadlock's new heroes and map updates, I'm hyped because of the 800 extra pre-match conversations, we are not the same"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-disc-to-digital-convert-ownership-release",
+          "titre": "Xbox's disc-to-digital feature rolls out for Series consoles and Xbox One, allowing you to digitise your game-disc collection"
         }
       ]
     },
     {
-      "id": "mini-review-dynasty-warriors-3-complete-edition-remastered-p",
-      "titre": "Mini Review: Dynasty Warriors 3: Complete Edition Remastered (PS5) - A Strong Case for More Musou Revivals",
-      "url": "https://www.pushsquare.com/reviews/ps5/dynasty-warriors-3-complete-edition-remastered",
+      "id": "housemarque-and-bithell-games-join-game-republic-new-horizon",
+      "titre": "Housemarque and Bithell Games join Game Republic New Horizons speaker lineup, Nintendo to host open session for developers and publishers",
+      "url": "https://www.gamesindustry.biz/housemarque-and-bithell-games-join-game-republic-new-horizons-speaker-lineup-nintendo-to-host-open-session-for-developers-and-publishers",
       "sources": [
-        "Push Square"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 3.4,
+      "heures": 5.5,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/dynasty-warriors-3-complete-edition-remastered",
-          "titre": "Mini Review: Dynasty Warriors 3: Complete Edition Remastered (PS5) - A Strong Case for More Musou Revivals"
-        }
-      ]
-    },
-    {
-      "id": "amazon-s-25-self-propelling-speakers-gave-me-the-giggles-as",
-      "titre": "Amazon's $25 self-propelling speakers gave me the giggles as they tried to walk off the edge of my desk, and that's almost worth the price of entry alone",
-      "url": "https://www.pcgamer.com/hardware/speakers/amazons-usd25-self-propelling-speakers-gave-me-the-giggles-as-they-tried-to-walk-off-the-edge-of-my-desk-and-thats-almost-worth-the-price-of-entry-alone/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/speakers/amazons-usd25-self-propelling-speakers-gave-me-the-giggles-as-they-tried-to-walk-off-the-edge-of-my-desk-and-thats-almost-worth-the-price-of-entry-alone/",
-          "titre": "Amazon's $25 self-propelling speakers gave me the giggles as they tried to walk off the edge of my desk, and that's almost worth the price of entry alone"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/housemarque-and-bithell-games-join-game-republic-new-horizons-speaker-lineup-nintendo-to-host-open-session-for-developers-and-publishers",
+          "titre": "Housemarque and Bithell Games join Game Republic New Horizons speaker lineup, Nintendo to host open session for developers and publishers"
         }
       ]
     },
@@ -1056,7 +1134,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 6,
       "liens": [
         {
@@ -1070,79 +1148,10 @@ const VEILLE = {
           "titre": "Naughty Dog is working on new The Last Of Us 'projects'"
         }
       ]
-    },
-    {
-      "id": "gta-6-reveals-massive-dense-open-world-in-13-new-screenshots",
-      "titre": "GTA 6 Reveals Massive, Dense Open World in 13 New Screenshots, Details",
-      "url": "https://www.pushsquare.com/news/2026/09/gta-6-reveals-massive-dense-open-world-in-13-new-screenshots-details",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 20.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/gta-6-reveals-massive-dense-open-world-in-13-new-screenshots-details",
-          "titre": "GTA 6 Reveals Massive, Dense Open World in 13 New Screenshots, Details"
-        }
-      ]
-    },
-    {
-      "id": "why-should-we-just-give-up-the-entire-month-of-november-the",
-      "titre": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6",
-      "url": "https://www.gamesindustry.biz/why-should-we-just-give-up-the-entire-month-of-november-the-indie-games-going-head-to-head-with-gta-6",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 25.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/why-should-we-just-give-up-the-entire-month-of-november-the-indie-games-going-head-to-head-with-gta-6",
-          "titre": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6"
-        }
-      ]
-    },
-    {
-      "id": "xbox-begins-testing-its-platinum-trophy-alternative-18-years",
-      "titre": "Xbox Begins Testing Its Platinum Trophy Alternative, 18 Years After Sony Introduced System",
-      "url": "https://www.pushsquare.com/news/2026/09/xbox-begins-testing-its-platinum-trophy-alternative-18-years-after-sony-introduced-system",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 15.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/xbox-begins-testing-its-platinum-trophy-alternative-18-years-after-sony-introduced-system",
-          "titre": "Xbox Begins Testing Its Platinum Trophy Alternative, 18 Years After Sony Introduced System"
-        }
-      ]
-    },
-    {
-      "id": "ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre",
-      "titre": "Ace Combat 8 Steam reviewers are steaming mad about its pre-order bonus not being a standalone app",
-      "url": "https://www.pcgamer.com/games/sim/ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre-order-bonus-not-being-a-standalone-app/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 16.3,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre-order-bonus-not-being-a-standalone-app/",
-          "titre": "Ace Combat 8 Steam reviewers are steaming mad about its pre-order bonus not being a standalone app"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "\"NO GAME NO LIFE\": Grasshopper Manufacture have leapt from the jaws of NetEase and gone indie again",
+    "Crimson Desert's first expansion, Charting the Unknown, delayed so Pearl Abyss get more time to polish and stabilise the red pudding"
+  ]
 };
