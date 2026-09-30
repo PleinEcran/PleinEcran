@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "29/09/2026 à 22h21",
+  "collecte": "30/09/2026 à 00h30",
   "seuil": 14,
   "sujets": [
     {
@@ -13,7 +13,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 0.9,
+      "heures": 3.0,
       "chaleur": 14,
       "liens": [
         {
@@ -34,6 +34,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "industry-snoop-says-naughty-dog-s-shaun-escayg-is-not-workin",
+      "titre": "Industry Snoop Says Naughty Dog's Shaun Escayg Is Not Working on The Last of Us",
+      "url": "https://www.pushsquare.com/news/2026/09/industry-snoop-says-naughty-dogs-shaun-escayg-is-not-working-on-the-last-of-us",
+      "sources": [
+        "Eurogamer",
+        "Game Developer",
+        "Push Square"
+      ],
+      "reprises": 3,
+      "heures": 1.0,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/industry-snoop-says-naughty-dogs-shaun-escayg-is-not-working-on-the-last-of-us",
+          "titre": "Industry Snoop Says Naughty Dog's Shaun Escayg Is Not Working on The Last of Us"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-last-of-us-projects-",
+          "titre": "Naughty Dog is working on new The Last Of Us 'projects'"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/naughty-dog-confirms-two-more-the-last-of-us-projects-are-in-the-works-wont-show-off-intergalactic-the-heretic-prophet-until-2027",
+          "titre": "Naughty Dog confirms two more The Last of Us projects are in the works, won't show off Intergalactic: The Heretic Prophet until 2027"
+        }
+      ]
+    },
+    {
       "id": "the-witcher-3-surges-to-its-highest-steam-concurrent-player",
       "titre": "The Witcher 3 surges to its highest Steam concurrent player-count ever, following Remastered edition's release",
       "url": "https://www.eurogamer.net/witcher-3-steam-most-played-record-remastered",
@@ -43,7 +73,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 5.9,
+      "heures": 8.1,
       "chaleur": 12,
       "liens": [
         {
@@ -64,30 +94,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "zelda-40th-anniversary-concert-tickets-go-on-sale-in-europe",
-      "titre": "Zelda 40th Anniversary Concert tickets go on sale in Europe this week, as Nintendo says more countries are coming",
-      "url": "https://www.videogameschronicle.com/news/zelda-40th-anniversary-concert-tickets-go-on-sale-in-europe-this-week-as-nintendo-says-more-countries-are-coming/",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 10.3,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/zelda-40th-anniversary-concert-tickets-go-on-sale-in-europe-this-week-as-nintendo-says-more-countries-are-coming/",
-          "titre": "Zelda 40th Anniversary Concert tickets go on sale in Europe this week, as Nintendo says more countries are coming"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/zelda-40th-anniversary-concert-tickets-go-live-tomorrow-30th-september",
-          "titre": "Zelda 40th Anniversary Concert Tickets Go Live Tomorrow, 30th September"
-        }
-      ]
-    },
-    {
       "id": "more-nintendo-lego-sets-are-being-retired-this-year",
       "titre": "More Nintendo LEGO Sets Are Being Retired This Year",
       "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
@@ -96,7 +102,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.9,
+      "heures": 10.0,
       "chaleur": 9,
       "liens": [
         {
@@ -112,6 +118,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "zelda-40th-anniversary-concert-tickets-go-on-sale-in-europe",
+      "titre": "Zelda 40th Anniversary Concert tickets go on sale in Europe this week, as Nintendo says more countries are coming",
+      "url": "https://www.videogameschronicle.com/news/zelda-40th-anniversary-concert-tickets-go-on-sale-in-europe-this-week-as-nintendo-says-more-countries-are-coming/",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 12.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/zelda-40th-anniversary-concert-tickets-go-on-sale-in-europe-this-week-as-nintendo-says-more-countries-are-coming/",
+          "titre": "Zelda 40th Anniversary Concert tickets go on sale in Europe this week, as Nintendo says more countries are coming"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/zelda-40th-anniversary-concert-tickets-go-live-tomorrow-30th-september",
+          "titre": "Zelda 40th Anniversary Concert Tickets Go Live Tomorrow, 30th September"
+        }
+      ]
+    },
+    {
       "id": "xbox-begins-testing-its-platinum-trophy-alternative-18-years",
       "titre": "Xbox Begins Testing Its Platinum Trophy Alternative, 18 Years After Sony Introduced System",
       "url": "https://www.pushsquare.com/news/2026/09/xbox-begins-testing-its-platinum-trophy-alternative-18-years-after-sony-introduced-system",
@@ -119,7 +149,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 1.5,
       "chaleur": 8,
       "liens": [
         {
@@ -137,31 +167,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.4,
       "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/sim/ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre-order-bonus-not-being-a-standalone-app/",
           "titre": "Ace Combat 8 Steam reviewers are steaming mad about its pre-order bonus not being a standalone app"
-        }
-      ]
-    },
-    {
-      "id": "why-so-many-steam-games-have-weirdly-similar-and-forgettable",
-      "titre": "Why so many Steam games have weirdly similar (and forgettable) names",
-      "url": "https://www.pcgamer.com/games/why-so-many-steam-games-have-weirdly-similar-and-forgettable-names/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/why-so-many-steam-games-have-weirdly-similar-and-forgettable-names/",
-          "titre": "Why so many Steam games have weirdly similar (and forgettable) names"
         }
       ]
     },
@@ -173,37 +185,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.3,
       "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/gta-6-reveals-massive-dense-open-world-in-13-new-screenshots-details",
           "titre": "GTA 6 Reveals Massive, Dense Open World in 13 New Screenshots, Details"
-        }
-      ]
-    },
-    {
-      "id": "naughty-dog-is-working-on-new-the-last-of-us-projects",
-      "titre": "Naughty Dog is working on new The Last Of Us 'projects'",
-      "url": "https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-last-of-us-projects-",
-      "sources": [
-        "Eurogamer",
-        "Game Developer"
-      ],
-      "reprises": 2,
-      "heures": 4.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-last-of-us-projects-",
-          "titre": "Naughty Dog is working on new The Last Of Us 'projects'"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/naughty-dog-confirms-two-more-the-last-of-us-projects-are-in-the-works-wont-show-off-intergalactic-the-heretic-prophet-until-2027",
-          "titre": "Naughty Dog confirms two more The Last of Us projects are in the works, won't show off Intergalactic: The Heretic Prophet until 2027"
         }
       ]
     },
@@ -215,7 +203,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.2,
       "chaleur": 7,
       "liens": [
         {
@@ -233,31 +221,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.5,
       "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/my-gta-5-install-has-a-death-wish-but-i-have-soothed-it-with-flossing/",
           "titre": "My GTA 5 install has a death wish but I have soothed it with flossing"
-        }
-      ]
-    },
-    {
-      "id": "an-ode-to-the-loveable-horrible-wonderful-counter-strike-com",
-      "titre": "An ode to the loveable, horrible, wonderful Counter-Strike community and my first tournament experience",
-      "url": "https://www.pcgamer.com/hardware/an-ode-to-the-loveable-horrible-wonderful-counter-strike-community-and-my-first-tournament-experience/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/an-ode-to-the-loveable-horrible-wonderful-counter-strike-community-and-my-first-tournament-experience/",
-          "titre": "An ode to the loveable, horrible, wonderful Counter-Strike community and my first tournament experience"
         }
       ]
     },
@@ -270,7 +240,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 6.9,
+      "heures": 9.0,
       "chaleur": 7,
       "liens": [
         {
@@ -294,7 +264,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.4,
+      "heures": 9.5,
       "chaleur": 7,
       "liens": [
         {
@@ -318,7 +288,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 8.3,
+      "heures": 10.5,
       "chaleur": 7,
       "liens": [
         {
@@ -334,24 +304,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "why-should-we-just-give-up-the-entire-month-of-november-the",
-      "titre": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6",
-      "url": "https://www.gamesindustry.biz/why-should-we-just-give-up-the-entire-month-of-november-the-indie-games-going-head-to-head-with-gta-6",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 9.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/why-should-we-just-give-up-the-entire-month-of-november-the-indie-games-going-head-to-head-with-gta-6",
-          "titre": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6"
-        }
-      ]
-    },
-    {
       "id": "report-sony-surveying-developers-about-dropping-playstation",
       "titre": "Report: Sony surveying developers about dropping PlayStation disc support",
       "url": "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support",
@@ -359,7 +311,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 31.0,
+      "heures": 33.1,
       "chaleur": 7,
       "liens": [
         {
@@ -532,6 +484,96 @@ const VEILLE = {
       ]
     },
     {
+      "id": "mdev",
+      "titre": "MDEV",
+      "url": "https://www.gamedeveloper.comwww.mdevconf.com",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.comwww.mdevconf.com",
+          "titre": "MDEV"
+        }
+      ]
+    },
+    {
+      "id": "making-our-favorite-fps-modes-1v1-to-decide-the-greatest-of",
+      "titre": "Making our favorite FPS modes 1v1 to decide the greatest of them all",
+      "url": "https://www.pcgamer.com/games/fps/making-our-favorite-fps-modes-1v1-to-decide-the-greatest-of-them-all/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/making-our-favorite-fps-modes-1v1-to-decide-the-greatest-of-them-all/",
+          "titre": "Making our favorite FPS modes 1v1 to decide the greatest of them all"
+        }
+      ]
+    },
+    {
+      "id": "one-of-my-all-time-favorite-games-just-announced-an-expansio",
+      "titre": "One of my all-time favorite games just announced an expansion, yet all I feel is fear",
+      "url": "https://www.pcgamer.com/games/survival-crafting/one-of-my-all-time-favorite-games-just-announced-an-expansion-yet-all-i-feel-is-fear/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/one-of-my-all-time-favorite-games-just-announced-an-expansion-yet-all-i-feel-is-fear/",
+          "titre": "One of my all-time favorite games just announced an expansion, yet all I feel is fear"
+        }
+      ]
+    },
+    {
+      "id": "garry-newman-adds-necks-to-his-neckless-characters-because-t",
+      "titre": "Garry Newman adds necks to his neckless characters because the lack of necks 'comes up consistently in our many many many negative reviews'",
+      "url": "https://www.pcgamer.com/software/garry-newman-adds-necks-to-his-neckless-characters-because-the-lack-of-necks-comes-up-consistently-in-our-many-many-many-negative-reviews/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/garry-newman-adds-necks-to-his-neckless-characters-because-the-lack-of-necks-comes-up-consistently-in-our-many-many-many-negative-reviews/",
+          "titre": "Garry Newman adds necks to his neckless characters because the lack of necks 'comes up consistently in our many many many negative reviews'"
+        }
+      ]
+    },
+    {
+      "id": "deadlock-s-gigantic-new-update-gives-its-city-a-spooky-new-c",
+      "titre": "Deadlock's gigantic new update gives its city a spooky new coat of paint and debuts 6 new heroes, including the one and only Rat King",
+      "url": "https://www.pcgamer.com/games/moba/deadlocks-gigantic-new-update-gives-its-city-a-spooky-new-coat-of-paint-and-debuts-6-new-heroes-including-the-one-and-only-rat-king/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/deadlocks-gigantic-new-update-gives-its-city-a-spooky-new-coat-of-paint-and-debuts-6-new-heroes-including-the-one-and-only-rat-king/",
+          "titre": "Deadlock's gigantic new update gives its city a spooky new coat of paint and debuts 6 new heroes, including the one and only Rat King"
+        }
+      ]
+    },
+    {
       "id": "diablo-5-director-promises-diablo-2-style-combat-where-the-r",
       "titre": "Diablo 5 director promises Diablo 2-style combat where 'the right build' matters more than Diablo 4's action-heavy approach",
       "url": "https://www.pcgamer.com/games/rpg/diablo-5-director-promises-diablo-2-style-combat-where-the-right-build-matters-more-than-diablo-4s-action-heavy-approach/",
@@ -539,7 +581,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -557,7 +599,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -575,7 +617,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -593,7 +635,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -611,7 +653,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
@@ -622,74 +664,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "former-dying-light-franchise-lead-joins-bloober-team-horror",
-      "titre": "Former Dying Light franchise lead joins Bloober Team horror imprint Broken Mirror Games",
-      "url": "https://www.gamedeveloper.com/business/former-dying-light-franchise-lead-joins-bloober-team-horror-imprint-broken-mirror-games",
+      "id": "why-so-many-steam-games-have-weirdly-similar-and-forgettable",
+      "titre": "Why so many Steam games have weirdly similar (and forgettable) names",
+      "url": "https://www.pcgamer.com/games/why-so-many-steam-games-have-weirdly-similar-and-forgettable-names/",
       "sources": [
-        "Game Developer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 5.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/former-dying-light-franchise-lead-joins-bloober-team-horror-imprint-broken-mirror-games",
-          "titre": "Former Dying Light franchise lead joins Bloober Team horror imprint Broken Mirror Games"
-        }
-      ]
-    },
-    {
-      "id": "007-first-light-dlc-teased-more-info-on-thursday",
-      "titre": "007 First Light DLC Teased, More Info on Thursday",
-      "url": "https://www.pushsquare.com/news/2026/09/007-first-light-dlc-teased-more-info-on-thursday",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/007-first-light-dlc-teased-more-info-on-thursday",
-          "titre": "007 First Light DLC Teased, More Info on Thursday"
-        }
-      ]
-    },
-    {
-      "id": "you-will-not-be-using-belts-satisfactory-s-first-expansion",
-      "titre": "\"You will not be using belts\": Satisfactory's first expansion isn't the same game set underground - there's a whole new set of resource-moving toys to master",
-      "url": "https://www.rockpapershotgun.com/you-will-not-be-using-belts-satisfactorys-first-expansion-isnt-the-same-game-set-underground-theres-a-whole-new-set-of-resource-moving-toys-to-master",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/you-will-not-be-using-belts-satisfactorys-first-expansion-isnt-the-same-game-set-underground-theres-a-whole-new-set-of-resource-moving-toys-to-master",
-          "titre": "\"You will not be using belts\": Satisfactory's first expansion isn't the same game set underground - there's a whole new set of resource-moving toys to master"
-        }
-      ]
-    },
-    {
-      "id": "ghost-of-yotei-complete-edition-gets-awesome-astro-bot-journ",
-      "titre": "Ghost of Yotei: Complete Edition Gets Awesome Astro Bot, Journey, Helldivers Armour Sets",
-      "url": "https://www.pushsquare.com/news/2026/09/ghost-of-yotei-complete-edition-gets-awesome-astro-bot-journey-helldivers-armour-sets",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/ghost-of-yotei-complete-edition-gets-awesome-astro-bot-journey-helldivers-armour-sets",
-          "titre": "Ghost of Yotei: Complete Edition Gets Awesome Astro Bot, Journey, Helldivers Armour Sets"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/why-so-many-steam-games-have-weirdly-similar-and-forgettable-names/",
+          "titre": "Why so many Steam games have weirdly similar (and forgettable) names"
         }
       ]
     },
@@ -701,7 +689,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.5,
       "chaleur": 6,
       "liens": [
         {
@@ -719,7 +707,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 10.0,
       "chaleur": 6,
       "liens": [
         {
@@ -737,7 +725,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.5,
       "chaleur": 6,
       "liens": [
         {
@@ -755,13 +743,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/the-tower-of-zeldaga-is-a-free-retro-mash-up-of-zelda-and-druaga-in-which-you-rescue-ganondorf-from-some-evil-blonde-queen",
           "titre": "The Tower of Zeldaga is a free retro mash-up of Zelda and Druaga in which you rescue Ganondorf from some evil blonde queen"
+        }
+      ]
+    },
+    {
+      "id": "why-should-we-just-give-up-the-entire-month-of-november-the",
+      "titre": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6",
+      "url": "https://www.gamesindustry.biz/why-should-we-just-give-up-the-entire-month-of-november-the-indie-games-going-head-to-head-with-gta-6",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 12.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/why-should-we-just-give-up-the-entire-month-of-november-the-indie-games-going-head-to-head-with-gta-6",
+          "titre": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6"
         }
       ]
     },
@@ -773,7 +779,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.5,
+      "heures": 30.6,
       "chaleur": 6,
       "liens": [
         {
@@ -791,7 +797,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.6,
       "chaleur": 5,
       "liens": [
         {
@@ -809,7 +815,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.6,
       "chaleur": 5,
       "liens": [
         {
@@ -827,7 +833,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.4,
       "chaleur": 5,
       "liens": [
         {
@@ -845,7 +851,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.8,
+      "heures": 31.9,
       "chaleur": 5,
       "liens": [
         {
@@ -856,20 +862,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "microsoft-ceo-says-xbox-is-simply-streamlining-after-cutting",
-      "titre": "Microsoft CEO says Xbox is simply 'streamlining' after cutting over 5,750 jobs in three years",
-      "url": "https://www.gamedeveloper.com/production/microsoft-ceo-says-xbox-is-streamlining-after-laying-off-5-750-workers-in-three-years",
+      "id": "former-dying-light-franchise-lead-joins-bloober-team-horror",
+      "titre": "Former Dying Light franchise lead joins Bloober Team horror imprint Broken Mirror Games",
+      "url": "https://www.gamedeveloper.com/business/former-dying-light-franchise-lead-joins-bloober-team-horror-imprint-broken-mirror-games",
       "sources": [
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 34.1,
-      "chaleur": 5,
+      "heures": 4.5,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production/microsoft-ceo-says-xbox-is-streamlining-after-laying-off-5-750-workers-in-three-years",
-          "titre": "Microsoft CEO says Xbox is simply 'streamlining' after cutting over 5,750 jobs in three years"
+          "url": "https://www.gamedeveloper.com/business/former-dying-light-franchise-lead-joins-bloober-team-horror-imprint-broken-mirror-games",
+          "titre": "Former Dying Light franchise lead joins Bloober Team horror imprint Broken Mirror Games"
+        }
+      ]
+    },
+    {
+      "id": "007-first-light-dlc-teased-more-info-on-thursday",
+      "titre": "007 First Light DLC Teased, More Info on Thursday",
+      "url": "https://www.pushsquare.com/news/2026/09/007-first-light-dlc-teased-more-info-on-thursday",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/007-first-light-dlc-teased-more-info-on-thursday",
+          "titre": "007 First Light DLC Teased, More Info on Thursday"
+        }
+      ]
+    },
+    {
+      "id": "you-will-not-be-using-belts-satisfactory-s-first-expansion",
+      "titre": "\"You will not be using belts\": Satisfactory's first expansion isn't the same game set underground - there's a whole new set of resource-moving toys to master",
+      "url": "https://www.rockpapershotgun.com/you-will-not-be-using-belts-satisfactorys-first-expansion-isnt-the-same-game-set-underground-theres-a-whole-new-set-of-resource-moving-toys-to-master",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/you-will-not-be-using-belts-satisfactorys-first-expansion-isnt-the-same-game-set-underground-theres-a-whole-new-set-of-resource-moving-toys-to-master",
+          "titre": "\"You will not be using belts\": Satisfactory's first expansion isn't the same game set underground - there's a whole new set of resource-moving toys to master"
+        }
+      ]
+    },
+    {
+      "id": "ghost-of-yotei-complete-edition-gets-awesome-astro-bot-journ",
+      "titre": "Ghost of Yotei: Complete Edition Gets Awesome Astro Bot, Journey, Helldivers Armour Sets",
+      "url": "https://www.pushsquare.com/news/2026/09/ghost-of-yotei-complete-edition-gets-awesome-astro-bot-journey-helldivers-armour-sets",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/ghost-of-yotei-complete-edition-gets-awesome-astro-bot-journey-helldivers-armour-sets",
+          "titre": "Ghost of Yotei: Complete Edition Gets Awesome Astro Bot, Journey, Helldivers Armour Sets"
         }
       ]
     },
@@ -881,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +959,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +977,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +995,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +1013,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +1031,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +1049,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,31 +1067,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/fantastic-sandbox-cop-game-the-precinct-gets-a-huge-update-on-ps5",
           "titre": "Fantastic Sandbox Cop Game The Precinct Gets a Huge Update on PS5"
-        }
-      ]
-    },
-    {
-      "id": "discord-s-new-resource-light-game-mode-doesn-t-mention-anyth",
-      "titre": "Discord's new resource-light 'Game Mode' doesn't mention anything about reducing memory usage",
-      "url": "https://www.pcgamer.com/hardware/discords-new-resource-light-game-mode-doesnt-mention-anything-about-reducing-memory-usage/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/discords-new-resource-light-game-mode-doesnt-mention-anything-about-reducing-memory-usage/",
-          "titre": "Discord's new resource-light 'Game Mode' doesn't mention anything about reducing memory usage"
         }
       ]
     },
@@ -1043,7 +1085,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,7 +1103,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1079,49 +1121,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/watch-hades-orchestral-performance-recording",
           "titre": "You can now watch one of this year's best orchestral game-music performances, celebrating Hades 1 and 2, online for free"
-        }
-      ]
-    },
-    {
-      "id": "31-of-you-go-full-goth-and-keep-your-rgb-lighting-turned-off",
-      "titre": "31% of you go full goth and keep your RGB lighting turned off, while a mere 7% drench your rigs in unicorn vomit",
-      "url": "https://www.pcgamer.com/hardware/lighting/31-percent-of-you-go-full-goth-and-keep-your-rgb-lighting-turned-off-while-a-mere-7-percent-drench-your-rigs-in-unicorn-vomit/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/lighting/31-percent-of-you-go-full-goth-and-keep-your-rgb-lighting-turned-off-while-a-mere-7-percent-drench-your-rigs-in-unicorn-vomit/",
-          "titre": "31% of you go full goth and keep your RGB lighting turned off, while a mere 7% drench your rigs in unicorn vomit"
-        }
-      ]
-    },
-    {
-      "id": "no-usb-connectivity-like-at-all-it-s-a-good-job-steelseries",
-      "titre": "No USB connectivity? Like, at all? It's a good job SteelSeries' new gaming mice are two of the best I've felt under my fingertips",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/no-usb-connectivity-like-at-all-its-a-good-job-steelseries-new-gaming-mice-are-two-of-the-best-ive-felt-under-my-fingertips/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-mice/no-usb-connectivity-like-at-all-its-a-good-job-steelseries-new-gaming-mice-are-two-of-the-best-ive-felt-under-my-fingertips/",
-          "titre": "No USB connectivity? Like, at all? It's a good job SteelSeries' new gaming mice are two of the best I've felt under my fingertips"
         }
       ]
     },
@@ -1133,7 +1139,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1144,7 +1150,5 @@ const VEILLE = {
       ]
     }
   ],
-  "alertes": [
-    "Steam's discounts and events tab will soon be fully algorithm-driven"
-  ]
+  "alertes": []
 };
