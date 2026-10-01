@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "30/09/2026 à 22h22",
+  "collecte": "01/10/2026 à 00h31",
   "seuil": 14,
   "sujets": [
     {
@@ -16,8 +16,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 6,
-      "heures": 2.7,
-      "chaleur": 21,
+      "heures": 4.9,
+      "chaleur": 19,
       "liens": [
         {
           "source": "Game Developer",
@@ -61,8 +61,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 3.8,
-      "chaleur": 14,
+      "heures": 5.9,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Eurogamer",
@@ -91,7 +91,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 7.9,
+      "heures": 10.0,
       "chaleur": 12,
       "liens": [
         {
@@ -114,18 +114,18 @@ const VEILLE = {
     {
       "id": "rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan",
       "titre": "Rumour: New Uncharted Game in the Works at Naughty Dog, Nathan Drake Not the Lead Character",
-      "url": "https://www.pushsquare.com/news/2026/09/rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan-drake-not-the-lead-character",
+      "url": "https://www.pushsquare.com/news/2026/10/rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan-drake-not-the-lead-character",
       "sources": [
         "Game Developer",
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.9,
+      "heures": 1.5,
       "chaleur": 9,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan-drake-not-the-lead-character",
+          "url": "https://www.pushsquare.com/news/2026/10/rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan-drake-not-the-lead-character",
           "titre": "Rumour: New Uncharted Game in the Works at Naughty Dog, Nathan Drake Not the Lead Character"
         },
         {
@@ -136,20 +136,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "alleged-hacker-arrested-over-leak-that-exposed-gta-online-s",
-      "titre": "Alleged hacker arrested over leak that exposed GTA Online's daily revenue",
-      "url": "https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue",
+      "id": "world-of-warcraft-forever-survey-pitches-new-classes-to-play",
+      "titre": "World of Warcraft: Forever survey pitches new classes to players, including Bard, Witch, and more",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-survey-pitches-new-classes-to-players-including-bard-witch-and-more/",
       "sources": [
-        "GamesIndustry.biz"
+        "Eurogamer",
+        "PC Gamer"
       ],
-      "reprises": 1,
-      "heures": 3.4,
+      "reprises": 2,
+      "heures": 1.8,
       "chaleur": 9,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue",
-          "titre": "Alleged hacker arrested over leak that exposed GTA Online's daily revenue"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-survey-pitches-new-classes-to-players-including-bard-witch-and-more/",
+          "titre": "World of Warcraft: Forever survey pitches new classes to players, including Bard, Witch, and more"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/world-of-warcraft-forever-class-survey",
+          "titre": "Tinker, Bard, Illusionist - Blizzard seemingly surveying World of Warcraft: Forever players about never-before-seen classes to add to the game"
         }
       ]
     },
@@ -162,7 +168,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 5.3,
+      "heures": 7.5,
       "chaleur": 9,
       "liens": [
         {
@@ -185,7 +191,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.8,
       "chaleur": 9,
       "liens": [
         {
@@ -204,7 +210,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 8.6,
+      "heures": 10.8,
       "chaleur": 9,
       "liens": [
         {
@@ -220,20 +226,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ps-plus-members-can-claim-free-psn-avatars-for-sony-s-record",
-      "titre": "PS Plus Members Can Claim Free PSN Avatars for Sony's Record-Breaking Spider-Man: Brand New Day",
-      "url": "https://www.pushsquare.com/news/2026/09/ps-plus-members-can-claim-free-psn-avatars-for-sonys-record-breaking-spider-man-brand-new-day",
+      "id": "pok-mon-pokopia-expansion-pass-switch-2-game-key-card-releas",
+      "titre": "Pokémon Pokopia + Expansion Pass Switch 2 Game-Key Card Release Announced",
+      "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-plus-expansion-pass-switch-2-game-key-card-release-announced",
       "sources": [
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.9,
+      "heures": 0.1,
       "chaleur": 8,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/ps-plus-members-can-claim-free-psn-avatars-for-sonys-record-breaking-spider-man-brand-new-day",
-          "titre": "PS Plus Members Can Claim Free PSN Avatars for Sony's Record-Breaking Spider-Man: Brand New Day"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-plus-expansion-pass-switch-2-game-key-card-release-announced",
+          "titre": "Pokémon Pokopia + Expansion Pass Switch 2 Game-Key Card Release Announced"
+        }
+      ]
+    },
+    {
+      "id": "til-what-may-or-may-not-be-the-oldest-board-game-in-recorded",
+      "titre": "TIL what may or may not be the oldest board game in recorded history is also, perhaps inevitably, now a roguelike",
+      "url": "https://www.pcgamer.com/games/roguelike/til-what-may-or-may-not-be-the-oldest-board-game-in-recorded-history-is-also-perhaps-inevitably-now-a-roguelike/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/roguelike/til-what-may-or-may-not-be-the-oldest-board-game-in-recorded-history-is-also-perhaps-inevitably-now-a-roguelike/",
+          "titre": "TIL what may or may not be the oldest board game in recorded history is also, perhaps inevitably, now a roguelike"
         }
       ]
     },
@@ -246,7 +270,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 12.9,
+      "heures": 15.1,
       "chaleur": 8,
       "liens": [
         {
@@ -262,6 +286,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "alleged-hacker-arrested-over-leak-that-exposed-gta-online-s",
+      "titre": "Alleged hacker arrested over leak that exposed GTA Online's daily revenue",
+      "url": "https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue",
+          "titre": "Alleged hacker arrested over leak that exposed GTA Online's daily revenue"
+        }
+      ]
+    },
+    {
       "id": "gta-6-completely-re-engineered-rockstar-s-weather-systems-to",
       "titre": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
       "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
@@ -269,7 +311,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 7,
       "liens": [
         {
@@ -287,7 +329,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.5,
       "chaleur": 7,
       "liens": [
         {
@@ -305,7 +347,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.5,
       "chaleur": 7,
       "liens": [
         {
@@ -324,7 +366,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 8.0,
+      "heures": 10.1,
       "chaleur": 7,
       "liens": [
         {
@@ -340,24 +382,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-spent-an-unreasonable-amount-of-time-testing-whether-logit",
-      "titre": "I spent an unreasonable amount of time testing whether Logitech's Superstrike analogue clicks actually make me react quicker",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/i-spent-an-unreasonable-amount-of-time-testing-whether-logitechs-superstrike-analogue-clicks-actually-make-me-react-quicker/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 8.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-mice/i-spent-an-unreasonable-amount-of-time-testing-whether-logitechs-superstrike-analogue-clicks-actually-make-me-react-quicker/",
-          "titre": "I spent an unreasonable amount of time testing whether Logitech's Superstrike analogue clicks actually make me react quicker"
-        }
-      ]
-    },
-    {
       "id": "we-ve-heard-you-silent-hill-townfall-studio-says-a-patch-is",
       "titre": "‘We’ve heard you’: Silent Hill Townfall studio says a patch is coming to make The Weight stealth sections less frustrating",
       "url": "https://www.videogameschronicle.com/news/weve-heard-you-silent-hill-townfall-studio-says-a-patch-is-coming-to-make-the-weight-stealth-sections-less-frustrating/",
@@ -366,7 +390,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.0,
+      "heures": 11.1,
       "chaleur": 7,
       "liens": [
         {
@@ -390,7 +414,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 2,
-      "heures": 9.0,
+      "heures": 11.1,
       "chaleur": 7,
       "liens": [
         {
@@ -402,24 +426,6 @@ const VEILLE = {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
           "titre": "Control Resonant director lays out case for avoiding excessive 'yellow paint'"
-        }
-      ]
-    },
-    {
-      "id": "modder-who-taunted-try-me-rockstar-with-gta-5-switch-port-is",
-      "titre": "Modder who taunted ‘try me Rockstar’ with GTA 5 Switch port is ‘thankful for Take-Two’s mercy’ as lawyers shut it down",
-      "url": "https://www.videogameschronicle.com/news/modder-who-taunted-try-me-rockstar-with-gta-5-switch-port-is-thankful-for-take-twos-mercy-as-lawyers-shut-it-down/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/modder-who-taunted-try-me-rockstar-with-gta-5-switch-port-is-thankful-for-take-twos-mercy-as-lawyers-shut-it-down/",
-          "titre": "Modder who taunted ‘try me Rockstar’ with GTA 5 Switch port is ‘thankful for Take-Two’s mercy’ as lawyers shut it down"
         }
       ]
     },
@@ -568,6 +574,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "we-want-to-find-a-way-sega-eager-to-bring-sakura-wars-games",
+      "titre": "'We Want to Find a Way': SEGA Eager to Bring Sakura Wars Games to Modern Consoles",
+      "url": "https://www.pushsquare.com/news/2026/10/we-want-to-find-a-way-sega-eager-to-bring-sakura-wars-games-to-modern-consoles",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/we-want-to-find-a-way-sega-eager-to-bring-sakura-wars-games-to-modern-consoles",
+          "titre": "'We Want to Find a Way': SEGA Eager to Bring Sakura Wars Games to Modern Consoles"
+        }
+      ]
+    },
+    {
       "id": "valve-says-deadlock-is-still-too-unfinished-to-release-publi",
       "titre": "Valve says Deadlock is still too unfinished to release publicly, but has hero cosmetics and new game modes in the works",
       "url": "https://www.pcgamer.com/games/moba/valve-says-deadlock-is-still-too-unfinished-to-release-publicly-but-has-hero-cosmetics-and-new-game-modes-in-the-works/",
@@ -575,7 +599,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -586,74 +610,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "agony-two-life-sims-i-really-want-to-play-launched-back-to-b",
-      "titre": "Agony! Two life sims I really want to play launched back to back",
-      "url": "https://www.pcgamer.com/games/life-sim/agony-two-life-sims-i-really-want-to-play-launched-back-to-back/",
+      "id": "ps-plus-members-can-claim-free-psn-avatars-for-sony-s-record",
+      "titre": "PS Plus Members Can Claim Free PSN Avatars for Sony's Record-Breaking Spider-Man: Brand New Day",
+      "url": "https://www.pushsquare.com/news/2026/09/ps-plus-members-can-claim-free-psn-avatars-for-sonys-record-breaking-spider-man-brand-new-day",
       "sources": [
-        "PC Gamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.8,
+      "heures": 6.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/life-sim/agony-two-life-sims-i-really-want-to-play-launched-back-to-back/",
-          "titre": "Agony! Two life sims I really want to play launched back to back"
-        }
-      ]
-    },
-    {
-      "id": "former-halo-lead-suggests-three-ways-activision-could-revive",
-      "titre": "Former Halo lead suggests three ways Activision could revive the legendary series, and urges the company to hire laid off Bungie staff",
-      "url": "https://www.eurogamer.net/halo-lead-activision-revive-hire-bungie-developers",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/halo-lead-activision-revive-hire-bungie-developers",
-          "titre": "Former Halo lead suggests three ways Activision could revive the legendary series, and urges the company to hire laid off Bungie staff"
-        }
-      ]
-    },
-    {
-      "id": "ubisoft-renames-creative-house-2-home-of-the-division-ghost",
-      "titre": "Ubisoft renames Creative House 2, home of The Division, Ghost Recon and Splinter Cell, as Massive Entertainment",
-      "url": "https://www.gamesindustry.biz/ubisoft-renames-creative-house-2-home-of-the-division-ghost-recon-and-splinter-cell-as-massive-entertainment",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/ubisoft-renames-creative-house-2-home-of-the-division-ghost-recon-and-splinter-cell-as-massive-entertainment",
-          "titre": "Ubisoft renames Creative House 2, home of The Division, Ghost Recon and Splinter Cell, as Massive Entertainment"
-        }
-      ]
-    },
-    {
-      "id": "the-americans-have-officially-renamed-artificial-intelligenc",
-      "titre": "The Americans have officially renamed artificial intelligence to 'Super Intelligence,' which should fix everything",
-      "url": "https://www.pcgamer.com/software/ai/the-americans-have-officially-renamed-artificial-intelligence-to-super-intelligence-which-should-fix-everything/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/the-americans-have-officially-renamed-artificial-intelligence-to-super-intelligence-which-should-fix-everything/",
-          "titre": "The Americans have officially renamed artificial intelligence to 'Super Intelligence,' which should fix everything"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/ps-plus-members-can-claim-free-psn-avatars-for-sonys-record-breaking-spider-man-brand-new-day",
+          "titre": "PS Plus Members Can Claim Free PSN Avatars for Sony's Record-Breaking Spider-Man: Brand New Day"
         }
       ]
     },
@@ -665,31 +635,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/octobers-free-playstation-plus-games-include-f1-25/",
           "titre": "October’s ‘free’ PlayStation Plus games include F1 25"
-        }
-      ]
-    },
-    {
-      "id": "pok-mon-legends-z-a-is-getting-a-new-switch-2-physical-relea",
-      "titre": "Pokémon Legends: Z-A Is Getting A New Switch 2 Physical Release Next Month",
-      "url": "https://www.nintendolife.com/news/2026/09/pokemon-legends-z-a-is-getting-a-new-switch-2-physical-release-next-month",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/pokemon-legends-z-a-is-getting-a-new-switch-2-physical-release-next-month",
-          "titre": "Pokémon Legends: Z-A Is Getting A New Switch 2 Physical Release Next Month"
         }
       ]
     },
@@ -701,7 +653,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 9.1,
       "chaleur": 6,
       "liens": [
         {
@@ -719,7 +671,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.7,
+      "heures": 10.8,
       "chaleur": 6,
       "liens": [
         {
@@ -737,7 +689,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.6,
       "chaleur": 6,
       "liens": [
         {
@@ -748,92 +700,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "fatal-fury-city-of-the-wolves-is-getting-a-switch-2-demo-in",
-      "titre": "Fatal Fury: City Of The Wolves Is Getting A Switch 2 Demo In October",
-      "url": "https://www.nintendolife.com/news/2026/09/fatal-fury-city-of-the-wolves-is-getting-a-switch-2-demo-in-october",
+      "id": "modder-who-taunted-try-me-rockstar-with-gta-5-switch-port-is",
+      "titre": "Modder who taunted ‘try me Rockstar’ with GTA 5 Switch port is ‘thankful for Take-Two’s mercy’ as lawyers shut it down",
+      "url": "https://www.videogameschronicle.com/news/modder-who-taunted-try-me-rockstar-with-gta-5-switch-port-is-thankful-for-take-twos-mercy-as-lawyers-shut-it-down/",
       "sources": [
-        "Nintendo Life"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 10.6,
+      "heures": 12.5,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/fatal-fury-city-of-the-wolves-is-getting-a-switch-2-demo-in-october",
-          "titre": "Fatal Fury: City Of The Wolves Is Getting A Switch 2 Demo In October"
-        }
-      ]
-    },
-    {
-      "id": "xbox-mythic-achievements-roll-out-to-insiders-and-are-retroa",
-      "titre": "Xbox Mythic Achievements roll out to Insiders and are retroactively awarded as far back as Xbox 360 games",
-      "url": "https://www.eurogamer.net/xbox-mythic-achievements-playstation-trophies",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-mythic-achievements-playstation-trophies",
-          "titre": "Xbox Mythic Achievements roll out to Insiders and are retroactively awarded as far back as Xbox 360 games"
-        }
-      ]
-    },
-    {
-      "id": "zelda-40th-anniversary-concert-tickets-are-now-live-across-e",
-      "titre": "Zelda 40th Anniversary Concert Tickets Are Now Live Across Europe",
-      "url": "https://www.nintendolife.com/news/2026/09/zelda-40th-anniversary-concert-tickets-are-now-live-across-europe",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/zelda-40th-anniversary-concert-tickets-are-now-live-across-europe",
-          "titre": "Zelda 40th Anniversary Concert Tickets Are Now Live Across Europe"
-        }
-      ]
-    },
-    {
-      "id": "xbox-s-disc-to-digital-feature-rolls-out-for-series-consoles",
-      "titre": "Xbox's disc-to-digital feature rolls out for Series consoles and Xbox One, allowing you to digitise your game-disc collection",
-      "url": "https://www.eurogamer.net/xbox-disc-to-digital-convert-ownership-release",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-disc-to-digital-convert-ownership-release",
-          "titre": "Xbox's disc-to-digital feature rolls out for Series consoles and Xbox One, allowing you to digitise your game-disc collection"
-        }
-      ]
-    },
-    {
-      "id": "housemarque-and-bithell-games-join-game-republic-new-horizon",
-      "titre": "Housemarque and Bithell Games join Game Republic New Horizons speaker lineup, Nintendo to host open session for developers and publishers",
-      "url": "https://www.gamesindustry.biz/housemarque-and-bithell-games-join-game-republic-new-horizons-speaker-lineup-nintendo-to-host-open-session-for-developers-and-publishers",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/housemarque-and-bithell-games-join-game-republic-new-horizons-speaker-lineup-nintendo-to-host-open-session-for-developers-and-publishers",
-          "titre": "Housemarque and Bithell Games join Game Republic New Horizons speaker lineup, Nintendo to host open session for developers and publishers"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/modder-who-taunted-try-me-rockstar-with-gta-5-switch-port-is-thankful-for-take-twos-mercy-as-lawyers-shut-it-down/",
+          "titre": "Modder who taunted ‘try me Rockstar’ with GTA 5 Switch port is ‘thankful for Take-Two’s mercy’ as lawyers shut it down"
         }
       ]
     },
@@ -845,7 +725,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 15.0,
       "chaleur": 6,
       "liens": [
         {
@@ -863,7 +743,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 16.2,
       "chaleur": 6,
       "liens": [
         {
@@ -874,20 +754,110 @@ const VEILLE = {
       ]
     },
     {
-      "id": "why-should-we-just-give-up-the-entire-month-of-november-the",
-      "titre": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6",
-      "url": "https://www.gamesindustry.biz/why-should-we-just-give-up-the-entire-month-of-november-the-indie-games-going-head-to-head-with-gta-6",
+      "id": "fatal-fury-city-of-the-wolves-is-getting-a-switch-2-demo-in",
+      "titre": "Fatal Fury: City Of The Wolves Is Getting A Switch 2 Demo In October",
+      "url": "https://www.nintendolife.com/news/2026/09/fatal-fury-city-of-the-wolves-is-getting-a-switch-2-demo-in-october",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.8,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/fatal-fury-city-of-the-wolves-is-getting-a-switch-2-demo-in-october",
+          "titre": "Fatal Fury: City Of The Wolves Is Getting A Switch 2 Demo In October"
+        }
+      ]
+    },
+    {
+      "id": "xbox-mythic-achievements-roll-out-to-insiders-and-are-retroa",
+      "titre": "Xbox Mythic Achievements roll out to Insiders and are retroactively awarded as far back as Xbox 360 games",
+      "url": "https://www.eurogamer.net/xbox-mythic-achievements-playstation-trophies",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 13.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-mythic-achievements-playstation-trophies",
+          "titre": "Xbox Mythic Achievements roll out to Insiders and are retroactively awarded as far back as Xbox 360 games"
+        }
+      ]
+    },
+    {
+      "id": "zelda-40th-anniversary-concert-tickets-are-now-live-across-e",
+      "titre": "Zelda 40th Anniversary Concert Tickets Are Now Live Across Europe",
+      "url": "https://www.nintendolife.com/news/2026/09/zelda-40th-anniversary-concert-tickets-are-now-live-across-europe",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/zelda-40th-anniversary-concert-tickets-are-now-live-across-europe",
+          "titre": "Zelda 40th Anniversary Concert Tickets Are Now Live Across Europe"
+        }
+      ]
+    },
+    {
+      "id": "xbox-s-disc-to-digital-feature-rolls-out-for-series-consoles",
+      "titre": "Xbox's disc-to-digital feature rolls out for Series consoles and Xbox One, allowing you to digitise your game-disc collection",
+      "url": "https://www.eurogamer.net/xbox-disc-to-digital-convert-ownership-release",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 13.6,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-disc-to-digital-convert-ownership-release",
+          "titre": "Xbox's disc-to-digital feature rolls out for Series consoles and Xbox One, allowing you to digitise your game-disc collection"
+        }
+      ]
+    },
+    {
+      "id": "housemarque-and-bithell-games-join-game-republic-new-horizon",
+      "titre": "Housemarque and Bithell Games join Game Republic New Horizons speaker lineup, Nintendo to host open session for developers and publishers",
+      "url": "https://www.gamesindustry.biz/housemarque-and-bithell-games-join-game-republic-new-horizons-speaker-lineup-nintendo-to-host-open-session-for-developers-and-publishers",
       "sources": [
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 33.9,
-      "chaleur": 6,
+      "heures": 13.6,
+      "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/why-should-we-just-give-up-the-entire-month-of-november-the-indie-games-going-head-to-head-with-gta-6",
-          "titre": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6"
+          "url": "https://www.gamesindustry.biz/housemarque-and-bithell-games-join-game-republic-new-horizons-speaker-lineup-nintendo-to-host-open-session-for-developers-and-publishers",
+          "titre": "Housemarque and Bithell Games join Game Republic New Horizons speaker lineup, Nintendo to host open session for developers and publishers"
+        }
+      ]
+    },
+    {
+      "id": "acclaimed-vampire-survivors-inspired-survival-game-hits-swit",
+      "titre": "Acclaimed Vampire Survivors-Inspired Survival Game Hits Switch Next Month",
+      "url": "https://www.nintendolife.com/news/2026/09/acclaimed-vampire-survivors-inspired-survival-game-hits-switch-next-month",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 14.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/acclaimed-vampire-survivors-inspired-survival-game-hits-switch-next-month",
+          "titre": "Acclaimed Vampire Survivors-Inspired Survival Game Hits Switch Next Month"
         }
       ]
     },
@@ -899,7 +869,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 24.9,
+      "heures": 27.0,
       "chaleur": 5,
       "liens": [
         {
@@ -917,7 +887,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 31.5,
       "chaleur": 5,
       "liens": [
         {
@@ -935,13 +905,85 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.9,
+      "heures": 34.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
           "titre": "More Nintendo LEGO Sets Are Being Retired This Year"
+        }
+      ]
+    },
+    {
+      "id": "agony-two-life-sims-i-really-want-to-play-launched-back-to-b",
+      "titre": "Agony! Two life sims I really want to play launched back to back",
+      "url": "https://www.pcgamer.com/games/life-sim/agony-two-life-sims-i-really-want-to-play-launched-back-to-back/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/life-sim/agony-two-life-sims-i-really-want-to-play-launched-back-to-back/",
+          "titre": "Agony! Two life sims I really want to play launched back to back"
+        }
+      ]
+    },
+    {
+      "id": "former-halo-lead-suggests-three-ways-activision-could-revive",
+      "titre": "Former Halo lead suggests three ways Activision could revive the legendary series, and urges the company to hire laid off Bungie staff",
+      "url": "https://www.eurogamer.net/halo-lead-activision-revive-hire-bungie-developers",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/halo-lead-activision-revive-hire-bungie-developers",
+          "titre": "Former Halo lead suggests three ways Activision could revive the legendary series, and urges the company to hire laid off Bungie staff"
+        }
+      ]
+    },
+    {
+      "id": "ubisoft-renames-creative-house-2-home-of-the-division-ghost",
+      "titre": "Ubisoft renames Creative House 2, home of The Division, Ghost Recon and Splinter Cell, as Massive Entertainment",
+      "url": "https://www.gamesindustry.biz/ubisoft-renames-creative-house-2-home-of-the-division-ghost-recon-and-splinter-cell-as-massive-entertainment",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/ubisoft-renames-creative-house-2-home-of-the-division-ghost-recon-and-splinter-cell-as-massive-entertainment",
+          "titre": "Ubisoft renames Creative House 2, home of The Division, Ghost Recon and Splinter Cell, as Massive Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "the-americans-have-officially-renamed-artificial-intelligenc",
+      "titre": "The Americans have officially renamed artificial intelligence to 'Super Intelligence,' which should fix everything",
+      "url": "https://www.pcgamer.com/software/ai/the-americans-have-officially-renamed-artificial-intelligence-to-super-intelligence-which-should-fix-everything/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/the-americans-have-officially-renamed-artificial-intelligence-to-super-intelligence-which-should-fix-everything/",
+          "titre": "The Americans have officially renamed artificial intelligence to 'Super Intelligence,' which should fix everything"
         }
       ]
     },
@@ -953,7 +995,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +1013,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +1031,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +1049,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1025,7 +1067,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,7 +1085,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,7 +1103,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 9.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1079,7 +1121,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1097,7 +1139,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1115,31 +1157,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/people-are-very-happy-using-ps5-former-sony-exec-shuhei-yoshida-thinks-ps6-can-wait",
           "titre": "'People Are Very Happy Using PS5': Former Sony Exec Shuhei Yoshida Thinks PS6 Can Wait"
-        }
-      ]
-    },
-    {
-      "id": "tinker-bard-illusionist-blizzard-seemingly-surveying-world-o",
-      "titre": "Tinker, Bard, Illusionist - Blizzard seemingly surveying World of Warcraft: Forever players about never-before-seen classes to add to the game",
-      "url": "https://www.eurogamer.net/world-of-warcraft-forever-class-survey",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 8.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/world-of-warcraft-forever-class-survey",
-          "titre": "Tinker, Bard, Illusionist - Blizzard seemingly surveying World of Warcraft: Forever players about never-before-seen classes to add to the game"
         }
       ]
     },
@@ -1151,7 +1175,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1160,27 +1184,7 @@ const VEILLE = {
           "titre": "\"My god this new lighting is lifeless\" - The Witcher 3 Remastered Edition divides players for a few key reasons"
         }
       ]
-    },
-    {
-      "id": "witcher-3-remastered-transmog-how-to-change-armor-appearance",
-      "titre": "Witcher 3 Remastered transmog: How to change armor appearance by unlocking Reforge",
-      "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-transmog-how-to-change-armor-appearance-by-unlocking-reforge/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-transmog-how-to-change-armor-appearance-by-unlocking-reforge/",
-          "titre": "Witcher 3 Remastered transmog: How to change armor appearance by unlocking Reforge"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "Suda 51's Grasshopper Manufacture splits from NetEase"
-  ]
+  "alertes": []
 };
