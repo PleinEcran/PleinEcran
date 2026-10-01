@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "01/10/2026 à 12h29",
+  "collecte": "01/10/2026 à 14h25",
   "seuil": 14,
   "sujets": [
     {
@@ -10,12 +10,11 @@ const VEILLE = {
       "sources": [
         "Eurogamer",
         "GamesIndustry.biz",
-        "Rock Paper Shotgun",
-        "VGC"
+        "Rock Paper Shotgun"
       ],
-      "reprises": 4,
-      "heures": 2.0,
-      "chaleur": 20,
+      "reprises": 3,
+      "heures": 3.9,
+      "chaleur": 17,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -31,11 +30,6 @@ const VEILLE = {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/xbox-ceo-asha-sharma-insists-xbox-is-not-for-sale",
           "titre": "Xbox CEO Asha Sharma insists \"Xbox is not for sale\""
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-ceo-asha-sharma-insists-microsofts-gaming-business-is-not-for-sale/",
-          "titre": "Xbox CEO Asha Sharma insists Microsoft’s gaming business is ‘not for sale’"
         }
       ]
     },
@@ -49,7 +43,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 1.8,
+      "heures": 3.8,
       "chaleur": 14,
       "liens": [
         {
@@ -78,7 +72,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.8,
+      "heures": 3.7,
       "chaleur": 13,
       "liens": [
         {
@@ -94,6 +88,96 @@ const VEILLE = {
       ]
     },
     {
+      "id": "i-am-here-to-save-us-all-time-by-determining-which-of-our-mo",
+      "titre": "I am here to save us all time by determining which of our most-played videogames would be more efficiently completed if you had a gun",
+      "url": "https://www.pcgamer.com/games/i-am-here-to-save-us-all-time-by-determining-which-of-our-most-played-videogames-would-be-more-efficiently-completed-if-you-had-a-gun/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer",
+        "Push Square"
+      ],
+      "reprises": 3,
+      "heures": 0.8,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/i-am-here-to-save-us-all-time-by-determining-which-of-our-most-played-videogames-would-be-more-efficiently-completed-if-you-had-a-gun/",
+          "titre": "I am here to save us all time by determining which of our most-played videogames would be more efficiently completed if you had a gun"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/playstation-ps-plus-games-lineup-october-2026",
+          "titre": "Here are our PS Plus monthly games for October 2026"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/ps-plus-essential-games-for-october-2026-announced",
+          "titre": "PS Plus Essential Games for October 2026 Announced"
+        }
+      ]
+    },
+    {
+      "id": "capcom-has-a-plan-for-when-there-s-no-old-resident-evils-lef",
+      "titre": "Capcom Has a Plan for When There's No Old Resident Evils Left to Remake",
+      "url": "https://www.pushsquare.com/news/2026/10/capcom-has-a-plan-for-when-theres-no-old-resident-evils-left-to-remake",
+      "sources": [
+        "Nintendo Life",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 0.9,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/capcom-has-a-plan-for-when-theres-no-old-resident-evils-left-to-remake",
+          "titre": "Capcom Has a Plan for When There's No Old Resident Evils Left to Remake"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/capcom-arent-just-running-out-of-resident-evil-games-to-remake-theyre-banking-on-it-with-a-mysterious-crossover-planned-when-the-timelines-collide",
+          "titre": "Capcom aren't just running out of Resident Evil games to remake - they're banking on it, with a mysterious \"crossover\" planned when the timelines collide"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/capcom-has-an-intriguing-plan-for-when-its-resident-evil-remakes-catch-up-with-the-new-games",
+          "titre": "Capcom Has An Intriguing Plan For When Its Resident Evil Remakes Catch Up With The New Games"
+        }
+      ]
+    },
+    {
+      "id": "gears-of-war-e-day-campaign-review-an-absolute-blast-even-if",
+      "titre": "Gears of War E-Day campaign review: An absolute blast, even if it focuses on commotion over emotion",
+      "url": "https://www.videogameschronicle.com/review/gears-of-war-e-day-campaign-review/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 1.4,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/review/gears-of-war-e-day-campaign-review/",
+          "titre": "Gears of War E-Day campaign review: An absolute blast, even if it focuses on commotion over emotion"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gears-of-war-eday-campaign-review",
+          "titre": "Gears of War E-Day campaign review - turns out you can teach old Cogs new tricks"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review-in-progress/",
+          "titre": "Gears of War: E-Day review in progress — Good shooting, but the campaign's a slog"
+        }
+      ]
+    },
+    {
       "id": "witcher-3-remastered-patch-addressing-various-lighting-adjus",
       "titre": "Witcher 3 Remastered patch addressing \"various lighting adjustments\" rolls out",
       "url": "https://www.eurogamer.net/witcher-3-lighting-brightness-patch-remastered",
@@ -103,7 +187,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 12,
       "liens": [
         {
@@ -124,36 +208,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-division-developers-massive-are-now-the-global-brand-in",
-      "titre": "The Division developers Massive are now \"the global brand\" in charge of Splinter Cell and Ghost Recon, alongside a new Ubisoft dieselpunk MOBA",
-      "url": "https://www.rockpapershotgun.com/the-division-developers-massive-are-now-the-global-brand-in-charge-of-splinter-cell-and-ghost-recon-alongside-a-new-ubisoft-dieselpunk-moba",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 2.4,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-division-developers-massive-are-now-the-global-brand-in-charge-of-splinter-cell-and-ghost-recon-alongside-a-new-ubisoft-dieselpunk-moba",
-          "titre": "The Division developers Massive are now \"the global brand\" in charge of Splinter Cell and Ghost Recon, alongside a new Ubisoft dieselpunk MOBA"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/massive-entertainment-the-division-splinter-cell-ghost-recon",
-          "titre": "The Division studio Massive expands to take control of Splinter Cell and Ghost Recon, and a new IP, in Ubisoft's most recent reorganisation"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/ubisoft-renames-creative-house-2-home-of-the-division-ghost-recon-and-splinter-cell-as-massive-entertainment",
-          "titre": "Ubisoft renames Creative House 2, home of The Division, Ghost Recon and Splinter Cell, as Massive Entertainment"
-        }
-      ]
-    },
-    {
       "id": "suda-51-s-grasshopper-manufacture-splits-from-netease",
       "titre": "Suda 51's Grasshopper Manufacture splits from NetEase",
       "url": "https://www.gamedeveloper.com/business/suda-51-s-grasshopper-manufacture-splits-from-netease",
@@ -164,7 +218,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 4,
-      "heures": 16.9,
+      "heures": 18.8,
       "chaleur": 12,
       "liens": [
         {
@@ -190,21 +244,147 @@ const VEILLE = {
       ]
     },
     {
-      "id": "psa-castlevania-belmont-s-curse-free-demo-is-now-live-with-a",
-      "titre": "PSA: Castlevania: Belmont's Curse Free Demo Is Now Live, With A Frame Rate Boost On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/psa-castlevania-belmonts-curse-free-demo-is-now-live-with-a-frame-rate-boost-on-switch-2",
+      "id": "kena-scars-of-kosmora-has-been-delayed-until-next-year-ember",
+      "titre": "Kena: Scars of Kosmora has been delayed until next year, Ember Lab announces",
+      "url": "https://www.videogameschronicle.com/news/kena-scars-of-kosmora-has-been-delayed-until-next-year-ember-lab-announces/",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.5,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/kena-scars-of-kosmora-has-been-delayed-until-next-year-ember-lab-announces/",
+          "titre": "Kena: Scars of Kosmora has been delayed until next year, Ember Lab announces"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5s-kena-scars-of-kosmora-officially-delayed-into-2027-new-details-revealed",
+          "titre": "PS5's Kena: Scars of Kosmora Officially Delayed into 2027, New Details Revealed"
+        }
+      ]
+    },
+    {
+      "id": "the-division-developers-massive-are-now-the-global-brand-in",
+      "titre": "The Division developers Massive are now \"the global brand\" in charge of Splinter Cell and Ghost Recon, alongside a new Ubisoft dieselpunk MOBA",
+      "url": "https://www.rockpapershotgun.com/the-division-developers-massive-are-now-the-global-brand-in-charge-of-splinter-cell-and-ghost-recon-alongside-a-new-ubisoft-dieselpunk-moba",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 4.4,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-division-developers-massive-are-now-the-global-brand-in-charge-of-splinter-cell-and-ghost-recon-alongside-a-new-ubisoft-dieselpunk-moba",
+          "titre": "The Division developers Massive are now \"the global brand\" in charge of Splinter Cell and Ghost Recon, alongside a new Ubisoft dieselpunk MOBA"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/massive-entertainment-the-division-splinter-cell-ghost-recon",
+          "titre": "The Division studio Massive expands to take control of Splinter Cell and Ghost Recon, and a new IP, in Ubisoft's most recent reorganisation"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/ubisoft-renames-creative-house-2-home-of-the-division-ghost-recon-and-splinter-cell-as-massive-entertainment",
+          "titre": "Ubisoft renames Creative House 2, home of The Division, Ghost Recon and Splinter Cell, as Massive Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "control-resonant-s-new-game-update-also-squashes-some-of-my",
+      "titre": "Control Resonant's New Game++ update also squashes some of my least favourite bugs, including the one where magic doors change my trousers",
+      "url": "https://www.rockpapershotgun.com/control-resonants-new-game-update-also-squashes-some-of-my-least-favourite-bugs-including-the-one-where-magic-doors-change-my-trousers",
+      "sources": [
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 0.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/control-resonants-new-game-update-also-squashes-some-of-my-least-favourite-bugs-including-the-one-where-magic-doors-change-my-trousers",
+          "titre": "Control Resonant's New Game++ update also squashes some of my least favourite bugs, including the one where magic doors change my trousers"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/control-resonant-ps5-update-1-4-live-now-with-enhanced-new-gameplus",
+          "titre": "Control Resonant PS5 Update 1.4 Live Now with Enhanced New Game+"
+        }
+      ]
+    },
+    {
+      "id": "007-first-light-gets-new-game-photo-mode-new-missions-more-i",
+      "titre": "007 First Light Gets New Game+, Photo Mode, New Missions, More in Huge Free DLC",
+      "url": "https://www.pushsquare.com/news/2026/10/007-first-light-gets-new-gameplus-photo-mode-new-missions-more-in-huge-free-dlc",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/007-first-light-gets-new-gameplus-photo-mode-new-missions-more-in-huge-free-dlc",
+          "titre": "007 First Light Gets New Game+, Photo Mode, New Missions, More in Huge Free DLC"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/007-first-light-gets-free-extended-operations-dlc-today-adding-new-game-and-other-features/",
+          "titre": "007 First Light gets free Extended Operations DLC today adding New Game+ and other features"
+        }
+      ]
+    },
+    {
+      "id": "ubisoft-workers-of-montreal-union-petition-to-preserve-hybri",
+      "titre": "Ubisoft Workers of Montreal Union petition to \"preserve hybrid work\" secures over 300 signatures",
+      "url": "https://www.gamesindustry.biz/ubisoft-workers-of-montreal-union-petition-to-preserve-hybrid-work-secures-over-300-signatures",
+      "sources": [
+        "Game Developer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 0.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/ubisoft-workers-of-montreal-union-petition-to-preserve-hybrid-work-secures-over-300-signatures",
+          "titre": "Ubisoft Workers of Montreal Union petition to \"preserve hybrid work\" secures over 300 signatures"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/production/ubisoft-montreal-employees-launch-collective-action-to-preserve-hybrid-work-schedule",
+          "titre": "Ubisoft Montreal employees launch collective action to preserve hybrid work schedule"
+        }
+      ]
+    },
+    {
+      "id": "talking-point-so-how-are-you-liking-the-castlevania-belmont",
+      "titre": "Talking Point: So, How Are You Liking The Castlevania: Belmont's Curse Demo?",
+      "url": "https://www.nintendolife.com/features/talking-point-so-how-are-you-liking-the-castlevania-belmonts-curse-demo",
       "sources": [
         "Nintendo Life",
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 2.7,
-      "chaleur": 11,
+      "heures": 1.9,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/psa-castlevania-belmonts-curse-free-demo-is-now-live-with-a-frame-rate-boost-on-switch-2",
-          "titre": "PSA: Castlevania: Belmont's Curse Free Demo Is Now Live, With A Frame Rate Boost On Switch 2"
+          "url": "https://www.nintendolife.com/features/talking-point-so-how-are-you-liking-the-castlevania-belmonts-curse-demo",
+          "titre": "Talking Point: So, How Are You Liking The Castlevania: Belmont's Curse Demo?"
         },
         {
           "source": "Push Square",
@@ -214,128 +394,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to",
-      "titre": "Former Sony Exec Shuhei Yoshida Thinks Nintendo Is \"Going To Do Pretty Well\" With Switch 2 \"For Many Years To Come\"",
-      "url": "https://www.nintendolife.com/news/2026/10/former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to-do-pretty-well-with-switch-2-for-many-years-to-come",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 4.5,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to-do-pretty-well-with-switch-2-for-many-years-to-come",
-          "titre": "Former Sony Exec Shuhei Yoshida Thinks Nintendo Is \"Going To Do Pretty Well\" With Switch 2 \"For Many Years To Come\""
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/people-are-very-happy-using-ps5-former-sony-exec-shuhei-yoshida-thinks-ps6-can-wait",
-          "titre": "'People Are Very Happy Using PS5': Former Sony Exec Shuhei Yoshida Thinks PS6 Can Wait"
-        }
-      ]
-    },
-    {
-      "id": "here-are-our-ps-plus-monthly-games-for-october-2026",
-      "titre": "Here are our PS Plus monthly games for October 2026",
-      "url": "https://www.eurogamer.net/playstation-ps-plus-games-lineup-october-2026",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 1.8,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/playstation-ps-plus-games-lineup-october-2026",
-          "titre": "Here are our PS Plus monthly games for October 2026"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/ps-plus-essential-games-for-october-2026-announced",
-          "titre": "PS Plus Essential Games for October 2026 Announced"
-        }
-      ]
-    },
-    {
-      "id": "capcom-has-an-intriguing-plan-for-when-its-resident-evil-rem",
-      "titre": "Capcom Has An Intriguing Plan For When Its Resident Evil Remakes Catch Up With The New Games",
-      "url": "https://www.nintendolife.com/news/2026/10/capcom-has-an-intriguing-plan-for-when-its-resident-evil-remakes-catch-up-with-the-new-games",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 3.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/capcom-has-an-intriguing-plan-for-when-its-resident-evil-remakes-catch-up-with-the-new-games",
-          "titre": "Capcom Has An Intriguing Plan For When Its Resident Evil Remakes Catch Up With The New Games"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/capcom-says-it-has-a-plan-for-when-it-runs-out-of-resident-evil-remakes/",
-          "titre": "Capcom says it has a plan for when it runs out of Resident Evil remakes"
-        }
-      ]
-    },
-    {
-      "id": "ps5-s-kena-scars-of-kosmora-officially-delayed-into-2027-new",
-      "titre": "PS5's Kena: Scars of Kosmora Officially Delayed into 2027, New Details Revealed",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5s-kena-scars-of-kosmora-officially-delayed-into-2027-new-details-revealed",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 0.2,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps5s-kena-scars-of-kosmora-officially-delayed-into-2027-new-details-revealed",
-          "titre": "PS5's Kena: Scars of Kosmora Officially Delayed into 2027, New Details Revealed"
-        }
-      ]
-    },
-    {
       "id": "warioware-director-reveals-what-changed-after-he-left-ninten",
       "titre": "WarioWare director reveals what changed after he left Nintendo",
-      "url": "https://www.videogameschronicle.com/guide/warioware-director-reveals-what-changed-after-he-left-nintendo/",
+      "url": "https://www.videogameschronicle.com/news/warioware-director-reveals-what-changed-after-he-left-nintendo/",
       "sources": [
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.8,
       "chaleur": 8,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/warioware-director-reveals-what-changed-after-he-left-nintendo/",
+          "url": "https://www.videogameschronicle.com/news/warioware-director-reveals-what-changed-after-he-left-nintendo/",
           "titre": "WarioWare director reveals what changed after he left Nintendo"
-        }
-      ]
-    },
-    {
-      "id": "amd-s-new-gainsborough-apu-rumoured-to-be-the-chip-that-powe",
-      "titre": "AMD's new 'Gainsborough' APU rumoured to be the chip that powers the long-awaited Steam Deck 2",
-      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/amds-new-gainsborough-apu-rumoured-to-be-the-chip-that-powers-the-long-awaited-steam-deck-2/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/amds-new-gainsborough-apu-rumoured-to-be-the-chip-that-powers-the-long-awaited-steam-deck-2/",
-          "titre": "AMD's new 'Gainsborough' APU rumoured to be the chip that powers the long-awaited Steam Deck 2"
         }
       ]
     },
@@ -347,7 +419,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.7,
+      "heures": 21.7,
       "chaleur": 8,
       "liens": [
         {
@@ -358,20 +430,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-switch-2-system-update-23-0-1-is-now-live-here-are",
-      "titre": "Nintendo Switch 2 System Update 23.0.1 Is Now Live, Here Are The Full Patch Notes",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-switch-2-system-update-23-0-1-is-now-live-here-are-the-full-patch-notes",
+      "id": "former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to",
+      "titre": "Former Sony Exec Shuhei Yoshida Thinks Nintendo Is \"Going To Do Pretty Well\" With Switch 2 \"For Many Years To Come\"",
+      "url": "https://www.nintendolife.com/news/2026/10/former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to-do-pretty-well-with-switch-2-for-many-years-to-come",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.1,
+      "heures": 6.4,
       "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-switch-2-system-update-23-0-1-is-now-live-here-are-the-full-patch-notes",
-          "titre": "Nintendo Switch 2 System Update 23.0.1 Is Now Live, Here Are The Full Patch Notes"
+          "url": "https://www.nintendolife.com/news/2026/10/former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to-do-pretty-well-with-switch-2-for-many-years-to-come",
+          "titre": "Former Sony Exec Shuhei Yoshida Thinks Nintendo Is \"Going To Do Pretty Well\" With Switch 2 \"For Many Years To Come\""
         }
       ]
     },
@@ -610,6 +682,168 @@ const VEILLE = {
       ]
     },
     {
+      "id": "consumer-protection-cooperation-network-launches-coordinated",
+      "titre": "Consumer Protection Cooperation Network launches coordinated actions against nine companies on in-game currency",
+      "url": "https://www.gamesindustry.biz/consumer-protection-cooperation-network-launches-coordinated-actions-against-nine-companies-on-in-game-currency",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/consumer-protection-cooperation-network-launches-coordinated-actions-against-nine-companies-on-in-game-currency",
+          "titre": "Consumer Protection Cooperation Network launches coordinated actions against nine companies on in-game currency"
+        }
+      ]
+    },
+    {
+      "id": "ace-combat-8-developer-apologises-for-belkan-war-pre-order-b",
+      "titre": "Ace Combat 8 developer apologises for Belkan War pre-order backlash, explains why it happened and vows to explore possible solutions",
+      "url": "https://www.eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-backlash-response",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-backlash-response",
+          "titre": "Ace Combat 8 developer apologises for Belkan War pre-order backlash, explains why it happened and vows to explore possible solutions"
+        }
+      ]
+    },
+    {
+      "id": "aion-2-fix-character-creation-restricted-solution-and-workar",
+      "titre": "Aion 2 fix: ‘Character creation restricted’ solution and workarounds",
+      "url": "https://www.videogameschronicle.com/guide/aion-2-fix-character-creation-restricted-solution-and-workarounds/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/aion-2-fix-character-creation-restricted-solution-and-workarounds/",
+          "titre": "Aion 2 fix: ‘Character creation restricted’ solution and workarounds"
+        }
+      ]
+    },
+    {
+      "id": "this-arse-cushion-is-the-biggest-upgrade-i-ve-made-to-my-gam",
+      "titre": "This arse cushion is the biggest upgrade I've made to my gaming setup in 2026, which says a lot about where we're at right now",
+      "url": "https://www.pcgamer.com/hardware/this-arse-cushion-is-the-biggest-upgrade-ive-made-to-my-gaming-setup-in-2026-which-says-a-lot-about-where-were-at-right-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/this-arse-cushion-is-the-biggest-upgrade-ive-made-to-my-gaming-setup-in-2026-which-says-a-lot-about-where-were-at-right-now/",
+          "titre": "This arse cushion is the biggest upgrade I've made to my gaming setup in 2026, which says a lot about where we're at right now"
+        }
+      ]
+    },
+    {
+      "id": "i-m-not-sure-the-ai-in-my-chair-s-lumbar-support-actually-co",
+      "titre": "I'm not sure the \"AI\" in my chair's lumbar support actually counts as AI, but it has been smart enough to fix up my spine",
+      "url": "https://www.rockpapershotgun.com/im-not-sure-the-ai-in-my-chairs-lumbar-support-actually-counts-as-ai-but-it-has-been-smart-enough-to-fix-up-my-spine",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/im-not-sure-the-ai-in-my-chairs-lumbar-support-actually-counts-as-ai-but-it-has-been-smart-enough-to-fix-up-my-spine",
+          "titre": "I'm not sure the \"AI\" in my chair's lumbar support actually counts as AI, but it has been smart enough to fix up my spine"
+        }
+      ]
+    },
+    {
+      "id": "aoc-jumps-on-the-1-000-hz-ips-gaming-monitor-bandwagon-but-t",
+      "titre": "AOC jumps on the 1,000 Hz IPS gaming monitor bandwagon but this time with 0.1 ms pixel response",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/aoc-jumps-on-the-1-000-hz-ips-gaming-monitor-bandwagon-but-this-time-with-0-1-ms-pixel-response/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-monitors/aoc-jumps-on-the-1-000-hz-ips-gaming-monitor-bandwagon-but-this-time-with-0-1-ms-pixel-response/",
+          "titre": "AOC jumps on the 1,000 Hz IPS gaming monitor bandwagon but this time with 0.1 ms pixel response"
+        }
+      ]
+    },
+    {
+      "id": "roll-up-roll-up-can-you-spot-which-of-these-images-are-using",
+      "titre": "Roll up roll up, can you spot which of these images are using DLSS 5?",
+      "url": "https://www.pcgamer.com/hardware/roll-up-roll-up-can-you-spot-which-of-these-images-are-using-dlss-5/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/roll-up-roll-up-can-you-spot-which-of-these-images-are-using-dlss-5/",
+          "titre": "Roll up roll up, can you spot which of these images are using DLSS 5?"
+        }
+      ]
+    },
+    {
+      "id": "galaxies-game-showcase-returns-later-this-month-over-40-comp",
+      "titre": "Galaxies Game Showcase Returns Later This Month, Over 40 Companies Taking Part",
+      "url": "https://www.pushsquare.com/news/2026/10/galaxies-game-showcase-returns-later-this-month-over-40-companies-taking-part",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/galaxies-game-showcase-returns-later-this-month-over-40-companies-taking-part",
+          "titre": "Galaxies Game Showcase Returns Later This Month, Over 40 Companies Taking Part"
+        }
+      ]
+    },
+    {
+      "id": "arc-raiders-is-taking-no-prisoners-when-it-comes-to-cheaters",
+      "titre": "Arc Raiders' is taking no prisoners when it comes to cheaters with permanent bans becoming the new normal: 'No warnings. No second chances'",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-taking-no-prisoners-when-it-comes-to-cheaters-with-permanent-bans-becoming-the-new-normal-no-warnings-no-second-chances/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-taking-no-prisoners-when-it-comes-to-cheaters-with-permanent-bans-becoming-the-new-normal-no-warnings-no-second-chances/",
+          "titre": "Arc Raiders' is taking no prisoners when it comes to cheaters with permanent bans becoming the new normal: 'No warnings. No second chances'"
+        }
+      ]
+    },
+    {
       "id": "i-want-to-punt-meta-s-muse-ai-mascot-back-into-the-cursed-vo",
       "titre": "I want to punt Meta's Muse AI mascot back into the cursed void from whence it came",
       "url": "https://www.pcgamer.com/software/ai/i-want-to-punt-metas-muse-ai-mascot-back-into-the-cursed-void-from-whence-it-came/",
@@ -617,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -635,7 +869,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -653,7 +887,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -671,7 +905,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -689,7 +923,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -707,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -725,7 +959,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -743,7 +977,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -754,110 +988,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "control-resonant-ps5-update-1-4-live-now-with-enhanced-new-g",
-      "titre": "Control Resonant PS5 Update 1.4 Live Now with Enhanced New Game+",
-      "url": "https://www.pushsquare.com/news/2026/10/control-resonant-ps5-update-1-4-live-now-with-enhanced-new-gameplus",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/control-resonant-ps5-update-1-4-live-now-with-enhanced-new-gameplus",
-          "titre": "Control Resonant PS5 Update 1.4 Live Now with Enhanced New Game+"
-        }
-      ]
-    },
-    {
-      "id": "micron-ceo-says-it-ll-be-tougher-to-get-memory-in-the-next-c",
-      "titre": "Micron CEO says it'll be tougher to get memory in the next couple of years than it is today, and keeps saying it over and over again",
-      "url": "https://www.pcgamer.com/hardware/memory/micron-ceo-says-itll-be-tougher-to-get-memory-in-the-next-couple-of-years-than-it-is-today-and-keeps-saying-it-over-and-over-again/",
+      "id": "amd-s-new-gainsborough-apu-rumoured-to-be-the-chip-that-powe",
+      "titre": "AMD's new 'Gainsborough' APU rumoured to be the chip that powers the long-awaited Steam Deck 2",
+      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/amds-new-gainsborough-apu-rumoured-to-be-the-chip-that-powers-the-long-awaited-steam-deck-2/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.3,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/memory/micron-ceo-says-itll-be-tougher-to-get-memory-in-the-next-couple-of-years-than-it-is-today-and-keeps-saying-it-over-and-over-again/",
-          "titre": "Micron CEO says it'll be tougher to get memory in the next couple of years than it is today, and keeps saying it over and over again"
-        }
-      ]
-    },
-    {
-      "id": "i-spent-far-too-long-assigning-gaming-mouse-values-based-on",
-      "titre": "I spent far too long assigning gaming mouse values based on their price-to-weight ratio, and the runner-up is the rodent on my desk right now",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/i-spent-far-too-long-assigning-gaming-mouse-values-based-on-their-price-to-weight-ratio-and-the-runner-up-is-the-rodent-on-my-desk-right-now/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-mice/i-spent-far-too-long-assigning-gaming-mouse-values-based-on-their-price-to-weight-ratio-and-the-runner-up-is-the-rodent-on-my-desk-right-now/",
-          "titre": "I spent far too long assigning gaming mouse values based on their price-to-weight ratio, and the runner-up is the rodent on my desk right now"
-        }
-      ]
-    },
-    {
-      "id": "jobs-roundup-october-code-wizards-group-appoints-catherine-b",
-      "titre": "Jobs roundup: October | Code Wizards Group appoints Catherine Bygrave as head of commercial",
-      "url": "https://www.gamesindustry.biz/jobs-roundup-october-code-wizards-group-appoints-catherine-bygrave-as-head-of-commercial",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/jobs-roundup-october-code-wizards-group-appoints-catherine-bygrave-as-head-of-commercial",
-          "titre": "Jobs roundup: October | Code Wizards Group appoints Catherine Bygrave as head of commercial"
-        }
-      ]
-    },
-    {
-      "id": "sega-is-teasing-a-new-house-of-the-dead-arcade-game-with-vr",
-      "titre": "Sega is teasing a new House of the Dead arcade game with VR headsets and an 85-inch screen for a ‘front door’",
-      "url": "https://www.videogameschronicle.com/news/sega-is-teasing-a-new-house-of-the-dead-arcade-game-with-vr-headsets-and-an-85-inch-screen-for-a-front-door/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sega-is-teasing-a-new-house-of-the-dead-arcade-game-with-vr-headsets-and-an-85-inch-screen-for-a-front-door/",
-          "titre": "Sega is teasing a new House of the Dead arcade game with VR headsets and an 85-inch screen for a ‘front door’"
-        }
-      ]
-    },
-    {
-      "id": "nvidia-says-my-rtx-4070-super-isn-t-capable-of-multi-frame-g",
-      "titre": "Nvidia says my RTX 4070 Super isn't capable of Multi Frame Gen, but I'm surprised by how smooth this unofficial unlock actually feels",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-says-my-rtx-4070-super-isnt-capable-of-multi-frame-gen-but-im-surprised-by-how-smooth-this-unofficial-unlock-actually-feels/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-says-my-rtx-4070-super-isnt-capable-of-multi-frame-gen-but-im-surprised-by-how-smooth-this-unofficial-unlock-actually-feels/",
-          "titre": "Nvidia says my RTX 4070 Super isn't capable of Multi Frame Gen, but I'm surprised by how smooth this unofficial unlock actually feels"
+          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/amds-new-gainsborough-apu-rumoured-to-be-the-chip-that-powers-the-long-awaited-steam-deck-2/",
+          "titre": "AMD's new 'Gainsborough' APU rumoured to be the chip that powers the long-awaited Steam Deck 2"
         }
       ]
     },
@@ -869,7 +1013,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 5.9,
       "chaleur": 6,
       "liens": [
         {
@@ -887,7 +1031,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.7,
+      "heures": 10.7,
       "chaleur": 6,
       "liens": [
         {
@@ -898,26 +1042,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "world-of-warcraft-forever-survey-pitches-new-classes-to-play",
-      "titre": "World of Warcraft: Forever survey pitches new classes to players, including Bard, Witch, and more",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-survey-pitches-new-classes-to-players-including-bard-witch-and-more/",
+      "id": "nintendo-switch-2-system-update-23-0-1-is-now-live-here-are",
+      "titre": "Nintendo Switch 2 System Update 23.0.1 Is Now Live, Here Are The Full Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-switch-2-system-update-23-0-1-is-now-live-here-are-the-full-patch-notes",
       "sources": [
-        "Eurogamer",
-        "PC Gamer"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 13.8,
+      "reprises": 1,
+      "heures": 13.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-survey-pitches-new-classes-to-players-including-bard-witch-and-more/",
-          "titre": "World of Warcraft: Forever survey pitches new classes to players, including Bard, Witch, and more"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/world-of-warcraft-forever-class-survey",
-          "titre": "Tinker, Bard, Illusionist - Blizzard seemingly surveying World of Warcraft: Forever players about never-before-seen classes to add to the game"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-switch-2-system-update-23-0-1-is-now-live-here-are-the-full-patch-notes",
+          "titre": "Nintendo Switch 2 System Update 23.0.1 Is Now Live, Here Are The Full Patch Notes"
         }
       ]
     },
@@ -929,7 +1067,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.4,
       "chaleur": 6,
       "liens": [
         {
@@ -947,31 +1085,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
           "titre": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-will-simulate-hurricanes-rainbows-and-persistent-dynam",
-      "titre": "GTA 6 will simulate hurricanes, rainbows and persistent, dynamic clouds, among other efforts to make you stop doing crime and become a weather nerd",
-      "url": "https://www.rockpapershotgun.com/gta-6-will-simulate-hurricanes-rainbows-and-persistent-dynamic-clouds-among-other-efforts-to-make-you-stop-doing-crime-and-become-a-weather-nerd",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 27.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/gta-6-will-simulate-hurricanes-rainbows-and-persistent-dynamic-clouds-among-other-efforts-to-make-you-stop-doing-crime-and-become-a-weather-nerd",
-          "titre": "GTA 6 will simulate hurricanes, rainbows and persistent, dynamic clouds, among other efforts to make you stop doing crime and become a weather nerd"
         }
       ]
     },
@@ -983,31 +1103,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-plus-expansion-pass-switch-2-game-key-card-release-announced",
           "titre": "Pokémon Pokopia + Expansion Pass Switch 2 Game-Key Card Release Announced"
-        }
-      ]
-    },
-    {
-      "id": "til-what-may-or-may-not-be-the-oldest-board-game-in-recorded",
-      "titre": "TIL what may or may not be the oldest board game in recorded history is also, perhaps inevitably, now a roguelike",
-      "url": "https://www.pcgamer.com/games/roguelike/til-what-may-or-may-not-be-the-oldest-board-game-in-recorded-history-is-also-perhaps-inevitably-now-a-roguelike/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.2,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/roguelike/til-what-may-or-may-not-be-the-oldest-board-game-in-recorded-history-is-also-perhaps-inevitably-now-a-roguelike/",
-          "titre": "TIL what may or may not be the oldest board game in recorded history is also, perhaps inevitably, now a roguelike"
         }
       ]
     },
@@ -1019,7 +1121,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.0,
+      "heures": 19.9,
       "chaleur": 5,
       "liens": [
         {
@@ -1037,31 +1139,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/the-witcher-3-hits-its-highest-ever-steam-concurrent-player-count-following-remastered-launch",
           "titre": "The Witcher 3 hits its highest-ever Steam concurrent player count following Remastered launch"
-        }
-      ]
-    },
-    {
-      "id": "october-s-free-playstation-plus-games-include-f1-25",
-      "titre": "October’s ‘free’ PlayStation Plus games include F1 25",
-      "url": "https://www.videogameschronicle.com/news/octobers-free-playstation-plus-games-include-f1-25/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 20.6,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/octobers-free-playstation-plus-games-include-f1-25/",
-          "titre": "October’s ‘free’ PlayStation Plus games include F1 25"
         }
       ]
     },
@@ -1073,7 +1157,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.1,
+      "heures": 23.0,
       "chaleur": 5,
       "liens": [
         {
@@ -1091,7 +1175,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.0,
+      "heures": 23.9,
       "chaleur": 5,
       "liens": [
         {
@@ -1109,31 +1193,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 24.7,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/zynga-reportedly-almost-acquired-supercell-for-400m-in-2012-but-deal-fell-through-following-failure-of-omgpop",
           "titre": "Zynga reportedly almost acquired Supercell for $400m in 2012, but deal fell through following failure of OMGPop"
-        }
-      ]
-    },
-    {
-      "id": "monster-hunter-wilds-on-switch-2-runs-at-a-stable-30fps-but",
-      "titre": "Monster Hunter Wilds on Switch 2 runs at a stable 30FPS, but it took Capcom a \"painstaking, seemingly endless process\" to get there",
-      "url": "https://www.eurogamer.net/monster-hunter-wilds-switch-2-performance-capcom",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 23.6,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/monster-hunter-wilds-switch-2-performance-capcom",
-          "titre": "Monster Hunter Wilds on Switch 2 runs at a stable 30FPS, but it took Capcom a \"painstaking, seemingly endless process\" to get there"
         }
       ]
     },
@@ -1145,7 +1211,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.7,
+      "heures": 26.7,
       "chaleur": 5,
       "liens": [
         {
@@ -1154,46 +1220,7 @@ const VEILLE = {
           "titre": "Fatal Fury: City Of The Wolves Is Getting A Switch 2 Demo In October"
         }
       ]
-    },
-    {
-      "id": "zelda-40th-anniversary-concert-tickets-are-now-live-across-e",
-      "titre": "Zelda 40th Anniversary Concert Tickets Are Now Live Across Europe",
-      "url": "https://www.nintendolife.com/news/2026/09/zelda-40th-anniversary-concert-tickets-are-now-live-across-europe",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 25.5,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/zelda-40th-anniversary-concert-tickets-are-now-live-across-europe",
-          "titre": "Zelda 40th Anniversary Concert Tickets Are Now Live Across Europe"
-        }
-      ]
-    },
-    {
-      "id": "housemarque-and-bithell-games-join-game-republic-new-horizon",
-      "titre": "Housemarque and Bithell Games join Game Republic New Horizons speaker lineup, Nintendo to host open session for developers and publishers",
-      "url": "https://www.gamesindustry.biz/housemarque-and-bithell-games-join-game-republic-new-horizons-speaker-lineup-nintendo-to-host-open-session-for-developers-and-publishers",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 25.6,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/housemarque-and-bithell-games-join-game-republic-new-horizons-speaker-lineup-nintendo-to-host-open-session-for-developers-and-publishers",
-          "titre": "Housemarque and Bithell Games join Game Republic New Horizons speaker lineup, Nintendo to host open session for developers and publishers"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "\"Xbox is not for sale\" despite all of the layoffs and neat repackaging of studios within Microsoft's corporate structure, CEO Asha Sharma says",
-    "New Uncharted game reportedly in the works at Naughty Dog, and it's not a remake"
-  ]
+  "alertes": []
 };
