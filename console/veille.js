@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "01/10/2026 à 00h31",
+  "collecte": "01/10/2026 à 02h21",
   "seuil": 14,
   "sujets": [
     {
@@ -16,7 +16,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 6,
-      "heures": 4.9,
+      "heures": 6.7,
       "chaleur": 19,
       "liens": [
         {
@@ -61,7 +61,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 5.9,
+      "heures": 7.8,
       "chaleur": 12,
       "liens": [
         {
@@ -91,7 +91,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 10.0,
+      "heures": 11.9,
       "chaleur": 12,
       "liens": [
         {
@@ -112,6 +112,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "nintendo-switch-2-system-update-23-0-1-is-now-live-here-are",
+      "titre": "Nintendo Switch 2 System Update 23.0.1 Is Now Live, Here Are The Full Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-switch-2-system-update-23-0-1-is-now-live-here-are-the-full-patch-notes",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-switch-2-system-update-23-0-1-is-now-live-here-are-the-full-patch-notes",
+          "titre": "Nintendo Switch 2 System Update 23.0.1 Is Now Live, Here Are The Full Patch Notes"
+        }
+      ]
+    },
+    {
       "id": "rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan",
       "titre": "Rumour: New Uncharted Game in the Works at Naughty Dog, Nathan Drake Not the Lead Character",
       "url": "https://www.pushsquare.com/news/2026/10/rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan-drake-not-the-lead-character",
@@ -120,7 +138,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.5,
+      "heures": 3.4,
       "chaleur": 9,
       "liens": [
         {
@@ -144,7 +162,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 1.8,
+      "heures": 3.7,
       "chaleur": 9,
       "liens": [
         {
@@ -168,7 +186,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 7.5,
+      "heures": 9.3,
       "chaleur": 9,
       "liens": [
         {
@@ -191,37 +209,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.6,
       "chaleur": 9,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/analyst-argues-gears-of-war-e-day-shouldnt-have-been-cancelled-on-ps5-after-soft-steam-pre-orders",
           "titre": "Analyst Argues Gears of War: E-Day Shouldn't Have Been Cancelled on PS5 After 'Soft' Steam Pre-Orders"
-        }
-      ]
-    },
-    {
-      "id": "you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if",
-      "titre": "You Can Get The Witcher 3 Remastered For Free On Switch 2, If You Can Borrow A Switch 1 Cart",
-      "url": "https://www.nintendolife.com/news/2026/09/you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if-you-can-borrow-a-switch-1-cart",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 10.8,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if-you-can-borrow-a-switch-1-cart",
-          "titre": "You Can Get The Witcher 3 Remastered For Free On Switch 2, If You Can Borrow A Switch 1 Cart"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-should-you-use-enemy-upscaling/",
-          "titre": "Witcher 3 Remastered: Should you use Enemy Upscaling?"
         }
       ]
     },
@@ -233,7 +227,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 1.9,
       "chaleur": 8,
       "liens": [
         {
@@ -251,13 +245,37 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.1,
       "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/roguelike/til-what-may-or-may-not-be-the-oldest-board-game-in-recorded-history-is-also-perhaps-inevitably-now-a-roguelike/",
           "titre": "TIL what may or may not be the oldest board game in recorded history is also, perhaps inevitably, now a roguelike"
+        }
+      ]
+    },
+    {
+      "id": "you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if",
+      "titre": "You Can Get The Witcher 3 Remastered For Free On Switch 2, If You Can Borrow A Switch 1 Cart",
+      "url": "https://www.nintendolife.com/news/2026/09/you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if-you-can-borrow-a-switch-1-cart",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 12.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if-you-can-borrow-a-switch-1-cart",
+          "titre": "You Can Get The Witcher 3 Remastered For Free On Switch 2, If You Can Borrow A Switch 1 Cart"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-should-you-use-enemy-upscaling/",
+          "titre": "Witcher 3 Remastered: Should you use Enemy Upscaling?"
         }
       ]
     },
@@ -270,7 +288,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 15.1,
+      "heures": 16.9,
       "chaleur": 8,
       "liens": [
         {
@@ -293,7 +311,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.4,
       "chaleur": 7,
       "liens": [
         {
@@ -311,7 +329,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 7,
       "liens": [
         {
@@ -329,7 +347,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.4,
       "chaleur": 7,
       "liens": [
         {
@@ -347,7 +365,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.4,
       "chaleur": 7,
       "liens": [
         {
@@ -366,7 +384,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 10.1,
+      "heures": 11.9,
       "chaleur": 7,
       "liens": [
         {
@@ -378,54 +396,6 @@ const VEILLE = {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/ultimately-we-asked-why-are-we-doing-this-the-creators-of-arc-raiders-wildly-underestimated-how-hard-it-is-to-make-a-live-service-game",
           "titre": "\"Ultimately, we asked 'why are we doing this?'\": the creators of Arc Raiders wildly underestimated how hard it is to make a live service game"
-        }
-      ]
-    },
-    {
-      "id": "we-ve-heard-you-silent-hill-townfall-studio-says-a-patch-is",
-      "titre": "‘We’ve heard you’: Silent Hill Townfall studio says a patch is coming to make The Weight stealth sections less frustrating",
-      "url": "https://www.videogameschronicle.com/news/weve-heard-you-silent-hill-townfall-studio-says-a-patch-is-coming-to-make-the-weight-stealth-sections-less-frustrating/",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 11.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/weve-heard-you-silent-hill-townfall-studio-says-a-patch-is-coming-to-make-the-weight-stealth-sections-less-frustrating/",
-          "titre": "‘We’ve heard you’: Silent Hill Townfall studio says a patch is coming to make The Weight stealth sections less frustrating"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/silent-hill-townfalls-worst-enemy-to-be-addressed-in-future-ps5-patch",
-          "titre": "Silent Hill: Townfall's Worst Enemy to Be Addressed in Future PS5 Patch"
-        }
-      ]
-    },
-    {
-      "id": "as-handholding-mechanics-come-under-fire-elsewhere-control-r",
-      "titre": "As handholding mechanics come under fire elsewhere, Control Resonant devs confirm they made a \"conscious decision\" not to use yellow paint",
-      "url": "https://www.eurogamer.net/control-resonant-yellow-paint-conscious-decision-marvels-wolverine",
-      "sources": [
-        "Eurogamer",
-        "Game Developer"
-      ],
-      "reprises": 2,
-      "heures": 11.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/control-resonant-yellow-paint-conscious-decision-marvels-wolverine",
-          "titre": "As handholding mechanics come under fire elsewhere, Control Resonant devs confirm they made a \"conscious decision\" not to use yellow paint"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
-          "titre": "Control Resonant director lays out case for avoiding excessive 'yellow paint'"
         }
       ]
     },
@@ -574,6 +544,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "licensing-expo",
+      "titre": "Licensing Expo",
+      "url": "https://www.gamedeveloper.comwww.brandlicensingexpo.com",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.comwww.brandlicensingexpo.com",
+          "titre": "Licensing Expo"
+        }
+      ]
+    },
+    {
       "id": "we-want-to-find-a-way-sega-eager-to-bring-sakura-wars-games",
       "titre": "'We Want to Find a Way': SEGA Eager to Bring Sakura Wars Games to Modern Consoles",
       "url": "https://www.pushsquare.com/news/2026/10/we-want-to-find-a-way-sega-eager-to-bring-sakura-wars-games-to-modern-consoles",
@@ -581,31 +569,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/we-want-to-find-a-way-sega-eager-to-bring-sakura-wars-games-to-modern-consoles",
           "titre": "'We Want to Find a Way': SEGA Eager to Bring Sakura Wars Games to Modern Consoles"
-        }
-      ]
-    },
-    {
-      "id": "valve-says-deadlock-is-still-too-unfinished-to-release-publi",
-      "titre": "Valve says Deadlock is still too unfinished to release publicly, but has hero cosmetics and new game modes in the works",
-      "url": "https://www.pcgamer.com/games/moba/valve-says-deadlock-is-still-too-unfinished-to-release-publicly-but-has-hero-cosmetics-and-new-game-modes-in-the-works/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/moba/valve-says-deadlock-is-still-too-unfinished-to-release-publicly-but-has-hero-cosmetics-and-new-game-modes-in-the-works/",
-          "titre": "Valve says Deadlock is still too unfinished to release publicly, but has hero cosmetics and new game modes in the works"
         }
       ]
     },
@@ -617,7 +587,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 7.9,
       "chaleur": 6,
       "liens": [
         {
@@ -635,7 +605,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.5,
       "chaleur": 6,
       "liens": [
         {
@@ -653,7 +623,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 10.9,
       "chaleur": 6,
       "liens": [
         {
@@ -664,38 +634,50 @@ const VEILLE = {
       ]
     },
     {
-      "id": "zynga-reportedly-almost-acquired-supercell-for-400m-in-2012",
-      "titre": "Zynga reportedly almost acquired Supercell for $400m in 2012, but deal fell through following failure of OMGPop",
-      "url": "https://www.gamesindustry.biz/zynga-reportedly-almost-acquired-supercell-for-400m-in-2012-but-deal-fell-through-following-failure-of-omgpop",
+      "id": "we-ve-heard-you-silent-hill-townfall-studio-says-a-patch-is",
+      "titre": "‘We’ve heard you’: Silent Hill Townfall studio says a patch is coming to make The Weight stealth sections less frustrating",
+      "url": "https://www.videogameschronicle.com/news/weve-heard-you-silent-hill-townfall-studio-says-a-patch-is-coming-to-make-the-weight-stealth-sections-less-frustrating/",
       "sources": [
-        "GamesIndustry.biz"
+        "Push Square",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 10.8,
+      "reprises": 2,
+      "heures": 12.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/zynga-reportedly-almost-acquired-supercell-for-400m-in-2012-but-deal-fell-through-following-failure-of-omgpop",
-          "titre": "Zynga reportedly almost acquired Supercell for $400m in 2012, but deal fell through following failure of OMGPop"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/weve-heard-you-silent-hill-townfall-studio-says-a-patch-is-coming-to-make-the-weight-stealth-sections-less-frustrating/",
+          "titre": "‘We’ve heard you’: Silent Hill Townfall studio says a patch is coming to make The Weight stealth sections less frustrating"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/silent-hill-townfalls-worst-enemy-to-be-addressed-in-future-ps5-patch",
+          "titre": "Silent Hill: Townfall's Worst Enemy to Be Addressed in Future PS5 Patch"
         }
       ]
     },
     {
-      "id": "monster-hunter-wilds-on-switch-2-runs-at-a-stable-30fps-but",
-      "titre": "Monster Hunter Wilds on Switch 2 runs at a stable 30FPS, but it took Capcom a \"painstaking, seemingly endless process\" to get there",
-      "url": "https://www.eurogamer.net/monster-hunter-wilds-switch-2-performance-capcom",
+      "id": "as-handholding-mechanics-come-under-fire-elsewhere-control-r",
+      "titre": "As handholding mechanics come under fire elsewhere, Control Resonant devs confirm they made a \"conscious decision\" not to use yellow paint",
+      "url": "https://www.eurogamer.net/control-resonant-yellow-paint-conscious-decision-marvels-wolverine",
       "sources": [
-        "Eurogamer"
+        "Eurogamer",
+        "Game Developer"
       ],
-      "reprises": 1,
-      "heures": 11.6,
+      "reprises": 2,
+      "heures": 13.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/monster-hunter-wilds-switch-2-performance-capcom",
-          "titre": "Monster Hunter Wilds on Switch 2 runs at a stable 30FPS, but it took Capcom a \"painstaking, seemingly endless process\" to get there"
+          "url": "https://www.eurogamer.net/control-resonant-yellow-paint-conscious-decision-marvels-wolverine",
+          "titre": "As handholding mechanics come under fire elsewhere, Control Resonant devs confirm they made a \"conscious decision\" not to use yellow paint"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
+          "titre": "Control Resonant director lays out case for avoiding excessive 'yellow paint'"
         }
       ]
     },
@@ -707,7 +689,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.3,
       "chaleur": 6,
       "liens": [
         {
@@ -725,7 +707,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 16.9,
       "chaleur": 6,
       "liens": [
         {
@@ -743,13 +725,49 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-counter-strike-collateral",
           "titre": "Call of Duty: Modern Warfare 4 is getting a Counter-Strike-inspired game mode that I can't believe it never had before"
+        }
+      ]
+    },
+    {
+      "id": "zynga-reportedly-almost-acquired-supercell-for-400m-in-2012",
+      "titre": "Zynga reportedly almost acquired Supercell for $400m in 2012, but deal fell through following failure of OMGPop",
+      "url": "https://www.gamesindustry.biz/zynga-reportedly-almost-acquired-supercell-for-400m-in-2012-but-deal-fell-through-following-failure-of-omgpop",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 12.7,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/zynga-reportedly-almost-acquired-supercell-for-400m-in-2012-but-deal-fell-through-following-failure-of-omgpop",
+          "titre": "Zynga reportedly almost acquired Supercell for $400m in 2012, but deal fell through following failure of OMGPop"
+        }
+      ]
+    },
+    {
+      "id": "monster-hunter-wilds-on-switch-2-runs-at-a-stable-30fps-but",
+      "titre": "Monster Hunter Wilds on Switch 2 runs at a stable 30FPS, but it took Capcom a \"painstaking, seemingly endless process\" to get there",
+      "url": "https://www.eurogamer.net/monster-hunter-wilds-switch-2-performance-capcom",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 13.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/monster-hunter-wilds-switch-2-performance-capcom",
+          "titre": "Monster Hunter Wilds on Switch 2 runs at a stable 30FPS, but it took Capcom a \"painstaking, seemingly endless process\" to get there"
         }
       ]
     },
@@ -761,7 +779,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.6,
       "chaleur": 5,
       "liens": [
         {
@@ -779,7 +797,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -797,7 +815,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -815,7 +833,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.5,
       "chaleur": 5,
       "liens": [
         {
@@ -833,7 +851,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.5,
       "chaleur": 5,
       "liens": [
         {
@@ -851,7 +869,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 15.9,
       "chaleur": 5,
       "liens": [
         {
@@ -869,7 +887,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 27.0,
+      "heures": 28.9,
       "chaleur": 5,
       "liens": [
         {
@@ -887,7 +905,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.5,
+      "heures": 33.4,
       "chaleur": 5,
       "liens": [
         {
@@ -898,20 +916,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "more-nintendo-lego-sets-are-being-retired-this-year",
-      "titre": "More Nintendo LEGO Sets Are Being Retired This Year",
-      "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
+      "id": "valve-says-deadlock-is-still-too-unfinished-to-release-publi",
+      "titre": "Valve says Deadlock is still too unfinished to release publicly, but has hero cosmetics and new game modes in the works",
+      "url": "https://www.pcgamer.com/games/moba/valve-says-deadlock-is-still-too-unfinished-to-release-publicly-but-has-hero-cosmetics-and-new-game-modes-in-the-works/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 34.0,
-      "chaleur": 5,
+      "heures": 5.5,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/more-nintendo-lego-sets-are-being-retired-this-year",
-          "titre": "More Nintendo LEGO Sets Are Being Retired This Year"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/valve-says-deadlock-is-still-too-unfinished-to-release-publicly-but-has-hero-cosmetics-and-new-game-modes-in-the-works/",
+          "titre": "Valve says Deadlock is still too unfinished to release publicly, but has hero cosmetics and new game modes in the works"
         }
       ]
     },
@@ -923,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +959,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +977,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.0,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +995,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +1013,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,7 +1031,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,7 +1049,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1049,7 +1067,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1067,7 +1085,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1085,7 +1103,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1103,7 +1121,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1121,7 +1139,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1139,7 +1157,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1157,31 +1175,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.0,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/people-are-very-happy-using-ps5-former-sony-exec-shuhei-yoshida-thinks-ps6-can-wait",
           "titre": "'People Are Very Happy Using PS5': Former Sony Exec Shuhei Yoshida Thinks PS6 Can Wait"
-        }
-      ]
-    },
-    {
-      "id": "my-god-this-new-lighting-is-lifeless-the-witcher-3-remaster",
-      "titre": "\"My god this new lighting is lifeless\" - The Witcher 3 Remastered Edition divides players for a few key reasons",
-      "url": "https://www.eurogamer.net/witcher-3-remastered-community-reaction-lighting",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-remastered-community-reaction-lighting",
-          "titre": "\"My god this new lighting is lifeless\" - The Witcher 3 Remastered Edition divides players for a few key reasons"
         }
       ]
     }
