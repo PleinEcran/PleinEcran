@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "01/10/2026 à 06h29",
+  "collecte": "01/10/2026 à 08h25",
   "seuil": 14,
   "sujets": [
     {
@@ -16,8 +16,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 6,
-      "heures": 10.9,
-      "chaleur": 19,
+      "heures": 12.8,
+      "chaleur": 18,
       "liens": [
         {
           "source": "Game Developer",
@@ -52,6 +52,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to",
+      "titre": "Former Sony Exec Shuhei Yoshida Thinks Nintendo Is \"Going To Do Pretty Well\" With Switch 2 \"For Many Years To Come\"",
+      "url": "https://www.nintendolife.com/news/2026/10/former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to-do-pretty-well-with-switch-2-for-many-years-to-come",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 0.4,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to-do-pretty-well-with-switch-2-for-many-years-to-come",
+          "titre": "Former Sony Exec Shuhei Yoshida Thinks Nintendo Is \"Going To Do Pretty Well\" With Switch 2 \"For Many Years To Come\""
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/people-are-very-happy-using-ps5-former-sony-exec-shuhei-yoshida-thinks-ps6-can-wait",
+          "titre": "'People Are Very Happy Using PS5': Former Sony Exec Shuhei Yoshida Thinks PS6 Can Wait"
+        }
+      ]
+    },
+    {
       "id": "xbox-is-not-for-sale-ceo-asha-sharma-says-we-will-do-whatev",
       "titre": "\"Xbox is not for sale\": CEO Asha Sharma says \"we will do whatever it takes\" to turn the console maker's fortunes around",
       "url": "https://www.eurogamer.net/xbox-not-for-sale-ceo-asha-sharma-console",
@@ -61,8 +85,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 11.9,
-      "chaleur": 12,
+      "heures": 13.8,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Eurogamer",
@@ -91,7 +115,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 16.0,
+      "heures": 17.9,
       "chaleur": 11,
       "liens": [
         {
@@ -112,24 +136,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-has-now-shut-down-mario-kart-tour",
-      "titre": "Nintendo Has Now Shut Down Mario Kart Tour",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-now-shut-down-mario-kart-tour",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-now-shut-down-mario-kart-tour",
-          "titre": "Nintendo Has Now Shut Down Mario Kart Tour"
-        }
-      ]
-    },
-    {
       "id": "analyst-argues-gears-of-war-e-day-shouldn-t-have-been-cancel",
       "titre": "Analyst Argues Gears of War: E-Day Shouldn't Have Been Cancelled on PS5 After 'Soft' Steam Pre-Orders",
       "url": "https://www.pushsquare.com/news/2026/09/analyst-argues-gears-of-war-e-day-shouldnt-have-been-cancelled-on-ps5-after-soft-steam-pre-orders",
@@ -137,61 +143,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 15.7,
       "chaleur": 8,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/analyst-argues-gears-of-war-e-day-shouldnt-have-been-cancelled-on-ps5-after-soft-steam-pre-orders",
           "titre": "Analyst Argues Gears of War: E-Day Shouldn't Have Been Cancelled on PS5 After 'Soft' Steam Pre-Orders"
-        }
-      ]
-    },
-    {
-      "id": "you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if",
-      "titre": "You Can Get The Witcher 3 Remastered For Free On Switch 2, If You Can Borrow A Switch 1 Cart",
-      "url": "https://www.nintendolife.com/news/2026/09/you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if-you-can-borrow-a-switch-1-cart",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 16.7,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if-you-can-borrow-a-switch-1-cart",
-          "titre": "You Can Get The Witcher 3 Remastered For Free On Switch 2, If You Can Borrow A Switch 1 Cart"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-should-you-use-enemy-upscaling/",
-          "titre": "Witcher 3 Remastered: Should you use Enemy Upscaling?"
-        }
-      ]
-    },
-    {
-      "id": "valve-is-updating-steam-s-discount-events-section-to-become",
-      "titre": "Valve is updating Steam's Discount & Events section to become more \"dynamic and personalised\"",
-      "url": "https://www.gamesindustry.biz/valve-is-updating-steams-discount-events-section-to-become-more-dynamic-and-personalised",
-      "sources": [
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 21.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/valve-is-updating-steams-discount-events-section-to-become-more-dynamic-and-personalised",
-          "titre": "Valve is updating Steam's Discount & Events section to become more \"dynamic and personalised\""
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valve-is-changing-steams-homepage-discounts-and-events-section-to-go-the-way-of-the-algorithm-to-get-you-to-look-at-and-buy-obviously-more-games",
-          "titre": "Valve is changing Steam's homepage discounts and events section to go the way of the algorithm to get you to look at, and buy, obviously, more games"
         }
       ]
     },
@@ -203,7 +161,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.0,
       "chaleur": 7,
       "liens": [
         {
@@ -222,7 +180,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 7.8,
+      "heures": 9.7,
       "chaleur": 7,
       "liens": [
         {
@@ -234,24 +192,6 @@ const VEILLE = {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/world-of-warcraft-forever-class-survey",
           "titre": "Tinker, Bard, Illusionist - Blizzard seemingly surveying World of Warcraft: Forever players about never-before-seen classes to add to the game"
-        }
-      ]
-    },
-    {
-      "id": "alleged-hacker-arrested-over-leak-that-exposed-gta-online-s",
-      "titre": "Alleged hacker arrested over leak that exposed GTA Online's daily revenue",
-      "url": "https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue",
-          "titre": "Alleged hacker arrested over leak that exposed GTA Online's daily revenue"
         }
       ]
     },
@@ -454,6 +394,78 @@ const VEILLE = {
       ]
     },
     {
+      "id": "pax-east",
+      "titre": "PAX East",
+      "url": "https://www.gamedeveloper.com/series/pax-east",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/series/pax-east",
+          "titre": "PAX East"
+        }
+      ]
+    },
+    {
+      "id": "pc-and-console-revenue-charts-led-by-new-releases-in-august",
+      "titre": "PC and console revenue charts led by new releases in August | Newzoo charts",
+      "url": "https://www.gamesindustry.biz/pc-and-console-revenue-charts-led-by-new-releases-in-august-newzoo-charts",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/pc-and-console-revenue-charts-led-by-new-releases-in-august-newzoo-charts",
+          "titre": "PC and console revenue charts led by new releases in August | Newzoo charts"
+        }
+      ]
+    },
+    {
+      "id": "capcom-says-it-has-a-plan-for-when-it-runs-out-of-resident-e",
+      "titre": "Capcom says it has a plan for when it runs out of Resident Evil remakes",
+      "url": "https://www.videogameschronicle.com/news/capcom-says-it-has-a-plan-for-when-it-runs-out-of-resident-evil-remakes/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/capcom-says-it-has-a-plan-for-when-it-runs-out-of-resident-evil-remakes/",
+          "titre": "Capcom says it has a plan for when it runs out of Resident Evil remakes"
+        }
+      ]
+    },
+    {
+      "id": "you-can-start-playing-castlevania-belmont-s-curse-early-with",
+      "titre": "You Can Start Playing Castlevania: Belmont's Curse Early with Free Demo, Out Now on PS5",
+      "url": "https://www.pushsquare.com/news/2026/10/you-can-start-playing-castlevania-belmonts-curse-early-with-free-demo-out-now-on-ps5",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/you-can-start-playing-castlevania-belmonts-curse-early-with-free-demo-out-now-on-ps5",
+          "titre": "You Can Start Playing Castlevania: Belmont's Curse Early with Free Demo, Out Now on PS5"
+        }
+      ]
+    },
+    {
       "id": "we-re-probably-not-getting-a-new-fallout-game-until-well-int",
       "titre": "We're probably not getting a new Fallout game until well into the 2030s, but that's no reason to stop talking about them",
       "url": "https://www.pcgamer.com/games/fallout/were-probably-not-getting-a-new-fallout-game-until-well-into-the-2030s-but-thats-no-reason-to-stop-talking-about-them/",
@@ -461,13 +473,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/fallout/were-probably-not-getting-a-new-fallout-game-until-well-into-the-2030s-but-thats-no-reason-to-stop-talking-about-them/",
           "titre": "We're probably not getting a new Fallout game until well into the 2030s, but that's no reason to stop talking about them"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-has-now-shut-down-mario-kart-tour",
+      "titre": "Nintendo Has Now Shut Down Mario Kart Tour",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-now-shut-down-mario-kart-tour",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-now-shut-down-mario-kart-tour",
+          "titre": "Nintendo Has Now Shut Down Mario Kart Tour"
         }
       ]
     },
@@ -479,7 +509,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.0,
       "chaleur": 6,
       "liens": [
         {
@@ -497,7 +527,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.1,
       "chaleur": 6,
       "liens": [
         {
@@ -508,20 +538,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ps-plus-members-can-claim-free-psn-avatars-for-sony-s-record",
-      "titre": "PS Plus Members Can Claim Free PSN Avatars for Sony's Record-Breaking Spider-Man: Brand New Day",
-      "url": "https://www.pushsquare.com/news/2026/09/ps-plus-members-can-claim-free-psn-avatars-for-sonys-record-breaking-spider-man-brand-new-day",
+      "id": "alleged-hacker-arrested-over-leak-that-exposed-gta-online-s",
+      "titre": "Alleged hacker arrested over leak that exposed GTA Online's daily revenue",
+      "url": "https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue",
       "sources": [
-        "Push Square"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 13.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/ps-plus-members-can-claim-free-psn-avatars-for-sonys-record-breaking-spider-man-brand-new-day",
-          "titre": "PS Plus Members Can Claim Free PSN Avatars for Sony's Record-Breaking Spider-Man: Brand New Day"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue",
+          "titre": "Alleged hacker arrested over leak that exposed GTA Online's daily revenue"
         }
       ]
     },
@@ -533,7 +563,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.3,
       "chaleur": 6,
       "liens": [
         {
@@ -551,7 +581,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +599,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.5,
       "chaleur": 6,
       "liens": [
         {
@@ -588,7 +618,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 16.1,
+      "heures": 18.0,
       "chaleur": 6,
       "liens": [
         {
@@ -612,7 +642,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 17.1,
+      "heures": 19.0,
       "chaleur": 6,
       "liens": [
         {
@@ -635,7 +665,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 18.5,
+      "heures": 20.4,
       "chaleur": 6,
       "liens": [
         {
@@ -653,7 +683,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.0,
+      "heures": 22.9,
       "chaleur": 6,
       "liens": [
         {
@@ -671,13 +701,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.2,
+      "heures": 24.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-counter-strike-collateral",
           "titre": "Call of Duty: Modern Warfare 4 is getting a Counter-Strike-inspired game mode that I can't believe it never had before"
+        }
+      ]
+    },
+    {
+      "id": "ps-plus-members-can-claim-free-psn-avatars-for-sony-s-record",
+      "titre": "PS Plus Members Can Claim Free PSN Avatars for Sony's Record-Breaking Spider-Man: Brand New Day",
+      "url": "https://www.pushsquare.com/news/2026/09/ps-plus-members-can-claim-free-psn-avatars-for-sonys-record-breaking-spider-man-brand-new-day",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 13.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/09/ps-plus-members-can-claim-free-psn-avatars-for-sonys-record-breaking-spider-man-brand-new-day",
+          "titre": "PS Plus Members Can Claim Free PSN Avatars for Sony's Record-Breaking Spider-Man: Brand New Day"
         }
       ]
     },
@@ -689,7 +737,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -707,7 +755,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.5,
       "chaleur": 5,
       "liens": [
         {
@@ -725,13 +773,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 17.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/deadlock-update-steam-most-played-games",
           "titre": "It's not even out yet, but Valve's Deadlock just became one of the most played games on Steam"
+        }
+      ]
+    },
+    {
+      "id": "you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if",
+      "titre": "You Can Get The Witcher 3 Remastered For Free On Switch 2, If You Can Borrow A Switch 1 Cart",
+      "url": "https://www.nintendolife.com/news/2026/09/you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if-you-can-borrow-a-switch-1-cart",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 18.7,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/09/you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if-you-can-borrow-a-switch-1-cart",
+          "titre": "You Can Get The Witcher 3 Remastered For Free On Switch 2, If You Can Borrow A Switch 1 Cart"
         }
       ]
     },
@@ -743,7 +809,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 16.8,
+      "heures": 18.7,
       "chaleur": 5,
       "liens": [
         {
@@ -761,7 +827,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 19.5,
       "chaleur": 5,
       "liens": [
         {
@@ -779,7 +845,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.7,
+      "heures": 20.7,
       "chaleur": 5,
       "liens": [
         {
@@ -797,7 +863,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.4,
       "chaleur": 5,
       "liens": [
         {
@@ -815,7 +881,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.4,
       "chaleur": 5,
       "liens": [
         {
@@ -833,7 +899,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 21.5,
       "chaleur": 5,
       "liens": [
         {
@@ -851,7 +917,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 21.5,
       "chaleur": 5,
       "liens": [
         {
@@ -869,13 +935,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 21.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/09/acclaimed-vampire-survivors-inspired-survival-game-hits-switch-next-month",
           "titre": "Acclaimed Vampire Survivors-Inspired Survival Game Hits Switch Next Month"
+        }
+      ]
+    },
+    {
+      "id": "valve-is-updating-steam-s-discount-events-section-to-become",
+      "titre": "Valve is updating Steam's Discount & Events section to become more \"dynamic and personalised\"",
+      "url": "https://www.gamesindustry.biz/valve-is-updating-steams-discount-events-section-to-become-more-dynamic-and-personalised",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 23.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/valve-is-updating-steams-discount-events-section-to-become-more-dynamic-and-personalised",
+          "titre": "Valve is updating Steam's Discount & Events section to become more \"dynamic and personalised\""
         }
       ]
     },
@@ -887,7 +971,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 33.0,
+      "heures": 34.9,
       "chaleur": 5,
       "liens": [
         {
@@ -905,7 +989,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.0,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +1007,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +1025,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +1043,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -977,8 +1061,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -995,8 +1079,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1013,8 +1097,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1031,8 +1115,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1049,7 +1133,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,103 +1151,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/resident-evil/to-celebrate-september-30-the-day-the-cop-inside-of-leon-kennedy-died-heres-my-most-traumatic-encounters-in-resident-evil/",
           "titre": "To celebrate September 30, the day the cop inside of Leon Kennedy died, here's my most traumatic encounters in Resident Evil"
-        }
-      ]
-    },
-    {
-      "id": "opinion-one-of-my-favourite-games-is-being-remade-so-why-do",
-      "titre": "Opinion: One Of My Favourite Games Is Being Remade, So Why Do I Feel So Down About It?",
-      "url": "https://www.nintendolife.com/features/opinion-one-of-my-favourite-games-is-being-remade-so-why-do-i-feel-so-down-about-it",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 13.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/opinion-one-of-my-favourite-games-is-being-remade-so-why-do-i-feel-so-down-about-it",
-          "titre": "Opinion: One Of My Favourite Games Is Being Remade, So Why Do I Feel So Down About It?"
-        }
-      ]
-    },
-    {
-      "id": "first-person-rpg-queen-s-domain-pitches-you-against-an-islan",
-      "titre": "First-person RPG Queen's Domain pitches you against an island of gorgeous freaks with naught but a flying sword and infinite throwing daggers",
-      "url": "https://www.rockpapershotgun.com/first-person-rpg-queens-domain-pitches-you-against-an-island-of-gorgeous-freaks-with-naught-but-a-flying-sword-and-infinite-throwing-daggers",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 14.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/first-person-rpg-queens-domain-pitches-you-against-an-island-of-gorgeous-freaks-with-naught-but-a-flying-sword-and-infinite-throwing-daggers",
-          "titre": "First-person RPG Queen's Domain pitches you against an island of gorgeous freaks with naught but a flying sword and infinite throwing daggers"
-        }
-      ]
-    },
-    {
-      "id": "ps-plus-essential-games-for-october-2026-announced",
-      "titre": "PS Plus Essential Games for October 2026 Announced",
-      "url": "https://www.pushsquare.com/news/2026/09/ps-plus-essential-games-for-october-2026-announced",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 14.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/ps-plus-essential-games-for-october-2026-announced",
-          "titre": "PS Plus Essential Games for October 2026 Announced"
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-remastered-ps5-pro-performance-seems-to-vary-m",
-      "titre": "The Witcher 3 Remastered PS5 Pro Performance Seems to Vary Massively Between Players, and No One Knows Why",
-      "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pro-performance-seems-to-vary-massively-between-players-and-no-one-knows-why",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 15.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pro-performance-seems-to-vary-massively-between-players-and-no-one-knows-why",
-          "titre": "The Witcher 3 Remastered PS5 Pro Performance Seems to Vary Massively Between Players, and No One Knows Why"
-        }
-      ]
-    },
-    {
-      "id": "asus-tuf-gaming-a16-gaming-laptop-review",
-      "titre": "Asus TUF Gaming A16 gaming laptop review",
-      "url": "https://www.pcgamer.com/hardware/gaming-laptops/asus-tuf-gaming-a16-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-laptops/asus-tuf-gaming-a16-review/",
-          "titre": "Asus TUF Gaming A16 gaming laptop review"
         }
       ]
     }
