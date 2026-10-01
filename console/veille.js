@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "01/10/2026 à 08h25",
+  "collecte": "01/10/2026 à 10h23",
   "seuil": 14,
   "sujets": [
     {
@@ -12,12 +12,11 @@ const VEILLE = {
         "GamesIndustry.biz",
         "Nintendo Life",
         "Push Square",
-        "Rock Paper Shotgun",
-        "VGC"
+        "Rock Paper Shotgun"
       ],
-      "reprises": 6,
-      "heures": 12.8,
-      "chaleur": 18,
+      "reprises": 5,
+      "heures": 14.8,
+      "chaleur": 15,
       "liens": [
         {
           "source": "Game Developer",
@@ -43,11 +42,36 @@ const VEILLE = {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/no-more-heroes-dev-splits-from-netease-claims-back-independence",
           "titre": "No More Heroes Dev Splits from NetEase, Claims Back Independence"
+        }
+      ]
+    },
+    {
+      "id": "the-division-developers-massive-are-now-the-global-brand-in",
+      "titre": "The Division developers Massive are now \"the global brand\" in charge of Splinter Cell and Ghost Recon, alongside a new Ubisoft dieselpunk MOBA",
+      "url": "https://www.rockpapershotgun.com/the-division-developers-massive-are-now-the-global-brand-in-charge-of-splinter-cell-and-ghost-recon-alongside-a-new-ubisoft-dieselpunk-moba",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 0.3,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-division-developers-massive-are-now-the-global-brand-in-charge-of-splinter-cell-and-ghost-recon-alongside-a-new-ubisoft-dieselpunk-moba",
+          "titre": "The Division developers Massive are now \"the global brand\" in charge of Splinter Cell and Ghost Recon, alongside a new Ubisoft dieselpunk MOBA"
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/suda-51s-grasshopper-officially-regains-independence-from-netease-avoiding-studio-cull/",
-          "titre": "Suda 51’s Grasshopper officially regains independence from NetEase, avoiding studio cull"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/massive-entertainment-the-division-splinter-cell-ghost-recon",
+          "titre": "The Division studio Massive expands to take control of Splinter Cell and Ghost Recon, and a new IP, in Ubisoft's most recent reorganisation"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/ubisoft-renames-creative-house-2-home-of-the-division-ghost-recon-and-splinter-cell-as-massive-entertainment",
+          "titre": "Ubisoft renames Creative House 2, home of The Division, Ghost Recon and Splinter Cell, as Massive Entertainment"
         }
       ]
     },
@@ -60,7 +84,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 12,
       "liens": [
         {
@@ -76,6 +100,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "psa-castlevania-belmont-s-curse-free-demo-is-now-live-and-it",
+      "titre": "PSA: Castlevania: Belmont's Curse Free Demo Is Now Live, And It's Super Smooth On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/psa-castlevania-belmonts-curse-free-demo-is-now-live-and-its-super-smooth-on-switch-2",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 0.6,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/psa-castlevania-belmonts-curse-free-demo-is-now-live-and-its-super-smooth-on-switch-2",
+          "titre": "PSA: Castlevania: Belmont's Curse Free Demo Is Now Live, And It's Super Smooth On Switch 2"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/you-can-start-playing-castlevania-belmonts-curse-early-with-free-demo-out-now-on-ps5",
+          "titre": "You Can Start Playing Castlevania: Belmont's Curse Early with Free Demo, Out Now on PS5"
+        }
+      ]
+    },
+    {
       "id": "xbox-is-not-for-sale-ceo-asha-sharma-says-we-will-do-whatev",
       "titre": "\"Xbox is not for sale\": CEO Asha Sharma says \"we will do whatever it takes\" to turn the console maker's fortunes around",
       "url": "https://www.eurogamer.net/xbox-not-for-sale-ceo-asha-sharma-console",
@@ -85,7 +133,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 13.8,
+      "heures": 15.8,
       "chaleur": 11,
       "liens": [
         {
@@ -115,7 +163,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 17.9,
+      "heures": 19.9,
       "chaleur": 11,
       "liens": [
         {
@@ -136,6 +184,114 @@ const VEILLE = {
       ]
     },
     {
+      "id": "the-witcher-3-remastered-gets-a-new-patch-fixing-dlss-and-li",
+      "titre": "The Witcher 3 Remastered gets a new patch fixing DLSS and lighting issues",
+      "url": "https://www.videogameschronicle.com/news/the-witcher-3-remastered-gets-a-new-patch-fixing-dlss-and-lighting-issues/",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.2,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-witcher-3-remastered-gets-a-new-patch-fixing-dlss-and-lighting-issues/",
+          "titre": "The Witcher 3 Remastered gets a new patch fixing DLSS and lighting issues"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/witcher-3-remastered-community-reaction-lighting",
+          "titre": "\"My god this new lighting is lifeless\" - The Witcher 3 Remastered Edition divides players for a few key reasons"
+        }
+      ]
+    },
+    {
+      "id": "sources-naughty-dog-is-working-on-uncharted-5",
+      "titre": "Sources: Naughty Dog is working on Uncharted 5",
+      "url": "https://www.videogameschronicle.com/news/sources-naughty-dog-is-working-on-uncharted-5/",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sources-naughty-dog-is-working-on-uncharted-5/",
+          "titre": "Sources: Naughty Dog is working on Uncharted 5"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan-drake-not-the-lead-character",
+          "titre": "Rumour: New Uncharted Game in the Works at Naughty Dog, Nathan Drake Not the Lead Character"
+        }
+      ]
+    },
+    {
+      "id": "capcom-has-an-intriguing-plan-for-when-its-resident-evil-rem",
+      "titre": "Capcom Has An Intriguing Plan For When Its Resident Evil Remakes Catch Up With The New Games",
+      "url": "https://www.nintendolife.com/news/2026/10/capcom-has-an-intriguing-plan-for-when-its-resident-evil-remakes-catch-up-with-the-new-games",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/capcom-has-an-intriguing-plan-for-when-its-resident-evil-remakes-catch-up-with-the-new-games",
+          "titre": "Capcom Has An Intriguing Plan For When Its Resident Evil Remakes Catch Up With The New Games"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/capcom-says-it-has-a-plan-for-when-it-runs-out-of-resident-evil-remakes/",
+          "titre": "Capcom says it has a plan for when it runs out of Resident Evil remakes"
+        }
+      ]
+    },
+    {
+      "id": "as-xbox-swings-the-axe-gears-of-war-e-day-developers-fear-th",
+      "titre": "As Xbox swings the axe, Gears of War: E-Day developers fear they'll be laid off straight after launch - and right before they'd be due their bonuses",
+      "url": "https://www.eurogamer.net/the-coalition-gears-of-war-e-day-worried-layoffs-no-bonus",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/the-coalition-gears-of-war-e-day-worried-layoffs-no-bonus",
+          "titre": "As Xbox swings the axe, Gears of War: E-Day developers fear they'll be laid off straight after launch - and right before they'd be due their bonuses"
+        }
+      ]
+    },
+    {
+      "id": "sony-is-selling-the-lego-astro-bot-separately-with-no-need-t",
+      "titre": "Sony is selling the Lego Astro Bot separately, with no need to also buy the Lego PlayStation",
+      "url": "https://www.videogameschronicle.com/news/sony-is-selling-the-lego-astro-bot-separately-with-no-need-to-also-buy-the-lego-playstation/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sony-is-selling-the-lego-astro-bot-separately-with-no-need-to-also-buy-the-lego-playstation/",
+          "titre": "Sony is selling the Lego Astro Bot separately, with no need to also buy the Lego PlayStation"
+        }
+      ]
+    },
+    {
       "id": "analyst-argues-gears-of-war-e-day-shouldn-t-have-been-cancel",
       "titre": "Analyst Argues Gears of War: E-Day Shouldn't Have Been Cancelled on PS5 After 'Soft' Steam Pre-Orders",
       "url": "https://www.pushsquare.com/news/2026/09/analyst-argues-gears-of-war-e-day-shouldnt-have-been-cancelled-on-ps5-after-soft-steam-pre-orders",
@@ -143,7 +299,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 17.6,
       "chaleur": 8,
       "liens": [
         {
@@ -161,7 +317,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 9.0,
       "chaleur": 7,
       "liens": [
         {
@@ -180,7 +336,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 9.7,
+      "heures": 11.7,
       "chaleur": 7,
       "liens": [
         {
@@ -412,6 +568,114 @@ const VEILLE = {
       ]
     },
     {
+      "id": "d-i-c-e-summit",
+      "titre": "D.I.C.E. Summit",
+      "url": "https://www.gamedeveloper.com/keyword/dice-summit",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/keyword/dice-summit",
+          "titre": "D.I.C.E. Summit"
+        }
+      ]
+    },
+    {
+      "id": "micron-ceo-says-it-ll-be-tougher-to-get-memory-in-the-next-c",
+      "titre": "Micron CEO says it'll be tougher to get memory in the next couple of years than it is today, and keeps saying it over and over again",
+      "url": "https://www.pcgamer.com/hardware/memory/micron-ceo-says-itll-be-tougher-to-get-memory-in-the-next-couple-of-years-than-it-is-today-and-keeps-saying-it-over-and-over-again/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/memory/micron-ceo-says-itll-be-tougher-to-get-memory-in-the-next-couple-of-years-than-it-is-today-and-keeps-saying-it-over-and-over-again/",
+          "titre": "Micron CEO says it'll be tougher to get memory in the next couple of years than it is today, and keeps saying it over and over again"
+        }
+      ]
+    },
+    {
+      "id": "i-spent-far-too-long-assigning-gaming-mouse-values-based-on",
+      "titre": "I spent far too long assigning gaming mouse values based on their price-to-weight ratio, and the runner-up is the rodent on my desk right now",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/i-spent-far-too-long-assigning-gaming-mouse-values-based-on-their-price-to-weight-ratio-and-the-runner-up-is-the-rodent-on-my-desk-right-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/i-spent-far-too-long-assigning-gaming-mouse-values-based-on-their-price-to-weight-ratio-and-the-runner-up-is-the-rodent-on-my-desk-right-now/",
+          "titre": "I spent far too long assigning gaming mouse values based on their price-to-weight ratio, and the runner-up is the rodent on my desk right now"
+        }
+      ]
+    },
+    {
+      "id": "jobs-roundup-october-code-wizards-group-appoints-catherine-b",
+      "titre": "Jobs roundup: October | Code Wizards Group appoints Catherine Bygrave as head of commercial",
+      "url": "https://www.gamesindustry.biz/jobs-roundup-october-code-wizards-group-appoints-catherine-bygrave-as-head-of-commercial",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/jobs-roundup-october-code-wizards-group-appoints-catherine-bygrave-as-head-of-commercial",
+          "titre": "Jobs roundup: October | Code Wizards Group appoints Catherine Bygrave as head of commercial"
+        }
+      ]
+    },
+    {
+      "id": "sega-is-teasing-a-new-house-of-the-dead-arcade-game-with-vr",
+      "titre": "Sega is teasing a new House of the Dead arcade game with VR headsets and an 85-inch screen for a ‘front door’",
+      "url": "https://www.videogameschronicle.com/news/sega-is-teasing-a-new-house-of-the-dead-arcade-game-with-vr-headsets-and-an-85-inch-screen-for-a-front-door/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sega-is-teasing-a-new-house-of-the-dead-arcade-game-with-vr-headsets-and-an-85-inch-screen-for-a-front-door/",
+          "titre": "Sega is teasing a new House of the Dead arcade game with VR headsets and an 85-inch screen for a ‘front door’"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-says-my-rtx-4070-super-isn-t-capable-of-multi-frame-g",
+      "titre": "Nvidia says my RTX 4070 Super isn't capable of Multi Frame Gen, but I'm surprised by how smooth this unofficial unlock actually feels",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-says-my-rtx-4070-super-isnt-capable-of-multi-frame-gen-but-im-surprised-by-how-smooth-this-unofficial-unlock-actually-feels/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-says-my-rtx-4070-super-isnt-capable-of-multi-frame-gen-but-im-surprised-by-how-smooth-this-unofficial-unlock-actually-feels/",
+          "titre": "Nvidia says my RTX 4070 Super isn't capable of Multi Frame Gen, but I'm surprised by how smooth this unofficial unlock actually feels"
+        }
+      ]
+    },
+    {
       "id": "pc-and-console-revenue-charts-led-by-new-releases-in-august",
       "titre": "PC and console revenue charts led by new releases in August | Newzoo charts",
       "url": "https://www.gamesindustry.biz/pc-and-console-revenue-charts-led-by-new-releases-in-august-newzoo-charts",
@@ -419,67 +683,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 2.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/pc-and-console-revenue-charts-led-by-new-releases-in-august-newzoo-charts",
           "titre": "PC and console revenue charts led by new releases in August | Newzoo charts"
-        }
-      ]
-    },
-    {
-      "id": "capcom-says-it-has-a-plan-for-when-it-runs-out-of-resident-e",
-      "titre": "Capcom says it has a plan for when it runs out of Resident Evil remakes",
-      "url": "https://www.videogameschronicle.com/news/capcom-says-it-has-a-plan-for-when-it-runs-out-of-resident-evil-remakes/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 0.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/capcom-says-it-has-a-plan-for-when-it-runs-out-of-resident-evil-remakes/",
-          "titre": "Capcom says it has a plan for when it runs out of Resident Evil remakes"
-        }
-      ]
-    },
-    {
-      "id": "you-can-start-playing-castlevania-belmont-s-curse-early-with",
-      "titre": "You Can Start Playing Castlevania: Belmont's Curse Early with Free Demo, Out Now on PS5",
-      "url": "https://www.pushsquare.com/news/2026/10/you-can-start-playing-castlevania-belmonts-curse-early-with-free-demo-out-now-on-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 0.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/you-can-start-playing-castlevania-belmonts-curse-early-with-free-demo-out-now-on-ps5",
-          "titre": "You Can Start Playing Castlevania: Belmont's Curse Early with Free Demo, Out Now on PS5"
-        }
-      ]
-    },
-    {
-      "id": "we-re-probably-not-getting-a-new-fallout-game-until-well-int",
-      "titre": "We're probably not getting a new Fallout game until well into the 2030s, but that's no reason to stop talking about them",
-      "url": "https://www.pcgamer.com/games/fallout/were-probably-not-getting-a-new-fallout-game-until-well-into-the-2030s-but-thats-no-reason-to-stop-talking-about-them/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fallout/were-probably-not-getting-a-new-fallout-game-until-well-into-the-2030s-but-thats-no-reason-to-stop-talking-about-them/",
-          "titre": "We're probably not getting a new Fallout game until well into the 2030s, but that's no reason to stop talking about them"
         }
       ]
     },
@@ -491,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.6,
       "chaleur": 6,
       "liens": [
         {
@@ -509,7 +719,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 10.0,
       "chaleur": 6,
       "liens": [
         {
@@ -527,7 +737,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.1,
       "chaleur": 6,
       "liens": [
         {
@@ -545,7 +755,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 6,
       "liens": [
         {
@@ -563,7 +773,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.3,
       "chaleur": 6,
       "liens": [
         {
@@ -581,7 +791,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 6,
       "liens": [
         {
@@ -599,37 +809,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/software/ai/thanks-logitech-your-new-ai-fueled-game-clipping-software-makes-me-look-trash-at-counter-strike-but-imma-keep-it-installed/",
           "titre": "Thanks Logitech, your new AI-fueled game clipping software makes me look trash at Counter-Strike, but I'mma keep it installed"
-        }
-      ]
-    },
-    {
-      "id": "arc-raiders-executive-producer-explains-how-he-wasn-t-comple",
-      "titre": "Arc Raiders' executive producer explains how he 'wasn't completely prepared for how hard' a live service game would be and warns against the dangers of burnout",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-executive-producer-explains-how-he-wasnt-completely-prepared-for-how-hard-a-live-service-game-would-be-and-warns-against-the-dangers-of-burnout/",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 18.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-executive-producer-explains-how-he-wasnt-completely-prepared-for-how-hard-a-live-service-game-would-be-and-warns-against-the-dangers-of-burnout/",
-          "titre": "Arc Raiders' executive producer explains how he 'wasn't completely prepared for how hard' a live service game would be and warns against the dangers of burnout"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ultimately-we-asked-why-are-we-doing-this-the-creators-of-arc-raiders-wildly-underestimated-how-hard-it-is-to-make-a-live-service-game",
-          "titre": "\"Ultimately, we asked 'why are we doing this?'\": the creators of Arc Raiders wildly underestimated how hard it is to make a live service game"
         }
       ]
     },
@@ -642,7 +828,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 19.0,
+      "heures": 21.0,
       "chaleur": 6,
       "liens": [
         {
@@ -658,24 +844,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "modder-who-taunted-try-me-rockstar-with-gta-5-switch-port-is",
-      "titre": "Modder who taunted ‘try me Rockstar’ with GTA 5 Switch port is ‘thankful for Take-Two’s mercy’ as lawyers shut it down",
-      "url": "https://www.videogameschronicle.com/news/modder-who-taunted-try-me-rockstar-with-gta-5-switch-port-is-thankful-for-take-twos-mercy-as-lawyers-shut-it-down/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 20.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/modder-who-taunted-try-me-rockstar-with-gta-5-switch-port-is-thankful-for-take-twos-mercy-as-lawyers-shut-it-down/",
-          "titre": "Modder who taunted ‘try me Rockstar’ with GTA 5 Switch port is ‘thankful for Take-Two’s mercy’ as lawyers shut it down"
-        }
-      ]
-    },
-    {
       "id": "gta-6-will-simulate-hurricanes-rainbows-and-persistent-dynam",
       "titre": "GTA 6 will simulate hurricanes, rainbows and persistent, dynamic clouds, among other efforts to make you stop doing crime and become a weather nerd",
       "url": "https://www.rockpapershotgun.com/gta-6-will-simulate-hurricanes-rainbows-and-persistent-dynamic-clouds-among-other-efforts-to-make-you-stop-doing-crime-and-become-a-weather-nerd",
@@ -683,7 +851,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.9,
+      "heures": 24.9,
       "chaleur": 6,
       "liens": [
         {
@@ -701,7 +869,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.2,
+      "heures": 26.1,
       "chaleur": 6,
       "liens": [
         {
@@ -719,7 +887,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.9,
       "chaleur": 5,
       "liens": [
         {
@@ -737,7 +905,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 5,
       "liens": [
         {
@@ -755,7 +923,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.5,
       "chaleur": 5,
       "liens": [
         {
@@ -773,31 +941,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 19.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/deadlock-update-steam-most-played-games",
           "titre": "It's not even out yet, but Valve's Deadlock just became one of the most played games on Steam"
-        }
-      ]
-    },
-    {
-      "id": "you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if",
-      "titre": "You Can Get The Witcher 3 Remastered For Free On Switch 2, If You Can Borrow A Switch 1 Cart",
-      "url": "https://www.nintendolife.com/news/2026/09/you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if-you-can-borrow-a-switch-1-cart",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 18.7,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if-you-can-borrow-a-switch-1-cart",
-          "titre": "You Can Get The Witcher 3 Remastered For Free On Switch 2, If You Can Borrow A Switch 1 Cart"
         }
       ]
     },
@@ -809,7 +959,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 18.7,
+      "heures": 20.7,
       "chaleur": 5,
       "liens": [
         {
@@ -827,7 +977,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.5,
       "chaleur": 5,
       "liens": [
         {
@@ -845,7 +995,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.7,
+      "heures": 22.6,
       "chaleur": 5,
       "liens": [
         {
@@ -863,7 +1013,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.4,
       "chaleur": 5,
       "liens": [
         {
@@ -881,7 +1031,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.4,
       "chaleur": 5,
       "liens": [
         {
@@ -899,7 +1049,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.5,
       "chaleur": 5,
       "liens": [
         {
@@ -917,31 +1067,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/housemarque-and-bithell-games-join-game-republic-new-horizons-speaker-lineup-nintendo-to-host-open-session-for-developers-and-publishers",
           "titre": "Housemarque and Bithell Games join Game Republic New Horizons speaker lineup, Nintendo to host open session for developers and publishers"
-        }
-      ]
-    },
-    {
-      "id": "acclaimed-vampire-survivors-inspired-survival-game-hits-swit",
-      "titre": "Acclaimed Vampire Survivors-Inspired Survival Game Hits Switch Next Month",
-      "url": "https://www.nintendolife.com/news/2026/09/acclaimed-vampire-survivors-inspired-survival-game-hits-switch-next-month",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 21.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/09/acclaimed-vampire-survivors-inspired-survival-game-hits-switch-next-month",
-          "titre": "Acclaimed Vampire Survivors-Inspired Survival Game Hits Switch Next Month"
         }
       ]
     },
@@ -953,7 +1085,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 23.0,
+      "heures": 25.0,
       "chaleur": 5,
       "liens": [
         {
@@ -964,20 +1096,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "steam-s-discounts-and-events-tab-will-soon-be-fully-algorith",
-      "titre": "Steam's discounts and events tab will soon be fully algorithm-driven",
-      "url": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
+      "id": "we-re-probably-not-getting-a-new-fallout-game-until-well-int",
+      "titre": "We're probably not getting a new Fallout game until well into the 2030s, but that's no reason to stop talking about them",
+      "url": "https://www.pcgamer.com/games/fallout/were-probably-not-getting-a-new-fallout-game-until-well-into-the-2030s-but-thats-no-reason-to-stop-talking-about-them/",
       "sources": [
-        "Game Developer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 34.9,
-      "chaleur": 5,
+      "heures": 5.5,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
-          "titre": "Steam's discounts and events tab will soon be fully algorithm-driven"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fallout/were-probably-not-getting-a-new-fallout-game-until-well-into-the-2030s-but-thats-no-reason-to-stop-talking-about-them/",
+          "titre": "We're probably not getting a new Fallout game until well into the 2030s, but that's no reason to stop talking about them"
         }
       ]
     },
@@ -989,7 +1121,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,31 +1139,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/we-want-to-find-a-way-sega-eager-to-bring-sakura-wars-games-to-modern-consoles",
           "titre": "'We Want to Find a Way': SEGA Eager to Bring Sakura Wars Games to Modern Consoles"
-        }
-      ]
-    },
-    {
-      "id": "rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan",
-      "titre": "Rumour: New Uncharted Game in the Works at Naughty Dog, Nathan Drake Not the Lead Character",
-      "url": "https://www.pushsquare.com/news/2026/10/rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan-drake-not-the-lead-character",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 9.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan-drake-not-the-lead-character",
-          "titre": "Rumour: New Uncharted Game in the Works at Naughty Dog, Nathan Drake Not the Lead Character"
         }
       ]
     },
@@ -1043,8 +1157,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1061,103 +1175,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.8,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/life-sim/agony-two-life-sims-i-really-want-to-play-launched-back-to-back/",
           "titre": "Agony! Two life sims I really want to play launched back to back"
-        }
-      ]
-    },
-    {
-      "id": "former-halo-lead-suggests-three-ways-activision-could-revive",
-      "titre": "Former Halo lead suggests three ways Activision could revive the legendary series, and urges the company to hire laid off Bungie staff",
-      "url": "https://www.eurogamer.net/halo-lead-activision-revive-hire-bungie-developers",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 13.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/halo-lead-activision-revive-hire-bungie-developers",
-          "titre": "Former Halo lead suggests three ways Activision could revive the legendary series, and urges the company to hire laid off Bungie staff"
-        }
-      ]
-    },
-    {
-      "id": "ubisoft-renames-creative-house-2-home-of-the-division-ghost",
-      "titre": "Ubisoft renames Creative House 2, home of The Division, Ghost Recon and Splinter Cell, as Massive Entertainment",
-      "url": "https://www.gamesindustry.biz/ubisoft-renames-creative-house-2-home-of-the-division-ghost-recon-and-splinter-cell-as-massive-entertainment",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 13.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/ubisoft-renames-creative-house-2-home-of-the-division-ghost-recon-and-splinter-cell-as-massive-entertainment",
-          "titre": "Ubisoft renames Creative House 2, home of The Division, Ghost Recon and Splinter Cell, as Massive Entertainment"
-        }
-      ]
-    },
-    {
-      "id": "the-americans-have-officially-renamed-artificial-intelligenc",
-      "titre": "The Americans have officially renamed artificial intelligence to 'Super Intelligence,' which should fix everything",
-      "url": "https://www.pcgamer.com/software/ai/the-americans-have-officially-renamed-artificial-intelligence-to-super-intelligence-which-should-fix-everything/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/the-americans-have-officially-renamed-artificial-intelligence-to-super-intelligence-which-should-fix-everything/",
-          "titre": "The Americans have officially renamed artificial intelligence to 'Super Intelligence,' which should fix everything"
-        }
-      ]
-    },
-    {
-      "id": "ubisoft-montreal-employees-launch-collective-action-to-prese",
-      "titre": "Ubisoft Montreal employees launch collective action to preserve hybrid work schedule",
-      "url": "https://www.gamedeveloper.com/production/ubisoft-montreal-employees-launch-collective-action-to-preserve-hybrid-work-schedule",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 14.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production/ubisoft-montreal-employees-launch-collective-action-to-preserve-hybrid-work-schedule",
-          "titre": "Ubisoft Montreal employees launch collective action to preserve hybrid work schedule"
-        }
-      ]
-    },
-    {
-      "id": "to-celebrate-september-30-the-day-the-cop-inside-of-leon-ken",
-      "titre": "To celebrate September 30, the day the cop inside of Leon Kennedy died, here's my most traumatic encounters in Resident Evil",
-      "url": "https://www.pcgamer.com/games/resident-evil/to-celebrate-september-30-the-day-the-cop-inside-of-leon-kennedy-died-heres-my-most-traumatic-encounters-in-resident-evil/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/resident-evil/to-celebrate-september-30-the-day-the-cop-inside-of-leon-kennedy-died-heres-my-most-traumatic-encounters-in-resident-evil/",
-          "titre": "To celebrate September 30, the day the cop inside of Leon Kennedy died, here's my most traumatic encounters in Resident Evil"
         }
       ]
     }
