@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "01/10/2026 à 20h22",
+  "collecte": "01/10/2026 à 22h20",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 4,
-      "heures": 1.8,
+      "heures": 3.7,
       "chaleur": 20,
       "liens": [
         {
@@ -50,7 +50,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 4,
-      "heures": 24.8,
+      "heures": 26.7,
       "chaleur": 12,
       "liens": [
         {
@@ -84,7 +84,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 10,
       "liens": [
         {
@@ -109,7 +109,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 10,
       "liens": [
         {
@@ -139,7 +139,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 6.9,
+      "heures": 8.8,
       "chaleur": 10,
       "liens": [
         {
@@ -160,36 +160,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-division-developers-massive-are-now-the-global-brand-in",
-      "titre": "The Division developers Massive are now \"the global brand\" in charge of Splinter Cell and Ghost Recon, alongside a new Ubisoft dieselpunk MOBA",
-      "url": "https://www.rockpapershotgun.com/the-division-developers-massive-are-now-the-global-brand-in-charge-of-splinter-cell-and-ghost-recon-alongside-a-new-ubisoft-dieselpunk-moba",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 10.3,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-division-developers-massive-are-now-the-global-brand-in-charge-of-splinter-cell-and-ghost-recon-alongside-a-new-ubisoft-dieselpunk-moba",
-          "titre": "The Division developers Massive are now \"the global brand\" in charge of Splinter Cell and Ghost Recon, alongside a new Ubisoft dieselpunk MOBA"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/massive-entertainment-the-division-splinter-cell-ghost-recon",
-          "titre": "The Division studio Massive expands to take control of Splinter Cell and Ghost Recon, and a new IP, in Ubisoft's most recent reorganisation"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/ubisoft-renames-creative-house-2-home-of-the-division-ghost-recon-and-splinter-cell-as-massive-entertainment",
-          "titre": "Ubisoft renames Creative House 2, home of The Division, Ghost Recon and Splinter Cell, as Massive Entertainment"
-        }
-      ]
-    },
-    {
       "id": "sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for",
       "titre": "Sony Confirms Refined Version of Acclaimed PSSR Upscaler for Base PS5, with 'Remarkable' Potential",
       "url": "https://www.pushsquare.com/news/2026/10/sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for-base-ps5-with-remarkable-potential",
@@ -198,7 +168,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.9,
+      "heures": 3.8,
       "chaleur": 9,
       "liens": [
         {
@@ -222,7 +192,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 9,
       "liens": [
         {
@@ -238,20 +208,32 @@ const VEILLE = {
       ]
     },
     {
-      "id": "you-can-now-buy-more-than-2-000-games-for-5-or-less-on-steam",
-      "titre": "You can now buy more than 2,000 games for $5 or less on Steam",
-      "url": "https://www.pcgamer.com/games/steam-autumn-sale-2026/",
+      "id": "the-division-developers-massive-are-now-the-global-brand-in",
+      "titre": "The Division developers Massive are now \"the global brand\" in charge of Splinter Cell and Ghost Recon, alongside a new Ubisoft dieselpunk MOBA",
+      "url": "https://www.rockpapershotgun.com/the-division-developers-massive-are-now-the-global-brand-in-charge-of-splinter-cell-and-ghost-recon-alongside-a-new-ubisoft-dieselpunk-moba",
       "sources": [
-        "PC Gamer"
+        "Eurogamer",
+        "GamesIndustry.biz",
+        "Rock Paper Shotgun"
       ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 8,
+      "reprises": 3,
+      "heures": 12.3,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/steam-autumn-sale-2026/",
-          "titre": "You can now buy more than 2,000 games for $5 or less on Steam"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-division-developers-massive-are-now-the-global-brand-in-charge-of-splinter-cell-and-ghost-recon-alongside-a-new-ubisoft-dieselpunk-moba",
+          "titre": "The Division developers Massive are now \"the global brand\" in charge of Splinter Cell and Ghost Recon, alongside a new Ubisoft dieselpunk MOBA"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/massive-entertainment-the-division-splinter-cell-ghost-recon",
+          "titre": "The Division studio Massive expands to take control of Splinter Cell and Ghost Recon, and a new IP, in Ubisoft's most recent reorganisation"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/ubisoft-renames-creative-house-2-home-of-the-division-ghost-recon-and-splinter-cell-as-massive-entertainment",
+          "titre": "Ubisoft renames Creative House 2, home of The Division, Ghost Recon and Splinter Cell, as Massive Entertainment"
         }
       ]
     },
@@ -264,7 +246,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.4,
+      "heures": 6.3,
       "chaleur": 7,
       "liens": [
         {
@@ -288,7 +270,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 6.0,
+      "heures": 8.0,
       "chaleur": 7,
       "liens": [
         {
@@ -312,7 +294,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 7,
       "liens": [
         {
@@ -336,7 +318,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 7,
       "liens": [
         {
@@ -360,7 +342,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 8.3,
+      "heures": 10.2,
       "chaleur": 7,
       "liens": [
         {
@@ -592,6 +574,114 @@ const VEILLE = {
       ]
     },
     {
+      "id": "masters-of-albion-peter-molyneux-s-final-game-just-got-a-hug",
+      "titre": "Masters of Albion, Peter Molyneux's final game, just got a huge update and, [vigorous, lips-pursed nodding of approval], suddenly the old god game magic is back",
+      "url": "https://www.pcgamer.com/games/strategy/masters-of-albion-peter-molyneuxs-final-game-just-got-a-huge-update-and-vigorous-lips-pursed-nodding-of-approval-suddenly-the-old-god-game-magic-is-back/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/masters-of-albion-peter-molyneuxs-final-game-just-got-a-huge-update-and-vigorous-lips-pursed-nodding-of-approval-suddenly-the-old-god-game-magic-is-back/",
+          "titre": "Masters of Albion, Peter Molyneux's final game, just got a huge update and, [vigorous, lips-pursed nodding of approval], suddenly the old god game magic is back"
+        }
+      ]
+    },
+    {
+      "id": "if-ace-combat-s-too-pricey-this-excellent-indie-alternative",
+      "titre": "If Ace Combat's too pricey, this excellent indie alternative is on sale for just $12.50",
+      "url": "https://www.pcgamer.com/games/action/if-ace-combats-too-pricey-this-excellent-indie-alternative-is-on-sale-for-just-usd12-50/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/if-ace-combats-too-pricey-this-excellent-indie-alternative-is-on-sale-for-just-usd12-50/",
+          "titre": "If Ace Combat's too pricey, this excellent indie alternative is on sale for just $12.50"
+        }
+      ]
+    },
+    {
+      "id": "one-story-about-my-first-30-minutes-in-this-post-apocalyptic",
+      "titre": "One story about my first 30 minutes in this post-apocalyptic robot game led multiple people to buy it",
+      "url": "https://www.pcgamer.com/games/adventure/one-story-about-my-first-30-minutes-in-this-post-apocalyptic-robot-game-led-multiple-people-to-buy-it/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/adventure/one-story-about-my-first-30-minutes-in-this-post-apocalyptic-robot-game-led-multiple-people-to-buy-it/",
+          "titre": "One story about my first 30 minutes in this post-apocalyptic robot game led multiple people to buy it"
+        }
+      ]
+    },
+    {
+      "id": "open-world-fatigue-is-one-reason-indie-rpg-entropy-is-borro",
+      "titre": "'Open world fatigue' is one reason indie RPG Entropy is borrowing from the classics: 'PS1, PS2, GameCube games really never outstayed their welcome'",
+      "url": "https://www.pcgamer.com/games/rpg/open-world-fatigue-is-one-reason-indie-rpg-entropy-is-borrowing-from-the-classics-ps1-ps2-gamecube-games-really-never-outstayed-their-welcome/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/open-world-fatigue-is-one-reason-indie-rpg-entropy-is-borrowing-from-the-classics-ps1-ps2-gamecube-games-really-never-outstayed-their-welcome/",
+          "titre": "'Open world fatigue' is one reason indie RPG Entropy is borrowing from the classics: 'PS1, PS2, GameCube games really never outstayed their welcome'"
+        }
+      ]
+    },
+    {
+      "id": "how-to-conquer-kuttenberg",
+      "titre": "How to conquer Kuttenberg",
+      "url": "https://www.pcgamer.com/games/rpg/how-to-conquer-kuttenberg/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/how-to-conquer-kuttenberg/",
+          "titre": "How to conquer Kuttenberg"
+        }
+      ]
+    },
+    {
+      "id": "more-than-450-witcher-3-mods-have-already-been-updated-to-su",
+      "titre": "More than 450 Witcher 3 mods have already been updated to support the Remastered version",
+      "url": "https://www.pcgamer.com/games/the-witcher/more-than-450-witcher-3-mods-have-already-been-updated-to-support-the-remastered-version/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/more-than-450-witcher-3-mods-have-already-been-updated-to-support-the-remastered-version/",
+          "titre": "More than 450 Witcher 3 mods have already been updated to support the Remastered version"
+        }
+      ]
+    },
+    {
       "id": "kingdom-come-deliverance-studio-co-founder-hopes-grand-theft",
       "titre": "Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/kingdom-come-deliverance-studio-co-founder-hopes-grand-theft-auto-6-will-blaze-a-trail-to-higher-game-prices/",
@@ -599,7 +689,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
@@ -617,7 +707,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -635,7 +725,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -653,7 +743,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -671,7 +761,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -682,128 +772,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "there-s-no-doubt-about-it-anime-rpg-litgirls-was-made-for-me",
-      "titre": "There's No Doubt About It, Anime RPG LitGirls Was Made for Me",
-      "url": "https://www.pushsquare.com/news/2026/10/theres-no-doubt-about-it-anime-rpg-litgirls-was-made-for-me",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/theres-no-doubt-about-it-anime-rpg-litgirls-was-made-for-me",
-          "titre": "There's No Doubt About It, Anime RPG LitGirls Was Made for Me"
-        }
-      ]
-    },
-    {
-      "id": "japanese-charts-fire-emblem-sales-plummet-but-it-s-still-eno",
-      "titre": "Japanese Charts: Fire Emblem Sales Plummet, But It's Still Enough To Stay On The Podium",
-      "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-fire-emblem-sales-plummet-but-its-still-enough-to-stay-on-the-podium",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-fire-emblem-sales-plummet-but-its-still-enough-to-stay-on-the-podium",
-          "titre": "Japanese Charts: Fire Emblem Sales Plummet, But It's Still Enough To Stay On The Podium"
-        }
-      ]
-    },
-    {
-      "id": "yazoo-croc-2-remaster-release-date-confirmed-for-late-octobe",
-      "titre": "Yazoo! Croc 2 Remaster Release Date Confirmed for Late October on PS5, PS4",
-      "url": "https://www.pushsquare.com/news/2026/10/yazoo-croc-2-remaster-release-date-confirmed-for-late-october-on-ps5-ps4",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/yazoo-croc-2-remaster-release-date-confirmed-for-late-october-on-ps5-ps4",
-          "titre": "Yazoo! Croc 2 Remaster Release Date Confirmed for Late October on PS5, PS4"
-        }
-      ]
-    },
-    {
-      "id": "lego-ps1-now-available-to-buy-from-ps-direct-with-free-astro",
-      "titre": "LEGO PS1 Now Available to Buy from PS Direct, with Free Astro Bot Set",
-      "url": "https://www.pushsquare.com/news/2026/10/lego-ps1-now-available-to-buy-from-ps-direct-with-free-astro-bot-set",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/lego-ps1-now-available-to-buy-from-ps-direct-with-free-astro-bot-set",
-          "titre": "LEGO PS1 Now Available to Buy from PS Direct, with Free Astro Bot Set"
-        }
-      ]
-    },
-    {
-      "id": "reigns-and-card-shark-developers-nerial-are-closing-down-lay",
-      "titre": "Reigns and Card Shark developers Nerial are closing down, laying staff off while the founders go \"back to our roots\"",
-      "url": "https://www.rockpapershotgun.com/reigns-and-card-shark-developers-nerial-are-closing-down-laying-staff-off-while-the-founders-go-back-to-our-roots",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/reigns-and-card-shark-developers-nerial-are-closing-down-laying-staff-off-while-the-founders-go-back-to-our-roots",
-          "titre": "Reigns and Card Shark developers Nerial are closing down, laying staff off while the founders go \"back to our roots\""
-        }
-      ]
-    },
-    {
-      "id": "after-a-series-of-catastrophes-where-no-one-could-seem-to-ro",
-      "titre": "After a series of catastrophes where no-one could seem to roll well, I truly have no idea who's going to make it out of Critical Role's next episode",
-      "url": "https://www.pcgamer.com/movies-tv/after-a-series-of-catastrophes-where-no-one-could-seem-to-roll-well-i-truly-have-no-idea-whos-going-to-make-it-out-of-critical-roles-next-episode/",
+      "id": "you-can-now-buy-more-than-44-000-games-for-5-or-less-on-stea",
+      "titre": "You can now buy more than 44,000 games for $5 or less on Steam",
+      "url": "https://www.pcgamer.com/games/steam-autumn-sale-2026/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 5.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/after-a-series-of-catastrophes-where-no-one-could-seem-to-roll-well-i-truly-have-no-idea-whos-going-to-make-it-out-of-critical-roles-next-episode/",
-          "titre": "After a series of catastrophes where no-one could seem to roll well, I truly have no idea who's going to make it out of Critical Role's next episode"
-        }
-      ]
-    },
-    {
-      "id": "resident-evil-s-executive-producer-explains-the-deeper-meani",
-      "titre": "Resident Evil's executive producer explains the deeper meaning behind Requiem, and I just can't get on board",
-      "url": "https://www.pcgamer.com/games/resident-evil/resident-evils-executive-producer-explains-the-deeper-meaning-behind-requiem-and-i-just-cant-get-on-board/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/resident-evil/resident-evils-executive-producer-explains-the-deeper-meaning-behind-requiem-and-i-just-cant-get-on-board/",
-          "titre": "Resident Evil's executive producer explains the deeper meaning behind Requiem, and I just can't get on board"
+          "url": "https://www.pcgamer.com/games/steam-autumn-sale-2026/",
+          "titre": "You can now buy more than 44,000 games for $5 or less on Steam"
         }
       ]
     },
@@ -815,7 +797,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.4,
       "chaleur": 6,
       "liens": [
         {
@@ -833,31 +815,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/new-uncharted-game-naughty-dog-report",
           "titre": "New Uncharted game reportedly in the works at Naughty Dog, and it's not a remake"
-        }
-      ]
-    },
-    {
-      "id": "as-xbox-swings-the-axe-gears-of-war-e-day-developers-fear-th",
-      "titre": "As Xbox swings the axe, Gears of War: E-Day developers fear they'll be laid off straight after launch - and right before they'd be due their bonuses",
-      "url": "https://www.eurogamer.net/the-coalition-gears-of-war-e-day-worried-layoffs-no-bonus",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/the-coalition-gears-of-war-e-day-worried-layoffs-no-bonus",
-          "titre": "As Xbox swings the axe, Gears of War: E-Day developers fear they'll be laid off straight after launch - and right before they'd be due their bonuses"
         }
       ]
     },
@@ -869,7 +833,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.3,
       "chaleur": 6,
       "liens": [
         {
@@ -887,7 +851,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.0,
+      "heures": 20.9,
       "chaleur": 6,
       "liens": [
         {
@@ -905,7 +869,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.3,
       "chaleur": 6,
       "liens": [
         {
@@ -923,13 +887,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
           "titre": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain"
+        }
+      ]
+    },
+    {
+      "id": "as-xbox-swings-the-axe-gears-of-war-e-day-developers-fear-th",
+      "titre": "As Xbox swings the axe, Gears of War: E-Day developers fear they'll be laid off straight after launch - and right before they'd be due their bonuses",
+      "url": "https://www.eurogamer.net/the-coalition-gears-of-war-e-day-worried-layoffs-no-bonus",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 12.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/the-coalition-gears-of-war-e-day-worried-layoffs-no-bonus",
+          "titre": "As Xbox swings the axe, Gears of War: E-Day developers fear they'll be laid off straight after launch - and right before they'd be due their bonuses"
         }
       ]
     },
@@ -941,7 +923,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 18.6,
       "chaleur": 5,
       "liens": [
         {
@@ -959,7 +941,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 21.9,
       "chaleur": 5,
       "liens": [
         {
@@ -977,7 +959,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.3,
       "chaleur": 5,
       "liens": [
         {
@@ -995,7 +977,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.0,
+      "heures": 30.9,
       "chaleur": 5,
       "liens": [
         {
@@ -1013,7 +995,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 29.9,
+      "heures": 31.8,
       "chaleur": 5,
       "liens": [
         {
@@ -1031,7 +1013,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 30.7,
+      "heures": 32.7,
       "chaleur": 5,
       "liens": [
         {
@@ -1049,7 +1031,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 33.5,
+      "heures": 35.4,
       "chaleur": 5,
       "liens": [
         {
@@ -1060,20 +1042,128 @@ const VEILLE = {
       ]
     },
     {
-      "id": "valve-is-updating-steam-s-discount-events-section-to-become",
-      "titre": "Valve is updating Steam's Discount & Events section to become more \"dynamic and personalised\"",
-      "url": "https://www.gamesindustry.biz/valve-is-updating-steams-discount-events-section-to-become-more-dynamic-and-personalised",
+      "id": "there-s-no-doubt-about-it-anime-rpg-litgirls-was-made-for-me",
+      "titre": "There's No Doubt About It, Anime RPG LitGirls Was Made for Me",
+      "url": "https://www.pushsquare.com/news/2026/10/theres-no-doubt-about-it-anime-rpg-litgirls-was-made-for-me",
       "sources": [
-        "GamesIndustry.biz"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 35.0,
-      "chaleur": 5,
+      "heures": 4.1,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/valve-is-updating-steams-discount-events-section-to-become-more-dynamic-and-personalised",
-          "titre": "Valve is updating Steam's Discount & Events section to become more \"dynamic and personalised\""
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/theres-no-doubt-about-it-anime-rpg-litgirls-was-made-for-me",
+          "titre": "There's No Doubt About It, Anime RPG LitGirls Was Made for Me"
+        }
+      ]
+    },
+    {
+      "id": "japanese-charts-fire-emblem-sales-plummet-but-it-s-still-eno",
+      "titre": "Japanese Charts: Fire Emblem Sales Plummet, But It's Still Enough To Stay On The Podium",
+      "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-fire-emblem-sales-plummet-but-its-still-enough-to-stay-on-the-podium",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-fire-emblem-sales-plummet-but-its-still-enough-to-stay-on-the-podium",
+          "titre": "Japanese Charts: Fire Emblem Sales Plummet, But It's Still Enough To Stay On The Podium"
+        }
+      ]
+    },
+    {
+      "id": "yazoo-croc-2-remaster-release-date-confirmed-for-late-octobe",
+      "titre": "Yazoo! Croc 2 Remaster Release Date Confirmed for Late October on PS5, PS4",
+      "url": "https://www.pushsquare.com/news/2026/10/yazoo-croc-2-remaster-release-date-confirmed-for-late-october-on-ps5-ps4",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/yazoo-croc-2-remaster-release-date-confirmed-for-late-october-on-ps5-ps4",
+          "titre": "Yazoo! Croc 2 Remaster Release Date Confirmed for Late October on PS5, PS4"
+        }
+      ]
+    },
+    {
+      "id": "lego-ps1-now-available-to-buy-from-ps-direct-with-free-astro",
+      "titre": "LEGO PS1 Now Available to Buy from PS Direct, with Free Astro Bot Set",
+      "url": "https://www.pushsquare.com/news/2026/10/lego-ps1-now-available-to-buy-from-ps-direct-with-free-astro-bot-set",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/lego-ps1-now-available-to-buy-from-ps-direct-with-free-astro-bot-set",
+          "titre": "LEGO PS1 Now Available to Buy from PS Direct, with Free Astro Bot Set"
+        }
+      ]
+    },
+    {
+      "id": "reigns-and-card-shark-developers-nerial-are-closing-down-lay",
+      "titre": "Reigns and Card Shark developers Nerial are closing down, laying staff off while the founders go \"back to our roots\"",
+      "url": "https://www.rockpapershotgun.com/reigns-and-card-shark-developers-nerial-are-closing-down-laying-staff-off-while-the-founders-go-back-to-our-roots",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/reigns-and-card-shark-developers-nerial-are-closing-down-laying-staff-off-while-the-founders-go-back-to-our-roots",
+          "titre": "Reigns and Card Shark developers Nerial are closing down, laying staff off while the founders go \"back to our roots\""
+        }
+      ]
+    },
+    {
+      "id": "after-a-series-of-catastrophes-where-no-one-could-seem-to-ro",
+      "titre": "After a series of catastrophes where no-one could seem to roll well, I truly have no idea who's going to make it out of Critical Role's next episode",
+      "url": "https://www.pcgamer.com/movies-tv/after-a-series-of-catastrophes-where-no-one-could-seem-to-roll-well-i-truly-have-no-idea-whos-going-to-make-it-out-of-critical-roles-next-episode/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/after-a-series-of-catastrophes-where-no-one-could-seem-to-roll-well-i-truly-have-no-idea-whos-going-to-make-it-out-of-critical-roles-next-episode/",
+          "titre": "After a series of catastrophes where no-one could seem to roll well, I truly have no idea who's going to make it out of Critical Role's next episode"
+        }
+      ]
+    },
+    {
+      "id": "resident-evil-s-executive-producer-explains-the-deeper-meani",
+      "titre": "Resident Evil's executive producer explains the deeper meaning behind Requiem, and I just can't get on board",
+      "url": "https://www.pcgamer.com/games/resident-evil/resident-evils-executive-producer-explains-the-deeper-meaning-behind-requiem-and-i-just-cant-get-on-board/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/resident-evil/resident-evils-executive-producer-explains-the-deeper-meaning-behind-requiem-and-i-just-cant-get-on-board/",
+          "titre": "Resident Evil's executive producer explains the deeper meaning behind Requiem, and I just can't get on board"
         }
       ]
     },
@@ -1085,7 +1175,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1103,7 +1193,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1112,99 +1202,7 @@ const VEILLE = {
           "titre": "'Croc 2' Is Getting The Remaster Treatment Later This Month"
         }
       ]
-    },
-    {
-      "id": "you-can-now-play-halo-combat-evolved-in-a-web-browser-and-it",
-      "titre": "You can now play Halo: Combat Evolved in a web browser, and it even has multiplayer",
-      "url": "https://www.pcgamer.com/hardware/you-can-now-play-halo-combat-evolved-in-a-web-browser-and-it-even-has-multiplayer/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/you-can-now-play-halo-combat-evolved-in-a-web-browser-and-it-even-has-multiplayer/",
-          "titre": "You can now play Halo: Combat Evolved in a web browser, and it even has multiplayer"
-        }
-      ]
-    },
-    {
-      "id": "ghost-of-yotei-complete-edition-review-an-expansion-worth-re",
-      "titre": "Ghost of Yotei Complete Edition review: An expansion worth returning for",
-      "url": "https://www.videogameschronicle.com/review/ghost-of-yotei-complete-edition/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 4.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/review/ghost-of-yotei-complete-edition/",
-          "titre": "Ghost of Yotei Complete Edition review: An expansion worth returning for"
-        }
-      ]
-    },
-    {
-      "id": "great-news-cowards-the-witcher-3-s-most-yellow-bellied-mod-w",
-      "titre": "Great news, cowards: The Witcher 3's most yellow-bellied mod works with the remaster",
-      "url": "https://www.pcgamer.com/games/the-witcher/great-news-cowards-the-witcher-3s-most-yellow-bellied-mod-is-ready-for-the-remaster/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/great-news-cowards-the-witcher-3s-most-yellow-bellied-mod-is-ready-for-the-remaster/",
-          "titre": "Great news, cowards: The Witcher 3's most yellow-bellied mod works with the remaster"
-        }
-      ]
-    },
-    {
-      "id": "inin-relaunches-r-type-dimensions-3-with-a-free-digital-artb",
-      "titre": "ININ 'Relaunches' R-Type Dimensions 3 With A Free Digital Artbook",
-      "url": "https://www.nintendolife.com/news/2026/10/inin-relaunches-r-type-dimensions-3-with-a-free-digital-artbook",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 4.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/inin-relaunches-r-type-dimensions-3-with-a-free-digital-artbook",
-          "titre": "ININ 'Relaunches' R-Type Dimensions 3 With A Free Digital Artbook"
-        }
-      ]
-    },
-    {
-      "id": "retrospace-offers-a-huge-sci-fi-playground-for-inquisitive-s",
-      "titre": "RetroSpace offers a huge sci-fi playground for inquisitive space janitors, but I'm not that System Shocked by the tools at your disposal",
-      "url": "https://www.rockpapershotgun.com/retrospace-offers-a-huge-sci-fi-playground-for-inquisitive-space-janitors-but-im-not-that-system-shocked-by-the-tools-at-your-disposal",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 4.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/retrospace-offers-a-huge-sci-fi-playground-for-inquisitive-space-janitors-but-im-not-that-system-shocked-by-the-tools-at-your-disposal",
-          "titre": "RetroSpace offers a huge sci-fi playground for inquisitive space janitors, but I'm not that System Shocked by the tools at your disposal"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "'Xbox is not for sale,' CEO Asha Sharma says"
-  ]
+  "alertes": []
 };
