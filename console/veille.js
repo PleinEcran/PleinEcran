@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "01/10/2026 à 04h23",
+  "collecte": "01/10/2026 à 06h29",
   "seuil": 14,
   "sujets": [
     {
@@ -16,7 +16,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 6,
-      "heures": 8.8,
+      "heures": 10.9,
       "chaleur": 19,
       "liens": [
         {
@@ -61,7 +61,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 9.8,
+      "heures": 11.9,
       "chaleur": 12,
       "liens": [
         {
@@ -91,7 +91,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 13.9,
+      "heures": 16.0,
       "chaleur": 11,
       "liens": [
         {
@@ -112,44 +112,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-switch-2-system-update-23-0-1-is-now-live-here-are",
-      "titre": "Nintendo Switch 2 System Update 23.0.1 Is Now Live, Here Are The Full Patch Notes",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-switch-2-system-update-23-0-1-is-now-live-here-are-the-full-patch-notes",
+      "id": "nintendo-has-now-shut-down-mario-kart-tour",
+      "titre": "Nintendo Has Now Shut Down Mario Kart Tour",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-now-shut-down-mario-kart-tour",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 9,
+      "heures": 2.7,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-switch-2-system-update-23-0-1-is-now-live-here-are-the-full-patch-notes",
-          "titre": "Nintendo Switch 2 System Update 23.0.1 Is Now Live, Here Are The Full Patch Notes"
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-hits-its-highest-ever-steam-concurrent-player",
-      "titre": "The Witcher 3 hits its highest-ever Steam concurrent player count following Remastered launch",
-      "url": "https://www.gamesindustry.biz/the-witcher-3-hits-its-highest-ever-steam-concurrent-player-count-following-remastered-launch",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 11.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/the-witcher-3-hits-its-highest-ever-steam-concurrent-player-count-following-remastered-launch",
-          "titre": "The Witcher 3 hits its highest-ever Steam concurrent player count following Remastered launch"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-steam-most-played-record-remastered",
-          "titre": "The Witcher 3 surges to its highest Steam concurrent player-count ever, following Remastered edition's release"
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-now-shut-down-mario-kart-tour",
+          "titre": "Nintendo Has Now Shut Down Mario Kart Tour"
         }
       ]
     },
@@ -161,31 +137,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 9,
+      "heures": 13.7,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/analyst-argues-gears-of-war-e-day-shouldnt-have-been-cancelled-on-ps5-after-soft-steam-pre-orders",
           "titre": "Analyst Argues Gears of War: E-Day Shouldn't Have Been Cancelled on PS5 After 'Soft' Steam Pre-Orders"
-        }
-      ]
-    },
-    {
-      "id": "pok-mon-pokopia-expansion-pass-switch-2-game-key-card-releas",
-      "titre": "Pokémon Pokopia + Expansion Pass Switch 2 Game-Key Card Release Announced",
-      "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-plus-expansion-pass-switch-2-game-key-card-release-announced",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-plus-expansion-pass-switch-2-game-key-card-release-announced",
-          "titre": "Pokémon Pokopia + Expansion Pass Switch 2 Game-Key Card Release Announced"
         }
       ]
     },
@@ -198,7 +156,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 14.6,
+      "heures": 16.7,
       "chaleur": 8,
       "liens": [
         {
@@ -222,7 +180,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 19.0,
+      "heures": 21.1,
       "chaleur": 8,
       "liens": [
         {
@@ -238,26 +196,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan",
-      "titre": "Rumour: New Uncharted Game in the Works at Naughty Dog, Nathan Drake Not the Lead Character",
-      "url": "https://www.pushsquare.com/news/2026/10/rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan-drake-not-the-lead-character",
+      "id": "nintendo-switch-2-system-update-23-0-1-is-now-live-here-are",
+      "titre": "Nintendo Switch 2 System Update 23.0.1 Is Now Live, Here Are The Full Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-switch-2-system-update-23-0-1-is-now-live-here-are-the-full-patch-notes",
       "sources": [
-        "Game Developer",
-        "Push Square"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 5.4,
+      "reprises": 1,
+      "heures": 5.1,
       "chaleur": 7,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan-drake-not-the-lead-character",
-          "titre": "Rumour: New Uncharted Game in the Works at Naughty Dog, Nathan Drake Not the Lead Character"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-last-of-us-projects-",
-          "titre": "Naughty Dog is working on new The Last Of Us 'projects'"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-switch-2-system-update-23-0-1-is-now-live-here-are-the-full-patch-notes",
+          "titre": "Nintendo Switch 2 System Update 23.0.1 Is Now Live, Here Are The Full Patch Notes"
         }
       ]
     },
@@ -270,7 +222,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 5.7,
+      "heures": 7.8,
       "chaleur": 7,
       "liens": [
         {
@@ -293,49 +245,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.5,
       "chaleur": 7,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue",
           "titre": "Alleged hacker arrested over leak that exposed GTA Online's daily revenue"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-completely-re-engineered-rockstar-s-weather-systems-to",
-      "titre": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
-      "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
-          "titre": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain"
-        }
-      ]
-    },
-    {
-      "id": "i-have-saved-gta-5-from-death-and-also-added-tornadoes",
-      "titre": "I have saved GTA 5 from death and also added tornadoes",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-saved-gta-5-from-death-and-also-added-tornadoes/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-saved-gta-5-from-death-and-also-added-tornadoes/",
-          "titre": "I have saved GTA 5 from death and also added tornadoes"
         }
       ]
     },
@@ -520,20 +436,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "surprise-donkey-kong-bananza-s-limited-time-dlc-events-are-b",
-      "titre": "Surprise! Donkey Kong Bananza's Limited-Time DLC Events Are Back",
-      "url": "https://www.nintendolife.com/news/2026/10/surprise-donkey-kong-bananzas-limited-time-dlc-events-are-back",
+      "id": "london-games-festival",
+      "titre": "London Games Festival",
+      "url": "https://www.gamedeveloper.comgames.london",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.comgames.london",
+          "titre": "London Games Festival"
+        }
+      ]
+    },
+    {
+      "id": "we-re-probably-not-getting-a-new-fallout-game-until-well-int",
+      "titre": "We're probably not getting a new Fallout game until well into the 2030s, but that's no reason to stop talking about them",
+      "url": "https://www.pcgamer.com/games/fallout/were-probably-not-getting-a-new-fallout-game-until-well-into-the-2030s-but-thats-no-reason-to-stop-talking-about-them/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fallout/were-probably-not-getting-a-new-fallout-game-until-well-into-the-2030s-but-thats-no-reason-to-stop-talking-about-them/",
+          "titre": "We're probably not getting a new Fallout game until well into the 2030s, but that's no reason to stop talking about them"
+        }
+      ]
+    },
+    {
+      "id": "pok-mon-pokopia-expansion-pass-switch-2-game-key-card-releas",
+      "titre": "Pokémon Pokopia + Expansion Pass Switch 2 Game-Key Card Release Announced",
+      "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-plus-expansion-pass-switch-2-game-key-card-release-announced",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 6.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/surprise-donkey-kong-bananzas-limited-time-dlc-events-are-back",
-          "titre": "Surprise! Donkey Kong Bananza's Limited-Time DLC Events Are Back"
+          "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-plus-expansion-pass-switch-2-game-key-card-release-announced",
+          "titre": "Pokémon Pokopia + Expansion Pass Switch 2 Game-Key Card Release Announced"
         }
       ]
     },
@@ -545,7 +497,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.2,
       "chaleur": 6,
       "liens": [
         {
@@ -563,13 +515,49 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 12.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/09/ps-plus-members-can-claim-free-psn-avatars-for-sonys-record-breaking-spider-man-brand-new-day",
           "titre": "PS Plus Members Can Claim Free PSN Avatars for Sony's Record-Breaking Spider-Man: Brand New Day"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-completely-re-engineered-rockstar-s-weather-systems-to",
+      "titre": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
+      "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 13.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
+          "titre": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain"
+        }
+      ]
+    },
+    {
+      "id": "i-have-saved-gta-5-from-death-and-also-added-tornadoes",
+      "titre": "I have saved GTA 5 from death and also added tornadoes",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-saved-gta-5-from-death-and-also-added-tornadoes/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 13.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-saved-gta-5-from-death-and-also-added-tornadoes/",
+          "titre": "I have saved GTA 5 from death and also added tornadoes"
         }
       ]
     },
@@ -581,7 +569,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.5,
       "chaleur": 6,
       "liens": [
         {
@@ -600,7 +588,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 14.0,
+      "heures": 16.1,
       "chaleur": 6,
       "liens": [
         {
@@ -624,7 +612,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 15.0,
+      "heures": 17.1,
       "chaleur": 6,
       "liens": [
         {
@@ -647,7 +635,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.5,
       "chaleur": 6,
       "liens": [
         {
@@ -665,7 +653,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 21.0,
       "chaleur": 6,
       "liens": [
         {
@@ -683,13 +671,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.1,
+      "heures": 22.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-counter-strike-collateral",
           "titre": "Call of Duty: Modern Warfare 4 is getting a Counter-Strike-inspired game mode that I can't believe it never had before"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-hits-its-highest-ever-steam-concurrent-player",
+      "titre": "The Witcher 3 hits its highest-ever Steam concurrent player count following Remastered launch",
+      "url": "https://www.gamesindustry.biz/the-witcher-3-hits-its-highest-ever-steam-concurrent-player-count-following-remastered-launch",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 13.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/the-witcher-3-hits-its-highest-ever-steam-concurrent-player-count-following-remastered-launch",
+          "titre": "The Witcher 3 hits its highest-ever Steam concurrent player count following Remastered launch"
         }
       ]
     },
@@ -701,7 +707,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.6,
       "chaleur": 5,
       "liens": [
         {
@@ -719,7 +725,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 15.1,
       "chaleur": 5,
       "liens": [
         {
@@ -737,7 +743,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.7,
+      "heures": 16.8,
       "chaleur": 5,
       "liens": [
         {
@@ -755,7 +761,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.6,
       "chaleur": 5,
       "liens": [
         {
@@ -773,7 +779,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 18.7,
       "chaleur": 5,
       "liens": [
         {
@@ -791,7 +797,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 5,
       "liens": [
         {
@@ -809,7 +815,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 5,
       "liens": [
         {
@@ -827,7 +833,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.6,
       "chaleur": 5,
       "liens": [
         {
@@ -845,7 +851,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.6,
       "chaleur": 5,
       "liens": [
         {
@@ -863,7 +869,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 20.0,
       "chaleur": 5,
       "liens": [
         {
@@ -881,13 +887,31 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 30.9,
+      "heures": 33.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
           "titre": "Steam's discounts and events tab will soon be fully algorithm-driven"
+        }
+      ]
+    },
+    {
+      "id": "surprise-donkey-kong-bananza-s-limited-time-dlc-events-are-b",
+      "titre": "Surprise! Donkey Kong Bananza's Limited-Time DLC Events Are Back",
+      "url": "https://www.nintendolife.com/news/2026/10/surprise-donkey-kong-bananzas-limited-time-dlc-events-are-back",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/surprise-donkey-kong-bananzas-limited-time-dlc-events-are-back",
+          "titre": "Surprise! Donkey Kong Bananza's Limited-Time DLC Events Are Back"
         }
       ]
     },
@@ -899,13 +923,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 7.0,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/we-want-to-find-a-way-sega-eager-to-bring-sakura-wars-games-to-modern-consoles",
           "titre": "'We Want to Find a Way': SEGA Eager to Bring Sakura Wars Games to Modern Consoles"
+        }
+      ]
+    },
+    {
+      "id": "rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan",
+      "titre": "Rumour: New Uncharted Game in the Works at Naughty Dog, Nathan Drake Not the Lead Character",
+      "url": "https://www.pushsquare.com/news/2026/10/rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan-drake-not-the-lead-character",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 7.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan-drake-not-the-lead-character",
+          "titre": "Rumour: New Uncharted Game in the Works at Naughty Dog, Nathan Drake Not the Lead Character"
         }
       ]
     },
@@ -917,7 +959,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +977,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +995,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +1013,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.2,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +1031,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,8 +1049,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -1025,8 +1067,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1043,8 +1085,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1061,7 +1103,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1079,7 +1121,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1097,7 +1139,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 15.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1115,67 +1157,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 15.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/gaming-laptops/asus-tuf-gaming-a16-review/",
           "titre": "Asus TUF Gaming A16 gaming laptop review"
-        }
-      ]
-    },
-    {
-      "id": "the-importance-of-being-earnest-how-marvel-t-kon-s-deadpool",
-      "titre": "The importance of being earnest: How Marvel Tōkon's Deadpool trades ridicule for fighting game reverence",
-      "url": "https://www.rockpapershotgun.com/the-importance-of-being-earnest-how-marvel-tokons-deadpool-trades-ridicule-for-fighting-game-reverence",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 13.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-importance-of-being-earnest-how-marvel-tokons-deadpool-trades-ridicule-for-fighting-game-reverence",
-          "titre": "The importance of being earnest: How Marvel Tōkon's Deadpool trades ridicule for fighting game reverence"
-        }
-      ]
-    },
-    {
-      "id": "i-ve-identified-the-least-probable-goku-on-nexus-mods-and-it",
-      "titre": "I've identified the least probable Goku on Nexus Mods and it only took 5 hours",
-      "url": "https://www.pcgamer.com/games/live/news/least-probably-goku-nexus-mods/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/live/news/least-probably-goku-nexus-mods/",
-          "titre": "I've identified the least probable Goku on Nexus Mods and it only took 5 hours"
-        }
-      ]
-    },
-    {
-      "id": "people-are-very-happy-using-ps5-former-sony-exec-shuhei-yos",
-      "titre": "'People Are Very Happy Using PS5': Former Sony Exec Shuhei Yoshida Thinks PS6 Can Wait",
-      "url": "https://www.pushsquare.com/news/2026/09/people-are-very-happy-using-ps5-former-sony-exec-shuhei-yoshida-thinks-ps6-can-wait",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 13.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/people-are-very-happy-using-ps5-former-sony-exec-shuhei-yoshida-thinks-ps6-can-wait",
-          "titre": "'People Are Very Happy Using PS5': Former Sony Exec Shuhei Yoshida Thinks PS6 Can Wait"
         }
       ]
     }
