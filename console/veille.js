@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "01/10/2026 à 16h22",
+  "collecte": "01/10/2026 à 18h26",
   "seuil": 14,
   "sujets": [
     {
@@ -13,7 +13,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 15,
       "liens": [
         {
@@ -42,7 +42,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 12,
       "liens": [
         {
@@ -67,7 +67,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 1.9,
+      "heures": 4.0,
       "chaleur": 12,
       "liens": [
         {
@@ -88,66 +88,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "capcom-has-a-plan-for-when-there-s-no-old-resident-evils-lef",
-      "titre": "Capcom Has a Plan for When There's No Old Resident Evils Left to Remake",
-      "url": "https://www.pushsquare.com/news/2026/10/capcom-has-a-plan-for-when-theres-no-old-resident-evils-left-to-remake",
-      "sources": [
-        "Nintendo Life",
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 2.9,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/capcom-has-a-plan-for-when-theres-no-old-resident-evils-left-to-remake",
-          "titre": "Capcom Has a Plan for When There's No Old Resident Evils Left to Remake"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/capcom-arent-just-running-out-of-resident-evil-games-to-remake-theyre-banking-on-it-with-a-mysterious-crossover-planned-when-the-timelines-collide",
-          "titre": "Capcom aren't just running out of Resident Evil games to remake - they're banking on it, with a mysterious \"crossover\" planned when the timelines collide"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/capcom-has-an-intriguing-plan-for-when-its-resident-evil-remakes-catch-up-with-the-new-games",
-          "titre": "Capcom Has An Intriguing Plan For When Its Resident Evil Remakes Catch Up With The New Games"
-        }
-      ]
-    },
-    {
-      "id": "gears-of-war-e-day-campaign-review-an-absolute-blast-even-if",
-      "titre": "Gears of War E-Day campaign review: An absolute blast, even if it focuses on commotion over emotion",
-      "url": "https://www.videogameschronicle.com/review/gears-of-war-e-day-campaign-review/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 3.4,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/review/gears-of-war-e-day-campaign-review/",
-          "titre": "Gears of War E-Day campaign review: An absolute blast, even if it focuses on commotion over emotion"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gears-of-war-eday-campaign-review",
-          "titre": "Gears of War E-Day campaign review - turns out you can teach old Cogs new tricks"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review-in-progress/",
-          "titre": "Gears of War: E-Day review in progress — Good shooting, but the campaign's a slog"
-        }
-      ]
-    },
-    {
       "id": "suda-51-s-grasshopper-manufacture-splits-from-netease",
       "titre": "Suda 51's Grasshopper Manufacture splits from NetEase",
       "url": "https://www.gamedeveloper.com/business/suda-51-s-grasshopper-manufacture-splits-from-netease",
@@ -158,7 +98,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 4,
-      "heures": 20.8,
+      "heures": 22.8,
       "chaleur": 12,
       "liens": [
         {
@@ -184,26 +124,32 @@ const VEILLE = {
       ]
     },
     {
-      "id": "kena-scars-of-kosmora-has-been-delayed-until-next-year-ember",
-      "titre": "Kena: Scars of Kosmora has been delayed until next year, Ember Lab announces",
-      "url": "https://www.videogameschronicle.com/news/kena-scars-of-kosmora-has-been-delayed-until-next-year-ember-lab-announces/",
+      "id": "capcom-has-a-plan-for-when-there-s-no-old-resident-evils-lef",
+      "titre": "Capcom Has a Plan for When There's No Old Resident Evils Left to Remake",
+      "url": "https://www.pushsquare.com/news/2026/10/capcom-has-a-plan-for-when-theres-no-old-resident-evils-left-to-remake",
       "sources": [
+        "Nintendo Life",
         "Push Square",
-        "VGC"
+        "Rock Paper Shotgun"
       ],
-      "reprises": 2,
-      "heures": 3.4,
-      "chaleur": 11,
+      "reprises": 3,
+      "heures": 4.9,
+      "chaleur": 10,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/kena-scars-of-kosmora-has-been-delayed-until-next-year-ember-lab-announces/",
-          "titre": "Kena: Scars of Kosmora has been delayed until next year, Ember Lab announces"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/capcom-has-a-plan-for-when-theres-no-old-resident-evils-left-to-remake",
+          "titre": "Capcom Has a Plan for When There's No Old Resident Evils Left to Remake"
         },
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps5s-kena-scars-of-kosmora-officially-delayed-into-2027-new-details-revealed",
-          "titre": "PS5's Kena: Scars of Kosmora Officially Delayed into 2027, New Details Revealed"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/capcom-arent-just-running-out-of-resident-evil-games-to-remake-theyre-banking-on-it-with-a-mysterious-crossover-planned-when-the-timelines-collide",
+          "titre": "Capcom aren't just running out of Resident Evil games to remake - they're banking on it, with a mysterious \"crossover\" planned when the timelines collide"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/capcom-has-an-intriguing-plan-for-when-its-resident-evil-remakes-catch-up-with-the-new-games",
+          "titre": "Capcom Has An Intriguing Plan For When Its Resident Evil Remakes Catch Up With The New Games"
         }
       ]
     },
@@ -217,7 +163,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 6.3,
+      "heures": 8.4,
       "chaleur": 10,
       "liens": [
         {
@@ -238,6 +184,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "remarkable-sony-reveals-new-ps5-upscaler-tech-qssr",
+      "titre": "‘Remarkable’: Sony reveals new PS5 upscaler tech, QSSR",
+      "url": "https://www.videogameschronicle.com/news/remarkable-sony-reveals-new-ps5-upscaler-tech-qssr/",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/remarkable-sony-reveals-new-ps5-upscaler-tech-qssr/",
+          "titre": "‘Remarkable’: Sony reveals new PS5 upscaler tech, QSSR"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/wolverine-adds-sonys-new-qssr-tech-as-default-on-base-ps5-in-latest-patch",
+          "titre": "Wolverine Adds Sony's New QSSR Tech as Default on Base PS5 in Latest Patch"
+        }
+      ]
+    },
+    {
       "id": "how-to-unlock-jin-sakai-in-ghost-of-yotei-most-wanted",
       "titre": "How to unlock Jin Sakai in Ghost of Yotei Most Wanted",
       "url": "https://www.videogameschronicle.com/guide/how-to-unlock-jin-sakai-in-ghost-of-yotei-most-wanted/",
@@ -246,7 +216,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 9,
       "liens": [
         {
@@ -262,6 +232,66 @@ const VEILLE = {
       ]
     },
     {
+      "id": "kena-scars-of-kosmora-has-been-delayed-until-next-year-ember",
+      "titre": "Kena: Scars of Kosmora has been delayed until next year, Ember Lab announces",
+      "url": "https://www.videogameschronicle.com/news/kena-scars-of-kosmora-has-been-delayed-until-next-year-ember-lab-announces/",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 5.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/kena-scars-of-kosmora-has-been-delayed-until-next-year-ember-lab-announces/",
+          "titre": "Kena: Scars of Kosmora has been delayed until next year, Ember Lab announces"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5s-kena-scars-of-kosmora-officially-delayed-into-2027-new-details-revealed",
+          "titre": "PS5's Kena: Scars of Kosmora Officially Delayed into 2027, New Details Revealed"
+        }
+      ]
+    },
+    {
+      "id": "you-can-now-buy-more-than-2-000-games-for-5-or-less-on-steam",
+      "titre": "You can now buy more than 2,000 games for $5 or less on Steam",
+      "url": "https://www.pcgamer.com/games/steam-autumn-sale-2026/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/steam-autumn-sale-2026/",
+          "titre": "You can now buy more than 2,000 games for $5 or less on Steam"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-download-1st-october-north-america-plus-3-discounte",
+      "titre": "Nintendo Download: 1st October (North America) - Plus 3 Discounted eShop Games Worth A Look",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-1st-october-north-america-plus-3-discounted-eshop-games-worth-a-look",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-1st-october-north-america-plus-3-discounted-eshop-games-worth-a-look",
+          "titre": "Nintendo Download: 1st October (North America) - Plus 3 Discounted eShop Games Worth A Look"
+        }
+      ]
+    },
+    {
       "id": "control-resonant-s-new-game-update-also-squashes-some-of-my",
       "titre": "Control Resonant's New Game++ update also squashes some of my least favourite bugs, including the one where magic doors change my trousers",
       "url": "https://www.rockpapershotgun.com/control-resonants-new-game-update-also-squashes-some-of-my-least-favourite-bugs-including-the-one-where-magic-doors-change-my-trousers",
@@ -270,8 +300,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 2.0,
-      "chaleur": 9,
+      "heures": 4.1,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -294,8 +324,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 2.9,
-      "chaleur": 9,
+      "heures": 5.0,
+      "chaleur": 7,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -310,6 +340,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "gears-of-war-e-day-campaign-review-an-absolute-blast-even-if",
+      "titre": "Gears of War E-Day campaign review: An absolute blast, even if it focuses on commotion over emotion",
+      "url": "https://www.videogameschronicle.com/review/gears-of-war-e-day-campaign-review/",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 5.4,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/review/gears-of-war-e-day-campaign-review/",
+          "titre": "Gears of War E-Day campaign review: An absolute blast, even if it focuses on commotion over emotion"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gears-of-war-eday-campaign-review",
+          "titre": "Gears of War E-Day campaign review - turns out you can teach old Cogs new tricks"
+        }
+      ]
+    },
+    {
       "id": "talking-point-so-how-are-you-liking-the-castlevania-belmont",
       "titre": "Talking Point: So, How Are You Liking The Castlevania: Belmont's Curse Demo?",
       "url": "https://www.nintendolife.com/features/talking-point-so-how-are-you-liking-the-castlevania-belmonts-curse-demo",
@@ -318,8 +372,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 3.9,
-      "chaleur": 9,
+      "heures": 5.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -334,66 +388,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "new-uncharted-game-reportedly-in-the-works-at-naughty-dog-an",
-      "titre": "New Uncharted game reportedly in the works at Naughty Dog, and it's not a remake",
-      "url": "https://www.eurogamer.net/new-uncharted-game-naughty-dog-report",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 5.7,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/new-uncharted-game-naughty-dog-report",
-          "titre": "New Uncharted game reportedly in the works at Naughty Dog, and it's not a remake"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan-drake-not-the-lead-character",
-          "titre": "Rumour: New Uncharted Game in the Works at Naughty Dog, Nathan Drake Not the Lead Character"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-download-1st-october-north-america-plus-3-discounte",
-      "titre": "Nintendo Download: 1st October (North America) - Plus 3 Discounted eShop Games Worth A Look",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-1st-october-north-america-plus-3-discounted-eshop-games-worth-a-look",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-1st-october-north-america-plus-3-discounted-eshop-games-worth-a-look",
-          "titre": "Nintendo Download: 1st October (North America) - Plus 3 Discounted eShop Games Worth A Look"
-        }
-      ]
-    },
-    {
-      "id": "analyst-argues-gears-of-war-e-day-shouldn-t-have-been-cancel",
-      "titre": "Analyst Argues Gears of War: E-Day Shouldn't Have Been Cancelled on PS5 After 'Soft' Steam Pre-Orders",
-      "url": "https://www.pushsquare.com/news/2026/09/analyst-argues-gears-of-war-e-day-shouldnt-have-been-cancelled-on-ps5-after-soft-steam-pre-orders",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 23.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/09/analyst-argues-gears-of-war-e-day-shouldnt-have-been-cancelled-on-ps5-after-soft-steam-pre-orders",
-          "titre": "Analyst Argues Gears of War: E-Day Shouldn't Have Been Cancelled on PS5 After 'Soft' Steam Pre-Orders"
-        }
-      ]
-    },
-    {
       "id": "witcher-3-remastered-patch-addressing-various-lighting-adjus",
       "titre": "Witcher 3 Remastered patch addressing \"various lighting adjustments\" rolls out",
       "url": "https://www.eurogamer.net/witcher-3-lighting-brightness-patch-remastered",
@@ -402,7 +396,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 7,
       "liens": [
         {
@@ -425,7 +419,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 7,
       "liens": [
         {
@@ -670,6 +664,150 @@ const VEILLE = {
       ]
     },
     {
+      "id": "there-s-no-doubt-about-it-anime-rpg-litgirls-was-made-for-me",
+      "titre": "There's No Doubt About It, Anime RPG LitGirls Was Made for Me",
+      "url": "https://www.pushsquare.com/news/2026/10/theres-no-doubt-about-it-anime-rpg-litgirls-was-made-for-me",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/theres-no-doubt-about-it-anime-rpg-litgirls-was-made-for-me",
+          "titre": "There's No Doubt About It, Anime RPG LitGirls Was Made for Me"
+        }
+      ]
+    },
+    {
+      "id": "japanese-charts-fire-emblem-sales-plummet-but-it-s-still-eno",
+      "titre": "Japanese Charts: Fire Emblem Sales Plummet, But It's Still Enough To Stay On The Podium",
+      "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-fire-emblem-sales-plummet-but-its-still-enough-to-stay-on-the-podium",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-fire-emblem-sales-plummet-but-its-still-enough-to-stay-on-the-podium",
+          "titre": "Japanese Charts: Fire Emblem Sales Plummet, But It's Still Enough To Stay On The Podium"
+        }
+      ]
+    },
+    {
+      "id": "yazoo-croc-2-remaster-release-date-confirmed-for-late-octobe",
+      "titre": "Yazoo! Croc 2 Remaster Release Date Confirmed for Late October on PS5, PS4",
+      "url": "https://www.pushsquare.com/news/2026/10/yazoo-croc-2-remaster-release-date-confirmed-for-late-october-on-ps5-ps4",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/yazoo-croc-2-remaster-release-date-confirmed-for-late-october-on-ps5-ps4",
+          "titre": "Yazoo! Croc 2 Remaster Release Date Confirmed for Late October on PS5, PS4"
+        }
+      ]
+    },
+    {
+      "id": "grand-theft-auto-5-is-a-game-about-shapeshifting-now-i-don-t",
+      "titre": "Grand Theft Auto 5 is a game about shapeshifting now. I don't make the rules",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-5-is-a-game-about-shapeshifting-now-i-dont-make-the-rules/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-5-is-a-game-about-shapeshifting-now-i-dont-make-the-rules/",
+          "titre": "Grand Theft Auto 5 is a game about shapeshifting now. I don't make the rules"
+        }
+      ]
+    },
+    {
+      "id": "lego-ps1-now-available-to-buy-from-ps-direct-with-free-astro",
+      "titre": "LEGO PS1 Now Available to Buy from PS Direct, with Free Astro Bot Set",
+      "url": "https://www.pushsquare.com/news/2026/10/lego-ps1-now-available-to-buy-from-ps-direct-with-free-astro-bot-set",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/lego-ps1-now-available-to-buy-from-ps-direct-with-free-astro-bot-set",
+          "titre": "LEGO PS1 Now Available to Buy from PS Direct, with Free Astro Bot Set"
+        }
+      ]
+    },
+    {
+      "id": "reigns-and-card-shark-developers-nerial-are-closing-down-lay",
+      "titre": "Reigns and Card Shark developers Nerial are closing down, laying staff off while the founders go \"back to our roots\"",
+      "url": "https://www.rockpapershotgun.com/reigns-and-card-shark-developers-nerial-are-closing-down-laying-staff-off-while-the-founders-go-back-to-our-roots",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/reigns-and-card-shark-developers-nerial-are-closing-down-laying-staff-off-while-the-founders-go-back-to-our-roots",
+          "titre": "Reigns and Card Shark developers Nerial are closing down, laying staff off while the founders go \"back to our roots\""
+        }
+      ]
+    },
+    {
+      "id": "after-a-series-of-catastrophes-where-no-one-could-seem-to-ro",
+      "titre": "After a series of catastrophes where no-one could seem to roll well, I truly have no idea who's going to make it out of Critical Role's next episode",
+      "url": "https://www.pcgamer.com/movies-tv/after-a-series-of-catastrophes-where-no-one-could-seem-to-roll-well-i-truly-have-no-idea-whos-going-to-make-it-out-of-critical-roles-next-episode/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/after-a-series-of-catastrophes-where-no-one-could-seem-to-roll-well-i-truly-have-no-idea-whos-going-to-make-it-out-of-critical-roles-next-episode/",
+          "titre": "After a series of catastrophes where no-one could seem to roll well, I truly have no idea who's going to make it out of Critical Role's next episode"
+        }
+      ]
+    },
+    {
+      "id": "resident-evil-s-executive-producer-explains-the-deeper-meani",
+      "titre": "Resident Evil's executive producer explains the deeper meaning behind Requiem, and I just can't get on board",
+      "url": "https://www.pcgamer.com/games/resident-evil/resident-evils-executive-producer-explains-the-deeper-meaning-behind-requiem-and-i-just-cant-get-on-board/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/resident-evil/resident-evils-executive-producer-explains-the-deeper-meaning-behind-requiem-and-i-just-cant-get-on-board/",
+          "titre": "Resident Evil's executive producer explains the deeper meaning behind Requiem, and I just can't get on board"
+        }
+      ]
+    },
+    {
       "id": "sound-the-this-week-s-free-epic-games-store-game-is-worth-lo",
       "titre": "Sound the 'This week's free Epic Games Store game is worth logging in for' alarm",
       "url": "https://www.pcgamer.com/games/fps/sound-the-this-weeks-free-epic-games-store-game-is-worth-logging-in-for-alarm/",
@@ -677,7 +815,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
@@ -695,7 +833,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -713,31 +851,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/you-can-now-play-halo-combat-evolved-in-a-web-browser-and-it-even-has-multiplayer/",
           "titre": "You can now play Halo: Combat Evolved in a web browser, and it even has multiplayer"
-        }
-      ]
-    },
-    {
-      "id": "sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for",
-      "titre": "Sony Confirms Refined Version of Acclaimed PSSR Upscaler for Base PS5, with 'Remarkable' Potential",
-      "url": "https://www.pushsquare.com/news/2026/10/sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for-base-ps5-with-remarkable-potential",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 0.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for-base-ps5-with-remarkable-potential",
-          "titre": "Sony Confirms Refined Version of Acclaimed PSSR Upscaler for Base PS5, with 'Remarkable' Potential"
         }
       ]
     },
@@ -749,7 +869,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -767,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -785,7 +905,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -803,7 +923,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -821,7 +941,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -839,7 +959,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -857,7 +977,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -875,7 +995,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -893,7 +1013,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -911,7 +1031,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -929,7 +1049,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -947,7 +1067,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -965,7 +1085,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
@@ -976,200 +1096,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "consumer-protection-cooperation-network-launches-coordinated",
-      "titre": "Consumer Protection Cooperation Network launches coordinated actions against nine companies on in-game currency",
-      "url": "https://www.gamesindustry.biz/consumer-protection-cooperation-network-launches-coordinated-actions-against-nine-companies-on-in-game-currency",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/consumer-protection-cooperation-network-launches-coordinated-actions-against-nine-companies-on-in-game-currency",
-          "titre": "Consumer Protection Cooperation Network launches coordinated actions against nine companies on in-game currency"
-        }
-      ]
-    },
-    {
-      "id": "ace-combat-8-developer-apologises-for-belkan-war-pre-order-b",
-      "titre": "Ace Combat 8 developer apologises for Belkan War pre-order backlash, explains why it happened and vows to explore possible solutions",
-      "url": "https://www.eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-backlash-response",
+      "id": "new-uncharted-game-reportedly-in-the-works-at-naughty-dog-an",
+      "titre": "New Uncharted game reportedly in the works at Naughty Dog, and it's not a remake",
+      "url": "https://www.eurogamer.net/new-uncharted-game-naughty-dog-report",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 7.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-backlash-response",
-          "titre": "Ace Combat 8 developer apologises for Belkan War pre-order backlash, explains why it happened and vows to explore possible solutions"
-        }
-      ]
-    },
-    {
-      "id": "aion-2-fix-character-creation-restricted-solution-and-workar",
-      "titre": "Aion 2 fix: ‘Character creation restricted’ solution and workarounds",
-      "url": "https://www.videogameschronicle.com/guide/aion-2-fix-character-creation-restricted-solution-and-workarounds/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/aion-2-fix-character-creation-restricted-solution-and-workarounds/",
-          "titre": "Aion 2 fix: ‘Character creation restricted’ solution and workarounds"
-        }
-      ]
-    },
-    {
-      "id": "this-arse-cushion-is-the-biggest-upgrade-i-ve-made-to-my-gam",
-      "titre": "This arse cushion is the biggest upgrade I've made to my gaming setup in 2026, which says a lot about where we're at right now",
-      "url": "https://www.pcgamer.com/hardware/this-arse-cushion-is-the-biggest-upgrade-ive-made-to-my-gaming-setup-in-2026-which-says-a-lot-about-where-were-at-right-now/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/this-arse-cushion-is-the-biggest-upgrade-ive-made-to-my-gaming-setup-in-2026-which-says-a-lot-about-where-were-at-right-now/",
-          "titre": "This arse cushion is the biggest upgrade I've made to my gaming setup in 2026, which says a lot about where we're at right now"
-        }
-      ]
-    },
-    {
-      "id": "i-am-here-to-save-us-all-time-by-determining-which-of-our-mo",
-      "titre": "I am here to save us all time by determining which of our most-played videogames would be more efficiently completed if you had a gun",
-      "url": "https://www.pcgamer.com/games/i-am-here-to-save-us-all-time-by-determining-which-of-our-most-played-videogames-would-be-more-efficiently-completed-if-you-had-a-gun/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/i-am-here-to-save-us-all-time-by-determining-which-of-our-most-played-videogames-would-be-more-efficiently-completed-if-you-had-a-gun/",
-          "titre": "I am here to save us all time by determining which of our most-played videogames would be more efficiently completed if you had a gun"
-        }
-      ]
-    },
-    {
-      "id": "i-m-not-sure-the-ai-in-my-chair-s-lumbar-support-actually-co",
-      "titre": "I'm not sure the \"AI\" in my chair's lumbar support actually counts as AI, but it has been smart enough to fix up my spine",
-      "url": "https://www.rockpapershotgun.com/im-not-sure-the-ai-in-my-chairs-lumbar-support-actually-counts-as-ai-but-it-has-been-smart-enough-to-fix-up-my-spine",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/im-not-sure-the-ai-in-my-chairs-lumbar-support-actually-counts-as-ai-but-it-has-been-smart-enough-to-fix-up-my-spine",
-          "titre": "I'm not sure the \"AI\" in my chair's lumbar support actually counts as AI, but it has been smart enough to fix up my spine"
-        }
-      ]
-    },
-    {
-      "id": "aoc-jumps-on-the-1-000-hz-ips-gaming-monitor-bandwagon-but-t",
-      "titre": "AOC jumps on the 1,000 Hz IPS gaming monitor bandwagon but this time with 0.1 ms pixel response",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/aoc-jumps-on-the-1-000-hz-ips-gaming-monitor-bandwagon-but-this-time-with-0-1-ms-pixel-response/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-monitors/aoc-jumps-on-the-1-000-hz-ips-gaming-monitor-bandwagon-but-this-time-with-0-1-ms-pixel-response/",
-          "titre": "AOC jumps on the 1,000 Hz IPS gaming monitor bandwagon but this time with 0.1 ms pixel response"
-        }
-      ]
-    },
-    {
-      "id": "roll-up-roll-up-can-you-spot-which-of-these-images-are-using",
-      "titre": "Roll up roll up, can you spot which of these images are using DLSS 5?",
-      "url": "https://www.pcgamer.com/hardware/roll-up-roll-up-can-you-spot-which-of-these-images-are-using-dlss-5/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/roll-up-roll-up-can-you-spot-which-of-these-images-are-using-dlss-5/",
-          "titre": "Roll up roll up, can you spot which of these images are using DLSS 5?"
-        }
-      ]
-    },
-    {
-      "id": "galaxies-game-showcase-returns-later-this-month-over-40-comp",
-      "titre": "Galaxies Game Showcase Returns Later This Month, Over 40 Companies Taking Part",
-      "url": "https://www.pushsquare.com/news/2026/10/galaxies-game-showcase-returns-later-this-month-over-40-companies-taking-part",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/galaxies-game-showcase-returns-later-this-month-over-40-companies-taking-part",
-          "titre": "Galaxies Game Showcase Returns Later This Month, Over 40 Companies Taking Part"
-        }
-      ]
-    },
-    {
-      "id": "arc-raiders-is-taking-no-prisoners-when-it-comes-to-cheaters",
-      "titre": "Arc Raiders' is taking no prisoners when it comes to cheaters with permanent bans becoming the new normal: 'No warnings. No second chances'",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-taking-no-prisoners-when-it-comes-to-cheaters-with-permanent-bans-becoming-the-new-normal-no-warnings-no-second-chances/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-taking-no-prisoners-when-it-comes-to-cheaters-with-permanent-bans-becoming-the-new-normal-no-warnings-no-second-chances/",
-          "titre": "Arc Raiders' is taking no prisoners when it comes to cheaters with permanent bans becoming the new normal: 'No warnings. No second chances'"
-        }
-      ]
-    },
-    {
-      "id": "warioware-director-reveals-what-changed-after-he-left-ninten",
-      "titre": "WarioWare director reveals what changed after he left Nintendo",
-      "url": "https://www.videogameschronicle.com/news/warioware-director-reveals-what-changed-after-he-left-nintendo/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 4.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/warioware-director-reveals-what-changed-after-he-left-nintendo/",
-          "titre": "WarioWare director reveals what changed after he left Nintendo"
+          "url": "https://www.eurogamer.net/new-uncharted-game-naughty-dog-report",
+          "titre": "New Uncharted game reportedly in the works at Naughty Dog, and it's not a remake"
         }
       ]
     },
@@ -1181,7 +1121,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.6,
       "chaleur": 6,
       "liens": [
         {
@@ -1199,13 +1139,67 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 17.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/nintendo-switch-2-system-update-23-0-1-is-now-live-here-are-the-full-patch-notes",
           "titre": "Nintendo Switch 2 System Update 23.0.1 Is Now Live, Here Are The Full Patch Notes"
+        }
+      ]
+    },
+    {
+      "id": "alleged-hacker-arrested-over-leak-that-exposed-gta-online-s",
+      "titre": "Alleged hacker arrested over leak that exposed GTA Online's daily revenue",
+      "url": "https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 23.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue",
+          "titre": "Alleged hacker arrested over leak that exposed GTA Online's daily revenue"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-completely-re-engineered-rockstar-s-weather-systems-to",
+      "titre": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
+      "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 25.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
+          "titre": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-has-now-shut-down-mario-kart-tour",
+      "titre": "Nintendo Has Now Shut Down Mario Kart Tour",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-now-shut-down-mario-kart-tour",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 14.7,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-now-shut-down-mario-kart-tour",
+          "titre": "Nintendo Has Now Shut Down Mario Kart Tour"
         }
       ]
     }
