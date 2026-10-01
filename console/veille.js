@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "01/10/2026 à 02h21",
+  "collecte": "01/10/2026 à 04h23",
   "seuil": 14,
   "sujets": [
     {
@@ -16,7 +16,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 6,
-      "heures": 6.7,
+      "heures": 8.8,
       "chaleur": 19,
       "liens": [
         {
@@ -61,7 +61,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 7.8,
+      "heures": 9.8,
       "chaleur": 12,
       "liens": [
         {
@@ -91,8 +91,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 11.9,
-      "chaleur": 12,
+      "heures": 13.9,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -119,61 +119,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 3.0,
       "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/nintendo-switch-2-system-update-23-0-1-is-now-live-here-are-the-full-patch-notes",
           "titre": "Nintendo Switch 2 System Update 23.0.1 Is Now Live, Here Are The Full Patch Notes"
-        }
-      ]
-    },
-    {
-      "id": "rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan",
-      "titre": "Rumour: New Uncharted Game in the Works at Naughty Dog, Nathan Drake Not the Lead Character",
-      "url": "https://www.pushsquare.com/news/2026/10/rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan-drake-not-the-lead-character",
-      "sources": [
-        "Game Developer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 3.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan-drake-not-the-lead-character",
-          "titre": "Rumour: New Uncharted Game in the Works at Naughty Dog, Nathan Drake Not the Lead Character"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-last-of-us-projects-",
-          "titre": "Naughty Dog is working on new The Last Of Us 'projects'"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-survey-pitches-new-classes-to-play",
-      "titre": "World of Warcraft: Forever survey pitches new classes to players, including Bard, Witch, and more",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-survey-pitches-new-classes-to-players-including-bard-witch-and-more/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 3.7,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-survey-pitches-new-classes-to-players-including-bard-witch-and-more/",
-          "titre": "World of Warcraft: Forever survey pitches new classes to players, including Bard, Witch, and more"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/world-of-warcraft-forever-class-survey",
-          "titre": "Tinker, Bard, Illusionist - Blizzard seemingly surveying World of Warcraft: Forever players about never-before-seen classes to add to the game"
         }
       ]
     },
@@ -186,7 +138,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 9,
       "liens": [
         {
@@ -209,7 +161,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.6,
       "chaleur": 9,
       "liens": [
         {
@@ -227,31 +179,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 4.0,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-plus-expansion-pass-switch-2-game-key-card-release-announced",
           "titre": "Pokémon Pokopia + Expansion Pass Switch 2 Game-Key Card Release Announced"
-        }
-      ]
-    },
-    {
-      "id": "til-what-may-or-may-not-be-the-oldest-board-game-in-recorded",
-      "titre": "TIL what may or may not be the oldest board game in recorded history is also, perhaps inevitably, now a roguelike",
-      "url": "https://www.pcgamer.com/games/roguelike/til-what-may-or-may-not-be-the-oldest-board-game-in-recorded-history-is-also-perhaps-inevitably-now-a-roguelike/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/roguelike/til-what-may-or-may-not-be-the-oldest-board-game-in-recorded-history-is-also-perhaps-inevitably-now-a-roguelike/",
-          "titre": "TIL what may or may not be the oldest board game in recorded history is also, perhaps inevitably, now a roguelike"
         }
       ]
     },
@@ -264,7 +198,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 12.6,
+      "heures": 14.6,
       "chaleur": 8,
       "liens": [
         {
@@ -288,7 +222,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 16.9,
+      "heures": 19.0,
       "chaleur": 8,
       "liens": [
         {
@@ -304,6 +238,54 @@ const VEILLE = {
       ]
     },
     {
+      "id": "rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan",
+      "titre": "Rumour: New Uncharted Game in the Works at Naughty Dog, Nathan Drake Not the Lead Character",
+      "url": "https://www.pushsquare.com/news/2026/10/rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan-drake-not-the-lead-character",
+      "sources": [
+        "Game Developer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 5.4,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan-drake-not-the-lead-character",
+          "titre": "Rumour: New Uncharted Game in the Works at Naughty Dog, Nathan Drake Not the Lead Character"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-last-of-us-projects-",
+          "titre": "Naughty Dog is working on new The Last Of Us 'projects'"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-survey-pitches-new-classes-to-play",
+      "titre": "World of Warcraft: Forever survey pitches new classes to players, including Bard, Witch, and more",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-survey-pitches-new-classes-to-players-including-bard-witch-and-more/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 5.7,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-survey-pitches-new-classes-to-players-including-bard-witch-and-more/",
+          "titre": "World of Warcraft: Forever survey pitches new classes to players, including Bard, Witch, and more"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/world-of-warcraft-forever-class-survey",
+          "titre": "Tinker, Bard, Illusionist - Blizzard seemingly surveying World of Warcraft: Forever players about never-before-seen classes to add to the game"
+        }
+      ]
+    },
+    {
       "id": "alleged-hacker-arrested-over-leak-that-exposed-gta-online-s",
       "titre": "Alleged hacker arrested over leak that exposed GTA Online's daily revenue",
       "url": "https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue",
@@ -311,7 +293,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 7,
       "liens": [
         {
@@ -329,7 +311,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 7,
       "liens": [
         {
@@ -347,55 +329,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-saved-gta-5-from-death-and-also-added-tornadoes/",
           "titre": "I have saved GTA 5 from death and also added tornadoes"
-        }
-      ]
-    },
-    {
-      "id": "thanks-logitech-your-new-ai-fueled-game-clipping-software-ma",
-      "titre": "Thanks Logitech, your new AI-fueled game clipping software makes me look trash at Counter-Strike, but I'mma keep it installed",
-      "url": "https://www.pcgamer.com/software/ai/thanks-logitech-your-new-ai-fueled-game-clipping-software-makes-me-look-trash-at-counter-strike-but-imma-keep-it-installed/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/thanks-logitech-your-new-ai-fueled-game-clipping-software-makes-me-look-trash-at-counter-strike-but-imma-keep-it-installed/",
-          "titre": "Thanks Logitech, your new AI-fueled game clipping software makes me look trash at Counter-Strike, but I'mma keep it installed"
-        }
-      ]
-    },
-    {
-      "id": "arc-raiders-executive-producer-explains-how-he-wasn-t-comple",
-      "titre": "Arc Raiders' executive producer explains how he 'wasn't completely prepared for how hard' a live service game would be and warns against the dangers of burnout",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-executive-producer-explains-how-he-wasnt-completely-prepared-for-how-hard-a-live-service-game-would-be-and-warns-against-the-dangers-of-burnout/",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 11.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-executive-producer-explains-how-he-wasnt-completely-prepared-for-how-hard-a-live-service-game-would-be-and-warns-against-the-dangers-of-burnout/",
-          "titre": "Arc Raiders' executive producer explains how he 'wasn't completely prepared for how hard' a live service game would be and warns against the dangers of burnout"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ultimately-we-asked-why-are-we-doing-this-the-creators-of-arc-raiders-wildly-underestimated-how-hard-it-is-to-make-a-live-service-game",
-          "titre": "\"Ultimately, we asked 'why are we doing this?'\": the creators of Arc Raiders wildly underestimated how hard it is to make a live service game"
         }
       ]
     },
@@ -562,20 +502,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "we-want-to-find-a-way-sega-eager-to-bring-sakura-wars-games",
-      "titre": "'We Want to Find a Way': SEGA Eager to Bring Sakura Wars Games to Modern Consoles",
-      "url": "https://www.pushsquare.com/news/2026/10/we-want-to-find-a-way-sega-eager-to-bring-sakura-wars-games-to-modern-consoles",
+      "id": "mdev",
+      "titre": "MDEV",
+      "url": "https://www.gamedeveloper.comwww.mdevconf.com",
       "sources": [
-        "Push Square"
+        "Game Developer"
       ],
       "reprises": 1,
-      "heures": 2.9,
+      "heures": 0.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/we-want-to-find-a-way-sega-eager-to-bring-sakura-wars-games-to-modern-consoles",
-          "titre": "'We Want to Find a Way': SEGA Eager to Bring Sakura Wars Games to Modern Consoles"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.comwww.mdevconf.com",
+          "titre": "MDEV"
+        }
+      ]
+    },
+    {
+      "id": "surprise-donkey-kong-bananza-s-limited-time-dlc-events-are-b",
+      "titre": "Surprise! Donkey Kong Bananza's Limited-Time DLC Events Are Back",
+      "url": "https://www.nintendolife.com/news/2026/10/surprise-donkey-kong-bananzas-limited-time-dlc-events-are-back",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/surprise-donkey-kong-bananzas-limited-time-dlc-events-are-back",
+          "titre": "Surprise! Donkey Kong Bananza's Limited-Time DLC Events Are Back"
+        }
+      ]
+    },
+    {
+      "id": "til-what-may-or-may-not-be-the-oldest-board-game-in-recorded",
+      "titre": "TIL what may or may not be the oldest board game in recorded history is also, perhaps inevitably, now a roguelike",
+      "url": "https://www.pcgamer.com/games/roguelike/til-what-may-or-may-not-be-the-oldest-board-game-in-recorded-history-is-also-perhaps-inevitably-now-a-roguelike/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/roguelike/til-what-may-or-may-not-be-the-oldest-board-game-in-recorded-history-is-also-perhaps-inevitably-now-a-roguelike/",
+          "titre": "TIL what may or may not be the oldest board game in recorded history is also, perhaps inevitably, now a roguelike"
         }
       ]
     },
@@ -587,7 +563,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.9,
       "chaleur": 6,
       "liens": [
         {
@@ -598,38 +574,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "october-s-free-playstation-plus-games-include-f1-25",
-      "titre": "October’s ‘free’ PlayStation Plus games include F1 25",
-      "url": "https://www.videogameschronicle.com/news/octobers-free-playstation-plus-games-include-f1-25/",
+      "id": "thanks-logitech-your-new-ai-fueled-game-clipping-software-ma",
+      "titre": "Thanks Logitech, your new AI-fueled game clipping software makes me look trash at Counter-Strike, but I'mma keep it installed",
+      "url": "https://www.pcgamer.com/software/ai/thanks-logitech-your-new-ai-fueled-game-clipping-software-makes-me-look-trash-at-counter-strike-but-imma-keep-it-installed/",
       "sources": [
-        "VGC"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.5,
+      "heures": 12.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/octobers-free-playstation-plus-games-include-f1-25/",
-          "titre": "October’s ‘free’ PlayStation Plus games include F1 25"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/thanks-logitech-your-new-ai-fueled-game-clipping-software-makes-me-look-trash-at-counter-strike-but-imma-keep-it-installed/",
+          "titre": "Thanks Logitech, your new AI-fueled game clipping software makes me look trash at Counter-Strike, but I'mma keep it installed"
         }
       ]
     },
     {
-      "id": "it-s-not-even-out-yet-but-valve-s-deadlock-just-became-one-o",
-      "titre": "It's not even out yet, but Valve's Deadlock just became one of the most played games on Steam",
-      "url": "https://www.eurogamer.net/deadlock-update-steam-most-played-games",
+      "id": "arc-raiders-executive-producer-explains-how-he-wasn-t-comple",
+      "titre": "Arc Raiders' executive producer explains how he 'wasn't completely prepared for how hard' a live service game would be and warns against the dangers of burnout",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-executive-producer-explains-how-he-wasnt-completely-prepared-for-how-hard-a-live-service-game-would-be-and-warns-against-the-dangers-of-burnout/",
       "sources": [
-        "Eurogamer"
+        "PC Gamer",
+        "Rock Paper Shotgun"
       ],
-      "reprises": 1,
-      "heures": 10.9,
+      "reprises": 2,
+      "heures": 14.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/deadlock-update-steam-most-played-games",
-          "titre": "It's not even out yet, but Valve's Deadlock just became one of the most played games on Steam"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-executive-producer-explains-how-he-wasnt-completely-prepared-for-how-hard-a-live-service-game-would-be-and-warns-against-the-dangers-of-burnout/",
+          "titre": "Arc Raiders' executive producer explains how he 'wasn't completely prepared for how hard' a live service game would be and warns against the dangers of burnout"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/ultimately-we-asked-why-are-we-doing-this-the-creators-of-arc-raiders-wildly-underestimated-how-hard-it-is-to-make-a-live-service-game",
+          "titre": "\"Ultimately, we asked 'why are we doing this?'\": the creators of Arc Raiders wildly underestimated how hard it is to make a live service game"
         }
       ]
     },
@@ -642,7 +624,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 12.9,
+      "heures": 15.0,
       "chaleur": 6,
       "liens": [
         {
@@ -658,30 +640,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "as-handholding-mechanics-come-under-fire-elsewhere-control-r",
-      "titre": "As handholding mechanics come under fire elsewhere, Control Resonant devs confirm they made a \"conscious decision\" not to use yellow paint",
-      "url": "https://www.eurogamer.net/control-resonant-yellow-paint-conscious-decision-marvels-wolverine",
-      "sources": [
-        "Eurogamer",
-        "Game Developer"
-      ],
-      "reprises": 2,
-      "heures": 13.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/control-resonant-yellow-paint-conscious-decision-marvels-wolverine",
-          "titre": "As handholding mechanics come under fire elsewhere, Control Resonant devs confirm they made a \"conscious decision\" not to use yellow paint"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
-          "titre": "Control Resonant director lays out case for avoiding excessive 'yellow paint'"
-        }
-      ]
-    },
-    {
       "id": "modder-who-taunted-try-me-rockstar-with-gta-5-switch-port-is",
       "titre": "Modder who taunted ‘try me Rockstar’ with GTA 5 Switch port is ‘thankful for Take-Two’s mercy’ as lawyers shut it down",
       "url": "https://www.videogameschronicle.com/news/modder-who-taunted-try-me-rockstar-with-gta-5-switch-port-is-thankful-for-take-twos-mercy-as-lawyers-shut-it-down/",
@@ -689,7 +647,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.4,
       "chaleur": 6,
       "liens": [
         {
@@ -707,7 +665,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.9,
       "chaleur": 6,
       "liens": [
         {
@@ -725,13 +683,49 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 20.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-counter-strike-collateral",
           "titre": "Call of Duty: Modern Warfare 4 is getting a Counter-Strike-inspired game mode that I can't believe it never had before"
+        }
+      ]
+    },
+    {
+      "id": "october-s-free-playstation-plus-games-include-f1-25",
+      "titre": "October’s ‘free’ PlayStation Plus games include F1 25",
+      "url": "https://www.videogameschronicle.com/news/octobers-free-playstation-plus-games-include-f1-25/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 12.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/octobers-free-playstation-plus-games-include-f1-25/",
+          "titre": "October’s ‘free’ PlayStation Plus games include F1 25"
+        }
+      ]
+    },
+    {
+      "id": "it-s-not-even-out-yet-but-valve-s-deadlock-just-became-one-o",
+      "titre": "It's not even out yet, but Valve's Deadlock just became one of the most played games on Steam",
+      "url": "https://www.eurogamer.net/deadlock-update-steam-most-played-games",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 13.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/deadlock-update-steam-most-played-games",
+          "titre": "It's not even out yet, but Valve's Deadlock just became one of the most played games on Steam"
         }
       ]
     },
@@ -743,7 +737,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 14.7,
       "chaleur": 5,
       "liens": [
         {
@@ -761,7 +755,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.5,
       "chaleur": 5,
       "liens": [
         {
@@ -779,7 +773,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.6,
       "chaleur": 5,
       "liens": [
         {
@@ -797,7 +791,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 5,
       "liens": [
         {
@@ -815,7 +809,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 5,
       "liens": [
         {
@@ -833,7 +827,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.5,
       "chaleur": 5,
       "liens": [
         {
@@ -851,7 +845,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.5,
       "chaleur": 5,
       "liens": [
         {
@@ -869,7 +863,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.9,
       "chaleur": 5,
       "liens": [
         {
@@ -887,7 +881,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 28.9,
+      "heures": 30.9,
       "chaleur": 5,
       "liens": [
         {
@@ -898,20 +892,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "review-mobapad-c2-lite-controller-the-best-budget-pad-for-sw",
-      "titre": "Review: Mobapad C2 Lite Controller - The Best Budget Pad For Switch 2? Probably",
-      "url": "https://www.nintendolife.com/reviews/mobapad-c2-lite-controller-the-best-budget-pad-for-switch-2-probably",
+      "id": "we-want-to-find-a-way-sega-eager-to-bring-sakura-wars-games",
+      "titre": "'We Want to Find a Way': SEGA Eager to Bring Sakura Wars Games to Modern Consoles",
+      "url": "https://www.pushsquare.com/news/2026/10/we-want-to-find-a-way-sega-eager-to-bring-sakura-wars-games-to-modern-consoles",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 33.4,
-      "chaleur": 5,
+      "heures": 4.9,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/mobapad-c2-lite-controller-the-best-budget-pad-for-switch-2-probably",
-          "titre": "Review: Mobapad C2 Lite Controller - The Best Budget Pad For Switch 2? Probably"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/we-want-to-find-a-way-sega-eager-to-bring-sakura-wars-games-to-modern-consoles",
+          "titre": "'We Want to Find a Way': SEGA Eager to Bring Sakura Wars Games to Modern Consoles"
         }
       ]
     },
@@ -923,7 +917,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +935,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +953,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +971,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +989,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,7 +1007,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,7 +1025,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1049,7 +1043,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1067,8 +1061,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1085,8 +1079,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1103,8 +1097,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1121,8 +1115,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1139,8 +1133,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1157,8 +1151,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1175,8 +1169,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
