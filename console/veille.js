@@ -1,21 +1,27 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "01/10/2026 à 18h26",
+  "collecte": "01/10/2026 à 20h22",
   "seuil": 14,
   "sujets": [
     {
-      "id": "xbox-is-not-for-sale-despite-all-of-the-layoffs-and-neat-re",
-      "titre": "\"Xbox is not for sale\" despite all of the layoffs and neat repackaging of studios within Microsoft's corporate structure, CEO Asha Sharma says",
-      "url": "https://www.rockpapershotgun.com/xbox-is-not-for-sale-despite-all-of-the-layoffs-and-neat-repackaging-of-studios-within-microsofts-corporate-structure-ceo-asha-sharma-says",
+      "id": "xbox-is-not-for-sale-ceo-asha-sharma-says",
+      "titre": "'Xbox is not for sale,' CEO Asha Sharma says",
+      "url": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
       "sources": [
         "Eurogamer",
+        "Game Developer",
         "GamesIndustry.biz",
         "Rock Paper Shotgun"
       ],
-      "reprises": 3,
-      "heures": 7.9,
-      "chaleur": 15,
+      "reprises": 4,
+      "heures": 1.8,
+      "chaleur": 20,
       "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
+          "titre": "'Xbox is not for sale,' CEO Asha Sharma says"
+        },
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/xbox-is-not-for-sale-despite-all-of-the-layoffs-and-neat-repackaging-of-studios-within-microsofts-corporate-structure-ceo-asha-sharma-says",
@@ -34,60 +40,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "guide-upcoming-nintendo-switch-2-games-accessories-for-octob",
-      "titre": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For October & November 2026",
-      "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-october-and-november-2026",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 3.4,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-october-and-november-2026",
-          "titre": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For October & November 2026"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/playstation-ps-plus-games-lineup-october-2026",
-          "titre": "Here are our PS Plus monthly games for October 2026"
-        }
-      ]
-    },
-    {
-      "id": "007-first-light-gets-free-new-dlc-today-adding-new-game-plus",
-      "titre": "007 First Light gets free new DLC today, adding New Game Plus and Photo modes, new TacSim missions and more",
-      "url": "https://www.eurogamer.net/007-james-bond-first-light-free-dlc",
-      "sources": [
-        "Eurogamer",
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 4.0,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/007-james-bond-first-light-free-dlc",
-          "titre": "007 First Light gets free new DLC today, adding New Game Plus and Photo modes, new TacSim missions and more"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/007-first-light-gets-new-gameplus-photo-mode-new-missions-more-in-huge-free-dlc",
-          "titre": "007 First Light Gets New Game+, Photo Mode, New Missions, More in Huge Free DLC"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/007-first-light-gets-free-extended-operations-dlc-today-adding-new-game-and-other-features/",
-          "titre": "007 First Light gets free Extended Operations DLC today adding New Game+ and other features"
-        }
-      ]
-    },
-    {
       "id": "suda-51-s-grasshopper-manufacture-splits-from-netease",
       "titre": "Suda 51's Grasshopper Manufacture splits from NetEase",
       "url": "https://www.gamedeveloper.com/business/suda-51-s-grasshopper-manufacture-splits-from-netease",
@@ -98,7 +50,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 4,
-      "heures": 22.8,
+      "heures": 24.8,
       "chaleur": 12,
       "liens": [
         {
@@ -124,6 +76,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "guide-upcoming-nintendo-switch-2-games-accessories-for-octob",
+      "titre": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For October & November 2026",
+      "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-october-and-november-2026",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 5.4,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-october-and-november-2026",
+          "titre": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For October & November 2026"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/playstation-ps-plus-games-lineup-october-2026",
+          "titre": "Here are our PS Plus monthly games for October 2026"
+        }
+      ]
+    },
+    {
+      "id": "007-first-light-gets-free-new-dlc-today-adding-new-game-plus",
+      "titre": "007 First Light gets free new DLC today, adding New Game Plus and Photo modes, new TacSim missions and more",
+      "url": "https://www.eurogamer.net/007-james-bond-first-light-free-dlc",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 5.9,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/007-james-bond-first-light-free-dlc",
+          "titre": "007 First Light gets free new DLC today, adding New Game Plus and Photo modes, new TacSim missions and more"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/007-first-light-gets-new-gameplus-photo-mode-new-missions-more-in-huge-free-dlc",
+          "titre": "007 First Light Gets New Game+, Photo Mode, New Missions, More in Huge Free DLC"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/007-first-light-gets-free-extended-operations-dlc-today-adding-new-game-and-other-features/",
+          "titre": "007 First Light gets free Extended Operations DLC today adding New Game+ and other features"
+        }
+      ]
+    },
+    {
       "id": "capcom-has-a-plan-for-when-there-s-no-old-resident-evils-lef",
       "titre": "Capcom Has a Plan for When There's No Old Resident Evils Left to Remake",
       "url": "https://www.pushsquare.com/news/2026/10/capcom-has-a-plan-for-when-theres-no-old-resident-evils-left-to-remake",
@@ -133,7 +139,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 10,
       "liens": [
         {
@@ -163,7 +169,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 8.4,
+      "heures": 10.3,
       "chaleur": 10,
       "liens": [
         {
@@ -184,50 +190,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "remarkable-sony-reveals-new-ps5-upscaler-tech-qssr",
-      "titre": "‘Remarkable’: Sony reveals new PS5 upscaler tech, QSSR",
-      "url": "https://www.videogameschronicle.com/news/remarkable-sony-reveals-new-ps5-upscaler-tech-qssr/",
+      "id": "sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for",
+      "titre": "Sony Confirms Refined Version of Acclaimed PSSR Upscaler for Base PS5, with 'Remarkable' Potential",
+      "url": "https://www.pushsquare.com/news/2026/10/sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for-base-ps5-with-remarkable-potential",
       "sources": [
         "Push Square",
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.9,
+      "heures": 1.9,
       "chaleur": 9,
       "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for-base-ps5-with-remarkable-potential",
+          "titre": "Sony Confirms Refined Version of Acclaimed PSSR Upscaler for Base PS5, with 'Remarkable' Potential"
+        },
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/remarkable-sony-reveals-new-ps5-upscaler-tech-qssr/",
           "titre": "‘Remarkable’: Sony reveals new PS5 upscaler tech, QSSR"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/wolverine-adds-sonys-new-qssr-tech-as-default-on-base-ps5-in-latest-patch",
-          "titre": "Wolverine Adds Sony's New QSSR Tech as Default on Base PS5 in Latest Patch"
-        }
-      ]
-    },
-    {
-      "id": "how-to-unlock-jin-sakai-in-ghost-of-yotei-most-wanted",
-      "titre": "How to unlock Jin Sakai in Ghost of Yotei Most Wanted",
-      "url": "https://www.videogameschronicle.com/guide/how-to-unlock-jin-sakai-in-ghost-of-yotei-most-wanted/",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 2.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/how-to-unlock-jin-sakai-in-ghost-of-yotei-most-wanted/",
-          "titre": "How to unlock Jin Sakai in Ghost of Yotei Most Wanted"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/ghost-of-yotei-complete-edition",
-          "titre": "Review: Ghost of Yotei: Complete Edition (PS5) - Atsu Shines in Story DLC, But Most Wanted Mode Steals the Show"
         }
       ]
     },
@@ -240,7 +222,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.5,
+      "heures": 7.4,
       "chaleur": 9,
       "liens": [
         {
@@ -263,7 +245,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.0,
       "chaleur": 8,
       "liens": [
         {
@@ -274,20 +256,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-download-1st-october-north-america-plus-3-discounte",
-      "titre": "Nintendo Download: 1st October (North America) - Plus 3 Discounted eShop Games Worth A Look",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-1st-october-north-america-plus-3-discounted-eshop-games-worth-a-look",
+      "id": "how-to-unlock-jin-sakai-in-ghost-of-yotei-most-wanted",
+      "titre": "How to unlock Jin Sakai in Ghost of Yotei Most Wanted",
+      "url": "https://www.videogameschronicle.com/guide/how-to-unlock-jin-sakai-in-ghost-of-yotei-most-wanted/",
       "sources": [
-        "Nintendo Life"
+        "Push Square",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 8,
+      "reprises": 2,
+      "heures": 4.4,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-1st-october-north-america-plus-3-discounted-eshop-games-worth-a-look",
-          "titre": "Nintendo Download: 1st October (North America) - Plus 3 Discounted eShop Games Worth A Look"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/how-to-unlock-jin-sakai-in-ghost-of-yotei-most-wanted/",
+          "titre": "How to unlock Jin Sakai in Ghost of Yotei Most Wanted"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/ghost-of-yotei-complete-edition",
+          "titre": "Review: Ghost of Yotei: Complete Edition (PS5) - Atsu Shines in Story DLC, But Most Wanted Mode Steals the Show"
         }
       ]
     },
@@ -300,7 +288,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 4.1,
+      "heures": 6.0,
       "chaleur": 7,
       "liens": [
         {
@@ -324,7 +312,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 5.0,
+      "heures": 6.9,
       "chaleur": 7,
       "liens": [
         {
@@ -348,7 +336,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 7,
       "liens": [
         {
@@ -364,30 +352,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "talking-point-so-how-are-you-liking-the-castlevania-belmont",
-      "titre": "Talking Point: So, How Are You Liking The Castlevania: Belmont's Curse Demo?",
-      "url": "https://www.nintendolife.com/features/talking-point-so-how-are-you-liking-the-castlevania-belmonts-curse-demo",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 5.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-so-how-are-you-liking-the-castlevania-belmonts-curse-demo",
-          "titre": "Talking Point: So, How Are You Liking The Castlevania: Belmont's Curse Demo?"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/you-can-start-playing-castlevania-belmonts-curse-early-with-free-demo-out-now-on-ps5",
-          "titre": "You Can Start Playing Castlevania: Belmont's Curse Early with Free Demo, Out Now on PS5"
-        }
-      ]
-    },
-    {
       "id": "witcher-3-remastered-patch-addressing-various-lighting-adjus",
       "titre": "Witcher 3 Remastered patch addressing \"various lighting adjustments\" rolls out",
       "url": "https://www.eurogamer.net/witcher-3-lighting-brightness-patch-remastered",
@@ -396,7 +360,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 6.3,
+      "heures": 8.3,
       "chaleur": 7,
       "liens": [
         {
@@ -408,24 +372,6 @@ const VEILLE = {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastereds-first-ps5-patch-fixes-lighting-issues-but-no-word-on-performance-yet",
           "titre": "The Witcher 3 Remastered's First PS5 Patch Fixes Lighting Issues, But No Word on Performance Yet"
-        }
-      ]
-    },
-    {
-      "id": "former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to",
-      "titre": "Former Sony Exec Shuhei Yoshida Thinks Nintendo Is \"Going To Do Pretty Well\" With Switch 2 \"For Many Years To Come\"",
-      "url": "https://www.nintendolife.com/news/2026/10/former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to-do-pretty-well-with-switch-2-for-many-years-to-come",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to-do-pretty-well-with-switch-2-for-many-years-to-come",
-          "titre": "Former Sony Exec Shuhei Yoshida Thinks Nintendo Is \"Going To Do Pretty Well\" With Switch 2 \"For Many Years To Come\""
         }
       ]
     },
@@ -646,20 +592,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "d-i-c-e-summit",
-      "titre": "D.I.C.E. Summit",
-      "url": "https://www.gamedeveloper.com/keyword/dice-summit",
+      "id": "kingdom-come-deliverance-studio-co-founder-hopes-grand-theft",
+      "titre": "Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/kingdom-come-deliverance-studio-co-founder-hopes-grand-theft-auto-6-will-blaze-a-trail-to-higher-game-prices/",
       "sources": [
-        "Game Developer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 0.2,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/keyword/dice-summit",
-          "titre": "D.I.C.E. Summit"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/kingdom-come-deliverance-studio-co-founder-hopes-grand-theft-auto-6-will-blaze-a-trail-to-higher-game-prices/",
+          "titre": "Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices"
+        }
+      ]
+    },
+    {
+      "id": "we-needed-a-potentially-infinite-resource-of-party-members",
+      "titre": "'We needed a potentially infinite resource of party members so that we could then kill them:' Entropy dev James Wragg explains how you fit permadeath in a party RPG",
+      "url": "https://www.pcgamer.com/games/rpg/we-needed-a-potentially-infinite-resource-of-party-members-so-that-we-could-then-kill-them-entropy-dev-james-wragg-explains-how-you-fit-permadeath-in-a-party-rpg/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/we-needed-a-potentially-infinite-resource-of-party-members-so-that-we-could-then-kill-them-entropy-dev-james-wragg-explains-how-you-fit-permadeath-in-a-party-rpg/",
+          "titre": "'We needed a potentially infinite resource of party members so that we could then kill them:' Entropy dev James Wragg explains how you fit permadeath in a party RPG"
+        }
+      ]
+    },
+    {
+      "id": "at-last-i-can-build-a-home-out-of-raw-windows-vista-era-nost",
+      "titre": "At last: I can build a home out of raw Windows Vista-era nostalgia",
+      "url": "https://www.pcgamer.com/games/sim/at-last-i-can-build-a-home-out-of-raw-windows-vista-era-nostalgia/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/at-last-i-can-build-a-home-out-of-raw-windows-vista-era-nostalgia/",
+          "titre": "At last: I can build a home out of raw Windows Vista-era nostalgia"
+        }
+      ]
+    },
+    {
+      "id": "that-s-some-fiiiiine-lookin-milk-but-rust-devs-warn-that-cre",
+      "titre": "That's some fiiiiine lookin' milk, but Rust devs warn that 'cream is a more powerful consumable'",
+      "url": "https://www.pcgamer.com/games/survival-crafting/thats-some-fiiiiine-lookin-milk-but-rust-devs-warn-that-cream-is-a-more-powerful-consumable/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/thats-some-fiiiiine-lookin-milk-but-rust-devs-warn-that-cream-is-a-more-powerful-consumable/",
+          "titre": "That's some fiiiiine lookin' milk, but Rust devs warn that 'cream is a more powerful consumable'"
+        }
+      ]
+    },
+    {
+      "id": "sony-purportedly-plotting-new-ape-escape-as-redemption-arc-s",
+      "titre": "Sony Purportedly Plotting New Ape Escape, as Redemption Arc Starts",
+      "url": "https://www.pushsquare.com/news/2026/10/sony-purportedly-plotting-new-ape-escape-as-redemption-arc-starts",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sony-purportedly-plotting-new-ape-escape-as-redemption-arc-starts",
+          "titre": "Sony Purportedly Plotting New Ape Escape, as Redemption Arc Starts"
         }
       ]
     },
@@ -671,7 +689,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
@@ -689,7 +707,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -707,31 +725,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/yazoo-croc-2-remaster-release-date-confirmed-for-late-october-on-ps5-ps4",
           "titre": "Yazoo! Croc 2 Remaster Release Date Confirmed for Late October on PS5, PS4"
-        }
-      ]
-    },
-    {
-      "id": "grand-theft-auto-5-is-a-game-about-shapeshifting-now-i-don-t",
-      "titre": "Grand Theft Auto 5 is a game about shapeshifting now. I don't make the rules",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-5-is-a-game-about-shapeshifting-now-i-dont-make-the-rules/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-5-is-a-game-about-shapeshifting-now-i-dont-make-the-rules/",
-          "titre": "Grand Theft Auto 5 is a game about shapeshifting now. I don't make the rules"
         }
       ]
     },
@@ -743,7 +743,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -761,7 +761,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -779,7 +779,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.1,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
@@ -797,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.1,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
@@ -808,290 +808,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sound-the-this-week-s-free-epic-games-store-game-is-worth-lo",
-      "titre": "Sound the 'This week's free Epic Games Store game is worth logging in for' alarm",
-      "url": "https://www.pcgamer.com/games/fps/sound-the-this-weeks-free-epic-games-store-game-is-worth-logging-in-for-alarm/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/sound-the-this-weeks-free-epic-games-store-game-is-worth-logging-in-for-alarm/",
-          "titre": "Sound the 'This week's free Epic Games Store game is worth logging in for' alarm"
-        }
-      ]
-    },
-    {
-      "id": "croc-2-is-getting-the-remaster-treatment-later-this-month",
-      "titre": "'Croc 2' Is Getting The Remaster Treatment Later This Month",
-      "url": "https://www.nintendolife.com/news/2026/10/croc-2-is-getting-the-remaster-treatment-later-this-month",
+      "id": "nintendo-download-1st-october-north-america-plus-3-discounte",
+      "titre": "Nintendo Download: 1st October (North America) - Plus 3 Discounted eShop Games Worth A Look",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-1st-october-north-america-plus-3-discounted-eshop-games-worth-a-look",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.2,
+      "heures": 5.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/croc-2-is-getting-the-remaster-treatment-later-this-month",
-          "titre": "'Croc 2' Is Getting The Remaster Treatment Later This Month"
-        }
-      ]
-    },
-    {
-      "id": "you-can-now-play-halo-combat-evolved-in-a-web-browser-and-it",
-      "titre": "You can now play Halo: Combat Evolved in a web browser, and it even has multiplayer",
-      "url": "https://www.pcgamer.com/hardware/you-can-now-play-halo-combat-evolved-in-a-web-browser-and-it-even-has-multiplayer/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/you-can-now-play-halo-combat-evolved-in-a-web-browser-and-it-even-has-multiplayer/",
-          "titre": "You can now play Halo: Combat Evolved in a web browser, and it even has multiplayer"
-        }
-      ]
-    },
-    {
-      "id": "ghost-of-yotei-complete-edition-review-an-expansion-worth-re",
-      "titre": "Ghost of Yotei Complete Edition review: An expansion worth returning for",
-      "url": "https://www.videogameschronicle.com/review/ghost-of-yotei-complete-edition/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/review/ghost-of-yotei-complete-edition/",
-          "titre": "Ghost of Yotei Complete Edition review: An expansion worth returning for"
-        }
-      ]
-    },
-    {
-      "id": "great-news-cowards-the-witcher-3-s-most-yellow-bellied-mod-w",
-      "titre": "Great news, cowards: The Witcher 3's most yellow-bellied mod works with the remaster",
-      "url": "https://www.pcgamer.com/games/the-witcher/great-news-cowards-the-witcher-3s-most-yellow-bellied-mod-is-ready-for-the-remaster/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/great-news-cowards-the-witcher-3s-most-yellow-bellied-mod-is-ready-for-the-remaster/",
-          "titre": "Great news, cowards: The Witcher 3's most yellow-bellied mod works with the remaster"
-        }
-      ]
-    },
-    {
-      "id": "inin-relaunches-r-type-dimensions-3-with-a-free-digital-artb",
-      "titre": "ININ 'Relaunches' R-Type Dimensions 3 With A Free Digital Artbook",
-      "url": "https://www.nintendolife.com/news/2026/10/inin-relaunches-r-type-dimensions-3-with-a-free-digital-artbook",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/inin-relaunches-r-type-dimensions-3-with-a-free-digital-artbook",
-          "titre": "ININ 'Relaunches' R-Type Dimensions 3 With A Free Digital Artbook"
-        }
-      ]
-    },
-    {
-      "id": "retrospace-offers-a-huge-sci-fi-playground-for-inquisitive-s",
-      "titre": "RetroSpace offers a huge sci-fi playground for inquisitive space janitors, but I'm not that System Shocked by the tools at your disposal",
-      "url": "https://www.rockpapershotgun.com/retrospace-offers-a-huge-sci-fi-playground-for-inquisitive-space-janitors-but-im-not-that-system-shocked-by-the-tools-at-your-disposal",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/retrospace-offers-a-huge-sci-fi-playground-for-inquisitive-space-janitors-but-im-not-that-system-shocked-by-the-tools-at-your-disposal",
-          "titre": "RetroSpace offers a huge sci-fi playground for inquisitive space janitors, but I'm not that System Shocked by the tools at your disposal"
-        }
-      ]
-    },
-    {
-      "id": "lego-pok-mon-bosses-talk-the-divisive-smart-brick-sets-for-a",
-      "titre": "Lego Pokémon bosses talk the divisive Smart Brick, sets for adult fans, and what’s next",
-      "url": "https://www.videogameschronicle.com/features/lego-pokemon-bosses-talk-the-divisive-smart-brick-sets-for-adult-fans-and-whats-next/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/lego-pokemon-bosses-talk-the-divisive-smart-brick-sets-for-adult-fans-and-whats-next/",
-          "titre": "Lego Pokémon bosses talk the divisive Smart Brick, sets for adult fans, and what’s next"
-        }
-      ]
-    },
-    {
-      "id": "one-of-gears-of-war-e-day-s-collectibles-is-a-letter-from-th",
-      "titre": "One of Gears of War E-Day’s collectibles is a letter from The Coalition thanking ‘those that are no longer with us’",
-      "url": "https://www.videogameschronicle.com/news/one-of-gears-of-war-e-days-collectibles-is-a-letter-from-the-coalition-thanking-those-that-are-no-longer-with-us/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/one-of-gears-of-war-e-days-collectibles-is-a-letter-from-the-coalition-thanking-those-that-are-no-longer-with-us/",
-          "titre": "One of Gears of War E-Day’s collectibles is a letter from The Coalition thanking ‘those that are no longer with us’"
-        }
-      ]
-    },
-    {
-      "id": "free-ps5-upgrades-for-metro-2033-and-last-light-out-this-mon",
-      "titre": "Free PS5 Upgrades for Metro 2033 and Last Light, Out This Month",
-      "url": "https://www.pushsquare.com/news/2026/10/free-ps5-upgrades-for-metro-2033-and-last-light-out-this-month",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/free-ps5-upgrades-for-metro-2033-and-last-light-out-this-month",
-          "titre": "Free PS5 Upgrades for Metro 2033 and Last Light, Out This Month"
-        }
-      ]
-    },
-    {
-      "id": "aion-2-s-imminent-worldwide-release-could-be-huge-as-early-a",
-      "titre": "Aion 2's imminent worldwide release could be huge as early access founders' packs outsell major games, and player numbers soar",
-      "url": "https://www.eurogamer.net/aion-2-western-release-steam-player-numbers",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/aion-2-western-release-steam-player-numbers",
-          "titre": "Aion 2's imminent worldwide release could be huge as early access founders' packs outsell major games, and player numbers soar"
-        }
-      ]
-    },
-    {
-      "id": "don-t-fear-the-bios-update-asus-has-just-fixed-a-local-acces",
-      "titre": "Don't fear the BIOS update: Asus has just fixed a local access vulnerability affecting older Intel motherboards",
-      "url": "https://www.pcgamer.com/hardware/motherboards/dont-fear-the-bios-update-asus-has-just-fixed-a-local-access-vulnerability-affecting-older-intel-motherboards/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/motherboards/dont-fear-the-bios-update-asus-has-just-fixed-a-local-access-vulnerability-affecting-older-intel-motherboards/",
-          "titre": "Don't fear the BIOS update: Asus has just fixed a local access vulnerability affecting older Intel motherboards"
-        }
-      ]
-    },
-    {
-      "id": "gears-of-war-e-day-system-requirements-require-ray-tracing-c",
-      "titre": "Gears of War: E-Day system requirements require ray tracing-capable graphics card to play, alongside 115 GB of free space on an SSD",
-      "url": "https://www.pcgamer.com/games/action/gears-of-war-e-day-system-requirements-require-ray-tracing-capable-graphics-card-to-play-alongside-115-gb-of-free-space-on-an-ssd/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/gears-of-war-e-day-system-requirements-require-ray-tracing-capable-graphics-card-to-play-alongside-115-gb-of-free-space-on-an-ssd/",
-          "titre": "Gears of War: E-Day system requirements require ray tracing-capable graphics card to play, alongside 115 GB of free space on an SSD"
-        }
-      ]
-    },
-    {
-      "id": "where-to-find-the-nangan-region-treasure-hunt-in-forza-horiz",
-      "titre": "Where to find the Nangan region Treasure Hunt in Forza Horizon 6",
-      "url": "https://www.pcgamer.com/games/racing/forza-horizon-6-nangan-treasure-hunt-location/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/racing/forza-horizon-6-nangan-treasure-hunt-location/",
-          "titre": "Where to find the Nangan region Treasure Hunt in Forza Horizon 6"
-        }
-      ]
-    },
-    {
-      "id": "aion-2-item-extraction-what-to-do-with-old-gear",
-      "titre": "Aion 2 Item Extraction: What to do with old gear",
-      "url": "https://www.videogameschronicle.com/guide/aion-2-item-extraction-what-to-do-with-old-gear/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/aion-2-item-extraction-what-to-do-with-old-gear/",
-          "titre": "Aion 2 Item Extraction: What to do with old gear"
-        }
-      ]
-    },
-    {
-      "id": "google-japan-s-conveyor-belt-keyboard-is-a-sad-reminder-of-t",
-      "titre": "Google Japan's conveyor belt keyboard is a sad reminder of the sense of humour the whole company used to have long, long ago",
-      "url": "https://www.pcgamer.com/hardware/gaming-keyboards/google-japans-conveyor-belt-keyboard-is-a-sad-reminder-of-the-sense-of-humour-the-whole-company-used-to-have-long-long-ago/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-keyboards/google-japans-conveyor-belt-keyboard-is-a-sad-reminder-of-the-sense-of-humour-the-whole-company-used-to-have-long-long-ago/",
-          "titre": "Google Japan's conveyor belt keyboard is a sad reminder of the sense of humour the whole company used to have long, long ago"
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-1st-october-north-america-plus-3-discounted-eshop-games-worth-a-look",
+          "titre": "Nintendo Download: 1st October (North America) - Plus 3 Discounted eShop Games Worth A Look"
         }
       ]
     },
@@ -1103,7 +833,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.7,
       "chaleur": 6,
       "liens": [
         {
@@ -1121,13 +851,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/the-coalition-gears-of-war-e-day-worried-layoffs-no-bonus",
           "titre": "As Xbox swings the axe, Gears of War: E-Day developers fear they'll be laid off straight after launch - and right before they'd be due their bonuses"
+        }
+      ]
+    },
+    {
+      "id": "former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to",
+      "titre": "Former Sony Exec Shuhei Yoshida Thinks Nintendo Is \"Going To Do Pretty Well\" With Switch 2 \"For Many Years To Come\"",
+      "url": "https://www.nintendolife.com/news/2026/10/former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to-do-pretty-well-with-switch-2-for-many-years-to-come",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to-do-pretty-well-with-switch-2-for-many-years-to-come",
+          "titre": "Former Sony Exec Shuhei Yoshida Thinks Nintendo Is \"Going To Do Pretty Well\" With Switch 2 \"For Many Years To Come\""
         }
       ]
     },
@@ -1139,7 +887,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 19.0,
       "chaleur": 6,
       "liens": [
         {
@@ -1157,7 +905,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 25.4,
       "chaleur": 6,
       "liens": [
         {
@@ -1175,7 +923,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.3,
       "chaleur": 6,
       "liens": [
         {
@@ -1193,7 +941,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.7,
+      "heures": 16.6,
       "chaleur": 5,
       "liens": [
         {
@@ -1202,7 +950,261 @@ const VEILLE = {
           "titre": "Nintendo Has Now Shut Down Mario Kart Tour"
         }
       ]
+    },
+    {
+      "id": "pok-mon-pokopia-expansion-pass-switch-2-game-key-card-releas",
+      "titre": "Pokémon Pokopia + Expansion Pass Switch 2 Game-Key Card Release Announced",
+      "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-plus-expansion-pass-switch-2-game-key-card-release-announced",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 20.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-plus-expansion-pass-switch-2-game-key-card-release-announced",
+          "titre": "Pokémon Pokopia + Expansion Pass Switch 2 Game-Key Card Release Announced"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-hits-its-highest-ever-steam-concurrent-player",
+      "titre": "The Witcher 3 hits its highest-ever Steam concurrent player count following Remastered launch",
+      "url": "https://www.gamesindustry.biz/the-witcher-3-hits-its-highest-ever-steam-concurrent-player-count-following-remastered-launch",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 27.3,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/the-witcher-3-hits-its-highest-ever-steam-concurrent-player-count-following-remastered-launch",
+          "titre": "The Witcher 3 hits its highest-ever Steam concurrent player count following Remastered launch"
+        }
+      ]
+    },
+    {
+      "id": "it-s-not-even-out-yet-but-valve-s-deadlock-just-became-one-o",
+      "titre": "It's not even out yet, but Valve's Deadlock just became one of the most played games on Steam",
+      "url": "https://www.eurogamer.net/deadlock-update-steam-most-played-games",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 29.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/deadlock-update-steam-most-played-games",
+          "titre": "It's not even out yet, but Valve's Deadlock just became one of the most played games on Steam"
+        }
+      ]
+    },
+    {
+      "id": "crimson-desert-s-first-expansion-charting-the-unknown-delaye",
+      "titre": "Crimson Desert's first expansion, Charting the Unknown, delayed so Pearl Abyss get more time to polish and stabilise the red pudding",
+      "url": "https://www.rockpapershotgun.com/crimson-deserts-first-expansion-charting-the-unknown-delayed-so-pearl-abyss-get-more-time-to-polish-and-stabilise-the-red-pudding",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 29.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/crimson-deserts-first-expansion-charting-the-unknown-delayed-so-pearl-abyss-get-more-time-to-polish-and-stabilise-the-red-pudding",
+          "titre": "Crimson Desert's first expansion, Charting the Unknown, delayed so Pearl Abyss get more time to polish and stabilise the red pudding"
+        }
+      ]
+    },
+    {
+      "id": "zynga-reportedly-almost-acquired-supercell-for-400m-in-2012",
+      "titre": "Zynga reportedly almost acquired Supercell for $400m in 2012, but deal fell through following failure of OMGPop",
+      "url": "https://www.gamesindustry.biz/zynga-reportedly-almost-acquired-supercell-for-400m-in-2012-but-deal-fell-through-following-failure-of-omgpop",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 30.7,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/zynga-reportedly-almost-acquired-supercell-for-400m-in-2012-but-deal-fell-through-following-failure-of-omgpop",
+          "titre": "Zynga reportedly almost acquired Supercell for $400m in 2012, but deal fell through following failure of OMGPop"
+        }
+      ]
+    },
+    {
+      "id": "housemarque-and-bithell-games-join-game-republic-new-horizon",
+      "titre": "Housemarque and Bithell Games join Game Republic New Horizons speaker lineup, Nintendo to host open session for developers and publishers",
+      "url": "https://www.gamesindustry.biz/housemarque-and-bithell-games-join-game-republic-new-horizons-speaker-lineup-nintendo-to-host-open-session-for-developers-and-publishers",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 33.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/housemarque-and-bithell-games-join-game-republic-new-horizons-speaker-lineup-nintendo-to-host-open-session-for-developers-and-publishers",
+          "titre": "Housemarque and Bithell Games join Game Republic New Horizons speaker lineup, Nintendo to host open session for developers and publishers"
+        }
+      ]
+    },
+    {
+      "id": "valve-is-updating-steam-s-discount-events-section-to-become",
+      "titre": "Valve is updating Steam's Discount & Events section to become more \"dynamic and personalised\"",
+      "url": "https://www.gamesindustry.biz/valve-is-updating-steams-discount-events-section-to-become-more-dynamic-and-personalised",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 35.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/valve-is-updating-steams-discount-events-section-to-become-more-dynamic-and-personalised",
+          "titre": "Valve is updating Steam's Discount & Events section to become more \"dynamic and personalised\""
+        }
+      ]
+    },
+    {
+      "id": "sound-the-this-week-s-free-epic-games-store-game-is-worth-lo",
+      "titre": "Sound the 'This week's free Epic Games Store game is worth logging in for' alarm",
+      "url": "https://www.pcgamer.com/games/fps/sound-the-this-weeks-free-epic-games-store-game-is-worth-logging-in-for-alarm/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/sound-the-this-weeks-free-epic-games-store-game-is-worth-logging-in-for-alarm/",
+          "titre": "Sound the 'This week's free Epic Games Store game is worth logging in for' alarm"
+        }
+      ]
+    },
+    {
+      "id": "croc-2-is-getting-the-remaster-treatment-later-this-month",
+      "titre": "'Croc 2' Is Getting The Remaster Treatment Later This Month",
+      "url": "https://www.nintendolife.com/news/2026/10/croc-2-is-getting-the-remaster-treatment-later-this-month",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/croc-2-is-getting-the-remaster-treatment-later-this-month",
+          "titre": "'Croc 2' Is Getting The Remaster Treatment Later This Month"
+        }
+      ]
+    },
+    {
+      "id": "you-can-now-play-halo-combat-evolved-in-a-web-browser-and-it",
+      "titre": "You can now play Halo: Combat Evolved in a web browser, and it even has multiplayer",
+      "url": "https://www.pcgamer.com/hardware/you-can-now-play-halo-combat-evolved-in-a-web-browser-and-it-even-has-multiplayer/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/you-can-now-play-halo-combat-evolved-in-a-web-browser-and-it-even-has-multiplayer/",
+          "titre": "You can now play Halo: Combat Evolved in a web browser, and it even has multiplayer"
+        }
+      ]
+    },
+    {
+      "id": "ghost-of-yotei-complete-edition-review-an-expansion-worth-re",
+      "titre": "Ghost of Yotei Complete Edition review: An expansion worth returning for",
+      "url": "https://www.videogameschronicle.com/review/ghost-of-yotei-complete-edition/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/review/ghost-of-yotei-complete-edition/",
+          "titre": "Ghost of Yotei Complete Edition review: An expansion worth returning for"
+        }
+      ]
+    },
+    {
+      "id": "great-news-cowards-the-witcher-3-s-most-yellow-bellied-mod-w",
+      "titre": "Great news, cowards: The Witcher 3's most yellow-bellied mod works with the remaster",
+      "url": "https://www.pcgamer.com/games/the-witcher/great-news-cowards-the-witcher-3s-most-yellow-bellied-mod-is-ready-for-the-remaster/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/great-news-cowards-the-witcher-3s-most-yellow-bellied-mod-is-ready-for-the-remaster/",
+          "titre": "Great news, cowards: The Witcher 3's most yellow-bellied mod works with the remaster"
+        }
+      ]
+    },
+    {
+      "id": "inin-relaunches-r-type-dimensions-3-with-a-free-digital-artb",
+      "titre": "ININ 'Relaunches' R-Type Dimensions 3 With A Free Digital Artbook",
+      "url": "https://www.nintendolife.com/news/2026/10/inin-relaunches-r-type-dimensions-3-with-a-free-digital-artbook",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/inin-relaunches-r-type-dimensions-3-with-a-free-digital-artbook",
+          "titre": "ININ 'Relaunches' R-Type Dimensions 3 With A Free Digital Artbook"
+        }
+      ]
+    },
+    {
+      "id": "retrospace-offers-a-huge-sci-fi-playground-for-inquisitive-s",
+      "titre": "RetroSpace offers a huge sci-fi playground for inquisitive space janitors, but I'm not that System Shocked by the tools at your disposal",
+      "url": "https://www.rockpapershotgun.com/retrospace-offers-a-huge-sci-fi-playground-for-inquisitive-space-janitors-but-im-not-that-system-shocked-by-the-tools-at-your-disposal",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/retrospace-offers-a-huge-sci-fi-playground-for-inquisitive-space-janitors-but-im-not-that-system-shocked-by-the-tools-at-your-disposal",
+          "titre": "RetroSpace offers a huge sci-fi playground for inquisitive space janitors, but I'm not that System Shocked by the tools at your disposal"
+        }
+      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "'Xbox is not for sale,' CEO Asha Sharma says"
+  ]
 };
