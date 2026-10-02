@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "01/10/2026 à 22h20",
+  "collecte": "02/10/2026 à 00h30",
   "seuil": 14,
   "sujets": [
     {
@@ -14,8 +14,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 4,
-      "heures": 3.7,
-      "chaleur": 20,
+      "heures": 5.9,
+      "chaleur": 18,
       "liens": [
         {
           "source": "Game Developer",
@@ -50,7 +50,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 4,
-      "heures": 26.7,
+      "heures": 28.9,
       "chaleur": 12,
       "liens": [
         {
@@ -84,7 +84,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 7.3,
+      "heures": 9.5,
       "chaleur": 10,
       "liens": [
         {
@@ -109,7 +109,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 7.9,
+      "heures": 10.0,
       "chaleur": 10,
       "liens": [
         {
@@ -139,7 +139,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 8.8,
+      "heures": 11.0,
       "chaleur": 10,
       "liens": [
         {
@@ -160,30 +160,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for",
-      "titre": "Sony Confirms Refined Version of Acclaimed PSSR Upscaler for Base PS5, with 'Remarkable' Potential",
-      "url": "https://www.pushsquare.com/news/2026/10/sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for-base-ps5-with-remarkable-potential",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 3.8,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for-base-ps5-with-remarkable-potential",
-          "titre": "Sony Confirms Refined Version of Acclaimed PSSR Upscaler for Base PS5, with 'Remarkable' Potential"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/remarkable-sony-reveals-new-ps5-upscaler-tech-qssr/",
-          "titre": "‘Remarkable’: Sony reveals new PS5 upscaler tech, QSSR"
-        }
-      ]
-    },
-    {
       "id": "kena-scars-of-kosmora-has-been-delayed-until-next-year-ember",
       "titre": "Kena: Scars of Kosmora has been delayed until next year, Ember Lab announces",
       "url": "https://www.videogameschronicle.com/news/kena-scars-of-kosmora-has-been-delayed-until-next-year-ember-lab-announces/",
@@ -192,7 +168,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.4,
+      "heures": 11.5,
       "chaleur": 9,
       "liens": [
         {
@@ -217,7 +193,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 12.3,
+      "heures": 14.4,
       "chaleur": 9,
       "liens": [
         {
@@ -238,6 +214,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for",
+      "titre": "Sony Confirms Refined Version of Acclaimed PSSR Upscaler for Base PS5, with 'Remarkable' Potential",
+      "url": "https://www.pushsquare.com/news/2026/10/sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for-base-ps5-with-remarkable-potential",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 6.0,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for-base-ps5-with-remarkable-potential",
+          "titre": "Sony Confirms Refined Version of Acclaimed PSSR Upscaler for Base PS5, with 'Remarkable' Potential"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/remarkable-sony-reveals-new-ps5-upscaler-tech-qssr/",
+          "titre": "‘Remarkable’: Sony reveals new PS5 upscaler tech, QSSR"
+        }
+      ]
+    },
+    {
       "id": "how-to-unlock-jin-sakai-in-ghost-of-yotei-most-wanted",
       "titre": "How to unlock Jin Sakai in Ghost of Yotei Most Wanted",
       "url": "https://www.videogameschronicle.com/guide/how-to-unlock-jin-sakai-in-ghost-of-yotei-most-wanted/",
@@ -246,7 +246,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 6.3,
+      "heures": 8.5,
       "chaleur": 7,
       "liens": [
         {
@@ -270,7 +270,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 8.0,
+      "heures": 10.1,
       "chaleur": 7,
       "liens": [
         {
@@ -294,7 +294,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 8.9,
+      "heures": 11.0,
       "chaleur": 7,
       "liens": [
         {
@@ -318,7 +318,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.3,
+      "heures": 11.5,
       "chaleur": 7,
       "liens": [
         {
@@ -330,30 +330,6 @@ const VEILLE = {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gears-of-war-eday-campaign-review",
           "titre": "Gears of War E-Day campaign review - turns out you can teach old Cogs new tricks"
-        }
-      ]
-    },
-    {
-      "id": "witcher-3-remastered-patch-addressing-various-lighting-adjus",
-      "titre": "Witcher 3 Remastered patch addressing \"various lighting adjustments\" rolls out",
-      "url": "https://www.eurogamer.net/witcher-3-lighting-brightness-patch-remastered",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 10.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-lighting-brightness-patch-remastered",
-          "titre": "Witcher 3 Remastered patch addressing \"various lighting adjustments\" rolls out"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastereds-first-ps5-patch-fixes-lighting-issues-but-no-word-on-performance-yet",
-          "titre": "The Witcher 3 Remastered's First PS5 Patch Fixes Lighting Issues, But No Word on Performance Yet"
         }
       ]
     },
@@ -574,6 +550,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "there-s-something-even-scarier-than-huggy-wuggy-in-the-playt",
+      "titre": "There's something even scarier than Huggy Wuggy in the Playtime toy factory this weekend",
+      "url": "https://www.pcgamer.com/games/horror/theres-something-even-scarier-than-huggy-wuggy-in-the-playtime-toy-factory-this-weekend/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/theres-something-even-scarier-than-huggy-wuggy-in-the-playtime-toy-factory-this-weekend/",
+          "titre": "There's something even scarier than Huggy Wuggy in the Playtime toy factory this weekend"
+        }
+      ]
+    },
+    {
+      "id": "there-are-so-many-games-coming-out-in-october-you-guys",
+      "titre": "There are so many games coming out in October you guys",
+      "url": "https://www.pcgamer.com/games/pc-game-release-dates-october-2026/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/pc-game-release-dates-october-2026/",
+          "titre": "There are so many games coming out in October you guys"
+        }
+      ]
+    },
+    {
       "id": "masters-of-albion-peter-molyneux-s-final-game-just-got-a-hug",
       "titre": "Masters of Albion, Peter Molyneux's final game, just got a huge update and, [vigorous, lips-pursed nodding of approval], suddenly the old god game magic is back",
       "url": "https://www.pcgamer.com/games/strategy/masters-of-albion-peter-molyneuxs-final-game-just-got-a-huge-update-and-vigorous-lips-pursed-nodding-of-approval-suddenly-the-old-god-game-magic-is-back/",
@@ -581,7 +593,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -599,7 +611,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -617,7 +629,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -635,7 +647,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -653,121 +665,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/rpg/how-to-conquer-kuttenberg/",
           "titre": "How to conquer Kuttenberg"
-        }
-      ]
-    },
-    {
-      "id": "more-than-450-witcher-3-mods-have-already-been-updated-to-su",
-      "titre": "More than 450 Witcher 3 mods have already been updated to support the Remastered version",
-      "url": "https://www.pcgamer.com/games/the-witcher/more-than-450-witcher-3-mods-have-already-been-updated-to-support-the-remastered-version/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/more-than-450-witcher-3-mods-have-already-been-updated-to-support-the-remastered-version/",
-          "titre": "More than 450 Witcher 3 mods have already been updated to support the Remastered version"
-        }
-      ]
-    },
-    {
-      "id": "kingdom-come-deliverance-studio-co-founder-hopes-grand-theft",
-      "titre": "Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/kingdom-come-deliverance-studio-co-founder-hopes-grand-theft-auto-6-will-blaze-a-trail-to-higher-game-prices/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/kingdom-come-deliverance-studio-co-founder-hopes-grand-theft-auto-6-will-blaze-a-trail-to-higher-game-prices/",
-          "titre": "Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices"
-        }
-      ]
-    },
-    {
-      "id": "we-needed-a-potentially-infinite-resource-of-party-members",
-      "titre": "'We needed a potentially infinite resource of party members so that we could then kill them:' Entropy dev James Wragg explains how you fit permadeath in a party RPG",
-      "url": "https://www.pcgamer.com/games/rpg/we-needed-a-potentially-infinite-resource-of-party-members-so-that-we-could-then-kill-them-entropy-dev-james-wragg-explains-how-you-fit-permadeath-in-a-party-rpg/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/we-needed-a-potentially-infinite-resource-of-party-members-so-that-we-could-then-kill-them-entropy-dev-james-wragg-explains-how-you-fit-permadeath-in-a-party-rpg/",
-          "titre": "'We needed a potentially infinite resource of party members so that we could then kill them:' Entropy dev James Wragg explains how you fit permadeath in a party RPG"
-        }
-      ]
-    },
-    {
-      "id": "at-last-i-can-build-a-home-out-of-raw-windows-vista-era-nost",
-      "titre": "At last: I can build a home out of raw Windows Vista-era nostalgia",
-      "url": "https://www.pcgamer.com/games/sim/at-last-i-can-build-a-home-out-of-raw-windows-vista-era-nostalgia/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/at-last-i-can-build-a-home-out-of-raw-windows-vista-era-nostalgia/",
-          "titre": "At last: I can build a home out of raw Windows Vista-era nostalgia"
-        }
-      ]
-    },
-    {
-      "id": "that-s-some-fiiiiine-lookin-milk-but-rust-devs-warn-that-cre",
-      "titre": "That's some fiiiiine lookin' milk, but Rust devs warn that 'cream is a more powerful consumable'",
-      "url": "https://www.pcgamer.com/games/survival-crafting/thats-some-fiiiiine-lookin-milk-but-rust-devs-warn-that-cream-is-a-more-powerful-consumable/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/thats-some-fiiiiine-lookin-milk-but-rust-devs-warn-that-cream-is-a-more-powerful-consumable/",
-          "titre": "That's some fiiiiine lookin' milk, but Rust devs warn that 'cream is a more powerful consumable'"
-        }
-      ]
-    },
-    {
-      "id": "sony-purportedly-plotting-new-ape-escape-as-redemption-arc-s",
-      "titre": "Sony Purportedly Plotting New Ape Escape, as Redemption Arc Starts",
-      "url": "https://www.pushsquare.com/news/2026/10/sony-purportedly-plotting-new-ape-escape-as-redemption-arc-starts",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sony-purportedly-plotting-new-ape-escape-as-redemption-arc-starts",
-          "titre": "Sony Purportedly Plotting New Ape Escape, as Redemption Arc Starts"
         }
       ]
     },
@@ -779,7 +683,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 7.1,
       "chaleur": 6,
       "liens": [
         {
@@ -797,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.6,
       "chaleur": 6,
       "liens": [
         {
@@ -808,20 +712,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "new-uncharted-game-reportedly-in-the-works-at-naughty-dog-an",
-      "titre": "New Uncharted game reportedly in the works at Naughty Dog, and it's not a remake",
-      "url": "https://www.eurogamer.net/new-uncharted-game-naughty-dog-report",
+      "id": "witcher-3-remastered-patch-addressing-various-lighting-adjus",
+      "titre": "Witcher 3 Remastered patch addressing \"various lighting adjustments\" rolls out",
+      "url": "https://www.eurogamer.net/witcher-3-lighting-brightness-patch-remastered",
       "sources": [
-        "Eurogamer"
+        "Eurogamer",
+        "Push Square"
       ],
-      "reprises": 1,
-      "heures": 11.7,
+      "reprises": 2,
+      "heures": 12.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/new-uncharted-game-naughty-dog-report",
-          "titre": "New Uncharted game reportedly in the works at Naughty Dog, and it's not a remake"
+          "url": "https://www.eurogamer.net/witcher-3-lighting-brightness-patch-remastered",
+          "titre": "Witcher 3 Remastered patch addressing \"various lighting adjustments\" rolls out"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastereds-first-ps5-patch-fixes-lighting-issues-but-no-word-on-performance-yet",
+          "titre": "The Witcher 3 Remastered's First PS5 Patch Fixes Lighting Issues, But No Word on Performance Yet"
         }
       ]
     },
@@ -833,7 +743,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.5,
       "chaleur": 6,
       "liens": [
         {
@@ -851,7 +761,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.9,
+      "heures": 23.1,
       "chaleur": 6,
       "liens": [
         {
@@ -869,7 +779,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.5,
       "chaleur": 6,
       "liens": [
         {
@@ -887,13 +797,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
           "titre": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain"
+        }
+      ]
+    },
+    {
+      "id": "new-uncharted-game-reportedly-in-the-works-at-naughty-dog-an",
+      "titre": "New Uncharted game reportedly in the works at Naughty Dog, and it's not a remake",
+      "url": "https://www.eurogamer.net/new-uncharted-game-naughty-dog-report",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 13.8,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/new-uncharted-game-naughty-dog-report",
+          "titre": "New Uncharted game reportedly in the works at Naughty Dog, and it's not a remake"
         }
       ]
     },
@@ -905,7 +833,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.6,
       "chaleur": 5,
       "liens": [
         {
@@ -923,7 +851,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 20.8,
       "chaleur": 5,
       "liens": [
         {
@@ -941,7 +869,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 24.1,
       "chaleur": 5,
       "liens": [
         {
@@ -959,7 +887,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.5,
       "chaleur": 5,
       "liens": [
         {
@@ -977,7 +905,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.9,
+      "heures": 33.1,
       "chaleur": 5,
       "liens": [
         {
@@ -995,7 +923,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 31.8,
+      "heures": 34.0,
       "chaleur": 5,
       "liens": [
         {
@@ -1013,7 +941,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 32.7,
+      "heures": 34.8,
       "chaleur": 5,
       "liens": [
         {
@@ -1024,20 +952,110 @@ const VEILLE = {
       ]
     },
     {
-      "id": "housemarque-and-bithell-games-join-game-republic-new-horizon",
-      "titre": "Housemarque and Bithell Games join Game Republic New Horizons speaker lineup, Nintendo to host open session for developers and publishers",
-      "url": "https://www.gamesindustry.biz/housemarque-and-bithell-games-join-game-republic-new-horizons-speaker-lineup-nintendo-to-host-open-session-for-developers-and-publishers",
+      "id": "more-than-450-witcher-3-mods-have-already-been-updated-to-su",
+      "titre": "More than 450 Witcher 3 mods have already been updated to support the Remastered version",
+      "url": "https://www.pcgamer.com/games/the-witcher/more-than-450-witcher-3-mods-have-already-been-updated-to-support-the-remastered-version/",
       "sources": [
-        "GamesIndustry.biz"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 35.4,
-      "chaleur": 5,
+      "heures": 4.1,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/housemarque-and-bithell-games-join-game-republic-new-horizons-speaker-lineup-nintendo-to-host-open-session-for-developers-and-publishers",
-          "titre": "Housemarque and Bithell Games join Game Republic New Horizons speaker lineup, Nintendo to host open session for developers and publishers"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/more-than-450-witcher-3-mods-have-already-been-updated-to-support-the-remastered-version/",
+          "titre": "More than 450 Witcher 3 mods have already been updated to support the Remastered version"
+        }
+      ]
+    },
+    {
+      "id": "kingdom-come-deliverance-studio-co-founder-hopes-grand-theft",
+      "titre": "Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/kingdom-come-deliverance-studio-co-founder-hopes-grand-theft-auto-6-will-blaze-a-trail-to-higher-game-prices/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/kingdom-come-deliverance-studio-co-founder-hopes-grand-theft-auto-6-will-blaze-a-trail-to-higher-game-prices/",
+          "titre": "Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices"
+        }
+      ]
+    },
+    {
+      "id": "we-needed-a-potentially-infinite-resource-of-party-members",
+      "titre": "'We needed a potentially infinite resource of party members so that we could then kill them:' Entropy dev James Wragg explains how you fit permadeath in a party RPG",
+      "url": "https://www.pcgamer.com/games/rpg/we-needed-a-potentially-infinite-resource-of-party-members-so-that-we-could-then-kill-them-entropy-dev-james-wragg-explains-how-you-fit-permadeath-in-a-party-rpg/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/we-needed-a-potentially-infinite-resource-of-party-members-so-that-we-could-then-kill-them-entropy-dev-james-wragg-explains-how-you-fit-permadeath-in-a-party-rpg/",
+          "titre": "'We needed a potentially infinite resource of party members so that we could then kill them:' Entropy dev James Wragg explains how you fit permadeath in a party RPG"
+        }
+      ]
+    },
+    {
+      "id": "at-last-i-can-build-a-home-out-of-raw-windows-vista-era-nost",
+      "titre": "At last: I can build a home out of raw Windows Vista-era nostalgia",
+      "url": "https://www.pcgamer.com/games/sim/at-last-i-can-build-a-home-out-of-raw-windows-vista-era-nostalgia/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/at-last-i-can-build-a-home-out-of-raw-windows-vista-era-nostalgia/",
+          "titre": "At last: I can build a home out of raw Windows Vista-era nostalgia"
+        }
+      ]
+    },
+    {
+      "id": "that-s-some-fiiiiine-lookin-milk-but-rust-devs-warn-that-cre",
+      "titre": "That's some fiiiiine lookin' milk, but Rust devs warn that 'cream is a more powerful consumable'",
+      "url": "https://www.pcgamer.com/games/survival-crafting/thats-some-fiiiiine-lookin-milk-but-rust-devs-warn-that-cream-is-a-more-powerful-consumable/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/thats-some-fiiiiine-lookin-milk-but-rust-devs-warn-that-cream-is-a-more-powerful-consumable/",
+          "titre": "That's some fiiiiine lookin' milk, but Rust devs warn that 'cream is a more powerful consumable'"
+        }
+      ]
+    },
+    {
+      "id": "sony-purportedly-plotting-new-ape-escape-as-redemption-arc-s",
+      "titre": "Sony Purportedly Plotting New Ape Escape, as Redemption Arc Starts",
+      "url": "https://www.pushsquare.com/news/2026/10/sony-purportedly-plotting-new-ape-escape-as-redemption-arc-starts",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sony-purportedly-plotting-new-ape-escape-as-redemption-arc-starts",
+          "titre": "Sony Purportedly Plotting New Ape Escape, as Redemption Arc Starts"
         }
       ]
     },
@@ -1049,7 +1067,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1067,7 +1085,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1085,7 +1103,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1103,7 +1121,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1121,7 +1139,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1139,49 +1157,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/movies-tv/after-a-series-of-catastrophes-where-no-one-could-seem-to-roll-well-i-truly-have-no-idea-whos-going-to-make-it-out-of-critical-roles-next-episode/",
           "titre": "After a series of catastrophes where no-one could seem to roll well, I truly have no idea who's going to make it out of Critical Role's next episode"
-        }
-      ]
-    },
-    {
-      "id": "resident-evil-s-executive-producer-explains-the-deeper-meani",
-      "titre": "Resident Evil's executive producer explains the deeper meaning behind Requiem, and I just can't get on board",
-      "url": "https://www.pcgamer.com/games/resident-evil/resident-evils-executive-producer-explains-the-deeper-meaning-behind-requiem-and-i-just-cant-get-on-board/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/resident-evil/resident-evils-executive-producer-explains-the-deeper-meaning-behind-requiem-and-i-just-cant-get-on-board/",
-          "titre": "Resident Evil's executive producer explains the deeper meaning behind Requiem, and I just can't get on board"
-        }
-      ]
-    },
-    {
-      "id": "sound-the-this-week-s-free-epic-games-store-game-is-worth-lo",
-      "titre": "Sound the 'This week's free Epic Games Store game is worth logging in for' alarm",
-      "url": "https://www.pcgamer.com/games/fps/sound-the-this-weeks-free-epic-games-store-game-is-worth-logging-in-for-alarm/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/sound-the-this-weeks-free-epic-games-store-game-is-worth-logging-in-for-alarm/",
-          "titre": "Sound the 'This week's free Epic Games Store game is worth logging in for' alarm"
         }
       ]
     },
@@ -1193,13 +1175,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/croc-2-is-getting-the-remaster-treatment-later-this-month",
           "titre": "'Croc 2' Is Getting The Remaster Treatment Later This Month"
+        }
+      ]
+    },
+    {
+      "id": "ghost-of-yotei-complete-edition-review-an-expansion-worth-re",
+      "titre": "Ghost of Yotei Complete Edition review: An expansion worth returning for",
+      "url": "https://www.videogameschronicle.com/review/ghost-of-yotei-complete-edition/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 8.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/review/ghost-of-yotei-complete-edition/",
+          "titre": "Ghost of Yotei Complete Edition review: An expansion worth returning for"
         }
       ]
     }
