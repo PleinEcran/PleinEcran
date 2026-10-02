@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "02/10/2026 à 08h24",
+  "collecte": "02/10/2026 à 10h21",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 4.5,
+      "heures": 6.4,
       "chaleur": 13,
       "liens": [
         {
@@ -40,6 +40,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "turns-out-you-can-download-more-battery-as-valve-s-latest-up",
+      "titre": "Turns out you can download more battery as Valve's latest update for Steam Frame adds up to 12%",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/turns-out-you-can-download-more-battery-as-valves-latest-update-for-steam-frame-adds-up-to-12-percent/",
+      "sources": [
+        "PC Gamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 0.5,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/turns-out-you-can-download-more-battery-as-valves-latest-update-for-steam-frame-adds-up-to-12-percent/",
+          "titre": "Turns out you can download more battery as Valve's latest update for Steam Frame adds up to 12%"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/new-ps5-firmware-update-26-06-14-10-00-available-to-download-now",
+          "titre": "New PS5 Firmware Update 26.06-14.10.00 Available to Download Now"
+        }
+      ]
+    },
+    {
       "id": "xbox-is-not-for-sale-ceo-asha-sharma-says",
       "titre": "'Xbox is not for sale,' CEO Asha Sharma says",
       "url": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
@@ -48,7 +72,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 13.8,
+      "heures": 15.7,
       "chaleur": 11,
       "liens": [
         {
@@ -64,6 +88,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "pubg-extraction-shooter-black-budget-canned-less-than-a-year",
+      "titre": "PUBG extraction shooter Black Budget canned less than a year from reveal, after Krafton decide it won't \"deliver an experience players could enjoy over the long term\"",
+      "url": "https://www.rockpapershotgun.com/pubg-extraction-shooter-black-budget-canned-less-than-a-year-from-reveal-after-krafton-decide-it-wont-deliver-an-experience-players-could-enjoy-over-the-long-term",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 0.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/pubg-extraction-shooter-black-budget-canned-less-than-a-year-from-reveal-after-krafton-decide-it-wont-deliver-an-experience-players-could-enjoy-over-the-long-term",
+          "titre": "PUBG extraction shooter Black Budget canned less than a year from reveal, after Krafton decide it won't \"deliver an experience players could enjoy over the long term\""
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/krafton-pulls-the-plug-on-another-pubg-game-black-budget-less-than-a-year-after-it-was-announced",
+          "titre": "Krafton pulls the plug on another PUBG game, Black Budget, less than a year after it was announced"
+        }
+      ]
+    },
+    {
       "id": "guide-upcoming-nintendo-switch-2-games-accessories-for-octob",
       "titre": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For October & November 2026",
       "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-october-and-november-2026",
@@ -72,7 +120,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 9,
       "liens": [
         {
@@ -97,7 +145,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 18.9,
+      "heures": 20.9,
       "chaleur": 9,
       "liens": [
         {
@@ -118,20 +166,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "capcom-admits-it-s-been-a-painstaking-process-porting-monste",
-      "titre": "Capcom Admits It's Been A \"Painstaking\" Process Porting Monster Hunter Wilds To Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wilds-to-switch-2",
+      "id": "the-latest-ps5-slim-model-reportedly-changes-some-components",
+      "titre": "The latest PS5 Slim model reportedly changes some components, including a replaceable CMOS battery and revised cooling",
+      "url": "https://www.videogameschronicle.com/news/the-latest-ps5-slim-model-reportedly-changes-some-components-including-a-replaceable-cmos-battery-and-revised-cooling/",
       "sources": [
-        "Nintendo Life"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 3.5,
+      "heures": 1.6,
       "chaleur": 8,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wilds-to-switch-2",
-          "titre": "Capcom Admits It's Been A \"Painstaking\" Process Porting Monster Hunter Wilds To Switch 2"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-latest-ps5-slim-model-reportedly-changes-some-components-including-a-replaceable-cmos-battery-and-revised-cooling/",
+          "titre": "The latest PS5 Slim model reportedly changes some components, including a replaceable CMOS battery and revised cooling"
         }
       ]
     },
@@ -143,37 +191,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.5,
       "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/software/platforms/after-a-record-breaking-september-its-safe-to-say-steams-yearly-revenue-will-blow-past-usd20b-for-the-first-time/",
           "titre": "After a record-breaking September, 'it's safe to say Steam's yearly revenue will blow past $20B for the first time'"
-        }
-      ]
-    },
-    {
-      "id": "kena-scars-of-kosmora-has-been-delayed-until-next-year-ember",
-      "titre": "Kena: Scars of Kosmora has been delayed until next year, Ember Lab announces",
-      "url": "https://www.videogameschronicle.com/news/kena-scars-of-kosmora-has-been-delayed-until-next-year-ember-lab-announces/",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 19.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/kena-scars-of-kosmora-has-been-delayed-until-next-year-ember-lab-announces/",
-          "titre": "Kena: Scars of Kosmora has been delayed until next year, Ember Lab announces"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps5s-kena-scars-of-kosmora-officially-delayed-into-2027-new-details-revealed",
-          "titre": "PS5's Kena: Scars of Kosmora Officially Delayed into 2027, New Details Revealed"
         }
       ]
     },
@@ -186,7 +210,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 6.5,
+      "heures": 8.4,
       "chaleur": 7,
       "liens": [
         {
@@ -436,6 +460,132 @@ const VEILLE = {
       ]
     },
     {
+      "id": "unscrupulous-airbnb-host-tries-to-get-1-700-out-of-redditor",
+      "titre": "Unscrupulous Airbnb host tries to get $1,700 out of Redditor with AI-generated pic of overflowing toilet",
+      "url": "https://www.pcgamer.com/software/ai/unscrupulous-airbnb-host-tries-to-get-usd1-700-out-of-redditor-with-ai-generated-pic-of-overflowing-toilet/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/unscrupulous-airbnb-host-tries-to-get-usd1-700-out-of-redditor-with-ai-generated-pic-of-overflowing-toilet/",
+          "titre": "Unscrupulous Airbnb host tries to get $1,700 out of Redditor with AI-generated pic of overflowing toilet"
+        }
+      ]
+    },
+    {
+      "id": "2xko-would-have-needed-an-mau-base-in-the-high-hundreds-of-t",
+      "titre": "2XKO would have needed an MAU base \"in the high hundreds of thousands, if not millions\" to succeed",
+      "url": "https://www.gamesindustry.biz/2xko-would-have-needed-an-mau-base-in-the-high-hundreds-of-thousands-if-not-millions-to-succeed",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/2xko-would-have-needed-an-mau-base-in-the-high-hundreds-of-thousands-if-not-millions-to-succeed",
+          "titre": "2XKO would have needed an MAU base \"in the high hundreds of thousands, if not millions\" to succeed"
+        }
+      ]
+    },
+    {
+      "id": "our-resources-are-limited-sonic-boss-would-rather-focus-on",
+      "titre": "\"Our Resources Are Limited\" - Sonic Boss Would Rather Focus On New Games Over Remasters Or Remakes",
+      "url": "https://www.nintendolife.com/news/2026/10/our-resources-are-limited-sonic-boss-would-rather-focus-on-new-games-over-remasters-or-remakes",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/our-resources-are-limited-sonic-boss-would-rather-focus-on-new-games-over-remasters-or-remakes",
+          "titre": "\"Our Resources Are Limited\" - Sonic Boss Would Rather Focus On New Games Over Remasters Or Remakes"
+        }
+      ]
+    },
+    {
+      "id": "ps5-gets-ai-guided-upscaling-a-bit-like-ps5-pro-s-and-it-s-a",
+      "titre": "PS5 gets \"AI-guided upscaling\" a bit like PS5 Pro's, and it's available now in Marvel's Wolverine and Ghost of Yotei",
+      "url": "https://www.eurogamer.net/ps5-ai-upscaling-qssr-marvels-wolverine-ghost-yotei",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ps5-ai-upscaling-qssr-marvels-wolverine-ghost-yotei",
+          "titre": "PS5 gets \"AI-guided upscaling\" a bit like PS5 Pro's, and it's available now in Marvel's Wolverine and Ghost of Yotei"
+        }
+      ]
+    },
+    {
+      "id": "i-hate-having-to-prove-my-brand-loyalty-just-for-the-chance",
+      "titre": "I hate having to prove my brand loyalty just for the chance to buy hardware at full price",
+      "url": "https://www.pcgamer.com/hardware/i-hate-having-to-prove-my-brand-loyalty-just-for-the-chance-to-buy-hardware-at-full-price/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/i-hate-having-to-prove-my-brand-loyalty-just-for-the-chance-to-buy-hardware-at-full-price/",
+          "titre": "I hate having to prove my brand loyalty just for the chance to buy hardware at full price"
+        }
+      ]
+    },
+    {
+      "id": "fuse-games-ceo-to-discuss-star-wars-galactic-racer-at-uk-gam",
+      "titre": "Fuse Games CEO to Discuss Star Wars Galactic Racer at UK Games Conference",
+      "url": "https://www.videogameschronicle.com/news/fuse-games-ceo-to-discuss-star-wars-galactic-racer-at-uk-games-conference/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/fuse-games-ceo-to-discuss-star-wars-galactic-racer-at-uk-games-conference/",
+          "titre": "Fuse Games CEO to Discuss Star Wars Galactic Racer at UK Games Conference"
+        }
+      ]
+    },
+    {
+      "id": "if-game-developers-steal-one-thing-from-no-law-i-hope-it-s-t",
+      "titre": "If game developers steal one thing from No Law, I hope it's the open-world game's ridiculously detailed and realistic corner shops",
+      "url": "https://www.rockpapershotgun.com/if-game-developers-steal-one-thing-from-no-law-i-hope-its-the-open-world-games-ridiculously-detailed-and-realistic-corner-shops",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/if-game-developers-steal-one-thing-from-no-law-i-hope-its-the-open-world-games-ridiculously-detailed-and-realistic-corner-shops",
+          "titre": "If game developers steal one thing from No Law, I hope it's the open-world game's ridiculously detailed and realistic corner shops"
+        }
+      ]
+    },
+    {
       "id": "krafton-shuts-down-pubg-spin-off-black-budget-nine-months-af",
       "titre": "Krafton shuts down PUBG spin-off Black Budget nine months after closed alpha test",
       "url": "https://www.gamesindustry.biz/krafton-shuts-down-pubg-spin-off-black-budget-nine-months-after-closed-alpha-test",
@@ -443,7 +593,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -454,20 +604,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "round-up-the-reviews-for-minecraft-dungeons-ii-are-in",
-      "titre": "Round Up: The Reviews For Minecraft Dungeons II Are In",
-      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-minecraft-dungeons-ii-are-in",
+      "id": "capcom-admits-it-s-been-a-painstaking-process-porting-monste",
+      "titre": "Capcom Admits It's Been A \"Painstaking\" Process Porting Monster Hunter Wilds To Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wilds-to-switch-2",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.5,
+      "heures": 5.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-minecraft-dungeons-ii-are-in",
-          "titre": "Round Up: The Reviews For Minecraft Dungeons II Are In"
+          "url": "https://www.nintendolife.com/news/2026/10/capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wilds-to-switch-2",
+          "titre": "Capcom Admits It's Been A \"Painstaking\" Process Porting Monster Hunter Wilds To Switch 2"
         }
       ]
     },
@@ -479,7 +629,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.6,
       "chaleur": 6,
       "liens": [
         {
@@ -497,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.8,
       "chaleur": 6,
       "liens": [
         {
@@ -516,7 +666,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 13.9,
+      "heures": 15.9,
       "chaleur": 6,
       "liens": [
         {
@@ -540,7 +690,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 6,
       "liens": [
         {
@@ -556,54 +706,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "control-resonant-s-new-game-update-also-squashes-some-of-my",
-      "titre": "Control Resonant's New Game++ update also squashes some of my least favourite bugs, including the one where magic doors change my trousers",
-      "url": "https://www.rockpapershotgun.com/control-resonants-new-game-update-also-squashes-some-of-my-least-favourite-bugs-including-the-one-where-magic-doors-change-my-trousers",
-      "sources": [
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 18.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/control-resonants-new-game-update-also-squashes-some-of-my-least-favourite-bugs-including-the-one-where-magic-doors-change-my-trousers",
-          "titre": "Control Resonant's New Game++ update also squashes some of my least favourite bugs, including the one where magic doors change my trousers"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/control-resonant-ps5-update-1-4-live-now-with-enhanced-new-gameplus",
-          "titre": "Control Resonant PS5 Update 1.4 Live Now with Enhanced New Game+"
-        }
-      ]
-    },
-    {
-      "id": "gears-of-war-e-day-campaign-review-an-absolute-blast-even-if",
-      "titre": "Gears of War E-Day campaign review: An absolute blast, even if it focuses on commotion over emotion",
-      "url": "https://www.videogameschronicle.com/review/gears-of-war-e-day-campaign-review/",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 19.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/review/gears-of-war-e-day-campaign-review/",
-          "titre": "Gears of War E-Day campaign review: An absolute blast, even if it focuses on commotion over emotion"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gears-of-war-eday-campaign-review",
-          "titre": "Gears of War E-Day campaign review - turns out you can teach old Cogs new tricks"
-        }
-      ]
-    },
-    {
       "id": "witcher-3-remastered-patch-addressing-various-lighting-adjus",
       "titre": "Witcher 3 Remastered patch addressing \"various lighting adjustments\" rolls out",
       "url": "https://www.eurogamer.net/witcher-3-lighting-brightness-patch-remastered",
@@ -612,7 +714,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 20.3,
+      "heures": 22.2,
       "chaleur": 6,
       "liens": [
         {
@@ -636,7 +738,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 22.3,
+      "heures": 24.3,
       "chaleur": 6,
       "liens": [
         {
@@ -659,31 +761,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 26.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to-do-pretty-well-with-switch-2-for-many-years-to-come",
           "titre": "Former Sony Exec Shuhei Yoshida Thinks Nintendo Is \"Going To Do Pretty Well\" With Switch 2 \"For Many Years To Come\""
-        }
-      ]
-    },
-    {
-      "id": "you-can-now-buy-more-than-44-000-games-for-5-or-less-on-stea",
-      "titre": "You can now buy more than 44,000 games for $5 or less on Steam",
-      "url": "https://www.pcgamer.com/games/steam-autumn-sale-2026/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.1,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/steam-autumn-sale-2026/",
-          "titre": "You can now buy more than 44,000 games for $5 or less on Steam"
         }
       ]
     },
@@ -695,13 +779,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-1st-october-north-america-plus-3-discounted-eshop-games-worth-a-look",
           "titre": "Nintendo Download: 1st October (North America) - Plus 3 Discounted eShop Games Worth A Look"
+        }
+      ]
+    },
+    {
+      "id": "ps5-s-kena-scars-of-kosmora-officially-delayed-into-2027-new",
+      "titre": "PS5's Kena: Scars of Kosmora Officially Delayed into 2027, New Details Revealed",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5s-kena-scars-of-kosmora-officially-delayed-into-2027-new-details-revealed",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 22.1,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5s-kena-scars-of-kosmora-officially-delayed-into-2027-new-details-revealed",
+          "titre": "PS5's Kena: Scars of Kosmora Officially Delayed into 2027, New Details Revealed"
         }
       ]
     },
@@ -713,7 +815,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.7,
+      "heures": 23.7,
       "chaleur": 5,
       "liens": [
         {
@@ -731,7 +833,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.5,
+      "heures": 24.5,
       "chaleur": 5,
       "liens": [
         {
@@ -742,20 +844,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-has-now-shut-down-mario-kart-tour",
-      "titre": "Nintendo Has Now Shut Down Mario Kart Tour",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-now-shut-down-mario-kart-tour",
+      "id": "round-up-the-reviews-for-minecraft-dungeons-ii-are-in",
+      "titre": "Round Up: The Reviews For Minecraft Dungeons II Are In",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-minecraft-dungeons-ii-are-in",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.7,
-      "chaleur": 5,
+      "heures": 4.4,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-now-shut-down-mario-kart-tour",
-          "titre": "Nintendo Has Now Shut Down Mario Kart Tour"
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-minecraft-dungeons-ii-are-in",
+          "titre": "Round Up: The Reviews For Minecraft Dungeons II Are In"
         }
       ]
     },
@@ -767,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -785,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -803,8 +905,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -821,8 +923,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -839,8 +941,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -857,8 +959,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -875,8 +977,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 13.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -893,8 +995,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -911,7 +1013,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.1,
       "chaleur": 3,
       "liens": [
         {
@@ -929,49 +1031,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/rpg/we-needed-a-potentially-infinite-resource-of-party-members-so-that-we-could-then-kill-them-entropy-dev-james-wragg-explains-how-you-fit-permadeath-in-a-party-rpg/",
           "titre": "'We needed a potentially infinite resource of party members so that we could then kill them:' Entropy dev James Wragg explains how you fit permadeath in a party RPG"
-        }
-      ]
-    },
-    {
-      "id": "at-last-i-can-build-a-home-out-of-raw-windows-vista-era-nost",
-      "titre": "At last: I can build a home out of raw Windows Vista-era nostalgia",
-      "url": "https://www.pcgamer.com/games/sim/at-last-i-can-build-a-home-out-of-raw-windows-vista-era-nostalgia/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/at-last-i-can-build-a-home-out-of-raw-windows-vista-era-nostalgia/",
-          "titre": "At last: I can build a home out of raw Windows Vista-era nostalgia"
-        }
-      ]
-    },
-    {
-      "id": "that-s-some-fiiiiine-lookin-milk-but-rust-devs-warn-that-cre",
-      "titre": "That's some fiiiiine lookin' milk, but Rust devs warn that 'cream is a more powerful consumable'",
-      "url": "https://www.pcgamer.com/games/survival-crafting/thats-some-fiiiiine-lookin-milk-but-rust-devs-warn-that-cream-is-a-more-powerful-consumable/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/thats-some-fiiiiine-lookin-milk-but-rust-devs-warn-that-cream-is-a-more-powerful-consumable/",
-          "titre": "That's some fiiiiine lookin' milk, but Rust devs warn that 'cream is a more powerful consumable'"
         }
       ]
     },
@@ -983,7 +1049,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +1067,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,7 +1085,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1037,7 +1103,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1055,7 +1121,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1073,7 +1139,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1091,85 +1157,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/croc-2-is-getting-the-remaster-treatment-later-this-month",
           "titre": "'Croc 2' Is Getting The Remaster Treatment Later This Month"
-        }
-      ]
-    },
-    {
-      "id": "ghost-of-yotei-complete-edition-review-an-expansion-worth-re",
-      "titre": "Ghost of Yotei Complete Edition review: An expansion worth returning for",
-      "url": "https://www.videogameschronicle.com/review/ghost-of-yotei-complete-edition/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 16.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/review/ghost-of-yotei-complete-edition/",
-          "titre": "Ghost of Yotei Complete Edition review: An expansion worth returning for"
-        }
-      ]
-    },
-    {
-      "id": "inin-relaunches-r-type-dimensions-3-with-a-free-digital-artb",
-      "titre": "ININ 'Relaunches' R-Type Dimensions 3 With A Free Digital Artbook",
-      "url": "https://www.nintendolife.com/news/2026/10/inin-relaunches-r-type-dimensions-3-with-a-free-digital-artbook",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 16.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/inin-relaunches-r-type-dimensions-3-with-a-free-digital-artbook",
-          "titre": "ININ 'Relaunches' R-Type Dimensions 3 With A Free Digital Artbook"
-        }
-      ]
-    },
-    {
-      "id": "retrospace-offers-a-huge-sci-fi-playground-for-inquisitive-s",
-      "titre": "RetroSpace offers a huge sci-fi playground for inquisitive space janitors, but I'm not that System Shocked by the tools at your disposal",
-      "url": "https://www.rockpapershotgun.com/retrospace-offers-a-huge-sci-fi-playground-for-inquisitive-space-janitors-but-im-not-that-system-shocked-by-the-tools-at-your-disposal",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 16.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/retrospace-offers-a-huge-sci-fi-playground-for-inquisitive-space-janitors-but-im-not-that-system-shocked-by-the-tools-at-your-disposal",
-          "titre": "RetroSpace offers a huge sci-fi playground for inquisitive space janitors, but I'm not that System Shocked by the tools at your disposal"
-        }
-      ]
-    },
-    {
-      "id": "lego-pok-mon-bosses-talk-the-divisive-smart-brick-sets-for-a",
-      "titre": "Lego Pokémon bosses talk the divisive Smart Brick, sets for adult fans, and what’s next",
-      "url": "https://www.videogameschronicle.com/features/lego-pokemon-bosses-talk-the-divisive-smart-brick-sets-for-adult-fans-and-whats-next/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 17.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/lego-pokemon-bosses-talk-the-divisive-smart-brick-sets-for-adult-fans-and-whats-next/",
-          "titre": "Lego Pokémon bosses talk the divisive Smart Brick, sets for adult fans, and what’s next"
         }
       ]
     }
