@@ -1,44 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "02/10/2026 à 04h22",
+  "collecte": "02/10/2026 à 06h27",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "xbox-is-not-for-sale-ceo-asha-sharma-says",
-      "titre": "'Xbox is not for sale,' CEO Asha Sharma says",
-      "url": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
-      "sources": [
-        "Eurogamer",
-        "Game Developer",
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 4,
-      "heures": 9.8,
-      "chaleur": 18,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
-          "titre": "'Xbox is not for sale,' CEO Asha Sharma says"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/xbox-is-not-for-sale-despite-all-of-the-layoffs-and-neat-repackaging-of-studios-within-microsofts-corporate-structure-ceo-asha-sharma-says",
-          "titre": "\"Xbox is not for sale\" despite all of the layoffs and neat repackaging of studios within Microsoft's corporate structure, CEO Asha Sharma says"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-not-for-sale-ceo-asha-sharma-console",
-          "titre": "\"Xbox is not for sale\": CEO Asha Sharma says \"we will do whatever it takes\" to turn the console maker's fortunes around"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/xbox-ceo-asha-sharma-insists-xbox-is-not-for-sale",
-          "titre": "Xbox CEO Asha Sharma insists \"Xbox is not for sale\""
-        }
-      ]
-    },
     {
       "id": "007-first-light-unveils-extended-operations-free-dlc-adds-ne",
       "titre": "007 First Light Unveils Extended Operations Free DLC - Adds New Game+, Photo Mode And Much More",
@@ -50,7 +14,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 0.5,
+      "heures": 2.5,
       "chaleur": 15,
       "liens": [
         {
@@ -76,6 +40,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "xbox-is-not-for-sale-ceo-asha-sharma-says",
+      "titre": "'Xbox is not for sale,' CEO Asha Sharma says",
+      "url": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
+      "sources": [
+        "Eurogamer",
+        "Game Developer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 11.8,
+      "chaleur": 15,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
+          "titre": "'Xbox is not for sale,' CEO Asha Sharma says"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/xbox-is-not-for-sale-despite-all-of-the-layoffs-and-neat-repackaging-of-studios-within-microsofts-corporate-structure-ceo-asha-sharma-says",
+          "titre": "\"Xbox is not for sale\" despite all of the layoffs and neat repackaging of studios within Microsoft's corporate structure, CEO Asha Sharma says"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-not-for-sale-ceo-asha-sharma-console",
+          "titre": "\"Xbox is not for sale\": CEO Asha Sharma says \"we will do whatever it takes\" to turn the console maker's fortunes around"
+        }
+      ]
+    },
+    {
       "id": "after-a-record-breaking-september-it-s-safe-to-say-steam-s-y",
       "titre": "After a record-breaking September, 'it's safe to say Steam's yearly revenue will blow past $20B for the first time'",
       "url": "https://www.pcgamer.com/software/platforms/after-a-record-breaking-september-its-safe-to-say-steams-yearly-revenue-will-blow-past-usd20b-for-the-first-time/",
@@ -83,37 +77,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.6,
       "chaleur": 10,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/software/platforms/after-a-record-breaking-september-its-safe-to-say-steams-yearly-revenue-will-blow-past-usd20b-for-the-first-time/",
           "titre": "After a record-breaking September, 'it's safe to say Steam's yearly revenue will blow past $20B for the first time'"
-        }
-      ]
-    },
-    {
-      "id": "cd-projekt-red-says-it-s-working-on-fixes-for-witcher-3-rema",
-      "titre": "CD Projekt Red Says It's Working On Fixes For Witcher 3 Remastered",
-      "url": "https://www.nintendolife.com/news/2026/10/cd-projekt-red-says-its-working-on-fixes-for-witcher-3-remastered",
-      "sources": [
-        "Nintendo Life",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 2.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/cd-projekt-red-says-its-working-on-fixes-for-witcher-3-remastered",
-          "titre": "CD Projekt Red Says It's Working On Fixes For Witcher 3 Remastered"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-witcher-3-songs-of-the-pasts-setting-felt-like-a-really-natural-way-to-go-cd-projekt-red-story-director-says-while-parrying-my-attempts-to-breach-the-dlcs-guard",
-          "titre": "The Witcher 3: Songs of the Past's setting \"felt like a really natural way to go\", CD Projekt Red story director says, while parrying my attempts to breach the DLC's guard"
         }
       ]
     },
@@ -126,7 +96,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 13.4,
+      "heures": 15.5,
       "chaleur": 9,
       "liens": [
         {
@@ -151,7 +121,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 14.9,
+      "heures": 17.0,
       "chaleur": 9,
       "liens": [
         {
@@ -181,7 +151,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 18.3,
+      "heures": 20.4,
       "chaleur": 9,
       "liens": [
         {
@@ -202,38 +172,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "9-new-2026-games-on-sale-in-the-steam-autumn-sale",
-      "titre": "9 new 2026 games on sale in the Steam Autumn Sale",
-      "url": "https://www.pcgamer.com/software/platforms/9-new-2026-games-on-sale-in-the-steam-autumn-sale/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/platforms/9-new-2026-games-on-sale-in-the-steam-autumn-sale/",
-          "titre": "9 new 2026 games on sale in the Steam Autumn Sale"
-        }
-      ]
-    },
-    {
-      "id": "video-octopath-traveler-i-ii-side-by-side-graphics-compariso",
-      "titre": "Video: Octopath Traveler I & II Side-By-Side Graphics Comparison (Switch 1 & 2)",
-      "url": "https://www.nintendolife.com/news/2026/10/video-octopath-traveler-i-and-ii-side-by-side-graphics-comparison-switch-1-and-2",
+      "id": "capcom-admits-it-s-been-a-painstaking-process-porting-monste",
+      "titre": "Capcom Admits It's Been A \"Painstaking\" Process Porting Monster Hunter Wilds To Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wilds-to-switch-2",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.8,
+      "heures": 1.5,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/video-octopath-traveler-i-and-ii-side-by-side-graphics-comparison-switch-1-and-2",
-          "titre": "Video: Octopath Traveler I & II Side-By-Side Graphics Comparison (Switch 1 & 2)"
+          "url": "https://www.nintendolife.com/news/2026/10/capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wilds-to-switch-2",
+          "titre": "Capcom Admits It's Been A \"Painstaking\" Process Porting Monster Hunter Wilds To Switch 2"
         }
       ]
     },
@@ -246,7 +198,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 15.4,
+      "heures": 17.5,
       "chaleur": 8,
       "liens": [
         {
@@ -262,6 +214,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "cd-projekt-red-says-it-s-working-on-fixes-for-witcher-3-rema",
+      "titre": "CD Projekt Red Says It's Working On Fixes For Witcher 3 Remastered",
+      "url": "https://www.nintendolife.com/news/2026/10/cd-projekt-red-says-its-working-on-fixes-for-witcher-3-remastered",
+      "sources": [
+        "Nintendo Life",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 4.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/cd-projekt-red-says-its-working-on-fixes-for-witcher-3-remastered",
+          "titre": "CD Projekt Red Says It's Working On Fixes For Witcher 3 Remastered"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-witcher-3-songs-of-the-pasts-setting-felt-like-a-really-natural-way-to-go-cd-projekt-red-story-director-says-while-parrying-my-attempts-to-breach-the-dlcs-guard",
+          "titre": "The Witcher 3: Songs of the Past's setting \"felt like a really natural way to go\", CD Projekt Red story director says, while parrying my attempts to breach the DLC's guard"
+        }
+      ]
+    },
+    {
       "id": "sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for",
       "titre": "Sony Confirms Refined Version of Acclaimed PSSR Upscaler for Base PS5, with 'Remarkable' Potential",
       "url": "https://www.pushsquare.com/news/2026/10/sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for-base-ps5-with-remarkable-potential",
@@ -270,7 +246,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.9,
+      "heures": 12.0,
       "chaleur": 7,
       "liens": [
         {
@@ -502,20 +478,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "you-can-now-buy-more-than-44-000-games-for-5-or-less-on-stea",
-      "titre": "You can now buy more than 44,000 games for $5 or less on Steam",
-      "url": "https://www.pcgamer.com/games/steam-autumn-sale-2026/",
+      "id": "d-i-c-e-summit",
+      "titre": "D.I.C.E. Summit",
+      "url": "https://www.gamedeveloper.com/keyword/dice-summit",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/keyword/dice-summit",
+          "titre": "D.I.C.E. Summit"
+        }
+      ]
+    },
+    {
+      "id": "round-up-the-reviews-for-minecraft-dungeons-ii-are-in",
+      "titre": "Round Up: The Reviews For Minecraft Dungeons II Are In",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-minecraft-dungeons-ii-are-in",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-minecraft-dungeons-ii-are-in",
+          "titre": "Round Up: The Reviews For Minecraft Dungeons II Are In"
+        }
+      ]
+    },
+    {
+      "id": "9-new-2026-games-on-sale-in-the-steam-autumn-sale",
+      "titre": "9 new 2026 games on sale in the Steam Autumn Sale",
+      "url": "https://www.pcgamer.com/software/platforms/9-new-2026-games-on-sale-in-the-steam-autumn-sale/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.0,
+      "heures": 5.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/steam-autumn-sale-2026/",
-          "titre": "You can now buy more than 44,000 games for $5 or less on Steam"
+          "url": "https://www.pcgamer.com/software/platforms/9-new-2026-games-on-sale-in-the-steam-autumn-sale/",
+          "titre": "9 new 2026 games on sale in the Steam Autumn Sale"
+        }
+      ]
+    },
+    {
+      "id": "video-octopath-traveler-i-ii-side-by-side-graphics-compariso",
+      "titre": "Video: Octopath Traveler I & II Side-By-Side Graphics Comparison (Switch 1 & 2)",
+      "url": "https://www.nintendolife.com/news/2026/10/video-octopath-traveler-i-and-ii-side-by-side-graphics-comparison-switch-1-and-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/video-octopath-traveler-i-and-ii-side-by-side-graphics-comparison-switch-1-and-2",
+          "titre": "Video: Octopath Traveler I & II Side-By-Side Graphics Comparison (Switch 1 & 2)"
         }
       ]
     },
@@ -528,7 +558,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 6,
       "liens": [
         {
@@ -552,7 +582,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 14.0,
+      "heures": 16.1,
       "chaleur": 6,
       "liens": [
         {
@@ -568,30 +598,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ubisoft-workers-of-montreal-union-petition-to-preserve-hybri",
-      "titre": "Ubisoft Workers of Montreal Union petition to \"preserve hybrid work\" secures over 300 signatures",
-      "url": "https://www.gamesindustry.biz/ubisoft-workers-of-montreal-union-petition-to-preserve-hybrid-work-secures-over-300-signatures",
-      "sources": [
-        "Game Developer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 14.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/ubisoft-workers-of-montreal-union-petition-to-preserve-hybrid-work-secures-over-300-signatures",
-          "titre": "Ubisoft Workers of Montreal Union petition to \"preserve hybrid work\" secures over 300 signatures"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production/ubisoft-montreal-employees-launch-collective-action-to-preserve-hybrid-work-schedule",
-          "titre": "Ubisoft Montreal employees launch collective action to preserve hybrid work schedule"
-        }
-      ]
-    },
-    {
       "id": "gears-of-war-e-day-campaign-review-an-absolute-blast-even-if",
       "titre": "Gears of War E-Day campaign review: An absolute blast, even if it focuses on commotion over emotion",
       "url": "https://www.videogameschronicle.com/review/gears-of-war-e-day-campaign-review/",
@@ -600,7 +606,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 6,
       "liens": [
         {
@@ -624,7 +630,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 16.3,
+      "heures": 18.3,
       "chaleur": 6,
       "liens": [
         {
@@ -647,31 +653,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to-do-pretty-well-with-switch-2-for-many-years-to-come",
           "titre": "Former Sony Exec Shuhei Yoshida Thinks Nintendo Is \"Going To Do Pretty Well\" With Switch 2 \"For Many Years To Come\""
-        }
-      ]
-    },
-    {
-      "id": "nintendo-switch-2-system-update-23-0-1-is-now-live-here-are",
-      "titre": "Nintendo Switch 2 System Update 23.0.1 Is Now Live, Here Are The Full Patch Notes",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-switch-2-system-update-23-0-1-is-now-live-here-are-the-full-patch-notes",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 27.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-switch-2-system-update-23-0-1-is-now-live-here-are-the-full-patch-notes",
-          "titre": "Nintendo Switch 2 System Update 23.0.1 Is Now Live, Here Are The Full Patch Notes"
         }
       ]
     },
@@ -683,7 +671,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 33.4,
+      "heures": 35.5,
       "chaleur": 6,
       "liens": [
         {
@@ -694,20 +682,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-completely-re-engineered-rockstar-s-weather-systems-to",
-      "titre": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
-      "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
+      "id": "you-can-now-buy-more-than-44-000-games-for-5-or-less-on-stea",
+      "titre": "You can now buy more than 44,000 games for $5 or less on Steam",
+      "url": "https://www.pcgamer.com/games/steam-autumn-sale-2026/",
       "sources": [
-        "Eurogamer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 6,
+      "heures": 13.1,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
-          "titre": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/steam-autumn-sale-2026/",
+          "titre": "You can now buy more than 44,000 games for $5 or less on Steam"
         }
       ]
     },
@@ -719,7 +707,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.5,
       "chaleur": 5,
       "liens": [
         {
@@ -737,7 +725,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.7,
+      "heures": 19.8,
       "chaleur": 5,
       "liens": [
         {
@@ -755,7 +743,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.5,
+      "heures": 20.6,
       "chaleur": 5,
       "liens": [
         {
@@ -773,31 +761,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.6,
+      "heures": 26.7,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-now-shut-down-mario-kart-tour",
           "titre": "Nintendo Has Now Shut Down Mario Kart Tour"
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-hits-its-highest-ever-steam-concurrent-player",
-      "titre": "The Witcher 3 hits its highest-ever Steam concurrent player count following Remastered launch",
-      "url": "https://www.gamesindustry.biz/the-witcher-3-hits-its-highest-ever-steam-concurrent-player-count-following-remastered-launch",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/the-witcher-3-hits-its-highest-ever-steam-concurrent-player-count-following-remastered-launch",
-          "titre": "The Witcher 3 hits its highest-ever Steam concurrent player count following Remastered launch"
         }
       ]
     },
@@ -809,7 +779,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -827,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +815,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -863,7 +833,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +905,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +923,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +959,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +977,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1025,7 +995,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,8 +1013,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1061,8 +1031,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1079,8 +1049,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1097,8 +1067,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1115,8 +1085,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 14.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1133,7 +1103,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1151,7 +1121,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1169,7 +1139,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1187,7 +1157,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 15.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1196,9 +1166,25 @@ const VEILLE = {
           "titre": "RetroSpace offers a huge sci-fi playground for inquisitive space janitors, but I'm not that System Shocked by the tools at your disposal"
         }
       ]
+    },
+    {
+      "id": "lego-pok-mon-bosses-talk-the-divisive-smart-brick-sets-for-a",
+      "titre": "Lego Pokémon bosses talk the divisive Smart Brick, sets for adult fans, and what’s next",
+      "url": "https://www.videogameschronicle.com/features/lego-pokemon-bosses-talk-the-divisive-smart-brick-sets-for-adult-fans-and-whats-next/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 15.1,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/features/lego-pokemon-bosses-talk-the-divisive-smart-brick-sets-for-adult-fans-and-whats-next/",
+          "titre": "Lego Pokémon bosses talk the divisive Smart Brick, sets for adult fans, and what’s next"
+        }
+      ]
     }
   ],
-  "alertes": [
-    "007 First Light Unveils Extended Operations Free DLC - Adds New Game+, Photo Mode And Much More"
-  ]
+  "alertes": []
 };
