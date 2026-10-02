@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "02/10/2026 à 16h22",
+  "collecte": "02/10/2026 à 18h26",
   "seuil": 14,
   "sujets": [
     {
@@ -14,8 +14,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 3.4,
-      "chaleur": 15,
+      "heures": 5.4,
+      "chaleur": 13,
       "liens": [
         {
           "source": "Eurogamer",
@@ -40,6 +40,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "i-added-october-appropriate-zombies-to-grand-theft-auto-5",
+      "titre": "I added October-appropriate zombies to Grand Theft Auto 5",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-added-october-appropriate-zombies-to-grand-theft-auto-5/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 1.4,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-added-october-appropriate-zombies-to-grand-theft-auto-5/",
+          "titre": "I added October-appropriate zombies to Grand Theft Auto 5"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards",
+          "titre": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included"
+        }
+      ]
+    },
+    {
       "id": "miami-heat-nba-team-to-rebrand-as-vice-city-in-gta-6-marketi",
       "titre": "Miami Heat NBA team to rebrand as ‘Vice City’ in GTA 6 marketing stunt",
       "url": "https://www.videogameschronicle.com/news/miami-heat-nba-team-to-rebrand-as-vice-city-in-gta-6-marketing-stunt/",
@@ -48,7 +72,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.5,
+      "heures": 2.6,
       "chaleur": 12,
       "liens": [
         {
@@ -72,7 +96,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 11,
       "liens": [
         {
@@ -96,7 +120,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 21.8,
+      "heures": 23.8,
       "chaleur": 11,
       "liens": [
         {
@@ -112,6 +136,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "drug-use-nudity-and-sexual-fetishes-all-in-gta-6",
+      "titre": "Drug Use, Nudity, and Sexual Fetishes All in GTA 6",
+      "url": "https://www.pushsquare.com/news/2026/10/drug-use-nudity-and-sexual-fetishes-all-in-gta-6",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/drug-use-nudity-and-sexual-fetishes-all-in-gta-6",
+          "titre": "Drug Use, Nudity, and Sexual Fetishes All in GTA 6"
+        }
+      ]
+    },
+    {
+      "id": "this-is-your-dreamcast-moment-former-playstation-boss-think",
+      "titre": "\"This is your Dreamcast moment\": Former PlayStation boss thinks Xbox needs to \"pick a lane\" with exclusive games to fix itself",
+      "url": "https://www.eurogamer.net/dreamcast-moment-former-playstation-boss-xbox-exclusive-games",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dreamcast-moment-former-playstation-boss-xbox-exclusive-games",
+          "titre": "\"This is your Dreamcast moment\": Former PlayStation boss thinks Xbox needs to \"pick a lane\" with exclusive games to fix itself"
+        }
+      ]
+    },
+    {
+      "id": "kingdom-come-deliverance-2-boss-hopes-gta-6-pushes-game-pric",
+      "titre": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\"",
+      "url": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
+          "titre": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\""
+        }
+      ]
+    },
+    {
       "id": "warhorse-coo-wants-gta-6-to-set-a-new-80-price-standard-for",
       "titre": "Warhorse COO wants GTA 6 to set a new $80 price standard for triple-A games",
       "url": "https://www.videogameschronicle.com/news/warhorse-coo-wants-gta-6-to-set-a-new-80-price-standard-for-triple-a-games/",
@@ -119,55 +197,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.2,
       "chaleur": 9,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/warhorse-coo-wants-gta-6-to-set-a-new-80-price-standard-for-triple-a-games/",
           "titre": "Warhorse COO wants GTA 6 to set a new $80 price standard for triple-A games"
-        }
-      ]
-    },
-    {
-      "id": "grand-theft-auto-6-may-be-the-first-gta-to-have-full-on-sex",
-      "titre": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included",
-      "url": "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards",
-          "titre": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included"
-        }
-      ]
-    },
-    {
-      "id": "guide-upcoming-nintendo-switch-2-games-accessories-for-octob",
-      "titre": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For October & November 2026",
-      "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-october-and-november-2026",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 25.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-october-and-november-2026",
-          "titre": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For October & November 2026"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/playstation-ps-plus-games-lineup-october-2026",
-          "titre": "Here are our PS Plus monthly games for October 2026"
         }
       ]
     },
@@ -179,7 +215,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 8,
       "liens": [
         {
@@ -197,49 +233,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 8,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/the-father-of-playstation-thinks-games-have-stagnated-calls-for-curiosity-in-developers",
           "titre": "The Father of PlayStation Thinks Games Have Stagnated, Calls for Curiosity in Developers"
-        }
-      ]
-    },
-    {
-      "id": "poll-did-you-manage-to-get-tickets-to-the-zelda-40th-anniver",
-      "titre": "Poll: Did You Manage To Get Tickets To The Zelda 40th Anniversary Concert?",
-      "url": "https://www.nintendolife.com/features/poll-did-you-manage-to-get-tickets-to-the-zelda-40th-anniversary-concert",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/poll-did-you-manage-to-get-tickets-to-the-zelda-40th-anniversary-concert",
-          "titre": "Poll: Did You Manage To Get Tickets To The Zelda 40th Anniversary Concert?"
-        }
-      ]
-    },
-    {
-      "id": "halo-s-new-steward-activision-reportedly-considering-rebooti",
-      "titre": "Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge",
-      "url": "https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot",
-          "titre": "Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge"
         }
       ]
     },
@@ -252,7 +252,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 5.1,
+      "heures": 7.2,
       "chaleur": 7,
       "liens": [
         {
@@ -276,7 +276,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 5.2,
+      "heures": 7.3,
       "chaleur": 7,
       "liens": [
         {
@@ -300,7 +300,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 6.9,
+      "heures": 9.0,
       "chaleur": 7,
       "liens": [
         {
@@ -312,24 +312,6 @@ const VEILLE = {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/krafton-pulls-the-plug-on-another-pubg-game-black-budget-less-than-a-year-after-it-was-announced",
           "titre": "Krafton pulls the plug on another PUBG game, Black Budget, less than a year after it was announced"
-        }
-      ]
-    },
-    {
-      "id": "after-a-record-breaking-september-it-s-safe-to-say-steam-s-y",
-      "titre": "After a record-breaking September, 'it's safe to say Steam's yearly revenue will blow past $20B for the first time'",
-      "url": "https://www.pcgamer.com/software/platforms/after-a-record-breaking-september-its-safe-to-say-steams-yearly-revenue-will-blow-past-usd20b-for-the-first-time/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/platforms/after-a-record-breaking-september-its-safe-to-say-steams-yearly-revenue-will-blow-past-usd20b-for-the-first-time/",
-          "titre": "After a record-breaking September, 'it's safe to say Steam's yearly revenue will blow past $20B for the first time'"
         }
       ]
     },
@@ -568,6 +550,96 @@ const VEILLE = {
       ]
     },
     {
+      "id": "7-musical-clips-of-this-incredibly-charming-magical-school-l",
+      "titre": "7 musical clips of this incredibly charming magical school life sim with its goofy classmates and delightful soundtrack",
+      "url": "https://www.pcgamer.com/games/life-sim/7-musical-clips-of-this-incredibly-charming-magical-school-life-sim-with-its-goofy-classmates-and-delightful-soundtrack/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/life-sim/7-musical-clips-of-this-incredibly-charming-magical-school-life-sim-with-its-goofy-classmates-and-delightful-soundtrack/",
+          "titre": "7 musical clips of this incredibly charming magical school life sim with its goofy classmates and delightful soundtrack"
+        }
+      ]
+    },
+    {
+      "id": "dear-former-nfl-head-coach-mike-tomlin-your-12-year-minecraf",
+      "titre": "Dear former NFL head coach Mike Tomlin: Your 12-year Minecraft city is beautiful",
+      "url": "https://www.pcgamer.com/games/survival-crafting/dear-former-nfl-head-coach-mike-tomlin-your-12-year-minecraft-city-is-beautiful/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/dear-former-nfl-head-coach-mike-tomlin-your-12-year-minecraft-city-is-beautiful/",
+          "titre": "Dear former NFL head coach Mike Tomlin: Your 12-year Minecraft city is beautiful"
+        }
+      ]
+    },
+    {
+      "id": "sony-s-quietly-improved-base-ps5-hardware-with-a-number-of-i",
+      "titre": "Sony's Quietly Improved Base PS5 Hardware with a Number of Internal Optimisations",
+      "url": "https://www.pushsquare.com/news/2026/10/sonys-quietly-improved-base-ps5-hardware-with-a-number-of-internal-optimisations",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sonys-quietly-improved-base-ps5-hardware-with-a-number-of-internal-optimisations",
+          "titre": "Sony's Quietly Improved Base PS5 Hardware with a Number of Internal Optimisations"
+        }
+      ]
+    },
+    {
+      "id": "epic-s-october-free-games-include-system-shock-2-s-25th-anni",
+      "titre": "Epic’s October free games include System Shock 2’s 25th anniversary remaster",
+      "url": "https://www.videogameschronicle.com/news/epics-october-free-games-include-system-shock-2s-25th-anniversary-remaster/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/epics-october-free-games-include-system-shock-2s-25th-anniversary-remaster/",
+          "titre": "Epic’s October free games include System Shock 2’s 25th anniversary remaster"
+        }
+      ]
+    },
+    {
+      "id": "toy-story-3-complete-edition-s-ps5-trophy-list-echoes-the-or",
+      "titre": "Toy Story 3 Complete Edition's PS5 Trophy List Echoes the Original with a Few New Additions",
+      "url": "https://www.pushsquare.com/news/2026/10/toy-story-3-complete-editions-ps5-trophy-list-echoes-the-original-with-a-few-new-additions",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/toy-story-3-complete-editions-ps5-trophy-list-echoes-the-original-with-a-few-new-additions",
+          "titre": "Toy Story 3 Complete Edition's PS5 Trophy List Echoes the Original with a Few New Additions"
+        }
+      ]
+    },
+    {
       "id": "desktop-and-handheld-prices-going-out-of-control-means-pc-ba",
       "titre": "Desktop and handheld prices going out of control means PC bargain hunts lead to my old enemy: gaming laptops",
       "url": "https://www.rockpapershotgun.com/desktop-and-handheld-prices-going-out-of-control-means-pc-bargain-hunts-lead-to-my-old-enemy-gaming-laptops",
@@ -575,7 +647,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -593,7 +665,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -611,7 +683,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -629,7 +701,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
@@ -647,7 +719,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -665,7 +737,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -683,7 +755,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -701,7 +773,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -719,7 +791,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -737,7 +809,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -748,146 +820,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "limited-edition-lisa-ps5-controller-available-now-but-sellin",
-      "titre": "Limited Edition Lisa PS5 Controller Available Now, But Selling Out Fast",
-      "url": "https://www.pushsquare.com/news/2026/10/limited-edition-lisa-ps5-controller-available-now-but-selling-out-fast",
+      "id": "poll-did-you-manage-to-get-tickets-to-the-zelda-40th-anniver",
+      "titre": "Poll: Did You Manage To Get Tickets To The Zelda 40th Anniversary Concert?",
+      "url": "https://www.nintendolife.com/features/poll-did-you-manage-to-get-tickets-to-the-zelda-40th-anniversary-concert",
       "sources": [
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 4.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/limited-edition-lisa-ps5-controller-available-now-but-selling-out-fast",
-          "titre": "Limited Edition Lisa PS5 Controller Available Now, But Selling Out Fast"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/poll-did-you-manage-to-get-tickets-to-the-zelda-40th-anniversary-concert",
+          "titre": "Poll: Did You Manage To Get Tickets To The Zelda 40th Anniversary Concert?"
         }
       ]
     },
     {
-      "id": "podcast-why-we-re-ready-for-a-new-uncharted-game",
-      "titre": "Podcast: Why we’re ready for a new Uncharted game",
-      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-why-were-ready-for-a-new-uncharted-game/",
+      "id": "halo-s-new-steward-activision-reportedly-considering-rebooti",
+      "titre": "Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge",
+      "url": "https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot",
       "sources": [
-        "VGC"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.1,
+      "heures": 5.2,
       "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-why-were-ready-for-a-new-uncharted-game/",
-          "titre": "Podcast: Why we’re ready for a new Uncharted game"
-        }
-      ]
-    },
-    {
-      "id": "aion-2-ascension-gauge-how-to-quickly-raise-the-ascension-ga",
-      "titre": "Aion 2 Ascension Gauge: How to quickly raise the Ascension Gauge to continue Episodes",
-      "url": "https://www.videogameschronicle.com/guide/aion-2-ascension-gauge-how-to-quickly-raise-the-ascension-gauge-to-continue-episodes/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/aion-2-ascension-gauge-how-to-quickly-raise-the-ascension-gauge-to-continue-episodes/",
-          "titre": "Aion 2 Ascension Gauge: How to quickly raise the Ascension Gauge to continue Episodes"
-        }
-      ]
-    },
-    {
-      "id": "ram-shortages-are-only-getting-worse-and-will-last-until-at",
-      "titre": "RAM shortages are only getting worse and will last until at least 2028, Micron boss declares from atop a mountain of money",
-      "url": "https://www.rockpapershotgun.com/ram-shortages-are-only-getting-worse-and-will-last-until-at-least-2028-micron-boss-declares-from-atop-a-mountain-of-money",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ram-shortages-are-only-getting-worse-and-will-last-until-at-least-2028-micron-boss-declares-from-atop-a-mountain-of-money",
-          "titre": "RAM shortages are only getting worse and will last until at least 2028, Micron boss declares from atop a mountain of money"
-        }
-      ]
-    },
-    {
-      "id": "bungie-co-founder-and-destiny-2-narrative-director-launch-tr",
-      "titre": "Bungie co-founder and Destiny 2 narrative director launch transmedia studio Stone Kite",
-      "url": "https://www.gamesindustry.biz/bungie-co-founder-and-destiny-2-narrative-director-launch-transmedia-studio-stone-kite",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/bungie-co-founder-and-destiny-2-narrative-director-launch-transmedia-studio-stone-kite",
-          "titre": "Bungie co-founder and Destiny 2 narrative director launch transmedia studio Stone Kite"
-        }
-      ]
-    },
-    {
-      "id": "final-fantasy-7-revelation-director-on-its-very-extravagant",
-      "titre": "Final Fantasy 7 Revelation director on its \"very extravagant\" final Sephiroth fight and whether anyone will ever pull something like this trilogy off again",
-      "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-director-on-its-very-extravagant-final-sephiroth-fight-and-whether-anyone-will-ever-pull-something-like-this-trilogy-off-again/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-director-on-its-very-extravagant-final-sephiroth-fight-and-whether-anyone-will-ever-pull-something-like-this-trilogy-off-again/",
-          "titre": "Final Fantasy 7 Revelation director on its \"very extravagant\" final Sephiroth fight and whether anyone will ever pull something like this trilogy off again"
-        }
-      ]
-    },
-    {
-      "id": "signal-veil-is-a-ps5-horror-game-with-a-style-unlike-any-oth",
-      "titre": "Signal Veil Is a PS5 Horror Game with a Style Unlike Any Other",
-      "url": "https://www.pushsquare.com/news/2026/10/signal-veil-is-a-ps5-horror-game-with-a-style-unlike-any-other",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/signal-veil-is-a-ps5-horror-game-with-a-style-unlike-any-other",
-          "titre": "Signal Veil Is a PS5 Horror Game with a Style Unlike Any Other"
-        }
-      ]
-    },
-    {
-      "id": "dynasty-warriors-producer-says-he-d-rather-not-make-more-rem",
-      "titre": "Dynasty Warriors producer says he’d rather not make more remasters, because he doesn’t know how many more games he has left",
-      "url": "https://www.videogameschronicle.com/news/dynasty-warriors-producer-says-hed-rather-not-make-more-remasters-because-he-doesnt-know-how-many-more-games-he-has-left/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/dynasty-warriors-producer-says-hed-rather-not-make-more-remasters-because-he-doesnt-know-how-many-more-games-he-has-left/",
-          "titre": "Dynasty Warriors producer says he’d rather not make more remasters, because he doesn’t know how many more games he has left"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot",
+          "titre": "Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge"
         }
       ]
     },
@@ -899,49 +863,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/vr-hardware/turns-out-you-can-download-more-battery-as-valves-latest-update-for-steam-frame-adds-up-to-12-percent/",
           "titre": "Turns out you can download more battery as Valve's latest update for Steam Frame adds up to 12%"
-        }
-      ]
-    },
-    {
-      "id": "the-latest-ps5-slim-model-reportedly-changes-some-components",
-      "titre": "The latest PS5 Slim model reportedly changes some components, including a replaceable CMOS battery and revised cooling",
-      "url": "https://www.videogameschronicle.com/news/the-latest-ps5-slim-model-reportedly-changes-some-components-including-a-replaceable-cmos-battery-and-revised-cooling/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-latest-ps5-slim-model-reportedly-changes-some-components-including-a-replaceable-cmos-battery-and-revised-cooling/",
-          "titre": "The latest PS5 Slim model reportedly changes some components, including a replaceable CMOS battery and revised cooling"
-        }
-      ]
-    },
-    {
-      "id": "capcom-admits-it-s-been-a-painstaking-process-porting-monste",
-      "titre": "Capcom Admits It's Been A \"Painstaking\" Process Porting Monster Hunter Wilds To Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wilds-to-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wilds-to-switch-2",
-          "titre": "Capcom Admits It's Been A \"Painstaking\" Process Porting Monster Hunter Wilds To Switch 2"
         }
       ]
     },
@@ -954,7 +882,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 12.5,
+      "heures": 14.5,
       "chaleur": 6,
       "liens": [
         {
@@ -970,20 +898,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "9-new-2026-games-on-sale-in-the-steam-autumn-sale",
-      "titre": "9 new 2026 games on sale in the Steam Autumn Sale",
-      "url": "https://www.pcgamer.com/software/platforms/9-new-2026-games-on-sale-in-the-steam-autumn-sale/",
+      "id": "guide-upcoming-nintendo-switch-2-games-accessories-for-octob",
+      "titre": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For October & November 2026",
+      "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-october-and-november-2026",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 27.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-october-and-november-2026",
+          "titre": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For October & November 2026"
+        }
+      ]
+    },
+    {
+      "id": "capcom-admits-it-s-been-a-painstaking-process-porting-monste",
+      "titre": "Capcom Admits It's Been A \"Painstaking\" Process Porting Monster Hunter Wilds To Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wilds-to-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.5,
       "chaleur": 5,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/platforms/9-new-2026-games-on-sale-in-the-steam-autumn-sale/",
-          "titre": "9 new 2026 games on sale in the Steam Autumn Sale"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wilds-to-switch-2",
+          "titre": "Capcom Admits It's Been A \"Painstaking\" Process Porting Monster Hunter Wilds To Switch 2"
         }
       ]
     },
@@ -995,7 +941,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.9,
       "chaleur": 5,
       "liens": [
         {
@@ -1013,7 +959,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 27.5,
       "chaleur": 5,
       "liens": [
         {
@@ -1031,7 +977,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.7,
+      "heures": 31.8,
       "chaleur": 5,
       "liens": [
         {
@@ -1042,20 +988,146 @@ const VEILLE = {
       ]
     },
     {
-      "id": "as-xbox-swings-the-axe-gears-of-war-e-day-developers-fear-th",
-      "titre": "As Xbox swings the axe, Gears of War: E-Day developers fear they'll be laid off straight after launch - and right before they'd be due their bonuses",
-      "url": "https://www.eurogamer.net/the-coalition-gears-of-war-e-day-worried-layoffs-no-bonus",
+      "id": "limited-edition-lisa-ps5-controller-available-now-but-sellin",
+      "titre": "Limited Edition Lisa PS5 Controller Available Now, But Selling Out Fast",
+      "url": "https://www.pushsquare.com/news/2026/10/limited-edition-lisa-ps5-controller-available-now-but-selling-out-fast",
       "sources": [
-        "Eurogamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 30.5,
-      "chaleur": 5,
+      "heures": 4.0,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/the-coalition-gears-of-war-e-day-worried-layoffs-no-bonus",
-          "titre": "As Xbox swings the axe, Gears of War: E-Day developers fear they'll be laid off straight after launch - and right before they'd be due their bonuses"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/limited-edition-lisa-ps5-controller-available-now-but-selling-out-fast",
+          "titre": "Limited Edition Lisa PS5 Controller Available Now, But Selling Out Fast"
+        }
+      ]
+    },
+    {
+      "id": "podcast-why-we-re-ready-for-a-new-uncharted-game",
+      "titre": "Podcast: Why we’re ready for a new Uncharted game",
+      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-why-were-ready-for-a-new-uncharted-game/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-why-were-ready-for-a-new-uncharted-game/",
+          "titre": "Podcast: Why we’re ready for a new Uncharted game"
+        }
+      ]
+    },
+    {
+      "id": "aion-2-ascension-gauge-how-to-quickly-raise-the-ascension-ga",
+      "titre": "Aion 2 Ascension Gauge: How to quickly raise the Ascension Gauge to continue Episodes",
+      "url": "https://www.videogameschronicle.com/guide/aion-2-ascension-gauge-how-to-quickly-raise-the-ascension-gauge-to-continue-episodes/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/aion-2-ascension-gauge-how-to-quickly-raise-the-ascension-gauge-to-continue-episodes/",
+          "titre": "Aion 2 Ascension Gauge: How to quickly raise the Ascension Gauge to continue Episodes"
+        }
+      ]
+    },
+    {
+      "id": "ram-shortages-are-only-getting-worse-and-will-last-until-at",
+      "titre": "RAM shortages are only getting worse and will last until at least 2028, Micron boss declares from atop a mountain of money",
+      "url": "https://www.rockpapershotgun.com/ram-shortages-are-only-getting-worse-and-will-last-until-at-least-2028-micron-boss-declares-from-atop-a-mountain-of-money",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/ram-shortages-are-only-getting-worse-and-will-last-until-at-least-2028-micron-boss-declares-from-atop-a-mountain-of-money",
+          "titre": "RAM shortages are only getting worse and will last until at least 2028, Micron boss declares from atop a mountain of money"
+        }
+      ]
+    },
+    {
+      "id": "bungie-co-founder-and-destiny-2-narrative-director-launch-tr",
+      "titre": "Bungie co-founder and Destiny 2 narrative director launch transmedia studio Stone Kite",
+      "url": "https://www.gamesindustry.biz/bungie-co-founder-and-destiny-2-narrative-director-launch-transmedia-studio-stone-kite",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/bungie-co-founder-and-destiny-2-narrative-director-launch-transmedia-studio-stone-kite",
+          "titre": "Bungie co-founder and Destiny 2 narrative director launch transmedia studio Stone Kite"
+        }
+      ]
+    },
+    {
+      "id": "final-fantasy-7-revelation-director-on-its-very-extravagant",
+      "titre": "Final Fantasy 7 Revelation director on its 'very extravagant' final Sephiroth fight and whether anyone will ever pull something like this trilogy off again",
+      "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-director-on-its-very-extravagant-final-sephiroth-fight-and-whether-anyone-will-ever-pull-something-like-this-trilogy-off-again/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-director-on-its-very-extravagant-final-sephiroth-fight-and-whether-anyone-will-ever-pull-something-like-this-trilogy-off-again/",
+          "titre": "Final Fantasy 7 Revelation director on its 'very extravagant' final Sephiroth fight and whether anyone will ever pull something like this trilogy off again"
+        }
+      ]
+    },
+    {
+      "id": "signal-veil-is-a-ps5-horror-game-with-a-style-unlike-any-oth",
+      "titre": "Signal Veil Is a PS5 Horror Game with a Style Unlike Any Other",
+      "url": "https://www.pushsquare.com/news/2026/10/signal-veil-is-a-ps5-horror-game-with-a-style-unlike-any-other",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/signal-veil-is-a-ps5-horror-game-with-a-style-unlike-any-other",
+          "titre": "Signal Veil Is a PS5 Horror Game with a Style Unlike Any Other"
+        }
+      ]
+    },
+    {
+      "id": "dynasty-warriors-producer-says-he-d-rather-not-make-more-rem",
+      "titre": "Dynasty Warriors producer says he’d rather not make more remasters, because he doesn’t know how many more games he has left",
+      "url": "https://www.videogameschronicle.com/news/dynasty-warriors-producer-says-hed-rather-not-make-more-remasters-because-he-doesnt-know-how-many-more-games-he-has-left/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/dynasty-warriors-producer-says-hed-rather-not-make-more-remasters-because-he-doesnt-know-how-many-more-games-he-has-left/",
+          "titre": "Dynasty Warriors producer says he’d rather not make more remasters, because he doesn’t know how many more games he has left"
         }
       ]
     },
@@ -1067,85 +1139,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/gaming-mice/in-my-quest-to-find-the-perfect-mouse-for-me-ive-ended-up-with-two-completely-different-ones/",
           "titre": "In my quest to find the perfect mouse for me, I've ended up with two completely different ones"
-        }
-      ]
-    },
-    {
-      "id": "metal-desks-nearly-destroyed-a-valorant-tournament",
-      "titre": "Metal desks nearly destroyed a Valorant tournament",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/metal-desks-nearly-destroyed-a-valorant-tournament/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-mice/metal-desks-nearly-destroyed-a-valorant-tournament/",
-          "titre": "Metal desks nearly destroyed a Valorant tournament"
-        }
-      ]
-    },
-    {
-      "id": "ai-generated-fallout-new-york-browser-game-full-of-utterly-c",
-      "titre": "AI-generated Fallout: New York browser game full of utterly cursed faces slapped with Bethesda cease and desist, its slop prompter claims",
-      "url": "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 4.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims",
-          "titre": "AI-generated Fallout: New York browser game full of utterly cursed faces slapped with Bethesda cease and desist, its slop prompter claims"
-        }
-      ]
-    },
-    {
-      "id": "reigns-developer-nerial-closes-following-significant-trading",
-      "titre": "Reigns developer Nerial closes following \"significant trading losses\" over past two years",
-      "url": "https://www.gamesindustry.biz/reigns-developer-nerial-closes-following-significant-trading-losses-over-past-two-years",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 5.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/reigns-developer-nerial-closes-following-significant-trading-losses-over-past-two-years",
-          "titre": "Reigns developer Nerial closes following \"significant trading losses\" over past two years"
-        }
-      ]
-    },
-    {
-      "id": "skyrim-lead-designer-says-he-hopes-the-elder-scrolls-6-adds",
-      "titre": "Skyrim lead designer says he hopes The Elder Scrolls 6 adds boats and naval combat, as it would be a ‘natural’ fit",
-      "url": "https://www.videogameschronicle.com/news/skyrim-lead-designer-says-he-hopes-the-elder-scrolls-6-adds-boats-and-naval-combat-as-it-would-be-a-natural-fit/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/skyrim-lead-designer-says-he-hopes-the-elder-scrolls-6-adds-boats-and-naval-combat-as-it-would-be-a-natural-fit/",
-          "titre": "Skyrim lead designer says he hopes The Elder Scrolls 6 adds boats and naval combat, as it would be a ‘natural’ fit"
         }
       ]
     }
