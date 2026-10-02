@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "02/10/2026 à 06h27",
+  "collecte": "02/10/2026 à 08h24",
   "seuil": 14,
   "sujets": [
     {
@@ -14,8 +14,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 2.5,
-      "chaleur": 15,
+      "heures": 4.5,
+      "chaleur": 13,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -44,13 +44,12 @@ const VEILLE = {
       "titre": "'Xbox is not for sale,' CEO Asha Sharma says",
       "url": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
       "sources": [
-        "Eurogamer",
         "Game Developer",
         "Rock Paper Shotgun"
       ],
-      "reprises": 3,
-      "heures": 11.8,
-      "chaleur": 15,
+      "reprises": 2,
+      "heures": 13.8,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Game Developer",
@@ -61,29 +60,6 @@ const VEILLE = {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/xbox-is-not-for-sale-despite-all-of-the-layoffs-and-neat-repackaging-of-studios-within-microsofts-corporate-structure-ceo-asha-sharma-says",
           "titre": "\"Xbox is not for sale\" despite all of the layoffs and neat repackaging of studios within Microsoft's corporate structure, CEO Asha Sharma says"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-not-for-sale-ceo-asha-sharma-console",
-          "titre": "\"Xbox is not for sale\": CEO Asha Sharma says \"we will do whatever it takes\" to turn the console maker's fortunes around"
-        }
-      ]
-    },
-    {
-      "id": "after-a-record-breaking-september-it-s-safe-to-say-steam-s-y",
-      "titre": "After a record-breaking September, 'it's safe to say Steam's yearly revenue will blow past $20B for the first time'",
-      "url": "https://www.pcgamer.com/software/platforms/after-a-record-breaking-september-its-safe-to-say-steams-yearly-revenue-will-blow-past-usd20b-for-the-first-time/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/platforms/after-a-record-breaking-september-its-safe-to-say-steams-yearly-revenue-will-blow-past-usd20b-for-the-first-time/",
-          "titre": "After a record-breaking September, 'it's safe to say Steam's yearly revenue will blow past $20B for the first time'"
         }
       ]
     },
@@ -96,7 +72,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 15.5,
+      "heures": 17.4,
       "chaleur": 9,
       "liens": [
         {
@@ -121,7 +97,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 17.0,
+      "heures": 18.9,
       "chaleur": 9,
       "liens": [
         {
@@ -142,36 +118,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-division-developers-massive-are-now-the-global-brand-in",
-      "titre": "The Division developers Massive are now \"the global brand\" in charge of Splinter Cell and Ghost Recon, alongside a new Ubisoft dieselpunk MOBA",
-      "url": "https://www.rockpapershotgun.com/the-division-developers-massive-are-now-the-global-brand-in-charge-of-splinter-cell-and-ghost-recon-alongside-a-new-ubisoft-dieselpunk-moba",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 20.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-division-developers-massive-are-now-the-global-brand-in-charge-of-splinter-cell-and-ghost-recon-alongside-a-new-ubisoft-dieselpunk-moba",
-          "titre": "The Division developers Massive are now \"the global brand\" in charge of Splinter Cell and Ghost Recon, alongside a new Ubisoft dieselpunk MOBA"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/massive-entertainment-the-division-splinter-cell-ghost-recon",
-          "titre": "The Division studio Massive expands to take control of Splinter Cell and Ghost Recon, and a new IP, in Ubisoft's most recent reorganisation"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/ubisoft-renames-creative-house-2-home-of-the-division-ghost-recon-and-splinter-cell-as-massive-entertainment",
-          "titre": "Ubisoft renames Creative House 2, home of The Division, Ghost Recon and Splinter Cell, as Massive Entertainment"
-        }
-      ]
-    },
-    {
       "id": "capcom-admits-it-s-been-a-painstaking-process-porting-monste",
       "titre": "Capcom Admits It's Been A \"Painstaking\" Process Porting Monster Hunter Wilds To Switch 2",
       "url": "https://www.nintendolife.com/news/2026/10/capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wilds-to-switch-2",
@@ -179,13 +125,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wilds-to-switch-2",
           "titre": "Capcom Admits It's Been A \"Painstaking\" Process Porting Monster Hunter Wilds To Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "after-a-record-breaking-september-it-s-safe-to-say-steam-s-y",
+      "titre": "After a record-breaking September, 'it's safe to say Steam's yearly revenue will blow past $20B for the first time'",
+      "url": "https://www.pcgamer.com/software/platforms/after-a-record-breaking-september-its-safe-to-say-steams-yearly-revenue-will-blow-past-usd20b-for-the-first-time/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/platforms/after-a-record-breaking-september-its-safe-to-say-steams-yearly-revenue-will-blow-past-usd20b-for-the-first-time/",
+          "titre": "After a record-breaking September, 'it's safe to say Steam's yearly revenue will blow past $20B for the first time'"
         }
       ]
     },
@@ -198,7 +162,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 17.5,
+      "heures": 19.5,
       "chaleur": 8,
       "liens": [
         {
@@ -222,7 +186,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 4.5,
+      "heures": 6.5,
       "chaleur": 7,
       "liens": [
         {
@@ -234,30 +198,6 @@ const VEILLE = {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/the-witcher-3-songs-of-the-pasts-setting-felt-like-a-really-natural-way-to-go-cd-projekt-red-story-director-says-while-parrying-my-attempts-to-breach-the-dlcs-guard",
           "titre": "The Witcher 3: Songs of the Past's setting \"felt like a really natural way to go\", CD Projekt Red story director says, while parrying my attempts to breach the DLC's guard"
-        }
-      ]
-    },
-    {
-      "id": "sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for",
-      "titre": "Sony Confirms Refined Version of Acclaimed PSSR Upscaler for Base PS5, with 'Remarkable' Potential",
-      "url": "https://www.pushsquare.com/news/2026/10/sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for-base-ps5-with-remarkable-potential",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 12.0,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for-base-ps5-with-remarkable-potential",
-          "titre": "Sony Confirms Refined Version of Acclaimed PSSR Upscaler for Base PS5, with 'Remarkable' Potential"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/remarkable-sony-reveals-new-ps5-upscaler-tech-qssr/",
-          "titre": "‘Remarkable’: Sony reveals new PS5 upscaler tech, QSSR"
         }
       ]
     },
@@ -496,6 +436,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "krafton-shuts-down-pubg-spin-off-black-budget-nine-months-af",
+      "titre": "Krafton shuts down PUBG spin-off Black Budget nine months after closed alpha test",
+      "url": "https://www.gamesindustry.biz/krafton-shuts-down-pubg-spin-off-black-budget-nine-months-after-closed-alpha-test",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/krafton-shuts-down-pubg-spin-off-black-budget-nine-months-after-closed-alpha-test",
+          "titre": "Krafton shuts down PUBG spin-off Black Budget nine months after closed alpha test"
+        }
+      ]
+    },
+    {
       "id": "round-up-the-reviews-for-minecraft-dungeons-ii-are-in",
       "titre": "Round Up: The Reviews For Minecraft Dungeons II Are In",
       "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-minecraft-dungeons-ii-are-in",
@@ -503,7 +461,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -521,7 +479,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.6,
       "chaleur": 6,
       "liens": [
         {
@@ -539,13 +497,37 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/video-octopath-traveler-i-and-ii-side-by-side-graphics-comparison-switch-1-and-2",
           "titre": "Video: Octopath Traveler I & II Side-By-Side Graphics Comparison (Switch 1 & 2)"
+        }
+      ]
+    },
+    {
+      "id": "sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for",
+      "titre": "Sony Confirms Refined Version of Acclaimed PSSR Upscaler for Base PS5, with 'Remarkable' Potential",
+      "url": "https://www.pushsquare.com/news/2026/10/sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for-base-ps5-with-remarkable-potential",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 13.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for-base-ps5-with-remarkable-potential",
+          "titre": "Sony Confirms Refined Version of Acclaimed PSSR Upscaler for Base PS5, with 'Remarkable' Potential"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/remarkable-sony-reveals-new-ps5-upscaler-tech-qssr/",
+          "titre": "‘Remarkable’: Sony reveals new PS5 upscaler tech, QSSR"
         }
       ]
     },
@@ -558,7 +540,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 6,
       "liens": [
         {
@@ -582,7 +564,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 16.1,
+      "heures": 18.0,
       "chaleur": 6,
       "liens": [
         {
@@ -606,7 +588,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 6,
       "liens": [
         {
@@ -630,7 +612,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 18.3,
+      "heures": 20.3,
       "chaleur": 6,
       "liens": [
         {
@@ -646,6 +628,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "the-division-developers-massive-are-now-the-global-brand-in",
+      "titre": "The Division developers Massive are now \"the global brand\" in charge of Splinter Cell and Ghost Recon, alongside a new Ubisoft dieselpunk MOBA",
+      "url": "https://www.rockpapershotgun.com/the-division-developers-massive-are-now-the-global-brand-in-charge-of-splinter-cell-and-ghost-recon-alongside-a-new-ubisoft-dieselpunk-moba",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 22.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-division-developers-massive-are-now-the-global-brand-in-charge-of-splinter-cell-and-ghost-recon-alongside-a-new-ubisoft-dieselpunk-moba",
+          "titre": "The Division developers Massive are now \"the global brand\" in charge of Splinter Cell and Ghost Recon, alongside a new Ubisoft dieselpunk MOBA"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/massive-entertainment-the-division-splinter-cell-ghost-recon",
+          "titre": "The Division studio Massive expands to take control of Splinter Cell and Ghost Recon, and a new IP, in Ubisoft's most recent reorganisation"
+        }
+      ]
+    },
+    {
       "id": "former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to",
       "titre": "Former Sony Exec Shuhei Yoshida Thinks Nintendo Is \"Going To Do Pretty Well\" With Switch 2 \"For Many Years To Come\"",
       "url": "https://www.nintendolife.com/news/2026/10/former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to-do-pretty-well-with-switch-2-for-many-years-to-come",
@@ -653,31 +659,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.5,
+      "heures": 24.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to-do-pretty-well-with-switch-2-for-many-years-to-come",
           "titre": "Former Sony Exec Shuhei Yoshida Thinks Nintendo Is \"Going To Do Pretty Well\" With Switch 2 \"For Many Years To Come\""
-        }
-      ]
-    },
-    {
-      "id": "alleged-hacker-arrested-over-leak-that-exposed-gta-online-s",
-      "titre": "Alleged hacker arrested over leak that exposed GTA Online's daily revenue",
-      "url": "https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 35.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue",
-          "titre": "Alleged hacker arrested over leak that exposed GTA Online's daily revenue"
         }
       ]
     },
@@ -689,7 +677,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 15.1,
       "chaleur": 5,
       "liens": [
         {
@@ -707,7 +695,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.5,
       "chaleur": 5,
       "liens": [
         {
@@ -725,7 +713,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 21.7,
       "chaleur": 5,
       "liens": [
         {
@@ -743,7 +731,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.6,
+      "heures": 22.5,
       "chaleur": 5,
       "liens": [
         {
@@ -761,7 +749,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.7,
+      "heures": 28.7,
       "chaleur": 5,
       "liens": [
         {
@@ -779,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -797,7 +785,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +803,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -833,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -851,7 +839,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -869,7 +857,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +875,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +893,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.0,
+      "heures": 12.0,
       "chaleur": 4,
       "liens": [
         {
@@ -923,8 +911,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -941,8 +929,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -959,8 +947,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -977,8 +965,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -995,8 +983,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1013,7 +1001,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +1019,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,7 +1037,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,7 +1055,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1085,7 +1073,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 16.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1103,7 +1091,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1121,7 +1109,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1139,7 +1127,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.7,
+      "heures": 16.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1157,7 +1145,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 16.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1175,7 +1163,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 17.0,
       "chaleur": 3,
       "liens": [
         {
