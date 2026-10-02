@@ -1,41 +1,35 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "02/10/2026 à 10h21",
+  "collecte": "02/10/2026 à 12h27",
   "seuil": 14,
   "sujets": [
     {
-      "id": "007-first-light-unveils-extended-operations-free-dlc-adds-ne",
-      "titre": "007 First Light Unveils Extended Operations Free DLC - Adds New Game+, Photo Mode And Much More",
-      "url": "https://www.nintendolife.com/news/2026/10/007-first-light-unveils-extended-operations-free-dlc-adds-new-gameplus-photo-mode-and-much-more",
+      "id": "star-wars-galactic-racer-review-somehow-burnout-returns-in-a",
+      "titre": "Star Wars Galactic Racer review: Somehow, Burnout returns in a modern racing classic",
+      "url": "https://www.videogameschronicle.com/review/star-wars-galactic-racer-review/",
       "sources": [
-        "Eurogamer",
-        "Nintendo Life",
+        "PC Gamer",
         "Push Square",
         "VGC"
       ],
-      "reprises": 4,
-      "heures": 6.4,
-      "chaleur": 13,
+      "reprises": 3,
+      "heures": 0.5,
+      "chaleur": 12,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/007-first-light-unveils-extended-operations-free-dlc-adds-new-gameplus-photo-mode-and-much-more",
-          "titre": "007 First Light Unveils Extended Operations Free DLC - Adds New Game+, Photo Mode And Much More"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/007-james-bond-first-light-free-dlc",
-          "titre": "007 First Light gets free new DLC today, adding New Game Plus and Photo modes, new TacSim missions and more"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/review/star-wars-galactic-racer-review/",
+          "titre": "Star Wars Galactic Racer review: Somehow, Burnout returns in a modern racing classic"
         },
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/007-first-light-gets-new-gameplus-photo-mode-new-missions-more-in-huge-free-dlc",
-          "titre": "007 First Light Gets New Game+, Photo Mode, New Missions, More in Huge Free DLC"
+          "url": "https://www.pushsquare.com/reviews/ps5/star-wars-galactic-racer",
+          "titre": "Review: Star Wars: Galactic Racer (PS5) - This Ridiculously Good Racer Is in a Galactic League of Its Own"
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/007-first-light-gets-free-extended-operations-dlc-today-adding-new-game-and-other-features/",
-          "titre": "007 First Light gets free Extended Operations DLC today adding New Game+ and other features"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/racing/star-wars-galactic-racer-review/",
+          "titre": "Star Wars: Galactic Racer review – Run-based bash racer with Burnout-style takedowns"
         }
       ]
     },
@@ -48,7 +42,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 0.5,
+      "heures": 2.6,
       "chaleur": 11,
       "liens": [
         {
@@ -72,7 +66,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 15.7,
+      "heures": 17.8,
       "chaleur": 11,
       "liens": [
         {
@@ -88,6 +82,108 @@ const VEILLE = {
       ]
     },
     {
+      "id": "007-first-light-unveils-extended-operations-free-dlc-adds-ne",
+      "titre": "007 First Light Unveils Extended Operations Free DLC - Adds New Game+, Photo Mode And Much More",
+      "url": "https://www.nintendolife.com/news/2026/10/007-first-light-unveils-extended-operations-free-dlc-adds-new-gameplus-photo-mode-and-much-more",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 3,
+      "heures": 8.5,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/007-first-light-unveils-extended-operations-free-dlc-adds-new-gameplus-photo-mode-and-much-more",
+          "titre": "007 First Light Unveils Extended Operations Free DLC - Adds New Game+, Photo Mode And Much More"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/007-james-bond-first-light-free-dlc",
+          "titre": "007 First Light gets free new DLC today, adding New Game Plus and Photo modes, new TacSim missions and more"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/007-first-light-gets-new-gameplus-photo-mode-new-missions-more-in-huge-free-dlc",
+          "titre": "007 First Light Gets New Game+, Photo Mode, New Missions, More in Huge Free DLC"
+        }
+      ]
+    },
+    {
+      "id": "riot-needed-absurd-player-counts-in-the-high-hundreds-of-tho",
+      "titre": "Riot needed absurd player counts 'in the high hundreds of thousands, if not millions' for 2XKO, dooming it from launch",
+      "url": "https://www.pcgamer.com/games/fighting/riots-absurd-expectations-of-player-counts-in-the-high-hundreds-of-thousands-if-not-millions-doomed-2xko-from-the-start/",
+      "sources": [
+        "GamesIndustry.biz",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 1.2,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fighting/riots-absurd-expectations-of-player-counts-in-the-high-hundreds-of-thousands-if-not-millions-doomed-2xko-from-the-start/",
+          "titre": "Riot needed absurd player counts 'in the high hundreds of thousands, if not millions' for 2XKO, dooming it from launch"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/2xko-would-have-needed-an-mau-base-in-the-high-hundreds-of-thousands-if-not-millions-to-succeed",
+          "titre": "2XKO would have needed an MAU base \"in the high hundreds of thousands, if not millions\" to succeed"
+        }
+      ]
+    },
+    {
+      "id": "cd-projekt-red-addresses-divisive-lighting-changes-in-a-new",
+      "titre": "CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch",
+      "url": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 1.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc",
+          "titre": "CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/cd-projekt-red-says-its-working-on-fixes-for-witcher-3-remastered",
+          "titre": "CD Projekt Red Says It's Working On Fixes For Witcher 3 Remastered"
+        }
+      ]
+    },
+    {
+      "id": "gears-of-war-e-day-is-missing-iconic-features-like-chainsaw",
+      "titre": "Gears of War: E-Day is missing iconic features like chainsaw duels and meat shields, but The Coalition says we shouldn't worry - they're \"not gone from the franchise\"",
+      "url": "https://www.eurogamer.net/gears-of-war-eday-missing-features-update",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gears-of-war-eday-missing-features-update",
+          "titre": "Gears of War: E-Day is missing iconic features like chainsaw duels and meat shields, but The Coalition says we shouldn't worry - they're \"not gone from the franchise\""
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/one-of-gears-of-war-e-days-collectibles-is-a-letter-from-the-coalition-thanking-those-that-are-no-longer-with-us/",
+          "titre": "One of Gears of War E-Day’s collectibles is a letter from The Coalition thanking ‘those that are no longer with us’"
+        }
+      ]
+    },
+    {
       "id": "pubg-extraction-shooter-black-budget-canned-less-than-a-year",
       "titre": "PUBG extraction shooter Black Budget canned less than a year from reveal, after Krafton decide it won't \"deliver an experience players could enjoy over the long term\"",
       "url": "https://www.rockpapershotgun.com/pubg-extraction-shooter-black-budget-canned-less-than-a-year-from-reveal-after-krafton-decide-it-wont-deliver-an-experience-players-could-enjoy-over-the-long-term",
@@ -96,7 +192,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 0.9,
+      "heures": 3.0,
       "chaleur": 9,
       "liens": [
         {
@@ -120,7 +216,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 19.4,
+      "heures": 21.5,
       "chaleur": 9,
       "liens": [
         {
@@ -145,7 +241,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 20.9,
+      "heures": 23.0,
       "chaleur": 9,
       "liens": [
         {
@@ -173,7 +269,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.7,
       "chaleur": 8,
       "liens": [
         {
@@ -191,37 +287,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.6,
       "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/software/platforms/after-a-record-breaking-september-its-safe-to-say-steams-yearly-revenue-will-blow-past-usd20b-for-the-first-time/",
           "titre": "After a record-breaking September, 'it's safe to say Steam's yearly revenue will blow past $20B for the first time'"
-        }
-      ]
-    },
-    {
-      "id": "cd-projekt-red-says-it-s-working-on-fixes-for-witcher-3-rema",
-      "titre": "CD Projekt Red Says It's Working On Fixes For Witcher 3 Remastered",
-      "url": "https://www.nintendolife.com/news/2026/10/cd-projekt-red-says-its-working-on-fixes-for-witcher-3-remastered",
-      "sources": [
-        "Nintendo Life",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 8.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/cd-projekt-red-says-its-working-on-fixes-for-witcher-3-remastered",
-          "titre": "CD Projekt Red Says It's Working On Fixes For Witcher 3 Remastered"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-witcher-3-songs-of-the-pasts-setting-felt-like-a-really-natural-way-to-go-cd-projekt-red-story-director-says-while-parrying-my-attempts-to-breach-the-dlcs-guard",
-          "titre": "The Witcher 3: Songs of the Past's setting \"felt like a really natural way to go\", CD Projekt Red story director says, while parrying my attempts to breach the DLC's guard"
         }
       ]
     },
@@ -460,6 +532,150 @@ const VEILLE = {
       ]
     },
     {
+      "id": "memory-maker-warns-shortages-will-get-worse-in-2027-as-ceo-c",
+      "titre": "Memory maker warns shortages will get worse in 2027, as CEO celebrates ‘much higher prices’",
+      "url": "https://www.videogameschronicle.com/news/memory-maker-warns-shortages-will-get-worse-in-2027-as-ceo-celebrates-much-higher-prices/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/memory-maker-warns-shortages-will-get-worse-in-2027-as-ceo-celebrates-much-higher-prices/",
+          "titre": "Memory maker warns shortages will get worse in 2027, as CEO celebrates ‘much higher prices’"
+        }
+      ]
+    },
+    {
+      "id": "in-my-quest-to-find-the-perfect-mouse-for-me-i-ve-ended-up-w",
+      "titre": "In my quest to find the perfect mouse for me, I've ended up with two completely different ones",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/in-my-quest-to-find-the-perfect-mouse-for-me-ive-ended-up-with-two-completely-different-ones/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/in-my-quest-to-find-the-perfect-mouse-for-me-ive-ended-up-with-two-completely-different-ones/",
+          "titre": "In my quest to find the perfect mouse for me, I've ended up with two completely different ones"
+        }
+      ]
+    },
+    {
+      "id": "metal-desks-nearly-destroyed-a-valorant-tournament",
+      "titre": "Metal desks nearly destroyed a Valorant tournament",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/metal-desks-nearly-destroyed-a-valorant-tournament/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/metal-desks-nearly-destroyed-a-valorant-tournament/",
+          "titre": "Metal desks nearly destroyed a Valorant tournament"
+        }
+      ]
+    },
+    {
+      "id": "ai-generated-fallout-new-york-browser-game-full-of-utterly-c",
+      "titre": "AI-generated Fallout: New York browser game full of utterly cursed faces slapped with Bethesda cease and desist, its slop prompter claims",
+      "url": "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims",
+          "titre": "AI-generated Fallout: New York browser game full of utterly cursed faces slapped with Bethesda cease and desist, its slop prompter claims"
+        }
+      ]
+    },
+    {
+      "id": "reigns-developer-nerial-closes-following-significant-trading",
+      "titre": "Reigns developer Nerial closes following \"significant trading losses\" over past two years",
+      "url": "https://www.gamesindustry.biz/reigns-developer-nerial-closes-following-significant-trading-losses-over-past-two-years",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/reigns-developer-nerial-closes-following-significant-trading-losses-over-past-two-years",
+          "titre": "Reigns developer Nerial closes following \"significant trading losses\" over past two years"
+        }
+      ]
+    },
+    {
+      "id": "skyrim-lead-designer-says-he-hopes-the-elder-scrolls-6-adds",
+      "titre": "Skyrim lead designer says he hopes The Elder Scrolls 6 adds boats and naval combat, as it would be a ‘natural’ fit",
+      "url": "https://www.videogameschronicle.com/news/skyrim-lead-designer-says-he-hopes-the-elder-scrolls-6-adds-boats-and-naval-combat-as-it-would-be-a-natural-fit/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/skyrim-lead-designer-says-he-hopes-the-elder-scrolls-6-adds-boats-and-naval-combat-as-it-would-be-a-natural-fit/",
+          "titre": "Skyrim lead designer says he hopes The Elder Scrolls 6 adds boats and naval combat, as it would be a ‘natural’ fit"
+        }
+      ]
+    },
+    {
+      "id": "looks-like-you-will-have-to-pinky-promise-you-won-t-export-y",
+      "titre": "Looks like you will have to pinky promise you won't export your RTX 5090 if you buy a gaming PC from Micro Center now",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/looks-like-you-will-have-to-pinky-promise-you-wont-export-your-rtx-5090-if-you-buy-a-gaming-pc-from-micro-center-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/looks-like-you-will-have-to-pinky-promise-you-wont-export-your-rtx-5090-if-you-buy-a-gaming-pc-from-micro-center-now/",
+          "titre": "Looks like you will have to pinky promise you won't export your RTX 5090 if you buy a gaming PC from Micro Center now"
+        }
+      ]
+    },
+    {
+      "id": "warhammer-40k-space-marine-2-marches-on-with-massive-free-up",
+      "titre": "Warhammer 40k: Space Marine 2 Marches on with Massive Free Update, Year 3 Roadmap",
+      "url": "https://www.pushsquare.com/news/2026/10/warhammer-40k-space-marine-2-marches-on-with-massive-free-update-year-3-roadmap",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/warhammer-40k-space-marine-2-marches-on-with-massive-free-update-year-3-roadmap",
+          "titre": "Warhammer 40k: Space Marine 2 Marches on with Massive Free Update, Year 3 Roadmap"
+        }
+      ]
+    },
+    {
       "id": "unscrupulous-airbnb-host-tries-to-get-1-700-out-of-redditor",
       "titre": "Unscrupulous Airbnb host tries to get $1,700 out of Redditor with AI-generated pic of overflowing toilet",
       "url": "https://www.pcgamer.com/software/ai/unscrupulous-airbnb-host-tries-to-get-usd1-700-out-of-redditor-with-ai-generated-pic-of-overflowing-toilet/",
@@ -467,31 +683,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/software/ai/unscrupulous-airbnb-host-tries-to-get-usd1-700-out-of-redditor-with-ai-generated-pic-of-overflowing-toilet/",
           "titre": "Unscrupulous Airbnb host tries to get $1,700 out of Redditor with AI-generated pic of overflowing toilet"
-        }
-      ]
-    },
-    {
-      "id": "2xko-would-have-needed-an-mau-base-in-the-high-hundreds-of-t",
-      "titre": "2XKO would have needed an MAU base \"in the high hundreds of thousands, if not millions\" to succeed",
-      "url": "https://www.gamesindustry.biz/2xko-would-have-needed-an-mau-base-in-the-high-hundreds-of-thousands-if-not-millions-to-succeed",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 0.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/2xko-would-have-needed-an-mau-base-in-the-high-hundreds-of-thousands-if-not-millions-to-succeed",
-          "titre": "2XKO would have needed an MAU base \"in the high hundreds of thousands, if not millions\" to succeed"
         }
       ]
     },
@@ -503,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -521,7 +719,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -539,31 +737,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/i-hate-having-to-prove-my-brand-loyalty-just-for-the-chance-to-buy-hardware-at-full-price/",
           "titre": "I hate having to prove my brand loyalty just for the chance to buy hardware at full price"
-        }
-      ]
-    },
-    {
-      "id": "fuse-games-ceo-to-discuss-star-wars-galactic-racer-at-uk-gam",
-      "titre": "Fuse Games CEO to Discuss Star Wars Galactic Racer at UK Games Conference",
-      "url": "https://www.videogameschronicle.com/news/fuse-games-ceo-to-discuss-star-wars-galactic-racer-at-uk-games-conference/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/fuse-games-ceo-to-discuss-star-wars-galactic-racer-at-uk-games-conference/",
-          "titre": "Fuse Games CEO to Discuss Star Wars Galactic Racer at UK Games Conference"
         }
       ]
     },
@@ -575,31 +755,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/if-game-developers-steal-one-thing-from-no-law-i-hope-its-the-open-world-games-ridiculously-detailed-and-realistic-corner-shops",
           "titre": "If game developers steal one thing from No Law, I hope it's the open-world game's ridiculously detailed and realistic corner shops"
-        }
-      ]
-    },
-    {
-      "id": "krafton-shuts-down-pubg-spin-off-black-budget-nine-months-af",
-      "titre": "Krafton shuts down PUBG spin-off Black Budget nine months after closed alpha test",
-      "url": "https://www.gamesindustry.biz/krafton-shuts-down-pubg-spin-off-black-budget-nine-months-after-closed-alpha-test",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/krafton-shuts-down-pubg-spin-off-black-budget-nine-months-after-closed-alpha-test",
-          "titre": "Krafton shuts down PUBG spin-off Black Budget nine months after closed alpha test"
         }
       ]
     },
@@ -611,7 +773,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.5,
       "chaleur": 6,
       "liens": [
         {
@@ -629,7 +791,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.7,
       "chaleur": 6,
       "liens": [
         {
@@ -647,7 +809,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.9,
       "chaleur": 6,
       "liens": [
         {
@@ -666,7 +828,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 15.9,
+      "heures": 18.0,
       "chaleur": 6,
       "liens": [
         {
@@ -690,7 +852,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 18.4,
+      "heures": 20.4,
       "chaleur": 6,
       "liens": [
         {
@@ -706,30 +868,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "witcher-3-remastered-patch-addressing-various-lighting-adjus",
-      "titre": "Witcher 3 Remastered patch addressing \"various lighting adjustments\" rolls out",
-      "url": "https://www.eurogamer.net/witcher-3-lighting-brightness-patch-remastered",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 22.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-lighting-brightness-patch-remastered",
-          "titre": "Witcher 3 Remastered patch addressing \"various lighting adjustments\" rolls out"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastereds-first-ps5-patch-fixes-lighting-issues-but-no-word-on-performance-yet",
-          "titre": "The Witcher 3 Remastered's First PS5 Patch Fixes Lighting Issues, But No Word on Performance Yet"
-        }
-      ]
-    },
-    {
       "id": "the-division-developers-massive-are-now-the-global-brand-in",
       "titre": "The Division developers Massive are now \"the global brand\" in charge of Splinter Cell and Ghost Recon, alongside a new Ubisoft dieselpunk MOBA",
       "url": "https://www.rockpapershotgun.com/the-division-developers-massive-are-now-the-global-brand-in-charge-of-splinter-cell-and-ghost-recon-alongside-a-new-ubisoft-dieselpunk-moba",
@@ -738,7 +876,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 24.3,
+      "heures": 26.4,
       "chaleur": 6,
       "liens": [
         {
@@ -761,7 +899,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.4,
+      "heures": 28.5,
       "chaleur": 6,
       "liens": [
         {
@@ -779,7 +917,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.5,
       "chaleur": 5,
       "liens": [
         {
@@ -797,7 +935,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.1,
+      "heures": 24.2,
       "chaleur": 5,
       "liens": [
         {
@@ -815,7 +953,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.7,
+      "heures": 25.8,
       "chaleur": 5,
       "liens": [
         {
@@ -833,13 +971,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.5,
+      "heures": 26.6,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/the-coalition-gears-of-war-e-day-worried-layoffs-no-bonus",
           "titre": "As Xbox swings the axe, Gears of War: E-Day developers fear they'll be laid off straight after launch - and right before they'd be due their bonuses"
+        }
+      ]
+    },
+    {
+      "id": "krafton-shuts-down-pubg-spin-off-black-budget-nine-months-af",
+      "titre": "Krafton shuts down PUBG spin-off Black Budget nine months after closed alpha test",
+      "url": "https://www.gamesindustry.biz/krafton-shuts-down-pubg-spin-off-black-budget-nine-months-after-closed-alpha-test",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/krafton-shuts-down-pubg-spin-off-black-budget-nine-months-after-closed-alpha-test",
+          "titre": "Krafton shuts down PUBG spin-off Black Budget nine months after closed alpha test"
         }
       ]
     },
@@ -851,7 +1007,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -869,8 +1025,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -887,8 +1043,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -905,7 +1061,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -923,7 +1079,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 15.1,
       "chaleur": 3,
       "liens": [
         {
@@ -941,103 +1097,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/adventure/one-story-about-my-first-30-minutes-in-this-post-apocalyptic-robot-game-led-multiple-people-to-buy-it/",
           "titre": "One story about my first 30 minutes in this post-apocalyptic robot game led multiple people to buy it"
-        }
-      ]
-    },
-    {
-      "id": "open-world-fatigue-is-one-reason-indie-rpg-entropy-is-borro",
-      "titre": "'Open world fatigue' is one reason indie RPG Entropy is borrowing from the classics: 'PS1, PS2, GameCube games really never outstayed their welcome'",
-      "url": "https://www.pcgamer.com/games/rpg/open-world-fatigue-is-one-reason-indie-rpg-entropy-is-borrowing-from-the-classics-ps1-ps2-gamecube-games-really-never-outstayed-their-welcome/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/open-world-fatigue-is-one-reason-indie-rpg-entropy-is-borrowing-from-the-classics-ps1-ps2-gamecube-games-really-never-outstayed-their-welcome/",
-          "titre": "'Open world fatigue' is one reason indie RPG Entropy is borrowing from the classics: 'PS1, PS2, GameCube games really never outstayed their welcome'"
-        }
-      ]
-    },
-    {
-      "id": "how-to-conquer-kuttenberg",
-      "titre": "How to conquer Kuttenberg",
-      "url": "https://www.pcgamer.com/games/rpg/how-to-conquer-kuttenberg/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/how-to-conquer-kuttenberg/",
-          "titre": "How to conquer Kuttenberg"
-        }
-      ]
-    },
-    {
-      "id": "more-than-450-witcher-3-mods-have-already-been-updated-to-su",
-      "titre": "More than 450 Witcher 3 mods have already been updated to support the Remastered version",
-      "url": "https://www.pcgamer.com/games/the-witcher/more-than-450-witcher-3-mods-have-already-been-updated-to-support-the-remastered-version/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/more-than-450-witcher-3-mods-have-already-been-updated-to-support-the-remastered-version/",
-          "titre": "More than 450 Witcher 3 mods have already been updated to support the Remastered version"
-        }
-      ]
-    },
-    {
-      "id": "kingdom-come-deliverance-studio-co-founder-hopes-grand-theft",
-      "titre": "Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/kingdom-come-deliverance-studio-co-founder-hopes-grand-theft-auto-6-will-blaze-a-trail-to-higher-game-prices/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/kingdom-come-deliverance-studio-co-founder-hopes-grand-theft-auto-6-will-blaze-a-trail-to-higher-game-prices/",
-          "titre": "Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices"
-        }
-      ]
-    },
-    {
-      "id": "we-needed-a-potentially-infinite-resource-of-party-members",
-      "titre": "'We needed a potentially infinite resource of party members so that we could then kill them:' Entropy dev James Wragg explains how you fit permadeath in a party RPG",
-      "url": "https://www.pcgamer.com/games/rpg/we-needed-a-potentially-infinite-resource-of-party-members-so-that-we-could-then-kill-them-entropy-dev-james-wragg-explains-how-you-fit-permadeath-in-a-party-rpg/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/we-needed-a-potentially-infinite-resource-of-party-members-so-that-we-could-then-kill-them-entropy-dev-james-wragg-explains-how-you-fit-permadeath-in-a-party-rpg/",
-          "titre": "'We needed a potentially infinite resource of party members so that we could then kill them:' Entropy dev James Wragg explains how you fit permadeath in a party RPG"
         }
       ]
     },
@@ -1049,7 +1115,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,7 +1133,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1085,7 +1151,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1103,67 +1169,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/yazoo-croc-2-remaster-release-date-confirmed-for-late-october-on-ps5-ps4",
           "titre": "Yazoo! Croc 2 Remaster Release Date Confirmed for Late October on PS5, PS4"
-        }
-      ]
-    },
-    {
-      "id": "lego-ps1-now-available-to-buy-from-ps-direct-with-free-astro",
-      "titre": "LEGO PS1 Now Available to Buy from PS Direct, with Free Astro Bot Set",
-      "url": "https://www.pushsquare.com/news/2026/10/lego-ps1-now-available-to-buy-from-ps-direct-with-free-astro-bot-set",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 17.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/lego-ps1-now-available-to-buy-from-ps-direct-with-free-astro-bot-set",
-          "titre": "LEGO PS1 Now Available to Buy from PS Direct, with Free Astro Bot Set"
-        }
-      ]
-    },
-    {
-      "id": "reigns-and-card-shark-developers-nerial-are-closing-down-lay",
-      "titre": "Reigns and Card Shark developers Nerial are closing down, laying staff off while the founders go \"back to our roots\"",
-      "url": "https://www.rockpapershotgun.com/reigns-and-card-shark-developers-nerial-are-closing-down-laying-staff-off-while-the-founders-go-back-to-our-roots",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 17.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/reigns-and-card-shark-developers-nerial-are-closing-down-laying-staff-off-while-the-founders-go-back-to-our-roots",
-          "titre": "Reigns and Card Shark developers Nerial are closing down, laying staff off while the founders go \"back to our roots\""
-        }
-      ]
-    },
-    {
-      "id": "croc-2-is-getting-the-remaster-treatment-later-this-month",
-      "titre": "'Croc 2' Is Getting The Remaster Treatment Later This Month",
-      "url": "https://www.nintendolife.com/news/2026/10/croc-2-is-getting-the-remaster-treatment-later-this-month",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 18.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/croc-2-is-getting-the-remaster-treatment-later-this-month",
-          "titre": "'Croc 2' Is Getting The Remaster Treatment Later This Month"
         }
       ]
     }
