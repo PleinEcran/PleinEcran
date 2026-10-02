@@ -1,21 +1,27 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "02/10/2026 à 12h27",
+  "collecte": "02/10/2026 à 14h24",
   "seuil": 14,
   "sujets": [
     {
-      "id": "star-wars-galactic-racer-review-somehow-burnout-returns-in-a",
-      "titre": "Star Wars Galactic Racer review: Somehow, Burnout returns in a modern racing classic",
-      "url": "https://www.videogameschronicle.com/review/star-wars-galactic-racer-review/",
+      "id": "star-wars-galactic-racer-review",
+      "titre": "Star Wars: Galactic Racer review",
+      "url": "https://www.eurogamer.net/star-wars-galactic-racer-review",
       "sources": [
+        "Eurogamer",
         "PC Gamer",
         "Push Square",
         "VGC"
       ],
-      "reprises": 3,
-      "heures": 0.5,
-      "chaleur": 12,
+      "reprises": 4,
+      "heures": 1.4,
+      "chaleur": 15,
       "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/star-wars-galactic-racer-review",
+          "titre": "Star Wars: Galactic Racer review"
+        },
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/review/star-wars-galactic-racer-review/",
@@ -34,30 +40,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "turns-out-you-can-download-more-battery-as-valve-s-latest-up",
-      "titre": "Turns out you can download more battery as Valve's latest update for Steam Frame adds up to 12%",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/turns-out-you-can-download-more-battery-as-valves-latest-update-for-steam-frame-adds-up-to-12-percent/",
-      "sources": [
-        "PC Gamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 2.6,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/turns-out-you-can-download-more-battery-as-valves-latest-update-for-steam-frame-adds-up-to-12-percent/",
-          "titre": "Turns out you can download more battery as Valve's latest update for Steam Frame adds up to 12%"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/new-ps5-firmware-update-26-06-14-10-00-available-to-download-now",
-          "titre": "New PS5 Firmware Update 26.06-14.10.00 Available to Download Now"
-        }
-      ]
-    },
-    {
       "id": "xbox-is-not-for-sale-ceo-asha-sharma-says",
       "titre": "'Xbox is not for sale,' CEO Asha Sharma says",
       "url": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
@@ -66,7 +48,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 17.8,
+      "heures": 19.8,
       "chaleur": 11,
       "liens": [
         {
@@ -91,7 +73,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 8.5,
+      "heures": 10.5,
       "chaleur": 10,
       "liens": [
         {
@@ -112,6 +94,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "gta-6-rebrands-miami-basketball-team-to-vice-city-for-one-ni",
+      "titre": "GTA 6 Rebrands Miami Basketball Team to Vice City for One Night Only",
+      "url": "https://www.pushsquare.com/news/2026/10/gta-6-rebrands-miami-basketball-team-to-vice-city-for-one-night-only",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/gta-6-rebrands-miami-basketball-team-to-vice-city-for-one-night-only",
+          "titre": "GTA 6 Rebrands Miami Basketball Team to Vice City for One Night Only"
+        }
+      ]
+    },
+    {
+      "id": "grand-theft-auto-6-may-be-the-first-gta-to-have-full-on-sex",
+      "titre": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included",
+      "url": "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards",
+          "titre": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included"
+        }
+      ]
+    },
+    {
       "id": "riot-needed-absurd-player-counts-in-the-high-hundreds-of-tho",
       "titre": "Riot needed absurd player counts 'in the high hundreds of thousands, if not millions' for 2XKO, dooming it from launch",
       "url": "https://www.pcgamer.com/games/fighting/riots-absurd-expectations-of-player-counts-in-the-high-hundreds-of-thousands-if-not-millions-doomed-2xko-from-the-start/",
@@ -120,7 +138,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 1.2,
+      "heures": 3.1,
       "chaleur": 9,
       "liens": [
         {
@@ -144,7 +162,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 9,
       "liens": [
         {
@@ -160,50 +178,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gears-of-war-e-day-is-missing-iconic-features-like-chainsaw",
-      "titre": "Gears of War: E-Day is missing iconic features like chainsaw duels and meat shields, but The Coalition says we shouldn't worry - they're \"not gone from the franchise\"",
-      "url": "https://www.eurogamer.net/gears-of-war-eday-missing-features-update",
+      "id": "turns-out-you-can-download-more-battery-as-valve-s-latest-up",
+      "titre": "Turns out you can download more battery as Valve's latest update for Steam Frame adds up to 12%",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/turns-out-you-can-download-more-battery-as-valves-latest-update-for-steam-frame-adds-up-to-12-percent/",
       "sources": [
-        "Eurogamer",
-        "VGC"
+        "PC Gamer",
+        "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.5,
+      "heures": 4.5,
       "chaleur": 9,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gears-of-war-eday-missing-features-update",
-          "titre": "Gears of War: E-Day is missing iconic features like chainsaw duels and meat shields, but The Coalition says we shouldn't worry - they're \"not gone from the franchise\""
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/turns-out-you-can-download-more-battery-as-valves-latest-update-for-steam-frame-adds-up-to-12-percent/",
+          "titre": "Turns out you can download more battery as Valve's latest update for Steam Frame adds up to 12%"
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/one-of-gears-of-war-e-days-collectibles-is-a-letter-from-the-coalition-thanking-those-that-are-no-longer-with-us/",
-          "titre": "One of Gears of War E-Day’s collectibles is a letter from The Coalition thanking ‘those that are no longer with us’"
-        }
-      ]
-    },
-    {
-      "id": "pubg-extraction-shooter-black-budget-canned-less-than-a-year",
-      "titre": "PUBG extraction shooter Black Budget canned less than a year from reveal, after Krafton decide it won't \"deliver an experience players could enjoy over the long term\"",
-      "url": "https://www.rockpapershotgun.com/pubg-extraction-shooter-black-budget-canned-less-than-a-year-from-reveal-after-krafton-decide-it-wont-deliver-an-experience-players-could-enjoy-over-the-long-term",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 3.0,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/pubg-extraction-shooter-black-budget-canned-less-than-a-year-from-reveal-after-krafton-decide-it-wont-deliver-an-experience-players-could-enjoy-over-the-long-term",
-          "titre": "PUBG extraction shooter Black Budget canned less than a year from reveal, after Krafton decide it won't \"deliver an experience players could enjoy over the long term\""
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/krafton-pulls-the-plug-on-another-pubg-game-black-budget-less-than-a-year-after-it-was-announced",
-          "titre": "Krafton pulls the plug on another PUBG game, Black Budget, less than a year after it was announced"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/new-ps5-firmware-update-26-06-14-10-00-available-to-download-now",
+          "titre": "New PS5 Firmware Update 26.06-14.10.00 Available to Download Now"
         }
       ]
     },
@@ -216,7 +210,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 21.5,
+      "heures": 23.4,
       "chaleur": 9,
       "liens": [
         {
@@ -241,7 +235,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 23.0,
+      "heures": 24.9,
       "chaleur": 9,
       "liens": [
         {
@@ -262,20 +256,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-latest-ps5-slim-model-reportedly-changes-some-components",
-      "titre": "The latest PS5 Slim model reportedly changes some components, including a replaceable CMOS battery and revised cooling",
-      "url": "https://www.videogameschronicle.com/news/the-latest-ps5-slim-model-reportedly-changes-some-components-including-a-replaceable-cmos-battery-and-revised-cooling/",
+      "id": "poll-did-you-manage-to-get-tickets-to-the-zelda-40th-anniver",
+      "titre": "Poll: Did You Manage To Get Tickets To The Zelda 40th Anniversary Concert?",
+      "url": "https://www.nintendolife.com/features/poll-did-you-manage-to-get-tickets-to-the-zelda-40th-anniversary-concert",
       "sources": [
-        "VGC"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.7,
+      "heures": 0.4,
       "chaleur": 8,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-latest-ps5-slim-model-reportedly-changes-some-components-including-a-replaceable-cmos-battery-and-revised-cooling/",
-          "titre": "The latest PS5 Slim model reportedly changes some components, including a replaceable CMOS battery and revised cooling"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/poll-did-you-manage-to-get-tickets-to-the-zelda-40th-anniversary-concert",
+          "titre": "Poll: Did You Manage To Get Tickets To The Zelda 40th Anniversary Concert?"
+        }
+      ]
+    },
+    {
+      "id": "halo-s-new-steward-activision-reportedly-considering-rebooti",
+      "titre": "Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge",
+      "url": "https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot",
+          "titre": "Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge"
         }
       ]
     },
@@ -287,13 +299,37 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.6,
       "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/software/platforms/after-a-record-breaking-september-its-safe-to-say-steams-yearly-revenue-will-blow-past-usd20b-for-the-first-time/",
           "titre": "After a record-breaking September, 'it's safe to say Steam's yearly revenue will blow past $20B for the first time'"
+        }
+      ]
+    },
+    {
+      "id": "pubg-extraction-shooter-black-budget-canned-less-than-a-year",
+      "titre": "PUBG extraction shooter Black Budget canned less than a year from reveal, after Krafton decide it won't \"deliver an experience players could enjoy over the long term\"",
+      "url": "https://www.rockpapershotgun.com/pubg-extraction-shooter-black-budget-canned-less-than-a-year-from-reveal-after-krafton-decide-it-wont-deliver-an-experience-players-could-enjoy-over-the-long-term",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 5.0,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/pubg-extraction-shooter-black-budget-canned-less-than-a-year-from-reveal-after-krafton-decide-it-wont-deliver-an-experience-players-could-enjoy-over-the-long-term",
+          "titre": "PUBG extraction shooter Black Budget canned less than a year from reveal, after Krafton decide it won't \"deliver an experience players could enjoy over the long term\""
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/krafton-pulls-the-plug-on-another-pubg-game-black-budget-less-than-a-year-after-it-was-announced",
+          "titre": "Krafton pulls the plug on another PUBG game, Black Budget, less than a year after it was announced"
         }
       ]
     },
@@ -532,6 +568,150 @@ const VEILLE = {
       ]
     },
     {
+      "id": "podcast-why-we-re-ready-for-a-new-uncharted-game",
+      "titre": "Podcast: Why we’re ready for a new Uncharted game",
+      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-why-were-ready-for-a-new-uncharted-game/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-why-were-ready-for-a-new-uncharted-game/",
+          "titre": "Podcast: Why we’re ready for a new Uncharted game"
+        }
+      ]
+    },
+    {
+      "id": "aion-2-ascension-gauge-how-to-quickly-raise-the-ascension-ga",
+      "titre": "Aion 2 Ascension Gauge: How to quickly raise the Ascension Gauge to continue Episodes",
+      "url": "https://www.videogameschronicle.com/guide/aion-2-ascension-gauge-how-to-quickly-raise-the-ascension-gauge-to-continue-episodes/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/aion-2-ascension-gauge-how-to-quickly-raise-the-ascension-gauge-to-continue-episodes/",
+          "titre": "Aion 2 Ascension Gauge: How to quickly raise the Ascension Gauge to continue Episodes"
+        }
+      ]
+    },
+    {
+      "id": "ram-shortages-are-only-getting-worse-and-will-last-until-at",
+      "titre": "RAM shortages are only getting worse and will last until at least 2028, Micron boss declares from atop a mountain of money",
+      "url": "https://www.rockpapershotgun.com/ram-shortages-are-only-getting-worse-and-will-last-until-at-least-2028-micron-boss-declares-from-atop-a-mountain-of-money",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/ram-shortages-are-only-getting-worse-and-will-last-until-at-least-2028-micron-boss-declares-from-atop-a-mountain-of-money",
+          "titre": "RAM shortages are only getting worse and will last until at least 2028, Micron boss declares from atop a mountain of money"
+        }
+      ]
+    },
+    {
+      "id": "bungie-co-founder-and-destiny-2-narrative-director-launch-tr",
+      "titre": "Bungie co-founder and Destiny 2 narrative director launch transmedia studio Stone Kite",
+      "url": "https://www.gamesindustry.biz/bungie-co-founder-and-destiny-2-narrative-director-launch-transmedia-studio-stone-kite",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/bungie-co-founder-and-destiny-2-narrative-director-launch-transmedia-studio-stone-kite",
+          "titre": "Bungie co-founder and Destiny 2 narrative director launch transmedia studio Stone Kite"
+        }
+      ]
+    },
+    {
+      "id": "final-fantasy-7-revelation-director-on-its-very-extravagant",
+      "titre": "Final Fantasy 7 Revelation director on its \"very extravagant\" final Sephiroth fight and whether anyone will ever pull something like this trilogy off again",
+      "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-director-on-its-very-extravagant-final-sephiroth-fight-and-whether-anyone-will-ever-pull-something-like-this-trilogy-off-again/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-director-on-its-very-extravagant-final-sephiroth-fight-and-whether-anyone-will-ever-pull-something-like-this-trilogy-off-again/",
+          "titre": "Final Fantasy 7 Revelation director on its \"very extravagant\" final Sephiroth fight and whether anyone will ever pull something like this trilogy off again"
+        }
+      ]
+    },
+    {
+      "id": "signal-veil-is-a-ps5-horror-game-with-a-style-unlike-any-oth",
+      "titre": "Signal Veil Is a PS5 Horror Game with a Style Unlike Any Other",
+      "url": "https://www.pushsquare.com/news/2026/10/signal-veil-is-a-ps5-horror-game-with-a-style-unlike-any-other",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/signal-veil-is-a-ps5-horror-game-with-a-style-unlike-any-other",
+          "titre": "Signal Veil Is a PS5 Horror Game with a Style Unlike Any Other"
+        }
+      ]
+    },
+    {
+      "id": "winners-of-the-uk-best-places-to-work-awards-2026-revealed",
+      "titre": "Winners of the UK Best Places To Work Awards 2026 revealed",
+      "url": "https://www.gamesindustry.biz/winners-of-the-uk-best-places-to-work-awards-2026-revealed",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/winners-of-the-uk-best-places-to-work-awards-2026-revealed",
+          "titre": "Winners of the UK Best Places To Work Awards 2026 revealed"
+        }
+      ]
+    },
+    {
+      "id": "dynasty-warriors-producer-says-he-d-rather-not-make-more-rem",
+      "titre": "Dynasty Warriors producer says he’d rather not make more remasters, because he doesn’t know how many more games he has left",
+      "url": "https://www.videogameschronicle.com/news/dynasty-warriors-producer-says-hed-rather-not-make-more-remasters-because-he-doesnt-know-how-many-more-games-he-has-left/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/dynasty-warriors-producer-says-hed-rather-not-make-more-remasters-because-he-doesnt-know-how-many-more-games-he-has-left/",
+          "titre": "Dynasty Warriors producer says he’d rather not make more remasters, because he doesn’t know how many more games he has left"
+        }
+      ]
+    },
+    {
       "id": "memory-maker-warns-shortages-will-get-worse-in-2027-as-ceo-c",
       "titre": "Memory maker warns shortages will get worse in 2027, as CEO celebrates ‘much higher prices’",
       "url": "https://www.videogameschronicle.com/news/memory-maker-warns-shortages-will-get-worse-in-2027-as-ceo-celebrates-much-higher-prices/",
@@ -539,7 +719,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 2.0,
       "chaleur": 6,
       "liens": [
         {
@@ -557,7 +737,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -575,7 +755,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -593,7 +773,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -611,7 +791,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -629,13 +809,31 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/skyrim-lead-designer-says-he-hopes-the-elder-scrolls-6-adds-boats-and-naval-combat-as-it-would-be-a-natural-fit/",
           "titre": "Skyrim lead designer says he hopes The Elder Scrolls 6 adds boats and naval combat, as it would be a ‘natural’ fit"
+        }
+      ]
+    },
+    {
+      "id": "gears-of-war-e-day-is-missing-iconic-features-like-chainsaw",
+      "titre": "Gears of War: E-Day is missing iconic features like chainsaw duels and meat shields, but The Coalition says we shouldn't worry - they're \"not gone from the franchise\"",
+      "url": "https://www.eurogamer.net/gears-of-war-eday-missing-features-update",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 3.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gears-of-war-eday-missing-features-update",
+          "titre": "Gears of War: E-Day is missing iconic features like chainsaw duels and meat shields, but The Coalition says we shouldn't worry - they're \"not gone from the franchise\""
         }
       ]
     },
@@ -647,7 +845,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -665,7 +863,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -676,92 +874,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "unscrupulous-airbnb-host-tries-to-get-1-700-out-of-redditor",
-      "titre": "Unscrupulous Airbnb host tries to get $1,700 out of Redditor with AI-generated pic of overflowing toilet",
-      "url": "https://www.pcgamer.com/software/ai/unscrupulous-airbnb-host-tries-to-get-usd1-700-out-of-redditor-with-ai-generated-pic-of-overflowing-toilet/",
+      "id": "the-latest-ps5-slim-model-reportedly-changes-some-components",
+      "titre": "The latest PS5 Slim model reportedly changes some components, including a replaceable CMOS battery and revised cooling",
+      "url": "https://www.videogameschronicle.com/news/the-latest-ps5-slim-model-reportedly-changes-some-components-including-a-replaceable-cmos-battery-and-revised-cooling/",
       "sources": [
-        "PC Gamer"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 2.2,
+      "heures": 5.7,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/unscrupulous-airbnb-host-tries-to-get-usd1-700-out-of-redditor-with-ai-generated-pic-of-overflowing-toilet/",
-          "titre": "Unscrupulous Airbnb host tries to get $1,700 out of Redditor with AI-generated pic of overflowing toilet"
-        }
-      ]
-    },
-    {
-      "id": "our-resources-are-limited-sonic-boss-would-rather-focus-on",
-      "titre": "\"Our Resources Are Limited\" - Sonic Boss Would Rather Focus On New Games Over Remasters Or Remakes",
-      "url": "https://www.nintendolife.com/news/2026/10/our-resources-are-limited-sonic-boss-would-rather-focus-on-new-games-over-remasters-or-remakes",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/our-resources-are-limited-sonic-boss-would-rather-focus-on-new-games-over-remasters-or-remakes",
-          "titre": "\"Our Resources Are Limited\" - Sonic Boss Would Rather Focus On New Games Over Remasters Or Remakes"
-        }
-      ]
-    },
-    {
-      "id": "ps5-gets-ai-guided-upscaling-a-bit-like-ps5-pro-s-and-it-s-a",
-      "titre": "PS5 gets \"AI-guided upscaling\" a bit like PS5 Pro's, and it's available now in Marvel's Wolverine and Ghost of Yotei",
-      "url": "https://www.eurogamer.net/ps5-ai-upscaling-qssr-marvels-wolverine-ghost-yotei",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ps5-ai-upscaling-qssr-marvels-wolverine-ghost-yotei",
-          "titre": "PS5 gets \"AI-guided upscaling\" a bit like PS5 Pro's, and it's available now in Marvel's Wolverine and Ghost of Yotei"
-        }
-      ]
-    },
-    {
-      "id": "i-hate-having-to-prove-my-brand-loyalty-just-for-the-chance",
-      "titre": "I hate having to prove my brand loyalty just for the chance to buy hardware at full price",
-      "url": "https://www.pcgamer.com/hardware/i-hate-having-to-prove-my-brand-loyalty-just-for-the-chance-to-buy-hardware-at-full-price/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/i-hate-having-to-prove-my-brand-loyalty-just-for-the-chance-to-buy-hardware-at-full-price/",
-          "titre": "I hate having to prove my brand loyalty just for the chance to buy hardware at full price"
-        }
-      ]
-    },
-    {
-      "id": "if-game-developers-steal-one-thing-from-no-law-i-hope-it-s-t",
-      "titre": "If game developers steal one thing from No Law, I hope it's the open-world game's ridiculously detailed and realistic corner shops",
-      "url": "https://www.rockpapershotgun.com/if-game-developers-steal-one-thing-from-no-law-i-hope-its-the-open-world-games-ridiculously-detailed-and-realistic-corner-shops",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/if-game-developers-steal-one-thing-from-no-law-i-hope-its-the-open-world-games-ridiculously-detailed-and-realistic-corner-shops",
-          "titre": "If game developers steal one thing from No Law, I hope it's the open-world game's ridiculously detailed and realistic corner shops"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-latest-ps5-slim-model-reportedly-changes-some-components-including-a-replaceable-cmos-battery-and-revised-cooling/",
+          "titre": "The latest PS5 Slim model reportedly changes some components, including a replaceable CMOS battery and revised cooling"
         }
       ]
     },
@@ -773,49 +899,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wilds-to-switch-2",
           "titre": "Capcom Admits It's Been A \"Painstaking\" Process Porting Monster Hunter Wilds To Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "9-new-2026-games-on-sale-in-the-steam-autumn-sale",
-      "titre": "9 new 2026 games on sale in the Steam Autumn Sale",
-      "url": "https://www.pcgamer.com/software/platforms/9-new-2026-games-on-sale-in-the-steam-autumn-sale/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/platforms/9-new-2026-games-on-sale-in-the-steam-autumn-sale/",
-          "titre": "9 new 2026 games on sale in the Steam Autumn Sale"
-        }
-      ]
-    },
-    {
-      "id": "video-octopath-traveler-i-ii-side-by-side-graphics-compariso",
-      "titre": "Video: Octopath Traveler I & II Side-By-Side Graphics Comparison (Switch 1 & 2)",
-      "url": "https://www.nintendolife.com/news/2026/10/video-octopath-traveler-i-and-ii-side-by-side-graphics-comparison-switch-1-and-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/video-octopath-traveler-i-and-ii-side-by-side-graphics-comparison-switch-1-and-2",
-          "titre": "Video: Octopath Traveler I & II Side-By-Side Graphics Comparison (Switch 1 & 2)"
         }
       ]
     },
@@ -828,7 +918,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 18.0,
+      "heures": 19.9,
       "chaleur": 6,
       "liens": [
         {
@@ -852,7 +942,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 20.4,
+      "heures": 22.4,
       "chaleur": 6,
       "liens": [
         {
@@ -868,44 +958,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-division-developers-massive-are-now-the-global-brand-in",
-      "titre": "The Division developers Massive are now \"the global brand\" in charge of Splinter Cell and Ghost Recon, alongside a new Ubisoft dieselpunk MOBA",
-      "url": "https://www.rockpapershotgun.com/the-division-developers-massive-are-now-the-global-brand-in-charge-of-splinter-cell-and-ghost-recon-alongside-a-new-ubisoft-dieselpunk-moba",
+      "id": "9-new-2026-games-on-sale-in-the-steam-autumn-sale",
+      "titre": "9 new 2026 games on sale in the Steam Autumn Sale",
+      "url": "https://www.pcgamer.com/software/platforms/9-new-2026-games-on-sale-in-the-steam-autumn-sale/",
       "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
+        "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 26.4,
-      "chaleur": 6,
+      "reprises": 1,
+      "heures": 13.6,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-division-developers-massive-are-now-the-global-brand-in-charge-of-splinter-cell-and-ghost-recon-alongside-a-new-ubisoft-dieselpunk-moba",
-          "titre": "The Division developers Massive are now \"the global brand\" in charge of Splinter Cell and Ghost Recon, alongside a new Ubisoft dieselpunk MOBA"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/massive-entertainment-the-division-splinter-cell-ghost-recon",
-          "titre": "The Division studio Massive expands to take control of Splinter Cell and Ghost Recon, and a new IP, in Ubisoft's most recent reorganisation"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/platforms/9-new-2026-games-on-sale-in-the-steam-autumn-sale/",
+          "titre": "9 new 2026 games on sale in the Steam Autumn Sale"
         }
       ]
     },
     {
-      "id": "former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to",
-      "titre": "Former Sony Exec Shuhei Yoshida Thinks Nintendo Is \"Going To Do Pretty Well\" With Switch 2 \"For Many Years To Come\"",
-      "url": "https://www.nintendolife.com/news/2026/10/former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to-do-pretty-well-with-switch-2-for-many-years-to-come",
+      "id": "video-octopath-traveler-i-ii-side-by-side-graphics-compariso",
+      "titre": "Video: Octopath Traveler I & II Side-By-Side Graphics Comparison (Switch 1 & 2)",
+      "url": "https://www.nintendolife.com/news/2026/10/video-octopath-traveler-i-and-ii-side-by-side-graphics-comparison-switch-1-and-2",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.5,
-      "chaleur": 6,
+      "heures": 13.8,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to-do-pretty-well-with-switch-2-for-many-years-to-come",
-          "titre": "Former Sony Exec Shuhei Yoshida Thinks Nintendo Is \"Going To Do Pretty Well\" With Switch 2 \"For Many Years To Come\""
+          "url": "https://www.nintendolife.com/news/2026/10/video-octopath-traveler-i-and-ii-side-by-side-graphics-comparison-switch-1-and-2",
+          "titre": "Video: Octopath Traveler I & II Side-By-Side Graphics Comparison (Switch 1 & 2)"
         }
       ]
     },
@@ -917,31 +1001,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-1st-october-north-america-plus-3-discounted-eshop-games-worth-a-look",
           "titre": "Nintendo Download: 1st October (North America) - Plus 3 Discounted eShop Games Worth A Look"
-        }
-      ]
-    },
-    {
-      "id": "ps5-s-kena-scars-of-kosmora-officially-delayed-into-2027-new",
-      "titre": "PS5's Kena: Scars of Kosmora Officially Delayed into 2027, New Details Revealed",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5s-kena-scars-of-kosmora-officially-delayed-into-2027-new-details-revealed",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 24.2,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps5s-kena-scars-of-kosmora-officially-delayed-into-2027-new-details-revealed",
-          "titre": "PS5's Kena: Scars of Kosmora Officially Delayed into 2027, New Details Revealed"
         }
       ]
     },
@@ -953,7 +1019,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.8,
+      "heures": 27.7,
       "chaleur": 5,
       "liens": [
         {
@@ -971,13 +1037,103 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.6,
+      "heures": 28.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/the-coalition-gears-of-war-e-day-worried-layoffs-no-bonus",
           "titre": "As Xbox swings the axe, Gears of War: E-Day developers fear they'll be laid off straight after launch - and right before they'd be due their bonuses"
+        }
+      ]
+    },
+    {
+      "id": "unscrupulous-airbnb-host-tries-to-get-1-700-out-of-redditor",
+      "titre": "Unscrupulous Airbnb host tries to get $1,700 out of Redditor with AI-generated pic of overflowing toilet",
+      "url": "https://www.pcgamer.com/software/ai/unscrupulous-airbnb-host-tries-to-get-usd1-700-out-of-redditor-with-ai-generated-pic-of-overflowing-toilet/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/unscrupulous-airbnb-host-tries-to-get-usd1-700-out-of-redditor-with-ai-generated-pic-of-overflowing-toilet/",
+          "titre": "Unscrupulous Airbnb host tries to get $1,700 out of Redditor with AI-generated pic of overflowing toilet"
+        }
+      ]
+    },
+    {
+      "id": "our-resources-are-limited-sonic-boss-would-rather-focus-on",
+      "titre": "\"Our Resources Are Limited\" - Sonic Boss Would Rather Focus On New Games Over Remasters Or Remakes",
+      "url": "https://www.nintendolife.com/news/2026/10/our-resources-are-limited-sonic-boss-would-rather-focus-on-new-games-over-remasters-or-remakes",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/our-resources-are-limited-sonic-boss-would-rather-focus-on-new-games-over-remasters-or-remakes",
+          "titre": "\"Our Resources Are Limited\" - Sonic Boss Would Rather Focus On New Games Over Remasters Or Remakes"
+        }
+      ]
+    },
+    {
+      "id": "ps5-gets-ai-guided-upscaling-a-bit-like-ps5-pro-s-and-it-s-a",
+      "titre": "PS5 gets \"AI-guided upscaling\" a bit like PS5 Pro's, and it's available now in Marvel's Wolverine and Ghost of Yotei",
+      "url": "https://www.eurogamer.net/ps5-ai-upscaling-qssr-marvels-wolverine-ghost-yotei",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ps5-ai-upscaling-qssr-marvels-wolverine-ghost-yotei",
+          "titre": "PS5 gets \"AI-guided upscaling\" a bit like PS5 Pro's, and it's available now in Marvel's Wolverine and Ghost of Yotei"
+        }
+      ]
+    },
+    {
+      "id": "i-hate-having-to-prove-my-brand-loyalty-just-for-the-chance",
+      "titre": "I hate having to prove my brand loyalty just for the chance to buy hardware at full price",
+      "url": "https://www.pcgamer.com/hardware/i-hate-having-to-prove-my-brand-loyalty-just-for-the-chance-to-buy-hardware-at-full-price/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/i-hate-having-to-prove-my-brand-loyalty-just-for-the-chance-to-buy-hardware-at-full-price/",
+          "titre": "I hate having to prove my brand loyalty just for the chance to buy hardware at full price"
+        }
+      ]
+    },
+    {
+      "id": "if-game-developers-steal-one-thing-from-no-law-i-hope-it-s-t",
+      "titre": "If game developers steal one thing from No Law, I hope it's the open-world game's ridiculously detailed and realistic corner shops",
+      "url": "https://www.rockpapershotgun.com/if-game-developers-steal-one-thing-from-no-law-i-hope-its-the-open-world-games-ridiculously-detailed-and-realistic-corner-shops",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/if-game-developers-steal-one-thing-from-no-law-i-hope-its-the-open-world-games-ridiculously-detailed-and-realistic-corner-shops",
+          "titre": "If game developers steal one thing from No Law, I hope it's the open-world game's ridiculously detailed and realistic corner shops"
         }
       ]
     },
@@ -989,7 +1145,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +1163,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1016,169 +1172,9 @@ const VEILLE = {
           "titre": "Round Up: The Reviews For Minecraft Dungeons II Are In"
         }
       ]
-    },
-    {
-      "id": "there-s-something-even-scarier-than-huggy-wuggy-in-the-playt",
-      "titre": "There's something even scarier than Huggy Wuggy in the Playtime toy factory this weekend",
-      "url": "https://www.pcgamer.com/games/horror/theres-something-even-scarier-than-huggy-wuggy-in-the-playtime-toy-factory-this-weekend/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/theres-something-even-scarier-than-huggy-wuggy-in-the-playtime-toy-factory-this-weekend/",
-          "titre": "There's something even scarier than Huggy Wuggy in the Playtime toy factory this weekend"
-        }
-      ]
-    },
-    {
-      "id": "there-are-so-many-games-coming-out-in-october-you-guys",
-      "titre": "There are so many games coming out in October you guys",
-      "url": "https://www.pcgamer.com/games/pc-game-release-dates-october-2026/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/pc-game-release-dates-october-2026/",
-          "titre": "There are so many games coming out in October you guys"
-        }
-      ]
-    },
-    {
-      "id": "masters-of-albion-peter-molyneux-s-final-game-just-got-a-hug",
-      "titre": "Masters of Albion, Peter Molyneux's final game, just got a huge update and, [vigorous, lips-pursed nodding of approval], suddenly the old god game magic is back",
-      "url": "https://www.pcgamer.com/games/strategy/masters-of-albion-peter-molyneuxs-final-game-just-got-a-huge-update-and-vigorous-lips-pursed-nodding-of-approval-suddenly-the-old-god-game-magic-is-back/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/masters-of-albion-peter-molyneuxs-final-game-just-got-a-huge-update-and-vigorous-lips-pursed-nodding-of-approval-suddenly-the-old-god-game-magic-is-back/",
-          "titre": "Masters of Albion, Peter Molyneux's final game, just got a huge update and, [vigorous, lips-pursed nodding of approval], suddenly the old god game magic is back"
-        }
-      ]
-    },
-    {
-      "id": "if-ace-combat-s-too-pricey-this-excellent-indie-alternative",
-      "titre": "If Ace Combat's too pricey, this excellent indie alternative is on sale for just $12.50",
-      "url": "https://www.pcgamer.com/games/action/if-ace-combats-too-pricey-this-excellent-indie-alternative-is-on-sale-for-just-usd12-50/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/if-ace-combats-too-pricey-this-excellent-indie-alternative-is-on-sale-for-just-usd12-50/",
-          "titre": "If Ace Combat's too pricey, this excellent indie alternative is on sale for just $12.50"
-        }
-      ]
-    },
-    {
-      "id": "one-story-about-my-first-30-minutes-in-this-post-apocalyptic",
-      "titre": "One story about my first 30 minutes in this post-apocalyptic robot game led multiple people to buy it",
-      "url": "https://www.pcgamer.com/games/adventure/one-story-about-my-first-30-minutes-in-this-post-apocalyptic-robot-game-led-multiple-people-to-buy-it/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/adventure/one-story-about-my-first-30-minutes-in-this-post-apocalyptic-robot-game-led-multiple-people-to-buy-it/",
-          "titre": "One story about my first 30 minutes in this post-apocalyptic robot game led multiple people to buy it"
-        }
-      ]
-    },
-    {
-      "id": "sony-purportedly-plotting-new-ape-escape-as-redemption-arc-s",
-      "titre": "Sony Purportedly Plotting New Ape Escape, as Redemption Arc Starts",
-      "url": "https://www.pushsquare.com/news/2026/10/sony-purportedly-plotting-new-ape-escape-as-redemption-arc-starts",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 17.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sony-purportedly-plotting-new-ape-escape-as-redemption-arc-starts",
-          "titre": "Sony Purportedly Plotting New Ape Escape, as Redemption Arc Starts"
-        }
-      ]
-    },
-    {
-      "id": "there-s-no-doubt-about-it-anime-rpg-litgirls-was-made-for-me",
-      "titre": "There's No Doubt About It, Anime RPG LitGirls Was Made for Me",
-      "url": "https://www.pushsquare.com/news/2026/10/theres-no-doubt-about-it-anime-rpg-litgirls-was-made-for-me",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 18.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/theres-no-doubt-about-it-anime-rpg-litgirls-was-made-for-me",
-          "titre": "There's No Doubt About It, Anime RPG LitGirls Was Made for Me"
-        }
-      ]
-    },
-    {
-      "id": "japanese-charts-fire-emblem-sales-plummet-but-it-s-still-eno",
-      "titre": "Japanese Charts: Fire Emblem Sales Plummet, But It's Still Enough To Stay On The Podium",
-      "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-fire-emblem-sales-plummet-but-its-still-enough-to-stay-on-the-podium",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 19.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-fire-emblem-sales-plummet-but-its-still-enough-to-stay-on-the-podium",
-          "titre": "Japanese Charts: Fire Emblem Sales Plummet, But It's Still Enough To Stay On The Podium"
-        }
-      ]
-    },
-    {
-      "id": "yazoo-croc-2-remaster-release-date-confirmed-for-late-octobe",
-      "titre": "Yazoo! Croc 2 Remaster Release Date Confirmed for Late October on PS5, PS4",
-      "url": "https://www.pushsquare.com/news/2026/10/yazoo-croc-2-remaster-release-date-confirmed-for-late-october-on-ps5-ps4",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 19.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/yazoo-croc-2-remaster-release-date-confirmed-for-late-october-on-ps5-ps4",
-          "titre": "Yazoo! Croc 2 Remaster Release Date Confirmed for Late October on PS5, PS4"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Star Wars: Galactic Racer review"
+  ]
 };
