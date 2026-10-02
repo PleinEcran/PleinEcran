@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "02/10/2026 à 02h20",
+  "collecte": "02/10/2026 à 04h22",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 4,
-      "heures": 7.7,
+      "heures": 9.8,
       "chaleur": 18,
       "liens": [
         {
@@ -40,42 +40,24 @@ const VEILLE = {
       ]
     },
     {
-      "id": "guide-upcoming-nintendo-switch-2-games-accessories-for-octob",
-      "titre": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For October & November 2026",
-      "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-october-and-november-2026",
+      "id": "007-first-light-unveils-extended-operations-free-dlc-adds-ne",
+      "titre": "007 First Light Unveils Extended Operations Free DLC - Adds New Game+, Photo Mode And Much More",
+      "url": "https://www.nintendolife.com/news/2026/10/007-first-light-unveils-extended-operations-free-dlc-adds-new-gameplus-photo-mode-and-much-more",
       "sources": [
         "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 11.3,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-october-and-november-2026",
-          "titre": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For October & November 2026"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/playstation-ps-plus-games-lineup-october-2026",
-          "titre": "Here are our PS Plus monthly games for October 2026"
-        }
-      ]
-    },
-    {
-      "id": "007-first-light-gets-free-new-dlc-today-adding-new-game-plus",
-      "titre": "007 First Light gets free new DLC today, adding New Game Plus and Photo modes, new TacSim missions and more",
-      "url": "https://www.eurogamer.net/007-james-bond-first-light-free-dlc",
-      "sources": [
-        "Eurogamer",
+        "Nintendo Life",
         "Push Square",
         "VGC"
       ],
-      "reprises": 3,
-      "heures": 11.9,
-      "chaleur": 10,
+      "reprises": 4,
+      "heures": 0.5,
+      "chaleur": 15,
       "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/007-first-light-unveils-extended-operations-free-dlc-adds-new-gameplus-photo-mode-and-much-more",
+          "titre": "007 First Light Unveils Extended Operations Free DLC - Adds New Game+, Photo Mode And Much More"
+        },
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/007-james-bond-first-light-free-dlc",
@@ -94,6 +76,72 @@ const VEILLE = {
       ]
     },
     {
+      "id": "after-a-record-breaking-september-it-s-safe-to-say-steam-s-y",
+      "titre": "After a record-breaking September, 'it's safe to say Steam's yearly revenue will blow past $20B for the first time'",
+      "url": "https://www.pcgamer.com/software/platforms/after-a-record-breaking-september-its-safe-to-say-steams-yearly-revenue-will-blow-past-usd20b-for-the-first-time/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/platforms/after-a-record-breaking-september-its-safe-to-say-steams-yearly-revenue-will-blow-past-usd20b-for-the-first-time/",
+          "titre": "After a record-breaking September, 'it's safe to say Steam's yearly revenue will blow past $20B for the first time'"
+        }
+      ]
+    },
+    {
+      "id": "cd-projekt-red-says-it-s-working-on-fixes-for-witcher-3-rema",
+      "titre": "CD Projekt Red Says It's Working On Fixes For Witcher 3 Remastered",
+      "url": "https://www.nintendolife.com/news/2026/10/cd-projekt-red-says-its-working-on-fixes-for-witcher-3-remastered",
+      "sources": [
+        "Nintendo Life",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 2.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/cd-projekt-red-says-its-working-on-fixes-for-witcher-3-remastered",
+          "titre": "CD Projekt Red Says It's Working On Fixes For Witcher 3 Remastered"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-witcher-3-songs-of-the-pasts-setting-felt-like-a-really-natural-way-to-go-cd-projekt-red-story-director-says-while-parrying-my-attempts-to-breach-the-dlcs-guard",
+          "titre": "The Witcher 3: Songs of the Past's setting \"felt like a really natural way to go\", CD Projekt Red story director says, while parrying my attempts to breach the DLC's guard"
+        }
+      ]
+    },
+    {
+      "id": "guide-upcoming-nintendo-switch-2-games-accessories-for-octob",
+      "titre": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For October & November 2026",
+      "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-october-and-november-2026",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 13.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-october-and-november-2026",
+          "titre": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For October & November 2026"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/playstation-ps-plus-games-lineup-october-2026",
+          "titre": "Here are our PS Plus monthly games for October 2026"
+        }
+      ]
+    },
+    {
       "id": "capcom-has-a-plan-for-when-there-s-no-old-resident-evils-lef",
       "titre": "Capcom Has a Plan for When There's No Old Resident Evils Left to Remake",
       "url": "https://www.pushsquare.com/news/2026/10/capcom-has-a-plan-for-when-theres-no-old-resident-evils-left-to-remake",
@@ -103,7 +151,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 12.8,
+      "heures": 14.9,
       "chaleur": 9,
       "liens": [
         {
@@ -133,7 +181,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 16.3,
+      "heures": 18.3,
       "chaleur": 9,
       "liens": [
         {
@@ -161,7 +209,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 8,
       "liens": [
         {
@@ -179,7 +227,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.8,
       "chaleur": 8,
       "liens": [
         {
@@ -198,7 +246,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 8,
       "liens": [
         {
@@ -222,7 +270,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.8,
+      "heures": 9.9,
       "chaleur": 7,
       "liens": [
         {
@@ -234,54 +282,6 @@ const VEILLE = {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/remarkable-sony-reveals-new-ps5-upscaler-tech-qssr/",
           "titre": "‘Remarkable’: Sony reveals new PS5 upscaler tech, QSSR"
-        }
-      ]
-    },
-    {
-      "id": "how-to-unlock-jin-sakai-in-ghost-of-yotei-most-wanted",
-      "titre": "How to unlock Jin Sakai in Ghost of Yotei Most Wanted",
-      "url": "https://www.videogameschronicle.com/guide/how-to-unlock-jin-sakai-in-ghost-of-yotei-most-wanted/",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 10.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/how-to-unlock-jin-sakai-in-ghost-of-yotei-most-wanted/",
-          "titre": "How to unlock Jin Sakai in Ghost of Yotei Most Wanted"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/ghost-of-yotei-complete-edition",
-          "titre": "Review: Ghost of Yotei: Complete Edition (PS5) - Atsu Shines in Story DLC, But Most Wanted Mode Steals the Show"
-        }
-      ]
-    },
-    {
-      "id": "control-resonant-s-new-game-update-also-squashes-some-of-my",
-      "titre": "Control Resonant's New Game++ update also squashes some of my least favourite bugs, including the one where magic doors change my trousers",
-      "url": "https://www.rockpapershotgun.com/control-resonants-new-game-update-also-squashes-some-of-my-least-favourite-bugs-including-the-one-where-magic-doors-change-my-trousers",
-      "sources": [
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 12.0,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/control-resonants-new-game-update-also-squashes-some-of-my-least-favourite-bugs-including-the-one-where-magic-doors-change-my-trousers",
-          "titre": "Control Resonant's New Game++ update also squashes some of my least favourite bugs, including the one where magic doors change my trousers"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/control-resonant-ps5-update-1-4-live-now-with-enhanced-new-gameplus",
-          "titre": "Control Resonant PS5 Update 1.4 Live Now with Enhanced New Game+"
         }
       ]
     },
@@ -502,42 +502,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "there-s-something-even-scarier-than-huggy-wuggy-in-the-playt",
-      "titre": "There's something even scarier than Huggy Wuggy in the Playtime toy factory this weekend",
-      "url": "https://www.pcgamer.com/games/horror/theres-something-even-scarier-than-huggy-wuggy-in-the-playtime-toy-factory-this-weekend/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/theres-something-even-scarier-than-huggy-wuggy-in-the-playtime-toy-factory-this-weekend/",
-          "titre": "There's something even scarier than Huggy Wuggy in the Playtime toy factory this weekend"
-        }
-      ]
-    },
-    {
-      "id": "there-are-so-many-games-coming-out-in-october-you-guys",
-      "titre": "There are so many games coming out in October you guys",
-      "url": "https://www.pcgamer.com/games/pc-game-release-dates-october-2026/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/pc-game-release-dates-october-2026/",
-          "titre": "There are so many games coming out in October you guys"
-        }
-      ]
-    },
-    {
       "id": "you-can-now-buy-more-than-44-000-games-for-5-or-less-on-stea",
       "titre": "You can now buy more than 44,000 games for $5 or less on Steam",
       "url": "https://www.pcgamer.com/games/steam-autumn-sale-2026/",
@@ -545,7 +509,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 11.0,
       "chaleur": 6,
       "liens": [
         {
@@ -556,20 +520,50 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-download-1st-october-north-america-plus-3-discounte",
-      "titre": "Nintendo Download: 1st October (North America) - Plus 3 Discounted eShop Games Worth A Look",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-1st-october-north-america-plus-3-discounted-eshop-games-worth-a-look",
+      "id": "how-to-unlock-jin-sakai-in-ghost-of-yotei-most-wanted",
+      "titre": "How to unlock Jin Sakai in Ghost of Yotei Most Wanted",
+      "url": "https://www.videogameschronicle.com/guide/how-to-unlock-jin-sakai-in-ghost-of-yotei-most-wanted/",
       "sources": [
-        "Nintendo Life"
+        "Push Square",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 11.4,
+      "reprises": 2,
+      "heures": 12.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-1st-october-north-america-plus-3-discounted-eshop-games-worth-a-look",
-          "titre": "Nintendo Download: 1st October (North America) - Plus 3 Discounted eShop Games Worth A Look"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/how-to-unlock-jin-sakai-in-ghost-of-yotei-most-wanted/",
+          "titre": "How to unlock Jin Sakai in Ghost of Yotei Most Wanted"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/ghost-of-yotei-complete-edition",
+          "titre": "Review: Ghost of Yotei: Complete Edition (PS5) - Atsu Shines in Story DLC, But Most Wanted Mode Steals the Show"
+        }
+      ]
+    },
+    {
+      "id": "control-resonant-s-new-game-update-also-squashes-some-of-my",
+      "titre": "Control Resonant's New Game++ update also squashes some of my least favourite bugs, including the one where magic doors change my trousers",
+      "url": "https://www.rockpapershotgun.com/control-resonants-new-game-update-also-squashes-some-of-my-least-favourite-bugs-including-the-one-where-magic-doors-change-my-trousers",
+      "sources": [
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 14.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/control-resonants-new-game-update-also-squashes-some-of-my-least-favourite-bugs-including-the-one-where-magic-doors-change-my-trousers",
+          "titre": "Control Resonant's New Game++ update also squashes some of my least favourite bugs, including the one where magic doors change my trousers"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/control-resonant-ps5-update-1-4-live-now-with-enhanced-new-gameplus",
+          "titre": "Control Resonant PS5 Update 1.4 Live Now with Enhanced New Game+"
         }
       ]
     },
@@ -582,7 +576,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 6,
       "liens": [
         {
@@ -606,7 +600,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 13.3,
+      "heures": 15.4,
       "chaleur": 6,
       "liens": [
         {
@@ -630,7 +624,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 14.2,
+      "heures": 16.3,
       "chaleur": 6,
       "liens": [
         {
@@ -653,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.3,
+      "heures": 20.4,
       "chaleur": 6,
       "liens": [
         {
@@ -671,37 +665,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.9,
+      "heures": 27.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/nintendo-switch-2-system-update-23-0-1-is-now-live-here-are-the-full-patch-notes",
           "titre": "Nintendo Switch 2 System Update 23.0.1 Is Now Live, Here Are The Full Patch Notes"
-        }
-      ]
-    },
-    {
-      "id": "suda-51-s-grasshopper-manufacture-splits-from-netease",
-      "titre": "Suda 51's Grasshopper Manufacture splits from NetEase",
-      "url": "https://www.gamedeveloper.com/business/suda-51-s-grasshopper-manufacture-splits-from-netease",
-      "sources": [
-        "Game Developer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 30.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/suda-51-s-grasshopper-manufacture-splits-from-netease",
-          "titre": "Suda 51's Grasshopper Manufacture splits from NetEase"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/no-game-no-life-grasshopper-manufacture-have-leapt-from-the-jaws-of-netease-and-gone-indie-again",
-          "titre": "\"NO GAME NO LIFE\": Grasshopper Manufacture have leapt from the jaws of NetEase and gone indie again"
         }
       ]
     },
@@ -713,7 +683,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 31.4,
+      "heures": 33.4,
       "chaleur": 6,
       "liens": [
         {
@@ -731,13 +701,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
           "titre": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-download-1st-october-north-america-plus-3-discounte",
+      "titre": "Nintendo Download: 1st October (North America) - Plus 3 Discounted eShop Games Worth A Look",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-1st-october-north-america-plus-3-discounted-eshop-games-worth-a-look",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-1st-october-north-america-plus-3-discounted-eshop-games-worth-a-look",
+          "titre": "Nintendo Download: 1st October (North America) - Plus 3 Discounted eShop Games Worth A Look"
         }
       ]
     },
@@ -749,7 +737,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 17.7,
       "chaleur": 5,
       "liens": [
         {
@@ -767,7 +755,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.5,
       "chaleur": 5,
       "liens": [
         {
@@ -785,31 +773,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.6,
+      "heures": 24.6,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-now-shut-down-mario-kart-tour",
           "titre": "Nintendo Has Now Shut Down Mario Kart Tour"
-        }
-      ]
-    },
-    {
-      "id": "pok-mon-pokopia-expansion-pass-switch-2-game-key-card-releas",
-      "titre": "Pokémon Pokopia + Expansion Pass Switch 2 Game-Key Card Release Announced",
-      "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-plus-expansion-pass-switch-2-game-key-card-release-announced",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 25.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-plus-expansion-pass-switch-2-game-key-card-release-announced",
-          "titre": "Pokémon Pokopia + Expansion Pass Switch 2 Game-Key Card Release Announced"
         }
       ]
     },
@@ -821,7 +791,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.3,
       "chaleur": 5,
       "liens": [
         {
@@ -832,38 +802,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "it-s-not-even-out-yet-but-valve-s-deadlock-just-became-one-o",
-      "titre": "It's not even out yet, but Valve's Deadlock just became one of the most played games on Steam",
-      "url": "https://www.eurogamer.net/deadlock-update-steam-most-played-games",
+      "id": "there-s-something-even-scarier-than-huggy-wuggy-in-the-playt",
+      "titre": "There's something even scarier than Huggy Wuggy in the Playtime toy factory this weekend",
+      "url": "https://www.pcgamer.com/games/horror/theres-something-even-scarier-than-huggy-wuggy-in-the-playtime-toy-factory-this-weekend/",
       "sources": [
-        "Eurogamer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 34.9,
-      "chaleur": 5,
+      "heures": 5.8,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/deadlock-update-steam-most-played-games",
-          "titre": "It's not even out yet, but Valve's Deadlock just became one of the most played games on Steam"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/theres-something-even-scarier-than-huggy-wuggy-in-the-playtime-toy-factory-this-weekend/",
+          "titre": "There's something even scarier than Huggy Wuggy in the Playtime toy factory this weekend"
         }
       ]
     },
     {
-      "id": "crimson-desert-s-first-expansion-charting-the-unknown-delaye",
-      "titre": "Crimson Desert's first expansion, Charting the Unknown, delayed so Pearl Abyss get more time to polish and stabilise the red pudding",
-      "url": "https://www.rockpapershotgun.com/crimson-deserts-first-expansion-charting-the-unknown-delayed-so-pearl-abyss-get-more-time-to-polish-and-stabilise-the-red-pudding",
+      "id": "there-are-so-many-games-coming-out-in-october-you-guys",
+      "titre": "There are so many games coming out in October you guys",
+      "url": "https://www.pcgamer.com/games/pc-game-release-dates-october-2026/",
       "sources": [
-        "Rock Paper Shotgun"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 35.8,
-      "chaleur": 5,
+      "heures": 5.8,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/crimson-deserts-first-expansion-charting-the-unknown-delayed-so-pearl-abyss-get-more-time-to-polish-and-stabilise-the-red-pudding",
-          "titre": "Crimson Desert's first expansion, Charting the Unknown, delayed so Pearl Abyss get more time to polish and stabilise the red pudding"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/pc-game-release-dates-october-2026/",
+          "titre": "There are so many games coming out in October you guys"
         }
       ]
     },
@@ -875,7 +845,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -893,7 +863,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -911,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -929,7 +899,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -947,7 +917,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -965,7 +935,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -983,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1001,7 +971,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1019,7 +989,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1037,7 +1007,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1055,7 +1025,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1073,7 +1043,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1091,7 +1061,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1109,7 +1079,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1127,7 +1097,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1145,7 +1115,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1163,8 +1133,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1181,8 +1151,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1190,7 +1160,45 @@ const VEILLE = {
           "titre": "Ghost of Yotei Complete Edition review: An expansion worth returning for"
         }
       ]
+    },
+    {
+      "id": "inin-relaunches-r-type-dimensions-3-with-a-free-digital-artb",
+      "titre": "ININ 'Relaunches' R-Type Dimensions 3 With A Free Digital Artbook",
+      "url": "https://www.nintendolife.com/news/2026/10/inin-relaunches-r-type-dimensions-3-with-a-free-digital-artbook",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/inin-relaunches-r-type-dimensions-3-with-a-free-digital-artbook",
+          "titre": "ININ 'Relaunches' R-Type Dimensions 3 With A Free Digital Artbook"
+        }
+      ]
+    },
+    {
+      "id": "retrospace-offers-a-huge-sci-fi-playground-for-inquisitive-s",
+      "titre": "RetroSpace offers a huge sci-fi playground for inquisitive space janitors, but I'm not that System Shocked by the tools at your disposal",
+      "url": "https://www.rockpapershotgun.com/retrospace-offers-a-huge-sci-fi-playground-for-inquisitive-space-janitors-but-im-not-that-system-shocked-by-the-tools-at-your-disposal",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 12.9,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/retrospace-offers-a-huge-sci-fi-playground-for-inquisitive-space-janitors-but-im-not-that-system-shocked-by-the-tools-at-your-disposal",
+          "titre": "RetroSpace offers a huge sci-fi playground for inquisitive space janitors, but I'm not that System Shocked by the tools at your disposal"
+        }
+      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "007 First Light Unveils Extended Operations Free DLC - Adds New Game+, Photo Mode And Much More"
+  ]
 };
