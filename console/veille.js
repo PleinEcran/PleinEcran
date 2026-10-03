@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "03/10/2026 à 00h27",
+  "collecte": "03/10/2026 à 02h22",
   "seuil": 14,
   "sujets": [
     {
@@ -13,7 +13,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 15,
       "liens": [
         {
@@ -42,7 +42,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 5.3,
+      "heures": 7.2,
       "chaleur": 10,
       "liens": [
         {
@@ -66,7 +66,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 7.5,
+      "heures": 9.4,
       "chaleur": 10,
       "liens": [
         {
@@ -82,6 +82,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "buckle-up-memory-shortages-are-reportedly-set-to-get-worse-i",
+      "titre": "Buckle Up, Memory Shortages Are Reportedly Set To Get Worse In 2027",
+      "url": "https://www.nintendolife.com/news/2026/10/buckle-up-memory-shortages-are-reportedly-set-to-get-worse-in-2027",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 10.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/buckle-up-memory-shortages-are-reportedly-set-to-get-worse-in-2027",
+          "titre": "Buckle Up, Memory Shortages Are Reportedly Set To Get Worse In 2027"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/memory-maker-warns-shortages-will-get-worse-in-2027-as-ceo-celebrates-much-higher-prices/",
+          "titre": "Memory maker warns shortages will get worse in 2027, as CEO celebrates ‘much higher prices’"
+        }
+      ]
+    },
+    {
       "id": "star-wars-galactic-racer-review",
       "titre": "Star Wars: Galactic Racer review",
       "url": "https://www.eurogamer.net/star-wars-galactic-racer-review",
@@ -91,8 +115,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 11.5,
-      "chaleur": 10,
+      "heures": 13.4,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
@@ -112,26 +136,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "talking-point-what-are-you-playing-this-weekend-issue-652",
-      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 652",
-      "url": "https://www.pushsquare.com/news/2026/10/talking-point-what-are-you-playing-this-weekend-issue-652",
+      "id": "nintendo-has-renewed-multiple-game-trademarks",
+      "titre": "Nintendo Has Renewed Multiple Game Trademarks",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-renewed-multiple-game-trademarks",
       "sources": [
-        "Nintendo Life",
-        "Push Square"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 1.5,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/talking-point-what-are-you-playing-this-weekend-issue-652",
-          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 652"
-        },
-        {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-so-how-are-you-liking-the-castlevania-belmonts-curse-demo",
-          "titre": "Talking Point: So, How Are You Liking The Castlevania: Belmont's Curse Demo?"
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-renewed-multiple-game-trademarks",
+          "titre": "Nintendo Has Renewed Multiple Game Trademarks"
+        }
+      ]
+    },
+    {
+      "id": "let-s-catch-you-up-on-all-the-latest-news-from-steam-s-20-mo",
+      "titre": "Let's catch you up on all the latest news from Steam's 20 most-wishlisted games",
+      "url": "https://www.pcgamer.com/games/lets-catch-you-up-on-all-the-latest-news-from-steams-20-most-wishlisted-games/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.8,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/lets-catch-you-up-on-all-the-latest-news-from-steams-20-most-wishlisted-games/",
+          "titre": "Let's catch you up on all the latest news from Steam's 20 most-wishlisted games"
         }
       ]
     },
@@ -144,8 +180,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 2.9,
-      "chaleur": 9,
+      "heures": 4.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Game Developer",
@@ -160,48 +196,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "buckle-up-memory-shortages-are-reportedly-set-to-get-worse-i",
-      "titre": "Buckle Up, Memory Shortages Are Reportedly Set To Get Worse In 2027",
-      "url": "https://www.nintendolife.com/news/2026/10/buckle-up-memory-shortages-are-reportedly-set-to-get-worse-in-2027",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 9.0,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/buckle-up-memory-shortages-are-reportedly-set-to-get-worse-in-2027",
-          "titre": "Buckle Up, Memory Shortages Are Reportedly Set To Get Worse In 2027"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/memory-maker-warns-shortages-will-get-worse-in-2027-as-ceo-celebrates-much-higher-prices/",
-          "titre": "Memory maker warns shortages will get worse in 2027, as CEO celebrates ‘much higher prices’"
-        }
-      ]
-    },
-    {
-      "id": "let-s-catch-you-up-on-all-the-latest-news-from-steam-s-20-mo",
-      "titre": "Let's catch you up on all the latest news from Steam's 20 most-wishlisted games",
-      "url": "https://www.pcgamer.com/games/lets-catch-you-up-on-all-the-latest-news-from-steams-20-most-wishlisted-games/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/lets-catch-you-up-on-all-the-latest-news-from-steams-20-most-wishlisted-games/",
-          "titre": "Let's catch you up on all the latest news from Steam's 20 most-wishlisted games"
-        }
-      ]
-    },
-    {
       "id": "this-is-your-dreamcast-moment-former-playstation-boss-think",
       "titre": "\"This is your Dreamcast moment\": Former PlayStation boss thinks Xbox needs to \"pick a lane\" with exclusive games to fix itself",
       "url": "https://www.eurogamer.net/dreamcast-moment-former-playstation-boss-xbox-exclusive-games",
@@ -209,7 +203,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.4,
       "chaleur": 7,
       "liens": [
         {
@@ -227,7 +221,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.5,
       "chaleur": 7,
       "liens": [
         {
@@ -245,7 +239,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.1,
       "chaleur": 7,
       "liens": [
         {
@@ -472,92 +466,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "valve-s-patch-note-supremacy",
-      "titre": "Valve's patch note supremacy",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/valves-patch-note-supremacy/",
+      "id": "sonic-racing-crossworlds-final-content-drop-of-year-one-arri",
+      "titre": "Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Arrives This Month",
+      "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-final-content-drop-of-year-one-arrives-this-month",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.3,
+      "heures": 1.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/valves-patch-note-supremacy/",
-          "titre": "Valve's patch note supremacy"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-final-content-drop-of-year-one-arrives-this-month",
+          "titre": "Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Arrives This Month"
         }
       ]
     },
     {
-      "id": "for-once-i-m-happy-to-see-expensive-corporate-lawyers-forcin",
-      "titre": "For once, I'm happy to see expensive corporate lawyers forcing a fan project offline",
-      "url": "https://www.pcgamer.com/games/fallout/for-once-im-happy-to-see-expensive-corporate-lawyers-forcing-a-fan-project-offline/",
+      "id": "talking-point-what-are-you-playing-this-weekend-issue-652",
+      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 652",
+      "url": "https://www.pushsquare.com/news/2026/10/talking-point-what-are-you-playing-this-weekend-issue-652",
       "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fallout/for-once-im-happy-to-see-expensive-corporate-lawyers-forcing-a-fan-project-offline/",
-          "titre": "For once, I'm happy to see expensive corporate lawyers forcing a fan project offline"
-        }
-      ]
-    },
-    {
-      "id": "ai-guys-beefing-with-the-pope-a-brief-recap",
-      "titre": "AI guys beefing with the pope: A brief recap",
-      "url": "https://www.pcgamer.com/software/ai/ai-guys-beefing-with-the-pope-a-brief-recap/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/ai-guys-beefing-with-the-pope-a-brief-recap/",
-          "titre": "AI guys beefing with the pope: A brief recap"
-        }
-      ]
-    },
-    {
-      "id": "sega-is-releasing-a-porcelain-sonic-35th-anniversary-statue",
-      "titre": "Sega is releasing a porcelain Sonic 35th anniversary statue, limited to 50 pieces and costing $6,300 each",
-      "url": "https://www.videogameschronicle.com/news/sega-is-releasing-a-porcelain-sonic-35th-anniversary-statue-limited-to-50-pieces-and-costing-6300-each/",
-      "sources": [
-        "VGC"
+        "Push Square"
       ],
       "reprises": 1,
       "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sega-is-releasing-a-porcelain-sonic-35th-anniversary-statue-limited-to-50-pieces-and-costing-6300-each/",
-          "titre": "Sega is releasing a porcelain Sonic 35th anniversary statue, limited to 50 pieces and costing $6,300 each"
-        }
-      ]
-    },
-    {
-      "id": "i-ve-been-skeptical-about-bandai-namco-s-upcoming-gundam-gam",
-      "titre": "I've been skeptical about Bandai Namco's upcoming Gundam game—but then I saw this model kit's chainsaw macuahuitl",
-      "url": "https://www.pcgamer.com/games/action/ive-been-skeptical-about-bandai-namcos-upcoming-gundam-game-but-then-i-saw-this-model-kits-chainsaw-macuahuitl/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/ive-been-skeptical-about-bandai-namcos-upcoming-gundam-game-but-then-i-saw-this-model-kits-chainsaw-macuahuitl/",
-          "titre": "I've been skeptical about Bandai Namco's upcoming Gundam game—but then I saw this model kit's chainsaw macuahuitl"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/talking-point-what-are-you-playing-this-weekend-issue-652",
+          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 652"
         }
       ]
     },
@@ -569,7 +509,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
@@ -587,49 +527,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/the-father-of-playstation-thinks-games-have-stagnated-calls-for-curiosity-in-developers",
           "titre": "The Father of PlayStation Thinks Games Have Stagnated, Calls for Curiosity in Developers"
-        }
-      ]
-    },
-    {
-      "id": "poll-did-you-manage-to-get-tickets-to-the-zelda-40th-anniver",
-      "titre": "Poll: Did You Manage To Get Tickets To The Zelda 40th Anniversary Concert?",
-      "url": "https://www.nintendolife.com/features/poll-did-you-manage-to-get-tickets-to-the-zelda-40th-anniversary-concert",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/poll-did-you-manage-to-get-tickets-to-the-zelda-40th-anniversary-concert",
-          "titre": "Poll: Did You Manage To Get Tickets To The Zelda 40th Anniversary Concert?"
-        }
-      ]
-    },
-    {
-      "id": "halo-s-new-steward-activision-reportedly-considering-rebooti",
-      "titre": "Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge",
-      "url": "https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot",
-          "titre": "Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge"
         }
       ]
     },
@@ -642,7 +546,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 13.3,
+      "heures": 15.2,
       "chaleur": 6,
       "liens": [
         {
@@ -666,7 +570,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 20.5,
+      "heures": 22.5,
       "chaleur": 6,
       "liens": [
         {
@@ -689,13 +593,49 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.5,
+      "heures": 35.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-october-and-november-2026",
           "titre": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For October & November 2026"
+        }
+      ]
+    },
+    {
+      "id": "poll-did-you-manage-to-get-tickets-to-the-zelda-40th-anniver",
+      "titre": "Poll: Did You Manage To Get Tickets To The Zelda 40th Anniversary Concert?",
+      "url": "https://www.nintendolife.com/features/poll-did-you-manage-to-get-tickets-to-the-zelda-40th-anniversary-concert",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/poll-did-you-manage-to-get-tickets-to-the-zelda-40th-anniversary-concert",
+          "titre": "Poll: Did You Manage To Get Tickets To The Zelda 40th Anniversary Concert?"
+        }
+      ]
+    },
+    {
+      "id": "halo-s-new-steward-activision-reportedly-considering-rebooti",
+      "titre": "Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge",
+      "url": "https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 13.1,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot",
+          "titre": "Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge"
         }
       ]
     },
@@ -707,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.5,
       "chaleur": 5,
       "liens": [
         {
@@ -725,7 +665,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.9,
+      "heures": 25.8,
       "chaleur": 5,
       "liens": [
         {
@@ -743,7 +683,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 29.8,
+      "heures": 31.8,
       "chaleur": 5,
       "liens": [
         {
@@ -754,20 +694,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-download-1st-october-north-america-plus-3-discounte",
-      "titre": "Nintendo Download: 1st October (North America) - Plus 3 Discounted eShop Games Worth A Look",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-1st-october-north-america-plus-3-discounted-eshop-games-worth-a-look",
+      "id": "valve-s-patch-note-supremacy",
+      "titre": "Valve's patch note supremacy",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/valves-patch-note-supremacy/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 33.5,
-      "chaleur": 5,
+      "heures": 4.3,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-1st-october-north-america-plus-3-discounted-eshop-games-worth-a-look",
-          "titre": "Nintendo Download: 1st October (North America) - Plus 3 Discounted eShop Games Worth A Look"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/valves-patch-note-supremacy/",
+          "titre": "Valve's patch note supremacy"
+        }
+      ]
+    },
+    {
+      "id": "for-once-i-m-happy-to-see-expensive-corporate-lawyers-forcin",
+      "titre": "For once, I'm happy to see expensive corporate lawyers forcing a fan project offline",
+      "url": "https://www.pcgamer.com/games/fallout/for-once-im-happy-to-see-expensive-corporate-lawyers-forcing-a-fan-project-offline/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fallout/for-once-im-happy-to-see-expensive-corporate-lawyers-forcing-a-fan-project-offline/",
+          "titre": "For once, I'm happy to see expensive corporate lawyers forcing a fan project offline"
+        }
+      ]
+    },
+    {
+      "id": "ai-guys-beefing-with-the-pope-a-brief-recap",
+      "titre": "AI guys beefing with the pope: A brief recap",
+      "url": "https://www.pcgamer.com/software/ai/ai-guys-beefing-with-the-pope-a-brief-recap/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/ai-guys-beefing-with-the-pope-a-brief-recap/",
+          "titre": "AI guys beefing with the pope: A brief recap"
+        }
+      ]
+    },
+    {
+      "id": "sega-is-releasing-a-porcelain-sonic-35th-anniversary-statue",
+      "titre": "Sega is releasing a porcelain Sonic 35th anniversary statue, limited to 50 pieces and costing $6,300 each",
+      "url": "https://www.videogameschronicle.com/news/sega-is-releasing-a-porcelain-sonic-35th-anniversary-statue-limited-to-50-pieces-and-costing-6300-each/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sega-is-releasing-a-porcelain-sonic-35th-anniversary-statue-limited-to-50-pieces-and-costing-6300-each/",
+          "titre": "Sega is releasing a porcelain Sonic 35th anniversary statue, limited to 50 pieces and costing $6,300 each"
+        }
+      ]
+    },
+    {
+      "id": "i-ve-been-skeptical-about-bandai-namco-s-upcoming-gundam-gam",
+      "titre": "I've been skeptical about Bandai Namco's upcoming Gundam game—but then I saw this model kit's chainsaw macuahuitl",
+      "url": "https://www.pcgamer.com/games/action/ive-been-skeptical-about-bandai-namcos-upcoming-gundam-game-but-then-i-saw-this-model-kits-chainsaw-macuahuitl/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/ive-been-skeptical-about-bandai-namcos-upcoming-gundam-game-but-then-i-saw-this-model-kits-chainsaw-macuahuitl/",
+          "titre": "I've been skeptical about Bandai Namco's upcoming Gundam game—but then I saw this model kit's chainsaw macuahuitl"
         }
       ]
     },
@@ -779,7 +791,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -797,7 +809,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +827,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -833,7 +845,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -851,7 +863,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -869,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +899,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +917,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +935,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +953,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +971,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +989,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +1007,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,7 +1025,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,7 +1043,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1049,7 +1061,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1067,7 +1079,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1085,7 +1097,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1103,7 +1115,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 10.0,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1121,7 +1133,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.0,
+      "heures": 12.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1130,27 +1142,7 @@ const VEILLE = {
           "titre": "Limited Edition Lisa PS5 Controller Available Now, But Selling Out Fast"
         }
       ]
-    },
-    {
-      "id": "podcast-why-we-re-ready-for-a-new-uncharted-game",
-      "titre": "Podcast: Why we’re ready for a new Uncharted game",
-      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-why-were-ready-for-a-new-uncharted-game/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-why-were-ready-for-a-new-uncharted-game/",
-          "titre": "Podcast: Why we’re ready for a new Uncharted game"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat"
-  ]
+  "alertes": []
 };
