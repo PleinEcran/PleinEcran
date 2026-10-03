@@ -1,8 +1,38 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "03/10/2026 à 08h22",
+  "collecte": "03/10/2026 à 10h20",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "gta-6-rating-pulled-after-revealing-sex-scenes-and-drug-use",
+      "titre": "GTA 6 rating pulled after revealing sex scenes and drug use",
+      "url": "https://www.videogameschronicle.com/news/gta-6-rating-pulled-after-revealing-sex-scenes-and-drug-use/",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 0.7,
+      "chaleur": 15,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/gta-6-rating-pulled-after-revealing-sex-scenes-and-drug-use/",
+          "titre": "GTA 6 rating pulled after revealing sex scenes and drug use"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta6-age-rating-pegi-lucia-jason-drug-use",
+          "titre": "GTA 6's 18+ age rating reveals Lucia and Jason can partake in drug use \"directly from their inventory\" and \"at any time\""
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/drug-use-nudity-and-sexual-fetishes-all-in-gta-6",
+          "titre": "Drug Use, Nudity, and Sexual Fetishes All in GTA 6"
+        }
+      ]
+    },
     {
       "id": "gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-he",
       "titre": "GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat",
@@ -13,7 +43,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 9.6,
+      "heures": 11.5,
       "chaleur": 13,
       "liens": [
         {
@@ -34,22 +64,22 @@ const VEILLE = {
       ]
     },
     {
-      "id": "what-we-ve-been-playing-that-s-one-of-gaming-s-great-cities",
-      "titre": "What we've been playing - \"That's one of gaming's great cities, that is\"",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-thats-one-of-gamings-great-cities-that-is",
+      "id": "talking-point-what-are-you-playing-this-weekend-3rd-october",
+      "titre": "Talking Point: What Are You Playing This Weekend? (3rd October)",
+      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-3rd-october",
       "sources": [
-        "Eurogamer",
+        "Nintendo Life",
         "Push Square",
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 1.4,
+      "heures": 1.3,
       "chaleur": 12,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/what-weve-been-playing-thats-one-of-gamings-great-cities-that-is",
-          "titre": "What we've been playing - \"That's one of gaming's great cities, that is\""
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-3rd-october",
+          "titre": "Talking Point: What Are You Playing This Weekend? (3rd October)"
         },
         {
           "source": "Rock Paper Shotgun",
@@ -64,26 +94,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-s-18-age-rating-reveals-lucia-and-jason-can-partake-in",
-      "titre": "GTA 6's 18+ age rating reveals Lucia and Jason can partake in drug use \"directly from their inventory\" and \"at any time\"",
-      "url": "https://www.eurogamer.net/gta6-age-rating-pegi-lucia-jason-drug-use",
+      "id": "dan-houser-still-hasn-t-seen-gta-6-i-will-try-and-avoid-it",
+      "titre": "Dan Houser still hasn’t seen GTA 6: ‘I will try and avoid it’",
+      "url": "https://www.videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it/",
       "sources": [
-        "Eurogamer",
-        "Push Square"
+        "VGC"
       ],
-      "reprises": 2,
-      "heures": 13.2,
+      "reprises": 1,
+      "heures": 0.3,
       "chaleur": 9,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta6-age-rating-pegi-lucia-jason-drug-use",
-          "titre": "GTA 6's 18+ age rating reveals Lucia and Jason can partake in drug use \"directly from their inventory\" and \"at any time\""
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/drug-use-nudity-and-sexual-fetishes-all-in-gta-6",
-          "titre": "Drug Use, Nudity, and Sexual Fetishes All in GTA 6"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it/",
+          "titre": "Dan Houser still hasn’t seen GTA 6: ‘I will try and avoid it’"
         }
       ]
     },
@@ -96,7 +120,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 15.4,
+      "heures": 17.3,
       "chaleur": 9,
       "liens": [
         {
@@ -112,50 +136,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "star-wars-galactic-racer-review",
-      "titre": "Star Wars: Galactic Racer review",
-      "url": "https://www.eurogamer.net/star-wars-galactic-racer-review",
-      "sources": [
-        "Eurogamer",
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 19.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/star-wars-galactic-racer-review",
-          "titre": "Star Wars: Galactic Racer review"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/review/star-wars-galactic-racer-review/",
-          "titre": "Star Wars Galactic Racer review: Somehow, Burnout returns in a modern racing classic"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/star-wars-galactic-racer",
-          "titre": "Review: Star Wars: Galactic Racer (PS5) - This Ridiculously Good Racer Is in a Galactic League of Its Own"
-        }
-      ]
-    },
-    {
-      "id": "reminder-lies-of-p-switch-2-physical-release-now-available",
-      "titre": "Reminder: Lies Of P Switch 2 Physical Release Now Available",
-      "url": "https://www.nintendolife.com/news/2026/10/reminder-lies-of-p-switch-2-physical-release-now-available",
+      "id": "random-tough-week-grab-yourself-a-brew-get-these-immaculate",
+      "titre": "Random: Tough Week? Grab Yourself A Brew & Get These Immaculate Zelda Tunes On Your Playlist, Pronto",
+      "url": "https://www.nintendolife.com/news/2026/10/random-tough-week-grab-yourself-a-brew-and-get-these-immaculate-zelda-tunes-on-your-playlist-pronto",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.6,
+      "heures": 0.3,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/reminder-lies-of-p-switch-2-physical-release-now-available",
-          "titre": "Reminder: Lies Of P Switch 2 Physical Release Now Available"
+          "url": "https://www.nintendolife.com/news/2026/10/random-tough-week-grab-yourself-a-brew-and-get-these-immaculate-zelda-tunes-on-your-playlist-pronto",
+          "titre": "Random: Tough Week? Grab Yourself A Brew & Get These Immaculate Zelda Tunes On Your Playlist, Pronto"
         }
       ]
     },
@@ -168,7 +162,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 16.9,
+      "heures": 18.8,
       "chaleur": 8,
       "liens": [
         {
@@ -400,6 +394,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "we-felt-that-fans-were-getting-a-bit-desensitised-to-the-vi",
+      "titre": "\"We felt that fans were getting a bit desensitised to the violence\" Gears of War: E-Day devs made a \"big investment\" in gore, and weirdly, it works",
+      "url": "https://www.eurogamer.net/we-felt-that-fans-were-getting-a-bit-desensitised-to-the-violence-gears-of-war-e-day-devs-made-a-big-investment-in-gore-and-weirdly-it-works",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/we-felt-that-fans-were-getting-a-bit-desensitised-to-the-violence-gears-of-war-e-day-devs-made-a-big-investment-in-gore-and-weirdly-it-works",
+          "titre": "\"We felt that fans were getting a bit desensitised to the violence\" Gears of War: E-Day devs made a \"big investment\" in gore, and weirdly, it works"
+        }
+      ]
+    },
+    {
+      "id": "what-we-ve-been-playing-that-s-one-of-gaming-s-great-cities",
+      "titre": "What we've been playing - \"That's one of gaming's great cities, that is\"",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-thats-one-of-gamings-great-cities-that-is",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 3.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/what-weve-been-playing-thats-one-of-gamings-great-cities-that-is",
+          "titre": "What we've been playing - \"That's one of gaming's great cities, that is\""
+        }
+      ]
+    },
+    {
+      "id": "reminder-lies-of-p-switch-2-physical-release-now-available",
+      "titre": "Reminder: Lies Of P Switch 2 Physical Release Now Available",
+      "url": "https://www.nintendolife.com/news/2026/10/reminder-lies-of-p-switch-2-physical-release-now-available",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/reminder-lies-of-p-switch-2-physical-release-now-available",
+          "titre": "Reminder: Lies Of P Switch 2 Physical Release Now Available"
+        }
+      ]
+    },
+    {
       "id": "nintendo-has-renewed-multiple-game-trademarks",
       "titre": "Nintendo Has Renewed Multiple Game Trademarks",
       "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-renewed-multiple-game-trademarks",
@@ -407,7 +455,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.4,
       "chaleur": 6,
       "liens": [
         {
@@ -425,7 +473,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.8,
       "chaleur": 6,
       "liens": [
         {
@@ -443,7 +491,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 6,
       "liens": [
         {
@@ -461,7 +509,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.5,
       "chaleur": 6,
       "liens": [
         {
@@ -479,13 +527,37 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/warhorse-coo-wants-gta-6-to-set-a-new-80-price-standard-for-triple-a-games/",
           "titre": "Warhorse COO wants GTA 6 to set a new $80 price standard for triple-A games"
+        }
+      ]
+    },
+    {
+      "id": "star-wars-galactic-racer-review",
+      "titre": "Star Wars: Galactic Racer review",
+      "url": "https://www.eurogamer.net/star-wars-galactic-racer-review",
+      "sources": [
+        "Eurogamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 21.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/star-wars-galactic-racer-review",
+          "titre": "Star Wars: Galactic Racer review"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/star-wars-galactic-racer",
+          "titre": "Review: Star Wars: Galactic Racer (PS5) - This Ridiculously Good Racer Is in a Galactic League of Its Own"
         }
       ]
     },
@@ -498,7 +570,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 21.2,
+      "heures": 23.2,
       "chaleur": 6,
       "liens": [
         {
@@ -521,7 +593,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.3,
       "chaleur": 5,
       "liens": [
         {
@@ -539,7 +611,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.3,
       "chaleur": 5,
       "liens": [
         {
@@ -557,7 +629,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.3,
       "chaleur": 5,
       "liens": [
         {
@@ -575,7 +647,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.1,
+      "heures": 21.1,
       "chaleur": 5,
       "liens": [
         {
@@ -593,7 +665,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.5,
+      "heures": 29.4,
       "chaleur": 5,
       "liens": [
         {
@@ -611,7 +683,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.8,
+      "heures": 33.8,
       "chaleur": 5,
       "liens": [
         {
@@ -629,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -647,8 +719,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -665,8 +737,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -683,8 +755,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -701,8 +773,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -719,8 +791,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -737,8 +809,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -755,7 +827,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.6,
       "chaleur": 3,
       "liens": [
         {
@@ -773,7 +845,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
@@ -791,7 +863,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.6,
       "chaleur": 3,
       "liens": [
         {
@@ -809,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.8,
       "chaleur": 3,
       "liens": [
         {
@@ -827,7 +899,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 16.0,
       "chaleur": 3,
       "liens": [
         {
@@ -845,7 +917,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.1,
       "chaleur": 3,
       "liens": [
         {
@@ -863,7 +935,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 17.1,
       "chaleur": 3,
       "liens": [
         {
@@ -881,7 +953,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -899,7 +971,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.6,
       "chaleur": 3,
       "liens": [
         {
@@ -917,7 +989,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.1,
       "chaleur": 3,
       "liens": [
         {
@@ -935,7 +1007,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.1,
       "chaleur": 3,
       "liens": [
         {
@@ -953,7 +1025,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.2,
       "chaleur": 3,
       "liens": [
         {
@@ -971,7 +1043,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.8,
+      "heures": 18.7,
       "chaleur": 3,
       "liens": [
         {
@@ -989,7 +1061,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +1079,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 19.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,7 +1097,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,7 +1115,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,7 +1133,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 19.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1070,79 +1142,9 @@ const VEILLE = {
           "titre": "The WoW: Forever beta's nerf to dungeon XP isn't nearly as bad as it seems"
         }
       ]
-    },
-    {
-      "id": "quite-often-it-s-given-me-more-to-do-why-ai-might-be-creati",
-      "titre": "\"Quite often it's given me more to do\" – Why AI might be creating more work for games companies, rather than saving time",
-      "url": "https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 17.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time",
-          "titre": "\"Quite often it's given me more to do\" – Why AI might be creating more work for games companies, rather than saving time"
-        }
-      ]
-    },
-    {
-      "id": "limited-edition-lisa-ps5-controller-available-now-but-sellin",
-      "titre": "Limited Edition Lisa PS5 Controller Available Now, But Selling Out Fast",
-      "url": "https://www.pushsquare.com/news/2026/10/limited-edition-lisa-ps5-controller-available-now-but-selling-out-fast",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 18.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/limited-edition-lisa-ps5-controller-available-now-but-selling-out-fast",
-          "titre": "Limited Edition Lisa PS5 Controller Available Now, But Selling Out Fast"
-        }
-      ]
-    },
-    {
-      "id": "podcast-why-we-re-ready-for-a-new-uncharted-game",
-      "titre": "Podcast: Why we’re ready for a new Uncharted game",
-      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-why-were-ready-for-a-new-uncharted-game/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 18.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-why-were-ready-for-a-new-uncharted-game/",
-          "titre": "Podcast: Why we’re ready for a new Uncharted game"
-        }
-      ]
-    },
-    {
-      "id": "aion-2-ascension-gauge-how-to-quickly-raise-the-ascension-ga",
-      "titre": "Aion 2 Ascension Gauge: How to quickly raise the Ascension Gauge to continue Episodes",
-      "url": "https://www.videogameschronicle.com/guide/aion-2-ascension-gauge-how-to-quickly-raise-the-ascension-gauge-to-continue-episodes/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 18.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/aion-2-ascension-gauge-how-to-quickly-raise-the-ascension-gauge-to-continue-episodes/",
-          "titre": "Aion 2 Ascension Gauge: How to quickly raise the Ascension Gauge to continue Episodes"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "GTA 6 rating pulled after revealing sex scenes and drug use"
+  ]
 };
