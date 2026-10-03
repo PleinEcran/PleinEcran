@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "03/10/2026 à 04h22",
+  "collecte": "03/10/2026 à 06h28",
   "seuil": 14,
   "sujets": [
     {
@@ -13,7 +13,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 5.6,
+      "heures": 7.6,
       "chaleur": 13,
       "liens": [
         {
@@ -42,7 +42,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 9.2,
+      "heures": 11.3,
       "chaleur": 10,
       "liens": [
         {
@@ -66,8 +66,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 11.4,
-      "chaleur": 10,
+      "heures": 13.5,
+      "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
@@ -91,7 +91,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 15.4,
+      "heures": 17.5,
       "chaleur": 9,
       "liens": [
         {
@@ -112,20 +112,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-has-renewed-multiple-game-trademarks",
-      "titre": "Nintendo Has Renewed Multiple Game Trademarks",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-renewed-multiple-game-trademarks",
+      "id": "reminder-lies-of-p-switch-2-physical-release-now-available",
+      "titre": "Reminder: Lies Of P Switch 2 Physical Release Now Available",
+      "url": "https://www.nintendolife.com/news/2026/10/reminder-lies-of-p-switch-2-physical-release-now-available",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.5,
+      "heures": 1.7,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-renewed-multiple-game-trademarks",
-          "titre": "Nintendo Has Renewed Multiple Game Trademarks"
+          "url": "https://www.nintendolife.com/news/2026/10/reminder-lies-of-p-switch-2-physical-release-now-available",
+          "titre": "Reminder: Lies Of P Switch 2 Physical Release Now Available"
         }
       ]
     },
@@ -138,7 +138,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 12.9,
+      "heures": 15.0,
       "chaleur": 8,
       "liens": [
         {
@@ -150,66 +150,6 @@ const VEILLE = {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/memory-maker-warns-shortages-will-get-worse-in-2027-as-ceo-celebrates-much-higher-prices/",
           "titre": "Memory maker warns shortages will get worse in 2027, as CEO celebrates ‘much higher prices’"
-        }
-      ]
-    },
-    {
-      "id": "reigns-developer-nerial-enters-hibernation-mode-lays-off-sta",
-      "titre": "Reigns developer Nerial enters 'hibernation mode,' lays off staff",
-      "url": "https://www.gamedeveloper.com/business/nerial-to-enter-hibernation-mode-and-lay-off-developers",
-      "sources": [
-        "Game Developer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 6.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/nerial-to-enter-hibernation-mode-and-lay-off-developers",
-          "titre": "Reigns developer Nerial enters 'hibernation mode,' lays off staff"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/reigns-and-card-shark-developers-nerial-are-closing-down-laying-staff-off-while-the-founders-go-back-to-our-roots",
-          "titre": "Reigns and Card Shark developers Nerial are closing down, laying staff off while the founders go \"back to our roots\""
-        }
-      ]
-    },
-    {
-      "id": "this-is-your-dreamcast-moment-former-playstation-boss-think",
-      "titre": "\"This is your Dreamcast moment\": Former PlayStation boss thinks Xbox needs to \"pick a lane\" with exclusive games to fix itself",
-      "url": "https://www.eurogamer.net/dreamcast-moment-former-playstation-boss-xbox-exclusive-games",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dreamcast-moment-former-playstation-boss-xbox-exclusive-games",
-          "titre": "\"This is your Dreamcast moment\": Former PlayStation boss thinks Xbox needs to \"pick a lane\" with exclusive games to fix itself"
-        }
-      ]
-    },
-    {
-      "id": "kingdom-come-deliverance-2-boss-hopes-gta-6-pushes-game-pric",
-      "titre": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\"",
-      "url": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
-          "titre": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\""
         }
       ]
     },
@@ -430,20 +370,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sonic-racing-crossworlds-final-content-drop-of-year-one-arri",
-      "titre": "Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Arrives This Month",
-      "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-final-content-drop-of-year-one-arrives-this-month",
+      "id": "nintendo-has-renewed-multiple-game-trademarks",
+      "titre": "Nintendo Has Renewed Multiple Game Trademarks",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-renewed-multiple-game-trademarks",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.9,
+      "heures": 4.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-final-content-drop-of-year-one-arrives-this-month",
-          "titre": "Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Arrives This Month"
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-renewed-multiple-game-trademarks",
+          "titre": "Nintendo Has Renewed Multiple Game Trademarks"
         }
       ]
     },
@@ -455,13 +395,49 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/lets-catch-you-up-on-all-the-latest-news-from-steams-20-most-wishlisted-games/",
           "titre": "Let's catch you up on all the latest news from Steam's 20 most-wishlisted games"
+        }
+      ]
+    },
+    {
+      "id": "this-is-your-dreamcast-moment-former-playstation-boss-think",
+      "titre": "\"This is your Dreamcast moment\": Former PlayStation boss thinks Xbox needs to \"pick a lane\" with exclusive games to fix itself",
+      "url": "https://www.eurogamer.net/dreamcast-moment-former-playstation-boss-xbox-exclusive-games",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 12.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dreamcast-moment-former-playstation-boss-xbox-exclusive-games",
+          "titre": "\"This is your Dreamcast moment\": Former PlayStation boss thinks Xbox needs to \"pick a lane\" with exclusive games to fix itself"
+        }
+      ]
+    },
+    {
+      "id": "kingdom-come-deliverance-2-boss-hopes-gta-6-pushes-game-pric",
+      "titre": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\"",
+      "url": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 13.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
+          "titre": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\""
         }
       ]
     },
@@ -473,7 +449,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.2,
       "chaleur": 6,
       "liens": [
         {
@@ -492,7 +468,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 17.2,
+      "heures": 19.3,
       "chaleur": 6,
       "liens": [
         {
@@ -515,7 +491,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.5,
       "chaleur": 5,
       "liens": [
         {
@@ -533,7 +509,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.5,
       "chaleur": 5,
       "liens": [
         {
@@ -551,7 +527,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.5,
       "chaleur": 5,
       "liens": [
         {
@@ -569,7 +545,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 17.2,
       "chaleur": 5,
       "liens": [
         {
@@ -587,7 +563,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 25.5,
       "chaleur": 5,
       "liens": [
         {
@@ -605,7 +581,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.8,
+      "heures": 29.9,
       "chaleur": 5,
       "liens": [
         {
@@ -623,13 +599,31 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 33.7,
+      "heures": 35.8,
       "chaleur": 5,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
           "titre": "'Xbox is not for sale,' CEO Asha Sharma says"
+        }
+      ]
+    },
+    {
+      "id": "sonic-racing-crossworlds-final-content-drop-of-year-one-arri",
+      "titre": "Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Arrives This Month",
+      "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-final-content-drop-of-year-one-arrives-this-month",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-final-content-drop-of-year-one-arrives-this-month",
+          "titre": "Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Arrives This Month"
         }
       ]
     },
@@ -641,7 +635,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -659,7 +653,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -677,7 +671,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -695,13 +689,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/software/ai/ai-guys-beefing-with-the-pope-a-brief-recap/",
           "titre": "AI guys beefing with the pope: A brief recap"
+        }
+      ]
+    },
+    {
+      "id": "reigns-developer-nerial-enters-hibernation-mode-lays-off-sta",
+      "titre": "Reigns developer Nerial enters 'hibernation mode,' lays off staff",
+      "url": "https://www.gamedeveloper.com/business/nerial-to-enter-hibernation-mode-and-lay-off-developers",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 8.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/nerial-to-enter-hibernation-mode-and-lay-off-developers",
+          "titre": "Reigns developer Nerial enters 'hibernation mode,' lays off staff"
         }
       ]
     },
@@ -713,7 +725,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -731,7 +743,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -749,7 +761,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
@@ -767,7 +779,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -785,7 +797,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
@@ -803,7 +815,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 12.0,
       "chaleur": 4,
       "liens": [
         {
@@ -821,8 +833,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -839,8 +851,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -857,8 +869,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -875,8 +887,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -893,8 +905,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -911,7 +923,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.2,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.2,
       "chaleur": 3,
       "liens": [
         {
@@ -947,7 +959,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -965,7 +977,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 14.8,
       "chaleur": 3,
       "liens": [
         {
@@ -983,7 +995,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 15.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +1013,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 15.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,7 +1031,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1037,7 +1049,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1055,7 +1067,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 16.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1073,7 +1085,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 16.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1091,7 +1103,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 16.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1109,31 +1121,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 16.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/blog/podcast/podcast-why-were-ready-for-a-new-uncharted-game/",
           "titre": "Podcast: Why we’re ready for a new Uncharted game"
-        }
-      ]
-    },
-    {
-      "id": "aion-2-ascension-gauge-how-to-quickly-raise-the-ascension-ga",
-      "titre": "Aion 2 Ascension Gauge: How to quickly raise the Ascension Gauge to continue Episodes",
-      "url": "https://www.videogameschronicle.com/guide/aion-2-ascension-gauge-how-to-quickly-raise-the-ascension-gauge-to-continue-episodes/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 14.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/aion-2-ascension-gauge-how-to-quickly-raise-the-ascension-gauge-to-continue-episodes/",
-          "titre": "Aion 2 Ascension Gauge: How to quickly raise the Ascension Gauge to continue Episodes"
         }
       ]
     }
