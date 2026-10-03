@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "03/10/2026 à 02h22",
+  "collecte": "03/10/2026 à 04h22",
   "seuil": 14,
   "sujets": [
     {
@@ -13,8 +13,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 3.6,
-      "chaleur": 15,
+      "heures": 5.6,
+      "chaleur": 13,
       "liens": [
         {
           "source": "PC Gamer",
@@ -42,7 +42,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 7.2,
+      "heures": 9.2,
       "chaleur": 10,
       "liens": [
         {
@@ -66,7 +66,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 10,
       "liens": [
         {
@@ -82,30 +82,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "buckle-up-memory-shortages-are-reportedly-set-to-get-worse-i",
-      "titre": "Buckle Up, Memory Shortages Are Reportedly Set To Get Worse In 2027",
-      "url": "https://www.nintendolife.com/news/2026/10/buckle-up-memory-shortages-are-reportedly-set-to-get-worse-in-2027",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 10.9,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/buckle-up-memory-shortages-are-reportedly-set-to-get-worse-in-2027",
-          "titre": "Buckle Up, Memory Shortages Are Reportedly Set To Get Worse In 2027"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/memory-maker-warns-shortages-will-get-worse-in-2027-as-ceo-celebrates-much-higher-prices/",
-          "titre": "Memory maker warns shortages will get worse in 2027, as CEO celebrates ‘much higher prices’"
-        }
-      ]
-    },
-    {
       "id": "star-wars-galactic-racer-review",
       "titre": "Star Wars: Galactic Racer review",
       "url": "https://www.eurogamer.net/star-wars-galactic-racer-review",
@@ -115,7 +91,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 9,
       "liens": [
         {
@@ -143,7 +119,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.5,
       "chaleur": 8,
       "liens": [
         {
@@ -154,20 +130,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "let-s-catch-you-up-on-all-the-latest-news-from-steam-s-20-mo",
-      "titre": "Let's catch you up on all the latest news from Steam's 20 most-wishlisted games",
-      "url": "https://www.pcgamer.com/games/lets-catch-you-up-on-all-the-latest-news-from-steams-20-most-wishlisted-games/",
+      "id": "buckle-up-memory-shortages-are-reportedly-set-to-get-worse-i",
+      "titre": "Buckle Up, Memory Shortages Are Reportedly Set To Get Worse In 2027",
+      "url": "https://www.nintendolife.com/news/2026/10/buckle-up-memory-shortages-are-reportedly-set-to-get-worse-in-2027",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 3.8,
+      "reprises": 2,
+      "heures": 12.9,
       "chaleur": 8,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/lets-catch-you-up-on-all-the-latest-news-from-steams-20-most-wishlisted-games/",
-          "titre": "Let's catch you up on all the latest news from Steam's 20 most-wishlisted games"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/buckle-up-memory-shortages-are-reportedly-set-to-get-worse-in-2027",
+          "titre": "Buckle Up, Memory Shortages Are Reportedly Set To Get Worse In 2027"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/memory-maker-warns-shortages-will-get-worse-in-2027-as-ceo-celebrates-much-higher-prices/",
+          "titre": "Memory maker warns shortages will get worse in 2027, as CEO celebrates ‘much higher prices’"
         }
       ]
     },
@@ -180,7 +162,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 7,
       "liens": [
         {
@@ -203,7 +185,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 7,
       "liens": [
         {
@@ -221,31 +203,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.5,
       "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
           "titre": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\""
-        }
-      ]
-    },
-    {
-      "id": "warhorse-coo-wants-gta-6-to-set-a-new-80-price-standard-for",
-      "titre": "Warhorse COO wants GTA 6 to set a new $80 price standard for triple-A games",
-      "url": "https://www.videogameschronicle.com/news/warhorse-coo-wants-gta-6-to-set-a-new-80-price-standard-for-triple-a-games/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/warhorse-coo-wants-gta-6-to-set-a-new-80-price-standard-for-triple-a-games/",
-          "titre": "Warhorse COO wants GTA 6 to set a new $80 price standard for triple-A games"
         }
       ]
     },
@@ -473,7 +437,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -484,20 +448,62 @@ const VEILLE = {
       ]
     },
     {
-      "id": "talking-point-what-are-you-playing-this-weekend-issue-652",
-      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 652",
-      "url": "https://www.pushsquare.com/news/2026/10/talking-point-what-are-you-playing-this-weekend-issue-652",
+      "id": "let-s-catch-you-up-on-all-the-latest-news-from-steam-s-20-mo",
+      "titre": "Let's catch you up on all the latest news from Steam's 20 most-wishlisted games",
+      "url": "https://www.pcgamer.com/games/lets-catch-you-up-on-all-the-latest-news-from-steams-20-most-wishlisted-games/",
       "sources": [
-        "Push Square"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.4,
+      "heures": 5.8,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/talking-point-what-are-you-playing-this-weekend-issue-652",
-          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 652"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/lets-catch-you-up-on-all-the-latest-news-from-steams-20-most-wishlisted-games/",
+          "titre": "Let's catch you up on all the latest news from Steam's 20 most-wishlisted games"
+        }
+      ]
+    },
+    {
+      "id": "warhorse-coo-wants-gta-6-to-set-a-new-80-price-standard-for",
+      "titre": "Warhorse COO wants GTA 6 to set a new $80 price standard for triple-A games",
+      "url": "https://www.videogameschronicle.com/news/warhorse-coo-wants-gta-6-to-set-a-new-80-price-standard-for-triple-a-games/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 12.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/warhorse-coo-wants-gta-6-to-set-a-new-80-price-standard-for-triple-a-games/",
+          "titre": "Warhorse COO wants GTA 6 to set a new $80 price standard for triple-A games"
+        }
+      ]
+    },
+    {
+      "id": "cd-projekt-red-addresses-divisive-lighting-changes-in-a-new",
+      "titre": "CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch",
+      "url": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 17.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc",
+          "titre": "CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/cd-projekt-red-says-its-working-on-fixes-for-witcher-3-remastered",
+          "titre": "CD Projekt Red Says It's Working On Fixes For Witcher 3 Remastered"
         }
       ]
     },
@@ -509,8 +515,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 6,
+      "heures": 13.4,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -527,79 +533,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 6,
+      "heures": 13.4,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/the-father-of-playstation-thinks-games-have-stagnated-calls-for-curiosity-in-developers",
           "titre": "The Father of PlayStation Thinks Games Have Stagnated, Calls for Curiosity in Developers"
-        }
-      ]
-    },
-    {
-      "id": "cd-projekt-red-addresses-divisive-lighting-changes-in-a-new",
-      "titre": "CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch",
-      "url": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 15.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc",
-          "titre": "CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/cd-projekt-red-says-its-working-on-fixes-for-witcher-3-remastered",
-          "titre": "CD Projekt Red Says It's Working On Fixes For Witcher 3 Remastered"
-        }
-      ]
-    },
-    {
-      "id": "007-first-light-unveils-extended-operations-free-dlc-adds-ne",
-      "titre": "007 First Light Unveils Extended Operations Free DLC - Adds New Game+, Photo Mode And Much More",
-      "url": "https://www.nintendolife.com/news/2026/10/007-first-light-unveils-extended-operations-free-dlc-adds-new-gameplus-photo-mode-and-much-more",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 22.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/007-first-light-unveils-extended-operations-free-dlc-adds-new-gameplus-photo-mode-and-much-more",
-          "titre": "007 First Light Unveils Extended Operations Free DLC - Adds New Game+, Photo Mode And Much More"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/007-james-bond-first-light-free-dlc",
-          "titre": "007 First Light gets free new DLC today, adding New Game Plus and Photo modes, new TacSim missions and more"
-        }
-      ]
-    },
-    {
-      "id": "guide-upcoming-nintendo-switch-2-games-accessories-for-octob",
-      "titre": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For October & November 2026",
-      "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-october-and-november-2026",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 35.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-october-and-november-2026",
-          "titre": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For October & November 2026"
         }
       ]
     },
@@ -611,7 +551,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 5,
       "liens": [
         {
@@ -629,7 +569,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 15.1,
       "chaleur": 5,
       "liens": [
         {
@@ -647,7 +587,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.5,
       "chaleur": 5,
       "liens": [
         {
@@ -665,7 +605,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.8,
+      "heures": 27.8,
       "chaleur": 5,
       "liens": [
         {
@@ -683,13 +623,31 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 31.8,
+      "heures": 33.7,
       "chaleur": 5,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
           "titre": "'Xbox is not for sale,' CEO Asha Sharma says"
+        }
+      ]
+    },
+    {
+      "id": "talking-point-what-are-you-playing-this-weekend-issue-652",
+      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 652",
+      "url": "https://www.pushsquare.com/news/2026/10/talking-point-what-are-you-playing-this-weekend-issue-652",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/talking-point-what-are-you-playing-this-weekend-issue-652",
+          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 652"
         }
       ]
     },
@@ -701,7 +659,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -719,7 +677,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -737,7 +695,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -755,7 +713,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -773,7 +731,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -791,7 +749,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -809,7 +767,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -827,7 +785,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +803,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -863,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +839,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +857,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +875,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +893,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -953,8 +911,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -971,8 +929,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -989,8 +947,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1007,8 +965,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1025,8 +983,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1043,8 +1001,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1061,8 +1019,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1079,8 +1037,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1097,8 +1055,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1115,8 +1073,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1133,13 +1091,49 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.0,
-      "chaleur": 4,
+      "heures": 14.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/limited-edition-lisa-ps5-controller-available-now-but-selling-out-fast",
           "titre": "Limited Edition Lisa PS5 Controller Available Now, But Selling Out Fast"
+        }
+      ]
+    },
+    {
+      "id": "podcast-why-we-re-ready-for-a-new-uncharted-game",
+      "titre": "Podcast: Why we’re ready for a new Uncharted game",
+      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-why-were-ready-for-a-new-uncharted-game/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 14.1,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-why-were-ready-for-a-new-uncharted-game/",
+          "titre": "Podcast: Why we’re ready for a new Uncharted game"
+        }
+      ]
+    },
+    {
+      "id": "aion-2-ascension-gauge-how-to-quickly-raise-the-ascension-ga",
+      "titre": "Aion 2 Ascension Gauge: How to quickly raise the Ascension Gauge to continue Episodes",
+      "url": "https://www.videogameschronicle.com/guide/aion-2-ascension-gauge-how-to-quickly-raise-the-ascension-gauge-to-continue-episodes/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 14.2,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/aion-2-ascension-gauge-how-to-quickly-raise-the-ascension-gauge-to-continue-episodes/",
+          "titre": "Aion 2 Ascension Gauge: How to quickly raise the Ascension Gauge to continue Episodes"
         }
       ]
     }
