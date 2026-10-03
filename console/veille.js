@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "03/10/2026 à 06h28",
+  "collecte": "03/10/2026 à 08h22",
   "seuil": 14,
   "sujets": [
     {
@@ -13,7 +13,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 7.6,
+      "heures": 9.6,
       "chaleur": 13,
       "liens": [
         {
@@ -34,6 +34,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "what-we-ve-been-playing-that-s-one-of-gaming-s-great-cities",
+      "titre": "What we've been playing - \"That's one of gaming's great cities, that is\"",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-thats-one-of-gamings-great-cities-that-is",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 1.4,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/what-weve-been-playing-thats-one-of-gamings-great-cities-that-is",
+          "titre": "What we've been playing - \"That's one of gaming's great cities, that is\""
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-402",
+          "titre": "What are we all playing this weekend?"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/talking-point-what-are-you-playing-this-weekend-issue-652",
+          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 652"
+        }
+      ]
+    },
+    {
       "id": "gta-6-s-18-age-rating-reveals-lucia-and-jason-can-partake-in",
       "titre": "GTA 6's 18+ age rating reveals Lucia and Jason can partake in drug use \"directly from their inventory\" and \"at any time\"",
       "url": "https://www.eurogamer.net/gta6-age-rating-pegi-lucia-jason-drug-use",
@@ -42,8 +72,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 11.3,
-      "chaleur": 10,
+      "heures": 13.2,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
@@ -66,7 +96,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 9,
       "liens": [
         {
@@ -91,7 +121,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 17.5,
+      "heures": 19.4,
       "chaleur": 9,
       "liens": [
         {
@@ -119,7 +149,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.6,
       "chaleur": 8,
       "liens": [
         {
@@ -138,7 +168,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 15.0,
+      "heures": 16.9,
       "chaleur": 8,
       "liens": [
         {
@@ -377,7 +407,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.5,
       "chaleur": 6,
       "liens": [
         {
@@ -395,7 +425,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.8,
       "chaleur": 6,
       "liens": [
         {
@@ -413,7 +443,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.4,
       "chaleur": 6,
       "liens": [
         {
@@ -431,7 +461,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.5,
       "chaleur": 6,
       "liens": [
         {
@@ -449,7 +479,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.1,
       "chaleur": 6,
       "liens": [
         {
@@ -468,7 +498,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 19.3,
+      "heures": 21.2,
       "chaleur": 6,
       "liens": [
         {
@@ -491,7 +521,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.4,
       "chaleur": 5,
       "liens": [
         {
@@ -509,7 +539,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.4,
       "chaleur": 5,
       "liens": [
         {
@@ -527,7 +557,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.4,
       "chaleur": 5,
       "liens": [
         {
@@ -545,7 +575,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.2,
+      "heures": 19.1,
       "chaleur": 5,
       "liens": [
         {
@@ -563,7 +593,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 27.5,
       "chaleur": 5,
       "liens": [
         {
@@ -581,31 +611,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.9,
+      "heures": 31.8,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/video-octopath-traveler-i-and-ii-side-by-side-graphics-comparison-switch-1-and-2",
           "titre": "Video: Octopath Traveler I & II Side-By-Side Graphics Comparison (Switch 1 & 2)"
-        }
-      ]
-    },
-    {
-      "id": "xbox-is-not-for-sale-ceo-asha-sharma-says",
-      "titre": "'Xbox is not for sale,' CEO Asha Sharma says",
-      "url": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 35.8,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
-          "titre": "'Xbox is not for sale,' CEO Asha Sharma says"
         }
       ]
     },
@@ -617,31 +629,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-final-content-drop-of-year-one-arrives-this-month",
           "titre": "Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Arrives This Month"
-        }
-      ]
-    },
-    {
-      "id": "talking-point-what-are-you-playing-this-weekend-issue-652",
-      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 652",
-      "url": "https://www.pushsquare.com/news/2026/10/talking-point-what-are-you-playing-this-weekend-issue-652",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 7.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/talking-point-what-are-you-playing-this-weekend-issue-652",
-          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 652"
         }
       ]
     },
@@ -653,7 +647,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -671,7 +665,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -689,7 +683,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -707,7 +701,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -725,7 +719,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -743,7 +737,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -761,8 +755,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -779,8 +773,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -797,8 +791,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -815,8 +809,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -833,7 +827,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.1,
       "chaleur": 3,
       "liens": [
         {
@@ -851,7 +845,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.2,
       "chaleur": 3,
       "liens": [
         {
@@ -869,7 +863,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.1,
       "chaleur": 3,
       "liens": [
         {
@@ -887,7 +881,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -905,7 +899,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 15.6,
       "chaleur": 3,
       "liens": [
         {
@@ -923,7 +917,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.1,
       "chaleur": 3,
       "liens": [
         {
@@ -941,7 +935,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.2,
       "chaleur": 3,
       "liens": [
         {
@@ -959,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.3,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +971,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.8,
+      "heures": 16.8,
       "chaleur": 3,
       "liens": [
         {
@@ -995,7 +989,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 16.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1013,7 +1007,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 17.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +1025,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,7 +1043,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 17.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,7 +1061,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1085,7 +1079,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1103,7 +1097,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 18.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1121,13 +1115,31 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/blog/podcast/podcast-why-were-ready-for-a-new-uncharted-game/",
           "titre": "Podcast: Why we’re ready for a new Uncharted game"
+        }
+      ]
+    },
+    {
+      "id": "aion-2-ascension-gauge-how-to-quickly-raise-the-ascension-ga",
+      "titre": "Aion 2 Ascension Gauge: How to quickly raise the Ascension Gauge to continue Episodes",
+      "url": "https://www.videogameschronicle.com/guide/aion-2-ascension-gauge-how-to-quickly-raise-the-ascension-gauge-to-continue-episodes/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 18.2,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/aion-2-ascension-gauge-how-to-quickly-raise-the-ascension-gauge-to-continue-episodes/",
+          "titre": "Aion 2 Ascension Gauge: How to quickly raise the Ascension Gauge to continue Episodes"
         }
       ]
     }
