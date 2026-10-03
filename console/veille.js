@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "03/10/2026 à 10h20",
+  "collecte": "03/10/2026 à 15h01",
   "seuil": 14,
   "sujets": [
     {
@@ -13,8 +13,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 0.7,
-      "chaleur": 15,
+      "heures": 5.3,
+      "chaleur": 13,
       "liens": [
         {
           "source": "VGC",
@@ -34,6 +34,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "capcom-plans-to-evolve-re-engine-into-an-ai-generation-game",
+      "titre": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\"",
+      "url": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 0.2,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
+          "titre": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\""
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/capcom-details-plans-to-evolve-re-engine-into-an-ai-generation-game-engine/",
+          "titre": "Capcom details plans to evolve RE Engine into an ‘AI-generation game engine’"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/capcom-announces-plans-to-transform-its-re-engine-into-an-ai-generation-game-engine/",
+          "titre": "Capcom announces plans to transform its RE Engine into an 'AI-generation game engine'"
+        }
+      ]
+    },
+    {
       "id": "gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-he",
       "titre": "GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-heard-of-the-miami-heat/",
@@ -43,8 +73,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 11.5,
-      "chaleur": 13,
+      "heures": 16.2,
+      "chaleur": 12,
       "liens": [
         {
           "source": "PC Gamer",
@@ -73,8 +103,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 1.3,
-      "chaleur": 12,
+      "heures": 6.0,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -94,6 +124,54 @@ const VEILLE = {
       ]
     },
     {
+      "id": "007-first-light-gets-free-dlc-that-will-finally-let-you-driv",
+      "titre": "007 First Light gets free DLC that will finally let you drive James Bond's Aston Martin properly",
+      "url": "https://www.pcgamer.com/games/action/007-first-light-gets-free-dlc-that-will-finally-let-you-drive-james-bonds-aston-martin-properly/",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 2.6,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/007-first-light-gets-free-dlc-that-will-finally-let-you-drive-james-bonds-aston-martin-properly/",
+          "titre": "007 First Light gets free DLC that will finally let you drive James Bond's Aston Martin properly"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/007-first-light-unveils-extended-operations-free-dlc-adds-new-gameplus-photo-mode-and-much-more",
+          "titre": "007 First Light Unveils Extended Operations Free DLC - Adds New Game+, Photo Mode And Much More"
+        }
+      ]
+    },
+    {
+      "id": "memory-shortages-set-to-persist-into-2028-warns-micron-ceo",
+      "titre": "Memory shortages set to persist into 2028, warns Micron CEO",
+      "url": "https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 4.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand",
+          "titre": "Memory shortages set to persist into 2028, warns Micron CEO"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/buckle-up-memory-shortages-are-reportedly-set-to-get-worse-in-2027",
+          "titre": "Buckle Up, Memory Shortages Are Reportedly Set To Get Worse In 2027"
+        }
+      ]
+    },
+    {
       "id": "dan-houser-still-hasn-t-seen-gta-6-i-will-try-and-avoid-it",
       "titre": "Dan Houser still hasn’t seen GTA 6: ‘I will try and avoid it’",
       "url": "https://www.videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it/",
@@ -101,79 +179,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.3,
-      "chaleur": 9,
+      "heures": 5.0,
+      "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it/",
           "titre": "Dan Houser still hasn’t seen GTA 6: ‘I will try and avoid it’"
-        }
-      ]
-    },
-    {
-      "id": "i-added-october-appropriate-zombies-to-grand-theft-auto-5",
-      "titre": "I added October-appropriate zombies to Grand Theft Auto 5",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-added-october-appropriate-zombies-to-grand-theft-auto-5/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 17.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-added-october-appropriate-zombies-to-grand-theft-auto-5/",
-          "titre": "I added October-appropriate zombies to Grand Theft Auto 5"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards",
-          "titre": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included"
-        }
-      ]
-    },
-    {
-      "id": "random-tough-week-grab-yourself-a-brew-get-these-immaculate",
-      "titre": "Random: Tough Week? Grab Yourself A Brew & Get These Immaculate Zelda Tunes On Your Playlist, Pronto",
-      "url": "https://www.nintendolife.com/news/2026/10/random-tough-week-grab-yourself-a-brew-and-get-these-immaculate-zelda-tunes-on-your-playlist-pronto",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 0.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/random-tough-week-grab-yourself-a-brew-and-get-these-immaculate-zelda-tunes-on-your-playlist-pronto",
-          "titre": "Random: Tough Week? Grab Yourself A Brew & Get These Immaculate Zelda Tunes On Your Playlist, Pronto"
-        }
-      ]
-    },
-    {
-      "id": "buckle-up-memory-shortages-are-reportedly-set-to-get-worse-i",
-      "titre": "Buckle Up, Memory Shortages Are Reportedly Set To Get Worse In 2027",
-      "url": "https://www.nintendolife.com/news/2026/10/buckle-up-memory-shortages-are-reportedly-set-to-get-worse-in-2027",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 18.8,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/buckle-up-memory-shortages-are-reportedly-set-to-get-worse-in-2027",
-          "titre": "Buckle Up, Memory Shortages Are Reportedly Set To Get Worse In 2027"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/memory-maker-warns-shortages-will-get-worse-in-2027-as-ceo-celebrates-much-higher-prices/",
-          "titre": "Memory maker warns shortages will get worse in 2027, as CEO celebrates ‘much higher prices’"
         }
       ]
     },
@@ -394,38 +406,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "we-felt-that-fans-were-getting-a-bit-desensitised-to-the-vi",
-      "titre": "\"We felt that fans were getting a bit desensitised to the violence\" Gears of War: E-Day devs made a \"big investment\" in gore, and weirdly, it works",
-      "url": "https://www.eurogamer.net/we-felt-that-fans-were-getting-a-bit-desensitised-to-the-violence-gears-of-war-e-day-devs-made-a-big-investment-in-gore-and-weirdly-it-works",
+      "id": "deadlock-s-new-hero-rat-king-has-over-100-voice-lines-dedica",
+      "titre": "Deadlock's new hero Rat King has over 100 voice lines dedicated to throwing rats at you",
+      "url": "https://www.pcgamer.com/games/moba/deadlocks-new-hero-rat-king-has-over-100-voice-lines-dedicated-to-throwing-rats-at-you/",
       "sources": [
-        "Eurogamer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 1.2,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/we-felt-that-fans-were-getting-a-bit-desensitised-to-the-violence-gears-of-war-e-day-devs-made-a-big-investment-in-gore-and-weirdly-it-works",
-          "titre": "\"We felt that fans were getting a bit desensitised to the violence\" Gears of War: E-Day devs made a \"big investment\" in gore, and weirdly, it works"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/deadlocks-new-hero-rat-king-has-over-100-voice-lines-dedicated-to-throwing-rats-at-you/",
+          "titre": "Deadlock's new hero Rat King has over 100 voice lines dedicated to throwing rats at you"
         }
       ]
     },
     {
-      "id": "what-we-ve-been-playing-that-s-one-of-gaming-s-great-cities",
-      "titre": "What we've been playing - \"That's one of gaming's great cities, that is\"",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-thats-one-of-gamings-great-cities-that-is",
+      "id": "2026-is-the-year-big-brands-have-finally-pushed-gaming-mouse",
+      "titre": "2026 is the year big brands have finally pushed gaming mouse technology forwards",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/2026-is-the-year-big-brands-have-finally-pushed-gaming-mouse-technology-forwards/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/2026-is-the-year-big-brands-have-finally-pushed-gaming-mouse-technology-forwards/",
+          "titre": "2026 is the year big brands have finally pushed gaming mouse technology forwards"
+        }
+      ]
+    },
+    {
+      "id": "metro-redux-s-next-gen-update-arrives-this-month-as-franchis",
+      "titre": "Metro Redux's Next-Gen Update arrives this month as franchise passes 50 million sales",
+      "url": "https://www.eurogamer.net/metro-redux-next-gen-update-50-million-sales-metro-2039",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.3,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/what-weve-been-playing-thats-one-of-gamings-great-cities-that-is",
-          "titre": "What we've been playing - \"That's one of gaming's great cities, that is\""
+          "url": "https://www.eurogamer.net/metro-redux-next-gen-update-50-million-sales-metro-2039",
+          "titre": "Metro Redux's Next-Gen Update arrives this month as franchise passes 50 million sales"
+        }
+      ]
+    },
+    {
+      "id": "bored-with-roguelikes-you-might-still-want-to-play-dicevader",
+      "titre": "Bored with roguelikes? You might still want to play Dicevaders, a game about perfecting dice rolls",
+      "url": "https://www.pcgamer.com/games/roguelike/bored-with-roguelikes-you-might-still-want-to-play-dicevaders-a-game-about-perfecting-dice-rolls/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/roguelike/bored-with-roguelikes-you-might-still-want-to-play-dicevaders-a-game-about-perfecting-dice-rolls/",
+          "titre": "Bored with roguelikes? You might still want to play Dicevaders, a game about perfecting dice rolls"
+        }
+      ]
+    },
+    {
+      "id": "random-tough-week-grab-yourself-a-brew-get-these-immaculate",
+      "titre": "Random: Tough Week? Grab Yourself A Brew & Get These Immaculate Zelda Tunes On Your Playlist, Pronto",
+      "url": "https://www.nintendolife.com/news/2026/10/random-tough-week-grab-yourself-a-brew-and-get-these-immaculate-zelda-tunes-on-your-playlist-pronto",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/random-tough-week-grab-yourself-a-brew-and-get-these-immaculate-zelda-tunes-on-your-playlist-pronto",
+          "titre": "Random: Tough Week? Grab Yourself A Brew & Get These Immaculate Zelda Tunes On Your Playlist, Pronto"
         }
       ]
     },
@@ -437,49 +503,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 10.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/reminder-lies-of-p-switch-2-physical-release-now-available",
           "titre": "Reminder: Lies Of P Switch 2 Physical Release Now Available"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-has-renewed-multiple-game-trademarks",
-      "titre": "Nintendo Has Renewed Multiple Game Trademarks",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-renewed-multiple-game-trademarks",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 8.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-renewed-multiple-game-trademarks",
-          "titre": "Nintendo Has Renewed Multiple Game Trademarks"
-        }
-      ]
-    },
-    {
-      "id": "let-s-catch-you-up-on-all-the-latest-news-from-steam-s-20-mo",
-      "titre": "Let's catch you up on all the latest news from Steam's 20 most-wishlisted games",
-      "url": "https://www.pcgamer.com/games/lets-catch-you-up-on-all-the-latest-news-from-steams-20-most-wishlisted-games/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/lets-catch-you-up-on-all-the-latest-news-from-steams-20-most-wishlisted-games/",
-          "titre": "Let's catch you up on all the latest news from Steam's 20 most-wishlisted games"
         }
       ]
     },
@@ -491,7 +521,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 21.1,
       "chaleur": 6,
       "liens": [
         {
@@ -509,7 +539,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 22.2,
       "chaleur": 6,
       "liens": [
         {
@@ -527,13 +557,31 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 22.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/warhorse-coo-wants-gta-6-to-set-a-new-80-price-standard-for-triple-a-games/",
           "titre": "Warhorse COO wants GTA 6 to set a new $80 price standard for triple-A games"
+        }
+      ]
+    },
+    {
+      "id": "grand-theft-auto-6-may-be-the-first-gta-to-have-full-on-sex",
+      "titre": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included",
+      "url": "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 25.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards",
+          "titre": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included"
         }
       ]
     },
@@ -546,7 +594,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 21.3,
+      "heures": 26.0,
       "chaleur": 6,
       "liens": [
         {
@@ -562,26 +610,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "cd-projekt-red-addresses-divisive-lighting-changes-in-a-new",
-      "titre": "CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch",
-      "url": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc",
+      "id": "nintendo-has-renewed-multiple-game-trademarks",
+      "titre": "Nintendo Has Renewed Multiple Game Trademarks",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-renewed-multiple-game-trademarks",
       "sources": [
-        "Eurogamer",
         "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 23.2,
-      "chaleur": 6,
+      "reprises": 1,
+      "heures": 13.1,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc",
-          "titre": "CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch"
-        },
-        {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/cd-projekt-red-says-its-working-on-fixes-for-witcher-3-remastered",
-          "titre": "CD Projekt Red Says It's Working On Fixes For Witcher 3 Remastered"
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-renewed-multiple-game-trademarks",
+          "titre": "Nintendo Has Renewed Multiple Game Trademarks"
+        }
+      ]
+    },
+    {
+      "id": "let-s-catch-you-up-on-all-the-latest-news-from-steam-s-20-mo",
+      "titre": "Let's catch you up on all the latest news from Steam's 20 most-wishlisted games",
+      "url": "https://www.pcgamer.com/games/lets-catch-you-up-on-all-the-latest-news-from-steams-20-most-wishlisted-games/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 16.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/lets-catch-you-up-on-all-the-latest-news-from-steams-20-most-wishlisted-games/",
+          "titre": "Let's catch you up on all the latest news from Steam's 20 most-wishlisted games"
         }
       ]
     },
@@ -593,7 +653,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 24.0,
       "chaleur": 5,
       "liens": [
         {
@@ -611,7 +671,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 24.0,
       "chaleur": 5,
       "liens": [
         {
@@ -629,7 +689,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 25.0,
       "chaleur": 5,
       "liens": [
         {
@@ -647,7 +707,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.1,
+      "heures": 25.8,
       "chaleur": 5,
       "liens": [
         {
@@ -665,7 +725,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 34.1,
       "chaleur": 5,
       "liens": [
         {
@@ -676,20 +736,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "video-octopath-traveler-i-ii-side-by-side-graphics-compariso",
-      "titre": "Video: Octopath Traveler I & II Side-By-Side Graphics Comparison (Switch 1 & 2)",
-      "url": "https://www.nintendolife.com/news/2026/10/video-octopath-traveler-i-and-ii-side-by-side-graphics-comparison-switch-1-and-2",
+      "id": "the-other-one-jordan-magnuson-s-game-poem-jam-is-a-fascinati",
+      "titre": "The Other One: Jordan Magnuson's Game Poem jam is a fascinating collection of chimeras",
+      "url": "https://www.rockpapershotgun.com/the-other-one-jordan-magnusons-game-poem-jam-is-a-fascinating-collection-of-chimeras",
       "sources": [
-        "Nintendo Life"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 33.8,
-      "chaleur": 5,
+      "heures": 4.0,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/video-octopath-traveler-i-and-ii-side-by-side-graphics-comparison-switch-1-and-2",
-          "titre": "Video: Octopath Traveler I & II Side-By-Side Graphics Comparison (Switch 1 & 2)"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-other-one-jordan-magnusons-game-poem-jam-is-a-fascinating-collection-of-chimeras",
+          "titre": "The Other One: Jordan Magnuson's Game Poem jam is a fascinating collection of chimeras"
+        }
+      ]
+    },
+    {
+      "id": "guide-these-23-ps5-and-ps-plus-games-are-coming-out-next-wee",
+      "titre": "Guide: These 23+ PS5 and PS Plus Games Are Coming Out Next Week (5th-11th October)",
+      "url": "https://www.pushsquare.com/guides/these-23plus-ps5-and-ps-plus-games-are-coming-out-next-week-5th-11th-october",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-23plus-ps5-and-ps-plus-games-are-coming-out-next-week-5th-11th-october",
+          "titre": "Guide: These 23+ PS5 and PS Plus Games Are Coming Out Next Week (5th-11th October)"
+        }
+      ]
+    },
+    {
+      "id": "we-felt-that-fans-were-getting-a-bit-desensitised-to-the-vi",
+      "titre": "\"We felt that fans were getting a bit desensitised to the violence\" Gears of War: E-Day devs made a \"big investment\" in gore, and weirdly, it works",
+      "url": "https://www.eurogamer.net/we-felt-that-fans-were-getting-a-bit-desensitised-to-the-violence-gears-of-war-e-day-devs-made-a-big-investment-in-gore-and-weirdly-it-works",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/we-felt-that-fans-were-getting-a-bit-desensitised-to-the-violence-gears-of-war-e-day-devs-made-a-big-investment-in-gore-and-weirdly-it-works",
+          "titre": "\"We felt that fans were getting a bit desensitised to the violence\" Gears of War: E-Day devs made a \"big investment\" in gore, and weirdly, it works"
+        }
+      ]
+    },
+    {
+      "id": "what-we-ve-been-playing-that-s-one-of-gaming-s-great-cities",
+      "titre": "What we've been playing - \"That's one of gaming's great cities, that is\"",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-thats-one-of-gamings-great-cities-that-is",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 8.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/what-weve-been-playing-thats-one-of-gamings-great-cities-that-is",
+          "titre": "What we've been playing - \"That's one of gaming's great cities, that is\""
         }
       ]
     },
@@ -701,8 +815,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 4,
+      "heures": 14.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -719,7 +833,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 16.9,
       "chaleur": 3,
       "liens": [
         {
@@ -737,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 17.0,
       "chaleur": 3,
       "liens": [
         {
@@ -755,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -773,7 +887,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -791,7 +905,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 18.0,
       "chaleur": 3,
       "liens": [
         {
@@ -809,7 +923,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 18.1,
       "chaleur": 3,
       "liens": [
         {
@@ -827,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
@@ -845,7 +959,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 20.0,
       "chaleur": 3,
       "liens": [
         {
@@ -863,7 +977,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
@@ -881,7 +995,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 20.5,
       "chaleur": 3,
       "liens": [
         {
@@ -899,7 +1013,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 20.7,
       "chaleur": 3,
       "liens": [
         {
@@ -917,7 +1031,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 20.8,
       "chaleur": 3,
       "liens": [
         {
@@ -935,7 +1049,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 21.8,
       "chaleur": 3,
       "liens": [
         {
@@ -953,7 +1067,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 22.2,
       "chaleur": 3,
       "liens": [
         {
@@ -971,7 +1085,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 22.3,
       "chaleur": 3,
       "liens": [
         {
@@ -989,49 +1103,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 22.8,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/desktop-and-handheld-prices-going-out-of-control-means-pc-bargain-hunts-lead-to-my-old-enemy-gaming-laptops",
           "titre": "Desktop and handheld prices going out of control means PC bargain hunts lead to my old enemy: gaming laptops"
-        }
-      ]
-    },
-    {
-      "id": "the-upcoming-sim-about-making-games-is-so-deep-your-in-game",
-      "titre": "The upcoming sim about making games is so deep your in-game game can even get cyberleeked",
-      "url": "https://www.pcgamer.com/games/sim/the-upcoming-sim-about-making-games-is-so-deep-your-in-game-game-can-even-get-cyberleeked/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 18.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/the-upcoming-sim-about-making-games-is-so-deep-your-in-game-game-can-even-get-cyberleeked/",
-          "titre": "The upcoming sim about making games is so deep your in-game game can even get cyberleeked"
-        }
-      ]
-    },
-    {
-      "id": "a-surprisingly-in-depth-dressmaking-simulator-has-the-cosy-g",
-      "titre": "A surprisingly in-depth dressmaking simulator has the cosy gamers in a chokehold",
-      "url": "https://www.pcgamer.com/games/sim/a-surprisingly-in-depth-dressmaking-simulator-has-the-cosy-gamers-in-a-chokehold/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 18.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/a-surprisingly-in-depth-dressmaking-simulator-has-the-cosy-gamers-in-a-chokehold/",
-          "titre": "A surprisingly in-depth dressmaking simulator has the cosy gamers in a chokehold"
         }
       ]
     },
@@ -1043,7 +1121,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.7,
+      "heures": 23.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,7 +1139,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.8,
+      "heures": 23.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1070,81 +1148,7 @@ const VEILLE = {
           "titre": "The Team Behind PixelJunk Is Partly to Thank for Ace Combat 8's Brilliant Cloud Tech"
         }
       ]
-    },
-    {
-      "id": "sony-s-consultation-on-physical-media-better-late-than-never",
-      "titre": "Sony's consultation on physical media: better late than never | Opinion",
-      "url": "https://www.gamesindustry.biz/sonys-consultation-on-physical-media-better-late-than-never-opinion",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 19.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/sonys-consultation-on-physical-media-better-late-than-never-opinion",
-          "titre": "Sony's consultation on physical media: better late than never | Opinion"
-        }
-      ]
-    },
-    {
-      "id": "in-pictures-the-best-places-to-work-awards-2026",
-      "titre": "In pictures: the Best Places To Work Awards 2026",
-      "url": "https://www.gamesindustry.biz/in-pictures-the-best-places-to-work-awards-2026",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 19.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/in-pictures-the-best-places-to-work-awards-2026",
-          "titre": "In pictures: the Best Places To Work Awards 2026"
-        }
-      ]
-    },
-    {
-      "id": "i-m-going-to-teach-you-to-love-hidden-object-games",
-      "titre": "I'm going to teach you to love hidden object games",
-      "url": "https://www.pcgamer.com/games/im-going-to-teach-you-to-love-hidden-object-games/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 19.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/im-going-to-teach-you-to-love-hidden-object-games/",
-          "titre": "I'm going to teach you to love hidden object games"
-        }
-      ]
-    },
-    {
-      "id": "the-wow-forever-beta-s-nerf-to-dungeon-xp-isn-t-nearly-as-ba",
-      "titre": "The WoW: Forever beta's nerf to dungeon XP isn't nearly as bad as it seems",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/the-wow-forever-betas-nerf-to-dungeon-xp-isnt-nearly-as-bad-as-it-seems/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 19.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/the-wow-forever-betas-nerf-to-dungeon-xp-isnt-nearly-as-bad-as-it-seems/",
-          "titre": "The WoW: Forever beta's nerf to dungeon XP isn't nearly as bad as it seems"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "GTA 6 rating pulled after revealing sex scenes and drug use"
-  ]
+  "alertes": []
 };
