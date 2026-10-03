@@ -1,41 +1,35 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "02/10/2026 à 22h20",
+  "collecte": "03/10/2026 à 00h27",
   "seuil": 14,
   "sujets": [
     {
-      "id": "star-wars-galactic-racer-review",
-      "titre": "Star Wars: Galactic Racer review",
-      "url": "https://www.eurogamer.net/star-wars-galactic-racer-review",
+      "id": "gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-he",
+      "titre": "GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-heard-of-the-miami-heat/",
       "sources": [
-        "Eurogamer",
         "PC Gamer",
         "Push Square",
         "VGC"
       ],
-      "reprises": 4,
-      "heures": 9.3,
-      "chaleur": 13,
+      "reprises": 3,
+      "heures": 1.6,
+      "chaleur": 15,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/star-wars-galactic-racer-review",
-          "titre": "Star Wars: Galactic Racer review"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-heard-of-the-miami-heat/",
+          "titre": "GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat"
         },
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/review/star-wars-galactic-racer-review/",
-          "titre": "Star Wars Galactic Racer review: Somehow, Burnout returns in a modern racing classic"
+          "url": "https://www.videogameschronicle.com/news/miami-heat-nba-team-to-rebrand-as-vice-city-in-gta-6-marketing-stunt/",
+          "titre": "Miami Heat NBA team to rebrand as ‘Vice City’ in GTA 6 marketing stunt"
         },
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/star-wars-galactic-racer",
-          "titre": "Review: Star Wars: Galactic Racer (PS5) - This Ridiculously Good Racer Is in a Galactic League of Its Own"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/racing/star-wars-galactic-racer-review/",
-          "titre": "Star Wars: Galactic Racer review – Run-based bash racer with Burnout-style takedowns"
+          "url": "https://www.pushsquare.com/news/2026/10/gta-6-rebrands-miami-basketball-team-to-vice-city-for-one-night-only",
+          "titre": "GTA 6 Rebrands Miami Basketball Team to Vice City for One Night Only"
         }
       ]
     },
@@ -48,8 +42,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 3.2,
-      "chaleur": 12,
+      "heures": 5.3,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Eurogamer",
@@ -64,30 +58,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-is-not-for-sale-ceo-asha-sharma-says",
-      "titre": "'Xbox is not for sale,' CEO Asha Sharma says",
-      "url": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
-      "sources": [
-        "Game Developer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 27.7,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
-          "titre": "'Xbox is not for sale,' CEO Asha Sharma says"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/xbox-is-not-for-sale-despite-all-of-the-layoffs-and-neat-repackaging-of-studios-within-microsofts-corporate-structure-ceo-asha-sharma-says",
-          "titre": "\"Xbox is not for sale\" despite all of the layoffs and neat repackaging of studios within Microsoft's corporate structure, CEO Asha Sharma says"
-        }
-      ]
-    },
-    {
       "id": "i-added-october-appropriate-zombies-to-grand-theft-auto-5",
       "titre": "I added October-appropriate zombies to Grand Theft Auto 5",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/i-added-october-appropriate-zombies-to-grand-theft-auto-5/",
@@ -96,7 +66,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 5.3,
+      "heures": 7.5,
       "chaleur": 10,
       "liens": [
         {
@@ -112,26 +82,32 @@ const VEILLE = {
       ]
     },
     {
-      "id": "miami-heat-nba-team-to-rebrand-as-vice-city-in-gta-6-marketi",
-      "titre": "Miami Heat NBA team to rebrand as ‘Vice City’ in GTA 6 marketing stunt",
-      "url": "https://www.videogameschronicle.com/news/miami-heat-nba-team-to-rebrand-as-vice-city-in-gta-6-marketing-stunt/",
+      "id": "star-wars-galactic-racer-review",
+      "titre": "Star Wars: Galactic Racer review",
+      "url": "https://www.eurogamer.net/star-wars-galactic-racer-review",
       "sources": [
+        "Eurogamer",
         "Push Square",
         "VGC"
       ],
-      "reprises": 2,
-      "heures": 6.5,
+      "reprises": 3,
+      "heures": 11.5,
       "chaleur": 10,
       "liens": [
         {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/star-wars-galactic-racer-review",
+          "titre": "Star Wars: Galactic Racer review"
+        },
+        {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/miami-heat-nba-team-to-rebrand-as-vice-city-in-gta-6-marketing-stunt/",
-          "titre": "Miami Heat NBA team to rebrand as ‘Vice City’ in GTA 6 marketing stunt"
+          "url": "https://www.videogameschronicle.com/review/star-wars-galactic-racer-review/",
+          "titre": "Star Wars Galactic Racer review: Somehow, Burnout returns in a modern racing classic"
         },
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/gta-6-rebrands-miami-basketball-team-to-vice-city-for-one-night-only",
-          "titre": "GTA 6 Rebrands Miami Basketball Team to Vice City for One Night Only"
+          "url": "https://www.pushsquare.com/reviews/ps5/star-wars-galactic-racer",
+          "titre": "Review: Star Wars: Galactic Racer (PS5) - This Ridiculously Good Racer Is in a Galactic League of Its Own"
         }
       ]
     },
@@ -144,7 +120,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 0.0,
+      "heures": 1.5,
       "chaleur": 9,
       "liens": [
         {
@@ -168,7 +144,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 0.8,
+      "heures": 2.9,
       "chaleur": 9,
       "liens": [
         {
@@ -192,7 +168,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 6.8,
+      "heures": 9.0,
       "chaleur": 9,
       "liens": [
         {
@@ -208,6 +184,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "let-s-catch-you-up-on-all-the-latest-news-from-steam-s-20-mo",
+      "titre": "Let's catch you up on all the latest news from Steam's 20 most-wishlisted games",
+      "url": "https://www.pcgamer.com/games/lets-catch-you-up-on-all-the-latest-news-from-steams-20-most-wishlisted-games/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/lets-catch-you-up-on-all-the-latest-news-from-steams-20-most-wishlisted-games/",
+          "titre": "Let's catch you up on all the latest news from Steam's 20 most-wishlisted games"
+        }
+      ]
+    },
+    {
       "id": "this-is-your-dreamcast-moment-former-playstation-boss-think",
       "titre": "\"This is your Dreamcast moment\": Former PlayStation boss thinks Xbox needs to \"pick a lane\" with exclusive games to fix itself",
       "url": "https://www.eurogamer.net/dreamcast-moment-former-playstation-boss-xbox-exclusive-games",
@@ -215,7 +209,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.5,
       "chaleur": 7,
       "liens": [
         {
@@ -233,7 +227,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.6,
       "chaleur": 7,
       "liens": [
         {
@@ -251,37 +245,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.2,
       "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/warhorse-coo-wants-gta-6-to-set-a-new-80-price-standard-for-triple-a-games/",
           "titre": "Warhorse COO wants GTA 6 to set a new $80 price standard for triple-A games"
-        }
-      ]
-    },
-    {
-      "id": "cd-projekt-red-addresses-divisive-lighting-changes-in-a-new",
-      "titre": "CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch",
-      "url": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 11.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc",
-          "titre": "CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/cd-projekt-red-says-its-working-on-fixes-for-witcher-3-remastered",
-          "titre": "CD Projekt Red Says It's Working On Fixes For Witcher 3 Remastered"
         }
       ]
     },
@@ -509,7 +479,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -527,7 +497,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -545,7 +515,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -563,7 +533,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -581,85 +551,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/action/ive-been-skeptical-about-bandai-namcos-upcoming-gundam-game-but-then-i-saw-this-model-kits-chainsaw-macuahuitl/",
           "titre": "I've been skeptical about Bandai Namco's upcoming Gundam game—but then I saw this model kit's chainsaw macuahuitl"
-        }
-      ]
-    },
-    {
-      "id": "after-30-years-they-finally-let-ace-combat-s-director-fly-in",
-      "titre": "After 30 years they finally let Ace Combat's director fly in a real jet, and I'm taking credit",
-      "url": "https://www.pcgamer.com/games/sim/after-30-years-they-finally-let-ace-combats-director-fly-in-a-real-jet-and-im-taking-credit/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/after-30-years-they-finally-let-ace-combats-director-fly-in-a-real-jet-and-im-taking-credit/",
-          "titre": "After 30 years they finally let Ace Combat's director fly in a real jet, and I'm taking credit"
-        }
-      ]
-    },
-    {
-      "id": "brokenlore-introduces-its-spookiest-antagonist-yet-an-anime",
-      "titre": "BrokenLore Introduces Its Spookiest Antagonist Yet - An Anime AI Assistant",
-      "url": "https://www.pushsquare.com/news/2026/10/brokenlore-introduces-its-spookiest-antagonist-yet-an-anime-ai-assistant",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/brokenlore-introduces-its-spookiest-antagonist-yet-an-anime-ai-assistant",
-          "titre": "BrokenLore Introduces Its Spookiest Antagonist Yet - An Anime AI Assistant"
-        }
-      ]
-    },
-    {
-      "id": "sony-prepping-improved-ps-app-with-expanded-social-features",
-      "titre": "Sony Prepping Improved PS App with Expanded Social Features",
-      "url": "https://www.pushsquare.com/news/2026/10/sony-prepping-improved-ps-app-with-expanded-social-features",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sony-prepping-improved-ps-app-with-expanded-social-features",
-          "titre": "Sony Prepping Improved PS App with Expanded Social Features"
-        }
-      ]
-    },
-    {
-      "id": "destiny-2-might-be-back-but-the-bungie-store-is-going-away",
-      "titre": "Destiny 2 might be back, but the Bungie Store is going away",
-      "url": "https://www.pcgamer.com/games/fps/destiny-2-might-be-back-but-the-bungie-store-is-going-away/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/destiny-2-might-be-back-but-the-bungie-store-is-going-away/",
-          "titre": "Destiny 2 might be back, but the Bungie Store is going away"
         }
       ]
     },
@@ -671,7 +569,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.5,
       "chaleur": 6,
       "liens": [
         {
@@ -689,7 +587,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.5,
       "chaleur": 6,
       "liens": [
         {
@@ -707,7 +605,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.5,
       "chaleur": 6,
       "liens": [
         {
@@ -725,7 +623,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.2,
       "chaleur": 6,
       "liens": [
         {
@@ -736,26 +634,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "pubg-extraction-shooter-black-budget-canned-less-than-a-year",
-      "titre": "PUBG extraction shooter Black Budget canned less than a year from reveal, after Krafton decide it won't \"deliver an experience players could enjoy over the long term\"",
-      "url": "https://www.rockpapershotgun.com/pubg-extraction-shooter-black-budget-canned-less-than-a-year-from-reveal-after-krafton-decide-it-wont-deliver-an-experience-players-could-enjoy-over-the-long-term",
+      "id": "cd-projekt-red-addresses-divisive-lighting-changes-in-a-new",
+      "titre": "CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch",
+      "url": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc",
       "sources": [
         "Eurogamer",
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 12.9,
+      "heures": 13.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/pubg-extraction-shooter-black-budget-canned-less-than-a-year-from-reveal-after-krafton-decide-it-wont-deliver-an-experience-players-could-enjoy-over-the-long-term",
-          "titre": "PUBG extraction shooter Black Budget canned less than a year from reveal, after Krafton decide it won't \"deliver an experience players could enjoy over the long term\""
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc",
+          "titre": "CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch"
         },
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/krafton-pulls-the-plug-on-another-pubg-game-black-budget-less-than-a-year-after-it-was-announced",
-          "titre": "Krafton pulls the plug on another PUBG game, Black Budget, less than a year after it was announced"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/cd-projekt-red-says-its-working-on-fixes-for-witcher-3-remastered",
+          "titre": "CD Projekt Red Says It's Working On Fixes For Witcher 3 Remastered"
         }
       ]
     },
@@ -768,7 +666,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 18.4,
+      "heures": 20.5,
       "chaleur": 6,
       "liens": [
         {
@@ -791,7 +689,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 33.5,
       "chaleur": 6,
       "liens": [
         {
@@ -809,7 +707,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 5,
       "liens": [
         {
@@ -827,13 +725,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.8,
+      "heures": 23.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/video-octopath-traveler-i-and-ii-side-by-side-graphics-comparison-switch-1-and-2",
           "titre": "Video: Octopath Traveler I & II Side-By-Side Graphics Comparison (Switch 1 & 2)"
+        }
+      ]
+    },
+    {
+      "id": "xbox-is-not-for-sale-ceo-asha-sharma-says",
+      "titre": "'Xbox is not for sale,' CEO Asha Sharma says",
+      "url": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 29.8,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
+          "titre": "'Xbox is not for sale,' CEO Asha Sharma says"
         }
       ]
     },
@@ -845,13 +761,85 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.4,
+      "heures": 33.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-1st-october-north-america-plus-3-discounted-eshop-games-worth-a-look",
           "titre": "Nintendo Download: 1st October (North America) - Plus 3 Discounted eShop Games Worth A Look"
+        }
+      ]
+    },
+    {
+      "id": "after-30-years-they-finally-let-ace-combat-s-director-fly-in",
+      "titre": "After 30 years they finally let Ace Combat's director fly in a real jet, and I'm taking credit",
+      "url": "https://www.pcgamer.com/games/sim/after-30-years-they-finally-let-ace-combats-director-fly-in-a-real-jet-and-im-taking-credit/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/after-30-years-they-finally-let-ace-combats-director-fly-in-a-real-jet-and-im-taking-credit/",
+          "titre": "After 30 years they finally let Ace Combat's director fly in a real jet, and I'm taking credit"
+        }
+      ]
+    },
+    {
+      "id": "brokenlore-introduces-its-spookiest-antagonist-yet-an-anime",
+      "titre": "BrokenLore Introduces Its Spookiest Antagonist Yet - An Anime AI Assistant",
+      "url": "https://www.pushsquare.com/news/2026/10/brokenlore-introduces-its-spookiest-antagonist-yet-an-anime-ai-assistant",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/brokenlore-introduces-its-spookiest-antagonist-yet-an-anime-ai-assistant",
+          "titre": "BrokenLore Introduces Its Spookiest Antagonist Yet - An Anime AI Assistant"
+        }
+      ]
+    },
+    {
+      "id": "sony-prepping-improved-ps-app-with-expanded-social-features",
+      "titre": "Sony Prepping Improved PS App with Expanded Social Features",
+      "url": "https://www.pushsquare.com/news/2026/10/sony-prepping-improved-ps-app-with-expanded-social-features",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sony-prepping-improved-ps-app-with-expanded-social-features",
+          "titre": "Sony Prepping Improved PS App with Expanded Social Features"
+        }
+      ]
+    },
+    {
+      "id": "destiny-2-might-be-back-but-the-bungie-store-is-going-away",
+      "titre": "Destiny 2 might be back, but the Bungie Store is going away",
+      "url": "https://www.pcgamer.com/games/fps/destiny-2-might-be-back-but-the-bungie-store-is-going-away/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/destiny-2-might-be-back-but-the-bungie-store-is-going-away/",
+          "titre": "Destiny 2 might be back, but the Bungie Store is going away"
         }
       ]
     },
@@ -863,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +887,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +905,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +923,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +941,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +959,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +977,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +995,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1025,7 +1013,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,7 +1031,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,7 +1049,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1079,7 +1067,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1097,7 +1085,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1115,7 +1103,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1133,7 +1121,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1151,7 +1139,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1162,5 +1150,7 @@ const VEILLE = {
       ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat"
+  ]
 };
