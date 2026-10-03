@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "03/10/2026 à 15h01",
+  "collecte": "03/10/2026 à 20h05",
   "seuil": 14,
   "sujets": [
     {
@@ -13,7 +13,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 5.3,
+      "heures": 10.4,
       "chaleur": 13,
       "liens": [
         {
@@ -34,36 +34,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "capcom-plans-to-evolve-re-engine-into-an-ai-generation-game",
-      "titre": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\"",
-      "url": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 0.2,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
-          "titre": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\""
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/capcom-details-plans-to-evolve-re-engine-into-an-ai-generation-game-engine/",
-          "titre": "Capcom details plans to evolve RE Engine into an ‘AI-generation game engine’"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/capcom-announces-plans-to-transform-its-re-engine-into-an-ai-generation-game-engine/",
-          "titre": "Capcom announces plans to transform its RE Engine into an 'AI-generation game engine'"
-        }
-      ]
-    },
-    {
       "id": "gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-he",
       "titre": "GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-heard-of-the-miami-heat/",
@@ -73,7 +43,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 16.2,
+      "heures": 21.3,
       "chaleur": 12,
       "liens": [
         {
@@ -94,6 +64,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "capcom-plans-to-evolve-re-engine-into-an-ai-generation-game",
+      "titre": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\"",
+      "url": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 5.3,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
+          "titre": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\""
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/capcom-details-plans-to-evolve-re-engine-into-an-ai-generation-game-engine/",
+          "titre": "Capcom details plans to evolve RE Engine into an ‘AI game engine’"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/capcom-announces-plans-to-transform-its-re-engine-into-an-ai-generation-game-engine/",
+          "titre": "Capcom announces plans to transform its RE Engine into an 'AI-generation game engine'"
+        }
+      ]
+    },
+    {
       "id": "talking-point-what-are-you-playing-this-weekend-3rd-october",
       "titre": "Talking Point: What Are You Playing This Weekend? (3rd October)",
       "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-3rd-october",
@@ -103,7 +103,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 6.0,
+      "heures": 11.1,
       "chaleur": 10,
       "liens": [
         {
@@ -124,30 +124,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "007-first-light-gets-free-dlc-that-will-finally-let-you-driv",
-      "titre": "007 First Light gets free DLC that will finally let you drive James Bond's Aston Martin properly",
-      "url": "https://www.pcgamer.com/games/action/007-first-light-gets-free-dlc-that-will-finally-let-you-drive-james-bonds-aston-martin-properly/",
-      "sources": [
-        "Nintendo Life",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 2.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/007-first-light-gets-free-dlc-that-will-finally-let-you-drive-james-bonds-aston-martin-properly/",
-          "titre": "007 First Light gets free DLC that will finally let you drive James Bond's Aston Martin properly"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/007-first-light-unveils-extended-operations-free-dlc-adds-new-gameplus-photo-mode-and-much-more",
-          "titre": "007 First Light Unveils Extended Operations Free DLC - Adds New Game+, Photo Mode And Much More"
-        }
-      ]
-    },
-    {
       "id": "memory-shortages-set-to-persist-into-2028-warns-micron-ceo",
       "titre": "Memory shortages set to persist into 2028, warns Micron CEO",
       "url": "https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand",
@@ -156,7 +132,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 4.5,
+      "heures": 9.5,
       "chaleur": 9,
       "liens": [
         {
@@ -179,7 +155,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 10.0,
       "chaleur": 7,
       "liens": [
         {
@@ -406,74 +382,146 @@ const VEILLE = {
       ]
     },
     {
-      "id": "deadlock-s-new-hero-rat-king-has-over-100-voice-lines-dedica",
-      "titre": "Deadlock's new hero Rat King has over 100 voice lines dedicated to throwing rats at you",
-      "url": "https://www.pcgamer.com/games/moba/deadlocks-new-hero-rat-king-has-over-100-voice-lines-dedicated-to-throwing-rats-at-you/",
+      "id": "yet-more-ps5-security-concerns-as-another-high-profile-accou",
+      "titre": "Yet More PS5 Security Concerns as Another High-Profile Account Is Hacked",
+      "url": "https://www.pushsquare.com/news/2026/10/yet-more-ps5-security-concerns-as-another-high-profile-account-is-hacked",
       "sources": [
-        "PC Gamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 0.6,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/moba/deadlocks-new-hero-rat-king-has-over-100-voice-lines-dedicated-to-throwing-rats-at-you/",
-          "titre": "Deadlock's new hero Rat King has over 100 voice lines dedicated to throwing rats at you"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/yet-more-ps5-security-concerns-as-another-high-profile-account-is-hacked",
+          "titre": "Yet More PS5 Security Concerns as Another High-Profile Account Is Hacked"
         }
       ]
     },
     {
-      "id": "2026-is-the-year-big-brands-have-finally-pushed-gaming-mouse",
-      "titre": "2026 is the year big brands have finally pushed gaming mouse technology forwards",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/2026-is-the-year-big-brands-have-finally-pushed-gaming-mouse-technology-forwards/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-mice/2026-is-the-year-big-brands-have-finally-pushed-gaming-mouse-technology-forwards/",
-          "titre": "2026 is the year big brands have finally pushed gaming mouse technology forwards"
-        }
-      ]
-    },
-    {
-      "id": "metro-redux-s-next-gen-update-arrives-this-month-as-franchis",
-      "titre": "Metro Redux's Next-Gen Update arrives this month as franchise passes 50 million sales",
-      "url": "https://www.eurogamer.net/metro-redux-next-gen-update-50-million-sales-metro-2039",
+      "id": "final-fantasy-7-revelation-director-says-he-did-his-best-to",
+      "titre": "Final Fantasy 7 Revelation director says he \"did his best\" to fight for a full disc release",
+      "url": "https://www.eurogamer.net/final-fantasy-7-revelation-naoki-hamaguchi-disc-release-physical-media",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.0,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/metro-redux-next-gen-update-50-million-sales-metro-2039",
-          "titre": "Metro Redux's Next-Gen Update arrives this month as franchise passes 50 million sales"
+          "url": "https://www.eurogamer.net/final-fantasy-7-revelation-naoki-hamaguchi-disc-release-physical-media",
+          "titre": "Final Fantasy 7 Revelation director says he \"did his best\" to fight for a full disc release"
         }
       ]
     },
     {
-      "id": "bored-with-roguelikes-you-might-still-want-to-play-dicevader",
-      "titre": "Bored with roguelikes? You might still want to play Dicevaders, a game about perfecting dice rolls",
-      "url": "https://www.pcgamer.com/games/roguelike/bored-with-roguelikes-you-might-still-want-to-play-dicevaders-a-game-about-perfecting-dice-rolls/",
+      "id": "the-witcher-3-s-remaster-just-brought-it-to-a-new-all-time-c",
+      "titre": "The Witcher 3's remaster just brought it to a new all-time concurrent player count peak",
+      "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3s-remaster-just-brought-it-to-a-new-all-time-concurrent-player-count-peak/",
       "sources": [
         "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3s-remaster-just-brought-it-to-a-new-all-time-concurrent-player-count-peak/",
+          "titre": "The Witcher 3's remaster just brought it to a new all-time concurrent player count peak"
+        }
+      ]
+    },
+    {
+      "id": "forget-what-pc-gamer-said-the-witcher-3-will-always-be-my-20",
+      "titre": "Forget what PC Gamer said: The Witcher 3 will always be my 2015 GOTY",
+      "url": "https://www.pcgamer.com/games/the-witcher/forget-what-pc-gamer-said-the-witcher-3-will-always-be-my-2015-goty/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/forget-what-pc-gamer-said-the-witcher-3-will-always-be-my-2015-goty/",
+          "titre": "Forget what PC Gamer said: The Witcher 3 will always be my 2015 GOTY"
+        }
+      ]
+    },
+    {
+      "id": "sony-in-talks-to-land-battlefield-movie-from-christopher-mcq",
+      "titre": "Sony in talks to land Battlefield movie from Christopher McQuarrie and Michael B. Jordan",
+      "url": "https://www.eurogamer.net/sony-battlefield-movie-christopher-mcquarrie-michael-b-jordan",
+      "sources": [
+        "Eurogamer"
       ],
       "reprises": 1,
       "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/sony-battlefield-movie-christopher-mcquarrie-michael-b-jordan",
+          "titre": "Sony in talks to land Battlefield movie from Christopher McQuarrie and Michael B. Jordan"
+        }
+      ]
+    },
+    {
+      "id": "deadlock-is-the-king-of-moba-character-designs-and-it-s-all",
+      "titre": "Deadlock is the king of MOBA character designs, and it's all thanks to Valve's embrace of New Yorkyness",
+      "url": "https://www.pcgamer.com/games/moba/deadlock-is-the-king-of-moba-character-designs-and-its-all-thanks-to-valves-embrace-of-new-yorkyness/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 6,
+      "liens": [
+        {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/roguelike/bored-with-roguelikes-you-might-still-want-to-play-dicevaders-a-game-about-perfecting-dice-rolls/",
-          "titre": "Bored with roguelikes? You might still want to play Dicevaders, a game about perfecting dice rolls"
+          "url": "https://www.pcgamer.com/games/moba/deadlock-is-the-king-of-moba-character-designs-and-its-all-thanks-to-valves-embrace-of-new-yorkyness/",
+          "titre": "Deadlock is the king of MOBA character designs, and it's all thanks to Valve's embrace of New Yorkyness"
+        }
+      ]
+    },
+    {
+      "id": "11-underappreciated-games-you-should-buy-in-the-steam-autumn",
+      "titre": "11 underappreciated games you should buy in the Steam Autumn Sale, according to some of our biggest genre sickos",
+      "url": "https://www.pcgamer.com/games/11-underappreciated-games-you-should-buy-in-the-steam-autumn-sale-according-to-some-of-our-biggest-genre-sickos/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/11-underappreciated-games-you-should-buy-in-the-steam-autumn-sale-according-to-some-of-our-biggest-genre-sickos/",
+          "titre": "11 underappreciated games you should buy in the Steam Autumn Sale, according to some of our biggest genre sickos"
+        }
+      ]
+    },
+    {
+      "id": "feature-the-results-of-our-2026-switch-2-summer-survey-are-i",
+      "titre": "Feature: The Results Of Our 2026 Switch 2 Summer Survey Are In",
+      "url": "https://www.nintendolife.com/features/the-results-of-our-2026-switch-2-summer-survey-are-in",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/the-results-of-our-2026-switch-2-summer-survey-are-in",
+          "titre": "Feature: The Results Of Our 2026 Switch 2 Summer Survey Are In"
         }
       ]
     },
@@ -485,31 +533,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 10.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/random-tough-week-grab-yourself-a-brew-and-get-these-immaculate-zelda-tunes-on-your-playlist-pronto",
           "titre": "Random: Tough Week? Grab Yourself A Brew & Get These Immaculate Zelda Tunes On Your Playlist, Pronto"
-        }
-      ]
-    },
-    {
-      "id": "reminder-lies-of-p-switch-2-physical-release-now-available",
-      "titre": "Reminder: Lies Of P Switch 2 Physical Release Now Available",
-      "url": "https://www.nintendolife.com/news/2026/10/reminder-lies-of-p-switch-2-physical-release-now-available",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/reminder-lies-of-p-switch-2-physical-release-now-available",
-          "titre": "Reminder: Lies Of P Switch 2 Physical Release Now Available"
         }
       ]
     },
@@ -521,7 +551,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.1,
+      "heures": 26.2,
       "chaleur": 6,
       "liens": [
         {
@@ -539,7 +569,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.2,
+      "heures": 27.2,
       "chaleur": 6,
       "liens": [
         {
@@ -557,7 +587,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 27.8,
       "chaleur": 6,
       "liens": [
         {
@@ -575,7 +605,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.0,
+      "heures": 30.1,
       "chaleur": 6,
       "liens": [
         {
@@ -594,7 +624,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 26.0,
+      "heures": 31.1,
       "chaleur": 6,
       "liens": [
         {
@@ -610,6 +640,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "reminder-lies-of-p-switch-2-physical-release-now-available",
+      "titre": "Reminder: Lies Of P Switch 2 Physical Release Now Available",
+      "url": "https://www.nintendolife.com/news/2026/10/reminder-lies-of-p-switch-2-physical-release-now-available",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 15.3,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/reminder-lies-of-p-switch-2-physical-release-now-available",
+          "titre": "Reminder: Lies Of P Switch 2 Physical Release Now Available"
+        }
+      ]
+    },
+    {
       "id": "nintendo-has-renewed-multiple-game-trademarks",
       "titre": "Nintendo Has Renewed Multiple Game Trademarks",
       "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-renewed-multiple-game-trademarks",
@@ -617,7 +665,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 18.2,
       "chaleur": 5,
       "liens": [
         {
@@ -635,7 +683,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 21.5,
       "chaleur": 5,
       "liens": [
         {
@@ -653,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.0,
+      "heures": 29.1,
       "chaleur": 5,
       "liens": [
         {
@@ -671,7 +719,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 24.0,
+      "heures": 29.1,
       "chaleur": 5,
       "liens": [
         {
@@ -689,7 +737,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.0,
+      "heures": 30.1,
       "chaleur": 5,
       "liens": [
         {
@@ -707,7 +755,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.8,
+      "heures": 30.8,
       "chaleur": 5,
       "liens": [
         {
@@ -718,20 +766,146 @@ const VEILLE = {
       ]
     },
     {
-      "id": "capcom-admits-it-s-been-a-painstaking-process-porting-monste",
-      "titre": "Capcom Admits It's Been A \"Painstaking\" Process Porting Monster Hunter Wilds To Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wilds-to-switch-2",
+      "id": "poll-are-you-happy-with-your-ps-plus-essential-games-for-oct",
+      "titre": "Poll: Are You Happy with Your PS Plus Essential Games for October 2026?",
+      "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-october-2026",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 34.1,
-      "chaleur": 5,
+      "heures": 4.1,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wilds-to-switch-2",
-          "titre": "Capcom Admits It's Been A \"Painstaking\" Process Porting Monster Hunter Wilds To Switch 2"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-october-2026",
+          "titre": "Poll: Are You Happy with Your PS Plus Essential Games for October 2026?"
+        }
+      ]
+    },
+    {
+      "id": "has-your-life-ever-been-changed-by-someone-you-met-in-an-mmo",
+      "titre": "Has your life ever been changed by someone you met in an MMO?",
+      "url": "https://www.pcgamer.com/games/mmo/has-your-life-ever-been-changed-by-someone-you-met-in-an-mmo/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mmo/has-your-life-ever-been-changed-by-someone-you-met-in-an-mmo/",
+          "titre": "Has your life ever been changed by someone you met in an MMO?"
+        }
+      ]
+    },
+    {
+      "id": "fallen-london-is-where-the-writers-of-baldur-s-gate-3-dishon",
+      "titre": "Fallen London is where the writers of Baldur's Gate 3, Dishonored and Stellaris come to let their hair down",
+      "url": "https://www.pcgamer.com/games/rpg/fallen-london-is-where-the-writers-of-baldurs-gate-3-dishonored-and-stellaris-come-to-let-their-hair-down/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/fallen-london-is-where-the-writers-of-baldurs-gate-3-dishonored-and-stellaris-come-to-let-their-hair-down/",
+          "titre": "Fallen London is where the writers of Baldur's Gate 3, Dishonored and Stellaris come to let their hair down"
+        }
+      ]
+    },
+    {
+      "id": "deadlock-s-new-hero-rat-king-has-over-100-voice-lines-dedica",
+      "titre": "Deadlock's new hero Rat King has over 100 voice lines dedicated to throwing rats at you",
+      "url": "https://www.pcgamer.com/games/moba/deadlocks-new-hero-rat-king-has-over-100-voice-lines-dedicated-to-throwing-rats-at-you/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/deadlocks-new-hero-rat-king-has-over-100-voice-lines-dedicated-to-throwing-rats-at-you/",
+          "titre": "Deadlock's new hero Rat King has over 100 voice lines dedicated to throwing rats at you"
+        }
+      ]
+    },
+    {
+      "id": "2026-is-the-year-big-brands-have-finally-pushed-gaming-mouse",
+      "titre": "2026 is the year big brands have finally pushed gaming mouse technology forwards",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/2026-is-the-year-big-brands-have-finally-pushed-gaming-mouse-technology-forwards/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/2026-is-the-year-big-brands-have-finally-pushed-gaming-mouse-technology-forwards/",
+          "titre": "2026 is the year big brands have finally pushed gaming mouse technology forwards"
+        }
+      ]
+    },
+    {
+      "id": "007-first-light-gets-free-dlc-that-will-finally-let-you-driv",
+      "titre": "007 First Light gets free DLC that will finally let you drive James Bond's Aston Martin properly",
+      "url": "https://www.pcgamer.com/games/action/007-first-light-gets-free-dlc-that-will-finally-let-you-drive-james-bonds-aston-martin-properly/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/007-first-light-gets-free-dlc-that-will-finally-let-you-drive-james-bonds-aston-martin-properly/",
+          "titre": "007 First Light gets free DLC that will finally let you drive James Bond's Aston Martin properly"
+        }
+      ]
+    },
+    {
+      "id": "metro-redux-s-next-gen-update-arrives-this-month-as-franchis",
+      "titre": "Metro Redux's Next-Gen Update arrives this month as franchise passes 50 million sales",
+      "url": "https://www.eurogamer.net/metro-redux-next-gen-update-50-million-sales-metro-2039",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 8.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/metro-redux-next-gen-update-50-million-sales-metro-2039",
+          "titre": "Metro Redux's Next-Gen Update arrives this month as franchise passes 50 million sales"
+        }
+      ]
+    },
+    {
+      "id": "bored-with-roguelikes-you-might-still-want-to-play-dicevader",
+      "titre": "Bored with roguelikes? You might still want to play Dicevaders, a game about perfecting dice rolls",
+      "url": "https://www.pcgamer.com/games/roguelike/bored-with-roguelikes-you-might-still-want-to-play-dicevaders-a-game-about-perfecting-dice-rolls/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/roguelike/bored-with-roguelikes-you-might-still-want-to-play-dicevaders-a-game-about-perfecting-dice-rolls/",
+          "titre": "Bored with roguelikes? You might still want to play Dicevaders, a game about perfecting dice rolls"
         }
       ]
     },
@@ -743,7 +917,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -761,7 +935,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -779,7 +953,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -797,8 +971,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -815,7 +989,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 19.6,
       "chaleur": 3,
       "liens": [
         {
@@ -833,7 +1007,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 22.0,
       "chaleur": 3,
       "liens": [
         {
@@ -851,31 +1025,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 22.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/fallout/for-once-im-happy-to-see-expensive-corporate-lawyers-forcing-a-fan-project-offline/",
           "titre": "For once, I'm happy to see expensive corporate lawyers forcing a fan project offline"
-        }
-      ]
-    },
-    {
-      "id": "ai-guys-beefing-with-the-pope-a-brief-recap",
-      "titre": "AI guys beefing with the pope: A brief recap",
-      "url": "https://www.pcgamer.com/software/ai/ai-guys-beefing-with-the-pope-a-brief-recap/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/ai-guys-beefing-with-the-pope-a-brief-recap/",
-          "titre": "AI guys beefing with the pope: A brief recap"
         }
       ]
     },
@@ -887,7 +1043,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 22.6,
       "chaleur": 3,
       "liens": [
         {
@@ -905,49 +1061,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 18.0,
+      "heures": 23.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/sega-is-releasing-a-porcelain-sonic-35th-anniversary-statue-limited-to-50-pieces-and-costing-6300-each/",
           "titre": "Sega is releasing a porcelain Sonic 35th anniversary statue, limited to 50 pieces and costing $6,300 each"
-        }
-      ]
-    },
-    {
-      "id": "i-ve-been-skeptical-about-bandai-namco-s-upcoming-gundam-gam",
-      "titre": "I've been skeptical about Bandai Namco's upcoming Gundam game—but then I saw this model kit's chainsaw macuahuitl",
-      "url": "https://www.pcgamer.com/games/action/ive-been-skeptical-about-bandai-namcos-upcoming-gundam-game-but-then-i-saw-this-model-kits-chainsaw-macuahuitl/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 18.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/ive-been-skeptical-about-bandai-namcos-upcoming-gundam-game-but-then-i-saw-this-model-kits-chainsaw-macuahuitl/",
-          "titre": "I've been skeptical about Bandai Namco's upcoming Gundam game—but then I saw this model kit's chainsaw macuahuitl"
-        }
-      ]
-    },
-    {
-      "id": "after-30-years-they-finally-let-ace-combat-s-director-fly-in",
-      "titre": "After 30 years they finally let Ace Combat's director fly in a real jet, and I'm taking credit",
-      "url": "https://www.pcgamer.com/games/sim/after-30-years-they-finally-let-ace-combats-director-fly-in-a-real-jet-and-im-taking-credit/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 19.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/after-30-years-they-finally-let-ace-combats-director-fly-in-a-real-jet-and-im-taking-credit/",
-          "titre": "After 30 years they finally let Ace Combat's director fly in a real jet, and I'm taking credit"
         }
       ]
     },
@@ -959,7 +1079,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 25.1,
       "chaleur": 3,
       "liens": [
         {
@@ -977,67 +1097,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 25.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/sony-prepping-improved-ps-app-with-expanded-social-features",
           "titre": "Sony Prepping Improved PS App with Expanded Social Features"
-        }
-      ]
-    },
-    {
-      "id": "destiny-2-might-be-back-but-the-bungie-store-is-going-away",
-      "titre": "Destiny 2 might be back, but the Bungie Store is going away",
-      "url": "https://www.pcgamer.com/games/fps/destiny-2-might-be-back-but-the-bungie-store-is-going-away/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/destiny-2-might-be-back-but-the-bungie-store-is-going-away/",
-          "titre": "Destiny 2 might be back, but the Bungie Store is going away"
-        }
-      ]
-    },
-    {
-      "id": "7-musical-clips-of-this-incredibly-charming-magical-school-l",
-      "titre": "7 musical clips of this incredibly charming magical school life sim with its goofy classmates and delightful soundtrack",
-      "url": "https://www.pcgamer.com/games/life-sim/7-musical-clips-of-this-incredibly-charming-magical-school-life-sim-with-its-goofy-classmates-and-delightful-soundtrack/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/life-sim/7-musical-clips-of-this-incredibly-charming-magical-school-life-sim-with-its-goofy-classmates-and-delightful-soundtrack/",
-          "titre": "7 musical clips of this incredibly charming magical school life sim with its goofy classmates and delightful soundtrack"
-        }
-      ]
-    },
-    {
-      "id": "dear-former-nfl-head-coach-mike-tomlin-your-12-year-minecraf",
-      "titre": "Dear former NFL head coach Mike Tomlin: Your 12-year Minecraft city is beautiful",
-      "url": "https://www.pcgamer.com/games/survival-crafting/dear-former-nfl-head-coach-mike-tomlin-your-12-year-minecraft-city-is-beautiful/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/dear-former-nfl-head-coach-mike-tomlin-your-12-year-minecraft-city-is-beautiful/",
-          "titre": "Dear former NFL head coach Mike Tomlin: Your 12-year Minecraft city is beautiful"
         }
       ]
     },
@@ -1049,7 +1115,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.8,
+      "heures": 26.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,85 +1133,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 22.2,
+      "heures": 27.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/epics-october-free-games-include-system-shock-2s-25th-anniversary-remaster/",
           "titre": "Epic’s October free games include System Shock 2’s 25th anniversary remaster"
-        }
-      ]
-    },
-    {
-      "id": "toy-story-3-complete-edition-s-ps5-trophy-list-echoes-the-or",
-      "titre": "Toy Story 3 Complete Edition's PS5 Trophy List Echoes the Original with a Few New Additions",
-      "url": "https://www.pushsquare.com/news/2026/10/toy-story-3-complete-editions-ps5-trophy-list-echoes-the-original-with-a-few-new-additions",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 22.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/toy-story-3-complete-editions-ps5-trophy-list-echoes-the-original-with-a-few-new-additions",
-          "titre": "Toy Story 3 Complete Edition's PS5 Trophy List Echoes the Original with a Few New Additions"
-        }
-      ]
-    },
-    {
-      "id": "desktop-and-handheld-prices-going-out-of-control-means-pc-ba",
-      "titre": "Desktop and handheld prices going out of control means PC bargain hunts lead to my old enemy: gaming laptops",
-      "url": "https://www.rockpapershotgun.com/desktop-and-handheld-prices-going-out-of-control-means-pc-bargain-hunts-lead-to-my-old-enemy-gaming-laptops",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 22.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/desktop-and-handheld-prices-going-out-of-control-means-pc-bargain-hunts-lead-to-my-old-enemy-gaming-laptops",
-          "titre": "Desktop and handheld prices going out of control means PC bargain hunts lead to my old enemy: gaming laptops"
-        }
-      ]
-    },
-    {
-      "id": "support-modders-not-ai-total-war-warhammer-3-mod-deliberate",
-      "titre": "\"Support modders, not AI\": Total War: Warhammer 3 mod \"deliberately corrupted\" by its own creator in protest of AI-infused unauthorised reuploads",
-      "url": "https://www.rockpapershotgun.com/support-modders-not-ai-total-war-warhammer-3-mod-deliberately-corrupted-by-its-own-creator-in-protest-of-ai-infused-unauthorised-reuploads",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 23.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/support-modders-not-ai-total-war-warhammer-3-mod-deliberately-corrupted-by-its-own-creator-in-protest-of-ai-infused-unauthorised-reuploads",
-          "titre": "\"Support modders, not AI\": Total War: Warhammer 3 mod \"deliberately corrupted\" by its own creator in protest of AI-infused unauthorised reuploads"
-        }
-      ]
-    },
-    {
-      "id": "the-team-behind-pixeljunk-is-partly-to-thank-for-ace-combat",
-      "titre": "The Team Behind PixelJunk Is Partly to Thank for Ace Combat 8's Brilliant Cloud Tech",
-      "url": "https://www.pushsquare.com/news/2026/10/the-team-behind-pixeljunk-is-partly-to-thank-for-ace-combat-8s-brilliant-cloud-tech",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 23.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/the-team-behind-pixeljunk-is-partly-to-thank-for-ace-combat-8s-brilliant-cloud-tech",
-          "titre": "The Team Behind PixelJunk Is Partly to Thank for Ace Combat 8's Brilliant Cloud Tech"
         }
       ]
     }
