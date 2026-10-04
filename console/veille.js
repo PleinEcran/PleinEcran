@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "03/10/2026 à 20h05",
+  "collecte": "04/10/2026 à 02h55",
   "seuil": 14,
   "sujets": [
     {
@@ -13,8 +13,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 10.4,
-      "chaleur": 13,
+      "heures": 17.2,
+      "chaleur": 12,
       "liens": [
         {
           "source": "VGC",
@@ -34,32 +34,50 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-he",
-      "titre": "GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-heard-of-the-miami-heat/",
+      "id": "video-15-exciting-new-games-coming-to-switch-1-2-in-october",
+      "titre": "Video: 15 Exciting New Games Coming To Switch 1 & 2 In October 2026",
+      "url": "https://www.nintendolife.com/news/2026/10/video-15-exciting-new-games-coming-to-switch-1-and-2-in-october-2026",
       "sources": [
-        "PC Gamer",
-        "Push Square",
-        "VGC"
+        "Nintendo Life",
+        "Push Square"
       ],
-      "reprises": 3,
-      "heures": 21.3,
-      "chaleur": 12,
+      "reprises": 2,
+      "heures": 1.8,
+      "chaleur": 11,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-heard-of-the-miami-heat/",
-          "titre": "GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/miami-heat-nba-team-to-rebrand-as-vice-city-in-gta-6-marketing-stunt/",
-          "titre": "Miami Heat NBA team to rebrand as ‘Vice City’ in GTA 6 marketing stunt"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/video-15-exciting-new-games-coming-to-switch-1-and-2-in-october-2026",
+          "titre": "Video: 15 Exciting New Games Coming To Switch 1 & 2 In October 2026"
         },
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/gta-6-rebrands-miami-basketball-team-to-vice-city-for-one-night-only",
-          "titre": "GTA 6 Rebrands Miami Basketball Team to Vice City for One Night Only"
+          "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-october-2026",
+          "titre": "Poll: Are You Happy with Your PS Plus Essential Games for October 2026?"
+        }
+      ]
+    },
+    {
+      "id": "one-of-the-most-popular-total-war-warhammer-3-mods-was-delib",
+      "titre": "One of the most popular Total War: Warhammer 3 mods was 'deliberately corrupted' by its creator to sabotage AI-made copies",
+      "url": "https://www.pcgamer.com/games/strategy/one-of-the-most-popular-total-war-warhammer-3-mods-was-deliberately-corrupted-by-its-creator-to-sabotage-ai-made-copies/",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 1.7,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/one-of-the-most-popular-total-war-warhammer-3-mods-was-deliberately-corrupted-by-its-creator-to-sabotage-ai-made-copies/",
+          "titre": "One of the most popular Total War: Warhammer 3 mods was 'deliberately corrupted' by its creator to sabotage AI-made copies"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/support-modders-not-ai-total-war-warhammer-3-mod-deliberately-corrupted-by-its-own-creator-in-protest-of-ai-infused-unauthorised-reuploads",
+          "titre": "\"Support modders, not AI\": Total War: Warhammer 3 mod \"deliberately corrupted\" by its own creator in protest of AI-infused unauthorised reuploads"
         }
       ]
     },
@@ -73,8 +91,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 5.3,
-      "chaleur": 10,
+      "heures": 12.1,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
@@ -103,8 +121,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 11.1,
-      "chaleur": 10,
+      "heures": 17.9,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -124,6 +142,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wish",
+      "titre": "Crimson Desert DLC delayed by 2 weeks, please join me in wishing the devs a fond 'take your time, please drink some water'",
+      "url": "https://www.pcgamer.com/games/rpg/crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-devs-a-fond-take-your-time-please-drink-some-water/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-devs-a-fond-take-your-time-please-drink-some-water/",
+          "titre": "Crimson Desert DLC delayed by 2 weeks, please join me in wishing the devs a fond 'take your time, please drink some water'"
+        }
+      ]
+    },
+    {
       "id": "memory-shortages-set-to-persist-into-2028-warns-micron-ceo",
       "titre": "Memory shortages set to persist into 2028, warns Micron CEO",
       "url": "https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand",
@@ -132,8 +168,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 9.5,
-      "chaleur": 9,
+      "heures": 16.3,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
@@ -144,24 +180,6 @@ const VEILLE = {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/buckle-up-memory-shortages-are-reportedly-set-to-get-worse-in-2027",
           "titre": "Buckle Up, Memory Shortages Are Reportedly Set To Get Worse In 2027"
-        }
-      ]
-    },
-    {
-      "id": "dan-houser-still-hasn-t-seen-gta-6-i-will-try-and-avoid-it",
-      "titre": "Dan Houser still hasn’t seen GTA 6: ‘I will try and avoid it’",
-      "url": "https://www.videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it/",
-          "titre": "Dan Houser still hasn’t seen GTA 6: ‘I will try and avoid it’"
         }
       ]
     },
@@ -382,114 +400,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "yet-more-ps5-security-concerns-as-another-high-profile-accou",
-      "titre": "Yet More PS5 Security Concerns as Another High-Profile Account Is Hacked",
-      "url": "https://www.pushsquare.com/news/2026/10/yet-more-ps5-security-concerns-as-another-high-profile-account-is-hacked",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 0.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/yet-more-ps5-security-concerns-as-another-high-profile-account-is-hacked",
-          "titre": "Yet More PS5 Security Concerns as Another High-Profile Account Is Hacked"
-        }
-      ]
-    },
-    {
-      "id": "final-fantasy-7-revelation-director-says-he-did-his-best-to",
-      "titre": "Final Fantasy 7 Revelation director says he \"did his best\" to fight for a full disc release",
-      "url": "https://www.eurogamer.net/final-fantasy-7-revelation-naoki-hamaguchi-disc-release-physical-media",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/final-fantasy-7-revelation-naoki-hamaguchi-disc-release-physical-media",
-          "titre": "Final Fantasy 7 Revelation director says he \"did his best\" to fight for a full disc release"
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-s-remaster-just-brought-it-to-a-new-all-time-c",
-      "titre": "The Witcher 3's remaster just brought it to a new all-time concurrent player count peak",
-      "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3s-remaster-just-brought-it-to-a-new-all-time-concurrent-player-count-peak/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3s-remaster-just-brought-it-to-a-new-all-time-concurrent-player-count-peak/",
-          "titre": "The Witcher 3's remaster just brought it to a new all-time concurrent player count peak"
-        }
-      ]
-    },
-    {
-      "id": "forget-what-pc-gamer-said-the-witcher-3-will-always-be-my-20",
-      "titre": "Forget what PC Gamer said: The Witcher 3 will always be my 2015 GOTY",
-      "url": "https://www.pcgamer.com/games/the-witcher/forget-what-pc-gamer-said-the-witcher-3-will-always-be-my-2015-goty/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/forget-what-pc-gamer-said-the-witcher-3-will-always-be-my-2015-goty/",
-          "titre": "Forget what PC Gamer said: The Witcher 3 will always be my 2015 GOTY"
-        }
-      ]
-    },
-    {
-      "id": "sony-in-talks-to-land-battlefield-movie-from-christopher-mcq",
-      "titre": "Sony in talks to land Battlefield movie from Christopher McQuarrie and Michael B. Jordan",
-      "url": "https://www.eurogamer.net/sony-battlefield-movie-christopher-mcquarrie-michael-b-jordan",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sony-battlefield-movie-christopher-mcquarrie-michael-b-jordan",
-          "titre": "Sony in talks to land Battlefield movie from Christopher McQuarrie and Michael B. Jordan"
-        }
-      ]
-    },
-    {
-      "id": "deadlock-is-the-king-of-moba-character-designs-and-it-s-all",
-      "titre": "Deadlock is the king of MOBA character designs, and it's all thanks to Valve's embrace of New Yorkyness",
-      "url": "https://www.pcgamer.com/games/moba/deadlock-is-the-king-of-moba-character-designs-and-its-all-thanks-to-valves-embrace-of-new-yorkyness/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/moba/deadlock-is-the-king-of-moba-character-designs-and-its-all-thanks-to-valves-embrace-of-new-yorkyness/",
-          "titre": "Deadlock is the king of MOBA character designs, and it's all thanks to Valve's embrace of New Yorkyness"
-        }
-      ]
-    },
-    {
       "id": "11-underappreciated-games-you-should-buy-in-the-steam-autumn",
       "titre": "11 underappreciated games you should buy in the Steam Autumn Sale, according to some of our biggest genre sickos",
       "url": "https://www.pcgamer.com/games/11-underappreciated-games-you-should-buy-in-the-steam-autumn-sale-according-to-some-of-our-biggest-genre-sickos/",
@@ -497,7 +407,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 10.9,
       "chaleur": 6,
       "liens": [
         {
@@ -515,7 +425,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 11.9,
       "chaleur": 6,
       "liens": [
         {
@@ -526,20 +436,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "random-tough-week-grab-yourself-a-brew-get-these-immaculate",
-      "titre": "Random: Tough Week? Grab Yourself A Brew & Get These Immaculate Zelda Tunes On Your Playlist, Pronto",
-      "url": "https://www.nintendolife.com/news/2026/10/random-tough-week-grab-yourself-a-brew-and-get-these-immaculate-zelda-tunes-on-your-playlist-pronto",
+      "id": "dan-houser-still-hasn-t-seen-gta-6-i-will-try-and-avoid-it",
+      "titre": "Dan Houser still hasn’t seen GTA 6: ‘I will try and avoid it’",
+      "url": "https://www.videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it/",
       "sources": [
-        "Nintendo Life"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 10.1,
+      "heures": 16.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/random-tough-week-grab-yourself-a-brew-and-get-these-immaculate-zelda-tunes-on-your-playlist-pronto",
-          "titre": "Random: Tough Week? Grab Yourself A Brew & Get These Immaculate Zelda Tunes On Your Playlist, Pronto"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it/",
+          "titre": "Dan Houser still hasn’t seen GTA 6: ‘I will try and avoid it’"
         }
       ]
     },
@@ -551,7 +461,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.2,
+      "heures": 33.0,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +479,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.2,
+      "heures": 34.0,
       "chaleur": 6,
       "liens": [
         {
@@ -587,7 +497,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 27.8,
+      "heures": 34.6,
       "chaleur": 6,
       "liens": [
         {
@@ -598,44 +508,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "grand-theft-auto-6-may-be-the-first-gta-to-have-full-on-sex",
-      "titre": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included",
-      "url": "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards",
+      "id": "miami-heat-nba-team-to-rebrand-as-vice-city-in-gta-6-marketi",
+      "titre": "Miami Heat NBA team to rebrand as ‘Vice City’ in GTA 6 marketing stunt",
+      "url": "https://www.videogameschronicle.com/news/miami-heat-nba-team-to-rebrand-as-vice-city-in-gta-6-marketing-stunt/",
       "sources": [
-        "Eurogamer"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 30.1,
+      "heures": 35.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards",
-          "titre": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/miami-heat-nba-team-to-rebrand-as-vice-city-in-gta-6-marketing-stunt/",
+          "titre": "Miami Heat NBA team to rebrand as ‘Vice City’ in GTA 6 marketing stunt"
         }
       ]
     },
     {
-      "id": "star-wars-galactic-racer-review",
-      "titre": "Star Wars: Galactic Racer review",
-      "url": "https://www.eurogamer.net/star-wars-galactic-racer-review",
+      "id": "random-tough-week-grab-yourself-a-brew-get-these-immaculate",
+      "titre": "Random: Tough Week? Grab Yourself A Brew & Get These Immaculate Zelda Tunes On Your Playlist, Pronto",
+      "url": "https://www.nintendolife.com/news/2026/10/random-tough-week-grab-yourself-a-brew-and-get-these-immaculate-zelda-tunes-on-your-playlist-pronto",
       "sources": [
-        "Eurogamer",
-        "Push Square"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 31.1,
-      "chaleur": 6,
+      "reprises": 1,
+      "heures": 16.9,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/star-wars-galactic-racer-review",
-          "titre": "Star Wars: Galactic Racer review"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/star-wars-galactic-racer",
-          "titre": "Review: Star Wars: Galactic Racer (PS5) - This Ridiculously Good Racer Is in a Galactic League of Its Own"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/random-tough-week-grab-yourself-a-brew-and-get-these-immaculate-zelda-tunes-on-your-playlist-pronto",
+          "titre": "Random: Tough Week? Grab Yourself A Brew & Get These Immaculate Zelda Tunes On Your Playlist, Pronto"
         }
       ]
     },
@@ -647,7 +551,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 22.2,
       "chaleur": 5,
       "liens": [
         {
@@ -665,31 +569,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 25.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-renewed-multiple-game-trademarks",
           "titre": "Nintendo Has Renewed Multiple Game Trademarks"
-        }
-      ]
-    },
-    {
-      "id": "let-s-catch-you-up-on-all-the-latest-news-from-steam-s-20-mo",
-      "titre": "Let's catch you up on all the latest news from Steam's 20 most-wishlisted games",
-      "url": "https://www.pcgamer.com/games/lets-catch-you-up-on-all-the-latest-news-from-steams-20-most-wishlisted-games/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.5,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/lets-catch-you-up-on-all-the-latest-news-from-steams-20-most-wishlisted-games/",
-          "titre": "Let's catch you up on all the latest news from Steam's 20 most-wishlisted games"
         }
       ]
     },
@@ -701,7 +587,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.1,
+      "heures": 35.9,
       "chaleur": 5,
       "liens": [
         {
@@ -719,7 +605,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.1,
+      "heures": 35.9,
       "chaleur": 5,
       "liens": [
         {
@@ -730,56 +616,182 @@ const VEILLE = {
       ]
     },
     {
-      "id": "poll-did-you-manage-to-get-tickets-to-the-zelda-40th-anniver",
-      "titre": "Poll: Did You Manage To Get Tickets To The Zelda 40th Anniversary Concert?",
-      "url": "https://www.nintendolife.com/features/poll-did-you-manage-to-get-tickets-to-the-zelda-40th-anniversary-concert",
+      "id": "valorant-player-claims-to-have-inherited-hardware-ban-throug",
+      "titre": "Valorant player claims to have inherited hardware ban through secondhand CPU, Riot anticheat boss disputes parts of story",
+      "url": "https://www.pcgamer.com/games/fps/valorant-player-claims-to-have-inherited-hardware-ban-through-secondhand-cpu-riot-anticheat-boss-disputes-parts-of-story/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 30.1,
-      "chaleur": 5,
+      "heures": 4.2,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/poll-did-you-manage-to-get-tickets-to-the-zelda-40th-anniversary-concert",
-          "titre": "Poll: Did You Manage To Get Tickets To The Zelda 40th Anniversary Concert?"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/valorant-player-claims-to-have-inherited-hardware-ban-through-secondhand-cpu-riot-anticheat-boss-disputes-parts-of-story/",
+          "titre": "Valorant player claims to have inherited hardware ban through secondhand CPU, Riot anticheat boss disputes parts of story"
         }
       ]
     },
     {
-      "id": "halo-s-new-steward-activision-reportedly-considering-rebooti",
-      "titre": "Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge",
-      "url": "https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot",
+      "id": "runescape-4-announced-at-runefest-full-mmo-sequel-started-as",
+      "titre": "RuneScape 4 announced at RuneFest, full MMO sequel started as expansion to survival game Dragonwilds",
+      "url": "https://www.pcgamer.com/games/mmo/runescape-4-announced-at-runefest-full-mmo-sequel-started-as-expansion-to-survival-game-dragonwilds/",
       "sources": [
-        "Eurogamer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 30.8,
-      "chaleur": 5,
+      "heures": 5.2,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot",
-          "titre": "Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mmo/runescape-4-announced-at-runefest-full-mmo-sequel-started-as-expansion-to-survival-game-dragonwilds/",
+          "titre": "RuneScape 4 announced at RuneFest, full MMO sequel started as expansion to survival game Dragonwilds"
         }
       ]
     },
     {
-      "id": "poll-are-you-happy-with-your-ps-plus-essential-games-for-oct",
-      "titre": "Poll: Are You Happy with Your PS Plus Essential Games for October 2026?",
-      "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-october-2026",
+      "id": "thrustmaster-reveals-new-750-ps5-racing-wheel-for-gran-turis",
+      "titre": "Thrustmaster Reveals New $750 PS5 Racing Wheel for Gran Turismo 7",
+      "url": "https://www.pushsquare.com/news/2026/10/thrustmaster-reveals-new-usd750-ps5-racing-wheel-for-gran-turismo-7",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-october-2026",
-          "titre": "Poll: Are You Happy with Your PS Plus Essential Games for October 2026?"
+          "url": "https://www.pushsquare.com/news/2026/10/thrustmaster-reveals-new-usd750-ps5-racing-wheel-for-gran-turismo-7",
+          "titre": "Thrustmaster Reveals New $750 PS5 Racing Wheel for Gran Turismo 7"
+        }
+      ]
+    },
+    {
+      "id": "banjo-kazooie-pc-port-decomp-developer-says-ai-generated-pc",
+      "titre": "Banjo-Kazooie PC port ‘decomp’ developer says AI-generated PC ports are ‘a race to the bottom’ and ‘disrespectful’",
+      "url": "https://www.videogameschronicle.com/news/banjo-kazooie-pc-port-decomp-developer-says-ai-generated-pc-ports-are-a-race-to-the-bottom-and-disrespectful/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 6.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/banjo-kazooie-pc-port-decomp-developer-says-ai-generated-pc-ports-are-a-race-to-the-bottom-and-disrespectful/",
+          "titre": "Banjo-Kazooie PC port ‘decomp’ developer says AI-generated PC ports are ‘a race to the bottom’ and ‘disrespectful’"
+        }
+      ]
+    },
+    {
+      "id": "yet-more-ps5-security-concerns-as-another-high-profile-accou",
+      "titre": "Yet More PS5 Security Concerns as Another High-Profile Account Is Hacked",
+      "url": "https://www.pushsquare.com/news/2026/10/yet-more-ps5-security-concerns-as-another-high-profile-account-is-hacked",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 7.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/yet-more-ps5-security-concerns-as-another-high-profile-account-is-hacked",
+          "titre": "Yet More PS5 Security Concerns as Another High-Profile Account Is Hacked"
+        }
+      ]
+    },
+    {
+      "id": "final-fantasy-7-revelation-director-says-he-did-his-best-to",
+      "titre": "Final Fantasy 7 Revelation director says he \"did his best\" to fight for a full disc release",
+      "url": "https://www.eurogamer.net/final-fantasy-7-revelation-naoki-hamaguchi-disc-release-physical-media",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 9.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/final-fantasy-7-revelation-naoki-hamaguchi-disc-release-physical-media",
+          "titre": "Final Fantasy 7 Revelation director says he \"did his best\" to fight for a full disc release"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-s-remaster-just-brought-it-to-a-new-all-time-c",
+      "titre": "The Witcher 3's remaster just brought it to a new all-time concurrent player count peak",
+      "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3s-remaster-just-brought-it-to-a-new-all-time-concurrent-player-count-peak/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 10.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3s-remaster-just-brought-it-to-a-new-all-time-concurrent-player-count-peak/",
+          "titre": "The Witcher 3's remaster just brought it to a new all-time concurrent player count peak"
+        }
+      ]
+    },
+    {
+      "id": "forget-what-pc-gamer-said-the-witcher-3-will-always-be-my-20",
+      "titre": "Forget what PC Gamer said: The Witcher 3 will always be my 2015 GOTY",
+      "url": "https://www.pcgamer.com/games/the-witcher/forget-what-pc-gamer-said-the-witcher-3-will-always-be-my-2015-goty/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 10.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/forget-what-pc-gamer-said-the-witcher-3-will-always-be-my-2015-goty/",
+          "titre": "Forget what PC Gamer said: The Witcher 3 will always be my 2015 GOTY"
+        }
+      ]
+    },
+    {
+      "id": "sony-in-talks-to-land-battlefield-movie-from-christopher-mcq",
+      "titre": "Sony in talks to land Battlefield movie from Christopher McQuarrie and Michael B. Jordan",
+      "url": "https://www.eurogamer.net/sony-battlefield-movie-christopher-mcquarrie-michael-b-jordan",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 10.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/sony-battlefield-movie-christopher-mcquarrie-michael-b-jordan",
+          "titre": "Sony in talks to land Battlefield movie from Christopher McQuarrie and Michael B. Jordan"
+        }
+      ]
+    },
+    {
+      "id": "deadlock-is-the-king-of-moba-character-designs-and-it-s-all",
+      "titre": "Deadlock is the king of MOBA character designs, and it's all thanks to Valve's embrace of New Yorkyness",
+      "url": "https://www.pcgamer.com/games/moba/deadlock-is-the-king-of-moba-character-designs-and-its-all-thanks-to-valves-embrace-of-new-yorkyness/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 10.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/deadlock-is-the-king-of-moba-character-designs-and-its-all-thanks-to-valves-embrace-of-new-yorkyness/",
+          "titre": "Deadlock is the king of MOBA character designs, and it's all thanks to Valve's embrace of New Yorkyness"
         }
       ]
     },
@@ -791,7 +803,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -809,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -827,8 +839,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -845,8 +857,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.1,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -863,8 +875,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.7,
-      "chaleur": 4,
+      "heures": 14.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -881,8 +893,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
-      "chaleur": 4,
+      "heures": 14.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -899,8 +911,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 4,
+      "heures": 15.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -917,8 +929,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 4,
+      "heures": 15.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -935,8 +947,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 4,
+      "heures": 15.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -953,8 +965,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 17.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -971,7 +983,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 19.9,
       "chaleur": 3,
       "liens": [
         {
@@ -989,49 +1001,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 26.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-final-content-drop-of-year-one-arrives-this-month",
           "titre": "Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Arrives This Month"
-        }
-      ]
-    },
-    {
-      "id": "valve-s-patch-note-supremacy",
-      "titre": "Valve's patch note supremacy",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/valves-patch-note-supremacy/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 22.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/valves-patch-note-supremacy/",
-          "titre": "Valve's patch note supremacy"
-        }
-      ]
-    },
-    {
-      "id": "for-once-i-m-happy-to-see-expensive-corporate-lawyers-forcin",
-      "titre": "For once, I'm happy to see expensive corporate lawyers forcing a fan project offline",
-      "url": "https://www.pcgamer.com/games/fallout/for-once-im-happy-to-see-expensive-corporate-lawyers-forcing-a-fan-project-offline/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 22.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fallout/for-once-im-happy-to-see-expensive-corporate-lawyers-forcing-a-fan-project-offline/",
-          "titre": "For once, I'm happy to see expensive corporate lawyers forcing a fan project offline"
         }
       ]
     },
@@ -1043,7 +1019,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 22.6,
+      "heures": 29.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,7 +1037,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 23.1,
+      "heures": 29.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1079,7 +1055,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.1,
+      "heures": 31.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1097,7 +1073,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 32.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1115,7 +1091,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.8,
+      "heures": 33.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1133,13 +1109,31 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 34.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/epics-october-free-games-include-system-shock-2s-25th-anniversary-remaster/",
           "titre": "Epic’s October free games include System Shock 2’s 25th anniversary remaster"
+        }
+      ]
+    },
+    {
+      "id": "toy-story-3-complete-edition-s-ps5-trophy-list-echoes-the-or",
+      "titre": "Toy Story 3 Complete Edition's PS5 Trophy List Echoes the Original with a Few New Additions",
+      "url": "https://www.pushsquare.com/news/2026/10/toy-story-3-complete-editions-ps5-trophy-list-echoes-the-original-with-a-few-new-additions",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 34.2,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/toy-story-3-complete-editions-ps5-trophy-list-echoes-the-original-with-a-few-new-additions",
+          "titre": "Toy Story 3 Complete Edition's PS5 Trophy List Echoes the Original with a Few New Additions"
         }
       ]
     }
