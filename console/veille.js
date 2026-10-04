@@ -1,53 +1,83 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "04/10/2026 à 05h57",
+  "collecte": "04/10/2026 à 11h35",
   "seuil": 14,
   "sujets": [
     {
-      "id": "gta-6-rating-pulled-after-revealing-sex-scenes-and-drug-use",
-      "titre": "GTA 6 rating pulled after revealing sex scenes and drug use",
-      "url": "https://www.videogameschronicle.com/news/gta-6-rating-pulled-after-revealing-sex-scenes-and-drug-use/",
+      "id": "capcom-is-looking-to-evolve-its-re-engine-into-an-ai-generat",
+      "titre": "Capcom Is Looking To Evolve Its RE Engine Into An 'AI-Generation Game Engine'",
+      "url": "https://www.nintendolife.com/news/2026/10/capcom-is-looking-to-evolve-its-re-engine-into-an-ai-generation-game-engine",
       "sources": [
         "Eurogamer",
-        "Push Square",
+        "Nintendo Life",
         "VGC"
       ],
       "reprises": 3,
-      "heures": 20.3,
+      "heures": 0.3,
       "chaleur": 12,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/gta-6-rating-pulled-after-revealing-sex-scenes-and-drug-use/",
-          "titre": "GTA 6 rating pulled after revealing sex scenes and drug use"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/capcom-is-looking-to-evolve-its-re-engine-into-an-ai-generation-game-engine",
+          "titre": "Capcom Is Looking To Evolve Its RE Engine Into An 'AI-Generation Game Engine'"
         },
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta6-age-rating-pegi-lucia-jason-drug-use",
-          "titre": "GTA 6's 18+ age rating reveals Lucia and Jason can partake in drug use \"directly from their inventory\" and \"at any time\""
+          "url": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
+          "titre": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\""
         },
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/drug-use-nudity-and-sexual-fetishes-all-in-gta-6",
-          "titre": "Drug Use, Nudity, and Sexual Fetishes All in GTA 6"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/capcom-details-plans-to-evolve-re-engine-into-an-ai-generation-game-engine/",
+          "titre": "Capcom details plans to evolve RE Engine into an ‘AI game engine’"
         }
       ]
     },
     {
-      "id": "gta-6-won-t-be-letting-up-on-the-satire-if-you-are-going-to",
-      "titre": "GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/",
+      "id": "fourth-runescape-officially-revealed",
+      "titre": "Fourth RuneScape officially revealed",
+      "url": "https://www.eurogamer.net/jagex-runescape-4-mmo-unreal-engine-animated-series-moistcr1tikal",
       "sources": [
-        "PC Gamer"
+        "Eurogamer",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 2.7,
+      "reprises": 2,
+      "heures": 0.4,
       "chaleur": 9,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/",
-          "titre": "GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/jagex-runescape-4-mmo-unreal-engine-animated-series-moistcr1tikal",
+          "titre": "Fourth RuneScape officially revealed"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/jagex-has-officially-announced-runescape-4/",
+          "titre": "Jagex has officially announced RuneScape 4"
+        }
+      ]
+    },
+    {
+      "id": "i-did-my-best-final-fantasy-7-revelation-director-says-he-a",
+      "titre": "‘I did my best’: Final Fantasy 7 Revelation director says he argued for physical version",
+      "url": "https://www.videogameschronicle.com/news/i-did-my-best-final-fantasy-7-revelation-director-says-he-argued-for-physical-version/",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/i-did-my-best-final-fantasy-7-revelation-director-says-he-argued-for-physical-version/",
+          "titre": "‘I did my best’: Final Fantasy 7 Revelation director says he argued for physical version"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/final-fantasy-7-revelation-naoki-hamaguchi-disc-release-physical-media",
+          "titre": "Final Fantasy 7 Revelation director says he \"did his best\" to fight for a full disc release"
         }
       ]
     },
@@ -60,7 +90,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 4.9,
+      "heures": 10.5,
       "chaleur": 9,
       "liens": [
         {
@@ -76,32 +106,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "talking-point-what-are-you-playing-this-weekend-3rd-october",
-      "titre": "Talking Point: What Are You Playing This Weekend? (3rd October)",
-      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-3rd-october",
+      "id": "a-colossal-upgrade-digital-foundry-delivers-its-tech-verdic",
+      "titre": "\"A Colossal Upgrade\" - Digital Foundry Delivers Its Tech Verdict For The Witcher 3 Remastered On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/a-colossal-upgrade-digital-foundry-delivers-its-tech-verdict-for-the-witcher-3-remastered-on-switch-2",
       "sources": [
-        "Nintendo Life",
-        "Push Square",
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
-      "reprises": 3,
-      "heures": 21.0,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-3rd-october",
-          "titre": "Talking Point: What Are You Playing This Weekend? (3rd October)"
-        },
+          "url": "https://www.nintendolife.com/news/2026/10/a-colossal-upgrade-digital-foundry-delivers-its-tech-verdict-for-the-witcher-3-remastered-on-switch-2",
+          "titre": "\"A Colossal Upgrade\" - Digital Foundry Delivers Its Tech Verdict For The Witcher 3 Remastered On Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-won-t-be-letting-up-on-the-satire-if-you-are-going-to",
+      "titre": "GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.3,
+      "chaleur": 7,
+      "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-402",
-          "titre": "What are we all playing this weekend?"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/talking-point-what-are-you-playing-this-weekend-issue-652",
-          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 652"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/",
+          "titre": "GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'"
         }
       ]
     },
@@ -322,44 +358,110 @@ const VEILLE = {
       ]
     },
     {
-      "id": "crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wish",
-      "titre": "Crimson Desert DLC delayed by 2 weeks, please join me in wishing the devs a fond 'take your time, please drink some water'",
-      "url": "https://www.pcgamer.com/games/rpg/crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-devs-a-fond-take-your-time-please-drink-some-water/",
+      "id": "platinum-suggests-more-bayonetta-is-coming-despite-exodus-of",
+      "titre": "Platinum suggests more Bayonetta is coming, despite exodus of lead developers",
+      "url": "https://www.videogameschronicle.com/news/platinum-suggests-more-bayonetta-is-coming-despite-exodus-of-lead-developers/",
       "sources": [
-        "PC Gamer"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 0.2,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-devs-a-fond-take-your-time-please-drink-some-water/",
-          "titre": "Crimson Desert DLC delayed by 2 weeks, please join me in wishing the devs a fond 'take your time, please drink some water'"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/platinum-suggests-more-bayonetta-is-coming-despite-exodus-of-lead-developers/",
+          "titre": "Platinum suggests more Bayonetta is coming, despite exodus of lead developers"
         }
       ]
     },
     {
-      "id": "capcom-plans-to-evolve-re-engine-into-an-ai-generation-game",
-      "titre": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\"",
-      "url": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
+      "id": "hamaguchi-it-wasn-t-easy-to-keep-the-ff7-remake-trilogy-plot",
+      "titre": "Hamaguchi: It ‘wasn’t easy’ to keep the FF7 Remake trilogy plot intact and not turn it into his ‘own personal fan project’",
+      "url": "https://www.videogameschronicle.com/news/hamaguchi-it-wasnt-easy-to-keep-the-ff7-remake-trilogy-plot-intact-and-not-turn-it-into-his-own-personal-fan-project/",
       "sources": [
-        "Eurogamer",
         "VGC"
       ],
-      "reprises": 2,
-      "heures": 15.2,
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/hamaguchi-it-wasnt-easy-to-keep-the-ff7-remake-trilogy-plot-intact-and-not-turn-it-into-his-own-personal-fan-project/",
+          "titre": "Hamaguchi: It ‘wasn’t easy’ to keep the FF7 Remake trilogy plot intact and not turn it into his ‘own personal fan project’"
+        }
+      ]
+    },
+    {
+      "id": "an-openai-model-was-caught-trying-to-cheat-at-starcraft-and",
+      "titre": "An OpenAI model was caught trying to cheat at StarCraft, and of course it did it by stealing a human's work",
+      "url": "https://www.pcgamer.com/software/ai/an-openai-model-was-caught-trying-to-cheat-at-starcraft-and-of-course-it-did-it-by-stealing-a-humans-work/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/an-openai-model-was-caught-trying-to-cheat-at-starcraft-and-of-course-it-did-it-by-stealing-a-humans-work/",
+          "titre": "An OpenAI model was caught trying to cheat at StarCraft, and of course it did it by stealing a human's work"
+        }
+      ]
+    },
+    {
+      "id": "nivalis-nights-dares-to-ask-what-if-cyberpunk-2077-met-dave",
+      "titre": "Nivalis Nights dares to ask what if Cyberpunk 2077 met Dave the Diver and Stardew Valley? And for now at least I'm loving the answer",
+      "url": "https://www.eurogamer.net/nivalis-nights-now-playing",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
-          "titre": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\""
-        },
+          "url": "https://www.eurogamer.net/nivalis-nights-now-playing",
+          "titre": "Nivalis Nights dares to ask what if Cyberpunk 2077 met Dave the Diver and Stardew Valley? And for now at least I'm loving the answer"
+        }
+      ]
+    },
+    {
+      "id": "the-sunday-papers",
+      "titre": "The Sunday Papers",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-830",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 2.6,
+      "chaleur": 6,
+      "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/capcom-details-plans-to-evolve-re-engine-into-an-ai-generation-game-engine/",
-          "titre": "Capcom details plans to evolve RE Engine into an ‘AI game engine’"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-sunday-papers-830",
+          "titre": "The Sunday Papers"
+        }
+      ]
+    },
+    {
+      "id": "feature-box-art-brawl-zone-of-the-enders-the-fist-of-mars-gb",
+      "titre": "Feature: Box Art Brawl - Zone Of The Enders: The Fist Of Mars (GBA)",
+      "url": "https://www.nintendolife.com/features/box-art-brawl-zone-of-the-enders-the-fist-of-mars-gba",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/box-art-brawl-zone-of-the-enders-the-fist-of-mars-gba",
+          "titre": "Feature: Box Art Brawl - Zone Of The Enders: The Fist Of Mars (GBA)"
         }
       ]
     },
@@ -371,13 +473,73 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 25.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it/",
           "titre": "Dan Houser still hasn’t seen GTA 6: ‘I will try and avoid it’"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-rating-pulled-after-revealing-sex-scenes-and-drug-use",
+      "titre": "GTA 6 rating pulled after revealing sex scenes and drug use",
+      "url": "https://www.videogameschronicle.com/news/gta-6-rating-pulled-after-revealing-sex-scenes-and-drug-use/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 25.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/gta-6-rating-pulled-after-revealing-sex-scenes-and-drug-use/",
+          "titre": "GTA 6 rating pulled after revealing sex scenes and drug use"
+        }
+      ]
+    },
+    {
+      "id": "talking-point-what-are-you-playing-this-weekend-3rd-october",
+      "titre": "Talking Point: What Are You Playing This Weekend? (3rd October)",
+      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-3rd-october",
+      "sources": [
+        "Nintendo Life",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 26.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-3rd-october",
+          "titre": "Talking Point: What Are You Playing This Weekend? (3rd October)"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-402",
+          "titre": "What are we all playing this weekend?"
+        }
+      ]
+    },
+    {
+      "id": "crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wish",
+      "titre": "Crimson Desert DLC delayed by 2 weeks, please join me in wishing the devs a fond 'take your time, please drink some water'",
+      "url": "https://www.pcgamer.com/games/rpg/crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-devs-a-fond-take-your-time-please-drink-some-water/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 12.3,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-devs-a-fond-take-your-time-please-drink-some-water/",
+          "titre": "Crimson Desert DLC delayed by 2 weeks, please join me in wishing the devs a fond 'take your time, please drink some water'"
         }
       ]
     },
@@ -389,7 +551,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 19.6,
       "chaleur": 5,
       "liens": [
         {
@@ -407,7 +569,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 20.6,
       "chaleur": 5,
       "liens": [
         {
@@ -425,7 +587,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 25.6,
       "chaleur": 5,
       "liens": [
         {
@@ -443,7 +605,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.2,
+      "heures": 30.8,
       "chaleur": 5,
       "liens": [
         {
@@ -461,13 +623,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.0,
+      "heures": 33.7,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-renewed-multiple-game-trademarks",
           "titre": "Nintendo Has Renewed Multiple Game Trademarks"
+        }
+      ]
+    },
+    {
+      "id": "runescape-dragonwilds-reveals-multi-year-roadmap",
+      "titre": "RuneScape: Dragonwilds Reveals Multi-Year Roadmap",
+      "url": "https://www.nintendolife.com/news/2026/10/runescape-dragonwilds-reveals-multi-year-roadmap",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/runescape-dragonwilds-reveals-multi-year-roadmap",
+          "titre": "RuneScape: Dragonwilds Reveals Multi-Year Roadmap"
         }
       ]
     },
@@ -479,7 +659,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -497,8 +677,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -515,8 +695,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
-      "chaleur": 4,
+      "heures": 13.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -533,8 +713,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 4,
+      "heures": 15.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -551,8 +731,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.7,
-      "chaleur": 4,
+      "heures": 15.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -569,31 +749,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 16.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/yet-more-ps5-security-concerns-as-another-high-profile-account-is-hacked",
           "titre": "Yet More PS5 Security Concerns as Another High-Profile Account Is Hacked"
-        }
-      ]
-    },
-    {
-      "id": "final-fantasy-7-revelation-director-says-he-did-his-best-to",
-      "titre": "Final Fantasy 7 Revelation director says he \"did his best\" to fight for a full disc release",
-      "url": "https://www.eurogamer.net/final-fantasy-7-revelation-naoki-hamaguchi-disc-release-physical-media",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 12.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/final-fantasy-7-revelation-naoki-hamaguchi-disc-release-physical-media",
-          "titre": "Final Fantasy 7 Revelation director says he \"did his best\" to fight for a full disc release"
         }
       ]
     },
@@ -605,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 18.9,
       "chaleur": 3,
       "liens": [
         {
@@ -623,7 +785,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 18.9,
       "chaleur": 3,
       "liens": [
         {
@@ -641,7 +803,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 19.2,
       "chaleur": 3,
       "liens": [
         {
@@ -659,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -677,7 +839,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 19.6,
       "chaleur": 3,
       "liens": [
         {
@@ -695,7 +857,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 20.6,
       "chaleur": 3,
       "liens": [
         {
@@ -713,7 +875,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 21.8,
       "chaleur": 3,
       "liens": [
         {
@@ -731,7 +893,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 22.6,
       "chaleur": 3,
       "liens": [
         {
@@ -749,7 +911,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 23.2,
       "chaleur": 3,
       "liens": [
         {
@@ -767,31 +929,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 23.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/metro-redux-next-gen-update-50-million-sales-metro-2039",
           "titre": "Metro Redux's Next-Gen Update arrives this month as franchise passes 50 million sales"
-        }
-      ]
-    },
-    {
-      "id": "bored-with-roguelikes-you-might-still-want-to-play-dicevader",
-      "titre": "Bored with roguelikes? You might still want to play Dicevaders, a game about perfecting dice rolls",
-      "url": "https://www.pcgamer.com/games/roguelike/bored-with-roguelikes-you-might-still-want-to-play-dicevaders-a-game-about-perfecting-dice-rolls/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 18.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/roguelike/bored-with-roguelikes-you-might-still-want-to-play-dicevaders-a-game-about-perfecting-dice-rolls/",
-          "titre": "Bored with roguelikes? You might still want to play Dicevaders, a game about perfecting dice rolls"
         }
       ]
     },
@@ -803,7 +947,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.0,
+      "heures": 24.6,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +965,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.0,
+      "heures": 24.6,
       "chaleur": 3,
       "liens": [
         {
@@ -839,7 +983,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 25.0,
       "chaleur": 3,
       "liens": [
         {
@@ -857,7 +1001,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.0,
+      "heures": 26.6,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +1019,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.0,
+      "heures": 28.6,
       "chaleur": 3,
       "liens": [
         {
@@ -893,85 +1037,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.5,
+      "heures": 35.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-final-content-drop-of-year-one-arrives-this-month",
           "titre": "Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Arrives This Month"
-        }
-      ]
-    },
-    {
-      "id": "reigns-developer-nerial-enters-hibernation-mode-lays-off-sta",
-      "titre": "Reigns developer Nerial enters 'hibernation mode,' lays off staff",
-      "url": "https://www.gamedeveloper.com/business/nerial-to-enter-hibernation-mode-and-lay-off-developers",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 32.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/nerial-to-enter-hibernation-mode-and-lay-off-developers",
-          "titre": "Reigns developer Nerial enters 'hibernation mode,' lays off staff"
-        }
-      ]
-    },
-    {
-      "id": "sega-is-releasing-a-porcelain-sonic-35th-anniversary-statue",
-      "titre": "Sega is releasing a porcelain Sonic 35th anniversary statue, limited to 50 pieces and costing $6,300 each",
-      "url": "https://www.videogameschronicle.com/news/sega-is-releasing-a-porcelain-sonic-35th-anniversary-statue-limited-to-50-pieces-and-costing-6300-each/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 32.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sega-is-releasing-a-porcelain-sonic-35th-anniversary-statue-limited-to-50-pieces-and-costing-6300-each/",
-          "titre": "Sega is releasing a porcelain Sonic 35th anniversary statue, limited to 50 pieces and costing $6,300 each"
-        }
-      ]
-    },
-    {
-      "id": "brokenlore-introduces-its-spookiest-antagonist-yet-an-anime",
-      "titre": "BrokenLore Introduces Its Spookiest Antagonist Yet - An Anime AI Assistant",
-      "url": "https://www.pushsquare.com/news/2026/10/brokenlore-introduces-its-spookiest-antagonist-yet-an-anime-ai-assistant",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/brokenlore-introduces-its-spookiest-antagonist-yet-an-anime-ai-assistant",
-          "titre": "BrokenLore Introduces Its Spookiest Antagonist Yet - An Anime AI Assistant"
-        }
-      ]
-    },
-    {
-      "id": "sony-prepping-improved-ps-app-with-expanded-social-features",
-      "titre": "Sony Prepping Improved PS App with Expanded Social Features",
-      "url": "https://www.pushsquare.com/news/2026/10/sony-prepping-improved-ps-app-with-expanded-social-features",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sony-prepping-improved-ps-app-with-expanded-social-features",
-          "titre": "Sony Prepping Improved PS App with Expanded Social Features"
         }
       ]
     }
