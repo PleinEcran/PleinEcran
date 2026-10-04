@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "04/10/2026 à 18h17",
+  "collecte": "04/10/2026 à 21h28",
   "seuil": 14,
   "sujets": [
     {
@@ -12,7 +12,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 6.5,
+      "heures": 9.6,
       "chaleur": 10,
       "liens": [
         {
@@ -37,7 +37,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 7.0,
+      "heures": 10.2,
       "chaleur": 10,
       "liens": [
         {
@@ -58,24 +58,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "review-minecraft-dungeons-ii-switch-2-a-fun-but-flawed-dunge",
-      "titre": "Review: Minecraft Dungeons II (Switch 2) - A Fun But Flawed Dungeon-Crawling Sequel With Great Co-Op",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/minecraft-dungeons-ii",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/minecraft-dungeons-ii",
-          "titre": "Review: Minecraft Dungeons II (Switch 2) - A Fun But Flawed Dungeon-Crawling Sequel With Great Co-Op"
-        }
-      ]
-    },
-    {
       "id": "video-15-exciting-new-games-coming-to-switch-1-2-in-october",
       "titre": "Video: 15 Exciting New Games Coming To Switch 1 & 2 In October 2026",
       "url": "https://www.nintendolife.com/news/2026/10/video-15-exciting-new-games-coming-to-switch-1-and-2-in-october-2026",
@@ -84,7 +66,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 17.2,
+      "heures": 20.4,
       "chaleur": 8,
       "liens": [
         {
@@ -108,7 +90,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 4.7,
+      "heures": 7.8,
       "chaleur": 7,
       "liens": [
         {
@@ -132,7 +114,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.1,
+      "heures": 10.3,
       "chaleur": 7,
       "liens": [
         {
@@ -156,7 +138,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 8.0,
+      "heures": 11.2,
       "chaleur": 7,
       "liens": [
         {
@@ -388,146 +370,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "dynasty-warriors-producer-would-rather-make-new-games-than-m",
-      "titre": "Dynasty Warriors producer would rather make new games than more remasters",
-      "url": "https://www.eurogamer.net/dynasty-warriors-tomohiko-sho-sequels-not-remasters",
+      "id": "feature-let-s-flick-through-sammy-s-photos-from-gamescom-and",
+      "titre": "Feature: Let's Flick Through Sammy's Photos from Gamescom and Tokyo Game Show",
+      "url": "https://www.pushsquare.com/features/lets-flick-through-sammys-photos-from-gamescom-and-tokyo-game-show",
       "sources": [
-        "Eurogamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dynasty-warriors-tomohiko-sho-sequels-not-remasters",
-          "titre": "Dynasty Warriors producer would rather make new games than more remasters"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/lets-flick-through-sammys-photos-from-gamescom-and-tokyo-game-show",
+          "titre": "Feature: Let's Flick Through Sammy's Photos from Gamescom and Tokyo Game Show"
         }
       ]
     },
     {
-      "id": "modders-are-furious-as-claude-powered-mashup-mods-flood-soci",
-      "titre": "Modders are furious as Claude-powered mashup mods flood social media",
-      "url": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 1.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash",
-          "titre": "Modders are furious as Claude-powered mashup mods flood social media"
-        }
-      ]
-    },
-    {
-      "id": "what-does-your-dream-videogame-concert-look-like",
-      "titre": "What does your dream videogame concert look like?",
-      "url": "https://www.pcgamer.com/games/what-does-your-dream-videogame-concert-look-like/",
+      "id": "kingdom-come-deliverance-studio-co-founder-says-a-lot-of-rpg",
+      "titre": "Kingdom Come: Deliverance studio co-founder says a lot of RPGs are 'still games for teenagers,' and that he's 'tired of all the RPGs where you are this chosen one'",
+      "url": "https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-studio-co-founder-says-a-lot-of-rpgs-are-still-games-for-teenagers-and-that-hes-tired-of-all-the-rpgs-where-you-are-this-chosen-one/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/what-does-your-dream-videogame-concert-look-like/",
-          "titre": "What does your dream videogame concert look like?"
+          "url": "https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-studio-co-founder-says-a-lot-of-rpgs-are-still-games-for-teenagers-and-that-hes-tired-of-all-the-rpgs-where-you-are-this-chosen-one/",
+          "titre": "Kingdom Come: Deliverance studio co-founder says a lot of RPGs are 'still games for teenagers,' and that he's 'tired of all the RPGs where you are this chosen one'"
         }
       ]
     },
     {
-      "id": "runescape-is-getting-a-new-character-type-that-promises-a-fr",
-      "titre": "RuneScape is getting a new character type that promises a fresh start, but existing players are wary of splitting the community up",
-      "url": "https://www.pcgamer.com/games/mmo/runescape-is-getting-a-new-character-type-that-promises-a-fresh-start-but-existing-players-are-wary-of-splitting-the-community-up/",
+      "id": "brigador-devs-the-90s-pc-classics-often-taught-really-specia",
+      "titre": "Brigador devs: 'The '90s PC classics often taught really special things, but not because the story said, Wow, violence is bad!'",
+      "url": "https://www.pcgamer.com/games/action/brigador-devs-the-90s-pc-classics-often-taught-really-special-things-but-not-because-the-story-said-wow-violence-is-bad/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.1,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/runescape-is-getting-a-new-character-type-that-promises-a-fresh-start-but-existing-players-are-wary-of-splitting-the-community-up/",
-          "titre": "RuneScape is getting a new character type that promises a fresh start, but existing players are wary of splitting the community up"
+          "url": "https://www.pcgamer.com/games/action/brigador-devs-the-90s-pc-classics-often-taught-really-special-things-but-not-because-the-story-said-wow-violence-is-bad/",
+          "titre": "Brigador devs: 'The '90s PC classics often taught really special things, but not because the story said, Wow, violence is bad!'"
         }
       ]
     },
     {
-      "id": "tonda-ros-creator-of-blue-prince-has-played-ufo-50-for-almos",
-      "titre": "Tonda Ros, creator of Blue Prince, has played UFO 50 for almost 700 hours: 'I think it's easily my favourite game of the last 20 years'",
-      "url": "https://www.pcgamer.com/gaming-industry/tonda-ros-creator-of-blue-prince-has-played-ufo-50-for-almost-700-hours-i-think-its-easily-my-favourite-game-of-the-last-20-years/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/tonda-ros-creator-of-blue-prince-has-played-ufo-50-for-almost-700-hours-i-think-its-easily-my-favourite-game-of-the-last-20-years/",
-          "titre": "Tonda Ros, creator of Blue Prince, has played UFO 50 for almost 700 hours: 'I think it's easily my favourite game of the last 20 years'"
-        }
-      ]
-    },
-    {
-      "id": "silent-hill-townfall-is-the-first-horror-game-to-make-me-fee",
-      "titre": "Silent Hill: Townfall is the first horror game to make me feel bad for using a shotgun",
-      "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-is-the-first-horror-game-to-make-me-feel-bad-for-using-a-shotgun/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-is-the-first-horror-game-to-make-me-feel-bad-for-using-a-shotgun/",
-          "titre": "Silent Hill: Townfall is the first horror game to make me feel bad for using a shotgun"
-        }
-      ]
-    },
-    {
-      "id": "sonic-is-getting-an-extremely-expensive-and-rare-porcelain-s",
-      "titre": "Sonic Is Getting An Extremely Expensive And Rare Porcelain Statue",
-      "url": "https://www.nintendolife.com/news/2026/10/sonic-is-getting-an-extremely-expensive-and-rare-porcelain-statue",
+      "id": "review-minecraft-dungeons-ii-switch-2-a-fun-but-flawed-dunge",
+      "titre": "Review: Minecraft Dungeons II (Switch 2) - A Fun But Flawed Dungeon-Crawling Sequel With Great Co-Op",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/minecraft-dungeons-ii",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.9,
+      "heures": 4.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/sonic-is-getting-an-extremely-expensive-and-rare-porcelain-statue",
-          "titre": "Sonic Is Getting An Extremely Expensive And Rare Porcelain Statue"
-        }
-      ]
-    },
-    {
-      "id": "yet-another-free-fan-level-pack-for-quake-has-arrived-and-th",
-      "titre": "Yet another free fan level pack for Quake has arrived, and this one's all about a feature rarely seen in id Software's classic shooter",
-      "url": "https://www.pcgamer.com/games/fps/yet-another-free-fan-level-pack-for-quake-has-arrived-and-this-ones-all-about-a-feature-rarely-seen-in-id-softwares-classic-shooter/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/yet-another-free-fan-level-pack-for-quake-has-arrived-and-this-ones-all-about-a-feature-rarely-seen-in-id-softwares-classic-shooter/",
-          "titre": "Yet another free fan level pack for Quake has arrived, and this one's all about a feature rarely seen in id Software's classic shooter"
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/minecraft-dungeons-ii",
+          "titre": "Review: Minecraft Dungeons II (Switch 2) - A Fun But Flawed Dungeon-Crawling Sequel With Great Co-Op"
         }
       ]
     },
@@ -539,7 +449,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 11.0,
       "chaleur": 6,
       "liens": [
         {
@@ -557,7 +467,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 18.2,
       "chaleur": 6,
       "liens": [
         {
@@ -575,37 +485,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 32.2,
+      "heures": 35.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it/",
           "titre": "Dan Houser still hasn’t seen GTA 6: ‘I will try and avoid it’"
-        }
-      ]
-    },
-    {
-      "id": "talking-point-what-are-you-playing-this-weekend-3rd-october",
-      "titre": "Talking Point: What Are You Playing This Weekend? (3rd October)",
-      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-3rd-october",
-      "sources": [
-        "Nintendo Life",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 33.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-3rd-october",
-          "titre": "Talking Point: What Are You Playing This Weekend? (3rd October)"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-402",
-          "titre": "What are we all playing this weekend?"
         }
       ]
     },
@@ -617,7 +503,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.0,
+      "heures": 22.1,
       "chaleur": 5,
       "liens": [
         {
@@ -635,7 +521,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 30.5,
       "chaleur": 5,
       "liens": [
         {
@@ -653,13 +539,157 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 32.3,
+      "heures": 35.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/random-tough-week-grab-yourself-a-brew-and-get-these-immaculate-zelda-tunes-on-your-playlist-pronto",
           "titre": "Random: Tough Week? Grab Yourself A Brew & Get These Immaculate Zelda Tunes On Your Playlist, Pronto"
+        }
+      ]
+    },
+    {
+      "id": "dynasty-warriors-producer-would-rather-make-new-games-than-m",
+      "titre": "Dynasty Warriors producer would rather make new games than more remasters",
+      "url": "https://www.eurogamer.net/dynasty-warriors-tomohiko-sho-sequels-not-remasters",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dynasty-warriors-tomohiko-sho-sequels-not-remasters",
+          "titre": "Dynasty Warriors producer would rather make new games than more remasters"
+        }
+      ]
+    },
+    {
+      "id": "modders-are-furious-as-claude-powered-mashup-mods-flood-soci",
+      "titre": "Modders are furious as Claude-powered mashup mods flood social media",
+      "url": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash",
+          "titre": "Modders are furious as Claude-powered mashup mods flood social media"
+        }
+      ]
+    },
+    {
+      "id": "what-does-your-dream-videogame-concert-look-like",
+      "titre": "What does your dream videogame concert look like?",
+      "url": "https://www.pcgamer.com/games/what-does-your-dream-videogame-concert-look-like/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/what-does-your-dream-videogame-concert-look-like/",
+          "titre": "What does your dream videogame concert look like?"
+        }
+      ]
+    },
+    {
+      "id": "runescape-is-getting-a-new-character-type-that-promises-a-fr",
+      "titre": "RuneScape is getting a new character type that promises a fresh start, but existing players are wary of splitting the community up",
+      "url": "https://www.pcgamer.com/games/mmo/runescape-is-getting-a-new-character-type-that-promises-a-fresh-start-but-existing-players-are-wary-of-splitting-the-community-up/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mmo/runescape-is-getting-a-new-character-type-that-promises-a-fresh-start-but-existing-players-are-wary-of-splitting-the-community-up/",
+          "titre": "RuneScape is getting a new character type that promises a fresh start, but existing players are wary of splitting the community up"
+        }
+      ]
+    },
+    {
+      "id": "tonda-ros-creator-of-blue-prince-has-played-ufo-50-for-almos",
+      "titre": "Tonda Ros, creator of Blue Prince, has played UFO 50 for almost 700 hours: 'I think it's easily my favourite game of the last 20 years'",
+      "url": "https://www.pcgamer.com/gaming-industry/tonda-ros-creator-of-blue-prince-has-played-ufo-50-for-almost-700-hours-i-think-its-easily-my-favourite-game-of-the-last-20-years/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/tonda-ros-creator-of-blue-prince-has-played-ufo-50-for-almost-700-hours-i-think-its-easily-my-favourite-game-of-the-last-20-years/",
+          "titre": "Tonda Ros, creator of Blue Prince, has played UFO 50 for almost 700 hours: 'I think it's easily my favourite game of the last 20 years'"
+        }
+      ]
+    },
+    {
+      "id": "silent-hill-townfall-is-the-first-horror-game-to-make-me-fee",
+      "titre": "Silent Hill: Townfall is the first horror game to make me feel bad for using a shotgun",
+      "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-is-the-first-horror-game-to-make-me-feel-bad-for-using-a-shotgun/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-is-the-first-horror-game-to-make-me-feel-bad-for-using-a-shotgun/",
+          "titre": "Silent Hill: Townfall is the first horror game to make me feel bad for using a shotgun"
+        }
+      ]
+    },
+    {
+      "id": "sonic-is-getting-an-extremely-expensive-and-rare-porcelain-s",
+      "titre": "Sonic Is Getting An Extremely Expensive And Rare Porcelain Statue",
+      "url": "https://www.nintendolife.com/news/2026/10/sonic-is-getting-an-extremely-expensive-and-rare-porcelain-statue",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 7.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/sonic-is-getting-an-extremely-expensive-and-rare-porcelain-statue",
+          "titre": "Sonic Is Getting An Extremely Expensive And Rare Porcelain Statue"
+        }
+      ]
+    },
+    {
+      "id": "yet-another-free-fan-level-pack-for-quake-has-arrived-and-th",
+      "titre": "Yet another free fan level pack for Quake has arrived, and this one's all about a feature rarely seen in id Software's classic shooter",
+      "url": "https://www.pcgamer.com/games/fps/yet-another-free-fan-level-pack-for-quake-has-arrived-and-this-ones-all-about-a-feature-rarely-seen-in-id-softwares-classic-shooter/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/yet-another-free-fan-level-pack-for-quake-has-arrived-and-this-ones-all-about-a-feature-rarely-seen-in-id-softwares-classic-shooter/",
+          "titre": "Yet another free fan level pack for Quake has arrived, and this one's all about a feature rarely seen in id Software's classic shooter"
         }
       ]
     },
@@ -671,7 +701,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -689,7 +719,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -707,7 +737,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -725,7 +755,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -743,7 +773,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -761,8 +791,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -779,8 +809,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -797,8 +827,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -815,7 +845,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -833,7 +863,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 20.2,
       "chaleur": 3,
       "liens": [
         {
@@ -851,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 22.8,
       "chaleur": 3,
       "liens": [
         {
@@ -869,7 +899,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.5,
+      "heures": 23.7,
       "chaleur": 3,
       "liens": [
         {
@@ -887,7 +917,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.8,
+      "heures": 25.0,
       "chaleur": 3,
       "liens": [
         {
@@ -905,7 +935,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 22.0,
+      "heures": 25.2,
       "chaleur": 3,
       "liens": [
         {
@@ -923,7 +953,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 26.0,
       "chaleur": 3,
       "liens": [
         {
@@ -941,31 +971,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 25.6,
+      "heures": 28.8,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3s-remaster-just-brought-it-to-a-new-all-time-concurrent-player-count-peak/",
           "titre": "The Witcher 3's remaster just brought it to a new all-time concurrent player count peak"
-        }
-      ]
-    },
-    {
-      "id": "forget-what-pc-gamer-said-the-witcher-3-will-always-be-my-20",
-      "titre": "Forget what PC Gamer said: The Witcher 3 will always be my 2015 GOTY",
-      "url": "https://www.pcgamer.com/games/the-witcher/forget-what-pc-gamer-said-the-witcher-3-will-always-be-my-2015-goty/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 25.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/forget-what-pc-gamer-said-the-witcher-3-will-always-be-my-2015-goty/",
-          "titre": "Forget what PC Gamer said: The Witcher 3 will always be my 2015 GOTY"
         }
       ]
     },
@@ -977,31 +989,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.9,
+      "heures": 29.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/sony-battlefield-movie-christopher-mcquarrie-michael-b-jordan",
           "titre": "Sony in talks to land Battlefield movie from Christopher McQuarrie and Michael B. Jordan"
-        }
-      ]
-    },
-    {
-      "id": "deadlock-is-the-king-of-moba-character-designs-and-it-s-all",
-      "titre": "Deadlock is the king of MOBA character designs, and it's all thanks to Valve's embrace of New Yorkyness",
-      "url": "https://www.pcgamer.com/games/moba/deadlock-is-the-king-of-moba-character-designs-and-its-all-thanks-to-valves-embrace-of-new-yorkyness/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 26.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/moba/deadlock-is-the-king-of-moba-character-designs-and-its-all-thanks-to-valves-embrace-of-new-yorkyness/",
-          "titre": "Deadlock is the king of MOBA character designs, and it's all thanks to Valve's embrace of New Yorkyness"
         }
       ]
     },
@@ -1013,7 +1007,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.2,
+      "heures": 33.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +1025,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 34.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,7 +1043,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 34.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,49 +1061,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.7,
+      "heures": 34.9,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand",
           "titre": "Memory shortages set to persist into 2028, warns Micron CEO"
-        }
-      ]
-    },
-    {
-      "id": "we-felt-that-fans-were-getting-a-bit-desensitised-to-the-vi",
-      "titre": "\"We felt that fans were getting a bit desensitised to the violence\" Gears of War: E-Day devs made a \"big investment\" in gore, and weirdly, it works",
-      "url": "https://www.eurogamer.net/we-felt-that-fans-were-getting-a-bit-desensitised-to-the-violence-gears-of-war-e-day-devs-made-a-big-investment-in-gore-and-weirdly-it-works",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 33.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/we-felt-that-fans-were-getting-a-bit-desensitised-to-the-violence-gears-of-war-e-day-devs-made-a-big-investment-in-gore-and-weirdly-it-works",
-          "titre": "\"We felt that fans were getting a bit desensitised to the violence\" Gears of War: E-Day devs made a \"big investment\" in gore, and weirdly, it works"
-        }
-      ]
-    },
-    {
-      "id": "what-we-ve-been-playing-that-s-one-of-gaming-s-great-cities",
-      "titre": "What we've been playing - \"That's one of gaming's great cities, that is\"",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-thats-one-of-gamings-great-cities-that-is",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/what-weve-been-playing-thats-one-of-gamings-great-cities-that-is",
-          "titre": "What we've been playing - \"That's one of gaming's great cities, that is\""
         }
       ]
     }
