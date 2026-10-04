@@ -1,25 +1,49 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "04/10/2026 à 11h35",
+  "collecte": "04/10/2026 à 18h17",
   "seuil": 14,
   "sujets": [
     {
-      "id": "capcom-is-looking-to-evolve-its-re-engine-into-an-ai-generat",
-      "titre": "Capcom Is Looking To Evolve Its RE Engine Into An 'AI-Generation Game Engine'",
-      "url": "https://www.nintendolife.com/news/2026/10/capcom-is-looking-to-evolve-its-re-engine-into-an-ai-generation-game-engine",
+      "id": "grand-theft-auto-6-features-detailed-decapitation-and-freque",
+      "titre": "Grand Theft Auto 6 features 'detailed decapitation' and 'frequent and prominent' drug use, according to hastily deleted PEGI rating",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-features-detailed-decapitation-and-frequent-and-prominent-drug-use-according-to-hastily-deleted-pegi-rating/",
+      "sources": [
+        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 6.5,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-features-detailed-decapitation-and-frequent-and-prominent-drug-use-according-to-hastily-deleted-pegi-rating/",
+          "titre": "Grand Theft Auto 6 features 'detailed decapitation' and 'frequent and prominent' drug use, according to hastily deleted PEGI rating"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/gta-6-rating-pulled-after-revealing-sex-scenes-and-drug-use/",
+          "titre": "GTA 6 rating pulled after revealing sex scenes and drug use"
+        }
+      ]
+    },
+    {
+      "id": "capcom-is-looking-to-evolve-its-re-engine-into-an-ai-era-gam",
+      "titre": "Capcom Is Looking To Evolve Its RE Engine Into An 'AI-Era Game Engine'",
+      "url": "https://www.nintendolife.com/news/2026/10/capcom-is-looking-to-evolve-its-re-engine-into-an-ai-era-game-engine",
       "sources": [
         "Eurogamer",
         "Nintendo Life",
         "VGC"
       ],
       "reprises": 3,
-      "heures": 0.3,
-      "chaleur": 12,
+      "heures": 7.0,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/capcom-is-looking-to-evolve-its-re-engine-into-an-ai-generation-game-engine",
-          "titre": "Capcom Is Looking To Evolve Its RE Engine Into An 'AI-Generation Game Engine'"
+          "url": "https://www.nintendolife.com/news/2026/10/capcom-is-looking-to-evolve-its-re-engine-into-an-ai-era-game-engine",
+          "titre": "Capcom Is Looking To Evolve Its RE Engine Into An 'AI-Era Game Engine'"
         },
         {
           "source": "Eurogamer",
@@ -34,6 +58,72 @@ const VEILLE = {
       ]
     },
     {
+      "id": "review-minecraft-dungeons-ii-switch-2-a-fun-but-flawed-dunge",
+      "titre": "Review: Minecraft Dungeons II (Switch 2) - A Fun But Flawed Dungeon-Crawling Sequel With Great Co-Op",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/minecraft-dungeons-ii",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/minecraft-dungeons-ii",
+          "titre": "Review: Minecraft Dungeons II (Switch 2) - A Fun But Flawed Dungeon-Crawling Sequel With Great Co-Op"
+        }
+      ]
+    },
+    {
+      "id": "video-15-exciting-new-games-coming-to-switch-1-2-in-october",
+      "titre": "Video: 15 Exciting New Games Coming To Switch 1 & 2 In October 2026",
+      "url": "https://www.nintendolife.com/news/2026/10/video-15-exciting-new-games-coming-to-switch-1-and-2-in-october-2026",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 17.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/video-15-exciting-new-games-coming-to-switch-1-and-2-in-october-2026",
+          "titre": "Video: 15 Exciting New Games Coming To Switch 1 & 2 In October 2026"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-october-2026",
+          "titre": "Poll: Are You Happy with Your PS Plus Essential Games for October 2026?"
+        }
+      ]
+    },
+    {
+      "id": "platinumgames-boss-hints-he-wants-to-expand-bayonetta-as-ste",
+      "titre": "PlatinumGames boss hints he wants to expand Bayonetta as Stellar Blade director calls the series \"indispensable\"",
+      "url": "https://www.eurogamer.net/platinumgames-bayonetta-expand-atsushi-inaba-stellar-blade",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 4.7,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/platinumgames-bayonetta-expand-atsushi-inaba-stellar-blade",
+          "titre": "PlatinumGames boss hints he wants to expand Bayonetta as Stellar Blade director calls the series \"indispensable\""
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/platinumgames-comments-on-the-future-of-bayonetta",
+          "titre": "PlatinumGames Comments On The Future Of Bayonetta"
+        }
+      ]
+    },
+    {
       "id": "fourth-runescape-officially-revealed",
       "titre": "Fourth RuneScape officially revealed",
       "url": "https://www.eurogamer.net/jagex-runescape-4-mmo-unreal-engine-animated-series-moistcr1tikal",
@@ -42,8 +132,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.4,
-      "chaleur": 9,
+      "heures": 7.1,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
@@ -66,8 +156,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.3,
-      "chaleur": 9,
+      "heures": 8.0,
+      "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
@@ -78,66 +168,6 @@ const VEILLE = {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/final-fantasy-7-revelation-naoki-hamaguchi-disc-release-physical-media",
           "titre": "Final Fantasy 7 Revelation director says he \"did his best\" to fight for a full disc release"
-        }
-      ]
-    },
-    {
-      "id": "video-15-exciting-new-games-coming-to-switch-1-2-in-october",
-      "titre": "Video: 15 Exciting New Games Coming To Switch 1 & 2 In October 2026",
-      "url": "https://www.nintendolife.com/news/2026/10/video-15-exciting-new-games-coming-to-switch-1-and-2-in-october-2026",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 10.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/video-15-exciting-new-games-coming-to-switch-1-and-2-in-october-2026",
-          "titre": "Video: 15 Exciting New Games Coming To Switch 1 & 2 In October 2026"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-october-2026",
-          "titre": "Poll: Are You Happy with Your PS Plus Essential Games for October 2026?"
-        }
-      ]
-    },
-    {
-      "id": "a-colossal-upgrade-digital-foundry-delivers-its-tech-verdic",
-      "titre": "\"A Colossal Upgrade\" - Digital Foundry Delivers Its Tech Verdict For The Witcher 3 Remastered On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/a-colossal-upgrade-digital-foundry-delivers-its-tech-verdict-for-the-witcher-3-remastered-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/a-colossal-upgrade-digital-foundry-delivers-its-tech-verdict-for-the-witcher-3-remastered-on-switch-2",
-          "titre": "\"A Colossal Upgrade\" - Digital Foundry Delivers Its Tech Verdict For The Witcher 3 Remastered On Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-won-t-be-letting-up-on-the-satire-if-you-are-going-to",
-      "titre": "GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/",
-          "titre": "GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'"
         }
       ]
     },
@@ -358,110 +388,182 @@ const VEILLE = {
       ]
     },
     {
-      "id": "platinum-suggests-more-bayonetta-is-coming-despite-exodus-of",
-      "titre": "Platinum suggests more Bayonetta is coming, despite exodus of lead developers",
-      "url": "https://www.videogameschronicle.com/news/platinum-suggests-more-bayonetta-is-coming-despite-exodus-of-lead-developers/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 0.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/platinum-suggests-more-bayonetta-is-coming-despite-exodus-of-lead-developers/",
-          "titre": "Platinum suggests more Bayonetta is coming, despite exodus of lead developers"
-        }
-      ]
-    },
-    {
-      "id": "hamaguchi-it-wasn-t-easy-to-keep-the-ff7-remake-trilogy-plot",
-      "titre": "Hamaguchi: It ‘wasn’t easy’ to keep the FF7 Remake trilogy plot intact and not turn it into his ‘own personal fan project’",
-      "url": "https://www.videogameschronicle.com/news/hamaguchi-it-wasnt-easy-to-keep-the-ff7-remake-trilogy-plot-intact-and-not-turn-it-into-his-own-personal-fan-project/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 0.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/hamaguchi-it-wasnt-easy-to-keep-the-ff7-remake-trilogy-plot-intact-and-not-turn-it-into-his-own-personal-fan-project/",
-          "titre": "Hamaguchi: It ‘wasn’t easy’ to keep the FF7 Remake trilogy plot intact and not turn it into his ‘own personal fan project’"
-        }
-      ]
-    },
-    {
-      "id": "an-openai-model-was-caught-trying-to-cheat-at-starcraft-and",
-      "titre": "An OpenAI model was caught trying to cheat at StarCraft, and of course it did it by stealing a human's work",
-      "url": "https://www.pcgamer.com/software/ai/an-openai-model-was-caught-trying-to-cheat-at-starcraft-and-of-course-it-did-it-by-stealing-a-humans-work/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/an-openai-model-was-caught-trying-to-cheat-at-starcraft-and-of-course-it-did-it-by-stealing-a-humans-work/",
-          "titre": "An OpenAI model was caught trying to cheat at StarCraft, and of course it did it by stealing a human's work"
-        }
-      ]
-    },
-    {
-      "id": "nivalis-nights-dares-to-ask-what-if-cyberpunk-2077-met-dave",
-      "titre": "Nivalis Nights dares to ask what if Cyberpunk 2077 met Dave the Diver and Stardew Valley? And for now at least I'm loving the answer",
-      "url": "https://www.eurogamer.net/nivalis-nights-now-playing",
+      "id": "dynasty-warriors-producer-would-rather-make-new-games-than-m",
+      "titre": "Dynasty Warriors producer would rather make new games than more remasters",
+      "url": "https://www.eurogamer.net/dynasty-warriors-tomohiko-sho-sequels-not-remasters",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.6,
+      "heures": 1.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nivalis-nights-now-playing",
-          "titre": "Nivalis Nights dares to ask what if Cyberpunk 2077 met Dave the Diver and Stardew Valley? And for now at least I'm loving the answer"
+          "url": "https://www.eurogamer.net/dynasty-warriors-tomohiko-sho-sequels-not-remasters",
+          "titre": "Dynasty Warriors producer would rather make new games than more remasters"
         }
       ]
     },
     {
-      "id": "the-sunday-papers",
-      "titre": "The Sunday Papers",
-      "url": "https://www.rockpapershotgun.com/the-sunday-papers-830",
+      "id": "modders-are-furious-as-claude-powered-mashup-mods-flood-soci",
+      "titre": "Modders are furious as Claude-powered mashup mods flood social media",
+      "url": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash",
       "sources": [
-        "Rock Paper Shotgun"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.6,
+      "heures": 1.7,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-sunday-papers-830",
-          "titre": "The Sunday Papers"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash",
+          "titre": "Modders are furious as Claude-powered mashup mods flood social media"
         }
       ]
     },
     {
-      "id": "feature-box-art-brawl-zone-of-the-enders-the-fist-of-mars-gb",
-      "titre": "Feature: Box Art Brawl - Zone Of The Enders: The Fist Of Mars (GBA)",
-      "url": "https://www.nintendolife.com/features/box-art-brawl-zone-of-the-enders-the-fist-of-mars-gba",
+      "id": "what-does-your-dream-videogame-concert-look-like",
+      "titre": "What does your dream videogame concert look like?",
+      "url": "https://www.pcgamer.com/games/what-does-your-dream-videogame-concert-look-like/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/what-does-your-dream-videogame-concert-look-like/",
+          "titre": "What does your dream videogame concert look like?"
+        }
+      ]
+    },
+    {
+      "id": "runescape-is-getting-a-new-character-type-that-promises-a-fr",
+      "titre": "RuneScape is getting a new character type that promises a fresh start, but existing players are wary of splitting the community up",
+      "url": "https://www.pcgamer.com/games/mmo/runescape-is-getting-a-new-character-type-that-promises-a-fresh-start-but-existing-players-are-wary-of-splitting-the-community-up/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mmo/runescape-is-getting-a-new-character-type-that-promises-a-fresh-start-but-existing-players-are-wary-of-splitting-the-community-up/",
+          "titre": "RuneScape is getting a new character type that promises a fresh start, but existing players are wary of splitting the community up"
+        }
+      ]
+    },
+    {
+      "id": "tonda-ros-creator-of-blue-prince-has-played-ufo-50-for-almos",
+      "titre": "Tonda Ros, creator of Blue Prince, has played UFO 50 for almost 700 hours: 'I think it's easily my favourite game of the last 20 years'",
+      "url": "https://www.pcgamer.com/gaming-industry/tonda-ros-creator-of-blue-prince-has-played-ufo-50-for-almost-700-hours-i-think-its-easily-my-favourite-game-of-the-last-20-years/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/tonda-ros-creator-of-blue-prince-has-played-ufo-50-for-almost-700-hours-i-think-its-easily-my-favourite-game-of-the-last-20-years/",
+          "titre": "Tonda Ros, creator of Blue Prince, has played UFO 50 for almost 700 hours: 'I think it's easily my favourite game of the last 20 years'"
+        }
+      ]
+    },
+    {
+      "id": "silent-hill-townfall-is-the-first-horror-game-to-make-me-fee",
+      "titre": "Silent Hill: Townfall is the first horror game to make me feel bad for using a shotgun",
+      "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-is-the-first-horror-game-to-make-me-feel-bad-for-using-a-shotgun/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-is-the-first-horror-game-to-make-me-feel-bad-for-using-a-shotgun/",
+          "titre": "Silent Hill: Townfall is the first horror game to make me feel bad for using a shotgun"
+        }
+      ]
+    },
+    {
+      "id": "sonic-is-getting-an-extremely-expensive-and-rare-porcelain-s",
+      "titre": "Sonic Is Getting An Extremely Expensive And Rare Porcelain Statue",
+      "url": "https://www.nintendolife.com/news/2026/10/sonic-is-getting-an-extremely-expensive-and-rare-porcelain-statue",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.6,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/box-art-brawl-zone-of-the-enders-the-fist-of-mars-gba",
-          "titre": "Feature: Box Art Brawl - Zone Of The Enders: The Fist Of Mars (GBA)"
+          "url": "https://www.nintendolife.com/news/2026/10/sonic-is-getting-an-extremely-expensive-and-rare-porcelain-statue",
+          "titre": "Sonic Is Getting An Extremely Expensive And Rare Porcelain Statue"
+        }
+      ]
+    },
+    {
+      "id": "yet-another-free-fan-level-pack-for-quake-has-arrived-and-th",
+      "titre": "Yet another free fan level pack for Quake has arrived, and this one's all about a feature rarely seen in id Software's classic shooter",
+      "url": "https://www.pcgamer.com/games/fps/yet-another-free-fan-level-pack-for-quake-has-arrived-and-this-ones-all-about-a-feature-rarely-seen-in-id-softwares-classic-shooter/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/yet-another-free-fan-level-pack-for-quake-has-arrived-and-this-ones-all-about-a-feature-rarely-seen-in-id-softwares-classic-shooter/",
+          "titre": "Yet another free fan level pack for Quake has arrived, and this one's all about a feature rarely seen in id Software's classic shooter"
+        }
+      ]
+    },
+    {
+      "id": "a-colossal-upgrade-digital-foundry-delivers-its-tech-verdic",
+      "titre": "\"A Colossal Upgrade\" - Digital Foundry Delivers Its Tech Verdict For The Witcher 3 Remastered On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/a-colossal-upgrade-digital-foundry-delivers-its-tech-verdict-for-the-witcher-3-remastered-on-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 7.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/a-colossal-upgrade-digital-foundry-delivers-its-tech-verdict-for-the-witcher-3-remastered-on-switch-2",
+          "titre": "\"A Colossal Upgrade\" - Digital Foundry Delivers Its Tech Verdict For The Witcher 3 Remastered On Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-won-t-be-letting-up-on-the-satire-if-you-are-going-to",
+      "titre": "GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 15.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/",
+          "titre": "GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'"
         }
       ]
     },
@@ -473,31 +575,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 32.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it/",
           "titre": "Dan Houser still hasn’t seen GTA 6: ‘I will try and avoid it’"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-rating-pulled-after-revealing-sex-scenes-and-drug-use",
-      "titre": "GTA 6 rating pulled after revealing sex scenes and drug use",
-      "url": "https://www.videogameschronicle.com/news/gta-6-rating-pulled-after-revealing-sex-scenes-and-drug-use/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 25.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/gta-6-rating-pulled-after-revealing-sex-scenes-and-drug-use/",
-          "titre": "GTA 6 rating pulled after revealing sex scenes and drug use"
         }
       ]
     },
@@ -510,7 +594,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 26.6,
+      "heures": 33.3,
       "chaleur": 6,
       "liens": [
         {
@@ -533,31 +617,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 19.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/rpg/crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-devs-a-fond-take-your-time-please-drink-some-water/",
           "titre": "Crimson Desert DLC delayed by 2 weeks, please join me in wishing the devs a fond 'take your time, please drink some water'"
-        }
-      ]
-    },
-    {
-      "id": "11-underappreciated-games-you-should-buy-in-the-steam-autumn",
-      "titre": "11 underappreciated games you should buy in the Steam Autumn Sale, according to some of our biggest genre sickos",
-      "url": "https://www.pcgamer.com/games/11-underappreciated-games-you-should-buy-in-the-steam-autumn-sale-according-to-some-of-our-biggest-genre-sickos/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 19.6,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/11-underappreciated-games-you-should-buy-in-the-steam-autumn-sale-according-to-some-of-our-biggest-genre-sickos/",
-          "titre": "11 underappreciated games you should buy in the Steam Autumn Sale, according to some of our biggest genre sickos"
         }
       ]
     },
@@ -569,7 +635,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.6,
+      "heures": 27.3,
       "chaleur": 5,
       "liens": [
         {
@@ -587,7 +653,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.6,
+      "heures": 32.3,
       "chaleur": 5,
       "liens": [
         {
@@ -598,38 +664,146 @@ const VEILLE = {
       ]
     },
     {
-      "id": "reminder-lies-of-p-switch-2-physical-release-now-available",
-      "titre": "Reminder: Lies Of P Switch 2 Physical Release Now Available",
-      "url": "https://www.nintendolife.com/news/2026/10/reminder-lies-of-p-switch-2-physical-release-now-available",
+      "id": "runescape-reignited-launches-2-december",
+      "titre": "RuneScape Reignited launches 2 December",
+      "url": "https://www.eurogamer.net/runescape-reignited-launch-date-2-december-economy-reset",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.8,
-      "chaleur": 5,
+      "heures": 5.6,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/reminder-lies-of-p-switch-2-physical-release-now-available",
-          "titre": "Reminder: Lies Of P Switch 2 Physical Release Now Available"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/runescape-reignited-launch-date-2-december-economy-reset",
+          "titre": "RuneScape Reignited launches 2 December"
         }
       ]
     },
     {
-      "id": "nintendo-has-renewed-multiple-game-trademarks",
-      "titre": "Nintendo Has Renewed Multiple Game Trademarks",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-renewed-multiple-game-trademarks",
+      "id": "rumour-sony-accepting-game-pitches-on-fan-fave-franchises-fi",
+      "titre": "Rumour: Sony 'Accepting Game Pitches' on Fan Fave Franchises, First Wave Due Around PS6 Launch",
+      "url": "https://www.pushsquare.com/news/2026/10/rumour-sony-accepting-game-pitches-on-fan-fave-franchises-first-wave-due-around-ps6-launch",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 6.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/rumour-sony-accepting-game-pitches-on-fan-fave-franchises-first-wave-due-around-ps6-launch",
+          "titre": "Rumour: Sony 'Accepting Game Pitches' on Fan Fave Franchises, First Wave Due Around PS6 Launch"
+        }
+      ]
+    },
+    {
+      "id": "platinum-suggests-more-bayonetta-is-coming-despite-exodus-of",
+      "titre": "Platinum suggests more Bayonetta is coming, despite exodus of lead developers",
+      "url": "https://www.videogameschronicle.com/news/platinum-suggests-more-bayonetta-is-coming-despite-exodus-of-lead-developers/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 6.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/platinum-suggests-more-bayonetta-is-coming-despite-exodus-of-lead-developers/",
+          "titre": "Platinum suggests more Bayonetta is coming, despite exodus of lead developers"
+        }
+      ]
+    },
+    {
+      "id": "hamaguchi-it-wasn-t-easy-to-keep-the-ff7-remake-trilogy-plot",
+      "titre": "Hamaguchi: It ‘wasn’t easy’ to keep the FF7 Remake trilogy plot intact and not turn it into his ‘own personal fan project’",
+      "url": "https://www.videogameschronicle.com/news/hamaguchi-it-wasnt-easy-to-keep-the-ff7-remake-trilogy-plot-intact-and-not-turn-it-into-his-own-personal-fan-project/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 7.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/hamaguchi-it-wasnt-easy-to-keep-the-ff7-remake-trilogy-plot-intact-and-not-turn-it-into-his-own-personal-fan-project/",
+          "titre": "Hamaguchi: It ‘wasn’t easy’ to keep the FF7 Remake trilogy plot intact and not turn it into his ‘own personal fan project’"
+        }
+      ]
+    },
+    {
+      "id": "an-openai-model-was-caught-trying-to-cheat-at-starcraft-and",
+      "titre": "An OpenAI model was caught trying to cheat at StarCraft, and of course it did it by stealing a human's work",
+      "url": "https://www.pcgamer.com/software/ai/an-openai-model-was-caught-trying-to-cheat-at-starcraft-and-of-course-it-did-it-by-stealing-a-humans-work/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/an-openai-model-was-caught-trying-to-cheat-at-starcraft-and-of-course-it-did-it-by-stealing-a-humans-work/",
+          "titre": "An OpenAI model was caught trying to cheat at StarCraft, and of course it did it by stealing a human's work"
+        }
+      ]
+    },
+    {
+      "id": "nivalis-nights-dares-to-ask-what-if-cyberpunk-2077-met-dave",
+      "titre": "Nivalis Nights dares to ask what if Cyberpunk 2077 met Dave the Diver and Stardew Valley? And for now at least I'm loving the answer",
+      "url": "https://www.eurogamer.net/nivalis-nights-now-playing",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 9.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/nivalis-nights-now-playing",
+          "titre": "Nivalis Nights dares to ask what if Cyberpunk 2077 met Dave the Diver and Stardew Valley? And for now at least I'm loving the answer"
+        }
+      ]
+    },
+    {
+      "id": "the-sunday-papers",
+      "titre": "The Sunday Papers",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-830",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 9.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-sunday-papers-830",
+          "titre": "The Sunday Papers"
+        }
+      ]
+    },
+    {
+      "id": "feature-box-art-brawl-zone-of-the-enders-the-fist-of-mars-gb",
+      "titre": "Feature: Box Art Brawl - Zone Of The Enders: The Fist Of Mars (GBA)",
+      "url": "https://www.nintendolife.com/features/box-art-brawl-zone-of-the-enders-the-fist-of-mars-gba",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.7,
-      "chaleur": 5,
+      "heures": 9.3,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-renewed-multiple-game-trademarks",
-          "titre": "Nintendo Has Renewed Multiple Game Trademarks"
+          "url": "https://www.nintendolife.com/features/box-art-brawl-zone-of-the-enders-the-fist-of-mars-gba",
+          "titre": "Feature: Box Art Brawl - Zone Of The Enders: The Fist Of Mars (GBA)"
         }
       ]
     },
@@ -641,8 +815,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.5,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -659,8 +833,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 17.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -677,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 19.6,
       "chaleur": 3,
       "liens": [
         {
@@ -695,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 20.5,
       "chaleur": 3,
       "liens": [
         {
@@ -713,7 +887,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 21.8,
       "chaleur": 3,
       "liens": [
         {
@@ -731,7 +905,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 22.0,
       "chaleur": 3,
       "liens": [
         {
@@ -749,7 +923,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 22.8,
       "chaleur": 3,
       "liens": [
         {
@@ -767,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 25.6,
       "chaleur": 3,
       "liens": [
         {
@@ -785,7 +959,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 25.6,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +977,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.2,
+      "heures": 25.9,
       "chaleur": 3,
       "liens": [
         {
@@ -821,103 +995,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 26.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/moba/deadlock-is-the-king-of-moba-character-designs-and-its-all-thanks-to-valves-embrace-of-new-yorkyness/",
           "titre": "Deadlock is the king of MOBA character designs, and it's all thanks to Valve's embrace of New Yorkyness"
-        }
-      ]
-    },
-    {
-      "id": "has-your-life-ever-been-changed-by-someone-you-met-in-an-mmo",
-      "titre": "Has your life ever been changed by someone you met in an MMO?",
-      "url": "https://www.pcgamer.com/games/mmo/has-your-life-ever-been-changed-by-someone-you-met-in-an-mmo/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 19.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/has-your-life-ever-been-changed-by-someone-you-met-in-an-mmo/",
-          "titre": "Has your life ever been changed by someone you met in an MMO?"
-        }
-      ]
-    },
-    {
-      "id": "fallen-london-is-where-the-writers-of-baldur-s-gate-3-dishon",
-      "titre": "Fallen London is where the writers of Baldur's Gate 3, Dishonored and Stellaris come to let their hair down",
-      "url": "https://www.pcgamer.com/games/rpg/fallen-london-is-where-the-writers-of-baldurs-gate-3-dishonored-and-stellaris-come-to-let-their-hair-down/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/fallen-london-is-where-the-writers-of-baldurs-gate-3-dishonored-and-stellaris-come-to-let-their-hair-down/",
-          "titre": "Fallen London is where the writers of Baldur's Gate 3, Dishonored and Stellaris come to let their hair down"
-        }
-      ]
-    },
-    {
-      "id": "deadlock-s-new-hero-rat-king-has-over-100-voice-lines-dedica",
-      "titre": "Deadlock's new hero Rat King has over 100 voice lines dedicated to throwing rats at you",
-      "url": "https://www.pcgamer.com/games/moba/deadlocks-new-hero-rat-king-has-over-100-voice-lines-dedicated-to-throwing-rats-at-you/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/moba/deadlocks-new-hero-rat-king-has-over-100-voice-lines-dedicated-to-throwing-rats-at-you/",
-          "titre": "Deadlock's new hero Rat King has over 100 voice lines dedicated to throwing rats at you"
-        }
-      ]
-    },
-    {
-      "id": "2026-is-the-year-big-brands-have-finally-pushed-gaming-mouse",
-      "titre": "2026 is the year big brands have finally pushed gaming mouse technology forwards",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/2026-is-the-year-big-brands-have-finally-pushed-gaming-mouse-technology-forwards/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 22.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-mice/2026-is-the-year-big-brands-have-finally-pushed-gaming-mouse-technology-forwards/",
-          "titre": "2026 is the year big brands have finally pushed gaming mouse technology forwards"
-        }
-      ]
-    },
-    {
-      "id": "007-first-light-gets-free-dlc-that-will-finally-let-you-driv",
-      "titre": "007 First Light gets free DLC that will finally let you drive James Bond's Aston Martin properly",
-      "url": "https://www.pcgamer.com/games/action/007-first-light-gets-free-dlc-that-will-finally-let-you-drive-james-bonds-aston-martin-properly/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 23.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/007-first-light-gets-free-dlc-that-will-finally-let-you-drive-james-bonds-aston-martin-properly/",
-          "titre": "007 First Light gets free DLC that will finally let you drive James Bond's Aston Martin properly"
         }
       ]
     },
@@ -929,7 +1013,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 30.2,
       "chaleur": 3,
       "liens": [
         {
@@ -947,7 +1031,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.6,
+      "heures": 31.3,
       "chaleur": 3,
       "liens": [
         {
@@ -965,7 +1049,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 24.6,
+      "heures": 31.3,
       "chaleur": 3,
       "liens": [
         {
@@ -983,7 +1067,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.0,
+      "heures": 31.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +1085,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.6,
+      "heures": 33.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,31 +1103,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.6,
+      "heures": 35.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/what-weve-been-playing-thats-one-of-gamings-great-cities-that-is",
           "titre": "What we've been playing - \"That's one of gaming's great cities, that is\""
-        }
-      ]
-    },
-    {
-      "id": "sonic-racing-crossworlds-final-content-drop-of-year-one-arri",
-      "titre": "Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Arrives This Month",
-      "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-final-content-drop-of-year-one-arrives-this-month",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 35.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-final-content-drop-of-year-one-arrives-this-month",
-          "titre": "Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Arrives This Month"
         }
       ]
     }
