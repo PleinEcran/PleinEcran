@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "04/10/2026 à 02h55",
+  "collecte": "04/10/2026 à 05h57",
   "seuil": 14,
   "sujets": [
     {
@@ -13,7 +13,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 17.2,
+      "heures": 20.3,
       "chaleur": 12,
       "liens": [
         {
@@ -34,6 +34,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "gta-6-won-t-be-letting-up-on-the-satire-if-you-are-going-to",
+      "titre": "GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.7,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/",
+          "titre": "GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'"
+        }
+      ]
+    },
+    {
       "id": "video-15-exciting-new-games-coming-to-switch-1-2-in-october",
       "titre": "Video: 15 Exciting New Games Coming To Switch 1 & 2 In October 2026",
       "url": "https://www.nintendolife.com/news/2026/10/video-15-exciting-new-games-coming-to-switch-1-and-2-in-october-2026",
@@ -42,8 +60,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.8,
-      "chaleur": 11,
+      "heures": 4.9,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -58,60 +76,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "one-of-the-most-popular-total-war-warhammer-3-mods-was-delib",
-      "titre": "One of the most popular Total War: Warhammer 3 mods was 'deliberately corrupted' by its creator to sabotage AI-made copies",
-      "url": "https://www.pcgamer.com/games/strategy/one-of-the-most-popular-total-war-warhammer-3-mods-was-deliberately-corrupted-by-its-creator-to-sabotage-ai-made-copies/",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 1.7,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/one-of-the-most-popular-total-war-warhammer-3-mods-was-deliberately-corrupted-by-its-creator-to-sabotage-ai-made-copies/",
-          "titre": "One of the most popular Total War: Warhammer 3 mods was 'deliberately corrupted' by its creator to sabotage AI-made copies"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/support-modders-not-ai-total-war-warhammer-3-mod-deliberately-corrupted-by-its-own-creator-in-protest-of-ai-infused-unauthorised-reuploads",
-          "titre": "\"Support modders, not AI\": Total War: Warhammer 3 mod \"deliberately corrupted\" by its own creator in protest of AI-infused unauthorised reuploads"
-        }
-      ]
-    },
-    {
-      "id": "capcom-plans-to-evolve-re-engine-into-an-ai-generation-game",
-      "titre": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\"",
-      "url": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 12.1,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
-          "titre": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\""
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/capcom-details-plans-to-evolve-re-engine-into-an-ai-generation-game-engine/",
-          "titre": "Capcom details plans to evolve RE Engine into an ‘AI game engine’"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/capcom-announces-plans-to-transform-its-re-engine-into-an-ai-generation-game-engine/",
-          "titre": "Capcom announces plans to transform its RE Engine into an 'AI-generation game engine'"
-        }
-      ]
-    },
-    {
       "id": "talking-point-what-are-you-playing-this-weekend-3rd-october",
       "titre": "Talking Point: What Are You Playing This Weekend? (3rd October)",
       "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-3rd-october",
@@ -121,7 +85,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 17.9,
+      "heures": 21.0,
       "chaleur": 9,
       "liens": [
         {
@@ -138,48 +102,6 @@ const VEILLE = {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/talking-point-what-are-you-playing-this-weekend-issue-652",
           "titre": "Talking Point: What Are You Playing This Weekend? - Issue 652"
-        }
-      ]
-    },
-    {
-      "id": "crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wish",
-      "titre": "Crimson Desert DLC delayed by 2 weeks, please join me in wishing the devs a fond 'take your time, please drink some water'",
-      "url": "https://www.pcgamer.com/games/rpg/crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-devs-a-fond-take-your-time-please-drink-some-water/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-devs-a-fond-take-your-time-please-drink-some-water/",
-          "titre": "Crimson Desert DLC delayed by 2 weeks, please join me in wishing the devs a fond 'take your time, please drink some water'"
-        }
-      ]
-    },
-    {
-      "id": "memory-shortages-set-to-persist-into-2028-warns-micron-ceo",
-      "titre": "Memory shortages set to persist into 2028, warns Micron CEO",
-      "url": "https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 16.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand",
-          "titre": "Memory shortages set to persist into 2028, warns Micron CEO"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/buckle-up-memory-shortages-are-reportedly-set-to-get-worse-in-2027",
-          "titre": "Buckle Up, Memory Shortages Are Reportedly Set To Get Worse In 2027"
         }
       ]
     },
@@ -400,6 +322,66 @@ const VEILLE = {
       ]
     },
     {
+      "id": "crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wish",
+      "titre": "Crimson Desert DLC delayed by 2 weeks, please join me in wishing the devs a fond 'take your time, please drink some water'",
+      "url": "https://www.pcgamer.com/games/rpg/crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-devs-a-fond-take-your-time-please-drink-some-water/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-devs-a-fond-take-your-time-please-drink-some-water/",
+          "titre": "Crimson Desert DLC delayed by 2 weeks, please join me in wishing the devs a fond 'take your time, please drink some water'"
+        }
+      ]
+    },
+    {
+      "id": "capcom-plans-to-evolve-re-engine-into-an-ai-generation-game",
+      "titre": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\"",
+      "url": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 15.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
+          "titre": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\""
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/capcom-details-plans-to-evolve-re-engine-into-an-ai-generation-game-engine/",
+          "titre": "Capcom details plans to evolve RE Engine into an ‘AI game engine’"
+        }
+      ]
+    },
+    {
+      "id": "dan-houser-still-hasn-t-seen-gta-6-i-will-try-and-avoid-it",
+      "titre": "Dan Houser still hasn’t seen GTA 6: ‘I will try and avoid it’",
+      "url": "https://www.videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 19.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it/",
+          "titre": "Dan Houser still hasn’t seen GTA 6: ‘I will try and avoid it’"
+        }
+      ]
+    },
+    {
       "id": "11-underappreciated-games-you-should-buy-in-the-steam-autumn",
       "titre": "11 underappreciated games you should buy in the Steam Autumn Sale, according to some of our biggest genre sickos",
       "url": "https://www.pcgamer.com/games/11-underappreciated-games-you-should-buy-in-the-steam-autumn-sale-according-to-some-of-our-biggest-genre-sickos/",
@@ -407,8 +389,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 6,
+      "heures": 14.0,
+      "chaleur": 5,
       "liens": [
         {
           "source": "PC Gamer",
@@ -425,103 +407,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 6,
+      "heures": 15.0,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/the-results-of-our-2026-switch-2-summer-survey-are-in",
           "titre": "Feature: The Results Of Our 2026 Switch 2 Summer Survey Are In"
-        }
-      ]
-    },
-    {
-      "id": "dan-houser-still-hasn-t-seen-gta-6-i-will-try-and-avoid-it",
-      "titre": "Dan Houser still hasn’t seen GTA 6: ‘I will try and avoid it’",
-      "url": "https://www.videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 16.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it/",
-          "titre": "Dan Houser still hasn’t seen GTA 6: ‘I will try and avoid it’"
-        }
-      ]
-    },
-    {
-      "id": "this-is-your-dreamcast-moment-former-playstation-boss-think",
-      "titre": "\"This is your Dreamcast moment\": Former PlayStation boss thinks Xbox needs to \"pick a lane\" with exclusive games to fix itself",
-      "url": "https://www.eurogamer.net/dreamcast-moment-former-playstation-boss-xbox-exclusive-games",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 33.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dreamcast-moment-former-playstation-boss-xbox-exclusive-games",
-          "titre": "\"This is your Dreamcast moment\": Former PlayStation boss thinks Xbox needs to \"pick a lane\" with exclusive games to fix itself"
-        }
-      ]
-    },
-    {
-      "id": "kingdom-come-deliverance-2-boss-hopes-gta-6-pushes-game-pric",
-      "titre": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\"",
-      "url": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 34.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
-          "titre": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\""
-        }
-      ]
-    },
-    {
-      "id": "warhorse-coo-wants-gta-6-to-set-a-new-80-price-standard-for",
-      "titre": "Warhorse COO wants GTA 6 to set a new $80 price standard for triple-A games",
-      "url": "https://www.videogameschronicle.com/news/warhorse-coo-wants-gta-6-to-set-a-new-80-price-standard-for-triple-a-games/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 34.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/warhorse-coo-wants-gta-6-to-set-a-new-80-price-standard-for-triple-a-games/",
-          "titre": "Warhorse COO wants GTA 6 to set a new $80 price standard for triple-A games"
-        }
-      ]
-    },
-    {
-      "id": "miami-heat-nba-team-to-rebrand-as-vice-city-in-gta-6-marketi",
-      "titre": "Miami Heat NBA team to rebrand as ‘Vice City’ in GTA 6 marketing stunt",
-      "url": "https://www.videogameschronicle.com/news/miami-heat-nba-team-to-rebrand-as-vice-city-in-gta-6-marketing-stunt/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 35.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/miami-heat-nba-team-to-rebrand-as-vice-city-in-gta-6-marketing-stunt/",
-          "titre": "Miami Heat NBA team to rebrand as ‘Vice City’ in GTA 6 marketing stunt"
         }
       ]
     },
@@ -533,7 +425,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 20.0,
       "chaleur": 5,
       "liens": [
         {
@@ -551,7 +443,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.2,
+      "heures": 25.2,
       "chaleur": 5,
       "liens": [
         {
@@ -569,7 +461,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.0,
+      "heures": 28.0,
       "chaleur": 5,
       "liens": [
         {
@@ -580,38 +472,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "countdown-zelda-ocarina-of-time-dungeon-crawl-3-i-hate-this",
-      "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #3 - I Hate This Place",
-      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-3-i-hate-this-place",
+      "id": "one-of-the-most-popular-total-war-warhammer-3-mods-was-delib",
+      "titre": "One of the most popular Total War: Warhammer 3 mods was 'deliberately corrupted' by its creator to sabotage AI-made copies",
+      "url": "https://www.pcgamer.com/games/strategy/one-of-the-most-popular-total-war-warhammer-3-mods-was-deliberately-corrupted-by-its-creator-to-sabotage-ai-made-copies/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 35.9,
-      "chaleur": 5,
+      "heures": 4.7,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-3-i-hate-this-place",
-          "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #3 - I Hate This Place"
-        }
-      ]
-    },
-    {
-      "id": "the-father-of-playstation-thinks-games-have-stagnated-calls",
-      "titre": "The Father of PlayStation Thinks Games Have Stagnated, Calls for Curiosity in Developers",
-      "url": "https://www.pushsquare.com/news/2026/10/the-father-of-playstation-thinks-games-have-stagnated-calls-for-curiosity-in-developers",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/the-father-of-playstation-thinks-games-have-stagnated-calls-for-curiosity-in-developers",
-          "titre": "The Father of PlayStation Thinks Games Have Stagnated, Calls for Curiosity in Developers"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/one-of-the-most-popular-total-war-warhammer-3-mods-was-deliberately-corrupted-by-its-creator-to-sabotage-ai-made-copies/",
+          "titre": "One of the most popular Total War: Warhammer 3 mods was 'deliberately corrupted' by its creator to sabotage AI-made copies"
         }
       ]
     },
@@ -623,7 +497,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -641,7 +515,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -659,7 +533,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -677,7 +551,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -695,7 +569,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -713,8 +587,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -731,8 +605,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -749,8 +623,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -767,8 +641,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -785,8 +659,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 13.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -803,8 +677,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 14.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -821,8 +695,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 15.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -839,7 +713,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 16.1,
       "chaleur": 3,
       "liens": [
         {
@@ -857,7 +731,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 17.0,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +749,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +767,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.8,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -911,7 +785,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 18.7,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +803,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 19.0,
       "chaleur": 3,
       "liens": [
         {
@@ -947,13 +821,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 19.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/guides/these-23plus-ps5-and-ps-plus-games-are-coming-out-next-week-5th-11th-october",
           "titre": "Guide: These 23+ PS5 and PS Plus Games Are Coming Out Next Week (5th-11th October)"
+        }
+      ]
+    },
+    {
+      "id": "memory-shortages-set-to-persist-into-2028-warns-micron-ceo",
+      "titre": "Memory shortages set to persist into 2028, warns Micron CEO",
+      "url": "https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 19.4,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand",
+          "titre": "Memory shortages set to persist into 2028, warns Micron CEO"
         }
       ]
     },
@@ -965,7 +857,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 21.0,
       "chaleur": 3,
       "liens": [
         {
@@ -983,7 +875,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 23.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +893,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.4,
+      "heures": 29.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,7 +911,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 32.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1037,7 +929,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 29.9,
+      "heures": 32.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1055,7 +947,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 31.9,
+      "heures": 35.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1073,67 +965,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 32.2,
+      "heures": 35.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/sony-prepping-improved-ps-app-with-expanded-social-features",
           "titre": "Sony Prepping Improved PS App with Expanded Social Features"
-        }
-      ]
-    },
-    {
-      "id": "sony-s-quietly-improved-base-ps5-hardware-with-a-number-of-i",
-      "titre": "Sony's Quietly Improved Base PS5 Hardware with a Number of Internal Optimisations",
-      "url": "https://www.pushsquare.com/news/2026/10/sonys-quietly-improved-base-ps5-hardware-with-a-number-of-internal-optimisations",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 33.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sonys-quietly-improved-base-ps5-hardware-with-a-number-of-internal-optimisations",
-          "titre": "Sony's Quietly Improved Base PS5 Hardware with a Number of Internal Optimisations"
-        }
-      ]
-    },
-    {
-      "id": "epic-s-october-free-games-include-system-shock-2-s-25th-anni",
-      "titre": "Epic’s October free games include System Shock 2’s 25th anniversary remaster",
-      "url": "https://www.videogameschronicle.com/news/epics-october-free-games-include-system-shock-2s-25th-anniversary-remaster/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 34.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/epics-october-free-games-include-system-shock-2s-25th-anniversary-remaster/",
-          "titre": "Epic’s October free games include System Shock 2’s 25th anniversary remaster"
-        }
-      ]
-    },
-    {
-      "id": "toy-story-3-complete-edition-s-ps5-trophy-list-echoes-the-or",
-      "titre": "Toy Story 3 Complete Edition's PS5 Trophy List Echoes the Original with a Few New Additions",
-      "url": "https://www.pushsquare.com/news/2026/10/toy-story-3-complete-editions-ps5-trophy-list-echoes-the-original-with-a-few-new-additions",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 34.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/toy-story-3-complete-editions-ps5-trophy-list-echoes-the-original-with-a-few-new-additions",
-          "titre": "Toy Story 3 Complete Edition's PS5 Trophy List Echoes the Original with a Few New Additions"
         }
       ]
     }
