@@ -1,32 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "04/10/2026 à 21h28",
+  "collecte": "04/10/2026 à 22h20",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "grand-theft-auto-6-features-detailed-decapitation-and-freque",
-      "titre": "Grand Theft Auto 6 features 'detailed decapitation' and 'frequent and prominent' drug use, according to hastily deleted PEGI rating",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-features-detailed-decapitation-and-frequent-and-prominent-drug-use-according-to-hastily-deleted-pegi-rating/",
-      "sources": [
-        "PC Gamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 9.6,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-features-detailed-decapitation-and-frequent-and-prominent-drug-use-according-to-hastily-deleted-pegi-rating/",
-          "titre": "Grand Theft Auto 6 features 'detailed decapitation' and 'frequent and prominent' drug use, according to hastily deleted PEGI rating"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/gta-6-rating-pulled-after-revealing-sex-scenes-and-drug-use/",
-          "titre": "GTA 6 rating pulled after revealing sex scenes and drug use"
-        }
-      ]
-    },
     {
       "id": "capcom-is-looking-to-evolve-its-re-engine-into-an-ai-era-gam",
       "titre": "Capcom Is Looking To Evolve Its RE Engine Into An 'AI-Era Game Engine'",
@@ -37,7 +13,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 10.2,
+      "heures": 11.1,
       "chaleur": 10,
       "liens": [
         {
@@ -66,7 +42,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 20.4,
+      "heures": 21.3,
       "chaleur": 8,
       "liens": [
         {
@@ -90,7 +66,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 7.8,
+      "heures": 8.7,
       "chaleur": 7,
       "liens": [
         {
@@ -114,7 +90,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 10.3,
+      "heures": 11.1,
       "chaleur": 7,
       "liens": [
         {
@@ -126,30 +102,6 @@ const VEILLE = {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/jagex-has-officially-announced-runescape-4/",
           "titre": "Jagex has officially announced RuneScape 4"
-        }
-      ]
-    },
-    {
-      "id": "i-did-my-best-final-fantasy-7-revelation-director-says-he-a",
-      "titre": "‘I did my best’: Final Fantasy 7 Revelation director says he argued for physical version",
-      "url": "https://www.videogameschronicle.com/news/i-did-my-best-final-fantasy-7-revelation-director-says-he-argued-for-physical-version/",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 11.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/i-did-my-best-final-fantasy-7-revelation-director-says-he-argued-for-physical-version/",
-          "titre": "‘I did my best’: Final Fantasy 7 Revelation director says he argued for physical version"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/final-fantasy-7-revelation-naoki-hamaguchi-disc-release-physical-media",
-          "titre": "Final Fantasy 7 Revelation director says he \"did his best\" to fight for a full disc release"
         }
       ]
     },
@@ -377,49 +329,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 3.0,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/features/lets-flick-through-sammys-photos-from-gamescom-and-tokyo-game-show",
           "titre": "Feature: Let's Flick Through Sammy's Photos from Gamescom and Tokyo Game Show"
-        }
-      ]
-    },
-    {
-      "id": "kingdom-come-deliverance-studio-co-founder-says-a-lot-of-rpg",
-      "titre": "Kingdom Come: Deliverance studio co-founder says a lot of RPGs are 'still games for teenagers,' and that he's 'tired of all the RPGs where you are this chosen one'",
-      "url": "https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-studio-co-founder-says-a-lot-of-rpgs-are-still-games-for-teenagers-and-that-hes-tired-of-all-the-rpgs-where-you-are-this-chosen-one/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-studio-co-founder-says-a-lot-of-rpgs-are-still-games-for-teenagers-and-that-hes-tired-of-all-the-rpgs-where-you-are-this-chosen-one/",
-          "titre": "Kingdom Come: Deliverance studio co-founder says a lot of RPGs are 'still games for teenagers,' and that he's 'tired of all the RPGs where you are this chosen one'"
-        }
-      ]
-    },
-    {
-      "id": "brigador-devs-the-90s-pc-classics-often-taught-really-specia",
-      "titre": "Brigador devs: 'The '90s PC classics often taught really special things, but not because the story said, Wow, violence is bad!'",
-      "url": "https://www.pcgamer.com/games/action/brigador-devs-the-90s-pc-classics-often-taught-really-special-things-but-not-because-the-story-said-wow-violence-is-bad/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/brigador-devs-the-90s-pc-classics-often-taught-really-special-things-but-not-because-the-story-said-wow-violence-is-bad/",
-          "titre": "Brigador devs: 'The '90s PC classics often taught really special things, but not because the story said, Wow, violence is bad!'"
         }
       ]
     },
@@ -431,7 +347,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 5.3,
       "chaleur": 6,
       "liens": [
         {
@@ -449,13 +365,37 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.0,
+      "heures": 11.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/a-colossal-upgrade-digital-foundry-delivers-its-tech-verdict-for-the-witcher-3-remastered-on-switch-2",
           "titre": "\"A Colossal Upgrade\" - Digital Foundry Delivers Its Tech Verdict For The Witcher 3 Remastered On Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "i-did-my-best-final-fantasy-7-revelation-director-says-he-a",
+      "titre": "‘I did my best’: Final Fantasy 7 Revelation director says he argued for physical version",
+      "url": "https://www.videogameschronicle.com/news/i-did-my-best-final-fantasy-7-revelation-director-says-he-argued-for-physical-version/",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 12.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/i-did-my-best-final-fantasy-7-revelation-director-says-he-argued-for-physical-version/",
+          "titre": "‘I did my best’: Final Fantasy 7 Revelation director says he argued for physical version"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/final-fantasy-7-revelation-naoki-hamaguchi-disc-release-physical-media",
+          "titre": "Final Fantasy 7 Revelation director says he \"did his best\" to fight for a full disc release"
         }
       ]
     },
@@ -467,31 +407,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 19.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/",
           "titre": "GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'"
-        }
-      ]
-    },
-    {
-      "id": "dan-houser-still-hasn-t-seen-gta-6-i-will-try-and-avoid-it",
-      "titre": "Dan Houser still hasn’t seen GTA 6: ‘I will try and avoid it’",
-      "url": "https://www.videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 35.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it/",
-          "titre": "Dan Houser still hasn’t seen GTA 6: ‘I will try and avoid it’"
         }
       ]
     },
@@ -503,7 +425,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.1,
+      "heures": 23.0,
       "chaleur": 5,
       "liens": [
         {
@@ -521,7 +443,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.5,
+      "heures": 31.3,
       "chaleur": 5,
       "liens": [
         {
@@ -532,20 +454,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "random-tough-week-grab-yourself-a-brew-get-these-immaculate",
-      "titre": "Random: Tough Week? Grab Yourself A Brew & Get These Immaculate Zelda Tunes On Your Playlist, Pronto",
-      "url": "https://www.nintendolife.com/news/2026/10/random-tough-week-grab-yourself-a-brew-and-get-these-immaculate-zelda-tunes-on-your-playlist-pronto",
+      "id": "kingdom-come-deliverance-studio-co-founder-says-a-lot-of-rpg",
+      "titre": "Kingdom Come: Deliverance studio co-founder says a lot of RPGs are 'still games for teenagers,' and that he's 'tired of all the RPGs where you are this chosen one'",
+      "url": "https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-studio-co-founder-says-a-lot-of-rpgs-are-still-games-for-teenagers-and-that-hes-tired-of-all-the-rpgs-where-you-are-this-chosen-one/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 35.5,
-      "chaleur": 5,
+      "heures": 4.0,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/random-tough-week-grab-yourself-a-brew-and-get-these-immaculate-zelda-tunes-on-your-playlist-pronto",
-          "titre": "Random: Tough Week? Grab Yourself A Brew & Get These Immaculate Zelda Tunes On Your Playlist, Pronto"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-studio-co-founder-says-a-lot-of-rpgs-are-still-games-for-teenagers-and-that-hes-tired-of-all-the-rpgs-where-you-are-this-chosen-one/",
+          "titre": "Kingdom Come: Deliverance studio co-founder says a lot of RPGs are 'still games for teenagers,' and that he's 'tired of all the RPGs where you are this chosen one'"
+        }
+      ]
+    },
+    {
+      "id": "brigador-devs-the-90s-pc-classics-often-taught-really-specia",
+      "titre": "Brigador devs: 'The '90s PC classics often taught really special things, but not because the story said, Wow, violence is bad!'",
+      "url": "https://www.pcgamer.com/games/action/brigador-devs-the-90s-pc-classics-often-taught-really-special-things-but-not-because-the-story-said-wow-violence-is-bad/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/brigador-devs-the-90s-pc-classics-often-taught-really-special-things-but-not-because-the-story-said-wow-violence-is-bad/",
+          "titre": "Brigador devs: 'The '90s PC classics often taught really special things, but not because the story said, Wow, violence is bad!'"
         }
       ]
     },
@@ -557,7 +497,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 5.2,
       "chaleur": 4,
       "liens": [
         {
@@ -575,7 +515,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 5.7,
       "chaleur": 4,
       "liens": [
         {
@@ -593,7 +533,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 6.0,
       "chaleur": 4,
       "liens": [
         {
@@ -611,7 +551,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -629,7 +569,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -647,7 +587,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -665,7 +605,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -683,7 +623,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -701,7 +641,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -719,13 +659,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/rumour-sony-accepting-game-pitches-on-fan-fave-franchises-first-wave-due-around-ps6-launch",
           "titre": "Rumour: Sony 'Accepting Game Pitches' on Fan Fave Franchises, First Wave Due Around PS6 Launch"
+        }
+      ]
+    },
+    {
+      "id": "grand-theft-auto-6-features-detailed-decapitation-and-freque",
+      "titre": "Grand Theft Auto 6 features 'detailed decapitation' and 'frequent and prominent' drug use, according to hastily deleted PEGI rating",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-features-detailed-decapitation-and-frequent-and-prominent-drug-use-according-to-hastily-deleted-pegi-rating/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 10.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-features-detailed-decapitation-and-frequent-and-prominent-drug-use-according-to-hastily-deleted-pegi-rating/",
+          "titre": "Grand Theft Auto 6 features 'detailed decapitation' and 'frequent and prominent' drug use, according to hastily deleted PEGI rating"
         }
       ]
     },
@@ -737,7 +695,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.1,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -755,7 +713,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.4,
+      "heures": 11.2,
       "chaleur": 4,
       "liens": [
         {
@@ -773,7 +731,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.6,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -791,7 +749,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 13.3,
       "chaleur": 3,
       "liens": [
         {
@@ -809,7 +767,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 13.3,
       "chaleur": 3,
       "liens": [
         {
@@ -827,7 +785,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 13.3,
       "chaleur": 3,
       "liens": [
         {
@@ -845,7 +803,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 16.3,
       "chaleur": 3,
       "liens": [
         {
@@ -863,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.2,
+      "heures": 21.1,
       "chaleur": 3,
       "liens": [
         {
@@ -881,7 +839,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 23.7,
       "chaleur": 3,
       "liens": [
         {
@@ -899,7 +857,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.7,
+      "heures": 24.6,
       "chaleur": 3,
       "liens": [
         {
@@ -917,7 +875,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.0,
+      "heures": 25.8,
       "chaleur": 3,
       "liens": [
         {
@@ -935,7 +893,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 25.2,
+      "heures": 26.1,
       "chaleur": 3,
       "liens": [
         {
@@ -953,7 +911,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.0,
+      "heures": 26.8,
       "chaleur": 3,
       "liens": [
         {
@@ -971,7 +929,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 28.8,
+      "heures": 29.7,
       "chaleur": 3,
       "liens": [
         {
@@ -989,7 +947,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.1,
+      "heures": 29.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +965,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.4,
+      "heures": 34.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,7 +983,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 34.5,
+      "heures": 35.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,7 +1001,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 34.5,
+      "heures": 35.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,7 +1019,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 34.9,
+      "heures": 35.8,
       "chaleur": 3,
       "liens": [
         {
