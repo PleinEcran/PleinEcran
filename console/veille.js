@@ -1,32 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "05/10/2026 à 02h22",
+  "collecte": "05/10/2026 à 04h24",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "video-15-exciting-new-games-coming-to-switch-1-2-in-october",
-      "titre": "Video: 15 Exciting New Games Coming To Switch 1 & 2 In October 2026",
-      "url": "https://www.nintendolife.com/news/2026/10/video-15-exciting-new-games-coming-to-switch-1-and-2-in-october-2026",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 25.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/video-15-exciting-new-games-coming-to-switch-1-and-2-in-october-2026",
-          "titre": "Video: 15 Exciting New Games Coming To Switch 1 & 2 In October 2026"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-october-2026",
-          "titre": "Poll: Are You Happy with Your PS Plus Essential Games for October 2026?"
-        }
-      ]
-    },
     {
       "id": "game-conference-mx-gcmx",
       "titre": "Game Conference MX (GCMX)",
@@ -244,20 +220,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "garry-newman-responds-to-s-box-criticism-in-lengthy-youtube",
-      "titre": "Garry Newman responds to s&box criticism in lengthy YouTube comment: 'I don't like giving up on things, I am stubborn'",
-      "url": "https://www.pcgamer.com/games/garry-newman-responds-to-s-and-box-criticism-in-lengthy-youtube-comment-i-dont-like-giving-up-on-things-i-am-stubborn/",
+      "id": "it-s-easy-to-forget-now-but-the-first-elder-scrolls-game-had",
+      "titre": "It's easy to forget now, but the first Elder Scrolls game had a rough launch back in the day: 'It was a disaster in a lot of ways and somehow built a billion-dollar franchise'",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/its-easy-to-forget-now-but-the-first-elder-scrolls-game-had-a-rough-launch-back-in-the-day-it-was-a-disaster-in-a-lot-of-ways-and-somehow-built-a-billion-dollar-franchise/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.8,
+      "heures": 1.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/garry-newman-responds-to-s-and-box-criticism-in-lengthy-youtube-comment-i-dont-like-giving-up-on-things-i-am-stubborn/",
-          "titre": "Garry Newman responds to s&box criticism in lengthy YouTube comment: 'I don't like giving up on things, I am stubborn'"
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/its-easy-to-forget-now-but-the-first-elder-scrolls-game-had-a-rough-launch-back-in-the-day-it-was-a-disaster-in-a-lot-of-ways-and-somehow-built-a-billion-dollar-franchise/",
+          "titre": "It's easy to forget now, but the first Elder Scrolls game had a rough launch back in the day: 'It was a disaster in a lot of ways and somehow built a billion-dollar franchise'"
         }
       ]
     },
@@ -269,7 +245,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
@@ -288,7 +264,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 12.7,
+      "heures": 14.8,
       "chaleur": 6,
       "liens": [
         {
@@ -304,30 +280,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "capcom-is-looking-to-evolve-its-re-engine-into-an-ai-era-gam",
-      "titre": "Capcom Is Looking To Evolve Its RE Engine Into An 'AI-Era Game Engine'",
-      "url": "https://www.nintendolife.com/news/2026/10/capcom-is-looking-to-evolve-its-re-engine-into-an-ai-era-game-engine",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 15.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/capcom-is-looking-to-evolve-its-re-engine-into-an-ai-era-game-engine",
-          "titre": "Capcom Is Looking To Evolve Its RE Engine Into An 'AI-Era Game Engine'"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
-          "titre": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\""
-        }
-      ]
-    },
-    {
       "id": "fourth-runescape-officially-revealed",
       "titre": "Fourth RuneScape officially revealed",
       "url": "https://www.eurogamer.net/jagex-runescape-4-mmo-unreal-engine-animated-series-moistcr1tikal",
@@ -336,7 +288,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 15.2,
+      "heures": 17.2,
       "chaleur": 6,
       "liens": [
         {
@@ -360,7 +312,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 16.1,
+      "heures": 18.2,
       "chaleur": 6,
       "liens": [
         {
@@ -383,7 +335,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.1,
+      "heures": 25.2,
       "chaleur": 6,
       "liens": [
         {
@@ -401,13 +353,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/a-colossal-upgrade-digital-foundry-delivers-its-tech-verdict-for-the-witcher-3-remastered-on-switch-2",
           "titre": "\"A Colossal Upgrade\" - Digital Foundry Delivers Its Tech Verdict For The Witcher 3 Remastered On Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "video-15-exciting-new-games-coming-to-switch-1-2-in-october",
+      "titre": "Video: 15 Exciting New Games Coming To Switch 1 & 2 In October 2026",
+      "url": "https://www.nintendolife.com/news/2026/10/video-15-exciting-new-games-coming-to-switch-1-and-2-in-october-2026",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 27.3,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/video-15-exciting-new-games-coming-to-switch-1-and-2-in-october-2026",
+          "titre": "Video: 15 Exciting New Games Coming To Switch 1 & 2 In October 2026"
         }
       ]
     },
@@ -419,7 +389,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 27.0,
+      "heures": 29.1,
       "chaleur": 5,
       "liens": [
         {
@@ -430,20 +400,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "feature-the-results-of-our-2026-switch-2-summer-survey-are-i",
-      "titre": "Feature: The Results Of Our 2026 Switch 2 Summer Survey Are In",
-      "url": "https://www.nintendolife.com/features/the-results-of-our-2026-switch-2-summer-survey-are-in",
+      "id": "garry-newman-responds-to-s-box-criticism-in-lengthy-youtube",
+      "titre": "Garry Newman responds to s&box criticism in lengthy YouTube comment: 'I don't like giving up on things, I am stubborn'",
+      "url": "https://www.pcgamer.com/games/garry-newman-responds-to-s-and-box-criticism-in-lengthy-youtube-comment-i-dont-like-giving-up-on-things-i-am-stubborn/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 35.4,
-      "chaleur": 5,
+      "heures": 5.8,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/the-results-of-our-2026-switch-2-summer-survey-are-in",
-          "titre": "Feature: The Results Of Our 2026 Switch 2 Summer Survey Are In"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/garry-newman-responds-to-s-and-box-criticism-in-lengthy-youtube-comment-i-dont-like-giving-up-on-things-i-am-stubborn/",
+          "titre": "Garry Newman responds to s&box criticism in lengthy YouTube comment: 'I don't like giving up on things, I am stubborn'"
         }
       ]
     },
@@ -455,7 +425,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -473,7 +443,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -491,7 +461,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -509,7 +479,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -527,7 +497,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -545,7 +515,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -563,8 +533,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 4,
+      "heures": 12.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -581,8 +551,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -599,8 +569,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -617,8 +587,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -635,8 +605,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.0,
-      "chaleur": 4,
+      "heures": 14.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -653,8 +623,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
-      "chaleur": 4,
+      "heures": 14.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -671,7 +641,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 15.7,
       "chaleur": 3,
       "liens": [
         {
@@ -689,7 +659,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -707,7 +677,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.6,
       "chaleur": 3,
       "liens": [
         {
@@ -725,13 +695,31 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 17.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/platinum-suggests-more-bayonetta-is-coming-despite-exodus-of-lead-developers/",
           "titre": "Platinum suggests more Bayonetta is coming, despite exodus of lead developers"
+        }
+      ]
+    },
+    {
+      "id": "capcom-is-looking-to-evolve-its-re-engine-into-an-ai-era-gam",
+      "titre": "Capcom Is Looking To Evolve Its RE Engine Into An 'AI-Era Game Engine'",
+      "url": "https://www.nintendolife.com/news/2026/10/capcom-is-looking-to-evolve-its-re-engine-into-an-ai-era-game-engine",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 17.2,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/capcom-is-looking-to-evolve-its-re-engine-into-an-ai-era-game-engine",
+          "titre": "Capcom Is Looking To Evolve Its RE Engine Into An 'AI-Era Game Engine'"
         }
       ]
     },
@@ -743,7 +731,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.3,
       "chaleur": 3,
       "liens": [
         {
@@ -761,7 +749,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.6,
       "chaleur": 3,
       "liens": [
         {
@@ -779,7 +767,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -797,7 +785,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -815,7 +803,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -833,7 +821,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 22.3,
       "chaleur": 3,
       "liens": [
         {
@@ -851,7 +839,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 25.1,
+      "heures": 27.1,
       "chaleur": 3,
       "liens": [
         {
@@ -869,31 +857,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 27.7,
+      "heures": 29.7,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/fps/valorant-player-claims-to-have-inherited-hardware-ban-through-secondhand-cpu-riot-anticheat-boss-disputes-parts-of-story/",
           "titre": "Valorant player claims to have inherited hardware ban through secondhand CPU, Riot anticheat boss disputes parts of story"
-        }
-      ]
-    },
-    {
-      "id": "runescape-4-announced-at-runefest-full-mmo-sequel-started-as",
-      "titre": "RuneScape 4 announced at RuneFest, full MMO sequel started as expansion to survival game Dragonwilds",
-      "url": "https://www.pcgamer.com/games/mmo/runescape-4-announced-at-runefest-full-mmo-sequel-started-as-expansion-to-survival-game-dragonwilds/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 28.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/runescape-4-announced-at-runefest-full-mmo-sequel-started-as-expansion-to-survival-game-dragonwilds/",
-          "titre": "RuneScape 4 announced at RuneFest, full MMO sequel started as expansion to survival game Dragonwilds"
         }
       ]
     },
@@ -905,7 +875,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.9,
+      "heures": 31.9,
       "chaleur": 3,
       "liens": [
         {
@@ -923,7 +893,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 30.1,
+      "heures": 32.2,
       "chaleur": 3,
       "liens": [
         {
@@ -941,7 +911,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 30.9,
+      "heures": 32.9,
       "chaleur": 3,
       "liens": [
         {
@@ -959,7 +929,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 34.0,
+      "heures": 36.0,
       "chaleur": 3,
       "liens": [
         {
