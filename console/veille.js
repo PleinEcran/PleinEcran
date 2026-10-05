@@ -1,19 +1,25 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "05/10/2026 à 14h27",
+  "collecte": "05/10/2026 à 16h24",
   "seuil": 14,
   "sujets": [
     {
-      "id": "hellblade-studio-ninja-theory-has-started-laying-off-staff-f",
-      "titre": "Hellblade studio Ninja Theory has started laying off staff, following Xbox’s announcement that it faces closure",
-      "url": "https://www.videogameschronicle.com/news/hellblade-studio-ninja-theory-has-started-laying-off-staff-following-xboxs-announcement-that-it-faces-closure/",
+      "id": "ninja-theory-developers-announce-they-are-facing-redundancy",
+      "titre": "Ninja Theory developers announce they are facing redundancy, as the studio starts laying off staff following widespread Xbox cuts",
+      "url": "https://www.eurogamer.net/ninja-theory-hellblade-developers-layoffs-xbox-cuts",
       "sources": [
+        "Eurogamer",
         "VGC"
       ],
-      "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 11,
+      "reprises": 2,
+      "heures": 1.5,
+      "chaleur": 14,
       "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ninja-theory-hellblade-developers-layoffs-xbox-cuts",
+          "titre": "Ninja Theory developers announce they are facing redundancy, as the studio starts laying off staff following widespread Xbox cuts"
+        },
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/hellblade-studio-ninja-theory-has-started-laying-off-staff-following-xboxs-announcement-that-it-faces-closure/",
@@ -22,20 +28,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "millions-return-to-the-witcher-3-as-the-remastered-game-reco",
-      "titre": "Millions return to The Witcher 3 as the Remastered game records another Steam personal best and sales skyrocket",
-      "url": "https://www.eurogamer.net/witcher-3-remastered-steam-players-sales",
+      "id": "dark-pictures-dev-s-layoffs-have-begun-over-70-staff-reporte",
+      "titre": "Dark Pictures Dev's Layoffs Have Begun, Over 70 Staff Reportedly Let Go",
+      "url": "https://www.pushsquare.com/news/2026/10/dark-pictures-devs-layoffs-have-begun-over-70-staff-reportedly-let-go",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/dark-pictures-devs-layoffs-have-begun-over-70-staff-reportedly-let-go",
+          "titre": "Dark Pictures Dev's Layoffs Have Begun, Over 70 Staff Reportedly Let Go"
+        }
+      ]
+    },
+    {
+      "id": "zelda-majora-s-mask-soundtrack-joins-nintendo-music-this-wee",
+      "titre": "Zelda: Majora's Mask Soundtrack Joins Nintendo Music This Week",
+      "url": "https://www.nintendolife.com/news/2026/10/zelda-majoras-mask-soundtrack-joins-nintendo-music-this-week",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/zelda-majoras-mask-soundtrack-joins-nintendo-music-this-week",
+          "titre": "Zelda: Majora's Mask Soundtrack Joins Nintendo Music This Week"
+        }
+      ]
+    },
+    {
+      "id": "it-has-to-be-more-over-the-top-more-insane-more-in-your-fac",
+      "titre": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events",
+      "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 10,
+      "heures": 1.4,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-remastered-steam-players-sales",
-          "titre": "Millions return to The Witcher 3 as the Remastered game records another Steam personal best and sales skyrocket"
+          "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
+          "titre": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events"
         }
       ]
     },
@@ -47,13 +89,103 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.0,
       "chaleur": 9,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/gta-6-writer-says-the-series-has-never-had-much-focus-on-national-politics-beyond-gta-4s-war-on-terror-and-the-latest-entry-wont-get-too-specific",
           "titre": "GTA 6 writer says the series has never had \"much focus on national politics\" beyond GTA 4's war on terror, and the latest entry won't get \"too specific\""
+        }
+      ]
+    },
+    {
+      "id": "i-suppose-playstation-themed-blind-boxes-were-only-a-matter",
+      "titre": "I Suppose PlayStation-Themed Blind Boxes Were Only a Matter of Time",
+      "url": "https://www.pushsquare.com/news/2026/10/i-suppose-playstation-themed-blind-boxes-were-only-a-matter-of-time",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/i-suppose-playstation-themed-blind-boxes-were-only-a-matter-of-time",
+          "titre": "I Suppose PlayStation-Themed Blind Boxes Were Only a Matter of Time"
+        }
+      ]
+    },
+    {
+      "id": "the-coalition-used-the-ssd-on-xbox-series-s-as-makeshift-ram",
+      "titre": "The Coalition used the SSD on Xbox Series S as makeshift RAM to help Gears of War E-Day run smoothly on it",
+      "url": "https://www.videogameschronicle.com/news/the-coalition-used-the-ssd-on-xbox-series-s-as-makeshift-ram-to-help-gears-of-war-e-day-run-smoothly-on-it/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-coalition-used-the-ssd-on-xbox-series-s-as-makeshift-ram-to-help-gears-of-war-e-day-run-smoothly-on-it/",
+          "titre": "The Coalition used the SSD on Xbox Series S as makeshift RAM to help Gears of War E-Day run smoothly on it"
+        }
+      ]
+    },
+    {
+      "id": "hellblade-dev-begins-shedding-staff-months-after-revealing-n",
+      "titre": "Hellblade Dev Begins Shedding Staff, Months After Revealing New Game at Xbox Showcase",
+      "url": "https://www.pushsquare.com/news/2026/10/hellblade-dev-begins-shedding-staff-months-after-revealing-new-game-at-xbox-showcase",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/hellblade-dev-begins-shedding-staff-months-after-revealing-new-game-at-xbox-showcase",
+          "titre": "Hellblade Dev Begins Shedding Staff, Months After Revealing New Game at Xbox Showcase"
+        }
+      ]
+    },
+    {
+      "id": "psa-kingdom-hearts-collection-will-collectively-take-up-over",
+      "titre": "PSA: Kingdom Hearts Collection Will Collectively Take Up Over 130GB On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/psa-kingdom-hearts-collection-will-collectively-take-up-over-130gb-on-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/psa-kingdom-hearts-collection-will-collectively-take-up-over-130gb-on-switch-2",
+          "titre": "PSA: Kingdom Hearts Collection Will Collectively Take Up Over 130GB On Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "millions-return-to-the-witcher-3-as-the-remastered-game-reco",
+      "titre": "Millions return to The Witcher 3 as the Remastered game records another Steam personal best and sales skyrocket",
+      "url": "https://www.eurogamer.net/witcher-3-remastered-steam-players-sales",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/witcher-3-remastered-steam-players-sales",
+          "titre": "Millions return to The Witcher 3 as the Remastered game records another Steam personal best and sales skyrocket"
         }
       ]
     },
@@ -66,8 +198,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 3.1,
-      "chaleur": 9,
+      "heures": 5.0,
+      "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
@@ -90,8 +222,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 3.3,
-      "chaleur": 9,
+      "heures": 5.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -113,49 +245,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 9,
+      "heures": 5.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/i-got-my-start-writing-for-a-playstation-2-magazine-these-are-my-12-ps2-pilled-recommendations-from-the-steam-autumn-sale/",
           "titre": "I got my start writing for a PlayStation 2 magazine: These are my 12 PS2-pilled recommendations from the Steam Autumn Sale"
-        }
-      ]
-    },
-    {
-      "id": "psa-kingdom-hearts-collection-will-collectively-take-up-over",
-      "titre": "PSA: Kingdom Hearts Collection Will Collectively Take Up Over 130GB On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/psa-kingdom-hearts-collection-will-collectively-take-up-over-130gb-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/psa-kingdom-hearts-collection-will-collectively-take-up-over-130gb-on-switch-2",
-          "titre": "PSA: Kingdom Hearts Collection Will Collectively Take Up Over 130GB On Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "ace-combat-8-is-far-and-away-the-series-biggest-launch-on-st",
-      "titre": "Ace Combat 8 is far and away the series' biggest launch on Steam",
-      "url": "https://www.eurogamer.net/ace-combat-8-steam-launch-record-players",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ace-combat-8-steam-launch-record-players",
-          "titre": "Ace Combat 8 is far and away the series' biggest launch on Steam"
         }
       ]
     },
@@ -167,7 +263,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.4,
       "chaleur": 7,
       "liens": [
         {
@@ -376,20 +472,164 @@ const VEILLE = {
       ]
     },
     {
-      "id": "pax-east",
-      "titre": "PAX East",
-      "url": "https://www.gamedeveloper.com/series/pax-east",
+      "id": "runescape-dev-apologises-after-runefest-debut-of-an-ai-gener",
+      "titre": "RuneScape dev apologises after RuneFest debut of an AI-generated six-fingered character: 'That's pretty hard to explain away'",
+      "url": "https://www.pcgamer.com/games/mmo/runescape-dev-apologises-after-runefest-debut-of-an-ai-generated-six-fingered-character-thats-pretty-hard-to-explain-away/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mmo/runescape-dev-apologises-after-runefest-debut-of-an-ai-generated-six-fingered-character-thats-pretty-hard-to-explain-away/",
+          "titre": "RuneScape dev apologises after RuneFest debut of an AI-generated six-fingered character: 'That's pretty hard to explain away'"
+        }
+      ]
+    },
+    {
+      "id": "aion-2-5-things-i-wish-i-knew-before-playing-aion-2",
+      "titre": "Aion 2: 5 things I wish I knew before playing Aion 2",
+      "url": "https://www.videogameschronicle.com/guide/aion-2-5-things-i-wish-i-knew-before-playing-aion-2/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/aion-2-5-things-i-wish-i-knew-before-playing-aion-2/",
+          "titre": "Aion 2: 5 things I wish I knew before playing Aion 2"
+        }
+      ]
+    },
+    {
+      "id": "arc-raiders-is-looking-for-more-ways-to-integrate-real-human",
+      "titre": "Arc Raiders is looking for 'more ways to integrate real human performances' starting with Celeste's visual overhaul for Frozen Trail",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-looking-for-more-ways-to-integrate-real-human-performances-starting-with-celestes-visual-overhaul-for-frozen-trail/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-looking-for-more-ways-to-integrate-real-human-performances-starting-with-celestes-visual-overhaul-for-frozen-trail/",
+          "titre": "Arc Raiders is looking for 'more ways to integrate real human performances' starting with Celeste's visual overhaul for Frozen Trail"
+        }
+      ]
+    },
+    {
+      "id": "dungeons-dragons-world-of-warcraft-is-already-a-slam-dunk-bu",
+      "titre": "Dungeons & Dragons: World of Warcraft is already a slam dunk, but it's how it captures the spirit of the MMO that makes it stand out",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/dungeons-and-dragons-world-of-warcraft-is-already-a-slam-dunk-but-its-how-it-captures-the-spirit-of-the-mmo-that-makes-it-stand-out/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/dungeons-and-dragons-world-of-warcraft-is-already-a-slam-dunk-but-its-how-it-captures-the-spirit-of-the-mmo-that-makes-it-stand-out/",
+          "titre": "Dungeons & Dragons: World of Warcraft is already a slam dunk, but it's how it captures the spirit of the MMO that makes it stand out"
+        }
+      ]
+    },
+    {
+      "id": "why-it-s-still-worth-making-immersive-sims-ft-harvey-smith-b",
+      "titre": "Why it's still worth making immersive sims ft. Harvey Smith & Ben Horne",
+      "url": "https://www.gamedeveloper.com/design/why-it-s-still-worth-making-immersive-sims-ft-harvey-smith-ben-horne",
       "sources": [
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 0.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/series/pax-east",
-          "titre": "PAX East"
+          "url": "https://www.gamedeveloper.com/design/why-it-s-still-worth-making-immersive-sims-ft-harvey-smith-ben-horne",
+          "titre": "Why it's still worth making immersive sims ft. Harvey Smith & Ben Horne"
+        }
+      ]
+    },
+    {
+      "id": "aion-2-essence-extraction-guide-upgrading-essence-extraction",
+      "titre": "Aion 2 Essence Extraction guide: Upgrading Essence Extraction and success rates",
+      "url": "https://www.videogameschronicle.com/guide/aion-2-essence-extraction-guide-upgrading-essence-extraction-and-success-rates/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/aion-2-essence-extraction-guide-upgrading-essence-extraction-and-success-rates/",
+          "titre": "Aion 2 Essence Extraction guide: Upgrading Essence Extraction and success rates"
+        }
+      ]
+    },
+    {
+      "id": "claims-that-genai-speeds-up-pc-ports-of-classic-games-are-ei",
+      "titre": "Claims that genAI speeds up PC ports of classic games are either \"false\" or missing the point, says Banjo Kazooie: Recompiled developer",
+      "url": "https://www.rockpapershotgun.com/claims-that-genai-speeds-up-pc-ports-of-classic-games-are-either-false-or-missing-the-point-says-banjo-kazooie-recompiled-developer",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/claims-that-genai-speeds-up-pc-ports-of-classic-games-are-either-false-or-missing-the-point-says-banjo-kazooie-recompiled-developer",
+          "titre": "Claims that genAI speeds up PC ports of classic games are either \"false\" or missing the point, says Banjo Kazooie: Recompiled developer"
+        }
+      ]
+    },
+    {
+      "id": "aion-2-faq-everything-you-need-to-know-about-aion-2",
+      "titre": "Aion 2 FAQ: Everything you need to know about Aion 2",
+      "url": "https://www.videogameschronicle.com/guide/aion-2-faq-everything-you-need-to-know-about-aion-2/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/aion-2-faq-everything-you-need-to-know-about-aion-2/",
+          "titre": "Aion 2 FAQ: Everything you need to know about Aion 2"
+        }
+      ]
+    },
+    {
+      "id": "even-if-i-knew-how-it-would-end-i-would-do-it-again-hellbla",
+      "titre": "\"Even if I knew how it would end, I would do it again\": Hellblade developers Ninja Theory appear to have kicked off the redundancy process",
+      "url": "https://www.rockpapershotgun.com/even-if-i-knew-how-it-would-end-i-would-do-it-again-hellblade-developers-ninja-theory-appear-to-have-kicked-off-the-redundancy-process",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/even-if-i-knew-how-it-would-end-i-would-do-it-again-hellblade-developers-ninja-theory-appear-to-have-kicked-off-the-redundancy-process",
+          "titre": "\"Even if I knew how it would end, I would do it again\": Hellblade developers Ninja Theory appear to have kicked off the redundancy process"
         }
       ]
     },
@@ -401,7 +641,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -419,7 +659,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -437,7 +677,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
@@ -455,7 +695,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -473,7 +713,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -491,7 +731,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -509,7 +749,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -527,7 +767,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -545,7 +785,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -563,7 +803,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -574,128 +814,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "part-1-of-gran-turismo-7-s-massive-spec-4-update-is-availab",
-      "titre": "'Part 1' of Gran Turismo 7's Massive Spec 4 Update Is Available Very Soon on PS5, PS4",
-      "url": "https://www.pushsquare.com/news/2026/10/part-1-of-gran-turismo-7s-massive-spec-4-update-is-available-very-soon-on-ps5-ps4",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/part-1-of-gran-turismo-7s-massive-spec-4-update-is-available-very-soon-on-ps5-ps4",
-          "titre": "'Part 1' of Gran Turismo 7's Massive Spec 4 Update Is Available Very Soon on PS5, PS4"
-        }
-      ]
-    },
-    {
-      "id": "coders-will-never-forgive-me-for-this-level-warhammer-40-00",
-      "titre": "\"Coders will never forgive me for this level\": Warhammer 40,000: Boltgun 2 has a rotatable \"fleshmetal\" puzzle map that drove its own development team crazy",
-      "url": "https://www.rockpapershotgun.com/coders-will-never-forgive-me-for-this-level-warhammer-40000-boltgun-2-has-a-rotatable-fleshmetal-puzzle-map-that-drove-its-own-development-team-crazy",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/coders-will-never-forgive-me-for-this-level-warhammer-40000-boltgun-2-has-a-rotatable-fleshmetal-puzzle-map-that-drove-its-own-development-team-crazy",
-          "titre": "\"Coders will never forgive me for this level\": Warhammer 40,000: Boltgun 2 has a rotatable \"fleshmetal\" puzzle map that drove its own development team crazy"
-        }
-      ]
-    },
-    {
-      "id": "nba-2k25-sounds-the-buzzer-on-its-best-game-modes-with-a-del",
-      "titre": "NBA 2K25 Sounds The Buzzer On Its Best Game Modes, With A Delist & Server Shutdown Inbound",
-      "url": "https://www.nintendolife.com/news/2026/10/nba-2k25-sounds-the-buzzer-on-its-best-game-modes-with-a-delist-and-server-shutdown-inbound",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nba-2k25-sounds-the-buzzer-on-its-best-game-modes-with-a-delist-and-server-shutdown-inbound",
-          "titre": "NBA 2K25 Sounds The Buzzer On Its Best Game Modes, With A Delist & Server Shutdown Inbound"
-        }
-      ]
-    },
-    {
-      "id": "guide-these-23-ps5-and-ps-plus-games-are-coming-out-this-wee",
-      "titre": "Guide: These 23+ PS5 and PS Plus Games Are Coming Out This Week (5th-11th October)",
-      "url": "https://www.pushsquare.com/guides/these-23plus-ps5-and-ps-plus-games-are-coming-out-this-week-5th-11th-october",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/these-23plus-ps5-and-ps-plus-games-are-coming-out-this-week-5th-11th-october",
-          "titre": "Guide: These 23+ PS5 and PS Plus Games Are Coming Out This Week (5th-11th October)"
-        }
-      ]
-    },
-    {
-      "id": "capcom-plans-to-use-ai-technology-with-re-engine-to-make-gam",
-      "titre": "Capcom Plans to Use AI Technology with RE Engine to Make Games More Efficiently",
-      "url": "https://www.pushsquare.com/news/2026/10/capcom-plans-to-use-ai-technology-with-re-engine-to-make-games-more-efficiently",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/capcom-plans-to-use-ai-technology-with-re-engine-to-make-games-more-efficiently",
-          "titre": "Capcom Plans to Use AI Technology with RE Engine to Make Games More Efficiently"
-        }
-      ]
-    },
-    {
-      "id": "this-week-in-pc-games-star-wars-galactic-racer-hellraiser-re",
-      "titre": "This week in PC games: Star Wars: Galactic Racer, Hellraiser: Revival, and a throwback tycoon game about turning utopias into carparks",
-      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-star-wars-galactic-racer-hellraiser-revival-and-a-throwback-tycoon-game-about-turning-utopias-into-carparks",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-star-wars-galactic-racer-hellraiser-revival-and-a-throwback-tycoon-game-about-turning-utopias-into-carparks",
-          "titre": "This week in PC games: Star Wars: Galactic Racer, Hellraiser: Revival, and a throwback tycoon game about turning utopias into carparks"
-        }
-      ]
-    },
-    {
-      "id": "final-fantasy-resonance-feels-so-good-to-play-because-square",
-      "titre": "Final Fantasy Resonance feels so good to play because Square Enix 'experimented' with combining the best bits of FF5 and FF6",
-      "url": "https://www.eurogamer.net/final-fantasy-resonance-combat-system-ff5-ff6",
+      "id": "ace-combat-8-is-far-and-away-the-series-biggest-launch-on-st",
+      "titre": "Ace Combat 8 is far and away the series' biggest launch on Steam",
+      "url": "https://www.eurogamer.net/ace-combat-8-steam-launch-record-players",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.8,
+      "heures": 5.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/final-fantasy-resonance-combat-system-ff5-ff6",
-          "titre": "Final Fantasy Resonance feels so good to play because Square Enix 'experimented' with combining the best bits of FF5 and FF6"
+          "url": "https://www.eurogamer.net/ace-combat-8-steam-launch-record-players",
+          "titre": "Ace Combat 8 is far and away the series' biggest launch on Steam"
         }
       ]
     },
@@ -707,7 +839,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.4,
       "chaleur": 6,
       "liens": [
         {
@@ -725,7 +857,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.5,
       "chaleur": 6,
       "liens": [
         {
@@ -744,7 +876,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 24.8,
+      "heures": 26.8,
       "chaleur": 6,
       "liens": [
         {
@@ -760,24 +892,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-won-t-be-letting-up-on-the-satire-if-you-are-going-to",
-      "titre": "GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 35.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/",
-          "titre": "GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'"
-        }
-      ]
-    },
-    {
       "id": "review-minecraft-dungeons-ii-switch-2-a-fun-but-flawed-dunge",
       "titre": "Review: Minecraft Dungeons II (Switch 2) - A Fun But Flawed Dungeon-Crawling Sequel With Great Co-Op",
       "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/minecraft-dungeons-ii",
@@ -785,13 +899,139 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/minecraft-dungeons-ii",
           "titre": "Review: Minecraft Dungeons II (Switch 2) - A Fun But Flawed Dungeon-Crawling Sequel With Great Co-Op"
+        }
+      ]
+    },
+    {
+      "id": "part-1-of-gran-turismo-7-s-massive-spec-4-update-is-availab",
+      "titre": "'Part 1' of Gran Turismo 7's Massive Spec 4 Update Is Available Very Soon on PS5, PS4",
+      "url": "https://www.pushsquare.com/news/2026/10/part-1-of-gran-turismo-7s-massive-spec-4-update-is-available-very-soon-on-ps5-ps4",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/part-1-of-gran-turismo-7s-massive-spec-4-update-is-available-very-soon-on-ps5-ps4",
+          "titre": "'Part 1' of Gran Turismo 7's Massive Spec 4 Update Is Available Very Soon on PS5, PS4"
+        }
+      ]
+    },
+    {
+      "id": "coders-will-never-forgive-me-for-this-level-warhammer-40-00",
+      "titre": "\"Coders will never forgive me for this level\": Warhammer 40,000: Boltgun 2 has a rotatable \"fleshmetal\" puzzle map that drove its own development team crazy",
+      "url": "https://www.rockpapershotgun.com/coders-will-never-forgive-me-for-this-level-warhammer-40000-boltgun-2-has-a-rotatable-fleshmetal-puzzle-map-that-drove-its-own-development-team-crazy",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/coders-will-never-forgive-me-for-this-level-warhammer-40000-boltgun-2-has-a-rotatable-fleshmetal-puzzle-map-that-drove-its-own-development-team-crazy",
+          "titre": "\"Coders will never forgive me for this level\": Warhammer 40,000: Boltgun 2 has a rotatable \"fleshmetal\" puzzle map that drove its own development team crazy"
+        }
+      ]
+    },
+    {
+      "id": "nba-2k25-sounds-the-buzzer-on-its-best-game-modes-with-a-del",
+      "titre": "NBA 2K25 Sounds The Buzzer On Its Best Game Modes, With A Delist & Server Shutdown Inbound",
+      "url": "https://www.nintendolife.com/news/2026/10/nba-2k25-sounds-the-buzzer-on-its-best-game-modes-with-a-delist-and-server-shutdown-inbound",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nba-2k25-sounds-the-buzzer-on-its-best-game-modes-with-a-delist-and-server-shutdown-inbound",
+          "titre": "NBA 2K25 Sounds The Buzzer On Its Best Game Modes, With A Delist & Server Shutdown Inbound"
+        }
+      ]
+    },
+    {
+      "id": "guide-these-23-ps5-and-ps-plus-games-are-coming-out-this-wee",
+      "titre": "Guide: These 23+ PS5 and PS Plus Games Are Coming Out This Week (5th-11th October)",
+      "url": "https://www.pushsquare.com/guides/these-23plus-ps5-and-ps-plus-games-are-coming-out-this-week-5th-11th-october",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-23plus-ps5-and-ps-plus-games-are-coming-out-this-week-5th-11th-october",
+          "titre": "Guide: These 23+ PS5 and PS Plus Games Are Coming Out This Week (5th-11th October)"
+        }
+      ]
+    },
+    {
+      "id": "capcom-plans-to-use-ai-technology-with-re-engine-to-make-gam",
+      "titre": "Capcom Plans to Use AI Technology with RE Engine to Make Games More Efficiently",
+      "url": "https://www.pushsquare.com/news/2026/10/capcom-plans-to-use-ai-technology-with-re-engine-to-make-games-more-efficiently",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/capcom-plans-to-use-ai-technology-with-re-engine-to-make-games-more-efficiently",
+          "titre": "Capcom Plans to Use AI Technology with RE Engine to Make Games More Efficiently"
+        }
+      ]
+    },
+    {
+      "id": "this-week-in-pc-games-star-wars-galactic-racer-hellraiser-re",
+      "titre": "This week in PC games: Star Wars: Galactic Racer, Hellraiser: Revival, and a throwback tycoon game about turning utopias into carparks",
+      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-star-wars-galactic-racer-hellraiser-revival-and-a-throwback-tycoon-game-about-turning-utopias-into-carparks",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-star-wars-galactic-racer-hellraiser-revival-and-a-throwback-tycoon-game-about-turning-utopias-into-carparks",
+          "titre": "This week in PC games: Star Wars: Galactic Racer, Hellraiser: Revival, and a throwback tycoon game about turning utopias into carparks"
+        }
+      ]
+    },
+    {
+      "id": "final-fantasy-resonance-feels-so-good-to-play-because-square",
+      "titre": "Final Fantasy Resonance feels so good to play because Square Enix 'experimented' with combining the best bits of FF5 and FF6",
+      "url": "https://www.eurogamer.net/final-fantasy-resonance-combat-system-ff5-ff6",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/final-fantasy-resonance-combat-system-ff5-ff6",
+          "titre": "Final Fantasy Resonance feels so good to play because Square Enix 'experimented' with combining the best bits of FF5 and FF6"
         }
       ]
     },
@@ -803,7 +1043,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -821,7 +1061,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -839,31 +1079,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/free-to-play-rpg-the-new-denpa-men-is-ending-service-later-this-year",
           "titre": "Free-To-Play RPG 'The New Denpa Men' Is Ending Service Later This Year"
-        }
-      ]
-    },
-    {
-      "id": "although-he-vowed-to-never-work-on-one-without-kojima-snake",
-      "titre": "Although he vowed to never work on one without Kojima, Snake’s Japanese voice actor wants to see another Metal Gear game",
-      "url": "https://www.videogameschronicle.com/news/although-he-vowed-to-never-work-on-one-without-kojima-snakes-japanese-voice-actor-wants-to-see-another-metal-gear-game/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 5.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/although-he-vowed-to-never-work-on-one-without-kojima-snakes-japanese-voice-actor-wants-to-see-another-metal-gear-game/",
-          "titre": "Although he vowed to never work on one without Kojima, Snake’s Japanese voice actor wants to see another Metal Gear game"
         }
       ]
     },
@@ -875,7 +1097,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -884,223 +1106,9 @@ const VEILLE = {
           "titre": "UK Charts: Metroid Prime 4: Beyond Climbs Back Into The Top 10"
         }
       ]
-    },
-    {
-      "id": "we-opted-out-of-some-things-really-early-on-how-the-small-t",
-      "titre": "\"We opted out of some things really early on\": How the small team making No Law plan to make it look as big as Cyberpunk 2077",
-      "url": "https://www.rockpapershotgun.com/we-opted-out-of-some-things-really-early-on-how-the-24-person-team-making-no-law-plan-to-make-it-look-as-big-as-cyberpunk-2077",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 6.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/we-opted-out-of-some-things-really-early-on-how-the-24-person-team-making-no-law-plan-to-make-it-look-as-big-as-cyberpunk-2077",
-          "titre": "\"We opted out of some things really early on\": How the small team making No Law plan to make it look as big as Cyberpunk 2077"
-        }
-      ]
-    },
-    {
-      "id": "capcom-aims-to-enhance-its-propriety-re-engine-with-ai-to-ac",
-      "titre": "Capcom aims to enhance its propriety RE Engine with AI to accelerate efficiency in QA, debugging, and data processing",
-      "url": "https://www.gamesindustry.biz/capcom-aims-to-enhance-its-propriety-re-engine-with-ai-to-accelerate-efficiency-in-qa-debugging-and-data-processing",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 6.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/capcom-aims-to-enhance-its-propriety-re-engine-with-ai-to-accelerate-efficiency-in-qa-debugging-and-data-processing",
-          "titre": "Capcom aims to enhance its propriety RE Engine with AI to accelerate efficiency in QA, debugging, and data processing"
-        }
-      ]
-    },
-    {
-      "id": "arc-raiders-is-getting-a-free-trial-to-celebrate-its-biggest",
-      "titre": "Arc Raiders is getting a free trial to celebrate its biggest update yet",
-      "url": "https://www.eurogamer.net/arc-raiders-free-trial-frozen-trail",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 6.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/arc-raiders-free-trial-frozen-trail",
-          "titre": "Arc Raiders is getting a free trial to celebrate its biggest update yet"
-        }
-      ]
-    },
-    {
-      "id": "warhammer-blood-bowl-is-blood-bowl-3-5-rather-than-a-whole-n",
-      "titre": "Warhammer: Blood Bowl is Blood Bowl 3.5 rather than a whole new game, but based on the beta it's definitely an upgrade",
-      "url": "https://www.pcgamer.com/games/strategy/warhammer-blood-bowl-is-blood-bowl-3-5-rather-than-a-whole-new-game-but-based-on-the-beta-its-definitely-an-upgrade/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/warhammer-blood-bowl-is-blood-bowl-3-5-rather-than-a-whole-new-game-but-based-on-the-beta-its-definitely-an-upgrade/",
-          "titre": "Warhammer: Blood Bowl is Blood Bowl 3.5 rather than a whole new game, but based on the beta it's definitely an upgrade"
-        }
-      ]
-    },
-    {
-      "id": "it-s-easy-to-forget-now-but-the-first-elder-scrolls-game-had",
-      "titre": "It's easy to forget now, but the first Elder Scrolls game had a rough launch back in the day: 'It was a disaster in a lot of ways and somehow built a billion-dollar franchise'",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/its-easy-to-forget-now-but-the-first-elder-scrolls-game-had-a-rough-launch-back-in-the-day-it-was-a-disaster-in-a-lot-of-ways-and-somehow-built-a-billion-dollar-franchise/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-elder-scrolls/its-easy-to-forget-now-but-the-first-elder-scrolls-game-had-a-rough-launch-back-in-the-day-it-was-a-disaster-in-a-lot-of-ways-and-somehow-built-a-billion-dollar-franchise/",
-          "titre": "It's easy to forget now, but the first Elder Scrolls game had a rough launch back in the day: 'It was a disaster in a lot of ways and somehow built a billion-dollar franchise'"
-        }
-      ]
-    },
-    {
-      "id": "garry-newman-responds-to-s-box-criticism-in-lengthy-youtube",
-      "titre": "Garry Newman responds to s&box criticism in lengthy YouTube comment: 'I don't like giving up on things, I am stubborn'",
-      "url": "https://www.pcgamer.com/games/garry-newman-responds-to-s-and-box-criticism-in-lengthy-youtube-comment-i-dont-like-giving-up-on-things-i-am-stubborn/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/garry-newman-responds-to-s-and-box-criticism-in-lengthy-youtube-comment-i-dont-like-giving-up-on-things-i-am-stubborn/",
-          "titre": "Garry Newman responds to s&box criticism in lengthy YouTube comment: 'I don't like giving up on things, I am stubborn'"
-        }
-      ]
-    },
-    {
-      "id": "let-the-heroic-games-begin-fire-emblem-fortune-s-weave-brin",
-      "titre": "\"Let The Heroic Games Begin\" - Fire Emblem: Fortune's Weave Brings The Battle To Tetris 99",
-      "url": "https://www.nintendolife.com/news/2026/10/let-the-heroic-games-begin-fire-emblem-fortunes-weave-brings-the-battle-to-tetris-99",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 16.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/let-the-heroic-games-begin-fire-emblem-fortunes-weave-brings-the-battle-to-tetris-99",
-          "titre": "\"Let The Heroic Games Begin\" - Fire Emblem: Fortune's Weave Brings The Battle To Tetris 99"
-        }
-      ]
-    },
-    {
-      "id": "feature-let-s-flick-through-sammy-s-photos-from-gamescom-and",
-      "titre": "Feature: Let's Flick Through Sammy's Photos from Gamescom and Tokyo Game Show",
-      "url": "https://www.pushsquare.com/features/lets-flick-through-sammys-photos-from-gamescom-and-tokyo-game-show",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 20.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/lets-flick-through-sammys-photos-from-gamescom-and-tokyo-game-show",
-          "titre": "Feature: Let's Flick Through Sammy's Photos from Gamescom and Tokyo Game Show"
-        }
-      ]
-    },
-    {
-      "id": "kingdom-come-deliverance-studio-co-founder-says-a-lot-of-rpg",
-      "titre": "Kingdom Come: Deliverance studio co-founder says a lot of RPGs are 'still games for teenagers,' and that he's 'tired of all the RPGs where you are this chosen one'",
-      "url": "https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-studio-co-founder-says-a-lot-of-rpgs-are-still-games-for-teenagers-and-that-hes-tired-of-all-the-rpgs-where-you-are-this-chosen-one/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-studio-co-founder-says-a-lot-of-rpgs-are-still-games-for-teenagers-and-that-hes-tired-of-all-the-rpgs-where-you-are-this-chosen-one/",
-          "titre": "Kingdom Come: Deliverance studio co-founder says a lot of RPGs are 'still games for teenagers,' and that he's 'tired of all the RPGs where you are this chosen one'"
-        }
-      ]
-    },
-    {
-      "id": "brigador-devs-the-90s-pc-classics-often-taught-really-specia",
-      "titre": "Brigador devs: 'The '90s PC classics often taught really special things, but not because the story said, Wow, violence is bad!'",
-      "url": "https://www.pcgamer.com/games/action/brigador-devs-the-90s-pc-classics-often-taught-really-special-things-but-not-because-the-story-said-wow-violence-is-bad/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/brigador-devs-the-90s-pc-classics-often-taught-really-special-things-but-not-because-the-story-said-wow-violence-is-bad/",
-          "titre": "Brigador devs: 'The '90s PC classics often taught really special things, but not because the story said, Wow, violence is bad!'"
-        }
-      ]
-    },
-    {
-      "id": "dynasty-warriors-producer-would-rather-make-new-games-than-m",
-      "titre": "Dynasty Warriors producer would rather make new games than more remasters",
-      "url": "https://www.eurogamer.net/dynasty-warriors-tomohiko-sho-sequels-not-remasters",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 21.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dynasty-warriors-tomohiko-sho-sequels-not-remasters",
-          "titre": "Dynasty Warriors producer would rather make new games than more remasters"
-        }
-      ]
-    },
-    {
-      "id": "what-does-your-dream-videogame-concert-look-like",
-      "titre": "What does your dream videogame concert look like?",
-      "url": "https://www.pcgamer.com/games/what-does-your-dream-videogame-concert-look-like/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 22.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/what-does-your-dream-videogame-concert-look-like/",
-          "titre": "What does your dream videogame concert look like?"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Ninja Theory developers announce they are facing redundancy, as the studio starts laying off staff following widespread Xbox cuts"
+  ]
 };
