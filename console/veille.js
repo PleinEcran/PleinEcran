@@ -1,20 +1,26 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "05/10/2026 à 16h24",
+  "collecte": "05/10/2026 à 18h27",
   "seuil": 14,
   "sujets": [
     {
-      "id": "ninja-theory-developers-announce-they-are-facing-redundancy",
-      "titre": "Ninja Theory developers announce they are facing redundancy, as the studio starts laying off staff following widespread Xbox cuts",
-      "url": "https://www.eurogamer.net/ninja-theory-hellblade-developers-layoffs-xbox-cuts",
+      "id": "ninja-theory-begins-laying-off-staff-according-to-employee-p",
+      "titre": "Ninja Theory begins laying off staff, according to employee posts",
+      "url": "https://www.gamesindustry.biz/ninja-theory-begins-laying-off-staff-according-to-employee-posts",
       "sources": [
         "Eurogamer",
+        "GamesIndustry.biz",
         "VGC"
       ],
-      "reprises": 2,
-      "heures": 1.5,
-      "chaleur": 14,
+      "reprises": 3,
+      "heures": 0.7,
+      "chaleur": 17,
       "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/ninja-theory-begins-laying-off-staff-according-to-employee-posts",
+          "titre": "Ninja Theory begins laying off staff, according to employee posts"
+        },
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/ninja-theory-hellblade-developers-layoffs-xbox-cuts",
@@ -35,13 +41,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 11,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/dark-pictures-devs-layoffs-have-begun-over-70-staff-reportedly-let-go",
           "titre": "Dark Pictures Dev's Layoffs Have Begun, Over 70 Staff Reportedly Let Go"
+        }
+      ]
+    },
+    {
+      "id": "report-ninja-theory-lays-off-workers-after-failing-to-spin-o",
+      "titre": "Report: Ninja Theory lays off workers after failing to spin off from Xbox",
+      "url": "https://www.gamedeveloper.com/business/report-ninja-theory-lays-off-workers-after-failing-to-spin-off-from-xbox",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/report-ninja-theory-lays-off-workers-after-failing-to-spin-off-from-xbox",
+          "titre": "Report: Ninja Theory lays off workers after failing to spin off from Xbox"
         }
       ]
     },
@@ -53,7 +77,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 9,
       "liens": [
         {
@@ -71,7 +95,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.5,
       "chaleur": 9,
       "liens": [
         {
@@ -82,20 +106,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-writer-says-the-series-has-never-had-much-focus-on-nat",
-      "titre": "GTA 6 writer says the series has never had \"much focus on national politics\" beyond GTA 4's war on terror, and the latest entry won't get \"too specific\"",
-      "url": "https://www.rockpapershotgun.com/gta-6-writer-says-the-series-has-never-had-much-focus-on-national-politics-beyond-gta-4s-war-on-terror-and-the-latest-entry-wont-get-too-specific",
+      "id": "i-wanted-to-challenge-myself-former-warioware-director-talk",
+      "titre": "\"I Wanted To Challenge Myself\" - Former WarioWare Director Talks Life After Nintendo",
+      "url": "https://www.nintendolife.com/news/2026/10/i-wanted-to-challenge-myself-former-warioware-director-talks-life-after-nintendo",
       "sources": [
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 9,
+      "heures": 2.0,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/gta-6-writer-says-the-series-has-never-had-much-focus-on-national-politics-beyond-gta-4s-war-on-terror-and-the-latest-entry-wont-get-too-specific",
-          "titre": "GTA 6 writer says the series has never had \"much focus on national politics\" beyond GTA 4's war on terror, and the latest entry won't get \"too specific\""
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/i-wanted-to-challenge-myself-former-warioware-director-talks-life-after-nintendo",
+          "titre": "\"I Wanted To Challenge Myself\" - Former WarioWare Director Talks Life After Nintendo"
         }
       ]
     },
@@ -107,7 +131,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 8,
       "liens": [
         {
@@ -125,7 +149,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.6,
       "chaleur": 8,
       "liens": [
         {
@@ -143,31 +167,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 4.0,
       "chaleur": 8,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/hellblade-dev-begins-shedding-staff-months-after-revealing-new-game-at-xbox-showcase",
           "titre": "Hellblade Dev Begins Shedding Staff, Months After Revealing New Game at Xbox Showcase"
-        }
-      ]
-    },
-    {
-      "id": "psa-kingdom-hearts-collection-will-collectively-take-up-over",
-      "titre": "PSA: Kingdom Hearts Collection Will Collectively Take Up Over 130GB On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/psa-kingdom-hearts-collection-will-collectively-take-up-over-130gb-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/psa-kingdom-hearts-collection-will-collectively-take-up-over-130gb-on-switch-2",
-          "titre": "PSA: Kingdom Hearts Collection Will Collectively Take Up Over 130GB On Switch 2"
         }
       ]
     },
@@ -179,13 +185,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.2,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/witcher-3-remastered-steam-players-sales",
           "titre": "Millions return to The Witcher 3 as the Remastered game records another Steam personal best and sales skyrocket"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-writer-says-the-series-has-never-had-much-focus-on-nat",
+      "titre": "GTA 6 writer says the series has never had \"much focus on national politics\" beyond GTA 4's war on terror, and the latest entry won't get \"too specific\"",
+      "url": "https://www.rockpapershotgun.com/gta-6-writer-says-the-series-has-never-had-much-focus-on-national-politics-beyond-gta-4s-war-on-terror-and-the-latest-entry-wont-get-too-specific",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/gta-6-writer-says-the-series-has-never-had-much-focus-on-national-politics-beyond-gta-4s-war-on-terror-and-the-latest-entry-wont-get-too-specific",
+          "titre": "GTA 6 writer says the series has never had \"much focus on national politics\" beyond GTA 4's war on terror, and the latest entry won't get \"too specific\""
         }
       ]
     },
@@ -198,7 +222,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.0,
+      "heures": 7.1,
       "chaleur": 7,
       "liens": [
         {
@@ -222,7 +246,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 7,
       "liens": [
         {
@@ -245,7 +269,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.5,
       "chaleur": 7,
       "liens": [
         {
@@ -263,7 +287,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.5,
       "chaleur": 7,
       "liens": [
         {
@@ -454,20 +478,164 @@ const VEILLE = {
       ]
     },
     {
-      "id": "london-games-festival",
-      "titre": "London Games Festival",
-      "url": "https://www.gamedeveloper.comgames.london",
+      "id": "free-to-play-playtime-is-broadly-flat-as-gacha-rpgs-drive-pc",
+      "titre": "Free-to-play playtime is broadly flat as gacha RPGs drive PC growth, says Newzoo",
+      "url": "https://www.gamesindustry.biz/free-to-play-playtime-is-broadly-flat-as-gacha-rpgs-drive-pc-growth-says-newzoo",
       "sources": [
-        "Game Developer"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 1.2,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.comgames.london",
-          "titre": "London Games Festival"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/free-to-play-playtime-is-broadly-flat-as-gacha-rpgs-drive-pc-growth-says-newzoo",
+          "titre": "Free-to-play playtime is broadly flat as gacha RPGs drive PC growth, says Newzoo"
+        }
+      ]
+    },
+    {
+      "id": "arc-raiders-and-the-finals-are-getting-film-and-tv-adaptatio",
+      "titre": "Arc Raiders and The Finals are getting film and TV adaptations in collaboration with the Backrooms production company",
+      "url": "https://www.eurogamer.net/arc-raiders-the-finals-film-tv-show-backrooms",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/arc-raiders-the-finals-film-tv-show-backrooms",
+          "titre": "Arc Raiders and The Finals are getting film and TV adaptations in collaboration with the Backrooms production company"
+        }
+      ]
+    },
+    {
+      "id": "another-major-ps5-game-will-be-delisted-in-october-2026",
+      "titre": "Another Major PS5 Game Will Be Delisted in October 2026",
+      "url": "https://www.pushsquare.com/news/2026/10/another-major-ps5-game-will-be-delisted-in-october-2026",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/another-major-ps5-game-will-be-delisted-in-october-2026",
+          "titre": "Another Major PS5 Game Will Be Delisted in October 2026"
+        }
+      ]
+    },
+    {
+      "id": "i-am-cavorting-with-a-gazelle-s-grace-in-grand-theft-auto-5",
+      "titre": "I am cavorting with a gazelle's grace in Grand Theft Auto 5",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-am-cavorting-with-a-gazelles-grace-in-grand-theft-auto-5/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-am-cavorting-with-a-gazelles-grace-in-grand-theft-auto-5/",
+          "titre": "I am cavorting with a gazelle's grace in Grand Theft Auto 5"
+        }
+      ]
+    },
+    {
+      "id": "aion-2-splendent-ruby-location-upgrade-essence-extraction-sp",
+      "titre": "Aion 2: Splendent Ruby location, Upgrade Essence Extraction Speciality quest guide",
+      "url": "https://www.videogameschronicle.com/guide/aion-2-splendent-ruby-location-upgrade-essence-extraction-speciality-quest-guide/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/aion-2-splendent-ruby-location-upgrade-essence-extraction-speciality-quest-guide/",
+          "titre": "Aion 2: Splendent Ruby location, Upgrade Essence Extraction Speciality quest guide"
+        }
+      ]
+    },
+    {
+      "id": "the-final-showdown-motion-blur-vs-chromatic-aberration",
+      "titre": "The final showdown: Motion blur vs chromatic aberration",
+      "url": "https://www.pcgamer.com/hardware/the-final-showdown-motion-blur-vs-chromatic-aberration/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/the-final-showdown-motion-blur-vs-chromatic-aberration/",
+          "titre": "The final showdown: Motion blur vs chromatic aberration"
+        }
+      ]
+    },
+    {
+      "id": "developer-gets-a-little-too-silly-recommends-deadly-psychoac",
+      "titre": "Developer gets a little too silly, recommends deadly psychoactive ingredient in its bad boy-themed cocktail",
+      "url": "https://www.pcgamer.com/games/adventure/developer-gets-a-little-too-silly-recommends-deadly-psychoactive-ingredient-in-its-bad-boy-themed-cocktail/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/adventure/developer-gets-a-little-too-silly-recommends-deadly-psychoactive-ingredient-in-its-bad-boy-themed-cocktail/",
+          "titre": "Developer gets a little too silly, recommends deadly psychoactive ingredient in its bad boy-themed cocktail"
+        }
+      ]
+    },
+    {
+      "id": "noematica-is-a-lucid-dreamer-s-n-dimensional-take-on-the-sim",
+      "titre": "Noematica is a lucid dreamer's \"n-dimensional\" take on The Sims that proudly boasts it will never ever gouge you for DLC",
+      "url": "https://www.rockpapershotgun.com/noematica-is-a-lucid-dreamers-n-dimensional-take-on-the-sims-that-proudly-boasts-it-will-never-ever-gouge-you-for-dlc",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/noematica-is-a-lucid-dreamers-n-dimensional-take-on-the-sims-that-proudly-boasts-it-will-never-ever-gouge-you-for-dlc",
+          "titre": "Noematica is a lucid dreamer's \"n-dimensional\" take on The Sims that proudly boasts it will never ever gouge you for DLC"
+        }
+      ]
+    },
+    {
+      "id": "the-upcoming-d-d-interpretation-of-world-of-warcraft-sounds",
+      "titre": "The upcoming D&D interpretation of World of Warcraft sounds great, but don't expect it to work like the MMO does",
+      "url": "https://www.eurogamer.net/dungeons-and-dragons-dnd-world-of-warcraft-wow-book",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dungeons-and-dragons-dnd-world-of-warcraft-wow-book",
+          "titre": "The upcoming D&D interpretation of World of Warcraft sounds great, but don't expect it to work like the MMO does"
         }
       ]
     },
@@ -479,7 +647,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -497,7 +665,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -515,7 +683,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -533,7 +701,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -551,31 +719,13 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/design/why-it-s-still-worth-making-immersive-sims-ft-harvey-smith-ben-horne",
           "titre": "Why it's still worth making immersive sims ft. Harvey Smith & Ben Horne"
-        }
-      ]
-    },
-    {
-      "id": "aion-2-essence-extraction-guide-upgrading-essence-extraction",
-      "titre": "Aion 2 Essence Extraction guide: Upgrading Essence Extraction and success rates",
-      "url": "https://www.videogameschronicle.com/guide/aion-2-essence-extraction-guide-upgrading-essence-extraction-and-success-rates/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 0.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/aion-2-essence-extraction-guide-upgrading-essence-extraction-and-success-rates/",
-          "titre": "Aion 2 Essence Extraction guide: Upgrading Essence Extraction and success rates"
         }
       ]
     },
@@ -587,7 +737,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -605,7 +755,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -623,7 +773,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -634,182 +784,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "aion-2-factions-best-faction-to-choose-elyos-or-asmodians",
-      "titre": "Aion 2 Factions: Best Faction to choose, Elyos or Asmodians",
-      "url": "https://www.videogameschronicle.com/guide/aion-2-factions-best-faction-to-choose-elyos-or-asmodians/",
+      "id": "psa-kingdom-hearts-collection-will-collectively-take-up-over",
+      "titre": "PSA: Kingdom Hearts Collection Will Collectively Take Up Over 130GB On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/psa-kingdom-hearts-collection-will-collectively-take-up-over-130gb-on-switch-2",
       "sources": [
-        "VGC"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.2,
+      "heures": 6.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/aion-2-factions-best-faction-to-choose-elyos-or-asmodians/",
-          "titre": "Aion 2 Factions: Best Faction to choose, Elyos or Asmodians"
-        }
-      ]
-    },
-    {
-      "id": "disappointment-as-kingdom-hearts-ps5-pulls-back-platinum-tro",
-      "titre": "Disappointment as Kingdom Hearts PS5 Pulls Back Platinum Trophies",
-      "url": "https://www.pushsquare.com/news/2026/10/disappointment-as-kingdom-hearts-ps5-pulls-back-platinum-trophies",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/disappointment-as-kingdom-hearts-ps5-pulls-back-platinum-trophies",
-          "titre": "Disappointment as Kingdom Hearts PS5 Pulls Back Platinum Trophies"
-        }
-      ]
-    },
-    {
-      "id": "sony-introduces-ai-upscaling-to-base-ps5-marvel-s-wolverine",
-      "titre": "Sony introduces AI upscaling to base PS5; Marvel's Wolverine and Ghost of Yōtei are first games to implement new tech",
-      "url": "https://www.gamesindustry.biz/sony-introduces-ai-upscaling-to-base-ps5-marvels-wolverine-and-ghost-of-yotei-are-first-games-to-implement-new-tech",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/sony-introduces-ai-upscaling-to-base-ps5-marvels-wolverine-and-ghost-of-yotei-are-first-games-to-implement-new-tech",
-          "titre": "Sony introduces AI upscaling to base PS5; Marvel's Wolverine and Ghost of Yōtei are first games to implement new tech"
-        }
-      ]
-    },
-    {
-      "id": "it-s-less-risky-to-be-the-masters-of-our-own-fate-the-aaa-d",
-      "titre": "\"It's less risky to be the masters of our own fate\" – The AAA developers going indie",
-      "url": "https://www.gamesindustry.biz/its-less-risky-to-be-the-masters-of-our-own-fate-the-aaa-developers-going-indie",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/its-less-risky-to-be-the-masters-of-our-own-fate-the-aaa-developers-going-indie",
-          "titre": "\"It's less risky to be the masters of our own fate\" – The AAA developers going indie"
-        }
-      ]
-    },
-    {
-      "id": "capcom-s-remake-machine-is-ticking-away-only-problem-is-that",
-      "titre": "Capcom's remake machine is ticking away, only problem is that means revisiting Resident Evil 5 and 6",
-      "url": "https://www.pcgamer.com/games/resident-evil/capcoms-remake-machine-is-ticking-away-only-problem-is-that-means-revisiting-resident-evil-5-and-6/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/resident-evil/capcoms-remake-machine-is-ticking-away-only-problem-is-that-means-revisiting-resident-evil-5-and-6/",
-          "titre": "Capcom's remake machine is ticking away, only problem is that means revisiting Resident Evil 5 and 6"
-        }
-      ]
-    },
-    {
-      "id": "review-dune-awakening-ps5-what-a-time-to-be-a-duner",
-      "titre": "Review: Dune: Awakening (PS5) - What a Time to Be a Duner",
-      "url": "https://www.pushsquare.com/reviews/ps5/dune-awakening",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/dune-awakening",
-          "titre": "Review: Dune: Awakening (PS5) - What a Time to Be a Duner"
-        }
-      ]
-    },
-    {
-      "id": "sword-sage-awakening-feels-like-a-breezier-kind-of-soulslike",
-      "titre": "Sword Sage: Awakening feels like a breezier kind of Soulslike, and it's not just the adorable tea-serving panda that's got me intrigued",
-      "url": "https://www.eurogamer.net/sword-sage-awakening-gamescom-preview",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sword-sage-awakening-gamescom-preview",
-          "titre": "Sword Sage: Awakening feels like a breezier kind of Soulslike, and it's not just the adorable tea-serving panda that's got me intrigued"
-        }
-      ]
-    },
-    {
-      "id": "dragon-s-dogma-2-dark-arisen-devs-explain-why-they-re-not-ab",
-      "titre": "Dragon’s Dogma 2: Dark Arisen devs explain why they’re not abandoning the ‘friction’ that makes it special",
-      "url": "https://www.videogameschronicle.com/features/interviews/dragons-dogma-2-dark-arisen/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/interviews/dragons-dogma-2-dark-arisen/",
-          "titre": "Dragon’s Dogma 2: Dark Arisen devs explain why they’re not abandoning the ‘friction’ that makes it special"
-        }
-      ]
-    },
-    {
-      "id": "feature-last-chance-to-buy-these-40-ps5-ps4-games-in-ps-stor",
-      "titre": "Feature: Last Chance to Buy These 40+ PS5, PS4 Games in PS Store's Autumn Adventures Sale",
-      "url": "https://www.pushsquare.com/features/last-chance-to-buy-these-40plus-ps5-ps4-games-in-ps-stores-autumn-adventures-sale",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/last-chance-to-buy-these-40plus-ps5-ps4-games-in-ps-stores-autumn-adventures-sale",
-          "titre": "Feature: Last Chance to Buy These 40+ PS5, PS4 Games in PS Store's Autumn Adventures Sale"
-        }
-      ]
-    },
-    {
-      "id": "dead-by-daylight-studio-is-hiring-for-a-triple-a-sci-fi-firs",
-      "titre": "Dead by Daylight studio is hiring for a triple-A Sci-Fi first-person shooter with \"a high realism bar\"",
-      "url": "https://www.eurogamer.net/dead-by-daylight-behaviour-interactive-triple-a-sci-fi-shooter",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dead-by-daylight-behaviour-interactive-triple-a-sci-fi-shooter",
-          "titre": "Dead by Daylight studio is hiring for a triple-A Sci-Fi first-person shooter with \"a high realism bar\""
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/psa-kingdom-hearts-collection-will-collectively-take-up-over-130gb-on-switch-2",
+          "titre": "PSA: Kingdom Hearts Collection Will Collectively Take Up Over 130GB On Switch 2"
         }
       ]
     },
@@ -821,7 +809,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 6,
       "liens": [
         {
@@ -839,7 +827,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.5,
       "chaleur": 6,
       "liens": [
         {
@@ -857,7 +845,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.6,
       "chaleur": 6,
       "liens": [
         {
@@ -876,7 +864,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 26.8,
+      "heures": 28.8,
       "chaleur": 6,
       "liens": [
         {
@@ -899,13 +887,193 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/minecraft-dungeons-ii",
           "titre": "Review: Minecraft Dungeons II (Switch 2) - A Fun But Flawed Dungeon-Crawling Sequel With Great Co-Op"
+        }
+      ]
+    },
+    {
+      "id": "aion-2-factions-best-faction-to-choose-elyos-or-asmodians",
+      "titre": "Aion 2 Factions: Best Faction to choose, Elyos or Asmodians",
+      "url": "https://www.videogameschronicle.com/guide/aion-2-factions-best-faction-to-choose-elyos-or-asmodians/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/aion-2-factions-best-faction-to-choose-elyos-or-asmodians/",
+          "titre": "Aion 2 Factions: Best Faction to choose, Elyos or Asmodians"
+        }
+      ]
+    },
+    {
+      "id": "disappointment-as-kingdom-hearts-ps5-pulls-back-platinum-tro",
+      "titre": "Disappointment as Kingdom Hearts PS5 Pulls Back Platinum Trophies",
+      "url": "https://www.pushsquare.com/news/2026/10/disappointment-as-kingdom-hearts-ps5-pulls-back-platinum-trophies",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/disappointment-as-kingdom-hearts-ps5-pulls-back-platinum-trophies",
+          "titre": "Disappointment as Kingdom Hearts PS5 Pulls Back Platinum Trophies"
+        }
+      ]
+    },
+    {
+      "id": "sony-introduces-ai-upscaling-to-base-ps5-marvel-s-wolverine",
+      "titre": "Sony introduces AI upscaling to base PS5; Marvel's Wolverine and Ghost of Yōtei are first games to implement new tech",
+      "url": "https://www.gamesindustry.biz/sony-introduces-ai-upscaling-to-base-ps5-marvels-wolverine-and-ghost-of-yotei-are-first-games-to-implement-new-tech",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/sony-introduces-ai-upscaling-to-base-ps5-marvels-wolverine-and-ghost-of-yotei-are-first-games-to-implement-new-tech",
+          "titre": "Sony introduces AI upscaling to base PS5; Marvel's Wolverine and Ghost of Yōtei are first games to implement new tech"
+        }
+      ]
+    },
+    {
+      "id": "it-s-less-risky-to-be-the-masters-of-our-own-fate-the-aaa-d",
+      "titre": "\"It's less risky to be the masters of our own fate\" – The AAA developers going indie",
+      "url": "https://www.gamesindustry.biz/its-less-risky-to-be-the-masters-of-our-own-fate-the-aaa-developers-going-indie",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/its-less-risky-to-be-the-masters-of-our-own-fate-the-aaa-developers-going-indie",
+          "titre": "\"It's less risky to be the masters of our own fate\" – The AAA developers going indie"
+        }
+      ]
+    },
+    {
+      "id": "capcom-s-remake-machine-is-ticking-away-only-problem-is-that",
+      "titre": "Capcom's remake machine is ticking away, only problem is that means revisiting Resident Evil 5 and 6",
+      "url": "https://www.pcgamer.com/games/resident-evil/capcoms-remake-machine-is-ticking-away-only-problem-is-that-means-revisiting-resident-evil-5-and-6/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/resident-evil/capcoms-remake-machine-is-ticking-away-only-problem-is-that-means-revisiting-resident-evil-5-and-6/",
+          "titre": "Capcom's remake machine is ticking away, only problem is that means revisiting Resident Evil 5 and 6"
+        }
+      ]
+    },
+    {
+      "id": "review-dune-awakening-ps5-what-a-time-to-be-a-duner",
+      "titre": "Review: Dune: Awakening (PS5) - What a Time to Be a Duner",
+      "url": "https://www.pushsquare.com/reviews/ps5/dune-awakening",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/dune-awakening",
+          "titre": "Review: Dune: Awakening (PS5) - What a Time to Be a Duner"
+        }
+      ]
+    },
+    {
+      "id": "sword-sage-awakening-feels-like-a-breezier-kind-of-soulslike",
+      "titre": "Sword Sage: Awakening feels like a breezier kind of Soulslike, and it's not just the adorable tea-serving panda that's got me intrigued",
+      "url": "https://www.eurogamer.net/sword-sage-awakening-gamescom-preview",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/sword-sage-awakening-gamescom-preview",
+          "titre": "Sword Sage: Awakening feels like a breezier kind of Soulslike, and it's not just the adorable tea-serving panda that's got me intrigued"
+        }
+      ]
+    },
+    {
+      "id": "dragon-s-dogma-2-dark-arisen-devs-explain-why-they-re-not-ab",
+      "titre": "Dragon’s Dogma 2: Dark Arisen devs explain why they’re not abandoning the ‘friction’ that makes it special",
+      "url": "https://www.videogameschronicle.com/features/interviews/dragons-dogma-2-dark-arisen/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/features/interviews/dragons-dogma-2-dark-arisen/",
+          "titre": "Dragon’s Dogma 2: Dark Arisen devs explain why they’re not abandoning the ‘friction’ that makes it special"
+        }
+      ]
+    },
+    {
+      "id": "feature-last-chance-to-buy-these-40-ps5-ps4-games-in-ps-stor",
+      "titre": "Feature: Last Chance to Buy These 40+ PS5, PS4 Games in PS Store's Autumn Adventures Sale",
+      "url": "https://www.pushsquare.com/features/last-chance-to-buy-these-40plus-ps5-ps4-games-in-ps-stores-autumn-adventures-sale",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/last-chance-to-buy-these-40plus-ps5-ps4-games-in-ps-stores-autumn-adventures-sale",
+          "titre": "Feature: Last Chance to Buy These 40+ PS5, PS4 Games in PS Store's Autumn Adventures Sale"
+        }
+      ]
+    },
+    {
+      "id": "dead-by-daylight-studio-is-hiring-for-a-triple-a-sci-fi-firs",
+      "titre": "Dead by Daylight studio is hiring for a triple-A Sci-Fi first-person shooter with \"a high realism bar\"",
+      "url": "https://www.eurogamer.net/dead-by-daylight-behaviour-interactive-triple-a-sci-fi-shooter",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dead-by-daylight-behaviour-interactive-triple-a-sci-fi-shooter",
+          "titre": "Dead by Daylight studio is hiring for a triple-A Sci-Fi first-person shooter with \"a high realism bar\""
         }
       ]
     },
@@ -917,7 +1085,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +1103,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -944,171 +1112,9 @@ const VEILLE = {
           "titre": "\"Coders will never forgive me for this level\": Warhammer 40,000: Boltgun 2 has a rotatable \"fleshmetal\" puzzle map that drove its own development team crazy"
         }
       ]
-    },
-    {
-      "id": "nba-2k25-sounds-the-buzzer-on-its-best-game-modes-with-a-del",
-      "titre": "NBA 2K25 Sounds The Buzzer On Its Best Game Modes, With A Delist & Server Shutdown Inbound",
-      "url": "https://www.nintendolife.com/news/2026/10/nba-2k25-sounds-the-buzzer-on-its-best-game-modes-with-a-delist-and-server-shutdown-inbound",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 4.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nba-2k25-sounds-the-buzzer-on-its-best-game-modes-with-a-delist-and-server-shutdown-inbound",
-          "titre": "NBA 2K25 Sounds The Buzzer On Its Best Game Modes, With A Delist & Server Shutdown Inbound"
-        }
-      ]
-    },
-    {
-      "id": "guide-these-23-ps5-and-ps-plus-games-are-coming-out-this-wee",
-      "titre": "Guide: These 23+ PS5 and PS Plus Games Are Coming Out This Week (5th-11th October)",
-      "url": "https://www.pushsquare.com/guides/these-23plus-ps5-and-ps-plus-games-are-coming-out-this-week-5th-11th-october",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 4.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/these-23plus-ps5-and-ps-plus-games-are-coming-out-this-week-5th-11th-october",
-          "titre": "Guide: These 23+ PS5 and PS Plus Games Are Coming Out This Week (5th-11th October)"
-        }
-      ]
-    },
-    {
-      "id": "capcom-plans-to-use-ai-technology-with-re-engine-to-make-gam",
-      "titre": "Capcom Plans to Use AI Technology with RE Engine to Make Games More Efficiently",
-      "url": "https://www.pushsquare.com/news/2026/10/capcom-plans-to-use-ai-technology-with-re-engine-to-make-games-more-efficiently",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 4.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/capcom-plans-to-use-ai-technology-with-re-engine-to-make-games-more-efficiently",
-          "titre": "Capcom Plans to Use AI Technology with RE Engine to Make Games More Efficiently"
-        }
-      ]
-    },
-    {
-      "id": "this-week-in-pc-games-star-wars-galactic-racer-hellraiser-re",
-      "titre": "This week in PC games: Star Wars: Galactic Racer, Hellraiser: Revival, and a throwback tycoon game about turning utopias into carparks",
-      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-star-wars-galactic-racer-hellraiser-revival-and-a-throwback-tycoon-game-about-turning-utopias-into-carparks",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 5.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-star-wars-galactic-racer-hellraiser-revival-and-a-throwback-tycoon-game-about-turning-utopias-into-carparks",
-          "titre": "This week in PC games: Star Wars: Galactic Racer, Hellraiser: Revival, and a throwback tycoon game about turning utopias into carparks"
-        }
-      ]
-    },
-    {
-      "id": "final-fantasy-resonance-feels-so-good-to-play-because-square",
-      "titre": "Final Fantasy Resonance feels so good to play because Square Enix 'experimented' with combining the best bits of FF5 and FF6",
-      "url": "https://www.eurogamer.net/final-fantasy-resonance-combat-system-ff5-ff6",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 5.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/final-fantasy-resonance-combat-system-ff5-ff6",
-          "titre": "Final Fantasy Resonance feels so good to play because Square Enix 'experimented' with combining the best bits of FF5 and FF6"
-        }
-      ]
-    },
-    {
-      "id": "disney-president-and-cco-dismisses-rumours-of-epic-games-buy",
-      "titre": "Disney president and CCO dismisses rumours of Epic Games buyout: \"Those are not the conversations we are having right now\"",
-      "url": "https://www.gamesindustry.biz/disney-president-and-cco-dismisses-rumours-of-epic-games-buyout-those-are-not-the-conversations-we-are-having-right-now",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 6.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/disney-president-and-cco-dismisses-rumours-of-epic-games-buyout-those-are-not-the-conversations-we-are-having-right-now",
-          "titre": "Disney president and CCO dismisses rumours of Epic Games buyout: \"Those are not the conversations we are having right now\""
-        }
-      ]
-    },
-    {
-      "id": "nba-2k25-is-being-delisted-later-this-month-servers-includin",
-      "titre": "NBA 2K25 is being delisted later this month, servers (including single-player story mode) shut down at the end of the year",
-      "url": "https://www.videogameschronicle.com/news/nba-2k25-is-being-delisted-later-this-month-servers-including-single-player-story-mode-shut-down-at-the-end-of-the-year/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/nba-2k25-is-being-delisted-later-this-month-servers-including-single-player-story-mode-shut-down-at-the-end-of-the-year/",
-          "titre": "NBA 2K25 is being delisted later this month, servers (including single-player story mode) shut down at the end of the year"
-        }
-      ]
-    },
-    {
-      "id": "free-to-play-rpg-the-new-denpa-men-is-ending-service-later-t",
-      "titre": "Free-To-Play RPG 'The New Denpa Men' Is Ending Service Later This Year",
-      "url": "https://www.nintendolife.com/news/2026/10/free-to-play-rpg-the-new-denpa-men-is-ending-service-later-this-year",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/free-to-play-rpg-the-new-denpa-men-is-ending-service-later-this-year",
-          "titre": "Free-To-Play RPG 'The New Denpa Men' Is Ending Service Later This Year"
-        }
-      ]
-    },
-    {
-      "id": "uk-charts-metroid-prime-4-beyond-climbs-back-into-the-top-10",
-      "titre": "UK Charts: Metroid Prime 4: Beyond Climbs Back Into The Top 10",
-      "url": "https://www.nintendolife.com/news/2026/10/uk-charts-metroid-prime-4-beyond-climbs-back-into-the-top-10",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 7.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/uk-charts-metroid-prime-4-beyond-climbs-back-into-the-top-10",
-          "titre": "UK Charts: Metroid Prime 4: Beyond Climbs Back Into The Top 10"
-        }
-      ]
     }
   ],
   "alertes": [
-    "Ninja Theory developers announce they are facing redundancy, as the studio starts laying off staff following widespread Xbox cuts"
+    "Ninja Theory begins laying off staff, according to employee posts"
   ]
 };
