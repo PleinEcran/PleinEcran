@@ -1,38 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "04/10/2026 à 22h20",
+  "collecte": "05/10/2026 à 00h31",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "capcom-is-looking-to-evolve-its-re-engine-into-an-ai-era-gam",
-      "titre": "Capcom Is Looking To Evolve Its RE Engine Into An 'AI-Era Game Engine'",
-      "url": "https://www.nintendolife.com/news/2026/10/capcom-is-looking-to-evolve-its-re-engine-into-an-ai-era-game-engine",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 11.1,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/capcom-is-looking-to-evolve-its-re-engine-into-an-ai-era-game-engine",
-          "titre": "Capcom Is Looking To Evolve Its RE Engine Into An 'AI-Era Game Engine'"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
-          "titre": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\""
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/capcom-details-plans-to-evolve-re-engine-into-an-ai-generation-game-engine/",
-          "titre": "Capcom details plans to evolve RE Engine into an ‘AI game engine’"
-        }
-      ]
-    },
     {
       "id": "video-15-exciting-new-games-coming-to-switch-1-2-in-october",
       "titre": "Video: 15 Exciting New Games Coming To Switch 1 & 2 In October 2026",
@@ -42,7 +12,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 21.3,
+      "heures": 23.4,
       "chaleur": 8,
       "liens": [
         {
@@ -66,7 +36,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 8.7,
+      "heures": 10.9,
       "chaleur": 7,
       "liens": [
         {
@@ -78,30 +48,6 @@ const VEILLE = {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/platinumgames-comments-on-the-future-of-bayonetta",
           "titre": "PlatinumGames Comments On The Future Of Bayonetta"
-        }
-      ]
-    },
-    {
-      "id": "fourth-runescape-officially-revealed",
-      "titre": "Fourth RuneScape officially revealed",
-      "url": "https://www.eurogamer.net/jagex-runescape-4-mmo-unreal-engine-animated-series-moistcr1tikal",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 11.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/jagex-runescape-4-mmo-unreal-engine-animated-series-moistcr1tikal",
-          "titre": "Fourth RuneScape officially revealed"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/jagex-has-officially-announced-runescape-4/",
-          "titre": "Jagex has officially announced RuneScape 4"
         }
       ]
     },
@@ -322,20 +268,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "feature-let-s-flick-through-sammy-s-photos-from-gamescom-and",
-      "titre": "Feature: Let's Flick Through Sammy's Photos from Gamescom and Tokyo Game Show",
-      "url": "https://www.pushsquare.com/features/lets-flick-through-sammys-photos-from-gamescom-and-tokyo-game-show",
+      "id": "garry-newman-responds-to-s-box-criticism-in-lengthy-youtube",
+      "titre": "Garry Newman responds to s&box criticism in lengthy YouTube comment: 'I don't like giving up on things, I am stubborn'",
+      "url": "https://www.pcgamer.com/games/garry-newman-responds-to-s-and-box-criticism-in-lengthy-youtube-comment-i-dont-like-giving-up-on-things-i-am-stubborn/",
       "sources": [
-        "Push Square"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.8,
+      "heures": 1.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/lets-flick-through-sammys-photos-from-gamescom-and-tokyo-game-show",
-          "titre": "Feature: Let's Flick Through Sammy's Photos from Gamescom and Tokyo Game Show"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/garry-newman-responds-to-s-and-box-criticism-in-lengthy-youtube-comment-i-dont-like-giving-up-on-things-i-am-stubborn/",
+          "titre": "Garry Newman responds to s&box criticism in lengthy YouTube comment: 'I don't like giving up on things, I am stubborn'"
+        }
+      ]
+    },
+    {
+      "id": "let-the-heroic-games-begin-fire-emblem-fortune-s-weave-brin",
+      "titre": "\"Let The Heroic Games Begin\" - Fire Emblem: Fortune's Weave Brings The Battle To Tetris 99",
+      "url": "https://www.nintendolife.com/news/2026/10/let-the-heroic-games-begin-fire-emblem-fortunes-weave-brings-the-battle-to-tetris-99",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/let-the-heroic-games-begin-fire-emblem-fortunes-weave-brings-the-battle-to-tetris-99",
+          "titre": "\"Let The Heroic Games Begin\" - Fire Emblem: Fortune's Weave Brings The Battle To Tetris 99"
         }
       ]
     },
@@ -347,7 +311,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.5,
       "chaleur": 6,
       "liens": [
         {
@@ -358,20 +322,50 @@ const VEILLE = {
       ]
     },
     {
-      "id": "a-colossal-upgrade-digital-foundry-delivers-its-tech-verdic",
-      "titre": "\"A Colossal Upgrade\" - Digital Foundry Delivers Its Tech Verdict For The Witcher 3 Remastered On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/a-colossal-upgrade-digital-foundry-delivers-its-tech-verdict-for-the-witcher-3-remastered-on-switch-2",
+      "id": "capcom-is-looking-to-evolve-its-re-engine-into-an-ai-era-gam",
+      "titre": "Capcom Is Looking To Evolve Its RE Engine Into An 'AI-Era Game Engine'",
+      "url": "https://www.nintendolife.com/news/2026/10/capcom-is-looking-to-evolve-its-re-engine-into-an-ai-era-game-engine",
       "sources": [
+        "Eurogamer",
         "Nintendo Life"
       ],
-      "reprises": 1,
-      "heures": 11.8,
+      "reprises": 2,
+      "heures": 13.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/a-colossal-upgrade-digital-foundry-delivers-its-tech-verdict-for-the-witcher-3-remastered-on-switch-2",
-          "titre": "\"A Colossal Upgrade\" - Digital Foundry Delivers Its Tech Verdict For The Witcher 3 Remastered On Switch 2"
+          "url": "https://www.nintendolife.com/news/2026/10/capcom-is-looking-to-evolve-its-re-engine-into-an-ai-era-game-engine",
+          "titre": "Capcom Is Looking To Evolve Its RE Engine Into An 'AI-Era Game Engine'"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
+          "titre": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\""
+        }
+      ]
+    },
+    {
+      "id": "fourth-runescape-officially-revealed",
+      "titre": "Fourth RuneScape officially revealed",
+      "url": "https://www.eurogamer.net/jagex-runescape-4-mmo-unreal-engine-animated-series-moistcr1tikal",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 13.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/jagex-runescape-4-mmo-unreal-engine-animated-series-moistcr1tikal",
+          "titre": "Fourth RuneScape officially revealed"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/jagex-has-officially-announced-runescape-4/",
+          "titre": "Jagex has officially announced RuneScape 4"
         }
       ]
     },
@@ -384,7 +378,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 12.1,
+      "heures": 14.3,
       "chaleur": 6,
       "liens": [
         {
@@ -407,13 +401,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.1,
+      "heures": 21.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/",
           "titre": "GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'"
+        }
+      ]
+    },
+    {
+      "id": "a-colossal-upgrade-digital-foundry-delivers-its-tech-verdic",
+      "titre": "\"A Colossal Upgrade\" - Digital Foundry Delivers Its Tech Verdict For The Witcher 3 Remastered On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/a-colossal-upgrade-digital-foundry-delivers-its-tech-verdict-for-the-witcher-3-remastered-on-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 14.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/a-colossal-upgrade-digital-foundry-delivers-its-tech-verdict-for-the-witcher-3-remastered-on-switch-2",
+          "titre": "\"A Colossal Upgrade\" - Digital Foundry Delivers Its Tech Verdict For The Witcher 3 Remastered On Switch 2"
         }
       ]
     },
@@ -425,7 +437,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.0,
+      "heures": 25.2,
       "chaleur": 5,
       "liens": [
         {
@@ -443,13 +455,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 33.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/the-results-of-our-2026-switch-2-summer-survey-are-in",
           "titre": "Feature: The Results Of Our 2026 Switch 2 Summer Survey Are In"
+        }
+      ]
+    },
+    {
+      "id": "feature-let-s-flick-through-sammy-s-photos-from-gamescom-and",
+      "titre": "Feature: Let's Flick Through Sammy's Photos from Gamescom and Tokyo Game Show",
+      "url": "https://www.pushsquare.com/features/lets-flick-through-sammys-photos-from-gamescom-and-tokyo-game-show",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/lets-flick-through-sammys-photos-from-gamescom-and-tokyo-game-show",
+          "titre": "Feature: Let's Flick Through Sammy's Photos from Gamescom and Tokyo Game Show"
         }
       ]
     },
@@ -461,7 +491,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -479,7 +509,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -497,7 +527,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -515,7 +545,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -533,7 +563,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -551,7 +581,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -569,7 +599,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -587,7 +617,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -605,7 +635,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -623,7 +653,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -641,7 +671,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -659,8 +689,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -677,8 +707,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -695,8 +725,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -713,8 +743,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -731,8 +761,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -749,7 +779,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -767,7 +797,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -785,7 +815,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +833,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.1,
+      "heures": 23.3,
       "chaleur": 3,
       "liens": [
         {
@@ -839,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.7,
+      "heures": 25.8,
       "chaleur": 3,
       "liens": [
         {
@@ -857,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.6,
+      "heures": 26.8,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +905,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.8,
+      "heures": 28.0,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +923,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 26.1,
+      "heures": 28.3,
       "chaleur": 3,
       "liens": [
         {
@@ -911,31 +941,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.8,
+      "heures": 29.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/yet-more-ps5-security-concerns-as-another-high-profile-account-is-hacked",
           "titre": "Yet More PS5 Security Concerns as Another High-Profile Account Is Hacked"
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-s-remaster-just-brought-it-to-a-new-all-time-c",
-      "titre": "The Witcher 3's remaster just brought it to a new all-time concurrent player count peak",
-      "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3s-remaster-just-brought-it-to-a-new-all-time-concurrent-player-count-peak/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 29.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3s-remaster-just-brought-it-to-a-new-all-time-concurrent-player-count-peak/",
-          "titre": "The Witcher 3's remaster just brought it to a new all-time concurrent player count peak"
         }
       ]
     },
@@ -947,85 +959,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.9,
+      "heures": 32.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/sony-battlefield-movie-christopher-mcquarrie-michael-b-jordan",
           "titre": "Sony in talks to land Battlefield movie from Christopher McQuarrie and Michael B. Jordan"
-        }
-      ]
-    },
-    {
-      "id": "metro-redux-s-next-gen-update-arrives-this-month-as-franchis",
-      "titre": "Metro Redux's Next-Gen Update arrives this month as franchise passes 50 million sales",
-      "url": "https://www.eurogamer.net/metro-redux-next-gen-update-50-million-sales-metro-2039",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 34.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/metro-redux-next-gen-update-50-million-sales-metro-2039",
-          "titre": "Metro Redux's Next-Gen Update arrives this month as franchise passes 50 million sales"
-        }
-      ]
-    },
-    {
-      "id": "the-other-one-jordan-magnuson-s-game-poem-jam-is-a-fascinati",
-      "titre": "The Other One: Jordan Magnuson's Game Poem jam is a fascinating collection of chimeras",
-      "url": "https://www.rockpapershotgun.com/the-other-one-jordan-magnusons-game-poem-jam-is-a-fascinating-collection-of-chimeras",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-other-one-jordan-magnusons-game-poem-jam-is-a-fascinating-collection-of-chimeras",
-          "titre": "The Other One: Jordan Magnuson's Game Poem jam is a fascinating collection of chimeras"
-        }
-      ]
-    },
-    {
-      "id": "guide-these-23-ps5-and-ps-plus-games-are-coming-out-next-wee",
-      "titre": "Guide: These 23+ PS5 and PS Plus Games Are Coming Out Next Week (5th-11th October)",
-      "url": "https://www.pushsquare.com/guides/these-23plus-ps5-and-ps-plus-games-are-coming-out-next-week-5th-11th-october",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/these-23plus-ps5-and-ps-plus-games-are-coming-out-next-week-5th-11th-october",
-          "titre": "Guide: These 23+ PS5 and PS Plus Games Are Coming Out Next Week (5th-11th October)"
-        }
-      ]
-    },
-    {
-      "id": "memory-shortages-set-to-persist-into-2028-warns-micron-ceo",
-      "titre": "Memory shortages set to persist into 2028, warns Micron CEO",
-      "url": "https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand",
-          "titre": "Memory shortages set to persist into 2028, warns Micron CEO"
         }
       ]
     }
