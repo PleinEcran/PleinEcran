@@ -1,8 +1,86 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "05/10/2026 à 08h25",
+  "collecte": "05/10/2026 à 10h24",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "gta-6-is-deliberately-avoiding-direct-political-references-s",
+      "titre": "GTA 6 is deliberately avoiding direct political references, says Rockstar",
+      "url": "https://www.videogameschronicle.com/news/gta-6-is-deliberately-avoiding-direct-political-references-says-rockstar/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/gta-6-is-deliberately-avoiding-direct-political-references-says-rockstar/",
+          "titre": "GTA 6 is deliberately avoiding direct political references, says Rockstar"
+        }
+      ]
+    },
+    {
+      "id": "runescape-creator-jagex-in-hot-water-over-generative-ai-use",
+      "titre": "RuneScape creator Jagex in hot water over generative AI use in recent trailer",
+      "url": "https://www.eurogamer.net/runescape-dragon-slayer-2-trailer-generative-ai",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/runescape-dragon-slayer-2-trailer-generative-ai",
+          "titre": "RuneScape creator Jagex in hot water over generative AI use in recent trailer"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/jagex-has-officially-announced-runescape-4/",
+          "titre": "Jagex has officially announced RuneScape 4"
+        }
+      ]
+    },
+    {
+      "id": "review-the-witcher-iii-wild-hunt-remastered-switch-2-a-huge",
+      "titre": "Review: The Witcher III: Wild Hunt - Remastered (Switch 2) - A Huge Upgrade For An All-Time Great",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/the-witcher-iii-wild-hunt-remastered",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/the-witcher-iii-wild-hunt-remastered",
+          "titre": "Review: The Witcher III: Wild Hunt - Remastered (Switch 2) - A Huge Upgrade For An All-Time Great"
+        }
+      ]
+    },
+    {
+      "id": "runescape-4-is-a-new-unreal-engine-mmo-which-reportedly-grew",
+      "titre": "RuneScape 4 is a new Unreal Engine MMO which reportedly grew out of a planned Dragonwilds expansion, though it's still a long way off",
+      "url": "https://www.rockpapershotgun.com/runescape-4-is-a-new-unreal-engine-mmo-which-reportedly-grew-out-of-a-planned-dragonwilds-expansion-though-its-still-a-long-way-off",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/runescape-4-is-a-new-unreal-engine-mmo-which-reportedly-grew-out-of-a-planned-dragonwilds-expansion-though-its-still-a-long-way-off",
+          "titre": "RuneScape 4 is a new Unreal Engine MMO which reportedly grew out of a planned Dragonwilds expansion, though it's still a long way off"
+        }
+      ]
+    },
     {
       "id": "game-conference-mx-gcmx",
       "titre": "Game Conference MX (GCMX)",
@@ -220,6 +298,132 @@ const VEILLE = {
       ]
     },
     {
+      "id": "disney-president-and-cco-dismisses-rumours-of-epic-games-buy",
+      "titre": "Disney president and CCO dismisses rumours of Epic Games buyout: \"Those are not the conversations we are having right now\"",
+      "url": "https://www.gamesindustry.biz/disney-president-and-cco-dismisses-rumours-of-epic-games-buyout-those-are-not-the-conversations-we-are-having-right-now",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/disney-president-and-cco-dismisses-rumours-of-epic-games-buyout-those-are-not-the-conversations-we-are-having-right-now",
+          "titre": "Disney president and CCO dismisses rumours of Epic Games buyout: \"Those are not the conversations we are having right now\""
+        }
+      ]
+    },
+    {
+      "id": "nba-2k25-is-being-delisted-later-this-month-servers-includin",
+      "titre": "NBA 2K25 is being delisted later this month, servers (including single-player story mode) shut down at the end of the year",
+      "url": "https://www.videogameschronicle.com/news/nba-2k25-is-being-delisted-later-this-month-servers-including-single-player-story-mode-shut-down-at-the-end-of-the-year/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/nba-2k25-is-being-delisted-later-this-month-servers-including-single-player-story-mode-shut-down-at-the-end-of-the-year/",
+          "titre": "NBA 2K25 is being delisted later this month, servers (including single-player story mode) shut down at the end of the year"
+        }
+      ]
+    },
+    {
+      "id": "free-to-play-rpg-the-new-denpa-men-is-ending-service-later-t",
+      "titre": "Free-To-Play RPG 'The New Denpa Men' Is Ending Service Later This Year",
+      "url": "https://www.nintendolife.com/news/2026/10/free-to-play-rpg-the-new-denpa-men-is-ending-service-later-this-year",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/free-to-play-rpg-the-new-denpa-men-is-ending-service-later-this-year",
+          "titre": "Free-To-Play RPG 'The New Denpa Men' Is Ending Service Later This Year"
+        }
+      ]
+    },
+    {
+      "id": "although-he-vowed-to-never-work-on-one-without-kojima-snake",
+      "titre": "Although he vowed to never work on one without Kojima, Snake’s Japanese voice actor wants to see another Metal Gear game",
+      "url": "https://www.videogameschronicle.com/news/although-he-vowed-to-never-work-on-one-without-kojima-snakes-japanese-voice-actor-wants-to-see-another-metal-gear-game/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/although-he-vowed-to-never-work-on-one-without-kojima-snakes-japanese-voice-actor-wants-to-see-another-metal-gear-game/",
+          "titre": "Although he vowed to never work on one without Kojima, Snake’s Japanese voice actor wants to see another Metal Gear game"
+        }
+      ]
+    },
+    {
+      "id": "uk-charts-metroid-prime-4-beyond-climbs-back-into-the-top-10",
+      "titre": "UK Charts: Metroid Prime 4: Beyond Climbs Back Into The Top 10",
+      "url": "https://www.nintendolife.com/news/2026/10/uk-charts-metroid-prime-4-beyond-climbs-back-into-the-top-10",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/uk-charts-metroid-prime-4-beyond-climbs-back-into-the-top-10",
+          "titre": "UK Charts: Metroid Prime 4: Beyond Climbs Back Into The Top 10"
+        }
+      ]
+    },
+    {
+      "id": "we-opted-out-of-some-things-really-early-on-how-the-small-t",
+      "titre": "\"We opted out of some things really early on\": How the small team making No Law plan to make it look as big as Cyberpunk 2077",
+      "url": "https://www.rockpapershotgun.com/we-opted-out-of-some-things-really-early-on-how-the-24-person-team-making-no-law-plan-to-make-it-look-as-big-as-cyberpunk-2077",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/we-opted-out-of-some-things-really-early-on-how-the-24-person-team-making-no-law-plan-to-make-it-look-as-big-as-cyberpunk-2077",
+          "titre": "\"We opted out of some things really early on\": How the small team making No Law plan to make it look as big as Cyberpunk 2077"
+        }
+      ]
+    },
+    {
+      "id": "capcom-aims-to-enhance-its-propriety-re-engine-with-ai-to-ac",
+      "titre": "Capcom aims to enhance its propriety RE Engine with AI to accelerate efficiency in QA, debugging, and data processing",
+      "url": "https://www.gamesindustry.biz/capcom-aims-to-enhance-its-propriety-re-engine-with-ai-to-accelerate-efficiency-in-qa-debugging-and-data-processing",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/capcom-aims-to-enhance-its-propriety-re-engine-with-ai-to-accelerate-efficiency-in-qa-debugging-and-data-processing",
+          "titre": "Capcom aims to enhance its propriety RE Engine with AI to accelerate efficiency in QA, debugging, and data processing"
+        }
+      ]
+    },
+    {
       "id": "arc-raiders-is-getting-a-free-trial-to-celebrate-its-biggest",
       "titre": "Arc Raiders is getting a free trial to celebrate its biggest update yet",
       "url": "https://www.eurogamer.net/arc-raiders-free-trial-frozen-trail",
@@ -227,7 +431,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
@@ -245,7 +449,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -264,7 +468,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 18.8,
+      "heures": 20.8,
       "chaleur": 6,
       "liens": [
         {
@@ -280,30 +484,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "fourth-runescape-officially-revealed",
-      "titre": "Fourth RuneScape officially revealed",
-      "url": "https://www.eurogamer.net/jagex-runescape-4-mmo-unreal-engine-animated-series-moistcr1tikal",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 21.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/jagex-runescape-4-mmo-unreal-engine-animated-series-moistcr1tikal",
-          "titre": "Fourth RuneScape officially revealed"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/jagex-has-officially-announced-runescape-4/",
-          "titre": "Jagex has officially announced RuneScape 4"
-        }
-      ]
-    },
-    {
       "id": "gta-6-won-t-be-letting-up-on-the-satire-if-you-are-going-to",
       "titre": "GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/",
@@ -311,7 +491,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 29.2,
+      "heures": 31.2,
       "chaleur": 6,
       "liens": [
         {
@@ -329,31 +509,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/minecraft-dungeons-ii",
           "titre": "Review: Minecraft Dungeons II (Switch 2) - A Fun But Flawed Dungeon-Crawling Sequel With Great Co-Op"
-        }
-      ]
-    },
-    {
-      "id": "a-colossal-upgrade-digital-foundry-delivers-its-tech-verdic",
-      "titre": "\"A Colossal Upgrade\" - Digital Foundry Delivers Its Tech Verdict For The Witcher 3 Remastered On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/a-colossal-upgrade-digital-foundry-delivers-its-tech-verdict-for-the-witcher-3-remastered-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 21.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/a-colossal-upgrade-digital-foundry-delivers-its-tech-verdict-for-the-witcher-3-remastered-on-switch-2",
-          "titre": "\"A Colossal Upgrade\" - Digital Foundry Delivers Its Tech Verdict For The Witcher 3 Remastered On Switch 2"
         }
       ]
     },
@@ -365,7 +527,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 33.3,
       "chaleur": 5,
       "liens": [
         {
@@ -383,7 +545,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 33.1,
+      "heures": 35.1,
       "chaleur": 5,
       "liens": [
         {
@@ -401,7 +563,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -419,7 +581,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -437,8 +599,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -455,7 +617,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -473,7 +635,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 16.1,
       "chaleur": 3,
       "liens": [
         {
@@ -491,7 +653,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 16.1,
       "chaleur": 3,
       "liens": [
         {
@@ -509,7 +671,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.3,
       "chaleur": 3,
       "liens": [
         {
@@ -527,7 +689,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.8,
       "chaleur": 3,
       "liens": [
         {
@@ -545,7 +707,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.0,
       "chaleur": 3,
       "liens": [
         {
@@ -563,7 +725,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.2,
       "chaleur": 3,
       "liens": [
         {
@@ -581,7 +743,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -599,7 +761,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -617,7 +779,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.0,
+      "heures": 20.0,
       "chaleur": 3,
       "liens": [
         {
@@ -635,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.0,
+      "heures": 20.0,
       "chaleur": 3,
       "liens": [
         {
@@ -653,7 +815,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 21.7,
       "chaleur": 3,
       "liens": [
         {
@@ -671,7 +833,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.4,
       "chaleur": 3,
       "liens": [
         {
@@ -689,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.6,
+      "heures": 22.6,
       "chaleur": 3,
       "liens": [
         {
@@ -707,7 +869,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 21.0,
+      "heures": 23.0,
       "chaleur": 3,
       "liens": [
         {
@@ -725,13 +887,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.2,
+      "heures": 23.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/capcom-is-looking-to-evolve-its-re-engine-into-an-ai-era-game-engine",
           "titre": "Capcom Is Looking To Evolve Its RE Engine Into An 'AI-Era Game Engine'"
+        }
+      ]
+    },
+    {
+      "id": "fourth-runescape-officially-revealed",
+      "titre": "Fourth RuneScape officially revealed",
+      "url": "https://www.eurogamer.net/jagex-runescape-4-mmo-unreal-engine-animated-series-moistcr1tikal",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 23.2,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/jagex-runescape-4-mmo-unreal-engine-animated-series-moistcr1tikal",
+          "titre": "Fourth RuneScape officially revealed"
         }
       ]
     },
@@ -743,7 +923,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.3,
       "chaleur": 3,
       "liens": [
         {
@@ -761,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.6,
+      "heures": 23.6,
       "chaleur": 3,
       "liens": [
         {
@@ -779,7 +959,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 22.2,
+      "heures": 24.2,
       "chaleur": 3,
       "liens": [
         {
@@ -797,7 +977,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.4,
       "chaleur": 3,
       "liens": [
         {
@@ -815,7 +995,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.4,
       "chaleur": 3,
       "liens": [
         {
@@ -833,7 +1013,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.4,
       "chaleur": 3,
       "liens": [
         {
@@ -851,7 +1031,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.3,
+      "heures": 28.3,
       "chaleur": 3,
       "liens": [
         {
@@ -869,31 +1049,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 31.2,
+      "heures": 33.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/strategy/one-of-the-most-popular-total-war-warhammer-3-mods-was-deliberately-corrupted-by-its-creator-to-sabotage-ai-made-copies/",
           "titre": "One of the most popular Total War: Warhammer 3 mods was 'deliberately corrupted' by its creator to sabotage AI-made copies"
-        }
-      ]
-    },
-    {
-      "id": "thrustmaster-reveals-new-750-ps5-racing-wheel-for-gran-turis",
-      "titre": "Thrustmaster Reveals New $750 PS5 Racing Wheel for Gran Turismo 7",
-      "url": "https://www.pushsquare.com/news/2026/10/thrustmaster-reveals-new-usd750-ps5-racing-wheel-for-gran-turismo-7",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/thrustmaster-reveals-new-usd750-ps5-racing-wheel-for-gran-turismo-7",
-          "titre": "Thrustmaster Reveals New $750 PS5 Racing Wheel for Gran Turismo 7"
         }
       ]
     }
