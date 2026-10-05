@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "05/10/2026 à 18h27",
+  "collecte": "05/10/2026 à 22h21",
   "seuil": 14,
   "sujets": [
     {
@@ -13,8 +13,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 0.7,
-      "chaleur": 17,
+      "heures": 4.6,
+      "chaleur": 15,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -34,6 +34,72 @@ const VEILLE = {
       ]
     },
     {
+      "id": "arc-raiders-and-the-finals-are-getting-tv-series-and-film-ad",
+      "titre": "Arc Raiders and The Finals are getting TV series and film adaptations",
+      "url": "https://www.gamesindustry.biz/arc-raiders-and-the-finals-are-getting-tv-series-and-film-adaptations",
+      "sources": [
+        "Eurogamer",
+        "Game Developer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 3,
+      "heures": 2.8,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/arc-raiders-and-the-finals-are-getting-tv-series-and-film-adaptations",
+          "titre": "Arc Raiders and The Finals are getting TV series and film adaptations"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/arc-raiders-and-the-finals-set-for-tv-and-film-adaptations-from-backrooms-co-producer",
+          "titre": "Arc Raiders and The Finals set for TV and film adaptations from Backrooms co-producer"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/arc-raiders-the-finals-film-tv-show-backrooms",
+          "titre": "Arc Raiders and The Finals are getting film and TV adaptations in collaboration with the Backrooms production company"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-devs-tried-not-to-jump-on-the-bandwagon-of-passing-tre",
+      "titre": "GTA 6 devs tried \"not to jump on the bandwagon\" of passing trends and instead created their \"own slanted, overblown versions\"",
+      "url": "https://www.eurogamer.net/gta-6-devs-bandwagon-trends-created-slanted-versions",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-devs-bandwagon-trends-created-slanted-versions",
+          "titre": "GTA 6 devs tried \"not to jump on the bandwagon\" of passing trends and instead created their \"own slanted, overblown versions\""
+        }
+      ]
+    },
+    {
+      "id": "halo-studios-says-it-is-absolutely-our-intent-to-release-new",
+      "titre": "Halo Studios says \"it is absolutely our intent\" to release new Halo book, despite layoffs and a rumored lore reboot from Activision",
+      "url": "https://www.eurogamer.net/halo-studios-absolutely-our-intent-new-book-activision-reboot",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 3.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/halo-studios-absolutely-our-intent-new-book-activision-reboot",
+          "titre": "Halo Studios says \"it is absolutely our intent\" to release new Halo book, despite layoffs and a rumored lore reboot from Activision"
+        }
+      ]
+    },
+    {
       "id": "dark-pictures-dev-s-layoffs-have-begun-over-70-staff-reporte",
       "titre": "Dark Pictures Dev's Layoffs Have Begun, Over 70 Staff Reportedly Let Go",
       "url": "https://www.pushsquare.com/news/2026/10/dark-pictures-devs-layoffs-have-begun-over-70-staff-reportedly-let-go",
@@ -41,8 +107,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 11,
+      "heures": 6.6,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Push Square",
@@ -59,13 +125,31 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 1.7,
-      "chaleur": 10,
+      "heures": 5.6,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/report-ninja-theory-lays-off-workers-after-failing-to-spin-off-from-xbox",
           "titre": "Report: Ninja Theory lays off workers after failing to spin off from Xbox"
+        }
+      ]
+    },
+    {
+      "id": "millions-return-to-the-witcher-3-as-the-remastered-game-reco",
+      "titre": "Millions return to The Witcher 3 as the Remastered game records another Steam personal best and sales skyrocket",
+      "url": "https://www.eurogamer.net/witcher-3-remastered-steam-players-sales",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 11.1,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/witcher-3-remastered-steam-players-sales",
+          "titre": "Millions return to The Witcher 3 as the Remastered game records another Steam personal best and sales skyrocket"
         }
       ]
     },
@@ -77,8 +161,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 9,
+      "heures": 6.6,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -95,103 +179,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 9,
+      "heures": 7.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
           "titre": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events"
-        }
-      ]
-    },
-    {
-      "id": "i-wanted-to-challenge-myself-former-warioware-director-talk",
-      "titre": "\"I Wanted To Challenge Myself\" - Former WarioWare Director Talks Life After Nintendo",
-      "url": "https://www.nintendolife.com/news/2026/10/i-wanted-to-challenge-myself-former-warioware-director-talks-life-after-nintendo",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/i-wanted-to-challenge-myself-former-warioware-director-talks-life-after-nintendo",
-          "titre": "\"I Wanted To Challenge Myself\" - Former WarioWare Director Talks Life After Nintendo"
-        }
-      ]
-    },
-    {
-      "id": "i-suppose-playstation-themed-blind-boxes-were-only-a-matter",
-      "titre": "I Suppose PlayStation-Themed Blind Boxes Were Only a Matter of Time",
-      "url": "https://www.pushsquare.com/news/2026/10/i-suppose-playstation-themed-blind-boxes-were-only-a-matter-of-time",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/i-suppose-playstation-themed-blind-boxes-were-only-a-matter-of-time",
-          "titre": "I Suppose PlayStation-Themed Blind Boxes Were Only a Matter of Time"
-        }
-      ]
-    },
-    {
-      "id": "the-coalition-used-the-ssd-on-xbox-series-s-as-makeshift-ram",
-      "titre": "The Coalition used the SSD on Xbox Series S as makeshift RAM to help Gears of War E-Day run smoothly on it",
-      "url": "https://www.videogameschronicle.com/news/the-coalition-used-the-ssd-on-xbox-series-s-as-makeshift-ram-to-help-gears-of-war-e-day-run-smoothly-on-it/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-coalition-used-the-ssd-on-xbox-series-s-as-makeshift-ram-to-help-gears-of-war-e-day-run-smoothly-on-it/",
-          "titre": "The Coalition used the SSD on Xbox Series S as makeshift RAM to help Gears of War E-Day run smoothly on it"
-        }
-      ]
-    },
-    {
-      "id": "hellblade-dev-begins-shedding-staff-months-after-revealing-n",
-      "titre": "Hellblade Dev Begins Shedding Staff, Months After Revealing New Game at Xbox Showcase",
-      "url": "https://www.pushsquare.com/news/2026/10/hellblade-dev-begins-shedding-staff-months-after-revealing-new-game-at-xbox-showcase",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/hellblade-dev-begins-shedding-staff-months-after-revealing-new-game-at-xbox-showcase",
-          "titre": "Hellblade Dev Begins Shedding Staff, Months After Revealing New Game at Xbox Showcase"
-        }
-      ]
-    },
-    {
-      "id": "millions-return-to-the-witcher-3-as-the-remastered-game-reco",
-      "titre": "Millions return to The Witcher 3 as the Remastered game records another Steam personal best and sales skyrocket",
-      "url": "https://www.eurogamer.net/witcher-3-remastered-steam-players-sales",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 7.2,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-remastered-steam-players-sales",
-          "titre": "Millions return to The Witcher 3 as the Remastered game records another Steam personal best and sales skyrocket"
         }
       ]
     },
@@ -203,7 +197,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 9.0,
       "chaleur": 7,
       "liens": [
         {
@@ -222,7 +216,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.1,
+      "heures": 11.0,
       "chaleur": 7,
       "liens": [
         {
@@ -246,7 +240,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 7.3,
+      "heures": 11.2,
       "chaleur": 7,
       "liens": [
         {
@@ -269,31 +263,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 11.4,
       "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/i-got-my-start-writing-for-a-playstation-2-magazine-these-are-my-12-ps2-pilled-recommendations-from-the-steam-autumn-sale/",
           "titre": "I got my start writing for a PlayStation 2 magazine: These are my 12 PS2-pilled recommendations from the Steam Autumn Sale"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-is-deliberately-avoiding-direct-political-references-s",
-      "titre": "GTA 6 is deliberately avoiding direct political references, says Rockstar",
-      "url": "https://www.videogameschronicle.com/news/gta-6-is-deliberately-avoiding-direct-political-references-says-rockstar/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/gta-6-is-deliberately-avoiding-direct-political-references-says-rockstar/",
-          "titre": "GTA 6 is deliberately avoiding direct political references, says Rockstar"
         }
       ]
     },
@@ -478,308 +454,128 @@ const VEILLE = {
       ]
     },
     {
-      "id": "free-to-play-playtime-is-broadly-flat-as-gacha-rpgs-drive-pc",
-      "titre": "Free-to-play playtime is broadly flat as gacha RPGs drive PC growth, says Newzoo",
-      "url": "https://www.gamesindustry.biz/free-to-play-playtime-is-broadly-flat-as-gacha-rpgs-drive-pc-growth-says-newzoo",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 1.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/free-to-play-playtime-is-broadly-flat-as-gacha-rpgs-drive-pc-growth-says-newzoo",
-          "titre": "Free-to-play playtime is broadly flat as gacha RPGs drive PC growth, says Newzoo"
-        }
-      ]
-    },
-    {
-      "id": "arc-raiders-and-the-finals-are-getting-film-and-tv-adaptatio",
-      "titre": "Arc Raiders and The Finals are getting film and TV adaptations in collaboration with the Backrooms production company",
-      "url": "https://www.eurogamer.net/arc-raiders-the-finals-film-tv-show-backrooms",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 1.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/arc-raiders-the-finals-film-tv-show-backrooms",
-          "titre": "Arc Raiders and The Finals are getting film and TV adaptations in collaboration with the Backrooms production company"
-        }
-      ]
-    },
-    {
-      "id": "another-major-ps5-game-will-be-delisted-in-october-2026",
-      "titre": "Another Major PS5 Game Will Be Delisted in October 2026",
-      "url": "https://www.pushsquare.com/news/2026/10/another-major-ps5-game-will-be-delisted-in-october-2026",
+      "id": "beamng-drive-is-looking-wildly-impressive-in-first-ps5-pro-f",
+      "titre": "BeamNG.drive Is Looking Wildly Impressive in First PS5 Pro Footage",
+      "url": "https://www.pushsquare.com/news/2026/10/beamng-drive-is-looking-wildly-impressive-in-first-ps5-pro-footage",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 0.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/another-major-ps5-game-will-be-delisted-in-october-2026",
-          "titre": "Another Major PS5 Game Will Be Delisted in October 2026"
+          "url": "https://www.pushsquare.com/news/2026/10/beamng-drive-is-looking-wildly-impressive-in-first-ps5-pro-footage",
+          "titre": "BeamNG.drive Is Looking Wildly Impressive in First PS5 Pro Footage"
         }
       ]
     },
     {
-      "id": "i-am-cavorting-with-a-gazelle-s-grace-in-grand-theft-auto-5",
-      "titre": "I am cavorting with a gazelle's grace in Grand Theft Auto 5",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-am-cavorting-with-a-gazelles-grace-in-grand-theft-auto-5/",
+      "id": "this-scrappy-new-superhero-game-could-be-what-marvel-s-aveng",
+      "titre": "This Scrappy New Superhero Game Could Be What Marvel's Avengers Wanted to Be",
+      "url": "https://www.pushsquare.com/news/2026/10/this-scrappy-new-superhero-game-could-be-what-marvels-avengers-wanted-to-be",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/this-scrappy-new-superhero-game-could-be-what-marvels-avengers-wanted-to-be",
+          "titre": "This Scrappy New Superhero Game Could Be What Marvel's Avengers Wanted to Be"
+        }
+      ]
+    },
+    {
+      "id": "despite-calling-grand-theft-auto-a-videogame-franchise-built",
+      "titre": "Despite calling Grand Theft Auto 'a videogame franchise built around criminal activity,' Miami-Dade sheriff isn't mad about the NBA's 'Vice City' transformation",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/despite-calling-grand-theft-auto-a-videogame-franchise-built-around-criminal-activity-miami-dade-sheriff-isnt-mad-about-the-nbas-vice-city-transformation/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-am-cavorting-with-a-gazelles-grace-in-grand-theft-auto-5/",
-          "titre": "I am cavorting with a gazelle's grace in Grand Theft Auto 5"
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/despite-calling-grand-theft-auto-a-videogame-franchise-built-around-criminal-activity-miami-dade-sheriff-isnt-mad-about-the-nbas-vice-city-transformation/",
+          "titre": "Despite calling Grand Theft Auto 'a videogame franchise built around criminal activity,' Miami-Dade sheriff isn't mad about the NBA's 'Vice City' transformation"
         }
       ]
     },
     {
-      "id": "aion-2-splendent-ruby-location-upgrade-essence-extraction-sp",
-      "titre": "Aion 2: Splendent Ruby location, Upgrade Essence Extraction Speciality quest guide",
-      "url": "https://www.videogameschronicle.com/guide/aion-2-splendent-ruby-location-upgrade-essence-extraction-speciality-quest-guide/",
+      "id": "i-wanted-to-challenge-myself-former-warioware-director-talk",
+      "titre": "\"I Wanted To Challenge Myself\" - Former WarioWare Director Talks Life After Nintendo",
+      "url": "https://www.nintendolife.com/news/2026/10/i-wanted-to-challenge-myself-former-warioware-director-talks-life-after-nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/i-wanted-to-challenge-myself-former-warioware-director-talks-life-after-nintendo",
+          "titre": "\"I Wanted To Challenge Myself\" - Former WarioWare Director Talks Life After Nintendo"
+        }
+      ]
+    },
+    {
+      "id": "i-suppose-playstation-themed-blind-boxes-were-only-a-matter",
+      "titre": "I Suppose PlayStation-Themed Blind Boxes Were Only a Matter of Time",
+      "url": "https://www.pushsquare.com/news/2026/10/i-suppose-playstation-themed-blind-boxes-were-only-a-matter-of-time",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 6.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/i-suppose-playstation-themed-blind-boxes-were-only-a-matter-of-time",
+          "titre": "I Suppose PlayStation-Themed Blind Boxes Were Only a Matter of Time"
+        }
+      ]
+    },
+    {
+      "id": "the-coalition-used-the-ssd-on-xbox-series-s-as-makeshift-ram",
+      "titre": "The Coalition used the SSD on Xbox Series S as makeshift RAM to help Gears of War E-Day run smoothly on it",
+      "url": "https://www.videogameschronicle.com/news/the-coalition-used-the-ssd-on-xbox-series-s-as-makeshift-ram-to-help-gears-of-war-e-day-run-smoothly-on-it/",
       "sources": [
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 6.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/aion-2-splendent-ruby-location-upgrade-essence-extraction-speciality-quest-guide/",
-          "titre": "Aion 2: Splendent Ruby location, Upgrade Essence Extraction Speciality quest guide"
+          "url": "https://www.videogameschronicle.com/news/the-coalition-used-the-ssd-on-xbox-series-s-as-makeshift-ram-to-help-gears-of-war-e-day-run-smoothly-on-it/",
+          "titre": "The Coalition used the SSD on Xbox Series S as makeshift RAM to help Gears of War E-Day run smoothly on it"
         }
       ]
     },
     {
-      "id": "the-final-showdown-motion-blur-vs-chromatic-aberration",
-      "titre": "The final showdown: Motion blur vs chromatic aberration",
-      "url": "https://www.pcgamer.com/hardware/the-final-showdown-motion-blur-vs-chromatic-aberration/",
+      "id": "hellblade-dev-begins-shedding-staff-months-after-revealing-n",
+      "titre": "Hellblade Dev Begins Shedding Staff, Months After Revealing New Game at Xbox Showcase",
+      "url": "https://www.pushsquare.com/news/2026/10/hellblade-dev-begins-shedding-staff-months-after-revealing-new-game-at-xbox-showcase",
       "sources": [
-        "PC Gamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 7.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/the-final-showdown-motion-blur-vs-chromatic-aberration/",
-          "titre": "The final showdown: Motion blur vs chromatic aberration"
-        }
-      ]
-    },
-    {
-      "id": "developer-gets-a-little-too-silly-recommends-deadly-psychoac",
-      "titre": "Developer gets a little too silly, recommends deadly psychoactive ingredient in its bad boy-themed cocktail",
-      "url": "https://www.pcgamer.com/games/adventure/developer-gets-a-little-too-silly-recommends-deadly-psychoactive-ingredient-in-its-bad-boy-themed-cocktail/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/adventure/developer-gets-a-little-too-silly-recommends-deadly-psychoactive-ingredient-in-its-bad-boy-themed-cocktail/",
-          "titre": "Developer gets a little too silly, recommends deadly psychoactive ingredient in its bad boy-themed cocktail"
-        }
-      ]
-    },
-    {
-      "id": "noematica-is-a-lucid-dreamer-s-n-dimensional-take-on-the-sim",
-      "titre": "Noematica is a lucid dreamer's \"n-dimensional\" take on The Sims that proudly boasts it will never ever gouge you for DLC",
-      "url": "https://www.rockpapershotgun.com/noematica-is-a-lucid-dreamers-n-dimensional-take-on-the-sims-that-proudly-boasts-it-will-never-ever-gouge-you-for-dlc",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 1.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/noematica-is-a-lucid-dreamers-n-dimensional-take-on-the-sims-that-proudly-boasts-it-will-never-ever-gouge-you-for-dlc",
-          "titre": "Noematica is a lucid dreamer's \"n-dimensional\" take on The Sims that proudly boasts it will never ever gouge you for DLC"
-        }
-      ]
-    },
-    {
-      "id": "the-upcoming-d-d-interpretation-of-world-of-warcraft-sounds",
-      "titre": "The upcoming D&D interpretation of World of Warcraft sounds great, but don't expect it to work like the MMO does",
-      "url": "https://www.eurogamer.net/dungeons-and-dragons-dnd-world-of-warcraft-wow-book",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dungeons-and-dragons-dnd-world-of-warcraft-wow-book",
-          "titre": "The upcoming D&D interpretation of World of Warcraft sounds great, but don't expect it to work like the MMO does"
-        }
-      ]
-    },
-    {
-      "id": "runescape-dev-apologises-after-runefest-debut-of-an-ai-gener",
-      "titre": "RuneScape dev apologises after RuneFest debut of an AI-generated six-fingered character: 'That's pretty hard to explain away'",
-      "url": "https://www.pcgamer.com/games/mmo/runescape-dev-apologises-after-runefest-debut-of-an-ai-generated-six-fingered-character-thats-pretty-hard-to-explain-away/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/runescape-dev-apologises-after-runefest-debut-of-an-ai-generated-six-fingered-character-thats-pretty-hard-to-explain-away/",
-          "titre": "RuneScape dev apologises after RuneFest debut of an AI-generated six-fingered character: 'That's pretty hard to explain away'"
-        }
-      ]
-    },
-    {
-      "id": "aion-2-5-things-i-wish-i-knew-before-playing-aion-2",
-      "titre": "Aion 2: 5 things I wish I knew before playing Aion 2",
-      "url": "https://www.videogameschronicle.com/guide/aion-2-5-things-i-wish-i-knew-before-playing-aion-2/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/aion-2-5-things-i-wish-i-knew-before-playing-aion-2/",
-          "titre": "Aion 2: 5 things I wish I knew before playing Aion 2"
-        }
-      ]
-    },
-    {
-      "id": "arc-raiders-is-looking-for-more-ways-to-integrate-real-human",
-      "titre": "Arc Raiders is looking for 'more ways to integrate real human performances' starting with Celeste's visual overhaul for Frozen Trail",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-looking-for-more-ways-to-integrate-real-human-performances-starting-with-celestes-visual-overhaul-for-frozen-trail/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-looking-for-more-ways-to-integrate-real-human-performances-starting-with-celestes-visual-overhaul-for-frozen-trail/",
-          "titre": "Arc Raiders is looking for 'more ways to integrate real human performances' starting with Celeste's visual overhaul for Frozen Trail"
-        }
-      ]
-    },
-    {
-      "id": "dungeons-dragons-world-of-warcraft-is-already-a-slam-dunk-bu",
-      "titre": "Dungeons & Dragons: World of Warcraft is already a slam dunk, but it's how it captures the spirit of the MMO that makes it stand out",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/dungeons-and-dragons-world-of-warcraft-is-already-a-slam-dunk-but-its-how-it-captures-the-spirit-of-the-mmo-that-makes-it-stand-out/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/dungeons-and-dragons-world-of-warcraft-is-already-a-slam-dunk-but-its-how-it-captures-the-spirit-of-the-mmo-that-makes-it-stand-out/",
-          "titre": "Dungeons & Dragons: World of Warcraft is already a slam dunk, but it's how it captures the spirit of the MMO that makes it stand out"
-        }
-      ]
-    },
-    {
-      "id": "why-it-s-still-worth-making-immersive-sims-ft-harvey-smith-b",
-      "titre": "Why it's still worth making immersive sims ft. Harvey Smith & Ben Horne",
-      "url": "https://www.gamedeveloper.com/design/why-it-s-still-worth-making-immersive-sims-ft-harvey-smith-ben-horne",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/design/why-it-s-still-worth-making-immersive-sims-ft-harvey-smith-ben-horne",
-          "titre": "Why it's still worth making immersive sims ft. Harvey Smith & Ben Horne"
-        }
-      ]
-    },
-    {
-      "id": "claims-that-genai-speeds-up-pc-ports-of-classic-games-are-ei",
-      "titre": "Claims that genAI speeds up PC ports of classic games are either \"false\" or missing the point, says Banjo Kazooie: Recompiled developer",
-      "url": "https://www.rockpapershotgun.com/claims-that-genai-speeds-up-pc-ports-of-classic-games-are-either-false-or-missing-the-point-says-banjo-kazooie-recompiled-developer",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/claims-that-genai-speeds-up-pc-ports-of-classic-games-are-either-false-or-missing-the-point-says-banjo-kazooie-recompiled-developer",
-          "titre": "Claims that genAI speeds up PC ports of classic games are either \"false\" or missing the point, says Banjo Kazooie: Recompiled developer"
-        }
-      ]
-    },
-    {
-      "id": "aion-2-faq-everything-you-need-to-know-about-aion-2",
-      "titre": "Aion 2 FAQ: Everything you need to know about Aion 2",
-      "url": "https://www.videogameschronicle.com/guide/aion-2-faq-everything-you-need-to-know-about-aion-2/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/aion-2-faq-everything-you-need-to-know-about-aion-2/",
-          "titre": "Aion 2 FAQ: Everything you need to know about Aion 2"
-        }
-      ]
-    },
-    {
-      "id": "even-if-i-knew-how-it-would-end-i-would-do-it-again-hellbla",
-      "titre": "\"Even if I knew how it would end, I would do it again\": Hellblade developers Ninja Theory appear to have kicked off the redundancy process",
-      "url": "https://www.rockpapershotgun.com/even-if-i-knew-how-it-would-end-i-would-do-it-again-hellblade-developers-ninja-theory-appear-to-have-kicked-off-the-redundancy-process",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/even-if-i-knew-how-it-would-end-i-would-do-it-again-hellblade-developers-ninja-theory-appear-to-have-kicked-off-the-redundancy-process",
-          "titre": "\"Even if I knew how it would end, I would do it again\": Hellblade developers Ninja Theory appear to have kicked off the redundancy process"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/hellblade-dev-begins-shedding-staff-months-after-revealing-new-game-at-xbox-showcase",
+          "titre": "Hellblade Dev Begins Shedding Staff, Months After Revealing New Game at Xbox Showcase"
         }
       ]
     },
@@ -791,7 +587,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 9.9,
       "chaleur": 6,
       "liens": [
         {
@@ -809,13 +605,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 11.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/ace-combat-8-steam-launch-record-players",
           "titre": "Ace Combat 8 is far and away the series' biggest launch on Steam"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-is-deliberately-avoiding-direct-political-references-s",
+      "titre": "GTA 6 is deliberately avoiding direct political references, says Rockstar",
+      "url": "https://www.videogameschronicle.com/news/gta-6-is-deliberately-avoiding-direct-political-references-says-rockstar/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 12.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/gta-6-is-deliberately-avoiding-direct-political-references-says-rockstar/",
+          "titre": "GTA 6 is deliberately avoiding direct political references, says Rockstar"
         }
       ]
     },
@@ -827,8 +641,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 6,
+      "heures": 12.4,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -845,37 +659,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.6,
-      "chaleur": 6,
+      "heures": 12.5,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/runescape-4-is-a-new-unreal-engine-mmo-which-reportedly-grew-out-of-a-planned-dragonwilds-expansion-though-its-still-a-long-way-off",
           "titre": "RuneScape 4 is a new Unreal Engine MMO which reportedly grew out of a planned Dragonwilds expansion, though it's still a long way off"
-        }
-      ]
-    },
-    {
-      "id": "platinumgames-boss-hints-he-wants-to-expand-bayonetta-as-ste",
-      "titre": "PlatinumGames boss hints he wants to expand Bayonetta as Stellar Blade director calls the series \"indispensable\"",
-      "url": "https://www.eurogamer.net/platinumgames-bayonetta-expand-atsushi-inaba-stellar-blade",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 28.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/platinumgames-bayonetta-expand-atsushi-inaba-stellar-blade",
-          "titre": "PlatinumGames boss hints he wants to expand Bayonetta as Stellar Blade director calls the series \"indispensable\""
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/platinumgames-comments-on-the-future-of-bayonetta",
-          "titre": "PlatinumGames Comments On The Future Of Bayonetta"
         }
       ]
     },
@@ -887,13 +677,283 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 29.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/minecraft-dungeons-ii",
           "titre": "Review: Minecraft Dungeons II (Switch 2) - A Fun But Flawed Dungeon-Crawling Sequel With Great Co-Op"
+        }
+      ]
+    },
+    {
+      "id": "free-to-play-playtime-is-broadly-flat-as-gacha-rpgs-drive-pc",
+      "titre": "Free-to-play playtime is broadly flat as gacha RPGs drive PC growth, says Newzoo",
+      "url": "https://www.gamesindustry.biz/free-to-play-playtime-is-broadly-flat-as-gacha-rpgs-drive-pc-growth-says-newzoo",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/free-to-play-playtime-is-broadly-flat-as-gacha-rpgs-drive-pc-growth-says-newzoo",
+          "titre": "Free-to-play playtime is broadly flat as gacha RPGs drive PC growth, says Newzoo"
+        }
+      ]
+    },
+    {
+      "id": "another-major-ps5-game-will-be-delisted-in-october-2026",
+      "titre": "Another Major PS5 Game Will Be Delisted in October 2026",
+      "url": "https://www.pushsquare.com/news/2026/10/another-major-ps5-game-will-be-delisted-in-october-2026",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/another-major-ps5-game-will-be-delisted-in-october-2026",
+          "titre": "Another Major PS5 Game Will Be Delisted in October 2026"
+        }
+      ]
+    },
+    {
+      "id": "aion-2-splendent-ruby-location-upgrade-essence-extraction-sp",
+      "titre": "Aion 2: Splendent Ruby location, Upgrade Essence Extraction Speciality quest guide",
+      "url": "https://www.videogameschronicle.com/guide/aion-2-splendent-ruby-location-upgrade-essence-extraction-speciality-quest-guide/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/aion-2-splendent-ruby-location-upgrade-essence-extraction-speciality-quest-guide/",
+          "titre": "Aion 2: Splendent Ruby location, Upgrade Essence Extraction Speciality quest guide"
+        }
+      ]
+    },
+    {
+      "id": "the-final-showdown-motion-blur-vs-chromatic-aberration",
+      "titre": "The final showdown: Motion blur vs chromatic aberration",
+      "url": "https://www.pcgamer.com/hardware/the-final-showdown-motion-blur-vs-chromatic-aberration/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/the-final-showdown-motion-blur-vs-chromatic-aberration/",
+          "titre": "The final showdown: Motion blur vs chromatic aberration"
+        }
+      ]
+    },
+    {
+      "id": "developer-gets-a-little-too-silly-recommends-deadly-psychoac",
+      "titre": "Developer gets a little too silly, recommends deadly psychoactive ingredient in its bad boy-themed cocktail",
+      "url": "https://www.pcgamer.com/games/adventure/developer-gets-a-little-too-silly-recommends-deadly-psychoactive-ingredient-in-its-bad-boy-themed-cocktail/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/adventure/developer-gets-a-little-too-silly-recommends-deadly-psychoactive-ingredient-in-its-bad-boy-themed-cocktail/",
+          "titre": "Developer gets a little too silly, recommends deadly psychoactive ingredient in its bad boy-themed cocktail"
+        }
+      ]
+    },
+    {
+      "id": "noematica-is-a-lucid-dreamer-s-n-dimensional-take-on-the-sim",
+      "titre": "Noematica is a lucid dreamer's \"n-dimensional\" take on The Sims that proudly boasts it will never ever gouge you for DLC",
+      "url": "https://www.rockpapershotgun.com/noematica-is-a-lucid-dreamers-n-dimensional-take-on-the-sims-that-proudly-boasts-it-will-never-ever-gouge-you-for-dlc",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/noematica-is-a-lucid-dreamers-n-dimensional-take-on-the-sims-that-proudly-boasts-it-will-never-ever-gouge-you-for-dlc",
+          "titre": "Noematica is a lucid dreamer's \"n-dimensional\" take on The Sims that proudly boasts it will never ever gouge you for DLC"
+        }
+      ]
+    },
+    {
+      "id": "the-upcoming-d-d-interpretation-of-world-of-warcraft-sounds",
+      "titre": "The upcoming D&D interpretation of World of Warcraft sounds great, but don't expect it to work like the MMO does",
+      "url": "https://www.eurogamer.net/dungeons-and-dragons-dnd-world-of-warcraft-wow-book",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dungeons-and-dragons-dnd-world-of-warcraft-wow-book",
+          "titre": "The upcoming D&D interpretation of World of Warcraft sounds great, but don't expect it to work like the MMO does"
+        }
+      ]
+    },
+    {
+      "id": "runescape-dev-apologises-after-runefest-debut-of-an-ai-gener",
+      "titre": "RuneScape dev apologises after RuneFest debut of an AI-generated six-fingered character: 'That's pretty hard to explain away'",
+      "url": "https://www.pcgamer.com/games/mmo/runescape-dev-apologises-after-runefest-debut-of-an-ai-generated-six-fingered-character-thats-pretty-hard-to-explain-away/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mmo/runescape-dev-apologises-after-runefest-debut-of-an-ai-generated-six-fingered-character-thats-pretty-hard-to-explain-away/",
+          "titre": "RuneScape dev apologises after RuneFest debut of an AI-generated six-fingered character: 'That's pretty hard to explain away'"
+        }
+      ]
+    },
+    {
+      "id": "aion-2-5-things-i-wish-i-knew-before-playing-aion-2",
+      "titre": "Aion 2: 5 things I wish I knew before playing Aion 2",
+      "url": "https://www.videogameschronicle.com/guide/aion-2-5-things-i-wish-i-knew-before-playing-aion-2/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 6.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/aion-2-5-things-i-wish-i-knew-before-playing-aion-2/",
+          "titre": "Aion 2: 5 things I wish I knew before playing Aion 2"
+        }
+      ]
+    },
+    {
+      "id": "arc-raiders-is-looking-for-more-ways-to-integrate-real-human",
+      "titre": "Arc Raiders is looking for 'more ways to integrate real human performances' starting with Celeste's visual overhaul for Frozen Trail",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-looking-for-more-ways-to-integrate-real-human-performances-starting-with-celestes-visual-overhaul-for-frozen-trail/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-looking-for-more-ways-to-integrate-real-human-performances-starting-with-celestes-visual-overhaul-for-frozen-trail/",
+          "titre": "Arc Raiders is looking for 'more ways to integrate real human performances' starting with Celeste's visual overhaul for Frozen Trail"
+        }
+      ]
+    },
+    {
+      "id": "dungeons-dragons-world-of-warcraft-is-already-a-slam-dunk-bu",
+      "titre": "Dungeons & Dragons: World of Warcraft is already a slam dunk, but it's how it captures the spirit of the MMO that makes it stand out",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/dungeons-and-dragons-world-of-warcraft-is-already-a-slam-dunk-but-its-how-it-captures-the-spirit-of-the-mmo-that-makes-it-stand-out/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/dungeons-and-dragons-world-of-warcraft-is-already-a-slam-dunk-but-its-how-it-captures-the-spirit-of-the-mmo-that-makes-it-stand-out/",
+          "titre": "Dungeons & Dragons: World of Warcraft is already a slam dunk, but it's how it captures the spirit of the MMO that makes it stand out"
+        }
+      ]
+    },
+    {
+      "id": "why-it-s-still-worth-making-immersive-sims-ft-harvey-smith-b",
+      "titre": "Why it's still worth making immersive sims ft. Harvey Smith & Ben Horne",
+      "url": "https://www.gamedeveloper.com/design/why-it-s-still-worth-making-immersive-sims-ft-harvey-smith-ben-horne",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 6.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/design/why-it-s-still-worth-making-immersive-sims-ft-harvey-smith-ben-horne",
+          "titre": "Why it's still worth making immersive sims ft. Harvey Smith & Ben Horne"
+        }
+      ]
+    },
+    {
+      "id": "claims-that-genai-speeds-up-pc-ports-of-classic-games-are-ei",
+      "titre": "Claims that genAI speeds up PC ports of classic games are either \"false\" or missing the point, says Banjo Kazooie: Recompiled developer",
+      "url": "https://www.rockpapershotgun.com/claims-that-genai-speeds-up-pc-ports-of-classic-games-are-either-false-or-missing-the-point-says-banjo-kazooie-recompiled-developer",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 7.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/claims-that-genai-speeds-up-pc-ports-of-classic-games-are-either-false-or-missing-the-point-says-banjo-kazooie-recompiled-developer",
+          "titre": "Claims that genAI speeds up PC ports of classic games are either \"false\" or missing the point, says Banjo Kazooie: Recompiled developer"
+        }
+      ]
+    },
+    {
+      "id": "aion-2-faq-everything-you-need-to-know-about-aion-2",
+      "titre": "Aion 2 FAQ: Everything you need to know about Aion 2",
+      "url": "https://www.videogameschronicle.com/guide/aion-2-faq-everything-you-need-to-know-about-aion-2/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 7.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/aion-2-faq-everything-you-need-to-know-about-aion-2/",
+          "titre": "Aion 2 FAQ: Everything you need to know about Aion 2"
+        }
+      ]
+    },
+    {
+      "id": "even-if-i-knew-how-it-would-end-i-would-do-it-again-hellbla",
+      "titre": "\"Even if I knew how it would end, I would do it again\": Hellblade developers Ninja Theory appear to have kicked off the redundancy process",
+      "url": "https://www.rockpapershotgun.com/even-if-i-knew-how-it-would-end-i-would-do-it-again-hellblade-developers-ninja-theory-appear-to-have-kicked-off-the-redundancy-process",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 7.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/even-if-i-knew-how-it-would-end-i-would-do-it-again-hellblade-developers-ninja-theory-appear-to-have-kicked-off-the-redundancy-process",
+          "titre": "\"Even if I knew how it would end, I would do it again\": Hellblade developers Ninja Theory appear to have kicked off the redundancy process"
         }
       ]
     },
@@ -905,7 +965,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +983,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +1001,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +1019,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +1037,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +1055,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,7 +1073,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,7 +1091,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1049,7 +1109,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1058,63 +1118,7 @@ const VEILLE = {
           "titre": "Feature: Last Chance to Buy These 40+ PS5, PS4 Games in PS Store's Autumn Adventures Sale"
         }
       ]
-    },
-    {
-      "id": "dead-by-daylight-studio-is-hiring-for-a-triple-a-sci-fi-firs",
-      "titre": "Dead by Daylight studio is hiring for a triple-A Sci-Fi first-person shooter with \"a high realism bar\"",
-      "url": "https://www.eurogamer.net/dead-by-daylight-behaviour-interactive-triple-a-sci-fi-shooter",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 5.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dead-by-daylight-behaviour-interactive-triple-a-sci-fi-shooter",
-          "titre": "Dead by Daylight studio is hiring for a triple-A Sci-Fi first-person shooter with \"a high realism bar\""
-        }
-      ]
-    },
-    {
-      "id": "part-1-of-gran-turismo-7-s-massive-spec-4-update-is-availab",
-      "titre": "'Part 1' of Gran Turismo 7's Massive Spec 4 Update Is Available Very Soon on PS5, PS4",
-      "url": "https://www.pushsquare.com/news/2026/10/part-1-of-gran-turismo-7s-massive-spec-4-update-is-available-very-soon-on-ps5-ps4",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 6.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/part-1-of-gran-turismo-7s-massive-spec-4-update-is-available-very-soon-on-ps5-ps4",
-          "titre": "'Part 1' of Gran Turismo 7's Massive Spec 4 Update Is Available Very Soon on PS5, PS4"
-        }
-      ]
-    },
-    {
-      "id": "coders-will-never-forgive-me-for-this-level-warhammer-40-00",
-      "titre": "\"Coders will never forgive me for this level\": Warhammer 40,000: Boltgun 2 has a rotatable \"fleshmetal\" puzzle map that drove its own development team crazy",
-      "url": "https://www.rockpapershotgun.com/coders-will-never-forgive-me-for-this-level-warhammer-40000-boltgun-2-has-a-rotatable-fleshmetal-puzzle-map-that-drove-its-own-development-team-crazy",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/coders-will-never-forgive-me-for-this-level-warhammer-40000-boltgun-2-has-a-rotatable-fleshmetal-puzzle-map-that-drove-its-own-development-team-crazy",
-          "titre": "\"Coders will never forgive me for this level\": Warhammer 40,000: Boltgun 2 has a rotatable \"fleshmetal\" puzzle map that drove its own development team crazy"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "Ninja Theory begins laying off staff, according to employee posts"
-  ]
+  "alertes": []
 };
