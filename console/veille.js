@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "05/10/2026 à 04h24",
+  "collecte": "05/10/2026 à 06h32",
   "seuil": 14,
   "sujets": [
     {
@@ -227,31 +227,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/the-elder-scrolls/its-easy-to-forget-now-but-the-first-elder-scrolls-game-had-a-rough-launch-back-in-the-day-it-was-a-disaster-in-a-lot-of-ways-and-somehow-built-a-billion-dollar-franchise/",
           "titre": "It's easy to forget now, but the first Elder Scrolls game had a rough launch back in the day: 'It was a disaster in a lot of ways and somehow built a billion-dollar franchise'"
-        }
-      ]
-    },
-    {
-      "id": "review-minecraft-dungeons-ii-switch-2-a-fun-but-flawed-dunge",
-      "titre": "Review: Minecraft Dungeons II (Switch 2) - A Fun But Flawed Dungeon-Crawling Sequel With Great Co-Op",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/minecraft-dungeons-ii",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/minecraft-dungeons-ii",
-          "titre": "Review: Minecraft Dungeons II (Switch 2) - A Fun But Flawed Dungeon-Crawling Sequel With Great Co-Op"
         }
       ]
     },
@@ -264,7 +246,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 14.8,
+      "heures": 16.9,
       "chaleur": 6,
       "liens": [
         {
@@ -288,7 +270,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 17.2,
+      "heures": 19.3,
       "chaleur": 6,
       "liens": [
         {
@@ -304,30 +286,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-did-my-best-final-fantasy-7-revelation-director-says-he-a",
-      "titre": "‘I did my best’: Final Fantasy 7 Revelation director says he argued for physical version",
-      "url": "https://www.videogameschronicle.com/news/i-did-my-best-final-fantasy-7-revelation-director-says-he-argued-for-physical-version/",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 18.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/i-did-my-best-final-fantasy-7-revelation-director-says-he-argued-for-physical-version/",
-          "titre": "‘I did my best’: Final Fantasy 7 Revelation director says he argued for physical version"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/final-fantasy-7-revelation-naoki-hamaguchi-disc-release-physical-media",
-          "titre": "Final Fantasy 7 Revelation director says he \"did his best\" to fight for a full disc release"
-        }
-      ]
-    },
-    {
       "id": "gta-6-won-t-be-letting-up-on-the-satire-if-you-are-going-to",
       "titre": "GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/",
@@ -335,13 +293,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 25.2,
+      "heures": 27.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/",
           "titre": "GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'"
+        }
+      ]
+    },
+    {
+      "id": "review-minecraft-dungeons-ii-switch-2-a-fun-but-flawed-dunge",
+      "titre": "Review: Minecraft Dungeons II (Switch 2) - A Fun But Flawed Dungeon-Crawling Sequel With Great Co-Op",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/minecraft-dungeons-ii",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/minecraft-dungeons-ii",
+          "titre": "Review: Minecraft Dungeons II (Switch 2) - A Fun But Flawed Dungeon-Crawling Sequel With Great Co-Op"
         }
       ]
     },
@@ -353,7 +329,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 20.0,
       "chaleur": 5,
       "liens": [
         {
@@ -371,7 +347,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.5,
       "chaleur": 5,
       "liens": [
         {
@@ -389,7 +365,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 29.1,
+      "heures": 31.2,
       "chaleur": 5,
       "liens": [
         {
@@ -407,7 +383,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -425,7 +401,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -443,8 +419,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.9,
-      "chaleur": 4,
+      "heures": 12.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -461,8 +437,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -479,8 +455,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -497,8 +473,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -515,8 +491,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -533,7 +509,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 14.2,
       "chaleur": 3,
       "liens": [
         {
@@ -551,7 +527,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -569,7 +545,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -587,7 +563,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -605,7 +581,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 16.1,
       "chaleur": 3,
       "liens": [
         {
@@ -623,7 +599,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 16.1,
       "chaleur": 3,
       "liens": [
         {
@@ -641,7 +617,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -659,7 +635,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.5,
       "chaleur": 3,
       "liens": [
         {
@@ -677,7 +653,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 18.7,
       "chaleur": 3,
       "liens": [
         {
@@ -695,7 +671,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 19.1,
       "chaleur": 3,
       "liens": [
         {
@@ -713,7 +689,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.2,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
@@ -731,7 +707,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -749,13 +725,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 19.7,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/software/ai/an-openai-model-was-caught-trying-to-cheat-at-starcraft-and-of-course-it-did-it-by-stealing-a-humans-work/",
           "titre": "An OpenAI model was caught trying to cheat at StarCraft, and of course it did it by stealing a human's work"
+        }
+      ]
+    },
+    {
+      "id": "i-did-my-best-final-fantasy-7-revelation-director-says-he-a",
+      "titre": "‘I did my best’: Final Fantasy 7 Revelation director says he argued for physical version",
+      "url": "https://www.videogameschronicle.com/news/i-did-my-best-final-fantasy-7-revelation-director-says-he-argued-for-physical-version/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 20.3,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/i-did-my-best-final-fantasy-7-revelation-director-says-he-argued-for-physical-version/",
+          "titre": "‘I did my best’: Final Fantasy 7 Revelation director says he argued for physical version"
         }
       ]
     },
@@ -767,7 +761,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.5,
       "chaleur": 3,
       "liens": [
         {
@@ -785,7 +779,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.5,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +797,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.5,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +815,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 24.5,
       "chaleur": 3,
       "liens": [
         {
@@ -839,7 +833,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 27.1,
+      "heures": 29.3,
       "chaleur": 3,
       "liens": [
         {
@@ -857,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 29.7,
+      "heures": 31.8,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +869,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 31.9,
+      "heures": 34.0,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +887,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 32.2,
+      "heures": 34.3,
       "chaleur": 3,
       "liens": [
         {
@@ -911,31 +905,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 32.9,
+      "heures": 35.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/yet-more-ps5-security-concerns-as-another-high-profile-account-is-hacked",
           "titre": "Yet More PS5 Security Concerns as Another High-Profile Account Is Hacked"
-        }
-      ]
-    },
-    {
-      "id": "sony-in-talks-to-land-battlefield-movie-from-christopher-mcq",
-      "titre": "Sony in talks to land Battlefield movie from Christopher McQuarrie and Michael B. Jordan",
-      "url": "https://www.eurogamer.net/sony-battlefield-movie-christopher-mcquarrie-michael-b-jordan",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 36.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sony-battlefield-movie-christopher-mcquarrie-michael-b-jordan",
-          "titre": "Sony in talks to land Battlefield movie from Christopher McQuarrie and Michael B. Jordan"
         }
       ]
     }
