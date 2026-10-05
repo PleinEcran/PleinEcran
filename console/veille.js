@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "05/10/2026 à 06h32",
+  "collecte": "05/10/2026 à 08h25",
   "seuil": 14,
   "sujets": [
     {
@@ -220,20 +220,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "it-s-easy-to-forget-now-but-the-first-elder-scrolls-game-had",
-      "titre": "It's easy to forget now, but the first Elder Scrolls game had a rough launch back in the day: 'It was a disaster in a lot of ways and somehow built a billion-dollar franchise'",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/its-easy-to-forget-now-but-the-first-elder-scrolls-game-had-a-rough-launch-back-in-the-day-it-was-a-disaster-in-a-lot-of-ways-and-somehow-built-a-billion-dollar-franchise/",
+      "id": "arc-raiders-is-getting-a-free-trial-to-celebrate-its-biggest",
+      "titre": "Arc Raiders is getting a free trial to celebrate its biggest update yet",
+      "url": "https://www.eurogamer.net/arc-raiders-free-trial-frozen-trail",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/arc-raiders-free-trial-frozen-trail",
+          "titre": "Arc Raiders is getting a free trial to celebrate its biggest update yet"
+        }
+      ]
+    },
+    {
+      "id": "warhammer-blood-bowl-is-blood-bowl-3-5-rather-than-a-whole-n",
+      "titre": "Warhammer: Blood Bowl is Blood Bowl 3.5 rather than a whole new game, but based on the beta it's definitely an upgrade",
+      "url": "https://www.pcgamer.com/games/strategy/warhammer-blood-bowl-is-blood-bowl-3-5-rather-than-a-whole-new-game-but-based-on-the-beta-its-definitely-an-upgrade/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.7,
+      "heures": 0.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-elder-scrolls/its-easy-to-forget-now-but-the-first-elder-scrolls-game-had-a-rough-launch-back-in-the-day-it-was-a-disaster-in-a-lot-of-ways-and-somehow-built-a-billion-dollar-franchise/",
-          "titre": "It's easy to forget now, but the first Elder Scrolls game had a rough launch back in the day: 'It was a disaster in a lot of ways and somehow built a billion-dollar franchise'"
+          "url": "https://www.pcgamer.com/games/strategy/warhammer-blood-bowl-is-blood-bowl-3-5-rather-than-a-whole-new-game-but-based-on-the-beta-its-definitely-an-upgrade/",
+          "titre": "Warhammer: Blood Bowl is Blood Bowl 3.5 rather than a whole new game, but based on the beta it's definitely an upgrade"
         }
       ]
     },
@@ -246,7 +264,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 16.9,
+      "heures": 18.8,
       "chaleur": 6,
       "liens": [
         {
@@ -270,7 +288,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 19.3,
+      "heures": 21.2,
       "chaleur": 6,
       "liens": [
         {
@@ -293,7 +311,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.2,
       "chaleur": 6,
       "liens": [
         {
@@ -311,7 +329,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -329,7 +347,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 21.9,
       "chaleur": 5,
       "liens": [
         {
@@ -347,7 +365,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.5,
+      "heures": 31.3,
       "chaleur": 5,
       "liens": [
         {
@@ -365,13 +383,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 31.2,
+      "heures": 33.1,
       "chaleur": 5,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/rpg/crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-devs-a-fond-take-your-time-please-drink-some-water/",
           "titre": "Crimson Desert DLC delayed by 2 weeks, please join me in wishing the devs a fond 'take your time, please drink some water'"
+        }
+      ]
+    },
+    {
+      "id": "it-s-easy-to-forget-now-but-the-first-elder-scrolls-game-had",
+      "titre": "It's easy to forget now, but the first Elder Scrolls game had a rough launch back in the day: 'It was a disaster in a lot of ways and somehow built a billion-dollar franchise'",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/its-easy-to-forget-now-but-the-first-elder-scrolls-game-had-a-rough-launch-back-in-the-day-it-was-a-disaster-in-a-lot-of-ways-and-somehow-built-a-billion-dollar-franchise/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/its-easy-to-forget-now-but-the-first-elder-scrolls-game-had-a-rough-launch-back-in-the-day-it-was-a-disaster-in-a-lot-of-ways-and-somehow-built-a-billion-dollar-franchise/",
+          "titre": "It's easy to forget now, but the first Elder Scrolls game had a rough launch back in the day: 'It was a disaster in a lot of ways and somehow built a billion-dollar franchise'"
         }
       ]
     },
@@ -383,7 +419,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -401,7 +437,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -419,7 +455,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 13.9,
       "chaleur": 3,
       "liens": [
         {
@@ -437,7 +473,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.1,
       "chaleur": 3,
       "liens": [
         {
@@ -455,7 +491,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.1,
       "chaleur": 3,
       "liens": [
         {
@@ -473,7 +509,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
@@ -491,7 +527,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.8,
       "chaleur": 3,
       "liens": [
         {
@@ -509,7 +545,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.1,
       "chaleur": 3,
       "liens": [
         {
@@ -527,7 +563,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.3,
       "chaleur": 3,
       "liens": [
         {
@@ -545,7 +581,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -563,7 +599,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -581,7 +617,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.0,
       "chaleur": 3,
       "liens": [
         {
@@ -599,7 +635,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.0,
       "chaleur": 3,
       "liens": [
         {
@@ -617,7 +653,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 19.8,
       "chaleur": 3,
       "liens": [
         {
@@ -635,7 +671,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.5,
+      "heures": 20.4,
       "chaleur": 3,
       "liens": [
         {
@@ -653,7 +689,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.7,
+      "heures": 20.6,
       "chaleur": 3,
       "liens": [
         {
@@ -671,7 +707,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 19.1,
+      "heures": 21.0,
       "chaleur": 3,
       "liens": [
         {
@@ -689,7 +725,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.2,
       "chaleur": 3,
       "liens": [
         {
@@ -707,7 +743,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.3,
       "chaleur": 3,
       "liens": [
         {
@@ -725,7 +761,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.7,
+      "heures": 21.6,
       "chaleur": 3,
       "liens": [
         {
@@ -743,7 +779,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 22.2,
       "chaleur": 3,
       "liens": [
         {
@@ -761,7 +797,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.4,
       "chaleur": 3,
       "liens": [
         {
@@ -779,7 +815,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.4,
       "chaleur": 3,
       "liens": [
         {
@@ -797,7 +833,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.4,
       "chaleur": 3,
       "liens": [
         {
@@ -815,7 +851,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.5,
+      "heures": 26.3,
       "chaleur": 3,
       "liens": [
         {
@@ -833,31 +869,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/strategy/one-of-the-most-popular-total-war-warhammer-3-mods-was-deliberately-corrupted-by-its-creator-to-sabotage-ai-made-copies/",
           "titre": "One of the most popular Total War: Warhammer 3 mods was 'deliberately corrupted' by its creator to sabotage AI-made copies"
-        }
-      ]
-    },
-    {
-      "id": "valorant-player-claims-to-have-inherited-hardware-ban-throug",
-      "titre": "Valorant player claims to have inherited hardware ban through secondhand CPU, Riot anticheat boss disputes parts of story",
-      "url": "https://www.pcgamer.com/games/fps/valorant-player-claims-to-have-inherited-hardware-ban-through-secondhand-cpu-riot-anticheat-boss-disputes-parts-of-story/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 31.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/valorant-player-claims-to-have-inherited-hardware-ban-through-secondhand-cpu-riot-anticheat-boss-disputes-parts-of-story/",
-          "titre": "Valorant player claims to have inherited hardware ban through secondhand CPU, Riot anticheat boss disputes parts of story"
         }
       ]
     },
@@ -869,49 +887,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 34.0,
+      "heures": 35.9,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/thrustmaster-reveals-new-usd750-ps5-racing-wheel-for-gran-turismo-7",
           "titre": "Thrustmaster Reveals New $750 PS5 Racing Wheel for Gran Turismo 7"
-        }
-      ]
-    },
-    {
-      "id": "banjo-kazooie-pc-port-decomp-developer-says-ai-generated-pc",
-      "titre": "Banjo-Kazooie PC port ‘decomp’ developer says AI-generated PC ports are ‘a race to the bottom’ and ‘disrespectful’",
-      "url": "https://www.videogameschronicle.com/news/banjo-kazooie-pc-port-decomp-developer-says-ai-generated-pc-ports-are-a-race-to-the-bottom-and-disrespectful/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 34.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/banjo-kazooie-pc-port-decomp-developer-says-ai-generated-pc-ports-are-a-race-to-the-bottom-and-disrespectful/",
-          "titre": "Banjo-Kazooie PC port ‘decomp’ developer says AI-generated PC ports are ‘a race to the bottom’ and ‘disrespectful’"
-        }
-      ]
-    },
-    {
-      "id": "yet-more-ps5-security-concerns-as-another-high-profile-accou",
-      "titre": "Yet More PS5 Security Concerns as Another High-Profile Account Is Hacked",
-      "url": "https://www.pushsquare.com/news/2026/10/yet-more-ps5-security-concerns-as-another-high-profile-account-is-hacked",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/yet-more-ps5-security-concerns-as-another-high-profile-account-is-hacked",
-          "titre": "Yet More PS5 Security Concerns as Another High-Profile Account Is Hacked"
         }
       ]
     }
