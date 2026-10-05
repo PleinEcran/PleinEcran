@@ -1,38 +1,26 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "05/10/2026 à 10h24",
+  "collecte": "05/10/2026 à 12h29",
   "seuil": 14,
   "sujets": [
     {
-      "id": "gta-6-is-deliberately-avoiding-direct-political-references-s",
-      "titre": "GTA 6 is deliberately avoiding direct political references, says Rockstar",
-      "url": "https://www.videogameschronicle.com/news/gta-6-is-deliberately-avoiding-direct-political-references-says-rockstar/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 0.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/gta-6-is-deliberately-avoiding-direct-political-references-says-rockstar/",
-          "titre": "GTA 6 is deliberately avoiding direct political references, says Rockstar"
-        }
-      ]
-    },
-    {
-      "id": "runescape-creator-jagex-in-hot-water-over-generative-ai-use",
-      "titre": "RuneScape creator Jagex in hot water over generative AI use in recent trailer",
-      "url": "https://www.eurogamer.net/runescape-dragon-slayer-2-trailer-generative-ai",
+      "id": "jagex-responds-to-use-of-generative-ai-in-runescape-trailer",
+      "titre": "Jagex responds to use of generative AI in RuneScape trailer made by \"trusted external partner\"",
+      "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
       "sources": [
         "Eurogamer",
+        "GamesIndustry.biz",
         "VGC"
       ],
-      "reprises": 2,
-      "heures": 0.9,
-      "chaleur": 9,
+      "reprises": 3,
+      "heures": 1.3,
+      "chaleur": 12,
       "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
+          "titre": "Jagex responds to use of generative AI in RuneScape trailer made by \"trusted external partner\""
+        },
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/runescape-dragon-slayer-2-trailer-generative-ai",
@@ -46,6 +34,150 @@ const VEILLE = {
       ]
     },
     {
+      "id": "guide-these-23-ps5-and-ps-plus-games-are-coming-out-this-wee",
+      "titre": "Guide: These 23+ PS5 and PS Plus Games Are Coming Out This Week (5th-11th October)",
+      "url": "https://www.pushsquare.com/guides/these-23plus-ps5-and-ps-plus-games-are-coming-out-this-week-5th-11th-october",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 1.0,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-23plus-ps5-and-ps-plus-games-are-coming-out-this-week-5th-11th-october",
+          "titre": "Guide: These 23+ PS5 and PS Plus Games Are Coming Out This Week (5th-11th October)"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/video-15-exciting-new-games-coming-to-switch-1-and-2-in-october-2026",
+          "titre": "Video: 15 Exciting New Games Coming To Switch 1 & 2 In October 2026"
+        }
+      ]
+    },
+    {
+      "id": "mini-review-kingdom-hearts-hd-2-8-final-chapter-prologue-swi",
+      "titre": "Mini Review: KINGDOM HEARTS HD 2.8 Final Chapter Prologue (Switch 2)",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/kingdom-hearts-hd-2-8-final-chapter-prologue",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 1.4,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/kingdom-hearts-hd-2-8-final-chapter-prologue",
+          "titre": "Mini Review: KINGDOM HEARTS HD 2.8 Final Chapter Prologue (Switch 2)"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/kingdom-hearts-collection-iiii",
+          "titre": "Mini Review: Kingdom Hearts Collection I~III (PS5) - Great Value for Newcomers in This (Almost) Complete Package"
+        }
+      ]
+    },
+    {
+      "id": "millions-return-to-the-witcher-3-as-the-remastered-game-reco",
+      "titre": "Millions return to The Witcher 3 as the Remastered game records another Steam personal best and sales skyrocket",
+      "url": "https://www.eurogamer.net/witcher-3-remastered-steam-players-sales",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/witcher-3-remastered-steam-players-sales",
+          "titre": "Millions return to The Witcher 3 as the Remastered game records another Steam personal best and sales skyrocket"
+        }
+      ]
+    },
+    {
+      "id": "ai-game-mashup-videos-on-social-media-spark-debate-and-backl",
+      "titre": "AI game mashup videos on social media spark debate and backlash among players and modders",
+      "url": "https://www.videogameschronicle.com/news/ai-game-mashup-videos-on-social-media-spark-debate-and-backlash-among-players-and-modders/",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/ai-game-mashup-videos-on-social-media-spark-debate-and-backlash-among-players-and-modders/",
+          "titre": "AI game mashup videos on social media spark debate and backlash among players and modders"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash",
+          "titre": "Modders are furious as Claude-powered mashup mods flood social media"
+        }
+      ]
+    },
+    {
+      "id": "i-got-my-start-writing-for-a-playstation-2-magazine-these-ar",
+      "titre": "I got my start writing for a PlayStation 2 magazine: These are my 12 PS2-pilled recommendations from the Steam Autumn Sale",
+      "url": "https://www.pcgamer.com/games/i-got-my-start-writing-for-a-playstation-2-magazine-these-are-my-12-ps2-pilled-recommendations-from-the-steam-autumn-sale/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/i-got-my-start-writing-for-a-playstation-2-magazine-these-are-my-12-ps2-pilled-recommendations-from-the-steam-autumn-sale/",
+          "titre": "I got my start writing for a PlayStation 2 magazine: These are my 12 PS2-pilled recommendations from the Steam Autumn Sale"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-is-deliberately-avoiding-direct-political-references-s",
+      "titre": "GTA 6 is deliberately avoiding direct political references, says Rockstar",
+      "url": "https://www.videogameschronicle.com/news/gta-6-is-deliberately-avoiding-direct-political-references-says-rockstar/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 2.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/gta-6-is-deliberately-avoiding-direct-political-references-says-rockstar/",
+          "titre": "GTA 6 is deliberately avoiding direct political references, says Rockstar"
+        }
+      ]
+    },
+    {
+      "id": "ace-combat-8-is-far-and-away-the-series-biggest-launch-on-st",
+      "titre": "Ace Combat 8 is far and away the series' biggest launch on Steam",
+      "url": "https://www.eurogamer.net/ace-combat-8-steam-launch-record-players",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ace-combat-8-steam-launch-record-players",
+          "titre": "Ace Combat 8 is far and away the series' biggest launch on Steam"
+        }
+      ]
+    },
+    {
       "id": "review-the-witcher-iii-wild-hunt-remastered-switch-2-a-huge",
       "titre": "Review: The Witcher III: Wild Hunt - Remastered (Switch 2) - A Huge Upgrade For An All-Time Great",
       "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/the-witcher-iii-wild-hunt-remastered",
@@ -53,7 +185,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.5,
       "chaleur": 8,
       "liens": [
         {
@@ -71,7 +203,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.6,
       "chaleur": 8,
       "liens": [
         {
@@ -298,6 +430,114 @@ const VEILLE = {
       ]
     },
     {
+      "id": "part-1-of-gran-turismo-7-s-massive-spec-4-update-is-availab",
+      "titre": "'Part 1' of Gran Turismo 7's Massive Spec 4 Update Is Available Very Soon on PS5, PS4",
+      "url": "https://www.pushsquare.com/news/2026/10/part-1-of-gran-turismo-7s-massive-spec-4-update-is-available-very-soon-on-ps5-ps4",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/part-1-of-gran-turismo-7s-massive-spec-4-update-is-available-very-soon-on-ps5-ps4",
+          "titre": "'Part 1' of Gran Turismo 7's Massive Spec 4 Update Is Available Very Soon on PS5, PS4"
+        }
+      ]
+    },
+    {
+      "id": "coders-will-never-forgive-me-for-this-level-warhammer-40-00",
+      "titre": "\"Coders will never forgive me for this level\": Warhammer 40,000: Boltgun 2 has a rotatable \"fleshmetal\" puzzle map that drove its own development team crazy",
+      "url": "https://www.rockpapershotgun.com/coders-will-never-forgive-me-for-this-level-warhammer-40000-boltgun-2-has-a-rotatable-fleshmetal-puzzle-map-that-drove-its-own-development-team-crazy",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/coders-will-never-forgive-me-for-this-level-warhammer-40000-boltgun-2-has-a-rotatable-fleshmetal-puzzle-map-that-drove-its-own-development-team-crazy",
+          "titre": "\"Coders will never forgive me for this level\": Warhammer 40,000: Boltgun 2 has a rotatable \"fleshmetal\" puzzle map that drove its own development team crazy"
+        }
+      ]
+    },
+    {
+      "id": "nba-2k25-sounds-the-buzzer-on-its-best-game-modes-with-a-del",
+      "titre": "NBA 2K25 Sounds The Buzzer On Its Best Game Modes, With A Delist & Server Shutdown Inbound",
+      "url": "https://www.nintendolife.com/news/2026/10/nba-2k25-sounds-the-buzzer-on-its-best-game-modes-with-a-delist-and-server-shutdown-inbound",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nba-2k25-sounds-the-buzzer-on-its-best-game-modes-with-a-delist-and-server-shutdown-inbound",
+          "titre": "NBA 2K25 Sounds The Buzzer On Its Best Game Modes, With A Delist & Server Shutdown Inbound"
+        }
+      ]
+    },
+    {
+      "id": "capcom-plans-to-use-ai-technology-with-re-engine-to-make-gam",
+      "titre": "Capcom Plans to Use AI Technology with RE Engine to Make Games More Efficiently",
+      "url": "https://www.pushsquare.com/news/2026/10/capcom-plans-to-use-ai-technology-with-re-engine-to-make-games-more-efficiently",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/capcom-plans-to-use-ai-technology-with-re-engine-to-make-games-more-efficiently",
+          "titre": "Capcom Plans to Use AI Technology with RE Engine to Make Games More Efficiently"
+        }
+      ]
+    },
+    {
+      "id": "this-week-in-pc-games-star-wars-galactic-racer-hellraiser-re",
+      "titre": "This week in PC games: Star Wars: Galactic Racer, Hellraiser: Revival, and a throwback tycoon game about turning utopias into carparks",
+      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-star-wars-galactic-racer-hellraiser-revival-and-a-throwback-tycoon-game-about-turning-utopias-into-carparks",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-star-wars-galactic-racer-hellraiser-revival-and-a-throwback-tycoon-game-about-turning-utopias-into-carparks",
+          "titre": "This week in PC games: Star Wars: Galactic Racer, Hellraiser: Revival, and a throwback tycoon game about turning utopias into carparks"
+        }
+      ]
+    },
+    {
+      "id": "final-fantasy-resonance-feels-so-good-to-play-because-square",
+      "titre": "Final Fantasy Resonance feels so good to play because Square Enix 'experimented' with combining the best bits of FF5 and FF6",
+      "url": "https://www.eurogamer.net/final-fantasy-resonance-combat-system-ff5-ff6",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/final-fantasy-resonance-combat-system-ff5-ff6",
+          "titre": "Final Fantasy Resonance feels so good to play because Square Enix 'experimented' with combining the best bits of FF5 and FF6"
+        }
+      ]
+    },
+    {
       "id": "disney-president-and-cco-dismisses-rumours-of-epic-games-buy",
       "titre": "Disney president and CCO dismisses rumours of Epic Games buyout: \"Those are not the conversations we are having right now\"",
       "url": "https://www.gamesindustry.biz/disney-president-and-cco-dismisses-rumours-of-epic-games-buyout-those-are-not-the-conversations-we-are-having-right-now",
@@ -305,7 +545,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -323,7 +563,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -341,7 +581,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -359,7 +599,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -377,7 +617,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -395,7 +635,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
@@ -413,49 +653,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/capcom-aims-to-enhance-its-propriety-re-engine-with-ai-to-accelerate-efficiency-in-qa-debugging-and-data-processing",
           "titre": "Capcom aims to enhance its propriety RE Engine with AI to accelerate efficiency in QA, debugging, and data processing"
-        }
-      ]
-    },
-    {
-      "id": "arc-raiders-is-getting-a-free-trial-to-celebrate-its-biggest",
-      "titre": "Arc Raiders is getting a free trial to celebrate its biggest update yet",
-      "url": "https://www.eurogamer.net/arc-raiders-free-trial-frozen-trail",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/arc-raiders-free-trial-frozen-trail",
-          "titre": "Arc Raiders is getting a free trial to celebrate its biggest update yet"
-        }
-      ]
-    },
-    {
-      "id": "warhammer-blood-bowl-is-blood-bowl-3-5-rather-than-a-whole-n",
-      "titre": "Warhammer: Blood Bowl is Blood Bowl 3.5 rather than a whole new game, but based on the beta it's definitely an upgrade",
-      "url": "https://www.pcgamer.com/games/strategy/warhammer-blood-bowl-is-blood-bowl-3-5-rather-than-a-whole-new-game-but-based-on-the-beta-its-definitely-an-upgrade/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/warhammer-blood-bowl-is-blood-bowl-3-5-rather-than-a-whole-new-game-but-based-on-the-beta-its-definitely-an-upgrade/",
-          "titre": "Warhammer: Blood Bowl is Blood Bowl 3.5 rather than a whole new game, but based on the beta it's definitely an upgrade"
         }
       ]
     },
@@ -468,7 +672,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 20.8,
+      "heures": 22.9,
       "chaleur": 6,
       "liens": [
         {
@@ -491,7 +695,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 31.2,
+      "heures": 33.2,
       "chaleur": 6,
       "liens": [
         {
@@ -509,7 +713,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 5,
       "liens": [
         {
@@ -520,38 +724,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "video-15-exciting-new-games-coming-to-switch-1-2-in-october",
-      "titre": "Video: 15 Exciting New Games Coming To Switch 1 & 2 In October 2026",
-      "url": "https://www.nintendolife.com/news/2026/10/video-15-exciting-new-games-coming-to-switch-1-and-2-in-october-2026",
+      "id": "arc-raiders-is-getting-a-free-trial-to-celebrate-its-biggest",
+      "titre": "Arc Raiders is getting a free trial to celebrate its biggest update yet",
+      "url": "https://www.eurogamer.net/arc-raiders-free-trial-frozen-trail",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.3,
-      "chaleur": 5,
+      "heures": 4.1,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/video-15-exciting-new-games-coming-to-switch-1-and-2-in-october-2026",
-          "titre": "Video: 15 Exciting New Games Coming To Switch 1 & 2 In October 2026"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/arc-raiders-free-trial-frozen-trail",
+          "titre": "Arc Raiders is getting a free trial to celebrate its biggest update yet"
         }
       ]
     },
     {
-      "id": "crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wish",
-      "titre": "Crimson Desert DLC delayed by 2 weeks, please join me in wishing the devs a fond 'take your time, please drink some water'",
-      "url": "https://www.pcgamer.com/games/rpg/crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-devs-a-fond-take-your-time-please-drink-some-water/",
+      "id": "warhammer-blood-bowl-is-blood-bowl-3-5-rather-than-a-whole-n",
+      "titre": "Warhammer: Blood Bowl is Blood Bowl 3.5 rather than a whole new game, but based on the beta it's definitely an upgrade",
+      "url": "https://www.pcgamer.com/games/strategy/warhammer-blood-bowl-is-blood-bowl-3-5-rather-than-a-whole-new-game-but-based-on-the-beta-its-definitely-an-upgrade/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 35.1,
-      "chaleur": 5,
+      "heures": 4.5,
+      "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-devs-a-fond-take-your-time-please-drink-some-water/",
-          "titre": "Crimson Desert DLC delayed by 2 weeks, please join me in wishing the devs a fond 'take your time, please drink some water'"
+          "url": "https://www.pcgamer.com/games/strategy/warhammer-blood-bowl-is-blood-bowl-3-5-rather-than-a-whole-new-game-but-based-on-the-beta-its-definitely-an-upgrade/",
+          "titre": "Warhammer: Blood Bowl is Blood Bowl 3.5 rather than a whole new game, but based on the beta it's definitely an upgrade"
         }
       ]
     },
@@ -563,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -581,8 +785,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -599,7 +803,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -617,7 +821,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 18.0,
       "chaleur": 3,
       "liens": [
         {
@@ -635,7 +839,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.2,
       "chaleur": 3,
       "liens": [
         {
@@ -653,7 +857,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.2,
       "chaleur": 3,
       "liens": [
         {
@@ -671,31 +875,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/dynasty-warriors-tomohiko-sho-sequels-not-remasters",
           "titre": "Dynasty Warriors producer would rather make new games than more remasters"
-        }
-      ]
-    },
-    {
-      "id": "modders-are-furious-as-claude-powered-mashup-mods-flood-soci",
-      "titre": "Modders are furious as Claude-powered mashup mods flood social media",
-      "url": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 17.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash",
-          "titre": "Modders are furious as Claude-powered mashup mods flood social media"
         }
       ]
     },
@@ -707,7 +893,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.0,
+      "heures": 20.1,
       "chaleur": 3,
       "liens": [
         {
@@ -725,7 +911,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
@@ -743,7 +929,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.5,
       "chaleur": 3,
       "liens": [
         {
@@ -761,7 +947,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.5,
       "chaleur": 3,
       "liens": [
         {
@@ -779,7 +965,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 22.1,
       "chaleur": 3,
       "liens": [
         {
@@ -797,7 +983,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 22.1,
       "chaleur": 3,
       "liens": [
         {
@@ -815,7 +1001,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.7,
+      "heures": 23.8,
       "chaleur": 3,
       "liens": [
         {
@@ -833,7 +1019,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.5,
       "chaleur": 3,
       "liens": [
         {
@@ -851,7 +1037,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.6,
+      "heures": 24.7,
       "chaleur": 3,
       "liens": [
         {
@@ -869,7 +1055,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 23.0,
+      "heures": 25.1,
       "chaleur": 3,
       "liens": [
         {
@@ -887,7 +1073,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.2,
+      "heures": 25.2,
       "chaleur": 3,
       "liens": [
         {
@@ -905,7 +1091,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.2,
+      "heures": 25.3,
       "chaleur": 3,
       "liens": [
         {
@@ -923,139 +1109,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/hamaguchi-it-wasnt-easy-to-keep-the-ff7-remake-trilogy-plot-intact-and-not-turn-it-into-his-own-personal-fan-project/",
           "titre": "Hamaguchi: It ‘wasn’t easy’ to keep the FF7 Remake trilogy plot intact and not turn it into his ‘own personal fan project’"
-        }
-      ]
-    },
-    {
-      "id": "an-openai-model-was-caught-trying-to-cheat-at-starcraft-and",
-      "titre": "An OpenAI model was caught trying to cheat at StarCraft, and of course it did it by stealing a human's work",
-      "url": "https://www.pcgamer.com/software/ai/an-openai-model-was-caught-trying-to-cheat-at-starcraft-and-of-course-it-did-it-by-stealing-a-humans-work/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 23.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/an-openai-model-was-caught-trying-to-cheat-at-starcraft-and-of-course-it-did-it-by-stealing-a-humans-work/",
-          "titre": "An OpenAI model was caught trying to cheat at StarCraft, and of course it did it by stealing a human's work"
-        }
-      ]
-    },
-    {
-      "id": "i-did-my-best-final-fantasy-7-revelation-director-says-he-a",
-      "titre": "‘I did my best’: Final Fantasy 7 Revelation director says he argued for physical version",
-      "url": "https://www.videogameschronicle.com/news/i-did-my-best-final-fantasy-7-revelation-director-says-he-argued-for-physical-version/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 24.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/i-did-my-best-final-fantasy-7-revelation-director-says-he-argued-for-physical-version/",
-          "titre": "‘I did my best’: Final Fantasy 7 Revelation director says he argued for physical version"
-        }
-      ]
-    },
-    {
-      "id": "nivalis-nights-dares-to-ask-what-if-cyberpunk-2077-met-dave",
-      "titre": "Nivalis Nights dares to ask what if Cyberpunk 2077 met Dave the Diver and Stardew Valley? And for now at least I'm loving the answer",
-      "url": "https://www.eurogamer.net/nivalis-nights-now-playing",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 25.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nivalis-nights-now-playing",
-          "titre": "Nivalis Nights dares to ask what if Cyberpunk 2077 met Dave the Diver and Stardew Valley? And for now at least I'm loving the answer"
-        }
-      ]
-    },
-    {
-      "id": "the-sunday-papers",
-      "titre": "The Sunday Papers",
-      "url": "https://www.rockpapershotgun.com/the-sunday-papers-830",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 25.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-sunday-papers-830",
-          "titre": "The Sunday Papers"
-        }
-      ]
-    },
-    {
-      "id": "feature-box-art-brawl-zone-of-the-enders-the-fist-of-mars-gb",
-      "titre": "Feature: Box Art Brawl - Zone Of The Enders: The Fist Of Mars (GBA)",
-      "url": "https://www.nintendolife.com/features/box-art-brawl-zone-of-the-enders-the-fist-of-mars-gba",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 25.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/box-art-brawl-zone-of-the-enders-the-fist-of-mars-gba",
-          "titre": "Feature: Box Art Brawl - Zone Of The Enders: The Fist Of Mars (GBA)"
-        }
-      ]
-    },
-    {
-      "id": "runescape-dragonwilds-reveals-multi-year-roadmap",
-      "titre": "RuneScape: Dragonwilds Reveals Multi-Year Roadmap",
-      "url": "https://www.nintendolife.com/news/2026/10/runescape-dragonwilds-reveals-multi-year-roadmap",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 28.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/runescape-dragonwilds-reveals-multi-year-roadmap",
-          "titre": "RuneScape: Dragonwilds Reveals Multi-Year Roadmap"
-        }
-      ]
-    },
-    {
-      "id": "one-of-the-most-popular-total-war-warhammer-3-mods-was-delib",
-      "titre": "One of the most popular Total War: Warhammer 3 mods was 'deliberately corrupted' by its creator to sabotage AI-made copies",
-      "url": "https://www.pcgamer.com/games/strategy/one-of-the-most-popular-total-war-warhammer-3-mods-was-deliberately-corrupted-by-its-creator-to-sabotage-ai-made-copies/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 33.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/one-of-the-most-popular-total-war-warhammer-3-mods-was-deliberately-corrupted-by-its-creator-to-sabotage-ai-made-copies/",
-          "titre": "One of the most popular Total War: Warhammer 3 mods was 'deliberately corrupted' by its creator to sabotage AI-made copies"
         }
       ]
     }
