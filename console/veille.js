@@ -1,141 +1,27 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "06/10/2026 à 10h23",
+  "collecte": "06/10/2026 à 12h27",
   "seuil": 14,
   "sujets": [
     {
-      "id": "ninja-theory-begins-laying-off-staff-according-to-employee-p",
-      "titre": "Ninja Theory begins laying off staff, according to employee posts",
-      "url": "https://www.gamesindustry.biz/ninja-theory-begins-laying-off-staff-according-to-employee-posts",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 16.7,
-      "chaleur": 14,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/ninja-theory-begins-laying-off-staff-according-to-employee-posts",
-          "titre": "Ninja Theory begins laying off staff, according to employee posts"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ninja-theory-hellblade-developers-layoffs-xbox-cuts",
-          "titre": "Ninja Theory developers announce they are facing redundancy, as the studio starts laying off staff following widespread Xbox cuts"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/hellblade-studio-ninja-theory-has-started-laying-off-staff-following-xboxs-announcement-that-it-faces-closure/",
-          "titre": "Hellblade studio Ninja Theory has started laying off staff, following Xbox’s announcement that it faces closure"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-releases-free-hello-peach-and-hello-luigi-apps-for",
-      "titre": "Nintendo releases free Hello, Peach! and Hello, Luigi! apps for children, joining its Mario and Yoshi ones",
-      "url": "https://www.videogameschronicle.com/news/nintendo-releases-free-hello-peach-and-hello-luigi-apps-for-children-joining-its-mario-and-yoshi-ones/",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 0.3,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/nintendo-releases-free-hello-peach-and-hello-luigi-apps-for-children-joining-its-mario-and-yoshi-ones/",
-          "titre": "Nintendo releases free Hello, Peach! and Hello, Luigi! apps for children, joining its Mario and Yoshi ones"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-releases-hello-peach-and-hello-luigi-app-for-switch-and-mobile-devices",
-          "titre": "Nintendo Releases 'Hello, Peach!' And 'Hello, Luigi!' App For Switch & Mobile Devices"
-        }
-      ]
-    },
-    {
-      "id": "out-today-star-wars-galactic-racer-the-highest-rated-star-wa",
-      "titre": "Out Today: Star Wars: Galactic Racer, the Highest-Rated Star Wars Game in Over 20 Years",
-      "url": "https://www.pushsquare.com/news/2026/10/out-today-star-wars-galactic-racer-the-highest-rated-star-wars-game-in-over-20-years",
-      "sources": [
-        "GamesIndustry.biz",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 0.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/out-today-star-wars-galactic-racer-the-highest-rated-star-wars-game-in-over-20-years",
-          "titre": "Out Today: Star Wars: Galactic Racer, the Highest-Rated Star Wars Game in Over 20 Years"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/star-wars-galactic-racer-launches-on-amazon-luna-as-part-of-prime-subscription",
-          "titre": "Star Wars: Galactic Racer launches on Amazon Luna as part of Prime subscription"
-        }
-      ]
-    },
-    {
-      "id": "supermassive-games-suffers-layoffs-as-more-than-70-developer",
-      "titre": "Supermassive Games suffers layoffs as more than 70 developers seem to have left the company this week",
-      "url": "https://www.eurogamer.net/supermassive-games-layoffs-70",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 1.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/supermassive-games-layoffs-70",
-          "titre": "Supermassive Games suffers layoffs as more than 70 developers seem to have left the company this week"
-        }
-      ]
-    },
-    {
-      "id": "round-up-the-reviews-for-kingdom-hearts-collection-on-switch",
-      "titre": "Round Up: The Reviews For Kingdom Hearts Collection On Switch 2 Are In",
-      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-kingdom-hearts-collection-on-switch-2-are-in",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 9.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-kingdom-hearts-collection-on-switch-2-are-in",
-          "titre": "Round Up: The Reviews For Kingdom Hearts Collection On Switch 2 Are In"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/kingdom-hearts-collection-iiii",
-          "titre": "Mini Review: Kingdom Hearts Collection I~III (PS5) - Great Value for Newcomers in This (Almost) Complete Package"
-        }
-      ]
-    },
-    {
-      "id": "arc-raiders-and-the-finals-are-getting-tv-series-and-film-ad",
-      "titre": "Arc Raiders and The Finals are getting TV series and film adaptations",
-      "url": "https://www.gamesindustry.biz/arc-raiders-and-the-finals-are-getting-tv-series-and-film-adaptations",
+      "id": "arc-raiders-the-finals-are-the-next-games-set-for-tv-and-mov",
+      "titre": "ARC Raiders, The Finals Are the Next Games Set for TV and Movie Adaptations",
+      "url": "https://www.pushsquare.com/news/2026/10/arc-raiders-the-finals-are-the-next-games-set-for-tv-and-movie-adaptations",
       "sources": [
         "Eurogamer",
         "Game Developer",
-        "GamesIndustry.biz"
+        "GamesIndustry.biz",
+        "Push Square"
       ],
-      "reprises": 3,
-      "heures": 14.8,
-      "chaleur": 9,
+      "reprises": 4,
+      "heures": 1.2,
+      "chaleur": 15,
       "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/arc-raiders-the-finals-are-the-next-games-set-for-tv-and-movie-adaptations",
+          "titre": "ARC Raiders, The Finals Are the Next Games Set for TV and Movie Adaptations"
+        },
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/arc-raiders-and-the-finals-are-getting-tv-series-and-film-adaptations",
@@ -154,6 +40,138 @@ const VEILLE = {
       ]
     },
     {
+      "id": "star-wars-galactic-racer-s-single-player-campaign-is-availab",
+      "titre": "Star Wars Galactic Racer’s single-player campaign is available to play on Amazon Prime Luma for ‘free’",
+      "url": "https://www.videogameschronicle.com/news/star-wars-galactic-racers-single-player-campaign-is-available-to-play-on-amazon-prime-luma-for-free/",
+      "sources": [
+        "GamesIndustry.biz",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 1.6,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/star-wars-galactic-racers-single-player-campaign-is-available-to-play-on-amazon-prime-luma-for-free/",
+          "titre": "Star Wars Galactic Racer’s single-player campaign is available to play on Amazon Prime Luma for ‘free’"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/out-today-star-wars-galactic-racer-the-highest-rated-star-wars-game-in-over-20-years",
+          "titre": "Out Today: Star Wars: Galactic Racer, the Highest-Rated Star Wars Game in Over 20 Years"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/star-wars-galactic-racer-launches-on-amazon-luna-as-part-of-prime-subscription",
+          "titre": "Star Wars: Galactic Racer launches on Amazon Luna as part of Prime subscription"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-releases-free-hello-peach-and-hello-luigi-apps-for",
+      "titre": "Nintendo releases free Hello, Peach! and Hello, Luigi! apps for children, joining its Mario and Yoshi ones",
+      "url": "https://www.videogameschronicle.com/news/nintendo-releases-free-hello-peach-and-hello-luigi-apps-for-children-joining-its-mario-and-yoshi-ones/",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 2.4,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/nintendo-releases-free-hello-peach-and-hello-luigi-apps-for-children-joining-its-mario-and-yoshi-ones/",
+          "titre": "Nintendo releases free Hello, Peach! and Hello, Luigi! apps for children, joining its Mario and Yoshi ones"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-releases-hello-peach-and-hello-luigi-app-for-switch-and-mobile-devices",
+          "titre": "Nintendo Releases 'Hello, Peach!' And 'Hello, Luigi!' App For Switch & Mobile Devices"
+        }
+      ]
+    },
+    {
+      "id": "gears-of-war-e-day-studio-finds-a-way-to-get-more-performanc",
+      "titre": "Gears of War: E-Day studio finds a way to get more performance from Xbox Series S - one that other Xbox games could probably use",
+      "url": "https://www.eurogamer.net/xbox-series-s-more-power-gears-of-war-e-day-ssd",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.9,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-series-s-more-power-gears-of-war-e-day-ssd",
+          "titre": "Gears of War: E-Day studio finds a way to get more performance from Xbox Series S - one that other Xbox games could probably use"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-coalition-used-the-ssd-on-xbox-series-s-as-makeshift-ram-to-help-gears-of-war-e-day-run-smoothly-on-it/",
+          "titre": "The Coalition used the SSD on Xbox Series S as makeshift RAM to help Gears of War E-Day run smoothly on it"
+        }
+      ]
+    },
+    {
+      "id": "xbox-elite-series-3-controller-details-have-reportedly-leake",
+      "titre": "Xbox Elite Series 3 controller details have reportedly leaked, including a choice of Hall effect or TMR sticks",
+      "url": "https://www.videogameschronicle.com/news/xbox-elite-series-3-controller-details-have-reportedly-leaked-including-a-choice-of-hall-effect-or-tmr-sticks/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-elite-series-3-controller-details-have-reportedly-leaked-including-a-choice-of-hall-effect-or-tmr-sticks/",
+          "titre": "Xbox Elite Series 3 controller details have reportedly leaked, including a choice of Hall effect or TMR sticks"
+        }
+      ]
+    },
+    {
+      "id": "supermassive-games-suffers-layoffs-as-more-than-70-developer",
+      "titre": "Supermassive Games suffers layoffs as more than 70 developers seem to have left the company this week",
+      "url": "https://www.eurogamer.net/supermassive-games-layoffs-70",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 3.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/supermassive-games-layoffs-70",
+          "titre": "Supermassive Games suffers layoffs as more than 70 developers seem to have left the company this week"
+        }
+      ]
+    },
+    {
+      "id": "mini-review-kingdom-hearts-iii-re-mind-dlc-a-fair-switch-2-p",
+      "titre": "Mini Review: KINGDOM HEARTS III + Re Mind (DLC) - A Fair Switch 2 Port Of An Enjoyable 'Conclusion'",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/kingdom-hearts-iii-plus-re-mind-dlc",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/kingdom-hearts-iii-plus-re-mind-dlc",
+          "titre": "Mini Review: KINGDOM HEARTS III + Re Mind (DLC) - A Fair Switch 2 Port Of An Enjoyable 'Conclusion'"
+        }
+      ]
+    },
+    {
       "id": "if-you-don-t-own-it-what-are-you-buying-former-playstation",
       "titre": "‘If you don’t own it, what are you buying?’ Former PlayStation boss says dropping discs is ‘a significant brand hit’",
       "url": "https://www.videogameschronicle.com/news/if-you-dont-own-it-what-are-you-buying-former-playstation-boss-says-dropping-discs-is-a-significant-brand-hit/",
@@ -161,13 +179,37 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.3,
       "chaleur": 8,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/if-you-dont-own-it-what-are-you-buying-former-playstation-boss-says-dropping-discs-is-a-significant-brand-hit/",
           "titre": "‘If you don’t own it, what are you buying?’ Former PlayStation boss says dropping discs is ‘a significant brand hit’"
+        }
+      ]
+    },
+    {
+      "id": "ninja-theory-begins-laying-off-staff-according-to-employee-p",
+      "titre": "Ninja Theory begins laying off staff, according to employee posts",
+      "url": "https://www.gamesindustry.biz/ninja-theory-begins-laying-off-staff-according-to-employee-posts",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 18.7,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/ninja-theory-begins-laying-off-staff-according-to-employee-posts",
+          "titre": "Ninja Theory begins laying off staff, according to employee posts"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ninja-theory-hellblade-developers-layoffs-xbox-cuts",
+          "titre": "Ninja Theory developers announce they are facing redundancy, as the studio starts laying off staff following widespread Xbox cuts"
         }
       ]
     },
@@ -179,7 +221,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 20.7,
       "chaleur": 8,
       "liens": [
         {
@@ -197,31 +239,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.5,
       "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/nintendo-announces-another-switch-2-hardware-bundle",
           "titre": "Nintendo Announces Another Switch 2 Hardware Bundle"
-        }
-      ]
-    },
-    {
-      "id": "industry-layoff-watch-supermassive-ninja-theory-the-coalitio",
-      "titre": "Industry layoff watch: Supermassive, Ninja Theory, The Coalition, and a warning from Warhorse",
-      "url": "https://www.pcgamer.com/gaming-industry/industry-layoff-watch-supermassive-ninja-theory-the-coalition-and-a-warning-from-warhorse/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/industry-layoff-watch-supermassive-ninja-theory-the-coalition-and-a-warning-from-warhorse/",
-          "titre": "Industry layoff watch: Supermassive, Ninja Theory, The Coalition, and a warning from Warhorse"
         }
       ]
     },
@@ -233,7 +257,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 19.7,
       "chaleur": 7,
       "liens": [
         {
@@ -251,7 +275,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.1,
+      "heures": 25.2,
       "chaleur": 7,
       "liens": [
         {
@@ -442,6 +466,132 @@ const VEILLE = {
       ]
     },
     {
+      "id": "car-park-capital-s-cities-are-utopias-of-public-transport-ne",
+      "titre": "Car Park Capital's cities are utopias of public transport networks and green living, or they were before I got done with them",
+      "url": "https://www.rockpapershotgun.com/car-park-capitals-cities-are-utopias-of-public-transport-networks-and-green-living-or-they-were-before-i-got-done-with-them",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/car-park-capitals-cities-are-utopias-of-public-transport-networks-and-green-living-or-they-were-before-i-got-done-with-them",
+          "titre": "Car Park Capital's cities are utopias of public transport networks and green living, or they were before I got done with them"
+        }
+      ]
+    },
+    {
+      "id": "these-are-two-of-the-very-best-amazon-prime-oled-gaming-moni",
+      "titre": "These are two of the very best Amazon Prime OLED gaming monitor deals starting at $280",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/these-are-two-of-the-very-best-amazon-prime-oled-gaming-monitor-deals-starting-at-usd280/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-monitors/these-are-two-of-the-very-best-amazon-prime-oled-gaming-monitor-deals-starting-at-usd280/",
+          "titre": "These are two of the very best Amazon Prime OLED gaming monitor deals starting at $280"
+        }
+      ]
+    },
+    {
+      "id": "south-australian-government-makes-largest-investment-in-game",
+      "titre": "South Australian government makes largest investment in game development by doubling its Digital Games Fund to $1m",
+      "url": "https://www.gamesindustry.biz/south-australian-government-makes-largest-investment-in-game-development-by-doubling-its-digital-games-fund-to-1m",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/south-australian-government-makes-largest-investment-in-game-development-by-doubling-its-digital-games-fund-to-1m",
+          "titre": "South Australian government makes largest investment in game development by doubling its Digital Games Fund to $1m"
+        }
+      ]
+    },
+    {
+      "id": "cd-projekt-red-outlines-which-witcher-3-remastered-fixes-are",
+      "titre": "CD Projekt Red outlines which Witcher 3 Remastered fixes are coming next, but there's still division about the changes",
+      "url": "https://www.eurogamer.net/cd-projekt-red-witcher-3-bugs-issues-remastered-ps5",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/cd-projekt-red-witcher-3-bugs-issues-remastered-ps5",
+          "titre": "CD Projekt Red outlines which Witcher 3 Remastered fixes are coming next, but there's still division about the changes"
+        }
+      ]
+    },
+    {
+      "id": "retro-platformer-series-dizzy-is-back-for-a-new-game-from-it",
+      "titre": "Retro platformer series Dizzy is back for a new game from its original creators, who are really happy for you to know it's made with AI",
+      "url": "https://www.rockpapershotgun.com/retro-platformer-series-dizzy-is-back-for-a-new-game-from-its-original-creators-who-are-really-happy-for-you-to-know-its-made-with-ai",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/retro-platformer-series-dizzy-is-back-for-a-new-game-from-its-original-creators-who-are-really-happy-for-you-to-know-its-made-with-ai",
+          "titre": "Retro platformer series Dizzy is back for a new game from its original creators, who are really happy for you to know it's made with AI"
+        }
+      ]
+    },
+    {
+      "id": "sega-claims-it-s-being-very-cautious-about-ai-and-won-t-use",
+      "titre": "Sega claims it’s being ‘very cautious’ about AI and won’t use it for creative work",
+      "url": "https://www.videogameschronicle.com/news/sega-claims-its-being-very-cautious-about-ai-and-wont-use-it-for-creative-work/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sega-claims-its-being-very-cautious-about-ai-and-wont-use-it-for-creative-work/",
+          "titre": "Sega claims it’s being ‘very cautious’ about AI and won’t use it for creative work"
+        }
+      ]
+    },
+    {
+      "id": "rumour-ape-escape-revival-coming-from-ex-sonic-mania-devs-at",
+      "titre": "Rumour: Ape Escape Revival Coming from Ex-Sonic Mania Devs at Evening Star Studio",
+      "url": "https://www.pushsquare.com/news/2026/10/rumour-ape-escape-revival-coming-from-ex-sonic-mania-devs-at-evening-star-studio",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/rumour-ape-escape-revival-coming-from-ex-sonic-mania-devs-at-evening-star-studio",
+          "titre": "Rumour: Ape Escape Revival Coming from Ex-Sonic Mania Devs at Evening Star Studio"
+        }
+      ]
+    },
+    {
       "id": "following-through-on-their-warning-until-dawn-and-directive",
       "titre": "Following through on their warning, Until Dawn and Directive 8020 devs Supermassive lay off \"more than 70\" staff",
       "url": "https://www.rockpapershotgun.com/following-through-on-their-warning-until-dawn-and-directive-8020-devs-supermassive-lay-off-more-than-70-staff",
@@ -449,7 +599,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -467,7 +617,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -485,7 +635,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -503,7 +653,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -521,7 +671,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -539,31 +689,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/watch-dogs-is-important-to-ubisoft-says-yves-guillemot-but-dont-expect-a-new-one-soon/",
           "titre": "Watch Dogs is ‘important’ to Ubisoft says Yves Guillemot, but don’t expect a new one soon"
-        }
-      ]
-    },
-    {
-      "id": "nba-2k25-servers-to-shut-down-on-december-31-single-player-s",
-      "titre": "NBA 2K25 servers to shut down on December 31, single-player story mode will become unplayable",
-      "url": "https://www.gamesindustry.biz/nba-2k25-servers-to-shut-down-on-december-31-single-player-story-mode-will-become-unplayable",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nba-2k25-servers-to-shut-down-on-december-31-single-player-story-mode-will-become-unplayable",
-          "titre": "NBA 2K25 servers to shut down on December 31, single-player story mode will become unplayable"
         }
       ]
     },
@@ -575,7 +707,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.5,
       "chaleur": 6,
       "liens": [
         {
@@ -586,38 +718,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "steam-sale-deep-cut-alert-this-arpg-originally-developed-for",
-      "titre": "Steam sale deep cut alert: this ARPG originally developed for Nokia N-Gage is brilliant on Deck",
-      "url": "https://www.pcgamer.com/games/rpg/steam-sale-deep-cut-alert-this-arpg-originally-developed-for-nokia-n-gage-is-brilliant-on-deck/",
+      "id": "industry-layoff-watch-supermassive-ninja-theory-the-coalitio",
+      "titre": "Industry layoff watch: Supermassive, Ninja Theory, The Coalition, and a warning from Warhorse",
+      "url": "https://www.pcgamer.com/gaming-industry/industry-layoff-watch-supermassive-ninja-theory-the-coalition-and-a-warning-from-warhorse/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.5,
+      "heures": 13.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/steam-sale-deep-cut-alert-this-arpg-originally-developed-for-nokia-n-gage-is-brilliant-on-deck/",
-          "titre": "Steam sale deep cut alert: this ARPG originally developed for Nokia N-Gage is brilliant on Deck"
-        }
-      ]
-    },
-    {
-      "id": "the-switch-2-exclusive-orbitals-has-received-a-new-game-upda",
-      "titre": "The Switch 2 Exclusive Orbitals Has Received A New Game Update",
-      "url": "https://www.nintendolife.com/news/2026/10/the-switch-2-exclusive-orbitals-has-received-a-new-game-update",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/the-switch-2-exclusive-orbitals-has-received-a-new-game-update",
-          "titre": "The Switch 2 Exclusive Orbitals Has Received A New Game Update"
+          "url": "https://www.pcgamer.com/gaming-industry/industry-layoff-watch-supermassive-ninja-theory-the-coalition-and-a-warning-from-warhorse/",
+          "titre": "Industry layoff watch: Supermassive, Ninja Theory, The Coalition, and a warning from Warhorse"
         }
       ]
     },
@@ -629,7 +743,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 16.2,
       "chaleur": 6,
       "liens": [
         {
@@ -647,7 +761,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.6,
       "chaleur": 6,
       "liens": [
         {
@@ -665,7 +779,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 20.7,
       "chaleur": 6,
       "liens": [
         {
@@ -683,7 +797,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.5,
       "chaleur": 6,
       "liens": [
         {
@@ -701,37 +815,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.0,
+      "heures": 23.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/gta-6-writer-says-the-series-has-never-had-much-focus-on-national-politics-beyond-gta-4s-war-on-terror-and-the-latest-entry-wont-get-too-specific",
           "titre": "GTA 6 writer says the series has never had \"much focus on national politics\" beyond GTA 4's war on terror, and the latest entry won't get \"too specific\""
-        }
-      ]
-    },
-    {
-      "id": "jagex-responds-to-use-of-generative-ai-in-runescape-trailer",
-      "titre": "Jagex responds to use of generative AI in RuneScape trailer made by \"trusted external partner\"",
-      "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 23.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
-          "titre": "Jagex responds to use of generative AI in RuneScape trailer made by \"trusted external partner\""
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/runescape-dragon-slayer-2-trailer-generative-ai",
-          "titre": "RuneScape creator Jagex in hot water over generative AI use in recent trailer"
         }
       ]
     },
@@ -743,13 +833,49 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/i-got-my-start-writing-for-a-playstation-2-magazine-these-are-my-12-ps2-pilled-recommendations-from-the-steam-autumn-sale/",
           "titre": "I got my start writing for a PlayStation 2 magazine: These are my 12 PS2-pilled recommendations from the Steam Autumn Sale"
+        }
+      ]
+    },
+    {
+      "id": "steam-sale-deep-cut-alert-this-arpg-originally-developed-for",
+      "titre": "Steam sale deep cut alert: this ARPG originally developed for Nokia N-Gage is brilliant on Deck",
+      "url": "https://www.pcgamer.com/games/rpg/steam-sale-deep-cut-alert-this-arpg-originally-developed-for-nokia-n-gage-is-brilliant-on-deck/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 12.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/steam-sale-deep-cut-alert-this-arpg-originally-developed-for-nokia-n-gage-is-brilliant-on-deck/",
+          "titre": "Steam sale deep cut alert: this ARPG originally developed for Nokia N-Gage is brilliant on Deck"
+        }
+      ]
+    },
+    {
+      "id": "the-switch-2-exclusive-orbitals-has-received-a-new-game-upda",
+      "titre": "The Switch 2 Exclusive Orbitals Has Received A New Game Update",
+      "url": "https://www.nintendolife.com/news/2026/10/the-switch-2-exclusive-orbitals-has-received-a-new-game-update",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/the-switch-2-exclusive-orbitals-has-received-a-new-game-update",
+          "titre": "The Switch 2 Exclusive Orbitals Has Received A New Game Update"
         }
       ]
     },
@@ -761,7 +887,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 20.0,
       "chaleur": 5,
       "liens": [
         {
@@ -779,31 +905,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 20.2,
       "chaleur": 5,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/i-suppose-playstation-themed-blind-boxes-were-only-a-matter-of-time",
           "titre": "I Suppose PlayStation-Themed Blind Boxes Were Only a Matter of Time"
-        }
-      ]
-    },
-    {
-      "id": "the-coalition-used-the-ssd-on-xbox-series-s-as-makeshift-ram",
-      "titre": "The Coalition used the SSD on Xbox Series S as makeshift RAM to help Gears of War E-Day run smoothly on it",
-      "url": "https://www.videogameschronicle.com/news/the-coalition-used-the-ssd-on-xbox-series-s-as-makeshift-ram-to-help-gears-of-war-e-day-run-smoothly-on-it/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 18.5,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-coalition-used-the-ssd-on-xbox-series-s-as-makeshift-ram-to-help-gears-of-war-e-day-run-smoothly-on-it/",
-          "titre": "The Coalition used the SSD on Xbox Series S as makeshift RAM to help Gears of War E-Day run smoothly on it"
         }
       ]
     },
@@ -815,7 +923,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 22.0,
       "chaleur": 5,
       "liens": [
         {
@@ -833,7 +941,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.4,
       "chaleur": 5,
       "liens": [
         {
@@ -851,7 +959,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 26.5,
       "chaleur": 5,
       "liens": [
         {
@@ -869,13 +977,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.5,
+      "heures": 26.6,
       "chaleur": 5,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/runescape-4-is-a-new-unreal-engine-mmo-which-reportedly-grew-out-of-a-planned-dragonwilds-expansion-though-its-still-a-long-way-off",
           "titre": "RuneScape 4 is a new Unreal Engine MMO which reportedly grew out of a planned Dragonwilds expansion, though it's still a long way off"
+        }
+      ]
+    },
+    {
+      "id": "nba-2k25-servers-to-shut-down-on-december-31-single-player-s",
+      "titre": "NBA 2K25 servers to shut down on December 31, single-player story mode will become unplayable",
+      "url": "https://www.gamesindustry.biz/nba-2k25-servers-to-shut-down-on-december-31-single-player-story-mode-will-become-unplayable",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/nba-2k25-servers-to-shut-down-on-december-31-single-player-story-mode-will-become-unplayable",
+          "titre": "NBA 2K25 servers to shut down on December 31, single-player story mode will become unplayable"
         }
       ]
     },
@@ -887,7 +1013,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +1031,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -923,8 +1049,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -941,8 +1067,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -959,7 +1085,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.7,
+      "heures": 16.8,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +1103,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 19.2,
       "chaleur": 3,
       "liens": [
         {
@@ -995,7 +1121,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1004,133 +1130,9 @@ const VEILLE = {
           "titre": "Aion 2: Splendent Ruby location, Upgrade Essence Extraction Speciality quest guide"
         }
       ]
-    },
-    {
-      "id": "the-final-showdown-motion-blur-vs-chromatic-aberration",
-      "titre": "The final showdown: Motion blur vs chromatic aberration",
-      "url": "https://www.pcgamer.com/hardware/the-final-showdown-motion-blur-vs-chromatic-aberration/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/the-final-showdown-motion-blur-vs-chromatic-aberration/",
-          "titre": "The final showdown: Motion blur vs chromatic aberration"
-        }
-      ]
-    },
-    {
-      "id": "developer-gets-a-little-too-silly-recommends-deadly-psychoac",
-      "titre": "Developer gets a little too silly, recommends deadly psychoactive ingredient in its bad boy-themed cocktail",
-      "url": "https://www.pcgamer.com/games/adventure/developer-gets-a-little-too-silly-recommends-deadly-psychoactive-ingredient-in-its-bad-boy-themed-cocktail/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/adventure/developer-gets-a-little-too-silly-recommends-deadly-psychoactive-ingredient-in-its-bad-boy-themed-cocktail/",
-          "titre": "Developer gets a little too silly, recommends deadly psychoactive ingredient in its bad boy-themed cocktail"
-        }
-      ]
-    },
-    {
-      "id": "noematica-is-a-lucid-dreamer-s-n-dimensional-take-on-the-sim",
-      "titre": "Noematica is a lucid dreamer's \"n-dimensional\" take on The Sims that proudly boasts it will never ever gouge you for DLC",
-      "url": "https://www.rockpapershotgun.com/noematica-is-a-lucid-dreamers-n-dimensional-take-on-the-sims-that-proudly-boasts-it-will-never-ever-gouge-you-for-dlc",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 17.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/noematica-is-a-lucid-dreamers-n-dimensional-take-on-the-sims-that-proudly-boasts-it-will-never-ever-gouge-you-for-dlc",
-          "titre": "Noematica is a lucid dreamer's \"n-dimensional\" take on The Sims that proudly boasts it will never ever gouge you for DLC"
-        }
-      ]
-    },
-    {
-      "id": "the-upcoming-d-d-interpretation-of-world-of-warcraft-sounds",
-      "titre": "The upcoming D&D interpretation of World of Warcraft sounds great, but don't expect it to work like the MMO does",
-      "url": "https://www.eurogamer.net/dungeons-and-dragons-dnd-world-of-warcraft-wow-book",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 18.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dungeons-and-dragons-dnd-world-of-warcraft-wow-book",
-          "titre": "The upcoming D&D interpretation of World of Warcraft sounds great, but don't expect it to work like the MMO does"
-        }
-      ]
-    },
-    {
-      "id": "runescape-dev-apologises-after-runefest-debut-of-an-ai-gener",
-      "titre": "RuneScape dev apologises after RuneFest debut of an AI-generated six-fingered character: 'That's pretty hard to explain away'",
-      "url": "https://www.pcgamer.com/games/mmo/runescape-dev-apologises-after-runefest-debut-of-an-ai-generated-six-fingered-character-thats-pretty-hard-to-explain-away/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 18.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/runescape-dev-apologises-after-runefest-debut-of-an-ai-generated-six-fingered-character-thats-pretty-hard-to-explain-away/",
-          "titre": "RuneScape dev apologises after RuneFest debut of an AI-generated six-fingered character: 'That's pretty hard to explain away'"
-        }
-      ]
-    },
-    {
-      "id": "aion-2-5-things-i-wish-i-knew-before-playing-aion-2",
-      "titre": "Aion 2: 5 things I wish I knew before playing Aion 2",
-      "url": "https://www.videogameschronicle.com/guide/aion-2-5-things-i-wish-i-knew-before-playing-aion-2/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 18.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/aion-2-5-things-i-wish-i-knew-before-playing-aion-2/",
-          "titre": "Aion 2: 5 things I wish I knew before playing Aion 2"
-        }
-      ]
-    },
-    {
-      "id": "arc-raiders-is-looking-for-more-ways-to-integrate-real-human",
-      "titre": "Arc Raiders is looking for 'more ways to integrate real human performances' starting with Celeste's visual overhaul for Frozen Trail",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-looking-for-more-ways-to-integrate-real-human-performances-starting-with-celestes-visual-overhaul-for-frozen-trail/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 18.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-looking-for-more-ways-to-integrate-real-human-performances-starting-with-celestes-visual-overhaul-for-frozen-trail/",
-          "titre": "Arc Raiders is looking for 'more ways to integrate real human performances' starting with Celeste's visual overhaul for Frozen Trail"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "ARC Raiders, The Finals Are the Next Games Set for TV and Movie Adaptations"
+  ]
 };
