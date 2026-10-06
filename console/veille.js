@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "06/10/2026 à 20h23",
+  "collecte": "06/10/2026 à 22h21",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 4,
-      "heures": 9.1,
+      "heures": 11.1,
       "chaleur": 13,
       "liens": [
         {
@@ -40,30 +40,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "unlead-labs-studio-head-says-they-were-irresponsibly-transpa",
-      "titre": "Unlead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs",
-      "url": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
-      "sources": [
-        "Game Developer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 3.2,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
-          "titre": "Unlead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/state-of-decay-studio-boss-says-he-was-irresponsibly-transparent-to-staff-to-make-layoffs-easier-to-take/",
-          "titre": "State of Decay studio boss says he was ‘irresponsibly transparent’ to staff to make layoffs easier to take"
-        }
-      ]
-    },
-    {
       "id": "xbox-elite-series-3-controller-leaks-and-appears-to-offer-be",
       "titre": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more",
       "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
@@ -72,7 +48,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.0,
+      "heures": 9.0,
       "chaleur": 11,
       "liens": [
         {
@@ -88,6 +64,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "unlead-labs-studio-head-says-they-were-irresponsibly-transpa",
+      "titre": "Unlead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs",
+      "url": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
+      "sources": [
+        "Game Developer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 5.1,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
+          "titre": "Unlead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/state-of-decay-studio-boss-says-he-was-irresponsibly-transparent-to-staff-to-make-layoffs-easier-to-take/",
+          "titre": "State of Decay studio boss says he was ‘irresponsibly transparent’ to staff to make layoffs easier to take"
+        }
+      ]
+    },
+    {
       "id": "round-up-the-final-previews-for-nintendo-switch-sports-resor",
       "titre": "Round Up: The Final Previews For Nintendo Switch Sports Resort Are In",
       "url": "https://www.nintendolife.com/news/2026/10/round-up-the-final-previews-for-nintendo-switch-sports-resort-are-in",
@@ -96,7 +96,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 10,
       "liens": [
         {
@@ -121,7 +121,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 10,
       "liens": [
         {
@@ -150,7 +150,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 6.7,
+      "heures": 8.6,
       "chaleur": 10,
       "liens": [
         {
@@ -166,6 +166,48 @@ const VEILLE = {
       ]
     },
     {
+      "id": "cancelled-mmo-spin-off-borderlands-online-is-playable-once-a",
+      "titre": "Cancelled MMO spin-off Borderlands Online is playable once again, and the team behind the unofficial project thankfully didn't use any genAI to get it running",
+      "url": "https://www.rockpapershotgun.com/cancelled-mmo-spin-off-borderlands-online-is-playable-once-again-and-the-team-behind-the-unofficial-project-thankfully-didnt-use-any-genai-to-get-it-running",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 3.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/cancelled-mmo-spin-off-borderlands-online-is-playable-once-again-and-the-team-behind-the-unofficial-project-thankfully-didnt-use-any-genai-to-get-it-running",
+          "titre": "Cancelled MMO spin-off Borderlands Online is playable once again, and the team behind the unofficial project thankfully didn't use any genAI to get it running"
+        }
+      ]
+    },
+    {
+      "id": "warhammer-s-take-on-vampire-survivors-will-eat-our-free-time",
+      "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month",
+      "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 6.6,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
+          "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/roguelike/warhammer-survivors-is-more-than-just-a-vampire-survivors-spin-off/",
+          "titre": "Warhammer Survivors is more than just a Vampire Survivors spin-off"
+        }
+      ]
+    },
+    {
       "id": "nintendo-releases-free-hello-peach-and-hello-luigi-apps-for",
       "titre": "Nintendo releases free Hello, Peach! and Hello, Luigi! apps for children, joining its Mario and Yoshi ones",
       "url": "https://www.videogameschronicle.com/news/nintendo-releases-free-hello-peach-and-hello-luigi-apps-for-children-joining-its-mario-and-yoshi-ones/",
@@ -174,8 +216,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 10.3,
-      "chaleur": 10,
+      "heures": 12.3,
+      "chaleur": 9,
       "liens": [
         {
           "source": "VGC",
@@ -190,20 +232,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "cancelled-mmo-spin-off-borderlands-online-is-playable-once-a",
-      "titre": "Cancelled MMO spin-off Borderlands Online is playable once again, and the team behind the unofficial project thankfully didn't use any genAI to get it running",
-      "url": "https://www.rockpapershotgun.com/cancelled-mmo-spin-off-borderlands-online-is-playable-once-again-and-the-team-behind-the-unofficial-project-thankfully-didnt-use-any-genai-to-get-it-running",
+      "id": "gamestop-other-retailers-to-sell-used-playstation-5-pro-unit",
+      "titre": "GameStop, other retailers to sell used PlayStation 5 Pro units for 66 percent over MSRP",
+      "url": "https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp",
       "sources": [
-        "Rock Paper Shotgun"
+        "Game Developer"
       ],
       "reprises": 1,
-      "heures": 1.0,
-      "chaleur": 9,
+      "heures": 3.5,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cancelled-mmo-spin-off-borderlands-online-is-playable-once-again-and-the-team-behind-the-unofficial-project-thankfully-didnt-use-any-genai-to-get-it-running",
-          "titre": "Cancelled MMO spin-off Borderlands Online is playable once again, and the team behind the unofficial project thankfully didn't use any genAI to get it running"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp",
+          "titre": "GameStop, other retailers to sell used PlayStation 5 Pro units for 66 percent over MSRP"
         }
       ]
     },
@@ -216,8 +258,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 3.4,
-      "chaleur": 9,
+      "heures": 5.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -239,8 +281,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 9,
+      "heures": 5.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -258,8 +300,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 3.9,
-      "chaleur": 9,
+      "heures": 5.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -274,66 +316,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "warhammer-s-take-on-vampire-survivors-will-eat-our-free-time",
-      "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month",
-      "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
-      "sources": [
-        "Nintendo Life",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 4.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
-          "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/roguelike/warhammer-survivors-is-more-than-just-a-vampire-survivors-spin-off/",
-          "titre": "Warhammer Survivors is more than just a Vampire Survivors spin-off"
-        }
-      ]
-    },
-    {
-      "id": "gamestop-other-retailers-to-sell-used-playstation-5-pro-unit",
-      "titre": "GameStop, other retailers to sell used PlayStation 5 Pro units for 66 percent over MSRP",
-      "url": "https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 1.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp",
-          "titre": "GameStop, other retailers to sell used PlayStation 5 Pro units for 66 percent over MSRP"
-        }
-      ]
-    },
-    {
-      "id": "feature-nintendo-life-eshop-selects-september-2026",
-      "titre": "Feature: Nintendo Life eShop Selects (September 2026)",
-      "url": "https://www.nintendolife.com/features/nintendo-life-eshop-selects-september-2026",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/nintendo-life-eshop-selects-september-2026",
-          "titre": "Feature: Nintendo Life eShop Selects (September 2026)"
-        }
-      ]
-    },
-    {
       "id": "after-crazy-taxi-s-ai-drama-sega-says-it-s-being-very-cautio",
       "titre": "After Crazy Taxi's AI Drama, SEGA Says It's Being 'Very Cautious' About Using the Tech",
       "url": "https://www.pushsquare.com/news/2026/10/after-crazy-taxis-ai-drama-sega-says-its-being-very-cautious-about-using-the-tech",
@@ -342,7 +324,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 7,
       "liens": [
         {
@@ -365,31 +347,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.6,
       "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/nintendo-didnt-swerve-product-growth-expert-comments-on-zelda-vs-gta-6",
           "titre": "\"Nintendo Didn't Swerve\" - Product Growth Expert Comments On Zelda Vs. GTA 6"
-        }
-      ]
-    },
-    {
-      "id": "supermassive-games-suffers-layoffs-as-more-than-70-developer",
-      "titre": "Supermassive Games suffers layoffs as more than 70 developers seem to have left the company this week",
-      "url": "https://www.eurogamer.net/supermassive-games-layoffs-70",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/supermassive-games-layoffs-70",
-          "titre": "Supermassive Games suffers layoffs as more than 70 developers seem to have left the company this week"
         }
       ]
     },
@@ -401,7 +365,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 27.6,
+      "heures": 29.6,
       "chaleur": 7,
       "liens": [
         {
@@ -538,6 +502,96 @@ const VEILLE = {
       ]
     },
     {
+      "id": "october-2026-ps-plus-essential-games-available-to-download-n",
+      "titre": "October 2026 PS Plus Essential Games Available to Download Now",
+      "url": "https://www.pushsquare.com/news/2026/10/october-2026-ps-plus-essential-games-available-to-download-now",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/october-2026-ps-plus-essential-games-available-to-download-now",
+          "titre": "October 2026 PS Plus Essential Games Available to Download Now"
+        }
+      ]
+    },
+    {
+      "id": "rotetra-is-tetris-where-the-blocks-fall-from-four-different",
+      "titre": "ROTETRA is Tetris where the blocks fall from four different sides at once and lord almighty I don't have the brainspace to be good at it, but it sure is fun",
+      "url": "https://www.rockpapershotgun.com/rotetra-is-tetris-where-the-blocks-fall-from-four-different-sides-at-once-and-lord-almighty-i-dont-have-the-brainspace-to-be-good-at-it-but-it-sure-is-fun",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/rotetra-is-tetris-where-the-blocks-fall-from-four-different-sides-at-once-and-lord-almighty-i-dont-have-the-brainspace-to-be-good-at-it-but-it-sure-is-fun",
+          "titre": "ROTETRA is Tetris where the blocks fall from four different sides at once and lord almighty I don't have the brainspace to be good at it, but it sure is fun"
+        }
+      ]
+    },
+    {
+      "id": "my-most-played-album-of-2026-sorry-mitski-it-s-final-fantasy",
+      "titre": "My most-played album of 2026? Sorry, Mitski—it's Final Fantasy 10: House Grooves, a real thing that exists",
+      "url": "https://www.pcgamer.com/games/final-fantasy/my-most-played-album-of-2026-sorry-mitski-its-final-fantasy-10-house-grooves-a-real-thing-that-exists/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/final-fantasy/my-most-played-album-of-2026-sorry-mitski-its-final-fantasy-10-house-grooves-a-real-thing-that-exists/",
+          "titre": "My most-played album of 2026? Sorry, Mitski—it's Final Fantasy 10: House Grooves, a real thing that exists"
+        }
+      ]
+    },
+    {
+      "id": "please-give-novus-one-more-chance-an-11-year-old-early-acce",
+      "titre": "'Please give Novus one more chance': An 11-year-old early access survival game just got its first update since 2018",
+      "url": "https://www.pcgamer.com/games/survival-crafting/please-give-novus-one-more-chance-an-11-year-old-early-access-survival-game-just-got-its-first-update-since-2018/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/please-give-novus-one-more-chance-an-11-year-old-early-access-survival-game-just-got-its-first-update-since-2018/",
+          "titre": "'Please give Novus one more chance': An 11-year-old early access survival game just got its first update since 2018"
+        }
+      ]
+    },
+    {
+      "id": "you-and-i-both-know-you-re-not-sleeping-well-in-this-economy",
+      "titre": "You and I both know you're not sleeping well in this economy, so have a gander at Sheeps, a roguelite about counting sheep pouring out of a strange portal",
+      "url": "https://www.rockpapershotgun.com/you-and-i-both-know-youre-not-sleeping-well-in-this-economy-so-have-a-gander-at-sheeps-a-roguelite-about-counting-sheep-pouring-out-of-a-strange-portal",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/you-and-i-both-know-youre-not-sleeping-well-in-this-economy-so-have-a-gander-at-sheeps-a-roguelite-about-counting-sheep-pouring-out-of-a-strange-portal",
+          "titre": "You and I both know you're not sleeping well in this economy, so have a gander at Sheeps, a roguelite about counting sheep pouring out of a strange portal"
+        }
+      ]
+    },
+    {
       "id": "the-pc-gamer-mysteries-case-1-a-slice-of-death-why-is-there",
       "titre": "The PC Gamer Mysteries, Case #1: \"A Slice of Death\": Why is there a dead golfer hidden in Golden Tee '99?",
       "url": "https://www.pcgamer.com/games/sports/the-pc-gamer-mysteries-case-1-a-slice-of-death-why-is-there-a-dead-golfer-hidden-in-golden-tee-99/",
@@ -545,7 +599,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -556,146 +610,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "marvel-tokon-will-fully-reveal-first-dlc-fighter-phoenix-cyc",
-      "titre": "Marvel Tokon Will Fully Reveal First DLC Fighter Phoenix Cyclops This Week",
-      "url": "https://www.pushsquare.com/news/2026/10/marvel-tokon-will-fully-reveal-first-dlc-fighter-phoenix-cyclops-this-week",
+      "id": "feature-nintendo-life-eshop-selects-september-2026",
+      "titre": "Feature: Nintendo Life eShop Selects (September 2026)",
+      "url": "https://www.nintendolife.com/features/nintendo-life-eshop-selects-september-2026",
       "sources": [
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 5.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/marvel-tokon-will-fully-reveal-first-dlc-fighter-phoenix-cyclops-this-week",
-          "titre": "Marvel Tokon Will Fully Reveal First DLC Fighter Phoenix Cyclops This Week"
-        }
-      ]
-    },
-    {
-      "id": "gears-of-war-e-day-review-terrific-shooting-buoys-a-sluggish",
-      "titre": "Gears of War: E-Day review — terrific shooting buoys a sluggish campaign",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review/",
-          "titre": "Gears of War: E-Day review — terrific shooting buoys a sluggish campaign"
-        }
-      ]
-    },
-    {
-      "id": "your-word-is-undeniable-truth-can-t-be-bothered-to-find-evi",
-      "titre": "\"Your word is undeniable truth\": Can't be bothered to find evidence in Warhammer 40,000: Dark Heresy? It's fine, because no matter what, you're always right",
-      "url": "https://www.rockpapershotgun.com/your-word-is-undeniable-truth-cant-be-bothered-to-find-evidence-in-warhammer-40000-dark-heresy-its-fine-because-no-matter-what-youre-always-right",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/your-word-is-undeniable-truth-cant-be-bothered-to-find-evidence-in-warhammer-40000-dark-heresy-its-fine-because-no-matter-what-youre-always-right",
-          "titre": "\"Your word is undeniable truth\": Can't be bothered to find evidence in Warhammer 40,000: Dark Heresy? It's fine, because no matter what, you're always right"
-        }
-      ]
-    },
-    {
-      "id": "take-out-some-monsters-and-then-turn-them-into-take-out-in-t",
-      "titre": "Take out some monsters and then turn them into take-out in the post-apocalyptic tycoon survival sim Midwest 90: Rapid City, out in early access next month",
-      "url": "https://www.rockpapershotgun.com/take-out-some-monsters-and-then-turn-them-into-take-out-in-the-post-apocalyptic-tycoon-survival-sim-midwest-90-rapid-city-out-in-early-access-next-month",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/take-out-some-monsters-and-then-turn-them-into-take-out-in-the-post-apocalyptic-tycoon-survival-sim-midwest-90-rapid-city-out-in-early-access-next-month",
-          "titre": "Take out some monsters and then turn them into take-out in the post-apocalyptic tycoon survival sim Midwest 90: Rapid City, out in early access next month"
-        }
-      ]
-    },
-    {
-      "id": "space-harrier-fans-you-need-to-keep-an-eye-on-this-ps5-arcad",
-      "titre": "Space Harrier Fans, You Need to Keep an Eye on This PS5 Arcade Shooter",
-      "url": "https://www.pushsquare.com/news/2026/10/space-harrier-fans-you-need-to-keep-an-eye-on-this-ps5-arcade-shooter",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/space-harrier-fans-you-need-to-keep-an-eye-on-this-ps5-arcade-shooter",
-          "titre": "Space Harrier Fans, You Need to Keep an Eye on This PS5 Arcade Shooter"
-        }
-      ]
-    },
-    {
-      "id": "amazon-prime-s-10-free-games-for-october-include-five-nights",
-      "titre": "Amazon Prime’s 10 ‘free’ games for October include Five Nights at Freddy’s: Into the Pit and Doom 2016",
-      "url": "https://www.videogameschronicle.com/news/amazon-primes-10-free-games-for-october-include-five-nights-at-freddys-into-the-pit-and-doom-2016/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/amazon-primes-10-free-games-for-october-include-five-nights-at-freddys-into-the-pit-and-doom-2016/",
-          "titre": "Amazon Prime’s 10 ‘free’ games for October include Five Nights at Freddy’s: Into the Pit and Doom 2016"
-        }
-      ]
-    },
-    {
-      "id": "rumour-watch-dogs-legion-to-receive-surprise-ps5-remake-next",
-      "titre": "Rumour: Watch Dogs Legion to Receive Surprise PS5 Remake Next Year",
-      "url": "https://www.pushsquare.com/news/2026/10/rumour-watch-dogs-legion-to-receive-surprise-ps5-remake-next-year",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/rumour-watch-dogs-legion-to-receive-surprise-ps5-remake-next-year",
-          "titre": "Rumour: Watch Dogs Legion to Receive Surprise PS5 Remake Next Year"
-        }
-      ]
-    },
-    {
-      "id": "this-needs-to-change-ps5-influencer-regains-access-to-accou",
-      "titre": "'This Needs to Change': PS5 Influencer Regains Access to Account, But Admits 'Not Many Have My Reach'",
-      "url": "https://www.pushsquare.com/news/2026/10/this-needs-to-change-ps5-influencer-regains-access-to-account-but-admits-not-many-have-my-reach",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/this-needs-to-change-ps5-influencer-regains-access-to-account-but-admits-not-many-have-my-reach",
-          "titre": "'This Needs to Change': PS5 Influencer Regains Access to Account, But Admits 'Not Many Have My Reach'"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/nintendo-life-eshop-selects-september-2026",
+          "titre": "Feature: Nintendo Life eShop Selects (September 2026)"
         }
       ]
     },
@@ -707,7 +635,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 6,
       "liens": [
         {
@@ -725,7 +653,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 10.7,
       "chaleur": 6,
       "liens": [
         {
@@ -743,7 +671,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
@@ -754,20 +682,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "if-you-don-t-own-it-what-are-you-buying-former-playstation",
-      "titre": "‘If you don’t own it, what are you buying?’ Former PlayStation boss says dropping discs is ‘a significant brand hit’",
-      "url": "https://www.videogameschronicle.com/news/if-you-dont-own-it-what-are-you-buying-former-playstation-boss-says-dropping-discs-is-a-significant-brand-hit/",
+      "id": "supermassive-games-suffers-layoffs-as-more-than-70-developer",
+      "titre": "Supermassive Games suffers layoffs as more than 70 developers seem to have left the company this week",
+      "url": "https://www.eurogamer.net/supermassive-games-layoffs-70",
       "sources": [
-        "VGC"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.2,
+      "heures": 13.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/if-you-dont-own-it-what-are-you-buying-former-playstation-boss-says-dropping-discs-is-a-significant-brand-hit/",
-          "titre": "‘If you don’t own it, what are you buying?’ Former PlayStation boss says dropping discs is ‘a significant brand hit’"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/supermassive-games-layoffs-70",
+          "titre": "Supermassive Games suffers layoffs as more than 70 developers seem to have left the company this week"
         }
       ]
     },
@@ -779,7 +707,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.4,
       "chaleur": 6,
       "liens": [
         {
@@ -797,7 +725,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.8,
+      "heures": 23.7,
       "chaleur": 6,
       "liens": [
         {
@@ -815,7 +743,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.1,
+      "heures": 26.1,
       "chaleur": 6,
       "liens": [
         {
@@ -833,7 +761,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 27.5,
       "chaleur": 6,
       "liens": [
         {
@@ -851,7 +779,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.6,
+      "heures": 30.6,
       "chaleur": 6,
       "liens": [
         {
@@ -869,13 +797,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 31.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
           "titre": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events"
+        }
+      ]
+    },
+    {
+      "id": "if-you-don-t-own-it-what-are-you-buying-former-playstation",
+      "titre": "‘If you don’t own it, what are you buying?’ Former PlayStation boss says dropping discs is ‘a significant brand hit’",
+      "url": "https://www.videogameschronicle.com/news/if-you-dont-own-it-what-are-you-buying-former-playstation-boss-says-dropping-discs-is-a-significant-brand-hit/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 13.2,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/if-you-dont-own-it-what-are-you-buying-former-playstation-boss-says-dropping-discs-is-a-significant-brand-hit/",
+          "titre": "‘If you don’t own it, what are you buying?’ Former PlayStation boss says dropping discs is ‘a significant brand hit’"
         }
       ]
     },
@@ -887,7 +833,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.4,
       "chaleur": 5,
       "liens": [
         {
@@ -905,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.5,
+      "heures": 22.4,
       "chaleur": 5,
       "liens": [
         {
@@ -923,7 +869,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.5,
+      "heures": 22.4,
       "chaleur": 5,
       "liens": [
         {
@@ -941,13 +887,157 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.9,
+      "heures": 29.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/i-wanted-to-challenge-myself-former-warioware-director-talks-life-after-nintendo",
           "titre": "\"I Wanted To Challenge Myself\" - Former WarioWare Director Talks Life After Nintendo"
+        }
+      ]
+    },
+    {
+      "id": "marvel-tokon-will-fully-reveal-first-dlc-fighter-phoenix-cyc",
+      "titre": "Marvel Tokon Will Fully Reveal First DLC Fighter Phoenix Cyclops This Week",
+      "url": "https://www.pushsquare.com/news/2026/10/marvel-tokon-will-fully-reveal-first-dlc-fighter-phoenix-cyclops-this-week",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/marvel-tokon-will-fully-reveal-first-dlc-fighter-phoenix-cyclops-this-week",
+          "titre": "Marvel Tokon Will Fully Reveal First DLC Fighter Phoenix Cyclops This Week"
+        }
+      ]
+    },
+    {
+      "id": "gears-of-war-e-day-review-terrific-shooting-buoys-a-sluggish",
+      "titre": "Gears of War: E-Day review — terrific shooting buoys a sluggish campaign",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review/",
+          "titre": "Gears of War: E-Day review — terrific shooting buoys a sluggish campaign"
+        }
+      ]
+    },
+    {
+      "id": "your-word-is-undeniable-truth-can-t-be-bothered-to-find-evi",
+      "titre": "\"Your word is undeniable truth\": Can't be bothered to find evidence in Warhammer 40,000: Dark Heresy? It's fine, because no matter what, you're always right",
+      "url": "https://www.rockpapershotgun.com/your-word-is-undeniable-truth-cant-be-bothered-to-find-evidence-in-warhammer-40000-dark-heresy-its-fine-because-no-matter-what-youre-always-right",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/your-word-is-undeniable-truth-cant-be-bothered-to-find-evidence-in-warhammer-40000-dark-heresy-its-fine-because-no-matter-what-youre-always-right",
+          "titre": "\"Your word is undeniable truth\": Can't be bothered to find evidence in Warhammer 40,000: Dark Heresy? It's fine, because no matter what, you're always right"
+        }
+      ]
+    },
+    {
+      "id": "take-out-some-monsters-and-then-turn-them-into-take-out-in-t",
+      "titre": "Take out some monsters and then turn them into take-out in the post-apocalyptic tycoon survival sim Midwest 90: Rapid City, out in early access next month",
+      "url": "https://www.rockpapershotgun.com/take-out-some-monsters-and-then-turn-them-into-take-out-in-the-post-apocalyptic-tycoon-survival-sim-midwest-90-rapid-city-out-in-early-access-next-month",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/take-out-some-monsters-and-then-turn-them-into-take-out-in-the-post-apocalyptic-tycoon-survival-sim-midwest-90-rapid-city-out-in-early-access-next-month",
+          "titre": "Take out some monsters and then turn them into take-out in the post-apocalyptic tycoon survival sim Midwest 90: Rapid City, out in early access next month"
+        }
+      ]
+    },
+    {
+      "id": "space-harrier-fans-you-need-to-keep-an-eye-on-this-ps5-arcad",
+      "titre": "Space Harrier Fans, You Need to Keep an Eye on This PS5 Arcade Shooter",
+      "url": "https://www.pushsquare.com/news/2026/10/space-harrier-fans-you-need-to-keep-an-eye-on-this-ps5-arcade-shooter",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/space-harrier-fans-you-need-to-keep-an-eye-on-this-ps5-arcade-shooter",
+          "titre": "Space Harrier Fans, You Need to Keep an Eye on This PS5 Arcade Shooter"
+        }
+      ]
+    },
+    {
+      "id": "amazon-prime-s-10-free-games-for-october-include-five-nights",
+      "titre": "Amazon Prime’s 10 ‘free’ games for October include Five Nights at Freddy’s: Into the Pit and Doom 2016",
+      "url": "https://www.videogameschronicle.com/news/amazon-primes-10-free-games-for-october-include-five-nights-at-freddys-into-the-pit-and-doom-2016/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/amazon-primes-10-free-games-for-october-include-five-nights-at-freddys-into-the-pit-and-doom-2016/",
+          "titre": "Amazon Prime’s 10 ‘free’ games for October include Five Nights at Freddy’s: Into the Pit and Doom 2016"
+        }
+      ]
+    },
+    {
+      "id": "rumour-watch-dogs-legion-to-receive-surprise-ps5-remake-next",
+      "titre": "Rumour: Watch Dogs Legion to Receive Surprise PS5 Remake Next Year",
+      "url": "https://www.pushsquare.com/news/2026/10/rumour-watch-dogs-legion-to-receive-surprise-ps5-remake-next-year",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/rumour-watch-dogs-legion-to-receive-surprise-ps5-remake-next-year",
+          "titre": "Rumour: Watch Dogs Legion to Receive Surprise PS5 Remake Next Year"
+        }
+      ]
+    },
+    {
+      "id": "this-needs-to-change-ps5-influencer-regains-access-to-accou",
+      "titre": "'This Needs to Change': PS5 Influencer Regains Access to Account, But Admits 'Not Many Have My Reach'",
+      "url": "https://www.pushsquare.com/news/2026/10/this-needs-to-change-ps5-influencer-regains-access-to-account-but-admits-not-many-have-my-reach",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/this-needs-to-change-ps5-influencer-regains-access-to-account-but-admits-not-many-have-my-reach",
+          "titre": "'This Needs to Change': PS5 Influencer Regains Access to Account, But Admits 'Not Many Have My Reach'"
         }
       ]
     },
@@ -959,7 +1049,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 6.0,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +1067,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +1085,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,7 +1103,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,7 +1121,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1049,7 +1139,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1067,103 +1157,13 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/production/co-dev-case-study-how-blackbird-interactive-and-secret-mode-helped-escape-the-backrooms-ride-the-backrooms-hype-wave",
           "titre": "Co-dev case study: How Blackbird Interactive and Secret Mode helped Escape the Backrooms ride the Backrooms hype wave"
-        }
-      ]
-    },
-    {
-      "id": "sega-s-newly-launched-sonic-discord-server-is-off-to-a-rough",
-      "titre": "Sega’s newly launched Sonic Discord server is off to a rough start with questionable content, bans and a lockdown",
-      "url": "https://www.videogameschronicle.com/news/segas-newly-launched-sonic-discord-server-is-off-to-a-rough-start-with-questionable-content-bans-and-a-lockdown/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 5.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/segas-newly-launched-sonic-discord-server-is-off-to-a-rough-start-with-questionable-content-bans-and-a-lockdown/",
-          "titre": "Sega’s newly launched Sonic Discord server is off to a rough start with questionable content, bans and a lockdown"
-        }
-      ]
-    },
-    {
-      "id": "question-passengers-with-tarot-like-cards-in-dreadline-expre",
-      "titre": "Question passengers with tarot-like cards in Dreadline Express, a train mystery with the most intriguing conversation system I've played since Her Story",
-      "url": "https://www.rockpapershotgun.com/question-passengers-with-tarot-like-cards-in-dreadline-express-a-train-mystery-with-the-most-intriguing-conversation-system-ive-played-since-her-story",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 5.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/question-passengers-with-tarot-like-cards-in-dreadline-express-a-train-mystery-with-the-most-intriguing-conversation-system-ive-played-since-her-story",
-          "titre": "Question passengers with tarot-like cards in Dreadline Express, a train mystery with the most intriguing conversation system I've played since Her Story"
-        }
-      ]
-    },
-    {
-      "id": "claim-two-major-ps4-games-for-free-right-now-in-europe-no-ps",
-      "titre": "Claim Two Major PS4 Games for Free Right Now in Europe, No PS Plus Required",
-      "url": "https://www.pushsquare.com/news/2026/10/claim-two-major-ps4-games-for-free-right-now-in-europe-no-ps-plus-required",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 5.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/claim-two-major-ps4-games-for-free-right-now-in-europe-no-ps-plus-required",
-          "titre": "Claim Two Major PS4 Games for Free Right Now in Europe, No PS Plus Required"
-        }
-      ]
-    },
-    {
-      "id": "warhammer-s-vampire-survivors-like-brings-insane-pixel-actio",
-      "titre": "Warhammer's Vampire Survivors-Like Brings Insane Pixel Action to PS5 in November",
-      "url": "https://www.pushsquare.com/news/2026/10/warhammers-vampire-survivors-like-brings-insane-pixel-action-to-ps5-in-november",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 6.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/warhammers-vampire-survivors-like-brings-insane-pixel-action-to-ps5-in-november",
-          "titre": "Warhammer's Vampire Survivors-Like Brings Insane Pixel Action to PS5 in November"
-        }
-      ]
-    },
-    {
-      "id": "gundam-rogue-orbit-gave-me-a-sick-whip-sword-but-held-back-t",
-      "titre": "Gundam Rogue Orbit gave me a sick whip sword, but held back the one thing I want most in a mech game",
-      "url": "https://www.pcgamer.com/games/action/gundam-rogue-orbit-gave-me-a-sick-whip-sword-but-held-back-the-one-thing-i-want-most-in-a-mech-game/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/gundam-rogue-orbit-gave-me-a-sick-whip-sword-but-held-back-the-one-thing-i-want-most-in-a-mech-game/",
-          "titre": "Gundam Rogue Orbit gave me a sick whip sword, but held back the one thing I want most in a mech game"
         }
       ]
     }
