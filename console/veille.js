@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "05/10/2026 à 22h21",
+  "collecte": "06/10/2026 à 00h32",
   "seuil": 14,
   "sujets": [
     {
@@ -13,7 +13,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 4.6,
+      "heures": 6.8,
       "chaleur": 15,
       "liens": [
         {
@@ -43,8 +43,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 3,
-      "heures": 2.8,
-      "chaleur": 12,
+      "heures": 5.0,
+      "chaleur": 10,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -64,6 +64,96 @@ const VEILLE = {
       ]
     },
     {
+      "id": "industry-layoff-watch-supermassive-ninja-theory-the-coalitio",
+      "titre": "Industry layoff watch: Supermassive, Ninja Theory, The Coalition, and a warning from Warhorse",
+      "url": "https://www.pcgamer.com/gaming-industry/industry-layoff-watch-supermassive-ninja-theory-the-coalition-and-a-warning-from-warhorse/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/industry-layoff-watch-supermassive-ninja-theory-the-coalition-and-a-warning-from-warhorse/",
+          "titre": "Industry layoff watch: Supermassive, Ninja Theory, The Coalition, and a warning from Warhorse"
+        }
+      ]
+    },
+    {
+      "id": "dark-pictures-dev-s-layoffs-have-begun-over-70-staff-reporte",
+      "titre": "Dark Pictures Dev's Layoffs Have Begun, Over 70 Staff Reportedly Let Go",
+      "url": "https://www.pushsquare.com/news/2026/10/dark-pictures-devs-layoffs-have-begun-over-70-staff-reportedly-let-go",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 8.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/dark-pictures-devs-layoffs-have-begun-over-70-staff-reportedly-let-go",
+          "titre": "Dark Pictures Dev's Layoffs Have Begun, Over 70 Staff Reportedly Let Go"
+        }
+      ]
+    },
+    {
+      "id": "steam-sale-deep-cut-alert-this-arpg-originally-developed-for",
+      "titre": "Steam sale deep cut alert: this ARPG originally developed for Nokia N-Gage is brilliant on Deck",
+      "url": "https://www.pcgamer.com/games/rpg/steam-sale-deep-cut-alert-this-arpg-originally-developed-for-nokia-n-gage-is-brilliant-on-deck/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/steam-sale-deep-cut-alert-this-arpg-originally-developed-for-nokia-n-gage-is-brilliant-on-deck/",
+          "titre": "Steam sale deep cut alert: this ARPG originally developed for Nokia N-Gage is brilliant on Deck"
+        }
+      ]
+    },
+    {
+      "id": "the-switch-2-exclusive-orbitals-has-received-a-new-game-upda",
+      "titre": "The Switch 2 Exclusive Orbitals Has Received A New Game Update",
+      "url": "https://www.nintendolife.com/news/2026/10/the-switch-2-exclusive-orbitals-has-received-a-new-game-update",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/the-switch-2-exclusive-orbitals-has-received-a-new-game-update",
+          "titre": "The Switch 2 Exclusive Orbitals Has Received A New Game Update"
+        }
+      ]
+    },
+    {
+      "id": "report-ninja-theory-lays-off-workers-after-failing-to-spin-o",
+      "titre": "Report: Ninja Theory lays off workers after failing to spin off from Xbox",
+      "url": "https://www.gamedeveloper.com/business/report-ninja-theory-lays-off-workers-after-failing-to-spin-off-from-xbox",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 7.8,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/report-ninja-theory-lays-off-workers-after-failing-to-spin-off-from-xbox",
+          "titre": "Report: Ninja Theory lays off workers after failing to spin off from Xbox"
+        }
+      ]
+    },
+    {
       "id": "gta-6-devs-tried-not-to-jump-on-the-bandwagon-of-passing-tre",
       "titre": "GTA 6 devs tried \"not to jump on the bandwagon\" of passing trends and instead created their \"own slanted, overblown versions\"",
       "url": "https://www.eurogamer.net/gta-6-devs-bandwagon-trends-created-slanted-versions",
@@ -71,8 +161,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 9,
+      "heures": 4.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
@@ -89,67 +179,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 9,
+      "heures": 5.6,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/halo-studios-absolutely-our-intent-new-book-activision-reboot",
           "titre": "Halo Studios says \"it is absolutely our intent\" to release new Halo book, despite layoffs and a rumored lore reboot from Activision"
-        }
-      ]
-    },
-    {
-      "id": "dark-pictures-dev-s-layoffs-have-begun-over-70-staff-reporte",
-      "titre": "Dark Pictures Dev's Layoffs Have Begun, Over 70 Staff Reportedly Let Go",
-      "url": "https://www.pushsquare.com/news/2026/10/dark-pictures-devs-layoffs-have-begun-over-70-staff-reportedly-let-go",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/dark-pictures-devs-layoffs-have-begun-over-70-staff-reportedly-let-go",
-          "titre": "Dark Pictures Dev's Layoffs Have Begun, Over 70 Staff Reportedly Let Go"
-        }
-      ]
-    },
-    {
-      "id": "report-ninja-theory-lays-off-workers-after-failing-to-spin-o",
-      "titre": "Report: Ninja Theory lays off workers after failing to spin off from Xbox",
-      "url": "https://www.gamedeveloper.com/business/report-ninja-theory-lays-off-workers-after-failing-to-spin-off-from-xbox",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 5.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/report-ninja-theory-lays-off-workers-after-failing-to-spin-off-from-xbox",
-          "titre": "Report: Ninja Theory lays off workers after failing to spin off from Xbox"
-        }
-      ]
-    },
-    {
-      "id": "millions-return-to-the-witcher-3-as-the-remastered-game-reco",
-      "titre": "Millions return to The Witcher 3 as the Remastered game records another Steam personal best and sales skyrocket",
-      "url": "https://www.eurogamer.net/witcher-3-remastered-steam-players-sales",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-remastered-steam-players-sales",
-          "titre": "Millions return to The Witcher 3 as the Remastered game records another Steam personal best and sales skyrocket"
         }
       ]
     },
@@ -161,7 +197,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.8,
       "chaleur": 7,
       "liens": [
         {
@@ -179,7 +215,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.5,
       "chaleur": 7,
       "liens": [
         {
@@ -197,7 +233,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 11.2,
       "chaleur": 7,
       "liens": [
         {
@@ -208,68 +244,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ai-game-mashup-videos-on-social-media-spark-debate-and-backl",
-      "titre": "AI game mashup videos on social media spark debate and backlash among players and modders",
-      "url": "https://www.videogameschronicle.com/news/ai-game-mashup-videos-on-social-media-spark-debate-and-backlash-among-players-and-modders/",
+      "id": "millions-return-to-the-witcher-3-as-the-remastered-game-reco",
+      "titre": "Millions return to The Witcher 3 as the Remastered game records another Steam personal best and sales skyrocket",
+      "url": "https://www.eurogamer.net/witcher-3-remastered-steam-players-sales",
       "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 11.0,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/ai-game-mashup-videos-on-social-media-spark-debate-and-backlash-among-players-and-modders/",
-          "titre": "AI game mashup videos on social media spark debate and backlash among players and modders"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash",
-          "titre": "Modders are furious as Claude-powered mashup mods flood social media"
-        }
-      ]
-    },
-    {
-      "id": "jagex-responds-to-use-of-generative-ai-in-runescape-trailer",
-      "titre": "Jagex responds to use of generative AI in RuneScape trailer made by \"trusted external partner\"",
-      "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 11.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
-          "titre": "Jagex responds to use of generative AI in RuneScape trailer made by \"trusted external partner\""
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/runescape-dragon-slayer-2-trailer-generative-ai",
-          "titre": "RuneScape creator Jagex in hot water over generative AI use in recent trailer"
-        }
-      ]
-    },
-    {
-      "id": "i-got-my-start-writing-for-a-playstation-2-magazine-these-ar",
-      "titre": "I got my start writing for a PlayStation 2 magazine: These are my 12 PS2-pilled recommendations from the Steam Autumn Sale",
-      "url": "https://www.pcgamer.com/games/i-got-my-start-writing-for-a-playstation-2-magazine-these-are-my-12-ps2-pilled-recommendations-from-the-steam-autumn-sale/",
-      "sources": [
-        "PC Gamer"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
+      "heures": 13.2,
       "chaleur": 7,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/i-got-my-start-writing-for-a-playstation-2-magazine-these-are-my-12-ps2-pilled-recommendations-from-the-steam-autumn-sale/",
-          "titre": "I got my start writing for a PlayStation 2 magazine: These are my 12 PS2-pilled recommendations from the Steam Autumn Sale"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/witcher-3-remastered-steam-players-sales",
+          "titre": "Millions return to The Witcher 3 as the Remastered game records another Steam personal best and sales skyrocket"
         }
       ]
     },
@@ -461,7 +449,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 1.3,
       "chaleur": 6,
       "liens": [
         {
@@ -479,31 +467,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 1.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/this-scrappy-new-superhero-game-could-be-what-marvels-avengers-wanted-to-be",
           "titre": "This Scrappy New Superhero Game Could Be What Marvel's Avengers Wanted to Be"
-        }
-      ]
-    },
-    {
-      "id": "despite-calling-grand-theft-auto-a-videogame-franchise-built",
-      "titre": "Despite calling Grand Theft Auto 'a videogame franchise built around criminal activity,' Miami-Dade sheriff isn't mad about the NBA's 'Vice City' transformation",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/despite-calling-grand-theft-auto-a-videogame-franchise-built-around-criminal-activity-miami-dade-sheriff-isnt-mad-about-the-nbas-vice-city-transformation/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/despite-calling-grand-theft-auto-a-videogame-franchise-built-around-criminal-activity-miami-dade-sheriff-isnt-mad-about-the-nbas-vice-city-transformation/",
-          "titre": "Despite calling Grand Theft Auto 'a videogame franchise built around criminal activity,' Miami-Dade sheriff isn't mad about the NBA's 'Vice City' transformation"
         }
       ]
     },
@@ -515,7 +485,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 8.0,
       "chaleur": 6,
       "liens": [
         {
@@ -533,7 +503,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.3,
       "chaleur": 6,
       "liens": [
         {
@@ -551,7 +521,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.7,
       "chaleur": 6,
       "liens": [
         {
@@ -569,13 +539,97 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 10.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/hellblade-dev-begins-shedding-staff-months-after-revealing-new-game-at-xbox-showcase",
           "titre": "Hellblade Dev Begins Shedding Staff, Months After Revealing New Game at Xbox Showcase"
+        }
+      ]
+    },
+    {
+      "id": "ai-game-mashup-videos-on-social-media-spark-debate-and-backl",
+      "titre": "AI game mashup videos on social media spark debate and backlash among players and modders",
+      "url": "https://www.videogameschronicle.com/news/ai-game-mashup-videos-on-social-media-spark-debate-and-backlash-among-players-and-modders/",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 13.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/ai-game-mashup-videos-on-social-media-spark-debate-and-backlash-among-players-and-modders/",
+          "titre": "AI game mashup videos on social media spark debate and backlash among players and modders"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash",
+          "titre": "Modders are furious as Claude-powered mashup mods flood social media"
+        }
+      ]
+    },
+    {
+      "id": "jagex-responds-to-use-of-generative-ai-in-runescape-trailer",
+      "titre": "Jagex responds to use of generative AI in RuneScape trailer made by \"trusted external partner\"",
+      "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 13.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
+          "titre": "Jagex responds to use of generative AI in RuneScape trailer made by \"trusted external partner\""
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/runescape-dragon-slayer-2-trailer-generative-ai",
+          "titre": "RuneScape creator Jagex in hot water over generative AI use in recent trailer"
+        }
+      ]
+    },
+    {
+      "id": "i-got-my-start-writing-for-a-playstation-2-magazine-these-ar",
+      "titre": "I got my start writing for a PlayStation 2 magazine: These are my 12 PS2-pilled recommendations from the Steam Autumn Sale",
+      "url": "https://www.pcgamer.com/games/i-got-my-start-writing-for-a-playstation-2-magazine-these-are-my-12-ps2-pilled-recommendations-from-the-steam-autumn-sale/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 13.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/i-got-my-start-writing-for-a-playstation-2-magazine-these-are-my-12-ps2-pilled-recommendations-from-the-steam-autumn-sale/",
+          "titre": "I got my start writing for a PlayStation 2 magazine: These are my 12 PS2-pilled recommendations from the Steam Autumn Sale"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-is-deliberately-avoiding-direct-political-references-s",
+      "titre": "GTA 6 is deliberately avoiding direct political references, says Rockstar",
+      "url": "https://www.videogameschronicle.com/news/gta-6-is-deliberately-avoiding-direct-political-references-says-rockstar/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 14.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/gta-6-is-deliberately-avoiding-direct-political-references-says-rockstar/",
+          "titre": "GTA 6 is deliberately avoiding direct political references, says Rockstar"
         }
       ]
     },
@@ -587,8 +641,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.9,
-      "chaleur": 6,
+      "heures": 12.0,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -605,31 +659,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 6,
+      "heures": 13.5,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/ace-combat-8-steam-launch-record-players",
           "titre": "Ace Combat 8 is far and away the series' biggest launch on Steam"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-is-deliberately-avoiding-direct-political-references-s",
-      "titre": "GTA 6 is deliberately avoiding direct political references, says Rockstar",
-      "url": "https://www.videogameschronicle.com/news/gta-6-is-deliberately-avoiding-direct-political-references-says-rockstar/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 12.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/gta-6-is-deliberately-avoiding-direct-political-references-says-rockstar/",
-          "titre": "GTA 6 is deliberately avoiding direct political references, says Rockstar"
         }
       ]
     },
@@ -641,7 +677,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.5,
       "chaleur": 5,
       "liens": [
         {
@@ -659,7 +695,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.7,
       "chaleur": 5,
       "liens": [
         {
@@ -677,13 +713,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 31.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/minecraft-dungeons-ii",
           "titre": "Review: Minecraft Dungeons II (Switch 2) - A Fun But Flawed Dungeon-Crawling Sequel With Great Co-Op"
+        }
+      ]
+    },
+    {
+      "id": "despite-calling-grand-theft-auto-a-videogame-franchise-built",
+      "titre": "Despite calling Grand Theft Auto 'a videogame franchise built around criminal activity,' Miami-Dade sheriff isn't mad about the NBA's 'Vice City' transformation",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/despite-calling-grand-theft-auto-a-videogame-franchise-built-around-criminal-activity-miami-dade-sheriff-isnt-mad-about-the-nbas-vice-city-transformation/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/despite-calling-grand-theft-auto-a-videogame-franchise-built-around-criminal-activity-miami-dade-sheriff-isnt-mad-about-the-nbas-vice-city-transformation/",
+          "titre": "Despite calling Grand Theft Auto 'a videogame franchise built around criminal activity,' Miami-Dade sheriff isn't mad about the NBA's 'Vice City' transformation"
         }
       ]
     },
@@ -695,7 +749,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -713,7 +767,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -731,7 +785,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -749,7 +803,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -767,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -785,7 +839,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -803,7 +857,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -821,7 +875,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -839,7 +893,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -857,7 +911,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -875,7 +929,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -893,7 +947,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -911,7 +965,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -929,7 +983,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -947,7 +1001,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -965,7 +1019,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -983,7 +1037,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1001,7 +1055,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1019,7 +1073,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1037,7 +1091,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1055,67 +1109,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/reviews/ps5/dune-awakening",
           "titre": "Review: Dune: Awakening (PS5) - What a Time to Be a Duner"
-        }
-      ]
-    },
-    {
-      "id": "sword-sage-awakening-feels-like-a-breezier-kind-of-soulslike",
-      "titre": "Sword Sage: Awakening feels like a breezier kind of Soulslike, and it's not just the adorable tea-serving panda that's got me intrigued",
-      "url": "https://www.eurogamer.net/sword-sage-awakening-gamescom-preview",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sword-sage-awakening-gamescom-preview",
-          "titre": "Sword Sage: Awakening feels like a breezier kind of Soulslike, and it's not just the adorable tea-serving panda that's got me intrigued"
-        }
-      ]
-    },
-    {
-      "id": "dragon-s-dogma-2-dark-arisen-devs-explain-why-they-re-not-ab",
-      "titre": "Dragon’s Dogma 2: Dark Arisen devs explain why they’re not abandoning the ‘friction’ that makes it special",
-      "url": "https://www.videogameschronicle.com/features/interviews/dragons-dogma-2-dark-arisen/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/interviews/dragons-dogma-2-dark-arisen/",
-          "titre": "Dragon’s Dogma 2: Dark Arisen devs explain why they’re not abandoning the ‘friction’ that makes it special"
-        }
-      ]
-    },
-    {
-      "id": "feature-last-chance-to-buy-these-40-ps5-ps4-games-in-ps-stor",
-      "titre": "Feature: Last Chance to Buy These 40+ PS5, PS4 Games in PS Store's Autumn Adventures Sale",
-      "url": "https://www.pushsquare.com/features/last-chance-to-buy-these-40plus-ps5-ps4-games-in-ps-stores-autumn-adventures-sale",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/last-chance-to-buy-these-40plus-ps5-ps4-games-in-ps-stores-autumn-adventures-sale",
-          "titre": "Feature: Last Chance to Buy These 40+ PS5, PS4 Games in PS Store's Autumn Adventures Sale"
         }
       ]
     }
