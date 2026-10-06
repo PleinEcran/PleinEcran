@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "06/10/2026 à 00h32",
+  "collecte": "06/10/2026 à 02h21",
   "seuil": 14,
   "sujets": [
     {
@@ -13,7 +13,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 6.8,
+      "heures": 8.6,
       "chaleur": 15,
       "liens": [
         {
@@ -34,6 +34,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "round-up-the-reviews-for-kingdom-hearts-collection-on-switch",
+      "titre": "Round Up: The Reviews For Kingdom Hearts Collection On Switch 2 Are In",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-kingdom-hearts-collection-on-switch-2-are-in",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 1.4,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-kingdom-hearts-collection-on-switch-2-are-in",
+          "titre": "Round Up: The Reviews For Kingdom Hearts Collection On Switch 2 Are In"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/kingdom-hearts-collection-iiii",
+          "titre": "Mini Review: Kingdom Hearts Collection I~III (PS5) - Great Value for Newcomers in This (Almost) Complete Package"
+        }
+      ]
+    },
+    {
       "id": "arc-raiders-and-the-finals-are-getting-tv-series-and-film-ad",
       "titre": "Arc Raiders and The Finals are getting TV series and film adaptations",
       "url": "https://www.gamesindustry.biz/arc-raiders-and-the-finals-are-getting-tv-series-and-film-adaptations",
@@ -43,7 +67,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 3,
-      "heures": 5.0,
+      "heures": 6.8,
       "chaleur": 10,
       "liens": [
         {
@@ -64,6 +88,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "nintendo-releases-hello-peach-and-hello-luigi-app-for-switch",
+      "titre": "Nintendo Releases 'Hello, Peach!' And 'Hello, Luigi!' App For Switch & Mobile Devices",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-releases-hello-peach-and-hello-luigi-app-for-switch-and-mobile-devices",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-releases-hello-peach-and-hello-luigi-app-for-switch-and-mobile-devices",
+          "titre": "Nintendo Releases 'Hello, Peach!' And 'Hello, Luigi!' App For Switch & Mobile Devices"
+        }
+      ]
+    },
+    {
       "id": "industry-layoff-watch-supermassive-ninja-theory-the-coalitio",
       "titre": "Industry layoff watch: Supermassive, Ninja Theory, The Coalition, and a warning from Warhorse",
       "url": "https://www.pcgamer.com/gaming-industry/industry-layoff-watch-supermassive-ninja-theory-the-coalition-and-a-warning-from-warhorse/",
@@ -71,7 +113,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.7,
       "chaleur": 9,
       "liens": [
         {
@@ -89,7 +131,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 10.6,
       "chaleur": 9,
       "liens": [
         {
@@ -107,7 +149,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.4,
       "chaleur": 8,
       "liens": [
         {
@@ -125,7 +167,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.4,
       "chaleur": 8,
       "liens": [
         {
@@ -143,7 +185,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.6,
       "chaleur": 8,
       "liens": [
         {
@@ -161,7 +203,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.1,
       "chaleur": 7,
       "liens": [
         {
@@ -179,7 +221,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.5,
       "chaleur": 7,
       "liens": [
         {
@@ -197,7 +239,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 10.6,
       "chaleur": 7,
       "liens": [
         {
@@ -215,31 +257,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.4,
       "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
           "titre": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-writer-says-the-series-has-never-had-much-focus-on-nat",
-      "titre": "GTA 6 writer says the series has never had \"much focus on national politics\" beyond GTA 4's war on terror, and the latest entry won't get \"too specific\"",
-      "url": "https://www.rockpapershotgun.com/gta-6-writer-says-the-series-has-never-had-much-focus-on-national-politics-beyond-gta-4s-war-on-terror-and-the-latest-entry-wont-get-too-specific",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/gta-6-writer-says-the-series-has-never-had-much-focus-on-national-politics-beyond-gta-4s-war-on-terror-and-the-latest-entry-wont-get-too-specific",
-          "titre": "GTA 6 writer says the series has never had \"much focus on national politics\" beyond GTA 4's war on terror, and the latest entry won't get \"too specific\""
         }
       ]
     },
@@ -251,7 +275,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.1,
       "chaleur": 7,
       "liens": [
         {
@@ -442,6 +466,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "despite-the-tragic-death-of-its-lead-writer-one-of-the-scari",
+      "titre": "Despite the tragic death of its lead writer, one of the scariest games I have ever played will finally come out later this month",
+      "url": "https://www.pcgamer.com/games/fps/despite-the-tragic-death-of-its-lead-writer-one-of-the-scariest-games-i-have-ever-played-will-finally-come-out-later-this-month/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/despite-the-tragic-death-of-its-lead-writer-one-of-the-scariest-games-i-have-ever-played-will-finally-come-out-later-this-month/",
+          "titre": "Despite the tragic death of its lead writer, one of the scariest games I have ever played will finally come out later this month"
+        }
+      ]
+    },
+    {
       "id": "beamng-drive-is-looking-wildly-impressive-in-first-ps5-pro-f",
       "titre": "BeamNG.drive Is Looking Wildly Impressive in First PS5 Pro Footage",
       "url": "https://www.pushsquare.com/news/2026/10/beamng-drive-is-looking-wildly-impressive-in-first-ps5-pro-footage",
@@ -449,7 +491,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -467,7 +509,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -485,7 +527,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 9.9,
       "chaleur": 6,
       "liens": [
         {
@@ -503,7 +545,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.1,
       "chaleur": 6,
       "liens": [
         {
@@ -521,7 +563,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.7,
+      "heures": 10.5,
       "chaleur": 6,
       "liens": [
         {
@@ -539,13 +581,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.0,
+      "heures": 11.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/hellblade-dev-begins-shedding-staff-months-after-revealing-new-game-at-xbox-showcase",
           "titre": "Hellblade Dev Begins Shedding Staff, Months After Revealing New Game at Xbox Showcase"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-writer-says-the-series-has-never-had-much-focus-on-nat",
+      "titre": "GTA 6 writer says the series has never had \"much focus on national politics\" beyond GTA 4's war on terror, and the latest entry won't get \"too specific\"",
+      "url": "https://www.rockpapershotgun.com/gta-6-writer-says-the-series-has-never-had-much-focus-on-national-politics-beyond-gta-4s-war-on-terror-and-the-latest-entry-wont-get-too-specific",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 13.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/gta-6-writer-says-the-series-has-never-had-much-focus-on-national-politics-beyond-gta-4s-war-on-terror-and-the-latest-entry-wont-get-too-specific",
+          "titre": "GTA 6 writer says the series has never had \"much focus on national politics\" beyond GTA 4's war on terror, and the latest entry won't get \"too specific\""
         }
       ]
     },
@@ -558,7 +618,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 13.1,
+      "heures": 15.0,
       "chaleur": 6,
       "liens": [
         {
@@ -582,7 +642,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 13.4,
+      "heures": 15.2,
       "chaleur": 6,
       "liens": [
         {
@@ -605,7 +665,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 6,
       "liens": [
         {
@@ -623,31 +683,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/gta-6-is-deliberately-avoiding-direct-political-references-says-rockstar/",
           "titre": "GTA 6 is deliberately avoiding direct political references, says Rockstar"
-        }
-      ]
-    },
-    {
-      "id": "psa-kingdom-hearts-collection-will-collectively-take-up-over",
-      "titre": "PSA: Kingdom Hearts Collection Will Collectively Take Up Over 130GB On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/psa-kingdom-hearts-collection-will-collectively-take-up-over-130gb-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 12.0,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/psa-kingdom-hearts-collection-will-collectively-take-up-over-130gb-on-switch-2",
-          "titre": "PSA: Kingdom Hearts Collection Will Collectively Take Up Over 130GB On Switch 2"
         }
       ]
     },
@@ -659,7 +701,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.3,
       "chaleur": 5,
       "liens": [
         {
@@ -677,7 +719,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.4,
       "chaleur": 5,
       "liens": [
         {
@@ -695,7 +737,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.7,
+      "heures": 16.5,
       "chaleur": 5,
       "liens": [
         {
@@ -713,7 +755,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.5,
+      "heures": 33.4,
       "chaleur": 5,
       "liens": [
         {
@@ -731,7 +773,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.7,
       "chaleur": 4,
       "liens": [
         {
@@ -749,7 +791,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -767,7 +809,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -785,7 +827,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -803,7 +845,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -821,7 +863,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -839,7 +881,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -857,7 +899,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -875,7 +917,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -893,7 +935,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -911,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -929,7 +971,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -947,7 +989,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -965,7 +1007,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -983,7 +1025,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1001,7 +1043,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.0,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1019,8 +1061,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1037,8 +1079,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1055,8 +1097,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1073,49 +1115,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/its-less-risky-to-be-the-masters-of-our-own-fate-the-aaa-developers-going-indie",
           "titre": "\"It's less risky to be the masters of our own fate\" – The AAA developers going indie"
-        }
-      ]
-    },
-    {
-      "id": "capcom-s-remake-machine-is-ticking-away-only-problem-is-that",
-      "titre": "Capcom's remake machine is ticking away, only problem is that means revisiting Resident Evil 5 and 6",
-      "url": "https://www.pcgamer.com/games/resident-evil/capcoms-remake-machine-is-ticking-away-only-problem-is-that-means-revisiting-resident-evil-5-and-6/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/resident-evil/capcoms-remake-machine-is-ticking-away-only-problem-is-that-means-revisiting-resident-evil-5-and-6/",
-          "titre": "Capcom's remake machine is ticking away, only problem is that means revisiting Resident Evil 5 and 6"
-        }
-      ]
-    },
-    {
-      "id": "review-dune-awakening-ps5-what-a-time-to-be-a-duner",
-      "titre": "Review: Dune: Awakening (PS5) - What a Time to Be a Duner",
-      "url": "https://www.pushsquare.com/reviews/ps5/dune-awakening",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/dune-awakening",
-          "titre": "Review: Dune: Awakening (PS5) - What a Time to Be a Duner"
         }
       ]
     }
