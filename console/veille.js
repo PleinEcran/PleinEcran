@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "06/10/2026 à 18h24",
+  "collecte": "06/10/2026 à 20h23",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 4,
-      "heures": 7.2,
+      "heures": 9.1,
       "chaleur": 13,
       "liens": [
         {
@@ -48,7 +48,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 12,
       "liens": [
         {
@@ -64,6 +64,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "xbox-elite-series-3-controller-leaks-and-appears-to-offer-be",
+      "titre": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more",
+      "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 7.0,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
+          "titre": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-elite-series-3-controller-details-have-reportedly-leaked-including-a-choice-of-hall-effect-or-tmr-sticks/",
+          "titre": "Xbox Elite Series 3 controller details have reportedly leaked, including a choice of Hall effect or TMR sticks"
+        }
+      ]
+    },
+    {
       "id": "round-up-the-final-previews-for-nintendo-switch-sports-resor",
       "titre": "Round Up: The Final Previews For Nintendo Switch Sports Resort Are In",
       "url": "https://www.nintendolife.com/news/2026/10/round-up-the-final-previews-for-nintendo-switch-sports-resort-are-in",
@@ -72,8 +96,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 3.4,
-      "chaleur": 12,
+      "heures": 5.4,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -97,8 +121,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 3.4,
-      "chaleur": 12,
+      "heures": 5.4,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Push Square",
@@ -118,54 +142,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "warhammer-s-take-on-vampire-survivors-will-eat-our-free-time",
-      "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month",
-      "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
-      "sources": [
-        "Nintendo Life",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 2.7,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
-          "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/roguelike/warhammer-survivors-is-more-than-just-a-vampire-survivors-spin-off/",
-          "titre": "Warhammer Survivors is more than just a Vampire Survivors spin-off"
-        }
-      ]
-    },
-    {
-      "id": "xbox-elite-series-3-controller-leaks-and-appears-to-offer-be",
-      "titre": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more",
-      "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 5.0,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
-          "titre": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-elite-series-3-controller-details-have-reportedly-leaked-including-a-choice-of-hall-effect-or-tmr-sticks/",
-          "titre": "Xbox Elite Series 3 controller details have reportedly leaked, including a choice of Hall effect or TMR sticks"
-        }
-      ]
-    },
-    {
       "id": "two-months-after-announcing-layoff-plans-supermassive-games",
       "titre": "Two months after announcing layoff plans, Supermassive Games has laid off ‘more than 70’ staff",
       "url": "https://www.videogameschronicle.com/news/two-months-after-announcing-layoff-plans-supermassive-games-has-laid-off-more-than-70-staff/",
@@ -174,7 +150,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.7,
+      "heures": 6.7,
       "chaleur": 10,
       "liens": [
         {
@@ -198,7 +174,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 8.4,
+      "heures": 10.3,
       "chaleur": 10,
       "liens": [
         {
@@ -214,6 +190,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "cancelled-mmo-spin-off-borderlands-online-is-playable-once-a",
+      "titre": "Cancelled MMO spin-off Borderlands Online is playable once again, and the team behind the unofficial project thankfully didn't use any genAI to get it running",
+      "url": "https://www.rockpapershotgun.com/cancelled-mmo-spin-off-borderlands-online-is-playable-once-again-and-the-team-behind-the-unofficial-project-thankfully-didnt-use-any-genai-to-get-it-running",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/cancelled-mmo-spin-off-borderlands-online-is-playable-once-again-and-the-team-behind-the-unofficial-project-thankfully-didnt-use-any-genai-to-get-it-running",
+          "titre": "Cancelled MMO spin-off Borderlands Online is playable once again, and the team behind the unofficial project thankfully didn't use any genAI to get it running"
+        }
+      ]
+    },
+    {
       "id": "nolan-north-would-110-return-for-nathan-drake-in-a-new-uncha",
       "titre": "Nolan North Would '110%' Return for Nathan Drake in a New Uncharted Game",
       "url": "https://www.pushsquare.com/news/2026/10/nolan-north-would-110percent-return-for-nathan-drake-in-a-new-uncharted-game",
@@ -222,7 +216,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 9,
       "liens": [
         {
@@ -245,7 +239,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 9,
       "liens": [
         {
@@ -264,7 +258,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 9,
       "liens": [
         {
@@ -280,6 +274,66 @@ const VEILLE = {
       ]
     },
     {
+      "id": "warhammer-s-take-on-vampire-survivors-will-eat-our-free-time",
+      "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month",
+      "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 4.6,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
+          "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/roguelike/warhammer-survivors-is-more-than-just-a-vampire-survivors-spin-off/",
+          "titre": "Warhammer Survivors is more than just a Vampire Survivors spin-off"
+        }
+      ]
+    },
+    {
+      "id": "gamestop-other-retailers-to-sell-used-playstation-5-pro-unit",
+      "titre": "GameStop, other retailers to sell used PlayStation 5 Pro units for 66 percent over MSRP",
+      "url": "https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp",
+          "titre": "GameStop, other retailers to sell used PlayStation 5 Pro units for 66 percent over MSRP"
+        }
+      ]
+    },
+    {
+      "id": "feature-nintendo-life-eshop-selects-september-2026",
+      "titre": "Feature: Nintendo Life eShop Selects (September 2026)",
+      "url": "https://www.nintendolife.com/features/nintendo-life-eshop-selects-september-2026",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/nintendo-life-eshop-selects-september-2026",
+          "titre": "Feature: Nintendo Life eShop Selects (September 2026)"
+        }
+      ]
+    },
+    {
       "id": "after-crazy-taxi-s-ai-drama-sega-says-it-s-being-very-cautio",
       "titre": "After Crazy Taxi's AI Drama, SEGA Says It's Being 'Very Cautious' About Using the Tech",
       "url": "https://www.pushsquare.com/news/2026/10/after-crazy-taxis-ai-drama-sega-says-its-being-very-cautious-about-using-the-tech",
@@ -288,8 +342,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 2.4,
-      "chaleur": 9,
+      "heures": 4.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -304,42 +358,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "feature-nintendo-life-eshop-selects-september-2026",
-      "titre": "Feature: Nintendo Life eShop Selects (September 2026)",
-      "url": "https://www.nintendolife.com/features/nintendo-life-eshop-selects-september-2026",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/nintendo-life-eshop-selects-september-2026",
-          "titre": "Feature: Nintendo Life eShop Selects (September 2026)"
-        }
-      ]
-    },
-    {
-      "id": "some-staff-at-eternal-strands-and-ex-ubisoft-devs-yellow-bri",
-      "titre": "Some staff at Eternal Strands and ex-Ubisoft devs Yellow Brick Games report they've been laid off",
-      "url": "https://www.rockpapershotgun.com/some-staff-at-eternal-strands-and-ex-ubisoft-devs-yellow-brick-games-report-theyve-been-laid-off",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/some-staff-at-eternal-strands-and-ex-ubisoft-devs-yellow-brick-games-report-theyve-been-laid-off",
-          "titre": "Some staff at Eternal Strands and ex-Ubisoft devs Yellow Brick Games report they've been laid off"
-        }
-      ]
-    },
-    {
       "id": "nintendo-didn-t-swerve-product-growth-expert-comments-on-ze",
       "titre": "\"Nintendo Didn't Swerve\" - Product Growth Expert Comments On Zelda Vs. GTA 6",
       "url": "https://www.nintendolife.com/news/2026/10/nintendo-didnt-swerve-product-growth-expert-comments-on-zelda-vs-gta-6",
@@ -347,7 +365,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.6,
       "chaleur": 7,
       "liens": [
         {
@@ -365,7 +383,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 7,
       "liens": [
         {
@@ -383,7 +401,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 25.7,
+      "heures": 27.6,
       "chaleur": 7,
       "liens": [
         {
@@ -520,20 +538,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "chinajoy",
-      "titre": "ChinaJoy",
-      "url": "https://www.gamedeveloper.comen.chinajoy.net",
+      "id": "the-pc-gamer-mysteries-case-1-a-slice-of-death-why-is-there",
+      "titre": "The PC Gamer Mysteries, Case #1: \"A Slice of Death\": Why is there a dead golfer hidden in Golden Tee '99?",
+      "url": "https://www.pcgamer.com/games/sports/the-pc-gamer-mysteries-case-1-a-slice-of-death-why-is-there-a-dead-golfer-hidden-in-golden-tee-99/",
       "sources": [
-        "Game Developer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 0.6,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.comen.chinajoy.net",
-          "titre": "ChinaJoy"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sports/the-pc-gamer-mysteries-case-1-a-slice-of-death-why-is-there-a-dead-golfer-hidden-in-golden-tee-99/",
+          "titre": "The PC Gamer Mysteries, Case #1: \"A Slice of Death\": Why is there a dead golfer hidden in Golden Tee '99?"
         }
       ]
     },
@@ -545,7 +563,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -563,7 +581,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -581,7 +599,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -599,7 +617,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -617,7 +635,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -635,7 +653,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -653,7 +671,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -671,7 +689,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -682,182 +700,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "warhorse-co-founder-believes-ai-is-not-a-get-out-of-jail-fre",
-      "titre": "Warhorse co-founder believes 'AI is not a get out of jail free card' and that execs have a 'simplified mental model' of what it means for games",
-      "url": "https://www.pcgamer.com/software/ai/warhorse-co-founder-believes-ai-is-not-a-get-out-of-jail-free-card-and-that-execs-have-a-simplified-mental-model-of-what-it-means-for-games/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/warhorse-co-founder-believes-ai-is-not-a-get-out-of-jail-free-card-and-that-execs-have-a-simplified-mental-model-of-what-it-means-for-games/",
-          "titre": "Warhorse co-founder believes 'AI is not a get out of jail free card' and that execs have a 'simplified mental model' of what it means for games"
-        }
-      ]
-    },
-    {
-      "id": "someone-s-modded-diablo-2-for-vr-and-seeing-the-world-throug",
-      "titre": "Someone's modded Diablo 2 for VR, and seeing the world through your character's eyes brings a whole new dimension to the series",
-      "url": "https://www.eurogamer.net/diablo-2-vr-mod",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/diablo-2-vr-mod",
-          "titre": "Someone's modded Diablo 2 for VR, and seeing the world through your character's eyes brings a whole new dimension to the series"
-        }
-      ]
-    },
-    {
-      "id": "keep-it-family-friendly-sega-s-official-sonic-discord-swarm",
-      "titre": "\"Keep it family friendly\" - Sega's official Sonic Discord swarmed by 50,000 people in six hours, as understandably strict moderation is put in place",
-      "url": "https://www.eurogamer.net/sonic-the-hedgehog-official-discord-oh-no",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sonic-the-hedgehog-official-discord-oh-no",
-          "titre": "\"Keep it family friendly\" - Sega's official Sonic Discord swarmed by 50,000 people in six hours, as understandably strict moderation is put in place"
-        }
-      ]
-    },
-    {
-      "id": "bullet-heaven-battler-warhammer-survivors-arrives-in-novembe",
-      "titre": "Bullet heaven battler Warhammer Survivors arrives in November, with a new demo out now to whet your appetite for destruction",
-      "url": "https://www.rockpapershotgun.com/bullet-heaven-battler-warhammer-survivors-arrives-in-november-with-a-new-demo-out-now-to-whet-your-appetite-for-destruction",
+      "id": "some-staff-at-eternal-strands-and-ex-ubisoft-devs-yellow-bri",
+      "titre": "Some staff at Eternal Strands and ex-Ubisoft devs Yellow Brick Games report they've been laid off",
+      "url": "https://www.rockpapershotgun.com/some-staff-at-eternal-strands-and-ex-ubisoft-devs-yellow-brick-games-report-theyve-been-laid-off",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 2.9,
+      "heures": 4.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/bullet-heaven-battler-warhammer-survivors-arrives-in-november-with-a-new-demo-out-now-to-whet-your-appetite-for-destruction",
-          "titre": "Bullet heaven battler Warhammer Survivors arrives in November, with a new demo out now to whet your appetite for destruction"
-        }
-      ]
-    },
-    {
-      "id": "horrible-day-to-be-a-shion-main-overwatch-fans-aren-t-happy",
-      "titre": "\"Horrible day to be a Shion main\" - Overwatch fans aren't happy about five new China-exclusive skins not coming to the rest of the world",
-      "url": "https://www.eurogamer.net/overwatch-defiled-anthem-china-skins",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/overwatch-defiled-anthem-china-skins",
-          "titre": "\"Horrible day to be a Shion main\" - Overwatch fans aren't happy about five new China-exclusive skins not coming to the rest of the world"
-        }
-      ]
-    },
-    {
-      "id": "sonic-team-s-takashi-iizuka-dismisses-the-apparent-inevitabi",
-      "titre": "Sonic Team's Takashi Iizuka dismisses the apparent inevitability of remakes, saying \"you’re essentially providing the same experience again\"",
-      "url": "https://www.rockpapershotgun.com/sonic-teams-takashi-iizuka-dismisses-the-apparent-inevitability-of-remakes-saying-youre-essentially-providing-the-same-experience-again",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/sonic-teams-takashi-iizuka-dismisses-the-apparent-inevitability-of-remakes-saying-youre-essentially-providing-the-same-experience-again",
-          "titre": "Sonic Team's Takashi Iizuka dismisses the apparent inevitability of remakes, saying \"you’re essentially providing the same experience again\""
-        }
-      ]
-    },
-    {
-      "id": "co-dev-case-study-how-blackbird-interactive-and-secret-mode",
-      "titre": "Co-dev case study: How Blackbird Interactive and Secret Mode helped Escape the Backrooms ride the Backrooms hype wave",
-      "url": "https://www.gamedeveloper.com/production/co-dev-case-study-how-blackbird-interactive-and-secret-mode-helped-escape-the-backrooms-ride-the-backrooms-hype-wave",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production/co-dev-case-study-how-blackbird-interactive-and-secret-mode-helped-escape-the-backrooms-ride-the-backrooms-hype-wave",
-          "titre": "Co-dev case study: How Blackbird Interactive and Secret Mode helped Escape the Backrooms ride the Backrooms hype wave"
-        }
-      ]
-    },
-    {
-      "id": "sega-s-newly-launched-sonic-discord-server-is-off-to-a-rough",
-      "titre": "Sega’s newly launched Sonic Discord server is off to a rough start with questionable content, bans and a lockdown",
-      "url": "https://www.videogameschronicle.com/news/segas-newly-launched-sonic-discord-server-is-off-to-a-rough-start-with-questionable-content-bans-and-a-lockdown/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/segas-newly-launched-sonic-discord-server-is-off-to-a-rough-start-with-questionable-content-bans-and-a-lockdown/",
-          "titre": "Sega’s newly launched Sonic Discord server is off to a rough start with questionable content, bans and a lockdown"
-        }
-      ]
-    },
-    {
-      "id": "question-passengers-with-tarot-like-cards-in-dreadline-expre",
-      "titre": "Question passengers with tarot-like cards in Dreadline Express, a train mystery with the most intriguing conversation system I've played since Her Story",
-      "url": "https://www.rockpapershotgun.com/question-passengers-with-tarot-like-cards-in-dreadline-express-a-train-mystery-with-the-most-intriguing-conversation-system-ive-played-since-her-story",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/question-passengers-with-tarot-like-cards-in-dreadline-express-a-train-mystery-with-the-most-intriguing-conversation-system-ive-played-since-her-story",
-          "titre": "Question passengers with tarot-like cards in Dreadline Express, a train mystery with the most intriguing conversation system I've played since Her Story"
-        }
-      ]
-    },
-    {
-      "id": "claim-two-major-ps4-games-for-free-right-now-in-europe-no-ps",
-      "titre": "Claim Two Major PS4 Games for Free Right Now in Europe, No PS Plus Required",
-      "url": "https://www.pushsquare.com/news/2026/10/claim-two-major-ps4-games-for-free-right-now-in-europe-no-ps-plus-required",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/claim-two-major-ps4-games-for-free-right-now-in-europe-no-ps-plus-required",
-          "titre": "Claim Two Major PS4 Games for Free Right Now in Europe, No PS Plus Required"
+          "url": "https://www.rockpapershotgun.com/some-staff-at-eternal-strands-and-ex-ubisoft-devs-yellow-brick-games-report-theyve-been-laid-off",
+          "titre": "Some staff at Eternal Strands and ex-Ubisoft devs Yellow Brick Games report they've been laid off"
         }
       ]
     },
@@ -869,7 +725,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.8,
       "chaleur": 6,
       "liens": [
         {
@@ -887,7 +743,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 6,
       "liens": [
         {
@@ -905,7 +761,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.2,
       "chaleur": 6,
       "liens": [
         {
@@ -923,7 +779,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.5,
       "chaleur": 6,
       "liens": [
         {
@@ -941,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 21.8,
       "chaleur": 6,
       "liens": [
         {
@@ -959,7 +815,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.2,
+      "heures": 24.1,
       "chaleur": 6,
       "liens": [
         {
@@ -977,7 +833,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 25.5,
       "chaleur": 6,
       "liens": [
         {
@@ -995,7 +851,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.7,
+      "heures": 28.6,
       "chaleur": 6,
       "liens": [
         {
@@ -1013,7 +869,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 29.4,
       "chaleur": 6,
       "liens": [
         {
@@ -1031,7 +887,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.5,
       "chaleur": 5,
       "liens": [
         {
@@ -1049,7 +905,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.5,
+      "heures": 20.5,
       "chaleur": 5,
       "liens": [
         {
@@ -1067,7 +923,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.5,
+      "heures": 20.5,
       "chaleur": 5,
       "liens": [
         {
@@ -1085,13 +941,193 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.9,
+      "heures": 27.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/i-wanted-to-challenge-myself-former-warioware-director-talks-life-after-nintendo",
           "titre": "\"I Wanted To Challenge Myself\" - Former WarioWare Director Talks Life After Nintendo"
+        }
+      ]
+    },
+    {
+      "id": "warhorse-co-founder-believes-ai-is-not-a-get-out-of-jail-fre",
+      "titre": "Warhorse co-founder believes 'AI is not a get out of jail free card' and that execs have a 'simplified mental model' of what it means for games",
+      "url": "https://www.pcgamer.com/software/ai/warhorse-co-founder-believes-ai-is-not-a-get-out-of-jail-free-card-and-that-execs-have-a-simplified-mental-model-of-what-it-means-for-games/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/warhorse-co-founder-believes-ai-is-not-a-get-out-of-jail-free-card-and-that-execs-have-a-simplified-mental-model-of-what-it-means-for-games/",
+          "titre": "Warhorse co-founder believes 'AI is not a get out of jail free card' and that execs have a 'simplified mental model' of what it means for games"
+        }
+      ]
+    },
+    {
+      "id": "someone-s-modded-diablo-2-for-vr-and-seeing-the-world-throug",
+      "titre": "Someone's modded Diablo 2 for VR, and seeing the world through your character's eyes brings a whole new dimension to the series",
+      "url": "https://www.eurogamer.net/diablo-2-vr-mod",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/diablo-2-vr-mod",
+          "titre": "Someone's modded Diablo 2 for VR, and seeing the world through your character's eyes brings a whole new dimension to the series"
+        }
+      ]
+    },
+    {
+      "id": "keep-it-family-friendly-sega-s-official-sonic-discord-swarm",
+      "titre": "\"Keep it family friendly\" - Sega's official Sonic Discord swarmed by 50,000 people in six hours, as understandably strict moderation is put in place",
+      "url": "https://www.eurogamer.net/sonic-the-hedgehog-official-discord-oh-no",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/sonic-the-hedgehog-official-discord-oh-no",
+          "titre": "\"Keep it family friendly\" - Sega's official Sonic Discord swarmed by 50,000 people in six hours, as understandably strict moderation is put in place"
+        }
+      ]
+    },
+    {
+      "id": "bullet-heaven-battler-warhammer-survivors-arrives-in-novembe",
+      "titre": "Bullet heaven battler Warhammer Survivors arrives in November, with a new demo out now to whet your appetite for destruction",
+      "url": "https://www.rockpapershotgun.com/bullet-heaven-battler-warhammer-survivors-arrives-in-november-with-a-new-demo-out-now-to-whet-your-appetite-for-destruction",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/bullet-heaven-battler-warhammer-survivors-arrives-in-november-with-a-new-demo-out-now-to-whet-your-appetite-for-destruction",
+          "titre": "Bullet heaven battler Warhammer Survivors arrives in November, with a new demo out now to whet your appetite for destruction"
+        }
+      ]
+    },
+    {
+      "id": "horrible-day-to-be-a-shion-main-overwatch-fans-aren-t-happy",
+      "titre": "\"Horrible day to be a Shion main\" - Overwatch fans aren't happy about five new China-exclusive skins not coming to the rest of the world",
+      "url": "https://www.eurogamer.net/overwatch-defiled-anthem-china-skins",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/overwatch-defiled-anthem-china-skins",
+          "titre": "\"Horrible day to be a Shion main\" - Overwatch fans aren't happy about five new China-exclusive skins not coming to the rest of the world"
+        }
+      ]
+    },
+    {
+      "id": "sonic-team-s-takashi-iizuka-dismisses-the-apparent-inevitabi",
+      "titre": "Sonic Team's Takashi Iizuka dismisses the apparent inevitability of remakes, saying \"you’re essentially providing the same experience again\"",
+      "url": "https://www.rockpapershotgun.com/sonic-teams-takashi-iizuka-dismisses-the-apparent-inevitability-of-remakes-saying-youre-essentially-providing-the-same-experience-again",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/sonic-teams-takashi-iizuka-dismisses-the-apparent-inevitability-of-remakes-saying-youre-essentially-providing-the-same-experience-again",
+          "titre": "Sonic Team's Takashi Iizuka dismisses the apparent inevitability of remakes, saying \"you’re essentially providing the same experience again\""
+        }
+      ]
+    },
+    {
+      "id": "co-dev-case-study-how-blackbird-interactive-and-secret-mode",
+      "titre": "Co-dev case study: How Blackbird Interactive and Secret Mode helped Escape the Backrooms ride the Backrooms hype wave",
+      "url": "https://www.gamedeveloper.com/production/co-dev-case-study-how-blackbird-interactive-and-secret-mode-helped-escape-the-backrooms-ride-the-backrooms-hype-wave",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/production/co-dev-case-study-how-blackbird-interactive-and-secret-mode-helped-escape-the-backrooms-ride-the-backrooms-hype-wave",
+          "titre": "Co-dev case study: How Blackbird Interactive and Secret Mode helped Escape the Backrooms ride the Backrooms hype wave"
+        }
+      ]
+    },
+    {
+      "id": "sega-s-newly-launched-sonic-discord-server-is-off-to-a-rough",
+      "titre": "Sega’s newly launched Sonic Discord server is off to a rough start with questionable content, bans and a lockdown",
+      "url": "https://www.videogameschronicle.com/news/segas-newly-launched-sonic-discord-server-is-off-to-a-rough-start-with-questionable-content-bans-and-a-lockdown/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/segas-newly-launched-sonic-discord-server-is-off-to-a-rough-start-with-questionable-content-bans-and-a-lockdown/",
+          "titre": "Sega’s newly launched Sonic Discord server is off to a rough start with questionable content, bans and a lockdown"
+        }
+      ]
+    },
+    {
+      "id": "question-passengers-with-tarot-like-cards-in-dreadline-expre",
+      "titre": "Question passengers with tarot-like cards in Dreadline Express, a train mystery with the most intriguing conversation system I've played since Her Story",
+      "url": "https://www.rockpapershotgun.com/question-passengers-with-tarot-like-cards-in-dreadline-express-a-train-mystery-with-the-most-intriguing-conversation-system-ive-played-since-her-story",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/question-passengers-with-tarot-like-cards-in-dreadline-express-a-train-mystery-with-the-most-intriguing-conversation-system-ive-played-since-her-story",
+          "titre": "Question passengers with tarot-like cards in Dreadline Express, a train mystery with the most intriguing conversation system I've played since Her Story"
+        }
+      ]
+    },
+    {
+      "id": "claim-two-major-ps4-games-for-free-right-now-in-europe-no-ps",
+      "titre": "Claim Two Major PS4 Games for Free Right Now in Europe, No PS Plus Required",
+      "url": "https://www.pushsquare.com/news/2026/10/claim-two-major-ps4-games-for-free-right-now-in-europe-no-ps-plus-required",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/claim-two-major-ps4-games-for-free-right-now-in-europe-no-ps-plus-required",
+          "titre": "Claim Two Major PS4 Games for Free Right Now in Europe, No PS Plus Required"
         }
       ]
     },
@@ -1103,7 +1139,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1121,49 +1157,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/action/gundam-rogue-orbit-gave-me-a-sick-whip-sword-but-held-back-the-one-thing-i-want-most-in-a-mech-game/",
           "titre": "Gundam Rogue Orbit gave me a sick whip sword, but held back the one thing I want most in a mech game"
-        }
-      ]
-    },
-    {
-      "id": "resident-evil-games-engagement-leapt-50-following-release-of",
-      "titre": "Resident Evil games engagement leapt 50% following release of Zach Cregger's movie, but analysts say real value is in brand building",
-      "url": "https://www.gamesindustry.biz/resident-evil-games-engagement-leapt-50-following-release-of-zach-creggers-movie-but-analysts-say-real-value-is-in-brand-building-1",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 4.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/resident-evil-games-engagement-leapt-50-following-release-of-zach-creggers-movie-but-analysts-say-real-value-is-in-brand-building-1",
-          "titre": "Resident Evil games engagement leapt 50% following release of Zach Cregger's movie, but analysts say real value is in brand building"
-        }
-      ]
-    },
-    {
-      "id": "sega-won-t-entrust-the-creative-aspect-of-games-to-ai-but-is",
-      "titre": "Sega won't \"entrust the creative aspect of games to AI,\" but is using tech to \"improve efficiency\" in other departments",
-      "url": "https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 4.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments",
-          "titre": "Sega won't \"entrust the creative aspect of games to AI,\" but is using tech to \"improve efficiency\" in other departments"
         }
       ]
     }
