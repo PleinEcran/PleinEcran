@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "06/10/2026 à 02h21",
+  "collecte": "06/10/2026 à 04h23",
   "seuil": 14,
   "sujets": [
     {
@@ -13,7 +13,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 8.6,
+      "heures": 10.7,
       "chaleur": 15,
       "liens": [
         {
@@ -42,7 +42,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.4,
+      "heures": 3.5,
       "chaleur": 11,
       "liens": [
         {
@@ -67,7 +67,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 3,
-      "heures": 6.8,
+      "heures": 8.8,
       "chaleur": 10,
       "liens": [
         {
@@ -95,7 +95,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.5,
       "chaleur": 9,
       "liens": [
         {
@@ -106,74 +106,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "industry-layoff-watch-supermassive-ninja-theory-the-coalitio",
-      "titre": "Industry layoff watch: Supermassive, Ninja Theory, The Coalition, and a warning from Warhorse",
-      "url": "https://www.pcgamer.com/gaming-industry/industry-layoff-watch-supermassive-ninja-theory-the-coalition-and-a-warning-from-warhorse/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/industry-layoff-watch-supermassive-ninja-theory-the-coalition-and-a-warning-from-warhorse/",
-          "titre": "Industry layoff watch: Supermassive, Ninja Theory, The Coalition, and a warning from Warhorse"
-        }
-      ]
-    },
-    {
-      "id": "dark-pictures-dev-s-layoffs-have-begun-over-70-staff-reporte",
-      "titre": "Dark Pictures Dev's Layoffs Have Begun, Over 70 Staff Reportedly Let Go",
-      "url": "https://www.pushsquare.com/news/2026/10/dark-pictures-devs-layoffs-have-begun-over-70-staff-reportedly-let-go",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/dark-pictures-devs-layoffs-have-begun-over-70-staff-reportedly-let-go",
-          "titre": "Dark Pictures Dev's Layoffs Have Begun, Over 70 Staff Reportedly Let Go"
-        }
-      ]
-    },
-    {
-      "id": "steam-sale-deep-cut-alert-this-arpg-originally-developed-for",
-      "titre": "Steam sale deep cut alert: this ARPG originally developed for Nokia N-Gage is brilliant on Deck",
-      "url": "https://www.pcgamer.com/games/rpg/steam-sale-deep-cut-alert-this-arpg-originally-developed-for-nokia-n-gage-is-brilliant-on-deck/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/steam-sale-deep-cut-alert-this-arpg-originally-developed-for-nokia-n-gage-is-brilliant-on-deck/",
-          "titre": "Steam sale deep cut alert: this ARPG originally developed for Nokia N-Gage is brilliant on Deck"
-        }
-      ]
-    },
-    {
-      "id": "the-switch-2-exclusive-orbitals-has-received-a-new-game-upda",
-      "titre": "The Switch 2 Exclusive Orbitals Has Received A New Game Update",
-      "url": "https://www.nintendolife.com/news/2026/10/the-switch-2-exclusive-orbitals-has-received-a-new-game-update",
+      "id": "bleak-survival-city-builder-frostpunk-is-finally-coming-to-t",
+      "titre": "Bleak Survival City-Builder 'Frostpunk' Is Finally Coming To The Switch",
+      "url": "https://www.nintendolife.com/news/2026/10/bleak-survival-city-builder-frostpunk-is-finally-coming-to-the-switch",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 1.5,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/the-switch-2-exclusive-orbitals-has-received-a-new-game-update",
-          "titre": "The Switch 2 Exclusive Orbitals Has Received A New Game Update"
+          "url": "https://www.nintendolife.com/news/2026/10/bleak-survival-city-builder-frostpunk-is-finally-coming-to-the-switch",
+          "titre": "Bleak Survival City-Builder 'Frostpunk' Is Finally Coming To The Switch"
         }
       ]
     },
@@ -185,13 +131,49 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.6,
       "chaleur": 8,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/report-ninja-theory-lays-off-workers-after-failing-to-spin-off-from-xbox",
           "titre": "Report: Ninja Theory lays off workers after failing to spin off from Xbox"
+        }
+      ]
+    },
+    {
+      "id": "dark-pictures-dev-s-layoffs-have-begun-over-70-staff-reporte",
+      "titre": "Dark Pictures Dev's Layoffs Have Begun, Over 70 Staff Reportedly Let Go",
+      "url": "https://www.pushsquare.com/news/2026/10/dark-pictures-devs-layoffs-have-begun-over-70-staff-reportedly-let-go",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 12.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/dark-pictures-devs-layoffs-have-begun-over-70-staff-reportedly-let-go",
+          "titre": "Dark Pictures Dev's Layoffs Have Begun, Over 70 Staff Reportedly Let Go"
+        }
+      ]
+    },
+    {
+      "id": "industry-layoff-watch-supermassive-ninja-theory-the-coalitio",
+      "titre": "Industry layoff watch: Supermassive, Ninja Theory, The Coalition, and a warning from Warhorse",
+      "url": "https://www.pcgamer.com/gaming-industry/industry-layoff-watch-supermassive-ninja-theory-the-coalition-and-a-warning-from-warhorse/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/industry-layoff-watch-supermassive-ninja-theory-the-coalition-and-a-warning-from-warhorse/",
+          "titre": "Industry layoff watch: Supermassive, Ninja Theory, The Coalition, and a warning from Warhorse"
         }
       ]
     },
@@ -203,7 +185,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.2,
       "chaleur": 7,
       "liens": [
         {
@@ -221,49 +203,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.5,
       "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/halo-studios-absolutely-our-intent-new-book-activision-reboot",
           "titre": "Halo Studios says \"it is absolutely our intent\" to release new Halo book, despite layoffs and a rumored lore reboot from Activision"
-        }
-      ]
-    },
-    {
-      "id": "zelda-majora-s-mask-soundtrack-joins-nintendo-music-this-wee",
-      "titre": "Zelda: Majora's Mask Soundtrack Joins Nintendo Music This Week",
-      "url": "https://www.nintendolife.com/news/2026/10/zelda-majoras-mask-soundtrack-joins-nintendo-music-this-week",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/zelda-majoras-mask-soundtrack-joins-nintendo-music-this-week",
-          "titre": "Zelda: Majora's Mask Soundtrack Joins Nintendo Music This Week"
-        }
-      ]
-    },
-    {
-      "id": "it-has-to-be-more-over-the-top-more-insane-more-in-your-fac",
-      "titre": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events",
-      "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
-          "titre": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events"
         }
       ]
     },
@@ -275,7 +221,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 17.1,
       "chaleur": 7,
       "liens": [
         {
@@ -473,7 +419,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -484,38 +430,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "beamng-drive-is-looking-wildly-impressive-in-first-ps5-pro-f",
-      "titre": "BeamNG.drive Is Looking Wildly Impressive in First PS5 Pro Footage",
-      "url": "https://www.pushsquare.com/news/2026/10/beamng-drive-is-looking-wildly-impressive-in-first-ps5-pro-footage",
+      "id": "steam-sale-deep-cut-alert-this-arpg-originally-developed-for",
+      "titre": "Steam sale deep cut alert: this ARPG originally developed for Nokia N-Gage is brilliant on Deck",
+      "url": "https://www.pcgamer.com/games/rpg/steam-sale-deep-cut-alert-this-arpg-originally-developed-for-nokia-n-gage-is-brilliant-on-deck/",
       "sources": [
-        "Push Square"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.1,
+      "heures": 4.5,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/beamng-drive-is-looking-wildly-impressive-in-first-ps5-pro-footage",
-          "titre": "BeamNG.drive Is Looking Wildly Impressive in First PS5 Pro Footage"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/steam-sale-deep-cut-alert-this-arpg-originally-developed-for-nokia-n-gage-is-brilliant-on-deck/",
+          "titre": "Steam sale deep cut alert: this ARPG originally developed for Nokia N-Gage is brilliant on Deck"
         }
       ]
     },
     {
-      "id": "this-scrappy-new-superhero-game-could-be-what-marvel-s-aveng",
-      "titre": "This Scrappy New Superhero Game Could Be What Marvel's Avengers Wanted to Be",
-      "url": "https://www.pushsquare.com/news/2026/10/this-scrappy-new-superhero-game-could-be-what-marvels-avengers-wanted-to-be",
+      "id": "the-switch-2-exclusive-orbitals-has-received-a-new-game-upda",
+      "titre": "The Switch 2 Exclusive Orbitals Has Received A New Game Update",
+      "url": "https://www.nintendolife.com/news/2026/10/the-switch-2-exclusive-orbitals-has-received-a-new-game-update",
       "sources": [
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.4,
+      "heures": 4.5,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/this-scrappy-new-superhero-game-could-be-what-marvels-avengers-wanted-to-be",
-          "titre": "This Scrappy New Superhero Game Could Be What Marvel's Avengers Wanted to Be"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/the-switch-2-exclusive-orbitals-has-received-a-new-game-update",
+          "titre": "The Switch 2 Exclusive Orbitals Has Received A New Game Update"
         }
       ]
     },
@@ -527,7 +473,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.9,
       "chaleur": 6,
       "liens": [
         {
@@ -538,56 +484,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-suppose-playstation-themed-blind-boxes-were-only-a-matter",
-      "titre": "I Suppose PlayStation-Themed Blind Boxes Were Only a Matter of Time",
-      "url": "https://www.pushsquare.com/news/2026/10/i-suppose-playstation-themed-blind-boxes-were-only-a-matter-of-time",
+      "id": "zelda-majora-s-mask-soundtrack-joins-nintendo-music-this-wee",
+      "titre": "Zelda: Majora's Mask Soundtrack Joins Nintendo Music This Week",
+      "url": "https://www.nintendolife.com/news/2026/10/zelda-majoras-mask-soundtrack-joins-nintendo-music-this-week",
       "sources": [
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.1,
+      "heures": 12.6,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/i-suppose-playstation-themed-blind-boxes-were-only-a-matter-of-time",
-          "titre": "I Suppose PlayStation-Themed Blind Boxes Were Only a Matter of Time"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/zelda-majoras-mask-soundtrack-joins-nintendo-music-this-week",
+          "titre": "Zelda: Majora's Mask Soundtrack Joins Nintendo Music This Week"
         }
       ]
     },
     {
-      "id": "the-coalition-used-the-ssd-on-xbox-series-s-as-makeshift-ram",
-      "titre": "The Coalition used the SSD on Xbox Series S as makeshift RAM to help Gears of War E-Day run smoothly on it",
-      "url": "https://www.videogameschronicle.com/news/the-coalition-used-the-ssd-on-xbox-series-s-as-makeshift-ram-to-help-gears-of-war-e-day-run-smoothly-on-it/",
+      "id": "it-has-to-be-more-over-the-top-more-insane-more-in-your-fac",
+      "titre": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events",
+      "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
       "sources": [
-        "VGC"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.5,
+      "heures": 13.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-coalition-used-the-ssd-on-xbox-series-s-as-makeshift-ram-to-help-gears-of-war-e-day-run-smoothly-on-it/",
-          "titre": "The Coalition used the SSD on Xbox Series S as makeshift RAM to help Gears of War E-Day run smoothly on it"
-        }
-      ]
-    },
-    {
-      "id": "hellblade-dev-begins-shedding-staff-months-after-revealing-n",
-      "titre": "Hellblade Dev Begins Shedding Staff, Months After Revealing New Game at Xbox Showcase",
-      "url": "https://www.pushsquare.com/news/2026/10/hellblade-dev-begins-shedding-staff-months-after-revealing-new-game-at-xbox-showcase",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/hellblade-dev-begins-shedding-staff-months-after-revealing-new-game-at-xbox-showcase",
-          "titre": "Hellblade Dev Begins Shedding Staff, Months After Revealing New Game at Xbox Showcase"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
+          "titre": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events"
         }
       ]
     },
@@ -599,7 +527,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 15.0,
       "chaleur": 6,
       "liens": [
         {
@@ -618,7 +546,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 15.0,
+      "heures": 17.0,
       "chaleur": 6,
       "liens": [
         {
@@ -642,7 +570,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 15.2,
+      "heures": 17.2,
       "chaleur": 6,
       "liens": [
         {
@@ -665,7 +593,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 6,
       "liens": [
         {
@@ -683,13 +611,67 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/gta-6-is-deliberately-avoiding-direct-political-references-says-rockstar/",
           "titre": "GTA 6 is deliberately avoiding direct political references, says Rockstar"
+        }
+      ]
+    },
+    {
+      "id": "i-suppose-playstation-themed-blind-boxes-were-only-a-matter",
+      "titre": "I Suppose PlayStation-Themed Blind Boxes Were Only a Matter of Time",
+      "url": "https://www.pushsquare.com/news/2026/10/i-suppose-playstation-themed-blind-boxes-were-only-a-matter-of-time",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 12.1,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/i-suppose-playstation-themed-blind-boxes-were-only-a-matter-of-time",
+          "titre": "I Suppose PlayStation-Themed Blind Boxes Were Only a Matter of Time"
+        }
+      ]
+    },
+    {
+      "id": "the-coalition-used-the-ssd-on-xbox-series-s-as-makeshift-ram",
+      "titre": "The Coalition used the SSD on Xbox Series S as makeshift RAM to help Gears of War E-Day run smoothly on it",
+      "url": "https://www.videogameschronicle.com/news/the-coalition-used-the-ssd-on-xbox-series-s-as-makeshift-ram-to-help-gears-of-war-e-day-run-smoothly-on-it/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 12.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-coalition-used-the-ssd-on-xbox-series-s-as-makeshift-ram-to-help-gears-of-war-e-day-run-smoothly-on-it/",
+          "titre": "The Coalition used the SSD on Xbox Series S as makeshift RAM to help Gears of War E-Day run smoothly on it"
+        }
+      ]
+    },
+    {
+      "id": "hellblade-dev-begins-shedding-staff-months-after-revealing-n",
+      "titre": "Hellblade Dev Begins Shedding Staff, Months After Revealing New Game at Xbox Showcase",
+      "url": "https://www.pushsquare.com/news/2026/10/hellblade-dev-begins-shedding-staff-months-after-revealing-new-game-at-xbox-showcase",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 13.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/hellblade-dev-begins-shedding-staff-months-after-revealing-new-game-at-xbox-showcase",
+          "titre": "Hellblade Dev Begins Shedding Staff, Months After Revealing New Game at Xbox Showcase"
         }
       ]
     },
@@ -701,7 +683,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.3,
       "chaleur": 5,
       "liens": [
         {
@@ -719,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 5,
       "liens": [
         {
@@ -737,7 +719,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.5,
       "chaleur": 5,
       "liens": [
         {
@@ -755,13 +737,49 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.4,
+      "heures": 35.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/minecraft-dungeons-ii",
           "titre": "Review: Minecraft Dungeons II (Switch 2) - A Fun But Flawed Dungeon-Crawling Sequel With Great Co-Op"
+        }
+      ]
+    },
+    {
+      "id": "beamng-drive-is-looking-wildly-impressive-in-first-ps5-pro-f",
+      "titre": "BeamNG.drive Is Looking Wildly Impressive in First PS5 Pro Footage",
+      "url": "https://www.pushsquare.com/news/2026/10/beamng-drive-is-looking-wildly-impressive-in-first-ps5-pro-footage",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/beamng-drive-is-looking-wildly-impressive-in-first-ps5-pro-footage",
+          "titre": "BeamNG.drive Is Looking Wildly Impressive in First PS5 Pro Footage"
+        }
+      ]
+    },
+    {
+      "id": "this-scrappy-new-superhero-game-could-be-what-marvel-s-aveng",
+      "titre": "This Scrappy New Superhero Game Could Be What Marvel's Avengers Wanted to Be",
+      "url": "https://www.pushsquare.com/news/2026/10/this-scrappy-new-superhero-game-could-be-what-marvels-avengers-wanted-to-be",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/this-scrappy-new-superhero-game-could-be-what-marvels-avengers-wanted-to-be",
+          "titre": "This Scrappy New Superhero Game Could Be What Marvel's Avengers Wanted to Be"
         }
       ]
     },
@@ -773,7 +791,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 8.7,
       "chaleur": 4,
       "liens": [
         {
@@ -791,7 +809,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -809,7 +827,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -827,7 +845,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +863,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -863,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +899,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +917,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 12.0,
       "chaleur": 4,
       "liens": [
         {
@@ -917,8 +935,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -935,8 +953,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -953,8 +971,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -971,8 +989,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -989,8 +1007,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -1007,8 +1025,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1025,8 +1043,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1043,8 +1061,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1061,7 +1079,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1079,7 +1097,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1097,31 +1115,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.8,
       "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/sony-introduces-ai-upscaling-to-base-ps5-marvels-wolverine-and-ghost-of-yotei-are-first-games-to-implement-new-tech",
           "titre": "Sony introduces AI upscaling to base PS5; Marvel's Wolverine and Ghost of Yōtei are first games to implement new tech"
-        }
-      ]
-    },
-    {
-      "id": "it-s-less-risky-to-be-the-masters-of-our-own-fate-the-aaa-d",
-      "titre": "\"It's less risky to be the masters of our own fate\" – The AAA developers going indie",
-      "url": "https://www.gamesindustry.biz/its-less-risky-to-be-the-masters-of-our-own-fate-the-aaa-developers-going-indie",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 13.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/its-less-risky-to-be-the-masters-of-our-own-fate-the-aaa-developers-going-indie",
-          "titre": "\"It's less risky to be the masters of our own fate\" – The AAA developers going indie"
         }
       ]
     }
