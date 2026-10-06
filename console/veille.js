@@ -1,41 +1,29 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "06/10/2026 à 14h23",
+  "collecte": "06/10/2026 à 16h24",
   "seuil": 14,
   "sujets": [
     {
-      "id": "star-wars-galactic-racer-review-now-this-is-frenetically-fun",
-      "titre": "Star Wars Galactic Racer review: now this is frenetically fun podracing with a totally unforgiving streak",
-      "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-review-now-this-is-frenetically-fun-podracing-with-a-totally-unforgiving-streak",
+      "id": "xbox-elite-series-3-controller-leaks-and-appears-to-offer-be",
+      "titre": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more",
+      "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
       "sources": [
-        "GamesIndustry.biz",
-        "Push Square",
-        "Rock Paper Shotgun",
+        "Eurogamer",
         "VGC"
       ],
-      "reprises": 4,
-      "heures": 0.4,
-      "chaleur": 15,
+      "reprises": 2,
+      "heures": 3.1,
+      "chaleur": 13,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-review-now-this-is-frenetically-fun-podracing-with-a-totally-unforgiving-streak",
-          "titre": "Star Wars Galactic Racer review: now this is frenetically fun podracing with a totally unforgiving streak"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
+          "titre": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more"
         },
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/star-wars-galactic-racers-single-player-campaign-is-available-to-play-on-amazon-prime-luma-for-free/",
-          "titre": "Star Wars Galactic Racer’s single-player campaign is available to play on Amazon Prime Luma for ‘free’"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/out-today-star-wars-galactic-racer-the-highest-rated-star-wars-game-in-over-20-years",
-          "titre": "Out Today: Star Wars: Galactic Racer, the Highest-Rated Star Wars Game in Over 20 Years"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/star-wars-galactic-racer-launches-on-amazon-luna-as-part-of-prime-subscription",
-          "titre": "Star Wars: Galactic Racer launches on Amazon Luna as part of Prime subscription"
+          "url": "https://www.videogameschronicle.com/news/xbox-elite-series-3-controller-details-have-reportedly-leaked-including-a-choice-of-hall-effect-or-tmr-sticks/",
+          "titre": "Xbox Elite Series 3 controller details have reportedly leaked, including a choice of Hall effect or TMR sticks"
         }
       ]
     },
@@ -50,8 +38,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 4,
-      "heures": 3.1,
-      "chaleur": 15,
+      "heures": 5.2,
+      "chaleur": 13,
       "liens": [
         {
           "source": "Push Square",
@@ -76,26 +64,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-elite-series-3-controller-leaks-and-appears-to-offer-be",
-      "titre": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more",
-      "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
+      "id": "round-up-the-final-previews-for-nintendo-switch-sports-resor",
+      "titre": "Round Up: The Final Previews For Nintendo Switch Sports Resort Are In",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-final-previews-for-nintendo-switch-sports-resort-are-in",
       "sources": [
         "Eurogamer",
-        "VGC"
+        "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 1.0,
-      "chaleur": 13,
+      "heures": 1.4,
+      "chaleur": 12,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
-          "titre": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-final-previews-for-nintendo-switch-sports-resort-are-in",
+          "titre": "Round Up: The Final Previews For Nintendo Switch Sports Resort Are In"
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-elite-series-3-controller-details-have-reportedly-leaked-including-a-choice-of-hall-effect-or-tmr-sticks/",
-          "titre": "Xbox Elite Series 3 controller details have reportedly leaked, including a choice of Hall effect or TMR sticks"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/nintendo-switch-sports-resort-gamescom-preview",
+          "titre": "I spent an hour playing Switch Sports Resort and my favourite mini-game involves the Switch 2's least-loved gimmick: mouse controls"
+        }
+      ]
+    },
+    {
+      "id": "star-wars-galactic-racer-s-biggest-weakness-is-its-limited-m",
+      "titre": "Star Wars: Galactic Racer's Biggest Weakness Is Its Limited Multiplayer, and It's Already Getting Fixed",
+      "url": "https://www.pushsquare.com/news/2026/10/star-wars-galactic-racers-biggest-weakness-is-its-limited-multiplayer-and-its-already-getting-fixed",
+      "sources": [
+        "GamesIndustry.biz",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 1.4,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/star-wars-galactic-racers-biggest-weakness-is-its-limited-multiplayer-and-its-already-getting-fixed",
+          "titre": "Star Wars: Galactic Racer's Biggest Weakness Is Its Limited Multiplayer, and It's Already Getting Fixed"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-review-now-this-is-frenetically-fun-podracing-with-a-totally-unforgiving-streak",
+          "titre": "Star Wars Galactic Racer review: now this is frenetically fun podracing with a totally unforgiving streak"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/star-wars-galactic-racer-launches-on-amazon-luna-as-part-of-prime-subscription",
+          "titre": "Star Wars: Galactic Racer launches on Amazon Luna as part of Prime subscription"
         }
       ]
     },
@@ -108,7 +126,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 12,
       "liens": [
         {
@@ -124,26 +142,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-spent-an-hour-playing-switch-sports-resort-and-my-favourit",
-      "titre": "I spent an hour playing Switch Sports Resort and my favourite mini-game involves the Switch 2's least-loved gimmick: mouse controls",
-      "url": "https://www.eurogamer.net/nintendo-switch-sports-resort-gamescom-preview",
+      "id": "warhammer-s-take-on-vampire-survivors-will-eat-our-free-time",
+      "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month",
+      "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
       "sources": [
-        "Eurogamer",
-        "Nintendo Life"
+        "Nintendo Life",
+        "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 1.4,
-      "chaleur": 12,
+      "heures": 0.7,
+      "chaleur": 11,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nintendo-switch-sports-resort-gamescom-preview",
-          "titre": "I spent an hour playing Switch Sports Resort and my favourite mini-game involves the Switch 2's least-loved gimmick: mouse controls"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
+          "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month"
         },
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/previews/nintendo-switch-sports-resort-is-more-of-the-same-but-better",
-          "titre": "Preview: Nintendo Switch Sports Resort Is More Of The Same, But Better"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/roguelike/warhammer-survivors-is-more-than-just-a-vampire-survivors-spin-off/",
+          "titre": "Warhammer Survivors is more than just a Vampire Survivors spin-off"
         }
       ]
     },
@@ -156,7 +174,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 10,
       "liens": [
         {
@@ -172,12 +190,12 @@ const VEILLE = {
       ]
     },
     {
-      "id": "warhammer-s-vampire-survivors-like-brings-insane-pixel-actio",
-      "titre": "Warhammer's Vampire Survivors-Like Brings Insane Pixel Action to PS5 in November",
-      "url": "https://www.pushsquare.com/news/2026/10/warhammers-vampire-survivors-like-brings-insane-pixel-action-to-ps5-in-november",
+      "id": "after-crazy-taxi-s-ai-drama-sega-says-it-s-being-very-cautio",
+      "titre": "After Crazy Taxi's AI Drama, SEGA Says It's Being 'Very Cautious' About Using the Tech",
+      "url": "https://www.pushsquare.com/news/2026/10/after-crazy-taxis-ai-drama-sega-says-its-being-very-cautious-about-using-the-tech",
       "sources": [
-        "PC Gamer",
-        "Push Square"
+        "Push Square",
+        "VGC"
       ],
       "reprises": 2,
       "heures": 0.4,
@@ -185,13 +203,13 @@ const VEILLE = {
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/warhammers-vampire-survivors-like-brings-insane-pixel-action-to-ps5-in-november",
-          "titre": "Warhammer's Vampire Survivors-Like Brings Insane Pixel Action to PS5 in November"
+          "url": "https://www.pushsquare.com/news/2026/10/after-crazy-taxis-ai-drama-sega-says-its-being-very-cautious-about-using-the-tech",
+          "titre": "After Crazy Taxi's AI Drama, SEGA Says It's Being 'Very Cautious' About Using the Tech"
         },
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/roguelike/warhammer-survivors-is-more-than-just-a-vampire-survivors-spin-off/",
-          "titre": "Warhammer Survivors is more than just a Vampire Survivors spin-off"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sega-claims-its-being-very-cautious-about-ai-and-wont-use-it-for-creative-work/",
+          "titre": "Sega claims it’s being ‘very cautious’ about AI and won’t use it for creative work"
         }
       ]
     },
@@ -203,7 +221,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 9,
       "liens": [
         {
@@ -221,7 +239,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.7,
       "chaleur": 9,
       "liens": [
         {
@@ -232,62 +250,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gears-of-war-e-day-studio-finds-a-way-to-get-more-performanc",
-      "titre": "Gears of War: E-Day studio finds a way to get more performance from Xbox Series S - one that other Xbox games could probably use",
-      "url": "https://www.eurogamer.net/xbox-series-s-more-power-gears-of-war-e-day-ssd",
+      "id": "some-staff-at-eternal-strands-and-ex-ubisoft-devs-yellow-bri",
+      "titre": "Some staff at Eternal Strands and ex-Ubisoft devs Yellow Brick Games report they've been laid off",
+      "url": "https://www.rockpapershotgun.com/some-staff-at-eternal-strands-and-ex-ubisoft-devs-yellow-brick-games-report-theyve-been-laid-off",
       "sources": [
-        "Eurogamer"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 2.8,
+      "heures": 0.4,
       "chaleur": 8,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-series-s-more-power-gears-of-war-e-day-ssd",
-          "titre": "Gears of War: E-Day studio finds a way to get more performance from Xbox Series S - one that other Xbox games could probably use"
-        }
-      ]
-    },
-    {
-      "id": "mini-review-kingdom-hearts-iii-re-mind-dlc-a-fair-switch-2-p",
-      "titre": "Mini Review: KINGDOM HEARTS III + Re Mind (DLC) - A Fair Switch 2 Port Of An Enjoyable 'Conclusion'",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/kingdom-hearts-iii-plus-re-mind-dlc",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/kingdom-hearts-iii-plus-re-mind-dlc",
-          "titre": "Mini Review: KINGDOM HEARTS III + Re Mind (DLC) - A Fair Switch 2 Port Of An Enjoyable 'Conclusion'"
-        }
-      ]
-    },
-    {
-      "id": "ninja-theory-begins-laying-off-staff-according-to-employee-p",
-      "titre": "Ninja Theory begins laying off staff, according to employee posts",
-      "url": "https://www.gamesindustry.biz/ninja-theory-begins-laying-off-staff-according-to-employee-posts",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 20.7,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/ninja-theory-begins-laying-off-staff-according-to-employee-posts",
-          "titre": "Ninja Theory begins laying off staff, according to employee posts"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ninja-theory-hellblade-developers-layoffs-xbox-cuts",
-          "titre": "Ninja Theory developers announce they are facing redundancy, as the studio starts laying off staff following widespread Xbox cuts"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/some-staff-at-eternal-strands-and-ex-ubisoft-devs-yellow-brick-games-report-theyve-been-laid-off",
+          "titre": "Some staff at Eternal Strands and ex-Ubisoft devs Yellow Brick Games report they've been laid off"
         }
       ]
     },
@@ -299,7 +275,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.6,
+      "heures": 24.7,
       "chaleur": 8,
       "liens": [
         {
@@ -317,7 +293,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 7,
       "liens": [
         {
@@ -335,7 +311,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.5,
       "chaleur": 7,
       "liens": [
         {
@@ -353,7 +329,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 21.6,
+      "heures": 23.7,
       "chaleur": 7,
       "liens": [
         {
@@ -526,38 +502,218 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mdev",
-      "titre": "MDEV",
-      "url": "https://www.gamedeveloper.comwww.mdevconf.com",
+      "id": "warhorse-co-founder-believes-ai-is-not-a-get-out-of-jail-fre",
+      "titre": "Warhorse co-founder believes 'AI is not a get out of jail free card' and that execs have a 'simplified mental model' of what it means for games",
+      "url": "https://www.pcgamer.com/software/ai/warhorse-co-founder-believes-ai-is-not-a-get-out-of-jail-free-card-and-that-execs-have-a-simplified-mental-model-of-what-it-means-for-games/",
       "sources": [
-        "Game Developer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 0.1,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.comwww.mdevconf.com",
-          "titre": "MDEV"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/warhorse-co-founder-believes-ai-is-not-a-get-out-of-jail-free-card-and-that-execs-have-a-simplified-mental-model-of-what-it-means-for-games/",
+          "titre": "Warhorse co-founder believes 'AI is not a get out of jail free card' and that execs have a 'simplified mental model' of what it means for games"
         }
       ]
     },
     {
-      "id": "claim-a-major-ps4-game-for-free-right-now-no-ps-plus-require",
-      "titre": "Claim a Major PS4 Game for Free Right Now, No PS Plus Required",
-      "url": "https://www.pushsquare.com/news/2026/10/claim-a-major-ps4-game-for-free-right-now-no-ps-plus-required",
+      "id": "someone-s-modded-diablo-2-for-vr-and-seeing-the-world-throug",
+      "titre": "Someone's modded Diablo 2 for VR, and seeing the world through your character's eyes brings a whole new dimension to the series",
+      "url": "https://www.eurogamer.net/diablo-2-vr-mod",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/diablo-2-vr-mod",
+          "titre": "Someone's modded Diablo 2 for VR, and seeing the world through your character's eyes brings a whole new dimension to the series"
+        }
+      ]
+    },
+    {
+      "id": "keep-it-family-friendly-sega-s-official-sonic-discord-swarm",
+      "titre": "\"Keep it family friendly\" - Sega's official Sonic Discord swarmed by 50,000 people in six hours, as understandably strict moderation is put in place",
+      "url": "https://www.eurogamer.net/sonic-the-hedgehog-official-discord-oh-no",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/sonic-the-hedgehog-official-discord-oh-no",
+          "titre": "\"Keep it family friendly\" - Sega's official Sonic Discord swarmed by 50,000 people in six hours, as understandably strict moderation is put in place"
+        }
+      ]
+    },
+    {
+      "id": "nolan-north-says-he-s-110-up-for-playing-nathan-drake-in-a-n",
+      "titre": "Nolan North says he’s ‘110%’ up for playing Nathan Drake in a new Uncharted game, ‘if Sony wants to make money’",
+      "url": "https://www.videogameschronicle.com/news/nolan-north-says-hes-110-up-for-playing-nathan-drake-in-a-new-uncharted-game-if-sony-wants-to-make-money/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/nolan-north-says-hes-110-up-for-playing-nathan-drake-in-a-new-uncharted-game-if-sony-wants-to-make-money/",
+          "titre": "Nolan North says he’s ‘110%’ up for playing Nathan Drake in a new Uncharted game, ‘if Sony wants to make money’"
+        }
+      ]
+    },
+    {
+      "id": "bullet-heaven-battler-warhammer-survivors-arrives-in-novembe",
+      "titre": "Bullet heaven battler Warhammer Survivors arrives in November, with a new demo out now to whet your appetite for destruction",
+      "url": "https://www.rockpapershotgun.com/bullet-heaven-battler-warhammer-survivors-arrives-in-november-with-a-new-demo-out-now-to-whet-your-appetite-for-destruction",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/bullet-heaven-battler-warhammer-survivors-arrives-in-november-with-a-new-demo-out-now-to-whet-your-appetite-for-destruction",
+          "titre": "Bullet heaven battler Warhammer Survivors arrives in November, with a new demo out now to whet your appetite for destruction"
+        }
+      ]
+    },
+    {
+      "id": "horrible-day-to-be-a-shion-main-overwatch-fans-aren-t-happy",
+      "titre": "\"Horrible day to be a Shion main\" - Overwatch fans aren't happy about five new China-exclusive skins not coming to the rest of the world",
+      "url": "https://www.eurogamer.net/overwatch-defiled-anthem-china-skins",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/overwatch-defiled-anthem-china-skins",
+          "titre": "\"Horrible day to be a Shion main\" - Overwatch fans aren't happy about five new China-exclusive skins not coming to the rest of the world"
+        }
+      ]
+    },
+    {
+      "id": "sonic-team-s-takashi-iizuka-dismisses-the-apparent-inevitabi",
+      "titre": "Sonic Team's Takashi Iizuka dismisses the apparent inevitability of remakes, saying \"you’re essentially providing the same experience again\"",
+      "url": "https://www.rockpapershotgun.com/sonic-teams-takashi-iizuka-dismisses-the-apparent-inevitability-of-remakes-saying-youre-essentially-providing-the-same-experience-again",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/sonic-teams-takashi-iizuka-dismisses-the-apparent-inevitability-of-remakes-saying-youre-essentially-providing-the-same-experience-again",
+          "titre": "Sonic Team's Takashi Iizuka dismisses the apparent inevitability of remakes, saying \"you’re essentially providing the same experience again\""
+        }
+      ]
+    },
+    {
+      "id": "co-dev-case-study-how-blackbird-interactive-and-secret-mode",
+      "titre": "Co-dev case study: How Blackbird Interactive and Secret Mode helped Escape the Backrooms ride the Backrooms hype wave",
+      "url": "https://www.gamedeveloper.com/production/co-dev-case-study-how-blackbird-interactive-and-secret-mode-helped-escape-the-backrooms-ride-the-backrooms-hype-wave",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/production/co-dev-case-study-how-blackbird-interactive-and-secret-mode-helped-escape-the-backrooms-ride-the-backrooms-hype-wave",
+          "titre": "Co-dev case study: How Blackbird Interactive and Secret Mode helped Escape the Backrooms ride the Backrooms hype wave"
+        }
+      ]
+    },
+    {
+      "id": "sega-s-newly-launched-sonic-discord-server-is-off-to-a-rough",
+      "titre": "Sega’s newly launched Sonic Discord server is off to a rough start with questionable content, bans and a lockdown",
+      "url": "https://www.videogameschronicle.com/news/segas-newly-launched-sonic-discord-server-is-off-to-a-rough-start-with-questionable-content-bans-and-a-lockdown/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/segas-newly-launched-sonic-discord-server-is-off-to-a-rough-start-with-questionable-content-bans-and-a-lockdown/",
+          "titre": "Sega’s newly launched Sonic Discord server is off to a rough start with questionable content, bans and a lockdown"
+        }
+      ]
+    },
+    {
+      "id": "question-passengers-with-tarot-like-cards-in-dreadline-expre",
+      "titre": "Question passengers with tarot-like cards in Dreadline Express, a train mystery with the most intriguing conversation system I've played since Her Story",
+      "url": "https://www.rockpapershotgun.com/question-passengers-with-tarot-like-cards-in-dreadline-express-a-train-mystery-with-the-most-intriguing-conversation-system-ive-played-since-her-story",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/question-passengers-with-tarot-like-cards-in-dreadline-express-a-train-mystery-with-the-most-intriguing-conversation-system-ive-played-since-her-story",
+          "titre": "Question passengers with tarot-like cards in Dreadline Express, a train mystery with the most intriguing conversation system I've played since Her Story"
+        }
+      ]
+    },
+    {
+      "id": "claim-two-major-ps4-games-for-free-right-now-in-europe-no-ps",
+      "titre": "Claim Two Major PS4 Games for Free Right Now in Europe, No PS Plus Required",
+      "url": "https://www.pushsquare.com/news/2026/10/claim-two-major-ps4-games-for-free-right-now-in-europe-no-ps-plus-required",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 1.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/claim-a-major-ps4-game-for-free-right-now-no-ps-plus-required",
-          "titre": "Claim a Major PS4 Game for Free Right Now, No PS Plus Required"
+          "url": "https://www.pushsquare.com/news/2026/10/claim-two-major-ps4-games-for-free-right-now-in-europe-no-ps-plus-required",
+          "titre": "Claim Two Major PS4 Games for Free Right Now in Europe, No PS Plus Required"
+        }
+      ]
+    },
+    {
+      "id": "warhammer-s-vampire-survivors-like-brings-insane-pixel-actio",
+      "titre": "Warhammer's Vampire Survivors-Like Brings Insane Pixel Action to PS5 in November",
+      "url": "https://www.pushsquare.com/news/2026/10/warhammers-vampire-survivors-like-brings-insane-pixel-action-to-ps5-in-november",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/warhammers-vampire-survivors-like-brings-insane-pixel-action-to-ps5-in-november",
+          "titre": "Warhammer's Vampire Survivors-Like Brings Insane Pixel Action to PS5 in November"
         }
       ]
     },
@@ -569,7 +725,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -587,7 +743,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -605,7 +761,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -623,7 +779,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -641,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -659,7 +815,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -677,7 +833,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -695,7 +851,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -713,7 +869,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -724,128 +880,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "car-park-capital-s-cities-are-utopias-of-public-transport-ne",
-      "titre": "Car Park Capital's cities are utopias of public transport networks and green living, or they were before I got done with them",
-      "url": "https://www.rockpapershotgun.com/car-park-capitals-cities-are-utopias-of-public-transport-networks-and-green-living-or-they-were-before-i-got-done-with-them",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/car-park-capitals-cities-are-utopias-of-public-transport-networks-and-green-living-or-they-were-before-i-got-done-with-them",
-          "titre": "Car Park Capital's cities are utopias of public transport networks and green living, or they were before I got done with them"
-        }
-      ]
-    },
-    {
-      "id": "these-are-two-of-the-very-best-amazon-prime-oled-gaming-moni",
-      "titre": "These are two of the very best Amazon Prime OLED gaming monitor deals starting at $280",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/these-are-two-of-the-very-best-amazon-prime-oled-gaming-monitor-deals-starting-at-usd280/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-monitors/these-are-two-of-the-very-best-amazon-prime-oled-gaming-monitor-deals-starting-at-usd280/",
-          "titre": "These are two of the very best Amazon Prime OLED gaming monitor deals starting at $280"
-        }
-      ]
-    },
-    {
-      "id": "south-australian-government-makes-largest-investment-in-game",
-      "titre": "South Australian government makes largest investment in game development by doubling its Digital Games Fund to $1m",
-      "url": "https://www.gamesindustry.biz/south-australian-government-makes-largest-investment-in-game-development-by-doubling-its-digital-games-fund-to-1m",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/south-australian-government-makes-largest-investment-in-game-development-by-doubling-its-digital-games-fund-to-1m",
-          "titre": "South Australian government makes largest investment in game development by doubling its Digital Games Fund to $1m"
-        }
-      ]
-    },
-    {
-      "id": "cd-projekt-red-outlines-which-witcher-3-remastered-fixes-are",
-      "titre": "CD Projekt Red outlines which Witcher 3 Remastered fixes are coming next, but there's still division about the changes",
-      "url": "https://www.eurogamer.net/cd-projekt-red-witcher-3-bugs-issues-remastered-ps5",
+      "id": "gears-of-war-e-day-studio-finds-a-way-to-get-more-performanc",
+      "titre": "Gears of War: E-Day studio finds a way to get more performance from Xbox Series S - one that other Xbox games could probably use",
+      "url": "https://www.eurogamer.net/xbox-series-s-more-power-gears-of-war-e-day-ssd",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.4,
+      "heures": 4.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/cd-projekt-red-witcher-3-bugs-issues-remastered-ps5",
-          "titre": "CD Projekt Red outlines which Witcher 3 Remastered fixes are coming next, but there's still division about the changes"
+          "url": "https://www.eurogamer.net/xbox-series-s-more-power-gears-of-war-e-day-ssd",
+          "titre": "Gears of War: E-Day studio finds a way to get more performance from Xbox Series S - one that other Xbox games could probably use"
         }
       ]
     },
     {
-      "id": "retro-platformer-series-dizzy-is-back-for-a-new-game-from-it",
-      "titre": "Retro platformer series Dizzy is back for a new game from its original creators, who are really happy for you to know it's made with AI",
-      "url": "https://www.rockpapershotgun.com/retro-platformer-series-dizzy-is-back-for-a-new-game-from-its-original-creators-who-are-really-happy-for-you-to-know-its-made-with-ai",
+      "id": "mini-review-kingdom-hearts-iii-re-mind-dlc-a-fair-switch-2-p",
+      "titre": "Mini Review: KINGDOM HEARTS III + Re Mind (DLC) - A Fair Switch 2 Port Of An Enjoyable 'Conclusion'",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/kingdom-hearts-iii-plus-re-mind-dlc",
       "sources": [
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.5,
+      "heures": 5.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/retro-platformer-series-dizzy-is-back-for-a-new-game-from-its-original-creators-who-are-really-happy-for-you-to-know-its-made-with-ai",
-          "titre": "Retro platformer series Dizzy is back for a new game from its original creators, who are really happy for you to know it's made with AI"
-        }
-      ]
-    },
-    {
-      "id": "sega-claims-it-s-being-very-cautious-about-ai-and-won-t-use",
-      "titre": "Sega claims it’s being ‘very cautious’ about AI and won’t use it for creative work",
-      "url": "https://www.videogameschronicle.com/news/sega-claims-its-being-very-cautious-about-ai-and-wont-use-it-for-creative-work/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sega-claims-its-being-very-cautious-about-ai-and-wont-use-it-for-creative-work/",
-          "titre": "Sega claims it’s being ‘very cautious’ about AI and won’t use it for creative work"
-        }
-      ]
-    },
-    {
-      "id": "rumour-ape-escape-revival-coming-from-ex-sonic-mania-devs-at",
-      "titre": "Rumour: Ape Escape Revival Coming from Ex-Sonic Mania Devs at Evening Star Studio",
-      "url": "https://www.pushsquare.com/news/2026/10/rumour-ape-escape-revival-coming-from-ex-sonic-mania-devs-at-evening-star-studio",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/rumour-ape-escape-revival-coming-from-ex-sonic-mania-devs-at-evening-star-studio",
-          "titre": "Rumour: Ape Escape Revival Coming from Ex-Sonic Mania Devs at Evening Star Studio"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/kingdom-hearts-iii-plus-re-mind-dlc",
+          "titre": "Mini Review: KINGDOM HEARTS III + Re Mind (DLC) - A Fair Switch 2 Port Of An Enjoyable 'Conclusion'"
         }
       ]
     },
@@ -857,31 +923,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/if-you-dont-own-it-what-are-you-buying-former-playstation-boss-says-dropping-discs-is-a-significant-brand-hit/",
           "titre": "‘If you don’t own it, what are you buying?’ Former PlayStation boss says dropping discs is ‘a significant brand hit’"
-        }
-      ]
-    },
-    {
-      "id": "bleak-survival-city-builder-frostpunk-is-finally-coming-to-t",
-      "titre": "Bleak Survival City-Builder 'Frostpunk' Is Finally Coming To The Switch",
-      "url": "https://www.nintendolife.com/news/2026/10/bleak-survival-city-builder-frostpunk-is-finally-coming-to-the-switch",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/bleak-survival-city-builder-frostpunk-is-finally-coming-to-the-switch",
-          "titre": "Bleak Survival City-Builder 'Frostpunk' Is Finally Coming To The Switch"
         }
       ]
     },
@@ -893,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.8,
       "chaleur": 6,
       "liens": [
         {
@@ -911,7 +959,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 20.2,
       "chaleur": 6,
       "liens": [
         {
@@ -929,7 +977,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.5,
       "chaleur": 6,
       "liens": [
         {
@@ -947,7 +995,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.6,
+      "heures": 24.7,
       "chaleur": 6,
       "liens": [
         {
@@ -965,7 +1013,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.4,
       "chaleur": 6,
       "liens": [
         {
@@ -983,13 +1031,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.0,
+      "heures": 27.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/gta-6-writer-says-the-series-has-never-had-much-focus-on-national-politics-beyond-gta-4s-war-on-terror-and-the-latest-entry-wont-get-too-specific",
           "titre": "GTA 6 writer says the series has never had \"much focus on national politics\" beyond GTA 4's war on terror, and the latest entry won't get \"too specific\""
+        }
+      ]
+    },
+    {
+      "id": "bleak-survival-city-builder-frostpunk-is-finally-coming-to-t",
+      "titre": "Bleak Survival City-Builder 'Frostpunk' Is Finally Coming To The Switch",
+      "url": "https://www.nintendolife.com/news/2026/10/bleak-survival-city-builder-frostpunk-is-finally-coming-to-the-switch",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/bleak-survival-city-builder-frostpunk-is-finally-coming-to-the-switch",
+          "titre": "Bleak Survival City-Builder 'Frostpunk' Is Finally Coming To The Switch"
         }
       ]
     },
@@ -1001,7 +1067,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.5,
       "chaleur": 5,
       "liens": [
         {
@@ -1019,7 +1085,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.5,
       "chaleur": 5,
       "liens": [
         {
@@ -1037,7 +1103,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 23.9,
       "chaleur": 5,
       "liens": [
         {
@@ -1055,7 +1121,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.1,
+      "heures": 24.2,
       "chaleur": 5,
       "liens": [
         {
@@ -1066,97 +1132,23 @@ const VEILLE = {
       ]
     },
     {
-      "id": "hellblade-dev-begins-shedding-staff-months-after-revealing-n",
-      "titre": "Hellblade Dev Begins Shedding Staff, Months After Revealing New Game at Xbox Showcase",
-      "url": "https://www.pushsquare.com/news/2026/10/hellblade-dev-begins-shedding-staff-months-after-revealing-new-game-at-xbox-showcase",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 23.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/hellblade-dev-begins-shedding-staff-months-after-revealing-new-game-at-xbox-showcase",
-          "titre": "Hellblade Dev Begins Shedding Staff, Months After Revealing New Game at Xbox Showcase"
-        }
-      ]
-    },
-    {
-      "id": "runescape-4-is-a-new-unreal-engine-mmo-which-reportedly-grew",
-      "titre": "RuneScape 4 is a new Unreal Engine MMO which reportedly grew out of a planned Dragonwilds expansion, though it's still a long way off",
-      "url": "https://www.rockpapershotgun.com/runescape-4-is-a-new-unreal-engine-mmo-which-reportedly-grew-out-of-a-planned-dragonwilds-expansion-though-its-still-a-long-way-off",
+      "id": "car-park-capital-s-cities-are-utopias-of-public-transport-ne",
+      "titre": "Car Park Capital's cities are utopias of public transport networks and green living, or they were before I got done with them",
+      "url": "https://www.rockpapershotgun.com/car-park-capitals-cities-are-utopias-of-public-transport-networks-and-green-living-or-they-were-before-i-got-done-with-them",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.5,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/runescape-4-is-a-new-unreal-engine-mmo-which-reportedly-grew-out-of-a-planned-dragonwilds-expansion-though-its-still-a-long-way-off",
-          "titre": "RuneScape 4 is a new Unreal Engine MMO which reportedly grew out of a planned Dragonwilds expansion, though it's still a long way off"
-        }
-      ]
-    },
-    {
-      "id": "after-12-years-ultra-street-fighter-iv-gets-not-one-but-two",
-      "titre": "After 12 years, Ultra Street Fighter IV gets not one, but two connection-stabilising rollback netcode mods aaaand they're both made using Claude",
-      "url": "https://www.rockpapershotgun.com/after-12-years-ultra-street-fighter-iv-gets-not-one-but-two-connection-stabilising-rollback-netcode-mods-aaaand-theyre-both-made-using-claude",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 5.2,
+      "heures": 4.7,
       "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/after-12-years-ultra-street-fighter-iv-gets-not-one-but-two-connection-stabilising-rollback-netcode-mods-aaaand-theyre-both-made-using-claude",
-          "titre": "After 12 years, Ultra Street Fighter IV gets not one, but two connection-stabilising rollback netcode mods aaaand they're both made using Claude"
-        }
-      ]
-    },
-    {
-      "id": "tarae-the-unbound-seems-to-get-what-makes-a-good-arpg-but-cr",
-      "titre": "Tarae: The Unbound seems to get what makes a good ARPG, but crunchy combat aside, can it rise to the likes of Diablo and Path of Exile?",
-      "url": "https://www.eurogamer.net/tarae-the-unbound-preview",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/tarae-the-unbound-preview",
-          "titre": "Tarae: The Unbound seems to get what makes a good ARPG, but crunchy combat aside, can it rise to the likes of Diablo and Path of Exile?"
-        }
-      ]
-    },
-    {
-      "id": "october-2026-ps-plus-essential-games-available-to-download-n",
-      "titre": "October 2026 PS Plus Essential Games Available to Download Now",
-      "url": "https://www.pushsquare.com/news/2026/10/october-2026-ps-plus-essential-games-available-to-download-now",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/october-2026-ps-plus-essential-games-available-to-download-now",
-          "titre": "October 2026 PS Plus Essential Games Available to Download Now"
+          "url": "https://www.rockpapershotgun.com/car-park-capitals-cities-are-utopias-of-public-transport-networks-and-green-living-or-they-were-before-i-got-done-with-them",
+          "titre": "Car Park Capital's cities are utopias of public transport networks and green living, or they were before I got done with them"
         }
       ]
     }
   ],
-  "alertes": [
-    "Star Wars Galactic Racer review: now this is frenetically fun podracing with a totally unforgiving streak"
-  ]
+  "alertes": []
 };
