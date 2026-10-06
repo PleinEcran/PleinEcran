@@ -1,32 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "06/10/2026 à 16h24",
+  "collecte": "06/10/2026 à 18h24",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "xbox-elite-series-3-controller-leaks-and-appears-to-offer-be",
-      "titre": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more",
-      "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 3.1,
-      "chaleur": 13,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
-          "titre": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-elite-series-3-controller-details-have-reportedly-leaked-including-a-choice-of-hall-effect-or-tmr-sticks/",
-          "titre": "Xbox Elite Series 3 controller details have reportedly leaked, including a choice of Hall effect or TMR sticks"
-        }
-      ]
-    },
     {
       "id": "arc-raiders-the-finals-are-the-next-games-set-for-tv-and-mov",
       "titre": "ARC Raiders, The Finals Are the Next Games Set for TV and Movie Adaptations",
@@ -38,7 +14,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 4,
-      "heures": 5.2,
+      "heures": 7.2,
       "chaleur": 13,
       "liens": [
         {
@@ -64,6 +40,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "unlead-labs-studio-head-says-they-were-irresponsibly-transpa",
+      "titre": "Unlead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs",
+      "url": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
+      "sources": [
+        "Game Developer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.2,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
+          "titre": "Unlead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/state-of-decay-studio-boss-says-he-was-irresponsibly-transparent-to-staff-to-make-layoffs-easier-to-take/",
+          "titre": "State of Decay studio boss says he was ‘irresponsibly transparent’ to staff to make layoffs easier to take"
+        }
+      ]
+    },
+    {
       "id": "round-up-the-final-previews-for-nintendo-switch-sports-resor",
       "titre": "Round Up: The Final Previews For Nintendo Switch Sports Resort Are In",
       "url": "https://www.nintendolife.com/news/2026/10/round-up-the-final-previews-for-nintendo-switch-sports-resort-are-in",
@@ -72,7 +72,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 12,
       "liens": [
         {
@@ -97,7 +97,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 12,
       "liens": [
         {
@@ -118,30 +118,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "two-months-after-announcing-layoff-plans-supermassive-games",
-      "titre": "Two months after announcing layoff plans, Supermassive Games has laid off ‘more than 70’ staff",
-      "url": "https://www.videogameschronicle.com/news/two-months-after-announcing-layoff-plans-supermassive-games-has-laid-off-more-than-70-staff/",
-      "sources": [
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 2.7,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/two-months-after-announcing-layoff-plans-supermassive-games-has-laid-off-more-than-70-staff/",
-          "titre": "Two months after announcing layoff plans, Supermassive Games has laid off ‘more than 70’ staff"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/following-through-on-their-warning-until-dawn-and-directive-8020-devs-supermassive-lay-off-more-than-70-staff",
-          "titre": "Following through on their warning, Until Dawn and Directive 8020 devs Supermassive lay off \"more than 70\" staff"
-        }
-      ]
-    },
-    {
       "id": "warhammer-s-take-on-vampire-survivors-will-eat-our-free-time",
       "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month",
       "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
@@ -150,7 +126,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 11,
       "liens": [
         {
@@ -166,6 +142,54 @@ const VEILLE = {
       ]
     },
     {
+      "id": "xbox-elite-series-3-controller-leaks-and-appears-to-offer-be",
+      "titre": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more",
+      "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 5.0,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
+          "titre": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-elite-series-3-controller-details-have-reportedly-leaked-including-a-choice-of-hall-effect-or-tmr-sticks/",
+          "titre": "Xbox Elite Series 3 controller details have reportedly leaked, including a choice of Hall effect or TMR sticks"
+        }
+      ]
+    },
+    {
+      "id": "two-months-after-announcing-layoff-plans-supermassive-games",
+      "titre": "Two months after announcing layoff plans, Supermassive Games has laid off ‘more than 70’ staff",
+      "url": "https://www.videogameschronicle.com/news/two-months-after-announcing-layoff-plans-supermassive-games-has-laid-off-more-than-70-staff/",
+      "sources": [
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 4.7,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/two-months-after-announcing-layoff-plans-supermassive-games-has-laid-off-more-than-70-staff/",
+          "titre": "Two months after announcing layoff plans, Supermassive Games has laid off ‘more than 70’ staff"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/following-through-on-their-warning-until-dawn-and-directive-8020-devs-supermassive-lay-off-more-than-70-staff",
+          "titre": "Following through on their warning, Until Dawn and Directive 8020 devs Supermassive lay off \"more than 70\" staff"
+        }
+      ]
+    },
+    {
       "id": "nintendo-releases-free-hello-peach-and-hello-luigi-apps-for",
       "titre": "Nintendo releases free Hello, Peach! and Hello, Luigi! apps for children, joining its Mario and Yoshi ones",
       "url": "https://www.videogameschronicle.com/news/nintendo-releases-free-hello-peach-and-hello-luigi-apps-for-children-joining-its-mario-and-yoshi-ones/",
@@ -174,7 +198,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 10,
       "liens": [
         {
@@ -190,6 +214,72 @@ const VEILLE = {
       ]
     },
     {
+      "id": "nolan-north-would-110-return-for-nathan-drake-in-a-new-uncha",
+      "titre": "Nolan North Would '110%' Return for Nathan Drake in a New Uncharted Game",
+      "url": "https://www.pushsquare.com/news/2026/10/nolan-north-would-110percent-return-for-nathan-drake-in-a-new-uncharted-game",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/nolan-north-would-110percent-return-for-nathan-drake-in-a-new-uncharted-game",
+          "titre": "Nolan North Would '110%' Return for Nathan Drake in a New Uncharted Game"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/nolan-north-says-hes-110-up-for-playing-nathan-drake-in-a-new-uncharted-game-if-sony-wants-to-make-money/",
+          "titre": "Nolan North says he’s ‘110%’ up for playing Nathan Drake in a new Uncharted game, ‘if Sony wants to make money’"
+        }
+      ]
+    },
+    {
+      "id": "i-ve-added-scams-to-gta-5-but-i-might-have-scammed-myself",
+      "titre": "I've added scams to GTA 5, but I might have scammed myself",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/ive-added-scams-to-gta-5-but-i-might-have-scammed-myself/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/ive-added-scams-to-gta-5-but-i-might-have-scammed-myself/",
+          "titre": "I've added scams to GTA 5, but I might have scammed myself"
+        }
+      ]
+    },
+    {
+      "id": "jagex-pull-runescape-trailer-and-apologise-for-genai-use-aft",
+      "titre": "Jagex pull Runescape trailer and apologise for genAI use after complaints about six-fingered knights, pinning the blame on a \"trusted external partner\"",
+      "url": "https://www.rockpapershotgun.com/jagex-pull-runescape-trailer-and-apologise-for-genai-use-after-complaints-about-six-fingered-knights-pinning-the-blame-on-a-trusted-external-partner",
+      "sources": [
+        "GamesIndustry.biz",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 1.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/jagex-pull-runescape-trailer-and-apologise-for-genai-use-after-complaints-about-six-fingered-knights-pinning-the-blame-on-a-trusted-external-partner",
+          "titre": "Jagex pull Runescape trailer and apologise for genAI use after complaints about six-fingered knights, pinning the blame on a \"trusted external partner\""
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
+          "titre": "Jagex responds to use of generative AI in RuneScape trailer made by \"trusted external partner\""
+        }
+      ]
+    },
+    {
       "id": "after-crazy-taxi-s-ai-drama-sega-says-it-s-being-very-cautio",
       "titre": "After Crazy Taxi's AI Drama, SEGA Says It's Being 'Very Cautious' About Using the Tech",
       "url": "https://www.pushsquare.com/news/2026/10/after-crazy-taxis-ai-drama-sega-says-its-being-very-cautious-about-using-the-tech",
@@ -198,7 +288,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 9,
       "liens": [
         {
@@ -214,38 +304,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "state-of-decay-studio-boss-says-he-was-irresponsibly-transpa",
-      "titre": "State of Decay studio boss says he was ‘irresponsibly transparent’ to staff to make layoffs easier to take",
-      "url": "https://www.videogameschronicle.com/news/state-of-decay-studio-boss-says-he-was-irresponsibly-transparent-to-staff-to-make-layoffs-easier-to-take/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/state-of-decay-studio-boss-says-he-was-irresponsibly-transparent-to-staff-to-make-layoffs-easier-to-take/",
-          "titre": "State of Decay studio boss says he was ‘irresponsibly transparent’ to staff to make layoffs easier to take"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-didn-t-swerve-product-growth-expert-comments-on-ze",
-      "titre": "\"Nintendo Didn't Swerve\" - Product Growth Expert Comments On Zelda Vs. GTA 6",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-didnt-swerve-product-growth-expert-comments-on-zelda-vs-gta-6",
+      "id": "feature-nintendo-life-eshop-selects-september-2026",
+      "titre": "Feature: Nintendo Life eShop Selects (September 2026)",
+      "url": "https://www.nintendolife.com/features/nintendo-life-eshop-selects-september-2026",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 9,
+      "heures": 1.4,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-didnt-swerve-product-growth-expert-comments-on-zelda-vs-gta-6",
-          "titre": "\"Nintendo Didn't Swerve\" - Product Growth Expert Comments On Zelda Vs. GTA 6"
+          "url": "https://www.nintendolife.com/features/nintendo-life-eshop-selects-september-2026",
+          "titre": "Feature: Nintendo Life eShop Selects (September 2026)"
         }
       ]
     },
@@ -257,7 +329,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 8,
       "liens": [
         {
@@ -268,20 +340,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "dark-pictures-dev-s-layoffs-have-begun-over-70-staff-reporte",
-      "titre": "Dark Pictures Dev's Layoffs Have Begun, Over 70 Staff Reportedly Let Go",
-      "url": "https://www.pushsquare.com/news/2026/10/dark-pictures-devs-layoffs-have-begun-over-70-staff-reportedly-let-go",
+      "id": "nintendo-didn-t-swerve-product-growth-expert-comments-on-ze",
+      "titre": "\"Nintendo Didn't Swerve\" - Product Growth Expert Comments On Zelda Vs. GTA 6",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-didnt-swerve-product-growth-expert-comments-on-zelda-vs-gta-6",
       "sources": [
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.7,
-      "chaleur": 8,
+      "heures": 4.7,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/dark-pictures-devs-layoffs-have-begun-over-70-staff-reportedly-let-go",
-          "titre": "Dark Pictures Dev's Layoffs Have Begun, Over 70 Staff Reportedly Let Go"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-didnt-swerve-product-growth-expert-comments-on-zelda-vs-gta-6",
+          "titre": "\"Nintendo Didn't Swerve\" - Product Growth Expert Comments On Zelda Vs. GTA 6"
         }
       ]
     },
@@ -293,31 +365,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.3,
       "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/supermassive-games-layoffs-70",
           "titre": "Supermassive Games suffers layoffs as more than 70 developers seem to have left the company this week"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-announces-another-switch-2-hardware-bundle",
-      "titre": "Nintendo Announces Another Switch 2 Hardware Bundle",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-announces-another-switch-2-hardware-bundle",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-announces-another-switch-2-hardware-bundle",
-          "titre": "Nintendo Announces Another Switch 2 Hardware Bundle"
         }
       ]
     },
@@ -329,7 +383,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 23.7,
+      "heures": 25.7,
       "chaleur": 7,
       "liens": [
         {
@@ -484,20 +538,146 @@ const VEILLE = {
       ]
     },
     {
-      "id": "licensing-expo",
-      "titre": "Licensing Expo",
-      "url": "https://www.gamedeveloper.comwww.brandlicensingexpo.com",
+      "id": "marvel-tokon-will-fully-reveal-first-dlc-fighter-phoenix-cyc",
+      "titre": "Marvel Tokon Will Fully Reveal First DLC Fighter Phoenix Cyclops This Week",
+      "url": "https://www.pushsquare.com/news/2026/10/marvel-tokon-will-fully-reveal-first-dlc-fighter-phoenix-cyclops-this-week",
       "sources": [
-        "Game Developer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 0.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.comwww.brandlicensingexpo.com",
-          "titre": "Licensing Expo"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/marvel-tokon-will-fully-reveal-first-dlc-fighter-phoenix-cyclops-this-week",
+          "titre": "Marvel Tokon Will Fully Reveal First DLC Fighter Phoenix Cyclops This Week"
+        }
+      ]
+    },
+    {
+      "id": "gears-of-war-e-day-review-terrific-shooting-buoys-a-sluggish",
+      "titre": "Gears of War: E-Day review — terrific shooting buoys a sluggish campaign",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review/",
+          "titre": "Gears of War: E-Day review — terrific shooting buoys a sluggish campaign"
+        }
+      ]
+    },
+    {
+      "id": "your-word-is-undeniable-truth-can-t-be-bothered-to-find-evi",
+      "titre": "\"Your word is undeniable truth\": Can't be bothered to find evidence in Warhammer 40,000: Dark Heresy? It's fine, because no matter what, you're always right",
+      "url": "https://www.rockpapershotgun.com/your-word-is-undeniable-truth-cant-be-bothered-to-find-evidence-in-warhammer-40000-dark-heresy-its-fine-because-no-matter-what-youre-always-right",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/your-word-is-undeniable-truth-cant-be-bothered-to-find-evidence-in-warhammer-40000-dark-heresy-its-fine-because-no-matter-what-youre-always-right",
+          "titre": "\"Your word is undeniable truth\": Can't be bothered to find evidence in Warhammer 40,000: Dark Heresy? It's fine, because no matter what, you're always right"
+        }
+      ]
+    },
+    {
+      "id": "take-out-some-monsters-and-then-turn-them-into-take-out-in-t",
+      "titre": "Take out some monsters and then turn them into take-out in the post-apocalyptic tycoon survival sim Midwest 90: Rapid City, out in early access next month",
+      "url": "https://www.rockpapershotgun.com/take-out-some-monsters-and-then-turn-them-into-take-out-in-the-post-apocalyptic-tycoon-survival-sim-midwest-90-rapid-city-out-in-early-access-next-month",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/take-out-some-monsters-and-then-turn-them-into-take-out-in-the-post-apocalyptic-tycoon-survival-sim-midwest-90-rapid-city-out-in-early-access-next-month",
+          "titre": "Take out some monsters and then turn them into take-out in the post-apocalyptic tycoon survival sim Midwest 90: Rapid City, out in early access next month"
+        }
+      ]
+    },
+    {
+      "id": "space-harrier-fans-you-need-to-keep-an-eye-on-this-ps5-arcad",
+      "titre": "Space Harrier Fans, You Need to Keep an Eye on This PS5 Arcade Shooter",
+      "url": "https://www.pushsquare.com/news/2026/10/space-harrier-fans-you-need-to-keep-an-eye-on-this-ps5-arcade-shooter",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/space-harrier-fans-you-need-to-keep-an-eye-on-this-ps5-arcade-shooter",
+          "titre": "Space Harrier Fans, You Need to Keep an Eye on This PS5 Arcade Shooter"
+        }
+      ]
+    },
+    {
+      "id": "amazon-prime-s-10-free-games-for-october-include-five-nights",
+      "titre": "Amazon Prime’s 10 ‘free’ games for October include Five Nights at Freddy’s: Into the Pit and Doom 2016",
+      "url": "https://www.videogameschronicle.com/news/amazon-primes-10-free-games-for-october-include-five-nights-at-freddys-into-the-pit-and-doom-2016/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/amazon-primes-10-free-games-for-october-include-five-nights-at-freddys-into-the-pit-and-doom-2016/",
+          "titre": "Amazon Prime’s 10 ‘free’ games for October include Five Nights at Freddy’s: Into the Pit and Doom 2016"
+        }
+      ]
+    },
+    {
+      "id": "rumour-watch-dogs-legion-to-receive-surprise-ps5-remake-next",
+      "titre": "Rumour: Watch Dogs Legion to Receive Surprise PS5 Remake Next Year",
+      "url": "https://www.pushsquare.com/news/2026/10/rumour-watch-dogs-legion-to-receive-surprise-ps5-remake-next-year",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/rumour-watch-dogs-legion-to-receive-surprise-ps5-remake-next-year",
+          "titre": "Rumour: Watch Dogs Legion to Receive Surprise PS5 Remake Next Year"
+        }
+      ]
+    },
+    {
+      "id": "this-needs-to-change-ps5-influencer-regains-access-to-accou",
+      "titre": "'This Needs to Change': PS5 Influencer Regains Access to Account, But Admits 'Not Many Have My Reach'",
+      "url": "https://www.pushsquare.com/news/2026/10/this-needs-to-change-ps5-influencer-regains-access-to-account-but-admits-not-many-have-my-reach",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/this-needs-to-change-ps5-influencer-regains-access-to-account-but-admits-not-many-have-my-reach",
+          "titre": "'This Needs to Change': PS5 Influencer Regains Access to Account, But Admits 'Not Many Have My Reach'"
         }
       ]
     },
@@ -509,7 +689,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
@@ -527,7 +707,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -545,31 +725,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/sonic-the-hedgehog-official-discord-oh-no",
           "titre": "\"Keep it family friendly\" - Sega's official Sonic Discord swarmed by 50,000 people in six hours, as understandably strict moderation is put in place"
-        }
-      ]
-    },
-    {
-      "id": "nolan-north-says-he-s-110-up-for-playing-nathan-drake-in-a-n",
-      "titre": "Nolan North says he’s ‘110%’ up for playing Nathan Drake in a new Uncharted game, ‘if Sony wants to make money’",
-      "url": "https://www.videogameschronicle.com/news/nolan-north-says-hes-110-up-for-playing-nathan-drake-in-a-new-uncharted-game-if-sony-wants-to-make-money/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 0.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/nolan-north-says-hes-110-up-for-playing-nathan-drake-in-a-new-uncharted-game-if-sony-wants-to-make-money/",
-          "titre": "Nolan North says he’s ‘110%’ up for playing Nathan Drake in a new Uncharted game, ‘if Sony wants to make money’"
         }
       ]
     },
@@ -581,7 +743,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -599,7 +761,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -617,7 +779,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -635,7 +797,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -653,7 +815,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -671,7 +833,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -689,193 +851,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/claim-two-major-ps4-games-for-free-right-now-in-europe-no-ps-plus-required",
           "titre": "Claim Two Major PS4 Games for Free Right Now in Europe, No PS Plus Required"
-        }
-      ]
-    },
-    {
-      "id": "warhammer-s-vampire-survivors-like-brings-insane-pixel-actio",
-      "titre": "Warhammer's Vampire Survivors-Like Brings Insane Pixel Action to PS5 in November",
-      "url": "https://www.pushsquare.com/news/2026/10/warhammers-vampire-survivors-like-brings-insane-pixel-action-to-ps5-in-november",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/warhammers-vampire-survivors-like-brings-insane-pixel-action-to-ps5-in-november",
-          "titre": "Warhammer's Vampire Survivors-Like Brings Insane Pixel Action to PS5 in November"
-        }
-      ]
-    },
-    {
-      "id": "gundam-rogue-orbit-gave-me-a-sick-whip-sword-but-held-back-t",
-      "titre": "Gundam Rogue Orbit gave me a sick whip sword, but held back the one thing I want most in a mech game",
-      "url": "https://www.pcgamer.com/games/action/gundam-rogue-orbit-gave-me-a-sick-whip-sword-but-held-back-the-one-thing-i-want-most-in-a-mech-game/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/gundam-rogue-orbit-gave-me-a-sick-whip-sword-but-held-back-the-one-thing-i-want-most-in-a-mech-game/",
-          "titre": "Gundam Rogue Orbit gave me a sick whip sword, but held back the one thing I want most in a mech game"
-        }
-      ]
-    },
-    {
-      "id": "resident-evil-games-engagement-leapt-50-following-release-of",
-      "titre": "Resident Evil games engagement leapt 50% following release of Zach Cregger's movie, but analysts say real value is in brand building",
-      "url": "https://www.gamesindustry.biz/resident-evil-games-engagement-leapt-50-following-release-of-zach-creggers-movie-but-analysts-say-real-value-is-in-brand-building-1",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/resident-evil-games-engagement-leapt-50-following-release-of-zach-creggers-movie-but-analysts-say-real-value-is-in-brand-building-1",
-          "titre": "Resident Evil games engagement leapt 50% following release of Zach Cregger's movie, but analysts say real value is in brand building"
-        }
-      ]
-    },
-    {
-      "id": "sega-won-t-entrust-the-creative-aspect-of-games-to-ai-but-is",
-      "titre": "Sega won't \"entrust the creative aspect of games to AI,\" but is using tech to \"improve efficiency\" in other departments",
-      "url": "https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments",
-          "titre": "Sega won't \"entrust the creative aspect of games to AI,\" but is using tech to \"improve efficiency\" in other departments"
-        }
-      ]
-    },
-    {
-      "id": "ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-s",
-      "titre": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace, and Sony Must Be Sweating",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
-          "titre": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace, and Sony Must Be Sweating"
-        }
-      ]
-    },
-    {
-      "id": "deadlock-isn-t-a-moba-or-a-third-person-shooter-anymore-city",
-      "titre": "Deadlock isn't a MOBA or a third-person shooter anymore—City Never Sleeps has turned it into a horror game",
-      "url": "https://www.pcgamer.com/games/moba/deadlock-isnt-a-moba-or-a-third-person-shooter-anymore-city-never-sleeps-has-turned-it-into-a-horror-game/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/moba/deadlock-isnt-a-moba-or-a-third-person-shooter-anymore-city-never-sleeps-has-turned-it-into-a-horror-game/",
-          "titre": "Deadlock isn't a MOBA or a third-person shooter anymore—City Never Sleeps has turned it into a horror game"
-        }
-      ]
-    },
-    {
-      "id": "exclusive-warhammer-40-000-dark-heresy-will-let-you-be-a-cro",
-      "titre": "Exclusive – Warhammer 40,000: Dark Heresy will let you be a crooked cop, pinning crimes on the innocent, or follow in good boy Gregor Eisenhorn's footsteps",
-      "url": "https://www.pcgamer.com/games/rpg/exclusive-warhammer-40-000-dark-heresy-will-let-you-be-a-crooked-cop-pinning-crimes-on-the-innocent-or-follow-in-good-boy-gregor-eisenhorns-footsteps/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/exclusive-warhammer-40-000-dark-heresy-will-let-you-be-a-crooked-cop-pinning-crimes-on-the-innocent-or-follow-in-good-boy-gregor-eisenhorns-footsteps/",
-          "titre": "Exclusive – Warhammer 40,000: Dark Heresy will let you be a crooked cop, pinning crimes on the innocent, or follow in good boy Gregor Eisenhorn's footsteps"
-        }
-      ]
-    },
-    {
-      "id": "brazil-wants-to-be-in-the-top-five-game-producers-in-the-wor",
-      "titre": "Brazil wants to be in \"the top five game producers in the world in less than 10 years\"",
-      "url": "https://www.gamesindustry.biz/brazil-wants-to-be-in-the-top-five-game-producers-in-the-world-in-less-than-10-years",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/brazil-wants-to-be-in-the-top-five-game-producers-in-the-world-in-less-than-10-years",
-          "titre": "Brazil wants to be in \"the top five game producers in the world in less than 10 years\""
-        }
-      ]
-    },
-    {
-      "id": "this-is-intentional-gamestop-to-start-scalping-used-ps5-pro",
-      "titre": "'This Is Intentional': GameStop to Start Scalping Used PS5 Pros for $1,500",
-      "url": "https://www.pushsquare.com/news/2026/10/this-is-intentional-gamestop-to-start-scalping-used-ps5-pros-for-usd1500",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/this-is-intentional-gamestop-to-start-scalping-used-ps5-pros-for-usd1500",
-          "titre": "'This Is Intentional': GameStop to Start Scalping Used PS5 Pros for $1,500"
-        }
-      ]
-    },
-    {
-      "id": "platinumgames-ceo-pauses-a-discussion-on-stellar-blade-s-bay",
-      "titre": "PlatinumGames CEO pauses a discussion on Stellar Blade's Bayonetta costume crossover to casually infer more Bayonetta may be on the way",
-      "url": "https://www.rockpapershotgun.com/platinumgames-ceo-pauses-a-discussion-on-stellar-blades-bayonetta-costume-crossover-to-casually-infer-more-bayonetta-may-be-on-the-way",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/platinumgames-ceo-pauses-a-discussion-on-stellar-blades-bayonetta-costume-crossover-to-casually-infer-more-bayonetta-may-be-on-the-way",
-          "titre": "PlatinumGames CEO pauses a discussion on Stellar Blade's Bayonetta costume crossover to casually infer more Bayonetta may be on the way"
         }
       ]
     },
@@ -887,7 +869,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 6,
       "liens": [
         {
@@ -905,7 +887,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 6,
       "liens": [
         {
@@ -923,13 +905,31 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/if-you-dont-own-it-what-are-you-buying-former-playstation-boss-says-dropping-discs-is-a-significant-brand-hit/",
           "titre": "‘If you don’t own it, what are you buying?’ Former PlayStation boss says dropping discs is ‘a significant brand hit’"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-announces-another-switch-2-hardware-bundle",
+      "titre": "Nintendo Announces Another Switch 2 Hardware Bundle",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-announces-another-switch-2-hardware-bundle",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-announces-another-switch-2-hardware-bundle",
+          "titre": "Nintendo Announces Another Switch 2 Hardware Bundle"
         }
       ]
     },
@@ -941,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 19.8,
       "chaleur": 6,
       "liens": [
         {
@@ -959,7 +959,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.2,
+      "heures": 22.2,
       "chaleur": 6,
       "liens": [
         {
@@ -977,7 +977,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.5,
       "chaleur": 6,
       "liens": [
         {
@@ -995,7 +995,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.7,
+      "heures": 26.7,
       "chaleur": 6,
       "liens": [
         {
@@ -1013,31 +1013,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
           "titre": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-writer-says-the-series-has-never-had-much-focus-on-nat",
-      "titre": "GTA 6 writer says the series has never had \"much focus on national politics\" beyond GTA 4's war on terror, and the latest entry won't get \"too specific\"",
-      "url": "https://www.rockpapershotgun.com/gta-6-writer-says-the-series-has-never-had-much-focus-on-national-politics-beyond-gta-4s-war-on-terror-and-the-latest-entry-wont-get-too-specific",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 27.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/gta-6-writer-says-the-series-has-never-had-much-focus-on-national-politics-beyond-gta-4s-war-on-terror-and-the-latest-entry-wont-get-too-specific",
-          "titre": "GTA 6 writer says the series has never had \"much focus on national politics\" beyond GTA 4's war on terror, and the latest entry won't get \"too specific\""
         }
       ]
     },
@@ -1049,7 +1031,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.5,
       "chaleur": 5,
       "liens": [
         {
@@ -1067,7 +1049,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.5,
       "chaleur": 5,
       "liens": [
         {
@@ -1085,7 +1067,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.5,
       "chaleur": 5,
       "liens": [
         {
@@ -1103,7 +1085,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.9,
+      "heures": 25.9,
       "chaleur": 5,
       "liens": [
         {
@@ -1114,38 +1096,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-suppose-playstation-themed-blind-boxes-were-only-a-matter",
-      "titre": "I Suppose PlayStation-Themed Blind Boxes Were Only a Matter of Time",
-      "url": "https://www.pushsquare.com/news/2026/10/i-suppose-playstation-themed-blind-boxes-were-only-a-matter-of-time",
+      "id": "warhammer-s-vampire-survivors-like-brings-insane-pixel-actio",
+      "titre": "Warhammer's Vampire Survivors-Like Brings Insane Pixel Action to PS5 in November",
+      "url": "https://www.pushsquare.com/news/2026/10/warhammers-vampire-survivors-like-brings-insane-pixel-action-to-ps5-in-november",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 24.2,
-      "chaleur": 5,
+      "heures": 4.4,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/i-suppose-playstation-themed-blind-boxes-were-only-a-matter-of-time",
-          "titre": "I Suppose PlayStation-Themed Blind Boxes Were Only a Matter of Time"
+          "url": "https://www.pushsquare.com/news/2026/10/warhammers-vampire-survivors-like-brings-insane-pixel-action-to-ps5-in-november",
+          "titre": "Warhammer's Vampire Survivors-Like Brings Insane Pixel Action to PS5 in November"
         }
       ]
     },
     {
-      "id": "car-park-capital-s-cities-are-utopias-of-public-transport-ne",
-      "titre": "Car Park Capital's cities are utopias of public transport networks and green living, or they were before I got done with them",
-      "url": "https://www.rockpapershotgun.com/car-park-capitals-cities-are-utopias-of-public-transport-networks-and-green-living-or-they-were-before-i-got-done-with-them",
+      "id": "gundam-rogue-orbit-gave-me-a-sick-whip-sword-but-held-back-t",
+      "titre": "Gundam Rogue Orbit gave me a sick whip sword, but held back the one thing I want most in a mech game",
+      "url": "https://www.pcgamer.com/games/action/gundam-rogue-orbit-gave-me-a-sick-whip-sword-but-held-back-the-one-thing-i-want-most-in-a-mech-game/",
       "sources": [
-        "Rock Paper Shotgun"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 4.4,
       "chaleur": 4,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/car-park-capitals-cities-are-utopias-of-public-transport-networks-and-green-living-or-they-were-before-i-got-done-with-them",
-          "titre": "Car Park Capital's cities are utopias of public transport networks and green living, or they were before I got done with them"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/gundam-rogue-orbit-gave-me-a-sick-whip-sword-but-held-back-the-one-thing-i-want-most-in-a-mech-game/",
+          "titre": "Gundam Rogue Orbit gave me a sick whip sword, but held back the one thing I want most in a mech game"
+        }
+      ]
+    },
+    {
+      "id": "resident-evil-games-engagement-leapt-50-following-release-of",
+      "titre": "Resident Evil games engagement leapt 50% following release of Zach Cregger's movie, but analysts say real value is in brand building",
+      "url": "https://www.gamesindustry.biz/resident-evil-games-engagement-leapt-50-following-release-of-zach-creggers-movie-but-analysts-say-real-value-is-in-brand-building-1",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/resident-evil-games-engagement-leapt-50-following-release-of-zach-creggers-movie-but-analysts-say-real-value-is-in-brand-building-1",
+          "titre": "Resident Evil games engagement leapt 50% following release of Zach Cregger's movie, but analysts say real value is in brand building"
+        }
+      ]
+    },
+    {
+      "id": "sega-won-t-entrust-the-creative-aspect-of-games-to-ai-but-is",
+      "titre": "Sega won't \"entrust the creative aspect of games to AI,\" but is using tech to \"improve efficiency\" in other departments",
+      "url": "https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments",
+          "titre": "Sega won't \"entrust the creative aspect of games to AI,\" but is using tech to \"improve efficiency\" in other departments"
         }
       ]
     }
