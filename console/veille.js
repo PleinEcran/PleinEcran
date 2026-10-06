@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "06/10/2026 à 08h24",
+  "collecte": "06/10/2026 à 10h23",
   "seuil": 14,
   "sujets": [
     {
@@ -13,7 +13,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 14.7,
+      "heures": 16.7,
       "chaleur": 14,
       "liens": [
         {
@@ -34,20 +34,68 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-announces-another-switch-2-hardware-bundle",
-      "titre": "Nintendo Announces Another Switch 2 Hardware Bundle",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-announces-another-switch-2-hardware-bundle",
+      "id": "nintendo-releases-free-hello-peach-and-hello-luigi-apps-for",
+      "titre": "Nintendo releases free Hello, Peach! and Hello, Luigi! apps for children, joining its Mario and Yoshi ones",
+      "url": "https://www.videogameschronicle.com/news/nintendo-releases-free-hello-peach-and-hello-luigi-apps-for-children-joining-its-mario-and-yoshi-ones/",
       "sources": [
-        "Nintendo Life"
+        "Nintendo Life",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 3.5,
+      "reprises": 2,
+      "heures": 0.3,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/nintendo-releases-free-hello-peach-and-hello-luigi-apps-for-children-joining-its-mario-and-yoshi-ones/",
+          "titre": "Nintendo releases free Hello, Peach! and Hello, Luigi! apps for children, joining its Mario and Yoshi ones"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-releases-hello-peach-and-hello-luigi-app-for-switch-and-mobile-devices",
+          "titre": "Nintendo Releases 'Hello, Peach!' And 'Hello, Luigi!' App For Switch & Mobile Devices"
+        }
+      ]
+    },
+    {
+      "id": "out-today-star-wars-galactic-racer-the-highest-rated-star-wa",
+      "titre": "Out Today: Star Wars: Galactic Racer, the Highest-Rated Star Wars Game in Over 20 Years",
+      "url": "https://www.pushsquare.com/news/2026/10/out-today-star-wars-galactic-racer-the-highest-rated-star-wars-game-in-over-20-years",
+      "sources": [
+        "GamesIndustry.biz",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 0.4,
       "chaleur": 9,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-announces-another-switch-2-hardware-bundle",
-          "titre": "Nintendo Announces Another Switch 2 Hardware Bundle"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/out-today-star-wars-galactic-racer-the-highest-rated-star-wars-game-in-over-20-years",
+          "titre": "Out Today: Star Wars: Galactic Racer, the Highest-Rated Star Wars Game in Over 20 Years"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/star-wars-galactic-racer-launches-on-amazon-luna-as-part-of-prime-subscription",
+          "titre": "Star Wars: Galactic Racer launches on Amazon Luna as part of Prime subscription"
+        }
+      ]
+    },
+    {
+      "id": "supermassive-games-suffers-layoffs-as-more-than-70-developer",
+      "titre": "Supermassive Games suffers layoffs as more than 70 developers seem to have left the company this week",
+      "url": "https://www.eurogamer.net/supermassive-games-layoffs-70",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/supermassive-games-layoffs-70",
+          "titre": "Supermassive Games suffers layoffs as more than 70 developers seem to have left the company this week"
         }
       ]
     },
@@ -60,7 +108,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 7.5,
+      "heures": 9.5,
       "chaleur": 9,
       "liens": [
         {
@@ -85,7 +133,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 3,
-      "heures": 12.9,
+      "heures": 14.8,
       "chaleur": 9,
       "liens": [
         {
@@ -106,6 +154,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "if-you-don-t-own-it-what-are-you-buying-former-playstation",
+      "titre": "‘If you don’t own it, what are you buying?’ Former PlayStation boss says dropping discs is ‘a significant brand hit’",
+      "url": "https://www.videogameschronicle.com/news/if-you-dont-own-it-what-are-you-buying-former-playstation-boss-says-dropping-discs-is-a-significant-brand-hit/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/if-you-dont-own-it-what-are-you-buying-former-playstation-boss-says-dropping-discs-is-a-significant-brand-hit/",
+          "titre": "‘If you don’t own it, what are you buying?’ Former PlayStation boss says dropping discs is ‘a significant brand hit’"
+        }
+      ]
+    },
+    {
       "id": "dark-pictures-dev-s-layoffs-have-begun-over-70-staff-reporte",
       "titre": "Dark Pictures Dev's Layoffs Have Begun, Over 70 Staff Reportedly Let Go",
       "url": "https://www.pushsquare.com/news/2026/10/dark-pictures-devs-layoffs-have-begun-over-70-staff-reportedly-let-go",
@@ -113,7 +179,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.7,
+      "heures": 18.6,
       "chaleur": 8,
       "liens": [
         {
@@ -124,20 +190,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-releases-hello-peach-and-hello-luigi-app-for-switch",
-      "titre": "Nintendo Releases 'Hello, Peach!' And 'Hello, Luigi!' App For Switch & Mobile Devices",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-releases-hello-peach-and-hello-luigi-app-for-switch-and-mobile-devices",
+      "id": "nintendo-announces-another-switch-2-hardware-bundle",
+      "titre": "Nintendo Announces Another Switch 2 Hardware Bundle",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-announces-another-switch-2-hardware-bundle",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 5.5,
       "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-releases-hello-peach-and-hello-luigi-app-for-switch-and-mobile-devices",
-          "titre": "Nintendo Releases 'Hello, Peach!' And 'Hello, Luigi!' App For Switch & Mobile Devices"
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-announces-another-switch-2-hardware-bundle",
+          "titre": "Nintendo Announces Another Switch 2 Hardware Bundle"
         }
       ]
     },
@@ -149,7 +215,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.8,
       "chaleur": 7,
       "liens": [
         {
@@ -167,7 +233,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 17.6,
       "chaleur": 7,
       "liens": [
         {
@@ -185,7 +251,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.1,
+      "heures": 23.1,
       "chaleur": 7,
       "liens": [
         {
@@ -376,6 +442,114 @@ const VEILLE = {
       ]
     },
     {
+      "id": "following-through-on-their-warning-until-dawn-and-directive",
+      "titre": "Following through on their warning, Until Dawn and Directive 8020 devs Supermassive lay off \"more than 70\" staff",
+      "url": "https://www.rockpapershotgun.com/following-through-on-their-warning-until-dawn-and-directive-8020-devs-supermassive-lay-off-more-than-70-staff",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/following-through-on-their-warning-until-dawn-and-directive-8020-devs-supermassive-lay-off-more-than-70-staff",
+          "titre": "Following through on their warning, Until Dawn and Directive 8020 devs Supermassive lay off \"more than 70\" staff"
+        }
+      ]
+    },
+    {
+      "id": "after-12-years-ultra-street-fighter-iv-gets-not-one-but-two",
+      "titre": "After 12 years, Ultra Street Fighter IV gets not one, but two connection-stabilising rollback netcode mods aaaand they're both made using Claude",
+      "url": "https://www.rockpapershotgun.com/after-12-years-ultra-street-fighter-iv-gets-not-one-but-two-connection-stabilising-rollback-netcode-mods-aaaand-theyre-both-made-using-claude",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/after-12-years-ultra-street-fighter-iv-gets-not-one-but-two-connection-stabilising-rollback-netcode-mods-aaaand-theyre-both-made-using-claude",
+          "titre": "After 12 years, Ultra Street Fighter IV gets not one, but two connection-stabilising rollback netcode mods aaaand they're both made using Claude"
+        }
+      ]
+    },
+    {
+      "id": "tarae-the-unbound-seems-to-get-what-makes-a-good-arpg-but-cr",
+      "titre": "Tarae: The Unbound seems to get what makes a good ARPG, but crunchy combat aside, can it rise to the likes of Diablo and Path of Exile?",
+      "url": "https://www.eurogamer.net/tarae-the-unbound-preview",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/tarae-the-unbound-preview",
+          "titre": "Tarae: The Unbound seems to get what makes a good ARPG, but crunchy combat aside, can it rise to the likes of Diablo and Path of Exile?"
+        }
+      ]
+    },
+    {
+      "id": "october-2026-ps-plus-essential-games-available-to-download-n",
+      "titre": "October 2026 PS Plus Essential Games Available to Download Now",
+      "url": "https://www.pushsquare.com/news/2026/10/october-2026-ps-plus-essential-games-available-to-download-now",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/october-2026-ps-plus-essential-games-available-to-download-now",
+          "titre": "October 2026 PS Plus Essential Games Available to Download Now"
+        }
+      ]
+    },
+    {
+      "id": "this-is-call-of-duty-s-definitive-extraction-shooter-experi",
+      "titre": "\"This is Call of Duty's definitive extraction shooter experience\" - Infinity Ward details the new DMZ mode in Modern Warfare 4",
+      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-reveal",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-reveal",
+          "titre": "\"This is Call of Duty's definitive extraction shooter experience\" - Infinity Ward details the new DMZ mode in Modern Warfare 4"
+        }
+      ]
+    },
+    {
+      "id": "watch-dogs-is-important-to-ubisoft-says-yves-guillemot-but-d",
+      "titre": "Watch Dogs is ‘important’ to Ubisoft says Yves Guillemot, but don’t expect a new one soon",
+      "url": "https://www.videogameschronicle.com/news/watch-dogs-is-important-to-ubisoft-says-yves-guillemot-but-dont-expect-a-new-one-soon/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/watch-dogs-is-important-to-ubisoft-says-yves-guillemot-but-dont-expect-a-new-one-soon/",
+          "titre": "Watch Dogs is ‘important’ to Ubisoft says Yves Guillemot, but don’t expect a new one soon"
+        }
+      ]
+    },
+    {
       "id": "nba-2k25-servers-to-shut-down-on-december-31-single-player-s",
       "titre": "NBA 2K25 servers to shut down on December 31, single-player story mode will become unplayable",
       "url": "https://www.gamesindustry.biz/nba-2k25-servers-to-shut-down-on-december-31-single-player-story-mode-will-become-unplayable",
@@ -383,31 +557,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/nba-2k25-servers-to-shut-down-on-december-31-single-player-story-mode-will-become-unplayable",
           "titre": "NBA 2K25 servers to shut down on December 31, single-player story mode will become unplayable"
-        }
-      ]
-    },
-    {
-      "id": "monster-hunter-rise-surpasses-20-million-sales-worldwide",
-      "titre": "Monster Hunter Rise Surpasses 20 Million Sales Worldwide",
-      "url": "https://www.nintendolife.com/news/2026/10/monster-hunter-rise-surpasses-20-million-sales-worldwide",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/monster-hunter-rise-surpasses-20-million-sales-worldwide",
-          "titre": "Monster Hunter Rise Surpasses 20 Million Sales Worldwide"
         }
       ]
     },
@@ -419,7 +575,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.5,
       "chaleur": 6,
       "liens": [
         {
@@ -437,7 +593,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.5,
       "chaleur": 6,
       "liens": [
         {
@@ -455,7 +611,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.5,
       "chaleur": 6,
       "liens": [
         {
@@ -473,7 +629,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.1,
       "chaleur": 6,
       "liens": [
         {
@@ -491,7 +647,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.5,
       "chaleur": 6,
       "liens": [
         {
@@ -509,7 +665,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.7,
+      "heures": 18.6,
       "chaleur": 6,
       "liens": [
         {
@@ -527,7 +683,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 6,
       "liens": [
         {
@@ -545,7 +701,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.0,
+      "heures": 21.0,
       "chaleur": 6,
       "liens": [
         {
@@ -564,7 +720,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 21.3,
+      "heures": 23.2,
       "chaleur": 6,
       "liens": [
         {
@@ -587,31 +743,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/i-got-my-start-writing-for-a-playstation-2-magazine-these-are-my-12-ps2-pilled-recommendations-from-the-steam-autumn-sale/",
           "titre": "I got my start writing for a PlayStation 2 magazine: These are my 12 PS2-pilled recommendations from the Steam Autumn Sale"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-is-deliberately-avoiding-direct-political-references-s",
-      "titre": "GTA 6 is deliberately avoiding direct political references, says Rockstar",
-      "url": "https://www.videogameschronicle.com/news/gta-6-is-deliberately-avoiding-direct-political-references-says-rockstar/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 22.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/gta-6-is-deliberately-avoiding-direct-political-references-says-rockstar/",
-          "titre": "GTA 6 is deliberately avoiding direct political references, says Rockstar"
         }
       ]
     },
@@ -623,7 +761,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.9,
       "chaleur": 5,
       "liens": [
         {
@@ -641,7 +779,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.1,
       "chaleur": 5,
       "liens": [
         {
@@ -659,7 +797,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.5,
       "chaleur": 5,
       "liens": [
         {
@@ -677,7 +815,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 19.9,
       "chaleur": 5,
       "liens": [
         {
@@ -695,7 +833,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.3,
       "chaleur": 5,
       "liens": [
         {
@@ -713,7 +851,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.4,
       "chaleur": 5,
       "liens": [
         {
@@ -731,13 +869,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.5,
+      "heures": 24.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/runescape-4-is-a-new-unreal-engine-mmo-which-reportedly-grew-out-of-a-planned-dragonwilds-expansion-though-its-still-a-long-way-off",
           "titre": "RuneScape 4 is a new Unreal Engine MMO which reportedly grew out of a planned Dragonwilds expansion, though it's still a long way off"
+        }
+      ]
+    },
+    {
+      "id": "monster-hunter-rise-surpasses-20-million-sales-worldwide",
+      "titre": "Monster Hunter Rise Surpasses 20 Million Sales Worldwide",
+      "url": "https://www.nintendolife.com/news/2026/10/monster-hunter-rise-surpasses-20-million-sales-worldwide",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/monster-hunter-rise-surpasses-20-million-sales-worldwide",
+          "titre": "Monster Hunter Rise Surpasses 20 Million Sales Worldwide"
         }
       ]
     },
@@ -749,7 +905,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -767,7 +923,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -785,7 +941,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -803,7 +959,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 14.7,
       "chaleur": 3,
       "liens": [
         {
@@ -821,31 +977,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 17.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/free-to-play-playtime-is-broadly-flat-as-gacha-rpgs-drive-pc-growth-says-newzoo",
           "titre": "Free-to-play playtime is broadly flat as gacha RPGs drive PC growth, says Newzoo"
-        }
-      ]
-    },
-    {
-      "id": "another-major-ps5-game-will-be-delisted-in-october-2026",
-      "titre": "Another Major PS5 Game Will Be Delisted in October 2026",
-      "url": "https://www.pushsquare.com/news/2026/10/another-major-ps5-game-will-be-delisted-in-october-2026",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 15.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/another-major-ps5-game-will-be-delisted-in-october-2026",
-          "titre": "Another Major PS5 Game Will Be Delisted in October 2026"
         }
       ]
     },
@@ -857,7 +995,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +1013,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +1031,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.7,
       "chaleur": 3,
       "liens": [
         {
@@ -911,7 +1049,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.8,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +1067,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 18.0,
       "chaleur": 3,
       "liens": [
         {
@@ -947,7 +1085,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.1,
       "chaleur": 3,
       "liens": [
         {
@@ -965,7 +1103,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.3,
       "chaleur": 3,
       "liens": [
         {
@@ -983,139 +1121,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-looking-for-more-ways-to-integrate-real-human-performances-starting-with-celestes-visual-overhaul-for-frozen-trail/",
           "titre": "Arc Raiders is looking for 'more ways to integrate real human performances' starting with Celeste's visual overhaul for Frozen Trail"
-        }
-      ]
-    },
-    {
-      "id": "why-it-s-still-worth-making-immersive-sims-ft-harvey-smith-b",
-      "titre": "Why it's still worth making immersive sims ft. Harvey Smith & Ben Horne",
-      "url": "https://www.gamedeveloper.com/design/why-it-s-still-worth-making-immersive-sims-ft-harvey-smith-ben-horne",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 16.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/design/why-it-s-still-worth-making-immersive-sims-ft-harvey-smith-ben-horne",
-          "titre": "Why it's still worth making immersive sims ft. Harvey Smith & Ben Horne"
-        }
-      ]
-    },
-    {
-      "id": "dungeons-dragons-world-of-warcraft-is-already-a-slam-dunk-bu",
-      "titre": "Dungeons & Dragons: World of Warcraft is already a slam dunk, but it's how it captures the spirit of the MMO that makes it stand out",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/dungeons-and-dragons-world-of-warcraft-is-already-a-slam-dunk-but-its-how-it-captures-the-spirit-of-the-mmo-that-makes-it-stand-out/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 16.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/dungeons-and-dragons-world-of-warcraft-is-already-a-slam-dunk-but-its-how-it-captures-the-spirit-of-the-mmo-that-makes-it-stand-out/",
-          "titre": "Dungeons & Dragons: World of Warcraft is already a slam dunk, but it's how it captures the spirit of the MMO that makes it stand out"
-        }
-      ]
-    },
-    {
-      "id": "claims-that-genai-speeds-up-pc-ports-of-classic-games-are-ei",
-      "titre": "Claims that genAI speeds up PC ports of classic games are either \"false\" or missing the point, says Banjo Kazooie: Recompiled developer",
-      "url": "https://www.rockpapershotgun.com/claims-that-genai-speeds-up-pc-ports-of-classic-games-are-either-false-or-missing-the-point-says-banjo-kazooie-recompiled-developer",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 17.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/claims-that-genai-speeds-up-pc-ports-of-classic-games-are-either-false-or-missing-the-point-says-banjo-kazooie-recompiled-developer",
-          "titre": "Claims that genAI speeds up PC ports of classic games are either \"false\" or missing the point, says Banjo Kazooie: Recompiled developer"
-        }
-      ]
-    },
-    {
-      "id": "aion-2-faq-everything-you-need-to-know-about-aion-2",
-      "titre": "Aion 2 FAQ: Everything you need to know about Aion 2",
-      "url": "https://www.videogameschronicle.com/guide/aion-2-faq-everything-you-need-to-know-about-aion-2/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 17.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/aion-2-faq-everything-you-need-to-know-about-aion-2/",
-          "titre": "Aion 2 FAQ: Everything you need to know about Aion 2"
-        }
-      ]
-    },
-    {
-      "id": "even-if-i-knew-how-it-would-end-i-would-do-it-again-hellbla",
-      "titre": "\"Even if I knew how it would end, I would do it again\": Hellblade developers Ninja Theory appear to have kicked off the redundancy process",
-      "url": "https://www.rockpapershotgun.com/even-if-i-knew-how-it-would-end-i-would-do-it-again-hellblade-developers-ninja-theory-appear-to-have-kicked-off-the-redundancy-process",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 17.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/even-if-i-knew-how-it-would-end-i-would-do-it-again-hellblade-developers-ninja-theory-appear-to-have-kicked-off-the-redundancy-process",
-          "titre": "\"Even if I knew how it would end, I would do it again\": Hellblade developers Ninja Theory appear to have kicked off the redundancy process"
-        }
-      ]
-    },
-    {
-      "id": "aion-2-factions-best-faction-to-choose-elyos-or-asmodians",
-      "titre": "Aion 2 Factions: Best Faction to choose, Elyos or Asmodians",
-      "url": "https://www.videogameschronicle.com/guide/aion-2-factions-best-faction-to-choose-elyos-or-asmodians/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 18.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/aion-2-factions-best-faction-to-choose-elyos-or-asmodians/",
-          "titre": "Aion 2 Factions: Best Faction to choose, Elyos or Asmodians"
-        }
-      ]
-    },
-    {
-      "id": "disappointment-as-kingdom-hearts-ps5-pulls-back-platinum-tro",
-      "titre": "Disappointment as Kingdom Hearts PS5 Pulls Back Platinum Trophies",
-      "url": "https://www.pushsquare.com/news/2026/10/disappointment-as-kingdom-hearts-ps5-pulls-back-platinum-trophies",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 18.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/disappointment-as-kingdom-hearts-ps5-pulls-back-platinum-trophies",
-          "titre": "Disappointment as Kingdom Hearts PS5 Pulls Back Platinum Trophies"
         }
       ]
     }
