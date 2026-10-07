@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "07/10/2026 à 08h25",
+  "collecte": "07/10/2026 à 10h23",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 4,
-      "heures": 5.0,
+      "heures": 7.0,
       "chaleur": 13,
       "liens": [
         {
@@ -40,50 +40,158 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-elite-series-3-controller-leaks-and-appears-to-offer-be",
-      "titre": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more",
-      "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
+      "id": "gamestop-hikes-used-ps5-pro-price-to-1400-as-gta-6-demand-lo",
+      "titre": "GameStop hikes used PS5 Pro price to $1400 as GTA 6 demand looms",
+      "url": "https://www.videogameschronicle.com/news/gamestop-hikes-used-ps5-pro-price-to-1400-as-gta-6-demand-looms/",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.7,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/gamestop-hikes-used-ps5-pro-price-to-1400-as-gta-6-demand-looms/",
+          "titre": "GameStop hikes used PS5 Pro price to $1400 as GTA 6 demand looms"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/this-is-intentional-gamestop-to-start-scalping-used-ps5-pros-for-usd1500",
+          "titre": "'This Is Intentional': GameStop to Start Scalping Used PS5 Pros for $1,500"
+        }
+      ]
+    },
+    {
+      "id": "xbox-restates-plans-for-next-gen-project-helix-to-be-a-famil",
+      "titre": "Xbox restates plans for next-gen Project Helix to be a \"family of devices\", stressing \"many players will be on the go\"",
+      "url": "https://www.eurogamer.net/xbox-project-helix-console-family-of-devices-asha-sharma",
       "sources": [
         "Eurogamer",
         "VGC"
       ],
       "reprises": 2,
-      "heures": 19.1,
-      "chaleur": 10,
+      "heures": 0.6,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
-          "titre": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more"
+          "url": "https://www.eurogamer.net/xbox-project-helix-console-family-of-devices-asha-sharma",
+          "titre": "Xbox restates plans for next-gen Project Helix to be a \"family of devices\", stressing \"many players will be on the go\""
         },
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-elite-series-3-controller-details-have-reportedly-leaked-including-a-choice-of-hall-effect-or-tmr-sticks/",
-          "titre": "Xbox Elite Series 3 controller details have reportedly leaked, including a choice of Hall effect or TMR sticks"
+          "url": "https://www.videogameschronicle.com/news/xbox-ceo-speaks-more-about-next-gen-project-helix-as-a-family-of-devices-says-its-new-os-looks-really-good/",
+          "titre": "Xbox CEO speaks more about next-gen Project Helix as a ‘family of devices’, says its new OS looks ‘really good’"
         }
       ]
     },
     {
-      "id": "unlead-labs-studio-head-says-they-were-irresponsibly-transpa",
-      "titre": "Unlead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs",
-      "url": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
+      "id": "xbox-denies-reports-it-s-acquired-exclusive-gta-6-game-strea",
+      "titre": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC",
+      "url": "https://www.eurogamer.net/xbox-cloud-gta-6-streaming-rights",
       "sources": [
-        "Game Developer",
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-cloud-gta-6-streaming-rights",
+          "titre": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC"
+        }
+      ]
+    },
+    {
+      "id": "xbox-has-started-to-return-to-growth-in-first-party-followin",
+      "titre": "Xbox has ‘started to return to growth’ in first-party following an ‘all-time low’, CEO Asha Sharma reportedly tells staff",
+      "url": "https://www.videogameschronicle.com/news/xbox-has-started-to-return-to-growth-in-first-party-following-an-all-time-low-ceo-asha-sharma-reportedly-tells-staff/",
+      "sources": [
         "VGC"
       ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-has-started-to-return-to-growth-in-first-party-following-an-all-time-low-ceo-asha-sharma-reportedly-tells-staff/",
+          "titre": "Xbox has ‘started to return to growth’ in first-party following an ‘all-time low’, CEO Asha Sharma reportedly tells staff"
+        }
+      ]
+    },
+    {
+      "id": "gamesindustry-biz-to-host-panel-at-game-republic-s-investmen",
+      "titre": "GamesIndustry.biz to host panel at Game Republic's Investment Summit at MCM Comic Con October 2026",
+      "url": "https://www.gamesindustry.biz/gamesindustrybiz-to-host-panel-at-game-republics-investment-summit-at-mcm-comic-con-october-2026",
+      "sources": [
+        "GamesIndustry.biz",
+        "Push Square"
+      ],
       "reprises": 2,
-      "heures": 15.2,
+      "heures": 0.7,
       "chaleur": 9,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
-          "titre": "Unlead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/gamesindustrybiz-to-host-panel-at-game-republics-investment-summit-at-mcm-comic-con-october-2026",
+          "titre": "GamesIndustry.biz to host panel at Game Republic's Investment Summit at MCM Comic Con October 2026"
         },
         {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/october-2026-ps-plus-essential-games-available-to-download-now",
+          "titre": "October 2026 PS Plus Essential Games Available to Download Now"
+        }
+      ]
+    },
+    {
+      "id": "sources-ape-escape-revival-in-the-works-from-sonic-mania-tea",
+      "titre": "Sources: Ape Escape revival in the works from Sonic Mania team",
+      "url": "https://www.videogameschronicle.com/news/sources-ape-escape-revival-in-the-works-from-sonic-mania-team/",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.4,
+      "chaleur": 9,
+      "liens": [
+        {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/state-of-decay-studio-boss-says-he-was-irresponsibly-transparent-to-staff-to-make-layoffs-easier-to-take/",
-          "titre": "State of Decay studio boss says he was ‘irresponsibly transparent’ to staff to make layoffs easier to take"
+          "url": "https://www.videogameschronicle.com/news/sources-ape-escape-revival-in-the-works-from-sonic-mania-team/",
+          "titre": "Sources: Ape Escape revival in the works from Sonic Mania team"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/rumour-ape-escape-revival-coming-from-ex-sonic-mania-devs-at-evening-star-studio",
+          "titre": "Rumour: Ape Escape Revival Coming from Ex-Sonic Mania Devs at Evening Star Studio"
+        }
+      ]
+    },
+    {
+      "id": "paramount-and-warner-bros-combine-video-game-divisions-after",
+      "titre": "Paramount and Warner Bros. combine video game divisions after $110bn Skydance merger",
+      "url": "https://www.videogameschronicle.com/news/paramount-and-warner-bros-combine-video-game-divisions-after-110bn-skydance-merger/",
+      "sources": [
+        "GamesIndustry.biz",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.7,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/paramount-and-warner-bros-combine-video-game-divisions-after-110bn-skydance-merger/",
+          "titre": "Paramount and Warner Bros. combine video game divisions after $110bn Skydance merger"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/paramount-and-warner-bros-discovery-operating-under-skydance-following-completion-of-111bn-merger",
+          "titre": "Paramount and Warner Bros. Discovery operating under Skydance following completion of $111bn merger"
         }
       ]
     },
@@ -96,7 +204,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 9,
       "liens": [
         {
@@ -112,54 +220,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "two-months-after-announcing-layoff-plans-supermassive-games",
-      "titre": "Two months after announcing layoff plans, Supermassive Games has laid off ‘more than 70’ staff",
-      "url": "https://www.videogameschronicle.com/news/two-months-after-announcing-layoff-plans-supermassive-games-has-laid-off-more-than-70-staff/",
-      "sources": [
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 18.7,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/two-months-after-announcing-layoff-plans-supermassive-games-has-laid-off-more-than-70-staff/",
-          "titre": "Two months after announcing layoff plans, Supermassive Games has laid off ‘more than 70’ staff"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/following-through-on-their-warning-until-dawn-and-directive-8020-devs-supermassive-lay-off-more-than-70-staff",
-          "titre": "Following through on their warning, Until Dawn and Directive 8020 devs Supermassive lay off \"more than 70\" staff"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-releases-free-hello-peach-and-hello-luigi-apps-for",
-      "titre": "Nintendo releases free Hello, Peach! and Hello, Luigi! apps for children, joining its Mario and Yoshi ones",
-      "url": "https://www.videogameschronicle.com/news/nintendo-releases-free-hello-peach-and-hello-luigi-apps-for-children-joining-its-mario-and-yoshi-ones/",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 22.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/nintendo-releases-free-hello-peach-and-hello-luigi-apps-for-children-joining-its-mario-and-yoshi-ones/",
-          "titre": "Nintendo releases free Hello, Peach! and Hello, Luigi! apps for children, joining its Mario and Yoshi ones"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-releases-hello-peach-and-hello-luigi-app-for-switch-and-mobile-devices",
-          "titre": "Nintendo Releases 'Hello, Peach!' And 'Hello, Luigi!' App For Switch & Mobile Devices"
-        }
-      ]
-    },
-    {
       "id": "warhammer-s-take-on-vampire-survivors-will-eat-our-free-time",
       "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month",
       "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
@@ -168,7 +228,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 16.7,
+      "heures": 18.6,
       "chaleur": 8,
       "liens": [
         {
@@ -192,7 +252,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 5.2,
+      "heures": 7.1,
       "chaleur": 7,
       "liens": [
         {
@@ -334,38 +394,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "paramount-and-warner-bros-discovery-operating-under-skydance",
-      "titre": "Paramount and Warner Bros. Discovery operating under Skydance following completion of $111bn merger",
-      "url": "https://www.gamesindustry.biz/paramount-and-warner-bros-discovery-operating-under-skydance-following-completion-of-111bn-merger",
+      "id": "games-industry-investors-are-sitting-on-the-sidelines-waitin",
+      "titre": "Games industry investors are \"sitting on the sidelines waiting for obvious slam dunks\", says Undead Labs boss, with labour costs a key worry",
+      "url": "https://www.rockpapershotgun.com/games-industry-investors-are-sitting-on-the-sidelines-waiting-for-obvious-slam-dunks-says-undead-labs-boss-with-labour-costs-a-key-worry",
       "sources": [
-        "GamesIndustry.biz"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
       "heures": 0.1,
       "chaleur": 6,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/paramount-and-warner-bros-discovery-operating-under-skydance-following-completion-of-111bn-merger",
-          "titre": "Paramount and Warner Bros. Discovery operating under Skydance following completion of $111bn merger"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/games-industry-investors-are-sitting-on-the-sidelines-waiting-for-obvious-slam-dunks-says-undead-labs-boss-with-labour-costs-a-key-worry",
+          "titre": "Games industry investors are \"sitting on the sidelines waiting for obvious slam dunks\", says Undead Labs boss, with labour costs a key worry"
         }
       ]
     },
     {
-      "id": "pok-mon-home-firered-leafgreen-compatibility-update-now-live",
-      "titre": "Pokémon HOME FireRed & LeafGreen Compatibility Update Now Live (Version 4.1.0)",
-      "url": "https://www.nintendolife.com/news/2026/10/pokemon-home-firered-and-leafgreen-compatibility-update-now-live-version-4-1-0",
+      "id": "the-pok-mon-fossil-museum-is-heading-to-colorado-in-2027",
+      "titre": "The Pokémon Fossil Museum is heading to Colorado in 2027",
+      "url": "https://www.videogameschronicle.com/news/the-pokemon-fossil-museum-is-heading-to-colorado-in-2027/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-pokemon-fossil-museum-is-heading-to-colorado-in-2027/",
+          "titre": "The Pokémon Fossil Museum is heading to Colorado in 2027"
+        }
+      ]
+    },
+    {
+      "id": "forza-horizon-6-studio-acknowledges-to-players-we-haven-t-be",
+      "titre": "Forza Horizon 6 studio acknowledges to players ‘we haven’t been talking with you as much as we could be’",
+      "url": "https://www.videogameschronicle.com/news/forza-horizon-6-studio-acknowledges-to-players-we-havent-been-talking-with-you-as-much-as-we-could-be/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/forza-horizon-6-studio-acknowledges-to-players-we-havent-been-talking-with-you-as-much-as-we-could-be/",
+          "titre": "Forza Horizon 6 studio acknowledges to players ‘we haven’t been talking with you as much as we could be’"
+        }
+      ]
+    },
+    {
+      "id": "pok-mon-pokopia-s-new-mystery-gift-distribution-is-now-avail",
+      "titre": "Pokémon Pokopia's New Mystery Gift Distribution Is Now Available",
+      "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopias-new-mystery-gift-distribution-is-now-available",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.9,
+      "heures": 1.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/pokemon-home-firered-and-leafgreen-compatibility-update-now-live-version-4-1-0",
-          "titre": "Pokémon HOME FireRed & LeafGreen Compatibility Update Now Live (Version 4.1.0)"
+          "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopias-new-mystery-gift-distribution-is-now-available",
+          "titre": "Pokémon Pokopia's New Mystery Gift Distribution Is Now Available"
+        }
+      ]
+    },
+    {
+      "id": "footage-of-microsoft-s-now-dead-perfect-dark-revival-appears",
+      "titre": "Footage of Microsoft’s now-dead Perfect Dark revival appears online",
+      "url": "https://www.videogameschronicle.com/news/footage-of-microsofts-now-dead-perfect-dark-revival-appears-online/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/footage-of-microsofts-now-dead-perfect-dark-revival-appears-online/",
+          "titre": "Footage of Microsoft’s now-dead Perfect Dark revival appears online"
         }
       ]
     },
@@ -377,7 +491,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.1,
       "chaleur": 6,
       "liens": [
         {
@@ -395,7 +509,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.1,
       "chaleur": 6,
       "liens": [
         {
@@ -413,13 +527,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 15.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/cancelled-mmo-spin-off-borderlands-online-is-playable-once-again-and-the-team-behind-the-unofficial-project-thankfully-didnt-use-any-genai-to-get-it-running",
           "titre": "Cancelled MMO spin-off Borderlands Online is playable once again, and the team behind the unofficial project thankfully didn't use any genAI to get it running"
+        }
+      ]
+    },
+    {
+      "id": "unlead-labs-studio-head-says-they-were-irresponsibly-transpa",
+      "titre": "Unlead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs",
+      "url": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 17.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
+          "titre": "Unlead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs"
         }
       ]
     },
@@ -432,7 +564,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 6,
       "liens": [
         {
@@ -455,37 +587,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/ive-added-scams-to-gta-5-but-i-might-have-scammed-myself/",
           "titre": "I've added scams to GTA 5, but I might have scammed myself"
-        }
-      ]
-    },
-    {
-      "id": "after-crazy-taxi-s-ai-drama-sega-says-it-s-being-very-cautio",
-      "titre": "After Crazy Taxi's AI Drama, SEGA Says It's Being 'Very Cautious' About Using the Tech",
-      "url": "https://www.pushsquare.com/news/2026/10/after-crazy-taxis-ai-drama-sega-says-its-being-very-cautious-about-using-the-tech",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 16.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/after-crazy-taxis-ai-drama-sega-says-its-being-very-cautious-about-using-the-tech",
-          "titre": "After Crazy Taxi's AI Drama, SEGA Says It's Being 'Very Cautious' About Using the Tech"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sega-claims-its-being-very-cautious-about-ai-and-wont-use-it-for-creative-work/",
-          "titre": "Sega claims it’s being ‘very cautious’ about AI and won’t use it for creative work"
         }
       ]
     },
@@ -497,7 +605,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.7,
+      "heures": 20.6,
       "chaleur": 6,
       "liens": [
         {
@@ -515,7 +623,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.3,
       "chaleur": 6,
       "liens": [
         {
@@ -533,7 +641,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.5,
+      "heures": 29.5,
       "chaleur": 6,
       "liens": [
         {
@@ -551,7 +659,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 33.8,
+      "heures": 35.8,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +677,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.5,
       "chaleur": 5,
       "liens": [
         {
@@ -587,7 +695,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 5,
       "liens": [
         {
@@ -605,13 +713,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/some-staff-at-eternal-strands-and-ex-ubisoft-devs-yellow-brick-games-report-theyve-been-laid-off",
           "titre": "Some staff at Eternal Strands and ex-Ubisoft devs Yellow Brick Games report they've been laid off"
+        }
+      ]
+    },
+    {
+      "id": "xbox-elite-series-3-controller-leaks-and-appears-to-offer-be",
+      "titre": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more",
+      "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 21.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
+          "titre": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more"
         }
       ]
     },
@@ -623,7 +749,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.8,
+      "heures": 22.8,
       "chaleur": 5,
       "liens": [
         {
@@ -641,31 +767,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/kingdom-hearts-iii-plus-re-mind-dlc",
           "titre": "Mini Review: KINGDOM HEARTS III + Re Mind (DLC) - A Fair Switch 2 Port Of An Enjoyable 'Conclusion'"
-        }
-      ]
-    },
-    {
-      "id": "if-you-don-t-own-it-what-are-you-buying-former-playstation",
-      "titre": "‘If you don’t own it, what are you buying?’ Former PlayStation boss says dropping discs is ‘a significant brand hit’",
-      "url": "https://www.videogameschronicle.com/news/if-you-dont-own-it-what-are-you-buying-former-playstation-boss-says-dropping-discs-is-a-significant-brand-hit/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 23.3,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/if-you-dont-own-it-what-are-you-buying-former-playstation-boss-says-dropping-discs-is-a-significant-brand-hit/",
-          "titre": "‘If you don’t own it, what are you buying?’ Former PlayStation boss says dropping discs is ‘a significant brand hit’"
         }
       ]
     },
@@ -677,7 +785,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.5,
+      "heures": 31.5,
       "chaleur": 5,
       "liens": [
         {
@@ -695,13 +803,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 32.5,
+      "heures": 34.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/rpg/steam-sale-deep-cut-alert-this-arpg-originally-developed-for-nokia-n-gage-is-brilliant-on-deck/",
           "titre": "Steam sale deep cut alert: this ARPG originally developed for Nokia N-Gage is brilliant on Deck"
+        }
+      ]
+    },
+    {
+      "id": "pok-mon-home-firered-leafgreen-compatibility-update-now-live",
+      "titre": "Pokémon HOME FireRed & LeafGreen Compatibility Update Now Live (Version 4.1.0)",
+      "url": "https://www.nintendolife.com/news/2026/10/pokemon-home-firered-and-leafgreen-compatibility-update-now-live-version-4-1-0",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/pokemon-home-firered-and-leafgreen-compatibility-update-now-live-version-4-1-0",
+          "titre": "Pokémon HOME FireRed & LeafGreen Compatibility Update Now Live (Version 4.1.0)"
         }
       ]
     },
@@ -713,7 +839,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -731,7 +857,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -749,31 +875,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/free-ps4-games-seemingly-pulled-in-europe-after-being-available-with-no-ps-plus-required",
           "titre": "Free PS4 Games Seemingly Pulled in Europe, After Being Available with No PS Plus Required"
-        }
-      ]
-    },
-    {
-      "id": "october-2026-ps-plus-essential-games-available-to-download-n",
-      "titre": "October 2026 PS Plus Essential Games Available to Download Now",
-      "url": "https://www.pushsquare.com/news/2026/10/october-2026-ps-plus-essential-games-available-to-download-now",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/october-2026-ps-plus-essential-games-available-to-download-now",
-          "titre": "October 2026 PS Plus Essential Games Available to Download Now"
         }
       ]
     },
@@ -785,8 +893,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -803,8 +911,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -821,8 +929,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -839,8 +947,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -857,7 +965,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.6,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +983,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +1001,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -911,7 +1019,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +1037,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 3,
       "liens": [
         {
@@ -947,7 +1055,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 3,
       "liens": [
         {
@@ -965,7 +1073,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 17.0,
       "chaleur": 3,
       "liens": [
         {
@@ -983,7 +1091,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 17.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +1109,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,7 +1127,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1037,121 +1145,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/software/ai/warhorse-co-founder-believes-ai-is-not-a-get-out-of-jail-free-card-and-that-execs-have-a-simplified-mental-model-of-what-it-means-for-games/",
           "titre": "Warhorse co-founder believes 'AI is not a get out of jail free card' and that execs have a 'simplified mental model' of what it means for games"
-        }
-      ]
-    },
-    {
-      "id": "someone-s-modded-diablo-2-for-vr-and-seeing-the-world-throug",
-      "titre": "Someone's modded Diablo 2 for VR, and seeing the world through your character's eyes brings a whole new dimension to the series",
-      "url": "https://www.eurogamer.net/diablo-2-vr-mod",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 16.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/diablo-2-vr-mod",
-          "titre": "Someone's modded Diablo 2 for VR, and seeing the world through your character's eyes brings a whole new dimension to the series"
-        }
-      ]
-    },
-    {
-      "id": "bullet-heaven-battler-warhammer-survivors-arrives-in-novembe",
-      "titre": "Bullet heaven battler Warhammer Survivors arrives in November, with a new demo out now to whet your appetite for destruction",
-      "url": "https://www.rockpapershotgun.com/bullet-heaven-battler-warhammer-survivors-arrives-in-november-with-a-new-demo-out-now-to-whet-your-appetite-for-destruction",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 16.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/bullet-heaven-battler-warhammer-survivors-arrives-in-november-with-a-new-demo-out-now-to-whet-your-appetite-for-destruction",
-          "titre": "Bullet heaven battler Warhammer Survivors arrives in November, with a new demo out now to whet your appetite for destruction"
-        }
-      ]
-    },
-    {
-      "id": "horrible-day-to-be-a-shion-main-overwatch-fans-aren-t-happy",
-      "titre": "\"Horrible day to be a Shion main\" - Overwatch fans aren't happy about five new China-exclusive skins not coming to the rest of the world",
-      "url": "https://www.eurogamer.net/overwatch-defiled-anthem-china-skins",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 17.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/overwatch-defiled-anthem-china-skins",
-          "titre": "\"Horrible day to be a Shion main\" - Overwatch fans aren't happy about five new China-exclusive skins not coming to the rest of the world"
-        }
-      ]
-    },
-    {
-      "id": "sonic-team-s-takashi-iizuka-dismisses-the-apparent-inevitabi",
-      "titre": "Sonic Team's Takashi Iizuka dismisses the apparent inevitability of remakes, saying \"you’re essentially providing the same experience again\"",
-      "url": "https://www.rockpapershotgun.com/sonic-teams-takashi-iizuka-dismisses-the-apparent-inevitability-of-remakes-saying-youre-essentially-providing-the-same-experience-again",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 17.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/sonic-teams-takashi-iizuka-dismisses-the-apparent-inevitability-of-remakes-saying-youre-essentially-providing-the-same-experience-again",
-          "titre": "Sonic Team's Takashi Iizuka dismisses the apparent inevitability of remakes, saying \"you’re essentially providing the same experience again\""
-        }
-      ]
-    },
-    {
-      "id": "co-dev-case-study-how-blackbird-interactive-and-secret-mode",
-      "titre": "Co-dev case study: How Blackbird Interactive and Secret Mode helped Escape the Backrooms ride the Backrooms hype wave",
-      "url": "https://www.gamedeveloper.com/production/co-dev-case-study-how-blackbird-interactive-and-secret-mode-helped-escape-the-backrooms-ride-the-backrooms-hype-wave",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 17.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production/co-dev-case-study-how-blackbird-interactive-and-secret-mode-helped-escape-the-backrooms-ride-the-backrooms-hype-wave",
-          "titre": "Co-dev case study: How Blackbird Interactive and Secret Mode helped Escape the Backrooms ride the Backrooms hype wave"
-        }
-      ]
-    },
-    {
-      "id": "sega-s-newly-launched-sonic-discord-server-is-off-to-a-rough",
-      "titre": "Sega’s newly launched Sonic Discord server is off to a rough start with questionable content, bans and a lockdown",
-      "url": "https://www.videogameschronicle.com/news/segas-newly-launched-sonic-discord-server-is-off-to-a-rough-start-with-questionable-content-bans-and-a-lockdown/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 17.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/segas-newly-launched-sonic-discord-server-is-off-to-a-rough-start-with-questionable-content-bans-and-a-lockdown/",
-          "titre": "Sega’s newly launched Sonic Discord server is off to a rough start with questionable content, bans and a lockdown"
         }
       ]
     }
