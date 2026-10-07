@@ -1,38 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "07/10/2026 à 16h25",
+  "collecte": "07/10/2026 à 18h27",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "forza-horizon-6-has-been-delayed-on-ps5-a-new-report-suggest",
-      "titre": "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't",
-      "url": "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027",
-      "sources": [
-        "Eurogamer",
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 3.0,
-      "chaleur": 16,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027",
-          "titre": "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/forza-horizon-6-isnt-coming-to-ps5-this-year-its-claimed/",
-          "titre": "Forza Horizon 6 isn’t coming to PS5 this year, it’s claimed"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/forza-horizon-6-ps5-release-date-revealed-by-reliable-leaker",
-          "titre": "Forza Horizon 6 PS5 Release Date Revealed by Reliable Leaker"
-        }
-      ]
-    },
     {
       "id": "confusion-as-erroneous-reports-claim-xbox-has-exclusive-gta",
       "titre": "Confusion as Erroneous Reports Claim Xbox Has Exclusive GTA 6 Cloud Streaming Rights",
@@ -43,7 +13,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 4.4,
+      "heures": 6.5,
       "chaleur": 15,
       "liens": [
         {
@@ -64,6 +34,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "forza-horizon-6-has-been-delayed-on-ps5-a-new-report-suggest",
+      "titre": "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't",
+      "url": "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 5.1,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027",
+          "titre": "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/forza-horizon-6-isnt-coming-to-ps5-this-year-its-claimed/",
+          "titre": "Forza Horizon 6 isn’t coming to PS5 this year, it’s claimed"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/forza-horizon-6-ps5-release-date-revealed-by-reliable-leaker",
+          "titre": "Forza Horizon 6 PS5 Release Date Revealed by Reliable Leaker"
+        }
+      ]
+    },
+    {
       "id": "asha-sharma-reportedly-informs-staff-that-xbox-has-started-t",
       "titre": "Asha Sharma reportedly informs staff that Xbox has \"started to return to growth\" during internal town hall",
       "url": "https://www.gamesindustry.biz/asha-sharma-reportedly-informs-staff-that-xbox-has-started-to-return-to-growth-during-internal-town-hall",
@@ -72,7 +72,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 5.4,
+      "heures": 7.5,
       "chaleur": 14,
       "liens": [
         {
@@ -88,26 +88,50 @@ const VEILLE = {
       ]
     },
     {
-      "id": "alleged-footage-of-xbox-s-cancelled-perfect-dark-reboot-show",
-      "titre": "Alleged footage of Xbox's cancelled Perfect Dark reboot shows a parkour-heavy chase scene and the summary execution of fruit",
-      "url": "https://www.rockpapershotgun.com/alleged-footage-of-xboxs-cancelled-perfect-dark-reboot-shows-a-parkour-heavy-chase-scene-and-the-summary-execution-of-fruit",
+      "id": "here-are-our-xbox-game-pass-games-for-october-2026",
+      "titre": "Here are our Xbox Game Pass games for October 2026",
+      "url": "https://www.eurogamer.net/xbox-game-pass-lineup-october-2026",
       "sources": [
-        "Rock Paper Shotgun",
+        "Eurogamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 1.5,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-game-pass-lineup-october-2026",
+          "titre": "Here are our Xbox Game Pass games for October 2026"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/october-2026-ps-plus-essential-games-available-to-download-now",
+          "titre": "October 2026 PS Plus Essential Games Available to Download Now"
+        }
+      ]
+    },
+    {
+      "id": "google-officially-reveals-ai-game-creation-platform-playgrou",
+      "titre": "Google officially reveals AI game-creation platform, Playground",
+      "url": "https://www.videogameschronicle.com/news/google-officially-reveals-ai-game-creation-platform-playground/",
+      "sources": [
+        "Game Developer",
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.0,
-      "chaleur": 12,
+      "heures": 1.9,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/alleged-footage-of-xboxs-cancelled-perfect-dark-reboot-shows-a-parkour-heavy-chase-scene-and-the-summary-execution-of-fruit",
-          "titre": "Alleged footage of Xbox's cancelled Perfect Dark reboot shows a parkour-heavy chase scene and the summary execution of fruit"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/google-officially-reveals-ai-game-creation-platform-playground/",
+          "titre": "Google officially reveals AI game-creation platform, Playground"
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/footage-of-microsofts-now-dead-perfect-dark-revival-appears-online/",
-          "titre": "Footage of Microsoft’s now-dead Perfect Dark revival appears online"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
+          "titre": "Google debuts new 'experimental' AI game platform named Google Playground"
         }
       ]
     },
@@ -119,8 +143,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 11,
+      "heures": 4.5,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
@@ -138,8 +162,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 3.4,
-      "chaleur": 11,
+      "heures": 5.5,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -154,20 +178,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "paramount-games-studio-and-wb-games-merge-under-skydance-fol",
-      "titre": "Paramount Games Studio and WB Games merge under Skydance following completion of $111bn acquisition",
-      "url": "https://www.gamesindustry.biz/paramount-games-studio-and-wb-games-merge-under-skydance-following-completion-of-111bn-acquisition",
+      "id": "alleged-footage-of-xbox-s-cancelled-perfect-dark-reboot-show",
+      "titre": "Alleged footage of Xbox's cancelled Perfect Dark reboot shows a parkour-heavy chase scene and the summary execution of fruit",
+      "url": "https://www.rockpapershotgun.com/alleged-footage-of-xboxs-cancelled-perfect-dark-reboot-shows-a-parkour-heavy-chase-scene-and-the-summary-execution-of-fruit",
       "sources": [
-        "GamesIndustry.biz"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 6.1,
       "chaleur": 9,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/paramount-games-studio-and-wb-games-merge-under-skydance-following-completion-of-111bn-acquisition",
-          "titre": "Paramount Games Studio and WB Games merge under Skydance following completion of $111bn acquisition"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/alleged-footage-of-xboxs-cancelled-perfect-dark-reboot-shows-a-parkour-heavy-chase-scene-and-the-summary-execution-of-fruit",
+          "titre": "Alleged footage of Xbox's cancelled Perfect Dark reboot shows a parkour-heavy chase scene and the summary execution of fruit"
         }
       ]
     },
@@ -180,7 +204,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 25.4,
+      "heures": 27.5,
       "chaleur": 9,
       "liens": [
         {
@@ -196,6 +220,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "cities-skylines-is-building-an-expanded-edition-on-switch-2",
+      "titre": "Cities: Skylines Is Building An 'Expanded Edition' On Switch 2 This Month",
+      "url": "https://www.nintendolife.com/news/2026/10/cities-skylines-is-building-an-expanded-edition-on-switch-2-this-month",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/cities-skylines-is-building-an-expanded-edition-on-switch-2-this-month",
+          "titre": "Cities: Skylines Is Building An 'Expanded Edition' On Switch 2 This Month"
+        }
+      ]
+    },
+    {
       "id": "for-a-moment-it-looked-like-grand-theft-auto-6-might-be-play",
       "titre": "For a moment it looked like Grand Theft Auto 6 might be playable on PC on launch day—then Xbox's chief strategy officer crashed the party",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/for-a-moment-it-looked-like-grand-theft-auto-6-might-be-playable-on-pc-on-launch-day-then-xboxs-chief-strategy-officer-crashed-the-party/",
@@ -203,7 +245,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.4,
       "chaleur": 8,
       "liens": [
         {
@@ -214,26 +256,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "warhammer-s-take-on-vampire-survivors-will-eat-our-free-time",
-      "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month",
-      "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
+      "id": "paramount-games-studio-and-wb-games-merge-under-skydance-fol",
+      "titre": "Paramount Games Studio and WB Games merge under Skydance following completion of $111bn acquisition",
+      "url": "https://www.gamesindustry.biz/paramount-games-studio-and-wb-games-merge-under-skydance-following-completion-of-111bn-acquisition",
       "sources": [
-        "Nintendo Life",
-        "PC Gamer"
+        "GamesIndustry.biz"
       ],
-      "reprises": 2,
-      "heures": 24.7,
-      "chaleur": 8,
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
-          "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/roguelike/warhammer-survivors-is-more-than-just-a-vampire-survivors-spin-off/",
-          "titre": "Warhammer Survivors is more than just a Vampire Survivors spin-off"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/paramount-games-studio-and-wb-games-merge-under-skydance-following-completion-of-111bn-acquisition",
+          "titre": "Paramount Games Studio and WB Games merge under Skydance following completion of $111bn acquisition"
         }
       ]
     },
@@ -246,7 +282,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 4.3,
+      "heures": 6.4,
       "chaleur": 7,
       "liens": [
         {
@@ -270,7 +306,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.2,
+      "heures": 7.2,
       "chaleur": 7,
       "liens": [
         {
@@ -286,30 +322,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gamesindustry-biz-to-host-panel-at-game-republic-s-investmen",
-      "titre": "GamesIndustry.biz to host panel at Game Republic's Investment Summit at MCM Comic Con October 2026",
-      "url": "https://www.gamesindustry.biz/gamesindustrybiz-to-host-panel-at-game-republics-investment-summit-at-mcm-comic-con-october-2026",
-      "sources": [
-        "GamesIndustry.biz",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 6.7,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/gamesindustrybiz-to-host-panel-at-game-republics-investment-summit-at-mcm-comic-con-october-2026",
-          "titre": "GamesIndustry.biz to host panel at Game Republic's Investment Summit at MCM Comic Con October 2026"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/october-2026-ps-plus-essential-games-available-to-download-now",
-          "titre": "October 2026 PS Plus Essential Games Available to Download Now"
-        }
-      ]
-    },
-    {
       "id": "gamestop-hikes-used-ps5-pro-price-to-1400-as-gta-6-demand-lo",
       "titre": "GameStop hikes used PS5 Pro price to $1400 as GTA 6 demand looms",
       "url": "https://www.videogameschronicle.com/news/gamestop-hikes-used-ps5-pro-price-to-1400-as-gta-6-demand-looms/",
@@ -317,7 +329,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.8,
       "chaleur": 7,
       "liens": [
         {
@@ -400,6 +412,132 @@ const VEILLE = {
       ]
     },
     {
+      "id": "star-wars-zero-company-developer-bit-reactor-brings-back-ove",
+      "titre": "Star Wars Zero Company developer Bit Reactor brings back 'over half' of furloughed staff",
+      "url": "https://www.gamedeveloper.com/business/star-wars-zero-company-developer-bit-reactor-brings-back-over-half-of-furloughed-staff",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/star-wars-zero-company-developer-bit-reactor-brings-back-over-half-of-furloughed-staff",
+          "titre": "Star Wars Zero Company developer Bit Reactor brings back 'over half' of furloughed staff"
+        }
+      ]
+    },
+    {
+      "id": "phoenix-cyclops-fires-up-marvel-tokon-on-2nd-november-ps-plu",
+      "titre": "Phoenix Cyclops Fires Up Marvel Tokon on 2nd November, PS Plus Trial Out Now",
+      "url": "https://www.pushsquare.com/news/2026/10/phoenix-cyclops-fires-up-marvel-tokon-on-2nd-november-ps-plus-trial-out-now",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/phoenix-cyclops-fires-up-marvel-tokon-on-2nd-november-ps-plus-trial-out-now",
+          "titre": "Phoenix Cyclops Fires Up Marvel Tokon on 2nd November, PS Plus Trial Out Now"
+        }
+      ]
+    },
+    {
+      "id": "sony-seemingly-ends-vr-ambitions-by-selling-patents-to-meta",
+      "titre": "Sony Seemingly Ends VR Ambitions by Selling Patents to Meta",
+      "url": "https://www.pushsquare.com/news/2026/10/sony-seemingly-ends-vr-ambitions-by-selling-patents-to-meta",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sony-seemingly-ends-vr-ambitions-by-selling-patents-to-meta",
+          "titre": "Sony Seemingly Ends VR Ambitions by Selling Patents to Meta"
+        }
+      ]
+    },
+    {
+      "id": "former-activision-blizzard-ceo-bobby-kotick-named-to-the-boa",
+      "titre": "Former Activision Blizzard CEO Bobby Kotick named to the board of post-merger Skydance",
+      "url": "https://www.gamedeveloper.com/business/former-activision-ceo-bobby-kotick-named-to-the-board-of-post-merger-skydance",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/former-activision-ceo-bobby-kotick-named-to-the-board-of-post-merger-skydance",
+          "titre": "Former Activision Blizzard CEO Bobby Kotick named to the board of post-merger Skydance"
+        }
+      ]
+    },
+    {
+      "id": "airborne-open-world-atmosfar-gets-an-early-access-release-da",
+      "titre": "Airborne open world Atmosfar gets an early access release date and a trailer full of flying islands, cloud cruisers and sky taxis",
+      "url": "https://www.rockpapershotgun.com/airborne-open-world-atmosfar-gets-an-early-access-release-date-and-a-trailer-full-of-flying-islands-cloud-cruisers-and-sky-taxis",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/airborne-open-world-atmosfar-gets-an-early-access-release-date-and-a-trailer-full-of-flying-islands-cloud-cruisers-and-sky-taxis",
+          "titre": "Airborne open world Atmosfar gets an early access release date and a trailer full of flying islands, cloud cruisers and sky taxis"
+        }
+      ]
+    },
+    {
+      "id": "help-i-have-been-abducted-by-a-tiny-car-and-cannot-escape",
+      "titre": "Help, I have been abducted by a tiny car and cannot escape",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/help-i-have-been-abducted-by-a-tiny-car-and-cannot-escape/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/help-i-have-been-abducted-by-a-tiny-car-and-cannot-escape/",
+          "titre": "Help, I have been abducted by a tiny car and cannot escape"
+        }
+      ]
+    },
+    {
+      "id": "the-crew-motorfest-gets-a-whole-new-island-for-free-as-its-u",
+      "titre": "The Crew Motorfest Gets a Whole New Island for Free as Its Unrivalled Post-Launch Support Continues",
+      "url": "https://www.pushsquare.com/news/2026/10/the-crew-motorfest-gets-a-whole-new-island-for-free-as-its-unrivalled-post-launch-support-continues",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/the-crew-motorfest-gets-a-whole-new-island-for-free-as-its-unrivalled-post-launch-support-continues",
+          "titre": "The Crew Motorfest Gets a Whole New Island for Free as Its Unrivalled Post-Launch Support Continues"
+        }
+      ]
+    },
+    {
       "id": "anime-racer-screamer-no-longer-demands-you-retrain-your-fing",
       "titre": "Anime racer Screamer no longer demands you retrain your fingers, with a fresh patch adding single stick drift controls",
       "url": "https://www.rockpapershotgun.com/anime-racer-screamer-no-longer-demands-you-retrain-your-fingers-with-a-fresh-patch-adding-single-stick-drift-controls",
@@ -407,7 +545,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -425,7 +563,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -443,7 +581,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -461,7 +599,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -479,7 +617,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -497,7 +635,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -515,7 +653,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -533,7 +671,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -551,7 +689,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +707,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -587,7 +725,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -605,247 +743,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/ps5-fans-think-they-may-have-found-evidence-of-an-enhanced-ps-portal",
           "titre": "PS5 Fans Think They May Have Found Evidence of an Enhanced PS Portal"
-        }
-      ]
-    },
-    {
-      "id": "how-to-run-an-indie-game-studio-part-2-defining-your-future",
-      "titre": "How to run an indie game studio: Part 2, Defining your future",
-      "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-2-defining-your-future",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-2-defining-your-future",
-          "titre": "How to run an indie game studio: Part 2, Defining your future"
-        }
-      ]
-    },
-    {
-      "id": "call-of-duty-modern-warfare-4-s-latest-dmz-trailers-have-lef",
-      "titre": "Call of Duty: Modern Warfare 4's latest DMZ trailers have left players confused about the existence of a PvE-only mode",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-pve-trailers-discussion",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-pve-trailers-discussion",
-          "titre": "Call of Duty: Modern Warfare 4's latest DMZ trailers have left players confused about the existence of a PvE-only mode"
-        }
-      ]
-    },
-    {
-      "id": "quarterfinals-vote-for-the-best-rts-unit-of-all-time",
-      "titre": "Quarterfinals: Vote for the best RTS unit of all time",
-      "url": "https://www.pcgamer.com/games/rts/quarterfinals-vote-for-the-best-rts-unit-of-all-time/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rts/quarterfinals-vote-for-the-best-rts-unit-of-all-time/",
-          "titre": "Quarterfinals: Vote for the best RTS unit of all time"
-        }
-      ]
-    },
-    {
-      "id": "random-uk-retailer-lists-theatrhythm-sticker-set-for-a-whopp",
-      "titre": "Random: UK Retailer Lists Theatrhythm Sticker Set For A Whopping £499",
-      "url": "https://www.nintendolife.com/news/2026/10/random-uk-retailer-lists-theatrhythm-sticker-set-for-a-whopping-p499",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/random-uk-retailer-lists-theatrhythm-sticker-set-for-a-whopping-p499",
-          "titre": "Random: UK Retailer Lists Theatrhythm Sticker Set For A Whopping £499"
-        }
-      ]
-    },
-    {
-      "id": "the-biggest-discounts-on-pc-hardware-we-ve-spotted-this-prim",
-      "titre": "The biggest discounts on PC hardware we've spotted this Prime Day",
-      "url": "https://www.pcgamer.com/hardware/the-biggest-discounts-on-pc-hardware-that-weve-spotted-this-prime-day/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/the-biggest-discounts-on-pc-hardware-that-weve-spotted-this-prime-day/",
-          "titre": "The biggest discounts on PC hardware we've spotted this Prime Day"
-        }
-      ]
-    },
-    {
-      "id": "my-horror-that-32gb-ram-has-become-the-norm-is-exceeded-only",
-      "titre": "My horror that 32GB RAM has become the norm is exceeded only by my contempt that 7.28% of you have over 4TB free hard drive space",
-      "url": "https://www.rockpapershotgun.com/my-horror-that-32gb-ram-has-become-the-norm-is-exceeded-only-by-my-contempt-that-728-of-you-have-over-4tb-free-hard-drive-space",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/my-horror-that-32gb-ram-has-become-the-norm-is-exceeded-only-by-my-contempt-that-728-of-you-have-over-4tb-free-hard-drive-space",
-          "titre": "My horror that 32GB RAM has become the norm is exceeded only by my contempt that 7.28% of you have over 4TB free hard drive space"
-        }
-      ]
-    },
-    {
-      "id": "more-mafia-games-appear-to-be-getting-native-ps5-ports-likel",
-      "titre": "More Mafia Games Appear to Be Getting Native PS5 Ports, Likely 60fps",
-      "url": "https://www.pushsquare.com/news/2026/10/more-mafia-games-appear-to-be-getting-native-ps5-ports-likely-60fps",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/more-mafia-games-appear-to-be-getting-native-ps5-ports-likely-60fps",
-          "titre": "More Mafia Games Appear to Be Getting Native PS5 Ports, Likely 60fps"
-        }
-      ]
-    },
-    {
-      "id": "20-million-sales-later-capcom-is-bringing-monster-hunter-ris",
-      "titre": "20 million sales later, Capcom is bringing Monster Hunter Rise to iOS and Android, but for now it's locked behind a Netflix subscription",
-      "url": "https://www.eurogamer.net/monster-hunter-rise-ios-android-netflix",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/monster-hunter-rise-ios-android-netflix",
-          "titre": "20 million sales later, Capcom is bringing Monster Hunter Rise to iOS and Android, but for now it's locked behind a Netflix subscription"
-        }
-      ]
-    },
-    {
-      "id": "it-changes-the-notion-of-safety-for-the-enemies-but-also-fo",
-      "titre": "\"It changes the notion of safety for the enemies, but also for you\": Rainbow Six Tactics' destruction undoes the classic dynamics of flanking",
-      "url": "https://www.rockpapershotgun.com/it-changes-the-notion-of-safety-for-the-enemies-but-also-for-you-rainbow-six-tactics-destruction-undoes-the-classic-dynamics-of-flanking",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/it-changes-the-notion-of-safety-for-the-enemies-but-also-for-you-rainbow-six-tactics-destruction-undoes-the-classic-dynamics-of-flanking",
-          "titre": "\"It changes the notion of safety for the enemies, but also for you\": Rainbow Six Tactics' destruction undoes the classic dynamics of flanking"
-        }
-      ]
-    },
-    {
-      "id": "free-mafia-3-ps4-game-seemingly-revoked-prices-restored-to-n",
-      "titre": "Free Mafia 3 PS4 Game Seemingly Revoked, Prices Restored to Normal",
-      "url": "https://www.pushsquare.com/news/2026/10/free-mafia-3-ps4-game-seemingly-revoked-prices-restored-to-normal",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/free-mafia-3-ps4-game-seemingly-revoked-prices-restored-to-normal",
-          "titre": "Free Mafia 3 PS4 Game Seemingly Revoked, Prices Restored to Normal"
-        }
-      ]
-    },
-    {
-      "id": "rumour-more-sources-mount-for-ape-escape-revival-from-ex-son",
-      "titre": "Rumour: More Sources Mount for Ape Escape Revival from Ex-Sonic Mania Devs",
-      "url": "https://www.pushsquare.com/news/2026/10/rumour-more-sources-mount-for-ape-escape-revival-from-ex-sonic-mania-devs",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/rumour-more-sources-mount-for-ape-escape-revival-from-ex-sonic-mania-devs",
-          "titre": "Rumour: More Sources Mount for Ape Escape Revival from Ex-Sonic Mania Devs"
-        }
-      ]
-    },
-    {
-      "id": "runescape-studio-pulls-trailer-says-a-partner-broke-its-anti",
-      "titre": "RuneScape studio pulls trailer, says a partner broke its anti-AI rule without its knowledge, and it’s happened before",
-      "url": "https://www.videogameschronicle.com/news/runescape-studio-pulls-trailer-says-a-partner-broke-its-anti-ai-rule-without-its-knowledge-and-its-happened-before/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/runescape-studio-pulls-trailer-says-a-partner-broke-its-anti-ai-rule-without-its-knowledge-and-its-happened-before/",
-          "titre": "RuneScape studio pulls trailer, says a partner broke its anti-AI rule without its knowledge, and it’s happened before"
-        }
-      ]
-    },
-    {
-      "id": "mounting-evidence-says-sony-really-is-accepting-game-pitches",
-      "titre": "Mounting Evidence Says Sony Really Is 'Accepting Game Pitches' on Fan Fave Franchises",
-      "url": "https://www.pushsquare.com/news/2026/10/mounting-evidence-says-sony-really-is-accepting-game-pitches-on-fan-fave-franchises",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/mounting-evidence-says-sony-really-is-accepting-game-pitches-on-fan-fave-franchises",
-          "titre": "Mounting Evidence Says Sony Really Is 'Accepting Game Pitches' on Fan Fave Franchises"
         }
       ]
     },
@@ -857,7 +761,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.6,
       "chaleur": 6,
       "liens": [
         {
@@ -876,7 +780,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 13.0,
+      "heures": 15.1,
       "chaleur": 6,
       "liens": [
         {
@@ -900,7 +804,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 13.2,
+      "heures": 15.2,
       "chaleur": 6,
       "liens": [
         {
@@ -923,7 +827,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.1,
+      "heures": 23.1,
       "chaleur": 6,
       "liens": [
         {
@@ -941,7 +845,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 23.2,
+      "heures": 25.2,
       "chaleur": 6,
       "liens": [
         {
@@ -959,7 +863,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.5,
       "chaleur": 6,
       "liens": [
         {
@@ -977,7 +881,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.7,
+      "heures": 28.7,
       "chaleur": 6,
       "liens": [
         {
@@ -995,7 +899,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 17.2,
       "chaleur": 5,
       "liens": [
         {
@@ -1013,7 +917,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.2,
       "chaleur": 5,
       "liens": [
         {
@@ -1031,7 +935,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.5,
       "chaleur": 5,
       "liens": [
         {
@@ -1049,13 +953,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/nintendo-life-eshop-selects-september-2026",
           "titre": "Feature: Nintendo Life eShop Selects (September 2026)"
+        }
+      ]
+    },
+    {
+      "id": "warhammer-s-take-on-vampire-survivors-will-eat-our-free-time",
+      "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month",
+      "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 26.7,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
+          "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month"
         }
       ]
     },
@@ -1067,7 +989,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.1,
+      "heures": 29.1,
       "chaleur": 5,
       "liens": [
         {
@@ -1085,7 +1007,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.8,
+      "heures": 30.8,
       "chaleur": 5,
       "liens": [
         {
@@ -1096,45 +1018,99 @@ const VEILLE = {
       ]
     },
     {
-      "id": "a-new-way-for-businesses-to-support-and-promote-on-vgc-the-v",
-      "titre": "A new way for businesses to support and promote on VGC: The Video Games Podcast",
-      "url": "https://www.videogameschronicle.com/news/a-new-way-for-businesses-to-support-and-promote-on-vgc-the-video-games-podcast/",
+      "id": "how-to-run-an-indie-game-studio-part-2-defining-your-future",
+      "titre": "How to run an indie game studio: Part 2, Defining your future",
+      "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-2-defining-your-future",
       "sources": [
-        "VGC"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 4.5,
       "chaleur": 4,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/a-new-way-for-businesses-to-support-and-promote-on-vgc-the-video-games-podcast/",
-          "titre": "A new way for businesses to support and promote on VGC: The Video Games Podcast"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-2-defining-your-future",
+          "titre": "How to run an indie game studio: Part 2, Defining your future"
         }
       ]
     },
     {
-      "id": "my-favourite-thing-about-aion-2-the-freedom-to-make-a-freaky",
-      "titre": "My favourite thing about Aion 2? The freedom to make a freaky lil' guy in a world of beautiful people",
-      "url": "https://www.eurogamer.net/aion-2-character-creator-freaky-guy-beautiful-people",
+      "id": "call-of-duty-modern-warfare-4-s-latest-dmz-trailers-have-lef",
+      "titre": "Call of Duty: Modern Warfare 4's latest DMZ trailers have left players confused about the existence of a PvE-only mode",
+      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-pve-trailers-discussion",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 4.7,
       "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/aion-2-character-creator-freaky-guy-beautiful-people",
-          "titre": "My favourite thing about Aion 2? The freedom to make a freaky lil' guy in a world of beautiful people"
+          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-pve-trailers-discussion",
+          "titre": "Call of Duty: Modern Warfare 4's latest DMZ trailers have left players confused about the existence of a PvE-only mode"
         }
       ]
     },
     {
-      "id": "your-body-is-foreign-territory-small-town-mystery-puzzler-p",
-      "titre": "\"Your body is foreign territory\": Small-town mystery puzzler Patience is a Virtue explores power and vulnerability by way of a unique conversation system",
-      "url": "https://www.rockpapershotgun.com/your-body-is-foreign-territory-small-town-mystery-puzzler-patience-is-a-virtue-explores-power-and-vulnerability-by-way-of-a-unique-conversation-system",
+      "id": "quarterfinals-vote-for-the-best-rts-unit-of-all-time",
+      "titre": "Quarterfinals: Vote for the best RTS unit of all time",
+      "url": "https://www.pcgamer.com/games/rts/quarterfinals-vote-for-the-best-rts-unit-of-all-time/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rts/quarterfinals-vote-for-the-best-rts-unit-of-all-time/",
+          "titre": "Quarterfinals: Vote for the best RTS unit of all time"
+        }
+      ]
+    },
+    {
+      "id": "random-uk-retailer-lists-theatrhythm-sticker-set-for-a-whopp",
+      "titre": "Random: UK Retailer Lists Theatrhythm Sticker Set For A Whopping £499",
+      "url": "https://www.nintendolife.com/news/2026/10/random-uk-retailer-lists-theatrhythm-sticker-set-for-a-whopping-p499",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/random-uk-retailer-lists-theatrhythm-sticker-set-for-a-whopping-p499",
+          "titre": "Random: UK Retailer Lists Theatrhythm Sticker Set For A Whopping £499"
+        }
+      ]
+    },
+    {
+      "id": "the-biggest-discounts-on-pc-hardware-we-ve-spotted-this-prim",
+      "titre": "The biggest discounts on PC hardware we've spotted this Prime Day",
+      "url": "https://www.pcgamer.com/hardware/the-biggest-discounts-on-pc-hardware-that-weve-spotted-this-prime-day/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/the-biggest-discounts-on-pc-hardware-that-weve-spotted-this-prime-day/",
+          "titre": "The biggest discounts on PC hardware we've spotted this Prime Day"
+        }
+      ]
+    },
+    {
+      "id": "my-horror-that-32gb-ram-has-become-the-norm-is-exceeded-only",
+      "titre": "My horror that 32GB RAM has become the norm is exceeded only by my contempt that 7.28% of you have over 4TB free hard drive space",
+      "url": "https://www.rockpapershotgun.com/my-horror-that-32gb-ram-has-become-the-norm-is-exceeded-only-by-my-contempt-that-728-of-you-have-over-4tb-free-hard-drive-space",
       "sources": [
         "Rock Paper Shotgun"
       ],
@@ -1144,26 +1120,44 @@ const VEILLE = {
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/your-body-is-foreign-territory-small-town-mystery-puzzler-patience-is-a-virtue-explores-power-and-vulnerability-by-way-of-a-unique-conversation-system",
-          "titre": "\"Your body is foreign territory\": Small-town mystery puzzler Patience is a Virtue explores power and vulnerability by way of a unique conversation system"
+          "url": "https://www.rockpapershotgun.com/my-horror-that-32gb-ram-has-become-the-norm-is-exceeded-only-by-my-contempt-that-728-of-you-have-over-4tb-free-hard-drive-space",
+          "titre": "My horror that 32GB RAM has become the norm is exceeded only by my contempt that 7.28% of you have over 4TB free hard drive space"
         }
       ]
     },
     {
-      "id": "denuvo-asks-to-subpoena-discord-valve-and-reddit-to-identify",
-      "titre": "Denuvo asks to subpoena Discord, Valve and Reddit to identify hacker it’s suing for cracking its DRM protection",
-      "url": "https://www.videogameschronicle.com/news/denuvo-asks-to-subpoena-discord-valve-and-reddit-to-identify-hacker-who-keeps-cracking-its-drm-protection/",
+      "id": "more-mafia-games-appear-to-be-getting-native-ps5-ports-likel",
+      "titre": "More Mafia Games Appear to Be Getting Native PS5 Ports, Likely 60fps",
+      "url": "https://www.pushsquare.com/news/2026/10/more-mafia-games-appear-to-be-getting-native-ps5-ports-likely-60fps",
       "sources": [
-        "VGC"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 5.0,
       "chaleur": 4,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/denuvo-asks-to-subpoena-discord-valve-and-reddit-to-identify-hacker-who-keeps-cracking-its-drm-protection/",
-          "titre": "Denuvo asks to subpoena Discord, Valve and Reddit to identify hacker it’s suing for cracking its DRM protection"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/more-mafia-games-appear-to-be-getting-native-ps5-ports-likely-60fps",
+          "titre": "More Mafia Games Appear to Be Getting Native PS5 Ports, Likely 60fps"
+        }
+      ]
+    },
+    {
+      "id": "20-million-sales-later-capcom-is-bringing-monster-hunter-ris",
+      "titre": "20 million sales later, Capcom is bringing Monster Hunter Rise to iOS and Android, but for now it's locked behind a Netflix subscription",
+      "url": "https://www.eurogamer.net/monster-hunter-rise-ios-android-netflix",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/monster-hunter-rise-ios-android-netflix",
+          "titre": "20 million sales later, Capcom is bringing Monster Hunter Rise to iOS and Android, but for now it's locked behind a Netflix subscription"
         }
       ]
     }
