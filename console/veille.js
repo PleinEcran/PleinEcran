@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "07/10/2026 à 06h27",
+  "collecte": "07/10/2026 à 08h25",
   "seuil": 14,
   "sujets": [
     {
@@ -14,8 +14,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 4,
-      "heures": 3.1,
-      "chaleur": 15,
+      "heures": 5.0,
+      "chaleur": 13,
       "liens": [
         {
           "source": "PC Gamer",
@@ -48,7 +48,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 17.1,
+      "heures": 19.1,
       "chaleur": 10,
       "liens": [
         {
@@ -64,30 +64,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sega-responds-to-sonic-s-wild-start-on-discord",
-      "titre": "Sega Responds To Sonic's Wild Start On Discord",
-      "url": "https://www.nintendolife.com/news/2026/10/sega-responds-to-sonics-wild-start-on-discord",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 3.2,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/sega-responds-to-sonics-wild-start-on-discord",
-          "titre": "Sega Responds To Sonic's Wild Start On Discord"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sonic-the-hedgehog-official-discord-oh-no",
-          "titre": "\"Keep it family friendly\" - Sega's official Sonic Discord swarmed by 50,000 people in six hours, as understandably strict moderation is put in place"
-        }
-      ]
-    },
-    {
       "id": "unlead-labs-studio-head-says-they-were-irresponsibly-transpa",
       "titre": "Unlead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs",
       "url": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
@@ -96,7 +72,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 13.2,
+      "heures": 15.2,
       "chaleur": 9,
       "liens": [
         {
@@ -120,7 +96,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 15.5,
+      "heures": 17.4,
       "chaleur": 9,
       "liens": [
         {
@@ -144,7 +120,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 16.7,
+      "heures": 18.7,
       "chaleur": 9,
       "liens": [
         {
@@ -160,36 +136,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "arc-raiders-the-finals-are-the-next-games-set-for-tv-and-mov",
-      "titre": "ARC Raiders, The Finals Are the Next Games Set for TV and Movie Adaptations",
-      "url": "https://www.pushsquare.com/news/2026/10/arc-raiders-the-finals-are-the-next-games-set-for-tv-and-movie-adaptations",
-      "sources": [
-        "Game Developer",
-        "GamesIndustry.biz",
-        "Push Square"
-      ],
-      "reprises": 3,
-      "heures": 19.2,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/arc-raiders-the-finals-are-the-next-games-set-for-tv-and-movie-adaptations",
-          "titre": "ARC Raiders, The Finals Are the Next Games Set for TV and Movie Adaptations"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/arc-raiders-and-the-finals-are-getting-tv-series-and-film-adaptations",
-          "titre": "Arc Raiders and The Finals are getting TV series and film adaptations"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/arc-raiders-and-the-finals-set-for-tv-and-film-adaptations-from-backrooms-co-producer",
-          "titre": "Arc Raiders and The Finals set for TV and film adaptations from Backrooms co-producer"
-        }
-      ]
-    },
-    {
       "id": "nintendo-releases-free-hello-peach-and-hello-luigi-apps-for",
       "titre": "Nintendo releases free Hello, Peach! and Hello, Luigi! apps for children, joining its Mario and Yoshi ones",
       "url": "https://www.videogameschronicle.com/news/nintendo-releases-free-hello-peach-and-hello-luigi-apps-for-children-joining-its-mario-and-yoshi-ones/",
@@ -198,7 +144,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 20.4,
+      "heures": 22.4,
       "chaleur": 9,
       "liens": [
         {
@@ -222,7 +168,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 14.7,
+      "heures": 16.7,
       "chaleur": 8,
       "liens": [
         {
@@ -238,20 +184,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "cancelled-mmo-spin-off-borderlands-online-is-playable-once-a",
-      "titre": "Cancelled MMO spin-off Borderlands Online is playable once again, and the team behind the unofficial project thankfully didn't use any genAI to get it running",
-      "url": "https://www.rockpapershotgun.com/cancelled-mmo-spin-off-borderlands-online-is-playable-once-again-and-the-team-behind-the-unofficial-project-thankfully-didnt-use-any-genai-to-get-it-running",
+      "id": "sega-responds-to-sonic-s-wild-start-on-discord",
+      "titre": "Sega Responds To Sonic's Wild Start On Discord",
+      "url": "https://www.nintendolife.com/news/2026/10/sega-responds-to-sonics-wild-start-on-discord",
       "sources": [
-        "Rock Paper Shotgun"
+        "Eurogamer",
+        "Nintendo Life"
       ],
-      "reprises": 1,
-      "heures": 11.1,
+      "reprises": 2,
+      "heures": 5.2,
       "chaleur": 7,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cancelled-mmo-spin-off-borderlands-online-is-playable-once-again-and-the-team-behind-the-unofficial-project-thankfully-didnt-use-any-genai-to-get-it-running",
-          "titre": "Cancelled MMO spin-off Borderlands Online is playable once again, and the team behind the unofficial project thankfully didn't use any genAI to get it running"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/sega-responds-to-sonics-wild-start-on-discord",
+          "titre": "Sega Responds To Sonic's Wild Start On Discord"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/sonic-the-hedgehog-official-discord-oh-no",
+          "titre": "\"Keep it family friendly\" - Sega's official Sonic Discord swarmed by 50,000 people in six hours, as understandably strict moderation is put in place"
         }
       ]
     },
@@ -382,6 +334,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "paramount-and-warner-bros-discovery-operating-under-skydance",
+      "titre": "Paramount and Warner Bros. Discovery operating under Skydance following completion of $111bn merger",
+      "url": "https://www.gamesindustry.biz/paramount-and-warner-bros-discovery-operating-under-skydance-following-completion-of-111bn-merger",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/paramount-and-warner-bros-discovery-operating-under-skydance-following-completion-of-111bn-merger",
+          "titre": "Paramount and Warner Bros. Discovery operating under Skydance following completion of $111bn merger"
+        }
+      ]
+    },
+    {
       "id": "pok-mon-home-firered-leafgreen-compatibility-update-now-live",
       "titre": "Pokémon HOME FireRed & LeafGreen Compatibility Update Now Live (Version 4.1.0)",
       "url": "https://www.nintendolife.com/news/2026/10/pokemon-home-firered-and-leafgreen-compatibility-update-now-live-version-4-1-0",
@@ -389,7 +359,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -407,7 +377,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.2,
       "chaleur": 6,
       "liens": [
         {
@@ -425,7 +395,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.2,
       "chaleur": 6,
       "liens": [
         {
@@ -436,20 +406,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gamestop-other-retailers-to-sell-used-playstation-5-pro-unit",
-      "titre": "GameStop, other retailers to sell used PlayStation 5 Pro units for 66 percent over MSRP",
-      "url": "https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp",
+      "id": "cancelled-mmo-spin-off-borderlands-online-is-playable-once-a",
+      "titre": "Cancelled MMO spin-off Borderlands Online is playable once again, and the team behind the unofficial project thankfully didn't use any genAI to get it running",
+      "url": "https://www.rockpapershotgun.com/cancelled-mmo-spin-off-borderlands-online-is-playable-once-again-and-the-team-behind-the-unofficial-project-thankfully-didnt-use-any-genai-to-get-it-running",
       "sources": [
-        "Game Developer"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.5,
+      "heures": 13.1,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp",
-          "titre": "GameStop, other retailers to sell used PlayStation 5 Pro units for 66 percent over MSRP"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/cancelled-mmo-spin-off-borderlands-online-is-playable-once-again-and-the-team-behind-the-unofficial-project-thankfully-didnt-use-any-genai-to-get-it-running",
+          "titre": "Cancelled MMO spin-off Borderlands Online is playable once again, and the team behind the unofficial project thankfully didn't use any genAI to get it running"
         }
       ]
     },
@@ -462,7 +432,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 6,
       "liens": [
         {
@@ -485,7 +455,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 6,
       "liens": [
         {
@@ -504,7 +474,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 14.5,
+      "heures": 16.4,
       "chaleur": 6,
       "liens": [
         {
@@ -527,7 +497,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.7,
+      "heures": 18.7,
       "chaleur": 6,
       "liens": [
         {
@@ -545,7 +515,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.3,
       "chaleur": 6,
       "liens": [
         {
@@ -563,7 +533,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 27.5,
       "chaleur": 6,
       "liens": [
         {
@@ -581,7 +551,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 31.8,
+      "heures": 33.8,
       "chaleur": 6,
       "liens": [
         {
@@ -592,38 +562,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-devs-tried-not-to-jump-on-the-bandwagon-of-passing-tre",
-      "titre": "GTA 6 devs tried \"not to jump on the bandwagon\" of passing trends and instead created their \"own slanted, overblown versions\"",
-      "url": "https://www.eurogamer.net/gta-6-devs-bandwagon-trends-created-slanted-versions",
+      "id": "gamestop-other-retailers-to-sell-used-playstation-5-pro-unit",
+      "titre": "GameStop, other retailers to sell used PlayStation 5 Pro units for 66 percent over MSRP",
+      "url": "https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp",
       "sources": [
-        "Eurogamer"
+        "Game Developer"
       ],
       "reprises": 1,
-      "heures": 34.2,
-      "chaleur": 6,
+      "heures": 13.5,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-devs-bandwagon-trends-created-slanted-versions",
-          "titre": "GTA 6 devs tried \"not to jump on the bandwagon\" of passing trends and instead created their \"own slanted, overblown versions\""
-        }
-      ]
-    },
-    {
-      "id": "halo-studios-says-it-is-absolutely-our-intent-to-release-new",
-      "titre": "Halo Studios says \"it is absolutely our intent\" to release new Halo book, despite layoffs and a rumored lore reboot from Activision",
-      "url": "https://www.eurogamer.net/halo-studios-absolutely-our-intent-new-book-activision-reboot",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/halo-studios-absolutely-our-intent-new-book-activision-reboot",
-          "titre": "Halo Studios says \"it is absolutely our intent\" to release new Halo book, despite layoffs and a rumored lore reboot from Activision"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp",
+          "titre": "GameStop, other retailers to sell used PlayStation 5 Pro units for 66 percent over MSRP"
         }
       ]
     },
@@ -635,7 +587,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -653,7 +605,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.4,
       "chaleur": 5,
       "liens": [
         {
@@ -671,7 +623,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.8,
+      "heures": 20.8,
       "chaleur": 5,
       "liens": [
         {
@@ -689,7 +641,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.4,
       "chaleur": 5,
       "liens": [
         {
@@ -707,7 +659,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.3,
       "chaleur": 5,
       "liens": [
         {
@@ -725,7 +677,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.5,
+      "heures": 29.5,
       "chaleur": 5,
       "liens": [
         {
@@ -743,7 +695,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 30.5,
+      "heures": 32.5,
       "chaleur": 5,
       "liens": [
         {
@@ -761,7 +713,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -779,7 +731,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -797,7 +749,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +767,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -833,7 +785,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -851,7 +803,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.7,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
@@ -869,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.7,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +839,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -905,8 +857,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -923,7 +875,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -941,7 +893,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -959,7 +911,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +929,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -995,7 +947,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1013,7 +965,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 15.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +983,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,7 +1001,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,7 +1019,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1085,7 +1037,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 16.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1103,7 +1055,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1121,7 +1073,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 16.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1139,7 +1091,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 17.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1157,13 +1109,49 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 17.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/sonic-teams-takashi-iizuka-dismisses-the-apparent-inevitability-of-remakes-saying-youre-essentially-providing-the-same-experience-again",
           "titre": "Sonic Team's Takashi Iizuka dismisses the apparent inevitability of remakes, saying \"you’re essentially providing the same experience again\""
+        }
+      ]
+    },
+    {
+      "id": "co-dev-case-study-how-blackbird-interactive-and-secret-mode",
+      "titre": "Co-dev case study: How Blackbird Interactive and Secret Mode helped Escape the Backrooms ride the Backrooms hype wave",
+      "url": "https://www.gamedeveloper.com/production/co-dev-case-study-how-blackbird-interactive-and-secret-mode-helped-escape-the-backrooms-ride-the-backrooms-hype-wave",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 17.3,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/production/co-dev-case-study-how-blackbird-interactive-and-secret-mode-helped-escape-the-backrooms-ride-the-backrooms-hype-wave",
+          "titre": "Co-dev case study: How Blackbird Interactive and Secret Mode helped Escape the Backrooms ride the Backrooms hype wave"
+        }
+      ]
+    },
+    {
+      "id": "sega-s-newly-launched-sonic-discord-server-is-off-to-a-rough",
+      "titre": "Sega’s newly launched Sonic Discord server is off to a rough start with questionable content, bans and a lockdown",
+      "url": "https://www.videogameschronicle.com/news/segas-newly-launched-sonic-discord-server-is-off-to-a-rough-start-with-questionable-content-bans-and-a-lockdown/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 17.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/segas-newly-launched-sonic-discord-server-is-off-to-a-rough-start-with-questionable-content-bans-and-a-lockdown/",
+          "titre": "Sega’s newly launched Sonic Discord server is off to a rough start with questionable content, bans and a lockdown"
         }
       ]
     }
