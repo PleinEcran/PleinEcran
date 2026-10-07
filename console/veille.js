@@ -1,8 +1,44 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "07/10/2026 à 02h22",
+  "collecte": "07/10/2026 à 04h23",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "psa-star-wars-galactic-racer-pilots-put-some-points-in-resil",
+      "titre": "PSA: Star Wars Galactic Racer pilots, put some points in resilience before you hit the acid planet",
+      "url": "https://www.pcgamer.com/games/racing/psa-star-wars-galactic-racer-pilots-put-some-points-in-resilience-before-you-hit-the-acid-planet/",
+      "sources": [
+        "GamesIndustry.biz",
+        "PC Gamer",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 4,
+      "heures": 1.0,
+      "chaleur": 15,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/racing/psa-star-wars-galactic-racer-pilots-put-some-points-in-resilience-before-you-hit-the-acid-planet/",
+          "titre": "PSA: Star Wars Galactic Racer pilots, put some points in resilience before you hit the acid planet"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/star-wars-galactic-racers-biggest-weakness-is-its-limited-multiplayer-and-its-already-getting-fixed",
+          "titre": "Star Wars: Galactic Racer's Biggest Weakness Is Its Limited Multiplayer, and It's Already Getting Fixed"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-review-now-this-is-frenetically-fun-podracing-with-a-totally-unforgiving-streak",
+          "titre": "Star Wars Galactic Racer review: now this is frenetically fun podracing with a totally unforgiving streak"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/star-wars-galactic-racer-launches-on-amazon-luna-as-part-of-prime-subscription",
+          "titre": "Star Wars: Galactic Racer launches on Amazon Luna as part of Prime subscription"
+        }
+      ]
+    },
     {
       "id": "arc-raiders-the-finals-are-the-next-games-set-for-tv-and-mov",
       "titre": "ARC Raiders, The Finals Are the Next Games Set for TV and Movie Adaptations",
@@ -14,7 +50,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 4,
-      "heures": 15.1,
+      "heures": 17.1,
       "chaleur": 12,
       "liens": [
         {
@@ -48,7 +84,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.2,
+      "heures": 11.2,
       "chaleur": 10,
       "liens": [
         {
@@ -64,60 +100,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "round-up-the-final-previews-for-nintendo-switch-sports-resor",
-      "titre": "Round Up: The Final Previews For Nintendo Switch Sports Resort Are In",
-      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-final-previews-for-nintendo-switch-sports-resort-are-in",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 11.4,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-final-previews-for-nintendo-switch-sports-resort-are-in",
-          "titre": "Round Up: The Final Previews For Nintendo Switch Sports Resort Are In"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nintendo-switch-sports-resort-gamescom-preview",
-          "titre": "I spent an hour playing Switch Sports Resort and my favourite mini-game involves the Switch 2's least-loved gimmick: mouse controls"
-        }
-      ]
-    },
-    {
-      "id": "star-wars-galactic-racer-s-biggest-weakness-is-its-limited-m",
-      "titre": "Star Wars: Galactic Racer's Biggest Weakness Is Its Limited Multiplayer, and It's Already Getting Fixed",
-      "url": "https://www.pushsquare.com/news/2026/10/star-wars-galactic-racers-biggest-weakness-is-its-limited-multiplayer-and-its-already-getting-fixed",
-      "sources": [
-        "GamesIndustry.biz",
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 11.4,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/star-wars-galactic-racers-biggest-weakness-is-its-limited-multiplayer-and-its-already-getting-fixed",
-          "titre": "Star Wars: Galactic Racer's Biggest Weakness Is Its Limited Multiplayer, and It's Already Getting Fixed"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-review-now-this-is-frenetically-fun-podracing-with-a-totally-unforgiving-streak",
-          "titre": "Star Wars Galactic Racer review: now this is frenetically fun podracing with a totally unforgiving streak"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/star-wars-galactic-racer-launches-on-amazon-luna-as-part-of-prime-subscription",
-          "titre": "Star Wars: Galactic Racer launches on Amazon Luna as part of Prime subscription"
-        }
-      ]
-    },
-    {
       "id": "xbox-elite-series-3-controller-leaks-and-appears-to-offer-be",
       "titre": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more",
       "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
@@ -126,7 +108,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 13.0,
+      "heures": 15.0,
       "chaleur": 10,
       "liens": [
         {
@@ -142,26 +124,50 @@ const VEILLE = {
       ]
     },
     {
-      "id": "warhammer-s-take-on-vampire-survivors-will-eat-our-free-time",
-      "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month",
-      "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
+      "id": "sega-responds-to-sonic-s-wild-start-on-discord",
+      "titre": "Sega Responds To Sonic's Wild Start On Discord",
+      "url": "https://www.nintendolife.com/news/2026/10/sega-responds-to-sonics-wild-start-on-discord",
       "sources": [
-        "Nintendo Life",
-        "PC Gamer"
+        "Eurogamer",
+        "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 10.6,
+      "heures": 1.1,
       "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
-          "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month"
+          "url": "https://www.nintendolife.com/news/2026/10/sega-responds-to-sonics-wild-start-on-discord",
+          "titre": "Sega Responds To Sonic's Wild Start On Discord"
         },
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/roguelike/warhammer-survivors-is-more-than-just-a-vampire-survivors-spin-off/",
-          "titre": "Warhammer Survivors is more than just a Vampire Survivors spin-off"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/sonic-the-hedgehog-official-discord-oh-no",
+          "titre": "\"Keep it family friendly\" - Sega's official Sonic Discord swarmed by 50,000 people in six hours, as understandably strict moderation is put in place"
+        }
+      ]
+    },
+    {
+      "id": "round-up-the-final-previews-for-nintendo-switch-sports-resor",
+      "titre": "Round Up: The Final Previews For Nintendo Switch Sports Resort Are In",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-final-previews-for-nintendo-switch-sports-resort-are-in",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 13.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-final-previews-for-nintendo-switch-sports-resort-are-in",
+          "titre": "Round Up: The Final Previews For Nintendo Switch Sports Resort Are In"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/nintendo-switch-sports-resort-gamescom-preview",
+          "titre": "I spent an hour playing Switch Sports Resort and my favourite mini-game involves the Switch 2's least-loved gimmick: mouse controls"
         }
       ]
     },
@@ -174,7 +180,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 12.7,
+      "heures": 14.7,
       "chaleur": 9,
       "liens": [
         {
@@ -198,7 +204,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 16.3,
+      "heures": 18.3,
       "chaleur": 9,
       "liens": [
         {
@@ -221,7 +227,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 8,
       "liens": [
         {
@@ -232,20 +238,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "eb-games-is-opening-north-america-s-first-ever-nintendo-stor",
-      "titre": "EB Games Is Opening North America's First-Ever Nintendo \"Store-Within-A-Store\" Experience",
-      "url": "https://www.nintendolife.com/news/2026/10/eb-games-is-opening-north-americas-first-ever-nintendo-store-within-a-store-experience",
+      "id": "warhammer-s-take-on-vampire-survivors-will-eat-our-free-time",
+      "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month",
+      "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
       "sources": [
-        "Nintendo Life"
+        "Nintendo Life",
+        "PC Gamer"
       ],
-      "reprises": 1,
-      "heures": 2.1,
+      "reprises": 2,
+      "heures": 12.6,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/eb-games-is-opening-north-americas-first-ever-nintendo-store-within-a-store-experience",
-          "titre": "EB Games Is Opening North America's First-Ever Nintendo \"Store-Within-A-Store\" Experience"
+          "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
+          "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/roguelike/warhammer-survivors-is-more-than-just-a-vampire-survivors-spin-off/",
+          "titre": "Warhammer Survivors is more than just a Vampire Survivors spin-off"
         }
       ]
     },
@@ -257,7 +269,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 9.0,
       "chaleur": 7,
       "liens": [
         {
@@ -276,7 +288,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 7,
       "liens": [
         {
@@ -299,37 +311,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/ive-added-scams-to-gta-5-but-i-might-have-scammed-myself/",
           "titre": "I've added scams to GTA 5, but I might have scammed myself"
-        }
-      ]
-    },
-    {
-      "id": "after-crazy-taxi-s-ai-drama-sega-says-it-s-being-very-cautio",
-      "titre": "After Crazy Taxi's AI Drama, SEGA Says It's Being 'Very Cautious' About Using the Tech",
-      "url": "https://www.pushsquare.com/news/2026/10/after-crazy-taxis-ai-drama-sega-says-its-being-very-cautious-about-using-the-tech",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 10.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/after-crazy-taxis-ai-drama-sega-says-its-being-very-cautious-about-using-the-tech",
-          "titre": "After Crazy Taxi's AI Drama, SEGA Says It's Being 'Very Cautious' About Using the Tech"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sega-claims-its-being-very-cautious-about-ai-and-wont-use-it-for-creative-work/",
-          "titre": "Sega claims it’s being ‘very cautious’ about AI and won’t use it for creative work"
         }
       ]
     },
@@ -341,7 +329,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 33.6,
+      "heures": 35.6,
       "chaleur": 7,
       "liens": [
         {
@@ -478,38 +466,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "wolverine-ps5-s-controversial-fart-trails-can-now-be-toggled",
-      "titre": "Wolverine PS5's Controversial Fart Trails Can Now Be Toggled in Story Sequences",
-      "url": "https://www.pushsquare.com/news/2026/10/wolverine-ps5s-controversial-fart-trails-can-now-be-toggled-in-story-sequences",
+      "id": "konami-announces-the-composer-for-castlevania-belmont-s-curs",
+      "titre": "Konami Announces The Composer For Castlevania: Belmont's Curse",
+      "url": "https://www.nintendolife.com/news/2026/10/konami-announces-the-composer-for-castlevania-belmonts-curse",
       "sources": [
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.9,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/wolverine-ps5s-controversial-fart-trails-can-now-be-toggled-in-story-sequences",
-          "titre": "Wolverine PS5's Controversial Fart Trails Can Now Be Toggled in Story Sequences"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/konami-announces-the-composer-for-castlevania-belmonts-curse",
+          "titre": "Konami Announces The Composer For Castlevania: Belmont's Curse"
         }
       ]
     },
     {
-      "id": "free-ps4-games-seemingly-pulled-in-europe-after-being-availa",
-      "titre": "Free PS4 Games Seemingly Pulled in Europe, After Being Available with No PS Plus Required",
-      "url": "https://www.pushsquare.com/news/2026/10/free-ps4-games-seemingly-pulled-in-europe-after-being-available-with-no-ps-plus-required",
+      "id": "eb-games-is-opening-north-america-s-first-ever-nintendo-stor",
+      "titre": "EB Games Is Opening North America's First-Ever Nintendo \"Store-Within-A-Store\" Experience",
+      "url": "https://www.nintendolife.com/news/2026/10/eb-games-is-opening-north-americas-first-ever-nintendo-store-within-a-store-experience",
       "sources": [
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.4,
+      "heures": 4.1,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/free-ps4-games-seemingly-pulled-in-europe-after-being-available-with-no-ps-plus-required",
-          "titre": "Free PS4 Games Seemingly Pulled in Europe, After Being Available with No PS Plus Required"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/eb-games-is-opening-north-americas-first-ever-nintendo-store-within-a-store-experience",
+          "titre": "EB Games Is Opening North America's First-Ever Nintendo \"Store-Within-A-Store\" Experience"
         }
       ]
     },
@@ -521,7 +509,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.5,
       "chaleur": 6,
       "liens": [
         {
@@ -539,7 +527,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
@@ -550,20 +538,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "some-staff-at-eternal-strands-and-ex-ubisoft-devs-yellow-bri",
-      "titre": "Some staff at Eternal Strands and ex-Ubisoft devs Yellow Brick Games report they've been laid off",
-      "url": "https://www.rockpapershotgun.com/some-staff-at-eternal-strands-and-ex-ubisoft-devs-yellow-brick-games-report-theyve-been-laid-off",
+      "id": "after-crazy-taxi-s-ai-drama-sega-says-it-s-being-very-cautio",
+      "titre": "After Crazy Taxi's AI Drama, SEGA Says It's Being 'Very Cautious' About Using the Tech",
+      "url": "https://www.pushsquare.com/news/2026/10/after-crazy-taxis-ai-drama-sega-says-its-being-very-cautious-about-using-the-tech",
       "sources": [
-        "Rock Paper Shotgun"
+        "Push Square",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 10.4,
+      "reprises": 2,
+      "heures": 12.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/some-staff-at-eternal-strands-and-ex-ubisoft-devs-yellow-brick-games-report-theyve-been-laid-off",
-          "titre": "Some staff at Eternal Strands and ex-Ubisoft devs Yellow Brick Games report they've been laid off"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/after-crazy-taxis-ai-drama-sega-says-its-being-very-cautious-about-using-the-tech",
+          "titre": "After Crazy Taxi's AI Drama, SEGA Says It's Being 'Very Cautious' About Using the Tech"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sega-claims-its-being-very-cautious-about-ai-and-wont-use-it-for-creative-work/",
+          "titre": "Sega claims it’s being ‘very cautious’ about AI and won’t use it for creative work"
         }
       ]
     },
@@ -575,7 +569,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.6,
       "chaleur": 6,
       "liens": [
         {
@@ -593,7 +587,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.3,
       "chaleur": 6,
       "liens": [
         {
@@ -611,7 +605,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.5,
       "chaleur": 6,
       "liens": [
         {
@@ -629,7 +623,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 27.8,
+      "heures": 29.8,
       "chaleur": 6,
       "liens": [
         {
@@ -647,7 +641,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.1,
+      "heures": 32.2,
       "chaleur": 6,
       "liens": [
         {
@@ -665,7 +659,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.5,
+      "heures": 33.5,
       "chaleur": 6,
       "liens": [
         {
@@ -676,20 +670,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "it-has-to-be-more-over-the-top-more-insane-more-in-your-fac",
-      "titre": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events",
-      "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
+      "id": "some-staff-at-eternal-strands-and-ex-ubisoft-devs-yellow-bri",
+      "titre": "Some staff at Eternal Strands and ex-Ubisoft devs Yellow Brick Games report they've been laid off",
+      "url": "https://www.rockpapershotgun.com/some-staff-at-eternal-strands-and-ex-ubisoft-devs-yellow-brick-games-report-theyve-been-laid-off",
       "sources": [
-        "Eurogamer"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 35.4,
-      "chaleur": 6,
+      "heures": 12.4,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
-          "titre": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/some-staff-at-eternal-strands-and-ex-ubisoft-devs-yellow-brick-games-report-theyve-been-laid-off",
+          "titre": "Some staff at Eternal Strands and ex-Ubisoft devs Yellow Brick Games report they've been laid off"
         }
       ]
     },
@@ -701,7 +695,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.8,
+      "heures": 16.8,
       "chaleur": 5,
       "liens": [
         {
@@ -719,7 +713,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 5,
       "liens": [
         {
@@ -737,7 +731,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 17.2,
+      "heures": 19.3,
       "chaleur": 5,
       "liens": [
         {
@@ -755,7 +749,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 25.5,
       "chaleur": 5,
       "liens": [
         {
@@ -773,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 26.5,
+      "heures": 28.5,
       "chaleur": 5,
       "liens": [
         {
@@ -784,38 +778,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-switch-2-exclusive-orbitals-has-received-a-new-game-upda",
-      "titre": "The Switch 2 Exclusive Orbitals Has Received A New Game Update",
-      "url": "https://www.nintendolife.com/news/2026/10/the-switch-2-exclusive-orbitals-has-received-a-new-game-update",
+      "id": "wolverine-ps5-s-controversial-fart-trails-can-now-be-toggled",
+      "titre": "Wolverine PS5's Controversial Fart Trails Can Now Be Toggled in Story Sequences",
+      "url": "https://www.pushsquare.com/news/2026/10/wolverine-ps5s-controversial-fart-trails-can-now-be-toggled-in-story-sequences",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.5,
-      "chaleur": 5,
+      "heures": 4.9,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/the-switch-2-exclusive-orbitals-has-received-a-new-game-update",
-          "titre": "The Switch 2 Exclusive Orbitals Has Received A New Game Update"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/wolverine-ps5s-controversial-fart-trails-can-now-be-toggled-in-story-sequences",
+          "titre": "Wolverine PS5's Controversial Fart Trails Can Now Be Toggled in Story Sequences"
         }
       ]
     },
     {
-      "id": "i-wanted-to-challenge-myself-former-warioware-director-talk",
-      "titre": "\"I Wanted To Challenge Myself\" - Former WarioWare Director Talks Life After Nintendo",
-      "url": "https://www.nintendolife.com/news/2026/10/i-wanted-to-challenge-myself-former-warioware-director-talks-life-after-nintendo",
+      "id": "free-ps4-games-seemingly-pulled-in-europe-after-being-availa",
+      "titre": "Free PS4 Games Seemingly Pulled in Europe, After Being Available with No PS Plus Required",
+      "url": "https://www.pushsquare.com/news/2026/10/free-ps4-games-seemingly-pulled-in-europe-after-being-available-with-no-ps-plus-required",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 33.9,
-      "chaleur": 5,
+      "heures": 5.4,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/i-wanted-to-challenge-myself-former-warioware-director-talks-life-after-nintendo",
-          "titre": "\"I Wanted To Challenge Myself\" - Former WarioWare Director Talks Life After Nintendo"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/free-ps4-games-seemingly-pulled-in-europe-after-being-available-with-no-ps-plus-required",
+          "titre": "Free PS4 Games Seemingly Pulled in Europe, After Being Available with No PS Plus Required"
         }
       ]
     },
@@ -827,7 +821,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +839,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -863,7 +857,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +875,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +893,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +911,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +929,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +947,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +965,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +983,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +1001,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1025,7 +1019,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,7 +1037,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,7 +1055,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1079,7 +1073,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1097,8 +1091,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 4,
+      "heures": 12.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1115,31 +1109,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/diablo-2-vr-mod",
           "titre": "Someone's modded Diablo 2 for VR, and seeing the world through your character's eyes brings a whole new dimension to the series"
-        }
-      ]
-    },
-    {
-      "id": "keep-it-family-friendly-sega-s-official-sonic-discord-swarm",
-      "titre": "\"Keep it family friendly\" - Sega's official Sonic Discord swarmed by 50,000 people in six hours, as understandably strict moderation is put in place",
-      "url": "https://www.eurogamer.net/sonic-the-hedgehog-official-discord-oh-no",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sonic-the-hedgehog-official-discord-oh-no",
-          "titre": "\"Keep it family friendly\" - Sega's official Sonic Discord swarmed by 50,000 people in six hours, as understandably strict moderation is put in place"
         }
       ]
     },
@@ -1151,8 +1127,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1160,7 +1136,45 @@ const VEILLE = {
           "titre": "Bullet heaven battler Warhammer Survivors arrives in November, with a new demo out now to whet your appetite for destruction"
         }
       ]
+    },
+    {
+      "id": "horrible-day-to-be-a-shion-main-overwatch-fans-aren-t-happy",
+      "titre": "\"Horrible day to be a Shion main\" - Overwatch fans aren't happy about five new China-exclusive skins not coming to the rest of the world",
+      "url": "https://www.eurogamer.net/overwatch-defiled-anthem-china-skins",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 13.0,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/overwatch-defiled-anthem-china-skins",
+          "titre": "\"Horrible day to be a Shion main\" - Overwatch fans aren't happy about five new China-exclusive skins not coming to the rest of the world"
+        }
+      ]
+    },
+    {
+      "id": "sonic-team-s-takashi-iizuka-dismisses-the-apparent-inevitabi",
+      "titre": "Sonic Team's Takashi Iizuka dismisses the apparent inevitability of remakes, saying \"you’re essentially providing the same experience again\"",
+      "url": "https://www.rockpapershotgun.com/sonic-teams-takashi-iizuka-dismisses-the-apparent-inevitability-of-remakes-saying-youre-essentially-providing-the-same-experience-again",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 13.2,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/sonic-teams-takashi-iizuka-dismisses-the-apparent-inevitability-of-remakes-saying-youre-essentially-providing-the-same-experience-again",
+          "titre": "Sonic Team's Takashi Iizuka dismisses the apparent inevitability of remakes, saying \"you’re essentially providing the same experience again\""
+        }
+      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "PSA: Star Wars Galactic Racer pilots, put some points in resilience before you hit the acid planet"
+  ]
 };
