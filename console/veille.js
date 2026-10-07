@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "07/10/2026 à 20h23",
+  "collecte": "07/10/2026 à 22h20",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 0.7,
+      "heures": 2.6,
       "chaleur": 15,
       "liens": [
         {
@@ -40,36 +40,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "confusion-as-erroneous-reports-claim-xbox-has-exclusive-gta",
-      "titre": "Confusion as Erroneous Reports Claim Xbox Has Exclusive GTA 6 Cloud Streaming Rights",
-      "url": "https://www.pushsquare.com/news/2026/10/confusion-as-erroneous-reports-claim-xbox-has-exclusive-gta-6-cloud-streaming-rights",
-      "sources": [
-        "Eurogamer",
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 8.4,
-      "chaleur": 15,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/confusion-as-erroneous-reports-claim-xbox-has-exclusive-gta-6-cloud-streaming-rights",
-          "titre": "Confusion as Erroneous Reports Claim Xbox Has Exclusive GTA 6 Cloud Streaming Rights"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/gta-6-wont-be-playable-on-pc-at-launch-via-xboxs-cloud-streaming-services-microsoft-exec-indicates-while-refuting-exclusivity-deal-report",
-          "titre": "GTA 6 won't be playable on PC at launch via Xbox's cloud streaming services, Microsoft exec indicates while refuting exclusivity deal report"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-cloud-gta-6-streaming-rights",
-          "titre": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC"
-        }
-      ]
-    },
-    {
       "id": "forza-horizon-6-has-been-delayed-on-ps5-a-new-report-suggest",
       "titre": "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't",
       "url": "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027",
@@ -79,7 +49,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 7.0,
+      "heures": 9.0,
       "chaleur": 14,
       "liens": [
         {
@@ -108,7 +78,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 14,
       "liens": [
         {
@@ -132,7 +102,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 13,
       "liens": [
         {
@@ -148,6 +118,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "review-dragon-s-dogma-2-dark-arisen-ps5-epic-expansion-is-pe",
+      "titre": "Review: Dragon's Dogma 2: Dark Arisen (PS5) - Epic Expansion Is Peak Dragon's Dogma",
+      "url": "https://www.pushsquare.com/reviews/ps5/dragons-dogma-2-dark-arisen",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 0.0,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/dragons-dogma-2-dark-arisen",
+          "titre": "Review: Dragon's Dogma 2: Dark Arisen (PS5) - Epic Expansion Is Peak Dragon's Dogma"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/dragons-dogma-2-dark-arisen",
+          "titre": "Review: Dragon's Dogma 2: Dark Arisen (Switch 2) - An Action RPG Great Returns In Fine Form"
+        }
+      ]
+    },
+    {
       "id": "discord-protection-bot-double-counter-hit-by-breach-exposing",
       "titre": "Discord protection bot Double Counter hit by breach exposing around 1 million email addresses",
       "url": "https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses",
@@ -156,7 +150,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 9,
       "liens": [
         {
@@ -172,30 +166,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "google-officially-reveals-ai-game-creation-platform-playgrou",
-      "titre": "Google officially reveals AI game-creation platform, Playground",
-      "url": "https://www.videogameschronicle.com/news/google-officially-reveals-ai-game-creation-platform-playground/",
-      "sources": [
-        "Game Developer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 3.8,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/google-officially-reveals-ai-game-creation-platform-playground/",
-          "titre": "Google officially reveals AI game-creation platform, Playground"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
-          "titre": "Google debuts new 'experimental' AI game platform named Google Playground"
-        }
-      ]
-    },
-    {
       "id": "undead-labs-speaks-about-its-split-from-xbox-revealing-it-ha",
       "titre": "Undead Labs speaks about its split from Xbox, revealing it has to \"make some changes\" to State of Decay 3 following layoffs",
       "url": "https://www.eurogamer.net/undead-labs-xbox-layoffs-state-of-decay-3",
@@ -203,7 +173,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 9,
       "liens": [
         {
@@ -222,7 +192,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 9,
       "liens": [
         {
@@ -245,13 +215,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 10.0,
       "chaleur": 9,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/alleged-footage-of-xboxs-cancelled-perfect-dark-reboot-shows-a-parkour-heavy-chase-scene-and-the-summary-execution-of-fruit",
           "titre": "Alleged footage of Xbox's cancelled Perfect Dark reboot shows a parkour-heavy chase scene and the summary execution of fruit"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-won-t-be-playable-on-pc-at-launch-via-xbox-s-cloud-str",
+      "titre": "GTA 6 won't be playable on PC at launch via Xbox's cloud streaming services, Microsoft exec indicates while refuting exclusivity deal report",
+      "url": "https://www.rockpapershotgun.com/gta-6-wont-be-playable-on-pc-at-launch-via-xboxs-cloud-streaming-services-microsoft-exec-indicates-while-refuting-exclusivity-deal-report",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 11.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/gta-6-wont-be-playable-on-pc-at-launch-via-xboxs-cloud-streaming-services-microsoft-exec-indicates-while-refuting-exclusivity-deal-report",
+          "titre": "GTA 6 won't be playable on PC at launch via Xbox's cloud streaming services, Microsoft exec indicates while refuting exclusivity deal report"
         }
       ]
     },
@@ -263,7 +251,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.1,
       "chaleur": 8,
       "liens": [
         {
@@ -274,38 +262,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "here-are-our-xbox-game-pass-games-for-october-2026",
-      "titre": "Here are our Xbox Game Pass games for October 2026",
-      "url": "https://www.eurogamer.net/xbox-game-pass-lineup-october-2026",
+      "id": "xbox-denies-reports-it-s-acquired-exclusive-gta-6-game-strea",
+      "titre": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC",
+      "url": "https://www.eurogamer.net/xbox-cloud-gta-6-streaming-rights",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.5,
+      "heures": 13.8,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-game-pass-lineup-october-2026",
-          "titre": "Here are our Xbox Game Pass games for October 2026"
+          "url": "https://www.eurogamer.net/xbox-cloud-gta-6-streaming-rights",
+          "titre": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC"
         }
       ]
     },
     {
-      "id": "cities-skylines-is-building-an-expanded-edition-on-switch-2",
-      "titre": "Cities: Skylines Is Building An 'Expanded Edition' On Switch 2 This Month",
-      "url": "https://www.nintendolife.com/news/2026/10/cities-skylines-is-building-an-expanded-edition-on-switch-2-this-month",
+      "id": "google-officially-reveals-ai-game-creation-platform-playgrou",
+      "titre": "Google officially reveals AI game-creation platform, Playground",
+      "url": "https://www.videogameschronicle.com/news/google-officially-reveals-ai-game-creation-platform-playground/",
       "sources": [
-        "Nintendo Life"
+        "Game Developer",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 8,
+      "reprises": 2,
+      "heures": 5.7,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/cities-skylines-is-building-an-expanded-edition-on-switch-2-this-month",
-          "titre": "Cities: Skylines Is Building An 'Expanded Edition' On Switch 2 This Month"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/google-officially-reveals-ai-game-creation-platform-playground/",
+          "titre": "Google officially reveals AI game-creation platform, Playground"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
+          "titre": "Google debuts new 'experimental' AI game platform named Google Playground"
         }
       ]
     },
@@ -317,7 +311,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.3,
       "chaleur": 7,
       "liens": [
         {
@@ -336,7 +330,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 8.3,
+      "heures": 10.2,
       "chaleur": 7,
       "liens": [
         {
@@ -360,7 +354,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.1,
+      "heures": 11.1,
       "chaleur": 7,
       "liens": [
         {
@@ -448,9 +442,27 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nivalis-nights-review-an-avalanche-of-fascinating-characters",
-      "titre": "Nivalis Nights review: An avalanche of fascinating characters carrying a decent shop sim on their backs.",
-      "url": "https://www.pcgamer.com/games/life-sim/nivalis-nights-review/",
+      "id": "ps5-to-integrate-anime-into-main-menu-as-sony-tightens-ties",
+      "titre": "PS5 to Integrate Anime into Main Menu as Sony Tightens Ties with Crunchyroll",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-to-integrate-anime-into-main-menu-as-sony-tightens-ties-with-crunchyroll",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5-to-integrate-anime-into-main-menu-as-sony-tightens-ties-with-crunchyroll",
+          "titre": "PS5 to Integrate Anime into Main Menu as Sony Tightens Ties with Crunchyroll"
+        }
+      ]
+    },
+    {
+      "id": "you-have-how-many-unread-emails-pc-gamer-shares-their-inbox",
+      "titre": "'You have HOW MANY unread emails?' PC Gamer shares their inbox shame",
+      "url": "https://www.pcgamer.com/software/you-have-how-many-unread-emails-pc-gamer-shares-their-inbox-shame/",
       "sources": [
         "PC Gamer"
       ],
@@ -460,8 +472,62 @@ const VEILLE = {
       "liens": [
         {
           "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/you-have-how-many-unread-emails-pc-gamer-shares-their-inbox-shame/",
+          "titre": "'You have HOW MANY unread emails?' PC Gamer shares their inbox shame"
+        }
+      ]
+    },
+    {
+      "id": "bobby-s-back",
+      "titre": "Bobby's back",
+      "url": "https://www.pcgamer.com/gaming-industry/bobbys-back/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/bobbys-back/",
+          "titre": "Bobby's back"
+        }
+      ]
+    },
+    {
+      "id": "gravity-well-lays-off-more-than-40-developers-after-losing-i",
+      "titre": "Gravity Well lays off more than 40 developers after losing its funding",
+      "url": "https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding",
+          "titre": "Gravity Well lays off more than 40 developers after losing its funding"
+        }
+      ]
+    },
+    {
+      "id": "nivalis-nights-review-an-avalanche-of-fascinating-characters",
+      "titre": "Nivalis Nights review: An avalanche of fascinating characters carrying a decent shop sim on their backs",
+      "url": "https://www.pcgamer.com/games/life-sim/nivalis-nights-review/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/life-sim/nivalis-nights-review/",
-          "titre": "Nivalis Nights review: An avalanche of fascinating characters carrying a decent shop sim on their backs."
+          "titre": "Nivalis Nights review: An avalanche of fascinating characters carrying a decent shop sim on their backs"
         }
       ]
     },
@@ -473,7 +539,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -491,7 +557,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -509,7 +575,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -527,7 +593,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -538,110 +604,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "phoenix-cyclops-fires-up-marvel-tokon-on-2nd-november-ps-plu",
-      "titre": "Phoenix Cyclops Fires Up Marvel Tokon on 2nd November, PS Plus Trial Out Now",
-      "url": "https://www.pushsquare.com/news/2026/10/phoenix-cyclops-fires-up-marvel-tokon-on-2nd-november-ps-plus-trial-out-now",
+      "id": "here-are-our-xbox-game-pass-games-for-october-2026",
+      "titre": "Here are our Xbox Game Pass games for October 2026",
+      "url": "https://www.eurogamer.net/xbox-game-pass-lineup-october-2026",
       "sources": [
-        "Push Square"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 5.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/phoenix-cyclops-fires-up-marvel-tokon-on-2nd-november-ps-plus-trial-out-now",
-          "titre": "Phoenix Cyclops Fires Up Marvel Tokon on 2nd November, PS Plus Trial Out Now"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-game-pass-lineup-october-2026",
+          "titre": "Here are our Xbox Game Pass games for October 2026"
         }
       ]
     },
     {
-      "id": "sony-seemingly-ends-vr-ambitions-by-selling-patents-to-meta",
-      "titre": "Sony Seemingly Ends VR Ambitions by Selling Patents to Meta",
-      "url": "https://www.pushsquare.com/news/2026/10/sony-seemingly-ends-vr-ambitions-by-selling-patents-to-meta",
+      "id": "cities-skylines-is-building-an-expanded-edition-on-switch-2",
+      "titre": "Cities: Skylines Is Building An 'Expanded Edition' On Switch 2 This Month",
+      "url": "https://www.nintendolife.com/news/2026/10/cities-skylines-is-building-an-expanded-edition-on-switch-2-this-month",
       "sources": [
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.9,
+      "heures": 5.8,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sony-seemingly-ends-vr-ambitions-by-selling-patents-to-meta",
-          "titre": "Sony Seemingly Ends VR Ambitions by Selling Patents to Meta"
-        }
-      ]
-    },
-    {
-      "id": "former-activision-blizzard-ceo-bobby-kotick-named-to-the-boa",
-      "titre": "Former Activision Blizzard CEO Bobby Kotick named to the board of post-merger Skydance",
-      "url": "https://www.gamedeveloper.com/business/former-activision-ceo-bobby-kotick-named-to-the-board-of-post-merger-skydance",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/former-activision-ceo-bobby-kotick-named-to-the-board-of-post-merger-skydance",
-          "titre": "Former Activision Blizzard CEO Bobby Kotick named to the board of post-merger Skydance"
-        }
-      ]
-    },
-    {
-      "id": "airborne-open-world-atmosfar-gets-an-early-access-release-da",
-      "titre": "Airborne open world Atmosfar gets an early access release date and a trailer full of flying islands, cloud cruisers and sky taxis",
-      "url": "https://www.rockpapershotgun.com/airborne-open-world-atmosfar-gets-an-early-access-release-date-and-a-trailer-full-of-flying-islands-cloud-cruisers-and-sky-taxis",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/airborne-open-world-atmosfar-gets-an-early-access-release-date-and-a-trailer-full-of-flying-islands-cloud-cruisers-and-sky-taxis",
-          "titre": "Airborne open world Atmosfar gets an early access release date and a trailer full of flying islands, cloud cruisers and sky taxis"
-        }
-      ]
-    },
-    {
-      "id": "help-i-have-been-abducted-by-a-tiny-car-and-cannot-escape",
-      "titre": "Help, I have been abducted by a tiny car and cannot escape",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/help-i-have-been-abducted-by-a-tiny-car-and-cannot-escape/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/help-i-have-been-abducted-by-a-tiny-car-and-cannot-escape/",
-          "titre": "Help, I have been abducted by a tiny car and cannot escape"
-        }
-      ]
-    },
-    {
-      "id": "the-crew-motorfest-gets-a-whole-new-island-for-free-as-its-u",
-      "titre": "The Crew Motorfest Gets a Whole New Island for Free as Its Unrivalled Post-Launch Support Continues",
-      "url": "https://www.pushsquare.com/news/2026/10/the-crew-motorfest-gets-a-whole-new-island-for-free-as-its-unrivalled-post-launch-support-continues",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/the-crew-motorfest-gets-a-whole-new-island-for-free-as-its-unrivalled-post-launch-support-continues",
-          "titre": "The Crew Motorfest Gets a Whole New Island for Free as Its Unrivalled Post-Launch Support Continues"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/cities-skylines-is-building-an-expanded-edition-on-switch-2-this-month",
+          "titre": "Cities: Skylines Is Building An 'Expanded Edition' On Switch 2 This Month"
         }
       ]
     },
@@ -653,55 +647,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/for-a-moment-it-looked-like-grand-theft-auto-6-might-be-playable-on-pc-on-launch-day-then-xboxs-chief-strategy-officer-crashed-the-party/",
           "titre": "For a moment it looked like Grand Theft Auto 6 might be playable on PC on launch day—then Xbox's chief strategy officer crashed the party"
-        }
-      ]
-    },
-    {
-      "id": "xbox-restates-plans-for-next-gen-project-helix-to-be-a-famil",
-      "titre": "Xbox restates plans for next-gen Project Helix to be a \"family of devices\", stressing \"many players will be on the go\"",
-      "url": "https://www.eurogamer.net/xbox-project-helix-console-family-of-devices-asha-sharma",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-project-helix-console-family-of-devices-asha-sharma",
-          "titre": "Xbox restates plans for next-gen Project Helix to be a \"family of devices\", stressing \"many players will be on the go\""
-        }
-      ]
-    },
-    {
-      "id": "psa-star-wars-galactic-racer-pilots-put-some-points-in-resil",
-      "titre": "PSA: Star Wars Galactic Racer pilots, put some points in resilience before you hit the acid planet",
-      "url": "https://www.pcgamer.com/games/racing/psa-star-wars-galactic-racer-pilots-put-some-points-in-resilience-before-you-hit-the-acid-planet/",
-      "sources": [
-        "GamesIndustry.biz",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 17.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/racing/psa-star-wars-galactic-racer-pilots-put-some-points-in-resilience-before-you-hit-the-acid-planet/",
-          "titre": "PSA: Star Wars Galactic Racer pilots, put some points in resilience before you hit the acid planet"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/star-wars-galactic-racer-launches-on-amazon-luna-as-part-of-prime-subscription",
-          "titre": "Star Wars: Galactic Racer launches on Amazon Luna as part of Prime subscription"
         }
       ]
     },
@@ -714,7 +666,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 17.1,
+      "heures": 19.1,
       "chaleur": 6,
       "liens": [
         {
@@ -737,7 +689,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.0,
+      "heures": 27.0,
       "chaleur": 6,
       "liens": [
         {
@@ -755,7 +707,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 27.2,
+      "heures": 29.1,
       "chaleur": 6,
       "liens": [
         {
@@ -773,7 +725,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 31.3,
       "chaleur": 6,
       "liens": [
         {
@@ -784,20 +736,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-didn-t-swerve-product-growth-expert-comments-on-ze",
-      "titre": "\"Nintendo Didn't Swerve\" - Product Growth Expert Comments On Zelda Vs. GTA 6",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-didnt-swerve-product-growth-expert-comments-on-zelda-vs-gta-6",
+      "id": "xbox-restates-plans-for-next-gen-project-helix-to-be-a-famil",
+      "titre": "Xbox restates plans for next-gen Project Helix to be a \"family of devices\", stressing \"many players will be on the go\"",
+      "url": "https://www.eurogamer.net/xbox-project-helix-console-family-of-devices-asha-sharma",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.6,
-      "chaleur": 6,
+      "heures": 12.5,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-didnt-swerve-product-growth-expert-comments-on-zelda-vs-gta-6",
-          "titre": "\"Nintendo Didn't Swerve\" - Product Growth Expert Comments On Zelda Vs. GTA 6"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-project-helix-console-family-of-devices-asha-sharma",
+          "titre": "Xbox restates plans for next-gen Project Helix to be a \"family of devices\", stressing \"many players will be on the go\""
         }
       ]
     },
@@ -809,7 +761,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.1,
+      "heures": 21.1,
       "chaleur": 5,
       "liens": [
         {
@@ -827,7 +779,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.1,
+      "heures": 22.1,
       "chaleur": 5,
       "liens": [
         {
@@ -845,7 +797,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 27.4,
       "chaleur": 5,
       "liens": [
         {
@@ -863,7 +815,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 29.3,
       "chaleur": 5,
       "liens": [
         {
@@ -881,7 +833,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.6,
+      "heures": 30.6,
       "chaleur": 5,
       "liens": [
         {
@@ -899,13 +851,121 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.0,
+      "heures": 33.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
           "titre": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more"
+        }
+      ]
+    },
+    {
+      "id": "phoenix-cyclops-fires-up-marvel-tokon-on-2nd-november-ps-plu",
+      "titre": "Phoenix Cyclops Fires Up Marvel Tokon on 2nd November, PS Plus Trial Out Now",
+      "url": "https://www.pushsquare.com/news/2026/10/phoenix-cyclops-fires-up-marvel-tokon-on-2nd-november-ps-plus-trial-out-now",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/phoenix-cyclops-fires-up-marvel-tokon-on-2nd-november-ps-plus-trial-out-now",
+          "titre": "Phoenix Cyclops Fires Up Marvel Tokon on 2nd November, PS Plus Trial Out Now"
+        }
+      ]
+    },
+    {
+      "id": "sony-seemingly-ends-vr-ambitions-by-selling-patents-to-meta",
+      "titre": "Sony Seemingly Ends VR Ambitions by Selling Patents to Meta",
+      "url": "https://www.pushsquare.com/news/2026/10/sony-seemingly-ends-vr-ambitions-by-selling-patents-to-meta",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sony-seemingly-ends-vr-ambitions-by-selling-patents-to-meta",
+          "titre": "Sony Seemingly Ends VR Ambitions by Selling Patents to Meta"
+        }
+      ]
+    },
+    {
+      "id": "former-activision-blizzard-ceo-bobby-kotick-named-to-the-boa",
+      "titre": "Former Activision Blizzard CEO Bobby Kotick named to the board of post-merger Skydance",
+      "url": "https://www.gamedeveloper.com/business/former-activision-ceo-bobby-kotick-named-to-the-board-of-post-merger-skydance",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/former-activision-ceo-bobby-kotick-named-to-the-board-of-post-merger-skydance",
+          "titre": "Former Activision Blizzard CEO Bobby Kotick named to the board of post-merger Skydance"
+        }
+      ]
+    },
+    {
+      "id": "airborne-open-world-atmosfar-gets-an-early-access-release-da",
+      "titre": "Airborne open world Atmosfar gets an early access release date and a trailer full of flying islands, cloud cruisers and sky taxis",
+      "url": "https://www.rockpapershotgun.com/airborne-open-world-atmosfar-gets-an-early-access-release-date-and-a-trailer-full-of-flying-islands-cloud-cruisers-and-sky-taxis",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/airborne-open-world-atmosfar-gets-an-early-access-release-date-and-a-trailer-full-of-flying-islands-cloud-cruisers-and-sky-taxis",
+          "titre": "Airborne open world Atmosfar gets an early access release date and a trailer full of flying islands, cloud cruisers and sky taxis"
+        }
+      ]
+    },
+    {
+      "id": "help-i-have-been-abducted-by-a-tiny-car-and-cannot-escape",
+      "titre": "Help, I have been abducted by a tiny car and cannot escape",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/help-i-have-been-abducted-by-a-tiny-car-and-cannot-escape/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/help-i-have-been-abducted-by-a-tiny-car-and-cannot-escape/",
+          "titre": "Help, I have been abducted by a tiny car and cannot escape"
+        }
+      ]
+    },
+    {
+      "id": "the-crew-motorfest-gets-a-whole-new-island-for-free-as-its-u",
+      "titre": "The Crew Motorfest Gets a Whole New Island for Free as Its Unrivalled Post-Launch Support Continues",
+      "url": "https://www.pushsquare.com/news/2026/10/the-crew-motorfest-gets-a-whole-new-island-for-free-as-its-unrivalled-post-launch-support-continues",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/the-crew-motorfest-gets-a-whole-new-island-for-free-as-its-unrivalled-post-launch-support-continues",
+          "titre": "The Crew Motorfest Gets a Whole New Island for Free as Its Unrivalled Post-Launch Support Continues"
         }
       ]
     },
@@ -917,7 +977,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +995,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +1013,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +1031,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +1049,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +1067,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1025,7 +1085,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,7 +1103,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,7 +1121,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1079,7 +1139,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1097,7 +1157,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1106,81 +1166,7 @@ const VEILLE = {
           "titre": "PS5 Fans Think They May Have Found Evidence of an Enhanced PS Portal"
         }
       ]
-    },
-    {
-      "id": "how-to-run-an-indie-game-studio-part-2-defining-your-future",
-      "titre": "How to run an indie game studio: Part 2, Defining your future",
-      "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-2-defining-your-future",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 6.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-2-defining-your-future",
-          "titre": "How to run an indie game studio: Part 2, Defining your future"
-        }
-      ]
-    },
-    {
-      "id": "call-of-duty-modern-warfare-4-s-latest-dmz-trailers-have-lef",
-      "titre": "Call of Duty: Modern Warfare 4's latest DMZ trailers have left players confused about the existence of a PvE-only mode",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-pve-trailers-discussion",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-pve-trailers-discussion",
-          "titre": "Call of Duty: Modern Warfare 4's latest DMZ trailers have left players confused about the existence of a PvE-only mode"
-        }
-      ]
-    },
-    {
-      "id": "quarterfinals-vote-for-the-best-rts-unit-of-all-time",
-      "titre": "Quarterfinals: Vote for the best RTS unit of all time",
-      "url": "https://www.pcgamer.com/games/rts/quarterfinals-vote-for-the-best-rts-unit-of-all-time/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rts/quarterfinals-vote-for-the-best-rts-unit-of-all-time/",
-          "titre": "Quarterfinals: Vote for the best RTS unit of all time"
-        }
-      ]
-    },
-    {
-      "id": "random-uk-retailer-lists-theatrhythm-sticker-set-for-a-whopp",
-      "titre": "Random: UK Retailer Lists Theatrhythm Sticker Set For A Whopping £499",
-      "url": "https://www.nintendolife.com/news/2026/10/random-uk-retailer-lists-theatrhythm-sticker-set-for-a-whopping-p499",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/random-uk-retailer-lists-theatrhythm-sticker-set-for-a-whopping-p499",
-          "titre": "Random: UK Retailer Lists Theatrhythm Sticker Set For A Whopping £499"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "Star Wars Zero Company developer Bit Reactor begins bringing furloughed staff back"
-  ]
+  "alertes": []
 };
