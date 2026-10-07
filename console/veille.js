@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "07/10/2026 à 04h23",
+  "collecte": "07/10/2026 à 06h27",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 4,
-      "heures": 1.0,
+      "heures": 3.1,
       "chaleur": 15,
       "liens": [
         {
@@ -40,66 +40,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "arc-raiders-the-finals-are-the-next-games-set-for-tv-and-mov",
-      "titre": "ARC Raiders, The Finals Are the Next Games Set for TV and Movie Adaptations",
-      "url": "https://www.pushsquare.com/news/2026/10/arc-raiders-the-finals-are-the-next-games-set-for-tv-and-movie-adaptations",
-      "sources": [
-        "Eurogamer",
-        "Game Developer",
-        "GamesIndustry.biz",
-        "Push Square"
-      ],
-      "reprises": 4,
-      "heures": 17.1,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/arc-raiders-the-finals-are-the-next-games-set-for-tv-and-movie-adaptations",
-          "titre": "ARC Raiders, The Finals Are the Next Games Set for TV and Movie Adaptations"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/arc-raiders-and-the-finals-are-getting-tv-series-and-film-adaptations",
-          "titre": "Arc Raiders and The Finals are getting TV series and film adaptations"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/arc-raiders-and-the-finals-set-for-tv-and-film-adaptations-from-backrooms-co-producer",
-          "titre": "Arc Raiders and The Finals set for TV and film adaptations from Backrooms co-producer"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/arc-raiders-the-finals-film-tv-show-backrooms",
-          "titre": "Arc Raiders and The Finals are getting film and TV adaptations in collaboration with the Backrooms production company"
-        }
-      ]
-    },
-    {
-      "id": "unlead-labs-studio-head-says-they-were-irresponsibly-transpa",
-      "titre": "Unlead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs",
-      "url": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
-      "sources": [
-        "Game Developer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 11.2,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
-          "titre": "Unlead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/state-of-decay-studio-boss-says-he-was-irresponsibly-transparent-to-staff-to-make-layoffs-easier-to-take/",
-          "titre": "State of Decay studio boss says he was ‘irresponsibly transparent’ to staff to make layoffs easier to take"
-        }
-      ]
-    },
-    {
       "id": "xbox-elite-series-3-controller-leaks-and-appears-to-offer-be",
       "titre": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more",
       "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
@@ -108,7 +48,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 15.0,
+      "heures": 17.1,
       "chaleur": 10,
       "liens": [
         {
@@ -132,7 +72,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 1.1,
+      "heures": 3.2,
       "chaleur": 9,
       "liens": [
         {
@@ -148,6 +88,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "unlead-labs-studio-head-says-they-were-irresponsibly-transpa",
+      "titre": "Unlead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs",
+      "url": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
+      "sources": [
+        "Game Developer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 13.2,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
+          "titre": "Unlead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/state-of-decay-studio-boss-says-he-was-irresponsibly-transparent-to-staff-to-make-layoffs-easier-to-take/",
+          "titre": "State of Decay studio boss says he was ‘irresponsibly transparent’ to staff to make layoffs easier to take"
+        }
+      ]
+    },
+    {
       "id": "round-up-the-final-previews-for-nintendo-switch-sports-resor",
       "titre": "Round Up: The Final Previews For Nintendo Switch Sports Resort Are In",
       "url": "https://www.nintendolife.com/news/2026/10/round-up-the-final-previews-for-nintendo-switch-sports-resort-are-in",
@@ -156,7 +120,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 13.4,
+      "heures": 15.5,
       "chaleur": 9,
       "liens": [
         {
@@ -180,7 +144,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 14.7,
+      "heures": 16.7,
       "chaleur": 9,
       "liens": [
         {
@@ -196,6 +160,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "arc-raiders-the-finals-are-the-next-games-set-for-tv-and-mov",
+      "titre": "ARC Raiders, The Finals Are the Next Games Set for TV and Movie Adaptations",
+      "url": "https://www.pushsquare.com/news/2026/10/arc-raiders-the-finals-are-the-next-games-set-for-tv-and-movie-adaptations",
+      "sources": [
+        "Game Developer",
+        "GamesIndustry.biz",
+        "Push Square"
+      ],
+      "reprises": 3,
+      "heures": 19.2,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/arc-raiders-the-finals-are-the-next-games-set-for-tv-and-movie-adaptations",
+          "titre": "ARC Raiders, The Finals Are the Next Games Set for TV and Movie Adaptations"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/arc-raiders-and-the-finals-are-getting-tv-series-and-film-adaptations",
+          "titre": "Arc Raiders and The Finals are getting TV series and film adaptations"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/arc-raiders-and-the-finals-set-for-tv-and-film-adaptations-from-backrooms-co-producer",
+          "titre": "Arc Raiders and The Finals set for TV and film adaptations from Backrooms co-producer"
+        }
+      ]
+    },
+    {
       "id": "nintendo-releases-free-hello-peach-and-hello-luigi-apps-for",
       "titre": "Nintendo releases free Hello, Peach! and Hello, Luigi! apps for children, joining its Mario and Yoshi ones",
       "url": "https://www.videogameschronicle.com/news/nintendo-releases-free-hello-peach-and-hello-luigi-apps-for-children-joining-its-mario-and-yoshi-ones/",
@@ -204,7 +198,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 18.3,
+      "heures": 20.4,
       "chaleur": 9,
       "liens": [
         {
@@ -220,24 +214,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "rise-of-the-tomb-raider-switch-2-limited-run-physical-releas",
-      "titre": "Rise Of The Tomb Raider Switch 2 Limited Run Physical Release Announced",
-      "url": "https://www.nintendolife.com/news/2026/10/rise-of-the-tomb-raider-switch-2-limited-run-physical-release-announced",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/rise-of-the-tomb-raider-switch-2-limited-run-physical-release-announced",
-          "titre": "Rise Of The Tomb Raider Switch 2 Limited Run Physical Release Announced"
-        }
-      ]
-    },
-    {
       "id": "warhammer-s-take-on-vampire-survivors-will-eat-our-free-time",
       "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month",
       "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
@@ -246,7 +222,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 12.6,
+      "heures": 14.7,
       "chaleur": 8,
       "liens": [
         {
@@ -269,73 +245,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 11.1,
       "chaleur": 7,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/cancelled-mmo-spin-off-borderlands-online-is-playable-once-again-and-the-team-behind-the-unofficial-project-thankfully-didnt-use-any-genai-to-get-it-running",
           "titre": "Cancelled MMO spin-off Borderlands Online is playable once again, and the team behind the unofficial project thankfully didn't use any genAI to get it running"
-        }
-      ]
-    },
-    {
-      "id": "nolan-north-would-110-return-for-nathan-drake-in-a-new-uncha",
-      "titre": "Nolan North Would '110%' Return for Nathan Drake in a New Uncharted Game",
-      "url": "https://www.pushsquare.com/news/2026/10/nolan-north-would-110percent-return-for-nathan-drake-in-a-new-uncharted-game",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 11.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/nolan-north-would-110percent-return-for-nathan-drake-in-a-new-uncharted-game",
-          "titre": "Nolan North Would '110%' Return for Nathan Drake in a New Uncharted Game"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/nolan-north-says-hes-110-up-for-playing-nathan-drake-in-a-new-uncharted-game-if-sony-wants-to-make-money/",
-          "titre": "Nolan North says he’s ‘110%’ up for playing Nathan Drake in a new Uncharted game, ‘if Sony wants to make money’"
-        }
-      ]
-    },
-    {
-      "id": "i-ve-added-scams-to-gta-5-but-i-might-have-scammed-myself",
-      "titre": "I've added scams to GTA 5, but I might have scammed myself",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/ive-added-scams-to-gta-5-but-i-might-have-scammed-myself/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/ive-added-scams-to-gta-5-but-i-might-have-scammed-myself/",
-          "titre": "I've added scams to GTA 5, but I might have scammed myself"
-        }
-      ]
-    },
-    {
-      "id": "report-ninja-theory-lays-off-workers-after-failing-to-spin-o",
-      "titre": "Report: Ninja Theory lays off workers after failing to spin off from Xbox",
-      "url": "https://www.gamedeveloper.com/business/report-ninja-theory-lays-off-workers-after-failing-to-spin-off-from-xbox",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 35.6,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/report-ninja-theory-lays-off-workers-after-failing-to-spin-off-from-xbox",
-          "titre": "Report: Ninja Theory lays off workers after failing to spin off from Xbox"
         }
       ]
     },
@@ -466,20 +382,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "konami-announces-the-composer-for-castlevania-belmont-s-curs",
-      "titre": "Konami Announces The Composer For Castlevania: Belmont's Curse",
-      "url": "https://www.nintendolife.com/news/2026/10/konami-announces-the-composer-for-castlevania-belmonts-curse",
+      "id": "pok-mon-home-firered-leafgreen-compatibility-update-now-live",
+      "titre": "Pokémon HOME FireRed & LeafGreen Compatibility Update Now Live (Version 4.1.0)",
+      "url": "https://www.nintendolife.com/news/2026/10/pokemon-home-firered-and-leafgreen-compatibility-update-now-live-version-4-1-0",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.1,
+      "heures": 2.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/konami-announces-the-composer-for-castlevania-belmonts-curse",
-          "titre": "Konami Announces The Composer For Castlevania: Belmont's Curse"
+          "url": "https://www.nintendolife.com/news/2026/10/pokemon-home-firered-and-leafgreen-compatibility-update-now-live-version-4-1-0",
+          "titre": "Pokémon HOME FireRed & LeafGreen Compatibility Update Now Live (Version 4.1.0)"
+        }
+      ]
+    },
+    {
+      "id": "rise-of-the-tomb-raider-switch-2-limited-run-physical-releas",
+      "titre": "Rise Of The Tomb Raider Switch 2 Limited Run Physical Release Announced",
+      "url": "https://www.nintendolife.com/news/2026/10/rise-of-the-tomb-raider-switch-2-limited-run-physical-release-announced",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/rise-of-the-tomb-raider-switch-2-limited-run-physical-release-announced",
+          "titre": "Rise Of The Tomb Raider Switch 2 Limited Run Physical Release Announced"
         }
       ]
     },
@@ -491,7 +425,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.2,
       "chaleur": 6,
       "liens": [
         {
@@ -509,7 +443,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.5,
       "chaleur": 6,
       "liens": [
         {
@@ -520,20 +454,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "feature-nintendo-life-eshop-selects-september-2026",
-      "titre": "Feature: Nintendo Life eShop Selects (September 2026)",
-      "url": "https://www.nintendolife.com/features/nintendo-life-eshop-selects-september-2026",
+      "id": "nolan-north-would-110-return-for-nathan-drake-in-a-new-uncha",
+      "titre": "Nolan North Would '110%' Return for Nathan Drake in a New Uncharted Game",
+      "url": "https://www.pushsquare.com/news/2026/10/nolan-north-would-110percent-return-for-nathan-drake-in-a-new-uncharted-game",
       "sources": [
-        "Nintendo Life"
+        "Push Square",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 11.4,
+      "reprises": 2,
+      "heures": 13.5,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/nintendo-life-eshop-selects-september-2026",
-          "titre": "Feature: Nintendo Life eShop Selects (September 2026)"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/nolan-north-would-110percent-return-for-nathan-drake-in-a-new-uncharted-game",
+          "titre": "Nolan North Would '110%' Return for Nathan Drake in a New Uncharted Game"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/nolan-north-says-hes-110-up-for-playing-nathan-drake-in-a-new-uncharted-game-if-sony-wants-to-make-money/",
+          "titre": "Nolan North says he’s ‘110%’ up for playing Nathan Drake in a new Uncharted game, ‘if Sony wants to make money’"
+        }
+      ]
+    },
+    {
+      "id": "i-ve-added-scams-to-gta-5-but-i-might-have-scammed-myself",
+      "titre": "I've added scams to GTA 5, but I might have scammed myself",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/ive-added-scams-to-gta-5-but-i-might-have-scammed-myself/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 13.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/ive-added-scams-to-gta-5-but-i-might-have-scammed-myself/",
+          "titre": "I've added scams to GTA 5, but I might have scammed myself"
         }
       ]
     },
@@ -546,7 +504,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 12.4,
+      "heures": 14.5,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +527,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.7,
       "chaleur": 6,
       "liens": [
         {
@@ -587,7 +545,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.4,
       "chaleur": 6,
       "liens": [
         {
@@ -605,7 +563,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 25.5,
       "chaleur": 6,
       "liens": [
         {
@@ -623,7 +581,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 29.8,
+      "heures": 31.8,
       "chaleur": 6,
       "liens": [
         {
@@ -641,7 +599,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 32.2,
+      "heures": 34.2,
       "chaleur": 6,
       "liens": [
         {
@@ -659,13 +617,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.5,
+      "heures": 35.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/halo-studios-absolutely-our-intent-new-book-activision-reboot",
           "titre": "Halo Studios says \"it is absolutely our intent\" to release new Halo book, despite layoffs and a rumored lore reboot from Activision"
+        }
+      ]
+    },
+    {
+      "id": "feature-nintendo-life-eshop-selects-september-2026",
+      "titre": "Feature: Nintendo Life eShop Selects (September 2026)",
+      "url": "https://www.nintendolife.com/features/nintendo-life-eshop-selects-september-2026",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/nintendo-life-eshop-selects-september-2026",
+          "titre": "Feature: Nintendo Life eShop Selects (September 2026)"
         }
       ]
     },
@@ -677,7 +653,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.5,
       "chaleur": 5,
       "liens": [
         {
@@ -695,7 +671,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.8,
+      "heures": 18.8,
       "chaleur": 5,
       "liens": [
         {
@@ -713,7 +689,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 5,
       "liens": [
         {
@@ -731,7 +707,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.3,
       "chaleur": 5,
       "liens": [
         {
@@ -749,7 +725,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 27.5,
       "chaleur": 5,
       "liens": [
         {
@@ -767,13 +743,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 28.5,
+      "heures": 30.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/rpg/steam-sale-deep-cut-alert-this-arpg-originally-developed-for-nokia-n-gage-is-brilliant-on-deck/",
           "titre": "Steam sale deep cut alert: this ARPG originally developed for Nokia N-Gage is brilliant on Deck"
+        }
+      ]
+    },
+    {
+      "id": "konami-announces-the-composer-for-castlevania-belmont-s-curs",
+      "titre": "Konami Announces The Composer For Castlevania: Belmont's Curse",
+      "url": "https://www.nintendolife.com/news/2026/10/konami-announces-the-composer-for-castlevania-belmonts-curse",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/konami-announces-the-composer-for-castlevania-belmonts-curse",
+          "titre": "Konami Announces The Composer For Castlevania: Belmont's Curse"
         }
       ]
     },
@@ -785,7 +779,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 7.0,
       "chaleur": 4,
       "liens": [
         {
@@ -803,7 +797,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -821,7 +815,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -839,7 +833,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -857,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.7,
       "chaleur": 4,
       "liens": [
         {
@@ -875,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.7,
       "chaleur": 4,
       "liens": [
         {
@@ -893,7 +887,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -911,7 +905,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -929,8 +923,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -947,8 +941,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -965,8 +959,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -983,8 +977,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1001,8 +995,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1019,8 +1013,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1037,8 +1031,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1055,8 +1049,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 14.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1073,8 +1067,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 14.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1091,7 +1085,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 14.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1109,7 +1103,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1127,7 +1121,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 15.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1145,7 +1139,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 15.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1163,7 +1157,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1174,7 +1168,5 @@ const VEILLE = {
       ]
     }
   ],
-  "alertes": [
-    "PSA: Star Wars Galactic Racer pilots, put some points in resilience before you hit the acid planet"
-  ]
+  "alertes": []
 };
