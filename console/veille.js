@@ -1,8 +1,86 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "07/10/2026 à 10h23",
+  "collecte": "07/10/2026 à 12h29",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "confusion-as-erroneous-reports-claim-xbox-has-exclusive-gta",
+      "titre": "Confusion as Erroneous Reports Claim Xbox Has Exclusive GTA 6 Cloud Streaming Rights",
+      "url": "https://www.pushsquare.com/news/2026/10/confusion-as-erroneous-reports-claim-xbox-has-exclusive-gta-6-cloud-streaming-rights",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 0.5,
+      "chaleur": 17,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/confusion-as-erroneous-reports-claim-xbox-has-exclusive-gta-6-cloud-streaming-rights",
+          "titre": "Confusion as Erroneous Reports Claim Xbox Has Exclusive GTA 6 Cloud Streaming Rights"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/gta-6-wont-be-playable-on-pc-at-launch-via-xboxs-cloud-streaming-services-microsoft-exec-indicates-while-refuting-exclusivity-deal-report",
+          "titre": "GTA 6 won't be playable on PC at launch via Xbox's cloud streaming services, Microsoft exec indicates while refuting exclusivity deal report"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-cloud-gta-6-streaming-rights",
+          "titre": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC"
+        }
+      ]
+    },
+    {
+      "id": "asha-sharma-reportedly-informs-staff-that-xbox-has-started-t",
+      "titre": "Asha Sharma reportedly informs staff that Xbox has \"started to return to growth\" during internal town hall",
+      "url": "https://www.gamesindustry.biz/asha-sharma-reportedly-informs-staff-that-xbox-has-started-to-return-to-growth-during-internal-town-hall",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 1.5,
+      "chaleur": 16,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/asha-sharma-reportedly-informs-staff-that-xbox-has-started-to-return-to-growth-during-internal-town-hall",
+          "titre": "Asha Sharma reportedly informs staff that Xbox has \"started to return to growth\" during internal town hall"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-asha-sharma-growth-restructuring-layoffs",
+          "titre": "\"After an all-time low, we've started to return to growth\" - Asha Sharma touts Xbox turnaround after drastic restructuring and many hundreds of layoffs"
+        }
+      ]
+    },
+    {
+      "id": "alleged-footage-of-xbox-s-cancelled-perfect-dark-reboot-show",
+      "titre": "Alleged footage of Xbox's cancelled Perfect Dark reboot shows a parkour-heavy chase scene and the summary execution of fruit",
+      "url": "https://www.rockpapershotgun.com/alleged-footage-of-xboxs-cancelled-perfect-dark-reboot-shows-a-parkour-heavy-chase-scene-and-the-summary-execution-of-fruit",
+      "sources": [
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.1,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/alleged-footage-of-xboxs-cancelled-perfect-dark-reboot-shows-a-parkour-heavy-chase-scene-and-the-summary-execution-of-fruit",
+          "titre": "Alleged footage of Xbox's cancelled Perfect Dark reboot shows a parkour-heavy chase scene and the summary execution of fruit"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/footage-of-microsofts-now-dead-perfect-dark-revival-appears-online/",
+          "titre": "Footage of Microsoft’s now-dead Perfect Dark revival appears online"
+        }
+      ]
+    },
     {
       "id": "psa-star-wars-galactic-racer-pilots-put-some-points-in-resil",
       "titre": "PSA: Star Wars Galactic Racer pilots, put some points in resilience before you hit the acid planet",
@@ -14,7 +92,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 4,
-      "heures": 7.0,
+      "heures": 9.1,
       "chaleur": 13,
       "liens": [
         {
@@ -48,7 +126,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.7,
+      "heures": 2.8,
       "chaleur": 12,
       "liens": [
         {
@@ -72,7 +150,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.6,
+      "heures": 2.7,
       "chaleur": 11,
       "liens": [
         {
@@ -88,38 +166,50 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-denies-reports-it-s-acquired-exclusive-gta-6-game-strea",
-      "titre": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC",
-      "url": "https://www.eurogamer.net/xbox-cloud-gta-6-streaming-rights",
+      "id": "unity-unveils-unity-spark-an-prompt-based-tool-for-google-s",
+      "titre": "Unity unveils Unity Spark, an prompt-based tool for Google's AI games platform",
+      "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
       "sources": [
-        "Eurogamer"
+        "Game Developer",
+        "GamesIndustry.biz"
       ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 11,
+      "reprises": 2,
+      "heures": 0.4,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-cloud-gta-6-streaming-rights",
-          "titre": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
+          "titre": "Unity unveils Unity Spark, an prompt-based tool for Google's AI games platform"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/unity-unveils-a-web-based-ai-game-creation-platform",
+          "titre": "Unity unveils a web-based AI game creation platform"
         }
       ]
     },
     {
-      "id": "xbox-has-started-to-return-to-growth-in-first-party-followin",
-      "titre": "Xbox has ‘started to return to growth’ in first-party following an ‘all-time low’, CEO Asha Sharma reportedly tells staff",
-      "url": "https://www.videogameschronicle.com/news/xbox-has-started-to-return-to-growth-in-first-party-following-an-all-time-low-ceo-asha-sharma-reportedly-tells-staff/",
+      "id": "resident-evil-requiem-s-writer-reveals-what-the-upcoming-dlc",
+      "titre": "Resident Evil Requiem's Writer Reveals What The Upcoming DLC Might Be About",
+      "url": "https://www.nintendolife.com/news/2026/10/resident-evil-requiems-writer-reveals-what-the-upcoming-dlc-might-be-about",
       "sources": [
+        "Nintendo Life",
         "VGC"
       ],
-      "reprises": 1,
-      "heures": 1.8,
-      "chaleur": 10,
+      "reprises": 2,
+      "heures": 1.2,
+      "chaleur": 9,
       "liens": [
         {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/resident-evil-requiems-writer-reveals-what-the-upcoming-dlc-might-be-about",
+          "titre": "Resident Evil Requiem's Writer Reveals What The Upcoming DLC Might Be About"
+        },
+        {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-has-started-to-return-to-growth-in-first-party-following-an-all-time-low-ceo-asha-sharma-reportedly-tells-staff/",
-          "titre": "Xbox has ‘started to return to growth’ in first-party following an ‘all-time low’, CEO Asha Sharma reportedly tells staff"
+          "url": "https://www.videogameschronicle.com/news/resident-evil-requiem-writer-lets-slip-a-major-detail-about-the-upcoming-dlc/",
+          "titre": "Resident Evil Requiem writer lets slip a major detail about the upcoming DLC"
         }
       ]
     },
@@ -132,7 +222,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 0.7,
+      "heures": 2.8,
       "chaleur": 9,
       "liens": [
         {
@@ -148,30 +238,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sources-ape-escape-revival-in-the-works-from-sonic-mania-tea",
-      "titre": "Sources: Ape Escape revival in the works from Sonic Mania team",
-      "url": "https://www.videogameschronicle.com/news/sources-ape-escape-revival-in-the-works-from-sonic-mania-team/",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 1.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sources-ape-escape-revival-in-the-works-from-sonic-mania-team/",
-          "titre": "Sources: Ape Escape revival in the works from Sonic Mania team"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/rumour-ape-escape-revival-coming-from-ex-sonic-mania-devs-at-evening-star-studio",
-          "titre": "Rumour: Ape Escape Revival Coming from Ex-Sonic Mania Devs at Evening Star Studio"
-        }
-      ]
-    },
-    {
       "id": "paramount-and-warner-bros-combine-video-game-divisions-after",
       "titre": "Paramount and Warner Bros. combine video game divisions after $110bn Skydance merger",
       "url": "https://www.videogameschronicle.com/news/paramount-and-warner-bros-combine-video-game-divisions-after-110bn-skydance-merger/",
@@ -180,7 +246,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.7,
+      "heures": 3.8,
       "chaleur": 9,
       "liens": [
         {
@@ -204,7 +270,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 19.4,
+      "heures": 21.5,
       "chaleur": 9,
       "liens": [
         {
@@ -228,7 +294,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 18.6,
+      "heures": 20.7,
       "chaleur": 8,
       "liens": [
         {
@@ -252,7 +318,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 7.1,
+      "heures": 9.2,
       "chaleur": 7,
       "liens": [
         {
@@ -358,38 +424,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-game-awards",
-      "titre": "The Game Awards",
-      "url": "https://www.gamedeveloper.comthegameawards.com",
+      "id": "a-new-way-for-businesses-to-support-and-promote-on-vgc-the-v",
+      "titre": "A new way for businesses to support and promote on VGC: The Video Games Podcast",
+      "url": "https://www.videogameschronicle.com/news/a-new-way-for-businesses-to-support-and-promote-on-vgc-the-video-games-podcast/",
       "sources": [
-        "Game Developer"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 0.5,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.comthegameawards.com",
-          "titre": "The Game Awards"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/a-new-way-for-businesses-to-support-and-promote-on-vgc-the-video-games-podcast/",
+          "titre": "A new way for businesses to support and promote on VGC: The Video Games Podcast"
         }
       ]
     },
     {
-      "id": "games-4-change-festival",
-      "titre": "Games 4 Change Festival",
-      "url": "https://www.gamedeveloper.comfestival.gamesforchange.org",
+      "id": "my-favourite-thing-about-aion-2-the-freedom-to-make-a-freaky",
+      "titre": "My favourite thing about Aion 2? The freedom to make a freaky lil' guy in a world of beautiful people",
+      "url": "https://www.eurogamer.net/aion-2-character-creator-freaky-guy-beautiful-people",
       "sources": [
-        "Game Developer"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 0.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.comfestival.gamesforchange.org",
-          "titre": "Games 4 Change Festival"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/aion-2-character-creator-freaky-guy-beautiful-people",
+          "titre": "My favourite thing about Aion 2? The freedom to make a freaky lil' guy in a world of beautiful people"
+        }
+      ]
+    },
+    {
+      "id": "your-body-is-foreign-territory-small-town-mystery-puzzler-p",
+      "titre": "\"Your body is foreign territory\": Small-town mystery puzzler Patience is a Virtue explores power and vulnerability by way of a unique conversation system",
+      "url": "https://www.rockpapershotgun.com/your-body-is-foreign-territory-small-town-mystery-puzzler-patience-is-a-virtue-explores-power-and-vulnerability-by-way-of-a-unique-conversation-system",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/your-body-is-foreign-territory-small-town-mystery-puzzler-patience-is-a-virtue-explores-power-and-vulnerability-by-way-of-a-unique-conversation-system",
+          "titre": "\"Your body is foreign territory\": Small-town mystery puzzler Patience is a Virtue explores power and vulnerability by way of a unique conversation system"
+        }
+      ]
+    },
+    {
+      "id": "denuvo-asks-to-subpoena-discord-valve-and-reddit-to-identify",
+      "titre": "Denuvo asks to subpoena Discord, Valve and Reddit to identify hacker it’s suing for cracking its DRM protection",
+      "url": "https://www.videogameschronicle.com/news/denuvo-asks-to-subpoena-discord-valve-and-reddit-to-identify-hacker-who-keeps-cracking-its-drm-protection/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/denuvo-asks-to-subpoena-discord-valve-and-reddit-to-identify-hacker-who-keeps-cracking-its-drm-protection/",
+          "titre": "Denuvo asks to subpoena Discord, Valve and Reddit to identify hacker it’s suing for cracking its DRM protection"
+        }
+      ]
+    },
+    {
+      "id": "2026-is-a-low-key-revolutionary-year-for-player-movement-in",
+      "titre": "2026 is a low-key revolutionary year for player movement in games",
+      "url": "https://www.pcgamer.com/games/2026-is-a-low-key-revolutionary-year-for-player-movement-in-games/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/2026-is-a-low-key-revolutionary-year-for-player-movement-in-games/",
+          "titre": "2026 is a low-key revolutionary year for player movement in games"
         }
       ]
     },
@@ -401,7 +521,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -419,7 +539,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -437,7 +557,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -455,7 +575,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -466,20 +586,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "footage-of-microsoft-s-now-dead-perfect-dark-revival-appears",
-      "titre": "Footage of Microsoft’s now-dead Perfect Dark revival appears online",
-      "url": "https://www.videogameschronicle.com/news/footage-of-microsofts-now-dead-perfect-dark-revival-appears-online/",
+      "id": "sources-ape-escape-revival-in-the-works-from-sonic-mania-tea",
+      "titre": "Sources: Ape Escape revival in the works from Sonic Mania team",
+      "url": "https://www.videogameschronicle.com/news/sources-ape-escape-revival-in-the-works-from-sonic-mania-team/",
       "sources": [
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/footage-of-microsofts-now-dead-perfect-dark-revival-appears-online/",
-          "titre": "Footage of Microsoft’s now-dead Perfect Dark revival appears online"
+          "url": "https://www.videogameschronicle.com/news/sources-ape-escape-revival-in-the-works-from-sonic-mania-team/",
+          "titre": "Sources: Ape Escape revival in the works from Sonic Mania team"
         }
       ]
     },
@@ -491,31 +611,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/rise-of-the-tomb-raider-switch-2-limited-run-physical-release-announced",
           "titre": "Rise Of The Tomb Raider Switch 2 Limited Run Physical Release Announced"
-        }
-      ]
-    },
-    {
-      "id": "eb-games-is-opening-north-america-s-first-ever-nintendo-stor",
-      "titre": "EB Games Is Opening North America's First-Ever Nintendo \"Store-Within-A-Store\" Experience",
-      "url": "https://www.nintendolife.com/news/2026/10/eb-games-is-opening-north-americas-first-ever-nintendo-store-within-a-store-experience",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/eb-games-is-opening-north-americas-first-ever-nintendo-store-within-a-store-experience",
-          "titre": "EB Games Is Opening North America's First-Ever Nintendo \"Store-Within-A-Store\" Experience"
         }
       ]
     },
@@ -527,7 +629,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 17.1,
       "chaleur": 6,
       "liens": [
         {
@@ -538,44 +640,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "unlead-labs-studio-head-says-they-were-irresponsibly-transpa",
-      "titre": "Unlead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs",
+      "id": "undead-labs-studio-head-says-they-were-irresponsibly-transpa",
+      "titre": "Undead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs",
       "url": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
       "sources": [
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 17.2,
+      "heures": 19.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
-          "titre": "Unlead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs"
-        }
-      ]
-    },
-    {
-      "id": "nolan-north-would-110-return-for-nathan-drake-in-a-new-uncha",
-      "titre": "Nolan North Would '110%' Return for Nathan Drake in a New Uncharted Game",
-      "url": "https://www.pushsquare.com/news/2026/10/nolan-north-would-110percent-return-for-nathan-drake-in-a-new-uncharted-game",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 17.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/nolan-north-would-110percent-return-for-nathan-drake-in-a-new-uncharted-game",
-          "titre": "Nolan North Would '110%' Return for Nathan Drake in a New Uncharted Game"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/nolan-north-says-hes-110-up-for-playing-nathan-drake-in-a-new-uncharted-game-if-sony-wants-to-make-money/",
-          "titre": "Nolan North says he’s ‘110%’ up for playing Nathan Drake in a new Uncharted game, ‘if Sony wants to make money’"
+          "titre": "Undead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs"
         }
       ]
     },
@@ -587,7 +665,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 6,
       "liens": [
         {
@@ -605,7 +683,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.6,
+      "heures": 22.7,
       "chaleur": 6,
       "liens": [
         {
@@ -623,7 +701,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 27.4,
       "chaleur": 6,
       "liens": [
         {
@@ -641,7 +719,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.5,
+      "heures": 31.6,
       "chaleur": 6,
       "liens": [
         {
@@ -652,20 +730,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "industry-layoff-watch-supermassive-ninja-theory-the-coalitio",
-      "titre": "Industry layoff watch: Supermassive, Ninja Theory, The Coalition, and a warning from Warhorse",
-      "url": "https://www.pcgamer.com/gaming-industry/industry-layoff-watch-supermassive-ninja-theory-the-coalition-and-a-warning-from-warhorse/",
+      "id": "eb-games-is-opening-north-america-s-first-ever-nintendo-stor",
+      "titre": "EB Games Is Opening North America's First-Ever Nintendo \"Store-Within-A-Store\" Experience",
+      "url": "https://www.nintendolife.com/news/2026/10/eb-games-is-opening-north-americas-first-ever-nintendo-store-within-a-store-experience",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 35.8,
-      "chaleur": 6,
+      "heures": 12.2,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/industry-layoff-watch-supermassive-ninja-theory-the-coalition-and-a-warning-from-warhorse/",
-          "titre": "Industry layoff watch: Supermassive, Ninja Theory, The Coalition, and a warning from Warhorse"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/eb-games-is-opening-north-americas-first-ever-nintendo-store-within-a-store-experience",
+          "titre": "EB Games Is Opening North America's First-Ever Nintendo \"Store-Within-A-Store\" Experience"
         }
       ]
     },
@@ -677,7 +755,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.6,
       "chaleur": 5,
       "liens": [
         {
@@ -695,7 +773,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 5,
       "liens": [
         {
@@ -713,7 +791,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.5,
       "chaleur": 5,
       "liens": [
         {
@@ -731,7 +809,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.0,
+      "heures": 23.1,
       "chaleur": 5,
       "liens": [
         {
@@ -749,7 +827,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 24.9,
       "chaleur": 5,
       "liens": [
         {
@@ -767,49 +845,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/kingdom-hearts-iii-plus-re-mind-dlc",
           "titre": "Mini Review: KINGDOM HEARTS III + Re Mind (DLC) - A Fair Switch 2 Port Of An Enjoyable 'Conclusion'"
-        }
-      ]
-    },
-    {
-      "id": "bleak-survival-city-builder-frostpunk-is-finally-coming-to-t",
-      "titre": "Bleak Survival City-Builder 'Frostpunk' Is Finally Coming To The Switch",
-      "url": "https://www.nintendolife.com/news/2026/10/bleak-survival-city-builder-frostpunk-is-finally-coming-to-the-switch",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 31.5,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/bleak-survival-city-builder-frostpunk-is-finally-coming-to-the-switch",
-          "titre": "Bleak Survival City-Builder 'Frostpunk' Is Finally Coming To The Switch"
-        }
-      ]
-    },
-    {
-      "id": "steam-sale-deep-cut-alert-this-arpg-originally-developed-for",
-      "titre": "Steam sale deep cut alert: this ARPG originally developed for Nokia N-Gage is brilliant on Deck",
-      "url": "https://www.pcgamer.com/games/rpg/steam-sale-deep-cut-alert-this-arpg-originally-developed-for-nokia-n-gage-is-brilliant-on-deck/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 34.5,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/steam-sale-deep-cut-alert-this-arpg-originally-developed-for-nokia-n-gage-is-brilliant-on-deck/",
-          "titre": "Steam sale deep cut alert: this ARPG originally developed for Nokia N-Gage is brilliant on Deck"
         }
       ]
     },
@@ -821,7 +863,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -839,7 +881,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -857,8 +899,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -875,8 +917,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -893,7 +935,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.6,
       "chaleur": 3,
       "liens": [
         {
@@ -911,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.7,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +971,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.8,
       "chaleur": 3,
       "liens": [
         {
@@ -947,13 +989,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 16.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/you-and-i-both-know-youre-not-sleeping-well-in-this-economy-so-have-a-gander-at-sheeps-a-roguelite-about-counting-sheep-pouring-out-of-a-strange-portal",
           "titre": "You and I both know you're not sleeping well in this economy, so have a gander at Sheeps, a roguelite about counting sheep pouring out of a strange portal"
+        }
+      ]
+    },
+    {
+      "id": "google-debuts-new-experimental-ai-game-platform-named-google",
+      "titre": "Google debuts new 'experimental' AI game platform named Google Playground",
+      "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 16.3,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
+          "titre": "Google debuts new 'experimental' AI game platform named Google Playground"
         }
       ]
     },
@@ -965,7 +1025,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.7,
       "chaleur": 3,
       "liens": [
         {
@@ -983,7 +1043,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +1061,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,7 +1079,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 19.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1037,7 +1097,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 19.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1055,31 +1115,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 19.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/space-harrier-fans-you-need-to-keep-an-eye-on-this-ps5-arcade-shooter",
           "titre": "Space Harrier Fans, You Need to Keep an Eye on This PS5 Arcade Shooter"
-        }
-      ]
-    },
-    {
-      "id": "amazon-prime-s-10-free-games-for-october-include-five-nights",
-      "titre": "Amazon Prime’s 10 ‘free’ games for October include Five Nights at Freddy’s: Into the Pit and Doom 2016",
-      "url": "https://www.videogameschronicle.com/news/amazon-primes-10-free-games-for-october-include-five-nights-at-freddys-into-the-pit-and-doom-2016/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 17.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/amazon-primes-10-free-games-for-october-include-five-nights-at-freddys-into-the-pit-and-doom-2016/",
-          "titre": "Amazon Prime’s 10 ‘free’ games for October include Five Nights at Freddy’s: Into the Pit and Doom 2016"
         }
       ]
     },
@@ -1091,13 +1133,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 19.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/rumour-watch-dogs-legion-to-receive-surprise-ps5-remake-next-year",
           "titre": "Rumour: Watch Dogs Legion to Receive Surprise PS5 Remake Next Year"
+        }
+      ]
+    },
+    {
+      "id": "nolan-north-would-110-return-for-nathan-drake-in-a-new-uncha",
+      "titre": "Nolan North Would '110%' Return for Nathan Drake in a New Uncharted Game",
+      "url": "https://www.pushsquare.com/news/2026/10/nolan-north-would-110percent-return-for-nathan-drake-in-a-new-uncharted-game",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 19.5,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/nolan-north-would-110percent-return-for-nathan-drake-in-a-new-uncharted-game",
+          "titre": "Nolan North Would '110%' Return for Nathan Drake in a New Uncharted Game"
         }
       ]
     },
@@ -1109,7 +1169,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 20.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1118,43 +1178,11 @@ const VEILLE = {
           "titre": "Jagex pull Runescape trailer and apologise for genAI use after complaints about six-fingered knights, pinning the blame on a \"trusted external partner\""
         }
       ]
-    },
-    {
-      "id": "this-needs-to-change-ps5-influencer-regains-access-to-accou",
-      "titre": "'This Needs to Change': PS5 Influencer Regains Access to Account, But Admits 'Not Many Have My Reach'",
-      "url": "https://www.pushsquare.com/news/2026/10/this-needs-to-change-ps5-influencer-regains-access-to-account-but-admits-not-many-have-my-reach",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 17.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/this-needs-to-change-ps5-influencer-regains-access-to-account-but-admits-not-many-have-my-reach",
-          "titre": "'This Needs to Change': PS5 Influencer Regains Access to Account, But Admits 'Not Many Have My Reach'"
-        }
-      ]
-    },
-    {
-      "id": "warhorse-co-founder-believes-ai-is-not-a-get-out-of-jail-fre",
-      "titre": "Warhorse co-founder believes 'AI is not a get out of jail free card' and that execs have a 'simplified mental model' of what it means for games",
-      "url": "https://www.pcgamer.com/software/ai/warhorse-co-founder-believes-ai-is-not-a-get-out-of-jail-free-card-and-that-execs-have-a-simplified-mental-model-of-what-it-means-for-games/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 18.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/warhorse-co-founder-believes-ai-is-not-a-get-out-of-jail-free-card-and-that-execs-have-a-simplified-mental-model-of-what-it-means-for-games/",
-          "titre": "Warhorse co-founder believes 'AI is not a get out of jail free card' and that execs have a 'simplified mental model' of what it means for games"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Confusion as Erroneous Reports Claim Xbox Has Exclusive GTA 6 Cloud Streaming Rights",
+    "Asha Sharma reportedly informs staff that Xbox has \"started to return to growth\" during internal town hall",
+    "Alleged footage of Xbox's cancelled Perfect Dark reboot shows a parkour-heavy chase scene and the summary execution of fruit"
+  ]
 };
