@@ -1,38 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "07/10/2026 à 14h24",
+  "collecte": "07/10/2026 à 16h25",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "confusion-as-erroneous-reports-claim-xbox-has-exclusive-gta",
-      "titre": "Confusion as Erroneous Reports Claim Xbox Has Exclusive GTA 6 Cloud Streaming Rights",
-      "url": "https://www.pushsquare.com/news/2026/10/confusion-as-erroneous-reports-claim-xbox-has-exclusive-gta-6-cloud-streaming-rights",
-      "sources": [
-        "Eurogamer",
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 2.4,
-      "chaleur": 17,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/confusion-as-erroneous-reports-claim-xbox-has-exclusive-gta-6-cloud-streaming-rights",
-          "titre": "Confusion as Erroneous Reports Claim Xbox Has Exclusive GTA 6 Cloud Streaming Rights"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/gta-6-wont-be-playable-on-pc-at-launch-via-xboxs-cloud-streaming-services-microsoft-exec-indicates-while-refuting-exclusivity-deal-report",
-          "titre": "GTA 6 won't be playable on PC at launch via Xbox's cloud streaming services, Microsoft exec indicates while refuting exclusivity deal report"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-cloud-gta-6-streaming-rights",
-          "titre": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC"
-        }
-      ]
-    },
     {
       "id": "forza-horizon-6-has-been-delayed-on-ps5-a-new-report-suggest",
       "titre": "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't",
@@ -43,7 +13,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 16,
       "liens": [
         {
@@ -64,6 +34,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "confusion-as-erroneous-reports-claim-xbox-has-exclusive-gta",
+      "titre": "Confusion as Erroneous Reports Claim Xbox Has Exclusive GTA 6 Cloud Streaming Rights",
+      "url": "https://www.pushsquare.com/news/2026/10/confusion-as-erroneous-reports-claim-xbox-has-exclusive-gta-6-cloud-streaming-rights",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 4.4,
+      "chaleur": 15,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/confusion-as-erroneous-reports-claim-xbox-has-exclusive-gta-6-cloud-streaming-rights",
+          "titre": "Confusion as Erroneous Reports Claim Xbox Has Exclusive GTA 6 Cloud Streaming Rights"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/gta-6-wont-be-playable-on-pc-at-launch-via-xboxs-cloud-streaming-services-microsoft-exec-indicates-while-refuting-exclusivity-deal-report",
+          "titre": "GTA 6 won't be playable on PC at launch via Xbox's cloud streaming services, Microsoft exec indicates while refuting exclusivity deal report"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-cloud-gta-6-streaming-rights",
+          "titre": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC"
+        }
+      ]
+    },
+    {
       "id": "asha-sharma-reportedly-informs-staff-that-xbox-has-started-t",
       "titre": "Asha Sharma reportedly informs staff that Xbox has \"started to return to growth\" during internal town hall",
       "url": "https://www.gamesindustry.biz/asha-sharma-reportedly-informs-staff-that-xbox-has-started-to-return-to-growth-during-internal-town-hall",
@@ -72,8 +72,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 3.4,
-      "chaleur": 16,
+      "heures": 5.4,
+      "chaleur": 14,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -96,8 +96,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 2.0,
-      "chaleur": 14,
+      "heures": 4.0,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -119,7 +119,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.5,
       "chaleur": 11,
       "liens": [
         {
@@ -138,7 +138,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 11,
       "liens": [
         {
@@ -161,7 +161,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 9,
       "liens": [
         {
@@ -172,26 +172,68 @@ const VEILLE = {
       ]
     },
     {
-      "id": "rumour-more-sources-mount-for-ape-escape-revival-from-ex-son",
-      "titre": "Rumour: More Sources Mount for Ape Escape Revival from Ex-Sonic Mania Devs",
-      "url": "https://www.pushsquare.com/news/2026/10/rumour-more-sources-mount-for-ape-escape-revival-from-ex-sonic-mania-devs",
+      "id": "round-up-the-final-previews-for-nintendo-switch-sports-resor",
+      "titre": "Round Up: The Final Previews For Nintendo Switch Sports Resort Are In",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-final-previews-for-nintendo-switch-sports-resort-are-in",
       "sources": [
-        "Push Square",
-        "VGC"
+        "Eurogamer",
+        "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 1.6,
+      "heures": 25.4,
       "chaleur": 9,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/rumour-more-sources-mount-for-ape-escape-revival-from-ex-sonic-mania-devs",
-          "titre": "Rumour: More Sources Mount for Ape Escape Revival from Ex-Sonic Mania Devs"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-final-previews-for-nintendo-switch-sports-resort-are-in",
+          "titre": "Round Up: The Final Previews For Nintendo Switch Sports Resort Are In"
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sources-ape-escape-revival-in-the-works-from-sonic-mania-team/",
-          "titre": "Sources: Ape Escape revival in the works from Sonic Mania team"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/nintendo-switch-sports-resort-gamescom-preview",
+          "titre": "I spent an hour playing Switch Sports Resort and my favourite mini-game involves the Switch 2's least-loved gimmick: mouse controls"
+        }
+      ]
+    },
+    {
+      "id": "for-a-moment-it-looked-like-grand-theft-auto-6-might-be-play",
+      "titre": "For a moment it looked like Grand Theft Auto 6 might be playable on PC on launch day—then Xbox's chief strategy officer crashed the party",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/for-a-moment-it-looked-like-grand-theft-auto-6-might-be-playable-on-pc-on-launch-day-then-xboxs-chief-strategy-officer-crashed-the-party/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/for-a-moment-it-looked-like-grand-theft-auto-6-might-be-playable-on-pc-on-launch-day-then-xboxs-chief-strategy-officer-crashed-the-party/",
+          "titre": "For a moment it looked like Grand Theft Auto 6 might be playable on PC on launch day—then Xbox's chief strategy officer crashed the party"
+        }
+      ]
+    },
+    {
+      "id": "warhammer-s-take-on-vampire-survivors-will-eat-our-free-time",
+      "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month",
+      "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 24.7,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
+          "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/roguelike/warhammer-survivors-is-more-than-just-a-vampire-survivors-spin-off/",
+          "titre": "Warhammer Survivors is more than just a Vampire Survivors spin-off"
         }
       ]
     },
@@ -204,8 +246,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 2.3,
-      "chaleur": 9,
+      "heures": 4.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Game Developer",
@@ -228,8 +270,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 3.2,
-      "chaleur": 9,
+      "heures": 5.2,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -244,72 +286,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "round-up-the-final-previews-for-nintendo-switch-sports-resor",
-      "titre": "Round Up: The Final Previews For Nintendo Switch Sports Resort Are In",
-      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-final-previews-for-nintendo-switch-sports-resort-are-in",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 23.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-final-previews-for-nintendo-switch-sports-resort-are-in",
-          "titre": "Round Up: The Final Previews For Nintendo Switch Sports Resort Are In"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nintendo-switch-sports-resort-gamescom-preview",
-          "titre": "I spent an hour playing Switch Sports Resort and my favourite mini-game involves the Switch 2's least-loved gimmick: mouse controls"
-        }
-      ]
-    },
-    {
-      "id": "lenovo-s-legion-go-s-has-dropped-by-14-this-prime-day-beatin",
-      "titre": "Lenovo's Legion Go S has dropped by 14% this Prime Day, beating the Steam Deck in price and performance",
-      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/lenovos-legion-go-s-has-dropped-by-14-percent-this-prime-day-beating-the-steam-deck-in-price-and-performance/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.2,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/lenovos-legion-go-s-has-dropped-by-14-percent-this-prime-day-beating-the-steam-deck-in-price-and-performance/",
-          "titre": "Lenovo's Legion Go S has dropped by 14% this Prime Day, beating the Steam Deck in price and performance"
-        }
-      ]
-    },
-    {
-      "id": "warhammer-s-take-on-vampire-survivors-will-eat-our-free-time",
-      "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month",
-      "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
-      "sources": [
-        "Nintendo Life",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 22.7,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
-          "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/roguelike/warhammer-survivors-is-more-than-just-a-vampire-survivors-spin-off/",
-          "titre": "Warhammer Survivors is more than just a Vampire Survivors spin-off"
-        }
-      ]
-    },
-    {
       "id": "gamesindustry-biz-to-host-panel-at-game-republic-s-investmen",
       "titre": "GamesIndustry.biz to host panel at Game Republic's Investment Summit at MCM Comic Con October 2026",
       "url": "https://www.gamesindustry.biz/gamesindustrybiz-to-host-panel-at-game-republics-investment-summit-at-mcm-comic-con-october-2026",
@@ -318,7 +294,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 4.7,
+      "heures": 6.7,
       "chaleur": 7,
       "liens": [
         {
@@ -341,61 +317,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.8,
       "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/gamestop-hikes-used-ps5-pro-price-to-1400-as-gta-6-demand-looms/",
           "titre": "GameStop hikes used PS5 Pro price to $1400 as GTA 6 demand looms"
-        }
-      ]
-    },
-    {
-      "id": "psa-star-wars-galactic-racer-pilots-put-some-points-in-resil",
-      "titre": "PSA: Star Wars Galactic Racer pilots, put some points in resilience before you hit the acid planet",
-      "url": "https://www.pcgamer.com/games/racing/psa-star-wars-galactic-racer-pilots-put-some-points-in-resilience-before-you-hit-the-acid-planet/",
-      "sources": [
-        "GamesIndustry.biz",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 11.0,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/racing/psa-star-wars-galactic-racer-pilots-put-some-points-in-resilience-before-you-hit-the-acid-planet/",
-          "titre": "PSA: Star Wars Galactic Racer pilots, put some points in resilience before you hit the acid planet"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/star-wars-galactic-racer-launches-on-amazon-luna-as-part-of-prime-subscription",
-          "titre": "Star Wars: Galactic Racer launches on Amazon Luna as part of Prime subscription"
-        }
-      ]
-    },
-    {
-      "id": "sega-responds-to-sonic-s-wild-start-on-discord",
-      "titre": "Sega Responds To Sonic's Wild Start On Discord",
-      "url": "https://www.nintendolife.com/news/2026/10/sega-responds-to-sonics-wild-start-on-discord",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 11.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/sega-responds-to-sonics-wild-start-on-discord",
-          "titre": "Sega Responds To Sonic's Wild Start On Discord"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sonic-the-hedgehog-official-discord-oh-no",
-          "titre": "\"Keep it family friendly\" - Sega's official Sonic Discord swarmed by 50,000 people in six hours, as understandably strict moderation is put in place"
         }
       ]
     },
@@ -472,20 +400,218 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gamescom-latam",
-      "titre": "gamescom latam",
-      "url": "https://www.gamedeveloper.comlatam.gamescom.global",
+      "id": "anime-racer-screamer-no-longer-demands-you-retrain-your-fing",
+      "titre": "Anime racer Screamer no longer demands you retrain your fingers, with a fresh patch adding single stick drift controls",
+      "url": "https://www.rockpapershotgun.com/anime-racer-screamer-no-longer-demands-you-retrain-your-fingers-with-a-fresh-patch-adding-single-stick-drift-controls",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/anime-racer-screamer-no-longer-demands-you-retrain-your-fingers-with-a-fresh-patch-adding-single-stick-drift-controls",
+          "titre": "Anime racer Screamer no longer demands you retrain your fingers, with a fresh patch adding single stick drift controls"
+        }
+      ]
+    },
+    {
+      "id": "wizards-of-the-coast-union-expands-demands-company-stop-push",
+      "titre": "Wizards of the Coast union expands, demands company stop pushing generative AI",
+      "url": "https://www.gamesindustry.biz/wizards-of-the-coast-union-expands-demands-company-stop-pushing-generative-ai",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/wizards-of-the-coast-union-expands-demands-company-stop-pushing-generative-ai",
+          "titre": "Wizards of the Coast union expands, demands company stop pushing generative AI"
+        }
+      ]
+    },
+    {
+      "id": "hackers-steal-millions-of-discord-ids-and-email-addresses-in",
+      "titre": "Hackers steal millions of Discord IDs and email addresses in \"deliberate, multi-stage attack\" on security service Double Counter",
+      "url": "https://www.rockpapershotgun.com/hackers-steal-millions-of-discord-ids-and-email-address-in-deliberate-multi-stage-attack-on-security-service-double-counter",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/hackers-steal-millions-of-discord-ids-and-email-address-in-deliberate-multi-stage-attack-on-security-service-double-counter",
+          "titre": "Hackers steal millions of Discord IDs and email addresses in \"deliberate, multi-stage attack\" on security service Double Counter"
+        }
+      ]
+    },
+    {
+      "id": "the-original-grand-theft-auto-was-open-world-because-we-didn",
+      "titre": "The original Grand Theft Auto was open-world because ‘we didn’t want to have to build a front end’, dev says",
+      "url": "https://www.videogameschronicle.com/news/the-original-grand-theft-auto-was-open-world-because-we-didnt-want-to-have-to-build-a-front-end-dev-says/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-original-grand-theft-auto-was-open-world-because-we-didnt-want-to-have-to-build-a-front-end-dev-says/",
+          "titre": "The original Grand Theft Auto was open-world because ‘we didn’t want to have to build a front end’, dev says"
+        }
+      ]
+    },
+    {
+      "id": "anime-racing-game-screamer-s-latest-ps5-update-lets-you-turn",
+      "titre": "Anime Racing Game Screamer's Latest PS5 Update Lets You Turn Off Its Right Stick Drifting",
+      "url": "https://www.pushsquare.com/news/2026/10/anime-racing-game-screamers-latest-ps5-update-lets-you-turn-off-its-right-stick-drifting",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/anime-racing-game-screamers-latest-ps5-update-lets-you-turn-off-its-right-stick-drifting",
+          "titre": "Anime Racing Game Screamer's Latest PS5 Update Lets You Turn Off Its Right Stick Drifting"
+        }
+      ]
+    },
+    {
+      "id": "electronic-arts-leveraged-buyout-faces-a-bondholder-battle",
+      "titre": "Electronic Arts' leveraged buyout faces a bondholder battle",
+      "url": "https://www.gamedeveloper.com/business/electronic-arts-leveraged-buyout-faces-a-bondholder-battle",
       "sources": [
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 1.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
-          "url": "https://www.gamedeveloper.comlatam.gamescom.global",
-          "titre": "gamescom latam"
+          "url": "https://www.gamedeveloper.com/business/electronic-arts-leveraged-buyout-faces-a-bondholder-battle",
+          "titre": "Electronic Arts' leveraged buyout faces a bondholder battle"
+        }
+      ]
+    },
+    {
+      "id": "opinion-elden-ring-is-one-of-my-favourite-games-that-i-ve-ha",
+      "titre": "Opinion: Elden Ring Is One Of My Favourite Games That I've Hardly Played",
+      "url": "https://www.nintendolife.com/features/opinion-elden-ring-is-one-of-my-favourite-games-that-ive-hardly-played",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/opinion-elden-ring-is-one-of-my-favourite-games-that-ive-hardly-played",
+          "titre": "Opinion: Elden Ring Is One Of My Favourite Games That I've Hardly Played"
+        }
+      ]
+    },
+    {
+      "id": "feature-40-ps5-ps4-games-to-buy-in-the-ps-store-player-s-cho",
+      "titre": "Feature: 40+ PS5, PS4 Games to Buy in the PS Store Player's Choice Sale",
+      "url": "https://www.pushsquare.com/features/40plus-ps5-ps4-games-to-buy-in-the-ps-store-players-choice-sale",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/40plus-ps5-ps4-games-to-buy-in-the-ps-store-players-choice-sale",
+          "titre": "Feature: 40+ PS5, PS4 Games to Buy in the PS Store Player's Choice Sale"
+        }
+      ]
+    },
+    {
+      "id": "i-had-3-hours-with-arc-raiders-frozen-trails-update-and-spen",
+      "titre": "I had 3 hours with Arc Raiders Frozen Trails update and spent most of it playing with the new grapple hook",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/i-had-3-hours-with-arc-raiders-frozen-trails-update-and-spent-most-of-it-playing-with-the-new-grapple-hook/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/i-had-3-hours-with-arc-raiders-frozen-trails-update-and-spent-most-of-it-playing-with-the-new-grapple-hook/",
+          "titre": "I had 3 hours with Arc Raiders Frozen Trails update and spent most of it playing with the new grapple hook"
+        }
+      ]
+    },
+    {
+      "id": "lynchian-noir-mystery-silver-pines-takes-the-best-bits-from",
+      "titre": "Lynchian noir mystery Silver Pines takes the best bits from horror, the middling bits from Metroidvanias, and the worst bits from adventure games",
+      "url": "https://www.rockpapershotgun.com/lynchian-noir-mystery-silver-pines-takes-the-best-bits-from-horror-the-middling-bits-from-metroidvanias-and-the-worst-bits-from-adventure-games",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/lynchian-noir-mystery-silver-pines-takes-the-best-bits-from-horror-the-middling-bits-from-metroidvanias-and-the-worst-bits-from-adventure-games",
+          "titre": "Lynchian noir mystery Silver Pines takes the best bits from horror, the middling bits from Metroidvanias, and the worst bits from adventure games"
+        }
+      ]
+    },
+    {
+      "id": "critical-role-s-latest-d-d-episode-was-so-stressful-i-discov",
+      "titre": "Critical Role's latest D&D episode was so stressful, I discovered a new noise my mouth can make",
+      "url": "https://www.pcgamer.com/movies-tv/critical-roles-latest-d-and-d-episode-was-so-stressful-i-discovered-a-new-noise-my-mouth-can-make/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/critical-roles-latest-d-and-d-episode-was-so-stressful-i-discovered-a-new-noise-my-mouth-can-make/",
+          "titre": "Critical Role's latest D&D episode was so stressful, I discovered a new noise my mouth can make"
+        }
+      ]
+    },
+    {
+      "id": "ps5-fans-think-they-may-have-found-evidence-of-an-enhanced-p",
+      "titre": "PS5 Fans Think They May Have Found Evidence of an Enhanced PS Portal",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-fans-think-they-may-have-found-evidence-of-an-enhanced-ps-portal",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5-fans-think-they-may-have-found-evidence-of-an-enhanced-ps-portal",
+          "titre": "PS5 Fans Think They May Have Found Evidence of an Enhanced PS Portal"
         }
       ]
     },
@@ -497,7 +623,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -515,7 +641,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -533,7 +659,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -551,7 +677,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +695,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -587,7 +713,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
@@ -598,20 +724,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "more-mafia-games-seemingly-getting-native-ps5-ports-likely-6",
-      "titre": "More Mafia Games Seemingly Getting Native PS5 Ports, Likely 60fps",
-      "url": "https://www.pushsquare.com/news/2026/10/more-mafia-games-seemingly-getting-native-ps5-ports-likely-60fps",
+      "id": "more-mafia-games-appear-to-be-getting-native-ps5-ports-likel",
+      "titre": "More Mafia Games Appear to Be Getting Native PS5 Ports, Likely 60fps",
+      "url": "https://www.pushsquare.com/news/2026/10/more-mafia-games-appear-to-be-getting-native-ps5-ports-likely-60fps",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/more-mafia-games-seemingly-getting-native-ps5-ports-likely-60fps",
-          "titre": "More Mafia Games Seemingly Getting Native PS5 Ports, Likely 60fps"
+          "url": "https://www.pushsquare.com/news/2026/10/more-mafia-games-appear-to-be-getting-native-ps5-ports-likely-60fps",
+          "titre": "More Mafia Games Appear to Be Getting Native PS5 Ports, Likely 60fps"
         }
       ]
     },
@@ -623,7 +749,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -641,7 +767,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -659,13 +785,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/free-mafia-3-ps4-game-seemingly-revoked-prices-restored-to-normal",
           "titre": "Free Mafia 3 PS4 Game Seemingly Revoked, Prices Restored to Normal"
+        }
+      ]
+    },
+    {
+      "id": "rumour-more-sources-mount-for-ape-escape-revival-from-ex-son",
+      "titre": "Rumour: More Sources Mount for Ape Escape Revival from Ex-Sonic Mania Devs",
+      "url": "https://www.pushsquare.com/news/2026/10/rumour-more-sources-mount-for-ape-escape-revival-from-ex-sonic-mania-devs",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 3.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/rumour-more-sources-mount-for-ape-escape-revival-from-ex-sonic-mania-devs",
+          "titre": "Rumour: More Sources Mount for Ape Escape Revival from Ex-Sonic Mania Devs"
         }
       ]
     },
@@ -677,7 +821,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -695,103 +839,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/mounting-evidence-says-sony-really-is-accepting-game-pitches-on-fan-fave-franchises",
           "titre": "Mounting Evidence Says Sony Really Is 'Accepting Game Pitches' on Fan Fave Franchises"
-        }
-      ]
-    },
-    {
-      "id": "a-new-way-for-businesses-to-support-and-promote-on-vgc-the-v",
-      "titre": "A new way for businesses to support and promote on VGC: The Video Games Podcast",
-      "url": "https://www.videogameschronicle.com/news/a-new-way-for-businesses-to-support-and-promote-on-vgc-the-video-games-podcast/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/a-new-way-for-businesses-to-support-and-promote-on-vgc-the-video-games-podcast/",
-          "titre": "A new way for businesses to support and promote on VGC: The Video Games Podcast"
-        }
-      ]
-    },
-    {
-      "id": "my-favourite-thing-about-aion-2-the-freedom-to-make-a-freaky",
-      "titre": "My favourite thing about Aion 2? The freedom to make a freaky lil' guy in a world of beautiful people",
-      "url": "https://www.eurogamer.net/aion-2-character-creator-freaky-guy-beautiful-people",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/aion-2-character-creator-freaky-guy-beautiful-people",
-          "titre": "My favourite thing about Aion 2? The freedom to make a freaky lil' guy in a world of beautiful people"
-        }
-      ]
-    },
-    {
-      "id": "your-body-is-foreign-territory-small-town-mystery-puzzler-p",
-      "titre": "\"Your body is foreign territory\": Small-town mystery puzzler Patience is a Virtue explores power and vulnerability by way of a unique conversation system",
-      "url": "https://www.rockpapershotgun.com/your-body-is-foreign-territory-small-town-mystery-puzzler-patience-is-a-virtue-explores-power-and-vulnerability-by-way-of-a-unique-conversation-system",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/your-body-is-foreign-territory-small-town-mystery-puzzler-patience-is-a-virtue-explores-power-and-vulnerability-by-way-of-a-unique-conversation-system",
-          "titre": "\"Your body is foreign territory\": Small-town mystery puzzler Patience is a Virtue explores power and vulnerability by way of a unique conversation system"
-        }
-      ]
-    },
-    {
-      "id": "denuvo-asks-to-subpoena-discord-valve-and-reddit-to-identify",
-      "titre": "Denuvo asks to subpoena Discord, Valve and Reddit to identify hacker it’s suing for cracking its DRM protection",
-      "url": "https://www.videogameschronicle.com/news/denuvo-asks-to-subpoena-discord-valve-and-reddit-to-identify-hacker-who-keeps-cracking-its-drm-protection/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/denuvo-asks-to-subpoena-discord-valve-and-reddit-to-identify-hacker-who-keeps-cracking-its-drm-protection/",
-          "titre": "Denuvo asks to subpoena Discord, Valve and Reddit to identify hacker it’s suing for cracking its DRM protection"
-        }
-      ]
-    },
-    {
-      "id": "2026-is-a-low-key-revolutionary-year-for-player-movement-in",
-      "titre": "2026 is a low-key revolutionary year for player movement in games",
-      "url": "https://www.pcgamer.com/games/2026-is-a-low-key-revolutionary-year-for-player-movement-in-games/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/2026-is-a-low-key-revolutionary-year-for-player-movement-in-games/",
-          "titre": "2026 is a low-key revolutionary year for player movement in games"
         }
       ]
     },
@@ -803,13 +857,61 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/xbox-project-helix-console-family-of-devices-asha-sharma",
           "titre": "Xbox restates plans for next-gen Project Helix to be a \"family of devices\", stressing \"many players will be on the go\""
+        }
+      ]
+    },
+    {
+      "id": "psa-star-wars-galactic-racer-pilots-put-some-points-in-resil",
+      "titre": "PSA: Star Wars Galactic Racer pilots, put some points in resilience before you hit the acid planet",
+      "url": "https://www.pcgamer.com/games/racing/psa-star-wars-galactic-racer-pilots-put-some-points-in-resilience-before-you-hit-the-acid-planet/",
+      "sources": [
+        "GamesIndustry.biz",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 13.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/racing/psa-star-wars-galactic-racer-pilots-put-some-points-in-resilience-before-you-hit-the-acid-planet/",
+          "titre": "PSA: Star Wars Galactic Racer pilots, put some points in resilience before you hit the acid planet"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/star-wars-galactic-racer-launches-on-amazon-luna-as-part-of-prime-subscription",
+          "titre": "Star Wars: Galactic Racer launches on Amazon Luna as part of Prime subscription"
+        }
+      ]
+    },
+    {
+      "id": "sega-responds-to-sonic-s-wild-start-on-discord",
+      "titre": "Sega Responds To Sonic's Wild Start On Discord",
+      "url": "https://www.nintendolife.com/news/2026/10/sega-responds-to-sonics-wild-start-on-discord",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 13.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/sega-responds-to-sonics-wild-start-on-discord",
+          "titre": "Sega Responds To Sonic's Wild Start On Discord"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/sonic-the-hedgehog-official-discord-oh-no",
+          "titre": "\"Keep it family friendly\" - Sega's official Sonic Discord swarmed by 50,000 people in six hours, as understandably strict moderation is put in place"
         }
       ]
     },
@@ -821,7 +923,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.0,
+      "heures": 21.1,
       "chaleur": 6,
       "liens": [
         {
@@ -839,7 +941,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 21.2,
+      "heures": 23.2,
       "chaleur": 6,
       "liens": [
         {
@@ -857,7 +959,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.4,
       "chaleur": 6,
       "liens": [
         {
@@ -875,7 +977,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.7,
+      "heures": 26.7,
       "chaleur": 6,
       "liens": [
         {
@@ -893,7 +995,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.2,
       "chaleur": 5,
       "liens": [
         {
@@ -911,7 +1013,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.2,
       "chaleur": 5,
       "liens": [
         {
@@ -929,7 +1031,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.5,
       "chaleur": 5,
       "liens": [
         {
@@ -947,31 +1049,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/nintendo-life-eshop-selects-september-2026",
           "titre": "Feature: Nintendo Life eShop Selects (September 2026)"
-        }
-      ]
-    },
-    {
-      "id": "some-staff-at-eternal-strands-and-ex-ubisoft-devs-yellow-bri",
-      "titre": "Some staff at Eternal Strands and ex-Ubisoft devs Yellow Brick Games report they've been laid off",
-      "url": "https://www.rockpapershotgun.com/some-staff-at-eternal-strands-and-ex-ubisoft-devs-yellow-brick-games-report-theyve-been-laid-off",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 22.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/some-staff-at-eternal-strands-and-ex-ubisoft-devs-yellow-brick-games-report-theyve-been-laid-off",
-          "titre": "Some staff at Eternal Strands and ex-Ubisoft devs Yellow Brick Games report they've been laid off"
         }
       ]
     },
@@ -983,7 +1067,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.0,
+      "heures": 27.1,
       "chaleur": 5,
       "liens": [
         {
@@ -1001,7 +1085,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.8,
+      "heures": 28.8,
       "chaleur": 5,
       "liens": [
         {
@@ -1012,169 +1096,77 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mini-review-kingdom-hearts-iii-re-mind-dlc-a-fair-switch-2-p",
-      "titre": "Mini Review: KINGDOM HEARTS III + Re Mind (DLC) - A Fair Switch 2 Port Of An Enjoyable 'Conclusion'",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/kingdom-hearts-iii-plus-re-mind-dlc",
+      "id": "a-new-way-for-businesses-to-support-and-promote-on-vgc-the-v",
+      "titre": "A new way for businesses to support and promote on VGC: The Video Games Podcast",
+      "url": "https://www.videogameschronicle.com/news/a-new-way-for-businesses-to-support-and-promote-on-vgc-the-video-games-podcast/",
       "sources": [
-        "Nintendo Life"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 27.4,
-      "chaleur": 5,
+      "heures": 4.4,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/kingdom-hearts-iii-plus-re-mind-dlc",
-          "titre": "Mini Review: KINGDOM HEARTS III + Re Mind (DLC) - A Fair Switch 2 Port Of An Enjoyable 'Conclusion'"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/a-new-way-for-businesses-to-support-and-promote-on-vgc-the-video-games-podcast/",
+          "titre": "A new way for businesses to support and promote on VGC: The Video Games Podcast"
         }
       ]
     },
     {
-      "id": "games-industry-investors-are-sitting-on-the-sidelines-waitin",
-      "titre": "Games industry investors are \"sitting on the sidelines waiting for obvious slam dunks\", says Undead Labs boss, with labour costs a key worry",
-      "url": "https://www.rockpapershotgun.com/games-industry-investors-are-sitting-on-the-sidelines-waiting-for-obvious-slam-dunks-says-undead-labs-boss-with-labour-costs-a-key-worry",
+      "id": "my-favourite-thing-about-aion-2-the-freedom-to-make-a-freaky",
+      "titre": "My favourite thing about Aion 2? The freedom to make a freaky lil' guy in a world of beautiful people",
+      "url": "https://www.eurogamer.net/aion-2-character-creator-freaky-guy-beautiful-people",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/aion-2-character-creator-freaky-guy-beautiful-people",
+          "titre": "My favourite thing about Aion 2? The freedom to make a freaky lil' guy in a world of beautiful people"
+        }
+      ]
+    },
+    {
+      "id": "your-body-is-foreign-territory-small-town-mystery-puzzler-p",
+      "titre": "\"Your body is foreign territory\": Small-town mystery puzzler Patience is a Virtue explores power and vulnerability by way of a unique conversation system",
+      "url": "https://www.rockpapershotgun.com/your-body-is-foreign-territory-small-town-mystery-puzzler-patience-is-a-virtue-explores-power-and-vulnerability-by-way-of-a-unique-conversation-system",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 4.8,
       "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/games-industry-investors-are-sitting-on-the-sidelines-waiting-for-obvious-slam-dunks-says-undead-labs-boss-with-labour-costs-a-key-worry",
-          "titre": "Games industry investors are \"sitting on the sidelines waiting for obvious slam dunks\", says Undead Labs boss, with labour costs a key worry"
+          "url": "https://www.rockpapershotgun.com/your-body-is-foreign-territory-small-town-mystery-puzzler-patience-is-a-virtue-explores-power-and-vulnerability-by-way-of-a-unique-conversation-system",
+          "titre": "\"Your body is foreign territory\": Small-town mystery puzzler Patience is a Virtue explores power and vulnerability by way of a unique conversation system"
         }
       ]
     },
     {
-      "id": "the-pok-mon-fossil-museum-is-heading-to-colorado-in-2027",
-      "titre": "The Pokémon Fossil Museum is heading to Colorado in 2027",
-      "url": "https://www.videogameschronicle.com/news/the-pokemon-fossil-museum-is-heading-to-colorado-in-2027/",
+      "id": "denuvo-asks-to-subpoena-discord-valve-and-reddit-to-identify",
+      "titre": "Denuvo asks to subpoena Discord, Valve and Reddit to identify hacker it’s suing for cracking its DRM protection",
+      "url": "https://www.videogameschronicle.com/news/denuvo-asks-to-subpoena-discord-valve-and-reddit-to-identify-hacker-who-keeps-cracking-its-drm-protection/",
       "sources": [
         "VGC"
-      ],
-      "reprises": 1,
-      "heures": 4.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-pokemon-fossil-museum-is-heading-to-colorado-in-2027/",
-          "titre": "The Pokémon Fossil Museum is heading to Colorado in 2027"
-        }
-      ]
-    },
-    {
-      "id": "forza-horizon-6-studio-acknowledges-to-players-we-haven-t-be",
-      "titre": "Forza Horizon 6 studio acknowledges to players ‘we haven’t been talking with you as much as we could be’",
-      "url": "https://www.videogameschronicle.com/news/forza-horizon-6-studio-acknowledges-to-players-we-havent-been-talking-with-you-as-much-as-we-could-be/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 4.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/forza-horizon-6-studio-acknowledges-to-players-we-havent-been-talking-with-you-as-much-as-we-could-be/",
-          "titre": "Forza Horizon 6 studio acknowledges to players ‘we haven’t been talking with you as much as we could be’"
-        }
-      ]
-    },
-    {
-      "id": "pok-mon-pokopia-s-new-mystery-gift-distribution-is-now-avail",
-      "titre": "Pokémon Pokopia's New Mystery Gift Distribution Is Now Available",
-      "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopias-new-mystery-gift-distribution-is-now-available",
-      "sources": [
-        "Nintendo Life"
       ],
       "reprises": 1,
       "heures": 5.2,
       "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopias-new-mystery-gift-distribution-is-now-available",
-          "titre": "Pokémon Pokopia's New Mystery Gift Distribution Is Now Available"
-        }
-      ]
-    },
-    {
-      "id": "pok-mon-home-firered-leafgreen-compatibility-update-now-live",
-      "titre": "Pokémon HOME FireRed & LeafGreen Compatibility Update Now Live (Version 4.1.0)",
-      "url": "https://www.nintendolife.com/news/2026/10/pokemon-home-firered-and-leafgreen-compatibility-update-now-live-version-4-1-0",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 9.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/pokemon-home-firered-and-leafgreen-compatibility-update-now-live-version-4-1-0",
-          "titre": "Pokémon HOME FireRed & LeafGreen Compatibility Update Now Live (Version 4.1.0)"
-        }
-      ]
-    },
-    {
-      "id": "konami-announces-the-composer-for-castlevania-belmont-s-curs",
-      "titre": "Konami Announces The Composer For Castlevania: Belmont's Curse",
-      "url": "https://www.nintendolife.com/news/2026/10/konami-announces-the-composer-for-castlevania-belmonts-curse",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 12.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/konami-announces-the-composer-for-castlevania-belmonts-curse",
-          "titre": "Konami Announces The Composer For Castlevania: Belmont's Curse"
-        }
-      ]
-    },
-    {
-      "id": "wolverine-ps5-s-controversial-fart-trails-can-now-be-toggled",
-      "titre": "Wolverine PS5's Controversial Fart Trails Can Now Be Toggled in Story Sequences",
-      "url": "https://www.pushsquare.com/news/2026/10/wolverine-ps5s-controversial-fart-trails-can-now-be-toggled-in-story-sequences",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 14.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/wolverine-ps5s-controversial-fart-trails-can-now-be-toggled-in-story-sequences",
-          "titre": "Wolverine PS5's Controversial Fart Trails Can Now Be Toggled in Story Sequences"
-        }
-      ]
-    },
-    {
-      "id": "rotetra-is-tetris-where-the-blocks-fall-from-four-different",
-      "titre": "ROTETRA is Tetris where the blocks fall from four different sides at once and lord almighty I don't have the brainspace to be good at it, but it sure is fun",
-      "url": "https://www.rockpapershotgun.com/rotetra-is-tetris-where-the-blocks-fall-from-four-different-sides-at-once-and-lord-almighty-i-dont-have-the-brainspace-to-be-good-at-it-but-it-sure-is-fun",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 16.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/rotetra-is-tetris-where-the-blocks-fall-from-four-different-sides-at-once-and-lord-almighty-i-dont-have-the-brainspace-to-be-good-at-it-but-it-sure-is-fun",
-          "titre": "ROTETRA is Tetris where the blocks fall from four different sides at once and lord almighty I don't have the brainspace to be good at it, but it sure is fun"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/denuvo-asks-to-subpoena-discord-valve-and-reddit-to-identify-hacker-who-keeps-cracking-its-drm-protection/",
+          "titre": "Denuvo asks to subpoena Discord, Valve and Reddit to identify hacker it’s suing for cracking its DRM protection"
         }
       ]
     }
   ],
-  "alertes": [
-    "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't"
-  ]
+  "alertes": []
 };
