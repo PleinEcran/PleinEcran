@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "06/10/2026 à 22h21",
+  "collecte": "07/10/2026 à 00h33",
   "seuil": 14,
   "sujets": [
     {
@@ -14,8 +14,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 4,
-      "heures": 11.1,
-      "chaleur": 13,
+      "heures": 13.3,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Push Square",
@@ -48,7 +48,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.0,
+      "heures": 11.2,
       "chaleur": 11,
       "liens": [
         {
@@ -72,7 +72,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.1,
+      "heures": 7.3,
       "chaleur": 10,
       "liens": [
         {
@@ -96,7 +96,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 7.4,
+      "heures": 9.6,
       "chaleur": 10,
       "liens": [
         {
@@ -121,7 +121,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 7.4,
+      "heures": 9.6,
       "chaleur": 10,
       "liens": [
         {
@@ -150,7 +150,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 8.6,
+      "heures": 10.8,
       "chaleur": 10,
       "liens": [
         {
@@ -166,24 +166,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "cancelled-mmo-spin-off-borderlands-online-is-playable-once-a",
-      "titre": "Cancelled MMO spin-off Borderlands Online is playable once again, and the team behind the unofficial project thankfully didn't use any genAI to get it running",
-      "url": "https://www.rockpapershotgun.com/cancelled-mmo-spin-off-borderlands-online-is-playable-once-again-and-the-team-behind-the-unofficial-project-thankfully-didnt-use-any-genai-to-get-it-running",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cancelled-mmo-spin-off-borderlands-online-is-playable-once-again-and-the-team-behind-the-unofficial-project-thankfully-didnt-use-any-genai-to-get-it-running",
-          "titre": "Cancelled MMO spin-off Borderlands Online is playable once again, and the team behind the unofficial project thankfully didn't use any genAI to get it running"
-        }
-      ]
-    },
-    {
       "id": "warhammer-s-take-on-vampire-survivors-will-eat-our-free-time",
       "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month",
       "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
@@ -192,7 +174,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 6.6,
+      "heures": 8.8,
       "chaleur": 9,
       "liens": [
         {
@@ -216,7 +198,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 12.3,
+      "heures": 14.5,
       "chaleur": 9,
       "liens": [
         {
@@ -232,20 +214,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gamestop-other-retailers-to-sell-used-playstation-5-pro-unit",
-      "titre": "GameStop, other retailers to sell used PlayStation 5 Pro units for 66 percent over MSRP",
-      "url": "https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp",
+      "id": "eb-games-is-opening-north-america-s-first-ever-nintendo-stor",
+      "titre": "EB Games Is Opening North America's First-Ever Nintendo \"Store-Within-A-Store\" Experience",
+      "url": "https://www.nintendolife.com/news/2026/10/eb-games-is-opening-north-americas-first-ever-nintendo-store-within-a-store-experience",
       "sources": [
-        "Game Developer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.5,
+      "heures": 0.3,
       "chaleur": 8,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp",
-          "titre": "GameStop, other retailers to sell used PlayStation 5 Pro units for 66 percent over MSRP"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/eb-games-is-opening-north-americas-first-ever-nintendo-store-within-a-store-experience",
+          "titre": "EB Games Is Opening North America's First-Ever Nintendo \"Store-Within-A-Store\" Experience"
+        }
+      ]
+    },
+    {
+      "id": "cancelled-mmo-spin-off-borderlands-online-is-playable-once-a",
+      "titre": "Cancelled MMO spin-off Borderlands Online is playable once again, and the team behind the unofficial project thankfully didn't use any genAI to get it running",
+      "url": "https://www.rockpapershotgun.com/cancelled-mmo-spin-off-borderlands-online-is-playable-once-again-and-the-team-behind-the-unofficial-project-thankfully-didnt-use-any-genai-to-get-it-running",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/cancelled-mmo-spin-off-borderlands-online-is-playable-once-again-and-the-team-behind-the-unofficial-project-thankfully-didnt-use-any-genai-to-get-it-running",
+          "titre": "Cancelled MMO spin-off Borderlands Online is playable once again, and the team behind the unofficial project thankfully didn't use any genAI to get it running"
         }
       ]
     },
@@ -258,7 +258,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.4,
+      "heures": 7.6,
       "chaleur": 7,
       "liens": [
         {
@@ -281,37 +281,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.6,
       "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/ive-added-scams-to-gta-5-but-i-might-have-scammed-myself/",
           "titre": "I've added scams to GTA 5, but I might have scammed myself"
-        }
-      ]
-    },
-    {
-      "id": "jagex-pull-runescape-trailer-and-apologise-for-genai-use-aft",
-      "titre": "Jagex pull Runescape trailer and apologise for genAI use after complaints about six-fingered knights, pinning the blame on a \"trusted external partner\"",
-      "url": "https://www.rockpapershotgun.com/jagex-pull-runescape-trailer-and-apologise-for-genai-use-after-complaints-about-six-fingered-knights-pinning-the-blame-on-a-trusted-external-partner",
-      "sources": [
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 5.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/jagex-pull-runescape-trailer-and-apologise-for-genai-use-after-complaints-about-six-fingered-knights-pinning-the-blame-on-a-trusted-external-partner",
-          "titre": "Jagex pull Runescape trailer and apologise for genAI use after complaints about six-fingered knights, pinning the blame on a \"trusted external partner\""
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
-          "titre": "Jagex responds to use of generative AI in RuneScape trailer made by \"trusted external partner\""
         }
       ]
     },
@@ -324,7 +300,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 6.4,
+      "heures": 8.6,
       "chaleur": 7,
       "liens": [
         {
@@ -347,7 +323,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.8,
       "chaleur": 7,
       "liens": [
         {
@@ -365,7 +341,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 29.6,
+      "heures": 31.8,
       "chaleur": 7,
       "liens": [
         {
@@ -502,6 +478,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "wolverine-ps5-s-controversial-fart-trails-can-now-be-toggled",
+      "titre": "Wolverine PS5's Controversial Fart Trails Can Now Be Toggled in Story Sequences",
+      "url": "https://www.pushsquare.com/news/2026/10/wolverine-ps5s-controversial-fart-trails-can-now-be-toggled-in-story-sequences",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/wolverine-ps5s-controversial-fart-trails-can-now-be-toggled-in-story-sequences",
+          "titre": "Wolverine PS5's Controversial Fart Trails Can Now Be Toggled in Story Sequences"
+        }
+      ]
+    },
+    {
+      "id": "free-ps4-games-seemingly-pulled-in-europe-after-being-availa",
+      "titre": "Free PS4 Games Seemingly Pulled in Europe, After Being Available with No PS Plus Required",
+      "url": "https://www.pushsquare.com/news/2026/10/free-ps4-games-seemingly-pulled-in-europe-after-being-available-with-no-ps-plus-required",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/free-ps4-games-seemingly-pulled-in-europe-after-being-available-with-no-ps-plus-required",
+          "titre": "Free PS4 Games Seemingly Pulled in Europe, After Being Available with No PS Plus Required"
+        }
+      ]
+    },
+    {
       "id": "october-2026-ps-plus-essential-games-available-to-download-n",
       "titre": "October 2026 PS Plus Essential Games Available to Download Now",
       "url": "https://www.pushsquare.com/news/2026/10/october-2026-ps-plus-essential-games-available-to-download-now",
@@ -509,7 +521,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -527,7 +539,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -545,7 +557,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
@@ -563,7 +575,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
@@ -574,38 +586,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "you-and-i-both-know-you-re-not-sleeping-well-in-this-economy",
-      "titre": "You and I both know you're not sleeping well in this economy, so have a gander at Sheeps, a roguelite about counting sheep pouring out of a strange portal",
-      "url": "https://www.rockpapershotgun.com/you-and-i-both-know-youre-not-sleeping-well-in-this-economy-so-have-a-gander-at-sheeps-a-roguelite-about-counting-sheep-pouring-out-of-a-strange-portal",
+      "id": "gamestop-other-retailers-to-sell-used-playstation-5-pro-unit",
+      "titre": "GameStop, other retailers to sell used PlayStation 5 Pro units for 66 percent over MSRP",
+      "url": "https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp",
       "sources": [
-        "Rock Paper Shotgun"
+        "Game Developer"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 5.6,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/you-and-i-both-know-youre-not-sleeping-well-in-this-economy-so-have-a-gander-at-sheeps-a-roguelite-about-counting-sheep-pouring-out-of-a-strange-portal",
-          "titre": "You and I both know you're not sleeping well in this economy, so have a gander at Sheeps, a roguelite about counting sheep pouring out of a strange portal"
-        }
-      ]
-    },
-    {
-      "id": "the-pc-gamer-mysteries-case-1-a-slice-of-death-why-is-there",
-      "titre": "The PC Gamer Mysteries, Case #1: \"A Slice of Death\": Why is there a dead golfer hidden in Golden Tee '99?",
-      "url": "https://www.pcgamer.com/games/sports/the-pc-gamer-mysteries-case-1-a-slice-of-death-why-is-there-a-dead-golfer-hidden-in-golden-tee-99/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sports/the-pc-gamer-mysteries-case-1-a-slice-of-death-why-is-there-a-dead-golfer-hidden-in-golden-tee-99/",
-          "titre": "The PC Gamer Mysteries, Case #1: \"A Slice of Death\": Why is there a dead golfer hidden in Golden Tee '99?"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp",
+          "titre": "GameStop, other retailers to sell used PlayStation 5 Pro units for 66 percent over MSRP"
         }
       ]
     },
@@ -617,7 +611,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.6,
       "chaleur": 6,
       "liens": [
         {
@@ -635,49 +629,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/some-staff-at-eternal-strands-and-ex-ubisoft-devs-yellow-brick-games-report-theyve-been-laid-off",
           "titre": "Some staff at Eternal Strands and ex-Ubisoft devs Yellow Brick Games report they've been laid off"
-        }
-      ]
-    },
-    {
-      "id": "gears-of-war-e-day-studio-finds-a-way-to-get-more-performanc",
-      "titre": "Gears of War: E-Day studio finds a way to get more performance from Xbox Series S - one that other Xbox games could probably use",
-      "url": "https://www.eurogamer.net/xbox-series-s-more-power-gears-of-war-e-day-ssd",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-series-s-more-power-gears-of-war-e-day-ssd",
-          "titre": "Gears of War: E-Day studio finds a way to get more performance from Xbox Series S - one that other Xbox games could probably use"
-        }
-      ]
-    },
-    {
-      "id": "mini-review-kingdom-hearts-iii-re-mind-dlc-a-fair-switch-2-p",
-      "titre": "Mini Review: KINGDOM HEARTS III + Re Mind (DLC) - A Fair Switch 2 Port Of An Enjoyable 'Conclusion'",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/kingdom-hearts-iii-plus-re-mind-dlc",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/kingdom-hearts-iii-plus-re-mind-dlc",
-          "titre": "Mini Review: KINGDOM HEARTS III + Re Mind (DLC) - A Fair Switch 2 Port Of An Enjoyable 'Conclusion'"
         }
       ]
     },
@@ -689,7 +647,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.5,
       "chaleur": 6,
       "liens": [
         {
@@ -707,7 +665,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.6,
       "chaleur": 6,
       "liens": [
         {
@@ -725,7 +683,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.7,
+      "heures": 25.9,
       "chaleur": 6,
       "liens": [
         {
@@ -743,7 +701,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.1,
+      "heures": 28.3,
       "chaleur": 6,
       "liens": [
         {
@@ -761,7 +719,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.5,
+      "heures": 29.6,
       "chaleur": 6,
       "liens": [
         {
@@ -779,7 +737,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.6,
+      "heures": 32.8,
       "chaleur": 6,
       "liens": [
         {
@@ -797,13 +755,49 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.4,
+      "heures": 33.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
           "titre": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events"
+        }
+      ]
+    },
+    {
+      "id": "gears-of-war-e-day-studio-finds-a-way-to-get-more-performanc",
+      "titre": "Gears of War: E-Day studio finds a way to get more performance from Xbox Series S - one that other Xbox games could probably use",
+      "url": "https://www.eurogamer.net/xbox-series-s-more-power-gears-of-war-e-day-ssd",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 12.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-series-s-more-power-gears-of-war-e-day-ssd",
+          "titre": "Gears of War: E-Day studio finds a way to get more performance from Xbox Series S - one that other Xbox games could probably use"
+        }
+      ]
+    },
+    {
+      "id": "mini-review-kingdom-hearts-iii-re-mind-dlc-a-fair-switch-2-p",
+      "titre": "Mini Review: KINGDOM HEARTS III + Re Mind (DLC) - A Fair Switch 2 Port Of An Enjoyable 'Conclusion'",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/kingdom-hearts-iii-plus-re-mind-dlc",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.6,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/kingdom-hearts-iii-plus-re-mind-dlc",
+          "titre": "Mini Review: KINGDOM HEARTS III + Re Mind (DLC) - A Fair Switch 2 Port Of An Enjoyable 'Conclusion'"
         }
       ]
     },
@@ -815,7 +809,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -833,7 +827,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.6,
       "chaleur": 5,
       "liens": [
         {
@@ -851,7 +845,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.6,
       "chaleur": 5,
       "liens": [
         {
@@ -869,7 +863,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.6,
       "chaleur": 5,
       "liens": [
         {
@@ -887,13 +881,49 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.9,
+      "heures": 32.1,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/i-wanted-to-challenge-myself-former-warioware-director-talks-life-after-nintendo",
           "titre": "\"I Wanted To Challenge Myself\" - Former WarioWare Director Talks Life After Nintendo"
+        }
+      ]
+    },
+    {
+      "id": "you-and-i-both-know-you-re-not-sleeping-well-in-this-economy",
+      "titre": "You and I both know you're not sleeping well in this economy, so have a gander at Sheeps, a roguelite about counting sheep pouring out of a strange portal",
+      "url": "https://www.rockpapershotgun.com/you-and-i-both-know-youre-not-sleeping-well-in-this-economy-so-have-a-gander-at-sheeps-a-roguelite-about-counting-sheep-pouring-out-of-a-strange-portal",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/you-and-i-both-know-youre-not-sleeping-well-in-this-economy-so-have-a-gander-at-sheeps-a-roguelite-about-counting-sheep-pouring-out-of-a-strange-portal",
+          "titre": "You and I both know you're not sleeping well in this economy, so have a gander at Sheeps, a roguelite about counting sheep pouring out of a strange portal"
+        }
+      ]
+    },
+    {
+      "id": "the-pc-gamer-mysteries-case-1-a-slice-of-death-why-is-there",
+      "titre": "The PC Gamer Mysteries, Case #1: \"A Slice of Death\": Why is there a dead golfer hidden in Golden Tee '99?",
+      "url": "https://www.pcgamer.com/games/sports/the-pc-gamer-mysteries-case-1-a-slice-of-death-why-is-there-a-dead-golfer-hidden-in-golden-tee-99/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sports/the-pc-gamer-mysteries-case-1-a-slice-of-death-why-is-there-a-dead-golfer-hidden-in-golden-tee-99/",
+          "titre": "The PC Gamer Mysteries, Case #1: \"A Slice of Death\": Why is there a dead golfer hidden in Golden Tee '99?"
         }
       ]
     },
@@ -905,7 +935,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +971,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +989,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +1007,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +1025,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,13 +1043,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/rumour-watch-dogs-legion-to-receive-surprise-ps5-remake-next-year",
           "titre": "Rumour: Watch Dogs Legion to Receive Surprise PS5 Remake Next Year"
+        }
+      ]
+    },
+    {
+      "id": "jagex-pull-runescape-trailer-and-apologise-for-genai-use-aft",
+      "titre": "Jagex pull Runescape trailer and apologise for genAI use after complaints about six-fingered knights, pinning the blame on a \"trusted external partner\"",
+      "url": "https://www.rockpapershotgun.com/jagex-pull-runescape-trailer-and-apologise-for-genai-use-after-complaints-about-six-fingered-knights-pinning-the-blame-on-a-trusted-external-partner",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 8.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/jagex-pull-runescape-trailer-and-apologise-for-genai-use-after-complaints-about-six-fingered-knights-pinning-the-blame-on-a-trusted-external-partner",
+          "titre": "Jagex pull Runescape trailer and apologise for genAI use after complaints about six-fingered knights, pinning the blame on a \"trusted external partner\""
         }
       ]
     },
@@ -1031,7 +1079,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1049,7 +1097,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1067,7 +1115,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1085,7 +1133,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1103,67 +1151,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/bullet-heaven-battler-warhammer-survivors-arrives-in-november-with-a-new-demo-out-now-to-whet-your-appetite-for-destruction",
           "titre": "Bullet heaven battler Warhammer Survivors arrives in November, with a new demo out now to whet your appetite for destruction"
-        }
-      ]
-    },
-    {
-      "id": "horrible-day-to-be-a-shion-main-overwatch-fans-aren-t-happy",
-      "titre": "\"Horrible day to be a Shion main\" - Overwatch fans aren't happy about five new China-exclusive skins not coming to the rest of the world",
-      "url": "https://www.eurogamer.net/overwatch-defiled-anthem-china-skins",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/overwatch-defiled-anthem-china-skins",
-          "titre": "\"Horrible day to be a Shion main\" - Overwatch fans aren't happy about five new China-exclusive skins not coming to the rest of the world"
-        }
-      ]
-    },
-    {
-      "id": "sonic-team-s-takashi-iizuka-dismisses-the-apparent-inevitabi",
-      "titre": "Sonic Team's Takashi Iizuka dismisses the apparent inevitability of remakes, saying \"you’re essentially providing the same experience again\"",
-      "url": "https://www.rockpapershotgun.com/sonic-teams-takashi-iizuka-dismisses-the-apparent-inevitability-of-remakes-saying-youre-essentially-providing-the-same-experience-again",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 7.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/sonic-teams-takashi-iizuka-dismisses-the-apparent-inevitability-of-remakes-saying-youre-essentially-providing-the-same-experience-again",
-          "titre": "Sonic Team's Takashi Iizuka dismisses the apparent inevitability of remakes, saying \"you’re essentially providing the same experience again\""
-        }
-      ]
-    },
-    {
-      "id": "co-dev-case-study-how-blackbird-interactive-and-secret-mode",
-      "titre": "Co-dev case study: How Blackbird Interactive and Secret Mode helped Escape the Backrooms ride the Backrooms hype wave",
-      "url": "https://www.gamedeveloper.com/production/co-dev-case-study-how-blackbird-interactive-and-secret-mode-helped-escape-the-backrooms-ride-the-backrooms-hype-wave",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 7.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production/co-dev-case-study-how-blackbird-interactive-and-secret-mode-helped-escape-the-backrooms-ride-the-backrooms-hype-wave",
-          "titre": "Co-dev case study: How Blackbird Interactive and Secret Mode helped Escape the Backrooms ride the Backrooms hype wave"
         }
       ]
     }
