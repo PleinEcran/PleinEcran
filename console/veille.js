@@ -1,8 +1,44 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "07/10/2026 à 18h27",
+  "collecte": "07/10/2026 à 20h23",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "star-wars-zero-company-developer-bit-reactor-begins-bringing",
+      "titre": "Star Wars Zero Company developer Bit Reactor begins bringing furloughed staff back",
+      "url": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back",
+      "sources": [
+        "Eurogamer",
+        "Game Developer",
+        "GamesIndustry.biz",
+        "VGC"
+      ],
+      "reprises": 4,
+      "heures": 0.7,
+      "chaleur": 15,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back",
+          "titre": "Star Wars Zero Company developer Bit Reactor begins bringing furloughed staff back"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/star-wars-zero-company-bringing-back-furloughed-staff",
+          "titre": "Star Wars: Zero Company studio is bringing \"as many people back as possible\" after furloughing \"most\" of its developers"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/star-wars-zero-company-staff-returning-to-work-after-being-furloughed-pre-release/",
+          "titre": "Star Wars Zero Company staff ‘returning to work’ after being furloughed pre-release"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/star-wars-zero-company-developer-bit-reactor-brings-back-over-half-of-furloughed-staff",
+          "titre": "Star Wars Zero Company developer Bit Reactor brings back 'over half' of furloughed staff"
+        }
+      ]
+    },
     {
       "id": "confusion-as-erroneous-reports-claim-xbox-has-exclusive-gta",
       "titre": "Confusion as Erroneous Reports Claim Xbox Has Exclusive GTA 6 Cloud Streaming Rights",
@@ -13,7 +49,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 6.5,
+      "heures": 8.4,
       "chaleur": 15,
       "liens": [
         {
@@ -43,7 +79,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 5.1,
+      "heures": 7.0,
       "chaleur": 14,
       "liens": [
         {
@@ -72,7 +108,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 7.5,
+      "heures": 9.4,
       "chaleur": 14,
       "liens": [
         {
@@ -88,26 +124,50 @@ const VEILLE = {
       ]
     },
     {
-      "id": "here-are-our-xbox-game-pass-games-for-october-2026",
-      "titre": "Here are our Xbox Game Pass games for October 2026",
-      "url": "https://www.eurogamer.net/xbox-game-pass-lineup-october-2026",
+      "id": "sony-is-reportedly-plotting-to-revive-classic-playstation-ga",
+      "titre": "Sony is reportedly plotting to revive classic PlayStation games, starting with a new Ape Escape from the developers behind Sonic Mania",
+      "url": "https://www.eurogamer.net/sony-classic-playstation-games-ape-escape-sonic-mania",
       "sources": [
         "Eurogamer",
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.5,
-      "chaleur": 11,
+      "heures": 1.9,
+      "chaleur": 13,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-game-pass-lineup-october-2026",
-          "titre": "Here are our Xbox Game Pass games for October 2026"
+          "url": "https://www.eurogamer.net/sony-classic-playstation-games-ape-escape-sonic-mania",
+          "titre": "Sony is reportedly plotting to revive classic PlayStation games, starting with a new Ape Escape from the developers behind Sonic Mania"
         },
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/october-2026-ps-plus-essential-games-available-to-download-now",
-          "titre": "October 2026 PS Plus Essential Games Available to Download Now"
+          "url": "https://www.pushsquare.com/news/2026/10/rumour-more-sources-mount-for-ape-escape-revival-from-ex-sonic-mania-devs",
+          "titre": "Rumour: More Sources Mount for Ape Escape Revival from Ex-Sonic Mania Devs"
+        }
+      ]
+    },
+    {
+      "id": "discord-protection-bot-double-counter-hit-by-breach-exposing",
+      "titre": "Discord protection bot Double Counter hit by breach exposing around 1 million email addresses",
+      "url": "https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses",
+      "sources": [
+        "GamesIndustry.biz",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 1.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses",
+          "titre": "Discord protection bot Double Counter hit by breach exposing around 1 million email addresses"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/hackers-steal-millions-of-discord-ids-and-email-address-in-deliberate-multi-stage-attack-on-security-service-double-counter",
+          "titre": "Hackers steal millions of Discord IDs and email addresses in \"deliberate, multi-stage attack\" on security service Double Counter"
         }
       ]
     },
@@ -120,7 +180,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.9,
+      "heures": 3.8,
       "chaleur": 9,
       "liens": [
         {
@@ -143,7 +203,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.4,
       "chaleur": 9,
       "liens": [
         {
@@ -162,7 +222,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 5.5,
+      "heures": 7.4,
       "chaleur": 9,
       "liens": [
         {
@@ -185,7 +245,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.0,
       "chaleur": 9,
       "liens": [
         {
@@ -196,26 +256,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "round-up-the-final-previews-for-nintendo-switch-sports-resor",
-      "titre": "Round Up: The Final Previews For Nintendo Switch Sports Resort Are In",
-      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-final-previews-for-nintendo-switch-sports-resort-are-in",
+      "id": "steam-is-about-to-start-getting-some-of-the-best-japanese-pi",
+      "titre": "Steam is about to start getting some of the best Japanese pixel art in gaming history",
+      "url": "https://www.pcgamer.com/games/adventure/steam-is-about-to-start-getting-some-of-the-best-japanese-pixel-art-in-gaming-history/",
       "sources": [
-        "Eurogamer",
-        "Nintendo Life"
+        "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 27.5,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-final-previews-for-nintendo-switch-sports-resort-are-in",
-          "titre": "Round Up: The Final Previews For Nintendo Switch Sports Resort Are In"
-        },
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/adventure/steam-is-about-to-start-getting-some-of-the-best-japanese-pixel-art-in-gaming-history/",
+          "titre": "Steam is about to start getting some of the best Japanese pixel art in gaming history"
+        }
+      ]
+    },
+    {
+      "id": "here-are-our-xbox-game-pass-games-for-october-2026",
+      "titre": "Here are our Xbox Game Pass games for October 2026",
+      "url": "https://www.eurogamer.net/xbox-game-pass-lineup-october-2026",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 3.5,
+      "chaleur": 8,
+      "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nintendo-switch-sports-resort-gamescom-preview",
-          "titre": "I spent an hour playing Switch Sports Resort and my favourite mini-game involves the Switch 2's least-loved gimmick: mouse controls"
+          "url": "https://www.eurogamer.net/xbox-game-pass-lineup-october-2026",
+          "titre": "Here are our Xbox Game Pass games for October 2026"
         }
       ]
     },
@@ -227,31 +299,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 3.9,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/cities-skylines-is-building-an-expanded-edition-on-switch-2-this-month",
           "titre": "Cities: Skylines Is Building An 'Expanded Edition' On Switch 2 This Month"
-        }
-      ]
-    },
-    {
-      "id": "for-a-moment-it-looked-like-grand-theft-auto-6-might-be-play",
-      "titre": "For a moment it looked like Grand Theft Auto 6 might be playable on PC on launch day—then Xbox's chief strategy officer crashed the party",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/for-a-moment-it-looked-like-grand-theft-auto-6-might-be-playable-on-pc-on-launch-day-then-xboxs-chief-strategy-officer-crashed-the-party/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/for-a-moment-it-looked-like-grand-theft-auto-6-might-be-playable-on-pc-on-launch-day-then-xboxs-chief-strategy-officer-crashed-the-party/",
-          "titre": "For a moment it looked like Grand Theft Auto 6 might be playable on PC on launch day—then Xbox's chief strategy officer crashed the party"
         }
       ]
     },
@@ -263,7 +317,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 7,
       "liens": [
         {
@@ -275,20 +329,20 @@ const VEILLE = {
     },
     {
       "id": "unity-unveils-unity-spark-an-prompt-based-tool-for-google-s",
-      "titre": "Unity unveils Unity Spark, an prompt-based tool for Google's AI games platform",
+      "titre": "Unity unveils Unity Spark, an prompt-based tool for Google's AI game platform",
       "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
       "sources": [
         "Game Developer",
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 6.4,
+      "heures": 8.3,
       "chaleur": 7,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
-          "titre": "Unity unveils Unity Spark, an prompt-based tool for Google's AI games platform"
+          "titre": "Unity unveils Unity Spark, an prompt-based tool for Google's AI game platform"
         },
         {
           "source": "GamesIndustry.biz",
@@ -306,7 +360,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.2,
+      "heures": 9.1,
       "chaleur": 7,
       "liens": [
         {
@@ -318,24 +372,6 @@ const VEILLE = {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/resident-evil-requiem-writer-lets-slip-a-major-detail-about-the-upcoming-dlc/",
           "titre": "Resident Evil Requiem writer lets slip a major detail about the upcoming DLC"
-        }
-      ]
-    },
-    {
-      "id": "gamestop-hikes-used-ps5-pro-price-to-1400-as-gta-6-demand-lo",
-      "titre": "GameStop hikes used PS5 Pro price to $1400 as GTA 6 demand looms",
-      "url": "https://www.videogameschronicle.com/news/gamestop-hikes-used-ps5-pro-price-to-1400-as-gta-6-demand-looms/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/gamestop-hikes-used-ps5-pro-price-to-1400-as-gta-6-demand-looms/",
-          "titre": "GameStop hikes used PS5 Pro price to $1400 as GTA 6 demand looms"
         }
       ]
     },
@@ -412,20 +448,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "star-wars-zero-company-developer-bit-reactor-brings-back-ove",
-      "titre": "Star Wars Zero Company developer Bit Reactor brings back 'over half' of furloughed staff",
-      "url": "https://www.gamedeveloper.com/business/star-wars-zero-company-developer-bit-reactor-brings-back-over-half-of-furloughed-staff",
+      "id": "nivalis-nights-review-an-avalanche-of-fascinating-characters",
+      "titre": "Nivalis Nights review: An avalanche of fascinating characters carrying a decent shop sim on their backs.",
+      "url": "https://www.pcgamer.com/games/life-sim/nivalis-nights-review/",
       "sources": [
-        "Game Developer"
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/life-sim/nivalis-nights-review/",
+          "titre": "Nivalis Nights review: An avalanche of fascinating characters carrying a decent shop sim on their backs."
+        }
+      ]
+    },
+    {
+      "id": "what-if-resident-evil-had-debuted-on-snes-dead-of-darkness-2",
+      "titre": "What if Resident Evil Had Debuted on SNES? Dead of Darkness 2 Has the Answer on PS5",
+      "url": "https://www.pushsquare.com/news/2026/10/what-if-resident-evil-had-debuted-on-snes-dead-of-darkness-2-has-the-answer-on-ps5",
+      "sources": [
+        "Push Square"
       ],
       "reprises": 1,
       "heures": 0.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/star-wars-zero-company-developer-bit-reactor-brings-back-over-half-of-furloughed-staff",
-          "titre": "Star Wars Zero Company developer Bit Reactor brings back 'over half' of furloughed staff"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/what-if-resident-evil-had-debuted-on-snes-dead-of-darkness-2-has-the-answer-on-ps5",
+          "titre": "What if Resident Evil Had Debuted on SNES? Dead of Darkness 2 Has the Answer on PS5"
+        }
+      ]
+    },
+    {
+      "id": "we-tried-to-earn-as-much-gold-in-wow-forever-as-we-could-in",
+      "titre": "We tried to earn as much gold in WoW: Forever as we could in 2 hours—which involved a mugging, slander, and at least one crashout",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/we-tried-to-earn-as-much-gold-in-wow-forever-as-we-could-in-2-hours-which-involved-a-mugging-slander-and-at-least-one-crashout/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/we-tried-to-earn-as-much-gold-in-wow-forever-as-we-could-in-2-hours-which-involved-a-mugging-slander-and-at-least-one-crashout/",
+          "titre": "We tried to earn as much gold in WoW: Forever as we could in 2 hours—which involved a mugging, slander, and at least one crashout"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-drops-the-pvp-grind-so-normal-peop",
+      "titre": "World of Warcraft: Forever drops the PvP grind so normal people can have fancy titles too",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-drops-the-pvp-grind-so-normal-people-can-have-fancy-titles-too/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-drops-the-pvp-grind-so-normal-people-can-have-fancy-titles-too/",
+          "titre": "World of Warcraft: Forever drops the PvP grind so normal people can have fancy titles too"
+        }
+      ]
+    },
+    {
+      "id": "skate-has-been-de-live-serviced-by-reskate-a-modding-platfor",
+      "titre": "Skate has been de-live serviced by ReSkate, a modding platform downloaded 350,000 times—devs say they will comply if EA's lawyers come knocking",
+      "url": "https://www.pcgamer.com/games/sports/reskate-modding-platform-released/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sports/reskate-modding-platform-released/",
+          "titre": "Skate has been de-live serviced by ReSkate, a modding platform downloaded 350,000 times—devs say they will comply if EA's lawyers come knocking"
         }
       ]
     },
@@ -437,7 +545,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -455,7 +563,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -473,7 +581,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -491,7 +599,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -509,7 +617,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -527,7 +635,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -538,218 +646,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "anime-racer-screamer-no-longer-demands-you-retrain-your-fing",
-      "titre": "Anime racer Screamer no longer demands you retrain your fingers, with a fresh patch adding single stick drift controls",
-      "url": "https://www.rockpapershotgun.com/anime-racer-screamer-no-longer-demands-you-retrain-your-fingers-with-a-fresh-patch-adding-single-stick-drift-controls",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/anime-racer-screamer-no-longer-demands-you-retrain-your-fingers-with-a-fresh-patch-adding-single-stick-drift-controls",
-          "titre": "Anime racer Screamer no longer demands you retrain your fingers, with a fresh patch adding single stick drift controls"
-        }
-      ]
-    },
-    {
-      "id": "wizards-of-the-coast-union-expands-demands-company-stop-push",
-      "titre": "Wizards of the Coast union expands, demands company stop pushing generative AI",
-      "url": "https://www.gamesindustry.biz/wizards-of-the-coast-union-expands-demands-company-stop-pushing-generative-ai",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/wizards-of-the-coast-union-expands-demands-company-stop-pushing-generative-ai",
-          "titre": "Wizards of the Coast union expands, demands company stop pushing generative AI"
-        }
-      ]
-    },
-    {
-      "id": "hackers-steal-millions-of-discord-ids-and-email-addresses-in",
-      "titre": "Hackers steal millions of Discord IDs and email addresses in \"deliberate, multi-stage attack\" on security service Double Counter",
-      "url": "https://www.rockpapershotgun.com/hackers-steal-millions-of-discord-ids-and-email-address-in-deliberate-multi-stage-attack-on-security-service-double-counter",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/hackers-steal-millions-of-discord-ids-and-email-address-in-deliberate-multi-stage-attack-on-security-service-double-counter",
-          "titre": "Hackers steal millions of Discord IDs and email addresses in \"deliberate, multi-stage attack\" on security service Double Counter"
-        }
-      ]
-    },
-    {
-      "id": "the-original-grand-theft-auto-was-open-world-because-we-didn",
-      "titre": "The original Grand Theft Auto was open-world because ‘we didn’t want to have to build a front end’, dev says",
-      "url": "https://www.videogameschronicle.com/news/the-original-grand-theft-auto-was-open-world-because-we-didnt-want-to-have-to-build-a-front-end-dev-says/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-original-grand-theft-auto-was-open-world-because-we-didnt-want-to-have-to-build-a-front-end-dev-says/",
-          "titre": "The original Grand Theft Auto was open-world because ‘we didn’t want to have to build a front end’, dev says"
-        }
-      ]
-    },
-    {
-      "id": "anime-racing-game-screamer-s-latest-ps5-update-lets-you-turn",
-      "titre": "Anime Racing Game Screamer's Latest PS5 Update Lets You Turn Off Its Right Stick Drifting",
-      "url": "https://www.pushsquare.com/news/2026/10/anime-racing-game-screamers-latest-ps5-update-lets-you-turn-off-its-right-stick-drifting",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/anime-racing-game-screamers-latest-ps5-update-lets-you-turn-off-its-right-stick-drifting",
-          "titre": "Anime Racing Game Screamer's Latest PS5 Update Lets You Turn Off Its Right Stick Drifting"
-        }
-      ]
-    },
-    {
-      "id": "electronic-arts-leveraged-buyout-faces-a-bondholder-battle",
-      "titre": "Electronic Arts' leveraged buyout faces a bondholder battle",
-      "url": "https://www.gamedeveloper.com/business/electronic-arts-leveraged-buyout-faces-a-bondholder-battle",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/electronic-arts-leveraged-buyout-faces-a-bondholder-battle",
-          "titre": "Electronic Arts' leveraged buyout faces a bondholder battle"
-        }
-      ]
-    },
-    {
-      "id": "opinion-elden-ring-is-one-of-my-favourite-games-that-i-ve-ha",
-      "titre": "Opinion: Elden Ring Is One Of My Favourite Games That I've Hardly Played",
-      "url": "https://www.nintendolife.com/features/opinion-elden-ring-is-one-of-my-favourite-games-that-ive-hardly-played",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/opinion-elden-ring-is-one-of-my-favourite-games-that-ive-hardly-played",
-          "titre": "Opinion: Elden Ring Is One Of My Favourite Games That I've Hardly Played"
-        }
-      ]
-    },
-    {
-      "id": "feature-40-ps5-ps4-games-to-buy-in-the-ps-store-player-s-cho",
-      "titre": "Feature: 40+ PS5, PS4 Games to Buy in the PS Store Player's Choice Sale",
-      "url": "https://www.pushsquare.com/features/40plus-ps5-ps4-games-to-buy-in-the-ps-store-players-choice-sale",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/40plus-ps5-ps4-games-to-buy-in-the-ps-store-players-choice-sale",
-          "titre": "Feature: 40+ PS5, PS4 Games to Buy in the PS Store Player's Choice Sale"
-        }
-      ]
-    },
-    {
-      "id": "i-had-3-hours-with-arc-raiders-frozen-trails-update-and-spen",
-      "titre": "I had 3 hours with Arc Raiders Frozen Trails update and spent most of it playing with the new grapple hook",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/i-had-3-hours-with-arc-raiders-frozen-trails-update-and-spent-most-of-it-playing-with-the-new-grapple-hook/",
+      "id": "for-a-moment-it-looked-like-grand-theft-auto-6-might-be-play",
+      "titre": "For a moment it looked like Grand Theft Auto 6 might be playable on PC on launch day—then Xbox's chief strategy officer crashed the party",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/for-a-moment-it-looked-like-grand-theft-auto-6-might-be-playable-on-pc-on-launch-day-then-xboxs-chief-strategy-officer-crashed-the-party/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.5,
+      "heures": 4.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/i-had-3-hours-with-arc-raiders-frozen-trails-update-and-spent-most-of-it-playing-with-the-new-grapple-hook/",
-          "titre": "I had 3 hours with Arc Raiders Frozen Trails update and spent most of it playing with the new grapple hook"
-        }
-      ]
-    },
-    {
-      "id": "lynchian-noir-mystery-silver-pines-takes-the-best-bits-from",
-      "titre": "Lynchian noir mystery Silver Pines takes the best bits from horror, the middling bits from Metroidvanias, and the worst bits from adventure games",
-      "url": "https://www.rockpapershotgun.com/lynchian-noir-mystery-silver-pines-takes-the-best-bits-from-horror-the-middling-bits-from-metroidvanias-and-the-worst-bits-from-adventure-games",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/lynchian-noir-mystery-silver-pines-takes-the-best-bits-from-horror-the-middling-bits-from-metroidvanias-and-the-worst-bits-from-adventure-games",
-          "titre": "Lynchian noir mystery Silver Pines takes the best bits from horror, the middling bits from Metroidvanias, and the worst bits from adventure games"
-        }
-      ]
-    },
-    {
-      "id": "critical-role-s-latest-d-d-episode-was-so-stressful-i-discov",
-      "titre": "Critical Role's latest D&D episode was so stressful, I discovered a new noise my mouth can make",
-      "url": "https://www.pcgamer.com/movies-tv/critical-roles-latest-d-and-d-episode-was-so-stressful-i-discovered-a-new-noise-my-mouth-can-make/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/critical-roles-latest-d-and-d-episode-was-so-stressful-i-discovered-a-new-noise-my-mouth-can-make/",
-          "titre": "Critical Role's latest D&D episode was so stressful, I discovered a new noise my mouth can make"
-        }
-      ]
-    },
-    {
-      "id": "ps5-fans-think-they-may-have-found-evidence-of-an-enhanced-p",
-      "titre": "PS5 Fans Think They May Have Found Evidence of an Enhanced PS Portal",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5-fans-think-they-may-have-found-evidence-of-an-enhanced-ps-portal",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps5-fans-think-they-may-have-found-evidence-of-an-enhanced-ps-portal",
-          "titre": "PS5 Fans Think They May Have Found Evidence of an Enhanced PS Portal"
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/for-a-moment-it-looked-like-grand-theft-auto-6-might-be-playable-on-pc-on-launch-day-then-xboxs-chief-strategy-officer-crashed-the-party/",
+          "titre": "For a moment it looked like Grand Theft Auto 6 might be playable on PC on launch day—then Xbox's chief strategy officer crashed the party"
         }
       ]
     },
@@ -761,7 +671,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.6,
       "chaleur": 6,
       "liens": [
         {
@@ -780,7 +690,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 15.1,
+      "heures": 17.0,
       "chaleur": 6,
       "liens": [
         {
@@ -804,7 +714,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 15.2,
+      "heures": 17.1,
       "chaleur": 6,
       "liens": [
         {
@@ -827,7 +737,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.1,
+      "heures": 25.0,
       "chaleur": 6,
       "liens": [
         {
@@ -845,7 +755,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 25.2,
+      "heures": 27.2,
       "chaleur": 6,
       "liens": [
         {
@@ -856,20 +766,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-ve-added-scams-to-gta-5-but-i-might-have-scammed-myself",
-      "titre": "I've added scams to GTA 5, but I might have scammed myself",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/ive-added-scams-to-gta-5-but-i-might-have-scammed-myself/",
+      "id": "round-up-the-final-previews-for-nintendo-switch-sports-resor",
+      "titre": "Round Up: The Final Previews For Nintendo Switch Sports Resort Are In",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-final-previews-for-nintendo-switch-sports-resort-are-in",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 29.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/ive-added-scams-to-gta-5-but-i-might-have-scammed-myself/",
-          "titre": "I've added scams to GTA 5, but I might have scammed myself"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-final-previews-for-nintendo-switch-sports-resort-are-in",
+          "titre": "Round Up: The Final Previews For Nintendo Switch Sports Resort Are In"
         }
       ]
     },
@@ -881,7 +791,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.7,
+      "heures": 30.6,
       "chaleur": 6,
       "liens": [
         {
@@ -899,7 +809,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.2,
+      "heures": 19.1,
       "chaleur": 5,
       "liens": [
         {
@@ -917,7 +827,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 20.1,
       "chaleur": 5,
       "liens": [
         {
@@ -935,7 +845,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 25.5,
       "chaleur": 5,
       "liens": [
         {
@@ -953,7 +863,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 27.4,
       "chaleur": 5,
       "liens": [
         {
@@ -971,7 +881,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.7,
+      "heures": 28.6,
       "chaleur": 5,
       "liens": [
         {
@@ -989,7 +899,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.1,
+      "heures": 31.0,
       "chaleur": 5,
       "liens": [
         {
@@ -1000,20 +910,200 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gears-of-war-e-day-studio-finds-a-way-to-get-more-performanc",
-      "titre": "Gears of War: E-Day studio finds a way to get more performance from Xbox Series S - one that other Xbox games could probably use",
-      "url": "https://www.eurogamer.net/xbox-series-s-more-power-gears-of-war-e-day-ssd",
+      "id": "anime-racer-screamer-no-longer-demands-you-retrain-your-fing",
+      "titre": "Anime racer Screamer no longer demands you retrain your fingers, with a fresh patch adding single stick drift controls",
+      "url": "https://www.rockpapershotgun.com/anime-racer-screamer-no-longer-demands-you-retrain-your-fingers-with-a-fresh-patch-adding-single-stick-drift-controls",
       "sources": [
-        "Eurogamer"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 30.8,
-      "chaleur": 5,
+      "heures": 4.2,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-series-s-more-power-gears-of-war-e-day-ssd",
-          "titre": "Gears of War: E-Day studio finds a way to get more performance from Xbox Series S - one that other Xbox games could probably use"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/anime-racer-screamer-no-longer-demands-you-retrain-your-fingers-with-a-fresh-patch-adding-single-stick-drift-controls",
+          "titre": "Anime racer Screamer no longer demands you retrain your fingers, with a fresh patch adding single stick drift controls"
+        }
+      ]
+    },
+    {
+      "id": "wizards-of-the-coast-union-expands-demands-company-stop-push",
+      "titre": "Wizards of the Coast union expands, demands company stop pushing generative AI",
+      "url": "https://www.gamesindustry.biz/wizards-of-the-coast-union-expands-demands-company-stop-pushing-generative-ai",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/wizards-of-the-coast-union-expands-demands-company-stop-pushing-generative-ai",
+          "titre": "Wizards of the Coast union expands, demands company stop pushing generative AI"
+        }
+      ]
+    },
+    {
+      "id": "the-original-grand-theft-auto-was-open-world-because-we-didn",
+      "titre": "The original Grand Theft Auto was open-world because ‘we didn’t want to have to build a front end’, dev says",
+      "url": "https://www.videogameschronicle.com/news/the-original-grand-theft-auto-was-open-world-because-we-didnt-want-to-have-to-build-a-front-end-dev-says/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-original-grand-theft-auto-was-open-world-because-we-didnt-want-to-have-to-build-a-front-end-dev-says/",
+          "titre": "The original Grand Theft Auto was open-world because ‘we didn’t want to have to build a front end’, dev says"
+        }
+      ]
+    },
+    {
+      "id": "anime-racing-game-screamer-s-latest-ps5-update-lets-you-turn",
+      "titre": "Anime Racing Game Screamer's Latest PS5 Update Lets You Turn Off Its Right Stick Drifting",
+      "url": "https://www.pushsquare.com/news/2026/10/anime-racing-game-screamers-latest-ps5-update-lets-you-turn-off-its-right-stick-drifting",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/anime-racing-game-screamers-latest-ps5-update-lets-you-turn-off-its-right-stick-drifting",
+          "titre": "Anime Racing Game Screamer's Latest PS5 Update Lets You Turn Off Its Right Stick Drifting"
+        }
+      ]
+    },
+    {
+      "id": "electronic-arts-leveraged-buyout-faces-a-bondholder-battle",
+      "titre": "Electronic Arts' leveraged buyout faces a bondholder battle",
+      "url": "https://www.gamedeveloper.com/business/electronic-arts-leveraged-buyout-faces-a-bondholder-battle",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/electronic-arts-leveraged-buyout-faces-a-bondholder-battle",
+          "titre": "Electronic Arts' leveraged buyout faces a bondholder battle"
+        }
+      ]
+    },
+    {
+      "id": "opinion-elden-ring-is-one-of-my-favourite-games-that-i-ve-ha",
+      "titre": "Opinion: Elden Ring Is One Of My Favourite Games That I've Hardly Played",
+      "url": "https://www.nintendolife.com/features/opinion-elden-ring-is-one-of-my-favourite-games-that-ive-hardly-played",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/opinion-elden-ring-is-one-of-my-favourite-games-that-ive-hardly-played",
+          "titre": "Opinion: Elden Ring Is One Of My Favourite Games That I've Hardly Played"
+        }
+      ]
+    },
+    {
+      "id": "feature-40-ps5-ps4-games-to-buy-in-the-ps-store-player-s-cho",
+      "titre": "Feature: 40+ PS5, PS4 Games to Buy in the PS Store Player's Choice Sale",
+      "url": "https://www.pushsquare.com/features/40plus-ps5-ps4-games-to-buy-in-the-ps-store-players-choice-sale",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/40plus-ps5-ps4-games-to-buy-in-the-ps-store-players-choice-sale",
+          "titre": "Feature: 40+ PS5, PS4 Games to Buy in the PS Store Player's Choice Sale"
+        }
+      ]
+    },
+    {
+      "id": "i-had-3-hours-with-arc-raiders-frozen-trails-update-and-spen",
+      "titre": "I had 3 hours with Arc Raiders Frozen Trails update and spent most of it playing with the new grapple hook",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/i-had-3-hours-with-arc-raiders-frozen-trails-update-and-spent-most-of-it-playing-with-the-new-grapple-hook/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/i-had-3-hours-with-arc-raiders-frozen-trails-update-and-spent-most-of-it-playing-with-the-new-grapple-hook/",
+          "titre": "I had 3 hours with Arc Raiders Frozen Trails update and spent most of it playing with the new grapple hook"
+        }
+      ]
+    },
+    {
+      "id": "lynchian-noir-mystery-silver-pines-takes-the-best-bits-from",
+      "titre": "Lynchian noir mystery Silver Pines takes the best bits from horror, the middling bits from Metroidvanias, and the worst bits from adventure games",
+      "url": "https://www.rockpapershotgun.com/lynchian-noir-mystery-silver-pines-takes-the-best-bits-from-horror-the-middling-bits-from-metroidvanias-and-the-worst-bits-from-adventure-games",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/lynchian-noir-mystery-silver-pines-takes-the-best-bits-from-horror-the-middling-bits-from-metroidvanias-and-the-worst-bits-from-adventure-games",
+          "titre": "Lynchian noir mystery Silver Pines takes the best bits from horror, the middling bits from Metroidvanias, and the worst bits from adventure games"
+        }
+      ]
+    },
+    {
+      "id": "critical-role-s-latest-d-d-episode-was-so-stressful-i-discov",
+      "titre": "Critical Role's latest D&D episode was so stressful, I discovered a new noise my mouth can make",
+      "url": "https://www.pcgamer.com/movies-tv/critical-roles-latest-d-and-d-episode-was-so-stressful-i-discovered-a-new-noise-my-mouth-can-make/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/critical-roles-latest-d-and-d-episode-was-so-stressful-i-discovered-a-new-noise-my-mouth-can-make/",
+          "titre": "Critical Role's latest D&D episode was so stressful, I discovered a new noise my mouth can make"
+        }
+      ]
+    },
+    {
+      "id": "ps5-fans-think-they-may-have-found-evidence-of-an-enhanced-p",
+      "titre": "PS5 Fans Think They May Have Found Evidence of an Enhanced PS Portal",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-fans-think-they-may-have-found-evidence-of-an-enhanced-ps-portal",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5-fans-think-they-may-have-found-evidence-of-an-enhanced-ps-portal",
+          "titre": "PS5 Fans Think They May Have Found Evidence of an Enhanced PS Portal"
         }
       ]
     },
@@ -1025,7 +1115,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,7 +1133,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,7 +1151,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1079,7 +1169,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1088,79 +1178,9 @@ const VEILLE = {
           "titre": "Random: UK Retailer Lists Theatrhythm Sticker Set For A Whopping £499"
         }
       ]
-    },
-    {
-      "id": "the-biggest-discounts-on-pc-hardware-we-ve-spotted-this-prim",
-      "titre": "The biggest discounts on PC hardware we've spotted this Prime Day",
-      "url": "https://www.pcgamer.com/hardware/the-biggest-discounts-on-pc-hardware-that-weve-spotted-this-prime-day/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/the-biggest-discounts-on-pc-hardware-that-weve-spotted-this-prime-day/",
-          "titre": "The biggest discounts on PC hardware we've spotted this Prime Day"
-        }
-      ]
-    },
-    {
-      "id": "my-horror-that-32gb-ram-has-become-the-norm-is-exceeded-only",
-      "titre": "My horror that 32GB RAM has become the norm is exceeded only by my contempt that 7.28% of you have over 4TB free hard drive space",
-      "url": "https://www.rockpapershotgun.com/my-horror-that-32gb-ram-has-become-the-norm-is-exceeded-only-by-my-contempt-that-728-of-you-have-over-4tb-free-hard-drive-space",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 4.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/my-horror-that-32gb-ram-has-become-the-norm-is-exceeded-only-by-my-contempt-that-728-of-you-have-over-4tb-free-hard-drive-space",
-          "titre": "My horror that 32GB RAM has become the norm is exceeded only by my contempt that 7.28% of you have over 4TB free hard drive space"
-        }
-      ]
-    },
-    {
-      "id": "more-mafia-games-appear-to-be-getting-native-ps5-ports-likel",
-      "titre": "More Mafia Games Appear to Be Getting Native PS5 Ports, Likely 60fps",
-      "url": "https://www.pushsquare.com/news/2026/10/more-mafia-games-appear-to-be-getting-native-ps5-ports-likely-60fps",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 5.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/more-mafia-games-appear-to-be-getting-native-ps5-ports-likely-60fps",
-          "titre": "More Mafia Games Appear to Be Getting Native PS5 Ports, Likely 60fps"
-        }
-      ]
-    },
-    {
-      "id": "20-million-sales-later-capcom-is-bringing-monster-hunter-ris",
-      "titre": "20 million sales later, Capcom is bringing Monster Hunter Rise to iOS and Android, but for now it's locked behind a Netflix subscription",
-      "url": "https://www.eurogamer.net/monster-hunter-rise-ios-android-netflix",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 5.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/monster-hunter-rise-ios-android-netflix",
-          "titre": "20 million sales later, Capcom is bringing Monster Hunter Rise to iOS and Android, but for now it's locked behind a Netflix subscription"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Star Wars Zero Company developer Bit Reactor begins bringing furloughed staff back"
+  ]
 };
