@@ -1,106 +1,34 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "08/10/2026 à 08h25",
+  "collecte": "08/10/2026 à 10h24",
   "seuil": 14,
   "sujets": [
     {
-      "id": "forza-horizon-6-has-been-delayed-on-ps5-a-new-report-suggest",
-      "titre": "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't",
-      "url": "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027",
-      "sources": [
-        "Eurogamer",
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 19.0,
-      "chaleur": 13,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027",
-          "titre": "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/forza-horizon-6-isnt-coming-to-ps5-this-year-its-claimed/",
-          "titre": "Forza Horizon 6 isn’t coming to PS5 this year, it’s claimed"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/forza-horizon-6-ps5-release-date-revealed-by-reliable-leaker",
-          "titre": "Forza Horizon 6 PS5 Release Date Revealed by Reliable Leaker"
-        }
-      ]
-    },
-    {
-      "id": "asha-sharma-reportedly-informs-staff-that-xbox-has-started-t",
-      "titre": "Asha Sharma reportedly informs staff that Xbox has \"started to return to growth\" during internal town hall",
-      "url": "https://www.gamesindustry.biz/asha-sharma-reportedly-informs-staff-that-xbox-has-started-to-return-to-growth-during-internal-town-hall",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 21.4,
-      "chaleur": 13,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/asha-sharma-reportedly-informs-staff-that-xbox-has-started-to-return-to-growth-during-internal-town-hall",
-          "titre": "Asha Sharma reportedly informs staff that Xbox has \"started to return to growth\" during internal town hall"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-asha-sharma-growth-restructuring-layoffs",
-          "titre": "\"After an all-time low, we've started to return to growth\" - Asha Sharma touts Xbox turnaround after drastic restructuring and many hundreds of layoffs"
-        }
-      ]
-    },
-    {
-      "id": "round-up-the-reviews-for-dragon-s-dogma-2-dark-arisen-are-in",
-      "titre": "Round Up: The Reviews For Dragon's Dogma 2: Dark Arisen Are In",
-      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-dragons-dogma-2-dark-arisen-are-in",
-      "sources": [
-        "Nintendo Life",
-        "PC Gamer",
-        "Push Square"
-      ],
-      "reprises": 3,
-      "heures": 3.0,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-dragons-dogma-2-dark-arisen-are-in",
-          "titre": "Round Up: The Reviews For Dragon's Dogma 2: Dark Arisen Are In"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/heres-the-dragons-dogma-2-dark-arisen-release-time-for-your-region/",
-          "titre": "Here's the Dragon's Dogma 2: Dark Arisen release time for your region"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/dragons-dogma-2-dark-arisen",
-          "titre": "Review: Dragon's Dogma 2: Dark Arisen (PS5) - Epic Expansion Is Peak Dragon's Dogma"
-        }
-      ]
-    },
-    {
-      "id": "star-wars-zero-company-developer-bit-reactor-begins-bringing",
-      "titre": "Star Wars Zero Company developer Bit Reactor begins bringing furloughed staff back",
-      "url": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back",
+      "id": "star-wars-zero-company-success-allows-dev-to-bring-back-staf",
+      "titre": "Star Wars Zero Company Success Allows Dev to Bring Back Staff",
+      "url": "https://www.pushsquare.com/news/2026/10/star-wars-zero-company-success-allows-dev-to-bring-back-staff",
       "sources": [
         "Eurogamer",
         "Game Developer",
         "GamesIndustry.biz",
+        "Push Square",
+        "Rock Paper Shotgun",
         "VGC"
       ],
-      "reprises": 4,
-      "heures": 12.7,
-      "chaleur": 12,
+      "reprises": 6,
+      "heures": 0.9,
+      "chaleur": 23,
       "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/star-wars-zero-company-success-allows-dev-to-bring-back-staff",
+          "titre": "Star Wars Zero Company Success Allows Dev to Bring Back Staff"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/star-wars-zero-company-studio-start-to-bring-back-devs-furloughed-prior-to-launch-with-more-than-half-of-previous-headcount-reportedly-returning-to-payroll",
+          "titre": "Star Wars Zero Company studio start to bring back devs furloughed prior to launch, with \"more than half\" of previous headcount reportedly returning to payroll"
+        },
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back",
@@ -124,6 +52,156 @@ const VEILLE = {
       ]
     },
     {
+      "id": "gameplay-footage-from-cancelled-xbox-perfect-dark-game-leaks",
+      "titre": "Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good",
+      "url": "https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 1.5,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak",
+          "titre": "Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/alleged-footage-of-xboxs-cancelled-perfect-dark-reboot-shows-a-parkour-heavy-chase-scene-and-the-summary-execution-of-fruit",
+          "titre": "Alleged footage of Xbox's cancelled Perfect Dark reboot shows a parkour-heavy chase scene and the summary execution of fruit"
+        }
+      ]
+    },
+    {
+      "id": "asha-sharma-reportedly-informs-staff-that-xbox-has-started-t",
+      "titre": "Asha Sharma reportedly informs staff that Xbox has \"started to return to growth\" during internal town hall",
+      "url": "https://www.gamesindustry.biz/asha-sharma-reportedly-informs-staff-that-xbox-has-started-to-return-to-growth-during-internal-town-hall",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 23.4,
+      "chaleur": 13,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/asha-sharma-reportedly-informs-staff-that-xbox-has-started-to-return-to-growth-during-internal-town-hall",
+          "titre": "Asha Sharma reportedly informs staff that Xbox has \"started to return to growth\" during internal town hall"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-asha-sharma-growth-restructuring-layoffs",
+          "titre": "\"After an all-time low, we've started to return to growth\" - Asha Sharma touts Xbox turnaround after drastic restructuring and many hundreds of layoffs"
+        }
+      ]
+    },
+    {
+      "id": "gears-of-war-studio-head-addresses-layoff-worries-after-e-da",
+      "titre": "Gears of War studio head addresses layoff worries after E-Day release, and says the next game won’t take ‘nearly as long’",
+      "url": "https://www.videogameschronicle.com/news/gears-of-war-studio-head-addresses-layoff-worries-after-e-day-release-and-says-the-next-game-wont-take-nearly-as-long/",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.6,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/gears-of-war-studio-head-addresses-layoff-worries-after-e-day-release-and-says-the-next-game-wont-take-nearly-as-long/",
+          "titre": "Gears of War studio head addresses layoff worries after E-Day release, and says the next game won’t take ‘nearly as long’"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gears-of-war-the-coalition-layoffs-next-game",
+          "titre": "Gears of War boss says the next game won't take seven years to make as he dances around the question of layoffs"
+        }
+      ]
+    },
+    {
+      "id": "sony-seemingly-closes-the-door-on-playstation-vr-as-it-sells",
+      "titre": "Sony seemingly closes the door on PlayStation VR as it sells more than 40 VR patents to Meta",
+      "url": "https://www.videogameschronicle.com/news/sony-seemingly-closes-the-door-on-playstation-vr-as-it-sells-more-than-40-vr-patents-to-meta/",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.7,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sony-seemingly-closes-the-door-on-playstation-vr-as-it-sells-more-than-40-vr-patents-to-meta/",
+          "titre": "Sony seemingly closes the door on PlayStation VR as it sells more than 40 VR patents to Meta"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sony-seemingly-ends-vr-ambitions-by-selling-patents-to-meta",
+          "titre": "Sony Seemingly Ends VR Ambitions by Selling Patents to Meta"
+        }
+      ]
+    },
+    {
+      "id": "battlefield-6-and-more-are-joining-xbox-game-pass-in-october",
+      "titre": "Battlefield 6 and more are joining Xbox Game Pass in October",
+      "url": "https://www.videogameschronicle.com/news/battlefield-6-and-more-are-joining-xbox-game-pass-in-october/",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.6,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/battlefield-6-and-more-are-joining-xbox-game-pass-in-october/",
+          "titre": "Battlefield 6 and more are joining Xbox Game Pass in October"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-game-pass-lineup-october-2026",
+          "titre": "Here are our Xbox Game Pass games for October 2026"
+        }
+      ]
+    },
+    {
+      "id": "round-up-the-reviews-for-dragon-s-dogma-2-dark-arisen-are-in",
+      "titre": "Round Up: The Reviews For Dragon's Dogma 2: Dark Arisen Are In",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-dragons-dogma-2-dark-arisen-are-in",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer",
+        "Push Square"
+      ],
+      "reprises": 3,
+      "heures": 5.0,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-dragons-dogma-2-dark-arisen-are-in",
+          "titre": "Round Up: The Reviews For Dragon's Dogma 2: Dark Arisen Are In"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/heres-the-dragons-dogma-2-dark-arisen-release-time-for-your-region/",
+          "titre": "Here's the Dragon's Dogma 2: Dark Arisen release time for your region"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/dragons-dogma-2-dark-arisen",
+          "titre": "Review: Dragon's Dogma 2: Dark Arisen (PS5) - Epic Expansion Is Peak Dragon's Dogma"
+        }
+      ]
+    },
+    {
       "id": "sony-is-reportedly-plotting-to-revive-classic-playstation-ga",
       "titre": "Sony is reportedly plotting to revive classic PlayStation games, starting with a new Ape Escape from the developers behind Sonic Mania",
       "url": "https://www.eurogamer.net/sony-classic-playstation-games-ape-escape-sonic-mania",
@@ -132,7 +210,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 14.0,
+      "heures": 15.9,
       "chaleur": 10,
       "liens": [
         {
@@ -148,20 +226,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gears-of-war-boss-says-the-next-game-won-t-take-seven-years",
-      "titre": "Gears of War boss says the next game won't take seven years to make as he dances around the question of layoffs",
-      "url": "https://www.eurogamer.net/gears-of-war-the-coalition-layoffs-next-game",
+      "id": "forza-horizon-6-has-been-delayed-on-ps5-a-new-report-suggest",
+      "titre": "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't",
+      "url": "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027",
       "sources": [
-        "Eurogamer"
+        "Eurogamer",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 0.1,
-      "chaleur": 9,
+      "reprises": 2,
+      "heures": 21.0,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gears-of-war-the-coalition-layoffs-next-game",
-          "titre": "Gears of War boss says the next game won't take seven years to make as he dances around the question of layoffs"
+          "url": "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027",
+          "titre": "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/forza-horizon-6-isnt-coming-to-ps5-this-year-its-claimed/",
+          "titre": "Forza Horizon 6 isn’t coming to PS5 this year, it’s claimed"
         }
       ]
     },
@@ -173,7 +257,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.5,
+      "heures": 20.5,
       "chaleur": 8,
       "liens": [
         {
@@ -192,7 +276,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 19.4,
+      "heures": 21.4,
       "chaleur": 8,
       "liens": [
         {
@@ -208,24 +292,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "alleged-footage-of-xbox-s-cancelled-perfect-dark-reboot-show",
-      "titre": "Alleged footage of Xbox's cancelled Perfect Dark reboot shows a parkour-heavy chase scene and the summary execution of fruit",
-      "url": "https://www.rockpapershotgun.com/alleged-footage-of-xboxs-cancelled-perfect-dark-reboot-shows-a-parkour-heavy-chase-scene-and-the-summary-execution-of-fruit",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 20.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/alleged-footage-of-xboxs-cancelled-perfect-dark-reboot-shows-a-parkour-heavy-chase-scene-and-the-summary-execution-of-fruit",
-          "titre": "Alleged footage of Xbox's cancelled Perfect Dark reboot shows a parkour-heavy chase scene and the summary execution of fruit"
-        }
-      ]
-    },
-    {
       "id": "gta-6-won-t-be-playable-on-pc-at-launch-via-xbox-s-cloud-str",
       "titre": "GTA 6 won't be playable on PC at launch via Xbox's cloud streaming services, Microsoft exec indicates while refuting exclusivity deal report",
       "url": "https://www.rockpapershotgun.com/gta-6-wont-be-playable-on-pc-at-launch-via-xboxs-cloud-streaming-services-microsoft-exec-indicates-while-refuting-exclusivity-deal-report",
@@ -233,7 +299,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.4,
       "chaleur": 8,
       "liens": [
         {
@@ -251,7 +317,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.9,
+      "heures": 25.9,
       "chaleur": 8,
       "liens": [
         {
@@ -334,6 +400,78 @@ const VEILLE = {
       ]
     },
     {
+      "id": "gardens-interactive-founded-by-veterans-behind-journey-and-s",
+      "titre": "Gardens Interactive, founded by veterans behind Journey and Sky: Children of the Light, raise over $35m in Series B funding round",
+      "url": "https://www.gamesindustry.biz/gardens-interactive-founded-by-veterans-behind-journey-and-sky-children-of-the-light-raise-over-35m-in-series-b-funding-round",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/gardens-interactive-founded-by-veterans-behind-journey-and-sky-children-of-the-light-raise-over-35m-in-series-b-funding-round",
+          "titre": "Gardens Interactive, founded by veterans behind Journey and Sky: Children of the Light, raise over $35m in Series B funding round"
+        }
+      ]
+    },
+    {
+      "id": "silent-hill-townfall-update-nerfs-the-weight-stealth-section",
+      "titre": "Silent Hill Townfall update nerfs The Weight stealth sections, weakens enemies and makes the final puzzle easier",
+      "url": "https://www.videogameschronicle.com/news/silent-hill-townfall-update-nerfs-the-weight-stealth-sections-weakens-enemies-and-makes-the-final-puzzle-easier/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/silent-hill-townfall-update-nerfs-the-weight-stealth-sections-weakens-enemies-and-makes-the-final-puzzle-easier/",
+          "titre": "Silent Hill Townfall update nerfs The Weight stealth sections, weakens enemies and makes the final puzzle easier"
+        }
+      ]
+    },
+    {
+      "id": "pc-gamer-magazine-s-new-issue-is-on-sale-now-world-of-warcra",
+      "titre": "PC Gamer magazine's new issue is on sale now: World of Warcraft: Forever",
+      "url": "https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-world-of-warcraft-forever/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-world-of-warcraft-forever/",
+          "titre": "PC Gamer magazine's new issue is on sale now: World of Warcraft: Forever"
+        }
+      ]
+    },
+    {
+      "id": "star-wars-galactic-racer-will-double-the-game-s-multiplayer",
+      "titre": "Star Wars: Galactic Racer will double the game’s multiplayer party limit in an upcoming patch",
+      "url": "https://www.videogameschronicle.com/news/star-wars-galactic-racer-will-double-the-games-multiplayer-party-limit-in-an-upcoming-patch/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/star-wars-galactic-racer-will-double-the-games-multiplayer-party-limit-in-an-upcoming-patch/",
+          "titre": "Star Wars: Galactic Racer will double the game’s multiplayer party limit in an upcoming patch"
+        }
+      ]
+    },
+    {
       "id": "fireshine-games-acquires-necesse-dev-fair-games-described-as",
       "titre": "Fireshine Games acquires Necesse dev Fair Games, described as a \"defining moment\" for Danish indie studio",
       "url": "https://www.gamesindustry.biz/fireshine-games-acquires-necesse-dev-fair-games-described-as-a-defining-moment-for-danish-indie-studio",
@@ -341,7 +479,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -359,7 +497,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.5,
       "chaleur": 6,
       "liens": [
         {
@@ -377,7 +515,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 10.0,
       "chaleur": 6,
       "liens": [
         {
@@ -396,7 +534,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 13.2,
+      "heures": 15.1,
       "chaleur": 6,
       "liens": [
         {
@@ -419,7 +557,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.4,
       "chaleur": 6,
       "liens": [
         {
@@ -438,7 +576,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 20.3,
+      "heures": 22.3,
       "chaleur": 6,
       "liens": [
         {
@@ -454,30 +592,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "resident-evil-requiem-s-writer-reveals-what-the-upcoming-dlc",
-      "titre": "Resident Evil Requiem's Writer Reveals What The Upcoming DLC Might Be About",
-      "url": "https://www.nintendolife.com/news/2026/10/resident-evil-requiems-writer-reveals-what-the-upcoming-dlc-might-be-about",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 21.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/resident-evil-requiems-writer-reveals-what-the-upcoming-dlc-might-be-about",
-          "titre": "Resident Evil Requiem's Writer Reveals What The Upcoming DLC Might Be About"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/resident-evil-requiem-writer-lets-slip-a-major-detail-about-the-upcoming-dlc/",
-          "titre": "Resident Evil Requiem writer lets slip a major detail about the upcoming DLC"
-        }
-      ]
-    },
-    {
       "id": "steam-is-about-to-start-getting-some-of-the-best-japanese-pi",
       "titre": "Steam is about to start getting some of the best Japanese pixel art in gaming history",
       "url": "https://www.pcgamer.com/games/adventure/steam-is-about-to-start-getting-some-of-the-best-japanese-pixel-art-in-gaming-history/",
@@ -485,31 +599,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.2,
       "chaleur": 5,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/adventure/steam-is-about-to-start-getting-some-of-the-best-japanese-pixel-art-in-gaming-history/",
           "titre": "Steam is about to start getting some of the best Japanese pixel art in gaming history"
-        }
-      ]
-    },
-    {
-      "id": "here-are-our-xbox-game-pass-games-for-october-2026",
-      "titre": "Here are our Xbox Game Pass games for October 2026",
-      "url": "https://www.eurogamer.net/xbox-game-pass-lineup-october-2026",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 15.5,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-game-pass-lineup-october-2026",
-          "titre": "Here are our Xbox Game Pass games for October 2026"
         }
       ]
     },
@@ -521,31 +617,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/cities-skylines-is-building-an-expanded-edition-on-switch-2-this-month",
           "titre": "Cities: Skylines Is Building An 'Expanded Edition' On Switch 2 This Month"
-        }
-      ]
-    },
-    {
-      "id": "for-a-moment-it-looked-like-grand-theft-auto-6-might-be-play",
-      "titre": "For a moment it looked like Grand Theft Auto 6 might be playable on PC on launch day—then Xbox's chief strategy officer crashed the party",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/for-a-moment-it-looked-like-grand-theft-auto-6-might-be-playable-on-pc-on-launch-day-then-xboxs-chief-strategy-officer-crashed-the-party/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 16.3,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/for-a-moment-it-looked-like-grand-theft-auto-6-might-be-playable-on-pc-on-launch-day-then-xboxs-chief-strategy-officer-crashed-the-party/",
-          "titre": "For a moment it looked like Grand Theft Auto 6 might be playable on PC on launch day—then Xbox's chief strategy officer crashed the party"
         }
       ]
     },
@@ -557,7 +635,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.6,
+      "heures": 24.6,
       "chaleur": 5,
       "liens": [
         {
@@ -575,7 +653,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -593,7 +671,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -611,7 +689,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -629,7 +707,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -647,7 +725,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -665,7 +743,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -683,31 +761,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/ps5-to-integrate-anime-into-main-menu-as-sony-tightens-ties-with-crunchyroll",
           "titre": "PS5 to Integrate Anime into Main Menu as Sony Tightens Ties with Crunchyroll"
-        }
-      ]
-    },
-    {
-      "id": "blizzard-promises-to-make-the-blue-elves-in-world-of-warcraf",
-      "titre": "Blizzard promises to make the blue elves in World of Warcraft: Forever look worse (positive)",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-promises-to-make-the-blue-elves-in-world-of-warcraft-forever-look-worse-positive/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 9.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-promises-to-make-the-blue-elves-in-world-of-warcraft-forever-look-worse-positive/",
-          "titre": "Blizzard promises to make the blue elves in World of Warcraft: Forever look worse (positive)"
         }
       ]
     },
@@ -719,7 +779,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
@@ -737,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -755,8 +815,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -773,8 +833,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -791,8 +851,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -809,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.2,
       "chaleur": 3,
       "liens": [
         {
@@ -827,7 +887,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -845,7 +905,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.6,
       "chaleur": 3,
       "liens": [
         {
@@ -863,7 +923,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 14.7,
       "chaleur": 3,
       "liens": [
         {
@@ -881,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.2,
       "chaleur": 3,
       "liens": [
         {
@@ -899,31 +959,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/phoenix-cyclops-fires-up-marvel-tokon-on-2nd-november-ps-plus-trial-out-now",
           "titre": "Phoenix Cyclops Fires Up Marvel Tokon on 2nd November, PS Plus Trial Out Now"
-        }
-      ]
-    },
-    {
-      "id": "sony-seemingly-ends-vr-ambitions-by-selling-patents-to-meta",
-      "titre": "Sony Seemingly Ends VR Ambitions by Selling Patents to Meta",
-      "url": "https://www.pushsquare.com/news/2026/10/sony-seemingly-ends-vr-ambitions-by-selling-patents-to-meta",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 14.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sony-seemingly-ends-vr-ambitions-by-selling-patents-to-meta",
-          "titre": "Sony Seemingly Ends VR Ambitions by Selling Patents to Meta"
         }
       ]
     },
@@ -935,7 +977,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 17.1,
       "chaleur": 3,
       "liens": [
         {
@@ -953,7 +995,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -971,7 +1013,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -989,7 +1031,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +1049,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,7 +1067,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,7 +1085,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,7 +1103,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1079,7 +1121,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1097,7 +1139,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 17.2,
+      "heures": 19.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1115,7 +1157,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1133,7 +1175,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1142,25 +1184,10 @@ const VEILLE = {
           "titre": "Feature: 40+ PS5, PS4 Games to Buy in the PS Store Player's Choice Sale"
         }
       ]
-    },
-    {
-      "id": "lynchian-noir-mystery-silver-pines-takes-the-best-bits-from",
-      "titre": "Lynchian noir mystery Silver Pines takes the best bits from horror, the middling bits from Metroidvanias, and the worst bits from adventure games",
-      "url": "https://www.rockpapershotgun.com/lynchian-noir-mystery-silver-pines-takes-the-best-bits-from-horror-the-middling-bits-from-metroidvanias-and-the-worst-bits-from-adventure-games",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 17.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/lynchian-noir-mystery-silver-pines-takes-the-best-bits-from-horror-the-middling-bits-from-metroidvanias-and-the-worst-bits-from-adventure-games",
-          "titre": "Lynchian noir mystery Silver Pines takes the best bits from horror, the middling bits from Metroidvanias, and the worst bits from adventure games"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Star Wars Zero Company Success Allows Dev to Bring Back Staff",
+    "Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good"
+  ]
 };
