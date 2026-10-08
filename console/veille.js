@@ -1,50 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "08/10/2026 à 16h25",
+  "collecte": "08/10/2026 à 18h26",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "star-wars-zero-company-success-allows-dev-to-bring-back-staf",
-      "titre": "Star Wars Zero Company Success Allows Dev to Bring Back Staff",
-      "url": "https://www.pushsquare.com/news/2026/10/star-wars-zero-company-success-allows-dev-to-bring-back-staff",
-      "sources": [
-        "Eurogamer",
-        "Game Developer",
-        "GamesIndustry.biz",
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 5,
-      "heures": 6.9,
-      "chaleur": 18,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/star-wars-zero-company-success-allows-dev-to-bring-back-staff",
-          "titre": "Star Wars Zero Company Success Allows Dev to Bring Back Staff"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/star-wars-zero-company-studio-start-to-bring-back-devs-furloughed-prior-to-launch-with-more-than-half-of-previous-headcount-reportedly-returning-to-payroll",
-          "titre": "Star Wars Zero Company studio start to bring back devs furloughed prior to launch, with \"more than half\" of previous headcount reportedly returning to payroll"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back",
-          "titre": "Star Wars Zero Company developer Bit Reactor begins bringing furloughed staff back"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/star-wars-zero-company-bringing-back-furloughed-staff",
-          "titre": "Star Wars: Zero Company studio is bringing \"as many people back as possible\" after furloughing \"most\" of its developers"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/star-wars-zero-company-developer-bit-reactor-brings-back-over-half-of-furloughed-staff",
-          "titre": "Star Wars Zero Company developer Bit Reactor brings back 'over half' of furloughed staff"
-        }
-      ]
-    },
     {
       "id": "for-the-first-time-in-the-series-grand-theft-auto-6-lets-you",
       "titre": "For the first time in the series, Grand Theft Auto 6 lets you use headphones to listen to radio stations and podcasts",
@@ -55,7 +13,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 15,
       "liens": [
         {
@@ -76,38 +34,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "dragon-s-dogma-2-how-to-start-the-dark-arisen-dlc-recommende",
-      "titre": "Dragon’s Dogma 2: How to start the Dark Arisen DLC, recommended levels",
-      "url": "https://www.videogameschronicle.com/guide/dragons-dogma-2-how-to-start-the-dark-arisen-dlc-recommended-levels/",
+      "id": "star-wars-zero-company-success-allows-dev-to-bring-back-staf",
+      "titre": "Star Wars Zero Company Success Allows Dev to Bring Back Staff",
+      "url": "https://www.pushsquare.com/news/2026/10/star-wars-zero-company-success-allows-dev-to-bring-back-staff",
       "sources": [
-        "Nintendo Life",
-        "PC Gamer",
+        "Game Developer",
+        "GamesIndustry.biz",
         "Push Square",
-        "VGC"
+        "Rock Paper Shotgun"
       ],
       "reprises": 4,
-      "heures": 4.2,
-      "chaleur": 13,
+      "heures": 8.9,
+      "chaleur": 15,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/dragons-dogma-2-how-to-start-the-dark-arisen-dlc-recommended-levels/",
-          "titre": "Dragon’s Dogma 2: How to start the Dark Arisen DLC, recommended levels"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-dragons-dogma-2-dark-arisen-are-in",
-          "titre": "Round Up: The Reviews For Dragon's Dogma 2: Dark Arisen Are In"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/heres-the-dragons-dogma-2-dark-arisen-release-time-for-your-region/",
-          "titre": "Here's the Dragon's Dogma 2: Dark Arisen release time for your region"
-        },
-        {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/dragons-dogma-2-dark-arisen",
-          "titre": "Review: Dragon's Dogma 2: Dark Arisen (PS5) - Epic Expansion Is Peak Dragon's Dogma"
+          "url": "https://www.pushsquare.com/news/2026/10/star-wars-zero-company-success-allows-dev-to-bring-back-staff",
+          "titre": "Star Wars Zero Company Success Allows Dev to Bring Back Staff"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/star-wars-zero-company-studio-start-to-bring-back-devs-furloughed-prior-to-launch-with-more-than-half-of-previous-headcount-reportedly-returning-to-payroll",
+          "titre": "Star Wars Zero Company studio start to bring back devs furloughed prior to launch, with \"more than half\" of previous headcount reportedly returning to payroll"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back",
+          "titre": "Star Wars Zero Company developer Bit Reactor begins bringing furloughed staff back"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/star-wars-zero-company-developer-bit-reactor-brings-back-over-half-of-furloughed-staff",
+          "titre": "Star Wars Zero Company developer Bit Reactor brings back 'over half' of furloughed staff"
         }
       ]
     },
@@ -119,37 +77,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 12,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/rockstar-hunted-gta-6-leaker-seemingly-strikes-again-showing-off-series-most-plentiful-helping-of-onscreen-johnson-since-san-andreas-starred-carl",
           "titre": "Rockstar-hunted GTA 6 leaker seemingly strikes again, showing off series' most plentiful helping of onscreen johnson since San Andreas starred Carl"
-        }
-      ]
-    },
-    {
-      "id": "gameplay-footage-from-cancelled-xbox-perfect-dark-game-leaks",
-      "titre": "Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good",
-      "url": "https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 7.5,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak",
-          "titre": "Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/alleged-footage-of-xboxs-cancelled-perfect-dark-reboot-shows-a-parkour-heavy-chase-scene-and-the-summary-execution-of-fruit",
-          "titre": "Alleged footage of Xbox's cancelled Perfect Dark reboot shows a parkour-heavy chase scene and the summary execution of fruit"
         }
       ]
     },
@@ -162,7 +96,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 0.1,
+      "heures": 2.1,
       "chaleur": 11,
       "liens": [
         {
@@ -178,6 +112,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "forza-horizon-6-officially-dated-for-ps5-alongside-an-expans",
+      "titre": "Forza Horizon 6 officially dated for PS5, alongside an expansion",
+      "url": "https://www.videogameschronicle.com/news/forza-horizon-6-officially-dated-for-ps5-alongside-an-expansion/",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/forza-horizon-6-officially-dated-for-ps5-alongside-an-expansion/",
+          "titre": "Forza Horizon 6 officially dated for PS5, alongside an expansion"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/first-forza-horizon-6-ps5-gameplay-arrives-as-release-date-is-revealed",
+          "titre": "First Forza Horizon 6 PS5 Gameplay Arrives as Release Date Is Revealed"
+        }
+      ]
+    },
+    {
       "id": "europe-shows-up-for-physical-games-51-of-wolverine-s-ps5-sal",
       "titre": "Europe Shows Up for Physical Games, 51% of Wolverine's PS5 Sales for Disc Version",
       "url": "https://www.pushsquare.com/news/2026/10/europe-shows-up-for-physical-games-51percent-of-wolverines-ps5-sales-for-disc-version",
@@ -186,7 +144,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 9,
       "liens": [
         {
@@ -210,7 +168,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 2,
-      "heures": 0.6,
+      "heures": 2.7,
       "chaleur": 9,
       "liens": [
         {
@@ -226,6 +184,78 @@ const VEILLE = {
       ]
     },
     {
+      "id": "gameplay-footage-from-cancelled-xbox-perfect-dark-game-leaks",
+      "titre": "Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good",
+      "url": "https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 9.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak",
+          "titre": "Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good"
+        }
+      ]
+    },
+    {
+      "id": "xbox-ceo-unveils-new-xbox-division-for-game-adjacent-venture",
+      "titre": "Xbox CEO unveils 'new Xbox division' for game-adjacent ventures named 'XP'",
+      "url": "https://www.gamedeveloper.com/console/xbox-ceo-unveils-new-xbox-division-for-game-adjacent-ventures-named-xp-",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/console/xbox-ceo-unveils-new-xbox-division-for-game-adjacent-ventures-named-xp-",
+          "titre": "Xbox CEO unveils 'new Xbox division' for game-adjacent ventures named 'XP'"
+        }
+      ]
+    },
+    {
+      "id": "all-hail-the-long-steam-machine-pimax-s-new-steamos-ready-mi",
+      "titre": "All hail the long steam machine, Pimax's new SteamOS-ready mini PC",
+      "url": "https://www.pcgamer.com/hardware/steam-machines/all-hail-the-long-steam-machine-pimaxs-new-steamos-ready-mini-pc/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.1,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/steam-machines/all-hail-the-long-steam-machine-pimaxs-new-steamos-ready-mini-pc/",
+          "titre": "All hail the long steam machine, Pimax's new SteamOS-ready mini PC"
+        }
+      ]
+    },
+    {
+      "id": "spending-on-switch-2-game-key-cards-in-the-u-s-has-risen-by",
+      "titre": "Spending On Switch 2 Game-Key Cards In The U.S. Has Risen By 631%",
+      "url": "https://www.nintendolife.com/news/2026/10/spending-on-switch-2-game-key-cards-in-the-u-s-has-risen-by-631percent",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/spending-on-switch-2-game-key-cards-in-the-u-s-has-risen-by-631percent",
+          "titre": "Spending On Switch 2 Game-Key Cards In The U.S. Has Risen By 631%"
+        }
+      ]
+    },
+    {
       "id": "i-enjoy-how-hellraiser-revival-s-real-life-bondage-club-make",
       "titre": "I enjoy how Hellraiser: Revival's 'real-life' bondage club makes the rest of Hellraiser: Revival feel kind of embarrassing",
       "url": "https://www.rockpapershotgun.com/i-enjoy-how-hellraiser-revivals-real-life-bondage-club-makes-the-rest-of-hellraiser-revival-feel-kind-of-embarrassing",
@@ -234,8 +264,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 2.2,
-      "chaleur": 9,
+      "heures": 4.2,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -258,8 +288,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 2.4,
-      "chaleur": 9,
+      "heures": 4.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -281,8 +311,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 9,
+      "heures": 4.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -299,103 +329,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 9,
+      "heures": 4.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/gta-6-gameplay-leaks-are-back-with-potentially-big-spoilers",
           "titre": "GTA 6 Gameplay Leaks Are Back with Potentially Big Spoilers"
-        }
-      ]
-    },
-    {
-      "id": "all-hail-the-long-steam-machine-pimax-s-new-steamos-ready-mi",
-      "titre": "All hail the long steam machine, Pimax's new SteamOS-ready mini PC",
-      "url": "https://www.pcgamer.com/hardware/steam-machines/all-hail-the-long-steam-machine-pimaxs-new-steamos-ready-mini-pc/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/steam-machines/all-hail-the-long-steam-machine-pimaxs-new-steamos-ready-mini-pc/",
-          "titre": "All hail the long steam machine, Pimax's new SteamOS-ready mini PC"
-        }
-      ]
-    },
-    {
-      "id": "spending-on-switch-2-game-key-cards-in-the-u-s-has-risen-by",
-      "titre": "Spending On Switch 2 Game-Key Cards In The U.S. Has Risen By 631%",
-      "url": "https://www.nintendolife.com/news/2026/10/spending-on-switch-2-game-key-cards-in-the-u-s-has-risen-by-631percent",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 0.2,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/spending-on-switch-2-game-key-cards-in-the-u-s-has-risen-by-631percent",
-          "titre": "Spending On Switch 2 Game-Key Cards In The U.S. Has Risen By 631%"
-        }
-      ]
-    },
-    {
-      "id": "witcher-3-remastered-patch-rolls-out-on-pc-and-console-with",
-      "titre": "Witcher 3 Remastered patch rolls out on PC and console, with separate Switch 2 patch earmarked to address blurry visuals",
-      "url": "https://www.eurogamer.net/witcher-3-remastered-patch-bloom-console-performance-switch-2",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-remastered-patch-bloom-console-performance-switch-2",
-          "titre": "Witcher 3 Remastered patch rolls out on PC and console, with separate Switch 2 patch earmarked to address blurry visuals"
-        }
-      ]
-    },
-    {
-      "id": "xbox-aim-to-wring-more-cash-out-of-the-games-they-ve-not-cas",
-      "titre": "Xbox aim to wring more cash out of the games they've not cast into oblivion by launching new licensing arm and handing Minecraft to ex-Meta monetisation lead",
-      "url": "https://www.rockpapershotgun.com/xbox-aim-to-wring-more-cash-out-of-the-games-theyve-not-cast-into-oblivion-by-launching-new-licensing-arm-and-handing-minecraft-to-ex-meta-monetisation-lead",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/xbox-aim-to-wring-more-cash-out-of-the-games-theyve-not-cast-into-oblivion-by-launching-new-licensing-arm-and-handing-minecraft-to-ex-meta-monetisation-lead",
-          "titre": "Xbox aim to wring more cash out of the games they've not cast into oblivion by launching new licensing arm and handing Minecraft to ex-Meta monetisation lead"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-won-t-be-playable-on-pc-at-launch-via-xbox-s-cloud-str",
-      "titre": "GTA 6 won't be playable on PC at launch via Xbox's cloud streaming services, Microsoft exec indicates while refuting exclusivity deal report",
-      "url": "https://www.rockpapershotgun.com/gta-6-wont-be-playable-on-pc-at-launch-via-xboxs-cloud-streaming-services-microsoft-exec-indicates-while-refuting-exclusivity-deal-report",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 29.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/gta-6-wont-be-playable-on-pc-at-launch-via-xboxs-cloud-streaming-services-microsoft-exec-indicates-while-refuting-exclusivity-deal-report",
-          "titre": "GTA 6 won't be playable on PC at launch via Xbox's cloud streaming services, Microsoft exec indicates while refuting exclusivity deal report"
         }
       ]
     },
@@ -407,7 +347,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.1,
       "chaleur": 7,
       "liens": [
         {
@@ -425,7 +365,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 7,
       "liens": [
         {
@@ -443,7 +383,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 7,
       "liens": [
         {
@@ -461,7 +401,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.1,
       "chaleur": 7,
       "liens": [
         {
@@ -526,20 +466,272 @@ const VEILLE = {
       ]
     },
     {
-      "id": "pax-west",
-      "titre": "PAX West",
-      "url": "https://www.gamedeveloper.comwest.paxsite.com",
+      "id": "trump-administration-suspends-microsoft-s-ability-to-apply-f",
+      "titre": "Trump administration suspends Microsoft's ability to apply for green cards, alleging fraud",
+      "url": "https://www.gamedeveloper.com/business/trump-administration-suspends-microsoft-s-ability-to-apply-for-green-cards-alleging-fraud",
       "sources": [
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 0.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
-          "url": "https://www.gamedeveloper.comwest.paxsite.com",
-          "titre": "PAX West"
+          "url": "https://www.gamedeveloper.com/business/trump-administration-suspends-microsoft-s-ability-to-apply-for-green-cards-alleging-fraud",
+          "titre": "Trump administration suspends Microsoft's ability to apply for green cards, alleging fraud"
+        }
+      ]
+    },
+    {
+      "id": "volatiles-takes-the-piece-by-piece-map-building-of-boardgame",
+      "titre": "Volatiles takes the piece-by-piece map building of boardgames like Betrayal at House on the Hill and slaps a gory survival shooter on top of them",
+      "url": "https://www.rockpapershotgun.com/volatiles-takes-the-piece-by-piece-map-building-of-boardgames-like-betrayal-at-house-on-the-hill-and-slaps-a-gory-survival-shooter-on-top-of-them",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/volatiles-takes-the-piece-by-piece-map-building-of-boardgames-like-betrayal-at-house-on-the-hill-and-slaps-a-gory-survival-shooter-on-top-of-them",
+          "titre": "Volatiles takes the piece-by-piece map building of boardgames like Betrayal at House on the Hill and slaps a gory survival shooter on top of them"
+        }
+      ]
+    },
+    {
+      "id": "a-great-indie-studio-is-making-a-sequel-to-one-of-my-favorit",
+      "titre": "A great indie studio is making a sequel to one of my favorite adventures 17 years later, for one simple reason: 'We're not getting any younger, and the world seems to be ending'",
+      "url": "https://www.pcgamer.com/games/adventure/a-great-indie-studio-is-making-a-sequel-to-one-of-my-favorite-adventures-17-years-later-for-one-simple-reason-were-not-getting-any-younger-and-the-world-seems-to-be-ending/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/adventure/a-great-indie-studio-is-making-a-sequel-to-one-of-my-favorite-adventures-17-years-later-for-one-simple-reason-were-not-getting-any-younger-and-the-world-seems-to-be-ending/",
+          "titre": "A great indie studio is making a sequel to one of my favorite adventures 17 years later, for one simple reason: 'We're not getting any younger, and the world seems to be ending'"
+        }
+      ]
+    },
+    {
+      "id": "clair-obscur-expedition-33-comes-to-astral-ascent-in-new-cro",
+      "titre": "Clair Obscur: Expedition 33 Comes To Astral Ascent In New Crossover Update",
+      "url": "https://www.nintendolife.com/news/2026/10/clair-obscur-expedition-33-comes-to-astral-ascent-in-new-crossover-update",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/clair-obscur-expedition-33-comes-to-astral-ascent-in-new-crossover-update",
+          "titre": "Clair Obscur: Expedition 33 Comes To Astral Ascent In New Crossover Update"
+        }
+      ]
+    },
+    {
+      "id": "subnautica-2-fans-can-finally-hunt-and-kill-those-pesky-nibb",
+      "titre": "Subnautica 2 fans can finally hunt and kill those pesky Nibbler Mangos—in Dave the Diver's crossover DLC",
+      "url": "https://www.pcgamer.com/games/adventure/subnautica-2-fans-can-finally-hunt-and-kill-those-pesky-nibbler-mangos-in-dave-the-divers-crossover-dlc/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/adventure/subnautica-2-fans-can-finally-hunt-and-kill-those-pesky-nibbler-mangos-in-dave-the-divers-crossover-dlc/",
+          "titre": "Subnautica 2 fans can finally hunt and kill those pesky Nibbler Mangos—in Dave the Diver's crossover DLC"
+        }
+      ]
+    },
+    {
+      "id": "prospice-anomalous-logistics-is-snowrunner-except-instead-of",
+      "titre": "Prospice: Anomalous Logistics is SnowRunner except instead of lengths of copper pipe, you're transporting the body parts of eldritch gods",
+      "url": "https://www.rockpapershotgun.com/prospice-anomalous-logistics-is-snowrunner-except-instead-of-lengths-of-copper-pipe-youre-transporting-the-body-parts-of-eldritch-gods",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/prospice-anomalous-logistics-is-snowrunner-except-instead-of-lengths-of-copper-pipe-youre-transporting-the-body-parts-of-eldritch-gods",
+          "titre": "Prospice: Anomalous Logistics is SnowRunner except instead of lengths of copper pipe, you're transporting the body parts of eldritch gods"
+        }
+      ]
+    },
+    {
+      "id": "mafia-3-definitive-edition-s-native-60fps-ps5-upgrade-is-out",
+      "titre": "Mafia 3: Definitive Edition's Native 60fps PS5 Upgrade Is Out Now, Free for Existing Owners",
+      "url": "https://www.pushsquare.com/news/2026/10/mafia-3-definitive-editions-native-60fps-ps5-upgrade-is-out-now-free-for-existing-owners",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/mafia-3-definitive-editions-native-60fps-ps5-upgrade-is-out-now-free-for-existing-owners",
+          "titre": "Mafia 3: Definitive Edition's Native 60fps PS5 Upgrade Is Out Now, Free for Existing Owners"
+        }
+      ]
+    },
+    {
+      "id": "it-s-clear-that-we-both-adore-one-another-s-games-a-lot-dav",
+      "titre": "\"It's clear that we both adore one another's games a lot\" - Dave the Diver and Subnautica 2 team up for a crossover made in heaven",
+      "url": "https://www.eurogamer.net/dave-the-diver-final-dlc-subnautica-2-crossover",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dave-the-diver-final-dlc-subnautica-2-crossover",
+          "titre": "\"It's clear that we both adore one another's games a lot\" - Dave the Diver and Subnautica 2 team up for a crossover made in heaven"
+        }
+      ]
+    },
+    {
+      "id": "lazare-s-sacrifice-is-a-narrative-deckbuilder-made-with-gwen",
+      "titre": "Lazare’s Sacrifice is a narrative deckbuilder made with Gwent's creator about avoiding the guillotine during the French Revolution",
+      "url": "https://www.rockpapershotgun.com/lazares-sacrifice-is-a-narrative-deckbuilder-made-with-gwents-creator-about-avoiding-the-guillotine-during-the-french-revolution",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/lazares-sacrifice-is-a-narrative-deckbuilder-made-with-gwents-creator-about-avoiding-the-guillotine-during-the-french-revolution",
+          "titre": "Lazare’s Sacrifice is a narrative deckbuilder made with Gwent's creator about avoiding the guillotine during the French Revolution"
+        }
+      ]
+    },
+    {
+      "id": "two-point-museum-s-cutest-collaboration-is-now-available-and",
+      "titre": "Two Point Museum's Cutest Collaboration Is Now Available, And It's Free",
+      "url": "https://www.nintendolife.com/news/2026/10/two-point-museums-cutest-collaboration-is-now-available-and-its-free",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/two-point-museums-cutest-collaboration-is-now-available-and-its-free",
+          "titre": "Two Point Museum's Cutest Collaboration Is Now Available, And It's Free"
+        }
+      ]
+    },
+    {
+      "id": "i-love-k-pop-but-this-new-ps5-game-ain-t-it",
+      "titre": "I Love K-Pop, But This New PS5 Game Ain't It",
+      "url": "https://www.pushsquare.com/news/2026/10/i-love-k-pop-but-this-new-ps5-game-aint-it",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/i-love-k-pop-but-this-new-ps5-game-aint-it",
+          "titre": "I Love K-Pop, But This New PS5 Game Ain't It"
+        }
+      ]
+    },
+    {
+      "id": "i-have-added-roving-bands-of-militant-furries-to-grand-theft",
+      "titre": "I have added roving bands of militant furries to Grand Theft Auto 5",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-added-roving-bands-of-militant-furries-to-grand-theft-auto-5/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-added-roving-bands-of-militant-furries-to-grand-theft-auto-5/",
+          "titre": "I have added roving bands of militant furries to Grand Theft Auto 5"
+        }
+      ]
+    },
+    {
+      "id": "amazon-is-roasting-users-with-their-own-shopping-habits-but",
+      "titre": "Amazon is roasting users with their own shopping habits, but it don't have nothin' on us",
+      "url": "https://www.pcgamer.com/hardware/amazon-is-roasting-users-with-their-own-shopping-habits-but-it-dont-have-nothin-on-us/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/amazon-is-roasting-users-with-their-own-shopping-habits-but-it-dont-have-nothin-on-us/",
+          "titre": "Amazon is roasting users with their own shopping habits, but it don't have nothin' on us"
+        }
+      ]
+    },
+    {
+      "id": "fatal-fury-ps5-s-ridiculous-dlc-run-continues-with-tekken-8",
+      "titre": "Fatal Fury PS5's Ridiculous DLC Run Continues with Tekken 8's Reina Teased",
+      "url": "https://www.pushsquare.com/news/2026/10/fatal-fury-ps5s-ridiculous-dlc-run-continues-with-tekken-8s-reina-teased",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/fatal-fury-ps5s-ridiculous-dlc-run-continues-with-tekken-8s-reina-teased",
+          "titre": "Fatal Fury PS5's Ridiculous DLC Run Continues with Tekken 8's Reina Teased"
+        }
+      ]
+    },
+    {
+      "id": "crowning-the-best-fps-mode-of-all-time-through-1v1-combat-ro",
+      "titre": "Crowning the best FPS mode of all time through 1v1 combat (ROUND 2)",
+      "url": "https://www.pcgamer.com/games/fps/crowning-the-best-fps-mode-of-all-time-through-1v1-combat-round-2/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/crowning-the-best-fps-mode-of-all-time-through-1v1-combat-round-2/",
+          "titre": "Crowning the best FPS mode of all time through 1v1 combat (ROUND 2)"
         }
       ]
     },
@@ -551,7 +743,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +761,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -587,7 +779,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -605,7 +797,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -623,7 +815,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -641,7 +833,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -659,7 +851,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -677,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
@@ -688,218 +880,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "japanese-charts-xenoblade-chronicles-2-scrapes-into-the-top",
-      "titre": "Japanese Charts: Xenoblade Chronicles 2 Scrapes Into The Top 10 With 5,000+ Sales",
-      "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-xenoblade-chronicles-2-scrapes-into-the-top-10-with-5000plus-sales",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-xenoblade-chronicles-2-scrapes-into-the-top-10-with-5000plus-sales",
-          "titre": "Japanese Charts: Xenoblade Chronicles 2 Scrapes Into The Top 10 With 5,000+ Sales"
-        }
-      ]
-    },
-    {
-      "id": "mixtape-wins-three-awards-at-australian-game-developer-award",
-      "titre": "Mixtape wins three awards at Australian Game Developer Awards 2026, including GOTY",
-      "url": "https://www.gamesindustry.biz/mixtape-wins-three-awards-at-australian-game-developer-awards-2026-including-goty",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/mixtape-wins-three-awards-at-australian-game-developer-awards-2026-including-goty",
-          "titre": "Mixtape wins three awards at Australian Game Developer Awards 2026, including GOTY"
-        }
-      ]
-    },
-    {
-      "id": "dd2-dark-arisen-treat-for-the-hounds-a-direwolf-delicacy-que",
-      "titre": "DD2 Dark Arisen: Treat for the hounds, A Direwolf Delicacy quest guide",
-      "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-treat-for-the-hounds-a-direwolf-delicacy-quest-guide/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-treat-for-the-hounds-a-direwolf-delicacy-quest-guide/",
-          "titre": "DD2 Dark Arisen: Treat for the hounds, A Direwolf Delicacy quest guide"
-        }
-      ]
-    },
-    {
-      "id": "spiritfarer-dev-s-next-game-at-fate-s-end-is-one-of-the-pret",
-      "titre": "Spiritfarer dev's next game, At Fate's End, is one of the prettiest things I've ever seen",
-      "url": "https://www.pcgamer.com/games/action/spiritfarer-devs-next-game-at-fates-end-is-one-of-the-prettiest-things-ive-ever-seen/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/spiritfarer-devs-next-game-at-fates-end-is-one-of-the-prettiest-things-ive-ever-seen/",
-          "titre": "Spiritfarer dev's next game, At Fate's End, is one of the prettiest things I've ever seen"
-        }
-      ]
-    },
-    {
-      "id": "a-creative-idea-can-save-more-money-than-ai-can-right-now-g",
-      "titre": "\"A creative idea can save more money than AI can right now\" – Glen Schofield on his retirement, Callisto Protocol's development, and the state of AAA",
-      "url": "https://www.gamesindustry.biz/a-creative-idea-can-save-more-money-than-ai-can-right-now-glen-schofield-on-his-retirement-callisto-protocols-development-and-the-state-of-aaa",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/a-creative-idea-can-save-more-money-than-ai-can-right-now-glen-schofield-on-his-retirement-callisto-protocols-development-and-the-state-of-aaa",
-          "titre": "\"A creative idea can save more money than AI can right now\" – Glen Schofield on his retirement, Callisto Protocol's development, and the state of AAA"
-        }
-      ]
-    },
-    {
-      "id": "star-wars-galactic-racer-was-prototyped-in-the-most-unexpect",
-      "titre": "Star Wars: Galactic Racer was prototyped in the most unexpected way: as a board game covered in Post-It notes",
-      "url": "https://www.eurogamer.net/star-wars-galactic-racer-board-game-post-it-prototype",
+      "id": "witcher-3-remastered-patch-rolls-out-on-pc-and-console-with",
+      "titre": "Witcher 3 Remastered patch rolls out on PC and console, with separate Switch 2 patch earmarked to address blurry visuals",
+      "url": "https://www.eurogamer.net/witcher-3-remastered-patch-bloom-console-performance-switch-2",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.0,
+      "heures": 4.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/star-wars-galactic-racer-board-game-post-it-prototype",
-          "titre": "Star Wars: Galactic Racer was prototyped in the most unexpected way: as a board game covered in Post-It notes"
+          "url": "https://www.eurogamer.net/witcher-3-remastered-patch-bloom-console-performance-switch-2",
+          "titre": "Witcher 3 Remastered patch rolls out on PC and console, with separate Switch 2 patch earmarked to address blurry visuals"
         }
       ]
     },
     {
-      "id": "what-does-nomadic-crafting-let-you-make-in-arc-raiders",
-      "titre": "What does Nomadic Crafting let you make in Arc Raiders?",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-nomadic-crafting-items/",
+      "id": "xbox-aim-to-wring-more-cash-out-of-the-games-they-ve-not-cas",
+      "titre": "Xbox aim to wring more cash out of the games they've not cast into oblivion by launching new licensing arm and handing Minecraft to ex-Meta monetisation lead",
+      "url": "https://www.rockpapershotgun.com/xbox-aim-to-wring-more-cash-out-of-the-games-theyve-not-cast-into-oblivion-by-launching-new-licensing-arm-and-handing-minecraft-to-ex-meta-monetisation-lead",
       "sources": [
-        "PC Gamer"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 3.1,
+      "heures": 5.6,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-nomadic-crafting-items/",
-          "titre": "What does Nomadic Crafting let you make in Arc Raiders?"
-        }
-      ]
-    },
-    {
-      "id": "edith-finch-journey-designer-secures-big-investment-for-shar",
-      "titre": "Edith Finch, Journey designer secures big investment for shared-world fantasy game",
-      "url": "https://www.videogameschronicle.com/news/edith-finch-journey-designer-secures-big-investment-for-shared-world-fantasy-game/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/edith-finch-journey-designer-secures-big-investment-for-shared-world-fantasy-game/",
-          "titre": "Edith Finch, Journey designer secures big investment for shared-world fantasy game"
-        }
-      ]
-    },
-    {
-      "id": "nba-2k27-tops-us-august-charts-becomes-third-best-selling-ga",
-      "titre": "NBA 2K27 tops US August charts, becomes third-best selling game of 2026 | US Monthly Charts",
-      "url": "https://www.gamesindustry.biz/nba-2k27-tops-us-august-charts-becomes-third-best-selling-game-of-2026-us-monthly-charts",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nba-2k27-tops-us-august-charts-becomes-third-best-selling-game-of-2026-us-monthly-charts",
-          "titre": "NBA 2K27 tops US August charts, becomes third-best selling game of 2026 | US Monthly Charts"
-        }
-      ]
-    },
-    {
-      "id": "safe-in-our-world-launches-four-billion-players-campaign-to",
-      "titre": "Safe In Our World launches Four Billion Players campaign to make mental health support more accessible for gamers",
-      "url": "https://www.gamesindustry.biz/safe-in-our-world-launches-four-billion-players-campaign-to-make-mental-health-support-more-accessible-for-gamers",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/safe-in-our-world-launches-four-billion-players-campaign-to-make-mental-health-support-more-accessible-for-gamers",
-          "titre": "Safe In Our World launches Four Billion Players campaign to make mental health support more accessible for gamers"
-        }
-      ]
-    },
-    {
-      "id": "a-full-sized-replica-of-the-atari-800xl-home-computer-is-com",
-      "titre": "A full-sized replica of the Atari 800XL home computer is coming next year",
-      "url": "https://www.videogameschronicle.com/news/a-full-sized-replica-of-the-atari-800xl-home-computer-is-coming-next-year/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/a-full-sized-replica-of-the-atari-800xl-home-computer-is-coming-next-year/",
-          "titre": "A full-sized replica of the Atari 800XL home computer is coming next year"
-        }
-      ]
-    },
-    {
-      "id": "nerfs-to-silent-hill-townfall-s-worst-enemy-are-substantial",
-      "titre": "Nerfs to Silent Hill: Townfall's Worst Enemy Are Substantial, Hard Puzzle Also Tweaked",
-      "url": "https://www.pushsquare.com/news/2026/10/nerfs-to-silent-hill-townfalls-worst-enemy-are-substantial-hard-puzzle-also-tweaked",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/nerfs-to-silent-hill-townfalls-worst-enemy-are-substantial-hard-puzzle-also-tweaked",
-          "titre": "Nerfs to Silent Hill: Townfall's Worst Enemy Are Substantial, Hard Puzzle Also Tweaked"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/xbox-aim-to-wring-more-cash-out-of-the-games-theyve-not-cast-into-oblivion-by-launching-new-licensing-arm-and-handing-minecraft-to-ex-meta-monetisation-lead",
+          "titre": "Xbox aim to wring more cash out of the games they've not cast into oblivion by launching new licensing arm and handing Minecraft to ex-Meta monetisation lead"
         }
       ]
     },
@@ -911,7 +923,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.1,
       "chaleur": 6,
       "liens": [
         {
@@ -929,7 +941,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 8.0,
       "chaleur": 6,
       "liens": [
         {
@@ -948,7 +960,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 21.2,
+      "heures": 23.2,
       "chaleur": 6,
       "liens": [
         {
@@ -971,7 +983,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 26.4,
+      "heures": 28.4,
       "chaleur": 6,
       "liens": [
         {
@@ -990,7 +1002,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 28.3,
+      "heures": 30.3,
       "chaleur": 6,
       "liens": [
         {
@@ -1013,7 +1025,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.5,
       "chaleur": 5,
       "liens": [
         {
@@ -1031,7 +1043,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 18.0,
       "chaleur": 5,
       "liens": [
         {
@@ -1049,7 +1061,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.9,
+      "heures": 25.9,
       "chaleur": 5,
       "liens": [
         {
@@ -1060,133 +1072,95 @@ const VEILLE = {
       ]
     },
     {
-      "id": "call-of-duty-modern-warfare-4-reveals-pricey-spawn-options-f",
-      "titre": "Call of Duty: Modern Warfare 4 reveals pricey spawn options for DMZ, which offer rich players an enormous advantage over poor players spawning on foot",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-paid-infil-spawn-options",
+      "id": "japanese-charts-xenoblade-chronicles-2-scrapes-into-the-top",
+      "titre": "Japanese Charts: Xenoblade Chronicles 2 Scrapes Into The Top 10 With 5,000+ Sales",
+      "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-xenoblade-chronicles-2-scrapes-into-the-top-10-with-5000plus-sales",
       "sources": [
-        "Eurogamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 4.2,
       "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-paid-infil-spawn-options",
-          "titre": "Call of Duty: Modern Warfare 4 reveals pricey spawn options for DMZ, which offer rich players an enormous advantage over poor players spawning on foot"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-xenoblade-chronicles-2-scrapes-into-the-top-10-with-5000plus-sales",
+          "titre": "Japanese Charts: Xenoblade Chronicles 2 Scrapes Into The Top 10 With 5,000+ Sales"
         }
       ]
     },
     {
-      "id": "review-hellraiser-revival-ps5-faithful-adaptation-let-down-b",
-      "titre": "Review: Hellraiser: Revival (PS5) - Faithful Adaptation Let Down by Severe Gameplay Woes",
-      "url": "https://www.pushsquare.com/reviews/ps5/hellraiser-revival",
+      "id": "mixtape-wins-three-awards-at-australian-game-developer-award",
+      "titre": "Mixtape wins three awards at Australian Game Developer Awards 2026, including GOTY",
+      "url": "https://www.gamesindustry.biz/mixtape-wins-three-awards-at-australian-game-developer-awards-2026-including-goty",
       "sources": [
-        "Push Square"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 4.5,
       "chaleur": 4,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/hellraiser-revival",
-          "titre": "Review: Hellraiser: Revival (PS5) - Faithful Adaptation Let Down by Severe Gameplay Woes"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/mixtape-wins-three-awards-at-australian-game-developer-awards-2026-including-goty",
+          "titre": "Mixtape wins three awards at Australian Game Developer Awards 2026, including GOTY"
         }
       ]
     },
     {
-      "id": "guide-stage-tour-setlist-all-confirmed-songs-and-artists",
-      "titre": "Guide: Stage Tour Setlist: All Confirmed Songs and Artists",
-      "url": "https://www.pushsquare.com/guides/stage-tour-setlist-all-confirmed-songs-and-artists",
+      "id": "dd2-dark-arisen-treat-for-the-hounds-a-direwolf-delicacy-que",
+      "titre": "DD2 Dark Arisen: Treat for the hounds, A Direwolf Delicacy quest guide",
+      "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-treat-for-the-hounds-a-direwolf-delicacy-quest-guide/",
       "sources": [
-        "Push Square"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 4.6,
       "chaleur": 4,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/stage-tour-setlist-all-confirmed-songs-and-artists",
-          "titre": "Guide: Stage Tour Setlist: All Confirmed Songs and Artists"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-treat-for-the-hounds-a-direwolf-delicacy-quest-guide/",
+          "titre": "DD2 Dark Arisen: Treat for the hounds, A Direwolf Delicacy quest guide"
         }
       ]
     },
     {
-      "id": "blizzard-is-changing-the-appearance-of-wow-forever-s-new-sky",
-      "titre": "Blizzard is changing the appearance of WoW: Forever's new Skyborne race in response to community feedback",
-      "url": "https://www.eurogamer.net/world-of-warcraft-forever-skyborne-character-model",
+      "id": "spiritfarer-dev-s-next-game-at-fate-s-end-is-one-of-the-pret",
+      "titre": "Spiritfarer dev's next game, At Fate's End, is one of the prettiest things I've ever seen",
+      "url": "https://www.pcgamer.com/games/action/spiritfarer-devs-next-game-at-fates-end-is-one-of-the-prettiest-things-ive-ever-seen/",
       "sources": [
-        "Eurogamer"
+        "PC Gamer"
       ],
       "reprises": 1,
       "heures": 4.8,
       "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/world-of-warcraft-forever-skyborne-character-model",
-          "titre": "Blizzard is changing the appearance of WoW: Forever's new Skyborne race in response to community feedback"
-        }
-      ]
-    },
-    {
-      "id": "google-and-unity-unveil-gen-ai-game-making-platforms-and-dem",
-      "titre": "Google and Unity unveil gen-AI game-making platforms, and demonstrate one of them with depressingly rubbish \"dream game\" Space Corridor",
-      "url": "https://www.eurogamer.net/google-playground-unity-spark-gen-ai-game-creators",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 4.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/google-playground-unity-spark-gen-ai-game-creators",
-          "titre": "Google and Unity unveil gen-AI game-making platforms, and demonstrate one of them with depressingly rubbish \"dream game\" Space Corridor"
-        }
-      ]
-    },
-    {
-      "id": "where-to-find-the-ruined-homestead-in-arc-raiders",
-      "titre": "Where to find the Ruined Homestead in Arc Raiders",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-ruined-homestead-location/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.9,
-      "chaleur": 4,
-      "liens": [
-        {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-ruined-homestead-location/",
-          "titre": "Where to find the Ruined Homestead in Arc Raiders"
+          "url": "https://www.pcgamer.com/games/action/spiritfarer-devs-next-game-at-fates-end-is-one-of-the-prettiest-things-ive-ever-seen/",
+          "titre": "Spiritfarer dev's next game, At Fate's End, is one of the prettiest things I've ever seen"
         }
       ]
     },
     {
-      "id": "what-s-the-point-of-this-if-you-re-not-feeling-something-st",
-      "titre": "\"What's the point of this if you're not feeling something?\" Star Wars: Galactic Racer devs on how they bottled Burnout's magic 'game feel'",
-      "url": "https://www.eurogamer.net/star-wars-galactic-racer-devs-interview-game-feel-burnout-board-game",
+      "id": "a-creative-idea-can-save-more-money-than-ai-can-right-now-g",
+      "titre": "\"A creative idea can save more money than AI can right now\" – Glen Schofield on his retirement, Callisto Protocol's development, and the state of AAA",
+      "url": "https://www.gamesindustry.biz/a-creative-idea-can-save-more-money-than-ai-can-right-now-glen-schofield-on-his-retirement-callisto-protocols-development-and-the-state-of-aaa",
       "sources": [
-        "Eurogamer"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 4.9,
       "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/star-wars-galactic-racer-devs-interview-game-feel-burnout-board-game",
-          "titre": "\"What's the point of this if you're not feeling something?\" Star Wars: Galactic Racer devs on how they bottled Burnout's magic 'game feel'"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/a-creative-idea-can-save-more-money-than-ai-can-right-now-glen-schofield-on-his-retirement-callisto-protocols-development-and-the-state-of-aaa",
+          "titre": "\"A creative idea can save more money than AI can right now\" – Glen Schofield on his retirement, Callisto Protocol's development, and the state of AAA"
         }
       ]
     }
   ],
-  "alertes": [
-    "For the first time in the series, Grand Theft Auto 6 lets you use headphones to listen to radio stations and podcasts"
-  ]
+  "alertes": []
 };
