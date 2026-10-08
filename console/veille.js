@@ -1,38 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "08/10/2026 à 02h21",
+  "collecte": "08/10/2026 à 04h23",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "here-s-the-dragon-s-dogma-2-dark-arisen-release-time-for-you",
-      "titre": "Here's the Dragon's Dogma 2: Dark Arisen release time for your region",
-      "url": "https://www.pcgamer.com/games/rpg/heres-the-dragons-dogma-2-dark-arisen-release-time-for-your-region/",
-      "sources": [
-        "Nintendo Life",
-        "PC Gamer",
-        "Push Square"
-      ],
-      "reprises": 3,
-      "heures": 2.4,
-      "chaleur": 14,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/heres-the-dragons-dogma-2-dark-arisen-release-time-for-your-region/",
-          "titre": "Here's the Dragon's Dogma 2: Dark Arisen release time for your region"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/dragons-dogma-2-dark-arisen",
-          "titre": "Review: Dragon's Dogma 2: Dark Arisen (PS5) - Epic Expansion Is Peak Dragon's Dogma"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/dragons-dogma-2-dark-arisen",
-          "titre": "Review: Dragon's Dogma 2: Dark Arisen (Switch 2) - An Action RPG Great Returns In Fine Form"
-        }
-      ]
-    },
     {
       "id": "star-wars-zero-company-developer-bit-reactor-begins-bringing",
       "titre": "Star Wars Zero Company developer Bit Reactor begins bringing furloughed staff back",
@@ -44,7 +14,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 6.7,
+      "heures": 8.7,
       "chaleur": 13,
       "liens": [
         {
@@ -79,7 +49,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 13.0,
+      "heures": 15.0,
       "chaleur": 13,
       "liens": [
         {
@@ -108,7 +78,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 13,
       "liens": [
         {
@@ -124,6 +94,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "here-s-the-dragon-s-dogma-2-dark-arisen-release-time-for-you",
+      "titre": "Here's the Dragon's Dogma 2: Dark Arisen release time for your region",
+      "url": "https://www.pcgamer.com/games/rpg/heres-the-dragons-dogma-2-dark-arisen-release-time-for-your-region/",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer",
+        "Push Square"
+      ],
+      "reprises": 3,
+      "heures": 4.4,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/heres-the-dragons-dogma-2-dark-arisen-release-time-for-your-region/",
+          "titre": "Here's the Dragon's Dogma 2: Dark Arisen release time for your region"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/dragons-dogma-2-dark-arisen",
+          "titre": "Review: Dragon's Dogma 2: Dark Arisen (PS5) - Epic Expansion Is Peak Dragon's Dogma"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/dragons-dogma-2-dark-arisen",
+          "titre": "Review: Dragon's Dogma 2: Dark Arisen (Switch 2) - An Action RPG Great Returns In Fine Form"
+        }
+      ]
+    },
+    {
       "id": "sony-is-reportedly-plotting-to-revive-classic-playstation-ga",
       "titre": "Sony is reportedly plotting to revive classic PlayStation games, starting with a new Ape Escape from the developers behind Sonic Mania",
       "url": "https://www.eurogamer.net/sony-classic-playstation-games-ape-escape-sonic-mania",
@@ -132,7 +132,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 7.9,
+      "heures": 9.9,
       "chaleur": 11,
       "liens": [
         {
@@ -155,7 +155,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.5,
       "chaleur": 8,
       "liens": [
         {
@@ -173,7 +173,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 4.0,
       "chaleur": 8,
       "liens": [
         {
@@ -191,7 +191,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.5,
       "chaleur": 8,
       "liens": [
         {
@@ -210,7 +210,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 8,
       "liens": [
         {
@@ -233,7 +233,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 16.0,
       "chaleur": 8,
       "liens": [
         {
@@ -251,7 +251,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.3,
       "chaleur": 8,
       "liens": [
         {
@@ -269,7 +269,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 19.9,
       "chaleur": 8,
       "liens": [
         {
@@ -288,7 +288,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 7.1,
+      "heures": 9.1,
       "chaleur": 7,
       "liens": [
         {
@@ -312,7 +312,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.8,
+      "heures": 11.8,
       "chaleur": 7,
       "liens": [
         {
@@ -400,45 +400,81 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gundam-rogue-orbit-drops-its-enthusiastically-narrated-ps5-g",
-      "titre": "Gundam Rogue Orbit Drops Its Enthusiastically Narrated PS5 Gameplay Trailer",
-      "url": "https://www.pushsquare.com/news/2026/10/gundam-rogue-orbit-drops-its-enthusiastically-narrated-ps5-gameplay-trailer",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/gundam-rogue-orbit-drops-its-enthusiastically-narrated-ps5-gameplay-trailer",
-          "titre": "Gundam Rogue Orbit Drops Its Enthusiastically Narrated PS5 Gameplay Trailer"
-        }
-      ]
-    },
-    {
-      "id": "the-first-review-for-castlevania-belmont-s-curse-is-in",
-      "titre": "The First Review For Castlevania: Belmont's Curse Is In",
-      "url": "https://www.nintendolife.com/news/2026/10/the-first-review-for-castlevania-belmonts-curse-is-in",
+      "id": "preview-muramasa-revenant-blades-polishes-vanillaware-s-gem",
+      "titre": "Preview: 'Muramasa: Revenant Blades' Polishes Vanillaware's Gem To Shine Brighter Than Ever",
+      "url": "https://www.nintendolife.com/previews/muramasa-revenant-blades-polishes-vanillawares-gem-to-shine-brighter-than-ever",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.9,
+      "heures": 0.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/the-first-review-for-castlevania-belmonts-curse-is-in",
-          "titre": "The First Review For Castlevania: Belmont's Curse Is In"
+          "url": "https://www.nintendolife.com/previews/muramasa-revenant-blades-polishes-vanillawares-gem-to-shine-brighter-than-ever",
+          "titre": "Preview: 'Muramasa: Revenant Blades' Polishes Vanillaware's Gem To Shine Brighter Than Ever"
         }
       ]
     },
     {
-      "id": "ps5-to-integrate-anime-into-main-menu-as-sony-tightens-ties",
-      "titre": "PS5 to Integrate Anime into Main Menu as Sony Tightens Ties with Crunchyroll",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5-to-integrate-anime-into-main-menu-as-sony-tightens-ties-with-crunchyroll",
+      "id": "muramasa-revenant-blades-has-108-swords-and-its-definitive-u",
+      "titre": "Muramasa: Revenant Blades has 108 swords, and its definitive update for PC wants to make sure you use them all",
+      "url": "https://www.pcgamer.com/games/action/muramasa/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/muramasa/",
+          "titre": "Muramasa: Revenant Blades has 108 swords, and its definitive update for PC wants to make sure you use them all"
+        }
+      ]
+    },
+    {
+      "id": "sonic-racing-crossworlds-year-one-edition-spotted-online",
+      "titre": "Sonic Racing: CrossWorlds \"Year One\" Edition Spotted Online",
+      "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-one-edition-spotted-online",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-one-edition-spotted-online",
+          "titre": "Sonic Racing: CrossWorlds \"Year One\" Edition Spotted Online"
+        }
+      ]
+    },
+    {
+      "id": "now-we-know-the-prices-of-the-new-rtx-spark-laptops-and-they",
+      "titre": "Now we know the prices of the new RTX Spark laptops and they're as expensive as I'm sure you feared",
+      "url": "https://www.pcgamer.com/hardware/gaming-laptops/now-we-know-the-prices-of-the-new-rtx-spark-laptops-and-theyre-as-expensive-as-im-sure-you-feared/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-laptops/now-we-know-the-prices-of-the-new-rtx-spark-laptops-and-theyre-as-expensive-as-im-sure-you-feared/",
+          "titre": "Now we know the prices of the new RTX Spark laptops and they're as expensive as I'm sure you feared"
+        }
+      ]
+    },
+    {
+      "id": "gundam-rogue-orbit-drops-its-enthusiastically-narrated-ps5-g",
+      "titre": "Gundam Rogue Orbit Drops Its Enthusiastically Narrated PS5 Gameplay Trailer",
+      "url": "https://www.pushsquare.com/news/2026/10/gundam-rogue-orbit-drops-its-enthusiastically-narrated-ps5-gameplay-trailer",
       "sources": [
         "Push Square"
       ],
@@ -448,62 +484,8 @@ const VEILLE = {
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps5-to-integrate-anime-into-main-menu-as-sony-tightens-ties-with-crunchyroll",
-          "titre": "PS5 to Integrate Anime into Main Menu as Sony Tightens Ties with Crunchyroll"
-        }
-      ]
-    },
-    {
-      "id": "blizzard-promises-to-make-the-blue-elves-in-world-of-warcraf",
-      "titre": "Blizzard promises to make the blue elves in World of Warcraft: Forever look worse (positive)",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-promises-to-make-the-blue-elves-in-world-of-warcraft-forever-look-worse-positive/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-promises-to-make-the-blue-elves-in-world-of-warcraft-forever-look-worse-positive/",
-          "titre": "Blizzard promises to make the blue elves in World of Warcraft: Forever look worse (positive)"
-        }
-      ]
-    },
-    {
-      "id": "with-grand-theft-auto-6-poised-to-take-over-the-world-i-reac",
-      "titre": "With Grand Theft Auto 6 poised to take over the world, I reached out to Jack Thompson and it did not go well",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/with-grand-theft-auto-6-poised-to-take-over-the-world-i-reached-out-to-jack-thompson-and-it-did-not-go-well/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/with-grand-theft-auto-6-poised-to-take-over-the-world-i-reached-out-to-jack-thompson-and-it-did-not-go-well/",
-          "titre": "With Grand Theft Auto 6 poised to take over the world, I reached out to Jack Thompson and it did not go well"
-        }
-      ]
-    },
-    {
-      "id": "blood-bowl-3-is-being-replaced-by-warhammer-blood-bowl-what",
-      "titre": "Blood Bowl 3 is being replaced by Warhammer Blood Bowl: What will happen to everyone's unspent currency?",
-      "url": "https://www.pcgamer.com/games/strategy/blood-bowl-3-is-being-replaced-by-warhammer-blood-bowl-what-will-happen-to-everyones-unspent-currency/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/blood-bowl-3-is-being-replaced-by-warhammer-blood-bowl-what-will-happen-to-everyones-unspent-currency/",
-          "titre": "Blood Bowl 3 is being replaced by Warhammer Blood Bowl: What will happen to everyone's unspent currency?"
+          "url": "https://www.pushsquare.com/news/2026/10/gundam-rogue-orbit-drops-its-enthusiastically-narrated-ps5-gameplay-trailer",
+          "titre": "Gundam Rogue Orbit Drops Its Enthusiastically Narrated PS5 Gameplay Trailer"
         }
       ]
     },
@@ -515,7 +497,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.1,
       "chaleur": 6,
       "liens": [
         {
@@ -533,7 +515,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.5,
       "chaleur": 6,
       "liens": [
         {
@@ -551,31 +533,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/cities-skylines-is-building-an-expanded-edition-on-switch-2-this-month",
           "titre": "Cities: Skylines Is Building An 'Expanded Edition' On Switch 2 This Month"
-        }
-      ]
-    },
-    {
-      "id": "for-a-moment-it-looked-like-grand-theft-auto-6-might-be-play",
-      "titre": "For a moment it looked like Grand Theft Auto 6 might be playable on PC on launch day—then Xbox's chief strategy officer crashed the party",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/for-a-moment-it-looked-like-grand-theft-auto-6-might-be-playable-on-pc-on-launch-day-then-xboxs-chief-strategy-officer-crashed-the-party/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/for-a-moment-it-looked-like-grand-theft-auto-6-might-be-playable-on-pc-on-launch-day-then-xboxs-chief-strategy-officer-crashed-the-party/",
-          "titre": "For a moment it looked like Grand Theft Auto 6 might be playable on PC on launch day—then Xbox's chief strategy officer crashed the party"
         }
       ]
     },
@@ -587,7 +551,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.4,
       "chaleur": 6,
       "liens": [
         {
@@ -606,7 +570,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 14.3,
+      "heures": 16.3,
       "chaleur": 6,
       "liens": [
         {
@@ -630,7 +594,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 15.1,
+      "heures": 17.1,
       "chaleur": 6,
       "liens": [
         {
@@ -646,30 +610,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sega-responds-to-sonic-s-wild-start-on-discord",
-      "titre": "Sega Responds To Sonic's Wild Start On Discord",
-      "url": "https://www.nintendolife.com/news/2026/10/sega-responds-to-sonics-wild-start-on-discord",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 23.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/sega-responds-to-sonics-wild-start-on-discord",
-          "titre": "Sega Responds To Sonic's Wild Start On Discord"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sonic-the-hedgehog-official-discord-oh-no",
-          "titre": "\"Keep it family friendly\" - Sega's official Sonic Discord swarmed by 50,000 people in six hours, as understandably strict moderation is put in place"
-        }
-      ]
-    },
-    {
       "id": "cancelled-mmo-spin-off-borderlands-online-is-playable-once-a",
       "titre": "Cancelled MMO spin-off Borderlands Online is playable once again, and the team behind the unofficial project thankfully didn't use any genAI to get it running",
       "url": "https://www.rockpapershotgun.com/cancelled-mmo-spin-off-borderlands-online-is-playable-once-again-and-the-team-behind-the-unofficial-project-thankfully-didnt-use-any-genai-to-get-it-running",
@@ -677,7 +617,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 31.0,
+      "heures": 33.0,
       "chaleur": 6,
       "liens": [
         {
@@ -695,13 +635,31 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 33.1,
+      "heures": 35.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
           "titre": "Undead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs"
+        }
+      ]
+    },
+    {
+      "id": "for-a-moment-it-looked-like-grand-theft-auto-6-might-be-play",
+      "titre": "For a moment it looked like Grand Theft Auto 6 might be playable on PC on launch day—then Xbox's chief strategy officer crashed the party",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/for-a-moment-it-looked-like-grand-theft-auto-6-might-be-playable-on-pc-on-launch-day-then-xboxs-chief-strategy-officer-crashed-the-party/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 12.3,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/for-a-moment-it-looked-like-grand-theft-auto-6-might-be-playable-on-pc-on-launch-day-then-xboxs-chief-strategy-officer-crashed-the-party/",
+          "titre": "For a moment it looked like Grand Theft Auto 6 might be playable on PC on launch day—then Xbox's chief strategy officer crashed the party"
         }
       ]
     },
@@ -713,49 +671,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.6,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/xbox-project-helix-console-family-of-devices-asha-sharma",
           "titre": "Xbox restates plans for next-gen Project Helix to be a \"family of devices\", stressing \"many players will be on the go\""
-        }
-      ]
-    },
-    {
-      "id": "rise-of-the-tomb-raider-switch-2-limited-run-physical-releas",
-      "titre": "Rise Of The Tomb Raider Switch 2 Limited Run Physical Release Announced",
-      "url": "https://www.nintendolife.com/news/2026/10/rise-of-the-tomb-raider-switch-2-limited-run-physical-release-announced",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 25.1,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/rise-of-the-tomb-raider-switch-2-limited-run-physical-release-announced",
-          "titre": "Rise Of The Tomb Raider Switch 2 Limited Run Physical Release Announced"
-        }
-      ]
-    },
-    {
-      "id": "eb-games-is-opening-north-america-s-first-ever-nintendo-stor",
-      "titre": "EB Games Is Opening North America's First-Ever Nintendo \"Store-Within-A-Store\" Experience",
-      "url": "https://www.nintendolife.com/news/2026/10/eb-games-is-opening-north-americas-first-ever-nintendo-store-within-a-store-experience",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 26.1,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/eb-games-is-opening-north-americas-first-ever-nintendo-store-within-a-store-experience",
-          "titre": "EB Games Is Opening North America's First-Ever Nintendo \"Store-Within-A-Store\" Experience"
         }
       ]
     },
@@ -767,13 +689,103 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 31.4,
+      "heures": 33.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp",
           "titre": "GameStop, other retailers to sell used PlayStation 5 Pro units for 66 percent over MSRP"
+        }
+      ]
+    },
+    {
+      "id": "the-first-review-for-castlevania-belmont-s-curse-is-in",
+      "titre": "The First Review For Castlevania: Belmont's Curse Is In",
+      "url": "https://www.nintendolife.com/news/2026/10/the-first-review-for-castlevania-belmonts-curse-is-in",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/the-first-review-for-castlevania-belmonts-curse-is-in",
+          "titre": "The First Review For Castlevania: Belmont's Curse Is In"
+        }
+      ]
+    },
+    {
+      "id": "ps5-to-integrate-anime-into-main-menu-as-sony-tightens-ties",
+      "titre": "PS5 to Integrate Anime into Main Menu as Sony Tightens Ties with Crunchyroll",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-to-integrate-anime-into-main-menu-as-sony-tightens-ties-with-crunchyroll",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5-to-integrate-anime-into-main-menu-as-sony-tightens-ties-with-crunchyroll",
+          "titre": "PS5 to Integrate Anime into Main Menu as Sony Tightens Ties with Crunchyroll"
+        }
+      ]
+    },
+    {
+      "id": "blizzard-promises-to-make-the-blue-elves-in-world-of-warcraf",
+      "titre": "Blizzard promises to make the blue elves in World of Warcraft: Forever look worse (positive)",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-promises-to-make-the-blue-elves-in-world-of-warcraft-forever-look-worse-positive/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-promises-to-make-the-blue-elves-in-world-of-warcraft-forever-look-worse-positive/",
+          "titre": "Blizzard promises to make the blue elves in World of Warcraft: Forever look worse (positive)"
+        }
+      ]
+    },
+    {
+      "id": "with-grand-theft-auto-6-poised-to-take-over-the-world-i-reac",
+      "titre": "With Grand Theft Auto 6 poised to take over the world, I reached out to Jack Thompson and it did not go well",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/with-grand-theft-auto-6-poised-to-take-over-the-world-i-reached-out-to-jack-thompson-and-it-did-not-go-well/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/with-grand-theft-auto-6-poised-to-take-over-the-world-i-reached-out-to-jack-thompson-and-it-did-not-go-well/",
+          "titre": "With Grand Theft Auto 6 poised to take over the world, I reached out to Jack Thompson and it did not go well"
+        }
+      ]
+    },
+    {
+      "id": "blood-bowl-3-is-being-replaced-by-warhammer-blood-bowl-what",
+      "titre": "Blood Bowl 3 is being replaced by Warhammer Blood Bowl: What will happen to everyone's unspent currency?",
+      "url": "https://www.pcgamer.com/games/strategy/blood-bowl-3-is-being-replaced-by-warhammer-blood-bowl-what-will-happen-to-everyones-unspent-currency/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/blood-bowl-3-is-being-replaced-by-warhammer-blood-bowl-what-will-happen-to-everyones-unspent-currency/",
+          "titre": "Blood Bowl 3 is being replaced by Warhammer Blood Bowl: What will happen to everyone's unspent currency?"
         }
       ]
     },
@@ -785,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -803,7 +815,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -821,7 +833,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -839,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -857,7 +869,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -875,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -893,7 +905,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.7,
       "chaleur": 4,
       "liens": [
         {
@@ -911,7 +923,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -929,7 +941,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -947,7 +959,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -965,7 +977,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -983,7 +995,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1001,7 +1013,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1019,7 +1031,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1037,8 +1049,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1055,8 +1067,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1073,8 +1085,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1091,8 +1103,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1109,8 +1121,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -1127,8 +1139,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1145,31 +1157,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/features/40plus-ps5-ps4-games-to-buy-in-the-ps-store-players-choice-sale",
           "titre": "Feature: 40+ PS5, PS4 Games to Buy in the PS Store Player's Choice Sale"
-        }
-      ]
-    },
-    {
-      "id": "i-had-3-hours-with-arc-raiders-frozen-trails-update-and-spen",
-      "titre": "I had 3 hours with Arc Raiders Frozen Trails update and spent most of it playing with the new grapple hook",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/i-had-3-hours-with-arc-raiders-frozen-trails-update-and-spent-most-of-it-playing-with-the-new-grapple-hook/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/i-had-3-hours-with-arc-raiders-frozen-trails-update-and-spent-most-of-it-playing-with-the-new-grapple-hook/",
-          "titre": "I had 3 hours with Arc Raiders Frozen Trails update and spent most of it playing with the new grapple hook"
         }
       ]
     }
