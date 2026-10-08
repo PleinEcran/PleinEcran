@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "08/10/2026 à 00h31",
+  "collecte": "08/10/2026 à 02h21",
   "seuil": 14,
   "sujets": [
     {
@@ -13,7 +13,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 0.5,
+      "heures": 2.4,
       "chaleur": 14,
       "liens": [
         {
@@ -34,36 +34,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "forza-horizon-6-has-been-delayed-on-ps5-a-new-report-suggest",
-      "titre": "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't",
-      "url": "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027",
-      "sources": [
-        "Eurogamer",
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 11.2,
-      "chaleur": 14,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027",
-          "titre": "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/forza-horizon-6-isnt-coming-to-ps5-this-year-its-claimed/",
-          "titre": "Forza Horizon 6 isn’t coming to PS5 this year, it’s claimed"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/forza-horizon-6-ps5-release-date-revealed-by-reliable-leaker",
-          "titre": "Forza Horizon 6 PS5 Release Date Revealed by Reliable Leaker"
-        }
-      ]
-    },
-    {
       "id": "star-wars-zero-company-developer-bit-reactor-begins-bringing",
       "titre": "Star Wars Zero Company developer Bit Reactor begins bringing furloughed staff back",
       "url": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back",
@@ -74,7 +44,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 4.8,
+      "heures": 6.7,
       "chaleur": 13,
       "liens": [
         {
@@ -100,6 +70,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "forza-horizon-6-has-been-delayed-on-ps5-a-new-report-suggest",
+      "titre": "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't",
+      "url": "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 13.0,
+      "chaleur": 13,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027",
+          "titre": "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/forza-horizon-6-isnt-coming-to-ps5-this-year-its-claimed/",
+          "titre": "Forza Horizon 6 isn’t coming to PS5 this year, it’s claimed"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/forza-horizon-6-ps5-release-date-revealed-by-reliable-leaker",
+          "titre": "Forza Horizon 6 PS5 Release Date Revealed by Reliable Leaker"
+        }
+      ]
+    },
+    {
       "id": "asha-sharma-reportedly-informs-staff-that-xbox-has-started-t",
       "titre": "Asha Sharma reportedly informs staff that Xbox has \"started to return to growth\" during internal town hall",
       "url": "https://www.gamesindustry.biz/asha-sharma-reportedly-informs-staff-that-xbox-has-started-to-return-to-growth-during-internal-town-hall",
@@ -108,7 +108,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 13,
       "liens": [
         {
@@ -132,7 +132,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 6.1,
+      "heures": 7.9,
       "chaleur": 11,
       "liens": [
         {
@@ -148,6 +148,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "pok-mon-ruby-sapphire-switch-port-rumours-resurface-followi",
+      "titre": "﻿Pokémon Ruby & Sapphire Switch Port Rumours Resurface Following ﻿Pokémon HOME's Latest Update",
+      "url": "https://www.nintendolife.com/news/2026/10/pokemon-ruby-and-sapphire-switch-port-rumours-resurface-following-pokemon-homes-latest-update",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/pokemon-ruby-and-sapphire-switch-port-rumours-resurface-following-pokemon-homes-latest-update",
+          "titre": "﻿Pokémon Ruby & Sapphire Switch Port Rumours Resurface Following ﻿Pokémon HOME's Latest Update"
+        }
+      ]
+    },
+    {
+      "id": "minecraft-switch-2-pre-orders-now-live-free-digital-upgrade",
+      "titre": "Minecraft Switch 2 Pre-Orders Now Live, Free Digital Upgrade Path Confirmed As \"Limited Time Offer\"",
+      "url": "https://www.nintendolife.com/news/2026/10/minecraft-switch-2-pre-orders-now-live-free-digital-upgrade-path-confirmed-as-limited-time-offer",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/minecraft-switch-2-pre-orders-now-live-free-digital-upgrade-path-confirmed-as-limited-time-offer",
+          "titre": "Minecraft Switch 2 Pre-Orders Now Live, Free Digital Upgrade Path Confirmed As \"Limited Time Offer\""
+        }
+      ]
+    },
+    {
       "id": "undead-labs-speaks-about-its-split-from-xbox-revealing-it-ha",
       "titre": "Undead Labs speaks about its split from Xbox, revealing it has to \"make some changes\" to State of Decay 3 following layoffs",
       "url": "https://www.eurogamer.net/undead-labs-xbox-layoffs-state-of-decay-3",
@@ -155,8 +191,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 9,
+      "heures": 12.4,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
@@ -174,8 +210,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 11.5,
-      "chaleur": 9,
+      "heures": 13.4,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -197,7 +233,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.0,
       "chaleur": 8,
       "liens": [
         {
@@ -215,7 +251,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.3,
       "chaleur": 8,
       "liens": [
         {
@@ -233,7 +269,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 17.8,
       "chaleur": 8,
       "liens": [
         {
@@ -252,7 +288,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 5.3,
+      "heures": 7.1,
       "chaleur": 7,
       "liens": [
         {
@@ -276,7 +312,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.9,
+      "heures": 9.8,
       "chaleur": 7,
       "liens": [
         {
@@ -288,24 +324,6 @@ const VEILLE = {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
           "titre": "Google debuts new 'experimental' AI game platform named Google Playground"
-        }
-      ]
-    },
-    {
-      "id": "paramount-games-studio-and-wb-games-merge-under-skydance-fol",
-      "titre": "Paramount Games Studio and WB Games merge under Skydance following completion of $111bn acquisition",
-      "url": "https://www.gamesindustry.biz/paramount-games-studio-and-wb-games-merge-under-skydance-following-completion-of-111bn-acquisition",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/paramount-games-studio-and-wb-games-merge-under-skydance-following-completion-of-111bn-acquisition",
-          "titre": "Paramount Games Studio and WB Games merge under Skydance following completion of $111bn acquisition"
         }
       ]
     },
@@ -382,6 +400,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "gundam-rogue-orbit-drops-its-enthusiastically-narrated-ps5-g",
+      "titre": "Gundam Rogue Orbit Drops Its Enthusiastically Narrated PS5 Gameplay Trailer",
+      "url": "https://www.pushsquare.com/news/2026/10/gundam-rogue-orbit-drops-its-enthusiastically-narrated-ps5-gameplay-trailer",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/gundam-rogue-orbit-drops-its-enthusiastically-narrated-ps5-gameplay-trailer",
+          "titre": "Gundam Rogue Orbit Drops Its Enthusiastically Narrated PS5 Gameplay Trailer"
+        }
+      ]
+    },
+    {
       "id": "the-first-review-for-castlevania-belmont-s-curse-is-in",
       "titre": "The First Review For Castlevania: Belmont's Curse Is In",
       "url": "https://www.nintendolife.com/news/2026/10/the-first-review-for-castlevania-belmonts-curse-is-in",
@@ -389,7 +425,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -407,7 +443,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -425,7 +461,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -443,7 +479,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -461,49 +497,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/strategy/blood-bowl-3-is-being-replaced-by-warhammer-blood-bowl-what-will-happen-to-everyones-unspent-currency/",
           "titre": "Blood Bowl 3 is being replaced by Warhammer Blood Bowl: What will happen to everyone's unspent currency?"
-        }
-      ]
-    },
-    {
-      "id": "you-have-how-many-unread-emails-pc-gamer-shares-their-inbox",
-      "titre": "'You have HOW MANY unread emails?' PC Gamer shares their inbox shame",
-      "url": "https://www.pcgamer.com/software/you-have-how-many-unread-emails-pc-gamer-shares-their-inbox-shame/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/you-have-how-many-unread-emails-pc-gamer-shares-their-inbox-shame/",
-          "titre": "'You have HOW MANY unread emails?' PC Gamer shares their inbox shame"
-        }
-      ]
-    },
-    {
-      "id": "bobby-s-back",
-      "titre": "Bobby's back",
-      "url": "https://www.pcgamer.com/gaming-industry/bobbys-back/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/bobbys-back/",
-          "titre": "Bobby's back"
         }
       ]
     },
@@ -515,7 +515,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.1,
       "chaleur": 6,
       "liens": [
         {
@@ -533,7 +533,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.4,
       "chaleur": 6,
       "liens": [
         {
@@ -551,7 +551,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 9.9,
       "chaleur": 6,
       "liens": [
         {
@@ -569,13 +569,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/for-a-moment-it-looked-like-grand-theft-auto-6-might-be-playable-on-pc-on-launch-day-then-xboxs-chief-strategy-officer-crashed-the-party/",
           "titre": "For a moment it looked like Grand Theft Auto 6 might be playable on PC on launch day—then Xbox's chief strategy officer crashed the party"
+        }
+      ]
+    },
+    {
+      "id": "paramount-games-studio-and-wb-games-merge-under-skydance-fol",
+      "titre": "Paramount Games Studio and WB Games merge under Skydance following completion of $111bn acquisition",
+      "url": "https://www.gamesindustry.biz/paramount-games-studio-and-wb-games-merge-under-skydance-following-completion-of-111bn-acquisition",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 12.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/paramount-games-studio-and-wb-games-merge-under-skydance-following-completion-of-111bn-acquisition",
+          "titre": "Paramount Games Studio and WB Games merge under Skydance following completion of $111bn acquisition"
         }
       ]
     },
@@ -588,7 +606,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 12.4,
+      "heures": 14.3,
       "chaleur": 6,
       "liens": [
         {
@@ -612,7 +630,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 13.3,
+      "heures": 15.1,
       "chaleur": 6,
       "liens": [
         {
@@ -636,7 +654,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 21.3,
+      "heures": 23.1,
       "chaleur": 6,
       "liens": [
         {
@@ -659,7 +677,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 29.2,
+      "heures": 31.0,
       "chaleur": 6,
       "liens": [
         {
@@ -677,7 +695,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 33.1,
       "chaleur": 6,
       "liens": [
         {
@@ -695,7 +713,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.7,
+      "heures": 16.5,
       "chaleur": 5,
       "liens": [
         {
@@ -713,7 +731,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.1,
       "chaleur": 5,
       "liens": [
         {
@@ -731,7 +749,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.3,
+      "heures": 26.1,
       "chaleur": 5,
       "liens": [
         {
@@ -749,7 +767,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 29.6,
+      "heures": 31.4,
       "chaleur": 5,
       "liens": [
         {
@@ -760,56 +778,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "feature-nintendo-life-eshop-selects-september-2026",
-      "titre": "Feature: Nintendo Life eShop Selects (September 2026)",
-      "url": "https://www.nintendolife.com/features/nintendo-life-eshop-selects-september-2026",
+      "id": "you-have-how-many-unread-emails-pc-gamer-shares-their-inbox",
+      "titre": "'You have HOW MANY unread emails?' PC Gamer shares their inbox shame",
+      "url": "https://www.pcgamer.com/software/you-have-how-many-unread-emails-pc-gamer-shares-their-inbox-shame/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 31.5,
-      "chaleur": 5,
+      "heures": 4.3,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/nintendo-life-eshop-selects-september-2026",
-          "titre": "Feature: Nintendo Life eShop Selects (September 2026)"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/you-have-how-many-unread-emails-pc-gamer-shares-their-inbox-shame/",
+          "titre": "'You have HOW MANY unread emails?' PC Gamer shares their inbox shame"
         }
       ]
     },
     {
-      "id": "warhammer-s-take-on-vampire-survivors-will-eat-our-free-time",
-      "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month",
-      "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
+      "id": "bobby-s-back",
+      "titre": "Bobby's back",
+      "url": "https://www.pcgamer.com/gaming-industry/bobbys-back/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 32.8,
-      "chaleur": 5,
+      "heures": 5.3,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
-          "titre": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month"
-        }
-      ]
-    },
-    {
-      "id": "xbox-elite-series-3-controller-leaks-and-appears-to-offer-be",
-      "titre": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more",
-      "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.2,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
-          "titre": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/bobbys-back/",
+          "titre": "Bobby's back"
         }
       ]
     },
@@ -821,7 +821,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 5.8,
       "chaleur": 4,
       "liens": [
         {
@@ -839,7 +839,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -857,7 +857,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -875,7 +875,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -893,7 +893,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -911,7 +911,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -929,7 +929,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -947,7 +947,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -965,7 +965,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -983,7 +983,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1001,7 +1001,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1019,7 +1019,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1037,7 +1037,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1055,7 +1055,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1073,7 +1073,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1091,7 +1091,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1109,7 +1109,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1127,7 +1127,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1145,7 +1145,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1163,7 +1163,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1174,7 +1174,5 @@ const VEILLE = {
       ]
     }
   ],
-  "alertes": [
-    "Here's the Dragon's Dogma 2: Dark Arisen release time for your region"
-  ]
+  "alertes": []
 };
