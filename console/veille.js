@@ -1,44 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "08/10/2026 à 06h29",
+  "collecte": "08/10/2026 à 08h25",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "star-wars-zero-company-developer-bit-reactor-begins-bringing",
-      "titre": "Star Wars Zero Company developer Bit Reactor begins bringing furloughed staff back",
-      "url": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back",
-      "sources": [
-        "Eurogamer",
-        "Game Developer",
-        "GamesIndustry.biz",
-        "VGC"
-      ],
-      "reprises": 4,
-      "heures": 10.8,
-      "chaleur": 13,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back",
-          "titre": "Star Wars Zero Company developer Bit Reactor begins bringing furloughed staff back"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/star-wars-zero-company-bringing-back-furloughed-staff",
-          "titre": "Star Wars: Zero Company studio is bringing \"as many people back as possible\" after furloughing \"most\" of its developers"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/star-wars-zero-company-staff-returning-to-work-after-being-furloughed-pre-release/",
-          "titre": "Star Wars Zero Company staff ‘returning to work’ after being furloughed pre-release"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/star-wars-zero-company-developer-bit-reactor-brings-back-over-half-of-furloughed-staff",
-          "titre": "Star Wars Zero Company developer Bit Reactor brings back 'over half' of furloughed staff"
-        }
-      ]
-    },
     {
       "id": "forza-horizon-6-has-been-delayed-on-ps5-a-new-report-suggest",
       "titre": "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't",
@@ -49,7 +13,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 17.1,
+      "heures": 19.0,
       "chaleur": 13,
       "liens": [
         {
@@ -78,7 +42,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 19.5,
+      "heures": 21.4,
       "chaleur": 13,
       "liens": [
         {
@@ -103,7 +67,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 1.1,
+      "heures": 3.0,
       "chaleur": 12,
       "liens": [
         {
@@ -124,6 +88,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "star-wars-zero-company-developer-bit-reactor-begins-bringing",
+      "titre": "Star Wars Zero Company developer Bit Reactor begins bringing furloughed staff back",
+      "url": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back",
+      "sources": [
+        "Eurogamer",
+        "Game Developer",
+        "GamesIndustry.biz",
+        "VGC"
+      ],
+      "reprises": 4,
+      "heures": 12.7,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back",
+          "titre": "Star Wars Zero Company developer Bit Reactor begins bringing furloughed staff back"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/star-wars-zero-company-bringing-back-furloughed-staff",
+          "titre": "Star Wars: Zero Company studio is bringing \"as many people back as possible\" after furloughing \"most\" of its developers"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/star-wars-zero-company-staff-returning-to-work-after-being-furloughed-pre-release/",
+          "titre": "Star Wars Zero Company staff ‘returning to work’ after being furloughed pre-release"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/star-wars-zero-company-developer-bit-reactor-brings-back-over-half-of-furloughed-staff",
+          "titre": "Star Wars Zero Company developer Bit Reactor brings back 'over half' of furloughed staff"
+        }
+      ]
+    },
+    {
       "id": "sony-is-reportedly-plotting-to-revive-classic-playstation-ga",
       "titre": "Sony is reportedly plotting to revive classic PlayStation games, starting with a new Ape Escape from the developers behind Sonic Mania",
       "url": "https://www.eurogamer.net/sony-classic-playstation-games-ape-escape-sonic-mania",
@@ -132,7 +132,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 12.0,
+      "heures": 14.0,
       "chaleur": 10,
       "liens": [
         {
@@ -148,6 +148,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "gears-of-war-boss-says-the-next-game-won-t-take-seven-years",
+      "titre": "Gears of War boss says the next game won't take seven years to make as he dances around the question of layoffs",
+      "url": "https://www.eurogamer.net/gears-of-war-the-coalition-layoffs-next-game",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gears-of-war-the-coalition-layoffs-next-game",
+          "titre": "Gears of War boss says the next game won't take seven years to make as he dances around the question of layoffs"
+        }
+      ]
+    },
+    {
       "id": "undead-labs-speaks-about-its-split-from-xbox-revealing-it-ha",
       "titre": "Undead Labs speaks about its split from Xbox, revealing it has to \"make some changes\" to State of Decay 3 following layoffs",
       "url": "https://www.eurogamer.net/undead-labs-xbox-layoffs-state-of-decay-3",
@@ -155,7 +173,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 18.5,
       "chaleur": 8,
       "liens": [
         {
@@ -174,7 +192,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 17.5,
+      "heures": 19.4,
       "chaleur": 8,
       "liens": [
         {
@@ -197,7 +215,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 20.0,
       "chaleur": 8,
       "liens": [
         {
@@ -215,7 +233,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.4,
       "chaleur": 8,
       "liens": [
         {
@@ -233,37 +251,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.0,
+      "heures": 23.9,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/xbox-cloud-gta-6-streaming-rights",
           "titre": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC"
-        }
-      ]
-    },
-    {
-      "id": "discord-protection-bot-double-counter-hit-by-breach-exposing",
-      "titre": "Discord protection bot Double Counter hit by breach exposing around 1 million email addresses",
-      "url": "https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses",
-      "sources": [
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 11.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses",
-          "titre": "Discord protection bot Double Counter hit by breach exposing around 1 million email addresses"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/hackers-steal-millions-of-discord-ids-and-email-address-in-deliberate-multi-stage-attack-on-security-service-double-counter",
-          "titre": "Hackers steal millions of Discord IDs and email addresses in \"deliberate, multi-stage attack\" on security service Double Counter"
         }
       ]
     },
@@ -340,74 +334,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "preview-muramasa-revenant-blades-polishes-vanillaware-s-gem",
-      "titre": "Preview: 'Muramasa: Revenant Blades' Polishes Vanillaware's Gem To Shine Brighter Than Ever",
-      "url": "https://www.nintendolife.com/previews/muramasa-revenant-blades-polishes-vanillawares-gem-to-shine-brighter-than-ever",
+      "id": "fireshine-games-acquires-necesse-dev-fair-games-described-as",
+      "titre": "Fireshine Games acquires Necesse dev Fair Games, described as a \"defining moment\" for Danish indie studio",
+      "url": "https://www.gamesindustry.biz/fireshine-games-acquires-necesse-dev-fair-games-described-as-a-defining-moment-for-danish-indie-studio",
       "sources": [
-        "Nintendo Life"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 2.5,
+      "heures": 0.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/previews/muramasa-revenant-blades-polishes-vanillawares-gem-to-shine-brighter-than-ever",
-          "titre": "Preview: 'Muramasa: Revenant Blades' Polishes Vanillaware's Gem To Shine Brighter Than Ever"
-        }
-      ]
-    },
-    {
-      "id": "muramasa-revenant-blades-has-108-swords-and-its-definitive-u",
-      "titre": "Muramasa: Revenant Blades has 108 swords, and its definitive update for PC wants to make sure you use them all",
-      "url": "https://www.pcgamer.com/games/action/muramasa/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/muramasa/",
-          "titre": "Muramasa: Revenant Blades has 108 swords, and its definitive update for PC wants to make sure you use them all"
-        }
-      ]
-    },
-    {
-      "id": "sonic-racing-crossworlds-year-one-edition-spotted-online",
-      "titre": "Sonic Racing: CrossWorlds \"Year One\" Edition Spotted Online",
-      "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-one-edition-spotted-online",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-one-edition-spotted-online",
-          "titre": "Sonic Racing: CrossWorlds \"Year One\" Edition Spotted Online"
-        }
-      ]
-    },
-    {
-      "id": "now-we-know-the-prices-of-the-new-rtx-spark-laptops-and-they",
-      "titre": "Now we know the prices of the new RTX Spark laptops and they're as expensive as I'm sure you feared",
-      "url": "https://www.pcgamer.com/hardware/gaming-laptops/now-we-know-the-prices-of-the-new-rtx-spark-laptops-and-theyre-as-expensive-as-im-sure-you-feared/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-laptops/now-we-know-the-prices-of-the-new-rtx-spark-laptops-and-theyre-as-expensive-as-im-sure-you-feared/",
-          "titre": "Now we know the prices of the new RTX Spark laptops and they're as expensive as I'm sure you feared"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/fireshine-games-acquires-necesse-dev-fair-games-described-as-a-defining-moment-for-danish-indie-studio",
+          "titre": "Fireshine Games acquires Necesse dev Fair Games, described as a \"defining moment\" for Danish indie studio"
         }
       ]
     },
@@ -419,7 +359,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.5,
       "chaleur": 6,
       "liens": [
         {
@@ -437,7 +377,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.0,
       "chaleur": 6,
       "liens": [
         {
@@ -448,44 +388,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "steam-is-about-to-start-getting-some-of-the-best-japanese-pi",
-      "titre": "Steam is about to start getting some of the best Japanese pixel art in gaming history",
-      "url": "https://www.pcgamer.com/games/adventure/steam-is-about-to-start-getting-some-of-the-best-japanese-pixel-art-in-gaming-history/",
+      "id": "discord-protection-bot-double-counter-hit-by-breach-exposing",
+      "titre": "Discord protection bot Double Counter hit by breach exposing around 1 million email addresses",
+      "url": "https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses",
       "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/adventure/steam-is-about-to-start-getting-some-of-the-best-japanese-pixel-art-in-gaming-history/",
-          "titre": "Steam is about to start getting some of the best Japanese pixel art in gaming history"
-        }
-      ]
-    },
-    {
-      "id": "google-officially-reveals-ai-game-creation-platform-playgrou",
-      "titre": "Google officially reveals AI game-creation platform, Playground",
-      "url": "https://www.videogameschronicle.com/news/google-officially-reveals-ai-game-creation-platform-playground/",
-      "sources": [
-        "Game Developer",
-        "VGC"
+        "GamesIndustry.biz",
+        "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 13.9,
+      "heures": 13.2,
       "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/google-officially-reveals-ai-game-creation-platform-playground/",
-          "titre": "Google officially reveals AI game-creation platform, Playground"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses",
+          "titre": "Discord protection bot Double Counter hit by breach exposing around 1 million email addresses"
         },
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
-          "titre": "Google debuts new 'experimental' AI game platform named Google Playground"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/hackers-steal-millions-of-discord-ids-and-email-address-in-deliberate-multi-stage-attack-on-security-service-double-counter",
+          "titre": "Hackers steal millions of Discord IDs and email addresses in \"deliberate, multi-stage attack\" on security service Double Counter"
         }
       ]
     },
@@ -497,7 +419,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.4,
       "chaleur": 6,
       "liens": [
         {
@@ -516,7 +438,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 18.4,
+      "heures": 20.3,
       "chaleur": 6,
       "liens": [
         {
@@ -540,7 +462,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 19.2,
+      "heures": 21.2,
       "chaleur": 6,
       "liens": [
         {
@@ -556,20 +478,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "cancelled-mmo-spin-off-borderlands-online-is-playable-once-a",
-      "titre": "Cancelled MMO spin-off Borderlands Online is playable once again, and the team behind the unofficial project thankfully didn't use any genAI to get it running",
-      "url": "https://www.rockpapershotgun.com/cancelled-mmo-spin-off-borderlands-online-is-playable-once-again-and-the-team-behind-the-unofficial-project-thankfully-didnt-use-any-genai-to-get-it-running",
+      "id": "steam-is-about-to-start-getting-some-of-the-best-japanese-pi",
+      "titre": "Steam is about to start getting some of the best Japanese pixel art in gaming history",
+      "url": "https://www.pcgamer.com/games/adventure/steam-is-about-to-start-getting-some-of-the-best-japanese-pixel-art-in-gaming-history/",
       "sources": [
-        "Rock Paper Shotgun"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 35.1,
-      "chaleur": 6,
+      "heures": 12.2,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cancelled-mmo-spin-off-borderlands-online-is-playable-once-again-and-the-team-behind-the-unofficial-project-thankfully-didnt-use-any-genai-to-get-it-running",
-          "titre": "Cancelled MMO spin-off Borderlands Online is playable once again, and the team behind the unofficial project thankfully didn't use any genAI to get it running"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/adventure/steam-is-about-to-start-getting-some-of-the-best-japanese-pixel-art-in-gaming-history/",
+          "titre": "Steam is about to start getting some of the best Japanese pixel art in gaming history"
         }
       ]
     },
@@ -581,7 +503,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.5,
       "chaleur": 5,
       "liens": [
         {
@@ -599,7 +521,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 15.9,
       "chaleur": 5,
       "liens": [
         {
@@ -617,7 +539,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.3,
       "chaleur": 5,
       "liens": [
         {
@@ -635,7 +557,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.7,
+      "heures": 22.6,
       "chaleur": 5,
       "liens": [
         {
@@ -646,20 +568,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gamestop-other-retailers-to-sell-used-playstation-5-pro-unit",
-      "titre": "GameStop, other retailers to sell used PlayStation 5 Pro units for 66 percent over MSRP",
-      "url": "https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp",
+      "id": "preview-muramasa-revenant-blades-polishes-vanillaware-s-gem",
+      "titre": "Preview: 'Muramasa: Revenant Blades' Polishes Vanillaware's Gem To Shine Brighter Than Ever",
+      "url": "https://www.nintendolife.com/previews/muramasa-revenant-blades-polishes-vanillawares-gem-to-shine-brighter-than-ever",
       "sources": [
-        "Game Developer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 35.6,
-      "chaleur": 5,
+      "heures": 4.4,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp",
-          "titre": "GameStop, other retailers to sell used PlayStation 5 Pro units for 66 percent over MSRP"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/previews/muramasa-revenant-blades-polishes-vanillawares-gem-to-shine-brighter-than-ever",
+          "titre": "Preview: 'Muramasa: Revenant Blades' Polishes Vanillaware's Gem To Shine Brighter Than Ever"
+        }
+      ]
+    },
+    {
+      "id": "muramasa-revenant-blades-has-108-swords-and-its-definitive-u",
+      "titre": "Muramasa: Revenant Blades has 108 swords, and its definitive update for PC wants to make sure you use them all",
+      "url": "https://www.pcgamer.com/games/action/muramasa/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/muramasa/",
+          "titre": "Muramasa: Revenant Blades has 108 swords, and its definitive update for PC wants to make sure you use them all"
+        }
+      ]
+    },
+    {
+      "id": "sonic-racing-crossworlds-year-one-edition-spotted-online",
+      "titre": "Sonic Racing: CrossWorlds \"Year One\" Edition Spotted Online",
+      "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-one-edition-spotted-online",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-one-edition-spotted-online",
+          "titre": "Sonic Racing: CrossWorlds \"Year One\" Edition Spotted Online"
+        }
+      ]
+    },
+    {
+      "id": "now-we-know-the-prices-of-the-new-rtx-spark-laptops-and-they",
+      "titre": "Now we know the prices of the new RTX Spark laptops and they're as expensive as I'm sure you feared",
+      "url": "https://www.pcgamer.com/hardware/gaming-laptops/now-we-know-the-prices-of-the-new-rtx-spark-laptops-and-theyre-as-expensive-as-im-sure-you-feared/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-laptops/now-we-know-the-prices-of-the-new-rtx-spark-laptops-and-theyre-as-expensive-as-im-sure-you-feared/",
+          "titre": "Now we know the prices of the new RTX Spark laptops and they're as expensive as I'm sure you feared"
         }
       ]
     },
@@ -671,7 +647,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -689,7 +665,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -707,7 +683,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -725,7 +701,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -743,7 +719,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -761,7 +737,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -779,7 +755,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -797,7 +773,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +791,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 10.0,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -833,8 +809,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -851,8 +827,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -869,8 +845,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -887,8 +863,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -905,8 +881,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -923,7 +899,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -941,7 +917,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -959,7 +935,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.1,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +953,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -995,13 +971,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/help-i-have-been-abducted-by-a-tiny-car-and-cannot-escape/",
           "titre": "Help, I have been abducted by a tiny car and cannot escape"
+        }
+      ]
+    },
+    {
+      "id": "google-officially-reveals-ai-game-creation-platform-playgrou",
+      "titre": "Google officially reveals AI game-creation platform, Playground",
+      "url": "https://www.videogameschronicle.com/news/google-officially-reveals-ai-game-creation-platform-playground/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 15.8,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/google-officially-reveals-ai-game-creation-platform-playground/",
+          "titre": "Google officially reveals AI game-creation platform, Playground"
         }
       ]
     },
@@ -1013,7 +1007,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +1025,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,7 +1043,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,7 +1061,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 16.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1085,7 +1079,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 16.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1103,7 +1097,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1121,7 +1115,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1139,7 +1133,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1157,7 +1151,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
