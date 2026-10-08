@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "08/10/2026 à 04h23",
+  "collecte": "08/10/2026 à 06h29",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 8.7,
+      "heures": 10.8,
       "chaleur": 13,
       "liens": [
         {
@@ -49,7 +49,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 15.0,
+      "heures": 17.1,
       "chaleur": 13,
       "liens": [
         {
@@ -78,7 +78,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 13,
       "liens": [
         {
@@ -94,18 +94,23 @@ const VEILLE = {
       ]
     },
     {
-      "id": "here-s-the-dragon-s-dogma-2-dark-arisen-release-time-for-you",
-      "titre": "Here's the Dragon's Dogma 2: Dark Arisen release time for your region",
-      "url": "https://www.pcgamer.com/games/rpg/heres-the-dragons-dogma-2-dark-arisen-release-time-for-your-region/",
+      "id": "round-up-the-reviews-for-dragon-s-dogma-2-dark-arisen-are-in",
+      "titre": "Round Up: The Reviews For Dragon's Dogma 2: Dark Arisen Are In",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-dragons-dogma-2-dark-arisen-are-in",
       "sources": [
         "Nintendo Life",
         "PC Gamer",
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 4.4,
+      "heures": 1.1,
       "chaleur": 12,
       "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-dragons-dogma-2-dark-arisen-are-in",
+          "titre": "Round Up: The Reviews For Dragon's Dogma 2: Dark Arisen Are In"
+        },
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/rpg/heres-the-dragons-dogma-2-dark-arisen-release-time-for-your-region/",
@@ -115,11 +120,6 @@ const VEILLE = {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/reviews/ps5/dragons-dogma-2-dark-arisen",
           "titre": "Review: Dragon's Dogma 2: Dark Arisen (PS5) - Epic Expansion Is Peak Dragon's Dogma"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/dragons-dogma-2-dark-arisen",
-          "titre": "Review: Dragon's Dogma 2: Dark Arisen (Switch 2) - An Action RPG Great Returns In Fine Form"
         }
       ]
     },
@@ -132,8 +132,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 9.9,
-      "chaleur": 11,
+      "heures": 12.0,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Eurogamer",
@@ -148,42 +148,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "pok-mon-ruby-sapphire-switch-port-rumours-resurface-followi",
-      "titre": "﻿Pokémon Ruby & Sapphire Switch Port Rumours Resurface Following ﻿Pokémon HOME's Latest Update",
-      "url": "https://www.nintendolife.com/news/2026/10/pokemon-ruby-and-sapphire-switch-port-rumours-resurface-following-pokemon-homes-latest-update",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/pokemon-ruby-and-sapphire-switch-port-rumours-resurface-following-pokemon-homes-latest-update",
-          "titre": "﻿Pokémon Ruby & Sapphire Switch Port Rumours Resurface Following ﻿Pokémon HOME's Latest Update"
-        }
-      ]
-    },
-    {
-      "id": "minecraft-switch-2-pre-orders-now-live-free-digital-upgrade",
-      "titre": "Minecraft Switch 2 Pre-Orders Now Live, Free Digital Upgrade Path Confirmed As \"Limited Time Offer\"",
-      "url": "https://www.nintendolife.com/news/2026/10/minecraft-switch-2-pre-orders-now-live-free-digital-upgrade-path-confirmed-as-limited-time-offer",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/minecraft-switch-2-pre-orders-now-live-free-digital-upgrade-path-confirmed-as-limited-time-offer",
-          "titre": "Minecraft Switch 2 Pre-Orders Now Live, Free Digital Upgrade Path Confirmed As \"Limited Time Offer\""
-        }
-      ]
-    },
-    {
       "id": "undead-labs-speaks-about-its-split-from-xbox-revealing-it-ha",
       "titre": "Undead Labs speaks about its split from Xbox, revealing it has to \"make some changes\" to State of Decay 3 following layoffs",
       "url": "https://www.eurogamer.net/undead-labs-xbox-layoffs-state-of-decay-3",
@@ -191,7 +155,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.6,
       "chaleur": 8,
       "liens": [
         {
@@ -210,7 +174,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 15.4,
+      "heures": 17.5,
       "chaleur": 8,
       "liens": [
         {
@@ -233,7 +197,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 18.1,
       "chaleur": 8,
       "liens": [
         {
@@ -251,7 +215,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.4,
       "chaleur": 8,
       "liens": [
         {
@@ -269,7 +233,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 22.0,
       "chaleur": 8,
       "liens": [
         {
@@ -288,7 +252,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 9.1,
+      "heures": 11.2,
       "chaleur": 7,
       "liens": [
         {
@@ -300,30 +264,6 @@ const VEILLE = {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/hackers-steal-millions-of-discord-ids-and-email-address-in-deliberate-multi-stage-attack-on-security-service-double-counter",
           "titre": "Hackers steal millions of Discord IDs and email addresses in \"deliberate, multi-stage attack\" on security service Double Counter"
-        }
-      ]
-    },
-    {
-      "id": "google-officially-reveals-ai-game-creation-platform-playgrou",
-      "titre": "Google officially reveals AI game-creation platform, Playground",
-      "url": "https://www.videogameschronicle.com/news/google-officially-reveals-ai-game-creation-platform-playground/",
-      "sources": [
-        "Game Developer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 11.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/google-officially-reveals-ai-game-creation-platform-playground/",
-          "titre": "Google officially reveals AI game-creation platform, Playground"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
-          "titre": "Google debuts new 'experimental' AI game platform named Google Playground"
         }
       ]
     },
@@ -407,7 +347,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -425,7 +365,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -443,7 +383,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -461,7 +401,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -472,20 +412,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gundam-rogue-orbit-drops-its-enthusiastically-narrated-ps5-g",
-      "titre": "Gundam Rogue Orbit Drops Its Enthusiastically Narrated PS5 Gameplay Trailer",
-      "url": "https://www.pushsquare.com/news/2026/10/gundam-rogue-orbit-drops-its-enthusiastically-narrated-ps5-gameplay-trailer",
+      "id": "pok-mon-ruby-sapphire-switch-port-rumours-resurface-followi",
+      "titre": "﻿Pokémon Ruby & Sapphire Switch Port Rumours Resurface Following ﻿Pokémon HOME's Latest Update",
+      "url": "https://www.nintendolife.com/news/2026/10/pokemon-ruby-and-sapphire-switch-port-rumours-resurface-following-pokemon-homes-latest-update",
       "sources": [
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.4,
+      "heures": 4.6,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/gundam-rogue-orbit-drops-its-enthusiastically-narrated-ps5-gameplay-trailer",
-          "titre": "Gundam Rogue Orbit Drops Its Enthusiastically Narrated PS5 Gameplay Trailer"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/pokemon-ruby-and-sapphire-switch-port-rumours-resurface-following-pokemon-homes-latest-update",
+          "titre": "﻿Pokémon Ruby & Sapphire Switch Port Rumours Resurface Following ﻿Pokémon HOME's Latest Update"
+        }
+      ]
+    },
+    {
+      "id": "minecraft-switch-2-pre-orders-now-live-free-digital-upgrade",
+      "titre": "Minecraft Switch 2 Pre-Orders Now Live, Free Digital Upgrade Path Confirmed As \"Limited Time Offer\"",
+      "url": "https://www.nintendolife.com/news/2026/10/minecraft-switch-2-pre-orders-now-live-free-digital-upgrade-path-confirmed-as-limited-time-offer",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 6.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/minecraft-switch-2-pre-orders-now-live-free-digital-upgrade-path-confirmed-as-limited-time-offer",
+          "titre": "Minecraft Switch 2 Pre-Orders Now Live, Free Digital Upgrade Path Confirmed As \"Limited Time Offer\""
         }
       ]
     },
@@ -497,7 +455,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.2,
       "chaleur": 6,
       "liens": [
         {
@@ -508,38 +466,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "here-are-our-xbox-game-pass-games-for-october-2026",
-      "titre": "Here are our Xbox Game Pass games for October 2026",
-      "url": "https://www.eurogamer.net/xbox-game-pass-lineup-october-2026",
+      "id": "google-officially-reveals-ai-game-creation-platform-playgrou",
+      "titre": "Google officially reveals AI game-creation platform, Playground",
+      "url": "https://www.videogameschronicle.com/news/google-officially-reveals-ai-game-creation-platform-playground/",
       "sources": [
-        "Eurogamer"
+        "Game Developer",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 11.5,
+      "reprises": 2,
+      "heures": 13.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-game-pass-lineup-october-2026",
-          "titre": "Here are our Xbox Game Pass games for October 2026"
-        }
-      ]
-    },
-    {
-      "id": "cities-skylines-is-building-an-expanded-edition-on-switch-2",
-      "titre": "Cities: Skylines Is Building An 'Expanded Edition' On Switch 2 This Month",
-      "url": "https://www.nintendolife.com/news/2026/10/cities-skylines-is-building-an-expanded-edition-on-switch-2-this-month",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 6,
-      "liens": [
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/google-officially-reveals-ai-game-creation-platform-playground/",
+          "titre": "Google officially reveals AI game-creation platform, Playground"
+        },
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/cities-skylines-is-building-an-expanded-edition-on-switch-2-this-month",
-          "titre": "Cities: Skylines Is Building An 'Expanded Edition' On Switch 2 This Month"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
+          "titre": "Google debuts new 'experimental' AI game platform named Google Playground"
         }
       ]
     },
@@ -551,7 +497,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.5,
       "chaleur": 6,
       "liens": [
         {
@@ -570,7 +516,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 16.3,
+      "heures": 18.4,
       "chaleur": 6,
       "liens": [
         {
@@ -594,7 +540,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 17.1,
+      "heures": 19.2,
       "chaleur": 6,
       "liens": [
         {
@@ -617,7 +563,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 33.0,
+      "heures": 35.1,
       "chaleur": 6,
       "liens": [
         {
@@ -628,20 +574,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "undead-labs-studio-head-says-they-were-irresponsibly-transpa",
-      "titre": "Undead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs",
-      "url": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
+      "id": "here-are-our-xbox-game-pass-games-for-october-2026",
+      "titre": "Here are our Xbox Game Pass games for October 2026",
+      "url": "https://www.eurogamer.net/xbox-game-pass-lineup-october-2026",
       "sources": [
-        "Game Developer"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 35.2,
-      "chaleur": 6,
+      "heures": 13.6,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
-          "titre": "Undead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-game-pass-lineup-october-2026",
+          "titre": "Here are our Xbox Game Pass games for October 2026"
+        }
+      ]
+    },
+    {
+      "id": "cities-skylines-is-building-an-expanded-edition-on-switch-2",
+      "titre": "Cities: Skylines Is Building An 'Expanded Edition' On Switch 2 This Month",
+      "url": "https://www.nintendolife.com/news/2026/10/cities-skylines-is-building-an-expanded-edition-on-switch-2-this-month",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 14.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/cities-skylines-is-building-an-expanded-edition-on-switch-2-this-month",
+          "titre": "Cities: Skylines Is Building An 'Expanded Edition' On Switch 2 This Month"
         }
       ]
     },
@@ -653,7 +617,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.4,
       "chaleur": 5,
       "liens": [
         {
@@ -671,7 +635,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 20.7,
       "chaleur": 5,
       "liens": [
         {
@@ -689,13 +653,31 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 33.5,
+      "heures": 35.6,
       "chaleur": 5,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp",
           "titre": "GameStop, other retailers to sell used PlayStation 5 Pro units for 66 percent over MSRP"
+        }
+      ]
+    },
+    {
+      "id": "gundam-rogue-orbit-drops-its-enthusiastically-narrated-ps5-g",
+      "titre": "Gundam Rogue Orbit Drops Its Enthusiastically Narrated PS5 Gameplay Trailer",
+      "url": "https://www.pushsquare.com/news/2026/10/gundam-rogue-orbit-drops-its-enthusiastically-narrated-ps5-gameplay-trailer",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/gundam-rogue-orbit-drops-its-enthusiastically-narrated-ps5-gameplay-trailer",
+          "titre": "Gundam Rogue Orbit Drops Its Enthusiastically Narrated PS5 Gameplay Trailer"
         }
       ]
     },
@@ -707,7 +689,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -725,7 +707,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -743,7 +725,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -761,7 +743,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -779,7 +761,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -797,7 +779,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -833,7 +815,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -851,7 +833,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -869,7 +851,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.7,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +905,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.2,
       "chaleur": 4,
       "liens": [
         {
@@ -941,8 +923,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -959,8 +941,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -977,8 +959,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -995,8 +977,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1013,8 +995,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1031,8 +1013,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 14.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1049,7 +1031,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,7 +1049,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1085,7 +1067,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 15.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1103,7 +1085,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 15.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1121,7 +1103,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1139,7 +1121,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1157,13 +1139,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/features/40plus-ps5-ps4-games-to-buy-in-the-ps-store-players-choice-sale",
           "titre": "Feature: 40+ PS5, PS4 Games to Buy in the PS Store Player's Choice Sale"
+        }
+      ]
+    },
+    {
+      "id": "lynchian-noir-mystery-silver-pines-takes-the-best-bits-from",
+      "titre": "Lynchian noir mystery Silver Pines takes the best bits from horror, the middling bits from Metroidvanias, and the worst bits from adventure games",
+      "url": "https://www.rockpapershotgun.com/lynchian-noir-mystery-silver-pines-takes-the-best-bits-from-horror-the-middling-bits-from-metroidvanias-and-the-worst-bits-from-adventure-games",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 15.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/lynchian-noir-mystery-silver-pines-takes-the-best-bits-from-horror-the-middling-bits-from-metroidvanias-and-the-worst-bits-from-adventure-games",
+          "titre": "Lynchian noir mystery Silver Pines takes the best bits from horror, the middling bits from Metroidvanias, and the worst bits from adventure games"
         }
       ]
     }
