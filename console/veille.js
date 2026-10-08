@@ -1,8 +1,68 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "07/10/2026 à 22h20",
+  "collecte": "08/10/2026 à 00h31",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "here-s-the-dragon-s-dogma-2-dark-arisen-release-time-for-you",
+      "titre": "Here's the Dragon's Dogma 2: Dark Arisen release time for your region",
+      "url": "https://www.pcgamer.com/games/rpg/heres-the-dragons-dogma-2-dark-arisen-release-time-for-your-region/",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer",
+        "Push Square"
+      ],
+      "reprises": 3,
+      "heures": 0.5,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/heres-the-dragons-dogma-2-dark-arisen-release-time-for-your-region/",
+          "titre": "Here's the Dragon's Dogma 2: Dark Arisen release time for your region"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/dragons-dogma-2-dark-arisen",
+          "titre": "Review: Dragon's Dogma 2: Dark Arisen (PS5) - Epic Expansion Is Peak Dragon's Dogma"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/dragons-dogma-2-dark-arisen",
+          "titre": "Review: Dragon's Dogma 2: Dark Arisen (Switch 2) - An Action RPG Great Returns In Fine Form"
+        }
+      ]
+    },
+    {
+      "id": "forza-horizon-6-has-been-delayed-on-ps5-a-new-report-suggest",
+      "titre": "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't",
+      "url": "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 11.2,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027",
+          "titre": "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/forza-horizon-6-isnt-coming-to-ps5-this-year-its-claimed/",
+          "titre": "Forza Horizon 6 isn’t coming to PS5 this year, it’s claimed"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/forza-horizon-6-ps5-release-date-revealed-by-reliable-leaker",
+          "titre": "Forza Horizon 6 PS5 Release Date Revealed by Reliable Leaker"
+        }
+      ]
+    },
     {
       "id": "star-wars-zero-company-developer-bit-reactor-begins-bringing",
       "titre": "Star Wars Zero Company developer Bit Reactor begins bringing furloughed staff back",
@@ -14,8 +74,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 2.6,
-      "chaleur": 15,
+      "heures": 4.8,
+      "chaleur": 13,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -40,36 +100,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "forza-horizon-6-has-been-delayed-on-ps5-a-new-report-suggest",
-      "titre": "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't",
-      "url": "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027",
-      "sources": [
-        "Eurogamer",
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 9.0,
-      "chaleur": 14,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027",
-          "titre": "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/forza-horizon-6-isnt-coming-to-ps5-this-year-its-claimed/",
-          "titre": "Forza Horizon 6 isn’t coming to PS5 this year, it’s claimed"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/forza-horizon-6-ps5-release-date-revealed-by-reliable-leaker",
-          "titre": "Forza Horizon 6 PS5 Release Date Revealed by Reliable Leaker"
-        }
-      ]
-    },
-    {
       "id": "asha-sharma-reportedly-informs-staff-that-xbox-has-started-t",
       "titre": "Asha Sharma reportedly informs staff that Xbox has \"started to return to growth\" during internal town hall",
       "url": "https://www.gamesindustry.biz/asha-sharma-reportedly-informs-staff-that-xbox-has-started-to-return-to-growth-during-internal-town-hall",
@@ -78,8 +108,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 11.3,
-      "chaleur": 14,
+      "heures": 13.5,
+      "chaleur": 13,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -102,8 +132,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 3.9,
-      "chaleur": 13,
+      "heures": 6.1,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Eurogamer",
@@ -118,54 +148,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "review-dragon-s-dogma-2-dark-arisen-ps5-epic-expansion-is-pe",
-      "titre": "Review: Dragon's Dogma 2: Dark Arisen (PS5) - Epic Expansion Is Peak Dragon's Dogma",
-      "url": "https://www.pushsquare.com/reviews/ps5/dragons-dogma-2-dark-arisen",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 0.0,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/dragons-dogma-2-dark-arisen",
-          "titre": "Review: Dragon's Dogma 2: Dark Arisen (PS5) - Epic Expansion Is Peak Dragon's Dogma"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/dragons-dogma-2-dark-arisen",
-          "titre": "Review: Dragon's Dogma 2: Dark Arisen (Switch 2) - An Action RPG Great Returns In Fine Form"
-        }
-      ]
-    },
-    {
-      "id": "discord-protection-bot-double-counter-hit-by-breach-exposing",
-      "titre": "Discord protection bot Double Counter hit by breach exposing around 1 million email addresses",
-      "url": "https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses",
-      "sources": [
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 3.1,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses",
-          "titre": "Discord protection bot Double Counter hit by breach exposing around 1 million email addresses"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/hackers-steal-millions-of-discord-ids-and-email-address-in-deliberate-multi-stage-attack-on-security-service-double-counter",
-          "titre": "Hackers steal millions of Discord IDs and email addresses in \"deliberate, multi-stage attack\" on security service Double Counter"
-        }
-      ]
-    },
-    {
       "id": "undead-labs-speaks-about-its-split-from-xbox-revealing-it-ha",
       "titre": "Undead Labs speaks about its split from Xbox, revealing it has to \"make some changes\" to State of Decay 3 following layoffs",
       "url": "https://www.eurogamer.net/undead-labs-xbox-layoffs-state-of-decay-3",
@@ -173,7 +155,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.6,
       "chaleur": 9,
       "liens": [
         {
@@ -192,7 +174,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 9.3,
+      "heures": 11.5,
       "chaleur": 9,
       "liens": [
         {
@@ -215,8 +197,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 9,
+      "heures": 12.1,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -233,31 +215,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 9,
+      "heures": 13.5,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/gta-6-wont-be-playable-on-pc-at-launch-via-xboxs-cloud-streaming-services-microsoft-exec-indicates-while-refuting-exclusivity-deal-report",
           "titre": "GTA 6 won't be playable on PC at launch via Xbox's cloud streaming services, Microsoft exec indicates while refuting exclusivity deal report"
-        }
-      ]
-    },
-    {
-      "id": "steam-is-about-to-start-getting-some-of-the-best-japanese-pi",
-      "titre": "Steam is about to start getting some of the best Japanese pixel art in gaming history",
-      "url": "https://www.pcgamer.com/games/adventure/steam-is-about-to-start-getting-some-of-the-best-japanese-pixel-art-in-gaming-history/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/adventure/steam-is-about-to-start-getting-some-of-the-best-japanese-pixel-art-in-gaming-history/",
-          "titre": "Steam is about to start getting some of the best Japanese pixel art in gaming history"
         }
       ]
     },
@@ -269,13 +233,37 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 16.0,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/xbox-cloud-gta-6-streaming-rights",
           "titre": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC"
+        }
+      ]
+    },
+    {
+      "id": "discord-protection-bot-double-counter-hit-by-breach-exposing",
+      "titre": "Discord protection bot Double Counter hit by breach exposing around 1 million email addresses",
+      "url": "https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses",
+      "sources": [
+        "GamesIndustry.biz",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 5.3,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses",
+          "titre": "Discord protection bot Double Counter hit by breach exposing around 1 million email addresses"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/hackers-steal-millions-of-discord-ids-and-email-address-in-deliberate-multi-stage-attack-on-security-service-double-counter",
+          "titre": "Hackers steal millions of Discord IDs and email addresses in \"deliberate, multi-stage attack\" on security service Double Counter"
         }
       ]
     },
@@ -288,7 +276,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.7,
+      "heures": 7.9,
       "chaleur": 7,
       "liens": [
         {
@@ -311,61 +299,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.5,
       "chaleur": 7,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/paramount-games-studio-and-wb-games-merge-under-skydance-following-completion-of-111bn-acquisition",
           "titre": "Paramount Games Studio and WB Games merge under Skydance following completion of $111bn acquisition"
-        }
-      ]
-    },
-    {
-      "id": "unity-unveils-unity-spark-an-prompt-based-tool-for-google-s",
-      "titre": "Unity unveils Unity Spark, an prompt-based tool for Google's AI game platform",
-      "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
-      "sources": [
-        "Game Developer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 10.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
-          "titre": "Unity unveils Unity Spark, an prompt-based tool for Google's AI game platform"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/unity-unveils-a-web-based-ai-game-creation-platform",
-          "titre": "Unity unveils a web-based AI game creation platform"
-        }
-      ]
-    },
-    {
-      "id": "resident-evil-requiem-s-writer-reveals-what-the-upcoming-dlc",
-      "titre": "Resident Evil Requiem's Writer Reveals What The Upcoming DLC Might Be About",
-      "url": "https://www.nintendolife.com/news/2026/10/resident-evil-requiems-writer-reveals-what-the-upcoming-dlc-might-be-about",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 11.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/resident-evil-requiems-writer-reveals-what-the-upcoming-dlc-might-be-about",
-          "titre": "Resident Evil Requiem's Writer Reveals What The Upcoming DLC Might Be About"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/resident-evil-requiem-writer-lets-slip-a-major-detail-about-the-upcoming-dlc/",
-          "titre": "Resident Evil Requiem writer lets slip a major detail about the upcoming DLC"
         }
       ]
     },
@@ -442,6 +382,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "the-first-review-for-castlevania-belmont-s-curse-is-in",
+      "titre": "The First Review For Castlevania: Belmont's Curse Is In",
+      "url": "https://www.nintendolife.com/news/2026/10/the-first-review-for-castlevania-belmonts-curse-is-in",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/the-first-review-for-castlevania-belmonts-curse-is-in",
+          "titre": "The First Review For Castlevania: Belmont's Curse Is In"
+        }
+      ]
+    },
+    {
       "id": "ps5-to-integrate-anime-into-main-menu-as-sony-tightens-ties",
       "titre": "PS5 to Integrate Anime into Main Menu as Sony Tightens Ties with Crunchyroll",
       "url": "https://www.pushsquare.com/news/2026/10/ps5-to-integrate-anime-into-main-menu-as-sony-tightens-ties-with-crunchyroll",
@@ -449,13 +407,67 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 1.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/ps5-to-integrate-anime-into-main-menu-as-sony-tightens-ties-with-crunchyroll",
           "titre": "PS5 to Integrate Anime into Main Menu as Sony Tightens Ties with Crunchyroll"
+        }
+      ]
+    },
+    {
+      "id": "blizzard-promises-to-make-the-blue-elves-in-world-of-warcraf",
+      "titre": "Blizzard promises to make the blue elves in World of Warcraft: Forever look worse (positive)",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-promises-to-make-the-blue-elves-in-world-of-warcraft-forever-look-worse-positive/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-promises-to-make-the-blue-elves-in-world-of-warcraft-forever-look-worse-positive/",
+          "titre": "Blizzard promises to make the blue elves in World of Warcraft: Forever look worse (positive)"
+        }
+      ]
+    },
+    {
+      "id": "with-grand-theft-auto-6-poised-to-take-over-the-world-i-reac",
+      "titre": "With Grand Theft Auto 6 poised to take over the world, I reached out to Jack Thompson and it did not go well",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/with-grand-theft-auto-6-poised-to-take-over-the-world-i-reached-out-to-jack-thompson-and-it-did-not-go-well/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/with-grand-theft-auto-6-poised-to-take-over-the-world-i-reached-out-to-jack-thompson-and-it-did-not-go-well/",
+          "titre": "With Grand Theft Auto 6 poised to take over the world, I reached out to Jack Thompson and it did not go well"
+        }
+      ]
+    },
+    {
+      "id": "blood-bowl-3-is-being-replaced-by-warhammer-blood-bowl-what",
+      "titre": "Blood Bowl 3 is being replaced by Warhammer Blood Bowl: What will happen to everyone's unspent currency?",
+      "url": "https://www.pcgamer.com/games/strategy/blood-bowl-3-is-being-replaced-by-warhammer-blood-bowl-what-will-happen-to-everyones-unspent-currency/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/blood-bowl-3-is-being-replaced-by-warhammer-blood-bowl-what-will-happen-to-everyones-unspent-currency/",
+          "titre": "Blood Bowl 3 is being replaced by Warhammer Blood Bowl: What will happen to everyone's unspent currency?"
         }
       ]
     },
@@ -467,7 +479,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -485,7 +497,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -496,110 +508,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gravity-well-lays-off-more-than-40-developers-after-losing-i",
-      "titre": "Gravity Well lays off more than 40 developers after losing its funding",
-      "url": "https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 1.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding",
-          "titre": "Gravity Well lays off more than 40 developers after losing its funding"
-        }
-      ]
-    },
-    {
-      "id": "nivalis-nights-review-an-avalanche-of-fascinating-characters",
-      "titre": "Nivalis Nights review: An avalanche of fascinating characters carrying a decent shop sim on their backs",
-      "url": "https://www.pcgamer.com/games/life-sim/nivalis-nights-review/",
+      "id": "steam-is-about-to-start-getting-some-of-the-best-japanese-pi",
+      "titre": "Steam is about to start getting some of the best Japanese pixel art in gaming history",
+      "url": "https://www.pcgamer.com/games/adventure/steam-is-about-to-start-getting-some-of-the-best-japanese-pixel-art-in-gaming-history/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.2,
+      "heures": 4.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/life-sim/nivalis-nights-review/",
-          "titre": "Nivalis Nights review: An avalanche of fascinating characters carrying a decent shop sim on their backs"
-        }
-      ]
-    },
-    {
-      "id": "what-if-resident-evil-had-debuted-on-snes-dead-of-darkness-2",
-      "titre": "What if Resident Evil Had Debuted on SNES? Dead of Darkness 2 Has the Answer on PS5",
-      "url": "https://www.pushsquare.com/news/2026/10/what-if-resident-evil-had-debuted-on-snes-dead-of-darkness-2-has-the-answer-on-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/what-if-resident-evil-had-debuted-on-snes-dead-of-darkness-2-has-the-answer-on-ps5",
-          "titre": "What if Resident Evil Had Debuted on SNES? Dead of Darkness 2 Has the Answer on PS5"
-        }
-      ]
-    },
-    {
-      "id": "we-tried-to-earn-as-much-gold-in-wow-forever-as-we-could-in",
-      "titre": "We tried to earn as much gold in WoW: Forever as we could in 2 hours—which involved a mugging, slander, and at least one crashout",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/we-tried-to-earn-as-much-gold-in-wow-forever-as-we-could-in-2-hours-which-involved-a-mugging-slander-and-at-least-one-crashout/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/we-tried-to-earn-as-much-gold-in-wow-forever-as-we-could-in-2-hours-which-involved-a-mugging-slander-and-at-least-one-crashout/",
-          "titre": "We tried to earn as much gold in WoW: Forever as we could in 2 hours—which involved a mugging, slander, and at least one crashout"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-drops-the-pvp-grind-so-normal-peop",
-      "titre": "World of Warcraft: Forever drops the PvP grind so normal people can have fancy titles too",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-drops-the-pvp-grind-so-normal-people-can-have-fancy-titles-too/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-drops-the-pvp-grind-so-normal-people-can-have-fancy-titles-too/",
-          "titre": "World of Warcraft: Forever drops the PvP grind so normal people can have fancy titles too"
-        }
-      ]
-    },
-    {
-      "id": "skate-has-been-de-live-serviced-by-reskate-a-modding-platfor",
-      "titre": "Skate has been de-live serviced by ReSkate, a modding platform downloaded 350,000 times—devs say they will comply if EA's lawyers come knocking",
-      "url": "https://www.pcgamer.com/games/sports/reskate-modding-platform-released/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sports/reskate-modding-platform-released/",
-          "titre": "Skate has been de-live serviced by ReSkate, a modding platform downloaded 350,000 times—devs say they will comply if EA's lawyers come knocking"
+          "url": "https://www.pcgamer.com/games/adventure/steam-is-about-to-start-getting-some-of-the-best-japanese-pixel-art-in-gaming-history/",
+          "titre": "Steam is about to start getting some of the best Japanese pixel art in gaming history"
         }
       ]
     },
@@ -611,7 +533,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.6,
       "chaleur": 6,
       "liens": [
         {
@@ -629,7 +551,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 8.0,
       "chaleur": 6,
       "liens": [
         {
@@ -647,13 +569,61 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/for-a-moment-it-looked-like-grand-theft-auto-6-might-be-playable-on-pc-on-launch-day-then-xboxs-chief-strategy-officer-crashed-the-party/",
           "titre": "For a moment it looked like Grand Theft Auto 6 might be playable on PC on launch day—then Xbox's chief strategy officer crashed the party"
+        }
+      ]
+    },
+    {
+      "id": "unity-unveils-unity-spark-an-prompt-based-tool-for-google-s",
+      "titre": "Unity unveils Unity Spark, an prompt-based tool for Google's AI game platform",
+      "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
+      "sources": [
+        "Game Developer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 12.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
+          "titre": "Unity unveils Unity Spark, an prompt-based tool for Google's AI game platform"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/unity-unveils-a-web-based-ai-game-creation-platform",
+          "titre": "Unity unveils a web-based AI game creation platform"
+        }
+      ]
+    },
+    {
+      "id": "resident-evil-requiem-s-writer-reveals-what-the-upcoming-dlc",
+      "titre": "Resident Evil Requiem's Writer Reveals What The Upcoming DLC Might Be About",
+      "url": "https://www.nintendolife.com/news/2026/10/resident-evil-requiems-writer-reveals-what-the-upcoming-dlc-might-be-about",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 13.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/resident-evil-requiems-writer-reveals-what-the-upcoming-dlc-might-be-about",
+          "titre": "Resident Evil Requiem's Writer Reveals What The Upcoming DLC Might Be About"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/resident-evil-requiem-writer-lets-slip-a-major-detail-about-the-upcoming-dlc/",
+          "titre": "Resident Evil Requiem writer lets slip a major detail about the upcoming DLC"
         }
       ]
     },
@@ -666,7 +636,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 19.1,
+      "heures": 21.3,
       "chaleur": 6,
       "liens": [
         {
@@ -689,7 +659,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 27.0,
+      "heures": 29.2,
       "chaleur": 6,
       "liens": [
         {
@@ -707,31 +677,13 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 29.1,
+      "heures": 31.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
           "titre": "Undead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs"
-        }
-      ]
-    },
-    {
-      "id": "round-up-the-final-previews-for-nintendo-switch-sports-resor",
-      "titre": "Round Up: The Final Previews For Nintendo Switch Sports Resort Are In",
-      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-final-previews-for-nintendo-switch-sports-resort-are-in",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 31.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-final-previews-for-nintendo-switch-sports-resort-are-in",
-          "titre": "Round Up: The Final Previews For Nintendo Switch Sports Resort Are In"
         }
       ]
     },
@@ -743,7 +695,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.7,
       "chaleur": 5,
       "liens": [
         {
@@ -761,7 +713,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.1,
+      "heures": 23.3,
       "chaleur": 5,
       "liens": [
         {
@@ -779,7 +731,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.1,
+      "heures": 24.3,
       "chaleur": 5,
       "liens": [
         {
@@ -797,7 +749,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 29.6,
       "chaleur": 5,
       "liens": [
         {
@@ -815,7 +767,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.5,
       "chaleur": 5,
       "liens": [
         {
@@ -833,7 +785,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.6,
+      "heures": 32.8,
       "chaleur": 5,
       "liens": [
         {
@@ -851,13 +803,121 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.0,
+      "heures": 35.2,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
           "titre": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more"
+        }
+      ]
+    },
+    {
+      "id": "gravity-well-lays-off-more-than-40-developers-after-losing-i",
+      "titre": "Gravity Well lays off more than 40 developers after losing its funding",
+      "url": "https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding",
+          "titre": "Gravity Well lays off more than 40 developers after losing its funding"
+        }
+      ]
+    },
+    {
+      "id": "nivalis-nights-review-an-avalanche-of-fascinating-characters",
+      "titre": "Nivalis Nights review: An avalanche of fascinating characters carrying a decent shop sim on their backs",
+      "url": "https://www.pcgamer.com/games/life-sim/nivalis-nights-review/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/life-sim/nivalis-nights-review/",
+          "titre": "Nivalis Nights review: An avalanche of fascinating characters carrying a decent shop sim on their backs"
+        }
+      ]
+    },
+    {
+      "id": "what-if-resident-evil-had-debuted-on-snes-dead-of-darkness-2",
+      "titre": "What if Resident Evil Had Debuted on SNES? Dead of Darkness 2 Has the Answer on PS5",
+      "url": "https://www.pushsquare.com/news/2026/10/what-if-resident-evil-had-debuted-on-snes-dead-of-darkness-2-has-the-answer-on-ps5",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/what-if-resident-evil-had-debuted-on-snes-dead-of-darkness-2-has-the-answer-on-ps5",
+          "titre": "What if Resident Evil Had Debuted on SNES? Dead of Darkness 2 Has the Answer on PS5"
+        }
+      ]
+    },
+    {
+      "id": "we-tried-to-earn-as-much-gold-in-wow-forever-as-we-could-in",
+      "titre": "We tried to earn as much gold in WoW: Forever as we could in 2 hours—which involved a mugging, slander, and at least one crashout",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/we-tried-to-earn-as-much-gold-in-wow-forever-as-we-could-in-2-hours-which-involved-a-mugging-slander-and-at-least-one-crashout/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/we-tried-to-earn-as-much-gold-in-wow-forever-as-we-could-in-2-hours-which-involved-a-mugging-slander-and-at-least-one-crashout/",
+          "titre": "We tried to earn as much gold in WoW: Forever as we could in 2 hours—which involved a mugging, slander, and at least one crashout"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-drops-the-pvp-grind-so-normal-peop",
+      "titre": "World of Warcraft: Forever drops the PvP grind so normal people can have fancy titles too",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-drops-the-pvp-grind-so-normal-people-can-have-fancy-titles-too/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-drops-the-pvp-grind-so-normal-people-can-have-fancy-titles-too/",
+          "titre": "World of Warcraft: Forever drops the PvP grind so normal people can have fancy titles too"
+        }
+      ]
+    },
+    {
+      "id": "skate-has-been-de-live-serviced-by-reskate-a-modding-platfor",
+      "titre": "Skate has been de-live serviced by ReSkate, a modding platform downloaded 350,000 times—devs say they will comply if EA's lawyers come knocking",
+      "url": "https://www.pcgamer.com/games/sports/reskate-modding-platform-released/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sports/reskate-modding-platform-released/",
+          "titre": "Skate has been de-live serviced by ReSkate, a modding platform downloaded 350,000 times—devs say they will comply if EA's lawyers come knocking"
         }
       ]
     },
@@ -869,7 +929,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +947,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 7.0,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +965,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +983,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +1001,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +1019,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +1037,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +1055,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,7 +1073,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,7 +1091,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1049,7 +1109,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1067,7 +1127,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1085,7 +1145,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1103,7 +1163,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1112,61 +1172,9 @@ const VEILLE = {
           "titre": "I had 3 hours with Arc Raiders Frozen Trails update and spent most of it playing with the new grapple hook"
         }
       ]
-    },
-    {
-      "id": "lynchian-noir-mystery-silver-pines-takes-the-best-bits-from",
-      "titre": "Lynchian noir mystery Silver Pines takes the best bits from horror, the middling bits from Metroidvanias, and the worst bits from adventure games",
-      "url": "https://www.rockpapershotgun.com/lynchian-noir-mystery-silver-pines-takes-the-best-bits-from-horror-the-middling-bits-from-metroidvanias-and-the-worst-bits-from-adventure-games",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 7.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/lynchian-noir-mystery-silver-pines-takes-the-best-bits-from-horror-the-middling-bits-from-metroidvanias-and-the-worst-bits-from-adventure-games",
-          "titre": "Lynchian noir mystery Silver Pines takes the best bits from horror, the middling bits from Metroidvanias, and the worst bits from adventure games"
-        }
-      ]
-    },
-    {
-      "id": "critical-role-s-latest-d-d-episode-was-so-stressful-i-discov",
-      "titre": "Critical Role's latest D&D episode was so stressful, I discovered a new noise my mouth can make",
-      "url": "https://www.pcgamer.com/movies-tv/critical-roles-latest-d-and-d-episode-was-so-stressful-i-discovered-a-new-noise-my-mouth-can-make/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/critical-roles-latest-d-and-d-episode-was-so-stressful-i-discovered-a-new-noise-my-mouth-can-make/",
-          "titre": "Critical Role's latest D&D episode was so stressful, I discovered a new noise my mouth can make"
-        }
-      ]
-    },
-    {
-      "id": "ps5-fans-think-they-may-have-found-evidence-of-an-enhanced-p",
-      "titre": "PS5 Fans Think They May Have Found Evidence of an Enhanced PS Portal",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5-fans-think-they-may-have-found-evidence-of-an-enhanced-ps-portal",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 7.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps5-fans-think-they-may-have-found-evidence-of-an-enhanced-ps-portal",
-          "titre": "PS5 Fans Think They May Have Found Evidence of an Enhanced PS Portal"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Here's the Dragon's Dogma 2: Dark Arisen release time for your region"
+  ]
 };
