@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "08/10/2026 à 20h24",
+  "collecte": "08/10/2026 à 22h22",
   "seuil": 14,
   "sujets": [
     {
@@ -13,7 +13,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 13,
       "liens": [
         {
@@ -34,6 +34,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "all-hail-brand-synergy-cyberpunk-2077-is-getting-a-live-acti",
+      "titre": "All hail brand synergy, Cyberpunk 2077 is getting a live action adaptation from Paramount and the producer behind the horrendous Doom movie",
+      "url": "https://www.rockpapershotgun.com/all-hail-brand-synergy-cyberpunk-2077-is-getting-a-live-action-adaptation-from-paramount-and-the-producer-behind-the-horrendous-doom-movie",
+      "sources": [
+        "Push Square",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 1.9,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/all-hail-brand-synergy-cyberpunk-2077-is-getting-a-live-action-adaptation-from-paramount-and-the-producer-behind-the-horrendous-doom-movie",
+          "titre": "All hail brand synergy, Cyberpunk 2077 is getting a live action adaptation from Paramount and the producer behind the horrendous Doom movie"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-is-the-next-game-set-for-a-live-action-film",
+          "titre": "Cyberpunk 2077 Is the Next Game Set for a Live-Action Film"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/cyberpunk-2077-is-getting-a-live-action-movie-from-paramount/",
+          "titre": "Cyberpunk 2077 is getting a live-action movie from Paramount"
+        }
+      ]
+    },
+    {
       "id": "star-wars-zero-company-studio-start-to-bring-back-devs-furlo",
       "titre": "Star Wars Zero Company studio start to bring back devs furloughed prior to launch, with \"more than half\" of previous headcount reportedly returning to payroll",
       "url": "https://www.rockpapershotgun.com/star-wars-zero-company-studio-start-to-bring-back-devs-furloughed-prior-to-launch-with-more-than-half-of-previous-headcount-reportedly-returning-to-payroll",
@@ -43,8 +73,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 11.1,
-      "chaleur": 12,
+      "heures": 13.1,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -71,13 +101,37 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.1,
       "chaleur": 10,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/rockstar-hunted-gta-6-leaker-seemingly-strikes-again-showing-off-series-most-plentiful-helping-of-onscreen-johnson-since-san-andreas-starred-carl",
           "titre": "Rockstar-hunted GTA 6 leaker seemingly strikes again, showing off series' most plentiful helping of onscreen johnson since San Andreas starred Carl"
+        }
+      ]
+    },
+    {
+      "id": "how-to-start-the-dragon-s-dogma-2-dark-arisen-expansion",
+      "titre": "How to start the Dragon's Dogma 2: Dark Arisen expansion",
+      "url": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-how-to-start-dark-arisen/",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 1.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-how-to-start-dark-arisen/",
+          "titre": "How to start the Dragon's Dogma 2: Dark Arisen expansion"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-dragons-dogma-2-dark-arisen-are-in",
+          "titre": "Round Up: The Reviews For Dragon's Dogma 2: Dark Arisen Are In"
         }
       ]
     },
@@ -89,7 +143,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 9,
       "liens": [
         {
@@ -108,7 +162,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 9,
       "liens": [
         {
@@ -124,54 +178,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "cyberpunk-2077-is-the-next-game-set-for-a-live-action-film",
-      "titre": "Cyberpunk 2077 Is the Next Game Set for a Live-Action Film",
-      "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-is-the-next-game-set-for-a-live-action-film",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 1.7,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-is-the-next-game-set-for-a-live-action-film",
-          "titre": "Cyberpunk 2077 Is the Next Game Set for a Live-Action Film"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/cyberpunk-2077-is-getting-a-live-action-movie-from-paramount/",
-          "titre": "Cyberpunk 2077 is getting a live-action movie from Paramount"
-        }
-      ]
-    },
-    {
-      "id": "forza-horizon-6-officially-dated-for-ps5-alongside-an-expans",
-      "titre": "Forza Horizon 6 officially dated for PS5, alongside an expansion",
-      "url": "https://www.videogameschronicle.com/news/forza-horizon-6-officially-dated-for-ps5-alongside-an-expansion/",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 2.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/forza-horizon-6-officially-dated-for-ps5-alongside-an-expansion/",
-          "titre": "Forza Horizon 6 officially dated for PS5, alongside an expansion"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/first-forza-horizon-6-ps5-gameplay-arrives-as-release-date-is-revealed",
-          "titre": "First Forza Horizon 6 PS5 Gameplay Arrives as Release Date Is Revealed"
-        }
-      ]
-    },
-    {
       "id": "as-it-lays-off-developers-and-closes-studios-xbox-gets-into",
       "titre": "As it lays off developers and closes studios, Xbox gets into the movie business",
       "url": "https://www.pcgamer.com/gaming-industry/as-it-lays-off-developers-and-closes-studios-xbox-gets-into-the-movie-business/",
@@ -180,7 +186,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 4.1,
+      "heures": 6.1,
       "chaleur": 9,
       "liens": [
         {
@@ -196,24 +202,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gameplay-footage-from-cancelled-xbox-perfect-dark-game-leaks",
-      "titre": "Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good",
-      "url": "https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak",
-          "titre": "Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good"
-        }
-      ]
-    },
-    {
       "id": "vampire-games-on-steam-are-a-recession-indicator-and-i-have",
       "titre": "Vampire games on Steam are a recession indicator and I have the charts to prove it",
       "url": "https://www.pcgamer.com/games/vampire-games-on-steam-are-a-recession-indicator-and-i-have-the-charts-to-prove-it/",
@@ -221,7 +209,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.5,
       "chaleur": 8,
       "liens": [
         {
@@ -232,20 +220,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-ceo-unveils-new-xbox-division-for-game-adjacent-venture",
-      "titre": "Xbox CEO unveils 'new Xbox division' for game-adjacent ventures named 'XP'",
-      "url": "https://www.gamedeveloper.com/console/xbox-ceo-unveils-new-xbox-division-for-game-adjacent-ventures-named-xp-",
+      "id": "gameplay-footage-from-cancelled-xbox-perfect-dark-game-leaks",
+      "titre": "Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good",
+      "url": "https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak",
       "sources": [
-        "Game Developer"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.9,
+      "heures": 13.4,
       "chaleur": 8,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/xbox-ceo-unveils-new-xbox-division-for-game-adjacent-ventures-named-xp-",
-          "titre": "Xbox CEO unveils 'new Xbox division' for game-adjacent ventures named 'XP'"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak",
+          "titre": "Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good"
+        }
+      ]
+    },
+    {
+      "id": "forza-horizon-6-officially-dated-for-ps5-alongside-an-expans",
+      "titre": "Forza Horizon 6 officially dated for PS5, alongside an expansion",
+      "url": "https://www.videogameschronicle.com/news/forza-horizon-6-officially-dated-for-ps5-alongside-an-expansion/",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 4.4,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/forza-horizon-6-officially-dated-for-ps5-alongside-an-expansion/",
+          "titre": "Forza Horizon 6 officially dated for PS5, alongside an expansion"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/first-forza-horizon-6-ps5-gameplay-arrives-as-release-date-is-revealed",
+          "titre": "First Forza Horizon 6 PS5 Gameplay Arrives as Release Date Is Revealed"
         }
       ]
     },
@@ -258,7 +270,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 7,
       "liens": [
         {
@@ -282,7 +294,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 2,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 7,
       "liens": [
         {
@@ -306,7 +318,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 6.2,
+      "heures": 8.2,
       "chaleur": 7,
       "liens": [
         {
@@ -330,7 +342,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 7,
       "liens": [
         {
@@ -353,7 +365,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 7,
       "liens": [
         {
@@ -371,7 +383,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 7,
       "liens": [
         {
@@ -389,7 +401,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.2,
       "chaleur": 7,
       "liens": [
         {
@@ -407,7 +419,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.2,
       "chaleur": 7,
       "liens": [
         {
@@ -472,6 +484,78 @@ const VEILLE = {
       ]
     },
     {
+      "id": "you-can-now-sign-up-to-playtest-the-genre-bending-pony-islan",
+      "titre": "You can now sign up to playtest the genre-bending Pony Island 2: Panda Circus, and while you're at it the original is free for a few days too",
+      "url": "https://www.rockpapershotgun.com/you-can-now-sign-up-to-playtest-the-genre-bending-pony-island-2-panda-circus-and-while-youre-at-it-the-original-is-free-for-a-few-days-too",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/you-can-now-sign-up-to-playtest-the-genre-bending-pony-island-2-panda-circus-and-while-youre-at-it-the-original-is-free-for-a-few-days-too",
+          "titre": "You can now sign up to playtest the genre-bending Pony Island 2: Panda Circus, and while you're at it the original is free for a few days too"
+        }
+      ]
+    },
+    {
+      "id": "why-a-21-year-old-coder-finally-ported-the-real-p-t-to-pc-th",
+      "titre": "Why a 21-year-old coder finally ported the real P.T. to PC: 'That something so influential could eventually become unplayable never sat right with me'",
+      "url": "https://www.pcgamer.com/games/horror/why-a-21-year-old-coder-finally-ported-the-real-p-t-to-pc-that-something-so-influential-could-eventually-become-unplayable-never-sat-right-with-me/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/why-a-21-year-old-coder-finally-ported-the-real-p-t-to-pc-that-something-so-influential-could-eventually-become-unplayable-never-sat-right-with-me/",
+          "titre": "Why a 21-year-old coder finally ported the real P.T. to PC: 'That something so influential could eventually become unplayable never sat right with me'"
+        }
+      ]
+    },
+    {
+      "id": "blizzard-refuses-to-let-world-of-warcraft-forever-s-dungeons",
+      "titre": "Blizzard refuses to let World of Warcraft: Forever's dungeons become the fastest way to grind XP: 'We need to hold firm on these balance adjustments'",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-refuses-to-let-world-of-warcraft-forevers-dungeons-become-the-fastest-way-to-grind-xp-we-need-to-hold-firm-on-these-balance-adjustments/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-refuses-to-let-world-of-warcraft-forevers-dungeons-become-the-fastest-way-to-grind-xp-we-need-to-hold-firm-on-these-balance-adjustments/",
+          "titre": "Blizzard refuses to let World of Warcraft: Forever's dungeons become the fastest way to grind XP: 'We need to hold firm on these balance adjustments'"
+        }
+      ]
+    },
+    {
+      "id": "us-government-accuses-microsoft-of-replacing-american-worker",
+      "titre": "US government accuses Microsoft of replacing American workers with 'foreign indentured servants,' then gives Satya Nadella a medal",
+      "url": "https://www.pcgamer.com/gaming-industry/us-government-accuses-microsoft-of-replacing-american-workers-with-foreign-indentured-servants-then-gives-satya-nadella-a-medal/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/us-government-accuses-microsoft-of-replacing-american-workers-with-foreign-indentured-servants-then-gives-satya-nadella-a-medal/",
+          "titre": "US government accuses Microsoft of replacing American workers with 'foreign indentured servants,' then gives Satya Nadella a medal"
+        }
+      ]
+    },
+    {
       "id": "ps5-console-exclusive-prison-of-husks-looks-like-a-soulslike",
       "titre": "PS5 Console Exclusive PRISON OF HUSKS Looks Like a Soulslike with PS2 Presentation",
       "url": "https://www.pushsquare.com/news/2026/10/ps5-console-exclusive-prison-of-husks-looks-like-a-soulslike-with-ps2-presentation",
@@ -479,7 +563,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -497,7 +581,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -508,236 +592,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "trump-administration-suspends-microsoft-s-ability-to-apply-f",
-      "titre": "Trump administration suspends Microsoft's ability to apply for green cards, alleging fraud",
-      "url": "https://www.gamedeveloper.com/business/trump-administration-suspends-microsoft-s-ability-to-apply-for-green-cards-alleging-fraud",
+      "id": "xbox-ceo-unveils-new-xbox-division-for-game-adjacent-venture",
+      "titre": "Xbox CEO unveils 'new Xbox division' for game-adjacent ventures named 'XP'",
+      "url": "https://www.gamedeveloper.com/console/xbox-ceo-unveils-new-xbox-division-for-game-adjacent-ventures-named-xp-",
       "sources": [
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 2.3,
+      "heures": 4.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/trump-administration-suspends-microsoft-s-ability-to-apply-for-green-cards-alleging-fraud",
-          "titre": "Trump administration suspends Microsoft's ability to apply for green cards, alleging fraud"
-        }
-      ]
-    },
-    {
-      "id": "volatiles-takes-the-piece-by-piece-map-building-of-boardgame",
-      "titre": "Volatiles takes the piece-by-piece map building of boardgames like Betrayal at House on the Hill and slaps a gory survival shooter on top of them",
-      "url": "https://www.rockpapershotgun.com/volatiles-takes-the-piece-by-piece-map-building-of-boardgames-like-betrayal-at-house-on-the-hill-and-slaps-a-gory-survival-shooter-on-top-of-them",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/volatiles-takes-the-piece-by-piece-map-building-of-boardgames-like-betrayal-at-house-on-the-hill-and-slaps-a-gory-survival-shooter-on-top-of-them",
-          "titre": "Volatiles takes the piece-by-piece map building of boardgames like Betrayal at House on the Hill and slaps a gory survival shooter on top of them"
-        }
-      ]
-    },
-    {
-      "id": "a-great-indie-studio-is-making-a-sequel-to-one-of-my-favorit",
-      "titre": "A great indie studio is making a sequel to one of my favorite adventures 17 years later, for one simple reason: 'We're not getting any younger, and the world seems to be ending'",
-      "url": "https://www.pcgamer.com/games/adventure/a-great-indie-studio-is-making-a-sequel-to-one-of-my-favorite-adventures-17-years-later-for-one-simple-reason-were-not-getting-any-younger-and-the-world-seems-to-be-ending/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/adventure/a-great-indie-studio-is-making-a-sequel-to-one-of-my-favorite-adventures-17-years-later-for-one-simple-reason-were-not-getting-any-younger-and-the-world-seems-to-be-ending/",
-          "titre": "A great indie studio is making a sequel to one of my favorite adventures 17 years later, for one simple reason: 'We're not getting any younger, and the world seems to be ending'"
-        }
-      ]
-    },
-    {
-      "id": "clair-obscur-expedition-33-comes-to-astral-ascent-in-new-cro",
-      "titre": "Clair Obscur: Expedition 33 Comes To Astral Ascent In New Crossover Update",
-      "url": "https://www.nintendolife.com/news/2026/10/clair-obscur-expedition-33-comes-to-astral-ascent-in-new-crossover-update",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/clair-obscur-expedition-33-comes-to-astral-ascent-in-new-crossover-update",
-          "titre": "Clair Obscur: Expedition 33 Comes To Astral Ascent In New Crossover Update"
-        }
-      ]
-    },
-    {
-      "id": "prospice-anomalous-logistics-is-snowrunner-except-instead-of",
-      "titre": "Prospice: Anomalous Logistics is SnowRunner except instead of lengths of copper pipe, you're transporting the body parts of eldritch gods",
-      "url": "https://www.rockpapershotgun.com/prospice-anomalous-logistics-is-snowrunner-except-instead-of-lengths-of-copper-pipe-youre-transporting-the-body-parts-of-eldritch-gods",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/prospice-anomalous-logistics-is-snowrunner-except-instead-of-lengths-of-copper-pipe-youre-transporting-the-body-parts-of-eldritch-gods",
-          "titre": "Prospice: Anomalous Logistics is SnowRunner except instead of lengths of copper pipe, you're transporting the body parts of eldritch gods"
-        }
-      ]
-    },
-    {
-      "id": "mafia-3-definitive-edition-s-native-60fps-ps5-upgrade-is-out",
-      "titre": "Mafia 3: Definitive Edition's Native 60fps PS5 Upgrade Is Out Now, Free for Existing Owners",
-      "url": "https://www.pushsquare.com/news/2026/10/mafia-3-definitive-editions-native-60fps-ps5-upgrade-is-out-now-free-for-existing-owners",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/mafia-3-definitive-editions-native-60fps-ps5-upgrade-is-out-now-free-for-existing-owners",
-          "titre": "Mafia 3: Definitive Edition's Native 60fps PS5 Upgrade Is Out Now, Free for Existing Owners"
-        }
-      ]
-    },
-    {
-      "id": "it-s-clear-that-we-both-adore-one-another-s-games-a-lot-dav",
-      "titre": "\"It's clear that we both adore one another's games a lot\" - Dave the Diver and Subnautica 2 team up for a crossover made in heaven",
-      "url": "https://www.eurogamer.net/dave-the-diver-final-dlc-subnautica-2-crossover",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dave-the-diver-final-dlc-subnautica-2-crossover",
-          "titre": "\"It's clear that we both adore one another's games a lot\" - Dave the Diver and Subnautica 2 team up for a crossover made in heaven"
-        }
-      ]
-    },
-    {
-      "id": "lazare-s-sacrifice-is-a-narrative-deckbuilder-made-with-gwen",
-      "titre": "Lazare’s Sacrifice is a narrative deckbuilder made with Gwent's creator about avoiding the guillotine during the French Revolution",
-      "url": "https://www.rockpapershotgun.com/lazares-sacrifice-is-a-narrative-deckbuilder-made-with-gwents-creator-about-avoiding-the-guillotine-during-the-french-revolution",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/lazares-sacrifice-is-a-narrative-deckbuilder-made-with-gwents-creator-about-avoiding-the-guillotine-during-the-french-revolution",
-          "titre": "Lazare’s Sacrifice is a narrative deckbuilder made with Gwent's creator about avoiding the guillotine during the French Revolution"
-        }
-      ]
-    },
-    {
-      "id": "two-point-museum-s-cutest-collaboration-is-now-available-and",
-      "titre": "Two Point Museum's Cutest Collaboration Is Now Available, And It's Free",
-      "url": "https://www.nintendolife.com/news/2026/10/two-point-museums-cutest-collaboration-is-now-available-and-its-free",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/two-point-museums-cutest-collaboration-is-now-available-and-its-free",
-          "titre": "Two Point Museum's Cutest Collaboration Is Now Available, And It's Free"
-        }
-      ]
-    },
-    {
-      "id": "i-love-k-pop-but-this-new-ps5-game-ain-t-it",
-      "titre": "I Love K-Pop, But This New PS5 Game Ain't It",
-      "url": "https://www.pushsquare.com/news/2026/10/i-love-k-pop-but-this-new-ps5-game-aint-it",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/i-love-k-pop-but-this-new-ps5-game-aint-it",
-          "titre": "I Love K-Pop, But This New PS5 Game Ain't It"
-        }
-      ]
-    },
-    {
-      "id": "i-have-added-roving-bands-of-militant-furries-to-grand-theft",
-      "titre": "I have added roving bands of militant furries to Grand Theft Auto 5",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-added-roving-bands-of-militant-furries-to-grand-theft-auto-5/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-added-roving-bands-of-militant-furries-to-grand-theft-auto-5/",
-          "titre": "I have added roving bands of militant furries to Grand Theft Auto 5"
-        }
-      ]
-    },
-    {
-      "id": "amazon-is-roasting-users-with-their-own-shopping-habits-but",
-      "titre": "Amazon is roasting users with their own shopping habits, but it don't have nothin' on us",
-      "url": "https://www.pcgamer.com/hardware/amazon-is-roasting-users-with-their-own-shopping-habits-but-it-dont-have-nothin-on-us/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/amazon-is-roasting-users-with-their-own-shopping-habits-but-it-dont-have-nothin-on-us/",
-          "titre": "Amazon is roasting users with their own shopping habits, but it don't have nothin' on us"
-        }
-      ]
-    },
-    {
-      "id": "fatal-fury-ps5-s-ridiculous-dlc-run-continues-with-tekken-8",
-      "titre": "Fatal Fury PS5's Ridiculous DLC Run Continues with Tekken 8's Reina Teased",
-      "url": "https://www.pushsquare.com/news/2026/10/fatal-fury-ps5s-ridiculous-dlc-run-continues-with-tekken-8s-reina-teased",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/fatal-fury-ps5s-ridiculous-dlc-run-continues-with-tekken-8s-reina-teased",
-          "titre": "Fatal Fury PS5's Ridiculous DLC Run Continues with Tekken 8's Reina Teased"
+          "url": "https://www.gamedeveloper.com/console/xbox-ceo-unveils-new-xbox-division-for-game-adjacent-ventures-named-xp-",
+          "titre": "Xbox CEO unveils 'new Xbox division' for game-adjacent ventures named 'XP'"
         }
       ]
     },
@@ -749,7 +617,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.1,
       "chaleur": 6,
       "liens": [
         {
@@ -767,7 +635,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.1,
       "chaleur": 6,
       "liens": [
         {
@@ -785,7 +653,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.0,
       "chaleur": 6,
       "liens": [
         {
@@ -803,7 +671,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.5,
       "chaleur": 6,
       "liens": [
         {
@@ -821,7 +689,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.1,
       "chaleur": 6,
       "liens": [
         {
@@ -839,7 +707,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.0,
+      "heures": 12.0,
       "chaleur": 6,
       "liens": [
         {
@@ -857,37 +725,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gears-of-war-the-coalition-layoffs-next-game",
           "titre": "Gears of War boss says the next game won't take seven years to make as he dances around the question of layoffs"
-        }
-      ]
-    },
-    {
-      "id": "discord-protection-bot-double-counter-hit-by-breach-exposing",
-      "titre": "Discord protection bot Double Counter hit by breach exposing around 1 million email addresses",
-      "url": "https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses",
-      "sources": [
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 25.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses",
-          "titre": "Discord protection bot Double Counter hit by breach exposing around 1 million email addresses"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/hackers-steal-millions-of-discord-ids-and-email-address-in-deliberate-multi-stage-attack-on-security-service-double-counter",
-          "titre": "Hackers steal millions of Discord IDs and email addresses in \"deliberate, multi-stage attack\" on security service Double Counter"
         }
       ]
     },
@@ -899,7 +743,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 30.4,
+      "heures": 32.4,
       "chaleur": 6,
       "liens": [
         {
@@ -918,7 +762,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 32.3,
+      "heures": 34.3,
       "chaleur": 6,
       "liens": [
         {
@@ -941,7 +785,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.5,
+      "heures": 20.5,
       "chaleur": 5,
       "liens": [
         {
@@ -959,7 +803,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 22.0,
       "chaleur": 5,
       "liens": [
         {
@@ -977,13 +821,247 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.9,
+      "heures": 29.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/cities-skylines-is-building-an-expanded-edition-on-switch-2-this-month",
           "titre": "Cities: Skylines Is Building An 'Expanded Edition' On Switch 2 This Month"
+        }
+      ]
+    },
+    {
+      "id": "trump-administration-suspends-microsoft-s-ability-to-apply-f",
+      "titre": "Trump administration suspends Microsoft's ability to apply for green cards, alleging fraud",
+      "url": "https://www.gamedeveloper.com/business/trump-administration-suspends-microsoft-s-ability-to-apply-for-green-cards-alleging-fraud",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/trump-administration-suspends-microsoft-s-ability-to-apply-for-green-cards-alleging-fraud",
+          "titre": "Trump administration suspends Microsoft's ability to apply for green cards, alleging fraud"
+        }
+      ]
+    },
+    {
+      "id": "volatiles-takes-the-piece-by-piece-map-building-of-boardgame",
+      "titre": "Volatiles takes the piece-by-piece map building of boardgames like Betrayal at House on the Hill and slaps a gory survival shooter on top of them",
+      "url": "https://www.rockpapershotgun.com/volatiles-takes-the-piece-by-piece-map-building-of-boardgames-like-betrayal-at-house-on-the-hill-and-slaps-a-gory-survival-shooter-on-top-of-them",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/volatiles-takes-the-piece-by-piece-map-building-of-boardgames-like-betrayal-at-house-on-the-hill-and-slaps-a-gory-survival-shooter-on-top-of-them",
+          "titre": "Volatiles takes the piece-by-piece map building of boardgames like Betrayal at House on the Hill and slaps a gory survival shooter on top of them"
+        }
+      ]
+    },
+    {
+      "id": "a-great-indie-studio-is-making-a-sequel-to-one-of-my-favorit",
+      "titre": "A great indie studio is making a sequel to one of my favorite adventures 17 years later, for one simple reason: 'We're not getting any younger, and the world seems to be ending'",
+      "url": "https://www.pcgamer.com/games/adventure/a-great-indie-studio-is-making-a-sequel-to-one-of-my-favorite-adventures-17-years-later-for-one-simple-reason-were-not-getting-any-younger-and-the-world-seems-to-be-ending/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/adventure/a-great-indie-studio-is-making-a-sequel-to-one-of-my-favorite-adventures-17-years-later-for-one-simple-reason-were-not-getting-any-younger-and-the-world-seems-to-be-ending/",
+          "titre": "A great indie studio is making a sequel to one of my favorite adventures 17 years later, for one simple reason: 'We're not getting any younger, and the world seems to be ending'"
+        }
+      ]
+    },
+    {
+      "id": "clair-obscur-expedition-33-comes-to-astral-ascent-in-new-cro",
+      "titre": "Clair Obscur: Expedition 33 Comes To Astral Ascent In New Crossover Update",
+      "url": "https://www.nintendolife.com/news/2026/10/clair-obscur-expedition-33-comes-to-astral-ascent-in-new-crossover-update",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/clair-obscur-expedition-33-comes-to-astral-ascent-in-new-crossover-update",
+          "titre": "Clair Obscur: Expedition 33 Comes To Astral Ascent In New Crossover Update"
+        }
+      ]
+    },
+    {
+      "id": "prospice-anomalous-logistics-is-snowrunner-except-instead-of",
+      "titre": "Prospice: Anomalous Logistics is SnowRunner except instead of lengths of copper pipe, you're transporting the body parts of eldritch gods",
+      "url": "https://www.rockpapershotgun.com/prospice-anomalous-logistics-is-snowrunner-except-instead-of-lengths-of-copper-pipe-youre-transporting-the-body-parts-of-eldritch-gods",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/prospice-anomalous-logistics-is-snowrunner-except-instead-of-lengths-of-copper-pipe-youre-transporting-the-body-parts-of-eldritch-gods",
+          "titre": "Prospice: Anomalous Logistics is SnowRunner except instead of lengths of copper pipe, you're transporting the body parts of eldritch gods"
+        }
+      ]
+    },
+    {
+      "id": "mafia-3-definitive-edition-s-native-60fps-ps5-upgrade-is-out",
+      "titre": "Mafia 3: Definitive Edition's Native 60fps PS5 Upgrade Is Out Now, Free for Existing Owners",
+      "url": "https://www.pushsquare.com/news/2026/10/mafia-3-definitive-editions-native-60fps-ps5-upgrade-is-out-now-free-for-existing-owners",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/mafia-3-definitive-editions-native-60fps-ps5-upgrade-is-out-now-free-for-existing-owners",
+          "titre": "Mafia 3: Definitive Edition's Native 60fps PS5 Upgrade Is Out Now, Free for Existing Owners"
+        }
+      ]
+    },
+    {
+      "id": "it-s-clear-that-we-both-adore-one-another-s-games-a-lot-dav",
+      "titre": "\"It's clear that we both adore one another's games a lot\" - Dave the Diver and Subnautica 2 team up for a crossover made in heaven",
+      "url": "https://www.eurogamer.net/dave-the-diver-final-dlc-subnautica-2-crossover",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dave-the-diver-final-dlc-subnautica-2-crossover",
+          "titre": "\"It's clear that we both adore one another's games a lot\" - Dave the Diver and Subnautica 2 team up for a crossover made in heaven"
+        }
+      ]
+    },
+    {
+      "id": "lazare-s-sacrifice-is-a-narrative-deckbuilder-made-with-gwen",
+      "titre": "Lazare’s Sacrifice is a narrative deckbuilder made with Gwent's creator about avoiding the guillotine during the French Revolution",
+      "url": "https://www.rockpapershotgun.com/lazares-sacrifice-is-a-narrative-deckbuilder-made-with-gwents-creator-about-avoiding-the-guillotine-during-the-french-revolution",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/lazares-sacrifice-is-a-narrative-deckbuilder-made-with-gwents-creator-about-avoiding-the-guillotine-during-the-french-revolution",
+          "titre": "Lazare’s Sacrifice is a narrative deckbuilder made with Gwent's creator about avoiding the guillotine during the French Revolution"
+        }
+      ]
+    },
+    {
+      "id": "two-point-museum-s-cutest-collaboration-is-now-available-and",
+      "titre": "Two Point Museum's Cutest Collaboration Is Now Available, And It's Free",
+      "url": "https://www.nintendolife.com/news/2026/10/two-point-museums-cutest-collaboration-is-now-available-and-its-free",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/two-point-museums-cutest-collaboration-is-now-available-and-its-free",
+          "titre": "Two Point Museum's Cutest Collaboration Is Now Available, And It's Free"
+        }
+      ]
+    },
+    {
+      "id": "i-love-k-pop-but-this-new-ps5-game-ain-t-it",
+      "titre": "I Love K-Pop, But This New PS5 Game Ain't It",
+      "url": "https://www.pushsquare.com/news/2026/10/i-love-k-pop-but-this-new-ps5-game-aint-it",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/i-love-k-pop-but-this-new-ps5-game-aint-it",
+          "titre": "I Love K-Pop, But This New PS5 Game Ain't It"
+        }
+      ]
+    },
+    {
+      "id": "i-have-added-roving-bands-of-militant-furries-to-grand-theft",
+      "titre": "I have added roving bands of militant furries to Grand Theft Auto 5",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-added-roving-bands-of-militant-furries-to-grand-theft-auto-5/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-added-roving-bands-of-militant-furries-to-grand-theft-auto-5/",
+          "titre": "I have added roving bands of militant furries to Grand Theft Auto 5"
+        }
+      ]
+    },
+    {
+      "id": "amazon-is-roasting-users-with-their-own-shopping-habits-but",
+      "titre": "Amazon is roasting users with their own shopping habits, but it don't have nothin' on us",
+      "url": "https://www.pcgamer.com/hardware/amazon-is-roasting-users-with-their-own-shopping-habits-but-it-dont-have-nothin-on-us/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/amazon-is-roasting-users-with-their-own-shopping-habits-but-it-dont-have-nothin-on-us/",
+          "titre": "Amazon is roasting users with their own shopping habits, but it don't have nothin' on us"
+        }
+      ]
+    },
+    {
+      "id": "fatal-fury-ps5-s-ridiculous-dlc-run-continues-with-tekken-8",
+      "titre": "Fatal Fury PS5's Ridiculous DLC Run Continues with Tekken 8's Reina Teased",
+      "url": "https://www.pushsquare.com/news/2026/10/fatal-fury-ps5s-ridiculous-dlc-run-continues-with-tekken-8s-reina-teased",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/fatal-fury-ps5s-ridiculous-dlc-run-continues-with-tekken-8s-reina-teased",
+          "titre": "Fatal Fury PS5's Ridiculous DLC Run Continues with Tekken 8's Reina Teased"
         }
       ]
     },
@@ -995,7 +1073,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 6.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,7 +1091,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,7 +1109,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 7.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1049,7 +1127,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 7.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1067,31 +1145,13 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/denuvo-attempts-to-subpoena-discord-valve-and-reddit-in-effort-to-identify-hacker",
           "titre": "Denuvo attempts to subpoena Discord, Valve, and Reddit in effort to identify hacker"
-        }
-      ]
-    },
-    {
-      "id": "microsoft-seems-very-excited-about-its-new-magnetic-usb-type",
-      "titre": "Microsoft seems very excited about its new magnetic USB Type-C charger for the Surface Laptop Ultra, but it don't impress me much",
-      "url": "https://www.pcgamer.com/hardware/gaming-laptops/microsoft-seems-very-excited-about-its-new-magnetic-usb-type-c-charger-for-the-surface-laptop-ultra-but-it-dont-impress-me-much/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-laptops/microsoft-seems-very-excited-about-its-new-magnetic-usb-type-c-charger-for-the-surface-laptop-ultra-but-it-dont-impress-me-much/",
-          "titre": "Microsoft seems very excited about its new magnetic USB Type-C charger for the Surface Laptop Ultra, but it don't impress me much"
         }
       ]
     },
@@ -1103,67 +1163,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/pokemon-blind-bag-skateboard-decks-return-in-new-santa-cruz-collaboration",
           "titre": "Pokémon 'Blind Bag' Skateboard Decks Return In New Santa Cruz Collaboration"
-        }
-      ]
-    },
-    {
-      "id": "marvel-tokon-far-exceeds-expectations-in-us-sales-charts-ps5",
-      "titre": "Marvel Tokon Far Exceeds Expectations in US Sales Charts, PS5 Dollar Spend Up",
-      "url": "https://www.pushsquare.com/news/2026/10/marvel-tokon-far-exceeds-expectations-in-us-sales-charts-ps5-dollar-spend-up",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/marvel-tokon-far-exceeds-expectations-in-us-sales-charts-ps5-dollar-spend-up",
-          "titre": "Marvel Tokon Far Exceeds Expectations in US Sales Charts, PS5 Dollar Spend Up"
-        }
-      ]
-    },
-    {
-      "id": "i-m-intrigued-by-this-political-sim-that-puts-you-smack-dab",
-      "titre": "I'm intrigued by this political sim that puts you smack-dab in Germany at the end of World War 1",
-      "url": "https://www.pcgamer.com/games/sim/im-intrigued-by-this-political-sim-that-puts-you-smack-dab-in-germany-at-the-end-of-world-war-1/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/im-intrigued-by-this-political-sim-that-puts-you-smack-dab-in-germany-at-the-end-of-world-war-1/",
-          "titre": "I'm intrigued by this political sim that puts you smack-dab in Germany at the end of World War 1"
-        }
-      ]
-    },
-    {
-      "id": "japanese-charts-xenoblade-chronicles-2-scrapes-into-the-top",
-      "titre": "Japanese Charts: Xenoblade Chronicles 2 Scrapes Into The Top 10 With 5,000+ Sales",
-      "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-xenoblade-chronicles-2-scrapes-into-the-top-10-with-5000plus-sales",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 6.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-xenoblade-chronicles-2-scrapes-into-the-top-10-with-5000plus-sales",
-          "titre": "Japanese Charts: Xenoblade Chronicles 2 Scrapes Into The Top 10 With 5,000+ Sales"
         }
       ]
     }
