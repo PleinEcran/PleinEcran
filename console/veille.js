@@ -1,33 +1,27 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "09/10/2026 à 20h21",
+  "collecte": "09/10/2026 à 22h22",
   "seuil": 14,
   "sujets": [
     {
-      "id": "paramount-pictures-adapting-live-action-movie-set-in-cyberpu",
-      "titre": "Paramount Pictures adapting live-action movie set in Cyberpunk 2077 universe, co-produced by CD Projekt Red",
-      "url": "https://www.gamesindustry.biz/paramount-pictures-adapting-live-action-movie-set-in-cyberpunk-2077-universe-co-produced-by-cd-projekt-red",
+      "id": "cyberpunk-2077-is-being-made-into-a-movie-even-though-we-ve",
+      "titre": "Cyberpunk 2077 is being made into a movie, even though we've already got the perfect cyberpunk movie starring Keanu Reeves as a guy named Johnny",
+      "url": "https://www.pcgamer.com/movies-tv/cyberpunk-2077-is-being-made-into-a-movie-even-though-weve-already-got-the-perfect-cyberpunk-movie-starring-keanu-reeves-as-a-guy-named-johnny/",
       "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz",
         "Nintendo Life",
+        "PC Gamer",
         "Push Square",
         "Rock Paper Shotgun",
         "VGC"
       ],
-      "reprises": 6,
-      "heures": 7.5,
-      "chaleur": 21,
+      "reprises": 5,
+      "heures": 0.5,
+      "chaleur": 18,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/paramount-pictures-adapting-live-action-movie-set-in-cyberpunk-2077-universe-co-produced-by-cd-projekt-red",
-          "titre": "Paramount Pictures adapting live-action movie set in Cyberpunk 2077 universe, co-produced by CD Projekt Red"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/cyberpunk-2077-live-action-film-paramount-cd-projekt-red",
-          "titre": "Live-action Cyberpunk 2077 film reportedly in development, with CD Projekt Red collaborating with Paramount to make it"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/cyberpunk-2077-is-being-made-into-a-movie-even-though-weve-already-got-the-perfect-cyberpunk-movie-starring-keanu-reeves-as-a-guy-named-johnny/",
+          "titre": "Cyberpunk 2077 is being made into a movie, even though we've already got the perfect cyberpunk movie starring Keanu Reeves as a guy named Johnny"
         },
         {
           "source": "Nintendo Life",
@@ -52,36 +46,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after",
-      "titre": "Ubisoft to sunset Rainbow Six Mobile just seven months after launch",
-      "url": "https://www.gamedeveloper.com/mobile/ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after-launch",
-      "sources": [
-        "Game Developer",
-        "GamesIndustry.biz",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 3.3,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/mobile/ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after-launch",
-          "titre": "Ubisoft to sunset Rainbow Six Mobile just seven months after launch"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/ubisoft-is-shutting-down-rainbow-six-mobile-dev-team-releases-message/",
-          "titre": "Ubisoft is shutting down Rainbow Six Mobile, dev team releases message"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/ubisoft-announces-shutdown-of-rainbow-six-mobile-seven-months-after-global-launch",
-          "titre": "Ubisoft announces shutdown of Rainbow Six Mobile seven months after global launch"
-        }
-      ]
-    },
-    {
       "id": "it-s-official-forza-horizon-6-delayed-to-2027-on-ps5-and-the",
       "titre": "It's official: Forza Horizon 6 delayed to 2027 on PS5, and the game's first expansion has been announced",
       "url": "https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay",
@@ -91,7 +55,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 5.7,
+      "heures": 7.7,
       "chaleur": 12,
       "liens": [
         {
@@ -112,20 +76,32 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gears-of-war-e-day-reportedly-courts-over-1-7m-xbox-game-pas",
-      "titre": "Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch",
-      "url": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players",
+      "id": "ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after",
+      "titre": "Ubisoft to sunset Rainbow Six Mobile just seven months after launch",
+      "url": "https://www.gamedeveloper.com/mobile/ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after-launch",
       "sources": [
-        "Eurogamer"
+        "Game Developer",
+        "GamesIndustry.biz",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 2.3,
+      "reprises": 3,
+      "heures": 5.3,
       "chaleur": 10,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players",
-          "titre": "Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/mobile/ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after-launch",
+          "titre": "Ubisoft to sunset Rainbow Six Mobile just seven months after launch"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-is-shutting-down-rainbow-six-mobile-dev-team-releases-message/",
+          "titre": "Ubisoft is shutting down Rainbow Six Mobile, dev team releases message"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/ubisoft-announces-shutdown-of-rainbow-six-mobile-seven-months-after-global-launch",
+          "titre": "Ubisoft announces shutdown of Rainbow Six Mobile seven months after global launch"
         }
       ]
     },
@@ -137,13 +113,55 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
           "titre": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\""
+        }
+      ]
+    },
+    {
+      "id": "paramount-pictures-adapting-live-action-movie-set-in-cyberpu",
+      "titre": "Paramount Pictures adapting live-action movie set in Cyberpunk 2077 universe, co-produced by CD Projekt Red",
+      "url": "https://www.gamesindustry.biz/paramount-pictures-adapting-live-action-movie-set-in-cyberpunk-2077-universe-co-produced-by-cd-projekt-red",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 9.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/paramount-pictures-adapting-live-action-movie-set-in-cyberpunk-2077-universe-co-produced-by-cd-projekt-red",
+          "titre": "Paramount Pictures adapting live-action movie set in Cyberpunk 2077 universe, co-produced by CD Projekt Red"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/cyberpunk-2077-live-action-film-paramount-cd-projekt-red",
+          "titre": "Live-action Cyberpunk 2077 film reportedly in development, with CD Projekt Red collaborating with Paramount to make it"
+        }
+      ]
+    },
+    {
+      "id": "gears-of-war-e-day-reportedly-courts-over-1-7m-xbox-game-pas",
+      "titre": "Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch",
+      "url": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players",
+          "titre": "Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch"
         }
       ]
     },
@@ -156,8 +174,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 2.0,
-      "chaleur": 9,
+      "heures": 4.0,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -179,8 +197,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 9,
+      "heures": 5.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -197,49 +215,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 9,
+      "heures": 5.7,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/rockstar-employment-tribunal-hr-manager-little-interest-union",
           "titre": "Rockstar HR manager claims he had \"little interest\" in staff's union membership status as fired GTA dev union-busting trial heats up"
-        }
-      ]
-    },
-    {
-      "id": "countdown-zelda-ocarina-of-time-dungeon-crawl-4-still-an-all",
-      "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #4 - Still An All-Timer",
-      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-4-still-an-all-timer",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-4-still-an-all-timer",
-          "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #4 - Still An All-Timer"
-        }
-      ]
-    },
-    {
-      "id": "podcast-playstation-is-bringing-back-old-franchises-but-whic",
-      "titre": "Podcast: PlayStation is bringing back old franchises, but which ones do we want most?",
-      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-playstation-is-bringing-back-old-franchises-but-which-ones-do-we-want-most/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-playstation-is-bringing-back-old-franchises-but-which-ones-do-we-want-most/",
-          "titre": "Podcast: PlayStation is bringing back old franchises, but which ones do we want most?"
         }
       ]
     },
@@ -251,7 +233,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.1,
       "chaleur": 7,
       "liens": [
         {
@@ -269,7 +251,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 7,
       "liens": [
         {
@@ -288,7 +270,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 7,
       "liens": [
         {
@@ -311,7 +293,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 7,
       "liens": [
         {
@@ -330,7 +312,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.0,
+      "heures": 9.0,
       "chaleur": 7,
       "liens": [
         {
@@ -354,7 +336,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 7.9,
+      "heures": 9.9,
       "chaleur": 7,
       "liens": [
         {
@@ -413,7 +395,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
@@ -431,7 +413,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -449,7 +431,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -460,92 +442,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "as-its-developer-recovers-star-wars-zero-company-reaches-one",
-      "titre": "As Its Developer Recovers, Star Wars Zero Company Reaches One Million Copies Sold",
-      "url": "https://www.pushsquare.com/news/2026/10/as-its-developer-recovers-star-wars-zero-company-reaches-one-million-copies-sold",
+      "id": "countdown-zelda-ocarina-of-time-dungeon-crawl-4-still-an-all",
+      "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #4 - Still An All-Timer",
+      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-4-still-an-all-timer",
       "sources": [
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.6,
+      "heures": 5.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/as-its-developer-recovers-star-wars-zero-company-reaches-one-million-copies-sold",
-          "titre": "As Its Developer Recovers, Star Wars Zero Company Reaches One Million Copies Sold"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-4-still-an-all-timer",
+          "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #4 - Still An All-Timer"
         }
       ]
     },
     {
-      "id": "it-s-not-in-the-top-five-reference-points-afterworld-isn-t",
-      "titre": "\"It's not in the top five reference points\": Afterworld isn't just a Fallout grand strategy game, say Paradox, it owes a lot more to the Bronze Age",
-      "url": "https://www.rockpapershotgun.com/its-not-in-the-top-five-reference-points-afterworld-isnt-just-a-fallout-grand-strategy-game-says-paradox-it-owes-a-lot-more-to-the-bronze-age",
+      "id": "podcast-playstation-is-bringing-back-old-franchises-but-whic",
+      "titre": "Podcast: PlayStation is bringing back old franchises, but which ones do we want most?",
+      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-playstation-is-bringing-back-old-franchises-but-which-ones-do-we-want-most/",
       "sources": [
-        "Rock Paper Shotgun"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 3.1,
+      "heures": 5.5,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/its-not-in-the-top-five-reference-points-afterworld-isnt-just-a-fallout-grand-strategy-game-says-paradox-it-owes-a-lot-more-to-the-bronze-age",
-          "titre": "\"It's not in the top five reference points\": Afterworld isn't just a Fallout grand strategy game, say Paradox, it owes a lot more to the Bronze Age"
-        }
-      ]
-    },
-    {
-      "id": "embrace-your-jobbing-musician-soul-with-a-new-cyberpunk-2077",
-      "titre": "Embrace your jobbing musician soul with a new Cyberpunk 2077 quest mod that comes with the option of playing all the wrong chords for Master of Puppets",
-      "url": "https://www.rockpapershotgun.com/embrace-your-jobbing-musician-soul-with-a-new-cyberpunk-2077-quest-mod-that-comes-with-the-option-of-playing-all-the-wrong-chords-for-master-of-puppets",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/embrace-your-jobbing-musician-soul-with-a-new-cyberpunk-2077-quest-mod-that-comes-with-the-option-of-playing-all-the-wrong-chords-for-master-of-puppets",
-          "titre": "Embrace your jobbing musician soul with a new Cyberpunk 2077 quest mod that comes with the option of playing all the wrong chords for Master of Puppets"
-        }
-      ]
-    },
-    {
-      "id": "crazy-taxi-world-tour-takes-you-to-brazil-as-another-locatio",
-      "titre": "Crazy Taxi: World Tour Takes You to Brazil as Another Location Is Revealed",
-      "url": "https://www.pushsquare.com/news/2026/10/crazy-taxi-world-tour-takes-you-to-brazil-as-another-location-is-revealed",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/crazy-taxi-world-tour-takes-you-to-brazil-as-another-location-is-revealed",
-          "titre": "Crazy Taxi: World Tour Takes You to Brazil as Another Location Is Revealed"
-        }
-      ]
-    },
-    {
-      "id": "wardogs-will-bribe-players-with-cash-and-xp-to-pick-blue-tea",
-      "titre": "Wardogs will bribe players with cash and XP to pick Blue team in Season 2",
-      "url": "https://www.pcgamer.com/games/fps/wardogs-will-bribe-players-with-cash-and-xp-to-pick-blue-team-in-season-2/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/wardogs-will-bribe-players-with-cash-and-xp-to-pick-blue-team-in-season-2/",
-          "titre": "Wardogs will bribe players with cash and XP to pick Blue team in Season 2"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-playstation-is-bringing-back-old-franchises-but-which-ones-do-we-want-most/",
+          "titre": "Podcast: PlayStation is bringing back old franchises, but which ones do we want most?"
         }
       ]
     },
@@ -557,7 +485,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 6,
       "liens": [
         {
@@ -575,7 +503,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 6,
       "liens": [
         {
@@ -593,7 +521,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.1,
       "chaleur": 6,
       "liens": [
         {
@@ -611,7 +539,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 6,
       "liens": [
         {
@@ -629,7 +557,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.6,
       "chaleur": 6,
       "liens": [
         {
@@ -647,7 +575,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.6,
       "chaleur": 6,
       "liens": [
         {
@@ -665,7 +593,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
@@ -683,7 +611,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 19.9,
       "chaleur": 6,
       "liens": [
         {
@@ -701,7 +629,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.9,
       "chaleur": 5,
       "liens": [
         {
@@ -719,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 21.6,
       "chaleur": 5,
       "liens": [
         {
@@ -737,7 +665,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 26.9,
+      "heures": 28.9,
       "chaleur": 5,
       "liens": [
         {
@@ -755,13 +683,103 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 32.0,
+      "heures": 34.1,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/xbox-announces-new-xp-division-to-deliver-transmedia-spinoffs-including-film-tv-and-theme-parks",
           "titre": "Xbox announces new XP division to deliver transmedia spinoffs including film, TV, and theme parks"
+        }
+      ]
+    },
+    {
+      "id": "as-its-developer-recovers-star-wars-zero-company-reaches-one",
+      "titre": "As Its Developer Recovers, Star Wars Zero Company Reaches One Million Copies Sold",
+      "url": "https://www.pushsquare.com/news/2026/10/as-its-developer-recovers-star-wars-zero-company-reaches-one-million-copies-sold",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/as-its-developer-recovers-star-wars-zero-company-reaches-one-million-copies-sold",
+          "titre": "As Its Developer Recovers, Star Wars Zero Company Reaches One Million Copies Sold"
+        }
+      ]
+    },
+    {
+      "id": "it-s-not-in-the-top-five-reference-points-afterworld-isn-t",
+      "titre": "\"It's not in the top five reference points\": Afterworld isn't just a Fallout grand strategy game, say Paradox, it owes a lot more to the Bronze Age",
+      "url": "https://www.rockpapershotgun.com/its-not-in-the-top-five-reference-points-afterworld-isnt-just-a-fallout-grand-strategy-game-says-paradox-it-owes-a-lot-more-to-the-bronze-age",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/its-not-in-the-top-five-reference-points-afterworld-isnt-just-a-fallout-grand-strategy-game-says-paradox-it-owes-a-lot-more-to-the-bronze-age",
+          "titre": "\"It's not in the top five reference points\": Afterworld isn't just a Fallout grand strategy game, say Paradox, it owes a lot more to the Bronze Age"
+        }
+      ]
+    },
+    {
+      "id": "embrace-your-jobbing-musician-soul-with-a-new-cyberpunk-2077",
+      "titre": "Embrace your jobbing musician soul with a new Cyberpunk 2077 quest mod that comes with the option of playing all the wrong chords for Master of Puppets",
+      "url": "https://www.rockpapershotgun.com/embrace-your-jobbing-musician-soul-with-a-new-cyberpunk-2077-quest-mod-that-comes-with-the-option-of-playing-all-the-wrong-chords-for-master-of-puppets",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/embrace-your-jobbing-musician-soul-with-a-new-cyberpunk-2077-quest-mod-that-comes-with-the-option-of-playing-all-the-wrong-chords-for-master-of-puppets",
+          "titre": "Embrace your jobbing musician soul with a new Cyberpunk 2077 quest mod that comes with the option of playing all the wrong chords for Master of Puppets"
+        }
+      ]
+    },
+    {
+      "id": "crazy-taxi-world-tour-takes-you-to-brazil-as-another-locatio",
+      "titre": "Crazy Taxi: World Tour Takes You to Brazil as Another Location Is Revealed",
+      "url": "https://www.pushsquare.com/news/2026/10/crazy-taxi-world-tour-takes-you-to-brazil-as-another-location-is-revealed",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/crazy-taxi-world-tour-takes-you-to-brazil-as-another-location-is-revealed",
+          "titre": "Crazy Taxi: World Tour Takes You to Brazil as Another Location Is Revealed"
+        }
+      ]
+    },
+    {
+      "id": "wardogs-will-bribe-players-with-cash-and-xp-to-pick-blue-tea",
+      "titre": "Wardogs will bribe players with cash and XP to pick Blue team in Season 2",
+      "url": "https://www.pcgamer.com/games/fps/wardogs-will-bribe-players-with-cash-and-xp-to-pick-blue-team-in-season-2/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/wardogs-will-bribe-players-with-cash-and-xp-to-pick-blue-team-in-season-2/",
+          "titre": "Wardogs will bribe players with cash and XP to pick Blue team in Season 2"
         }
       ]
     },
@@ -773,7 +791,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -791,7 +809,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -809,7 +827,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.7,
       "chaleur": 4,
       "liens": [
         {
@@ -827,7 +845,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +863,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -863,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +899,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +917,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +935,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +953,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +971,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +989,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +1007,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +1025,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1025,7 +1043,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,7 +1061,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,7 +1079,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1079,31 +1097,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/ea-sports-fc-27-review",
           "titre": "EA Sports FC 27 review"
-        }
-      ]
-    },
-    {
-      "id": "new-razer-basilisk-v4-executes-perfect-180-degree-turns-at-t",
-      "titre": "New Razer Basilisk V4 executes perfect 180 degree turns at the click of a button, all while looking like a Power Ranger's foot",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/new-razer-basilisk-v4-executes-perfect-180-degree-turns-at-the-click-of-a-button-all-while-looking-like-a-power-rangers-foot/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-mice/new-razer-basilisk-v4-executes-perfect-180-degree-turns-at-the-click-of-a-button-all-while-looking-like-a-power-rangers-foot/",
-          "titre": "New Razer Basilisk V4 executes perfect 180 degree turns at the click of a button, all while looking like a Power Ranger's foot"
         }
       ]
     },
@@ -1115,7 +1115,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1133,7 +1133,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1151,7 +1151,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1162,5 +1162,7 @@ const VEILLE = {
       ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Cyberpunk 2077 is being made into a movie, even though we've already got the perfect cyberpunk movie starring Keanu Reeves as a guy named Johnny"
+  ]
 };
