@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "09/10/2026 à 16h23",
+  "collecte": "09/10/2026 à 18h25",
   "seuil": 14,
   "sujets": [
     {
@@ -16,8 +16,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 6,
-      "heures": 3.5,
-      "chaleur": 23,
+      "heures": 5.5,
+      "chaleur": 21,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -62,7 +62,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 17,
       "liens": [
         {
@@ -88,32 +88,110 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ace-combat-8-becomes-fastest-selling-game-in-the-series-and",
-      "titre": "Ace Combat 8 becomes fastest-selling game in the series, and very nearly the highest rated",
-      "url": "https://www.eurogamer.net/ace-combat-8-sales",
+      "id": "ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after",
+      "titre": "Ubisoft to sunset Rainbow Six Mobile just seven months after launch",
+      "url": "https://www.gamedeveloper.com/mobile/ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after-launch",
       "sources": [
-        "Eurogamer",
-        "Push Square",
+        "Game Developer",
+        "GamesIndustry.biz",
         "VGC"
       ],
       "reprises": 3,
-      "heures": 3.0,
+      "heures": 1.3,
       "chaleur": 12,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ace-combat-8-sales",
-          "titre": "Ace Combat 8 becomes fastest-selling game in the series, and very nearly the highest rated"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/mobile/ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after-launch",
+          "titre": "Ubisoft to sunset Rainbow Six Mobile just seven months after launch"
         },
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/ace-combat-8-is-the-fastest-selling-entry-in-the-series-after-hitting-1-million-sales/",
-          "titre": "Ace Combat 8 is the fastest selling entry in the series after hitting 1 million sales"
+          "url": "https://www.videogameschronicle.com/news/ubisoft-is-shutting-down-rainbow-six-mobile-dev-team-releases-message/",
+          "titre": "Ubisoft is shutting down Rainbow Six Mobile, dev team releases message"
         },
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ace-combat-8-has-sold-one-million-copies-faster-than-any-previous-entry-in-the-series",
-          "titre": "Ace Combat 8 Has Sold One Million Copies Faster Than Any Previous Entry in the Series"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/ubisoft-announces-shutdown-of-rainbow-six-mobile-seven-months-after-global-launch",
+          "titre": "Ubisoft announces shutdown of Rainbow Six Mobile seven months after global launch"
+        }
+      ]
+    },
+    {
+      "id": "gears-of-war-e-day-reportedly-courts-over-1-7m-xbox-game-pas",
+      "titre": "Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch",
+      "url": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players",
+          "titre": "Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch"
+        }
+      ]
+    },
+    {
+      "id": "leisure-suit-larry-is-about-to-take-his-final-bow",
+      "titre": "Leisure Suit Larry is about to take his final bow",
+      "url": "https://www.pcgamer.com/games/adventure/leisure-suit-larry-is-about-to-take-his-final-bow/",
+      "sources": [
+        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/adventure/leisure-suit-larry-is-about-to-take-his-final-bow/",
+          "titre": "Leisure Suit Larry is about to take his final bow"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/after-the-first-seven-leisure-suit-larry-games-were-delisted-last-year-the-last-two-are-joining-them/",
+          "titre": "After the first seven Leisure Suit Larry games were delisted last year, the last two are joining them"
+        }
+      ]
+    },
+    {
+      "id": "i-might-finally-have-gone-too-far-with-a-gta-5-mod-that-impo",
+      "titre": "I might finally have gone too far with a GTA 5 mod that imports most of Doom 2",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-might-finally-have-gone-too-far-with-a-gta-5-mod-that-imports-most-of-doom-2/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-might-finally-have-gone-too-far-with-a-gta-5-mod-that-imports-most-of-doom-2/",
+          "titre": "I might finally have gone too far with a GTA 5 mod that imports most of Doom 2"
+        }
+      ]
+    },
+    {
+      "id": "rockstar-hr-manager-claims-he-had-little-interest-in-staff-s",
+      "titre": "Rockstar HR manager claims he had \"little interest\" in staff's union membership status as fired GTA dev union-busting trial heats up",
+      "url": "https://www.eurogamer.net/rockstar-employment-tribunal-hr-manager-little-interest-union",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/rockstar-employment-tribunal-hr-manager-little-interest-union",
+          "titre": "Rockstar HR manager claims he had \"little interest\" in staff's union membership status as fired GTA dev union-busting trial heats up"
         }
       ]
     },
@@ -125,7 +203,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.2,
       "chaleur": 9,
       "liens": [
         {
@@ -143,13 +221,163 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/counter-strike-2-player-dedicates-masters-thesis-to-rooting-out-cheaters-creates-grade-a-player-tracking-system/",
           "titre": "Counter-Strike 2 player dedicates Master's thesis to rooting out cheaters, creates grade A player tracking system"
+        }
+      ]
+    },
+    {
+      "id": "countdown-zelda-ocarina-of-time-dungeon-crawl-4-still-an-all",
+      "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #4 - Still An All-Timer",
+      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-4-still-an-all-timer",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-4-still-an-all-timer",
+          "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #4 - Still An All-Timer"
+        }
+      ]
+    },
+    {
+      "id": "podcast-playstation-is-bringing-back-old-franchises-but-whic",
+      "titre": "Podcast: PlayStation is bringing back old franchises, but which ones do we want most?",
+      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-playstation-is-bringing-back-old-franchises-but-which-ones-do-we-want-most/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-playstation-is-bringing-back-old-franchises-but-which-ones-do-we-want-most/",
+          "titre": "Podcast: PlayStation is bringing back old franchises, but which ones do we want most?"
+        }
+      ]
+    },
+    {
+      "id": "it-takes-two-hops-onto-switch-2-next-week-marrying-visual-u",
+      "titre": "'It Takes Two' Hops Onto Switch 2 Next Week, Marrying Visual Upgrades & Cross-Play",
+      "url": "https://www.nintendolife.com/news/2026/10/it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-and-cross-play",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-and-cross-play",
+          "titre": "'It Takes Two' Hops Onto Switch 2 Next Week, Marrying Visual Upgrades & Cross-Play"
+        }
+      ]
+    },
+    {
+      "id": "valve-is-telling-devs-how-well-their-games-actually-run-on-s",
+      "titre": "Valve is telling devs how well their games actually run on Steam Deck with real world data",
+      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-is-telling-devs-how-well-their-games-actually-run-on-steam-deck-with-real-world-data/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-is-telling-devs-how-well-their-games-actually-run-on-steam-deck-with-real-world-data/",
+          "titre": "Valve is telling devs how well their games actually run on Steam Deck with real world data"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-download-8th-october-north-america-plus-3-discounte",
+      "titre": "Nintendo Download: 8th October (North America) - Plus 3 Discounted Games That Should Be On Your Radar",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-8th-october-north-america-plus-3-discounted-games-that-should-be-on-your-radar",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-8th-october-north-america-plus-3-discounted-games-that-should-be-on-your-radar",
+          "titre": "Nintendo Download: 8th October (North America) - Plus 3 Discounted Games That Should Be On Your Radar"
+        }
+      ]
+    },
+    {
+      "id": "community-played-a-top-switch-game-we-missed-send-us-your-re",
+      "titre": "Community: Played A Top Switch Game We Missed? Send Us Your Recommendations",
+      "url": "https://www.nintendolife.com/features/community-played-a-top-switch-game-we-missed-send-us-your-recommendations",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/community-played-a-top-switch-game-we-missed-send-us-your-recommendations",
+          "titre": "Community: Played A Top Switch Game We Missed? Send Us Your Recommendations"
+        }
+      ]
+    },
+    {
+      "id": "report-double-fine-s-union-drive-collapsed-due-to-miscommuni",
+      "titre": "Report: Double Fine's union drive collapsed due to miscommunication and culture clash",
+      "url": "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 3.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash",
+          "titre": "Report: Double Fine's union drive collapsed due to miscommunication and culture clash"
+        }
+      ]
+    },
+    {
+      "id": "witcher-3-remastered-switch-2-update-to-improve-image-clarit",
+      "titre": "Witcher 3 Remastered Switch 2 Update To Improve \"Image Clarity And Sharpness\"",
+      "url": "https://www.nintendolife.com/news/2026/10/witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 17.7,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness",
+          "titre": "Witcher 3 Remastered Switch 2 Update To Improve \"Image Clarity And Sharpness\""
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/witcher-3-remastered-patch-bloom-console-performance-switch-2",
+          "titre": "Witcher 3 Remastered patch rolls out on PC and console, with separate Switch 2 patch earmarked to address blurry visuals"
         }
       ]
     },
@@ -162,8 +390,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 2.4,
-      "chaleur": 9,
+      "heures": 4.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -185,8 +413,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 9,
+      "heures": 4.5,
+      "chaleur": 7,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -196,26 +424,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "wolverine-ps5-sales-estimates-are-somewhat-soft-but-here-s-w",
-      "titre": "Wolverine PS5 Sales Estimates Are Somewhat Soft, But Here's Why I'm Not Worried",
-      "url": "https://www.pushsquare.com/news/2026/10/wolverine-ps5-sales-estimates-are-somewhat-soft-but-heres-why-im-not-worried",
+      "id": "ace-combat-8-becomes-fastest-selling-game-in-the-series-and",
+      "titre": "Ace Combat 8 becomes fastest-selling game in the series, and very nearly the highest rated",
+      "url": "https://www.eurogamer.net/ace-combat-8-sales",
       "sources": [
-        "Push Square",
+        "Eurogamer",
         "VGC"
       ],
       "reprises": 2,
-      "heures": 2.9,
-      "chaleur": 9,
+      "heures": 5.1,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/wolverine-ps5-sales-estimates-are-somewhat-soft-but-heres-why-im-not-worried",
-          "titre": "Wolverine PS5 Sales Estimates Are Somewhat Soft, But Here's Why I'm Not Worried"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ace-combat-8-sales",
+          "titre": "Ace Combat 8 becomes fastest-selling game in the series, and very nearly the highest rated"
         },
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/35-of-sonys-wolverine-launch-sales-were-the-disc-version-data-suggests/",
-          "titre": "35% of Sony’s Wolverine launch sales were the disc version, data suggests"
+          "url": "https://www.videogameschronicle.com/news/ace-combat-8-is-the-fastest-selling-entry-in-the-series-after-hitting-1-million-sales/",
+          "titre": "Ace Combat 8 is the fastest selling entry in the series after hitting 1 million sales"
         }
       ]
     },
@@ -228,8 +456,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 3.9,
-      "chaleur": 9,
+      "heures": 5.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -240,186 +468,6 @@ const VEILLE = {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/dave-the-diver-is-wrapping-up-its-dlc-plans-with-an-aquatically-appropriate-subnautica-2-collab",
           "titre": "Dave the Diver is wrapping up its DLC plans with an aquatically appropriate Subnautica 2 collab"
-        }
-      ]
-    },
-    {
-      "id": "rockstar-hunted-gta-6-leaker-seemingly-strikes-again-showing",
-      "titre": "Rockstar-hunted GTA 6 leaker seemingly strikes again, showing off series' most plentiful helping of onscreen johnson since San Andreas starred Carl",
-      "url": "https://www.rockpapershotgun.com/rockstar-hunted-gta-6-leaker-seemingly-strikes-again-showing-off-series-most-plentiful-helping-of-onscreen-johnson-since-san-andreas-starred-carl",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 25.1,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/rockstar-hunted-gta-6-leaker-seemingly-strikes-again-showing-off-series-most-plentiful-helping-of-onscreen-johnson-since-san-andreas-starred-carl",
-          "titre": "Rockstar-hunted GTA 6 leaker seemingly strikes again, showing off series' most plentiful helping of onscreen johnson since San Andreas starred Carl"
-        }
-      ]
-    },
-    {
-      "id": "for-the-first-time-in-the-series-grand-theft-auto-6-lets-you",
-      "titre": "For the first time in the series, Grand Theft Auto 6 lets you use headphones to listen to radio stations and podcasts",
-      "url": "https://www.eurogamer.net/gta-6-headpones-earbuds-radio-podcasts",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 25.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-headpones-earbuds-radio-podcasts",
-          "titre": "For the first time in the series, Grand Theft Auto 6 lets you use headphones to listen to radio stations and podcasts"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/rockstar-reveals-some-of-gta-6s-radio-stations-says-players-can-now-listen-to-the-radio-and-podcasts-on-foot/",
-          "titre": "Rockstar reveals some of GTA 6’s radio stations, says players can now listen to the radio and podcasts on foot"
-        }
-      ]
-    },
-    {
-      "id": "it-takes-two-hops-onto-switch-2-next-week-marrying-visual-u",
-      "titre": "'It Takes Two' Hops Onto Switch 2 Next Week, Marrying Visual Upgrades & Cross-Play",
-      "url": "https://www.nintendolife.com/news/2026/10/it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-and-cross-play",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 0.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-and-cross-play",
-          "titre": "'It Takes Two' Hops Onto Switch 2 Next Week, Marrying Visual Upgrades & Cross-Play"
-        }
-      ]
-    },
-    {
-      "id": "valve-is-telling-devs-how-well-their-games-actually-run-on-s",
-      "titre": "Valve is telling devs how well their games actually run on Steam Deck with real world data",
-      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-is-telling-devs-how-well-their-games-actually-run-on-steam-deck-with-real-world-data/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-is-telling-devs-how-well-their-games-actually-run-on-steam-deck-with-real-world-data/",
-          "titre": "Valve is telling devs how well their games actually run on Steam Deck with real world data"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-download-8th-october-north-america-plus-3-discounte",
-      "titre": "Nintendo Download: 8th October (North America) - Plus 3 Discounted Games That Should Be On Your Radar",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-8th-october-north-america-plus-3-discounted-games-that-should-be-on-your-radar",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-8th-october-north-america-plus-3-discounted-games-that-should-be-on-your-radar",
-          "titre": "Nintendo Download: 8th October (North America) - Plus 3 Discounted Games That Should Be On Your Radar"
-        }
-      ]
-    },
-    {
-      "id": "community-played-a-top-switch-game-we-missed-send-us-your-re",
-      "titre": "Community: Played A Top Switch Game We Missed? Send Us Your Recommendations",
-      "url": "https://www.nintendolife.com/features/community-played-a-top-switch-game-we-missed-send-us-your-recommendations",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/community-played-a-top-switch-game-we-missed-send-us-your-recommendations",
-          "titre": "Community: Played A Top Switch Game We Missed? Send Us Your Recommendations"
-        }
-      ]
-    },
-    {
-      "id": "report-double-fine-s-union-drive-collapsed-due-to-miscommuni",
-      "titre": "Report: Double Fine's union drive collapsed due to miscommunication and culture clash",
-      "url": "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 1.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash",
-          "titre": "Report: Double Fine's union drive collapsed due to miscommunication and culture clash"
-        }
-      ]
-    },
-    {
-      "id": "witcher-3-remastered-switch-2-update-to-improve-image-clarit",
-      "titre": "Witcher 3 Remastered Switch 2 Update To Improve \"Image Clarity And Sharpness\"",
-      "url": "https://www.nintendolife.com/news/2026/10/witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 15.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness",
-          "titre": "Witcher 3 Remastered Switch 2 Update To Improve \"Image Clarity And Sharpness\""
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-remastered-patch-bloom-console-performance-switch-2",
-          "titre": "Witcher 3 Remastered patch rolls out on PC and console, with separate Switch 2 patch earmarked to address blurry visuals"
-        }
-      ]
-    },
-    {
-      "id": "ubisoft-is-shutting-down-rainbow-six-mobile-dev-team-release",
-      "titre": "Ubisoft is shutting down Rainbow Six Mobile, dev team releases message",
-      "url": "https://www.videogameschronicle.com/news/ubisoft-is-shutting-down-rainbow-six-mobile-dev-team-releases-message/",
-      "sources": [
-        "GamesIndustry.biz",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 5.6,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/ubisoft-is-shutting-down-rainbow-six-mobile-dev-team-releases-message/",
-          "titre": "Ubisoft is shutting down Rainbow Six Mobile, dev team releases message"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/ubisoft-announces-shutdown-of-rainbow-six-mobile-seven-months-after-global-launch",
-          "titre": "Ubisoft announces shutdown of Rainbow Six Mobile seven months after global launch"
         }
       ]
     },
@@ -460,6 +508,114 @@ const VEILLE = {
       ]
     },
     {
+      "id": "as-its-developer-recovers-star-wars-zero-company-reaches-one",
+      "titre": "As Its Developer Recovers, Star Wars Zero Company Reaches One Million Copies Sold",
+      "url": "https://www.pushsquare.com/news/2026/10/as-its-developer-recovers-star-wars-zero-company-reaches-one-million-copies-sold",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/as-its-developer-recovers-star-wars-zero-company-reaches-one-million-copies-sold",
+          "titre": "As Its Developer Recovers, Star Wars Zero Company Reaches One Million Copies Sold"
+        }
+      ]
+    },
+    {
+      "id": "dd2-dark-arisen-flight-in-the-night-quest-guide-all-ilda-ite",
+      "titre": "DD2 Dark Arisen: Flight in the Night quest guide, all Ilda item locations",
+      "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-flight-in-the-night-quest-guide-all-ilda-item-locations/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-flight-in-the-night-quest-guide-all-ilda-item-locations/",
+          "titre": "DD2 Dark Arisen: Flight in the Night quest guide, all Ilda item locations"
+        }
+      ]
+    },
+    {
+      "id": "it-s-not-in-the-top-five-reference-points-afterworld-isn-t",
+      "titre": "\"It's not in the top five reference points\": Afterworld isn't just a Fallout grand strategy game, say Paradox, it owes a lot more to the Bronze Age",
+      "url": "https://www.rockpapershotgun.com/its-not-in-the-top-five-reference-points-afterworld-isnt-just-a-fallout-grand-strategy-game-says-paradox-it-owes-a-lot-more-to-the-bronze-age",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/its-not-in-the-top-five-reference-points-afterworld-isnt-just-a-fallout-grand-strategy-game-says-paradox-it-owes-a-lot-more-to-the-bronze-age",
+          "titre": "\"It's not in the top five reference points\": Afterworld isn't just a Fallout grand strategy game, say Paradox, it owes a lot more to the Bronze Age"
+        }
+      ]
+    },
+    {
+      "id": "embrace-your-jobbing-musician-soul-with-a-new-cyberpunk-2077",
+      "titre": "Embrace your jobbing musician soul with a new Cyberpunk 2077 quest mod that comes with the option of playing all the wrong chords for Master of Puppets",
+      "url": "https://www.rockpapershotgun.com/embrace-your-jobbing-musician-soul-with-a-new-cyberpunk-2077-quest-mod-that-comes-with-the-option-of-playing-all-the-wrong-chords-for-master-of-puppets",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/embrace-your-jobbing-musician-soul-with-a-new-cyberpunk-2077-quest-mod-that-comes-with-the-option-of-playing-all-the-wrong-chords-for-master-of-puppets",
+          "titre": "Embrace your jobbing musician soul with a new Cyberpunk 2077 quest mod that comes with the option of playing all the wrong chords for Master of Puppets"
+        }
+      ]
+    },
+    {
+      "id": "crazy-taxi-world-tour-takes-you-to-brazil-as-another-locatio",
+      "titre": "Crazy Taxi: World Tour Takes You to Brazil as Another Location Is Revealed",
+      "url": "https://www.pushsquare.com/news/2026/10/crazy-taxi-world-tour-takes-you-to-brazil-as-another-location-is-revealed",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/crazy-taxi-world-tour-takes-you-to-brazil-as-another-location-is-revealed",
+          "titre": "Crazy Taxi: World Tour Takes You to Brazil as Another Location Is Revealed"
+        }
+      ]
+    },
+    {
+      "id": "wardogs-will-bribe-players-with-cash-and-xp-to-pick-blue-tea",
+      "titre": "Wardogs will bribe players with cash and XP to pick Blue team in Season 2",
+      "url": "https://www.pcgamer.com/games/fps/wardogs-will-bribe-players-with-cash-and-xp-to-pick-blue-team-in-season-2/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/wardogs-will-bribe-players-with-cash-and-xp-to-pick-blue-team-in-season-2/",
+          "titre": "Wardogs will bribe players with cash and XP to pick Blue team in Season 2"
+        }
+      ]
+    },
+    {
       "id": "wardogs-season-2-deepens-the-sandbox-shooter-s-capitalist-he",
       "titre": "Wardogs season 2 deepens the sandbox shooter's capitalist hell by letting you bet cash on your own performance",
       "url": "https://www.rockpapershotgun.com/wardogs-season-2-deepens-the-sandbox-shooters-capitalist-hell-by-letting-you-bet-cash-on-your-own-performance",
@@ -467,7 +623,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -485,7 +641,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -503,7 +659,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -521,7 +677,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -539,7 +695,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -557,7 +713,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -575,7 +731,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -593,7 +749,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -611,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -629,7 +785,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -647,139 +803,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/ghost-of-yotei-gets-more-complete-with-ps5-patch-fixing-bugs-and-black-screens",
           "titre": "Ghost of Yotei Gets More Complete with PS5 Patch Fixing Bugs and Black Screens"
-        }
-      ]
-    },
-    {
-      "id": "the-galaxies-showcase-returns-next-week-here-s-how-to-watch",
-      "titre": "The Galaxies Showcase returns next week: here's how to watch it and what to expect",
-      "url": "https://www.eurogamer.net/galaxies-showcase-2026-how-where-to-watch",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/galaxies-showcase-2026-how-where-to-watch",
-          "titre": "The Galaxies Showcase returns next week: here's how to watch it and what to expect"
-        }
-      ]
-    },
-    {
-      "id": "draw-maps-of-a-vampiric-lighthouse-that-defies-logic-in-this",
-      "titre": "Draw maps of a vampiric lighthouse that defies logic in This Is Not For You, the latest horror game inspired by House of Leaves",
-      "url": "https://www.rockpapershotgun.com/draw-maps-of-a-vampiric-lighthouse-that-defies-logic-in-this-is-not-for-you-the-latest-horror-game-inspired-by-house-of-leaves",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/draw-maps-of-a-vampiric-lighthouse-that-defies-logic-in-this-is-not-for-you-the-latest-horror-game-inspired-by-house-of-leaves",
-          "titre": "Draw maps of a vampiric lighthouse that defies logic in This Is Not For You, the latest horror game inspired by House of Leaves"
-        }
-      ]
-    },
-    {
-      "id": "gears-of-war-e-day-review-a-hole-new-world-that-grubs-me-up",
-      "titre": "Gears of War E-Day review: a hole new world that grubs me up in all the right ways",
-      "url": "https://www.eurogamer.net/gears-of-war-eday-review",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gears-of-war-eday-review",
-          "titre": "Gears of War E-Day review: a hole new world that grubs me up in all the right ways"
-        }
-      ]
-    },
-    {
-      "id": "how-to-get-planks-and-sheet-metal-in-arc-raiders",
-      "titre": "How to get planks and sheet metal in Arc Raiders",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-planks-sheet-metal-location/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-planks-sheet-metal-location/",
-          "titre": "How to get planks and sheet metal in Arc Raiders"
-        }
-      ]
-    },
-    {
-      "id": "more-cox-in-video-games-as-daredevil-and-clair-obscur-star-s",
-      "titre": "More Cox in video games as Daredevil and Clair Obscur star says he's in an unannounced Sega title",
-      "url": "https://www.eurogamer.net/charlie-cox-unannounced-sega-game-clair-obscur-daredevil",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/charlie-cox-unannounced-sega-game-clair-obscur-daredevil",
-          "titre": "More Cox in video games as Daredevil and Clair Obscur star says he's in an unannounced Sega title"
-        }
-      ]
-    },
-    {
-      "id": "does-razer-s-perfect-180-insta-turning-mouse-feature-count-a",
-      "titre": "Does Razer's 'Perfect 180' insta-turning mouse feature count as cheating? You decide",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/does-razers-perfect-180-insta-turning-mouse-feature-count-as-cheating-you-decide/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-mice/does-razers-perfect-180-insta-turning-mouse-feature-count-as-cheating-you-decide/",
-          "titre": "Does Razer's 'Perfect 180' insta-turning mouse feature count as cheating? You decide"
-        }
-      ]
-    },
-    {
-      "id": "ea-sports-fc-27-review",
-      "titre": "EA Sports FC 27 review",
-      "url": "https://www.eurogamer.net/ea-sports-fc-27-review",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ea-sports-fc-27-review",
-          "titre": "EA Sports FC 27 review"
         }
       ]
     },
@@ -791,7 +821,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.7,
       "chaleur": 6,
       "liens": [
         {
@@ -809,7 +839,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 6,
       "liens": [
         {
@@ -827,31 +857,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/best-buy-to-offer-additional-switch-2-zelda-units-in-store-at-midnight-launch",
           "titre": "Best Buy To Offer Additional Switch 2 Zelda Units In-Store At Midnight Launch"
-        }
-      ]
-    },
-    {
-      "id": "following-nintendo-and-sony-s-lead-xbox-is-setting-up-a-divi",
-      "titre": "Following Nintendo and Sony's lead, Xbox is setting up a division exclusively dedicated to movies and non-games partnerships",
-      "url": "https://www.eurogamer.net/xbox-xp-product-partnerships-places-productions",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 28.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-xp-product-partnerships-places-productions",
-          "titre": "Following Nintendo and Sony's lead, Xbox is setting up a division exclusively dedicated to movies and non-games partnerships"
         }
       ]
     },
@@ -863,7 +875,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 5,
       "liens": [
         {
@@ -881,31 +893,13 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 22.9,
+      "heures": 24.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/console/xbox-ceo-unveils-new-xbox-division-for-game-adjacent-ventures-named-xp-",
           "titre": "Xbox CEO unveils 'new Xbox division' for game-adjacent ventures named 'XP'"
-        }
-      ]
-    },
-    {
-      "id": "spending-on-switch-2-game-key-cards-in-the-u-s-has-risen-by",
-      "titre": "Spending On Switch 2 Game-Key Cards In The U.S. Has Risen By 631%",
-      "url": "https://www.nintendolife.com/news/2026/10/spending-on-switch-2-game-key-cards-in-the-u-s-has-risen-by-631percent",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 24.1,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/spending-on-switch-2-game-key-cards-in-the-u-s-has-risen-by-631percent",
-          "titre": "Spending On Switch 2 Game-Key Cards In The U.S. Has Risen By 631%"
         }
       ]
     },
@@ -917,13 +911,139 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 28.1,
+      "heures": 30.1,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/xbox-announces-new-xp-division-to-deliver-transmedia-spinoffs-including-film-tv-and-theme-parks",
           "titre": "Xbox announces new XP division to deliver transmedia spinoffs including film, TV, and theme parks"
+        }
+      ]
+    },
+    {
+      "id": "the-galaxies-showcase-returns-next-week-here-s-how-to-watch",
+      "titre": "The Galaxies Showcase returns next week: here's how to watch it and what to expect",
+      "url": "https://www.eurogamer.net/galaxies-showcase-2026-how-where-to-watch",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/galaxies-showcase-2026-how-where-to-watch",
+          "titre": "The Galaxies Showcase returns next week: here's how to watch it and what to expect"
+        }
+      ]
+    },
+    {
+      "id": "draw-maps-of-a-vampiric-lighthouse-that-defies-logic-in-this",
+      "titre": "Draw maps of a vampiric lighthouse that defies logic in This Is Not For You, the latest horror game inspired by House of Leaves",
+      "url": "https://www.rockpapershotgun.com/draw-maps-of-a-vampiric-lighthouse-that-defies-logic-in-this-is-not-for-you-the-latest-horror-game-inspired-by-house-of-leaves",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/draw-maps-of-a-vampiric-lighthouse-that-defies-logic-in-this-is-not-for-you-the-latest-horror-game-inspired-by-house-of-leaves",
+          "titre": "Draw maps of a vampiric lighthouse that defies logic in This Is Not For You, the latest horror game inspired by House of Leaves"
+        }
+      ]
+    },
+    {
+      "id": "how-to-get-planks-and-sheet-metal-in-arc-raiders",
+      "titre": "How to get planks and sheet metal in Arc Raiders",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-planks-sheet-metal-location/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-planks-sheet-metal-location/",
+          "titre": "How to get planks and sheet metal in Arc Raiders"
+        }
+      ]
+    },
+    {
+      "id": "wolverine-ps5-sales-estimates-are-somewhat-soft-but-here-s-w",
+      "titre": "Wolverine PS5 Sales Estimates Are Somewhat Soft, But Here's Why I'm Not Worried",
+      "url": "https://www.pushsquare.com/news/2026/10/wolverine-ps5-sales-estimates-are-somewhat-soft-but-heres-why-im-not-worried",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/wolverine-ps5-sales-estimates-are-somewhat-soft-but-heres-why-im-not-worried",
+          "titre": "Wolverine PS5 Sales Estimates Are Somewhat Soft, But Here's Why I'm Not Worried"
+        }
+      ]
+    },
+    {
+      "id": "more-cox-in-video-games-as-daredevil-and-clair-obscur-star-s",
+      "titre": "More Cox in video games as Daredevil and Clair Obscur star says he's in an unannounced Sega title",
+      "url": "https://www.eurogamer.net/charlie-cox-unannounced-sega-game-clair-obscur-daredevil",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/charlie-cox-unannounced-sega-game-clair-obscur-daredevil",
+          "titre": "More Cox in video games as Daredevil and Clair Obscur star says he's in an unannounced Sega title"
+        }
+      ]
+    },
+    {
+      "id": "does-razer-s-perfect-180-insta-turning-mouse-feature-count-a",
+      "titre": "Does Razer's 'Perfect 180' insta-turning mouse feature count as cheating? You decide",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/does-razers-perfect-180-insta-turning-mouse-feature-count-as-cheating-you-decide/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/does-razers-perfect-180-insta-turning-mouse-feature-count-as-cheating-you-decide/",
+          "titre": "Does Razer's 'Perfect 180' insta-turning mouse feature count as cheating? You decide"
+        }
+      ]
+    },
+    {
+      "id": "ea-sports-fc-27-review",
+      "titre": "EA Sports FC 27 review",
+      "url": "https://www.eurogamer.net/ea-sports-fc-27-review",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ea-sports-fc-27-review",
+          "titre": "EA Sports FC 27 review"
         }
       ]
     },
@@ -935,7 +1055,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +1073,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +1091,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +1109,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,31 +1127,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/sony-agrees-to-transfer-over-400-global-vr-patents-to-meta-following-december-2025-agreement",
           "titre": "Sony agrees to transfer over 400 global VR patents to Meta following December 2025 agreement"
-        }
-      ]
-    },
-    {
-      "id": "wow-forever-s-list-of-changes-snowballed-as-blizzard-got-mor",
-      "titre": "WoW: Forever's list of changes snowballed as Blizzard got more excited, says dev: 'Our original pitch internally was: We'll do 4 new dungeons'",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-list-of-changes-snowballed-as-blizzard-got-more-excited-says-dev-our-original-pitch-internally-was-well-do-4-new-dungeons/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-list-of-changes-snowballed-as-blizzard-got-more-excited-says-dev-our-original-pitch-internally-was-well-do-4-new-dungeons/",
-          "titre": "WoW: Forever's list of changes snowballed as Blizzard got more excited, says dev: 'Our original pitch internally was: We'll do 4 new dungeons'"
         }
       ]
     },
@@ -1043,49 +1145,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/another-ps-portal-firmware-update-is-now-available-just-two-weeks-after-the-last",
           "titre": "Another PS Portal Firmware Update Is Now Available, Just Two Weeks After the Last"
-        }
-      ]
-    },
-    {
-      "id": "intel-to-release-new-cpus-on-old-socket-in-early-2027-says-g",
-      "titre": "Intel to release new CPUs on old socket in early 2027 says Gigabyte - memory crisis making DDR4 desirable again",
-      "url": "https://www.pcgamer.com/hardware/processors/intel-to-release-new-cpus-on-old-socket-in-early-2027-says-gigabyte-memory-crisis-making-ddr4-desirable-again/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/processors/intel-to-release-new-cpus-on-old-socket-in-early-2027-says-gigabyte-memory-crisis-making-ddr4-desirable-again/",
-          "titre": "Intel to release new CPUs on old socket in early 2027 says Gigabyte - memory crisis making DDR4 desirable again"
-        }
-      ]
-    },
-    {
-      "id": "peter-molyneux-explains-the-origin-story-of-black-white-s-fa",
-      "titre": "Peter Molyneux explains the origin story of Black & White's famous creatures: 'It was originally a monster. It wasn't a cute creature'",
-      "url": "https://www.pcgamer.com/games/strategy/peter-molyneux-explains-the-origin-story-of-black-and-whites-famous-creatures-it-was-originally-a-monster-it-wasnt-a-cute-creature/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/peter-molyneux-explains-the-origin-story-of-black-and-whites-famous-creatures-it-was-originally-a-monster-it-wasnt-a-cute-creature/",
-          "titre": "Peter Molyneux explains the origin story of Black & White's famous creatures: 'It was originally a monster. It wasn't a cute creature'"
         }
       ]
     },
@@ -1097,7 +1163,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1106,81 +1172,7 @@ const VEILLE = {
           "titre": "Timeloop metroidvania Echo Weaver is the brave game that locks almost nothing off and challenges you to break it"
         }
       ]
-    },
-    {
-      "id": "after-the-first-seven-leisure-suit-larry-games-were-delisted",
-      "titre": "After the first seven Leisure Suit Larry games were delisted last year, the last two are joining them",
-      "url": "https://www.videogameschronicle.com/news/after-the-first-seven-leisure-suit-larry-games-were-delisted-last-year-the-last-two-are-joining-them/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 7.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/after-the-first-seven-leisure-suit-larry-games-were-delisted-last-year-the-last-two-are-joining-them/",
-          "titre": "After the first seven Leisure Suit Larry games were delisted last year, the last two are joining them"
-        }
-      ]
-    },
-    {
-      "id": "avalanche-studio-group-to-globally-publish-market-and-distri",
-      "titre": "Avalanche Studio Group to globally publish, market, and distribute titles from Supermassive Games",
-      "url": "https://www.gamesindustry.biz/avalanche-studio-group-to-globally-publish-market-and-distribute-titles-from-supermassive-games",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 7.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/avalanche-studio-group-to-globally-publish-market-and-distribute-titles-from-supermassive-games",
-          "titre": "Avalanche Studio Group to globally publish, market, and distribute titles from Supermassive Games"
-        }
-      ]
-    },
-    {
-      "id": "anomalith-s-new-ps5-demo-is-a-scrappy-throwback-to-classic-r",
-      "titre": "ANOMALITH's New PS5 Demo Is a Scrappy Throwback to Classic Resident Evil",
-      "url": "https://www.pushsquare.com/news/2026/10/anomaliths-new-ps5-demo-is-a-scrappy-throwback-to-classic-resident-evil",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 8.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/anomaliths-new-ps5-demo-is-a-scrappy-throwback-to-classic-resident-evil",
-          "titre": "ANOMALITH's New PS5 Demo Is a Scrappy Throwback to Classic Resident Evil"
-        }
-      ]
-    },
-    {
-      "id": "rumour-pok-mon-themed-mystery-lego-bags-are-supposedly-on-th",
-      "titre": "Rumour: Pokémon-Themed Mystery LEGO Bags Are Supposedly On The Way",
-      "url": "https://www.nintendolife.com/news/2026/10/rumour-pokemon-themed-mystery-lego-bags-are-supposedly-on-the-way",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 12.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/rumour-pokemon-themed-mystery-lego-bags-are-supposedly-on-the-way",
-          "titre": "Rumour: Pokémon-Themed Mystery LEGO Bags Are Supposedly On The Way"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "It's official: Forza Horizon 6 delayed to 2027 on PS5, and the game's first expansion has been announced"
-  ]
+  "alertes": []
 };
