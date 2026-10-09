@@ -1,22 +1,28 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "09/10/2026 à 10h24",
+  "collecte": "09/10/2026 à 12h27",
   "seuil": 14,
   "sujets": [
     {
-      "id": "wake-up-samurai-cyberpunk-2077-is-getting-a-live-action-movi",
-      "titre": "Wake Up, Samurai! Cyberpunk 2077 Is Getting A Live-Action Movie",
-      "url": "https://www.nintendolife.com/news/2026/10/wake-up-samurai-cyberpunk-2077-is-getting-a-live-action-movie",
+      "id": "live-action-cyberpunk-2077-film-reportedly-in-development-wi",
+      "titre": "Live-action Cyberpunk 2077 film reportedly in development, with CD Projekt Red collaborating with Paramount to make it",
+      "url": "https://www.eurogamer.net/cyberpunk-2077-live-action-film-paramount-cd-projekt-red",
       "sources": [
+        "Eurogamer",
         "Nintendo Life",
         "Push Square",
         "Rock Paper Shotgun",
         "VGC"
       ],
-      "reprises": 4,
-      "heures": 5.7,
-      "chaleur": 13,
+      "reprises": 5,
+      "heures": 1.8,
+      "chaleur": 20,
       "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/cyberpunk-2077-live-action-film-paramount-cd-projekt-red",
+          "titre": "Live-action Cyberpunk 2077 film reportedly in development, with CD Projekt Red collaborating with Paramount to make it"
+        },
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/wake-up-samurai-cyberpunk-2077-is-getting-a-live-action-movie",
@@ -40,6 +46,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "forza-horizon-6-s-first-major-expansion-will-pull-up-in-janu",
+      "titre": "Forza Horizon 6's first major expansion will pull up in January, now Playground Games just need to offer any kind of hint whatsoever as to what it'll look like",
+      "url": "https://www.rockpapershotgun.com/forza-horizon-6s-first-major-expansion-will-pull-up-in-january-now-playground-games-just-need-to-offer-any-kind-of-hint-whatsoever-as-to-what-itll-look-like",
+      "sources": [
+        "Push Square",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 2.5,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/forza-horizon-6s-first-major-expansion-will-pull-up-in-january-now-playground-games-just-need-to-offer-any-kind-of-hint-whatsoever-as-to-what-itll-look-like",
+          "titre": "Forza Horizon 6's first major expansion will pull up in January, now Playground Games just need to offer any kind of hint whatsoever as to what it'll look like"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/forza-horizon-6-officially-dated-for-ps5-alongside-an-expansion/",
+          "titre": "Forza Horizon 6 officially dated for PS5, alongside an expansion"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/first-forza-horizon-6-ps5-gameplay-arrives-as-release-date-is-revealed",
+          "titre": "First Forza Horizon 6 PS5 Gameplay Arrives as Release Date Is Revealed"
+        }
+      ]
+    },
+    {
       "id": "for-the-first-time-in-the-series-grand-theft-auto-6-lets-you",
       "titre": "For the first time in the series, Grand Theft Auto 6 lets you use headphones to listen to radio stations and podcasts",
       "url": "https://www.eurogamer.net/gta-6-headpones-earbuds-radio-podcasts",
@@ -49,7 +85,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 19.3,
+      "heures": 21.3,
       "chaleur": 12,
       "liens": [
         {
@@ -70,6 +106,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "ubisoft-is-shutting-down-rainbow-six-mobile-dev-team-release",
+      "titre": "Ubisoft is shutting down Rainbow Six Mobile, dev team releases message",
+      "url": "https://www.videogameschronicle.com/news/ubisoft-is-shutting-down-rainbow-six-mobile-dev-team-releases-message/",
+      "sources": [
+        "GamesIndustry.biz",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.7,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-is-shutting-down-rainbow-six-mobile-dev-team-releases-message/",
+          "titre": "Ubisoft is shutting down Rainbow Six Mobile, dev team releases message"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/ubisoft-announces-shutdown-of-rainbow-six-mobile-seven-months-after-global-launch",
+          "titre": "Ubisoft announces shutdown of Rainbow Six Mobile seven months after global launch"
+        }
+      ]
+    },
+    {
       "id": "ace-combat-8-is-the-fastest-selling-entry-in-the-series-afte",
       "titre": "Ace Combat 8 is the fastest selling entry in the series after hitting 1 million sales",
       "url": "https://www.videogameschronicle.com/news/ace-combat-8-is-the-fastest-selling-entry-in-the-series-after-hitting-1-million-sales/",
@@ -78,7 +138,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 9,
       "liens": [
         {
@@ -102,7 +162,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 9.7,
+      "heures": 11.7,
       "chaleur": 9,
       "liens": [
         {
@@ -125,13 +185,49 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.1,
+      "heures": 21.2,
       "chaleur": 9,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/rockstar-hunted-gta-6-leaker-seemingly-strikes-again-showing-off-series-most-plentiful-helping-of-onscreen-johnson-since-san-andreas-starred-carl",
           "titre": "Rockstar-hunted GTA 6 leaker seemingly strikes again, showing off series' most plentiful helping of onscreen johnson since San Andreas starred Carl"
+        }
+      ]
+    },
+    {
+      "id": "this-wonderful-animal-crossing-like-is-now-free-for-switch-o",
+      "titre": "This Wonderful Animal Crossing-Like Is Now Free For Switch Online Members",
+      "url": "https://www.nintendolife.com/news/2026/10/this-wonderful-animal-crossing-like-is-now-free-for-switch-online-members",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/this-wonderful-animal-crossing-like-is-now-free-for-switch-online-members",
+          "titre": "This Wonderful Animal Crossing-Like Is Now Free For Switch Online Members"
+        }
+      ]
+    },
+    {
+      "id": "final-fantasy-vii-revelation-cast-get-emotional-in-last-reco",
+      "titre": "Final Fantasy VII Revelation Cast Get Emotional In Last Recording Sessions",
+      "url": "https://www.nintendolife.com/news/2026/10/final-fantasy-vii-revelation-cast-get-emotional-in-last-recording-sessions",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/final-fantasy-vii-revelation-cast-get-emotional-in-last-recording-sessions",
+          "titre": "Final Fantasy VII Revelation Cast Get Emotional In Last Recording Sessions"
         }
       ]
     },
@@ -143,7 +239,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 27.5,
       "chaleur": 8,
       "liens": [
         {
@@ -161,7 +257,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 10.0,
       "chaleur": 7,
       "liens": [
         {
@@ -226,6 +322,150 @@ const VEILLE = {
       ]
     },
     {
+      "id": "new-razer-basilisk-v4-executes-perfect-180-degree-turns-at-t",
+      "titre": "New Razer Basilisk V4 executes perfect 180 degree turns at the click of a button, all while looking like a Power Ranger's foot",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/new-razer-basilisk-v4-executes-perfect-180-degree-turns-at-the-click-of-a-button-all-while-looking-like-a-power-rangers-foot/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/new-razer-basilisk-v4-executes-perfect-180-degree-turns-at-the-click-of-a-button-all-while-looking-like-a-power-rangers-foot/",
+          "titre": "New Razer Basilisk V4 executes perfect 180 degree turns at the click of a button, all while looking like a Power Ranger's foot"
+        }
+      ]
+    },
+    {
+      "id": "crimson-desert-s-lower-review-scores-were-because-critics-di",
+      "titre": "Crimson Desert’s lower review scores were because critics didn’t get a ‘fair chance to explore’, exec says",
+      "url": "https://www.videogameschronicle.com/news/crimson-deserts-lower-review-scores-were-because-critics-didnt-get-a-fair-chance-to-explore-exec-says/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/crimson-deserts-lower-review-scores-were-because-critics-didnt-get-a-fair-chance-to-explore-exec-says/",
+          "titre": "Crimson Desert’s lower review scores were because critics didn’t get a ‘fair chance to explore’, exec says"
+        }
+      ]
+    },
+    {
+      "id": "ghost-of-tsushima-s-anime-series-has-been-pushed-back-to-202",
+      "titre": "Ghost of Tsushima's Anime Series Has Been Pushed Back to 2028",
+      "url": "https://www.pushsquare.com/news/2026/10/ghost-of-tsushimas-anime-series-has-been-pushed-back-to-2028",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ghost-of-tsushimas-anime-series-has-been-pushed-back-to-2028",
+          "titre": "Ghost of Tsushima's Anime Series Has Been Pushed Back to 2028"
+        }
+      ]
+    },
+    {
+      "id": "how-to-complete-to-the-skies-in-arc-raiders",
+      "titre": "How to complete To the Skies in Arc Raiders",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-to-the-skies-walkthrough/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-to-the-skies-walkthrough/",
+          "titre": "How to complete To the Skies in Arc Raiders"
+        }
+      ]
+    },
+    {
+      "id": "video-games-aren-t-the-enemy-of-kids-mental-health-ignoring",
+      "titre": "Video games aren't the enemy of kids' mental health – ignoring them is | Opinion",
+      "url": "https://www.gamesindustry.biz/video-games-arent-the-enemy-of-kids-mental-health-ignoring-them-is-opinion",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/video-games-arent-the-enemy-of-kids-mental-health-ignoring-them-is-opinion",
+          "titre": "Video games aren't the enemy of kids' mental health – ignoring them is | Opinion"
+        }
+      ]
+    },
+    {
+      "id": "sony-agrees-to-transfer-over-400-global-vr-patents-to-meta-f",
+      "titre": "Sony agrees to transfer over 400 global VR patents to Meta following December 2025 agreement",
+      "url": "https://www.gamesindustry.biz/sony-agrees-to-transfer-over-400-global-vr-patents-to-meta-following-december-2025-agreement",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/sony-agrees-to-transfer-over-400-global-vr-patents-to-meta-following-december-2025-agreement",
+          "titre": "Sony agrees to transfer over 400 global VR patents to Meta following December 2025 agreement"
+        }
+      ]
+    },
+    {
+      "id": "wow-forever-s-list-of-changes-snowballed-as-blizzard-got-mor",
+      "titre": "WoW: Forever's list of changes snowballed as Blizzard got more excited, says dev: 'Our original pitch internally was: We'll do 4 new dungeons'",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-list-of-changes-snowballed-as-blizzard-got-more-excited-says-dev-our-original-pitch-internally-was-well-do-4-new-dungeons/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-list-of-changes-snowballed-as-blizzard-got-more-excited-says-dev-our-original-pitch-internally-was-well-do-4-new-dungeons/",
+          "titre": "WoW: Forever's list of changes snowballed as Blizzard got more excited, says dev: 'Our original pitch internally was: We'll do 4 new dungeons'"
+        }
+      ]
+    },
+    {
+      "id": "another-ps-portal-firmware-update-is-now-available-just-two",
+      "titre": "Another PS Portal Firmware Update Is Now Available, Just Two Weeks After the Last",
+      "url": "https://www.pushsquare.com/news/2026/10/another-ps-portal-firmware-update-is-now-available-just-two-weeks-after-the-last",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/another-ps-portal-firmware-update-is-now-available-just-two-weeks-after-the-last",
+          "titre": "Another PS Portal Firmware Update Is Now Available, Just Two Weeks After the Last"
+        }
+      ]
+    },
+    {
       "id": "intel-to-release-new-cpus-on-old-socket-in-early-2027-says-g",
       "titre": "Intel to release new CPUs on old socket in early 2027 says Gigabyte - memory crisis making DDR4 desirable again",
       "url": "https://www.pcgamer.com/hardware/processors/intel-to-release-new-cpus-on-old-socket-in-early-2027-says-gigabyte-memory-crisis-making-ddr4-desirable-again/",
@@ -233,7 +473,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
@@ -251,13 +491,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/strategy/peter-molyneux-explains-the-origin-story-of-black-and-whites-famous-creatures-it-was-originally-a-monster-it-wasnt-a-cute-creature/",
           "titre": "Peter Molyneux explains the origin story of Black & White's famous creatures: 'It was originally a monster. It wasn't a cute creature'"
+        }
+      ]
+    },
+    {
+      "id": "timeloop-metroidvania-echo-weaver-is-the-brave-game-that-loc",
+      "titre": "Timeloop metroidvania Echo Weaver is the brave game that locks almost nothing off and challenges you to break it",
+      "url": "https://www.rockpapershotgun.com/timeloop-metroidvania-echo-weaver-is-the-brave-game-that-locks-almost-nothing-off-and-challenges-you-to-break-it",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 2.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/timeloop-metroidvania-echo-weaver-is-the-brave-game-that-locks-almost-nothing-off-and-challenges-you-to-break-it",
+          "titre": "Timeloop metroidvania Echo Weaver is the brave game that locks almost nothing off and challenges you to break it"
         }
       ]
     },
@@ -269,13 +527,31 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/after-the-first-seven-leisure-suit-larry-games-were-delisted-last-year-the-last-two-are-joining-them/",
           "titre": "After the first seven Leisure Suit Larry games were delisted last year, the last two are joining them"
+        }
+      ]
+    },
+    {
+      "id": "avalanche-studio-group-to-globally-publish-market-and-distri",
+      "titre": "Avalanche Studio Group to globally publish, market, and distribute titles from Supermassive Games",
+      "url": "https://www.gamesindustry.biz/avalanche-studio-group-to-globally-publish-market-and-distribute-titles-from-supermassive-games",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 3.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/avalanche-studio-group-to-globally-publish-market-and-distribute-titles-from-supermassive-games",
+          "titre": "Avalanche Studio Group to globally publish, market, and distribute titles from Supermassive Games"
         }
       ]
     },
@@ -287,7 +563,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 11.0,
       "chaleur": 6,
       "liens": [
         {
@@ -306,7 +582,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 13.4,
+      "heures": 15.5,
       "chaleur": 6,
       "liens": [
         {
@@ -329,7 +605,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.2,
       "chaleur": 6,
       "liens": [
         {
@@ -348,7 +624,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 15.3,
+      "heures": 17.3,
       "chaleur": 6,
       "liens": [
         {
@@ -364,30 +640,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "forza-horizon-6-officially-dated-for-ps5-alongside-an-expans",
-      "titre": "Forza Horizon 6 officially dated for PS5, alongside an expansion",
-      "url": "https://www.videogameschronicle.com/news/forza-horizon-6-officially-dated-for-ps5-alongside-an-expansion/",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 16.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/forza-horizon-6-officially-dated-for-ps5-alongside-an-expansion/",
-          "titre": "Forza Horizon 6 officially dated for PS5, alongside an expansion"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/first-forza-horizon-6-ps5-gameplay-arrives-as-release-date-is-revealed",
-          "titre": "First Forza Horizon 6 PS5 Gameplay Arrives as Release Date Is Revealed"
-        }
-      ]
-    },
-    {
       "id": "europe-shows-up-for-physical-games-51-of-wolverine-s-ps5-sal",
       "titre": "Europe Shows Up for Physical Games, 51% of Wolverine's PS5 Sales for Disc Version",
       "url": "https://www.pushsquare.com/news/2026/10/europe-shows-up-for-physical-games-51percent-of-wolverines-ps5-sales-for-disc-version",
@@ -396,7 +648,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 18.4,
+      "heures": 20.5,
       "chaleur": 6,
       "liens": [
         {
@@ -420,7 +672,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 20.2,
+      "heures": 22.2,
       "chaleur": 6,
       "liens": [
         {
@@ -436,30 +688,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "doctor-doom-invisible-woman-join-marvel-cosmic-invasion-in-d",
-      "titre": "Doctor Doom, Invisible Woman Join Marvel Cosmic Invasion in DLC Pack Next Month",
-      "url": "https://www.pushsquare.com/news/2026/10/doctor-doom-invisible-woman-join-marvel-cosmic-invasion-in-dlc-pack-next-month",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 20.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/doctor-doom-invisible-woman-join-marvel-cosmic-invasion-in-dlc-pack-next-month",
-          "titre": "Doctor Doom, Invisible Woman Join Marvel Cosmic Invasion in DLC Pack Next Month"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/marvel-cosmic-invasions-new-dlc-will-build-the-hype-for-doomsday-next-month",
-          "titre": "Marvel Cosmic Invasion's New DLC Will Build The Hype For 'Doomsday' Next Month"
-        }
-      ]
-    },
-    {
       "id": "nintendo-switch-sports-resort-looks-like-a-game-night-deligh",
       "titre": "Nintendo Switch Sports Resort Looks Like A Game Night Delight In New Overview Trailer",
       "url": "https://www.nintendolife.com/news/2026/10/nintendo-switch-sports-resort-looks-like-a-game-night-delight-in-new-overview-trailer",
@@ -467,31 +695,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.9,
+      "heures": 23.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/nintendo-switch-sports-resort-looks-like-a-game-night-delight-in-new-overview-trailer",
           "titre": "Nintendo Switch Sports Resort Looks Like A Game Night Delight In New Overview Trailer"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-gameplay-leaks-are-back-with-potentially-big-spoilers",
-      "titre": "GTA 6 Gameplay Leaks Are Back with Potentially Big Spoilers",
-      "url": "https://www.pushsquare.com/news/2026/10/gta-6-gameplay-leaks-are-back-with-potentially-big-spoilers",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 20.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/gta-6-gameplay-leaks-are-back-with-potentially-big-spoilers",
-          "titre": "GTA 6 Gameplay Leaks Are Back with Potentially Big Spoilers"
         }
       ]
     },
@@ -503,7 +713,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.2,
+      "heures": 24.2,
       "chaleur": 6,
       "liens": [
         {
@@ -521,31 +731,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 24.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta-6-frontal-nudity-dirt-biking-dev-menu-leak",
           "titre": "Full-frontal nudity, dirt-biking, and a dev menu: GTA 6's infamous leaker is back with the most X-rated look at the game yet"
-        }
-      ]
-    },
-    {
-      "id": "gears-of-war-boss-says-the-next-game-won-t-take-seven-years",
-      "titre": "Gears of War boss says the next game won't take seven years to make as he dances around the question of layoffs",
-      "url": "https://www.eurogamer.net/gears-of-war-the-coalition-layoffs-next-game",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 26.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gears-of-war-the-coalition-layoffs-next-game",
-          "titre": "Gears of War boss says the next game won't take seven years to make as he dances around the question of layoffs"
         }
       ]
     },
@@ -557,7 +749,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.5,
       "chaleur": 5,
       "liens": [
         {
@@ -575,49 +767,13 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 19.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/console/xbox-ceo-unveils-new-xbox-division-for-game-adjacent-ventures-named-xp-",
           "titre": "Xbox CEO unveils 'new Xbox division' for game-adjacent ventures named 'XP'"
-        }
-      ]
-    },
-    {
-      "id": "as-it-lays-off-developers-and-closes-studios-xbox-gets-into",
-      "titre": "As it lays off developers and closes studios, Xbox gets into the movie business",
-      "url": "https://www.pcgamer.com/gaming-industry/as-it-lays-off-developers-and-closes-studios-xbox-gets-into-the-movie-business/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 18.1,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/as-it-lays-off-developers-and-closes-studios-xbox-gets-into-the-movie-business/",
-          "titre": "As it lays off developers and closes studios, Xbox gets into the movie business"
-        }
-      ]
-    },
-    {
-      "id": "all-hail-the-long-steam-machine-pimax-s-new-steamos-ready-mi",
-      "titre": "All hail the long steam machine, Pimax's new SteamOS-ready mini PC",
-      "url": "https://www.pcgamer.com/hardware/steam-machines/all-hail-the-long-steam-machine-pimaxs-new-steamos-ready-mini-pc/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 18.1,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/steam-machines/all-hail-the-long-steam-machine-pimaxs-new-steamos-ready-mini-pc/",
-          "titre": "All hail the long steam machine, Pimax's new SteamOS-ready mini PC"
         }
       ]
     },
@@ -629,7 +785,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 20.2,
       "chaleur": 5,
       "liens": [
         {
@@ -647,7 +803,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.6,
       "chaleur": 5,
       "liens": [
         {
@@ -665,7 +821,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 22.1,
+      "heures": 24.1,
       "chaleur": 5,
       "liens": [
         {
@@ -683,7 +839,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.0,
+      "heures": 26.0,
       "chaleur": 5,
       "liens": [
         {
@@ -701,7 +857,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.1,
+      "heures": 27.1,
       "chaleur": 5,
       "liens": [
         {
@@ -719,7 +875,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -737,7 +893,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -755,8 +911,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -773,7 +929,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -791,7 +947,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -809,7 +965,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
@@ -827,7 +983,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -845,7 +1001,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 17.2,
       "chaleur": 3,
       "liens": [
         {
@@ -863,7 +1019,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 18.0,
       "chaleur": 3,
       "liens": [
         {
@@ -881,7 +1037,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -899,7 +1055,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.5,
       "chaleur": 3,
       "liens": [
         {
@@ -917,7 +1073,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.5,
       "chaleur": 3,
       "liens": [
         {
@@ -935,7 +1091,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.7,
+      "heures": 18.7,
       "chaleur": 3,
       "liens": [
         {
@@ -953,7 +1109,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 19.0,
       "chaleur": 3,
       "liens": [
         {
@@ -971,7 +1127,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 19.0,
       "chaleur": 3,
       "liens": [
         {
@@ -989,7 +1145,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +1163,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1016,151 +1172,9 @@ const VEILLE = {
           "titre": "Lazare’s Sacrifice is a narrative deckbuilder made with Gwent's creator about avoiding the guillotine during the French Revolution"
         }
       ]
-    },
-    {
-      "id": "two-point-museum-s-cutest-collaboration-is-now-available-and",
-      "titre": "Two Point Museum's Cutest Collaboration Is Now Available, And It's Free",
-      "url": "https://www.nintendolife.com/news/2026/10/two-point-museums-cutest-collaboration-is-now-available-and-its-free",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/two-point-museums-cutest-collaboration-is-now-available-and-its-free",
-          "titre": "Two Point Museum's Cutest Collaboration Is Now Available, And It's Free"
-        }
-      ]
-    },
-    {
-      "id": "i-love-k-pop-but-this-new-ps5-game-ain-t-it",
-      "titre": "I Love K-Pop, But This New PS5 Game Ain't It",
-      "url": "https://www.pushsquare.com/news/2026/10/i-love-k-pop-but-this-new-ps5-game-aint-it",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/i-love-k-pop-but-this-new-ps5-game-aint-it",
-          "titre": "I Love K-Pop, But This New PS5 Game Ain't It"
-        }
-      ]
-    },
-    {
-      "id": "i-have-added-roving-bands-of-militant-furries-to-grand-theft",
-      "titre": "I have added roving bands of militant furries to Grand Theft Auto 5",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-added-roving-bands-of-militant-furries-to-grand-theft-auto-5/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-added-roving-bands-of-militant-furries-to-grand-theft-auto-5/",
-          "titre": "I have added roving bands of militant furries to Grand Theft Auto 5"
-        }
-      ]
-    },
-    {
-      "id": "amazon-is-roasting-users-with-their-own-shopping-habits-but",
-      "titre": "Amazon is roasting users with their own shopping habits, but it don't have nothin' on us",
-      "url": "https://www.pcgamer.com/hardware/amazon-is-roasting-users-with-their-own-shopping-habits-but-it-dont-have-nothin-on-us/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/amazon-is-roasting-users-with-their-own-shopping-habits-but-it-dont-have-nothin-on-us/",
-          "titre": "Amazon is roasting users with their own shopping habits, but it don't have nothin' on us"
-        }
-      ]
-    },
-    {
-      "id": "fatal-fury-ps5-s-ridiculous-dlc-run-continues-with-tekken-8",
-      "titre": "Fatal Fury PS5's Ridiculous DLC Run Continues with Tekken 8's Reina Teased",
-      "url": "https://www.pushsquare.com/news/2026/10/fatal-fury-ps5s-ridiculous-dlc-run-continues-with-tekken-8s-reina-teased",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 17.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/fatal-fury-ps5s-ridiculous-dlc-run-continues-with-tekken-8s-reina-teased",
-          "titre": "Fatal Fury PS5's Ridiculous DLC Run Continues with Tekken 8's Reina Teased"
-        }
-      ]
-    },
-    {
-      "id": "crowning-the-best-fps-mode-of-all-time-through-1v1-combat-ro",
-      "titre": "Crowning the best FPS mode of all time through 1v1 combat (ROUND 2)",
-      "url": "https://www.pcgamer.com/games/fps/crowning-the-best-fps-mode-of-all-time-through-1v1-combat-round-2/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 18.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/crowning-the-best-fps-mode-of-all-time-through-1v1-combat-round-2/",
-          "titre": "Crowning the best FPS mode of all time through 1v1 combat (ROUND 2)"
-        }
-      ]
-    },
-    {
-      "id": "bobby-kotick-returns-former-activision-boss-becomes-board-me",
-      "titre": "Bobby Kotick returns: former Activision boss becomes board member of Skydance, the new company formed by Paramount and Warner Bros",
-      "url": "https://www.eurogamer.net/bobby-kotick-skydance-board-of-directors-1",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 18.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/bobby-kotick-skydance-board-of-directors-1",
-          "titre": "Bobby Kotick returns: former Activision boss becomes board member of Skydance, the new company formed by Paramount and Warner Bros"
-        }
-      ]
-    },
-    {
-      "id": "hell-is-us-massively-expands-its-roster-of-freaky-enemies-to",
-      "titre": "Hell Is Us Massively Expands Its Roster of Freaky Enemies to Celebrate 2 Million Players",
-      "url": "https://www.pushsquare.com/news/2026/10/hell-is-us-massively-expands-its-roster-of-freaky-enemies-to-celebrate-2-million-players",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 18.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/hell-is-us-massively-expands-its-roster-of-freaky-enemies-to-celebrate-2-million-players",
-          "titre": "Hell Is Us Massively Expands Its Roster of Freaky Enemies to Celebrate 2 Million Players"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Live-action Cyberpunk 2077 film reportedly in development, with CD Projekt Red collaborating with Paramount to make it"
+  ]
 };
