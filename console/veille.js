@@ -1,23 +1,29 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "09/10/2026 à 12h27",
+  "collecte": "09/10/2026 à 14h25",
   "seuil": 14,
   "sujets": [
     {
-      "id": "live-action-cyberpunk-2077-film-reportedly-in-development-wi",
-      "titre": "Live-action Cyberpunk 2077 film reportedly in development, with CD Projekt Red collaborating with Paramount to make it",
-      "url": "https://www.eurogamer.net/cyberpunk-2077-live-action-film-paramount-cd-projekt-red",
+      "id": "paramount-pictures-adapting-live-action-movie-set-in-cyberpu",
+      "titre": "Paramount Pictures adapting live-action movie set in Cyberpunk 2077 universe, co-produced by CD Projekt Red",
+      "url": "https://www.gamesindustry.biz/paramount-pictures-adapting-live-action-movie-set-in-cyberpunk-2077-universe-co-produced-by-cd-projekt-red",
       "sources": [
         "Eurogamer",
+        "GamesIndustry.biz",
         "Nintendo Life",
         "Push Square",
         "Rock Paper Shotgun",
         "VGC"
       ],
-      "reprises": 5,
-      "heures": 1.8,
-      "chaleur": 20,
+      "reprises": 6,
+      "heures": 1.5,
+      "chaleur": 23,
       "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/paramount-pictures-adapting-live-action-movie-set-in-cyberpunk-2077-universe-co-produced-by-cd-projekt-red",
+          "titre": "Paramount Pictures adapting live-action movie set in Cyberpunk 2077 universe, co-produced by CD Projekt Red"
+        },
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/cyberpunk-2077-live-action-film-paramount-cd-projekt-red",
@@ -46,6 +52,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "ace-combat-8-becomes-fastest-selling-game-in-the-series-and",
+      "titre": "Ace Combat 8 becomes fastest-selling game in the series, and very nearly the highest rated",
+      "url": "https://www.eurogamer.net/ace-combat-8-sales",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 1.1,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ace-combat-8-sales",
+          "titre": "Ace Combat 8 becomes fastest-selling game in the series, and very nearly the highest rated"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/ace-combat-8-is-the-fastest-selling-entry-in-the-series-after-hitting-1-million-sales/",
+          "titre": "Ace Combat 8 is the fastest selling entry in the series after hitting 1 million sales"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ace-combat-8-has-sold-one-million-copies-faster-than-any-previous-entry-in-the-series",
+          "titre": "Ace Combat 8 Has Sold One Million Copies Faster Than Any Previous Entry in the Series"
+        }
+      ]
+    },
+    {
       "id": "forza-horizon-6-s-first-major-expansion-will-pull-up-in-janu",
       "titre": "Forza Horizon 6's first major expansion will pull up in January, now Playground Games just need to offer any kind of hint whatsoever as to what it'll look like",
       "url": "https://www.rockpapershotgun.com/forza-horizon-6s-first-major-expansion-will-pull-up-in-january-now-playground-games-just-need-to-offer-any-kind-of-hint-whatsoever-as-to-what-itll-look-like",
@@ -55,8 +91,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 2.5,
-      "chaleur": 12,
+      "heures": 4.4,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -76,32 +112,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "for-the-first-time-in-the-series-grand-theft-auto-6-lets-you",
-      "titre": "For the first time in the series, Grand Theft Auto 6 lets you use headphones to listen to radio stations and podcasts",
-      "url": "https://www.eurogamer.net/gta-6-headpones-earbuds-radio-podcasts",
+      "id": "cd-projekt-red-delivers-the-witcher-3-remastered-fixes-impro",
+      "titre": "CD Projekt Red Delivers The Witcher 3 Remastered Fixes, Improvements in Patch 5.01",
+      "url": "https://www.pushsquare.com/news/2026/10/cd-projekt-red-delivers-the-witcher-3-remastered-fixes-improvements-in-patch-5-01",
       "sources": [
-        "Eurogamer",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 0.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/cd-projekt-red-delivers-the-witcher-3-remastered-fixes-improvements-in-patch-5-01",
+          "titre": "CD Projekt Red Delivers The Witcher 3 Remastered Fixes, Improvements in Patch 5.01"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-brings-some-bloomin-improvements-to-the-games-bloom-problems-amongst-other-lighting-buffs",
+          "titre": "The Witcher 3 Remastered's latest patch brings some bloomin' improvements to the game's bloom problems, amongst other lighting buffs"
+        }
+      ]
+    },
+    {
+      "id": "undead-labs-boss-reluctant-to-share-number-affected-by-layof",
+      "titre": "Undead Labs boss \"reluctant to share\" number affected by layoffs: \"I would hate to reduce the impact to those individuals to a number or statistic\"",
+      "url": "https://www.gamesindustry.biz/undead-labs-boss-reluctant-to-share-number-affected-by-layoffs-i-would-hate-to-reduce-the-impact-to-those-individuals-to-a-number-or-statistic",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/undead-labs-boss-reluctant-to-share-number-affected-by-layoffs-i-would-hate-to-reduce-the-impact-to-those-individuals-to-a-number-or-statistic",
+          "titre": "Undead Labs boss \"reluctant to share\" number affected by layoffs: \"I would hate to reduce the impact to those individuals to a number or statistic\""
+        }
+      ]
+    },
+    {
+      "id": "wolverine-ps5-sales-estimates-are-somewhat-soft-but-here-s-w",
+      "titre": "Wolverine PS5 Sales Estimates Are Somewhat Soft, But Here's Why I'm Not Worried",
+      "url": "https://www.pushsquare.com/news/2026/10/wolverine-ps5-sales-estimates-are-somewhat-soft-but-heres-why-im-not-worried",
+      "sources": [
         "Push Square",
         "VGC"
       ],
-      "reprises": 3,
-      "heures": 21.3,
-      "chaleur": 12,
+      "reprises": 2,
+      "heures": 0.9,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-headpones-earbuds-radio-podcasts",
-          "titre": "For the first time in the series, Grand Theft Auto 6 lets you use headphones to listen to radio stations and podcasts"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/wolverine-ps5-sales-estimates-are-somewhat-soft-but-heres-why-im-not-worried",
+          "titre": "Wolverine PS5 Sales Estimates Are Somewhat Soft, But Here's Why I'm Not Worried"
         },
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/rockstar-reveals-some-of-gta-6s-radio-stations-says-players-can-now-listen-to-the-radio-and-podcasts-on-foot/",
-          "titre": "Rockstar reveals some of GTA 6’s radio stations, says players can now listen to the radio and podcasts on foot"
+          "url": "https://www.videogameschronicle.com/news/35-of-sonys-wolverine-launch-sales-were-the-disc-version-data-suggests/",
+          "titre": "35% of Sony’s Wolverine launch sales were the disc version, data suggests"
+        }
+      ]
+    },
+    {
+      "id": "dave-the-diver-s-final-dlc-is-the-perfect-crossover",
+      "titre": "Dave The Diver's Final DLC Is The Perfect Crossover",
+      "url": "https://www.nintendolife.com/news/2026/10/dave-the-divers-final-dlc-is-the-perfect-crossover",
+      "sources": [
+        "Nintendo Life",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 1.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/dave-the-divers-final-dlc-is-the-perfect-crossover",
+          "titre": "Dave The Diver's Final DLC Is The Perfect Crossover"
         },
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/gta-6-in-game-radio-stations-announced-and-you-can-preview-them-right-now",
-          "titre": "GTA 6 In-Game Radio Stations Announced, and You Can Preview Them Right Now"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/dave-the-diver-is-wrapping-up-its-dlc-plans-with-an-aquatically-appropriate-subnautica-2-collab",
+          "titre": "Dave the Diver is wrapping up its DLC plans with an aquatically appropriate Subnautica 2 collab"
         }
       ]
     },
@@ -114,7 +210,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 9,
       "liens": [
         {
@@ -130,54 +226,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ace-combat-8-is-the-fastest-selling-entry-in-the-series-afte",
-      "titre": "Ace Combat 8 is the fastest selling entry in the series after hitting 1 million sales",
-      "url": "https://www.videogameschronicle.com/news/ace-combat-8-is-the-fastest-selling-entry-in-the-series-after-hitting-1-million-sales/",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 2.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/ace-combat-8-is-the-fastest-selling-entry-in-the-series-after-hitting-1-million-sales/",
-          "titre": "Ace Combat 8 is the fastest selling entry in the series after hitting 1 million sales"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ace-combat-8-has-sold-one-million-copies-faster-than-any-previous-entry-in-the-series",
-          "titre": "Ace Combat 8 Has Sold One Million Copies Faster Than Any Previous Entry in the Series"
-        }
-      ]
-    },
-    {
-      "id": "witcher-3-remastered-switch-2-update-to-improve-image-clarit",
-      "titre": "Witcher 3 Remastered Switch 2 Update To Improve \"Image Clarity And Sharpness\"",
-      "url": "https://www.nintendolife.com/news/2026/10/witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 11.7,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness",
-          "titre": "Witcher 3 Remastered Switch 2 Update To Improve \"Image Clarity And Sharpness\""
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-remastered-patch-bloom-console-performance-switch-2",
-          "titre": "Witcher 3 Remastered patch rolls out on PC and console, with separate Switch 2 patch earmarked to address blurry visuals"
-        }
-      ]
-    },
-    {
       "id": "rockstar-hunted-gta-6-leaker-seemingly-strikes-again-showing",
       "titre": "Rockstar-hunted GTA 6 leaker seemingly strikes again, showing off series' most plentiful helping of onscreen johnson since San Andreas starred Carl",
       "url": "https://www.rockpapershotgun.com/rockstar-hunted-gta-6-leaker-seemingly-strikes-again-showing-off-series-most-plentiful-helping-of-onscreen-johnson-since-san-andreas-starred-carl",
@@ -185,13 +233,37 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.2,
+      "heures": 23.1,
       "chaleur": 9,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/rockstar-hunted-gta-6-leaker-seemingly-strikes-again-showing-off-series-most-plentiful-helping-of-onscreen-johnson-since-san-andreas-starred-carl",
           "titre": "Rockstar-hunted GTA 6 leaker seemingly strikes again, showing off series' most plentiful helping of onscreen johnson since San Andreas starred Carl"
+        }
+      ]
+    },
+    {
+      "id": "for-the-first-time-in-the-series-grand-theft-auto-6-lets-you",
+      "titre": "For the first time in the series, Grand Theft Auto 6 lets you use headphones to listen to radio stations and podcasts",
+      "url": "https://www.eurogamer.net/gta-6-headpones-earbuds-radio-podcasts",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 23.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-headpones-earbuds-radio-podcasts",
+          "titre": "For the first time in the series, Grand Theft Auto 6 lets you use headphones to listen to radio stations and podcasts"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/rockstar-reveals-some-of-gta-6s-radio-stations-says-players-can-now-listen-to-the-radio-and-podcasts-on-foot/",
+          "titre": "Rockstar reveals some of GTA 6’s radio stations, says players can now listen to the radio and podcasts on foot"
         }
       ]
     },
@@ -203,7 +275,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 8,
       "liens": [
         {
@@ -221,7 +293,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.4,
       "chaleur": 8,
       "liens": [
         {
@@ -232,20 +304,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gameplay-footage-from-cancelled-xbox-perfect-dark-game-leaks",
-      "titre": "Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good",
-      "url": "https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak",
+      "id": "witcher-3-remastered-switch-2-update-to-improve-image-clarit",
+      "titre": "Witcher 3 Remastered Switch 2 Update To Improve \"Image Clarity And Sharpness\"",
+      "url": "https://www.nintendolife.com/news/2026/10/witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness",
       "sources": [
-        "Eurogamer"
+        "Eurogamer",
+        "Nintendo Life"
       ],
-      "reprises": 1,
-      "heures": 27.5,
+      "reprises": 2,
+      "heures": 13.7,
       "chaleur": 8,
       "liens": [
         {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness",
+          "titre": "Witcher 3 Remastered Switch 2 Update To Improve \"Image Clarity And Sharpness\""
+        },
+        {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak",
-          "titre": "Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good"
+          "url": "https://www.eurogamer.net/witcher-3-remastered-patch-bloom-console-performance-switch-2",
+          "titre": "Witcher 3 Remastered patch rolls out on PC and console, with separate Switch 2 patch earmarked to address blurry visuals"
         }
       ]
     },
@@ -257,7 +335,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.0,
+      "heures": 11.9,
       "chaleur": 7,
       "liens": [
         {
@@ -322,6 +400,132 @@ const VEILLE = {
       ]
     },
     {
+      "id": "the-galaxies-showcase-returns-next-week-here-s-how-to-watch",
+      "titre": "The Galaxies Showcase returns next week: here's how to watch it and what to expect",
+      "url": "https://www.eurogamer.net/galaxies-showcase-2026-how-where-to-watch",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/galaxies-showcase-2026-how-where-to-watch",
+          "titre": "The Galaxies Showcase returns next week: here's how to watch it and what to expect"
+        }
+      ]
+    },
+    {
+      "id": "draw-maps-of-a-vampiric-lighthouse-that-defies-logic-in-this",
+      "titre": "Draw maps of a vampiric lighthouse that defies logic in This Is Not For You, the latest horror game inspired by House of Leaves",
+      "url": "https://www.rockpapershotgun.com/draw-maps-of-a-vampiric-lighthouse-that-defies-logic-in-this-is-not-for-you-the-latest-horror-game-inspired-by-house-of-leaves",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/draw-maps-of-a-vampiric-lighthouse-that-defies-logic-in-this-is-not-for-you-the-latest-horror-game-inspired-by-house-of-leaves",
+          "titre": "Draw maps of a vampiric lighthouse that defies logic in This Is Not For You, the latest horror game inspired by House of Leaves"
+        }
+      ]
+    },
+    {
+      "id": "gears-of-war-e-day-review-a-hole-new-world-that-grubs-me-up",
+      "titre": "Gears of War E-Day review: a hole new world that grubs me up in all the right ways",
+      "url": "https://www.eurogamer.net/gears-of-war-eday-review",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gears-of-war-eday-review",
+          "titre": "Gears of War E-Day review: a hole new world that grubs me up in all the right ways"
+        }
+      ]
+    },
+    {
+      "id": "how-to-get-planks-and-sheet-metal-in-arc-raiders",
+      "titre": "How to get planks and sheet metal in Arc Raiders",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-planks-sheet-metal-location/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-planks-sheet-metal-location/",
+          "titre": "How to get planks and sheet metal in Arc Raiders"
+        }
+      ]
+    },
+    {
+      "id": "more-cox-in-video-games-as-daredevil-and-clair-obscur-star-s",
+      "titre": "More Cox in video games as Daredevil and Clair Obscur star says he's in an unannounced Sega title",
+      "url": "https://www.eurogamer.net/charlie-cox-unannounced-sega-game-clair-obscur-daredevil",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/charlie-cox-unannounced-sega-game-clair-obscur-daredevil",
+          "titre": "More Cox in video games as Daredevil and Clair Obscur star says he's in an unannounced Sega title"
+        }
+      ]
+    },
+    {
+      "id": "does-razer-s-perfect-180-insta-turning-mouse-feature-count-a",
+      "titre": "Does Razer's 'Perfect 180' insta-turning mouse feature count as cheating? You decide",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/does-razers-perfect-180-insta-turning-mouse-feature-count-as-cheating-you-decide/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/does-razers-perfect-180-insta-turning-mouse-feature-count-as-cheating-you-decide/",
+          "titre": "Does Razer's 'Perfect 180' insta-turning mouse feature count as cheating? You decide"
+        }
+      ]
+    },
+    {
+      "id": "ea-sports-fc-27-review",
+      "titre": "EA Sports FC 27 review",
+      "url": "https://www.eurogamer.net/ea-sports-fc-27-review",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ea-sports-fc-27-review",
+          "titre": "EA Sports FC 27 review"
+        }
+      ]
+    },
+    {
       "id": "new-razer-basilisk-v4-executes-perfect-180-degree-turns-at-t",
       "titre": "New Razer Basilisk V4 executes perfect 180 degree turns at the click of a button, all while looking like a Power Ranger's foot",
       "url": "https://www.pcgamer.com/hardware/gaming-mice/new-razer-basilisk-v4-executes-perfect-180-degree-turns-at-the-click-of-a-button-all-while-looking-like-a-power-rangers-foot/",
@@ -329,7 +533,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -347,7 +551,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -365,31 +569,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/ghost-of-tsushimas-anime-series-has-been-pushed-back-to-2028",
           "titre": "Ghost of Tsushima's Anime Series Has Been Pushed Back to 2028"
-        }
-      ]
-    },
-    {
-      "id": "how-to-complete-to-the-skies-in-arc-raiders",
-      "titre": "How to complete To the Skies in Arc Raiders",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-to-the-skies-walkthrough/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-to-the-skies-walkthrough/",
-          "titre": "How to complete To the Skies in Arc Raiders"
         }
       ]
     },
@@ -401,7 +587,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -419,7 +605,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -437,7 +623,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -455,145 +641,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/another-ps-portal-firmware-update-is-now-available-just-two-weeks-after-the-last",
           "titre": "Another PS Portal Firmware Update Is Now Available, Just Two Weeks After the Last"
-        }
-      ]
-    },
-    {
-      "id": "intel-to-release-new-cpus-on-old-socket-in-early-2027-says-g",
-      "titre": "Intel to release new CPUs on old socket in early 2027 says Gigabyte - memory crisis making DDR4 desirable again",
-      "url": "https://www.pcgamer.com/hardware/processors/intel-to-release-new-cpus-on-old-socket-in-early-2027-says-gigabyte-memory-crisis-making-ddr4-desirable-again/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/processors/intel-to-release-new-cpus-on-old-socket-in-early-2027-says-gigabyte-memory-crisis-making-ddr4-desirable-again/",
-          "titre": "Intel to release new CPUs on old socket in early 2027 says Gigabyte - memory crisis making DDR4 desirable again"
-        }
-      ]
-    },
-    {
-      "id": "peter-molyneux-explains-the-origin-story-of-black-white-s-fa",
-      "titre": "Peter Molyneux explains the origin story of Black & White's famous creatures: 'It was originally a monster. It wasn't a cute creature'",
-      "url": "https://www.pcgamer.com/games/strategy/peter-molyneux-explains-the-origin-story-of-black-and-whites-famous-creatures-it-was-originally-a-monster-it-wasnt-a-cute-creature/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/peter-molyneux-explains-the-origin-story-of-black-and-whites-famous-creatures-it-was-originally-a-monster-it-wasnt-a-cute-creature/",
-          "titre": "Peter Molyneux explains the origin story of Black & White's famous creatures: 'It was originally a monster. It wasn't a cute creature'"
-        }
-      ]
-    },
-    {
-      "id": "timeloop-metroidvania-echo-weaver-is-the-brave-game-that-loc",
-      "titre": "Timeloop metroidvania Echo Weaver is the brave game that locks almost nothing off and challenges you to break it",
-      "url": "https://www.rockpapershotgun.com/timeloop-metroidvania-echo-weaver-is-the-brave-game-that-locks-almost-nothing-off-and-challenges-you-to-break-it",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/timeloop-metroidvania-echo-weaver-is-the-brave-game-that-locks-almost-nothing-off-and-challenges-you-to-break-it",
-          "titre": "Timeloop metroidvania Echo Weaver is the brave game that locks almost nothing off and challenges you to break it"
-        }
-      ]
-    },
-    {
-      "id": "after-the-first-seven-leisure-suit-larry-games-were-delisted",
-      "titre": "After the first seven Leisure Suit Larry games were delisted last year, the last two are joining them",
-      "url": "https://www.videogameschronicle.com/news/after-the-first-seven-leisure-suit-larry-games-were-delisted-last-year-the-last-two-are-joining-them/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/after-the-first-seven-leisure-suit-larry-games-were-delisted-last-year-the-last-two-are-joining-them/",
-          "titre": "After the first seven Leisure Suit Larry games were delisted last year, the last two are joining them"
-        }
-      ]
-    },
-    {
-      "id": "avalanche-studio-group-to-globally-publish-market-and-distri",
-      "titre": "Avalanche Studio Group to globally publish, market, and distribute titles from Supermassive Games",
-      "url": "https://www.gamesindustry.biz/avalanche-studio-group-to-globally-publish-market-and-distribute-titles-from-supermassive-games",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/avalanche-studio-group-to-globally-publish-market-and-distribute-titles-from-supermassive-games",
-          "titre": "Avalanche Studio Group to globally publish, market, and distribute titles from Supermassive Games"
-        }
-      ]
-    },
-    {
-      "id": "tropico-7-officially-confirmed-for-switch-2-out-2027",
-      "titre": "Tropico 7 Officially Confirmed For Switch 2, Out 2027",
-      "url": "https://www.nintendolife.com/news/2026/10/tropico-7-officially-confirmed-for-switch-2-out-2027",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/tropico-7-officially-confirmed-for-switch-2-out-2027",
-          "titre": "Tropico 7 Officially Confirmed For Switch 2, Out 2027"
-        }
-      ]
-    },
-    {
-      "id": "how-to-start-the-dragon-s-dogma-2-dark-arisen-expansion",
-      "titre": "How to start the Dragon's Dogma 2: Dark Arisen expansion",
-      "url": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-how-to-start-dark-arisen/",
-      "sources": [
-        "Nintendo Life",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 15.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-how-to-start-dark-arisen/",
-          "titre": "How to start the Dragon's Dogma 2: Dark Arisen expansion"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-dragons-dogma-2-dark-arisen-are-in",
-          "titre": "Round Up: The Reviews For Dragon's Dogma 2: Dark Arisen Are In"
         }
       ]
     },
@@ -605,85 +659,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/jason-may-or-may-not-appear-fully-nude-in-gta-6-but-either-way-weve-now-seen-his-dong/",
           "titre": "Jason may or may not appear fully nude in GTA 6, but either way we've now seen his dong"
-        }
-      ]
-    },
-    {
-      "id": "dave-the-diver-is-wrapping-up-its-dlc-plans-with-an-aquatica",
-      "titre": "Dave the Diver is wrapping up its DLC plans with an aquatically appropriate Subnautica 2 collab",
-      "url": "https://www.rockpapershotgun.com/dave-the-diver-is-wrapping-up-its-dlc-plans-with-an-aquatically-appropriate-subnautica-2-collab",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 17.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/dave-the-diver-is-wrapping-up-its-dlc-plans-with-an-aquatically-appropriate-subnautica-2-collab",
-          "titre": "Dave the Diver is wrapping up its DLC plans with an aquatically appropriate Subnautica 2 collab"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/adventure/subnautica-2-fans-can-finally-hunt-and-kill-those-pesky-nibbler-mangos-in-dave-the-divers-crossover-dlc/",
-          "titre": "Subnautica 2 fans can finally hunt and kill those pesky Nibbler Mangos—in Dave the Diver's crossover DLC"
-        }
-      ]
-    },
-    {
-      "id": "europe-shows-up-for-physical-games-51-of-wolverine-s-ps5-sal",
-      "titre": "Europe Shows Up for Physical Games, 51% of Wolverine's PS5 Sales for Disc Version",
-      "url": "https://www.pushsquare.com/news/2026/10/europe-shows-up-for-physical-games-51percent-of-wolverines-ps5-sales-for-disc-version",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 20.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/europe-shows-up-for-physical-games-51percent-of-wolverines-ps5-sales-for-disc-version",
-          "titre": "Europe Shows Up for Physical Games, 51% of Wolverine's PS5 Sales for Disc Version"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/35-of-sonys-wolverine-launch-sales-were-the-disc-version-data-suggests/",
-          "titre": "35% of Sony’s Wolverine launch sales were the disc version, data suggests"
-        }
-      ]
-    },
-    {
-      "id": "i-enjoy-how-hellraiser-revival-s-real-life-bondage-club-make",
-      "titre": "I enjoy how Hellraiser: Revival's 'real-life' bondage club makes the rest of Hellraiser: Revival feel kind of embarrassing",
-      "url": "https://www.rockpapershotgun.com/i-enjoy-how-hellraiser-revivals-real-life-bondage-club-makes-the-rest-of-hellraiser-revival-feel-kind-of-embarrassing",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 22.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-enjoy-how-hellraiser-revivals-real-life-bondage-club-makes-the-rest-of-hellraiser-revival-feel-kind-of-embarrassing",
-          "titre": "I enjoy how Hellraiser: Revival's 'real-life' bondage club makes the rest of Hellraiser: Revival feel kind of embarrassing"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/hellraiser-revival-review",
-          "titre": "Hellraiser: Revival review"
         }
       ]
     },
@@ -695,7 +677,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.0,
+      "heures": 24.9,
       "chaleur": 6,
       "liens": [
         {
@@ -713,7 +695,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.2,
+      "heures": 26.2,
       "chaleur": 6,
       "liens": [
         {
@@ -731,13 +713,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.3,
+      "heures": 26.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta-6-frontal-nudity-dirt-biking-dev-menu-leak",
           "titre": "Full-frontal nudity, dirt-biking, and a dev menu: GTA 6's infamous leaker is back with the most X-rated look at the game yet"
+        }
+      ]
+    },
+    {
+      "id": "tropico-7-officially-confirmed-for-switch-2-out-2027",
+      "titre": "Tropico 7 Officially Confirmed For Switch 2, Out 2027",
+      "url": "https://www.nintendolife.com/news/2026/10/tropico-7-officially-confirmed-for-switch-2-out-2027",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/tropico-7-officially-confirmed-for-switch-2-out-2027",
+          "titre": "Tropico 7 Officially Confirmed For Switch 2, Out 2027"
         }
       ]
     },
@@ -749,7 +749,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.5,
       "chaleur": 5,
       "liens": [
         {
@@ -767,7 +767,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 19.0,
+      "heures": 20.9,
       "chaleur": 5,
       "liens": [
         {
@@ -785,7 +785,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.2,
+      "heures": 22.2,
       "chaleur": 5,
       "liens": [
         {
@@ -803,7 +803,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.6,
+      "heures": 25.5,
       "chaleur": 5,
       "liens": [
         {
@@ -821,7 +821,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 24.1,
+      "heures": 26.1,
       "chaleur": 5,
       "liens": [
         {
@@ -839,7 +839,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.0,
+      "heures": 28.0,
       "chaleur": 5,
       "liens": [
         {
@@ -850,20 +850,110 @@ const VEILLE = {
       ]
     },
     {
-      "id": "star-wars-zero-company-studio-start-to-bring-back-devs-furlo",
-      "titre": "Star Wars Zero Company studio start to bring back devs furloughed prior to launch, with \"more than half\" of previous headcount reportedly returning to payroll",
-      "url": "https://www.rockpapershotgun.com/star-wars-zero-company-studio-start-to-bring-back-devs-furloughed-prior-to-launch-with-more-than-half-of-previous-headcount-reportedly-returning-to-payroll",
+      "id": "intel-to-release-new-cpus-on-old-socket-in-early-2027-says-g",
+      "titre": "Intel to release new CPUs on old socket in early 2027 says Gigabyte - memory crisis making DDR4 desirable again",
+      "url": "https://www.pcgamer.com/hardware/processors/intel-to-release-new-cpus-on-old-socket-in-early-2027-says-gigabyte-memory-crisis-making-ddr4-desirable-again/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/processors/intel-to-release-new-cpus-on-old-socket-in-early-2027-says-gigabyte-memory-crisis-making-ddr4-desirable-again/",
+          "titre": "Intel to release new CPUs on old socket in early 2027 says Gigabyte - memory crisis making DDR4 desirable again"
+        }
+      ]
+    },
+    {
+      "id": "peter-molyneux-explains-the-origin-story-of-black-white-s-fa",
+      "titre": "Peter Molyneux explains the origin story of Black & White's famous creatures: 'It was originally a monster. It wasn't a cute creature'",
+      "url": "https://www.pcgamer.com/games/strategy/peter-molyneux-explains-the-origin-story-of-black-and-whites-famous-creatures-it-was-originally-a-monster-it-wasnt-a-cute-creature/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/peter-molyneux-explains-the-origin-story-of-black-and-whites-famous-creatures-it-was-originally-a-monster-it-wasnt-a-cute-creature/",
+          "titre": "Peter Molyneux explains the origin story of Black & White's famous creatures: 'It was originally a monster. It wasn't a cute creature'"
+        }
+      ]
+    },
+    {
+      "id": "timeloop-metroidvania-echo-weaver-is-the-brave-game-that-loc",
+      "titre": "Timeloop metroidvania Echo Weaver is the brave game that locks almost nothing off and challenges you to break it",
+      "url": "https://www.rockpapershotgun.com/timeloop-metroidvania-echo-weaver-is-the-brave-game-that-locks-almost-nothing-off-and-challenges-you-to-break-it",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 27.1,
-      "chaleur": 5,
+      "heures": 4.9,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/star-wars-zero-company-studio-start-to-bring-back-devs-furloughed-prior-to-launch-with-more-than-half-of-previous-headcount-reportedly-returning-to-payroll",
-          "titre": "Star Wars Zero Company studio start to bring back devs furloughed prior to launch, with \"more than half\" of previous headcount reportedly returning to payroll"
+          "url": "https://www.rockpapershotgun.com/timeloop-metroidvania-echo-weaver-is-the-brave-game-that-locks-almost-nothing-off-and-challenges-you-to-break-it",
+          "titre": "Timeloop metroidvania Echo Weaver is the brave game that locks almost nothing off and challenges you to break it"
+        }
+      ]
+    },
+    {
+      "id": "after-the-first-seven-leisure-suit-larry-games-were-delisted",
+      "titre": "After the first seven Leisure Suit Larry games were delisted last year, the last two are joining them",
+      "url": "https://www.videogameschronicle.com/news/after-the-first-seven-leisure-suit-larry-games-were-delisted-last-year-the-last-two-are-joining-them/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/after-the-first-seven-leisure-suit-larry-games-were-delisted-last-year-the-last-two-are-joining-them/",
+          "titre": "After the first seven Leisure Suit Larry games were delisted last year, the last two are joining them"
+        }
+      ]
+    },
+    {
+      "id": "avalanche-studio-group-to-globally-publish-market-and-distri",
+      "titre": "Avalanche Studio Group to globally publish, market, and distribute titles from Supermassive Games",
+      "url": "https://www.gamesindustry.biz/avalanche-studio-group-to-globally-publish-market-and-distribute-titles-from-supermassive-games",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/avalanche-studio-group-to-globally-publish-market-and-distribute-titles-from-supermassive-games",
+          "titre": "Avalanche Studio Group to globally publish, market, and distribute titles from Supermassive Games"
+        }
+      ]
+    },
+    {
+      "id": "anomalith-s-new-ps5-demo-is-a-scrappy-throwback-to-classic-r",
+      "titre": "ANOMALITH's New PS5 Demo Is a Scrappy Throwback to Classic Resident Evil",
+      "url": "https://www.pushsquare.com/news/2026/10/anomaliths-new-ps5-demo-is-a-scrappy-throwback-to-classic-resident-evil",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 6.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/anomaliths-new-ps5-demo-is-a-scrappy-throwback-to-classic-resident-evil",
+          "titre": "ANOMALITH's New PS5 Demo Is a Scrappy Throwback to Classic Resident Evil"
         }
       ]
     },
@@ -875,31 +965,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/rumour-pokemon-themed-mystery-lego-bags-are-supposedly-on-the-way",
           "titre": "Rumour: Pokémon-Themed Mystery LEGO Bags Are Supposedly On The Way"
-        }
-      ]
-    },
-    {
-      "id": "if-you-like-scrappy-old-resident-evil-games-i-recommend-anom",
-      "titre": "If You Like Scrappy Old Resident Evil Games, I Recommend ANOMALITH's PS5 Demo",
-      "url": "https://www.pushsquare.com/news/2026/10/if-you-like-scrappy-old-resident-evil-games-i-recommend-anomaliths-ps5-demo",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/if-you-like-scrappy-old-resident-evil-games-i-recommend-anomaliths-ps5-demo",
-          "titre": "If You Like Scrappy Old Resident Evil Games, I Recommend ANOMALITH's PS5 Demo"
         }
       ]
     },
@@ -911,7 +983,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +1001,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.5,
       "chaleur": 3,
       "liens": [
         {
@@ -947,7 +1019,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 3,
       "liens": [
         {
@@ -965,13 +1037,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-refuses-to-let-world-of-warcraft-forevers-dungeons-become-the-fastest-way-to-grind-xp-we-need-to-hold-firm-on-these-balance-adjustments/",
           "titre": "Blizzard refuses to let World of Warcraft: Forever's dungeons become the fastest way to grind XP: 'We need to hold firm on these balance adjustments'"
+        }
+      ]
+    },
+    {
+      "id": "how-to-start-the-dragon-s-dogma-2-dark-arisen-expansion",
+      "titre": "How to start the Dragon's Dogma 2: Dark Arisen expansion",
+      "url": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-how-to-start-dark-arisen/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 17.4,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-how-to-start-dark-arisen/",
+          "titre": "How to start the Dragon's Dogma 2: Dark Arisen expansion"
         }
       ]
     },
@@ -983,7 +1073,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,31 +1091,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.2,
+      "heures": 19.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/ps5-console-exclusive-prison-of-husks-looks-like-a-soulslike-with-ps2-presentation",
           "titre": "PS5 Console Exclusive PRISON OF HUSKS Looks Like a Soulslike with PS2 Presentation"
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-remastered-s-latest-patch-brings-some-bloomin",
-      "titre": "The Witcher 3 Remastered's latest patch brings some bloomin' improvements to the game's bloom problems, amongst other lighting buffs",
-      "url": "https://www.rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-brings-some-bloomin-improvements-to-the-games-bloom-problems-amongst-other-lighting-buffs",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 18.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-brings-some-bloomin-improvements-to-the-games-bloom-problems-amongst-other-lighting-buffs",
-          "titre": "The Witcher 3 Remastered's latest patch brings some bloomin' improvements to the game's bloom problems, amongst other lighting buffs"
         }
       ]
     },
@@ -1037,7 +1109,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1055,7 +1127,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.5,
+      "heures": 20.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1073,7 +1145,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.5,
+      "heures": 20.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1091,7 +1163,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.7,
+      "heures": 20.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1100,81 +1172,9 @@ const VEILLE = {
           "titre": "Clair Obscur: Expedition 33 Comes To Astral Ascent In New Crossover Update"
         }
       ]
-    },
-    {
-      "id": "prospice-anomalous-logistics-is-snowrunner-except-instead-of",
-      "titre": "Prospice: Anomalous Logistics is SnowRunner except instead of lengths of copper pipe, you're transporting the body parts of eldritch gods",
-      "url": "https://www.rockpapershotgun.com/prospice-anomalous-logistics-is-snowrunner-except-instead-of-lengths-of-copper-pipe-youre-transporting-the-body-parts-of-eldritch-gods",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 19.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/prospice-anomalous-logistics-is-snowrunner-except-instead-of-lengths-of-copper-pipe-youre-transporting-the-body-parts-of-eldritch-gods",
-          "titre": "Prospice: Anomalous Logistics is SnowRunner except instead of lengths of copper pipe, you're transporting the body parts of eldritch gods"
-        }
-      ]
-    },
-    {
-      "id": "mafia-3-definitive-edition-s-native-60fps-ps5-upgrade-is-out",
-      "titre": "Mafia 3: Definitive Edition's Native 60fps PS5 Upgrade Is Out Now, Free for Existing Owners",
-      "url": "https://www.pushsquare.com/news/2026/10/mafia-3-definitive-editions-native-60fps-ps5-upgrade-is-out-now-free-for-existing-owners",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 19.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/mafia-3-definitive-editions-native-60fps-ps5-upgrade-is-out-now-free-for-existing-owners",
-          "titre": "Mafia 3: Definitive Edition's Native 60fps PS5 Upgrade Is Out Now, Free for Existing Owners"
-        }
-      ]
-    },
-    {
-      "id": "it-s-clear-that-we-both-adore-one-another-s-games-a-lot-dav",
-      "titre": "\"It's clear that we both adore one another's games a lot\" - Dave the Diver and Subnautica 2 team up for a crossover made in heaven",
-      "url": "https://www.eurogamer.net/dave-the-diver-final-dlc-subnautica-2-crossover",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 19.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dave-the-diver-final-dlc-subnautica-2-crossover",
-          "titre": "\"It's clear that we both adore one another's games a lot\" - Dave the Diver and Subnautica 2 team up for a crossover made in heaven"
-        }
-      ]
-    },
-    {
-      "id": "lazare-s-sacrifice-is-a-narrative-deckbuilder-made-with-gwen",
-      "titre": "Lazare’s Sacrifice is a narrative deckbuilder made with Gwent's creator about avoiding the guillotine during the French Revolution",
-      "url": "https://www.rockpapershotgun.com/lazares-sacrifice-is-a-narrative-deckbuilder-made-with-gwents-creator-about-avoiding-the-guillotine-during-the-french-revolution",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 19.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/lazares-sacrifice-is-a-narrative-deckbuilder-made-with-gwents-creator-about-avoiding-the-guillotine-during-the-french-revolution",
-          "titre": "Lazare’s Sacrifice is a narrative deckbuilder made with Gwent's creator about avoiding the guillotine during the French Revolution"
-        }
-      ]
     }
   ],
   "alertes": [
-    "Live-action Cyberpunk 2077 film reportedly in development, with CD Projekt Red collaborating with Paramount to make it"
+    "Paramount Pictures adapting live-action movie set in Cyberpunk 2077 universe, co-produced by CD Projekt Red"
   ]
 };
