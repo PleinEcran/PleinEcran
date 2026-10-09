@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "08/10/2026 à 22h22",
+  "collecte": "09/10/2026 à 00h35",
   "seuil": 14,
   "sujets": [
     {
@@ -13,7 +13,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 7.3,
+      "heures": 9.5,
       "chaleur": 13,
       "liens": [
         {
@@ -34,36 +34,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "all-hail-brand-synergy-cyberpunk-2077-is-getting-a-live-acti",
-      "titre": "All hail brand synergy, Cyberpunk 2077 is getting a live action adaptation from Paramount and the producer behind the horrendous Doom movie",
-      "url": "https://www.rockpapershotgun.com/all-hail-brand-synergy-cyberpunk-2077-is-getting-a-live-action-adaptation-from-paramount-and-the-producer-behind-the-horrendous-doom-movie",
-      "sources": [
-        "Push Square",
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 1.9,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/all-hail-brand-synergy-cyberpunk-2077-is-getting-a-live-action-adaptation-from-paramount-and-the-producer-behind-the-horrendous-doom-movie",
-          "titre": "All hail brand synergy, Cyberpunk 2077 is getting a live action adaptation from Paramount and the producer behind the horrendous Doom movie"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-is-the-next-game-set-for-a-live-action-film",
-          "titre": "Cyberpunk 2077 Is the Next Game Set for a Live-Action Film"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/cyberpunk-2077-is-getting-a-live-action-movie-from-paramount/",
-          "titre": "Cyberpunk 2077 is getting a live-action movie from Paramount"
-        }
-      ]
-    },
-    {
       "id": "star-wars-zero-company-studio-start-to-bring-back-devs-furlo",
       "titre": "Star Wars Zero Company studio start to bring back devs furloughed prior to launch, with \"more than half\" of previous headcount reportedly returning to payroll",
       "url": "https://www.rockpapershotgun.com/star-wars-zero-company-studio-start-to-bring-back-devs-furloughed-prior-to-launch-with-more-than-half-of-previous-headcount-reportedly-returning-to-payroll",
@@ -73,7 +43,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 13.1,
+      "heures": 15.3,
       "chaleur": 11,
       "liens": [
         {
@@ -94,6 +64,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "all-hail-brand-synergy-cyberpunk-2077-is-getting-a-live-acti",
+      "titre": "All hail brand synergy, Cyberpunk 2077 is getting a live action adaptation from Paramount and the producer behind the horrendous Doom movie",
+      "url": "https://www.rockpapershotgun.com/all-hail-brand-synergy-cyberpunk-2077-is-getting-a-live-action-adaptation-from-paramount-and-the-producer-behind-the-horrendous-doom-movie",
+      "sources": [
+        "Push Square",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 4.1,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/all-hail-brand-synergy-cyberpunk-2077-is-getting-a-live-action-adaptation-from-paramount-and-the-producer-behind-the-horrendous-doom-movie",
+          "titre": "All hail brand synergy, Cyberpunk 2077 is getting a live action adaptation from Paramount and the producer behind the horrendous Doom movie"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-is-the-next-game-set-for-a-live-action-film",
+          "titre": "Cyberpunk 2077 Is the Next Game Set for a Live-Action Film"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/cyberpunk-2077-is-getting-a-live-action-movie-from-paramount/",
+          "titre": "Cyberpunk 2077 is getting a live-action movie from Paramount"
+        }
+      ]
+    },
+    {
       "id": "rockstar-hunted-gta-6-leaker-seemingly-strikes-again-showing",
       "titre": "Rockstar-hunted GTA 6 leaker seemingly strikes again, showing off series' most plentiful helping of onscreen johnson since San Andreas starred Carl",
       "url": "https://www.rockpapershotgun.com/rockstar-hunted-gta-6-leaker-seemingly-strikes-again-showing-off-series-most-plentiful-helping-of-onscreen-johnson-since-san-andreas-starred-carl",
@@ -101,7 +101,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.3,
       "chaleur": 10,
       "liens": [
         {
@@ -120,7 +120,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 1.4,
+      "heures": 3.6,
       "chaleur": 9,
       "liens": [
         {
@@ -136,6 +136,48 @@ const VEILLE = {
       ]
     },
     {
+      "id": "as-it-lays-off-developers-and-closes-studios-xbox-gets-into",
+      "titre": "As it lays off developers and closes studios, Xbox gets into the movie business",
+      "url": "https://www.pcgamer.com/gaming-industry/as-it-lays-off-developers-and-closes-studios-xbox-gets-into-the-movie-business/",
+      "sources": [
+        "GamesIndustry.biz",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 8.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/as-it-lays-off-developers-and-closes-studios-xbox-gets-into-the-movie-business/",
+          "titre": "As it lays off developers and closes studios, Xbox gets into the movie business"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding",
+          "titre": "Gravity Well lays off more than 40 developers after losing its funding"
+        }
+      ]
+    },
+    {
+      "id": "gameplay-footage-from-cancelled-xbox-perfect-dark-game-leaks",
+      "titre": "Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good",
+      "url": "https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 15.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak",
+          "titre": "Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good"
+        }
+      ]
+    },
+    {
       "id": "jason-may-or-may-not-appear-fully-nude-in-gta-6-but-either-w",
       "titre": "Jason may or may not appear fully nude in GTA 6, but either way we've now seen his dong",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/jason-may-or-may-not-appear-fully-nude-in-gta-6-but-either-way-weve-now-seen-his-dong/",
@@ -143,8 +185,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 9,
+      "heures": 4.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -162,8 +204,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 3.3,
-      "chaleur": 9,
+      "heures": 5.5,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -178,66 +220,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "as-it-lays-off-developers-and-closes-studios-xbox-gets-into",
-      "titre": "As it lays off developers and closes studios, Xbox gets into the movie business",
-      "url": "https://www.pcgamer.com/gaming-industry/as-it-lays-off-developers-and-closes-studios-xbox-gets-into-the-movie-business/",
-      "sources": [
-        "GamesIndustry.biz",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 6.1,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/as-it-lays-off-developers-and-closes-studios-xbox-gets-into-the-movie-business/",
-          "titre": "As it lays off developers and closes studios, Xbox gets into the movie business"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding",
-          "titre": "Gravity Well lays off more than 40 developers after losing its funding"
-        }
-      ]
-    },
-    {
-      "id": "vampire-games-on-steam-are-a-recession-indicator-and-i-have",
-      "titre": "Vampire games on Steam are a recession indicator and I have the charts to prove it",
-      "url": "https://www.pcgamer.com/games/vampire-games-on-steam-are-a-recession-indicator-and-i-have-the-charts-to-prove-it/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/vampire-games-on-steam-are-a-recession-indicator-and-i-have-the-charts-to-prove-it/",
-          "titre": "Vampire games on Steam are a recession indicator and I have the charts to prove it"
-        }
-      ]
-    },
-    {
-      "id": "gameplay-footage-from-cancelled-xbox-perfect-dark-game-leaks",
-      "titre": "Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good",
-      "url": "https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 13.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak",
-          "titre": "Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good"
-        }
-      ]
-    },
-    {
       "id": "forza-horizon-6-officially-dated-for-ps5-alongside-an-expans",
       "titre": "Forza Horizon 6 officially dated for PS5, alongside an expansion",
       "url": "https://www.videogameschronicle.com/news/forza-horizon-6-officially-dated-for-ps5-alongside-an-expansion/",
@@ -246,7 +228,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.4,
+      "heures": 6.6,
       "chaleur": 7,
       "liens": [
         {
@@ -270,7 +252,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 6.4,
+      "heures": 8.6,
       "chaleur": 7,
       "liens": [
         {
@@ -294,7 +276,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 2,
-      "heures": 6.6,
+      "heures": 8.8,
       "chaleur": 7,
       "liens": [
         {
@@ -318,7 +300,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 8.2,
+      "heures": 10.4,
       "chaleur": 7,
       "liens": [
         {
@@ -342,7 +324,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 8.4,
+      "heures": 10.6,
       "chaleur": 7,
       "liens": [
         {
@@ -365,7 +347,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 11.1,
       "chaleur": 7,
       "liens": [
         {
@@ -383,49 +365,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 11.1,
       "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/gta-6-gameplay-leaks-are-back-with-potentially-big-spoilers",
           "titre": "GTA 6 Gameplay Leaks Are Back with Potentially Big Spoilers"
-        }
-      ]
-    },
-    {
-      "id": "following-nintendo-and-sony-s-lead-xbox-is-setting-up-a-divi",
-      "titre": "Following Nintendo and Sony's lead, Xbox is setting up a division exclusively dedicated to movies and non-games partnerships",
-      "url": "https://www.eurogamer.net/xbox-xp-product-partnerships-places-productions",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-xp-product-partnerships-places-productions",
-          "titre": "Following Nintendo and Sony's lead, Xbox is setting up a division exclusively dedicated to movies and non-games partnerships"
-        }
-      ]
-    },
-    {
-      "id": "full-frontal-nudity-dirt-biking-and-a-dev-menu-gta-6-s-infam",
-      "titre": "Full-frontal nudity, dirt-biking, and a dev menu: GTA 6's infamous leaker is back with the most X-rated look at the game yet",
-      "url": "https://www.eurogamer.net/gta-6-frontal-nudity-dirt-biking-dev-menu-leak",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-frontal-nudity-dirt-biking-dev-menu-leak",
-          "titre": "Full-frontal nudity, dirt-biking, and a dev menu: GTA 6's infamous leaker is back with the most X-rated look at the game yet"
         }
       ]
     },
@@ -484,6 +430,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "preview-phantom-blade-zero-is-the-next-truly-essential-ps5-g",
+      "titre": "Preview: Phantom Blade Zero Is the Next Truly Essential PS5 Game",
+      "url": "https://www.pushsquare.com/previews/phantom-blade-zero-is-the-next-truly-essential-ps5-game",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/previews/phantom-blade-zero-is-the-next-truly-essential-ps5-game",
+          "titre": "Preview: Phantom Blade Zero Is the Next Truly Essential PS5 Game"
+        }
+      ]
+    },
+    {
       "id": "you-can-now-sign-up-to-playtest-the-genre-bending-pony-islan",
       "titre": "You can now sign up to playtest the genre-bending Pony Island 2: Panda Circus, and while you're at it the original is free for a few days too",
       "url": "https://www.rockpapershotgun.com/you-can-now-sign-up-to-playtest-the-genre-bending-pony-island-2-panda-circus-and-while-youre-at-it-the-original-is-free-for-a-few-days-too",
@@ -491,7 +455,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -509,7 +473,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -527,7 +491,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -545,7 +509,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -556,38 +520,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ps5-console-exclusive-prison-of-husks-looks-like-a-soulslike",
-      "titre": "PS5 Console Exclusive PRISON OF HUSKS Looks Like a Soulslike with PS2 Presentation",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5-console-exclusive-prison-of-husks-looks-like-a-soulslike-with-ps2-presentation",
+      "id": "vampire-games-on-steam-are-a-recession-indicator-and-i-have",
+      "titre": "Vampire games on Steam are a recession indicator and I have the charts to prove it",
+      "url": "https://www.pcgamer.com/games/vampire-games-on-steam-are-a-recession-indicator-and-i-have-the-charts-to-prove-it/",
       "sources": [
-        "Push Square"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.1,
+      "heures": 4.7,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps5-console-exclusive-prison-of-husks-looks-like-a-soulslike-with-ps2-presentation",
-          "titre": "PS5 Console Exclusive PRISON OF HUSKS Looks Like a Soulslike with PS2 Presentation"
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-remastered-s-latest-patch-brings-some-bloomin",
-      "titre": "The Witcher 3 Remastered's latest patch brings some bloomin' improvements to the game's bloom problems, amongst other lighting buffs",
-      "url": "https://www.rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-brings-some-bloomin-improvements-to-the-games-bloom-problems-amongst-other-lighting-buffs",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-brings-some-bloomin-improvements-to-the-games-bloom-problems-amongst-other-lighting-buffs",
-          "titre": "The Witcher 3 Remastered's latest patch brings some bloomin' improvements to the game's bloom problems, amongst other lighting buffs"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/vampire-games-on-steam-are-a-recession-indicator-and-i-have-the-charts-to-prove-it/",
+          "titre": "Vampire games on Steam are a recession indicator and I have the charts to prove it"
         }
       ]
     },
@@ -599,7 +545,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 7.1,
       "chaleur": 6,
       "liens": [
         {
@@ -617,7 +563,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.3,
       "chaleur": 6,
       "liens": [
         {
@@ -635,7 +581,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.3,
       "chaleur": 6,
       "liens": [
         {
@@ -653,7 +599,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 10.3,
       "chaleur": 6,
       "liens": [
         {
@@ -671,7 +617,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.7,
       "chaleur": 6,
       "liens": [
         {
@@ -682,38 +628,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-announces-new-xp-division-to-deliver-transmedia-spinoff",
-      "titre": "Xbox announces new XP division to deliver transmedia spinoffs including film, TV, and theme parks",
-      "url": "https://www.gamesindustry.biz/xbox-announces-new-xp-division-to-deliver-transmedia-spinoffs-including-film-tv-and-theme-parks",
+      "id": "following-nintendo-and-sony-s-lead-xbox-is-setting-up-a-divi",
+      "titre": "Following Nintendo and Sony's lead, Xbox is setting up a division exclusively dedicated to movies and non-games partnerships",
+      "url": "https://www.eurogamer.net/xbox-xp-product-partnerships-places-productions",
       "sources": [
-        "GamesIndustry.biz"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.1,
+      "heures": 12.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/xbox-announces-new-xp-division-to-deliver-transmedia-spinoffs-including-film-tv-and-theme-parks",
-          "titre": "Xbox announces new XP division to deliver transmedia spinoffs including film, TV, and theme parks"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-xp-product-partnerships-places-productions",
+          "titre": "Following Nintendo and Sony's lead, Xbox is setting up a division exclusively dedicated to movies and non-games partnerships"
         }
       ]
     },
     {
-      "id": "amd-s-handsome-fsr-4-upscaler-is-coming-to-handheld-pcs-this",
-      "titre": "AMD's handsome FSR 4 upscaler is coming to handheld PCs this year, though Steam Deck support could take longer",
-      "url": "https://www.rockpapershotgun.com/amds-handsome-fsr-4-upscaler-is-coming-to-handheld-pcs-this-year-though-steam-deck-support-could-take-longer",
+      "id": "full-frontal-nudity-dirt-biking-and-a-dev-menu-gta-6-s-infam",
+      "titre": "Full-frontal nudity, dirt-biking, and a dev menu: GTA 6's infamous leaker is back with the most X-rated look at the game yet",
+      "url": "https://www.eurogamer.net/gta-6-frontal-nudity-dirt-biking-dev-menu-leak",
       "sources": [
-        "Rock Paper Shotgun"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 12.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/amds-handsome-fsr-4-upscaler-is-coming-to-handheld-pcs-this-year-though-steam-deck-support-could-take-longer",
-          "titre": "AMD's handsome FSR 4 upscaler is coming to handheld PCs this year, though Steam Deck support could take longer"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-frontal-nudity-dirt-biking-dev-menu-leak",
+          "titre": "Full-frontal nudity, dirt-biking, and a dev menu: GTA 6's infamous leaker is back with the most X-rated look at the game yet"
         }
       ]
     },
@@ -725,7 +671,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 16.2,
       "chaleur": 6,
       "liens": [
         {
@@ -743,7 +689,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 32.4,
+      "heures": 34.6,
       "chaleur": 6,
       "liens": [
         {
@@ -754,26 +700,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "unity-unveils-unity-spark-an-prompt-based-tool-for-google-s",
-      "titre": "Unity unveils Unity Spark, an prompt-based tool for Google's AI game platform",
-      "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
+      "id": "xbox-announces-new-xp-division-to-deliver-transmedia-spinoff",
+      "titre": "Xbox announces new XP division to deliver transmedia spinoffs including film, TV, and theme parks",
+      "url": "https://www.gamesindustry.biz/xbox-announces-new-xp-division-to-deliver-transmedia-spinoffs-including-film-tv-and-theme-parks",
       "sources": [
-        "Game Developer",
         "GamesIndustry.biz"
       ],
-      "reprises": 2,
-      "heures": 34.3,
-      "chaleur": 6,
+      "reprises": 1,
+      "heures": 12.3,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
-          "titre": "Unity unveils Unity Spark, an prompt-based tool for Google's AI game platform"
-        },
-        {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/unity-unveils-a-web-based-ai-game-creation-platform",
-          "titre": "Unity unveils a web-based AI game creation platform"
+          "url": "https://www.gamesindustry.biz/xbox-announces-new-xp-division-to-deliver-transmedia-spinoffs-including-film-tv-and-theme-parks",
+          "titre": "Xbox announces new XP division to deliver transmedia spinoffs including film, TV, and theme parks"
+        }
+      ]
+    },
+    {
+      "id": "amd-s-handsome-fsr-4-upscaler-is-coming-to-handheld-pcs-this",
+      "titre": "AMD's handsome FSR 4 upscaler is coming to handheld PCs this year, though Steam Deck support could take longer",
+      "url": "https://www.rockpapershotgun.com/amds-handsome-fsr-4-upscaler-is-coming-to-handheld-pcs-this-year-though-steam-deck-support-could-take-longer",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 14.2,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/amds-handsome-fsr-4-upscaler-is-coming-to-handheld-pcs-this-year-though-steam-deck-support-could-take-longer",
+          "titre": "AMD's handsome FSR 4 upscaler is coming to handheld PCs this year, though Steam Deck support could take longer"
         }
       ]
     },
@@ -785,7 +743,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.5,
+      "heures": 22.7,
       "chaleur": 5,
       "liens": [
         {
@@ -803,7 +761,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.0,
+      "heures": 24.2,
       "chaleur": 5,
       "liens": [
         {
@@ -821,13 +779,49 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.9,
+      "heures": 32.1,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/cities-skylines-is-building-an-expanded-edition-on-switch-2-this-month",
           "titre": "Cities: Skylines Is Building An 'Expanded Edition' On Switch 2 This Month"
+        }
+      ]
+    },
+    {
+      "id": "ps5-console-exclusive-prison-of-husks-looks-like-a-soulslike",
+      "titre": "PS5 Console Exclusive PRISON OF HUSKS Looks Like a Soulslike with PS2 Presentation",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-console-exclusive-prison-of-husks-looks-like-a-soulslike-with-ps2-presentation",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5-console-exclusive-prison-of-husks-looks-like-a-soulslike-with-ps2-presentation",
+          "titre": "PS5 Console Exclusive PRISON OF HUSKS Looks Like a Soulslike with PS2 Presentation"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-remastered-s-latest-patch-brings-some-bloomin",
+      "titre": "The Witcher 3 Remastered's latest patch brings some bloomin' improvements to the game's bloom problems, amongst other lighting buffs",
+      "url": "https://www.rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-brings-some-bloomin-improvements-to-the-games-bloom-problems-amongst-other-lighting-buffs",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 6.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-brings-some-bloomin-improvements-to-the-games-bloom-problems-amongst-other-lighting-buffs",
+          "titre": "The Witcher 3 Remastered's latest patch brings some bloomin' improvements to the game's bloom problems, amongst other lighting buffs"
         }
       ]
     },
@@ -839,7 +833,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -857,7 +851,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -875,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -893,7 +887,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -911,7 +905,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -929,7 +923,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -947,7 +941,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -965,7 +959,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -983,7 +977,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1001,7 +995,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1019,7 +1013,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1037,7 +1031,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1055,7 +1049,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1073,7 +1067,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1091,7 +1085,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1109,7 +1103,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 9.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1127,7 +1121,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 9.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1145,7 +1139,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1163,7 +1157,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
