@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "09/10/2026 à 18h25",
+  "collecte": "09/10/2026 à 20h21",
   "seuil": 14,
   "sujets": [
     {
@@ -16,7 +16,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 6,
-      "heures": 5.5,
+      "heures": 7.5,
       "chaleur": 21,
       "liens": [
         {
@@ -52,42 +52,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "it-s-official-forza-horizon-6-delayed-to-2027-on-ps5-and-the",
-      "titre": "It's official: Forza Horizon 6 delayed to 2027 on PS5, and the game's first expansion has been announced",
-      "url": "https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay",
-      "sources": [
-        "Eurogamer",
-        "Push Square",
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 4,
-      "heures": 3.7,
-      "chaleur": 17,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay",
-          "titre": "It's official: Forza Horizon 6 delayed to 2027 on PS5, and the game's first expansion has been announced"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/forza-horizon-6s-first-major-expansion-will-pull-up-in-january-now-playground-games-just-need-to-offer-any-kind-of-hint-whatsoever-as-to-what-itll-look-like",
-          "titre": "Forza Horizon 6's first major expansion will pull up in January, now Playground Games just need to offer any kind of hint whatsoever as to what it'll look like"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/forza-horizon-6-officially-dated-for-ps5-alongside-an-expansion/",
-          "titre": "Forza Horizon 6 officially dated for PS5, alongside an expansion"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/first-forza-horizon-6-ps5-gameplay-arrives-as-release-date-is-revealed",
-          "titre": "First Forza Horizon 6 PS5 Gameplay Arrives as Release Date Is Revealed"
-        }
-      ]
-    },
-    {
       "id": "ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after",
       "titre": "Ubisoft to sunset Rainbow Six Mobile just seven months after launch",
       "url": "https://www.gamedeveloper.com/mobile/ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after-launch",
@@ -97,7 +61,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 12,
       "liens": [
         {
@@ -118,6 +82,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "it-s-official-forza-horizon-6-delayed-to-2027-on-ps5-and-the",
+      "titre": "It's official: Forza Horizon 6 delayed to 2027 on PS5, and the game's first expansion has been announced",
+      "url": "https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 5.7,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay",
+          "titre": "It's official: Forza Horizon 6 delayed to 2027 on PS5, and the game's first expansion has been announced"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/forza-horizon-6s-first-major-expansion-will-pull-up-in-january-now-playground-games-just-need-to-offer-any-kind-of-hint-whatsoever-as-to-what-itll-look-like",
+          "titre": "Forza Horizon 6's first major expansion will pull up in January, now Playground Games just need to offer any kind of hint whatsoever as to what it'll look like"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/first-forza-horizon-6-ps5-gameplay-arrives-as-release-date-is-revealed",
+          "titre": "First Forza Horizon 6 PS5 Gameplay Arrives as Release Date Is Revealed"
+        }
+      ]
+    },
+    {
       "id": "gears-of-war-e-day-reportedly-courts-over-1-7m-xbox-game-pas",
       "titre": "Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch",
       "url": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players",
@@ -125,13 +119,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 10,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players",
           "titre": "Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch"
+        }
+      ]
+    },
+    {
+      "id": "as-xbox-and-playstation-sales-reach-new-lows-analyst-says-th",
+      "titre": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\"",
+      "url": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
+          "titre": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\""
         }
       ]
     },
@@ -144,7 +156,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.1,
+      "heures": 2.0,
       "chaleur": 9,
       "liens": [
         {
@@ -167,7 +179,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 9,
       "liens": [
         {
@@ -185,49 +197,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/rockstar-employment-tribunal-hr-manager-little-interest-union",
           "titre": "Rockstar HR manager claims he had \"little interest\" in staff's union membership status as fired GTA dev union-busting trial heats up"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-of-america-s-president-comments-on-the-possibility",
-      "titre": "Nintendo Of America's President Comments On The Possibility Of GTA 6 On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-of-americas-president-comments-on-the-possibility-of-gta-6-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-of-americas-president-comments-on-the-possibility-of-gta-6-on-switch-2",
-          "titre": "Nintendo Of America's President Comments On The Possibility Of GTA 6 On Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "counter-strike-2-player-dedicates-master-s-thesis-to-rooting",
-      "titre": "Counter-Strike 2 player dedicates Master's thesis to rooting out cheaters, creates grade A player tracking system",
-      "url": "https://www.pcgamer.com/hardware/counter-strike-2-player-dedicates-masters-thesis-to-rooting-out-cheaters-creates-grade-a-player-tracking-system/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/counter-strike-2-player-dedicates-masters-thesis-to-rooting-out-cheaters-creates-grade-a-player-tracking-system/",
-          "titre": "Counter-Strike 2 player dedicates Master's thesis to rooting out cheaters, creates grade A player tracking system"
         }
       ]
     },
@@ -239,7 +215,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 8,
       "liens": [
         {
@@ -257,7 +233,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 8,
       "liens": [
         {
@@ -268,116 +244,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "it-takes-two-hops-onto-switch-2-next-week-marrying-visual-u",
-      "titre": "'It Takes Two' Hops Onto Switch 2 Next Week, Marrying Visual Upgrades & Cross-Play",
-      "url": "https://www.nintendolife.com/news/2026/10/it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-and-cross-play",
+      "id": "nintendo-of-america-s-president-comments-on-the-possibility",
+      "titre": "Nintendo Of America's President Comments On The Possibility Of GTA 6 On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-of-americas-president-comments-on-the-possibility-of-gta-6-on-switch-2",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 8,
+      "heures": 4.1,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-and-cross-play",
-          "titre": "'It Takes Two' Hops Onto Switch 2 Next Week, Marrying Visual Upgrades & Cross-Play"
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-of-americas-president-comments-on-the-possibility-of-gta-6-on-switch-2",
+          "titre": "Nintendo Of America's President Comments On The Possibility Of GTA 6 On Switch 2"
         }
       ]
     },
     {
-      "id": "valve-is-telling-devs-how-well-their-games-actually-run-on-s",
-      "titre": "Valve is telling devs how well their games actually run on Steam Deck with real world data",
-      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-is-telling-devs-how-well-their-games-actually-run-on-steam-deck-with-real-world-data/",
+      "id": "counter-strike-2-player-dedicates-master-s-thesis-to-rooting",
+      "titre": "Counter-Strike 2 player dedicates Master's thesis to rooting out cheaters, creates grade A player tracking system",
+      "url": "https://www.pcgamer.com/hardware/counter-strike-2-player-dedicates-masters-thesis-to-rooting-out-cheaters-creates-grade-a-player-tracking-system/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 8,
+      "heures": 5.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-is-telling-devs-how-well-their-games-actually-run-on-steam-deck-with-real-world-data/",
-          "titre": "Valve is telling devs how well their games actually run on Steam Deck with real world data"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-download-8th-october-north-america-plus-3-discounte",
-      "titre": "Nintendo Download: 8th October (North America) - Plus 3 Discounted Games That Should Be On Your Radar",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-8th-october-north-america-plus-3-discounted-games-that-should-be-on-your-radar",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-8th-october-north-america-plus-3-discounted-games-that-should-be-on-your-radar",
-          "titre": "Nintendo Download: 8th October (North America) - Plus 3 Discounted Games That Should Be On Your Radar"
-        }
-      ]
-    },
-    {
-      "id": "community-played-a-top-switch-game-we-missed-send-us-your-re",
-      "titre": "Community: Played A Top Switch Game We Missed? Send Us Your Recommendations",
-      "url": "https://www.nintendolife.com/features/community-played-a-top-switch-game-we-missed-send-us-your-recommendations",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/community-played-a-top-switch-game-we-missed-send-us-your-recommendations",
-          "titre": "Community: Played A Top Switch Game We Missed? Send Us Your Recommendations"
-        }
-      ]
-    },
-    {
-      "id": "report-double-fine-s-union-drive-collapsed-due-to-miscommuni",
-      "titre": "Report: Double Fine's union drive collapsed due to miscommunication and culture clash",
-      "url": "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash",
-          "titre": "Report: Double Fine's union drive collapsed due to miscommunication and culture clash"
-        }
-      ]
-    },
-    {
-      "id": "witcher-3-remastered-switch-2-update-to-improve-image-clarit",
-      "titre": "Witcher 3 Remastered Switch 2 Update To Improve \"Image Clarity And Sharpness\"",
-      "url": "https://www.nintendolife.com/news/2026/10/witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 17.7,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness",
-          "titre": "Witcher 3 Remastered Switch 2 Update To Improve \"Image Clarity And Sharpness\""
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-remastered-patch-bloom-console-performance-switch-2",
-          "titre": "Witcher 3 Remastered patch rolls out on PC and console, with separate Switch 2 patch earmarked to address blurry visuals"
+          "url": "https://www.pcgamer.com/hardware/counter-strike-2-player-dedicates-masters-thesis-to-rooting-out-cheaters-creates-grade-a-player-tracking-system/",
+          "titre": "Counter-Strike 2 player dedicates Master's thesis to rooting out cheaters, creates grade A player tracking system"
         }
       ]
     },
@@ -390,7 +288,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 7,
       "liens": [
         {
@@ -413,7 +311,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.4,
       "chaleur": 7,
       "liens": [
         {
@@ -432,7 +330,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.1,
+      "heures": 7.0,
       "chaleur": 7,
       "liens": [
         {
@@ -456,7 +354,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 7,
       "liens": [
         {
@@ -508,6 +406,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "after-modders-removed-skate-s-live-service-bits-devs-draw-th",
+      "titre": "After modders removed Skate's live service bits, devs draw the line with tools that \"bypass our systems to unlock paid cosmetics\"",
+      "url": "https://www.eurogamer.net/skate-mods-live-service-ea-unlock-paid-cosmetics",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/skate-mods-live-service-ea-unlock-paid-cosmetics",
+          "titre": "After modders removed Skate's live service bits, devs draw the line with tools that \"bypass our systems to unlock paid cosmetics\""
+        }
+      ]
+    },
+    {
+      "id": "dd2-dark-arisen-how-to-damage-blackdog-enemies-a-howl-in-the",
+      "titre": "DD2 Dark Arisen: How to damage Blackdog enemies, A Howl in the Dawk quest guide",
+      "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-how-to-damage-blackdog-enemies-a-howl-in-the-dawk-quest-guide/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-how-to-damage-blackdog-enemies-a-howl-in-the-dawk-quest-guide/",
+          "titre": "DD2 Dark Arisen: How to damage Blackdog enemies, A Howl in the Dawk quest guide"
+        }
+      ]
+    },
+    {
+      "id": "don-t-worry-valve-i-ve-got-your-next-deadlock-character-conc",
+      "titre": "Don't worry, Valve: I've got your next Deadlock character concepts sorted",
+      "url": "https://www.pcgamer.com/games/moba/dont-worry-valve-ive-got-your-next-deadlock-character-concepts-sorted/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/dont-worry-valve-ive-got-your-next-deadlock-character-concepts-sorted/",
+          "titre": "Don't worry, Valve: I've got your next Deadlock character concepts sorted"
+        }
+      ]
+    },
+    {
       "id": "as-its-developer-recovers-star-wars-zero-company-reaches-one",
       "titre": "As Its Developer Recovers, Star Wars Zero Company Reaches One Million Copies Sold",
       "url": "https://www.pushsquare.com/news/2026/10/as-its-developer-recovers-star-wars-zero-company-reaches-one-million-copies-sold",
@@ -515,31 +467,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/as-its-developer-recovers-star-wars-zero-company-reaches-one-million-copies-sold",
           "titre": "As Its Developer Recovers, Star Wars Zero Company Reaches One Million Copies Sold"
-        }
-      ]
-    },
-    {
-      "id": "dd2-dark-arisen-flight-in-the-night-quest-guide-all-ilda-ite",
-      "titre": "DD2 Dark Arisen: Flight in the Night quest guide, all Ilda item locations",
-      "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-flight-in-the-night-quest-guide-all-ilda-item-locations/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 1.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-flight-in-the-night-quest-guide-all-ilda-item-locations/",
-          "titre": "DD2 Dark Arisen: Flight in the Night quest guide, all Ilda item locations"
         }
       ]
     },
@@ -551,7 +485,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +503,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -587,7 +521,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -605,7 +539,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -616,200 +550,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "wardogs-season-2-deepens-the-sandbox-shooter-s-capitalist-he",
-      "titre": "Wardogs season 2 deepens the sandbox shooter's capitalist hell by letting you bet cash on your own performance",
-      "url": "https://www.rockpapershotgun.com/wardogs-season-2-deepens-the-sandbox-shooters-capitalist-hell-by-letting-you-bet-cash-on-your-own-performance",
+      "id": "it-takes-two-hops-onto-switch-2-next-week-marrying-visual-u",
+      "titre": "'It Takes Two' Hops Onto Switch 2 Next Week, Marrying Visual Upgrades & Cross-Play",
+      "url": "https://www.nintendolife.com/news/2026/10/it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-and-cross-play",
       "sources": [
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 4.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/wardogs-season-2-deepens-the-sandbox-shooters-capitalist-hell-by-letting-you-bet-cash-on-your-own-performance",
-          "titre": "Wardogs season 2 deepens the sandbox shooter's capitalist hell by letting you bet cash on your own performance"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-and-cross-play",
+          "titre": "'It Takes Two' Hops Onto Switch 2 Next Week, Marrying Visual Upgrades & Cross-Play"
         }
       ]
     },
     {
-      "id": "i-was-nice-to-you-three-times-in-a-row-so-can-i-have-one-se",
-      "titre": "'I was nice to you three times in a row, so can I have one sex please?': Why Nivalis Nights intentionally avoided transactional romances",
-      "url": "https://www.pcgamer.com/games/life-sim/i-was-nice-to-you-three-times-in-a-row-so-can-i-have-one-sex-please-why-nivalis-nights-intentionally-avoided-transactional-romances/",
+      "id": "valve-is-telling-devs-how-well-their-games-actually-run-on-s",
+      "titre": "Valve is telling devs how well their games actually run on Steam Deck with real world data",
+      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-is-telling-devs-how-well-their-games-actually-run-on-steam-deck-with-real-world-data/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.7,
+      "heures": 4.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/life-sim/i-was-nice-to-you-three-times-in-a-row-so-can-i-have-one-sex-please-why-nivalis-nights-intentionally-avoided-transactional-romances/",
-          "titre": "'I was nice to you three times in a row, so can I have one sex please?': Why Nivalis Nights intentionally avoided transactional romances"
+          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-is-telling-devs-how-well-their-games-actually-run-on-steam-deck-with-real-world-data/",
+          "titre": "Valve is telling devs how well their games actually run on Steam Deck with real world data"
         }
       ]
     },
     {
-      "id": "this-should-be-game-streaming-s-moment-it-s-not-opinion",
-      "titre": "This should be game streaming’s moment. It's not | Opinion",
-      "url": "https://www.gamesindustry.biz/this-should-be-game-streamings-moment-its-not-opinion",
+      "id": "nintendo-download-8th-october-north-america-plus-3-discounte",
+      "titre": "Nintendo Download: 8th October (North America) - Plus 3 Discounted Games That Should Be On Your Radar",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-8th-october-north-america-plus-3-discounted-games-that-should-be-on-your-radar",
       "sources": [
-        "GamesIndustry.biz"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.7,
+      "heures": 5.1,
       "chaleur": 6,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/this-should-be-game-streamings-moment-its-not-opinion",
-          "titre": "This should be game streaming’s moment. It's not | Opinion"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-8th-october-north-america-plus-3-discounted-games-that-should-be-on-your-radar",
+          "titre": "Nintendo Download: 8th October (North America) - Plus 3 Discounted Games That Should Be On Your Radar"
         }
       ]
     },
     {
-      "id": "worldwide-pc-shipments-have-plummeted-by-over-20-to-the-surp",
-      "titre": "Worldwide PC shipments have plummeted by over 20%, to the surprise of absolutely no one",
-      "url": "https://www.pcgamer.com/hardware/worldwide-pc-shipments-have-plummeted-by-over-20-percent-to-the-surprise-of-absolutely-no-one/",
+      "id": "community-played-a-top-switch-game-we-missed-send-us-your-re",
+      "titre": "Community: Played A Top Switch Game We Missed? Send Us Your Recommendations",
+      "url": "https://www.nintendolife.com/features/community-played-a-top-switch-game-we-missed-send-us-your-recommendations",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.9,
+      "heures": 5.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/worldwide-pc-shipments-have-plummeted-by-over-20-percent-to-the-surprise-of-absolutely-no-one/",
-          "titre": "Worldwide PC shipments have plummeted by over 20%, to the surprise of absolutely no one"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/community-played-a-top-switch-game-we-missed-send-us-your-recommendations",
+          "titre": "Community: Played A Top Switch Game We Missed? Send Us Your Recommendations"
         }
       ]
     },
     {
-      "id": "the-galaxies-showcase-returns-on-october-15-with-announcemen",
-      "titre": "The Galaxies Showcase returns on October 15, with announcements from ZA/UM, Embark Studios, and Frontier Developments",
-      "url": "https://www.rockpapershotgun.com/the-galaxies-showcase-returns-on-october-15-with-announcements-from-zaum-embark-studios-and-frontier-developments",
+      "id": "report-double-fine-s-union-drive-collapsed-due-to-miscommuni",
+      "titre": "Report: Double Fine's union drive collapsed due to miscommunication and culture clash",
+      "url": "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash",
       "sources": [
-        "Rock Paper Shotgun"
+        "Game Developer"
       ],
       "reprises": 1,
-      "heures": 2.9,
+      "heures": 5.5,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-galaxies-showcase-returns-on-october-15-with-announcements-from-zaum-embark-studios-and-frontier-developments",
-          "titre": "The Galaxies Showcase returns on October 15, with announcements from ZA/UM, Embark Studios, and Frontier Developments"
-        }
-      ]
-    },
-    {
-      "id": "wow-forever-dev-says-there-s-a-real-longing-for-that-slower",
-      "titre": "WoW: Forever dev says 'there's a real longing for that slower, more deliberate pace' in MMOs: 'A deliberate pushback on this go go go nature'",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dev-says-theres-a-real-longing-for-that-slower-more-deliberate-pace-in-mmos-a-deliberate-pushback-on-this-go-go-go-nature/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dev-says-theres-a-real-longing-for-that-slower-more-deliberate-pace-in-mmos-a-deliberate-pushback-on-this-go-go-go-nature/",
-          "titre": "WoW: Forever dev says 'there's a real longing for that slower, more deliberate pace' in MMOs: 'A deliberate pushback on this go go go nature'"
-        }
-      ]
-    },
-    {
-      "id": "motion-blur-is-the-worst-effect-in-games-confirmed",
-      "titre": "Motion blur is the worst effect in games (confirmed)",
-      "url": "https://www.pcgamer.com/hardware/motion-blur-is-the-worst-effect-in-games-confirmed/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/motion-blur-is-the-worst-effect-in-games-confirmed/",
-          "titre": "Motion blur is the worst effect in games (confirmed)"
-        }
-      ]
-    },
-    {
-      "id": "we-re-not-getting-any-younger-and-the-world-seems-to-be-end",
-      "titre": "“We're not getting any younger, and the world seems to be ending\": Amanita reveal Machinarium 2, sequel to 2009's prettiest robot adventure",
-      "url": "https://www.rockpapershotgun.com/were-not-getting-any-younger-and-the-world-seems-to-be-ending-amanita-reveal-machinarium-2-sequel-to-2009s-prettiest-robot-adventure",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/were-not-getting-any-younger-and-the-world-seems-to-be-ending-amanita-reveal-machinarium-2-sequel-to-2009s-prettiest-robot-adventure",
-          "titre": "“We're not getting any younger, and the world seems to be ending\": Amanita reveal Machinarium 2, sequel to 2009's prettiest robot adventure"
-        }
-      ]
-    },
-    {
-      "id": "when-the-weather-turns-foul-in-arc-raiders-pendola-pass-take",
-      "titre": "When the weather turns foul in Arc Raiders' Pendola Pass, take a trip to a Storm Hut—they're some of the best loot spots I've found",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/when-the-weather-turns-foul-in-arc-raiders-pendola-pass-take-a-trip-to-a-storm-hut-theyre-some-of-the-best-loot-spots-ive-found/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/when-the-weather-turns-foul-in-arc-raiders-pendola-pass-take-a-trip-to-a-storm-hut-theyre-some-of-the-best-loot-spots-ive-found/",
-          "titre": "When the weather turns foul in Arc Raiders' Pendola Pass, take a trip to a Storm Hut—they're some of the best loot spots I've found"
-        }
-      ]
-    },
-    {
-      "id": "evercade-nexus-review-the-best-evercade-handheld-yet-makes-i",
-      "titre": "Evercade Nexus review: The best Evercade handheld yet makes it a joy to play retro games on the move",
-      "url": "https://www.videogameschronicle.com/review/evercade-nexus-review-the-best-evercade-handheld-yet-makes-it-a-joy-to-play-retro-games-on-the-move/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/review/evercade-nexus-review-the-best-evercade-handheld-yet-makes-it-a-joy-to-play-retro-games-on-the-move/",
-          "titre": "Evercade Nexus review: The best Evercade handheld yet makes it a joy to play retro games on the move"
-        }
-      ]
-    },
-    {
-      "id": "ghost-of-yotei-gets-more-complete-with-ps5-patch-fixing-bugs",
-      "titre": "Ghost of Yotei Gets More Complete with PS5 Patch Fixing Bugs and Black Screens",
-      "url": "https://www.pushsquare.com/news/2026/10/ghost-of-yotei-gets-more-complete-with-ps5-patch-fixing-bugs-and-black-screens",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ghost-of-yotei-gets-more-complete-with-ps5-patch-fixing-bugs-and-black-screens",
-          "titre": "Ghost of Yotei Gets More Complete with PS5 Patch Fixing Bugs and Black Screens"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash",
+          "titre": "Report: Double Fine's union drive collapsed due to miscommunication and culture clash"
         }
       ]
     },
@@ -821,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 8.6,
       "chaleur": 6,
       "liens": [
         {
@@ -839,7 +665,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 6,
       "liens": [
         {
@@ -857,7 +683,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.9,
       "chaleur": 6,
       "liens": [
         {
@@ -875,13 +701,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/tropico-7-officially-confirmed-for-switch-2-out-2027",
           "titre": "Tropico 7 Officially Confirmed For Switch 2, Out 2027"
+        }
+      ]
+    },
+    {
+      "id": "witcher-3-remastered-switch-2-update-to-improve-image-clarit",
+      "titre": "Witcher 3 Remastered Switch 2 Update To Improve \"Image Clarity And Sharpness\"",
+      "url": "https://www.nintendolife.com/news/2026/10/witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 19.6,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness",
+          "titre": "Witcher 3 Remastered Switch 2 Update To Improve \"Image Clarity And Sharpness\""
         }
       ]
     },
@@ -893,7 +737,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 24.9,
+      "heures": 26.9,
       "chaleur": 5,
       "liens": [
         {
@@ -911,13 +755,211 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 30.1,
+      "heures": 32.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/xbox-announces-new-xp-division-to-deliver-transmedia-spinoffs-including-film-tv-and-theme-parks",
           "titre": "Xbox announces new XP division to deliver transmedia spinoffs including film, TV, and theme parks"
+        }
+      ]
+    },
+    {
+      "id": "wardogs-season-2-deepens-the-sandbox-shooter-s-capitalist-he",
+      "titre": "Wardogs season 2 deepens the sandbox shooter's capitalist hell by letting you bet cash on your own performance",
+      "url": "https://www.rockpapershotgun.com/wardogs-season-2-deepens-the-sandbox-shooters-capitalist-hell-by-letting-you-bet-cash-on-your-own-performance",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/wardogs-season-2-deepens-the-sandbox-shooters-capitalist-hell-by-letting-you-bet-cash-on-your-own-performance",
+          "titre": "Wardogs season 2 deepens the sandbox shooter's capitalist hell by letting you bet cash on your own performance"
+        }
+      ]
+    },
+    {
+      "id": "i-was-nice-to-you-three-times-in-a-row-so-can-i-have-one-se",
+      "titre": "'I was nice to you three times in a row, so can I have one sex please?': Why Nivalis Nights intentionally avoided transactional romances",
+      "url": "https://www.pcgamer.com/games/life-sim/i-was-nice-to-you-three-times-in-a-row-so-can-i-have-one-sex-please-why-nivalis-nights-intentionally-avoided-transactional-romances/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/life-sim/i-was-nice-to-you-three-times-in-a-row-so-can-i-have-one-sex-please-why-nivalis-nights-intentionally-avoided-transactional-romances/",
+          "titre": "'I was nice to you three times in a row, so can I have one sex please?': Why Nivalis Nights intentionally avoided transactional romances"
+        }
+      ]
+    },
+    {
+      "id": "this-should-be-game-streaming-s-moment-it-s-not-opinion",
+      "titre": "This should be game streaming’s moment. It's not | Opinion",
+      "url": "https://www.gamesindustry.biz/this-should-be-game-streamings-moment-its-not-opinion",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/this-should-be-game-streamings-moment-its-not-opinion",
+          "titre": "This should be game streaming’s moment. It's not | Opinion"
+        }
+      ]
+    },
+    {
+      "id": "worldwide-pc-shipments-have-plummeted-by-over-20-to-the-surp",
+      "titre": "Worldwide PC shipments have plummeted by over 20%, to the surprise of absolutely no one",
+      "url": "https://www.pcgamer.com/hardware/worldwide-pc-shipments-have-plummeted-by-over-20-percent-to-the-surprise-of-absolutely-no-one/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/worldwide-pc-shipments-have-plummeted-by-over-20-percent-to-the-surprise-of-absolutely-no-one/",
+          "titre": "Worldwide PC shipments have plummeted by over 20%, to the surprise of absolutely no one"
+        }
+      ]
+    },
+    {
+      "id": "the-galaxies-showcase-returns-on-october-15-with-announcemen",
+      "titre": "The Galaxies Showcase returns on October 15, with announcements from ZA/UM, Embark Studios, and Frontier Developments",
+      "url": "https://www.rockpapershotgun.com/the-galaxies-showcase-returns-on-october-15-with-announcements-from-zaum-embark-studios-and-frontier-developments",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-galaxies-showcase-returns-on-october-15-with-announcements-from-zaum-embark-studios-and-frontier-developments",
+          "titre": "The Galaxies Showcase returns on October 15, with announcements from ZA/UM, Embark Studios, and Frontier Developments"
+        }
+      ]
+    },
+    {
+      "id": "wow-forever-dev-says-there-s-a-real-longing-for-that-slower",
+      "titre": "WoW: Forever dev says 'there's a real longing for that slower, more deliberate pace' in MMOs: 'A deliberate pushback on this go go go nature'",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dev-says-theres-a-real-longing-for-that-slower-more-deliberate-pace-in-mmos-a-deliberate-pushback-on-this-go-go-go-nature/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dev-says-theres-a-real-longing-for-that-slower-more-deliberate-pace-in-mmos-a-deliberate-pushback-on-this-go-go-go-nature/",
+          "titre": "WoW: Forever dev says 'there's a real longing for that slower, more deliberate pace' in MMOs: 'A deliberate pushback on this go go go nature'"
+        }
+      ]
+    },
+    {
+      "id": "motion-blur-is-the-worst-effect-in-games-confirmed",
+      "titre": "Motion blur is the worst effect in games (confirmed)",
+      "url": "https://www.pcgamer.com/hardware/motion-blur-is-the-worst-effect-in-games-confirmed/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/motion-blur-is-the-worst-effect-in-games-confirmed/",
+          "titre": "Motion blur is the worst effect in games (confirmed)"
+        }
+      ]
+    },
+    {
+      "id": "we-re-not-getting-any-younger-and-the-world-seems-to-be-end",
+      "titre": "“We're not getting any younger, and the world seems to be ending\": Amanita reveal Machinarium 2, sequel to 2009's prettiest robot adventure",
+      "url": "https://www.rockpapershotgun.com/were-not-getting-any-younger-and-the-world-seems-to-be-ending-amanita-reveal-machinarium-2-sequel-to-2009s-prettiest-robot-adventure",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/were-not-getting-any-younger-and-the-world-seems-to-be-ending-amanita-reveal-machinarium-2-sequel-to-2009s-prettiest-robot-adventure",
+          "titre": "“We're not getting any younger, and the world seems to be ending\": Amanita reveal Machinarium 2, sequel to 2009's prettiest robot adventure"
+        }
+      ]
+    },
+    {
+      "id": "when-the-weather-turns-foul-in-arc-raiders-pendola-pass-take",
+      "titre": "When the weather turns foul in Arc Raiders' Pendola Pass, take a trip to a Storm Hut—they're some of the best loot spots I've found",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/when-the-weather-turns-foul-in-arc-raiders-pendola-pass-take-a-trip-to-a-storm-hut-theyre-some-of-the-best-loot-spots-ive-found/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/when-the-weather-turns-foul-in-arc-raiders-pendola-pass-take-a-trip-to-a-storm-hut-theyre-some-of-the-best-loot-spots-ive-found/",
+          "titre": "When the weather turns foul in Arc Raiders' Pendola Pass, take a trip to a Storm Hut—they're some of the best loot spots I've found"
+        }
+      ]
+    },
+    {
+      "id": "evercade-nexus-review-the-best-evercade-handheld-yet-makes-i",
+      "titre": "Evercade Nexus review: The best Evercade handheld yet makes it a joy to play retro games on the move",
+      "url": "https://www.videogameschronicle.com/review/evercade-nexus-review-the-best-evercade-handheld-yet-makes-it-a-joy-to-play-retro-games-on-the-move/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/review/evercade-nexus-review-the-best-evercade-handheld-yet-makes-it-a-joy-to-play-retro-games-on-the-move/",
+          "titre": "Evercade Nexus review: The best Evercade handheld yet makes it a joy to play retro games on the move"
+        }
+      ]
+    },
+    {
+      "id": "ghost-of-yotei-gets-more-complete-with-ps5-patch-fixing-bugs",
+      "titre": "Ghost of Yotei Gets More Complete with PS5 Patch Fixing Bugs and Black Screens",
+      "url": "https://www.pushsquare.com/news/2026/10/ghost-of-yotei-gets-more-complete-with-ps5-patch-fixing-bugs-and-black-screens",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ghost-of-yotei-gets-more-complete-with-ps5-patch-fixing-bugs-and-black-screens",
+          "titre": "Ghost of Yotei Gets More Complete with PS5 Patch Fixing Bugs and Black Screens"
         }
       ]
     },
@@ -929,7 +971,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 6.0,
       "chaleur": 4,
       "liens": [
         {
@@ -947,7 +989,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -965,7 +1007,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -983,7 +1025,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1001,7 +1043,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1019,7 +1061,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1037,7 +1079,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1055,7 +1097,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1073,7 +1115,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1091,7 +1133,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1109,67 +1151,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/video-games-arent-the-enemy-of-kids-mental-health-ignoring-them-is-opinion",
           "titre": "Video games aren't the enemy of kids' mental health – ignoring them is | Opinion"
-        }
-      ]
-    },
-    {
-      "id": "sony-agrees-to-transfer-over-400-global-vr-patents-to-meta-f",
-      "titre": "Sony agrees to transfer over 400 global VR patents to Meta following December 2025 agreement",
-      "url": "https://www.gamesindustry.biz/sony-agrees-to-transfer-over-400-global-vr-patents-to-meta-following-december-2025-agreement",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/sony-agrees-to-transfer-over-400-global-vr-patents-to-meta-following-december-2025-agreement",
-          "titre": "Sony agrees to transfer over 400 global VR patents to Meta following December 2025 agreement"
-        }
-      ]
-    },
-    {
-      "id": "another-ps-portal-firmware-update-is-now-available-just-two",
-      "titre": "Another PS Portal Firmware Update Is Now Available, Just Two Weeks After the Last",
-      "url": "https://www.pushsquare.com/news/2026/10/another-ps-portal-firmware-update-is-now-available-just-two-weeks-after-the-last",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 7.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/another-ps-portal-firmware-update-is-now-available-just-two-weeks-after-the-last",
-          "titre": "Another PS Portal Firmware Update Is Now Available, Just Two Weeks After the Last"
-        }
-      ]
-    },
-    {
-      "id": "timeloop-metroidvania-echo-weaver-is-the-brave-game-that-loc",
-      "titre": "Timeloop metroidvania Echo Weaver is the brave game that locks almost nothing off and challenges you to break it",
-      "url": "https://www.rockpapershotgun.com/timeloop-metroidvania-echo-weaver-is-the-brave-game-that-locks-almost-nothing-off-and-challenges-you-to-break-it",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 8.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/timeloop-metroidvania-echo-weaver-is-the-brave-game-that-locks-almost-nothing-off-and-challenges-you-to-break-it",
-          "titre": "Timeloop metroidvania Echo Weaver is the brave game that locks almost nothing off and challenges you to break it"
         }
       ]
     }
