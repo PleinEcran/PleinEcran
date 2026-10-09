@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "09/10/2026 à 00h35",
+  "collecte": "09/10/2026 à 02h21",
   "seuil": 14,
   "sujets": [
     {
@@ -13,7 +13,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 9.5,
+      "heures": 11.2,
       "chaleur": 13,
       "liens": [
         {
@@ -34,6 +34,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "witcher-3-remastered-switch-2-update-to-improve-image-clarit",
+      "titre": "Witcher 3 Remastered Switch 2 Update To Improve \"Image Clarity And Sharpness\"",
+      "url": "https://www.nintendolife.com/news/2026/10/witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 1.6,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness",
+          "titre": "Witcher 3 Remastered Switch 2 Update To Improve \"Image Clarity And Sharpness\""
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/witcher-3-remastered-patch-bloom-console-performance-switch-2",
+          "titre": "Witcher 3 Remastered patch rolls out on PC and console, with separate Switch 2 patch earmarked to address blurry visuals"
+        }
+      ]
+    },
+    {
       "id": "star-wars-zero-company-studio-start-to-bring-back-devs-furlo",
       "titre": "Star Wars Zero Company studio start to bring back devs furloughed prior to launch, with \"more than half\" of previous headcount reportedly returning to payroll",
       "url": "https://www.rockpapershotgun.com/star-wars-zero-company-studio-start-to-bring-back-devs-furloughed-prior-to-launch-with-more-than-half-of-previous-headcount-reportedly-returning-to-payroll",
@@ -43,7 +67,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 15.3,
+      "heures": 17.1,
       "chaleur": 11,
       "liens": [
         {
@@ -73,7 +97,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 4.1,
+      "heures": 5.9,
       "chaleur": 10,
       "liens": [
         {
@@ -101,37 +125,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.1,
       "chaleur": 10,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/rockstar-hunted-gta-6-leaker-seemingly-strikes-again-showing-off-series-most-plentiful-helping-of-onscreen-johnson-since-san-andreas-starred-carl",
           "titre": "Rockstar-hunted GTA 6 leaker seemingly strikes again, showing off series' most plentiful helping of onscreen johnson since San Andreas starred Carl"
-        }
-      ]
-    },
-    {
-      "id": "how-to-start-the-dragon-s-dogma-2-dark-arisen-expansion",
-      "titre": "How to start the Dragon's Dogma 2: Dark Arisen expansion",
-      "url": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-how-to-start-dark-arisen/",
-      "sources": [
-        "Nintendo Life",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 3.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-how-to-start-dark-arisen/",
-          "titre": "How to start the Dragon's Dogma 2: Dark Arisen expansion"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-dragons-dogma-2-dark-arisen-are-in",
-          "titre": "Round Up: The Reviews For Dragon's Dogma 2: Dark Arisen Are In"
         }
       ]
     },
@@ -144,7 +144,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 8.3,
+      "heures": 10.1,
       "chaleur": 9,
       "liens": [
         {
@@ -167,13 +167,37 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.4,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak",
           "titre": "Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good"
+        }
+      ]
+    },
+    {
+      "id": "how-to-start-the-dragon-s-dogma-2-dark-arisen-expansion",
+      "titre": "How to start the Dragon's Dogma 2: Dark Arisen expansion",
+      "url": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-how-to-start-dark-arisen/",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 5.4,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-how-to-start-dark-arisen/",
+          "titre": "How to start the Dragon's Dogma 2: Dark Arisen expansion"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-dragons-dogma-2-dark-arisen-are-in",
+          "titre": "Round Up: The Reviews For Dragon's Dogma 2: Dark Arisen Are In"
         }
       ]
     },
@@ -185,7 +209,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.2,
       "chaleur": 7,
       "liens": [
         {
@@ -204,7 +228,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 5.5,
+      "heures": 7.2,
       "chaleur": 7,
       "liens": [
         {
@@ -228,7 +252,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 6.6,
+      "heures": 8.4,
       "chaleur": 7,
       "liens": [
         {
@@ -252,7 +276,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 8.6,
+      "heures": 10.4,
       "chaleur": 7,
       "liens": [
         {
@@ -276,7 +300,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 2,
-      "heures": 8.8,
+      "heures": 10.6,
       "chaleur": 7,
       "liens": [
         {
@@ -288,90 +312,6 @@ const VEILLE = {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/former-activision-ceo-bobby-kotick-named-to-the-board-of-post-merger-skydance",
           "titre": "Former Activision Blizzard CEO Bobby Kotick named to the board of post-merger Skydance"
-        }
-      ]
-    },
-    {
-      "id": "i-enjoy-how-hellraiser-revival-s-real-life-bondage-club-make",
-      "titre": "I enjoy how Hellraiser: Revival's 'real-life' bondage club makes the rest of Hellraiser: Revival feel kind of embarrassing",
-      "url": "https://www.rockpapershotgun.com/i-enjoy-how-hellraiser-revivals-real-life-bondage-club-makes-the-rest-of-hellraiser-revival-feel-kind-of-embarrassing",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 10.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-enjoy-how-hellraiser-revivals-real-life-bondage-club-makes-the-rest-of-hellraiser-revival-feel-kind-of-embarrassing",
-          "titre": "I enjoy how Hellraiser: Revival's 'real-life' bondage club makes the rest of Hellraiser: Revival feel kind of embarrassing"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/hellraiser-revival-review",
-          "titre": "Hellraiser: Revival review"
-        }
-      ]
-    },
-    {
-      "id": "doctor-doom-invisible-woman-join-marvel-cosmic-invasion-in-d",
-      "titre": "Doctor Doom, Invisible Woman Join Marvel Cosmic Invasion in DLC Pack Next Month",
-      "url": "https://www.pushsquare.com/news/2026/10/doctor-doom-invisible-woman-join-marvel-cosmic-invasion-in-dlc-pack-next-month",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 10.6,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/doctor-doom-invisible-woman-join-marvel-cosmic-invasion-in-dlc-pack-next-month",
-          "titre": "Doctor Doom, Invisible Woman Join Marvel Cosmic Invasion in DLC Pack Next Month"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/marvel-cosmic-invasions-new-dlc-will-build-the-hype-for-doomsday-next-month",
-          "titre": "Marvel Cosmic Invasion's New DLC Will Build The Hype For 'Doomsday' Next Month"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-switch-sports-resort-looks-like-a-game-night-deligh",
-      "titre": "Nintendo Switch Sports Resort Looks Like A Game Night Delight In New Overview Trailer",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-switch-sports-resort-looks-like-a-game-night-delight-in-new-overview-trailer",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-switch-sports-resort-looks-like-a-game-night-delight-in-new-overview-trailer",
-          "titre": "Nintendo Switch Sports Resort Looks Like A Game Night Delight In New Overview Trailer"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-gameplay-leaks-are-back-with-potentially-big-spoilers",
-      "titre": "GTA 6 Gameplay Leaks Are Back with Potentially Big Spoilers",
-      "url": "https://www.pushsquare.com/news/2026/10/gta-6-gameplay-leaks-are-back-with-potentially-big-spoilers",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/gta-6-gameplay-leaks-are-back-with-potentially-big-spoilers",
-          "titre": "GTA 6 Gameplay Leaks Are Back with Potentially Big Spoilers"
         }
       ]
     },
@@ -430,6 +370,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "if-you-like-scrappy-old-resident-evil-games-i-recommend-anom",
+      "titre": "If You Like Scrappy Old Resident Evil Games, I Recommend ANOMALITH's PS5 Demo",
+      "url": "https://www.pushsquare.com/news/2026/10/if-you-like-scrappy-old-resident-evil-games-i-recommend-anomaliths-ps5-demo",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/if-you-like-scrappy-old-resident-evil-games-i-recommend-anomaliths-ps5-demo",
+          "titre": "If You Like Scrappy Old Resident Evil Games, I Recommend ANOMALITH's PS5 Demo"
+        }
+      ]
+    },
+    {
       "id": "preview-phantom-blade-zero-is-the-next-truly-essential-ps5-g",
       "titre": "Preview: Phantom Blade Zero Is the Next Truly Essential PS5 Game",
       "url": "https://www.pushsquare.com/previews/phantom-blade-zero-is-the-next-truly-essential-ps5-game",
@@ -437,85 +395,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/previews/phantom-blade-zero-is-the-next-truly-essential-ps5-game",
           "titre": "Preview: Phantom Blade Zero Is the Next Truly Essential PS5 Game"
-        }
-      ]
-    },
-    {
-      "id": "you-can-now-sign-up-to-playtest-the-genre-bending-pony-islan",
-      "titre": "You can now sign up to playtest the genre-bending Pony Island 2: Panda Circus, and while you're at it the original is free for a few days too",
-      "url": "https://www.rockpapershotgun.com/you-can-now-sign-up-to-playtest-the-genre-bending-pony-island-2-panda-circus-and-while-youre-at-it-the-original-is-free-for-a-few-days-too",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/you-can-now-sign-up-to-playtest-the-genre-bending-pony-island-2-panda-circus-and-while-youre-at-it-the-original-is-free-for-a-few-days-too",
-          "titre": "You can now sign up to playtest the genre-bending Pony Island 2: Panda Circus, and while you're at it the original is free for a few days too"
-        }
-      ]
-    },
-    {
-      "id": "why-a-21-year-old-coder-finally-ported-the-real-p-t-to-pc-th",
-      "titre": "Why a 21-year-old coder finally ported the real P.T. to PC: 'That something so influential could eventually become unplayable never sat right with me'",
-      "url": "https://www.pcgamer.com/games/horror/why-a-21-year-old-coder-finally-ported-the-real-p-t-to-pc-that-something-so-influential-could-eventually-become-unplayable-never-sat-right-with-me/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/why-a-21-year-old-coder-finally-ported-the-real-p-t-to-pc-that-something-so-influential-could-eventually-become-unplayable-never-sat-right-with-me/",
-          "titre": "Why a 21-year-old coder finally ported the real P.T. to PC: 'That something so influential could eventually become unplayable never sat right with me'"
-        }
-      ]
-    },
-    {
-      "id": "blizzard-refuses-to-let-world-of-warcraft-forever-s-dungeons",
-      "titre": "Blizzard refuses to let World of Warcraft: Forever's dungeons become the fastest way to grind XP: 'We need to hold firm on these balance adjustments'",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-refuses-to-let-world-of-warcraft-forevers-dungeons-become-the-fastest-way-to-grind-xp-we-need-to-hold-firm-on-these-balance-adjustments/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-refuses-to-let-world-of-warcraft-forevers-dungeons-become-the-fastest-way-to-grind-xp-we-need-to-hold-firm-on-these-balance-adjustments/",
-          "titre": "Blizzard refuses to let World of Warcraft: Forever's dungeons become the fastest way to grind XP: 'We need to hold firm on these balance adjustments'"
-        }
-      ]
-    },
-    {
-      "id": "us-government-accuses-microsoft-of-replacing-american-worker",
-      "titre": "US government accuses Microsoft of replacing American workers with 'foreign indentured servants,' then gives Satya Nadella a medal",
-      "url": "https://www.pcgamer.com/gaming-industry/us-government-accuses-microsoft-of-replacing-american-workers-with-foreign-indentured-servants-then-gives-satya-nadella-a-medal/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/us-government-accuses-microsoft-of-replacing-american-workers-with-foreign-indentured-servants-then-gives-satya-nadella-a-medal/",
-          "titre": "US government accuses Microsoft of replacing American workers with 'foreign indentured servants,' then gives Satya Nadella a medal"
         }
       ]
     },
@@ -527,7 +413,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.4,
       "chaleur": 6,
       "liens": [
         {
@@ -545,7 +431,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 8.9,
       "chaleur": 6,
       "liens": [
         {
@@ -563,7 +449,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.1,
       "chaleur": 6,
       "liens": [
         {
@@ -581,7 +467,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.1,
       "chaleur": 6,
       "liens": [
         {
@@ -592,38 +478,86 @@ const VEILLE = {
       ]
     },
     {
-      "id": "witcher-3-remastered-patch-rolls-out-on-pc-and-console-with",
-      "titre": "Witcher 3 Remastered patch rolls out on PC and console, with separate Switch 2 patch earmarked to address blurry visuals",
-      "url": "https://www.eurogamer.net/witcher-3-remastered-patch-bloom-console-performance-switch-2",
+      "id": "i-enjoy-how-hellraiser-revival-s-real-life-bondage-club-make",
+      "titre": "I enjoy how Hellraiser: Revival's 'real-life' bondage club makes the rest of Hellraiser: Revival feel kind of embarrassing",
+      "url": "https://www.rockpapershotgun.com/i-enjoy-how-hellraiser-revivals-real-life-bondage-club-makes-the-rest-of-hellraiser-revival-feel-kind-of-embarrassing",
       "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-remastered-patch-bloom-console-performance-switch-2",
-          "titre": "Witcher 3 Remastered patch rolls out on PC and console, with separate Switch 2 patch earmarked to address blurry visuals"
-        }
-      ]
-    },
-    {
-      "id": "xbox-aim-to-wring-more-cash-out-of-the-games-they-ve-not-cas",
-      "titre": "Xbox aim to wring more cash out of the games they've not cast into oblivion by launching new licensing arm and handing Minecraft to ex-Meta monetisation lead",
-      "url": "https://www.rockpapershotgun.com/xbox-aim-to-wring-more-cash-out-of-the-games-theyve-not-cast-into-oblivion-by-launching-new-licensing-arm-and-handing-minecraft-to-ex-meta-monetisation-lead",
-      "sources": [
+        "Eurogamer",
         "Rock Paper Shotgun"
       ],
-      "reprises": 1,
-      "heures": 11.7,
+      "reprises": 2,
+      "heures": 12.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/xbox-aim-to-wring-more-cash-out-of-the-games-theyve-not-cast-into-oblivion-by-launching-new-licensing-arm-and-handing-minecraft-to-ex-meta-monetisation-lead",
-          "titre": "Xbox aim to wring more cash out of the games they've not cast into oblivion by launching new licensing arm and handing Minecraft to ex-Meta monetisation lead"
+          "url": "https://www.rockpapershotgun.com/i-enjoy-how-hellraiser-revivals-real-life-bondage-club-makes-the-rest-of-hellraiser-revival-feel-kind-of-embarrassing",
+          "titre": "I enjoy how Hellraiser: Revival's 'real-life' bondage club makes the rest of Hellraiser: Revival feel kind of embarrassing"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/hellraiser-revival-review",
+          "titre": "Hellraiser: Revival review"
+        }
+      ]
+    },
+    {
+      "id": "doctor-doom-invisible-woman-join-marvel-cosmic-invasion-in-d",
+      "titre": "Doctor Doom, Invisible Woman Join Marvel Cosmic Invasion in DLC Pack Next Month",
+      "url": "https://www.pushsquare.com/news/2026/10/doctor-doom-invisible-woman-join-marvel-cosmic-invasion-in-dlc-pack-next-month",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 12.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/doctor-doom-invisible-woman-join-marvel-cosmic-invasion-in-dlc-pack-next-month",
+          "titre": "Doctor Doom, Invisible Woman Join Marvel Cosmic Invasion in DLC Pack Next Month"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/marvel-cosmic-invasions-new-dlc-will-build-the-hype-for-doomsday-next-month",
+          "titre": "Marvel Cosmic Invasion's New DLC Will Build The Hype For 'Doomsday' Next Month"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-switch-sports-resort-looks-like-a-game-night-deligh",
+      "titre": "Nintendo Switch Sports Resort Looks Like A Game Night Delight In New Overview Trailer",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-switch-sports-resort-looks-like-a-game-night-delight-in-new-overview-trailer",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-switch-sports-resort-looks-like-a-game-night-delight-in-new-overview-trailer",
+          "titre": "Nintendo Switch Sports Resort Looks Like A Game Night Delight In New Overview Trailer"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-gameplay-leaks-are-back-with-potentially-big-spoilers",
+      "titre": "GTA 6 Gameplay Leaks Are Back with Potentially Big Spoilers",
+      "url": "https://www.pushsquare.com/news/2026/10/gta-6-gameplay-leaks-are-back-with-potentially-big-spoilers",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 12.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/gta-6-gameplay-leaks-are-back-with-potentially-big-spoilers",
+          "titre": "GTA 6 Gameplay Leaks Are Back with Potentially Big Spoilers"
         }
       ]
     },
@@ -635,7 +569,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.1,
       "chaleur": 6,
       "liens": [
         {
@@ -653,7 +587,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.2,
       "chaleur": 6,
       "liens": [
         {
@@ -671,7 +605,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.0,
       "chaleur": 6,
       "liens": [
         {
@@ -682,20 +616,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "paramount-games-studio-and-wb-games-merge-under-skydance-fol",
-      "titre": "Paramount Games Studio and WB Games merge under Skydance following completion of $111bn acquisition",
-      "url": "https://www.gamesindustry.biz/paramount-games-studio-and-wb-games-merge-under-skydance-following-completion-of-111bn-acquisition",
+      "id": "xbox-aim-to-wring-more-cash-out-of-the-games-they-ve-not-cas",
+      "titre": "Xbox aim to wring more cash out of the games they've not cast into oblivion by launching new licensing arm and handing Minecraft to ex-Meta monetisation lead",
+      "url": "https://www.rockpapershotgun.com/xbox-aim-to-wring-more-cash-out-of-the-games-theyve-not-cast-into-oblivion-by-launching-new-licensing-arm-and-handing-minecraft-to-ex-meta-monetisation-lead",
       "sources": [
-        "GamesIndustry.biz"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 34.6,
-      "chaleur": 6,
+      "heures": 13.5,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/paramount-games-studio-and-wb-games-merge-under-skydance-following-completion-of-111bn-acquisition",
-          "titre": "Paramount Games Studio and WB Games merge under Skydance following completion of $111bn acquisition"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/xbox-aim-to-wring-more-cash-out-of-the-games-theyve-not-cast-into-oblivion-by-launching-new-licensing-arm-and-handing-minecraft-to-ex-meta-monetisation-lead",
+          "titre": "Xbox aim to wring more cash out of the games they've not cast into oblivion by launching new licensing arm and handing Minecraft to ex-Meta monetisation lead"
         }
       ]
     },
@@ -707,7 +641,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.1,
       "chaleur": 5,
       "liens": [
         {
@@ -725,7 +659,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 15.9,
       "chaleur": 5,
       "liens": [
         {
@@ -743,7 +677,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.7,
+      "heures": 24.4,
       "chaleur": 5,
       "liens": [
         {
@@ -761,7 +695,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.2,
+      "heures": 25.9,
       "chaleur": 5,
       "liens": [
         {
@@ -772,20 +706,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "cities-skylines-is-building-an-expanded-edition-on-switch-2",
-      "titre": "Cities: Skylines Is Building An 'Expanded Edition' On Switch 2 This Month",
-      "url": "https://www.nintendolife.com/news/2026/10/cities-skylines-is-building-an-expanded-edition-on-switch-2-this-month",
+      "id": "you-can-now-sign-up-to-playtest-the-genre-bending-pony-islan",
+      "titre": "You can now sign up to playtest the genre-bending Pony Island 2: Panda Circus, and while you're at it the original is free for a few days too",
+      "url": "https://www.rockpapershotgun.com/you-can-now-sign-up-to-playtest-the-genre-bending-pony-island-2-panda-circus-and-while-youre-at-it-the-original-is-free-for-a-few-days-too",
       "sources": [
-        "Nintendo Life"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 32.1,
-      "chaleur": 5,
+      "heures": 4.4,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/cities-skylines-is-building-an-expanded-edition-on-switch-2-this-month",
-          "titre": "Cities: Skylines Is Building An 'Expanded Edition' On Switch 2 This Month"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/you-can-now-sign-up-to-playtest-the-genre-bending-pony-island-2-panda-circus-and-while-youre-at-it-the-original-is-free-for-a-few-days-too",
+          "titre": "You can now sign up to playtest the genre-bending Pony Island 2: Panda Circus, and while you're at it the original is free for a few days too"
+        }
+      ]
+    },
+    {
+      "id": "why-a-21-year-old-coder-finally-ported-the-real-p-t-to-pc-th",
+      "titre": "Why a 21-year-old coder finally ported the real P.T. to PC: 'That something so influential could eventually become unplayable never sat right with me'",
+      "url": "https://www.pcgamer.com/games/horror/why-a-21-year-old-coder-finally-ported-the-real-p-t-to-pc-that-something-so-influential-could-eventually-become-unplayable-never-sat-right-with-me/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/why-a-21-year-old-coder-finally-ported-the-real-p-t-to-pc-that-something-so-influential-could-eventually-become-unplayable-never-sat-right-with-me/",
+          "titre": "Why a 21-year-old coder finally ported the real P.T. to PC: 'That something so influential could eventually become unplayable never sat right with me'"
+        }
+      ]
+    },
+    {
+      "id": "blizzard-refuses-to-let-world-of-warcraft-forever-s-dungeons",
+      "titre": "Blizzard refuses to let World of Warcraft: Forever's dungeons become the fastest way to grind XP: 'We need to hold firm on these balance adjustments'",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-refuses-to-let-world-of-warcraft-forevers-dungeons-become-the-fastest-way-to-grind-xp-we-need-to-hold-firm-on-these-balance-adjustments/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-refuses-to-let-world-of-warcraft-forevers-dungeons-become-the-fastest-way-to-grind-xp-we-need-to-hold-firm-on-these-balance-adjustments/",
+          "titre": "Blizzard refuses to let World of Warcraft: Forever's dungeons become the fastest way to grind XP: 'We need to hold firm on these balance adjustments'"
+        }
+      ]
+    },
+    {
+      "id": "us-government-accuses-microsoft-of-replacing-american-worker",
+      "titre": "US government accuses Microsoft of replacing American workers with 'foreign indentured servants,' then gives Satya Nadella a medal",
+      "url": "https://www.pcgamer.com/gaming-industry/us-government-accuses-microsoft-of-replacing-american-workers-with-foreign-indentured-servants-then-gives-satya-nadella-a-medal/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/us-government-accuses-microsoft-of-replacing-american-workers-with-foreign-indentured-servants-then-gives-satya-nadella-a-medal/",
+          "titre": "US government accuses Microsoft of replacing American workers with 'foreign indentured servants,' then gives Satya Nadella a medal"
         }
       ]
     },
@@ -797,7 +785,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +803,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -833,7 +821,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -851,7 +839,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -869,7 +857,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +875,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +893,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +911,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +929,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +947,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +965,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +983,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,7 +1001,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,7 +1019,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1049,7 +1037,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1067,7 +1055,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1085,7 +1073,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1103,7 +1091,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1121,7 +1109,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1139,7 +1127,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1157,13 +1145,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/pokemon-blind-bag-skateboard-decks-return-in-new-santa-cruz-collaboration",
           "titre": "Pokémon 'Blind Bag' Skateboard Decks Return In New Santa Cruz Collaboration"
+        }
+      ]
+    },
+    {
+      "id": "marvel-tokon-far-exceeds-expectations-in-us-sales-charts-ps5",
+      "titre": "Marvel Tokon Far Exceeds Expectations in US Sales Charts, PS5 Dollar Spend Up",
+      "url": "https://www.pushsquare.com/news/2026/10/marvel-tokon-far-exceeds-expectations-in-us-sales-charts-ps5-dollar-spend-up",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 11.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/marvel-tokon-far-exceeds-expectations-in-us-sales-charts-ps5-dollar-spend-up",
+          "titre": "Marvel Tokon Far Exceeds Expectations in US Sales Charts, PS5 Dollar Spend Up"
         }
       ]
     }
