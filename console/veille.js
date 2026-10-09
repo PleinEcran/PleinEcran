@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "09/10/2026 à 02h21",
+  "collecte": "09/10/2026 à 04h24",
   "seuil": 14,
   "sujets": [
     {
@@ -13,8 +13,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 11.2,
-      "chaleur": 13,
+      "heures": 13.3,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Eurogamer",
@@ -42,7 +42,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 1.6,
+      "heures": 3.7,
       "chaleur": 11,
       "liens": [
         {
@@ -67,7 +67,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 17.1,
+      "heures": 19.1,
       "chaleur": 11,
       "liens": [
         {
@@ -97,7 +97,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 10,
       "liens": [
         {
@@ -118,6 +118,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "best-buy-to-offer-additional-switch-2-zelda-units-in-store-a",
+      "titre": "Best Buy To Offer Additional Switch 2 Zelda Units In-Store At Midnight Launch",
+      "url": "https://www.nintendolife.com/news/2026/10/best-buy-to-offer-additional-switch-2-zelda-units-in-store-at-midnight-launch",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/best-buy-to-offer-additional-switch-2-zelda-units-in-store-at-midnight-launch",
+          "titre": "Best Buy To Offer Additional Switch 2 Zelda Units In-Store At Midnight Launch"
+        }
+      ]
+    },
+    {
       "id": "rockstar-hunted-gta-6-leaker-seemingly-strikes-again-showing",
       "titre": "Rockstar-hunted GTA 6 leaker seemingly strikes again, showing off series' most plentiful helping of onscreen johnson since San Andreas starred Carl",
       "url": "https://www.rockpapershotgun.com/rockstar-hunted-gta-6-leaker-seemingly-strikes-again-showing-off-series-most-plentiful-helping-of-onscreen-johnson-since-san-andreas-starred-carl",
@@ -125,8 +143,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 10,
+      "heures": 13.1,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -144,8 +162,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 10.1,
-      "chaleur": 9,
+      "heures": 12.1,
+      "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
@@ -167,7 +185,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 8,
       "liens": [
         {
@@ -186,7 +204,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 7,
       "liens": [
         {
@@ -209,7 +227,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.2,
       "chaleur": 7,
       "liens": [
         {
@@ -228,7 +246,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 7.2,
+      "heures": 9.3,
       "chaleur": 7,
       "liens": [
         {
@@ -252,7 +270,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 7,
       "liens": [
         {
@@ -264,54 +282,6 @@ const VEILLE = {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/first-forza-horizon-6-ps5-gameplay-arrives-as-release-date-is-revealed",
           "titre": "First Forza Horizon 6 PS5 Gameplay Arrives as Release Date Is Revealed"
-        }
-      ]
-    },
-    {
-      "id": "europe-shows-up-for-physical-games-51-of-wolverine-s-ps5-sal",
-      "titre": "Europe Shows Up for Physical Games, 51% of Wolverine's PS5 Sales for Disc Version",
-      "url": "https://www.pushsquare.com/news/2026/10/europe-shows-up-for-physical-games-51percent-of-wolverines-ps5-sales-for-disc-version",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 10.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/europe-shows-up-for-physical-games-51percent-of-wolverines-ps5-sales-for-disc-version",
-          "titre": "Europe Shows Up for Physical Games, 51% of Wolverine's PS5 Sales for Disc Version"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/35-of-sonys-wolverine-launch-sales-were-the-disc-version-data-suggests/",
-          "titre": "35% of Sony’s Wolverine launch sales were the disc version, data suggests"
-        }
-      ]
-    },
-    {
-      "id": "bobby-kotick-returns-former-activision-boss-becomes-board-me",
-      "titre": "Bobby Kotick returns: former Activision boss becomes board member of Skydance, the new company formed by Paramount and Warner Bros",
-      "url": "https://www.eurogamer.net/bobby-kotick-skydance-board-of-directors-1",
-      "sources": [
-        "Eurogamer",
-        "Game Developer"
-      ],
-      "reprises": 2,
-      "heures": 10.6,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/bobby-kotick-skydance-board-of-directors-1",
-          "titre": "Bobby Kotick returns: former Activision boss becomes board member of Skydance, the new company formed by Paramount and Warner Bros"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/former-activision-ceo-bobby-kotick-named-to-the-board-of-post-merger-skydance",
-          "titre": "Former Activision Blizzard CEO Bobby Kotick named to the board of post-merger Skydance"
         }
       ]
     },
@@ -370,6 +340,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "rumour-pok-mon-themed-mystery-lego-bags-are-supposedly-on-th",
+      "titre": "Rumour: Pokémon-Themed Mystery LEGO Bags Are Supposedly On The Way",
+      "url": "https://www.nintendolife.com/news/2026/10/rumour-pokemon-themed-mystery-lego-bags-are-supposedly-on-the-way",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/rumour-pokemon-themed-mystery-lego-bags-are-supposedly-on-the-way",
+          "titre": "Rumour: Pokémon-Themed Mystery LEGO Bags Are Supposedly On The Way"
+        }
+      ]
+    },
+    {
       "id": "if-you-like-scrappy-old-resident-evil-games-i-recommend-anom",
       "titre": "If You Like Scrappy Old Resident Evil Games, I Recommend ANOMALITH's PS5 Demo",
       "url": "https://www.pushsquare.com/news/2026/10/if-you-like-scrappy-old-resident-evil-games-i-recommend-anomaliths-ps5-demo",
@@ -377,31 +365,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/if-you-like-scrappy-old-resident-evil-games-i-recommend-anomaliths-ps5-demo",
           "titre": "If You Like Scrappy Old Resident Evil Games, I Recommend ANOMALITH's PS5 Demo"
-        }
-      ]
-    },
-    {
-      "id": "preview-phantom-blade-zero-is-the-next-truly-essential-ps5-g",
-      "titre": "Preview: Phantom Blade Zero Is the Next Truly Essential PS5 Game",
-      "url": "https://www.pushsquare.com/previews/phantom-blade-zero-is-the-next-truly-essential-ps5-game",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/previews/phantom-blade-zero-is-the-next-truly-essential-ps5-game",
-          "titre": "Preview: Phantom Blade Zero Is the Next Truly Essential PS5 Game"
         }
       ]
     },
@@ -413,7 +383,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.5,
       "chaleur": 6,
       "liens": [
         {
@@ -431,7 +401,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.9,
       "chaleur": 6,
       "liens": [
         {
@@ -442,38 +412,50 @@ const VEILLE = {
       ]
     },
     {
-      "id": "all-hail-the-long-steam-machine-pimax-s-new-steamos-ready-mi",
-      "titre": "All hail the long steam machine, Pimax's new SteamOS-ready mini PC",
-      "url": "https://www.pcgamer.com/hardware/steam-machines/all-hail-the-long-steam-machine-pimaxs-new-steamos-ready-mini-pc/",
+      "id": "europe-shows-up-for-physical-games-51-of-wolverine-s-ps5-sal",
+      "titre": "Europe Shows Up for Physical Games, 51% of Wolverine's PS5 Sales for Disc Version",
+      "url": "https://www.pushsquare.com/news/2026/10/europe-shows-up-for-physical-games-51percent-of-wolverines-ps5-sales-for-disc-version",
       "sources": [
-        "PC Gamer"
+        "Push Square",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 10.1,
+      "reprises": 2,
+      "heures": 12.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/steam-machines/all-hail-the-long-steam-machine-pimaxs-new-steamos-ready-mini-pc/",
-          "titre": "All hail the long steam machine, Pimax's new SteamOS-ready mini PC"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/europe-shows-up-for-physical-games-51percent-of-wolverines-ps5-sales-for-disc-version",
+          "titre": "Europe Shows Up for Physical Games, 51% of Wolverine's PS5 Sales for Disc Version"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/35-of-sonys-wolverine-launch-sales-were-the-disc-version-data-suggests/",
+          "titre": "35% of Sony’s Wolverine launch sales were the disc version, data suggests"
         }
       ]
     },
     {
-      "id": "spending-on-switch-2-game-key-cards-in-the-u-s-has-risen-by",
-      "titre": "Spending On Switch 2 Game-Key Cards In The U.S. Has Risen By 631%",
-      "url": "https://www.nintendolife.com/news/2026/10/spending-on-switch-2-game-key-cards-in-the-u-s-has-risen-by-631percent",
+      "id": "bobby-kotick-returns-former-activision-boss-becomes-board-me",
+      "titre": "Bobby Kotick returns: former Activision boss becomes board member of Skydance, the new company formed by Paramount and Warner Bros",
+      "url": "https://www.eurogamer.net/bobby-kotick-skydance-board-of-directors-1",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer",
+        "Game Developer"
       ],
-      "reprises": 1,
-      "heures": 10.1,
+      "reprises": 2,
+      "heures": 12.6,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/spending-on-switch-2-game-key-cards-in-the-u-s-has-risen-by-631percent",
-          "titre": "Spending On Switch 2 Game-Key Cards In The U.S. Has Risen By 631%"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/bobby-kotick-skydance-board-of-directors-1",
+          "titre": "Bobby Kotick returns: former Activision boss becomes board member of Skydance, the new company formed by Paramount and Warner Bros"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/former-activision-ceo-bobby-kotick-named-to-the-board-of-post-merger-skydance",
+          "titre": "Former Activision Blizzard CEO Bobby Kotick named to the board of post-merger Skydance"
         }
       ]
     },
@@ -486,7 +468,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 12.1,
+      "heures": 14.2,
       "chaleur": 6,
       "liens": [
         {
@@ -510,7 +492,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 6,
       "liens": [
         {
@@ -533,7 +515,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 6,
       "liens": [
         {
@@ -551,7 +533,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +551,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 16.2,
       "chaleur": 6,
       "liens": [
         {
@@ -587,7 +569,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.2,
       "chaleur": 6,
       "liens": [
         {
@@ -605,13 +587,49 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.0,
+      "heures": 20.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gears-of-war-the-coalition-layoffs-next-game",
           "titre": "Gears of War boss says the next game won't take seven years to make as he dances around the question of layoffs"
+        }
+      ]
+    },
+    {
+      "id": "all-hail-the-long-steam-machine-pimax-s-new-steamos-ready-mi",
+      "titre": "All hail the long steam machine, Pimax's new SteamOS-ready mini PC",
+      "url": "https://www.pcgamer.com/hardware/steam-machines/all-hail-the-long-steam-machine-pimaxs-new-steamos-ready-mini-pc/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 12.1,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/steam-machines/all-hail-the-long-steam-machine-pimaxs-new-steamos-ready-mini-pc/",
+          "titre": "All hail the long steam machine, Pimax's new SteamOS-ready mini PC"
+        }
+      ]
+    },
+    {
+      "id": "spending-on-switch-2-game-key-cards-in-the-u-s-has-risen-by",
+      "titre": "Spending On Switch 2 Game-Key Cards In The U.S. Has Risen By 631%",
+      "url": "https://www.nintendolife.com/news/2026/10/spending-on-switch-2-game-key-cards-in-the-u-s-has-risen-by-631percent",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.2,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/spending-on-switch-2-game-key-cards-in-the-u-s-has-risen-by-631percent",
+          "titre": "Spending On Switch 2 Game-Key Cards In The U.S. Has Risen By 631%"
         }
       ]
     },
@@ -623,7 +641,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.5,
       "chaleur": 5,
       "liens": [
         {
@@ -641,7 +659,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 16.1,
       "chaleur": 5,
       "liens": [
         {
@@ -659,7 +677,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 18.0,
       "chaleur": 5,
       "liens": [
         {
@@ -677,7 +695,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 26.5,
       "chaleur": 5,
       "liens": [
         {
@@ -695,13 +713,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.9,
+      "heures": 28.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/minecraft-switch-2-pre-orders-now-live-free-digital-upgrade-path-confirmed-as-limited-time-offer",
           "titre": "Minecraft Switch 2 Pre-Orders Now Live, Free Digital Upgrade Path Confirmed As \"Limited Time Offer\""
+        }
+      ]
+    },
+    {
+      "id": "preview-phantom-blade-zero-is-the-next-truly-essential-ps5-g",
+      "titre": "Preview: Phantom Blade Zero Is the Next Truly Essential PS5 Game",
+      "url": "https://www.pushsquare.com/previews/phantom-blade-zero-is-the-next-truly-essential-ps5-game",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/previews/phantom-blade-zero-is-the-next-truly-essential-ps5-game",
+          "titre": "Preview: Phantom Blade Zero Is the Next Truly Essential PS5 Game"
         }
       ]
     },
@@ -713,7 +749,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -731,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -749,7 +785,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -767,7 +803,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -785,7 +821,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.2,
       "chaleur": 4,
       "liens": [
         {
@@ -803,7 +839,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -821,7 +857,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -839,7 +875,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -857,7 +893,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -875,7 +911,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
@@ -893,7 +929,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -911,7 +947,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -929,7 +965,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -947,7 +983,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -965,7 +1001,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -983,7 +1019,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1001,7 +1037,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1019,7 +1055,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1037,7 +1073,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1055,8 +1091,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 4,
+      "heures": 12.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1073,8 +1109,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1091,8 +1127,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1109,8 +1145,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1127,49 +1163,13 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/denuvo-attempts-to-subpoena-discord-valve-and-reddit-in-effort-to-identify-hacker",
           "titre": "Denuvo attempts to subpoena Discord, Valve, and Reddit in effort to identify hacker"
-        }
-      ]
-    },
-    {
-      "id": "pok-mon-blind-bag-skateboard-decks-return-in-new-santa-cruz",
-      "titre": "Pokémon 'Blind Bag' Skateboard Decks Return In New Santa Cruz Collaboration",
-      "url": "https://www.nintendolife.com/news/2026/10/pokemon-blind-bag-skateboard-decks-return-in-new-santa-cruz-collaboration",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/pokemon-blind-bag-skateboard-decks-return-in-new-santa-cruz-collaboration",
-          "titre": "Pokémon 'Blind Bag' Skateboard Decks Return In New Santa Cruz Collaboration"
-        }
-      ]
-    },
-    {
-      "id": "marvel-tokon-far-exceeds-expectations-in-us-sales-charts-ps5",
-      "titre": "Marvel Tokon Far Exceeds Expectations in US Sales Charts, PS5 Dollar Spend Up",
-      "url": "https://www.pushsquare.com/news/2026/10/marvel-tokon-far-exceeds-expectations-in-us-sales-charts-ps5-dollar-spend-up",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/marvel-tokon-far-exceeds-expectations-in-us-sales-charts-ps5-dollar-spend-up",
-          "titre": "Marvel Tokon Far Exceeds Expectations in US Sales Charts, PS5 Dollar Spend Up"
         }
       ]
     }
