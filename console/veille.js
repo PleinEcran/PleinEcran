@@ -1,8 +1,44 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "09/10/2026 à 04h24",
+  "collecte": "09/10/2026 à 06h29",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "wake-up-samurai-cyberpunk-2077-is-getting-a-live-action-movi",
+      "titre": "Wake Up, Samurai! Cyberpunk 2077 Is Getting A Live-Action Movie",
+      "url": "https://www.nintendolife.com/news/2026/10/wake-up-samurai-cyberpunk-2077-is-getting-a-live-action-movie",
+      "sources": [
+        "Nintendo Life",
+        "Push Square",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 4,
+      "heures": 1.7,
+      "chaleur": 15,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/wake-up-samurai-cyberpunk-2077-is-getting-a-live-action-movie",
+          "titre": "Wake Up, Samurai! Cyberpunk 2077 Is Getting A Live-Action Movie"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/all-hail-brand-synergy-cyberpunk-2077-is-getting-a-live-action-adaptation-from-paramount-and-the-producer-behind-the-horrendous-doom-movie",
+          "titre": "All hail brand synergy, Cyberpunk 2077 is getting a live action adaptation from Paramount and the producer behind the horrendous Doom movie"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-is-the-next-game-set-for-a-live-action-film",
+          "titre": "Cyberpunk 2077 Is the Next Game Set for a Live-Action Film"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/cyberpunk-2077-is-getting-a-live-action-movie-from-paramount/",
+          "titre": "Cyberpunk 2077 is getting a live-action movie from Paramount"
+        }
+      ]
+    },
     {
       "id": "for-the-first-time-in-the-series-grand-theft-auto-6-lets-you",
       "titre": "For the first time in the series, Grand Theft Auto 6 lets you use headphones to listen to radio stations and podcasts",
@@ -13,7 +49,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 13.3,
+      "heures": 15.4,
       "chaleur": 12,
       "liens": [
         {
@@ -34,6 +70,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "best-buy-to-offer-additional-switch-2-zelda-units-in-store-a",
+      "titre": "Best Buy To Offer Additional Switch 2 Zelda Units In-Store At Midnight Launch",
+      "url": "https://www.nintendolife.com/news/2026/10/best-buy-to-offer-additional-switch-2-zelda-units-in-store-at-midnight-launch",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/best-buy-to-offer-additional-switch-2-zelda-units-in-store-at-midnight-launch",
+          "titre": "Best Buy To Offer Additional Switch 2 Zelda Units In-Store At Midnight Launch"
+        }
+      ]
+    },
+    {
       "id": "witcher-3-remastered-switch-2-update-to-improve-image-clarit",
       "titre": "Witcher 3 Remastered Switch 2 Update To Improve \"Image Clarity And Sharpness\"",
       "url": "https://www.nintendolife.com/news/2026/10/witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness",
@@ -42,8 +96,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 3.7,
-      "chaleur": 11,
+      "heures": 5.7,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -58,84 +112,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "star-wars-zero-company-studio-start-to-bring-back-devs-furlo",
-      "titre": "Star Wars Zero Company studio start to bring back devs furloughed prior to launch, with \"more than half\" of previous headcount reportedly returning to payroll",
-      "url": "https://www.rockpapershotgun.com/star-wars-zero-company-studio-start-to-bring-back-devs-furloughed-prior-to-launch-with-more-than-half-of-previous-headcount-reportedly-returning-to-payroll",
-      "sources": [
-        "Game Developer",
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 19.1,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/star-wars-zero-company-studio-start-to-bring-back-devs-furloughed-prior-to-launch-with-more-than-half-of-previous-headcount-reportedly-returning-to-payroll",
-          "titre": "Star Wars Zero Company studio start to bring back devs furloughed prior to launch, with \"more than half\" of previous headcount reportedly returning to payroll"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back",
-          "titre": "Star Wars Zero Company developer Bit Reactor begins bringing furloughed staff back"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/star-wars-zero-company-developer-bit-reactor-brings-back-over-half-of-furloughed-staff",
-          "titre": "Star Wars Zero Company developer Bit Reactor brings back 'over half' of furloughed staff"
-        }
-      ]
-    },
-    {
-      "id": "all-hail-brand-synergy-cyberpunk-2077-is-getting-a-live-acti",
-      "titre": "All hail brand synergy, Cyberpunk 2077 is getting a live action adaptation from Paramount and the producer behind the horrendous Doom movie",
-      "url": "https://www.rockpapershotgun.com/all-hail-brand-synergy-cyberpunk-2077-is-getting-a-live-action-adaptation-from-paramount-and-the-producer-behind-the-horrendous-doom-movie",
-      "sources": [
-        "Push Square",
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 7.9,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/all-hail-brand-synergy-cyberpunk-2077-is-getting-a-live-action-adaptation-from-paramount-and-the-producer-behind-the-horrendous-doom-movie",
-          "titre": "All hail brand synergy, Cyberpunk 2077 is getting a live action adaptation from Paramount and the producer behind the horrendous Doom movie"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-is-the-next-game-set-for-a-live-action-film",
-          "titre": "Cyberpunk 2077 Is the Next Game Set for a Live-Action Film"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/cyberpunk-2077-is-getting-a-live-action-movie-from-paramount/",
-          "titre": "Cyberpunk 2077 is getting a live-action movie from Paramount"
-        }
-      ]
-    },
-    {
-      "id": "best-buy-to-offer-additional-switch-2-zelda-units-in-store-a",
-      "titre": "Best Buy To Offer Additional Switch 2 Zelda Units In-Store At Midnight Launch",
-      "url": "https://www.nintendolife.com/news/2026/10/best-buy-to-offer-additional-switch-2-zelda-units-in-store-at-midnight-launch",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/best-buy-to-offer-additional-switch-2-zelda-units-in-store-at-midnight-launch",
-          "titre": "Best Buy To Offer Additional Switch 2 Zelda Units In-Store At Midnight Launch"
-        }
-      ]
-    },
-    {
       "id": "rockstar-hunted-gta-6-leaker-seemingly-strikes-again-showing",
       "titre": "Rockstar-hunted GTA 6 leaker seemingly strikes again, showing off series' most plentiful helping of onscreen johnson since San Andreas starred Carl",
       "url": "https://www.rockpapershotgun.com/rockstar-hunted-gta-6-leaker-seemingly-strikes-again-showing-off-series-most-plentiful-helping-of-onscreen-johnson-since-san-andreas-starred-carl",
@@ -143,7 +119,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 15.2,
       "chaleur": 9,
       "liens": [
         {
@@ -162,7 +138,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 12.1,
+      "heures": 14.2,
       "chaleur": 8,
       "liens": [
         {
@@ -178,6 +154,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "star-wars-zero-company-studio-start-to-bring-back-devs-furlo",
+      "titre": "Star Wars Zero Company studio start to bring back devs furloughed prior to launch, with \"more than half\" of previous headcount reportedly returning to payroll",
+      "url": "https://www.rockpapershotgun.com/star-wars-zero-company-studio-start-to-bring-back-devs-furloughed-prior-to-launch-with-more-than-half-of-previous-headcount-reportedly-returning-to-payroll",
+      "sources": [
+        "GamesIndustry.biz",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 21.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/star-wars-zero-company-studio-start-to-bring-back-devs-furloughed-prior-to-launch-with-more-than-half-of-previous-headcount-reportedly-returning-to-payroll",
+          "titre": "Star Wars Zero Company studio start to bring back devs furloughed prior to launch, with \"more than half\" of previous headcount reportedly returning to payroll"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back",
+          "titre": "Star Wars Zero Company developer Bit Reactor begins bringing furloughed staff back"
+        }
+      ]
+    },
+    {
       "id": "gameplay-footage-from-cancelled-xbox-perfect-dark-game-leaks",
       "titre": "Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good",
       "url": "https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak",
@@ -185,7 +185,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.5,
       "chaleur": 8,
       "liens": [
         {
@@ -204,7 +204,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 7.4,
+      "heures": 9.5,
       "chaleur": 7,
       "liens": [
         {
@@ -227,7 +227,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.3,
       "chaleur": 7,
       "liens": [
         {
@@ -246,7 +246,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 7,
       "liens": [
         {
@@ -258,30 +258,6 @@ const VEILLE = {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/adventure/subnautica-2-fans-can-finally-hunt-and-kill-those-pesky-nibbler-mangos-in-dave-the-divers-crossover-dlc/",
           "titre": "Subnautica 2 fans can finally hunt and kill those pesky Nibbler Mangos—in Dave the Diver's crossover DLC"
-        }
-      ]
-    },
-    {
-      "id": "forza-horizon-6-officially-dated-for-ps5-alongside-an-expans",
-      "titre": "Forza Horizon 6 officially dated for PS5, alongside an expansion",
-      "url": "https://www.videogameschronicle.com/news/forza-horizon-6-officially-dated-for-ps5-alongside-an-expansion/",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 10.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/forza-horizon-6-officially-dated-for-ps5-alongside-an-expansion/",
-          "titre": "Forza Horizon 6 officially dated for PS5, alongside an expansion"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/first-forza-horizon-6-ps5-gameplay-arrives-as-release-date-is-revealed",
-          "titre": "First Forza Horizon 6 PS5 Gameplay Arrives as Release Date Is Revealed"
         }
       ]
     },
@@ -347,7 +323,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -358,20 +334,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "if-you-like-scrappy-old-resident-evil-games-i-recommend-anom",
-      "titre": "If You Like Scrappy Old Resident Evil Games, I Recommend ANOMALITH's PS5 Demo",
-      "url": "https://www.pushsquare.com/news/2026/10/if-you-like-scrappy-old-resident-evil-games-i-recommend-anomaliths-ps5-demo",
+      "id": "tropico-7-officially-confirmed-for-switch-2-out-2027",
+      "titre": "Tropico 7 Officially Confirmed For Switch 2, Out 2027",
+      "url": "https://www.nintendolife.com/news/2026/10/tropico-7-officially-confirmed-for-switch-2-out-2027",
       "sources": [
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.9,
+      "heures": 5.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/if-you-like-scrappy-old-resident-evil-games-i-recommend-anomaliths-ps5-demo",
-          "titre": "If You Like Scrappy Old Resident Evil Games, I Recommend ANOMALITH's PS5 Demo"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/tropico-7-officially-confirmed-for-switch-2-out-2027",
+          "titre": "Tropico 7 Officially Confirmed For Switch 2, Out 2027"
         }
       ]
     },
@@ -383,7 +359,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.6,
       "chaleur": 6,
       "liens": [
         {
@@ -394,20 +370,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-ceo-unveils-new-xbox-division-for-game-adjacent-venture",
-      "titre": "Xbox CEO unveils 'new Xbox division' for game-adjacent ventures named 'XP'",
-      "url": "https://www.gamedeveloper.com/console/xbox-ceo-unveils-new-xbox-division-for-game-adjacent-ventures-named-xp-",
+      "id": "forza-horizon-6-officially-dated-for-ps5-alongside-an-expans",
+      "titre": "Forza Horizon 6 officially dated for PS5, alongside an expansion",
+      "url": "https://www.videogameschronicle.com/news/forza-horizon-6-officially-dated-for-ps5-alongside-an-expansion/",
       "sources": [
-        "Game Developer"
+        "Push Square",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 10.9,
+      "reprises": 2,
+      "heures": 12.5,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/xbox-ceo-unveils-new-xbox-division-for-game-adjacent-ventures-named-xp-",
-          "titre": "Xbox CEO unveils 'new Xbox division' for game-adjacent ventures named 'XP'"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/forza-horizon-6-officially-dated-for-ps5-alongside-an-expansion/",
+          "titre": "Forza Horizon 6 officially dated for PS5, alongside an expansion"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/first-forza-horizon-6-ps5-gameplay-arrives-as-release-date-is-revealed",
+          "titre": "First Forza Horizon 6 PS5 Gameplay Arrives as Release Date Is Revealed"
         }
       ]
     },
@@ -420,7 +402,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 12.4,
+      "heures": 14.5,
       "chaleur": 6,
       "liens": [
         {
@@ -436,30 +418,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "bobby-kotick-returns-former-activision-boss-becomes-board-me",
-      "titre": "Bobby Kotick returns: former Activision boss becomes board member of Skydance, the new company formed by Paramount and Warner Bros",
-      "url": "https://www.eurogamer.net/bobby-kotick-skydance-board-of-directors-1",
-      "sources": [
-        "Eurogamer",
-        "Game Developer"
-      ],
-      "reprises": 2,
-      "heures": 12.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/bobby-kotick-skydance-board-of-directors-1",
-          "titre": "Bobby Kotick returns: former Activision boss becomes board member of Skydance, the new company formed by Paramount and Warner Bros"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/former-activision-ceo-bobby-kotick-named-to-the-board-of-post-merger-skydance",
-          "titre": "Former Activision Blizzard CEO Bobby Kotick named to the board of post-merger Skydance"
-        }
-      ]
-    },
-    {
       "id": "i-enjoy-how-hellraiser-revival-s-real-life-bondage-club-make",
       "titre": "I enjoy how Hellraiser: Revival's 'real-life' bondage club makes the rest of Hellraiser: Revival feel kind of embarrassing",
       "url": "https://www.rockpapershotgun.com/i-enjoy-how-hellraiser-revivals-real-life-bondage-club-makes-the-rest-of-hellraiser-revival-feel-kind-of-embarrassing",
@@ -468,7 +426,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 14.2,
+      "heures": 16.3,
       "chaleur": 6,
       "liens": [
         {
@@ -492,7 +450,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 14.4,
+      "heures": 16.5,
       "chaleur": 6,
       "liens": [
         {
@@ -515,7 +473,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 17.0,
       "chaleur": 6,
       "liens": [
         {
@@ -533,7 +491,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 17.0,
       "chaleur": 6,
       "liens": [
         {
@@ -551,7 +509,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.3,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +527,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.3,
       "chaleur": 6,
       "liens": [
         {
@@ -587,13 +545,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 22.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gears-of-war-the-coalition-layoffs-next-game",
           "titre": "Gears of War boss says the next game won't take seven years to make as he dances around the question of layoffs"
+        }
+      ]
+    },
+    {
+      "id": "xbox-ceo-unveils-new-xbox-division-for-game-adjacent-venture",
+      "titre": "Xbox CEO unveils 'new Xbox division' for game-adjacent ventures named 'XP'",
+      "url": "https://www.gamedeveloper.com/console/xbox-ceo-unveils-new-xbox-division-for-game-adjacent-ventures-named-xp-",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 13.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/console/xbox-ceo-unveils-new-xbox-division-for-game-adjacent-ventures-named-xp-",
+          "titre": "Xbox CEO unveils 'new Xbox division' for game-adjacent ventures named 'XP'"
         }
       ]
     },
@@ -605,7 +581,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.2,
       "chaleur": 5,
       "liens": [
         {
@@ -623,7 +599,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.2,
       "chaleur": 5,
       "liens": [
         {
@@ -641,7 +617,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.6,
       "chaleur": 5,
       "liens": [
         {
@@ -659,7 +635,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.2,
       "chaleur": 5,
       "liens": [
         {
@@ -677,7 +653,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.0,
+      "heures": 20.1,
       "chaleur": 5,
       "liens": [
         {
@@ -688,38 +664,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "pok-mon-ruby-sapphire-switch-port-rumours-resurface-followi",
-      "titre": "﻿Pokémon Ruby & Sapphire Switch Port Rumours Resurface Following ﻿Pokémon HOME's Latest Update",
-      "url": "https://www.nintendolife.com/news/2026/10/pokemon-ruby-and-sapphire-switch-port-rumours-resurface-following-pokemon-homes-latest-update",
+      "id": "if-you-like-scrappy-old-resident-evil-games-i-recommend-anom",
+      "titre": "If You Like Scrappy Old Resident Evil Games, I Recommend ANOMALITH's PS5 Demo",
+      "url": "https://www.pushsquare.com/news/2026/10/if-you-like-scrappy-old-resident-evil-games-i-recommend-anomaliths-ps5-demo",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.5,
-      "chaleur": 5,
+      "heures": 5.0,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/pokemon-ruby-and-sapphire-switch-port-rumours-resurface-following-pokemon-homes-latest-update",
-          "titre": "﻿Pokémon Ruby & Sapphire Switch Port Rumours Resurface Following ﻿Pokémon HOME's Latest Update"
-        }
-      ]
-    },
-    {
-      "id": "minecraft-switch-2-pre-orders-now-live-free-digital-upgrade",
-      "titre": "Minecraft Switch 2 Pre-Orders Now Live, Free Digital Upgrade Path Confirmed As \"Limited Time Offer\"",
-      "url": "https://www.nintendolife.com/news/2026/10/minecraft-switch-2-pre-orders-now-live-free-digital-upgrade-path-confirmed-as-limited-time-offer",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 28.0,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/minecraft-switch-2-pre-orders-now-live-free-digital-upgrade-path-confirmed-as-limited-time-offer",
-          "titre": "Minecraft Switch 2 Pre-Orders Now Live, Free Digital Upgrade Path Confirmed As \"Limited Time Offer\""
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/if-you-like-scrappy-old-resident-evil-games-i-recommend-anomaliths-ps5-demo",
+          "titre": "If You Like Scrappy Old Resident Evil Games, I Recommend ANOMALITH's PS5 Demo"
         }
       ]
     },
@@ -731,7 +689,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -749,7 +707,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -767,7 +725,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -785,7 +743,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -803,7 +761,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -821,7 +779,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.2,
       "chaleur": 4,
       "liens": [
         {
@@ -839,7 +797,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 12.0,
       "chaleur": 4,
       "liens": [
         {
@@ -857,8 +815,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -875,8 +833,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -893,8 +851,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -911,8 +869,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -929,8 +887,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -947,8 +905,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -965,8 +923,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -983,8 +941,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1001,8 +959,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1019,8 +977,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1037,8 +995,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1055,8 +1013,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 13.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1073,8 +1031,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 14.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1091,13 +1049,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 14.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/fps/crowning-the-best-fps-mode-of-all-time-through-1v1-combat-round-2/",
           "titre": "Crowning the best FPS mode of all time through 1v1 combat (ROUND 2)"
+        }
+      ]
+    },
+    {
+      "id": "bobby-kotick-returns-former-activision-boss-becomes-board-me",
+      "titre": "Bobby Kotick returns: former Activision boss becomes board member of Skydance, the new company formed by Paramount and Warner Bros",
+      "url": "https://www.eurogamer.net/bobby-kotick-skydance-board-of-directors-1",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 14.7,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/bobby-kotick-skydance-board-of-directors-1",
+          "titre": "Bobby Kotick returns: former Activision boss becomes board member of Skydance, the new company formed by Paramount and Warner Bros"
         }
       ]
     },
@@ -1109,7 +1085,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 15.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1127,7 +1103,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 15.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1145,7 +1121,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 15.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1163,7 +1139,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1172,7 +1148,27 @@ const VEILLE = {
           "titre": "Denuvo attempts to subpoena Discord, Valve, and Reddit in effort to identify hacker"
         }
       ]
+    },
+    {
+      "id": "pok-mon-blind-bag-skateboard-decks-return-in-new-santa-cruz",
+      "titre": "Pokémon 'Blind Bag' Skateboard Decks Return In New Santa Cruz Collaboration",
+      "url": "https://www.nintendolife.com/news/2026/10/pokemon-blind-bag-skateboard-decks-return-in-new-santa-cruz-collaboration",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 15.5,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/pokemon-blind-bag-skateboard-decks-return-in-new-santa-cruz-collaboration",
+          "titre": "Pokémon 'Blind Bag' Skateboard Decks Return In New Santa Cruz Collaboration"
+        }
+      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Wake Up, Samurai! Cyberpunk 2077 Is Getting A Live-Action Movie"
+  ]
 };
