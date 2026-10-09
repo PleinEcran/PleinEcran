@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "09/10/2026 à 08h24",
+  "collecte": "09/10/2026 à 10h24",
   "seuil": 14,
   "sujets": [
     {
@@ -14,8 +14,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 3.7,
-      "chaleur": 15,
+      "heures": 5.7,
+      "chaleur": 13,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -49,7 +49,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 17.3,
+      "heures": 19.3,
       "chaleur": 12,
       "liens": [
         {
@@ -70,6 +70,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "ace-combat-8-is-the-fastest-selling-entry-in-the-series-afte",
+      "titre": "Ace Combat 8 is the fastest selling entry in the series after hitting 1 million sales",
+      "url": "https://www.videogameschronicle.com/news/ace-combat-8-is-the-fastest-selling-entry-in-the-series-after-hitting-1-million-sales/",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/ace-combat-8-is-the-fastest-selling-entry-in-the-series-after-hitting-1-million-sales/",
+          "titre": "Ace Combat 8 is the fastest selling entry in the series after hitting 1 million sales"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ace-combat-8-has-sold-one-million-copies-faster-than-any-previous-entry-in-the-series",
+          "titre": "Ace Combat 8 Has Sold One Million Copies Faster Than Any Previous Entry in the Series"
+        }
+      ]
+    },
+    {
       "id": "witcher-3-remastered-switch-2-update-to-improve-image-clarit",
       "titre": "Witcher 3 Remastered Switch 2 Update To Improve \"Image Clarity And Sharpness\"",
       "url": "https://www.nintendolife.com/news/2026/10/witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness",
@@ -78,7 +102,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 7.7,
+      "heures": 9.7,
       "chaleur": 9,
       "liens": [
         {
@@ -101,37 +125,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 19.1,
       "chaleur": 9,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/rockstar-hunted-gta-6-leaker-seemingly-strikes-again-showing-off-series-most-plentiful-helping-of-onscreen-johnson-since-san-andreas-starred-carl",
           "titre": "Rockstar-hunted GTA 6 leaker seemingly strikes again, showing off series' most plentiful helping of onscreen johnson since San Andreas starred Carl"
-        }
-      ]
-    },
-    {
-      "id": "as-it-lays-off-developers-and-closes-studios-xbox-gets-into",
-      "titre": "As it lays off developers and closes studios, Xbox gets into the movie business",
-      "url": "https://www.pcgamer.com/gaming-industry/as-it-lays-off-developers-and-closes-studios-xbox-gets-into-the-movie-business/",
-      "sources": [
-        "GamesIndustry.biz",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 16.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/as-it-lays-off-developers-and-closes-studios-xbox-gets-into-the-movie-business/",
-          "titre": "As it lays off developers and closes studios, Xbox gets into the movie business"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding",
-          "titre": "Gravity Well lays off more than 40 developers after losing its funding"
         }
       ]
     },
@@ -143,7 +143,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 25.5,
       "chaleur": 8,
       "liens": [
         {
@@ -161,37 +161,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/best-buy-to-offer-additional-switch-2-zelda-units-in-store-at-midnight-launch",
           "titre": "Best Buy To Offer Additional Switch 2 Zelda Units In-Store At Midnight Launch"
-        }
-      ]
-    },
-    {
-      "id": "how-to-start-the-dragon-s-dogma-2-dark-arisen-expansion",
-      "titre": "How to start the Dragon's Dogma 2: Dark Arisen expansion",
-      "url": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-how-to-start-dark-arisen/",
-      "sources": [
-        "Nintendo Life",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 11.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-how-to-start-dark-arisen/",
-          "titre": "How to start the Dragon's Dogma 2: Dark Arisen expansion"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-dragons-dogma-2-dark-arisen-are-in",
-          "titre": "Round Up: The Reviews For Dragon's Dogma 2: Dark Arisen Are In"
         }
       ]
     },
@@ -250,6 +226,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "intel-to-release-new-cpus-on-old-socket-in-early-2027-says-g",
+      "titre": "Intel to release new CPUs on old socket in early 2027 says Gigabyte - memory crisis making DDR4 desirable again",
+      "url": "https://www.pcgamer.com/hardware/processors/intel-to-release-new-cpus-on-old-socket-in-early-2027-says-gigabyte-memory-crisis-making-ddr4-desirable-again/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/processors/intel-to-release-new-cpus-on-old-socket-in-early-2027-says-gigabyte-memory-crisis-making-ddr4-desirable-again/",
+          "titre": "Intel to release new CPUs on old socket in early 2027 says Gigabyte - memory crisis making DDR4 desirable again"
+        }
+      ]
+    },
+    {
+      "id": "peter-molyneux-explains-the-origin-story-of-black-white-s-fa",
+      "titre": "Peter Molyneux explains the origin story of Black & White's famous creatures: 'It was originally a monster. It wasn't a cute creature'",
+      "url": "https://www.pcgamer.com/games/strategy/peter-molyneux-explains-the-origin-story-of-black-and-whites-famous-creatures-it-was-originally-a-monster-it-wasnt-a-cute-creature/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/peter-molyneux-explains-the-origin-story-of-black-and-whites-famous-creatures-it-was-originally-a-monster-it-wasnt-a-cute-creature/",
+          "titre": "Peter Molyneux explains the origin story of Black & White's famous creatures: 'It was originally a monster. It wasn't a cute creature'"
+        }
+      ]
+    },
+    {
+      "id": "after-the-first-seven-leisure-suit-larry-games-were-delisted",
+      "titre": "After the first seven Leisure Suit Larry games were delisted last year, the last two are joining them",
+      "url": "https://www.videogameschronicle.com/news/after-the-first-seven-leisure-suit-larry-games-were-delisted-last-year-the-last-two-are-joining-them/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/after-the-first-seven-leisure-suit-larry-games-were-delisted-last-year-the-last-two-are-joining-them/",
+          "titre": "After the first seven Leisure Suit Larry games were delisted last year, the last two are joining them"
+        }
+      ]
+    },
+    {
       "id": "tropico-7-officially-confirmed-for-switch-2-out-2027",
       "titre": "Tropico 7 Officially Confirmed For Switch 2, Out 2027",
       "url": "https://www.nintendolife.com/news/2026/10/tropico-7-officially-confirmed-for-switch-2-out-2027",
@@ -257,13 +287,37 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/tropico-7-officially-confirmed-for-switch-2-out-2027",
           "titre": "Tropico 7 Officially Confirmed For Switch 2, Out 2027"
+        }
+      ]
+    },
+    {
+      "id": "how-to-start-the-dragon-s-dogma-2-dark-arisen-expansion",
+      "titre": "How to start the Dragon's Dogma 2: Dark Arisen expansion",
+      "url": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-how-to-start-dark-arisen/",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 13.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-how-to-start-dark-arisen/",
+          "titre": "How to start the Dragon's Dogma 2: Dark Arisen expansion"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-dragons-dogma-2-dark-arisen-are-in",
+          "titre": "Round Up: The Reviews For Dragon's Dogma 2: Dark Arisen Are In"
         }
       ]
     },
@@ -275,7 +329,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.2,
       "chaleur": 6,
       "liens": [
         {
@@ -294,7 +348,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 13.3,
+      "heures": 15.3,
       "chaleur": 6,
       "liens": [
         {
@@ -318,7 +372,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 6,
       "liens": [
         {
@@ -342,7 +396,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 6,
       "liens": [
         {
@@ -366,7 +420,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 18.2,
+      "heures": 20.2,
       "chaleur": 6,
       "liens": [
         {
@@ -390,7 +444,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 18.4,
+      "heures": 20.4,
       "chaleur": 6,
       "liens": [
         {
@@ -413,7 +467,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.9,
       "chaleur": 6,
       "liens": [
         {
@@ -431,7 +485,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.9,
       "chaleur": 6,
       "liens": [
         {
@@ -449,7 +503,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.2,
+      "heures": 22.2,
       "chaleur": 6,
       "liens": [
         {
@@ -467,7 +521,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 22.3,
       "chaleur": 6,
       "liens": [
         {
@@ -485,7 +539,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.1,
+      "heures": 26.1,
       "chaleur": 6,
       "liens": [
         {
@@ -503,7 +557,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.5,
       "chaleur": 5,
       "liens": [
         {
@@ -521,13 +575,31 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/console/xbox-ceo-unveils-new-xbox-division-for-game-adjacent-ventures-named-xp-",
           "titre": "Xbox CEO unveils 'new Xbox division' for game-adjacent ventures named 'XP'"
+        }
+      ]
+    },
+    {
+      "id": "as-it-lays-off-developers-and-closes-studios-xbox-gets-into",
+      "titre": "As it lays off developers and closes studios, Xbox gets into the movie business",
+      "url": "https://www.pcgamer.com/gaming-industry/as-it-lays-off-developers-and-closes-studios-xbox-gets-into-the-movie-business/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 18.1,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/as-it-lays-off-developers-and-closes-studios-xbox-gets-into-the-movie-business/",
+          "titre": "As it lays off developers and closes studios, Xbox gets into the movie business"
         }
       ]
     },
@@ -539,7 +611,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.1,
       "chaleur": 5,
       "liens": [
         {
@@ -557,7 +629,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.2,
       "chaleur": 5,
       "liens": [
         {
@@ -575,7 +647,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.5,
       "chaleur": 5,
       "liens": [
         {
@@ -593,7 +665,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 20.1,
+      "heures": 22.1,
       "chaleur": 5,
       "liens": [
         {
@@ -611,7 +683,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.0,
+      "heures": 24.0,
       "chaleur": 5,
       "liens": [
         {
@@ -629,7 +701,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.1,
+      "heures": 25.1,
       "chaleur": 5,
       "liens": [
         {
@@ -647,7 +719,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -665,7 +737,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -683,7 +755,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -701,8 +773,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -719,8 +791,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -737,8 +809,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -755,8 +827,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -773,7 +845,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.2,
       "chaleur": 3,
       "liens": [
         {
@@ -791,7 +863,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -809,7 +881,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.3,
       "chaleur": 3,
       "liens": [
         {
@@ -827,7 +899,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -845,7 +917,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.5,
       "chaleur": 3,
       "liens": [
         {
@@ -863,7 +935,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.7,
+      "heures": 16.7,
       "chaleur": 3,
       "liens": [
         {
@@ -881,7 +953,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 3,
       "liens": [
         {
@@ -899,7 +971,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 3,
       "liens": [
         {
@@ -917,7 +989,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -935,7 +1007,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -953,7 +1025,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -971,7 +1043,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -989,7 +1061,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +1079,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,7 +1097,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,7 +1115,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 18.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,7 +1133,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 18.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1079,85 +1151,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.9,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/hell-is-us-massively-expands-its-roster-of-freaky-enemies-to-celebrate-2-million-players",
           "titre": "Hell Is Us Massively Expands Its Roster of Freaky Enemies to Celebrate 2 Million Players"
-        }
-      ]
-    },
-    {
-      "id": "riot-games-announces-a-final-hurrah-for-its-ill-fated-fighti",
-      "titre": "Riot Games announces a final hurrah for its ill-fated fighting game 2XKO, with a surprise character joining the roster this month",
-      "url": "https://www.eurogamer.net/2xko-sett-announcement-final-update",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 17.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/2xko-sett-announcement-final-update",
-          "titre": "Riot Games announces a final hurrah for its ill-fated fighting game 2XKO, with a surprise character joining the roster this month"
-        }
-      ]
-    },
-    {
-      "id": "how-to-complete-boarding-the-frigate-in-arc-raiders",
-      "titre": "How to complete Boarding the Frigate in Arc Raiders",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-boarding-the-frigate-walkthrough/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-boarding-the-frigate-walkthrough/",
-          "titre": "How to complete Boarding the Frigate in Arc Raiders"
-        }
-      ]
-    },
-    {
-      "id": "denuvo-attempts-to-subpoena-discord-valve-and-reddit-in-effo",
-      "titre": "Denuvo attempts to subpoena Discord, Valve, and Reddit in effort to identify hacker",
-      "url": "https://www.gamedeveloper.com/business/denuvo-attempts-to-subpoena-discord-valve-and-reddit-in-effort-to-identify-hacker",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 17.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/denuvo-attempts-to-subpoena-discord-valve-and-reddit-in-effort-to-identify-hacker",
-          "titre": "Denuvo attempts to subpoena Discord, Valve, and Reddit in effort to identify hacker"
-        }
-      ]
-    },
-    {
-      "id": "pok-mon-blind-bag-skateboard-decks-return-in-new-santa-cruz",
-      "titre": "Pokémon 'Blind Bag' Skateboard Decks Return In New Santa Cruz Collaboration",
-      "url": "https://www.nintendolife.com/news/2026/10/pokemon-blind-bag-skateboard-decks-return-in-new-santa-cruz-collaboration",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/pokemon-blind-bag-skateboard-decks-return-in-new-santa-cruz-collaboration",
-          "titre": "Pokémon 'Blind Bag' Skateboard Decks Return In New Santa Cruz Collaboration"
         }
       ]
     }
