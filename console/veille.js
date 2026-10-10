@@ -1,8 +1,32 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "10/10/2026 à 10h20",
+  "collecte": "10/10/2026 à 12h25",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "will-gta-6-make-its-way-to-switch-2-nintendo-isn-t-saying",
+      "titre": "Will GTA 6 make its way to Switch 2? Nintendo isn’t saying",
+      "url": "https://www.videogameschronicle.com/news/will-gta-6-make-its-way-to-switch-2-nintendo-isnt-saying/",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.3,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/will-gta-6-make-its-way-to-switch-2-nintendo-isnt-saying/",
+          "titre": "Will GTA 6 make its way to Switch 2? Nintendo isn’t saying"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-of-americas-president-comments-on-the-possibility-of-gta-6-on-switch-2",
+          "titre": "Nintendo Of America's President Comments On The Possibility Of GTA 6 On Switch 2"
+        }
+      ]
+    },
     {
       "id": "sonic-racing-crossworlds-year-2-crossovers-revealed-includin",
       "titre": "Sonic Racing Crossworlds Year 2 crossovers revealed, including Final Fantasy 7, Hello Kitty and retro Sega",
@@ -13,7 +37,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 0.4,
+      "heures": 2.5,
       "chaleur": 12,
       "liens": [
         {
@@ -43,7 +67,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 1.3,
+      "heures": 3.4,
       "chaleur": 12,
       "liens": [
         {
@@ -64,6 +88,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "review-middle-earth-shadow-of-mordor-game-of-the-year-editio",
+      "titre": "Review: Middle-earth: Shadow Of Mordor Game Of The Year Edition (Switch 2) - The Nemesis System Is Still A Winner",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/middle-earth-shadow-of-mordor-game-of-the-year-edition",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/middle-earth-shadow-of-mordor-game-of-the-year-edition",
+          "titre": "Review: Middle-earth: Shadow Of Mordor Game Of The Year Edition (Switch 2) - The Nemesis System Is Still A Winner"
+        }
+      ]
+    },
+    {
+      "id": "silent-hill-gravity-rush-director-s-bokeh-game-studio-is-rep",
+      "titre": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game",
+      "url": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
+          "titre": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game"
+        }
+      ]
+    },
+    {
       "id": "it-s-official-forza-horizon-6-delayed-to-2027-on-ps5-and-the",
       "titre": "It's official: Forza Horizon 6 delayed to 2027 on PS5, and the game's first expansion has been announced",
       "url": "https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay",
@@ -72,7 +132,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 19.6,
+      "heures": 21.7,
       "chaleur": 8,
       "liens": [
         {
@@ -96,7 +156,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 21.4,
+      "heures": 23.5,
       "chaleur": 8,
       "liens": [
         {
@@ -119,7 +179,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.4,
       "chaleur": 7,
       "liens": [
         {
@@ -166,56 +226,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "dd2-dark-arisen-all-commission-supply-locations-the-snatchin",
-      "titre": "DD2 Dark Arisen: All Commission Supply locations, The Snatching-Beast quest guide",
-      "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-commission-supply-locations-the-snatching-beast-quest-guide/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-commission-supply-locations-the-snatching-beast-quest-guide/",
-          "titre": "DD2 Dark Arisen: All Commission Supply locations, The Snatching-Beast quest guide"
-        }
-      ]
-    },
-    {
-      "id": "what-we-ve-been-playing-it-s-pure-video-game-popcorn-movie-s",
-      "titre": "What we've been playing - \"It's pure video game popcorn movie stuff\"",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-its-pure-video-game-popcorn-movie-stuff",
+      "id": "arc-raiders-could-eventually-be-split-into-pve-and-pvp-says",
+      "titre": "Arc Raiders could eventually be split into PvE and PvP, says executive producer",
+      "url": "https://www.eurogamer.net/arc-raiders-pve-pvp-split-possible-executive-producer",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.3,
+      "heures": 1.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/what-weve-been-playing-its-pure-video-game-popcorn-movie-stuff",
-          "titre": "What we've been playing - \"It's pure video game popcorn movie stuff\""
+          "url": "https://www.eurogamer.net/arc-raiders-pve-pvp-split-possible-executive-producer",
+          "titre": "Arc Raiders could eventually be split into PvE and PvP, says executive producer"
         }
       ]
     },
     {
-      "id": "fortnite-x-sonic-collab-to-be-continued",
-      "titre": "Fortnite X Sonic Collab \"To Be Continued\"",
-      "url": "https://www.nintendolife.com/news/2026/10/fortnite-x-sonic-collab-to-be-continued",
+      "id": "if-you-re-skilful-enough-you-can-chop-the-head-off-a-monste",
+      "titre": "'If you're skilful enough, you can chop the head off a monster, kick it midair, and then kill another monster with it': Consider me sold on this indie first-person ARPG",
+      "url": "https://www.pcgamer.com/games/rpg/if-youre-skilful-enough-you-can-chop-the-head-off-a-monster-kick-it-midair-and-then-kill-another-monster-with-it-consider-me-sold-on-this-indie-first-person-arpg/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.3,
+      "heures": 1.2,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/fortnite-x-sonic-collab-to-be-continued",
-          "titre": "Fortnite X Sonic Collab \"To Be Continued\""
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/if-youre-skilful-enough-you-can-chop-the-head-off-a-monster-kick-it-midair-and-then-kill-another-monster-with-it-consider-me-sold-on-this-indie-first-person-arpg/",
+          "titre": "'If you're skilful enough, you can chop the head off a monster, kick it midair, and then kill another monster with it': Consider me sold on this indie first-person ARPG"
+        }
+      ]
+    },
+    {
+      "id": "guide-these-30-ps5-games-are-coming-out-next-week-12th-18th",
+      "titre": "Guide: These 30+ PS5 Games Are Coming Out Next Week (12th-18th October)",
+      "url": "https://www.pushsquare.com/guides/these-30plus-ps5-games-are-coming-out-next-week-12th-18th-october",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-30plus-ps5-games-are-coming-out-next-week-12th-18th-october",
+          "titre": "Guide: These 30+ PS5 Games Are Coming Out Next Week (12th-18th October)"
+        }
+      ]
+    },
+    {
+      "id": "mafia-3-which-pc-gamer-scored-54-but-which-i-say-is-great-go",
+      "titre": "Mafia 3, which PC Gamer scored 54% but which I say is great, got a nice little 10th-anniversary update",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/mafia-3-which-pc-gamer-scored-54-percent-but-which-i-say-is-great-got-a-nice-little-10th-anniversary-update/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/mafia-3-which-pc-gamer-scored-54-percent-but-which-i-say-is-great-got-a-nice-little-10th-anniversary-update/",
+          "titre": "Mafia 3, which PC Gamer scored 54% but which I say is great, got a nice little 10th-anniversary update"
+        }
+      ]
+    },
+    {
+      "id": "konami-is-already-thinking-about-the-next-wave-of-silent-hil",
+      "titre": "Konami is already thinking about the next wave of Silent Hill games",
+      "url": "https://www.eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto",
+          "titre": "Konami is already thinking about the next wave of Silent Hill games"
         }
       ]
     },
@@ -227,7 +323,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.7,
       "chaleur": 6,
       "liens": [
         {
@@ -246,7 +342,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 12.4,
+      "heures": 14.5,
       "chaleur": 6,
       "liens": [
         {
@@ -269,7 +365,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.6,
       "chaleur": 6,
       "liens": [
         {
@@ -288,7 +384,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 17.3,
+      "heures": 19.3,
       "chaleur": 6,
       "liens": [
         {
@@ -311,7 +407,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.4,
       "chaleur": 6,
       "liens": [
         {
@@ -329,49 +425,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.7,
+      "heures": 19.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/rockstar-employment-tribunal-hr-manager-little-interest-union",
           "titre": "Rockstar HR manager claims he had \"little interest\" in staff's union membership status as fired GTA dev union-busting trial heats up"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-of-america-s-president-comments-on-the-possibility",
-      "titre": "Nintendo Of America's President Comments On The Possibility Of GTA 6 On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-of-americas-president-comments-on-the-possibility-of-gta-6-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 18.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-of-americas-president-comments-on-the-possibility-of-gta-6-on-switch-2",
-          "titre": "Nintendo Of America's President Comments On The Possibility Of GTA 6 On Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "counter-strike-2-player-dedicates-master-s-thesis-to-rooting",
-      "titre": "Counter-Strike 2 player dedicates Master's thesis to rooting out cheaters, creates grade A player tracking system",
-      "url": "https://www.pcgamer.com/hardware/counter-strike-2-player-dedicates-masters-thesis-to-rooting-out-cheaters-creates-grade-a-player-tracking-system/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 19.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/counter-strike-2-player-dedicates-masters-thesis-to-rooting-out-cheaters-creates-grade-a-player-tracking-system/",
-          "titre": "Counter-Strike 2 player dedicates Master's thesis to rooting out cheaters, creates grade A player tracking system"
         }
       ]
     },
@@ -383,7 +443,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.5,
       "chaleur": 6,
       "liens": [
         {
@@ -401,7 +461,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.4,
       "chaleur": 5,
       "liens": [
         {
@@ -419,7 +479,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.5,
       "chaleur": 5,
       "liens": [
         {
@@ -437,7 +497,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.8,
+      "heures": 20.9,
       "chaleur": 5,
       "liens": [
         {
@@ -455,7 +515,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 21.0,
       "chaleur": 5,
       "liens": [
         {
@@ -473,7 +533,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.1,
+      "heures": 21.2,
       "chaleur": 5,
       "liens": [
         {
@@ -491,7 +551,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.4,
       "chaleur": 5,
       "liens": [
         {
@@ -509,7 +569,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.6,
       "chaleur": 5,
       "liens": [
         {
@@ -527,7 +587,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.6,
+      "heures": 24.7,
       "chaleur": 5,
       "liens": [
         {
@@ -545,13 +605,67 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/final-fantasy-vii-revelation-cast-get-emotional-in-last-recording-sessions",
           "titre": "Final Fantasy VII Revelation Cast Get Emotional In Last Recording Sessions"
+        }
+      ]
+    },
+    {
+      "id": "dd2-dark-arisen-all-commission-supply-locations-the-snatchin",
+      "titre": "DD2 Dark Arisen: All Commission Supply locations, The Snatching-Beast quest guide",
+      "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-commission-supply-locations-the-snatching-beast-quest-guide/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-commission-supply-locations-the-snatching-beast-quest-guide/",
+          "titre": "DD2 Dark Arisen: All Commission Supply locations, The Snatching-Beast quest guide"
+        }
+      ]
+    },
+    {
+      "id": "what-we-ve-been-playing-it-s-pure-video-game-popcorn-movie-s",
+      "titre": "What we've been playing - \"It's pure video game popcorn movie stuff\"",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-its-pure-video-game-popcorn-movie-stuff",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/what-weve-been-playing-its-pure-video-game-popcorn-movie-stuff",
+          "titre": "What we've been playing - \"It's pure video game popcorn movie stuff\""
+        }
+      ]
+    },
+    {
+      "id": "fortnite-x-sonic-collab-to-be-continued",
+      "titre": "Fortnite X Sonic Collab \"To Be Continued\"",
+      "url": "https://www.nintendolife.com/news/2026/10/fortnite-x-sonic-collab-to-be-continued",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/fortnite-x-sonic-collab-to-be-continued",
+          "titre": "Fortnite X Sonic Collab \"To Be Continued\""
         }
       ]
     },
@@ -563,7 +677,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -581,8 +695,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -599,8 +713,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -617,7 +731,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 16.1,
       "chaleur": 3,
       "liens": [
         {
@@ -635,7 +749,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.7,
+      "heures": 16.7,
       "chaleur": 3,
       "liens": [
         {
@@ -653,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 18.1,
       "chaleur": 3,
       "liens": [
         {
@@ -671,7 +785,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 18.7,
       "chaleur": 3,
       "liens": [
         {
@@ -689,7 +803,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 19.2,
       "chaleur": 3,
       "liens": [
         {
@@ -707,7 +821,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.7,
+      "heures": 19.8,
       "chaleur": 3,
       "liens": [
         {
@@ -725,7 +839,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 19.9,
       "chaleur": 3,
       "liens": [
         {
@@ -743,7 +857,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 19.9,
       "chaleur": 3,
       "liens": [
         {
@@ -761,7 +875,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.3,
+      "heures": 20.4,
       "chaleur": 3,
       "liens": [
         {
@@ -779,7 +893,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 20.7,
       "chaleur": 3,
       "liens": [
         {
@@ -797,7 +911,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 20.7,
       "chaleur": 3,
       "liens": [
         {
@@ -815,7 +929,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.8,
+      "heures": 20.9,
       "chaleur": 3,
       "liens": [
         {
@@ -833,7 +947,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.8,
+      "heures": 20.9,
       "chaleur": 3,
       "liens": [
         {
@@ -851,7 +965,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.1,
+      "heures": 21.2,
       "chaleur": 3,
       "liens": [
         {
@@ -869,7 +983,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.3,
       "chaleur": 3,
       "liens": [
         {
@@ -887,7 +1001,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.3,
       "chaleur": 3,
       "liens": [
         {
@@ -905,7 +1019,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.4,
       "chaleur": 3,
       "liens": [
         {
@@ -923,7 +1037,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.6,
       "chaleur": 3,
       "liens": [
         {
@@ -941,7 +1055,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 21.7,
       "chaleur": 3,
       "liens": [
         {
@@ -959,7 +1073,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 22.0,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +1091,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.2,
+      "heures": 22.2,
       "chaleur": 3,
       "liens": [
         {
@@ -995,31 +1109,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 22.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/cd-projekt-red-delivers-the-witcher-3-remastered-fixes-improvements-in-patch-5-01",
           "titre": "CD Projekt Red Delivers The Witcher 3 Remastered Fixes, Improvements in Patch 5.01"
-        }
-      ]
-    },
-    {
-      "id": "how-to-get-planks-and-sheet-metal-in-arc-raiders",
-      "titre": "How to get planks and sheet metal in Arc Raiders",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-planks-sheet-metal-location/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-planks-sheet-metal-location/",
-          "titre": "How to get planks and sheet metal in Arc Raiders"
         }
       ]
     },
@@ -1031,103 +1127,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.8,
+      "heures": 22.9,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/wolverine-ps5-sales-estimates-are-somewhat-soft-but-heres-why-im-not-worried",
           "titre": "Wolverine PS5 Sales Estimates Are Somewhat Soft, But Here's Why I'm Not Worried"
-        }
-      ]
-    },
-    {
-      "id": "more-cox-in-video-games-as-daredevil-and-clair-obscur-star-s",
-      "titre": "More Cox in video games as Daredevil and Clair Obscur star says he's in an unannounced Sega title",
-      "url": "https://www.eurogamer.net/charlie-cox-unannounced-sega-game-clair-obscur-daredevil",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 20.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/charlie-cox-unannounced-sega-game-clair-obscur-daredevil",
-          "titre": "More Cox in video games as Daredevil and Clair Obscur star says he's in an unannounced Sega title"
-        }
-      ]
-    },
-    {
-      "id": "ace-combat-8-becomes-fastest-selling-game-in-the-series-and",
-      "titre": "Ace Combat 8 becomes fastest-selling game in the series, and very nearly the highest rated",
-      "url": "https://www.eurogamer.net/ace-combat-8-sales",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 21.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ace-combat-8-sales",
-          "titre": "Ace Combat 8 becomes fastest-selling game in the series, and very nearly the highest rated"
-        }
-      ]
-    },
-    {
-      "id": "ea-sports-fc-27-review",
-      "titre": "EA Sports FC 27 review",
-      "url": "https://www.eurogamer.net/ea-sports-fc-27-review",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 21.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ea-sports-fc-27-review",
-          "titre": "EA Sports FC 27 review"
-        }
-      ]
-    },
-    {
-      "id": "dave-the-diver-s-final-dlc-is-the-perfect-crossover",
-      "titre": "Dave The Diver's Final DLC Is The Perfect Crossover",
-      "url": "https://www.nintendolife.com/news/2026/10/dave-the-divers-final-dlc-is-the-perfect-crossover",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 21.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/dave-the-divers-final-dlc-is-the-perfect-crossover",
-          "titre": "Dave The Diver's Final DLC Is The Perfect Crossover"
-        }
-      ]
-    },
-    {
-      "id": "crimson-desert-s-lower-review-scores-were-because-critics-di",
-      "titre": "Crimson Desert’s lower review scores were because critics didn’t get a ‘fair chance to explore’, exec says",
-      "url": "https://www.videogameschronicle.com/news/crimson-deserts-lower-review-scores-were-because-critics-didnt-get-a-fair-chance-to-explore-exec-says/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 22.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/crimson-deserts-lower-review-scores-were-because-critics-didnt-get-a-fair-chance-to-explore-exec-says/",
-          "titre": "Crimson Desert’s lower review scores were because critics didn’t get a ‘fair chance to explore’, exec says"
         }
       ]
     }
