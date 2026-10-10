@@ -1,25 +1,55 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "10/10/2026 à 08h21",
+  "collecte": "10/10/2026 à 10h20",
   "seuil": 14,
   "sujets": [
     {
-      "id": "what-we-ve-been-playing-it-s-pure-video-game-popcorn-movie-s",
-      "titre": "What we've been playing - \"It's pure video game popcorn movie stuff\"",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-its-pure-video-game-popcorn-movie-stuff",
+      "id": "sonic-racing-crossworlds-year-2-crossovers-revealed-includin",
+      "titre": "Sonic Racing Crossworlds Year 2 crossovers revealed, including Final Fantasy 7, Hello Kitty and retro Sega",
+      "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-year-2-crossovers-revealed-including-final-fantasy-7-hello-kitty-and-retro-sega/",
       "sources": [
-        "Eurogamer",
+        "Nintendo Life",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 0.4,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-year-2-crossovers-revealed-including-final-fantasy-7-hello-kitty-and-retro-sega/",
+          "titre": "Sonic Racing Crossworlds Year 2 crossovers revealed, including Final Fantasy 7, Hello Kitty and retro Sega"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sonic-racing-crossworlds-now-permanently-cheaper-and-its-going-absolutely-bananas-with-dlc-in-year-2",
+          "titre": "Sonic Racing: CrossWorlds Now Permanently Cheaper, and It's Going Absolutely Bananas with DLC in Year 2"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-two-roadmap-revealed-major-free-updates-new-collabs-and-much-more",
+          "titre": "Sonic Racing: CrossWorlds \"Year Two\" Roadmap Revealed - Major Free Updates, New Collabs And Much More"
+        }
+      ]
+    },
+    {
+      "id": "talking-point-what-are-you-playing-this-weekend-10th-october",
+      "titre": "Talking Point: What Are You Playing This Weekend? (10th October)",
+      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-10th-october",
+      "sources": [
+        "Nintendo Life",
         "Push Square",
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 1.4,
+      "heures": 1.3,
       "chaleur": 12,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/what-weve-been-playing-its-pure-video-game-popcorn-movie-stuff",
-          "titre": "What we've been playing - \"It's pure video game popcorn movie stuff\""
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-10th-october",
+          "titre": "Talking Point: What Are You Playing This Weekend? (10th October)"
         },
         {
           "source": "Rock Paper Shotgun",
@@ -34,66 +64,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "cyberpunk-2077-is-being-made-into-a-movie-even-though-we-ve",
-      "titre": "Cyberpunk 2077 is being made into a movie, even though we've already got the perfect cyberpunk movie starring Keanu Reeves as a guy named Johnny",
-      "url": "https://www.pcgamer.com/movies-tv/cyberpunk-2077-is-being-made-into-a-movie-even-though-weve-already-got-the-perfect-cyberpunk-movie-starring-keanu-reeves-as-a-guy-named-johnny/",
-      "sources": [
-        "Nintendo Life",
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 10.5,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/cyberpunk-2077-is-being-made-into-a-movie-even-though-weve-already-got-the-perfect-cyberpunk-movie-starring-keanu-reeves-as-a-guy-named-johnny/",
-          "titre": "Cyberpunk 2077 is being made into a movie, even though we've already got the perfect cyberpunk movie starring Keanu Reeves as a guy named Johnny"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/wake-up-samurai-cyberpunk-2077-is-getting-a-live-action-movie",
-          "titre": "Wake Up, Samurai! Cyberpunk 2077 Is Getting A Live-Action Movie"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/all-hail-brand-synergy-cyberpunk-2077-is-getting-a-live-action-adaptation-from-paramount-and-the-producer-behind-the-horrendous-doom-movie",
-          "titre": "All hail brand synergy, Cyberpunk 2077 is getting a live action adaptation from Paramount and the producer behind the horrendous Doom movie"
-        }
-      ]
-    },
-    {
-      "id": "ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after",
-      "titre": "Ubisoft to sunset Rainbow Six Mobile just seven months after launch",
-      "url": "https://www.gamedeveloper.com/mobile/ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after-launch",
-      "sources": [
-        "Game Developer",
-        "GamesIndustry.biz",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 15.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/mobile/ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after-launch",
-          "titre": "Ubisoft to sunset Rainbow Six Mobile just seven months after launch"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/ubisoft-is-shutting-down-rainbow-six-mobile-dev-team-releases-message/",
-          "titre": "Ubisoft is shutting down Rainbow Six Mobile, dev team releases message"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/ubisoft-announces-shutdown-of-rainbow-six-mobile-seven-months-after-global-launch",
-          "titre": "Ubisoft announces shutdown of Rainbow Six Mobile seven months after global launch"
-        }
-      ]
-    },
-    {
       "id": "it-s-official-forza-horizon-6-delayed-to-2027-on-ps5-and-the",
       "titre": "It's official: Forza Horizon 6 delayed to 2027 on PS5, and the game's first expansion has been announced",
       "url": "https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay",
@@ -102,7 +72,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 17.7,
+      "heures": 19.6,
       "chaleur": 8,
       "liens": [
         {
@@ -126,7 +96,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 19.5,
+      "heures": 21.4,
       "chaleur": 8,
       "liens": [
         {
@@ -149,7 +119,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.3,
       "chaleur": 7,
       "liens": [
         {
@@ -203,13 +173,31 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-commission-supply-locations-the-snatching-beast-quest-guide/",
           "titre": "DD2 Dark Arisen: All Commission Supply locations, The Snatching-Beast quest guide"
+        }
+      ]
+    },
+    {
+      "id": "what-we-ve-been-playing-it-s-pure-video-game-popcorn-movie-s",
+      "titre": "What we've been playing - \"It's pure video game popcorn movie stuff\"",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-its-pure-video-game-popcorn-movie-stuff",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 3.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/what-weve-been-playing-its-pure-video-game-popcorn-movie-stuff",
+          "titre": "What we've been playing - \"It's pure video game popcorn movie stuff\""
         }
       ]
     },
@@ -221,7 +209,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -239,13 +227,37 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/video-dragons-dogma-2-side-by-side-graphics-comparison-switch-2-and-ps5",
           "titre": "Video: Dragon's Dogma 2 Side-By-Side Graphics Comparison (Switch 2 & PS5)"
+        }
+      ]
+    },
+    {
+      "id": "cyberpunk-2077-is-being-made-into-a-movie-even-though-we-ve",
+      "titre": "Cyberpunk 2077 is being made into a movie, even though we've already got the perfect cyberpunk movie starring Keanu Reeves as a guy named Johnny",
+      "url": "https://www.pcgamer.com/movies-tv/cyberpunk-2077-is-being-made-into-a-movie-even-though-weve-already-got-the-perfect-cyberpunk-movie-starring-keanu-reeves-as-a-guy-named-johnny/",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 12.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/cyberpunk-2077-is-being-made-into-a-movie-even-though-weve-already-got-the-perfect-cyberpunk-movie-starring-keanu-reeves-as-a-guy-named-johnny/",
+          "titre": "Cyberpunk 2077 is being made into a movie, even though we've already got the perfect cyberpunk movie starring Keanu Reeves as a guy named Johnny"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/wake-up-samurai-cyberpunk-2077-is-getting-a-live-action-movie",
+          "titre": "Wake Up, Samurai! Cyberpunk 2077 Is Getting A Live-Action Movie"
         }
       ]
     },
@@ -257,13 +269,37 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
           "titre": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\""
+        }
+      ]
+    },
+    {
+      "id": "ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after",
+      "titre": "Ubisoft to sunset Rainbow Six Mobile just seven months after launch",
+      "url": "https://www.gamedeveloper.com/mobile/ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after-launch",
+      "sources": [
+        "Game Developer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 17.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/mobile/ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after-launch",
+          "titre": "Ubisoft to sunset Rainbow Six Mobile just seven months after launch"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/ubisoft-announces-shutdown-of-rainbow-six-mobile-seven-months-after-global-launch",
+          "titre": "Ubisoft announces shutdown of Rainbow Six Mobile seven months after global launch"
         }
       ]
     },
@@ -275,7 +311,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.3,
       "chaleur": 6,
       "liens": [
         {
@@ -293,7 +329,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 17.7,
       "chaleur": 6,
       "liens": [
         {
@@ -311,7 +347,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.1,
       "chaleur": 6,
       "liens": [
         {
@@ -329,7 +365,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 6,
       "liens": [
         {
@@ -347,31 +383,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/undead-labs-boss-reluctant-to-share-number-affected-by-layoffs-i-would-hate-to-reduce-the-impact-to-those-individuals-to-a-number-or-statistic",
           "titre": "Undead Labs boss \"reluctant to share\" number affected by layoffs: \"I would hate to reduce the impact to those individuals to a number or statistic\""
-        }
-      ]
-    },
-    {
-      "id": "best-buy-to-offer-additional-switch-2-zelda-units-in-store-a",
-      "titre": "Best Buy To Offer Additional Switch 2 Zelda Units In-Store At Midnight Launch",
-      "url": "https://www.nintendolife.com/news/2026/10/best-buy-to-offer-additional-switch-2-zelda-units-in-store-at-midnight-launch",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 29.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/best-buy-to-offer-additional-switch-2-zelda-units-in-store-at-midnight-launch",
-          "titre": "Best Buy To Offer Additional Switch 2 Zelda Units In-Store At Midnight Launch"
         }
       ]
     },
@@ -383,7 +401,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.3,
       "chaleur": 5,
       "liens": [
         {
@@ -401,7 +419,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.5,
       "chaleur": 5,
       "liens": [
         {
@@ -419,7 +437,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.8,
       "chaleur": 5,
       "liens": [
         {
@@ -437,7 +455,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.9,
       "chaleur": 5,
       "liens": [
         {
@@ -455,7 +473,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 19.1,
       "chaleur": 5,
       "liens": [
         {
@@ -473,7 +491,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.3,
       "chaleur": 5,
       "liens": [
         {
@@ -491,7 +509,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.5,
       "chaleur": 5,
       "liens": [
         {
@@ -509,7 +527,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.6,
+      "heures": 22.6,
       "chaleur": 5,
       "liens": [
         {
@@ -527,7 +545,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.3,
       "chaleur": 5,
       "liens": [
         {
@@ -545,7 +563,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -563,31 +581,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/gaming-monitors/2026s-oled-monitors-can-nearly-recreate-the-sublime-clarity-of-a-90s-crt-but-windows-will-have-to-change-before-we-can-achieve-true-nirvana/",
           "titre": "2026's OLED monitors can nearly recreate the sublime clarity of a '90s CRT, but Windows will have to change before we can achieve true nirvana"
-        }
-      ]
-    },
-    {
-      "id": "sonic-racing-crossworlds-year-two-roadmap-revealed-major-fre",
-      "titre": "Sonic Racing: CrossWorlds \"Year Two\" Roadmap Revealed - Major Free Updates, New Collabs And Much More",
-      "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-two-roadmap-revealed-major-free-updates-new-collabs-and-much-more",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 8.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-two-roadmap-revealed-major-free-updates-new-collabs-and-much-more",
-          "titre": "Sonic Racing: CrossWorlds \"Year Two\" Roadmap Revealed - Major Free Updates, New Collabs And Much More"
         }
       ]
     },
@@ -599,7 +599,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -617,7 +617,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.1,
       "chaleur": 3,
       "liens": [
         {
@@ -635,7 +635,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 14.7,
       "chaleur": 3,
       "liens": [
         {
@@ -653,7 +653,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 16.0,
       "chaleur": 3,
       "liens": [
         {
@@ -671,7 +671,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.6,
       "chaleur": 3,
       "liens": [
         {
@@ -689,7 +689,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 17.1,
       "chaleur": 3,
       "liens": [
         {
@@ -707,7 +707,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 17.7,
       "chaleur": 3,
       "liens": [
         {
@@ -725,7 +725,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.8,
       "chaleur": 3,
       "liens": [
         {
@@ -743,7 +743,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -761,7 +761,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.3,
       "chaleur": 3,
       "liens": [
         {
@@ -779,7 +779,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 18.6,
       "chaleur": 3,
       "liens": [
         {
@@ -797,7 +797,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 16.7,
+      "heures": 18.6,
       "chaleur": 3,
       "liens": [
         {
@@ -815,7 +815,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.8,
+      "heures": 18.8,
       "chaleur": 3,
       "liens": [
         {
@@ -833,7 +833,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.8,
+      "heures": 18.8,
       "chaleur": 3,
       "liens": [
         {
@@ -851,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 19.1,
       "chaleur": 3,
       "liens": [
         {
@@ -869,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
@@ -887,7 +887,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
@@ -905,7 +905,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
@@ -923,7 +923,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -941,7 +941,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 19.6,
       "chaleur": 3,
       "liens": [
         {
@@ -959,7 +959,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.0,
+      "heures": 20.0,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +977,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 20.2,
       "chaleur": 3,
       "liens": [
         {
@@ -995,7 +995,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1013,7 +1013,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +1031,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,7 +1049,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,7 +1067,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.0,
+      "heures": 21.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1085,7 +1085,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 21.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1103,7 +1103,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 21.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1121,7 +1121,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 20.8,
+      "heures": 22.8,
       "chaleur": 3,
       "liens": [
         {
