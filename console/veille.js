@@ -1,8 +1,32 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "10/10/2026 à 12h25",
+  "collecte": "10/10/2026 à 14h20",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "us-console-hardware-market-at-its-most-precarious-position-s",
+      "titre": "US console hardware market at its most precarious position ‘since the 80s’, says Circana",
+      "url": "https://www.videogameschronicle.com/news/us-console-hardware-market-at-its-most-precarious-position-since-the-80s-says-circana/",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.4,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/us-console-hardware-market-at-its-most-precarious-position-since-the-80s-says-circana/",
+          "titre": "US console hardware market at its most precarious position ‘since the 80s’, says Circana"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
+          "titre": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\""
+        }
+      ]
+    },
     {
       "id": "will-gta-6-make-its-way-to-switch-2-nintendo-isn-t-saying",
       "titre": "Will GTA 6 make its way to Switch 2? Nintendo isn’t saying",
@@ -12,7 +36,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.3,
+      "heures": 2.2,
       "chaleur": 12,
       "liens": [
         {
@@ -37,8 +61,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 2.5,
-      "chaleur": 12,
+      "heures": 4.4,
+      "chaleur": 10,
       "liens": [
         {
           "source": "VGC",
@@ -67,8 +91,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 3.4,
-      "chaleur": 12,
+      "heures": 5.3,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -88,6 +112,72 @@ const VEILLE = {
       ]
     },
     {
+      "id": "tekken-8-s-reina-officially-announced-as-fatal-fury-ps5-s-ne",
+      "titre": "Tekken 8's Reina Officially Announced as Fatal Fury PS5's Next Challenger",
+      "url": "https://www.pushsquare.com/news/2026/10/tekken-8s-reina-officially-announced-as-fatal-fury-ps5s-next-challenger",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 0.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/tekken-8s-reina-officially-announced-as-fatal-fury-ps5s-next-challenger",
+          "titre": "Tekken 8's Reina Officially Announced as Fatal Fury PS5's Next Challenger"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/fatal-fury-city-of-the-wolves-announces-tekken-collab",
+          "titre": "Fatal Fury: City Of The Wolves Announces Tekken Collab"
+        }
+      ]
+    },
+    {
+      "id": "expect-plenty-more-silent-hill-over-the-next-few-years-as-ko",
+      "titre": "Expect plenty more Silent Hill over the next few years, as Konami has plans for 'second and third waves' of new games in its revived horror series",
+      "url": "https://www.pcgamer.com/games/horror/expect-plenty-more-silent-hill-over-the-next-few-years-as-konami-has-plans-for-second-and-third-waves-of-new-games-in-its-revived-horror-series/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 1.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/expect-plenty-more-silent-hill-over-the-next-few-years-as-konami-has-plans-for-second-and-third-waves-of-new-games-in-its-revived-horror-series/",
+          "titre": "Expect plenty more Silent Hill over the next few years, as Konami has plans for 'second and third waves' of new games in its revived horror series"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto",
+          "titre": "Konami is already thinking about the next wave of Silent Hill games"
+        }
+      ]
+    },
+    {
+      "id": "the-advent-of-first-person-shooters-introduced-a-wild-fronti",
+      "titre": "The advent of first-person shooters introduced a wild frontier of unregulated video game level packs, and it ended in a lawsuit that changed copyright forever",
+      "url": "https://www.pcgamer.com/games/fps/the-advent-of-first-person-shooters-introduced-a-wild-frontier-of-unregulated-video-game-level-packs-and-it-ended-in-a-lawsuit-that-changed-copyright-forever/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/the-advent-of-first-person-shooters-introduced-a-wild-frontier-of-unregulated-video-game-level-packs-and-it-ended-in-a-lawsuit-that-changed-copyright-forever/",
+          "titre": "The advent of first-person shooters introduced a wild frontier of unregulated video game level packs, and it ended in a lawsuit that changed copyright forever"
+        }
+      ]
+    },
+    {
       "id": "review-middle-earth-shadow-of-mordor-game-of-the-year-editio",
       "titre": "Review: Middle-earth: Shadow Of Mordor Game Of The Year Edition (Switch 2) - The Nemesis System Is Still A Winner",
       "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/middle-earth-shadow-of-mordor-game-of-the-year-edition",
@@ -95,7 +185,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.3,
       "chaleur": 8,
       "liens": [
         {
@@ -113,7 +203,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.6,
       "chaleur": 8,
       "liens": [
         {
@@ -132,7 +222,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 21.7,
+      "heures": 23.6,
       "chaleur": 8,
       "liens": [
         {
@@ -156,7 +246,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 23.5,
+      "heures": 25.4,
       "chaleur": 8,
       "liens": [
         {
@@ -179,7 +269,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.3,
       "chaleur": 7,
       "liens": [
         {
@@ -226,6 +316,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "dd2-dark-arisen-transmog-how-to-change-armor-appearance",
+      "titre": "DD2 Dark Arisen transmog: How to change armor appearance",
+      "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-transmog-how-to-change-armor-appearance/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-transmog-how-to-change-armor-appearance/",
+          "titre": "DD2 Dark Arisen transmog: How to change armor appearance"
+        }
+      ]
+    },
+    {
+      "id": "triple-a-minesweeper-is-a-gleeful-send-up-of-blockbuster-gam",
+      "titre": "Triple-A Minesweeper is a gleeful send-up of blockbuster gaming's worst habits, from yellow paint to characters who talk too much",
+      "url": "https://www.pcgamer.com/games/puzzle/triple-a-minesweeper-is-a-gleeful-send-up-of-blockbuster-gamings-worst-habits-from-yellow-paint-to-characters-who-talk-too-much/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/puzzle/triple-a-minesweeper-is-a-gleeful-send-up-of-blockbuster-gamings-worst-habits-from-yellow-paint-to-characters-who-talk-too-much/",
+          "titre": "Triple-A Minesweeper is a gleeful send-up of blockbuster gaming's worst habits, from yellow paint to characters who talk too much"
+        }
+      ]
+    },
+    {
+      "id": "be-warned-nivalis-nights-may-not-be-the-cozy-game-you-expect",
+      "titre": "Be warned: Nivalis Nights may not be the cozy game you expect: 'If you want a cozy existence in this city, you're going to have to earn it'",
+      "url": "https://www.pcgamer.com/games/life-sim/be-warned-nivalis-nights-may-not-be-the-cozy-game-you-expect-if-you-want-a-cozy-existence-in-this-city-youre-going-to-have-to-earn-it/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/life-sim/be-warned-nivalis-nights-may-not-be-the-cozy-game-you-expect-if-you-want-a-cozy-existence-in-this-city-youre-going-to-have-to-earn-it/",
+          "titre": "Be warned: Nivalis Nights may not be the cozy game you expect: 'If you want a cozy existence in this city, you're going to have to earn it'"
+        }
+      ]
+    },
+    {
       "id": "arc-raiders-could-eventually-be-split-into-pve-and-pvp-says",
       "titre": "Arc Raiders could eventually be split into PvE and PvP, says executive producer",
       "url": "https://www.eurogamer.net/arc-raiders-pve-pvp-split-possible-executive-producer",
@@ -233,7 +377,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -251,7 +395,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -269,7 +413,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
@@ -287,49 +431,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/third-person-shooter/mafia-3-which-pc-gamer-scored-54-percent-but-which-i-say-is-great-got-a-nice-little-10th-anniversary-update/",
           "titre": "Mafia 3, which PC Gamer scored 54% but which I say is great, got a nice little 10th-anniversary update"
-        }
-      ]
-    },
-    {
-      "id": "konami-is-already-thinking-about-the-next-wave-of-silent-hil",
-      "titre": "Konami is already thinking about the next wave of Silent Hill games",
-      "url": "https://www.eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 1.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto",
-          "titre": "Konami is already thinking about the next wave of Silent Hill games"
-        }
-      ]
-    },
-    {
-      "id": "video-dragon-s-dogma-2-side-by-side-graphics-comparison-swit",
-      "titre": "Video: Dragon's Dogma 2 Side-By-Side Graphics Comparison (Switch 2 & PS5)",
-      "url": "https://www.nintendolife.com/news/2026/10/video-dragons-dogma-2-side-by-side-graphics-comparison-switch-2-and-ps5",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/video-dragons-dogma-2-side-by-side-graphics-comparison-switch-2-and-ps5",
-          "titre": "Video: Dragon's Dogma 2 Side-By-Side Graphics Comparison (Switch 2 & PS5)"
         }
       ]
     },
@@ -342,7 +450,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 14.5,
+      "heures": 16.4,
       "chaleur": 6,
       "liens": [
         {
@@ -358,24 +466,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "as-xbox-and-playstation-sales-reach-new-lows-analyst-says-th",
-      "titre": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\"",
-      "url": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 17.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
-          "titre": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\""
-        }
-      ]
-    },
-    {
       "id": "ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after",
       "titre": "Ubisoft to sunset Rainbow Six Mobile just seven months after launch",
       "url": "https://www.gamedeveloper.com/mobile/ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after-launch",
@@ -384,7 +474,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 19.3,
+      "heures": 21.3,
       "chaleur": 6,
       "liens": [
         {
@@ -407,7 +497,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.3,
       "chaleur": 6,
       "liens": [
         {
@@ -425,7 +515,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.7,
+      "heures": 21.7,
       "chaleur": 6,
       "liens": [
         {
@@ -443,13 +533,31 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 22.5,
+      "heures": 24.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/undead-labs-boss-reluctant-to-share-number-affected-by-layoffs-i-would-hate-to-reduce-the-impact-to-those-individuals-to-a-number-or-statistic",
           "titre": "Undead Labs boss \"reluctant to share\" number affected by layoffs: \"I would hate to reduce the impact to those individuals to a number or statistic\""
+        }
+      ]
+    },
+    {
+      "id": "video-dragon-s-dogma-2-side-by-side-graphics-comparison-swit",
+      "titre": "Video: Dragon's Dogma 2 Side-By-Side Graphics Comparison (Switch 2 & PS5)",
+      "url": "https://www.nintendolife.com/news/2026/10/video-dragons-dogma-2-side-by-side-graphics-comparison-switch-2-and-ps5",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.6,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/video-dragons-dogma-2-side-by-side-graphics-comparison-switch-2-and-ps5",
+          "titre": "Video: Dragon's Dogma 2 Side-By-Side Graphics Comparison (Switch 2 & PS5)"
         }
       ]
     },
@@ -461,7 +569,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.3,
       "chaleur": 5,
       "liens": [
         {
@@ -479,7 +587,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.5,
       "chaleur": 5,
       "liens": [
         {
@@ -497,31 +605,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.9,
+      "heures": 22.8,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-and-cross-play",
           "titre": "'It Takes Two' Hops Onto Switch 2 Next Week, Marrying Visual Upgrades & Cross-Play"
-        }
-      ]
-    },
-    {
-      "id": "valve-is-telling-devs-how-well-their-games-actually-run-on-s",
-      "titre": "Valve is telling devs how well their games actually run on Steam Deck with real world data",
-      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-is-telling-devs-how-well-their-games-actually-run-on-steam-deck-with-real-world-data/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.0,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-is-telling-devs-how-well-their-games-actually-run-on-steam-deck-with-real-world-data/",
-          "titre": "Valve is telling devs how well their games actually run on Steam Deck with real world data"
         }
       ]
     },
@@ -533,7 +623,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.2,
+      "heures": 23.1,
       "chaleur": 5,
       "liens": [
         {
@@ -551,7 +641,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.3,
       "chaleur": 5,
       "liens": [
         {
@@ -569,7 +659,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 21.6,
+      "heures": 23.5,
       "chaleur": 5,
       "liens": [
         {
@@ -587,7 +677,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.7,
+      "heures": 26.6,
       "chaleur": 5,
       "liens": [
         {
@@ -605,31 +695,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/final-fantasy-vii-revelation-cast-get-emotional-in-last-recording-sessions",
           "titre": "Final Fantasy VII Revelation Cast Get Emotional In Last Recording Sessions"
-        }
-      ]
-    },
-    {
-      "id": "dd2-dark-arisen-all-commission-supply-locations-the-snatchin",
-      "titre": "DD2 Dark Arisen: All Commission Supply locations, The Snatching-Beast quest guide",
-      "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-commission-supply-locations-the-snatching-beast-quest-guide/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-commission-supply-locations-the-snatching-beast-quest-guide/",
-          "titre": "DD2 Dark Arisen: All Commission Supply locations, The Snatching-Beast quest guide"
         }
       ]
     },
@@ -641,7 +713,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -659,31 +731,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/fortnite-x-sonic-collab-to-be-continued",
           "titre": "Fortnite X Sonic Collab \"To Be Continued\""
-        }
-      ]
-    },
-    {
-      "id": "fatal-fury-city-of-the-wolves-announces-tekken-collab",
-      "titre": "Fatal Fury: City Of The Wolves Announces Tekken Collab",
-      "url": "https://www.nintendolife.com/news/2026/10/fatal-fury-city-of-the-wolves-announces-tekken-collab",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/fatal-fury-city-of-the-wolves-announces-tekken-collab",
-          "titre": "Fatal Fury: City Of The Wolves Announces Tekken Collab"
         }
       ]
     },
@@ -695,7 +749,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.0,
       "chaleur": 3,
       "liens": [
         {
@@ -713,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 14.6,
       "chaleur": 3,
       "liens": [
         {
@@ -731,7 +785,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.1,
       "chaleur": 3,
       "liens": [
         {
@@ -749,7 +803,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.7,
+      "heures": 18.7,
       "chaleur": 3,
       "liens": [
         {
@@ -767,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 20.0,
       "chaleur": 3,
       "liens": [
         {
@@ -785,7 +839,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.7,
+      "heures": 20.6,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +857,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.2,
+      "heures": 21.1,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +875,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 21.7,
       "chaleur": 3,
       "liens": [
         {
@@ -839,7 +893,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 21.8,
       "chaleur": 3,
       "liens": [
         {
@@ -857,7 +911,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 21.9,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +929,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.3,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +947,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.7,
+      "heures": 22.6,
       "chaleur": 3,
       "liens": [
         {
@@ -911,7 +965,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 20.7,
+      "heures": 22.6,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +983,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.9,
+      "heures": 22.8,
       "chaleur": 3,
       "liens": [
         {
@@ -947,49 +1001,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.9,
+      "heures": 22.8,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/the-galaxies-showcase-returns-on-october-15-with-announcements-from-zaum-embark-studios-and-frontier-developments",
           "titre": "The Galaxies Showcase returns on October 15, with announcements from ZA/UM, Embark Studios, and Frontier Developments"
-        }
-      ]
-    },
-    {
-      "id": "wow-forever-dev-says-there-s-a-real-longing-for-that-slower",
-      "titre": "WoW: Forever dev says 'there's a real longing for that slower, more deliberate pace' in MMOs: 'A deliberate pushback on this go go go nature'",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dev-says-theres-a-real-longing-for-that-slower-more-deliberate-pace-in-mmos-a-deliberate-pushback-on-this-go-go-go-nature/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dev-says-theres-a-real-longing-for-that-slower-more-deliberate-pace-in-mmos-a-deliberate-pushback-on-this-go-go-go-nature/",
-          "titre": "WoW: Forever dev says 'there's a real longing for that slower, more deliberate pace' in MMOs: 'A deliberate pushback on this go go go nature'"
-        }
-      ]
-    },
-    {
-      "id": "motion-blur-is-the-worst-effect-in-games-confirmed",
-      "titre": "Motion blur is the worst effect in games (confirmed)",
-      "url": "https://www.pcgamer.com/hardware/motion-blur-is-the-worst-effect-in-games-confirmed/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/motion-blur-is-the-worst-effect-in-games-confirmed/",
-          "titre": "Motion blur is the worst effect in games (confirmed)"
         }
       ]
     },
@@ -1001,49 +1019,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/were-not-getting-any-younger-and-the-world-seems-to-be-ending-amanita-reveal-machinarium-2-sequel-to-2009s-prettiest-robot-adventure",
           "titre": "“We're not getting any younger, and the world seems to be ending\": Amanita reveal Machinarium 2, sequel to 2009's prettiest robot adventure"
-        }
-      ]
-    },
-    {
-      "id": "when-the-weather-turns-foul-in-arc-raiders-pendola-pass-take",
-      "titre": "When the weather turns foul in Arc Raiders' Pendola Pass, take a trip to a Storm Hut—they're some of the best loot spots I've found",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/when-the-weather-turns-foul-in-arc-raiders-pendola-pass-take-a-trip-to-a-storm-hut-theyre-some-of-the-best-loot-spots-ive-found/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/when-the-weather-turns-foul-in-arc-raiders-pendola-pass-take-a-trip-to-a-storm-hut-theyre-some-of-the-best-loot-spots-ive-found/",
-          "titre": "When the weather turns foul in Arc Raiders' Pendola Pass, take a trip to a Storm Hut—they're some of the best loot spots I've found"
-        }
-      ]
-    },
-    {
-      "id": "evercade-nexus-review-the-best-evercade-handheld-yet-makes-i",
-      "titre": "Evercade Nexus review: The best Evercade handheld yet makes it a joy to play retro games on the move",
-      "url": "https://www.videogameschronicle.com/review/evercade-nexus-review-the-best-evercade-handheld-yet-makes-it-a-joy-to-play-retro-games-on-the-move/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 21.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/review/evercade-nexus-review-the-best-evercade-handheld-yet-makes-it-a-joy-to-play-retro-games-on-the-move/",
-          "titre": "Evercade Nexus review: The best Evercade handheld yet makes it a joy to play retro games on the move"
         }
       ]
     },
@@ -1055,7 +1037,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.7,
+      "heures": 23.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1073,7 +1055,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.0,
+      "heures": 24.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1091,7 +1073,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.2,
+      "heures": 24.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1109,7 +1091,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1127,13 +1109,49 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.9,
+      "heures": 24.8,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/wolverine-ps5-sales-estimates-are-somewhat-soft-but-heres-why-im-not-worried",
           "titre": "Wolverine PS5 Sales Estimates Are Somewhat Soft, But Here's Why I'm Not Worried"
+        }
+      ]
+    },
+    {
+      "id": "more-cox-in-video-games-as-daredevil-and-clair-obscur-star-s",
+      "titre": "More Cox in video games as Daredevil and Clair Obscur star says he's in an unannounced Sega title",
+      "url": "https://www.eurogamer.net/charlie-cox-unannounced-sega-game-clair-obscur-daredevil",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 24.9,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/charlie-cox-unannounced-sega-game-clair-obscur-daredevil",
+          "titre": "More Cox in video games as Daredevil and Clair Obscur star says he's in an unannounced Sega title"
+        }
+      ]
+    },
+    {
+      "id": "ace-combat-8-becomes-fastest-selling-game-in-the-series-and",
+      "titre": "Ace Combat 8 becomes fastest-selling game in the series, and very nearly the highest rated",
+      "url": "https://www.eurogamer.net/ace-combat-8-sales",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 25.0,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ace-combat-8-sales",
+          "titre": "Ace Combat 8 becomes fastest-selling game in the series, and very nearly the highest rated"
         }
       ]
     }
