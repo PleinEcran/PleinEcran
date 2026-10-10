@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "10/10/2026 à 00h33",
+  "collecte": "10/10/2026 à 02h21",
   "seuil": 14,
   "sujets": [
     {
@@ -15,8 +15,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 5,
-      "heures": 2.6,
-      "chaleur": 18,
+      "heures": 4.5,
+      "chaleur": 16,
       "liens": [
         {
           "source": "PC Gamer",
@@ -55,7 +55,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 9.8,
+      "heures": 11.7,
       "chaleur": 12,
       "liens": [
         {
@@ -85,7 +85,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 7.5,
+      "heures": 9.3,
       "chaleur": 10,
       "liens": [
         {
@@ -106,6 +106,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "video-dragon-s-dogma-2-side-by-side-graphics-comparison-swit",
+      "titre": "Video: Dragon's Dogma 2 Side-By-Side Graphics Comparison (Switch 2 & PS5)",
+      "url": "https://www.nintendolife.com/news/2026/10/video-dragons-dogma-2-side-by-side-graphics-comparison-switch-2-and-ps5",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/video-dragons-dogma-2-side-by-side-graphics-comparison-switch-2-and-ps5",
+          "titre": "Video: Dragon's Dogma 2 Side-By-Side Graphics Comparison (Switch 2 & PS5)"
+        }
+      ]
+    },
+    {
+      "id": "gears-of-war-e-day-reportedly-courts-over-1-7m-xbox-game-pas",
+      "titre": "Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch",
+      "url": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 8.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players",
+          "titre": "Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch"
+        }
+      ]
+    },
+    {
       "id": "paramount-pictures-adapting-live-action-movie-set-in-cyberpu",
       "titre": "Paramount Pictures adapting live-action movie set in Cyberpunk 2077 universe, co-produced by CD Projekt Red",
       "url": "https://www.gamesindustry.biz/paramount-pictures-adapting-live-action-movie-set-in-cyberpunk-2077-universe-co-produced-by-cd-projekt-red",
@@ -114,8 +150,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 11.7,
-      "chaleur": 9,
+      "heures": 13.5,
+      "chaleur": 8,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -130,24 +166,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gears-of-war-e-day-reportedly-courts-over-1-7m-xbox-game-pas",
-      "titre": "Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch",
-      "url": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players",
-          "titre": "Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch"
-        }
-      ]
-    },
-    {
       "id": "as-xbox-and-playstation-sales-reach-new-lows-analyst-says-th",
       "titre": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\"",
       "url": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
@@ -155,7 +173,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.5,
       "chaleur": 7,
       "liens": [
         {
@@ -174,7 +192,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 6.2,
+      "heures": 8.0,
       "chaleur": 7,
       "liens": [
         {
@@ -197,7 +215,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.4,
       "chaleur": 7,
       "liens": [
         {
@@ -215,7 +233,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.7,
       "chaleur": 7,
       "liens": [
         {
@@ -233,7 +251,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.1,
       "chaleur": 7,
       "liens": [
         {
@@ -251,79 +269,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.4,
       "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/counter-strike-2-player-dedicates-masters-thesis-to-rooting-out-cheaters-creates-grade-a-player-tracking-system/",
           "titre": "Counter-Strike 2 player dedicates Master's thesis to rooting out cheaters, creates grade A player tracking system"
-        }
-      ]
-    },
-    {
-      "id": "cd-projekt-red-delivers-the-witcher-3-remastered-fixes-impro",
-      "titre": "CD Projekt Red Delivers The Witcher 3 Remastered Fixes, Improvements in Patch 5.01",
-      "url": "https://www.pushsquare.com/news/2026/10/cd-projekt-red-delivers-the-witcher-3-remastered-fixes-improvements-in-patch-5-01",
-      "sources": [
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 10.6,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/cd-projekt-red-delivers-the-witcher-3-remastered-fixes-improvements-in-patch-5-01",
-          "titre": "CD Projekt Red Delivers The Witcher 3 Remastered Fixes, Improvements in Patch 5.01"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-brings-some-bloomin-improvements-to-the-games-bloom-problems-amongst-other-lighting-buffs",
-          "titre": "The Witcher 3 Remastered's latest patch brings some bloomin' improvements to the game's bloom problems, amongst other lighting buffs"
-        }
-      ]
-    },
-    {
-      "id": "undead-labs-boss-reluctant-to-share-number-affected-by-layof",
-      "titre": "Undead Labs boss \"reluctant to share\" number affected by layoffs: \"I would hate to reduce the impact to those individuals to a number or statistic\"",
-      "url": "https://www.gamesindustry.biz/undead-labs-boss-reluctant-to-share-number-affected-by-layoffs-i-would-hate-to-reduce-the-impact-to-those-individuals-to-a-number-or-statistic",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/undead-labs-boss-reluctant-to-share-number-affected-by-layoffs-i-would-hate-to-reduce-the-impact-to-those-individuals-to-a-number-or-statistic",
-          "titre": "Undead Labs boss \"reluctant to share\" number affected by layoffs: \"I would hate to reduce the impact to those individuals to a number or statistic\""
-        }
-      ]
-    },
-    {
-      "id": "ace-combat-8-becomes-fastest-selling-game-in-the-series-and",
-      "titre": "Ace Combat 8 becomes fastest-selling game in the series, and very nearly the highest rated",
-      "url": "https://www.eurogamer.net/ace-combat-8-sales",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 11.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ace-combat-8-sales",
-          "titre": "Ace Combat 8 becomes fastest-selling game in the series, and very nearly the highest rated"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/ace-combat-8-is-the-fastest-selling-entry-in-the-series-after-hitting-1-million-sales/",
-          "titre": "Ace Combat 8 is the fastest selling entry in the series after hitting 1 million sales"
         }
       ]
     },
@@ -371,7 +323,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.0,
       "chaleur": 6,
       "liens": [
         {
@@ -389,7 +341,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -407,7 +359,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -425,7 +377,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -443,7 +395,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.4,
       "chaleur": 6,
       "liens": [
         {
@@ -461,7 +413,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 9.5,
       "chaleur": 6,
       "liens": [
         {
@@ -479,7 +431,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 10.9,
       "chaleur": 6,
       "liens": [
         {
@@ -497,7 +449,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 10.9,
       "chaleur": 6,
       "liens": [
         {
@@ -515,7 +467,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.1,
       "chaleur": 6,
       "liens": [
         {
@@ -533,7 +485,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
@@ -551,13 +503,79 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash",
           "titre": "Report: Double Fine's union drive collapsed due to miscommunication and culture clash"
+        }
+      ]
+    },
+    {
+      "id": "cd-projekt-red-delivers-the-witcher-3-remastered-fixes-impro",
+      "titre": "CD Projekt Red Delivers The Witcher 3 Remastered Fixes, Improvements in Patch 5.01",
+      "url": "https://www.pushsquare.com/news/2026/10/cd-projekt-red-delivers-the-witcher-3-remastered-fixes-improvements-in-patch-5-01",
+      "sources": [
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 12.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/cd-projekt-red-delivers-the-witcher-3-remastered-fixes-improvements-in-patch-5-01",
+          "titre": "CD Projekt Red Delivers The Witcher 3 Remastered Fixes, Improvements in Patch 5.01"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-brings-some-bloomin-improvements-to-the-games-bloom-problems-amongst-other-lighting-buffs",
+          "titre": "The Witcher 3 Remastered's latest patch brings some bloomin' improvements to the game's bloom problems, amongst other lighting buffs"
+        }
+      ]
+    },
+    {
+      "id": "undead-labs-boss-reluctant-to-share-number-affected-by-layof",
+      "titre": "Undead Labs boss \"reluctant to share\" number affected by layoffs: \"I would hate to reduce the impact to those individuals to a number or statistic\"",
+      "url": "https://www.gamesindustry.biz/undead-labs-boss-reluctant-to-share-number-affected-by-layoffs-i-would-hate-to-reduce-the-impact-to-those-individuals-to-a-number-or-statistic",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 12.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/undead-labs-boss-reluctant-to-share-number-affected-by-layoffs-i-would-hate-to-reduce-the-impact-to-those-individuals-to-a-number-or-statistic",
+          "titre": "Undead Labs boss \"reluctant to share\" number affected by layoffs: \"I would hate to reduce the impact to those individuals to a number or statistic\""
+        }
+      ]
+    },
+    {
+      "id": "ace-combat-8-becomes-fastest-selling-game-in-the-series-and",
+      "titre": "Ace Combat 8 becomes fastest-selling game in the series, and very nearly the highest rated",
+      "url": "https://www.eurogamer.net/ace-combat-8-sales",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 13.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ace-combat-8-sales",
+          "titre": "Ace Combat 8 becomes fastest-selling game in the series, and very nearly the highest rated"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/ace-combat-8-is-the-fastest-selling-entry-in-the-series-after-hitting-1-million-sales/",
+          "titre": "Ace Combat 8 is the fastest selling entry in the series after hitting 1 million sales"
         }
       ]
     },
@@ -570,7 +588,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 12.1,
+      "heures": 13.9,
       "chaleur": 6,
       "liens": [
         {
@@ -593,7 +611,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.1,
+      "heures": 23.9,
       "chaleur": 6,
       "liens": [
         {
@@ -611,7 +629,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.6,
       "chaleur": 5,
       "liens": [
         {
@@ -629,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -647,7 +665,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.1,
+      "heures": 24.9,
       "chaleur": 5,
       "liens": [
         {
@@ -665,7 +683,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.8,
+      "heures": 25.6,
       "chaleur": 5,
       "liens": [
         {
@@ -683,7 +701,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 31.1,
+      "heures": 32.9,
       "chaleur": 5,
       "liens": [
         {
@@ -701,7 +719,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -719,7 +737,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -737,7 +755,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.7,
       "chaleur": 4,
       "liens": [
         {
@@ -755,7 +773,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -773,7 +791,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -791,7 +809,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -809,7 +827,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -827,7 +845,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +863,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -863,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +899,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +917,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +935,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +971,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +989,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +1007,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +1025,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1025,7 +1043,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,7 +1061,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
+      "heures": 12.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,8 +1079,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1079,8 +1097,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1097,8 +1115,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1115,8 +1133,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1133,31 +1151,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
-      "chaleur": 4,
+      "heures": 13.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/ea-sports-fc-27-review",
           "titre": "EA Sports FC 27 review"
-        }
-      ]
-    },
-    {
-      "id": "crimson-desert-s-lower-review-scores-were-because-critics-di",
-      "titre": "Crimson Desert’s lower review scores were because critics didn’t get a ‘fair chance to explore’, exec says",
-      "url": "https://www.videogameschronicle.com/news/crimson-deserts-lower-review-scores-were-because-critics-didnt-get-a-fair-chance-to-explore-exec-says/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 13.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/crimson-deserts-lower-review-scores-were-because-critics-didnt-get-a-fair-chance-to-explore-exec-says/",
-          "titre": "Crimson Desert’s lower review scores were because critics didn’t get a ‘fair chance to explore’, exec says"
         }
       ]
     }
