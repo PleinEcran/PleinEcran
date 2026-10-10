@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "10/10/2026 à 02h21",
+  "collecte": "10/10/2026 à 04h22",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 5,
-      "heures": 4.5,
+      "heures": 6.5,
       "chaleur": 16,
       "liens": [
         {
@@ -55,8 +55,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 11.7,
-      "chaleur": 12,
+      "heures": 13.7,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Eurogamer",
@@ -85,7 +85,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 10,
       "liens": [
         {
@@ -113,7 +113,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 8,
       "liens": [
         {
@@ -131,7 +131,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 8,
       "liens": [
         {
@@ -150,7 +150,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 13.5,
+      "heures": 15.5,
       "chaleur": 8,
       "liens": [
         {
@@ -173,7 +173,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.5,
       "chaleur": 7,
       "liens": [
         {
@@ -192,7 +192,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 8.0,
+      "heures": 10.0,
       "chaleur": 7,
       "liens": [
         {
@@ -215,7 +215,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 7,
       "liens": [
         {
@@ -233,49 +233,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.7,
       "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/rockstar-employment-tribunal-hr-manager-little-interest-union",
           "titre": "Rockstar HR manager claims he had \"little interest\" in staff's union membership status as fired GTA dev union-busting trial heats up"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-of-america-s-president-comments-on-the-possibility",
-      "titre": "Nintendo Of America's President Comments On The Possibility Of GTA 6 On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-of-americas-president-comments-on-the-possibility-of-gta-6-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-of-americas-president-comments-on-the-possibility-of-gta-6-on-switch-2",
-          "titre": "Nintendo Of America's President Comments On The Possibility Of GTA 6 On Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "counter-strike-2-player-dedicates-master-s-thesis-to-rooting",
-      "titre": "Counter-Strike 2 player dedicates Master's thesis to rooting out cheaters, creates grade A player tracking system",
-      "url": "https://www.pcgamer.com/hardware/counter-strike-2-player-dedicates-masters-thesis-to-rooting-out-cheaters-creates-grade-a-player-tracking-system/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/counter-strike-2-player-dedicates-masters-thesis-to-rooting-out-cheaters-creates-grade-a-player-tracking-system/",
-          "titre": "Counter-Strike 2 player dedicates Master's thesis to rooting out cheaters, creates grade A player tracking system"
         }
       ]
     },
@@ -316,78 +280,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "2026-s-oled-monitors-can-nearly-recreate-the-sublime-clarity",
-      "titre": "2026's OLED monitors can nearly recreate the sublime clarity of a '90s CRT, but Windows will have to change before we can achieve true nirvana",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/2026s-oled-monitors-can-nearly-recreate-the-sublime-clarity-of-a-90s-crt-but-windows-will-have-to-change-before-we-can-achieve-true-nirvana/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-monitors/2026s-oled-monitors-can-nearly-recreate-the-sublime-clarity-of-a-90s-crt-but-windows-will-have-to-change-before-we-can-achieve-true-nirvana/",
-          "titre": "2026's OLED monitors can nearly recreate the sublime clarity of a '90s CRT, but Windows will have to change before we can achieve true nirvana"
-        }
-      ]
-    },
-    {
-      "id": "sonic-racing-crossworlds-year-two-roadmap-revealed-major-fre",
-      "titre": "Sonic Racing: CrossWorlds \"Year Two\" Roadmap Revealed - Major Free Updates, New Collabs And Much More",
-      "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-two-roadmap-revealed-major-free-updates-new-collabs-and-much-more",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-two-roadmap-revealed-major-free-updates-new-collabs-and-much-more",
-          "titre": "Sonic Racing: CrossWorlds \"Year Two\" Roadmap Revealed - Major Free Updates, New Collabs And Much More"
-        }
-      ]
-    },
-    {
-      "id": "overcooked-broke-you-apart-and-stage-fright-is-there-to-put",
-      "titre": "'Overcooked broke you apart and Stage Fright is there to put you back together'",
-      "url": "https://www.pcgamer.com/games/adventure/overcooked-broke-you-apart-and-stage-fright-is-there-to-put-you-back-together/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/adventure/overcooked-broke-you-apart-and-stage-fright-is-there-to-put-you-back-together/",
-          "titre": "'Overcooked broke you apart and Stage Fright is there to put you back together'"
-        }
-      ]
-    },
-    {
-      "id": "talking-point-what-are-you-playing-this-weekend-issue-653",
-      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 653",
-      "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-653",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-653",
-          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 653"
-        }
-      ]
-    },
-    {
       "id": "countdown-zelda-ocarina-of-time-dungeon-crawl-4-still-an-all",
       "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #4 - Still An All-Timer",
       "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-4-still-an-all-timer",
@@ -395,7 +287,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
@@ -413,7 +305,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.5,
       "chaleur": 6,
       "liens": [
         {
@@ -424,92 +316,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "it-takes-two-hops-onto-switch-2-next-week-marrying-visual-u",
-      "titre": "'It Takes Two' Hops Onto Switch 2 Next Week, Marrying Visual Upgrades & Cross-Play",
-      "url": "https://www.nintendolife.com/news/2026/10/it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-and-cross-play",
+      "id": "nintendo-of-america-s-president-comments-on-the-possibility",
+      "titre": "Nintendo Of America's President Comments On The Possibility Of GTA 6 On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-of-americas-president-comments-on-the-possibility-of-gta-6-on-switch-2",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.9,
+      "heures": 12.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-and-cross-play",
-          "titre": "'It Takes Two' Hops Onto Switch 2 Next Week, Marrying Visual Upgrades & Cross-Play"
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-of-americas-president-comments-on-the-possibility-of-gta-6-on-switch-2",
+          "titre": "Nintendo Of America's President Comments On The Possibility Of GTA 6 On Switch 2"
         }
       ]
     },
     {
-      "id": "valve-is-telling-devs-how-well-their-games-actually-run-on-s",
-      "titre": "Valve is telling devs how well their games actually run on Steam Deck with real world data",
-      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-is-telling-devs-how-well-their-games-actually-run-on-steam-deck-with-real-world-data/",
+      "id": "counter-strike-2-player-dedicates-master-s-thesis-to-rooting",
+      "titre": "Counter-Strike 2 player dedicates Master's thesis to rooting out cheaters, creates grade A player tracking system",
+      "url": "https://www.pcgamer.com/hardware/counter-strike-2-player-dedicates-masters-thesis-to-rooting-out-cheaters-creates-grade-a-player-tracking-system/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.9,
+      "heures": 13.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-is-telling-devs-how-well-their-games-actually-run-on-steam-deck-with-real-world-data/",
-          "titre": "Valve is telling devs how well their games actually run on Steam Deck with real world data"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-download-8th-october-north-america-plus-3-discounte",
-      "titre": "Nintendo Download: 8th October (North America) - Plus 3 Discounted Games That Should Be On Your Radar",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-8th-october-north-america-plus-3-discounted-games-that-should-be-on-your-radar",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-8th-october-north-america-plus-3-discounted-games-that-should-be-on-your-radar",
-          "titre": "Nintendo Download: 8th October (North America) - Plus 3 Discounted Games That Should Be On Your Radar"
-        }
-      ]
-    },
-    {
-      "id": "community-played-a-top-switch-game-we-missed-send-us-your-re",
-      "titre": "Community: Played A Top Switch Game We Missed? Send Us Your Recommendations",
-      "url": "https://www.nintendolife.com/features/community-played-a-top-switch-game-we-missed-send-us-your-recommendations",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/community-played-a-top-switch-game-we-missed-send-us-your-recommendations",
-          "titre": "Community: Played A Top Switch Game We Missed? Send Us Your Recommendations"
-        }
-      ]
-    },
-    {
-      "id": "report-double-fine-s-union-drive-collapsed-due-to-miscommuni",
-      "titre": "Report: Double Fine's union drive collapsed due to miscommunication and culture clash",
-      "url": "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash",
-          "titre": "Report: Double Fine's union drive collapsed due to miscommunication and culture clash"
+          "url": "https://www.pcgamer.com/hardware/counter-strike-2-player-dedicates-masters-thesis-to-rooting-out-cheaters-creates-grade-a-player-tracking-system/",
+          "titre": "Counter-Strike 2 player dedicates Master's thesis to rooting out cheaters, creates grade A player tracking system"
         }
       ]
     },
@@ -522,7 +360,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 6,
       "liens": [
         {
@@ -545,7 +383,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 6,
       "liens": [
         {
@@ -564,7 +402,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 13.0,
+      "heures": 15.0,
       "chaleur": 6,
       "liens": [
         {
@@ -588,7 +426,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 13.9,
+      "heures": 15.9,
       "chaleur": 6,
       "liens": [
         {
@@ -611,13 +449,103 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.9,
+      "heures": 25.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/best-buy-to-offer-additional-switch-2-zelda-units-in-store-at-midnight-launch",
           "titre": "Best Buy To Offer Additional Switch 2 Zelda Units In-Store At Midnight Launch"
+        }
+      ]
+    },
+    {
+      "id": "it-takes-two-hops-onto-switch-2-next-week-marrying-visual-u",
+      "titre": "'It Takes Two' Hops Onto Switch 2 Next Week, Marrying Visual Upgrades & Cross-Play",
+      "url": "https://www.nintendolife.com/news/2026/10/it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-and-cross-play",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-and-cross-play",
+          "titre": "'It Takes Two' Hops Onto Switch 2 Next Week, Marrying Visual Upgrades & Cross-Play"
+        }
+      ]
+    },
+    {
+      "id": "valve-is-telling-devs-how-well-their-games-actually-run-on-s",
+      "titre": "Valve is telling devs how well their games actually run on Steam Deck with real world data",
+      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-is-telling-devs-how-well-their-games-actually-run-on-steam-deck-with-real-world-data/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 12.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-is-telling-devs-how-well-their-games-actually-run-on-steam-deck-with-real-world-data/",
+          "titre": "Valve is telling devs how well their games actually run on Steam Deck with real world data"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-download-8th-october-north-america-plus-3-discounte",
+      "titre": "Nintendo Download: 8th October (North America) - Plus 3 Discounted Games That Should Be On Your Radar",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-8th-october-north-america-plus-3-discounted-games-that-should-be-on-your-radar",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.1,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-8th-october-north-america-plus-3-discounted-games-that-should-be-on-your-radar",
+          "titre": "Nintendo Download: 8th October (North America) - Plus 3 Discounted Games That Should Be On Your Radar"
+        }
+      ]
+    },
+    {
+      "id": "community-played-a-top-switch-game-we-missed-send-us-your-re",
+      "titre": "Community: Played A Top Switch Game We Missed? Send Us Your Recommendations",
+      "url": "https://www.nintendolife.com/features/community-played-a-top-switch-game-we-missed-send-us-your-recommendations",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/community-played-a-top-switch-game-we-missed-send-us-your-recommendations",
+          "titre": "Community: Played A Top Switch Game We Missed? Send Us Your Recommendations"
+        }
+      ]
+    },
+    {
+      "id": "report-double-fine-s-union-drive-collapsed-due-to-miscommuni",
+      "titre": "Report: Double Fine's union drive collapsed due to miscommunication and culture clash",
+      "url": "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 13.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash",
+          "titre": "Report: Double Fine's union drive collapsed due to miscommunication and culture clash"
         }
       ]
     },
@@ -629,7 +557,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.6,
       "chaleur": 5,
       "liens": [
         {
@@ -647,7 +575,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 5,
       "liens": [
         {
@@ -665,7 +593,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.9,
+      "heures": 26.9,
       "chaleur": 5,
       "liens": [
         {
@@ -683,7 +611,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.6,
+      "heures": 27.6,
       "chaleur": 5,
       "liens": [
         {
@@ -701,13 +629,85 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 32.9,
+      "heures": 34.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/console/xbox-ceo-unveils-new-xbox-division-for-game-adjacent-ventures-named-xp-",
           "titre": "Xbox CEO unveils 'new Xbox division' for game-adjacent ventures named 'XP'"
+        }
+      ]
+    },
+    {
+      "id": "2026-s-oled-monitors-can-nearly-recreate-the-sublime-clarity",
+      "titre": "2026's OLED monitors can nearly recreate the sublime clarity of a '90s CRT, but Windows will have to change before we can achieve true nirvana",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/2026s-oled-monitors-can-nearly-recreate-the-sublime-clarity-of-a-90s-crt-but-windows-will-have-to-change-before-we-can-achieve-true-nirvana/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-monitors/2026s-oled-monitors-can-nearly-recreate-the-sublime-clarity-of-a-90s-crt-but-windows-will-have-to-change-before-we-can-achieve-true-nirvana/",
+          "titre": "2026's OLED monitors can nearly recreate the sublime clarity of a '90s CRT, but Windows will have to change before we can achieve true nirvana"
+        }
+      ]
+    },
+    {
+      "id": "sonic-racing-crossworlds-year-two-roadmap-revealed-major-fre",
+      "titre": "Sonic Racing: CrossWorlds \"Year Two\" Roadmap Revealed - Major Free Updates, New Collabs And Much More",
+      "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-two-roadmap-revealed-major-free-updates-new-collabs-and-much-more",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-two-roadmap-revealed-major-free-updates-new-collabs-and-much-more",
+          "titre": "Sonic Racing: CrossWorlds \"Year Two\" Roadmap Revealed - Major Free Updates, New Collabs And Much More"
+        }
+      ]
+    },
+    {
+      "id": "overcooked-broke-you-apart-and-stage-fright-is-there-to-put",
+      "titre": "'Overcooked broke you apart and Stage Fright is there to put you back together'",
+      "url": "https://www.pcgamer.com/games/adventure/overcooked-broke-you-apart-and-stage-fright-is-there-to-put-you-back-together/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/adventure/overcooked-broke-you-apart-and-stage-fright-is-there-to-put-you-back-together/",
+          "titre": "'Overcooked broke you apart and Stage Fright is there to put you back together'"
+        }
+      ]
+    },
+    {
+      "id": "talking-point-what-are-you-playing-this-weekend-issue-653",
+      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 653",
+      "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-653",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-653",
+          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 653"
         }
       ]
     },
@@ -719,7 +719,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -737,7 +737,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -755,7 +755,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 8.7,
       "chaleur": 4,
       "liens": [
         {
@@ -773,7 +773,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -791,7 +791,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -809,7 +809,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
@@ -827,7 +827,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +845,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -863,8 +863,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -881,8 +881,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -899,8 +899,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -917,8 +917,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -935,8 +935,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -953,8 +953,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -971,8 +971,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -989,8 +989,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1007,8 +1007,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1025,8 +1025,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1043,8 +1043,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1061,8 +1061,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
-      "chaleur": 4,
+      "heures": 14.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1079,7 +1079,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1097,7 +1097,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1115,7 +1115,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1133,7 +1133,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1151,7 +1151,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 15.8,
       "chaleur": 3,
       "liens": [
         {
