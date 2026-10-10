@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "10/10/2026 à 20h20",
+  "collecte": "10/10/2026 à 22h20",
   "seuil": 14,
   "sujets": [
     {
@@ -11,7 +11,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 11,
       "liens": [
         {
@@ -30,7 +30,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 10,
       "liens": [
         {
@@ -54,7 +54,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 8.2,
+      "heures": 10.2,
       "chaleur": 10,
       "liens": [
         {
@@ -70,6 +70,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "oh-lord-now-those-gta-6-leakers-are-saying-if-enough-of-you",
+      "titre": "Oh lord, now those GTA 6 leakers are saying if enough of you give them money they'll leak a playable build of the game",
+      "url": "https://www.rockpapershotgun.com/oh-lord-now-those-gta-6-leakers-are-saying-if-enough-of-you-give-them-money-theyll-leak-a-playable-build-of-the-game",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/oh-lord-now-those-gta-6-leakers-are-saying-if-enough-of-you-give-them-money-theyll-leak-a-playable-build-of-the-game",
+          "titre": "Oh lord, now those GTA 6 leakers are saying if enough of you give them money they'll leak a playable build of the game"
+        }
+      ]
+    },
+    {
       "id": "sonic-racing-crossworlds-year-2-crossovers-revealed-includin",
       "titre": "Sonic Racing Crossworlds Year 2 crossovers revealed, including Final Fantasy 7, Hello Kitty and retro Sega",
       "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-year-2-crossovers-revealed-including-final-fantasy-7-hello-kitty-and-retro-sega/",
@@ -79,8 +97,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 10.4,
-      "chaleur": 10,
+      "heures": 12.4,
+      "chaleur": 9,
       "liens": [
         {
           "source": "VGC",
@@ -109,8 +127,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 11.3,
-      "chaleur": 10,
+      "heures": 13.3,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -130,6 +148,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "strange-scaffold-announces-gods-with-badges-a-tactics-game-w",
+      "titre": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam",
+      "url": "https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 3.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game",
+          "titre": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam"
+        }
+      ]
+    },
+    {
       "id": "the-studio-behind-star-wars-zero-company-is-bringing-back-so",
       "titre": "The studio behind Star Wars Zero Company is bringing back some of its furloughed staff",
       "url": "https://www.pcgamer.com/games/strategy/the-studio-behind-star-wars-zero-company-is-hiring-back-some-of-its-furloughed-staff/",
@@ -138,8 +174,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 3.5,
-      "chaleur": 9,
+      "heures": 5.5,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -162,8 +198,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 3.8,
-      "chaleur": 9,
+      "heures": 5.8,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -178,48 +214,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "strange-scaffold-announces-gods-with-badges-a-tactics-game-w",
-      "titre": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam",
-      "url": "https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 1.2,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game",
-          "titre": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam"
-        }
-      ]
-    },
-    {
-      "id": "it-s-official-forza-horizon-6-delayed-to-2027-on-ps5-and-the",
-      "titre": "It's official: Forza Horizon 6 delayed to 2027 on PS5, and the game's first expansion has been announced",
-      "url": "https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 29.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay",
-          "titre": "It's official: Forza Horizon 6 delayed to 2027 on PS5, and the game's first expansion has been announced"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/forza-horizon-6s-first-major-expansion-will-pull-up-in-january-now-playground-games-just-need-to-offer-any-kind-of-hint-whatsoever-as-to-what-itll-look-like",
-          "titre": "Forza Horizon 6's first major expansion will pull up in January, now Playground Games just need to offer any kind of hint whatsoever as to what it'll look like"
-        }
-      ]
-    },
-    {
       "id": "tekken-8-s-reina-officially-announced-as-fatal-fury-ps5-s-ne",
       "titre": "Tekken 8's Reina Officially Announced as Fatal Fury PS5's Next Challenger",
       "url": "https://www.pushsquare.com/news/2026/10/tekken-8s-reina-officially-announced-as-fatal-fury-ps5s-next-challenger",
@@ -228,7 +222,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 6.3,
+      "heures": 8.3,
       "chaleur": 7,
       "liens": [
         {
@@ -252,7 +246,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 7.9,
+      "heures": 9.9,
       "chaleur": 7,
       "liens": [
         {
@@ -275,7 +269,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.3,
+      "heures": 28.3,
       "chaleur": 7,
       "liens": [
         {
@@ -322,6 +316,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "gargantuan-cop-immersive-sim-militsioner-now-has-an-acrophob",
+      "titre": "Gargantuan cop immersive sim Militsioner now has an acrophobia-inducing demo, and yes, I did somehow manage to fail the tutorial",
+      "url": "https://www.rockpapershotgun.com/gargantuan-cop-immersive-sim-militsioner-now-has-an-acrophobia-inducing-demo-and-yes-i-did-somehow-manage-to-fail-the-tutorial",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/gargantuan-cop-immersive-sim-militsioner-now-has-an-acrophobia-inducing-demo-and-yes-i-did-somehow-manage-to-fail-the-tutorial",
+          "titre": "Gargantuan cop immersive sim Militsioner now has an acrophobia-inducing demo, and yes, I did somehow manage to fail the tutorial"
+        }
+      ]
+    },
+    {
       "id": "blazblue-central-fiction-announced-for-ps5-a-decade-after-or",
       "titre": "BlazBlue: Central Fiction Announced for PS5, a Decade After Original Release",
       "url": "https://www.pushsquare.com/news/2026/10/blazblue-central-fiction-announced-for-ps5-a-decade-after-original-release",
@@ -329,67 +341,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/blazblue-central-fiction-announced-for-ps5-a-decade-after-original-release",
           "titre": "BlazBlue: Central Fiction Announced for PS5, a Decade After Original Release"
-        }
-      ]
-    },
-    {
-      "id": "nivalis-nights-might-not-have-any-combat-but-that-doesn-t-me",
-      "titre": "Nivalis Nights might not have any combat, \"but that doesn't mean it's a cosy game,\" so says its lead writer",
-      "url": "https://www.rockpapershotgun.com/nivalis-nights-might-not-have-any-combat-but-that-doesnt-mean-its-a-cosy-game-so-says-its-lead-writer",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nivalis-nights-might-not-have-any-combat-but-that-doesnt-mean-its-a-cosy-game-so-says-its-lead-writer",
-          "titre": "Nivalis Nights might not have any combat, \"but that doesn't mean it's a cosy game,\" so says its lead writer"
-        }
-      ]
-    },
-    {
-      "id": "a-crimson-desert-exec-thinks-critic-review-scores-were-lower",
-      "titre": "A Crimson Desert exec thinks critic review scores were lower because they didn't have enough time to play it, and boy oh boy I wonder whose fault that is",
-      "url": "https://www.rockpapershotgun.com/a-crimson-desert-exec-thinks-critic-review-scores-were-lower-because-they-didnt-have-enough-time-to-play-it-and-boy-oh-boy-i-wonder-whose-fault-that-is",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/a-crimson-desert-exec-thinks-critic-review-scores-were-lower-because-they-didnt-have-enough-time-to-play-it-and-boy-oh-boy-i-wonder-whose-fault-that-is",
-          "titre": "A Crimson Desert exec thinks critic review scores were lower because they didn't have enough time to play it, and boy oh boy I wonder whose fault that is"
-        }
-      ]
-    },
-    {
-      "id": "deadlock-surpasses-team-fortress-2-s-all-time-concurrent-pla",
-      "titre": "Deadlock surpasses Team Fortress 2's all-time concurrent player count peak as it adds a chess wizard",
-      "url": "https://www.pcgamer.com/games/moba/deadlock-surpasses-team-fortress-2s-all-time-concurrent-player-count-peak-as-it-adds-a-chess-wizard/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/moba/deadlock-surpasses-team-fortress-2s-all-time-concurrent-player-count-peak-as-it-adds-a-chess-wizard/",
-          "titre": "Deadlock surpasses Team Fortress 2's all-time concurrent player count peak as it adds a chess wizard"
         }
       ]
     },
@@ -401,7 +359,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.3,
       "chaleur": 6,
       "liens": [
         {
@@ -419,7 +377,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.3,
       "chaleur": 6,
       "liens": [
         {
@@ -437,7 +395,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.6,
       "chaleur": 6,
       "liens": [
         {
@@ -455,7 +413,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.3,
       "chaleur": 6,
       "liens": [
         {
@@ -473,7 +431,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.7,
+      "heures": 29.7,
       "chaleur": 6,
       "liens": [
         {
@@ -491,7 +449,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 30.4,
+      "heures": 32.4,
       "chaleur": 6,
       "liens": [
         {
@@ -509,7 +467,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 20.6,
       "chaleur": 5,
       "liens": [
         {
@@ -527,7 +485,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.3,
       "chaleur": 5,
       "liens": [
         {
@@ -545,7 +503,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.8,
+      "heures": 30.8,
       "chaleur": 5,
       "liens": [
         {
@@ -563,7 +521,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.1,
+      "heures": 31.1,
       "chaleur": 5,
       "liens": [
         {
@@ -581,7 +539,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.3,
       "chaleur": 5,
       "liens": [
         {
@@ -599,13 +557,31 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 29.5,
+      "heures": 31.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash",
           "titre": "Report: Double Fine's union drive collapsed due to miscommunication and culture clash"
+        }
+      ]
+    },
+    {
+      "id": "it-s-official-forza-horizon-6-delayed-to-2027-on-ps5-and-the",
+      "titre": "It's official: Forza Horizon 6 delayed to 2027 on PS5, and the game's first expansion has been announced",
+      "url": "https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 31.6,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay",
+          "titre": "It's official: Forza Horizon 6 delayed to 2027 on PS5, and the game's first expansion has been announced"
         }
       ]
     },
@@ -617,7 +593,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 32.6,
+      "heures": 34.6,
       "chaleur": 5,
       "liens": [
         {
@@ -635,13 +611,67 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/final-fantasy-vii-revelation-cast-get-emotional-in-last-recording-sessions",
           "titre": "Final Fantasy VII Revelation Cast Get Emotional In Last Recording Sessions"
+        }
+      ]
+    },
+    {
+      "id": "nivalis-nights-might-not-have-any-combat-but-that-doesn-t-me",
+      "titre": "Nivalis Nights might not have any combat, \"but that doesn't mean it's a cosy game,\" so says its lead writer",
+      "url": "https://www.rockpapershotgun.com/nivalis-nights-might-not-have-any-combat-but-that-doesnt-mean-its-a-cosy-game-so-says-its-lead-writer",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/nivalis-nights-might-not-have-any-combat-but-that-doesnt-mean-its-a-cosy-game-so-says-its-lead-writer",
+          "titre": "Nivalis Nights might not have any combat, \"but that doesn't mean it's a cosy game,\" so says its lead writer"
+        }
+      ]
+    },
+    {
+      "id": "a-crimson-desert-exec-thinks-critic-review-scores-were-lower",
+      "titre": "A Crimson Desert exec thinks critic review scores were lower because they didn't have enough time to play it, and boy oh boy I wonder whose fault that is",
+      "url": "https://www.rockpapershotgun.com/a-crimson-desert-exec-thinks-critic-review-scores-were-lower-because-they-didnt-have-enough-time-to-play-it-and-boy-oh-boy-i-wonder-whose-fault-that-is",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/a-crimson-desert-exec-thinks-critic-review-scores-were-lower-because-they-didnt-have-enough-time-to-play-it-and-boy-oh-boy-i-wonder-whose-fault-that-is",
+          "titre": "A Crimson Desert exec thinks critic review scores were lower because they didn't have enough time to play it, and boy oh boy I wonder whose fault that is"
+        }
+      ]
+    },
+    {
+      "id": "deadlock-surpasses-team-fortress-2-s-all-time-concurrent-pla",
+      "titre": "Deadlock surpasses Team Fortress 2's all-time concurrent player count peak as it adds a chess wizard",
+      "url": "https://www.pcgamer.com/games/moba/deadlock-surpasses-team-fortress-2s-all-time-concurrent-player-count-peak-as-it-adds-a-chess-wizard/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/deadlock-surpasses-team-fortress-2s-all-time-concurrent-player-count-peak-as-it-adds-a-chess-wizard/",
+          "titre": "Deadlock surpasses Team Fortress 2's all-time concurrent player count peak as it adds a chess wizard"
         }
       ]
     },
@@ -653,7 +683,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -671,7 +701,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 7.0,
       "chaleur": 4,
       "liens": [
         {
@@ -689,7 +719,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -707,7 +737,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -725,7 +755,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -743,7 +773,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -761,7 +791,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -779,7 +809,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -797,7 +827,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +845,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
@@ -833,7 +863,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
@@ -851,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 22.0,
       "chaleur": 3,
       "liens": [
         {
@@ -869,7 +899,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.6,
+      "heures": 22.6,
       "chaleur": 3,
       "liens": [
         {
@@ -887,7 +917,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.4,
       "chaleur": 3,
       "liens": [
         {
@@ -905,7 +935,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.1,
+      "heures": 26.1,
       "chaleur": 3,
       "liens": [
         {
@@ -923,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.7,
+      "heures": 26.7,
       "chaleur": 3,
       "liens": [
         {
@@ -941,7 +971,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 26.0,
+      "heures": 28.0,
       "chaleur": 3,
       "liens": [
         {
@@ -959,7 +989,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 27.1,
+      "heures": 29.1,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +1007,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.3,
       "chaleur": 3,
       "liens": [
         {
@@ -995,7 +1025,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 27.7,
+      "heures": 29.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1013,7 +1043,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.8,
+      "heures": 29.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +1061,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.3,
+      "heures": 30.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,7 +1079,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 28.6,
+      "heures": 30.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,7 +1097,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.8,
+      "heures": 30.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1085,7 +1115,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 29.2,
+      "heures": 31.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1103,49 +1133,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.6,
+      "heures": 31.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/ghost-of-yotei-gets-more-complete-with-ps5-patch-fixing-bugs-and-black-screens",
           "titre": "Ghost of Yotei Gets More Complete with PS5 Patch Fixing Bugs and Black Screens"
-        }
-      ]
-    },
-    {
-      "id": "the-galaxies-showcase-returns-next-week-here-s-how-to-watch",
-      "titre": "The Galaxies Showcase returns next week: here's how to watch it and what to expect",
-      "url": "https://www.eurogamer.net/galaxies-showcase-2026-how-where-to-watch",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 30.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/galaxies-showcase-2026-how-where-to-watch",
-          "titre": "The Galaxies Showcase returns next week: here's how to watch it and what to expect"
-        }
-      ]
-    },
-    {
-      "id": "draw-maps-of-a-vampiric-lighthouse-that-defies-logic-in-this",
-      "titre": "Draw maps of a vampiric lighthouse that defies logic in This Is Not For You, the latest horror game inspired by House of Leaves",
-      "url": "https://www.rockpapershotgun.com/draw-maps-of-a-vampiric-lighthouse-that-defies-logic-in-this-is-not-for-you-the-latest-horror-game-inspired-by-house-of-leaves",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 30.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/draw-maps-of-a-vampiric-lighthouse-that-defies-logic-in-this-is-not-for-you-the-latest-horror-game-inspired-by-house-of-leaves",
-          "titre": "Draw maps of a vampiric lighthouse that defies logic in This Is Not For You, the latest horror game inspired by House of Leaves"
         }
       ]
     }
