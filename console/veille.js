@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "09/10/2026 à 22h22",
+  "collecte": "10/10/2026 à 00h33",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 5,
-      "heures": 0.5,
+      "heures": 2.6,
       "chaleur": 18,
       "liens": [
         {
@@ -55,7 +55,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 7.7,
+      "heures": 9.8,
       "chaleur": 12,
       "liens": [
         {
@@ -85,7 +85,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 5.3,
+      "heures": 7.5,
       "chaleur": 10,
       "liens": [
         {
@@ -106,24 +106,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "as-xbox-and-playstation-sales-reach-new-lows-analyst-says-th",
-      "titre": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\"",
-      "url": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
-          "titre": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\""
-        }
-      ]
-    },
-    {
       "id": "paramount-pictures-adapting-live-action-movie-set-in-cyberpu",
       "titre": "Paramount Pictures adapting live-action movie set in Cyberpunk 2077 universe, co-produced by CD Projekt Red",
       "url": "https://www.gamesindustry.biz/paramount-pictures-adapting-live-action-movie-set-in-cyberpunk-2077-universe-co-produced-by-cd-projekt-red",
@@ -132,7 +114,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 9.5,
+      "heures": 11.7,
       "chaleur": 9,
       "liens": [
         {
@@ -155,13 +137,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.5,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players",
           "titre": "Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch"
+        }
+      ]
+    },
+    {
+      "id": "as-xbox-and-playstation-sales-reach-new-lows-analyst-says-th",
+      "titre": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\"",
+      "url": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
+          "titre": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\""
         }
       ]
     },
@@ -174,7 +174,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.0,
+      "heures": 6.2,
       "chaleur": 7,
       "liens": [
         {
@@ -197,7 +197,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.6,
       "chaleur": 7,
       "liens": [
         {
@@ -215,7 +215,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.9,
       "chaleur": 7,
       "liens": [
         {
@@ -233,7 +233,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.3,
       "chaleur": 7,
       "liens": [
         {
@@ -251,7 +251,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.6,
       "chaleur": 7,
       "liens": [
         {
@@ -270,7 +270,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 8.4,
+      "heures": 10.6,
       "chaleur": 7,
       "liens": [
         {
@@ -293,7 +293,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.6,
       "chaleur": 7,
       "liens": [
         {
@@ -312,7 +312,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.0,
+      "heures": 11.2,
       "chaleur": 7,
       "liens": [
         {
@@ -324,30 +324,6 @@ const VEILLE = {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/ace-combat-8-is-the-fastest-selling-entry-in-the-series-after-hitting-1-million-sales/",
           "titre": "Ace Combat 8 is the fastest selling entry in the series after hitting 1 million sales"
-        }
-      ]
-    },
-    {
-      "id": "dave-the-diver-s-final-dlc-is-the-perfect-crossover",
-      "titre": "Dave The Diver's Final DLC Is The Perfect Crossover",
-      "url": "https://www.nintendolife.com/news/2026/10/dave-the-divers-final-dlc-is-the-perfect-crossover",
-      "sources": [
-        "Nintendo Life",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 9.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/dave-the-divers-final-dlc-is-the-perfect-crossover",
-          "titre": "Dave The Diver's Final DLC Is The Perfect Crossover"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/dave-the-diver-is-wrapping-up-its-dlc-plans-with-an-aquatically-appropriate-subnautica-2-collab",
-          "titre": "Dave the Diver is wrapping up its DLC plans with an aquatically appropriate Subnautica 2 collab"
         }
       ]
     },
@@ -388,56 +364,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "after-modders-removed-skate-s-live-service-bits-devs-draw-th",
-      "titre": "After modders removed Skate's live service bits, devs draw the line with tools that \"bypass our systems to unlock paid cosmetics\"",
-      "url": "https://www.eurogamer.net/skate-mods-live-service-ea-unlock-paid-cosmetics",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/skate-mods-live-service-ea-unlock-paid-cosmetics",
-          "titre": "After modders removed Skate's live service bits, devs draw the line with tools that \"bypass our systems to unlock paid cosmetics\""
-        }
-      ]
-    },
-    {
-      "id": "dd2-dark-arisen-how-to-damage-blackdog-enemies-a-howl-in-the",
-      "titre": "DD2 Dark Arisen: How to damage Blackdog enemies, A Howl in the Dawk quest guide",
-      "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-how-to-damage-blackdog-enemies-a-howl-in-the-dawk-quest-guide/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-how-to-damage-blackdog-enemies-a-howl-in-the-dawk-quest-guide/",
-          "titre": "DD2 Dark Arisen: How to damage Blackdog enemies, A Howl in the Dawk quest guide"
-        }
-      ]
-    },
-    {
-      "id": "don-t-worry-valve-i-ve-got-your-next-deadlock-character-conc",
-      "titre": "Don't worry, Valve: I've got your next Deadlock character concepts sorted",
-      "url": "https://www.pcgamer.com/games/moba/dont-worry-valve-ive-got-your-next-deadlock-character-concepts-sorted/",
+      "id": "2026-s-oled-monitors-can-nearly-recreate-the-sublime-clarity",
+      "titre": "2026's OLED monitors can nearly recreate the sublime clarity of a '90s CRT, but Windows will have to change before we can achieve true nirvana",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/2026s-oled-monitors-can-nearly-recreate-the-sublime-clarity-of-a-90s-crt-but-windows-will-have-to-change-before-we-can-achieve-true-nirvana/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.7,
+      "heures": 0.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/moba/dont-worry-valve-ive-got-your-next-deadlock-character-concepts-sorted/",
-          "titre": "Don't worry, Valve: I've got your next Deadlock character concepts sorted"
+          "url": "https://www.pcgamer.com/hardware/gaming-monitors/2026s-oled-monitors-can-nearly-recreate-the-sublime-clarity-of-a-90s-crt-but-windows-will-have-to-change-before-we-can-achieve-true-nirvana/",
+          "titre": "2026's OLED monitors can nearly recreate the sublime clarity of a '90s CRT, but Windows will have to change before we can achieve true nirvana"
+        }
+      ]
+    },
+    {
+      "id": "sonic-racing-crossworlds-year-two-roadmap-revealed-major-fre",
+      "titre": "Sonic Racing: CrossWorlds \"Year Two\" Roadmap Revealed - Major Free Updates, New Collabs And Much More",
+      "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-two-roadmap-revealed-major-free-updates-new-collabs-and-much-more",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-two-roadmap-revealed-major-free-updates-new-collabs-and-much-more",
+          "titre": "Sonic Racing: CrossWorlds \"Year Two\" Roadmap Revealed - Major Free Updates, New Collabs And Much More"
+        }
+      ]
+    },
+    {
+      "id": "overcooked-broke-you-apart-and-stage-fright-is-there-to-put",
+      "titre": "'Overcooked broke you apart and Stage Fright is there to put you back together'",
+      "url": "https://www.pcgamer.com/games/adventure/overcooked-broke-you-apart-and-stage-fright-is-there-to-put-you-back-together/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/adventure/overcooked-broke-you-apart-and-stage-fright-is-there-to-put-you-back-together/",
+          "titre": "'Overcooked broke you apart and Stage Fright is there to put you back together'"
+        }
+      ]
+    },
+    {
+      "id": "talking-point-what-are-you-playing-this-weekend-issue-653",
+      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 653",
+      "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-653",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-653",
+          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 653"
         }
       ]
     },
@@ -449,7 +443,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.6,
       "chaleur": 6,
       "liens": [
         {
@@ -467,7 +461,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.7,
       "chaleur": 6,
       "liens": [
         {
@@ -485,7 +479,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 9.1,
       "chaleur": 6,
       "liens": [
         {
@@ -503,7 +497,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 9.1,
       "chaleur": 6,
       "liens": [
         {
@@ -521,7 +515,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.3,
       "chaleur": 6,
       "liens": [
         {
@@ -539,7 +533,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.6,
       "chaleur": 6,
       "liens": [
         {
@@ -557,13 +551,55 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash",
           "titre": "Report: Double Fine's union drive collapsed due to miscommunication and culture clash"
+        }
+      ]
+    },
+    {
+      "id": "dave-the-diver-s-final-dlc-is-the-perfect-crossover",
+      "titre": "Dave The Diver's Final DLC Is The Perfect Crossover",
+      "url": "https://www.nintendolife.com/news/2026/10/dave-the-divers-final-dlc-is-the-perfect-crossover",
+      "sources": [
+        "Nintendo Life",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 12.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/dave-the-divers-final-dlc-is-the-perfect-crossover",
+          "titre": "Dave The Diver's Final DLC Is The Perfect Crossover"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/dave-the-diver-is-wrapping-up-its-dlc-plans-with-an-aquatically-appropriate-subnautica-2-collab",
+          "titre": "Dave the Diver is wrapping up its DLC plans with an aquatically appropriate Subnautica 2 collab"
+        }
+      ]
+    },
+    {
+      "id": "best-buy-to-offer-additional-switch-2-zelda-units-in-store-a",
+      "titre": "Best Buy To Offer Additional Switch 2 Zelda Units In-Store At Midnight Launch",
+      "url": "https://www.nintendolife.com/news/2026/10/best-buy-to-offer-additional-switch-2-zelda-units-in-store-at-midnight-launch",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 22.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/best-buy-to-offer-additional-switch-2-zelda-units-in-store-at-midnight-launch",
+          "titre": "Best Buy To Offer Additional Switch 2 Zelda Units In-Store At Midnight Launch"
         }
       ]
     },
@@ -575,8 +611,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 6,
+      "heures": 12.8,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -593,31 +629,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 6,
+      "heures": 13.6,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/final-fantasy-vii-revelation-cast-get-emotional-in-last-recording-sessions",
           "titre": "Final Fantasy VII Revelation Cast Get Emotional In Last Recording Sessions"
-        }
-      ]
-    },
-    {
-      "id": "best-buy-to-offer-additional-switch-2-zelda-units-in-store-a",
-      "titre": "Best Buy To Offer Additional Switch 2 Zelda Units In-Store At Midnight Launch",
-      "url": "https://www.nintendolife.com/news/2026/10/best-buy-to-offer-additional-switch-2-zelda-units-in-store-at-midnight-launch",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 19.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/best-buy-to-offer-additional-switch-2-zelda-units-in-store-at-midnight-launch",
-          "titre": "Best Buy To Offer Additional Switch 2 Zelda Units In-Store At Midnight Launch"
         }
       ]
     },
@@ -629,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.9,
+      "heures": 23.1,
       "chaleur": 5,
       "liens": [
         {
@@ -647,7 +665,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.6,
+      "heures": 23.8,
       "chaleur": 5,
       "liens": [
         {
@@ -665,7 +683,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 28.9,
+      "heures": 31.1,
       "chaleur": 5,
       "liens": [
         {
@@ -676,20 +694,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-announces-new-xp-division-to-deliver-transmedia-spinoff",
-      "titre": "Xbox announces new XP division to deliver transmedia spinoffs including film, TV, and theme parks",
-      "url": "https://www.gamesindustry.biz/xbox-announces-new-xp-division-to-deliver-transmedia-spinoffs-including-film-tv-and-theme-parks",
+      "id": "after-modders-removed-skate-s-live-service-bits-devs-draw-th",
+      "titre": "After modders removed Skate's live service bits, devs draw the line with tools that \"bypass our systems to unlock paid cosmetics\"",
+      "url": "https://www.eurogamer.net/skate-mods-live-service-ea-unlock-paid-cosmetics",
       "sources": [
-        "GamesIndustry.biz"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 34.1,
-      "chaleur": 5,
+      "heures": 4.3,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/xbox-announces-new-xp-division-to-deliver-transmedia-spinoffs-including-film-tv-and-theme-parks",
-          "titre": "Xbox announces new XP division to deliver transmedia spinoffs including film, TV, and theme parks"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/skate-mods-live-service-ea-unlock-paid-cosmetics",
+          "titre": "After modders removed Skate's live service bits, devs draw the line with tools that \"bypass our systems to unlock paid cosmetics\""
+        }
+      ]
+    },
+    {
+      "id": "dd2-dark-arisen-how-to-damage-blackdog-enemies-a-howl-in-the",
+      "titre": "DD2 Dark Arisen: How to damage Blackdog enemies, A Howl in the Dawk quest guide",
+      "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-how-to-damage-blackdog-enemies-a-howl-in-the-dawk-quest-guide/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-how-to-damage-blackdog-enemies-a-howl-in-the-dawk-quest-guide/",
+          "titre": "DD2 Dark Arisen: How to damage Blackdog enemies, A Howl in the Dawk quest guide"
+        }
+      ]
+    },
+    {
+      "id": "don-t-worry-valve-i-ve-got-your-next-deadlock-character-conc",
+      "titre": "Don't worry, Valve: I've got your next Deadlock character concepts sorted",
+      "url": "https://www.pcgamer.com/games/moba/dont-worry-valve-ive-got-your-next-deadlock-character-concepts-sorted/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/dont-worry-valve-ive-got-your-next-deadlock-character-concepts-sorted/",
+          "titre": "Don't worry, Valve: I've got your next Deadlock character concepts sorted"
         }
       ]
     },
@@ -701,7 +755,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -719,7 +773,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -737,7 +791,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -755,7 +809,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -773,7 +827,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -791,7 +845,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -809,7 +863,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -827,7 +881,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +899,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -863,7 +917,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +935,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +971,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +989,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +1007,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +1025,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +1043,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +1061,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1025,7 +1079,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,7 +1097,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,31 +1115,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/charlie-cox-unannounced-sega-game-clair-obscur-daredevil",
           "titre": "More Cox in video games as Daredevil and Clair Obscur star says he's in an unannounced Sega title"
-        }
-      ]
-    },
-    {
-      "id": "does-razer-s-perfect-180-insta-turning-mouse-feature-count-a",
-      "titre": "Does Razer's 'Perfect 180' insta-turning mouse feature count as cheating? You decide",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/does-razers-perfect-180-insta-turning-mouse-feature-count-as-cheating-you-decide/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 9.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-mice/does-razers-perfect-180-insta-turning-mouse-feature-count-as-cheating-you-decide/",
-          "titre": "Does Razer's 'Perfect 180' insta-turning mouse feature count as cheating? You decide"
         }
       ]
     },
@@ -1097,7 +1133,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 12.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1115,8 +1151,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1124,45 +1160,7 @@ const VEILLE = {
           "titre": "Crimson Desert’s lower review scores were because critics didn’t get a ‘fair chance to explore’, exec says"
         }
       ]
-    },
-    {
-      "id": "ghost-of-tsushima-s-anime-series-has-been-pushed-back-to-202",
-      "titre": "Ghost of Tsushima's Anime Series Has Been Pushed Back to 2028",
-      "url": "https://www.pushsquare.com/news/2026/10/ghost-of-tsushimas-anime-series-has-been-pushed-back-to-2028",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ghost-of-tsushimas-anime-series-has-been-pushed-back-to-2028",
-          "titre": "Ghost of Tsushima's Anime Series Has Been Pushed Back to 2028"
-        }
-      ]
-    },
-    {
-      "id": "video-games-aren-t-the-enemy-of-kids-mental-health-ignoring",
-      "titre": "Video games aren't the enemy of kids' mental health – ignoring them is | Opinion",
-      "url": "https://www.gamesindustry.biz/video-games-arent-the-enemy-of-kids-mental-health-ignoring-them-is-opinion",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/video-games-arent-the-enemy-of-kids-mental-health-ignoring-them-is-opinion",
-          "titre": "Video games aren't the enemy of kids' mental health – ignoring them is | Opinion"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "Cyberpunk 2077 is being made into a movie, even though we've already got the perfect cyberpunk movie starring Keanu Reeves as a guy named Johnny"
-  ]
+  "alertes": []
 };
