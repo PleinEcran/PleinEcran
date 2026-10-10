@@ -1,8 +1,38 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "10/10/2026 à 06h26",
+  "collecte": "10/10/2026 à 08h21",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "what-we-ve-been-playing-it-s-pure-video-game-popcorn-movie-s",
+      "titre": "What we've been playing - \"It's pure video game popcorn movie stuff\"",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-its-pure-video-game-popcorn-movie-stuff",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 1.4,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/what-weve-been-playing-its-pure-video-game-popcorn-movie-stuff",
+          "titre": "What we've been playing - \"It's pure video game popcorn movie stuff\""
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-403",
+          "titre": "What are we all playing this weekend?"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-653",
+          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 653"
+        }
+      ]
+    },
     {
       "id": "cyberpunk-2077-is-being-made-into-a-movie-even-though-we-ve",
       "titre": "Cyberpunk 2077 is being made into a movie, even though we've already got the perfect cyberpunk movie starring Keanu Reeves as a guy named Johnny",
@@ -10,13 +40,11 @@ const VEILLE = {
       "sources": [
         "Nintendo Life",
         "PC Gamer",
-        "Push Square",
-        "Rock Paper Shotgun",
-        "VGC"
+        "Rock Paper Shotgun"
       ],
-      "reprises": 5,
-      "heures": 8.5,
-      "chaleur": 16,
+      "reprises": 3,
+      "heures": 10.5,
+      "chaleur": 10,
       "liens": [
         {
           "source": "PC Gamer",
@@ -32,16 +60,6 @@ const VEILLE = {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/all-hail-brand-synergy-cyberpunk-2077-is-getting-a-live-action-adaptation-from-paramount-and-the-producer-behind-the-horrendous-doom-movie",
           "titre": "All hail brand synergy, Cyberpunk 2077 is getting a live action adaptation from Paramount and the producer behind the horrendous Doom movie"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-is-the-next-game-set-for-a-live-action-film",
-          "titre": "Cyberpunk 2077 Is the Next Game Set for a Live-Action Film"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/cyberpunk-2077-is-getting-a-live-action-movie-from-paramount/",
-          "titre": "Cyberpunk 2077 is getting a live-action movie from Paramount"
         }
       ]
     },
@@ -55,7 +73,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 13.4,
+      "heures": 15.3,
       "chaleur": 9,
       "liens": [
         {
@@ -84,7 +102,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 15.7,
+      "heures": 17.7,
       "chaleur": 8,
       "liens": [
         {
@@ -108,7 +126,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 17.5,
+      "heures": 19.5,
       "chaleur": 8,
       "liens": [
         {
@@ -124,24 +142,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "as-xbox-and-playstation-sales-reach-new-lows-analyst-says-th",
-      "titre": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\"",
-      "url": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
-          "titre": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\""
-        }
-      ]
-    },
-    {
       "id": "gears-of-war-e-day-reportedly-courts-over-1-7m-xbox-game-pas",
       "titre": "Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch",
       "url": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players",
@@ -149,7 +149,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.3,
       "chaleur": 7,
       "liens": [
         {
@@ -196,20 +196,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "fatal-fury-city-of-the-wolves-announces-tekken-collab",
-      "titre": "Fatal Fury: City Of The Wolves Announces Tekken Collab",
-      "url": "https://www.nintendolife.com/news/2026/10/fatal-fury-city-of-the-wolves-announces-tekken-collab",
+      "id": "dd2-dark-arisen-all-commission-supply-locations-the-snatchin",
+      "titre": "DD2 Dark Arisen: All Commission Supply locations, The Snatching-Beast quest guide",
+      "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-commission-supply-locations-the-snatching-beast-quest-guide/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-commission-supply-locations-the-snatching-beast-quest-guide/",
+          "titre": "DD2 Dark Arisen: All Commission Supply locations, The Snatching-Beast quest guide"
+        }
+      ]
+    },
+    {
+      "id": "fortnite-x-sonic-collab-to-be-continued",
+      "titre": "Fortnite X Sonic Collab \"To Be Continued\"",
+      "url": "https://www.nintendolife.com/news/2026/10/fortnite-x-sonic-collab-to-be-continued",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.5,
+      "heures": 1.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/fatal-fury-city-of-the-wolves-announces-tekken-collab",
-          "titre": "Fatal Fury: City Of The Wolves Announces Tekken Collab"
+          "url": "https://www.nintendolife.com/news/2026/10/fortnite-x-sonic-collab-to-be-continued",
+          "titre": "Fortnite X Sonic Collab \"To Be Continued\""
         }
       ]
     },
@@ -221,7 +239,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.6,
       "chaleur": 6,
       "liens": [
         {
@@ -232,26 +250,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "leisure-suit-larry-is-about-to-take-his-final-bow",
-      "titre": "Leisure Suit Larry is about to take his final bow",
-      "url": "https://www.pcgamer.com/games/adventure/leisure-suit-larry-is-about-to-take-his-final-bow/",
+      "id": "as-xbox-and-playstation-sales-reach-new-lows-analyst-says-th",
+      "titre": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\"",
+      "url": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
       "sources": [
-        "PC Gamer",
-        "VGC"
+        "Eurogamer"
       ],
-      "reprises": 2,
-      "heures": 12.1,
+      "reprises": 1,
+      "heures": 13.5,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/adventure/leisure-suit-larry-is-about-to-take-his-final-bow/",
-          "titre": "Leisure Suit Larry is about to take his final bow"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/after-the-first-seven-leisure-suit-larry-games-were-delisted-last-year-the-last-two-are-joining-them/",
-          "titre": "After the first seven Leisure Suit Larry games were delisted last year, the last two are joining them"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
+          "titre": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\""
         }
       ]
     },
@@ -263,7 +275,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 6,
       "liens": [
         {
@@ -281,7 +293,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 15.7,
       "chaleur": 6,
       "liens": [
         {
@@ -299,7 +311,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.1,
       "chaleur": 6,
       "liens": [
         {
@@ -317,37 +329,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/counter-strike-2-player-dedicates-masters-thesis-to-rooting-out-cheaters-creates-grade-a-player-tracking-system/",
           "titre": "Counter-Strike 2 player dedicates Master's thesis to rooting out cheaters, creates grade A player tracking system"
-        }
-      ]
-    },
-    {
-      "id": "cd-projekt-red-delivers-the-witcher-3-remastered-fixes-impro",
-      "titre": "CD Projekt Red Delivers The Witcher 3 Remastered Fixes, Improvements in Patch 5.01",
-      "url": "https://www.pushsquare.com/news/2026/10/cd-projekt-red-delivers-the-witcher-3-remastered-fixes-improvements-in-patch-5-01",
-      "sources": [
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 16.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/cd-projekt-red-delivers-the-witcher-3-remastered-fixes-improvements-in-patch-5-01",
-          "titre": "CD Projekt Red Delivers The Witcher 3 Remastered Fixes, Improvements in Patch 5.01"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-brings-some-bloomin-improvements-to-the-games-bloom-problems-amongst-other-lighting-buffs",
-          "titre": "The Witcher 3 Remastered's latest patch brings some bloomin' improvements to the game's bloom problems, amongst other lighting buffs"
         }
       ]
     },
@@ -359,61 +347,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/undead-labs-boss-reluctant-to-share-number-affected-by-layoffs-i-would-hate-to-reduce-the-impact-to-those-individuals-to-a-number-or-statistic",
           "titre": "Undead Labs boss \"reluctant to share\" number affected by layoffs: \"I would hate to reduce the impact to those individuals to a number or statistic\""
-        }
-      ]
-    },
-    {
-      "id": "ace-combat-8-becomes-fastest-selling-game-in-the-series-and",
-      "titre": "Ace Combat 8 becomes fastest-selling game in the series, and very nearly the highest rated",
-      "url": "https://www.eurogamer.net/ace-combat-8-sales",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 17.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ace-combat-8-sales",
-          "titre": "Ace Combat 8 becomes fastest-selling game in the series, and very nearly the highest rated"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/ace-combat-8-is-the-fastest-selling-entry-in-the-series-after-hitting-1-million-sales/",
-          "titre": "Ace Combat 8 is the fastest selling entry in the series after hitting 1 million sales"
-        }
-      ]
-    },
-    {
-      "id": "dave-the-diver-s-final-dlc-is-the-perfect-crossover",
-      "titre": "Dave The Diver's Final DLC Is The Perfect Crossover",
-      "url": "https://www.nintendolife.com/news/2026/10/dave-the-divers-final-dlc-is-the-perfect-crossover",
-      "sources": [
-        "Nintendo Life",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 17.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/dave-the-divers-final-dlc-is-the-perfect-crossover",
-          "titre": "Dave The Diver's Final DLC Is The Perfect Crossover"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/dave-the-diver-is-wrapping-up-its-dlc-plans-with-an-aquatically-appropriate-subnautica-2-collab",
-          "titre": "Dave the Diver is wrapping up its DLC plans with an aquatically appropriate Subnautica 2 collab"
         }
       ]
     },
@@ -425,7 +365,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.9,
+      "heures": 29.9,
       "chaleur": 6,
       "liens": [
         {
@@ -443,7 +383,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -461,7 +401,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.5,
       "chaleur": 5,
       "liens": [
         {
@@ -479,7 +419,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 5,
       "liens": [
         {
@@ -497,7 +437,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 16.9,
       "chaleur": 5,
       "liens": [
         {
@@ -515,7 +455,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 17.1,
       "chaleur": 5,
       "liens": [
         {
@@ -533,7 +473,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 5,
       "liens": [
         {
@@ -551,7 +491,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.5,
       "chaleur": 5,
       "liens": [
         {
@@ -569,7 +509,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.7,
+      "heures": 20.6,
       "chaleur": 5,
       "liens": [
         {
@@ -587,7 +527,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.4,
       "chaleur": 5,
       "liens": [
         {
@@ -598,20 +538,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "tropico-7-officially-confirmed-for-switch-2-out-2027",
-      "titre": "Tropico 7 Officially Confirmed For Switch 2, Out 2027",
-      "url": "https://www.nintendolife.com/news/2026/10/tropico-7-officially-confirmed-for-switch-2-out-2027",
+      "id": "fatal-fury-city-of-the-wolves-announces-tekken-collab",
+      "titre": "Fatal Fury: City Of The Wolves Announces Tekken Collab",
+      "url": "https://www.nintendolife.com/news/2026/10/fatal-fury-city-of-the-wolves-announces-tekken-collab",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.9,
-      "chaleur": 5,
+      "heures": 4.4,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/tropico-7-officially-confirmed-for-switch-2-out-2027",
-          "titre": "Tropico 7 Officially Confirmed For Switch 2, Out 2027"
+          "url": "https://www.nintendolife.com/news/2026/10/fatal-fury-city-of-the-wolves-announces-tekken-collab",
+          "titre": "Fatal Fury: City Of The Wolves Announces Tekken Collab"
         }
       ]
     },
@@ -623,7 +563,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -641,7 +581,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -659,31 +599,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/adventure/overcooked-broke-you-apart-and-stage-fright-is-there-to-put-you-back-together/",
           "titre": "'Overcooked broke you apart and Stage Fright is there to put you back together'"
-        }
-      ]
-    },
-    {
-      "id": "talking-point-what-are-you-playing-this-weekend-issue-653",
-      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 653",
-      "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-653",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 7.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-653",
-          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 653"
         }
       ]
     },
@@ -695,31 +617,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/skate-mods-live-service-ea-unlock-paid-cosmetics",
           "titre": "After modders removed Skate's live service bits, devs draw the line with tools that \"bypass our systems to unlock paid cosmetics\""
-        }
-      ]
-    },
-    {
-      "id": "dd2-dark-arisen-how-to-damage-blackdog-enemies-a-howl-in-the",
-      "titre": "DD2 Dark Arisen: How to damage Blackdog enemies, A Howl in the Dawk quest guide",
-      "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-how-to-damage-blackdog-enemies-a-howl-in-the-dawk-quest-guide/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-how-to-damage-blackdog-enemies-a-howl-in-the-dawk-quest-guide/",
-          "titre": "DD2 Dark Arisen: How to damage Blackdog enemies, A Howl in the Dawk quest guide"
         }
       ]
     },
@@ -731,13 +635,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/moba/dont-worry-valve-ive-got-your-next-deadlock-character-concepts-sorted/",
           "titre": "Don't worry, Valve: I've got your next Deadlock character concepts sorted"
+        }
+      ]
+    },
+    {
+      "id": "leisure-suit-larry-is-about-to-take-his-final-bow",
+      "titre": "Leisure Suit Larry is about to take his final bow",
+      "url": "https://www.pcgamer.com/games/adventure/leisure-suit-larry-is-about-to-take-his-final-bow/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 14.0,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/adventure/leisure-suit-larry-is-about-to-take-his-final-bow/",
+          "titre": "Leisure Suit Larry is about to take his final bow"
         }
       ]
     },
@@ -749,7 +671,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 14.6,
       "chaleur": 3,
       "liens": [
         {
@@ -767,7 +689,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.1,
       "chaleur": 3,
       "liens": [
         {
@@ -785,7 +707,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 15.7,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +725,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +743,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -839,7 +761,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -857,7 +779,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.7,
+      "heures": 16.6,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +797,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.7,
+      "heures": 16.7,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +815,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.8,
       "chaleur": 3,
       "liens": [
         {
@@ -911,7 +833,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.8,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 17.1,
       "chaleur": 3,
       "liens": [
         {
@@ -947,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.3,
       "chaleur": 3,
       "liens": [
         {
@@ -965,7 +887,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.3,
       "chaleur": 3,
       "liens": [
         {
@@ -983,7 +905,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +923,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,7 +941,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 17.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1037,7 +959,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1055,13 +977,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/draw-maps-of-a-vampiric-lighthouse-that-defies-logic-in-this-is-not-for-you-the-latest-horror-game-inspired-by-house-of-leaves",
           "titre": "Draw maps of a vampiric lighthouse that defies logic in This Is Not For You, the latest horror game inspired by House of Leaves"
+        }
+      ]
+    },
+    {
+      "id": "cd-projekt-red-delivers-the-witcher-3-remastered-fixes-impro",
+      "titre": "CD Projekt Red Delivers The Witcher 3 Remastered Fixes, Improvements in Patch 5.01",
+      "url": "https://www.pushsquare.com/news/2026/10/cd-projekt-red-delivers-the-witcher-3-remastered-fixes-improvements-in-patch-5-01",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 18.4,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/cd-projekt-red-delivers-the-witcher-3-remastered-fixes-improvements-in-patch-5-01",
+          "titre": "CD Projekt Red Delivers The Witcher 3 Remastered Fixes, Improvements in Patch 5.01"
         }
       ]
     },
@@ -1073,7 +1013,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1091,7 +1031,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1109,13 +1049,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 18.9,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/charlie-cox-unannounced-sega-game-clair-obscur-daredevil",
           "titre": "More Cox in video games as Daredevil and Clair Obscur star says he's in an unannounced Sega title"
+        }
+      ]
+    },
+    {
+      "id": "ace-combat-8-becomes-fastest-selling-game-in-the-series-and",
+      "titre": "Ace Combat 8 becomes fastest-selling game in the series, and very nearly the highest rated",
+      "url": "https://www.eurogamer.net/ace-combat-8-sales",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 19.0,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ace-combat-8-sales",
+          "titre": "Ace Combat 8 becomes fastest-selling game in the series, and very nearly the highest rated"
         }
       ]
     },
@@ -1127,13 +1085,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 19.8,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/ea-sports-fc-27-review",
           "titre": "EA Sports FC 27 review"
+        }
+      ]
+    },
+    {
+      "id": "dave-the-diver-s-final-dlc-is-the-perfect-crossover",
+      "titre": "Dave The Diver's Final DLC Is The Perfect Crossover",
+      "url": "https://www.nintendolife.com/news/2026/10/dave-the-divers-final-dlc-is-the-perfect-crossover",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 19.9,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/dave-the-divers-final-dlc-is-the-perfect-crossover",
+          "titre": "Dave The Diver's Final DLC Is The Perfect Crossover"
         }
       ]
     },
@@ -1145,7 +1121,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 20.8,
       "chaleur": 3,
       "liens": [
         {
