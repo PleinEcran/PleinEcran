@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "10/10/2026 à 14h20",
+  "collecte": "10/10/2026 à 16h20",
   "seuil": 14,
   "sujets": [
     {
@@ -12,7 +12,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 12,
       "liens": [
         {
@@ -36,8 +36,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 2.2,
-      "chaleur": 12,
+      "heures": 4.2,
+      "chaleur": 10,
       "liens": [
         {
           "source": "VGC",
@@ -61,7 +61,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 10,
       "liens": [
         {
@@ -91,7 +91,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 5.3,
+      "heures": 7.3,
       "chaleur": 10,
       "liens": [
         {
@@ -120,7 +120,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 9,
       "liens": [
         {
@@ -144,7 +144,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 9,
       "liens": [
         {
@@ -167,49 +167,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/fps/the-advent-of-first-person-shooters-introduced-a-wild-frontier-of-unregulated-video-game-level-packs-and-it-ended-in-a-lawsuit-that-changed-copyright-forever/",
           "titre": "The advent of first-person shooters introduced a wild frontier of unregulated video game level packs, and it ended in a lawsuit that changed copyright forever"
-        }
-      ]
-    },
-    {
-      "id": "review-middle-earth-shadow-of-mordor-game-of-the-year-editio",
-      "titre": "Review: Middle-earth: Shadow Of Mordor Game Of The Year Edition (Switch 2) - The Nemesis System Is Still A Winner",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/middle-earth-shadow-of-mordor-game-of-the-year-edition",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/middle-earth-shadow-of-mordor-game-of-the-year-edition",
-          "titre": "Review: Middle-earth: Shadow Of Mordor Game Of The Year Edition (Switch 2) - The Nemesis System Is Still A Winner"
-        }
-      ]
-    },
-    {
-      "id": "silent-hill-gravity-rush-director-s-bokeh-game-studio-is-rep",
-      "titre": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game",
-      "url": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
-          "titre": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game"
         }
       ]
     },
@@ -222,7 +186,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 23.6,
+      "heures": 25.6,
       "chaleur": 8,
       "liens": [
         {
@@ -246,7 +210,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 25.4,
+      "heures": 27.4,
       "chaleur": 8,
       "liens": [
         {
@@ -269,7 +233,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 22.3,
       "chaleur": 7,
       "liens": [
         {
@@ -316,20 +280,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "dd2-dark-arisen-transmog-how-to-change-armor-appearance",
-      "titre": "DD2 Dark Arisen transmog: How to change armor appearance",
-      "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-transmog-how-to-change-armor-appearance/",
+      "id": "resident-evil-inspired-cannibal-dungeon-crawler-medium-rare",
+      "titre": "Resident Evil inspired, cannibal dungeon crawler Medium Rare has a delightful art style trick up its sleeve: stock photos",
+      "url": "https://www.rockpapershotgun.com/resident-evil-inspired-cannibal-dungeon-crawler-medium-rare-has-a-delightful-art-style-trick-up-its-sleeve-stock-photos",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/resident-evil-inspired-cannibal-dungeon-crawler-medium-rare-has-a-delightful-art-style-trick-up-its-sleeve-stock-photos",
+          "titre": "Resident Evil inspired, cannibal dungeon crawler Medium Rare has a delightful art style trick up its sleeve: stock photos"
+        }
+      ]
+    },
+    {
+      "id": "dd2-dark-arisen-hal-s-treasure-hunt-quest-guide",
+      "titre": "DD2 Dark Arisen: Hal’s Treasure Hunt quest guide",
+      "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-hals-treasure-hunt-quest-guide/",
       "sources": [
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 1.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-transmog-how-to-change-armor-appearance/",
-          "titre": "DD2 Dark Arisen transmog: How to change armor appearance"
+          "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-hals-treasure-hunt-quest-guide/",
+          "titre": "DD2 Dark Arisen: Hal’s Treasure Hunt quest guide"
+        }
+      ]
+    },
+    {
+      "id": "wow-forever-by-casting-off-modern-convenience-has-horseshoed",
+      "titre": "WoW: Forever, by casting off modern convenience, has horseshoed back around to being casual friendly again",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-by-casting-off-modern-convenience-has-horseshoed-back-around-to-being-casual-friendly-again/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-by-casting-off-modern-convenience-has-horseshoed-back-around-to-being-casual-friendly-again/",
+          "titre": "WoW: Forever, by casting off modern convenience, has horseshoed back around to being casual friendly again"
         }
       ]
     },
@@ -341,7 +341,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -359,7 +359,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -370,74 +370,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "arc-raiders-could-eventually-be-split-into-pve-and-pvp-says",
-      "titre": "Arc Raiders could eventually be split into PvE and PvP, says executive producer",
-      "url": "https://www.eurogamer.net/arc-raiders-pve-pvp-split-possible-executive-producer",
+      "id": "review-middle-earth-shadow-of-mordor-game-of-the-year-editio",
+      "titre": "Review: Middle-earth: Shadow Of Mordor Game Of The Year Edition (Switch 2) - The Nemesis System Is Still A Winner",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/middle-earth-shadow-of-mordor-game-of-the-year-edition",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/middle-earth-shadow-of-mordor-game-of-the-year-edition",
+          "titre": "Review: Middle-earth: Shadow Of Mordor Game Of The Year Edition (Switch 2) - The Nemesis System Is Still A Winner"
+        }
+      ]
+    },
+    {
+      "id": "silent-hill-gravity-rush-director-s-bokeh-game-studio-is-rep",
+      "titre": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game",
+      "url": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.0,
+      "heures": 4.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/arc-raiders-pve-pvp-split-possible-executive-producer",
-          "titre": "Arc Raiders could eventually be split into PvE and PvP, says executive producer"
-        }
-      ]
-    },
-    {
-      "id": "if-you-re-skilful-enough-you-can-chop-the-head-off-a-monste",
-      "titre": "'If you're skilful enough, you can chop the head off a monster, kick it midair, and then kill another monster with it': Consider me sold on this indie first-person ARPG",
-      "url": "https://www.pcgamer.com/games/rpg/if-youre-skilful-enough-you-can-chop-the-head-off-a-monster-kick-it-midair-and-then-kill-another-monster-with-it-consider-me-sold-on-this-indie-first-person-arpg/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/if-youre-skilful-enough-you-can-chop-the-head-off-a-monster-kick-it-midair-and-then-kill-another-monster-with-it-consider-me-sold-on-this-indie-first-person-arpg/",
-          "titre": "'If you're skilful enough, you can chop the head off a monster, kick it midair, and then kill another monster with it': Consider me sold on this indie first-person ARPG"
-        }
-      ]
-    },
-    {
-      "id": "guide-these-30-ps5-games-are-coming-out-next-week-12th-18th",
-      "titre": "Guide: These 30+ PS5 Games Are Coming Out Next Week (12th-18th October)",
-      "url": "https://www.pushsquare.com/guides/these-30plus-ps5-games-are-coming-out-next-week-12th-18th-october",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/these-30plus-ps5-games-are-coming-out-next-week-12th-18th-october",
-          "titre": "Guide: These 30+ PS5 Games Are Coming Out Next Week (12th-18th October)"
-        }
-      ]
-    },
-    {
-      "id": "mafia-3-which-pc-gamer-scored-54-but-which-i-say-is-great-go",
-      "titre": "Mafia 3, which PC Gamer scored 54% but which I say is great, got a nice little 10th-anniversary update",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/mafia-3-which-pc-gamer-scored-54-percent-but-which-i-say-is-great-got-a-nice-little-10th-anniversary-update/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/mafia-3-which-pc-gamer-scored-54-percent-but-which-i-say-is-great-got-a-nice-little-10th-anniversary-update/",
-          "titre": "Mafia 3, which PC Gamer scored 54% but which I say is great, got a nice little 10th-anniversary update"
+          "url": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
+          "titre": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game"
         }
       ]
     },
@@ -450,7 +414,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 6,
       "liens": [
         {
@@ -474,7 +438,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 21.3,
+      "heures": 23.3,
       "chaleur": 6,
       "liens": [
         {
@@ -497,7 +461,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.3,
       "chaleur": 6,
       "liens": [
         {
@@ -515,7 +479,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.7,
+      "heures": 23.7,
       "chaleur": 6,
       "liens": [
         {
@@ -533,7 +497,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 26.4,
       "chaleur": 6,
       "liens": [
         {
@@ -551,7 +515,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.6,
       "chaleur": 5,
       "liens": [
         {
@@ -569,31 +533,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-4-still-an-all-timer",
           "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #4 - Still An All-Timer"
-        }
-      ]
-    },
-    {
-      "id": "podcast-playstation-is-bringing-back-old-franchises-but-whic",
-      "titre": "Podcast: PlayStation is bringing back old franchises, but which ones do we want most?",
-      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-playstation-is-bringing-back-old-franchises-but-which-ones-do-we-want-most/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 21.5,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-playstation-is-bringing-back-old-franchises-but-which-ones-do-we-want-most/",
-          "titre": "Podcast: PlayStation is bringing back old franchises, but which ones do we want most?"
         }
       ]
     },
@@ -605,7 +551,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 24.8,
       "chaleur": 5,
       "liens": [
         {
@@ -623,7 +569,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.1,
+      "heures": 25.1,
       "chaleur": 5,
       "liens": [
         {
@@ -641,7 +587,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.3,
       "chaleur": 5,
       "liens": [
         {
@@ -659,7 +605,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 25.5,
       "chaleur": 5,
       "liens": [
         {
@@ -677,7 +623,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.6,
+      "heures": 28.6,
       "chaleur": 5,
       "liens": [
         {
@@ -695,13 +641,85 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/final-fantasy-vii-revelation-cast-get-emotional-in-last-recording-sessions",
           "titre": "Final Fantasy VII Revelation Cast Get Emotional In Last Recording Sessions"
+        }
+      ]
+    },
+    {
+      "id": "arc-raiders-could-eventually-be-split-into-pve-and-pvp-says",
+      "titre": "Arc Raiders could eventually be split into PvE and PvP, says executive producer",
+      "url": "https://www.eurogamer.net/arc-raiders-pve-pvp-split-possible-executive-producer",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/arc-raiders-pve-pvp-split-possible-executive-producer",
+          "titre": "Arc Raiders could eventually be split into PvE and PvP, says executive producer"
+        }
+      ]
+    },
+    {
+      "id": "if-you-re-skilful-enough-you-can-chop-the-head-off-a-monste",
+      "titre": "'If you're skilful enough, you can chop the head off a monster, kick it midair, and then kill another monster with it': Consider me sold on this indie first-person ARPG",
+      "url": "https://www.pcgamer.com/games/rpg/if-youre-skilful-enough-you-can-chop-the-head-off-a-monster-kick-it-midair-and-then-kill-another-monster-with-it-consider-me-sold-on-this-indie-first-person-arpg/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/if-youre-skilful-enough-you-can-chop-the-head-off-a-monster-kick-it-midair-and-then-kill-another-monster-with-it-consider-me-sold-on-this-indie-first-person-arpg/",
+          "titre": "'If you're skilful enough, you can chop the head off a monster, kick it midair, and then kill another monster with it': Consider me sold on this indie first-person ARPG"
+        }
+      ]
+    },
+    {
+      "id": "guide-these-30-ps5-games-are-coming-out-next-week-12th-18th",
+      "titre": "Guide: These 30+ PS5 Games Are Coming Out Next Week (12th-18th October)",
+      "url": "https://www.pushsquare.com/guides/these-30plus-ps5-games-are-coming-out-next-week-12th-18th-october",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-30plus-ps5-games-are-coming-out-next-week-12th-18th-october",
+          "titre": "Guide: These 30+ PS5 Games Are Coming Out Next Week (12th-18th October)"
+        }
+      ]
+    },
+    {
+      "id": "mafia-3-which-pc-gamer-scored-54-but-which-i-say-is-great-go",
+      "titre": "Mafia 3, which PC Gamer scored 54% but which I say is great, got a nice little 10th-anniversary update",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/mafia-3-which-pc-gamer-scored-54-percent-but-which-i-say-is-great-got-a-nice-little-10th-anniversary-update/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/mafia-3-which-pc-gamer-scored-54-percent-but-which-i-say-is-great-got-a-nice-little-10th-anniversary-update/",
+          "titre": "Mafia 3, which PC Gamer scored 54% but which I say is great, got a nice little 10th-anniversary update"
         }
       ]
     },
@@ -713,7 +731,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -731,7 +749,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -749,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 16.0,
       "chaleur": 3,
       "liens": [
         {
@@ -767,7 +785,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.6,
       "chaleur": 3,
       "liens": [
         {
@@ -785,7 +803,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 20.1,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.7,
+      "heures": 20.7,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +839,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 22.0,
       "chaleur": 3,
       "liens": [
         {
@@ -839,7 +857,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.6,
+      "heures": 22.6,
       "chaleur": 3,
       "liens": [
         {
@@ -857,7 +875,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.1,
+      "heures": 23.1,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +893,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.7,
+      "heures": 23.7,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +911,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.8,
+      "heures": 23.8,
       "chaleur": 3,
       "liens": [
         {
@@ -911,7 +929,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 23.9,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +947,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 24.3,
       "chaleur": 3,
       "liens": [
         {
@@ -947,7 +965,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.6,
+      "heures": 24.6,
       "chaleur": 3,
       "liens": [
         {
@@ -965,31 +983,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 22.6,
+      "heures": 24.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/this-should-be-game-streamings-moment-its-not-opinion",
           "titre": "This should be game streaming’s moment. It's not | Opinion"
-        }
-      ]
-    },
-    {
-      "id": "worldwide-pc-shipments-have-plummeted-by-over-20-to-the-surp",
-      "titre": "Worldwide PC shipments have plummeted by over 20%, to the surprise of absolutely no one",
-      "url": "https://www.pcgamer.com/hardware/worldwide-pc-shipments-have-plummeted-by-over-20-percent-to-the-surprise-of-absolutely-no-one/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 22.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/worldwide-pc-shipments-have-plummeted-by-over-20-percent-to-the-surprise-of-absolutely-no-one/",
-          "titre": "Worldwide PC shipments have plummeted by over 20%, to the surprise of absolutely no one"
         }
       ]
     },
@@ -1001,7 +1001,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 24.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,7 +1019,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1037,7 +1037,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.6,
+      "heures": 25.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1055,7 +1055,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.0,
+      "heures": 26.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1073,7 +1073,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.2,
+      "heures": 26.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1091,7 +1091,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 24.3,
+      "heures": 26.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1109,7 +1109,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 24.8,
+      "heures": 26.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1127,7 +1127,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.9,
+      "heures": 26.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1145,7 +1145,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.0,
+      "heures": 27.0,
       "chaleur": 3,
       "liens": [
         {
