@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "11/10/2026 à 12h26",
+  "collecte": "11/10/2026 à 14h21",
   "seuil": 14,
   "sujets": [
     {
@@ -8,13 +8,12 @@ const VEILLE = {
       "titre": "Group threatens to leak ‘full’ GTA 6 build if physical plans aren’t reversed",
       "url": "https://www.videogameschronicle.com/news/group-threatens-to-leak-full-gta-6-build-if-physical-plans-arent-reversed/",
       "sources": [
-        "Eurogamer",
         "PC Gamer",
         "VGC"
       ],
-      "reprises": 3,
-      "heures": 1.8,
-      "chaleur": 17,
+      "reprises": 2,
+      "heures": 3.8,
+      "chaleur": 12,
       "liens": [
         {
           "source": "VGC",
@@ -25,11 +24,6 @@ const VEILLE = {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-to-upload-a-build-with-full-story-mode/",
           "titre": "GTA 6 leaker threatens to upload a build with 'full story mode'"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak",
-          "titre": "GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game"
         }
       ]
     },
@@ -42,7 +36,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 0.7,
+      "heures": 2.6,
       "chaleur": 11,
       "liens": [
         {
@@ -54,6 +48,42 @@ const VEILLE = {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/fps/squadron-42-has-a-steam-page/",
           "titre": "Squadron 42 has a Steam page"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-leaker-cyberleek-is-back-with-another-video-and-this-t",
+      "titre": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked",
+      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
+          "titre": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked"
+        }
+      ]
+    },
+    {
+      "id": "feature-how-do-you-pronounce-these-words-from-zelda-ocarina",
+      "titre": "Feature: How Do You Pronounce These Words From Zelda: Ocarina Of Time?",
+      "url": "https://www.nintendolife.com/features/how-do-you-pronounce-these-words-from-zelda-ocarina-of-time",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/how-do-you-pronounce-these-words-from-zelda-ocarina-of-time",
+          "titre": "Feature: How Do You Pronounce These Words From Zelda: Ocarina Of Time?"
         }
       ]
     },
@@ -94,6 +124,132 @@ const VEILLE = {
       ]
     },
     {
+      "id": "this-control-inspired-action-game-set-in-a-planet-scale-alie",
+      "titre": "This Control-inspired action game set in a 'planet-scale alien mind' has one of the most stunning art styles I've seen this year",
+      "url": "https://www.pcgamer.com/games/action/this-control-inspired-action-game-set-in-a-planet-scale-alien-mind-has-one-of-the-most-stunning-art-styles-ive-seen-this-year/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/this-control-inspired-action-game-set-in-a-planet-scale-alien-mind-has-one-of-the-most-stunning-art-styles-ive-seen-this-year/",
+          "titre": "This Control-inspired action game set in a 'planet-scale alien mind' has one of the most stunning art styles I've seen this year"
+        }
+      ]
+    },
+    {
+      "id": "tekken-8-reveals-its-baki-the-grappler-crossover-roger-jr-ou",
+      "titre": "Tekken 8 Reveals Its Baki the Grappler Crossover, Roger Jr Out 17th November",
+      "url": "https://www.pushsquare.com/news/2026/10/tekken-8-reveals-its-baki-the-grappler-crossover-roger-jr-out-17th-november",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/tekken-8-reveals-its-baki-the-grappler-crossover-roger-jr-out-17th-november",
+          "titre": "Tekken 8 Reveals Its Baki the Grappler Crossover, Roger Jr Out 17th November"
+        }
+      ]
+    },
+    {
+      "id": "we-didn-t-expect-this-gran-turismo-7-continuing-to-sell-ver",
+      "titre": "'We Didn't Expect This': Gran Turismo 7 Continuing to 'Sell Very Well' on PS5",
+      "url": "https://www.pushsquare.com/news/2026/10/we-didnt-expect-this-gran-turismo-7-continuing-to-sell-very-well-on-ps5",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/we-didnt-expect-this-gran-turismo-7-continuing-to-sell-very-well-on-ps5",
+          "titre": "'We Didn't Expect This': Gran Turismo 7 Continuing to 'Sell Very Well' on PS5"
+        }
+      ]
+    },
+    {
+      "id": "jane-foster-venom-jubilee-join-marvel-tokon-in-year-1-on-ps5",
+      "titre": "Jane Foster, Venom, Jubilee Join Marvel Tokon in Year 1 on PS5",
+      "url": "https://www.pushsquare.com/news/2026/10/jane-foster-venom-jubilee-join-marvel-tokon-in-year-1-on-ps5",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/jane-foster-venom-jubilee-join-marvel-tokon-in-year-1-on-ps5",
+          "titre": "Jane Foster, Venom, Jubilee Join Marvel Tokon in Year 1 on PS5"
+        }
+      ]
+    },
+    {
+      "id": "i-m-the-type-of-player-who-loves-to-100-a-game-sungwon-cho",
+      "titre": "'I'm the type of player who loves to 100% a game': SungWon Cho on achievement hunting, why he doesn’t like multiplayer games, and the one Balatro joker that nearly drove him to despair",
+      "url": "https://www.pcgamer.com/gaming-industry/im-the-type-of-player-who-loves-to-100-percent-a-game-sungwon-cho-on-achievement-hunting-why-he-doesnt-like-multiplayer-games-and-the-one-balatro-joker-that-nearly-drove-him-to-despair/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/im-the-type-of-player-who-loves-to-100-percent-a-game-sungwon-cho-on-achievement-hunting-why-he-doesnt-like-multiplayer-games-and-the-one-balatro-joker-that-nearly-drove-him-to-despair/",
+          "titre": "'I'm the type of player who loves to 100% a game': SungWon Cho on achievement hunting, why he doesn’t like multiplayer games, and the one Balatro joker that nearly drove him to despair"
+        }
+      ]
+    },
+    {
+      "id": "guide-marvel-tokon-fighting-souls-all-confirmed-characters-a",
+      "titre": "Guide: Marvel Tokon: Fighting Souls: All Confirmed Characters and Stages",
+      "url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-all-confirmed-characters-and-stages",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-all-confirmed-characters-and-stages",
+          "titre": "Guide: Marvel Tokon: Fighting Souls: All Confirmed Characters and Stages"
+        }
+      ]
+    },
+    {
+      "id": "the-developer-of-an-ai-powered-driving-instruction-simulator",
+      "titre": "The developer of an AI-powered driving instruction simulator is spending $1,000 per month just to keep its demo running",
+      "url": "https://www.pcgamer.com/games/sim/the-developer-of-an-ai-powered-driving-instruction-simulator-is-spending-usd1-000-per-month-just-to-keep-its-demo-running/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/the-developer-of-an-ai-powered-driving-instruction-simulator-is-spending-usd1-000-per-month-just-to-keep-its-demo-running/",
+          "titre": "The developer of an AI-powered driving instruction simulator is spending $1,000 per month just to keep its demo running"
+        }
+      ]
+    },
+    {
       "id": "forza-horizon-6-will-have-a-physical-ps5-disc-but-there-s-a",
       "titre": "Forza Horizon 6 Will Have a Physical PS5 Disc, But There's a Catch",
       "url": "https://www.pushsquare.com/news/2026/10/forza-horizon-6-will-have-a-physical-ps5-disc-but-theres-a-catch",
@@ -101,7 +257,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
@@ -119,7 +275,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -137,7 +293,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -155,85 +311,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/sim/it-looks-like-wing-commander-3-is-getting-a-remaster-after-ea-producer-discovers-the-original-fmv-source-tapes-in-the-companys-archives/",
           "titre": "It looks like Wing Commander 3 is getting a remaster, after EA producer discovers the original FMV source tapes in the company's archives"
-        }
-      ]
-    },
-    {
-      "id": "the-sunday-papers",
-      "titre": "The Sunday Papers",
-      "url": "https://www.rockpapershotgun.com/the-sunday-papers-831",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-sunday-papers-831",
-          "titre": "The Sunday Papers"
-        }
-      ]
-    },
-    {
-      "id": "we-have-to-go-a-different-path-krafton-thinks-pubg-ded-net",
-      "titre": "\"We have to go a different path\" - Krafton thinks PUBG Ded.Net's pulpy gameshow hyperviolence and roguelite twist can make it the next big battle royale",
-      "url": "https://www.eurogamer.net/we-have-to-go-a-different-path-krafton-thinks-pubg-dednets-pulpy-gameshow-hyperviolence-and-roguelite-twist-can-make-it-the-next-big-battle-royale",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/we-have-to-go-a-different-path-krafton-thinks-pubg-dednets-pulpy-gameshow-hyperviolence-and-roguelite-twist-can-make-it-the-next-big-battle-royale",
-          "titre": "\"We have to go a different path\" - Krafton thinks PUBG Ded.Net's pulpy gameshow hyperviolence and roguelite twist can make it the next big battle royale"
-        }
-      ]
-    },
-    {
-      "id": "feature-box-art-brawl-duel-wii-sports-resort",
-      "titre": "Feature: Box Art Brawl - Duel: Wii Sports Resort",
-      "url": "https://www.nintendolife.com/features/box-art-brawl-duel-wii-sports-resort",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/box-art-brawl-duel-wii-sports-resort",
-          "titre": "Feature: Box Art Brawl - Duel: Wii Sports Resort"
-        }
-      ]
-    },
-    {
-      "id": "sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-2",
-      "titre": "Sonic Pico Park Brings Co-Op Action Puzzle Fun To Switch 1 & 2 Next Month",
-      "url": "https://www.nintendolife.com/news/2026/10/sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-and-2-next-month",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-and-2-next-month",
-          "titre": "Sonic Pico Park Brings Co-Op Action Puzzle Fun To Switch 1 & 2 Next Month"
         }
       ]
     },
@@ -245,7 +329,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 17.9,
       "chaleur": 6,
       "liens": [
         {
@@ -264,7 +348,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 22.4,
+      "heures": 24.4,
       "chaleur": 6,
       "liens": [
         {
@@ -288,7 +372,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 24.0,
+      "heures": 25.9,
       "chaleur": 6,
       "liens": [
         {
@@ -311,7 +395,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 24.3,
+      "heures": 26.2,
       "chaleur": 6,
       "liens": [
         {
@@ -330,7 +414,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 26.5,
+      "heures": 28.4,
       "chaleur": 6,
       "liens": [
         {
@@ -354,7 +438,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 27.4,
+      "heures": 29.4,
       "chaleur": 6,
       "liens": [
         {
@@ -370,6 +454,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-2",
+      "titre": "Sonic Pico Park Brings Co-Op Action Puzzle Fun To Switch 1 & 2 Next Month",
+      "url": "https://www.nintendolife.com/news/2026/10/sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-and-2-next-month",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.6,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-and-2-next-month",
+          "titre": "Sonic Pico Park Brings Co-Op Action Puzzle Fun To Switch 1 & 2 Next Month"
+        }
+      ]
+    },
+    {
       "id": "playstation-hardware-sales-hit-lowest-point-since-2013-in-us",
       "titre": "PlayStation Hardware Sales Hit Lowest Point Since 2013 in US, and PS5's Price Is the Problem",
       "url": "https://www.pushsquare.com/news/2026/10/playstation-hardware-sales-hit-lowest-point-since-2013-in-us-and-ps5s-price-is-the-problem",
@@ -377,7 +479,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -395,7 +497,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.2,
       "chaleur": 5,
       "liens": [
         {
@@ -413,7 +515,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.4,
       "chaleur": 5,
       "liens": [
         {
@@ -431,7 +533,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 26.4,
       "chaleur": 5,
       "liens": [
         {
@@ -449,7 +551,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.7,
+      "heures": 26.6,
       "chaleur": 5,
       "liens": [
         {
@@ -460,20 +562,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "video-dragon-s-dogma-2-side-by-side-graphics-comparison-swit",
-      "titre": "Video: Dragon's Dogma 2 Side-By-Side Graphics Comparison (Switch 2 & PS5)",
-      "url": "https://www.nintendolife.com/news/2026/10/video-dragons-dogma-2-side-by-side-graphics-comparison-switch-2-and-ps5",
+      "id": "the-sunday-papers",
+      "titre": "The Sunday Papers",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-831",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-sunday-papers-831",
+          "titre": "The Sunday Papers"
+        }
+      ]
+    },
+    {
+      "id": "we-have-to-go-a-different-path-krafton-thinks-pubg-ded-net",
+      "titre": "\"We have to go a different path\" - Krafton thinks PUBG Ded.Net's pulpy gameshow hyperviolence and roguelite twist can make it the next big battle royale",
+      "url": "https://www.eurogamer.net/we-have-to-go-a-different-path-krafton-thinks-pubg-dednets-pulpy-gameshow-hyperviolence-and-roguelite-twist-can-make-it-the-next-big-battle-royale",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/we-have-to-go-a-different-path-krafton-thinks-pubg-dednets-pulpy-gameshow-hyperviolence-and-roguelite-twist-can-make-it-the-next-big-battle-royale",
+          "titre": "\"We have to go a different path\" - Krafton thinks PUBG Ded.Net's pulpy gameshow hyperviolence and roguelite twist can make it the next big battle royale"
+        }
+      ]
+    },
+    {
+      "id": "feature-box-art-brawl-duel-wii-sports-resort",
+      "titre": "Feature: Box Art Brawl - Duel: Wii Sports Resort",
+      "url": "https://www.nintendolife.com/features/box-art-brawl-duel-wii-sports-resort",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 34.7,
-      "chaleur": 5,
+      "heures": 5.4,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/video-dragons-dogma-2-side-by-side-graphics-comparison-switch-2-and-ps5",
-          "titre": "Video: Dragon's Dogma 2 Side-By-Side Graphics Comparison (Switch 2 & PS5)"
+          "url": "https://www.nintendolife.com/features/box-art-brawl-duel-wii-sports-resort",
+          "titre": "Feature: Box Art Brawl - Duel: Wii Sports Resort"
         }
       ]
     },
@@ -485,7 +623,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -503,7 +641,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -521,8 +659,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -539,7 +677,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -557,7 +695,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -575,7 +713,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.5,
+      "heures": 20.5,
       "chaleur": 3,
       "liens": [
         {
@@ -593,7 +731,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.3,
       "chaleur": 3,
       "liens": [
         {
@@ -611,7 +749,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.4,
       "chaleur": 3,
       "liens": [
         {
@@ -629,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 21.5,
       "chaleur": 3,
       "liens": [
         {
@@ -647,7 +785,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 21.9,
       "chaleur": 3,
       "liens": [
         {
@@ -665,7 +803,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 22.2,
       "chaleur": 3,
       "liens": [
         {
@@ -683,7 +821,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 21.1,
+      "heures": 23.0,
       "chaleur": 3,
       "liens": [
         {
@@ -701,7 +839,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.4,
       "chaleur": 3,
       "liens": [
         {
@@ -719,7 +857,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 24.2,
       "chaleur": 3,
       "liens": [
         {
@@ -737,7 +875,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.4,
       "chaleur": 3,
       "liens": [
         {
@@ -755,7 +893,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 25.5,
       "chaleur": 3,
       "liens": [
         {
@@ -773,7 +911,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.1,
+      "heures": 27.0,
       "chaleur": 3,
       "liens": [
         {
@@ -791,7 +929,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 25.2,
+      "heures": 27.1,
       "chaleur": 3,
       "liens": [
         {
@@ -809,31 +947,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/guides/these-30plus-ps5-games-are-coming-out-next-week-12th-18th-october",
           "titre": "Guide: These 30+ PS5 Games Are Coming Out Next Week (12th-18th October)"
-        }
-      ]
-    },
-    {
-      "id": "mafia-3-which-pc-gamer-scored-54-but-which-i-say-is-great-go",
-      "titre": "Mafia 3, which PC Gamer scored 54% but which I say is great, got a nice little 10th-anniversary update",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/mafia-3-which-pc-gamer-scored-54-percent-but-which-i-say-is-great-got-a-nice-little-10th-anniversary-update/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 25.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/mafia-3-which-pc-gamer-scored-54-percent-but-which-i-say-is-great-got-a-nice-little-10th-anniversary-update/",
-          "titre": "Mafia 3, which PC Gamer scored 54% but which I say is great, got a nice little 10th-anniversary update"
         }
       ]
     },
@@ -845,7 +965,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 31.4,
       "chaleur": 3,
       "liens": [
         {
@@ -863,7 +983,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 31.4,
       "chaleur": 3,
       "liens": [
         {
@@ -874,7 +994,5 @@ const VEILLE = {
       ]
     }
   ],
-  "alertes": [
-    "Group threatens to leak ‘full’ GTA 6 build if physical plans aren’t reversed"
-  ]
+  "alertes": []
 };
