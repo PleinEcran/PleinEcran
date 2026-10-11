@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "11/10/2026 à 20h20",
+  "collecte": "11/10/2026 à 22h21",
   "seuil": 14,
   "sujets": [
     {
@@ -12,7 +12,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.7,
+      "heures": 11.8,
       "chaleur": 10,
       "liens": [
         {
@@ -28,30 +28,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "marvel-t-kon-fighting-souls-reveals-its-year-1-dlc-roster-st",
-      "titre": "Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November",
-      "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 2.9,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops",
-          "titre": "Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-all-confirmed-characters-and-stages",
-          "titre": "Guide: Marvel Tokon: Fighting Souls: All Confirmed Characters and Stages"
-        }
-      ]
-    },
-    {
       "id": "squadron-42-opens-for-steam-wishlisting-ahead-of-a-planned-q",
       "titre": "Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release",
       "url": "https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release",
@@ -60,7 +36,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 8.6,
+      "heures": 10.6,
       "chaleur": 9,
       "liens": [
         {
@@ -76,6 +52,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "marvel-t-kon-fighting-souls-reveals-its-year-1-dlc-roster-st",
+      "titre": "Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November",
+      "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops",
+      "sources": [
+        "Eurogamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 4.9,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops",
+          "titre": "Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-all-confirmed-characters-and-stages",
+          "titre": "Guide: Marvel Tokon: Fighting Souls: All Confirmed Characters and Stages"
+        }
+      ]
+    },
+    {
       "id": "gta-6-leaker-cyberleek-is-back-with-another-video-and-this-t",
       "titre": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked",
       "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
@@ -83,7 +83,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.9,
       "chaleur": 7,
       "liens": [
         {
@@ -130,60 +130,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nier-creator-yoko-taro-says-he-s-achieved-his-career-dreams",
-      "titre": "Nier creator Yoko Taro says he's achieved his career dreams, but he continues working because it's 'good for preventing dementia'",
-      "url": "https://www.pcgamer.com/gaming-industry/nier-creator-yoko-taro-says-hes-achieved-his-career-dreams-but-he-continues-working-because-its-good-for-preventing-dementia/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/nier-creator-yoko-taro-says-hes-achieved-his-career-dreams-but-he-continues-working-because-its-good-for-preventing-dementia/",
-          "titre": "Nier creator Yoko Taro says he's achieved his career dreams, but he continues working because it's 'good for preventing dementia'"
-        }
-      ]
-    },
-    {
-      "id": "arc-raiders-2-0-is-here-and-you-can-finally-turn-those-light",
-      "titre": "Arc Raiders 2.0 is here, and you can finally turn those lights on your backpack off",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-2-0-is-here-and-you-can-finally-turn-those-lights-on-your-backpack-off/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-2-0-is-here-and-you-can-finally-turn-those-lights-on-your-backpack-off/",
-          "titre": "Arc Raiders 2.0 is here, and you can finally turn those lights on your backpack off"
-        }
-      ]
-    },
-    {
-      "id": "escape-the-backrooms-is-throwing-an-after-party-with-three-n",
-      "titre": "Escape the Backrooms is throwing an After Party with three new levels this December",
-      "url": "https://www.eurogamer.net/escape-the-backrooms-after-party-update-new-levels-december",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/escape-the-backrooms-after-party-update-new-levels-december",
-          "titre": "Escape the Backrooms is throwing an After Party with three new levels this December"
-        }
-      ]
-    },
-    {
       "id": "feature-how-do-you-pronounce-these-words-from-zelda-ocarina",
       "titre": "Feature: How Do You Pronounce These Words From Zelda: Ocarina Of Time?",
       "url": "https://www.nintendolife.com/features/how-do-you-pronounce-these-words-from-zelda-ocarina-of-time",
@@ -191,7 +137,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 6,
       "liens": [
         {
@@ -209,7 +155,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.9,
+      "heures": 25.9,
       "chaleur": 6,
       "liens": [
         {
@@ -227,37 +173,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 32.2,
+      "heures": 34.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/will-gta-6-make-its-way-to-switch-2-nintendo-isnt-saying/",
           "titre": "Will GTA 6 make its way to Switch 2? Nintendo isn’t saying"
-        }
-      ]
-    },
-    {
-      "id": "sonic-racing-crossworlds-year-2-crossovers-revealed-includin",
-      "titre": "Sonic Racing Crossworlds Year 2 crossovers revealed, including Final Fantasy 7, Hello Kitty and retro Sega",
-      "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-year-2-crossovers-revealed-including-final-fantasy-7-hello-kitty-and-retro-sega/",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 34.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-year-2-crossovers-revealed-including-final-fantasy-7-hello-kitty-and-retro-sega/",
-          "titre": "Sonic Racing Crossworlds Year 2 crossovers revealed, including Final Fantasy 7, Hello Kitty and retro Sega"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sonic-racing-crossworlds-now-permanently-cheaper-and-its-going-absolutely-bananas-with-dlc-in-year-2",
-          "titre": "Sonic Racing: CrossWorlds Now Permanently Cheaper, and It's Going Absolutely Bananas with DLC in Year 2"
         }
       ]
     },
@@ -269,7 +191,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 20.6,
       "chaleur": 5,
       "liens": [
         {
@@ -287,7 +209,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.4,
       "chaleur": 5,
       "liens": [
         {
@@ -305,7 +227,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.2,
+      "heures": 27.2,
       "chaleur": 5,
       "liens": [
         {
@@ -323,7 +245,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 32.3,
+      "heures": 34.4,
       "chaleur": 5,
       "liens": [
         {
@@ -341,13 +263,67 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 32.6,
+      "heures": 34.6,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
           "titre": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game"
+        }
+      ]
+    },
+    {
+      "id": "nier-creator-yoko-taro-says-he-s-achieved-his-career-dreams",
+      "titre": "Nier creator Yoko Taro says he's achieved his career dreams, but he continues working because it's 'good for preventing dementia'",
+      "url": "https://www.pcgamer.com/gaming-industry/nier-creator-yoko-taro-says-hes-achieved-his-career-dreams-but-he-continues-working-because-its-good-for-preventing-dementia/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/nier-creator-yoko-taro-says-hes-achieved-his-career-dreams-but-he-continues-working-because-its-good-for-preventing-dementia/",
+          "titre": "Nier creator Yoko Taro says he's achieved his career dreams, but he continues working because it's 'good for preventing dementia'"
+        }
+      ]
+    },
+    {
+      "id": "arc-raiders-2-0-is-here-and-you-can-finally-turn-those-light",
+      "titre": "Arc Raiders 2.0 is here, and you can finally turn those lights on your backpack off",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-2-0-is-here-and-you-can-finally-turn-those-lights-on-your-backpack-off/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-2-0-is-here-and-you-can-finally-turn-those-lights-on-your-backpack-off/",
+          "titre": "Arc Raiders 2.0 is here, and you can finally turn those lights on your backpack off"
+        }
+      ]
+    },
+    {
+      "id": "escape-the-backrooms-is-throwing-an-after-party-with-three-n",
+      "titre": "Escape the Backrooms is throwing an After Party with three new levels this December",
+      "url": "https://www.eurogamer.net/escape-the-backrooms-after-party-update-new-levels-december",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/escape-the-backrooms-after-party-update-new-levels-december",
+          "titre": "Escape the Backrooms is throwing an After Party with three new levels this December"
         }
       ]
     },
@@ -359,7 +335,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -377,7 +353,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -395,7 +371,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -413,7 +389,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -431,7 +407,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -449,7 +425,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -467,7 +443,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -485,7 +461,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -503,7 +479,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -521,7 +497,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -539,7 +515,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -557,7 +533,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -575,8 +551,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -593,8 +569,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -611,8 +587,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -629,7 +605,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.1,
       "chaleur": 3,
       "liens": [
         {
@@ -647,7 +623,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 19.8,
       "chaleur": 3,
       "liens": [
         {
@@ -665,7 +641,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 21.9,
       "chaleur": 3,
       "liens": [
         {
@@ -683,7 +659,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.4,
       "chaleur": 3,
       "liens": [
         {
@@ -701,7 +677,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 27.4,
       "chaleur": 3,
       "liens": [
         {
@@ -719,7 +695,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.4,
+      "heures": 28.5,
       "chaleur": 3,
       "liens": [
         {
@@ -737,7 +713,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.3,
       "chaleur": 3,
       "liens": [
         {
@@ -755,7 +731,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 29.4,
       "chaleur": 3,
       "liens": [
         {
@@ -773,7 +749,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 27.5,
+      "heures": 29.5,
       "chaleur": 3,
       "liens": [
         {
@@ -791,7 +767,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.8,
+      "heures": 29.9,
       "chaleur": 3,
       "liens": [
         {
@@ -809,7 +785,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.2,
+      "heures": 30.2,
       "chaleur": 3,
       "liens": [
         {
@@ -827,7 +803,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 29.0,
+      "heures": 31.0,
       "chaleur": 3,
       "liens": [
         {
@@ -845,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.4,
       "chaleur": 3,
       "liens": [
         {
@@ -863,7 +839,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 30.2,
+      "heures": 32.2,
       "chaleur": 3,
       "liens": [
         {
@@ -881,7 +857,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 30.3,
+      "heures": 32.4,
       "chaleur": 3,
       "liens": [
         {
@@ -899,7 +875,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 31.4,
+      "heures": 33.5,
       "chaleur": 3,
       "liens": [
         {
@@ -917,7 +893,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.0,
+      "heures": 35.0,
       "chaleur": 3,
       "liens": [
         {
@@ -935,7 +911,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.4,
       "chaleur": 3,
       "liens": [
         {
@@ -953,31 +929,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.7,
+      "heures": 35.7,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto",
           "titre": "Konami is already thinking about the next wave of Silent Hill games"
-        }
-      ]
-    },
-    {
-      "id": "talking-point-what-are-you-playing-this-weekend-10th-october",
-      "titre": "Talking Point: What Are You Playing This Weekend? (10th October)",
-      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-10th-october",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-10th-october",
-          "titre": "Talking Point: What Are You Playing This Weekend? (10th October)"
         }
       ]
     }
