@@ -1,19 +1,25 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "10/10/2026 à 22h20",
+  "collecte": "11/10/2026 à 00h31",
   "seuil": 14,
   "sujets": [
     {
-      "id": "gta-6-leaker-cyberleek-is-now-reportedly-threatening-to-rele",
-      "titre": "GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game",
-      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak",
+      "id": "gta-6-leaker-threatens-to-upload-a-build-with-full-story-mod",
+      "titre": "GTA 6 leaker threatens to upload a build with 'full story mode'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-to-upload-a-build-with-full-story-mode/",
       "sources": [
-        "Eurogamer"
+        "Eurogamer",
+        "PC Gamer"
       ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 11,
+      "reprises": 2,
+      "heures": 1.0,
+      "chaleur": 14,
       "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-to-upload-a-build-with-full-story-mode/",
+          "titre": "GTA 6 leaker threatens to upload a build with 'full story mode'"
+        },
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak",
@@ -22,21 +28,21 @@ const VEILLE = {
       ]
     },
     {
-      "id": "us-console-hardware-market-at-its-most-precarious-position-s",
-      "titre": "US console hardware market at its most precarious position ‘since the 80s’, says Circana",
-      "url": "https://www.videogameschronicle.com/news/us-console-hardware-market-at-its-most-precarious-position-since-the-80s-says-circana/",
+      "id": "playstation-hardware-sales-hit-lowest-point-since-2013-in-us",
+      "titre": "PlayStation Hardware Sales Hit Lowest Point Since 2013 in US, and PS5's Price Is the Problem",
+      "url": "https://www.pushsquare.com/news/2026/10/playstation-hardware-sales-hit-lowest-point-since-2013-in-us-and-ps5s-price-is-the-problem",
       "sources": [
         "Eurogamer",
-        "VGC"
+        "Push Square"
       ],
       "reprises": 2,
-      "heures": 9.4,
-      "chaleur": 10,
+      "heures": 1.5,
+      "chaleur": 12,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/us-console-hardware-market-at-its-most-precarious-position-since-the-80s-says-circana/",
-          "titre": "US console hardware market at its most precarious position ‘since the 80s’, says Circana"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/playstation-hardware-sales-hit-lowest-point-since-2013-in-us-and-ps5s-price-is-the-problem",
+          "titre": "PlayStation Hardware Sales Hit Lowest Point Since 2013 in US, and PS5's Price Is the Problem"
         },
         {
           "source": "Eurogamer",
@@ -54,8 +60,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 10.2,
-      "chaleur": 10,
+      "heures": 12.4,
+      "chaleur": 9,
       "liens": [
         {
           "source": "VGC",
@@ -70,24 +76,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "oh-lord-now-those-gta-6-leakers-are-saying-if-enough-of-you",
-      "titre": "Oh lord, now those GTA 6 leakers are saying if enough of you give them money they'll leak a playable build of the game",
-      "url": "https://www.rockpapershotgun.com/oh-lord-now-those-gta-6-leakers-are-saying-if-enough-of-you-give-them-money-theyll-leak-a-playable-build-of-the-game",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/oh-lord-now-those-gta-6-leakers-are-saying-if-enough-of-you-give-them-money-theyll-leak-a-playable-build-of-the-game",
-          "titre": "Oh lord, now those GTA 6 leakers are saying if enough of you give them money they'll leak a playable build of the game"
-        }
-      ]
-    },
-    {
       "id": "sonic-racing-crossworlds-year-2-crossovers-revealed-includin",
       "titre": "Sonic Racing Crossworlds Year 2 crossovers revealed, including Final Fantasy 7, Hello Kitty and retro Sega",
       "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-year-2-crossovers-revealed-including-final-fantasy-7-hello-kitty-and-retro-sega/",
@@ -97,7 +85,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 12.4,
+      "heures": 14.6,
       "chaleur": 9,
       "liens": [
         {
@@ -127,7 +115,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 13.3,
+      "heures": 15.5,
       "chaleur": 9,
       "liens": [
         {
@@ -148,20 +136,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "strange-scaffold-announces-gods-with-badges-a-tactics-game-w",
-      "titre": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam",
-      "url": "https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game",
+      "id": "squadron-42-has-a-steam-page",
+      "titre": "Squadron 42 has a Steam page",
+      "url": "https://www.pcgamer.com/games/fps/squadron-42-has-a-steam-page/",
       "sources": [
-        "Eurogamer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.2,
+      "heures": 2.1,
       "chaleur": 8,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game",
-          "titre": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/squadron-42-has-a-steam-page/",
+          "titre": "Squadron 42 has a Steam page"
+        }
+      ]
+    },
+    {
+      "id": "oh-lord-now-those-gta-6-leakers-are-saying-if-enough-of-you",
+      "titre": "Oh lord, now those GTA 6 leakers are saying if enough of you give them money they'll leak a playable build of the game",
+      "url": "https://www.rockpapershotgun.com/oh-lord-now-those-gta-6-leakers-are-saying-if-enough-of-you-give-them-money-theyll-leak-a-playable-build-of-the-game",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/oh-lord-now-those-gta-6-leakers-are-saying-if-enough-of-you-give-them-money-theyll-leak-a-playable-build-of-the-game",
+          "titre": "Oh lord, now those GTA 6 leakers are saying if enough of you give them money they'll leak a playable build of the game"
         }
       ]
     },
@@ -174,7 +180,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 5.5,
+      "heures": 7.6,
       "chaleur": 7,
       "liens": [
         {
@@ -198,7 +204,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 5.8,
+      "heures": 8.0,
       "chaleur": 7,
       "liens": [
         {
@@ -222,7 +228,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 8.3,
+      "heures": 10.5,
       "chaleur": 7,
       "liens": [
         {
@@ -238,30 +244,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "expect-plenty-more-silent-hill-over-the-next-few-years-as-ko",
-      "titre": "Expect plenty more Silent Hill over the next few years, as Konami has plans for 'second and third waves' of new games in its revived horror series",
-      "url": "https://www.pcgamer.com/games/horror/expect-plenty-more-silent-hill-over-the-next-few-years-as-konami-has-plans-for-second-and-third-waves-of-new-games-in-its-revived-horror-series/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 9.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/expect-plenty-more-silent-hill-over-the-next-few-years-as-konami-has-plans-for-second-and-third-waves-of-new-games-in-its-revived-horror-series/",
-          "titre": "Expect plenty more Silent Hill over the next few years, as Konami has plans for 'second and third waves' of new games in its revived horror series"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto",
-          "titre": "Konami is already thinking about the next wave of Silent Hill games"
-        }
-      ]
-    },
-    {
       "id": "gears-of-war-e-day-reportedly-courts-over-1-7m-xbox-game-pas",
       "titre": "Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch",
       "url": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players",
@@ -269,7 +251,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.3,
+      "heures": 30.5,
       "chaleur": 7,
       "liens": [
         {
@@ -323,7 +305,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -334,20 +316,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "blazblue-central-fiction-announced-for-ps5-a-decade-after-or",
-      "titre": "BlazBlue: Central Fiction Announced for PS5, a Decade After Original Release",
-      "url": "https://www.pushsquare.com/news/2026/10/blazblue-central-fiction-announced-for-ps5-a-decade-after-original-release",
+      "id": "strange-scaffold-announces-gods-with-badges-a-tactics-game-w",
+      "titre": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam",
+      "url": "https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game",
       "sources": [
-        "Push Square"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.3,
+      "heures": 5.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/blazblue-central-fiction-announced-for-ps5-a-decade-after-original-release",
-          "titre": "BlazBlue: Central Fiction Announced for PS5, a Decade After Original Release"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game",
+          "titre": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam"
         }
       ]
     },
@@ -359,7 +341,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.5,
       "chaleur": 6,
       "liens": [
         {
@@ -370,56 +352,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "review-middle-earth-shadow-of-mordor-game-of-the-year-editio",
-      "titre": "Review: Middle-earth: Shadow Of Mordor Game Of The Year Edition (Switch 2) - The Nemesis System Is Still A Winner",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/middle-earth-shadow-of-mordor-game-of-the-year-edition",
+      "id": "expect-plenty-more-silent-hill-over-the-next-few-years-as-ko",
+      "titre": "Expect plenty more Silent Hill over the next few years, as Konami has plans for 'second and third waves' of new games in its revived horror series",
+      "url": "https://www.pcgamer.com/games/horror/expect-plenty-more-silent-hill-over-the-next-few-years-as-konami-has-plans-for-second-and-third-waves-of-new-games-in-its-revived-horror-series/",
       "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/middle-earth-shadow-of-mordor-game-of-the-year-edition",
-          "titre": "Review: Middle-earth: Shadow Of Mordor Game Of The Year Edition (Switch 2) - The Nemesis System Is Still A Winner"
-        }
-      ]
-    },
-    {
-      "id": "silent-hill-gravity-rush-director-s-bokeh-game-studio-is-rep",
-      "titre": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game",
-      "url": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
-          "titre": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game"
-        }
-      ]
-    },
-    {
-      "id": "i-might-finally-have-gone-too-far-with-a-gta-5-mod-that-impo",
-      "titre": "I might finally have gone too far with a GTA 5 mod that imports most of Doom 2",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-might-finally-have-gone-too-far-with-a-gta-5-mod-that-imports-most-of-doom-2/",
-      "sources": [
+        "Eurogamer",
         "PC Gamer"
       ],
-      "reprises": 1,
-      "heures": 29.3,
+      "reprises": 2,
+      "heures": 12.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-might-finally-have-gone-too-far-with-a-gta-5-mod-that-imports-most-of-doom-2/",
-          "titre": "I might finally have gone too far with a GTA 5 mod that imports most of Doom 2"
+          "url": "https://www.pcgamer.com/games/horror/expect-plenty-more-silent-hill-over-the-next-few-years-as-konami-has-plans-for-second-and-third-waves-of-new-games-in-its-revived-horror-series/",
+          "titre": "Expect plenty more Silent Hill over the next few years, as Konami has plans for 'second and third waves' of new games in its revived horror series"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto",
+          "titre": "Konami is already thinking about the next wave of Silent Hill games"
         }
       ]
     },
@@ -431,7 +383,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.7,
+      "heures": 31.8,
       "chaleur": 6,
       "liens": [
         {
@@ -449,13 +401,49 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 32.4,
+      "heures": 34.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/undead-labs-boss-reluctant-to-share-number-affected-by-layoffs-i-would-hate-to-reduce-the-impact-to-those-individuals-to-a-number-or-statistic",
           "titre": "Undead Labs boss \"reluctant to share\" number affected by layoffs: \"I would hate to reduce the impact to those individuals to a number or statistic\""
+        }
+      ]
+    },
+    {
+      "id": "review-middle-earth-shadow-of-mordor-game-of-the-year-editio",
+      "titre": "Review: Middle-earth: Shadow Of Mordor Game Of The Year Edition (Switch 2) - The Nemesis System Is Still A Winner",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/middle-earth-shadow-of-mordor-game-of-the-year-edition",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/middle-earth-shadow-of-mordor-game-of-the-year-edition",
+          "titre": "Review: Middle-earth: Shadow Of Mordor Game Of The Year Edition (Switch 2) - The Nemesis System Is Still A Winner"
+        }
+      ]
+    },
+    {
+      "id": "silent-hill-gravity-rush-director-s-bokeh-game-studio-is-rep",
+      "titre": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game",
+      "url": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 12.8,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
+          "titre": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game"
         }
       ]
     },
@@ -467,7 +455,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.6,
+      "heures": 22.8,
       "chaleur": 5,
       "liens": [
         {
@@ -485,7 +473,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.5,
       "chaleur": 5,
       "liens": [
         {
@@ -503,7 +491,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.8,
+      "heures": 33.0,
       "chaleur": 5,
       "liens": [
         {
@@ -521,7 +509,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.1,
+      "heures": 33.3,
       "chaleur": 5,
       "liens": [
         {
@@ -539,7 +527,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 33.5,
       "chaleur": 5,
       "liens": [
         {
@@ -557,7 +545,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 31.5,
+      "heures": 33.7,
       "chaleur": 5,
       "liens": [
         {
@@ -575,7 +563,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.6,
+      "heures": 33.8,
       "chaleur": 5,
       "liens": [
         {
@@ -586,38 +574,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "this-wonderful-animal-crossing-like-is-now-free-for-switch-o",
-      "titre": "This Wonderful Animal Crossing-Like Is Now Free For Switch Online Members",
-      "url": "https://www.nintendolife.com/news/2026/10/this-wonderful-animal-crossing-like-is-now-free-for-switch-online-members",
+      "id": "blazblue-central-fiction-announced-for-ps5-a-decade-after-or",
+      "titre": "BlazBlue: Central Fiction Announced for PS5, a Decade After Original Release",
+      "url": "https://www.pushsquare.com/news/2026/10/blazblue-central-fiction-announced-for-ps5-a-decade-after-original-release",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 34.6,
-      "chaleur": 5,
+      "heures": 5.5,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/this-wonderful-animal-crossing-like-is-now-free-for-switch-online-members",
-          "titre": "This Wonderful Animal Crossing-Like Is Now Free For Switch Online Members"
-        }
-      ]
-    },
-    {
-      "id": "final-fantasy-vii-revelation-cast-get-emotional-in-last-reco",
-      "titre": "Final Fantasy VII Revelation Cast Get Emotional In Last Recording Sessions",
-      "url": "https://www.nintendolife.com/news/2026/10/final-fantasy-vii-revelation-cast-get-emotional-in-last-recording-sessions",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/final-fantasy-vii-revelation-cast-get-emotional-in-last-recording-sessions",
-          "titre": "Final Fantasy VII Revelation Cast Get Emotional In Last Recording Sessions"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/blazblue-central-fiction-announced-for-ps5-a-decade-after-original-release",
+          "titre": "BlazBlue: Central Fiction Announced for PS5, a Decade After Original Release"
         }
       ]
     },
@@ -629,7 +599,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -647,7 +617,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -665,7 +635,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -683,7 +653,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -701,7 +671,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -719,7 +689,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -737,7 +707,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -755,13 +725,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/life-sim/be-warned-nivalis-nights-may-not-be-the-cozy-game-you-expect-if-you-want-a-cozy-existence-in-this-city-youre-going-to-have-to-earn-it/",
           "titre": "Be warned: Nivalis Nights may not be the cozy game you expect: 'If you want a cozy existence in this city, you're going to have to earn it'"
+        }
+      ]
+    },
+    {
+      "id": "us-console-hardware-market-at-its-most-precarious-position-s",
+      "titre": "US console hardware market at its most precarious position ‘since the 80s’, says Circana",
+      "url": "https://www.videogameschronicle.com/news/us-console-hardware-market-at-its-most-precarious-position-since-the-80s-says-circana/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 11.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/us-console-hardware-market-at-its-most-precarious-position-since-the-80s-says-circana/",
+          "titre": "US console hardware market at its most precarious position ‘since the 80s’, says Circana"
         }
       ]
     },
@@ -773,8 +761,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -791,8 +779,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -809,8 +797,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -827,8 +815,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -845,7 +833,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -863,7 +851,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -881,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.0,
+      "heures": 24.2,
       "chaleur": 3,
       "liens": [
         {
@@ -899,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.6,
+      "heures": 24.8,
       "chaleur": 3,
       "liens": [
         {
@@ -917,7 +905,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 26.6,
       "chaleur": 3,
       "liens": [
         {
@@ -935,7 +923,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.1,
+      "heures": 28.2,
       "chaleur": 3,
       "liens": [
         {
@@ -953,31 +941,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 26.7,
+      "heures": 28.8,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/moba/dont-worry-valve-ive-got-your-next-deadlock-character-concepts-sorted/",
           "titre": "Don't worry, Valve: I've got your next Deadlock character concepts sorted"
-        }
-      ]
-    },
-    {
-      "id": "leisure-suit-larry-is-about-to-take-his-final-bow",
-      "titre": "Leisure Suit Larry is about to take his final bow",
-      "url": "https://www.pcgamer.com/games/adventure/leisure-suit-larry-is-about-to-take-his-final-bow/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 28.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/adventure/leisure-suit-larry-is-about-to-take-his-final-bow/",
-          "titre": "Leisure Suit Larry is about to take his final bow"
         }
       ]
     },
@@ -989,7 +959,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 29.1,
+      "heures": 31.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +977,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,7 +995,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 29.7,
+      "heures": 31.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,7 +1013,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.8,
+      "heures": 32.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,7 +1031,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 30.3,
+      "heures": 32.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1079,7 +1049,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 30.6,
+      "heures": 32.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1097,7 +1067,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 30.8,
+      "heures": 33.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1115,7 +1085,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 33.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1133,7 +1103,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 31.6,
+      "heures": 33.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1142,7 +1112,45 @@ const VEILLE = {
           "titre": "Ghost of Yotei Gets More Complete with PS5 Patch Fixing Bugs and Black Screens"
         }
       ]
+    },
+    {
+      "id": "the-galaxies-showcase-returns-next-week-here-s-how-to-watch",
+      "titre": "The Galaxies Showcase returns next week: here's how to watch it and what to expect",
+      "url": "https://www.eurogamer.net/galaxies-showcase-2026-how-where-to-watch",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 34.1,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/galaxies-showcase-2026-how-where-to-watch",
+          "titre": "The Galaxies Showcase returns next week: here's how to watch it and what to expect"
+        }
+      ]
+    },
+    {
+      "id": "draw-maps-of-a-vampiric-lighthouse-that-defies-logic-in-this",
+      "titre": "Draw maps of a vampiric lighthouse that defies logic in This Is Not For You, the latest horror game inspired by House of Leaves",
+      "url": "https://www.rockpapershotgun.com/draw-maps-of-a-vampiric-lighthouse-that-defies-logic-in-this-is-not-for-you-the-latest-horror-game-inspired-by-house-of-leaves",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 34.3,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/draw-maps-of-a-vampiric-lighthouse-that-defies-logic-in-this-is-not-for-you-the-latest-horror-game-inspired-by-house-of-leaves",
+          "titre": "Draw maps of a vampiric lighthouse that defies logic in This Is Not For You, the latest horror game inspired by House of Leaves"
+        }
+      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "GTA 6 leaker threatens to upload a build with 'full story mode'"
+  ]
 };
