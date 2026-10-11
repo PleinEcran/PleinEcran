@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "11/10/2026 à 00h31",
+  "collecte": "11/10/2026 à 02h21",
   "seuil": 14,
   "sujets": [
     {
@@ -12,7 +12,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 1.0,
+      "heures": 2.8,
       "chaleur": 14,
       "liens": [
         {
@@ -36,7 +36,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.5,
+      "heures": 3.4,
       "chaleur": 12,
       "liens": [
         {
@@ -60,7 +60,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 12.4,
+      "heures": 14.2,
       "chaleur": 9,
       "liens": [
         {
@@ -85,7 +85,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 14.6,
+      "heures": 16.4,
       "chaleur": 9,
       "liens": [
         {
@@ -115,7 +115,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 15.5,
+      "heures": 17.4,
       "chaleur": 9,
       "liens": [
         {
@@ -136,6 +136,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-2",
+      "titre": "Sonic Pico Park Brings Co-Op Action Puzzle Fun To Switch 1 & 2 Next Month",
+      "url": "https://www.nintendolife.com/news/2026/10/sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-and-2-next-month",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-and-2-next-month",
+          "titre": "Sonic Pico Park Brings Co-Op Action Puzzle Fun To Switch 1 & 2 Next Month"
+        }
+      ]
+    },
+    {
       "id": "squadron-42-has-a-steam-page",
       "titre": "Squadron 42 has a Steam page",
       "url": "https://www.pcgamer.com/games/fps/squadron-42-has-a-steam-page/",
@@ -143,7 +161,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.1,
+      "heures": 3.9,
       "chaleur": 8,
       "liens": [
         {
@@ -161,7 +179,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 5.9,
       "chaleur": 7,
       "liens": [
         {
@@ -180,7 +198,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 7.6,
+      "heures": 9.5,
       "chaleur": 7,
       "liens": [
         {
@@ -196,54 +214,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "dire-estimated-gears-of-war-e-day-sales-raise-queries-about",
-      "titre": "Dire Estimated Gears of War: E-Day Sales Raise Queries About Last-Minute PS5 Cancellation",
-      "url": "https://www.pushsquare.com/news/2026/10/dire-estimated-gears-of-war-e-day-sales-raise-queries-about-last-minute-ps5-cancellation",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 8.0,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/dire-estimated-gears-of-war-e-day-sales-raise-queries-about-last-minute-ps5-cancellation",
-          "titre": "Dire Estimated Gears of War: E-Day Sales Raise Queries About Last-Minute PS5 Cancellation"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gears-of-war-eday-review",
-          "titre": "Gears of War: E-Day review"
-        }
-      ]
-    },
-    {
-      "id": "tekken-8-s-reina-officially-announced-as-fatal-fury-ps5-s-ne",
-      "titre": "Tekken 8's Reina Officially Announced as Fatal Fury PS5's Next Challenger",
-      "url": "https://www.pushsquare.com/news/2026/10/tekken-8s-reina-officially-announced-as-fatal-fury-ps5s-next-challenger",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 10.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/tekken-8s-reina-officially-announced-as-fatal-fury-ps5s-next-challenger",
-          "titre": "Tekken 8's Reina Officially Announced as Fatal Fury PS5's Next Challenger"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/fatal-fury-city-of-the-wolves-announces-tekken-collab",
-          "titre": "Fatal Fury: City Of The Wolves Announces Tekken Collab"
-        }
-      ]
-    },
-    {
       "id": "gears-of-war-e-day-reportedly-courts-over-1-7m-xbox-game-pas",
       "titre": "Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch",
       "url": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players",
@@ -251,7 +221,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.5,
+      "heures": 32.3,
       "chaleur": 7,
       "liens": [
         {
@@ -298,20 +268,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gargantuan-cop-immersive-sim-militsioner-now-has-an-acrophob",
-      "titre": "Gargantuan cop immersive sim Militsioner now has an acrophobia-inducing demo, and yes, I did somehow manage to fail the tutorial",
-      "url": "https://www.rockpapershotgun.com/gargantuan-cop-immersive-sim-militsioner-now-has-an-acrophobia-inducing-demo-and-yes-i-did-somehow-manage-to-fail-the-tutorial",
+      "id": "dragon-ball-sparking-zero-announces-cross-play-in-new-road-m",
+      "titre": "Dragon Ball: Sparking! ZERO Announces Cross-Play In New Road Map",
+      "url": "https://www.nintendolife.com/news/2026/10/dragon-ball-sparking-zero-announces-cross-play-in-new-road-map",
       "sources": [
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.6,
+      "heures": 1.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/gargantuan-cop-immersive-sim-militsioner-now-has-an-acrophobia-inducing-demo-and-yes-i-did-somehow-manage-to-fail-the-tutorial",
-          "titre": "Gargantuan cop immersive sim Militsioner now has an acrophobia-inducing demo, and yes, I did somehow manage to fail the tutorial"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/dragon-ball-sparking-zero-announces-cross-play-in-new-road-map",
+          "titre": "Dragon Ball: Sparking! ZERO Announces Cross-Play In New Road Map"
         }
       ]
     },
@@ -323,7 +293,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.2,
       "chaleur": 6,
       "liens": [
         {
@@ -334,20 +304,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-advent-of-first-person-shooters-introduced-a-wild-fronti",
-      "titre": "The advent of first-person shooters introduced a wild frontier of unregulated video game level packs, and it ended in a lawsuit that changed copyright forever",
-      "url": "https://www.pcgamer.com/games/fps/the-advent-of-first-person-shooters-introduced-a-wild-frontier-of-unregulated-video-game-level-packs-and-it-ended-in-a-lawsuit-that-changed-copyright-forever/",
+      "id": "tekken-8-s-reina-officially-announced-as-fatal-fury-ps5-s-ne",
+      "titre": "Tekken 8's Reina Officially Announced as Fatal Fury PS5's Next Challenger",
+      "url": "https://www.pushsquare.com/news/2026/10/tekken-8s-reina-officially-announced-as-fatal-fury-ps5s-next-challenger",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life",
+        "Push Square"
       ],
-      "reprises": 1,
-      "heures": 10.5,
+      "reprises": 2,
+      "heures": 12.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/the-advent-of-first-person-shooters-introduced-a-wild-frontier-of-unregulated-video-game-level-packs-and-it-ended-in-a-lawsuit-that-changed-copyright-forever/",
-          "titre": "The advent of first-person shooters introduced a wild frontier of unregulated video game level packs, and it ended in a lawsuit that changed copyright forever"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/tekken-8s-reina-officially-announced-as-fatal-fury-ps5s-next-challenger",
+          "titre": "Tekken 8's Reina Officially Announced as Fatal Fury PS5's Next Challenger"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/fatal-fury-city-of-the-wolves-announces-tekken-collab",
+          "titre": "Fatal Fury: City Of The Wolves Announces Tekken Collab"
         }
       ]
     },
@@ -360,7 +336,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 12.1,
+      "heures": 13.9,
       "chaleur": 6,
       "liens": [
         {
@@ -383,7 +359,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.8,
+      "heures": 33.7,
       "chaleur": 6,
       "liens": [
         {
@@ -394,20 +370,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "undead-labs-boss-reluctant-to-share-number-affected-by-layof",
-      "titre": "Undead Labs boss \"reluctant to share\" number affected by layoffs: \"I would hate to reduce the impact to those individuals to a number or statistic\"",
-      "url": "https://www.gamesindustry.biz/undead-labs-boss-reluctant-to-share-number-affected-by-layoffs-i-would-hate-to-reduce-the-impact-to-those-individuals-to-a-number-or-statistic",
+      "id": "the-advent-of-first-person-shooters-introduced-a-wild-fronti",
+      "titre": "The advent of first-person shooters introduced a wild frontier of unregulated video game level packs, and it ended in a lawsuit that changed copyright forever",
+      "url": "https://www.pcgamer.com/games/fps/the-advent-of-first-person-shooters-introduced-a-wild-frontier-of-unregulated-video-game-level-packs-and-it-ended-in-a-lawsuit-that-changed-copyright-forever/",
       "sources": [
-        "GamesIndustry.biz"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 34.6,
-      "chaleur": 6,
+      "heures": 12.4,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/undead-labs-boss-reluctant-to-share-number-affected-by-layoffs-i-would-hate-to-reduce-the-impact-to-those-individuals-to-a-number-or-statistic",
-          "titre": "Undead Labs boss \"reluctant to share\" number affected by layoffs: \"I would hate to reduce the impact to those individuals to a number or statistic\""
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/the-advent-of-first-person-shooters-introduced-a-wild-frontier-of-unregulated-video-game-level-packs-and-it-ended-in-a-lawsuit-that-changed-copyright-forever/",
+          "titre": "The advent of first-person shooters introduced a wild frontier of unregulated video game level packs, and it ended in a lawsuit that changed copyright forever"
         }
       ]
     },
@@ -419,7 +395,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.4,
       "chaleur": 5,
       "liens": [
         {
@@ -437,7 +413,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.6,
       "chaleur": 5,
       "liens": [
         {
@@ -455,7 +431,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 24.6,
       "chaleur": 5,
       "liens": [
         {
@@ -473,7 +449,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.5,
+      "heures": 33.4,
       "chaleur": 5,
       "liens": [
         {
@@ -491,7 +467,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.0,
+      "heures": 34.9,
       "chaleur": 5,
       "liens": [
         {
@@ -509,7 +485,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.1,
       "chaleur": 5,
       "liens": [
         {
@@ -527,7 +503,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.5,
+      "heures": 35.4,
       "chaleur": 5,
       "liens": [
         {
@@ -545,7 +521,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 33.7,
+      "heures": 35.5,
       "chaleur": 5,
       "liens": [
         {
@@ -563,13 +539,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.8,
+      "heures": 35.6,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay",
           "titre": "It's official: Forza Horizon 6 delayed to 2027 on PS5, and the game's first expansion has been announced"
+        }
+      ]
+    },
+    {
+      "id": "gargantuan-cop-immersive-sim-militsioner-now-has-an-acrophob",
+      "titre": "Gargantuan cop immersive sim Militsioner now has an acrophobia-inducing demo, and yes, I did somehow manage to fail the tutorial",
+      "url": "https://www.rockpapershotgun.com/gargantuan-cop-immersive-sim-militsioner-now-has-an-acrophobia-inducing-demo-and-yes-i-did-somehow-manage-to-fail-the-tutorial",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/gargantuan-cop-immersive-sim-militsioner-now-has-an-acrophobia-inducing-demo-and-yes-i-did-somehow-manage-to-fail-the-tutorial",
+          "titre": "Gargantuan cop immersive sim Militsioner now has an acrophobia-inducing demo, and yes, I did somehow manage to fail the tutorial"
         }
       ]
     },
@@ -581,7 +575,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -599,7 +593,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -617,7 +611,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -635,13 +629,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/moba/deadlock-surpasses-team-fortress-2s-all-time-concurrent-player-count-peak-as-it-adds-a-chess-wizard/",
           "titre": "Deadlock surpasses Team Fortress 2's all-time concurrent player count peak as it adds a chess wizard"
+        }
+      ]
+    },
+    {
+      "id": "dire-estimated-gears-of-war-e-day-sales-raise-queries-about",
+      "titre": "Dire Estimated Gears of War: E-Day Sales Raise Queries About Last-Minute PS5 Cancellation",
+      "url": "https://www.pushsquare.com/news/2026/10/dire-estimated-gears-of-war-e-day-sales-raise-queries-about-last-minute-ps5-cancellation",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 9.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/dire-estimated-gears-of-war-e-day-sales-raise-queries-about-last-minute-ps5-cancellation",
+          "titre": "Dire Estimated Gears of War: E-Day Sales Raise Queries About Last-Minute PS5 Cancellation"
         }
       ]
     },
@@ -653,7 +665,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -671,7 +683,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -689,7 +701,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -707,8 +719,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -725,8 +737,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -743,8 +755,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -761,7 +773,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.0,
       "chaleur": 3,
       "liens": [
         {
@@ -779,7 +791,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.1,
       "chaleur": 3,
       "liens": [
         {
@@ -797,7 +809,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -815,7 +827,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -833,7 +845,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -851,7 +863,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -869,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.2,
+      "heures": 26.0,
       "chaleur": 3,
       "liens": [
         {
@@ -887,7 +899,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.8,
+      "heures": 26.6,
       "chaleur": 3,
       "liens": [
         {
@@ -905,7 +917,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 26.6,
+      "heures": 28.4,
       "chaleur": 3,
       "liens": [
         {
@@ -923,7 +935,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.2,
+      "heures": 30.1,
       "chaleur": 3,
       "liens": [
         {
@@ -941,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 28.8,
+      "heures": 30.7,
       "chaleur": 3,
       "liens": [
         {
@@ -959,7 +971,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 33.1,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +989,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 31.4,
+      "heures": 33.3,
       "chaleur": 3,
       "liens": [
         {
@@ -995,7 +1007,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 31.9,
+      "heures": 33.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1013,7 +1025,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 32.0,
+      "heures": 33.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +1043,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 32.5,
+      "heures": 34.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,7 +1061,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 32.8,
+      "heures": 34.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,7 +1079,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 33.0,
+      "heures": 34.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1085,7 +1097,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 33.4,
+      "heures": 35.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1103,7 +1115,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 33.8,
+      "heures": 35.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1121,7 +1133,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 34.1,
+      "heures": 36.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1130,27 +1142,7 @@ const VEILLE = {
           "titre": "The Galaxies Showcase returns next week: here's how to watch it and what to expect"
         }
       ]
-    },
-    {
-      "id": "draw-maps-of-a-vampiric-lighthouse-that-defies-logic-in-this",
-      "titre": "Draw maps of a vampiric lighthouse that defies logic in This Is Not For You, the latest horror game inspired by House of Leaves",
-      "url": "https://www.rockpapershotgun.com/draw-maps-of-a-vampiric-lighthouse-that-defies-logic-in-this-is-not-for-you-the-latest-horror-game-inspired-by-house-of-leaves",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 34.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/draw-maps-of-a-vampiric-lighthouse-that-defies-logic-in-this-is-not-for-you-the-latest-horror-game-inspired-by-house-of-leaves",
-          "titre": "Draw maps of a vampiric lighthouse that defies logic in This Is Not For You, the latest horror game inspired by House of Leaves"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "GTA 6 leaker threatens to upload a build with 'full story mode'"
-  ]
+  "alertes": []
 };
