@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "11/10/2026 à 18h24",
+  "collecte": "11/10/2026 à 20h20",
   "seuil": 14,
   "sujets": [
     {
@@ -12,7 +12,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.8,
+      "heures": 9.7,
       "chaleur": 10,
       "liens": [
         {
@@ -36,7 +36,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 9,
       "liens": [
         {
@@ -60,7 +60,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 6.7,
+      "heures": 8.6,
       "chaleur": 9,
       "liens": [
         {
@@ -83,7 +83,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 7.9,
       "chaleur": 7,
       "liens": [
         {
@@ -137,7 +137,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -155,7 +155,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -173,49 +173,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/escape-the-backrooms-after-party-update-new-levels-december",
           "titre": "Escape the Backrooms is throwing an After Party with three new levels this December"
-        }
-      ]
-    },
-    {
-      "id": "rpgs-are-simply-better-when-you-re-an-idiot",
-      "titre": "RPGs are simply better when you're an idiot",
-      "url": "https://www.pcgamer.com/games/rpg/rpgs-are-simply-better-when-youre-an-idiot/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/rpgs-are-simply-better-when-youre-an-idiot/",
-          "titre": "RPGs are simply better when you're an idiot"
-        }
-      ]
-    },
-    {
-      "id": "escape-from-elohello-has-me-reliving-my-worst-online-pvp-nig",
-      "titre": "Escape from EloHello has me reliving my worst online PvP nightmares in roguelike-form",
-      "url": "https://www.pcgamer.com/games/roguelike/escape-from-elohello-has-me-reliving-my-worst-online-pvp-nightmares-in-roguelike-form/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/roguelike/escape-from-elohello-has-me-reliving-my-worst-online-pvp-nightmares-in-roguelike-form/",
-          "titre": "Escape from EloHello has me reliving my worst online PvP nightmares in roguelike-form"
         }
       ]
     },
@@ -227,7 +191,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 6,
       "liens": [
         {
@@ -245,7 +209,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.0,
+      "heures": 23.9,
       "chaleur": 6,
       "liens": [
         {
@@ -263,7 +227,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 30.3,
+      "heures": 32.2,
       "chaleur": 6,
       "liens": [
         {
@@ -282,7 +246,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 32.5,
+      "heures": 34.4,
       "chaleur": 6,
       "liens": [
         {
@@ -298,30 +262,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "talking-point-what-are-you-playing-this-weekend-10th-october",
-      "titre": "Talking Point: What Are You Playing This Weekend? (10th October)",
-      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-10th-october",
-      "sources": [
-        "Nintendo Life",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 33.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-10th-october",
-          "titre": "Talking Point: What Are You Playing This Weekend? (10th October)"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-403",
-          "titre": "What are we all playing this weekend?"
-        }
-      ]
-    },
-    {
       "id": "sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-2",
       "titre": "Sonic Pico Park Brings Co-Op Action Puzzle Fun To Switch 1 & 2 Next Month",
       "url": "https://www.nintendolife.com/news/2026/10/sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-and-2-next-month",
@@ -329,7 +269,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.7,
+      "heures": 18.6,
       "chaleur": 5,
       "liens": [
         {
@@ -347,7 +287,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.3,
       "chaleur": 5,
       "liens": [
         {
@@ -365,7 +305,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.2,
       "chaleur": 5,
       "liens": [
         {
@@ -383,7 +323,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.4,
+      "heures": 32.3,
       "chaleur": 5,
       "liens": [
         {
@@ -401,13 +341,49 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.7,
+      "heures": 32.6,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
           "titre": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game"
+        }
+      ]
+    },
+    {
+      "id": "rpgs-are-simply-better-when-you-re-an-idiot",
+      "titre": "RPGs are simply better when you're an idiot",
+      "url": "https://www.pcgamer.com/games/rpg/rpgs-are-simply-better-when-youre-an-idiot/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/rpgs-are-simply-better-when-youre-an-idiot/",
+          "titre": "RPGs are simply better when you're an idiot"
+        }
+      ]
+    },
+    {
+      "id": "escape-from-elohello-has-me-reliving-my-worst-online-pvp-nig",
+      "titre": "Escape from EloHello has me reliving my worst online PvP nightmares in roguelike-form",
+      "url": "https://www.pcgamer.com/games/roguelike/escape-from-elohello-has-me-reliving-my-worst-online-pvp-nightmares-in-roguelike-form/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/roguelike/escape-from-elohello-has-me-reliving-my-worst-online-pvp-nightmares-in-roguelike-form/",
+          "titre": "Escape from EloHello has me reliving my worst online PvP nightmares in roguelike-form"
         }
       ]
     },
@@ -419,7 +395,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -437,7 +413,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -455,7 +431,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -473,7 +449,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -491,7 +467,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -509,7 +485,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -527,7 +503,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -545,7 +521,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -563,7 +539,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -581,7 +557,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -599,7 +575,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -617,7 +593,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -635,7 +611,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -653,7 +629,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.1,
       "chaleur": 3,
       "liens": [
         {
@@ -671,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.8,
       "chaleur": 3,
       "liens": [
         {
@@ -689,7 +665,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 19.8,
       "chaleur": 3,
       "liens": [
         {
@@ -707,7 +683,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.5,
+      "heures": 22.4,
       "chaleur": 3,
       "liens": [
         {
@@ -725,7 +701,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.3,
       "chaleur": 3,
       "liens": [
         {
@@ -743,7 +719,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.5,
+      "heures": 26.4,
       "chaleur": 3,
       "liens": [
         {
@@ -761,7 +737,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.3,
       "chaleur": 3,
       "liens": [
         {
@@ -779,7 +755,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 27.4,
       "chaleur": 3,
       "liens": [
         {
@@ -797,7 +773,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 27.5,
       "chaleur": 3,
       "liens": [
         {
@@ -815,7 +791,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.9,
+      "heures": 27.8,
       "chaleur": 3,
       "liens": [
         {
@@ -833,7 +809,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.3,
+      "heures": 28.2,
       "chaleur": 3,
       "liens": [
         {
@@ -851,7 +827,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 27.0,
+      "heures": 29.0,
       "chaleur": 3,
       "liens": [
         {
@@ -869,7 +845,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 29.3,
       "chaleur": 3,
       "liens": [
         {
@@ -887,7 +863,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 28.3,
+      "heures": 30.2,
       "chaleur": 3,
       "liens": [
         {
@@ -905,7 +881,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 30.3,
       "chaleur": 3,
       "liens": [
         {
@@ -923,7 +899,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 29.5,
+      "heures": 31.4,
       "chaleur": 3,
       "liens": [
         {
@@ -941,7 +917,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.1,
+      "heures": 33.0,
       "chaleur": 3,
       "liens": [
         {
@@ -959,7 +935,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 31.4,
+      "heures": 33.3,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +953,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.8,
+      "heures": 33.7,
       "chaleur": 3,
       "liens": [
         {
@@ -988,38 +964,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "what-we-ve-been-playing-it-s-pure-video-game-popcorn-movie-s",
-      "titre": "What we've been playing - \"It's pure video game popcorn movie stuff\"",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-its-pure-video-game-popcorn-movie-stuff",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/what-weve-been-playing-its-pure-video-game-popcorn-movie-stuff",
-          "titre": "What we've been playing - \"It's pure video game popcorn movie stuff\""
-        }
-      ]
-    },
-    {
-      "id": "fortnite-x-sonic-collab-to-be-continued",
-      "titre": "Fortnite X Sonic Collab \"To Be Continued\"",
-      "url": "https://www.nintendolife.com/news/2026/10/fortnite-x-sonic-collab-to-be-continued",
+      "id": "talking-point-what-are-you-playing-this-weekend-10th-october",
+      "titre": "Talking Point: What Are You Playing This Weekend? (10th October)",
+      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-10th-october",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 35.4,
+      "heures": 35.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/fortnite-x-sonic-collab-to-be-continued",
-          "titre": "Fortnite X Sonic Collab \"To Be Continued\""
+          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-10th-october",
+          "titre": "Talking Point: What Are You Playing This Weekend? (10th October)"
         }
       ]
     }
