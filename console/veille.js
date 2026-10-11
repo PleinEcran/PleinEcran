@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "11/10/2026 à 16h21",
+  "collecte": "11/10/2026 à 18h24",
   "seuil": 14,
   "sujets": [
     {
@@ -12,7 +12,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.8,
+      "heures": 7.8,
       "chaleur": 10,
       "liens": [
         {
@@ -28,20 +28,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-leaker-cyberleek-is-back-with-another-video-and-this-t",
-      "titre": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked",
-      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
+      "id": "marvel-t-kon-fighting-souls-reveals-its-year-1-dlc-roster-st",
+      "titre": "Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November",
+      "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops",
       "sources": [
-        "Eurogamer"
+        "Eurogamer",
+        "Push Square"
       ],
-      "reprises": 1,
-      "heures": 3.9,
+      "reprises": 2,
+      "heures": 0.9,
       "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
-          "titre": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked"
+          "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops",
+          "titre": "Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-all-confirmed-characters-and-stages",
+          "titre": "Guide: Marvel Tokon: Fighting Souls: All Confirmed Characters and Stages"
         }
       ]
     },
@@ -54,7 +60,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 4.6,
+      "heures": 6.7,
       "chaleur": 9,
       "liens": [
         {
@@ -70,20 +76,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "feature-how-do-you-pronounce-these-words-from-zelda-ocarina",
-      "titre": "Feature: How Do You Pronounce These Words From Zelda: Ocarina Of Time?",
-      "url": "https://www.nintendolife.com/features/how-do-you-pronounce-these-words-from-zelda-ocarina-of-time",
+      "id": "gta-6-leaker-cyberleek-is-back-with-another-video-and-this-t",
+      "titre": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked",
+      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 8,
+      "heures": 6.0,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/how-do-you-pronounce-these-words-from-zelda-ocarina-of-time",
-          "titre": "Feature: How Do You Pronounce These Words From Zelda: Ocarina Of Time?"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
+          "titre": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked"
         }
       ]
     },
@@ -124,6 +130,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "nier-creator-yoko-taro-says-he-s-achieved-his-career-dreams",
+      "titre": "Nier creator Yoko Taro says he's achieved his career dreams, but he continues working because it's 'good for preventing dementia'",
+      "url": "https://www.pcgamer.com/gaming-industry/nier-creator-yoko-taro-says-hes-achieved-his-career-dreams-but-he-continues-working-because-its-good-for-preventing-dementia/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/nier-creator-yoko-taro-says-hes-achieved-his-career-dreams-but-he-continues-working-because-its-good-for-preventing-dementia/",
+          "titre": "Nier creator Yoko Taro says he's achieved his career dreams, but he continues working because it's 'good for preventing dementia'"
+        }
+      ]
+    },
+    {
+      "id": "arc-raiders-2-0-is-here-and-you-can-finally-turn-those-light",
+      "titre": "Arc Raiders 2.0 is here, and you can finally turn those lights on your backpack off",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-2-0-is-here-and-you-can-finally-turn-those-lights-on-your-backpack-off/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-2-0-is-here-and-you-can-finally-turn-those-lights-on-your-backpack-off/",
+          "titre": "Arc Raiders 2.0 is here, and you can finally turn those lights on your backpack off"
+        }
+      ]
+    },
+    {
+      "id": "escape-the-backrooms-is-throwing-an-after-party-with-three-n",
+      "titre": "Escape the Backrooms is throwing an After Party with three new levels this December",
+      "url": "https://www.eurogamer.net/escape-the-backrooms-after-party-update-new-levels-december",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/escape-the-backrooms-after-party-update-new-levels-december",
+          "titre": "Escape the Backrooms is throwing an After Party with three new levels this December"
+        }
+      ]
+    },
+    {
       "id": "rpgs-are-simply-better-when-you-re-an-idiot",
       "titre": "RPGs are simply better when you're an idiot",
       "url": "https://www.pcgamer.com/games/rpg/rpgs-are-simply-better-when-youre-an-idiot/",
@@ -131,7 +191,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -149,7 +209,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -160,128 +220,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "this-control-inspired-action-game-set-in-a-planet-scale-alie",
-      "titre": "This Control-inspired action game set in a 'planet-scale alien mind' has one of the most stunning art styles I've seen this year",
-      "url": "https://www.pcgamer.com/games/action/this-control-inspired-action-game-set-in-a-planet-scale-alien-mind-has-one-of-the-most-stunning-art-styles-ive-seen-this-year/",
+      "id": "feature-how-do-you-pronounce-these-words-from-zelda-ocarina",
+      "titre": "Feature: How Do You Pronounce These Words From Zelda: Ocarina Of Time?",
+      "url": "https://www.nintendolife.com/features/how-do-you-pronounce-these-words-from-zelda-ocarina-of-time",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.2,
+      "heures": 5.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/this-control-inspired-action-game-set-in-a-planet-scale-alien-mind-has-one-of-the-most-stunning-art-styles-ive-seen-this-year/",
-          "titre": "This Control-inspired action game set in a 'planet-scale alien mind' has one of the most stunning art styles I've seen this year"
-        }
-      ]
-    },
-    {
-      "id": "tekken-8-reveals-its-baki-the-grappler-crossover-roger-jr-ou",
-      "titre": "Tekken 8 Reveals Its Baki the Grappler Crossover, Roger Jr Out 17th November",
-      "url": "https://www.pushsquare.com/news/2026/10/tekken-8-reveals-its-baki-the-grappler-crossover-roger-jr-out-17th-november",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/tekken-8-reveals-its-baki-the-grappler-crossover-roger-jr-out-17th-november",
-          "titre": "Tekken 8 Reveals Its Baki the Grappler Crossover, Roger Jr Out 17th November"
-        }
-      ]
-    },
-    {
-      "id": "we-didn-t-expect-this-gran-turismo-7-continuing-to-sell-ver",
-      "titre": "'We Didn't Expect This': Gran Turismo 7 Continuing to 'Sell Very Well' on PS5",
-      "url": "https://www.pushsquare.com/news/2026/10/we-didnt-expect-this-gran-turismo-7-continuing-to-sell-very-well-on-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/we-didnt-expect-this-gran-turismo-7-continuing-to-sell-very-well-on-ps5",
-          "titre": "'We Didn't Expect This': Gran Turismo 7 Continuing to 'Sell Very Well' on PS5"
-        }
-      ]
-    },
-    {
-      "id": "jane-foster-venom-jubilee-join-marvel-tokon-in-year-1-on-ps5",
-      "titre": "Jane Foster, Venom, Jubilee Join Marvel Tokon in Year 1 on PS5",
-      "url": "https://www.pushsquare.com/news/2026/10/jane-foster-venom-jubilee-join-marvel-tokon-in-year-1-on-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/jane-foster-venom-jubilee-join-marvel-tokon-in-year-1-on-ps5",
-          "titre": "Jane Foster, Venom, Jubilee Join Marvel Tokon in Year 1 on PS5"
-        }
-      ]
-    },
-    {
-      "id": "i-m-the-type-of-player-who-loves-to-100-a-game-sungwon-cho",
-      "titre": "'I'm the type of player who loves to 100% a game': SungWon Cho on achievement hunting, why he doesn’t like multiplayer games, and the one Balatro joker that nearly drove him to despair",
-      "url": "https://www.pcgamer.com/gaming-industry/im-the-type-of-player-who-loves-to-100-percent-a-game-sungwon-cho-on-achievement-hunting-why-he-doesnt-like-multiplayer-games-and-the-one-balatro-joker-that-nearly-drove-him-to-despair/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/im-the-type-of-player-who-loves-to-100-percent-a-game-sungwon-cho-on-achievement-hunting-why-he-doesnt-like-multiplayer-games-and-the-one-balatro-joker-that-nearly-drove-him-to-despair/",
-          "titre": "'I'm the type of player who loves to 100% a game': SungWon Cho on achievement hunting, why he doesn’t like multiplayer games, and the one Balatro joker that nearly drove him to despair"
-        }
-      ]
-    },
-    {
-      "id": "guide-marvel-tokon-fighting-souls-all-confirmed-characters-a",
-      "titre": "Guide: Marvel Tokon: Fighting Souls: All Confirmed Characters and Stages",
-      "url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-all-confirmed-characters-and-stages",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-all-confirmed-characters-and-stages",
-          "titre": "Guide: Marvel Tokon: Fighting Souls: All Confirmed Characters and Stages"
-        }
-      ]
-    },
-    {
-      "id": "the-developer-of-an-ai-powered-driving-instruction-simulator",
-      "titre": "The developer of an AI-powered driving instruction simulator is spending $1,000 per month just to keep its demo running",
-      "url": "https://www.pcgamer.com/games/sim/the-developer-of-an-ai-powered-driving-instruction-simulator-is-spending-usd1-000-per-month-just-to-keep-its-demo-running/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/the-developer-of-an-ai-powered-driving-instruction-simulator-is-spending-usd1-000-per-month-just-to-keep-its-demo-running/",
-          "titre": "The developer of an AI-powered driving instruction simulator is spending $1,000 per month just to keep its demo running"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/how-do-you-pronounce-these-words-from-zelda-ocarina-of-time",
+          "titre": "Feature: How Do You Pronounce These Words From Zelda: Ocarina Of Time?"
         }
       ]
     },
@@ -293,7 +245,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 22.0,
       "chaleur": 6,
       "liens": [
         {
@@ -311,7 +263,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 28.2,
+      "heures": 30.3,
       "chaleur": 6,
       "liens": [
         {
@@ -330,7 +282,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 30.4,
+      "heures": 32.5,
       "chaleur": 6,
       "liens": [
         {
@@ -354,7 +306,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 31.4,
+      "heures": 33.4,
       "chaleur": 6,
       "liens": [
         {
@@ -377,7 +329,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.7,
       "chaleur": 5,
       "liens": [
         {
@@ -395,7 +347,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 5,
       "liens": [
         {
@@ -413,31 +365,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.2,
+      "heures": 23.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game",
           "titre": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam"
-        }
-      ]
-    },
-    {
-      "id": "the-advent-of-first-person-shooters-introduced-a-wild-fronti",
-      "titre": "The advent of first-person shooters introduced a wild frontier of unregulated video game level packs, and it ended in a lawsuit that changed copyright forever",
-      "url": "https://www.pcgamer.com/games/fps/the-advent-of-first-person-shooters-introduced-a-wild-frontier-of-unregulated-video-game-level-packs-and-it-ended-in-a-lawsuit-that-changed-copyright-forever/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 26.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/the-advent-of-first-person-shooters-introduced-a-wild-frontier-of-unregulated-video-game-level-packs-and-it-ended-in-a-lawsuit-that-changed-copyright-forever/",
-          "titre": "The advent of first-person shooters introduced a wild frontier of unregulated video game level packs, and it ended in a lawsuit that changed copyright forever"
         }
       ]
     },
@@ -449,7 +383,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 30.4,
       "chaleur": 5,
       "liens": [
         {
@@ -467,13 +401,121 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.6,
+      "heures": 30.7,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
           "titre": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game"
+        }
+      ]
+    },
+    {
+      "id": "this-control-inspired-action-game-set-in-a-planet-scale-alie",
+      "titre": "This Control-inspired action game set in a 'planet-scale alien mind' has one of the most stunning art styles I've seen this year",
+      "url": "https://www.pcgamer.com/games/action/this-control-inspired-action-game-set-in-a-planet-scale-alien-mind-has-one-of-the-most-stunning-art-styles-ive-seen-this-year/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/this-control-inspired-action-game-set-in-a-planet-scale-alien-mind-has-one-of-the-most-stunning-art-styles-ive-seen-this-year/",
+          "titre": "This Control-inspired action game set in a 'planet-scale alien mind' has one of the most stunning art styles I've seen this year"
+        }
+      ]
+    },
+    {
+      "id": "tekken-8-reveals-its-baki-the-grappler-crossover-roger-jr-ou",
+      "titre": "Tekken 8 Reveals Its Baki the Grappler Crossover, Roger Jr Out 17th November",
+      "url": "https://www.pushsquare.com/news/2026/10/tekken-8-reveals-its-baki-the-grappler-crossover-roger-jr-out-17th-november",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/tekken-8-reveals-its-baki-the-grappler-crossover-roger-jr-out-17th-november",
+          "titre": "Tekken 8 Reveals Its Baki the Grappler Crossover, Roger Jr Out 17th November"
+        }
+      ]
+    },
+    {
+      "id": "we-didn-t-expect-this-gran-turismo-7-continuing-to-sell-ver",
+      "titre": "'We Didn't Expect This': Gran Turismo 7 Continuing to 'Sell Very Well' on PS5",
+      "url": "https://www.pushsquare.com/news/2026/10/we-didnt-expect-this-gran-turismo-7-continuing-to-sell-very-well-on-ps5",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/we-didnt-expect-this-gran-turismo-7-continuing-to-sell-very-well-on-ps5",
+          "titre": "'We Didn't Expect This': Gran Turismo 7 Continuing to 'Sell Very Well' on PS5"
+        }
+      ]
+    },
+    {
+      "id": "jane-foster-venom-jubilee-join-marvel-tokon-in-year-1-on-ps5",
+      "titre": "Jane Foster, Venom, Jubilee Join Marvel Tokon in Year 1 on PS5",
+      "url": "https://www.pushsquare.com/news/2026/10/jane-foster-venom-jubilee-join-marvel-tokon-in-year-1-on-ps5",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/jane-foster-venom-jubilee-join-marvel-tokon-in-year-1-on-ps5",
+          "titre": "Jane Foster, Venom, Jubilee Join Marvel Tokon in Year 1 on PS5"
+        }
+      ]
+    },
+    {
+      "id": "i-m-the-type-of-player-who-loves-to-100-a-game-sungwon-cho",
+      "titre": "'I'm the type of player who loves to 100% a game': SungWon Cho on achievement hunting, why he doesn’t like multiplayer games, and the one Balatro joker that nearly drove him to despair",
+      "url": "https://www.pcgamer.com/gaming-industry/im-the-type-of-player-who-loves-to-100-percent-a-game-sungwon-cho-on-achievement-hunting-why-he-doesnt-like-multiplayer-games-and-the-one-balatro-joker-that-nearly-drove-him-to-despair/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/im-the-type-of-player-who-loves-to-100-percent-a-game-sungwon-cho-on-achievement-hunting-why-he-doesnt-like-multiplayer-games-and-the-one-balatro-joker-that-nearly-drove-him-to-despair/",
+          "titre": "'I'm the type of player who loves to 100% a game': SungWon Cho on achievement hunting, why he doesn’t like multiplayer games, and the one Balatro joker that nearly drove him to despair"
+        }
+      ]
+    },
+    {
+      "id": "the-developer-of-an-ai-powered-driving-instruction-simulator",
+      "titre": "The developer of an AI-powered driving instruction simulator is spending $1,000 per month just to keep its demo running",
+      "url": "https://www.pcgamer.com/games/sim/the-developer-of-an-ai-powered-driving-instruction-simulator-is-spending-usd1-000-per-month-just-to-keep-its-demo-running/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/the-developer-of-an-ai-powered-driving-instruction-simulator-is-spending-usd1-000-per-month-just-to-keep-its-demo-running/",
+          "titre": "The developer of an AI-powered driving instruction simulator is spending $1,000 per month just to keep its demo running"
         }
       ]
     },
@@ -485,7 +527,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -503,7 +545,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -521,7 +563,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -539,7 +581,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -557,7 +599,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -575,7 +617,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -593,7 +635,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -611,7 +653,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.2,
       "chaleur": 3,
       "liens": [
         {
@@ -629,7 +671,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 15.8,
       "chaleur": 3,
       "liens": [
         {
@@ -647,7 +689,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -665,7 +707,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.5,
       "chaleur": 3,
       "liens": [
         {
@@ -683,7 +725,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.4,
       "chaleur": 3,
       "liens": [
         {
@@ -701,7 +743,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.5,
+      "heures": 24.5,
       "chaleur": 3,
       "liens": [
         {
@@ -719,7 +761,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 25.4,
       "chaleur": 3,
       "liens": [
         {
@@ -737,7 +779,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.5,
       "chaleur": 3,
       "liens": [
         {
@@ -755,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 25.5,
       "chaleur": 3,
       "liens": [
         {
@@ -773,7 +815,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.9,
+      "heures": 25.9,
       "chaleur": 3,
       "liens": [
         {
@@ -791,7 +833,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.2,
+      "heures": 26.3,
       "chaleur": 3,
       "liens": [
         {
@@ -809,7 +851,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 25.0,
+      "heures": 27.0,
       "chaleur": 3,
       "liens": [
         {
@@ -827,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.4,
       "chaleur": 3,
       "liens": [
         {
@@ -845,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 26.2,
+      "heures": 28.3,
       "chaleur": 3,
       "liens": [
         {
@@ -863,31 +905,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.4,
+      "heures": 28.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/tekken-8s-reina-officially-announced-as-fatal-fury-ps5s-next-challenger",
           "titre": "Tekken 8's Reina Officially Announced as Fatal Fury PS5's Next Challenger"
-        }
-      ]
-    },
-    {
-      "id": "be-warned-nivalis-nights-may-not-be-the-cozy-game-you-expect",
-      "titre": "Be warned: Nivalis Nights may not be the cozy game you expect: 'If you want a cozy existence in this city, you're going to have to earn it'",
-      "url": "https://www.pcgamer.com/games/life-sim/be-warned-nivalis-nights-may-not-be-the-cozy-game-you-expect-if-you-want-a-cozy-existence-in-this-city-youre-going-to-have-to-earn-it/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 26.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/life-sim/be-warned-nivalis-nights-may-not-be-the-cozy-game-you-expect-if-you-want-a-cozy-existence-in-this-city-youre-going-to-have-to-earn-it/",
-          "titre": "Be warned: Nivalis Nights may not be the cozy game you expect: 'If you want a cozy existence in this city, you're going to have to earn it'"
         }
       ]
     },
@@ -899,7 +923,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 27.5,
+      "heures": 29.5,
       "chaleur": 3,
       "liens": [
         {
@@ -917,7 +941,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.0,
+      "heures": 31.1,
       "chaleur": 3,
       "liens": [
         {
@@ -935,7 +959,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 31.4,
       "chaleur": 3,
       "liens": [
         {
@@ -953,7 +977,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.7,
+      "heures": 31.8,
       "chaleur": 3,
       "liens": [
         {
@@ -971,7 +995,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.4,
+      "heures": 35.4,
       "chaleur": 3,
       "liens": [
         {
@@ -989,7 +1013,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.4,
+      "heures": 35.4,
       "chaleur": 3,
       "liens": [
         {
