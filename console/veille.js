@@ -1,20 +1,26 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "11/10/2026 à 10h21",
+  "collecte": "11/10/2026 à 12h26",
   "seuil": 14,
   "sujets": [
     {
-      "id": "gta-6-leaker-threatens-to-upload-a-build-with-full-story-mod",
-      "titre": "GTA 6 leaker threatens to upload a build with 'full story mode'",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-to-upload-a-build-with-full-story-mode/",
+      "id": "group-threatens-to-leak-full-gta-6-build-if-physical-plans-a",
+      "titre": "Group threatens to leak ‘full’ GTA 6 build if physical plans aren’t reversed",
+      "url": "https://www.videogameschronicle.com/news/group-threatens-to-leak-full-gta-6-build-if-physical-plans-arent-reversed/",
       "sources": [
         "Eurogamer",
-        "PC Gamer"
+        "PC Gamer",
+        "VGC"
       ],
-      "reprises": 2,
-      "heures": 10.8,
-      "chaleur": 12,
+      "reprises": 3,
+      "heures": 1.8,
+      "chaleur": 17,
       "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/group-threatens-to-leak-full-gta-6-build-if-physical-plans-arent-reversed/",
+          "titre": "Group threatens to leak ‘full’ GTA 6 build if physical plans aren’t reversed"
+        },
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-to-upload-a-build-with-full-story-mode/",
@@ -28,62 +34,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sonic-racing-crossworlds-year-2-crossovers-revealed-includin",
-      "titre": "Sonic Racing Crossworlds Year 2 crossovers revealed, including Final Fantasy 7, Hello Kitty and retro Sega",
-      "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-year-2-crossovers-revealed-including-final-fantasy-7-hello-kitty-and-retro-sega/",
+      "id": "squadron-42-opens-for-steam-wishlisting-ahead-of-a-planned-q",
+      "titre": "Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release",
+      "url": "https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release",
       "sources": [
-        "Nintendo Life",
-        "Push Square",
-        "VGC"
+        "Eurogamer",
+        "PC Gamer"
       ],
-      "reprises": 3,
-      "heures": 24.4,
-      "chaleur": 9,
+      "reprises": 2,
+      "heures": 0.7,
+      "chaleur": 11,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-year-2-crossovers-revealed-including-final-fantasy-7-hello-kitty-and-retro-sega/",
-          "titre": "Sonic Racing Crossworlds Year 2 crossovers revealed, including Final Fantasy 7, Hello Kitty and retro Sega"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release",
+          "titre": "Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release"
         },
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sonic-racing-crossworlds-now-permanently-cheaper-and-its-going-absolutely-bananas-with-dlc-in-year-2",
-          "titre": "Sonic Racing: CrossWorlds Now Permanently Cheaper, and It's Going Absolutely Bananas with DLC in Year 2"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-two-roadmap-revealed-major-free-updates-new-collabs-and-much-more",
-          "titre": "Sonic Racing: CrossWorlds \"Year Two\" Roadmap Revealed - Major Free Updates, New Collabs And Much More"
-        }
-      ]
-    },
-    {
-      "id": "talking-point-what-are-you-playing-this-weekend-10th-october",
-      "titre": "Talking Point: What Are You Playing This Weekend? (10th October)",
-      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-10th-october",
-      "sources": [
-        "Nintendo Life",
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 25.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-10th-october",
-          "titre": "Talking Point: What Are You Playing This Weekend? (10th October)"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-403",
-          "titre": "What are we all playing this weekend?"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-653",
-          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 653"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/squadron-42-has-a-steam-page/",
+          "titre": "Squadron 42 has a Steam page"
         }
       ]
     },
@@ -124,6 +94,78 @@ const VEILLE = {
       ]
     },
     {
+      "id": "forza-horizon-6-will-have-a-physical-ps5-disc-but-there-s-a",
+      "titre": "Forza Horizon 6 Will Have a Physical PS5 Disc, But There's a Catch",
+      "url": "https://www.pushsquare.com/news/2026/10/forza-horizon-6-will-have-a-physical-ps5-disc-but-theres-a-catch",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/forza-horizon-6-will-have-a-physical-ps5-disc-but-theres-a-catch",
+          "titre": "Forza Horizon 6 Will Have a Physical PS5 Disc, But There's a Catch"
+        }
+      ]
+    },
+    {
+      "id": "phasmophobia-confirms-30-million-sales-as-its-crimson-eye-ha",
+      "titre": "Phasmophobia confirms 30 million sales as its Crimson Eye Halloween event returns",
+      "url": "https://www.eurogamer.net/phasmophobia-30-million-sales-crimson-eye-event",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/phasmophobia-30-million-sales-crimson-eye-event",
+          "titre": "Phasmophobia confirms 30 million sales as its Crimson Eye Halloween event returns"
+        }
+      ]
+    },
+    {
+      "id": "deadlock-s-city-never-sleeps-update-makes-valve-s-moba-my-fa",
+      "titre": "Deadlock's City Never Sleeps update makes Valve's MOBA my favorite videogame setting in years",
+      "url": "https://www.pcgamer.com/games/moba/deadlocks-city-never-sleeps-update-makes-valves-moba-my-favorite-videogame-setting-in-years/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/deadlocks-city-never-sleeps-update-makes-valves-moba-my-favorite-videogame-setting-in-years/",
+          "titre": "Deadlock's City Never Sleeps update makes Valve's MOBA my favorite videogame setting in years"
+        }
+      ]
+    },
+    {
+      "id": "it-looks-like-wing-commander-3-is-getting-a-remaster-after-e",
+      "titre": "It looks like Wing Commander 3 is getting a remaster, after EA producer discovers the original FMV source tapes in the company's archives",
+      "url": "https://www.pcgamer.com/games/sim/it-looks-like-wing-commander-3-is-getting-a-remaster-after-ea-producer-discovers-the-original-fmv-source-tapes-in-the-companys-archives/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/it-looks-like-wing-commander-3-is-getting-a-remaster-after-ea-producer-discovers-the-original-fmv-source-tapes-in-the-companys-archives/",
+          "titre": "It looks like Wing Commander 3 is getting a remaster, after EA producer discovers the original FMV source tapes in the company's archives"
+        }
+      ]
+    },
+    {
       "id": "the-sunday-papers",
       "titre": "The Sunday Papers",
       "url": "https://www.rockpapershotgun.com/the-sunday-papers-831",
@@ -131,7 +173,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -149,7 +191,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -167,7 +209,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -185,49 +227,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-and-2-next-month",
           "titre": "Sonic Pico Park Brings Co-Op Action Puzzle Fun To Switch 1 & 2 Next Month"
-        }
-      ]
-    },
-    {
-      "id": "playstation-hardware-sales-hit-lowest-point-since-2013-in-us",
-      "titre": "PlayStation Hardware Sales Hit Lowest Point Since 2013 in US, and PS5's Price Is the Problem",
-      "url": "https://www.pushsquare.com/news/2026/10/playstation-hardware-sales-hit-lowest-point-since-2013-in-us-and-ps5s-price-is-the-problem",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/playstation-hardware-sales-hit-lowest-point-since-2013-in-us-and-ps5s-price-is-the-problem",
-          "titre": "PlayStation Hardware Sales Hit Lowest Point Since 2013 in US, and PS5's Price Is the Problem"
-        }
-      ]
-    },
-    {
-      "id": "squadron-42-has-a-steam-page",
-      "titre": "Squadron 42 has a Steam page",
-      "url": "https://www.pcgamer.com/games/fps/squadron-42-has-a-steam-page/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/squadron-42-has-a-steam-page/",
-          "titre": "Squadron 42 has a Steam page"
         }
       ]
     },
@@ -239,7 +245,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 16.0,
       "chaleur": 6,
       "liens": [
         {
@@ -258,7 +264,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 20.4,
+      "heures": 22.4,
       "chaleur": 6,
       "liens": [
         {
@@ -282,7 +288,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 21.9,
+      "heures": 24.0,
       "chaleur": 6,
       "liens": [
         {
@@ -305,13 +311,79 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 22.2,
+      "heures": 24.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/will-gta-6-make-its-way-to-switch-2-nintendo-isnt-saying/",
           "titre": "Will GTA 6 make its way to Switch 2? Nintendo isn’t saying"
+        }
+      ]
+    },
+    {
+      "id": "sonic-racing-crossworlds-year-2-crossovers-revealed-includin",
+      "titre": "Sonic Racing Crossworlds Year 2 crossovers revealed, including Final Fantasy 7, Hello Kitty and retro Sega",
+      "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-year-2-crossovers-revealed-including-final-fantasy-7-hello-kitty-and-retro-sega/",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 26.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-year-2-crossovers-revealed-including-final-fantasy-7-hello-kitty-and-retro-sega/",
+          "titre": "Sonic Racing Crossworlds Year 2 crossovers revealed, including Final Fantasy 7, Hello Kitty and retro Sega"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sonic-racing-crossworlds-now-permanently-cheaper-and-its-going-absolutely-bananas-with-dlc-in-year-2",
+          "titre": "Sonic Racing: CrossWorlds Now Permanently Cheaper, and It's Going Absolutely Bananas with DLC in Year 2"
+        }
+      ]
+    },
+    {
+      "id": "talking-point-what-are-you-playing-this-weekend-10th-october",
+      "titre": "Talking Point: What Are You Playing This Weekend? (10th October)",
+      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-10th-october",
+      "sources": [
+        "Nintendo Life",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 27.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-10th-october",
+          "titre": "Talking Point: What Are You Playing This Weekend? (10th October)"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-403",
+          "titre": "What are we all playing this weekend?"
+        }
+      ]
+    },
+    {
+      "id": "playstation-hardware-sales-hit-lowest-point-since-2013-in-us",
+      "titre": "PlayStation Hardware Sales Hit Lowest Point Since 2013 in US, and PS5's Price Is the Problem",
+      "url": "https://www.pushsquare.com/news/2026/10/playstation-hardware-sales-hit-lowest-point-since-2013-in-us-and-ps5s-price-is-the-problem",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 13.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/playstation-hardware-sales-hit-lowest-point-since-2013-in-us-and-ps5s-price-is-the-problem",
+          "titre": "PlayStation Hardware Sales Hit Lowest Point Since 2013 in US, and PS5's Price Is the Problem"
         }
       ]
     },
@@ -323,7 +395,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 17.3,
       "chaleur": 5,
       "liens": [
         {
@@ -341,7 +413,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.4,
       "chaleur": 5,
       "liens": [
         {
@@ -359,7 +431,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 24.4,
       "chaleur": 5,
       "liens": [
         {
@@ -377,7 +449,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.6,
+      "heures": 24.7,
       "chaleur": 5,
       "liens": [
         {
@@ -395,7 +467,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 32.6,
+      "heures": 34.7,
       "chaleur": 5,
       "liens": [
         {
@@ -413,7 +485,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -431,7 +503,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -449,7 +521,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -467,7 +539,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -485,7 +557,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -503,7 +575,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.5,
       "chaleur": 3,
       "liens": [
         {
@@ -521,7 +593,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -539,7 +611,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -557,7 +629,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.6,
       "chaleur": 3,
       "liens": [
         {
@@ -575,7 +647,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 19.9,
       "chaleur": 3,
       "liens": [
         {
@@ -593,7 +665,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
@@ -611,7 +683,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 19.0,
+      "heures": 21.1,
       "chaleur": 3,
       "liens": [
         {
@@ -629,7 +701,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.4,
       "chaleur": 3,
       "liens": [
         {
@@ -647,7 +719,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.2,
+      "heures": 22.3,
       "chaleur": 3,
       "liens": [
         {
@@ -665,7 +737,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 22.4,
       "chaleur": 3,
       "liens": [
         {
@@ -683,7 +755,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.5,
       "chaleur": 3,
       "liens": [
         {
@@ -701,7 +773,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.0,
+      "heures": 25.1,
       "chaleur": 3,
       "liens": [
         {
@@ -719,7 +791,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.1,
+      "heures": 25.2,
       "chaleur": 3,
       "liens": [
         {
@@ -737,7 +809,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.4,
       "chaleur": 3,
       "liens": [
         {
@@ -755,7 +827,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.4,
       "chaleur": 3,
       "liens": [
         {
@@ -773,7 +845,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 29.4,
       "chaleur": 3,
       "liens": [
         {
@@ -791,7 +863,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 29.4,
       "chaleur": 3,
       "liens": [
         {
@@ -800,43 +872,9 @@ const VEILLE = {
           "titre": "Fortnite X Sonic Collab \"To Be Continued\""
         }
       ]
-    },
-    {
-      "id": "2026-s-oled-monitors-can-nearly-recreate-the-sublime-clarity",
-      "titre": "2026's OLED monitors can nearly recreate the sublime clarity of a '90s CRT, but Windows will have to change before we can achieve true nirvana",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/2026s-oled-monitors-can-nearly-recreate-the-sublime-clarity-of-a-90s-crt-but-windows-will-have-to-change-before-we-can-achieve-true-nirvana/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 34.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-monitors/2026s-oled-monitors-can-nearly-recreate-the-sublime-clarity-of-a-90s-crt-but-windows-will-have-to-change-before-we-can-achieve-true-nirvana/",
-          "titre": "2026's OLED monitors can nearly recreate the sublime clarity of a '90s CRT, but Windows will have to change before we can achieve true nirvana"
-        }
-      ]
-    },
-    {
-      "id": "overcooked-broke-you-apart-and-stage-fright-is-there-to-put",
-      "titre": "'Overcooked broke you apart and Stage Fright is there to put you back together'",
-      "url": "https://www.pcgamer.com/games/adventure/overcooked-broke-you-apart-and-stage-fright-is-there-to-put-you-back-together/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 34.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/adventure/overcooked-broke-you-apart-and-stage-fright-is-there-to-put-you-back-together/",
-          "titre": "'Overcooked broke you apart and Stage Fright is there to put you back together'"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Group threatens to leak ‘full’ GTA 6 build if physical plans aren’t reversed"
+  ]
 };
