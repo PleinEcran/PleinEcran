@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "11/10/2026 à 02h21",
+  "collecte": "11/10/2026 à 04h22",
   "seuil": 14,
   "sujets": [
     {
@@ -12,8 +12,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 2.8,
-      "chaleur": 14,
+      "heures": 4.8,
+      "chaleur": 12,
       "liens": [
         {
           "source": "PC Gamer",
@@ -36,8 +36,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 3.4,
-      "chaleur": 12,
+      "heures": 5.4,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Push Square",
@@ -52,30 +52,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "will-gta-6-make-its-way-to-switch-2-nintendo-isn-t-saying",
-      "titre": "Will GTA 6 make its way to Switch 2? Nintendo isn’t saying",
-      "url": "https://www.videogameschronicle.com/news/will-gta-6-make-its-way-to-switch-2-nintendo-isnt-saying/",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 14.2,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/will-gta-6-make-its-way-to-switch-2-nintendo-isnt-saying/",
-          "titre": "Will GTA 6 make its way to Switch 2? Nintendo isn’t saying"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-of-americas-president-comments-on-the-possibility-of-gta-6-on-switch-2",
-          "titre": "Nintendo Of America's President Comments On The Possibility Of GTA 6 On Switch 2"
-        }
-      ]
-    },
-    {
       "id": "sonic-racing-crossworlds-year-2-crossovers-revealed-includin",
       "titre": "Sonic Racing Crossworlds Year 2 crossovers revealed, including Final Fantasy 7, Hello Kitty and retro Sega",
       "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-year-2-crossovers-revealed-including-final-fantasy-7-hello-kitty-and-retro-sega/",
@@ -85,7 +61,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 9,
       "liens": [
         {
@@ -115,7 +91,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 9,
       "liens": [
         {
@@ -143,31 +119,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-and-2-next-month",
           "titre": "Sonic Pico Park Brings Co-Op Action Puzzle Fun To Switch 1 & 2 Next Month"
-        }
-      ]
-    },
-    {
-      "id": "squadron-42-has-a-steam-page",
-      "titre": "Squadron 42 has a Steam page",
-      "url": "https://www.pcgamer.com/games/fps/squadron-42-has-a-steam-page/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/squadron-42-has-a-steam-page/",
-          "titre": "Squadron 42 has a Steam page"
         }
       ]
     },
@@ -179,7 +137,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 8.0,
       "chaleur": 7,
       "liens": [
         {
@@ -198,7 +156,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 9.5,
+      "heures": 11.5,
       "chaleur": 7,
       "liens": [
         {
@@ -221,7 +179,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 32.3,
+      "heures": 34.3,
       "chaleur": 7,
       "liens": [
         {
@@ -268,6 +226,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "psa-pok-mon-red-blue-game-boy-jukebox-back-in-stock-on-the",
+      "titre": "﻿﻿PSA: Pokémon Red & Blue Game Boy Jukebox Back In Stock On The Pokémon Center",
+      "url": "https://www.nintendolife.com/news/2026/10/psa-pokemon-red-and-blue-game-boy-jukebox-back-in-stock-on-the-pokemon-center",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/psa-pokemon-red-and-blue-game-boy-jukebox-back-in-stock-on-the-pokemon-center",
+          "titre": "﻿﻿PSA: Pokémon Red & Blue Game Boy Jukebox Back In Stock On The Pokémon Center"
+        }
+      ]
+    },
+    {
       "id": "dragon-ball-sparking-zero-announces-cross-play-in-new-road-m",
       "titre": "Dragon Ball: Sparking! ZERO Announces Cross-Play In New Road Map",
       "url": "https://www.nintendolife.com/news/2026/10/dragon-ball-sparking-zero-announces-cross-play-in-new-road-map",
@@ -275,13 +251,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/dragon-ball-sparking-zero-announces-cross-play-in-new-road-map",
           "titre": "Dragon Ball: Sparking! ZERO Announces Cross-Play In New Road Map"
+        }
+      ]
+    },
+    {
+      "id": "squadron-42-has-a-steam-page",
+      "titre": "Squadron 42 has a Steam page",
+      "url": "https://www.pcgamer.com/games/fps/squadron-42-has-a-steam-page/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/squadron-42-has-a-steam-page/",
+          "titre": "Squadron 42 has a Steam page"
         }
       ]
     },
@@ -293,7 +287,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.2,
       "chaleur": 6,
       "liens": [
         {
@@ -312,7 +306,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 6,
       "liens": [
         {
@@ -336,7 +330,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 13.9,
+      "heures": 15.9,
       "chaleur": 6,
       "liens": [
         {
@@ -352,6 +346,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "will-gta-6-make-its-way-to-switch-2-nintendo-isn-t-saying",
+      "titre": "Will GTA 6 make its way to Switch 2? Nintendo isn’t saying",
+      "url": "https://www.videogameschronicle.com/news/will-gta-6-make-its-way-to-switch-2-nintendo-isnt-saying/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 16.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/will-gta-6-make-its-way-to-switch-2-nintendo-isnt-saying/",
+          "titre": "Will GTA 6 make its way to Switch 2? Nintendo isn’t saying"
+        }
+      ]
+    },
+    {
       "id": "rockstar-hr-manager-claims-he-had-little-interest-in-staff-s",
       "titre": "Rockstar HR manager claims he had \"little interest\" in staff's union membership status as fired GTA dev union-busting trial heats up",
       "url": "https://www.eurogamer.net/rockstar-employment-tribunal-hr-manager-little-interest-union",
@@ -359,7 +371,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.7,
+      "heures": 35.7,
       "chaleur": 6,
       "liens": [
         {
@@ -377,7 +389,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 5,
       "liens": [
         {
@@ -395,7 +407,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.4,
       "chaleur": 5,
       "liens": [
         {
@@ -413,7 +425,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.6,
       "chaleur": 5,
       "liens": [
         {
@@ -431,7 +443,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.6,
+      "heures": 26.6,
       "chaleur": 5,
       "liens": [
         {
@@ -449,103 +461,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.4,
+      "heures": 35.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-4-still-an-all-timer",
           "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #4 - Still An All-Timer"
-        }
-      ]
-    },
-    {
-      "id": "it-takes-two-hops-onto-switch-2-next-week-marrying-visual-u",
-      "titre": "'It Takes Two' Hops Onto Switch 2 Next Week, Marrying Visual Upgrades & Cross-Play",
-      "url": "https://www.nintendolife.com/news/2026/10/it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-and-cross-play",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 34.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-and-cross-play",
-          "titre": "'It Takes Two' Hops Onto Switch 2 Next Week, Marrying Visual Upgrades & Cross-Play"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-download-8th-october-north-america-plus-3-discounte",
-      "titre": "Nintendo Download: 8th October (North America) - Plus 3 Discounted Games That Should Be On Your Radar",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-8th-october-north-america-plus-3-discounted-games-that-should-be-on-your-radar",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 35.1,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-8th-october-north-america-plus-3-discounted-games-that-should-be-on-your-radar",
-          "titre": "Nintendo Download: 8th October (North America) - Plus 3 Discounted Games That Should Be On Your Radar"
-        }
-      ]
-    },
-    {
-      "id": "community-played-a-top-switch-game-we-missed-send-us-your-re",
-      "titre": "Community: Played A Top Switch Game We Missed? Send Us Your Recommendations",
-      "url": "https://www.nintendolife.com/features/community-played-a-top-switch-game-we-missed-send-us-your-recommendations",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 35.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/community-played-a-top-switch-game-we-missed-send-us-your-recommendations",
-          "titre": "Community: Played A Top Switch Game We Missed? Send Us Your Recommendations"
-        }
-      ]
-    },
-    {
-      "id": "report-double-fine-s-union-drive-collapsed-due-to-miscommuni",
-      "titre": "Report: Double Fine's union drive collapsed due to miscommunication and culture clash",
-      "url": "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 35.5,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash",
-          "titre": "Report: Double Fine's union drive collapsed due to miscommunication and culture clash"
-        }
-      ]
-    },
-    {
-      "id": "it-s-official-forza-horizon-6-delayed-to-2027-on-ps5-and-the",
-      "titre": "It's official: Forza Horizon 6 delayed to 2027 on PS5, and the game's first expansion has been announced",
-      "url": "https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.6,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay",
-          "titre": "It's official: Forza Horizon 6 delayed to 2027 on PS5, and the game's first expansion has been announced"
         }
       ]
     },
@@ -557,7 +479,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -575,7 +497,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -593,7 +515,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -611,7 +533,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -629,7 +551,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -647,7 +569,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -665,8 +587,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -683,8 +605,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -701,8 +623,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -719,7 +641,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.3,
       "chaleur": 3,
       "liens": [
         {
@@ -737,7 +659,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -755,7 +677,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -773,7 +695,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 17.0,
       "chaleur": 3,
       "liens": [
         {
@@ -791,7 +713,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 17.2,
       "chaleur": 3,
       "liens": [
         {
@@ -809,7 +731,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -827,7 +749,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -845,7 +767,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.4,
       "chaleur": 3,
       "liens": [
         {
@@ -863,7 +785,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.4,
       "chaleur": 3,
       "liens": [
         {
@@ -881,7 +803,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 26.0,
+      "heures": 28.0,
       "chaleur": 3,
       "liens": [
         {
@@ -899,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 26.6,
+      "heures": 28.7,
       "chaleur": 3,
       "liens": [
         {
@@ -917,7 +839,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 30.5,
       "chaleur": 3,
       "liens": [
         {
@@ -935,7 +857,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.1,
+      "heures": 32.1,
       "chaleur": 3,
       "liens": [
         {
@@ -953,7 +875,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 30.7,
+      "heures": 32.7,
       "chaleur": 3,
       "liens": [
         {
@@ -971,7 +893,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 33.1,
+      "heures": 35.1,
       "chaleur": 3,
       "liens": [
         {
@@ -989,7 +911,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +929,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 33.7,
+      "heures": 35.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,121 +947,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 33.9,
+      "heures": 35.9,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/crazy-taxi-world-tour-takes-you-to-brazil-as-another-location-is-revealed",
           "titre": "Crazy Taxi: World Tour Takes You to Brazil as Another Location Is Revealed"
-        }
-      ]
-    },
-    {
-      "id": "wardogs-season-2-deepens-the-sandbox-shooter-s-capitalist-he",
-      "titre": "Wardogs season 2 deepens the sandbox shooter's capitalist hell by letting you bet cash on your own performance",
-      "url": "https://www.rockpapershotgun.com/wardogs-season-2-deepens-the-sandbox-shooters-capitalist-hell-by-letting-you-bet-cash-on-your-own-performance",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 34.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/wardogs-season-2-deepens-the-sandbox-shooters-capitalist-hell-by-letting-you-bet-cash-on-your-own-performance",
-          "titre": "Wardogs season 2 deepens the sandbox shooter's capitalist hell by letting you bet cash on your own performance"
-        }
-      ]
-    },
-    {
-      "id": "this-should-be-game-streaming-s-moment-it-s-not-opinion",
-      "titre": "This should be game streaming’s moment. It's not | Opinion",
-      "url": "https://www.gamesindustry.biz/this-should-be-game-streamings-moment-its-not-opinion",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 34.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/this-should-be-game-streamings-moment-its-not-opinion",
-          "titre": "This should be game streaming’s moment. It's not | Opinion"
-        }
-      ]
-    },
-    {
-      "id": "the-galaxies-showcase-returns-on-october-15-with-announcemen",
-      "titre": "The Galaxies Showcase returns on October 15, with announcements from ZA/UM, Embark Studios, and Frontier Developments",
-      "url": "https://www.rockpapershotgun.com/the-galaxies-showcase-returns-on-october-15-with-announcements-from-zaum-embark-studios-and-frontier-developments",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 34.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-galaxies-showcase-returns-on-october-15-with-announcements-from-zaum-embark-studios-and-frontier-developments",
-          "titre": "The Galaxies Showcase returns on October 15, with announcements from ZA/UM, Embark Studios, and Frontier Developments"
-        }
-      ]
-    },
-    {
-      "id": "we-re-not-getting-any-younger-and-the-world-seems-to-be-end",
-      "titre": "“We're not getting any younger, and the world seems to be ending\": Amanita reveal Machinarium 2, sequel to 2009's prettiest robot adventure",
-      "url": "https://www.rockpapershotgun.com/were-not-getting-any-younger-and-the-world-seems-to-be-ending-amanita-reveal-machinarium-2-sequel-to-2009s-prettiest-robot-adventure",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/were-not-getting-any-younger-and-the-world-seems-to-be-ending-amanita-reveal-machinarium-2-sequel-to-2009s-prettiest-robot-adventure",
-          "titre": "“We're not getting any younger, and the world seems to be ending\": Amanita reveal Machinarium 2, sequel to 2009's prettiest robot adventure"
-        }
-      ]
-    },
-    {
-      "id": "ghost-of-yotei-gets-more-complete-with-ps5-patch-fixing-bugs",
-      "titre": "Ghost of Yotei Gets More Complete with PS5 Patch Fixing Bugs and Black Screens",
-      "url": "https://www.pushsquare.com/news/2026/10/ghost-of-yotei-gets-more-complete-with-ps5-patch-fixing-bugs-and-black-screens",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ghost-of-yotei-gets-more-complete-with-ps5-patch-fixing-bugs-and-black-screens",
-          "titre": "Ghost of Yotei Gets More Complete with PS5 Patch Fixing Bugs and Black Screens"
-        }
-      ]
-    },
-    {
-      "id": "the-galaxies-showcase-returns-next-week-here-s-how-to-watch",
-      "titre": "The Galaxies Showcase returns next week: here's how to watch it and what to expect",
-      "url": "https://www.eurogamer.net/galaxies-showcase-2026-how-where-to-watch",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 36.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/galaxies-showcase-2026-how-where-to-watch",
-          "titre": "The Galaxies Showcase returns next week: here's how to watch it and what to expect"
         }
       ]
     }
