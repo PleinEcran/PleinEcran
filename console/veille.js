@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "11/10/2026 à 06h27",
+  "collecte": "11/10/2026 à 08h22",
   "seuil": 14,
   "sujets": [
     {
@@ -12,7 +12,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 6.9,
+      "heures": 8.8,
       "chaleur": 12,
       "liens": [
         {
@@ -28,30 +28,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "playstation-hardware-sales-hit-lowest-point-since-2013-in-us",
-      "titre": "PlayStation Hardware Sales Hit Lowest Point Since 2013 in US, and PS5's Price Is the Problem",
-      "url": "https://www.pushsquare.com/news/2026/10/playstation-hardware-sales-hit-lowest-point-since-2013-in-us-and-ps5s-price-is-the-problem",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 7.5,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/playstation-hardware-sales-hit-lowest-point-since-2013-in-us-and-ps5s-price-is-the-problem",
-          "titre": "PlayStation Hardware Sales Hit Lowest Point Since 2013 in US, and PS5's Price Is the Problem"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
-          "titre": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\""
-        }
-      ]
-    },
-    {
       "id": "sonic-racing-crossworlds-year-2-crossovers-revealed-includin",
       "titre": "Sonic Racing Crossworlds Year 2 crossovers revealed, including Final Fantasy 7, Hello Kitty and retro Sega",
       "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-year-2-crossovers-revealed-including-final-fantasy-7-hello-kitty-and-retro-sega/",
@@ -61,7 +37,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 20.5,
+      "heures": 22.5,
       "chaleur": 9,
       "liens": [
         {
@@ -91,7 +67,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 21.5,
+      "heures": 23.4,
       "chaleur": 9,
       "liens": [
         {
@@ -119,7 +95,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.0,
+      "heures": 12.0,
       "chaleur": 7,
       "liens": [
         {
@@ -166,42 +142,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "at-one-point-capcom-was-going-to-make-pragmata-a-little-bit",
-      "titre": "At One Point, Capcom Was Going To Make Pragmata \"A Little Bit More Horror Focused\"",
-      "url": "https://www.nintendolife.com/news/2026/10/at-one-point-capcom-was-going-to-make-pragmata-a-little-bit-more-horror-focused",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/at-one-point-capcom-was-going-to-make-pragmata-a-little-bit-more-horror-focused",
-          "titre": "At One Point, Capcom Was Going To Make Pragmata \"A Little Bit More Horror Focused\""
-        }
-      ]
-    },
-    {
-      "id": "psa-pok-mon-red-blue-game-boy-jukebox-back-in-stock",
-      "titre": "﻿﻿PSA: Pokémon Red & Blue Game Boy Jukebox Back In Stock",
-      "url": "https://www.nintendolife.com/news/2026/10/psa-pokemon-red-and-blue-game-boy-jukebox-back-in-stock",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/psa-pokemon-red-and-blue-game-boy-jukebox-back-in-stock",
-          "titre": "﻿﻿PSA: Pokémon Red & Blue Game Boy Jukebox Back In Stock"
-        }
-      ]
-    },
-    {
       "id": "sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-2",
       "titre": "Sonic Pico Park Brings Co-Op Action Puzzle Fun To Switch 1 & 2 Next Month",
       "url": "https://www.nintendolife.com/news/2026/10/sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-and-2-next-month",
@@ -209,13 +149,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-and-2-next-month",
           "titre": "Sonic Pico Park Brings Co-Op Action Puzzle Fun To Switch 1 & 2 Next Month"
+        }
+      ]
+    },
+    {
+      "id": "playstation-hardware-sales-hit-lowest-point-since-2013-in-us",
+      "titre": "PlayStation Hardware Sales Hit Lowest Point Since 2013 in US, and PS5's Price Is the Problem",
+      "url": "https://www.pushsquare.com/news/2026/10/playstation-hardware-sales-hit-lowest-point-since-2013-in-us-and-ps5s-price-is-the-problem",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 9.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/playstation-hardware-sales-hit-lowest-point-since-2013-in-us-and-ps5s-price-is-the-problem",
+          "titre": "PlayStation Hardware Sales Hit Lowest Point Since 2013 in US, and PS5's Price Is the Problem"
         }
       ]
     },
@@ -227,31 +185,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 10.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/fps/squadron-42-has-a-steam-page/",
           "titre": "Squadron 42 has a Steam page"
-        }
-      ]
-    },
-    {
-      "id": "strange-scaffold-announces-gods-with-badges-a-tactics-game-w",
-      "titre": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam",
-      "url": "https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game",
-          "titre": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam"
         }
       ]
     },
@@ -264,7 +204,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 16.5,
+      "heures": 18.4,
       "chaleur": 6,
       "liens": [
         {
@@ -288,7 +228,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 18.0,
+      "heures": 19.9,
       "chaleur": 6,
       "liens": [
         {
@@ -311,13 +251,31 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 18.3,
+      "heures": 20.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/will-gta-6-make-its-way-to-switch-2-nintendo-isnt-saying/",
           "titre": "Will GTA 6 make its way to Switch 2? Nintendo isn’t saying"
+        }
+      ]
+    },
+    {
+      "id": "strange-scaffold-announces-gods-with-badges-a-tactics-game-w",
+      "titre": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam",
+      "url": "https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 13.2,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game",
+          "titre": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam"
         }
       ]
     },
@@ -329,7 +287,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.4,
       "chaleur": 5,
       "liens": [
         {
@@ -347,7 +305,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.5,
+      "heures": 20.4,
       "chaleur": 5,
       "liens": [
         {
@@ -365,7 +323,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.7,
+      "heures": 20.6,
       "chaleur": 5,
       "liens": [
         {
@@ -383,13 +341,49 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.7,
+      "heures": 30.6,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/video-dragons-dogma-2-side-by-side-graphics-comparison-switch-2-and-ps5",
           "titre": "Video: Dragon's Dogma 2 Side-By-Side Graphics Comparison (Switch 2 & PS5)"
+        }
+      ]
+    },
+    {
+      "id": "at-one-point-capcom-was-going-to-make-pragmata-a-little-bit",
+      "titre": "At One Point, Capcom Was Going To Make Pragmata \"A Little Bit More Horror Focused\"",
+      "url": "https://www.nintendolife.com/news/2026/10/at-one-point-capcom-was-going-to-make-pragmata-a-little-bit-more-horror-focused",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/at-one-point-capcom-was-going-to-make-pragmata-a-little-bit-more-horror-focused",
+          "titre": "At One Point, Capcom Was Going To Make Pragmata \"A Little Bit More Horror Focused\""
+        }
+      ]
+    },
+    {
+      "id": "psa-pok-mon-red-blue-game-boy-jukebox-back-in-stock",
+      "titre": "﻿﻿PSA: Pokémon Red & Blue Game Boy Jukebox Back In Stock",
+      "url": "https://www.nintendolife.com/news/2026/10/psa-pokemon-red-and-blue-game-boy-jukebox-back-in-stock",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/psa-pokemon-red-and-blue-game-boy-jukebox-back-in-stock",
+          "titre": "﻿﻿PSA: Pokémon Red & Blue Game Boy Jukebox Back In Stock"
         }
       ]
     },
@@ -401,7 +395,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -419,7 +413,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -437,8 +431,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -455,7 +449,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -473,7 +467,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
@@ -491,7 +485,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -509,7 +503,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -527,7 +521,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -545,7 +539,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.3,
       "chaleur": 3,
       "liens": [
         {
@@ -563,7 +557,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 17.0,
       "chaleur": 3,
       "liens": [
         {
@@ -581,7 +575,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -599,7 +593,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.3,
       "chaleur": 3,
       "liens": [
         {
@@ -617,7 +611,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -635,7 +629,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -653,7 +647,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.1,
+      "heures": 21.0,
       "chaleur": 3,
       "liens": [
         {
@@ -671,7 +665,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.2,
+      "heures": 21.2,
       "chaleur": 3,
       "liens": [
         {
@@ -689,7 +683,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.4,
       "chaleur": 3,
       "liens": [
         {
@@ -707,7 +701,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.4,
       "chaleur": 3,
       "liens": [
         {
@@ -725,7 +719,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 25.4,
       "chaleur": 3,
       "liens": [
         {
@@ -743,7 +737,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 25.4,
       "chaleur": 3,
       "liens": [
         {
@@ -761,7 +755,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 30.1,
+      "heures": 32.0,
       "chaleur": 3,
       "liens": [
         {
@@ -779,7 +773,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 30.7,
+      "heures": 32.7,
       "chaleur": 3,
       "liens": [
         {
@@ -797,49 +791,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 32.6,
+      "heures": 34.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/movies-tv/cyberpunk-2077-is-being-made-into-a-movie-even-though-weve-already-got-the-perfect-cyberpunk-movie-starring-keanu-reeves-as-a-guy-named-johnny/",
           "titre": "Cyberpunk 2077 is being made into a movie, even though we've already got the perfect cyberpunk movie starring Keanu Reeves as a guy named Johnny"
-        }
-      ]
-    },
-    {
-      "id": "after-modders-removed-skate-s-live-service-bits-devs-draw-th",
-      "titre": "After modders removed Skate's live service bits, devs draw the line with tools that \"bypass our systems to unlock paid cosmetics\"",
-      "url": "https://www.eurogamer.net/skate-mods-live-service-ea-unlock-paid-cosmetics",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 34.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/skate-mods-live-service-ea-unlock-paid-cosmetics",
-          "titre": "After modders removed Skate's live service bits, devs draw the line with tools that \"bypass our systems to unlock paid cosmetics\""
-        }
-      ]
-    },
-    {
-      "id": "don-t-worry-valve-i-ve-got-your-next-deadlock-character-conc",
-      "titre": "Don't worry, Valve: I've got your next Deadlock character concepts sorted",
-      "url": "https://www.pcgamer.com/games/moba/dont-worry-valve-ive-got-your-next-deadlock-character-concepts-sorted/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 34.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/moba/dont-worry-valve-ive-got-your-next-deadlock-character-concepts-sorted/",
-          "titre": "Don't worry, Valve: I've got your next Deadlock character concepts sorted"
         }
       ]
     }
