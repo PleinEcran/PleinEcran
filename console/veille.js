@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "11/10/2026 à 04h22",
+  "collecte": "11/10/2026 à 06h27",
   "seuil": 14,
   "sujets": [
     {
@@ -12,7 +12,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 4.8,
+      "heures": 6.9,
       "chaleur": 12,
       "liens": [
         {
@@ -36,7 +36,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 5.4,
+      "heures": 7.5,
       "chaleur": 10,
       "liens": [
         {
@@ -61,7 +61,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 18.4,
+      "heures": 20.5,
       "chaleur": 9,
       "liens": [
         {
@@ -91,7 +91,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 19.4,
+      "heures": 21.5,
       "chaleur": 9,
       "liens": [
         {
@@ -112,24 +112,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-2",
-      "titre": "Sonic Pico Park Brings Co-Op Action Puzzle Fun To Switch 1 & 2 Next Month",
-      "url": "https://www.nintendolife.com/news/2026/10/sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-and-2-next-month",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-and-2-next-month",
-          "titre": "Sonic Pico Park Brings Co-Op Action Puzzle Fun To Switch 1 & 2 Next Month"
-        }
-      ]
-    },
-    {
       "id": "oh-lord-now-those-gta-6-leakers-are-saying-if-enough-of-you",
       "titre": "Oh lord, now those GTA 6 leakers are saying if enough of you give them money they'll leak a playable build of the game",
       "url": "https://www.rockpapershotgun.com/oh-lord-now-those-gta-6-leakers-are-saying-if-enough-of-you-give-them-money-theyll-leak-a-playable-build-of-the-game",
@@ -137,55 +119,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 10.0,
       "chaleur": 7,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/oh-lord-now-those-gta-6-leakers-are-saying-if-enough-of-you-give-them-money-theyll-leak-a-playable-build-of-the-game",
           "titre": "Oh lord, now those GTA 6 leakers are saying if enough of you give them money they'll leak a playable build of the game"
-        }
-      ]
-    },
-    {
-      "id": "the-studio-behind-star-wars-zero-company-is-bringing-back-so",
-      "titre": "The studio behind Star Wars Zero Company is bringing back some of its furloughed staff",
-      "url": "https://www.pcgamer.com/games/strategy/the-studio-behind-star-wars-zero-company-is-hiring-back-some-of-its-furloughed-staff/",
-      "sources": [
-        "PC Gamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 11.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/the-studio-behind-star-wars-zero-company-is-hiring-back-some-of-its-furloughed-staff/",
-          "titre": "The studio behind Star Wars Zero Company is bringing back some of its furloughed staff"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/as-its-developer-recovers-star-wars-zero-company-reaches-one-million-copies-sold",
-          "titre": "As Its Developer Recovers, Star Wars Zero Company Reaches One Million Copies Sold"
-        }
-      ]
-    },
-    {
-      "id": "gears-of-war-e-day-reportedly-courts-over-1-7m-xbox-game-pas",
-      "titre": "Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch",
-      "url": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 34.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players",
-          "titre": "Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch"
         }
       ]
     },
@@ -226,27 +166,27 @@ const VEILLE = {
       ]
     },
     {
-      "id": "psa-pok-mon-red-blue-game-boy-jukebox-back-in-stock-on-the",
-      "titre": "﻿﻿PSA: Pokémon Red & Blue Game Boy Jukebox Back In Stock On The Pokémon Center",
-      "url": "https://www.nintendolife.com/news/2026/10/psa-pokemon-red-and-blue-game-boy-jukebox-back-in-stock-on-the-pokemon-center",
+      "id": "at-one-point-capcom-was-going-to-make-pragmata-a-little-bit",
+      "titre": "At One Point, Capcom Was Going To Make Pragmata \"A Little Bit More Horror Focused\"",
+      "url": "https://www.nintendolife.com/news/2026/10/at-one-point-capcom-was-going-to-make-pragmata-a-little-bit-more-horror-focused",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/psa-pokemon-red-and-blue-game-boy-jukebox-back-in-stock-on-the-pokemon-center",
-          "titre": "﻿﻿PSA: Pokémon Red & Blue Game Boy Jukebox Back In Stock On The Pokémon Center"
+          "url": "https://www.nintendolife.com/news/2026/10/at-one-point-capcom-was-going-to-make-pragmata-a-little-bit-more-horror-focused",
+          "titre": "At One Point, Capcom Was Going To Make Pragmata \"A Little Bit More Horror Focused\""
         }
       ]
     },
     {
-      "id": "dragon-ball-sparking-zero-announces-cross-play-in-new-road-m",
-      "titre": "Dragon Ball: Sparking! ZERO Announces Cross-Play In New Road Map",
-      "url": "https://www.nintendolife.com/news/2026/10/dragon-ball-sparking-zero-announces-cross-play-in-new-road-map",
+      "id": "psa-pok-mon-red-blue-game-boy-jukebox-back-in-stock",
+      "titre": "﻿﻿PSA: Pokémon Red & Blue Game Boy Jukebox Back In Stock",
+      "url": "https://www.nintendolife.com/news/2026/10/psa-pokemon-red-and-blue-game-boy-jukebox-back-in-stock",
       "sources": [
         "Nintendo Life"
       ],
@@ -256,8 +196,26 @@ const VEILLE = {
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/dragon-ball-sparking-zero-announces-cross-play-in-new-road-map",
-          "titre": "Dragon Ball: Sparking! ZERO Announces Cross-Play In New Road Map"
+          "url": "https://www.nintendolife.com/news/2026/10/psa-pokemon-red-and-blue-game-boy-jukebox-back-in-stock",
+          "titre": "﻿﻿PSA: Pokémon Red & Blue Game Boy Jukebox Back In Stock"
+        }
+      ]
+    },
+    {
+      "id": "sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-2",
+      "titre": "Sonic Pico Park Brings Co-Op Action Puzzle Fun To Switch 1 & 2 Next Month",
+      "url": "https://www.nintendolife.com/news/2026/10/sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-and-2-next-month",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-and-2-next-month",
+          "titre": "Sonic Pico Park Brings Co-Op Action Puzzle Fun To Switch 1 & 2 Next Month"
         }
       ]
     },
@@ -269,7 +227,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 8.0,
       "chaleur": 6,
       "liens": [
         {
@@ -287,7 +245,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.3,
       "chaleur": 6,
       "liens": [
         {
@@ -306,7 +264,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 14.4,
+      "heures": 16.5,
       "chaleur": 6,
       "liens": [
         {
@@ -330,7 +288,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 15.9,
+      "heures": 18.0,
       "chaleur": 6,
       "liens": [
         {
@@ -353,31 +311,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/will-gta-6-make-its-way-to-switch-2-nintendo-isnt-saying/",
           "titre": "Will GTA 6 make its way to Switch 2? Nintendo isn’t saying"
-        }
-      ]
-    },
-    {
-      "id": "rockstar-hr-manager-claims-he-had-little-interest-in-staff-s",
-      "titre": "Rockstar HR manager claims he had \"little interest\" in staff's union membership status as fired GTA dev union-busting trial heats up",
-      "url": "https://www.eurogamer.net/rockstar-employment-tribunal-hr-manager-little-interest-union",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/rockstar-employment-tribunal-hr-manager-little-interest-union",
-          "titre": "Rockstar HR manager claims he had \"little interest\" in staff's union membership status as fired GTA dev union-busting trial heats up"
         }
       ]
     },
@@ -389,7 +329,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.5,
       "chaleur": 5,
       "liens": [
         {
@@ -407,7 +347,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.5,
       "chaleur": 5,
       "liens": [
         {
@@ -425,7 +365,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 18.7,
       "chaleur": 5,
       "liens": [
         {
@@ -443,7 +383,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.6,
+      "heures": 28.7,
       "chaleur": 5,
       "liens": [
         {
@@ -454,20 +394,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "countdown-zelda-ocarina-of-time-dungeon-crawl-4-still-an-all",
-      "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #4 - Still An All-Timer",
-      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-4-still-an-all-timer",
+      "id": "dragon-ball-sparking-zero-announces-cross-play-in-new-road-m",
+      "titre": "Dragon Ball: Sparking! ZERO Announces Cross-Play In New Road Map",
+      "url": "https://www.nintendolife.com/news/2026/10/dragon-ball-sparking-zero-announces-cross-play-in-new-road-map",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 35.4,
-      "chaleur": 5,
+      "heures": 6.0,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-4-still-an-all-timer",
-          "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #4 - Still An All-Timer"
+          "url": "https://www.nintendolife.com/news/2026/10/dragon-ball-sparking-zero-announces-cross-play-in-new-road-map",
+          "titre": "Dragon Ball: Sparking! ZERO Announces Cross-Play In New Road Map"
         }
       ]
     },
@@ -479,7 +419,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -497,7 +437,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -515,8 +455,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -533,8 +473,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -551,13 +491,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/moba/deadlock-surpasses-team-fortress-2s-all-time-concurrent-player-count-peak-as-it-adds-a-chess-wizard/",
           "titre": "Deadlock surpasses Team Fortress 2's all-time concurrent player count peak as it adds a chess wizard"
+        }
+      ]
+    },
+    {
+      "id": "the-studio-behind-star-wars-zero-company-is-bringing-back-so",
+      "titre": "The studio behind Star Wars Zero Company is bringing back some of its furloughed staff",
+      "url": "https://www.pcgamer.com/games/strategy/the-studio-behind-star-wars-zero-company-is-hiring-back-some-of-its-furloughed-staff/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 13.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/the-studio-behind-star-wars-zero-company-is-hiring-back-some-of-its-furloughed-staff/",
+          "titre": "The studio behind Star Wars Zero Company is bringing back some of its furloughed staff"
         }
       ]
     },
@@ -569,8 +527,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 14.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -587,7 +545,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.3,
       "chaleur": 3,
       "liens": [
         {
@@ -605,7 +563,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 15.1,
       "chaleur": 3,
       "liens": [
         {
@@ -623,7 +581,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -641,7 +599,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.3,
       "chaleur": 3,
       "liens": [
         {
@@ -659,7 +617,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.5,
       "chaleur": 3,
       "liens": [
         {
@@ -677,7 +635,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.6,
       "chaleur": 3,
       "liens": [
         {
@@ -695,7 +653,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 19.1,
       "chaleur": 3,
       "liens": [
         {
@@ -713,7 +671,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.2,
+      "heures": 19.2,
       "chaleur": 3,
       "liens": [
         {
@@ -731,7 +689,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -749,7 +707,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -767,7 +725,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.5,
       "chaleur": 3,
       "liens": [
         {
@@ -785,7 +743,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.5,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +761,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 28.0,
+      "heures": 30.1,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +779,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 28.7,
+      "heures": 30.7,
       "chaleur": 3,
       "liens": [
         {
@@ -839,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 30.5,
+      "heures": 32.6,
       "chaleur": 3,
       "liens": [
         {
@@ -857,7 +815,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 32.1,
+      "heures": 34.2,
       "chaleur": 3,
       "liens": [
         {
@@ -875,85 +833,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 32.7,
+      "heures": 34.8,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/moba/dont-worry-valve-ive-got-your-next-deadlock-character-concepts-sorted/",
           "titre": "Don't worry, Valve: I've got your next Deadlock character concepts sorted"
-        }
-      ]
-    },
-    {
-      "id": "it-s-not-in-the-top-five-reference-points-afterworld-isn-t",
-      "titre": "\"It's not in the top five reference points\": Afterworld isn't just a Fallout grand strategy game, say Paradox, it owes a lot more to the Bronze Age",
-      "url": "https://www.rockpapershotgun.com/its-not-in-the-top-five-reference-points-afterworld-isnt-just-a-fallout-grand-strategy-game-says-paradox-it-owes-a-lot-more-to-the-bronze-age",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 35.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/its-not-in-the-top-five-reference-points-afterworld-isnt-just-a-fallout-grand-strategy-game-says-paradox-it-owes-a-lot-more-to-the-bronze-age",
-          "titre": "\"It's not in the top five reference points\": Afterworld isn't just a Fallout grand strategy game, say Paradox, it owes a lot more to the Bronze Age"
-        }
-      ]
-    },
-    {
-      "id": "ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after",
-      "titre": "Ubisoft to sunset Rainbow Six Mobile just seven months after launch",
-      "url": "https://www.gamedeveloper.com/mobile/ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after-launch",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/mobile/ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after-launch",
-          "titre": "Ubisoft to sunset Rainbow Six Mobile just seven months after launch"
-        }
-      ]
-    },
-    {
-      "id": "embrace-your-jobbing-musician-soul-with-a-new-cyberpunk-2077",
-      "titre": "Embrace your jobbing musician soul with a new Cyberpunk 2077 quest mod that comes with the option of playing all the wrong chords for Master of Puppets",
-      "url": "https://www.rockpapershotgun.com/embrace-your-jobbing-musician-soul-with-a-new-cyberpunk-2077-quest-mod-that-comes-with-the-option-of-playing-all-the-wrong-chords-for-master-of-puppets",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 35.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/embrace-your-jobbing-musician-soul-with-a-new-cyberpunk-2077-quest-mod-that-comes-with-the-option-of-playing-all-the-wrong-chords-for-master-of-puppets",
-          "titre": "Embrace your jobbing musician soul with a new Cyberpunk 2077 quest mod that comes with the option of playing all the wrong chords for Master of Puppets"
-        }
-      ]
-    },
-    {
-      "id": "crazy-taxi-world-tour-takes-you-to-brazil-as-another-locatio",
-      "titre": "Crazy Taxi: World Tour Takes You to Brazil as Another Location Is Revealed",
-      "url": "https://www.pushsquare.com/news/2026/10/crazy-taxi-world-tour-takes-you-to-brazil-as-another-location-is-revealed",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/crazy-taxi-world-tour-takes-you-to-brazil-as-another-location-is-revealed",
-          "titre": "Crazy Taxi: World Tour Takes You to Brazil as Another Location Is Revealed"
         }
       ]
     }
