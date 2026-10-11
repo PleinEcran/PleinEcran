@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "11/10/2026 à 14h21",
+  "collecte": "11/10/2026 à 16h21",
   "seuil": 14,
   "sujets": [
     {
@@ -12,8 +12,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 3.8,
-      "chaleur": 12,
+      "heures": 5.8,
+      "chaleur": 10,
       "liens": [
         {
           "source": "VGC",
@@ -28,6 +28,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "gta-6-leaker-cyberleek-is-back-with-another-video-and-this-t",
+      "titre": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked",
+      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 3.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
+          "titre": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked"
+        }
+      ]
+    },
+    {
       "id": "squadron-42-opens-for-steam-wishlisting-ahead-of-a-planned-q",
       "titre": "Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release",
       "url": "https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release",
@@ -36,8 +54,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 2.6,
-      "chaleur": 11,
+      "heures": 4.6,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
@@ -52,24 +70,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-leaker-cyberleek-is-back-with-another-video-and-this-t",
-      "titre": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked",
-      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
-          "titre": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked"
-        }
-      ]
-    },
-    {
       "id": "feature-how-do-you-pronounce-these-words-from-zelda-ocarina",
       "titre": "Feature: How Do You Pronounce These Words From Zelda: Ocarina Of Time?",
       "url": "https://www.nintendolife.com/features/how-do-you-pronounce-these-words-from-zelda-ocarina-of-time",
@@ -77,7 +77,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 8,
       "liens": [
         {
@@ -124,6 +124,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "rpgs-are-simply-better-when-you-re-an-idiot",
+      "titre": "RPGs are simply better when you're an idiot",
+      "url": "https://www.pcgamer.com/games/rpg/rpgs-are-simply-better-when-youre-an-idiot/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/rpgs-are-simply-better-when-youre-an-idiot/",
+          "titre": "RPGs are simply better when you're an idiot"
+        }
+      ]
+    },
+    {
+      "id": "escape-from-elohello-has-me-reliving-my-worst-online-pvp-nig",
+      "titre": "Escape from EloHello has me reliving my worst online PvP nightmares in roguelike-form",
+      "url": "https://www.pcgamer.com/games/roguelike/escape-from-elohello-has-me-reliving-my-worst-online-pvp-nightmares-in-roguelike-form/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/roguelike/escape-from-elohello-has-me-reliving-my-worst-online-pvp-nightmares-in-roguelike-form/",
+          "titre": "Escape from EloHello has me reliving my worst online PvP nightmares in roguelike-form"
+        }
+      ]
+    },
+    {
       "id": "this-control-inspired-action-game-set-in-a-planet-scale-alie",
       "titre": "This Control-inspired action game set in a 'planet-scale alien mind' has one of the most stunning art styles I've seen this year",
       "url": "https://www.pcgamer.com/games/action/this-control-inspired-action-game-set-in-a-planet-scale-alien-mind-has-one-of-the-most-stunning-art-styles-ive-seen-this-year/",
@@ -131,7 +167,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -149,7 +185,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -167,7 +203,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -185,7 +221,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -203,7 +239,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -221,7 +257,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -239,85 +275,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/sim/the-developer-of-an-ai-powered-driving-instruction-simulator-is-spending-usd1-000-per-month-just-to-keep-its-demo-running/",
           "titre": "The developer of an AI-powered driving instruction simulator is spending $1,000 per month just to keep its demo running"
-        }
-      ]
-    },
-    {
-      "id": "forza-horizon-6-will-have-a-physical-ps5-disc-but-there-s-a",
-      "titre": "Forza Horizon 6 Will Have a Physical PS5 Disc, But There's a Catch",
-      "url": "https://www.pushsquare.com/news/2026/10/forza-horizon-6-will-have-a-physical-ps5-disc-but-theres-a-catch",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/forza-horizon-6-will-have-a-physical-ps5-disc-but-theres-a-catch",
-          "titre": "Forza Horizon 6 Will Have a Physical PS5 Disc, But There's a Catch"
-        }
-      ]
-    },
-    {
-      "id": "phasmophobia-confirms-30-million-sales-as-its-crimson-eye-ha",
-      "titre": "Phasmophobia confirms 30 million sales as its Crimson Eye Halloween event returns",
-      "url": "https://www.eurogamer.net/phasmophobia-30-million-sales-crimson-eye-event",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/phasmophobia-30-million-sales-crimson-eye-event",
-          "titre": "Phasmophobia confirms 30 million sales as its Crimson Eye Halloween event returns"
-        }
-      ]
-    },
-    {
-      "id": "deadlock-s-city-never-sleeps-update-makes-valve-s-moba-my-fa",
-      "titre": "Deadlock's City Never Sleeps update makes Valve's MOBA my favorite videogame setting in years",
-      "url": "https://www.pcgamer.com/games/moba/deadlocks-city-never-sleeps-update-makes-valves-moba-my-favorite-videogame-setting-in-years/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/moba/deadlocks-city-never-sleeps-update-makes-valves-moba-my-favorite-videogame-setting-in-years/",
-          "titre": "Deadlock's City Never Sleeps update makes Valve's MOBA my favorite videogame setting in years"
-        }
-      ]
-    },
-    {
-      "id": "it-looks-like-wing-commander-3-is-getting-a-remaster-after-e",
-      "titre": "It looks like Wing Commander 3 is getting a remaster, after EA producer discovers the original FMV source tapes in the company's archives",
-      "url": "https://www.pcgamer.com/games/sim/it-looks-like-wing-commander-3-is-getting-a-remaster-after-ea-producer-discovers-the-original-fmv-source-tapes-in-the-companys-archives/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/it-looks-like-wing-commander-3-is-getting-a-remaster-after-ea-producer-discovers-the-original-fmv-source-tapes-in-the-companys-archives/",
-          "titre": "It looks like Wing Commander 3 is getting a remaster, after EA producer discovers the original FMV source tapes in the company's archives"
         }
       ]
     },
@@ -329,61 +293,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 20.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/oh-lord-now-those-gta-6-leakers-are-saying-if-enough-of-you-give-them-money-theyll-leak-a-playable-build-of-the-game",
           "titre": "Oh lord, now those GTA 6 leakers are saying if enough of you give them money they'll leak a playable build of the game"
-        }
-      ]
-    },
-    {
-      "id": "tekken-8-s-reina-officially-announced-as-fatal-fury-ps5-s-ne",
-      "titre": "Tekken 8's Reina Officially Announced as Fatal Fury PS5's Next Challenger",
-      "url": "https://www.pushsquare.com/news/2026/10/tekken-8s-reina-officially-announced-as-fatal-fury-ps5s-next-challenger",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 24.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/tekken-8s-reina-officially-announced-as-fatal-fury-ps5s-next-challenger",
-          "titre": "Tekken 8's Reina Officially Announced as Fatal Fury PS5's Next Challenger"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/fatal-fury-city-of-the-wolves-announces-tekken-collab",
-          "titre": "Fatal Fury: City Of The Wolves Announces Tekken Collab"
-        }
-      ]
-    },
-    {
-      "id": "expect-plenty-more-silent-hill-over-the-next-few-years-as-ko",
-      "titre": "Expect plenty more Silent Hill over the next few years, as Konami has plans for 'second and third waves' of new games in its revived horror series",
-      "url": "https://www.pcgamer.com/games/horror/expect-plenty-more-silent-hill-over-the-next-few-years-as-konami-has-plans-for-second-and-third-waves-of-new-games-in-its-revived-horror-series/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 25.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/expect-plenty-more-silent-hill-over-the-next-few-years-as-konami-has-plans-for-second-and-third-waves-of-new-games-in-its-revived-horror-series/",
-          "titre": "Expect plenty more Silent Hill over the next few years, as Konami has plans for 'second and third waves' of new games in its revived horror series"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto",
-          "titre": "Konami is already thinking about the next wave of Silent Hill games"
         }
       ]
     },
@@ -395,7 +311,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 26.2,
+      "heures": 28.2,
       "chaleur": 6,
       "liens": [
         {
@@ -414,7 +330,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 28.4,
+      "heures": 30.4,
       "chaleur": 6,
       "liens": [
         {
@@ -438,7 +354,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 29.4,
+      "heures": 31.4,
       "chaleur": 6,
       "liens": [
         {
@@ -461,7 +377,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.6,
       "chaleur": 5,
       "liens": [
         {
@@ -479,7 +395,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 5,
       "liens": [
         {
@@ -497,7 +413,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.2,
+      "heures": 21.2,
       "chaleur": 5,
       "liens": [
         {
@@ -515,7 +431,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 26.4,
       "chaleur": 5,
       "liens": [
         {
@@ -533,7 +449,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.4,
+      "heures": 28.4,
       "chaleur": 5,
       "liens": [
         {
@@ -551,13 +467,85 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.6,
+      "heures": 28.6,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
           "titre": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game"
+        }
+      ]
+    },
+    {
+      "id": "forza-horizon-6-will-have-a-physical-ps5-disc-but-there-s-a",
+      "titre": "Forza Horizon 6 Will Have a Physical PS5 Disc, But There's a Catch",
+      "url": "https://www.pushsquare.com/news/2026/10/forza-horizon-6-will-have-a-physical-ps5-disc-but-theres-a-catch",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/forza-horizon-6-will-have-a-physical-ps5-disc-but-theres-a-catch",
+          "titre": "Forza Horizon 6 Will Have a Physical PS5 Disc, But There's a Catch"
+        }
+      ]
+    },
+    {
+      "id": "phasmophobia-confirms-30-million-sales-as-its-crimson-eye-ha",
+      "titre": "Phasmophobia confirms 30 million sales as its Crimson Eye Halloween event returns",
+      "url": "https://www.eurogamer.net/phasmophobia-30-million-sales-crimson-eye-event",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/phasmophobia-30-million-sales-crimson-eye-event",
+          "titre": "Phasmophobia confirms 30 million sales as its Crimson Eye Halloween event returns"
+        }
+      ]
+    },
+    {
+      "id": "deadlock-s-city-never-sleeps-update-makes-valve-s-moba-my-fa",
+      "titre": "Deadlock's City Never Sleeps update makes Valve's MOBA my favorite videogame setting in years",
+      "url": "https://www.pcgamer.com/games/moba/deadlocks-city-never-sleeps-update-makes-valves-moba-my-favorite-videogame-setting-in-years/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/deadlocks-city-never-sleeps-update-makes-valves-moba-my-favorite-videogame-setting-in-years/",
+          "titre": "Deadlock's City Never Sleeps update makes Valve's MOBA my favorite videogame setting in years"
+        }
+      ]
+    },
+    {
+      "id": "it-looks-like-wing-commander-3-is-getting-a-remaster-after-e",
+      "titre": "It looks like Wing Commander 3 is getting a remaster, after EA producer discovers the original FMV source tapes in the company's archives",
+      "url": "https://www.pcgamer.com/games/sim/it-looks-like-wing-commander-3-is-getting-a-remaster-after-ea-producer-discovers-the-original-fmv-source-tapes-in-the-companys-archives/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/it-looks-like-wing-commander-3-is-getting-a-remaster-after-ea-producer-discovers-the-original-fmv-source-tapes-in-the-companys-archives/",
+          "titre": "It looks like Wing Commander 3 is getting a remaster, after EA producer discovers the original FMV source tapes in the company's archives"
         }
       ]
     },
@@ -569,7 +557,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -587,7 +575,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -605,7 +593,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -623,8 +611,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -641,8 +629,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 13.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -659,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -677,7 +665,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -695,7 +683,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.4,
       "chaleur": 3,
       "liens": [
         {
@@ -713,7 +701,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.5,
+      "heures": 22.5,
       "chaleur": 3,
       "liens": [
         {
@@ -731,7 +719,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.3,
       "chaleur": 3,
       "liens": [
         {
@@ -749,7 +737,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.4,
       "chaleur": 3,
       "liens": [
         {
@@ -767,7 +755,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.5,
       "chaleur": 3,
       "liens": [
         {
@@ -785,7 +773,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 23.9,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +791,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.2,
+      "heures": 24.2,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +809,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 23.0,
+      "heures": 25.0,
       "chaleur": 3,
       "liens": [
         {
@@ -839,7 +827,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.4,
       "chaleur": 3,
       "liens": [
         {
@@ -857,13 +845,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.2,
+      "heures": 26.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/puzzle/triple-a-minesweeper-is-a-gleeful-send-up-of-blockbuster-gamings-worst-habits-from-yellow-paint-to-characters-who-talk-too-much/",
           "titre": "Triple-A Minesweeper is a gleeful send-up of blockbuster gaming's worst habits, from yellow paint to characters who talk too much"
+        }
+      ]
+    },
+    {
+      "id": "tekken-8-s-reina-officially-announced-as-fatal-fury-ps5-s-ne",
+      "titre": "Tekken 8's Reina Officially Announced as Fatal Fury PS5's Next Challenger",
+      "url": "https://www.pushsquare.com/news/2026/10/tekken-8s-reina-officially-announced-as-fatal-fury-ps5s-next-challenger",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 26.4,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/tekken-8s-reina-officially-announced-as-fatal-fury-ps5s-next-challenger",
+          "titre": "Tekken 8's Reina Officially Announced as Fatal Fury PS5's Next Challenger"
         }
       ]
     },
@@ -875,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 26.4,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +899,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 27.5,
       "chaleur": 3,
       "liens": [
         {
@@ -911,31 +917,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.0,
+      "heures": 29.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/arc-raiders-pve-pvp-split-possible-executive-producer",
           "titre": "Arc Raiders could eventually be split into PvE and PvP, says executive producer"
-        }
-      ]
-    },
-    {
-      "id": "if-you-re-skilful-enough-you-can-chop-the-head-off-a-monste",
-      "titre": "'If you're skilful enough, you can chop the head off a monster, kick it midair, and then kill another monster with it': Consider me sold on this indie first-person ARPG",
-      "url": "https://www.pcgamer.com/games/rpg/if-youre-skilful-enough-you-can-chop-the-head-off-a-monster-kick-it-midair-and-then-kill-another-monster-with-it-consider-me-sold-on-this-indie-first-person-arpg/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 27.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/if-youre-skilful-enough-you-can-chop-the-head-off-a-monster-kick-it-midair-and-then-kill-another-monster-with-it-consider-me-sold-on-this-indie-first-person-arpg/",
-          "titre": "'If you're skilful enough, you can chop the head off a monster, kick it midair, and then kill another monster with it': Consider me sold on this indie first-person ARPG"
         }
       ]
     },
@@ -947,13 +935,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 29.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/guides/these-30plus-ps5-games-are-coming-out-next-week-12th-18th-october",
           "titre": "Guide: These 30+ PS5 Games Are Coming Out Next Week (12th-18th October)"
+        }
+      ]
+    },
+    {
+      "id": "konami-is-already-thinking-about-the-next-wave-of-silent-hil",
+      "titre": "Konami is already thinking about the next wave of Silent Hill games",
+      "url": "https://www.eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 29.7,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto",
+          "titre": "Konami is already thinking about the next wave of Silent Hill games"
         }
       ]
     },
@@ -965,7 +971,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.4,
+      "heures": 33.4,
       "chaleur": 3,
       "liens": [
         {
@@ -983,7 +989,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.4,
+      "heures": 33.4,
       "chaleur": 3,
       "liens": [
         {
