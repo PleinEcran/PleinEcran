@@ -1,8 +1,32 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "12/10/2026 à 10h25",
+  "collecte": "12/10/2026 à 12h41",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "group-behind-gta-6-leaks-threatens-to-release-alleged-full-b",
+      "titre": "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode",
+      "url": "https://www.gamesindustry.biz/group-behind-gta-6-leaks-threatens-to-release-alleged-full-build-of-game-including-story-mode",
+      "sources": [
+        "GamesIndustry.biz",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 2.1,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/group-behind-gta-6-leaks-threatens-to-release-alleged-full-build-of-game-including-story-mode",
+          "titre": "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/group-threatens-to-leak-full-gta-6-build-if-physical-plans-arent-reversed/",
+          "titre": "Group threatens to leak ‘full’ GTA 6 build if physical plans aren’t reversed"
+        }
+      ]
+    },
     {
       "id": "marvel-tokon-s-year-one-dlc-roster-confirmed-including-venom",
       "titre": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee",
@@ -13,7 +37,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 0.4,
+      "heures": 2.6,
       "chaleur": 12,
       "liens": [
         {
@@ -34,6 +58,114 @@ const VEILLE = {
       ]
     },
     {
+      "id": "nintendo-executive-confirms-company-has-no-plans-to-ditch-ph",
+      "titre": "Nintendo executive confirms company has \"no plans to ditch physical games\"",
+      "url": "https://www.eurogamer.net/nintendo-executive-confirms-company-has-no-plans-to-ditch-physical-games",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 0.7,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/nintendo-executive-confirms-company-has-no-plans-to-ditch-physical-games",
+          "titre": "Nintendo executive confirms company has \"no plans to ditch physical games\""
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-states-that-it-has-no-plans-to-ditch-physical-media",
+          "titre": "Nintendo States That It Has No Plans To Ditch Physical Media"
+        }
+      ]
+    },
+    {
+      "id": "star-citizen-singleplayer-spinoff-squadron-42-gets-a-steam-p",
+      "titre": "Star Citizen singleplayer spinoff Squadron 42 gets a Steam page ahead of its 2027 launch, and this is how I've learned about 50 million famous actors are in it",
+      "url": "https://www.rockpapershotgun.com/star-citizen-singleplayer-spinoff-squadron-42-gets-a-steam-page-ahead-of-its-2027-launch-and-this-is-how-ive-learned-about-50-million-famous-actors-are-in-it",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 1.0,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/star-citizen-singleplayer-spinoff-squadron-42-gets-a-steam-page-ahead-of-its-2027-launch-and-this-is-how-ive-learned-about-50-million-famous-actors-are-in-it",
+          "titre": "Star Citizen singleplayer spinoff Squadron 42 gets a Steam page ahead of its 2027 launch, and this is how I've learned about 50 million famous actors are in it"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release",
+          "titre": "Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release"
+        }
+      ]
+    },
+    {
+      "id": "for-the-second-time-this-year-steam-has-set-a-major-new-conc",
+      "titre": "For the second time this year, Steam has set a major new concurrent user record",
+      "url": "https://www.eurogamer.net/steam-new-user-concurrent-record-october-2026",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.1,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/steam-new-user-concurrent-record-october-2026",
+          "titre": "For the second time this year, Steam has set a major new concurrent user record"
+        }
+      ]
+    },
+    {
+      "id": "it-s-truly-astonishing-dragon-quest-creator-yuji-horii-made",
+      "titre": "\"It's Truly Astonishing\" - Dragon Quest Creator Yuji Horii Made An AI-Generated Game In 30 Minutes",
+      "url": "https://www.nintendolife.com/news/2026/10/its-truly-astonishing-dragon-quest-creator-yuji-horii-made-an-ai-generated-game-in-30-minutes",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.7,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/its-truly-astonishing-dragon-quest-creator-yuji-horii-made-an-ai-generated-game-in-30-minutes",
+          "titre": "\"It's Truly Astonishing\" - Dragon Quest Creator Yuji Horii Made An AI-Generated Game In 30 Minutes"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-lastest-game-from-the-creator-of-dragon-quest-was-made-in-about-30-minutes-with-ai/",
+          "titre": "The latest game from the creator of Dragon Quest was made in ‘about 30 minutes’ with AI"
+        }
+      ]
+    },
+    {
+      "id": "here-come-the-weird-and-wonderful-mods-for-the-steam-frame-a",
+      "titre": "Here come the weird and wonderful mods for the Steam Frame, as Valve drops the full CAD files for free",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/",
+          "titre": "Here come the weird and wonderful mods for the Steam Frame, as Valve drops the full CAD files for free"
+        }
+      ]
+    },
+    {
       "id": "upcoming-resident-evil-remakes-have-pretty-tiny-file-sizes-o",
       "titre": "Upcoming Resident Evil Remakes Have Pretty Tiny File Sizes On Switch 2",
       "url": "https://www.nintendolife.com/news/2026/10/upcoming-resident-evil-remakes-have-pretty-tiny-file-sizes-on-switch-2",
@@ -41,31 +173,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 3.2,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/upcoming-resident-evil-remakes-have-pretty-tiny-file-sizes-on-switch-2",
           "titre": "Upcoming Resident Evil Remakes Have Pretty Tiny File Sizes On Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-states-that-it-has-no-plans-to-ditch-physical-media",
-      "titre": "Nintendo States That It Has No Plans To Ditch Physical Media",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-states-that-it-has-no-plans-to-ditch-physical-media",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-states-that-it-has-no-plans-to-ditch-physical-media",
-          "titre": "Nintendo States That It Has No Plans To Ditch Physical Media"
         }
       ]
     },
@@ -106,6 +220,168 @@ const VEILLE = {
       ]
     },
     {
+      "id": "dd2-dark-arisen-all-obelisk-locations-to-upgrade-vocations",
+      "titre": "DD2 Dark Arisen: All Obelisk locations to upgrade Vocations",
+      "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-obelisk-locations-to-upgrade-vocations/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-obelisk-locations-to-upgrade-vocations/",
+          "titre": "DD2 Dark Arisen: All Obelisk locations to upgrade Vocations"
+        }
+      ]
+    },
+    {
+      "id": "this-week-in-pc-games-play-a-human-eating-katamari-from-oute",
+      "titre": "This week in PC games: play a human-eating Katamari from outer space, take over a nature reserve in Planet Zoo 2, and battle Napoleonic body horror in Valor Mortis",
+      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-play-a-human-eating-katamari-from-outer-space-take-over-a-nature-reserve-in-planet-zoo-2-and-battle-napoleonic-body-horror-in-valor-mortis",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-play-a-human-eating-katamari-from-outer-space-take-over-a-nature-reserve-in-planet-zoo-2-and-battle-napoleonic-body-horror-in-valor-mortis",
+          "titre": "This week in PC games: play a human-eating Katamari from outer space, take over a nature reserve in Planet Zoo 2, and battle Napoleonic body horror in Valor Mortis"
+        }
+      ]
+    },
+    {
+      "id": "sonic-racing-crossworlds-players-demand-year-2-for-free-afte",
+      "titre": "Sonic Racing CrossWorlds players demand Year 2 for free after noting the Digital Deluxe Edition promised ‘all future paid DLC’",
+      "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-players-demand-year-2-for-free-after-noting-the-digital-deluxe-edition-promised-all-future-paid-dlc/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-players-demand-year-2-for-free-after-noting-the-digital-deluxe-edition-promised-all-future-paid-dlc/",
+          "titre": "Sonic Racing CrossWorlds players demand Year 2 for free after noting the Digital Deluxe Edition promised ‘all future paid DLC’"
+        }
+      ]
+    },
+    {
+      "id": "protect-your-iphone-18-pro-with-striking-yoji-shinkawa-art-c",
+      "titre": "Protect Your iPhone 18 Pro with Striking Yoji Shinkawa Art Courtesy of Kojima Casetify Collab",
+      "url": "https://www.pushsquare.com/news/2026/10/protect-your-iphone-18-pro-with-striking-yoji-shinkawa-art-courtesy-of-kojima-casetify-collab",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/protect-your-iphone-18-pro-with-striking-yoji-shinkawa-art-courtesy-of-kojima-casetify-collab",
+          "titre": "Protect Your iPhone 18 Pro with Striking Yoji Shinkawa Art Courtesy of Kojima Casetify Collab"
+        }
+      ]
+    },
+    {
+      "id": "your-washing-machine-is-subject-to-more-safety-rules-than-a",
+      "titre": "'Your washing machine is subject to more safety rules than AI' says Microsoft president",
+      "url": "https://www.pcgamer.com/software/ai/your-washing-machine-is-subject-to-more-safety-rules-than-ai-says-microsoft-president/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/your-washing-machine-is-subject-to-more-safety-rules-than-ai-says-microsoft-president/",
+          "titre": "'Your washing machine is subject to more safety rules than AI' says Microsoft president"
+        }
+      ]
+    },
+    {
+      "id": "gears-of-war-e-day-server-crashes-and-login-problems-are-bec",
+      "titre": "Gears of War: E-Day server crashes and login problems are because of DDoS attacks, studio says",
+      "url": "https://www.eurogamer.net/gears-of-war-e-day-server-crashes-login-issues-ddos",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gears-of-war-e-day-server-crashes-login-issues-ddos",
+          "titre": "Gears of War: E-Day server crashes and login problems are because of DDoS attacks, studio says"
+        }
+      ]
+    },
+    {
+      "id": "guide-these-30-ps5-games-are-coming-out-this-week-12th-18th",
+      "titre": "Guide: These 30+ PS5 Games Are Coming Out This Week (12th-18th October)",
+      "url": "https://www.pushsquare.com/guides/these-30plus-ps5-games-are-coming-out-this-week-12th-18th-october",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-30plus-ps5-games-are-coming-out-this-week-12th-18th-october",
+          "titre": "Guide: These 30+ PS5 Games Are Coming Out This Week (12th-18th October)"
+        }
+      ]
+    },
+    {
+      "id": "someone-s-found-out-how-to-unlock-f-zero-gx-s-five-golden-ca",
+      "titre": "Someone’s found out how to unlock F-Zero GX’s five golden cars, previously only available through Japan special events",
+      "url": "https://www.videogameschronicle.com/news/someones-found-out-how-to-unlock-f-zero-gxs-five-golden-cars-previously-only-available-through-japan-special-events/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/someones-found-out-how-to-unlock-f-zero-gxs-five-golden-cars-previously-only-available-through-japan-special-events/",
+          "titre": "Someone’s found out how to unlock F-Zero GX’s five golden cars, previously only available through Japan special events"
+        }
+      ]
+    },
+    {
+      "id": "the-algorithm-continues-to-properly-prioritise-mister-biddy",
+      "titre": "'The algorithm continues to properly prioritise Mister Biddy Blas'—Star Wars: Galactic Racer has created the perfect creature",
+      "url": "https://www.pcgamer.com/games/racing/the-algorithm-continues-to-properly-prioritise-mister-biddy-blas-star-wars-galactic-racer-has-created-the-perfect-creature/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/racing/the-algorithm-continues-to-properly-prioritise-mister-biddy-blas-star-wars-galactic-racer-has-created-the-perfect-creature/",
+          "titre": "'The algorithm continues to properly prioritise Mister Biddy Blas'—Star Wars: Galactic Racer has created the perfect creature"
+        }
+      ]
+    },
+    {
       "id": "how-to-turn-off-your-backpack-light-in-arc-raiders",
       "titre": "How to turn off your backpack light in Arc Raiders",
       "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-backpack-light-toggle/",
@@ -113,7 +389,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -131,7 +407,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -149,31 +425,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-lead-actor-will-de-renzy-martin-ai-voiceover",
           "titre": "The Blood of Dawnwalker's lead actor reminds us why AI will always struggle to replicate a human performance"
-        }
-      ]
-    },
-    {
-      "id": "the-latest-game-from-the-creator-of-dragon-quest-was-made-in",
-      "titre": "The latest game from the creator of Dragon Quest was made in ‘about 30 minutes’ with AI",
-      "url": "https://www.videogameschronicle.com/news/the-lastest-game-from-the-creator-of-dragon-quest-was-made-in-about-30-minutes-with-ai/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 0.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-lastest-game-from-the-creator-of-dragon-quest-was-made-in-about-30-minutes-with-ai/",
-          "titre": "The latest game from the creator of Dragon Quest was made in ‘about 30 minutes’ with AI"
         }
       ]
     },
@@ -185,7 +443,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -203,7 +461,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -221,7 +479,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -239,7 +497,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -257,49 +515,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/strategy/shogun-2-deserved-better/",
           "titre": "Shogun 2 deserved better"
-        }
-      ]
-    },
-    {
-      "id": "dmz-for-call-of-duty-modern-warfare-4-being-released-early-b",
-      "titre": "DMZ for Call of Duty: Modern Warfare 4 being released early, but Infinity Ward shoots down PvE hopes",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-early-access-no-pve",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 1.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-early-access-no-pve",
-          "titre": "DMZ for Call of Duty: Modern Warfare 4 being released early, but Infinity Ward shoots down PvE hopes"
-        }
-      ]
-    },
-    {
-      "id": "bafta-awards-over-270-000-to-112-recipients-in-uk-and-us-to",
-      "titre": "BAFTA awards over £270,000 to 112 recipients in UK and US to support career growth in games, film, and TV",
-      "url": "https://www.gamesindustry.biz/bafta-awards-over-270000-to-112-recipients-in-uk-and-us-to-support-career-growth-in-games-film-and-tv",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/bafta-awards-over-270000-to-112-recipients-in-uk-and-us-to-support-career-growth-in-games-film-and-tv",
-          "titre": "BAFTA awards over £270,000 to 112 recipients in UK and US to support career growth in games, film, and TV"
         }
       ]
     },
@@ -311,7 +533,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.7,
       "chaleur": 6,
       "liens": [
         {
@@ -329,31 +551,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.0,
+      "heures": 24.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
           "titre": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked"
-        }
-      ]
-    },
-    {
-      "id": "group-threatens-to-leak-full-gta-6-build-if-physical-plans-a",
-      "titre": "Group threatens to leak ‘full’ GTA 6 build if physical plans aren’t reversed",
-      "url": "https://www.videogameschronicle.com/news/group-threatens-to-leak-full-gta-6-build-if-physical-plans-arent-reversed/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 23.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/group-threatens-to-leak-full-gta-6-build-if-physical-plans-arent-reversed/",
-          "titre": "Group threatens to leak ‘full’ GTA 6 build if physical plans aren’t reversed"
         }
       ]
     },
@@ -365,31 +569,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.7,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/how-do-you-pronounce-these-words-from-zelda-ocarina-of-time",
           "titre": "Feature: How Do You Pronounce These Words From Zelda: Ocarina Of Time?"
-        }
-      ]
-    },
-    {
-      "id": "squadron-42-opens-for-steam-wishlisting-ahead-of-a-planned-q",
-      "titre": "Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release",
-      "url": "https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 22.7,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release",
-          "titre": "Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release"
         }
       ]
     },
@@ -401,7 +587,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 32.7,
+      "heures": 34.9,
       "chaleur": 5,
       "liens": [
         {
@@ -412,20 +598,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "playstation-hardware-sales-hit-lowest-point-since-2013-in-us",
-      "titre": "PlayStation Hardware Sales Hit Lowest Point Since 2013 in US, and PS5's Price Is the Problem",
-      "url": "https://www.pushsquare.com/news/2026/10/playstation-hardware-sales-hit-lowest-point-since-2013-in-us-and-ps5s-price-is-the-problem",
+      "id": "dmz-for-call-of-duty-modern-warfare-4-being-released-early-b",
+      "titre": "DMZ for Call of Duty: Modern Warfare 4 being released early, but Infinity Ward shoots down PvE hopes",
+      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-early-access-no-pve",
       "sources": [
-        "Push Square"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 35.4,
-      "chaleur": 5,
+      "heures": 4.1,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/playstation-hardware-sales-hit-lowest-point-since-2013-in-us-and-ps5s-price-is-the-problem",
-          "titre": "PlayStation Hardware Sales Hit Lowest Point Since 2013 in US, and PS5's Price Is the Problem"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-early-access-no-pve",
+          "titre": "DMZ for Call of Duty: Modern Warfare 4 being released early, but Infinity Ward shoots down PvE hopes"
+        }
+      ]
+    },
+    {
+      "id": "bafta-awards-over-270-000-to-112-recipients-in-uk-and-us-to",
+      "titre": "BAFTA awards over £270,000 to 112 recipients in UK and US to support career growth in games, film, and TV",
+      "url": "https://www.gamesindustry.biz/bafta-awards-over-270000-to-112-recipients-in-uk-and-us-to-support-career-growth-in-games-film-and-tv",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/bafta-awards-over-270000-to-112-recipients-in-uk-and-us-to-support-career-growth-in-games-film-and-tv",
+          "titre": "BAFTA awards over £270,000 to 112 recipients in UK and US to support career growth in games, film, and TV"
         }
       ]
     },
@@ -437,7 +641,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -455,7 +659,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -473,8 +677,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -491,8 +695,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -509,8 +713,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 14.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -527,7 +731,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.2,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -545,7 +749,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.6,
       "chaleur": 3,
       "liens": [
         {
@@ -563,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.7,
       "chaleur": 3,
       "liens": [
         {
@@ -581,31 +785,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.7,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/roguelike/escape-from-elohello-has-me-reliving-my-worst-online-pvp-nightmares-in-roguelike-form/",
           "titre": "Escape from EloHello has me reliving my worst online PvP nightmares in roguelike-form"
-        }
-      ]
-    },
-    {
-      "id": "this-control-inspired-action-game-set-in-a-planet-scale-alie",
-      "titre": "This Control-inspired action game set in a 'planet-scale alien mind' has one of the most stunning art styles I've seen this year",
-      "url": "https://www.pcgamer.com/games/action/this-control-inspired-action-game-set-in-a-planet-scale-alien-mind-has-one-of-the-most-stunning-art-styles-ive-seen-this-year/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/this-control-inspired-action-game-set-in-a-planet-scale-alien-mind-has-one-of-the-most-stunning-art-styles-ive-seen-this-year/",
-          "titre": "This Control-inspired action game set in a 'planet-scale alien mind' has one of the most stunning art styles I've seen this year"
         }
       ]
     },
@@ -617,7 +803,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.7,
+      "heures": 22.9,
       "chaleur": 3,
       "liens": [
         {
@@ -635,49 +821,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.2,
+      "heures": 23.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/we-didnt-expect-this-gran-turismo-7-continuing-to-sell-very-well-on-ps5",
           "titre": "'We Didn't Expect This': Gran Turismo 7 Continuing to 'Sell Very Well' on PS5"
-        }
-      ]
-    },
-    {
-      "id": "i-m-the-type-of-player-who-loves-to-100-a-game-sungwon-cho",
-      "titre": "'I'm the type of player who loves to 100% a game': SungWon Cho on achievement hunting, why he doesn’t like multiplayer games, and the one Balatro joker that nearly drove him to despair",
-      "url": "https://www.pcgamer.com/gaming-industry/im-the-type-of-player-who-loves-to-100-percent-a-game-sungwon-cho-on-achievement-hunting-why-he-doesnt-like-multiplayer-games-and-the-one-balatro-joker-that-nearly-drove-him-to-despair/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/im-the-type-of-player-who-loves-to-100-percent-a-game-sungwon-cho-on-achievement-hunting-why-he-doesnt-like-multiplayer-games-and-the-one-balatro-joker-that-nearly-drove-him-to-despair/",
-          "titre": "'I'm the type of player who loves to 100% a game': SungWon Cho on achievement hunting, why he doesn’t like multiplayer games, and the one Balatro joker that nearly drove him to despair"
-        }
-      ]
-    },
-    {
-      "id": "the-developer-of-an-ai-powered-driving-instruction-simulator",
-      "titre": "The developer of an AI-powered driving instruction simulator is spending $1,000 per month just to keep its demo running",
-      "url": "https://www.pcgamer.com/games/sim/the-developer-of-an-ai-powered-driving-instruction-simulator-is-spending-usd1-000-per-month-just-to-keep-its-demo-running/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/the-developer-of-an-ai-powered-driving-instruction-simulator-is-spending-usd1-000-per-month-just-to-keep-its-demo-running/",
-          "titre": "The developer of an AI-powered driving instruction simulator is spending $1,000 per month just to keep its demo running"
         }
       ]
     },
@@ -689,7 +839,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.2,
+      "heures": 24.4,
       "chaleur": 3,
       "liens": [
         {
@@ -707,7 +857,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 24.6,
       "chaleur": 3,
       "liens": [
         {
@@ -725,7 +875,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 26.7,
       "chaleur": 3,
       "liens": [
         {
@@ -743,7 +893,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.7,
       "chaleur": 3,
       "liens": [
         {
@@ -761,7 +911,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 27.7,
       "chaleur": 3,
       "liens": [
         {
@@ -779,7 +929,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.2,
+      "heures": 32.4,
       "chaleur": 3,
       "liens": [
         {
@@ -797,31 +947,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.8,
+      "heures": 34.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/psa-pokemon-red-and-blue-game-boy-jukebox-back-in-stock",
           "titre": "﻿﻿PSA: Pokémon Red & Blue Game Boy Jukebox Back In Stock"
-        }
-      ]
-    },
-    {
-      "id": "dragon-ball-sparking-zero-announces-cross-play-in-new-road-m",
-      "titre": "Dragon Ball: Sparking! ZERO Announces Cross-Play In New Road Map",
-      "url": "https://www.nintendolife.com/news/2026/10/dragon-ball-sparking-zero-announces-cross-play-in-new-road-map",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 33.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/dragon-ball-sparking-zero-announces-cross-play-in-new-road-map",
-          "titre": "Dragon Ball: Sparking! ZERO Announces Cross-Play In New Road Map"
         }
       ]
     }
