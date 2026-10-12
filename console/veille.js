@@ -1,8 +1,74 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "12/10/2026 à 08h27",
+  "collecte": "12/10/2026 à 10h25",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "marvel-tokon-s-year-one-dlc-roster-confirmed-including-venom",
+      "titre": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee",
+      "url": "https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 0.4,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/",
+          "titre": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops",
+          "titre": "Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/jane-foster-venom-jubilee-join-marvel-tokon-in-year-1-on-ps5",
+          "titre": "Jane Foster, Venom, Jubilee Join Marvel Tokon in Year 1 on PS5"
+        }
+      ]
+    },
+    {
+      "id": "upcoming-resident-evil-remakes-have-pretty-tiny-file-sizes-o",
+      "titre": "Upcoming Resident Evil Remakes Have Pretty Tiny File Sizes On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/upcoming-resident-evil-remakes-have-pretty-tiny-file-sizes-on-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/upcoming-resident-evil-remakes-have-pretty-tiny-file-sizes-on-switch-2",
+          "titre": "Upcoming Resident Evil Remakes Have Pretty Tiny File Sizes On Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-states-that-it-has-no-plans-to-ditch-physical-media",
+      "titre": "Nintendo States That It Has No Plans To Ditch Physical Media",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-states-that-it-has-no-plans-to-ditch-physical-media",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-states-that-it-has-no-plans-to-ditch-physical-media",
+          "titre": "Nintendo States That It Has No Plans To Ditch Physical Media"
+        }
+      ]
+    },
     {
       "id": "game-conference-mx-gcmx",
       "titre": "Game Conference MX (GCMX)",
@@ -40,6 +106,186 @@ const VEILLE = {
       ]
     },
     {
+      "id": "how-to-turn-off-your-backpack-light-in-arc-raiders",
+      "titre": "How to turn off your backpack light in Arc Raiders",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-backpack-light-toggle/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-backpack-light-toggle/",
+          "titre": "How to turn off your backpack light in Arc Raiders"
+        }
+      ]
+    },
+    {
+      "id": "random-sonic-figure-containing-the-blue-blur-s-dna-comes-wit",
+      "titre": "Random: Sonic Figure Containing The Blue Blur's \"DNA\" Comes With An Eye-Watering Price Tag",
+      "url": "https://www.nintendolife.com/news/2026/10/random-sonic-figure-containing-the-blue-blurs-dna-comes-with-an-eye-watering-price-tag",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/random-sonic-figure-containing-the-blue-blurs-dna-comes-with-an-eye-watering-price-tag",
+          "titre": "Random: Sonic Figure Containing The Blue Blur's \"DNA\" Comes With An Eye-Watering Price Tag"
+        }
+      ]
+    },
+    {
+      "id": "the-blood-of-dawnwalker-s-lead-actor-reminds-us-why-ai-will",
+      "titre": "The Blood of Dawnwalker's lead actor reminds us why AI will always struggle to replicate a human performance",
+      "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-lead-actor-will-de-renzy-martin-ai-voiceover",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-lead-actor-will-de-renzy-martin-ai-voiceover",
+          "titre": "The Blood of Dawnwalker's lead actor reminds us why AI will always struggle to replicate a human performance"
+        }
+      ]
+    },
+    {
+      "id": "the-latest-game-from-the-creator-of-dragon-quest-was-made-in",
+      "titre": "The latest game from the creator of Dragon Quest was made in ‘about 30 minutes’ with AI",
+      "url": "https://www.videogameschronicle.com/news/the-lastest-game-from-the-creator-of-dragon-quest-was-made-in-about-30-minutes-with-ai/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-lastest-game-from-the-creator-of-dragon-quest-was-made-in-about-30-minutes-with-ai/",
+          "titre": "The latest game from the creator of Dragon Quest was made in ‘about 30 minutes’ with AI"
+        }
+      ]
+    },
+    {
+      "id": "explore-the-town-of-detour-in-this-new-fallout-4-mod-chock-f",
+      "titre": "Explore the town of Detour in this new Fallout 4 mod chock full of voiced NPCs and quests",
+      "url": "https://www.rockpapershotgun.com/explore-the-town-of-detour-in-this-new-fallout-4-mod-chock-full-of-voiced-npcs-and-quests",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/explore-the-town-of-detour-in-this-new-fallout-4-mod-chock-full-of-voiced-npcs-and-quests",
+          "titre": "Explore the town of Detour in this new Fallout 4 mod chock full of voiced NPCs and quests"
+        }
+      ]
+    },
+    {
+      "id": "stardew-valley-creator-s-new-game-haunted-chocolatier-is-mor",
+      "titre": "Stardew Valley creator's new game, Haunted Chocolatier, is \"more of an action RPG\" than farming sim",
+      "url": "https://www.eurogamer.net/the-haunted-chocolatier-action-rpg-stardew-valley",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/the-haunted-chocolatier-action-rpg-stardew-valley",
+          "titre": "Stardew Valley creator's new game, Haunted Chocolatier, is \"more of an action RPG\" than farming sim"
+        }
+      ]
+    },
+    {
+      "id": "wing-commander-3-is-getting-a-30th-anniversary-edition-with",
+      "titre": "Wing Commander 3 is getting a 30th anniversary edition with remastered FMVs from the restored original tapes",
+      "url": "https://www.videogameschronicle.com/news/wing-commander-3-is-getting-a-30th-anniversary-edition-with-remastered-fmvs-from-the-restored-original-tapes/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/wing-commander-3-is-getting-a-30th-anniversary-edition-with-remastered-fmvs-from-the-restored-original-tapes/",
+          "titre": "Wing Commander 3 is getting a 30th anniversary edition with remastered FMVs from the restored original tapes"
+        }
+      ]
+    },
+    {
+      "id": "feature-50-ps5-ps4-games-to-buy-in-the-ps-store-player-s-cho",
+      "titre": "Feature: 50+ PS5, PS4 Games to Buy in the PS Store Player's Choice Sale (North America/Europe)",
+      "url": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-the-ps-store-players-choice-sale-north-americaeurope",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-the-ps-store-players-choice-sale-north-americaeurope",
+          "titre": "Feature: 50+ PS5, PS4 Games to Buy in the PS Store Player's Choice Sale (North America/Europe)"
+        }
+      ]
+    },
+    {
+      "id": "shogun-2-deserved-better",
+      "titre": "Shogun 2 deserved better",
+      "url": "https://www.pcgamer.com/games/strategy/shogun-2-deserved-better/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/shogun-2-deserved-better/",
+          "titre": "Shogun 2 deserved better"
+        }
+      ]
+    },
+    {
+      "id": "dmz-for-call-of-duty-modern-warfare-4-being-released-early-b",
+      "titre": "DMZ for Call of Duty: Modern Warfare 4 being released early, but Infinity Ward shoots down PvE hopes",
+      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-early-access-no-pve",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-early-access-no-pve",
+          "titre": "DMZ for Call of Duty: Modern Warfare 4 being released early, but Infinity Ward shoots down PvE hopes"
+        }
+      ]
+    },
+    {
       "id": "bafta-awards-over-270-000-to-112-recipients-in-uk-and-us-to",
       "titre": "BAFTA awards over £270,000 to 112 recipients in UK and US to support career growth in games, film, and TV",
       "url": "https://www.gamesindustry.biz/bafta-awards-over-270000-to-112-recipients-in-uk-and-us-to-support-career-growth-in-games-film-and-tv",
@@ -47,7 +293,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -65,37 +311,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/",
           "titre": "Steam Week in Review: The curious case of Wonder Boy in Monster Land's dubious PC debut"
-        }
-      ]
-    },
-    {
-      "id": "marvel-t-kon-fighting-souls-reveals-its-year-1-dlc-roster-st",
-      "titre": "Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November",
-      "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 15.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops",
-          "titre": "Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-all-confirmed-characters-and-stages",
-          "titre": "Guide: Marvel Tokon: Fighting Souls: All Confirmed Characters and Stages"
         }
       ]
     },
@@ -107,7 +329,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 22.0,
       "chaleur": 6,
       "liens": [
         {
@@ -125,7 +347,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 23.8,
       "chaleur": 6,
       "liens": [
         {
@@ -143,7 +365,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.4,
       "chaleur": 5,
       "liens": [
         {
@@ -161,7 +383,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.7,
+      "heures": 22.7,
       "chaleur": 5,
       "liens": [
         {
@@ -179,7 +401,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.7,
+      "heures": 32.7,
       "chaleur": 5,
       "liens": [
         {
@@ -197,7 +419,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 33.5,
+      "heures": 35.4,
       "chaleur": 5,
       "liens": [
         {
@@ -215,7 +437,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -233,7 +455,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.2,
       "chaleur": 4,
       "liens": [
         {
@@ -251,7 +473,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -269,7 +491,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -287,7 +509,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.9,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -305,31 +527,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 17.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/nier-creator-yoko-taro-says-hes-achieved-his-career-dreams-but-he-continues-working-because-its-good-for-preventing-dementia/",
           "titre": "Nier creator Yoko Taro says he's achieved his career dreams, but he continues working because it's 'good for preventing dementia'"
-        }
-      ]
-    },
-    {
-      "id": "arc-raiders-2-0-is-here-and-you-can-finally-turn-those-light",
-      "titre": "Arc Raiders 2.0 is here, and you can finally turn those lights on your backpack off",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-2-0-is-here-and-you-can-finally-turn-those-lights-on-your-backpack-off/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-2-0-is-here-and-you-can-finally-turn-those-lights-on-your-backpack-off/",
-          "titre": "Arc Raiders 2.0 is here, and you can finally turn those lights on your backpack off"
         }
       ]
     },
@@ -341,7 +545,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.3,
       "chaleur": 3,
       "liens": [
         {
@@ -359,7 +563,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -377,7 +581,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -395,7 +599,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.3,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
@@ -413,7 +617,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.7,
+      "heures": 20.7,
       "chaleur": 3,
       "liens": [
         {
@@ -431,31 +635,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.2,
+      "heures": 21.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/we-didnt-expect-this-gran-turismo-7-continuing-to-sell-very-well-on-ps5",
           "titre": "'We Didn't Expect This': Gran Turismo 7 Continuing to 'Sell Very Well' on PS5"
-        }
-      ]
-    },
-    {
-      "id": "jane-foster-venom-jubilee-join-marvel-tokon-in-year-1-on-ps5",
-      "titre": "Jane Foster, Venom, Jubilee Join Marvel Tokon in Year 1 on PS5",
-      "url": "https://www.pushsquare.com/news/2026/10/jane-foster-venom-jubilee-join-marvel-tokon-in-year-1-on-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 19.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/jane-foster-venom-jubilee-join-marvel-tokon-in-year-1-on-ps5",
-          "titre": "Jane Foster, Venom, Jubilee Join Marvel Tokon in Year 1 on PS5"
         }
       ]
     },
@@ -467,7 +653,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.4,
       "chaleur": 3,
       "liens": [
         {
@@ -485,7 +671,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 21.9,
       "chaleur": 3,
       "liens": [
         {
@@ -503,7 +689,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.2,
+      "heures": 22.2,
       "chaleur": 3,
       "liens": [
         {
@@ -521,49 +707,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 22.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/phasmophobia-30-million-sales-crimson-eye-event",
           "titre": "Phasmophobia confirms 30 million sales as its Crimson Eye Halloween event returns"
-        }
-      ]
-    },
-    {
-      "id": "deadlock-s-city-never-sleeps-update-makes-valve-s-moba-my-fa",
-      "titre": "Deadlock's City Never Sleeps update makes Valve's MOBA my favorite videogame setting in years",
-      "url": "https://www.pcgamer.com/games/moba/deadlocks-city-never-sleeps-update-makes-valves-moba-my-favorite-videogame-setting-in-years/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/moba/deadlocks-city-never-sleeps-update-makes-valves-moba-my-favorite-videogame-setting-in-years/",
-          "titre": "Deadlock's City Never Sleeps update makes Valve's MOBA my favorite videogame setting in years"
-        }
-      ]
-    },
-    {
-      "id": "it-looks-like-wing-commander-3-is-getting-a-remaster-after-e",
-      "titre": "It looks like Wing Commander 3 is getting a remaster, after EA producer discovers the original FMV source tapes in the company's archives",
-      "url": "https://www.pcgamer.com/games/sim/it-looks-like-wing-commander-3-is-getting-a-remaster-after-ea-producer-discovers-the-original-fmv-source-tapes-in-the-companys-archives/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/it-looks-like-wing-commander-3-is-getting-a-remaster-after-ea-producer-discovers-the-original-fmv-source-tapes-in-the-companys-archives/",
-          "titre": "It looks like Wing Commander 3 is getting a remaster, after EA producer discovers the original FMV source tapes in the company's archives"
         }
       ]
     },
@@ -575,7 +725,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.5,
+      "heures": 24.4,
       "chaleur": 3,
       "liens": [
         {
@@ -593,7 +743,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 25.4,
       "chaleur": 3,
       "liens": [
         {
@@ -611,7 +761,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 25.4,
       "chaleur": 3,
       "liens": [
         {
@@ -629,7 +779,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.2,
+      "heures": 30.2,
       "chaleur": 3,
       "liens": [
         {
@@ -647,7 +797,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.9,
+      "heures": 31.8,
       "chaleur": 3,
       "liens": [
         {
@@ -665,31 +815,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 32.0,
+      "heures": 33.9,
       "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/dragon-ball-sparking-zero-announces-cross-play-in-new-road-map",
           "titre": "Dragon Ball: Sparking! ZERO Announces Cross-Play In New Road Map"
-        }
-      ]
-    },
-    {
-      "id": "gargantuan-cop-immersive-sim-militsioner-now-has-an-acrophob",
-      "titre": "Gargantuan cop immersive sim Militsioner now has an acrophobia-inducing demo, and yes, I did somehow manage to fail the tutorial",
-      "url": "https://www.rockpapershotgun.com/gargantuan-cop-immersive-sim-militsioner-now-has-an-acrophobia-inducing-demo-and-yes-i-did-somehow-manage-to-fail-the-tutorial",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 34.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/gargantuan-cop-immersive-sim-militsioner-now-has-an-acrophobia-inducing-demo-and-yes-i-did-somehow-manage-to-fail-the-tutorial",
-          "titre": "Gargantuan cop immersive sim Militsioner now has an acrophobia-inducing demo, and yes, I did somehow manage to fail the tutorial"
         }
       ]
     }
