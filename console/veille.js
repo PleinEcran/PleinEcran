@@ -1,8 +1,68 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "12/10/2026 à 14h28",
+  "collecte": "12/10/2026 à 16h24",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-produc",
+      "titre": "Nvidia reportedly ends GeForce RTX 5090 graphics card production",
+      "url": "https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production",
+      "sources": [
+        "GamesIndustry.biz",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 0.1,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production",
+          "titre": "Nvidia reportedly ends GeForce RTX 5090 graphics card production"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/nvidia-are-abandoning-their-rtx-5090-graphics-cards-in-order-to-focus-on-ai-dev-friendly-rtx-pro-ones-leaker-claims",
+          "titre": "Nvidia are abandoning their RTX 5090 graphics cards in order to focus on AI dev friendly RTX Pro ones, leaker claims"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/nvidia-has-reportedly-stopped-producing-rtx-5090-cards-to-focus-on-rtx-pro-gpus-for-ai-data-centers/",
+          "titre": "Nvidia has reportedly stopped producing RTX 5090 cards to focus on RTX Pro GPUs for AI data centers"
+        }
+      ]
+    },
+    {
+      "id": "gears-of-war-e-day-suffered-connection-issues-after-being-hi",
+      "titre": "Gears of War E-Day suffered connection issues after being hit by a DDoS attack, The Coalition says",
+      "url": "https://www.videogameschronicle.com/news/gears-of-war-e-day-suffered-connection-issues-after-being-hit-by-a-ddos-attack-the-coalition-says/",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 1.4,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/gears-of-war-e-day-suffered-connection-issues-after-being-hit-by-a-ddos-attack-the-coalition-says/",
+          "titre": "Gears of War E-Day suffered connection issues after being hit by a DDoS attack, The Coalition says"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/gears-of-war-e-day-ddos-attacks-are-to-blame-for-intermittent-disconnects-and-login-issues-the-coalition-confirm",
+          "titre": "Gears of War: E-Day DDoS attacks are to blame for \"intermittent disconnects\" and \"login issues\", The Coalition confirm"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gears-of-war-e-day-server-crashes-login-issues-ddos",
+          "titre": "Gears of War: E-Day server crashes and login problems are because of DDoS attacks, studio says"
+        }
+      ]
+    },
     {
       "id": "valor-mortis-review",
       "titre": "Valor Mortis review",
@@ -13,7 +73,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 1.5,
+      "heures": 3.4,
       "chaleur": 12,
       "liens": [
         {
@@ -34,6 +94,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "you-need-not-hunger-for-that-zelda-ocarina-of-time-remake-wh",
+      "titre": "You need not hunger for that Zelda Ocarina of Time remake when we already have Indigo, a colossal N64 romhack featuring mushroom forests and bearded Link",
+      "url": "https://www.rockpapershotgun.com/you-need-not-hunger-for-that-zelda-ocarina-of-time-remake-when-we-already-have-indigo-a-colossal-n64-romhack-featuring-mushroom-forests-and-bearded-link",
+      "sources": [
+        "Nintendo Life",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 1.3,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/you-need-not-hunger-for-that-zelda-ocarina-of-time-remake-when-we-already-have-indigo-a-colossal-n64-romhack-featuring-mushroom-forests-and-bearded-link",
+          "titre": "You need not hunger for that Zelda Ocarina of Time remake when we already have Indigo, a colossal N64 romhack featuring mushroom forests and bearded Link"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/how-do-you-pronounce-these-words-from-zelda-ocarina-of-time",
+          "titre": "Feature: How Do You Pronounce These Words From Zelda: Ocarina Of Time?"
+        }
+      ]
+    },
+    {
       "id": "group-behind-gta-6-leaks-threatens-to-release-alleged-full-b",
       "titre": "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode",
       "url": "https://www.gamesindustry.biz/group-behind-gta-6-leaks-threatens-to-release-alleged-full-build-of-game-including-story-mode",
@@ -42,8 +126,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 3.9,
-      "chaleur": 12,
+      "heures": 5.9,
+      "chaleur": 10,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -58,6 +142,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "marvel-tokon-s-year-one-dlc-roster-confirmed-including-venom",
+      "titre": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee",
+      "url": "https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 6.4,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/",
+          "titre": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops",
+          "titre": "Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/jane-foster-venom-jubilee-join-marvel-tokon-in-year-1-on-ps5",
+          "titre": "Jane Foster, Venom, Jubilee Join Marvel Tokon in Year 1 on PS5"
+        }
+      ]
+    },
+    {
       "id": "nintendo-executive-confirms-company-has-no-plans-to-ditch-ph",
       "titre": "Nintendo executive confirms company has \"no plans to ditch physical games\"",
       "url": "https://www.eurogamer.net/nintendo-executive-confirms-company-has-no-plans-to-ditch-physical-games",
@@ -66,8 +180,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 2.5,
-      "chaleur": 11,
+      "heures": 4.4,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
@@ -90,8 +204,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 2.8,
-      "chaleur": 11,
+      "heures": 4.7,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -106,6 +220,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "mini-review-bluey-s-happy-snaps-switch-2-a-light-breezy-phot",
+      "titre": "Mini Review: Bluey's Happy Snaps (Switch 2) - A Light, Breezy Photography Adventure",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/blueys-happy-snaps",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/blueys-happy-snaps",
+          "titre": "Mini Review: Bluey's Happy Snaps (Switch 2) - A Light, Breezy Photography Adventure"
+        }
+      ]
+    },
+    {
       "id": "for-the-second-time-this-year-steam-has-set-a-major-new-conc",
       "titre": "For the second time this year, Steam has set a major new concurrent user record",
       "url": "https://www.eurogamer.net/steam-new-user-concurrent-record-october-2026",
@@ -113,43 +245,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 10,
+      "heures": 5.8,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/steam-new-user-concurrent-record-october-2026",
           "titre": "For the second time this year, Steam has set a major new concurrent user record"
-        }
-      ]
-    },
-    {
-      "id": "marvel-tokon-s-year-one-dlc-roster-confirmed-including-venom",
-      "titre": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee",
-      "url": "https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/",
-      "sources": [
-        "Eurogamer",
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 4.4,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/",
-          "titre": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops",
-          "titre": "Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/jane-foster-venom-jubilee-join-marvel-tokon-in-year-1-on-ps5",
-          "titre": "Jane Foster, Venom, Jubilee Join Marvel Tokon in Year 1 on PS5"
         }
       ]
     },
@@ -162,8 +264,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 2.5,
-      "chaleur": 9,
+      "heures": 4.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -174,60 +276,6 @@ const VEILLE = {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/the-lastest-game-from-the-creator-of-dragon-quest-was-made-in-about-30-minutes-with-ai/",
           "titre": "The latest game from the creator of Dragon Quest was made in ‘about 30 minutes’ with AI"
-        }
-      ]
-    },
-    {
-      "id": "nvidia-has-reportedly-stopped-producing-rtx-5090-cards-to-fo",
-      "titre": "Nvidia has reportedly stopped producing RTX 5090 cards to focus on RTX Pro GPUs for AI data centers",
-      "url": "https://www.videogameschronicle.com/news/nvidia-has-reportedly-stopped-producing-rtx-5090-cards-to-focus-on-rtx-pro-gpus-for-ai-data-centers/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/nvidia-has-reportedly-stopped-producing-rtx-5090-cards-to-focus-on-rtx-pro-gpus-for-ai-data-centers/",
-          "titre": "Nvidia has reportedly stopped producing RTX 5090 cards to focus on RTX Pro GPUs for AI data centers"
-        }
-      ]
-    },
-    {
-      "id": "mini-review-bluey-s-happy-snaps-switch-2-a-light-breezy-phot",
-      "titre": "Mini Review: Bluey's Happy Snaps (Switch 2) - A Light, Breezy Photography Adventure",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/blueys-happy-snaps",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/blueys-happy-snaps",
-          "titre": "Mini Review: Bluey's Happy Snaps (Switch 2) - A Light, Breezy Photography Adventure"
-        }
-      ]
-    },
-    {
-      "id": "here-come-the-weird-and-wonderful-mods-for-the-steam-frame-a",
-      "titre": "Here come the weird and wonderful mods for the Steam Frame, as Valve drops the full CAD files for free",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/",
-          "titre": "Here come the weird and wonderful mods for the Steam Frame, as Valve drops the full CAD files for free"
         }
       ]
     },
@@ -268,6 +316,150 @@ const VEILLE = {
       ]
     },
     {
+      "id": "poll-vote-for-your-ps5-game-of-the-month-september-2026",
+      "titre": "Poll: Vote for Your PS5 Game of the Month (September 2026)",
+      "url": "https://www.pushsquare.com/features/poll-vote-for-your-ps5-game-of-the-month-september-2026",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/poll-vote-for-your-ps5-game-of-the-month-september-2026",
+          "titre": "Poll: Vote for Your PS5 Game of the Month (September 2026)"
+        }
+      ]
+    },
+    {
+      "id": "aream-co-games-industry-m-a-generates-57-8-bn-in-q3-includin",
+      "titre": "Aream & Co: Games industry M&A generates $57.8 bn in Q3, including EA's $55bn leveraged buyout",
+      "url": "https://www.gamesindustry.biz/aream-co-games-industry-ma-generates-578-bn-in-q3-including-eas-55bn-leveraged-buyout",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/aream-co-games-industry-ma-generates-578-bn-in-q3-including-eas-55bn-leveraged-buyout",
+          "titre": "Aream & Co: Games industry M&A generates $57.8 bn in Q3, including EA's $55bn leveraged buyout"
+        }
+      ]
+    },
+    {
+      "id": "people-are-being-robbed-of-crypto-by-a-tiny-chip-implanted-i",
+      "titre": "People are being robbed of crypto by a tiny chip implanted in their hardware, with $100 million said to have been stolen already",
+      "url": "https://www.pcgamer.com/hardware/people-are-being-robbed-of-crypto-by-a-tiny-chip-implanted-in-their-hardware-with-usd100-million-said-to-have-been-stolen-already/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/people-are-being-robbed-of-crypto-by-a-tiny-chip-implanted-in-their-hardware-with-usd100-million-said-to-have-been-stolen-already/",
+          "titre": "People are being robbed of crypto by a tiny chip implanted in their hardware, with $100 million said to have been stolen already"
+        }
+      ]
+    },
+    {
+      "id": "game-developer-veteran-chris-kerr-launches-vertical-slice-a",
+      "titre": "Game Developer veteran Chris Kerr launches Vertical Slice, a games publication \"giving workers a voice and holding power to account\"",
+      "url": "https://www.gamesindustry.biz/game-developer-veteran-chris-kerr-launches-vertical-slice-a-games-publication-giving-workers-a-voice-and-holding-power-to-account",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/game-developer-veteran-chris-kerr-launches-vertical-slice-a-games-publication-giving-workers-a-voice-and-holding-power-to-account",
+          "titre": "Game Developer veteran Chris Kerr launches Vertical Slice, a games publication \"giving workers a voice and holding power to account\""
+        }
+      ]
+    },
+    {
+      "id": "schr-dinger-s-gpu-set-for-an-early-2027-release-as-the-dead",
+      "titre": "Schrödinger's GPU set for an early 2027 release as the dead/alive 24 GB RTX 5080 Super box is shaken once more",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/schrodingers-gpu-set-for-an-early-2027-release-as-the-dead-alive-24-gb-rtx-5080-super-box-is-shaken-once-more/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/schrodingers-gpu-set-for-an-early-2027-release-as-the-dead-alive-24-gb-rtx-5080-super-box-is-shaken-once-more/",
+          "titre": "Schrödinger's GPU set for an early 2027 release as the dead/alive 24 GB RTX 5080 Super box is shaken once more"
+        }
+      ]
+    },
+    {
+      "id": "i-am-the-controller-now-mit-engineers-have-created-a-second",
+      "titre": "I am the controller now: MIT engineers have created a 'second skin' that could one day track whole bodies in VR",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/i-am-the-controller-now-mit-engineers-have-created-a-second-skin-that-could-one-day-track-whole-bodies-in-vr/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/i-am-the-controller-now-mit-engineers-have-created-a-second-skin-that-could-one-day-track-whole-bodies-in-vr/",
+          "titre": "I am the controller now: MIT engineers have created a 'second skin' that could one day track whole bodies in VR"
+        }
+      ]
+    },
+    {
+      "id": "dd2-dark-arisen-all-norgan-portcrystal-locations",
+      "titre": "DD2 Dark Arisen: All Norgan Portcrystal locations",
+      "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-norgan-portcrystal-locations/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-norgan-portcrystal-locations/",
+          "titre": "DD2 Dark Arisen: All Norgan Portcrystal locations"
+        }
+      ]
+    },
+    {
+      "id": "he-man-s-gorgeous-beat-em-up-finally-gets-a-new-date-pre-ord",
+      "titre": "He-Man's Gorgeous Beat 'Em Up Finally Gets A New Date, Pre-Orders Now Live",
+      "url": "https://www.nintendolife.com/news/2026/10/he-mans-gorgeous-beat-em-up-finally-gets-a-new-date-pre-orders-now-live",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/he-mans-gorgeous-beat-em-up-finally-gets-a-new-date-pre-orders-now-live",
+          "titre": "He-Man's Gorgeous Beat 'Em Up Finally Gets A New Date, Pre-Orders Now Live"
+        }
+      ]
+    },
+    {
       "id": "arc-raiders-player-numbers-rebound-with-the-launch-of-frozen",
       "titre": "Arc Raiders player-numbers rebound with the launch of Frozen Trail and the game's 2.0 release, but they might be deceptively high",
       "url": "https://www.eurogamer.net/arc-raiders-frozen-trail-2-0-update-steam-player-numbers",
@@ -275,7 +467,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
@@ -293,7 +485,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -311,7 +503,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -329,7 +521,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -347,7 +539,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -365,7 +557,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -383,7 +575,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -401,31 +593,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/graphics-cards/the-rtx-4090-launched-four-years-ago-today-and-now-the-rtx-5090-is-rumoured-for-the-chop-i-cant-help-but-look-upon-it-with-a-warm-glow/",
           "titre": "The RTX 4090 launched four years ago today, and now the RTX 5090 is rumoured for the chop, I can't help but look upon it with a warm glow"
-        }
-      ]
-    },
-    {
-      "id": "dd2-dark-arisen-all-obelisk-locations-to-upgrade-vocations",
-      "titre": "DD2 Dark Arisen: All Obelisk locations to upgrade Vocations",
-      "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-obelisk-locations-to-upgrade-vocations/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-obelisk-locations-to-upgrade-vocations/",
-          "titre": "DD2 Dark Arisen: All Obelisk locations to upgrade Vocations"
         }
       ]
     },
@@ -437,7 +611,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -455,13 +629,85 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-players-demand-year-2-for-free-after-noting-the-digital-deluxe-edition-promised-all-future-paid-dlc/",
           "titre": "Sonic Racing CrossWorlds players demand Year 2 for free after noting the Digital Deluxe Edition promised ‘all future paid DLC’"
+        }
+      ]
+    },
+    {
+      "id": "here-come-the-weird-and-wonderful-mods-for-the-steam-frame-a",
+      "titre": "Here come the weird and wonderful mods for the Steam Frame, as Valve drops the full CAD files for free",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/",
+          "titre": "Here come the weird and wonderful mods for the Steam Frame, as Valve drops the full CAD files for free"
+        }
+      ]
+    },
+    {
+      "id": "upcoming-resident-evil-remakes-have-pretty-tiny-file-sizes-o",
+      "titre": "Upcoming Resident Evil Remakes Have Pretty Tiny File Sizes On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/upcoming-resident-evil-remakes-have-pretty-tiny-file-sizes-on-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 6.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/upcoming-resident-evil-remakes-have-pretty-tiny-file-sizes-on-switch-2",
+          "titre": "Upcoming Resident Evil Remakes Have Pretty Tiny File Sizes On Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-leaker-cyberleek-is-back-with-another-video-and-this-t",
+      "titre": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked",
+      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 28.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
+          "titre": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked"
+        }
+      ]
+    },
+    {
+      "id": "steam-week-in-review-the-curious-case-of-wonder-boy-in-monst",
+      "titre": "Steam Week in Review: The curious case of Wonder Boy in Monster Land's dubious PC debut",
+      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 13.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/",
+          "titre": "Steam Week in Review: The curious case of Wonder Boy in Monster Land's dubious PC debut"
         }
       ]
     },
@@ -473,8 +719,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
+      "heures": 4.2,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
@@ -491,31 +737,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
+      "heures": 4.7,
+      "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/software/ai/your-washing-machine-is-subject-to-more-safety-rules-than-ai-says-microsoft-president/",
           "titre": "'Your washing machine is subject to more safety rules than AI' says Microsoft president"
-        }
-      ]
-    },
-    {
-      "id": "gears-of-war-e-day-server-crashes-and-login-problems-are-bec",
-      "titre": "Gears of War: E-Day server crashes and login problems are because of DDoS attacks, studio says",
-      "url": "https://www.eurogamer.net/gears-of-war-e-day-server-crashes-login-issues-ddos",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gears-of-war-e-day-server-crashes-login-issues-ddos",
-          "titre": "Gears of War: E-Day server crashes and login problems are because of DDoS attacks, studio says"
         }
       ]
     },
@@ -527,8 +755,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
+      "heures": 4.9,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
@@ -545,8 +773,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
+      "heures": 5.1,
+      "chaleur": 4,
       "liens": [
         {
           "source": "VGC",
@@ -563,85 +791,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
+      "heures": 5.3,
+      "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/racing/the-algorithm-continues-to-properly-prioritise-mister-biddy-blas-star-wars-galactic-racer-has-created-the-perfect-creature/",
           "titre": "'The algorithm continues to properly prioritise Mister Biddy Blas'—Star Wars: Galactic Racer has created the perfect creature"
-        }
-      ]
-    },
-    {
-      "id": "upcoming-resident-evil-remakes-have-pretty-tiny-file-sizes-o",
-      "titre": "Upcoming Resident Evil Remakes Have Pretty Tiny File Sizes On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/upcoming-resident-evil-remakes-have-pretty-tiny-file-sizes-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 5.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/upcoming-resident-evil-remakes-have-pretty-tiny-file-sizes-on-switch-2",
-          "titre": "Upcoming Resident Evil Remakes Have Pretty Tiny File Sizes On Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "steam-week-in-review-the-curious-case-of-wonder-boy-in-monst",
-      "titre": "Steam Week in Review: The curious case of Wonder Boy in Monster Land's dubious PC debut",
-      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/",
-          "titre": "Steam Week in Review: The curious case of Wonder Boy in Monster Land's dubious PC debut"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-leaker-cyberleek-is-back-with-another-video-and-this-t",
-      "titre": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked",
-      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 26.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
-          "titre": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked"
-        }
-      ]
-    },
-    {
-      "id": "feature-how-do-you-pronounce-these-words-from-zelda-ocarina",
-      "titre": "Feature: How Do You Pronounce These Words From Zelda: Ocarina Of Time?",
-      "url": "https://www.nintendolife.com/features/how-do-you-pronounce-these-words-from-zelda-ocarina-of-time",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 25.5,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/how-do-you-pronounce-these-words-from-zelda-ocarina-of-time",
-          "titre": "Feature: How Do You Pronounce These Words From Zelda: Ocarina Of Time?"
         }
       ]
     },
@@ -653,7 +809,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -671,7 +827,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -689,7 +845,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.7,
       "chaleur": 4,
       "liens": [
         {
@@ -707,7 +863,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -725,7 +881,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -743,7 +899,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -761,7 +917,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -779,7 +935,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -797,7 +953,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +971,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -833,7 +989,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.1,
       "chaleur": 3,
       "liens": [
         {
@@ -851,7 +1007,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.2,
       "chaleur": 3,
       "liens": [
         {
@@ -869,7 +1025,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -887,49 +1043,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 17.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/pvp-pinball-is-such-a-good-idea-i-cant-believe-i-havent-played-it-before/",
           "titre": "PvP pinball is such a good idea I can't believe I haven't played it before"
-        }
-      ]
-    },
-    {
-      "id": "yahtzee-is-still-out-there-being-mean-about-videogames-and-g",
-      "titre": "Yahtzee is still out there being mean about videogames, and good for him",
-      "url": "https://www.pcgamer.com/games/yahtzee-is-still-out-there-being-mean-about-videogames-and-good-for-him/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/yahtzee-is-still-out-there-being-mean-about-videogames-and-good-for-him/",
-          "titre": "Yahtzee is still out there being mean about videogames, and good for him"
-        }
-      ]
-    },
-    {
-      "id": "nier-creator-yoko-taro-says-he-s-achieved-his-career-dreams",
-      "titre": "Nier creator Yoko Taro says he's achieved his career dreams, but he continues working because it's 'good for preventing dementia'",
-      "url": "https://www.pcgamer.com/gaming-industry/nier-creator-yoko-taro-says-hes-achieved-his-career-dreams-but-he-continues-working-because-its-good-for-preventing-dementia/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/nier-creator-yoko-taro-says-hes-achieved-his-career-dreams-but-he-continues-working-because-its-good-for-preventing-dementia/",
-          "titre": "Nier creator Yoko Taro says he's achieved his career dreams, but he continues working because it's 'good for preventing dementia'"
         }
       ]
     },
@@ -941,7 +1061,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 23.3,
       "chaleur": 3,
       "liens": [
         {
@@ -959,7 +1079,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 24.7,
+      "heures": 26.7,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +1097,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.2,
+      "heures": 27.2,
       "chaleur": 3,
       "liens": [
         {
@@ -995,7 +1115,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.2,
+      "heures": 28.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1013,7 +1133,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.4,
+      "heures": 28.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +1151,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.5,
+      "heures": 30.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1040,79 +1160,9 @@ const VEILLE = {
           "titre": "The Sunday Papers"
         }
       ]
-    },
-    {
-      "id": "we-have-to-go-a-different-path-krafton-thinks-pubg-ded-net",
-      "titre": "\"We have to go a different path\" - Krafton thinks PUBG Ded.Net's pulpy gameshow hyperviolence and roguelite twist can make it the next big battle royale",
-      "url": "https://www.eurogamer.net/we-have-to-go-a-different-path-krafton-thinks-pubg-dednets-pulpy-gameshow-hyperviolence-and-roguelite-twist-can-make-it-the-next-big-battle-royale",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 29.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/we-have-to-go-a-different-path-krafton-thinks-pubg-dednets-pulpy-gameshow-hyperviolence-and-roguelite-twist-can-make-it-the-next-big-battle-royale",
-          "titre": "\"We have to go a different path\" - Krafton thinks PUBG Ded.Net's pulpy gameshow hyperviolence and roguelite twist can make it the next big battle royale"
-        }
-      ]
-    },
-    {
-      "id": "feature-box-art-brawl-duel-wii-sports-resort",
-      "titre": "Feature: Box Art Brawl - Duel: Wii Sports Resort",
-      "url": "https://www.nintendolife.com/features/box-art-brawl-duel-wii-sports-resort",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 29.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/box-art-brawl-duel-wii-sports-resort",
-          "titre": "Feature: Box Art Brawl - Duel: Wii Sports Resort"
-        }
-      ]
-    },
-    {
-      "id": "at-one-point-capcom-was-going-to-make-pragmata-a-little-bit",
-      "titre": "At One Point, Capcom Was Going To Make Pragmata \"A Little Bit More Horror Focused\"",
-      "url": "https://www.nintendolife.com/news/2026/10/at-one-point-capcom-was-going-to-make-pragmata-a-little-bit-more-horror-focused",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 34.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/at-one-point-capcom-was-going-to-make-pragmata-a-little-bit-more-horror-focused",
-          "titre": "At One Point, Capcom Was Going To Make Pragmata \"A Little Bit More Horror Focused\""
-        }
-      ]
-    },
-    {
-      "id": "psa-pok-mon-red-blue-game-boy-jukebox-back-in-stock",
-      "titre": "﻿﻿PSA: Pokémon Red & Blue Game Boy Jukebox Back In Stock",
-      "url": "https://www.nintendolife.com/news/2026/10/psa-pokemon-red-and-blue-game-boy-jukebox-back-in-stock",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 35.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/psa-pokemon-red-and-blue-game-boy-jukebox-back-in-stock",
-          "titre": "﻿﻿PSA: Pokémon Red & Blue Game Boy Jukebox Back In Stock"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Nvidia reportedly ends GeForce RTX 5090 graphics card production"
+  ]
 };
