@@ -1,8 +1,38 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "12/10/2026 à 12h41",
+  "collecte": "12/10/2026 à 14h28",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "valor-mortis-review",
+      "titre": "Valor Mortis review",
+      "url": "https://www.eurogamer.net/valor-mortis-review",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 1.5,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/valor-mortis-review",
+          "titre": "Valor Mortis review"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/valor-mortis-review",
+          "titre": "Valor Mortis review - this Napoleonic first-person swordfighter is one of the freshest Soulslikes in years"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/valor-mortis",
+          "titre": "Review: Valor Mortis (PS5) - Imperial Ambitions, Largely Realised"
+        }
+      ]
+    },
     {
       "id": "group-behind-gta-6-leaks-threatens-to-release-alleged-full-b",
       "titre": "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode",
@@ -12,7 +42,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 2.1,
+      "heures": 3.9,
       "chaleur": 12,
       "liens": [
         {
@@ -28,36 +58,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "marvel-tokon-s-year-one-dlc-roster-confirmed-including-venom",
-      "titre": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee",
-      "url": "https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/",
-      "sources": [
-        "Eurogamer",
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 2.6,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/",
-          "titre": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops",
-          "titre": "Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/jane-foster-venom-jubilee-join-marvel-tokon-in-year-1-on-ps5",
-          "titre": "Jane Foster, Venom, Jubilee Join Marvel Tokon in Year 1 on PS5"
-        }
-      ]
-    },
-    {
       "id": "nintendo-executive-confirms-company-has-no-plans-to-ditch-ph",
       "titre": "Nintendo executive confirms company has \"no plans to ditch physical games\"",
       "url": "https://www.eurogamer.net/nintendo-executive-confirms-company-has-no-plans-to-ditch-physical-games",
@@ -66,7 +66,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 0.7,
+      "heures": 2.5,
       "chaleur": 11,
       "liens": [
         {
@@ -90,7 +90,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 1.0,
+      "heures": 2.8,
       "chaleur": 11,
       "liens": [
         {
@@ -113,13 +113,43 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.1,
+      "heures": 3.9,
       "chaleur": 10,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/steam-new-user-concurrent-record-october-2026",
           "titre": "For the second time this year, Steam has set a major new concurrent user record"
+        }
+      ]
+    },
+    {
+      "id": "marvel-tokon-s-year-one-dlc-roster-confirmed-including-venom",
+      "titre": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee",
+      "url": "https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 4.4,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/",
+          "titre": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops",
+          "titre": "Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/jane-foster-venom-jubilee-join-marvel-tokon-in-year-1-on-ps5",
+          "titre": "Jane Foster, Venom, Jubilee Join Marvel Tokon in Year 1 on PS5"
         }
       ]
     },
@@ -132,7 +162,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.7,
+      "heures": 2.5,
       "chaleur": 9,
       "liens": [
         {
@@ -148,6 +178,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "nvidia-has-reportedly-stopped-producing-rtx-5090-cards-to-fo",
+      "titre": "Nvidia has reportedly stopped producing RTX 5090 cards to focus on RTX Pro GPUs for AI data centers",
+      "url": "https://www.videogameschronicle.com/news/nvidia-has-reportedly-stopped-producing-rtx-5090-cards-to-focus-on-rtx-pro-gpus-for-ai-data-centers/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/nvidia-has-reportedly-stopped-producing-rtx-5090-cards-to-focus-on-rtx-pro-gpus-for-ai-data-centers/",
+          "titre": "Nvidia has reportedly stopped producing RTX 5090 cards to focus on RTX Pro GPUs for AI data centers"
+        }
+      ]
+    },
+    {
+      "id": "mini-review-bluey-s-happy-snaps-switch-2-a-light-breezy-phot",
+      "titre": "Mini Review: Bluey's Happy Snaps (Switch 2) - A Light, Breezy Photography Adventure",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/blueys-happy-snaps",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/blueys-happy-snaps",
+          "titre": "Mini Review: Bluey's Happy Snaps (Switch 2) - A Light, Breezy Photography Adventure"
+        }
+      ]
+    },
+    {
       "id": "here-come-the-weird-and-wonderful-mods-for-the-steam-frame-a",
       "titre": "Here come the weird and wonderful mods for the Steam Frame, as Valve drops the full CAD files for free",
       "url": "https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/",
@@ -155,31 +221,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.2,
       "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/",
           "titre": "Here come the weird and wonderful mods for the Steam Frame, as Valve drops the full CAD files for free"
-        }
-      ]
-    },
-    {
-      "id": "upcoming-resident-evil-remakes-have-pretty-tiny-file-sizes-o",
-      "titre": "Upcoming Resident Evil Remakes Have Pretty Tiny File Sizes On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/upcoming-resident-evil-remakes-have-pretty-tiny-file-sizes-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/upcoming-resident-evil-remakes-have-pretty-tiny-file-sizes-on-switch-2",
-          "titre": "Upcoming Resident Evil Remakes Have Pretty Tiny File Sizes On Switch 2"
         }
       ]
     },
@@ -220,6 +268,150 @@ const VEILLE = {
       ]
     },
     {
+      "id": "arc-raiders-player-numbers-rebound-with-the-launch-of-frozen",
+      "titre": "Arc Raiders player-numbers rebound with the launch of Frozen Trail and the game's 2.0 release, but they might be deceptively high",
+      "url": "https://www.eurogamer.net/arc-raiders-frozen-trail-2-0-update-steam-player-numbers",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/arc-raiders-frozen-trail-2-0-update-steam-player-numbers",
+          "titre": "Arc Raiders player-numbers rebound with the launch of Frozen Trail and the game's 2.0 release, but they might be deceptively high"
+        }
+      ]
+    },
+    {
+      "id": "retro-style-he-man-beat-em-up-finally-hits-up-ps5-and-ps4-in",
+      "titre": "Retro-Style He-Man Beat-'Em-Up Finally Hits Up PS5 and PS4 in February",
+      "url": "https://www.pushsquare.com/news/2026/10/retro-style-he-man-beat-em-up-finally-hits-up-ps5-and-ps4-in-february",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/retro-style-he-man-beat-em-up-finally-hits-up-ps5-and-ps4-in-february",
+          "titre": "Retro-Style He-Man Beat-'Em-Up Finally Hits Up PS5 and PS4 in February"
+        }
+      ]
+    },
+    {
+      "id": "pearl-abyss-goes-easy-on-us-critics-for-our-crimson-desert-r",
+      "titre": "Pearl Abyss goes easy on us critics for our Crimson Desert reviews: 'They had to play the build that is not the exact same version of the launched game'",
+      "url": "https://www.pcgamer.com/games/rpg/pearl-abyss-goes-easy-on-us-critics-for-our-crimson-desert-reviews-they-had-to-play-the-build-that-is-not-the-exact-same-version-of-the-launched-game/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/pearl-abyss-goes-easy-on-us-critics-for-our-crimson-desert-reviews-they-had-to-play-the-build-that-is-not-the-exact-same-version-of-the-launched-game/",
+          "titre": "Pearl Abyss goes easy on us critics for our Crimson Desert reviews: 'They had to play the build that is not the exact same version of the launched game'"
+        }
+      ]
+    },
+    {
+      "id": "uk-charts-kingdom-hearts-collection-performs-well-but-it-s-m",
+      "titre": "UK Charts: Kingdom Hearts Collection Performs Well, But It's Missing The Keys To The Podium",
+      "url": "https://www.nintendolife.com/news/2026/10/uk-charts-kingdom-hearts-collection-performs-well-but-its-missing-the-keys-to-the-podium",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/uk-charts-kingdom-hearts-collection-performs-well-but-its-missing-the-keys-to-the-podium",
+          "titre": "UK Charts: Kingdom Hearts Collection Performs Well, But It's Missing The Keys To The Podium"
+        }
+      ]
+    },
+    {
+      "id": "you-don-t-just-paint-the-map-your-colour-in-new-ww2-rts-batt",
+      "titre": "You don't just paint the map your colour in new WW2 RTS Battleplan, you redraw the frontline with a pencil and hope your troops do the rest",
+      "url": "https://www.rockpapershotgun.com/you-dont-just-paint-the-map-your-colour-in-new-ww2-rts-battleplan-you-redraw-the-frontline-with-a-pencil-and-hope-your-troops-do-the-rest",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/you-dont-just-paint-the-map-your-colour-in-new-ww2-rts-battleplan-you-redraw-the-frontline-with-a-pencil-and-hope-your-troops-do-the-rest",
+          "titre": "You don't just paint the map your colour in new WW2 RTS Battleplan, you redraw the frontline with a pencil and hope your troops do the rest"
+        }
+      ]
+    },
+    {
+      "id": "the-happiest-man-in-gaming-hates-generative-ai",
+      "titre": "The happiest man in gaming hates generative AI",
+      "url": "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai",
+          "titre": "The happiest man in gaming hates generative AI"
+        }
+      ]
+    },
+    {
+      "id": "starfield-seamless-planetary-landings-are-finally-nearly-a-t",
+      "titre": "Starfield seamless planetary landings are finally nearly a thing, thanks to one modder's tireless work",
+      "url": "https://www.eurogamer.net/starfield-mod-seamless-planetary-landings",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/starfield-mod-seamless-planetary-landings",
+          "titre": "Starfield seamless planetary landings are finally nearly a thing, thanks to one modder's tireless work"
+        }
+      ]
+    },
+    {
+      "id": "the-rtx-4090-launched-four-years-ago-today-and-now-the-rtx-5",
+      "titre": "The RTX 4090 launched four years ago today, and now the RTX 5090 is rumoured for the chop, I can't help but look upon it with a warm glow",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/the-rtx-4090-launched-four-years-ago-today-and-now-the-rtx-5090-is-rumoured-for-the-chop-i-cant-help-but-look-upon-it-with-a-warm-glow/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/the-rtx-4090-launched-four-years-ago-today-and-now-the-rtx-5090-is-rumoured-for-the-chop-i-cant-help-but-look-upon-it-with-a-warm-glow/",
+          "titre": "The RTX 4090 launched four years ago today, and now the RTX 5090 is rumoured for the chop, I can't help but look upon it with a warm glow"
+        }
+      ]
+    },
+    {
       "id": "dd2-dark-arisen-all-obelisk-locations-to-upgrade-vocations",
       "titre": "DD2 Dark Arisen: All Obelisk locations to upgrade Vocations",
       "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-obelisk-locations-to-upgrade-vocations/",
@@ -227,7 +419,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 1.9,
       "chaleur": 6,
       "liens": [
         {
@@ -245,7 +437,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 1.9,
       "chaleur": 6,
       "liens": [
         {
@@ -263,7 +455,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.0,
       "chaleur": 6,
       "liens": [
         {
@@ -281,7 +473,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -299,7 +491,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
@@ -317,7 +509,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
@@ -335,7 +527,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -353,7 +545,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -371,7 +563,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -382,146 +574,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "how-to-turn-off-your-backpack-light-in-arc-raiders",
-      "titre": "How to turn off your backpack light in Arc Raiders",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-backpack-light-toggle/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-backpack-light-toggle/",
-          "titre": "How to turn off your backpack light in Arc Raiders"
-        }
-      ]
-    },
-    {
-      "id": "random-sonic-figure-containing-the-blue-blur-s-dna-comes-wit",
-      "titre": "Random: Sonic Figure Containing The Blue Blur's \"DNA\" Comes With An Eye-Watering Price Tag",
-      "url": "https://www.nintendolife.com/news/2026/10/random-sonic-figure-containing-the-blue-blurs-dna-comes-with-an-eye-watering-price-tag",
+      "id": "upcoming-resident-evil-remakes-have-pretty-tiny-file-sizes-o",
+      "titre": "Upcoming Resident Evil Remakes Have Pretty Tiny File Sizes On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/upcoming-resident-evil-remakes-have-pretty-tiny-file-sizes-on-switch-2",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.4,
+      "heures": 5.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/random-sonic-figure-containing-the-blue-blurs-dna-comes-with-an-eye-watering-price-tag",
-          "titre": "Random: Sonic Figure Containing The Blue Blur's \"DNA\" Comes With An Eye-Watering Price Tag"
-        }
-      ]
-    },
-    {
-      "id": "the-blood-of-dawnwalker-s-lead-actor-reminds-us-why-ai-will",
-      "titre": "The Blood of Dawnwalker's lead actor reminds us why AI will always struggle to replicate a human performance",
-      "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-lead-actor-will-de-renzy-martin-ai-voiceover",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-lead-actor-will-de-renzy-martin-ai-voiceover",
-          "titre": "The Blood of Dawnwalker's lead actor reminds us why AI will always struggle to replicate a human performance"
-        }
-      ]
-    },
-    {
-      "id": "explore-the-town-of-detour-in-this-new-fallout-4-mod-chock-f",
-      "titre": "Explore the town of Detour in this new Fallout 4 mod chock full of voiced NPCs and quests",
-      "url": "https://www.rockpapershotgun.com/explore-the-town-of-detour-in-this-new-fallout-4-mod-chock-full-of-voiced-npcs-and-quests",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/explore-the-town-of-detour-in-this-new-fallout-4-mod-chock-full-of-voiced-npcs-and-quests",
-          "titre": "Explore the town of Detour in this new Fallout 4 mod chock full of voiced NPCs and quests"
-        }
-      ]
-    },
-    {
-      "id": "stardew-valley-creator-s-new-game-haunted-chocolatier-is-mor",
-      "titre": "Stardew Valley creator's new game, Haunted Chocolatier, is \"more of an action RPG\" than farming sim",
-      "url": "https://www.eurogamer.net/the-haunted-chocolatier-action-rpg-stardew-valley",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/the-haunted-chocolatier-action-rpg-stardew-valley",
-          "titre": "Stardew Valley creator's new game, Haunted Chocolatier, is \"more of an action RPG\" than farming sim"
-        }
-      ]
-    },
-    {
-      "id": "wing-commander-3-is-getting-a-30th-anniversary-edition-with",
-      "titre": "Wing Commander 3 is getting a 30th anniversary edition with remastered FMVs from the restored original tapes",
-      "url": "https://www.videogameschronicle.com/news/wing-commander-3-is-getting-a-30th-anniversary-edition-with-remastered-fmvs-from-the-restored-original-tapes/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/wing-commander-3-is-getting-a-30th-anniversary-edition-with-remastered-fmvs-from-the-restored-original-tapes/",
-          "titre": "Wing Commander 3 is getting a 30th anniversary edition with remastered FMVs from the restored original tapes"
-        }
-      ]
-    },
-    {
-      "id": "feature-50-ps5-ps4-games-to-buy-in-the-ps-store-player-s-cho",
-      "titre": "Feature: 50+ PS5, PS4 Games to Buy in the PS Store Player's Choice Sale (North America/Europe)",
-      "url": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-the-ps-store-players-choice-sale-north-americaeurope",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-the-ps-store-players-choice-sale-north-americaeurope",
-          "titre": "Feature: 50+ PS5, PS4 Games to Buy in the PS Store Player's Choice Sale (North America/Europe)"
-        }
-      ]
-    },
-    {
-      "id": "shogun-2-deserved-better",
-      "titre": "Shogun 2 deserved better",
-      "url": "https://www.pcgamer.com/games/strategy/shogun-2-deserved-better/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/shogun-2-deserved-better/",
-          "titre": "Shogun 2 deserved better"
+          "url": "https://www.nintendolife.com/news/2026/10/upcoming-resident-evil-remakes-have-pretty-tiny-file-sizes-on-switch-2",
+          "titre": "Upcoming Resident Evil Remakes Have Pretty Tiny File Sizes On Switch 2"
         }
       ]
     },
@@ -533,7 +599,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.5,
       "chaleur": 6,
       "liens": [
         {
@@ -551,7 +617,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.2,
+      "heures": 26.0,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +635,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.7,
+      "heures": 25.5,
       "chaleur": 5,
       "liens": [
         {
@@ -580,20 +646,146 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-2",
-      "titre": "Sonic Pico Park Brings Co-Op Action Puzzle Fun To Switch 1 & 2 Next Month",
-      "url": "https://www.nintendolife.com/news/2026/10/sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-and-2-next-month",
+      "id": "how-to-turn-off-your-backpack-light-in-arc-raiders",
+      "titre": "How to turn off your backpack light in Arc Raiders",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-backpack-light-toggle/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-backpack-light-toggle/",
+          "titre": "How to turn off your backpack light in Arc Raiders"
+        }
+      ]
+    },
+    {
+      "id": "random-sonic-figure-containing-the-blue-blur-s-dna-comes-wit",
+      "titre": "Random: Sonic Figure Containing The Blue Blur's \"DNA\" Comes With An Eye-Watering Price Tag",
+      "url": "https://www.nintendolife.com/news/2026/10/random-sonic-figure-containing-the-blue-blurs-dna-comes-with-an-eye-watering-price-tag",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 34.9,
-      "chaleur": 5,
+      "heures": 4.2,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-and-2-next-month",
-          "titre": "Sonic Pico Park Brings Co-Op Action Puzzle Fun To Switch 1 & 2 Next Month"
+          "url": "https://www.nintendolife.com/news/2026/10/random-sonic-figure-containing-the-blue-blurs-dna-comes-with-an-eye-watering-price-tag",
+          "titre": "Random: Sonic Figure Containing The Blue Blur's \"DNA\" Comes With An Eye-Watering Price Tag"
+        }
+      ]
+    },
+    {
+      "id": "the-blood-of-dawnwalker-s-lead-actor-reminds-us-why-ai-will",
+      "titre": "The Blood of Dawnwalker's lead actor reminds us why AI will always struggle to replicate a human performance",
+      "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-lead-actor-will-de-renzy-martin-ai-voiceover",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-lead-actor-will-de-renzy-martin-ai-voiceover",
+          "titre": "The Blood of Dawnwalker's lead actor reminds us why AI will always struggle to replicate a human performance"
+        }
+      ]
+    },
+    {
+      "id": "explore-the-town-of-detour-in-this-new-fallout-4-mod-chock-f",
+      "titre": "Explore the town of Detour in this new Fallout 4 mod chock full of voiced NPCs and quests",
+      "url": "https://www.rockpapershotgun.com/explore-the-town-of-detour-in-this-new-fallout-4-mod-chock-full-of-voiced-npcs-and-quests",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/explore-the-town-of-detour-in-this-new-fallout-4-mod-chock-full-of-voiced-npcs-and-quests",
+          "titre": "Explore the town of Detour in this new Fallout 4 mod chock full of voiced NPCs and quests"
+        }
+      ]
+    },
+    {
+      "id": "stardew-valley-creator-s-new-game-haunted-chocolatier-is-mor",
+      "titre": "Stardew Valley creator's new game, Haunted Chocolatier, is \"more of an action RPG\" than farming sim",
+      "url": "https://www.eurogamer.net/the-haunted-chocolatier-action-rpg-stardew-valley",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/the-haunted-chocolatier-action-rpg-stardew-valley",
+          "titre": "Stardew Valley creator's new game, Haunted Chocolatier, is \"more of an action RPG\" than farming sim"
+        }
+      ]
+    },
+    {
+      "id": "wing-commander-3-is-getting-a-30th-anniversary-edition-with",
+      "titre": "Wing Commander 3 is getting a 30th anniversary edition with remastered FMVs from the restored original tapes",
+      "url": "https://www.videogameschronicle.com/news/wing-commander-3-is-getting-a-30th-anniversary-edition-with-remastered-fmvs-from-the-restored-original-tapes/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/wing-commander-3-is-getting-a-30th-anniversary-edition-with-remastered-fmvs-from-the-restored-original-tapes/",
+          "titre": "Wing Commander 3 is getting a 30th anniversary edition with remastered FMVs from the restored original tapes"
+        }
+      ]
+    },
+    {
+      "id": "feature-50-ps5-ps4-games-to-buy-in-the-ps-store-player-s-cho",
+      "titre": "Feature: 50+ PS5, PS4 Games to Buy in the PS Store Player's Choice Sale (North America/Europe)",
+      "url": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-the-ps-store-players-choice-sale-north-americaeurope",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-the-ps-store-players-choice-sale-north-americaeurope",
+          "titre": "Feature: 50+ PS5, PS4 Games to Buy in the PS Store Player's Choice Sale (North America/Europe)"
+        }
+      ]
+    },
+    {
+      "id": "shogun-2-deserved-better",
+      "titre": "Shogun 2 deserved better",
+      "url": "https://www.pcgamer.com/games/strategy/shogun-2-deserved-better/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/shogun-2-deserved-better/",
+          "titre": "Shogun 2 deserved better"
         }
       ]
     },
@@ -605,7 +797,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 5.9,
       "chaleur": 4,
       "liens": [
         {
@@ -623,7 +815,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -641,8 +833,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -659,8 +851,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -677,7 +869,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -695,7 +887,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.2,
       "chaleur": 3,
       "liens": [
         {
@@ -713,7 +905,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -731,7 +923,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.2,
       "chaleur": 3,
       "liens": [
         {
@@ -749,49 +941,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 21.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/escape-the-backrooms-after-party-update-new-levels-december",
           "titre": "Escape the Backrooms is throwing an After Party with three new levels this December"
-        }
-      ]
-    },
-    {
-      "id": "rpgs-are-simply-better-when-you-re-an-idiot",
-      "titre": "RPGs are simply better when you're an idiot",
-      "url": "https://www.pcgamer.com/games/rpg/rpgs-are-simply-better-when-youre-an-idiot/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/rpgs-are-simply-better-when-youre-an-idiot/",
-          "titre": "RPGs are simply better when you're an idiot"
-        }
-      ]
-    },
-    {
-      "id": "escape-from-elohello-has-me-reliving-my-worst-online-pvp-nig",
-      "titre": "Escape from EloHello has me reliving my worst online PvP nightmares in roguelike-form",
-      "url": "https://www.pcgamer.com/games/roguelike/escape-from-elohello-has-me-reliving-my-worst-online-pvp-nightmares-in-roguelike-form/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/roguelike/escape-from-elohello-has-me-reliving-my-worst-online-pvp-nightmares-in-roguelike-form/",
-          "titre": "Escape from EloHello has me reliving my worst online PvP nightmares in roguelike-form"
         }
       ]
     },
@@ -803,7 +959,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.9,
+      "heures": 24.7,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +977,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.2,
       "chaleur": 3,
       "liens": [
         {
@@ -839,7 +995,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 26.2,
       "chaleur": 3,
       "liens": [
         {
@@ -857,7 +1013,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.6,
+      "heures": 26.4,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +1031,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.7,
+      "heures": 28.5,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +1049,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.7,
+      "heures": 29.5,
       "chaleur": 3,
       "liens": [
         {
@@ -911,7 +1067,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.7,
+      "heures": 29.5,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +1085,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 32.4,
+      "heures": 34.2,
       "chaleur": 3,
       "liens": [
         {
@@ -947,7 +1103,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 34.1,
+      "heures": 35.9,
       "chaleur": 3,
       "liens": [
         {
