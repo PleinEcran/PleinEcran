@@ -1,8 +1,50 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "12/10/2026 à 18h26",
+  "collecte": "12/10/2026 à 20h24",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "dragon-quest-creator-yuji-horii-releases-game-he-says-he-mad",
+      "titre": "Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes",
+      "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz",
+        "Nintendo Life",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 5,
+      "heures": 1.6,
+      "chaleur": 18,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
+          "titre": "Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/the-crazy-wait-for-dragon-quest-12-made-worse-by-creators-astonishing-praise-for-ai",
+          "titre": "The Crazy Wait for Dragon Quest 12 Made Worse by Creator's 'Astonishing' Praise for AI"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dragon-quest-yuji-horii-new-game-ai-30-minutes",
+          "titre": "Dragon Quest co-creator Yuji Horii releases new AI-generated game, and he says it took 30 minutes to make"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/its-truly-astonishing-dragon-quest-creator-yuji-horii-made-an-ai-generated-game-in-30-minutes",
+          "titre": "\"It's Truly Astonishing\" - Dragon Quest Creator Yuji Horii Made An AI-Generated Game In 30 Minutes"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-lastest-game-from-the-creator-of-dragon-quest-was-made-in-about-30-minutes-with-ai/",
+          "titre": "The latest game from the creator of Dragon Quest was made in ‘about 30 minutes’ with AI"
+        }
+      ]
+    },
     {
       "id": "nintendo-s-latin-america-vp-says-there-are-no-plans-to-ditch",
       "titre": "Nintendo's Latin America VP says there are no plans to ditch physical games",
@@ -13,7 +55,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 3,
-      "heures": 0.5,
+      "heures": 2.4,
       "chaleur": 14,
       "liens": [
         {
@@ -34,32 +76,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-produc",
-      "titre": "Nvidia reportedly ends GeForce RTX 5090 graphics card production",
-      "url": "https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production",
+      "id": "epic-games-reportedly-orders-staff-to-implement-ai-first-dev",
+      "titre": "Epic Games reportedly orders staff to implement ‘AI-first’ development",
+      "url": "https://www.videogameschronicle.com/news/epic-games-reportedly-orders-staff-to-implement-ai-first-development/",
       "sources": [
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun",
+        "Eurogamer",
         "VGC"
       ],
-      "reprises": 3,
-      "heures": 2.2,
-      "chaleur": 14,
+      "reprises": 2,
+      "heures": 0.7,
+      "chaleur": 13,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production",
-          "titre": "Nvidia reportedly ends GeForce RTX 5090 graphics card production"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nvidia-are-abandoning-their-rtx-5090-graphics-cards-in-order-to-focus-on-ai-dev-friendly-rtx-pro-ones-leaker-claims",
-          "titre": "Nvidia are abandoning their RTX 5090 graphics cards in order to focus on AI dev friendly RTX Pro ones, leaker claims"
-        },
-        {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/nvidia-has-reportedly-stopped-producing-rtx-5090-cards-to-focus-on-rtx-pro-gpus-for-ai-data-centers/",
-          "titre": "Nvidia has reportedly stopped producing RTX 5090 cards to focus on RTX Pro GPUs for AI data centers"
+          "url": "https://www.videogameschronicle.com/news/epic-games-reportedly-orders-staff-to-implement-ai-first-development/",
+          "titre": "Epic Games reportedly orders staff to implement ‘AI-first’ development"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/epic-games-delays-star-wars-marvel-shooter-ai-development",
+          "titre": "Epic Games reportedly delays Star Wars and Marvel shooter, as the Fortnite maker embraces \"AI-accelerated development\""
         }
       ]
     },
@@ -73,7 +109,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 12,
       "liens": [
         {
@@ -94,32 +130,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "dragon-quest-co-creator-yuji-horii-releases-new-ai-generated",
-      "titre": "Dragon Quest co-creator Yuji Horii releases new AI-generated game, and he says it took 30 minutes to make",
-      "url": "https://www.eurogamer.net/dragon-quest-yuji-horii-new-game-ai-30-minutes",
+      "id": "nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-produc",
+      "titre": "Nvidia reportedly ends GeForce RTX 5090 graphics card production",
+      "url": "https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production",
       "sources": [
-        "Eurogamer",
-        "Nintendo Life",
+        "GamesIndustry.biz",
+        "Rock Paper Shotgun",
         "VGC"
       ],
       "reprises": 3,
-      "heures": 1.2,
+      "heures": 4.1,
       "chaleur": 12,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dragon-quest-yuji-horii-new-game-ai-30-minutes",
-          "titre": "Dragon Quest co-creator Yuji Horii releases new AI-generated game, and he says it took 30 minutes to make"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production",
+          "titre": "Nvidia reportedly ends GeForce RTX 5090 graphics card production"
         },
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/its-truly-astonishing-dragon-quest-creator-yuji-horii-made-an-ai-generated-game-in-30-minutes",
-          "titre": "\"It's Truly Astonishing\" - Dragon Quest Creator Yuji Horii Made An AI-Generated Game In 30 Minutes"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/nvidia-are-abandoning-their-rtx-5090-graphics-cards-in-order-to-focus-on-ai-dev-friendly-rtx-pro-ones-leaker-claims",
+          "titre": "Nvidia are abandoning their RTX 5090 graphics cards in order to focus on AI dev friendly RTX Pro ones, leaker claims"
         },
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-lastest-game-from-the-creator-of-dragon-quest-was-made-in-about-30-minutes-with-ai/",
-          "titre": "The latest game from the creator of Dragon Quest was made in ‘about 30 minutes’ with AI"
+          "url": "https://www.videogameschronicle.com/news/nvidia-has-reportedly-stopped-producing-rtx-5090-cards-to-focus-on-rtx-pro-gpus-for-ai-data-centers/",
+          "titre": "Nvidia has reportedly stopped producing RTX 5090 cards to focus on RTX Pro GPUs for AI data centers"
+        }
+      ]
+    },
+    {
+      "id": "valve-have-released-the-steam-frame-s-cad-files-but-there-s",
+      "titre": "Valve have released the Steam Frame's CAD files, but there’s already a cottage industry of DIY wrist straps and lifesize skull stands",
+      "url": "https://www.rockpapershotgun.com/valve-have-released-the-steam-frames-cad-files-but-theres-already-a-cottage-industry-of-diy-wrist-straps-and-lifesize-skull-stands",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 3.6,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/valve-have-released-the-steam-frames-cad-files-but-theres-already-a-cottage-industry-of-diy-wrist-straps-and-lifesize-skull-stands",
+          "titre": "Valve have released the Steam Frame's CAD files, but there’s already a cottage industry of DIY wrist straps and lifesize skull stands"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/",
+          "titre": "Here come the weird and wonderful mods for the Steam Frame, as Valve drops the full CAD files for free"
         }
       ]
     },
@@ -133,8 +193,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 3.4,
-      "chaleur": 12,
+      "heures": 5.4,
+      "chaleur": 10,
       "liens": [
         {
           "source": "VGC",
@@ -154,78 +214,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "valve-have-released-the-steam-frame-s-cad-files-but-there-s",
-      "titre": "Valve have released the Steam Frame's CAD files, but there’s already a cottage industry of DIY wrist straps and lifesize skull stands",
-      "url": "https://www.rockpapershotgun.com/valve-have-released-the-steam-frames-cad-files-but-theres-already-a-cottage-industry-of-diy-wrist-straps-and-lifesize-skull-stands",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 1.7,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valve-have-released-the-steam-frames-cad-files-but-theres-already-a-cottage-industry-of-diy-wrist-straps-and-lifesize-skull-stands",
-          "titre": "Valve have released the Steam Frame's CAD files, but there’s already a cottage industry of DIY wrist straps and lifesize skull stands"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/",
-          "titre": "Here come the weird and wonderful mods for the Steam Frame, as Valve drops the full CAD files for free"
-        }
-      ]
-    },
-    {
-      "id": "you-need-not-hunger-for-that-zelda-ocarina-of-time-remake-wh",
-      "titre": "You need not hunger for that Zelda Ocarina of Time remake when we already have Indigo, a colossal N64 romhack featuring mushroom forests and bearded Link",
-      "url": "https://www.rockpapershotgun.com/you-need-not-hunger-for-that-zelda-ocarina-of-time-remake-when-we-already-have-indigo-a-colossal-n64-romhack-featuring-mushroom-forests-and-bearded-link",
-      "sources": [
-        "Nintendo Life",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 3.4,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/you-need-not-hunger-for-that-zelda-ocarina-of-time-remake-when-we-already-have-indigo-a-colossal-n64-romhack-featuring-mushroom-forests-and-bearded-link",
-          "titre": "You need not hunger for that Zelda Ocarina of Time remake when we already have Indigo, a colossal N64 romhack featuring mushroom forests and bearded Link"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/how-do-you-pronounce-these-words-from-zelda-ocarina-of-time",
-          "titre": "Feature: How Do You Pronounce These Words From Zelda: Ocarina Of Time?"
-        }
-      ]
-    },
-    {
-      "id": "group-behind-gta-6-leaks-threatens-to-release-alleged-full-b",
-      "titre": "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode",
-      "url": "https://www.gamesindustry.biz/group-behind-gta-6-leaks-threatens-to-release-alleged-full-build-of-game-including-story-mode",
-      "sources": [
-        "GamesIndustry.biz",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 7.9,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/group-behind-gta-6-leaks-threatens-to-release-alleged-full-build-of-game-including-story-mode",
-          "titre": "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/group-threatens-to-leak-full-gta-6-build-if-physical-plans-arent-reversed/",
-          "titre": "Group threatens to leak ‘full’ GTA 6 build if physical plans aren’t reversed"
-        }
-      ]
-    },
-    {
       "id": "marvel-tokon-s-year-one-dlc-roster-confirmed-including-venom",
       "titre": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee",
       "url": "https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/",
@@ -235,7 +223,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 10,
       "liens": [
         {
@@ -256,6 +244,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "sega-labelled-stupid-liars-after-failing-to-fulfil-all-futur",
+      "titre": "SEGA Labelled 'Stupid Liars' After Failing to Fulfil 'All Future Paid DLC' Promise for Sonic Racing: CrossWorlds",
+      "url": "https://www.pushsquare.com/news/2026/10/sega-labelled-stupid-liars-after-failing-to-fulfil-all-future-paid-dlc-promise-for-sonic-racing-crossworlds",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sega-labelled-stupid-liars-after-failing-to-fulfil-all-future-paid-dlc-promise-for-sonic-racing-crossworlds",
+          "titre": "SEGA Labelled 'Stupid Liars' After Failing to Fulfil 'All Future Paid DLC' Promise for Sonic Racing: CrossWorlds"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-players-demand-year-2-for-free-after-noting-the-digital-deluxe-edition-promised-all-future-paid-dlc/",
+          "titre": "Sonic Racing CrossWorlds players demand Year 2 for free after noting the Digital Deluxe Edition promised ‘all future paid DLC’"
+        }
+      ]
+    },
+    {
       "id": "i-don-t-know-what-rick-and-morty-s-about-but-i-have-turned-g",
       "titre": "I don't know what Rick and Morty's about but I have turned GTA 5 into its perfect replica",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/i-dont-know-what-rick-and-mortys-about-but-i-have-turned-gta-5-into-its-perfect-replica/",
@@ -263,13 +275,55 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/i-dont-know-what-rick-and-mortys-about-but-i-have-turned-gta-5-into-its-perfect-replica/",
           "titre": "I don't know what Rick and Morty's about but I have turned GTA 5 into its perfect replica"
+        }
+      ]
+    },
+    {
+      "id": "you-need-not-hunger-for-that-zelda-ocarina-of-time-remake-wh",
+      "titre": "You need not hunger for that Zelda Ocarina of Time remake when we already have Indigo, a colossal N64 romhack featuring mushroom forests and bearded Link",
+      "url": "https://www.rockpapershotgun.com/you-need-not-hunger-for-that-zelda-ocarina-of-time-remake-when-we-already-have-indigo-a-colossal-n64-romhack-featuring-mushroom-forests-and-bearded-link",
+      "sources": [
+        "Nintendo Life",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 5.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/you-need-not-hunger-for-that-zelda-ocarina-of-time-remake-when-we-already-have-indigo-a-colossal-n64-romhack-featuring-mushroom-forests-and-bearded-link",
+          "titre": "You need not hunger for that Zelda Ocarina of Time remake when we already have Indigo, a colossal N64 romhack featuring mushroom forests and bearded Link"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/how-do-you-pronounce-these-words-from-zelda-ocarina-of-time",
+          "titre": "Feature: How Do You Pronounce These Words From Zelda: Ocarina Of Time?"
+        }
+      ]
+    },
+    {
+      "id": "epic-games-delays-disney-game-and-tells-developers-to-go-ai",
+      "titre": "Epic Games delays Disney game and tells developers to go \"AI first\"",
+      "url": "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first",
+          "titre": "Epic Games delays Disney game and tells developers to go \"AI first\""
         }
       ]
     },
@@ -281,7 +335,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.7,
       "chaleur": 8,
       "liens": [
         {
@@ -299,7 +353,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.8,
       "chaleur": 8,
       "liens": [
         {
@@ -310,9 +364,27 @@ const VEILLE = {
       ]
     },
     {
+      "id": "group-behind-gta-6-leaks-threatens-to-release-alleged-full-b",
+      "titre": "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode",
+      "url": "https://www.gamesindustry.biz/group-behind-gta-6-leaks-threatens-to-release-alleged-full-build-of-game-including-story-mode",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 9.9,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/group-behind-gta-6-leaks-threatens-to-release-alleged-full-build-of-game-including-story-mode",
+          "titre": "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode"
+        }
+      ]
+    },
+    {
       "id": "game-conference-mx-gcmx",
       "titre": "Game Conference MX (GCMX)",
-      "url": "https://www.gamedeveloper.com/events/untitled",
+      "url": "https://www.gamedeveloper.comwww.gameconferencemx.com",
       "sources": [
         "Game Developer"
       ],
@@ -322,7 +394,7 @@ const VEILLE = {
       "liens": [
         {
           "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/events/untitled",
+          "url": "https://www.gamedeveloper.comwww.gameconferencemx.com",
           "titre": "Game Conference MX (GCMX)"
         }
       ]
@@ -330,7 +402,7 @@ const VEILLE = {
     {
       "id": "gamescom",
       "titre": "gamescom",
-      "url": "https://www.gamedeveloper.com/events/gamescom",
+      "url": "https://www.gamedeveloper.com/keyword/-event-gamescom",
       "sources": [
         "Game Developer"
       ],
@@ -340,8 +412,62 @@ const VEILLE = {
       "liens": [
         {
           "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/events/gamescom",
+          "url": "https://www.gamedeveloper.com/keyword/-event-gamescom",
           "titre": "gamescom"
+        }
+      ]
+    },
+    {
+      "id": "does-blizzard-s-revival-of-its-classic-games-signal-a-return",
+      "titre": "Does Blizzard's revival of its classic games signal a return of the 'old Blizzard?'",
+      "url": "https://www.pcgamer.com/games/rts/does-blizzards-revival-of-its-classic-games-signal-a-return-of-the-old-blizzard/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rts/does-blizzards-revival-of-its-classic-games-signal-a-return-of-the-old-blizzard/",
+          "titre": "Does Blizzard's revival of its classic games signal a return of the 'old Blizzard?'"
+        }
+      ]
+    },
+    {
+      "id": "no-more-hand-written-code-fortnite-dev-s-disney-game-to-be",
+      "titre": "'No More Hand Written Code': Fortnite Dev's Disney Game to Be an 'AI First' Project",
+      "url": "https://www.pushsquare.com/news/2026/10/no-more-hand-written-code-fortnite-devs-disney-game-to-be-an-ai-first-project",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/no-more-hand-written-code-fortnite-devs-disney-game-to-be-an-ai-first-project",
+          "titre": "'No More Hand Written Code': Fortnite Dev's Disney Game to Be an 'AI First' Project"
+        }
+      ]
+    },
+    {
+      "id": "why-alts-are-part-of-world-of-warcraft-forever-s-core-progre",
+      "titre": "Why alts are part of World of Warcraft: Forever's core progression plans",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/why-alts-are-part-of-world-of-warcraft-forevers-core-progression-plans/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/why-alts-are-part-of-world-of-warcraft-forevers-core-progression-plans/",
+          "titre": "Why alts are part of World of Warcraft: Forever's core progression plans"
         }
       ]
     },
@@ -353,7 +479,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
@@ -371,7 +497,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -389,7 +515,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -407,7 +533,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
@@ -425,7 +551,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -443,157 +569,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/clair-obscur-expedition-33-actor-outs-mysterious-sega-game",
           "titre": "Clair Obscur: Expedition 33 Actor Outs Mysterious SEGA Game"
-        }
-      ]
-    },
-    {
-      "id": "poll-vote-for-your-ps5-game-of-the-month-september-2026",
-      "titre": "Poll: Vote for Your PS5 Game of the Month (September 2026)",
-      "url": "https://www.pushsquare.com/features/poll-vote-for-your-ps5-game-of-the-month-september-2026",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/poll-vote-for-your-ps5-game-of-the-month-september-2026",
-          "titre": "Poll: Vote for Your PS5 Game of the Month (September 2026)"
-        }
-      ]
-    },
-    {
-      "id": "aream-co-games-industry-m-a-generates-57-8-bn-in-q3-includin",
-      "titre": "Aream & Co: Games industry M&A generates $57.8 bn in Q3, including EA's $55bn leveraged buyout",
-      "url": "https://www.gamesindustry.biz/aream-co-games-industry-ma-generates-578-bn-in-q3-including-eas-55bn-leveraged-buyout",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/aream-co-games-industry-ma-generates-578-bn-in-q3-including-eas-55bn-leveraged-buyout",
-          "titre": "Aream & Co: Games industry M&A generates $57.8 bn in Q3, including EA's $55bn leveraged buyout"
-        }
-      ]
-    },
-    {
-      "id": "people-are-being-robbed-of-crypto-by-a-tiny-chip-implanted-i",
-      "titre": "People are being robbed of crypto by a tiny chip implanted in their hardware, with $100 million said to have been stolen already",
-      "url": "https://www.pcgamer.com/hardware/people-are-being-robbed-of-crypto-by-a-tiny-chip-implanted-in-their-hardware-with-usd100-million-said-to-have-been-stolen-already/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/people-are-being-robbed-of-crypto-by-a-tiny-chip-implanted-in-their-hardware-with-usd100-million-said-to-have-been-stolen-already/",
-          "titre": "People are being robbed of crypto by a tiny chip implanted in their hardware, with $100 million said to have been stolen already"
-        }
-      ]
-    },
-    {
-      "id": "game-developer-veteran-chris-kerr-launches-vertical-slice-a",
-      "titre": "Game Developer veteran Chris Kerr launches Vertical Slice, a games publication \"giving workers a voice and holding power to account\"",
-      "url": "https://www.gamesindustry.biz/game-developer-veteran-chris-kerr-launches-vertical-slice-a-games-publication-giving-workers-a-voice-and-holding-power-to-account",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/game-developer-veteran-chris-kerr-launches-vertical-slice-a-games-publication-giving-workers-a-voice-and-holding-power-to-account",
-          "titre": "Game Developer veteran Chris Kerr launches Vertical Slice, a games publication \"giving workers a voice and holding power to account\""
-        }
-      ]
-    },
-    {
-      "id": "schr-dinger-s-gpu-set-for-an-early-2027-release-as-the-dead",
-      "titre": "Schrödinger's GPU set for an early 2027 release as the dead/alive 24 GB RTX 5080 Super box is shaken once more",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/schrodingers-gpu-set-for-an-early-2027-release-as-the-dead-alive-24-gb-rtx-5080-super-box-is-shaken-once-more/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/schrodingers-gpu-set-for-an-early-2027-release-as-the-dead-alive-24-gb-rtx-5080-super-box-is-shaken-once-more/",
-          "titre": "Schrödinger's GPU set for an early 2027 release as the dead/alive 24 GB RTX 5080 Super box is shaken once more"
-        }
-      ]
-    },
-    {
-      "id": "i-am-the-controller-now-mit-engineers-have-created-a-second",
-      "titre": "I am the controller now: MIT engineers have created a 'second skin' that could one day track whole bodies in VR",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/i-am-the-controller-now-mit-engineers-have-created-a-second-skin-that-could-one-day-track-whole-bodies-in-vr/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/i-am-the-controller-now-mit-engineers-have-created-a-second-skin-that-could-one-day-track-whole-bodies-in-vr/",
-          "titre": "I am the controller now: MIT engineers have created a 'second skin' that could one day track whole bodies in VR"
-        }
-      ]
-    },
-    {
-      "id": "dd2-dark-arisen-all-norgan-portcrystal-locations",
-      "titre": "DD2 Dark Arisen: All Norgan Portcrystal locations",
-      "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-norgan-portcrystal-locations/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-norgan-portcrystal-locations/",
-          "titre": "DD2 Dark Arisen: All Norgan Portcrystal locations"
-        }
-      ]
-    },
-    {
-      "id": "he-man-s-gorgeous-beat-em-up-finally-gets-a-new-date-pre-ord",
-      "titre": "He-Man's Gorgeous Beat 'Em Up Finally Gets A New Date, Pre-Orders Now Live",
-      "url": "https://www.nintendolife.com/news/2026/10/he-mans-gorgeous-beat-em-up-finally-gets-a-new-date-pre-orders-now-live",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/he-mans-gorgeous-beat-em-up-finally-gets-a-new-date-pre-orders-now-live",
-          "titre": "He-Man's Gorgeous Beat 'Em Up Finally Gets A New Date, Pre-Orders Now Live"
         }
       ]
     },
@@ -605,7 +587,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 6,
       "liens": [
         {
@@ -623,7 +605,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 8.7,
       "chaleur": 6,
       "liens": [
         {
@@ -641,7 +623,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.9,
       "chaleur": 6,
       "liens": [
         {
@@ -659,7 +641,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.0,
+      "heures": 32.0,
       "chaleur": 6,
       "liens": [
         {
@@ -677,13 +659,157 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/",
           "titre": "Steam Week in Review: The curious case of Wonder Boy in Monster Land's dubious PC debut"
+        }
+      ]
+    },
+    {
+      "id": "poll-vote-for-your-ps5-game-of-the-month-september-2026",
+      "titre": "Poll: Vote for Your PS5 Game of the Month (September 2026)",
+      "url": "https://www.pushsquare.com/features/poll-vote-for-your-ps5-game-of-the-month-september-2026",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/poll-vote-for-your-ps5-game-of-the-month-september-2026",
+          "titre": "Poll: Vote for Your PS5 Game of the Month (September 2026)"
+        }
+      ]
+    },
+    {
+      "id": "aream-co-games-industry-m-a-generates-57-8-bn-in-q3-includin",
+      "titre": "Aream & Co: Games industry M&A generates $57.8 bn in Q3, including EA's $55bn leveraged buyout",
+      "url": "https://www.gamesindustry.biz/aream-co-games-industry-ma-generates-578-bn-in-q3-including-eas-55bn-leveraged-buyout",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/aream-co-games-industry-ma-generates-578-bn-in-q3-including-eas-55bn-leveraged-buyout",
+          "titre": "Aream & Co: Games industry M&A generates $57.8 bn in Q3, including EA's $55bn leveraged buyout"
+        }
+      ]
+    },
+    {
+      "id": "people-are-being-robbed-of-crypto-by-a-tiny-chip-implanted-i",
+      "titre": "People are being robbed of crypto by a tiny chip implanted in their hardware, with $100 million said to have been stolen already",
+      "url": "https://www.pcgamer.com/hardware/people-are-being-robbed-of-crypto-by-a-tiny-chip-implanted-in-their-hardware-with-usd100-million-said-to-have-been-stolen-already/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/people-are-being-robbed-of-crypto-by-a-tiny-chip-implanted-in-their-hardware-with-usd100-million-said-to-have-been-stolen-already/",
+          "titre": "People are being robbed of crypto by a tiny chip implanted in their hardware, with $100 million said to have been stolen already"
+        }
+      ]
+    },
+    {
+      "id": "game-developer-veteran-chris-kerr-launches-vertical-slice-a",
+      "titre": "Game Developer veteran Chris Kerr launches Vertical Slice, a games publication \"giving workers a voice and holding power to account\"",
+      "url": "https://www.gamesindustry.biz/game-developer-veteran-chris-kerr-launches-vertical-slice-a-games-publication-giving-workers-a-voice-and-holding-power-to-account",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/game-developer-veteran-chris-kerr-launches-vertical-slice-a-games-publication-giving-workers-a-voice-and-holding-power-to-account",
+          "titre": "Game Developer veteran Chris Kerr launches Vertical Slice, a games publication \"giving workers a voice and holding power to account\""
+        }
+      ]
+    },
+    {
+      "id": "schr-dinger-s-gpu-set-for-an-early-2027-release-as-the-dead",
+      "titre": "Schrödinger's GPU set for an early 2027 release as the dead/alive 24 GB RTX 5080 Super box is shaken once more",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/schrodingers-gpu-set-for-an-early-2027-release-as-the-dead-alive-24-gb-rtx-5080-super-box-is-shaken-once-more/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/schrodingers-gpu-set-for-an-early-2027-release-as-the-dead-alive-24-gb-rtx-5080-super-box-is-shaken-once-more/",
+          "titre": "Schrödinger's GPU set for an early 2027 release as the dead/alive 24 GB RTX 5080 Super box is shaken once more"
+        }
+      ]
+    },
+    {
+      "id": "i-am-the-controller-now-mit-engineers-have-created-a-second",
+      "titre": "I am the controller now: MIT engineers have created a 'second skin' that could one day track whole bodies in VR",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/i-am-the-controller-now-mit-engineers-have-created-a-second-skin-that-could-one-day-track-whole-bodies-in-vr/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/i-am-the-controller-now-mit-engineers-have-created-a-second-skin-that-could-one-day-track-whole-bodies-in-vr/",
+          "titre": "I am the controller now: MIT engineers have created a 'second skin' that could one day track whole bodies in VR"
+        }
+      ]
+    },
+    {
+      "id": "dd2-dark-arisen-all-norgan-portcrystal-locations",
+      "titre": "DD2 Dark Arisen: All Norgan Portcrystal locations",
+      "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-norgan-portcrystal-locations/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-norgan-portcrystal-locations/",
+          "titre": "DD2 Dark Arisen: All Norgan Portcrystal locations"
+        }
+      ]
+    },
+    {
+      "id": "he-man-s-gorgeous-beat-em-up-finally-gets-a-new-date-pre-ord",
+      "titre": "He-Man's Gorgeous Beat 'Em Up Finally Gets A New Date, Pre-Orders Now Live",
+      "url": "https://www.nintendolife.com/news/2026/10/he-mans-gorgeous-beat-em-up-finally-gets-a-new-date-pre-orders-now-live",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/he-mans-gorgeous-beat-em-up-finally-gets-a-new-date-pre-orders-now-live",
+          "titre": "He-Man's Gorgeous Beat 'Em Up Finally Gets A New Date, Pre-Orders Now Live"
         }
       ]
     },
@@ -695,7 +821,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -713,7 +839,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
@@ -731,7 +857,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -749,7 +875,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.7,
       "chaleur": 4,
       "liens": [
         {
@@ -767,7 +893,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -785,7 +911,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -803,7 +929,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -821,7 +947,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -839,7 +965,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -857,31 +983,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-play-a-human-eating-katamari-from-outer-space-take-over-a-nature-reserve-in-planet-zoo-2-and-battle-napoleonic-body-horror-in-valor-mortis",
           "titre": "This week in PC games: play a human-eating Katamari from outer space, take over a nature reserve in Planet Zoo 2, and battle Napoleonic body horror in Valor Mortis"
-        }
-      ]
-    },
-    {
-      "id": "sonic-racing-crossworlds-players-demand-year-2-for-free-afte",
-      "titre": "Sonic Racing CrossWorlds players demand Year 2 for free after noting the Digital Deluxe Edition promised ‘all future paid DLC’",
-      "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-players-demand-year-2-for-free-after-noting-the-digital-deluxe-edition-promised-all-future-paid-dlc/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 6.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-players-demand-year-2-for-free-after-noting-the-digital-deluxe-edition-promised-all-future-paid-dlc/",
-          "titre": "Sonic Racing CrossWorlds players demand Year 2 for free after noting the Digital Deluxe Edition promised ‘all future paid DLC’"
         }
       ]
     },
@@ -893,7 +1001,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -911,7 +1019,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 8.7,
       "chaleur": 4,
       "liens": [
         {
@@ -929,7 +1037,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -947,7 +1055,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -965,7 +1073,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -983,7 +1091,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1001,7 +1109,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.7,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1019,7 +1127,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1037,7 +1145,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1055,7 +1163,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1073,7 +1181,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1082,99 +1190,9 @@ const VEILLE = {
           "titre": "Feature: 50+ PS5, PS4 Games to Buy in the PS Store Player's Choice Sale (North America/Europe)"
         }
       ]
-    },
-    {
-      "id": "shogun-2-deserved-better",
-      "titre": "Shogun 2 deserved better",
-      "url": "https://www.pcgamer.com/games/strategy/shogun-2-deserved-better/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 9.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/shogun-2-deserved-better/",
-          "titre": "Shogun 2 deserved better"
-        }
-      ]
-    },
-    {
-      "id": "dmz-for-call-of-duty-modern-warfare-4-being-released-early-b",
-      "titre": "DMZ for Call of Duty: Modern Warfare 4 being released early, but Infinity Ward shoots down PvE hopes",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-early-access-no-pve",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 9.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-early-access-no-pve",
-          "titre": "DMZ for Call of Duty: Modern Warfare 4 being released early, but Infinity Ward shoots down PvE hopes"
-        }
-      ]
-    },
-    {
-      "id": "bafta-awards-over-270-000-to-112-recipients-in-uk-and-us-to",
-      "titre": "BAFTA awards over £270,000 to 112 recipients in UK and US to support career growth in games, film, and TV",
-      "url": "https://www.gamesindustry.biz/bafta-awards-over-270000-to-112-recipients-in-uk-and-us-to-support-career-growth-in-games-film-and-tv",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/bafta-awards-over-270000-to-112-recipients-in-uk-and-us-to-support-career-growth-in-games-film-and-tv",
-          "titre": "BAFTA awards over £270,000 to 112 recipients in UK and US to support career growth in games, film, and TV"
-        }
-      ]
-    },
-    {
-      "id": "star-wars-galactic-racer-s-devs-tested-its-roguelite-progres",
-      "titre": "Star Wars Galactic Racer's devs tested its roguelite progression system by turning it into a board game",
-      "url": "https://www.pcgamer.com/games/racing/star-wars-galactic-racers-devs-tested-its-roguelite-progression-system-by-turning-it-into-a-board-game/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 16.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/racing/star-wars-galactic-racers-devs-tested-its-roguelite-progression-system-by-turning-it-into-a-board-game/",
-          "titre": "Star Wars Galactic Racer's devs tested its roguelite progression system by turning it into a board game"
-        }
-      ]
-    },
-    {
-      "id": "seamless-landing-mod-looks-set-to-bring-starfield-another-st",
-      "titre": "Seamless Landing mod looks set to bring Starfield another step closer to No Man's Sky",
-      "url": "https://www.pcgamer.com/games/rpg/seamless-landing-mod-looks-set-to-bring-starfield-another-step-closer-to-no-mans-sky/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/seamless-landing-mod-looks-set-to-bring-starfield-another-step-closer-to-no-mans-sky/",
-          "titre": "Seamless Landing mod looks set to bring Starfield another step closer to No Man's Sky"
-        }
-      ]
     }
   ],
   "alertes": [
-    "Nintendo's Latin America VP says there are no plans to ditch physical games"
+    "Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes"
   ]
 };
