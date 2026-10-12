@@ -1,29 +1,23 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "12/10/2026 à 02h23",
+  "collecte": "12/10/2026 à 04h24",
   "seuil": 14,
   "sujets": [
     {
-      "id": "group-threatens-to-leak-full-gta-6-build-if-physical-plans-a",
-      "titre": "Group threatens to leak ‘full’ GTA 6 build if physical plans aren’t reversed",
-      "url": "https://www.videogameschronicle.com/news/group-threatens-to-leak-full-gta-6-build-if-physical-plans-arent-reversed/",
+      "id": "steam-week-in-review-the-curious-case-of-wonder-boy-in-monst",
+      "titre": "Steam Week in Review: The curious case of Wonder Boy in Monster Land's dubious PC debut",
+      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/",
       "sources": [
-        "PC Gamer",
-        "VGC"
+        "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 15.8,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/group-threatens-to-leak-full-gta-6-build-if-physical-plans-arent-reversed/",
-          "titre": "Group threatens to leak ‘full’ GTA 6 build if physical plans aren’t reversed"
-        },
-        {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-to-upload-a-build-with-full-story-mode/",
-          "titre": "GTA 6 leaker threatens to upload a build with 'full story mode'"
+          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/",
+          "titre": "Steam Week in Review: The curious case of Wonder Boy in Monster Land's dubious PC debut"
         }
       ]
     },
@@ -36,7 +30,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 8.9,
+      "heures": 10.9,
       "chaleur": 7,
       "liens": [
         {
@@ -95,7 +89,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.2,
       "chaleur": 6,
       "liens": [
         {
@@ -113,67 +107,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/rpg/seamless-landing-mod-looks-set-to-bring-starfield-another-step-closer-to-no-mans-sky/",
           "titre": "Seamless Landing mod looks set to bring Starfield another step closer to No Man's Sky"
-        }
-      ]
-    },
-    {
-      "id": "the-shortlist-for-2026-s-golden-joystick-awards-is-out-inclu",
-      "titre": "The shortlist for 2026's Golden Joystick Awards is out, including PC Game of the Year, and you can vote now",
-      "url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-shortlist-for-2026s-golden-joystick-awards-is-out-including-pc-game-of-the-year-and-you-can-vote-now/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-shortlist-for-2026s-golden-joystick-awards-is-out-including-pc-game-of-the-year-and-you-can-vote-now/",
-          "titre": "The shortlist for 2026's Golden Joystick Awards is out, including PC Game of the Year, and you can vote now"
-        }
-      ]
-    },
-    {
-      "id": "pvp-pinball-is-such-a-good-idea-i-can-t-believe-i-haven-t-pl",
-      "titre": "PvP pinball is such a good idea I can't believe I haven't played it before",
-      "url": "https://www.pcgamer.com/games/pvp-pinball-is-such-a-good-idea-i-cant-believe-i-havent-played-it-before/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/pvp-pinball-is-such-a-good-idea-i-cant-believe-i-havent-played-it-before/",
-          "titre": "PvP pinball is such a good idea I can't believe I haven't played it before"
-        }
-      ]
-    },
-    {
-      "id": "yahtzee-is-still-out-there-being-mean-about-videogames-and-g",
-      "titre": "Yahtzee is still out there being mean about videogames, and good for him",
-      "url": "https://www.pcgamer.com/games/yahtzee-is-still-out-there-being-mean-about-videogames-and-good-for-him/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/yahtzee-is-still-out-there-being-mean-about-videogames-and-good-for-him/",
-          "titre": "Yahtzee is still out there being mean about videogames, and good for him"
         }
       ]
     },
@@ -185,13 +125,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 16.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
           "titre": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked"
+        }
+      ]
+    },
+    {
+      "id": "group-threatens-to-leak-full-gta-6-build-if-physical-plans-a",
+      "titre": "Group threatens to leak ‘full’ GTA 6 build if physical plans aren’t reversed",
+      "url": "https://www.videogameschronicle.com/news/group-threatens-to-leak-full-gta-6-build-if-physical-plans-arent-reversed/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 17.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/group-threatens-to-leak-full-gta-6-build-if-physical-plans-arent-reversed/",
+          "titre": "Group threatens to leak ‘full’ GTA 6 build if physical plans aren’t reversed"
         }
       ]
     },
@@ -203,7 +161,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 30.0,
+      "heures": 32.0,
       "chaleur": 6,
       "liens": [
         {
@@ -221,7 +179,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -239,7 +197,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.7,
+      "heures": 16.7,
       "chaleur": 5,
       "liens": [
         {
@@ -257,7 +215,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.6,
+      "heures": 26.7,
       "chaleur": 5,
       "liens": [
         {
@@ -275,7 +233,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 29.4,
       "chaleur": 5,
       "liens": [
         {
@@ -293,13 +251,67 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.2,
+      "heures": 33.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game",
           "titre": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam"
+        }
+      ]
+    },
+    {
+      "id": "the-shortlist-for-2026-s-golden-joystick-awards-is-out-inclu",
+      "titre": "The shortlist for 2026's Golden Joystick Awards is out, including PC Game of the Year, and you can vote now",
+      "url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-shortlist-for-2026s-golden-joystick-awards-is-out-including-pc-game-of-the-year-and-you-can-vote-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-shortlist-for-2026s-golden-joystick-awards-is-out-including-pc-game-of-the-year-and-you-can-vote-now/",
+          "titre": "The shortlist for 2026's Golden Joystick Awards is out, including PC Game of the Year, and you can vote now"
+        }
+      ]
+    },
+    {
+      "id": "pvp-pinball-is-such-a-good-idea-i-can-t-believe-i-haven-t-pl",
+      "titre": "PvP pinball is such a good idea I can't believe I haven't played it before",
+      "url": "https://www.pcgamer.com/games/pvp-pinball-is-such-a-good-idea-i-cant-believe-i-havent-played-it-before/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/pvp-pinball-is-such-a-good-idea-i-cant-believe-i-havent-played-it-before/",
+          "titre": "PvP pinball is such a good idea I can't believe I haven't played it before"
+        }
+      ]
+    },
+    {
+      "id": "yahtzee-is-still-out-there-being-mean-about-videogames-and-g",
+      "titre": "Yahtzee is still out there being mean about videogames, and good for him",
+      "url": "https://www.pcgamer.com/games/yahtzee-is-still-out-there-being-mean-about-videogames-and-good-for-him/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/yahtzee-is-still-out-there-being-mean-about-videogames-and-good-for-him/",
+          "titre": "Yahtzee is still out there being mean about videogames, and good for him"
         }
       ]
     },
@@ -311,7 +323,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -329,7 +341,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -347,7 +359,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -365,8 +377,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -383,8 +395,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -401,7 +413,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.3,
       "chaleur": 3,
       "liens": [
         {
@@ -419,7 +431,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.7,
       "chaleur": 3,
       "liens": [
         {
@@ -437,7 +449,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 15.2,
       "chaleur": 3,
       "liens": [
         {
@@ -455,7 +467,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -473,7 +485,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -491,7 +503,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -509,7 +521,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 16.2,
       "chaleur": 3,
       "liens": [
         {
@@ -527,7 +539,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.3,
       "chaleur": 3,
       "liens": [
         {
@@ -545,7 +557,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -563,7 +575,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -581,7 +593,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -599,7 +611,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -617,7 +629,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -635,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.1,
+      "heures": 24.2,
       "chaleur": 3,
       "liens": [
         {
@@ -653,7 +665,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.8,
+      "heures": 25.8,
       "chaleur": 3,
       "liens": [
         {
@@ -671,7 +683,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.9,
+      "heures": 27.9,
       "chaleur": 3,
       "liens": [
         {
@@ -689,7 +701,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.5,
+      "heures": 30.5,
       "chaleur": 3,
       "liens": [
         {
@@ -707,7 +719,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 31.4,
+      "heures": 33.4,
       "chaleur": 3,
       "liens": [
         {
@@ -725,7 +737,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 32.5,
+      "heures": 34.5,
       "chaleur": 3,
       "liens": [
         {
@@ -743,7 +755,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 33.4,
+      "heures": 35.4,
       "chaleur": 3,
       "liens": [
         {
@@ -761,49 +773,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 33.9,
+      "heures": 35.9,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/dire-estimated-gears-of-war-e-day-sales-raise-queries-about-last-minute-ps5-cancellation",
           "titre": "Dire Estimated Gears of War: E-Day Sales Raise Queries About Last-Minute PS5 Cancellation"
-        }
-      ]
-    },
-    {
-      "id": "resident-evil-inspired-cannibal-dungeon-crawler-medium-rare",
-      "titre": "Resident Evil inspired, cannibal dungeon crawler Medium Rare has a delightful art style trick up its sleeve: stock photos",
-      "url": "https://www.rockpapershotgun.com/resident-evil-inspired-cannibal-dungeon-crawler-medium-rare-has-a-delightful-art-style-trick-up-its-sleeve-stock-photos",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 34.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/resident-evil-inspired-cannibal-dungeon-crawler-medium-rare-has-a-delightful-art-style-trick-up-its-sleeve-stock-photos",
-          "titre": "Resident Evil inspired, cannibal dungeon crawler Medium Rare has a delightful art style trick up its sleeve: stock photos"
-        }
-      ]
-    },
-    {
-      "id": "dd2-dark-arisen-hal-s-treasure-hunt-quest-guide",
-      "titre": "DD2 Dark Arisen: Hal’s Treasure Hunt quest guide",
-      "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-hals-treasure-hunt-quest-guide/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 35.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-hals-treasure-hunt-quest-guide/",
-          "titre": "DD2 Dark Arisen: Hal’s Treasure Hunt quest guide"
         }
       ]
     }
