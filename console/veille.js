@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "12/10/2026 à 00h34",
+  "collecte": "12/10/2026 à 02h23",
   "seuil": 14,
   "sujets": [
     {
@@ -12,7 +12,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 14.0,
+      "heures": 15.8,
       "chaleur": 9,
       "liens": [
         {
@@ -28,30 +28,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "squadron-42-opens-for-steam-wishlisting-ahead-of-a-planned-q",
-      "titre": "Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release",
-      "url": "https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 12.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release",
-          "titre": "Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/squadron-42-has-a-steam-page/",
-          "titre": "Squadron 42 has a Steam page"
-        }
-      ]
-    },
-    {
       "id": "marvel-t-kon-fighting-souls-reveals-its-year-1-dlc-roster-st",
       "titre": "Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November",
       "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops",
@@ -60,7 +36,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 7.1,
+      "heures": 8.9,
       "chaleur": 7,
       "liens": [
         {
@@ -112,6 +88,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "star-wars-galactic-racer-s-devs-tested-its-roguelite-progres",
+      "titre": "Star Wars Galactic Racer's devs tested its roguelite progression system by turning it into a board game",
+      "url": "https://www.pcgamer.com/games/racing/star-wars-galactic-racers-devs-tested-its-roguelite-progression-system-by-turning-it-into-a-board-game/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/racing/star-wars-galactic-racers-devs-tested-its-roguelite-progression-system-by-turning-it-into-a-board-game/",
+          "titre": "Star Wars Galactic Racer's devs tested its roguelite progression system by turning it into a board game"
+        }
+      ]
+    },
+    {
+      "id": "seamless-landing-mod-looks-set-to-bring-starfield-another-st",
+      "titre": "Seamless Landing mod looks set to bring Starfield another step closer to No Man's Sky",
+      "url": "https://www.pcgamer.com/games/rpg/seamless-landing-mod-looks-set-to-bring-starfield-another-step-closer-to-no-mans-sky/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/seamless-landing-mod-looks-set-to-bring-starfield-another-step-closer-to-no-mans-sky/",
+          "titre": "Seamless Landing mod looks set to bring Starfield another step closer to No Man's Sky"
+        }
+      ]
+    },
+    {
       "id": "the-shortlist-for-2026-s-golden-joystick-awards-is-out-inclu",
       "titre": "The shortlist for 2026's Golden Joystick Awards is out, including PC Game of the Year, and you can vote now",
       "url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-shortlist-for-2026s-golden-joystick-awards-is-out-including-pc-game-of-the-year-and-you-can-vote-now/",
@@ -119,7 +131,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -137,7 +149,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -155,31 +167,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/yahtzee-is-still-out-there-being-mean-about-videogames-and-good-for-him/",
           "titre": "Yahtzee is still out there being mean about videogames, and good for him"
-        }
-      ]
-    },
-    {
-      "id": "feature-how-do-you-pronounce-these-words-from-zelda-ocarina",
-      "titre": "Feature: How Do You Pronounce These Words From Zelda: Ocarina Of Time?",
-      "url": "https://www.nintendolife.com/features/how-do-you-pronounce-these-words-from-zelda-ocarina-of-time",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/how-do-you-pronounce-these-words-from-zelda-ocarina-of-time",
-          "titre": "Feature: How Do You Pronounce These Words From Zelda: Ocarina Of Time?"
         }
       ]
     },
@@ -191,7 +185,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 13.9,
       "chaleur": 6,
       "liens": [
         {
@@ -209,13 +203,49 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.2,
+      "heures": 30.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/oh-lord-now-those-gta-6-leakers-are-saying-if-enough-of-you-give-them-money-theyll-leak-a-playable-build-of-the-game",
           "titre": "Oh lord, now those GTA 6 leakers are saying if enough of you give them money they'll leak a playable build of the game"
+        }
+      ]
+    },
+    {
+      "id": "feature-how-do-you-pronounce-these-words-from-zelda-ocarina",
+      "titre": "Feature: How Do You Pronounce These Words From Zelda: Ocarina Of Time?",
+      "url": "https://www.nintendolife.com/features/how-do-you-pronounce-these-words-from-zelda-ocarina-of-time",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/how-do-you-pronounce-these-words-from-zelda-ocarina-of-time",
+          "titre": "Feature: How Do You Pronounce These Words From Zelda: Ocarina Of Time?"
+        }
+      ]
+    },
+    {
+      "id": "squadron-42-opens-for-steam-wishlisting-ahead-of-a-planned-q",
+      "titre": "Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release",
+      "url": "https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 14.7,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release",
+          "titre": "Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release"
         }
       ]
     },
@@ -227,7 +257,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 24.6,
       "chaleur": 5,
       "liens": [
         {
@@ -245,7 +275,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.6,
+      "heures": 27.4,
       "chaleur": 5,
       "liens": [
         {
@@ -263,7 +293,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 31.2,
       "chaleur": 5,
       "liens": [
         {
@@ -281,7 +311,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -299,7 +329,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.2,
       "chaleur": 4,
       "liens": [
         {
@@ -317,7 +347,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -335,7 +365,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -353,7 +383,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -371,8 +401,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -389,8 +419,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -407,8 +437,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -425,8 +455,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -443,8 +473,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -461,7 +491,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 13.9,
       "chaleur": 3,
       "liens": [
         {
@@ -479,7 +509,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 14.1,
       "chaleur": 3,
       "liens": [
         {
@@ -497,7 +527,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.3,
       "chaleur": 3,
       "liens": [
         {
@@ -515,7 +545,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -533,7 +563,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -551,7 +581,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -569,7 +599,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -587,7 +617,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -605,7 +635,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 22.1,
       "chaleur": 3,
       "liens": [
         {
@@ -623,7 +653,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.0,
+      "heures": 23.8,
       "chaleur": 3,
       "liens": [
         {
@@ -641,7 +671,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.1,
+      "heures": 25.9,
       "chaleur": 3,
       "liens": [
         {
@@ -659,7 +689,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.7,
+      "heures": 28.5,
       "chaleur": 3,
       "liens": [
         {
@@ -677,7 +707,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.6,
+      "heures": 31.4,
       "chaleur": 3,
       "liens": [
         {
@@ -695,7 +725,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 30.7,
+      "heures": 32.5,
       "chaleur": 3,
       "liens": [
         {
@@ -713,31 +743,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 31.5,
+      "heures": 33.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/a-crimson-desert-exec-thinks-critic-review-scores-were-lower-because-they-didnt-have-enough-time-to-play-it-and-boy-oh-boy-i-wonder-whose-fault-that-is",
           "titre": "A Crimson Desert exec thinks critic review scores were lower because they didn't have enough time to play it, and boy oh boy I wonder whose fault that is"
-        }
-      ]
-    },
-    {
-      "id": "deadlock-surpasses-team-fortress-2-s-all-time-concurrent-pla",
-      "titre": "Deadlock surpasses Team Fortress 2's all-time concurrent player count peak as it adds a chess wizard",
-      "url": "https://www.pcgamer.com/games/moba/deadlock-surpasses-team-fortress-2s-all-time-concurrent-player-count-peak-as-it-adds-a-chess-wizard/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 31.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/moba/deadlock-surpasses-team-fortress-2s-all-time-concurrent-player-count-peak-as-it-adds-a-chess-wizard/",
-          "titre": "Deadlock surpasses Team Fortress 2's all-time concurrent player count peak as it adds a chess wizard"
         }
       ]
     },
@@ -749,7 +761,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 32.1,
+      "heures": 33.9,
       "chaleur": 3,
       "liens": [
         {
@@ -767,7 +779,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 32.5,
+      "heures": 34.3,
       "chaleur": 3,
       "liens": [
         {
@@ -785,49 +797,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 33.2,
+      "heures": 35.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-hals-treasure-hunt-quest-guide/",
           "titre": "DD2 Dark Arisen: Hal’s Treasure Hunt quest guide"
-        }
-      ]
-    },
-    {
-      "id": "tekken-8-s-reina-officially-announced-as-fatal-fury-ps5-s-ne",
-      "titre": "Tekken 8's Reina Officially Announced as Fatal Fury PS5's Next Challenger",
-      "url": "https://www.pushsquare.com/news/2026/10/tekken-8s-reina-officially-announced-as-fatal-fury-ps5s-next-challenger",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 34.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/tekken-8s-reina-officially-announced-as-fatal-fury-ps5s-next-challenger",
-          "titre": "Tekken 8's Reina Officially Announced as Fatal Fury PS5's Next Challenger"
-        }
-      ]
-    },
-    {
-      "id": "us-console-hardware-market-at-its-most-precarious-position-s",
-      "titre": "US console hardware market at its most precarious position ‘since the 80s’, says Circana",
-      "url": "https://www.videogameschronicle.com/news/us-console-hardware-market-at-its-most-precarious-position-since-the-80s-says-circana/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 35.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/us-console-hardware-market-at-its-most-precarious-position-since-the-80s-says-circana/",
-          "titre": "US console hardware market at its most precarious position ‘since the 80s’, says Circana"
         }
       ]
     }
