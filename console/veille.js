@@ -1,8 +1,38 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "12/10/2026 à 16h24",
+  "collecte": "12/10/2026 à 18h26",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "nintendo-s-latin-america-vp-says-there-are-no-plans-to-ditch",
+      "titre": "Nintendo's Latin America VP says there are no plans to ditch physical games",
+      "url": "https://www.gamesindustry.biz/nintendos-latin-america-vp-says-there-are-no-plans-to-ditch-physical-games",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz",
+        "Nintendo Life"
+      ],
+      "reprises": 3,
+      "heures": 0.5,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/nintendos-latin-america-vp-says-there-are-no-plans-to-ditch-physical-games",
+          "titre": "Nintendo's Latin America VP says there are no plans to ditch physical games"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/nintendo-executive-confirms-company-has-no-plans-to-ditch-physical-games",
+          "titre": "Nintendo executive confirms company has \"no plans to ditch physical games\""
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-states-that-it-has-no-plans-to-ditch-physical-media",
+          "titre": "Nintendo States That It Has No Plans To Ditch Physical Media"
+        }
+      ]
+    },
     {
       "id": "nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-produc",
       "titre": "Nvidia reportedly ends GeForce RTX 5090 graphics card production",
@@ -13,7 +43,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 0.1,
+      "heures": 2.2,
       "chaleur": 14,
       "liens": [
         {
@@ -34,6 +64,66 @@ const VEILLE = {
       ]
     },
     {
+      "id": "valor-mortis-system-requirements-appear-to-have-been-drastic",
+      "titre": "Valor Mortis' system requirements appear to have been drastically cut, just before the FPSoulslike launches",
+      "url": "https://www.rockpapershotgun.com/valor-mortis-system-requirements-appear-to-have-been-drastically-cut-just-before-the-fpsoulslike-launches",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 0.3,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/valor-mortis-system-requirements-appear-to-have-been-drastically-cut-just-before-the-fpsoulslike-launches",
+          "titre": "Valor Mortis' system requirements appear to have been drastically cut, just before the FPSoulslike launches"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/valor-mortis-review",
+          "titre": "Valor Mortis review"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/valor-mortis",
+          "titre": "Review: Valor Mortis (PS5) - Imperial Ambitions, Largely Realised"
+        }
+      ]
+    },
+    {
+      "id": "dragon-quest-co-creator-yuji-horii-releases-new-ai-generated",
+      "titre": "Dragon Quest co-creator Yuji Horii releases new AI-generated game, and he says it took 30 minutes to make",
+      "url": "https://www.eurogamer.net/dragon-quest-yuji-horii-new-game-ai-30-minutes",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 1.2,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dragon-quest-yuji-horii-new-game-ai-30-minutes",
+          "titre": "Dragon Quest co-creator Yuji Horii releases new AI-generated game, and he says it took 30 minutes to make"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/its-truly-astonishing-dragon-quest-creator-yuji-horii-made-an-ai-generated-game-in-30-minutes",
+          "titre": "\"It's Truly Astonishing\" - Dragon Quest Creator Yuji Horii Made An AI-Generated Game In 30 Minutes"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-lastest-game-from-the-creator-of-dragon-quest-was-made-in-about-30-minutes-with-ai/",
+          "titre": "The latest game from the creator of Dragon Quest was made in ‘about 30 minutes’ with AI"
+        }
+      ]
+    },
+    {
       "id": "gears-of-war-e-day-suffered-connection-issues-after-being-hi",
       "titre": "Gears of War E-Day suffered connection issues after being hit by a DDoS attack, The Coalition says",
       "url": "https://www.videogameschronicle.com/news/gears-of-war-e-day-suffered-connection-issues-after-being-hit-by-a-ddos-attack-the-coalition-says/",
@@ -43,7 +133,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 1.4,
+      "heures": 3.4,
       "chaleur": 12,
       "liens": [
         {
@@ -64,32 +154,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "valor-mortis-review",
-      "titre": "Valor Mortis review",
-      "url": "https://www.eurogamer.net/valor-mortis-review",
+      "id": "valve-have-released-the-steam-frame-s-cad-files-but-there-s",
+      "titre": "Valve have released the Steam Frame's CAD files, but there’s already a cottage industry of DIY wrist straps and lifesize skull stands",
+      "url": "https://www.rockpapershotgun.com/valve-have-released-the-steam-frames-cad-files-but-theres-already-a-cottage-industry-of-diy-wrist-straps-and-lifesize-skull-stands",
       "sources": [
-        "Eurogamer",
-        "Push Square",
+        "PC Gamer",
         "Rock Paper Shotgun"
       ],
-      "reprises": 3,
-      "heures": 3.4,
-      "chaleur": 12,
+      "reprises": 2,
+      "heures": 1.7,
+      "chaleur": 11,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/valor-mortis-review",
-          "titre": "Valor Mortis review"
-        },
-        {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valor-mortis-review",
-          "titre": "Valor Mortis review - this Napoleonic first-person swordfighter is one of the freshest Soulslikes in years"
+          "url": "https://www.rockpapershotgun.com/valve-have-released-the-steam-frames-cad-files-but-theres-already-a-cottage-industry-of-diy-wrist-straps-and-lifesize-skull-stands",
+          "titre": "Valve have released the Steam Frame's CAD files, but there’s already a cottage industry of DIY wrist straps and lifesize skull stands"
         },
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/valor-mortis",
-          "titre": "Review: Valor Mortis (PS5) - Imperial Ambitions, Largely Realised"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/",
+          "titre": "Here come the weird and wonderful mods for the Steam Frame, as Valve drops the full CAD files for free"
         }
       ]
     },
@@ -102,7 +186,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 1.3,
+      "heures": 3.4,
       "chaleur": 11,
       "liens": [
         {
@@ -126,7 +210,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 10,
       "liens": [
         {
@@ -151,7 +235,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 10,
       "liens": [
         {
@@ -172,68 +256,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-executive-confirms-company-has-no-plans-to-ditch-ph",
-      "titre": "Nintendo executive confirms company has \"no plans to ditch physical games\"",
-      "url": "https://www.eurogamer.net/nintendo-executive-confirms-company-has-no-plans-to-ditch-physical-games",
+      "id": "i-don-t-know-what-rick-and-morty-s-about-but-i-have-turned-g",
+      "titre": "I don't know what Rick and Morty's about but I have turned GTA 5 into its perfect replica",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-dont-know-what-rick-and-mortys-about-but-i-have-turned-gta-5-into-its-perfect-replica/",
       "sources": [
-        "Eurogamer",
-        "Nintendo Life"
+        "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 4.4,
+      "reprises": 1,
+      "heures": 1.4,
       "chaleur": 9,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nintendo-executive-confirms-company-has-no-plans-to-ditch-physical-games",
-          "titre": "Nintendo executive confirms company has \"no plans to ditch physical games\""
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-states-that-it-has-no-plans-to-ditch-physical-media",
-          "titre": "Nintendo States That It Has No Plans To Ditch Physical Media"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-dont-know-what-rick-and-mortys-about-but-i-have-turned-gta-5-into-its-perfect-replica/",
+          "titre": "I don't know what Rick and Morty's about but I have turned GTA 5 into its perfect replica"
         }
       ]
     },
     {
-      "id": "star-citizen-singleplayer-spinoff-squadron-42-gets-a-steam-p",
-      "titre": "Star Citizen singleplayer spinoff Squadron 42 gets a Steam page ahead of its 2027 launch, and this is how I've learned about 50 million famous actors are in it",
-      "url": "https://www.rockpapershotgun.com/star-citizen-singleplayer-spinoff-squadron-42-gets-a-steam-page-ahead-of-its-2027-launch-and-this-is-how-ive-learned-about-50-million-famous-actors-are-in-it",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 4.7,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/star-citizen-singleplayer-spinoff-squadron-42-gets-a-steam-page-ahead-of-its-2027-launch-and-this-is-how-ive-learned-about-50-million-famous-actors-are-in-it",
-          "titre": "Star Citizen singleplayer spinoff Squadron 42 gets a Steam page ahead of its 2027 launch, and this is how I've learned about 50 million famous actors are in it"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release",
-          "titre": "Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release"
-        }
-      ]
-    },
-    {
-      "id": "mini-review-bluey-s-happy-snaps-switch-2-a-light-breezy-phot",
-      "titre": "Mini Review: Bluey's Happy Snaps (Switch 2) - A Light, Breezy Photography Adventure",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/blueys-happy-snaps",
+      "id": "digital-foundry-delivers-its-technical-analysis-of-dragon-s",
+      "titre": "Digital Foundry Delivers Its Technical Analysis Of Dragon's Dogma 2 On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-technical-analysis-of-dragons-dogma-2-on-switch-2",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.4,
+      "heures": 1.7,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/blueys-happy-snaps",
-          "titre": "Mini Review: Bluey's Happy Snaps (Switch 2) - A Light, Breezy Photography Adventure"
+          "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-technical-analysis-of-dragons-dogma-2-on-switch-2",
+          "titre": "Digital Foundry Delivers Its Technical Analysis Of Dragon's Dogma 2 On Switch 2"
         }
       ]
     },
@@ -245,37 +299,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/steam-new-user-concurrent-record-october-2026",
           "titre": "For the second time this year, Steam has set a major new concurrent user record"
-        }
-      ]
-    },
-    {
-      "id": "it-s-truly-astonishing-dragon-quest-creator-yuji-horii-made",
-      "titre": "\"It's Truly Astonishing\" - Dragon Quest Creator Yuji Horii Made An AI-Generated Game In 30 Minutes",
-      "url": "https://www.nintendolife.com/news/2026/10/its-truly-astonishing-dragon-quest-creator-yuji-horii-made-an-ai-generated-game-in-30-minutes",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 4.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/its-truly-astonishing-dragon-quest-creator-yuji-horii-made-an-ai-generated-game-in-30-minutes",
-          "titre": "\"It's Truly Astonishing\" - Dragon Quest Creator Yuji Horii Made An AI-Generated Game In 30 Minutes"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-lastest-game-from-the-creator-of-dragon-quest-was-made-in-about-30-minutes-with-ai/",
-          "titre": "The latest game from the creator of Dragon Quest was made in ‘about 30 minutes’ with AI"
         }
       ]
     },
@@ -316,6 +346,114 @@ const VEILLE = {
       ]
     },
     {
+      "id": "no-man-s-sky-is-somehow-coming-to-mobile-and-hello-games-say",
+      "titre": "No Man's Sky is somehow coming to mobile, and Hello Games says it's partly thanks to Light No Fire",
+      "url": "https://www.eurogamer.net/no-mans-sky-coming-mobile-hello-games-thanks-to-light-no-fire",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/no-mans-sky-coming-mobile-hello-games-thanks-to-light-no-fire",
+          "titre": "No Man's Sky is somehow coming to mobile, and Hello Games says it's partly thanks to Light No Fire"
+        }
+      ]
+    },
+    {
+      "id": "devil-may-cry-5-composer-returns-for-dragon-s-dogma-2-dlc-ma",
+      "titre": "Devil May Cry 5 Composer Returns for Dragon's Dogma 2 DLC, Makes a Banging Metal Track",
+      "url": "https://www.pushsquare.com/news/2026/10/devil-may-cry-5-composer-returns-for-dragons-dogma-2-dlc-makes-a-banging-metal-track",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/devil-may-cry-5-composer-returns-for-dragons-dogma-2-dlc-makes-a-banging-metal-track",
+          "titre": "Devil May Cry 5 Composer Returns for Dragon's Dogma 2 DLC, Makes a Banging Metal Track"
+        }
+      ]
+    },
+    {
+      "id": "how-to-get-an-emperor-modulator-in-arc-raiders",
+      "titre": "How to get an Emperor Modulator in Arc Raiders",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-emperor-modulator-location/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-emperor-modulator-location/",
+          "titre": "How to get an Emperor Modulator in Arc Raiders"
+        }
+      ]
+    },
+    {
+      "id": "castlevania-belmont-s-curse-asks-for-no-less-than-100-comple",
+      "titre": "Castlevania: Belmont's Curse Asks for No Less Than 100% Completion for the Platinum Trophy",
+      "url": "https://www.pushsquare.com/news/2026/10/castlevania-belmonts-curse-asks-for-no-less-than-100percent-completion-for-the-platinum-trophy",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/castlevania-belmonts-curse-asks-for-no-less-than-100percent-completion-for-the-platinum-trophy",
+          "titre": "Castlevania: Belmont's Curse Asks for No Less Than 100% Completion for the Platinum Trophy"
+        }
+      ]
+    },
+    {
+      "id": "burn-with-me-is-a-hand-drawn-demon-card-game-featuring-the-a",
+      "titre": "Burn With Me is a hand-drawn demon card game featuring the artist's own hand - and also, a refreshingly finite alternative to yer Balatro-likes",
+      "url": "https://www.rockpapershotgun.com/burn-with-me-is-a-hand-drawn-demon-card-game-featuring-the-artists-own-hand-and-also-a-refreshingly-finite-alternative-to-yer-balatro-likes",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/burn-with-me-is-a-hand-drawn-demon-card-game-featuring-the-artists-own-hand-and-also-a-refreshingly-finite-alternative-to-yer-balatro-likes",
+          "titre": "Burn With Me is a hand-drawn demon card game featuring the artist's own hand - and also, a refreshingly finite alternative to yer Balatro-likes"
+        }
+      ]
+    },
+    {
+      "id": "clair-obscur-expedition-33-actor-outs-mysterious-sega-game",
+      "titre": "Clair Obscur: Expedition 33 Actor Outs Mysterious SEGA Game",
+      "url": "https://www.pushsquare.com/news/2026/10/clair-obscur-expedition-33-actor-outs-mysterious-sega-game",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/clair-obscur-expedition-33-actor-outs-mysterious-sega-game",
+          "titre": "Clair Obscur: Expedition 33 Actor Outs Mysterious SEGA Game"
+        }
+      ]
+    },
+    {
       "id": "poll-vote-for-your-ps5-game-of-the-month-september-2026",
       "titre": "Poll: Vote for Your PS5 Game of the Month (September 2026)",
       "url": "https://www.pushsquare.com/features/poll-vote-for-your-ps5-game-of-the-month-september-2026",
@@ -323,7 +461,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -341,7 +479,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -359,7 +497,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -377,7 +515,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -395,7 +533,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -413,7 +551,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -431,7 +569,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -449,7 +587,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
@@ -460,200 +598,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "arc-raiders-player-numbers-rebound-with-the-launch-of-frozen",
-      "titre": "Arc Raiders player-numbers rebound with the launch of Frozen Trail and the game's 2.0 release, but they might be deceptively high",
-      "url": "https://www.eurogamer.net/arc-raiders-frozen-trail-2-0-update-steam-player-numbers",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/arc-raiders-frozen-trail-2-0-update-steam-player-numbers",
-          "titre": "Arc Raiders player-numbers rebound with the launch of Frozen Trail and the game's 2.0 release, but they might be deceptively high"
-        }
-      ]
-    },
-    {
-      "id": "retro-style-he-man-beat-em-up-finally-hits-up-ps5-and-ps4-in",
-      "titre": "Retro-Style He-Man Beat-'Em-Up Finally Hits Up PS5 and PS4 in February",
-      "url": "https://www.pushsquare.com/news/2026/10/retro-style-he-man-beat-em-up-finally-hits-up-ps5-and-ps4-in-february",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/retro-style-he-man-beat-em-up-finally-hits-up-ps5-and-ps4-in-february",
-          "titre": "Retro-Style He-Man Beat-'Em-Up Finally Hits Up PS5 and PS4 in February"
-        }
-      ]
-    },
-    {
-      "id": "pearl-abyss-goes-easy-on-us-critics-for-our-crimson-desert-r",
-      "titre": "Pearl Abyss goes easy on us critics for our Crimson Desert reviews: 'They had to play the build that is not the exact same version of the launched game'",
-      "url": "https://www.pcgamer.com/games/rpg/pearl-abyss-goes-easy-on-us-critics-for-our-crimson-desert-reviews-they-had-to-play-the-build-that-is-not-the-exact-same-version-of-the-launched-game/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/pearl-abyss-goes-easy-on-us-critics-for-our-crimson-desert-reviews-they-had-to-play-the-build-that-is-not-the-exact-same-version-of-the-launched-game/",
-          "titre": "Pearl Abyss goes easy on us critics for our Crimson Desert reviews: 'They had to play the build that is not the exact same version of the launched game'"
-        }
-      ]
-    },
-    {
-      "id": "uk-charts-kingdom-hearts-collection-performs-well-but-it-s-m",
-      "titre": "UK Charts: Kingdom Hearts Collection Performs Well, But It's Missing The Keys To The Podium",
-      "url": "https://www.nintendolife.com/news/2026/10/uk-charts-kingdom-hearts-collection-performs-well-but-its-missing-the-keys-to-the-podium",
+      "id": "mini-review-bluey-s-happy-snaps-switch-2-a-light-breezy-phot",
+      "titre": "Mini Review: Bluey's Happy Snaps (Switch 2) - A Light, Breezy Photography Adventure",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/blueys-happy-snaps",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.7,
+      "heures": 5.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/uk-charts-kingdom-hearts-collection-performs-well-but-its-missing-the-keys-to-the-podium",
-          "titre": "UK Charts: Kingdom Hearts Collection Performs Well, But It's Missing The Keys To The Podium"
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/blueys-happy-snaps",
+          "titre": "Mini Review: Bluey's Happy Snaps (Switch 2) - A Light, Breezy Photography Adventure"
         }
       ]
     },
     {
-      "id": "you-don-t-just-paint-the-map-your-colour-in-new-ww2-rts-batt",
-      "titre": "You don't just paint the map your colour in new WW2 RTS Battleplan, you redraw the frontline with a pencil and hope your troops do the rest",
-      "url": "https://www.rockpapershotgun.com/you-dont-just-paint-the-map-your-colour-in-new-ww2-rts-battleplan-you-redraw-the-frontline-with-a-pencil-and-hope-your-troops-do-the-rest",
+      "id": "star-citizen-singleplayer-spinoff-squadron-42-gets-a-steam-p",
+      "titre": "Star Citizen singleplayer spinoff Squadron 42 gets a Steam page ahead of its 2027 launch, and this is how I've learned about 50 million famous actors are in it",
+      "url": "https://www.rockpapershotgun.com/star-citizen-singleplayer-spinoff-squadron-42-gets-a-steam-page-ahead-of-its-2027-launch-and-this-is-how-ive-learned-about-50-million-famous-actors-are-in-it",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 2.9,
+      "heures": 6.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/you-dont-just-paint-the-map-your-colour-in-new-ww2-rts-battleplan-you-redraw-the-frontline-with-a-pencil-and-hope-your-troops-do-the-rest",
-          "titre": "You don't just paint the map your colour in new WW2 RTS Battleplan, you redraw the frontline with a pencil and hope your troops do the rest"
-        }
-      ]
-    },
-    {
-      "id": "the-happiest-man-in-gaming-hates-generative-ai",
-      "titre": "The happiest man in gaming hates generative AI",
-      "url": "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai",
-          "titre": "The happiest man in gaming hates generative AI"
-        }
-      ]
-    },
-    {
-      "id": "starfield-seamless-planetary-landings-are-finally-nearly-a-t",
-      "titre": "Starfield seamless planetary landings are finally nearly a thing, thanks to one modder's tireless work",
-      "url": "https://www.eurogamer.net/starfield-mod-seamless-planetary-landings",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/starfield-mod-seamless-planetary-landings",
-          "titre": "Starfield seamless planetary landings are finally nearly a thing, thanks to one modder's tireless work"
-        }
-      ]
-    },
-    {
-      "id": "the-rtx-4090-launched-four-years-ago-today-and-now-the-rtx-5",
-      "titre": "The RTX 4090 launched four years ago today, and now the RTX 5090 is rumoured for the chop, I can't help but look upon it with a warm glow",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/the-rtx-4090-launched-four-years-ago-today-and-now-the-rtx-5090-is-rumoured-for-the-chop-i-cant-help-but-look-upon-it-with-a-warm-glow/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/the-rtx-4090-launched-four-years-ago-today-and-now-the-rtx-5090-is-rumoured-for-the-chop-i-cant-help-but-look-upon-it-with-a-warm-glow/",
-          "titre": "The RTX 4090 launched four years ago today, and now the RTX 5090 is rumoured for the chop, I can't help but look upon it with a warm glow"
-        }
-      ]
-    },
-    {
-      "id": "this-week-in-pc-games-play-a-human-eating-katamari-from-oute",
-      "titre": "This week in PC games: play a human-eating Katamari from outer space, take over a nature reserve in Planet Zoo 2, and battle Napoleonic body horror in Valor Mortis",
-      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-play-a-human-eating-katamari-from-outer-space-take-over-a-nature-reserve-in-planet-zoo-2-and-battle-napoleonic-body-horror-in-valor-mortis",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-play-a-human-eating-katamari-from-outer-space-take-over-a-nature-reserve-in-planet-zoo-2-and-battle-napoleonic-body-horror-in-valor-mortis",
-          "titre": "This week in PC games: play a human-eating Katamari from outer space, take over a nature reserve in Planet Zoo 2, and battle Napoleonic body horror in Valor Mortis"
-        }
-      ]
-    },
-    {
-      "id": "sonic-racing-crossworlds-players-demand-year-2-for-free-afte",
-      "titre": "Sonic Racing CrossWorlds players demand Year 2 for free after noting the Digital Deluxe Edition promised ‘all future paid DLC’",
-      "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-players-demand-year-2-for-free-after-noting-the-digital-deluxe-edition-promised-all-future-paid-dlc/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-players-demand-year-2-for-free-after-noting-the-digital-deluxe-edition-promised-all-future-paid-dlc/",
-          "titre": "Sonic Racing CrossWorlds players demand Year 2 for free after noting the Digital Deluxe Edition promised ‘all future paid DLC’"
-        }
-      ]
-    },
-    {
-      "id": "here-come-the-weird-and-wonderful-mods-for-the-steam-frame-a",
-      "titre": "Here come the weird and wonderful mods for the Steam Frame, as Valve drops the full CAD files for free",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/",
-          "titre": "Here come the weird and wonderful mods for the Steam Frame, as Valve drops the full CAD files for free"
+          "url": "https://www.rockpapershotgun.com/star-citizen-singleplayer-spinoff-squadron-42-gets-a-steam-page-ahead-of-its-2027-launch-and-this-is-how-ive-learned-about-50-million-famous-actors-are-in-it",
+          "titre": "Star Citizen singleplayer spinoff Squadron 42 gets a Steam page ahead of its 2027 launch, and this is how I've learned about 50 million famous actors are in it"
         }
       ]
     },
@@ -665,7 +641,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 6,
       "liens": [
         {
@@ -683,7 +659,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.0,
+      "heures": 30.0,
       "chaleur": 6,
       "liens": [
         {
@@ -701,13 +677,211 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/",
           "titre": "Steam Week in Review: The curious case of Wonder Boy in Monster Land's dubious PC debut"
+        }
+      ]
+    },
+    {
+      "id": "arc-raiders-player-numbers-rebound-with-the-launch-of-frozen",
+      "titre": "Arc Raiders player-numbers rebound with the launch of Frozen Trail and the game's 2.0 release, but they might be deceptively high",
+      "url": "https://www.eurogamer.net/arc-raiders-frozen-trail-2-0-update-steam-player-numbers",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/arc-raiders-frozen-trail-2-0-update-steam-player-numbers",
+          "titre": "Arc Raiders player-numbers rebound with the launch of Frozen Trail and the game's 2.0 release, but they might be deceptively high"
+        }
+      ]
+    },
+    {
+      "id": "retro-style-he-man-beat-em-up-finally-hits-up-ps5-and-ps4-in",
+      "titre": "Retro-Style He-Man Beat-'Em-Up Finally Hits Up PS5 and PS4 in February",
+      "url": "https://www.pushsquare.com/news/2026/10/retro-style-he-man-beat-em-up-finally-hits-up-ps5-and-ps4-in-february",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/retro-style-he-man-beat-em-up-finally-hits-up-ps5-and-ps4-in-february",
+          "titre": "Retro-Style He-Man Beat-'Em-Up Finally Hits Up PS5 and PS4 in February"
+        }
+      ]
+    },
+    {
+      "id": "pearl-abyss-goes-easy-on-us-critics-for-our-crimson-desert-r",
+      "titre": "Pearl Abyss goes easy on us critics for our Crimson Desert reviews: 'They had to play the build that is not the exact same version of the launched game'",
+      "url": "https://www.pcgamer.com/games/rpg/pearl-abyss-goes-easy-on-us-critics-for-our-crimson-desert-reviews-they-had-to-play-the-build-that-is-not-the-exact-same-version-of-the-launched-game/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/pearl-abyss-goes-easy-on-us-critics-for-our-crimson-desert-reviews-they-had-to-play-the-build-that-is-not-the-exact-same-version-of-the-launched-game/",
+          "titre": "Pearl Abyss goes easy on us critics for our Crimson Desert reviews: 'They had to play the build that is not the exact same version of the launched game'"
+        }
+      ]
+    },
+    {
+      "id": "uk-charts-kingdom-hearts-collection-performs-well-but-it-s-m",
+      "titre": "UK Charts: Kingdom Hearts Collection Performs Well, But It's Missing The Keys To The Podium",
+      "url": "https://www.nintendolife.com/news/2026/10/uk-charts-kingdom-hearts-collection-performs-well-but-its-missing-the-keys-to-the-podium",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/uk-charts-kingdom-hearts-collection-performs-well-but-its-missing-the-keys-to-the-podium",
+          "titre": "UK Charts: Kingdom Hearts Collection Performs Well, But It's Missing The Keys To The Podium"
+        }
+      ]
+    },
+    {
+      "id": "you-don-t-just-paint-the-map-your-colour-in-new-ww2-rts-batt",
+      "titre": "You don't just paint the map your colour in new WW2 RTS Battleplan, you redraw the frontline with a pencil and hope your troops do the rest",
+      "url": "https://www.rockpapershotgun.com/you-dont-just-paint-the-map-your-colour-in-new-ww2-rts-battleplan-you-redraw-the-frontline-with-a-pencil-and-hope-your-troops-do-the-rest",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/you-dont-just-paint-the-map-your-colour-in-new-ww2-rts-battleplan-you-redraw-the-frontline-with-a-pencil-and-hope-your-troops-do-the-rest",
+          "titre": "You don't just paint the map your colour in new WW2 RTS Battleplan, you redraw the frontline with a pencil and hope your troops do the rest"
+        }
+      ]
+    },
+    {
+      "id": "the-happiest-man-in-gaming-hates-generative-ai",
+      "titre": "The happiest man in gaming hates generative AI",
+      "url": "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai",
+          "titre": "The happiest man in gaming hates generative AI"
+        }
+      ]
+    },
+    {
+      "id": "valor-mortis-review-this-napoleonic-first-person-swordfighte",
+      "titre": "Valor Mortis review - this Napoleonic first-person swordfighter is one of the freshest Soulslikes in years",
+      "url": "https://www.rockpapershotgun.com/valor-mortis-review",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/valor-mortis-review",
+          "titre": "Valor Mortis review - this Napoleonic first-person swordfighter is one of the freshest Soulslikes in years"
+        }
+      ]
+    },
+    {
+      "id": "starfield-seamless-planetary-landings-are-finally-nearly-a-t",
+      "titre": "Starfield seamless planetary landings are finally nearly a thing, thanks to one modder's tireless work",
+      "url": "https://www.eurogamer.net/starfield-mod-seamless-planetary-landings",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/starfield-mod-seamless-planetary-landings",
+          "titre": "Starfield seamless planetary landings are finally nearly a thing, thanks to one modder's tireless work"
+        }
+      ]
+    },
+    {
+      "id": "the-rtx-4090-launched-four-years-ago-today-and-now-the-rtx-5",
+      "titre": "The RTX 4090 launched four years ago today, and now the RTX 5090 is rumoured for the chop, I can't help but look upon it with a warm glow",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/the-rtx-4090-launched-four-years-ago-today-and-now-the-rtx-5090-is-rumoured-for-the-chop-i-cant-help-but-look-upon-it-with-a-warm-glow/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/the-rtx-4090-launched-four-years-ago-today-and-now-the-rtx-5090-is-rumoured-for-the-chop-i-cant-help-but-look-upon-it-with-a-warm-glow/",
+          "titre": "The RTX 4090 launched four years ago today, and now the RTX 5090 is rumoured for the chop, I can't help but look upon it with a warm glow"
+        }
+      ]
+    },
+    {
+      "id": "this-week-in-pc-games-play-a-human-eating-katamari-from-oute",
+      "titre": "This week in PC games: play a human-eating Katamari from outer space, take over a nature reserve in Planet Zoo 2, and battle Napoleonic body horror in Valor Mortis",
+      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-play-a-human-eating-katamari-from-outer-space-take-over-a-nature-reserve-in-planet-zoo-2-and-battle-napoleonic-body-horror-in-valor-mortis",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-play-a-human-eating-katamari-from-outer-space-take-over-a-nature-reserve-in-planet-zoo-2-and-battle-napoleonic-body-horror-in-valor-mortis",
+          "titre": "This week in PC games: play a human-eating Katamari from outer space, take over a nature reserve in Planet Zoo 2, and battle Napoleonic body horror in Valor Mortis"
+        }
+      ]
+    },
+    {
+      "id": "sonic-racing-crossworlds-players-demand-year-2-for-free-afte",
+      "titre": "Sonic Racing CrossWorlds players demand Year 2 for free after noting the Digital Deluxe Edition promised ‘all future paid DLC’",
+      "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-players-demand-year-2-for-free-after-noting-the-digital-deluxe-edition-promised-all-future-paid-dlc/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-players-demand-year-2-for-free-after-noting-the-digital-deluxe-edition-promised-all-future-paid-dlc/",
+          "titre": "Sonic Racing CrossWorlds players demand Year 2 for free after noting the Digital Deluxe Edition promised ‘all future paid DLC’"
         }
       ]
     },
@@ -719,7 +893,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -737,7 +911,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.7,
       "chaleur": 4,
       "liens": [
         {
@@ -755,7 +929,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -773,7 +947,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -791,31 +965,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/racing/the-algorithm-continues-to-properly-prioritise-mister-biddy-blas-star-wars-galactic-racer-has-created-the-perfect-creature/",
           "titre": "'The algorithm continues to properly prioritise Mister Biddy Blas'—Star Wars: Galactic Racer has created the perfect creature"
-        }
-      ]
-    },
-    {
-      "id": "how-to-turn-off-your-backpack-light-in-arc-raiders",
-      "titre": "How to turn off your backpack light in Arc Raiders",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-backpack-light-toggle/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-backpack-light-toggle/",
-          "titre": "How to turn off your backpack light in Arc Raiders"
         }
       ]
     },
@@ -827,7 +983,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +1001,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 8.7,
       "chaleur": 4,
       "liens": [
         {
@@ -863,7 +1019,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +1037,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.2,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +1055,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +1073,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +1091,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +1109,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +1127,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +1145,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 16.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +1163,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 17.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1016,153 +1172,9 @@ const VEILLE = {
           "titre": "Seamless Landing mod looks set to bring Starfield another step closer to No Man's Sky"
         }
       ]
-    },
-    {
-      "id": "the-shortlist-for-2026-s-golden-joystick-awards-is-out-inclu",
-      "titre": "The shortlist for 2026's Golden Joystick Awards is out, including PC Game of the Year, and you can vote now",
-      "url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-shortlist-for-2026s-golden-joystick-awards-is-out-including-pc-game-of-the-year-and-you-can-vote-now/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 16.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-shortlist-for-2026s-golden-joystick-awards-is-out-including-pc-game-of-the-year-and-you-can-vote-now/",
-          "titre": "The shortlist for 2026's Golden Joystick Awards is out, including PC Game of the Year, and you can vote now"
-        }
-      ]
-    },
-    {
-      "id": "pvp-pinball-is-such-a-good-idea-i-can-t-believe-i-haven-t-pl",
-      "titre": "PvP pinball is such a good idea I can't believe I haven't played it before",
-      "url": "https://www.pcgamer.com/games/pvp-pinball-is-such-a-good-idea-i-cant-believe-i-havent-played-it-before/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/pvp-pinball-is-such-a-good-idea-i-cant-believe-i-havent-played-it-before/",
-          "titre": "PvP pinball is such a good idea I can't believe I haven't played it before"
-        }
-      ]
-    },
-    {
-      "id": "escape-the-backrooms-is-throwing-an-after-party-with-three-n",
-      "titre": "Escape the Backrooms is throwing an After Party with three new levels this December",
-      "url": "https://www.eurogamer.net/escape-the-backrooms-after-party-update-new-levels-december",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 23.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/escape-the-backrooms-after-party-update-new-levels-december",
-          "titre": "Escape the Backrooms is throwing an After Party with three new levels this December"
-        }
-      ]
-    },
-    {
-      "id": "tekken-8-reveals-its-baki-the-grappler-crossover-roger-jr-ou",
-      "titre": "Tekken 8 Reveals Its Baki the Grappler Crossover, Roger Jr Out 17th November",
-      "url": "https://www.pushsquare.com/news/2026/10/tekken-8-reveals-its-baki-the-grappler-crossover-roger-jr-out-17th-november",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 26.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/tekken-8-reveals-its-baki-the-grappler-crossover-roger-jr-out-17th-november",
-          "titre": "Tekken 8 Reveals Its Baki the Grappler Crossover, Roger Jr Out 17th November"
-        }
-      ]
-    },
-    {
-      "id": "we-didn-t-expect-this-gran-turismo-7-continuing-to-sell-ver",
-      "titre": "'We Didn't Expect This': Gran Turismo 7 Continuing to 'Sell Very Well' on PS5",
-      "url": "https://www.pushsquare.com/news/2026/10/we-didnt-expect-this-gran-turismo-7-continuing-to-sell-very-well-on-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 27.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/we-didnt-expect-this-gran-turismo-7-continuing-to-sell-very-well-on-ps5",
-          "titre": "'We Didn't Expect This': Gran Turismo 7 Continuing to 'Sell Very Well' on PS5"
-        }
-      ]
-    },
-    {
-      "id": "forza-horizon-6-will-have-a-physical-ps5-disc-but-there-s-a",
-      "titre": "Forza Horizon 6 Will Have a Physical PS5 Disc, But There's a Catch",
-      "url": "https://www.pushsquare.com/news/2026/10/forza-horizon-6-will-have-a-physical-ps5-disc-but-theres-a-catch",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 28.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/forza-horizon-6-will-have-a-physical-ps5-disc-but-theres-a-catch",
-          "titre": "Forza Horizon 6 Will Have a Physical PS5 Disc, But There's a Catch"
-        }
-      ]
-    },
-    {
-      "id": "phasmophobia-confirms-30-million-sales-as-its-crimson-eye-ha",
-      "titre": "Phasmophobia confirms 30 million sales as its Crimson Eye Halloween event returns",
-      "url": "https://www.eurogamer.net/phasmophobia-30-million-sales-crimson-eye-event",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 28.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/phasmophobia-30-million-sales-crimson-eye-event",
-          "titre": "Phasmophobia confirms 30 million sales as its Crimson Eye Halloween event returns"
-        }
-      ]
-    },
-    {
-      "id": "the-sunday-papers",
-      "titre": "The Sunday Papers",
-      "url": "https://www.rockpapershotgun.com/the-sunday-papers-831",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 30.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-sunday-papers-831",
-          "titre": "The Sunday Papers"
-        }
-      ]
     }
   ],
   "alertes": [
-    "Nvidia reportedly ends GeForce RTX 5090 graphics card production"
+    "Nintendo's Latin America VP says there are no plans to ditch physical games"
   ]
 };
