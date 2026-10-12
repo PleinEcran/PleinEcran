@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "12/10/2026 à 04h24",
+  "collecte": "12/10/2026 à 06h32",
   "seuil": 14,
   "sujets": [
     {
@@ -11,37 +11,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.6,
       "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/",
           "titre": "Steam Week in Review: The curious case of Wonder Boy in Monster Land's dubious PC debut"
-        }
-      ]
-    },
-    {
-      "id": "marvel-t-kon-fighting-souls-reveals-its-year-1-dlc-roster-st",
-      "titre": "Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November",
-      "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 10.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops",
-          "titre": "Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-all-confirmed-characters-and-stages",
-          "titre": "Guide: Marvel Tokon: Fighting Souls: All Confirmed Characters and Stages"
         }
       ]
     },
@@ -82,38 +58,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "star-wars-galactic-racer-s-devs-tested-its-roguelite-progres",
-      "titre": "Star Wars Galactic Racer's devs tested its roguelite progression system by turning it into a board game",
-      "url": "https://www.pcgamer.com/games/racing/star-wars-galactic-racers-devs-tested-its-roguelite-progression-system-by-turning-it-into-a-board-game/",
+      "id": "marvel-t-kon-fighting-souls-reveals-its-year-1-dlc-roster-st",
+      "titre": "Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November",
+      "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops",
       "sources": [
-        "PC Gamer"
+        "Eurogamer",
+        "Push Square"
       ],
-      "reprises": 1,
-      "heures": 2.2,
+      "reprises": 2,
+      "heures": 13.1,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/racing/star-wars-galactic-racers-devs-tested-its-roguelite-progression-system-by-turning-it-into-a-board-game/",
-          "titre": "Star Wars Galactic Racer's devs tested its roguelite progression system by turning it into a board game"
-        }
-      ]
-    },
-    {
-      "id": "seamless-landing-mod-looks-set-to-bring-starfield-another-st",
-      "titre": "Seamless Landing mod looks set to bring Starfield another step closer to No Man's Sky",
-      "url": "https://www.pcgamer.com/games/rpg/seamless-landing-mod-looks-set-to-bring-starfield-another-step-closer-to-no-mans-sky/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops",
+          "titre": "Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November"
+        },
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/seamless-landing-mod-looks-set-to-bring-starfield-another-step-closer-to-no-mans-sky/",
-          "titre": "Seamless Landing mod looks set to bring Starfield another step closer to No Man's Sky"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-all-confirmed-characters-and-stages",
+          "titre": "Guide: Marvel Tokon: Fighting Souls: All Confirmed Characters and Stages"
         }
       ]
     },
@@ -125,7 +89,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 18.1,
       "chaleur": 6,
       "liens": [
         {
@@ -143,7 +107,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 19.9,
       "chaleur": 6,
       "liens": [
         {
@@ -161,7 +125,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 32.0,
+      "heures": 34.1,
       "chaleur": 6,
       "liens": [
         {
@@ -179,7 +143,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.5,
       "chaleur": 5,
       "liens": [
         {
@@ -197,7 +161,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.7,
+      "heures": 18.8,
       "chaleur": 5,
       "liens": [
         {
@@ -215,7 +179,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.7,
+      "heures": 28.8,
       "chaleur": 5,
       "liens": [
         {
@@ -233,7 +197,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 31.5,
       "chaleur": 5,
       "liens": [
         {
@@ -251,13 +215,49 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.3,
+      "heures": 35.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game",
           "titre": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam"
+        }
+      ]
+    },
+    {
+      "id": "star-wars-galactic-racer-s-devs-tested-its-roguelite-progres",
+      "titre": "Star Wars Galactic Racer's devs tested its roguelite progression system by turning it into a board game",
+      "url": "https://www.pcgamer.com/games/racing/star-wars-galactic-racers-devs-tested-its-roguelite-progression-system-by-turning-it-into-a-board-game/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/racing/star-wars-galactic-racers-devs-tested-its-roguelite-progression-system-by-turning-it-into-a-board-game/",
+          "titre": "Star Wars Galactic Racer's devs tested its roguelite progression system by turning it into a board game"
+        }
+      ]
+    },
+    {
+      "id": "seamless-landing-mod-looks-set-to-bring-starfield-another-st",
+      "titre": "Seamless Landing mod looks set to bring Starfield another step closer to No Man's Sky",
+      "url": "https://www.pcgamer.com/games/rpg/seamless-landing-mod-looks-set-to-bring-starfield-another-step-closer-to-no-mans-sky/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/seamless-landing-mod-looks-set-to-bring-starfield-another-step-closer-to-no-mans-sky/",
+          "titre": "Seamless Landing mod looks set to bring Starfield another step closer to No Man's Sky"
         }
       ]
     },
@@ -269,7 +269,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -287,7 +287,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -305,7 +305,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -323,8 +323,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -341,8 +341,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -359,8 +359,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -377,7 +377,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -395,7 +395,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -413,7 +413,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -431,7 +431,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.7,
+      "heures": 16.8,
       "chaleur": 3,
       "liens": [
         {
@@ -449,7 +449,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 17.3,
       "chaleur": 3,
       "liens": [
         {
@@ -467,7 +467,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -485,7 +485,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -503,7 +503,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 18.0,
       "chaleur": 3,
       "liens": [
         {
@@ -521,7 +521,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.3,
       "chaleur": 3,
       "liens": [
         {
@@ -539,7 +539,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -557,7 +557,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -575,7 +575,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 20.0,
       "chaleur": 3,
       "liens": [
         {
@@ -593,7 +593,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.5,
       "chaleur": 3,
       "liens": [
         {
@@ -611,7 +611,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.5,
       "chaleur": 3,
       "liens": [
         {
@@ -629,7 +629,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.5,
       "chaleur": 3,
       "liens": [
         {
@@ -647,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.2,
+      "heures": 26.3,
       "chaleur": 3,
       "liens": [
         {
@@ -665,7 +665,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.8,
+      "heures": 28.0,
       "chaleur": 3,
       "liens": [
         {
@@ -683,7 +683,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.9,
+      "heures": 30.0,
       "chaleur": 3,
       "liens": [
         {
@@ -701,7 +701,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 30.5,
+      "heures": 32.6,
       "chaleur": 3,
       "liens": [
         {
@@ -719,67 +719,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 33.4,
+      "heures": 35.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/blazblue-central-fiction-announced-for-ps5-a-decade-after-original-release",
           "titre": "BlazBlue: Central Fiction Announced for PS5, a Decade After Original Release"
-        }
-      ]
-    },
-    {
-      "id": "nivalis-nights-might-not-have-any-combat-but-that-doesn-t-me",
-      "titre": "Nivalis Nights might not have any combat, \"but that doesn't mean it's a cosy game,\" so says its lead writer",
-      "url": "https://www.rockpapershotgun.com/nivalis-nights-might-not-have-any-combat-but-that-doesnt-mean-its-a-cosy-game-so-says-its-lead-writer",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 34.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nivalis-nights-might-not-have-any-combat-but-that-doesnt-mean-its-a-cosy-game-so-says-its-lead-writer",
-          "titre": "Nivalis Nights might not have any combat, \"but that doesn't mean it's a cosy game,\" so says its lead writer"
-        }
-      ]
-    },
-    {
-      "id": "a-crimson-desert-exec-thinks-critic-review-scores-were-lower",
-      "titre": "A Crimson Desert exec thinks critic review scores were lower because they didn't have enough time to play it, and boy oh boy I wonder whose fault that is",
-      "url": "https://www.rockpapershotgun.com/a-crimson-desert-exec-thinks-critic-review-scores-were-lower-because-they-didnt-have-enough-time-to-play-it-and-boy-oh-boy-i-wonder-whose-fault-that-is",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 35.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/a-crimson-desert-exec-thinks-critic-review-scores-were-lower-because-they-didnt-have-enough-time-to-play-it-and-boy-oh-boy-i-wonder-whose-fault-that-is",
-          "titre": "A Crimson Desert exec thinks critic review scores were lower because they didn't have enough time to play it, and boy oh boy I wonder whose fault that is"
-        }
-      ]
-    },
-    {
-      "id": "dire-estimated-gears-of-war-e-day-sales-raise-queries-about",
-      "titre": "Dire Estimated Gears of War: E-Day Sales Raise Queries About Last-Minute PS5 Cancellation",
-      "url": "https://www.pushsquare.com/news/2026/10/dire-estimated-gears-of-war-e-day-sales-raise-queries-about-last-minute-ps5-cancellation",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/dire-estimated-gears-of-war-e-day-sales-raise-queries-about-last-minute-ps5-cancellation",
-          "titre": "Dire Estimated Gears of War: E-Day Sales Raise Queries About Last-Minute PS5 Cancellation"
         }
       ]
     }
