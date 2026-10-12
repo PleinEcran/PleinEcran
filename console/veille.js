@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "11/10/2026 à 22h21",
+  "collecte": "12/10/2026 à 00h34",
   "seuil": 14,
   "sujets": [
     {
@@ -12,8 +12,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 11.8,
-      "chaleur": 10,
+      "heures": 14.0,
+      "chaleur": 9,
       "liens": [
         {
           "source": "VGC",
@@ -36,8 +36,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 10.6,
-      "chaleur": 9,
+      "heures": 12.9,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
@@ -60,7 +60,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 4.9,
+      "heures": 7.1,
       "chaleur": 7,
       "liens": [
         {
@@ -72,24 +72,6 @@ const VEILLE = {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-all-confirmed-characters-and-stages",
           "titre": "Guide: Marvel Tokon: Fighting Souls: All Confirmed Characters and Stages"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-leaker-cyberleek-is-back-with-another-video-and-this-t",
-      "titre": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked",
-      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 9.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
-          "titre": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked"
         }
       ]
     },
@@ -130,6 +112,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "the-shortlist-for-2026-s-golden-joystick-awards-is-out-inclu",
+      "titre": "The shortlist for 2026's Golden Joystick Awards is out, including PC Game of the Year, and you can vote now",
+      "url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-shortlist-for-2026s-golden-joystick-awards-is-out-including-pc-game-of-the-year-and-you-can-vote-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-shortlist-for-2026s-golden-joystick-awards-is-out-including-pc-game-of-the-year-and-you-can-vote-now/",
+          "titre": "The shortlist for 2026's Golden Joystick Awards is out, including PC Game of the Year, and you can vote now"
+        }
+      ]
+    },
+    {
+      "id": "pvp-pinball-is-such-a-good-idea-i-can-t-believe-i-haven-t-pl",
+      "titre": "PvP pinball is such a good idea I can't believe I haven't played it before",
+      "url": "https://www.pcgamer.com/games/pvp-pinball-is-such-a-good-idea-i-cant-believe-i-havent-played-it-before/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/pvp-pinball-is-such-a-good-idea-i-cant-believe-i-havent-played-it-before/",
+          "titre": "PvP pinball is such a good idea I can't believe I haven't played it before"
+        }
+      ]
+    },
+    {
+      "id": "yahtzee-is-still-out-there-being-mean-about-videogames-and-g",
+      "titre": "Yahtzee is still out there being mean about videogames, and good for him",
+      "url": "https://www.pcgamer.com/games/yahtzee-is-still-out-there-being-mean-about-videogames-and-good-for-him/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/yahtzee-is-still-out-there-being-mean-about-videogames-and-good-for-him/",
+          "titre": "Yahtzee is still out there being mean about videogames, and good for him"
+        }
+      ]
+    },
+    {
       "id": "feature-how-do-you-pronounce-these-words-from-zelda-ocarina",
       "titre": "Feature: How Do You Pronounce These Words From Zelda: Ocarina Of Time?",
       "url": "https://www.nintendolife.com/features/how-do-you-pronounce-these-words-from-zelda-ocarina-of-time",
@@ -137,13 +173,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/how-do-you-pronounce-these-words-from-zelda-ocarina-of-time",
           "titre": "Feature: How Do You Pronounce These Words From Zelda: Ocarina Of Time?"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-leaker-cyberleek-is-back-with-another-video-and-this-t",
+      "titre": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked",
+      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 12.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
+          "titre": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked"
         }
       ]
     },
@@ -155,31 +209,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.9,
+      "heures": 28.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/oh-lord-now-those-gta-6-leakers-are-saying-if-enough-of-you-give-them-money-theyll-leak-a-playable-build-of-the-game",
           "titre": "Oh lord, now those GTA 6 leakers are saying if enough of you give them money they'll leak a playable build of the game"
-        }
-      ]
-    },
-    {
-      "id": "will-gta-6-make-its-way-to-switch-2-nintendo-isn-t-saying",
-      "titre": "Will GTA 6 make its way to Switch 2? Nintendo isn’t saying",
-      "url": "https://www.videogameschronicle.com/news/will-gta-6-make-its-way-to-switch-2-nintendo-isnt-saying/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 34.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/will-gta-6-make-its-way-to-switch-2-nintendo-isnt-saying/",
-          "titre": "Will GTA 6 make its way to Switch 2? Nintendo isn’t saying"
         }
       ]
     },
@@ -191,7 +227,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.6,
+      "heures": 22.8,
       "chaleur": 5,
       "liens": [
         {
@@ -209,7 +245,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 25.6,
       "chaleur": 5,
       "liens": [
         {
@@ -227,49 +263,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.2,
+      "heures": 29.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game",
           "titre": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam"
-        }
-      ]
-    },
-    {
-      "id": "review-middle-earth-shadow-of-mordor-game-of-the-year-editio",
-      "titre": "Review: Middle-earth: Shadow Of Mordor Game Of The Year Edition (Switch 2) - The Nemesis System Is Still A Winner",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/middle-earth-shadow-of-mordor-game-of-the-year-edition",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 34.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/middle-earth-shadow-of-mordor-game-of-the-year-edition",
-          "titre": "Review: Middle-earth: Shadow Of Mordor Game Of The Year Edition (Switch 2) - The Nemesis System Is Still A Winner"
-        }
-      ]
-    },
-    {
-      "id": "silent-hill-gravity-rush-director-s-bokeh-game-studio-is-rep",
-      "titre": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game",
-      "url": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 34.6,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
-          "titre": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game"
         }
       ]
     },
@@ -281,7 +281,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -299,7 +299,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -317,7 +317,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -335,7 +335,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -353,7 +353,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -371,7 +371,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -389,7 +389,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -407,7 +407,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -425,7 +425,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -443,7 +443,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -461,8 +461,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -479,8 +479,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -497,8 +497,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -515,8 +515,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -533,8 +533,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 14.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -551,7 +551,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.6,
       "chaleur": 3,
       "liens": [
         {
@@ -569,7 +569,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.6,
       "chaleur": 3,
       "liens": [
         {
@@ -587,7 +587,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.6,
       "chaleur": 3,
       "liens": [
         {
@@ -605,7 +605,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
@@ -623,7 +623,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 22.0,
       "chaleur": 3,
       "liens": [
         {
@@ -641,7 +641,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 24.1,
       "chaleur": 3,
       "liens": [
         {
@@ -659,7 +659,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 26.7,
       "chaleur": 3,
       "liens": [
         {
@@ -677,7 +677,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 29.6,
       "chaleur": 3,
       "liens": [
         {
@@ -695,7 +695,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.5,
+      "heures": 30.7,
       "chaleur": 3,
       "liens": [
         {
@@ -713,7 +713,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 31.5,
       "chaleur": 3,
       "liens": [
         {
@@ -731,31 +731,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 31.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/moba/deadlock-surpasses-team-fortress-2s-all-time-concurrent-player-count-peak-as-it-adds-a-chess-wizard/",
           "titre": "Deadlock surpasses Team Fortress 2's all-time concurrent player count peak as it adds a chess wizard"
-        }
-      ]
-    },
-    {
-      "id": "the-studio-behind-star-wars-zero-company-is-bringing-back-so",
-      "titre": "The studio behind Star Wars Zero Company is bringing back some of its furloughed staff",
-      "url": "https://www.pcgamer.com/games/strategy/the-studio-behind-star-wars-zero-company-is-hiring-back-some-of-its-furloughed-staff/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 29.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/the-studio-behind-star-wars-zero-company-is-hiring-back-some-of-its-furloughed-staff/",
-          "titre": "The studio behind Star Wars Zero Company is bringing back some of its furloughed staff"
         }
       ]
     },
@@ -767,7 +749,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.9,
+      "heures": 32.1,
       "chaleur": 3,
       "liens": [
         {
@@ -785,7 +767,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 30.2,
+      "heures": 32.5,
       "chaleur": 3,
       "liens": [
         {
@@ -803,49 +785,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 31.0,
+      "heures": 33.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-hals-treasure-hunt-quest-guide/",
           "titre": "DD2 Dark Arisen: Hal’s Treasure Hunt quest guide"
-        }
-      ]
-    },
-    {
-      "id": "wow-forever-by-casting-off-modern-convenience-has-horseshoed",
-      "titre": "WoW: Forever, by casting off modern convenience, has horseshoed back around to being casual friendly again",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-by-casting-off-modern-convenience-has-horseshoed-back-around-to-being-casual-friendly-again/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 31.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-by-casting-off-modern-convenience-has-horseshoed-back-around-to-being-casual-friendly-again/",
-          "titre": "WoW: Forever, by casting off modern convenience, has horseshoed back around to being casual friendly again"
-        }
-      ]
-    },
-    {
-      "id": "triple-a-minesweeper-is-a-gleeful-send-up-of-blockbuster-gam",
-      "titre": "Triple-A Minesweeper is a gleeful send-up of blockbuster gaming's worst habits, from yellow paint to characters who talk too much",
-      "url": "https://www.pcgamer.com/games/puzzle/triple-a-minesweeper-is-a-gleeful-send-up-of-blockbuster-gamings-worst-habits-from-yellow-paint-to-characters-who-talk-too-much/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 32.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/puzzle/triple-a-minesweeper-is-a-gleeful-send-up-of-blockbuster-gamings-worst-habits-from-yellow-paint-to-characters-who-talk-too-much/",
-          "titre": "Triple-A Minesweeper is a gleeful send-up of blockbuster gaming's worst habits, from yellow paint to characters who talk too much"
         }
       ]
     },
@@ -857,7 +803,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 32.4,
+      "heures": 34.6,
       "chaleur": 3,
       "liens": [
         {
@@ -875,67 +821,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 33.5,
+      "heures": 35.7,
       "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/us-console-hardware-market-at-its-most-precarious-position-since-the-80s-says-circana/",
           "titre": "US console hardware market at its most precarious position ‘since the 80s’, says Circana"
-        }
-      ]
-    },
-    {
-      "id": "arc-raiders-could-eventually-be-split-into-pve-and-pvp-says",
-      "titre": "Arc Raiders could eventually be split into PvE and PvP, says executive producer",
-      "url": "https://www.eurogamer.net/arc-raiders-pve-pvp-split-possible-executive-producer",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/arc-raiders-pve-pvp-split-possible-executive-producer",
-          "titre": "Arc Raiders could eventually be split into PvE and PvP, says executive producer"
-        }
-      ]
-    },
-    {
-      "id": "guide-these-30-ps5-games-are-coming-out-next-week-12th-18th",
-      "titre": "Guide: These 30+ PS5 Games Are Coming Out Next Week (12th-18th October)",
-      "url": "https://www.pushsquare.com/guides/these-30plus-ps5-games-are-coming-out-next-week-12th-18th-october",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/these-30plus-ps5-games-are-coming-out-next-week-12th-18th-october",
-          "titre": "Guide: These 30+ PS5 Games Are Coming Out Next Week (12th-18th October)"
-        }
-      ]
-    },
-    {
-      "id": "konami-is-already-thinking-about-the-next-wave-of-silent-hil",
-      "titre": "Konami is already thinking about the next wave of Silent Hill games",
-      "url": "https://www.eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto",
-          "titre": "Konami is already thinking about the next wave of Silent Hill games"
         }
       ]
     }
