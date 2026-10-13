@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "13/10/2026 à 00h36",
+  "collecte": "13/10/2026 à 02h23",
   "seuil": 14,
   "sujets": [
     {
@@ -16,7 +16,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 6,
-      "heures": 1.7,
+      "heures": 3.5,
       "chaleur": 25,
       "liens": [
         {
@@ -63,7 +63,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 5,
-      "heures": 5.8,
+      "heures": 7.6,
       "chaleur": 16,
       "liens": [
         {
@@ -103,7 +103,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 3,
-      "heures": 6.6,
+      "heures": 8.4,
       "chaleur": 12,
       "liens": [
         {
@@ -133,7 +133,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 8.3,
+      "heures": 10.1,
       "chaleur": 12,
       "liens": [
         {
@@ -163,7 +163,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 6.5,
+      "heures": 8.3,
       "chaleur": 10,
       "liens": [
         {
@@ -193,7 +193,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 9.6,
+      "heures": 11.4,
       "chaleur": 10,
       "liens": [
         {
@@ -222,7 +222,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 7.8,
+      "heures": 9.6,
       "chaleur": 9,
       "liens": [
         {
@@ -238,56 +238,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "you-need-not-hunger-for-that-zelda-ocarina-of-time-remake-wh",
-      "titre": "You need not hunger for that Zelda Ocarina of Time remake when we already have Indigo, a colossal N64 romhack featuring mushroom forests and bearded Link",
-      "url": "https://www.rockpapershotgun.com/you-need-not-hunger-for-that-zelda-ocarina-of-time-remake-when-we-already-have-indigo-a-colossal-n64-romhack-featuring-mushroom-forests-and-bearded-link",
+      "id": "tears-of-the-kingdom-zelda-statue-officially-revealed-here-s",
+      "titre": "Tears Of The Kingdom Zelda Statue Officially Revealed, Here's A Sneak Peek",
+      "url": "https://www.nintendolife.com/news/2026/10/tears-of-the-kingdom-zelda-statue-officially-revealed-heres-a-sneak-peek",
       "sources": [
-        "Nintendo Life",
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 9.5,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 8,
       "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/you-need-not-hunger-for-that-zelda-ocarina-of-time-remake-when-we-already-have-indigo-a-colossal-n64-romhack-featuring-mushroom-forests-and-bearded-link",
-          "titre": "You need not hunger for that Zelda Ocarina of Time remake when we already have Indigo, a colossal N64 romhack featuring mushroom forests and bearded Link"
-        },
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/how-do-you-pronounce-these-words-from-zelda-ocarina-of-time",
-          "titre": "Feature: How Do You Pronounce These Words From Zelda: Ocarina Of Time?"
-        }
-      ]
-    },
-    {
-      "id": "marvel-tokon-s-year-one-dlc-roster-confirmed-including-venom",
-      "titre": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee",
-      "url": "https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/",
-      "sources": [
-        "Eurogamer",
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 14.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/",
-          "titre": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops",
-          "titre": "Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/jane-foster-venom-jubilee-join-marvel-tokon-in-year-1-on-ps5",
-          "titre": "Jane Foster, Venom, Jubilee Join Marvel Tokon in Year 1 on PS5"
+          "url": "https://www.nintendolife.com/news/2026/10/tears-of-the-kingdom-zelda-statue-officially-revealed-heres-a-sneak-peek",
+          "titre": "Tears Of The Kingdom Zelda Statue Officially Revealed, Here's A Sneak Peek"
         }
       ]
     },
@@ -300,7 +264,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.1,
+      "heures": 6.9,
       "chaleur": 7,
       "liens": [
         {
@@ -323,7 +287,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.4,
       "chaleur": 7,
       "liens": [
         {
@@ -341,7 +305,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 15.8,
       "chaleur": 7,
       "liens": [
         {
@@ -395,7 +359,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.6,
       "chaleur": 6,
       "liens": [
         {
@@ -406,20 +370,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mini-review-bluey-s-happy-snaps-switch-2-a-light-breezy-phot",
-      "titre": "Mini Review: Bluey's Happy Snaps (Switch 2) - A Light, Breezy Photography Adventure",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/blueys-happy-snaps",
+      "id": "you-need-not-hunger-for-that-zelda-ocarina-of-time-remake-wh",
+      "titre": "You need not hunger for that Zelda Ocarina of Time remake when we already have Indigo, a colossal N64 romhack featuring mushroom forests and bearded Link",
+      "url": "https://www.rockpapershotgun.com/you-need-not-hunger-for-that-zelda-ocarina-of-time-remake-when-we-already-have-indigo-a-colossal-n64-romhack-featuring-mushroom-forests-and-bearded-link",
       "sources": [
-        "Nintendo Life"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.6,
+      "heures": 11.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/blueys-happy-snaps",
-          "titre": "Mini Review: Bluey's Happy Snaps (Switch 2) - A Light, Breezy Photography Adventure"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/you-need-not-hunger-for-that-zelda-ocarina-of-time-remake-when-we-already-have-indigo-a-colossal-n64-romhack-featuring-mushroom-forests-and-bearded-link",
+          "titre": "You need not hunger for that Zelda Ocarina of Time remake when we already have Indigo, a colossal N64 romhack featuring mushroom forests and bearded Link"
         }
       ]
     },
@@ -431,13 +395,55 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 15.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/group-behind-gta-6-leaks-threatens-to-release-alleged-full-build-of-game-including-story-mode",
           "titre": "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode"
+        }
+      ]
+    },
+    {
+      "id": "marvel-tokon-s-year-one-dlc-roster-confirmed-including-venom",
+      "titre": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee",
+      "url": "https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 16.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/",
+          "titre": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops",
+          "titre": "Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November"
+        }
+      ]
+    },
+    {
+      "id": "mini-review-bluey-s-happy-snaps-switch-2-a-light-breezy-phot",
+      "titre": "Mini Review: Bluey's Happy Snaps (Switch 2) - A Light, Breezy Photography Adventure",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/blueys-happy-snaps",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/blueys-happy-snaps",
+          "titre": "Mini Review: Bluey's Happy Snaps (Switch 2) - A Light, Breezy Photography Adventure"
         }
       ]
     },
@@ -449,7 +455,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.7,
       "chaleur": 5,
       "liens": [
         {
@@ -467,7 +473,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 16.9,
       "chaleur": 5,
       "liens": [
         {
@@ -485,7 +491,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -503,7 +509,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -521,7 +527,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -539,7 +545,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -557,7 +563,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.2,
       "chaleur": 4,
       "liens": [
         {
@@ -575,7 +581,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -593,7 +599,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -611,7 +617,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -629,7 +635,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -647,7 +653,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -665,7 +671,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -683,7 +689,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -701,7 +707,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.7,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -719,7 +725,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -737,7 +743,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.0,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -755,7 +761,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.1,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -773,8 +779,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -791,8 +797,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -809,8 +815,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -827,8 +833,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -845,8 +851,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -863,8 +869,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -881,8 +887,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -899,8 +905,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -917,8 +923,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -935,7 +941,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 13.9,
       "chaleur": 3,
       "liens": [
         {
@@ -953,7 +959,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.1,
       "chaleur": 3,
       "liens": [
         {
@@ -971,7 +977,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 14.7,
       "chaleur": 3,
       "liens": [
         {
@@ -989,7 +995,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +1013,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,7 +1031,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,7 +1049,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,7 +1067,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1079,7 +1085,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 16.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1097,7 +1103,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1115,7 +1121,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1133,7 +1139,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1151,7 +1157,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1169,7 +1175,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 17.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1187,7 +1193,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1196,27 +1202,7 @@ const VEILLE = {
           "titre": "BAFTA awards over £270,000 to 112 recipients in UK and US to support career growth in games, film, and TV"
         }
       ]
-    },
-    {
-      "id": "escape-the-backrooms-is-throwing-an-after-party-with-three-n",
-      "titre": "Escape the Backrooms is throwing an After Party with three new levels this December",
-      "url": "https://www.eurogamer.net/escape-the-backrooms-after-party-update-new-levels-december",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 31.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/escape-the-backrooms-after-party-update-new-levels-december",
-          "titre": "Escape the Backrooms is throwing an After Party with three new levels this December"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "'Our humble goal is to survive the AI revolution' says Epic Games CEO, as its Star Wars and Marvel crossover pivots to 'AI first' development"
-  ]
+  "alertes": []
 };
