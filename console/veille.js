@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "13/10/2026 à 04h24",
+  "collecte": "13/10/2026 à 06h31",
   "seuil": 14,
   "sujets": [
     {
@@ -16,8 +16,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 6,
-      "heures": 2.8,
-      "chaleur": 25,
+      "heures": 4.9,
+      "chaleur": 23,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -63,7 +63,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 5,
-      "heures": 9.6,
+      "heures": 11.7,
       "chaleur": 16,
       "liens": [
         {
@@ -103,8 +103,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 3,
-      "heures": 10.4,
-      "chaleur": 12,
+      "heures": 12.5,
+      "chaleur": 11,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -133,7 +133,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 12.1,
+      "heures": 14.2,
       "chaleur": 11,
       "liens": [
         {
@@ -154,6 +154,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "stardew-valley-creator-says-his-new-game-is-more-of-an-actio",
+      "titre": "Stardew Valley Creator Says His New Game Is \"More Of An Action RPG\"",
+      "url": "https://www.nintendolife.com/news/2026/10/stardew-valley-creator-says-his-new-game-is-more-of-an-action-rpg",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 3.6,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/stardew-valley-creator-says-his-new-game-is-more-of-an-action-rpg",
+          "titre": "Stardew Valley Creator Says His New Game Is \"More Of An Action RPG\""
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/the-haunted-chocolatier-action-rpg-stardew-valley",
+          "titre": "Stardew Valley creator's new game, Haunted Chocolatier, is \"more of an action RPG\" than farming sim"
+        }
+      ]
+    },
+    {
       "id": "valor-mortis-system-requirements-appear-to-have-been-drastic",
       "titre": "Valor Mortis' system requirements appear to have been drastically cut, just before the FPSoulslike launches",
       "url": "https://www.rockpapershotgun.com/valor-mortis-system-requirements-appear-to-have-been-drastically-cut-just-before-the-fpsoulslike-launches",
@@ -163,8 +187,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 10.3,
-      "chaleur": 10,
+      "heures": 12.4,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -184,30 +208,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "valve-have-released-the-steam-frame-s-cad-files-but-there-s",
-      "titre": "Valve have released the Steam Frame's CAD files, but there’s already a cottage industry of DIY wrist straps and lifesize skull stands",
-      "url": "https://www.rockpapershotgun.com/valve-have-released-the-steam-frames-cad-files-but-theres-already-a-cottage-industry-of-diy-wrist-straps-and-lifesize-skull-stands",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 11.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valve-have-released-the-steam-frames-cad-files-but-theres-already-a-cottage-industry-of-diy-wrist-straps-and-lifesize-skull-stands",
-          "titre": "Valve have released the Steam Frame's CAD files, but there’s already a cottage industry of DIY wrist straps and lifesize skull stands"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/",
-          "titre": "Here come the weird and wonderful mods for the Steam Frame, as Valve drops the full CAD files for free"
-        }
-      ]
-    },
-    {
       "id": "gears-of-war-e-day-suffered-connection-issues-after-being-hi",
       "titre": "Gears of War E-Day suffered connection issues after being hit by a DDoS attack, The Coalition says",
       "url": "https://www.videogameschronicle.com/news/gears-of-war-e-day-suffered-connection-issues-after-being-hit-by-a-ddos-attack-the-coalition-says/",
@@ -217,7 +217,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 13.4,
+      "heures": 15.5,
       "chaleur": 9,
       "liens": [
         {
@@ -238,20 +238,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "tears-of-the-kingdom-zelda-statue-officially-revealed-here-s",
-      "titre": "Tears Of The Kingdom Zelda Statue Officially Revealed, Here's A Sneak Peek",
-      "url": "https://www.nintendolife.com/news/2026/10/tears-of-the-kingdom-zelda-statue-officially-revealed-heres-a-sneak-peek",
+      "id": "psa-metaphor-refantazio-demo-for-switch-2-now-available",
+      "titre": "PSA: Metaphor: ReFantazio Demo For Switch 2 Now Available",
+      "url": "https://www.nintendolife.com/news/2026/10/psa-metaphor-refantazio-demo-for-switch-2-now-available",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.8,
+      "heures": 1.6,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/tears-of-the-kingdom-zelda-statue-officially-revealed-heres-a-sneak-peek",
-          "titre": "Tears Of The Kingdom Zelda Statue Officially Revealed, Here's A Sneak Peek"
+          "url": "https://www.nintendolife.com/news/2026/10/psa-metaphor-refantazio-demo-for-switch-2-now-available",
+          "titre": "PSA: Metaphor: ReFantazio Demo For Switch 2 Now Available"
+        }
+      ]
+    },
+    {
+      "id": "valve-have-released-the-steam-frame-s-cad-files-but-there-s",
+      "titre": "Valve have released the Steam Frame's CAD files, but there’s already a cottage industry of DIY wrist straps and lifesize skull stands",
+      "url": "https://www.rockpapershotgun.com/valve-have-released-the-steam-frames-cad-files-but-theres-already-a-cottage-industry-of-diy-wrist-straps-and-lifesize-skull-stands",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 13.7,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/valve-have-released-the-steam-frames-cad-files-but-theres-already-a-cottage-industry-of-diy-wrist-straps-and-lifesize-skull-stands",
+          "titre": "Valve have released the Steam Frame's CAD files, but there’s already a cottage industry of DIY wrist straps and lifesize skull stands"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/",
+          "titre": "Here come the weird and wonderful mods for the Steam Frame, as Valve drops the full CAD files for free"
         }
       ]
     },
@@ -264,7 +288,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 8.9,
+      "heures": 11.0,
       "chaleur": 7,
       "liens": [
         {
@@ -280,24 +304,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-don-t-know-what-rick-and-morty-s-about-but-i-have-turned-g",
-      "titre": "I don't know what Rick and Morty's about but I have turned GTA 5 into its perfect replica",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-dont-know-what-rick-and-mortys-about-but-i-have-turned-gta-5-into-its-perfect-replica/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-dont-know-what-rick-and-mortys-about-but-i-have-turned-gta-5-into-its-perfect-replica/",
-          "titre": "I don't know what Rick and Morty's about but I have turned GTA 5 into its perfect replica"
-        }
-      ]
-    },
-    {
       "id": "for-the-second-time-this-year-steam-has-set-a-major-new-conc",
       "titre": "For the second time this year, Steam has set a major new concurrent user record",
       "url": "https://www.eurogamer.net/steam-new-user-concurrent-record-october-2026",
@@ -305,7 +311,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 19.9,
       "chaleur": 7,
       "liens": [
         {
@@ -352,20 +358,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "digital-foundry-delivers-its-technical-analysis-of-dragon-s",
-      "titre": "Digital Foundry Delivers Its Technical Analysis Of Dragon's Dogma 2 On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-technical-analysis-of-dragons-dogma-2-on-switch-2",
+      "id": "tears-of-the-kingdom-zelda-statue-officially-revealed-here-s",
+      "titre": "Tears Of The Kingdom Zelda Statue Officially Revealed, Here's A Sneak Peek",
+      "url": "https://www.nintendolife.com/news/2026/10/tears-of-the-kingdom-zelda-statue-officially-revealed-heres-a-sneak-peek",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.7,
+      "heures": 5.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-technical-analysis-of-dragons-dogma-2-on-switch-2",
-          "titre": "Digital Foundry Delivers Its Technical Analysis Of Dragon's Dogma 2 On Switch 2"
+          "url": "https://www.nintendolife.com/news/2026/10/tears-of-the-kingdom-zelda-statue-officially-revealed-heres-a-sneak-peek",
+          "titre": "Tears Of The Kingdom Zelda Statue Officially Revealed, Here's A Sneak Peek"
+        }
+      ]
+    },
+    {
+      "id": "i-don-t-know-what-rick-and-morty-s-about-but-i-have-turned-g",
+      "titre": "I don't know what Rick and Morty's about but I have turned GTA 5 into its perfect replica",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-dont-know-what-rick-and-mortys-about-but-i-have-turned-gta-5-into-its-perfect-replica/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 13.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-dont-know-what-rick-and-mortys-about-but-i-have-turned-gta-5-into-its-perfect-replica/",
+          "titre": "I don't know what Rick and Morty's about but I have turned GTA 5 into its perfect replica"
         }
       ]
     },
@@ -377,7 +401,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 20.0,
       "chaleur": 6,
       "liens": [
         {
@@ -388,26 +412,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "marvel-tokon-s-year-one-dlc-roster-confirmed-including-venom",
-      "titre": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee",
-      "url": "https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/",
+      "id": "digital-foundry-delivers-its-technical-analysis-of-dragon-s",
+      "titre": "Digital Foundry Delivers Its Technical Analysis Of Dragon's Dogma 2 On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-technical-analysis-of-dragons-dogma-2-on-switch-2",
       "sources": [
-        "Eurogamer",
-        "VGC"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 18.4,
-      "chaleur": 6,
+      "reprises": 1,
+      "heures": 13.8,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/",
-          "titre": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops",
-          "titre": "Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-technical-analysis-of-dragons-dogma-2-on-switch-2",
+          "titre": "Digital Foundry Delivers Its Technical Analysis Of Dragon's Dogma 2 On Switch 2"
         }
       ]
     },
@@ -419,7 +437,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
@@ -437,7 +455,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.5,
       "chaleur": 5,
       "liens": [
         {
@@ -455,7 +473,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.7,
+      "heures": 18.8,
       "chaleur": 5,
       "liens": [
         {
@@ -473,7 +491,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 21.0,
       "chaleur": 5,
       "liens": [
         {
@@ -491,7 +509,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -509,7 +527,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -527,8 +545,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.9,
-      "chaleur": 4,
+      "heures": 12.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -545,8 +563,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -563,8 +581,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -581,8 +599,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -599,8 +617,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -617,8 +635,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -635,8 +653,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 14.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -653,7 +671,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -671,7 +689,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -689,7 +707,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.6,
       "chaleur": 3,
       "liens": [
         {
@@ -707,7 +725,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.6,
       "chaleur": 3,
       "liens": [
         {
@@ -725,7 +743,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.6,
       "chaleur": 3,
       "liens": [
         {
@@ -743,7 +761,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -761,7 +779,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 16.0,
       "chaleur": 3,
       "liens": [
         {
@@ -779,7 +797,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 16.0,
       "chaleur": 3,
       "liens": [
         {
@@ -797,7 +815,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 16.2,
       "chaleur": 3,
       "liens": [
         {
@@ -815,7 +833,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 16.5,
       "chaleur": 3,
       "liens": [
         {
@@ -833,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.7,
       "chaleur": 3,
       "liens": [
         {
@@ -851,7 +869,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.7,
+      "heures": 16.8,
       "chaleur": 3,
       "liens": [
         {
@@ -869,7 +887,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 17.0,
       "chaleur": 3,
       "liens": [
         {
@@ -887,7 +905,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 17.3,
       "chaleur": 3,
       "liens": [
         {
@@ -905,7 +923,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.5,
       "chaleur": 3,
       "liens": [
         {
@@ -923,7 +941,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.6,
       "chaleur": 3,
       "liens": [
         {
@@ -941,7 +959,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 17.8,
       "chaleur": 3,
       "liens": [
         {
@@ -959,7 +977,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 18.0,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +995,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.3,
       "chaleur": 3,
       "liens": [
         {
@@ -995,7 +1013,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.7,
+      "heures": 18.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1013,7 +1031,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 19.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +1049,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 19.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,7 +1067,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,13 +1085,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/random-sonic-figure-containing-the-blue-blurs-dna-comes-with-an-eye-watering-price-tag",
           "titre": "Random: Sonic Figure Containing The Blue Blur's \"DNA\" Comes With An Eye-Watering Price Tag"
+        }
+      ]
+    },
+    {
+      "id": "marvel-tokon-s-year-one-dlc-roster-confirmed-including-venom",
+      "titre": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee",
+      "url": "https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 20.5,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/",
+          "titre": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee"
         }
       ]
     },
@@ -1085,7 +1121,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.7,
+      "heures": 20.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1103,31 +1139,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 21.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/explore-the-town-of-detour-in-this-new-fallout-4-mod-chock-full-of-voiced-npcs-and-quests",
           "titre": "Explore the town of Detour in this new Fallout 4 mod chock full of voiced NPCs and quests"
-        }
-      ]
-    },
-    {
-      "id": "stardew-valley-creator-s-new-game-haunted-chocolatier-is-mor",
-      "titre": "Stardew Valley creator's new game, Haunted Chocolatier, is \"more of an action RPG\" than farming sim",
-      "url": "https://www.eurogamer.net/the-haunted-chocolatier-action-rpg-stardew-valley",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 19.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/the-haunted-chocolatier-action-rpg-stardew-valley",
-          "titre": "Stardew Valley creator's new game, Haunted Chocolatier, is \"more of an action RPG\" than farming sim"
         }
       ]
     },
@@ -1139,7 +1157,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1157,7 +1175,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1175,7 +1193,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1184,27 +1202,7 @@ const VEILLE = {
           "titre": "Shogun 2 deserved better"
         }
       ]
-    },
-    {
-      "id": "dmz-for-call-of-duty-modern-warfare-4-being-released-early-b",
-      "titre": "DMZ for Call of Duty: Modern Warfare 4 being released early, but Infinity Ward shoots down PvE hopes",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-early-access-no-pve",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 19.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-early-access-no-pve",
-          "titre": "DMZ for Call of Duty: Modern Warfare 4 being released early, but Infinity Ward shoots down PvE hopes"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "\"No More Hand-Written Code\" - Epic Reportedly Adopts \"AI First\" Production Model On New Disney Shooter"
-  ]
+  "alertes": []
 };
