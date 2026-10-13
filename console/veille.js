@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "13/10/2026 à 18h29",
+  "collecte": "13/10/2026 à 20h34",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 16.9,
+      "heures": 19.0,
       "chaleur": 19,
       "liens": [
         {
@@ -53,8 +53,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 16,
+      "heures": 5.6,
+      "chaleur": 14,
       "liens": [
         {
           "source": "PC Gamer",
@@ -72,8 +72,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 3.0,
-      "chaleur": 14,
+      "heures": 5.1,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -88,30 +88,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "that-was-not-received-well-at-nintendo-as-gta-6-and-zelda-a",
-      "titre": "\"That was not received well at Nintendo\" - as GTA 6 and Zelda are lampooned by Saturday Night Live, former employees recall Elon Musk Wario skit controversy",
-      "url": "https://www.eurogamer.net/snl-elon-musk-wario-skit-zelda-gta-6",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 2.9,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/snl-elon-musk-wario-skit-zelda-gta-6",
-          "titre": "\"That was not received well at Nintendo\" - as GTA 6 and Zelda are lampooned by Saturday Night Live, former employees recall Elon Musk Wario skit controversy"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/random-2021-elon-musk-snl-skit-was-not-received-well-by-nintendo",
-          "titre": "Random: 2021 Elon Musk SNL Skit \"Was Not Received Well\" By Nintendo"
-        }
-      ]
-    },
-    {
       "id": "japan-is-getting-an-exclusive-midnight-black-playstation-5-n",
       "titre": "Japan is getting an exclusive Midnight Black PlayStation 5 next month, but there's still hope for the rest of the world",
       "url": "https://www.eurogamer.net/playstation-5-midnight-black-japan-only",
@@ -121,7 +97,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 5.4,
+      "heures": 7.5,
       "chaleur": 12,
       "liens": [
         {
@@ -152,7 +128,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 4,
-      "heures": 23.7,
+      "heures": 25.7,
       "chaleur": 12,
       "liens": [
         {
@@ -178,74 +154,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "cd-projekt-red-reassures-players-the-witcher-3-switch-2-patc",
-      "titre": "CD Projekt Red reassures players The Witcher 3 Switch 2 patch still due, as update rolls out for PS5 and PS5 Pro",
-      "url": "https://www.eurogamer.net/witcher-3-remastered-ps5-pro-switch-patch",
+      "id": "that-was-not-received-well-at-nintendo-as-gta-6-and-zelda-a",
+      "titre": "\"That was not received well at Nintendo\" - as GTA 6 and Zelda are lampooned by Saturday Night Live, former employees recall Elon Musk Wario skit controversy",
+      "url": "https://www.eurogamer.net/snl-elon-musk-wario-skit-zelda-gta-6",
       "sources": [
         "Eurogamer",
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 2.3,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-remastered-ps5-pro-switch-patch",
-          "titre": "CD Projekt Red reassures players The Witcher 3 Switch 2 patch still due, as update rolls out for PS5 and PS5 Pro"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastered-patch-specifically-targets-ps5-ps5-pro-problems",
-          "titre": "The Witcher 3 Remastered Patch Specifically Targets PS5, PS5 Pro Problems"
-        }
-      ]
-    },
-    {
-      "id": "rumour-gta-6-will-be-ported-to-pc-in-record-time-following-i",
-      "titre": "Rumour: GTA 6 Will Be Ported to PC in Record Time Following its Debut on PS5",
-      "url": "https://www.pushsquare.com/news/2026/10/rumour-gta-6-will-be-ported-to-pc-in-record-time-following-its-debut-on-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/rumour-gta-6-will-be-ported-to-pc-in-record-time-following-its-debut-on-ps5",
-          "titre": "Rumour: GTA 6 Will Be Ported to PC in Record Time Following its Debut on PS5"
-        }
-      ]
-    },
-    {
-      "id": "castlevania-belmont-s-curse-review-a-fantastic-action-game-a",
-      "titre": "Castlevania: Belmont’s Curse review - a fantastic action game, a less than stellar Metroidvania",
-      "url": "https://www.rockpapershotgun.com/castlevania-belmonts-curse-review-a-fantastic-action-game-a-less-than-stellar-metroidvania",
-      "sources": [
-        "Push Square",
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 8.4,
+      "heures": 5.0,
       "chaleur": 10,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/castlevania-belmonts-curse-review-a-fantastic-action-game-a-less-than-stellar-metroidvania",
-          "titre": "Castlevania: Belmont’s Curse review - a fantastic action game, a less than stellar Metroidvania"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/snl-elon-musk-wario-skit-zelda-gta-6",
+          "titre": "\"That was not received well at Nintendo\" - as GTA 6 and Zelda are lampooned by Saturday Night Live, former employees recall Elon Musk Wario skit controversy"
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/review/castlevania-belmonts-curse-review/",
-          "titre": "Castlevania Belmont’s Curse review: The first new 2D entry in 13 years looks incredible but lacks teeth"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/castlevania-belmonts-curse",
-          "titre": "Review: Castlevania: Belmont's Curse (PS5) - The Classic Series Returns in a Perfectly Fine Metroidvania"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/random-2021-elon-musk-snl-skit-was-not-received-well-by-nintendo",
+          "titre": "Random: 2021 Elon Musk SNL Skit \"Was Not Received Well\" By Nintendo"
         }
       ]
     },
@@ -258,7 +186,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 1.5,
+      "heures": 3.6,
       "chaleur": 9,
       "liens": [
         {
@@ -274,21 +202,21 @@ const VEILLE = {
       ]
     },
     {
-      "id": "how-to-complete-an-unheard-farewell-in-valor-mortis",
-      "titre": "How to complete An Unheard Farewell in Valor Mortis",
-      "url": "https://www.pcgamer.com/games/action/valor-mortis-an-unheard-farewell-walkthrough/",
+      "id": "can-you-beat-general-lothaire-in-valor-mortis",
+      "titre": "Can you beat General Lothaire in Valor Mortis?",
+      "url": "https://www.pcgamer.com/games/action/valor-mortis-general-lothaire-boss/",
       "sources": [
         "Eurogamer",
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 1.5,
+      "heures": 3.6,
       "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/valor-mortis-an-unheard-farewell-walkthrough/",
-          "titre": "How to complete An Unheard Farewell in Valor Mortis"
+          "url": "https://www.pcgamer.com/games/action/valor-mortis-general-lothaire-boss/",
+          "titre": "Can you beat General Lothaire in Valor Mortis?"
         },
         {
           "source": "Eurogamer",
@@ -305,7 +233,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.6,
       "chaleur": 9,
       "liens": [
         {
@@ -316,38 +244,80 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mini-review-resident-evil-2-deluxe-edition-switch-2-finally",
-      "titre": "Mini Review: Resident Evil 2 Deluxe Edition (Switch 2) - Finally Gets The Treatment It Deserves",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/resident-evil-2-deluxe-edition",
+      "id": "cd-projekt-red-reassures-players-the-witcher-3-switch-2-patc",
+      "titre": "CD Projekt Red reassures players The Witcher 3 Switch 2 patch still due, as update rolls out for PS5 and PS5 Pro",
+      "url": "https://www.eurogamer.net/witcher-3-remastered-ps5-pro-switch-patch",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer",
+        "Push Square"
       ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 8,
+      "reprises": 2,
+      "heures": 4.3,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/resident-evil-2-deluxe-edition",
-          "titre": "Mini Review: Resident Evil 2 Deluxe Edition (Switch 2) - Finally Gets The Treatment It Deserves"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/witcher-3-remastered-ps5-pro-switch-patch",
+          "titre": "CD Projekt Red reassures players The Witcher 3 Switch 2 patch still due, as update rolls out for PS5 and PS5 Pro"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastered-patch-specifically-targets-ps5-ps5-pro-problems",
+          "titre": "The Witcher 3 Remastered Patch Specifically Targets PS5, PS5 Pro Problems"
         }
       ]
     },
     {
-      "id": "amd-has-reportedly-already-raised-gddr6-prices-for-its-graph",
-      "titre": "AMD has reportedly already raised GDDR6 prices for its graphics card partners, so you'll find no solace from spiking GPU prices with Team Red",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-has-reportedly-already-raised-gddr6-prices-for-its-graphics-card-partners-so-youll-find-no-solace-from-spiking-gpu-prices-with-team-red/",
+      "id": "rumour-gta-6-will-be-ported-to-pc-in-record-time-following-i",
+      "titre": "Rumour: GTA 6 Will Be Ported to PC in Record Time Following Its Debut on PS5",
+      "url": "https://www.pushsquare.com/news/2026/10/rumour-gta-6-will-be-ported-to-pc-in-record-time-following-its-debut-on-ps5",
       "sources": [
-        "PC Gamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 3.8,
+      "heures": 5.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/rumour-gta-6-will-be-ported-to-pc-in-record-time-following-its-debut-on-ps5",
+          "titre": "Rumour: GTA 6 Will Be Ported to PC in Record Time Following Its Debut on PS5"
+        }
+      ]
+    },
+    {
+      "id": "asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-p",
+      "titre": "Asha Sharma forms ‘Xbox Labs’ in response to explosion of AI-powered mods and ports",
+      "url": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
       "chaleur": 8,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-has-reportedly-already-raised-gddr6-prices-for-its-graphics-card-partners-so-youll-find-no-solace-from-spiking-gpu-prices-with-team-red/",
-          "titre": "AMD has reportedly already raised GDDR6 prices for its graphics card partners, so you'll find no solace from spiking GPU prices with Team Red"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/",
+          "titre": "Asha Sharma forms ‘Xbox Labs’ in response to explosion of AI-powered mods and ports"
+        }
+      ]
+    },
+    {
+      "id": "xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging",
+      "titre": "Xbox announces Xbox Labs, a new initiative to trial emerging ideas and \"new technology\"",
+      "url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology",
+          "titre": "Xbox announces Xbox Labs, a new initiative to trial emerging ideas and \"new technology\""
         }
       ]
     },
@@ -359,7 +329,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 9.9,
       "chaleur": 8,
       "liens": [
         {
@@ -377,7 +347,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 7.0,
       "chaleur": 7,
       "liens": [
         {
@@ -396,7 +366,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 5.8,
+      "heures": 7.8,
       "chaleur": 7,
       "liens": [
         {
@@ -419,13 +389,37 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.6,
       "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/10-games-you-need-to-play-before-gta-6-takes-over-the-world/",
           "titre": "10 games you need to play before GTA 6 takes over the world"
+        }
+      ]
+    },
+    {
+      "id": "castlevania-belmont-s-curse-review-a-fantastic-action-game-a",
+      "titre": "Castlevania: Belmont’s Curse review - a fantastic action game, a less than stellar Metroidvania",
+      "url": "https://www.rockpapershotgun.com/castlevania-belmonts-curse-review-a-fantastic-action-game-a-less-than-stellar-metroidvania",
+      "sources": [
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 10.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/castlevania-belmonts-curse-review-a-fantastic-action-game-a-less-than-stellar-metroidvania",
+          "titre": "Castlevania: Belmont’s Curse review - a fantastic action game, a less than stellar Metroidvania"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/castlevania-belmonts-curse",
+          "titre": "Review: Castlevania: Belmont's Curse (PS5) - The Classic Series Returns in a Perfectly Fine Metroidvania"
         }
       ]
     },
@@ -466,6 +460,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "escher-s-dream-is-a-portal-2-mod-inspired-by-the-non-euclide",
+      "titre": "Escher's Dream is a Portal 2 mod inspired by the non-euclidean works of the classic artist that will leave you feeling only a little bit nauseated",
+      "url": "https://www.rockpapershotgun.com/eschers-dream-is-a-portal-2-mod-inspired-by-the-non-euclidian-works-of-the-classic-artist-that-will-leave-you-feeling-only-a-little-bit-nauseated",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/eschers-dream-is-a-portal-2-mod-inspired-by-the-non-euclidian-works-of-the-classic-artist-that-will-leave-you-feeling-only-a-little-bit-nauseated",
+          "titre": "Escher's Dream is a Portal 2 mod inspired by the non-euclidean works of the classic artist that will leave you feeling only a little bit nauseated"
+        }
+      ]
+    },
+    {
+      "id": "echoes-of-delicious-in-dungeon-ring-out-in-deep-dish-dungeon",
+      "titre": "Echoes of Delicious in Dungeon ring out in Deep Dish Dungeon, a co-op dungeon crawler about making meals with whatever you can scrounge up that's out now",
+      "url": "https://www.rockpapershotgun.com/echoes-of-delicious-in-dungeon-ring-out-in-deep-dish-dungeon-a-co-op-dungeon-crawler-about-making-meals-with-whatever-you-can-scrounge-up-thats-out-now",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 2.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/echoes-of-delicious-in-dungeon-ring-out-in-deep-dish-dungeon-a-co-op-dungeon-crawler-about-making-meals-with-whatever-you-can-scrounge-up-thats-out-now",
+          "titre": "Echoes of Delicious in Dungeon ring out in Deep Dish Dungeon, a co-op dungeon crawler about making meals with whatever you can scrounge up that's out now"
+        }
+      ]
+    },
+    {
       "id": "grand-theft-auto-6-rumored-to-be-launching-on-pc-sooner-than",
       "titre": "Grand Theft Auto 6 rumored to be launching on PC sooner than anyone expected, but I wouldn't get my hopes up too high",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/report-claims-grand-theft-auto-6-will-launch-on-pc-sooner-than-anyone-expected/",
@@ -473,7 +503,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -491,7 +521,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -509,7 +539,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
@@ -527,31 +557,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/modern-warfare-4-is-the-latest-call-of-duty-to-launch-without-a-ps5-platinum-trophy",
           "titre": "Modern Warfare 4 Is the Latest Call of Duty to Launch without a PS5 Platinum Trophy"
-        }
-      ]
-    },
-    {
-      "id": "can-you-beat-general-lothaire-in-valor-mortis",
-      "titre": "Can you beat General Lothaire in Valor Mortis?",
-      "url": "https://www.pcgamer.com/games/action/valor-mortis-general-lothaire-boss/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/valor-mortis-general-lothaire-boss/",
-          "titre": "Can you beat General Lothaire in Valor Mortis?"
         }
       ]
     },
@@ -563,7 +575,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -574,56 +586,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "going-medieval-s-new-diplomacy-update-is-all-about-calling-y",
-      "titre": "Going Medieval's new diplomacy update is all about calling your neighbouring settlements for favours, which yes, may mean delivering a cow or two in return",
-      "url": "https://www.rockpapershotgun.com/going-medievals-new-diplomacy-update-is-all-about-calling-your-neighbouring-settlements-for-favours-which-yes-may-mean-delivering-a-cow-or-two-in-return",
+      "id": "mini-review-resident-evil-2-deluxe-edition-switch-2-finally",
+      "titre": "Mini Review: Resident Evil 2 Deluxe Edition (Switch 2) - Finally Gets The Treatment It Deserves",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/resident-evil-2-deluxe-edition",
       "sources": [
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 5.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/going-medievals-new-diplomacy-update-is-all-about-calling-your-neighbouring-settlements-for-favours-which-yes-may-mean-delivering-a-cow-or-two-in-return",
-          "titre": "Going Medieval's new diplomacy update is all about calling your neighbouring settlements for favours, which yes, may mean delivering a cow or two in return"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/resident-evil-2-deluxe-edition",
+          "titre": "Mini Review: Resident Evil 2 Deluxe Edition (Switch 2) - Finally Gets The Treatment It Deserves"
         }
       ]
     },
     {
-      "id": "no-i-am-not-evil-for-wanting-to-turn-space-whale-city-builde",
-      "titre": "No, I am not evil for wanting to turn space whale city-builder Beyond These Stars into a Moby Dick simulator",
-      "url": "https://www.rockpapershotgun.com/no-i-am-not-evil-for-wanting-to-turn-space-whale-city-builder-beyond-these-stars-into-a-moby-dick-simulator",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/no-i-am-not-evil-for-wanting-to-turn-space-whale-city-builder-beyond-these-stars-into-a-moby-dick-simulator",
-          "titre": "No, I am not evil for wanting to turn space whale city-builder Beyond These Stars into a Moby Dick simulator"
-        }
-      ]
-    },
-    {
-      "id": "ben-affleck-lost-3-years-to-starcraft-has-strong-valorant-op",
-      "titre": "Ben Affleck lost 3 years to Starcraft, has strong Valorant opinions, and mourns RTSes as a genre, so there's solid odds he's one of our regular commenters",
-      "url": "https://www.pcgamer.com/movies-tv/ben-affleck-lost-3-years-to-starcraft-has-strong-valorant-opinions-and-mourns-rtses-as-a-genre-so-theres-solid-odds-hes-one-of-our-regular-commenters/",
+      "id": "amd-has-reportedly-already-raised-gddr6-prices-for-its-graph",
+      "titre": "AMD has reportedly already raised GDDR6 prices for its graphics card partners, so you'll find no solace from spiking GPU prices with Team Red",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-has-reportedly-already-raised-gddr6-prices-for-its-graphics-card-partners-so-youll-find-no-solace-from-spiking-gpu-prices-with-team-red/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.2,
+      "heures": 5.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/ben-affleck-lost-3-years-to-starcraft-has-strong-valorant-opinions-and-mourns-rtses-as-a-genre-so-theres-solid-odds-hes-one-of-our-regular-commenters/",
-          "titre": "Ben Affleck lost 3 years to Starcraft, has strong Valorant opinions, and mourns RTSes as a genre, so there's solid odds he's one of our regular commenters"
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-has-reportedly-already-raised-gddr6-prices-for-its-graphics-card-partners-so-youll-find-no-solace-from-spiking-gpu-prices-with-team-red/",
+          "titre": "AMD has reportedly already raised GDDR6 prices for its graphics card partners, so you'll find no solace from spiking GPU prices with Team Red"
         }
       ]
     },
@@ -635,7 +629,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.5,
       "chaleur": 6,
       "liens": [
         {
@@ -653,7 +647,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.4,
       "chaleur": 6,
       "liens": [
         {
@@ -671,7 +665,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.6,
       "chaleur": 6,
       "liens": [
         {
@@ -689,7 +683,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 10.1,
       "chaleur": 6,
       "liens": [
         {
@@ -707,7 +701,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 11.1,
       "chaleur": 6,
       "liens": [
         {
@@ -725,7 +719,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.7,
       "chaleur": 6,
       "liens": [
         {
@@ -743,7 +737,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 31.9,
+      "heures": 34.0,
       "chaleur": 6,
       "liens": [
         {
@@ -761,7 +755,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 15.7,
       "chaleur": 5,
       "liens": [
         {
@@ -779,7 +773,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 19.9,
       "chaleur": 5,
       "liens": [
         {
@@ -797,7 +791,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 24.5,
+      "heures": 26.6,
       "chaleur": 5,
       "liens": [
         {
@@ -815,7 +809,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.7,
+      "heures": 27.8,
       "chaleur": 5,
       "liens": [
         {
@@ -833,7 +827,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 26.2,
+      "heures": 28.3,
       "chaleur": 5,
       "liens": [
         {
@@ -851,13 +845,67 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.5,
+      "heures": 31.6,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/blueys-happy-snaps",
           "titre": "Mini Review: Bluey's Happy Snaps (Switch 2) - A Light, Breezy Photography Adventure"
+        }
+      ]
+    },
+    {
+      "id": "going-medieval-s-new-diplomacy-update-is-all-about-calling-y",
+      "titre": "Going Medieval's new diplomacy update is all about calling your neighbouring settlements for favours, which yes, may mean delivering a cow or two in return",
+      "url": "https://www.rockpapershotgun.com/going-medievals-new-diplomacy-update-is-all-about-calling-your-neighbouring-settlements-for-favours-which-yes-may-mean-delivering-a-cow-or-two-in-return",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/going-medievals-new-diplomacy-update-is-all-about-calling-your-neighbouring-settlements-for-favours-which-yes-may-mean-delivering-a-cow-or-two-in-return",
+          "titre": "Going Medieval's new diplomacy update is all about calling your neighbouring settlements for favours, which yes, may mean delivering a cow or two in return"
+        }
+      ]
+    },
+    {
+      "id": "no-i-am-not-evil-for-wanting-to-turn-space-whale-city-builde",
+      "titre": "No, I am not evil for wanting to turn space whale city-builder Beyond These Stars into a Moby Dick simulator",
+      "url": "https://www.rockpapershotgun.com/no-i-am-not-evil-for-wanting-to-turn-space-whale-city-builder-beyond-these-stars-into-a-moby-dick-simulator",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/no-i-am-not-evil-for-wanting-to-turn-space-whale-city-builder-beyond-these-stars-into-a-moby-dick-simulator",
+          "titre": "No, I am not evil for wanting to turn space whale city-builder Beyond These Stars into a Moby Dick simulator"
+        }
+      ]
+    },
+    {
+      "id": "ben-affleck-lost-3-years-to-starcraft-has-strong-valorant-op",
+      "titre": "Ben Affleck lost 3 years to Starcraft, has strong Valorant opinions, and mourns RTSes as a genre, so there's solid odds he's one of our regular commenters",
+      "url": "https://www.pcgamer.com/movies-tv/ben-affleck-lost-3-years-to-starcraft-has-strong-valorant-opinions-and-mourns-rtses-as-a-genre-so-theres-solid-odds-hes-one-of-our-regular-commenters/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/ben-affleck-lost-3-years-to-starcraft-has-strong-valorant-opinions-and-mourns-rtses-as-a-genre-so-theres-solid-odds-hes-one-of-our-regular-commenters/",
+          "titre": "Ben Affleck lost 3 years to Starcraft, has strong Valorant opinions, and mourns RTSes as a genre, so there's solid odds he's one of our regular commenters"
         }
       ]
     },
@@ -869,7 +917,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +935,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +971,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +989,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 7.0,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +1007,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +1025,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +1043,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,7 +1061,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,7 +1079,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1049,7 +1097,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1067,7 +1115,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1085,7 +1133,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1103,7 +1151,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1121,67 +1169,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.2,
       "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/cut-assassins-creed-black-flag-resynced-epilogue-scene-that-could-hint-at-fresh-18th-century-stabby-hijinks-allegedly-taken-down-by-ubisoft-following-datamine",
           "titre": "Cut Assassin’s Creed Black Flag Resynced epilogue scene, that could hint at fresh 18th century stabby hijinks, allegedly taken down by Ubisoft following datamine"
-        }
-      ]
-    },
-    {
-      "id": "behold-the-3-000-keyboard-that-is-also-actually-a-powerful-a",
-      "titre": "Behold, the $3,000 keyboard that is also actually a powerful AI PC I would hate to spill my coffee on",
-      "url": "https://www.pcgamer.com/hardware/behold-the-usd3-000-keyboard-that-is-also-actually-a-powerful-ai-pc-i-would-hate-to-spill-my-coffee-on/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/behold-the-usd3-000-keyboard-that-is-also-actually-a-powerful-ai-pc-i-would-hate-to-spill-my-coffee-on/",
-          "titre": "Behold, the $3,000 keyboard that is also actually a powerful AI PC I would hate to spill my coffee on"
-        }
-      ]
-    },
-    {
-      "id": "us-government-told-to-flag-retro-handhelds-loaded-with-pirat",
-      "titre": "US government told to flag retro handhelds loaded with pirated games as a ‘notorious market’",
-      "url": "https://www.videogameschronicle.com/news/us-government-told-to-flag-retro-handhelds-loaded-with-pirated-games-as-a-notorious-market/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/us-government-told-to-flag-retro-handhelds-loaded-with-pirated-games-as-a-notorious-market/",
-          "titre": "US government told to flag retro handhelds loaded with pirated games as a ‘notorious market’"
-        }
-      ]
-    },
-    {
-      "id": "marvel-t-kon-fighting-souls-to-add-jane-foster-s-thor-venom",
-      "titre": "Marvel Tōkon: Fighting Souls to add Jane Foster's Thor, Venom and Jubilee - following Phoenix Cyclops - in its Year One DLC pass",
-      "url": "https://www.rockpapershotgun.com/marvel-tokon-fighting-souls-to-add-jane-fosters-thor-venom-and-jubilee-following-phoenix-cyclops-in-its-year-one-dlc-pass",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 7.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/marvel-tokon-fighting-souls-to-add-jane-fosters-thor-venom-and-jubilee-following-phoenix-cyclops-in-its-year-one-dlc-pass",
-          "titre": "Marvel Tōkon: Fighting Souls to add Jane Foster's Thor, Venom and Jubilee - following Phoenix Cyclops - in its Year One DLC pass"
         }
       ]
     }
