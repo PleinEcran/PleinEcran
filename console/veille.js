@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "13/10/2026 à 08h27",
+  "collecte": "13/10/2026 à 10h25",
   "seuil": 14,
   "sujets": [
     {
@@ -16,7 +16,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 6,
-      "heures": 6.9,
+      "heures": 8.8,
       "chaleur": 23,
       "liens": [
         {
@@ -52,6 +52,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "castlevania-belmont-s-curse-review-a-fantastic-action-game-a",
+      "titre": "Castlevania: Belmont’s Curse review - a fantastic action game, a less than stellar Metroidvania",
+      "url": "https://www.rockpapershotgun.com/castlevania-belmonts-curse-review-a-fantastic-action-game-a-less-than-stellar-metroidvania",
+      "sources": [
+        "Push Square",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 0.4,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/castlevania-belmonts-curse-review-a-fantastic-action-game-a-less-than-stellar-metroidvania",
+          "titre": "Castlevania: Belmont’s Curse review - a fantastic action game, a less than stellar Metroidvania"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/review/castlevania-belmonts-curse-review/",
+          "titre": "Castlevania Belmont’s Curse review: The first new 2D entry in 13 years looks incredible but lacks teeth"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/castlevania-belmonts-curse",
+          "titre": "Review: Castlevania: Belmont's Curse (PS5) - The Classic Series Returns in a Perfectly Fine Metroidvania"
+        }
+      ]
+    },
+    {
       "id": "dragon-quest-creator-yuji-horii-releases-game-he-says-he-mad",
       "titre": "Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes",
       "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
@@ -59,12 +89,11 @@ const VEILLE = {
         "Eurogamer",
         "GamesIndustry.biz",
         "Nintendo Life",
-        "Push Square",
-        "VGC"
+        "Push Square"
       ],
-      "reprises": 5,
-      "heures": 13.6,
-      "chaleur": 15,
+      "reprises": 4,
+      "heures": 15.6,
+      "chaleur": 12,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -85,11 +114,6 @@ const VEILLE = {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/its-truly-astonishing-dragon-quest-creator-yuji-horii-made-an-ai-generated-game-in-30-minutes",
           "titre": "\"It's Truly Astonishing\" - Dragon Quest Creator Yuji Horii Made An AI-Generated Game In 30 Minutes"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-lastest-game-from-the-creator-of-dragon-quest-was-made-in-about-30-minutes-with-ai/",
-          "titre": "The latest game from the creator of Dragon Quest was made in ‘about 30 minutes’ with AI"
         }
       ]
     },
@@ -103,7 +127,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 3,
-      "heures": 14.5,
+      "heures": 16.5,
       "chaleur": 11,
       "liens": [
         {
@@ -133,7 +157,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 16.2,
+      "heures": 18.1,
       "chaleur": 11,
       "liens": [
         {
@@ -154,30 +178,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "castlevania-belmont-s-curse-review-the-first-new-2d-entry-in",
-      "titre": "Castlevania Belmont’s Curse review: The first new 2D entry in 13 years looks incredible but lacks teeth",
-      "url": "https://www.videogameschronicle.com/review/castlevania-belmonts-curse-review/",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 1.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/review/castlevania-belmonts-curse-review/",
-          "titre": "Castlevania Belmont’s Curse review: The first new 2D entry in 13 years looks incredible but lacks teeth"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/castlevania-belmonts-curse",
-          "titre": "Review: Castlevania: Belmont's Curse (PS5) - The Classic Series Returns in a Perfectly Fine Metroidvania"
-        }
-      ]
-    },
-    {
       "id": "valor-mortis-system-requirements-appear-to-have-been-drastic",
       "titre": "Valor Mortis' system requirements appear to have been drastically cut, just before the FPSoulslike launches",
       "url": "https://www.rockpapershotgun.com/valor-mortis-system-requirements-appear-to-have-been-drastically-cut-just-before-the-fpsoulslike-launches",
@@ -187,7 +187,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 14.3,
+      "heures": 16.3,
       "chaleur": 9,
       "liens": [
         {
@@ -217,7 +217,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 9,
       "liens": [
         {
@@ -238,20 +238,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "psa-metaphor-refantazio-demo-for-switch-2-now-available",
-      "titre": "PSA: Metaphor: ReFantazio Demo For Switch 2 Now Available",
-      "url": "https://www.nintendolife.com/news/2026/10/psa-metaphor-refantazio-demo-for-switch-2-now-available",
+      "id": "random-2021-elon-musk-snl-skit-was-not-received-well-by-nint",
+      "titre": "Random: 2021 Elon Musk SNL Skit \"Was Not Received Well\" By Nintendo",
+      "url": "https://www.nintendolife.com/news/2026/10/random-2021-elon-musk-snl-skit-was-not-received-well-by-nintendo",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.5,
+      "heures": 0.7,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/psa-metaphor-refantazio-demo-for-switch-2-now-available",
-          "titre": "PSA: Metaphor: ReFantazio Demo For Switch 2 Now Available"
+          "url": "https://www.nintendolife.com/news/2026/10/random-2021-elon-musk-snl-skit-was-not-received-well-by-nintendo",
+          "titre": "Random: 2021 Elon Musk SNL Skit \"Was Not Received Well\" By Nintendo"
+        }
+      ]
+    },
+    {
+      "id": "xbox-insists-it-s-not-giving-up-on-original-ip-we-won-t-surv",
+      "titre": "Xbox insists it’s not giving up on original IP: ‘We won’t survive if we only relive the past’",
+      "url": "https://www.videogameschronicle.com/news/xbox-insists-its-not-giving-up-on-original-ip-we-wont-survive-if-we-only-relive-the-past/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-insists-its-not-giving-up-on-original-ip-we-wont-survive-if-we-only-relive-the-past/",
+          "titre": "Xbox insists it’s not giving up on original IP: ‘We won’t survive if we only relive the past’"
+        }
+      ]
+    },
+    {
+      "id": "rimworld-switches-engine-from-unity-to-the-devs-own-faster-w",
+      "titre": "RimWorld switches engine from Unity to the devs' own, faster Waylith Engine, all apparently without breaking mods somehow",
+      "url": "https://www.rockpapershotgun.com/rimworld-switches-engine-from-unity-to-the-devs-own-faster-waylith-engine-all-apparently-without-breaking-mods-somehow",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/rimworld-switches-engine-from-unity-to-the-devs-own-faster-waylith-engine-all-apparently-without-breaking-mods-somehow",
+          "titre": "RimWorld switches engine from Unity to the devs' own, faster Waylith Engine, all apparently without breaking mods somehow"
         }
       ]
     },
@@ -264,7 +300,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 15.7,
+      "heures": 17.6,
       "chaleur": 8,
       "liens": [
         {
@@ -288,7 +324,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 5.5,
+      "heures": 7.5,
       "chaleur": 7,
       "liens": [
         {
@@ -311,7 +347,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 23.8,
       "chaleur": 7,
       "liens": [
         {
@@ -358,6 +394,114 @@ const VEILLE = {
       ]
     },
     {
+      "id": "god-of-war-laufey-collector-box-available-for-pre-order-now",
+      "titre": "God of War Laufey Collector Box Available for Pre-Order Now, Doesn't Include the Game",
+      "url": "https://www.pushsquare.com/news/2026/10/god-of-war-laufey-collector-box-available-for-pre-order-now-doesnt-include-the-game",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/god-of-war-laufey-collector-box-available-for-pre-order-now-doesnt-include-the-game",
+          "titre": "God of War Laufey Collector Box Available for Pre-Order Now, Doesn't Include the Game"
+        }
+      ]
+    },
+    {
+      "id": "museum-strings-together-30-old-mac-minis-for-replica-of-most",
+      "titre": "Museum strings together 30 old Mac minis for replica of most successful supercomputer, builds something more powerful than the original",
+      "url": "https://www.pcgamer.com/hardware/museum-strings-together-30-old-mac-minis-for-replica-of-most-successful-supercomputer-builds-something-more-powerful-than-the-original/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/museum-strings-together-30-old-mac-minis-for-replica-of-most-successful-supercomputer-builds-something-more-powerful-than-the-original/",
+          "titre": "Museum strings together 30 old Mac minis for replica of most successful supercomputer, builds something more powerful than the original"
+        }
+      ]
+    },
+    {
+      "id": "ace-combat-8-wings-of-theve-review-thrill-packed-campaign-ta",
+      "titre": "Ace Combat 8: Wings of Theve review – thrill-packed campaign takes this long-running series to new heights",
+      "url": "https://www.eurogamer.net/ace-combat-8-wings-of-theve-review",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ace-combat-8-wings-of-theve-review",
+          "titre": "Ace Combat 8: Wings of Theve review – thrill-packed campaign takes this long-running series to new heights"
+        }
+      ]
+    },
+    {
+      "id": "sony-has-announced-a-midnight-black-ps5-but-it-s-only-confir",
+      "titre": "Sony has announced a Midnight Black PS5 but it’s only confirmed for Japan so far",
+      "url": "https://www.videogameschronicle.com/news/sony-has-announced-a-midnight-black-ps5-but-its-only-confirmed-for-japan-so-far/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sony-has-announced-a-midnight-black-ps5-but-its-only-confirmed-for-japan-so-far/",
+          "titre": "Sony has announced a Midnight Black PS5 but it’s only confirmed for Japan so far"
+        }
+      ]
+    },
+    {
+      "id": "i-was-forced-to-ship-the-game-glen-schofield-blames-krafton",
+      "titre": "\"I was forced to ship the game\" - Glen Schofield blames Krafton management for The Callisto Protocol's problems",
+      "url": "https://www.eurogamer.net/glen-schofield-the-callisto-protocol-krafton-problems",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/glen-schofield-the-callisto-protocol-krafton-problems",
+          "titre": "\"I was forced to ship the game\" - Glen Schofield blames Krafton management for The Callisto Protocol's problems"
+        }
+      ]
+    },
+    {
+      "id": "psa-metaphor-refantazio-demo-for-switch-2-now-available",
+      "titre": "PSA: Metaphor: ReFantazio Demo For Switch 2 Now Available",
+      "url": "https://www.nintendolife.com/news/2026/10/psa-metaphor-refantazio-demo-for-switch-2-now-available",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/psa-metaphor-refantazio-demo-for-switch-2-now-available",
+          "titre": "PSA: Metaphor: ReFantazio Demo For Switch 2 Now Available"
+        }
+      ]
+    },
+    {
       "id": "tears-of-the-kingdom-zelda-statue-officially-revealed-here-s",
       "titre": "Tears Of The Kingdom Zelda Statue Officially Revealed, Here's A Sneak Peek",
       "url": "https://www.nintendolife.com/news/2026/10/tears-of-the-kingdom-zelda-statue-officially-revealed-heres-a-sneak-peek",
@@ -365,7 +509,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 9.8,
       "chaleur": 6,
       "liens": [
         {
@@ -384,7 +528,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 13.0,
+      "heures": 14.9,
       "chaleur": 6,
       "liens": [
         {
@@ -407,7 +551,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.4,
       "chaleur": 6,
       "liens": [
         {
@@ -425,7 +569,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 23.9,
       "chaleur": 6,
       "liens": [
         {
@@ -443,7 +587,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 17.7,
       "chaleur": 5,
       "liens": [
         {
@@ -461,7 +605,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.3,
       "chaleur": 5,
       "liens": [
         {
@@ -479,7 +623,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.4,
       "chaleur": 5,
       "liens": [
         {
@@ -497,7 +641,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.8,
+      "heures": 22.7,
       "chaleur": 5,
       "liens": [
         {
@@ -515,7 +659,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.0,
+      "heures": 24.9,
       "chaleur": 5,
       "liens": [
         {
@@ -533,7 +677,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -551,7 +695,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.2,
       "chaleur": 3,
       "liens": [
         {
@@ -569,7 +713,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -587,7 +731,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 16.1,
       "chaleur": 3,
       "liens": [
         {
@@ -605,7 +749,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -623,31 +767,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 17.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-emperor-modulator-location/",
           "titre": "How to get an Emperor Modulator in Arc Raiders"
-        }
-      ]
-    },
-    {
-      "id": "castlevania-belmont-s-curse-asks-for-no-less-than-100-comple",
-      "titre": "Castlevania: Belmont's Curse Asks for No Less Than 100% Completion for the Platinum Trophy",
-      "url": "https://www.pushsquare.com/news/2026/10/castlevania-belmonts-curse-asks-for-no-less-than-100percent-completion-for-the-platinum-trophy",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 15.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/castlevania-belmonts-curse-asks-for-no-less-than-100percent-completion-for-the-platinum-trophy",
-          "titre": "Castlevania: Belmont's Curse Asks for No Less Than 100% Completion for the Platinum Trophy"
         }
       ]
     },
@@ -659,7 +785,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.6,
       "chaleur": 3,
       "liens": [
         {
@@ -677,7 +803,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -695,7 +821,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -713,7 +839,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -731,7 +857,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.5,
       "chaleur": 3,
       "liens": [
         {
@@ -749,7 +875,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.5,
       "chaleur": 3,
       "liens": [
         {
@@ -767,7 +893,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.5,
       "chaleur": 3,
       "liens": [
         {
@@ -785,7 +911,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 18.9,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +929,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 19.9,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +947,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.0,
+      "heures": 19.9,
       "chaleur": 3,
       "liens": [
         {
@@ -839,7 +965,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 20.1,
       "chaleur": 3,
       "liens": [
         {
@@ -857,7 +983,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.5,
+      "heures": 20.4,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +1001,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 20.6,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +1019,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.7,
+      "heures": 20.7,
       "chaleur": 3,
       "liens": [
         {
@@ -911,7 +1037,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.0,
+      "heures": 20.9,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +1055,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.2,
       "chaleur": 3,
       "liens": [
         {
@@ -947,7 +1073,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 21.4,
       "chaleur": 3,
       "liens": [
         {
@@ -965,7 +1091,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.5,
       "chaleur": 3,
       "liens": [
         {
@@ -983,7 +1109,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 21.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +1127,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 21.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,7 +1145,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.2,
+      "heures": 22.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1037,7 +1163,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.8,
+      "heures": 22.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1055,7 +1181,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.0,
+      "heures": 22.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1073,139 +1199,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 21.1,
+      "heures": 23.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/someones-found-out-how-to-unlock-f-zero-gxs-five-golden-cars-previously-only-available-through-japan-special-events/",
           "titre": "Someone’s found out how to unlock F-Zero GX’s five golden cars, previously only available through Japan special events"
-        }
-      ]
-    },
-    {
-      "id": "the-algorithm-continues-to-properly-prioritise-mister-biddy",
-      "titre": "'The algorithm continues to properly prioritise Mister Biddy Blas'—Star Wars: Galactic Racer has created the perfect creature",
-      "url": "https://www.pcgamer.com/games/racing/the-algorithm-continues-to-properly-prioritise-mister-biddy-blas-star-wars-galactic-racer-has-created-the-perfect-creature/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/racing/the-algorithm-continues-to-properly-prioritise-mister-biddy-blas-star-wars-galactic-racer-has-created-the-perfect-creature/",
-          "titre": "'The algorithm continues to properly prioritise Mister Biddy Blas'—Star Wars: Galactic Racer has created the perfect creature"
-        }
-      ]
-    },
-    {
-      "id": "random-sonic-figure-containing-the-blue-blur-s-dna-comes-wit",
-      "titre": "Random: Sonic Figure Containing The Blue Blur's \"DNA\" Comes With An Eye-Watering Price Tag",
-      "url": "https://www.nintendolife.com/news/2026/10/random-sonic-figure-containing-the-blue-blurs-dna-comes-with-an-eye-watering-price-tag",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 22.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/random-sonic-figure-containing-the-blue-blurs-dna-comes-with-an-eye-watering-price-tag",
-          "titre": "Random: Sonic Figure Containing The Blue Blur's \"DNA\" Comes With An Eye-Watering Price Tag"
-        }
-      ]
-    },
-    {
-      "id": "marvel-tokon-s-year-one-dlc-roster-confirmed-including-venom",
-      "titre": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee",
-      "url": "https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 22.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/",
-          "titre": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee"
-        }
-      ]
-    },
-    {
-      "id": "the-blood-of-dawnwalker-s-lead-actor-reminds-us-why-ai-will",
-      "titre": "The Blood of Dawnwalker's lead actor reminds us why AI will always struggle to replicate a human performance",
-      "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-lead-actor-will-de-renzy-martin-ai-voiceover",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 22.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-lead-actor-will-de-renzy-martin-ai-voiceover",
-          "titre": "The Blood of Dawnwalker's lead actor reminds us why AI will always struggle to replicate a human performance"
-        }
-      ]
-    },
-    {
-      "id": "explore-the-town-of-detour-in-this-new-fallout-4-mod-chock-f",
-      "titre": "Explore the town of Detour in this new Fallout 4 mod chock full of voiced NPCs and quests",
-      "url": "https://www.rockpapershotgun.com/explore-the-town-of-detour-in-this-new-fallout-4-mod-chock-full-of-voiced-npcs-and-quests",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 22.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/explore-the-town-of-detour-in-this-new-fallout-4-mod-chock-full-of-voiced-npcs-and-quests",
-          "titre": "Explore the town of Detour in this new Fallout 4 mod chock full of voiced NPCs and quests"
-        }
-      ]
-    },
-    {
-      "id": "feature-50-ps5-ps4-games-to-buy-in-the-ps-store-player-s-cho",
-      "titre": "Feature: 50+ PS5, PS4 Games to Buy in the PS Store Player's Choice Sale (North America/Europe)",
-      "url": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-the-ps-store-players-choice-sale-north-americaeurope",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 23.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-the-ps-store-players-choice-sale-north-americaeurope",
-          "titre": "Feature: 50+ PS5, PS4 Games to Buy in the PS Store Player's Choice Sale (North America/Europe)"
-        }
-      ]
-    },
-    {
-      "id": "shogun-2-deserved-better",
-      "titre": "Shogun 2 deserved better",
-      "url": "https://www.pcgamer.com/games/strategy/shogun-2-deserved-better/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 23.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/shogun-2-deserved-better/",
-          "titre": "Shogun 2 deserved better"
         }
       ]
     }
