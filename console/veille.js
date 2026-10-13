@@ -1,8 +1,56 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "12/10/2026 à 22h22",
+  "collecte": "13/10/2026 à 00h36",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "our-humble-goal-is-to-survive-the-ai-revolution-says-epic-g",
+      "titre": "'Our humble goal is to survive the AI revolution' says Epic Games CEO, as its Star Wars and Marvel crossover pivots to 'AI first' development",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/our-humble-goal-is-to-survive-the-ai-revolution-says-epic-games-ceo-as-its-star-wars-and-marvel-crossover-pivots-to-ai-first-development/",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz",
+        "PC Gamer",
+        "Push Square",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 6,
+      "heures": 1.7,
+      "chaleur": 25,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/our-humble-goal-is-to-survive-the-ai-revolution-says-epic-games-ceo-as-its-star-wars-and-marvel-crossover-pivots-to-ai-first-development/",
+          "titre": "'Our humble goal is to survive the AI revolution' says Epic Games CEO, as its Star Wars and Marvel crossover pivots to 'AI first' development"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/no-more-hand-written-code-epic-reportedly-impose-ai-first-model-on-creators-of-new-disney-shooter-with-marvel-and-star-wars-characters",
+          "titre": "\"No more hand-written code\": Epic reportedly impose \"AI-first\" model on creators of new Disney shooter with Marvel and Star Wars characters"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first",
+          "titre": "Epic Games delays Disney game and tells developers to go \"AI first\""
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/epic-games-reportedly-orders-staff-to-implement-ai-first-development/",
+          "titre": "Epic Games reportedly orders staff to implement ‘AI-first’ development"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/epic-games-delays-star-wars-marvel-shooter-ai-development",
+          "titre": "Epic Games reportedly delays Star Wars and Marvel shooter, as the Fortnite maker embraces \"AI-accelerated development\""
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/no-more-hand-written-code-fortnite-devs-disney-game-to-be-an-ai-first-project",
+          "titre": "'No More Hand Written Code': Fortnite Dev's Disney Game to Be an 'AI First' Project"
+        }
+      ]
+    },
     {
       "id": "dragon-quest-creator-yuji-horii-releases-game-he-says-he-mad",
       "titre": "Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes",
@@ -15,8 +63,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 5,
-      "heures": 3.5,
-      "chaleur": 18,
+      "heures": 5.8,
+      "chaleur": 16,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -46,30 +94,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "epic-games-reportedly-orders-staff-to-implement-ai-first-dev",
-      "titre": "Epic Games reportedly orders staff to implement ‘AI-first’ development",
-      "url": "https://www.videogameschronicle.com/news/epic-games-reportedly-orders-staff-to-implement-ai-first-development/",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 2.7,
-      "chaleur": 13,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/epic-games-reportedly-orders-staff-to-implement-ai-first-development/",
-          "titre": "Epic Games reportedly orders staff to implement ‘AI-first’ development"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/epic-games-delays-star-wars-marvel-shooter-ai-development",
-          "titre": "Epic Games reportedly delays Star Wars and Marvel shooter, as the Fortnite maker embraces \"AI-accelerated development\""
-        }
-      ]
-    },
-    {
       "id": "nintendo-s-latin-america-vp-says-there-are-no-plans-to-ditch",
       "titre": "Nintendo's Latin America VP says there are no plans to ditch physical games",
       "url": "https://www.gamesindustry.biz/nintendos-latin-america-vp-says-there-are-no-plans-to-ditch-physical-games",
@@ -79,7 +103,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 3,
-      "heures": 4.4,
+      "heures": 6.6,
       "chaleur": 12,
       "liens": [
         {
@@ -109,7 +133,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 6.1,
+      "heures": 8.3,
       "chaleur": 12,
       "liens": [
         {
@@ -139,7 +163,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 4.2,
+      "heures": 6.5,
       "chaleur": 10,
       "liens": [
         {
@@ -169,7 +193,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 7.4,
+      "heures": 9.6,
       "chaleur": 10,
       "liens": [
         {
@@ -190,30 +214,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sega-labelled-stupid-liars-after-failing-to-fulfil-all-futur",
-      "titre": "SEGA Labelled 'Stupid Liars' After Failing to Fulfil 'All Future Paid DLC' Promise for Sonic Racing: CrossWorlds",
-      "url": "https://www.pushsquare.com/news/2026/10/sega-labelled-stupid-liars-after-failing-to-fulfil-all-future-paid-dlc-promise-for-sonic-racing-crossworlds",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 2.9,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sega-labelled-stupid-liars-after-failing-to-fulfil-all-future-paid-dlc-promise-for-sonic-racing-crossworlds",
-          "titre": "SEGA Labelled 'Stupid Liars' After Failing to Fulfil 'All Future Paid DLC' Promise for Sonic Racing: CrossWorlds"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-players-demand-year-2-for-free-after-noting-the-digital-deluxe-edition-promised-all-future-paid-dlc/",
-          "titre": "Sonic Racing CrossWorlds players demand Year 2 for free after noting the Digital Deluxe Edition promised ‘all future paid DLC’"
-        }
-      ]
-    },
-    {
       "id": "valve-have-released-the-steam-frame-s-cad-files-but-there-s",
       "titre": "Valve have released the Steam Frame's CAD files, but there’s already a cottage industry of DIY wrist straps and lifesize skull stands",
       "url": "https://www.rockpapershotgun.com/valve-have-released-the-steam-frames-cad-files-but-theres-already-a-cottage-industry-of-diy-wrist-straps-and-lifesize-skull-stands",
@@ -222,7 +222,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 5.6,
+      "heures": 7.8,
       "chaleur": 9,
       "liens": [
         {
@@ -246,7 +246,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 7.3,
+      "heures": 9.5,
       "chaleur": 9,
       "liens": [
         {
@@ -271,7 +271,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 12.3,
+      "heures": 14.6,
       "chaleur": 9,
       "liens": [
         {
@@ -292,38 +292,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "epic-games-delays-disney-game-and-tells-developers-to-go-ai",
-      "titre": "Epic Games delays Disney game and tells developers to go \"AI first\"",
-      "url": "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first",
+      "id": "sega-labelled-stupid-liars-after-failing-to-fulfil-all-futur",
+      "titre": "SEGA Labelled 'Stupid Liars' After Failing to Fulfil 'All Future Paid DLC' Promise for Sonic Racing: CrossWorlds",
+      "url": "https://www.pushsquare.com/news/2026/10/sega-labelled-stupid-liars-after-failing-to-fulfil-all-future-paid-dlc-promise-for-sonic-racing-crossworlds",
       "sources": [
-        "GamesIndustry.biz"
+        "Push Square",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 8,
+      "reprises": 2,
+      "heures": 5.1,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first",
-          "titre": "Epic Games delays Disney game and tells developers to go \"AI first\""
-        }
-      ]
-    },
-    {
-      "id": "for-the-second-time-this-year-steam-has-set-a-major-new-conc",
-      "titre": "For the second time this year, Steam has set a major new concurrent user record",
-      "url": "https://www.eurogamer.net/steam-new-user-concurrent-record-october-2026",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 8,
-      "liens": [
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sega-labelled-stupid-liars-after-failing-to-fulfil-all-future-paid-dlc-promise-for-sonic-racing-crossworlds",
+          "titre": "SEGA Labelled 'Stupid Liars' After Failing to Fulfil 'All Future Paid DLC' Promise for Sonic Racing: CrossWorlds"
+        },
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/steam-new-user-concurrent-record-october-2026",
-          "titre": "For the second time this year, Steam has set a major new concurrent user record"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-players-demand-year-2-for-free-after-noting-the-digital-deluxe-edition-promised-all-future-paid-dlc/",
+          "titre": "Sonic Racing CrossWorlds players demand Year 2 for free after noting the Digital Deluxe Edition promised ‘all future paid DLC’"
         }
       ]
     },
@@ -335,7 +323,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.6,
       "chaleur": 7,
       "liens": [
         {
@@ -346,20 +334,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "group-behind-gta-6-leaks-threatens-to-release-alleged-full-b",
-      "titre": "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode",
-      "url": "https://www.gamesindustry.biz/group-behind-gta-6-leaks-threatens-to-release-alleged-full-build-of-game-including-story-mode",
+      "id": "for-the-second-time-this-year-steam-has-set-a-major-new-conc",
+      "titre": "For the second time this year, Steam has set a major new concurrent user record",
+      "url": "https://www.eurogamer.net/steam-new-user-concurrent-record-october-2026",
       "sources": [
-        "GamesIndustry.biz"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.8,
+      "heures": 14.0,
       "chaleur": 7,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/group-behind-gta-6-leaks-threatens-to-release-alleged-full-build-of-game-including-story-mode",
-          "titre": "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/steam-new-user-concurrent-record-october-2026",
+          "titre": "For the second time this year, Steam has set a major new concurrent user record"
         }
       ]
     },
@@ -400,60 +388,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "does-blizzard-s-revival-of-its-classic-games-signal-a-return",
-      "titre": "Does Blizzard's revival of its classic games signal a return of the 'old Blizzard?'",
-      "url": "https://www.pcgamer.com/games/rts/does-blizzards-revival-of-its-classic-games-signal-a-return-of-the-old-blizzard/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rts/does-blizzards-revival-of-its-classic-games-signal-a-return-of-the-old-blizzard/",
-          "titre": "Does Blizzard's revival of its classic games signal a return of the 'old Blizzard?'"
-        }
-      ]
-    },
-    {
-      "id": "no-more-hand-written-code-fortnite-dev-s-disney-game-to-be",
-      "titre": "'No More Hand Written Code': Fortnite Dev's Disney Game to Be an 'AI First' Project",
-      "url": "https://www.pushsquare.com/news/2026/10/no-more-hand-written-code-fortnite-devs-disney-game-to-be-an-ai-first-project",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/no-more-hand-written-code-fortnite-devs-disney-game-to-be-an-ai-first-project",
-          "titre": "'No More Hand Written Code': Fortnite Dev's Disney Game to Be an 'AI First' Project"
-        }
-      ]
-    },
-    {
-      "id": "why-alts-are-part-of-world-of-warcraft-forever-s-core-progre",
-      "titre": "Why alts are part of World of Warcraft: Forever's core progression plans",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/why-alts-are-part-of-world-of-warcraft-forevers-core-progression-plans/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/why-alts-are-part-of-world-of-warcraft-forevers-core-progression-plans/",
-          "titre": "Why alts are part of World of Warcraft: Forever's core progression plans"
-        }
-      ]
-    },
-    {
       "id": "digital-foundry-delivers-its-technical-analysis-of-dragon-s",
       "titre": "Digital Foundry Delivers Its Technical Analysis Of Dragon's Dogma 2 On Switch 2",
       "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-technical-analysis-of-dragons-dogma-2-on-switch-2",
@@ -461,7 +395,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.9,
       "chaleur": 6,
       "liens": [
         {
@@ -479,13 +413,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/blueys-happy-snaps",
           "titre": "Mini Review: Bluey's Happy Snaps (Switch 2) - A Light, Breezy Photography Adventure"
+        }
+      ]
+    },
+    {
+      "id": "group-behind-gta-6-leaks-threatens-to-release-alleged-full-b",
+      "titre": "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode",
+      "url": "https://www.gamesindustry.biz/group-behind-gta-6-leaks-threatens-to-release-alleged-full-build-of-game-including-story-mode",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 14.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/group-behind-gta-6-leaks-threatens-to-release-alleged-full-build-of-game-including-story-mode",
+          "titre": "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode"
         }
       ]
     },
@@ -497,31 +449,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 6,
+      "heures": 12.9,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/star-citizen-singleplayer-spinoff-squadron-42-gets-a-steam-page-ahead-of-its-2027-launch-and-this-is-how-ive-learned-about-50-million-famous-actors-are-in-it",
           "titre": "Star Citizen singleplayer spinoff Squadron 42 gets a Steam page ahead of its 2027 launch, and this is how I've learned about 50 million famous actors are in it"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-leaker-cyberleek-is-back-with-another-video-and-this-t",
-      "titre": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked",
-      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 33.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
-          "titre": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked"
         }
       ]
     },
@@ -533,7 +467,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 15.1,
       "chaleur": 5,
       "liens": [
         {
@@ -544,20 +478,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "steam-week-in-review-the-curious-case-of-wonder-boy-in-monst",
-      "titre": "Steam Week in Review: The curious case of Wonder Boy in Monster Land's dubious PC debut",
-      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/",
+      "id": "does-blizzard-s-revival-of-its-classic-games-signal-a-return",
+      "titre": "Does Blizzard's revival of its classic games signal a return of the 'old Blizzard?'",
+      "url": "https://www.pcgamer.com/games/rts/does-blizzards-revival-of-its-classic-games-signal-a-return-of-the-old-blizzard/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.4,
-      "chaleur": 5,
+      "heures": 5.3,
+      "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/",
-          "titre": "Steam Week in Review: The curious case of Wonder Boy in Monster Land's dubious PC debut"
+          "url": "https://www.pcgamer.com/games/rts/does-blizzards-revival-of-its-classic-games-signal-a-return-of-the-old-blizzard/",
+          "titre": "Does Blizzard's revival of its classic games signal a return of the 'old Blizzard?'"
+        }
+      ]
+    },
+    {
+      "id": "why-alts-are-part-of-world-of-warcraft-forever-s-core-progre",
+      "titre": "Why alts are part of World of Warcraft: Forever's core progression plans",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/why-alts-are-part-of-world-of-warcraft-forevers-core-progression-plans/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/why-alts-are-part-of-world-of-warcraft-forevers-core-progression-plans/",
+          "titre": "Why alts are part of World of Warcraft: Forever's core progression plans"
         }
       ]
     },
@@ -569,7 +521,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -587,7 +539,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -605,7 +557,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.4,
       "chaleur": 4,
       "liens": [
         {
@@ -623,7 +575,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -641,7 +593,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -659,7 +611,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -677,7 +629,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -695,7 +647,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -713,7 +665,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -731,7 +683,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -749,7 +701,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 8.7,
       "chaleur": 4,
       "liens": [
         {
@@ -767,7 +719,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -785,7 +737,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.8,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -803,7 +755,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -821,7 +773,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -839,7 +791,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -857,7 +809,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -875,7 +827,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -893,7 +845,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -911,7 +863,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -929,7 +881,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -947,7 +899,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
@@ -965,7 +917,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -983,8 +935,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1001,8 +953,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1019,8 +971,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1037,8 +989,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1055,8 +1007,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1073,8 +1025,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1091,7 +1043,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1109,7 +1061,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1127,7 +1079,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 15.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1145,7 +1097,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1163,7 +1115,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1181,7 +1133,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 15.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1190,7 +1142,81 @@ const VEILLE = {
           "titre": "Feature: 50+ PS5, PS4 Games to Buy in the PS Store Player's Choice Sale (North America/Europe)"
         }
       ]
+    },
+    {
+      "id": "shogun-2-deserved-better",
+      "titre": "Shogun 2 deserved better",
+      "url": "https://www.pcgamer.com/games/strategy/shogun-2-deserved-better/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 15.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/shogun-2-deserved-better/",
+          "titre": "Shogun 2 deserved better"
+        }
+      ]
+    },
+    {
+      "id": "dmz-for-call-of-duty-modern-warfare-4-being-released-early-b",
+      "titre": "DMZ for Call of Duty: Modern Warfare 4 being released early, but Infinity Ward shoots down PvE hopes",
+      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-early-access-no-pve",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 16.0,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-early-access-no-pve",
+          "titre": "DMZ for Call of Duty: Modern Warfare 4 being released early, but Infinity Ward shoots down PvE hopes"
+        }
+      ]
+    },
+    {
+      "id": "bafta-awards-over-270-000-to-112-recipients-in-uk-and-us-to",
+      "titre": "BAFTA awards over £270,000 to 112 recipients in UK and US to support career growth in games, film, and TV",
+      "url": "https://www.gamesindustry.biz/bafta-awards-over-270000-to-112-recipients-in-uk-and-us-to-support-career-growth-in-games-film-and-tv",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 16.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/bafta-awards-over-270000-to-112-recipients-in-uk-and-us-to-support-career-growth-in-games-film-and-tv",
+          "titre": "BAFTA awards over £270,000 to 112 recipients in UK and US to support career growth in games, film, and TV"
+        }
+      ]
+    },
+    {
+      "id": "escape-the-backrooms-is-throwing-an-after-party-with-three-n",
+      "titre": "Escape the Backrooms is throwing an After Party with three new levels this December",
+      "url": "https://www.eurogamer.net/escape-the-backrooms-after-party-update-new-levels-december",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 31.5,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/escape-the-backrooms-after-party-update-new-levels-december",
+          "titre": "Escape the Backrooms is throwing an After Party with three new levels this December"
+        }
+      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "'Our humble goal is to survive the AI revolution' says Epic Games CEO, as its Star Wars and Marvel crossover pivots to 'AI first' development"
+  ]
 };
