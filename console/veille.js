@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "13/10/2026 à 16h25",
+  "collecte": "13/10/2026 à 18h29",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 14.8,
+      "heures": 16.9,
       "chaleur": 19,
       "liens": [
         {
@@ -53,7 +53,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 16,
       "liens": [
         {
@@ -72,7 +72,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 0.9,
+      "heures": 3.0,
       "chaleur": 14,
       "liens": [
         {
@@ -88,6 +88,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "that-was-not-received-well-at-nintendo-as-gta-6-and-zelda-a",
+      "titre": "\"That was not received well at Nintendo\" - as GTA 6 and Zelda are lampooned by Saturday Night Live, former employees recall Elon Musk Wario skit controversy",
+      "url": "https://www.eurogamer.net/snl-elon-musk-wario-skit-zelda-gta-6",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 2.9,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/snl-elon-musk-wario-skit-zelda-gta-6",
+          "titre": "\"That was not received well at Nintendo\" - as GTA 6 and Zelda are lampooned by Saturday Night Live, former employees recall Elon Musk Wario skit controversy"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/random-2021-elon-musk-snl-skit-was-not-received-well-by-nintendo",
+          "titre": "Random: 2021 Elon Musk SNL Skit \"Was Not Received Well\" By Nintendo"
+        }
+      ]
+    },
+    {
       "id": "japan-is-getting-an-exclusive-midnight-black-playstation-5-n",
       "titre": "Japan is getting an exclusive Midnight Black PlayStation 5 next month, but there's still hope for the rest of the world",
       "url": "https://www.eurogamer.net/playstation-5-midnight-black-japan-only",
@@ -97,8 +121,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 3.4,
-      "chaleur": 14,
+      "heures": 5.4,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Eurogamer",
@@ -118,30 +142,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "that-was-not-received-well-at-nintendo-as-gta-6-and-zelda-a",
-      "titre": "\"That was not received well at Nintendo\" - as GTA 6 and Zelda are lampooned by Saturday Night Live, former employees recall Elon Musk Wario skit controversy",
-      "url": "https://www.eurogamer.net/snl-elon-musk-wario-skit-zelda-gta-6",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 0.9,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/snl-elon-musk-wario-skit-zelda-gta-6",
-          "titre": "\"That was not received well at Nintendo\" - as GTA 6 and Zelda are lampooned by Saturday Night Live, former employees recall Elon Musk Wario skit controversy"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/random-2021-elon-musk-snl-skit-was-not-received-well-by-nintendo",
-          "titre": "Random: 2021 Elon Musk SNL Skit \"Was Not Received Well\" By Nintendo"
-        }
-      ]
-    },
-    {
       "id": "dragon-quest-creator-yuji-horii-releases-game-he-says-he-mad",
       "titre": "Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes",
       "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
@@ -152,7 +152,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 4,
-      "heures": 21.6,
+      "heures": 23.7,
       "chaleur": 12,
       "liens": [
         {
@@ -186,7 +186,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 0.2,
+      "heures": 2.3,
       "chaleur": 11,
       "liens": [
         {
@@ -209,7 +209,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 11,
       "liens": [
         {
@@ -229,7 +229,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 6.4,
+      "heures": 8.4,
       "chaleur": 10,
       "liens": [
         {
@@ -250,44 +250,68 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-3-s-iconic-box-art-was-changed-at-the-last-minute-becaus",
-      "titre": "GTA 3's iconic box art was changed at the last minute because of 9/11, ex-Rockstar lead Dan Houser reveals",
-      "url": "https://www.eurogamer.net/dan-houser-gta-3-boxart-9-11",
+      "id": "they-thought-callisto-was-a-complete-failure-glen-schofield",
+      "titre": "\"They thought Callisto was a complete failure\": Glen Schofield blames publishers Krafton for The Callisto Protocol's crash landing",
+      "url": "https://www.rockpapershotgun.com/they-thought-callisto-was-a-complete-failure-glen-schofield-blames-publishers-krafton-for-the-callisto-protocols-crash-landing",
       "sources": [
-        "Eurogamer"
+        "Eurogamer",
+        "Rock Paper Shotgun"
       ],
-      "reprises": 1,
-      "heures": 2.8,
+      "reprises": 2,
+      "heures": 1.5,
       "chaleur": 9,
       "liens": [
         {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/they-thought-callisto-was-a-complete-failure-glen-schofield-blames-publishers-krafton-for-the-callisto-protocols-crash-landing",
+          "titre": "\"They thought Callisto was a complete failure\": Glen Schofield blames publishers Krafton for The Callisto Protocol's crash landing"
+        },
+        {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dan-houser-gta-3-boxart-9-11",
-          "titre": "GTA 3's iconic box art was changed at the last minute because of 9/11, ex-Rockstar lead Dan Houser reveals"
+          "url": "https://www.eurogamer.net/glen-schofield-the-callisto-protocol-krafton-problems",
+          "titre": "\"I was forced to ship the game\" - Glen Schofield blames Krafton management for The Callisto Protocol's problems"
         }
       ]
     },
     {
-      "id": "planet-zoo-2-review-superstar-animals-and-frustrating-microm",
-      "titre": "Planet Zoo 2 review: Superstar animals and frustrating micromanagement",
-      "url": "https://www.pcgamer.com/games/sim/planet-zoo-2-review/",
+      "id": "how-to-complete-an-unheard-farewell-in-valor-mortis",
+      "titre": "How to complete An Unheard Farewell in Valor Mortis",
+      "url": "https://www.pcgamer.com/games/action/valor-mortis-an-unheard-farewell-walkthrough/",
       "sources": [
-        "PC Gamer",
-        "Push Square"
+        "Eurogamer",
+        "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 3.7,
+      "heures": 1.5,
       "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/planet-zoo-2-review/",
-          "titre": "Planet Zoo 2 review: Superstar animals and frustrating micromanagement"
+          "url": "https://www.pcgamer.com/games/action/valor-mortis-an-unheard-farewell-walkthrough/",
+          "titre": "How to complete An Unheard Farewell in Valor Mortis"
         },
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/planet-zoo-2",
-          "titre": "Review: Planet Zoo 2 (PS5) - Sublime Wildlife Management Sim Is Frontier at Its Finest"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/valor-mortis-review",
+          "titre": "Valor Mortis review"
+        }
+      ]
+    },
+    {
+      "id": "i-can-summon-jumbo-jets-and-boats-from-the-sky-in-gta-5-now",
+      "titre": "I can summon jumbo jets and boats from the sky in GTA 5 now, and I'll do it in the middle of crowded intersections if I want to",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-can-summon-jumbo-jets-and-boats-from-the-sky-in-gta-5-now-and-ill-do-it-in-the-middle-of-crowded-intersections-if-i-want-to/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-can-summon-jumbo-jets-and-boats-from-the-sky-in-gta-5-now-and-ill-do-it-in-the-middle-of-crowded-intersections-if-i-want-to/",
+          "titre": "I can summon jumbo jets and boats from the sky in GTA 5 now, and I'll do it in the middle of crowded intersections if I want to"
         }
       ]
     },
@@ -299,7 +323,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 3.3,
       "chaleur": 8,
       "liens": [
         {
@@ -317,31 +341,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.8,
       "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-has-reportedly-already-raised-gddr6-prices-for-its-graphics-card-partners-so-youll-find-no-solace-from-spiking-gpu-prices-with-team-red/",
           "titre": "AMD has reportedly already raised GDDR6 prices for its graphics card partners, so you'll find no solace from spiking GPU prices with Team Red"
-        }
-      ]
-    },
-    {
-      "id": "the-pc-version-of-grand-theft-auto-6-is-reportedly-coming-be",
-      "titre": "The PC version of Grand Theft Auto 6 is reportedly coming before the end of March 2027",
-      "url": "https://www.videogameschronicle.com/news/the-pc-version-of-grand-theft-auto-6-is-reportedly-coming-before-the-end-of-march-2027/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-pc-version-of-grand-theft-auto-6-is-reportedly-coming-before-the-end-of-march-2027/",
-          "titre": "The PC version of Grand Theft Auto 6 is reportedly coming before the end of March 2027"
         }
       ]
     },
@@ -353,7 +359,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.9,
       "chaleur": 8,
       "liens": [
         {
@@ -364,50 +370,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-produc",
-      "titre": "Nvidia reportedly ends GeForce RTX 5090 graphics card production",
-      "url": "https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production",
+      "id": "gta-3-s-iconic-box-art-was-changed-at-the-last-minute-becaus",
+      "titre": "GTA 3's iconic box art was changed at the last minute because of 9/11, ex-Rockstar lead Dan Houser reveals",
+      "url": "https://www.eurogamer.net/dan-houser-gta-3-boxart-9-11",
       "sources": [
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
+        "Eurogamer"
       ],
-      "reprises": 2,
-      "heures": 24.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production",
-          "titre": "Nvidia reportedly ends GeForce RTX 5090 graphics card production"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nvidia-are-abandoning-their-rtx-5090-graphics-cards-in-order-to-focus-on-ai-dev-friendly-rtx-pro-ones-leaker-claims",
-          "titre": "Nvidia are abandoning their RTX 5090 graphics cards in order to focus on AI dev friendly RTX Pro ones, leaker claims"
-        }
-      ]
-    },
-    {
-      "id": "dead-space-creator-says-he-was-forced-to-ship-the-callisto-p",
-      "titre": "Dead Space creator says he was 'forced to ship' The Callisto Protocol by Krafton: 'We had f*cking Covid'",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/dead-space-creator-says-he-was-forced-to-ship-the-callisto-protocol-by-krafton-we-had-f-cking-covid/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
+      "reprises": 1,
       "heures": 4.9,
       "chaleur": 7,
       "liens": [
         {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dan-houser-gta-3-boxart-9-11",
+          "titre": "GTA 3's iconic box art was changed at the last minute because of 9/11, ex-Rockstar lead Dan Houser reveals"
+        }
+      ]
+    },
+    {
+      "id": "planet-zoo-2-review-superstar-animals-and-frustrating-microm",
+      "titre": "Planet Zoo 2 review: Superstar animals and frustrating micromanagement",
+      "url": "https://www.pcgamer.com/games/sim/planet-zoo-2-review/",
+      "sources": [
+        "PC Gamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 5.8,
+      "chaleur": 7,
+      "liens": [
+        {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/dead-space-creator-says-he-was-forced-to-ship-the-callisto-protocol-by-krafton-we-had-f-cking-covid/",
-          "titre": "Dead Space creator says he was 'forced to ship' The Callisto Protocol by Krafton: 'We had f*cking Covid'"
+          "url": "https://www.pcgamer.com/games/sim/planet-zoo-2-review/",
+          "titre": "Planet Zoo 2 review: Superstar animals and frustrating micromanagement"
         },
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/glen-schofield-the-callisto-protocol-krafton-problems",
-          "titre": "\"I was forced to ship the game\" - Glen Schofield blames Krafton management for The Callisto Protocol's problems"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/planet-zoo-2",
+          "titre": "Review: Planet Zoo 2 (PS5) - Sublime Wildlife Management Sim Is Frontier at Its Finest"
         }
       ]
     },
@@ -419,7 +419,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.5,
       "chaleur": 7,
       "liens": [
         {
@@ -466,6 +466,132 @@ const VEILLE = {
       ]
     },
     {
+      "id": "grand-theft-auto-6-rumored-to-be-launching-on-pc-sooner-than",
+      "titre": "Grand Theft Auto 6 rumored to be launching on PC sooner than anyone expected, but I wouldn't get my hopes up too high",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/report-claims-grand-theft-auto-6-will-launch-on-pc-sooner-than-anyone-expected/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/report-claims-grand-theft-auto-6-will-launch-on-pc-sooner-than-anyone-expected/",
+          "titre": "Grand Theft Auto 6 rumored to be launching on PC sooner than anyone expected, but I wouldn't get my hopes up too high"
+        }
+      ]
+    },
+    {
+      "id": "coming-soon-to-invincible-vs-it-s-your-copyright-friendly-ne",
+      "titre": "Coming soon to Invincible VS, it's your copyright-friendly neighbourhood Agent Spider",
+      "url": "https://www.rockpapershotgun.com/coming-soon-to-invincible-vs-its-your-copyright-friendly-neighbourhood-agent-spider",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/coming-soon-to-invincible-vs-its-your-copyright-friendly-neighbourhood-agent-spider",
+          "titre": "Coming soon to Invincible VS, it's your copyright-friendly neighbourhood Agent Spider"
+        }
+      ]
+    },
+    {
+      "id": "ratocalypse-might-sound-like-a-low-budget-horror-flick-but-i",
+      "titre": "Ratocalypse might sound like a low-budget horror flick, but it's actually a neat looking Fire Emblem adjacent strategy auto battler",
+      "url": "https://www.rockpapershotgun.com/ratocalypse-might-sound-like-a-low-budget-horror-flick-but-its-actually-a-neat-looking-fire-emblem-adjacent-strategy-auto-battler",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/ratocalypse-might-sound-like-a-low-budget-horror-flick-but-its-actually-a-neat-looking-fire-emblem-adjacent-strategy-auto-battler",
+          "titre": "Ratocalypse might sound like a low-budget horror flick, but it's actually a neat looking Fire Emblem adjacent strategy auto battler"
+        }
+      ]
+    },
+    {
+      "id": "modern-warfare-4-is-the-latest-call-of-duty-to-launch-withou",
+      "titre": "Modern Warfare 4 Is the Latest Call of Duty to Launch without a PS5 Platinum Trophy",
+      "url": "https://www.pushsquare.com/news/2026/10/modern-warfare-4-is-the-latest-call-of-duty-to-launch-without-a-ps5-platinum-trophy",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/modern-warfare-4-is-the-latest-call-of-duty-to-launch-without-a-ps5-platinum-trophy",
+          "titre": "Modern Warfare 4 Is the Latest Call of Duty to Launch without a PS5 Platinum Trophy"
+        }
+      ]
+    },
+    {
+      "id": "can-you-beat-general-lothaire-in-valor-mortis",
+      "titre": "Can you beat General Lothaire in Valor Mortis?",
+      "url": "https://www.pcgamer.com/games/action/valor-mortis-general-lothaire-boss/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/valor-mortis-general-lothaire-boss/",
+          "titre": "Can you beat General Lothaire in Valor Mortis?"
+        }
+      ]
+    },
+    {
+      "id": "i-was-excited-by-warlock-dungeons-dragons-until-the-protagon",
+      "titre": "I was excited by Warlock: Dungeons & Dragons until the protagonist pulled out a sword",
+      "url": "https://www.pcgamer.com/games/rpg/i-was-excited-by-warlock-dungeons-and-dragons-until-the-protagonist-pulled-out-a-sword/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/i-was-excited-by-warlock-dungeons-and-dragons-until-the-protagonist-pulled-out-a-sword/",
+          "titre": "I was excited by Warlock: Dungeons & Dragons until the protagonist pulled out a sword"
+        }
+      ]
+    },
+    {
+      "id": "going-medieval-s-new-diplomacy-update-is-all-about-calling-y",
+      "titre": "Going Medieval's new diplomacy update is all about calling your neighbouring settlements for favours, which yes, may mean delivering a cow or two in return",
+      "url": "https://www.rockpapershotgun.com/going-medievals-new-diplomacy-update-is-all-about-calling-your-neighbouring-settlements-for-favours-which-yes-may-mean-delivering-a-cow-or-two-in-return",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/going-medievals-new-diplomacy-update-is-all-about-calling-your-neighbouring-settlements-for-favours-which-yes-may-mean-delivering-a-cow-or-two-in-return",
+          "titre": "Going Medieval's new diplomacy update is all about calling your neighbouring settlements for favours, which yes, may mean delivering a cow or two in return"
+        }
+      ]
+    },
+    {
       "id": "no-i-am-not-evil-for-wanting-to-turn-space-whale-city-builde",
       "titre": "No, I am not evil for wanting to turn space whale city-builder Beyond These Stars into a Moby Dick simulator",
       "url": "https://www.rockpapershotgun.com/no-i-am-not-evil-for-wanting-to-turn-space-whale-city-builder-beyond-these-stars-into-a-moby-dick-simulator",
@@ -473,7 +599,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -491,7 +617,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
@@ -502,182 +628,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sifu-the-singular-kung-fu-action-game-is-out-now-on-android",
-      "titre": "Sifu, the singular kung fu action game, is out now on Android and iOS",
-      "url": "https://www.eurogamer.net/sifu-mobile-release-android-ios",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sifu-mobile-release-android-ios",
-          "titre": "Sifu, the singular kung fu action game, is out now on Android and iOS"
-        }
-      ]
-    },
-    {
-      "id": "open-world-puzzler-escape-academy-2-back-2-school-enrols-on",
-      "titre": "Open World Puzzler Escape Academy 2: Back 2 School Enrols on PS5 This November",
-      "url": "https://www.pushsquare.com/news/2026/10/open-world-puzzler-escape-academy-2-back-2-school-enrols-on-ps5-this-november",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/open-world-puzzler-escape-academy-2-back-2-school-enrols-on-ps5-this-november",
-          "titre": "Open World Puzzler Escape Academy 2: Back 2 School Enrols on PS5 This November"
-        }
-      ]
-    },
-    {
-      "id": "rimworld-drops-unity-for-its-own-in-house-engine-says-your-s",
-      "titre": "RimWorld drops Unity for its own in-house engine, says your saves still work, so do most mods, and the whole thing runs twice as fast",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/rimworld-drops-unity-for-its-own-in-house-engine-says-your-saves-still-work-so-do-most-mods-and-the-whole-thing-runs-twice-as-fast/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/rimworld-drops-unity-for-its-own-in-house-engine-says-your-saves-still-work-so-do-most-mods-and-the-whole-thing-runs-twice-as-fast/",
-          "titre": "RimWorld drops Unity for its own in-house engine, says your saves still work, so do most mods, and the whole thing runs twice as fast"
-        }
-      ]
-    },
-    {
-      "id": "dwarf-fortress-creator-tarn-adams-is-as-tired-of-genai-in-th",
-      "titre": "Dwarf Fortress creator Tarn Adams is as tired of genAI in the industry as anyone else, and is pretty set on never using it",
-      "url": "https://www.rockpapershotgun.com/dwarf-fortress-creator-tarn-adams-is-as-tired-of-genai-in-the-industry-as-anyone-else-and-is-pretty-set-on-never-using-it",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/dwarf-fortress-creator-tarn-adams-is-as-tired-of-genai-in-the-industry-as-anyone-else-and-is-pretty-set-on-never-using-it",
-          "titre": "Dwarf Fortress creator Tarn Adams is as tired of genAI in the industry as anyone else, and is pretty set on never using it"
-        }
-      ]
-    },
-    {
-      "id": "former-naughty-dog-artist-says-he-worries-new-tech-will-mean",
-      "titre": "Former Naughty Dog artist says he worries ‘new tech’ will mean current games end up like historical buildings people marvel at",
-      "url": "https://www.videogameschronicle.com/news/former-naughty-dog-artist-says-he-worries-new-tech-will-mean-current-games-end-up-like-historical-buildings-people-marvel-at/",
+      "id": "the-pc-version-of-grand-theft-auto-6-is-reportedly-coming-be",
+      "titre": "The PC version of Grand Theft Auto 6 is reportedly coming before the end of March 2027",
+      "url": "https://www.videogameschronicle.com/news/the-pc-version-of-grand-theft-auto-6-is-reportedly-coming-before-the-end-of-march-2027/",
       "sources": [
         "VGC"
       ],
       "reprises": 1,
-      "heures": 2.8,
+      "heures": 4.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/former-naughty-dog-artist-says-he-worries-new-tech-will-mean-current-games-end-up-like-historical-buildings-people-marvel-at/",
-          "titre": "Former Naughty Dog artist says he worries ‘new tech’ will mean current games end up like historical buildings people marvel at"
-        }
-      ]
-    },
-    {
-      "id": "owlchemy-ceo-vr-is-still-an-emerging-market-because-it-hasn",
-      "titre": "Owlchemy CEO: VR is still an emerging market because it hasn't passed the 'cafe test'",
-      "url": "https://www.gamedeveloper.com/extended-reality/owlchemy-ceo-vr-is-still-an-emerging-market-because-it-hasn-t-passed-the-cafe-test-",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/extended-reality/owlchemy-ceo-vr-is-still-an-emerging-market-because-it-hasn-t-passed-the-cafe-test-",
-          "titre": "Owlchemy CEO: VR is still an emerging market because it hasn't passed the 'cafe test'"
-        }
-      ]
-    },
-    {
-      "id": "peak-one-of-2025-s-biggest-breakout-hits-is-finally-coming-t",
-      "titre": "Peak, One of 2025's Biggest Breakout Hits, Is Finally Coming to PS5",
-      "url": "https://www.pushsquare.com/news/2026/10/peak-one-of-2025s-biggest-breakout-hits-is-finally-coming-to-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/peak-one-of-2025s-biggest-breakout-hits-is-finally-coming-to-ps5",
-          "titre": "Peak, One of 2025's Biggest Breakout Hits, Is Finally Coming to PS5"
-        }
-      ]
-    },
-    {
-      "id": "dragon-s-dogma-2-dark-arisen-complete-walkthrough-hub",
-      "titre": "Dragon’s Dogma 2: Dark Arisen complete walkthrough hub",
-      "url": "https://www.videogameschronicle.com/guide/dragons-dogma-2-guides-hub/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/dragons-dogma-2-guides-hub/",
-          "titre": "Dragon’s Dogma 2: Dark Arisen complete walkthrough hub"
-        }
-      ]
-    },
-    {
-      "id": "skyrim-gets-surprise-dlc-drop-on-ps5-its-biggest-in-years",
-      "titre": "Skyrim Gets Surprise DLC Drop on PS5, Its Biggest in Years",
-      "url": "https://www.pushsquare.com/news/2026/10/skyrim-gets-surprise-dlc-drop-on-ps5-its-biggest-in-years",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/skyrim-gets-surprise-dlc-drop-on-ps5-its-biggest-in-years",
-          "titre": "Skyrim Gets Surprise DLC Drop on PS5, Its Biggest in Years"
-        }
-      ]
-    },
-    {
-      "id": "years-of-building-pitching-and-raising-for-games-made-the-s",
-      "titre": "\"Years of building, pitching and raising for games made the same failure painful to watch\" – Why GameDataCore wants to find out how players feel",
-      "url": "https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-games-made-the-same-failure-painful-to-watch-why-gamedatacore-wants-to-find-out-how-players-feel",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-games-made-the-same-failure-painful-to-watch-why-gamedatacore-wants-to-find-out-how-players-feel",
-          "titre": "\"Years of building, pitching and raising for games made the same failure painful to watch\" – Why GameDataCore wants to find out how players feel"
+          "url": "https://www.videogameschronicle.com/news/the-pc-version-of-grand-theft-auto-6-is-reportedly-coming-before-the-end-of-march-2027/",
+          "titre": "The PC version of Grand Theft Auto 6 is reportedly coming before the end of March 2027"
         }
       ]
     },
@@ -689,7 +653,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.3,
       "chaleur": 6,
       "liens": [
         {
@@ -707,7 +671,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.5,
       "chaleur": 6,
       "liens": [
         {
@@ -725,7 +689,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 8.0,
       "chaleur": 6,
       "liens": [
         {
@@ -743,7 +707,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 9.1,
       "chaleur": 6,
       "liens": [
         {
@@ -761,55 +725,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/rimworld-switches-engine-from-unity-to-the-devs-own-faster-waylith-engine-all-apparently-without-breaking-mods-somehow",
           "titre": "RimWorld switches engine from Unity to the devs' own, faster Waylith Engine, all apparently without breaking mods somehow"
-        }
-      ]
-    },
-    {
-      "id": "psa-metaphor-refantazio-demo-for-switch-2-now-available",
-      "titre": "PSA: Metaphor: ReFantazio Demo For Switch 2 Now Available",
-      "url": "https://www.nintendolife.com/news/2026/10/psa-metaphor-refantazio-demo-for-switch-2-now-available",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/psa-metaphor-refantazio-demo-for-switch-2-now-available",
-          "titre": "PSA: Metaphor: ReFantazio Demo For Switch 2 Now Available"
-        }
-      ]
-    },
-    {
-      "id": "valor-mortis-system-requirements-appear-to-have-been-drastic",
-      "titre": "Valor Mortis' system requirements appear to have been drastically cut, just before the FPSoulslike launches",
-      "url": "https://www.rockpapershotgun.com/valor-mortis-system-requirements-appear-to-have-been-drastically-cut-just-before-the-fpsoulslike-launches",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 22.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valor-mortis-system-requirements-appear-to-have-been-drastically-cut-just-before-the-fpsoulslike-launches",
-          "titre": "Valor Mortis' system requirements appear to have been drastically cut, just before the FPSoulslike launches"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/valor-mortis-review",
-          "titre": "Valor Mortis review"
         }
       ]
     },
@@ -821,13 +743,31 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 29.9,
+      "heures": 31.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/group-behind-gta-6-leaks-threatens-to-release-alleged-full-build-of-game-including-story-mode",
           "titre": "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode"
+        }
+      ]
+    },
+    {
+      "id": "psa-metaphor-refantazio-demo-for-switch-2-now-available",
+      "titre": "PSA: Metaphor: ReFantazio Demo For Switch 2 Now Available",
+      "url": "https://www.nintendolife.com/news/2026/10/psa-metaphor-refantazio-demo-for-switch-2-now-available",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.6,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/psa-metaphor-refantazio-demo-for-switch-2-now-available",
+          "titre": "PSA: Metaphor: ReFantazio Demo For Switch 2 Now Available"
         }
       ]
     },
@@ -839,7 +779,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.8,
       "chaleur": 5,
       "liens": [
         {
@@ -857,31 +797,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 22.5,
+      "heures": 24.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/nintendos-latin-america-vp-says-there-are-no-plans-to-ditch-physical-games",
           "titre": "Nintendo's Latin America VP says there are no plans to ditch physical games"
-        }
-      ]
-    },
-    {
-      "id": "valve-have-released-the-steam-frame-s-cad-files-but-there-s",
-      "titre": "Valve have released the Steam Frame's CAD files, but there’s already a cottage industry of DIY wrist straps and lifesize skull stands",
-      "url": "https://www.rockpapershotgun.com/valve-have-released-the-steam-frames-cad-files-but-theres-already-a-cottage-industry-of-diy-wrist-straps-and-lifesize-skull-stands",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 23.6,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valve-have-released-the-steam-frames-cad-files-but-theres-already-a-cottage-industry-of-diy-wrist-straps-and-lifesize-skull-stands",
-          "titre": "Valve have released the Steam Frame's CAD files, but there’s already a cottage industry of DIY wrist straps and lifesize skull stands"
         }
       ]
     },
@@ -893,7 +815,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.7,
+      "heures": 25.7,
       "chaleur": 5,
       "liens": [
         {
@@ -904,20 +826,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "you-need-not-hunger-for-that-zelda-ocarina-of-time-remake-wh",
-      "titre": "You need not hunger for that Zelda Ocarina of Time remake when we already have Indigo, a colossal N64 romhack featuring mushroom forests and bearded Link",
-      "url": "https://www.rockpapershotgun.com/you-need-not-hunger-for-that-zelda-ocarina-of-time-remake-when-we-already-have-indigo-a-colossal-n64-romhack-featuring-mushroom-forests-and-bearded-link",
+      "id": "nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-produc",
+      "titre": "Nvidia reportedly ends GeForce RTX 5090 graphics card production",
+      "url": "https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production",
       "sources": [
-        "Rock Paper Shotgun"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 26.2,
       "chaleur": 5,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/you-need-not-hunger-for-that-zelda-ocarina-of-time-remake-when-we-already-have-indigo-a-colossal-n64-romhack-featuring-mushroom-forests-and-bearded-link",
-          "titre": "You need not hunger for that Zelda Ocarina of Time remake when we already have Indigo, a colossal N64 romhack featuring mushroom forests and bearded Link"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production",
+          "titre": "Nvidia reportedly ends GeForce RTX 5090 graphics card production"
         }
       ]
     },
@@ -929,13 +851,193 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 29.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/blueys-happy-snaps",
           "titre": "Mini Review: Bluey's Happy Snaps (Switch 2) - A Light, Breezy Photography Adventure"
+        }
+      ]
+    },
+    {
+      "id": "sifu-the-singular-kung-fu-action-game-is-out-now-on-android",
+      "titre": "Sifu, the singular kung fu action game, is out now on Android and iOS",
+      "url": "https://www.eurogamer.net/sifu-mobile-release-android-ios",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/sifu-mobile-release-android-ios",
+          "titre": "Sifu, the singular kung fu action game, is out now on Android and iOS"
+        }
+      ]
+    },
+    {
+      "id": "open-world-puzzler-escape-academy-2-back-2-school-enrols-on",
+      "titre": "Open World Puzzler Escape Academy 2: Back 2 School Enrols on PS5 This November",
+      "url": "https://www.pushsquare.com/news/2026/10/open-world-puzzler-escape-academy-2-back-2-school-enrols-on-ps5-this-november",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/open-world-puzzler-escape-academy-2-back-2-school-enrols-on-ps5-this-november",
+          "titre": "Open World Puzzler Escape Academy 2: Back 2 School Enrols on PS5 This November"
+        }
+      ]
+    },
+    {
+      "id": "rimworld-drops-unity-for-its-own-in-house-engine-says-your-s",
+      "titre": "RimWorld drops Unity for its own in-house engine, says your saves still work, so do most mods, and the whole thing runs twice as fast",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/rimworld-drops-unity-for-its-own-in-house-engine-says-your-saves-still-work-so-do-most-mods-and-the-whole-thing-runs-twice-as-fast/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/rimworld-drops-unity-for-its-own-in-house-engine-says-your-saves-still-work-so-do-most-mods-and-the-whole-thing-runs-twice-as-fast/",
+          "titre": "RimWorld drops Unity for its own in-house engine, says your saves still work, so do most mods, and the whole thing runs twice as fast"
+        }
+      ]
+    },
+    {
+      "id": "dwarf-fortress-creator-tarn-adams-is-as-tired-of-genai-in-th",
+      "titre": "Dwarf Fortress creator Tarn Adams is as tired of genAI in the industry as anyone else, and is pretty set on never using it",
+      "url": "https://www.rockpapershotgun.com/dwarf-fortress-creator-tarn-adams-is-as-tired-of-genai-in-the-industry-as-anyone-else-and-is-pretty-set-on-never-using-it",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/dwarf-fortress-creator-tarn-adams-is-as-tired-of-genai-in-the-industry-as-anyone-else-and-is-pretty-set-on-never-using-it",
+          "titre": "Dwarf Fortress creator Tarn Adams is as tired of genAI in the industry as anyone else, and is pretty set on never using it"
+        }
+      ]
+    },
+    {
+      "id": "former-naughty-dog-artist-says-he-worries-new-tech-will-mean",
+      "titre": "Former Naughty Dog artist says he worries ‘new tech’ will mean current games end up like historical buildings people marvel at",
+      "url": "https://www.videogameschronicle.com/news/former-naughty-dog-artist-says-he-worries-new-tech-will-mean-current-games-end-up-like-historical-buildings-people-marvel-at/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/former-naughty-dog-artist-says-he-worries-new-tech-will-mean-current-games-end-up-like-historical-buildings-people-marvel-at/",
+          "titre": "Former Naughty Dog artist says he worries ‘new tech’ will mean current games end up like historical buildings people marvel at"
+        }
+      ]
+    },
+    {
+      "id": "owlchemy-ceo-vr-is-still-an-emerging-market-because-it-hasn",
+      "titre": "Owlchemy CEO: VR is still an emerging market because it hasn't passed the 'cafe test'",
+      "url": "https://www.gamedeveloper.com/extended-reality/owlchemy-ceo-vr-is-still-an-emerging-market-because-it-hasn-t-passed-the-cafe-test-",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/extended-reality/owlchemy-ceo-vr-is-still-an-emerging-market-because-it-hasn-t-passed-the-cafe-test-",
+          "titre": "Owlchemy CEO: VR is still an emerging market because it hasn't passed the 'cafe test'"
+        }
+      ]
+    },
+    {
+      "id": "peak-one-of-2025-s-biggest-breakout-hits-is-finally-coming-t",
+      "titre": "Peak, One of 2025's Biggest Breakout Hits, Is Finally Coming to PS5",
+      "url": "https://www.pushsquare.com/news/2026/10/peak-one-of-2025s-biggest-breakout-hits-is-finally-coming-to-ps5",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/peak-one-of-2025s-biggest-breakout-hits-is-finally-coming-to-ps5",
+          "titre": "Peak, One of 2025's Biggest Breakout Hits, Is Finally Coming to PS5"
+        }
+      ]
+    },
+    {
+      "id": "dragon-s-dogma-2-dark-arisen-complete-walkthrough-hub",
+      "titre": "Dragon’s Dogma 2: Dark Arisen complete walkthrough hub",
+      "url": "https://www.videogameschronicle.com/guide/dragons-dogma-2-guides-hub/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/dragons-dogma-2-guides-hub/",
+          "titre": "Dragon’s Dogma 2: Dark Arisen complete walkthrough hub"
+        }
+      ]
+    },
+    {
+      "id": "skyrim-gets-surprise-dlc-drop-on-ps5-its-biggest-in-years",
+      "titre": "Skyrim Gets Surprise DLC Drop on PS5, Its Biggest in Years",
+      "url": "https://www.pushsquare.com/news/2026/10/skyrim-gets-surprise-dlc-drop-on-ps5-its-biggest-in-years",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/skyrim-gets-surprise-dlc-drop-on-ps5-its-biggest-in-years",
+          "titre": "Skyrim Gets Surprise DLC Drop on PS5, Its Biggest in Years"
+        }
+      ]
+    },
+    {
+      "id": "years-of-building-pitching-and-raising-for-games-made-the-s",
+      "titre": "\"Years of building, pitching and raising for games made the same failure painful to watch\" – Why GameDataCore wants to find out how players feel",
+      "url": "https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-games-made-the-same-failure-painful-to-watch-why-gamedatacore-wants-to-find-out-how-players-feel",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-games-made-the-same-failure-painful-to-watch-why-gamedatacore-wants-to-find-out-how-players-feel",
+          "titre": "\"Years of building, pitching and raising for games made the same failure painful to watch\" – Why GameDataCore wants to find out how players feel"
         }
       ]
     },
@@ -947,7 +1049,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -965,13 +1067,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/tekken-8-finally-gives-a-first-look-at-upcoming-guest-yujiro-hanma-from-baki-and-he-looks-just-as-grotesque-as-youd-expect",
           "titre": "Tekken 8 finally gives a first look at upcoming guest Yujiro Hanma from Baki, and he looks just as grotesque as you'd expect"
+        }
+      ]
+    },
+    {
+      "id": "dead-space-creator-says-he-was-forced-to-ship-the-callisto-p",
+      "titre": "Dead Space creator says he was 'forced to ship' The Callisto Protocol by Krafton: 'We had f*cking Covid'",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/dead-space-creator-says-he-was-forced-to-ship-the-callisto-protocol-by-krafton-we-had-f-cking-covid/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/dead-space-creator-says-he-was-forced-to-ship-the-callisto-protocol-by-krafton-we-had-f-cking-covid/",
+          "titre": "Dead Space creator says he was 'forced to ship' The Callisto Protocol by Krafton: 'We had f*cking Covid'"
         }
       ]
     },
@@ -983,7 +1103,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1001,7 +1121,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1019,49 +1139,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/behold-the-usd3-000-keyboard-that-is-also-actually-a-powerful-ai-pc-i-would-hate-to-spill-my-coffee-on/",
           "titre": "Behold, the $3,000 keyboard that is also actually a powerful AI PC I would hate to spill my coffee on"
-        }
-      ]
-    },
-    {
-      "id": "don-t-neglect-crafting-furniture-in-your-arc-raiders-outpost",
-      "titre": "Don't neglect crafting furniture in your Arc Raiders outpost—it unlocks hundreds of extra storage slots",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/dont-neglect-crafting-furniture-in-your-arc-raiders-outpost-it-unlocks-100s-of-extra-storage-slots/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/dont-neglect-crafting-furniture-in-your-arc-raiders-outpost-it-unlocks-100s-of-extra-storage-slots/",
-          "titre": "Don't neglect crafting furniture in your Arc Raiders outpost—it unlocks hundreds of extra storage slots"
-        }
-      ]
-    },
-    {
-      "id": "if-you-re-upset-about-the-dire-lack-of-consumer-ram-knocking",
-      "titre": "If you're upset about the dire lack of consumer RAM knocking around, this 480 GB Intel GPU isn't going to cheer you up",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/if-youre-upset-about-the-dire-lack-of-consumer-ram-knocking-around-this-480-gb-intel-gpu-isnt-going-to-cheer-you-up/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/if-youre-upset-about-the-dire-lack-of-consumer-ram-knocking-around-this-480-gb-intel-gpu-isnt-going-to-cheer-you-up/",
-          "titre": "If you're upset about the dire lack of consumer RAM knocking around, this 480 GB Intel GPU isn't going to cheer you up"
         }
       ]
     },
@@ -1073,7 +1157,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1091,7 +1175,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1100,100 +1184,7 @@ const VEILLE = {
           "titre": "Marvel Tōkon: Fighting Souls to add Jane Foster's Thor, Venom and Jubilee - following Phoenix Cyclops - in its Year One DLC pass"
         }
       ]
-    },
-    {
-      "id": "gigabyte-deletes-blog-post-on-intel-lga1700-chips-in-early-2",
-      "titre": "Gigabyte deletes blog post on Intel LGA1700 chips in early 2027, but it can't put the cat back in the bag",
-      "url": "https://www.pcgamer.com/hardware/processors/gigabyte-deletes-blog-post-on-intel-lga1700-chips-coming-early-2027-but-it-cant-put-the-cat-back-in-the-bag/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/processors/gigabyte-deletes-blog-post-on-intel-lga1700-chips-coming-early-2027-but-it-cant-put-the-cat-back-in-the-bag/",
-          "titre": "Gigabyte deletes blog post on Intel LGA1700 chips in early 2027, but it can't put the cat back in the bag"
-        }
-      ]
-    },
-    {
-      "id": "god-of-war-laufey-collector-box-available-for-pre-order-now",
-      "titre": "God of War Laufey Collector Box Available for Pre-Order Now, Doesn't Include the Game",
-      "url": "https://www.pushsquare.com/news/2026/10/god-of-war-laufey-collector-box-available-for-pre-order-now-doesnt-include-the-game",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 6.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/god-of-war-laufey-collector-box-available-for-pre-order-now-doesnt-include-the-game",
-          "titre": "God of War Laufey Collector Box Available for Pre-Order Now, Doesn't Include the Game"
-        }
-      ]
-    },
-    {
-      "id": "museum-strings-together-30-old-mac-minis-for-replica-of-most",
-      "titre": "Museum strings together 30 old Mac minis for replica of most successful supercomputer, builds something more powerful than the original",
-      "url": "https://www.pcgamer.com/hardware/museum-strings-together-30-old-mac-minis-for-replica-of-most-successful-supercomputer-builds-something-more-powerful-than-the-original/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/museum-strings-together-30-old-mac-minis-for-replica-of-most-successful-supercomputer-builds-something-more-powerful-than-the-original/",
-          "titre": "Museum strings together 30 old Mac minis for replica of most successful supercomputer, builds something more powerful than the original"
-        }
-      ]
-    },
-    {
-      "id": "ace-combat-8-wings-of-theve-review-thrill-packed-campaign-ta",
-      "titre": "Ace Combat 8: Wings of Theve review – thrill-packed campaign takes this long-running series to new heights",
-      "url": "https://www.eurogamer.net/ace-combat-8-wings-of-theve-review",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 7.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ace-combat-8-wings-of-theve-review",
-          "titre": "Ace Combat 8: Wings of Theve review – thrill-packed campaign takes this long-running series to new heights"
-        }
-      ]
-    },
-    {
-      "id": "stardew-valley-creator-says-his-new-game-is-more-of-an-actio",
-      "titre": "Stardew Valley Creator Says His New Game Is \"More Of An Action RPG\"",
-      "url": "https://www.nintendolife.com/news/2026/10/stardew-valley-creator-says-his-new-game-is-more-of-an-action-rpg",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 13.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/stardew-valley-creator-says-his-new-game-is-more-of-an-action-rpg",
-          "titre": "Stardew Valley Creator Says His New Game Is \"More Of An Action RPG\""
-        }
-      ]
     }
   ],
-  "alertes": [
-    "Hundreds of layoffs and many cancelled projects later, Xbox CEO Asha Sharma reportedly says 'we will not survive' without new IPs",
-    "GTA 6 PC release planned for early 2027, report claims, which could mean we're playing in time for GTA Online 2: Vice City 4 U or whatever they call it"
-  ]
+  "alertes": []
 };
