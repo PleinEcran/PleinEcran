@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "13/10/2026 à 10h25",
+  "collecte": "13/10/2026 à 12h31",
   "seuil": 14,
   "sujets": [
     {
@@ -16,7 +16,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 6,
-      "heures": 8.8,
+      "heures": 10.9,
       "chaleur": 23,
       "liens": [
         {
@@ -61,7 +61,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 0.4,
+      "heures": 2.5,
       "chaleur": 12,
       "liens": [
         {
@@ -92,7 +92,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 4,
-      "heures": 15.6,
+      "heures": 17.7,
       "chaleur": 12,
       "liens": [
         {
@@ -127,7 +127,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 3,
-      "heures": 16.5,
+      "heures": 18.5,
       "chaleur": 11,
       "liens": [
         {
@@ -148,32 +148,86 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-produc",
-      "titre": "Nvidia reportedly ends GeForce RTX 5090 graphics card production",
-      "url": "https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production",
+      "id": "asha-sharma-reportedly-tells-rattled-xbox-employees-we-have",
+      "titre": "Asha Sharma reportedly tells rattled Xbox employees: \"We have to find new ways, and courage, to have invention on new IP\"",
+      "url": "https://www.eurogamer.net/asha-sharma-xbox-town-hall-new-ip",
       "sources": [
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun",
-        "VGC"
+        "Eurogamer"
       ],
-      "reprises": 3,
-      "heures": 18.1,
-      "chaleur": 11,
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 10,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production",
-          "titre": "Nvidia reportedly ends GeForce RTX 5090 graphics card production"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/asha-sharma-xbox-town-hall-new-ip",
+          "titre": "Asha Sharma reportedly tells rattled Xbox employees: \"We have to find new ways, and courage, to have invention on new IP\""
+        }
+      ]
+    },
+    {
+      "id": "dead-space-creator-says-he-was-forced-to-ship-the-callisto-p",
+      "titre": "Dead Space creator says he was 'forced to ship' The Callisto Protocol by Krafton: 'We had f*cking Covid'",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/dead-space-creator-says-he-was-forced-to-ship-the-callisto-protocol-by-krafton-we-had-f-cking-covid/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 1.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/dead-space-creator-says-he-was-forced-to-ship-the-callisto-protocol-by-krafton-we-had-f-cking-covid/",
+          "titre": "Dead Space creator says he was 'forced to ship' The Callisto Protocol by Krafton: 'We had f*cking Covid'"
         },
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nvidia-are-abandoning-their-rtx-5090-graphics-cards-in-order-to-focus-on-ai-dev-friendly-rtx-pro-ones-leaker-claims",
-          "titre": "Nvidia are abandoning their RTX 5090 graphics cards in order to focus on AI dev friendly RTX Pro ones, leaker claims"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/glen-schofield-the-callisto-protocol-krafton-problems",
+          "titre": "\"I was forced to ship the game\" - Glen Schofield blames Krafton management for The Callisto Protocol's problems"
+        }
+      ]
+    },
+    {
+      "id": "sony-reveals-slick-midnight-black-ps5-model-but-it-s-a-japan",
+      "titre": "Sony Reveals Slick Midnight Black PS5 Model, But It's a Japan Exclusive for Now",
+      "url": "https://www.pushsquare.com/news/2026/10/sony-reveals-slick-midnight-black-ps5-model-but-its-a-japan-exclusive-for-now",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sony-reveals-slick-midnight-black-ps5-model-but-its-a-japan-exclusive-for-now",
+          "titre": "Sony Reveals Slick Midnight Black PS5 Model, But It's a Japan Exclusive for Now"
         },
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/nvidia-has-reportedly-stopped-producing-rtx-5090-cards-to-focus-on-rtx-pro-gpus-for-ai-data-centers/",
-          "titre": "Nvidia has reportedly stopped producing RTX 5090 cards to focus on RTX Pro GPUs for AI data centers"
+          "url": "https://www.videogameschronicle.com/news/sony-has-announced-a-midnight-black-ps5-but-its-only-confirmed-for-japan-so-far/",
+          "titre": "Sony has announced a Midnight Black PS5 but it’s only confirmed for Japan so far"
+        }
+      ]
+    },
+    {
+      "id": "10-games-you-need-to-play-before-gta-6-takes-over-the-world",
+      "titre": "10 games you need to play before GTA 6 takes over the world",
+      "url": "https://www.videogameschronicle.com/news/10-games-you-need-to-play-before-gta-6-takes-over-the-world/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/10-games-you-need-to-play-before-gta-6-takes-over-the-world/",
+          "titre": "10 games you need to play before GTA 6 takes over the world"
         }
       ]
     },
@@ -187,7 +241,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 16.3,
+      "heures": 18.4,
       "chaleur": 9,
       "liens": [
         {
@@ -217,7 +271,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 19.4,
+      "heures": 21.5,
       "chaleur": 9,
       "liens": [
         {
@@ -238,6 +292,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "former-playstation-boss-kaz-hirai-used-to-ignore-orders-from",
+      "titre": "Former PlayStation boss Kaz Hirai used to ignore orders from Sony bosses, he reveals",
+      "url": "https://www.eurogamer.net/kaz-hirai-playstation-boss-ignored-sony",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/kaz-hirai-playstation-boss-ignored-sony",
+          "titre": "Former PlayStation boss Kaz Hirai used to ignore orders from Sony bosses, he reveals"
+        }
+      ]
+    },
+    {
+      "id": "review-ratatan-switch-2-patapon-style-rhythm-action-strategy",
+      "titre": "Review: Ratatan (Switch 2) - Patapon-Style Rhythm-Action Strategy Returns, With A Roguelite Twist",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/ratatan",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/ratatan",
+          "titre": "Review: Ratatan (Switch 2) - Patapon-Style Rhythm-Action Strategy Returns, With A Roguelite Twist"
+        }
+      ]
+    },
+    {
+      "id": "two-shin-chan-ports-coming-to-switch-2-in-2027-physical-bund",
+      "titre": "Two Shin Chan Ports Coming To Switch 2 In 2027, Physical Bundle Confirmed",
+      "url": "https://www.nintendolife.com/news/2026/10/two-shin-chan-ports-coming-to-switch-2-in-2027-physical-bundle-confirmed",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/two-shin-chan-ports-coming-to-switch-2-in-2027-physical-bundle-confirmed",
+          "titre": "Two Shin Chan Ports Coming To Switch 2 In 2027, Physical Bundle Confirmed"
+        }
+      ]
+    },
+    {
       "id": "random-2021-elon-musk-snl-skit-was-not-received-well-by-nint",
       "titre": "Random: 2021 Elon Musk SNL Skit \"Was Not Received Well\" By Nintendo",
       "url": "https://www.nintendolife.com/news/2026/10/random-2021-elon-musk-snl-skit-was-not-received-well-by-nintendo",
@@ -245,7 +353,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.8,
       "chaleur": 8,
       "liens": [
         {
@@ -263,7 +371,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.1,
       "chaleur": 8,
       "liens": [
         {
@@ -281,7 +389,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.7,
       "chaleur": 8,
       "liens": [
         {
@@ -292,26 +400,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "valve-have-released-the-steam-frame-s-cad-files-but-there-s",
-      "titre": "Valve have released the Steam Frame's CAD files, but there’s already a cottage industry of DIY wrist straps and lifesize skull stands",
-      "url": "https://www.rockpapershotgun.com/valve-have-released-the-steam-frames-cad-files-but-theres-already-a-cottage-industry-of-diy-wrist-straps-and-lifesize-skull-stands",
+      "id": "nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-produc",
+      "titre": "Nvidia reportedly ends GeForce RTX 5090 graphics card production",
+      "url": "https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production",
       "sources": [
-        "PC Gamer",
+        "GamesIndustry.biz",
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 17.6,
+      "heures": 20.2,
       "chaleur": 8,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valve-have-released-the-steam-frames-cad-files-but-theres-already-a-cottage-industry-of-diy-wrist-straps-and-lifesize-skull-stands",
-          "titre": "Valve have released the Steam Frame's CAD files, but there’s already a cottage industry of DIY wrist straps and lifesize skull stands"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production",
+          "titre": "Nvidia reportedly ends GeForce RTX 5090 graphics card production"
         },
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/",
-          "titre": "Here come the weird and wonderful mods for the Steam Frame, as Valve drops the full CAD files for free"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/nvidia-are-abandoning-their-rtx-5090-graphics-cards-in-order-to-focus-on-ai-dev-friendly-rtx-pro-ones-leaker-claims",
+          "titre": "Nvidia are abandoning their RTX 5090 graphics cards in order to focus on AI dev friendly RTX Pro ones, leaker claims"
         }
       ]
     },
@@ -324,7 +432,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 7.5,
+      "heures": 9.6,
       "chaleur": 7,
       "liens": [
         {
@@ -347,7 +455,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.8,
+      "heures": 25.9,
       "chaleur": 7,
       "liens": [
         {
@@ -394,6 +502,240 @@ const VEILLE = {
       ]
     },
     {
+      "id": "years-of-building-pitching-and-raising-for-games-made-the-s",
+      "titre": "\"Years of building, pitching and raising for games made the same failure painful to watch\" – Why GameDataCore wants to find out how players feel",
+      "url": "https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-games-made-the-same-failure-painful-to-watch-why-gamedatacore-wants-to-find-out-how-players-feel",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-games-made-the-same-failure-painful-to-watch-why-gamedatacore-wants-to-find-out-how-players-feel",
+          "titre": "\"Years of building, pitching and raising for games made the same failure painful to watch\" – Why GameDataCore wants to find out how players feel"
+        }
+      ]
+    },
+    {
+      "id": "dd2-dark-arisen-how-to-beat-the-fallen-dragon",
+      "titre": "DD2 Dark Arisen: How to beat the Fallen Dragon",
+      "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-how-to-beat-the-fallen-dragon/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-how-to-beat-the-fallen-dragon/",
+          "titre": "DD2 Dark Arisen: How to beat the Fallen Dragon"
+        }
+      ]
+    },
+    {
+      "id": "casual-game-store-legacy-games-is-shutting-down-purchases-wo",
+      "titre": "Casual game store Legacy Games is shutting down, purchases won’t be re-downloadable despite ‘keep forever’ slogan",
+      "url": "https://www.videogameschronicle.com/news/casual-game-store-legacy-games-is-shutting-down-purchases-wont-be-re-downloadable-despite-keep-forever-slogan/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/casual-game-store-legacy-games-is-shutting-down-purchases-wont-be-re-downloadable-despite-keep-forever-slogan/",
+          "titre": "Casual game store Legacy Games is shutting down, purchases won’t be re-downloadable despite ‘keep forever’ slogan"
+        }
+      ]
+    },
+    {
+      "id": "review-planet-zoo-2-ps5-sublime-wildlife-management-sim-is-f",
+      "titre": "Review: Planet Zoo 2 (PS5) - Sublime Wildlife Management Sim Is Frontier at Its Finest",
+      "url": "https://www.pushsquare.com/reviews/ps5/planet-zoo-2",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/planet-zoo-2",
+          "titre": "Review: Planet Zoo 2 (PS5) - Sublime Wildlife Management Sim Is Frontier at Its Finest"
+        }
+      ]
+    },
+    {
+      "id": "tekken-8-finally-gives-a-first-look-at-upcoming-guest-yujiro",
+      "titre": "Tekken 8 finally gives a first look at upcoming guest Yujiro Hanma from Baki, and he looks just as grotesque as you'd expect",
+      "url": "https://www.rockpapershotgun.com/tekken-8-finally-gives-a-first-look-at-upcoming-guest-yujiro-hanma-from-baki-and-he-looks-just-as-grotesque-as-youd-expect",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/tekken-8-finally-gives-a-first-look-at-upcoming-guest-yujiro-hanma-from-baki-and-he-looks-just-as-grotesque-as-youd-expect",
+          "titre": "Tekken 8 finally gives a first look at upcoming guest Yujiro Hanma from Baki, and he looks just as grotesque as you'd expect"
+        }
+      ]
+    },
+    {
+      "id": "a-guide-to-six-regulatory-risks-shaping-games-in-2026",
+      "titre": "A guide to six regulatory risks shaping games in 2026",
+      "url": "https://www.gamesindustry.biz/a-guide-to-six-regulatory-risks-shaping-games-in-2026",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/a-guide-to-six-regulatory-risks-shaping-games-in-2026",
+          "titre": "A guide to six regulatory risks shaping games in 2026"
+        }
+      ]
+    },
+    {
+      "id": "cut-assassin-s-creed-black-flag-resynced-epilogue-scene-that",
+      "titre": "Cut Assassin’s Creed Black Flag Resynced epilogue scene, that could hint at fresh 18th century stabby hijinks, allegedly taken down by Ubisoft following datamine",
+      "url": "https://www.rockpapershotgun.com/cut-assassins-creed-black-flag-resynced-epilogue-scene-that-could-hint-at-fresh-18th-century-stabby-hijinks-allegedly-taken-down-by-ubisoft-following-datamine",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/cut-assassins-creed-black-flag-resynced-epilogue-scene-that-could-hint-at-fresh-18th-century-stabby-hijinks-allegedly-taken-down-by-ubisoft-following-datamine",
+          "titre": "Cut Assassin’s Creed Black Flag Resynced epilogue scene, that could hint at fresh 18th century stabby hijinks, allegedly taken down by Ubisoft following datamine"
+        }
+      ]
+    },
+    {
+      "id": "behold-the-3-000-keyboard-that-is-also-actually-a-powerful-a",
+      "titre": "Behold, the $3,000 keyboard that is also actually a powerful AI PC I would hate to spill my coffee on",
+      "url": "https://www.pcgamer.com/hardware/behold-the-usd3-000-keyboard-that-is-also-actually-a-powerful-ai-pc-i-would-hate-to-spill-my-coffee-on/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/behold-the-usd3-000-keyboard-that-is-also-actually-a-powerful-ai-pc-i-would-hate-to-spill-my-coffee-on/",
+          "titre": "Behold, the $3,000 keyboard that is also actually a powerful AI PC I would hate to spill my coffee on"
+        }
+      ]
+    },
+    {
+      "id": "don-t-neglect-crafting-furniture-in-your-arc-raiders-outpost",
+      "titre": "Don't neglect crafting furniture in your Arc Raiders outpost—it unlocks hundreds of extra storage slots",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/dont-neglect-crafting-furniture-in-your-arc-raiders-outpost-it-unlocks-100s-of-extra-storage-slots/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/dont-neglect-crafting-furniture-in-your-arc-raiders-outpost-it-unlocks-100s-of-extra-storage-slots/",
+          "titre": "Don't neglect crafting furniture in your Arc Raiders outpost—it unlocks hundreds of extra storage slots"
+        }
+      ]
+    },
+    {
+      "id": "if-you-re-upset-about-the-dire-lack-of-consumer-ram-knocking",
+      "titre": "If you're upset about the dire lack of consumer RAM knocking around, this 480 GB Intel GPU isn't going to cheer you up",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/if-youre-upset-about-the-dire-lack-of-consumer-ram-knocking-around-this-480-gb-intel-gpu-isnt-going-to-cheer-you-up/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/if-youre-upset-about-the-dire-lack-of-consumer-ram-knocking-around-this-480-gb-intel-gpu-isnt-going-to-cheer-you-up/",
+          "titre": "If you're upset about the dire lack of consumer RAM knocking around, this 480 GB Intel GPU isn't going to cheer you up"
+        }
+      ]
+    },
+    {
+      "id": "us-government-told-to-flag-retro-handhelds-loaded-with-pirat",
+      "titre": "US government told to flag retro handhelds loaded with pirated games as a ‘notorious market’",
+      "url": "https://www.videogameschronicle.com/news/us-government-told-to-flag-retro-handhelds-loaded-with-pirated-games-as-a-notorious-market/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/us-government-told-to-flag-retro-handhelds-loaded-with-pirated-games-as-a-notorious-market/",
+          "titre": "US government told to flag retro handhelds loaded with pirated games as a ‘notorious market’"
+        }
+      ]
+    },
+    {
+      "id": "marvel-t-kon-fighting-souls-to-add-jane-foster-s-thor-venom",
+      "titre": "Marvel Tōkon: Fighting Souls to add Jane Foster's Thor, Venom and Jubilee - following Phoenix Cyclops - in its Year One DLC pass",
+      "url": "https://www.rockpapershotgun.com/marvel-tokon-fighting-souls-to-add-jane-fosters-thor-venom-and-jubilee-following-phoenix-cyclops-in-its-year-one-dlc-pass",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/marvel-tokon-fighting-souls-to-add-jane-fosters-thor-venom-and-jubilee-following-phoenix-cyclops-in-its-year-one-dlc-pass",
+          "titre": "Marvel Tōkon: Fighting Souls to add Jane Foster's Thor, Venom and Jubilee - following Phoenix Cyclops - in its Year One DLC pass"
+        }
+      ]
+    },
+    {
+      "id": "gigabyte-deletes-blog-post-on-intel-lga1700-chips-in-early-2",
+      "titre": "Gigabyte deletes blog post on Intel LGA1700 chips in early 2027, but it can't put the cat back in the bag",
+      "url": "https://www.pcgamer.com/hardware/processors/gigabyte-deletes-blog-post-on-intel-lga1700-chips-coming-early-2027-but-it-cant-put-the-cat-back-in-the-bag/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/processors/gigabyte-deletes-blog-post-on-intel-lga1700-chips-coming-early-2027-but-it-cant-put-the-cat-back-in-the-bag/",
+          "titre": "Gigabyte deletes blog post on Intel LGA1700 chips in early 2027, but it can't put the cat back in the bag"
+        }
+      ]
+    },
+    {
       "id": "god-of-war-laufey-collector-box-available-for-pre-order-now",
       "titre": "God of War Laufey Collector Box Available for Pre-Order Now, Doesn't Include the Game",
       "url": "https://www.pushsquare.com/news/2026/10/god-of-war-laufey-collector-box-available-for-pre-order-now-doesnt-include-the-game",
@@ -401,7 +743,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.3,
       "chaleur": 6,
       "liens": [
         {
@@ -419,7 +761,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.7,
       "chaleur": 6,
       "liens": [
         {
@@ -437,49 +779,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/ace-combat-8-wings-of-theve-review",
           "titre": "Ace Combat 8: Wings of Theve review – thrill-packed campaign takes this long-running series to new heights"
-        }
-      ]
-    },
-    {
-      "id": "sony-has-announced-a-midnight-black-ps5-but-it-s-only-confir",
-      "titre": "Sony has announced a Midnight Black PS5 but it’s only confirmed for Japan so far",
-      "url": "https://www.videogameschronicle.com/news/sony-has-announced-a-midnight-black-ps5-but-its-only-confirmed-for-japan-so-far/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sony-has-announced-a-midnight-black-ps5-but-its-only-confirmed-for-japan-so-far/",
-          "titre": "Sony has announced a Midnight Black PS5 but it’s only confirmed for Japan so far"
-        }
-      ]
-    },
-    {
-      "id": "i-was-forced-to-ship-the-game-glen-schofield-blames-krafton",
-      "titre": "\"I was forced to ship the game\" - Glen Schofield blames Krafton management for The Callisto Protocol's problems",
-      "url": "https://www.eurogamer.net/glen-schofield-the-callisto-protocol-krafton-problems",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 1.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/glen-schofield-the-callisto-protocol-krafton-problems",
-          "titre": "\"I was forced to ship the game\" - Glen Schofield blames Krafton management for The Callisto Protocol's problems"
         }
       ]
     },
@@ -491,7 +797,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.6,
       "chaleur": 6,
       "liens": [
         {
@@ -509,37 +815,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/tears-of-the-kingdom-zelda-statue-officially-revealed-heres-a-sneak-peek",
           "titre": "Tears Of The Kingdom Zelda Statue Officially Revealed, Here's A Sneak Peek"
-        }
-      ]
-    },
-    {
-      "id": "sega-labelled-stupid-liars-after-failing-to-fulfil-all-futur",
-      "titre": "SEGA Labelled 'Stupid Liars' After Failing to Fulfil 'All Future Paid DLC' Promise for Sonic Racing: CrossWorlds",
-      "url": "https://www.pushsquare.com/news/2026/10/sega-labelled-stupid-liars-after-failing-to-fulfil-all-future-paid-dlc-promise-for-sonic-racing-crossworlds",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 14.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sega-labelled-stupid-liars-after-failing-to-fulfil-all-future-paid-dlc-promise-for-sonic-racing-crossworlds",
-          "titre": "SEGA Labelled 'Stupid Liars' After Failing to Fulfil 'All Future Paid DLC' Promise for Sonic Racing: CrossWorlds"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-players-demand-year-2-for-free-after-noting-the-digital-deluxe-edition-promised-all-future-paid-dlc/",
-          "titre": "Sonic Racing CrossWorlds players demand Year 2 for free after noting the Digital Deluxe Edition promised ‘all future paid DLC’"
         }
       ]
     },
@@ -551,7 +833,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.5,
       "chaleur": 6,
       "liens": [
         {
@@ -569,13 +851,31 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 23.9,
+      "heures": 26.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/group-behind-gta-6-leaks-threatens-to-release-alleged-full-build-of-game-including-story-mode",
           "titre": "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode"
+        }
+      ]
+    },
+    {
+      "id": "valve-have-released-the-steam-frame-s-cad-files-but-there-s",
+      "titre": "Valve have released the Steam Frame's CAD files, but there’s already a cottage industry of DIY wrist straps and lifesize skull stands",
+      "url": "https://www.rockpapershotgun.com/valve-have-released-the-steam-frames-cad-files-but-theres-already-a-cottage-industry-of-diy-wrist-straps-and-lifesize-skull-stands",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 19.7,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/valve-have-released-the-steam-frames-cad-files-but-theres-already-a-cottage-industry-of-diy-wrist-straps-and-lifesize-skull-stands",
+          "titre": "Valve have released the Steam Frame's CAD files, but there’s already a cottage industry of DIY wrist straps and lifesize skull stands"
         }
       ]
     },
@@ -587,7 +887,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.7,
+      "heures": 19.8,
       "chaleur": 5,
       "liens": [
         {
@@ -605,7 +905,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 21.4,
       "chaleur": 5,
       "liens": [
         {
@@ -623,31 +923,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 23.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/blueys-happy-snaps",
           "titre": "Mini Review: Bluey's Happy Snaps (Switch 2) - A Light, Breezy Photography Adventure"
-        }
-      ]
-    },
-    {
-      "id": "star-citizen-singleplayer-spinoff-squadron-42-gets-a-steam-p",
-      "titre": "Star Citizen singleplayer spinoff Squadron 42 gets a Steam page ahead of its 2027 launch, and this is how I've learned about 50 million famous actors are in it",
-      "url": "https://www.rockpapershotgun.com/star-citizen-singleplayer-spinoff-squadron-42-gets-a-steam-page-ahead-of-its-2027-launch-and-this-is-how-ive-learned-about-50-million-famous-actors-are-in-it",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 22.7,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/star-citizen-singleplayer-spinoff-squadron-42-gets-a-steam-page-ahead-of-its-2027-launch-and-this-is-how-ive-learned-about-50-million-famous-actors-are-in-it",
-          "titre": "Star Citizen singleplayer spinoff Squadron 42 gets a Steam page ahead of its 2027 launch, and this is how I've learned about 50 million famous actors are in it"
         }
       ]
     },
@@ -659,7 +941,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.9,
+      "heures": 27.0,
       "chaleur": 5,
       "liens": [
         {
@@ -677,13 +959,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/game-development/our-humble-goal-is-to-survive-the-ai-revolution-says-epic-games-ceo-as-its-star-wars-and-marvel-crossover-pivots-to-ai-first-development/",
           "titre": "'Our humble goal is to survive the AI revolution' says Epic Games CEO, as its Star Wars and Marvel crossover pivots to 'AI first' development"
+        }
+      ]
+    },
+    {
+      "id": "sega-labelled-stupid-liars-after-failing-to-fulfil-all-futur",
+      "titre": "SEGA Labelled 'Stupid Liars' After Failing to Fulfil 'All Future Paid DLC' Promise for Sonic Racing: CrossWorlds",
+      "url": "https://www.pushsquare.com/news/2026/10/sega-labelled-stupid-liars-after-failing-to-fulfil-all-future-paid-dlc-promise-for-sonic-racing-crossworlds",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 17.0,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sega-labelled-stupid-liars-after-failing-to-fulfil-all-future-paid-dlc-promise-for-sonic-racing-crossworlds",
+          "titre": "SEGA Labelled 'Stupid Liars' After Failing to Fulfil 'All Future Paid DLC' Promise for Sonic Racing: CrossWorlds"
         }
       ]
     },
@@ -695,7 +995,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 17.3,
       "chaleur": 3,
       "liens": [
         {
@@ -713,7 +1013,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 18.0,
       "chaleur": 3,
       "liens": [
         {
@@ -731,7 +1031,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.2,
       "chaleur": 3,
       "liens": [
         {
@@ -749,7 +1049,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.5,
       "chaleur": 3,
       "liens": [
         {
@@ -767,7 +1067,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.2,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
@@ -785,7 +1085,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 19.7,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +1103,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 20.0,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +1121,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.5,
       "chaleur": 3,
       "liens": [
         {
@@ -839,7 +1139,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 20.5,
       "chaleur": 3,
       "liens": [
         {
@@ -857,7 +1157,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.5,
+      "heures": 20.6,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +1175,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 18.5,
+      "heures": 20.6,
       "chaleur": 3,
       "liens": [
         {
@@ -893,319 +1193,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.5,
+      "heures": 20.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/graphics-cards/schrodingers-gpu-set-for-an-early-2027-release-as-the-dead-alive-24-gb-rtx-5080-super-box-is-shaken-once-more/",
           "titre": "Schrödinger's GPU set for an early 2027 release as the dead/alive 24 GB RTX 5080 Super box is shaken once more"
-        }
-      ]
-    },
-    {
-      "id": "i-am-the-controller-now-mit-engineers-have-created-a-second",
-      "titre": "I am the controller now: MIT engineers have created a 'second skin' that could one day track whole bodies in VR",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/i-am-the-controller-now-mit-engineers-have-created-a-second-skin-that-could-one-day-track-whole-bodies-in-vr/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 18.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/i-am-the-controller-now-mit-engineers-have-created-a-second-skin-that-could-one-day-track-whole-bodies-in-vr/",
-          "titre": "I am the controller now: MIT engineers have created a 'second skin' that could one day track whole bodies in VR"
-        }
-      ]
-    },
-    {
-      "id": "dd2-dark-arisen-all-norgan-portcrystal-locations",
-      "titre": "DD2 Dark Arisen: All Norgan Portcrystal locations",
-      "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-norgan-portcrystal-locations/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 19.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-norgan-portcrystal-locations/",
-          "titre": "DD2 Dark Arisen: All Norgan Portcrystal locations"
-        }
-      ]
-    },
-    {
-      "id": "he-man-s-gorgeous-beat-em-up-finally-gets-a-new-date-pre-ord",
-      "titre": "He-Man's Gorgeous Beat 'Em Up Finally Gets A New Date, Pre-Orders Now Live",
-      "url": "https://www.nintendolife.com/news/2026/10/he-mans-gorgeous-beat-em-up-finally-gets-a-new-date-pre-orders-now-live",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 19.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/he-mans-gorgeous-beat-em-up-finally-gets-a-new-date-pre-orders-now-live",
-          "titre": "He-Man's Gorgeous Beat 'Em Up Finally Gets A New Date, Pre-Orders Now Live"
-        }
-      ]
-    },
-    {
-      "id": "arc-raiders-player-numbers-rebound-with-the-launch-of-frozen",
-      "titre": "Arc Raiders player-numbers rebound with the launch of Frozen Trail and the game's 2.0 release, but they might be deceptively high",
-      "url": "https://www.eurogamer.net/arc-raiders-frozen-trail-2-0-update-steam-player-numbers",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 20.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/arc-raiders-frozen-trail-2-0-update-steam-player-numbers",
-          "titre": "Arc Raiders player-numbers rebound with the launch of Frozen Trail and the game's 2.0 release, but they might be deceptively high"
-        }
-      ]
-    },
-    {
-      "id": "retro-style-he-man-beat-em-up-finally-hits-up-ps5-and-ps4-in",
-      "titre": "Retro-Style He-Man Beat-'Em-Up Finally Hits Up PS5 and PS4 in February",
-      "url": "https://www.pushsquare.com/news/2026/10/retro-style-he-man-beat-em-up-finally-hits-up-ps5-and-ps4-in-february",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 20.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/retro-style-he-man-beat-em-up-finally-hits-up-ps5-and-ps4-in-february",
-          "titre": "Retro-Style He-Man Beat-'Em-Up Finally Hits Up PS5 and PS4 in February"
-        }
-      ]
-    },
-    {
-      "id": "pearl-abyss-goes-easy-on-us-critics-for-our-crimson-desert-r",
-      "titre": "Pearl Abyss goes easy on us critics for our Crimson Desert reviews: 'They had to play the build that is not the exact same version of the launched game'",
-      "url": "https://www.pcgamer.com/games/rpg/pearl-abyss-goes-easy-on-us-critics-for-our-crimson-desert-reviews-they-had-to-play-the-build-that-is-not-the-exact-same-version-of-the-launched-game/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/pearl-abyss-goes-easy-on-us-critics-for-our-crimson-desert-reviews-they-had-to-play-the-build-that-is-not-the-exact-same-version-of-the-launched-game/",
-          "titre": "Pearl Abyss goes easy on us critics for our Crimson Desert reviews: 'They had to play the build that is not the exact same version of the launched game'"
-        }
-      ]
-    },
-    {
-      "id": "uk-charts-kingdom-hearts-collection-performs-well-but-it-s-m",
-      "titre": "UK Charts: Kingdom Hearts Collection Performs Well, But It's Missing The Keys To The Podium",
-      "url": "https://www.nintendolife.com/news/2026/10/uk-charts-kingdom-hearts-collection-performs-well-but-its-missing-the-keys-to-the-podium",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 20.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/uk-charts-kingdom-hearts-collection-performs-well-but-its-missing-the-keys-to-the-podium",
-          "titre": "UK Charts: Kingdom Hearts Collection Performs Well, But It's Missing The Keys To The Podium"
-        }
-      ]
-    },
-    {
-      "id": "you-don-t-just-paint-the-map-your-colour-in-new-ww2-rts-batt",
-      "titre": "You don't just paint the map your colour in new WW2 RTS Battleplan, you redraw the frontline with a pencil and hope your troops do the rest",
-      "url": "https://www.rockpapershotgun.com/you-dont-just-paint-the-map-your-colour-in-new-ww2-rts-battleplan-you-redraw-the-frontline-with-a-pencil-and-hope-your-troops-do-the-rest",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 20.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/you-dont-just-paint-the-map-your-colour-in-new-ww2-rts-battleplan-you-redraw-the-frontline-with-a-pencil-and-hope-your-troops-do-the-rest",
-          "titre": "You don't just paint the map your colour in new WW2 RTS Battleplan, you redraw the frontline with a pencil and hope your troops do the rest"
-        }
-      ]
-    },
-    {
-      "id": "the-happiest-man-in-gaming-hates-generative-ai",
-      "titre": "The happiest man in gaming hates generative AI",
-      "url": "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 21.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai",
-          "titre": "The happiest man in gaming hates generative AI"
-        }
-      ]
-    },
-    {
-      "id": "valor-mortis-review-this-napoleonic-first-person-swordfighte",
-      "titre": "Valor Mortis review - this Napoleonic first-person swordfighter is one of the freshest Soulslikes in years",
-      "url": "https://www.rockpapershotgun.com/valor-mortis-review",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 21.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valor-mortis-review",
-          "titre": "Valor Mortis review - this Napoleonic first-person swordfighter is one of the freshest Soulslikes in years"
-        }
-      ]
-    },
-    {
-      "id": "starfield-seamless-planetary-landings-are-finally-nearly-a-t",
-      "titre": "Starfield seamless planetary landings are finally nearly a thing, thanks to one modder's tireless work",
-      "url": "https://www.eurogamer.net/starfield-mod-seamless-planetary-landings",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 21.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/starfield-mod-seamless-planetary-landings",
-          "titre": "Starfield seamless planetary landings are finally nearly a thing, thanks to one modder's tireless work"
-        }
-      ]
-    },
-    {
-      "id": "the-rtx-4090-launched-four-years-ago-today-and-now-the-rtx-5",
-      "titre": "The RTX 4090 launched four years ago today, and now the RTX 5090 is rumoured for the chop, I can't help but look upon it with a warm glow",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/the-rtx-4090-launched-four-years-ago-today-and-now-the-rtx-5090-is-rumoured-for-the-chop-i-cant-help-but-look-upon-it-with-a-warm-glow/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/the-rtx-4090-launched-four-years-ago-today-and-now-the-rtx-5090-is-rumoured-for-the-chop-i-cant-help-but-look-upon-it-with-a-warm-glow/",
-          "titre": "The RTX 4090 launched four years ago today, and now the RTX 5090 is rumoured for the chop, I can't help but look upon it with a warm glow"
-        }
-      ]
-    },
-    {
-      "id": "this-week-in-pc-games-play-a-human-eating-katamari-from-oute",
-      "titre": "This week in PC games: play a human-eating Katamari from outer space, take over a nature reserve in Planet Zoo 2, and battle Napoleonic body horror in Valor Mortis",
-      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-play-a-human-eating-katamari-from-outer-space-take-over-a-nature-reserve-in-planet-zoo-2-and-battle-napoleonic-body-horror-in-valor-mortis",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 21.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-play-a-human-eating-katamari-from-outer-space-take-over-a-nature-reserve-in-planet-zoo-2-and-battle-napoleonic-body-horror-in-valor-mortis",
-          "titre": "This week in PC games: play a human-eating Katamari from outer space, take over a nature reserve in Planet Zoo 2, and battle Napoleonic body horror in Valor Mortis"
-        }
-      ]
-    },
-    {
-      "id": "protect-your-iphone-18-pro-with-striking-yoji-shinkawa-art-c",
-      "titre": "Protect Your iPhone 18 Pro with Striking Yoji Shinkawa Art Courtesy of Kojima Casetify Collab",
-      "url": "https://www.pushsquare.com/news/2026/10/protect-your-iphone-18-pro-with-striking-yoji-shinkawa-art-courtesy-of-kojima-casetify-collab",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 22.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/protect-your-iphone-18-pro-with-striking-yoji-shinkawa-art-courtesy-of-kojima-casetify-collab",
-          "titre": "Protect Your iPhone 18 Pro with Striking Yoji Shinkawa Art Courtesy of Kojima Casetify Collab"
-        }
-      ]
-    },
-    {
-      "id": "your-washing-machine-is-subject-to-more-safety-rules-than-a",
-      "titre": "'Your washing machine is subject to more safety rules than AI' says Microsoft president",
-      "url": "https://www.pcgamer.com/software/ai/your-washing-machine-is-subject-to-more-safety-rules-than-ai-says-microsoft-president/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 22.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/your-washing-machine-is-subject-to-more-safety-rules-than-ai-says-microsoft-president/",
-          "titre": "'Your washing machine is subject to more safety rules than AI' says Microsoft president"
-        }
-      ]
-    },
-    {
-      "id": "guide-these-30-ps5-games-are-coming-out-this-week-12th-18th",
-      "titre": "Guide: These 30+ PS5 Games Are Coming Out This Week (12th-18th October)",
-      "url": "https://www.pushsquare.com/guides/these-30plus-ps5-games-are-coming-out-this-week-12th-18th-october",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 22.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/these-30plus-ps5-games-are-coming-out-this-week-12th-18th-october",
-          "titre": "Guide: These 30+ PS5 Games Are Coming Out This Week (12th-18th October)"
-        }
-      ]
-    },
-    {
-      "id": "someone-s-found-out-how-to-unlock-f-zero-gx-s-five-golden-ca",
-      "titre": "Someone’s found out how to unlock F-Zero GX’s five golden cars, previously only available through Japan special events",
-      "url": "https://www.videogameschronicle.com/news/someones-found-out-how-to-unlock-f-zero-gxs-five-golden-cars-previously-only-available-through-japan-special-events/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 23.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/someones-found-out-how-to-unlock-f-zero-gxs-five-golden-cars-previously-only-available-through-japan-special-events/",
-          "titre": "Someone’s found out how to unlock F-Zero GX’s five golden cars, previously only available through Japan special events"
         }
       ]
     }
