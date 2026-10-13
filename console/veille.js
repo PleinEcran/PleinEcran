@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "13/10/2026 à 06h31",
+  "collecte": "13/10/2026 à 08h27",
   "seuil": 14,
   "sujets": [
     {
@@ -16,7 +16,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 6,
-      "heures": 4.9,
+      "heures": 6.9,
       "chaleur": 23,
       "liens": [
         {
@@ -63,8 +63,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 5,
-      "heures": 11.7,
-      "chaleur": 16,
+      "heures": 13.6,
+      "chaleur": 15,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -103,7 +103,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 3,
-      "heures": 12.5,
+      "heures": 14.5,
       "chaleur": 11,
       "liens": [
         {
@@ -133,7 +133,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 14.2,
+      "heures": 16.2,
       "chaleur": 11,
       "liens": [
         {
@@ -154,26 +154,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "stardew-valley-creator-says-his-new-game-is-more-of-an-actio",
-      "titre": "Stardew Valley Creator Says His New Game Is \"More Of An Action RPG\"",
-      "url": "https://www.nintendolife.com/news/2026/10/stardew-valley-creator-says-his-new-game-is-more-of-an-action-rpg",
+      "id": "castlevania-belmont-s-curse-review-the-first-new-2d-entry-in",
+      "titre": "Castlevania Belmont’s Curse review: The first new 2D entry in 13 years looks incredible but lacks teeth",
+      "url": "https://www.videogameschronicle.com/review/castlevania-belmonts-curse-review/",
       "sources": [
-        "Eurogamer",
-        "Nintendo Life"
+        "Push Square",
+        "VGC"
       ],
       "reprises": 2,
-      "heures": 3.6,
+      "heures": 1.4,
       "chaleur": 9,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/stardew-valley-creator-says-his-new-game-is-more-of-an-action-rpg",
-          "titre": "Stardew Valley Creator Says His New Game Is \"More Of An Action RPG\""
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/review/castlevania-belmonts-curse-review/",
+          "titre": "Castlevania Belmont’s Curse review: The first new 2D entry in 13 years looks incredible but lacks teeth"
         },
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/the-haunted-chocolatier-action-rpg-stardew-valley",
-          "titre": "Stardew Valley creator's new game, Haunted Chocolatier, is \"more of an action RPG\" than farming sim"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/castlevania-belmonts-curse",
+          "titre": "Review: Castlevania: Belmont's Curse (PS5) - The Classic Series Returns in a Perfectly Fine Metroidvania"
         }
       ]
     },
@@ -187,7 +187,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 12.4,
+      "heures": 14.3,
       "chaleur": 9,
       "liens": [
         {
@@ -217,7 +217,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 15.5,
+      "heures": 17.4,
       "chaleur": 9,
       "liens": [
         {
@@ -245,7 +245,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.5,
       "chaleur": 8,
       "liens": [
         {
@@ -264,7 +264,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 13.7,
+      "heures": 15.7,
       "chaleur": 8,
       "liens": [
         {
@@ -280,26 +280,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sega-labelled-stupid-liars-after-failing-to-fulfil-all-futur",
-      "titre": "SEGA Labelled 'Stupid Liars' After Failing to Fulfil 'All Future Paid DLC' Promise for Sonic Racing: CrossWorlds",
-      "url": "https://www.pushsquare.com/news/2026/10/sega-labelled-stupid-liars-after-failing-to-fulfil-all-future-paid-dlc-promise-for-sonic-racing-crossworlds",
+      "id": "stardew-valley-creator-says-his-new-game-is-more-of-an-actio",
+      "titre": "Stardew Valley Creator Says His New Game Is \"More Of An Action RPG\"",
+      "url": "https://www.nintendolife.com/news/2026/10/stardew-valley-creator-says-his-new-game-is-more-of-an-action-rpg",
       "sources": [
-        "Push Square",
-        "VGC"
+        "Eurogamer",
+        "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 11.0,
+      "heures": 5.5,
       "chaleur": 7,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sega-labelled-stupid-liars-after-failing-to-fulfil-all-future-paid-dlc-promise-for-sonic-racing-crossworlds",
-          "titre": "SEGA Labelled 'Stupid Liars' After Failing to Fulfil 'All Future Paid DLC' Promise for Sonic Racing: CrossWorlds"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/stardew-valley-creator-says-his-new-game-is-more-of-an-action-rpg",
+          "titre": "Stardew Valley Creator Says His New Game Is \"More Of An Action RPG\""
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-players-demand-year-2-for-free-after-noting-the-digital-deluxe-edition-promised-all-future-paid-dlc/",
-          "titre": "Sonic Racing CrossWorlds players demand Year 2 for free after noting the Digital Deluxe Edition promised ‘all future paid DLC’"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/the-haunted-chocolatier-action-rpg-stardew-valley",
+          "titre": "Stardew Valley creator's new game, Haunted Chocolatier, is \"more of an action RPG\" than farming sim"
         }
       ]
     },
@@ -311,7 +311,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 21.9,
       "chaleur": 7,
       "liens": [
         {
@@ -365,13 +365,37 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/tears-of-the-kingdom-zelda-statue-officially-revealed-heres-a-sneak-peek",
           "titre": "Tears Of The Kingdom Zelda Statue Officially Revealed, Here's A Sneak Peek"
+        }
+      ]
+    },
+    {
+      "id": "sega-labelled-stupid-liars-after-failing-to-fulfil-all-futur",
+      "titre": "SEGA Labelled 'Stupid Liars' After Failing to Fulfil 'All Future Paid DLC' Promise for Sonic Racing: CrossWorlds",
+      "url": "https://www.pushsquare.com/news/2026/10/sega-labelled-stupid-liars-after-failing-to-fulfil-all-future-paid-dlc-promise-for-sonic-racing-crossworlds",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 13.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sega-labelled-stupid-liars-after-failing-to-fulfil-all-future-paid-dlc-promise-for-sonic-racing-crossworlds",
+          "titre": "SEGA Labelled 'Stupid Liars' After Failing to Fulfil 'All Future Paid DLC' Promise for Sonic Racing: CrossWorlds"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-players-demand-year-2-for-free-after-noting-the-digital-deluxe-edition-promised-all-future-paid-dlc/",
+          "titre": "Sonic Racing CrossWorlds players demand Year 2 for free after noting the Digital Deluxe Edition promised ‘all future paid DLC’"
         }
       ]
     },
@@ -383,7 +407,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.5,
       "chaleur": 6,
       "liens": [
         {
@@ -401,7 +425,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 21.9,
       "chaleur": 6,
       "liens": [
         {
@@ -419,7 +443,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 15.7,
       "chaleur": 5,
       "liens": [
         {
@@ -437,7 +461,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 5,
       "liens": [
         {
@@ -455,7 +479,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.5,
       "chaleur": 5,
       "liens": [
         {
@@ -473,7 +497,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.8,
+      "heures": 20.8,
       "chaleur": 5,
       "liens": [
         {
@@ -491,7 +515,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.0,
+      "heures": 23.0,
       "chaleur": 5,
       "liens": [
         {
@@ -509,7 +533,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -527,8 +551,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -545,7 +569,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 13.9,
       "chaleur": 3,
       "liens": [
         {
@@ -563,7 +587,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.1,
       "chaleur": 3,
       "liens": [
         {
@@ -581,7 +605,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -599,7 +623,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.2,
       "chaleur": 3,
       "liens": [
         {
@@ -617,7 +641,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.5,
       "chaleur": 3,
       "liens": [
         {
@@ -635,7 +659,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 15.6,
       "chaleur": 3,
       "liens": [
         {
@@ -653,7 +677,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 16.0,
       "chaleur": 3,
       "liens": [
         {
@@ -671,7 +695,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.5,
       "chaleur": 3,
       "liens": [
         {
@@ -689,7 +713,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.5,
       "chaleur": 3,
       "liens": [
         {
@@ -707,7 +731,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.5,
       "chaleur": 3,
       "liens": [
         {
@@ -725,7 +749,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.5,
       "chaleur": 3,
       "liens": [
         {
@@ -743,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.5,
       "chaleur": 3,
       "liens": [
         {
@@ -761,7 +785,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 16.9,
       "chaleur": 3,
       "liens": [
         {
@@ -779,7 +803,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -797,7 +821,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 18.0,
       "chaleur": 3,
       "liens": [
         {
@@ -815,7 +839,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.1,
       "chaleur": 3,
       "liens": [
         {
@@ -833,7 +857,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 18.5,
       "chaleur": 3,
       "liens": [
         {
@@ -851,7 +875,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.7,
+      "heures": 18.6,
       "chaleur": 3,
       "liens": [
         {
@@ -869,7 +893,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.8,
+      "heures": 18.7,
       "chaleur": 3,
       "liens": [
         {
@@ -887,7 +911,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 19.0,
       "chaleur": 3,
       "liens": [
         {
@@ -905,7 +929,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
@@ -923,7 +947,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -941,7 +965,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -959,7 +983,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 19.8,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +1001,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.0,
+      "heures": 19.9,
       "chaleur": 3,
       "liens": [
         {
@@ -995,7 +1019,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.3,
+      "heures": 20.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1013,7 +1037,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.8,
+      "heures": 20.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +1055,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.0,
+      "heures": 21.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,7 +1073,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 19.2,
+      "heures": 21.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,7 +1091,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 21.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1085,7 +1109,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 22.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1103,7 +1127,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 20.5,
+      "heures": 22.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1121,7 +1145,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.8,
+      "heures": 22.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1139,31 +1163,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.0,
+      "heures": 22.9,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/explore-the-town-of-detour-in-this-new-fallout-4-mod-chock-full-of-voiced-npcs-and-quests",
           "titre": "Explore the town of Detour in this new Fallout 4 mod chock full of voiced NPCs and quests"
-        }
-      ]
-    },
-    {
-      "id": "wing-commander-3-is-getting-a-30th-anniversary-edition-with",
-      "titre": "Wing Commander 3 is getting a 30th anniversary edition with remastered FMVs from the restored original tapes",
-      "url": "https://www.videogameschronicle.com/news/wing-commander-3-is-getting-a-30th-anniversary-edition-with-remastered-fmvs-from-the-restored-original-tapes/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 21.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/wing-commander-3-is-getting-a-30th-anniversary-edition-with-remastered-fmvs-from-the-restored-original-tapes/",
-          "titre": "Wing Commander 3 is getting a 30th anniversary edition with remastered FMVs from the restored original tapes"
         }
       ]
     },
@@ -1175,7 +1181,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1193,7 +1199,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 23.5,
       "chaleur": 3,
       "liens": [
         {
