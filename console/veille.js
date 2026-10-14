@@ -1,35 +1,53 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "14/10/2026 à 06h41",
+  "collecte": "14/10/2026 à 08h36",
   "seuil": 14,
   "sujets": [
     {
-      "id": "no-more-hand-written-code-epic-reportedly-adopts-ai-first-p",
-      "titre": "\"No More Hand-Written Code\" - Epic Reportedly Adopts \"AI First\" Production Model On New Disney Shooter",
-      "url": "https://www.nintendolife.com/news/2026/10/no-more-hand-written-code-epic-reportedly-adopts-ai-first-production-model-on-new-disney-shooter",
+      "id": "xbox-ceo-reportedly-warns-firm-will-not-survive-if-it-only-r",
+      "titre": "Xbox CEO reportedly warns firm will \"not survive\" if it only relies on existing franchises",
+      "url": "https://www.gamesindustry.biz/xbox-ceo-reportedly-warns-firm-will-not-survive-if-it-only-relies-on-existing-franchises",
       "sources": [
         "GamesIndustry.biz",
-        "Nintendo Life",
-        "Push Square"
+        "VGC"
       ],
-      "reprises": 3,
-      "heures": 29.1,
+      "reprises": 2,
+      "heures": 0.9,
       "chaleur": 13,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/no-more-hand-written-code-epic-reportedly-adopts-ai-first-production-model-on-new-disney-shooter",
-          "titre": "\"No More Hand-Written Code\" - Epic Reportedly Adopts \"AI First\" Production Model On New Disney Shooter"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/xbox-ceo-reportedly-warns-firm-will-not-survive-if-it-only-relies-on-existing-franchises",
+          "titre": "Xbox CEO reportedly warns firm will \"not survive\" if it only relies on existing franchises"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-insists-its-not-giving-up-on-original-ip-we-wont-survive-if-we-only-relive-the-past/",
+          "titre": "Xbox insists it’s not giving up on original IP: ‘We won’t survive if we only relive the past’"
+        }
+      ]
+    },
+    {
+      "id": "xbox-announces-what-sounds-like-a-generative-ai-focused-game",
+      "titre": "Xbox announces what sounds like a generative AI-focused game-making department, Xbox Labs, while avoiding mentioning AI",
+      "url": "https://www.eurogamer.net/xbox-labs-genai-game-ports-vibe-code",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 0.0,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-labs-genai-game-ports-vibe-code",
+          "titre": "Xbox announces what sounds like a generative AI-focused game-making department, Xbox Labs, while avoiding mentioning AI"
         },
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first",
-          "titre": "Epic Games delays Disney game and tells developers to go \"AI first\""
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/no-more-hand-written-code-fortnite-devs-disney-game-to-be-an-ai-first-project",
-          "titre": "'No More Hand Written Code': Fortnite Dev's Disney Game to Be an 'AI First' Project"
+          "url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology",
+          "titre": "Xbox announces Xbox Labs, a new initiative to trial emerging ideas and \"new technology\""
         }
       ]
     },
@@ -42,7 +60,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 15.2,
+      "heures": 17.1,
       "chaleur": 11,
       "liens": [
         {
@@ -67,7 +85,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 17.6,
+      "heures": 19.6,
       "chaleur": 11,
       "liens": [
         {
@@ -97,7 +115,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 6.8,
+      "heures": 8.7,
       "chaleur": 10,
       "liens": [
         {
@@ -126,7 +144,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 5.7,
+      "heures": 7.6,
       "chaleur": 9,
       "liens": [
         {
@@ -150,7 +168,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 15.1,
+      "heures": 17.0,
       "chaleur": 9,
       "liens": [
         {
@@ -173,49 +191,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.9,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/toy-shooter-hypercharge-unboxed-is-getting-a-huge-and-completely-free-update-on-switch-this-week",
           "titre": "Toy Shooter Hypercharge: Unboxed Is Getting A \"Huge\" And \"Completely Free\" Update On Switch This Week"
-        }
-      ]
-    },
-    {
-      "id": "steam-now-has-a-maddening-bouncing-logo-screensaver-and-i-m",
-      "titre": "Steam now has a maddening bouncing logo screensaver, and I'm pretty sure it doesn't perfectly hit the corners",
-      "url": "https://www.pcgamer.com/software/platforms/steam-now-has-a-maddening-bouncing-logo-screensaver-and-im-pretty-sure-it-doesnt-touch-the-corners/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/platforms/steam-now-has-a-maddening-bouncing-logo-screensaver-and-im-pretty-sure-it-doesnt-touch-the-corners/",
-          "titre": "Steam now has a maddening bouncing logo screensaver, and I'm pretty sure it doesn't perfectly hit the corners"
-        }
-      ]
-    },
-    {
-      "id": "oblivion-remastered-gets-a-new-switch-2-update-resolves-glob",
-      "titre": "Oblivion Remastered Gets A New Switch 2 Update, Resolves \"Global Visual Degradation\" Issue",
-      "url": "https://www.nintendolife.com/news/2026/10/oblivion-remastered-gets-a-new-switch-2-update-resolves-global-visual-degradation-issue",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/oblivion-remastered-gets-a-new-switch-2-update-resolves-global-visual-degradation-issue",
-          "titre": "Oblivion Remastered Gets A New Switch 2 Update, Resolves \"Global Visual Degradation\" Issue"
         }
       ]
     },
@@ -227,7 +209,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.4,
       "chaleur": 8,
       "liens": [
         {
@@ -245,7 +227,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 7.4,
       "chaleur": 7,
       "liens": [
         {
@@ -263,31 +245,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.1,
+      "heures": 22.0,
       "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/asha-sharma-xbox-town-hall-new-ip",
           "titre": "Asha Sharma reportedly tells rattled Xbox employees: \"We have to find new ways, and courage, to have invention on new IP\""
-        }
-      ]
-    },
-    {
-      "id": "epic-games-reportedly-delays-star-wars-and-marvel-shooter-as",
-      "titre": "Epic Games reportedly delays Star Wars and Marvel shooter, as the Fortnite maker embraces \"AI-accelerated development\"",
-      "url": "https://www.eurogamer.net/epic-games-delays-star-wars-marvel-shooter-ai-development",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/epic-games-delays-star-wars-marvel-shooter-ai-development",
-          "titre": "Epic Games reportedly delays Star Wars and Marvel shooter, as the Fortnite maker embraces \"AI-accelerated development\""
         }
       ]
     },
@@ -328,38 +292,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-p",
-      "titre": "Asha Sharma forms ‘Xbox Labs’ in response to explosion of AI-powered mods and ports",
-      "url": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/",
+      "id": "steam-now-has-a-maddening-bouncing-logo-screensaver-and-i-m",
+      "titre": "Steam now has a maddening bouncing logo screensaver, and I'm pretty sure it doesn't perfectly hit the corners",
+      "url": "https://www.pcgamer.com/software/platforms/steam-now-has-a-maddening-bouncing-logo-screensaver-and-im-pretty-sure-it-doesnt-touch-the-corners/",
       "sources": [
-        "VGC"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.8,
+      "heures": 5.5,
       "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/",
-          "titre": "Asha Sharma forms ‘Xbox Labs’ in response to explosion of AI-powered mods and ports"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/platforms/steam-now-has-a-maddening-bouncing-logo-screensaver-and-im-pretty-sure-it-doesnt-touch-the-corners/",
+          "titre": "Steam now has a maddening bouncing logo screensaver, and I'm pretty sure it doesn't perfectly hit the corners"
         }
       ]
     },
     {
-      "id": "xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging",
-      "titre": "Xbox announces Xbox Labs, a new initiative to trial emerging ideas and \"new technology\"",
-      "url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology",
+      "id": "oblivion-remastered-gets-a-new-switch-2-update-resolves-glob",
+      "titre": "Oblivion Remastered Gets A New Switch 2 Update, Resolves \"Global Visual Degradation\" Issue",
+      "url": "https://www.nintendolife.com/news/2026/10/oblivion-remastered-gets-a-new-switch-2-update-resolves-global-visual-degradation-issue",
       "sources": [
-        "GamesIndustry.biz"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.7,
+      "heures": 5.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology",
-          "titre": "Xbox announces Xbox Labs, a new initiative to trial emerging ideas and \"new technology\""
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/oblivion-remastered-gets-a-new-switch-2-update-resolves-global-visual-degradation-issue",
+          "titre": "Oblivion Remastered Gets A New Switch 2 Update, Resolves \"Global Visual Degradation\" Issue"
         }
       ]
     },
@@ -372,7 +336,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 13.7,
+      "heures": 15.6,
       "chaleur": 6,
       "liens": [
         {
@@ -395,7 +359,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 15.6,
       "chaleur": 6,
       "liens": [
         {
@@ -413,7 +377,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 19.0,
       "chaleur": 6,
       "liens": [
         {
@@ -431,13 +395,31 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 19.7,
+      "heures": 21.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/10-games-you-need-to-play-before-gta-6-takes-over-the-world/",
           "titre": "10 games you need to play before GTA 6 takes over the world"
+        }
+      ]
+    },
+    {
+      "id": "asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-p",
+      "titre": "Asha Sharma forms ‘Xbox Labs’ in response to explosion of AI-powered mods and ports",
+      "url": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 12.7,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/",
+          "titre": "Asha Sharma forms ‘Xbox Labs’ in response to explosion of AI-powered mods and ports"
         }
       ]
     },
@@ -449,7 +431,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.4,
       "chaleur": 5,
       "liens": [
         {
@@ -467,7 +449,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 18.5,
       "chaleur": 5,
       "liens": [
         {
@@ -485,7 +467,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.5,
+      "heures": 20.4,
       "chaleur": 5,
       "liens": [
         {
@@ -503,7 +485,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.7,
+      "heures": 21.6,
       "chaleur": 5,
       "liens": [
         {
@@ -521,31 +503,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.2,
+      "heures": 22.1,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/two-shin-chan-ports-coming-to-switch-2-in-2027-physical-bundle-confirmed",
           "titre": "Two Shin Chan Ports Coming To Switch 2 In 2027, Physical Bundle Confirmed"
-        }
-      ]
-    },
-    {
-      "id": "xbox-insists-it-s-not-giving-up-on-original-ip-we-won-t-surv",
-      "titre": "Xbox insists it’s not giving up on original IP: ‘We won’t survive if we only relive the past’",
-      "url": "https://www.videogameschronicle.com/news/xbox-insists-its-not-giving-up-on-original-ip-we-wont-survive-if-we-only-relive-the-past/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 21.2,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-insists-its-not-giving-up-on-original-ip-we-wont-survive-if-we-only-relive-the-past/",
-          "titre": "Xbox insists it’s not giving up on original IP: ‘We won’t survive if we only relive the past’"
         }
       ]
     },
@@ -557,7 +521,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.8,
+      "heures": 23.7,
       "chaleur": 5,
       "liens": [
         {
@@ -575,13 +539,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.8,
+      "heures": 27.7,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/psa-metaphor-refantazio-demo-for-switch-2-now-available",
           "titre": "PSA: Metaphor: ReFantazio Demo For Switch 2 Now Available"
+        }
+      ]
+    },
+    {
+      "id": "no-more-hand-written-code-epic-reportedly-adopts-ai-first-p",
+      "titre": "\"No More Hand-Written Code\" - Epic Reportedly Adopts \"AI First\" Production Model On New Disney Shooter",
+      "url": "https://www.nintendolife.com/news/2026/10/no-more-hand-written-code-epic-reportedly-adopts-ai-first-production-model-on-new-disney-shooter",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 31.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/no-more-hand-written-code-epic-reportedly-adopts-ai-first-production-model-on-new-disney-shooter",
+          "titre": "\"No More Hand-Written Code\" - Epic Reportedly Adopts \"AI First\" Production Model On New Disney Shooter"
         }
       ]
     },
@@ -593,7 +575,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.0,
+      "heures": 32.0,
       "chaleur": 5,
       "liens": [
         {
@@ -611,7 +593,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -629,7 +611,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -647,7 +629,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -665,7 +647,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -683,7 +665,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -701,7 +683,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -719,7 +701,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
@@ -737,7 +719,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
@@ -755,7 +737,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.0,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -773,8 +755,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -791,7 +773,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.1,
       "chaleur": 3,
       "liens": [
         {
@@ -809,7 +791,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.5,
       "chaleur": 3,
       "liens": [
         {
@@ -827,7 +809,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 14.6,
       "chaleur": 3,
       "liens": [
         {
@@ -845,7 +827,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.1,
       "chaleur": 3,
       "liens": [
         {
@@ -863,31 +845,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 15.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/modern-warfare-4-is-the-latest-call-of-duty-to-launch-without-a-ps5-platinum-trophy",
           "titre": "Modern Warfare 4 Is the Latest Call of Duty to Launch without a PS5 Platinum Trophy"
-        }
-      ]
-    },
-    {
-      "id": "how-to-complete-an-unheard-farewell-in-valor-mortis",
-      "titre": "How to complete An Unheard Farewell in Valor Mortis",
-      "url": "https://www.pcgamer.com/games/action/valor-mortis-an-unheard-farewell-walkthrough/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/valor-mortis-an-unheard-farewell-walkthrough/",
-          "titre": "How to complete An Unheard Farewell in Valor Mortis"
         }
       ]
     },
@@ -899,7 +863,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 15.6,
       "chaleur": 3,
       "liens": [
         {
@@ -917,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 15.9,
       "chaleur": 3,
       "liens": [
         {
@@ -935,7 +899,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.1,
       "chaleur": 3,
       "liens": [
         {
@@ -953,7 +917,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.7,
+      "heures": 16.6,
       "chaleur": 3,
       "liens": [
         {
@@ -971,7 +935,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 17.3,
       "chaleur": 3,
       "liens": [
         {
@@ -989,7 +953,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 18.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +971,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.7,
+      "heures": 18.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,7 +989,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 18.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,7 +1007,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 19.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,7 +1025,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1079,7 +1043,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.7,
+      "heures": 19.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1097,7 +1061,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 20.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1115,7 +1079,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 20.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1133,13 +1097,49 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 20.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-games-made-the-same-failure-painful-to-watch-why-gamedatacore-wants-to-find-out-how-players-feel",
           "titre": "\"Years of building, pitching and raising for games made the same failure painful to watch\" – Why GameDataCore wants to find out how players feel"
+        }
+      ]
+    },
+    {
+      "id": "casual-game-store-legacy-games-is-shutting-down-purchases-wo",
+      "titre": "Casual game store Legacy Games is shutting down, purchases won’t be re-downloadable despite ‘keep forever’ slogan",
+      "url": "https://www.videogameschronicle.com/news/casual-game-store-legacy-games-is-shutting-down-purchases-wont-be-re-downloadable-despite-keep-forever-slogan/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 20.4,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/casual-game-store-legacy-games-is-shutting-down-purchases-wont-be-re-downloadable-despite-keep-forever-slogan/",
+          "titre": "Casual game store Legacy Games is shutting down, purchases won’t be re-downloadable despite ‘keep forever’ slogan"
+        }
+      ]
+    },
+    {
+      "id": "review-planet-zoo-2-ps5-sublime-wildlife-management-sim-is-f",
+      "titre": "Review: Planet Zoo 2 (PS5) - Sublime Wildlife Management Sim Is Frontier at Its Finest",
+      "url": "https://www.pushsquare.com/reviews/ps5/planet-zoo-2",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 20.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/planet-zoo-2",
+          "titre": "Review: Planet Zoo 2 (PS5) - Sublime Wildlife Management Sim Is Frontier at Its Finest"
         }
       ]
     }
