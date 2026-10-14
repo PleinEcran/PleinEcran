@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "14/10/2026 à 00h42",
+  "collecte": "14/10/2026 à 02h31",
   "seuil": 14,
   "sujets": [
     {
@@ -11,7 +11,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.6,
       "chaleur": 14,
       "liens": [
         {
@@ -31,7 +31,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 23.1,
+      "heures": 24.9,
       "chaleur": 13,
       "liens": [
         {
@@ -61,7 +61,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 0.8,
+      "heures": 2.6,
       "chaleur": 12,
       "liens": [
         {
@@ -90,7 +90,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 9.2,
+      "heures": 11.0,
       "chaleur": 12,
       "liens": [
         {
@@ -106,6 +106,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "ea-reckons-battlefield-6-deserves-a-game-of-the-year-edition",
+      "titre": "EA Reckons Battlefield 6 Deserves a Game of the Year Edition",
+      "url": "https://www.pushsquare.com/news/2026/10/ea-reckons-battlefield-6-deserves-a-game-of-the-year-edition",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 1.5,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ea-reckons-battlefield-6-deserves-a-game-of-the-year-edition",
+          "titre": "EA Reckons Battlefield 6 Deserves a Game of the Year Edition"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/resident-evil-2-deluxe-edition",
+          "titre": "Mini Review: Resident Evil 2 Deluxe Edition (Switch 2) - Finally Gets The Treatment It Deserves"
+        }
+      ]
+    },
+    {
       "id": "japan-is-getting-an-exclusive-midnight-black-playstation-5-n",
       "titre": "Japan is getting an exclusive Midnight Black PlayStation 5 next month, but there's still hope for the rest of the world",
       "url": "https://www.eurogamer.net/playstation-5-midnight-black-japan-only",
@@ -115,8 +139,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 11.7,
-      "chaleur": 12,
+      "heures": 13.5,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Eurogamer",
@@ -144,7 +168,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 9.1,
+      "heures": 11.0,
       "chaleur": 10,
       "liens": [
         {
@@ -160,6 +184,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "nintendo-expands-switch-online-s-gba-library-with-three-more",
+      "titre": "Nintendo Expands Switch Online's GBA Library With Three More Titles",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-gba-library-with-three-more-titles",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-gba-library-with-three-more-titles",
+          "titre": "Nintendo Expands Switch Online's GBA Library With Three More Titles"
+        }
+      ]
+    },
+    {
       "id": "rumour-gta-6-will-be-ported-to-pc-in-record-time-following-i",
       "titre": "Rumour: GTA 6 Will Be Ported to PC in Record Time Following Its Debut on PS5",
       "url": "https://www.pushsquare.com/news/2026/10/rumour-gta-6-will-be-ported-to-pc-in-record-time-following-its-debut-on-ps5",
@@ -167,43 +209,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.3,
       "chaleur": 9,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/rumour-gta-6-will-be-ported-to-pc-in-record-time-following-its-debut-on-ps5",
           "titre": "Rumour: GTA 6 Will Be Ported to PC in Record Time Following Its Debut on PS5"
-        }
-      ]
-    },
-    {
-      "id": "dragon-quest-creator-yuji-horii-releases-game-he-says-he-mad",
-      "titre": "Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes",
-      "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz",
-        "Push Square"
-      ],
-      "reprises": 3,
-      "heures": 29.9,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
-          "titre": "Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/the-crazy-wait-for-dragon-quest-12-made-worse-by-creators-astonishing-praise-for-ai",
-          "titre": "The Crazy Wait for Dragon Quest 12 Made Worse by Creator's 'Astonishing' Praise for AI"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dragon-quest-yuji-horii-new-game-ai-30-minutes",
-          "titre": "Dragon Quest co-creator Yuji Horii releases new AI-generated game, and he says it took 30 minutes to make"
         }
       ]
     },
@@ -216,7 +228,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 7.7,
+      "heures": 9.5,
       "chaleur": 7,
       "liens": [
         {
@@ -232,30 +244,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "how-to-complete-an-unheard-farewell-in-valor-mortis",
-      "titre": "How to complete An Unheard Farewell in Valor Mortis",
-      "url": "https://www.pcgamer.com/games/action/valor-mortis-an-unheard-farewell-walkthrough/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 7.7,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/valor-mortis-an-unheard-farewell-walkthrough/",
-          "titre": "How to complete An Unheard Farewell in Valor Mortis"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/valor-mortis-review",
-          "titre": "Valor Mortis review"
-        }
-      ]
-    },
-    {
       "id": "i-can-summon-jumbo-jets-and-boats-from-the-sky-in-gta-5-now",
       "titre": "I can summon jumbo jets and boats from the sky in GTA 5 now, and I'll do it in the middle of crowded intersections if I want to",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/i-can-summon-jumbo-jets-and-boats-from-the-sky-in-gta-5-now-and-ill-do-it-in-the-middle-of-crowded-intersections-if-i-want-to/",
@@ -263,31 +251,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 9.5,
       "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/i-can-summon-jumbo-jets-and-boats-from-the-sky-in-gta-5-now-and-ill-do-it-in-the-middle-of-crowded-intersections-if-i-want-to/",
           "titre": "I can summon jumbo jets and boats from the sky in GTA 5 now, and I'll do it in the middle of crowded intersections if I want to"
-        }
-      ]
-    },
-    {
-      "id": "gta-3-s-iconic-box-art-was-changed-at-the-last-minute-becaus",
-      "titre": "GTA 3's iconic box art was changed at the last minute because of 9/11, ex-Rockstar lead Dan Houser reveals",
-      "url": "https://www.eurogamer.net/dan-houser-gta-3-boxart-9-11",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dan-houser-gta-3-boxart-9-11",
-          "titre": "GTA 3's iconic box art was changed at the last minute because of 9/11, ex-Rockstar lead Dan Houser reveals"
         }
       ]
     },
@@ -299,7 +269,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 15.9,
       "chaleur": 7,
       "liens": [
         {
@@ -317,7 +287,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.5,
+      "heures": 31.3,
       "chaleur": 7,
       "liens": [
         {
@@ -364,6 +334,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "mario-kart-8-deluxe-has-been-updated-to-version-4-0-1-here-a",
+      "titre": "Mario Kart 8 Deluxe Has Been Updated To Version 4.0.1, Here Are The Full Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/10/mario-kart-8-deluxe-has-been-updated-to-version-4-0-1-here-are-the-full-patch-notes",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/mario-kart-8-deluxe-has-been-updated-to-version-4-0-1-here-are-the-full-patch-notes",
+          "titre": "Mario Kart 8 Deluxe Has Been Updated To Version 4.0.1, Here Are The Full Patch Notes"
+        }
+      ]
+    },
+    {
+      "id": "valve-is-clearing-out-its-discontinued-index-vr-headsets-if",
+      "titre": "Valve is clearing out its discontinued Index VR headsets if you want a cheap piece of history",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-is-clearing-out-its-discontinued-index-vr-headsets-if-you-want-a-cheap-piece-of-history/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-is-clearing-out-its-discontinued-index-vr-headsets-if-you-want-a-cheap-piece-of-history/",
+          "titre": "Valve is clearing out its discontinued Index VR headsets if you want a cheap piece of history"
+        }
+      ]
+    },
+    {
       "id": "first-ps-plus-extra-game-removal-for-november-2026-confirmed",
       "titre": "First PS Plus Extra Game Removal for November 2026 Confirmed",
       "url": "https://www.pushsquare.com/news/2026/10/first-ps-plus-extra-game-removal-for-november-2026-confirmed",
@@ -371,7 +377,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -389,85 +395,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastered-ps5-players-start-to-wonder-where-all-the-mods-are",
           "titre": "The Witcher 3 Remastered PS5 Players Start to Wonder Where All the Mods Are"
-        }
-      ]
-    },
-    {
-      "id": "rockstar-co-founder-dan-houser-says-he-failed-with-max-payne",
-      "titre": "Rockstar co-founder Dan Houser says he 'failed' with Max Payne 3, and I'm sorry Danno but that's just plain wrong",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/rockstar-co-founder-dan-houser-says-he-failed-with-max-payne-3-and-im-sorry-danno-but-thats-just-plain-wrong/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/rockstar-co-founder-dan-houser-says-he-failed-with-max-payne-3-and-im-sorry-danno-but-thats-just-plain-wrong/",
-          "titre": "Rockstar co-founder Dan Houser says he 'failed' with Max Payne 3, and I'm sorry Danno but that's just plain wrong"
-        }
-      ]
-    },
-    {
-      "id": "kojima-says-he-was-just-like-bryan-from-the-resident-evil-mo",
-      "titre": "Kojima says he was 'just like Bryan' from the Resident Evil movie when he played RE1 in 1996: 'I kept getting game over after game over, shouting F***!'",
-      "url": "https://www.pcgamer.com/movies-tv/kojima-says-he-was-just-like-bryan-from-the-resident-evil-movie-when-he-played-re1-in-1996-i-kept-getting-game-over-after-game-over-shouting-f/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/kojima-says-he-was-just-like-bryan-from-the-resident-evil-movie-when-he-played-re1-in-1996-i-kept-getting-game-over-after-game-over-shouting-f/",
-          "titre": "Kojima says he was 'just like Bryan' from the Resident Evil movie when he played RE1 in 1996: 'I kept getting game over after game over, shouting F***!'"
-        }
-      ]
-    },
-    {
-      "id": "send-in-the-clown-is-a-turn-based-rpg-comedy-about-fighting",
-      "titre": "Send in the Clown is a turn-based RPG comedy about fighting one annoying child at a birthday party where there's only one fight in the whole game",
-      "url": "https://www.rockpapershotgun.com/send-in-the-clown-is-a-turn-based-rpg-comedy-about-fighting-one-annoying-child-at-a-birthday-party-where-theres-only-one-fight-in-the-whole-game",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/send-in-the-clown-is-a-turn-based-rpg-comedy-about-fighting-one-annoying-child-at-a-birthday-party-where-theres-only-one-fight-in-the-whole-game",
-          "titre": "Send in the Clown is a turn-based RPG comedy about fighting one annoying child at a birthday party where there's only one fight in the whole game"
-        }
-      ]
-    },
-    {
-      "id": "legendary-level-designer-richard-levelord-gray-has-died",
-      "titre": "Legendary level designer Richard 'Levelord' Gray has died",
-      "url": "https://www.pcgamer.com/gaming-industry/legendary-level-designer-richard-levelord-gray-has-died/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/legendary-level-designer-richard-levelord-gray-has-died/",
-          "titre": "Legendary level designer Richard 'Levelord' Gray has died"
         }
       ]
     },
@@ -479,7 +413,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 6.6,
       "chaleur": 6,
       "liens": [
         {
@@ -497,7 +431,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.5,
       "chaleur": 6,
       "liens": [
         {
@@ -515,7 +449,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.3,
       "chaleur": 6,
       "liens": [
         {
@@ -526,56 +460,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mini-review-resident-evil-2-deluxe-edition-switch-2-finally",
-      "titre": "Mini Review: Resident Evil 2 Deluxe Edition (Switch 2) - Finally Gets The Treatment It Deserves",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/resident-evil-2-deluxe-edition",
+      "id": "gta-3-s-iconic-box-art-was-changed-at-the-last-minute-becaus",
+      "titre": "GTA 3's iconic box art was changed at the last minute because of 9/11, ex-Rockstar lead Dan Houser reveals",
+      "url": "https://www.eurogamer.net/dan-houser-gta-3-boxart-9-11",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 12.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/resident-evil-2-deluxe-edition",
-          "titre": "Mini Review: Resident Evil 2 Deluxe Edition (Switch 2) - Finally Gets The Treatment It Deserves"
-        }
-      ]
-    },
-    {
-      "id": "amd-has-reportedly-already-raised-gddr6-prices-for-its-graph",
-      "titre": "AMD has reportedly already raised GDDR6 prices for its graphics card partners, so you'll find no solace from spiking GPU prices with Team Red",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-has-reportedly-already-raised-gddr6-prices-for-its-graphics-card-partners-so-youll-find-no-solace-from-spiking-gpu-prices-with-team-red/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-has-reportedly-already-raised-gddr6-prices-for-its-graphics-card-partners-so-youll-find-no-solace-from-spiking-gpu-prices-with-team-red/",
-          "titre": "AMD has reportedly already raised GDDR6 prices for its graphics card partners, so you'll find no solace from spiking GPU prices with Team Red"
-        }
-      ]
-    },
-    {
-      "id": "the-pc-version-of-grand-theft-auto-6-is-reportedly-coming-be",
-      "titre": "The PC version of Grand Theft Auto 6 is reportedly coming before the end of March 2027",
-      "url": "https://www.videogameschronicle.com/news/the-pc-version-of-grand-theft-auto-6-is-reportedly-coming-before-the-end-of-march-2027/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-pc-version-of-grand-theft-auto-6-is-reportedly-coming-before-the-end-of-march-2027/",
-          "titre": "The PC version of Grand Theft Auto 6 is reportedly coming before the end of March 2027"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dan-houser-gta-3-boxart-9-11",
+          "titre": "GTA 3's iconic box art was changed at the last minute because of 9/11, ex-Rockstar lead Dan Houser reveals"
         }
       ]
     },
@@ -587,13 +485,55 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 15.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/10-games-you-need-to-play-before-gta-6-takes-over-the-world/",
           "titre": "10 games you need to play before GTA 6 takes over the world"
+        }
+      ]
+    },
+    {
+      "id": "dragon-quest-creator-yuji-horii-releases-game-he-says-he-mad",
+      "titre": "Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes",
+      "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 31.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
+          "titre": "Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dragon-quest-yuji-horii-new-game-ai-30-minutes",
+          "titre": "Dragon Quest co-creator Yuji Horii releases new AI-generated game, and he says it took 30 minutes to make"
+        }
+      ]
+    },
+    {
+      "id": "the-pc-version-of-grand-theft-auto-6-is-reportedly-coming-be",
+      "titre": "The PC version of Grand Theft Auto 6 is reportedly coming before the end of March 2027",
+      "url": "https://www.videogameschronicle.com/news/the-pc-version-of-grand-theft-auto-6-is-reportedly-coming-before-the-end-of-march-2027/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 12.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-pc-version-of-grand-theft-auto-6-is-reportedly-coming-before-the-end-of-march-2027/",
+          "titre": "The PC version of Grand Theft Auto 6 is reportedly coming before the end of March 2027"
         }
       ]
     },
@@ -605,7 +545,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.3,
       "chaleur": 5,
       "liens": [
         {
@@ -623,7 +563,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 15.5,
       "chaleur": 5,
       "liens": [
         {
@@ -641,7 +581,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 16.0,
       "chaleur": 5,
       "liens": [
         {
@@ -659,7 +599,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.1,
       "chaleur": 5,
       "liens": [
         {
@@ -677,7 +617,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 17.7,
       "chaleur": 5,
       "liens": [
         {
@@ -695,7 +635,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 21.6,
       "chaleur": 5,
       "liens": [
         {
@@ -713,7 +653,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.1,
+      "heures": 25.9,
       "chaleur": 5,
       "liens": [
         {
@@ -731,7 +671,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 30.7,
+      "heures": 32.6,
       "chaleur": 5,
       "liens": [
         {
@@ -749,7 +689,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 32.0,
+      "heures": 33.8,
       "chaleur": 5,
       "liens": [
         {
@@ -767,7 +707,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 32.4,
+      "heures": 34.2,
       "chaleur": 5,
       "liens": [
         {
@@ -778,20 +718,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mini-review-bluey-s-happy-snaps-switch-2-a-light-breezy-phot",
-      "titre": "Mini Review: Bluey's Happy Snaps (Switch 2) - A Light, Breezy Photography Adventure",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/blueys-happy-snaps",
+      "id": "rockstar-co-founder-dan-houser-says-he-failed-with-max-payne",
+      "titre": "Rockstar co-founder Dan Houser says he 'failed' with Max Payne 3, and I'm sorry Danno but that's just plain wrong",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/rockstar-co-founder-dan-houser-says-he-failed-with-max-payne-3-and-im-sorry-danno-but-thats-just-plain-wrong/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 35.7,
-      "chaleur": 5,
+      "heures": 4.2,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/blueys-happy-snaps",
-          "titre": "Mini Review: Bluey's Happy Snaps (Switch 2) - A Light, Breezy Photography Adventure"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/rockstar-co-founder-dan-houser-says-he-failed-with-max-payne-3-and-im-sorry-danno-but-thats-just-plain-wrong/",
+          "titre": "Rockstar co-founder Dan Houser says he 'failed' with Max Payne 3, and I'm sorry Danno but that's just plain wrong"
+        }
+      ]
+    },
+    {
+      "id": "kojima-says-he-was-just-like-bryan-from-the-resident-evil-mo",
+      "titre": "Kojima says he was 'just like Bryan' from the Resident Evil movie when he played RE1 in 1996: 'I kept getting game over after game over, shouting F***!'",
+      "url": "https://www.pcgamer.com/movies-tv/kojima-says-he-was-just-like-bryan-from-the-resident-evil-movie-when-he-played-re1-in-1996-i-kept-getting-game-over-after-game-over-shouting-f/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/kojima-says-he-was-just-like-bryan-from-the-resident-evil-movie-when-he-played-re1-in-1996-i-kept-getting-game-over-after-game-over-shouting-f/",
+          "titre": "Kojima says he was 'just like Bryan' from the Resident Evil movie when he played RE1 in 1996: 'I kept getting game over after game over, shouting F***!'"
+        }
+      ]
+    },
+    {
+      "id": "send-in-the-clown-is-a-turn-based-rpg-comedy-about-fighting",
+      "titre": "Send in the Clown is a turn-based RPG comedy about fighting one annoying child at a birthday party where there's only one fight in the whole game",
+      "url": "https://www.rockpapershotgun.com/send-in-the-clown-is-a-turn-based-rpg-comedy-about-fighting-one-annoying-child-at-a-birthday-party-where-theres-only-one-fight-in-the-whole-game",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/send-in-the-clown-is-a-turn-based-rpg-comedy-about-fighting-one-annoying-child-at-a-birthday-party-where-theres-only-one-fight-in-the-whole-game",
+          "titre": "Send in the Clown is a turn-based RPG comedy about fighting one annoying child at a birthday party where there's only one fight in the whole game"
+        }
+      ]
+    },
+    {
+      "id": "legendary-level-designer-richard-levelord-gray-has-died",
+      "titre": "Legendary level designer Richard 'Levelord' Gray has died",
+      "url": "https://www.pcgamer.com/gaming-industry/legendary-level-designer-richard-levelord-gray-has-died/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/legendary-level-designer-richard-levelord-gray-has-died/",
+          "titre": "Legendary level designer Richard 'Levelord' Gray has died"
         }
       ]
     },
@@ -803,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 5.9,
       "chaleur": 4,
       "liens": [
         {
@@ -821,7 +815,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.0,
       "chaleur": 4,
       "liens": [
         {
@@ -839,7 +833,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -857,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -875,7 +869,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -893,7 +887,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -911,13 +905,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/modern-warfare-4-is-the-latest-call-of-duty-to-launch-without-a-ps5-platinum-trophy",
           "titre": "Modern Warfare 4 Is the Latest Call of Duty to Launch without a PS5 Platinum Trophy"
+        }
+      ]
+    },
+    {
+      "id": "how-to-complete-an-unheard-farewell-in-valor-mortis",
+      "titre": "How to complete An Unheard Farewell in Valor Mortis",
+      "url": "https://www.pcgamer.com/games/action/valor-mortis-an-unheard-farewell-walkthrough/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 9.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/valor-mortis-an-unheard-farewell-walkthrough/",
+          "titre": "How to complete An Unheard Farewell in Valor Mortis"
         }
       ]
     },
@@ -929,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -947,7 +959,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -965,7 +977,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -983,7 +995,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.7,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1001,7 +1013,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
+      "heures": 11.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1019,8 +1031,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1037,8 +1049,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1055,8 +1067,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1073,8 +1085,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1091,8 +1103,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -1109,8 +1121,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1127,31 +1139,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 14.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/guide/dragons-dogma-2-guides-hub/",
           "titre": "Dragon’s Dogma 2: Dark Arisen complete walkthrough hub"
-        }
-      ]
-    },
-    {
-      "id": "skyrim-gets-surprise-dlc-drop-on-ps5-its-biggest-in-years",
-      "titre": "Skyrim Gets Surprise DLC Drop on PS5, Its Biggest in Years",
-      "url": "https://www.pushsquare.com/news/2026/10/skyrim-gets-surprise-dlc-drop-on-ps5-its-biggest-in-years",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 12.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/skyrim-gets-surprise-dlc-drop-on-ps5-its-biggest-in-years",
-          "titre": "Skyrim Gets Surprise DLC Drop on PS5, Its Biggest in Years"
         }
       ]
     }
