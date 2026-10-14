@@ -1,26 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "14/10/2026 à 02h31",
+  "collecte": "14/10/2026 à 04h35",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "hundreds-of-layoffs-and-many-cancelled-projects-later-xbox-c",
-      "titre": "Hundreds of layoffs and many cancelled projects later, Xbox CEO Asha Sharma reportedly says 'we will not survive' without new IPs",
-      "url": "https://www.pcgamer.com/gaming-industry/hundreds-of-layoffs-and-many-cancelled-projects-later-xbox-ceo-asha-sharma-reportedly-says-we-will-not-survive-without-new-ips/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 14,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/hundreds-of-layoffs-and-many-cancelled-projects-later-xbox-ceo-asha-sharma-reportedly-says-we-will-not-survive-without-new-ips/",
-          "titre": "Hundreds of layoffs and many cancelled projects later, Xbox CEO Asha Sharma reportedly says 'we will not survive' without new IPs"
-        }
-      ]
-    },
     {
       "id": "no-more-hand-written-code-epic-reportedly-adopts-ai-first-p",
       "titre": "\"No More Hand-Written Code\" - Epic Reportedly Adopts \"AI First\" Production Model On New Disney Shooter",
@@ -31,7 +13,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 24.9,
+      "heures": 27.0,
       "chaleur": 13,
       "liens": [
         {
@@ -52,60 +34,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "round-up-the-reviews-for-castlevania-belmont-s-curse-are-in",
-      "titre": "Round Up: The Reviews For Castlevania: Belmont's Curse Are In",
-      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-castlevania-belmonts-curse-are-in",
-      "sources": [
-        "Nintendo Life",
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 2.6,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-castlevania-belmonts-curse-are-in",
-          "titre": "Round Up: The Reviews For Castlevania: Belmont's Curse Are In"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/castlevania-belmonts-curse-review-a-fantastic-action-game-a-less-than-stellar-metroidvania",
-          "titre": "Castlevania: Belmont’s Curse review - a fantastic action game, a less than stellar Metroidvania"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/castlevania-belmonts-curse",
-          "titre": "Review: Castlevania: Belmont's Curse (PS5) - The Classic Series Returns in a Perfectly Fine Metroidvania"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-pc-release-planned-for-early-2027-report-claims-which",
-      "titre": "GTA 6 PC release planned for early 2027, report claims, which could mean we're playing in time for GTA Online 2: Vice City 4 U or whatever they call it",
-      "url": "https://www.rockpapershotgun.com/gta-6-pc-release-planned-for-early-2027-report-claims-which-could-mean-were-playing-in-time-for-gta-online-2-vice-city-4-u-or-whatever-they-call-it",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 11.0,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/gta-6-pc-release-planned-for-early-2027-report-claims-which-could-mean-were-playing-in-time-for-gta-online-2-vice-city-4-u-or-whatever-they-call-it",
-          "titre": "GTA 6 PC release planned for early 2027, report claims, which could mean we're playing in time for GTA Online 2: Vice City 4 U or whatever they call it"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6s-pc-release-date-is-set-for-q1-2027-per-a-new-report",
-          "titre": "GTA 6's PC release date is set for \"Q1 2027\", per a new report"
-        }
-      ]
-    },
-    {
       "id": "ea-reckons-battlefield-6-deserves-a-game-of-the-year-edition",
       "titre": "EA Reckons Battlefield 6 Deserves a Game of the Year Edition",
       "url": "https://www.pushsquare.com/news/2026/10/ea-reckons-battlefield-6-deserves-a-game-of-the-year-edition",
@@ -114,7 +42,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.5,
+      "heures": 3.6,
       "chaleur": 11,
       "liens": [
         {
@@ -130,6 +58,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "gta-6-pc-release-planned-for-early-2027-report-claims-which",
+      "titre": "GTA 6 PC release planned for early 2027, report claims, which could mean we're playing in time for GTA Online 2: Vice City 4 U or whatever they call it",
+      "url": "https://www.rockpapershotgun.com/gta-6-pc-release-planned-for-early-2027-report-claims-which-could-mean-were-playing-in-time-for-gta-online-2-vice-city-4-u-or-whatever-they-call-it",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 13.1,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/gta-6-pc-release-planned-for-early-2027-report-claims-which-could-mean-were-playing-in-time-for-gta-online-2-vice-city-4-u-or-whatever-they-call-it",
+          "titre": "GTA 6 PC release planned for early 2027, report claims, which could mean we're playing in time for GTA Online 2: Vice City 4 U or whatever they call it"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6s-pc-release-date-is-set-for-q1-2027-per-a-new-report",
+          "titre": "GTA 6's PC release date is set for \"Q1 2027\", per a new report"
+        }
+      ]
+    },
+    {
       "id": "japan-is-getting-an-exclusive-midnight-black-playstation-5-n",
       "titre": "Japan is getting an exclusive Midnight Black PlayStation 5 next month, but there's still hope for the rest of the world",
       "url": "https://www.eurogamer.net/playstation-5-midnight-black-japan-only",
@@ -139,7 +91,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 13.5,
+      "heures": 15.6,
       "chaleur": 11,
       "liens": [
         {
@@ -160,6 +112,54 @@ const VEILLE = {
       ]
     },
     {
+      "id": "round-up-the-reviews-for-castlevania-belmont-s-curse-are-in",
+      "titre": "Round Up: The Reviews For Castlevania: Belmont's Curse Are In",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-castlevania-belmonts-curse-are-in",
+      "sources": [
+        "Nintendo Life",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 4.7,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-castlevania-belmonts-curse-are-in",
+          "titre": "Round Up: The Reviews For Castlevania: Belmont's Curse Are In"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/castlevania-belmonts-curse-review-a-fantastic-action-game-a-less-than-stellar-metroidvania",
+          "titre": "Castlevania: Belmont’s Curse review - a fantastic action game, a less than stellar Metroidvania"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/castlevania-belmonts-curse",
+          "titre": "Review: Castlevania: Belmont's Curse (PS5) - The Classic Series Returns in a Perfectly Fine Metroidvania"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-expands-switch-online-s-gba-library-with-three-more",
+      "titre": "Nintendo Expands Switch Online's GBA Library With Three More Titles",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-gba-library-with-three-more-titles",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-gba-library-with-three-more-titles",
+          "titre": "Nintendo Expands Switch Online's GBA Library With Three More Titles"
+        }
+      ]
+    },
+    {
       "id": "that-was-not-received-well-at-nintendo-as-gta-6-and-zelda-a",
       "titre": "\"That was not received well at Nintendo\" - as GTA 6 and Zelda are lampooned by Saturday Night Live, former employees recall Elon Musk Wario skit controversy",
       "url": "https://www.eurogamer.net/snl-elon-musk-wario-skit-zelda-gta-6",
@@ -168,8 +168,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 11.0,
-      "chaleur": 10,
+      "heures": 13.0,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
@@ -184,20 +184,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-expands-switch-online-s-gba-library-with-three-more",
-      "titre": "Nintendo Expands Switch Online's GBA Library With Three More Titles",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-gba-library-with-three-more-titles",
+      "id": "steam-now-has-a-maddening-bouncing-logo-screensaver-and-i-m",
+      "titre": "Steam now has a maddening bouncing logo screensaver, and I'm pretty sure it doesn't perfectly hit the corners",
+      "url": "https://www.pcgamer.com/software/platforms/steam-now-has-a-maddening-bouncing-logo-screensaver-and-im-pretty-sure-it-doesnt-touch-the-corners/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/platforms/steam-now-has-a-maddening-bouncing-logo-screensaver-and-im-pretty-sure-it-doesnt-touch-the-corners/",
+          "titre": "Steam now has a maddening bouncing logo screensaver, and I'm pretty sure it doesn't perfectly hit the corners"
+        }
+      ]
+    },
+    {
+      "id": "oblivion-remastered-gets-a-new-switch-2-update-resolves-glob",
+      "titre": "Oblivion Remastered Gets A New Switch 2 Update, Resolves \"Global Visual Degradation\" Issue",
+      "url": "https://www.nintendolife.com/news/2026/10/oblivion-remastered-gets-a-new-switch-2-update-resolves-global-visual-degradation-issue",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.3,
-      "chaleur": 9,
+      "heures": 1.8,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-gba-library-with-three-more-titles",
-          "titre": "Nintendo Expands Switch Online's GBA Library With Three More Titles"
+          "url": "https://www.nintendolife.com/news/2026/10/oblivion-remastered-gets-a-new-switch-2-update-resolves-global-visual-degradation-issue",
+          "titre": "Oblivion Remastered Gets A New Switch 2 Update, Resolves \"Global Visual Degradation\" Issue"
         }
       ]
     },
@@ -209,8 +227,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 9,
+      "heures": 13.3,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Push Square",
@@ -228,7 +246,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 9.5,
+      "heures": 11.6,
       "chaleur": 7,
       "liens": [
         {
@@ -251,7 +269,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.6,
       "chaleur": 7,
       "liens": [
         {
@@ -269,7 +287,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 18.0,
       "chaleur": 7,
       "liens": [
         {
@@ -287,7 +305,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 33.4,
       "chaleur": 7,
       "liens": [
         {
@@ -341,7 +359,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
@@ -359,49 +377,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-is-clearing-out-its-discontinued-index-vr-headsets-if-you-want-a-cheap-piece-of-history/",
           "titre": "Valve is clearing out its discontinued Index VR headsets if you want a cheap piece of history"
-        }
-      ]
-    },
-    {
-      "id": "first-ps-plus-extra-game-removal-for-november-2026-confirmed",
-      "titre": "First PS Plus Extra Game Removal for November 2026 Confirmed",
-      "url": "https://www.pushsquare.com/news/2026/10/first-ps-plus-extra-game-removal-for-november-2026-confirmed",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/first-ps-plus-extra-game-removal-for-november-2026-confirmed",
-          "titre": "First PS Plus Extra Game Removal for November 2026 Confirmed"
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-remastered-ps5-players-start-to-wonder-where-a",
-      "titre": "The Witcher 3 Remastered PS5 Players Start to Wonder Where All the Mods Are",
-      "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastered-ps5-players-start-to-wonder-where-all-the-mods-are",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastered-ps5-players-start-to-wonder-where-all-the-mods-are",
-          "titre": "The Witcher 3 Remastered PS5 Players Start to Wonder Where All the Mods Are"
         }
       ]
     },
@@ -413,7 +395,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 8.7,
       "chaleur": 6,
       "liens": [
         {
@@ -431,31 +413,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 9.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology",
           "titre": "Xbox announces Xbox Labs, a new initiative to trial emerging ideas and \"new technology\""
-        }
-      ]
-    },
-    {
-      "id": "cd-projekt-red-reassures-players-the-witcher-3-switch-2-patc",
-      "titre": "CD Projekt Red reassures players The Witcher 3 Switch 2 patch still due, as update rolls out for PS5 and PS5 Pro",
-      "url": "https://www.eurogamer.net/witcher-3-remastered-ps5-pro-switch-patch",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-remastered-ps5-pro-switch-patch",
-          "titre": "CD Projekt Red reassures players The Witcher 3 Switch 2 patch still due, as update rolls out for PS5 and PS5 Pro"
         }
       ]
     },
@@ -467,7 +431,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 15.0,
       "chaleur": 6,
       "liens": [
         {
@@ -485,7 +449,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.6,
       "chaleur": 6,
       "liens": [
         {
@@ -504,7 +468,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 31.7,
+      "heures": 33.8,
       "chaleur": 6,
       "liens": [
         {
@@ -520,6 +484,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "cd-projekt-red-reassures-players-the-witcher-3-switch-2-patc",
+      "titre": "CD Projekt Red reassures players The Witcher 3 Switch 2 patch still due, as update rolls out for PS5 and PS5 Pro",
+      "url": "https://www.eurogamer.net/witcher-3-remastered-ps5-pro-switch-patch",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 12.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/witcher-3-remastered-ps5-pro-switch-patch",
+          "titre": "CD Projekt Red reassures players The Witcher 3 Switch 2 patch still due, as update rolls out for PS5 and PS5 Pro"
+        }
+      ]
+    },
+    {
       "id": "the-pc-version-of-grand-theft-auto-6-is-reportedly-coming-be",
       "titre": "The PC version of Grand Theft Auto 6 is reportedly coming before the end of March 2027",
       "url": "https://www.videogameschronicle.com/news/the-pc-version-of-grand-theft-auto-6-is-reportedly-coming-before-the-end-of-march-2027/",
@@ -527,7 +509,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.5,
       "chaleur": 5,
       "liens": [
         {
@@ -545,7 +527,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 16.4,
       "chaleur": 5,
       "liens": [
         {
@@ -563,7 +545,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 17.6,
       "chaleur": 5,
       "liens": [
         {
@@ -581,7 +563,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 18.1,
       "chaleur": 5,
       "liens": [
         {
@@ -599,7 +581,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 19.2,
       "chaleur": 5,
       "liens": [
         {
@@ -617,7 +599,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.7,
+      "heures": 19.7,
       "chaleur": 5,
       "liens": [
         {
@@ -635,7 +617,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.6,
+      "heures": 23.7,
       "chaleur": 5,
       "liens": [
         {
@@ -653,7 +635,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.9,
+      "heures": 27.9,
       "chaleur": 5,
       "liens": [
         {
@@ -671,7 +653,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 32.6,
+      "heures": 34.6,
       "chaleur": 5,
       "liens": [
         {
@@ -689,7 +671,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.8,
+      "heures": 35.8,
       "chaleur": 5,
       "liens": [
         {
@@ -700,20 +682,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-produc",
-      "titre": "Nvidia reportedly ends GeForce RTX 5090 graphics card production",
-      "url": "https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production",
+      "id": "first-ps-plus-extra-game-removal-for-november-2026-confirmed",
+      "titre": "First PS Plus Extra Game Removal for November 2026 Confirmed",
+      "url": "https://www.pushsquare.com/news/2026/10/first-ps-plus-extra-game-removal-for-november-2026-confirmed",
       "sources": [
-        "GamesIndustry.biz"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 34.2,
-      "chaleur": 5,
+      "heures": 4.6,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production",
-          "titre": "Nvidia reportedly ends GeForce RTX 5090 graphics card production"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/first-ps-plus-extra-game-removal-for-november-2026-confirmed",
+          "titre": "First PS Plus Extra Game Removal for November 2026 Confirmed"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-remastered-ps5-players-start-to-wonder-where-a",
+      "titre": "The Witcher 3 Remastered PS5 Players Start to Wonder Where All the Mods Are",
+      "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastered-ps5-players-start-to-wonder-where-all-the-mods-are",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastered-ps5-players-start-to-wonder-where-all-the-mods-are",
+          "titre": "The Witcher 3 Remastered PS5 Players Start to Wonder Where All the Mods Are"
         }
       ]
     },
@@ -725,7 +725,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.3,
       "chaleur": 4,
       "liens": [
         {
@@ -743,7 +743,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -761,7 +761,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.7,
       "chaleur": 4,
       "liens": [
         {
@@ -779,7 +779,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -797,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +815,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -833,7 +833,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -851,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -869,7 +869,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +887,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -905,31 +905,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/modern-warfare-4-is-the-latest-call-of-duty-to-launch-without-a-ps5-platinum-trophy",
           "titre": "Modern Warfare 4 Is the Latest Call of Duty to Launch without a PS5 Platinum Trophy"
-        }
-      ]
-    },
-    {
-      "id": "how-to-complete-an-unheard-farewell-in-valor-mortis",
-      "titre": "How to complete An Unheard Farewell in Valor Mortis",
-      "url": "https://www.pcgamer.com/games/action/valor-mortis-an-unheard-farewell-walkthrough/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/valor-mortis-an-unheard-farewell-walkthrough/",
-          "titre": "How to complete An Unheard Farewell in Valor Mortis"
         }
       ]
     },
@@ -941,7 +923,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -977,8 +959,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -995,8 +977,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1013,8 +995,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1031,7 +1013,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,7 +1031,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 14.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,7 +1049,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 14.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1085,7 +1067,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 15.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1103,7 +1085,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1121,7 +1103,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 15.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1139,13 +1121,31 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 16.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/guide/dragons-dogma-2-guides-hub/",
           "titre": "Dragon’s Dogma 2: Dark Arisen complete walkthrough hub"
+        }
+      ]
+    },
+    {
+      "id": "skyrim-gets-surprise-dlc-drop-on-ps5-its-biggest-in-years",
+      "titre": "Skyrim Gets Surprise DLC Drop on PS5, Its Biggest in Years",
+      "url": "https://www.pushsquare.com/news/2026/10/skyrim-gets-surprise-dlc-drop-on-ps5-its-biggest-in-years",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 16.1,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/skyrim-gets-surprise-dlc-drop-on-ps5-its-biggest-in-years",
+          "titre": "Skyrim Gets Surprise DLC Drop on PS5, Its Biggest in Years"
         }
       ]
     }
