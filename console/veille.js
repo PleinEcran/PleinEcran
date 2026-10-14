@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "13/10/2026 à 22h31",
+  "collecte": "14/10/2026 à 00h42",
   "seuil": 14,
   "sujets": [
     {
@@ -11,7 +11,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 9.8,
       "chaleur": 14,
       "liens": [
         {
@@ -31,7 +31,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 20.9,
+      "heures": 23.1,
       "chaleur": 13,
       "liens": [
         {
@@ -52,6 +52,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "round-up-the-reviews-for-castlevania-belmont-s-curse-are-in",
+      "titre": "Round Up: The Reviews For Castlevania: Belmont's Curse Are In",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-castlevania-belmonts-curse-are-in",
+      "sources": [
+        "Nintendo Life",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 0.8,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-castlevania-belmonts-curse-are-in",
+          "titre": "Round Up: The Reviews For Castlevania: Belmont's Curse Are In"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/castlevania-belmonts-curse-review-a-fantastic-action-game-a-less-than-stellar-metroidvania",
+          "titre": "Castlevania: Belmont’s Curse review - a fantastic action game, a less than stellar Metroidvania"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/castlevania-belmonts-curse",
+          "titre": "Review: Castlevania: Belmont's Curse (PS5) - The Classic Series Returns in a Perfectly Fine Metroidvania"
+        }
+      ]
+    },
+    {
       "id": "gta-6-pc-release-planned-for-early-2027-report-claims-which",
       "titre": "GTA 6 PC release planned for early 2027, report claims, which could mean we're playing in time for GTA Online 2: Vice City 4 U or whatever they call it",
       "url": "https://www.rockpapershotgun.com/gta-6-pc-release-planned-for-early-2027-report-claims-which-could-mean-were-playing-in-time-for-gta-online-2-vice-city-4-u-or-whatever-they-call-it",
@@ -60,7 +90,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 7.0,
+      "heures": 9.2,
       "chaleur": 12,
       "liens": [
         {
@@ -85,7 +115,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 9.5,
+      "heures": 11.7,
       "chaleur": 12,
       "liens": [
         {
@@ -106,42 +136,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "dragon-quest-creator-yuji-horii-releases-game-he-says-he-mad",
-      "titre": "Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes",
-      "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz",
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 4,
-      "heures": 27.7,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
-          "titre": "Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/the-crazy-wait-for-dragon-quest-12-made-worse-by-creators-astonishing-praise-for-ai",
-          "titre": "The Crazy Wait for Dragon Quest 12 Made Worse by Creator's 'Astonishing' Praise for AI"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dragon-quest-yuji-horii-new-game-ai-30-minutes",
-          "titre": "Dragon Quest co-creator Yuji Horii releases new AI-generated game, and he says it took 30 minutes to make"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/its-truly-astonishing-dragon-quest-creator-yuji-horii-made-an-ai-generated-game-in-30-minutes",
-          "titre": "\"It's Truly Astonishing\" - Dragon Quest Creator Yuji Horii Made An AI-Generated Game In 30 Minutes"
-        }
-      ]
-    },
-    {
       "id": "that-was-not-received-well-at-nintendo-as-gta-6-and-zelda-a",
       "titre": "\"That was not received well at Nintendo\" - as GTA 6 and Zelda are lampooned by Saturday Night Live, former employees recall Elon Musk Wario skit controversy",
       "url": "https://www.eurogamer.net/snl-elon-musk-wario-skit-zelda-gta-6",
@@ -150,7 +144,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 7.0,
+      "heures": 9.1,
       "chaleur": 10,
       "liens": [
         {
@@ -166,30 +160,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "cd-projekt-red-reassures-players-the-witcher-3-switch-2-patc",
-      "titre": "CD Projekt Red reassures players The Witcher 3 Switch 2 patch still due, as update rolls out for PS5 and PS5 Pro",
-      "url": "https://www.eurogamer.net/witcher-3-remastered-ps5-pro-switch-patch",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 6.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-remastered-ps5-pro-switch-patch",
-          "titre": "CD Projekt Red reassures players The Witcher 3 Switch 2 patch still due, as update rolls out for PS5 and PS5 Pro"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastered-patch-specifically-targets-ps5-ps5-pro-problems",
-          "titre": "The Witcher 3 Remastered Patch Specifically Targets PS5, PS5 Pro Problems"
-        }
-      ]
-    },
-    {
       "id": "rumour-gta-6-will-be-ported-to-pc-in-record-time-following-i",
       "titre": "Rumour: GTA 6 Will Be Ported to PC in Record Time Following Its Debut on PS5",
       "url": "https://www.pushsquare.com/news/2026/10/rumour-gta-6-will-be-ported-to-pc-in-record-time-following-its-debut-on-ps5",
@@ -197,7 +167,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.5,
       "chaleur": 9,
       "liens": [
         {
@@ -208,56 +178,32 @@ const VEILLE = {
       ]
     },
     {
-      "id": "asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-p",
-      "titre": "Asha Sharma forms ‘Xbox Labs’ in response to explosion of AI-powered mods and ports",
-      "url": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/",
+      "id": "dragon-quest-creator-yuji-horii-releases-game-he-says-he-mad",
+      "titre": "Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes",
+      "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
       "sources": [
-        "VGC"
+        "Eurogamer",
+        "GamesIndustry.biz",
+        "Push Square"
       ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/",
-          "titre": "Asha Sharma forms ‘Xbox Labs’ in response to explosion of AI-powered mods and ports"
-        }
-      ]
-    },
-    {
-      "id": "xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging",
-      "titre": "Xbox announces Xbox Labs, a new initiative to trial emerging ideas and \"new technology\"",
-      "url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 8,
+      "reprises": 3,
+      "heures": 29.9,
+      "chaleur": 9,
       "liens": [
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology",
-          "titre": "Xbox announces Xbox Labs, a new initiative to trial emerging ideas and \"new technology\""
-        }
-      ]
-    },
-    {
-      "id": "asha-sharma-reportedly-tells-rattled-xbox-employees-we-have",
-      "titre": "Asha Sharma reportedly tells rattled Xbox employees: \"We have to find new ways, and courage, to have invention on new IP\"",
-      "url": "https://www.eurogamer.net/asha-sharma-xbox-town-hall-new-ip",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 8,
-      "liens": [
+          "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
+          "titre": "Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/the-crazy-wait-for-dragon-quest-12-made-worse-by-creators-astonishing-praise-for-ai",
+          "titre": "The Crazy Wait for Dragon Quest 12 Made Worse by Creator's 'Astonishing' Praise for AI"
+        },
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/asha-sharma-xbox-town-hall-new-ip",
-          "titre": "Asha Sharma reportedly tells rattled Xbox employees: \"We have to find new ways, and courage, to have invention on new IP\""
+          "url": "https://www.eurogamer.net/dragon-quest-yuji-horii-new-game-ai-30-minutes",
+          "titre": "Dragon Quest co-creator Yuji Horii releases new AI-generated game, and he says it took 30 minutes to make"
         }
       ]
     },
@@ -270,7 +216,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 5.5,
+      "heures": 7.7,
       "chaleur": 7,
       "liens": [
         {
@@ -294,7 +240,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 5.5,
+      "heures": 7.7,
       "chaleur": 7,
       "liens": [
         {
@@ -317,7 +263,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.7,
       "chaleur": 7,
       "liens": [
         {
@@ -335,7 +281,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 11.1,
       "chaleur": 7,
       "liens": [
         {
@@ -346,20 +292,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "10-games-you-need-to-play-before-gta-6-takes-over-the-world",
-      "titre": "10 games you need to play before GTA 6 takes over the world",
-      "url": "https://www.videogameschronicle.com/news/10-games-you-need-to-play-before-gta-6-takes-over-the-world/",
+      "id": "asha-sharma-reportedly-tells-rattled-xbox-employees-we-have",
+      "titre": "Asha Sharma reportedly tells rattled Xbox employees: \"We have to find new ways, and courage, to have invention on new IP\"",
+      "url": "https://www.eurogamer.net/asha-sharma-xbox-town-hall-new-ip",
       "sources": [
-        "VGC"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.6,
+      "heures": 14.1,
       "chaleur": 7,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/10-games-you-need-to-play-before-gta-6-takes-over-the-world/",
-          "titre": "10 games you need to play before GTA 6 takes over the world"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/asha-sharma-xbox-town-hall-new-ip",
+          "titre": "Asha Sharma reportedly tells rattled Xbox employees: \"We have to find new ways, and courage, to have invention on new IP\""
         }
       ]
     },
@@ -371,7 +317,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 29.5,
       "chaleur": 7,
       "liens": [
         {
@@ -418,6 +364,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "first-ps-plus-extra-game-removal-for-november-2026-confirmed",
+      "titre": "First PS Plus Extra Game Removal for November 2026 Confirmed",
+      "url": "https://www.pushsquare.com/news/2026/10/first-ps-plus-extra-game-removal-for-november-2026-confirmed",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/first-ps-plus-extra-game-removal-for-november-2026-confirmed",
+          "titre": "First PS Plus Extra Game Removal for November 2026 Confirmed"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-remastered-ps5-players-start-to-wonder-where-a",
+      "titre": "The Witcher 3 Remastered PS5 Players Start to Wonder Where All the Mods Are",
+      "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastered-ps5-players-start-to-wonder-where-all-the-mods-are",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastered-ps5-players-start-to-wonder-where-all-the-mods-are",
+          "titre": "The Witcher 3 Remastered PS5 Players Start to Wonder Where All the Mods Are"
+        }
+      ]
+    },
+    {
       "id": "rockstar-co-founder-dan-houser-says-he-failed-with-max-payne",
       "titre": "Rockstar co-founder Dan Houser says he 'failed' with Max Payne 3, and I'm sorry Danno but that's just plain wrong",
       "url": "https://www.pcgamer.com/games/third-person-shooter/rockstar-co-founder-dan-houser-says-he-failed-with-max-payne-3-and-im-sorry-danno-but-thats-just-plain-wrong/",
@@ -425,7 +407,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
@@ -443,7 +425,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -461,7 +443,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.8,
       "chaleur": 6,
       "liens": [
         {
@@ -479,7 +461,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -490,38 +472,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "world-of-warcraft-forever-won-t-destroy-what-made-the-old-cl",
-      "titre": "World of Warcraft: Forever won't destroy what made the old classes so satisfying by modernizing them into oblivion: 'The level of mechanical complexity found in the beta classes is indicative of our intentions'",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-wont-destroy-what-made-the-old-classes-so-satisfying-by-modernizing-them-into-oblivion-the-level-of-mechanical-complexity-found-in-the-beta-classes-is-indicative-of-our-intentions/",
+      "id": "asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-p",
+      "titre": "Asha Sharma forms ‘Xbox Labs’ in response to explosion of AI-powered mods and ports",
+      "url": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/",
       "sources": [
-        "PC Gamer"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 4.8,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-wont-destroy-what-made-the-old-classes-so-satisfying-by-modernizing-them-into-oblivion-the-level-of-mechanical-complexity-found-in-the-beta-classes-is-indicative-of-our-intentions/",
-          "titre": "World of Warcraft: Forever won't destroy what made the old classes so satisfying by modernizing them into oblivion: 'The level of mechanical complexity found in the beta classes is indicative of our intentions'"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/",
+          "titre": "Asha Sharma forms ‘Xbox Labs’ in response to explosion of AI-powered mods and ports"
         }
       ]
     },
     {
-      "id": "escher-s-dream-is-a-portal-2-mod-inspired-by-the-non-euclide",
-      "titre": "Escher's Dream is a Portal 2 mod inspired by the non-euclidean works of the classic artist that will leave you feeling only a little bit nauseated",
-      "url": "https://www.rockpapershotgun.com/eschers-dream-is-a-portal-2-mod-inspired-by-the-non-euclidian-works-of-the-classic-artist-that-will-leave-you-feeling-only-a-little-bit-nauseated",
+      "id": "xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging",
+      "titre": "Xbox announces Xbox Labs, a new initiative to trial emerging ideas and \"new technology\"",
+      "url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology",
       "sources": [
-        "Rock Paper Shotgun"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 5.7,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/eschers-dream-is-a-portal-2-mod-inspired-by-the-non-euclidian-works-of-the-classic-artist-that-will-leave-you-feeling-only-a-little-bit-nauseated",
-          "titre": "Escher's Dream is a Portal 2 mod inspired by the non-euclidean works of the classic artist that will leave you feeling only a little bit nauseated"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology",
+          "titre": "Xbox announces Xbox Labs, a new initiative to trial emerging ideas and \"new technology\""
+        }
+      ]
+    },
+    {
+      "id": "cd-projekt-red-reassures-players-the-witcher-3-switch-2-patc",
+      "titre": "CD Projekt Red reassures players The Witcher 3 Switch 2 patch still due, as update rolls out for PS5 and PS5 Pro",
+      "url": "https://www.eurogamer.net/witcher-3-remastered-ps5-pro-switch-patch",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 8.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/witcher-3-remastered-ps5-pro-switch-patch",
+          "titre": "CD Projekt Red reassures players The Witcher 3 Switch 2 patch still due, as update rolls out for PS5 and PS5 Pro"
         }
       ]
     },
@@ -533,7 +533,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.4,
+      "heures": 9.5,
       "chaleur": 6,
       "liens": [
         {
@@ -551,7 +551,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 10.0,
       "chaleur": 6,
       "liens": [
         {
@@ -569,13 +569,31 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/the-pc-version-of-grand-theft-auto-6-is-reportedly-coming-before-the-end-of-march-2027/",
           "titre": "The PC version of Grand Theft Auto 6 is reportedly coming before the end of March 2027"
+        }
+      ]
+    },
+    {
+      "id": "10-games-you-need-to-play-before-gta-6-takes-over-the-world",
+      "titre": "10 games you need to play before GTA 6 takes over the world",
+      "url": "https://www.videogameschronicle.com/news/10-games-you-need-to-play-before-gta-6-takes-over-the-world/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 13.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/10-games-you-need-to-play-before-gta-6-takes-over-the-world/",
+          "titre": "10 games you need to play before GTA 6 takes over the world"
         }
       ]
     },
@@ -587,8 +605,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 6,
+      "heures": 12.5,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
@@ -605,55 +623,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 6,
+      "heures": 13.7,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/ratatan",
           "titre": "Review: Ratatan (Switch 2) - Patapon-Style Rhythm-Action Strategy Returns, With A Roguelite Twist"
-        }
-      ]
-    },
-    {
-      "id": "castlevania-belmont-s-curse-review-a-fantastic-action-game-a",
-      "titre": "Castlevania: Belmont’s Curse review - a fantastic action game, a less than stellar Metroidvania",
-      "url": "https://www.rockpapershotgun.com/castlevania-belmonts-curse-review-a-fantastic-action-game-a-less-than-stellar-metroidvania",
-      "sources": [
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 12.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/castlevania-belmonts-curse-review-a-fantastic-action-game-a-less-than-stellar-metroidvania",
-          "titre": "Castlevania: Belmont’s Curse review - a fantastic action game, a less than stellar Metroidvania"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/castlevania-belmonts-curse",
-          "titre": "Review: Castlevania: Belmont's Curse (PS5) - The Classic Series Returns in a Perfectly Fine Metroidvania"
-        }
-      ]
-    },
-    {
-      "id": "group-behind-gta-6-leaks-threatens-to-release-alleged-full-b",
-      "titre": "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode",
-      "url": "https://www.gamesindustry.biz/group-behind-gta-6-leaks-threatens-to-release-alleged-full-build-of-game-including-story-mode",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 36.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/group-behind-gta-6-leaks-threatens-to-release-alleged-full-build-of-game-including-story-mode",
-          "titre": "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode"
         }
       ]
     },
@@ -665,7 +641,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 14.2,
       "chaleur": 5,
       "liens": [
         {
@@ -683,7 +659,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 15.3,
       "chaleur": 5,
       "liens": [
         {
@@ -701,7 +677,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 15.8,
       "chaleur": 5,
       "liens": [
         {
@@ -719,7 +695,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 19.8,
       "chaleur": 5,
       "liens": [
         {
@@ -737,7 +713,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 24.1,
       "chaleur": 5,
       "liens": [
         {
@@ -755,7 +731,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 28.5,
+      "heures": 30.7,
       "chaleur": 5,
       "liens": [
         {
@@ -773,7 +749,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.8,
+      "heures": 32.0,
       "chaleur": 5,
       "liens": [
         {
@@ -791,7 +767,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 30.2,
+      "heures": 32.4,
       "chaleur": 5,
       "liens": [
         {
@@ -809,13 +785,49 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.5,
+      "heures": 35.7,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/blueys-happy-snaps",
           "titre": "Mini Review: Bluey's Happy Snaps (Switch 2) - A Light, Breezy Photography Adventure"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-won-t-destroy-what-made-the-old-cl",
+      "titre": "World of Warcraft: Forever won't destroy what made the old classes so satisfying by modernizing them into oblivion: 'The level of mechanical complexity found in the beta classes is indicative of our intentions'",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-wont-destroy-what-made-the-old-classes-so-satisfying-by-modernizing-them-into-oblivion-the-level-of-mechanical-complexity-found-in-the-beta-classes-is-indicative-of-our-intentions/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-wont-destroy-what-made-the-old-classes-so-satisfying-by-modernizing-them-into-oblivion-the-level-of-mechanical-complexity-found-in-the-beta-classes-is-indicative-of-our-intentions/",
+          "titre": "World of Warcraft: Forever won't destroy what made the old classes so satisfying by modernizing them into oblivion: 'The level of mechanical complexity found in the beta classes is indicative of our intentions'"
+        }
+      ]
+    },
+    {
+      "id": "escher-s-dream-is-a-portal-2-mod-inspired-by-the-non-euclide",
+      "titre": "Escher's Dream is a Portal 2 mod inspired by the non-euclidean works of the classic artist that will leave you feeling only a little bit nauseated",
+      "url": "https://www.rockpapershotgun.com/eschers-dream-is-a-portal-2-mod-inspired-by-the-non-euclidian-works-of-the-classic-artist-that-will-leave-you-feeling-only-a-little-bit-nauseated",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/eschers-dream-is-a-portal-2-mod-inspired-by-the-non-euclidian-works-of-the-classic-artist-that-will-leave-you-feeling-only-a-little-bit-nauseated",
+          "titre": "Escher's Dream is a Portal 2 mod inspired by the non-euclidean works of the classic artist that will leave you feeling only a little bit nauseated"
         }
       ]
     },
@@ -827,7 +839,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 6.2,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +857,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -863,7 +875,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 6.7,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +893,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +911,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 7.2,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +929,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -935,7 +947,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +965,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +983,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.7,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +1001,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +1019,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1025,7 +1037,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,7 +1055,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,7 +1073,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.9,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1079,7 +1091,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 9.3,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1097,7 +1109,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1115,8 +1127,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1133,31 +1145,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/skyrim-gets-surprise-dlc-drop-on-ps5-its-biggest-in-years",
           "titre": "Skyrim Gets Surprise DLC Drop on PS5, Its Biggest in Years"
-        }
-      ]
-    },
-    {
-      "id": "years-of-building-pitching-and-raising-for-games-made-the-s",
-      "titre": "\"Years of building, pitching and raising for games made the same failure painful to watch\" – Why GameDataCore wants to find out how players feel",
-      "url": "https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-games-made-the-same-failure-painful-to-watch-why-gamedatacore-wants-to-find-out-how-players-feel",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-games-made-the-same-failure-painful-to-watch-why-gamedatacore-wants-to-find-out-how-players-feel",
-          "titre": "\"Years of building, pitching and raising for games made the same failure painful to watch\" – Why GameDataCore wants to find out how players feel"
         }
       ]
     }
