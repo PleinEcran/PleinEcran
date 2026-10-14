@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "14/10/2026 à 04h35",
+  "collecte": "14/10/2026 à 06h41",
   "seuil": 14,
   "sujets": [
     {
@@ -13,7 +13,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 27.0,
+      "heures": 29.1,
       "chaleur": 13,
       "liens": [
         {
@@ -34,30 +34,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ea-reckons-battlefield-6-deserves-a-game-of-the-year-edition",
-      "titre": "EA Reckons Battlefield 6 Deserves a Game of the Year Edition",
-      "url": "https://www.pushsquare.com/news/2026/10/ea-reckons-battlefield-6-deserves-a-game-of-the-year-edition",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 3.6,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ea-reckons-battlefield-6-deserves-a-game-of-the-year-edition",
-          "titre": "EA Reckons Battlefield 6 Deserves a Game of the Year Edition"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/resident-evil-2-deluxe-edition",
-          "titre": "Mini Review: Resident Evil 2 Deluxe Edition (Switch 2) - Finally Gets The Treatment It Deserves"
-        }
-      ]
-    },
-    {
       "id": "gta-6-pc-release-planned-for-early-2027-report-claims-which",
       "titre": "GTA 6 PC release planned for early 2027, report claims, which could mean we're playing in time for GTA Online 2: Vice City 4 U or whatever they call it",
       "url": "https://www.rockpapershotgun.com/gta-6-pc-release-planned-for-early-2027-report-claims-which-could-mean-were-playing-in-time-for-gta-online-2-vice-city-4-u-or-whatever-they-call-it",
@@ -66,7 +42,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 13.1,
+      "heures": 15.2,
       "chaleur": 11,
       "liens": [
         {
@@ -91,7 +67,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 15.6,
+      "heures": 17.6,
       "chaleur": 11,
       "liens": [
         {
@@ -121,7 +97,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 4.7,
+      "heures": 6.8,
       "chaleur": 10,
       "liens": [
         {
@@ -142,20 +118,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-expands-switch-online-s-gba-library-with-three-more",
-      "titre": "Nintendo Expands Switch Online's GBA Library With Three More Titles",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-gba-library-with-three-more-titles",
+      "id": "ea-reckons-battlefield-6-deserves-a-game-of-the-year-edition",
+      "titre": "EA Reckons Battlefield 6 Deserves a Game of the Year Edition",
+      "url": "https://www.pushsquare.com/news/2026/10/ea-reckons-battlefield-6-deserves-a-game-of-the-year-edition",
       "sources": [
-        "Nintendo Life"
+        "Nintendo Life",
+        "Push Square"
       ],
-      "reprises": 1,
-      "heures": 3.3,
+      "reprises": 2,
+      "heures": 5.7,
       "chaleur": 9,
       "liens": [
         {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ea-reckons-battlefield-6-deserves-a-game-of-the-year-edition",
+          "titre": "EA Reckons Battlefield 6 Deserves a Game of the Year Edition"
+        },
+        {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-gba-library-with-three-more-titles",
-          "titre": "Nintendo Expands Switch Online's GBA Library With Three More Titles"
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/resident-evil-2-deluxe-edition",
+          "titre": "Mini Review: Resident Evil 2 Deluxe Edition (Switch 2) - Finally Gets The Treatment It Deserves"
         }
       ]
     },
@@ -168,7 +150,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 13.0,
+      "heures": 15.1,
       "chaleur": 9,
       "liens": [
         {
@@ -184,6 +166,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "toy-shooter-hypercharge-unboxed-is-getting-a-huge-and-comple",
+      "titre": "Toy Shooter Hypercharge: Unboxed Is Getting A \"Huge\" And \"Completely Free\" Update On Switch This Week",
+      "url": "https://www.nintendolife.com/news/2026/10/toy-shooter-hypercharge-unboxed-is-getting-a-huge-and-completely-free-update-on-switch-this-week",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/toy-shooter-hypercharge-unboxed-is-getting-a-huge-and-completely-free-update-on-switch-this-week",
+          "titre": "Toy Shooter Hypercharge: Unboxed Is Getting A \"Huge\" And \"Completely Free\" Update On Switch This Week"
+        }
+      ]
+    },
+    {
       "id": "steam-now-has-a-maddening-bouncing-logo-screensaver-and-i-m",
       "titre": "Steam now has a maddening bouncing logo screensaver, and I'm pretty sure it doesn't perfectly hit the corners",
       "url": "https://www.pcgamer.com/software/platforms/steam-now-has-a-maddening-bouncing-logo-screensaver-and-im-pretty-sure-it-doesnt-touch-the-corners/",
@@ -191,7 +191,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.6,
       "chaleur": 8,
       "liens": [
         {
@@ -209,7 +209,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.9,
       "chaleur": 8,
       "liens": [
         {
@@ -227,7 +227,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.4,
       "chaleur": 8,
       "liens": [
         {
@@ -238,44 +238,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "they-thought-callisto-was-a-complete-failure-glen-schofield",
-      "titre": "\"They thought Callisto was a complete failure\": Glen Schofield blames publishers Krafton for The Callisto Protocol's crash landing",
-      "url": "https://www.rockpapershotgun.com/they-thought-callisto-was-a-complete-failure-glen-schofield-blames-publishers-krafton-for-the-callisto-protocols-crash-landing",
+      "id": "nintendo-expands-switch-online-s-gba-library-with-three-more",
+      "titre": "Nintendo Expands Switch Online's GBA Library With Three More Titles",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-gba-library-with-three-more-titles",
       "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 11.6,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/they-thought-callisto-was-a-complete-failure-glen-schofield-blames-publishers-krafton-for-the-callisto-protocols-crash-landing",
-          "titre": "\"They thought Callisto was a complete failure\": Glen Schofield blames publishers Krafton for The Callisto Protocol's crash landing"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/glen-schofield-the-callisto-protocol-krafton-problems",
-          "titre": "\"I was forced to ship the game\" - Glen Schofield blames Krafton management for The Callisto Protocol's problems"
-        }
-      ]
-    },
-    {
-      "id": "i-can-summon-jumbo-jets-and-boats-from-the-sky-in-gta-5-now",
-      "titre": "I can summon jumbo jets and boats from the sky in GTA 5 now, and I'll do it in the middle of crowded intersections if I want to",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-can-summon-jumbo-jets-and-boats-from-the-sky-in-gta-5-now-and-ill-do-it-in-the-middle-of-crowded-intersections-if-i-want-to/",
-      "sources": [
-        "PC Gamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.6,
+      "heures": 5.4,
       "chaleur": 7,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-can-summon-jumbo-jets-and-boats-from-the-sky-in-gta-5-now-and-ill-do-it-in-the-middle-of-crowded-intersections-if-i-want-to/",
-          "titre": "I can summon jumbo jets and boats from the sky in GTA 5 now, and I'll do it in the middle of crowded intersections if I want to"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-gba-library-with-three-more-titles",
+          "titre": "Nintendo Expands Switch Online's GBA Library With Three More Titles"
         }
       ]
     },
@@ -287,7 +263,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.0,
+      "heures": 20.1,
       "chaleur": 7,
       "liens": [
         {
@@ -305,7 +281,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.4,
+      "heures": 35.5,
       "chaleur": 7,
       "liens": [
         {
@@ -352,42 +328,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mario-kart-8-deluxe-has-been-updated-to-version-4-0-1-here-a",
-      "titre": "Mario Kart 8 Deluxe Has Been Updated To Version 4.0.1, Here Are The Full Patch Notes",
-      "url": "https://www.nintendolife.com/news/2026/10/mario-kart-8-deluxe-has-been-updated-to-version-4-0-1-here-are-the-full-patch-notes",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/mario-kart-8-deluxe-has-been-updated-to-version-4-0-1-here-are-the-full-patch-notes",
-          "titre": "Mario Kart 8 Deluxe Has Been Updated To Version 4.0.1, Here Are The Full Patch Notes"
-        }
-      ]
-    },
-    {
-      "id": "valve-is-clearing-out-its-discontinued-index-vr-headsets-if",
-      "titre": "Valve is clearing out its discontinued Index VR headsets if you want a cheap piece of history",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-is-clearing-out-its-discontinued-index-vr-headsets-if-you-want-a-cheap-piece-of-history/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-is-clearing-out-its-discontinued-index-vr-headsets-if-you-want-a-cheap-piece-of-history/",
-          "titre": "Valve is clearing out its discontinued Index VR headsets if you want a cheap piece of history"
-        }
-      ]
-    },
-    {
       "id": "asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-p",
       "titre": "Asha Sharma forms ‘Xbox Labs’ in response to explosion of AI-powered mods and ports",
       "url": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/",
@@ -395,7 +335,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.7,
+      "heures": 10.8,
       "chaleur": 6,
       "liens": [
         {
@@ -413,13 +353,55 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.6,
+      "heures": 11.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology",
           "titre": "Xbox announces Xbox Labs, a new initiative to trial emerging ideas and \"new technology\""
+        }
+      ]
+    },
+    {
+      "id": "they-thought-callisto-was-a-complete-failure-glen-schofield",
+      "titre": "\"They thought Callisto was a complete failure\": Glen Schofield blames publishers Krafton for The Callisto Protocol's crash landing",
+      "url": "https://www.rockpapershotgun.com/they-thought-callisto-was-a-complete-failure-glen-schofield-blames-publishers-krafton-for-the-callisto-protocols-crash-landing",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 13.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/they-thought-callisto-was-a-complete-failure-glen-schofield-blames-publishers-krafton-for-the-callisto-protocols-crash-landing",
+          "titre": "\"They thought Callisto was a complete failure\": Glen Schofield blames publishers Krafton for The Callisto Protocol's crash landing"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/glen-schofield-the-callisto-protocol-krafton-problems",
+          "titre": "\"I was forced to ship the game\" - Glen Schofield blames Krafton management for The Callisto Protocol's problems"
+        }
+      ]
+    },
+    {
+      "id": "i-can-summon-jumbo-jets-and-boats-from-the-sky-in-gta-5-now",
+      "titre": "I can summon jumbo jets and boats from the sky in GTA 5 now, and I'll do it in the middle of crowded intersections if I want to",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-can-summon-jumbo-jets-and-boats-from-the-sky-in-gta-5-now-and-ill-do-it-in-the-middle-of-crowded-intersections-if-i-want-to/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 13.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-can-summon-jumbo-jets-and-boats-from-the-sky-in-gta-5-now-and-ill-do-it-in-the-middle-of-crowded-intersections-if-i-want-to/",
+          "titre": "I can summon jumbo jets and boats from the sky in GTA 5 now, and I'll do it in the middle of crowded intersections if I want to"
         }
       ]
     },
@@ -431,7 +413,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 17.1,
       "chaleur": 6,
       "liens": [
         {
@@ -449,37 +431,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 19.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/10-games-you-need-to-play-before-gta-6-takes-over-the-world/",
           "titre": "10 games you need to play before GTA 6 takes over the world"
-        }
-      ]
-    },
-    {
-      "id": "dragon-quest-creator-yuji-horii-releases-game-he-says-he-mad",
-      "titre": "Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes",
-      "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 33.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
-          "titre": "Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dragon-quest-yuji-horii-new-game-ai-30-minutes",
-          "titre": "Dragon Quest co-creator Yuji Horii releases new AI-generated game, and he says it took 30 minutes to make"
         }
       ]
     },
@@ -491,7 +449,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 14.5,
       "chaleur": 5,
       "liens": [
         {
@@ -509,7 +467,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 16.6,
       "chaleur": 5,
       "liens": [
         {
@@ -527,7 +485,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 18.5,
       "chaleur": 5,
       "liens": [
         {
@@ -545,7 +503,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 19.7,
       "chaleur": 5,
       "liens": [
         {
@@ -563,7 +521,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 20.2,
       "chaleur": 5,
       "liens": [
         {
@@ -581,7 +539,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 19.2,
+      "heures": 21.2,
       "chaleur": 5,
       "liens": [
         {
@@ -599,7 +557,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.7,
+      "heures": 21.8,
       "chaleur": 5,
       "liens": [
         {
@@ -617,7 +575,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.7,
+      "heures": 25.8,
       "chaleur": 5,
       "liens": [
         {
@@ -635,7 +593,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.9,
+      "heures": 30.0,
       "chaleur": 5,
       "liens": [
         {
@@ -646,38 +604,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-s-latin-america-vp-says-there-are-no-plans-to-ditch",
-      "titre": "Nintendo's Latin America VP says there are no plans to ditch physical games",
-      "url": "https://www.gamesindustry.biz/nintendos-latin-america-vp-says-there-are-no-plans-to-ditch-physical-games",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 34.6,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nintendos-latin-america-vp-says-there-are-no-plans-to-ditch-physical-games",
-          "titre": "Nintendo's Latin America VP says there are no plans to ditch physical games"
-        }
-      ]
-    },
-    {
-      "id": "digital-foundry-delivers-its-technical-analysis-of-dragon-s",
-      "titre": "Digital Foundry Delivers Its Technical Analysis Of Dragon's Dogma 2 On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-technical-analysis-of-dragons-dogma-2-on-switch-2",
+      "id": "mario-kart-8-deluxe-has-been-updated-to-version-4-0-1-here-a",
+      "titre": "Mario Kart 8 Deluxe Has Been Updated To Version 4.0.1, Here Are The Full Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/10/mario-kart-8-deluxe-has-been-updated-to-version-4-0-1-here-are-the-full-patch-notes",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 35.8,
-      "chaleur": 5,
+      "heures": 5.8,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-technical-analysis-of-dragons-dogma-2-on-switch-2",
-          "titre": "Digital Foundry Delivers Its Technical Analysis Of Dragon's Dogma 2 On Switch 2"
+          "url": "https://www.nintendolife.com/news/2026/10/mario-kart-8-deluxe-has-been-updated-to-version-4-0-1-here-are-the-full-patch-notes",
+          "titre": "Mario Kart 8 Deluxe Has Been Updated To Version 4.0.1, Here Are The Full Patch Notes"
+        }
+      ]
+    },
+    {
+      "id": "valve-is-clearing-out-its-discontinued-index-vr-headsets-if",
+      "titre": "Valve is clearing out its discontinued Index VR headsets if you want a cheap piece of history",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-is-clearing-out-its-discontinued-index-vr-headsets-if-you-want-a-cheap-piece-of-history/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-is-clearing-out-its-discontinued-index-vr-headsets-if-you-want-a-cheap-piece-of-history/",
+          "titre": "Valve is clearing out its discontinued Index VR headsets if you want a cheap piece of history"
         }
       ]
     },
@@ -689,7 +647,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.7,
       "chaleur": 4,
       "liens": [
         {
@@ -707,7 +665,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.7,
       "chaleur": 4,
       "liens": [
         {
@@ -725,7 +683,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -743,7 +701,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -761,7 +719,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -779,7 +737,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -797,7 +755,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +773,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -833,8 +791,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -851,8 +809,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -869,8 +827,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -887,8 +845,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -905,13 +863,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/modern-warfare-4-is-the-latest-call-of-duty-to-launch-without-a-ps5-platinum-trophy",
           "titre": "Modern Warfare 4 Is the Latest Call of Duty to Launch without a PS5 Platinum Trophy"
+        }
+      ]
+    },
+    {
+      "id": "how-to-complete-an-unheard-farewell-in-valor-mortis",
+      "titre": "How to complete An Unheard Farewell in Valor Mortis",
+      "url": "https://www.pcgamer.com/games/action/valor-mortis-an-unheard-farewell-walkthrough/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 13.7,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/valor-mortis-an-unheard-farewell-walkthrough/",
+          "titre": "How to complete An Unheard Farewell in Valor Mortis"
         }
       ]
     },
@@ -923,8 +899,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -941,8 +917,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 14.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -959,7 +935,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 14.2,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +953,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 14.7,
       "chaleur": 3,
       "liens": [
         {
@@ -995,7 +971,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 15.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1013,7 +989,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 16.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +1007,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 16.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,7 +1025,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 17.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,7 +1043,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 17.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1085,7 +1061,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1103,7 +1079,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 17.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1121,7 +1097,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1139,13 +1115,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 18.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/skyrim-gets-surprise-dlc-drop-on-ps5-its-biggest-in-years",
           "titre": "Skyrim Gets Surprise DLC Drop on PS5, Its Biggest in Years"
+        }
+      ]
+    },
+    {
+      "id": "years-of-building-pitching-and-raising-for-games-made-the-s",
+      "titre": "\"Years of building, pitching and raising for games made the same failure painful to watch\" – Why GameDataCore wants to find out how players feel",
+      "url": "https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-games-made-the-same-failure-painful-to-watch-why-gamedatacore-wants-to-find-out-how-players-feel",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 18.2,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-games-made-the-same-failure-painful-to-watch-why-gamedatacore-wants-to-find-out-how-players-feel",
+          "titre": "\"Years of building, pitching and raising for games made the same failure painful to watch\" – Why GameDataCore wants to find out how players feel"
         }
       ]
     }
