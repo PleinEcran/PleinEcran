@@ -1,23 +1,29 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "14/10/2026 à 14h35",
+  "collecte": "14/10/2026 à 16h37",
   "seuil": 14,
   "sujets": [
     {
-      "id": "ubisoft-closing-trials-developer-redlynx-and-downsizing-assa",
-      "titre": "Ubisoft closing Trials developer RedLynx and downsizing Assassin's Creed: Black Flag Resynced team in Singapore",
-      "url": "https://www.eurogamer.net/ubisoft-closing-trials-studio-redlyx-layoffs-singapore-black-flag",
+      "id": "assassin-s-creed-black-flag-resynced-was-a-big-hit-and-now-i",
+      "titre": "Assassin's Creed Black Flag Resynced was a big hit, and now it's time for big layoffs at the studio that made it",
+      "url": "https://www.pcgamer.com/gaming-industry/assassins-creed-black-flag-resynced-was-a-big-hit-and-now-its-time-for-big-layoffs-at-the-studio-that-made-it/",
       "sources": [
         "Eurogamer",
         "GamesIndustry.biz",
         "Nintendo Life",
+        "PC Gamer",
         "Rock Paper Shotgun",
         "VGC"
       ],
-      "reprises": 5,
-      "heures": 2.1,
-      "chaleur": 21,
+      "reprises": 6,
+      "heures": 0.6,
+      "chaleur": 24,
       "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/assassins-creed-black-flag-resynced-was-a-big-hit-and-now-its-time-for-big-layoffs-at-the-studio-that-made-it/",
+          "titre": "Assassin's Creed Black Flag Resynced was a big hit, and now it's time for big layoffs at the studio that made it"
+        },
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/ubisoft-closing-trials-studio-redlyx-layoffs-singapore-black-flag",
@@ -46,6 +52,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "asha-sharma-announces-xbox-labs-project-to-explore-new-techn",
+      "titre": "Asha Sharma announces Xbox Labs project to \"explore new technology,\" which sure sounds like tinkering with old games through AI",
+      "url": "https://www.rockpapershotgun.com/asha-sharma-announces-xbox-labs-project-to-explore-new-technology-which-sure-sounds-like-tinkering-with-old-games-through-ai",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 4,
+      "heures": 1.3,
+      "chaleur": 17,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/asha-sharma-announces-xbox-labs-project-to-explore-new-technology-which-sure-sounds-like-tinkering-with-old-games-through-ai",
+          "titre": "Asha Sharma announces Xbox Labs project to \"explore new technology,\" which sure sounds like tinkering with old games through AI"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-labs-genai-game-ports-vibe-code",
+          "titre": "Xbox announces what sounds like a generative AI-focused game-making department, Xbox Labs, while avoiding mentioning AI"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/",
+          "titre": "Asha Sharma forms ‘Xbox Labs’ in response to explosion of AI-powered mods and ports"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology",
+          "titre": "Xbox announces Xbox Labs, a new initiative to trial emerging ideas and \"new technology\""
+        }
+      ]
+    },
+    {
       "id": "gta-6-tech-will-help-create-the-next-rockstar-game-won-t-be",
       "titre": "GTA 6 Tech Will Help Create the Next Rockstar Game, Won't Be Another 8-Year Wait",
       "url": "https://www.pushsquare.com/news/2026/10/gta-6-tech-will-help-create-the-next-rockstar-game-wont-be-another-8-year-wait",
@@ -56,8 +98,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 2.1,
-      "chaleur": 18,
+      "heures": 4.1,
+      "chaleur": 16,
       "liens": [
         {
           "source": "Push Square",
@@ -82,6 +124,108 @@ const VEILLE = {
       ]
     },
     {
+      "id": "epic-says-it-s-vibe-coded-its-new-epic-games-launcher-with-a",
+      "titre": "Epic says it’s ‘vibe coded’ its new Epic Games Launcher with AI, because ‘programming is hard’",
+      "url": "https://www.videogameschronicle.com/news/epic-says-its-vibe-coded-its-new-epic-games-launcher-with-ai-because-programming-is-hard/",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 1.0,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/epic-says-its-vibe-coded-its-new-epic-games-launcher-with-ai-because-programming-is-hard/",
+          "titre": "Epic says it’s ‘vibe coded’ its new Epic Games Launcher with AI, because ‘programming is hard’"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/we-vibe-coded-a-new-epic-games-launcher-because-programming-is-hard-announce-company-were-somehow-supposed-to-see-as-a-serious-steam-competitor",
+          "titre": "\"We vibe coded a new Epic Games Launcher\" because \"programming is hard\", announce company we're somehow supposed to see as a serious Steam competitor"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/platforms/epic-says-its-new-vibe-coded-epic-games-store-launcher-is-faster-than-steam/",
+          "titre": "Epic says its new 'vibe coded' Epic Games Store launcher is faster than Steam"
+        }
+      ]
+    },
+    {
+      "id": "rockstar-union-busting-tribunal-extended-to-november-18th-me",
+      "titre": "Rockstar 'union busting' tribunal extended to November 18th, meaning it will close just days before GTA 6's release date",
+      "url": "https://www.rockpapershotgun.com/rockstar-union-busting-tribunal-extended-to-november-18th-meaning-it-will-close-just-days-before-gta-6s-release-date",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 1.9,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/rockstar-union-busting-tribunal-extended-to-november-18th-meaning-it-will-close-just-days-before-gta-6s-release-date",
+          "titre": "Rockstar 'union busting' tribunal extended to November 18th, meaning it will close just days before GTA 6's release date"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/rockstar-iwgb-employment-tribunal-delay-november",
+          "titre": "Conclusion of Rockstar's employment tribunal delayed into November, almost day and date with GTA 6's release"
+        }
+      ]
+    },
+    {
+      "id": "after-two-hours-playing-the-legend-of-zelda-ocarina-of-time",
+      "titre": "After two hours playing The Legend of Zelda: Ocarina of Time remake, it’s fired a Hookshot into my heart again",
+      "url": "https://www.videogameschronicle.com/features/after-two-hours-playing-the-legend-of-zelda-ocarina-of-time-remake-its-fired-a-hookshot-into-my-heart-again/",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 3.6,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/features/after-two-hours-playing-the-legend-of-zelda-ocarina-of-time-remake-its-fired-a-hookshot-into-my-heart-again/",
+          "titre": "After two hours playing The Legend of Zelda: Ocarina of Time remake, it’s fired a Hookshot into my heart again"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/legend-zelda-ocarina-of-time-switch2-remake-owl",
+          "titre": "The Legend of Zelda: Ocarina of Time's infamous tutorial owl seemingly won't trap you in conversation in the Switch 2 remake"
+        }
+      ]
+    },
+    {
+      "id": "fortnite-is-finally-coming-to-linux-thanks-to-epic-rebuildin",
+      "titre": "Fortnite is finally coming to Linux thanks to Epic rebuilding Easy Anti-Cheat, though Steam Deck support is still in the wind",
+      "url": "https://www.rockpapershotgun.com/fortnite-is-finally-coming-to-linux-thanks-to-epic-rebuilding-easy-anti-cheat-though-steam-deck-support-is-still-in-the-wind",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 0.1,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/fortnite-is-finally-coming-to-linux-thanks-to-epic-rebuilding-easy-anti-cheat-though-steam-deck-support-is-still-in-the-wind",
+          "titre": "Fortnite is finally coming to Linux thanks to Epic rebuilding Easy Anti-Cheat, though Steam Deck support is still in the wind"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/battle-royale/fortnite-is-coming-to-linux-once-epic-improves-easy-anti-cheat/",
+          "titre": "Fortnite is coming to Linux once Epic improves Easy Anti-Cheat"
+        }
+      ]
+    },
+    {
       "id": "gran-turismo-is-getting-a-new-limited-edition-ps5-dualsense",
       "titre": "Gran Turismo is getting a new limited edition PS5 DualSense controller",
       "url": "https://www.videogameschronicle.com/news/gran-turismo-is-getting-a-new-limited-edition-ps5-dualsense-controller/",
@@ -90,7 +234,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.3,
+      "heures": 2.3,
       "chaleur": 11,
       "liens": [
         {
@@ -113,97 +257,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.2,
       "chaleur": 11,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/action/gta-6-was-delayed-partially-because-the-amount-of-npcs-was-horrifying-and-required-a-dedicated-studio-full-of-writers-to-handle/",
           "titre": "GTA 6 was delayed partially because the amount of NPCs was 'horrifying' and required a dedicated studio full of writers to handle"
-        }
-      ]
-    },
-    {
-      "id": "after-two-hours-playing-the-legend-of-zelda-ocarina-of-time",
-      "titre": "After two hours playing The Legend of Zelda: Ocarina of Time remake, it’s fired a Hookshot into my heart again",
-      "url": "https://www.videogameschronicle.com/features/after-two-hours-playing-the-legend-of-zelda-ocarina-of-time-remake-its-fired-a-hookshot-into-my-heart-again/",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 1.6,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/after-two-hours-playing-the-legend-of-zelda-ocarina-of-time-remake-its-fired-a-hookshot-into-my-heart-again/",
-          "titre": "After two hours playing The Legend of Zelda: Ocarina of Time remake, it’s fired a Hookshot into my heart again"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ocarina-of-time-remake-switch-2-preview",
-          "titre": "No matter what your opinion is on the art style, The Legend of Zelda: Ocarina of Time is shaping up to be a brilliant remake"
-        }
-      ]
-    },
-    {
-      "id": "conclusion-of-rockstar-s-employment-tribunal-delayed-into-no",
-      "titre": "Conclusion of Rockstar's employment tribunal delayed into November, almost day and date with GTA 6's release",
-      "url": "https://www.eurogamer.net/rockstar-iwgb-employment-tribunal-delay-november",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/rockstar-iwgb-employment-tribunal-delay-november",
-          "titre": "Conclusion of Rockstar's employment tribunal delayed into November, almost day and date with GTA 6's release"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-was-originally-project-americas-and-covered-big-swaths",
-      "titre": "GTA 6 was originally Project Americas and covered \"big swaths\" of country's north and south, Rockstar reveals, in interview tackling crunch, delays, and leaks",
-      "url": "https://www.eurogamer.net/gta-6-project-americas-rockstar-crunch-delays-leaks",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-project-americas-rockstar-crunch-delays-leaks",
-          "titre": "GTA 6 was originally Project Americas and covered \"big swaths\" of country's north and south, Rockstar reveals, in interview tackling crunch, delays, and leaks"
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-remastered-patch-specifically-targets-ps5-ps5",
-      "titre": "The Witcher 3 Remastered Patch Specifically Targets PS5, PS5 Pro Crashing Problems",
-      "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastered-patch-specifically-targets-ps5-ps5-pro-crashing-problems",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 3.3,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastered-patch-specifically-targets-ps5-ps5-pro-crashing-problems",
-          "titre": "The Witcher 3 Remastered Patch Specifically Targets PS5, PS5 Pro Crashing Problems"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-remastered-ps5-pro-switch-patch",
-          "titre": "CD Projekt Red reassures players The Witcher 3 Switch 2 patch still due, as update rolls out for PS5 and PS5 Pro"
         }
       ]
     },
@@ -216,7 +276,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.7,
+      "heures": 7.8,
       "chaleur": 10,
       "liens": [
         {
@@ -232,6 +292,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "round-up-the-previews-are-in-for-zelda-ocarina-of-time-on-sw",
+      "titre": "Round Up: The Previews Are In For Zelda: Ocarina Of Time On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-previews-are-in-for-zelda-ocarina-of-time-on-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-previews-are-in-for-zelda-ocarina-of-time-on-switch-2",
+          "titre": "Round Up: The Previews Are In For Zelda: Ocarina Of Time On Switch 2"
+        }
+      ]
+    },
+    {
       "id": "we-are-here-to-give-you-something-to-believe-in-the-former",
       "titre": "\"We are here to give you something to believe in\": the former Disco Elysium devs of Summer Eternal reveal new RPG Red Rooster, a game of fire, water and alternate selves",
       "url": "https://www.rockpapershotgun.com/we-are-here-to-give-you-something-to-believe-in-the-former-disco-elysium-devs-of-summer-eternal-reveal-new-rpg-red-rooster-a-game-of-fire-water-and-alternate-selves",
@@ -240,7 +318,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 0.3,
+      "heures": 2.4,
       "chaleur": 9,
       "liens": [
         {
@@ -256,24 +334,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "video-here-s-20-minutes-of-zelda-ocarina-of-time-gameplay-on",
-      "titre": "Video: Here's 20+ Minutes Of Zelda: Ocarina Of Time Gameplay On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/video-heres-20plus-minutes-of-zelda-ocarina-of-time-gameplay-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 0.8,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/video-heres-20plus-minutes-of-zelda-ocarina-of-time-gameplay-on-switch-2",
-          "titre": "Video: Here's 20+ Minutes Of Zelda: Ocarina Of Time Gameplay On Switch 2"
-        }
-      ]
-    },
-    {
       "id": "gta-6-leaker-s-latest-video-allegedly-shows-scenes-from-the",
       "titre": "GTA 6 leaker's latest video allegedly shows scenes from the final mission, as they indicate the leaks may have come to an end",
       "url": "https://www.eurogamer.net/gta-6-cyberleek-ending-crypto-coin-crash",
@@ -281,7 +341,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 3.5,
       "chaleur": 9,
       "liens": [
         {
@@ -292,164 +352,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "rockstar-co-founder-dan-houser-blames-himself-for-max-payne",
-      "titre": "Rockstar co-founder Dan Houser blames himself for Max Payne 3 - \"a large amount of that failure was on me\"",
-      "url": "https://www.eurogamer.net/max-payne-3-rockstar-dan-houser-failure-blame",
+      "id": "gta-6-was-originally-project-americas-and-covered-big-swaths",
+      "titre": "GTA 6 was originally Project Americas and covered \"big swaths\" of country's north and south, Rockstar reveals, in interview tackling crunch, delays, and leaks",
+      "url": "https://www.eurogamer.net/gta-6-project-americas-rockstar-crunch-delays-leaks",
       "sources": [
-        "Eurogamer",
-        "PC Gamer"
+        "Eurogamer"
       ],
-      "reprises": 2,
-      "heures": 1.7,
+      "reprises": 1,
+      "heures": 5.0,
       "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/max-payne-3-rockstar-dan-houser-failure-blame",
-          "titre": "Rockstar co-founder Dan Houser blames himself for Max Payne 3 - \"a large amount of that failure was on me\""
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/rockstar-co-founder-dan-houser-says-he-failed-with-max-payne-3-and-im-sorry-danno-but-thats-just-plain-wrong/",
-          "titre": "Rockstar co-founder Dan Houser says he 'failed' with Max Payne 3, and I'm sorry Danno but that's just plain wrong"
+          "url": "https://www.eurogamer.net/gta-6-project-americas-rockstar-crunch-delays-leaks",
+          "titre": "GTA 6 was originally Project Americas and covered \"big swaths\" of country's north and south, Rockstar reveals, in interview tackling crunch, delays, and leaks"
         }
       ]
     },
     {
-      "id": "viral-co-op-hit-peak-is-seemingly-coming-to-ps5",
-      "titre": "Viral co-op hit Peak is seemingly coming to PS5",
-      "url": "https://www.videogameschronicle.com/news/viral-co-op-hit-peak-is-seemingly-coming-to-ps5/",
+      "id": "review-tales-of-eternia-remastered-ps5-classic-playstation-r",
+      "titre": "Review: Tales of Eternia Remastered (PS5) - Classic PlayStation RPG Shows Its Age",
+      "url": "https://www.pushsquare.com/reviews/ps5/tales-of-eternia-remastered",
       "sources": [
-        "Push Square",
-        "VGC"
+        "Push Square"
       ],
-      "reprises": 2,
-      "heures": 2.1,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 8,
       "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/viral-co-op-hit-peak-is-seemingly-coming-to-ps5/",
-          "titre": "Viral co-op hit Peak is seemingly coming to PS5"
-        },
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/peak-one-of-2025s-biggest-breakout-hits-is-finally-coming-to-ps5",
-          "titre": "Peak, One of 2025's Biggest Breakout Hits, Is Finally Coming to PS5"
-        }
-      ]
-    },
-    {
-      "id": "xbox-announces-what-sounds-like-a-generative-ai-focused-game",
-      "titre": "Xbox announces what sounds like a generative AI-focused game-making department, Xbox Labs, while avoiding mentioning AI",
-      "url": "https://www.eurogamer.net/xbox-labs-genai-game-ports-vibe-code",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 6.0,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-labs-genai-game-ports-vibe-code",
-          "titre": "Xbox announces what sounds like a generative AI-focused game-making department, Xbox Labs, while avoiding mentioning AI"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology",
-          "titre": "Xbox announces Xbox Labs, a new initiative to trial emerging ideas and \"new technology\""
-        }
-      ]
-    },
-    {
-      "id": "epic-says-its-new-vibe-coded-epic-games-store-launcher-is-fa",
-      "titre": "Epic says its new 'vibe coded' Epic Games Store launcher is faster than Steam",
-      "url": "https://www.pcgamer.com/software/platforms/epic-says-its-new-vibe-coded-epic-games-store-launcher-is-faster-than-steam/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/platforms/epic-says-its-new-vibe-coded-epic-games-store-launcher-is-faster-than-steam/",
-          "titre": "Epic says its new 'vibe coded' Epic Games Store launcher is faster than Steam"
-        }
-      ]
-    },
-    {
-      "id": "openai-employee-arrested-for-allegedly-using-ai-and-toilet-p",
-      "titre": "OpenAI employee arrested for allegedly using AI and toilet paper to record confidential meetings - FBI director Kash Patel jumps at the chance to say AI companies are 'essential' for national security",
-      "url": "https://www.pcgamer.com/software/security/openai-employee-arrested-for-allegedly-using-ai-and-toilet-paper-to-record-confidential-meetings-fbi-director-kash-patel-jumps-at-the-chance-to-say-ai-companies-are-essential-for-national-security/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/security/openai-employee-arrested-for-allegedly-using-ai-and-toilet-paper-to-record-confidential-meetings-fbi-director-kash-patel-jumps-at-the-chance-to-say-ai-companies-are-essential-for-national-security/",
-          "titre": "OpenAI employee arrested for allegedly using AI and toilet paper to record confidential meetings - FBI director Kash Patel jumps at the chance to say AI companies are 'essential' for national security"
-        }
-      ]
-    },
-    {
-      "id": "with-the-steam-frame-becoming-valve-s-new-favourite-vr-child",
-      "titre": "With the Steam Frame becoming Valve's new favourite VR child, they're selling off their last Index headset stock",
-      "url": "https://www.rockpapershotgun.com/with-the-steam-frame-becoming-valves-new-favourite-vr-child-theyre-selling-off-their-last-index-headset-stock",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/with-the-steam-frame-becoming-valves-new-favourite-vr-child-theyre-selling-off-their-last-index-headset-stock",
-          "titre": "With the Steam Frame becoming Valve's new favourite VR child, they're selling off their last Index headset stock"
-        }
-      ]
-    },
-    {
-      "id": "review-hell-is-us-switch-2-thought-provoking-admirable-and-f",
-      "titre": "Review: Hell Is Us (Switch 2) - Thought-Provoking, Admirable, And Frustrating By Design",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/hell-is-us",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/hell-is-us",
-          "titre": "Review: Hell Is Us (Switch 2) - Thought-Provoking, Admirable, And Frustrating By Design"
-        }
-      ]
-    },
-    {
-      "id": "123456-password-was-all-a-hacker-reportedly-needed-to-expos",
-      "titre": "'123456' password was all a hacker reportedly needed to expose over 8 million people's personal data",
-      "url": "https://www.pcgamer.com/software/security/123456-password-was-all-a-hacker-reportedly-needed-to-expose-over-8-million-peoples-personal-data/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/security/123456-password-was-all-a-hacker-reportedly-needed-to-expose-over-8-million-peoples-personal-data/",
-          "titre": "'123456' password was all a hacker reportedly needed to expose over 8 million people's personal data"
+          "url": "https://www.pushsquare.com/reviews/ps5/tales-of-eternia-remastered",
+          "titre": "Review: Tales of Eternia Remastered (PS5) - Classic PlayStation RPG Shows Its Age"
         }
       ]
     },
@@ -461,7 +395,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 8.9,
       "chaleur": 8,
       "liens": [
         {
@@ -480,7 +414,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 13.6,
+      "heures": 15.6,
       "chaleur": 8,
       "liens": [
         {
@@ -496,42 +430,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-pc-release-planned-for-early-2027-report-claims-which",
-      "titre": "GTA 6 PC release planned for early 2027, report claims, which could mean we're playing in time for GTA Online 2: Vice City 4 U or whatever they call it",
-      "url": "https://www.rockpapershotgun.com/gta-6-pc-release-planned-for-early-2027-report-claims-which-could-mean-were-playing-in-time-for-gta-online-2-vice-city-4-u-or-whatever-they-call-it",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 23.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/gta-6-pc-release-planned-for-early-2027-report-claims-which-could-mean-were-playing-in-time-for-gta-online-2-vice-city-4-u-or-whatever-they-call-it",
-          "titre": "GTA 6 PC release planned for early 2027, report claims, which could mean we're playing in time for GTA Online 2: Vice City 4 U or whatever they call it"
-        }
-      ]
-    },
-    {
-      "id": "rumour-gta-6-will-be-ported-to-pc-in-record-time-following-i",
-      "titre": "Rumour: GTA 6 Will Be Ported to PC in Record Time Following Its Debut on PS5",
-      "url": "https://www.pushsquare.com/news/2026/10/rumour-gta-6-will-be-ported-to-pc-in-record-time-following-its-debut-on-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 23.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/rumour-gta-6-will-be-ported-to-pc-in-record-time-following-its-debut-on-ps5",
-          "titre": "Rumour: GTA 6 Will Be Ported to PC in Record Time Following Its Debut on PS5"
-        }
-      ]
-    },
-    {
       "id": "if-you-ve-sworn-off-genai-crazy-taxi-and-dislike-all-the-twe",
       "titre": "If you've sworn off genAI Crazy Taxi and dislike all the twerking in GTA 6, consider Shifu: Traffic Masters, a jolly open world driving game set in 1990s China",
       "url": "https://www.rockpapershotgun.com/if-youve-sworn-off-genai-crazy-taxi-and-dislike-all-the-twerking-in-gta-6-consider-shifu-traffic-masters-a-jolly-open-world-driving-game-set-in-1990s-china",
@@ -539,7 +437,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.1,
       "chaleur": 7,
       "liens": [
         {
@@ -586,6 +484,258 @@ const VEILLE = {
       ]
     },
     {
+      "id": "funcom-to-lay-off-staff-as-it-pivots-to-focusing-solely-on-c",
+      "titre": "Funcom to lay off staff as it pivots to focusing solely on Conan Exiles and Dune: Awakening",
+      "url": "https://www.gamesindustry.biz/funcom-to-lay-off-staff-as-it-pivots-to-focusing-solely-on-conan-exiles-and-dune-awakening",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/funcom-to-lay-off-staff-as-it-pivots-to-focusing-solely-on-conan-exiles-and-dune-awakening",
+          "titre": "Funcom to lay off staff as it pivots to focusing solely on Conan Exiles and Dune: Awakening"
+        }
+      ]
+    },
+    {
+      "id": "call-of-duty-can-t-let-go-of-shipment-added-to-modern-warfar",
+      "titre": "Call of Duty Can't Let Go of Shipment, Added to Modern Warfare 4 Just Days After Release",
+      "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-cant-let-go-of-shipment-added-to-modern-warfare-4-just-days-after-release",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-cant-let-go-of-shipment-added-to-modern-warfare-4-just-days-after-release",
+          "titre": "Call of Duty Can't Let Go of Shipment, Added to Modern Warfare 4 Just Days After Release"
+        }
+      ]
+    },
+    {
+      "id": "over-the-hill-s-off-roading-simulation-winches-you-in-with-a",
+      "titre": "Over the Hill's off-roading simulation winches you in with a more laid-back take than SnowRunner's, but it'll still bite careless drivers",
+      "url": "https://www.rockpapershotgun.com/over-the-hills-off-roading-simulation-winches-you-in-with-a-more-laid-back-take-than-snowrunners-but-itll-still-bite-careless-drivers",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/over-the-hills-off-roading-simulation-winches-you-in-with-a-more-laid-back-take-than-snowrunners-but-itll-still-bite-careless-drivers",
+          "titre": "Over the Hill's off-roading simulation winches you in with a more laid-back take than SnowRunner's, but it'll still bite careless drivers"
+        }
+      ]
+    },
+    {
+      "id": "mini-review-toy-story-retro-roundup-ps5-this-fun-toy-box-pro",
+      "titre": "Mini Review: Toy Story: Retro Roundup (PS5) - This Fun Toy Box Provides a Nostalgic Buzz",
+      "url": "https://www.pushsquare.com/reviews/ps5/toy-story-retro-roundup",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/toy-story-retro-roundup",
+          "titre": "Mini Review: Toy Story: Retro Roundup (PS5) - This Fun Toy Box Provides a Nostalgic Buzz"
+        }
+      ]
+    },
+    {
+      "id": "october-s-ps-plus-game-catalog-titles-include-mafia-the-old",
+      "titre": "October’s PS Plus Game Catalog titles include Mafia: The Old Country and Tales of Arise",
+      "url": "https://www.videogameschronicle.com/news/octobers-ps-plus-game-catalog-titles-include-mafia-the-old-country-and-tales-of-arise/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/octobers-ps-plus-game-catalog-titles-include-mafia-the-old-country-and-tales-of-arise/",
+          "titre": "October’s PS Plus Game Catalog titles include Mafia: The Old Country and Tales of Arise"
+        }
+      ]
+    },
+    {
+      "id": "hogwarts-legacy-s-dlss-5-update-shows-devs-have-been-listeni",
+      "titre": "Hogwarts Legacy's DLSS 5 update shows devs have been listening to PC gamers about keeping it the hell away from game characters",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/hogwarts-legacys-dlss-5-update-shows-devs-have-been-listening-to-pc-gamers-about-keeping-it-the-hell-away-from-game-characters/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/hogwarts-legacys-dlss-5-update-shows-devs-have-been-listening-to-pc-gamers-about-keeping-it-the-hell-away-from-game-characters/",
+          "titre": "Hogwarts Legacy's DLSS 5 update shows devs have been listening to PC gamers about keeping it the hell away from game characters"
+        }
+      ]
+    },
+    {
+      "id": "ai-godfather-worries-we-re-creating-alien-beings-with-artif",
+      "titre": "'AI godfather' worries we're creating 'alien beings' with artificial intelligence, with pesky moral implications",
+      "url": "https://www.pcgamer.com/software/ai/ai-godfather-worries-were-creating-alien-beings-with-artificial-intelligence-with-pesky-moral-implications/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/ai-godfather-worries-were-creating-alien-beings-with-artificial-intelligence-with-pesky-moral-implications/",
+          "titre": "'AI godfather' worries we're creating 'alien beings' with artificial intelligence, with pesky moral implications"
+        }
+      ]
+    },
+    {
+      "id": "looks-like-a-lighter-carbon-fibre-version-of-the-best-gaming",
+      "titre": "Looks like a lighter, carbon fibre version of the best gaming mouse I've held is on its way, but don't look at the price tag",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/looks-like-a-lighter-carbon-fibre-version-of-the-best-gaming-mouse-ive-held-is-on-its-way-but-dont-look-at-the-price-tag/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/looks-like-a-lighter-carbon-fibre-version-of-the-best-gaming-mouse-ive-held-is-on-its-way-but-dont-look-at-the-price-tag/",
+          "titre": "Looks like a lighter, carbon fibre version of the best gaming mouse I've held is on its way, but don't look at the price tag"
+        }
+      ]
+    },
+    {
+      "id": "9-ps-plus-extra-premium-games-for-october-2026-announced",
+      "titre": "9 PS Plus Extra, Premium Games for October 2026 Announced",
+      "url": "https://www.pushsquare.com/news/2026/10/9-ps-plus-extra-premium-games-for-october-2026-announced",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/9-ps-plus-extra-premium-games-for-october-2026-announced",
+          "titre": "9 PS Plus Extra, Premium Games for October 2026 Announced"
+        }
+      ]
+    },
+    {
+      "id": "if-new-blood-had-made-dusk-2-there-d-be-no-iron-lung-and-now",
+      "titre": "If New Blood had made Dusk 2, there'd be no Iron Lung, 'and now David Szymanski has got a movie that made $50 million'—so maybe there's wisdom in not churning out sequels",
+      "url": "https://www.pcgamer.com/games/fps/if-new-blood-had-made-dusk-2-thered-be-no-iron-lung-and-now-david-szymanski-has-got-a-movie-that-made-usd50-million-so-maybe-theres-wisdom-in-not-churning-out-sequels/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/if-new-blood-had-made-dusk-2-thered-be-no-iron-lung-and-now-david-szymanski-has-got-a-movie-that-made-usd50-million-so-maybe-theres-wisdom-in-not-churning-out-sequels/",
+          "titre": "If New Blood had made Dusk 2, there'd be no Iron Lung, 'and now David Szymanski has got a movie that made $50 million'—so maybe there's wisdom in not churning out sequels"
+        }
+      ]
+    },
+    {
+      "id": "arenanet-solves-an-ongoing-guild-wars-2-issue-by-ditching-pa",
+      "titre": "ArenaNet solves an ongoing Guild Wars 2 issue by ditching paid Living World add-ons and bundling them with expansions",
+      "url": "https://www.eurogamer.net/guild-wars-2-living-world-expansions",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/guild-wars-2-living-world-expansions",
+          "titre": "ArenaNet solves an ongoing Guild Wars 2 issue by ditching paid Living World add-ons and bundling them with expansions"
+        }
+      ]
+    },
+    {
+      "id": "wow-forever-has-a-new-kind-of-ban-to-deal-with-real-money-tr",
+      "titre": "WoW: Forever has a new kind of ban to deal with real money trading",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-has-a-new-kind-of-ban-to-deal-with-real-money-trading/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-has-a-new-kind-of-ban-to-deal-with-real-money-trading/",
+          "titre": "WoW: Forever has a new kind of ban to deal with real money trading"
+        }
+      ]
+    },
+    {
+      "id": "i-wanted-to-make-the-show-i-wanted-to-watch-how-galaxies-fo",
+      "titre": "\"I wanted to make the show I wanted to watch\" – How Galaxies found a place in the crowded showcase landscape",
+      "url": "https://www.gamesindustry.biz/i-wanted-to-make-the-show-i-wanted-to-watch-how-galaxies-found-a-place-in-the-crowded-showcase-landscape",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/i-wanted-to-make-the-show-i-wanted-to-watch-how-galaxies-found-a-place-in-the-crowded-showcase-landscape",
+          "titre": "\"I wanted to make the show I wanted to watch\" – How Galaxies found a place in the crowded showcase landscape"
+        }
+      ]
+    },
+    {
+      "id": "doom-can-run-on-a-dns-database-now-and-one-of-the-technology",
+      "titre": "Doom can 'run' on a DNS database now, and one of the technology's pioneers says 'I can't decide whether this is deliciously horrible, or else horribly delicious'",
+      "url": "https://www.pcgamer.com/hardware/doom-can-run-on-a-dns-database-now-and-one-of-the-technologys-pioneers-says-i-cant-decide-whether-this-is-deliciously-horrible-or-else-horribly-delicious/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/doom-can-run-on-a-dns-database-now-and-one-of-the-technologys-pioneers-says-i-cant-decide-whether-this-is-deliciously-horrible-or-else-horribly-delicious/",
+          "titre": "Doom can 'run' on a DNS database now, and one of the technology's pioneers says 'I can't decide whether this is deliciously horrible, or else horribly delicious'"
+        }
+      ]
+    },
+    {
       "id": "site-news-so-where-s-our-castlevania-belmont-s-curse-review",
       "titre": "Site News: So, Where's Our Castlevania: Belmont's Curse Review?",
       "url": "https://www.nintendolife.com/news/2026/10/site-news-so-wheres-our-castlevania-belmonts-curse-review",
@@ -593,7 +743,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
@@ -604,20 +754,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "fortnite-is-coming-to-linux-once-epic-improves-easy-anti-che",
-      "titre": "Fortnite is coming to Linux once Epic improves Easy Anti-Cheat",
-      "url": "https://www.pcgamer.com/games/battle-royale/fortnite-is-coming-to-linux-once-epic-improves-easy-anti-cheat/",
+      "id": "trials-studio-redlynx-looks-set-to-close-as-ubisoft-continue",
+      "titre": "Trials Studio RedLynx Looks Set to Close as Ubisoft Continues Major Restructure",
+      "url": "https://www.pushsquare.com/news/2026/10/trials-studio-redlynx-looks-set-to-close-as-ubisoft-continues-major-restructure",
       "sources": [
-        "PC Gamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.2,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/battle-royale/fortnite-is-coming-to-linux-once-epic-improves-easy-anti-cheat/",
-          "titre": "Fortnite is coming to Linux once Epic improves Easy Anti-Cheat"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/trials-studio-redlynx-looks-set-to-close-as-ubisoft-continues-major-restructure",
+          "titre": "Trials Studio RedLynx Looks Set to Close as Ubisoft Continues Major Restructure"
         }
       ]
     },
@@ -629,7 +779,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -647,7 +797,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -665,7 +815,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 2.6,
       "chaleur": 6,
       "liens": [
         {
@@ -683,7 +833,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -701,7 +851,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 2.9,
       "chaleur": 6,
       "liens": [
         {
@@ -719,13 +869,157 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/metro-2039-dev-puts-ps5-pre-orders-live-and-confirms-dlc",
           "titre": "Metro 2039 Dev Puts PS5 Pre-Orders Live and Confirms DLC"
+        }
+      ]
+    },
+    {
+      "id": "rockstar-co-founder-dan-houser-blames-himself-for-max-payne",
+      "titre": "Rockstar co-founder Dan Houser blames himself for Max Payne 3 - \"a large amount of that failure was on me\"",
+      "url": "https://www.eurogamer.net/max-payne-3-rockstar-dan-houser-failure-blame",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 3.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/max-payne-3-rockstar-dan-houser-failure-blame",
+          "titre": "Rockstar co-founder Dan Houser blames himself for Max Payne 3 - \"a large amount of that failure was on me\""
+        }
+      ]
+    },
+    {
+      "id": "openai-employee-arrested-for-allegedly-using-ai-and-toilet-p",
+      "titre": "OpenAI employee arrested for allegedly using AI and toilet paper to record confidential meetings - FBI director Kash Patel jumps at the chance to say AI companies are 'essential' for national security",
+      "url": "https://www.pcgamer.com/software/security/openai-employee-arrested-for-allegedly-using-ai-and-toilet-paper-to-record-confidential-meetings-fbi-director-kash-patel-jumps-at-the-chance-to-say-ai-companies-are-essential-for-national-security/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/security/openai-employee-arrested-for-allegedly-using-ai-and-toilet-paper-to-record-confidential-meetings-fbi-director-kash-patel-jumps-at-the-chance-to-say-ai-companies-are-essential-for-national-security/",
+          "titre": "OpenAI employee arrested for allegedly using AI and toilet paper to record confidential meetings - FBI director Kash Patel jumps at the chance to say AI companies are 'essential' for national security"
+        }
+      ]
+    },
+    {
+      "id": "with-the-steam-frame-becoming-valve-s-new-favourite-vr-child",
+      "titre": "With the Steam Frame becoming Valve's new favourite VR child, they're selling off their last Index headset stock",
+      "url": "https://www.rockpapershotgun.com/with-the-steam-frame-becoming-valves-new-favourite-vr-child-theyre-selling-off-their-last-index-headset-stock",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/with-the-steam-frame-becoming-valves-new-favourite-vr-child-theyre-selling-off-their-last-index-headset-stock",
+          "titre": "With the Steam Frame becoming Valve's new favourite VR child, they're selling off their last Index headset stock"
+        }
+      ]
+    },
+    {
+      "id": "review-hell-is-us-switch-2-thought-provoking-admirable-and-f",
+      "titre": "Review: Hell Is Us (Switch 2) - Thought-Provoking, Admirable, And Frustrating By Design",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/hell-is-us",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/hell-is-us",
+          "titre": "Review: Hell Is Us (Switch 2) - Thought-Provoking, Admirable, And Frustrating By Design"
+        }
+      ]
+    },
+    {
+      "id": "123456-password-was-all-a-hacker-reportedly-needed-to-expos",
+      "titre": "'123456' password was all a hacker reportedly needed to expose over 8 million people's personal data",
+      "url": "https://www.pcgamer.com/software/security/123456-password-was-all-a-hacker-reportedly-needed-to-expose-over-8-million-peoples-personal-data/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/security/123456-password-was-all-a-hacker-reportedly-needed-to-expose-over-8-million-peoples-personal-data/",
+          "titre": "'123456' password was all a hacker reportedly needed to expose over 8 million people's personal data"
+        }
+      ]
+    },
+    {
+      "id": "toy-shooter-hypercharge-unboxed-is-getting-a-huge-and-comple",
+      "titre": "Toy Shooter Hypercharge: Unboxed Is Getting A \"Huge\" And \"Completely Free\" Update On Switch This Week",
+      "url": "https://www.nintendolife.com/news/2026/10/toy-shooter-hypercharge-unboxed-is-getting-a-huge-and-completely-free-update-on-switch-this-week",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 11.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/toy-shooter-hypercharge-unboxed-is-getting-a-huge-and-completely-free-update-on-switch-this-week",
+          "titre": "Toy Shooter Hypercharge: Unboxed Is Getting A \"Huge\" And \"Completely Free\" Update On Switch This Week"
+        }
+      ]
+    },
+    {
+      "id": "oblivion-remastered-gets-a-new-switch-2-update-resolves-glob",
+      "titre": "Oblivion Remastered Gets A New Switch 2 Update, Resolves \"Global Visual Degradation\" Issue",
+      "url": "https://www.nintendolife.com/news/2026/10/oblivion-remastered-gets-a-new-switch-2-update-resolves-global-visual-degradation-issue",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/oblivion-remastered-gets-a-new-switch-2-update-resolves-global-visual-degradation-issue",
+          "titre": "Oblivion Remastered Gets A New Switch 2 Update, Resolves \"Global Visual Degradation\" Issue"
+        }
+      ]
+    },
+    {
+      "id": "viral-co-op-hit-peak-is-seemingly-coming-to-ps5",
+      "titre": "Viral co-op hit Peak is seemingly coming to PS5",
+      "url": "https://www.videogameschronicle.com/news/viral-co-op-hit-peak-is-seemingly-coming-to-ps5/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/viral-co-op-hit-peak-is-seemingly-coming-to-ps5/",
+          "titre": "Viral co-op hit Peak is seemingly coming to PS5"
         }
       ]
     },
@@ -737,13 +1031,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
+      "heures": 4.9,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/gundam-rogue-orbit-blowout-confirmed-for-gundams-40-year-anniversary-broadcast-this-month",
           "titre": "Gundam Rogue Orbit Blowout Confirmed for Gundam's 40 Year Anniversary Broadcast This Month"
+        }
+      ]
+    },
+    {
+      "id": "the-witcher-3-remastered-patch-specifically-targets-ps5-ps5",
+      "titre": "The Witcher 3 Remastered Patch Specifically Targets PS5, PS5 Pro Crashing Problems",
+      "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastered-patch-specifically-targets-ps5-ps5-pro-crashing-problems",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastered-patch-specifically-targets-ps5-ps5-pro-crashing-problems",
+          "titre": "The Witcher 3 Remastered Patch Specifically Targets PS5, PS5 Pro Crashing Problems"
         }
       ]
     },
@@ -755,8 +1067,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
+      "heures": 5.8,
+      "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
@@ -773,8 +1085,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
+      "heures": 5.9,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
@@ -791,139 +1103,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 6,
+      "heures": 6.0,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/destiny-1-project-golden-age-pc-revival-bungie-nod",
           "titre": "Destiny 1 project, which aims to port the game to PC, seemingly gets a nod from Bungie boss"
-        }
-      ]
-    },
-    {
-      "id": "steam-s-new-big-art-mode-is-a-lovely-visual-upgrade-for-my-l",
-      "titre": "Steam's new Big Art Mode is a lovely visual upgrade for my living room setup",
-      "url": "https://www.pcgamer.com/software/platforms/steams-new-big-art-mode-is-a-lovely-visual-upgrade-for-my-living-room-setup/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/platforms/steams-new-big-art-mode-is-a-lovely-visual-upgrade-for-my-living-room-setup/",
-          "titre": "Steam's new Big Art Mode is a lovely visual upgrade for my living room setup"
-        }
-      ]
-    },
-    {
-      "id": "toy-shooter-hypercharge-unboxed-is-getting-a-huge-and-comple",
-      "titre": "Toy Shooter Hypercharge: Unboxed Is Getting A \"Huge\" And \"Completely Free\" Update On Switch This Week",
-      "url": "https://www.nintendolife.com/news/2026/10/toy-shooter-hypercharge-unboxed-is-getting-a-huge-and-completely-free-update-on-switch-this-week",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/toy-shooter-hypercharge-unboxed-is-getting-a-huge-and-completely-free-update-on-switch-this-week",
-          "titre": "Toy Shooter Hypercharge: Unboxed Is Getting A \"Huge\" And \"Completely Free\" Update On Switch This Week"
-        }
-      ]
-    },
-    {
-      "id": "steam-now-has-a-maddening-bouncing-logo-screensaver-and-i-m",
-      "titre": "Steam now has a maddening bouncing logo screensaver, and I'm pretty sure it doesn't perfectly hit the corners",
-      "url": "https://www.pcgamer.com/software/platforms/steam-now-has-a-maddening-bouncing-logo-screensaver-and-im-pretty-sure-it-doesnt-touch-the-corners/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/platforms/steam-now-has-a-maddening-bouncing-logo-screensaver-and-im-pretty-sure-it-doesnt-touch-the-corners/",
-          "titre": "Steam now has a maddening bouncing logo screensaver, and I'm pretty sure it doesn't perfectly hit the corners"
-        }
-      ]
-    },
-    {
-      "id": "oblivion-remastered-gets-a-new-switch-2-update-resolves-glob",
-      "titre": "Oblivion Remastered Gets A New Switch 2 Update, Resolves \"Global Visual Degradation\" Issue",
-      "url": "https://www.nintendolife.com/news/2026/10/oblivion-remastered-gets-a-new-switch-2-update-resolves-global-visual-degradation-issue",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/oblivion-remastered-gets-a-new-switch-2-update-resolves-global-visual-degradation-issue",
-          "titre": "Oblivion Remastered Gets A New Switch 2 Update, Resolves \"Global Visual Degradation\" Issue"
-        }
-      ]
-    },
-    {
-      "id": "asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-p",
-      "titre": "Asha Sharma forms ‘Xbox Labs’ in response to explosion of AI-powered mods and ports",
-      "url": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 18.7,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/",
-          "titre": "Asha Sharma forms ‘Xbox Labs’ in response to explosion of AI-powered mods and ports"
-        }
-      ]
-    },
-    {
-      "id": "the-pc-version-of-grand-theft-auto-6-is-reportedly-coming-be",
-      "titre": "The PC version of Grand Theft Auto 6 is reportedly coming before the end of March 2027",
-      "url": "https://www.videogameschronicle.com/news/the-pc-version-of-grand-theft-auto-6-is-reportedly-coming-before-the-end-of-march-2027/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 24.5,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-pc-version-of-grand-theft-auto-6-is-reportedly-coming-before-the-end-of-march-2027/",
-          "titre": "The PC version of Grand Theft Auto 6 is reportedly coming before the end of March 2027"
-        }
-      ]
-    },
-    {
-      "id": "review-ratatan-switch-2-patapon-style-rhythm-action-strategy",
-      "titre": "Review: Ratatan (Switch 2) - Patapon-Style Rhythm-Action Strategy Returns, With A Roguelite Twist",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/ratatan",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 27.6,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/ratatan",
-          "titre": "Review: Ratatan (Switch 2) - Patapon-Style Rhythm-Action Strategy Returns, With A Roguelite Twist"
         }
       ]
     },
@@ -935,7 +1121,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 6.1,
       "chaleur": 4,
       "liens": [
         {
@@ -953,7 +1139,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +1157,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +1175,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 6.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +1193,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1016,169 +1202,12 @@ const VEILLE = {
           "titre": "Former game-seller Zavvi enters administration again and \"is unable to fulfil any outstanding orders or pre-orders\""
         }
       ]
-    },
-    {
-      "id": "i-just-tricked-dlss-into-running-on-my-amd-gpu-in-cyberpunk",
-      "titre": "I just tricked DLSS into running on my AMD GPU in Cyberpunk 2077 and Alan Wake 2 and all it took was running a single script",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/i-just-tricked-dlss-into-running-on-my-amd-gpu-in-cyberpunk-2077-and-alan-wake-2-and-all-it-took-was-running-a-single-script/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/i-just-tricked-dlss-into-running-on-my-amd-gpu-in-cyberpunk-2077-and-alan-wake-2-and-all-it-took-was-running-a-single-script/",
-          "titre": "I just tricked DLSS into running on my AMD GPU in Cyberpunk 2077 and Alan Wake 2 and all it took was running a single script"
-        }
-      ]
-    },
-    {
-      "id": "sonic-racing-crossworlds-s-final-year-one-dlc-pack-is-live-n",
-      "titre": "Sonic Racing: CrossWorlds's Final Year One DLC Pack Is Live Now on PS5",
-      "url": "https://www.pushsquare.com/news/2026/10/sonic-racing-crossworldss-final-year-one-dlc-pack-is-live-now-on-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 5.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sonic-racing-crossworldss-final-year-one-dlc-pack-is-live-now-on-ps5",
-          "titre": "Sonic Racing: CrossWorlds's Final Year One DLC Pack Is Live Now on PS5"
-        }
-      ]
-    },
-    {
-      "id": "planet-zoo-2-is-a-beautiful-sequel-and-a-fine-management-sim",
-      "titre": "Planet Zoo 2 is a beautiful sequel and a fine management sim, but it's the animals that steal the show",
-      "url": "https://www.eurogamer.net/planet-zoo-2-now-playing",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/planet-zoo-2-now-playing",
-          "titre": "Planet Zoo 2 is a beautiful sequel and a fine management sim, but it's the animals that steal the show"
-        }
-      ]
-    },
-    {
-      "id": "mario-kart-8-deluxe-has-been-updated-to-version-4-0-1-here-a",
-      "titre": "Mario Kart 8 Deluxe Has Been Updated To Version 4.0.1, Here Are The Full Patch Notes",
-      "url": "https://www.nintendolife.com/news/2026/10/mario-kart-8-deluxe-has-been-updated-to-version-4-0-1-here-are-the-full-patch-notes",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 13.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/mario-kart-8-deluxe-has-been-updated-to-version-4-0-1-here-are-the-full-patch-notes",
-          "titre": "Mario Kart 8 Deluxe Has Been Updated To Version 4.0.1, Here Are The Full Patch Notes"
-        }
-      ]
-    },
-    {
-      "id": "valve-is-clearing-out-its-discontinued-index-vr-headsets-if",
-      "titre": "Valve is clearing out its discontinued Index VR headsets if you want a cheap piece of history",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-is-clearing-out-its-discontinued-index-vr-headsets-if-you-want-a-cheap-piece-of-history/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-is-clearing-out-its-discontinued-index-vr-headsets-if-you-want-a-cheap-piece-of-history/",
-          "titre": "Valve is clearing out its discontinued Index VR headsets if you want a cheap piece of history"
-        }
-      ]
-    },
-    {
-      "id": "first-ps-plus-extra-game-removal-for-november-2026-confirmed",
-      "titre": "First PS Plus Extra Game Removal for November 2026 Confirmed",
-      "url": "https://www.pushsquare.com/news/2026/10/first-ps-plus-extra-game-removal-for-november-2026-confirmed",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 14.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/first-ps-plus-extra-game-removal-for-november-2026-confirmed",
-          "titre": "First PS Plus Extra Game Removal for November 2026 Confirmed"
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-remastered-ps5-players-start-to-wonder-where-a",
-      "titre": "The Witcher 3 Remastered PS5 Players Start to Wonder Where All the Mods Are",
-      "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastered-ps5-players-start-to-wonder-where-all-the-mods-are",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 15.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastered-ps5-players-start-to-wonder-where-all-the-mods-are",
-          "titre": "The Witcher 3 Remastered PS5 Players Start to Wonder Where All the Mods Are"
-        }
-      ]
-    },
-    {
-      "id": "kojima-says-he-was-just-like-bryan-from-the-resident-evil-mo",
-      "titre": "Kojima says he was 'just like Bryan' from the Resident Evil movie when he played RE1 in 1996: 'I kept getting game over after game over, shouting F***!'",
-      "url": "https://www.pcgamer.com/movies-tv/kojima-says-he-was-just-like-bryan-from-the-resident-evil-movie-when-he-played-re1-in-1996-i-kept-getting-game-over-after-game-over-shouting-f/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 16.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/kojima-says-he-was-just-like-bryan-from-the-resident-evil-movie-when-he-played-re1-in-1996-i-kept-getting-game-over-after-game-over-shouting-f/",
-          "titre": "Kojima says he was 'just like Bryan' from the Resident Evil movie when he played RE1 in 1996: 'I kept getting game over after game over, shouting F***!'"
-        }
-      ]
-    },
-    {
-      "id": "send-in-the-clown-is-a-turn-based-rpg-comedy-about-fighting",
-      "titre": "Send in the Clown is a turn-based RPG comedy about fighting one annoying child at a birthday party where there's only one fight in the whole game",
-      "url": "https://www.rockpapershotgun.com/send-in-the-clown-is-a-turn-based-rpg-comedy-about-fighting-one-annoying-child-at-a-birthday-party-where-theres-only-one-fight-in-the-whole-game",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 16.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/send-in-the-clown-is-a-turn-based-rpg-comedy-about-fighting-one-annoying-child-at-a-birthday-party-where-theres-only-one-fight-in-the-whole-game",
-          "titre": "Send in the Clown is a turn-based RPG comedy about fighting one annoying child at a birthday party where there's only one fight in the whole game"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Assassin's Creed Black Flag Resynced was a big hit, and now it's time for big layoffs at the studio that made it",
+    "Asha Sharma announces Xbox Labs project to \"explore new technology,\" which sure sounds like tinkering with old games through AI",
+    "Epic says it’s ‘vibe coded’ its new Epic Games Launcher with AI, because ‘programming is hard’",
+    "Rockstar 'union busting' tribunal extended to November 18th, meaning it will close just days before GTA 6's release date"
+  ]
 };
