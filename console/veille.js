@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "14/10/2026 à 18h40",
+  "collecte": "14/10/2026 à 20h31",
   "seuil": 14,
   "sujets": [
     {
@@ -16,8 +16,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 6,
-      "heures": 2.6,
-      "chaleur": 24,
+      "heures": 4.5,
+      "chaleur": 22,
       "liens": [
         {
           "source": "PC Gamer",
@@ -62,7 +62,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 0.4,
+      "heures": 2.2,
       "chaleur": 17,
       "liens": [
         {
@@ -97,7 +97,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 0.1,
+      "heures": 1.9,
       "chaleur": 15,
       "liens": [
         {
@@ -127,8 +127,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 3.4,
-      "chaleur": 14,
+      "heures": 5.2,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -156,8 +156,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 3.9,
-      "chaleur": 14,
+      "heures": 5.8,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -172,26 +172,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "fortnite-is-finally-coming-to-linux-thanks-to-epic-rebuildin",
-      "titre": "Fortnite is finally coming to Linux thanks to Epic rebuilding Easy Anti-Cheat, though Steam Deck support is still in the wind",
-      "url": "https://www.rockpapershotgun.com/fortnite-is-finally-coming-to-linux-thanks-to-epic-rebuilding-easy-anti-cheat-though-steam-deck-support-is-still-in-the-wind",
+      "id": "after-two-hours-playing-the-legend-of-zelda-ocarina-of-time",
+      "titre": "After two hours playing The Legend of Zelda: Ocarina of Time remake, it’s fired a Hookshot into my heart again",
+      "url": "https://www.videogameschronicle.com/features/after-two-hours-playing-the-legend-of-zelda-ocarina-of-time-remake-its-fired-a-hookshot-into-my-heart-again/",
       "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
+        "Eurogamer",
+        "VGC"
       ],
       "reprises": 2,
-      "heures": 2.2,
-      "chaleur": 11,
+      "heures": 7.5,
+      "chaleur": 10,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/fortnite-is-finally-coming-to-linux-thanks-to-epic-rebuilding-easy-anti-cheat-though-steam-deck-support-is-still-in-the-wind",
-          "titre": "Fortnite is finally coming to Linux thanks to Epic rebuilding Easy Anti-Cheat, though Steam Deck support is still in the wind"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/features/after-two-hours-playing-the-legend-of-zelda-ocarina-of-time-remake-its-fired-a-hookshot-into-my-heart-again/",
+          "titre": "After two hours playing The Legend of Zelda: Ocarina of Time remake, it’s fired a Hookshot into my heart again"
         },
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/battle-royale/fortnite-is-coming-to-linux-once-epic-improves-easy-anti-cheat/",
-          "titre": "Fortnite is coming to Linux once Epic improves Easy Anti-Cheat"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/legend-zelda-ocarina-of-time-switch2-remake-owl",
+          "titre": "The Legend of Zelda: Ocarina of Time's infamous tutorial owl seemingly won't trap you in conversation in the Switch 2 remake"
         }
       ]
     },
@@ -204,7 +204,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 6.2,
+      "heures": 8.0,
       "chaleur": 10,
       "liens": [
         {
@@ -228,7 +228,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.8,
+      "heures": 11.7,
       "chaleur": 10,
       "liens": [
         {
@@ -244,6 +244,54 @@ const VEILLE = {
       ]
     },
     {
+      "id": "video-the-walking-dead-s-chandler-riggs-stars-in-resident-ev",
+      "titre": "Video: The Walking Dead's Chandler Riggs Stars In Resident Evil 7 Short Film",
+      "url": "https://www.nintendolife.com/news/2026/10/video-the-walking-deads-chandler-riggs-stars-in-resident-evil-7-short-film",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 1.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/video-the-walking-deads-chandler-riggs-stars-in-resident-evil-7-short-film",
+          "titre": "Video: The Walking Dead's Chandler Riggs Stars In Resident Evil 7 Short Film"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/the-walking-deads-chandler-riggs-made-a-resident-evil-7-short-film-even-though-its-impossible-to-please-everybody/",
+          "titre": "The Walking Dead's Chandler Riggs made a Resident Evil 7 short film even though 'it's impossible to please everybody'"
+        }
+      ]
+    },
+    {
+      "id": "zero-escape-and-the-hundred-line-co-creator-s-new-studio-mig",
+      "titre": "Zero Escape and The Hundred Line co-creator's new studio \"might literally crash into a million pieces\" after the cancellation of its next game",
+      "url": "https://www.eurogamer.net/zero-escape-hundred-line-new-studio-crash-game-cancellation",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 1.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/zero-escape-hundred-line-new-studio-crash-game-cancellation",
+          "titre": "Zero Escape and The Hundred Line co-creator's new studio \"might literally crash into a million pieces\" after the cancellation of its next game"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/kotaro-uchikoshi-creator-of-zero-escape-and-ai-the-somnium-files-launches-new-studio",
+          "titre": "Kotaro Uchikoshi, Creator Of Zero Escape And AI: The Somnium Files, Launches New Studio"
+        }
+      ]
+    },
+    {
       "id": "s-box-plans-to-go-free-to-play-and-embrace-human-curation-sa",
       "titre": "S&box plans to go free-to-play and embrace human curation saying \"Netflix for games doesn't work\"",
       "url": "https://www.gamesindustry.biz/sbox-plans-to-go-free-to-play-and-embrace-human-curation-saying-netflix-for-games-doesnt-work",
@@ -252,7 +300,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 0.7,
+      "heures": 2.5,
       "chaleur": 9,
       "liens": [
         {
@@ -275,7 +323,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.5,
       "chaleur": 9,
       "liens": [
         {
@@ -294,7 +342,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.8,
+      "heures": 3.7,
       "chaleur": 9,
       "liens": [
         {
@@ -310,20 +358,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "round-up-the-previews-are-in-for-zelda-ocarina-of-time-on-sw",
-      "titre": "Round Up: The Previews Are In For Zelda: Ocarina Of Time On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-previews-are-in-for-zelda-ocarina-of-time-on-switch-2",
+      "id": "fortnite-is-finally-coming-to-linux-thanks-to-epic-rebuildin",
+      "titre": "Fortnite is finally coming to Linux thanks to Epic rebuilding Easy Anti-Cheat, though Steam Deck support is still in the wind",
+      "url": "https://www.rockpapershotgun.com/fortnite-is-finally-coming-to-linux-thanks-to-epic-rebuilding-easy-anti-cheat-though-steam-deck-support-is-still-in-the-wind",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer",
+        "Rock Paper Shotgun"
       ],
-      "reprises": 1,
-      "heures": 3.7,
+      "reprises": 2,
+      "heures": 4.0,
       "chaleur": 9,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-previews-are-in-for-zelda-ocarina-of-time-on-switch-2",
-          "titre": "Round Up: The Previews Are In For Zelda: Ocarina Of Time On Switch 2"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/fortnite-is-finally-coming-to-linux-thanks-to-epic-rebuilding-easy-anti-cheat-though-steam-deck-support-is-still-in-the-wind",
+          "titre": "Fortnite is finally coming to Linux thanks to Epic rebuilding Easy Anti-Cheat, though Steam Deck support is still in the wind"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/battle-royale/fortnite-is-coming-to-linux-once-epic-improves-easy-anti-cheat/",
+          "titre": "Fortnite is coming to Linux once Epic improves Easy Anti-Cheat"
         }
       ]
     },
@@ -336,7 +390,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.4,
+      "heures": 6.2,
       "chaleur": 9,
       "liens": [
         {
@@ -352,30 +406,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "after-two-hours-playing-the-legend-of-zelda-ocarina-of-time",
-      "titre": "After two hours playing The Legend of Zelda: Ocarina of Time remake, it’s fired a Hookshot into my heart again",
-      "url": "https://www.videogameschronicle.com/features/after-two-hours-playing-the-legend-of-zelda-ocarina-of-time-remake-its-fired-a-hookshot-into-my-heart-again/",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 5.7,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/after-two-hours-playing-the-legend-of-zelda-ocarina-of-time-remake-its-fired-a-hookshot-into-my-heart-again/",
-          "titre": "After two hours playing The Legend of Zelda: Ocarina of Time remake, it’s fired a Hookshot into my heart again"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ocarina-of-time-remake-switch-2-preview",
-          "titre": "No matter what your opinion is on the art style, The Legend of Zelda: Ocarina of Time is shaping up to be a brilliant remake"
-        }
-      ]
-    },
-    {
       "id": "gta-6-was-originally-project-americas-and-covered-big-swaths",
       "titre": "GTA 6 was originally Project Americas and covered \"big swaths\" of country's north and south, Rockstar reveals, in interview tackling crunch, delays, and leaks",
       "url": "https://www.eurogamer.net/gta-6-project-americas-rockstar-crunch-delays-leaks",
@@ -383,13 +413,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 8.9,
       "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta-6-project-americas-rockstar-crunch-delays-leaks",
           "titre": "GTA 6 was originally Project Americas and covered \"big swaths\" of country's north and south, Rockstar reveals, in interview tackling crunch, delays, and leaks"
+        }
+      ]
+    },
+    {
+      "id": "xbox-polling-players-on-whether-fallout-elder-scrolls-or-eve",
+      "titre": "Xbox Polling Players on Whether Fallout, Elder Scrolls, or Even Minecraft Should Go Exclusive",
+      "url": "https://www.pushsquare.com/news/2026/10/xbox-polling-players-on-whether-fallout-elder-scrolls-or-even-minecraft-should-go-exclusive",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/xbox-polling-players-on-whether-fallout-elder-scrolls-or-even-minecraft-should-go-exclusive",
+          "titre": "Xbox Polling Players on Whether Fallout, Elder Scrolls, or Even Minecraft Should Go Exclusive"
         }
       ]
     },
@@ -401,7 +449,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 2.2,
       "chaleur": 8,
       "liens": [
         {
@@ -419,7 +467,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.5,
       "chaleur": 8,
       "liens": [
         {
@@ -430,38 +478,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "review-tales-of-eternia-remastered-ps5-classic-playstation-r",
-      "titre": "Review: Tales of Eternia Remastered (PS5) - Classic PlayStation RPG Shows Its Age",
-      "url": "https://www.pushsquare.com/reviews/ps5/tales-of-eternia-remastered",
+      "id": "round-up-the-previews-are-in-for-zelda-ocarina-of-time-on-sw",
+      "titre": "Round Up: The Previews Are In For Zelda: Ocarina Of Time On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-previews-are-in-for-zelda-ocarina-of-time-on-switch-2",
       "sources": [
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 8,
+      "heures": 5.5,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/tales-of-eternia-remastered",
-          "titre": "Review: Tales of Eternia Remastered (PS5) - Classic PlayStation RPG Shows Its Age"
-        }
-      ]
-    },
-    {
-      "id": "xbox-ceo-reportedly-warns-firm-will-not-survive-if-it-only-r",
-      "titre": "Xbox CEO reportedly warns firm will \"not survive\" if it only relies on existing franchises",
-      "url": "https://www.gamesindustry.biz/xbox-ceo-reportedly-warns-firm-will-not-survive-if-it-only-relies-on-existing-franchises",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/xbox-ceo-reportedly-warns-firm-will-not-survive-if-it-only-relies-on-existing-franchises",
-          "titre": "Xbox CEO reportedly warns firm will \"not survive\" if it only relies on existing franchises"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-previews-are-in-for-zelda-ocarina-of-time-on-switch-2",
+          "titre": "Round Up: The Previews Are In For Zelda: Ocarina Of Time On Switch 2"
         }
       ]
     },
@@ -474,7 +504,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 4.4,
+      "heures": 6.3,
       "chaleur": 7,
       "liens": [
         {
@@ -497,7 +527,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 7.4,
       "chaleur": 7,
       "liens": [
         {
@@ -515,13 +545,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.2,
+      "heures": 11.0,
       "chaleur": 7,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/if-youve-sworn-off-genai-crazy-taxi-and-dislike-all-the-twerking-in-gta-6-consider-shifu-traffic-masters-a-jolly-open-world-driving-game-set-in-1990s-china",
           "titre": "If you've sworn off genAI Crazy Taxi and dislike all the twerking in GTA 6, consider Shifu: Traffic Masters, a jolly open world driving game set in 1990s China"
+        }
+      ]
+    },
+    {
+      "id": "xbox-ceo-reportedly-warns-firm-will-not-survive-if-it-only-r",
+      "titre": "Xbox CEO reportedly warns firm will \"not survive\" if it only relies on existing franchises",
+      "url": "https://www.gamesindustry.biz/xbox-ceo-reportedly-warns-firm-will-not-survive-if-it-only-relies-on-existing-franchises",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 12.8,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/xbox-ceo-reportedly-warns-firm-will-not-survive-if-it-only-relies-on-existing-franchises",
+          "titre": "Xbox CEO reportedly warns firm will \"not survive\" if it only relies on existing franchises"
         }
       ]
     },
@@ -562,6 +610,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "duke-nukem-3d-level-designer-richard-levelord-gray-dies-aged",
+      "titre": "Duke Nukem 3D level designer Richard \"Levelord\" Gray dies aged 68",
+      "url": "https://www.gamesindustry.biz/duke-nukem-3d-level-designer-richard-levelord-gray-dies-aged-68",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/duke-nukem-3d-level-designer-richard-levelord-gray-dies-aged-68",
+          "titre": "Duke Nukem 3D level designer Richard \"Levelord\" Gray dies aged 68"
+        }
+      ]
+    },
+    {
+      "id": "hideo-kojima-shows-there-s-no-hard-feelings-after-physint-ax",
+      "titre": "Hideo Kojima Shows There's No Hard Feelings After Physint Axe by Visiting Sony City",
+      "url": "https://www.pushsquare.com/news/2026/10/hideo-kojima-shows-theres-no-hard-feelings-after-physint-axe-by-visiting-sony-city",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/hideo-kojima-shows-theres-no-hard-feelings-after-physint-axe-by-visiting-sony-city",
+          "titre": "Hideo Kojima Shows There's No Hard Feelings After Physint Axe by Visiting Sony City"
+        }
+      ]
+    },
+    {
       "id": "study-finds-almost-half-of-ps5-disc-backlash-came-from-fake",
       "titre": "Study Finds Almost Half of PS5 Disc Backlash Came from Fake Accounts",
       "url": "https://www.pushsquare.com/news/2026/10/study-finds-almost-half-of-ps5-disc-backlash-came-from-fake-accounts",
@@ -569,7 +653,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.7,
+      "heures": 2.5,
       "chaleur": 6,
       "liens": [
         {
@@ -587,7 +671,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.2,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
@@ -605,7 +689,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -623,31 +707,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/ps5-pro-easily-the-best-place-to-play-the-witcher-3-remastered-on-console-finds-digital-foundry",
           "titre": "PS5 Pro Easily the Best Place to Play The Witcher 3 Remastered on Console, Finds Digital Foundry"
-        }
-      ]
-    },
-    {
-      "id": "kotaro-uchikoshi-creator-of-zero-escape-and-ai-the-somnium-f",
-      "titre": "Kotaro Uchikoshi, Creator Of Zero Escape And AI: The Somnium Files, Launches New Studio",
-      "url": "https://www.nintendolife.com/news/2026/10/kotaro-uchikoshi-creator-of-zero-escape-and-ai-the-somnium-files-launches-new-studio",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/kotaro-uchikoshi-creator-of-zero-escape-and-ai-the-somnium-files-launches-new-studio",
-          "titre": "Kotaro Uchikoshi, Creator Of Zero Escape And AI: The Somnium Files, Launches New Studio"
         }
       ]
     },
@@ -659,7 +725,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -677,31 +743,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/fps/looking-back-on-10-years-of-overwatch-the-promises-kept-and-where-team-4-goes-from-here/",
           "titre": "Looking back on 10 years of Overwatch, the promises kept, and where Team 4 goes from here"
-        }
-      ]
-    },
-    {
-      "id": "the-walking-dead-s-chandler-riggs-made-a-resident-evil-7-sho",
-      "titre": "The Walking Dead's Chandler Riggs made a Resident Evil 7 short film even though 'it's impossible to please everybody'",
-      "url": "https://www.pcgamer.com/movies-tv/the-walking-deads-chandler-riggs-made-a-resident-evil-7-short-film-even-though-its-impossible-to-please-everybody/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/the-walking-deads-chandler-riggs-made-a-resident-evil-7-short-film-even-though-its-impossible-to-please-everybody/",
-          "titre": "The Walking Dead's Chandler Riggs made a Resident Evil 7 short film even though 'it's impossible to please everybody'"
         }
       ]
     },
@@ -713,7 +761,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 2.1,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
@@ -724,218 +772,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "call-of-duty-can-t-let-go-of-shipment-added-to-modern-warfar",
-      "titre": "Call of Duty Can't Let Go of Shipment, Added to Modern Warfare 4 Just Days After Release",
-      "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-cant-let-go-of-shipment-added-to-modern-warfare-4-just-days-after-release",
+      "id": "review-tales-of-eternia-remastered-ps5-classic-playstation-r",
+      "titre": "Review: Tales of Eternia Remastered (PS5) - Classic PlayStation RPG Shows Its Age",
+      "url": "https://www.pushsquare.com/reviews/ps5/tales-of-eternia-remastered",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.2,
+      "heures": 5.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-cant-let-go-of-shipment-added-to-modern-warfare-4-just-days-after-release",
-          "titre": "Call of Duty Can't Let Go of Shipment, Added to Modern Warfare 4 Just Days After Release"
-        }
-      ]
-    },
-    {
-      "id": "over-the-hill-s-off-roading-simulation-winches-you-in-with-a",
-      "titre": "Over the Hill's off-roading simulation winches you in with a more laid-back take than SnowRunner's, but it'll still bite careless drivers",
-      "url": "https://www.rockpapershotgun.com/over-the-hills-off-roading-simulation-winches-you-in-with-a-more-laid-back-take-than-snowrunners-but-itll-still-bite-careless-drivers",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/over-the-hills-off-roading-simulation-winches-you-in-with-a-more-laid-back-take-than-snowrunners-but-itll-still-bite-careless-drivers",
-          "titre": "Over the Hill's off-roading simulation winches you in with a more laid-back take than SnowRunner's, but it'll still bite careless drivers"
-        }
-      ]
-    },
-    {
-      "id": "mini-review-toy-story-retro-roundup-ps5-this-fun-toy-box-pro",
-      "titre": "Mini Review: Toy Story: Retro Roundup (PS5) - This Fun Toy Box Provides a Nostalgic Buzz",
-      "url": "https://www.pushsquare.com/reviews/ps5/toy-story-retro-roundup",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/toy-story-retro-roundup",
-          "titre": "Mini Review: Toy Story: Retro Roundup (PS5) - This Fun Toy Box Provides a Nostalgic Buzz"
-        }
-      ]
-    },
-    {
-      "id": "october-s-ps-plus-game-catalog-titles-include-mafia-the-old",
-      "titre": "October’s PS Plus Game Catalog titles include Mafia: The Old Country and Tales of Arise",
-      "url": "https://www.videogameschronicle.com/news/octobers-ps-plus-game-catalog-titles-include-mafia-the-old-country-and-tales-of-arise/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/octobers-ps-plus-game-catalog-titles-include-mafia-the-old-country-and-tales-of-arise/",
-          "titre": "October’s PS Plus Game Catalog titles include Mafia: The Old Country and Tales of Arise"
-        }
-      ]
-    },
-    {
-      "id": "hogwarts-legacy-s-dlss-5-update-shows-devs-have-been-listeni",
-      "titre": "Hogwarts Legacy's DLSS 5 update shows devs have been listening to PC gamers about keeping it the hell away from game characters",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/hogwarts-legacys-dlss-5-update-shows-devs-have-been-listening-to-pc-gamers-about-keeping-it-the-hell-away-from-game-characters/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/hogwarts-legacys-dlss-5-update-shows-devs-have-been-listening-to-pc-gamers-about-keeping-it-the-hell-away-from-game-characters/",
-          "titre": "Hogwarts Legacy's DLSS 5 update shows devs have been listening to PC gamers about keeping it the hell away from game characters"
-        }
-      ]
-    },
-    {
-      "id": "ai-godfather-worries-we-re-creating-alien-beings-with-artif",
-      "titre": "'AI godfather' worries we're creating 'alien beings' with artificial intelligence, with pesky moral implications",
-      "url": "https://www.pcgamer.com/software/ai/ai-godfather-worries-were-creating-alien-beings-with-artificial-intelligence-with-pesky-moral-implications/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/ai-godfather-worries-were-creating-alien-beings-with-artificial-intelligence-with-pesky-moral-implications/",
-          "titre": "'AI godfather' worries we're creating 'alien beings' with artificial intelligence, with pesky moral implications"
-        }
-      ]
-    },
-    {
-      "id": "looks-like-a-lighter-carbon-fibre-version-of-the-best-gaming",
-      "titre": "Looks like a lighter, carbon fibre version of the best gaming mouse I've held is on its way, but don't look at the price tag",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/looks-like-a-lighter-carbon-fibre-version-of-the-best-gaming-mouse-ive-held-is-on-its-way-but-dont-look-at-the-price-tag/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-mice/looks-like-a-lighter-carbon-fibre-version-of-the-best-gaming-mouse-ive-held-is-on-its-way-but-dont-look-at-the-price-tag/",
-          "titre": "Looks like a lighter, carbon fibre version of the best gaming mouse I've held is on its way, but don't look at the price tag"
-        }
-      ]
-    },
-    {
-      "id": "if-new-blood-had-made-dusk-2-there-d-be-no-iron-lung-and-now",
-      "titre": "If New Blood had made Dusk 2, there'd be no Iron Lung, 'and now David Szymanski has got a movie that made $50 million'—so maybe there's wisdom in not churning out sequels",
-      "url": "https://www.pcgamer.com/games/fps/if-new-blood-had-made-dusk-2-thered-be-no-iron-lung-and-now-david-szymanski-has-got-a-movie-that-made-usd50-million-so-maybe-theres-wisdom-in-not-churning-out-sequels/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/if-new-blood-had-made-dusk-2-thered-be-no-iron-lung-and-now-david-szymanski-has-got-a-movie-that-made-usd50-million-so-maybe-theres-wisdom-in-not-churning-out-sequels/",
-          "titre": "If New Blood had made Dusk 2, there'd be no Iron Lung, 'and now David Szymanski has got a movie that made $50 million'—so maybe there's wisdom in not churning out sequels"
-        }
-      ]
-    },
-    {
-      "id": "arenanet-solves-an-ongoing-guild-wars-2-issue-by-ditching-pa",
-      "titre": "ArenaNet solves an ongoing Guild Wars 2 issue by ditching paid Living World add-ons and bundling them with expansions",
-      "url": "https://www.eurogamer.net/guild-wars-2-living-world-expansions",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/guild-wars-2-living-world-expansions",
-          "titre": "ArenaNet solves an ongoing Guild Wars 2 issue by ditching paid Living World add-ons and bundling them with expansions"
-        }
-      ]
-    },
-    {
-      "id": "wow-forever-has-a-new-kind-of-ban-to-deal-with-real-money-tr",
-      "titre": "WoW: Forever has a new kind of ban to deal with real money trading",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-has-a-new-kind-of-ban-to-deal-with-real-money-trading/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-has-a-new-kind-of-ban-to-deal-with-real-money-trading/",
-          "titre": "WoW: Forever has a new kind of ban to deal with real money trading"
-        }
-      ]
-    },
-    {
-      "id": "i-wanted-to-make-the-show-i-wanted-to-watch-how-galaxies-fo",
-      "titre": "\"I wanted to make the show I wanted to watch\" – How Galaxies found a place in the crowded showcase landscape",
-      "url": "https://www.gamesindustry.biz/i-wanted-to-make-the-show-i-wanted-to-watch-how-galaxies-found-a-place-in-the-crowded-showcase-landscape",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/i-wanted-to-make-the-show-i-wanted-to-watch-how-galaxies-found-a-place-in-the-crowded-showcase-landscape",
-          "titre": "\"I wanted to make the show I wanted to watch\" – How Galaxies found a place in the crowded showcase landscape"
-        }
-      ]
-    },
-    {
-      "id": "doom-can-run-on-a-dns-database-now-and-one-of-the-technology",
-      "titre": "Doom can 'run' on a DNS database now, and one of the technology's pioneers says 'I can't decide whether this is deliciously horrible, or else horribly delicious'",
-      "url": "https://www.pcgamer.com/hardware/doom-can-run-on-a-dns-database-now-and-one-of-the-technologys-pioneers-says-i-cant-decide-whether-this-is-deliciously-horrible-or-else-horribly-delicious/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/doom-can-run-on-a-dns-database-now-and-one-of-the-technologys-pioneers-says-i-cant-decide-whether-this-is-deliciously-horrible-or-else-horribly-delicious/",
-          "titre": "Doom can 'run' on a DNS database now, and one of the technology's pioneers says 'I can't decide whether this is deliciously horrible, or else horribly delicious'"
+          "url": "https://www.pushsquare.com/reviews/ps5/tales-of-eternia-remastered",
+          "titre": "Review: Tales of Eternia Remastered (PS5) - Classic PlayStation RPG Shows Its Age"
         }
       ]
     },
@@ -947,7 +797,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 9.2,
       "chaleur": 6,
       "liens": [
         {
@@ -965,7 +815,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 9.5,
       "chaleur": 6,
       "liens": [
         {
@@ -983,7 +833,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 15.8,
       "chaleur": 5,
       "liens": [
         {
@@ -1001,13 +851,229 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 17.8,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/oblivion-remastered-gets-a-new-switch-2-update-resolves-global-visual-degradation-issue",
           "titre": "Oblivion Remastered Gets A New Switch 2 Update, Resolves \"Global Visual Degradation\" Issue"
+        }
+      ]
+    },
+    {
+      "id": "call-of-duty-can-t-let-go-of-shipment-added-to-modern-warfar",
+      "titre": "Call of Duty Can't Let Go of Shipment, Added to Modern Warfare 4 Just Days After Release",
+      "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-cant-let-go-of-shipment-added-to-modern-warfare-4-just-days-after-release",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-cant-let-go-of-shipment-added-to-modern-warfare-4-just-days-after-release",
+          "titre": "Call of Duty Can't Let Go of Shipment, Added to Modern Warfare 4 Just Days After Release"
+        }
+      ]
+    },
+    {
+      "id": "over-the-hill-s-off-roading-simulation-winches-you-in-with-a",
+      "titre": "Over the Hill's off-roading simulation winches you in with a more laid-back take than SnowRunner's, but it'll still bite careless drivers",
+      "url": "https://www.rockpapershotgun.com/over-the-hills-off-roading-simulation-winches-you-in-with-a-more-laid-back-take-than-snowrunners-but-itll-still-bite-careless-drivers",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/over-the-hills-off-roading-simulation-winches-you-in-with-a-more-laid-back-take-than-snowrunners-but-itll-still-bite-careless-drivers",
+          "titre": "Over the Hill's off-roading simulation winches you in with a more laid-back take than SnowRunner's, but it'll still bite careless drivers"
+        }
+      ]
+    },
+    {
+      "id": "mini-review-toy-story-retro-roundup-ps5-this-fun-toy-box-pro",
+      "titre": "Mini Review: Toy Story: Retro Roundup (PS5) - This Fun Toy Box Provides a Nostalgic Buzz",
+      "url": "https://www.pushsquare.com/reviews/ps5/toy-story-retro-roundup",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/toy-story-retro-roundup",
+          "titre": "Mini Review: Toy Story: Retro Roundup (PS5) - This Fun Toy Box Provides a Nostalgic Buzz"
+        }
+      ]
+    },
+    {
+      "id": "october-s-ps-plus-game-catalog-titles-include-mafia-the-old",
+      "titre": "October’s PS Plus Game Catalog titles include Mafia: The Old Country and Tales of Arise",
+      "url": "https://www.videogameschronicle.com/news/octobers-ps-plus-game-catalog-titles-include-mafia-the-old-country-and-tales-of-arise/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/octobers-ps-plus-game-catalog-titles-include-mafia-the-old-country-and-tales-of-arise/",
+          "titre": "October’s PS Plus Game Catalog titles include Mafia: The Old Country and Tales of Arise"
+        }
+      ]
+    },
+    {
+      "id": "hogwarts-legacy-s-dlss-5-update-shows-devs-have-been-listeni",
+      "titre": "Hogwarts Legacy's DLSS 5 update shows devs have been listening to PC gamers about keeping it the hell away from game characters",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/hogwarts-legacys-dlss-5-update-shows-devs-have-been-listening-to-pc-gamers-about-keeping-it-the-hell-away-from-game-characters/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/hogwarts-legacys-dlss-5-update-shows-devs-have-been-listening-to-pc-gamers-about-keeping-it-the-hell-away-from-game-characters/",
+          "titre": "Hogwarts Legacy's DLSS 5 update shows devs have been listening to PC gamers about keeping it the hell away from game characters"
+        }
+      ]
+    },
+    {
+      "id": "ai-godfather-worries-we-re-creating-alien-beings-with-artif",
+      "titre": "'AI godfather' worries we're creating 'alien beings' with artificial intelligence, with pesky moral implications",
+      "url": "https://www.pcgamer.com/software/ai/ai-godfather-worries-were-creating-alien-beings-with-artificial-intelligence-with-pesky-moral-implications/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/ai-godfather-worries-were-creating-alien-beings-with-artificial-intelligence-with-pesky-moral-implications/",
+          "titre": "'AI godfather' worries we're creating 'alien beings' with artificial intelligence, with pesky moral implications"
+        }
+      ]
+    },
+    {
+      "id": "looks-like-a-lighter-carbon-fibre-version-of-the-best-gaming",
+      "titre": "Looks like a lighter, carbon fibre version of the best gaming mouse I've held is on its way, but don't look at the price tag",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/looks-like-a-lighter-carbon-fibre-version-of-the-best-gaming-mouse-ive-held-is-on-its-way-but-dont-look-at-the-price-tag/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/looks-like-a-lighter-carbon-fibre-version-of-the-best-gaming-mouse-ive-held-is-on-its-way-but-dont-look-at-the-price-tag/",
+          "titre": "Looks like a lighter, carbon fibre version of the best gaming mouse I've held is on its way, but don't look at the price tag"
+        }
+      ]
+    },
+    {
+      "id": "if-new-blood-had-made-dusk-2-there-d-be-no-iron-lung-and-now",
+      "titre": "If New Blood had made Dusk 2, there'd be no Iron Lung, 'and now David Szymanski has got a movie that made $50 million'—so maybe there's wisdom in not churning out sequels",
+      "url": "https://www.pcgamer.com/games/fps/if-new-blood-had-made-dusk-2-thered-be-no-iron-lung-and-now-david-szymanski-has-got-a-movie-that-made-usd50-million-so-maybe-theres-wisdom-in-not-churning-out-sequels/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/if-new-blood-had-made-dusk-2-thered-be-no-iron-lung-and-now-david-szymanski-has-got-a-movie-that-made-usd50-million-so-maybe-theres-wisdom-in-not-churning-out-sequels/",
+          "titre": "If New Blood had made Dusk 2, there'd be no Iron Lung, 'and now David Szymanski has got a movie that made $50 million'—so maybe there's wisdom in not churning out sequels"
+        }
+      ]
+    },
+    {
+      "id": "arenanet-solves-an-ongoing-guild-wars-2-issue-by-ditching-pa",
+      "titre": "ArenaNet solves an ongoing Guild Wars 2 issue by ditching paid Living World add-ons and bundling them with expansions",
+      "url": "https://www.eurogamer.net/guild-wars-2-living-world-expansions",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/guild-wars-2-living-world-expansions",
+          "titre": "ArenaNet solves an ongoing Guild Wars 2 issue by ditching paid Living World add-ons and bundling them with expansions"
+        }
+      ]
+    },
+    {
+      "id": "wow-forever-has-a-new-kind-of-ban-to-deal-with-real-money-tr",
+      "titre": "WoW: Forever has a new kind of ban to deal with real money trading",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-has-a-new-kind-of-ban-to-deal-with-real-money-trading/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-has-a-new-kind-of-ban-to-deal-with-real-money-trading/",
+          "titre": "WoW: Forever has a new kind of ban to deal with real money trading"
+        }
+      ]
+    },
+    {
+      "id": "i-wanted-to-make-the-show-i-wanted-to-watch-how-galaxies-fo",
+      "titre": "\"I wanted to make the show I wanted to watch\" – How Galaxies found a place in the crowded showcase landscape",
+      "url": "https://www.gamesindustry.biz/i-wanted-to-make-the-show-i-wanted-to-watch-how-galaxies-found-a-place-in-the-crowded-showcase-landscape",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/i-wanted-to-make-the-show-i-wanted-to-watch-how-galaxies-found-a-place-in-the-crowded-showcase-landscape",
+          "titre": "\"I wanted to make the show I wanted to watch\" – How Galaxies found a place in the crowded showcase landscape"
+        }
+      ]
+    },
+    {
+      "id": "doom-can-run-on-a-dns-database-now-and-one-of-the-technology",
+      "titre": "Doom can 'run' on a DNS database now, and one of the technology's pioneers says 'I can't decide whether this is deliciously horrible, or else horribly delicious'",
+      "url": "https://www.pcgamer.com/hardware/doom-can-run-on-a-dns-database-now-and-one-of-the-technologys-pioneers-says-i-cant-decide-whether-this-is-deliciously-horrible-or-else-horribly-delicious/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/doom-can-run-on-a-dns-database-now-and-one-of-the-technologys-pioneers-says-i-cant-decide-whether-this-is-deliciously-horrible-or-else-horribly-delicious/",
+          "titre": "Doom can 'run' on a DNS database now, and one of the technology's pioneers says 'I can't decide whether this is deliciously horrible, or else horribly delicious'"
         }
       ]
     },
@@ -1019,7 +1085,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1037,7 +1103,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 6.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1055,7 +1121,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1073,7 +1139,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1091,7 +1157,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 6.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1109,7 +1175,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1127,7 +1193,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1145,7 +1211,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1154,64 +1220,7 @@ const VEILLE = {
           "titre": "Metro 2039 Dev Puts PS5 Pre-Orders Live and Confirms DLC"
         }
       ]
-    },
-    {
-      "id": "rockstar-co-founder-dan-houser-blames-himself-for-max-payne",
-      "titre": "Rockstar co-founder Dan Houser blames himself for Max Payne 3 - \"a large amount of that failure was on me\"",
-      "url": "https://www.eurogamer.net/max-payne-3-rockstar-dan-houser-failure-blame",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 5.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/max-payne-3-rockstar-dan-houser-failure-blame",
-          "titre": "Rockstar co-founder Dan Houser blames himself for Max Payne 3 - \"a large amount of that failure was on me\""
-        }
-      ]
-    },
-    {
-      "id": "viral-co-op-hit-peak-is-seemingly-coming-to-ps5",
-      "titre": "Viral co-op hit Peak is seemingly coming to PS5",
-      "url": "https://www.videogameschronicle.com/news/viral-co-op-hit-peak-is-seemingly-coming-to-ps5/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 6.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/viral-co-op-hit-peak-is-seemingly-coming-to-ps5/",
-          "titre": "Viral co-op hit Peak is seemingly coming to PS5"
-        }
-      ]
-    },
-    {
-      "id": "gundam-rogue-orbit-blowout-confirmed-for-gundam-s-40-year-an",
-      "titre": "Gundam Rogue Orbit Blowout Confirmed for Gundam's 40 Year Anniversary Broadcast This Month",
-      "url": "https://www.pushsquare.com/news/2026/10/gundam-rogue-orbit-blowout-confirmed-for-gundams-40-year-anniversary-broadcast-this-month",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/gundam-rogue-orbit-blowout-confirmed-for-gundams-40-year-anniversary-broadcast-this-month",
-          "titre": "Gundam Rogue Orbit Blowout Confirmed for Gundam's 40 Year Anniversary Broadcast This Month"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "Epic throws shade at Steam, admits to vibe-coding the new Epic Games Launcher with AI \"to be faster than the other guy\"",
-    "GTA 6 leaker threatens Take-Two with a 'dead man's switch'"
-  ]
+  "alertes": []
 };
