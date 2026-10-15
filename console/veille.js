@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "15/10/2026 à 00h27",
+  "collecte": "15/10/2026 à 07h19",
   "seuil": 14,
   "sujets": [
     {
@@ -10,13 +10,13 @@ const VEILLE = {
       "sources": [
         "Game Developer",
         "GamesIndustry.biz",
-        "Nintendo Life",
         "Push Square",
+        "Rock Paper Shotgun",
         "VGC"
       ],
       "reprises": 5,
-      "heures": 2.3,
-      "chaleur": 18,
+      "heures": 9.2,
+      "chaleur": 19,
       "liens": [
         {
           "source": "Game Developer",
@@ -29,9 +29,9 @@ const VEILLE = {
           "titre": "Trials Studio RedLynx Looks Set to Close as Ubisoft Continues Major Restructure"
         },
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/redlynx-the-studio-behind-the-trials-series-is-being-closed-by-ubisoft",
-          "titre": "RedLynx, The Studio Behind The Trials Series, Is Being Closed By Ubisoft"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/ubisoft-are-making-layoffs-at-assassins-creed-black-flag-resynced-studio-ubisoft-singapore-while-closing-trials-creators-redlynx-according-to-report",
+          "titre": "Ubisoft are making layoffs at Assassin's Creed Black Flag Resynced studio Ubisoft Singapore while closing Trials creators Redlynx"
         },
         {
           "source": "VGC",
@@ -55,8 +55,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 5.9,
-      "chaleur": 13,
+      "heures": 12.7,
+      "chaleur": 12,
       "liens": [
         {
           "source": "PC Gamer",
@@ -76,36 +76,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "assassin-s-creed-black-flag-resynced-was-a-big-hit-and-now-i",
-      "titre": "Assassin's Creed Black Flag Resynced was a big hit, and now it's time for big layoffs at the studio that made it",
-      "url": "https://www.pcgamer.com/gaming-industry/assassins-creed-black-flag-resynced-was-a-big-hit-and-now-its-time-for-big-layoffs-at-the-studio-that-made-it/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 8.4,
-      "chaleur": 13,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/assassins-creed-black-flag-resynced-was-a-big-hit-and-now-its-time-for-big-layoffs-at-the-studio-that-made-it/",
-          "titre": "Assassin's Creed Black Flag Resynced was a big hit, and now it's time for big layoffs at the studio that made it"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ubisoft-closing-trials-studio-redlyx-layoffs-singapore-black-flag",
-          "titre": "Ubisoft closing Trials developer RedLynx and downsizing Assassin's Creed: Black Flag Resynced team in Singapore"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ubisoft-are-making-layoffs-at-assassins-creed-black-flag-resynced-studio-ubisoft-singapore-while-closing-trials-creators-redlynx-according-to-report",
-          "titre": "Ubisoft are making layoffs at Assassin's Creed Black Flag Resynced studio Ubisoft Singapore while closing Trials creators Redlynx"
-        }
-      ]
-    },
-    {
       "id": "epic-throws-shade-at-steam-admits-to-vibe-coding-the-new-epi",
       "titre": "Epic throws shade at Steam, admits to vibe-coding the new Epic Games Launcher with AI \"to be faster than the other guy\"",
       "url": "https://www.eurogamer.net/epic-throws-shade-steam-vibe-coding-games-launcher-ai",
@@ -115,8 +85,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 6.2,
-      "chaleur": 12,
+      "heures": 13.0,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Eurogamer",
@@ -136,36 +106,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "asha-sharma-announces-xbox-labs-project-to-explore-new-techn",
-      "titre": "Asha Sharma announces Xbox Labs project to \"explore new technology,\" which sure sounds like tinkering with old games through AI",
-      "url": "https://www.rockpapershotgun.com/asha-sharma-announces-xbox-labs-project-to-explore-new-technology-which-sure-sounds-like-tinkering-with-old-games-through-ai",
-      "sources": [
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 9.2,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/asha-sharma-announces-xbox-labs-project-to-explore-new-technology-which-sure-sounds-like-tinkering-with-old-games-through-ai",
-          "titre": "Asha Sharma announces Xbox Labs project to \"explore new technology,\" which sure sounds like tinkering with old games through AI"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/",
-          "titre": "Asha Sharma forms ‘Xbox Labs’ in response to explosion of AI-powered mods and ports"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology",
-          "titre": "Xbox announces Xbox Labs, a new initiative to trial emerging ideas and \"new technology\""
-        }
-      ]
-    },
-    {
       "id": "rockstar-union-busting-tribunal-extended-to-november-18th-me",
       "titre": "Rockstar 'union busting' tribunal extended to November 18th, meaning it will close just days before GTA 6's release date",
       "url": "https://www.rockpapershotgun.com/rockstar-union-busting-tribunal-extended-to-november-18th-meaning-it-will-close-just-days-before-gta-6s-release-date",
@@ -174,8 +114,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 9.7,
-      "chaleur": 12,
+      "heures": 16.6,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -190,50 +130,68 @@ const VEILLE = {
       ]
     },
     {
-      "id": "after-two-hours-playing-the-legend-of-zelda-ocarina-of-time",
-      "titre": "After two hours playing The Legend of Zelda: Ocarina of Time remake, it’s fired a Hookshot into my heart again",
-      "url": "https://www.videogameschronicle.com/features/after-two-hours-playing-the-legend-of-zelda-ocarina-of-time-remake-its-fired-a-hookshot-into-my-heart-again/",
+      "id": "icymi-zelda-ocarina-of-time-on-switch-2-has-a-museum-boss-ti",
+      "titre": "ICYMI: Zelda: Ocarina Of Time On Switch 2 Has A Museum & Boss Time Trial Mode",
+      "url": "https://www.nintendolife.com/news/2026/10/icymi-zelda-ocarina-of-time-on-switch-2-has-a-museum-and-boss-time-trial-mode",
       "sources": [
-        "Eurogamer",
-        "VGC"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 11.4,
-      "chaleur": 10,
+      "reprises": 1,
+      "heures": 2.7,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/after-two-hours-playing-the-legend-of-zelda-ocarina-of-time-remake-its-fired-a-hookshot-into-my-heart-again/",
-          "titre": "After two hours playing The Legend of Zelda: Ocarina of Time remake, it’s fired a Hookshot into my heart again"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/legend-zelda-ocarina-of-time-switch2-remake-owl",
-          "titre": "The Legend of Zelda: Ocarina of Time's infamous tutorial owl seemingly won't trap you in conversation in the Switch 2 remake"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/icymi-zelda-ocarina-of-time-on-switch-2-has-a-museum-and-boss-time-trial-mode",
+          "titre": "ICYMI: Zelda: Ocarina Of Time On Switch 2 Has A Museum & Boss Time Trial Mode"
         }
       ]
     },
     {
-      "id": "my-idea-of-a-netflix-for-games-doesn-t-work-garry-s-mod-suc",
-      "titre": "'My idea of a Netflix for games doesn’t work': Garry's Mod successor is getting 'sweeping changes'",
-      "url": "https://www.pcgamer.com/software/platforms/my-idea-of-a-netflix-for-games-doesnt-work-garrys-mod-successor-is-getting-sweeping-changes/",
+      "id": "assassin-s-creed-black-flag-resynced-was-a-big-hit-and-now-i",
+      "titre": "Assassin's Creed Black Flag Resynced was a big hit, and now it's time for big layoffs at the studio that made it",
+      "url": "https://www.pcgamer.com/gaming-industry/assassins-creed-black-flag-resynced-was-a-big-hit-and-now-its-time-for-big-layoffs-at-the-studio-that-made-it/",
       "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
+        "Eurogamer",
+        "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 2.6,
+      "heures": 15.3,
       "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/platforms/my-idea-of-a-netflix-for-games-doesnt-work-garrys-mod-successor-is-getting-sweeping-changes/",
-          "titre": "'My idea of a Netflix for games doesn’t work': Garry's Mod successor is getting 'sweeping changes'"
+          "url": "https://www.pcgamer.com/gaming-industry/assassins-creed-black-flag-resynced-was-a-big-hit-and-now-its-time-for-big-layoffs-at-the-studio-that-made-it/",
+          "titre": "Assassin's Creed Black Flag Resynced was a big hit, and now it's time for big layoffs at the studio that made it"
         },
         {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ubisoft-closing-trials-studio-redlyx-layoffs-singapore-black-flag",
+          "titre": "Ubisoft closing Trials developer RedLynx and downsizing Assassin's Creed: Black Flag Resynced team in Singapore"
+        }
+      ]
+    },
+    {
+      "id": "asha-sharma-announces-xbox-labs-project-to-explore-new-techn",
+      "titre": "Asha Sharma announces Xbox Labs project to \"explore new technology,\" which sure sounds like tinkering with old games through AI",
+      "url": "https://www.rockpapershotgun.com/asha-sharma-announces-xbox-labs-project-to-explore-new-technology-which-sure-sounds-like-tinkering-with-old-games-through-ai",
+      "sources": [
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 16.0,
+      "chaleur": 8,
+      "liens": [
+        {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/my-idea-of-a-netflix-for-games-doesnt-work-garrys-mod-creator-says-struggling-spiritual-successor-sbox-will-go-free-to-play-as-part-of-major-rethink",
-          "titre": "\"My idea of a Netflix for games doesn’t work\": Garry's Mod creator says struggling spiritual successor S&box will go free to play as part of major rethink"
+          "url": "https://www.rockpapershotgun.com/asha-sharma-announces-xbox-labs-project-to-explore-new-technology-which-sure-sounds-like-tinkering-with-old-games-through-ai",
+          "titre": "Asha Sharma announces Xbox Labs project to \"explore new technology,\" which sure sounds like tinkering with old games through AI"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/",
+          "titre": "Asha Sharma forms ‘Xbox Labs’ in response to explosion of AI-powered mods and ports"
         }
       ]
     },
@@ -246,8 +204,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 10.2,
-      "chaleur": 9,
+      "heures": 17.1,
+      "chaleur": 8,
       "liens": [
         {
           "source": "VGC",
@@ -262,44 +220,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "three-more-gba-games-come-to-switch-online-including-metal-s",
-      "titre": "Three more GBA games come to Switch Online, including Metal Slug Advance and a previously Japan-only title",
-      "url": "https://www.videogameschronicle.com/news/three-more-gba-games-come-to-switch-online-including-metal-slug-advance-and-a-previously-japan-only-title/",
+      "id": "after-two-hours-playing-the-legend-of-zelda-ocarina-of-time",
+      "titre": "After two hours playing The Legend of Zelda: Ocarina of Time remake, it’s fired a Hookshot into my heart again",
+      "url": "https://www.videogameschronicle.com/features/after-two-hours-playing-the-legend-of-zelda-ocarina-of-time-remake-its-fired-a-hookshot-into-my-heart-again/",
       "sources": [
-        "Nintendo Life",
+        "Eurogamer",
         "VGC"
       ],
       "reprises": 2,
-      "heures": 15.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/three-more-gba-games-come-to-switch-online-including-metal-slug-advance-and-a-previously-japan-only-title/",
-          "titre": "Three more GBA games come to Switch Online, including Metal Slug Advance and a previously Japan-only title"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-gba-library-with-three-more-titles",
-          "titre": "Nintendo Expands Switch Online's GBA Library With Three More Titles"
-        }
-      ]
-    },
-    {
-      "id": "state-lawsuits-accuse-openai-of-ignoring-its-own-safety-warn",
-      "titre": "State lawsuits accuse OpenAI of ignoring its own safety warnings for profit: 'All these harms were foreseeable and avoidable'",
-      "url": "https://www.pcgamer.com/software/ai/8-us-states-sue-openai/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.1,
+      "heures": 18.3,
       "chaleur": 8,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/8-us-states-sue-openai/",
-          "titre": "State lawsuits accuse OpenAI of ignoring its own safety warnings for profit: 'All these harms were foreseeable and avoidable'"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/features/after-two-hours-playing-the-legend-of-zelda-ocarina-of-time-remake-its-fired-a-hookshot-into-my-heart-again/",
+          "titre": "After two hours playing The Legend of Zelda: Ocarina of Time remake, it’s fired a Hookshot into my heart again"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ocarina-of-time-remake-switch-2-preview",
+          "titre": "No matter what your opinion is on the art style, The Legend of Zelda: Ocarina of Time is shaping up to be a brilliant remake"
         }
       ]
     },
@@ -311,7 +251,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 19.7,
       "chaleur": 8,
       "liens": [
         {
@@ -322,152 +262,50 @@ const VEILLE = {
       ]
     },
     {
-      "id": "video-the-walking-dead-s-chandler-riggs-stars-in-resident-ev",
-      "titre": "Video: The Walking Dead's Chandler Riggs Stars In Resident Evil 7 Short Film",
-      "url": "https://www.nintendolife.com/news/2026/10/video-the-walking-deads-chandler-riggs-stars-in-resident-evil-7-short-film",
+      "id": "the-first-review-for-final-fantasy-resonance-is-in",
+      "titre": "The First Review For Final Fantasy Resonance Is In",
+      "url": "https://www.nintendolife.com/news/2026/10/the-first-review-for-final-fantasy-resonance-is-in",
       "sources": [
         "Nintendo Life",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 5.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/video-the-walking-deads-chandler-riggs-stars-in-resident-evil-7-short-film",
-          "titre": "Video: The Walking Dead's Chandler Riggs Stars In Resident Evil 7 Short Film"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/the-walking-deads-chandler-riggs-made-a-resident-evil-7-short-film-even-though-its-impossible-to-please-everybody/",
-          "titre": "The Walking Dead's Chandler Riggs made a Resident Evil 7 short film even though 'it's impossible to please everybody'"
-        }
-      ]
-    },
-    {
-      "id": "zero-escape-and-the-hundred-line-co-creator-s-new-studio-mig",
-      "titre": "Zero Escape and The Hundred Line co-creator's new studio \"might literally crash into a million pieces\" after the cancellation of its next game",
-      "url": "https://www.eurogamer.net/zero-escape-hundred-line-new-studio-crash-game-cancellation",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 5.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/zero-escape-hundred-line-new-studio-crash-game-cancellation",
-          "titre": "Zero Escape and The Hundred Line co-creator's new studio \"might literally crash into a million pieces\" after the cancellation of its next game"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/kotaro-uchikoshi-creator-of-zero-escape-and-ai-the-somnium-files-launches-new-studio",
-          "titre": "Kotaro Uchikoshi, Creator Of Zero Escape And AI: The Somnium Files, Launches New Studio"
-        }
-      ]
-    },
-    {
-      "id": "i-ve-given-gta-5-s-cars-bond-style-ejector-seats",
-      "titre": "I've given GTA 5's cars Bond-style ejector seats",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/ive-given-gta-5s-cars-bond-style-ejector-seats/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/ive-given-gta-5s-cars-bond-style-ejector-seats/",
-          "titre": "I've given GTA 5's cars Bond-style ejector seats"
-        }
-      ]
-    },
-    {
-      "id": "here-are-our-ps-plus-premium-and-extra-games-for-october",
-      "titre": "Here are our PS Plus Premium and Extra games for October",
-      "url": "https://www.eurogamer.net/playstation-plus-october-2026-games",
-      "sources": [
-        "Eurogamer",
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 7.6,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/playstation-plus-october-2026-games",
-          "titre": "Here are our PS Plus Premium and Extra games for October"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/9-ps-plus-extra-premium-games-for-october-2026-announced",
-          "titre": "9 PS Plus Extra, Premium Games for October 2026 Announced"
-        }
-      ]
-    },
-    {
-      "id": "round-up-the-previews-are-in-for-zelda-ocarina-of-time-on-sw",
-      "titre": "Round Up: The Previews Are In For Zelda: Ocarina Of Time On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-previews-are-in-for-zelda-ocarina-of-time-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 9.5,
+      "heures": 6.6,
       "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-previews-are-in-for-zelda-ocarina-of-time-on-switch-2",
-          "titre": "Round Up: The Previews Are In For Zelda: Ocarina Of Time On Switch 2"
+          "url": "https://www.nintendolife.com/news/2026/10/the-first-review-for-final-fantasy-resonance-is-in",
+          "titre": "The First Review For Final Fantasy Resonance Is In"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/first-final-fantasy-resonance-ps5-review-released-rough-campaign-length-revealed",
+          "titre": "First Final Fantasy Resonance PS5 Review Released, Rough Campaign Length Revealed"
         }
       ]
     },
     {
-      "id": "we-are-here-to-give-you-something-to-believe-in-the-former",
-      "titre": "\"We are here to give you something to believe in\": the former Disco Elysium devs of Summer Eternal reveal new RPG Red Rooster, a game of fire, water and alternate selves",
-      "url": "https://www.rockpapershotgun.com/we-are-here-to-give-you-something-to-believe-in-the-former-disco-elysium-devs-of-summer-eternal-reveal-new-rpg-red-rooster-a-game-of-fire-water-and-alternate-selves",
+      "id": "my-idea-of-a-netflix-for-games-doesn-t-work-garry-s-mod-suc",
+      "titre": "'My idea of a Netflix for games doesn't work': Garry's Mod successor is getting 'sweeping changes'",
+      "url": "https://www.pcgamer.com/software/platforms/my-idea-of-a-netflix-for-games-doesnt-work-garrys-mod-successor-is-getting-sweeping-changes/",
       "sources": [
-        "Eurogamer",
+        "PC Gamer",
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 10.2,
+      "heures": 9.4,
       "chaleur": 7,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/we-are-here-to-give-you-something-to-believe-in-the-former-disco-elysium-devs-of-summer-eternal-reveal-new-rpg-red-rooster-a-game-of-fire-water-and-alternate-selves",
-          "titre": "\"We are here to give you something to believe in\": the former Disco Elysium devs of Summer Eternal reveal new RPG Red Rooster, a game of fire, water and alternate selves"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/platforms/my-idea-of-a-netflix-for-games-doesnt-work-garrys-mod-successor-is-getting-sweeping-changes/",
+          "titre": "'My idea of a Netflix for games doesn't work': Garry's Mod successor is getting 'sweeping changes'"
         },
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/summer-eternal-red-rooster-zaum-disco-like-incendiary-rpg",
-          "titre": "Ex-ZA/UM developers reveal Red Rooster, an \"incendiary RPG\" that is very intentionally not trying to be a \"Disco Elysium successor\" or \"Disco-like\""
-        }
-      ]
-    },
-    {
-      "id": "gta-6-leaker-s-latest-video-allegedly-shows-scenes-from-the",
-      "titre": "GTA 6 leaker's latest video allegedly shows scenes from the final mission, as they indicate the leaks may have come to an end",
-      "url": "https://www.eurogamer.net/gta-6-cyberleek-ending-crypto-coin-crash",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-cyberleek-ending-crypto-coin-crash",
-          "titre": "GTA 6 leaker's latest video allegedly shows scenes from the final mission, as they indicate the leaks may have come to an end"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/my-idea-of-a-netflix-for-games-doesnt-work-garrys-mod-creator-says-struggling-spiritual-successor-sbox-will-go-free-to-play-as-part-of-major-rethink",
+          "titre": "\"My idea of a Netflix for games doesn’t work\": Garry's Mod creator says struggling spiritual successor S&box will go free to play as part of major rethink"
         }
       ]
     },
@@ -479,7 +317,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 16.7,
+      "heures": 23.6,
       "chaleur": 7,
       "liens": [
         {
@@ -526,146 +364,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "3-months-after-launch-riot-announces-league-of-legends-class",
-      "titre": "3 months after launch, Riot announces League of Legends Classic will be killed in January: 'most have gone back to other parts of League'",
-      "url": "https://www.pcgamer.com/games/moba/3-months-after-launch-riot-announces-league-of-legends-classic-will-be-killed-in-january-most-have-gone-back-to-other-parts-of-league/",
+      "id": "you-re-late-007-first-light-has-finally-locked-in-a-switch",
+      "titre": "\"You're Late, 007\" - First Light Has Finally Locked In A Switch 2 Release Date",
+      "url": "https://www.nintendolife.com/news/2026/10/youre-late-007-first-light-has-finally-locked-in-a-switch-2-release-date",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/youre-late-007-first-light-has-finally-locked-in-a-switch-2-release-date",
+          "titre": "\"You're Late, 007\" - First Light Has Finally Locked In A Switch 2 Release Date"
+        }
+      ]
+    },
+    {
+      "id": "monster-hunter-wilds-free-prologue-demo-brings-the-hunt-to-s",
+      "titre": "Monster Hunter Wilds Free Prologue Demo Brings The Hunt To Switch 2 Next Week",
+      "url": "https://www.nintendolife.com/news/2026/10/monster-hunter-wilds-free-prologue-demo-brings-the-hunt-to-switch-2-next-week",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/monster-hunter-wilds-free-prologue-demo-brings-the-hunt-to-switch-2-next-week",
+          "titre": "Monster Hunter Wilds Free Prologue Demo Brings The Hunt To Switch 2 Next Week"
+        }
+      ]
+    },
+    {
+      "id": "state-lawsuits-accuse-openai-of-ignoring-its-own-safety-warn",
+      "titre": "State lawsuits accuse OpenAI of ignoring its own safety warnings for profit: 'All these harms were foreseeable and avoidable'",
+      "url": "https://www.pcgamer.com/software/ai/8-us-states-sue-openai/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 8.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/moba/3-months-after-launch-riot-announces-league-of-legends-classic-will-be-killed-in-january-most-have-gone-back-to-other-parts-of-league/",
-          "titre": "3 months after launch, Riot announces League of Legends Classic will be killed in January: 'most have gone back to other parts of League'"
-        }
-      ]
-    },
-    {
-      "id": "first-final-fantasy-resonance-ps5-review-released-rough-camp",
-      "titre": "First Final Fantasy Resonance PS5 Review Released, Rough Campaign Length Revealed",
-      "url": "https://www.pushsquare.com/news/2026/10/first-final-fantasy-resonance-ps5-review-released-rough-campaign-length-revealed",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/first-final-fantasy-resonance-ps5-review-released-rough-campaign-length-revealed",
-          "titre": "First Final Fantasy Resonance PS5 Review Released, Rough Campaign Length Revealed"
-        }
-      ]
-    },
-    {
-      "id": "mini-review-toy-story-3-complete-edition-ps5-an-all-time-gre",
-      "titre": "Mini Review: Toy Story 3 Complete Edition (PS5) - An All-Time Great Movie Tie-In Gets a Fresh Lick of Paint",
-      "url": "https://www.pushsquare.com/reviews/ps5/toy-story-3-complete-edition",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/toy-story-3-complete-edition",
-          "titre": "Mini Review: Toy Story 3 Complete Edition (PS5) - An All-Time Great Movie Tie-In Gets a Fresh Lick of Paint"
-        }
-      ]
-    },
-    {
-      "id": "ex-overwatch-director-jeff-kaplan-ignores-everything-about-t",
-      "titre": "Ex-Overwatch director Jeff Kaplan ignores everything about the hero shooter after his 'almost clinical' departure 5 years ago: 'I don't search for my name in Overwatch. I don't search for Overwatch. I sort of just disconnect.'",
-      "url": "https://www.pcgamer.com/games/fps/ex-overwatch-director-jeff-kaplan-ignores-everything-about-the-hero-shooter-after-his-almost-clinical-departure-5-years-ago-i-dont-search-for-my-name-in-overwatch-i-dont-search-for-overwatch-i-sort-of-just-disconnect/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/ex-overwatch-director-jeff-kaplan-ignores-everything-about-the-hero-shooter-after-his-almost-clinical-departure-5-years-ago-i-dont-search-for-my-name-in-overwatch-i-dont-search-for-overwatch-i-sort-of-just-disconnect/",
-          "titre": "Ex-Overwatch director Jeff Kaplan ignores everything about the hero shooter after his 'almost clinical' departure 5 years ago: 'I don't search for my name in Overwatch. I don't search for Overwatch. I sort of just disconnect.'"
-        }
-      ]
-    },
-    {
-      "id": "i-want-to-love-the-new-castlevania-but-it-just-feels-a-littl",
-      "titre": "I want to love the new Castlevania, but it just feels a little off",
-      "url": "https://www.pcgamer.com/games/action/i-want-to-love-the-new-castlevania-but-it-just-feels-a-little-off/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/i-want-to-love-the-new-castlevania-but-it-just-feels-a-little-off/",
-          "titre": "I want to love the new Castlevania, but it just feels a little off"
-        }
-      ]
-    },
-    {
-      "id": "legendary-composer-frank-klepacki-says-the-rts-genre-isn-t-d",
-      "titre": "Legendary composer Frank Klepacki says the RTS genre isn't dead, but he would like to see devs get a little more creative with it",
-      "url": "https://www.pcgamer.com/games/rts/legendary-composer-frank-klepacki-says-the-rts-genre-isnt-dead-but-he-would-like-to-see-devs-get-a-little-more-creative-with-it/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rts/legendary-composer-frank-klepacki-says-the-rts-genre-isnt-dead-but-he-would-like-to-see-devs-get-a-little-more-creative-with-it/",
-          "titre": "Legendary composer Frank Klepacki says the RTS genre isn't dead, but he would like to see devs get a little more creative with it"
-        }
-      ]
-    },
-    {
-      "id": "ps1-classics-on-ps5-keep-on-coming-in-dino-crisis-2-out-next",
-      "titre": "PS1 Classics on PS5 Keep on Coming in Dino Crisis 2, Out Next Week",
-      "url": "https://www.pushsquare.com/news/2026/10/ps1-classics-on-ps5-keep-on-coming-in-dino-crisis-2-out-next-week",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps1-classics-on-ps5-keep-on-coming-in-dino-crisis-2-out-next-week",
-          "titre": "PS1 Classics on PS5 Keep on Coming in Dino Crisis 2, Out Next Week"
-        }
-      ]
-    },
-    {
-      "id": "google-play-adds-game-finder-sprints-and-sidekick-playbacks",
-      "titre": "Google Play adds Game Finder, Sprints, and Sidekick Playbacks in discovery push",
-      "url": "https://www.gamesindustry.biz/google-play-adds-game-finder-sprints-and-sidekick-playbacks-in-discovery-push",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/google-play-adds-game-finder-sprints-and-sidekick-playbacks-in-discovery-push",
-          "titre": "Google Play adds Game Finder, Sprints, and Sidekick Playbacks in discovery push"
+          "url": "https://www.pcgamer.com/software/ai/8-us-states-sue-openai/",
+          "titre": "State lawsuits accuse OpenAI of ignoring its own safety warnings for profit: 'All these harms were foreseeable and avoidable'"
         }
       ]
     },
@@ -677,7 +425,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 10.9,
       "chaleur": 6,
       "liens": [
         {
@@ -695,7 +443,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 11.3,
       "chaleur": 6,
       "liens": [
         {
@@ -706,74 +454,134 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ace-combat-zero-gets-its-own-standalone-app-on-steam-freeing",
-      "titre": "Ace Combat Zero gets its own standalone app on Steam, freeing it from the 136GB install of Ace Combat 8",
-      "url": "https://www.pcgamer.com/games/sim/ace-combat-zero-gets-its-own-standalone-app-on-steam-freeing-it-from-the-136gb-install-of-ace-combat-8/",
+      "id": "video-the-walking-dead-s-chandler-riggs-stars-in-resident-ev",
+      "titre": "Video: The Walking Dead's Chandler Riggs Stars In Resident Evil 7 Short Film",
+      "url": "https://www.nintendolife.com/news/2026/10/video-the-walking-deads-chandler-riggs-stars-in-resident-evil-7-short-film",
       "sources": [
+        "Nintendo Life",
         "PC Gamer"
       ],
-      "reprises": 1,
-      "heures": 6.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/ace-combat-zero-gets-its-own-standalone-app-on-steam-freeing-it-from-the-136gb-install-of-ace-combat-8/",
-          "titre": "Ace Combat Zero gets its own standalone app on Steam, freeing it from the 136GB install of Ace Combat 8"
-        }
-      ]
-    },
-    {
-      "id": "review-clive-barker-s-hellraiser-revival-switch-2-a-hellish",
-      "titre": "Review: Clive Barker's Hellraiser: Revival (Switch 2) - A Hellish Adaptation, In Several Ways",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/clive-barkers-hellraiser-revival",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 7.5,
+      "reprises": 2,
+      "heures": 12.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/clive-barkers-hellraiser-revival",
-          "titre": "Review: Clive Barker's Hellraiser: Revival (Switch 2) - A Hellish Adaptation, In Several Ways"
+          "url": "https://www.nintendolife.com/news/2026/10/video-the-walking-deads-chandler-riggs-stars-in-resident-evil-7-short-film",
+          "titre": "Video: The Walking Dead's Chandler Riggs Stars In Resident Evil 7 Short Film"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/the-walking-deads-chandler-riggs-made-a-resident-evil-7-short-film-even-though-its-impossible-to-please-everybody/",
+          "titre": "The Walking Dead's Chandler Riggs made a Resident Evil 7 short film even though 'it's impossible to please everybody'"
         }
       ]
     },
     {
-      "id": "fortnite-is-finally-coming-to-linux-thanks-to-epic-rebuildin",
-      "titre": "Fortnite is finally coming to Linux thanks to Epic rebuilding Easy Anti-Cheat, though Steam Deck support is still in the wind",
-      "url": "https://www.rockpapershotgun.com/fortnite-is-finally-coming-to-linux-thanks-to-epic-rebuilding-easy-anti-cheat-though-steam-deck-support-is-still-in-the-wind",
+      "id": "zero-escape-and-the-hundred-line-co-creator-s-new-studio-mig",
+      "titre": "Zero Escape and The Hundred Line co-creator's new studio \"might literally crash into a million pieces\" after the cancellation of its next game",
+      "url": "https://www.eurogamer.net/zero-escape-hundred-line-new-studio-crash-game-cancellation",
       "sources": [
-        "Rock Paper Shotgun"
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 12.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/zero-escape-hundred-line-new-studio-crash-game-cancellation",
+          "titre": "Zero Escape and The Hundred Line co-creator's new studio \"might literally crash into a million pieces\" after the cancellation of its next game"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/kotaro-uchikoshi-creator-of-zero-escape-and-ai-the-somnium-files-launches-new-studio",
+          "titre": "Kotaro Uchikoshi, Creator Of Zero Escape And AI: The Somnium Files, Launches New Studio"
+        }
+      ]
+    },
+    {
+      "id": "i-ve-given-gta-5-s-cars-bond-style-ejector-seats",
+      "titre": "I've given GTA 5's cars Bond-style ejector seats",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/ive-given-gta-5s-cars-bond-style-ejector-seats/",
+      "sources": [
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 14.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/ive-given-gta-5s-cars-bond-style-ejector-seats/",
+          "titre": "I've given GTA 5's cars Bond-style ejector seats"
+        }
+      ]
+    },
+    {
+      "id": "here-are-our-ps-plus-premium-and-extra-games-for-october",
+      "titre": "Here are our PS Plus Premium and Extra games for October",
+      "url": "https://www.eurogamer.net/playstation-plus-october-2026-games",
+      "sources": [
+        "Eurogamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 14.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/playstation-plus-october-2026-games",
+          "titre": "Here are our PS Plus Premium and Extra games for October"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/9-ps-plus-extra-premium-games-for-october-2026-announced",
+          "titre": "9 PS Plus Extra, Premium Games for October 2026 Announced"
+        }
+      ]
+    },
+    {
+      "id": "we-are-here-to-give-you-something-to-believe-in-the-former",
+      "titre": "\"We are here to give you something to believe in\": the former Disco Elysium devs of Summer Eternal reveal new RPG Red Rooster, a game of fire, water and alternate selves",
+      "url": "https://www.rockpapershotgun.com/we-are-here-to-give-you-something-to-believe-in-the-former-disco-elysium-devs-of-summer-eternal-reveal-new-rpg-red-rooster-a-game-of-fire-water-and-alternate-selves",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 17.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/fortnite-is-finally-coming-to-linux-thanks-to-epic-rebuilding-easy-anti-cheat-though-steam-deck-support-is-still-in-the-wind",
-          "titre": "Fortnite is finally coming to Linux thanks to Epic rebuilding Easy Anti-Cheat, though Steam Deck support is still in the wind"
+          "url": "https://www.rockpapershotgun.com/we-are-here-to-give-you-something-to-believe-in-the-former-disco-elysium-devs-of-summer-eternal-reveal-new-rpg-red-rooster-a-game-of-fire-water-and-alternate-selves",
+          "titre": "\"We are here to give you something to believe in\": the former Disco Elysium devs of Summer Eternal reveal new RPG Red Rooster, a game of fire, water and alternate selves"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/summer-eternal-red-rooster-zaum-disco-like-incendiary-rpg",
+          "titre": "Ex-ZA/UM developers reveal Red Rooster, an \"incendiary RPG\" that is very intentionally not trying to be a \"Disco Elysium successor\" or \"Disco-like\""
         }
       ]
     },
     {
-      "id": "review-tales-of-eternia-remastered-ps5-classic-playstation-r",
-      "titre": "Review: Tales of Eternia Remastered (PS5) - Classic PlayStation RPG Shows Its Age",
-      "url": "https://www.pushsquare.com/reviews/ps5/tales-of-eternia-remastered",
+      "id": "gta-6-leaker-s-latest-video-allegedly-shows-scenes-from-the",
+      "titre": "GTA 6 leaker's latest video allegedly shows scenes from the final mission, as they indicate the leaks may have come to an end",
+      "url": "https://www.eurogamer.net/gta-6-cyberleek-ending-crypto-coin-crash",
       "sources": [
-        "Push Square"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
+      "heures": 18.2,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/tales-of-eternia-remastered",
-          "titre": "Review: Tales of Eternia Remastered (PS5) - Classic PlayStation RPG Shows Its Age"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-cyberleek-ending-crypto-coin-crash",
+          "titre": "GTA 6 leaker's latest video allegedly shows scenes from the final mission, as they indicate the leaks may have come to an end"
         }
       ]
     },
@@ -785,7 +593,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 18.9,
       "chaleur": 6,
       "liens": [
         {
@@ -803,13 +611,85 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 21.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/if-youve-sworn-off-genai-crazy-taxi-and-dislike-all-the-twerking-in-gta-6-consider-shifu-traffic-masters-a-jolly-open-world-driving-game-set-in-1990s-china",
           "titre": "If you've sworn off genAI Crazy Taxi and dislike all the twerking in GTA 6, consider Shifu: Traffic Masters, a jolly open world driving game set in 1990s China"
+        }
+      ]
+    },
+    {
+      "id": "ace-combat-zero-gets-its-own-standalone-app-on-steam-freeing",
+      "titre": "Ace Combat Zero gets its own standalone app on Steam, freeing it from the 136GB install of Ace Combat 8",
+      "url": "https://www.pcgamer.com/games/sim/ace-combat-zero-gets-its-own-standalone-app-on-steam-freeing-it-from-the-136gb-install-of-ace-combat-8/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 13.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/ace-combat-zero-gets-its-own-standalone-app-on-steam-freeing-it-from-the-136gb-install-of-ace-combat-8/",
+          "titre": "Ace Combat Zero gets its own standalone app on Steam, freeing it from the 136GB install of Ace Combat 8"
+        }
+      ]
+    },
+    {
+      "id": "review-clive-barker-s-hellraiser-revival-switch-2-a-hellish",
+      "titre": "Review: Clive Barker's Hellraiser: Revival (Switch 2) - A Hellish Adaptation, In Several Ways",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/clive-barkers-hellraiser-revival",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 14.3,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/clive-barkers-hellraiser-revival",
+          "titre": "Review: Clive Barker's Hellraiser: Revival (Switch 2) - A Hellish Adaptation, In Several Ways"
+        }
+      ]
+    },
+    {
+      "id": "fortnite-is-finally-coming-to-linux-thanks-to-epic-rebuildin",
+      "titre": "Fortnite is finally coming to Linux thanks to Epic rebuilding Easy Anti-Cheat, though Steam Deck support is still in the wind",
+      "url": "https://www.rockpapershotgun.com/fortnite-is-finally-coming-to-linux-thanks-to-epic-rebuilding-easy-anti-cheat-though-steam-deck-support-is-still-in-the-wind",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 14.8,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/fortnite-is-finally-coming-to-linux-thanks-to-epic-rebuilding-easy-anti-cheat-though-steam-deck-support-is-still-in-the-wind",
+          "titre": "Fortnite is finally coming to Linux thanks to Epic rebuilding Easy Anti-Cheat, though Steam Deck support is still in the wind"
+        }
+      ]
+    },
+    {
+      "id": "review-tales-of-eternia-remastered-ps5-classic-playstation-r",
+      "titre": "Review: Tales of Eternia Remastered (PS5) - Classic PlayStation RPG Shows Its Age",
+      "url": "https://www.pushsquare.com/reviews/ps5/tales-of-eternia-remastered",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 16.3,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/tales-of-eternia-remastered",
+          "titre": "Review: Tales of Eternia Remastered (PS5) - Classic PlayStation RPG Shows Its Age"
         }
       ]
     },
@@ -821,7 +701,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 20.0,
       "chaleur": 5,
       "liens": [
         {
@@ -839,7 +719,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 20.3,
       "chaleur": 5,
       "liens": [
         {
@@ -850,38 +730,164 @@ const VEILLE = {
       ]
     },
     {
-      "id": "toy-shooter-hypercharge-unboxed-is-getting-a-huge-and-comple",
-      "titre": "Toy Shooter Hypercharge: Unboxed Is Getting A \"Huge\" And \"Completely Free\" Update On Switch This Week",
-      "url": "https://www.nintendolife.com/news/2026/10/toy-shooter-hypercharge-unboxed-is-getting-a-huge-and-completely-free-update-on-switch-this-week",
+      "id": "three-more-gba-games-come-to-switch-online-including-metal-s",
+      "titre": "Three more GBA games come to Switch Online, including Metal Slug Advance and a previously Japan-only title",
+      "url": "https://www.videogameschronicle.com/news/three-more-gba-games-come-to-switch-online-including-metal-slug-advance-and-a-previously-japan-only-title/",
       "sources": [
-        "Nintendo Life"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 19.7,
+      "heures": 22.5,
       "chaleur": 5,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/toy-shooter-hypercharge-unboxed-is-getting-a-huge-and-completely-free-update-on-switch-this-week",
-          "titre": "Toy Shooter Hypercharge: Unboxed Is Getting A \"Huge\" And \"Completely Free\" Update On Switch This Week"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/three-more-gba-games-come-to-switch-online-including-metal-slug-advance-and-a-previously-japan-only-title/",
+          "titre": "Three more GBA games come to Switch Online, including Metal Slug Advance and a previously Japan-only title"
         }
       ]
     },
     {
-      "id": "oblivion-remastered-gets-a-new-switch-2-update-resolves-glob",
-      "titre": "Oblivion Remastered Gets A New Switch 2 Update, Resolves \"Global Visual Degradation\" Issue",
-      "url": "https://www.nintendolife.com/news/2026/10/oblivion-remastered-gets-a-new-switch-2-update-resolves-global-visual-degradation-issue",
+      "id": "fire-emblem-fortune-s-weave-expansion-pass-announced-wave-1",
+      "titre": "Fire Emblem: Fortune's Weave Expansion Pass Announced, Wave 1 Launches Today",
+      "url": "https://www.nintendolife.com/news/2026/10/fire-emblem-fortunes-weave-expansion-pass-announced-wave-1-launches-today",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.7,
-      "chaleur": 5,
+      "heures": 6.2,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/oblivion-remastered-gets-a-new-switch-2-update-resolves-global-visual-degradation-issue",
-          "titre": "Oblivion Remastered Gets A New Switch 2 Update, Resolves \"Global Visual Degradation\" Issue"
+          "url": "https://www.nintendolife.com/news/2026/10/fire-emblem-fortunes-weave-expansion-pass-announced-wave-1-launches-today",
+          "titre": "Fire Emblem: Fortune's Weave Expansion Pass Announced, Wave 1 Launches Today"
+        }
+      ]
+    },
+    {
+      "id": "3-months-after-launch-riot-announces-league-of-legends-class",
+      "titre": "3 months after launch, Riot announces League of Legends Classic will be killed in January: 'most have gone back to other parts of League'",
+      "url": "https://www.pcgamer.com/games/moba/3-months-after-launch-riot-announces-league-of-legends-classic-will-be-killed-in-january-most-have-gone-back-to-other-parts-of-league/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/3-months-after-launch-riot-announces-league-of-legends-classic-will-be-killed-in-january-most-have-gone-back-to-other-parts-of-league/",
+          "titre": "3 months after launch, Riot announces League of Legends Classic will be killed in January: 'most have gone back to other parts of League'"
+        }
+      ]
+    },
+    {
+      "id": "mini-review-toy-story-3-complete-edition-ps5-an-all-time-gre",
+      "titre": "Mini Review: Toy Story 3 Complete Edition (PS5) - An All-Time Great Movie Tie-In Gets a Fresh Lick of Paint",
+      "url": "https://www.pushsquare.com/reviews/ps5/toy-story-3-complete-edition",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 8.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/toy-story-3-complete-edition",
+          "titre": "Mini Review: Toy Story 3 Complete Edition (PS5) - An All-Time Great Movie Tie-In Gets a Fresh Lick of Paint"
+        }
+      ]
+    },
+    {
+      "id": "ex-overwatch-director-jeff-kaplan-ignores-everything-about-t",
+      "titre": "Ex-Overwatch director Jeff Kaplan ignores everything about the hero shooter after his 'almost clinical' departure 5 years ago: 'I don't search for my name in Overwatch. I don't search for Overwatch. I sort of just disconnect.'",
+      "url": "https://www.pcgamer.com/games/fps/ex-overwatch-director-jeff-kaplan-ignores-everything-about-the-hero-shooter-after-his-almost-clinical-departure-5-years-ago-i-dont-search-for-my-name-in-overwatch-i-dont-search-for-overwatch-i-sort-of-just-disconnect/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/ex-overwatch-director-jeff-kaplan-ignores-everything-about-the-hero-shooter-after-his-almost-clinical-departure-5-years-ago-i-dont-search-for-my-name-in-overwatch-i-dont-search-for-overwatch-i-sort-of-just-disconnect/",
+          "titre": "Ex-Overwatch director Jeff Kaplan ignores everything about the hero shooter after his 'almost clinical' departure 5 years ago: 'I don't search for my name in Overwatch. I don't search for Overwatch. I sort of just disconnect.'"
+        }
+      ]
+    },
+    {
+      "id": "i-want-to-love-the-new-castlevania-but-it-just-feels-a-littl",
+      "titre": "I want to love the new Castlevania, but it just feels a little off",
+      "url": "https://www.pcgamer.com/games/action/i-want-to-love-the-new-castlevania-but-it-just-feels-a-little-off/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/i-want-to-love-the-new-castlevania-but-it-just-feels-a-little-off/",
+          "titre": "I want to love the new Castlevania, but it just feels a little off"
+        }
+      ]
+    },
+    {
+      "id": "legendary-composer-frank-klepacki-says-the-rts-genre-isn-t-d",
+      "titre": "Legendary composer Frank Klepacki says the RTS genre isn't dead, but he would like to see devs get a little more creative with it",
+      "url": "https://www.pcgamer.com/games/rts/legendary-composer-frank-klepacki-says-the-rts-genre-isnt-dead-but-he-would-like-to-see-devs-get-a-little-more-creative-with-it/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 9.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rts/legendary-composer-frank-klepacki-says-the-rts-genre-isnt-dead-but-he-would-like-to-see-devs-get-a-little-more-creative-with-it/",
+          "titre": "Legendary composer Frank Klepacki says the RTS genre isn't dead, but he would like to see devs get a little more creative with it"
+        }
+      ]
+    },
+    {
+      "id": "ps1-classics-on-ps5-keep-on-coming-in-dino-crisis-2-out-next",
+      "titre": "PS1 Classics on PS5 Keep on Coming in Dino Crisis 2, Out Next Week",
+      "url": "https://www.pushsquare.com/news/2026/10/ps1-classics-on-ps5-keep-on-coming-in-dino-crisis-2-out-next-week",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 9.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps1-classics-on-ps5-keep-on-coming-in-dino-crisis-2-out-next-week",
+          "titre": "PS1 Classics on PS5 Keep on Coming in Dino Crisis 2, Out Next Week"
+        }
+      ]
+    },
+    {
+      "id": "google-play-adds-game-finder-sprints-and-sidekick-playbacks",
+      "titre": "Google Play adds Game Finder, Sprints, and Sidekick Playbacks in discovery push",
+      "url": "https://www.gamesindustry.biz/google-play-adds-game-finder-sprints-and-sidekick-playbacks-in-discovery-push",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 10.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/google-play-adds-game-finder-sprints-and-sidekick-playbacks-in-discovery-push",
+          "titre": "Google Play adds Game Finder, Sprints, and Sidekick Playbacks in discovery push"
         }
       ]
     },
@@ -893,7 +899,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -911,8 +917,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.2,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -929,8 +935,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -947,8 +953,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -965,8 +971,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.0,
-      "chaleur": 4,
+      "heures": 13.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -983,8 +989,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.5,
-      "chaleur": 4,
+      "heures": 14.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1001,8 +1007,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.5,
-      "chaleur": 4,
+      "heures": 14.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1019,8 +1025,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.7,
-      "chaleur": 4,
+      "heures": 14.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1037,8 +1043,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.8,
-      "chaleur": 4,
+      "heures": 14.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1055,8 +1061,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.9,
-      "chaleur": 4,
+      "heures": 14.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1073,8 +1079,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.0,
-      "chaleur": 4,
+      "heures": 14.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1091,8 +1097,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 4,
+      "heures": 15.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1109,8 +1115,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.6,
-      "chaleur": 4,
+      "heures": 15.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1127,8 +1133,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 4,
+      "heures": 15.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1145,8 +1151,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 4,
+      "heures": 15.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1163,8 +1169,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 4,
+      "heures": 15.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1181,8 +1187,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.2,
-      "chaleur": 4,
+      "heures": 16.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1190,27 +1196,7 @@ const VEILLE = {
           "titre": "ArenaNet solves an ongoing Guild Wars 2 issue by ditching paid Living World add-ons and bundling them with expansions"
         }
       ]
-    },
-    {
-      "id": "i-wanted-to-make-the-show-i-wanted-to-watch-how-galaxies-fo",
-      "titre": "\"I wanted to make the show I wanted to watch\" – How Galaxies found a place in the crowded showcase landscape",
-      "url": "https://www.gamesindustry.biz/i-wanted-to-make-the-show-i-wanted-to-watch-how-galaxies-found-a-place-in-the-crowded-showcase-landscape",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/i-wanted-to-make-the-show-i-wanted-to-watch-how-galaxies-found-a-place-in-the-crowded-showcase-landscape",
-          "titre": "\"I wanted to make the show I wanted to watch\" – How Galaxies found a place in the crowded showcase landscape"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "Ubisoft to close Trials studio RedLynx, downsize Ubisoft Singapore"
-  ]
+  "alertes": []
 };
