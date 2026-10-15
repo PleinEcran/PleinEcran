@@ -1,92 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "15/10/2026 à 18h13",
+  "collecte": "15/10/2026 à 23h00",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "the-shogun-2-remaster-is-so-bad-sega-is-removing-it-from-sal",
-      "titre": "The Shogun 2 remaster is so bad, Sega is removing it from sale and bringing back the original",
-      "url": "https://www.pcgamer.com/games/strategy/the-shogun-2-remaster-is-so-bad-sega-is-removing-it-from-sale-and-bringing-back-the-original/",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 2.4,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/the-shogun-2-remaster-is-so-bad-sega-is-removing-it-from-sale-and-bringing-back-the-original/",
-          "titre": "The Shogun 2 remaster is so bad, Sega is removing it from sale and bringing back the original"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/total-war-shogun-2-complete-edition-has-fallen-short-of-both-your-expectations-and-our-own-standards-sega-say-as-they-pull-it-from-stores-and-restore-the-original",
-          "titre": "\"Total War: Shogun 2 Complete Edition has fallen short of both your expectations and our own standards\", Sega say as they pull it from stores and restore the original"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sega-pulls-total-war-shogun-2-complete-edition-from-stores-over-bugs-and-ai-art/",
-          "titre": "Sega pulls Total War: Shogun 2 – Complete Edition from stores over bugs and AI art"
-        }
-      ]
-    },
-    {
-      "id": "no-offense-to-zelda-activision-exec-says-call-of-duty-mw4-a",
-      "titre": "\"No Offense To Zelda\" - Activision Exec Says Call Of Duty: MW4 And GTA 6 Are The Two Biggest Games Of The Year",
-      "url": "https://www.nintendolife.com/news/2026/10/no-offense-to-zelda-activision-exec-says-call-of-duty-mw4-and-gta-6-are-the-two-biggest-games-of-the-year",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 2.5,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/no-offense-to-zelda-activision-exec-says-call-of-duty-mw4-and-gta-6-are-the-two-biggest-games-of-the-year",
-          "titre": "\"No Offense To Zelda\" - Activision Exec Says Call Of Duty: MW4 And GTA 6 Are The Two Biggest Games Of The Year"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/no-offense-to-zelda-but-gta-6-and-cod-modern-warfare-4-are-the-two-biggest-games-of-the-year-activision-exec-says/",
-          "titre": "‘No offense to Zelda’ but GTA 6 and COD Modern Warfare 4 are ‘the two biggest games of the year’, Activision exec says"
-        }
-      ]
-    },
-    {
-      "id": "epic-said-its-game-launcher-was-faster-than-steam-on-the-sam",
-      "titre": "Epic said its game launcher was faster than Steam on the same day Steam got a speed boost—so I've put both to the test",
-      "url": "https://www.pcgamer.com/hardware/epic-said-its-game-launcher-was-faster-than-steam-on-the-same-day-steam-got-a-speed-boost-so-ive-put-both-to-the-test/",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz",
-        "PC Gamer"
-      ],
-      "reprises": 3,
-      "heures": 5.0,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/epic-said-its-game-launcher-was-faster-than-steam-on-the-same-day-steam-got-a-speed-boost-so-ive-put-both-to-the-test/",
-          "titre": "Epic said its game launcher was faster than Steam on the same day Steam got a speed boost—so I've put both to the test"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/epic-games-claims-its-new-vibe-coded-launcher-runs-46-faster-than-steam-from-cold-start-to-store-page",
-          "titre": "Epic Games claims its new \"vibe coded\" launcher runs 46% faster than Steam from cold start to store page"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/epic-throws-shade-steam-vibe-coding-games-launcher-ai",
-          "titre": "Epic throws shade at Steam, admits to vibe-coding the new Epic Games Launcher with AI \"to be faster than the other guy\""
-        }
-      ]
-    },
     {
       "id": "the-switch-2-version-of-007-first-light-finally-gets-a-new-r",
       "titre": "The Switch 2 version of 007 First Light finally gets a new release date",
@@ -97,7 +13,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 5.8,
+      "heures": 10.5,
       "chaleur": 12,
       "liens": [
         {
@@ -127,7 +43,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 7.1,
+      "heures": 11.9,
       "chaleur": 12,
       "liens": [
         {
@@ -148,6 +64,144 @@ const VEILLE = {
       ]
     },
     {
+      "id": "the-shogun-2-remaster-is-so-bad-sega-is-removing-it-from-sal",
+      "titre": "The Shogun 2 remaster is so bad, Sega is removing it from sale and bringing back the original",
+      "url": "https://www.pcgamer.com/games/strategy/the-shogun-2-remaster-is-so-bad-sega-is-removing-it-from-sale-and-bringing-back-the-original/",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 7.2,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/the-shogun-2-remaster-is-so-bad-sega-is-removing-it-from-sale-and-bringing-back-the-original/",
+          "titre": "The Shogun 2 remaster is so bad, Sega is removing it from sale and bringing back the original"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/total-war-shogun-2-complete-edition-has-fallen-short-of-both-your-expectations-and-our-own-standards-sega-say-as-they-pull-it-from-stores-and-restore-the-original",
+          "titre": "\"Total War: Shogun 2 Complete Edition has fallen short of both your expectations and our own standards\", Sega say as they pull it from stores and restore the original"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sega-pulls-total-war-shogun-2-complete-edition-from-stores-over-bugs-and-ai-art/",
+          "titre": "Sega pulls Total War: Shogun 2 – Complete Edition from stores over bugs and AI art"
+        }
+      ]
+    },
+    {
+      "id": "no-offense-to-zelda-activision-exec-says-call-of-duty-mw4-a",
+      "titre": "\"No Offense To Zelda\" - Activision Exec Says Call Of Duty: MW4 And GTA 6 Are The Two Biggest Games Of The Year",
+      "url": "https://www.nintendolife.com/news/2026/10/no-offense-to-zelda-activision-exec-says-call-of-duty-mw4-and-gta-6-are-the-two-biggest-games-of-the-year",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 7.3,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/no-offense-to-zelda-activision-exec-says-call-of-duty-mw4-and-gta-6-are-the-two-biggest-games-of-the-year",
+          "titre": "\"No Offense To Zelda\" - Activision Exec Says Call Of Duty: MW4 And GTA 6 Are The Two Biggest Games Of The Year"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/no-offense-to-zelda-but-gta-6-and-cod-modern-warfare-4-are-the-two-biggest-games-of-the-year-activision-exec-says/",
+          "titre": "‘No offense to Zelda’ but GTA 6 and COD Modern Warfare 4 are ‘the two biggest games of the year’, Activision exec says"
+        }
+      ]
+    },
+    {
+      "id": "welp-all-of-you-runescape-folks-who-hate-reignited-have-gott",
+      "titre": "Welp, all of you RuneScape folks who hate Reignited have gotten your wish, as the controversial MMO rejig has been cancelled",
+      "url": "https://www.rockpapershotgun.com/welp-all-of-you-runescape-folks-who-hate-reignited-have-gotten-your-wish-as-the-controversial-mmo-rejig-has-been-cancelled",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/welp-all-of-you-runescape-folks-who-hate-reignited-have-gotten-your-wish-as-the-controversial-mmo-rejig-has-been-cancelled",
+          "titre": "Welp, all of you RuneScape folks who hate Reignited have gotten your wish, as the controversial MMO rejig has been cancelled"
+        }
+      ]
+    },
+    {
+      "id": "street-fighter-review-roundup-sorry-folks-but-it-sounds-like",
+      "titre": "Street Fighter review roundup: sorry, folks, but it sounds like a mess",
+      "url": "https://www.pcgamer.com/movies-tv/street-fighter-review-roundup-sorry-folks-but-it-sounds-like-a-mess/",
+      "sources": [
+        "PC Gamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 2.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/street-fighter-review-roundup-sorry-folks-but-it-sounds-like-a-mess/",
+          "titre": "Street Fighter review roundup: sorry, folks, but it sounds like a mess"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/movie-review-street-fighter-gaudy-testosterone-fuelled-action-film-is-fun-but-not-a-knockout",
+          "titre": "Movie Review: Street Fighter - Gaudy Testosterone-Fuelled Action Film Is Fun But Not a Knockout"
+        }
+      ]
+    },
+    {
+      "id": "ahead-of-call-of-duty-modern-warfare-4-s-launch-next-week-un",
+      "titre": "Ahead of Call of Duty: Modern Warfare 4's launch next week, unionised Activision testers have voted to authorise a strike",
+      "url": "https://www.rockpapershotgun.com/ahead-of-call-of-duty-modern-warfare-4s-launch-next-week-unionised-activision-testers-have-voted-to-authorise-a-strike",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 2.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/ahead-of-call-of-duty-modern-warfare-4s-launch-next-week-unionised-activision-testers-have-voted-to-authorise-a-strike",
+          "titre": "Ahead of Call of Duty: Modern Warfare 4's launch next week, unionised Activision testers have voted to authorise a strike"
+        }
+      ]
+    },
+    {
+      "id": "call-of-duty-tax-blamed-for-softer-cod-reception-by-marketi",
+      "titre": "'Call of Duty Tax' Blamed for Softer CoD Reception by Marketing Lead",
+      "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-tax-blamed-for-softer-cod-reception-by-marketing-lead",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 3.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-tax-blamed-for-softer-cod-reception-by-marketing-lead",
+          "titre": "'Call of Duty Tax' Blamed for Softer CoD Reception by Marketing Lead"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-call-of-duty-tax-means-games-media-doesnt-cover-cod-the-way-it-used-to-activision-says/",
+          "titre": "The ‘Call of Duty tax’ means games media doesn’t cover COD the way it used to, Activision says"
+        }
+      ]
+    },
+    {
       "id": "gta-6-squeaks-into-eligibility-for-the-game-awards-2026-by-t",
       "titre": "GTA 6 squeaks into eligibility for The Game Awards 2026 by the smallest of margins - but can it break Clair Obscur: Expedition 33's record number of wins?",
       "url": "https://www.eurogamer.net/gta-6-the-game-awards-eligibility-geoff-keighley",
@@ -155,8 +209,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 11,
+      "heures": 6.8,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
@@ -173,8 +227,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 11,
+      "heures": 7.5,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Push Square",
@@ -184,32 +238,50 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-grand-theft-auto-6-launch-trailer-is-here",
-      "titre": "The Grand Theft Auto 6 launch trailer is here",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-launch-trailer/",
+      "id": "epic-games-claims-its-new-vibe-coded-launcher-runs-46-faster",
+      "titre": "Epic Games claims its new \"vibe coded\" launcher runs 46% faster than Steam from cold start to store page",
+      "url": "https://www.gamesindustry.biz/epic-games-claims-its-new-vibe-coded-launcher-runs-46-faster-than-steam-from-cold-start-to-store-page",
       "sources": [
         "Eurogamer",
-        "PC Gamer",
-        "VGC"
+        "GamesIndustry.biz"
       ],
-      "reprises": 3,
-      "heures": 4.5,
-      "chaleur": 10,
+      "reprises": 2,
+      "heures": 13.4,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-launch-trailer/",
-          "titre": "The Grand Theft Auto 6 launch trailer is here"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/epic-games-claims-its-new-vibe-coded-launcher-runs-46-faster-than-steam-from-cold-start-to-store-page",
+          "titre": "Epic Games claims its new \"vibe coded\" launcher runs 46% faster than Steam from cold start to store page"
         },
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer",
-          "titre": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists"
+          "url": "https://www.eurogamer.net/epic-throws-shade-steam-vibe-coding-games-launcher-ai",
+          "titre": "Epic throws shade at Steam, admits to vibe-coding the new Epic Games Launcher with AI \"to be faster than the other guy\""
+        }
+      ]
+    },
+    {
+      "id": "monster-hunter-wilds-fairly-generous-prologue-demo-comes-to",
+      "titre": "Monster Hunter Wilds' fairly generous Prologue Demo comes to Switch 2 next week",
+      "url": "https://www.eurogamer.net/monster-hunter-wilds-switch-2-prologue-demo",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 14.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/monster-hunter-wilds-switch-2-prologue-demo",
+          "titre": "Monster Hunter Wilds' fairly generous Prologue Demo comes to Switch 2 next week"
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/rockstar-has-revealed-the-official-launch-trailer-for-grand-theft-auto-6/",
-          "titre": "Rockstar has revealed the official launch trailer for Grand Theft Auto 6"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/monster-hunter-wilds-free-prologue-demo-brings-the-hunt-to-switch-2-next-week",
+          "titre": "Monster Hunter Wilds Free Prologue Demo Brings The Hunt To Switch 2 Next Week"
         }
       ]
     },
@@ -221,8 +293,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.2,
-      "chaleur": 9,
+      "heures": 6.0,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -239,8 +311,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 9,
+      "heures": 8.0,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -258,8 +330,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 3.7,
-      "chaleur": 9,
+      "heures": 8.5,
+      "chaleur": 7,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -274,66 +346,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "monster-hunter-wilds-fairly-generous-prologue-demo-comes-to",
-      "titre": "Monster Hunter Wilds' fairly generous Prologue Demo comes to Switch 2 next week",
-      "url": "https://www.eurogamer.net/monster-hunter-wilds-switch-2-prologue-demo",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 9.7,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/monster-hunter-wilds-switch-2-prologue-demo",
-          "titre": "Monster Hunter Wilds' fairly generous Prologue Demo comes to Switch 2 next week"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/monster-hunter-wilds-free-prologue-demo-brings-the-hunt-to-switch-2-next-week",
-          "titre": "Monster Hunter Wilds Free Prologue Demo Brings The Hunt To Switch 2 Next Week"
-        }
-      ]
-    },
-    {
-      "id": "hitman-absolution-finally-sneaks-onto-switch-2-next-week",
-      "titre": "Hitman: Absolution Finally Sneaks Onto Switch 2 Next Week",
-      "url": "https://www.nintendolife.com/news/2026/10/hitman-absolution-finally-sneaks-onto-switch-2-next-week",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.7,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/hitman-absolution-finally-sneaks-onto-switch-2-next-week",
-          "titre": "Hitman: Absolution Finally Sneaks Onto Switch 2 Next Week"
-        }
-      ]
-    },
-    {
-      "id": "video-digital-foundry-delivers-its-tech-review-for-resident",
-      "titre": "Video: Digital Foundry Delivers Its Tech Review For Resident Evil 4 On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/video-digital-foundry-delivers-its-tech-review-for-resident-evil-4-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/video-digital-foundry-delivers-its-tech-review-for-resident-evil-4-on-switch-2",
-          "titre": "Video: Digital Foundry Delivers Its Tech Review For Resident Evil 4 On Switch 2"
-        }
-      ]
-    },
-    {
       "id": "fire-emblem-fortune-s-weave-gets-its-first-wave-of-dlc-today",
       "titre": "Fire Emblem: Fortune's Weave gets its first wave of DLC today, and an expansion pass to include it",
       "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-expansion-pass",
@@ -342,7 +354,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 4.4,
+      "heures": 9.2,
       "chaleur": 7,
       "liens": [
         {
@@ -358,6 +370,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "grand-theft-auto-6-launch-trailer-suddenly-drops-showing-a-s",
+      "titre": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 9.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer",
+          "titre": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/rockstar-has-revealed-the-official-launch-trailer-for-grand-theft-auto-6/",
+          "titre": "Rockstar has revealed the official launch trailer for Grand Theft Auto 6"
+        }
+      ]
+    },
+    {
       "id": "gta-6-launch-trailer-available-to-watch-right-now-captured-o",
       "titre": "GTA 6 Launch Trailer Available to Watch Right Now, Captured on PS5",
       "url": "https://www.pushsquare.com/news/2026/10/gta-6-launch-trailer-available-to-watch-right-now-captured-on-ps5",
@@ -365,7 +401,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 9.8,
       "chaleur": 7,
       "liens": [
         {
@@ -383,31 +419,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 10.0,
       "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/gta-6-barely-makes-the-cut-for-the-game-awards-game-of-the-year-vote",
           "titre": "GTA 6 Barely Makes the Cut for The Game Awards' Game of the Year Vote"
-        }
-      ]
-    },
-    {
-      "id": "zelda-switch-2-console-is-back-in-stock-at-smyths-in-the-uk",
-      "titre": "Zelda Switch 2 Console Is Back In Stock At Smyths In The UK",
-      "url": "https://www.nintendolife.com/news/2026/10/zelda-switch-2-console-is-back-in-stock-at-smyths-in-the-uk",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 9.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/zelda-switch-2-console-is-back-in-stock-at-smyths-in-the-uk",
-          "titre": "Zelda Switch 2 Console Is Back In Stock At Smyths In The UK"
         }
       ]
     },
@@ -430,135 +448,9 @@ const VEILLE = {
       ]
     },
     {
-      "id": "control-resonant-cuts-through-the-crazy-ps5-release-schedule",
-      "titre": "Control Resonant Cuts Through the Crazy PS5 Release Schedule with 1 Million Sales",
-      "url": "https://www.pushsquare.com/news/2026/10/control-resonant-cuts-through-the-crazy-ps5-release-schedule-with-1-million-sales",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 0.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/control-resonant-cuts-through-the-crazy-ps5-release-schedule-with-1-million-sales",
-          "titre": "Control Resonant Cuts Through the Crazy PS5 Release Schedule with 1 Million Sales"
-        }
-      ]
-    },
-    {
-      "id": "star-wars-zero-company-adds-modifiers-cuts-upgrade-costs-mor",
-      "titre": "Star Wars Zero Company Adds Modifiers, Cuts Upgrade Costs, More in Massive Update",
-      "url": "https://www.pushsquare.com/news/2026/10/star-wars-zero-company-adds-modifiers-cuts-upgrade-costs-more-in-massive-update",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 0.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/star-wars-zero-company-adds-modifiers-cuts-upgrade-costs-more-in-massive-update",
-          "titre": "Star Wars Zero Company Adds Modifiers, Cuts Upgrade Costs, More in Massive Update"
-        }
-      ]
-    },
-    {
-      "id": "after-almost-three-years-of-early-access-enshrouded-has-hit",
-      "titre": "After almost three years of early access, Enshrouded has hit 1.0 with a complete story, bigger map, and way too much more to mention",
-      "url": "https://www.rockpapershotgun.com/after-almost-three-years-of-early-access-enshrouded-has-hit-10-with-a-complete-story-bigger-map-and-way-too-much-more-to-mention",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 1.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/after-almost-three-years-of-early-access-enshrouded-has-hit-10-with-a-complete-story-bigger-map-and-way-too-much-more-to-mention",
-          "titre": "After almost three years of early access, Enshrouded has hit 1.0 with a complete story, bigger map, and way too much more to mention"
-        }
-      ]
-    },
-    {
-      "id": "fans-of-baldur-s-gate-and-old-school-rpgs-need-to-see-lair-o",
-      "titre": "Fans of Baldur's Gate and Old-School RPGs Need to See Lair of Leviathan",
-      "url": "https://www.pushsquare.com/news/2026/10/fans-of-baldurs-gate-and-old-school-rpgs-need-to-see-lair-of-leviathan",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/fans-of-baldurs-gate-and-old-school-rpgs-need-to-see-lair-of-leviathan",
-          "titre": "Fans of Baldur's Gate and Old-School RPGs Need to See Lair of Leviathan"
-        }
-      ]
-    },
-    {
-      "id": "come-on-razer-what-are-you-doing-this-pokemon-themed-mouse-i",
-      "titre": "Come on Razer what are you doing? This Pokemon-themed mouse is most definitely not the one",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/come-on-razer-what-are-you-doing-this-pokemon-themed-mouse-is-most-definitely-not-the-one/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-mice/come-on-razer-what-are-you-doing-this-pokemon-themed-mouse-is-most-definitely-not-the-one/",
-          "titre": "Come on Razer what are you doing? This Pokemon-themed mouse is most definitely not the one"
-        }
-      ]
-    },
-    {
-      "id": "monumentally-expansive-roguelike-caves-of-qud-is-getting-eve",
-      "titre": "Monumentally expansive roguelike Caves of Qud is getting even bigger in December with an early access expansion that lets you play as messed up dogs and trees",
-      "url": "https://www.rockpapershotgun.com/monumentally-expansive-roguelike-caves-of-qud-is-getting-even-bigger-in-december-with-an-early-access-expansion-that-lets-you-play-as-messed-up-dogs-and-trees",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 1.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/monumentally-expansive-roguelike-caves-of-qud-is-getting-even-bigger-in-december-with-an-early-access-expansion-that-lets-you-play-as-messed-up-dogs-and-trees",
-          "titre": "Monumentally expansive roguelike Caves of Qud is getting even bigger in December with an early access expansion that lets you play as messed up dogs and trees"
-        }
-      ]
-    },
-    {
-      "id": "ps5-s-saros-already-an-official-award-winner",
-      "titre": "PS5's Saros Already an Official Award Winner",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5s-saros-already-an-official-award-winner",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps5s-saros-already-an-official-award-winner",
-          "titre": "PS5's Saros Already an Official Award Winner"
-        }
-      ]
-    },
-    {
-      "id": "the-ai-bubble-may-not-have-burst-yet-but-1-trillion-worth-of",
-      "titre": "The AI bubble may not have burst yet, but $1 trillion worth of air appears to have escaped",
-      "url": "https://www.pcgamer.com/software/ai/the-ai-bubble-may-not-have-burst-yet-but-usd1-trillion-worth-of-air-appears-to-have-escaped/",
+      "id": "less-than-2-weeks-after-announcing-runescape-reignited-jagex",
+      "titre": "Less than 2 weeks after announcing RuneScape Reignited, Jagex is scrapping the whole thing",
+      "url": "https://www.pcgamer.com/games/mmo/less-than-2-weeks-after-announcing-runescape-reignited-jagex-is-scrapping-the-whole-thing/",
       "sources": [
         "PC Gamer"
       ],
@@ -568,170 +460,98 @@ const VEILLE = {
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/the-ai-bubble-may-not-have-burst-yet-but-usd1-trillion-worth-of-air-appears-to-have-escaped/",
-          "titre": "The AI bubble may not have burst yet, but $1 trillion worth of air appears to have escaped"
+          "url": "https://www.pcgamer.com/games/mmo/less-than-2-weeks-after-announcing-runescape-reignited-jagex-is-scrapping-the-whole-thing/",
+          "titre": "Less than 2 weeks after announcing RuneScape Reignited, Jagex is scrapping the whole thing"
         }
       ]
     },
     {
-      "id": "movie-review-street-fighter-gaudy-testosterone-fuelled-actio",
-      "titre": "Movie Review: Street Fighter - Gaudy Testosterone-Fuelled Action Film Is Fun But Not a Knockout",
-      "url": "https://www.pushsquare.com/features/movie-review-street-fighter-gaudy-testosterone-fuelled-action-film-is-fun-but-not-a-knockout",
+      "id": "valheim-vs-enshrouded-vs-runescape-dragonwilds-let-s-settle",
+      "titre": "Valheim vs Enshrouded vs RuneScape: Dragonwilds: Let's settle this",
+      "url": "https://www.pcgamer.com/games/survival-crafting/valheim-vs-runescape-dragonwilds-vs-enshrouded/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/valheim-vs-runescape-dragonwilds-vs-enshrouded/",
+          "titre": "Valheim vs Enshrouded vs RuneScape: Dragonwilds: Let's settle this"
+        }
+      ]
+    },
+    {
+      "id": "hit-co-op-game-peak-officially-confirmed-for-ps5-and-it-s-co",
+      "titre": "Hit Co-Op Game Peak Officially Confirmed for PS5, and It's Coming Very Soon",
+      "url": "https://www.pushsquare.com/news/2026/10/hit-co-op-game-peak-officially-confirmed-for-ps5-and-its-coming-very-soon",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.2,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/movie-review-street-fighter-gaudy-testosterone-fuelled-action-film-is-fun-but-not-a-knockout",
-          "titre": "Movie Review: Street Fighter - Gaudy Testosterone-Fuelled Action Film Is Fun But Not a Knockout"
+          "url": "https://www.pushsquare.com/news/2026/10/hit-co-op-game-peak-officially-confirmed-for-ps5-and-its-coming-very-soon",
+          "titre": "Hit Co-Op Game Peak Officially Confirmed for PS5, and It's Coming Very Soon"
         }
       ]
     },
     {
-      "id": "4x-strategy-sequel-humankind-2-gets-its-first-extended-in-ga",
-      "titre": "4X strategy sequel Humankind 2 gets its first extended in-game footage, rich in era-spanning, culture-shaping, history-rewriting action",
-      "url": "https://www.rockpapershotgun.com/4x-strategy-sequel-humankind-2-gets-its-first-extended-in-game-footage-rich-in-era-spanning-culture-shaping-history-rewriting-action",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/4x-strategy-sequel-humankind-2-gets-its-first-extended-in-game-footage-rich-in-era-spanning-culture-shaping-history-rewriting-action",
-          "titre": "4X strategy sequel Humankind 2 gets its first extended in-game footage, rich in era-spanning, culture-shaping, history-rewriting action"
-        }
-      ]
-    },
-    {
-      "id": "it-s-taken-its-sweet-time-but-intel-s-response-to-amd-s-x3d",
-      "titre": "It's taken its sweet time, but Intel's response to AMD's X3D chips is starting to look tasty",
-      "url": "https://www.pcgamer.com/hardware/processors/its-taken-its-sweet-time-but-intels-response-to-amds-x3d-chips-is-starting-to-look-tasty/",
+      "id": "world-of-warcraft-forever-devs-say-gear-upgrades-will-stay-r",
+      "titre": "World of Warcraft: Forever devs say gear upgrades will stay relevant 'for a long, long time': 'It's very much our intention to try wherever we can to not invalidate old content'",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-devs-say-gear-upgrades-will-stay-relevant-for-a-long-long-time-its-very-much-our-intention-to-try-wherever-we-can-to-not-invalidate-old-content/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.6,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/processors/its-taken-its-sweet-time-but-intels-response-to-amds-x3d-chips-is-starting-to-look-tasty/",
-          "titre": "It's taken its sweet time, but Intel's response to AMD's X3D chips is starting to look tasty"
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-devs-say-gear-upgrades-will-stay-relevant-for-a-long-long-time-its-very-much-our-intention-to-try-wherever-we-can-to-not-invalidate-old-content/",
+          "titre": "World of Warcraft: Forever devs say gear upgrades will stay relevant 'for a long, long time': 'It's very much our intention to try wherever we can to not invalidate old content'"
         }
       ]
     },
     {
-      "id": "i-jammed-nvidia-s-new-dlss-5-october-update-model-into-the-r",
-      "titre": "I jammed Nvidia's new DLSS 5 October update model into the RTX Spark and it's 25% faster at 1440p",
-      "url": "https://www.pcgamer.com/hardware/i-jammed-nvidias-new-dlss-5-october-update-model-into-the-rtx-spark-and-its-25-percent-faster-at-1440p/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/i-jammed-nvidias-new-dlss-5-october-update-model-into-the-rtx-spark-and-its-25-percent-faster-at-1440p/",
-          "titre": "I jammed Nvidia's new DLSS 5 October update model into the RTX Spark and it's 25% faster at 1440p"
-        }
-      ]
-    },
-    {
-      "id": "wwe-2k26-is-collaborating-with-capcom-for-a-dlc-pack-adding",
-      "titre": "WWE 2K26 is collaborating with Capcom for a DLC pack adding five WWE wrestlers as Street Fighter action figures",
-      "url": "https://www.videogameschronicle.com/news/wwe-2k26-is-collaborating-with-capcom-for-a-dlc-pack-adding-five-wwe-wrestlers-as-street-fighter-action-figures/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/wwe-2k26-is-collaborating-with-capcom-for-a-dlc-pack-adding-five-wwe-wrestlers-as-street-fighter-action-figures/",
-          "titre": "WWE 2K26 is collaborating with Capcom for a DLC pack adding five WWE wrestlers as Street Fighter action figures"
-        }
-      ]
-    },
-    {
-      "id": "feature-i-lost-my-mind-abby-trott-on-singing-the-smash-bros",
-      "titre": "Feature: \"I Lost My Mind\" - Abby Trott On Singing The Smash Bros. Theme & Playing A Belmont In Castlevania",
-      "url": "https://www.nintendolife.com/features/i-lost-my-mind-abby-trott-on-singing-the-smash-bros-theme-and-playing-a-belmont-in-castlevania",
+      "id": "hitman-absolution-finally-sneaks-onto-switch-2-next-week",
+      "titre": "Hitman: Absolution Finally Sneaks Onto Switch 2 Next Week",
+      "url": "https://www.nintendolife.com/news/2026/10/hitman-absolution-finally-sneaks-onto-switch-2-next-week",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.1,
+      "heures": 6.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/i-lost-my-mind-abby-trott-on-singing-the-smash-bros-theme-and-playing-a-belmont-in-castlevania",
-          "titre": "Feature: \"I Lost My Mind\" - Abby Trott On Singing The Smash Bros. Theme & Playing A Belmont In Castlevania"
+          "url": "https://www.nintendolife.com/news/2026/10/hitman-absolution-finally-sneaks-onto-switch-2-next-week",
+          "titre": "Hitman: Absolution Finally Sneaks Onto Switch 2 Next Week"
         }
       ]
     },
     {
-      "id": "japanese-charts-kingdom-hearts-collection-grabs-the-top-spot",
-      "titre": "Japanese Charts: Kingdom Hearts Collection Grabs The Top Spot, Despite A Slow Start",
-      "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-kingdom-hearts-collection-grabs-the-top-spot-despite-a-slow-start",
+      "id": "video-digital-foundry-delivers-its-tech-review-for-resident",
+      "titre": "Video: Digital Foundry Delivers Its Tech Review For Resident Evil 4 On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/video-digital-foundry-delivers-its-tech-review-for-resident-evil-4-on-switch-2",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.2,
+      "heures": 8.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-kingdom-hearts-collection-grabs-the-top-spot-despite-a-slow-start",
-          "titre": "Japanese Charts: Kingdom Hearts Collection Grabs The Top Spot, Despite A Slow Start"
-        }
-      ]
-    },
-    {
-      "id": "where-to-find-the-takashiro-region-treasure-hunt-in-forza-ho",
-      "titre": "Where to find the Takashiro region Treasure Hunt in Forza Horizon 6",
-      "url": "https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-hunt-takashiro-region-location/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-hunt-takashiro-region-location/",
-          "titre": "Where to find the Takashiro region Treasure Hunt in Forza Horizon 6"
-        }
-      ]
-    },
-    {
-      "id": "the-call-of-duty-tax-means-games-media-doesn-t-cover-cod-the",
-      "titre": "The ‘Call of Duty tax’ means games media doesn’t cover COD the way it used to, Activision says",
-      "url": "https://www.videogameschronicle.com/news/the-call-of-duty-tax-means-games-media-doesnt-cover-cod-the-way-it-used-to-activision-says/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-call-of-duty-tax-means-games-media-doesnt-cover-cod-the-way-it-used-to-activision-says/",
-          "titre": "The ‘Call of Duty tax’ means games media doesn’t cover COD the way it used to, Activision says"
+          "url": "https://www.nintendolife.com/news/2026/10/video-digital-foundry-delivers-its-tech-review-for-resident-evil-4-on-switch-2",
+          "titre": "Video: Digital Foundry Delivers Its Tech Review For Resident Evil 4 On Switch 2"
         }
       ]
     },
@@ -743,7 +563,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 9.0,
       "chaleur": 6,
       "liens": [
         {
@@ -761,7 +581,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 9.5,
       "chaleur": 6,
       "liens": [
         {
@@ -779,7 +599,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 10.5,
       "chaleur": 6,
       "liens": [
         {
@@ -790,20 +610,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ubisoft-reportedly-look-to-cut-100-more-jobs-by-proposing-vo",
-      "titre": "Ubisoft reportedly look to cut 100 more jobs by proposing voluntary redundancies at studios including lead Anno devs Ubisoft Mainz",
-      "url": "https://www.rockpapershotgun.com/ubisoft-reportedly-look-to-cut-100-more-jobs-by-proposing-voluntary-redundancies-at-studios-including-lead-anno-devs-ubisoft-mainz",
+      "id": "zelda-switch-2-console-is-back-in-stock-at-smyths-in-the-uk",
+      "titre": "Zelda Switch 2 Console Is Back In Stock At Smyths In The UK",
+      "url": "https://www.nintendolife.com/news/2026/10/zelda-switch-2-console-is-back-in-stock-at-smyths-in-the-uk",
       "sources": [
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 14.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ubisoft-reportedly-look-to-cut-100-more-jobs-by-proposing-voluntary-redundancies-at-studios-including-lead-anno-devs-ubisoft-mainz",
-          "titre": "Ubisoft reportedly look to cut 100 more jobs by proposing voluntary redundancies at studios including lead Anno devs Ubisoft Mainz"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/zelda-switch-2-console-is-back-in-stock-at-smyths-in-the-uk",
+          "titre": "Zelda Switch 2 Console Is Back In Stock At Smyths In The UK"
         }
       ]
     },
@@ -815,37 +635,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 18.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/icymi-zelda-ocarina-of-time-on-switch-2-has-a-museum-and-boss-time-trial-mode",
           "titre": "ICYMI: Zelda: Ocarina Of Time On Switch 2 Has A Museum & Boss Time Trial Mode"
-        }
-      ]
-    },
-    {
-      "id": "the-first-review-for-final-fantasy-resonance-is-in",
-      "titre": "The First Review For Final Fantasy Resonance Is In",
-      "url": "https://www.nintendolife.com/news/2026/10/the-first-review-for-final-fantasy-resonance-is-in",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 17.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/the-first-review-for-final-fantasy-resonance-is-in",
-          "titre": "The First Review For Final Fantasy Resonance Is In"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/first-final-fantasy-resonance-ps5-review-released-rough-campaign-length-revealed",
-          "titre": "First Final Fantasy Resonance PS5 Review Released, Rough Campaign Length Revealed"
         }
       ]
     },
@@ -857,7 +653,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.1,
+      "heures": 33.9,
       "chaleur": 6,
       "liens": [
         {
@@ -875,13 +671,31 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 29.8,
+      "heures": 34.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/rockstars-next-game-wont-take-eight-years-to-make-the-engine-the-tools-and-the-team-weve-built-during-gta-6-will-allow-us-to-do-things-more-quickly",
           "titre": "Rockstar's next game won't take eight years to make: \"The engine, the tools and the team we've built during GTA 6 will allow us to do things more quickly\""
+        }
+      ]
+    },
+    {
+      "id": "ubisoft-reportedly-look-to-cut-100-more-jobs-by-proposing-vo",
+      "titre": "Ubisoft reportedly look to cut 100 more jobs by proposing voluntary redundancies at studios including lead Anno devs Ubisoft Mainz",
+      "url": "https://www.rockpapershotgun.com/ubisoft-reportedly-look-to-cut-100-more-jobs-by-proposing-voluntary-redundancies-at-studios-including-lead-anno-devs-ubisoft-mainz",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 13.2,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/ubisoft-reportedly-look-to-cut-100-more-jobs-by-proposing-voluntary-redundancies-at-studios-including-lead-anno-devs-ubisoft-mainz",
+          "titre": "Ubisoft reportedly look to cut 100 more jobs by proposing voluntary redundancies at studios including lead Anno devs Ubisoft Mainz"
         }
       ]
     },
@@ -893,7 +707,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 21.8,
+      "heures": 26.6,
       "chaleur": 5,
       "liens": [
         {
@@ -911,7 +725,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.7,
+      "heures": 30.5,
       "chaleur": 5,
       "liens": [
         {
@@ -922,38 +736,344 @@ const VEILLE = {
       ]
     },
     {
-      "id": "we-vibe-coded-a-new-epic-games-launcher-because-programming",
-      "titre": "\"We vibe coded a new Epic Games Launcher\" because \"programming is hard\", announce company we're somehow supposed to see as a serious Steam competitor",
-      "url": "https://www.rockpapershotgun.com/we-vibe-coded-a-new-epic-games-launcher-because-programming-is-hard-announce-company-were-somehow-supposed-to-see-as-a-serious-steam-competitor",
+      "id": "the-third-version-of-arizona-sunshine-is-dated-for-january-2",
+      "titre": "The Third Version of Arizona Sunshine Is Dated for January 2027",
+      "url": "https://www.pushsquare.com/news/2026/10/the-third-version-of-arizona-sunshine-is-dated-for-january-2027",
       "sources": [
-        "Rock Paper Shotgun"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.7,
-      "chaleur": 5,
+      "heures": 4.0,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/we-vibe-coded-a-new-epic-games-launcher-because-programming-is-hard-announce-company-were-somehow-supposed-to-see-as-a-serious-steam-competitor",
-          "titre": "\"We vibe coded a new Epic Games Launcher\" because \"programming is hard\", announce company we're somehow supposed to see as a serious Steam competitor"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/the-third-version-of-arizona-sunshine-is-dated-for-january-2027",
+          "titre": "The Third Version of Arizona Sunshine Is Dated for January 2027"
         }
       ]
     },
     {
-      "id": "asha-sharma-announces-xbox-labs-project-to-explore-new-techn",
-      "titre": "Asha Sharma announces Xbox Labs project to \"explore new technology,\" which sure sounds like tinkering with old games through AI",
-      "url": "https://www.rockpapershotgun.com/asha-sharma-announces-xbox-labs-project-to-explore-new-technology-which-sure-sounds-like-tinkering-with-old-games-through-ai",
+      "id": "urine-trouble-pee-v-pee-a-multiplayer-game-about-hiding-from",
+      "titre": "Urine Trouble: PEE V PEE, a multiplayer game about hiding from the cops while you take a whizz on public property, takes the trophy for punniest title of the year",
+      "url": "https://www.rockpapershotgun.com/urine-trouble-pee-v-pee-a-multiplayer-game-about-hiding-from-the-cops-while-you-take-a-whizz-on-public-property-takes-the-trophy-for-punniest-title-of-the-year",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.9,
-      "chaleur": 5,
+      "heures": 4.0,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/asha-sharma-announces-xbox-labs-project-to-explore-new-technology-which-sure-sounds-like-tinkering-with-old-games-through-ai",
-          "titre": "Asha Sharma announces Xbox Labs project to \"explore new technology,\" which sure sounds like tinkering with old games through AI"
+          "url": "https://www.rockpapershotgun.com/urine-trouble-pee-v-pee-a-multiplayer-game-about-hiding-from-the-cops-while-you-take-a-whizz-on-public-property-takes-the-trophy-for-punniest-title-of-the-year",
+          "titre": "Urine Trouble: PEE V PEE, a multiplayer game about hiding from the cops while you take a whizz on public property, takes the trophy for punniest title of the year"
+        }
+      ]
+    },
+    {
+      "id": "cyberpunk-2-s-director-is-a-big-reason-to-be-hyped-for-the-s",
+      "titre": "Cyberpunk 2's Director Is a Big Reason to Be Hyped for the Secretive 2077 Sequel",
+      "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2s-director-is-a-big-reason-to-be-hyped-for-the-secretive-2077-sequel",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2s-director-is-a-big-reason-to-be-hyped-for-the-secretive-2077-sequel",
+          "titre": "Cyberpunk 2's Director Is a Big Reason to Be Hyped for the Secretive 2077 Sequel"
+        }
+      ]
+    },
+    {
+      "id": "control-resonant-sells-1-million-copies-in-3-weeks-to-become",
+      "titre": "Control Resonant sells 1 million copies in 3 weeks to become Remedy's fastest-selling game ever",
+      "url": "https://www.pcgamer.com/games/action/control-resonant-sells-1-million-copies-in-3-weeks-to-become-remedys-fastest-selling-game-ever/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/control-resonant-sells-1-million-copies-in-3-weeks-to-become-remedys-fastest-selling-game-ever/",
+          "titre": "Control Resonant sells 1 million copies in 3 weeks to become Remedy's fastest-selling game ever"
+        }
+      ]
+    },
+    {
+      "id": "control-resonant-cuts-through-the-crazy-ps5-release-schedule",
+      "titre": "Control Resonant Cuts Through the Crazy PS5 Release Schedule with 1 Million Sales",
+      "url": "https://www.pushsquare.com/news/2026/10/control-resonant-cuts-through-the-crazy-ps5-release-schedule-with-1-million-sales",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/control-resonant-cuts-through-the-crazy-ps5-release-schedule-with-1-million-sales",
+          "titre": "Control Resonant Cuts Through the Crazy PS5 Release Schedule with 1 Million Sales"
+        }
+      ]
+    },
+    {
+      "id": "star-wars-zero-company-adds-modifiers-cuts-upgrade-costs-mor",
+      "titre": "Star Wars Zero Company Adds Modifiers, Cuts Upgrade Costs, More in Massive Update",
+      "url": "https://www.pushsquare.com/news/2026/10/star-wars-zero-company-adds-modifiers-cuts-upgrade-costs-more-in-massive-update",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/star-wars-zero-company-adds-modifiers-cuts-upgrade-costs-more-in-massive-update",
+          "titre": "Star Wars Zero Company Adds Modifiers, Cuts Upgrade Costs, More in Massive Update"
+        }
+      ]
+    },
+    {
+      "id": "after-almost-three-years-of-early-access-enshrouded-has-hit",
+      "titre": "After almost three years of early access, Enshrouded has hit 1.0 with a complete story, bigger map, and way too much more to mention",
+      "url": "https://www.rockpapershotgun.com/after-almost-three-years-of-early-access-enshrouded-has-hit-10-with-a-complete-story-bigger-map-and-way-too-much-more-to-mention",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/after-almost-three-years-of-early-access-enshrouded-has-hit-10-with-a-complete-story-bigger-map-and-way-too-much-more-to-mention",
+          "titre": "After almost three years of early access, Enshrouded has hit 1.0 with a complete story, bigger map, and way too much more to mention"
+        }
+      ]
+    },
+    {
+      "id": "fans-of-baldur-s-gate-and-old-school-rpgs-need-to-see-lair-o",
+      "titre": "Fans of Baldur's Gate and Old-School RPGs Need to See Lair of Leviathan",
+      "url": "https://www.pushsquare.com/news/2026/10/fans-of-baldurs-gate-and-old-school-rpgs-need-to-see-lair-of-leviathan",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/fans-of-baldurs-gate-and-old-school-rpgs-need-to-see-lair-of-leviathan",
+          "titre": "Fans of Baldur's Gate and Old-School RPGs Need to See Lair of Leviathan"
+        }
+      ]
+    },
+    {
+      "id": "come-on-razer-what-are-you-doing-this-pokemon-themed-mouse-i",
+      "titre": "Come on Razer what are you doing? This Pokemon-themed mouse is most definitely not the one",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/come-on-razer-what-are-you-doing-this-pokemon-themed-mouse-is-most-definitely-not-the-one/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-mice/come-on-razer-what-are-you-doing-this-pokemon-themed-mouse-is-most-definitely-not-the-one/",
+          "titre": "Come on Razer what are you doing? This Pokemon-themed mouse is most definitely not the one"
+        }
+      ]
+    },
+    {
+      "id": "monumentally-expansive-roguelike-caves-of-qud-is-getting-eve",
+      "titre": "Monumentally expansive roguelike Caves of Qud is getting even bigger in December with an early access expansion that lets you play as messed up dogs and trees",
+      "url": "https://www.rockpapershotgun.com/monumentally-expansive-roguelike-caves-of-qud-is-getting-even-bigger-in-december-with-an-early-access-expansion-that-lets-you-play-as-messed-up-dogs-and-trees",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 6.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/monumentally-expansive-roguelike-caves-of-qud-is-getting-even-bigger-in-december-with-an-early-access-expansion-that-lets-you-play-as-messed-up-dogs-and-trees",
+          "titre": "Monumentally expansive roguelike Caves of Qud is getting even bigger in December with an early access expansion that lets you play as messed up dogs and trees"
+        }
+      ]
+    },
+    {
+      "id": "ps5-s-saros-already-an-official-award-winner",
+      "titre": "PS5's Saros Already an Official Award Winner",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5s-saros-already-an-official-award-winner",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 6.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5s-saros-already-an-official-award-winner",
+          "titre": "PS5's Saros Already an Official Award Winner"
+        }
+      ]
+    },
+    {
+      "id": "the-ai-bubble-may-not-have-burst-yet-but-1-trillion-worth-of",
+      "titre": "The AI bubble may not have burst yet, but $1 trillion worth of air appears to have escaped",
+      "url": "https://www.pcgamer.com/software/ai/the-ai-bubble-may-not-have-burst-yet-but-usd1-trillion-worth-of-air-appears-to-have-escaped/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/the-ai-bubble-may-not-have-burst-yet-but-usd1-trillion-worth-of-air-appears-to-have-escaped/",
+          "titre": "The AI bubble may not have burst yet, but $1 trillion worth of air appears to have escaped"
+        }
+      ]
+    },
+    {
+      "id": "4x-strategy-sequel-humankind-2-gets-its-first-extended-in-ga",
+      "titre": "4X strategy sequel Humankind 2 gets its first extended in-game footage, rich in era-spanning, culture-shaping, history-rewriting action",
+      "url": "https://www.rockpapershotgun.com/4x-strategy-sequel-humankind-2-gets-its-first-extended-in-game-footage-rich-in-era-spanning-culture-shaping-history-rewriting-action",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 7.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/4x-strategy-sequel-humankind-2-gets-its-first-extended-in-game-footage-rich-in-era-spanning-culture-shaping-history-rewriting-action",
+          "titre": "4X strategy sequel Humankind 2 gets its first extended in-game footage, rich in era-spanning, culture-shaping, history-rewriting action"
+        }
+      ]
+    },
+    {
+      "id": "it-s-taken-its-sweet-time-but-intel-s-response-to-amd-s-x3d",
+      "titre": "It's taken its sweet time, but Intel's response to AMD's X3D chips is starting to look tasty",
+      "url": "https://www.pcgamer.com/hardware/processors/its-taken-its-sweet-time-but-intels-response-to-amds-x3d-chips-is-starting-to-look-tasty/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/processors/its-taken-its-sweet-time-but-intels-response-to-amds-x3d-chips-is-starting-to-look-tasty/",
+          "titre": "It's taken its sweet time, but Intel's response to AMD's X3D chips is starting to look tasty"
+        }
+      ]
+    },
+    {
+      "id": "i-jammed-nvidia-s-new-dlss-5-october-update-model-into-the-r",
+      "titre": "I jammed Nvidia's new DLSS 5 October update model into the RTX Spark and it's 25% faster at 1440p",
+      "url": "https://www.pcgamer.com/hardware/i-jammed-nvidias-new-dlss-5-october-update-model-into-the-rtx-spark-and-its-25-percent-faster-at-1440p/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/i-jammed-nvidias-new-dlss-5-october-update-model-into-the-rtx-spark-and-its-25-percent-faster-at-1440p/",
+          "titre": "I jammed Nvidia's new DLSS 5 October update model into the RTX Spark and it's 25% faster at 1440p"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2k26-is-collaborating-with-capcom-for-a-dlc-pack-adding",
+      "titre": "WWE 2K26 is collaborating with Capcom for a DLC pack adding five WWE wrestlers as Street Fighter action figures",
+      "url": "https://www.videogameschronicle.com/news/wwe-2k26-is-collaborating-with-capcom-for-a-dlc-pack-adding-five-wwe-wrestlers-as-street-fighter-action-figures/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 7.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/wwe-2k26-is-collaborating-with-capcom-for-a-dlc-pack-adding-five-wwe-wrestlers-as-street-fighter-action-figures/",
+          "titre": "WWE 2K26 is collaborating with Capcom for a DLC pack adding five WWE wrestlers as Street Fighter action figures"
+        }
+      ]
+    },
+    {
+      "id": "feature-i-lost-my-mind-abby-trott-on-singing-the-smash-bros",
+      "titre": "Feature: \"I Lost My Mind\" - Abby Trott On Singing The Smash Bros. Theme & Playing A Belmont In Castlevania",
+      "url": "https://www.nintendolife.com/features/i-lost-my-mind-abby-trott-on-singing-the-smash-bros-theme-and-playing-a-belmont-in-castlevania",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 7.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/i-lost-my-mind-abby-trott-on-singing-the-smash-bros-theme-and-playing-a-belmont-in-castlevania",
+          "titre": "Feature: \"I Lost My Mind\" - Abby Trott On Singing The Smash Bros. Theme & Playing A Belmont In Castlevania"
+        }
+      ]
+    },
+    {
+      "id": "japanese-charts-kingdom-hearts-collection-grabs-the-top-spot",
+      "titre": "Japanese Charts: Kingdom Hearts Collection Grabs The Top Spot, Despite A Slow Start",
+      "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-kingdom-hearts-collection-grabs-the-top-spot-despite-a-slow-start",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 8.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-kingdom-hearts-collection-grabs-the-top-spot-despite-a-slow-start",
+          "titre": "Japanese Charts: Kingdom Hearts Collection Grabs The Top Spot, Despite A Slow Start"
+        }
+      ]
+    },
+    {
+      "id": "where-to-find-the-takashiro-region-treasure-hunt-in-forza-ho",
+      "titre": "Where to find the Takashiro region Treasure Hunt in Forza Horizon 6",
+      "url": "https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-hunt-takashiro-region-location/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-hunt-takashiro-region-location/",
+          "titre": "Where to find the Takashiro region Treasure Hunt in Forza Horizon 6"
         }
       ]
     },
@@ -965,7 +1085,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -983,7 +1103,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1001,31 +1121,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/controllers/razer-wolverine-v4-pro-review/",
           "titre": "Razer Wolverine V4 Pro wireless gaming controller review"
-        }
-      ]
-    },
-    {
-      "id": "nvidia-s-rtx-spark-makes-for-an-impressive-arm-based-gaming",
-      "titre": "Nvidia's RTX Spark makes for an impressive Arm-based gaming laptop but not one I'd recommend you buy just for PC gaming",
-      "url": "https://www.pcgamer.com/hardware/gaming-laptops/nvidias-rtx-spark-makes-for-an-impressive-arm-based-gaming-laptop-but-not-one-id-recommend-you-buy-just-for-pc-gaming/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-laptops/nvidias-rtx-spark-makes-for-an-impressive-arm-based-gaming-laptop-but-not-one-id-recommend-you-buy-just-for-pc-gaming/",
-          "titre": "Nvidia's RTX Spark makes for an impressive Arm-based gaming laptop but not one I'd recommend you buy just for PC gaming"
         }
       ]
     },
@@ -1037,7 +1139,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1055,121 +1157,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/reforj-developer-4j-studios-announces-pc-release-date-at-game-republic-new-horizons",
           "titre": "Reforj developer 4J Studios announces PC release date at Game Republic New Horizons"
-        }
-      ]
-    },
-    {
-      "id": "after-civ-7-stumbled-humankind-2-looks-like-it-s-making-smar",
-      "titre": "After Civ 7 stumbled, Humankind 2 looks like it's making smart choices to pick up the 4X torch",
-      "url": "https://www.pcgamer.com/games/strategy/after-civ-7-stumbled-humankind-2-looks-like-its-making-smart-choices-to-pick-up-the-4x-torch/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/after-civ-7-stumbled-humankind-2-looks-like-its-making-smart-choices-to-pick-up-the-4x-torch/",
-          "titre": "After Civ 7 stumbled, Humankind 2 looks like it's making smart choices to pick up the 4X torch"
-        }
-      ]
-    },
-    {
-      "id": "castlevania-belmont-s-curse-review-inspired-by-great-ideas-b",
-      "titre": "Castlevania: Belmont's Curse review - inspired by great ideas, but doomed by questionable execution",
-      "url": "https://www.eurogamer.net/castlevania-belmonts-curse-review",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 5.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/castlevania-belmonts-curse-review",
-          "titre": "Castlevania: Belmont's Curse review - inspired by great ideas, but doomed by questionable execution"
-        }
-      ]
-    },
-    {
-      "id": "i-lost-the-concept-of-home-until-my-grandmother-took-me-int",
-      "titre": "\"I lost the concept of home, until my grandmother took me into these forests\" - Trollheim: Gnomes is a survival game from ex-DICE and Paradox devs that channels childhood fairytales",
-      "url": "https://www.rockpapershotgun.com/i-lost-the-concept-of-home-until-my-grandmother-took-me-into-these-forests-trollheim-gnomes-is-a-survival-game-from-ex-dice-and-paradox-devs-that-channels-childhood-fairytales",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 5.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-lost-the-concept-of-home-until-my-grandmother-took-me-into-these-forests-trollheim-gnomes-is-a-survival-game-from-ex-dice-and-paradox-devs-that-channels-childhood-fairytales",
-          "titre": "\"I lost the concept of home, until my grandmother took me into these forests\" - Trollheim: Gnomes is a survival game from ex-DICE and Paradox devs that channels childhood fairytales"
-        }
-      ]
-    },
-    {
-      "id": "a-co-op-survival-game-where-trolls-aren-t-just-there-to-be-k",
-      "titre": "A co-op survival game where trolls aren't just there to be killed? 'We don't talk about them as enemies, but rather as neighbors'",
-      "url": "https://www.pcgamer.com/games/survival-crafting/a-co-op-survival-game-where-trolls-arent-just-there-to-be-killed-we-dont-talk-about-them-as-enemies-but-rather-as-neighbors/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/a-co-op-survival-game-where-trolls-arent-just-there-to-be-killed-we-dont-talk-about-them-as-enemies-but-rather-as-neighbors/",
-          "titre": "A co-op survival game where trolls aren't just there to be killed? 'We don't talk about them as enemies, but rather as neighbors'"
-        }
-      ]
-    },
-    {
-      "id": "re4-separate-ways-cliffside-door-symbol-puzzle",
-      "titre": "RE4 Separate Ways: Cliffside Door Symbol puzzle",
-      "url": "https://www.videogameschronicle.com/guide/re4-separate-ways-cliffside-door-symbol-puzzle/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 5.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/re4-separate-ways-cliffside-door-symbol-puzzle/",
-          "titre": "RE4 Separate Ways: Cliffside Door Symbol puzzle"
-        }
-      ]
-    },
-    {
-      "id": "an-oral-history-of-the-tomb-raider-game-no-one-wanted-to-mak",
-      "titre": "An oral history of the Tomb Raider game no one wanted to make",
-      "url": "https://www.gamesindustry.biz/an-oral-history-of-the-tomb-raider-game-no-one-wanted-to-make",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 5.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/an-oral-history-of-the-tomb-raider-game-no-one-wanted-to-make",
-          "titre": "An oral history of the Tomb Raider game no one wanted to make"
         }
       ]
     }
