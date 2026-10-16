@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "15/10/2026 à 23h00",
+  "collecte": "16/10/2026 à 04h21",
   "seuil": 14,
   "sujets": [
     {
@@ -13,8 +13,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 10.5,
-      "chaleur": 12,
+      "heures": 15.9,
+      "chaleur": 11,
       "liens": [
         {
           "source": "VGC",
@@ -43,8 +43,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 11.9,
-      "chaleur": 12,
+      "heures": 17.2,
+      "chaleur": 11,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -64,6 +64,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "nintendo-announces-switch-2-repair-price-hike-for-japan",
+      "titre": "Nintendo Announces Switch 2 Repair Price Hike For Japan",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-announces-switch-2-repair-price-hike-for-japan",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-announces-switch-2-repair-price-hike-for-japan",
+          "titre": "Nintendo Announces Switch 2 Repair Price Hike For Japan"
+        }
+      ]
+    },
+    {
       "id": "the-shogun-2-remaster-is-so-bad-sega-is-removing-it-from-sal",
       "titre": "The Shogun 2 remaster is so bad, Sega is removing it from sale and bringing back the original",
       "url": "https://www.pcgamer.com/games/strategy/the-shogun-2-remaster-is-so-bad-sega-is-removing-it-from-sale-and-bringing-back-the-original/",
@@ -73,8 +91,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 7.2,
-      "chaleur": 10,
+      "heures": 12.5,
+      "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
@@ -102,8 +120,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.3,
-      "chaleur": 10,
+      "heures": 12.6,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -118,86 +136,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "welp-all-of-you-runescape-folks-who-hate-reignited-have-gott",
-      "titre": "Welp, all of you RuneScape folks who hate Reignited have gotten your wish, as the controversial MMO rejig has been cancelled",
-      "url": "https://www.rockpapershotgun.com/welp-all-of-you-runescape-folks-who-hate-reignited-have-gotten-your-wish-as-the-controversial-mmo-rejig-has-been-cancelled",
+      "id": "nintendo-music-expands-its-library-with-another-game-boy-sou",
+      "titre": "Nintendo Music Expands Its Library With Another Game Boy Soundtrack This Week",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-music-expands-its-library-with-another-game-boy-soundtrack-this-week",
       "sources": [
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.2,
-      "chaleur": 9,
+      "heures": 2.4,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/welp-all-of-you-runescape-folks-who-hate-reignited-have-gotten-your-wish-as-the-controversial-mmo-rejig-has-been-cancelled",
-          "titre": "Welp, all of you RuneScape folks who hate Reignited have gotten your wish, as the controversial MMO rejig has been cancelled"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-music-expands-its-library-with-another-game-boy-soundtrack-this-week",
+          "titre": "Nintendo Music Expands Its Library With Another Game Boy Soundtrack This Week"
         }
       ]
     },
     {
-      "id": "street-fighter-review-roundup-sorry-folks-but-it-sounds-like",
-      "titre": "Street Fighter review roundup: sorry, folks, but it sounds like a mess",
-      "url": "https://www.pcgamer.com/movies-tv/street-fighter-review-roundup-sorry-folks-but-it-sounds-like-a-mess/",
+      "id": "zelda-tears-of-the-kingdom-exclusive-edition-statue-official",
+      "titre": "Zelda: Tears Of The Kingdom \"Exclusive Edition\" Statue Officially Revealed, Here's A Look",
+      "url": "https://www.nintendolife.com/news/2026/10/zelda-tears-of-the-kingdom-exclusive-edition-statue-officially-revealed-heres-a-look",
       "sources": [
-        "PC Gamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 2.1,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/street-fighter-review-roundup-sorry-folks-but-it-sounds-like-a-mess/",
-          "titre": "Street Fighter review roundup: sorry, folks, but it sounds like a mess"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/movie-review-street-fighter-gaudy-testosterone-fuelled-action-film-is-fun-but-not-a-knockout",
-          "titre": "Movie Review: Street Fighter - Gaudy Testosterone-Fuelled Action Film Is Fun But Not a Knockout"
-        }
-      ]
-    },
-    {
-      "id": "ahead-of-call-of-duty-modern-warfare-4-s-launch-next-week-un",
-      "titre": "Ahead of Call of Duty: Modern Warfare 4's launch next week, unionised Activision testers have voted to authorise a strike",
-      "url": "https://www.rockpapershotgun.com/ahead-of-call-of-duty-modern-warfare-4s-launch-next-week-unionised-activision-testers-have-voted-to-authorise-a-strike",
-      "sources": [
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 9,
+      "heures": 3.9,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ahead-of-call-of-duty-modern-warfare-4s-launch-next-week-unionised-activision-testers-have-voted-to-authorise-a-strike",
-          "titre": "Ahead of Call of Duty: Modern Warfare 4's launch next week, unionised Activision testers have voted to authorise a strike"
-        }
-      ]
-    },
-    {
-      "id": "call-of-duty-tax-blamed-for-softer-cod-reception-by-marketi",
-      "titre": "'Call of Duty Tax' Blamed for Softer CoD Reception by Marketing Lead",
-      "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-tax-blamed-for-softer-cod-reception-by-marketing-lead",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 3.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-tax-blamed-for-softer-cod-reception-by-marketing-lead",
-          "titre": "'Call of Duty Tax' Blamed for Softer CoD Reception by Marketing Lead"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-call-of-duty-tax-means-games-media-doesnt-cover-cod-the-way-it-used-to-activision-says/",
-          "titre": "The ‘Call of Duty tax’ means games media doesn’t cover COD the way it used to, Activision says"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/zelda-tears-of-the-kingdom-exclusive-edition-statue-officially-revealed-heres-a-look",
+          "titre": "Zelda: Tears Of The Kingdom \"Exclusive Edition\" Statue Officially Revealed, Here's A Look"
         }
       ]
     },
@@ -209,8 +179,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
-      "chaleur": 9,
+      "heures": 12.2,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
@@ -227,8 +197,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.5,
-      "chaleur": 9,
+      "heures": 12.9,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Push Square",
@@ -246,7 +216,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 13.4,
+      "heures": 18.8,
       "chaleur": 8,
       "liens": [
         {
@@ -270,7 +240,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 14.5,
+      "heures": 19.8,
       "chaleur": 8,
       "liens": [
         {
@@ -286,6 +256,90 @@ const VEILLE = {
       ]
     },
     {
+      "id": "welp-all-of-you-runescape-folks-who-hate-reignited-have-gott",
+      "titre": "Welp, all of you RuneScape folks who hate Reignited have gotten your wish, as the controversial MMO rejig has been cancelled",
+      "url": "https://www.rockpapershotgun.com/welp-all-of-you-runescape-folks-who-hate-reignited-have-gotten-your-wish-as-the-controversial-mmo-rejig-has-been-cancelled",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 6.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/welp-all-of-you-runescape-folks-who-hate-reignited-have-gotten-your-wish-as-the-controversial-mmo-rejig-has-been-cancelled",
+          "titre": "Welp, all of you RuneScape folks who hate Reignited have gotten your wish, as the controversial MMO rejig has been cancelled"
+        }
+      ]
+    },
+    {
+      "id": "street-fighter-review-roundup-sorry-folks-but-it-sounds-like",
+      "titre": "Street Fighter review roundup: sorry, folks, but it sounds like a mess",
+      "url": "https://www.pcgamer.com/movies-tv/street-fighter-review-roundup-sorry-folks-but-it-sounds-like-a-mess/",
+      "sources": [
+        "PC Gamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 7.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/street-fighter-review-roundup-sorry-folks-but-it-sounds-like-a-mess/",
+          "titre": "Street Fighter review roundup: sorry, folks, but it sounds like a mess"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/movie-review-street-fighter-gaudy-testosterone-fuelled-action-film-is-fun-but-not-a-knockout",
+          "titre": "Movie Review: Street Fighter - Gaudy Testosterone-Fuelled Action Film Is Fun But Not a Knockout"
+        }
+      ]
+    },
+    {
+      "id": "ahead-of-call-of-duty-modern-warfare-4-s-launch-next-week-un",
+      "titre": "Ahead of Call of Duty: Modern Warfare 4's launch next week, unionised Activision testers have voted to authorise a strike",
+      "url": "https://www.rockpapershotgun.com/ahead-of-call-of-duty-modern-warfare-4s-launch-next-week-unionised-activision-testers-have-voted-to-authorise-a-strike",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 7.9,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/ahead-of-call-of-duty-modern-warfare-4s-launch-next-week-unionised-activision-testers-have-voted-to-authorise-a-strike",
+          "titre": "Ahead of Call of Duty: Modern Warfare 4's launch next week, unionised Activision testers have voted to authorise a strike"
+        }
+      ]
+    },
+    {
+      "id": "call-of-duty-tax-blamed-for-softer-cod-reception-by-marketi",
+      "titre": "'Call of Duty Tax' Blamed for Softer CoD Reception by Marketing Lead",
+      "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-tax-blamed-for-softer-cod-reception-by-marketing-lead",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 8.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-tax-blamed-for-softer-cod-reception-by-marketing-lead",
+          "titre": "'Call of Duty Tax' Blamed for Softer CoD Reception by Marketing Lead"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-call-of-duty-tax-means-games-media-doesnt-cover-cod-the-way-it-used-to-activision-says/",
+          "titre": "The ‘Call of Duty tax’ means games media doesn’t cover COD the way it used to, Activision says"
+        }
+      ]
+    },
+    {
       "id": "gta-5-finally-measures-up-to-the-actual-best-gta-game-now-i",
       "titre": "GTA 5 finally measures up to the actual best GTA game now I've added a jetpack",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5-finally-measures-up-to-the-actual-best-gta-game-now-ive-added-a-jetpack/",
@@ -293,139 +347,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 11.4,
       "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5-finally-measures-up-to-the-actual-best-gta-game-now-ive-added-a-jetpack/",
           "titre": "GTA 5 finally measures up to the actual best GTA game now I've added a jetpack"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-s-original-music-score-is-composed-by-excellent-french",
-      "titre": "GTA 6's Original Music Score Is Composed by Excellent French Electronic Duo Justice",
-      "url": "https://www.pushsquare.com/news/2026/10/gta-6s-original-music-score-is-composed-by-excellent-french-electronic-duo-justice",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 8.0,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/gta-6s-original-music-score-is-composed-by-excellent-french-electronic-duo-justice",
-          "titre": "GTA 6's Original Music Score Is Composed by Excellent French Electronic Duo Justice"
-        }
-      ]
-    },
-    {
-      "id": "dayz-creator-dean-hall-releases-open-source-game-development",
-      "titre": "DayZ creator Dean Hall releases open-source game development framework Brutal",
-      "url": "https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source-game-development-framework-brutal",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 8.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source-game-development-framework-brutal",
-          "titre": "DayZ creator Dean Hall releases open-source game development framework Brutal"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dean-hall-brutal-framework-ksp-epic-unreal-unity",
-          "titre": "DayZ creator Dean Hall says \"our industry is rotting from its core\" because of big-company \"greed\", aiming shots at Epic's Unreal and Unity"
-        }
-      ]
-    },
-    {
-      "id": "fire-emblem-fortune-s-weave-gets-its-first-wave-of-dlc-today",
-      "titre": "Fire Emblem: Fortune's Weave gets its first wave of DLC today, and an expansion pass to include it",
-      "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-expansion-pass",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 9.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-expansion-pass",
-          "titre": "Fire Emblem: Fortune's Weave gets its first wave of DLC today, and an expansion pass to include it"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/fire-emblem-fortunes-weave-expansion-pass-announced-wave-1-launches-today",
-          "titre": "Fire Emblem: Fortune's Weave Expansion Pass Announced, Wave 1 Launches Today"
-        }
-      ]
-    },
-    {
-      "id": "grand-theft-auto-6-launch-trailer-suddenly-drops-showing-a-s",
-      "titre": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 9.6,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer",
-          "titre": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/rockstar-has-revealed-the-official-launch-trailer-for-grand-theft-auto-6/",
-          "titre": "Rockstar has revealed the official launch trailer for Grand Theft Auto 6"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-launch-trailer-available-to-watch-right-now-captured-o",
-      "titre": "GTA 6 Launch Trailer Available to Watch Right Now, Captured on PS5",
-      "url": "https://www.pushsquare.com/news/2026/10/gta-6-launch-trailer-available-to-watch-right-now-captured-on-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/gta-6-launch-trailer-available-to-watch-right-now-captured-on-ps5",
-          "titre": "GTA 6 Launch Trailer Available to Watch Right Now, Captured on PS5"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-barely-makes-the-cut-for-the-game-awards-game-of-the-y",
-      "titre": "GTA 6 Barely Makes the Cut for The Game Awards' Game of the Year Vote",
-      "url": "https://www.pushsquare.com/news/2026/10/gta-6-barely-makes-the-cut-for-the-game-awards-game-of-the-year-vote",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/gta-6-barely-makes-the-cut-for-the-game-awards-game-of-the-year-vote",
-          "titre": "GTA 6 Barely Makes the Cut for The Game Awards' Game of the Year Vote"
         }
       ]
     },
@@ -448,74 +376,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "less-than-2-weeks-after-announcing-runescape-reignited-jagex",
-      "titre": "Less than 2 weeks after announcing RuneScape Reignited, Jagex is scrapping the whole thing",
-      "url": "https://www.pcgamer.com/games/mmo/less-than-2-weeks-after-announcing-runescape-reignited-jagex-is-scrapping-the-whole-thing/",
+      "id": "preview-eternal-anima-returns-to-the-past-to-create-a-modern",
+      "titre": "Preview: 'Eternal Anima' Returns To The Past To Create A Modern JRPG",
+      "url": "https://www.nintendolife.com/previews/eternal-anima-returns-to-the-past-to-create-a-modern-jrpg",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 0.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/less-than-2-weeks-after-announcing-runescape-reignited-jagex-is-scrapping-the-whole-thing/",
-          "titre": "Less than 2 weeks after announcing RuneScape Reignited, Jagex is scrapping the whole thing"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/previews/eternal-anima-returns-to-the-past-to-create-a-modern-jrpg",
+          "titre": "Preview: 'Eternal Anima' Returns To The Past To Create A Modern JRPG"
         }
       ]
     },
     {
-      "id": "valheim-vs-enshrouded-vs-runescape-dragonwilds-let-s-settle",
-      "titre": "Valheim vs Enshrouded vs RuneScape: Dragonwilds: Let's settle this",
-      "url": "https://www.pcgamer.com/games/survival-crafting/valheim-vs-runescape-dragonwilds-vs-enshrouded/",
+      "id": "steam-achievements-are-getting-a-huge-overhaul-with-separate",
+      "titre": "Steam achievements are getting a huge overhaul, with separate sets for DLC and season passes, and an easy way to compare with friends",
+      "url": "https://www.pcgamer.com/software/platforms/steam-achievements-are-getting-a-huge-overhaul-with-separate-sets-for-dlc-and-season-passes-and-an-easy-way-to-compare-with-friends/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.1,
+      "heures": 4.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/valheim-vs-runescape-dragonwilds-vs-enshrouded/",
-          "titre": "Valheim vs Enshrouded vs RuneScape: Dragonwilds: Let's settle this"
-        }
-      ]
-    },
-    {
-      "id": "hit-co-op-game-peak-officially-confirmed-for-ps5-and-it-s-co",
-      "titre": "Hit Co-Op Game Peak Officially Confirmed for PS5, and It's Coming Very Soon",
-      "url": "https://www.pushsquare.com/news/2026/10/hit-co-op-game-peak-officially-confirmed-for-ps5-and-its-coming-very-soon",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/hit-co-op-game-peak-officially-confirmed-for-ps5-and-its-coming-very-soon",
-          "titre": "Hit Co-Op Game Peak Officially Confirmed for PS5, and It's Coming Very Soon"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-devs-say-gear-upgrades-will-stay-r",
-      "titre": "World of Warcraft: Forever devs say gear upgrades will stay relevant 'for a long, long time': 'It's very much our intention to try wherever we can to not invalidate old content'",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-devs-say-gear-upgrades-will-stay-relevant-for-a-long-long-time-its-very-much-our-intention-to-try-wherever-we-can-to-not-invalidate-old-content/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-devs-say-gear-upgrades-will-stay-relevant-for-a-long-long-time-its-very-much-our-intention-to-try-wherever-we-can-to-not-invalidate-old-content/",
-          "titre": "World of Warcraft: Forever devs say gear upgrades will stay relevant 'for a long, long time': 'It's very much our intention to try wherever we can to not invalidate old content'"
+          "url": "https://www.pcgamer.com/software/platforms/steam-achievements-are-getting-a-huge-overhaul-with-separate-sets-for-dlc-and-season-passes-and-an-easy-way-to-compare-with-friends/",
+          "titre": "Steam achievements are getting a huge overhaul, with separate sets for DLC and season passes, and an easy way to compare with friends"
         }
       ]
     },
@@ -527,7 +419,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 11.9,
       "chaleur": 6,
       "liens": [
         {
@@ -538,74 +430,86 @@ const VEILLE = {
       ]
     },
     {
-      "id": "video-digital-foundry-delivers-its-tech-review-for-resident",
-      "titre": "Video: Digital Foundry Delivers Its Tech Review For Resident Evil 4 On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/video-digital-foundry-delivers-its-tech-review-for-resident-evil-4-on-switch-2",
+      "id": "gta-6-s-original-music-score-is-composed-by-excellent-french",
+      "titre": "GTA 6's Original Music Score Is Composed by Excellent French Electronic Duo Justice",
+      "url": "https://www.pushsquare.com/news/2026/10/gta-6s-original-music-score-is-composed-by-excellent-french-electronic-duo-justice",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 13.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/video-digital-foundry-delivers-its-tech-review-for-resident-evil-4-on-switch-2",
-          "titre": "Video: Digital Foundry Delivers Its Tech Review For Resident Evil 4 On Switch 2"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/gta-6s-original-music-score-is-composed-by-excellent-french-electronic-duo-justice",
+          "titre": "GTA 6's Original Music Score Is Composed by Excellent French Electronic Duo Justice"
         }
       ]
     },
     {
-      "id": "caves-of-qud-diaspora-breaks-new-ground-by-being-the-first-e",
-      "titre": "Caves of Qud: Diaspora breaks new ground by being the first early access DLC release on Steam",
-      "url": "https://www.gamedeveloper.com/pc/caves-of-qud-diaspora-breaks-new-ground-by-being-the-first-early-access-dlc-release-on-steam",
+      "id": "dayz-creator-dean-hall-releases-open-source-game-development",
+      "titre": "DayZ creator Dean Hall releases open-source game development framework Brutal",
+      "url": "https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source-game-development-framework-brutal",
       "sources": [
-        "Game Developer"
+        "Eurogamer",
+        "GamesIndustry.biz"
       ],
-      "reprises": 1,
-      "heures": 9.0,
+      "reprises": 2,
+      "heures": 13.8,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/pc/caves-of-qud-diaspora-breaks-new-ground-by-being-the-first-early-access-dlc-release-on-steam",
-          "titre": "Caves of Qud: Diaspora breaks new ground by being the first early access DLC release on Steam"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source-game-development-framework-brutal",
+          "titre": "DayZ creator Dean Hall releases open-source game development framework Brutal"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dean-hall-brutal-framework-ksp-epic-unreal-unity",
+          "titre": "DayZ creator Dean Hall says \"our industry is rotting from its core\" because of big-company \"greed\", aiming shots at Epic's Unreal and Unity"
         }
       ]
     },
     {
-      "id": "nintendo-s-london-comic-con-booth-features-playable-layton-m",
-      "titre": "Nintendo's London Comic-Con Booth Features Playable Layton, Metaphor, 007 & More",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendos-london-comic-con-booth-features-playable-layton-metaphor-007-and-more",
+      "id": "grand-theft-auto-6-launch-trailer-suddenly-drops-showing-a-s",
+      "titre": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 9.5,
+      "reprises": 2,
+      "heures": 14.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendos-london-comic-con-booth-features-playable-layton-metaphor-007-and-more",
-          "titre": "Nintendo's London Comic-Con Booth Features Playable Layton, Metaphor, 007 & More"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer",
+          "titre": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/rockstar-has-revealed-the-official-launch-trailer-for-grand-theft-auto-6/",
+          "titre": "Rockstar has revealed the official launch trailer for Grand Theft Auto 6"
         }
       ]
     },
     {
-      "id": "the-rumoured-steam-frame-oled-would-fix-one-of-the-frame-s-m",
-      "titre": "The rumoured Steam Frame OLED would fix one of the Frame's minor weaknesses and do nothing for its major ones",
-      "url": "https://www.rockpapershotgun.com/the-rumoured-steam-frame-oled-would-fix-one-of-the-frames-minor-weaknesses-and-do-nothing-for-its-major-ones",
+      "id": "gta-6-launch-trailer-available-to-watch-right-now-captured-o",
+      "titre": "GTA 6 Launch Trailer Available to Watch Right Now, Captured on PS5",
+      "url": "https://www.pushsquare.com/news/2026/10/gta-6-launch-trailer-available-to-watch-right-now-captured-on-ps5",
       "sources": [
-        "Rock Paper Shotgun"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.5,
+      "heures": 15.2,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-rumoured-steam-frame-oled-would-fix-one-of-the-frames-minor-weaknesses-and-do-nothing-for-its-major-ones",
-          "titre": "The rumoured Steam Frame OLED would fix one of the Frame's minor weaknesses and do nothing for its major ones"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/gta-6-launch-trailer-available-to-watch-right-now-captured-on-ps5",
+          "titre": "GTA 6 Launch Trailer Available to Watch Right Now, Captured on PS5"
         }
       ]
     },
@@ -617,7 +521,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 19.4,
       "chaleur": 6,
       "liens": [
         {
@@ -635,7 +539,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 23.8,
       "chaleur": 6,
       "liens": [
         {
@@ -646,38 +550,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-leaker-s-latest-video-allegedly-shows-scenes-from-the",
-      "titre": "GTA 6 leaker's latest video allegedly shows scenes from the final mission, as they indicate the leaks may have come to an end",
-      "url": "https://www.eurogamer.net/gta-6-cyberleek-ending-crypto-coin-crash",
+      "id": "video-digital-foundry-delivers-its-tech-review-for-resident",
+      "titre": "Video: Digital Foundry Delivers Its Tech Review For Resident Evil 4 On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/video-digital-foundry-delivers-its-tech-review-for-resident-evil-4-on-switch-2",
       "sources": [
-        "Eurogamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.9,
-      "chaleur": 6,
+      "heures": 14.1,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-cyberleek-ending-crypto-coin-crash",
-          "titre": "GTA 6 leaker's latest video allegedly shows scenes from the final mission, as they indicate the leaks may have come to an end"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/video-digital-foundry-delivers-its-tech-review-for-resident-evil-4-on-switch-2",
+          "titre": "Video: Digital Foundry Delivers Its Tech Review For Resident Evil 4 On Switch 2"
         }
       ]
     },
     {
-      "id": "rockstar-s-next-game-won-t-take-eight-years-to-make-the-engi",
-      "titre": "Rockstar's next game won't take eight years to make: \"The engine, the tools and the team we've built during GTA 6 will allow us to do things more quickly\"",
-      "url": "https://www.gamesindustry.biz/rockstars-next-game-wont-take-eight-years-to-make-the-engine-the-tools-and-the-team-weve-built-during-gta-6-will-allow-us-to-do-things-more-quickly",
+      "id": "caves-of-qud-diaspora-breaks-new-ground-by-being-the-first-e",
+      "titre": "Caves of Qud: Diaspora breaks new ground by being the first early access DLC release on Steam",
+      "url": "https://www.gamedeveloper.com/pc/caves-of-qud-diaspora-breaks-new-ground-by-being-the-first-early-access-dlc-release-on-steam",
       "sources": [
-        "GamesIndustry.biz"
+        "Game Developer"
       ],
       "reprises": 1,
-      "heures": 34.6,
-      "chaleur": 6,
+      "heures": 14.4,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/rockstars-next-game-wont-take-eight-years-to-make-the-engine-the-tools-and-the-team-weve-built-during-gta-6-will-allow-us-to-do-things-more-quickly",
-          "titre": "Rockstar's next game won't take eight years to make: \"The engine, the tools and the team we've built during GTA 6 will allow us to do things more quickly\""
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/pc/caves-of-qud-diaspora-breaks-new-ground-by-being-the-first-early-access-dlc-release-on-steam",
+          "titre": "Caves of Qud: Diaspora breaks new ground by being the first early access DLC release on Steam"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-s-london-comic-con-booth-features-playable-layton-m",
+      "titre": "Nintendo's London Comic-Con Booth Features Playable Layton, Metaphor, 007 & More",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendos-london-comic-con-booth-features-playable-layton-metaphor-007-and-more",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 14.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendos-london-comic-con-booth-features-playable-layton-metaphor-007-and-more",
+          "titre": "Nintendo's London Comic-Con Booth Features Playable Layton, Metaphor, 007 & More"
+        }
+      ]
+    },
+    {
+      "id": "the-rumoured-steam-frame-oled-would-fix-one-of-the-frame-s-m",
+      "titre": "The rumoured Steam Frame OLED would fix one of the Frame's minor weaknesses and do nothing for its major ones",
+      "url": "https://www.rockpapershotgun.com/the-rumoured-steam-frame-oled-would-fix-one-of-the-frames-minor-weaknesses-and-do-nothing-for-its-major-ones",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 15.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-rumoured-steam-frame-oled-would-fix-one-of-the-frames-minor-weaknesses-and-do-nothing-for-its-major-ones",
+          "titre": "The rumoured Steam Frame OLED would fix one of the Frame's minor weaknesses and do nothing for its major ones"
         }
       ]
     },
@@ -689,7 +629,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 18.5,
       "chaleur": 5,
       "liens": [
         {
@@ -707,7 +647,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 26.6,
+      "heures": 31.9,
       "chaleur": 5,
       "liens": [
         {
@@ -725,13 +665,121 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 30.5,
+      "heures": 35.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/fortnite-is-finally-coming-to-linux-thanks-to-epic-rebuilding-easy-anti-cheat-though-steam-deck-support-is-still-in-the-wind",
           "titre": "Fortnite is finally coming to Linux thanks to Epic rebuilding Easy Anti-Cheat, though Steam Deck support is still in the wind"
+        }
+      ]
+    },
+    {
+      "id": "us-lawmaker-calls-videogame-purchases-rentals-disguised-as-s",
+      "titre": "US lawmaker calls videogame purchases rentals disguised as sales: 'When you pay for a game, you should own it'",
+      "url": "https://www.pcgamer.com/gaming-industry/us-lawmaker-calls-videogame-purchases-rentals-disguised-as-sales-when-you-pay-for-a-game-you-should-own-it/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/us-lawmaker-calls-videogame-purchases-rentals-disguised-as-sales-when-you-pay-for-a-game-you-should-own-it/",
+          "titre": "US lawmaker calls videogame purchases rentals disguised as sales: 'When you pay for a game, you should own it'"
+        }
+      ]
+    },
+    {
+      "id": "animal-evolution-sim-ancestors-gets-surprise-ps5-version-fre",
+      "titre": "Animal Evolution Sim Ancestors Gets Surprise PS5 Version, Free Upgrade for PS4 Owners",
+      "url": "https://www.pushsquare.com/news/2026/10/animal-evolution-sim-ancestors-gets-surprise-ps5-version-free-upgrade-for-ps4-owners",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/animal-evolution-sim-ancestors-gets-surprise-ps5-version-free-upgrade-for-ps4-owners",
+          "titre": "Animal Evolution Sim Ancestors Gets Surprise PS5 Version, Free Upgrade for PS4 Owners"
+        }
+      ]
+    },
+    {
+      "id": "less-than-2-weeks-after-announcing-runescape-reignited-jagex",
+      "titre": "Less than 2 weeks after announcing RuneScape Reignited, Jagex is scrapping the whole thing",
+      "url": "https://www.pcgamer.com/games/mmo/less-than-2-weeks-after-announcing-runescape-reignited-jagex-is-scrapping-the-whole-thing/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mmo/less-than-2-weeks-after-announcing-runescape-reignited-jagex-is-scrapping-the-whole-thing/",
+          "titre": "Less than 2 weeks after announcing RuneScape Reignited, Jagex is scrapping the whole thing"
+        }
+      ]
+    },
+    {
+      "id": "valheim-vs-enshrouded-vs-runescape-dragonwilds-let-s-settle",
+      "titre": "Valheim vs Enshrouded vs RuneScape: Dragonwilds: Let's settle this",
+      "url": "https://www.pcgamer.com/games/survival-crafting/valheim-vs-runescape-dragonwilds-vs-enshrouded/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/valheim-vs-runescape-dragonwilds-vs-enshrouded/",
+          "titre": "Valheim vs Enshrouded vs RuneScape: Dragonwilds: Let's settle this"
+        }
+      ]
+    },
+    {
+      "id": "hit-co-op-game-peak-officially-confirmed-for-ps5-and-it-s-co",
+      "titre": "Hit Co-Op Game Peak Officially Confirmed for PS5, and It's Coming Very Soon",
+      "url": "https://www.pushsquare.com/news/2026/10/hit-co-op-game-peak-officially-confirmed-for-ps5-and-its-coming-very-soon",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 8.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/hit-co-op-game-peak-officially-confirmed-for-ps5-and-its-coming-very-soon",
+          "titre": "Hit Co-Op Game Peak Officially Confirmed for PS5, and It's Coming Very Soon"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-devs-say-gear-upgrades-will-stay-r",
+      "titre": "World of Warcraft: Forever devs say gear upgrades will stay relevant 'for a long, long time': 'It's very much our intention to try wherever we can to not invalidate old content'",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-devs-say-gear-upgrades-will-stay-relevant-for-a-long-long-time-its-very-much-our-intention-to-try-wherever-we-can-to-not-invalidate-old-content/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 9.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-devs-say-gear-upgrades-will-stay-relevant-for-a-long-long-time-its-very-much-our-intention-to-try-wherever-we-can-to-not-invalidate-old-content/",
+          "titre": "World of Warcraft: Forever devs say gear upgrades will stay relevant 'for a long, long time': 'It's very much our intention to try wherever we can to not invalidate old content'"
         }
       ]
     },
@@ -743,7 +791,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -761,7 +809,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -779,7 +827,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -797,7 +845,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +863,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -833,7 +881,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -851,7 +899,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -869,7 +917,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +935,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +953,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +971,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +989,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -959,8 +1007,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.3,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -977,8 +1025,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -995,8 +1043,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1013,8 +1061,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.7,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1031,8 +1079,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.9,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1049,8 +1097,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.0,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1067,8 +1115,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
-      "chaleur": 4,
+      "heures": 13.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1085,8 +1133,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.0,
-      "chaleur": 4,
+      "heures": 14.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1096,74 +1144,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "finally-our-favorite-roguelike-for-sickos-will-let-me-play-a",
-      "titre": "Finally: Our favorite roguelike for sickos will let me play as a sapient tree",
-      "url": "https://www.pcgamer.com/games/roguelike/finally-our-favorite-roguelike-for-sickos-will-let-me-play-as-a-sapient-tree/",
+      "id": "fire-emblem-fortune-s-weave-gets-its-first-wave-of-dlc-today",
+      "titre": "Fire Emblem: Fortune's Weave gets its first wave of DLC today, and an expansion pass to include it",
+      "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-expansion-pass",
       "sources": [
-        "PC Gamer"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.0,
-      "chaleur": 4,
+      "heures": 14.5,
+      "chaleur": 3,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/roguelike/finally-our-favorite-roguelike-for-sickos-will-let-me-play-as-a-sapient-tree/",
-          "titre": "Finally: Our favorite roguelike for sickos will let me play as a sapient tree"
-        }
-      ]
-    },
-    {
-      "id": "razer-wolverine-v4-pro-wireless-gaming-controller-review",
-      "titre": "Razer Wolverine V4 Pro wireless gaming controller review",
-      "url": "https://www.pcgamer.com/hardware/controllers/razer-wolverine-v4-pro-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/controllers/razer-wolverine-v4-pro-review/",
-          "titre": "Razer Wolverine V4 Pro wireless gaming controller review"
-        }
-      ]
-    },
-    {
-      "id": "nobody-loves-cars-more-than-polyphony-digital-and-its-new-gr",
-      "titre": "Nobody Loves Cars More Than Polyphony Digital, and Its New Gran Turismo 7 Movie Proves It",
-      "url": "https://www.pushsquare.com/news/2026/10/nobody-loves-cars-more-than-polyphony-digital-and-its-new-gran-turismo-7-movie-proves-it",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/nobody-loves-cars-more-than-polyphony-digital-and-its-new-gran-turismo-7-movie-proves-it",
-          "titre": "Nobody Loves Cars More Than Polyphony Digital, and Its New Gran Turismo 7 Movie Proves It"
-        }
-      ]
-    },
-    {
-      "id": "reforj-developer-4j-studios-announces-pc-release-date-at-gam",
-      "titre": "Reforj developer 4J Studios announces PC release date at Game Republic New Horizons",
-      "url": "https://www.gamesindustry.biz/reforj-developer-4j-studios-announces-pc-release-date-at-game-republic-new-horizons",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/reforj-developer-4j-studios-announces-pc-release-date-at-game-republic-new-horizons",
-          "titre": "Reforj developer 4J Studios announces PC release date at Game Republic New Horizons"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-expansion-pass",
+          "titre": "Fire Emblem: Fortune's Weave gets its first wave of DLC today, and an expansion pass to include it"
         }
       ]
     }
