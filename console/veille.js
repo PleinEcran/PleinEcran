@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "17/10/2026 à 17h02",
+  "collecte": "17/10/2026 à 20h29",
   "seuil": 14,
   "sujets": [
     {
@@ -13,7 +13,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 4.4,
+      "heures": 7.8,
       "chaleur": 15,
       "liens": [
         {
@@ -43,8 +43,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 3.2,
-      "chaleur": 12,
+      "heures": 6.6,
+      "chaleur": 10,
       "liens": [
         {
           "source": "PC Gamer",
@@ -64,30 +64,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "steam-s-achievement-sets-beta-aims-to-stop-new-content-break",
-      "titre": "Steam's Achievement Sets beta aims to stop new content breaking your completion status",
-      "url": "https://www.eurogamer.net/steam-achievement-sets-beta",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 3.8,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/steam-achievement-sets-beta",
-          "titre": "Steam's Achievement Sets beta aims to stop new content breaking your completion status"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/steam-is-introducing-achievement-sets-designed-to-improve-the-achievement-earning-experience/",
-          "titre": "Steam is introducing Achievement Sets, designed to improve the achievement earning experience"
-        }
-      ]
-    },
-    {
       "id": "poll-are-you-hyped-for-october-s-9-new-ps-plus-games",
       "titre": "Poll: Are You Hyped for October's 9 New PS Plus Games?",
       "url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-octobers-9-new-ps-plus-games",
@@ -97,7 +73,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 5.0,
+      "heures": 8.5,
       "chaleur": 10,
       "liens": [
         {
@@ -118,26 +94,50 @@ const VEILLE = {
       ]
     },
     {
-      "id": "call-of-duty-on-switch-2-has-two-different-upscaling-options",
-      "titre": "Call Of Duty On Switch 2 Has Two Different Upscaling Options",
-      "url": "https://www.nintendolife.com/news/2026/10/call-of-duty-on-switch-2-has-two-different-upscaling-options",
+      "id": "i-am-overwhelmed-and-overstimulated-the-actor-behind-star-w",
+      "titre": "'I am overwhelmed and overstimulated': The actor behind Star Wars: Galactic Racer’s Biddy Blas is scribbing doon all your enthusiasm",
+      "url": "https://www.pcgamer.com/games/racing/i-am-overwhelmed-and-overstimulated-the-actor-behind-star-wars-galactic-racers-biddy-blas-is-scribbing-doon-all-your-enthusiasm/",
       "sources": [
-        "Nintendo Life",
+        "GamesIndustry.biz",
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 5.0,
+      "heures": 1.9,
       "chaleur": 9,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/call-of-duty-on-switch-2-has-two-different-upscaling-options",
-          "titre": "Call Of Duty On Switch 2 Has Two Different Upscaling Options"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/racing/i-am-overwhelmed-and-overstimulated-the-actor-behind-star-wars-galactic-racers-biddy-blas-is-scribbing-doon-all-your-enthusiasm/",
+          "titre": "'I am overwhelmed and overstimulated': The actor behind Star Wars: Galactic Racer’s Biddy Blas is scribbing doon all your enthusiasm"
         },
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review-in-progress-a-campaign-you-shouldnt-skip/",
-          "titre": "Call of Duty: Modern Warfare 4 review-in-progress: A campaign you shouldn't skip"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/the-netflix-series-drive-to-survive-inspired-star-wars-galactic-racer",
+          "titre": "The Netflix series Drive to Survive inspired Star Wars: Galactic Racer"
+        }
+      ]
+    },
+    {
+      "id": "steam-s-achievement-sets-beta-aims-to-stop-new-content-break",
+      "titre": "Steam's Achievement Sets beta aims to stop new content breaking your completion status",
+      "url": "https://www.eurogamer.net/steam-achievement-sets-beta",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 7.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/steam-achievement-sets-beta",
+          "titre": "Steam's Achievement Sets beta aims to stop new content breaking your completion status"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/steam-is-introducing-achievement-sets-designed-to-improve-the-achievement-earning-experience/",
+          "titre": "Steam is introducing Achievement Sets, designed to improve the achievement earning experience"
         }
       ]
     },
@@ -149,13 +149,175 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 18.6,
       "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/the-wolf-among-us-remastered-has-been-delayed-for-switch",
           "titre": "The Wolf Among Us Remastered Has Been Delayed For Switch"
+        }
+      ]
+    },
+    {
+      "id": "black-white-3-doesn-t-sound-like-it-s-ever-going-to-happen-b",
+      "titre": "Black & White 3 doesn't sound like it's ever going to happen, but good ole overpromising Peter Molyneux may have let slip about a remaster of the original",
+      "url": "https://www.rockpapershotgun.com/black-white-3-doesnt-sound-like-its-ever-going-to-happen-but-good-ole-overpromising-peter-molyneux-may-have-let-slip-about-a-remaster-of-the-original",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/black-white-3-doesnt-sound-like-its-ever-going-to-happen-but-good-ole-overpromising-peter-molyneux-may-have-let-slip-about-a-remaster-of-the-original",
+          "titre": "Black & White 3 doesn't sound like it's ever going to happen, but good ole overpromising Peter Molyneux may have let slip about a remaster of the original"
+        }
+      ]
+    },
+    {
+      "id": "qualcomm-wins-2-legal-decision-against-fellow-tech-giant-arm",
+      "titre": "Qualcomm wins $2 legal decision against fellow tech giant Arm, and that's not a typo",
+      "url": "https://www.pcgamer.com/gaming-industry/qualcomm-wins-usd2-legal-decision-against-fellow-tech-giant-arm-and-thats-not-a-typo/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/qualcomm-wins-usd2-legal-decision-against-fellow-tech-giant-arm-and-thats-not-a-typo/",
+          "titre": "Qualcomm wins $2 legal decision against fellow tech giant Arm, and that's not a typo"
+        }
+      ]
+    },
+    {
+      "id": "guide-these-35-ps5-and-ps-plus-games-are-coming-out-next-wee",
+      "titre": "Guide: These 35+ PS5 and PS Plus Games Are Coming Out Next Week (19th-25th October)",
+      "url": "https://www.pushsquare.com/guides/these-35plus-ps5-and-ps-plus-games-are-coming-out-next-week-19th-25th-october",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-35plus-ps5-and-ps-plus-games-are-coming-out-next-week-19th-25th-october",
+          "titre": "Guide: These 35+ PS5 and PS Plus Games Are Coming Out Next Week (19th-25th October)"
+        }
+      ]
+    },
+    {
+      "id": "rimworld-meets-moebius-esque-roguelite-colony-sim-trailblaze",
+      "titre": "RimWorld meets Moebius-esque roguelite colony sim Trailblazers: Into The March welcomes you aboard its hulking landships with a chonky-sounding demo",
+      "url": "https://www.rockpapershotgun.com/rimworld-meets-moebius-esque-roguelite-colony-sim-trailblazers-into-the-march-welcomes-you-aboard-its-hulking-landships-with-a-chonky-sounding-demo",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/rimworld-meets-moebius-esque-roguelite-colony-sim-trailblazers-into-the-march-welcomes-you-aboard-its-hulking-landships-with-a-chonky-sounding-demo",
+          "titre": "RimWorld meets Moebius-esque roguelite colony sim Trailblazers: Into The March welcomes you aboard its hulking landships with a chonky-sounding demo"
+        }
+      ]
+    },
+    {
+      "id": "feature-going-platinum-stray-is-probably-the-only-game-i-ve",
+      "titre": "Feature: Going Platinum: Stray Is Probably the Only Game I've Speedran for a Trophy",
+      "url": "https://www.pushsquare.com/features/going-platinum-stray-is-probably-the-only-game-ive-speedran-for-a-trophy",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/going-platinum-stray-is-probably-the-only-game-ive-speedran-for-a-trophy",
+          "titre": "Feature: Going Platinum: Stray Is Probably the Only Game I've Speedran for a Trophy"
+        }
+      ]
+    },
+    {
+      "id": "vampire-the-masquerade-bloodlines-remaster-rumoured-with-lea",
+      "titre": "Vampire: The Masquerade - Bloodlines remaster rumoured, with leaker insisting it's not a remake",
+      "url": "https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour",
+          "titre": "Vampire: The Masquerade - Bloodlines remaster rumoured, with leaker insisting it's not a remake"
+        }
+      ]
+    },
+    {
+      "id": "to-help-america-i-used-crusader-kings-3-to-figure-out-how-to",
+      "titre": "To help America, I used Crusader Kings 3 to figure out how to remove a doddering, senile lunatic from power",
+      "url": "https://www.pcgamer.com/games/strategy/to-help-america-i-used-crusader-kings-3-to-figure-out-how-to-remove-a-doddering-senile-lunatic-from-power/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/to-help-america-i-used-crusader-kings-3-to-figure-out-how-to-remove-a-doddering-senile-lunatic-from-power/",
+          "titre": "To help America, I used Crusader Kings 3 to figure out how to remove a doddering, senile lunatic from power"
+        }
+      ]
+    },
+    {
+      "id": "sega-pulls-total-war-shogun-2-complete-edition-from-sale-ami",
+      "titre": "Sega pulls Total War: Shogun 2 - Complete Edition from sale amid AI accusations, admitting it has \"fallen short\"",
+      "url": "https://www.eurogamer.net/total-war-shogun-2-complete-edition-pulled-from-sale",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 3.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/total-war-shogun-2-complete-edition-pulled-from-sale",
+          "titre": "Sega pulls Total War: Shogun 2 - Complete Edition from sale amid AI accusations, admitting it has \"fallen short\""
+        }
+      ]
+    },
+    {
+      "id": "as-too-much-of-the-industry-embrace-their-own-death-through",
+      "titre": "As too much of the industry embrace their own death through genAI, Konami say it's real people that are most important for making good games",
+      "url": "https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 3.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games",
+          "titre": "As too much of the industry embrace their own death through genAI, Konami say it's real people that are most important for making good games"
         }
       ]
     },
@@ -167,7 +329,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -185,85 +347,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/world-of-warcraft/discussion-time-do-you-think-zone-chats-in-mmos-are-forces-for-good-or-evil/",
           "titre": "Discussion time: Do you think zone chats in MMOs are forces for good, or evil?"
-        }
-      ]
-    },
-    {
-      "id": "guide-pok-mon-pokopia-pumpkaboo-s-sweet-surprises-halloween",
-      "titre": "Guide: Pokémon Pokopia Pumpkaboo's Sweet Surprises Halloween Event Guide, From Pumpkin Candy To Gourgeist",
-      "url": "https://www.nintendolife.com/guides/pokemon-pokopia-pumpkaboo-sweet-surprises-halloween-event-guide",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/pokemon-pokopia-pumpkaboo-sweet-surprises-halloween-event-guide",
-          "titre": "Guide: Pokémon Pokopia Pumpkaboo's Sweet Surprises Halloween Event Guide, From Pumpkin Candy To Gourgeist"
-        }
-      ]
-    },
-    {
-      "id": "this-game-about-grinding-mute-lumps-of-shapeless-flesh-has-m",
-      "titre": "This game about grinding mute lumps of shapeless flesh has made me realise I've been hornswoggled by capitalism",
-      "url": "https://www.pcgamer.com/games/horror/this-game-about-grinding-mute-lumps-of-shapeless-flesh-has-made-me-realise-ive-been-hornswoggled-by-capitalism/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/this-game-about-grinding-mute-lumps-of-shapeless-flesh-has-made-me-realise-ive-been-hornswoggled-by-capitalism/",
-          "titre": "This game about grinding mute lumps of shapeless flesh has made me realise I've been hornswoggled by capitalism"
-        }
-      ]
-    },
-    {
-      "id": "oh-dear-half-a-year-after-launching-samson-swedish-developer",
-      "titre": "Oh dear, half a year after launching Samson, Swedish developer Liquid Swords have filed for bankruptcy",
-      "url": "https://www.rockpapershotgun.com/oh-dear-half-a-year-after-launching-samson-swedish-developer-liquid-swords-have-filed-for-bankruptcy",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/oh-dear-half-a-year-after-launching-samson-swedish-developer-liquid-swords-have-filed-for-bankruptcy",
-          "titre": "Oh dear, half a year after launching Samson, Swedish developer Liquid Swords have filed for bankruptcy"
-        }
-      ]
-    },
-    {
-      "id": "ghostwire-tokyo-joins-gog-preservation-program-which-means-y",
-      "titre": "Ghostwire: Tokyo joins GOG Preservation Program, which means you don't have to deal with Bethesda.NET anymore",
-      "url": "https://www.pcgamer.com/games/action/ghostwire-tokyo-joins-gog-preservation-program-which-means-you-dont-have-to-deal-with-bethesda-net-anymore/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/ghostwire-tokyo-joins-gog-preservation-program-which-means-you-dont-have-to-deal-with-bethesda-net-anymore/",
-          "titre": "Ghostwire: Tokyo joins GOG Preservation Program, which means you don't have to deal with Bethesda.NET anymore"
         }
       ]
     },
@@ -275,7 +365,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 7.5,
       "chaleur": 6,
       "liens": [
         {
@@ -286,20 +376,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "cult-of-the-lamb-summons-a-switch-2-version-free-upgrade-pat",
-      "titre": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed",
-      "url": "https://www.nintendolife.com/news/2026/10/cult-of-the-lamb-summons-a-switch-2-version-free-upgrade-path-confirmed",
+      "id": "call-of-duty-on-switch-2-has-two-different-upscaling-options",
+      "titre": "Call Of Duty On Switch 2 Has Two Different Upscaling Options",
+      "url": "https://www.nintendolife.com/news/2026/10/call-of-duty-on-switch-2-has-two-different-upscaling-options",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 8.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/cult-of-the-lamb-summons-a-switch-2-version-free-upgrade-path-confirmed",
-          "titre": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed"
+          "url": "https://www.nintendolife.com/news/2026/10/call-of-duty-on-switch-2-has-two-different-upscaling-options",
+          "titre": "Call Of Duty On Switch 2 Has Two Different Upscaling Options"
         }
       ]
     },
@@ -311,7 +401,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 20.5,
       "chaleur": 6,
       "liens": [
         {
@@ -330,7 +420,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 19.0,
+      "heures": 22.5,
       "chaleur": 6,
       "liens": [
         {
@@ -354,7 +444,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 21.3,
+      "heures": 24.8,
       "chaleur": 6,
       "liens": [
         {
@@ -370,24 +460,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "linux-kernel-drops-ai-contribution-disclosure-rule-as-linus",
-      "titre": "Linux kernel drops AI-contribution disclosure rule, as Linus Torvalds says banning the tech would be 'utterly stupid'",
-      "url": "https://www.pcgamer.com/software/linux/linux-kernel-drops-ai-contribution-disclosure-rule-as-linus-torvalds-says-banning-the-tech-would-be-utterly-stupid/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 25.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/linux/linux-kernel-drops-ai-contribution-disclosure-rule-as-linus-torvalds-says-banning-the-tech-would-be-utterly-stupid/",
-          "titre": "Linux kernel drops AI-contribution disclosure rule, as Linus Torvalds says banning the tech would be 'utterly stupid'"
-        }
-      ]
-    },
-    {
       "id": "sony-s-multi-million-dollar-gta-6-ps5-marketing-strategy-is",
       "titre": "Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working",
       "url": "https://www.pushsquare.com/news/2026/10/sonys-multi-million-dollar-gta-6-ps5-marketing-strategy-is-already-working",
@@ -395,7 +467,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.5,
+      "heures": 31.0,
       "chaleur": 6,
       "liens": [
         {
@@ -413,7 +485,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 30.0,
+      "heures": 33.5,
       "chaleur": 6,
       "liens": [
         {
@@ -431,13 +503,31 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 31.6,
+      "heures": 35.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/fishlabs-announces-layoffs-due-to-changing-project-requirements-development-and-support-teams-affected",
           "titre": "Fishlabs announces layoffs due to \"changing project requirements,\" development and support teams affected"
+        }
+      ]
+    },
+    {
+      "id": "cult-of-the-lamb-summons-a-switch-2-version-free-upgrade-pat",
+      "titre": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed",
+      "url": "https://www.nintendolife.com/news/2026/10/cult-of-the-lamb-summons-a-switch-2-version-free-upgrade-path-confirmed",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/cult-of-the-lamb-summons-a-switch-2-version-free-upgrade-path-confirmed",
+          "titre": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed"
         }
       ]
     },
@@ -449,7 +539,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 16.4,
       "chaleur": 5,
       "liens": [
         {
@@ -467,7 +557,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.8,
+      "heures": 27.2,
       "chaleur": 5,
       "liens": [
         {
@@ -485,7 +575,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.9,
+      "heures": 27.3,
       "chaleur": 5,
       "liens": [
         {
@@ -503,7 +593,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.0,
+      "heures": 29.5,
       "chaleur": 5,
       "liens": [
         {
@@ -521,7 +611,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.0,
+      "heures": 30.5,
       "chaleur": 5,
       "liens": [
         {
@@ -539,7 +629,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 30.7,
       "chaleur": 5,
       "liens": [
         {
@@ -557,7 +647,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 29.1,
+      "heures": 32.5,
       "chaleur": 5,
       "liens": [
         {
@@ -575,7 +665,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 32.8,
       "chaleur": 5,
       "liens": [
         {
@@ -593,7 +683,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 30.7,
+      "heures": 34.1,
       "chaleur": 5,
       "liens": [
         {
@@ -611,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.5,
+      "heures": 35.0,
       "chaleur": 5,
       "liens": [
         {
@@ -629,13 +719,85 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 32.3,
+      "heures": 35.7,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-ad-give-us-our-first-look-at-dark-link",
           "titre": "Zelda: Ocarina Of Time Ad Give Us Our First Look At Dark Link"
+        }
+      ]
+    },
+    {
+      "id": "guide-pok-mon-pokopia-pumpkaboo-s-sweet-surprises-halloween",
+      "titre": "Guide: Pokémon Pokopia Pumpkaboo's Sweet Surprises Halloween Event Guide, From Pumpkin Candy To Gourgeist",
+      "url": "https://www.nintendolife.com/guides/pokemon-pokopia-pumpkaboo-sweet-surprises-halloween-event-guide",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/guides/pokemon-pokopia-pumpkaboo-sweet-surprises-halloween-event-guide",
+          "titre": "Guide: Pokémon Pokopia Pumpkaboo's Sweet Surprises Halloween Event Guide, From Pumpkin Candy To Gourgeist"
+        }
+      ]
+    },
+    {
+      "id": "this-game-about-grinding-mute-lumps-of-shapeless-flesh-has-m",
+      "titre": "This game about grinding mute lumps of shapeless flesh has made me realise I've been hornswoggled by capitalism",
+      "url": "https://www.pcgamer.com/games/horror/this-game-about-grinding-mute-lumps-of-shapeless-flesh-has-made-me-realise-ive-been-hornswoggled-by-capitalism/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/this-game-about-grinding-mute-lumps-of-shapeless-flesh-has-made-me-realise-ive-been-hornswoggled-by-capitalism/",
+          "titre": "This game about grinding mute lumps of shapeless flesh has made me realise I've been hornswoggled by capitalism"
+        }
+      ]
+    },
+    {
+      "id": "oh-dear-half-a-year-after-launching-samson-swedish-developer",
+      "titre": "Oh dear, half a year after launching Samson, Swedish developer Liquid Swords have filed for bankruptcy",
+      "url": "https://www.rockpapershotgun.com/oh-dear-half-a-year-after-launching-samson-swedish-developer-liquid-swords-have-filed-for-bankruptcy",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/oh-dear-half-a-year-after-launching-samson-swedish-developer-liquid-swords-have-filed-for-bankruptcy",
+          "titre": "Oh dear, half a year after launching Samson, Swedish developer Liquid Swords have filed for bankruptcy"
+        }
+      ]
+    },
+    {
+      "id": "ghostwire-tokyo-joins-gog-preservation-program-which-means-y",
+      "titre": "Ghostwire: Tokyo joins GOG Preservation Program, which means you don't have to deal with Bethesda.NET anymore",
+      "url": "https://www.pcgamer.com/games/action/ghostwire-tokyo-joins-gog-preservation-program-which-means-you-dont-have-to-deal-with-bethesda-net-anymore/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/ghostwire-tokyo-joins-gog-preservation-program-which-means-you-dont-have-to-deal-with-bethesda-net-anymore/",
+          "titre": "Ghostwire: Tokyo joins GOG Preservation Program, which means you don't have to deal with Bethesda.NET anymore"
         }
       ]
     },
@@ -647,7 +809,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -665,7 +827,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -683,7 +845,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -701,8 +863,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -719,8 +881,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 14.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -737,7 +899,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 20.0,
       "chaleur": 3,
       "liens": [
         {
@@ -755,7 +917,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.2,
+      "heures": 20.6,
       "chaleur": 3,
       "liens": [
         {
@@ -773,7 +935,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.9,
+      "heures": 24.4,
       "chaleur": 3,
       "liens": [
         {
@@ -791,7 +953,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 26.8,
       "chaleur": 3,
       "liens": [
         {
@@ -809,7 +971,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.9,
+      "heures": 27.4,
       "chaleur": 3,
       "liens": [
         {
@@ -827,31 +989,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.2,
+      "heures": 27.7,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/we-have-reached-a-new-threshold-in-genai-gloom-with-a-game-dev-cancelling-a-demo-for-fear-of-copycats-ripping-them-off-before-release",
           "titre": "We have reached a new threshold in genAI gloom, with a game dev cancelling a demo for fear of copycats ripping them off before release"
-        }
-      ]
-    },
-    {
-      "id": "asus-not-only-replaced-an-rtx-4080-super-with-an-rtx-5080-bu",
-      "titre": "Asus not only replaced an RTX 4080 Super with an RTX 5080 but also swapped it *again* just to give this lucky Redditor one that matches their all-white build",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/asus-not-only-replaced-an-rtx-4080-super-with-an-rtx-5080-but-also-swapped-it-again-just-to-give-this-lucky-redditor-one-that-matches-their-all-white-build/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 24.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/asus-not-only-replaced-an-rtx-4080-super-with-an-rtx-5080-but-also-swapped-it-again-just-to-give-this-lucky-redditor-one-that-matches-their-all-white-build/",
-          "titre": "Asus not only replaced an RTX 4080 Super with an RTX 5080 but also swapped it *again* just to give this lucky Redditor one that matches their all-white build"
         }
       ]
     },
@@ -863,7 +1007,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 28.7,
       "chaleur": 3,
       "liens": [
         {
@@ -881,7 +1025,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 29.0,
       "chaleur": 3,
       "liens": [
         {
@@ -899,7 +1043,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 25.7,
+      "heures": 29.2,
       "chaleur": 3,
       "liens": [
         {
@@ -917,7 +1061,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.8,
+      "heures": 29.2,
       "chaleur": 3,
       "liens": [
         {
@@ -935,7 +1079,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.0,
+      "heures": 29.4,
       "chaleur": 3,
       "liens": [
         {
@@ -953,7 +1097,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.4,
+      "heures": 29.8,
       "chaleur": 3,
       "liens": [
         {
@@ -971,7 +1115,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.5,
+      "heures": 30.0,
       "chaleur": 3,
       "liens": [
         {
@@ -989,7 +1133,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 26.5,
+      "heures": 30.0,
       "chaleur": 3,
       "liens": [
         {
@@ -998,153 +1142,7 @@ const VEILLE = {
           "titre": "How Star Wars: Galactic Racer kept the core team small and sustainable through \"distributed development\""
         }
       ]
-    },
-    {
-      "id": "wardogs-devs-rush-to-fix-xp-exploit-allowing-players-to-quic",
-      "titre": "Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day",
-      "url": "https://www.eurogamer.net/wardogs-driver-xp-exploit-season-2-tanks",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 27.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/wardogs-driver-xp-exploit-season-2-tanks",
-          "titre": "Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day"
-        }
-      ]
-    },
-    {
-      "id": "game-first-then-movie-ed-boon-responds-to-street-fighter-vs",
-      "titre": "'Game First, Then Movie': Ed Boon Responds to Street Fighter vs Mortal Kombat Crossover Pitch",
-      "url": "https://www.pushsquare.com/news/2026/10/game-first-then-movie-ed-boon-responds-to-street-fighter-vs-mortal-kombat-crossover-pitch",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 28.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/game-first-then-movie-ed-boon-responds-to-street-fighter-vs-mortal-kombat-crossover-pitch",
-          "titre": "'Game First, Then Movie': Ed Boon Responds to Street Fighter vs Mortal Kombat Crossover Pitch"
-        }
-      ]
-    },
-    {
-      "id": "gamescom-asia-x-thailand-game-show-2026-announces-four-addit",
-      "titre": "Gamescom Asia x Thailand Game Show 2026 announces four additional pavilions from Indonesia, Japan, Malaysia, and the US",
-      "url": "https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-2026-announces-four-additional-pavilions-from-indonesia-japan-malaysia-and-the-us",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 28.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-2026-announces-four-additional-pavilions-from-indonesia-japan-malaysia-and-the-us",
-          "titre": "Gamescom Asia x Thailand Game Show 2026 announces four additional pavilions from Indonesia, Japan, Malaysia, and the US"
-        }
-      ]
-    },
-    {
-      "id": "video-i-built-the-ps1-lego-set-and-nearly-lost-my-mind",
-      "titre": "Video: I Built the PS1 LEGO Set, and Nearly Lost My Mind",
-      "url": "https://www.pushsquare.com/features/video-i-built-the-ps1-lego-set-and-nearly-lost-my-mind",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 28.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/video-i-built-the-ps1-lego-set-and-nearly-lost-my-mind",
-          "titre": "Video: I Built the PS1 LEGO Set, and Nearly Lost My Mind"
-        }
-      ]
-    },
-    {
-      "id": "former-overwatch-director-jeff-kaplan-says-he-hasn-t-played",
-      "titre": "Former Overwatch director Jeff Kaplan says he hasn’t played or searched for it since leaving Blizzard five years ago",
-      "url": "https://www.videogameschronicle.com/news/former-overwatch-director-jeff-kaplan-says-he-hasnt-played-or-searched-for-it-since-leaving-blizzard-five-years-ago/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 29.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/former-overwatch-director-jeff-kaplan-says-he-hasnt-played-or-searched-for-it-since-leaving-blizzard-five-years-ago/",
-          "titre": "Former Overwatch director Jeff Kaplan says he hasn’t played or searched for it since leaving Blizzard five years ago"
-        }
-      ]
-    },
-    {
-      "id": "stuntman-hollywood-looks-like-a-blast-in-new-knight-rider-ga",
-      "titre": "Stuntman: Hollywood Looks Like a Blast in New Knight Rider Gameplay Trailer",
-      "url": "https://www.pushsquare.com/news/2026/10/stuntman-hollywood-looks-like-a-blast-in-new-knight-rider-gameplay-trailer",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 29.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/stuntman-hollywood-looks-like-a-blast-in-new-knight-rider-gameplay-trailer",
-          "titre": "Stuntman: Hollywood Looks Like a Blast in New Knight Rider Gameplay Trailer"
-        }
-      ]
-    },
-    {
-      "id": "cd-projekt-red-says-its-mysterious-hadar-game-is-its-biggest",
-      "titre": "CD Projekt Red says its mysterious Hadar game is its \"biggest project to date\", but even after \"several good years\" it's seemingly a long way off",
-      "url": "https://www.eurogamer.net/cd-projekt-red-project-hadar-sirius-witcher",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 29.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/cd-projekt-red-project-hadar-sirius-witcher",
-          "titre": "CD Projekt Red says its mysterious Hadar game is its \"biggest project to date\", but even after \"several good years\" it's seemingly a long way off"
-        }
-      ]
-    },
-    {
-      "id": "control-resonant-becomes-the-fastest-selling-game-in-remedy",
-      "titre": "Control Resonant becomes the fastest-selling game in Remedy's history, outpacing Alan Wake 2 and the original Control",
-      "url": "https://www.eurogamer.net/control-resonant-sales-remedy-entertainment",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 30.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/control-resonant-sales-remedy-entertainment",
-          "titre": "Control Resonant becomes the fastest-selling game in Remedy's history, outpacing Alan Wake 2 and the original Control"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny"
-  ]
+  "alertes": []
 };
