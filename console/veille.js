@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "16/10/2026 à 20h58",
+  "collecte": "17/10/2026 à 00h20",
   "seuil": 14,
   "sujets": [
     {
@@ -12,8 +12,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 8.9,
-      "chaleur": 12,
+      "heures": 12.3,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -28,6 +28,48 @@ const VEILLE = {
       ]
     },
     {
+      "id": "ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-m",
+      "titre": "PS5 JRPG Atelier Karia Adding GTA San Andreas-Style Weight Mechanic After Overwhelming Fan Vote",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-mechanic-after-overwhelming-fan-vote",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-mechanic-after-overwhelming-fan-vote",
+          "titre": "PS5 JRPG Atelier Karia Adding GTA San Andreas-Style Weight Mechanic After Overwhelming Fan Vote"
+        }
+      ]
+    },
+    {
+      "id": "the-cyberpunk-2077-movie-won-t-be-a-film-adaptation-of-the-g",
+      "titre": "The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says",
+      "url": "https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 2.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/",
+          "titre": "The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/cyberpunk-2077-movie-wont-be-a-one-to-one-translation-of-the-games-story-cd-projekt-red-boss-confirms-and-boy-do-i-think-thats-the-right-move",
+          "titre": "Cyberpunk 2077 movie \"won't be a one-to-one translation of the game's story\", CD Projekt Red boss confirms, and boy do I think that's the right move"
+        }
+      ]
+    },
+    {
       "id": "impressions-call-of-duty-modern-warfare-4-campaign-switch-2",
       "titre": "Impressions: Call Of Duty: Modern Warfare 4 Campaign - Switch 2 Does Its Best With One Hell Of A 'Popcorn Game'",
       "url": "https://www.nintendolife.com/previews/impressions-call-of-duty-modern-warfare-4-campaign-switch-2-does-its-best-with-one-hell-of-a-popcorn-game",
@@ -36,8 +78,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 4.0,
-      "chaleur": 11,
+      "heures": 7.3,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -52,54 +94,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "podcast-zelda-ocarina-of-time-remake-impressions-a-chat-with",
-      "titre": "Podcast: Zelda: Ocarina of Time remake impressions & a chat with Control Resonant actor",
-      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-zelda-ocarina-of-time-remake-impressions-a-chat-with-control-resonant-actor/",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 9.3,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-zelda-ocarina-of-time-remake-impressions-a-chat-with-control-resonant-actor/",
-          "titre": "Podcast: Zelda: Ocarina of Time remake impressions & a chat with Control Resonant actor"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-switch-2-replica-n64-box-revealed",
-          "titre": "Zelda: Ocarina Of Time Switch 2 \"Replica N64 Box\" Revealed"
-        }
-      ]
-    },
-    {
-      "id": "we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribe",
-      "titre": "'We f**ked up': 1 day into Wardogs Season 2, the Blue team bribery bonus is being dropped",
-      "url": "https://www.pcgamer.com/games/fps/we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribery-bonus-is-being-dropped/",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 1.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribery-bonus-is-being-dropped/",
-          "titre": "'We f**ked up': 1 day into Wardogs Season 2, the Blue team bribery bonus is being dropped"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/we-were-wrong-wardogs-devs-end-season-2s-team-specific-cash-and-xp-bonus-experiment-after-a-single-tumultuous-day",
-          "titre": "\"We were wrong\": Wardogs devs end Season 2's team-specific cash and XP bonus experiment after a single, tumultuous day"
-        }
-      ]
-    },
-    {
       "id": "modern-warfare-4-release-times-and-early-access-explained",
       "titre": "Modern Warfare 4 release times and early access explained",
       "url": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-release-date-launch-times-early-access/",
@@ -108,7 +102,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 8.2,
+      "heures": 11.6,
       "chaleur": 9,
       "liens": [
         {
@@ -124,26 +118,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "steam-is-introducing-achievement-sets-designed-to-improve-th",
-      "titre": "Steam is introducing Achievement Sets, designed to improve the achievement earning experience",
-      "url": "https://www.videogameschronicle.com/news/steam-is-introducing-achievement-sets-designed-to-improve-the-achievement-earning-experience/",
+      "id": "podcast-zelda-ocarina-of-time-remake-impressions-a-chat-with",
+      "titre": "Podcast: Zelda: Ocarina of Time remake impressions & a chat with Control Resonant actor",
+      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-zelda-ocarina-of-time-remake-impressions-a-chat-with-control-resonant-actor/",
       "sources": [
-        "Rock Paper Shotgun",
+        "Nintendo Life",
         "VGC"
       ],
       "reprises": 2,
-      "heures": 10.3,
+      "heures": 12.6,
       "chaleur": 9,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/steam-is-introducing-achievement-sets-designed-to-improve-the-achievement-earning-experience/",
-          "titre": "Steam is introducing Achievement Sets, designed to improve the achievement earning experience"
+          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-zelda-ocarina-of-time-remake-impressions-a-chat-with-control-resonant-actor/",
+          "titre": "Podcast: Zelda: Ocarina of Time remake impressions & a chat with Control Resonant actor"
         },
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valve-roll-out-steam-achievement-sets-in-beta-splitting-up-games-perpetually-growing-trophy-masses-into-dlc-and-season-buckets",
-          "titre": "Valve roll out Steam Achievement Sets in beta, splitting up games’ perpetually growing trophy masses into DLC and season buckets"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-switch-2-replica-n64-box-revealed",
+          "titre": "Zelda: Ocarina Of Time Switch 2 \"Replica N64 Box\" Revealed"
         }
       ]
     },
@@ -156,7 +150,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 12.1,
+      "heures": 15.5,
       "chaleur": 9,
       "liens": [
         {
@@ -180,7 +174,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 29.2,
+      "heures": 32.6,
       "chaleur": 9,
       "liens": [
         {
@@ -196,38 +190,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-shrek-2-video-game-is-getting-a-remaster-leaks-via-xbox",
-      "titre": "The Shrek 2 Video Game Is Getting a Remaster, Leaks via Xbox Store",
-      "url": "https://www.pushsquare.com/news/2026/10/the-shrek-2-video-game-is-getting-a-remaster-leaks-via-xbox-store",
+      "id": "steam-is-introducing-achievement-sets-designed-to-improve-th",
+      "titre": "Steam is introducing Achievement Sets, designed to improve the achievement earning experience",
+      "url": "https://www.videogameschronicle.com/news/steam-is-introducing-achievement-sets-designed-to-improve-the-achievement-earning-experience/",
       "sources": [
-        "Push Square"
+        "Rock Paper Shotgun",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 3.7,
+      "reprises": 2,
+      "heures": 13.6,
       "chaleur": 8,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/the-shrek-2-video-game-is-getting-a-remaster-leaks-via-xbox-store",
-          "titre": "The Shrek 2 Video Game Is Getting a Remaster, Leaks via Xbox Store"
-        }
-      ]
-    },
-    {
-      "id": "analogue-is-reviving-its-mega-sg-and-super-nt-consoles-and-t",
-      "titre": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements",
-      "url": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 8,
-      "liens": [
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/steam-is-introducing-achievement-sets-designed-to-improve-the-achievement-earning-experience/",
+          "titre": "Steam is introducing Achievement Sets, designed to improve the achievement earning experience"
+        },
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
-          "titre": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/valve-roll-out-steam-achievement-sets-in-beta-splitting-up-games-perpetually-growing-trophy-masses-into-dlc-and-season-buckets",
+          "titre": "Valve roll out Steam Achievement Sets in beta, splitting up games’ perpetually growing trophy masses into DLC and season buckets"
         }
       ]
     },
@@ -239,13 +221,37 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.8,
+      "heures": 32.2,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta-6-the-game-awards-eligibility-geoff-keighley",
           "titre": "GTA 6 squeaks into eligibility for The Game Awards 2026 by the smallest of margins - but can it break Clair Obscur: Expedition 33's record number of wins?"
+        }
+      ]
+    },
+    {
+      "id": "we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribe",
+      "titre": "'We f**ked up': 1 day into Wardogs Season 2, the Blue team bribery bonus is being dropped",
+      "url": "https://www.pcgamer.com/games/fps/we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribery-bonus-is-being-dropped/",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 4.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribery-bonus-is-being-dropped/",
+          "titre": "'We f**ked up': 1 day into Wardogs Season 2, the Blue team bribery bonus is being dropped"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/we-were-wrong-wardogs-devs-end-season-2s-team-specific-cash-and-xp-bonus-experiment-after-a-single-tumultuous-day",
+          "titre": "\"We were wrong\": Wardogs devs end Season 2's team-specific cash and XP bonus experiment after a single, tumultuous day"
         }
       ]
     },
@@ -257,7 +263,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 8.5,
       "chaleur": 7,
       "liens": [
         {
@@ -275,7 +281,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 10.8,
       "chaleur": 7,
       "liens": [
         {
@@ -286,116 +292,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-cars-appear-in-real-life-as-part-of-insane-miami-marke",
-      "titre": "GTA 6 Cars Appear in Real Life as Part of Insane Miami Marketing Push",
-      "url": "https://www.pushsquare.com/news/2026/10/gta-6-cars-appear-in-real-life-as-part-of-insane-miami-marketing-push",
+      "id": "tech-founder-criticized-for-vibe-coding-game-about-shooting",
+      "titre": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood",
+      "url": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
+          "titre": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood"
+        }
+      ]
+    },
+    {
+      "id": "talking-point-what-are-you-playing-this-weekend-issue-654",
+      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 654",
+      "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-654",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 7,
+      "heures": 1.3,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/gta-6-cars-appear-in-real-life-as-part-of-insane-miami-marketing-push",
-          "titre": "GTA 6 Cars Appear in Real Life as Part of Insane Miami Marketing Push"
+          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-654",
+          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 654"
         }
       ]
     },
     {
-      "id": "fishlabs-announces-layoffs-due-to-changing-project-requireme",
-      "titre": "Fishlabs announces layoffs due to \"changing project requirements,\" development and support teams affected",
-      "url": "https://www.gamesindustry.biz/fishlabs-announces-layoffs-due-to-changing-project-requirements-development-and-support-teams-affected",
+      "id": "the-shrek-2-video-game-is-getting-a-remaster-leaks-via-xbox",
+      "titre": "The Shrek 2 Video Game Is Getting a Remaster, Leaks via Xbox Store",
+      "url": "https://www.pushsquare.com/news/2026/10/the-shrek-2-video-game-is-getting-a-remaster-leaks-via-xbox-store",
       "sources": [
-        "GamesIndustry.biz"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 7,
+      "heures": 7.1,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/fishlabs-announces-layoffs-due-to-changing-project-requirements-development-and-support-teams-affected",
-          "titre": "Fishlabs announces layoffs due to \"changing project requirements,\" development and support teams affected"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/the-shrek-2-video-game-is-getting-a-remaster-leaks-via-xbox-store",
+          "titre": "The Shrek 2 Video Game Is Getting a Remaster, Leaks via Xbox Store"
         }
       ]
     },
     {
-      "id": "jagex-cancels-runescape-reignited-less-than-two-weeks-after",
-      "titre": "Jagex cancels RuneScape Reignited less than two weeks after it was announced, due to \"a ton\" of player feedback",
-      "url": "https://www.eurogamer.net/runescape-reignited-cancelled-two-weeks-player-feedback",
+      "id": "analogue-is-reviving-its-mega-sg-and-super-nt-consoles-and-t",
+      "titre": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements",
+      "url": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
       "sources": [
-        "Eurogamer",
-        "PC Gamer"
+        "Eurogamer"
       ],
-      "reprises": 2,
-      "heures": 11.9,
-      "chaleur": 7,
+      "reprises": 1,
+      "heures": 7.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/runescape-reignited-cancelled-two-weeks-player-feedback",
-          "titre": "Jagex cancels RuneScape Reignited less than two weeks after it was announced, due to \"a ton\" of player feedback"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/less-than-2-weeks-after-announcing-runescape-reignited-jagex-is-scrapping-the-whole-thing/",
-          "titre": "Less than 2 weeks after announcing RuneScape Reignited, Jagex is scrapping the whole thing"
-        }
-      ]
-    },
-    {
-      "id": "i-haven-t-wanted-to-100-a-game-in-a-long-time-but",
-      "titre": "I haven't wanted to 100% a game in a long time, but…",
-      "url": "https://www.pcgamer.com/games/sim/i-havent-wanted-to-100-percent-a-game-in-a-long-time-but/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/i-havent-wanted-to-100-percent-a-game-in-a-long-time-but/",
-          "titre": "I haven't wanted to 100% a game in a long time, but…"
-        }
-      ]
-    },
-    {
-      "id": "nonolith-traps-you-in-a-living-maze-and-challenges-you-to-fi",
-      "titre": "Nonolith traps you in a living maze and challenges you to find hidden terrain magic using good old copy-paste",
-      "url": "https://www.rockpapershotgun.com/nonolith-traps-you-in-a-living-maze-and-challenges-you-to-find-hidden-terrain-magic-using-good-old-copy-paste",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nonolith-traps-you-in-a-living-maze-and-challenges-you-to-find-hidden-terrain-magic-using-good-old-copy-paste",
-          "titre": "Nonolith traps you in a living maze and challenges you to find hidden terrain magic using good old copy-paste"
-        }
-      ]
-    },
-    {
-      "id": "my-career-as-a-weed-farmer-was-derailed-by-my-unslakeable-lu",
-      "titre": "My career as a weed farmer was derailed by my unslakeable lust for golf",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/my-career-as-a-weed-farmer-was-derailed-by-my-unslakeable-lust-for-golf/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/my-career-as-a-weed-farmer-was-derailed-by-my-unslakeable-lust-for-golf/",
-          "titre": "My career as a weed farmer was derailed by my unslakeable lust for golf"
+          "url": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
+          "titre": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements"
         }
       ]
     },
@@ -407,7 +371,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 8.1,
       "chaleur": 6,
       "liens": [
         {
@@ -425,7 +389,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 9.3,
       "chaleur": 6,
       "liens": [
         {
@@ -443,7 +407,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 10.3,
       "chaleur": 6,
       "liens": [
         {
@@ -461,7 +425,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 10.6,
       "chaleur": 6,
       "liens": [
         {
@@ -472,56 +436,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ken-kutaragi-understands-why-playstation-fans-don-t-want-to",
-      "titre": "Ken Kutaragi ‘understands’ why PlayStation fans don’t want to give up physical games",
-      "url": "https://www.videogameschronicle.com/news/ken-kutaragi-understands-why-playstation-fans-dont-want-to-give-up-physical-games/",
+      "id": "gta-6-cars-appear-in-real-life-as-part-of-insane-miami-marke",
+      "titre": "GTA 6 Cars Appear in Real Life as Part of Insane Miami Marketing Push",
+      "url": "https://www.pushsquare.com/news/2026/10/gta-6-cars-appear-in-real-life-as-part-of-insane-miami-marketing-push",
       "sources": [
-        "VGC"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 13.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/ken-kutaragi-understands-why-playstation-fans-dont-want-to-give-up-physical-games/",
-          "titre": "Ken Kutaragi ‘understands’ why PlayStation fans don’t want to give up physical games"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/gta-6-cars-appear-in-real-life-as-part-of-insane-miami-marketing-push",
+          "titre": "GTA 6 Cars Appear in Real Life as Part of Insane Miami Marketing Push"
         }
       ]
     },
     {
-      "id": "former-valve-writer-baffled-by-epic-ceo-tim-sweeney-s-attemp",
-      "titre": "Former Valve writer baffled by Epic CEO Tim Sweeney's attempts to compete with Steam via vibe coding",
-      "url": "https://www.pcgamer.com/software/platforms/little-tim-is-so-obsessed-with-gabe-former-valve-writer-baffled-by-epic-ceo-tim-sweeneys-attempts-to-compete-with-steam-via-vibe-coding/",
+      "id": "fishlabs-announces-layoffs-due-to-changing-project-requireme",
+      "titre": "Fishlabs announces layoffs due to \"changing project requirements,\" development and support teams affected",
+      "url": "https://www.gamesindustry.biz/fishlabs-announces-layoffs-due-to-changing-project-requirements-development-and-support-teams-affected",
       "sources": [
-        "PC Gamer"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 10.1,
+      "heures": 14.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/platforms/little-tim-is-so-obsessed-with-gabe-former-valve-writer-baffled-by-epic-ceo-tim-sweeneys-attempts-to-compete-with-steam-via-vibe-coding/",
-          "titre": "Former Valve writer baffled by Epic CEO Tim Sweeney's attempts to compete with Steam via vibe coding"
-        }
-      ]
-    },
-    {
-      "id": "peak-the-beloved-indie-climber-scales-october-s-stacked-swi",
-      "titre": "'Peak', The Beloved Indie Climber, Scales October's Stacked Switch 2 Release Schedule",
-      "url": "https://www.nintendolife.com/news/2026/10/peak-the-beloved-indie-climber-scales-octobers-stacked-switch-2-release-schedule",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/peak-the-beloved-indie-climber-scales-octobers-stacked-switch-2-release-schedule",
-          "titre": "'Peak', The Beloved Indie Climber, Scales October's Stacked Switch 2 Release Schedule"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/fishlabs-announces-layoffs-due-to-changing-project-requirements-development-and-support-teams-affected",
+          "titre": "Fishlabs announces layoffs due to \"changing project requirements,\" development and support teams affected"
         }
       ]
     },
@@ -534,7 +480,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 12.6,
+      "heures": 16.0,
       "chaleur": 6,
       "liens": [
         {
@@ -557,7 +503,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 21.4,
       "chaleur": 6,
       "liens": [
         {
@@ -575,7 +521,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.1,
+      "heures": 26.5,
       "chaleur": 6,
       "liens": [
         {
@@ -594,7 +540,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 30.5,
+      "heures": 33.8,
       "chaleur": 6,
       "liens": [
         {
@@ -610,6 +556,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "ken-kutaragi-understands-why-playstation-fans-don-t-want-to",
+      "titre": "Ken Kutaragi ‘understands’ why PlayStation fans don’t want to give up physical games",
+      "url": "https://www.videogameschronicle.com/news/ken-kutaragi-understands-why-playstation-fans-dont-want-to-give-up-physical-games/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 12.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/ken-kutaragi-understands-why-playstation-fans-dont-want-to-give-up-physical-games/",
+          "titre": "Ken Kutaragi ‘understands’ why PlayStation fans don’t want to give up physical games"
+        }
+      ]
+    },
+    {
+      "id": "former-valve-writer-baffled-by-epic-ceo-tim-sweeney-s-attemp",
+      "titre": "Former Valve writer baffled by Epic CEO Tim Sweeney's attempts to compete with Steam via vibe coding",
+      "url": "https://www.pcgamer.com/software/platforms/little-tim-is-so-obsessed-with-gabe-former-valve-writer-baffled-by-epic-ceo-tim-sweeneys-attempts-to-compete-with-steam-via-vibe-coding/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 13.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/platforms/little-tim-is-so-obsessed-with-gabe-former-valve-writer-baffled-by-epic-ceo-tim-sweeneys-attempts-to-compete-with-steam-via-vibe-coding/",
+          "titre": "Former Valve writer baffled by Epic CEO Tim Sweeney's attempts to compete with Steam via vibe coding"
+        }
+      ]
+    },
+    {
+      "id": "peak-the-beloved-indie-climber-scales-october-s-stacked-swi",
+      "titre": "'Peak', The Beloved Indie Climber, Scales October's Stacked Switch 2 Release Schedule",
+      "url": "https://www.nintendolife.com/news/2026/10/peak-the-beloved-indie-climber-scales-octobers-stacked-switch-2-release-schedule",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 14.8,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/peak-the-beloved-indie-climber-scales-octobers-stacked-switch-2-release-schedule",
+          "titre": "'Peak', The Beloved Indie Climber, Scales October's Stacked Switch 2 Release Schedule"
+        }
+      ]
+    },
+    {
       "id": "zelda-ocarina-of-time-ad-give-us-our-first-look-at-dark-link",
       "titre": "Zelda: Ocarina Of Time Ad Give Us Our First Look At Dark Link",
       "url": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-ad-give-us-our-first-look-at-dark-link",
@@ -617,7 +617,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 15.6,
       "chaleur": 5,
       "liens": [
         {
@@ -635,7 +635,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.1,
+      "heures": 22.4,
       "chaleur": 5,
       "liens": [
         {
@@ -653,31 +653,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.6,
+      "heures": 23.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/zelda-tears-of-the-kingdom-exclusive-edition-statue-officially-revealed-heres-a-look",
           "titre": "Zelda: Tears Of The Kingdom \"Exclusive Edition\" Statue Officially Revealed, Here's A Look"
-        }
-      ]
-    },
-    {
-      "id": "steam-achievements-are-getting-a-huge-overhaul-with-separate",
-      "titre": "Steam achievements are getting a huge overhaul, with separate sets for DLC and season passes, and an easy way to compare with friends",
-      "url": "https://www.pcgamer.com/software/platforms/steam-achievements-are-getting-a-huge-overhaul-with-separate-sets-for-dlc-and-season-passes-and-an-easy-way-to-compare-with-friends/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.0,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/platforms/steam-achievements-are-getting-a-huge-overhaul-with-separate-sets-for-dlc-and-season-passes-and-an-easy-way-to-compare-with-friends/",
-          "titre": "Steam achievements are getting a huge overhaul, with separate sets for DLC and season passes, and an easy way to compare with friends"
         }
       ]
     },
@@ -689,7 +671,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.5,
+      "heures": 31.8,
       "chaleur": 5,
       "liens": [
         {
@@ -700,56 +682,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "house-house-will-not-release-big-walk-on-xbox-in-support-of",
-      "titre": "House House will not release Big Walk on Xbox in support of pro-Palestinian BDS campaign",
-      "url": "https://www.gamesindustry.biz/house-house-will-not-release-big-walk-on-xbox-in-support-of-pro-palestinian-bds-campaign",
+      "id": "i-haven-t-wanted-to-100-a-game-in-a-long-time-but",
+      "titre": "I haven't wanted to 100% a game in a long time, but…",
+      "url": "https://www.pcgamer.com/games/sim/i-havent-wanted-to-100-percent-a-game-in-a-long-time-but/",
       "sources": [
-        "GamesIndustry.biz"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 33.8,
-      "chaleur": 5,
+      "heures": 4.2,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/house-house-will-not-release-big-walk-on-xbox-in-support-of-pro-palestinian-bds-campaign",
-          "titre": "House House will not release Big Walk on Xbox in support of pro-Palestinian BDS campaign"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/i-havent-wanted-to-100-percent-a-game-in-a-long-time-but/",
+          "titre": "I haven't wanted to 100% a game in a long time, but…"
         }
       ]
     },
     {
-      "id": "epic-games-claims-its-new-vibe-coded-launcher-runs-46-faster",
-      "titre": "Epic Games claims its new \"vibe coded\" launcher runs 46% faster than Steam from cold start to store page",
-      "url": "https://www.gamesindustry.biz/epic-games-claims-its-new-vibe-coded-launcher-runs-46-faster-than-steam-from-cold-start-to-store-page",
+      "id": "nonolith-traps-you-in-a-living-maze-and-challenges-you-to-fi",
+      "titre": "Nonolith traps you in a living maze and challenges you to find hidden terrain magic using good old copy-paste",
+      "url": "https://www.rockpapershotgun.com/nonolith-traps-you-in-a-living-maze-and-challenges-you-to-find-hidden-terrain-magic-using-good-old-copy-paste",
       "sources": [
-        "GamesIndustry.biz"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 35.4,
-      "chaleur": 5,
+      "heures": 6.6,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/epic-games-claims-its-new-vibe-coded-launcher-runs-46-faster-than-steam-from-cold-start-to-store-page",
-          "titre": "Epic Games claims its new \"vibe coded\" launcher runs 46% faster than Steam from cold start to store page"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/nonolith-traps-you-in-a-living-maze-and-challenges-you-to-find-hidden-terrain-magic-using-good-old-copy-paste",
+          "titre": "Nonolith traps you in a living maze and challenges you to find hidden terrain magic using good old copy-paste"
         }
       ]
     },
     {
-      "id": "007-first-light-gets-switch-2-release-date-with-io-interacti",
-      "titre": "007 First Light gets Switch 2 release date, with IO Interactive saying time for \"optimisation and performance\" was needed",
-      "url": "https://www.eurogamer.net/007-first-light-switch-2-release-date-james-bond-game",
+      "id": "my-career-as-a-weed-farmer-was-derailed-by-my-unslakeable-lu",
+      "titre": "My career as a weed farmer was derailed by my unslakeable lust for golf",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/my-career-as-a-weed-farmer-was-derailed-by-my-unslakeable-lust-for-golf/",
       "sources": [
-        "Eurogamer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 35.7,
-      "chaleur": 5,
+      "heures": 7.2,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/007-first-light-switch-2-release-date-james-bond-game",
-          "titre": "007 First Light gets Switch 2 release date, with IO Interactive saying time for \"optimisation and performance\" was needed"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/my-career-as-a-weed-farmer-was-derailed-by-my-unslakeable-lust-for-golf/",
+          "titre": "My career as a weed farmer was derailed by my unslakeable lust for golf"
         }
       ]
     },
@@ -761,7 +743,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
@@ -779,7 +761,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -797,7 +779,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +797,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -833,7 +815,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -851,7 +833,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -869,31 +851,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/a-hardware-market-freeze-could-transform-the-industry-forever-opinion",
           "titre": "A hardware market freeze could transform the industry forever | Opinion"
-        }
-      ]
-    },
-    {
-      "id": "cyberpunk-2077-movie-won-t-be-a-one-to-one-translation-of-th",
-      "titre": "Cyberpunk 2077 movie \"won't be a one-to-one translation of the game's story\", CD Projekt Red boss confirms, and boy do I think that's the right move",
-      "url": "https://www.rockpapershotgun.com/cyberpunk-2077-movie-wont-be-a-one-to-one-translation-of-the-games-story-cd-projekt-red-boss-confirms-and-boy-do-i-think-thats-the-right-move",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 5.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cyberpunk-2077-movie-wont-be-a-one-to-one-translation-of-the-games-story-cd-projekt-red-boss-confirms-and-boy-do-i-think-thats-the-right-move",
-          "titre": "Cyberpunk 2077 movie \"won't be a one-to-one translation of the game's story\", CD Projekt Red boss confirms, and boy do I think that's the right move"
         }
       ]
     },
@@ -905,7 +869,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +887,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +905,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +923,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +941,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +959,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,7 +977,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,7 +995,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1049,7 +1013,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1067,8 +1031,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1085,8 +1049,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1103,8 +1067,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1121,8 +1085,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1139,13 +1103,49 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/rts/semifinals-the-brutal-war-to-determine-the-best-rts-unit-of-all-time-needs-your-votes/",
           "titre": "Semifinals: The brutal war to determine the best RTS unit of all time needs your votes"
+        }
+      ]
+    },
+    {
+      "id": "peter-molyneux-explains-why-black-white-3-remains-mia-and-th",
+      "titre": "Peter Molyneux explains why Black & White 3 remains MIA, and then drops a tantalising teaser: 'It's such a difficult, difficult, challenging title to develop'",
+      "url": "https://www.pcgamer.com/games/strategy/peter-molyneux-explains-why-black-and-white-3-remains-mia-and-then-drops-a-tantalising-teaser-its-such-a-difficult-difficult-challenging-title-to-develop/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 13.8,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/peter-molyneux-explains-why-black-and-white-3-remains-mia-and-then-drops-a-tantalising-teaser-its-such-a-difficult-difficult-challenging-title-to-develop/",
+          "titre": "Peter Molyneux explains why Black & White 3 remains MIA, and then drops a tantalising teaser: 'It's such a difficult, difficult, challenging title to develop'"
+        }
+      ]
+    },
+    {
+      "id": "new-fear-dropped-amazon-scammer-seems-to-have-delidded-an-88",
+      "titre": "New fear dropped: Amazon scammer seems to have delidded an $889 AMD chip, transplanted it on old Intel chip, and got it through return inspection",
+      "url": "https://www.pcgamer.com/hardware/processors/new-fear-dropped-amazon-scammer-seems-to-have-delidded-an-usd889-amd-chip-transplanted-it-on-old-intel-chip-and-got-it-through-return-inspection/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 13.8,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/processors/new-fear-dropped-amazon-scammer-seems-to-have-delidded-an-usd889-amd-chip-transplanted-it-on-old-intel-chip-and-got-it-through-return-inspection/",
+          "titre": "New fear dropped: Amazon scammer seems to have delidded an $889 AMD chip, transplanted it on old Intel chip, and got it through return inspection"
         }
       ]
     }
