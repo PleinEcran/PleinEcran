@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "17/10/2026 à 00h20",
+  "collecte": "17/10/2026 à 06h51",
   "seuil": 14,
   "sujets": [
     {
@@ -12,7 +12,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 12.3,
+      "heures": 18.8,
       "chaleur": 11,
       "liens": [
         {
@@ -28,96 +28,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-m",
-      "titre": "PS5 JRPG Atelier Karia Adding GTA San Andreas-Style Weight Mechanic After Overwhelming Fan Vote",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-mechanic-after-overwhelming-fan-vote",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 0.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-mechanic-after-overwhelming-fan-vote",
-          "titre": "PS5 JRPG Atelier Karia Adding GTA San Andreas-Style Weight Mechanic After Overwhelming Fan Vote"
-        }
-      ]
-    },
-    {
-      "id": "the-cyberpunk-2077-movie-won-t-be-a-film-adaptation-of-the-g",
-      "titre": "The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says",
-      "url": "https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 2.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/",
-          "titre": "The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cyberpunk-2077-movie-wont-be-a-one-to-one-translation-of-the-games-story-cd-projekt-red-boss-confirms-and-boy-do-i-think-thats-the-right-move",
-          "titre": "Cyberpunk 2077 movie \"won't be a one-to-one translation of the game's story\", CD Projekt Red boss confirms, and boy do I think that's the right move"
-        }
-      ]
-    },
-    {
-      "id": "impressions-call-of-duty-modern-warfare-4-campaign-switch-2",
-      "titre": "Impressions: Call Of Duty: Modern Warfare 4 Campaign - Switch 2 Does Its Best With One Hell Of A 'Popcorn Game'",
-      "url": "https://www.nintendolife.com/previews/impressions-call-of-duty-modern-warfare-4-campaign-switch-2-does-its-best-with-one-hell-of-a-popcorn-game",
-      "sources": [
-        "Nintendo Life",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 7.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/previews/impressions-call-of-duty-modern-warfare-4-campaign-switch-2-does-its-best-with-one-hell-of-a-popcorn-game",
-          "titre": "Impressions: Call Of Duty: Modern Warfare 4 Campaign - Switch 2 Does Its Best With One Hell Of A 'Popcorn Game'"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review-in-progress-a-campaign-you-shouldnt-skip/",
-          "titre": "Call of Duty: Modern Warfare 4 review-in-progress: A campaign you shouldn't skip"
-        }
-      ]
-    },
-    {
-      "id": "modern-warfare-4-release-times-and-early-access-explained",
-      "titre": "Modern Warfare 4 release times and early access explained",
-      "url": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-release-date-launch-times-early-access/",
-      "sources": [
-        "Game Developer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 11.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-release-date-launch-times-early-access/",
-          "titre": "Modern Warfare 4 release times and early access explained"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/pc/caves-of-qud-diaspora-breaks-new-ground-by-being-the-first-early-access-dlc-release-on-steam",
-          "titre": "Caves of Qud: Diaspora breaks new ground by being the first early access DLC release on Steam"
-        }
-      ]
-    },
-    {
       "id": "podcast-zelda-ocarina-of-time-remake-impressions-a-chat-with",
       "titre": "Podcast: Zelda: Ocarina of Time remake impressions & a chat with Control Resonant actor",
       "url": "https://www.videogameschronicle.com/blog/podcast/podcast-zelda-ocarina-of-time-remake-impressions-a-chat-with-control-resonant-actor/",
@@ -126,7 +36,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 12.6,
+      "heures": 19.1,
       "chaleur": 9,
       "liens": [
         {
@@ -150,7 +60,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 15.5,
+      "heures": 22.0,
       "chaleur": 9,
       "liens": [
         {
@@ -166,26 +76,62 @@ const VEILLE = {
       ]
     },
     {
-      "id": "no-offense-to-zelda-activision-exec-says-call-of-duty-mw4-a",
-      "titre": "\"No Offense To Zelda\" - Activision Exec Says Call Of Duty: MW4 And GTA 6 Are The Two Biggest Games Of The Year",
-      "url": "https://www.nintendolife.com/news/2026/10/no-offense-to-zelda-activision-exec-says-call-of-duty-mw4-and-gta-6-are-the-two-biggest-games-of-the-year",
+      "id": "the-cosy-coastal-farming-sim-coral-island-is-officially-on-i",
+      "titre": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter",
+      "url": "https://www.nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter",
       "sources": [
-        "Nintendo Life",
-        "VGC"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 32.6,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 2.8,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/no-offense-to-zelda-activision-exec-says-call-of-duty-mw4-and-gta-6-are-the-two-biggest-games-of-the-year",
-          "titre": "\"No Offense To Zelda\" - Activision Exec Says Call Of Duty: MW4 And GTA 6 Are The Two Biggest Games Of The Year"
+          "url": "https://www.nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter",
+          "titre": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter"
+        }
+      ]
+    },
+    {
+      "id": "the-wolf-among-us-remastered-has-been-delayed-for-switch",
+      "titre": "The Wolf Among Us Remastered Has Been Delayed For Switch",
+      "url": "https://www.nintendolife.com/news/2026/10/the-wolf-among-us-remastered-has-been-delayed-for-switch",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/the-wolf-among-us-remastered-has-been-delayed-for-switch",
+          "titre": "The Wolf Among Us Remastered Has Been Delayed For Switch"
+        }
+      ]
+    },
+    {
+      "id": "impressions-call-of-duty-modern-warfare-4-campaign-switch-2",
+      "titre": "Impressions: Call Of Duty: Modern Warfare 4 Campaign - Switch 2 Does Its Best With One Hell Of A 'Popcorn Game'",
+      "url": "https://www.nintendolife.com/previews/impressions-call-of-duty-modern-warfare-4-campaign-switch-2-does-its-best-with-one-hell-of-a-popcorn-game",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 13.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/previews/impressions-call-of-duty-modern-warfare-4-campaign-switch-2-does-its-best-with-one-hell-of-a-popcorn-game",
+          "titre": "Impressions: Call Of Duty: Modern Warfare 4 Campaign - Switch 2 Does Its Best With One Hell Of A 'Popcorn Game'"
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/no-offense-to-zelda-but-gta-6-and-cod-modern-warfare-4-are-the-two-biggest-games-of-the-year-activision-exec-says/",
-          "titre": "‘No offense to Zelda’ but GTA 6 and COD Modern Warfare 4 are ‘the two biggest games of the year’, Activision exec says"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review-in-progress-a-campaign-you-shouldnt-skip/",
+          "titre": "Call of Duty: Modern Warfare 4 review-in-progress: A campaign you shouldn't skip"
         }
       ]
     },
@@ -198,7 +144,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 13.6,
+      "heures": 20.1,
       "chaleur": 8,
       "liens": [
         {
@@ -214,20 +160,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-squeaks-into-eligibility-for-the-game-awards-2026-by-t",
-      "titre": "GTA 6 squeaks into eligibility for The Game Awards 2026 by the smallest of margins - but can it break Clair Obscur: Expedition 33's record number of wins?",
-      "url": "https://www.eurogamer.net/gta-6-the-game-awards-eligibility-geoff-keighley",
+      "id": "ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-m",
+      "titre": "PS5 JRPG Atelier Karia Adding GTA San Andreas-Style Weight Mechanic After Overwhelming Fan Vote",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-mechanic-after-overwhelming-fan-vote",
       "sources": [
-        "Eurogamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 32.2,
-      "chaleur": 8,
+      "heures": 6.9,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-the-game-awards-eligibility-geoff-keighley",
-          "titre": "GTA 6 squeaks into eligibility for The Game Awards 2026 by the smallest of margins - but can it break Clair Obscur: Expedition 33's record number of wins?"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-mechanic-after-overwhelming-fan-vote",
+          "titre": "PS5 JRPG Atelier Karia Adding GTA San Andreas-Style Weight Mechanic After Overwhelming Fan Vote"
+        }
+      ]
+    },
+    {
+      "id": "the-cyberpunk-2077-movie-won-t-be-a-film-adaptation-of-the-g",
+      "titre": "The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says",
+      "url": "https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 8.8,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/",
+          "titre": "The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/cyberpunk-2077-movie-wont-be-a-one-to-one-translation-of-the-games-story-cd-projekt-red-boss-confirms-and-boy-do-i-think-thats-the-right-move",
+          "titre": "Cyberpunk 2077 movie \"won't be a one-to-one translation of the game's story\", CD Projekt Red boss confirms, and boy do I think that's the right move"
         }
       ]
     },
@@ -240,7 +210,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 4.6,
+      "heures": 11.1,
       "chaleur": 7,
       "liens": [
         {
@@ -256,6 +226,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "surprise-aspyr-is-remastering-a-shrek-game",
+      "titre": "Surprise! Aspyr Is Remastering A Shrek Game",
+      "url": "https://www.nintendolife.com/news/2026/10/surprise-aspyr-is-remastering-a-shrek-game",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/surprise-aspyr-is-remastering-a-shrek-game",
+          "titre": "Surprise! Aspyr Is Remastering A Shrek Game"
+        }
+      ]
+    },
+    {
       "id": "linux-kernel-drops-ai-contribution-disclosure-rule-as-linus",
       "titre": "Linux kernel drops AI-contribution disclosure rule, as Linus Torvalds says banning the tech would be 'utterly stupid'",
       "url": "https://www.pcgamer.com/software/linux/linux-kernel-drops-ai-contribution-disclosure-rule-as-linus-torvalds-says-banning-the-tech-would-be-utterly-stupid/",
@@ -263,8 +251,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 7,
+      "heures": 15.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -281,157 +269,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 7,
+      "heures": 17.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/sonys-multi-million-dollar-gta-6-ps5-marketing-strategy-is-already-working",
           "titre": "Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working"
-        }
-      ]
-    },
-    {
-      "id": "tech-founder-criticized-for-vibe-coding-game-about-shooting",
-      "titre": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood",
-      "url": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
-          "titre": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood"
-        }
-      ]
-    },
-    {
-      "id": "talking-point-what-are-you-playing-this-weekend-issue-654",
-      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 654",
-      "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-654",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-654",
-          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 654"
-        }
-      ]
-    },
-    {
-      "id": "the-shrek-2-video-game-is-getting-a-remaster-leaks-via-xbox",
-      "titre": "The Shrek 2 Video Game Is Getting a Remaster, Leaks via Xbox Store",
-      "url": "https://www.pushsquare.com/news/2026/10/the-shrek-2-video-game-is-getting-a-remaster-leaks-via-xbox-store",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 7.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/the-shrek-2-video-game-is-getting-a-remaster-leaks-via-xbox-store",
-          "titre": "The Shrek 2 Video Game Is Getting a Remaster, Leaks via Xbox Store"
-        }
-      ]
-    },
-    {
-      "id": "analogue-is-reviving-its-mega-sg-and-super-nt-consoles-and-t",
-      "titre": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements",
-      "url": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 7.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
-          "titre": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements"
-        }
-      ]
-    },
-    {
-      "id": "zero-parades-the-successor-to-disco-elysium-has-been-confirm",
-      "titre": "Zero Parades, The Successor To Disco Elysium, Has Been Confirmed For Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/zero-parades-the-successor-to-disco-elysium-has-been-confirmed-for-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 8.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/zero-parades-the-successor-to-disco-elysium-has-been-confirmed-for-switch-2",
-          "titre": "Zero Parades, The Successor To Disco Elysium, Has Been Confirmed For Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "review-the-witch-s-bakery-switch-2-a-cosy-narrative-sim-that",
-      "titre": "Review: The Witch's Bakery (Switch 2) – A Cosy Narrative Sim That Rises To The Occasion",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/the-witchs-bakery",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/the-witchs-bakery",
-          "titre": "Review: The Witch's Bakery (Switch 2) – A Cosy Narrative Sim That Rises To The Occasion"
-        }
-      ]
-    },
-    {
-      "id": "sony-has-caused-friction-between-it-and-playstation-fans-ove",
-      "titre": "Sony Has Caused 'Friction' Between It and PlayStation Fans Over Disc Mess, Says PS1, PS2, PS3 Creator",
-      "url": "https://www.pushsquare.com/news/2026/10/sony-has-caused-friction-between-it-and-playstation-fans-over-disc-mess-says-ps1-ps2-ps3-creator",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sony-has-caused-friction-between-it-and-playstation-fans-over-disc-mess-says-ps1-ps2-ps3-creator",
-          "titre": "Sony Has Caused 'Friction' Between It and PlayStation Fans Over Disc Mess, Says PS1, PS2, PS3 Creator"
-        }
-      ]
-    },
-    {
-      "id": "fortnite-is-coming-to-linux-so-we-may-soon-be-able-to-play-i",
-      "titre": "Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine",
-      "url": "https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development",
-          "titre": "Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine"
         }
       ]
     },
@@ -443,7 +287,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 19.9,
       "chaleur": 6,
       "liens": [
         {
@@ -461,37 +305,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 21.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/fishlabs-announces-layoffs-due-to-changing-project-requirements-development-and-support-teams-affected",
           "titre": "Fishlabs announces layoffs due to \"changing project requirements,\" development and support teams affected"
-        }
-      ]
-    },
-    {
-      "id": "sega-and-creative-assembly-remove-total-war-shogun-2-remaste",
-      "titre": "Sega and Creative Assembly remove Total War: Shogun 2 remaster from sale as it \"falls short of both your expectations and our own standards\"",
-      "url": "https://www.gamesindustry.biz/sega-and-creative-assembly-remove-total-war-shogun-2-remaster-from-sale-as-it-falls-short-of-both-your-expectations-and-our-own-standards",
-      "sources": [
-        "GamesIndustry.biz",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 16.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/sega-and-creative-assembly-remove-total-war-shogun-2-remaster-from-sale-as-it-falls-short-of-both-your-expectations-and-our-own-standards",
-          "titre": "Sega and Creative Assembly remove Total War: Shogun 2 remaster from sale as it \"falls short of both your expectations and our own standards\""
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/sega-pulls-total-war-shogun-2-complete-edition-from-stores-over-bugs-and-ai-art/",
-          "titre": "Sega pulls Total War: Shogun 2 – Complete Edition from stores over bugs and AI art"
         }
       ]
     },
@@ -503,7 +323,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 27.9,
       "chaleur": 6,
       "liens": [
         {
@@ -521,7 +341,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.5,
+      "heures": 33.0,
       "chaleur": 6,
       "liens": [
         {
@@ -532,26 +352,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "dayz-creator-dean-hall-releases-open-source-game-development",
-      "titre": "DayZ creator Dean Hall releases open-source game development framework Brutal",
-      "url": "https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source-game-development-framework-brutal",
+      "id": "the-shrek-2-video-game-is-getting-a-remaster-leaks-via-xbox",
+      "titre": "The Shrek 2 Video Game Is Getting a Remaster, Leaks via Xbox Store",
+      "url": "https://www.pushsquare.com/news/2026/10/the-shrek-2-video-game-is-getting-a-remaster-leaks-via-xbox-store",
       "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz"
+        "Push Square"
       ],
-      "reprises": 2,
-      "heures": 33.8,
-      "chaleur": 6,
+      "reprises": 1,
+      "heures": 13.6,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source-game-development-framework-brutal",
-          "titre": "DayZ creator Dean Hall releases open-source game development framework Brutal"
-        },
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/the-shrek-2-video-game-is-getting-a-remaster-leaks-via-xbox-store",
+          "titre": "The Shrek 2 Video Game Is Getting a Remaster, Leaks via Xbox Store"
+        }
+      ]
+    },
+    {
+      "id": "analogue-is-reviving-its-mega-sg-and-super-nt-consoles-and-t",
+      "titre": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements",
+      "url": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 13.7,
+      "chaleur": 5,
+      "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dean-hall-brutal-framework-ksp-epic-unreal-unity",
-          "titre": "DayZ creator Dean Hall says \"our industry is rotting from its core\" because of big-company \"greed\", aiming shots at Epic's Unreal and Unity"
+          "url": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
+          "titre": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements"
+        }
+      ]
+    },
+    {
+      "id": "review-the-witch-s-bakery-switch-2-a-cosy-narrative-sim-that",
+      "titre": "Review: The Witch's Bakery (Switch 2) – A Cosy Narrative Sim That Rises To The Occasion",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/the-witchs-bakery",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 15.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/the-witchs-bakery",
+          "titre": "Review: The Witch's Bakery (Switch 2) – A Cosy Narrative Sim That Rises To The Occasion"
+        }
+      ]
+    },
+    {
+      "id": "sony-has-caused-friction-between-it-and-playstation-fans-ove",
+      "titre": "Sony Has Caused 'Friction' Between It and PlayStation Fans Over Disc Mess, Says PS1, PS2, PS3 Creator",
+      "url": "https://www.pushsquare.com/news/2026/10/sony-has-caused-friction-between-it-and-playstation-fans-over-disc-mess-says-ps1-ps2-ps3-creator",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 16.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sony-has-caused-friction-between-it-and-playstation-fans-over-disc-mess-says-ps1-ps2-ps3-creator",
+          "titre": "Sony Has Caused 'Friction' Between It and PlayStation Fans Over Disc Mess, Says PS1, PS2, PS3 Creator"
+        }
+      ]
+    },
+    {
+      "id": "fortnite-is-coming-to-linux-so-we-may-soon-be-able-to-play-i",
+      "titre": "Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine",
+      "url": "https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 17.1,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development",
+          "titre": "Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine"
         }
       ]
     },
@@ -563,7 +449,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 18.9,
       "chaleur": 5,
       "liens": [
         {
@@ -581,7 +467,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 20.0,
       "chaleur": 5,
       "liens": [
         {
@@ -599,7 +485,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.8,
+      "heures": 21.4,
       "chaleur": 5,
       "liens": [
         {
@@ -617,7 +503,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 22.1,
       "chaleur": 5,
       "liens": [
         {
@@ -635,7 +521,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 28.9,
       "chaleur": 5,
       "liens": [
         {
@@ -653,7 +539,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.9,
+      "heures": 30.4,
       "chaleur": 5,
       "liens": [
         {
@@ -664,20 +550,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "hitman-absolution-finally-sneaks-onto-switch-2-next-week",
-      "titre": "Hitman: Absolution Finally Sneaks Onto Switch 2 Next Week",
-      "url": "https://www.nintendolife.com/news/2026/10/hitman-absolution-finally-sneaks-onto-switch-2-next-week",
+      "id": "reminder-sonic-racing-crossworlds-final-content-drop-of-year",
+      "titre": "Reminder: Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Is Now Available",
+      "url": "https://www.nintendolife.com/news/2026/10/reminder-sonic-racing-crossworlds-final-content-drop-of-year-one-is-now-available",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.8,
-      "chaleur": 5,
+      "heures": 6.4,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/hitman-absolution-finally-sneaks-onto-switch-2-next-week",
-          "titre": "Hitman: Absolution Finally Sneaks Onto Switch 2 Next Week"
+          "url": "https://www.nintendolife.com/news/2026/10/reminder-sonic-racing-crossworlds-final-content-drop-of-year-one-is-now-available",
+          "titre": "Reminder: Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Is Now Available"
+        }
+      ]
+    },
+    {
+      "id": "tech-founder-criticized-for-vibe-coding-game-about-shooting",
+      "titre": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood",
+      "url": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
+          "titre": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood"
+        }
+      ]
+    },
+    {
+      "id": "talking-point-what-are-you-playing-this-weekend-issue-654",
+      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 654",
+      "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-654",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 7.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-654",
+          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 654"
         }
       ]
     },
@@ -689,7 +611,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
@@ -707,8 +629,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -725,8 +647,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.2,
-      "chaleur": 4,
+      "heures": 13.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -743,8 +665,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.5,
-      "chaleur": 4,
+      "heures": 14.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -761,8 +683,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
-      "chaleur": 4,
+      "heures": 14.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -779,8 +701,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.0,
-      "chaleur": 4,
+      "heures": 14.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -797,8 +719,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.6,
-      "chaleur": 4,
+      "heures": 15.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -815,8 +737,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 4,
+      "heures": 15.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -833,8 +755,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.9,
-      "chaleur": 4,
+      "heures": 15.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -851,8 +773,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.0,
-      "chaleur": 4,
+      "heures": 15.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -869,8 +791,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 4,
+      "heures": 15.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -887,8 +809,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 4,
+      "heures": 15.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -905,8 +827,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.7,
-      "chaleur": 4,
+      "heures": 16.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -923,8 +845,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 4,
+      "heures": 16.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -941,8 +863,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 4,
+      "heures": 16.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -959,8 +881,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
+      "heures": 17.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -977,13 +899,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 17.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/game-first-then-movie-ed-boon-responds-to-street-fighter-vs-mortal-kombat-crossover-pitch",
           "titre": "'Game First, Then Movie': Ed Boon Responds to Street Fighter vs Mortal Kombat Crossover Pitch"
+        }
+      ]
+    },
+    {
+      "id": "modern-warfare-4-release-times-and-early-access-explained",
+      "titre": "Modern Warfare 4 release times and early access explained",
+      "url": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-release-date-launch-times-early-access/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 18.1,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-release-date-launch-times-early-access/",
+          "titre": "Modern Warfare 4 release times and early access explained"
         }
       ]
     },
@@ -995,8 +935,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 18.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1013,8 +953,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 18.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1031,7 +971,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 19.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,7 +989,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,7 +1007,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 19.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1085,7 +1025,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 19.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1103,7 +1043,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 20.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1121,7 +1061,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1139,13 +1079,49 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/processors/new-fear-dropped-amazon-scammer-seems-to-have-delidded-an-usd889-amd-chip-transplanted-it-on-old-intel-chip-and-got-it-through-return-inspection/",
           "titre": "New fear dropped: Amazon scammer seems to have delidded an $889 AMD chip, transplanted it on old Intel chip, and got it through return inspection"
+        }
+      ]
+    },
+    {
+      "id": "pok-mon-dev-already-finished-with-beast-of-reincarnation-ps5",
+      "titre": "Pokémon Dev Already Finished with Beast of Reincarnation PS5 Patches",
+      "url": "https://www.pushsquare.com/news/2026/10/pokemon-dev-already-finished-with-beast-of-reincarnation-ps5-patches",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 20.4,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/pokemon-dev-already-finished-with-beast-of-reincarnation-ps5-patches",
+          "titre": "Pokémon Dev Already Finished with Beast of Reincarnation PS5 Patches"
+        }
+      ]
+    },
+    {
+      "id": "game-republic-new-horizons-2026-attendance-grew-78-to-over-4",
+      "titre": "Game Republic New Horizons 2026 attendance grew 78% to over 461 visitors",
+      "url": "https://www.gamesindustry.biz/game-republic-new-horizons-2026-attendance-grew-76-to-over-461-visitors",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 20.7,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/game-republic-new-horizons-2026-attendance-grew-76-to-over-461-visitors",
+          "titre": "Game Republic New Horizons 2026 attendance grew 78% to over 461 visitors"
         }
       ]
     }
