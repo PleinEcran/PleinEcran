@@ -1,8 +1,62 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "17/10/2026 à 06h51",
+  "collecte": "17/10/2026 à 12h08",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "poll-are-you-hyped-for-october-s-9-new-ps-plus-games",
+      "titre": "Poll: Are You Hyped for October's 9 New PS Plus Games?",
+      "url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-octobers-9-new-ps-plus-games",
+      "sources": [
+        "Nintendo Life",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 0.1,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-octobers-9-new-ps-plus-games",
+          "titre": "Poll: Are You Hyped for October's 9 New PS Plus Games?"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-17th-october",
+          "titre": "Talking Point: What Are You Playing This Weekend? (17th October)"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-404",
+          "titre": "What are we all playing this weekend?"
+        }
+      ]
+    },
+    {
+      "id": "call-of-duty-on-switch-2-has-two-different-upscaling-options",
+      "titre": "Call Of Duty On Switch 2 Has Two Different Upscaling Options",
+      "url": "https://www.nintendolife.com/news/2026/10/call-of-duty-on-switch-2-has-two-different-upscaling-options",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 0.1,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/call-of-duty-on-switch-2-has-two-different-upscaling-options",
+          "titre": "Call Of Duty On Switch 2 Has Two Different Upscaling Options"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review-in-progress-a-campaign-you-shouldnt-skip/",
+          "titre": "Call of Duty: Modern Warfare 4 review-in-progress: A campaign you shouldn't skip"
+        }
+      ]
+    },
     {
       "id": "ubisoft-were-working-on-a-second-assassin-s-creed-game-set-i",
       "titre": "Ubisoft were working on a second Assassin's Creed game set in Qin Dynasty China, if this allegedly leaked footage is to be believed",
@@ -12,7 +66,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 18.8,
+      "heures": 24.1,
       "chaleur": 11,
       "liens": [
         {
@@ -28,6 +82,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "the-blood-of-dawnwalker-update-1-1-adds-an-easier-story-mode",
+      "titre": "The Blood of Dawnwalker Update 1.1 adds an easier Story mode, a respec potion and animal petting",
+      "url": "https://www.eurogamer.net/blood-of-dawnwalker-update-1-1-story-mode-pet-animals",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 0.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/blood-of-dawnwalker-update-1-1-story-mode-pet-animals",
+          "titre": "The Blood of Dawnwalker Update 1.1 adds an easier Story mode, a respec potion and animal petting"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-blood-of-dawnwalkers-update-11-adds-a-forgiving-difficulty-setting-but-i-think-ill-find-it-hard-to-forgive-its-introduction-of-directional-animal-petting",
+          "titre": "The Blood of Dawnwalker's update 1.1 adds a \"forgiving\" difficulty setting, but I think I'll find it hard to forgive its introduction of \"directional animal petting\""
+        }
+      ]
+    },
+    {
       "id": "podcast-zelda-ocarina-of-time-remake-impressions-a-chat-with",
       "titre": "Podcast: Zelda: Ocarina of Time remake impressions & a chat with Control Resonant actor",
       "url": "https://www.videogameschronicle.com/blog/podcast/podcast-zelda-ocarina-of-time-remake-impressions-a-chat-with-control-resonant-actor/",
@@ -36,7 +114,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 19.1,
+      "heures": 24.4,
       "chaleur": 9,
       "liens": [
         {
@@ -52,48 +130,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "cod-modern-warfare-4-will-close-this-chapter-and-launch-a-ne",
-      "titre": "COD Modern Warfare 4 will ‘close this chapter and launch a new one’ for the series, Activision says",
-      "url": "https://www.videogameschronicle.com/news/cod-modern-warfare-4-will-close-this-chapter-and-launch-a-new-one-for-the-series-activision-says/",
-      "sources": [
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 22.0,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/cod-modern-warfare-4-will-close-this-chapter-and-launch-a-new-one-for-the-series-activision-says/",
-          "titre": "COD Modern Warfare 4 will ‘close this chapter and launch a new one’ for the series, Activision says"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ahead-of-call-of-duty-modern-warfare-4s-launch-next-week-unionised-activision-testers-have-voted-to-authorise-a-strike",
-          "titre": "Ahead of Call of Duty: Modern Warfare 4's launch next week, unionised Activision testers have voted to authorise a strike"
-        }
-      ]
-    },
-    {
-      "id": "the-cosy-coastal-farming-sim-coral-island-is-officially-on-i",
-      "titre": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter",
-      "url": "https://www.nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter",
-          "titre": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter"
-        }
-      ]
-    },
-    {
       "id": "the-wolf-among-us-remastered-has-been-delayed-for-switch",
       "titre": "The Wolf Among Us Remastered Has Been Delayed For Switch",
       "url": "https://www.nintendolife.com/news/2026/10/the-wolf-among-us-remastered-has-been-delayed-for-switch",
@@ -101,37 +137,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 10.2,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/the-wolf-among-us-remastered-has-been-delayed-for-switch",
           "titre": "The Wolf Among Us Remastered Has Been Delayed For Switch"
-        }
-      ]
-    },
-    {
-      "id": "impressions-call-of-duty-modern-warfare-4-campaign-switch-2",
-      "titre": "Impressions: Call Of Duty: Modern Warfare 4 Campaign - Switch 2 Does Its Best With One Hell Of A 'Popcorn Game'",
-      "url": "https://www.nintendolife.com/previews/impressions-call-of-duty-modern-warfare-4-campaign-switch-2-does-its-best-with-one-hell-of-a-popcorn-game",
-      "sources": [
-        "Nintendo Life",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 13.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/previews/impressions-call-of-duty-modern-warfare-4-campaign-switch-2-does-its-best-with-one-hell-of-a-popcorn-game",
-          "titre": "Impressions: Call Of Duty: Modern Warfare 4 Campaign - Switch 2 Does Its Best With One Hell Of A 'Popcorn Game'"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review-in-progress-a-campaign-you-shouldnt-skip/",
-          "titre": "Call of Duty: Modern Warfare 4 review-in-progress: A campaign you shouldn't skip"
         }
       ]
     },
@@ -144,7 +156,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 20.1,
+      "heures": 25.4,
       "chaleur": 8,
       "liens": [
         {
@@ -160,6 +172,96 @@ const VEILLE = {
       ]
     },
     {
+      "id": "developer-cancels-public-demo-of-its-upcoming-horror-drinkin",
+      "titre": "Developer cancels public demo of its upcoming horror drinking game, fearing it will be instantly cloned by AI vibe coders: 'We sincerely apologise for the short notice'",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/developer-cancels-public-demo-of-its-upcoming-horror-drinking-game-fearing-it-will-be-instantly-cloned-by-ai-vibe-coders-we-sincerely-apologise-for-the-short-notice/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/developer-cancels-public-demo-of-its-upcoming-horror-drinking-game-fearing-it-will-be-instantly-cloned-by-ai-vibe-coders-we-sincerely-apologise-for-the-short-notice/",
+          "titre": "Developer cancels public demo of its upcoming horror drinking game, fearing it will be instantly cloned by AI vibe coders: 'We sincerely apologise for the short notice'"
+        }
+      ]
+    },
+    {
+      "id": "funcom-is-laying-off-yet-more-developers-as-it-pivots-to-sup",
+      "titre": "Funcom is laying off yet more developers as it pivots to supporting Dune: Awakening and Conan Exiles",
+      "url": "https://www.pcgamer.com/gaming-industry/funcom-is-laying-off-yet-more-developers-as-it-pivots-to-supporting-dune-awakening-and-conan-exiles/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/funcom-is-laying-off-yet-more-developers-as-it-pivots-to-supporting-dune-awakening-and-conan-exiles/",
+          "titre": "Funcom is laying off yet more developers as it pivots to supporting Dune: Awakening and Conan Exiles"
+        }
+      ]
+    },
+    {
+      "id": "art-of-rally-follow-up-over-the-hill-s-biggest-success-is-fi",
+      "titre": "Art of Rally follow-up Over the Hill's biggest success is finding a way to be a driving game that asks you to take it slow",
+      "url": "https://www.eurogamer.net/over-the-hill-now-playing",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 3.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/over-the-hill-now-playing",
+          "titre": "Art of Rally follow-up Over the Hill's biggest success is finding a way to be a driving game that asks you to take it slow"
+        }
+      ]
+    },
+    {
+      "id": "cult-of-the-lamb-summons-a-switch-2-version-free-upgrade-pat",
+      "titre": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed",
+      "url": "https://www.nintendolife.com/news/2026/10/cult-of-the-lamb-summons-a-switch-2-version-free-upgrade-path-confirmed",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/cult-of-the-lamb-summons-a-switch-2-version-free-upgrade-path-confirmed",
+          "titre": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed"
+        }
+      ]
+    },
+    {
+      "id": "the-cosy-coastal-farming-sim-coral-island-is-officially-on-i",
+      "titre": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter",
+      "url": "https://www.nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 8.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter",
+          "titre": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter"
+        }
+      ]
+    },
+    {
       "id": "ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-m",
       "titre": "PS5 JRPG Atelier Karia Adding GTA San Andreas-Style Weight Mechanic After Overwhelming Fan Vote",
       "url": "https://www.pushsquare.com/news/2026/10/ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-mechanic-after-overwhelming-fan-vote",
@@ -167,8 +269,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 7,
+      "heures": 12.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -186,8 +288,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 8.8,
-      "chaleur": 7,
+      "heures": 14.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -210,8 +312,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 11.1,
-      "chaleur": 7,
+      "heures": 16.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -226,24 +328,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "surprise-aspyr-is-remastering-a-shrek-game",
-      "titre": "Surprise! Aspyr Is Remastering A Shrek Game",
-      "url": "https://www.nintendolife.com/news/2026/10/surprise-aspyr-is-remastering-a-shrek-game",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 0.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/surprise-aspyr-is-remastering-a-shrek-game",
-          "titre": "Surprise! Aspyr Is Remastering A Shrek Game"
-        }
-      ]
-    },
-    {
       "id": "linux-kernel-drops-ai-contribution-disclosure-rule-as-linus",
       "titre": "Linux kernel drops AI-contribution disclosure rule, as Linus Torvalds says banning the tech would be 'utterly stupid'",
       "url": "https://www.pcgamer.com/software/linux/linux-kernel-drops-ai-contribution-disclosure-rule-as-linus-torvalds-says-banning-the-tech-would-be-utterly-stupid/",
@@ -251,7 +335,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 20.3,
       "chaleur": 6,
       "liens": [
         {
@@ -269,7 +353,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 22.6,
       "chaleur": 6,
       "liens": [
         {
@@ -287,7 +371,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 25.1,
       "chaleur": 6,
       "liens": [
         {
@@ -305,49 +389,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 26.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/fishlabs-announces-layoffs-due-to-changing-project-requirements-development-and-support-teams-affected",
           "titre": "Fishlabs announces layoffs due to \"changing project requirements,\" development and support teams affected"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-announces-switch-2-repair-price-hike-for-japan",
-      "titre": "Nintendo Announces Switch 2 Repair Price Hike For Japan",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-announces-switch-2-repair-price-hike-for-japan",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 27.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-announces-switch-2-repair-price-hike-for-japan",
-          "titre": "Nintendo Announces Switch 2 Repair Price Hike For Japan"
-        }
-      ]
-    },
-    {
-      "id": "welp-all-of-you-runescape-folks-who-hate-reignited-have-gott",
-      "titre": "Welp, all of you RuneScape folks who hate Reignited have gotten your wish, as the controversial MMO rejig has been cancelled",
-      "url": "https://www.rockpapershotgun.com/welp-all-of-you-runescape-folks-who-hate-reignited-have-gotten-your-wish-as-the-controversial-mmo-rejig-has-been-cancelled",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 33.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/welp-all-of-you-runescape-folks-who-hate-reignited-have-gotten-your-wish-as-the-controversial-mmo-rejig-has-been-cancelled",
-          "titre": "Welp, all of you RuneScape folks who hate Reignited have gotten your wish, as the controversial MMO rejig has been cancelled"
         }
       ]
     },
@@ -359,7 +407,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 18.9,
       "chaleur": 5,
       "liens": [
         {
@@ -377,7 +425,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 18.9,
       "chaleur": 5,
       "liens": [
         {
@@ -395,7 +443,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 21.1,
       "chaleur": 5,
       "liens": [
         {
@@ -413,7 +461,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 22.1,
       "chaleur": 5,
       "liens": [
         {
@@ -431,7 +479,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 22.4,
       "chaleur": 5,
       "liens": [
         {
@@ -449,7 +497,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 24.1,
       "chaleur": 5,
       "liens": [
         {
@@ -467,7 +515,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 25.3,
       "chaleur": 5,
       "liens": [
         {
@@ -485,7 +533,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 26.6,
       "chaleur": 5,
       "liens": [
         {
@@ -503,7 +551,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.1,
+      "heures": 27.4,
       "chaleur": 5,
       "liens": [
         {
@@ -514,38 +562,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-music-expands-its-library-with-another-game-boy-sou",
-      "titre": "Nintendo Music Expands Its Library With Another Game Boy Soundtrack This Week",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-music-expands-its-library-with-another-game-boy-soundtrack-this-week",
+      "id": "what-we-ve-been-playing-i-simply-didn-t-know-if-a-first-pers",
+      "titre": "What we've been playing - \"I simply didn't know if a first-person shooter could work as a Soulslike\"",
+      "url": "https://www.eurogamer.net/what-weve-been-plaing-guns-of-eschaton-ftl-marvel-cosmic-invasion",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.9,
-      "chaleur": 5,
+      "heures": 5.1,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-music-expands-its-library-with-another-game-boy-soundtrack-this-week",
-          "titre": "Nintendo Music Expands Its Library With Another Game Boy Soundtrack This Week"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/what-weve-been-plaing-guns-of-eschaton-ftl-marvel-cosmic-invasion",
+          "titre": "What we've been playing - \"I simply didn't know if a first-person shooter could work as a Soulslike\""
         }
       ]
     },
     {
-      "id": "zelda-tears-of-the-kingdom-exclusive-edition-statue-official",
-      "titre": "Zelda: Tears Of The Kingdom \"Exclusive Edition\" Statue Officially Revealed, Here's A Look",
-      "url": "https://www.nintendolife.com/news/2026/10/zelda-tears-of-the-kingdom-exclusive-edition-statue-officially-revealed-heres-a-look",
+      "id": "surprise-aspyr-is-remastering-a-shrek-game",
+      "titre": "Surprise! Aspyr Is Remastering A Shrek Game",
+      "url": "https://www.nintendolife.com/news/2026/10/surprise-aspyr-is-remastering-a-shrek-game",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.4,
-      "chaleur": 5,
+      "heures": 6.1,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/zelda-tears-of-the-kingdom-exclusive-edition-statue-officially-revealed-heres-a-look",
-          "titre": "Zelda: Tears Of The Kingdom \"Exclusive Edition\" Statue Officially Revealed, Here's A Look"
+          "url": "https://www.nintendolife.com/news/2026/10/surprise-aspyr-is-remastering-a-shrek-game",
+          "titre": "Surprise! Aspyr Is Remastering A Shrek Game"
         }
       ]
     },
@@ -557,7 +605,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -575,31 +623,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.0,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
           "titre": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood"
-        }
-      ]
-    },
-    {
-      "id": "talking-point-what-are-you-playing-this-weekend-issue-654",
-      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 654",
-      "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-654",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 7.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-654",
-          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 654"
         }
       ]
     },
@@ -611,8 +641,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
+      "heures": 16.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -629,7 +659,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -647,7 +677,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 19.0,
       "chaleur": 3,
       "liens": [
         {
@@ -665,7 +695,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
@@ -683,31 +713,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 19.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/graphics-cards/asus-not-only-replaced-an-rtx-4080-super-with-an-rtx-5080-but-also-swapped-it-again-just-to-give-this-lucky-redditor-one-that-matches-their-all-white-build/",
           "titre": "Asus not only replaced an RTX 4080 Super with an RTX 5080 but also swapped it *again* just to give this lucky Redditor one that matches their all-white build"
-        }
-      ]
-    },
-    {
-      "id": "the-blood-of-dawnwalker-s-update-1-1-adds-a-forgiving-diffic",
-      "titre": "The Blood of Dawnwalker's update 1.1 adds a \"forgiving\" difficulty setting, but I think I'll find it hard to forgive its introduction of \"directional animal petting\"",
-      "url": "https://www.rockpapershotgun.com/the-blood-of-dawnwalkers-update-11-adds-a-forgiving-difficulty-setting-but-i-think-ill-find-it-hard-to-forgive-its-introduction-of-directional-animal-petting",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 14.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-blood-of-dawnwalkers-update-11-adds-a-forgiving-difficulty-setting-but-i-think-ill-find-it-hard-to-forgive-its-introduction-of-directional-animal-petting",
-          "titre": "The Blood of Dawnwalker's update 1.1 adds a \"forgiving\" difficulty setting, but I think I'll find it hard to forgive its introduction of \"directional animal petting\""
         }
       ]
     },
@@ -719,7 +731,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 20.4,
       "chaleur": 3,
       "liens": [
         {
@@ -737,7 +749,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 20.6,
       "chaleur": 3,
       "liens": [
         {
@@ -755,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 20.7,
       "chaleur": 3,
       "liens": [
         {
@@ -773,7 +785,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 20.8,
       "chaleur": 3,
       "liens": [
         {
@@ -791,7 +803,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 20.9,
       "chaleur": 3,
       "liens": [
         {
@@ -809,7 +821,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 21.1,
       "chaleur": 3,
       "liens": [
         {
@@ -827,7 +839,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 21.5,
       "chaleur": 3,
       "liens": [
         {
@@ -845,7 +857,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 21.6,
       "chaleur": 3,
       "liens": [
         {
@@ -863,7 +875,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 21.6,
       "chaleur": 3,
       "liens": [
         {
@@ -881,7 +893,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.2,
+      "heures": 22.5,
       "chaleur": 3,
       "liens": [
         {
@@ -899,7 +911,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 23.1,
       "chaleur": 3,
       "liens": [
         {
@@ -917,7 +929,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 23.4,
       "chaleur": 3,
       "liens": [
         {
@@ -935,7 +947,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 23.4,
       "chaleur": 3,
       "liens": [
         {
@@ -953,7 +965,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 23.6,
       "chaleur": 3,
       "liens": [
         {
@@ -971,7 +983,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 19.2,
+      "heures": 24.5,
       "chaleur": 3,
       "liens": [
         {
@@ -989,7 +1001,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 24.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +1019,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.7,
+      "heures": 25.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,7 +1037,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 25.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,7 +1055,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.1,
+      "heures": 25.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,31 +1073,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 25.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/strategy/peter-molyneux-explains-why-black-and-white-3-remains-mia-and-then-drops-a-tantalising-teaser-its-such-a-difficult-difficult-challenging-title-to-develop/",
           "titre": "Peter Molyneux explains why Black & White 3 remains MIA, and then drops a tantalising teaser: 'It's such a difficult, difficult, challenging title to develop'"
-        }
-      ]
-    },
-    {
-      "id": "new-fear-dropped-amazon-scammer-seems-to-have-delidded-an-88",
-      "titre": "New fear dropped: Amazon scammer seems to have delidded an $889 AMD chip, transplanted it on old Intel chip, and got it through return inspection",
-      "url": "https://www.pcgamer.com/hardware/processors/new-fear-dropped-amazon-scammer-seems-to-have-delidded-an-usd889-amd-chip-transplanted-it-on-old-intel-chip-and-got-it-through-return-inspection/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/processors/new-fear-dropped-amazon-scammer-seems-to-have-delidded-an-usd889-amd-chip-transplanted-it-on-old-intel-chip-and-got-it-through-return-inspection/",
-          "titre": "New fear dropped: Amazon scammer seems to have delidded an $889 AMD chip, transplanted it on old Intel chip, and got it through return inspection"
         }
       ]
     },
@@ -1097,7 +1091,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 25.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1115,13 +1109,31 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 20.7,
+      "heures": 26.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/game-republic-new-horizons-2026-attendance-grew-76-to-over-461-visitors",
           "titre": "Game Republic New Horizons 2026 attendance grew 78% to over 461 visitors"
+        }
+      ]
+    },
+    {
+      "id": "jagex-cancels-runescape-reignited-less-than-two-weeks-after",
+      "titre": "Jagex cancels RuneScape Reignited less than two weeks after it was announced, due to \"a ton\" of player feedback",
+      "url": "https://www.eurogamer.net/runescape-reignited-cancelled-two-weeks-player-feedback",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 27.0,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/runescape-reignited-cancelled-two-weeks-player-feedback",
+          "titre": "Jagex cancels RuneScape Reignited less than two weeks after it was announced, due to \"a ton\" of player feedback"
         }
       ]
     }
