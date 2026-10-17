@@ -1,8 +1,92 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "17/10/2026 à 12h08",
+  "collecte": "17/10/2026 à 17h02",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "gameplay-footage-emerges-of-reportedly-cancelled-assassin-s",
+      "titre": "Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny",
+      "url": "https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 4.4,
+      "chaleur": 15,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent",
+          "titre": "Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/ubisoft-were-working-on-a-second-assassins-creed-game-set-in-qin-dynasty-china-if-this-allegedly-leaked-footage-is-to-be-believed",
+          "titre": "Ubisoft were working on a second Assassin's Creed game set in Qin Dynasty China, if this allegedly leaked footage is to be believed"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/footage-from-a-reportedly-cancelled-assassins-creed-game-set-in-china-has-leaked/",
+          "titre": "Footage from a reportedly cancelled Assassin’s Creed game set in China has leaked"
+        }
+      ]
+    },
+    {
+      "id": "the-blood-of-dawnwalker-s-first-major-update-will-add-direct",
+      "titre": "The Blood of Dawnwalker's first major update will add directional animal petting and a new story mode that's easier than the previous story mode",
+      "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-first-major-update-will-add-directional-animal-petting-and-a-new-story-mode-thats-easier-than-the-previous-story-mode/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 3.2,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-first-major-update-will-add-directional-animal-petting-and-a-new-story-mode-thats-easier-than-the-previous-story-mode/",
+          "titre": "The Blood of Dawnwalker's first major update will add directional animal petting and a new story mode that's easier than the previous story mode"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/blood-of-dawnwalker-update-1-1-story-mode-pet-animals",
+          "titre": "The Blood of Dawnwalker Update 1.1 adds an easier Story mode, a respec potion and animal petting"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-blood-of-dawnwalkers-update-11-adds-a-forgiving-difficulty-setting-but-i-think-ill-find-it-hard-to-forgive-its-introduction-of-directional-animal-petting",
+          "titre": "The Blood of Dawnwalker's update 1.1 adds a \"forgiving\" difficulty setting, but I think I'll find it hard to forgive its introduction of \"directional animal petting\""
+        }
+      ]
+    },
+    {
+      "id": "steam-s-achievement-sets-beta-aims-to-stop-new-content-break",
+      "titre": "Steam's Achievement Sets beta aims to stop new content breaking your completion status",
+      "url": "https://www.eurogamer.net/steam-achievement-sets-beta",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 3.8,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/steam-achievement-sets-beta",
+          "titre": "Steam's Achievement Sets beta aims to stop new content breaking your completion status"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/steam-is-introducing-achievement-sets-designed-to-improve-the-achievement-earning-experience/",
+          "titre": "Steam is introducing Achievement Sets, designed to improve the achievement earning experience"
+        }
+      ]
+    },
     {
       "id": "poll-are-you-hyped-for-october-s-9-new-ps-plus-games",
       "titre": "Poll: Are You Hyped for October's 9 New PS Plus Games?",
@@ -13,8 +97,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 0.1,
-      "chaleur": 12,
+      "heures": 5.0,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Push Square",
@@ -42,8 +126,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 0.1,
-      "chaleur": 11,
+      "heures": 5.0,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -58,78 +142,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ubisoft-were-working-on-a-second-assassin-s-creed-game-set-i",
-      "titre": "Ubisoft were working on a second Assassin's Creed game set in Qin Dynasty China, if this allegedly leaked footage is to be believed",
-      "url": "https://www.rockpapershotgun.com/ubisoft-were-working-on-a-second-assassins-creed-game-set-in-qin-dynasty-china-if-this-allegedly-leaked-footage-is-to-be-believed",
-      "sources": [
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 24.1,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ubisoft-were-working-on-a-second-assassins-creed-game-set-in-qin-dynasty-china-if-this-allegedly-leaked-footage-is-to-be-believed",
-          "titre": "Ubisoft were working on a second Assassin's Creed game set in Qin Dynasty China, if this allegedly leaked footage is to be believed"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/footage-from-a-reportedly-cancelled-assassins-creed-game-set-in-china-has-leaked/",
-          "titre": "Footage from a reportedly cancelled Assassin’s Creed game set in China has leaked"
-        }
-      ]
-    },
-    {
-      "id": "the-blood-of-dawnwalker-update-1-1-adds-an-easier-story-mode",
-      "titre": "The Blood of Dawnwalker Update 1.1 adds an easier Story mode, a respec potion and animal petting",
-      "url": "https://www.eurogamer.net/blood-of-dawnwalker-update-1-1-story-mode-pet-animals",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 0.8,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blood-of-dawnwalker-update-1-1-story-mode-pet-animals",
-          "titre": "The Blood of Dawnwalker Update 1.1 adds an easier Story mode, a respec potion and animal petting"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-blood-of-dawnwalkers-update-11-adds-a-forgiving-difficulty-setting-but-i-think-ill-find-it-hard-to-forgive-its-introduction-of-directional-animal-petting",
-          "titre": "The Blood of Dawnwalker's update 1.1 adds a \"forgiving\" difficulty setting, but I think I'll find it hard to forgive its introduction of \"directional animal petting\""
-        }
-      ]
-    },
-    {
-      "id": "podcast-zelda-ocarina-of-time-remake-impressions-a-chat-with",
-      "titre": "Podcast: Zelda: Ocarina of Time remake impressions & a chat with Control Resonant actor",
-      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-zelda-ocarina-of-time-remake-impressions-a-chat-with-control-resonant-actor/",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 24.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-zelda-ocarina-of-time-remake-impressions-a-chat-with-control-resonant-actor/",
-          "titre": "Podcast: Zelda: Ocarina of Time remake impressions & a chat with Control Resonant actor"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-switch-2-replica-n64-box-revealed",
-          "titre": "Zelda: Ocarina Of Time Switch 2 \"Replica N64 Box\" Revealed"
-        }
-      ]
-    },
-    {
       "id": "the-wolf-among-us-remastered-has-been-delayed-for-switch",
       "titre": "The Wolf Among Us Remastered Has Been Delayed For Switch",
       "url": "https://www.nintendolife.com/news/2026/10/the-wolf-among-us-remastered-has-been-delayed-for-switch",
@@ -137,8 +149,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 8,
+      "heures": 15.1,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -148,80 +160,128 @@ const VEILLE = {
       ]
     },
     {
-      "id": "steam-is-introducing-achievement-sets-designed-to-improve-th",
-      "titre": "Steam is introducing Achievement Sets, designed to improve the achievement earning experience",
-      "url": "https://www.videogameschronicle.com/news/steam-is-introducing-achievement-sets-designed-to-improve-the-achievement-earning-experience/",
+      "id": "surprising-no-one-wizards-of-the-coast-doesn-t-intend-to-vol",
+      "titre": "Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year",
+      "url": "https://www.pcgamer.com/gaming-industry/surprising-no-one-wizards-of-the-coast-doesnt-intend-to-voluntarily-recognize-union-efforts-for-the-second-time-this-year/",
       "sources": [
-        "Rock Paper Shotgun",
-        "VGC"
+        "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 25.4,
-      "chaleur": 8,
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/steam-is-introducing-achievement-sets-designed-to-improve-the-achievement-earning-experience/",
-          "titre": "Steam is introducing Achievement Sets, designed to improve the achievement earning experience"
-        },
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/surprising-no-one-wizards-of-the-coast-doesnt-intend-to-voluntarily-recognize-union-efforts-for-the-second-time-this-year/",
+          "titre": "Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year"
+        }
+      ]
+    },
+    {
+      "id": "discussion-time-do-you-think-zone-chats-in-mmos-are-forces-f",
+      "titre": "Discussion time: Do you think zone chats in MMOs are forces for good, or evil?",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/discussion-time-do-you-think-zone-chats-in-mmos-are-forces-for-good-or-evil/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/discussion-time-do-you-think-zone-chats-in-mmos-are-forces-for-good-or-evil/",
+          "titre": "Discussion time: Do you think zone chats in MMOs are forces for good, or evil?"
+        }
+      ]
+    },
+    {
+      "id": "guide-pok-mon-pokopia-pumpkaboo-s-sweet-surprises-halloween",
+      "titre": "Guide: Pokémon Pokopia Pumpkaboo's Sweet Surprises Halloween Event Guide, From Pumpkin Candy To Gourgeist",
+      "url": "https://www.nintendolife.com/guides/pokemon-pokopia-pumpkaboo-sweet-surprises-halloween-event-guide",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/guides/pokemon-pokopia-pumpkaboo-sweet-surprises-halloween-event-guide",
+          "titre": "Guide: Pokémon Pokopia Pumpkaboo's Sweet Surprises Halloween Event Guide, From Pumpkin Candy To Gourgeist"
+        }
+      ]
+    },
+    {
+      "id": "this-game-about-grinding-mute-lumps-of-shapeless-flesh-has-m",
+      "titre": "This game about grinding mute lumps of shapeless flesh has made me realise I've been hornswoggled by capitalism",
+      "url": "https://www.pcgamer.com/games/horror/this-game-about-grinding-mute-lumps-of-shapeless-flesh-has-made-me-realise-ive-been-hornswoggled-by-capitalism/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/this-game-about-grinding-mute-lumps-of-shapeless-flesh-has-made-me-realise-ive-been-hornswoggled-by-capitalism/",
+          "titre": "This game about grinding mute lumps of shapeless flesh has made me realise I've been hornswoggled by capitalism"
+        }
+      ]
+    },
+    {
+      "id": "oh-dear-half-a-year-after-launching-samson-swedish-developer",
+      "titre": "Oh dear, half a year after launching Samson, Swedish developer Liquid Swords have filed for bankruptcy",
+      "url": "https://www.rockpapershotgun.com/oh-dear-half-a-year-after-launching-samson-swedish-developer-liquid-swords-have-filed-for-bankruptcy",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valve-roll-out-steam-achievement-sets-in-beta-splitting-up-games-perpetually-growing-trophy-masses-into-dlc-and-season-buckets",
-          "titre": "Valve roll out Steam Achievement Sets in beta, splitting up games’ perpetually growing trophy masses into DLC and season buckets"
+          "url": "https://www.rockpapershotgun.com/oh-dear-half-a-year-after-launching-samson-swedish-developer-liquid-swords-have-filed-for-bankruptcy",
+          "titre": "Oh dear, half a year after launching Samson, Swedish developer Liquid Swords have filed for bankruptcy"
         }
       ]
     },
     {
-      "id": "developer-cancels-public-demo-of-its-upcoming-horror-drinkin",
-      "titre": "Developer cancels public demo of its upcoming horror drinking game, fearing it will be instantly cloned by AI vibe coders: 'We sincerely apologise for the short notice'",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/developer-cancels-public-demo-of-its-upcoming-horror-drinking-game-fearing-it-will-be-instantly-cloned-by-ai-vibe-coders-we-sincerely-apologise-for-the-short-notice/",
+      "id": "ghostwire-tokyo-joins-gog-preservation-program-which-means-y",
+      "titre": "Ghostwire: Tokyo joins GOG Preservation Program, which means you don't have to deal with Bethesda.NET anymore",
+      "url": "https://www.pcgamer.com/games/action/ghostwire-tokyo-joins-gog-preservation-program-which-means-you-dont-have-to-deal-with-bethesda-net-anymore/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 1.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/developer-cancels-public-demo-of-its-upcoming-horror-drinking-game-fearing-it-will-be-instantly-cloned-by-ai-vibe-coders-we-sincerely-apologise-for-the-short-notice/",
-          "titre": "Developer cancels public demo of its upcoming horror drinking game, fearing it will be instantly cloned by AI vibe coders: 'We sincerely apologise for the short notice'"
+          "url": "https://www.pcgamer.com/games/action/ghostwire-tokyo-joins-gog-preservation-program-which-means-you-dont-have-to-deal-with-bethesda-net-anymore/",
+          "titre": "Ghostwire: Tokyo joins GOG Preservation Program, which means you don't have to deal with Bethesda.NET anymore"
         }
       ]
     },
     {
-      "id": "funcom-is-laying-off-yet-more-developers-as-it-pivots-to-sup",
-      "titre": "Funcom is laying off yet more developers as it pivots to supporting Dune: Awakening and Conan Exiles",
-      "url": "https://www.pcgamer.com/gaming-industry/funcom-is-laying-off-yet-more-developers-as-it-pivots-to-supporting-dune-awakening-and-conan-exiles/",
+      "id": "countdown-zelda-ocarina-of-time-dungeon-crawl-5-this-one-s-f",
+      "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #5 - This One's Fire, Bro",
+      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-5-this-ones-fire-bro",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/funcom-is-laying-off-yet-more-developers-as-it-pivots-to-supporting-dune-awakening-and-conan-exiles/",
-          "titre": "Funcom is laying off yet more developers as it pivots to supporting Dune: Awakening and Conan Exiles"
-        }
-      ]
-    },
-    {
-      "id": "art-of-rally-follow-up-over-the-hill-s-biggest-success-is-fi",
-      "titre": "Art of Rally follow-up Over the Hill's biggest success is finding a way to be a driving game that asks you to take it slow",
-      "url": "https://www.eurogamer.net/over-the-hill-now-playing",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/over-the-hill-now-playing",
-          "titre": "Art of Rally follow-up Over the Hill's biggest success is finding a way to be a driving game that asks you to take it slow"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-5-this-ones-fire-bro",
+          "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #5 - This One's Fire, Bro"
         }
       ]
     },
@@ -233,31 +293,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 9.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/cult-of-the-lamb-summons-a-switch-2-version-free-upgrade-path-confirmed",
           "titre": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed"
-        }
-      ]
-    },
-    {
-      "id": "the-cosy-coastal-farming-sim-coral-island-is-officially-on-i",
-      "titre": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter",
-      "url": "https://www.nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 8.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter",
-          "titre": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter"
         }
       ]
     },
@@ -269,7 +311,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 17.0,
       "chaleur": 6,
       "liens": [
         {
@@ -288,7 +330,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 14.1,
+      "heures": 19.0,
       "chaleur": 6,
       "liens": [
         {
@@ -312,7 +354,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 16.4,
+      "heures": 21.3,
       "chaleur": 6,
       "liens": [
         {
@@ -335,7 +377,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 25.2,
       "chaleur": 6,
       "liens": [
         {
@@ -353,7 +395,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.6,
+      "heures": 27.5,
       "chaleur": 6,
       "liens": [
         {
@@ -371,7 +413,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.1,
+      "heures": 30.0,
       "chaleur": 6,
       "liens": [
         {
@@ -389,13 +431,31 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 26.7,
+      "heures": 31.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/fishlabs-announces-layoffs-due-to-changing-project-requirements-development-and-support-teams-affected",
           "titre": "Fishlabs announces layoffs due to \"changing project requirements,\" development and support teams affected"
+        }
+      ]
+    },
+    {
+      "id": "the-cosy-coastal-farming-sim-coral-island-is-officially-on-i",
+      "titre": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter",
+      "url": "https://www.nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter",
+          "titre": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter"
         }
       ]
     },
@@ -407,7 +467,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 23.8,
       "chaleur": 5,
       "liens": [
         {
@@ -425,7 +485,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 23.9,
       "chaleur": 5,
       "liens": [
         {
@@ -443,7 +503,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.1,
+      "heures": 26.0,
       "chaleur": 5,
       "liens": [
         {
@@ -461,7 +521,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.1,
+      "heures": 27.0,
       "chaleur": 5,
       "liens": [
         {
@@ -479,7 +539,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 27.3,
       "chaleur": 5,
       "liens": [
         {
@@ -497,7 +557,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 24.1,
+      "heures": 29.1,
       "chaleur": 5,
       "liens": [
         {
@@ -508,20 +568,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "former-valve-writer-baffled-by-epic-ceo-tim-sweeney-s-attemp",
-      "titre": "Former Valve writer baffled by Epic CEO Tim Sweeney's attempts to compete with Steam via vibe coding",
-      "url": "https://www.pcgamer.com/software/platforms/little-tim-is-so-obsessed-with-gabe-former-valve-writer-baffled-by-epic-ceo-tim-sweeneys-attempts-to-compete-with-steam-via-vibe-coding/",
+      "id": "podcast-zelda-ocarina-of-time-remake-impressions-a-chat-with",
+      "titre": "Podcast: Zelda: Ocarina of Time remake impressions & a chat with Control Resonant actor",
+      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-zelda-ocarina-of-time-remake-impressions-a-chat-with-control-resonant-actor/",
       "sources": [
-        "PC Gamer"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 29.3,
       "chaleur": 5,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/platforms/little-tim-is-so-obsessed-with-gabe-former-valve-writer-baffled-by-epic-ceo-tim-sweeneys-attempts-to-compete-with-steam-via-vibe-coding/",
-          "titre": "Former Valve writer baffled by Epic CEO Tim Sweeney's attempts to compete with Steam via vibe coding"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-zelda-ocarina-of-time-remake-impressions-a-chat-with-control-resonant-actor/",
+          "titre": "Podcast: Zelda: Ocarina of Time remake impressions & a chat with Control Resonant actor"
+        }
+      ]
+    },
+    {
+      "id": "valve-roll-out-steam-achievement-sets-in-beta-splitting-up-g",
+      "titre": "Valve roll out Steam Achievement Sets in beta, splitting up games’ perpetually growing trophy masses into DLC and season buckets",
+      "url": "https://www.rockpapershotgun.com/valve-roll-out-steam-achievement-sets-in-beta-splitting-up-games-perpetually-growing-trophy-masses-into-dlc-and-season-buckets",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 30.7,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/valve-roll-out-steam-achievement-sets-in-beta-splitting-up-games-perpetually-growing-trophy-masses-into-dlc-and-season-buckets",
+          "titre": "Valve roll out Steam Achievement Sets in beta, splitting up games’ perpetually growing trophy masses into DLC and season buckets"
         }
       ]
     },
@@ -533,7 +611,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.6,
+      "heures": 31.5,
       "chaleur": 5,
       "liens": [
         {
@@ -551,13 +629,67 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 32.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-ad-give-us-our-first-look-at-dark-link",
           "titre": "Zelda: Ocarina Of Time Ad Give Us Our First Look At Dark Link"
+        }
+      ]
+    },
+    {
+      "id": "developer-cancels-public-demo-of-its-upcoming-horror-drinkin",
+      "titre": "Developer cancels public demo of its upcoming horror drinking game, fearing it will be instantly cloned by AI vibe coders: 'We sincerely apologise for the short notice'",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/developer-cancels-public-demo-of-its-upcoming-horror-drinking-game-fearing-it-will-be-instantly-cloned-by-ai-vibe-coders-we-sincerely-apologise-for-the-short-notice/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/developer-cancels-public-demo-of-its-upcoming-horror-drinking-game-fearing-it-will-be-instantly-cloned-by-ai-vibe-coders-we-sincerely-apologise-for-the-short-notice/",
+          "titre": "Developer cancels public demo of its upcoming horror drinking game, fearing it will be instantly cloned by AI vibe coders: 'We sincerely apologise for the short notice'"
+        }
+      ]
+    },
+    {
+      "id": "funcom-is-laying-off-yet-more-developers-as-it-pivots-to-sup",
+      "titre": "Funcom is laying off yet more developers as it pivots to supporting Dune: Awakening and Conan Exiles",
+      "url": "https://www.pcgamer.com/gaming-industry/funcom-is-laying-off-yet-more-developers-as-it-pivots-to-supporting-dune-awakening-and-conan-exiles/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/funcom-is-laying-off-yet-more-developers-as-it-pivots-to-supporting-dune-awakening-and-conan-exiles/",
+          "titre": "Funcom is laying off yet more developers as it pivots to supporting Dune: Awakening and Conan Exiles"
+        }
+      ]
+    },
+    {
+      "id": "art-of-rally-follow-up-over-the-hill-s-biggest-success-is-fi",
+      "titre": "Art of Rally follow-up Over the Hill's biggest success is finding a way to be a driving game that asks you to take it slow",
+      "url": "https://www.eurogamer.net/over-the-hill-now-playing",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 8.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/over-the-hill-now-playing",
+          "titre": "Art of Rally follow-up Over the Hill's biggest success is finding a way to be a driving game that asks you to take it slow"
         }
       ]
     },
@@ -569,7 +701,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -587,7 +719,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -605,8 +737,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 16.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -623,7 +755,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 17.2,
       "chaleur": 3,
       "liens": [
         {
@@ -641,7 +773,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 20.9,
       "chaleur": 3,
       "liens": [
         {
@@ -659,7 +791,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 23.3,
       "chaleur": 3,
       "liens": [
         {
@@ -677,7 +809,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.0,
+      "heures": 23.9,
       "chaleur": 3,
       "liens": [
         {
@@ -695,7 +827,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 24.2,
       "chaleur": 3,
       "liens": [
         {
@@ -713,7 +845,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 24.6,
       "chaleur": 3,
       "liens": [
         {
@@ -731,7 +863,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 25.3,
       "chaleur": 3,
       "liens": [
         {
@@ -749,31 +881,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.6,
+      "heures": 25.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/1-0-roughly-doubles-the-size-of-the-game-no-rest-for-the-wicked-confirms-march-2027-release-on-ps5",
           "titre": "'1.0 Roughly Doubles the Size of the Game': No Rest for the Wicked Confirms March 2027 Release on PS5"
-        }
-      ]
-    },
-    {
-      "id": "windows-settings-might-become-more-useful-and-get-quicker-up",
-      "titre": "Windows Settings might become more useful and get quicker updates if this new hidden app is anything to go by",
-      "url": "https://www.pcgamer.com/software/windows/windows-settings-might-become-more-useful-and-get-quicker-updates-if-this-new-hidden-app-is-anything-to-go-by/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/windows/windows-settings-might-become-more-useful-and-get-quicker-updates-if-this-new-hidden-app-is-anything-to-go-by/",
-          "titre": "Windows Settings might become more useful and get quicker updates if this new hidden app is anything to go by"
         }
       ]
     },
@@ -785,7 +899,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 20.8,
+      "heures": 25.7,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +917,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.9,
+      "heures": 25.8,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +935,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.1,
+      "heures": 26.0,
       "chaleur": 3,
       "liens": [
         {
@@ -839,7 +953,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 26.4,
       "chaleur": 3,
       "liens": [
         {
@@ -857,7 +971,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.6,
+      "heures": 26.5,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +989,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 21.6,
+      "heures": 26.5,
       "chaleur": 3,
       "liens": [
         {
@@ -893,7 +1007,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.5,
+      "heures": 27.4,
       "chaleur": 3,
       "liens": [
         {
@@ -911,31 +1025,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.1,
+      "heures": 28.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/game-first-then-movie-ed-boon-responds-to-street-fighter-vs-mortal-kombat-crossover-pitch",
           "titre": "'Game First, Then Movie': Ed Boon Responds to Street Fighter vs Mortal Kombat Crossover Pitch"
-        }
-      ]
-    },
-    {
-      "id": "modern-warfare-4-release-times-and-early-access-explained",
-      "titre": "Modern Warfare 4 release times and early access explained",
-      "url": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-release-date-launch-times-early-access/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 23.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-release-date-launch-times-early-access/",
-          "titre": "Modern Warfare 4 release times and early access explained"
         }
       ]
     },
@@ -947,7 +1043,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 28.3,
       "chaleur": 3,
       "liens": [
         {
@@ -965,7 +1061,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.6,
+      "heures": 28.5,
       "chaleur": 3,
       "liens": [
         {
@@ -983,7 +1079,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 24.5,
+      "heures": 29.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +1097,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 24.6,
+      "heures": 29.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,7 +1115,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.0,
+      "heures": 29.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1037,7 +1133,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.1,
+      "heures": 30.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1046,97 +1142,9 @@ const VEILLE = {
           "titre": "Control Resonant becomes the fastest-selling game in Remedy's history, outpacing Alan Wake 2 and the original Control"
         }
       ]
-    },
-    {
-      "id": "semifinals-the-brutal-war-to-determine-the-best-rts-unit-of",
-      "titre": "Semifinals: The brutal war to determine the best RTS unit of all time needs your votes",
-      "url": "https://www.pcgamer.com/games/rts/semifinals-the-brutal-war-to-determine-the-best-rts-unit-of-all-time-needs-your-votes/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 25.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rts/semifinals-the-brutal-war-to-determine-the-best-rts-unit-of-all-time-needs-your-votes/",
-          "titre": "Semifinals: The brutal war to determine the best RTS unit of all time needs your votes"
-        }
-      ]
-    },
-    {
-      "id": "peter-molyneux-explains-why-black-white-3-remains-mia-and-th",
-      "titre": "Peter Molyneux explains why Black & White 3 remains MIA, and then drops a tantalising teaser: 'It's such a difficult, difficult, challenging title to develop'",
-      "url": "https://www.pcgamer.com/games/strategy/peter-molyneux-explains-why-black-and-white-3-remains-mia-and-then-drops-a-tantalising-teaser-its-such-a-difficult-difficult-challenging-title-to-develop/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 25.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/peter-molyneux-explains-why-black-and-white-3-remains-mia-and-then-drops-a-tantalising-teaser-its-such-a-difficult-difficult-challenging-title-to-develop/",
-          "titre": "Peter Molyneux explains why Black & White 3 remains MIA, and then drops a tantalising teaser: 'It's such a difficult, difficult, challenging title to develop'"
-        }
-      ]
-    },
-    {
-      "id": "pok-mon-dev-already-finished-with-beast-of-reincarnation-ps5",
-      "titre": "Pokémon Dev Already Finished with Beast of Reincarnation PS5 Patches",
-      "url": "https://www.pushsquare.com/news/2026/10/pokemon-dev-already-finished-with-beast-of-reincarnation-ps5-patches",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 25.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/pokemon-dev-already-finished-with-beast-of-reincarnation-ps5-patches",
-          "titre": "Pokémon Dev Already Finished with Beast of Reincarnation PS5 Patches"
-        }
-      ]
-    },
-    {
-      "id": "game-republic-new-horizons-2026-attendance-grew-78-to-over-4",
-      "titre": "Game Republic New Horizons 2026 attendance grew 78% to over 461 visitors",
-      "url": "https://www.gamesindustry.biz/game-republic-new-horizons-2026-attendance-grew-76-to-over-461-visitors",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 26.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/game-republic-new-horizons-2026-attendance-grew-76-to-over-461-visitors",
-          "titre": "Game Republic New Horizons 2026 attendance grew 78% to over 461 visitors"
-        }
-      ]
-    },
-    {
-      "id": "jagex-cancels-runescape-reignited-less-than-two-weeks-after",
-      "titre": "Jagex cancels RuneScape Reignited less than two weeks after it was announced, due to \"a ton\" of player feedback",
-      "url": "https://www.eurogamer.net/runescape-reignited-cancelled-two-weeks-player-feedback",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 27.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/runescape-reignited-cancelled-two-weeks-player-feedback",
-          "titre": "Jagex cancels RuneScape Reignited less than two weeks after it was announced, due to \"a ton\" of player feedback"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny"
+  ]
 };
