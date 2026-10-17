@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "17/10/2026 à 20h29",
+  "collecte": "17/10/2026 à 23h58",
   "seuil": 14,
   "sujets": [
     {
@@ -9,12 +9,11 @@ const VEILLE = {
       "url": "https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent",
       "sources": [
         "Eurogamer",
-        "Rock Paper Shotgun",
-        "VGC"
+        "Rock Paper Shotgun"
       ],
-      "reprises": 3,
-      "heures": 7.8,
-      "chaleur": 15,
+      "reprises": 2,
+      "heures": 11.3,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Eurogamer",
@@ -25,11 +24,6 @@ const VEILLE = {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/ubisoft-were-working-on-a-second-assassins-creed-game-set-in-qin-dynasty-china-if-this-allegedly-leaked-footage-is-to-be-believed",
           "titre": "Ubisoft were working on a second Assassin's Creed game set in Qin Dynasty China, if this allegedly leaked footage is to be believed"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/footage-from-a-reportedly-cancelled-assassins-creed-game-set-in-china-has-leaked/",
-          "titre": "Footage from a reportedly cancelled Assassin’s Creed game set in China has leaked"
         }
       ]
     },
@@ -43,7 +37,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 6.6,
+      "heures": 10.1,
       "chaleur": 10,
       "liens": [
         {
@@ -73,7 +67,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 8.5,
+      "heures": 12.0,
       "chaleur": 10,
       "liens": [
         {
@@ -94,6 +88,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "metal-band-genitorturers-allegedly-claims-a-vampire-the-masq",
+      "titre": "Metal band Genitorturers allegedly claims a Vampire: The Masquerade - Bloodlines remake is coming, getting a dozen crusty nerds way too worked up",
+      "url": "https://www.pcgamer.com/games/rpg/metal-band-genitorturers-allegedly-claims-a-vampire-the-masquerade-bloodlines-remake-is-coming-getting-a-dozen-crusty-nerds-way-too-worked-up/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 2.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/metal-band-genitorturers-allegedly-claims-a-vampire-the-masquerade-bloodlines-remake-is-coming-getting-a-dozen-crusty-nerds-way-too-worked-up/",
+          "titre": "Metal band Genitorturers allegedly claims a Vampire: The Masquerade - Bloodlines remake is coming, getting a dozen crusty nerds way too worked up"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour",
+          "titre": "Vampire: The Masquerade - Bloodlines remaster rumoured, with leaker insisting it's not a remake"
+        }
+      ]
+    },
+    {
       "id": "i-am-overwhelmed-and-overstimulated-the-actor-behind-star-w",
       "titre": "'I am overwhelmed and overstimulated': The actor behind Star Wars: Galactic Racer’s Biddy Blas is scribbing doon all your enthusiasm",
       "url": "https://www.pcgamer.com/games/racing/i-am-overwhelmed-and-overstimulated-the-actor-behind-star-wars-galactic-racers-biddy-blas-is-scribbing-doon-all-your-enthusiasm/",
@@ -102,8 +120,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 1.9,
-      "chaleur": 9,
+      "heures": 5.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -118,30 +136,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "steam-s-achievement-sets-beta-aims-to-stop-new-content-break",
-      "titre": "Steam's Achievement Sets beta aims to stop new content breaking your completion status",
-      "url": "https://www.eurogamer.net/steam-achievement-sets-beta",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 7.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/steam-achievement-sets-beta",
-          "titre": "Steam's Achievement Sets beta aims to stop new content breaking your completion status"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/steam-is-introducing-achievement-sets-designed-to-improve-the-achievement-earning-experience/",
-          "titre": "Steam is introducing Achievement Sets, designed to improve the achievement earning experience"
-        }
-      ]
-    },
-    {
       "id": "the-wolf-among-us-remastered-has-been-delayed-for-switch",
       "titre": "The Wolf Among Us Remastered Has Been Delayed For Switch",
       "url": "https://www.nintendolife.com/news/2026/10/the-wolf-among-us-remastered-has-been-delayed-for-switch",
@@ -149,13 +143,49 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 22.1,
       "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/the-wolf-among-us-remastered-has-been-delayed-for-switch",
           "titre": "The Wolf Among Us Remastered Has Been Delayed For Switch"
+        }
+      ]
+    },
+    {
+      "id": "ps6-price-tag-facing-1-000-nightmare-as-ai-data-centres-send",
+      "titre": "PS6 Price Tag Facing $1,000+ Nightmare as AI Data Centres Send Component Costs Soaring",
+      "url": "https://www.pushsquare.com/news/2026/10/ps6-price-tag-facing-usd1000plus-nightmare-as-ai-data-centres-send-component-costs-soaring",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps6-price-tag-facing-usd1000plus-nightmare-as-ai-data-centres-send-component-costs-soaring",
+          "titre": "PS6 Price Tag Facing $1,000+ Nightmare as AI Data Centres Send Component Costs Soaring"
+        }
+      ]
+    },
+    {
+      "id": "rain98-is-a-blue-hued-pre-y2k-serial-experiments-lain-inspir",
+      "titre": "Rain98 is a blue-hued, pre-Y2K, Serial Experiments Lain inspired visual novel about time travelling to the past to end the world",
+      "url": "https://www.rockpapershotgun.com/rain98-is-a-blue-hued-pre-y2k-serial-experiments-lain-inspired-visual-novel-about-time-travelling-to-the-past-to-end-the-world",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 2.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/rain98-is-a-blue-hued-pre-y2k-serial-experiments-lain-inspired-visual-novel-about-time-travelling-to-the-past-to-end-the-world",
+          "titre": "Rain98 is a blue-hued, pre-Y2K, Serial Experiments Lain inspired visual novel about time travelling to the past to end the world"
         }
       ]
     },
@@ -167,7 +197,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
@@ -178,182 +208,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "qualcomm-wins-2-legal-decision-against-fellow-tech-giant-arm",
-      "titre": "Qualcomm wins $2 legal decision against fellow tech giant Arm, and that's not a typo",
-      "url": "https://www.pcgamer.com/gaming-industry/qualcomm-wins-usd2-legal-decision-against-fellow-tech-giant-arm-and-thats-not-a-typo/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/qualcomm-wins-usd2-legal-decision-against-fellow-tech-giant-arm-and-thats-not-a-typo/",
-          "titre": "Qualcomm wins $2 legal decision against fellow tech giant Arm, and that's not a typo"
-        }
-      ]
-    },
-    {
-      "id": "guide-these-35-ps5-and-ps-plus-games-are-coming-out-next-wee",
-      "titre": "Guide: These 35+ PS5 and PS Plus Games Are Coming Out Next Week (19th-25th October)",
-      "url": "https://www.pushsquare.com/guides/these-35plus-ps5-and-ps-plus-games-are-coming-out-next-week-19th-25th-october",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/these-35plus-ps5-and-ps-plus-games-are-coming-out-next-week-19th-25th-october",
-          "titre": "Guide: These 35+ PS5 and PS Plus Games Are Coming Out Next Week (19th-25th October)"
-        }
-      ]
-    },
-    {
-      "id": "rimworld-meets-moebius-esque-roguelite-colony-sim-trailblaze",
-      "titre": "RimWorld meets Moebius-esque roguelite colony sim Trailblazers: Into The March welcomes you aboard its hulking landships with a chonky-sounding demo",
-      "url": "https://www.rockpapershotgun.com/rimworld-meets-moebius-esque-roguelite-colony-sim-trailblazers-into-the-march-welcomes-you-aboard-its-hulking-landships-with-a-chonky-sounding-demo",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/rimworld-meets-moebius-esque-roguelite-colony-sim-trailblazers-into-the-march-welcomes-you-aboard-its-hulking-landships-with-a-chonky-sounding-demo",
-          "titre": "RimWorld meets Moebius-esque roguelite colony sim Trailblazers: Into The March welcomes you aboard its hulking landships with a chonky-sounding demo"
-        }
-      ]
-    },
-    {
-      "id": "feature-going-platinum-stray-is-probably-the-only-game-i-ve",
-      "titre": "Feature: Going Platinum: Stray Is Probably the Only Game I've Speedran for a Trophy",
-      "url": "https://www.pushsquare.com/features/going-platinum-stray-is-probably-the-only-game-ive-speedran-for-a-trophy",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/going-platinum-stray-is-probably-the-only-game-ive-speedran-for-a-trophy",
-          "titre": "Feature: Going Platinum: Stray Is Probably the Only Game I've Speedran for a Trophy"
-        }
-      ]
-    },
-    {
-      "id": "vampire-the-masquerade-bloodlines-remaster-rumoured-with-lea",
-      "titre": "Vampire: The Masquerade - Bloodlines remaster rumoured, with leaker insisting it's not a remake",
-      "url": "https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour",
+      "id": "steam-s-achievement-sets-beta-aims-to-stop-new-content-break",
+      "titre": "Steam's Achievement Sets beta aims to stop new content breaking your completion status",
+      "url": "https://www.eurogamer.net/steam-achievement-sets-beta",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 10.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour",
-          "titre": "Vampire: The Masquerade - Bloodlines remaster rumoured, with leaker insisting it's not a remake"
-        }
-      ]
-    },
-    {
-      "id": "to-help-america-i-used-crusader-kings-3-to-figure-out-how-to",
-      "titre": "To help America, I used Crusader Kings 3 to figure out how to remove a doddering, senile lunatic from power",
-      "url": "https://www.pcgamer.com/games/strategy/to-help-america-i-used-crusader-kings-3-to-figure-out-how-to-remove-a-doddering-senile-lunatic-from-power/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/to-help-america-i-used-crusader-kings-3-to-figure-out-how-to-remove-a-doddering-senile-lunatic-from-power/",
-          "titre": "To help America, I used Crusader Kings 3 to figure out how to remove a doddering, senile lunatic from power"
-        }
-      ]
-    },
-    {
-      "id": "sega-pulls-total-war-shogun-2-complete-edition-from-sale-ami",
-      "titre": "Sega pulls Total War: Shogun 2 - Complete Edition from sale amid AI accusations, admitting it has \"fallen short\"",
-      "url": "https://www.eurogamer.net/total-war-shogun-2-complete-edition-pulled-from-sale",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/total-war-shogun-2-complete-edition-pulled-from-sale",
-          "titre": "Sega pulls Total War: Shogun 2 - Complete Edition from sale amid AI accusations, admitting it has \"fallen short\""
-        }
-      ]
-    },
-    {
-      "id": "as-too-much-of-the-industry-embrace-their-own-death-through",
-      "titre": "As too much of the industry embrace their own death through genAI, Konami say it's real people that are most important for making good games",
-      "url": "https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games",
-          "titre": "As too much of the industry embrace their own death through genAI, Konami say it's real people that are most important for making good games"
-        }
-      ]
-    },
-    {
-      "id": "surprising-no-one-wizards-of-the-coast-doesn-t-intend-to-vol",
-      "titre": "Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year",
-      "url": "https://www.pcgamer.com/gaming-industry/surprising-no-one-wizards-of-the-coast-doesnt-intend-to-voluntarily-recognize-union-efforts-for-the-second-time-this-year/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/surprising-no-one-wizards-of-the-coast-doesnt-intend-to-voluntarily-recognize-union-efforts-for-the-second-time-this-year/",
-          "titre": "Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year"
-        }
-      ]
-    },
-    {
-      "id": "discussion-time-do-you-think-zone-chats-in-mmos-are-forces-f",
-      "titre": "Discussion time: Do you think zone chats in MMOs are forces for good, or evil?",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/discussion-time-do-you-think-zone-chats-in-mmos-are-forces-for-good-or-evil/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/discussion-time-do-you-think-zone-chats-in-mmos-are-forces-for-good-or-evil/",
-          "titre": "Discussion time: Do you think zone chats in MMOs are forces for good, or evil?"
+          "url": "https://www.eurogamer.net/steam-achievement-sets-beta",
+          "titre": "Steam's Achievement Sets beta aims to stop new content breaking your completion status"
         }
       ]
     },
@@ -365,7 +233,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 11.0,
       "chaleur": 6,
       "liens": [
         {
@@ -383,7 +251,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 12.0,
       "chaleur": 6,
       "liens": [
         {
@@ -401,7 +269,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.5,
+      "heures": 24.0,
       "chaleur": 6,
       "liens": [
         {
@@ -420,7 +288,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 22.5,
+      "heures": 25.9,
       "chaleur": 6,
       "liens": [
         {
@@ -444,7 +312,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 24.8,
+      "heures": 28.3,
       "chaleur": 6,
       "liens": [
         {
@@ -467,49 +335,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 31.0,
+      "heures": 34.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/sonys-multi-million-dollar-gta-6-ps5-marketing-strategy-is-already-working",
           "titre": "Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-cars-appear-in-real-life-as-part-of-insane-miami-marke",
-      "titre": "GTA 6 Cars Appear in Real Life as Part of Insane Miami Marketing Push",
-      "url": "https://www.pushsquare.com/news/2026/10/gta-6-cars-appear-in-real-life-as-part-of-insane-miami-marketing-push",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 33.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/gta-6-cars-appear-in-real-life-as-part-of-insane-miami-marketing-push",
-          "titre": "GTA 6 Cars Appear in Real Life as Part of Insane Miami Marketing Push"
-        }
-      ]
-    },
-    {
-      "id": "fishlabs-announces-layoffs-due-to-changing-project-requireme",
-      "titre": "Fishlabs announces layoffs due to \"changing project requirements,\" development and support teams affected",
-      "url": "https://www.gamesindustry.biz/fishlabs-announces-layoffs-due-to-changing-project-requirements-development-and-support-teams-affected",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 35.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/fishlabs-announces-layoffs-due-to-changing-project-requirements-development-and-support-teams-affected",
-          "titre": "Fishlabs announces layoffs due to \"changing project requirements,\" development and support teams affected"
         }
       ]
     },
@@ -521,7 +353,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 16.0,
       "chaleur": 5,
       "liens": [
         {
@@ -539,7 +371,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 19.9,
       "chaleur": 5,
       "liens": [
         {
@@ -557,7 +389,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.2,
+      "heures": 30.7,
       "chaleur": 5,
       "liens": [
         {
@@ -575,7 +407,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 30.8,
       "chaleur": 5,
       "liens": [
         {
@@ -593,7 +425,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.5,
+      "heures": 33.0,
       "chaleur": 5,
       "liens": [
         {
@@ -611,7 +443,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 30.5,
+      "heures": 34.0,
       "chaleur": 5,
       "liens": [
         {
@@ -629,7 +461,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.7,
+      "heures": 34.2,
       "chaleur": 5,
       "liens": [
         {
@@ -647,7 +479,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 32.5,
+      "heures": 36.0,
       "chaleur": 5,
       "liens": [
         {
@@ -658,74 +490,164 @@ const VEILLE = {
       ]
     },
     {
-      "id": "podcast-zelda-ocarina-of-time-remake-impressions-a-chat-with",
-      "titre": "Podcast: Zelda: Ocarina of Time remake impressions & a chat with Control Resonant actor",
-      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-zelda-ocarina-of-time-remake-impressions-a-chat-with-control-resonant-actor/",
+      "id": "qualcomm-wins-2-legal-decision-against-fellow-tech-giant-arm",
+      "titre": "Qualcomm wins $2 legal decision against fellow tech giant Arm, and that's not a typo",
+      "url": "https://www.pcgamer.com/gaming-industry/qualcomm-wins-usd2-legal-decision-against-fellow-tech-giant-arm-and-thats-not-a-typo/",
       "sources": [
-        "VGC"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 32.8,
-      "chaleur": 5,
+      "heures": 4.5,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-zelda-ocarina-of-time-remake-impressions-a-chat-with-control-resonant-actor/",
-          "titre": "Podcast: Zelda: Ocarina of Time remake impressions & a chat with Control Resonant actor"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/qualcomm-wins-usd2-legal-decision-against-fellow-tech-giant-arm-and-thats-not-a-typo/",
+          "titre": "Qualcomm wins $2 legal decision against fellow tech giant Arm, and that's not a typo"
         }
       ]
     },
     {
-      "id": "valve-roll-out-steam-achievement-sets-in-beta-splitting-up-g",
-      "titre": "Valve roll out Steam Achievement Sets in beta, splitting up games’ perpetually growing trophy masses into DLC and season buckets",
-      "url": "https://www.rockpapershotgun.com/valve-roll-out-steam-achievement-sets-in-beta-splitting-up-games-perpetually-growing-trophy-masses-into-dlc-and-season-buckets",
+      "id": "guide-these-35-ps5-and-ps-plus-games-are-coming-out-next-wee",
+      "titre": "Guide: These 35+ PS5 and PS Plus Games Are Coming Out Next Week (19th-25th October)",
+      "url": "https://www.pushsquare.com/guides/these-35plus-ps5-and-ps-plus-games-are-coming-out-next-week-19th-25th-october",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-35plus-ps5-and-ps-plus-games-are-coming-out-next-week-19th-25th-october",
+          "titre": "Guide: These 35+ PS5 and PS Plus Games Are Coming Out Next Week (19th-25th October)"
+        }
+      ]
+    },
+    {
+      "id": "rimworld-meets-moebius-esque-roguelite-colony-sim-trailblaze",
+      "titre": "RimWorld meets Moebius-esque roguelite colony sim Trailblazers: Into The March welcomes you aboard its hulking landships with a chonky-sounding demo",
+      "url": "https://www.rockpapershotgun.com/rimworld-meets-moebius-esque-roguelite-colony-sim-trailblazers-into-the-march-welcomes-you-aboard-its-hulking-landships-with-a-chonky-sounding-demo",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 34.1,
-      "chaleur": 5,
+      "heures": 4.8,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valve-roll-out-steam-achievement-sets-in-beta-splitting-up-games-perpetually-growing-trophy-masses-into-dlc-and-season-buckets",
-          "titre": "Valve roll out Steam Achievement Sets in beta, splitting up games’ perpetually growing trophy masses into DLC and season buckets"
+          "url": "https://www.rockpapershotgun.com/rimworld-meets-moebius-esque-roguelite-colony-sim-trailblazers-into-the-march-welcomes-you-aboard-its-hulking-landships-with-a-chonky-sounding-demo",
+          "titre": "RimWorld meets Moebius-esque roguelite colony sim Trailblazers: Into The March welcomes you aboard its hulking landships with a chonky-sounding demo"
         }
       ]
     },
     {
-      "id": "peak-the-beloved-indie-climber-scales-october-s-stacked-swi",
-      "titre": "'Peak', The Beloved Indie Climber, Scales October's Stacked Switch 2 Release Schedule",
-      "url": "https://www.nintendolife.com/news/2026/10/peak-the-beloved-indie-climber-scales-octobers-stacked-switch-2-release-schedule",
+      "id": "feature-going-platinum-stray-is-probably-the-only-game-i-ve",
+      "titre": "Feature: Going Platinum: Stray Is Probably the Only Game I've Speedran for a Trophy",
+      "url": "https://www.pushsquare.com/features/going-platinum-stray-is-probably-the-only-game-ive-speedran-for-a-trophy",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 35.0,
-      "chaleur": 5,
+      "heures": 5.0,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/peak-the-beloved-indie-climber-scales-octobers-stacked-switch-2-release-schedule",
-          "titre": "'Peak', The Beloved Indie Climber, Scales October's Stacked Switch 2 Release Schedule"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/going-platinum-stray-is-probably-the-only-game-ive-speedran-for-a-trophy",
+          "titre": "Feature: Going Platinum: Stray Is Probably the Only Game I've Speedran for a Trophy"
         }
       ]
     },
     {
-      "id": "zelda-ocarina-of-time-ad-give-us-our-first-look-at-dark-link",
-      "titre": "Zelda: Ocarina Of Time Ad Give Us Our First Look At Dark Link",
-      "url": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-ad-give-us-our-first-look-at-dark-link",
+      "id": "to-help-america-i-used-crusader-kings-3-to-figure-out-how-to",
+      "titre": "To help America, I used Crusader Kings 3 to figure out how to remove a doddering, senile lunatic from power",
+      "url": "https://www.pcgamer.com/games/strategy/to-help-america-i-used-crusader-kings-3-to-figure-out-how-to-remove-a-doddering-senile-lunatic-from-power/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 35.7,
-      "chaleur": 5,
+      "heures": 6.0,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-ad-give-us-our-first-look-at-dark-link",
-          "titre": "Zelda: Ocarina Of Time Ad Give Us Our First Look At Dark Link"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/to-help-america-i-used-crusader-kings-3-to-figure-out-how-to-remove-a-doddering-senile-lunatic-from-power/",
+          "titre": "To help America, I used Crusader Kings 3 to figure out how to remove a doddering, senile lunatic from power"
+        }
+      ]
+    },
+    {
+      "id": "sega-pulls-total-war-shogun-2-complete-edition-from-sale-ami",
+      "titre": "Sega pulls Total War: Shogun 2 - Complete Edition from sale amid AI accusations, admitting it has \"fallen short\"",
+      "url": "https://www.eurogamer.net/total-war-shogun-2-complete-edition-pulled-from-sale",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 6.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/total-war-shogun-2-complete-edition-pulled-from-sale",
+          "titre": "Sega pulls Total War: Shogun 2 - Complete Edition from sale amid AI accusations, admitting it has \"fallen short\""
+        }
+      ]
+    },
+    {
+      "id": "as-too-much-of-the-industry-embrace-their-own-death-through",
+      "titre": "As too much of the industry embrace their own death through genAI, Konami say it's real people that are most important for making good games",
+      "url": "https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 6.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games",
+          "titre": "As too much of the industry embrace their own death through genAI, Konami say it's real people that are most important for making good games"
+        }
+      ]
+    },
+    {
+      "id": "surprising-no-one-wizards-of-the-coast-doesn-t-intend-to-vol",
+      "titre": "Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year",
+      "url": "https://www.pcgamer.com/gaming-industry/surprising-no-one-wizards-of-the-coast-doesnt-intend-to-voluntarily-recognize-union-efforts-for-the-second-time-this-year/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/surprising-no-one-wizards-of-the-coast-doesnt-intend-to-voluntarily-recognize-union-efforts-for-the-second-time-this-year/",
+          "titre": "Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year"
+        }
+      ]
+    },
+    {
+      "id": "discussion-time-do-you-think-zone-chats-in-mmos-are-forces-f",
+      "titre": "Discussion time: Do you think zone chats in MMOs are forces for good, or evil?",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/discussion-time-do-you-think-zone-chats-in-mmos-are-forces-for-good-or-evil/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/discussion-time-do-you-think-zone-chats-in-mmos-are-forces-for-good-or-evil/",
+          "titre": "Discussion time: Do you think zone chats in MMOs are forces for good, or evil?"
         }
       ]
     },
@@ -737,7 +659,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -755,7 +677,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -773,7 +695,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -791,7 +713,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -809,7 +731,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -827,8 +749,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -845,8 +767,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 15.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -863,7 +785,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 17.0,
       "chaleur": 3,
       "liens": [
         {
@@ -881,7 +803,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 18.0,
       "chaleur": 3,
       "liens": [
         {
@@ -899,7 +821,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 23.5,
       "chaleur": 3,
       "liens": [
         {
@@ -917,7 +839,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.6,
+      "heures": 24.1,
       "chaleur": 3,
       "liens": [
         {
@@ -935,7 +857,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 27.8,
       "chaleur": 3,
       "liens": [
         {
@@ -953,31 +875,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.8,
+      "heures": 30.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/nonolith-traps-you-in-a-living-maze-and-challenges-you-to-find-hidden-terrain-magic-using-good-old-copy-paste",
           "titre": "Nonolith traps you in a living maze and challenges you to find hidden terrain magic using good old copy-paste"
-        }
-      ]
-    },
-    {
-      "id": "my-career-as-a-weed-farmer-was-derailed-by-my-unslakeable-lu",
-      "titre": "My career as a weed farmer was derailed by my unslakeable lust for golf",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/my-career-as-a-weed-farmer-was-derailed-by-my-unslakeable-lust-for-golf/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 27.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/my-career-as-a-weed-farmer-was-derailed-by-my-unslakeable-lust-for-golf/",
-          "titre": "My career as a weed farmer was derailed by my unslakeable lust for golf"
         }
       ]
     },
@@ -989,7 +893,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 27.7,
+      "heures": 31.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +911,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.7,
+      "heures": 32.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,7 +929,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.0,
+      "heures": 32.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,7 +947,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 29.2,
+      "heures": 32.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,7 +965,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 29.2,
+      "heures": 32.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1079,7 +983,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 32.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1097,7 +1001,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 29.8,
+      "heures": 33.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1115,7 +1019,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 30.0,
+      "heures": 33.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1133,13 +1037,85 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 30.0,
+      "heures": 33.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/how-star-wars-galactic-racer-kept-the-core-team-small-and-sustainable-through-distributed-development",
           "titre": "How Star Wars: Galactic Racer kept the core team small and sustainable through \"distributed development\""
+        }
+      ]
+    },
+    {
+      "id": "wardogs-devs-rush-to-fix-xp-exploit-allowing-players-to-quic",
+      "titre": "Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day",
+      "url": "https://www.eurogamer.net/wardogs-driver-xp-exploit-season-2-tanks",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 34.3,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/wardogs-driver-xp-exploit-season-2-tanks",
+          "titre": "Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day"
+        }
+      ]
+    },
+    {
+      "id": "game-first-then-movie-ed-boon-responds-to-street-fighter-vs",
+      "titre": "'Game First, Then Movie': Ed Boon Responds to Street Fighter vs Mortal Kombat Crossover Pitch",
+      "url": "https://www.pushsquare.com/news/2026/10/game-first-then-movie-ed-boon-responds-to-street-fighter-vs-mortal-kombat-crossover-pitch",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 35.0,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/game-first-then-movie-ed-boon-responds-to-street-fighter-vs-mortal-kombat-crossover-pitch",
+          "titre": "'Game First, Then Movie': Ed Boon Responds to Street Fighter vs Mortal Kombat Crossover Pitch"
+        }
+      ]
+    },
+    {
+      "id": "gamescom-asia-x-thailand-game-show-2026-announces-four-addit",
+      "titre": "Gamescom Asia x Thailand Game Show 2026 announces four additional pavilions from Indonesia, Japan, Malaysia, and the US",
+      "url": "https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-2026-announces-four-additional-pavilions-from-indonesia-japan-malaysia-and-the-us",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 35.2,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-2026-announces-four-additional-pavilions-from-indonesia-japan-malaysia-and-the-us",
+          "titre": "Gamescom Asia x Thailand Game Show 2026 announces four additional pavilions from Indonesia, Japan, Malaysia, and the US"
+        }
+      ]
+    },
+    {
+      "id": "video-i-built-the-ps1-lego-set-and-nearly-lost-my-mind",
+      "titre": "Video: I Built the PS1 LEGO Set, and Nearly Lost My Mind",
+      "url": "https://www.pushsquare.com/features/video-i-built-the-ps1-lego-set-and-nearly-lost-my-mind",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 35.5,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/video-i-built-the-ps1-lego-set-and-nearly-lost-my-mind",
+          "titre": "Video: I Built the PS1 LEGO Set, and Nearly Lost My Mind"
         }
       ]
     }
