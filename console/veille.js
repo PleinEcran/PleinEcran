@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "18/10/2026 à 18h34",
+  "collecte": "18/10/2026 à 22h23",
   "seuil": 14,
   "sujets": [
     {
@@ -14,8 +14,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 3.2,
-      "chaleur": 17,
+      "heures": 7.0,
+      "chaleur": 15,
       "liens": [
         {
           "source": "Eurogamer",
@@ -48,8 +48,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.4,
-      "chaleur": 13,
+      "heures": 5.2,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Eurogamer",
@@ -64,36 +64,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "poll-are-you-hyped-for-october-s-9-new-ps-plus-games",
-      "titre": "Poll: Are You Hyped for October's 9 New PS Plus Games?",
-      "url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-octobers-9-new-ps-plus-games",
-      "sources": [
-        "Nintendo Life",
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 30.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-octobers-9-new-ps-plus-games",
-          "titre": "Poll: Are You Hyped for October's 9 New PS Plus Games?"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-17th-october",
-          "titre": "Talking Point: What Are You Playing This Weekend? (17th October)"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-404",
-          "titre": "What are we all playing this weekend?"
-        }
-      ]
-    },
-    {
       "id": "gameplay-footage-emerges-of-reportedly-cancelled-assassin-s",
       "titre": "Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny",
       "url": "https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent",
@@ -101,7 +71,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.9,
+      "heures": 33.7,
       "chaleur": 8,
       "liens": [
         {
@@ -119,7 +89,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 10.4,
       "chaleur": 7,
       "liens": [
         {
@@ -130,99 +100,27 @@ const VEILLE = {
       ]
     },
     {
-      "id": "battlefield-6-devs-to-fix-secuty-skin-typo-but-five-pistol-o",
-      "titre": "Battlefield 6 devs to fix \"Secuty\" skin typo, but five-pistol outfit was intentional",
-      "url": "https://www.eurogamer.net/battlefield-6-secuty-typo-five-pistol-skin-devs-respond",
+      "id": "street-fighter-movie-cracks-over-50m-at-box-office-in-openin",
+      "titre": "Street Fighter Movie Cracks Over $50M at Box Office in Opening Weekend",
+      "url": "https://www.pushsquare.com/news/2026/10/street-fighter-movie-cracks-over-usd50m-at-box-office-in-opening-weekend",
       "sources": [
-        "Eurogamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 0.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/battlefield-6-secuty-typo-five-pistol-skin-devs-respond",
-          "titre": "Battlefield 6 devs to fix \"Secuty\" skin typo, but five-pistol outfit was intentional"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/street-fighter-movie-cracks-over-usd50m-at-box-office-in-opening-weekend",
+          "titre": "Street Fighter Movie Cracks Over $50M at Box Office in Opening Weekend"
         }
       ]
     },
     {
-      "id": "the-outlast-trials-initial-playtests-went-poorly-designer-sa",
-      "titre": "The Outlast Trials' initial playtests went poorly: Designer says 6-year development took 'a f**king long time' and 'a s**t-ton of prototypes'",
-      "url": "https://www.pcgamer.com/games/horror/the-outlast-trials-initial-playtests-went-poorly-designer-says-6-year-development-took-a-f-king-long-time-and-a-s-t-ton-of-prototypes/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/the-outlast-trials-initial-playtests-went-poorly-designer-says-6-year-development-took-a-f-king-long-time-and-a-s-t-ton-of-prototypes/",
-          "titre": "The Outlast Trials' initial playtests went poorly: Designer says 6-year development took 'a f**king long time' and 'a s**t-ton of prototypes'"
-        }
-      ]
-    },
-    {
-      "id": "no-soundtrack-does-it-like-hades-2",
-      "titre": "No soundtrack does it like Hades 2",
-      "url": "https://www.pcgamer.com/games/roguelike/no-soundtrack-does-it-like-hades-2/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/roguelike/no-soundtrack-does-it-like-hades-2/",
-          "titre": "No soundtrack does it like Hades 2"
-        }
-      ]
-    },
-    {
-      "id": "frozen-trail-finally-puts-the-raid-in-arc-raiders",
-      "titre": "Frozen Trail finally puts the 'raid' in Arc Raiders",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/frozen-trail-finally-puts-the-raid-in-arc-raiders/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/frozen-trail-finally-puts-the-raid-in-arc-raiders/",
-          "titre": "Frozen Trail finally puts the 'raid' in Arc Raiders"
-        }
-      ]
-    },
-    {
-      "id": "feature-the-seven-year-silence-how-ocarina-of-time-held-my-g",
-      "titre": "Feature: The Seven-Year Silence: How Ocarina Of Time Held My Grief At Seven Years Old",
-      "url": "https://www.nintendolife.com/features/the-seven-year-silence-how-ocarina-of-time-held-my-grief-at-seven-years-old",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/the-seven-year-silence-how-ocarina-of-time-held-my-grief-at-seven-years-old",
-          "titre": "Feature: The Seven-Year Silence: How Ocarina Of Time Held My Grief At Seven Years Old"
-        }
-      ]
-    },
-    {
-      "id": "there-were-a-lot-of-disagreements-across-the-place-former-m",
-      "titre": "'There were a lot of disagreements across the place': Former Marathon director Joe Ziegler on leading Bungie's extraction shooter, playing Path of Exile for 3,437 hours, and why he'll never uninstall Kingdom Hearts",
-      "url": "https://www.pcgamer.com/gaming-industry/there-were-a-lot-of-disagreements-across-the-place-former-marathon-director-joe-ziegler-on-leading-bungies-extraction-shooter-playing-path-of-exile-for-3-437-hours-and-why-hell-never-uninstall-kingdom-hearts/",
+      "id": "dark-souls-2-dataminer-shows-off-massive-prototype-coliseum",
+      "titre": "Dark Souls 2 dataminer shows off massive prototype coliseum level from early development",
+      "url": "https://www.pcgamer.com/games/dark-souls/dark-souls-2-dataminer-shows-off-massive-prototype-coliseum-level-from-early-development/",
       "sources": [
         "PC Gamer"
       ],
@@ -232,26 +130,26 @@ const VEILLE = {
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/there-were-a-lot-of-disagreements-across-the-place-former-marathon-director-joe-ziegler-on-leading-bungies-extraction-shooter-playing-path-of-exile-for-3-437-hours-and-why-hell-never-uninstall-kingdom-hearts/",
-          "titre": "'There were a lot of disagreements across the place': Former Marathon director Joe Ziegler on leading Bungie's extraction shooter, playing Path of Exile for 3,437 hours, and why he'll never uninstall Kingdom Hearts"
+          "url": "https://www.pcgamer.com/games/dark-souls/dark-souls-2-dataminer-shows-off-massive-prototype-coliseum-level-from-early-development/",
+          "titre": "Dark Souls 2 dataminer shows off massive prototype coliseum level from early development"
         }
       ]
     },
     {
-      "id": "god-of-war-laufey-s-130-collector-box-doesn-t-come-with-the",
-      "titre": "God of War Laufey's £130 Collector Box doesn't come with the game",
-      "url": "https://www.eurogamer.net/god-of-war-laufey-collector-box-no-game",
+      "id": "leaked-ai-safety-bill-from-anthropic-only-requires-governmen",
+      "titre": "Leaked AI safety bill from Anthropic only requires government intervention if 50+ injuries or $1 billion are at risk",
+      "url": "https://www.pcgamer.com/software/ai/leaked-ai-safety-bill-from-anthropic-only-lets-government-act-if-50-deaths-or-usd1-billion-are-on-the-line/",
       "sources": [
-        "Eurogamer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.8,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/god-of-war-laufey-collector-box-no-game",
-          "titre": "God of War Laufey's £130 Collector Box doesn't come with the game"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/leaked-ai-safety-bill-from-anthropic-only-lets-government-act-if-50-deaths-or-usd1-billion-are-on-the-line/",
+          "titre": "Leaked AI safety bill from Anthropic only requires government intervention if 50+ injuries or $1 billion are at risk"
         }
       ]
     },
@@ -263,7 +161,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 22.4,
       "chaleur": 6,
       "liens": [
         {
@@ -282,7 +180,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 20.7,
+      "heures": 24.5,
       "chaleur": 6,
       "liens": [
         {
@@ -305,7 +203,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 19.3,
       "chaleur": 5,
       "liens": [
         {
@@ -323,7 +221,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 33.2,
       "chaleur": 5,
       "liens": [
         {
@@ -341,7 +239,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.6,
+      "heures": 33.4,
       "chaleur": 5,
       "liens": [
         {
@@ -359,7 +257,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.6,
+      "heures": 34.4,
       "chaleur": 5,
       "liens": [
         {
@@ -370,20 +268,128 @@ const VEILLE = {
       ]
     },
     {
-      "id": "cult-of-the-lamb-summons-a-switch-2-version-free-upgrade-pat",
-      "titre": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed",
-      "url": "https://www.nintendolife.com/news/2026/10/cult-of-the-lamb-summons-a-switch-2-version-free-upgrade-path-confirmed",
+      "id": "battlefield-6-devs-to-fix-secuty-skin-typo-but-five-pistol-o",
+      "titre": "Battlefield 6 devs to fix \"Secuty\" skin typo, but five-pistol outfit was intentional",
+      "url": "https://www.eurogamer.net/battlefield-6-secuty-typo-five-pistol-skin-devs-respond",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/battlefield-6-secuty-typo-five-pistol-skin-devs-respond",
+          "titre": "Battlefield 6 devs to fix \"Secuty\" skin typo, but five-pistol outfit was intentional"
+        }
+      ]
+    },
+    {
+      "id": "the-outlast-trials-initial-playtests-went-poorly-designer-sa",
+      "titre": "The Outlast Trials' initial playtests went poorly: Designer says 6-year development took 'a f**king long time' and 'a s**t-ton of prototypes'",
+      "url": "https://www.pcgamer.com/games/horror/the-outlast-trials-initial-playtests-went-poorly-designer-says-6-year-development-took-a-f-king-long-time-and-a-s-t-ton-of-prototypes/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/the-outlast-trials-initial-playtests-went-poorly-designer-says-6-year-development-took-a-f-king-long-time-and-a-s-t-ton-of-prototypes/",
+          "titre": "The Outlast Trials' initial playtests went poorly: Designer says 6-year development took 'a f**king long time' and 'a s**t-ton of prototypes'"
+        }
+      ]
+    },
+    {
+      "id": "no-soundtrack-does-it-like-hades-2",
+      "titre": "No soundtrack does it like Hades 2",
+      "url": "https://www.pcgamer.com/games/roguelike/no-soundtrack-does-it-like-hades-2/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/roguelike/no-soundtrack-does-it-like-hades-2/",
+          "titre": "No soundtrack does it like Hades 2"
+        }
+      ]
+    },
+    {
+      "id": "frozen-trail-finally-puts-the-raid-in-arc-raiders",
+      "titre": "Frozen Trail finally puts the 'raid' in Arc Raiders",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/frozen-trail-finally-puts-the-raid-in-arc-raiders/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/frozen-trail-finally-puts-the-raid-in-arc-raiders/",
+          "titre": "Frozen Trail finally puts the 'raid' in Arc Raiders"
+        }
+      ]
+    },
+    {
+      "id": "feature-the-seven-year-silence-how-ocarina-of-time-held-my-g",
+      "titre": "Feature: The Seven-Year Silence: How Ocarina Of Time Held My Grief At Seven Years Old",
+      "url": "https://www.nintendolife.com/features/the-seven-year-silence-how-ocarina-of-time-held-my-grief-at-seven-years-old",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 34.6,
-      "chaleur": 5,
+      "heures": 7.4,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/cult-of-the-lamb-summons-a-switch-2-version-free-upgrade-path-confirmed",
-          "titre": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed"
+          "url": "https://www.nintendolife.com/features/the-seven-year-silence-how-ocarina-of-time-held-my-grief-at-seven-years-old",
+          "titre": "Feature: The Seven-Year Silence: How Ocarina Of Time Held My Grief At Seven Years Old"
+        }
+      ]
+    },
+    {
+      "id": "there-were-a-lot-of-disagreements-across-the-place-former-m",
+      "titre": "'There were a lot of disagreements across the place': Former Marathon director Joe Ziegler on leading Bungie's extraction shooter, playing Path of Exile for 3,437 hours, and why he'll never uninstall Kingdom Hearts",
+      "url": "https://www.pcgamer.com/gaming-industry/there-were-a-lot-of-disagreements-across-the-place-former-marathon-director-joe-ziegler-on-leading-bungies-extraction-shooter-playing-path-of-exile-for-3-437-hours-and-why-hell-never-uninstall-kingdom-hearts/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/there-were-a-lot-of-disagreements-across-the-place-former-marathon-director-joe-ziegler-on-leading-bungies-extraction-shooter-playing-path-of-exile-for-3-437-hours-and-why-hell-never-uninstall-kingdom-hearts/",
+          "titre": "'There were a lot of disagreements across the place': Former Marathon director Joe Ziegler on leading Bungie's extraction shooter, playing Path of Exile for 3,437 hours, and why he'll never uninstall Kingdom Hearts"
+        }
+      ]
+    },
+    {
+      "id": "god-of-war-laufey-s-130-collector-box-doesn-t-come-with-the",
+      "titre": "God of War Laufey's £130 Collector Box doesn't come with the game",
+      "url": "https://www.eurogamer.net/god-of-war-laufey-collector-box-no-game",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 7.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/god-of-war-laufey-collector-box-no-game",
+          "titre": "God of War Laufey's £130 Collector Box doesn't come with the game"
         }
       ]
     },
@@ -395,7 +401,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -413,7 +419,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -431,7 +437,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -449,8 +455,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.6,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -467,8 +473,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -485,8 +491,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -503,8 +509,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 14.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -521,7 +527,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 16.4,
       "chaleur": 3,
       "liens": [
         {
@@ -539,7 +545,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 23.4,
       "chaleur": 3,
       "liens": [
         {
@@ -557,7 +563,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.7,
+      "heures": 24.5,
       "chaleur": 3,
       "liens": [
         {
@@ -575,7 +581,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.1,
+      "heures": 25.9,
       "chaleur": 3,
       "liens": [
         {
@@ -593,7 +599,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.1,
+      "heures": 26.9,
       "chaleur": 3,
       "liens": [
         {
@@ -611,7 +617,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.1,
+      "heures": 26.9,
       "chaleur": 3,
       "liens": [
         {
@@ -629,7 +635,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 27.3,
       "chaleur": 3,
       "liens": [
         {
@@ -647,7 +653,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.6,
+      "heures": 27.4,
       "chaleur": 3,
       "liens": [
         {
@@ -665,7 +671,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.0,
+      "heures": 27.8,
       "chaleur": 3,
       "liens": [
         {
@@ -683,7 +689,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.6,
+      "heures": 28.4,
       "chaleur": 3,
       "liens": [
         {
@@ -701,7 +707,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.1,
+      "heures": 28.9,
       "chaleur": 3,
       "liens": [
         {
@@ -719,7 +725,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 29.3,
       "chaleur": 3,
       "liens": [
         {
@@ -737,7 +743,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 25.6,
+      "heures": 29.4,
       "chaleur": 3,
       "liens": [
         {
@@ -755,7 +761,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 25.6,
+      "heures": 29.4,
       "chaleur": 3,
       "liens": [
         {
@@ -773,7 +779,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.6,
+      "heures": 30.4,
       "chaleur": 3,
       "liens": [
         {
@@ -784,38 +790,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "this-game-about-grinding-mute-lumps-of-shapeless-flesh-has-m",
-      "titre": "This game about grinding mute lumps of shapeless flesh has made me realise I've been hornswoggled by capitalism",
-      "url": "https://www.pcgamer.com/games/horror/this-game-about-grinding-mute-lumps-of-shapeless-flesh-has-made-me-realise-ive-been-hornswoggled-by-capitalism/",
+      "id": "poll-are-you-hyped-for-october-s-9-new-ps-plus-games",
+      "titre": "Poll: Are You Hyped for October's 9 New PS Plus Games?",
+      "url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-octobers-9-new-ps-plus-games",
       "sources": [
-        "PC Gamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.6,
+      "heures": 34.4,
       "chaleur": 3,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/this-game-about-grinding-mute-lumps-of-shapeless-flesh-has-made-me-realise-ive-been-hornswoggled-by-capitalism/",
-          "titre": "This game about grinding mute lumps of shapeless flesh has made me realise I've been hornswoggled by capitalism"
-        }
-      ]
-    },
-    {
-      "id": "ghostwire-tokyo-joins-gog-preservation-program-which-means-y",
-      "titre": "Ghostwire: Tokyo joins GOG Preservation Program, which means you don't have to deal with Bethesda.NET anymore",
-      "url": "https://www.pcgamer.com/games/action/ghostwire-tokyo-joins-gog-preservation-program-which-means-you-dont-have-to-deal-with-bethesda-net-anymore/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 26.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/ghostwire-tokyo-joins-gog-preservation-program-which-means-you-dont-have-to-deal-with-bethesda-net-anymore/",
-          "titre": "Ghostwire: Tokyo joins GOG Preservation Program, which means you don't have to deal with Bethesda.NET anymore"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-octobers-9-new-ps-plus-games",
+          "titre": "Poll: Are You Hyped for October's 9 New PS Plus Games?"
         }
       ]
     },
@@ -827,49 +815,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 31.3,
+      "heures": 35.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/blood-of-dawnwalker-update-1-1-story-mode-pet-animals",
           "titre": "The Blood of Dawnwalker Update 1.1 adds an easier Story mode, a respec potion and animal petting"
-        }
-      ]
-    },
-    {
-      "id": "art-of-rally-follow-up-over-the-hill-s-biggest-success-is-fi",
-      "titre": "Art of Rally follow-up Over the Hill's biggest success is finding a way to be a driving game that asks you to take it slow",
-      "url": "https://www.eurogamer.net/over-the-hill-now-playing",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 33.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/over-the-hill-now-playing",
-          "titre": "Art of Rally follow-up Over the Hill's biggest success is finding a way to be a driving game that asks you to take it slow"
-        }
-      ]
-    },
-    {
-      "id": "what-we-ve-been-playing-i-simply-didn-t-know-if-a-first-pers",
-      "titre": "What we've been playing - \"I simply didn't know if a first-person shooter could work as a Soulslike\"",
-      "url": "https://www.eurogamer.net/what-weve-been-plaing-guns-of-eschaton-ftl-marvel-cosmic-invasion",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/what-weve-been-plaing-guns-of-eschaton-ftl-marvel-cosmic-invasion",
-          "titre": "What we've been playing - \"I simply didn't know if a first-person shooter could work as a Soulslike\""
         }
       ]
     }
