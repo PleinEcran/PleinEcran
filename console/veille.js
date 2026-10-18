@@ -1,8 +1,62 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "18/10/2026 à 10h54",
+  "collecte": "18/10/2026 à 15h46",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "samson-dev-liquid-swords-has-reportedly-gone-bankrupt",
+      "titre": "Samson dev Liquid Swords has reportedly gone bankrupt",
+      "url": "https://www.eurogamer.net/liquid-swords-samson-developer-bankrupt",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 4,
+      "heures": 0.4,
+      "chaleur": 17,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/liquid-swords-samson-developer-bankrupt",
+          "titre": "Samson dev Liquid Swords has reportedly gone bankrupt"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/samson-developer-liquid-swords-is-facing-bankruptcy/",
+          "titre": "Samson developer Liquid Swords is facing bankruptcy"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months/",
+          "titre": "Liquid Swords, developer of open-city crime sim Samson, has gone bankrupt following staff claims that they haven't been paid in two months"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/oh-dear-half-a-year-after-launching-samson-swedish-developer-liquid-swords-have-filed-for-bankruptcy",
+          "titre": "Oh dear, half a year after launching Samson, Swedish developer Liquid Swords have filed for bankruptcy"
+        }
+      ]
+    },
+    {
+      "id": "mailbox-rising-costs-non-compliant-eu-switches-warioware-fan",
+      "titre": "Mailbox: Rising Costs, Non-Compliant EU Switches, WarioWare Fantasia - Nintendo Life Letters",
+      "url": "https://www.nintendolife.com/news/2026/10/mailbox-rising-costs-non-compliant-eu-switches-warioware-fantasia-nintendo-life-letters",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/mailbox-rising-costs-non-compliant-eu-switches-warioware-fantasia-nintendo-life-letters",
+          "titre": "Mailbox: Rising Costs, Non-Compliant EU Switches, WarioWare Fantasia - Nintendo Life Letters"
+        }
+      ]
+    },
     {
       "id": "poll-are-you-hyped-for-october-s-9-new-ps-plus-games",
       "titre": "Poll: Are You Hyped for October's 9 New PS Plus Games?",
@@ -13,7 +67,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 22.9,
+      "heures": 27.8,
       "chaleur": 9,
       "liens": [
         {
@@ -34,6 +88,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "playstation-6-s-memory-costs-alone-exceed-680-per-console-it",
+      "titre": "PlayStation 6’s memory costs alone exceed $680 per console, it’s claimed",
+      "url": "https://www.videogameschronicle.com/news/playstation-6s-memory-costs-alone-exceed-680-per-console-its-claimed/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 3.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/playstation-6s-memory-costs-alone-exceed-680-per-console-its-claimed/",
+          "titre": "PlayStation 6’s memory costs alone exceed $680 per console, it’s claimed"
+        }
+      ]
+    },
+    {
       "id": "gameplay-footage-emerges-of-reportedly-cancelled-assassin-s",
       "titre": "Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny",
       "url": "https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent",
@@ -41,13 +113,103 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 27.1,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent",
           "titre": "Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny"
+        }
+      ]
+    },
+    {
+      "id": "feature-the-seven-year-silence-how-ocarina-of-time-held-my-g",
+      "titre": "Feature: The Seven-Year Silence: How Ocarina Of Time Held My Grief At Seven Years Old",
+      "url": "https://www.nintendolife.com/features/the-seven-year-silence-how-ocarina-of-time-held-my-grief-at-seven-years-old",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/the-seven-year-silence-how-ocarina-of-time-held-my-grief-at-seven-years-old",
+          "titre": "Feature: The Seven-Year Silence: How Ocarina Of Time Held My Grief At Seven Years Old"
+        }
+      ]
+    },
+    {
+      "id": "there-were-a-lot-of-disagreements-across-the-place-former-m",
+      "titre": "'There were a lot of disagreements across the place': Former Marathon director Joe Ziegler on leading Bungie's extraction shooter, playing Path of Exile for 3,437 hours, and why he'll never uninstall Kingdom Hearts",
+      "url": "https://www.pcgamer.com/gaming-industry/there-were-a-lot-of-disagreements-across-the-place-former-marathon-director-joe-ziegler-on-leading-bungies-extraction-shooter-playing-path-of-exile-for-3-437-hours-and-why-hell-never-uninstall-kingdom-hearts/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/there-were-a-lot-of-disagreements-across-the-place-former-marathon-director-joe-ziegler-on-leading-bungies-extraction-shooter-playing-path-of-exile-for-3-437-hours-and-why-hell-never-uninstall-kingdom-hearts/",
+          "titre": "'There were a lot of disagreements across the place': Former Marathon director Joe Ziegler on leading Bungie's extraction shooter, playing Path of Exile for 3,437 hours, and why he'll never uninstall Kingdom Hearts"
+        }
+      ]
+    },
+    {
+      "id": "god-of-war-laufey-s-130-collector-box-doesn-t-come-with-the",
+      "titre": "God of War Laufey's £130 Collector Box doesn't come with the game",
+      "url": "https://www.eurogamer.net/god-of-war-laufey-collector-box-no-game",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/god-of-war-laufey-collector-box-no-game",
+          "titre": "God of War Laufey's £130 Collector Box doesn't come with the game"
+        }
+      ]
+    },
+    {
+      "id": "konami-boss-says-ai-can-t-replace-the-human-chemistry-behind",
+      "titre": "Konami boss says AI can’t replace the human chemistry behind great games",
+      "url": "https://www.videogameschronicle.com/news/konami-boss-says-ai-cant-replace-the-human-chemistry-behind-great-games/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 3.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/konami-boss-says-ai-cant-replace-the-human-chemistry-behind-great-games/",
+          "titre": "Konami boss says AI can’t replace the human chemistry behind great games"
+        }
+      ]
+    },
+    {
+      "id": "clive-barker-says-he-s-genuinely-astonished-by-hellraiser-re",
+      "titre": "Clive Barker says he's 'genuinely astonished' by Hellraiser: Revival: 'I'm proud as f**k at the end result'",
+      "url": "https://www.pcgamer.com/games/horror/clive-barker-says-hes-genuinely-astonished-by-hellraiser-revival-im-proud-as-f-k-at-the-end-result/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/clive-barker-says-hes-genuinely-astonished-by-hellraiser-revival-im-proud-as-f-k-at-the-end-result/",
+          "titre": "Clive Barker says he's 'genuinely astonished' by Hellraiser: Revival: 'I'm proud as f**k at the end result'"
         }
       ]
     },
@@ -59,139 +221,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 7,
+      "heures": 15.8,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/i-dont-think-were-seeing-it-here-gta-6-launch-trailer-not-using-ps5s-new-qssr-upscaler",
           "titre": "'I Don't Think We're Seeing It Here': GTA 6 Launch Trailer Not Using PS5's New QSSR Upscaler"
-        }
-      ]
-    },
-    {
-      "id": "the-wolf-among-us-remastered-has-been-delayed-for-switch",
-      "titre": "The Wolf Among Us Remastered Has Been Delayed For Switch",
-      "url": "https://www.nintendolife.com/news/2026/10/the-wolf-among-us-remastered-has-been-delayed-for-switch",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 33.0,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/the-wolf-among-us-remastered-has-been-delayed-for-switch",
-          "titre": "The Wolf Among Us Remastered Has Been Delayed For Switch"
-        }
-      ]
-    },
-    {
-      "id": "the-sunday-papers",
-      "titre": "The Sunday Papers",
-      "url": "https://www.rockpapershotgun.com/the-sunday-papers-832",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 0.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-sunday-papers-832",
-          "titre": "The Sunday Papers"
-        }
-      ]
-    },
-    {
-      "id": "liquid-swords-developer-of-open-city-crime-sim-samson-has-go",
-      "titre": "Liquid Swords, developer of open-city crime sim Samson, has gone bankrupt following staff claims that they haven't been paid in two months",
-      "url": "https://www.pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months/",
-          "titre": "Liquid Swords, developer of open-city crime sim Samson, has gone bankrupt following staff claims that they haven't been paid in two months"
-        }
-      ]
-    },
-    {
-      "id": "in-the-age-of-ai-one-man-spent-years-squeezing-an-entire-mus",
-      "titre": "In the age of AI, one man spent years squeezing an entire museum onto a Game Boy - Why? For the most human of reasons",
-      "url": "https://www.eurogamer.net/game-boy-musuem-cartridge-marcel-pflug",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/game-boy-musuem-cartridge-marcel-pflug",
-          "titre": "In the age of AI, one man spent years squeezing an entire museum onto a Game Boy - Why? For the most human of reasons"
-        }
-      ]
-    },
-    {
-      "id": "feature-box-art-brawl-duel-metal-slug-advance-gba",
-      "titre": "Feature: Box Art Brawl - Duel: Metal Slug Advance (GBA)",
-      "url": "https://www.nintendolife.com/features/box-art-brawl-duel-metal-slug-advance-gba",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/box-art-brawl-duel-metal-slug-advance-gba",
-          "titre": "Feature: Box Art Brawl - Duel: Metal Slug Advance (GBA)"
-        }
-      ]
-    },
-    {
-      "id": "round-up-the-reviews-for-call-of-duty-modern-warfare-4-s-cam",
-      "titre": "Round Up: The Reviews For Call Of Duty: Modern Warfare 4's Campaign Are In",
-      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-call-of-duty-modern-warfare-4s-campaign-are-in",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-call-of-duty-modern-warfare-4s-campaign-are-in",
-          "titre": "Round Up: The Reviews For Call Of Duty: Modern Warfare 4's Campaign Are In"
-        }
-      ]
-    },
-    {
-      "id": "dragon-s-dogma-2-dark-arisen-switch-2-update-currently-in-de",
-      "titre": "Dragon's Dogma 2: Dark Arisen Switch 2 Update Currently In Development",
-      "url": "https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-switch-2-update-currently-in-development",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 7.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-switch-2-update-currently-in-development",
-          "titre": "Dragon's Dogma 2: Dark Arisen Switch 2 Update Currently In Development"
         }
       ]
     },
@@ -204,7 +240,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 13.0,
+      "heures": 17.9,
       "chaleur": 6,
       "liens": [
         {
@@ -228,7 +264,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 21.0,
+      "heures": 25.9,
       "chaleur": 6,
       "liens": [
         {
@@ -244,20 +280,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-m",
-      "titre": "PS5 JRPG Atelier Karia Adding GTA San Andreas-Style Weight Mechanic After Overwhelming Fan Vote",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-mechanic-after-overwhelming-fan-vote",
+      "id": "dragon-s-dogma-2-dark-arisen-switch-2-update-currently-in-de",
+      "titre": "Dragon's Dogma 2: Dark Arisen Switch 2 Update Currently In Development",
+      "url": "https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-switch-2-update-currently-in-development",
       "sources": [
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 34.9,
-      "chaleur": 6,
+      "heures": 12.7,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-mechanic-after-overwhelming-fan-vote",
-          "titre": "PS5 JRPG Atelier Karia Adding GTA San Andreas-Style Weight Mechanic After Overwhelming Fan Vote"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-switch-2-update-currently-in-development",
+          "titre": "Dragon's Dogma 2: Dark Arisen Switch 2 Update Currently In Development"
         }
       ]
     },
@@ -269,7 +305,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.7,
+      "heures": 26.6,
       "chaleur": 5,
       "liens": [
         {
@@ -287,7 +323,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 26.8,
       "chaleur": 5,
       "liens": [
         {
@@ -305,7 +341,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.9,
+      "heures": 27.8,
       "chaleur": 5,
       "liens": [
         {
@@ -323,7 +359,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.9,
+      "heures": 31.8,
       "chaleur": 5,
       "liens": [
         {
@@ -341,13 +377,103 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.8,
+      "heures": 35.7,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter",
           "titre": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter"
+        }
+      ]
+    },
+    {
+      "id": "outlast-designer-says-that-one-playtester-was-so-upset-by-th",
+      "titre": "Outlast designer says that one playtester was so upset by the horror series they 'ran out of the studio to go cry outside' and didn't return",
+      "url": "https://www.pcgamer.com/games/horror/outlast-designer-says-that-one-playtester-was-so-upset-by-the-horror-series-they-ran-out-of-the-studio-to-go-cry-outside-and-didnt-return/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/outlast-designer-says-that-one-playtester-was-so-upset-by-the-horror-series-they-ran-out-of-the-studio-to-go-cry-outside-and-didnt-return/",
+          "titre": "Outlast designer says that one playtester was so upset by the horror series they 'ran out of the studio to go cry outside' and didn't return"
+        }
+      ]
+    },
+    {
+      "id": "the-sunday-papers",
+      "titre": "The Sunday Papers",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-832",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-sunday-papers-832",
+          "titre": "The Sunday Papers"
+        }
+      ]
+    },
+    {
+      "id": "in-the-age-of-ai-one-man-spent-years-squeezing-an-entire-mus",
+      "titre": "In the age of AI, one man spent years squeezing an entire museum onto a Game Boy - Why? For the most human of reasons",
+      "url": "https://www.eurogamer.net/game-boy-musuem-cartridge-marcel-pflug",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 6.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/game-boy-musuem-cartridge-marcel-pflug",
+          "titre": "In the age of AI, one man spent years squeezing an entire museum onto a Game Boy - Why? For the most human of reasons"
+        }
+      ]
+    },
+    {
+      "id": "feature-box-art-brawl-duel-metal-slug-advance-gba",
+      "titre": "Feature: Box Art Brawl - Duel: Metal Slug Advance (GBA)",
+      "url": "https://www.nintendolife.com/features/box-art-brawl-duel-metal-slug-advance-gba",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 6.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/box-art-brawl-duel-metal-slug-advance-gba",
+          "titre": "Feature: Box Art Brawl - Duel: Metal Slug Advance (GBA)"
+        }
+      ]
+    },
+    {
+      "id": "round-up-the-reviews-for-call-of-duty-modern-warfare-4-s-cam",
+      "titre": "Round Up: The Reviews For Call Of Duty: Modern Warfare 4's Campaign Are In",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-call-of-duty-modern-warfare-4s-campaign-are-in",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 8.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-call-of-duty-modern-warfare-4s-campaign-are-in",
+          "titre": "Round Up: The Reviews For Call Of Duty: Modern Warfare 4's Campaign Are In"
         }
       ]
     },
@@ -359,7 +485,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -377,8 +503,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 16.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -395,7 +521,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -413,7 +539,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
@@ -431,7 +557,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
@@ -449,7 +575,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
@@ -467,7 +593,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 20.7,
       "chaleur": 3,
       "liens": [
         {
@@ -485,7 +611,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 20.8,
       "chaleur": 3,
       "liens": [
         {
@@ -503,7 +629,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 21.2,
       "chaleur": 3,
       "liens": [
         {
@@ -521,7 +647,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 21.8,
       "chaleur": 3,
       "liens": [
         {
@@ -539,7 +665,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 22.3,
       "chaleur": 3,
       "liens": [
         {
@@ -557,7 +683,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 22.7,
       "chaleur": 3,
       "liens": [
         {
@@ -575,7 +701,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 22.8,
       "chaleur": 3,
       "liens": [
         {
@@ -593,7 +719,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 22.8,
       "chaleur": 3,
       "liens": [
         {
@@ -611,7 +737,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 23.8,
       "chaleur": 3,
       "liens": [
         {
@@ -629,31 +755,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 23.8,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/horror/this-game-about-grinding-mute-lumps-of-shapeless-flesh-has-made-me-realise-ive-been-hornswoggled-by-capitalism/",
           "titre": "This game about grinding mute lumps of shapeless flesh has made me realise I've been hornswoggled by capitalism"
-        }
-      ]
-    },
-    {
-      "id": "oh-dear-half-a-year-after-launching-samson-swedish-developer",
-      "titre": "Oh dear, half a year after launching Samson, Swedish developer Liquid Swords have filed for bankruptcy",
-      "url": "https://www.rockpapershotgun.com/oh-dear-half-a-year-after-launching-samson-swedish-developer-liquid-swords-have-filed-for-bankruptcy",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 18.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/oh-dear-half-a-year-after-launching-samson-swedish-developer-liquid-swords-have-filed-for-bankruptcy",
-          "titre": "Oh dear, half a year after launching Samson, Swedish developer Liquid Swords have filed for bankruptcy"
         }
       ]
     },
@@ -665,7 +773,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.2,
+      "heures": 24.0,
       "chaleur": 3,
       "liens": [
         {
@@ -683,7 +791,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 27.7,
       "chaleur": 3,
       "liens": [
         {
@@ -701,7 +809,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 29.2,
       "chaleur": 3,
       "liens": [
         {
@@ -719,7 +827,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.9,
+      "heures": 30.8,
       "chaleur": 3,
       "liens": [
         {
@@ -737,7 +845,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.9,
+      "heures": 32.8,
       "chaleur": 3,
       "liens": [
         {
@@ -755,7 +863,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.9,
+      "heures": 33.8,
       "chaleur": 3,
       "liens": [
         {
@@ -764,43 +872,9 @@ const VEILLE = {
           "titre": "Surprise! Aspyr Is Remastering A Shrek Game"
         }
       ]
-    },
-    {
-      "id": "reminder-sonic-racing-crossworlds-final-content-drop-of-year",
-      "titre": "Reminder: Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Is Now Available",
-      "url": "https://www.nintendolife.com/news/2026/10/reminder-sonic-racing-crossworlds-final-content-drop-of-year-one-is-now-available",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 34.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/reminder-sonic-racing-crossworlds-final-content-drop-of-year-one-is-now-available",
-          "titre": "Reminder: Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Is Now Available"
-        }
-      ]
-    },
-    {
-      "id": "tech-founder-criticized-for-vibe-coding-game-about-shooting",
-      "titre": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood",
-      "url": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 35.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
-          "titre": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Samson dev Liquid Swords has reportedly gone bankrupt"
+  ]
 };
