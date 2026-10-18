@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "18/10/2026 à 15h46",
+  "collecte": "18/10/2026 à 18h34",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 0.4,
+      "heures": 3.2,
       "chaleur": 17,
       "liens": [
         {
@@ -40,20 +40,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mailbox-rising-costs-non-compliant-eu-switches-warioware-fan",
-      "titre": "Mailbox: Rising Costs, Non-Compliant EU Switches, WarioWare Fantasia - Nintendo Life Letters",
-      "url": "https://www.nintendolife.com/news/2026/10/mailbox-rising-costs-non-compliant-eu-switches-warioware-fantasia-nintendo-life-letters",
+      "id": "the-ps6-s-memory-and-storage-alone-reportedly-cost-more-than",
+      "titre": "The PS6's memory and storage alone reportedly cost more than $680",
+      "url": "https://www.eurogamer.net/ps6-ram-nand-costs-over-680-keplerl2",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 9,
+      "reprises": 2,
+      "heures": 1.4,
+      "chaleur": 13,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/mailbox-rising-costs-non-compliant-eu-switches-warioware-fantasia-nintendo-life-letters",
-          "titre": "Mailbox: Rising Costs, Non-Compliant EU Switches, WarioWare Fantasia - Nintendo Life Letters"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ps6-ram-nand-costs-over-680-keplerl2",
+          "titre": "The PS6's memory and storage alone reportedly cost more than $680"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/playstation-6s-memory-costs-alone-exceed-680-per-console-its-claimed/",
+          "titre": "PlayStation 6’s memory costs alone exceed $680 per console, it’s claimed"
         }
       ]
     },
@@ -67,7 +73,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 27.8,
+      "heures": 30.6,
       "chaleur": 9,
       "liens": [
         {
@@ -88,24 +94,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "playstation-6-s-memory-costs-alone-exceed-680-per-console-it",
-      "titre": "PlayStation 6’s memory costs alone exceed $680 per console, it’s claimed",
-      "url": "https://www.videogameschronicle.com/news/playstation-6s-memory-costs-alone-exceed-680-per-console-its-claimed/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/playstation-6s-memory-costs-alone-exceed-680-per-console-its-claimed/",
-          "titre": "PlayStation 6’s memory costs alone exceed $680 per console, it’s claimed"
-        }
-      ]
-    },
-    {
       "id": "gameplay-footage-emerges-of-reportedly-cancelled-assassin-s",
       "titre": "Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny",
       "url": "https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent",
@@ -113,13 +101,103 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.1,
+      "heures": 29.9,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent",
           "titre": "Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny"
+        }
+      ]
+    },
+    {
+      "id": "mailbox-rising-costs-non-compliant-eu-switches-warioware-fan",
+      "titre": "Mailbox: Rising Costs, Non-Compliant EU Switches, WarioWare Fantasia - Nintendo Life Letters",
+      "url": "https://www.nintendolife.com/news/2026/10/mailbox-rising-costs-non-compliant-eu-switches-warioware-fantasia-nintendo-life-letters",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/mailbox-rising-costs-non-compliant-eu-switches-warioware-fantasia-nintendo-life-letters",
+          "titre": "Mailbox: Rising Costs, Non-Compliant EU Switches, WarioWare Fantasia - Nintendo Life Letters"
+        }
+      ]
+    },
+    {
+      "id": "battlefield-6-devs-to-fix-secuty-skin-typo-but-five-pistol-o",
+      "titre": "Battlefield 6 devs to fix \"Secuty\" skin typo, but five-pistol outfit was intentional",
+      "url": "https://www.eurogamer.net/battlefield-6-secuty-typo-five-pistol-skin-devs-respond",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/battlefield-6-secuty-typo-five-pistol-skin-devs-respond",
+          "titre": "Battlefield 6 devs to fix \"Secuty\" skin typo, but five-pistol outfit was intentional"
+        }
+      ]
+    },
+    {
+      "id": "the-outlast-trials-initial-playtests-went-poorly-designer-sa",
+      "titre": "The Outlast Trials' initial playtests went poorly: Designer says 6-year development took 'a f**king long time' and 'a s**t-ton of prototypes'",
+      "url": "https://www.pcgamer.com/games/horror/the-outlast-trials-initial-playtests-went-poorly-designer-says-6-year-development-took-a-f-king-long-time-and-a-s-t-ton-of-prototypes/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/the-outlast-trials-initial-playtests-went-poorly-designer-says-6-year-development-took-a-f-king-long-time-and-a-s-t-ton-of-prototypes/",
+          "titre": "The Outlast Trials' initial playtests went poorly: Designer says 6-year development took 'a f**king long time' and 'a s**t-ton of prototypes'"
+        }
+      ]
+    },
+    {
+      "id": "no-soundtrack-does-it-like-hades-2",
+      "titre": "No soundtrack does it like Hades 2",
+      "url": "https://www.pcgamer.com/games/roguelike/no-soundtrack-does-it-like-hades-2/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/roguelike/no-soundtrack-does-it-like-hades-2/",
+          "titre": "No soundtrack does it like Hades 2"
+        }
+      ]
+    },
+    {
+      "id": "frozen-trail-finally-puts-the-raid-in-arc-raiders",
+      "titre": "Frozen Trail finally puts the 'raid' in Arc Raiders",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/frozen-trail-finally-puts-the-raid-in-arc-raiders/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/frozen-trail-finally-puts-the-raid-in-arc-raiders/",
+          "titre": "Frozen Trail finally puts the 'raid' in Arc Raiders"
         }
       ]
     },
@@ -131,7 +209,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -149,7 +227,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -167,49 +245,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/god-of-war-laufey-collector-box-no-game",
           "titre": "God of War Laufey's £130 Collector Box doesn't come with the game"
-        }
-      ]
-    },
-    {
-      "id": "konami-boss-says-ai-can-t-replace-the-human-chemistry-behind",
-      "titre": "Konami boss says AI can’t replace the human chemistry behind great games",
-      "url": "https://www.videogameschronicle.com/news/konami-boss-says-ai-cant-replace-the-human-chemistry-behind-great-games/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/konami-boss-says-ai-cant-replace-the-human-chemistry-behind-great-games/",
-          "titre": "Konami boss says AI can’t replace the human chemistry behind great games"
-        }
-      ]
-    },
-    {
-      "id": "clive-barker-says-he-s-genuinely-astonished-by-hellraiser-re",
-      "titre": "Clive Barker says he's 'genuinely astonished' by Hellraiser: Revival: 'I'm proud as f**k at the end result'",
-      "url": "https://www.pcgamer.com/games/horror/clive-barker-says-hes-genuinely-astonished-by-hellraiser-revival-im-proud-as-f-k-at-the-end-result/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/clive-barker-says-hes-genuinely-astonished-by-hellraiser-revival-im-proud-as-f-k-at-the-end-result/",
-          "titre": "Clive Barker says he's 'genuinely astonished' by Hellraiser: Revival: 'I'm proud as f**k at the end result'"
         }
       ]
     },
@@ -221,7 +263,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 18.6,
       "chaleur": 6,
       "liens": [
         {
@@ -232,50 +274,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "metal-band-genitorturers-allegedly-claims-a-vampire-the-masq",
-      "titre": "Metal band Genitorturers allegedly claims a Vampire: The Masquerade - Bloodlines remake is coming, getting a dozen crusty nerds way too worked up",
+      "id": "metal-band-genitorturers-claims-a-vampire-the-masquerade-blo",
+      "titre": "Metal band Genitorturers claims a Vampire: The Masquerade - Bloodlines remake is coming, getting a dozen crusty nerds way too worked up",
       "url": "https://www.pcgamer.com/games/rpg/metal-band-genitorturers-allegedly-claims-a-vampire-the-masquerade-bloodlines-remake-is-coming-getting-a-dozen-crusty-nerds-way-too-worked-up/",
       "sources": [
         "Eurogamer",
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 17.9,
+      "heures": 20.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/rpg/metal-band-genitorturers-allegedly-claims-a-vampire-the-masquerade-bloodlines-remake-is-coming-getting-a-dozen-crusty-nerds-way-too-worked-up/",
-          "titre": "Metal band Genitorturers allegedly claims a Vampire: The Masquerade - Bloodlines remake is coming, getting a dozen crusty nerds way too worked up"
+          "titre": "Metal band Genitorturers claims a Vampire: The Masquerade - Bloodlines remake is coming, getting a dozen crusty nerds way too worked up"
         },
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour",
           "titre": "Vampire: The Masquerade - Bloodlines remaster rumoured, with leaker insisting it's not a remake"
-        }
-      ]
-    },
-    {
-      "id": "the-blood-of-dawnwalker-s-first-major-update-will-add-direct",
-      "titre": "The Blood of Dawnwalker's first major update will add directional animal petting and a new story mode that's easier than the previous story mode",
-      "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-first-major-update-will-add-directional-animal-petting-and-a-new-story-mode-thats-easier-than-the-previous-story-mode/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 25.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-first-major-update-will-add-directional-animal-petting-and-a-new-story-mode-thats-easier-than-the-previous-story-mode/",
-          "titre": "The Blood of Dawnwalker's first major update will add directional animal petting and a new story mode that's easier than the previous story mode"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blood-of-dawnwalker-update-1-1-story-mode-pet-animals",
-          "titre": "The Blood of Dawnwalker Update 1.1 adds an easier Story mode, a respec potion and animal petting"
         }
       ]
     },
@@ -287,7 +305,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 15.5,
       "chaleur": 5,
       "liens": [
         {
@@ -305,7 +323,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.6,
+      "heures": 29.4,
       "chaleur": 5,
       "liens": [
         {
@@ -323,7 +341,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.8,
+      "heures": 29.6,
       "chaleur": 5,
       "liens": [
         {
@@ -341,7 +359,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.8,
+      "heures": 30.6,
       "chaleur": 5,
       "liens": [
         {
@@ -359,7 +377,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.8,
+      "heures": 34.6,
       "chaleur": 5,
       "liens": [
         {
@@ -370,20 +388,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-cosy-coastal-farming-sim-coral-island-is-officially-on-i",
-      "titre": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter",
-      "url": "https://www.nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter",
+      "id": "konami-boss-says-ai-can-t-replace-the-human-chemistry-behind",
+      "titre": "Konami boss says AI can’t replace the human chemistry behind great games",
+      "url": "https://www.videogameschronicle.com/news/konami-boss-says-ai-cant-replace-the-human-chemistry-behind-great-games/",
       "sources": [
-        "Nintendo Life"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 35.7,
-      "chaleur": 5,
+      "heures": 5.8,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter",
-          "titre": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/konami-boss-says-ai-cant-replace-the-human-chemistry-behind-great-games/",
+          "titre": "Konami boss says AI can’t replace the human chemistry behind great games"
+        }
+      ]
+    },
+    {
+      "id": "clive-barker-says-he-s-genuinely-astonished-by-hellraiser-re",
+      "titre": "Clive Barker says he's 'genuinely astonished' by Hellraiser: Revival: 'I'm proud as f**k at the end result'",
+      "url": "https://www.pcgamer.com/games/horror/clive-barker-says-hes-genuinely-astonished-by-hellraiser-revival-im-proud-as-f-k-at-the-end-result/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/clive-barker-says-hes-genuinely-astonished-by-hellraiser-revival-im-proud-as-f-k-at-the-end-result/",
+          "titre": "Clive Barker says he's 'genuinely astonished' by Hellraiser: Revival: 'I'm proud as f**k at the end result'"
         }
       ]
     },
@@ -395,7 +431,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -413,7 +449,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -431,7 +467,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -449,7 +485,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -467,7 +503,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.3,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -485,8 +521,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -503,7 +539,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.8,
+      "heures": 19.6,
       "chaleur": 3,
       "liens": [
         {
@@ -521,7 +557,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 20.7,
       "chaleur": 3,
       "liens": [
         {
@@ -539,7 +575,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 22.1,
       "chaleur": 3,
       "liens": [
         {
@@ -557,7 +593,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 23.1,
       "chaleur": 3,
       "liens": [
         {
@@ -575,7 +611,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 23.1,
       "chaleur": 3,
       "liens": [
         {
@@ -593,7 +629,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.7,
+      "heures": 23.5,
       "chaleur": 3,
       "liens": [
         {
@@ -611,7 +647,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.8,
+      "heures": 23.6,
       "chaleur": 3,
       "liens": [
         {
@@ -629,7 +665,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.2,
+      "heures": 24.0,
       "chaleur": 3,
       "liens": [
         {
@@ -647,7 +683,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.8,
+      "heures": 24.6,
       "chaleur": 3,
       "liens": [
         {
@@ -665,7 +701,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 25.1,
       "chaleur": 3,
       "liens": [
         {
@@ -683,31 +719,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.7,
+      "heures": 25.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games",
           "titre": "As too much of the industry embrace their own death through genAI, Konami say it's real people that are most important for making good games"
-        }
-      ]
-    },
-    {
-      "id": "surprising-no-one-wizards-of-the-coast-doesn-t-intend-to-vol",
-      "titre": "Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year",
-      "url": "https://www.pcgamer.com/gaming-industry/surprising-no-one-wizards-of-the-coast-doesnt-intend-to-voluntarily-recognize-union-efforts-for-the-second-time-this-year/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 22.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/surprising-no-one-wizards-of-the-coast-doesnt-intend-to-voluntarily-recognize-union-efforts-for-the-second-time-this-year/",
-          "titre": "Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year"
         }
       ]
     },
@@ -719,13 +737,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 25.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/world-of-warcraft/discussion-time-do-you-think-zone-chats-in-mmos-are-forces-for-good-or-evil/",
           "titre": "Discussion time: Do you think zone chats in MMOs are forces for good, or evil?"
+        }
+      ]
+    },
+    {
+      "id": "surprising-no-one-wizards-of-the-coast-doesn-t-intend-to-vol",
+      "titre": "Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year",
+      "url": "https://www.pcgamer.com/gaming-industry/surprising-no-one-wizards-of-the-coast-doesnt-intend-to-voluntarily-recognize-union-efforts-for-the-second-time-this-year/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 25.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/surprising-no-one-wizards-of-the-coast-doesnt-intend-to-voluntarily-recognize-union-efforts-for-the-second-time-this-year/",
+          "titre": "Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year"
         }
       ]
     },
@@ -737,7 +773,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.8,
+      "heures": 26.6,
       "chaleur": 3,
       "liens": [
         {
@@ -755,7 +791,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.8,
+      "heures": 26.6,
       "chaleur": 3,
       "liens": [
         {
@@ -773,7 +809,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.0,
+      "heures": 26.8,
       "chaleur": 3,
       "liens": [
         {
@@ -784,38 +820,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "developer-cancels-public-demo-of-its-upcoming-horror-drinkin",
-      "titre": "Developer cancels public demo of its upcoming horror drinking game, fearing it will be instantly cloned by AI vibe coders: 'We sincerely apologise for the short notice'",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/developer-cancels-public-demo-of-its-upcoming-horror-drinking-game-fearing-it-will-be-instantly-cloned-by-ai-vibe-coders-we-sincerely-apologise-for-the-short-notice/",
+      "id": "the-blood-of-dawnwalker-update-1-1-adds-an-easier-story-mode",
+      "titre": "The Blood of Dawnwalker Update 1.1 adds an easier Story mode, a respec potion and animal petting",
+      "url": "https://www.eurogamer.net/blood-of-dawnwalker-update-1-1-story-mode-pet-animals",
       "sources": [
-        "PC Gamer"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.7,
+      "heures": 31.3,
       "chaleur": 3,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/developer-cancels-public-demo-of-its-upcoming-horror-drinking-game-fearing-it-will-be-instantly-cloned-by-ai-vibe-coders-we-sincerely-apologise-for-the-short-notice/",
-          "titre": "Developer cancels public demo of its upcoming horror drinking game, fearing it will be instantly cloned by AI vibe coders: 'We sincerely apologise for the short notice'"
-        }
-      ]
-    },
-    {
-      "id": "funcom-is-laying-off-yet-more-developers-as-it-pivots-to-sup",
-      "titre": "Funcom is laying off yet more developers as it pivots to supporting Dune: Awakening and Conan Exiles",
-      "url": "https://www.pcgamer.com/gaming-industry/funcom-is-laying-off-yet-more-developers-as-it-pivots-to-supporting-dune-awakening-and-conan-exiles/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 29.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/funcom-is-laying-off-yet-more-developers-as-it-pivots-to-supporting-dune-awakening-and-conan-exiles/",
-          "titre": "Funcom is laying off yet more developers as it pivots to supporting Dune: Awakening and Conan Exiles"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/blood-of-dawnwalker-update-1-1-story-mode-pet-animals",
+          "titre": "The Blood of Dawnwalker Update 1.1 adds an easier Story mode, a respec potion and animal petting"
         }
       ]
     },
@@ -827,7 +845,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.8,
+      "heures": 33.6,
       "chaleur": 3,
       "liens": [
         {
@@ -845,7 +863,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 32.8,
+      "heures": 35.6,
       "chaleur": 3,
       "liens": [
         {
@@ -854,27 +872,7 @@ const VEILLE = {
           "titre": "What we've been playing - \"I simply didn't know if a first-person shooter could work as a Soulslike\""
         }
       ]
-    },
-    {
-      "id": "surprise-aspyr-is-remastering-a-shrek-game",
-      "titre": "Surprise! Aspyr Is Remastering A Shrek Game",
-      "url": "https://www.nintendolife.com/news/2026/10/surprise-aspyr-is-remastering-a-shrek-game",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 33.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/surprise-aspyr-is-remastering-a-shrek-game",
-          "titre": "Surprise! Aspyr Is Remastering A Shrek Game"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "Samson dev Liquid Swords has reportedly gone bankrupt"
-  ]
+  "alertes": []
 };
