@@ -1,32 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "17/10/2026 à 23h58",
+  "collecte": "18/10/2026 à 04h19",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "gameplay-footage-emerges-of-reportedly-cancelled-assassin-s",
-      "titre": "Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny",
-      "url": "https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 11.3,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent",
-          "titre": "Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ubisoft-were-working-on-a-second-assassins-creed-game-set-in-qin-dynasty-china-if-this-allegedly-leaked-footage-is-to-be-believed",
-          "titre": "Ubisoft were working on a second Assassin's Creed game set in Qin Dynasty China, if this allegedly leaked footage is to be believed"
-        }
-      ]
-    },
     {
       "id": "the-blood-of-dawnwalker-s-first-major-update-will-add-direct",
       "titre": "The Blood of Dawnwalker's first major update will add directional animal petting and a new story mode that's easier than the previous story mode",
@@ -37,8 +13,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 10.1,
-      "chaleur": 10,
+      "heures": 14.4,
+      "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
@@ -67,8 +43,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 12.0,
-      "chaleur": 10,
+      "heures": 16.3,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Push Square",
@@ -88,6 +64,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "dragon-s-dogma-2-dark-arisen-switch-2-update-currently-in-de",
+      "titre": "Dragon's Dogma 2: Dark Arisen Switch 2 Update Currently In Development",
+      "url": "https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-switch-2-update-currently-in-development",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-switch-2-update-currently-in-development",
+          "titre": "Dragon's Dogma 2: Dark Arisen Switch 2 Update Currently In Development"
+        }
+      ]
+    },
+    {
+      "id": "gameplay-footage-emerges-of-reportedly-cancelled-assassin-s",
+      "titre": "Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny",
+      "url": "https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 15.7,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent",
+          "titre": "Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny"
+        }
+      ]
+    },
+    {
+      "id": "i-don-t-think-we-re-seeing-it-here-gta-6-launch-trailer-not",
+      "titre": "'I Don't Think We're Seeing It Here': GTA 6 Launch Trailer Not Using PS5's New QSSR Upscaler",
+      "url": "https://www.pushsquare.com/news/2026/10/i-dont-think-were-seeing-it-here-gta-6-launch-trailer-not-using-ps5s-new-qssr-upscaler",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/i-dont-think-were-seeing-it-here-gta-6-launch-trailer-not-using-ps5s-new-qssr-upscaler",
+          "titre": "'I Don't Think We're Seeing It Here': GTA 6 Launch Trailer Not Using PS5's New QSSR Upscaler"
+        }
+      ]
+    },
+    {
       "id": "metal-band-genitorturers-allegedly-claims-a-vampire-the-masq",
       "titre": "Metal band Genitorturers allegedly claims a Vampire: The Masquerade - Bloodlines remake is coming, getting a dozen crusty nerds way too worked up",
       "url": "https://www.pcgamer.com/games/rpg/metal-band-genitorturers-allegedly-claims-a-vampire-the-masquerade-bloodlines-remake-is-coming-getting-a-dozen-crusty-nerds-way-too-worked-up/",
@@ -96,8 +126,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 2.1,
-      "chaleur": 9,
+      "heures": 6.5,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -112,30 +142,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-am-overwhelmed-and-overstimulated-the-actor-behind-star-w",
-      "titre": "'I am overwhelmed and overstimulated': The actor behind Star Wars: Galactic Racer’s Biddy Blas is scribbing doon all your enthusiasm",
-      "url": "https://www.pcgamer.com/games/racing/i-am-overwhelmed-and-overstimulated-the-actor-behind-star-wars-galactic-racers-biddy-blas-is-scribbing-doon-all-your-enthusiasm/",
-      "sources": [
-        "GamesIndustry.biz",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 5.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/racing/i-am-overwhelmed-and-overstimulated-the-actor-behind-star-wars-galactic-racers-biddy-blas-is-scribbing-doon-all-your-enthusiasm/",
-          "titre": "'I am overwhelmed and overstimulated': The actor behind Star Wars: Galactic Racer’s Biddy Blas is scribbing doon all your enthusiasm"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/the-netflix-series-drive-to-survive-inspired-star-wars-galactic-racer",
-          "titre": "The Netflix series Drive to Survive inspired Star Wars: Galactic Racer"
-        }
-      ]
-    },
-    {
       "id": "the-wolf-among-us-remastered-has-been-delayed-for-switch",
       "titre": "The Wolf Among Us Remastered Has Been Delayed For Switch",
       "url": "https://www.nintendolife.com/news/2026/10/the-wolf-among-us-remastered-has-been-delayed-for-switch",
@@ -143,7 +149,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.1,
+      "heures": 26.4,
       "chaleur": 7,
       "liens": [
         {
@@ -154,56 +160,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ps6-price-tag-facing-1-000-nightmare-as-ai-data-centres-send",
-      "titre": "PS6 Price Tag Facing $1,000+ Nightmare as AI Data Centres Send Component Costs Soaring",
-      "url": "https://www.pushsquare.com/news/2026/10/ps6-price-tag-facing-usd1000plus-nightmare-as-ai-data-centres-send-component-costs-soaring",
+      "id": "ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-m",
+      "titre": "PS5 JRPG Atelier Karia Adding GTA San Andreas-Style Weight Mechanic After Overwhelming Fan Vote",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-mechanic-after-overwhelming-fan-vote",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 28.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps6-price-tag-facing-usd1000plus-nightmare-as-ai-data-centres-send-component-costs-soaring",
-          "titre": "PS6 Price Tag Facing $1,000+ Nightmare as AI Data Centres Send Component Costs Soaring"
+          "url": "https://www.pushsquare.com/news/2026/10/ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-mechanic-after-overwhelming-fan-vote",
+          "titre": "PS5 JRPG Atelier Karia Adding GTA San Andreas-Style Weight Mechanic After Overwhelming Fan Vote"
         }
       ]
     },
     {
-      "id": "rain98-is-a-blue-hued-pre-y2k-serial-experiments-lain-inspir",
-      "titre": "Rain98 is a blue-hued, pre-Y2K, Serial Experiments Lain inspired visual novel about time travelling to the past to end the world",
-      "url": "https://www.rockpapershotgun.com/rain98-is-a-blue-hued-pre-y2k-serial-experiments-lain-inspired-visual-novel-about-time-travelling-to-the-past-to-end-the-world",
+      "id": "we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribe",
+      "titre": "'We f**ked up': 1 day into Wardogs Season 2, the Blue team bribery bonus is being dropped",
+      "url": "https://www.pcgamer.com/games/fps/we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribery-bonus-is-being-dropped/",
       "sources": [
+        "PC Gamer",
         "Rock Paper Shotgun"
       ],
-      "reprises": 1,
-      "heures": 2.1,
+      "reprises": 2,
+      "heures": 32.6,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/rain98-is-a-blue-hued-pre-y2k-serial-experiments-lain-inspired-visual-novel-about-time-travelling-to-the-past-to-end-the-world",
-          "titre": "Rain98 is a blue-hued, pre-Y2K, Serial Experiments Lain inspired visual novel about time travelling to the past to end the world"
-        }
-      ]
-    },
-    {
-      "id": "black-white-3-doesn-t-sound-like-it-s-ever-going-to-happen-b",
-      "titre": "Black & White 3 doesn't sound like it's ever going to happen, but good ole overpromising Peter Molyneux may have let slip about a remaster of the original",
-      "url": "https://www.rockpapershotgun.com/black-white-3-doesnt-sound-like-its-ever-going-to-happen-but-good-ole-overpromising-peter-molyneux-may-have-let-slip-about-a-remaster-of-the-original",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribery-bonus-is-being-dropped/",
+          "titre": "'We f**ked up': 1 day into Wardogs Season 2, the Blue team bribery bonus is being dropped"
+        },
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/black-white-3-doesnt-sound-like-its-ever-going-to-happen-but-good-ole-overpromising-peter-molyneux-may-have-let-slip-about-a-remaster-of-the-original",
-          "titre": "Black & White 3 doesn't sound like it's ever going to happen, but good ole overpromising Peter Molyneux may have let slip about a remaster of the original"
+          "url": "https://www.rockpapershotgun.com/we-were-wrong-wardogs-devs-end-season-2s-team-specific-cash-and-xp-bonus-experiment-after-a-single-tumultuous-day",
+          "titre": "\"We were wrong\": Wardogs devs end Season 2's team-specific cash and XP bonus experiment after a single, tumultuous day"
         }
       ]
     },
@@ -215,8 +209,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 6,
+      "heures": 15.1,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
@@ -233,8 +227,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 6,
+      "heures": 15.3,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -251,97 +245,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.0,
-      "chaleur": 6,
+      "heures": 16.3,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/call-of-duty-on-switch-2-has-two-different-upscaling-options",
           "titre": "Call Of Duty On Switch 2 Has Two Different Upscaling Options"
-        }
-      ]
-    },
-    {
-      "id": "ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-m",
-      "titre": "PS5 JRPG Atelier Karia Adding GTA San Andreas-Style Weight Mechanic After Overwhelming Fan Vote",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-mechanic-after-overwhelming-fan-vote",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 24.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-mechanic-after-overwhelming-fan-vote",
-          "titre": "PS5 JRPG Atelier Karia Adding GTA San Andreas-Style Weight Mechanic After Overwhelming Fan Vote"
-        }
-      ]
-    },
-    {
-      "id": "the-cyberpunk-2077-movie-won-t-be-a-film-adaptation-of-the-g",
-      "titre": "The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says",
-      "url": "https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 25.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/",
-          "titre": "The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cyberpunk-2077-movie-wont-be-a-one-to-one-translation-of-the-games-story-cd-projekt-red-boss-confirms-and-boy-do-i-think-thats-the-right-move",
-          "titre": "Cyberpunk 2077 movie \"won't be a one-to-one translation of the game's story\", CD Projekt Red boss confirms, and boy do I think that's the right move"
-        }
-      ]
-    },
-    {
-      "id": "we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribe",
-      "titre": "'We f**ked up': 1 day into Wardogs Season 2, the Blue team bribery bonus is being dropped",
-      "url": "https://www.pcgamer.com/games/fps/we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribery-bonus-is-being-dropped/",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 28.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribery-bonus-is-being-dropped/",
-          "titre": "'We f**ked up': 1 day into Wardogs Season 2, the Blue team bribery bonus is being dropped"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/we-were-wrong-wardogs-devs-end-season-2s-team-specific-cash-and-xp-bonus-experiment-after-a-single-tumultuous-day",
-          "titre": "\"We were wrong\": Wardogs devs end Season 2's team-specific cash and XP bonus experiment after a single, tumultuous day"
-        }
-      ]
-    },
-    {
-      "id": "sony-s-multi-million-dollar-gta-6-ps5-marketing-strategy-is",
-      "titre": "Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working",
-      "url": "https://www.pushsquare.com/news/2026/10/sonys-multi-million-dollar-gta-6-ps5-marketing-strategy-is-already-working",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 34.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sonys-multi-million-dollar-gta-6-ps5-marketing-strategy-is-already-working",
-          "titre": "Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working"
         }
       ]
     },
@@ -353,7 +263,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 20.3,
       "chaleur": 5,
       "liens": [
         {
@@ -371,7 +281,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 24.2,
       "chaleur": 5,
       "liens": [
         {
@@ -389,7 +299,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 30.7,
+      "heures": 35.1,
       "chaleur": 5,
       "liens": [
         {
@@ -407,7 +317,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.8,
+      "heures": 35.1,
       "chaleur": 5,
       "liens": [
         {
@@ -418,74 +328,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "review-the-witch-s-bakery-switch-2-a-cosy-narrative-sim-that",
-      "titre": "Review: The Witch's Bakery (Switch 2) – A Cosy Narrative Sim That Rises To The Occasion",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/the-witchs-bakery",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 33.0,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/the-witchs-bakery",
-          "titre": "Review: The Witch's Bakery (Switch 2) – A Cosy Narrative Sim That Rises To The Occasion"
-        }
-      ]
-    },
-    {
-      "id": "sony-has-caused-friction-between-it-and-playstation-fans-ove",
-      "titre": "Sony Has Caused 'Friction' Between It and PlayStation Fans Over Disc Mess, Says PS1, PS2, PS3 Creator",
-      "url": "https://www.pushsquare.com/news/2026/10/sony-has-caused-friction-between-it-and-playstation-fans-over-disc-mess-says-ps1-ps2-ps3-creator",
+      "id": "ps6-price-tag-facing-1-000-nightmare-as-ai-data-centres-send",
+      "titre": "PS6 Price Tag Facing $1,000+ Nightmare as AI Data Centres Send Component Costs Soaring",
+      "url": "https://www.pushsquare.com/news/2026/10/ps6-price-tag-facing-usd1000plus-nightmare-as-ai-data-centres-send-component-costs-soaring",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 34.0,
-      "chaleur": 5,
+      "heures": 5.3,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sony-has-caused-friction-between-it-and-playstation-fans-over-disc-mess-says-ps1-ps2-ps3-creator",
-          "titre": "Sony Has Caused 'Friction' Between It and PlayStation Fans Over Disc Mess, Says PS1, PS2, PS3 Creator"
+          "url": "https://www.pushsquare.com/news/2026/10/ps6-price-tag-facing-usd1000plus-nightmare-as-ai-data-centres-send-component-costs-soaring",
+          "titre": "PS6 Price Tag Facing $1,000+ Nightmare as AI Data Centres Send Component Costs Soaring"
         }
       ]
     },
     {
-      "id": "fortnite-is-coming-to-linux-so-we-may-soon-be-able-to-play-i",
-      "titre": "Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine",
-      "url": "https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development",
+      "id": "rain98-is-a-blue-hued-pre-y2k-serial-experiments-lain-inspir",
+      "titre": "Rain98 is a blue-hued, pre-Y2K, Serial Experiments Lain inspired visual novel about time travelling to the past to end the world",
+      "url": "https://www.rockpapershotgun.com/rain98-is-a-blue-hued-pre-y2k-serial-experiments-lain-inspired-visual-novel-about-time-travelling-to-the-past-to-end-the-world",
       "sources": [
-        "Eurogamer"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 34.2,
-      "chaleur": 5,
+      "heures": 6.5,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development",
-          "titre": "Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/rain98-is-a-blue-hued-pre-y2k-serial-experiments-lain-inspired-visual-novel-about-time-travelling-to-the-past-to-end-the-world",
+          "titre": "Rain98 is a blue-hued, pre-Y2K, Serial Experiments Lain inspired visual novel about time travelling to the past to end the world"
         }
       ]
     },
     {
-      "id": "ken-kutaragi-understands-why-playstation-fans-don-t-want-to",
-      "titre": "Ken Kutaragi ‘understands’ why PlayStation fans don’t want to give up physical games",
-      "url": "https://www.videogameschronicle.com/news/ken-kutaragi-understands-why-playstation-fans-dont-want-to-give-up-physical-games/",
+      "id": "black-white-3-doesn-t-sound-like-it-s-ever-going-to-happen-b",
+      "titre": "Black & White 3 doesn't sound like it's ever going to happen, but good ole overpromising Peter Molyneux may have let slip about a remaster of the original",
+      "url": "https://www.rockpapershotgun.com/black-white-3-doesnt-sound-like-its-ever-going-to-happen-but-good-ole-overpromising-peter-molyneux-may-have-let-slip-about-a-remaster-of-the-original",
       "sources": [
-        "VGC"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 36.0,
-      "chaleur": 5,
+      "heures": 7.8,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/ken-kutaragi-understands-why-playstation-fans-dont-want-to-give-up-physical-games/",
-          "titre": "Ken Kutaragi ‘understands’ why PlayStation fans don’t want to give up physical games"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/black-white-3-doesnt-sound-like-its-ever-going-to-happen-but-good-ole-overpromising-peter-molyneux-may-have-let-slip-about-a-remaster-of-the-original",
+          "titre": "Black & White 3 doesn't sound like it's ever going to happen, but good ole overpromising Peter Molyneux may have let slip about a remaster of the original"
         }
       ]
     },
@@ -497,7 +389,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -515,7 +407,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -533,7 +425,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 9.2,
       "chaleur": 4,
       "liens": [
         {
@@ -551,13 +443,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/features/going-platinum-stray-is-probably-the-only-game-ive-speedran-for-a-trophy",
           "titre": "Feature: Going Platinum: Stray Is Probably the Only Game I've Speedran for a Trophy"
+        }
+      ]
+    },
+    {
+      "id": "i-am-overwhelmed-and-overstimulated-the-actor-behind-star-w",
+      "titre": "'I am overwhelmed and overstimulated': The actor behind Star Wars: Galactic Racer’s Biddy Blas is scribbing doon all your enthusiasm",
+      "url": "https://www.pcgamer.com/games/racing/i-am-overwhelmed-and-overstimulated-the-actor-behind-star-wars-galactic-racers-biddy-blas-is-scribbing-doon-all-your-enthusiasm/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 9.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/racing/i-am-overwhelmed-and-overstimulated-the-actor-behind-star-wars-galactic-racers-biddy-blas-is-scribbing-doon-all-your-enthusiasm/",
+          "titre": "'I am overwhelmed and overstimulated': The actor behind Star Wars: Galactic Racer’s Biddy Blas is scribbing doon all your enthusiasm"
         }
       ]
     },
@@ -569,7 +479,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -587,7 +497,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -605,7 +515,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -623,7 +533,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -641,7 +551,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -659,8 +569,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.0,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -677,8 +587,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -695,8 +605,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.0,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -713,8 +623,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -731,8 +641,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 16.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -749,7 +659,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 17.8,
       "chaleur": 3,
       "liens": [
         {
@@ -767,7 +677,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
@@ -785,7 +695,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 21.3,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +713,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.0,
+      "heures": 22.3,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +731,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 27.8,
       "chaleur": 3,
       "liens": [
         {
@@ -839,13 +749,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.1,
+      "heures": 28.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
           "titre": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood"
+        }
+      ]
+    },
+    {
+      "id": "the-cyberpunk-2077-movie-won-t-be-a-film-adaptation-of-the-g",
+      "titre": "The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says",
+      "url": "https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 30.3,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/",
+          "titre": "The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says"
         }
       ]
     },
@@ -857,7 +785,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 27.8,
+      "heures": 32.2,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +803,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 30.2,
+      "heures": 34.6,
       "chaleur": 3,
       "liens": [
         {
@@ -893,229 +821,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 31.1,
+      "heures": 35.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/we-have-reached-a-new-threshold-in-genai-gloom-with-a-game-dev-cancelling-a-demo-for-fear-of-copycats-ripping-them-off-before-release",
           "titre": "We have reached a new threshold in genAI gloom, with a game dev cancelling a demo for fear of copycats ripping them off before release"
-        }
-      ]
-    },
-    {
-      "id": "the-creator-of-last-year-s-cult-hit-rpg-the-necromancer-s-ta",
-      "titre": "The creator of last year's cult hit RPG The Necromancer's Tale is back with The Lich Wars, a storybook RPG that follows 30 years of undead botheration",
-      "url": "https://www.rockpapershotgun.com/the-creator-of-last-years-cult-hit-rpg-the-necromancers-tale-is-back-with-the-lich-wars-a-storybook-rpg-that-follows-30-years-of-undead-botheration",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 32.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-creator-of-last-years-cult-hit-rpg-the-necromancers-tale-is-back-with-the-lich-wars-a-storybook-rpg-that-follows-30-years-of-undead-botheration",
-          "titre": "The creator of last year's cult hit RPG The Necromancer's Tale is back with The Lich Wars, a storybook RPG that follows 30 years of undead botheration"
-        }
-      ]
-    },
-    {
-      "id": "1-0-roughly-doubles-the-size-of-the-game-no-rest-for-the-wi",
-      "titre": "'1.0 Roughly Doubles the Size of the Game': No Rest for the Wicked Confirms March 2027 Release on PS5",
-      "url": "https://www.pushsquare.com/news/2026/10/1-0-roughly-doubles-the-size-of-the-game-no-rest-for-the-wicked-confirms-march-2027-release-on-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 32.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/1-0-roughly-doubles-the-size-of-the-game-no-rest-for-the-wicked-confirms-march-2027-release-on-ps5",
-          "titre": "'1.0 Roughly Doubles the Size of the Game': No Rest for the Wicked Confirms March 2027 Release on PS5"
-        }
-      ]
-    },
-    {
-      "id": "a-hardware-market-freeze-could-transform-the-industry-foreve",
-      "titre": "A hardware market freeze could transform the industry forever | Opinion",
-      "url": "https://www.gamesindustry.biz/a-hardware-market-freeze-could-transform-the-industry-forever-opinion",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 32.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/a-hardware-market-freeze-could-transform-the-industry-forever-opinion",
-          "titre": "A hardware market freeze could transform the industry forever | Opinion"
-        }
-      ]
-    },
-    {
-      "id": "penguin-colony-review-the-least-expected-soulslike-you-ll-pl",
-      "titre": "Penguin Colony review - the least expected Soulslike you'll play, and a cracking parody of Lovecraftian empires",
-      "url": "https://www.rockpapershotgun.com/penguin-colony-review-the-least-expected-soulslike-youll-play-and-a-cracking-parody-of-lovecraftian-empires",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 32.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/penguin-colony-review-the-least-expected-soulslike-youll-play-and-a-cracking-parody-of-lovecraftian-empires",
-          "titre": "Penguin Colony review - the least expected Soulslike you'll play, and a cracking parody of Lovecraftian empires"
-        }
-      ]
-    },
-    {
-      "id": "11-games-and-announcements-that-got-us-excited-in-the-latest",
-      "titre": "11 games and announcements that got us excited in the latest Galaxies Showcase",
-      "url": "https://www.eurogamer.net/galaxies-showcase-2026-games-roundup",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 32.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/galaxies-showcase-2026-games-roundup",
-          "titre": "11 games and announcements that got us excited in the latest Galaxies Showcase"
-        }
-      ]
-    },
-    {
-      "id": "the-pleasures-of-double-fine-s-thank-you-bus-driver-are-not",
-      "titre": "The pleasures of Double Fine's Thank You Bus Driver are not in the destination, nor the journey, but in slapping my disobedient passengers",
-      "url": "https://www.rockpapershotgun.com/the-pleasures-of-double-fines-thank-you-bus-driver-are-not-in-the-destination-nor-the-journey-but-in-slapping-my-disobedient-passengers",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 33.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-pleasures-of-double-fines-thank-you-bus-driver-are-not-in-the-destination-nor-the-journey-but-in-slapping-my-disobedient-passengers",
-          "titre": "The pleasures of Double Fine's Thank You Bus Driver are not in the destination, nor the journey, but in slapping my disobedient passengers"
-        }
-      ]
-    },
-    {
-      "id": "over-1-100-improvements-promised-in-the-blood-of-dawnwalker",
-      "titre": "Over 1,100 Improvements Promised in The Blood of Dawnwalker Patch 1.1",
-      "url": "https://www.pushsquare.com/news/2026/10/over-1100-improvements-promised-in-the-blood-of-dawnwalker-patch-1-1",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 33.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/over-1100-improvements-promised-in-the-blood-of-dawnwalker-patch-1-1",
-          "titre": "Over 1,100 Improvements Promised in The Blood of Dawnwalker Patch 1.1"
-        }
-      ]
-    },
-    {
-      "id": "how-star-wars-galactic-racer-kept-the-core-team-small-and-su",
-      "titre": "How Star Wars: Galactic Racer kept the core team small and sustainable through \"distributed development\"",
-      "url": "https://www.gamesindustry.biz/how-star-wars-galactic-racer-kept-the-core-team-small-and-sustainable-through-distributed-development",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 33.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/how-star-wars-galactic-racer-kept-the-core-team-small-and-sustainable-through-distributed-development",
-          "titre": "How Star Wars: Galactic Racer kept the core team small and sustainable through \"distributed development\""
-        }
-      ]
-    },
-    {
-      "id": "wardogs-devs-rush-to-fix-xp-exploit-allowing-players-to-quic",
-      "titre": "Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day",
-      "url": "https://www.eurogamer.net/wardogs-driver-xp-exploit-season-2-tanks",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 34.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/wardogs-driver-xp-exploit-season-2-tanks",
-          "titre": "Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day"
-        }
-      ]
-    },
-    {
-      "id": "game-first-then-movie-ed-boon-responds-to-street-fighter-vs",
-      "titre": "'Game First, Then Movie': Ed Boon Responds to Street Fighter vs Mortal Kombat Crossover Pitch",
-      "url": "https://www.pushsquare.com/news/2026/10/game-first-then-movie-ed-boon-responds-to-street-fighter-vs-mortal-kombat-crossover-pitch",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/game-first-then-movie-ed-boon-responds-to-street-fighter-vs-mortal-kombat-crossover-pitch",
-          "titre": "'Game First, Then Movie': Ed Boon Responds to Street Fighter vs Mortal Kombat Crossover Pitch"
-        }
-      ]
-    },
-    {
-      "id": "gamescom-asia-x-thailand-game-show-2026-announces-four-addit",
-      "titre": "Gamescom Asia x Thailand Game Show 2026 announces four additional pavilions from Indonesia, Japan, Malaysia, and the US",
-      "url": "https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-2026-announces-four-additional-pavilions-from-indonesia-japan-malaysia-and-the-us",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 35.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-2026-announces-four-additional-pavilions-from-indonesia-japan-malaysia-and-the-us",
-          "titre": "Gamescom Asia x Thailand Game Show 2026 announces four additional pavilions from Indonesia, Japan, Malaysia, and the US"
-        }
-      ]
-    },
-    {
-      "id": "video-i-built-the-ps1-lego-set-and-nearly-lost-my-mind",
-      "titre": "Video: I Built the PS1 LEGO Set, and Nearly Lost My Mind",
-      "url": "https://www.pushsquare.com/features/video-i-built-the-ps1-lego-set-and-nearly-lost-my-mind",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/video-i-built-the-ps1-lego-set-and-nearly-lost-my-mind",
-          "titre": "Video: I Built the PS1 LEGO Set, and Nearly Lost My Mind"
         }
       ]
     }
