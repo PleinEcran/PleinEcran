@@ -1,38 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "18/10/2026 à 04h19",
+  "collecte": "18/10/2026 à 10h54",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "the-blood-of-dawnwalker-s-first-major-update-will-add-direct",
-      "titre": "The Blood of Dawnwalker's first major update will add directional animal petting and a new story mode that's easier than the previous story mode",
-      "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-first-major-update-will-add-directional-animal-petting-and-a-new-story-mode-thats-easier-than-the-previous-story-mode/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 14.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-first-major-update-will-add-directional-animal-petting-and-a-new-story-mode-thats-easier-than-the-previous-story-mode/",
-          "titre": "The Blood of Dawnwalker's first major update will add directional animal petting and a new story mode that's easier than the previous story mode"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blood-of-dawnwalker-update-1-1-story-mode-pet-animals",
-          "titre": "The Blood of Dawnwalker Update 1.1 adds an easier Story mode, a respec potion and animal petting"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-blood-of-dawnwalkers-update-11-adds-a-forgiving-difficulty-setting-but-i-think-ill-find-it-hard-to-forgive-its-introduction-of-directional-animal-petting",
-          "titre": "The Blood of Dawnwalker's update 1.1 adds a \"forgiving\" difficulty setting, but I think I'll find it hard to forgive its introduction of \"directional animal petting\""
-        }
-      ]
-    },
     {
       "id": "poll-are-you-hyped-for-october-s-9-new-ps-plus-games",
       "titre": "Poll: Are You Hyped for October's 9 New PS Plus Games?",
@@ -43,7 +13,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 16.3,
+      "heures": 22.9,
       "chaleur": 9,
       "liens": [
         {
@@ -64,24 +34,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "dragon-s-dogma-2-dark-arisen-switch-2-update-currently-in-de",
-      "titre": "Dragon's Dogma 2: Dark Arisen Switch 2 Update Currently In Development",
-      "url": "https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-switch-2-update-currently-in-development",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.2,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-switch-2-update-currently-in-development",
-          "titre": "Dragon's Dogma 2: Dark Arisen Switch 2 Update Currently In Development"
-        }
-      ]
-    },
-    {
       "id": "gameplay-footage-emerges-of-reportedly-cancelled-assassin-s",
       "titre": "Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny",
       "url": "https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent",
@@ -89,7 +41,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 22.3,
       "chaleur": 8,
       "liens": [
         {
@@ -107,13 +59,139 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 10.9,
       "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/i-dont-think-were-seeing-it-here-gta-6-launch-trailer-not-using-ps5s-new-qssr-upscaler",
           "titre": "'I Don't Think We're Seeing It Here': GTA 6 Launch Trailer Not Using PS5's New QSSR Upscaler"
+        }
+      ]
+    },
+    {
+      "id": "the-wolf-among-us-remastered-has-been-delayed-for-switch",
+      "titre": "The Wolf Among Us Remastered Has Been Delayed For Switch",
+      "url": "https://www.nintendolife.com/news/2026/10/the-wolf-among-us-remastered-has-been-delayed-for-switch",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 33.0,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/the-wolf-among-us-remastered-has-been-delayed-for-switch",
+          "titre": "The Wolf Among Us Remastered Has Been Delayed For Switch"
+        }
+      ]
+    },
+    {
+      "id": "the-sunday-papers",
+      "titre": "The Sunday Papers",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-832",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-sunday-papers-832",
+          "titre": "The Sunday Papers"
+        }
+      ]
+    },
+    {
+      "id": "liquid-swords-developer-of-open-city-crime-sim-samson-has-go",
+      "titre": "Liquid Swords, developer of open-city crime sim Samson, has gone bankrupt following staff claims that they haven't been paid in two months",
+      "url": "https://www.pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months/",
+          "titre": "Liquid Swords, developer of open-city crime sim Samson, has gone bankrupt following staff claims that they haven't been paid in two months"
+        }
+      ]
+    },
+    {
+      "id": "in-the-age-of-ai-one-man-spent-years-squeezing-an-entire-mus",
+      "titre": "In the age of AI, one man spent years squeezing an entire museum onto a Game Boy - Why? For the most human of reasons",
+      "url": "https://www.eurogamer.net/game-boy-musuem-cartridge-marcel-pflug",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/game-boy-musuem-cartridge-marcel-pflug",
+          "titre": "In the age of AI, one man spent years squeezing an entire museum onto a Game Boy - Why? For the most human of reasons"
+        }
+      ]
+    },
+    {
+      "id": "feature-box-art-brawl-duel-metal-slug-advance-gba",
+      "titre": "Feature: Box Art Brawl - Duel: Metal Slug Advance (GBA)",
+      "url": "https://www.nintendolife.com/features/box-art-brawl-duel-metal-slug-advance-gba",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/box-art-brawl-duel-metal-slug-advance-gba",
+          "titre": "Feature: Box Art Brawl - Duel: Metal Slug Advance (GBA)"
+        }
+      ]
+    },
+    {
+      "id": "round-up-the-reviews-for-call-of-duty-modern-warfare-4-s-cam",
+      "titre": "Round Up: The Reviews For Call Of Duty: Modern Warfare 4's Campaign Are In",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-call-of-duty-modern-warfare-4s-campaign-are-in",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-call-of-duty-modern-warfare-4s-campaign-are-in",
+          "titre": "Round Up: The Reviews For Call Of Duty: Modern Warfare 4's Campaign Are In"
+        }
+      ]
+    },
+    {
+      "id": "dragon-s-dogma-2-dark-arisen-switch-2-update-currently-in-de",
+      "titre": "Dragon's Dogma 2: Dark Arisen Switch 2 Update Currently In Development",
+      "url": "https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-switch-2-update-currently-in-development",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 7.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-switch-2-update-currently-in-development",
+          "titre": "Dragon's Dogma 2: Dark Arisen Switch 2 Update Currently In Development"
         }
       ]
     },
@@ -126,8 +204,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 6.5,
-      "chaleur": 7,
+      "heures": 13.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -142,20 +220,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-wolf-among-us-remastered-has-been-delayed-for-switch",
-      "titre": "The Wolf Among Us Remastered Has Been Delayed For Switch",
-      "url": "https://www.nintendolife.com/news/2026/10/the-wolf-among-us-remastered-has-been-delayed-for-switch",
+      "id": "the-blood-of-dawnwalker-s-first-major-update-will-add-direct",
+      "titre": "The Blood of Dawnwalker's first major update will add directional animal petting and a new story mode that's easier than the previous story mode",
+      "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-first-major-update-will-add-directional-animal-petting-and-a-new-story-mode-thats-easier-than-the-previous-story-mode/",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer",
+        "PC Gamer"
       ],
-      "reprises": 1,
-      "heures": 26.4,
-      "chaleur": 7,
+      "reprises": 2,
+      "heures": 21.0,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/the-wolf-among-us-remastered-has-been-delayed-for-switch",
-          "titre": "The Wolf Among Us Remastered Has Been Delayed For Switch"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-first-major-update-will-add-directional-animal-petting-and-a-new-story-mode-thats-easier-than-the-previous-story-mode/",
+          "titre": "The Blood of Dawnwalker's first major update will add directional animal petting and a new story mode that's easier than the previous story mode"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/blood-of-dawnwalker-update-1-1-story-mode-pet-animals",
+          "titre": "The Blood of Dawnwalker Update 1.1 adds an easier Story mode, a respec potion and animal petting"
         }
       ]
     },
@@ -167,37 +251,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 28.3,
+      "heures": 34.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-mechanic-after-overwhelming-fan-vote",
           "titre": "PS5 JRPG Atelier Karia Adding GTA San Andreas-Style Weight Mechanic After Overwhelming Fan Vote"
-        }
-      ]
-    },
-    {
-      "id": "we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribe",
-      "titre": "'We f**ked up': 1 day into Wardogs Season 2, the Blue team bribery bonus is being dropped",
-      "url": "https://www.pcgamer.com/games/fps/we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribery-bonus-is-being-dropped/",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 32.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribery-bonus-is-being-dropped/",
-          "titre": "'We f**ked up': 1 day into Wardogs Season 2, the Blue team bribery bonus is being dropped"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/we-were-wrong-wardogs-devs-end-season-2s-team-specific-cash-and-xp-bonus-experiment-after-a-single-tumultuous-day",
-          "titre": "\"We were wrong\": Wardogs devs end Season 2's team-specific cash and XP bonus experiment after a single, tumultuous day"
         }
       ]
     },
@@ -209,7 +269,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 21.7,
       "chaleur": 5,
       "liens": [
         {
@@ -227,7 +287,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 21.9,
       "chaleur": 5,
       "liens": [
         {
@@ -245,7 +305,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 22.9,
       "chaleur": 5,
       "liens": [
         {
@@ -263,7 +323,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 26.9,
       "chaleur": 5,
       "liens": [
         {
@@ -281,7 +341,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.2,
+      "heures": 30.8,
       "chaleur": 5,
       "liens": [
         {
@@ -292,38 +352,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-shrek-2-video-game-is-getting-a-remaster-leaks-via-xbox",
-      "titre": "The Shrek 2 Video Game Is Getting a Remaster, Leaks via Xbox Store",
-      "url": "https://www.pushsquare.com/news/2026/10/the-shrek-2-video-game-is-getting-a-remaster-leaks-via-xbox-store",
+      "id": "slim-or-fuller-atelier-karia-body-shape-change-feature-confi",
+      "titre": "Slim Or Fuller? Atelier Karia \"Body Shape Change Feature\" Confirmed",
+      "url": "https://www.nintendolife.com/news/2026/10/slim-or-fuller-atelier-karia-body-shape-change-feature-confirmed",
       "sources": [
-        "Push Square"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 35.1,
-      "chaleur": 5,
+      "heures": 4.9,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/the-shrek-2-video-game-is-getting-a-remaster-leaks-via-xbox-store",
-          "titre": "The Shrek 2 Video Game Is Getting a Remaster, Leaks via Xbox Store"
-        }
-      ]
-    },
-    {
-      "id": "analogue-is-reviving-its-mega-sg-and-super-nt-consoles-and-t",
-      "titre": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements",
-      "url": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.1,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
-          "titre": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/slim-or-fuller-atelier-karia-body-shape-change-feature-confirmed",
+          "titre": "Slim Or Fuller? Atelier Karia \"Body Shape Change Feature\" Confirmed"
         }
       ]
     },
@@ -335,7 +377,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -353,8 +395,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -371,8 +413,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.8,
-      "chaleur": 4,
+      "heures": 14.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -389,8 +431,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 4,
+      "heures": 15.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -407,8 +449,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 4,
+      "heures": 15.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -425,8 +467,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.2,
-      "chaleur": 4,
+      "heures": 15.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -443,8 +485,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 4,
+      "heures": 15.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -461,8 +503,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 4,
+      "heures": 16.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -479,8 +521,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 16.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -497,8 +539,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 17.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -515,8 +557,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 17.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -533,8 +575,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 17.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -551,8 +593,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 17.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -569,7 +611,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 18.9,
       "chaleur": 3,
       "liens": [
         {
@@ -587,7 +629,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 18.9,
       "chaleur": 3,
       "liens": [
         {
@@ -605,7 +647,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 18.9,
       "chaleur": 3,
       "liens": [
         {
@@ -623,7 +665,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 19.2,
       "chaleur": 3,
       "liens": [
         {
@@ -641,7 +683,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 22.8,
       "chaleur": 3,
       "liens": [
         {
@@ -659,7 +701,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 24.4,
       "chaleur": 3,
       "liens": [
         {
@@ -677,7 +719,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 25.9,
       "chaleur": 3,
       "liens": [
         {
@@ -695,7 +737,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 27.9,
       "chaleur": 3,
       "liens": [
         {
@@ -713,7 +755,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 28.9,
       "chaleur": 3,
       "liens": [
         {
@@ -731,7 +773,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.8,
+      "heures": 34.4,
       "chaleur": 3,
       "liens": [
         {
@@ -749,85 +791,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 35.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
           "titre": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood"
-        }
-      ]
-    },
-    {
-      "id": "the-cyberpunk-2077-movie-won-t-be-a-film-adaptation-of-the-g",
-      "titre": "The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says",
-      "url": "https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 30.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/",
-          "titre": "The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says"
-        }
-      ]
-    },
-    {
-      "id": "i-haven-t-wanted-to-100-a-game-in-a-long-time-but",
-      "titre": "I haven't wanted to 100% a game in a long time, but…",
-      "url": "https://www.pcgamer.com/games/sim/i-havent-wanted-to-100-percent-a-game-in-a-long-time-but/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 32.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/i-havent-wanted-to-100-percent-a-game-in-a-long-time-but/",
-          "titre": "I haven't wanted to 100% a game in a long time, but…"
-        }
-      ]
-    },
-    {
-      "id": "nonolith-traps-you-in-a-living-maze-and-challenges-you-to-fi",
-      "titre": "Nonolith traps you in a living maze and challenges you to find hidden terrain magic using good old copy-paste",
-      "url": "https://www.rockpapershotgun.com/nonolith-traps-you-in-a-living-maze-and-challenges-you-to-find-hidden-terrain-magic-using-good-old-copy-paste",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 34.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nonolith-traps-you-in-a-living-maze-and-challenges-you-to-find-hidden-terrain-magic-using-good-old-copy-paste",
-          "titre": "Nonolith traps you in a living maze and challenges you to find hidden terrain magic using good old copy-paste"
-        }
-      ]
-    },
-    {
-      "id": "we-have-reached-a-new-threshold-in-genai-gloom-with-a-game-d",
-      "titre": "We have reached a new threshold in genAI gloom, with a game dev cancelling a demo for fear of copycats ripping them off before release",
-      "url": "https://www.rockpapershotgun.com/we-have-reached-a-new-threshold-in-genai-gloom-with-a-game-dev-cancelling-a-demo-for-fear-of-copycats-ripping-them-off-before-release",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 35.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/we-have-reached-a-new-threshold-in-genai-gloom-with-a-game-dev-cancelling-a-demo-for-fear-of-copycats-ripping-them-off-before-release",
-          "titre": "We have reached a new threshold in genAI gloom, with a game dev cancelling a demo for fear of copycats ripping them off before release"
         }
       ]
     }
