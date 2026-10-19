@@ -1,44 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "18/10/2026 à 22h23",
+  "collecte": "19/10/2026 à 04h29",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "samson-dev-liquid-swords-has-reportedly-gone-bankrupt",
-      "titre": "Samson dev Liquid Swords has reportedly gone bankrupt",
-      "url": "https://www.eurogamer.net/liquid-swords-samson-developer-bankrupt",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer",
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 4,
-      "heures": 7.0,
-      "chaleur": 15,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/liquid-swords-samson-developer-bankrupt",
-          "titre": "Samson dev Liquid Swords has reportedly gone bankrupt"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/samson-developer-liquid-swords-is-facing-bankruptcy/",
-          "titre": "Samson developer Liquid Swords is facing bankruptcy"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months/",
-          "titre": "Liquid Swords, developer of open-city crime sim Samson, has gone bankrupt following staff claims that they haven't been paid in two months"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/oh-dear-half-a-year-after-launching-samson-swedish-developer-liquid-swords-have-filed-for-bankruptcy",
-          "titre": "Oh dear, half a year after launching Samson, Swedish developer Liquid Swords have filed for bankruptcy"
-        }
-      ]
-    },
     {
       "id": "the-ps6-s-memory-and-storage-alone-reportedly-cost-more-than",
       "titre": "The PS6's memory and storage alone reportedly cost more than $680",
@@ -48,7 +12,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.2,
+      "heures": 11.3,
       "chaleur": 11,
       "liens": [
         {
@@ -64,20 +28,50 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gameplay-footage-emerges-of-reportedly-cancelled-assassin-s",
-      "titre": "Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny",
-      "url": "https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent",
+      "id": "samson-dev-liquid-swords-has-reportedly-gone-bankrupt",
+      "titre": "Samson dev Liquid Swords has reportedly gone bankrupt",
+      "url": "https://www.eurogamer.net/liquid-swords-samson-developer-bankrupt",
       "sources": [
-        "Eurogamer"
+        "Eurogamer",
+        "PC Gamer",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 33.7,
-      "chaleur": 8,
+      "reprises": 3,
+      "heures": 13.1,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent",
-          "titre": "Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny"
+          "url": "https://www.eurogamer.net/liquid-swords-samson-developer-bankrupt",
+          "titre": "Samson dev Liquid Swords has reportedly gone bankrupt"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/samson-developer-liquid-swords-is-facing-bankruptcy/",
+          "titre": "Samson developer Liquid Swords is facing bankruptcy"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months/",
+          "titre": "Liquid Swords, developer of open-city crime sim Samson, has gone bankrupt following staff claims that they haven't been paid in two months"
+        }
+      ]
+    },
+    {
+      "id": "steam-week-in-review-steam-next-fest-has-over-8-000-demos-as",
+      "titre": "Steam Week in Review: Steam Next Fest has over 8,000 demos, as worthless vibe coded slop levels up",
+      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-next-fest-has-over-8-000-demos-as-worthless-vibe-coded-slop-levels-up/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-next-fest-has-over-8-000-demos-as-worthless-vibe-coded-slop-levels-up/",
+          "titre": "Steam Week in Review: Steam Next Fest has over 8,000 demos, as worthless vibe coded slop levels up"
         }
       ]
     },
@@ -89,67 +83,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 7,
+      "heures": 16.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/mailbox-rising-costs-non-compliant-eu-switches-warioware-fantasia-nintendo-life-letters",
           "titre": "Mailbox: Rising Costs, Non-Compliant EU Switches, WarioWare Fantasia - Nintendo Life Letters"
-        }
-      ]
-    },
-    {
-      "id": "street-fighter-movie-cracks-over-50m-at-box-office-in-openin",
-      "titre": "Street Fighter Movie Cracks Over $50M at Box Office in Opening Weekend",
-      "url": "https://www.pushsquare.com/news/2026/10/street-fighter-movie-cracks-over-usd50m-at-box-office-in-opening-weekend",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 0.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/street-fighter-movie-cracks-over-usd50m-at-box-office-in-opening-weekend",
-          "titre": "Street Fighter Movie Cracks Over $50M at Box Office in Opening Weekend"
-        }
-      ]
-    },
-    {
-      "id": "dark-souls-2-dataminer-shows-off-massive-prototype-coliseum",
-      "titre": "Dark Souls 2 dataminer shows off massive prototype coliseum level from early development",
-      "url": "https://www.pcgamer.com/games/dark-souls/dark-souls-2-dataminer-shows-off-massive-prototype-coliseum-level-from-early-development/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/dark-souls/dark-souls-2-dataminer-shows-off-massive-prototype-coliseum-level-from-early-development/",
-          "titre": "Dark Souls 2 dataminer shows off massive prototype coliseum level from early development"
-        }
-      ]
-    },
-    {
-      "id": "leaked-ai-safety-bill-from-anthropic-only-requires-governmen",
-      "titre": "Leaked AI safety bill from Anthropic only requires government intervention if 50+ injuries or $1 billion are at risk",
-      "url": "https://www.pcgamer.com/software/ai/leaked-ai-safety-bill-from-anthropic-only-lets-government-act-if-50-deaths-or-usd1-billion-are-on-the-line/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/leaked-ai-safety-bill-from-anthropic-only-lets-government-act-if-50-deaths-or-usd1-billion-are-on-the-line/",
-          "titre": "Leaked AI safety bill from Anthropic only requires government intervention if 50+ injuries or $1 billion are at risk"
         }
       ]
     },
@@ -161,7 +101,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 28.5,
       "chaleur": 6,
       "liens": [
         {
@@ -180,7 +120,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 24.5,
+      "heures": 30.6,
       "chaleur": 6,
       "liens": [
         {
@@ -203,7 +143,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 25.4,
       "chaleur": 5,
       "liens": [
         {
@@ -214,56 +154,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "steam-s-achievement-sets-beta-aims-to-stop-new-content-break",
-      "titre": "Steam's Achievement Sets beta aims to stop new content breaking your completion status",
-      "url": "https://www.eurogamer.net/steam-achievement-sets-beta",
+      "id": "street-fighter-movie-cracks-over-50m-at-box-office-in-openin",
+      "titre": "Street Fighter Movie Cracks Over $50M at Box Office in Opening Weekend",
+      "url": "https://www.pushsquare.com/news/2026/10/street-fighter-movie-cracks-over-usd50m-at-box-office-in-opening-weekend",
       "sources": [
-        "Eurogamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 33.2,
-      "chaleur": 5,
+      "heures": 5.5,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/steam-achievement-sets-beta",
-          "titre": "Steam's Achievement Sets beta aims to stop new content breaking your completion status"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/street-fighter-movie-cracks-over-usd50m-at-box-office-in-opening-weekend",
+          "titre": "Street Fighter Movie Cracks Over $50M at Box Office in Opening Weekend"
         }
       ]
     },
     {
-      "id": "countdown-zelda-ocarina-of-time-dungeon-crawl-5-this-one-s-f",
-      "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #5 - This One's Fire, Bro",
-      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-5-this-ones-fire-bro",
+      "id": "23-devs-teamed-up-to-make-a-free-game-of-innovative-yet-ques",
+      "titre": "23 devs teamed up to make a free game of 'innovative yet questionable volume sliders,' and it feels like browser-based WarioWare",
+      "url": "https://www.pcgamer.com/games/23-devs-teamed-up-to-make-a-free-game-of-innovative-yet-questionable-volume-sliders-and-it-feels-like-browser-based-warioware/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 33.4,
-      "chaleur": 5,
+      "heures": 5.9,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-5-this-ones-fire-bro",
-          "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #5 - This One's Fire, Bro"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/23-devs-teamed-up-to-make-a-free-game-of-innovative-yet-questionable-volume-sliders-and-it-feels-like-browser-based-warioware/",
+          "titre": "23 devs teamed up to make a free game of 'innovative yet questionable volume sliders,' and it feels like browser-based WarioWare"
         }
       ]
     },
     {
-      "id": "call-of-duty-on-switch-2-has-two-different-upscaling-options",
-      "titre": "Call Of Duty On Switch 2 Has Two Different Upscaling Options",
-      "url": "https://www.nintendolife.com/news/2026/10/call-of-duty-on-switch-2-has-two-different-upscaling-options",
+      "id": "dark-souls-2-dataminer-shows-off-massive-prototype-coliseum",
+      "titre": "Dark Souls 2 dataminer shows off massive prototype coliseum level from early development",
+      "url": "https://www.pcgamer.com/games/dark-souls/dark-souls-2-dataminer-shows-off-massive-prototype-coliseum-level-from-early-development/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 34.4,
-      "chaleur": 5,
+      "heures": 9.7,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/call-of-duty-on-switch-2-has-two-different-upscaling-options",
-          "titre": "Call Of Duty On Switch 2 Has Two Different Upscaling Options"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/dark-souls/dark-souls-2-dataminer-shows-off-massive-prototype-coliseum-level-from-early-development/",
+          "titre": "Dark Souls 2 dataminer shows off massive prototype coliseum level from early development"
+        }
+      ]
+    },
+    {
+      "id": "leaked-ai-safety-bill-from-anthropic-only-requires-governmen",
+      "titre": "Leaked AI safety bill from Anthropic only requires government intervention if 50+ injuries or $1 billion are at risk",
+      "url": "https://www.pcgamer.com/software/ai/leaked-ai-safety-bill-from-anthropic-only-lets-government-act-if-50-deaths-or-usd1-billion-are-on-the-line/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 9.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/leaked-ai-safety-bill-from-anthropic-only-lets-government-act-if-50-deaths-or-usd1-billion-are-on-the-line/",
+          "titre": "Leaked AI safety bill from Anthropic only requires government intervention if 50+ injuries or $1 billion are at risk"
         }
       ]
     },
@@ -275,7 +233,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -293,7 +251,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 11.2,
       "chaleur": 4,
       "liens": [
         {
@@ -311,7 +269,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -329,8 +287,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -347,8 +305,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.4,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -365,8 +323,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -383,8 +341,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -401,8 +359,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 4,
+      "heures": 15.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -419,8 +377,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
-      "chaleur": 4,
+      "heures": 15.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -437,8 +395,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 17.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -455,7 +413,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 18.5,
       "chaleur": 3,
       "liens": [
         {
@@ -473,7 +431,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -491,7 +449,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -509,7 +467,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 21.0,
       "chaleur": 3,
       "liens": [
         {
@@ -527,7 +485,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 22.5,
       "chaleur": 3,
       "liens": [
         {
@@ -545,7 +503,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 29.5,
       "chaleur": 3,
       "liens": [
         {
@@ -563,7 +521,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.5,
+      "heures": 30.7,
       "chaleur": 3,
       "liens": [
         {
@@ -581,7 +539,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.9,
+      "heures": 32.0,
       "chaleur": 3,
       "liens": [
         {
@@ -599,7 +557,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 26.9,
+      "heures": 33.0,
       "chaleur": 3,
       "liens": [
         {
@@ -617,7 +575,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.9,
+      "heures": 33.0,
       "chaleur": 3,
       "liens": [
         {
@@ -635,7 +593,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 33.4,
       "chaleur": 3,
       "liens": [
         {
@@ -653,7 +611,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 33.5,
       "chaleur": 3,
       "liens": [
         {
@@ -671,7 +629,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 27.8,
+      "heures": 33.9,
       "chaleur": 3,
       "liens": [
         {
@@ -689,7 +647,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 34.5,
       "chaleur": 3,
       "liens": [
         {
@@ -707,7 +665,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.9,
+      "heures": 35.0,
       "chaleur": 3,
       "liens": [
         {
@@ -725,103 +683,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 35.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games",
           "titre": "As too much of the industry embrace their own death through genAI, Konami say it's real people that are most important for making good games"
-        }
-      ]
-    },
-    {
-      "id": "discussion-time-do-you-think-zone-chats-in-mmos-are-forces-f",
-      "titre": "Discussion time: Do you think zone chats in MMOs are forces for good, or evil?",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/discussion-time-do-you-think-zone-chats-in-mmos-are-forces-for-good-or-evil/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 29.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/discussion-time-do-you-think-zone-chats-in-mmos-are-forces-for-good-or-evil/",
-          "titre": "Discussion time: Do you think zone chats in MMOs are forces for good, or evil?"
-        }
-      ]
-    },
-    {
-      "id": "surprising-no-one-wizards-of-the-coast-doesn-t-intend-to-vol",
-      "titre": "Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year",
-      "url": "https://www.pcgamer.com/gaming-industry/surprising-no-one-wizards-of-the-coast-doesnt-intend-to-voluntarily-recognize-union-efforts-for-the-second-time-this-year/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 29.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/surprising-no-one-wizards-of-the-coast-doesnt-intend-to-voluntarily-recognize-union-efforts-for-the-second-time-this-year/",
-          "titre": "Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year"
-        }
-      ]
-    },
-    {
-      "id": "guide-pok-mon-pokopia-pumpkaboo-s-sweet-surprises-halloween",
-      "titre": "Guide: Pokémon Pokopia Pumpkaboo's Sweet Surprises Halloween Event Guide, From Pumpkin Candy To Gourgeist",
-      "url": "https://www.nintendolife.com/guides/pokemon-pokopia-pumpkaboo-sweet-surprises-halloween-event-guide",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 30.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/pokemon-pokopia-pumpkaboo-sweet-surprises-halloween-event-guide",
-          "titre": "Guide: Pokémon Pokopia Pumpkaboo's Sweet Surprises Halloween Event Guide, From Pumpkin Candy To Gourgeist"
-        }
-      ]
-    },
-    {
-      "id": "poll-are-you-hyped-for-october-s-9-new-ps-plus-games",
-      "titre": "Poll: Are You Hyped for October's 9 New PS Plus Games?",
-      "url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-octobers-9-new-ps-plus-games",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 34.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-octobers-9-new-ps-plus-games",
-          "titre": "Poll: Are You Hyped for October's 9 New PS Plus Games?"
-        }
-      ]
-    },
-    {
-      "id": "the-blood-of-dawnwalker-update-1-1-adds-an-easier-story-mode",
-      "titre": "The Blood of Dawnwalker Update 1.1 adds an easier Story mode, a respec potion and animal petting",
-      "url": "https://www.eurogamer.net/blood-of-dawnwalker-update-1-1-story-mode-pet-animals",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blood-of-dawnwalker-update-1-1-story-mode-pet-animals",
-          "titre": "The Blood of Dawnwalker Update 1.1 adds an easier Story mode, a respec potion and animal petting"
         }
       ]
     }
