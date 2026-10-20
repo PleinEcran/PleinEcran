@@ -1,8 +1,134 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "20/10/2026 à 04h39",
+  "collecte": "20/10/2026 à 11h25",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "dice-and-bungie-are-reportedly-both-interested-in-developing",
+      "titre": "DICE and Bungie are reportedly both interested in developing Star Wars Battlefront 3",
+      "url": "https://www.videogameschronicle.com/news/dice-and-bungie-are-reportedly-both-interested-in-developing-star-wars-battlefront-3/",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 2.5,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/dice-and-bungie-are-reportedly-both-interested-in-developing-star-wars-battlefront-3/",
+          "titre": "DICE and Bungie are reportedly both interested in developing Star Wars Battlefront 3"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/could-sonys-bungie-build-the-next-star-wars-battlefront-game",
+          "titre": "Could Sony's Bungie Build the Next Star Wars Battlefront Game?"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/star-wars-zero-company-review",
+          "titre": "Star Wars Zero Company review"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-is-so-detailed-no-single-rockstar-employee-knows-it-al",
+      "titre": "GTA 6 is so detailed no single Rockstar employee knows it all - which is how we got shrinking horse testicles in Red Dead Redemption 2",
+      "url": "https://www.eurogamer.net/red-dead-redemption-2-horse-testicles-staff-autonomy-gta-6",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/red-dead-redemption-2-horse-testicles-staff-autonomy-gta-6",
+          "titre": "GTA 6 is so detailed no single Rockstar employee knows it all - which is how we got shrinking horse testicles in Red Dead Redemption 2"
+        }
+      ]
+    },
+    {
+      "id": "sensor-tower-data-shows-the-yawning-gap-between-gta-6-and-ev",
+      "titre": "Sensor Tower data shows the yawning gap between GTA 6 and everything else",
+      "url": "https://www.gamesindustry.biz/sensor-tower-data-shows-the-yawning-gap-between-gta-6-and-everything-else",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/sensor-tower-data-shows-the-yawning-gap-between-gta-6-and-everything-else",
+          "titre": "Sensor Tower data shows the yawning gap between GTA 6 and everything else"
+        }
+      ]
+    },
+    {
+      "id": "new-steam-deck-plugin-means-you-can-customise-your-steam-ach",
+      "titre": "New Steam Deck plugin means you can customise your Steam Achievement pop-ups to match Xbox, PlayStation, Nintendo, or anything your heart desires",
+      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/new-steam-deck-plugin-means-you-can-customise-your-steam-achievement-pop-ups-to-match-xbox-playstation-nintendo-or-anything-your-heart-desires/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/new-steam-deck-plugin-means-you-can-customise-your-steam-achievement-pop-ups-to-match-xbox-playstation-nintendo-or-anything-your-heart-desires/",
+          "titre": "New Steam Deck plugin means you can customise your Steam Achievement pop-ups to match Xbox, PlayStation, Nintendo, or anything your heart desires"
+        }
+      ]
+    },
+    {
+      "id": "umamusume-pretty-derby-los-angeles-concert-cancelled-last-mi",
+      "titre": "Umamusume: Pretty Derby Los Angeles concert cancelled last minute due to US visa issues, despite exploring \"every possible option\"",
+      "url": "https://www.eurogamer.net/umamusume-pretty-derby-la-concert-cancelled-visa-issues",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/umamusume-pretty-derby-la-concert-cancelled-visa-issues",
+          "titre": "Umamusume: Pretty Derby Los Angeles concert cancelled last minute due to US visa issues, despite exploring \"every possible option\""
+        }
+      ]
+    },
+    {
+      "id": "moonlighter-studio-won-t-host-a-public-playtest-of-its-next",
+      "titre": "Moonlighter studio won't host a public playtest of its next game due to rampant AI-led cloning: 'We know we're not the only developers feeling this way'",
+      "url": "https://www.pcgamer.com/gaming-industry/moonlighter-studio-wont-host-a-public-playtest-of-its-next-game-due-to-rampant-ai-led-cloning-we-know-were-not-the-only-developers-feeling-this-way/",
+      "sources": [
+        "Game Developer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 11.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/moonlighter-studio-wont-host-a-public-playtest-of-its-next-game-due-to-rampant-ai-led-cloning-we-know-were-not-the-only-developers-feeling-this-way/",
+          "titre": "Moonlighter studio won't host a public playtest of its next game due to rampant AI-led cloning: 'We know we're not the only developers feeling this way'"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning",
+          "titre": "Moonlighter developer delays public playtest of next game over concerns of AI cloning"
+        }
+      ]
+    },
     {
       "id": "star-wars-zero-company-adds-new-difficulty-options-that-can",
       "titre": "Star Wars Zero Company adds new difficulty options that can bring it closer to XCOM",
@@ -13,8 +139,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 6.9,
-      "chaleur": 10,
+      "heures": 13.6,
+      "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
@@ -34,26 +160,110 @@ const VEILLE = {
       ]
     },
     {
-      "id": "moonlighter-studio-won-t-host-a-public-playtest-of-its-next",
-      "titre": "Moonlighter studio won't host a public playtest of its next game due to rampant AI-led cloning: 'We know we're not the only developers feeling this way'",
-      "url": "https://www.pcgamer.com/gaming-industry/moonlighter-studio-wont-host-a-public-playtest-of-its-next-game-due-to-rampant-ai-led-cloning-we-know-were-not-the-only-developers-feeling-this-way/",
+      "id": "this-sound-library-catalogues-100-different-keyboard-switche",
+      "titre": "This sound library catalogues 100 different keyboard switches, is dangerous for my wallet, and also has… live service game mechanics?",
+      "url": "https://www.pcgamer.com/hardware/gaming-keyboards/this-sound-library-catalogues-100-different-keyboard-switches-is-dangerous-for-my-wallet-and-also-has-live-service-game-mechanics/",
       "sources": [
-        "Game Developer",
         "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 5.1,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/moonlighter-studio-wont-host-a-public-playtest-of-its-next-game-due-to-rampant-ai-led-cloning-we-know-were-not-the-only-developers-feeling-this-way/",
-          "titre": "Moonlighter studio won't host a public playtest of its next game due to rampant AI-led cloning: 'We know we're not the only developers feeling this way'"
-        },
+          "url": "https://www.pcgamer.com/hardware/gaming-keyboards/this-sound-library-catalogues-100-different-keyboard-switches-is-dangerous-for-my-wallet-and-also-has-live-service-game-mechanics/",
+          "titre": "This sound library catalogues 100 different keyboard switches, is dangerous for my wallet, and also has… live service game mechanics?"
+        }
+      ]
+    },
+    {
+      "id": "fanatical-s-latest-killer-bundle-lets-you-pick-up-30-steam-g",
+      "titre": "Fanatical’s latest Killer Bundle lets you pick up 30 Steam games for $1 each",
+      "url": "https://www.videogameschronicle.com/news/fanaticals-latest-killer-bundle-lets-you-pick-up-30-steam-games-for-1-each/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 8,
+      "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning",
-          "titre": "Moonlighter developer delays public playtest of next game over concerns of AI cloning"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/fanaticals-latest-killer-bundle-lets-you-pick-up-30-steam-games-for-1-each/",
+          "titre": "Fanatical’s latest Killer Bundle lets you pick up 30 Steam games for $1 each"
+        }
+      ]
+    },
+    {
+      "id": "new-zelda-ocarina-of-time-trailer-is-a-throwback-to-the-90s",
+      "titre": "New Zelda: Ocarina Of Time Trailer Is A Throwback To The '90s N64 Ads",
+      "url": "https://www.nintendolife.com/news/2026/10/new-zelda-ocarina-of-time-trailer-is-a-throwback-to-the-90s-n64-ads",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/new-zelda-ocarina-of-time-trailer-is-a-throwback-to-the-90s-n64-ads",
+          "titre": "New Zelda: Ocarina Of Time Trailer Is A Throwback To The '90s N64 Ads"
+        }
+      ]
+    },
+    {
+      "id": "intel-bringing-faster-upscaler-to-valve-s-proton-xmx-acceler",
+      "titre": "Intel bringing faster upscaler to Valve's Proton - XMX accelerated XeSS could come to SteamOS in boost to future Intel-powered handheld gaming PCs",
+      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/intel-bringing-faster-upscaler-to-valves-proton-xmx-accelerated-xess-could-come-to-steamos-in-boost-to-future-intel-powered-handheld-gaming-pcs/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/intel-bringing-faster-upscaler-to-valves-proton-xmx-accelerated-xess-could-come-to-steamos-in-boost-to-future-intel-powered-handheld-gaming-pcs/",
+          "titre": "Intel bringing faster upscaler to Valve's Proton - XMX accelerated XeSS could come to SteamOS in boost to future Intel-powered handheld gaming PCs"
+        }
+      ]
+    },
+    {
+      "id": "helldivers-2-s-gameguard-cheat-policing-wasn-t-as-effective",
+      "titre": "Helldivers 2's GameGuard cheat policing \"wasn't as effective as it could have been\", cue a switch to Easy Anti-Cheat as part of a crackdown on cheat mods",
+      "url": "https://www.rockpapershotgun.com/helldivers-2s-gameguard-cheat-policing-wasnt-as-effective-as-it-could-have-been-cue-a-switch-to-easy-anti-cheat-as-part-of-a-crackdown-on-cheat-mods",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/helldivers-2s-gameguard-cheat-policing-wasnt-as-effective-as-it-could-have-been-cue-a-switch-to-easy-anti-cheat-as-part-of-a-crackdown-on-cheat-mods",
+          "titre": "Helldivers 2's GameGuard cheat policing \"wasn't as effective as it could have been\", cue a switch to Easy Anti-Cheat as part of a crackdown on cheat mods"
+        }
+      ]
+    },
+    {
+      "id": "review-castlevania-belmont-s-curse-switch-a-pro-grade-metroi",
+      "titre": "Review: Castlevania: Belmont's Curse (Switch) - A Pro-Grade Metroidvania With A Stiff Learning Curve",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch/castlevania-belmonts-curse",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch/castlevania-belmonts-curse",
+          "titre": "Review: Castlevania: Belmont's Curse (Switch) - A Pro-Grade Metroidvania With A Stiff Learning Curve"
         }
       ]
     },
@@ -65,8 +275,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 8,
+      "heures": 15.5,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
@@ -76,62 +286,236 @@ const VEILLE = {
       ]
     },
     {
-      "id": "steam-next-fest-2026-has-more-than-double-the-number-of-demo",
-      "titre": "Steam Next Fest 2026 has more than double the number of demos than last year, but how much of it is generative 'AI slop'?",
-      "url": "https://www.eurogamer.net/steam-next-fest-2026-over-double",
+      "id": "another-huge-cyberpunk-2077-ps5-update-incoming-patch-2-5-re",
+      "titre": "Another Huge Cyberpunk 2077 PS5 Update Incoming, Patch 2.5 Revealed in Livestream Tomorrow",
+      "url": "https://www.pushsquare.com/news/2026/10/another-huge-cyberpunk-2077-ps5-update-incoming-patch-2-5-revealed-in-livestream-tomorrow",
       "sources": [
-        "Eurogamer",
-        "PC Gamer"
+        "Push Square"
       ],
-      "reprises": 2,
-      "heures": 17.9,
-      "chaleur": 8,
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/another-huge-cyberpunk-2077-ps5-update-incoming-patch-2-5-revealed-in-livestream-tomorrow",
+          "titre": "Another Huge Cyberpunk 2077 PS5 Update Incoming, Patch 2.5 Revealed in Livestream Tomorrow"
+        }
+      ]
+    },
+    {
+      "id": "abiotic-factor-s-second-year-of-updates-confirmed-to-include",
+      "titre": "Abiotic Factor's second year of updates confirmed to include official mod support and a DLC taking science to the tropics",
+      "url": "https://www.rockpapershotgun.com/abiotic-factors-second-year-of-updates-confirmed-to-include-official-mod-support-and-a-dlc-taking-science-to-the-tropics",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/abiotic-factors-second-year-of-updates-confirmed-to-include-official-mod-support-and-a-dlc-taking-science-to-the-tropics",
+          "titre": "Abiotic Factor's second year of updates confirmed to include official mod support and a DLC taking science to the tropics"
+        }
+      ]
+    },
+    {
+      "id": "bungie-plans-to-share-first-details-about-surprise-unvaultin",
+      "titre": "Bungie plans to share first details about surprise 'unvaulting' of Destiny 2 content soon",
+      "url": "https://www.eurogamer.net/destiny-2-unvaulting-bungie-date-details",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/steam-next-fest-2026-over-double",
-          "titre": "Steam Next Fest 2026 has more than double the number of demos than last year, but how much of it is generative 'AI slop'?"
-        },
+          "url": "https://www.eurogamer.net/destiny-2-unvaulting-bungie-date-details",
+          "titre": "Bungie plans to share first details about surprise 'unvaulting' of Destiny 2 content soon"
+        }
+      ]
+    },
+    {
+      "id": "vgc-took-its-first-live-show-to-glasgow-and-what-a-night-it",
+      "titre": "VGC took its first live show to Glasgow – and what a night it was",
+      "url": "https://www.videogameschronicle.com/news/vgc-took-its-first-live-show-to-glasgow-and-what-a-night-it-was/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/vgc-took-its-first-live-show-to-glasgow-and-what-a-night-it-was/",
+          "titre": "VGC took its first live show to Glasgow – and what a night it was"
+        }
+      ]
+    },
+    {
+      "id": "japan-actors-union-announces-guidelines-addressing-unauthori",
+      "titre": "Japan Actors Union announces guidelines addressing unauthorised use of generative AI to replicate voice performances",
+      "url": "https://www.gamesindustry.biz/japan-actors-union-announces-guidelines-addressing-unauthorised-use-of-generative-ai-for-voice-acting",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/japan-actors-union-announces-guidelines-addressing-unauthorised-use-of-generative-ai-for-voice-acting",
+          "titre": "Japan Actors Union announces guidelines addressing unauthorised use of generative AI to replicate voice performances"
+        }
+      ]
+    },
+    {
+      "id": "subnautica-2-is-heading-for-early-access-2-0-which-brings-on",
+      "titre": "Subnautica 2 is heading for 'Early access 2.0,' which brings 'one of our scariest regions we've ever done'",
+      "url": "https://www.pcgamer.com/games/survival-crafting/subnautica-2-is-heading-for-early-access-2-0-which-brings-one-of-our-scariest-regions-weve-ever-done/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-next-fest-has-over-8-000-demos-as-worthless-vibe-coded-slop-levels-up/",
-          "titre": "Steam Week in Review: Steam Next Fest has over 8,000 demos, as worthless vibe coded slop levels up"
+          "url": "https://www.pcgamer.com/games/survival-crafting/subnautica-2-is-heading-for-early-access-2-0-which-brings-one-of-our-scariest-regions-weve-ever-done/",
+          "titre": "Subnautica 2 is heading for 'Early access 2.0,' which brings 'one of our scariest regions we've ever done'"
         }
       ]
     },
     {
-      "id": "pok-mon-pokopia-and-fire-emblem-fortune-s-weave-shortlisted",
-      "titre": "Pokémon Pokopia And Fire Emblem: Fortune's Weave Shortlisted For 'Console Game Of The Year'",
-      "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-and-fire-emblem-fortunes-weave-shortlisted-for-console-game-of-the-year",
+      "id": "penguin-colony-is-not-messing-around-with-its-statement-on-t",
+      "titre": "Penguin Colony is not messing around with its statement on the Palestinian genocide, banning sale in Israel and calling out the games industry in-game",
+      "url": "https://www.rockpapershotgun.com/penguin-colony-is-not-messing-around-with-its-statement-on-the-palestinian-genocide-banning-sale-in-israel-and-calling-out-the-games-industry-in-game",
       "sources": [
-        "Nintendo Life"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 1.0,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-and-fire-emblem-fortunes-weave-shortlisted-for-console-game-of-the-year",
-          "titre": "Pokémon Pokopia And Fire Emblem: Fortune's Weave Shortlisted For 'Console Game Of The Year'"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/penguin-colony-is-not-messing-around-with-its-statement-on-the-palestinian-genocide-banning-sale-in-israel-and-calling-out-the-games-industry-in-game",
+          "titre": "Penguin Colony is not messing around with its statement on the Palestinian genocide, banning sale in Israel and calling out the games industry in-game"
         }
       ]
     },
     {
-      "id": "round-up-the-reviews-for-the-street-fighter-movie-are-in",
-      "titre": "Round Up: The Reviews For The Street Fighter Movie Are In",
-      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-the-street-fighter-movie-are-in",
+      "id": "revamp-developer-cancels-public-playtest-in-case-ai-users-re",
+      "titre": "ReVamp developer cancels public playtest in case AI users reverse engineer it and publish a clone first",
+      "url": "https://www.videogameschronicle.com/news/revamp-developer-cancels-public-playtest-in-case-ai-users-reverse-engineer-it-and-publish-a-clone-first/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/revamp-developer-cancels-public-playtest-in-case-ai-users-reverse-engineer-it-and-publish-a-clone-first/",
+          "titre": "ReVamp developer cancels public playtest in case AI users reverse engineer it and publish a clone first"
+        }
+      ]
+    },
+    {
+      "id": "tp-link-says-it-will-start-making-wi-fi-8-routers-in-the-us",
+      "titre": "TP-Link says it will start making Wi-Fi 8 routers in the US, dodging government soft ban in one easy step",
+      "url": "https://www.pcgamer.com/hardware/networking/chinese-company-tp-link-says-it-will-start-making-wi-fi-8-routers-in-the-us-dodging-government-soft-ban-in-one-easy-step/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/networking/chinese-company-tp-link-says-it-will-start-making-wi-fi-8-routers-in-the-us-dodging-government-soft-ban-in-one-easy-step/",
+          "titre": "TP-Link says it will start making Wi-Fi 8 routers in the US, dodging government soft ban in one easy step"
+        }
+      ]
+    },
+    {
+      "id": "5-october-2026-ps-plus-extra-premium-games-available-to-down",
+      "titre": "5 October 2026 PS Plus Extra, Premium Games Available to Download Now",
+      "url": "https://www.pushsquare.com/news/2026/10/5-october-2026-ps-plus-extra-premium-games-available-to-download-now",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/5-october-2026-ps-plus-extra-premium-games-available-to-download-now",
+          "titre": "5 October 2026 PS Plus Extra, Premium Games Available to Download Now"
+        }
+      ]
+    },
+    {
+      "id": "this-act-is-intended-to-demonstrate-solidarity-with-palesti",
+      "titre": "\"This act is intended to demonstrate solidarity with Palestine\" - Umurangi Generation studio blocks new game Penguin Colony from being sold in Israel",
+      "url": "https://www.eurogamer.net/umurangi-generation-studio-blocks-penguin-colony-sale-in-isreal-pro-palestine",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/umurangi-generation-studio-blocks-penguin-colony-sale-in-isreal-pro-palestine",
+          "titre": "\"This act is intended to demonstrate solidarity with Palestine\" - Umurangi Generation studio blocks new game Penguin Colony from being sold in Israel"
+        }
+      ]
+    },
+    {
+      "id": "gdc-festival-of-gaming-2027-moves-to-four-day-format-to-crea",
+      "titre": "GDC Festival of Gaming 2027 moves to four-day format to \"create a higher quality, more focused and valuable experience\"",
+      "url": "https://www.gamesindustry.biz/gdc-festival-of-gaming-2027-moves-to-four-day-format-to-create-a-higher-quality-more-focused-and-valuable-experience",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 2.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/gdc-festival-of-gaming-2027-moves-to-four-day-format-to-create-a-higher-quality-more-focused-and-valuable-experience",
+          "titre": "GDC Festival of Gaming 2027 moves to four-day format to \"create a higher quality, more focused and valuable experience\""
+        }
+      ]
+    },
+    {
+      "id": "wow-what-a-view-shift-up-shows-off-stellar-blade-s-stunning",
+      "titre": "\"Wow, What A View\" - Shift Up Shows Off Stellar Blade's Stunning Photo Mode On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/wow-what-a-view-shift-up-shows-off-stellar-blades-stunning-photo-mode-on-switch-2",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.2,
+      "heures": 5.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-the-street-fighter-movie-are-in",
-          "titre": "Round Up: The Reviews For The Street Fighter Movie Are In"
+          "url": "https://www.nintendolife.com/news/2026/10/wow-what-a-view-shift-up-shows-off-stellar-blades-stunning-photo-mode-on-switch-2",
+          "titre": "\"Wow, What A View\" - Shift Up Shows Off Stellar Blade's Stunning Photo Mode On Switch 2"
         }
       ]
     },
@@ -143,67 +527,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 10.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/reminder-monster-hunter-wilds-switch-2-prologue-demo-now-available",
           "titre": "Reminder: Monster Hunter Wilds Switch 2 Prologue Demo Now Available"
-        }
-      ]
-    },
-    {
-      "id": "xbox-biz-guy-deletes-his-x-account-less-than-24-hours-after",
-      "titre": "Xbox biz guy deletes his X account less than 24 hours after saying game devs who don't embrace AI 'should not be in the business of being a business'",
-      "url": "https://www.pcgamer.com/software/ai/xbox-biz-guy-deletes-his-x-account-less-than-24-hours-after-saying-game-devs-who-dont-embrace-ai-should-not-be-in-the-business-of-being-a-business/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/xbox-biz-guy-deletes-his-x-account-less-than-24-hours-after-saying-game-devs-who-dont-embrace-ai-should-not-be-in-the-business-of-being-a-business/",
-          "titre": "Xbox biz guy deletes his X account less than 24 hours after saying game devs who don't embrace AI 'should not be in the business of being a business'"
-        }
-      ]
-    },
-    {
-      "id": "talking-point-how-did-you-first-encounter-zelda-ocarina-of-t",
-      "titre": "Talking Point: How Did You First Encounter Zelda: Ocarina Of Time?",
-      "url": "https://www.nintendolife.com/news/2026/10/talking-point-how-did-you-first-encounter-zelda-ocarina-of-time",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/talking-point-how-did-you-first-encounter-zelda-ocarina-of-time",
-          "titre": "Talking Point: How Did You First Encounter Zelda: Ocarina Of Time?"
-        }
-      ]
-    },
-    {
-      "id": "too-big-a-risk-moonlighter-devs-delay-new-game-s-demo-for-f",
-      "titre": "\"Too big a risk\": Moonlighter devs delay new game's demo for fear of genAI cloning, calling on platforms to \"keep strengthening protections for original work\"",
-      "url": "https://www.rockpapershotgun.com/too-big-a-risk-moonlighter-devs-delay-new-games-demo-for-fear-of-genai-cloning-calling-on-platforms-to-keep-strengthening-protections-for-original-work",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/too-big-a-risk-moonlighter-devs-delay-new-games-demo-for-fear-of-genai-cloning-calling-on-platforms-to-keep-strengthening-protections-for-original-work",
-          "titre": "\"Too big a risk\": Moonlighter devs delay new game's demo for fear of genAI cloning, calling on platforms to \"keep strengthening protections for original work\""
         }
       ]
     },
@@ -215,7 +545,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 19.2,
       "chaleur": 6,
       "liens": [
         {
@@ -233,7 +563,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 19.9,
       "chaleur": 6,
       "liens": [
         {
@@ -252,7 +582,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 13.2,
+      "heures": 19.9,
       "chaleur": 6,
       "liens": [
         {
@@ -268,30 +598,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "saros-massive-zenith-update-is-available-now-on-ps5-free-for",
-      "titre": "Saros' Massive Zenith Update Is Available Now on PS5, Free for All Players",
-      "url": "https://www.pushsquare.com/news/2026/10/saros-massive-zenith-update-is-available-now-on-ps5-free-for-all-players",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 16.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/saros-massive-zenith-update-is-available-now-on-ps5-free-for-all-players",
-          "titre": "Saros' Massive Zenith Update Is Available Now on PS5, Free for All Players"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/saross-free-new-game-plus-update-is-out-now-including-a-boss-rush-mode/",
-          "titre": "Saros’s free New Game Plus update is out now, including a Boss Rush mode"
-        }
-      ]
-    },
-    {
       "id": "nintendo-underestimated-zelda-switch-2-console-sales-but-pro",
       "titre": "Nintendo \"Underestimated\" Zelda Switch 2 Console Sales, But Promises Restocks Are On The Way",
       "url": "https://www.nintendolife.com/news/2026/10/nintendo-underestimated-zelda-switch-2-console-sales-but-promises-restocks-are-on-the-way",
@@ -299,31 +605,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.7,
+      "heures": 23.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/nintendo-underestimated-zelda-switch-2-console-sales-but-promises-restocks-are-on-the-way",
           "titre": "Nintendo \"Underestimated\" Zelda Switch 2 Console Sales, But Promises Restocks Are On The Way"
-        }
-      ]
-    },
-    {
-      "id": "rumour-aaa-assassin-s-creed-game-set-in-china-was-cancelled",
-      "titre": "Rumour: AAA Assassin's Creed Game Set in China Was Cancelled Just Last Year",
-      "url": "https://www.pushsquare.com/news/2026/10/rumour-aaa-assassins-creed-game-set-in-china-was-cancelled-just-last-year",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 16.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/rumour-aaa-assassins-creed-game-set-in-china-was-cancelled-just-last-year",
-          "titre": "Rumour: AAA Assassin's Creed Game Set in China Was Cancelled Just Last Year"
         }
       ]
     },
@@ -335,7 +623,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 24.6,
       "chaleur": 6,
       "liens": [
         {
@@ -353,13 +641,67 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 25.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/activision-qa-united-cwa-union-vote-to-authorise-strike-claims-publisher-has-failed-to-bargain-in-good-faith-over-key-issues",
           "titre": "Activision QA United-CWA union vote to authorise strike, claims publisher has \"failed to bargain in good faith over key issues\""
+        }
+      ]
+    },
+    {
+      "id": "liquid-swords-ceo-confirms-studio-closure-following-bankrupt",
+      "titre": "Liquid Swords CEO confirms studio closure following bankruptcy proceedings",
+      "url": "https://www.gamesindustry.biz/samson-studio-liquid-swords-files-for-bankruptcy-staff-reportedly-unpaid-for-two-months",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 26.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/samson-studio-liquid-swords-files-for-bankruptcy-staff-reportedly-unpaid-for-two-months",
+          "titre": "Liquid Swords CEO confirms studio closure following bankruptcy proceedings"
+        }
+      ]
+    },
+    {
+      "id": "xbox-biz-guy-deletes-his-x-account-less-than-24-hours-after",
+      "titre": "Xbox biz guy deletes his X account less than 24 hours after saying game devs who don't embrace AI 'should not be in the business of being a business'",
+      "url": "https://www.pcgamer.com/software/ai/xbox-biz-guy-deletes-his-x-account-less-than-24-hours-after-saying-game-devs-who-dont-embrace-ai-should-not-be-in-the-business-of-being-a-business/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 14.7,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/xbox-biz-guy-deletes-his-x-account-less-than-24-hours-after-saying-game-devs-who-dont-embrace-ai-should-not-be-in-the-business-of-being-a-business/",
+          "titre": "Xbox biz guy deletes his X account less than 24 hours after saying game devs who don't embrace AI 'should not be in the business of being a business'"
+        }
+      ]
+    },
+    {
+      "id": "too-big-a-risk-moonlighter-devs-delay-new-game-s-demo-for-f",
+      "titre": "\"Too big a risk\": Moonlighter devs delay new game's demo for fear of genAI cloning, calling on platforms to \"keep strengthening protections for original work\"",
+      "url": "https://www.rockpapershotgun.com/too-big-a-risk-moonlighter-devs-delay-new-games-demo-for-fear-of-genai-cloning-calling-on-platforms-to-keep-strengthening-protections-for-original-work",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 18.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/too-big-a-risk-moonlighter-devs-delay-new-games-demo-for-fear-of-genai-cloning-calling-on-platforms-to-keep-strengthening-protections-for-original-work",
+          "titre": "\"Too big a risk\": Moonlighter devs delay new game's demo for fear of genAI cloning, calling on platforms to \"keep strengthening protections for original work\""
         }
       ]
     },
@@ -371,7 +713,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 19.3,
       "chaleur": 5,
       "liens": [
         {
@@ -389,7 +731,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 22.4,
       "chaleur": 5,
       "liens": [
         {
@@ -407,7 +749,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 23.2,
       "chaleur": 5,
       "liens": [
         {
@@ -425,7 +767,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.0,
+      "heures": 24.7,
       "chaleur": 5,
       "liens": [
         {
@@ -436,56 +778,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "samson-studio-liquid-swords-files-for-bankruptcy-staff-repor",
-      "titre": "Samson studio Liquid Swords files for bankruptcy, staff reportedly unpaid for two months",
-      "url": "https://www.gamesindustry.biz/samson-studio-liquid-swords-files-for-bankruptcy-staff-reportedly-unpaid-for-two-months",
+      "id": "the-best-enshrouded-base-locations-for-picturesque-vistas-or",
+      "titre": "The best Enshrouded base locations for picturesque vistas or strategic strongholds",
+      "url": "https://www.pcgamer.com/games/survival-crafting/enshrouded-base-locations/",
       "sources": [
-        "GamesIndustry.biz"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.9,
-      "chaleur": 5,
+      "heures": 5.8,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/samson-studio-liquid-swords-files-for-bankruptcy-staff-reportedly-unpaid-for-two-months",
-          "titre": "Samson studio Liquid Swords files for bankruptcy, staff reportedly unpaid for two months"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/enshrouded-base-locations/",
+          "titre": "The best Enshrouded base locations for picturesque vistas or strategic strongholds"
         }
       ]
     },
     {
-      "id": "players-on-steam-so-far-seem-delighted-with-modern-warfare-4",
-      "titre": "Players on Steam so far seem delighted with Modern Warfare 4's campaign, making it one of the most well-received Call of Dutys in recent history",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-campaign-steam-review-rating",
+      "id": "the-runtime-of-sonic-s-fourth-movie-outing-has-seemingly-bee",
+      "titre": "The Runtime Of Sonic's Fourth Movie Outing Has Seemingly Been Revealed",
+      "url": "https://www.nintendolife.com/news/2026/10/the-runtime-of-sonics-fourth-movie-outing-has-seemingly-been-revealed",
       "sources": [
-        "Eurogamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.0,
-      "chaleur": 5,
+      "heures": 6.7,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-campaign-steam-review-rating",
-          "titre": "Players on Steam so far seem delighted with Modern Warfare 4's campaign, making it one of the most well-received Call of Dutys in recent history"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/the-runtime-of-sonics-fourth-movie-outing-has-seemingly-been-revealed",
+          "titre": "The Runtime Of Sonic's Fourth Movie Outing Has Seemingly Been Revealed"
         }
       ]
     },
     {
-      "id": "the-ps6-s-memory-and-storage-alone-reportedly-cost-more-than",
-      "titre": "The PS6's memory and storage alone reportedly cost more than $680",
-      "url": "https://www.eurogamer.net/ps6-ram-nand-costs-over-680-keplerl2",
+      "id": "pok-mon-pokopia-and-fire-emblem-fortune-s-weave-shortlisted",
+      "titre": "Pokémon Pokopia And Fire Emblem: Fortune's Weave Shortlisted For 'Console Game Of The Year'",
+      "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-and-fire-emblem-fortunes-weave-shortlisted-for-console-game-of-the-year",
       "sources": [
-        "Eurogamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 35.5,
-      "chaleur": 5,
+      "heures": 8.7,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ps6-ram-nand-costs-over-680-keplerl2",
-          "titre": "The PS6's memory and storage alone reportedly cost more than $680"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-and-fire-emblem-fortunes-weave-shortlisted-for-console-game-of-the-year",
+          "titre": "Pokémon Pokopia And Fire Emblem: Fortune's Weave Shortlisted For 'Console Game Of The Year'"
+        }
+      ]
+    },
+    {
+      "id": "round-up-the-reviews-for-the-street-fighter-movie-are-in",
+      "titre": "Round Up: The Reviews For The Street Fighter Movie Are In",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-the-street-fighter-movie-are-in",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 9.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-the-street-fighter-movie-are-in",
+          "titre": "Round Up: The Reviews For The Street Fighter Movie Are In"
         }
       ]
     },
@@ -497,8 +857,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.7,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -515,8 +875,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -533,8 +893,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 7.7,
-      "chaleur": 4,
+      "heures": 14.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -551,31 +911,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.4,
-      "chaleur": 4,
+      "heures": 16.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/pegi-begins-moving-existing-digital-only-games-with-loot-boxes-up-to-a-16-rating",
           "titre": "PEGI begins moving existing digital-only games with loot boxes up to a 16 rating"
-        }
-      ]
-    },
-    {
-      "id": "could-sony-s-bungie-build-the-next-star-wars-battlefront-gam",
-      "titre": "Could Sony's Bungie Build the Next Star Wars Battlefront Game?",
-      "url": "https://www.pushsquare.com/news/2026/10/could-sonys-bungie-build-the-next-star-wars-battlefront-game",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 9.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/could-sonys-bungie-build-the-next-star-wars-battlefront-game",
-          "titre": "Could Sony's Bungie Build the Next Star Wars Battlefront Game?"
         }
       ]
     },
@@ -587,8 +929,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 17.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -605,8 +947,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
+      "heures": 17.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -623,8 +965,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 18.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -641,8 +983,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 4,
+      "heures": 18.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -659,8 +1001,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 18.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -677,7 +1019,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 18.8,
       "chaleur": 3,
       "liens": [
         {
@@ -695,7 +1037,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 18.9,
       "chaleur": 3,
       "liens": [
         {
@@ -713,7 +1055,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 19.2,
       "chaleur": 3,
       "liens": [
         {
@@ -731,7 +1073,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 19.2,
       "chaleur": 3,
       "liens": [
         {
@@ -749,7 +1091,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
@@ -767,7 +1109,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -776,349 +1118,9 @@ const VEILLE = {
           "titre": "A Demo for Rideshare \"Stimulator\", Saber's AI-Filled Driving Sim, Is Available Now on PS5"
         }
       ]
-    },
-    {
-      "id": "japanese-acting-union-fights-back-against-ai-generated-voice",
-      "titre": "Japanese acting union fights back against AI-generated voice use, proposing strict new guidelines, especially regarding the use of a deceased actor's voice",
-      "url": "https://www.eurogamer.net/japanese-voice-acting-union-generative-ai",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 13.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/japanese-voice-acting-union-generative-ai",
-          "titre": "Japanese acting union fights back against AI-generated voice use, proposing strict new guidelines, especially regarding the use of a deceased actor's voice"
-        }
-      ]
-    },
-    {
-      "id": "gamesir-nova-lite-2-review",
-      "titre": "GameSir Nova Lite 2 review",
-      "url": "https://www.pcgamer.com/hardware/controllers/gamesir-nova-lite-2-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/controllers/gamesir-nova-lite-2-review/",
-          "titre": "GameSir Nova Lite 2 review"
-        }
-      ]
-    },
-    {
-      "id": "two-entire-pallets-of-rtx-5090s-have-gone-missing-from-a-bra",
-      "titre": "Two entire pallets of RTX 5090s have 'gone missing' from a Brazilian airport—$495,000 worth of unobtanium graphics cards now presumably at large",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/two-entire-pallets-of-rtx-5090s-have-gone-missing-from-a-brazilian-airport-usd495-000-worth-of-unobtanium-graphics-cards-now-presumably-at-large/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/two-entire-pallets-of-rtx-5090s-have-gone-missing-from-a-brazilian-airport-usd495-000-worth-of-unobtanium-graphics-cards-now-presumably-at-large/",
-          "titre": "Two entire pallets of RTX 5090s have 'gone missing' from a Brazilian airport—$495,000 worth of unobtanium graphics cards now presumably at large"
-        }
-      ]
-    },
-    {
-      "id": "hands-on-beamng-drive-s-insanely-ambitious-simulation-sandbo",
-      "titre": "Hands On: BeamNG.drive's Insanely Ambitious Simulation Sandbox Is a Minor Miracle on PS5",
-      "url": "https://www.pushsquare.com/features/hands-on-beamng-drives-insanely-ambitious-simulation-sandbox-is-a-minor-miracle-on-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 13.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/hands-on-beamng-drives-insanely-ambitious-simulation-sandbox-is-a-minor-miracle-on-ps5",
-          "titre": "Hands On: BeamNG.drive's Insanely Ambitious Simulation Sandbox Is a Minor Miracle on PS5"
-        }
-      ]
-    },
-    {
-      "id": "crusader-kings-3-s-merchant-republics-expansion-silk-and-sil",
-      "titre": "Crusader Kings 3's merchant republics expansion, Silk and Silver, will release during the very quiet time of mid-November 2026",
-      "url": "https://www.rockpapershotgun.com/crusader-kings-3s-merchant-republics-expansion-silk-and-silver-will-release-during-the-very-quiet-time-of-mid-november-2026",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 13.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/crusader-kings-3s-merchant-republics-expansion-silk-and-silver-will-release-during-the-very-quiet-time-of-mid-november-2026",
-          "titre": "Crusader Kings 3's merchant republics expansion, Silk and Silver, will release during the very quiet time of mid-November 2026"
-        }
-      ]
-    },
-    {
-      "id": "phantom-blade-zero-will-gobble-up-a-massive-chunk-of-your-ps",
-      "titre": "Phantom Blade Zero Will Gobble Up a Massive Chunk of Your PS5's SSD",
-      "url": "https://www.pushsquare.com/news/2026/10/phantom-blade-zero-will-gobble-up-a-massive-chunk-of-your-ps5s-ssd",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 14.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/phantom-blade-zero-will-gobble-up-a-massive-chunk-of-your-ps5s-ssd",
-          "titre": "Phantom Blade Zero Will Gobble Up a Massive Chunk of Your PS5's SSD"
-        }
-      ]
-    },
-    {
-      "id": "uk-charts-castlevania-belmont-s-curse-whips-up-a-fine-debut",
-      "titre": "UK Charts: Castlevania: Belmont's Curse Whips Up A Fine Debut, But It's Not King Of The Castle",
-      "url": "https://www.nintendolife.com/news/2026/10/uk-charts-castlevania-belmonts-curse-whips-up-a-fine-debut-but-its-not-king-of-the-castle",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 14.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/uk-charts-castlevania-belmonts-curse-whips-up-a-fine-debut-but-its-not-king-of-the-castle",
-          "titre": "UK Charts: Castlevania: Belmont's Curse Whips Up A Fine Debut, But It's Not King Of The Castle"
-        }
-      ]
-    },
-    {
-      "id": "gooner-game-zenless-zone-zero-gets-an-age-rating-increase-o",
-      "titre": "'Gooner Game' Zenless Zone Zero Gets an Age Rating Increase on PS5",
-      "url": "https://www.pushsquare.com/news/2026/10/gooner-game-zenless-zone-zero-gets-an-age-rating-increase-on-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 14.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/gooner-game-zenless-zone-zero-gets-an-age-rating-increase-on-ps5",
-          "titre": "'Gooner Game' Zenless Zone Zero Gets an Age Rating Increase on PS5"
-        }
-      ]
-    },
-    {
-      "id": "ps5-bullet-ballet-game-saros-gets-a-big-update-to-make-it-bo",
-      "titre": "PS5 \"bullet ballet\" game Saros gets a big update to make it both easier and harder",
-      "url": "https://www.eurogamer.net/saros-update-zenith-ps5-new-game-plus",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 14.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/saros-update-zenith-ps5-new-game-plus",
-          "titre": "PS5 \"bullet ballet\" game Saros gets a big update to make it both easier and harder"
-        }
-      ]
-    },
-    {
-      "id": "one-of-the-biggest-game-decompilation-sites-is-closing-becau",
-      "titre": "One of the biggest game decompilation sites is closing because AI has ‘broken the community aspect’",
-      "url": "https://www.videogameschronicle.com/news/one-of-the-biggest-game-decompilation-sites-is-closing-because-ai-has-broken-the-community-aspect/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 14.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/one-of-the-biggest-game-decompilation-sites-is-closing-because-ai-has-broken-the-community-aspect/",
-          "titre": "One of the biggest game decompilation sites is closing because AI has ‘broken the community aspect’"
-        }
-      ]
-    },
-    {
-      "id": "snoop-dogg-and-singing-are-all-over-stranger-than-heaven-s-a",
-      "titre": "Snoop Dogg and Singing Are All Over Stranger Than Heaven's Act 1 Deep Dive Trailer",
-      "url": "https://www.pushsquare.com/news/2026/10/snoop-dogg-and-singing-are-all-over-stranger-than-heavens-act-1-deep-dive-trailer",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 15.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/snoop-dogg-and-singing-are-all-over-stranger-than-heavens-act-1-deep-dive-trailer",
-          "titre": "Snoop Dogg and Singing Are All Over Stranger Than Heaven's Act 1 Deep Dive Trailer"
-        }
-      ]
-    },
-    {
-      "id": "endless-pile-of-needle-in-haystack-games-begins-to-emerge-as",
-      "titre": "Endless pile of Needle In Haystack games begins to emerge, as viral hit imitator's devs claim their code was nicked by a genAI-using clone",
-      "url": "https://www.rockpapershotgun.com/endless-pile-of-needle-in-haystack-games-begins-to-emerge-as-viral-hit-imitators-devs-claim-their-code-was-nicked-by-a-genai-using-clone",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 15.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/endless-pile-of-needle-in-haystack-games-begins-to-emerge-as-viral-hit-imitators-devs-claim-their-code-was-nicked-by-a-genai-using-clone",
-          "titre": "Endless pile of Needle In Haystack games begins to emerge, as viral hit imitator's devs claim their code was nicked by a genAI-using clone"
-        }
-      ]
-    },
-    {
-      "id": "star-wars-games-primed-to-continue-hot-streak-with-surprise",
-      "titre": "Star Wars Games Primed to Continue Hot Streak with 'Surprise' Titles",
-      "url": "https://www.pushsquare.com/news/2026/10/star-wars-games-primed-to-continue-hot-streak-with-surprise-titles",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 15.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/star-wars-games-primed-to-continue-hot-streak-with-surprise-titles",
-          "titre": "Star Wars Games Primed to Continue Hot Streak with 'Surprise' Titles"
-        }
-      ]
-    },
-    {
-      "id": "this-week-in-pc-games-build-a-better-zombie-in-stupid-never",
-      "titre": "This week in PC games: build a better zombie in Stupid Never Dies, glue together houses in Cutout Village, and settle brave new worlds in Star Trek: Outposts Unknown",
-      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-build-a-better-zombie-in-stupid-never-dies-glue-together-houses-in-cutout-village-and-settle-brave-new-worlds-in-star-trek-outposts-unknown",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 15.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-build-a-better-zombie-in-stupid-never-dies-glue-together-houses-in-cutout-village-and-settle-brave-new-worlds-in-star-trek-outposts-unknown",
-          "titre": "This week in PC games: build a better zombie in Stupid Never Dies, glue together houses in Cutout Village, and settle brave new worlds in Star Trek: Outposts Unknown"
-        }
-      ]
-    },
-    {
-      "id": "ps5-exclusive-demon-s-souls-remake-not-only-runs-on-pc-now-i",
-      "titre": "PS5-exclusive Demon's Souls Remake not only runs on PC now, it's running at twice the fps cap on an RTX 5070 with frame gen",
-      "url": "https://www.pcgamer.com/hardware/ps5-exclusive-demons-souls-remake-not-only-runs-on-pc-now-its-running-at-twice-the-fps-cap-on-an-rtx-5070-with-frame-gen/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 16.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/ps5-exclusive-demons-souls-remake-not-only-runs-on-pc-now-its-running-at-twice-the-fps-cap-on-an-rtx-5070-with-frame-gen/",
-          "titre": "PS5-exclusive Demon's Souls Remake not only runs on PC now, it's running at twice the fps cap on an RTX 5070 with frame gen"
-        }
-      ]
-    },
-    {
-      "id": "no-publishers-wanted-outlast-because-they-d-rather-invest-50",
-      "titre": "No publishers wanted Outlast because they'd 'rather invest $50,000 in 10 mobile games' so Red Barrels relied on public investment programs and their own savings instead",
-      "url": "https://www.pcgamer.com/games/horror/no-publisher-wanted-outlast-because-theyd-rather-invest-usd50-000-in-10-mobile-games-so-red-barrels-relied-on-public-investment-programs-and-their-own-savings-instead/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/no-publisher-wanted-outlast-because-theyd-rather-invest-usd50-000-in-10-mobile-games-so-red-barrels-relied-on-public-investment-programs-and-their-own-savings-instead/",
-          "titre": "No publishers wanted Outlast because they'd 'rather invest $50,000 in 10 mobile games' so Red Barrels relied on public investment programs and their own savings instead"
-        }
-      ]
-    },
-    {
-      "id": "life-has-once-again-found-a-way-in-athanasia-an-immersive-di",
-      "titre": "Life has once again found a way in Athanasia, an \"immersive\" dinosaur FPS that feels like comfort food for Dino Crisis and System Shock players alike",
-      "url": "https://www.rockpapershotgun.com/life-has-once-again-found-a-way-in-athanasia-an-immersive-dinosaur-fps-that-feels-like-comfort-food-for-dino-crisis-and-system-shock-players-alike",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/life-has-once-again-found-a-way-in-athanasia-an-immersive-dinosaur-fps-that-feels-like-comfort-food-for-dino-crisis-and-system-shock-players-alike",
-          "titre": "Life has once again found a way in Athanasia, an \"immersive\" dinosaur FPS that feels like comfort food for Dino Crisis and System Shock players alike"
-        }
-      ]
-    },
-    {
-      "id": "rtx-5090-not-dead-says-nvidia-but-it-s-mysteriously-vanished",
-      "titre": "RTX 5090 not dead, says Nvidia—but it's mysteriously vanished from the company's official marketplace",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/rtx-5090-not-dead-says-nvidia-but-its-mysteriously-vanished-from-the-companys-official-marketplace/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/rtx-5090-not-dead-says-nvidia-but-its-mysteriously-vanished-from-the-companys-official-marketplace/",
-          "titre": "RTX 5090 not dead, says Nvidia—but it's mysteriously vanished from the company's official marketplace"
-        }
-      ]
-    },
-    {
-      "id": "the-next-call-of-duty-will-introduce-a-new-sub-series-to-the",
-      "titre": "The next Call of Duty will introduce a new sub-series to the franchise",
-      "url": "https://www.eurogamer.net/call-of-duty-next-game-new-sub-franchise",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 17.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/call-of-duty-next-game-new-sub-franchise",
-          "titre": "The next Call of Duty will introduce a new sub-series to the franchise"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "DICE and Bungie are reportedly both interested in developing Star Wars Battlefront 3"
+  ]
 };
