@@ -1,32 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "19/10/2026 à 23h33",
+  "collecte": "20/10/2026 à 04h39",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "moonlighter-dev-delays-steam-playtest-for-its-tower-defensev",
-      "titre": "Moonlighter dev delays Steam playtest for its \"Tower Defensevania\" ReVamp over concerns that AI copycats might clone it before launch",
-      "url": "https://www.eurogamer.net/moonlighter-dev-steam-playtest-revamp-ai-copycats",
-      "sources": [
-        "Eurogamer",
-        "Game Developer"
-      ],
-      "reprises": 2,
-      "heures": 3.7,
-      "chaleur": 13,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/moonlighter-dev-steam-playtest-revamp-ai-copycats",
-          "titre": "Moonlighter dev delays Steam playtest for its \"Tower Defensevania\" ReVamp over concerns that AI copycats might clone it before launch"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning",
-          "titre": "Moonlighter developer delays public playtest of next game over concerns of AI cloning"
-        }
-      ]
-    },
     {
       "id": "star-wars-zero-company-adds-new-difficulty-options-that-can",
       "titre": "Star Wars Zero Company adds new difficulty options that can bring it closer to XCOM",
@@ -37,8 +13,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 1.8,
-      "chaleur": 12,
+      "heures": 6.9,
+      "chaleur": 10,
       "liens": [
         {
           "source": "PC Gamer",
@@ -58,44 +34,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-ps6-s-memory-and-storage-alone-reportedly-cost-more-than",
-      "titre": "The PS6's memory and storage alone reportedly cost more than $680",
-      "url": "https://www.eurogamer.net/ps6-ram-nand-costs-over-680-keplerl2",
+      "id": "moonlighter-studio-won-t-host-a-public-playtest-of-its-next",
+      "titre": "Moonlighter studio won't host a public playtest of its next game due to rampant AI-led cloning: 'We know we're not the only developers feeling this way'",
+      "url": "https://www.pcgamer.com/gaming-industry/moonlighter-studio-wont-host-a-public-playtest-of-its-next-game-due-to-rampant-ai-led-cloning-we-know-were-not-the-only-developers-feeling-this-way/",
       "sources": [
-        "Eurogamer",
-        "VGC"
+        "Game Developer",
+        "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 30.4,
-      "chaleur": 10,
+      "heures": 5.1,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ps6-ram-nand-costs-over-680-keplerl2",
-          "titre": "The PS6's memory and storage alone reportedly cost more than $680"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/moonlighter-studio-wont-host-a-public-playtest-of-its-next-game-due-to-rampant-ai-led-cloning-we-know-were-not-the-only-developers-feeling-this-way/",
+          "titre": "Moonlighter studio won't host a public playtest of its next game due to rampant AI-led cloning: 'We know we're not the only developers feeling this way'"
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/playstation-6s-memory-costs-alone-exceed-680-per-console-its-claimed/",
-          "titre": "PlayStation 6’s memory costs alone exceed $680 per console, it’s claimed"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning",
+          "titre": "Moonlighter developer delays public playtest of next game over concerns of AI cloning"
         }
       ]
     },
     {
-      "id": "xbox-biz-guy-deletes-his-x-account-less-than-24-hours-after",
-      "titre": "Xbox biz guy deletes his X account less than 24 hours after saying game devs who don't embrace AI 'should not be in the business of being a business'",
-      "url": "https://www.pcgamer.com/software/ai/xbox-biz-guy-deletes-his-x-account-less-than-24-hours-after-saying-game-devs-who-dont-embrace-ai-should-not-be-in-the-business-of-being-a-business/",
+      "id": "moonlighter-dev-delays-steam-playtest-for-its-tower-defensev",
+      "titre": "Moonlighter dev delays Steam playtest for its \"Tower Defensevania\" ReVamp over concerns that AI copycats might clone it before launch",
+      "url": "https://www.eurogamer.net/moonlighter-dev-steam-playtest-revamp-ai-copycats",
       "sources": [
-        "PC Gamer"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.8,
+      "heures": 8.8,
       "chaleur": 8,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/xbox-biz-guy-deletes-his-x-account-less-than-24-hours-after-saying-game-devs-who-dont-embrace-ai-should-not-be-in-the-business-of-being-a-business/",
-          "titre": "Xbox biz guy deletes his X account less than 24 hours after saying game devs who don't embrace AI 'should not be in the business of being a business'"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/moonlighter-dev-steam-playtest-revamp-ai-copycats",
+          "titre": "Moonlighter dev delays Steam playtest for its \"Tower Defensevania\" ReVamp over concerns that AI copycats might clone it before launch"
         }
       ]
     },
@@ -108,7 +84,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 12.8,
+      "heures": 17.9,
       "chaleur": 8,
       "liens": [
         {
@@ -124,6 +100,114 @@ const VEILLE = {
       ]
     },
     {
+      "id": "pok-mon-pokopia-and-fire-emblem-fortune-s-weave-shortlisted",
+      "titre": "Pokémon Pokopia And Fire Emblem: Fortune's Weave Shortlisted For 'Console Game Of The Year'",
+      "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-and-fire-emblem-fortunes-weave-shortlisted-for-console-game-of-the-year",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-and-fire-emblem-fortunes-weave-shortlisted-for-console-game-of-the-year",
+          "titre": "Pokémon Pokopia And Fire Emblem: Fortune's Weave Shortlisted For 'Console Game Of The Year'"
+        }
+      ]
+    },
+    {
+      "id": "round-up-the-reviews-for-the-street-fighter-movie-are-in",
+      "titre": "Round Up: The Reviews For The Street Fighter Movie Are In",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-the-street-fighter-movie-are-in",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-the-street-fighter-movie-are-in",
+          "titre": "Round Up: The Reviews For The Street Fighter Movie Are In"
+        }
+      ]
+    },
+    {
+      "id": "reminder-monster-hunter-wilds-switch-2-prologue-demo-now-ava",
+      "titre": "Reminder: Monster Hunter Wilds Switch 2 Prologue Demo Now Available",
+      "url": "https://www.nintendolife.com/news/2026/10/reminder-monster-hunter-wilds-switch-2-prologue-demo-now-available",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/reminder-monster-hunter-wilds-switch-2-prologue-demo-now-available",
+          "titre": "Reminder: Monster Hunter Wilds Switch 2 Prologue Demo Now Available"
+        }
+      ]
+    },
+    {
+      "id": "xbox-biz-guy-deletes-his-x-account-less-than-24-hours-after",
+      "titre": "Xbox biz guy deletes his X account less than 24 hours after saying game devs who don't embrace AI 'should not be in the business of being a business'",
+      "url": "https://www.pcgamer.com/software/ai/xbox-biz-guy-deletes-his-x-account-less-than-24-hours-after-saying-game-devs-who-dont-embrace-ai-should-not-be-in-the-business-of-being-a-business/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/xbox-biz-guy-deletes-his-x-account-less-than-24-hours-after-saying-game-devs-who-dont-embrace-ai-should-not-be-in-the-business-of-being-a-business/",
+          "titre": "Xbox biz guy deletes his X account less than 24 hours after saying game devs who don't embrace AI 'should not be in the business of being a business'"
+        }
+      ]
+    },
+    {
+      "id": "talking-point-how-did-you-first-encounter-zelda-ocarina-of-t",
+      "titre": "Talking Point: How Did You First Encounter Zelda: Ocarina Of Time?",
+      "url": "https://www.nintendolife.com/news/2026/10/talking-point-how-did-you-first-encounter-zelda-ocarina-of-time",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 10.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/talking-point-how-did-you-first-encounter-zelda-ocarina-of-time",
+          "titre": "Talking Point: How Did You First Encounter Zelda: Ocarina Of Time?"
+        }
+      ]
+    },
+    {
+      "id": "too-big-a-risk-moonlighter-devs-delay-new-game-s-demo-for-f",
+      "titre": "\"Too big a risk\": Moonlighter devs delay new game's demo for fear of genAI cloning, calling on platforms to \"keep strengthening protections for original work\"",
+      "url": "https://www.rockpapershotgun.com/too-big-a-risk-moonlighter-devs-delay-new-games-demo-for-fear-of-genai-cloning-calling-on-platforms-to-keep-strengthening-protections-for-original-work",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 11.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/too-big-a-risk-moonlighter-devs-delay-new-games-demo-for-fear-of-genai-cloning-calling-on-platforms-to-keep-strengthening-protections-for-original-work",
+          "titre": "\"Too big a risk\": Moonlighter devs delay new game's demo for fear of genAI cloning, calling on platforms to \"keep strengthening protections for original work\""
+        }
+      ]
+    },
+    {
       "id": "samson-dev-confirms-closure-open-world-s-console-sales-were",
       "titre": "Samson Dev Confirms Closure, Open World's Console Sales Were 'Far Better' Than on PC",
       "url": "https://www.pushsquare.com/news/2026/10/samson-dev-confirms-closure-open-worlds-console-sales-were-far-better-than-on-pc",
@@ -131,8 +215,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.3,
-      "chaleur": 7,
+      "heures": 12.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -149,8 +233,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.1,
-      "chaleur": 7,
+      "heures": 13.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -168,8 +252,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 8.1,
-      "chaleur": 7,
+      "heures": 13.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -192,8 +276,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 11.1,
-      "chaleur": 7,
+      "heures": 16.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -215,8 +299,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 7,
+      "heures": 16.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -233,157 +317,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 7,
+      "heures": 16.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/rumour-aaa-assassins-creed-game-set-in-china-was-cancelled-just-last-year",
           "titre": "Rumour: AAA Assassin's Creed Game Set in China Was Cancelled Just Last Year"
-        }
-      ]
-    },
-    {
-      "id": "review-stupid-never-dies-ps5-toilet-flushing-monster-munchin",
-      "titre": "Review: Stupid Never Dies (PS5) - Toilet-Flushing, Monster-Munching Roguelite Stands Out in a Stacked Genre",
-      "url": "https://www.pushsquare.com/reviews/ps5/stupid-never-dies",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/stupid-never-dies",
-          "titre": "Review: Stupid Never Dies (PS5) - Toilet-Flushing, Monster-Munching Roguelite Stands Out in a Stacked Genre"
-        }
-      ]
-    },
-    {
-      "id": "psvr2-darling-synth-riders-dances-away-with-a-spooky-free-so",
-      "titre": "PSVR2 Darling Synth Riders Dances Away with a Spooky Free Song for Halloween",
-      "url": "https://www.pushsquare.com/news/2026/10/psvr2-darling-synth-riders-dances-away-with-a-spooky-free-song-for-halloween",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/psvr2-darling-synth-riders-dances-away-with-a-spooky-free-song-for-halloween",
-          "titre": "PSVR2 Darling Synth Riders Dances Away with a Spooky Free Song for Halloween"
-        }
-      ]
-    },
-    {
-      "id": "rocketwerkz-c-framework-brutal-is-now-available-to-all-devel",
-      "titre": "RocketWerkz' C# framework 'BRUTAL' is now available to all developers",
-      "url": "https://www.gamedeveloper.com/programming/rocketwerkz-c-framework-brutal-is-now-available-for-all-developers",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/programming/rocketwerkz-c-framework-brutal-is-now-available-for-all-developers",
-          "titre": "RocketWerkz' C# framework 'BRUTAL' is now available to all developers"
-        }
-      ]
-    },
-    {
-      "id": "talking-point-how-did-you-first-encounter-zelda-ocarina-of-t",
-      "titre": "Talking Point: How Did You First Encounter Zelda: Ocarina Of Time?",
-      "url": "https://www.nintendolife.com/news/2026/10/talking-point-how-did-you-first-encounter-zelda-ocarina-of-time",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 5.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/talking-point-how-did-you-first-encounter-zelda-ocarina-of-time",
-          "titre": "Talking Point: How Did You First Encounter Zelda: Ocarina Of Time?"
-        }
-      ]
-    },
-    {
-      "id": "too-big-a-risk-moonlighter-devs-delay-new-game-s-demo-for-f",
-      "titre": "\"Too big a risk\": Moonlighter devs delay new game's demo for fear of genAI cloning, calling on platforms to \"keep strengthening protections for original work\"",
-      "url": "https://www.rockpapershotgun.com/too-big-a-risk-moonlighter-devs-delay-new-games-demo-for-fear-of-genai-cloning-calling-on-platforms-to-keep-strengthening-protections-for-original-work",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/too-big-a-risk-moonlighter-devs-delay-new-games-demo-for-fear-of-genai-cloning-calling-on-platforms-to-keep-strengthening-protections-for-original-work",
-          "titre": "\"Too big a risk\": Moonlighter devs delay new game's demo for fear of genAI cloning, calling on platforms to \"keep strengthening protections for original work\""
-        }
-      ]
-    },
-    {
-      "id": "playstation-founder-ken-kutaragi-says-discs-became-metaphor",
-      "titre": "PlayStation founder Ken Kutaragi says discs became \"metaphor for 'owning' games\", and that upset at their discontinuation is a \"mentality issue\"",
-      "url": "https://www.eurogamer.net/ken-kutaragi-playstation-discs",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 7.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ken-kutaragi-playstation-discs",
-          "titre": "PlayStation founder Ken Kutaragi says discs became \"metaphor for 'owning' games\", and that upset at their discontinuation is a \"mentality issue\""
-        }
-      ]
-    },
-    {
-      "id": "a-very-weird-experience-digital-foundry-breaks-down-the-met",
-      "titre": "\"A Very Weird Experience\" - Digital Foundry Breaks Down The Metaphor: ReFantazio Demo On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/a-very-weird-experience-digital-foundry-breaks-down-the-metaphor-refantazio-demo-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/a-very-weird-experience-digital-foundry-breaks-down-the-metaphor-refantazio-demo-on-switch-2",
-          "titre": "\"A Very Weird Experience\" - Digital Foundry Breaks Down The Metaphor: ReFantazio Demo On Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "witcher-3-switch-2-patch-rolls-out-today-with-a-number-of-ch",
-      "titre": "Witcher 3 Switch 2 patch rolls out today with a number of changes, including alterations to resolution and \"visual clarity\"",
-      "url": "https://www.eurogamer.net/witcher-3-switch-2-patch-update-resolution-brightness",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-switch-2-patch-update-resolution-brightness",
-          "titre": "Witcher 3 Switch 2 patch rolls out today with a number of changes, including alterations to resolution and \"visual clarity\""
         }
       ]
     },
@@ -395,7 +335,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 17.9,
       "chaleur": 6,
       "liens": [
         {
@@ -413,7 +353,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 18.4,
       "chaleur": 6,
       "liens": [
         {
@@ -424,20 +364,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mailbox-rising-costs-non-compliant-eu-switches-warioware-fan",
-      "titre": "Mailbox: Rising Costs, Non-Compliant EU Switches, WarioWare Fantasia - Nintendo Life Letters",
-      "url": "https://www.nintendolife.com/news/2026/10/mailbox-rising-costs-non-compliant-eu-switches-warioware-fantasia-nintendo-life-letters",
+      "id": "playstation-founder-ken-kutaragi-says-discs-became-metaphor",
+      "titre": "PlayStation founder Ken Kutaragi says discs became \"metaphor for 'owning' games\", and that upset at their discontinuation is a \"mentality issue\"",
+      "url": "https://www.eurogamer.net/ken-kutaragi-playstation-discs",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 12.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ken-kutaragi-playstation-discs",
+          "titre": "PlayStation founder Ken Kutaragi says discs became \"metaphor for 'owning' games\", and that upset at their discontinuation is a \"mentality issue\""
+        }
+      ]
+    },
+    {
+      "id": "a-very-weird-experience-digital-foundry-breaks-down-the-met",
+      "titre": "\"A Very Weird Experience\" - Digital Foundry Breaks Down The Metaphor: ReFantazio Demo On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/a-very-weird-experience-digital-foundry-breaks-down-the-metaphor-refantazio-demo-on-switch-2",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 35.6,
-      "chaleur": 6,
+      "heures": 15.7,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/mailbox-rising-costs-non-compliant-eu-switches-warioware-fantasia-nintendo-life-letters",
-          "titre": "Mailbox: Rising Costs, Non-Compliant EU Switches, WarioWare Fantasia - Nintendo Life Letters"
+          "url": "https://www.nintendolife.com/news/2026/10/a-very-weird-experience-digital-foundry-breaks-down-the-metaphor-refantazio-demo-on-switch-2",
+          "titre": "\"A Very Weird Experience\" - Digital Foundry Breaks Down The Metaphor: ReFantazio Demo On Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "witcher-3-switch-2-patch-rolls-out-today-with-a-number-of-ch",
+      "titre": "Witcher 3 Switch 2 patch rolls out today with a number of changes, including alterations to resolution and \"visual clarity\"",
+      "url": "https://www.eurogamer.net/witcher-3-switch-2-patch-update-resolution-brightness",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 16.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/witcher-3-switch-2-patch-update-resolution-brightness",
+          "titre": "Witcher 3 Switch 2 patch rolls out today with a number of changes, including alterations to resolution and \"visual clarity\""
         }
       ]
     },
@@ -449,7 +425,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 18.0,
       "chaleur": 5,
       "liens": [
         {
@@ -467,7 +443,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.8,
+      "heures": 19.9,
       "chaleur": 5,
       "liens": [
         {
@@ -485,13 +461,85 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 20.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-campaign-steam-review-rating",
           "titre": "Players on Steam so far seem delighted with Modern Warfare 4's campaign, making it one of the most well-received Call of Dutys in recent history"
+        }
+      ]
+    },
+    {
+      "id": "the-ps6-s-memory-and-storage-alone-reportedly-cost-more-than",
+      "titre": "The PS6's memory and storage alone reportedly cost more than $680",
+      "url": "https://www.eurogamer.net/ps6-ram-nand-costs-over-680-keplerl2",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 35.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ps6-ram-nand-costs-over-680-keplerl2",
+          "titre": "The PS6's memory and storage alone reportedly cost more than $680"
+        }
+      ]
+    },
+    {
+      "id": "review-stupid-never-dies-ps5-toilet-flushing-monster-munchin",
+      "titre": "Review: Stupid Never Dies (PS5) - Toilet-Flushing, Monster-Munching Roguelite Stands Out in a Stacked Genre",
+      "url": "https://www.pushsquare.com/reviews/ps5/stupid-never-dies",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 6.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/stupid-never-dies",
+          "titre": "Review: Stupid Never Dies (PS5) - Toilet-Flushing, Monster-Munching Roguelite Stands Out in a Stacked Genre"
+        }
+      ]
+    },
+    {
+      "id": "psvr2-darling-synth-riders-dances-away-with-a-spooky-free-so",
+      "titre": "PSVR2 Darling Synth Riders Dances Away with a Spooky Free Song for Halloween",
+      "url": "https://www.pushsquare.com/news/2026/10/psvr2-darling-synth-riders-dances-away-with-a-spooky-free-song-for-halloween",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 6.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/psvr2-darling-synth-riders-dances-away-with-a-spooky-free-song-for-halloween",
+          "titre": "PSVR2 Darling Synth Riders Dances Away with a Spooky Free Song for Halloween"
+        }
+      ]
+    },
+    {
+      "id": "rocketwerkz-c-framework-brutal-is-now-available-to-all-devel",
+      "titre": "RocketWerkz' C# framework 'BRUTAL' is now available to all developers",
+      "url": "https://www.gamedeveloper.com/programming/rocketwerkz-c-framework-brutal-is-now-available-for-all-developers",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 7.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/programming/rocketwerkz-c-framework-brutal-is-now-available-for-all-developers",
+          "titre": "RocketWerkz' C# framework 'BRUTAL' is now available to all developers"
         }
       ]
     },
@@ -503,7 +551,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -521,7 +569,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 9.9,
       "chaleur": 4,
       "liens": [
         {
@@ -539,7 +587,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -557,7 +605,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
@@ -575,7 +623,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -593,7 +641,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
@@ -611,7 +659,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -629,8 +677,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.0,
-      "chaleur": 4,
+      "heures": 12.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -647,8 +695,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.1,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -665,8 +713,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -683,8 +731,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.3,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -701,8 +749,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.5,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -719,8 +767,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -737,8 +785,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -755,8 +803,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -773,8 +821,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -791,8 +839,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.6,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -809,8 +857,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.6,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -827,8 +875,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 4,
+      "heures": 14.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -845,8 +893,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 4,
+      "heures": 14.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -863,8 +911,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 4,
+      "heures": 14.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -881,8 +929,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 4,
+      "heures": 14.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -899,8 +947,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 4,
+      "heures": 14.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -917,8 +965,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 15.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -935,8 +983,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 15.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -953,8 +1001,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 15.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -971,8 +1019,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 15.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -989,8 +1037,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 16.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1007,8 +1055,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
-      "chaleur": 4,
+      "heures": 17.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1025,7 +1073,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,7 +1091,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 17.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,67 +1109,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 17.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/call-of-duty-next-game-new-sub-franchise",
           "titre": "The next Call of Duty will introduce a new sub-series to the franchise"
-        }
-      ]
-    },
-    {
-      "id": "gdca-2027-moves-away-from-nominations-based-system-publisher",
-      "titre": "GDCA 2027 moves away from nominations-based system, publishers and devs can now submit games for consideration",
-      "url": "https://www.gamesindustry.biz/gdca-2027-moves-away-from-nominations-based-system-publishers-and-devs-can-now-submit-games-for-consideration",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 12.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/gdca-2027-moves-away-from-nominations-based-system-publishers-and-devs-can-now-submit-games-for-consideration",
-          "titre": "GDCA 2027 moves away from nominations-based system, publishers and devs can now submit games for consideration"
-        }
-      ]
-    },
-    {
-      "id": "man-moved-to-tears-by-rtx-5090-on-his-wedding-day-9000-price",
-      "titre": "Man moved to tears by RTX 5090 on his wedding day - $9000+ price tag brings a tear to my eye too",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/man-moved-to-tears-by-rtx-5090-on-his-wedding-day-usd9000-price-tag-brings-a-tear-to-my-eye-too/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/man-moved-to-tears-by-rtx-5090-on-his-wedding-day-usd9000-price-tag-brings-a-tear-to-my-eye-too/",
-          "titre": "Man moved to tears by RTX 5090 on his wedding day - $9000+ price tag brings a tear to my eye too"
-        }
-      ]
-    },
-    {
-      "id": "computational-analysis-solves-what-mario-64-s-infamous-plaqu",
-      "titre": "Computational analysis ‘solves’ what Mario 64’s infamous plaque says, and it’s not ‘L is Real 2401’",
-      "url": "https://www.videogameschronicle.com/news/someone-has-used-computational-analysis-to-decide-what-mario-64s-infamous-plaque-says-and-its-not-l-is-real-2401/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 13.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/someone-has-used-computational-analysis-to-decide-what-mario-64s-infamous-plaque-says-and-its-not-l-is-real-2401/",
-          "titre": "Computational analysis ‘solves’ what Mario 64’s infamous plaque says, and it’s not ‘L is Real 2401’"
         }
       ]
     }
