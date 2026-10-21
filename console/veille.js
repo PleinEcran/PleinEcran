@@ -1,25 +1,25 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "21/10/2026 à 00h33",
+  "collecte": "21/10/2026 à 07h28",
   "seuil": 14,
   "sujets": [
     {
-      "id": "round-up-the-reviews-are-in-for-nintendo-switch-sports-resor",
-      "titre": "Round Up: The Reviews Are In For Nintendo Switch Sports Resort",
-      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-are-in-for-nintendo-switch-sports-resort",
+      "id": "ubisoft-s-extreme-sports-playground-riders-republic-launches",
+      "titre": "Ubisoft's Extreme Sports Playground 'Riders Republic' Launches On Switch 2 This December",
+      "url": "https://www.nintendolife.com/news/2026/10/ubisofts-extreme-sports-playground-riders-republic-launches-on-switch-2-this-december",
       "sources": [
         "Eurogamer",
         "Nintendo Life",
         "VGC"
       ],
       "reprises": 3,
-      "heures": 6.6,
+      "heures": 5.6,
       "chaleur": 13,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-are-in-for-nintendo-switch-sports-resort",
-          "titre": "Round Up: The Reviews Are In For Nintendo Switch Sports Resort"
+          "url": "https://www.nintendolife.com/news/2026/10/ubisofts-extreme-sports-playground-riders-republic-launches-on-switch-2-this-december",
+          "titre": "Ubisoft's Extreme Sports Playground 'Riders Republic' Launches On Switch 2 This December"
         },
         {
           "source": "Eurogamer",
@@ -34,32 +34,32 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ea-sports-fc-27-gets-a-pegi-16-rating-in-europe-because-of-l",
-      "titre": "EA Sports FC 27 gets a PEGI 16 rating in Europe because of loot boxes",
-      "url": "https://www.pcgamer.com/gaming-industry/ea-sports-fc-27-gets-a-pegi-16-rating-in-europe-because-of-loot-boxes/",
+      "id": "round-up-the-reviews-are-in-for-nintendo-switch-sports-resor",
+      "titre": "Round Up: The Reviews Are In For Nintendo Switch Sports Resort",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-are-in-for-nintendo-switch-sports-resort",
       "sources": [
-        "GamesIndustry.biz",
-        "PC Gamer",
-        "Rock Paper Shotgun"
+        "Eurogamer",
+        "Nintendo Life",
+        "VGC"
       ],
       "reprises": 3,
-      "heures": 2.6,
+      "heures": 13.5,
       "chaleur": 12,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/ea-sports-fc-27-gets-a-pegi-16-rating-in-europe-because-of-loot-boxes/",
-          "titre": "EA Sports FC 27 gets a PEGI 16 rating in Europe because of loot boxes"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-are-in-for-nintendo-switch-sports-resort",
+          "titre": "Round Up: The Reviews Are In For Nintendo Switch Sports Resort"
         },
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/games-with-loot-boxes-and-other-paid-random-items-re-rated-pegi-16-as-new-rules-come-into-force-hopefully-cutting-down-on-kids-gambling-somewhat",
-          "titre": "Games with loot boxes and other \"paid random items\" re-rated PEGI 16 as new rules come into force, hopefully cutting down on kids gambling somewhat"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/final-fantasy-resonance-review",
+          "titre": "Final Fantasy Resonance review"
         },
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/pegi-begins-moving-existing-digital-only-games-with-loot-boxes-up-to-a-16-rating",
-          "titre": "PEGI begins moving existing digital-only games with loot boxes up to a 16 rating"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/review/final-fantasy-resonance/",
+          "titre": "Final Fantasy Resonance Review: A nostalgic JRPG limited by its mobile origins"
         }
       ]
     },
@@ -72,7 +72,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.6,
+      "heures": 11.5,
       "chaleur": 11,
       "liens": [
         {
@@ -88,50 +88,50 @@ const VEILLE = {
       ]
     },
     {
-      "id": "moonlighter-dev-delays-steam-playtest-for-its-tower-defensev",
-      "titre": "Moonlighter dev delays Steam playtest for its \"Tower Defensevania\" ReVamp over concerns that AI copycats might clone it before launch",
-      "url": "https://www.eurogamer.net/moonlighter-dev-steam-playtest-revamp-ai-copycats",
+      "id": "cyberpunk-2077-edgerunners-2-free-update-2-5-arrives-this-we",
+      "titre": "Cyberpunk 2077: Edgerunners 2 Free Update (2.5) Arrives This Week",
+      "url": "https://www.nintendolife.com/news/2026/10/cyberpunk-2077-edgerunners-2-free-update-2-5-arrives-this-week",
       "sources": [
         "Eurogamer",
-        "Game Developer"
+        "Nintendo Life",
+        "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 28.7,
+      "reprises": 3,
+      "heures": 6.7,
       "chaleur": 10,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/moonlighter-dev-steam-playtest-revamp-ai-copycats",
-          "titre": "Moonlighter dev delays Steam playtest for its \"Tower Defensevania\" ReVamp over concerns that AI copycats might clone it before launch"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/cyberpunk-2077-edgerunners-2-free-update-2-5-arrives-this-week",
+          "titre": "Cyberpunk 2077: Edgerunners 2 Free Update (2.5) Arrives This Week"
         },
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning",
-          "titre": "Moonlighter developer delays public playtest of next game over concerns of AI cloning"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/of-course-a-new-edgerunners-series-means-a-new-cyberpunk-2077-patch/",
+          "titre": "Of course a new Edgerunners series means a new Cyberpunk 2077 patch"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/cyberpunk-2077-25-update-free-egerunners-2-release",
+          "titre": "Cyberpunk 2077 getting a substantial update to coincide with Edgerunners' Netflix Season 2 release"
         }
       ]
     },
     {
-      "id": "helldivers-2-swaps-over-to-easy-anti-cheat-with-developers-a",
-      "titre": "Helldivers 2 swaps over to Easy anti-cheat, with developers admitting Gameguard \"wasn't as effective as it could have been\"",
-      "url": "https://www.eurogamer.net/helldivers-2-easy-anti-cheat-switch-game-guard",
+      "id": "the-legend-of-zelda-ocarina-of-time-switch-2-estimated-file",
+      "titre": "The Legend Of Zelda: Ocarina Of Time Switch 2 Estimated File Size Revealed",
+      "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-estimated-file-size-revealed",
       "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 11.3,
+      "reprises": 1,
+      "heures": 4.0,
       "chaleur": 9,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/helldivers-2-easy-anti-cheat-switch-game-guard",
-          "titre": "Helldivers 2 swaps over to Easy anti-cheat, with developers admitting Gameguard \"wasn't as effective as it could have been\""
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/helldivers-2s-gameguard-cheat-policing-wasnt-as-effective-as-it-could-have-been-cue-a-switch-to-easy-anti-cheat-as-part-of-a-crackdown-on-cheat-mods",
-          "titre": "Helldivers 2's GameGuard cheat policing \"wasn't as effective as it could have been\", cue a switch to Easy Anti-Cheat as part of a crackdown on cheat mods"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-estimated-file-size-revealed",
+          "titre": "The Legend Of Zelda: Ocarina Of Time Switch 2 Estimated File Size Revealed"
         }
       ]
     },
@@ -144,7 +144,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 12.5,
+      "heures": 19.4,
       "chaleur": 9,
       "liens": [
         {
@@ -160,6 +160,132 @@ const VEILLE = {
       ]
     },
     {
+      "id": "all-aboard-denshattack-physical-edition-arriving-on-switch-2",
+      "titre": "All Aboard! Denshattack Physical Edition Arriving On Switch 2 In 2027",
+      "url": "https://www.nintendolife.com/news/2026/10/all-aboard-denshattack-physical-edition-arriving-on-switch-2-in-2027",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.7,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/all-aboard-denshattack-physical-edition-arriving-on-switch-2-in-2027",
+          "titre": "All Aboard! Denshattack Physical Edition Arriving On Switch 2 In 2027"
+        }
+      ]
+    },
+    {
+      "id": "helldivers-2-swaps-over-to-easy-anti-cheat-with-developers-a",
+      "titre": "Helldivers 2 swaps over to Easy anti-cheat, with developers admitting Gameguard \"wasn't as effective as it could have been\"",
+      "url": "https://www.eurogamer.net/helldivers-2-easy-anti-cheat-switch-game-guard",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 18.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/helldivers-2-easy-anti-cheat-switch-game-guard",
+          "titre": "Helldivers 2 swaps over to Easy anti-cheat, with developers admitting Gameguard \"wasn't as effective as it could have been\""
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/helldivers-2s-gameguard-cheat-policing-wasnt-as-effective-as-it-could-have-been-cue-a-switch-to-easy-anti-cheat-as-part-of-a-crackdown-on-cheat-mods",
+          "titre": "Helldivers 2's GameGuard cheat policing \"wasn't as effective as it could have been\", cue a switch to Easy Anti-Cheat as part of a crackdown on cheat mods"
+        }
+      ]
+    },
+    {
+      "id": "ea-sports-fc-27-gets-a-pegi-16-rating-in-europe-because-of-l",
+      "titre": "EA Sports FC 27 gets a PEGI 16 rating in Europe because of loot boxes",
+      "url": "https://www.pcgamer.com/gaming-industry/ea-sports-fc-27-gets-a-pegi-16-rating-in-europe-because-of-loot-boxes/",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 9.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/ea-sports-fc-27-gets-a-pegi-16-rating-in-europe-because-of-loot-boxes/",
+          "titre": "EA Sports FC 27 gets a PEGI 16 rating in Europe because of loot boxes"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/games-with-loot-boxes-and-other-paid-random-items-re-rated-pegi-16-as-new-rules-come-into-force-hopefully-cutting-down-on-kids-gambling-somewhat",
+          "titre": "Games with loot boxes and other \"paid random items\" re-rated PEGI 16 as new rules come into force, hopefully cutting down on kids gambling somewhat"
+        }
+      ]
+    },
+    {
+      "id": "ea-sports-is-officially-reviving-its-fight-night-boxing-seri",
+      "titre": "EA Sports is officially reviving its Fight Night boxing series",
+      "url": "https://www.videogameschronicle.com/news/ea-sports-is-officially-reviving-its-fight-night-boxing-series/",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 11.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/ea-sports-is-officially-reviving-its-fight-night-boxing-series/",
+          "titre": "EA Sports is officially reviving its Fight Night boxing series"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ea-boxing-series-fight-night-back-for-another-round-new-game-teased",
+          "titre": "EA Boxing Series Fight Night Back for Another Round, New Game Teased"
+        }
+      ]
+    },
+    {
+      "id": "moonlighter-dev-delays-steam-playtest-for-its-tower-defensev",
+      "titre": "Moonlighter dev delays Steam playtest for its \"Tower Defensevania\" ReVamp over concerns that AI copycats might clone it before launch",
+      "url": "https://www.eurogamer.net/moonlighter-dev-steam-playtest-revamp-ai-copycats",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 35.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/moonlighter-dev-steam-playtest-revamp-ai-copycats",
+          "titre": "Moonlighter dev delays Steam playtest for its \"Tower Defensevania\" ReVamp over concerns that AI copycats might clone it before launch"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2k26-collides-with-street-fighter-in-first-ever-collab-n",
+      "titre": "WWE 2K26 Collides With Street Fighter In \"First-Ever\" Collab Next Week",
+      "url": "https://www.nintendolife.com/news/2026/10/wwe-2k26-collides-with-street-fighter-in-first-ever-collab-next-week",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/wwe-2k26-collides-with-street-fighter-in-first-ever-collab-next-week",
+          "titre": "WWE 2K26 Collides With Street Fighter In \"First-Ever\" Collab Next Week"
+        }
+      ]
+    },
+    {
       "id": "xbox-to-slash-even-more-jobs-this-month-with-further-cuts-in",
       "titre": "Xbox to Slash Even More Jobs This Month, with Further Cuts in November and January",
       "url": "https://www.pushsquare.com/news/2026/10/xbox-to-slash-even-more-jobs-this-month-with-further-cuts-in-november-and-january",
@@ -167,8 +293,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.6,
-      "chaleur": 8,
+      "heures": 8.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -185,37 +311,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 8,
+      "heures": 10.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/the-studio-behind-life-is-strange-jusant-and-lost-records-bloom-and-rage-is-desperately-struggling-to-stay-afloat/",
           "titre": "The studio behind Life is Strange, Jusant, and Lost Records: Bloom & Rage is desperately struggling to stay afloat"
-        }
-      ]
-    },
-    {
-      "id": "ea-sports-is-officially-reviving-its-fight-night-boxing-seri",
-      "titre": "EA Sports is officially reviving its Fight Night boxing series",
-      "url": "https://www.videogameschronicle.com/news/ea-sports-is-officially-reviving-its-fight-night-boxing-series/",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 4.6,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/ea-sports-is-officially-reviving-its-fight-night-boxing-series/",
-          "titre": "EA Sports is officially reviving its Fight Night boxing series"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ea-boxing-series-fight-night-back-for-another-round-new-game-teased",
-          "titre": "EA Boxing Series Fight Night Back for Another Round, New Game Teased"
         }
       ]
     },
@@ -228,8 +330,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 5.9,
-      "chaleur": 7,
+      "heures": 12.8,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
@@ -251,37 +353,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
-      "chaleur": 7,
+      "heures": 13.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/third-person-shooter/helldivers-2-studio-warns-mods-may-break-as-it-switches-to-new-anti-cheat-and-the-negative-reviews-are-dropping-on-steam-like-hellbombs/",
           "titre": "Helldivers 2 studio warns mods may break as it switches to new anti-cheat, and the negative reviews are dropping on Steam like Hellbombs"
-        }
-      ]
-    },
-    {
-      "id": "cyberpunk-2077-ps5-patch-2-5-leaks-get-the-big-details-and-u",
-      "titre": "Cyberpunk 2077 PS5 Patch 2.5 Leaks, Get the Big Details and Updates Here",
-      "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-ps5-patch-2-5-leaks-get-the-big-details-and-updates-here",
-      "sources": [
-        "PC Gamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 9.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-ps5-patch-2-5-leaks-get-the-big-details-and-updates-here",
-          "titre": "Cyberpunk 2077 PS5 Patch 2.5 Leaks, Get the Big Details and Updates Here"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/of-course-a-new-edgerunners-series-means-a-new-cyberpunk-2077-patch/",
-          "titre": "Of course a new Edgerunners series means a new Cyberpunk 2077 patch"
         }
       ]
     },
@@ -294,8 +372,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 9.4,
-      "chaleur": 7,
+      "heures": 16.3,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
@@ -310,240 +388,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "surprise-aspyr-is-remastering-a-shrek-game",
-      "titre": "Surprise! Aspyr Is Remastering A Shrek Game",
-      "url": "https://www.nintendolife.com/news/2026/10/surprise-aspyr-is-remastering-a-shrek-game",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/surprise-aspyr-is-remastering-a-shrek-game",
-          "titre": "Surprise! Aspyr Is Remastering A Shrek Game"
-        }
-      ]
-    },
-    {
-      "id": "reel-out-garbage-from-a-flooded-planet-and-make-number-go-up",
-      "titre": "Reel out garbage from a flooded planet and make number go up as satisfyingly as you can in the incremental fishing game Selkie's Salvage&Co.",
-      "url": "https://www.rockpapershotgun.com/reel-out-garbage-from-a-flooded-planet-and-make-number-go-up-as-satisfyingly-as-you-can-in-the-incremental-fishing-game-selkies-salvageco",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/reel-out-garbage-from-a-flooded-planet-and-make-number-go-up-as-satisfyingly-as-you-can-in-the-incremental-fishing-game-selkies-salvageco",
-          "titre": "Reel out garbage from a flooded planet and make number go up as satisfyingly as you can in the incremental fishing game Selkie's Salvage&Co."
-        }
-      ]
-    },
-    {
-      "id": "if-you-can-t-show-your-game-to-the-world-without-fearing-it",
-      "titre": "'If you can’t show your game to the world without fearing it’ll be cloned, something’s broken' says Moonlighter studio on its canceled demo",
-      "url": "https://www.pcgamer.com/gaming-industry/if-you-cant-show-your-game-to-the-world-without-fearing-itll-be-cloned-somethings-broken-says-moonlighter-studio-on-its-canceled-demo/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/if-you-cant-show-your-game-to-the-world-without-fearing-itll-be-cloned-somethings-broken-says-moonlighter-studio-on-its-canceled-demo/",
-          "titre": "'If you can’t show your game to the world without fearing it’ll be cloned, something’s broken' says Moonlighter studio on its canceled demo"
-        }
-      ]
-    },
-    {
-      "id": "my-favorite-indie-roguelike-action-rpg-is-tempting-me-to-com",
-      "titre": "My favorite indie roguelike action RPG is tempting me to come back with a transformative new update inspired by Diablo seasons",
-      "url": "https://www.pcgamer.com/games/rpg/my-favorite-indie-roguelike-action-rpg-is-tempting-me-to-come-back-with-a-transformative-new-update-inspired-by-diablo-seasons/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/my-favorite-indie-roguelike-action-rpg-is-tempting-me-to-come-back-with-a-transformative-new-update-inspired-by-diablo-seasons/",
-          "titre": "My favorite indie roguelike action RPG is tempting me to come back with a transformative new update inspired by Diablo seasons"
-        }
-      ]
-    },
-    {
-      "id": "acclaimed-low-poly-horror-mouthwashing-spits-out-a-ps5-relea",
-      "titre": "Acclaimed Low-Poly Horror Mouthwashing Spits Out a PS5 Release Next Week",
-      "url": "https://www.pushsquare.com/news/2026/10/acclaimed-low-poly-horror-mouthwashing-spits-out-a-ps5-release-next-week",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/acclaimed-low-poly-horror-mouthwashing-spits-out-a-ps5-release-next-week",
-          "titre": "Acclaimed Low-Poly Horror Mouthwashing Spits Out a PS5 Release Next Week"
-        }
-      ]
-    },
-    {
-      "id": "after-talking-to-capcom-i-m-a-lot-more-optimistic-about-onim",
-      "titre": "After talking to Capcom, I'm a lot more optimistic about Onimusha 3 getting a remaster",
-      "url": "https://www.pcgamer.com/games/action/after-talking-to-capcom-im-a-lot-more-optimistic-about-onimusha-3-getting-a-remaster/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/after-talking-to-capcom-im-a-lot-more-optimistic-about-onimusha-3-getting-a-remaster/",
-          "titre": "After talking to Capcom, I'm a lot more optimistic about Onimusha 3 getting a remaster"
-        }
-      ]
-    },
-    {
-      "id": "i-played-20-cozy-game-demos-in-steam-next-fest-and-these-5-m",
-      "titre": "I played 20 cozy game demos in Steam Next Fest and these 5 made it onto my wishlist",
-      "url": "https://www.pcgamer.com/games/life-sim/i-played-20-cozy-game-demos-in-steam-next-fest-and-these-5-made-it-onto-my-wishlist/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/life-sim/i-played-20-cozy-game-demos-in-steam-next-fest-and-these-5-made-it-onto-my-wishlist/",
-          "titre": "I played 20 cozy game demos in Steam Next Fest and these 5 made it onto my wishlist"
-        }
-      ]
-    },
-    {
-      "id": "pixel-art-rpg-drova-is-getting-a-switch-2-sequel-next-year",
-      "titre": "Pixel Art RPG 'Drova' Is Getting A Switch 2 Sequel Next Year",
-      "url": "https://www.nintendolife.com/news/2026/10/pixel-art-rpg-drova-is-getting-a-switch-2-sequel-next-year",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 8.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/pixel-art-rpg-drova-is-getting-a-switch-2-sequel-next-year",
-          "titre": "Pixel Art RPG 'Drova' Is Getting A Switch 2 Sequel Next Year"
-        }
-      ]
-    },
-    {
-      "id": "ready-to-feel-old-the-switch-1-reveal-trailer-launched-a-who",
-      "titre": "Ready To Feel Old? The Switch 1 Reveal Trailer Launched A Whopping 10 Years Ago Today",
-      "url": "https://www.nintendolife.com/news/2026/10/ready-to-feel-old-the-switch-1-reveal-trailer-launched-a-whopping-10-years-ago-today",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 8.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/ready-to-feel-old-the-switch-1-reveal-trailer-launched-a-whopping-10-years-ago-today",
-          "titre": "Ready To Feel Old? The Switch 1 Reveal Trailer Launched A Whopping 10 Years Ago Today"
-        }
-      ]
-    },
-    {
-      "id": "a-new-playstation-promo-suggests-sony-s-bought-the-kena-ip-f",
-      "titre": "A New PlayStation Promo Suggests Sony's Bought the Kena IP from Ember Lab",
-      "url": "https://www.pushsquare.com/news/2026/10/a-new-playstation-promo-suggests-sonys-bought-the-kena-ip-from-ember-lab",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/a-new-playstation-promo-suggests-sonys-bought-the-kena-ip-from-ember-lab",
-          "titre": "A New PlayStation Promo Suggests Sony's Bought the Kena IP from Ember Lab"
-        }
-      ]
-    },
-    {
-      "id": "microsoft-won-t-like-this-open-source-project-to-get-game-pa",
-      "titre": "Microsoft won't like this open source project to get Game Pass working on SteamOS and Linux, but I think it's pretty neat",
-      "url": "https://www.pcgamer.com/software/microsoft-wont-like-this-open-source-project-to-get-game-pass-working-on-steamos-and-linux-but-i-think-its-pretty-neat/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/microsoft-wont-like-this-open-source-project-to-get-game-pass-working-on-steamos-and-linux-but-i-think-its-pretty-neat/",
-          "titre": "Microsoft won't like this open source project to get Game Pass working on SteamOS and Linux, but I think it's pretty neat"
-        }
-      ]
-    },
-    {
-      "id": "report-finds-that-94-of-studios-use-ai-but-more-than-half-sa",
-      "titre": "Report finds that 94% of studios use AI, but more than half say it isn’t deeply embedded into production",
-      "url": "https://www.videogameschronicle.com/news/report-finds-that-94-of-studios-use-ai-but-more-than-half-say-it-isnt-deeply-embedded-into-production/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/report-finds-that-94-of-studios-use-ai-but-more-than-half-say-it-isnt-deeply-embedded-into-production/",
-          "titre": "Report finds that 94% of studios use AI, but more than half say it isn’t deeply embedded into production"
-        }
-      ]
-    },
-    {
-      "id": "ps-store-must-copy-steam-if-pc-players-campaign-against-ai-c",
-      "titre": "PS Store Must Copy Steam If PC Players' Campaign Against AI Content Succeeds",
-      "url": "https://www.pushsquare.com/news/2026/10/ps-store-must-copy-steam-if-pc-players-campaign-against-ai-content-succeeds",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps-store-must-copy-steam-if-pc-players-campaign-against-ai-content-succeeds",
-          "titre": "PS Store Must Copy Steam If PC Players' Campaign Against AI Content Succeeds"
-        }
-      ]
-    },
-    {
       "id": "gta-6-is-so-detailed-no-single-rockstar-employee-knows-it-al",
       "titre": "GTA 6 is so detailed no single Rockstar employee knows it all - which is how we got shrinking horse testicles in Red Dead Redemption 2",
       "url": "https://www.eurogamer.net/red-dead-redemption-2-horse-testicles-staff-autonomy-gta-6",
@@ -551,7 +395,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 20.1,
       "chaleur": 6,
       "liens": [
         {
@@ -569,13 +413,121 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 21.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/sensor-tower-data-shows-the-yawning-gap-between-gta-6-and-everything-else",
           "titre": "Sensor Tower data shows the yawning gap between GTA 6 and everything else"
+        }
+      ]
+    },
+    {
+      "id": "i-played-20-cozy-game-demos-in-steam-next-fest-and-these-5-m",
+      "titre": "I played 20 cozy game demos in Steam Next Fest and these 5 made it onto my wishlist",
+      "url": "https://www.pcgamer.com/games/life-sim/i-played-20-cozy-game-demos-in-steam-next-fest-and-these-5-made-it-onto-my-wishlist/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 13.2,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/life-sim/i-played-20-cozy-game-demos-in-steam-next-fest-and-these-5-made-it-onto-my-wishlist/",
+          "titre": "I played 20 cozy game demos in Steam Next Fest and these 5 made it onto my wishlist"
+        }
+      ]
+    },
+    {
+      "id": "pixel-art-rpg-drova-is-getting-a-switch-2-sequel-next-year",
+      "titre": "Pixel Art RPG 'Drova' Is Getting A Switch 2 Sequel Next Year",
+      "url": "https://www.nintendolife.com/news/2026/10/pixel-art-rpg-drova-is-getting-a-switch-2-sequel-next-year",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 15.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/pixel-art-rpg-drova-is-getting-a-switch-2-sequel-next-year",
+          "titre": "Pixel Art RPG 'Drova' Is Getting A Switch 2 Sequel Next Year"
+        }
+      ]
+    },
+    {
+      "id": "ready-to-feel-old-the-switch-1-reveal-trailer-launched-a-who",
+      "titre": "Ready To Feel Old? The Switch 1 Reveal Trailer Launched A Whopping 10 Years Ago Today",
+      "url": "https://www.nintendolife.com/news/2026/10/ready-to-feel-old-the-switch-1-reveal-trailer-launched-a-whopping-10-years-ago-today",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 15.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/ready-to-feel-old-the-switch-1-reveal-trailer-launched-a-whopping-10-years-ago-today",
+          "titre": "Ready To Feel Old? The Switch 1 Reveal Trailer Launched A Whopping 10 Years Ago Today"
+        }
+      ]
+    },
+    {
+      "id": "a-new-playstation-promo-suggests-sony-s-bought-the-kena-ip-f",
+      "titre": "A New PlayStation Promo Suggests Sony's Bought the Kena IP from Ember Lab",
+      "url": "https://www.pushsquare.com/news/2026/10/a-new-playstation-promo-suggests-sonys-bought-the-kena-ip-from-ember-lab",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 16.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/a-new-playstation-promo-suggests-sonys-bought-the-kena-ip-from-ember-lab",
+          "titre": "A New PlayStation Promo Suggests Sony's Bought the Kena IP from Ember Lab"
+        }
+      ]
+    },
+    {
+      "id": "report-finds-that-94-of-studios-use-ai-but-more-than-half-sa",
+      "titre": "Report finds that 94% of studios use AI, but more than half say it isn’t deeply embedded into production",
+      "url": "https://www.videogameschronicle.com/news/report-finds-that-94-of-studios-use-ai-but-more-than-half-say-it-isnt-deeply-embedded-into-production/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 17.7,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/report-finds-that-94-of-studios-use-ai-but-more-than-half-say-it-isnt-deeply-embedded-into-production/",
+          "titre": "Report finds that 94% of studios use AI, but more than half say it isn’t deeply embedded into production"
+        }
+      ]
+    },
+    {
+      "id": "ps-store-must-copy-steam-if-pc-players-campaign-against-ai-c",
+      "titre": "PS Store Must Copy Steam If PC Players' Campaign Against AI Content Succeeds",
+      "url": "https://www.pushsquare.com/news/2026/10/ps-store-must-copy-steam-if-pc-players-campaign-against-ai-content-succeeds",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 18.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps-store-must-copy-steam-if-pc-players-campaign-against-ai-content-succeeds",
+          "titre": "PS Store Must Copy Steam If PC Players' Campaign Against AI Content Succeeds"
         }
       ]
     },
@@ -587,31 +539,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 20.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/fanaticals-latest-killer-bundle-lets-you-pick-up-30-steam-games-for-1-each/",
           "titre": "Fanatical’s latest Killer Bundle lets you pick up 30 Steam games for $1 each"
-        }
-      ]
-    },
-    {
-      "id": "new-zelda-ocarina-of-time-trailer-is-a-throwback-to-the-90s",
-      "titre": "New Zelda: Ocarina Of Time Trailer Is A Throwback To The '90s N64 Ads",
-      "url": "https://www.nintendolife.com/news/2026/10/new-zelda-ocarina-of-time-trailer-is-a-throwback-to-the-90s-n64-ads",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 13.8,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/new-zelda-ocarina-of-time-trailer-is-a-throwback-to-the-90s-n64-ads",
-          "titre": "New Zelda: Ocarina Of Time Trailer Is A Throwback To The '90s N64 Ads"
         }
       ]
     },
@@ -623,7 +557,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 22.5,
       "chaleur": 5,
       "liens": [
         {
@@ -634,74 +568,128 @@ const VEILLE = {
       ]
     },
     {
-      "id": "wow-what-a-view-shift-up-shows-off-stellar-blade-s-stunning",
-      "titre": "\"Wow, What A View\" - Shift Up Shows Off Stellar Blade's Stunning Photo Mode On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/wow-what-a-view-shift-up-shows-off-stellar-blades-stunning-photo-mode-on-switch-2",
+      "id": "in-this-age-of-pervasive-slop-maybe-we-should-be-grateful-fo",
+      "titre": "In this age of pervasive slop maybe we should be grateful for Shrek 2 Remastered",
+      "url": "https://www.pcgamer.com/games/action/in-this-age-of-pervasive-slop-maybe-we-should-be-grateful-for-shrek-2-remastered/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.6,
-      "chaleur": 5,
+      "heures": 5.3,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/wow-what-a-view-shift-up-shows-off-stellar-blades-stunning-photo-mode-on-switch-2",
-          "titre": "\"Wow, What A View\" - Shift Up Shows Off Stellar Blade's Stunning Photo Mode On Switch 2"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/in-this-age-of-pervasive-slop-maybe-we-should-be-grateful-for-shrek-2-remastered/",
+          "titre": "In this age of pervasive slop maybe we should be grateful for Shrek 2 Remastered"
         }
       ]
     },
     {
-      "id": "reminder-monster-hunter-wilds-switch-2-prologue-demo-now-ava",
-      "titre": "Reminder: Monster Hunter Wilds Switch 2 Prologue Demo Now Available",
-      "url": "https://www.nintendolife.com/news/2026/10/reminder-monster-hunter-wilds-switch-2-prologue-demo-now-available",
+      "id": "surprise-aspyr-is-remastering-a-shrek-game",
+      "titre": "Surprise! Aspyr Is Remastering A Shrek Game",
+      "url": "https://www.nintendolife.com/news/2026/10/surprise-aspyr-is-remastering-a-shrek-game",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.1,
-      "chaleur": 5,
+      "heures": 8.0,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/reminder-monster-hunter-wilds-switch-2-prologue-demo-now-available",
-          "titre": "Reminder: Monster Hunter Wilds Switch 2 Prologue Demo Now Available"
+          "url": "https://www.nintendolife.com/news/2026/10/surprise-aspyr-is-remastering-a-shrek-game",
+          "titre": "Surprise! Aspyr Is Remastering A Shrek Game"
         }
       ]
     },
     {
-      "id": "too-big-a-risk-moonlighter-devs-delay-new-game-s-demo-for-f",
-      "titre": "\"Too big a risk\": Moonlighter devs delay new game's demo for fear of genAI cloning, calling on platforms to \"keep strengthening protections for original work\"",
-      "url": "https://www.rockpapershotgun.com/too-big-a-risk-moonlighter-devs-delay-new-games-demo-for-fear-of-genai-cloning-calling-on-platforms-to-keep-strengthening-protections-for-original-work",
+      "id": "reel-out-garbage-from-a-flooded-planet-and-make-number-go-up",
+      "titre": "Reel out garbage from a flooded planet and make number go up as satisfyingly as you can in the incremental fishing game Selkie's Salvage&Co.",
+      "url": "https://www.rockpapershotgun.com/reel-out-garbage-from-a-flooded-planet-and-make-number-go-up-as-satisfyingly-as-you-can-in-the-incremental-fishing-game-selkies-salvageco",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 31.5,
-      "chaleur": 5,
+      "heures": 9.6,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/too-big-a-risk-moonlighter-devs-delay-new-games-demo-for-fear-of-genai-cloning-calling-on-platforms-to-keep-strengthening-protections-for-original-work",
-          "titre": "\"Too big a risk\": Moonlighter devs delay new game's demo for fear of genAI cloning, calling on platforms to \"keep strengthening protections for original work\""
+          "url": "https://www.rockpapershotgun.com/reel-out-garbage-from-a-flooded-planet-and-make-number-go-up-as-satisfyingly-as-you-can-in-the-incremental-fishing-game-selkies-salvageco",
+          "titre": "Reel out garbage from a flooded planet and make number go up as satisfyingly as you can in the incremental fishing game Selkie's Salvage&Co."
         }
       ]
     },
     {
-      "id": "playstation-founder-ken-kutaragi-says-discs-became-metaphor",
-      "titre": "PlayStation founder Ken Kutaragi says discs became \"metaphor for 'owning' games\", and that upset at their discontinuation is a \"mentality issue\"",
-      "url": "https://www.eurogamer.net/ken-kutaragi-playstation-discs",
+      "id": "if-you-can-t-show-your-game-to-the-world-without-fearing-it",
+      "titre": "'If you can’t show your game to the world without fearing it’ll be cloned, something’s broken' says Moonlighter studio on its canceled demo",
+      "url": "https://www.pcgamer.com/gaming-industry/if-you-cant-show-your-game-to-the-world-without-fearing-itll-be-cloned-somethings-broken-says-moonlighter-studio-on-its-canceled-demo/",
       "sources": [
-        "Eurogamer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 32.4,
-      "chaleur": 5,
+      "heures": 9.9,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ken-kutaragi-playstation-discs",
-          "titre": "PlayStation founder Ken Kutaragi says discs became \"metaphor for 'owning' games\", and that upset at their discontinuation is a \"mentality issue\""
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/if-you-cant-show-your-game-to-the-world-without-fearing-itll-be-cloned-somethings-broken-says-moonlighter-studio-on-its-canceled-demo/",
+          "titre": "'If you can’t show your game to the world without fearing it’ll be cloned, something’s broken' says Moonlighter studio on its canceled demo"
+        }
+      ]
+    },
+    {
+      "id": "my-favorite-indie-roguelike-action-rpg-is-tempting-me-to-com",
+      "titre": "My favorite indie roguelike action RPG is tempting me to come back with a transformative new update inspired by Diablo seasons",
+      "url": "https://www.pcgamer.com/games/rpg/my-favorite-indie-roguelike-action-rpg-is-tempting-me-to-come-back-with-a-transformative-new-update-inspired-by-diablo-seasons/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 10.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/my-favorite-indie-roguelike-action-rpg-is-tempting-me-to-come-back-with-a-transformative-new-update-inspired-by-diablo-seasons/",
+          "titre": "My favorite indie roguelike action RPG is tempting me to come back with a transformative new update inspired by Diablo seasons"
+        }
+      ]
+    },
+    {
+      "id": "acclaimed-low-poly-horror-mouthwashing-spits-out-a-ps5-relea",
+      "titre": "Acclaimed Low-Poly Horror Mouthwashing Spits Out a PS5 Release Next Week",
+      "url": "https://www.pushsquare.com/news/2026/10/acclaimed-low-poly-horror-mouthwashing-spits-out-a-ps5-release-next-week",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 10.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/acclaimed-low-poly-horror-mouthwashing-spits-out-a-ps5-release-next-week",
+          "titre": "Acclaimed Low-Poly Horror Mouthwashing Spits Out a PS5 Release Next Week"
+        }
+      ]
+    },
+    {
+      "id": "after-talking-to-capcom-i-m-a-lot-more-optimistic-about-onim",
+      "titre": "After talking to Capcom, I'm a lot more optimistic about Onimusha 3 getting a remaster",
+      "url": "https://www.pcgamer.com/games/action/after-talking-to-capcom-im-a-lot-more-optimistic-about-onimusha-3-getting-a-remaster/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 10.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/after-talking-to-capcom-im-a-lot-more-optimistic-about-onimusha-3-getting-a-remaster/",
+          "titre": "After talking to Capcom, I'm a lot more optimistic about Onimusha 3 getting a remaster"
         }
       ]
     },
@@ -713,7 +701,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -731,7 +719,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -749,8 +737,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.3,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -767,8 +755,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.6,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -785,8 +773,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -803,8 +791,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -821,8 +809,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.0,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -839,8 +827,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.1,
-      "chaleur": 4,
+      "heures": 14.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -857,8 +845,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.3,
-      "chaleur": 4,
+      "heures": 14.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -875,8 +863,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 4,
+      "heures": 14.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -893,8 +881,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 4,
+      "heures": 14.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -911,8 +899,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.8,
-      "chaleur": 4,
+      "heures": 14.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -929,8 +917,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
-      "chaleur": 4,
+      "heures": 15.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -947,8 +935,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 4,
+      "heures": 15.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -965,8 +953,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 4,
+      "heures": 15.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -983,8 +971,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 4,
+      "heures": 15.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1001,8 +989,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.6,
-      "chaleur": 4,
+      "heures": 15.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1019,8 +1007,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 4,
+      "heures": 15.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1037,8 +1025,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 4,
+      "heures": 16.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1055,13 +1043,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 4,
+      "heures": 16.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/graphics-cards/i-have-neither-the-budget-nor-the-inclination-for-a-crystal-encrusted-rtx-5090-but-galax-is-releasing-one-anyway/",
           "titre": "I have neither the budget nor the inclination for a crystal encrusted RTX 5090, but Galax is releasing one anyway"
+        }
+      ]
+    },
+    {
+      "id": "cyberpunk-2077-ps5-patch-2-5-leaks-get-the-big-details-and-u",
+      "titre": "Cyberpunk 2077 PS5 Patch 2.5 Leaks, Get the Big Details and Updates Here",
+      "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-ps5-patch-2-5-leaks-get-the-big-details-and-updates-here",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 16.2,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-ps5-patch-2-5-leaks-get-the-big-details-and-updates-here",
+          "titre": "Cyberpunk 2077 PS5 Patch 2.5 Leaks, Get the Big Details and Updates Here"
         }
       ]
     },
@@ -1073,8 +1079,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 4,
+      "heures": 16.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1091,8 +1097,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 17.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1109,8 +1115,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 17.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1127,8 +1133,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 18.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1145,7 +1151,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 19.0,
       "chaleur": 3,
       "liens": [
         {
