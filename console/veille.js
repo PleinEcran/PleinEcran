@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "20/10/2026 à 21h32",
+  "collecte": "21/10/2026 à 00h33",
   "seuil": 14,
   "sujets": [
     {
@@ -10,12 +10,11 @@ const VEILLE = {
       "sources": [
         "Eurogamer",
         "Nintendo Life",
-        "Push Square",
         "VGC"
       ],
-      "reprises": 4,
-      "heures": 3.5,
-      "chaleur": 18,
+      "reprises": 3,
+      "heures": 6.6,
+      "chaleur": 13,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -31,11 +30,36 @@ const VEILLE = {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/review/nintendo-switch-sports-resort/",
           "titre": "Nintendo Switch Sports Resort review: The most feature-packed Nintendo sports game yet"
+        }
+      ]
+    },
+    {
+      "id": "ea-sports-fc-27-gets-a-pegi-16-rating-in-europe-because-of-l",
+      "titre": "EA Sports FC 27 gets a PEGI 16 rating in Europe because of loot boxes",
+      "url": "https://www.pcgamer.com/gaming-industry/ea-sports-fc-27-gets-a-pegi-16-rating-in-europe-because-of-loot-boxes/",
+      "sources": [
+        "GamesIndustry.biz",
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 2.6,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/ea-sports-fc-27-gets-a-pegi-16-rating-in-europe-because-of-loot-boxes/",
+          "titre": "EA Sports FC 27 gets a PEGI 16 rating in Europe because of loot boxes"
         },
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/final-fantasy-resonance",
-          "titre": "Review: Final Fantasy Resonance (PS5) - Square's Series Returns to Its Roots to Fantastic Effect"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/games-with-loot-boxes-and-other-paid-random-items-re-rated-pegi-16-as-new-rules-come-into-force-hopefully-cutting-down-on-kids-gambling-somewhat",
+          "titre": "Games with loot boxes and other \"paid random items\" re-rated PEGI 16 as new rules come into force, hopefully cutting down on kids gambling somewhat"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/pegi-begins-moving-existing-digital-only-games-with-loot-boxes-up-to-a-16-rating",
+          "titre": "PEGI begins moving existing digital-only games with loot boxes up to a 16 rating"
         }
       ]
     },
@@ -48,8 +72,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.5,
-      "chaleur": 13,
+      "heures": 4.6,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Push Square",
@@ -64,30 +88,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-latest-game-event-to-fall-afoul-of-us-visa-rules-is-a-li",
-      "titre": "The latest game event to fall afoul of US visa rules is a live concert for horse girl racer Umamusume: Pretty Derby",
-      "url": "https://www.rockpapershotgun.com/the-latest-game-event-to-fall-afoul-of-us-visa-rules-is-a-live-concert-for-horse-girl-racer-umamusume-pretty-derby",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 9.5,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-latest-game-event-to-fall-afoul-of-us-visa-rules-is-a-live-concert-for-horse-girl-racer-umamusume-pretty-derby",
-          "titre": "The latest game event to fall afoul of US visa rules is a live concert for horse girl racer Umamusume: Pretty Derby"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/umamusume-pretty-derby-la-concert-cancelled-visa-issues",
-          "titre": "Umamusume: Pretty Derby Los Angeles concert cancelled last minute due to US visa issues, despite exploring \"every possible option\""
-        }
-      ]
-    },
-    {
       "id": "moonlighter-dev-delays-steam-playtest-for-its-tower-defensev",
       "titre": "Moonlighter dev delays Steam playtest for its \"Tower Defensevania\" ReVamp over concerns that AI copycats might clone it before launch",
       "url": "https://www.eurogamer.net/moonlighter-dev-steam-playtest-revamp-ai-copycats",
@@ -96,7 +96,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 2,
-      "heures": 25.6,
+      "heures": 28.7,
       "chaleur": 10,
       "liens": [
         {
@@ -112,6 +112,90 @@ const VEILLE = {
       ]
     },
     {
+      "id": "helldivers-2-swaps-over-to-easy-anti-cheat-with-developers-a",
+      "titre": "Helldivers 2 swaps over to Easy anti-cheat, with developers admitting Gameguard \"wasn't as effective as it could have been\"",
+      "url": "https://www.eurogamer.net/helldivers-2-easy-anti-cheat-switch-game-guard",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 11.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/helldivers-2-easy-anti-cheat-switch-game-guard",
+          "titre": "Helldivers 2 swaps over to Easy anti-cheat, with developers admitting Gameguard \"wasn't as effective as it could have been\""
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/helldivers-2s-gameguard-cheat-policing-wasnt-as-effective-as-it-could-have-been-cue-a-switch-to-easy-anti-cheat-as-part-of-a-crackdown-on-cheat-mods",
+          "titre": "Helldivers 2's GameGuard cheat policing \"wasn't as effective as it could have been\", cue a switch to Easy Anti-Cheat as part of a crackdown on cheat mods"
+        }
+      ]
+    },
+    {
+      "id": "the-latest-game-event-to-fall-afoul-of-us-visa-rules-is-a-li",
+      "titre": "The latest game event to fall afoul of US visa rules is a live concert for horse girl racer Umamusume: Pretty Derby",
+      "url": "https://www.rockpapershotgun.com/the-latest-game-event-to-fall-afoul-of-us-visa-rules-is-a-live-concert-for-horse-girl-racer-umamusume-pretty-derby",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 12.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-latest-game-event-to-fall-afoul-of-us-visa-rules-is-a-live-concert-for-horse-girl-racer-umamusume-pretty-derby",
+          "titre": "The latest game event to fall afoul of US visa rules is a live concert for horse girl racer Umamusume: Pretty Derby"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/umamusume-pretty-derby-la-concert-cancelled-visa-issues",
+          "titre": "Umamusume: Pretty Derby Los Angeles concert cancelled last minute due to US visa issues, despite exploring \"every possible option\""
+        }
+      ]
+    },
+    {
+      "id": "xbox-to-slash-even-more-jobs-this-month-with-further-cuts-in",
+      "titre": "Xbox to Slash Even More Jobs This Month, with Further Cuts in November and January",
+      "url": "https://www.pushsquare.com/news/2026/10/xbox-to-slash-even-more-jobs-this-month-with-further-cuts-in-november-and-january",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/xbox-to-slash-even-more-jobs-this-month-with-further-cuts-in-november-and-january",
+          "titre": "Xbox to Slash Even More Jobs This Month, with Further Cuts in November and January"
+        }
+      ]
+    },
+    {
+      "id": "the-studio-behind-life-is-strange-jusant-and-lost-records-bl",
+      "titre": "The studio behind Life is Strange, Jusant, and Lost Records: Bloom & Rage is desperately struggling to stay afloat",
+      "url": "https://www.pcgamer.com/gaming-industry/the-studio-behind-life-is-strange-jusant-and-lost-records-bloom-and-rage-is-desperately-struggling-to-stay-afloat/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.8,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/the-studio-behind-life-is-strange-jusant-and-lost-records-bloom-and-rage-is-desperately-struggling-to-stay-afloat/",
+          "titre": "The studio behind Life is Strange, Jusant, and Lost Records: Bloom & Rage is desperately struggling to stay afloat"
+        }
+      ]
+    },
+    {
       "id": "ea-sports-is-officially-reviving-its-fight-night-boxing-seri",
       "titre": "EA Sports is officially reviving its Fight Night boxing series",
       "url": "https://www.videogameschronicle.com/news/ea-sports-is-officially-reviving-its-fight-night-boxing-series/",
@@ -120,8 +204,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.6,
-      "chaleur": 9,
+      "heures": 4.6,
+      "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
@@ -144,8 +228,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 2.9,
-      "chaleur": 9,
+      "heures": 5.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Game Developer",
@@ -167,73 +251,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 9,
+      "heures": 6.2,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/third-person-shooter/helldivers-2-studio-warns-mods-may-break-as-it-switches-to-new-anti-cheat-and-the-negative-reviews-are-dropping-on-steam-like-hellbombs/",
           "titre": "Helldivers 2 studio warns mods may break as it switches to new anti-cheat, and the negative reviews are dropping on Steam like Hellbombs"
-        }
-      ]
-    },
-    {
-      "id": "helldivers-2-swaps-over-to-easy-anti-cheat-with-developers-a",
-      "titre": "Helldivers 2 swaps over to Easy anti-cheat, with developers admitting Gameguard \"wasn't as effective as it could have been\"",
-      "url": "https://www.eurogamer.net/helldivers-2-easy-anti-cheat-switch-game-guard",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 8.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/helldivers-2-easy-anti-cheat-switch-game-guard",
-          "titre": "Helldivers 2 swaps over to Easy anti-cheat, with developers admitting Gameguard \"wasn't as effective as it could have been\""
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/helldivers-2s-gameguard-cheat-policing-wasnt-as-effective-as-it-could-have-been-cue-a-switch-to-easy-anti-cheat-as-part-of-a-crackdown-on-cheat-mods",
-          "titre": "Helldivers 2's GameGuard cheat policing \"wasn't as effective as it could have been\", cue a switch to Easy Anti-Cheat as part of a crackdown on cheat mods"
-        }
-      ]
-    },
-    {
-      "id": "the-studio-behind-life-is-strange-jusant-and-lost-records-bl",
-      "titre": "The studio behind Life is Strange, Jusant, and Lost Records: Bloom & Rage is desperately struggling to stay afloat",
-      "url": "https://www.pcgamer.com/gaming-industry/the-studio-behind-life-is-strange-jusant-and-lost-records-bloom-and-rage-is-desperately-struggling-to-stay-afloat/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.8,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/the-studio-behind-life-is-strange-jusant-and-lost-records-bloom-and-rage-is-desperately-struggling-to-stay-afloat/",
-          "titre": "The studio behind Life is Strange, Jusant, and Lost Records: Bloom & Rage is desperately struggling to stay afloat"
-        }
-      ]
-    },
-    {
-      "id": "i-played-20-cozy-game-demos-in-steam-next-fest-and-these-5-m",
-      "titre": "I played 20 cozy game demos in Steam Next Fest and these 5 made it onto my wishlist",
-      "url": "https://www.pcgamer.com/games/life-sim/i-played-20-cozy-game-demos-in-steam-next-fest-and-these-5-made-it-onto-my-wishlist/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/life-sim/i-played-20-cozy-game-demos-in-steam-next-fest-and-these-5-made-it-onto-my-wishlist/",
-          "titre": "I played 20 cozy game demos in Steam Next Fest and these 5 made it onto my wishlist"
         }
       ]
     },
@@ -246,7 +270,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 6.3,
+      "heures": 9.3,
       "chaleur": 7,
       "liens": [
         {
@@ -270,7 +294,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 6.4,
+      "heures": 9.4,
       "chaleur": 7,
       "liens": [
         {
@@ -286,62 +310,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "11-ps-plus-extra-game-removals-for-november-2026-confirmed",
-      "titre": "11 PS Plus Extra Game Removals for November 2026 Confirmed",
-      "url": "https://www.pushsquare.com/news/2026/10/11-ps-plus-extra-game-removals-for-november-2026-confirmed",
+      "id": "surprise-aspyr-is-remastering-a-shrek-game",
+      "titre": "Surprise! Aspyr Is Remastering A Shrek Game",
+      "url": "https://www.nintendolife.com/news/2026/10/surprise-aspyr-is-remastering-a-shrek-game",
       "sources": [
-        "Push Square",
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/surprise-aspyr-is-remastering-a-shrek-game",
+          "titre": "Surprise! Aspyr Is Remastering A Shrek Game"
+        }
+      ]
+    },
+    {
+      "id": "reel-out-garbage-from-a-flooded-planet-and-make-number-go-up",
+      "titre": "Reel out garbage from a flooded planet and make number go up as satisfyingly as you can in the incremental fishing game Selkie's Salvage&Co.",
+      "url": "https://www.rockpapershotgun.com/reel-out-garbage-from-a-flooded-planet-and-make-number-go-up-as-satisfyingly-as-you-can-in-the-incremental-fishing-game-selkies-salvageco",
+      "sources": [
         "Rock Paper Shotgun"
       ],
-      "reprises": 2,
-      "heures": 7.5,
-      "chaleur": 7,
+      "reprises": 1,
+      "heures": 2.7,
+      "chaleur": 6,
       "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/11-ps-plus-extra-game-removals-for-november-2026-confirmed",
-          "titre": "11 PS Plus Extra Game Removals for November 2026 Confirmed"
-        },
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/crusader-kings-3s-merchant-republics-expansion-silk-and-silver-will-release-during-the-very-quiet-time-of-mid-november-2026",
-          "titre": "Crusader Kings 3's merchant republics expansion, Silk and Silver, will release during the very quiet time of mid-November 2026"
+          "url": "https://www.rockpapershotgun.com/reel-out-garbage-from-a-flooded-planet-and-make-number-go-up-as-satisfyingly-as-you-can-in-the-incremental-fishing-game-selkies-salvageco",
+          "titre": "Reel out garbage from a flooded planet and make number go up as satisfyingly as you can in the incremental fishing game Selkie's Salvage&Co."
         }
       ]
     },
     {
-      "id": "gta-6-is-so-detailed-no-single-rockstar-employee-knows-it-al",
-      "titre": "GTA 6 is so detailed no single Rockstar employee knows it all - which is how we got shrinking horse testicles in Red Dead Redemption 2",
-      "url": "https://www.eurogamer.net/red-dead-redemption-2-horse-testicles-staff-autonomy-gta-6",
+      "id": "if-you-can-t-show-your-game-to-the-world-without-fearing-it",
+      "titre": "'If you can’t show your game to the world without fearing it’ll be cloned, something’s broken' says Moonlighter studio on its canceled demo",
+      "url": "https://www.pcgamer.com/gaming-industry/if-you-cant-show-your-game-to-the-world-without-fearing-itll-be-cloned-somethings-broken-says-moonlighter-studio-on-its-canceled-demo/",
       "sources": [
-        "Eurogamer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 7,
+      "heures": 3.0,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/red-dead-redemption-2-horse-testicles-staff-autonomy-gta-6",
-          "titre": "GTA 6 is so detailed no single Rockstar employee knows it all - which is how we got shrinking horse testicles in Red Dead Redemption 2"
-        }
-      ]
-    },
-    {
-      "id": "sensor-tower-data-shows-the-yawning-gap-between-gta-6-and-ev",
-      "titre": "Sensor Tower data shows the yawning gap between GTA 6 and everything else",
-      "url": "https://www.gamesindustry.biz/sensor-tower-data-shows-the-yawning-gap-between-gta-6-and-everything-else",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/sensor-tower-data-shows-the-yawning-gap-between-gta-6-and-everything-else",
-          "titre": "Sensor Tower data shows the yawning gap between GTA 6 and everything else"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/if-you-cant-show-your-game-to-the-world-without-fearing-itll-be-cloned-somethings-broken-says-moonlighter-studio-on-its-canceled-demo/",
+          "titre": "'If you can’t show your game to the world without fearing it’ll be cloned, something’s broken' says Moonlighter studio on its canceled demo"
         }
       ]
     },
@@ -353,7 +371,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
@@ -371,7 +389,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
@@ -389,7 +407,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
@@ -400,128 +418,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-have-seen-the-future-of-sports-games-and-it-is-called-just",
-      "titre": "I have seen the future of sports games and it is called just volleyball",
-      "url": "https://www.rockpapershotgun.com/i-have-seen-the-future-of-sports-games-and-it-is-called-just-volleyball",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 1.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-have-seen-the-future-of-sports-games-and-it-is-called-just-volleyball",
-          "titre": "I have seen the future of sports games and it is called just volleyball"
-        }
-      ]
-    },
-    {
-      "id": "shrek-2-remastered-takes-ps5-to-a-nostalgic-era-of-gaming-th",
-      "titre": "Shrek 2 Remastered Takes PS5 to a 'Nostalgic Era of Gaming' This November",
-      "url": "https://www.pushsquare.com/news/2026/10/shrek-2-remastered-takes-ps5-to-a-nostalgic-era-of-gaming-this-november",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/shrek-2-remastered-takes-ps5-to-a-nostalgic-era-of-gaming-this-november",
-          "titre": "Shrek 2 Remastered Takes PS5 to a 'Nostalgic Era of Gaming' This November"
-        }
-      ]
-    },
-    {
-      "id": "dig-through-an-infested-planet-with-your-giant-drill-city-an",
-      "titre": "Dig through an infested planet with your giant drill-city and try not to die while you do it in the roguelite city-builder CitaDrill",
-      "url": "https://www.rockpapershotgun.com/dig-through-an-infested-planet-with-your-giant-drill-city-and-try-not-to-die-while-you-do-it-in-the-roguelite-city-builder-citadrill",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/dig-through-an-infested-planet-with-your-giant-drill-city-and-try-not-to-die-while-you-do-it-in-the-roguelite-city-builder-citadrill",
-          "titre": "Dig through an infested planet with your giant drill-city and try not to die while you do it in the roguelite city-builder CitaDrill"
-        }
-      ]
-    },
-    {
-      "id": "ps-plus-discounts-announced-for-the-wolf-among-us-remastered",
-      "titre": "PS Plus Discounts Announced for The Wolf Among Us Remastered PS5",
-      "url": "https://www.pushsquare.com/news/2026/10/ps-plus-discounts-announced-for-the-wolf-among-us-remastered-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps-plus-discounts-announced-for-the-wolf-among-us-remastered-ps5",
-          "titre": "PS Plus Discounts Announced for The Wolf Among Us Remastered PS5"
-        }
-      ]
-    },
-    {
-      "id": "founder-of-bankrupt-samson-studio-mulls-how-to-use-ai-for-hi",
-      "titre": "Founder of bankrupt Samson studio mulls how to use AI for his next attempt: 'Cutting corners in game development has a habit of coming back to bite you in the ass'",
-      "url": "https://www.pcgamer.com/gaming-industry/founder-of-bankrupt-samson-studio-mulls-how-to-use-ai-for-his-next-attempt-cutting-corners-in-game-development-has-a-habit-of-coming-back-to-bite-you-in-the-ass/",
+      "id": "i-played-20-cozy-game-demos-in-steam-next-fest-and-these-5-m",
+      "titre": "I played 20 cozy game demos in Steam Next Fest and these 5 made it onto my wishlist",
+      "url": "https://www.pcgamer.com/games/life-sim/i-played-20-cozy-game-demos-in-steam-next-fest-and-these-5-made-it-onto-my-wishlist/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.8,
+      "heures": 6.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/founder-of-bankrupt-samson-studio-mulls-how-to-use-ai-for-his-next-attempt-cutting-corners-in-game-development-has-a-habit-of-coming-back-to-bite-you-in-the-ass/",
-          "titre": "Founder of bankrupt Samson studio mulls how to use AI for his next attempt: 'Cutting corners in game development has a habit of coming back to bite you in the ass'"
-        }
-      ]
-    },
-    {
-      "id": "jrpg-villion-code-adds-to-the-insanity-of-ps5-s-january-rele",
-      "titre": "JRPG Villion: Code Adds to the Insanity of PS5's January Release Schedule",
-      "url": "https://www.pushsquare.com/news/2026/10/jrpg-villion-code-adds-to-the-insanity-of-ps5s-january-release-schedule",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/jrpg-villion-code-adds-to-the-insanity-of-ps5s-january-release-schedule",
-          "titre": "JRPG Villion: Code Adds to the Insanity of PS5's January Release Schedule"
-        }
-      ]
-    },
-    {
-      "id": "i-know-you-probably-don-t-have-mushroom-in-your-backlog-but",
-      "titre": "I know you probably don't have mushroom in your backlog, but fungus looter shooter Mycopunk is now out in 1.0 and looks like the opposite of a shiitake time",
-      "url": "https://www.rockpapershotgun.com/i-know-you-probably-dont-have-mushroom-in-your-backlog-but-fungus-looter-shooter-mycopunk-is-now-out-in-10-and-looks-like-the-opposite-of-a-shiitake-time",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-know-you-probably-dont-have-mushroom-in-your-backlog-but-fungus-looter-shooter-mycopunk-is-now-out-in-10-and-looks-like-the-opposite-of-a-shiitake-time",
-          "titre": "I know you probably don't have mushroom in your backlog, but fungus looter shooter Mycopunk is now out in 1.0 and looks like the opposite of a shiitake time"
+          "url": "https://www.pcgamer.com/games/life-sim/i-played-20-cozy-game-demos-in-steam-next-fest-and-these-5-made-it-onto-my-wishlist/",
+          "titre": "I played 20 cozy game demos in Steam Next Fest and these 5 made it onto my wishlist"
         }
       ]
     },
@@ -533,7 +443,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 8.1,
       "chaleur": 6,
       "liens": [
         {
@@ -551,7 +461,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 8.6,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +479,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 9.1,
       "chaleur": 6,
       "liens": [
         {
@@ -587,7 +497,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 9.8,
       "chaleur": 6,
       "liens": [
         {
@@ -605,31 +515,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 10.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/report-finds-that-94-of-studios-use-ai-but-more-than-half-say-it-isnt-deeply-embedded-into-production/",
           "titre": "Report finds that 94% of studios use AI, but more than half say it isn’t deeply embedded into production"
-        }
-      ]
-    },
-    {
-      "id": "i-m-not-sure-if-the-steam-frame-hits-any-corners-in-this-bou",
-      "titre": "I'm not sure if the Steam Frame hits any corners in this bouncing screensaver, but maybe if I watch long enough the headset will come down in price",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/im-not-sure-if-the-steam-frame-hits-any-corners-in-this-bouncing-screensaver-but-maybe-if-i-watch-long-enough-the-headset-will-come-down-in-price/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/im-not-sure-if-the-steam-frame-hits-any-corners-in-this-bouncing-screensaver-but-maybe-if-i-watch-long-enough-the-headset-will-come-down-in-price/",
-          "titre": "I'm not sure if the Steam Frame hits any corners in this bouncing screensaver, but maybe if I watch long enough the headset will come down in price"
         }
       ]
     },
@@ -641,7 +533,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 11.1,
       "chaleur": 6,
       "liens": [
         {
@@ -652,20 +544,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "amnesia-the-dark-descent-s-co-founder-explained-the-the-dyna",
-      "titre": "Amnesia: The Dark Descent's co-founder explained the 'the dynamic of Steam' to Red Barrels after Outlast's sales slowed down",
-      "url": "https://www.pcgamer.com/games/horror/amnesia-the-dark-descents-co-founder-explained-the-the-dynamic-of-steam-to-red-barrels-after-outlasts-sales-slowed-down/",
+      "id": "gta-6-is-so-detailed-no-single-rockstar-employee-knows-it-al",
+      "titre": "GTA 6 is so detailed no single Rockstar employee knows it all - which is how we got shrinking horse testicles in Red Dead Redemption 2",
+      "url": "https://www.eurogamer.net/red-dead-redemption-2-horse-testicles-staff-autonomy-gta-6",
       "sources": [
-        "PC Gamer"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
+      "heures": 13.2,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/amnesia-the-dark-descents-co-founder-explained-the-the-dynamic-of-steam-to-red-barrels-after-outlasts-sales-slowed-down/",
-          "titre": "Amnesia: The Dark Descent's co-founder explained the 'the dynamic of Steam' to Red Barrels after Outlast's sales slowed down"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/red-dead-redemption-2-horse-testicles-staff-autonomy-gta-6",
+          "titre": "GTA 6 is so detailed no single Rockstar employee knows it all - which is how we got shrinking horse testicles in Red Dead Redemption 2"
+        }
+      ]
+    },
+    {
+      "id": "sensor-tower-data-shows-the-yawning-gap-between-gta-6-and-ev",
+      "titre": "Sensor Tower data shows the yawning gap between GTA 6 and everything else",
+      "url": "https://www.gamesindustry.biz/sensor-tower-data-shows-the-yawning-gap-between-gta-6-and-everything-else",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 14.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/sensor-tower-data-shows-the-yawning-gap-between-gta-6-and-everything-else",
+          "titre": "Sensor Tower data shows the yawning gap between GTA 6 and everything else"
         }
       ]
     },
@@ -677,8 +587,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 6,
+      "heures": 13.5,
+      "chaleur": 5,
       "liens": [
         {
           "source": "VGC",
@@ -695,31 +605,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 6,
+      "heures": 13.8,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/new-zelda-ocarina-of-time-trailer-is-a-throwback-to-the-90s-n64-ads",
           "titre": "New Zelda: Ocarina Of Time Trailer Is A Throwback To The '90s N64 Ads"
-        }
-      ]
-    },
-    {
-      "id": "activision-qa-united-cwa-union-vote-to-authorise-strike-clai",
-      "titre": "Activision QA United-CWA union vote to authorise strike, claims publisher has \"failed to bargain in good faith over key issues\"",
-      "url": "https://www.gamesindustry.biz/activision-qa-united-cwa-union-vote-to-authorise-strike-claims-publisher-has-failed-to-bargain-in-good-faith-over-key-issues",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/activision-qa-united-cwa-union-vote-to-authorise-strike-claims-publisher-has-failed-to-bargain-in-good-faith-over-key-issues",
-          "titre": "Activision QA United-CWA union vote to authorise strike, claims publisher has \"failed to bargain in good faith over key issues\""
         }
       ]
     },
@@ -731,7 +623,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 15.6,
       "chaleur": 5,
       "liens": [
         {
@@ -749,7 +641,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 18.6,
       "chaleur": 5,
       "liens": [
         {
@@ -767,7 +659,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.0,
+      "heures": 24.1,
       "chaleur": 5,
       "liens": [
         {
@@ -785,7 +677,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.5,
+      "heures": 31.5,
       "chaleur": 5,
       "liens": [
         {
@@ -803,13 +695,139 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 32.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/ken-kutaragi-playstation-discs",
           "titre": "PlayStation founder Ken Kutaragi says discs became \"metaphor for 'owning' games\", and that upset at their discontinuation is a \"mentality issue\""
+        }
+      ]
+    },
+    {
+      "id": "i-have-seen-the-future-of-sports-games-and-it-is-called-just",
+      "titre": "I have seen the future of sports games and it is called just volleyball",
+      "url": "https://www.rockpapershotgun.com/i-have-seen-the-future-of-sports-games-and-it-is-called-just-volleyball",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/i-have-seen-the-future-of-sports-games-and-it-is-called-just-volleyball",
+          "titre": "I have seen the future of sports games and it is called just volleyball"
+        }
+      ]
+    },
+    {
+      "id": "shrek-2-remastered-takes-ps5-to-a-nostalgic-era-of-gaming-th",
+      "titre": "Shrek 2 Remastered Takes PS5 to a 'Nostalgic Era of Gaming' This November",
+      "url": "https://www.pushsquare.com/news/2026/10/shrek-2-remastered-takes-ps5-to-a-nostalgic-era-of-gaming-this-november",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/shrek-2-remastered-takes-ps5-to-a-nostalgic-era-of-gaming-this-november",
+          "titre": "Shrek 2 Remastered Takes PS5 to a 'Nostalgic Era of Gaming' This November"
+        }
+      ]
+    },
+    {
+      "id": "dig-through-an-infested-planet-with-your-giant-drill-city-an",
+      "titre": "Dig through an infested planet with your giant drill-city and try not to die while you do it in the roguelite city-builder CitaDrill",
+      "url": "https://www.rockpapershotgun.com/dig-through-an-infested-planet-with-your-giant-drill-city-and-try-not-to-die-while-you-do-it-in-the-roguelite-city-builder-citadrill",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/dig-through-an-infested-planet-with-your-giant-drill-city-and-try-not-to-die-while-you-do-it-in-the-roguelite-city-builder-citadrill",
+          "titre": "Dig through an infested planet with your giant drill-city and try not to die while you do it in the roguelite city-builder CitaDrill"
+        }
+      ]
+    },
+    {
+      "id": "ps-plus-discounts-announced-for-the-wolf-among-us-remastered",
+      "titre": "PS Plus Discounts Announced for The Wolf Among Us Remastered PS5",
+      "url": "https://www.pushsquare.com/news/2026/10/ps-plus-discounts-announced-for-the-wolf-among-us-remastered-ps5",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps-plus-discounts-announced-for-the-wolf-among-us-remastered-ps5",
+          "titre": "PS Plus Discounts Announced for The Wolf Among Us Remastered PS5"
+        }
+      ]
+    },
+    {
+      "id": "founder-of-bankrupt-samson-studio-mulls-how-to-use-ai-for-hi",
+      "titre": "Founder of bankrupt Samson studio mulls how to use AI for his next attempt: 'Cutting corners in game development has a habit of coming back to bite you in the ass'",
+      "url": "https://www.pcgamer.com/gaming-industry/founder-of-bankrupt-samson-studio-mulls-how-to-use-ai-for-his-next-attempt-cutting-corners-in-game-development-has-a-habit-of-coming-back-to-bite-you-in-the-ass/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/founder-of-bankrupt-samson-studio-mulls-how-to-use-ai-for-his-next-attempt-cutting-corners-in-game-development-has-a-habit-of-coming-back-to-bite-you-in-the-ass/",
+          "titre": "Founder of bankrupt Samson studio mulls how to use AI for his next attempt: 'Cutting corners in game development has a habit of coming back to bite you in the ass'"
+        }
+      ]
+    },
+    {
+      "id": "jrpg-villion-code-adds-to-the-insanity-of-ps5-s-january-rele",
+      "titre": "JRPG Villion: Code Adds to the Insanity of PS5's January Release Schedule",
+      "url": "https://www.pushsquare.com/news/2026/10/jrpg-villion-code-adds-to-the-insanity-of-ps5s-january-release-schedule",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/jrpg-villion-code-adds-to-the-insanity-of-ps5s-january-release-schedule",
+          "titre": "JRPG Villion: Code Adds to the Insanity of PS5's January Release Schedule"
+        }
+      ]
+    },
+    {
+      "id": "i-know-you-probably-don-t-have-mushroom-in-your-backlog-but",
+      "titre": "I know you probably don't have mushroom in your backlog, but fungus looter shooter Mycopunk is now out in 1.0 and looks like the opposite of a shiitake time",
+      "url": "https://www.rockpapershotgun.com/i-know-you-probably-dont-have-mushroom-in-your-backlog-but-fungus-looter-shooter-mycopunk-is-now-out-in-10-and-looks-like-the-opposite-of-a-shiitake-time",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 7.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/i-know-you-probably-dont-have-mushroom-in-your-backlog-but-fungus-looter-shooter-mycopunk-is-now-out-in-10-and-looks-like-the-opposite-of-a-shiitake-time",
+          "titre": "I know you probably don't have mushroom in your backlog, but fungus looter shooter Mycopunk is now out in 1.0 and looks like the opposite of a shiitake time"
         }
       ]
     },
@@ -821,7 +839,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 7.1,
       "chaleur": 4,
       "liens": [
         {
@@ -839,7 +857,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 7.3,
       "chaleur": 4,
       "liens": [
         {
@@ -857,7 +875,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -875,7 +893,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -893,7 +911,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -911,7 +929,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -929,7 +947,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -947,7 +965,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -965,7 +983,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 8.5,
       "chaleur": 4,
       "liens": [
         {
@@ -983,7 +1001,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1001,7 +1019,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1019,7 +1037,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1037,7 +1055,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1055,31 +1073,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/roguelike/i-accidentally-severed-my-finger-with-a-butter-knife-as-i-panicked-in-a-messed-up-game-of-five-finger-fillet/",
           "titre": "I accidentally severed my finger with a butter knife as I panicked in a messed-up game of Five Finger Fillet"
-        }
-      ]
-    },
-    {
-      "id": "games-with-loot-boxes-and-other-paid-random-items-re-rated-p",
-      "titre": "Games with loot boxes and other \"paid random items\" re-rated PEGI 16 as new rules come into force, hopefully cutting down on kids gambling somewhat",
-      "url": "https://www.rockpapershotgun.com/games-with-loot-boxes-and-other-paid-random-items-re-rated-pegi-16-as-new-rules-come-into-force-hopefully-cutting-down-on-kids-gambling-somewhat",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 6.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/games-with-loot-boxes-and-other-paid-random-items-re-rated-pegi-16-as-new-rules-come-into-force-hopefully-cutting-down-on-kids-gambling-somewhat",
-          "titre": "Games with loot boxes and other \"paid random items\" re-rated PEGI 16 as new rules come into force, hopefully cutting down on kids gambling somewhat"
         }
       ]
     },
@@ -1091,13 +1091,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/mortal-shell-2-gets-even-better-in-big-free-content-patch-live-now-on-ps5",
           "titre": "Mortal Shell 2 Gets Even Better in Big Free Content Patch, Live Now on PS5"
+        }
+      ]
+    },
+    {
+      "id": "11-ps-plus-extra-game-removals-for-november-2026-confirmed",
+      "titre": "11 PS Plus Extra Game Removals for November 2026 Confirmed",
+      "url": "https://www.pushsquare.com/news/2026/10/11-ps-plus-extra-game-removals-for-november-2026-confirmed",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 10.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/11-ps-plus-extra-game-removals-for-november-2026-confirmed",
+          "titre": "11 PS Plus Extra Game Removals for November 2026 Confirmed"
         }
       ]
     },
@@ -1109,7 +1127,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1127,8 +1145,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.0,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1136,27 +1154,7 @@ const VEILLE = {
           "titre": "\"Players want to engage with brands, not just consume them\" – Mattel on its new Game Studios arm, why it's releasing on Roblox, and what it learnt from NetEase"
         }
       ]
-    },
-    {
-      "id": "cod-black-ops-1-and-2-dev-says-it-s-hard-to-watch-the-new-po",
-      "titre": "COD Black Ops 1 and 2 dev says it’s ‘hard to watch’ the new ports selling well while ‘the actual creators don’t see a dime’",
-      "url": "https://www.videogameschronicle.com/news/cod-black-ops-1-and-2-dev-says-its-hard-to-watch-the-new-ports-selling-well-while-the-actual-creators-dont-see-a-dime/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/cod-black-ops-1-and-2-dev-says-its-hard-to-watch-the-new-ports-selling-well-while-the-actual-creators-dont-see-a-dime/",
-          "titre": "COD Black Ops 1 and 2 dev says it’s ‘hard to watch’ the new ports selling well while ‘the actual creators don’t see a dime’"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "Round Up: The Reviews Are In For Nintendo Switch Sports Resort"
-  ]
+  "alertes": []
 };
